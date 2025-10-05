@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 
 > New era songs of empowerment and pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,414 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,434 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 26 | [Still In America](https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Church Clothes 4](https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny) | 3:21 |
 | 27 | [ALL EYES ON ME](https://open.spotify.com/track/6NxpWAcnqCE6J9pVyLZLeQ) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [GHETTO GODS](https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v) | 4:00 |
 | 28 | [Ultra Black](https://open.spotify.com/track/2FYxTPKpCizmrHnvBI1r0K) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Ultra Black](https://open.spotify.com/album/0v216tN7nYI6TmDu4s7c3h) | 3:18 |
-| 29 | [Fruits Of The Spirit](https://open.spotify.com/track/2U5c6C6A3yg6rGUpnhwHfc) | [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [A Written Testimony](https://open.spotify.com/album/0ZJt4dCoI19u71k37E1nQu) | 1:34 |
+| 29 | [Fruits Of The Spirit](https://open.spotify.com/track/2U5c6C6A3yg6rGUpnhwHfc) | [J A Y E L E C T R O N I C A](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [A Written Testimony](https://open.spotify.com/album/0ZJt4dCoI19u71k37E1nQu) | 1:34 |
 | 30 | [Let Go](https://open.spotify.com/track/1O2wgYfOdpcoWnZbdbrpMh) | [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Let Go](https://open.spotify.com/album/335MHHwHmVBMmaluUJdysT) | 4:51 |
 | 31 | [I Can't Breathe](https://open.spotify.com/track/4CPszpSnlbgnQLIQYyzIR2) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Can't Breathe](https://open.spotify.com/album/2izdMqMVUz0VSg2jTZIdU5) | 4:47 |
 | 32 | [Lockdown](https://open.spotify.com/track/5oZps6mYqU5s7A4WjUZggJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Lockdown](https://open.spotify.com/album/7x8QTmOI3zN1V5xOq3Jko5) | 3:32 |

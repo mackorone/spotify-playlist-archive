@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating the 40th anniversary of The Judd's album \"Why Not Me\" on 80s Country!",
-  "num_followers": 703499,
+  "num_followers": 703668,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Country Club",
-        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Country Club",
-      "url": "https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Guitar Town",
         "url": "https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 155266,
       "name": "Guitar Town",
       "url": "https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Country Club",
+        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Country Club",
+      "url": "https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
+        "name": "Guitars, Cadillacs, Etc., Etc.",
+        "url": "https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "duration_ms": 185239,
+      "name": "Guitars, Cadillacs",
+      "url": "https://open.spotify.com/track/3HtCJiLV8GH87AViMtUKhO"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
         "name": "Won't Be Blue Anymore",
         "url": "https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 292626,
       "name": "Everything That Glitters (Is Not Gold)",
       "url": "https://open.spotify.com/track/6NaQDBNUP6LcsZklHizAki"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Are the Good Times Really Over (I Wish a Buck Was Still Silver)",
-      "url": "https://open.spotify.com/track/7tSZJ9iI3634Sqtd6Uvl49"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -915,18 +915,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Guitars, Cadillacs, Etc., Etc.",
-        "url": "https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO"
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
       "artists": [
         {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 185239,
-      "name": "Guitars, Cadillacs",
-      "url": "https://open.spotify.com/track/3HtCJiLV8GH87AViMtUKhO"
+      "duration_ms": 253293,
+      "name": "Are the Good Times Really Over (I Wish a Buck Was Still Silver)",
+      "url": "https://open.spotify.com/track/7tSZJ9iI3634Sqtd6Uvl49"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "Big City",
-      "url": "https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Ultimate Alabama 20 # 1 Hits",
         "url": "https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 203240,
       "name": "If You're Gonna Play in Texas (You Gotta Have a Fiddle in the Band)",
       "url": "https://open.spotify.com/track/225W9qCk2o51QyFZiEVDW9"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
+      },
+      "artists": [
+        {
+          "name": "Keith Whitley",
+          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
+        }
+      ],
+      "duration_ms": 222493,
+      "name": "When You Say Nothing at All",
+      "url": "https://open.spotify.com/track/2lCGAGpqgQIolNfpnycIZk"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo"
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
       "artists": [
         {
-          "name": "Keith Whitley",
-          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 222493,
-      "name": "When You Say Nothing at All",
-      "url": "https://open.spotify.com/track/2lCGAGpqgQIolNfpnycIZk"
+      "duration_ms": 179333,
+      "name": "Big City",
+      "url": "https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1268,9 +1268,9 @@
           "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 203600,
-      "name": "Twinkle, Twinkle Lucky Star",
-      "url": "https://open.spotify.com/track/5lxDdFXillBqYvKe9gsYT1"
+      "duration_ms": 181426,
+      "name": "That's the Way Love Goes",
+      "url": "https://open.spotify.com/track/29ZJSsfmcSJcShl44iXuP1"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Best Of Eddy Raven",
-        "url": "https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R"
-      },
-      "artists": [
-        {
-          "name": "Eddy Raven",
-          "url": "https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK"
-        }
-      ],
-      "duration_ms": 146466,
-      "name": "I Got Mexico",
-      "url": "https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Guitars, Cadillacs, Etc., Etc.",
         "url": "https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 167426,
       "name": "Honky Tonk Man",
       "url": "https://open.spotify.com/track/3Hbm5luuxJheCKJheYAVbZ"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Best Of Eddy Raven",
+        "url": "https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R"
+      },
+      "artists": [
+        {
+          "name": "Eddy Raven",
+          "url": "https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK"
+        }
+      ],
+      "duration_ms": 146466,
+      "name": "I Got Mexico",
+      "url": "https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Conway Twitty",
-        "url": "https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 170266,
-      "name": "Tight Fittin' Jeans",
-      "url": "https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "The First Of A Million Kisses",
         "url": "https://open.spotify.com/album/6va9WpXLiBCPS86QWKgOFi"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 216573,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/2X90tKH59XlulLjbT4vci1"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Conway Twitty",
+        "url": "https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 170266,
+      "name": "Tight Fittin' Jeans",
+      "url": "https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Big Dreams In A Small Town",
-        "url": "https://open.spotify.com/album/5gY4mK9vwSYGcouC8u6oIz"
-      },
-      "artists": [
-        {
-          "name": "Restless Heart",
-          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "The Bluest Eyes In Texas",
-      "url": "https://open.spotify.com/track/1XUiXn0r5o9EDS6BhAYdIA"
-    },
-    {
-      "added_at": "2024-10-14 21:15:40",
-      "album": {
         "name": "Still The Same Ole Me",
         "url": "https://open.spotify.com/album/37SDFDUGI4DBZt1YssNSNE"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 170733,
       "name": "Same Ole Me",
       "url": "https://open.spotify.com/track/4yXvztnOOlSspO4W3MIsdd"
+    },
+    {
+      "added_at": "2024-10-14 21:15:40",
+      "album": {
+        "name": "Big Dreams In A Small Town",
+        "url": "https://open.spotify.com/album/5gY4mK9vwSYGcouC8u6oIz"
+      },
+      "artists": [
+        {
+          "name": "Restless Heart",
+          "url": "https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "The Bluest Eyes In Texas",
+      "url": "https://open.spotify.com/track/1XUiXn0r5o9EDS6BhAYdIA"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -2011,18 +2011,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "Cheat the Night",
-        "url": "https://open.spotify.com/album/6ZMLxQUzTCjKYB1IVhAgLM"
+        "name": "My Kind Of Country",
+        "url": "https://open.spotify.com/album/3jgF141Czb7pAXR5yvzZ9q"
       },
       "artists": [
         {
-          "name": "Deborah Allen",
-          "url": "https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u"
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
         }
       ],
-      "duration_ms": 250120,
-      "name": "Baby I Lied",
-      "url": "https://open.spotify.com/track/5KqGrafc3paz7bNPju5Ne9"
+      "duration_ms": 213560,
+      "name": "Somebody Should Leave",
+      "url": "https://open.spotify.com/track/4m3VFxVwSPk8VGoA9qcLRC"
     },
     {
       "added_at": "2024-10-14 21:15:40",
@@ -2043,18 +2043,18 @@
     {
       "added_at": "2024-10-14 21:15:40",
       "album": {
-        "name": "My Kind Of Country",
-        "url": "https://open.spotify.com/album/3jgF141Czb7pAXR5yvzZ9q"
+        "name": "Cheat the Night",
+        "url": "https://open.spotify.com/album/6ZMLxQUzTCjKYB1IVhAgLM"
       },
       "artists": [
         {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+          "name": "Deborah Allen",
+          "url": "https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u"
         }
       ],
-      "duration_ms": 213560,
-      "name": "Somebody Should Leave",
-      "url": "https://open.spotify.com/track/4m3VFxVwSPk8VGoA9qcLRC"
+      "duration_ms": 250120,
+      "name": "Baby I Lied",
+      "url": "https://open.spotify.com/track/5KqGrafc3paz7bNPju5Ne9"
     },
     {
       "added_at": "2024-10-14 21:15:40",

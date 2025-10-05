@@ -4,7 +4,7 @@
 
 > This is Jennifer Lopez\. The essential tracks, all in one playlist.
 
-83 songs - 4 hr 57 min
+84 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [If You Had My Love](https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 4:26 | 2023-07-28 |  |
 | [If You Had My Love \- 2024 Rework](https://open.spotify.com/track/0QpJtzNtp8sOvad44wSbwO) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Ty Sunderland](https://open.spotify.com/artist/31JqNN8V3p95rXgJ7WjeOI) | [If You Had My Love \(2024 Rework\)](https://open.spotify.com/album/1Fv17pioypgcQ7bJuMNqta) | 2:39 | 2024-08-11 | 2024-09-07 |
 | [Jenny from the Block \(feat\. Jadakiss & Styles P.\) \- Track Masters Remix](https://open.spotify.com/track/7LqjznQwfrax7MjQXmxqdQ) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [This Is Me...Then](https://open.spotify.com/album/1l8TpRDfjJjKdtbzNtSycM) | 3:07 | 2023-07-28 |  |
-| [Kiss of the Spider Woman](https://open.spotify.com/track/2JQ9aXIbKkBASVyv5hlS0o) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Kiss of the Spider Woman](https://open.spotify.com/album/0eCe3QwDzhEhAxgVGUjvEj) | 2:39 | 2025-09-09 |  |
+| [Kiss of the Spider Woman](https://open.spotify.com/track/2JQ9aXIbKkBASVyv5hlS0o) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Kiss of the Spider Woman](https://open.spotify.com/album/0eCe3QwDzhEhAxgVGUjvEj) | 2:39 | 2025-09-09 | 2025-10-05 |
 | [Let's Get Loud](https://open.spotify.com/track/6kQz6t5z1FK4uohPh8Kd73) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk) | 3:58 | 2023-07-28 |  |
 | [Live It Up](https://open.spotify.com/track/2FHdoPa5aWaAmjuf362KJ0) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Live It Up](https://open.spotify.com/album/5fnPOybc8Zo7IYvWbvrCKR) | 4:03 | 2023-07-28 |  |
 | [Llegaste](https://open.spotify.com/track/303QCzQP10nYoAE8wsWtRF) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Amor Sin Límite](https://open.spotify.com/album/0ZqDgVix0ojjXBc1ypqKVN) | 3:56 | 2023-07-28 |  |
@@ -91,5 +91,6 @@
 | [Waiting for Tonight \- Radio Edit](https://open.spotify.com/track/3agnohIYmrDf6iJYoZfIdM) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [On The 6 \(25th Anniversary Edition\)](https://open.spotify.com/album/32QGCOgzomhSmTzSO4xyJ3) | 3:18 | 2024-07-22 | 2024-08-06 |
 | [Waiting for Tonight \- Radio Edit](https://open.spotify.com/track/5GHVp2CCufZ8MJzYE82W7R) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [On The 6 \(25th Anniversary Edition\)](https://open.spotify.com/album/7iLgRk89HhZw9QZvQjjATj) | 3:18 | 2024-08-06 |  |
 | [We Are One \(Ole Ola\) \[The Official 2014 FIFA World Cup Song\] \(feat\. Jennifer Lopez & Claudia Leitte\)](https://open.spotify.com/track/1PCvKFPWnTXAe2oaReVUcr) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:42 | 2023-07-28 |  |
+| [Where You Are](https://open.spotify.com/track/7xc0n2E5blIA8yeObf69uT) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Tonatiuh](https://open.spotify.com/artist/21sCCId36uv35Nqk72EzK2) | [Kiss of the Spider Woman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11q2atn1ZVm6LJO5Efljz6) | 4:40 | 2025-10-05 |  |
 
 \*This playlist was first scraped on 2023-07-29. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > bands and tracks on the rise in heavy music\. Cover: Frayle
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,812 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,898 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 21 | [Tarnished](https://open.spotify.com/track/3fqo4doDvEd6sItAmpfZVA) | [Asleep At The Helm](https://open.spotify.com/artist/52KDgZWodiRXEWhGBODF3C) | [Tarnished](https://open.spotify.com/album/25raEkyFZf9PzsVZBSXENk) | 3:43 |
 | 22 | [fall apart](https://open.spotify.com/track/6pNgqvihWqpRSHKv4Hhgpm) | [echochamber](https://open.spotify.com/artist/1t41S2a6wX3cDZLMCW73yR) | [fall apart](https://open.spotify.com/album/037Wicjw0sotrWT7ghIdbn) | 4:19 |
 | 23 | [Come Down](https://open.spotify.com/track/5AWml6GS12ijqNwTL4zVe4) | [Stray View](https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu) | [Come Down](https://open.spotify.com/album/0ltN2JS0sLX2KjRHwfMcPl) | 3:16 |
-| 24 | [Orbiting](https://open.spotify.com/track/4KxN0xhViLRP4EPbOS60Z3) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [If You Do Not Fear Me...](https://open.spotify.com/album/6BpTl0GVvEGHE99VTh8PDa) | 3:04 |
+| 24 | [Orbiting](https://open.spotify.com/track/4KxN0xhViLRP4EPbOS60Z3) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [If You Do Not Fear Me...](https://open.spotify.com/album/6BpTl0GVvEGHE99VTh8PDa) | 3:05 |
 | 25 | [No Place for You](https://open.spotify.com/track/1uxVsLqdq1ROCJS7IyDozS) | [ZUKØ](https://open.spotify.com/artist/7GJIhl4Ulpu4QNL4EuJfE8) | [No Place for You](https://open.spotify.com/album/2EYkfBpjdnKyJVIUuFp5vX) | 2:50 |
 | 26 | [Arch Enemy](https://open.spotify.com/track/2M0RLsytPuk2oGvfiSV27b) | [APOC](https://open.spotify.com/artist/1E68fQlo7IbZBUIoi2OxIN), [VS / U](https://open.spotify.com/artist/1j2GLY97RB975mOth1nnvC) | [Arch Enemy](https://open.spotify.com/album/2ytGgsJOI7bxg8Gax5TrcV) | 3:21 |
 | 27 | [Stay](https://open.spotify.com/track/6cYbYWZWXWeANCn5V7ZIqS) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Stay](https://open.spotify.com/album/5jfIWCColjrn9NAfEFCbHu) | 2:27 |

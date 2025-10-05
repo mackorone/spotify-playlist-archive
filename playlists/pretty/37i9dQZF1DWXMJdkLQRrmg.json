@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 357523,
+  "num_followers": 357560,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Deep End (Stripped)",
-        "url": "https://open.spotify.com/album/5EZxyWXfsI6eJWuCvGNynA"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 210929,
-      "name": "Deep End - Stripped",
-      "url": "https://open.spotify.com/track/0S5h1Dk10b2UK2ssQE4AsO"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Scumbag (Acoustic)",
         "url": "https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 209420,
       "name": "Scumbag - Acoustic",
       "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Deep End (Stripped)",
+        "url": "https://open.spotify.com/album/5EZxyWXfsI6eJWuCvGNynA"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 210929,
+      "name": "Deep End - Stripped",
+      "url": "https://open.spotify.com/track/0S5h1Dk10b2UK2ssQE4AsO"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "The Funeral",
-        "url": "https://open.spotify.com/album/7pxmCQcwGsVa2IhPFRiRer"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 213882,
-      "name": "The Funeral - Acoustic",
-      "url": "https://open.spotify.com/track/7jfP3nGBIYW4EFqubo6OUs"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Cut Deep \u2013 Stripped",
         "url": "https://open.spotify.com/album/342ARypReHD498VmAtcIx9"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 189720,
       "name": "Cut Deep \u2013 Stripped",
       "url": "https://open.spotify.com/track/0guTDvUGycVOXPQU3woRLH"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "The Funeral",
+        "url": "https://open.spotify.com/album/7pxmCQcwGsVa2IhPFRiRer"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 213882,
+      "name": "The Funeral - Acoustic",
+      "url": "https://open.spotify.com/track/7jfP3nGBIYW4EFqubo6OUs"
     },
     {
       "added_at": "2024-07-05 19:40:49",

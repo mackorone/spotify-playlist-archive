@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBBiyFHfY0t.md) - [plain]
 
 > For frolicking joyously, freely and theatrically in this world\. Everybody scream.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,000 likes - 115 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,022 likes - 115 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

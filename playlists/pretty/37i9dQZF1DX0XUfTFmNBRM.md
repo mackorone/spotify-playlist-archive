@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUfTFmNBRM.md) - [plain]
 
 > Hottest Hindi music that India is listening to\. Cover \- Sunny Sanskari Ki Tulsi Kumari
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,892,579 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,893,122 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [PERFECT \(From "Sunny Sanskari Ki Tulsi Kumari"\)](https://open.spotify.com/track/4Cp29GrZ9Jxxoke0OeQGuz) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [PERFECT \(From "Sunny Sanskari Ki Tulsi Kumari"\)](https://open.spotify.com/album/2uFqKj9qt6TkwKdNpFjQ4R) | 2:26 |
+| 1 | [PERFECT \(From "Sunny Sanskari Ki Tulsi Kumari"\)](https://open.spotify.com/track/4Cp29GrZ9Jxxoke0OeQGuz) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [PERFECT \(From "Sunny Sanskari Ki Tulsi Kumari"\)](https://open.spotify.com/album/2uFqKj9qt6TkwKdNpFjQ4R) | 2:26 |
 | 2 | [Saiyaara \(From "Saiyaara"\)](https://open.spotify.com/track/1D35BJlymlh6OLD75WupSF) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Arslan Nizami](https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Saiyaara \(From "Saiyaara"\)](https://open.spotify.com/album/3ETAyPs1TjEcYIpCbYwEbk) | 6:10 |
 | 3 | [Finding Her](https://open.spotify.com/track/5ThyDv6aRVU8AH4vXQNldF) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Finding Her](https://open.spotify.com/album/69xcXWqK1aN73KgVA2i3Zq) | 3:27 |
 | 4 | [Thodi Si Daaru](https://open.spotify.com/track/3JiLQJmVW7d4O8AQDFB3oj) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Thodi Si Daaru](https://open.spotify.com/album/5VtCQYa9RJHYMQAfzAb1HQ) | 3:00 |

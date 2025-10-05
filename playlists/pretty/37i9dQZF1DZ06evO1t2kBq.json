@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 83352,
+  "num_followers": 83366,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAACAW35K/D5HwryHGnvrvICe",
+  "snapshot_id": "aN8SAAAAAAA9UWE81TztvrTjZTsvQouT",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Empire Strikes First",
-        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Los Angeles Is Burning",
-      "url": "https://open.spotify.com/track/0biGKHOtNVGM14sRSztyKq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stranger Than Fiction",
         "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 247600,
       "name": "Infected",
       "url": "https://open.spotify.com/track/16E7LWSzLLMPWYGNCwu7Sc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Empire Strikes First",
+        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Los Angeles Is Burning",
+      "url": "https://open.spotify.com/track/0biGKHOtNVGM14sRSztyKq"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Age Of Unreason",
-        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
+        "name": "The Process Of Belief",
+        "url": "https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 165075,
-      "name": "Candidate",
-      "url": "https://open.spotify.com/track/3NpXeqnYkOGLSZNsG9SfTj"
+      "duration_ms": 106586,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/24Z9YNvIlWNjYraAqyUgSh"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Process Of Belief",
-        "url": "https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI"
+        "name": "Age Of Unreason",
+        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 106586,
-      "name": "Supersonic",
-      "url": "https://open.spotify.com/track/24Z9YNvIlWNjYraAqyUgSh"
+      "duration_ms": 165075,
+      "name": "Candidate",
+      "url": "https://open.spotify.com/track/3NpXeqnYkOGLSZNsG9SfTj"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
       "duration_ms": 190853,
       "name": "Atomic Garden",
       "url": "https://open.spotify.com/track/0iKBQiTlNxTUPeBDCzlFRP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Age Of Unreason",
-        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 110320,
-      "name": "Chaos From Within",
-      "url": "https://open.spotify.com/track/1N8K9up7uz8EuyEiOoy9pq"
     },
     {
       "added_at": null,
@@ -651,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Against The Grain",
-        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+        "name": "Age Of Unreason",
+        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
       },
       "artists": [
         {
@@ -660,25 +644,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 97640,
-      "name": "God Song",
-      "url": "https://open.spotify.com/track/0EhzHcEryTCWHaL98TdzIA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Gray Race",
-        "url": "https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 123666,
-      "name": "Come Join Us",
-      "url": "https://open.spotify.com/track/5fWxm4j1WgVNkYPDwYBoBF"
+      "duration_ms": 110320,
+      "name": "Chaos From Within",
+      "url": "https://open.spotify.com/track/1N8K9up7uz8EuyEiOoy9pq"
     },
     {
       "added_at": null,
@@ -699,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Against The Grain",
+        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 97640,
+      "name": "God Song",
+      "url": "https://open.spotify.com/track/0EhzHcEryTCWHaL98TdzIA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recipe For Hate",
         "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
       },
@@ -715,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Against The Grain",
-        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+        "name": "The Gray Race",
+        "url": "https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5"
       },
       "artists": [
         {
@@ -724,9 +708,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 84026,
-      "name": "Turn On the Light",
-      "url": "https://open.spotify.com/track/2aCuA3PDvmDrPCo1MIyJ1Q"
+      "duration_ms": 123666,
+      "name": "Come Join Us",
+      "url": "https://open.spotify.com/track/5fWxm4j1WgVNkYPDwYBoBF"
     },
     {
       "added_at": null,
@@ -747,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Age Of Unreason",
-        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
+        "name": "Against The Grain",
+        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
       },
       "artists": [
         {
@@ -756,9 +740,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 105826,
-      "name": "Do The Paranoid Style",
-      "url": "https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7"
+      "duration_ms": 84026,
+      "name": "Turn On the Light",
+      "url": "https://open.spotify.com/track/2aCuA3PDvmDrPCo1MIyJ1Q"
     },
     {
       "added_at": null,
@@ -775,6 +759,22 @@
       "duration_ms": 95875,
       "name": "Along The Way",
       "url": "https://open.spotify.com/track/0jl2DpwuQ2ZDBsUI4blDhr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Age Of Unreason",
+        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 105826,
+      "name": "Do The Paranoid Style",
+      "url": "https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7"
     },
     {
       "added_at": null,

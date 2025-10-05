@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2481161,
+  "num_followers": 2481207,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2025-09-17 07:11:09",
       "album": {
-        "name": "Grandma",
-        "url": "https://open.spotify.com/album/0oEXZAhZrEhLUtgKcMaxPg"
-      },
-      "artists": [
-        {
-          "name": "Unique Salonga",
-          "url": "https://open.spotify.com/artist/30mZI7Hw2MhoarTVYxfyZM"
-        }
-      ],
-      "duration_ms": 280426,
-      "name": "Sino",
-      "url": "https://open.spotify.com/track/2xCkiGqGMkAIg6fQTag51C"
-    },
-    {
-      "added_at": "2025-09-17 07:11:09",
-      "album": {
         "name": "Umaasa",
         "url": "https://open.spotify.com/album/5CoCHo5Uln3nDpd1q2aewW"
       },
@@ -239,18 +223,34 @@
     {
       "added_at": "2025-09-17 07:11:09",
       "album": {
-        "name": "Sa Wakas",
-        "url": "https://open.spotify.com/album/5TgWcKNeogXr2cPNDcXZRb"
+        "name": "Grandma",
+        "url": "https://open.spotify.com/album/0oEXZAhZrEhLUtgKcMaxPg"
       },
       "artists": [
         {
-          "name": "Sugarfree",
-          "url": "https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy"
+          "name": "Unique Salonga",
+          "url": "https://open.spotify.com/artist/30mZI7Hw2MhoarTVYxfyZM"
         }
       ],
-      "duration_ms": 210426,
-      "name": "Burnout",
-      "url": "https://open.spotify.com/track/0ZCCbW4Aym7b5QdQUKfVdv"
+      "duration_ms": 280426,
+      "name": "Sino",
+      "url": "https://open.spotify.com/track/2xCkiGqGMkAIg6fQTag51C"
+    },
+    {
+      "added_at": "2025-09-17 07:11:09",
+      "album": {
+        "name": "Pasilyo",
+        "url": "https://open.spotify.com/album/4shoxv60vMxSDq40tp5cSK"
+      },
+      "artists": [
+        {
+          "name": "SunKissed Lola",
+          "url": "https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2"
+        }
+      ],
+      "duration_ms": 270250,
+      "name": "Pasilyo",
+      "url": "https://open.spotify.com/track/0uZFcsx96wzbixsULmrg8o"
     },
     {
       "added_at": "2025-09-17 07:11:09",
@@ -275,18 +275,18 @@
     {
       "added_at": "2025-09-17 07:11:09",
       "album": {
-        "name": "Pasilyo",
-        "url": "https://open.spotify.com/album/4shoxv60vMxSDq40tp5cSK"
+        "name": "Sa Wakas",
+        "url": "https://open.spotify.com/album/5TgWcKNeogXr2cPNDcXZRb"
       },
       "artists": [
         {
-          "name": "SunKissed Lola",
-          "url": "https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2"
+          "name": "Sugarfree",
+          "url": "https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy"
         }
       ],
-      "duration_ms": 270250,
-      "name": "Pasilyo",
-      "url": "https://open.spotify.com/track/0uZFcsx96wzbixsULmrg8o"
+      "duration_ms": 210426,
+      "name": "Burnout",
+      "url": "https://open.spotify.com/track/0ZCCbW4Aym7b5QdQUKfVdv"
     },
     {
       "added_at": "2025-09-17 07:11:09",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-09-17 07:11:09",
       "album": {
-        "name": "Balisong (Transformed)",
-        "url": "https://open.spotify.com/album/2e0sfb67QiHlZOjWVQ6Jmt"
-      },
-      "artists": [
-        {
-          "name": "Rico Blanco",
-          "url": "https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0"
-        }
-      ],
-      "duration_ms": 163571,
-      "name": "Balisong - Transformed",
-      "url": "https://open.spotify.com/track/2s9DQB5ftRcdIRpj3n3pDR"
-    },
-    {
-      "added_at": "2025-09-17 07:11:09",
-      "album": {
         "name": "Sa Susunod Na Lang",
         "url": "https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq"
       },
@@ -479,6 +463,22 @@
     {
       "added_at": "2025-09-17 07:11:09",
       "album": {
+        "name": "Balisong (Transformed)",
+        "url": "https://open.spotify.com/album/2e0sfb67QiHlZOjWVQ6Jmt"
+      },
+      "artists": [
+        {
+          "name": "Rico Blanco",
+          "url": "https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0"
+        }
+      ],
+      "duration_ms": 163571,
+      "name": "Balisong - Transformed",
+      "url": "https://open.spotify.com/track/2s9DQB5ftRcdIRpj3n3pDR"
+    },
+    {
+      "added_at": "2025-09-17 07:11:09",
+      "album": {
         "name": "Make Believe",
         "url": "https://open.spotify.com/album/0eVAbAiekijNEO7xTvGn23"
       },
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-09-17 07:11:09",
       "album": {
-        "name": "Musika",
-        "url": "https://open.spotify.com/album/3A0K1ImYGMKTYDLe5EgLWv"
-      },
-      "artists": [
-        {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "Musika",
-      "url": "https://open.spotify.com/track/7bAVndaTleEnfizm6h2d3i"
-    },
-    {
-      "added_at": "2025-09-17 07:11:09",
-      "album": {
         "name": "Sa Susunod na Habang Buhay",
         "url": "https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 288189,
       "name": "Sa Susunod na Habang Buhay",
       "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
+    },
+    {
+      "added_at": "2025-09-17 07:11:09",
+      "album": {
+        "name": "Musika",
+        "url": "https://open.spotify.com/album/3A0K1ImYGMKTYDLe5EgLWv"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "Musika",
+      "url": "https://open.spotify.com/track/7bAVndaTleEnfizm6h2d3i"
     },
     {
       "added_at": "2025-09-17 07:11:09",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-09-17 07:11:09",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/65mubteFOgv2qZeSWMdNl7"
-      },
-      "artists": [
-        {
-          "name": "Lola Amour",
-          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
-        }
-      ],
-      "duration_ms": 201806,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/4mc3rUoMwwiNTHA4al9nNd"
-    },
-    {
-      "added_at": "2025-09-17 07:11:09",
-      "album": {
         "name": "Episode",
         "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 244800,
       "name": "Give Me Your Forever",
       "url": "https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ"
+    },
+    {
+      "added_at": "2025-09-17 07:11:09",
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/65mubteFOgv2qZeSWMdNl7"
+      },
+      "artists": [
+        {
+          "name": "Lola Amour",
+          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
+        }
+      ],
+      "duration_ms": 201806,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/4mc3rUoMwwiNTHA4al9nNd"
     },
     {
       "added_at": "2025-09-17 07:11:09",

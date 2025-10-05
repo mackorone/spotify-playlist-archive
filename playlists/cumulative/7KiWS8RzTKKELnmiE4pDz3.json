@@ -2881,6 +2881,24 @@
     },
     {
       "album": {
+        "name": "First Two Seven Inches",
+        "url": "https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy"
+      },
+      "artists": [
+        {
+          "name": "Minor Threat",
+          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
+        }
+      ],
+      "date_added": "2025-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54080,
+      "name": "Bottled Violence",
+      "url": "https://open.spotify.com/track/5JhZWM8gnhG3FywK8mckZX"
+    },
+    {
+      "album": {
         "name": "2093",
         "url": "https://open.spotify.com/album/0cLGXgec8fFV7YPFQ96SUG"
       },

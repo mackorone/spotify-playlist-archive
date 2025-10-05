@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Pola
 
-604 songs - 1 day 5 hr 36 min
+605 songs - 1 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 | 2025-01-23 | 2025-02-07 |
 | [BLUZA](https://open.spotify.com/track/1mRroW9eadhZxKTGELZGCl) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [BLUZA](https://open.spotify.com/album/6twuHSDPJW6TOSEJIgvPgc) | 2:50 | 2024-08-22 | 2025-01-24 |
 | [boeira](https://open.spotify.com/track/0rMlErDSq2KTWQquy1tFPG) | [zdunekk](https://open.spotify.com/artist/4HslOaTdnHIBXMAVlZQIOU), [Mercury](https://open.spotify.com/artist/65KzmKTmARM8EBVoxki2gn), [Kaki](https://open.spotify.com/artist/3wePHjo31t64qRMHBj7NnU), [Json](https://open.spotify.com/artist/5OTHI5apGJ4Zs2eloBI5Hz) | [boeira](https://open.spotify.com/album/3jQq4MhMRvNCIGJHOX9X9q) | 2:36 | 2025-07-03 | 2025-07-11 |
+| [Boisz się](https://open.spotify.com/track/5OPDVu8yGItlFz8BsVQkF4) | [Sad Smiles](https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo), [Arek Kłusowski](https://open.spotify.com/artist/34wHojIYy5Nrua9isD46O6) | [Boisz się](https://open.spotify.com/album/5O7WpfdyHWZiqzIVclkOwX) | 3:01 | 2025-09-30 |  |
 | [BOOM](https://open.spotify.com/track/12l0xfTk73hF16FxASqEwt) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [BOOM](https://open.spotify.com/album/43o9D8UKbPHhcpLDBDTsZJ) | 2:44 | 2025-07-03 |  |
 | [Boomerang](https://open.spotify.com/track/4fAYA4RrFXPekZNgsR658X) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Boomerang](https://open.spotify.com/album/1pQvU8OJ2y6hWHDSY7j3QX) | 2:56 | 2024-11-07 | 2025-01-24 |
 | [Born To Be Blue](https://open.spotify.com/track/04zo7BvWV2yNzgpRNhgKFw) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Born To Be Blue](https://open.spotify.com/album/3ZqxWb4ror9WT1QT7GuV8c) | 2:51 | 2025-09-16 |  |
@@ -154,7 +155,7 @@
 | [Echo](https://open.spotify.com/track/4S6Eey9SnDruEADx0ojzZJ) | [PHERO](https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM) | [Echo](https://open.spotify.com/album/4QDtR0UNxUf5JFn90ppg8Z) | 2:44 | 2024-11-21 | 2025-01-10 |
 | [EDEN](https://open.spotify.com/track/1tm0wcb70ojuKjvFUo1Tsd) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [EDEN](https://open.spotify.com/album/0N9FSY1ZPYkkySGVQYcswA) | 3:22 | 2025-03-27 | 2025-07-04 |
 | [epicentrum](https://open.spotify.com/track/2gCNm0DrdB0kbhFSfGsC0O) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [epicentrum](https://open.spotify.com/album/5Nnjs9uBxHkRpn3t2yn5my) | 2:19 | 2024-07-25 | 2025-01-24 |
-| [ernest](https://open.spotify.com/track/4N283rSr7iWXEzdUJE2VRI) | [zofia justyńska](https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4) | [ernest](https://open.spotify.com/album/4Q9f6v9fVFZz8MyNgIFozL) | 4:23 | 2025-09-23 |  |
+| [ernest](https://open.spotify.com/track/4N283rSr7iWXEzdUJE2VRI) | [zofia justyńska](https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4) | [ernest](https://open.spotify.com/album/4Q9f6v9fVFZz8MyNgIFozL) | 4:23 | 2025-09-23 | 2025-10-05 |
 | [ESCAPE](https://open.spotify.com/track/2Dlc3NKzeU8xybT6R8iQm0) | [zuziula](https://open.spotify.com/artist/4QlrRdWN1OxIPPK5tWWang), [Phatrax](https://open.spotify.com/artist/1EWSmJHrwXmAaXOxD4uHg7) | [ESCAPE](https://open.spotify.com/album/2S1RHUOQRRqDPkVmxVSLHA) | 2:33 | 2025-05-29 | 2025-09-24 |
 | [Everything Changes \(But I Won't\)](https://open.spotify.com/track/2WGOTUuDEW2NxuJVFWvmcB) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Louder, Please](https://open.spotify.com/album/79SqMfih2FN1NaLtZUcccG) | 3:51 | 2025-01-23 | 2025-03-21 |
 | [Fake ID](https://open.spotify.com/track/5gcokYc6au92x8EUbgJ3KR) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Fake ID](https://open.spotify.com/album/5QGGbcVRxSnDuRdQXJsKq2) | 2:32 | 2024-06-28 | 2024-10-05 |

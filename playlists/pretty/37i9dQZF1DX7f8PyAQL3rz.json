@@ -1,6 +1,6 @@
 {
   "description": "tirou onda na reliquia do dnb o maui!",
-  "num_followers": 1419926,
+  "num_followers": 1419789,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,34 @@
     {
       "added_at": "2025-10-03 17:01:16",
       "album": {
+        "name": "ME POSTOU NO DAILY - FESTA DO BIG G",
+        "url": "https://open.spotify.com/album/1FeuF1Mscwud8pbUCzypMn"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "DJ DAVI DOGDOG",
+          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
+        },
+        {
+          "name": "Dj Andrabeat",
+          "url": "https://open.spotify.com/artist/1Zg9Zp2NMNIBUiazqAHr1C"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "ME POSTOU NO DAILY - FESTA DO BIG G",
+      "url": "https://open.spotify.com/track/4ATO632UaFTJltxCbfBpHI"
+    },
+    {
+      "added_at": "2025-10-03 17:01:16",
+      "album": {
         "name": "Liberdade",
         "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
       },
@@ -363,34 +391,6 @@
       "duration_ms": 140155,
       "name": "Hiperfoco",
       "url": "https://open.spotify.com/track/1rO0uD1DwejqeZLNXTroJK"
-    },
-    {
-      "added_at": "2025-10-03 17:01:16",
-      "album": {
-        "name": "ME POSTOU NO DAILY - FESTA DO BIG G",
-        "url": "https://open.spotify.com/album/1FeuF1Mscwud8pbUCzypMn"
-      },
-      "artists": [
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Mc Lele JP",
-          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
-        },
-        {
-          "name": "DJ DAVI DOGDOG",
-          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
-        },
-        {
-          "name": "Dj Andrabeat",
-          "url": "https://open.spotify.com/artist/1Zg9Zp2NMNIBUiazqAHr1C"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "ME POSTOU NO DAILY - FESTA DO BIG G",
-      "url": "https://open.spotify.com/track/4ATO632UaFTJltxCbfBpHI"
     },
     {
       "added_at": "2025-10-03 17:01:16",
@@ -495,26 +495,6 @@
     {
       "added_at": "2025-10-03 17:01:16",
       "album": {
-        "name": "Eu Venci o Mundo",
-        "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 107906,
-      "name": "Belieber",
-      "url": "https://open.spotify.com/track/0bek7IePM9EuMiDI6cGQJB"
-    },
-    {
-      "added_at": "2025-10-03 17:01:16",
-      "album": {
         "name": "Eh Noiz Ki T\u00e1",
         "url": "https://open.spotify.com/album/5NEKhgyL8iv2HoXI0xqBk1"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 143488,
       "name": "XT 2",
       "url": "https://open.spotify.com/track/3ESfiJEKj4V3GdATVvHZyn"
+    },
+    {
+      "added_at": "2025-10-03 17:01:16",
+      "album": {
+        "name": "Eu Venci o Mundo",
+        "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 107906,
+      "name": "Belieber",
+      "url": "https://open.spotify.com/track/0bek7IePM9EuMiDI6cGQJB"
     },
     {
       "added_at": "2025-10-03 17:01:16",
@@ -1019,26 +1019,22 @@
     {
       "added_at": "2025-10-03 17:01:16",
       "album": {
-        "name": "Vagabundo",
-        "url": "https://open.spotify.com/album/3NeFKJipmZQHAYGhvm6Ogr"
+        "name": "Serena & Venus (Lado A)",
+        "url": "https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68"
       },
       "artists": [
         {
-          "name": "DJ JHOW BEATS",
-          "url": "https://open.spotify.com/artist/4CpxOMOqIfPQmEet9UnWhe"
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
         },
         {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "DJ J2",
-          "url": "https://open.spotify.com/artist/64ZV1p2uqJZi2StfpemVFD"
+          "name": "Pizzol",
+          "url": "https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK"
         }
       ],
-      "duration_ms": 159634,
-      "name": "Solo Paulista",
-      "url": "https://open.spotify.com/track/6LeKnFXj99E6pdlq7rz0x7"
+      "duration_ms": 237726,
+      "name": "Serena & Venus",
+      "url": "https://open.spotify.com/track/7FVKKaicBQr7K5ybvCPKYH"
     },
     {
       "added_at": "2025-10-03 17:01:16",
@@ -1071,22 +1067,26 @@
     {
       "added_at": "2025-10-03 17:01:16",
       "album": {
-        "name": "Serena & Venus (Lado A)",
-        "url": "https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68"
+        "name": "Vagabundo",
+        "url": "https://open.spotify.com/album/3NeFKJipmZQHAYGhvm6Ogr"
       },
       "artists": [
         {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+          "name": "DJ JHOW BEATS",
+          "url": "https://open.spotify.com/artist/4CpxOMOqIfPQmEet9UnWhe"
         },
         {
-          "name": "Pizzol",
-          "url": "https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK"
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "DJ J2",
+          "url": "https://open.spotify.com/artist/64ZV1p2uqJZi2StfpemVFD"
         }
       ],
-      "duration_ms": 237726,
-      "name": "Serena & Venus",
-      "url": "https://open.spotify.com/track/7FVKKaicBQr7K5ybvCPKYH"
+      "duration_ms": 159634,
+      "name": "Solo Paulista",
+      "url": "https://open.spotify.com/track/6LeKnFXj99E6pdlq7rz0x7"
     },
     {
       "added_at": "2025-10-03 17:01:16",
@@ -1139,6 +1139,34 @@
     {
       "added_at": "2025-10-03 17:01:16",
       "album": {
+        "name": "Serena & Venus (Lado A)",
+        "url": "https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68"
+      },
+      "artists": [
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Pizzol",
+          "url": "https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK"
+        }
+      ],
+      "duration_ms": 278816,
+      "name": "Simpatia",
+      "url": "https://open.spotify.com/track/3AZY6uoSvo4Z4NvGvVQLoo"
+    },
+    {
+      "added_at": "2025-10-03 17:01:16",
+      "album": {
         "name": "Teatro de um Tralha",
         "url": "https://open.spotify.com/album/6yB9230AK3UBAdia8XvCi7"
       },
@@ -1179,34 +1207,6 @@
     {
       "added_at": "2025-10-03 17:01:16",
       "album": {
-        "name": "Serena & Venus (Lado A)",
-        "url": "https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68"
-      },
-      "artists": [
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Pizzol",
-          "url": "https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK"
-        }
-      ],
-      "duration_ms": 278816,
-      "name": "Simpatia",
-      "url": "https://open.spotify.com/track/3AZY6uoSvo4Z4NvGvVQLoo"
-    },
-    {
-      "added_at": "2025-10-03 17:01:16",
-      "album": {
         "name": "Congelado",
         "url": "https://open.spotify.com/album/5miBfk7sbs8B8I8keKO719"
       },
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2025-10-03 17:01:16",
       "album": {
-        "name": "Uma Noite",
-        "url": "https://open.spotify.com/album/2hDK9lkrn4rurpcerkffim"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 167441,
-      "name": "Uma Noite",
-      "url": "https://open.spotify.com/track/4e1lc0w7omCgbnEQ1AFMRT"
-    },
-    {
-      "added_at": "2025-10-03 17:01:16",
-      "album": {
         "name": "Sinestesia",
         "url": "https://open.spotify.com/album/2bLgXehUjKOPQuP1FeYNNn"
       },
@@ -1263,30 +1243,6 @@
       "duration_ms": 155076,
       "name": "Procedimento",
       "url": "https://open.spotify.com/track/61cbHhgcOtLiYAOsZrvErQ"
-    },
-    {
-      "added_at": "2025-10-03 17:01:16",
-      "album": {
-        "name": "\u00c9 Que os Menino \u00c9 Bom",
-        "url": "https://open.spotify.com/album/7f9JfYpkwSzBrNJzQAvIoE"
-      },
-      "artists": [
-        {
-          "name": "Chris Beats Zn",
-          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
-        },
-        {
-          "name": "Soud",
-          "url": "https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        }
-      ],
-      "duration_ms": 145655,
-      "name": "\u00c9 Que os Menino \u00c9 Bom",
-      "url": "https://open.spotify.com/track/7xXiNfpfDCNXUWSnOzNfMD"
     },
     {
       "added_at": "2025-10-03 17:01:16",
@@ -1315,6 +1271,86 @@
       "duration_ms": 263816,
       "name": "Cara Fechada",
       "url": "https://open.spotify.com/track/3R9pcq1bycApu5bTsLavLb"
+    },
+    {
+      "added_at": "2025-10-03 17:01:16",
+      "album": {
+        "name": "Uma Noite",
+        "url": "https://open.spotify.com/album/2hDK9lkrn4rurpcerkffim"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 167441,
+      "name": "Uma Noite",
+      "url": "https://open.spotify.com/track/4e1lc0w7omCgbnEQ1AFMRT"
+    },
+    {
+      "added_at": "2025-10-03 17:01:16",
+      "album": {
+        "name": "A Milh\u00e3o",
+        "url": "https://open.spotify.com/album/26oy1EOZbD6AeisGnGHezR"
+      },
+      "artists": [
+        {
+          "name": "Tropa do Bruxo",
+          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Mc J Mito",
+          "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        }
+      ],
+      "duration_ms": 216888,
+      "name": "A Milh\u00e3o",
+      "url": "https://open.spotify.com/track/77PlJsyMjReAoMmtx41oq8"
+    },
+    {
+      "added_at": "2025-10-03 17:01:16",
+      "album": {
+        "name": "\u00c9 Que os Menino \u00c9 Bom",
+        "url": "https://open.spotify.com/album/7f9JfYpkwSzBrNJzQAvIoE"
+      },
+      "artists": [
+        {
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        },
+        {
+          "name": "Soud",
+          "url": "https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        }
+      ],
+      "duration_ms": 145655,
+      "name": "\u00c9 Que os Menino \u00c9 Bom",
+      "url": "https://open.spotify.com/track/7xXiNfpfDCNXUWSnOzNfMD"
     },
     {
       "added_at": "2025-10-03 17:01:16",
@@ -1367,6 +1403,26 @@
       "duration_ms": 151475,
       "name": "Nas Ruas De Sampa",
       "url": "https://open.spotify.com/track/4P04Wq22LWF1f5FxoR4XKw"
+    },
+    {
+      "added_at": "2025-10-03 17:01:16",
+      "album": {
+        "name": "RISCA DA LISTA",
+        "url": "https://open.spotify.com/album/0G0s4Fqr9PUn9DkBnFkS0K"
+      },
+      "artists": [
+        {
+          "name": "Ruas Mc",
+          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
+        },
+        {
+          "name": "Kohuru",
+          "url": "https://open.spotify.com/artist/4mLeIPWofY0Osn40mAkqko"
+        }
+      ],
+      "duration_ms": 146634,
+      "name": "RISCA DA LISTA",
+      "url": "https://open.spotify.com/track/4luFUPBdjryvSTH6PPgaee"
     },
     {
       "added_at": "2025-10-03 17:01:16",
@@ -1443,62 +1499,6 @@
       "duration_ms": 223999,
       "name": "Nada Impede",
       "url": "https://open.spotify.com/track/2Jsw7WHWW1VakRk2VI8Rx3"
-    },
-    {
-      "added_at": "2025-10-03 17:01:16",
-      "album": {
-        "name": "A Milh\u00e3o",
-        "url": "https://open.spotify.com/album/26oy1EOZbD6AeisGnGHezR"
-      },
-      "artists": [
-        {
-          "name": "Tropa do Bruxo",
-          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
-        },
-        {
-          "name": "Mc J Mito",
-          "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
-        },
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        }
-      ],
-      "duration_ms": 216888,
-      "name": "A Milh\u00e3o",
-      "url": "https://open.spotify.com/track/77PlJsyMjReAoMmtx41oq8"
-    },
-    {
-      "added_at": "2025-10-03 17:01:16",
-      "album": {
-        "name": "RISCA DA LISTA",
-        "url": "https://open.spotify.com/album/0G0s4Fqr9PUn9DkBnFkS0K"
-      },
-      "artists": [
-        {
-          "name": "Ruas Mc",
-          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
-        },
-        {
-          "name": "Kohuru",
-          "url": "https://open.spotify.com/artist/4mLeIPWofY0Osn40mAkqko"
-        }
-      ],
-      "duration_ms": 146634,
-      "name": "RISCA DA LISTA",
-      "url": "https://open.spotify.com/track/4luFUPBdjryvSTH6PPgaee"
     },
     {
       "added_at": "2025-10-03 17:01:16",

@@ -1,12 +1,12 @@
 {
   "description": "This is UVERworld. The essential tracks, all in one playlist.",
-  "num_followers": 73772,
+  "num_followers": 73778,
   "original_name": "This Is UVERworld",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAADQaiyWuBNccKqENpcTIDvU",
+  "snapshot_id": "aN8SAAAAAAAj0sU1Vh2SpuRjq1q6BAwj",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u4e00\u6ef4\u306e\u5f71\u97ff (Extra Edition)",
+        "url": "https://open.spotify.com/album/0faHUWjxWLIjiTA8xfs7tq"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 291800,
+      "name": "\u4e00\u6ef4\u306e\u5f71\u97ff",
+      "url": "https://open.spotify.com/track/6a8zOePRBenXtHq2AY49xB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DAWN",
         "url": "https://open.spotify.com/album/5clOVOw7JaQdfBOP1aboZ3"
       },
@@ -143,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u4e00\u6ef4\u306e\u5f71\u97ff (Extra Edition)",
-        "url": "https://open.spotify.com/album/0faHUWjxWLIjiTA8xfs7tq"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 291800,
-      "name": "\u4e00\u6ef4\u306e\u5f71\u97ff",
-      "url": "https://open.spotify.com/track/6a8zOePRBenXtHq2AY49xB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BUGRIGHT",
         "url": "https://open.spotify.com/album/5RaSi1ceZ2H2i8cmhdhmFe"
       },
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eye's Sentry",
-        "url": "https://open.spotify.com/album/014ME8UQqhxH1tTWMue8dp"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 251546,
-      "name": "Eye's Sentry",
-      "url": "https://open.spotify.com/track/0nuWbGxJRzi8odd18gmtuH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNSER",
         "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 232773,
       "name": "ROB THE FRONTIER",
       "url": "https://open.spotify.com/track/0vgQEQxb49LCKEH5Gg7E4z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eye's Sentry",
+        "url": "https://open.spotify.com/album/014ME8UQqhxH1tTWMue8dp"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 251546,
+      "name": "Eye's Sentry",
+      "url": "https://open.spotify.com/track/0nuWbGxJRzi8odd18gmtuH"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bye-Bye to you",
-        "url": "https://open.spotify.com/album/6Z7Mzo45DiFgAHm1DQwWvo"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "Bye-Bye to you",
-      "url": "https://open.spotify.com/track/1YC7xtKxgK0w1ZCtVXuvzl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ENIGMASIS",
         "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 219733,
       "name": "ENCORE AGAIN",
       "url": "https://open.spotify.com/track/4JwwYSJnbvuqRKrZLEnkA8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bye-Bye to you",
+        "url": "https://open.spotify.com/album/6Z7Mzo45DiFgAHm1DQwWvo"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "Bye-Bye to you",
+      "url": "https://open.spotify.com/track/1YC7xtKxgK0w1ZCtVXuvzl"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
+        "name": "AwakEVE",
+        "url": "https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 305320,
-      "name": "EN",
-      "url": "https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB"
+      "duration_ms": 354853,
+      "name": "\u7f8e\u5f71\u610f\u5fd7",
+      "url": "https://open.spotify.com/track/4hJymb1Mm4hrYMoL3itfv8"
     },
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AwakEVE",
-        "url": "https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS"
+        "name": "30",
+        "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 354853,
-      "name": "\u7f8e\u5f71\u610f\u5fd7",
-      "url": "https://open.spotify.com/track/4hJymb1Mm4hrYMoL3itfv8"
+      "duration_ms": 305320,
+      "name": "EN",
+      "url": "https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNSER",
-        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
+        "name": "\u30ca\u30ce\u30fb\u30bb\u30ab\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/6BdTHYe5EDbUI5Us4HnX2P"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 312746,
-      "name": "AFTER LIFE",
-      "url": "https://open.spotify.com/track/5I1tUVKvEgfFws2udGUvt2"
+      "duration_ms": 274800,
+      "name": "\u30ca\u30ce\u30fb\u30bb\u30ab\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/6C0gAZcbctqrkeV3hh0uvQ"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30ca\u30ce\u30fb\u30bb\u30ab\u30f3\u30c9",
-        "url": "https://open.spotify.com/album/6BdTHYe5EDbUI5Us4HnX2P"
+        "name": "UNSER",
+        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 274800,
-      "name": "\u30ca\u30ce\u30fb\u30bb\u30ab\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/6C0gAZcbctqrkeV3hh0uvQ"
+      "duration_ms": 312746,
+      "name": "AFTER LIFE",
+      "url": "https://open.spotify.com/track/5I1tUVKvEgfFws2udGUvt2"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EPIPHANY",
-        "url": "https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 206760,
-      "name": "WINGS ever",
-      "url": "https://open.spotify.com/track/1XJ40s9ENDiSeHVuqVkgEP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "0 CHOIR",
         "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 255706,
       "name": "Fight For Liberty\uff08album ver.\uff09",
       "url": "https://open.spotify.com/track/1r2OVpl2e5mVDApfqDzY9I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EPIPHANY",
+        "url": "https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 206760,
+      "name": "WINGS ever",
+      "url": "https://open.spotify.com/track/1XJ40s9ENDiSeHVuqVkgEP"
     },
     {
       "added_at": null,

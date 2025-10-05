@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Brendan Walter
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,584 likes - 203 songs - 10 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,611 likes - 203 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 38 | [Parking Lot Prayers](https://open.spotify.com/track/0TMwDEVotcHkOwQb2lgZcl) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Starting Over](https://open.spotify.com/album/5jS1UDnigkwwbwB9T6l470) | 3:45 |
 | 39 | [ELDORA](https://open.spotify.com/track/3BreE2N8As5lcUkE9O5oe1) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [ELDORA](https://open.spotify.com/album/01Yys35yorCs199XVnBOH7) | 3:29 |
 | 40 | [Leave the Dirt](https://open.spotify.com/track/3QbFWzAo2UpdazUjtBsPU8) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Leave the Dirt](https://open.spotify.com/album/4LligBwD2AdWgOmZELR39B) | 3:03 |
-| 41 | [Slippery Slope \(feat\. John Morgan\)](https://open.spotify.com/track/7wwDHIl90F7v46AwnMFD2o) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S), [John Morgan](https://open.spotify.com/artist/0ItmFFLI5KmFcjlGhT2LbC) | [Slippery Slope](https://open.spotify.com/album/7wdcp0m6eIaBv1Ly5HaqGy) | 3:13 |
+| 41 | [Slippery Slope \(feat\. John Morgan\)](https://open.spotify.com/track/7wwDHIl90F7v46AwnMFD2o) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S), [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g) | [Slippery Slope](https://open.spotify.com/album/7wdcp0m6eIaBv1Ly5HaqGy) | 3:13 |
 | 42 | [Life Is Good](https://open.spotify.com/track/3I6yXRvoAJKufrHF3raaXI) | [Lil Man J](https://open.spotify.com/artist/5zfsO7xEsAQylcNrIdKm9H) | [Life Is Good](https://open.spotify.com/album/6Gks0TwiTKZaKq2yqKBQrm) | 2:46 |
 | 43 | [Written In Stone](https://open.spotify.com/track/4K85ODHSrXi0dWqEtJhwJe) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Written In Stone](https://open.spotify.com/album/5LMmcofa5NbYqP8EkMTj7n) | 2:57 |
 | 44 | [BREATHE](https://open.spotify.com/track/6ckaK36c0j2eZ9gR6yUhQd) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [AMERICAN PALM \(Deluxe\)](https://open.spotify.com/album/7v6VCUvNke9zNKFuzuX6Rd) | 3:19 |

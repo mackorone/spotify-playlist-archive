@@ -4,7 +4,7 @@
 
 > 
 
-2,273 songs - 5 day 2 hr 2 min
+2,274 songs - 5 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [bootleg\_mov](https://open.spotify.com/track/0jSDrl2wEOXkUQDkr770qe) | [ilyhiryu](https://open.spotify.com/artist/6v0qM3UbgdKlzIMRow87s2) | [bootleg\_mov](https://open.spotify.com/album/2ebgMhMeFLNQSnq6tVsvPn) | 1:56 | 2024-08-09 |  |
 | [Booty Getting Fatter!](https://open.spotify.com/track/11HVJXNgiIv5LAExfC6GRP) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [Booty Getting Fatter!](https://open.spotify.com/album/6kq7QpGS6ge3BWTMerbm4U) | 1:20 | 2021-08-05 |  |
 | [bop it up!](https://open.spotify.com/track/06yhr4JeQjIcyDZwEwjGcm) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [bop it up!](https://open.spotify.com/album/2N0mrM0E67bgXuOkeuEHjC) | 2:46 | 2021-08-05 |  |
+| [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 | 2025-10-04 |  |
 | [Born To Die](https://open.spotify.com/track/487OPlneJNni3NWC8SYqhW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 4:45 | 2021-08-05 |  |
 | [Boulevard of Broken Dreams](https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Greatest Hits: God's Favorite Band](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) | 4:22 | 2021-08-05 |  |
 | [Bounce](https://open.spotify.com/track/6dr2T6DRymdT1jfSUxDgut) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 1:54 | 2024-03-10 |  |
@@ -2081,7 +2082,7 @@
 | [Tuwi Tuwi](https://open.spotify.com/track/4JfRDEkkMYiLp76wepG9Vw) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Tuwi Tuwi](https://open.spotify.com/album/2TLl92KX0u6TNGtcMGD4EY) | 2:15 | 2024-10-30 |  |
 | [Twilight](https://open.spotify.com/track/6d67Xv8ms2noA8wWFLiPDN) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:48 | 2022-10-01 |  |
 | [Twintail Tsundere](https://open.spotify.com/track/4W3IvEKVsANlGuxdTGz14P) | [Goreshit](https://open.spotify.com/artist/2UyOnfaE8nWXKPwYQyp2La) | [My Love Feels All Wrong\. Digipak](https://open.spotify.com/album/2NekMZ3pdknQ0VdEuhSVwb) | 1:38 | 2022-02-04 |  |
-| [Twinz \(feat\. Fat Joe\)](https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [Capital Punishment](https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y) | 3:48 | 2023-02-25 |  |
+| [Twinz \(Deep Cover 98\) \(feat\. Fat Joe\)](https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [Capital Punishment](https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y) | 3:48 | 2023-02-25 |  |
 | [Twist](https://open.spotify.com/track/07xFWwKPOApMS56ildsV0G) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 0:49 | 2022-04-03 |  |
 | [TWISTED](https://open.spotify.com/track/4e82R436YiTeNqMKC0smY3) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [TWISTED](https://open.spotify.com/album/7Mw6h3F6UELb4IwcMr0IvF) | 2:38 | 2021-11-14 |  |
 | [Two Time](https://open.spotify.com/track/7JTGwb6ug0z15F5roNLE0s) | [Jack Stauber's Micropop](https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC) | [Inchman / Two Time](https://open.spotify.com/album/4MRCHFNTaIipvwa7KGpaWF) | 2:19 | 2021-08-05 |  |

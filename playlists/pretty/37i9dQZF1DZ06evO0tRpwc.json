@@ -1,12 +1,12 @@
 {
   "description": "This is Daniela Ara\u00fajo. The essential tracks, all in one playlist.",
-  "num_followers": 37842,
+  "num_followers": 37844,
   "original_name": "This Is Daniela Ara\u00fajo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAADW5FlNxjVpU40ActsKR/MF",
+  "snapshot_id": "aN8SAAAAAAA23KS468BsAGpEAxePTaGr",
   "tracks": [
     {
       "added_at": null,
@@ -128,9 +128,9 @@
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 271360,
-      "name": "A Voz (feat. Daniela Ara\u00fajo)",
-      "url": "https://open.spotify.com/track/1cVSnQQIkjPgOnV6GohVEB"
+      "duration_ms": 203120,
+      "name": "N\u00e3o Fale (feat. Daniela Ara\u00fajo)",
+      "url": "https://open.spotify.com/track/0CYLRw7EaHlDmbsX15HzUI"
     },
     {
       "added_at": null,
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 203120,
-      "name": "N\u00e3o Fale (feat. Daniela Ara\u00fajo)",
-      "url": "https://open.spotify.com/track/0CYLRw7EaHlDmbsX15HzUI"
+      "duration_ms": 271360,
+      "name": "A Voz (feat. Daniela Ara\u00fajo)",
+      "url": "https://open.spotify.com/track/1cVSnQQIkjPgOnV6GohVEB"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Daniela Ara\u00fajo",
+        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 248773,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/4aMAnyg0b8l4IWSamec9eg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Farol",
         "url": "https://open.spotify.com/album/0ktvXrUoZnV7OB8AH288ww"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 238363,
       "name": "Farol",
       "url": "https://open.spotify.com/track/2IKyipS7Mij4KcH1QnTEEY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Daniela Ara\u00fajo",
-        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 248773,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/4aMAnyg0b8l4IWSamec9eg"
     },
     {
       "added_at": null,
@@ -543,6 +543,34 @@
       "duration_ms": 226293,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/5a546hu8m59WXDxwAmryIt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quem de N\u00f3s (Vers\u00e3o Alternativa)",
+        "url": "https://open.spotify.com/album/5KolDQ8sprN12SFVayUGGe"
+      },
+      "artists": [
+        {
+          "name": "Vocal Livre",
+          "url": "https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        },
+        {
+          "name": "Bruno Faglioni",
+          "url": "https://open.spotify.com/artist/7oxPvng8qihFbzKHrnsf8G"
+        }
+      ],
+      "duration_ms": 307647,
+      "name": "Quem de N\u00f3s - Vers\u00e3o Alternativa",
+      "url": "https://open.spotify.com/track/2WmEpkDt8cj4cLeOOsurNH"
     },
     {
       "added_at": null,
@@ -599,34 +627,6 @@
       "duration_ms": 229111,
       "name": "Abril",
       "url": "https://open.spotify.com/track/0YjPR65MgY5cIFVtOuuAdt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quem de N\u00f3s (Vers\u00e3o Alternativa)",
-        "url": "https://open.spotify.com/album/5KolDQ8sprN12SFVayUGGe"
-      },
-      "artists": [
-        {
-          "name": "Vocal Livre",
-          "url": "https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        },
-        {
-          "name": "Bruno Faglioni",
-          "url": "https://open.spotify.com/artist/7oxPvng8qihFbzKHrnsf8G"
-        }
-      ],
-      "duration_ms": 307647,
-      "name": "Quem de N\u00f3s - Vers\u00e3o Alternativa",
-      "url": "https://open.spotify.com/track/2WmEpkDt8cj4cLeOOsurNH"
     },
     {
       "added_at": null,
@@ -919,6 +919,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Catarse: Lado A",
+        "url": "https://open.spotify.com/album/0S4YR4nYhn8jPcQ6c2m1qB"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 227586,
+      "name": "Purifica\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0OW1AOkDwDLXeEX252d35Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Doze",
         "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 209546,
       "name": "Seja o Centro",
       "url": "https://open.spotify.com/track/6IX12PDdTOA5YgESL8bTqV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Catarse: Lado A",
-        "url": "https://open.spotify.com/album/0S4YR4nYhn8jPcQ6c2m1qB"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 227586,
-      "name": "Purifica\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0OW1AOkDwDLXeEX252d35Y"
     },
     {
       "added_at": null,

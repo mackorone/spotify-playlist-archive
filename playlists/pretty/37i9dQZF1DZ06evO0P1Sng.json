@@ -6,8 +6,28 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAAD/Rx7oeNEVB16/4m5Pgu9I",
+  "snapshot_id": "aN8SAAAAAABF4QM6JlL/z0RZ672yEDqd",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "MC de Batalha",
+        "url": "https://open.spotify.com/album/2NNZqUGRmQEdAo8AyRQRRy"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "A.LBeats",
+          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
+        }
+      ],
+      "duration_ms": 188420,
+      "name": "MC de Batalha",
+      "url": "https://open.spotify.com/track/48sYhNCkx9es4AyTkIgHVJ"
+    },
     {
       "added_at": null,
       "album": {
@@ -707,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reverse",
-        "url": "https://open.spotify.com/album/7AeteQXJoHcRyOyB4du59D"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 133193,
-      "name": "Reverse",
-      "url": "https://open.spotify.com/track/2EMDPzYHzlRHggmbsJMtbo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dona de Mim (Novela)",
         "url": "https://open.spotify.com/album/6p6ZGXLBOeXYjUZBp6se5p"
       },
@@ -743,6 +747,22 @@
       "duration_ms": 151737,
       "name": "Dona de Mim - Novela",
       "url": "https://open.spotify.com/track/1AkaAvhFy8BUk5PH93hTP6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reverse",
+        "url": "https://open.spotify.com/album/7AeteQXJoHcRyOyB4du59D"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 133193,
+      "name": "Reverse",
+      "url": "https://open.spotify.com/track/2EMDPzYHzlRHggmbsJMtbo"
     },
     {
       "added_at": null,
@@ -1347,74 +1367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nota$ (Papatracks #3) (Participa\u00e7\u00e3o especial de Papatinho)",
-        "url": "https://open.spotify.com/album/1PU300VLz10xB5jMs5OVBn"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        }
-      ],
-      "duration_ms": 214772,
-      "name": "Nota$ (Papatracks #3) (Participa\u00e7\u00e3o especial de Papatinho)",
-      "url": "https://open.spotify.com/track/3zbMe3OWUAoUH2ptQnqYTY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arquivos",
-        "url": "https://open.spotify.com/album/0CtmDIpvYbwoOt7iMcVJw9"
-      },
-      "artists": [
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Cave",
-          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Arquivos",
-      "url": "https://open.spotify.com/track/5oQaUfLbBhR4yVla3O7jLS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Azzy (Ao Vivo no REP Festival)",
-        "url": "https://open.spotify.com/album/0hILiPum0Z7x4phAzYvRFx"
-      },
-      "artists": [
-        {
-          "name": "REP Festival",
-          "url": "https://open.spotify.com/artist/2V9BaqjysjWIIi3GePdYXu"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 196837,
-      "name": "Priv\u00ea - Ao Vivo no REP Festival",
-      "url": "https://open.spotify.com/track/0HjmUVSoJO8Tu9pxG0tasS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RIVA",
         "url": "https://open.spotify.com/album/1CvMpqtrSIAyLNTxLZywW6"
       },
@@ -1443,18 +1395,70 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morango",
-        "url": "https://open.spotify.com/album/5xAl0DYFuomlQ1daDr4LeG"
+        "name": "Arquivos",
+        "url": "https://open.spotify.com/album/0CtmDIpvYbwoOt7iMcVJw9"
+      },
+      "artists": [
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Arquivos",
+      "url": "https://open.spotify.com/track/5oQaUfLbBhR4yVla3O7jLS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nota$ (Papatracks #3) (Participa\u00e7\u00e3o especial de Papatinho)",
+        "url": "https://open.spotify.com/album/1PU300VLz10xB5jMs5OVBn"
       },
       "artists": [
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
         }
       ],
-      "duration_ms": 132857,
-      "name": "Morango",
-      "url": "https://open.spotify.com/track/1D2X9Yyj0LF5tAOrUMNy3P"
+      "duration_ms": 214772,
+      "name": "Nota$ (Papatracks #3) (Participa\u00e7\u00e3o especial de Papatinho)",
+      "url": "https://open.spotify.com/track/3zbMe3OWUAoUH2ptQnqYTY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Azzy (Ao Vivo no REP Festival)",
+        "url": "https://open.spotify.com/album/0hILiPum0Z7x4phAzYvRFx"
+      },
+      "artists": [
+        {
+          "name": "REP Festival",
+          "url": "https://open.spotify.com/artist/2V9BaqjysjWIIi3GePdYXu"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 196837,
+      "name": "Priv\u00ea - Ao Vivo no REP Festival",
+      "url": "https://open.spotify.com/track/0HjmUVSoJO8Tu9pxG0tasS"
     }
   ],
   "unique_name": "This Is Azzy",

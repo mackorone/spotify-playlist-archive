@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Keith Urban",
-  "num_followers": 143397,
+  "num_followers": 143406,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-09-26 04:00:13",
       "album": {
-        "name": "Country Music - A Film by Ken Burns (The Soundtrack) [Deluxe]",
-        "url": "https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 163040,
-      "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
-      "url": "https://open.spotify.com/track/55vr0rSNotM3KY1OB7H4zf"
-    },
-    {
-      "added_at": "2025-09-26 04:00:13",
-      "album": {
         "name": "Bullets in the Gun",
         "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 273826,
       "name": "Sundown - Live at the Fillmore New York at Irving Plaza, 2010",
       "url": "https://open.spotify.com/track/2RBfevYbpxycnnzBXZUwEi"
+    },
+    {
+      "added_at": "2025-09-26 04:00:13",
+      "album": {
+        "name": "Country Music - A Film by Ken Burns (The Soundtrack) [Deluxe]",
+        "url": "https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 163040,
+      "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
+      "url": "https://open.spotify.com/track/55vr0rSNotM3KY1OB7H4zf"
     },
     {
       "added_at": "2025-09-26 04:00:13",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-09-26 04:00:13",
       "album": {
-        "name": "Live at Billy Bob's Texas",
-        "url": "https://open.spotify.com/album/1PkurrIW7Sc98yl29ySlEm"
-      },
-      "artists": [
-        {
-          "name": "Johnny Lee",
-          "url": "https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu"
-        }
-      ],
-      "duration_ms": 242369,
-      "name": "Lookin' For Love",
-      "url": "https://open.spotify.com/track/1dWA2xldshVfzaVFBU1mq5"
-    },
-    {
-      "added_at": "2025-09-26 04:00:13",
-      "album": {
         "name": "Unapologetically (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 197600,
       "name": "Landslide - Live from Nashville",
       "url": "https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL"
+    },
+    {
+      "added_at": "2025-09-26 04:00:13",
+      "album": {
+        "name": "Live at Billy Bob's Texas",
+        "url": "https://open.spotify.com/album/1PkurrIW7Sc98yl29ySlEm"
+      },
+      "artists": [
+        {
+          "name": "Johnny Lee",
+          "url": "https://open.spotify.com/artist/45rAZqRt5nUUMatQzk8qJu"
+        }
+      ],
+      "duration_ms": 242369,
+      "name": "Lookin' For Love",
+      "url": "https://open.spotify.com/track/1dWA2xldshVfzaVFBU1mq5"
     },
     {
       "added_at": "2025-09-26 04:00:13",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-09-26 04:00:13",
       "album": {
-        "name": "Live From The Palomino",
-        "url": "https://open.spotify.com/album/5Ck7OfACj7bJ99vRf2oY3T"
-      },
-      "artists": [
-        {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
-        }
-      ],
-      "duration_ms": 232158,
-      "name": "Drinkin' Problem - Live From The Palomino",
-      "url": "https://open.spotify.com/track/3PfpOwE8tDp7tGy8oHiVaf"
-    },
-    {
-      "added_at": "2025-09-26 04:00:13",
-      "album": {
         "name": "Thank God (Live from Fenway)",
         "url": "https://open.spotify.com/album/1FwfnEMU23NCsVbgMJBLC8"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 170466,
       "name": "Welcome to Hard Times - Live from the Ryman",
       "url": "https://open.spotify.com/track/4QxGtOtabeAuy4WJ6OqG5V"
+    },
+    {
+      "added_at": "2025-09-26 04:00:13",
+      "album": {
+        "name": "Live From The Palomino",
+        "url": "https://open.spotify.com/album/5Ck7OfACj7bJ99vRf2oY3T"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 232158,
+      "name": "Drinkin' Problem - Live From The Palomino",
+      "url": "https://open.spotify.com/track/3PfpOwE8tDp7tGy8oHiVaf"
     },
     {
       "added_at": "2025-09-26 04:00:13",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-09-26 04:00:13",
       "album": {
-        "name": "The Essential Bobby Bare",
-        "url": "https://open.spotify.com/album/3PgY797yBOL2pkPMFm5BJH"
-      },
-      "artists": [
-        {
-          "name": "Bobby Bare",
-          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
-        }
-      ],
-      "duration_ms": 189080,
-      "name": "Marie Laveau",
-      "url": "https://open.spotify.com/track/7KfM4dvjWNxKhqEZljtMEQ"
-    },
-    {
-      "added_at": "2025-09-26 04:00:13",
-      "album": {
         "name": "Written in the Sand (Live)",
         "url": "https://open.spotify.com/album/7G3Dwbo16tc1GtxprZl1c2"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 196173,
       "name": "Written in the Sand - Live",
       "url": "https://open.spotify.com/track/2VBLgWNbhskMSG4VR1VUxv"
+    },
+    {
+      "added_at": "2025-09-26 04:00:13",
+      "album": {
+        "name": "The Essential Bobby Bare",
+        "url": "https://open.spotify.com/album/3PgY797yBOL2pkPMFm5BJH"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bare",
+          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
+        }
+      ],
+      "duration_ms": 189080,
+      "name": "Marie Laveau",
+      "url": "https://open.spotify.com/track/7KfM4dvjWNxKhqEZljtMEQ"
     },
     {
       "added_at": "2025-09-26 04:00:13",

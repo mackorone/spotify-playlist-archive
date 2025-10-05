@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen, con Seamoon en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,823 likes - 35 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,822 likes - 35 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 26 | [nasty](https://open.spotify.com/track/2WXMvFkfCn938wlvJxttAN) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [besitos, cuídate](https://open.spotify.com/album/3kfb4ye7atyQ1mEoI5Lecu) | 2:55 |
 | 27 | [POPPER!](https://open.spotify.com/track/41P9Z83VHtkpVYfpmDlkAA) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [epistolares](https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv) | 1:50 |
 | 28 | [acaramelada](https://open.spotify.com/track/1vWPNJvyXX2H4tazdPH9C0) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [acaramelada](https://open.spotify.com/album/6FdqOoAN0NF58EjVnclJc9) | 2:34 |
-| 29 | [Volar](https://open.spotify.com/track/6TTrUdM6iRVzeruzdfC9yZ) | [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2), [Ober](https://open.spotify.com/artist/1FBafj16EUL4L7I4SmCKUC), [BABYBOOM](https://open.spotify.com/artist/0kpa0ItmkgbH1HlSmyAosL) | [Volar](https://open.spotify.com/album/6Nehd9XhkZFYsIJwuOUWEH) | 3:29 |
-| 30 | [ESTAMINA](https://open.spotify.com/track/72hfagNY0Vdya31dliW3LE) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [ESTAMINA](https://open.spotify.com/album/7BVZytJvPtxkIoZ8P6f89x) | 2:43 |
+| 29 | [ESTAMINA](https://open.spotify.com/track/72hfagNY0Vdya31dliW3LE) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [ESTAMINA](https://open.spotify.com/album/7BVZytJvPtxkIoZ8P6f89x) | 2:43 |
+| 30 | [Volar](https://open.spotify.com/track/6TTrUdM6iRVzeruzdfC9yZ) | [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2), [Ober](https://open.spotify.com/artist/1FBafj16EUL4L7I4SmCKUC), [BABYBOOM](https://open.spotify.com/artist/0kpa0ItmkgbH1HlSmyAosL) | [Volar](https://open.spotify.com/album/6Nehd9XhkZFYsIJwuOUWEH) | 3:29 |
 | 31 | [POSEÍDA](https://open.spotify.com/track/4DTKzlDiEUIp2RdxJzP1kn) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [POSEÍDA](https://open.spotify.com/album/7DlNqWmZwZEJf4iFYLv5rB) | 3:52 |
 | 32 | [FICA PAPI](https://open.spotify.com/track/6qFJRXEdL4DYDhle6D2hsq) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [FICA PAPI](https://open.spotify.com/album/1fiww3hEVjJUeU2tL43sFO) | 2:25 |
 | 33 | [inmortal](https://open.spotify.com/track/5fbWIu80QFDqcZV86kTnZj) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [inmortal](https://open.spotify.com/album/3VEKoNYDQgGUoQVADy6xuu) | 2:35 |

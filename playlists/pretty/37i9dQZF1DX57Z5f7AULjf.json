@@ -1,6 +1,6 @@
 {
   "description": "we outside all summer 2025!",
-  "num_followers": 8478,
+  "num_followers": 8482,
   "original_name": "We Outside!",
   "owner": {
     "name": "Spotify",
@@ -509,42 +509,6 @@
       "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
     },
     {
-      "added_at": "2025-07-11 07:49:15",
-      "album": {
-        "name": "GUILT TRIPPIN (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 153400,
-      "name": "GUILT TRIPPIN (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ"
-    },
-    {
-      "added_at": "2025-08-01 02:12:09",
-      "album": {
-        "name": "YUP AND I DO",
-        "url": "https://open.spotify.com/album/7CgGavuS1DSvYXIbeqrq71"
-      },
-      "artists": [
-        {
-          "name": "ZEDDY WILL",
-          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
-        }
-      ],
-      "duration_ms": 126799,
-      "name": "YUP AND I DO",
-      "url": "https://open.spotify.com/track/6cA7DVYZYEYFKop72MRRRB"
-    },
-    {
       "added_at": "2023-06-16 05:16:25",
       "album": {
         "name": "Her Loss",
@@ -563,6 +527,42 @@
       "duration_ms": 214588,
       "name": "Spin Bout U",
       "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
+    },
+    {
+      "added_at": "2025-08-01 02:12:09",
+      "album": {
+        "name": "YUP AND I DO",
+        "url": "https://open.spotify.com/album/7CgGavuS1DSvYXIbeqrq71"
+      },
+      "artists": [
+        {
+          "name": "ZEDDY WILL",
+          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+        }
+      ],
+      "duration_ms": 126799,
+      "name": "YUP AND I DO",
+      "url": "https://open.spotify.com/track/6cA7DVYZYEYFKop72MRRRB"
+    },
+    {
+      "added_at": "2025-07-11 07:49:15",
+      "album": {
+        "name": "GUILT TRIPPIN (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 153400,
+      "name": "GUILT TRIPPIN (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ"
     },
     {
       "added_at": "2025-07-11 07:49:15",
@@ -777,26 +777,6 @@
       "url": "https://open.spotify.com/track/338HvC3y58zPScamNZu4Dr"
     },
     {
-      "added_at": "2024-05-16 21:55:50",
-      "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 250725,
-      "name": "TYRANT",
-      "url": "https://open.spotify.com/track/5mUlozUYpdmXVPkj4BW8cA"
-    },
-    {
       "added_at": "2025-07-11 07:49:15",
       "album": {
         "name": "Laho II",
@@ -835,6 +815,26 @@
       "duration_ms": 225500,
       "name": "Gimme Dat (feat. Wizkid)",
       "url": "https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo"
+    },
+    {
+      "added_at": "2024-05-16 21:55:50",
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 250725,
+      "name": "TYRANT",
+      "url": "https://open.spotify.com/track/5mUlozUYpdmXVPkj4BW8cA"
     },
     {
       "added_at": "2023-06-16 05:16:25",
@@ -885,6 +885,34 @@
       "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
     },
     {
+      "added_at": "2025-08-08 06:50:03",
+      "album": {
+        "name": "HOLLYWOOD",
+        "url": "https://open.spotify.com/album/16zR7LP3U1in4YsFnmA4ZC"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Shoreline Mafia",
+          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
+        },
+        {
+          "name": "OHGEESY",
+          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
+        },
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        }
+      ],
+      "duration_ms": 180380,
+      "name": "HOLLYWOOD",
+      "url": "https://open.spotify.com/track/3hkPqNU4lUd8A3smxWMLEY"
+    },
+    {
       "added_at": "2025-08-01 02:12:09",
       "album": {
         "name": "Gang Gang (feat. Rosecrans HopOut, YS, PhoPho8ight & Hitta J3)",
@@ -915,34 +943,6 @@
       "duration_ms": 227184,
       "name": "Gang Gang (feat. Rosecrans HopOut, YS, PhoPho8ight & Hitta J3)",
       "url": "https://open.spotify.com/track/05LySLBjyDruvbSPL3K7Gb"
-    },
-    {
-      "added_at": "2025-08-08 06:50:03",
-      "album": {
-        "name": "HOLLYWOOD",
-        "url": "https://open.spotify.com/album/16zR7LP3U1in4YsFnmA4ZC"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "Shoreline Mafia",
-          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
-        },
-        {
-          "name": "OHGEESY",
-          "url": "https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF"
-        },
-        {
-          "name": "Fenix Flexin",
-          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
-        }
-      ],
-      "duration_ms": 180380,
-      "name": "HOLLYWOOD",
-      "url": "https://open.spotify.com/track/3hkPqNU4lUd8A3smxWMLEY"
     }
   ],
   "unique_name": "We Outside!",

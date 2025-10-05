@@ -1,12 +1,12 @@
 {
   "description": "This is MUNA. The essential tracks, all in one playlist.",
-  "num_followers": 16517,
+  "num_followers": 16519,
   "original_name": "This Is MUNA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAAAJiBJocWF2jwqn6yHWxiUx",
+  "snapshot_id": "aN8SAAAAAABrL8R7Ly7T3gnqsASmAkEU",
   "tracks": [
     {
       "added_at": null,
@@ -435,18 +435,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At Electric Lady",
-        "url": "https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T"
+        "name": "Empathy (MUNA Remix)",
+        "url": "https://open.spotify.com/album/6PMsHKfKhE6hXSS7LDJVYG"
       },
       "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        },
         {
           "name": "MUNA",
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 228827,
-      "name": "August - Recorded At Electric Lady Studios",
-      "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
+      "duration_ms": 188369,
+      "name": "Empathy - MUNA Remix",
+      "url": "https://open.spotify.com/track/2biwJRdhdBM2Zq4mHBje3z"
     },
     {
       "added_at": null,
@@ -483,22 +487,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empathy (MUNA Remix)",
-        "url": "https://open.spotify.com/album/6PMsHKfKhE6hXSS7LDJVYG"
+        "name": "Live At Electric Lady",
+        "url": "https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T"
       },
       "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        },
         {
           "name": "MUNA",
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 188369,
-      "name": "Empathy - MUNA Remix",
-      "url": "https://open.spotify.com/track/2biwJRdhdBM2Zq4mHBje3z"
+      "duration_ms": 228827,
+      "name": "August - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Promising Young Woman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/58gdv0EuhcZ2auHfEBm4mL"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "Nihilist - From \"Promising Young Woman\" Soundtrack",
+      "url": "https://open.spotify.com/track/2yCtn6X5xZUjD049EllMFq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "So Special",
+      "url": "https://open.spotify.com/track/50EsWUxLBSS4nQnTuagVjF"
     },
     {
       "added_at": null,
@@ -523,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "So Special",
-      "url": "https://open.spotify.com/track/50EsWUxLBSS4nQnTuagVjF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Heart Will Go On (triple j Like A Version)",
         "url": "https://open.spotify.com/album/3itkPk0ru3z6Ve5MMnQTrF"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 223458,
       "name": "My Heart Will Go On - triple j Like a Version",
       "url": "https://open.spotify.com/track/3FofBrXUZOUD9KynMnodol"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Promising Young Woman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/58gdv0EuhcZ2auHfEBm4mL"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Nihilist - From \"Promising Young Woman\" Soundtrack",
-      "url": "https://open.spotify.com/track/2yCtn6X5xZUjD049EllMFq"
     }
   ],
   "unique_name": "This Is MUNA",

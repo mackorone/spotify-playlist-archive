@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2024.",
-  "num_followers": 3337,
+  "num_followers": 3338,
   "original_name": "BISE Festival 2024",
   "owner": {
     "name": "Spotify",
@@ -513,6 +513,22 @@
       "url": "https://open.spotify.com/track/4JpDToTM1LqoSreM99SRPb"
     },
     {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
+        "name": "ACID",
+        "url": "https://open.spotify.com/album/5DUBanco1qA9ksFdBVe5LZ"
+      },
+      "artists": [
+        {
+          "name": "Hyper Jacuzzi",
+          "url": "https://open.spotify.com/artist/5RkOL12PMfc3CDRY6JElZ1"
+        }
+      ],
+      "duration_ms": 258560,
+      "name": "ACID",
+      "url": "https://open.spotify.com/track/552GDaca9nwW4RuN2CsZZt"
+    },
+    {
       "added_at": "2024-01-15 17:31:32",
       "album": {
         "name": "Otak\u00e9",
@@ -527,22 +543,6 @@
       "duration_ms": 393146,
       "name": "Otak\u00e9",
       "url": "https://open.spotify.com/track/3n6228HfZMeTX07O1XkZDc"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
-        "name": "De bois et de fum\u00e9e",
-        "url": "https://open.spotify.com/album/6nEyEPfSJkjaiIPZa0pDlj"
-      },
-      "artists": [
-        {
-          "name": "Joanne Radao",
-          "url": "https://open.spotify.com/artist/4zugZIfmlrWGtdvmmO1LNP"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "De bois et de fum\u00e9e",
-      "url": "https://open.spotify.com/track/4Aq2pTQXWpWMshDv0IAen8"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "ACID",
-        "url": "https://open.spotify.com/album/5DUBanco1qA9ksFdBVe5LZ"
+        "name": "De bois et de fum\u00e9e",
+        "url": "https://open.spotify.com/album/6nEyEPfSJkjaiIPZa0pDlj"
       },
       "artists": [
         {
-          "name": "Hyper Jacuzzi",
-          "url": "https://open.spotify.com/artist/5RkOL12PMfc3CDRY6JElZ1"
+          "name": "Joanne Radao",
+          "url": "https://open.spotify.com/artist/4zugZIfmlrWGtdvmmO1LNP"
         }
       ],
-      "duration_ms": 258560,
-      "name": "ACID",
-      "url": "https://open.spotify.com/track/552GDaca9nwW4RuN2CsZZt"
+      "duration_ms": 151000,
+      "name": "De bois et de fum\u00e9e",
+      "url": "https://open.spotify.com/track/4Aq2pTQXWpWMshDv0IAen8"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -645,20 +645,20 @@
       "url": "https://open.spotify.com/track/2SeDCGCcWkQ0xNFEi0ThYl"
     },
     {
-      "added_at": "2023-11-23 11:08:33",
+      "added_at": "2024-01-15 17:31:32",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/7segRmevYXc3m4VAmw7grT"
+        "name": "528Hz",
+        "url": "https://open.spotify.com/album/7i6HxReY7m9wHSOdh3au8V"
       },
       "artists": [
         {
-          "name": "MALVINA",
-          "url": "https://open.spotify.com/artist/6LvXqXnw5SEWHhXPz9be4n"
+          "name": "\u00c9NA\u00c9",
+          "url": "https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM"
         }
       ],
-      "duration_ms": 240653,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/1xY0IYX9buuQoBABdw2oB2"
+      "duration_ms": 188647,
+      "name": "Pardon",
+      "url": "https://open.spotify.com/track/4LrqruvRJpaiLcgpOPPRnR"
     },
     {
       "added_at": "2023-11-23 11:08:33",
@@ -677,20 +677,20 @@
       "url": "https://open.spotify.com/track/2VMYVC78nVxCy2Xw3orm4P"
     },
     {
-      "added_at": "2024-01-15 17:31:32",
+      "added_at": "2023-11-23 11:08:33",
       "album": {
-        "name": "528Hz",
-        "url": "https://open.spotify.com/album/7i6HxReY7m9wHSOdh3au8V"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/7segRmevYXc3m4VAmw7grT"
       },
       "artists": [
         {
-          "name": "\u00c9NA\u00c9",
-          "url": "https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM"
+          "name": "MALVINA",
+          "url": "https://open.spotify.com/artist/6LvXqXnw5SEWHhXPz9be4n"
         }
       ],
-      "duration_ms": 188647,
-      "name": "Pardon",
-      "url": "https://open.spotify.com/track/4LrqruvRJpaiLcgpOPPRnR"
+      "duration_ms": 240653,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/1xY0IYX9buuQoBABdw2oB2"
     },
     {
       "added_at": "2023-11-23 11:08:33",

@@ -1,6 +1,6 @@
 {
   "description": "The best in South African and international R&B. Cover: Lusanda",
-  "num_followers": 25030,
+  "num_followers": 25031,
   "original_name": "R&Beats",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,26 @@
     {
       "added_at": "2025-10-03 07:11:29",
       "album": {
+        "name": "Aweh [Remix] (feat. Cassper Nyovest)",
+        "url": "https://open.spotify.com/album/5aQWOuuzkvcemieOiW1t7H"
+      },
+      "artists": [
+        {
+          "name": "lordkez",
+          "url": "https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88"
+        },
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        }
+      ],
+      "duration_ms": 207640,
+      "name": "Aweh [Remix] (feat. Cassper Nyovest)",
+      "url": "https://open.spotify.com/track/7sR4V3QuvyZS8jLzbhUpM2"
+    },
+    {
+      "added_at": "2025-10-03 07:11:29",
+      "album": {
         "name": "do what i say",
         "url": "https://open.spotify.com/album/7pIJAfTKAZ0YoLhdjTwM1E"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 166530,
       "name": "May 10th",
       "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
-    },
-    {
-      "added_at": "2025-10-03 07:11:29",
-      "album": {
-        "name": "Aweh [Remix] (feat. Cassper Nyovest)",
-        "url": "https://open.spotify.com/album/5aQWOuuzkvcemieOiW1t7H"
-      },
-      "artists": [
-        {
-          "name": "lordkez",
-          "url": "https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88"
-        },
-        {
-          "name": "Cassper Nyovest",
-          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
-        }
-      ],
-      "duration_ms": 207640,
-      "name": "Aweh [Remix] (feat. Cassper Nyovest)",
-      "url": "https://open.spotify.com/track/7sR4V3QuvyZS8jLzbhUpM2"
     },
     {
       "added_at": "2025-10-03 07:11:29",
@@ -827,26 +827,6 @@
     {
       "added_at": "2025-10-03 07:11:29",
       "album": {
-        "name": "Can We Talk?",
-        "url": "https://open.spotify.com/album/5bzaSX78ybcXW55HFe8xZi"
-      },
-      "artists": [
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 188852,
-      "name": "Can We Talk?",
-      "url": "https://open.spotify.com/track/1NeL0geu5M3lya479QuA6q"
-    },
-    {
-      "added_at": "2025-10-03 07:11:29",
-      "album": {
         "name": "Ecstasy (Remix) [feat. Teyana Taylor]",
         "url": "https://open.spotify.com/album/305yIXU97c0Sa68bjQNSTz"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 210071,
       "name": "Ecstasy (Remix) [feat. Teyana Taylor]",
       "url": "https://open.spotify.com/track/23WBvFOEKE7KYae5H1usrA"
+    },
+    {
+      "added_at": "2025-10-03 07:11:29",
+      "album": {
+        "name": "Can We Talk?",
+        "url": "https://open.spotify.com/album/5bzaSX78ybcXW55HFe8xZi"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 188852,
+      "name": "Can We Talk?",
+      "url": "https://open.spotify.com/track/1NeL0geu5M3lya479QuA6q"
     },
     {
       "added_at": "2025-10-03 07:11:29",

@@ -1,12 +1,12 @@
 {
   "description": "This is Mar de Copas. The essential tracks, all in one playlist.",
-  "num_followers": 8501,
+  "num_followers": 8503,
   "original_name": "This Is Mar de Copas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAAAr3bB6PIbXCtQX/2k5TWF8",
+  "snapshot_id": "aN8SAAAAAAApzjYgA6PeVL53Zo+9c/mK",
   "tracks": [
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Tierra",
-        "url": "https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP"
+        "name": "Seis",
+        "url": "https://open.spotify.com/album/50PI1azbBTaS655Uhs9Ulx"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 243413,
-      "name": "Una Historia M\u00e1s",
-      "url": "https://open.spotify.com/track/2mepxXfZbgVvC2zw8FCCYt"
+      "duration_ms": 241720,
+      "name": "C\u00f3mo Pensar Que No Te Quise",
+      "url": "https://open.spotify.com/track/6XIlkDOQxF681R9F3bugBk"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seis",
-        "url": "https://open.spotify.com/album/50PI1azbBTaS655Uhs9Ulx"
+        "name": "De Tierra",
+        "url": "https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 241720,
-      "name": "C\u00f3mo Pensar Que No Te Quise",
-      "url": "https://open.spotify.com/track/6XIlkDOQxF681R9F3bugBk"
+      "duration_ms": 243413,
+      "name": "Una Historia M\u00e1s",
+      "url": "https://open.spotify.com/track/2mepxXfZbgVvC2zw8FCCYt"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suna",
-        "url": "https://open.spotify.com/album/2dbtl75dnHdb0weSIvhrtI"
+        "name": "Seis",
+        "url": "https://open.spotify.com/album/50PI1azbBTaS655Uhs9Ulx"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 273120,
-      "name": "El Rumbo del Mar",
-      "url": "https://open.spotify.com/track/3DJ3U63ZMcyDto3nT4yLTO"
+      "duration_ms": 249586,
+      "name": "Siglo XX",
+      "url": "https://open.spotify.com/track/4OZgSWznmn6hzNSJSIgiV8"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seis",
-        "url": "https://open.spotify.com/album/50PI1azbBTaS655Uhs9Ulx"
-      },
-      "artists": [
-        {
-          "name": "Mar de Copas",
-          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
-        }
-      ],
-      "duration_ms": 249586,
-      "name": "Siglo XX",
-      "url": "https://open.spotify.com/track/4OZgSWznmn6hzNSJSIgiV8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Tierra",
         "url": "https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Suna",
+        "url": "https://open.spotify.com/album/2dbtl75dnHdb0weSIvhrtI"
+      },
+      "artists": [
+        {
+          "name": "Mar de Copas",
+          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
+        }
+      ],
+      "duration_ms": 273120,
+      "name": "El Rumbo del Mar",
+      "url": "https://open.spotify.com/track/3DJ3U63ZMcyDto3nT4yLTO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mar de Copas: 25 A\u00f1os (Edici\u00f3n Remasterizada)",
         "url": "https://open.spotify.com/album/05KOInw4nhCfDQSWeLuL1X"
       },
@@ -663,22 +663,6 @@
       "duration_ms": 190960,
       "name": "Devuelve un Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0OVmwTjavXzg2VpgVr79Dm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Suna",
-        "url": "https://open.spotify.com/album/2dbtl75dnHdb0weSIvhrtI"
-      },
-      "artists": [
-        {
-          "name": "Mar de Copas",
-          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
-        }
-      ],
-      "duration_ms": 347733,
-      "name": "Lo Que Tu Gesto Da",
-      "url": "https://open.spotify.com/track/5AgU65tzExyFTeO4hJ9knw"
     },
     {
       "added_at": null,
@@ -715,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Suna",
+        "url": "https://open.spotify.com/album/2dbtl75dnHdb0weSIvhrtI"
+      },
+      "artists": [
+        {
+          "name": "Mar de Copas",
+          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
+        }
+      ],
+      "duration_ms": 347733,
+      "name": "Lo Que Tu Gesto Da",
+      "url": "https://open.spotify.com/track/5AgU65tzExyFTeO4hJ9knw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/4rBvKNO0rcUjv8ItVyA4dG"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre los \u00c1rboles",
-        "url": "https://open.spotify.com/album/5a63uy7tHDugATtAijhS7p"
-      },
-      "artists": [
-        {
-          "name": "Mar de Copas",
-          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Regalo de Amor",
-      "url": "https://open.spotify.com/track/0K5xpffTkH7bnyN43x0raf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Tierra",
         "url": "https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 137533,
       "name": "Momentos de Ti",
       "url": "https://open.spotify.com/track/1pP6oOCD6oay0yEZQTBcQS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre los \u00c1rboles",
+        "url": "https://open.spotify.com/album/5a63uy7tHDugATtAijhS7p"
+      },
+      "artists": [
+        {
+          "name": "Mar de Copas",
+          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Regalo de Amor",
+      "url": "https://open.spotify.com/track/0K5xpffTkH7bnyN43x0raf"
     },
     {
       "added_at": null,

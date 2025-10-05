@@ -1,6 +1,6 @@
 {
   "description": "Slacker jams. ",
-  "num_followers": 503508,
+  "num_followers": 503481,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "It's All In Your Head",
-        "url": "https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR"
-      },
-      "artists": [
-        {
-          "name": "dandelion hands",
-          "url": "https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm"
-        }
-      ],
-      "duration_ms": 167126,
-      "name": "I Like You",
-      "url": "https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "Long Nights and Wasted Affairs",
         "url": "https://open.spotify.com/album/2YKrT7Izbd8U5muoR0ZNaL"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 222992,
       "name": "running to find you",
       "url": "https://open.spotify.com/track/2FEf9b0UGPt3jsEQ3VGGTS"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "It's All In Your Head",
+        "url": "https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR"
+      },
+      "artists": [
+        {
+          "name": "dandelion hands",
+          "url": "https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm"
+        }
+      ],
+      "duration_ms": 167126,
+      "name": "I Like You",
+      "url": "https://open.spotify.com/track/4mlqHOqOXja92BT4M51lkj"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "The Gaping Mouth",
-        "url": "https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU"
-      },
-      "artists": [
-        {
-          "name": "Lowertown",
-          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
-        }
-      ],
-      "duration_ms": 219010,
-      "name": "Seaface",
-      "url": "https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "California Screaming",
         "url": "https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 197000,
       "name": "California Screaming",
       "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "The Gaping Mouth",
+        "url": "https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU"
+      },
+      "artists": [
+        {
+          "name": "Lowertown",
+          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
+        }
+      ],
+      "duration_ms": 219010,
+      "name": "Seaface",
+      "url": "https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "Get back to me",
-        "url": "https://open.spotify.com/album/6U8hWwjGntHu3thhtm0jGB"
+        "name": "mr. rager",
+        "url": "https://open.spotify.com/album/6LMb3HyxEExqGc6rpg38QP"
       },
       "artists": [
         {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
         }
       ],
-      "duration_ms": 190441,
-      "name": "Get back to me",
-      "url": "https://open.spotify.com/track/3YxMOcoa7ogJlG4e6zyJwm"
+      "duration_ms": 220109,
+      "name": "mr. rager",
+      "url": "https://open.spotify.com/track/0Pt2JTtqrgNPecmrOwVmaP"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "mr. rager",
-        "url": "https://open.spotify.com/album/6LMb3HyxEExqGc6rpg38QP"
+        "name": "Get back to me",
+        "url": "https://open.spotify.com/album/6U8hWwjGntHu3thhtm0jGB"
       },
       "artists": [
         {
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         }
       ],
-      "duration_ms": 220109,
-      "name": "mr. rager",
-      "url": "https://open.spotify.com/track/0Pt2JTtqrgNPecmrOwVmaP"
+      "duration_ms": 190441,
+      "name": "Get back to me",
+      "url": "https://open.spotify.com/track/3YxMOcoa7ogJlG4e6zyJwm"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
+        "name": "Year Of The Rat",
+        "url": "https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 191684,
+      "name": "Take It Off",
+      "url": "https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
         "name": "When You Gonna Tell 'Em the Truth, Aaron?",
         "url": "https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba"
       },
@@ -1111,18 +1127,18 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "Year Of The Rat",
-        "url": "https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm"
+        "name": "i wanna",
+        "url": "https://open.spotify.com/album/6BhQyzycyRPetDQ8iJhN5i"
       },
       "artists": [
         {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+          "name": "sweet93",
+          "url": "https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y"
         }
       ],
-      "duration_ms": 191684,
-      "name": "Take It Off",
-      "url": "https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS"
+      "duration_ms": 139354,
+      "name": "i wanna",
+      "url": "https://open.spotify.com/track/16yTwYw2o5hgtf1YDePQN7"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1155,22 +1171,6 @@
       "duration_ms": 179573,
       "name": "I Want To Be With You",
       "url": "https://open.spotify.com/track/2bYTSTwiAPXDj322o1wKu2"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
-        "name": "i wanna",
-        "url": "https://open.spotify.com/album/6BhQyzycyRPetDQ8iJhN5i"
-      },
-      "artists": [
-        {
-          "name": "sweet93",
-          "url": "https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y"
-        }
-      ],
-      "duration_ms": 139354,
-      "name": "i wanna",
-      "url": "https://open.spotify.com/track/16yTwYw2o5hgtf1YDePQN7"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "Escape From The Killer",
-        "url": "https://open.spotify.com/album/3f8J1FJdPioQfUEG3FL2PG"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 206524,
-      "name": "Escape From The Killer 2008",
-      "url": "https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "That's What They Wanted",
         "url": "https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 116832,
       "name": "That's What They Wanted",
       "url": "https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "Escape From The Killer",
+        "url": "https://open.spotify.com/album/3f8J1FJdPioQfUEG3FL2PG"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 206524,
+      "name": "Escape From The Killer 2008",
+      "url": "https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "gums",
-        "url": "https://open.spotify.com/album/5WIoze1Mah2RAPGwWefQOa"
-      },
-      "artists": [
-        {
-          "name": "Blue Mena",
-          "url": "https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa"
-        }
-      ],
-      "duration_ms": 218263,
-      "name": "Gums",
-      "url": "https://open.spotify.com/track/1SPkDEDUnOZqMfcRPPMYgu"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "Contently Miserable",
         "url": "https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 215000,
       "name": "Contently Miserable",
       "url": "https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "gums",
+        "url": "https://open.spotify.com/album/5WIoze1Mah2RAPGwWefQOa"
+      },
+      "artists": [
+        {
+          "name": "Blue Mena",
+          "url": "https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa"
+        }
+      ],
+      "duration_ms": 218263,
+      "name": "Gums",
+      "url": "https://open.spotify.com/track/1SPkDEDUnOZqMfcRPPMYgu"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "echo of a star",
-        "url": "https://open.spotify.com/album/49CXWXhvMHPw7d5eDwv4NE"
-      },
-      "artists": [
-        {
-          "name": "lace",
-          "url": "https://open.spotify.com/artist/7foHxRQbxX06umj1ScznAZ"
-        }
-      ],
-      "duration_ms": 256299,
-      "name": "echo of a star",
-      "url": "https://open.spotify.com/track/09CkTbaLxTFS9inmx7le9c"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "Altitude",
         "url": "https://open.spotify.com/album/7DtfdvLRl8czN4vhSNRJv0"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 210446,
       "name": "Altitude",
       "url": "https://open.spotify.com/track/5hh5t7Wc3NuzFlRhl5Yxhx"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "echo of a star",
+        "url": "https://open.spotify.com/album/49CXWXhvMHPw7d5eDwv4NE"
+      },
+      "artists": [
+        {
+          "name": "lace",
+          "url": "https://open.spotify.com/artist/7foHxRQbxX06umj1ScznAZ"
+        }
+      ],
+      "duration_ms": 256299,
+      "name": "echo of a star",
+      "url": "https://open.spotify.com/track/09CkTbaLxTFS9inmx7le9c"
     },
     {
       "added_at": "2025-05-01 22:27:23",

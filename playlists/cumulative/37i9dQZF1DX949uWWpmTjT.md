@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-1,117 songs - 2 day 23 hr 53 min
+1,118 songs - 2 day 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,9 +215,9 @@
 | [Darn That Dream](https://open.spotify.com/track/0GGvzr8DvHlwkkDsxX97Mm) | [Höper & Lundgren](https://open.spotify.com/artist/5zdwXdtL9IXBWVVthJvHjE) | [Darn that Dream](https://open.spotify.com/album/6StNAT06U2F7veDX8UdZCd) | 4:59 | 2021-12-03 | 2024-03-08 |
 | [Darn that Dream](https://open.spotify.com/track/2o8e9FeYEFfRwQil9CArII) | [Höper & Lundgren](https://open.spotify.com/artist/5zdwXdtL9IXBWVVthJvHjE) | [Darn that Dream](https://open.spotify.com/album/533MXY92csIUs0p23KoIZ5) | 4:59 | 2024-03-29 | 2024-04-19 |
 | [Darn That Dream](https://open.spotify.com/track/2lzmr63brYXxdCQsFNJNE0) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Being In Love](https://open.spotify.com/album/5NZCSnRwXtV5AWnm7EpkBX) | 4:53 | 2023-02-09 | 2025-10-01 |
-| [Days of Hope](https://open.spotify.com/track/2du32xbCagN60GvRvtbRmH) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [Days of Hope](https://open.spotify.com/album/3PgS9gBwNFLDkBxNeSbBBk) | 2:34 | 2024-02-23 |  |
+| [Days of Hope](https://open.spotify.com/track/2du32xbCagN60GvRvtbRmH) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [Days of Hope](https://open.spotify.com/album/3PgS9gBwNFLDkBxNeSbBBk) | 2:34 | 2024-02-23 | 2025-10-05 |
 | [Days Of Wine And Roses](https://open.spotify.com/track/1yegDiVa8d94H07ga1SLOt) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Boss Guitar](https://open.spotify.com/album/41Ymau5t3NA04iDRzdv3mR) | 3:46 | 2022-09-01 | 2022-11-18 |
-| [Dazzle my eyes](https://open.spotify.com/track/2X1KnKmWQKyf3Q8HwjnahW) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Dazzle my eyes](https://open.spotify.com/album/1fOSHz1VrhlPyk6IW5UVnn) | 3:25 | 2024-05-10 | 2025-10-01 |
+| [Dazzle my eyes](https://open.spotify.com/track/2X1KnKmWQKyf3Q8HwjnahW) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Dazzle my eyes](https://open.spotify.com/album/1fOSHz1VrhlPyk6IW5UVnn) | 3:25 | 2024-05-10 |  |
 | [Dear Old Stockholm](https://open.spotify.com/track/0g13WtzfAwcHPSdcZnMbxH) | [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi), [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80), [Dave Carpenter](https://open.spotify.com/artist/4m3nck0lOhCa4Pe0BqZ5B2) | [Standards](https://open.spotify.com/album/7LwgjZR50qndbpvS5kSDby) | 7:46 | 2021-12-03 | 2025-05-21 |
 | [Dearly Beloved](https://open.spotify.com/track/5tJjgkORBtJ68L2ZSXHhcK) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Dearly Beloved](https://open.spotify.com/album/75yf4jDzTpgPN2NSxul6jd) | 3:51 | 2023-06-15 | 2024-02-04 |
 | [Decor\-free](https://open.spotify.com/track/4iACpgxgxLkWkd4kypNNwx) | [Sarah Troedsson](https://open.spotify.com/artist/5KFUCJQThUzmtIFTtsHdfh) | [Decor\-free](https://open.spotify.com/album/1cry6SmclW8CYxmloksuVf) | 3:59 | 2024-01-05 | 2025-10-01 |
@@ -359,7 +359,7 @@
 | [He Knows I'm Sophisticated](https://open.spotify.com/track/7FoREcrEypkMF3bdA1auQF) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [He Knows I'm Sophisticated](https://open.spotify.com/album/4w9qBQ0YSTsrDXmXmZoNBf) | 2:47 | 2023-02-02 | 2025-10-01 |
 | [He Said She Got It Going](https://open.spotify.com/track/5xvW6Jx9hLAR6j0fkFFdws) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [He Said She Got It Going](https://open.spotify.com/album/16dT2u1PffX5zPK7US1hwS) | 2:38 | 2023-02-02 |  |
 | [Heartbreak Avenue](https://open.spotify.com/track/6LeUGbjrPif0UyaPYzKxdG) | [James Elias](https://open.spotify.com/artist/1uOGdY4LAe4Bc2YLhjsPGr) | [Heartbreak Avenue](https://open.spotify.com/album/3RrW88TLHIjgNehr6KG4sk) | 3:08 | 2023-03-23 |  |
-| [Heartstrings](https://open.spotify.com/track/6DWlgYRquRmphcMPBCL6NF) | [Emily Green Trio](https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg) | [Heartstrings](https://open.spotify.com/album/1rmP7N7m9ZyLGnN2R2bVSx) | 2:41 | 2023-08-18 |  |
+| [Heartstrings](https://open.spotify.com/track/6DWlgYRquRmphcMPBCL6NF) | [Emily Green Trio](https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg) | [Heartstrings](https://open.spotify.com/album/1rmP7N7m9ZyLGnN2R2bVSx) | 2:41 | 2023-08-18 | 2025-10-05 |
 | [Heaven here](https://open.spotify.com/track/2J0A1Z7djWS3n0vSiyvgwQ) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Heaven here](https://open.spotify.com/album/5QtsXrImWEImIVTEV3NIai) | 3:32 | 2023-08-10 |  |
 | [Hello From Above](https://open.spotify.com/track/7f8bsD5ag4ygvMRtUPvSu0) | [Ordinary Sparks](https://open.spotify.com/artist/3WIlhMXPhYYiil5u2n47yk) | [Blues For Elsie](https://open.spotify.com/album/55CmXhW64nZfXpEeo1ARyk) | 3:40 | 2023-08-10 |  |
 | [Hello, Young Lovers](https://open.spotify.com/track/1WvROGTTw41o8BQ2zHx6sg) | [Southside Players](https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh) | [Hello, Young Lovers](https://open.spotify.com/album/4lkUwuT4R63CpwvTPse8aU) | 3:54 | 2023-06-01 |  |
@@ -1021,6 +1021,7 @@
 | [Up before the dawn](https://open.spotify.com/track/1R7EYodTHWPEyV5u96oFRE) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [Up before the dawn](https://open.spotify.com/album/4UdKcEHfFrgqSuJ6ybBfT1) | 3:33 | 2023-05-11 |  |
 | [Urban Jazz Chronicles](https://open.spotify.com/track/2GJaiss4EABlUcFad7jCgz) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Urban Jazz Chronicles](https://open.spotify.com/album/3t43Otx3MUbxa0u6WLEKp0) | 3:41 | 2024-01-05 | 2024-07-10 |
 | [Varenne](https://open.spotify.com/track/3KPiGdRDaJHCQcuv3m7PG8) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Varenne](https://open.spotify.com/album/0JPktB7VKfmNZsZ1LrwBho) | 3:44 | 2022-11-10 | 2025-10-01 |
+| [Velvet ends](https://open.spotify.com/track/7p1fU03vJS9qsb2WdgmRtp) | [Third Rail Trio](https://open.spotify.com/artist/6xUJ9flk0CNfQHWGO4wt6X) | [Velvet ends](https://open.spotify.com/album/1e6DPDmgncVYksrrNgNci7) | 2:54 | 2025-09-30 |  |
 | [Vi drar till fjället](https://open.spotify.com/track/2Y8O8KbZlh2OFLAOZAUKw1) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Vi drar till fjället](https://open.spotify.com/album/4QudsbRCU01iRaeI2kmOpP) | 2:50 | 2022-11-10 | 2025-10-01 |
 | [Views Of Dawn](https://open.spotify.com/track/3zUaKDbqzQnoqkL0BSH3QI) | [Chuck Ingels](https://open.spotify.com/artist/4CzMpvvFF26btXNUocepwY) | [Views Of Dawn](https://open.spotify.com/album/4nJdBEbnZwvdvp7OyAnCF1) | 6:13 | 2023-09-22 | 2024-02-27 |
 | [Vine Street](https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Vine Street](https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1) | 2:26 | 2022-12-01 |  |

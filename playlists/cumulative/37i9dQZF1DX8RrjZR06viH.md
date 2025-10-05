@@ -4,7 +4,7 @@
 
 > Høsten er her! 🍂
 
-259 songs - 13 hr 25 min
+260 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Lovestory](https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [A Lovestory](https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT) | 3:04 | 2025-01-09 |  |
 | [A Potion For Love](https://open.spotify.com/track/5Xk6GwwLwQaklody4DslTD) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Potion For Love](https://open.spotify.com/album/79kiDzdz5iv1aQ68x4PJA0) | 3:36 | 2024-06-27 | 2025-05-03 |
 | [Adore](https://open.spotify.com/track/2sENyZSkrNmZcePPnkPszn) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Adore](https://open.spotify.com/album/3F8z3hFHaIeaJogq3hKpS6) | 3:18 | 2025-05-08 | 2025-09-12 |
-| [Aldri så vondt](https://open.spotify.com/track/0Gaq0ZNS9kQwgNCmWS6ER7) | [Synne Sørgjerd](https://open.spotify.com/artist/5Ai4yHtSLrIhQD7AmTs9XF) | [Aldri så vondt](https://open.spotify.com/album/5IWoalOQ3l7YMopQ9qyc3j) | 3:13 | 2025-09-25 | 2025-10-03 |
+| [Aldri så vondt](https://open.spotify.com/track/0Gaq0ZNS9kQwgNCmWS6ER7) | [Synne Sørgjerd](https://open.spotify.com/artist/5Ai4yHtSLrIhQD7AmTs9XF) | [Aldri så vondt](https://open.spotify.com/album/5IWoalOQ3l7YMopQ9qyc3j) | 3:13 | 2025-09-25 |  |
 | [Aleine over fjell](https://open.spotify.com/track/3hTueanE6FImv3heUnvow8) | [Bråtabrann](https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71) | [Aleine over fjell](https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL) | 2:53 | 2025-03-27 | 2025-04-11 |
 | [Alibi](https://open.spotify.com/track/1aLTu59n1Wix22Wwbr1BdE) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Alibi](https://open.spotify.com/album/1H4bbyylsgLeduoQrASeGr) | 3:33 | 2025-08-28 | 2025-09-29 |
 | [All I have to do is dream](https://open.spotify.com/track/6n1cGIlaYq9vS2IhaVNsmQ) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [All I have to do is dream](https://open.spotify.com/album/2rILOh9OCQWDgjO1dbDtVd) | 2:10 | 2025-04-10 | 2025-09-01 |
@@ -107,10 +107,10 @@
 | [HJERTET MITT ER HELT OK](https://open.spotify.com/track/4vpI1R5pmRKAS9pbMDb8Vg) | [Hkeem](https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH), [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [HJERTET MITT ER HELT OK](https://open.spotify.com/album/52qTuKqpnm3PtCtMRFa3i4) | 2:24 | 2024-06-27 | 2025-05-03 |
 | [Hold ut](https://open.spotify.com/track/6b1I45GG5aaC5Wa25dRr5A) | [Bendik](https://open.spotify.com/artist/4krYRNHjKcETSEY2Ghf9Mo) | [Hold ut](https://open.spotify.com/album/27V8eibnHQyrU0FcJr33Bq) | 2:59 | 2025-05-08 | 2025-06-23 |
 | [Hollow](https://open.spotify.com/track/3VT6jFPE7PwrvTh94UtDoN) | [Sivert Høyem](https://open.spotify.com/artist/2xMBy2SwN1OMgSSCKmX3IG) | [Hollow](https://open.spotify.com/album/2uKlK7Oq7GYrk74HJhU4oQ) | 3:56 | 2024-12-19 | 2025-01-10 |
-| [Hollywood Hills](https://open.spotify.com/track/5jeRRvj8X1DWDrlCG23EI2) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Hollywood Hills](https://open.spotify.com/album/6NJMVeFDvI0egKuknUyRWH) | 2:37 | 2024-10-24 |  |
+| [Hollywood Hills](https://open.spotify.com/track/5jeRRvj8X1DWDrlCG23EI2) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Hollywood Hills](https://open.spotify.com/album/6NJMVeFDvI0egKuknUyRWH) | 2:37 | 2024-10-24 | 2025-10-05 |
 | [Hospitals](https://open.spotify.com/track/5UD6uQp41jdj91OgaTNYt6) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [How did I let this get so serious?](https://open.spotify.com/album/05Ubk2mvbh4XsKR5mCDDUU) | 2:54 | 2025-04-03 | 2025-05-23 |
 | [Howdy](https://open.spotify.com/track/3tacvIn8QzjQLVaINE0ARa) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Joyride](https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA) | 3:27 | 2024-06-27 | 2024-07-30 |
-| [Huset](https://open.spotify.com/track/7kT02nWlZ2zI0LpD2YwJKI) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Huset](https://open.spotify.com/album/2wj2qHQLxK5lohVw6ibQt5) | 3:04 | 2025-09-25 |  |
+| [Huset](https://open.spotify.com/track/7kT02nWlZ2zI0LpD2YwJKI) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Huset](https://open.spotify.com/album/2wj2qHQLxK5lohVw6ibQt5) | 3:04 | 2025-09-25 | 2025-10-05 |
 | [Hva vi kunne bli](https://open.spotify.com/track/11A6wBoTeemgHHuCotUL3u) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Hva vi kunne bli](https://open.spotify.com/album/0UG3jUBKtxD87IoznNgrev) | 2:55 | 2024-10-10 |  |
 | [Hvalfangerbyen](https://open.spotify.com/track/1gWzPGtQeTDbaA1ee8e1Ji) | [Zimmermann](https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB) | [Hvalfangerbyen](https://open.spotify.com/album/6M2nSOHoe58dDU6dGluvWK) | 3:20 | 2024-06-27 | 2025-05-03 |
 | [Hvalfangerbyen \- Akustisk](https://open.spotify.com/track/5JeBqlHUVh7nNjSQVdTyP3) | [Zimmermann](https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB) | [Hvalfangerbyen \- Akustisk](https://open.spotify.com/album/2uDdNLF7xmAg2KIf5m97k2) | 3:57 | 2025-09-18 | 2025-10-01 |
@@ -135,6 +135,7 @@
 | [Keeps Me Going](https://open.spotify.com/track/14WGGRi84jRQLjwPY2XWIY) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Keeps Me Going](https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2) | 3:19 | 2024-06-27 | 2025-04-13 |
 | [Klisje](https://open.spotify.com/track/2p5d940zKggwkEpBj8sjf2) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Celine Madelen](https://open.spotify.com/artist/2cevasOkvddKR7XHHJjPlE) | [Klisje](https://open.spotify.com/album/50eAohXeP6Tu6hPqCnHkRA) | 2:18 | 2024-06-27 | 2025-03-02 |
 | [Kor e du?](https://open.spotify.com/track/6JfVQ0gSzYLDWZPPZoacVk) | [Sondre Justad](https://open.spotify.com/artist/3a0gvZAydt98HKVbGb0V67) | [Kor e du?](https://open.spotify.com/album/6vtM7D6DXolebuT8Jk5qHf) | 3:20 | 2024-06-27 |  |
+| [Kunstig intelligens](https://open.spotify.com/track/3wfH49f022FFqpLCuZbqOe) | [Jon Ranes](https://open.spotify.com/artist/1bSA2Bzn7yZHPifJQ2EK6t) | [VERDENS BESTE ALBUM](https://open.spotify.com/album/7KXuM7PAkPanN5WfYEtgx1) | 3:03 | 2025-10-02 |  |
 | [Kyssa noken andre](https://open.spotify.com/track/1kyFLaG8l3jJwa012XEbxf) | [Gunn Kvaale](https://open.spotify.com/artist/3upvRPK3aM4G5v03vMAlNO) | [Kyssa noken andre](https://open.spotify.com/album/52BEsP0Om8YJyl1hmIXWi3) | 2:32 | 2025-06-05 | 2025-06-29 |
 | [la meg ligge](https://open.spotify.com/track/1a6G7x79kvHEhOkeJBLXJj) | [Michelle Ullestad](https://open.spotify.com/artist/0ftXswGpAsqomAAg0YN1pI) | [la meg ligge](https://open.spotify.com/album/3YiyfDnirvlF06ibKAa6cI) | 3:30 | 2024-06-27 | 2024-10-28 |
 | [Langt av sted](https://open.spotify.com/track/6DxBlKrmCRklJY40CQXOSF) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Langt av sted](https://open.spotify.com/album/2fwuFPvhyPfapHv5Jek01i) | 2:40 | 2024-06-27 | 2024-10-25 |

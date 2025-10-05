@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 235365,
+  "num_followers": 235402,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAAAKaHA7BExGzeCuPKvs6qHg",
+  "snapshot_id": "aN8SAAAAAAC9SV0GlQP0I6xfazSEoei0",
   "tracks": [
     {
       "added_at": null,
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Otra Cosa",
+        "url": "https://open.spotify.com/album/7rrYlu3nL2ZfW7RR9tSDMO"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 177160,
+      "name": "Bien o Mal",
+      "url": "https://open.spotify.com/track/54Mjd3irHbiPNjW2MNgzKV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vol. II",
         "url": "https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 275920,
       "name": "El Dolor del Micro (feat. Julieta Venegas)",
       "url": "https://open.spotify.com/track/2hHpxsF9kvHNugYXt9cH8x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Otra Cosa",
-        "url": "https://open.spotify.com/album/7rrYlu3nL2ZfW7RR9tSDMO"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 177160,
-      "name": "Bien o Mal",
-      "url": "https://open.spotify.com/track/54Mjd3irHbiPNjW2MNgzKV"
     },
     {
       "added_at": null,

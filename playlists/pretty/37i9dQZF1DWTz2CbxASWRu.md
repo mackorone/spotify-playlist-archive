@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTz2CbxASWRu.md) - [plain]
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta\. Mon Laferte, NATHY PELUSO en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,686 likes - 89 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,661 likes - 89 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTz2CbxASWRu.md) - [plain]
 | 88 | [Ilusión De Amor](https://open.spotify.com/track/5rWvpSsk5b7wyyhBMoS05b) | [Jensine Benitez](https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX), [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Ilusión De Amor](https://open.spotify.com/album/5mnltZObN42BuoEMtv4QUa) | 3:45 |
 | 89 | [Pájaros en Verano](https://open.spotify.com/track/13T0NsBgMUpCQIPvpEWWTq) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Pájaros en Verano](https://open.spotify.com/album/2LZp9KgxfRodgUI4NbKvWS) | 3:16 |
 
-Snapshot ID: `AAAAAO9OY1saIGKhg7QNStlZHxtu5aFy`
+Snapshot ID: `AAAAAMIZXHasHT5cBD6E1iQm5+Cact8Z`

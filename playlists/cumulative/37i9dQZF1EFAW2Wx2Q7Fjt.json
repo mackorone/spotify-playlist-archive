@@ -4150,6 +4150,24 @@
     {
       "album": {
         "name": "FUNNY little FEARS",
+        "url": "https://open.spotify.com/album/09OXDzuUcSUACxAsU7zmsO"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "date_added": "2025-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201556,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/5NtzNJi7EaiegUmVEkrkNd"
+    },
+    {
+      "album": {
+        "name": "FUNNY little FEARS",
         "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
       },
       "artists": [
@@ -4164,7 +4182,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 201556,
       "name": "Tangerine (feat. d4vd)",
       "url": "https://open.spotify.com/track/4rSF54WsnmArj1cnKWFNcu"

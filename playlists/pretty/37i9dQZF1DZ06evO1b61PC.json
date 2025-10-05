@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11316,
+  "num_followers": 11317,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAAAsTiDdAEJwaC9qBc8LTBdf",
+  "snapshot_id": "aN8SAAAAAAAF6KQZVVWYCK4Vxr+HZjtI",
   "tracks": [
     {
       "added_at": null,
@@ -275,26 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Will Meet Again",
-        "url": "https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 201199,
-      "name": "We Will Meet Again",
-      "url": "https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like It's Over (feat. MNDR)",
         "url": "https://open.spotify.com/album/0ohanLzrNxJRhFs9ELhesM"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 318000,
       "name": "Like It's Over (feat. MNDR)",
       "url": "https://open.spotify.com/track/4loZFQtwao4GVquR0dLEiL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Will Meet Again",
+        "url": "https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 201199,
+      "name": "We Will Meet Again",
+      "url": "https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn"
     },
     {
       "added_at": null,
@@ -647,6 +647,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Easy For Me (Jai Wolf Club Babu Remix)",
+        "url": "https://open.spotify.com/album/1fKNCfgQCgQkjwV0tMYbfY"
+      },
+      "artists": [
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+        },
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 201444,
+      "name": "Easy For Me - Jai Wolf Club Babu Remix",
+      "url": "https://open.spotify.com/track/2mixDh13NCxrtYP84Yi9Cg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In The End (Jai Wolf Club Babu Remix)",
         "url": "https://open.spotify.com/album/3f33kxanpbHtn87RAfGBuc"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 229928,
       "name": "In The End - Jai Wolf Club Babu Remix",
       "url": "https://open.spotify.com/track/2fdN9YHdCMXdstUqmHAQUS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Easy For Me (Jai Wolf Club Babu Remix)",
-        "url": "https://open.spotify.com/album/1fKNCfgQCgQkjwV0tMYbfY"
-      },
-      "artists": [
-        {
-          "name": "Covex",
-          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
-        },
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 201444,
-      "name": "Easy For Me - Jai Wolf Club Babu Remix",
-      "url": "https://open.spotify.com/track/2mixDh13NCxrtYP84Yi9Cg"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 70927,
+  "num_followers": 70925,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "Min Zina",
+        "url": "https://open.spotify.com/album/3drmlPE7bYAfLkxSnO2otb"
+      },
+      "artists": [
+        {
+          "name": "Alibrorsh",
+          "url": "https://open.spotify.com/artist/2jVINorjiDk0mkd5WZA6Tw"
+        }
+      ],
+      "duration_ms": 196459,
+      "name": "Min Zina",
+      "url": "https://open.spotify.com/track/0JpkJkAD2li7buwV9dL9gu"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "Weh Dem A Gwaan",
         "url": "https://open.spotify.com/album/5r1c91KAq5CpstvR7i6WA0"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 200000,
       "name": "Weh Dem A Gwaan",
       "url": "https://open.spotify.com/track/02knQB6by79wVxI7eNgxJO"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "Min Zina",
-        "url": "https://open.spotify.com/album/3drmlPE7bYAfLkxSnO2otb"
-      },
-      "artists": [
-        {
-          "name": "Alibrorsh",
-          "url": "https://open.spotify.com/artist/2jVINorjiDk0mkd5WZA6Tw"
-        }
-      ],
-      "duration_ms": 196459,
-      "name": "Min Zina",
-      "url": "https://open.spotify.com/track/0JpkJkAD2li7buwV9dL9gu"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "S\u00e5 nice",
-        "url": "https://open.spotify.com/album/35gUoDZjN5C7yK6czZnp7y"
-      },
-      "artists": [
-        {
-          "name": "Syster Sol",
-          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "S\u00e5 nice",
-      "url": "https://open.spotify.com/track/7ydwM6jH4kqbr7MOXp11NO"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Sweet Reggaemusik",
         "url": "https://open.spotify.com/album/6chVGuHYBS3fdTmhdx3AaC"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 162000,
       "name": "Sweet Reggaemusik",
       "url": "https://open.spotify.com/track/7z5sf617bXkdI8BUOiANL9"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "S\u00e5 nice",
+        "url": "https://open.spotify.com/album/35gUoDZjN5C7yK6czZnp7y"
+      },
+      "artists": [
+        {
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "S\u00e5 nice",
+      "url": "https://open.spotify.com/track/7ydwM6jH4kqbr7MOXp11NO"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "V\u00e4nda Trend",
+        "url": "https://open.spotify.com/album/2gjkIVufFubK1AFtxuE3Pg"
+      },
+      "artists": [
+        {
+          "name": "Kiihjano",
+          "url": "https://open.spotify.com/artist/028hbxJ2me0XInwSpPsFsT"
+        }
+      ],
+      "duration_ms": 179393,
+      "name": "V\u00e4nda Trend",
+      "url": "https://open.spotify.com/track/76ojAV1jvCHGr4kjERxAvD"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "Back on track",
         "url": "https://open.spotify.com/album/79ja6VUuZvbr0g7POJ1Xb1"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 214125,
       "name": "Back on track",
       "url": "https://open.spotify.com/track/1yCqXDVbXDyF75VliHTJyv"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "V\u00e4nda Trend",
-        "url": "https://open.spotify.com/album/2gjkIVufFubK1AFtxuE3Pg"
-      },
-      "artists": [
-        {
-          "name": "Kiihjano",
-          "url": "https://open.spotify.com/artist/028hbxJ2me0XInwSpPsFsT"
-        }
-      ],
-      "duration_ms": 179393,
-      "name": "V\u00e4nda Trend",
-      "url": "https://open.spotify.com/track/76ojAV1jvCHGr4kjERxAvD"
     }
   ],
   "unique_name": "Svensk Reggae",

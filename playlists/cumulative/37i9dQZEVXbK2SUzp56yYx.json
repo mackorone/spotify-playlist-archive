@@ -1408,7 +1408,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 79578,
       "name": "aromat",
       "url": "https://open.spotify.com/track/5R7rlvOCZj7JvhHZPxilbZ"
@@ -3218,7 +3218,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-03",
+      "date_removed": null,
       "duration_ms": 239586,
       "name": "Caribbean Blue - 2009 Remaster",
       "url": "https://open.spotify.com/track/5KZ4DC772dYcRBAizx0yYk"
@@ -4268,7 +4268,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 180000,
       "name": "damage",
       "url": "https://open.spotify.com/track/1eIyd3NoPC9bT4sBMDfNRL"
@@ -8586,7 +8586,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 188066,
       "name": "Hate Me",
       "url": "https://open.spotify.com/track/15og0pCEcTFWEXOFKdcJlU"
@@ -11706,7 +11706,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 223069,
       "name": "Loser",
       "url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA"
@@ -20126,7 +20126,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 241499,
       "name": "THE DEATH OF PEACE OF MIND",
       "url": "https://open.spotify.com/track/4otwFzkVBdVNTBu7gxJA4A"
@@ -28878,7 +28878,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 150507,
       "name": "\u041b\u0438\u043b\u043e",
       "url": "https://open.spotify.com/track/2STpwzqGx4PagmPZ3zlPMO"
@@ -32121,6 +32121,24 @@
     },
     {
       "album": {
+        "name": "\u041f\u0413\u0422\u0422",
+        "url": "https://open.spotify.com/album/2Tvw29UFQiNtuAphKtuiSG"
+      },
+      "artists": [
+        {
+          "name": "\u042d\u041b\u0415\u041a\u0422\u0420\u041e\u0421\u041b\u0410\u0411\u041e\u0421\u0422\u042c",
+          "url": "https://open.spotify.com/artist/3NjfWBZqT3K1uEZhULOZXE"
+        }
+      ],
+      "date_added": "2025-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209740,
+      "name": "\u041f\u0413\u0422\u0422",
+      "url": "https://open.spotify.com/track/0itExPRg2ARCZInEOl69vn"
+    },
+    {
+      "album": {
         "name": "\u041f\u0435\u043f\u0435\u043b",
         "url": "https://open.spotify.com/album/3ivqqPQJSaUe9O7ATaSKhZ"
       },
@@ -34408,7 +34426,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 108265,
       "name": "\u0441\u043d\u0430\u0439\u043f\u0435\u0440",
       "url": "https://open.spotify.com/track/5PwbYuCq5S2re838YAVfDT"
@@ -35502,7 +35520,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 205191,
       "name": "\u0422\u0435\u0440\u0435\u043d\u0442\u0438\u0439",
       "url": "https://open.spotify.com/track/2XirHTDW0DvbvwKnVKIdDR"

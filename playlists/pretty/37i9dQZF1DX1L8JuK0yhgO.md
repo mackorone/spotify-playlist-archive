@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,257 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,255 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 48 | [go easy go](https://open.spotify.com/track/0kWqAA7MfCM0BBZAxbMJ6o) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [go easy go](https://open.spotify.com/album/0zsFnowMMRAY4g0ZZuVw4q) | 3:08 |
 | 49 | [I Know](https://open.spotify.com/track/2Xf9Fzp3mZ7kNZWC8KqdBP) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [I Know](https://open.spotify.com/album/6Xv2Q97SvD3ddc0nCQqoMT) | 2:51 |
 | 50 | [イカルスに乗って](https://open.spotify.com/track/1lXGmJKpyrnmwmoRAp5ApN) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp) | [イカルスに乗って](https://open.spotify.com/album/7LQmmoS3wlM8O2r3x0jHFQ) | 2:57 |
-| 51 | [World Tree](https://open.spotify.com/track/6ae9HNN8CQjZsBLqqDEsFU) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [北村蕗](https://open.spotify.com/artist/1l4YmwtKMUzE16e6rwTgCR) | [World Tree](https://open.spotify.com/album/7apKvSDrpX6XOe0owKhV2E) | 5:43 |
+| 51 | [World Tree](https://open.spotify.com/track/6ae9HNN8CQjZsBLqqDEsFU) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [World Tree](https://open.spotify.com/album/7apKvSDrpX6XOe0owKhV2E) | 5:43 |
 | 52 | [Gravity](https://open.spotify.com/track/4y91NCwOXl4y3wM9S40N3v) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [Motion](https://open.spotify.com/album/3vvWOj5tFzPWTGMQRfODnX) | 5:49 |
 | 53 | [Beat Birds](https://open.spotify.com/track/0sxlNLZDWHudUyRlDfABEl) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [Beat Birds](https://open.spotify.com/album/5J8mMgH6qydlLfmgTwgAgS) | 2:46 |
 | 54 | [愛のテーマ\(From"Spartacus"\)](https://open.spotify.com/track/2Cp1IEOPRqH9O0OoHsIybn) | [高岩 遼](https://open.spotify.com/artist/19z1uIJW41iCghBEJMyEqd) | [TAKAIWA](https://open.spotify.com/album/6RWXnvxqaQa5shP5GcBRpG) | 4:59 |

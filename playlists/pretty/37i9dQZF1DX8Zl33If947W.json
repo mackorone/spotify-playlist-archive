@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 195518,
+  "num_followers": 195557,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
-        "name": "Powerbausa",
-        "url": "https://open.spotify.com/album/5VJCtm8ZQuCiOfiiZqjEJa"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
-        }
-      ],
-      "duration_ms": 203630,
-      "name": "Was du Liebe nennst",
-      "url": "https://open.spotify.com/track/2hIY4sjfMeKwXXh2LvhrMo"
-    },
-    {
-      "added_at": "2025-03-26 13:54:44",
-      "album": {
         "name": "Immer in Bewegung",
         "url": "https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 212520,
       "name": "Ich lass f\u00fcr dich das Licht an",
       "url": "https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG"
+    },
+    {
+      "added_at": "2025-03-26 13:54:44",
+      "album": {
+        "name": "Powerbausa",
+        "url": "https://open.spotify.com/album/5VJCtm8ZQuCiOfiiZqjEJa"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        }
+      ],
+      "duration_ms": 203630,
+      "name": "Was du Liebe nennst",
+      "url": "https://open.spotify.com/track/2hIY4sjfMeKwXXh2LvhrMo"
     },
     {
       "added_at": "2025-03-26 13:54:44",
@@ -999,18 +999,18 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
-        "name": "Liebeslieder",
-        "url": "https://open.spotify.com/album/2LhRORqn6i6b4Qb1hbQvnL"
+        "name": "Aversion",
+        "url": "https://open.spotify.com/album/47nHL2h2ttmF1rOcF75Lm4"
       },
       "artists": [
         {
-          "name": "Alexander Eder",
-          "url": "https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE"
+          "name": "Antilopen Gang",
+          "url": "https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB"
         }
       ],
-      "duration_ms": 147825,
-      "name": "Liebeslieder",
-      "url": "https://open.spotify.com/track/4kicMdMtAxfHgr8IhpwRyb"
+      "duration_ms": 242972,
+      "name": "Verliebt",
+      "url": "https://open.spotify.com/track/40Coe8lqUkFfDjWWrjx9X6"
     }
   ],
   "unique_name": "Liebeslieder",

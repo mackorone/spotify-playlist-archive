@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 4322,
+  "num_followers": 4324,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAACTJMxkPOq9bW4iktSkgTeK",
+  "snapshot_id": "aN8SAAAAAABOSitlhKfCP9U5gMS3AIZt",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Run For Cover Subscription Singles Series #3",
-        "url": "https://open.spotify.com/album/1MZF46ju6QM79B8YwGfP0Q"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 265238,
-      "name": "Gypsy",
-      "url": "https://open.spotify.com/track/7oNAnWMtdoByjSUdNDRo5J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Won't Care How You Remember Me",
         "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 163924,
       "name": "Hesitation",
       "url": "https://open.spotify.com/track/4TZj7XGPf7dG3NmKaNwPY4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Run For Cover Subscription Singles Series #3",
+        "url": "https://open.spotify.com/album/1MZF46ju6QM79B8YwGfP0Q"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 265238,
+      "name": "Gypsy",
+      "url": "https://open.spotify.com/track/7oNAnWMtdoByjSUdNDRo5J"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Balance and Composure & Tigers Jaw Split",
-        "url": "https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 169840,
-      "name": "Dent",
-      "url": "https://open.spotify.com/track/6Anb5Hz5Z7VvjBtzD3jBMo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eyes Shut",
         "url": "https://open.spotify.com/album/0gFa8rxnAO3XOBTjX0ETfR"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 165466,
       "name": "Eyes Shut",
       "url": "https://open.spotify.com/track/6JzgPzivpGAf1Nu5nKHahR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Clothes",
+        "url": "https://open.spotify.com/album/26qFcFUAotjg3XBh41QI9I"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 191890,
+      "name": "Old Clothes",
+      "url": "https://open.spotify.com/track/3F1SQU5ktUEFIqRyy9f9PR"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Clothes",
-        "url": "https://open.spotify.com/album/26qFcFUAotjg3XBh41QI9I"
+        "name": "Balance and Composure & Tigers Jaw Split",
+        "url": "https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 191890,
-      "name": "Old Clothes",
-      "url": "https://open.spotify.com/track/3F1SQU5ktUEFIqRyy9f9PR"
+      "duration_ms": 169840,
+      "name": "Dent",
+      "url": "https://open.spotify.com/track/6Anb5Hz5Z7VvjBtzD3jBMo"
     },
     {
       "added_at": null,

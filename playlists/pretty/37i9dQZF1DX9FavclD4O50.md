@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 
 > Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument\. Clara Rockmore on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,102 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,103 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 | 19 | [Thaïs: Méditation \(Arr\. for Theremin and Piano\)](https://open.spotify.com/track/5XhWzhaWzjzgPIYnGmGIcP) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [Giulietta Koch](https://open.spotify.com/artist/4oPnpmC5oEb8v36lf4Didb) | [Theremin](https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY) | 4:40 |
 | 20 | [Precious Weeks](https://open.spotify.com/track/3CXOQPeLHu4teBqbV6dLnx) | [Arthur Sharpe](https://open.spotify.com/artist/00vWlRywZkruZCVSSLhz6H) | [The Electrical Life of Louis Wain \(Original Motional Picture Soundtrack\)](https://open.spotify.com/album/20lEPXGZE0D2vzoHM5psYH) | 3:26 |
 | 21 | [Summertime](https://open.spotify.com/track/4UyTsJd4FAAbrsA8qQ6apq) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Theremin Ameriqué: The American Songbook](https://open.spotify.com/album/3iQE5NRJUsS6bd61fg63xY) | 2:48 |
-| 22 | [Bachianas Brasileiras: No\. 5, Aria](https://open.spotify.com/track/2QCSXfBGFMHRc0KzjMg27B) | [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [The Listening Room Ensemble](https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786) | [Music In and On The Air](https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1) | 7:56 |
-| 23 | [Mysterons Theme](https://open.spotify.com/track/0sliCazBkrrX6OqVkqaW9F) | [Radio Science Orchestra](https://open.spotify.com/artist/68zs0SPQL8kAKrWmiYOaci) | [Mysterons Theme](https://open.spotify.com/album/6Rc5C6X5t1U7zojgkkyVDq) | 2:28 |
+| 22 | [Mysterons Theme](https://open.spotify.com/track/0sliCazBkrrX6OqVkqaW9F) | [Radio Science Orchestra](https://open.spotify.com/artist/68zs0SPQL8kAKrWmiYOaci) | [Mysterons Theme](https://open.spotify.com/album/6Rc5C6X5t1U7zojgkkyVDq) | 2:28 |
+| 23 | [Bachianas Brasileiras: No\. 5, Aria](https://open.spotify.com/track/2QCSXfBGFMHRc0KzjMg27B) | [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [The Listening Room Ensemble](https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786) | [Music In and On The Air](https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1) | 7:56 |
 | 24 | [Vocalise, Op\. 34 No\. 14 \(Arr\. for Theremin and Cello Quartet\)](https://open.spotify.com/track/3PYVkbZutCbh8OKS2dWlR7) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [Rebekka Markowski](https://open.spotify.com/artist/5OITVrp8FwR7RqPZ4mTMgc) | [Theremin](https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY) | 5:20 |
 | 25 | [Suite No\. 3 in D, BWV 1068: Air on the G String](https://open.spotify.com/track/3qT7ByaQYNy32JoYyC9f8h) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [The Listening Room Ensemble](https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q) | [Music In and On The Air](https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1) | 4:28 |
 | 26 | [Casta Diva](https://open.spotify.com/track/4tY4NZPYATvP1oJsIde6OJ) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Theremin Classique](https://open.spotify.com/album/4tN4A0tFqf2k71MxMkCsmY) | 5:41 |

@@ -1,33 +1,13 @@
 {
   "description": "New music picks every Friday from your friends at Brownies &amp; Lemonade",
-  "num_followers": 21709,
+  "num_followers": 21720,
   "original_name": "B&L Fresh Batch Friday",
   "owner": {
     "name": "Brownies & Lemonade",
     "url": "https://open.spotify.com/user/browniesandlemonade"
   },
-  "snapshot_id": "AAAJ6JWVkBiGaaJKzQkShxXvWrCA+RXk",
+  "snapshot_id": "AAAJ6tHOLwffhfqteHn/DMpf3IuPkq57",
   "tracks": [
-    {
-      "added_at": "2025-10-03 18:46:37",
-      "album": {
-        "name": "XTC",
-        "url": "https://open.spotify.com/album/0dSAfRmTB8timCZ1XmPpnj"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        },
-        {
-          "name": "Whyte Fang",
-          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
-        }
-      ],
-      "duration_ms": 162266,
-      "name": "XTC",
-      "url": "https://open.spotify.com/track/4BZDFSkvQHfvM1MoWbCLSR"
-    },
     {
       "added_at": "2025-10-03 18:46:37",
       "album": {
@@ -51,6 +31,26 @@
       "duration_ms": 212244,
       "name": "LA NOCHE",
       "url": "https://open.spotify.com/track/5vu69csqeUJheoQWPd2MoM"
+    },
+    {
+      "added_at": "2025-10-03 18:46:37",
+      "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/0dSAfRmTB8timCZ1XmPpnj"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Whyte Fang",
+          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
+        }
+      ],
+      "duration_ms": 162266,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/4BZDFSkvQHfvM1MoWbCLSR"
     },
     {
       "added_at": "2025-10-03 18:46:37",
@@ -107,6 +107,22 @@
       "duration_ms": 206996,
       "name": "Stay The Night",
       "url": "https://open.spotify.com/track/4OyDiydPAu3q6rNcLp313U"
+    },
+    {
+      "added_at": "2025-10-04 03:56:27",
+      "album": {
+        "name": "Swag Surfin'",
+        "url": "https://open.spotify.com/album/4EcIH2844mdTmmFX7pcyhC"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        }
+      ],
+      "duration_ms": 228368,
+      "name": "Swag Surfin'",
+      "url": "https://open.spotify.com/track/4orH1YqyAjXBtBr0DfsqjV"
     },
     {
       "added_at": "2025-10-03 18:46:37",
@@ -483,7 +499,7 @@
     {
       "added_at": "2025-10-03 18:46:37",
       "album": {
-        "name": "Sable Valley Summer, Vol. 6",
+        "name": "Sable Valley Summer Vol. 6",
         "url": "https://open.spotify.com/album/7hPJ8hqjXkhlbzJJ13WTvX"
       },
       "artists": [
@@ -607,7 +623,7 @@
     {
       "added_at": "2025-10-03 18:46:37",
       "album": {
-        "name": "Sable Valley Summer, Vol. 6",
+        "name": "Sable Valley Summer Vol. 6",
         "url": "https://open.spotify.com/album/7hPJ8hqjXkhlbzJJ13WTvX"
       },
       "artists": [
@@ -617,7 +633,7 @@
         }
       ],
       "duration_ms": 156000,
-      "name": "LOOT",
+      "name": "Loot",
       "url": "https://open.spotify.com/track/7BJpVpkZBODnAY2eAfgF85"
     },
     {

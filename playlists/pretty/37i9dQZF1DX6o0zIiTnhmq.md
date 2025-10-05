@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,477 likes - 75 songs - 13 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,568 likes - 75 songs - 13 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,12 +66,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 56 | [Om Gam Ganapataye](https://open.spotify.com/track/1QI85rkz7xEfSA12pIdvDk) | [Hédi Carlee](https://open.spotify.com/artist/1MhZK1my2DU36E3e1wC6ir) | [Om Gam Ganapataye](https://open.spotify.com/album/2ojL0JmPVeMWS3HSC1zL67) | 10:30 |
 | 57 | [Om Namah Shivay](https://open.spotify.com/track/2FuRIJUnMJvNyvaL4ElBzb) | [Rahul Saxena](https://open.spotify.com/artist/0uwp0t2eE8qxCatuNX23ch) | [Om Namah Shivay](https://open.spotify.com/album/2MtmOstTYoDqDEILaADPds) | 6:05 |
 | 58 | [Green Tara Mantra](https://open.spotify.com/track/2qCzNbcYtmB8Ov7aq2E7jw) | [Nidhi Prasad](https://open.spotify.com/artist/1XqI0P6I0FRHz1zgKwKVga) | [Green Tara Mantra](https://open.spotify.com/album/1QU1Vx9gpBv9rl5ENFK8DV) | 4:19 |
-| 59 | [O Radhe Radhe \- LoFi](https://open.spotify.com/track/6mFhoNjcnmxQp4cjM6EL19) | [Srijita Mitra](https://open.spotify.com/artist/5Ho1z9E6aqNw2e5iRTwjZb) | [O Radhe Radhe \- LoFi](https://open.spotify.com/album/5WRtfUxBOVkKrOLniPEy3P) | 2:18 |
-| 60 | [Karpur Gauram Chanting 108 Times](https://open.spotify.com/track/3FUBurDzveME3uR9Opji58) | [Prem Dhiman](https://open.spotify.com/artist/6cRb7fOsn2JbgHGpF0MLCJ), [TMC RECORDS](https://open.spotify.com/artist/665d2SHOpLoWMeo5oqoGZV) | [Karpur Gauram Chanting 108 Times](https://open.spotify.com/album/7urtg5ZTDaNiElnzQ7OgXY) | 14:53 |
+| 59 | [Karpur Gauram Chanting 108 Times](https://open.spotify.com/track/3FUBurDzveME3uR9Opji58) | [Prem Dhiman](https://open.spotify.com/artist/6cRb7fOsn2JbgHGpF0MLCJ), [TMC RECORDS](https://open.spotify.com/artist/665d2SHOpLoWMeo5oqoGZV) | [Karpur Gauram Chanting 108 Times](https://open.spotify.com/album/7urtg5ZTDaNiElnzQ7OgXY) | 14:53 |
+| 60 | [O Radhe Radhe \- LoFi](https://open.spotify.com/track/6mFhoNjcnmxQp4cjM6EL19) | [Srijita Mitra](https://open.spotify.com/artist/5Ho1z9E6aqNw2e5iRTwjZb) | [O Radhe Radhe \- LoFi](https://open.spotify.com/album/5WRtfUxBOVkKrOLniPEy3P) | 2:18 |
 | 61 | [Ram Naam Chanting](https://open.spotify.com/track/0Ardq6W5vPAttUuQR2WGt2) | [Palak Sharma](https://open.spotify.com/artist/4NO7tLuZuP8T3KfvGUYtuG), [JusKeys](https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Ram Naam Chanting](https://open.spotify.com/album/2a3szoALUteejLabQS39M1) | 18:01 |
 | 62 | [Mahamrityunjay Mantra \- Om Tryambakam Yajamahe](https://open.spotify.com/track/48TC3j55Q6z0DZ2Spm6AnJ) | [Siddharth Amit Bhavsar](https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Gayatri Mantra Mala, Pt\. 1](https://open.spotify.com/album/57gvAW3h4riK2CSQWUIBbj) | 3:30 |
-| 63 | [Shri Jagannath Mantra](https://open.spotify.com/track/07MERhs6arzVy8r81g7Wc6) | [Nidhi Prasad](https://open.spotify.com/artist/1XqI0P6I0FRHz1zgKwKVga) | [Shri Jagannath Mantra](https://open.spotify.com/album/2HW0R77BL3mWQF0qR7cIM3) | 5:47 |
-| 64 | [Ajna Mantra for Third Eye Chakra with OM Sound](https://open.spotify.com/track/4HsePatOkDkoZLMZuWxAj6) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Ancient Chakra Healing Meditation Mantras](https://open.spotify.com/album/6mNn6zZJzjJeRRbuAjJbuy) | 1:00:14 |
+| 63 | [Ajna Mantra for Third Eye Chakra with OM Sound](https://open.spotify.com/track/4HsePatOkDkoZLMZuWxAj6) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Ancient Chakra Healing Meditation Mantras](https://open.spotify.com/album/6mNn6zZJzjJeRRbuAjJbuy) | 1:00:14 |
+| 64 | [Shri Jagannath Mantra](https://open.spotify.com/track/07MERhs6arzVy8r81g7Wc6) | [Nidhi Prasad](https://open.spotify.com/artist/1XqI0P6I0FRHz1zgKwKVga) | [Shri Jagannath Mantra](https://open.spotify.com/album/2HW0R77BL3mWQF0qR7cIM3) | 5:47 |
 | 65 | [Durga Gayatri Mantra](https://open.spotify.com/track/57uiI5Y9LLVjmKuiJejENW) | [Abhilasha Chellam](https://open.spotify.com/artist/2HLKqxDX09Khj9728XJhdG) | [Durga Gayatri Mantra](https://open.spotify.com/album/1jH6sfc11zNlbXsIhiqoD6) | 6:30 |
 | 66 | [Request Prayer To The Guru](https://open.spotify.com/track/0M8RaskzY6v9HwmrwmhYXE) | [Lama Michel Rinpoche](https://open.spotify.com/artist/3qtj1nM3ZegAT8iNor6TiQ), [United Peace Voices](https://open.spotify.com/artist/4R5565muqCpN3iZBUTItw4) | [Prayers For World Peace](https://open.spotify.com/album/2tsh4rRKPqpH4gmp9M1Cwd) | 2:51 |
 | 67 | [Ganesh Mantra](https://open.spotify.com/track/4Cd4lQdse8xNPfXOgpUfPF) | [Uma Mohan](https://open.spotify.com/artist/3IJsrpcwlIt9wYIFISmc4q) | [Ganesh Mantra](https://open.spotify.com/album/7Fl31P8ZIOJivw5OPfjTKs) | 4:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 74 | [Om Datta Datta Dattah \(Datta Beej Mantra Dhuni\)](https://open.spotify.com/track/7dK67zASXgrYoZT7Q5N5Lc) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Vijay Khanderao Dhone](https://open.spotify.com/artist/4hrsD5BVqsbkNrHb3Aa9gM) | [Om Datta Datta Dattah \(Datta Beej Mantra Dhuni\)](https://open.spotify.com/album/6scRQtikQ6X9nFyk68aN3C) | 15:58 |
 | 75 | [Ram Chakra Mantra To Build Your Confidence](https://open.spotify.com/track/3TY0jL85yu2jRtllsSjRCE) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Divine Chakra Mantras](https://open.spotify.com/album/6t8wp9eKRc1QX9FR1un53X) | 5:25 |
 
-Snapshot ID: `AAAAAHzvAx++Pgk2HcYQpr9YSyQ009aQ`
+Snapshot ID: `AAAAANa+JEBhW+VOqAn8cjqdq2pLKSAP`

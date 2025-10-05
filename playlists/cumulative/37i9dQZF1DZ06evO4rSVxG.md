@@ -4,7 +4,7 @@
 
 > This is Tony! Toni! Toné!\. The essential tracks, all in one playlist.
 
-42 songs - 3 hr 18 min
+43 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [I Care](https://open.spotify.com/track/5GgE6pvZ21IdJrSVBWs5xd) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 5:56 | 2025-03-11 |  |
 | [I Couldn't Keep It To Myself](https://open.spotify.com/track/4T5vqnVy8BkPC6WLJXZkWW) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Sons Of Soul](https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV) | 5:18 | 2025-03-11 |  |
 | [If I Had No Loot](https://open.spotify.com/track/5oPRLER8bCQN3RFFVvLbTC) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Sons Of Soul](https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV) | 4:01 | 2025-03-11 |  |
+| [It Feels Good](https://open.spotify.com/track/1j9jJcfR7xK154OX6XTwFj) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Swing](https://open.spotify.com/album/173zgLYUQJXLa3NXTKgvce) | 3:08 | 2025-10-05 |  |
 | [It Feels Good](https://open.spotify.com/track/5CMYgMuy0T491lbJVJ715U) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [New Jack, Vol\. 1](https://open.spotify.com/album/2zbAwjweFSSFq3eEHLtxzI) | 3:08 | 2025-05-07 | 2025-10-04 |
 | [It Never Rains \(In Southern California\)](https://open.spotify.com/track/0r4wz91MaRPgI3UtEuU7DF) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 5:04 | 2025-03-11 |  |
 | [It's a Beautiful Thing \- Sly Mix](https://open.spotify.com/track/5KfFIkuhL7setqTd9DbXDa) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [It's a Beautiful Thing](https://open.spotify.com/album/23WqQ1vWS6lI5NpqFO2G3m) | 4:17 | 2025-03-11 |  |

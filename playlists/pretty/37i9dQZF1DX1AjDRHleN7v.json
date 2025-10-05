@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 394028,
+  "num_followers": 394193,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2025-09-12 17:34:26",
       "album": {
+        "name": "Coisas Naturais",
+        "url": "https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 219944,
+      "name": "Combo da Sorte",
+      "url": "https://open.spotify.com/track/1K64W9CWpVvreQhbT4zbrn"
+    },
+    {
+      "added_at": "2025-09-12 17:34:26",
+      "album": {
         "name": "RASTAFARI",
         "url": "https://open.spotify.com/album/63qxJ2WUYGI97N0litTHEG"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 127794,
       "name": "RASTAFARI",
       "url": "https://open.spotify.com/track/1vK57Ufl3GsX5zrT9ZiRf7"
-    },
-    {
-      "added_at": "2025-09-12 17:34:26",
-      "album": {
-        "name": "Coisas Naturais",
-        "url": "https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 219944,
-      "name": "Combo da Sorte",
-      "url": "https://open.spotify.com/track/1K64W9CWpVvreQhbT4zbrn"
     },
     {
       "added_at": "2025-09-12 17:34:26",
@@ -571,6 +571,22 @@
     {
       "added_at": "2025-09-12 17:34:26",
       "album": {
+        "name": "Agarradinho - Spotify Singles",
+        "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
+      },
+      "artists": [
+        {
+          "name": "Enme",
+          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
+        }
+      ],
+      "duration_ms": 164494,
+      "name": "Agarradinho - Spotify Singles",
+      "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
+    },
+    {
+      "added_at": "2025-09-12 17:34:26",
+      "album": {
         "name": "Pipa",
         "url": "https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 181740,
       "name": "Pipa",
       "url": "https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr"
-    },
-    {
-      "added_at": "2025-09-12 17:34:26",
-      "album": {
-        "name": "Agarradinho - Spotify Singles",
-        "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
-      },
-      "artists": [
-        {
-          "name": "Enme",
-          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
-        }
-      ],
-      "duration_ms": 164494,
-      "name": "Agarradinho - Spotify Singles",
-      "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
     },
     {
       "added_at": "2025-09-12 17:34:26",
@@ -827,22 +827,18 @@
     {
       "added_at": "2025-09-12 17:34:26",
       "album": {
-        "name": "Olha Pra Mim",
-        "url": "https://open.spotify.com/album/2XtFi9Q8b9WRNHKTy3I90d"
+        "name": "Meu Destino \u00e9 o Litoral",
+        "url": "https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh"
       },
       "artists": [
         {
-          "name": "Julies",
-          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
-        },
-        {
-          "name": "Hevo 84",
-          "url": "https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG"
+          "name": "MENSANA",
+          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
         }
       ],
-      "duration_ms": 177535,
-      "name": "Olha Pra Mim",
-      "url": "https://open.spotify.com/track/5qW2lWtDCcADcISlAYY1PP"
+      "duration_ms": 190250,
+      "name": "Meu Destino \u00e9 o Litoral",
+      "url": "https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg"
     },
     {
       "added_at": "2025-09-12 17:34:26",
@@ -863,18 +859,22 @@
     {
       "added_at": "2025-09-12 17:34:26",
       "album": {
-        "name": "Meu Destino \u00e9 o Litoral",
-        "url": "https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh"
+        "name": "Olha Pra Mim",
+        "url": "https://open.spotify.com/album/2XtFi9Q8b9WRNHKTy3I90d"
       },
       "artists": [
         {
-          "name": "MENSANA",
-          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
+          "name": "Julies",
+          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
+        },
+        {
+          "name": "Hevo 84",
+          "url": "https://open.spotify.com/artist/1WDHJzp45TMMfm9YxVPZTG"
         }
       ],
-      "duration_ms": 190250,
-      "name": "Meu Destino \u00e9 o Litoral",
-      "url": "https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg"
+      "duration_ms": 177535,
+      "name": "Olha Pra Mim",
+      "url": "https://open.spotify.com/track/5qW2lWtDCcADcISlAYY1PP"
     },
     {
       "added_at": "2025-09-12 17:34:26",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-09-12 17:34:26",
       "album": {
-        "name": "Santa Terra",
-        "url": "https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B"
-      },
-      "artists": [
-        {
-          "name": "Qback",
-          "url": "https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q"
-        }
-      ],
-      "duration_ms": 276509,
-      "name": "Santa Terra",
-      "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
-    },
-    {
-      "added_at": "2025-09-12 17:34:26",
-      "album": {
         "name": "Andei S\u00f3",
         "url": "https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd"
       },
@@ -983,6 +967,22 @@
     {
       "added_at": "2025-09-12 17:34:26",
       "album": {
+        "name": "Santa Terra",
+        "url": "https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B"
+      },
+      "artists": [
+        {
+          "name": "Qback",
+          "url": "https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q"
+        }
+      ],
+      "duration_ms": 276509,
+      "name": "Santa Terra",
+      "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
+    },
+    {
+      "added_at": "2025-09-12 17:34:26",
+      "album": {
         "name": "O Amor N\u00e3o Sabe Esperar",
         "url": "https://open.spotify.com/album/2Ua5qCOC8yTBRIPmqBZmnH"
       },
@@ -1007,18 +1007,22 @@
     {
       "added_at": "2025-09-12 17:34:26",
       "album": {
-        "name": "Na Positiva",
-        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
+        "name": "Revolvendo as Raizes",
+        "url": "https://open.spotify.com/album/1xNlNHe5bXk8ZC4rxoZdvf"
       },
       "artists": [
         {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+          "name": "Tribo De Jah",
+          "url": "https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv"
+        },
+        {
+          "name": "Jo\u00e3o Beydoun",
+          "url": "https://open.spotify.com/artist/5vcL0DhIdXrwxyp791wrFM"
         }
       ],
-      "duration_ms": 153573,
-      "name": "Na Positiva",
-      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
+      "duration_ms": 230896,
+      "name": "Bora Chamegar",
+      "url": "https://open.spotify.com/track/0aCRuXTStPeNGRU3cpmVZa"
     },
     {
       "added_at": "2025-09-12 17:34:26",
@@ -1039,22 +1043,18 @@
     {
       "added_at": "2025-09-12 17:34:26",
       "album": {
-        "name": "Revolvendo as Raizes",
-        "url": "https://open.spotify.com/album/1xNlNHe5bXk8ZC4rxoZdvf"
+        "name": "Na Positiva",
+        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
       },
       "artists": [
         {
-          "name": "Tribo De Jah",
-          "url": "https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv"
-        },
-        {
-          "name": "Jo\u00e3o Beydoun",
-          "url": "https://open.spotify.com/artist/5vcL0DhIdXrwxyp791wrFM"
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
         }
       ],
-      "duration_ms": 230896,
-      "name": "Bora Chamegar",
-      "url": "https://open.spotify.com/track/0aCRuXTStPeNGRU3cpmVZa"
+      "duration_ms": 153573,
+      "name": "Na Positiva",
+      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
     },
     {
       "added_at": "2025-09-12 17:34:26",

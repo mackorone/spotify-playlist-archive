@@ -11479,6 +11479,28 @@
     },
     {
       "album": {
+        "name": "\u304a\u3069\u308b\u3089\u3044\u304a\u3093",
+        "url": "https://open.spotify.com/album/156xUbteR44M344qWAgPdn"
+      },
+      "artists": [
+        {
+          "name": "SIX LOUNGE",
+          "url": "https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX"
+        },
+        {
+          "name": "\u4e0a\u91ce\u7fbd\u6709\u97f3",
+          "url": "https://open.spotify.com/artist/1ayDnNzffQqmHOyVydbj0z"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244320,
+      "name": "\u304a\u3069\u308b\u3089\u3044\u304a\u3093",
+      "url": "https://open.spotify.com/track/577u27gsOMyPGhLzUfM408"
+    },
+    {
+      "album": {
         "name": "\u5fc3\u306e\u4e2d\u306a\u3089\u4f55\u5ea6\u3082\u8a00\u3048\u308b\u306e\u306b\u306a",
         "url": "https://open.spotify.com/album/5r9TwQMzmKQneL6AXUTWKD"
       },
@@ -23386,7 +23408,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 276705,
       "name": "\u7d76\u547d",
       "url": "https://open.spotify.com/track/2vVl8HMaKTH4iv3HD70JjP"

@@ -4,7 +4,7 @@
 
 > The best in every corner of modern punk rock\. Cover: Snõõper
 
-560 songs - 1 day 4 hr 7 min
+561 songs - 1 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Antagonistic](https://open.spotify.com/track/4ICrUFBrhNpMxOuOhopjjh) | [The Menstrual Cramps](https://open.spotify.com/artist/5ZV8lDOPUCh9tzkSQBVarI) | [Antagonistic](https://open.spotify.com/album/6EeYcINDJT0p9RxtkEZjQq) | 2:59 | 2024-05-31 | 2024-06-28 |
 | [Antidote](https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK) | 2:45 | 2023-11-13 | 2025-02-08 |
 | [Approachable](https://open.spotify.com/track/5GtTdg5XdVYzp0sQjQvkRm) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Approachable](https://open.spotify.com/album/5LabQRkQ7ULkIAm2mZktMl) | 4:00 | 2024-06-14 | 2024-10-11 |
+| [Ash Speck in a Green Eye](https://open.spotify.com/track/2ORPaFO67SDgFrRwZ3lkkU) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Ash Speck in a Green Eye](https://open.spotify.com/album/1pOGfl98tX5KsawTEEUkzU) | 3:18 | 2025-10-03 |  |
 | [At The Core](https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:40 | 2022-12-02 | 2023-11-18 |
 | [ATTENTION!](https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ATTENTION!](https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh) | 2:41 | 2022-12-02 | 2023-04-03 |
 | [AUTO\-HARMONIC ASS FIXATION](https://open.spotify.com/track/4yqxgmvuMVRoKpwTpmcIKL) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | […Is Committed](https://open.spotify.com/album/18vdykeYJ7P2DTvRgKq64R) | 2:48 | 2024-05-31 | 2024-07-21 |
@@ -433,7 +434,7 @@
 | [SELF\-SABOTAGE](https://open.spotify.com/track/34KYsYoTRXMU0MBcfBvJha) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SELF\-SABOTAGE \(MC4D Remix\)](https://open.spotify.com/album/48OpJKI9yOfcynQX2mpkN3) | 2:37 | 2023-01-18 | 2023-04-17 |
 | [SELF\-SABOTAGE](https://open.spotify.com/track/3QbNQoebsLQUvXismbliHH) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:37 | 2023-03-03 | 2023-11-18 |
 | [SELF\-SABOTAGE](https://open.spotify.com/track/6uEBUvGjFsoVdEf775Coa3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SELF\-SABOTAGE](https://open.spotify.com/album/1a37BS9lp7tkEbhGtoj0qf) | 2:37 | 2022-12-02 | 2023-01-30 |
-| [Sense of Humor](https://open.spotify.com/track/6KSGtuMoKHqpRzQZuBs2Xm) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Sense of Humor](https://open.spotify.com/album/14IgZFyV44p90w5X5niqt4) | 3:15 | 2025-07-04 |  |
+| [Sense of Humor](https://open.spotify.com/track/6KSGtuMoKHqpRzQZuBs2Xm) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Sense of Humor](https://open.spotify.com/album/14IgZFyV44p90w5X5niqt4) | 3:15 | 2025-07-04 | 2025-10-05 |
 | [Separation Anxiety](https://open.spotify.com/track/3VtXw3Nbbeuh97cJaZWRR5) | [PET NEEDS](https://open.spotify.com/artist/5bBMfsANUM0cj5h5MjEdxP) | [Intermittent Fast Living](https://open.spotify.com/album/1wifE04zBHfpwv5qHO9zth) | 2:47 | 2024-04-25 | 2024-06-15 |
 | [Separation Anxiety](https://open.spotify.com/track/42GnEj7ZhK9g8I0LttHUdc) | [PET NEEDS](https://open.spotify.com/artist/5bBMfsANUM0cj5h5MjEdxP) | [Separation Anxiety](https://open.spotify.com/album/2nYoLJ0l9vgDsgIiajn2ja) | 2:47 | 2023-11-13 | 2023-12-21 |
 | [serotonin](https://open.spotify.com/track/7j1nFsNOimv0aj6CcLIsTj) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [serotonin](https://open.spotify.com/album/3VuJ9cyJWBvjQ8TxbJGrge) | 3:03 | 2022-12-02 | 2023-06-29 |

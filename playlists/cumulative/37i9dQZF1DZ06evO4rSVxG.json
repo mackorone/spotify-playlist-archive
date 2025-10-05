@@ -343,6 +343,24 @@
     },
     {
       "album": {
+        "name": "Swing",
+        "url": "https://open.spotify.com/album/173zgLYUQJXLa3NXTKgvce"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188003,
+      "name": "It Feels Good",
+      "url": "https://open.spotify.com/track/1j9jJcfR7xK154OX6XTwFj"
+    },
+    {
+      "album": {
         "name": "New Jack, Vol. 1",
         "url": "https://open.spotify.com/album/2zbAwjweFSSFq3eEHLtxzI"
       },

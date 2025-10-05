@@ -1,6 +1,6 @@
 {
   "description": "Timeless easy listening from the sixties...",
-  "num_followers": 364260,
+  "num_followers": 364270,
   "original_name": "Easy 60s",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
-        "name": "Do you Believe In Magic",
-        "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
-      },
-      "artists": [
-        {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
-        }
-      ],
-      "duration_ms": 125826,
-      "name": "Do You Believe in Magic?",
-      "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
-    },
-    {
-      "added_at": "2024-06-03 14:49:59",
-      "album": {
         "name": "When a Man Loves a Woman",
         "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 173866,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
+    },
+    {
+      "added_at": "2024-06-03 14:49:59",
+      "album": {
+        "name": "Do you Believe In Magic",
+        "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "duration_ms": 125826,
+      "name": "Do You Believe in Magic?",
+      "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
     },
     {
       "added_at": "2024-06-03 14:49:59",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
-        "name": "Rhythm Of The Rain",
-        "url": "https://open.spotify.com/album/0JdsCjqgkPenYahT4NoE17"
-      },
-      "artists": [
-        {
-          "name": "The Cascades",
-          "url": "https://open.spotify.com/artist/6qF0CJP412Gd50Rn1sFg2o"
-        }
-      ],
-      "duration_ms": 146360,
-      "name": "Rhythm of the Rain",
-      "url": "https://open.spotify.com/track/7GHf8dQ2wA71wYOuRsQCZP"
-    },
-    {
-      "added_at": "2024-06-03 14:49:59",
-      "album": {
         "name": "This Old Heart Of Mine",
         "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 172733,
       "name": "This Old Heart Of Mine (Is Weak For You)",
       "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
+    },
+    {
+      "added_at": "2024-06-03 14:49:59",
+      "album": {
+        "name": "Rhythm Of The Rain",
+        "url": "https://open.spotify.com/album/0JdsCjqgkPenYahT4NoE17"
+      },
+      "artists": [
+        {
+          "name": "The Cascades",
+          "url": "https://open.spotify.com/artist/6qF0CJP412Gd50Rn1sFg2o"
+        }
+      ],
+      "duration_ms": 146360,
+      "name": "Rhythm of the Rain",
+      "url": "https://open.spotify.com/track/7GHf8dQ2wA71wYOuRsQCZP"
     },
     {
       "added_at": "2024-06-03 14:49:59",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "At Last - Single Version",
-      "url": "https://open.spotify.com/track/0CmIALzGn4vHIHJG4n3Q4z"
-    },
-    {
-      "added_at": "2024-06-03 14:49:59",
-      "album": {
         "name": "Hello Louis - The Hit Years (1963-1969)",
         "url": "https://open.spotify.com/album/3IkAJdl6rQcSbnfpGr3MVt"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 137466,
       "name": "What A Wonderful World",
       "url": "https://open.spotify.com/track/6Z5XZ8fjmWGbkdahOgreVe"
+    },
+    {
+      "added_at": "2024-06-03 14:49:59",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "At Last - Single Version",
+      "url": "https://open.spotify.com/track/0CmIALzGn4vHIHJG4n3Q4z"
     },
     {
       "added_at": "2024-06-03 14:49:59",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
-        "name": "Very Best Of",
-        "url": "https://open.spotify.com/album/53TLQwKkFTn0eSqMzPsse6"
+        "name": "My Cherie Amour",
+        "url": "https://open.spotify.com/album/5LkcwHaOv2jNRuC7cGbnoF"
       },
       "artists": [
         {
-          "name": "Fontella Bass",
-          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 170720,
-      "name": "Rescue Me - Single Version",
-      "url": "https://open.spotify.com/track/6PchKwjaU56tU8HcFYhuGv"
+      "duration_ms": 173306,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/6Udg88zGCFc2xA9M4EavzH"
     },
     {
       "added_at": "2024-06-03 14:49:59",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
+        "name": "Very Best Of",
+        "url": "https://open.spotify.com/album/53TLQwKkFTn0eSqMzPsse6"
+      },
+      "artists": [
+        {
+          "name": "Fontella Bass",
+          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
+        }
+      ],
+      "duration_ms": 170720,
+      "name": "Rescue Me - Single Version",
+      "url": "https://open.spotify.com/track/6PchKwjaU56tU8HcFYhuGv"
+    },
+    {
+      "added_at": "2024-06-03 14:49:59",
+      "album": {
         "name": "Lesley Gore Sings Of Mixed-Up Hearts",
         "url": "https://open.spotify.com/album/0dfUGbWBn7pyc1npqyKOj1"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 150000,
       "name": "You Don't Own Me",
       "url": "https://open.spotify.com/track/5E1pngWasYW2Y6OjV6WMUs"
-    },
-    {
-      "added_at": "2024-06-03 14:49:59",
-      "album": {
-        "name": "My Cherie Amour",
-        "url": "https://open.spotify.com/album/5LkcwHaOv2jNRuC7cGbnoF"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 173306,
-      "name": "My Cherie Amour",
-      "url": "https://open.spotify.com/track/6Udg88zGCFc2xA9M4EavzH"
     },
     {
       "added_at": "2024-06-03 14:49:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Gestalt Girl \(Taiwan\) \*Celebrating <a href="https://open.spotify.com/playlist/37i9dQZF1DX5cePYQCUba6?si=92cc3f788f5a4a09">Asian Waves</a> at MINAMI WHEEL 2025!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,813 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,865 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

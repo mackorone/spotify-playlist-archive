@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Kastanienmännchen, Laternenlieder und Kürbis schnitzen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,456 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,484 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 45 | [Hörst du die Regenwürmer husten](https://open.spotify.com/track/6BMiwUZ69Paj0vOzJynqGP) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für die Kita \- EP](https://open.spotify.com/album/6BG5UPlf5ptnaz77upzB6v) | 3:07 |
 | 46 | [Matschepfütze](https://open.spotify.com/track/184q1mPkvExhFXLB02g9dM) | [Fug und Janina](https://open.spotify.com/artist/28yWTWoXoLABVhSicSOspR) | [Unfug für alle](https://open.spotify.com/album/3Ead8yYrf4E0S77jQedAsY) | 2:10 |
 | 47 | [Der Sommer sagt: "Auf Wiederseh'n!"](https://open.spotify.com/track/5D5apAAFmvWxHKYzV9fYoi) | [Liederkoffer](https://open.spotify.com/artist/4fs4NI8WUOYhMjjNzDf3f7) | [Der Sommer sagt: "Auf Wiederseh'n!"](https://open.spotify.com/album/6ZJoNJBigls3iiEatIYZKd) | 2:47 |
-| 48 | [Kunterbunte Jahreszeiten](https://open.spotify.com/track/3f1o3xCeuyP7WDnfOlprgQ) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Kunterbunte Jahreszeiten](https://open.spotify.com/album/5fmCT5pOmaEcdWuAvvnS8a) | 3:10 |
-| 49 | [Bunte Blätter \(Herbstlied\)](https://open.spotify.com/track/2Xd0iej84kqqS4W0IcNHjk) | [Stephen Janetzko](https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG) | [Die Herbstzeit ist da: 20 schönste Kinderlieder im Herbst](https://open.spotify.com/album/7erUTJEt8ji25M5bqF0shi) | 1:45 |
+| 48 | [Bunte Blätter \(Herbstlied\)](https://open.spotify.com/track/2Xd0iej84kqqS4W0IcNHjk) | [Stephen Janetzko](https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG) | [Die Herbstzeit ist da: 20 schönste Kinderlieder im Herbst](https://open.spotify.com/album/7erUTJEt8ji25M5bqF0shi) | 1:45 |
+| 49 | [Kunterbunte Jahreszeiten](https://open.spotify.com/track/3f1o3xCeuyP7WDnfOlprgQ) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Kunterbunte Jahreszeiten](https://open.spotify.com/album/5fmCT5pOmaEcdWuAvvnS8a) | 3:10 |
 | 50 | [Ei, Ei, Ei, Ei, Eichhörnchen](https://open.spotify.com/track/2tVwU4CYWkqZ1jdkhzLEhS) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Herbstlieder für Kinder](https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL) | 2:02 |
 
 Snapshot ID: `AAAAAKlhyrqDojC+C5vFdC3lwoZjMaGw`

@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 79997,
+  "num_followers": 80003,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -195,18 +195,22 @@
     {
       "added_at": "2025-09-25 22:00:09",
       "album": {
-        "name": "Gressholmen",
-        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
+        "name": "Underlig Frihet",
+        "url": "https://open.spotify.com/album/78WsjmRDxs2VAEapfy6zxx"
       },
       "artists": [
         {
-          "name": "Kristian Kristensen",
-          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
+          "name": "Sigvart Dagsland",
+          "url": "https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA"
+        },
+        {
+          "name": "Karoline Kr\u00fcger",
+          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
         }
       ],
-      "duration_ms": 253946,
-      "name": "Gressholmen",
-      "url": "https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu"
+      "duration_ms": 265400,
+      "name": "Ka e du redd for",
+      "url": "https://open.spotify.com/track/4QkGXxYBifaayHWGkQyLPp"
     },
     {
       "added_at": "2025-09-25 22:00:09",
@@ -227,22 +231,18 @@
     {
       "added_at": "2025-09-25 22:00:09",
       "album": {
-        "name": "Underlig Frihet",
-        "url": "https://open.spotify.com/album/78WsjmRDxs2VAEapfy6zxx"
+        "name": "Gressholmen",
+        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
       },
       "artists": [
         {
-          "name": "Sigvart Dagsland",
-          "url": "https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA"
-        },
-        {
-          "name": "Karoline Kr\u00fcger",
-          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
+          "name": "Kristian Kristensen",
+          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
         }
       ],
-      "duration_ms": 265400,
-      "name": "Ka e du redd for",
-      "url": "https://open.spotify.com/track/4QkGXxYBifaayHWGkQyLPp"
+      "duration_ms": 253946,
+      "name": "Gressholmen",
+      "url": "https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu"
     },
     {
       "added_at": "2025-09-25 22:00:09",
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-09-25 22:00:09",
       "album": {
-        "name": "Paus synger Paus",
-        "url": "https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts"
-      },
-      "artists": [
-        {
-          "name": "Ole Paus",
-          "url": "https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Mitt lille land",
-      "url": "https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01"
-    },
-    {
-      "added_at": "2025-09-25 22:00:09",
-      "album": {
         "name": "De Beste",
         "url": "https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 239586,
       "name": "Mysteriet deg",
       "url": "https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq"
+    },
+    {
+      "added_at": "2025-09-25 22:00:09",
+      "album": {
+        "name": "Paus synger Paus",
+        "url": "https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts"
+      },
+      "artists": [
+        {
+          "name": "Ole Paus",
+          "url": "https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Mitt lille land",
+      "url": "https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01"
     },
     {
       "added_at": "2025-09-25 22:00:09",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-09-25 22:00:09",
       "album": {
-        "name": "Himmelen var vid",
-        "url": "https://open.spotify.com/album/6uWyWLZ0uaFUImbfbO6LiR"
-      },
-      "artists": [
-        {
-          "name": "Stein Torleif Bjella",
-          "url": "https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm"
-        }
-      ],
-      "duration_ms": 180506,
-      "name": "Himmelen var vid",
-      "url": "https://open.spotify.com/track/0ksBsczjgpbDRr73m2OXFG"
-    },
-    {
-      "added_at": "2025-09-25 22:00:09",
-      "album": {
         "name": "De N\u00e6re Ting",
         "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 138412,
       "name": "De N\u00e6re Ting",
       "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
+    },
+    {
+      "added_at": "2025-09-25 22:00:09",
+      "album": {
+        "name": "Himmelen var vid",
+        "url": "https://open.spotify.com/album/6uWyWLZ0uaFUImbfbO6LiR"
+      },
+      "artists": [
+        {
+          "name": "Stein Torleif Bjella",
+          "url": "https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm"
+        }
+      ],
+      "duration_ms": 180506,
+      "name": "Himmelen var vid",
+      "url": "https://open.spotify.com/track/0ksBsczjgpbDRr73m2OXFG"
     },
     {
       "added_at": "2025-09-25 22:00:09",
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-09-25 22:00:09",
       "album": {
+        "name": "Hildringstimer - 14 velvalgte viser",
+        "url": "https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x"
+      },
+      "artists": [
+        {
+          "name": "Erik Bye",
+          "url": "https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ"
+        }
+      ],
+      "duration_ms": 187600,
+      "name": "Varherres Klinkekuler",
+      "url": "https://open.spotify.com/track/5jbz1Pwz06o9fPMYFrmTOP"
+    },
+    {
+      "added_at": "2025-09-25 22:00:09",
+      "album": {
         "name": "Alltid Aldri (feat. Ingebj\u00f8rg Bratland)",
         "url": "https://open.spotify.com/album/5wa6SdMaTRGnI6qI7TDq37"
       },
@@ -771,8 +787,8 @@
     {
       "added_at": "2025-09-25 22:00:09",
       "album": {
-        "name": "Heile veien ned",
-        "url": "https://open.spotify.com/album/1bPeKBeiPxL33kcyI4GdzE"
+        "name": "Ka Du H\u00c3\u00a5pa P\u00c3\u00a5",
+        "url": "https://open.spotify.com/album/70x1xmznD1DRiH3ArPVEI9"
       },
       "artists": [
         {
@@ -780,41 +796,9 @@
           "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
         }
       ],
-      "duration_ms": 264693,
-      "name": "Heile veien ned",
-      "url": "https://open.spotify.com/track/37BdNAd2PInnfRCVeq6HOi"
-    },
-    {
-      "added_at": "2025-09-25 22:00:09",
-      "album": {
-        "name": "Hildringstimer - 14 velvalgte viser",
-        "url": "https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x"
-      },
-      "artists": [
-        {
-          "name": "Erik Bye",
-          "url": "https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ"
-        }
-      ],
-      "duration_ms": 187600,
-      "name": "Varherres Klinkekuler",
-      "url": "https://open.spotify.com/track/5jbz1Pwz06o9fPMYFrmTOP"
-    },
-    {
-      "added_at": "2025-09-25 22:00:09",
-      "album": {
-        "name": "Bauta - En hyllest til Bj\u00f8rn Eidsv\u00e5g",
-        "url": "https://open.spotify.com/album/1cj2bGhHCxMdx3wNr9u5OF"
-      },
-      "artists": [
-        {
-          "name": "Maria Mena",
-          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
-        }
-      ],
-      "duration_ms": 213386,
-      "name": "Til alle tider",
-      "url": "https://open.spotify.com/track/6kr1xwYYaIH7ZQa3uBE921"
+      "duration_ms": 209420,
+      "name": "Ka Du H\u00c3\u00a5pa P\u00c3\u00a5",
+      "url": "https://open.spotify.com/track/21lhhyD37K61NGo36a6QKX"
     },
     {
       "added_at": "2025-09-25 22:00:09",
@@ -831,6 +815,22 @@
       "duration_ms": 263706,
       "name": "Ikke slipp",
       "url": "https://open.spotify.com/track/4uEElpOvG54makyKCVnWDs"
+    },
+    {
+      "added_at": "2025-09-25 22:00:09",
+      "album": {
+        "name": "Bauta - En hyllest til Bj\u00f8rn Eidsv\u00e5g",
+        "url": "https://open.spotify.com/album/1cj2bGhHCxMdx3wNr9u5OF"
+      },
+      "artists": [
+        {
+          "name": "Maria Mena",
+          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
+        }
+      ],
+      "duration_ms": 213386,
+      "name": "Til alle tider",
+      "url": "https://open.spotify.com/track/6kr1xwYYaIH7ZQa3uBE921"
     },
     {
       "added_at": "2025-09-25 22:00:09",

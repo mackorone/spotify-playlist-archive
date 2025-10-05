@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Ra\u00fal Vega \ud83d\udcf8",
-  "num_followers": 1278062,
+  "num_followers": 1278175,
   "original_name": "Banda 2025",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
+        "name": "\"V1V0\"",
+        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 210267,
+      "name": "Borracha",
+      "url": "https://open.spotify.com/track/63gtXiQJ2c6YaDoi28k77N"
+    },
+    {
+      "added_at": "2025-10-03 06:00:04",
+      "album": {
         "name": "Recu\u00e9rdalo Bien",
         "url": "https://open.spotify.com/album/2YzR1RFxJPNH4u3JT1XQPT"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 151500,
       "name": "Recu\u00e9rdalo Bien",
       "url": "https://open.spotify.com/track/3VL3qwCur1nSbfL9YExPR2"
-    },
-    {
-      "added_at": "2025-10-03 06:00:04",
-      "album": {
-        "name": "\"V1V0\"",
-        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 210267,
-      "name": "Borracha",
-      "url": "https://open.spotify.com/track/63gtXiQJ2c6YaDoi28k77N"
     },
     {
       "added_at": "2025-10-03 06:00:04",
@@ -847,26 +847,6 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
-        "name": "Chulita",
-        "url": "https://open.spotify.com/album/2EpeDGk19T3GD5wMonX4v1"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        },
-        {
-          "name": "La Leyenda",
-          "url": "https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn"
-        }
-      ],
-      "duration_ms": 168620,
-      "name": "Chulita",
-      "url": "https://open.spotify.com/track/2VFKwU2RVpXJ3Iq04rwM7A"
-    },
-    {
-      "added_at": "2025-10-03 06:00:04",
-      "album": {
         "name": "Una Caguama en la Banqueta",
         "url": "https://open.spotify.com/album/5gIq0WRmSQVFK96UVOJ4pt"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 166232,
       "name": "Una Caguama en la Banqueta",
       "url": "https://open.spotify.com/track/6Mf2vSoRoDMOLmAHFXUI8h"
+    },
+    {
+      "added_at": "2025-10-03 06:00:04",
+      "album": {
+        "name": "Chulita",
+        "url": "https://open.spotify.com/album/2EpeDGk19T3GD5wMonX4v1"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        },
+        {
+          "name": "La Leyenda",
+          "url": "https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn"
+        }
+      ],
+      "duration_ms": 168620,
+      "name": "Chulita",
+      "url": "https://open.spotify.com/track/2VFKwU2RVpXJ3Iq04rwM7A"
     },
     {
       "added_at": "2025-10-03 06:00:04",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
-        "name": "El Amor No Existe",
-        "url": "https://open.spotify.com/album/5iOQnvxIagMz2kC2w0VL6d"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 138839,
-      "name": "El Amor No Existe",
-      "url": "https://open.spotify.com/track/05iyuBjH0VKipzIGRuDQUp"
-    },
-    {
-      "added_at": "2025-10-03 06:00:04",
-      "album": {
         "name": "Aunque No Sea Conmigo",
         "url": "https://open.spotify.com/album/2Ebonc8h40CqHy3svWp5WA"
       },
@@ -963,6 +947,22 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
+        "name": "El Amor No Existe",
+        "url": "https://open.spotify.com/album/5iOQnvxIagMz2kC2w0VL6d"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 138839,
+      "name": "El Amor No Existe",
+      "url": "https://open.spotify.com/track/05iyuBjH0VKipzIGRuDQUp"
+    },
+    {
+      "added_at": "2025-10-03 06:00:04",
+      "album": {
         "name": "Pajarillo",
         "url": "https://open.spotify.com/album/0noHiVyZqv0SoWTJtZhikn"
       },
@@ -979,26 +979,6 @@
       "duration_ms": 243029,
       "name": "Pajarillo",
       "url": "https://open.spotify.com/track/5K6XbQuRJLPZHTqgq5CjNv"
-    },
-    {
-      "added_at": "2025-10-03 06:00:04",
-      "album": {
-        "name": "El Capit\u00e1n",
-        "url": "https://open.spotify.com/album/2j9yGj01H5wTFfGK99Lx2E"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 151022,
-      "name": "El Capit\u00e1n",
-      "url": "https://open.spotify.com/track/79yEzqwIgNaVrwbPBrlZP2"
     },
     {
       "added_at": "2025-10-03 06:00:04",
@@ -1035,6 +1015,26 @@
       "duration_ms": 211341,
       "name": "Seremos (En Vivo)",
       "url": "https://open.spotify.com/track/1DuFyhuFMoDWd8AIJhCMpA"
+    },
+    {
+      "added_at": "2025-10-03 06:00:04",
+      "album": {
+        "name": "El Capit\u00e1n",
+        "url": "https://open.spotify.com/album/2j9yGj01H5wTFfGK99Lx2E"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 151022,
+      "name": "El Capit\u00e1n",
+      "url": "https://open.spotify.com/track/79yEzqwIgNaVrwbPBrlZP2"
     },
     {
       "added_at": "2025-10-03 06:00:04",
@@ -1451,6 +1451,90 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
+        "name": "Caballo Robado",
+        "url": "https://open.spotify.com/album/39AOvTcyx0LVuOJMf8peQB"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 118816,
+      "name": "Caballo Robado",
+      "url": "https://open.spotify.com/track/5SP9kvtRzmncffawYpAk0P"
+    },
+    {
+      "added_at": "2025-10-03 06:00:04",
+      "album": {
+        "name": "Adivina",
+        "url": "https://open.spotify.com/album/3C8SHjjgUo0oPlTfD8Opnl"
+      },
+      "artists": [
+        {
+          "name": "Noel Torres",
+          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
+        },
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "duration_ms": 191739,
+      "name": "Adivina",
+      "url": "https://open.spotify.com/track/2X4DA1E7158GOdakTEx1ES"
+    },
+    {
+      "added_at": "2025-10-03 06:00:04",
+      "album": {
+        "name": "Rezo",
+        "url": "https://open.spotify.com/album/7wLXaR7tSW2ezz3J4kGPsV"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 167625,
+      "name": "Rezo",
+      "url": "https://open.spotify.com/track/3y7ucSOHDjZxCGmy8VJNvs"
+    },
+    {
+      "added_at": "2025-10-03 06:00:04",
+      "album": {
+        "name": "Como Tu Mujer (En Vivo)",
+        "url": "https://open.spotify.com/album/4zuMZADzyH6ZZqxFf5d33x"
+      },
+      "artists": [
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        },
+        {
+          "name": "Lucy Luna",
+          "url": "https://open.spotify.com/artist/5SF5lapOmvdewzAxGZ3xAd"
+        },
+        {
+          "name": "Johanna Cota",
+          "url": "https://open.spotify.com/artist/6bm7uU9sg4Fm6MVQ6Rovi2"
+        },
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        },
+        {
+          "name": "Juleny Favela",
+          "url": "https://open.spotify.com/artist/5WAyGFOR3rjQnPMa6oUnKj"
+        }
+      ],
+      "duration_ms": 243750,
+      "name": "Como Tu Mujer - En Vivo",
+      "url": "https://open.spotify.com/track/3DH3yp6VKi8YaYRLoV73Zi"
+    },
+    {
+      "added_at": "2025-10-03 06:00:04",
+      "album": {
         "name": "S\u00e9 Sincera Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3nua6BtgRTtLGt8nEv4bgF"
       },
@@ -1507,38 +1591,6 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
-        "name": "Rezo",
-        "url": "https://open.spotify.com/album/7wLXaR7tSW2ezz3J4kGPsV"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 167625,
-      "name": "Rezo",
-      "url": "https://open.spotify.com/track/3y7ucSOHDjZxCGmy8VJNvs"
-    },
-    {
-      "added_at": "2025-10-03 06:00:04",
-      "album": {
-        "name": "Mi Olvido (REMASTERIZADO)",
-        "url": "https://open.spotify.com/album/3542b6XQMwlK7572x7aDWz"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 216832,
-      "name": "Mi Olvido - REMASTERIZADO",
-      "url": "https://open.spotify.com/track/24q2y1LmrARR26PDPDeBiH"
-    },
-    {
-      "added_at": "2025-10-03 06:00:04",
-      "album": {
         "name": "Somos Rancheros",
         "url": "https://open.spotify.com/album/3INERBclOpPUvR2qrtiF52"
       },
@@ -1559,18 +1611,18 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
-        "name": "Sones Adictivos (En Vivo)",
-        "url": "https://open.spotify.com/album/2ABPIhwQPrVIL8oamSwuS4"
+        "name": "Mi Olvido (REMASTERIZADO)",
+        "url": "https://open.spotify.com/album/3542b6XQMwlK7572x7aDWz"
       },
       "artists": [
         {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 210768,
-      "name": "La Rabia - En Vivo",
-      "url": "https://open.spotify.com/track/04R8sty3NIXKH990aCA5MG"
+      "duration_ms": 216832,
+      "name": "Mi Olvido - REMASTERIZADO",
+      "url": "https://open.spotify.com/track/24q2y1LmrARR26PDPDeBiH"
     },
     {
       "added_at": "2025-10-03 06:00:04",
@@ -1591,50 +1643,18 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
-        "name": "Caballo Robado",
-        "url": "https://open.spotify.com/album/39AOvTcyx0LVuOJMf8peQB"
+        "name": "Sones Adictivos (En Vivo)",
+        "url": "https://open.spotify.com/album/2ABPIhwQPrVIL8oamSwuS4"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 118816,
-      "name": "Caballo Robado",
-      "url": "https://open.spotify.com/track/5SP9kvtRzmncffawYpAk0P"
-    },
-    {
-      "added_at": "2025-10-03 06:00:04",
-      "album": {
-        "name": "Como Tu Mujer (En Vivo)",
-        "url": "https://open.spotify.com/album/4zuMZADzyH6ZZqxFf5d33x"
-      },
-      "artists": [
-        {
-          "name": "Helen Ochoa",
-          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
-        },
-        {
-          "name": "Lucy Luna",
-          "url": "https://open.spotify.com/artist/5SF5lapOmvdewzAxGZ3xAd"
-        },
-        {
-          "name": "Johanna Cota",
-          "url": "https://open.spotify.com/artist/6bm7uU9sg4Fm6MVQ6Rovi2"
-        },
-        {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
-        },
-        {
-          "name": "Juleny Favela",
-          "url": "https://open.spotify.com/artist/5WAyGFOR3rjQnPMa6oUnKj"
-        }
-      ],
-      "duration_ms": 243750,
-      "name": "Como Tu Mujer - En Vivo",
-      "url": "https://open.spotify.com/track/3DH3yp6VKi8YaYRLoV73Zi"
+      "duration_ms": 210768,
+      "name": "La Rabia - En Vivo",
+      "url": "https://open.spotify.com/track/04R8sty3NIXKH990aCA5MG"
     },
     {
       "added_at": "2025-10-03 06:00:04",
@@ -1655,22 +1675,6 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
-        "name": "Sones Adictivos (En Vivo)",
-        "url": "https://open.spotify.com/album/2ABPIhwQPrVIL8oamSwuS4"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 126395,
-      "name": "El Toro Viejo - En Vivo",
-      "url": "https://open.spotify.com/track/1yxCR1LJlGx7P1AujsPwoI"
-    },
-    {
-      "added_at": "2025-10-03 06:00:04",
-      "album": {
         "name": "B\u00e9same y Olv\u00eddame (En Vivo)",
         "url": "https://open.spotify.com/album/7vf0KzeR7U4paLkZiel00A"
       },
@@ -1687,22 +1691,18 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
-        "name": "Adivina",
-        "url": "https://open.spotify.com/album/3C8SHjjgUo0oPlTfD8Opnl"
+        "name": "Sones Adictivos (En Vivo)",
+        "url": "https://open.spotify.com/album/2ABPIhwQPrVIL8oamSwuS4"
       },
       "artists": [
         {
-          "name": "Noel Torres",
-          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
-        },
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 191739,
-      "name": "Adivina",
-      "url": "https://open.spotify.com/track/2X4DA1E7158GOdakTEx1ES"
+      "duration_ms": 126395,
+      "name": "El Toro Viejo - En Vivo",
+      "url": "https://open.spotify.com/track/1yxCR1LJlGx7P1AujsPwoI"
     },
     {
       "added_at": "2025-10-03 06:00:04",

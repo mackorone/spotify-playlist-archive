@@ -1,12 +1,12 @@
 {
   "description": "This is girl in red. The essential tracks, all in one playlist.",
-  "num_followers": 257938,
+  "num_followers": 257960,
   "original_name": "This Is girl in red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAACCi5YUS5ON3wDuAwcakoHZ",
+  "snapshot_id": "aN8SAAAAAAAcfDK6B6Whh39z8B467NQn",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "watch you sleep.",
-        "url": "https://open.spotify.com/album/788Q6tUcihFxDsOGGeyuFE"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 180225,
-      "name": "watch you sleep.",
-      "url": "https://open.spotify.com/track/6tMwheKgpMHBcHtr8aYMn8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "we fell in love in october / October Passed Me By",
         "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 143355,
       "name": "forget her",
       "url": "https://open.spotify.com/track/5vFuoZLvUmAzzIiLSEhk0K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "watch you sleep.",
+        "url": "https://open.spotify.com/album/788Q6tUcihFxDsOGGeyuFE"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 180225,
+      "name": "watch you sleep.",
+      "url": "https://open.spotify.com/track/6tMwheKgpMHBcHtr8aYMn8"
     },
     {
       "added_at": null,

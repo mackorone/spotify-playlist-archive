@@ -4,7 +4,7 @@
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Yellowcard
 
-1,414 songs - 3 day 2 hr 38 min
+1,415 songs - 3 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,7 @@
 | [Crawl II](https://open.spotify.com/track/5lriyhkDRZvtl8fKD9JU0T) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Crawl II](https://open.spotify.com/album/1Suln1akGBpyDrKZENbsX9) | 3:15 | 2024-03-22 | 2024-04-13 |
 | [Crawl II](https://open.spotify.com/track/30mJq8ujEDX7Y3pUus8PUb) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Crawl II](https://open.spotify.com/album/3CTvjgbFrgEiv8dSm05M6k) | 3:15 | 2023-04-23 | 2024-03-30 |
 | [Crazy](https://open.spotify.com/track/7ox7u0VHZRTb2OJetuYF7n) | [Five AM](https://open.spotify.com/artist/5yOIBW9Rxj73pJrqhW0fpS) | [Crazy](https://open.spotify.com/album/4iM4umvgxKL38p0SGZRtaz) | 3:01 | 2022-03-25 | 2022-04-20 |
-| [CRIMINAL](https://open.spotify.com/track/4i8U1t123TAsAgwudp0a3X) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [CRIMINAL](https://open.spotify.com/album/6tYOhX9KBCYw780fKofaW5) | 3:47 | 2024-06-24 |  |
+| [CRIMINAL](https://open.spotify.com/track/4i8U1t123TAsAgwudp0a3X) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [CRIMINAL](https://open.spotify.com/album/6tYOhX9KBCYw780fKofaW5) | 3:47 | 2024-06-24 | 2025-10-05 |
 | [Criminal](https://open.spotify.com/track/0CXQ2LNOcb6oJTWYEWKtyK) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Living Proof](https://open.spotify.com/album/1Qb73C8hC76e3R8udyit5I) | 3:22 | 2021-12-10 | 2022-05-09 |
 | [Criminal Energy](https://open.spotify.com/track/1sqEf1JGRZlxQBpSbvLcC0) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Surviving](https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI) | 3:11 | 2022-03-25 | 2022-05-31 |
 | [Crisis](https://open.spotify.com/track/2Wi6zwLGfBlCLl2Pp4fgoN) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Identity Crisis](https://open.spotify.com/album/4FWyoXLfgFO7aGcCXvAgSn) | 3:16 | 2022-02-04 | 2022-05-12 |
@@ -1347,6 +1347,7 @@
 | [What's An Hour Really Worth](https://open.spotify.com/track/2ynVwAfLqk8GLXf4W95OMf) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [What's An Hour Really Worth](https://open.spotify.com/album/23NuSKPDQnvMwLJjcDTmjR) | 3:33 | 2024-05-14 | 2024-10-20 |
 | [What's Left of Me](https://open.spotify.com/track/0G3ZCzAYZD29pzb3eH28Cy) | [Percy Bluu](https://open.spotify.com/artist/2PmcmJA18f9Pa9gT440EYy) | [What's Left of Me](https://open.spotify.com/album/2zf2xViTgY8tVjscTiysVA) | 3:14 | 2021-12-10 | 2022-07-25 |
 | [Whatever, Who Cares](https://open.spotify.com/track/5NlkbhyJBy2WNJsl4hHpIB) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [Whatever, Who Cares](https://open.spotify.com/album/1nAB5FeTy2zIHu3AEdlZtk) | 2:55 | 2022-08-05 | 2022-10-01 |
+| [When in Love](https://open.spotify.com/track/5tjKNBax9WFNbrpruOumHS) | [A Lot Like Birds](https://open.spotify.com/artist/4tGd3HHlV4RVOdlBc5LAW3), [Geoff Rickly](https://open.spotify.com/artist/1rSMnOXCnT7rf4j4RErmSX) | [When in Love](https://open.spotify.com/album/1JnrM00cVPFBxrZc8EgdYw) | 4:25 | 2025-10-03 |  |
 | [When We Were Young](https://open.spotify.com/track/3bYUFS0H27cU8A7DJW0AOY) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [Derek Sanders](https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE) | [When We Were Young](https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R) | 3:11 | 2024-01-19 | 2025-09-14 |
 | [When We Were Young \(feat\. Jaret Reddick of Bowling For Soup\)](https://open.spotify.com/track/5Ia75Gb9IdPKsAuU7v93PL) | [Mest](https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK), [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [When We Were Young \(feat\. Jaret Reddick of Bowling For Soup\)](https://open.spotify.com/album/40R60muWYyAVfngs2hVZfj) | 2:59 | 2024-04-12 | 2024-10-12 |
 | [When You Know](https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [All Distortions Are Intentional](https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG) | 3:09 | 2022-07-08 | 2023-04-11 |

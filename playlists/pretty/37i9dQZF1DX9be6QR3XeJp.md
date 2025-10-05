@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: 1111
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,893 likes - 256 songs - 13 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,884 likes - 256 songs - 13 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

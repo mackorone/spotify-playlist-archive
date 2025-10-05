@@ -1,6 +1,6 @@
 {
   "description": "Canciones de ayer y de hoy grabadas a fuego en el coraz\u00f3n.",
-  "num_followers": 86324,
+  "num_followers": 86334,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-08-21 19:40:34",
       "album": {
-        "name": "Huella",
-        "url": "https://open.spotify.com/album/0y0ckypghp0Ae1bdo3qjth"
-      },
-      "artists": [
-        {
-          "name": "Los Carabajal",
-          "url": "https://open.spotify.com/artist/73HzrMaQAGRv2nHCiOBlam"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "No Me Canso de Amar",
-      "url": "https://open.spotify.com/track/5LKPve9fCi7TKtgoJx49NF"
-    },
-    {
-      "added_at": "2025-08-21 19:40:34",
-      "album": {
         "name": "Mil Momentos (En Vivo)",
         "url": "https://open.spotify.com/album/35oe1PzRomgYknZMJ8MCqT"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 215672,
       "name": "Mil Momentos - En Vivo",
       "url": "https://open.spotify.com/track/16sswACfv8q6ndVYSHVtrT"
+    },
+    {
+      "added_at": "2025-08-21 19:40:34",
+      "album": {
+        "name": "Huella",
+        "url": "https://open.spotify.com/album/0y0ckypghp0Ae1bdo3qjth"
+      },
+      "artists": [
+        {
+          "name": "Los Carabajal",
+          "url": "https://open.spotify.com/artist/73HzrMaQAGRv2nHCiOBlam"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "No Me Canso de Amar",
+      "url": "https://open.spotify.com/track/5LKPve9fCi7TKtgoJx49NF"
     },
     {
       "added_at": "2025-08-21 19:40:34",

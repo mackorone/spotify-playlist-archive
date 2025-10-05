@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Italy.",
-  "num_followers": 1080566,
+  "num_followers": 1080562,
   "original_name": "Top 50 - Italy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MHM5yAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MHSP+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
       "album": {
         "name": "PER SOLDI E PER AMORE",
         "url": "https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/0rjVRGqVuNwnGCxwBkBZXd"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
       "album": {
         "name": "TUTTA VITA",
         "url": "https://open.spotify.com/album/1R9yzLNi4GMkQSRwtiptjc"
@@ -49,23 +49,23 @@
       "url": "https://open.spotify.com/track/7K4ny4ARBDr5z7ftcAzi6i"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
       "album": {
-        "name": "PER SOLDI E PER AMORE",
-        "url": "https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
       },
       "artists": [
         {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 214934,
-      "name": "PER TE",
-      "url": "https://open.spotify.com/track/6DhMZVuD6TH0jd4bMNChCU"
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
       "album": {
         "name": "TUTTA VITA (SEMPRE)",
         "url": "https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f"
@@ -85,27 +85,63 @@
       "url": "https://open.spotify.com/track/0pjqXWOiT5xMh2ua6sq4dl"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
       "album": {
-        "name": "TUTTA VITA",
-        "url": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7"
+        "name": "PER SOLDI E PER AMORE",
+        "url": "https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y"
       },
       "artists": [
         {
-          "name": "Olly",
-          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
-        },
-        {
-          "name": "Juli",
-          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
         }
       ],
-      "duration_ms": 190122,
-      "name": "Devastante",
-      "url": "https://open.spotify.com/track/1ej2NcW0CHnscPp1RZpr1V"
+      "duration_ms": 214934,
+      "name": "PER TE",
+      "url": "https://open.spotify.com/track/6DhMZVuD6TH0jd4bMNChCU"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
+      "album": {
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/6w0sqUb9pXtssmiDxmd8LK"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 172067,
+      "name": "Fanculo (feat. Marracash)",
+      "url": "https://open.spotify.com/track/2smcrTWrF4aEbuHz60x03f"
+    },
+    {
+      "added_at": "2025-10-04 13:44:33",
+      "album": {
+        "name": "NON CAPISCI (FREESTYLE)",
+        "url": "https://open.spotify.com/album/3EqBhT9F1rHjYda8uL0rzH"
+      },
+      "artists": [
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "duration_ms": 87000,
+      "name": "NON CAPISCI (FREESTYLE)",
+      "url": "https://open.spotify.com/track/5jTuRKlHmp16jKeolPth0A"
+    },
+    {
+      "added_at": "2025-10-04 13:44:33",
       "album": {
         "name": "TUTTA VITA",
         "url": "https://open.spotify.com/album/74qhbKLkfhlWo32AIPqs7v"
@@ -125,7 +161,43 @@
       "url": "https://open.spotify.com/track/5pNm9cYzWaAtoihxILG3cw"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 208291,
+      "name": "Elizabeth Taylor",
+      "url": "https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL"
+    },
+    {
+      "added_at": "2025-10-04 13:44:33",
+      "album": {
+        "name": "TUTTA VITA",
+        "url": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7"
+      },
+      "artists": [
+        {
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        }
+      ],
+      "duration_ms": 190122,
+      "name": "Devastante",
+      "url": "https://open.spotify.com/track/1ej2NcW0CHnscPp1RZpr1V"
+    },
+    {
+      "added_at": "2025-10-04 13:44:33",
       "album": {
         "name": "La Plena (W Sound 05)",
         "url": "https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt"
@@ -149,7 +221,7 @@
       "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
       "album": {
         "name": "Kriminal (Prod. by Roberto Ferrante)",
         "url": "https://open.spotify.com/album/64mzxfRIXYCm6NVj0NTefe"
@@ -177,47 +249,23 @@
       "url": "https://open.spotify.com/track/0pxwzHAlnK86CIfDbbJLr4"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
       "album": {
-        "name": "TUTTA VITA (SEMPRE)",
-        "url": "https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
       },
       "artists": [
         {
-          "name": "Olly",
-          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
-        },
-        {
-          "name": "Juli",
-          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 186090,
-      "name": "Il brivido della vita",
-      "url": "https://open.spotify.com/track/0P4wjuZdQvFkMYqDYiM9EF"
+      "duration_ms": 235355,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3euZKF0hmGxQ6h2JHHY4iu"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
-      "album": {
-        "name": "TUTTA VITA (SEMPRE)",
-        "url": "https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f"
-      },
-      "artists": [
-        {
-          "name": "Olly",
-          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
-        },
-        {
-          "name": "Juli",
-          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
-        }
-      ],
-      "duration_ms": 260394,
-      "name": "Buon trasloco",
-      "url": "https://open.spotify.com/track/3QLMlVX2QydtebrLV5vK2G"
-    },
-    {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
       "album": {
         "name": "TUTTA VITA",
         "url": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7"
@@ -241,7 +289,7 @@
       "url": "https://open.spotify.com/track/5nFyfjGy6AMZqkW0OMUWJJ"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
       "album": {
         "name": "D\u00c9SOL\u00c9E",
         "url": "https://open.spotify.com/album/14aEL5lLrcr9ohOnpdIeVi"
@@ -257,7 +305,7 @@
       "url": "https://open.spotify.com/track/2bT6QX29M7GLSuTDSirwaS"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
       "album": {
         "name": "MI AMI MI ODI",
         "url": "https://open.spotify.com/album/0grqDgwk7yAw6j4PxjHECP"
@@ -281,7 +329,7 @@
       "url": "https://open.spotify.com/track/4Cd1cCCqG3nlf07i5A0IPH"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
       "album": {
         "name": "SANTANA MONEY GANG",
         "url": "https://open.spotify.com/album/71agI93AilqukvHURp6tGy"
@@ -301,10 +349,10 @@
       "url": "https://open.spotify.com/track/0jkAr7eZsvWDLYiQCfaxak"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
       "album": {
-        "name": "TUTTA VITA",
-        "url": "https://open.spotify.com/album/1R9yzLNi4GMkQSRwtiptjc"
+        "name": "TUTTA VITA (SEMPRE)",
+        "url": "https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f"
       },
       "artists": [
         {
@@ -316,12 +364,28 @@
           "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
         }
       ],
-      "duration_ms": 212148,
-      "name": "Depresso fortunato",
-      "url": "https://open.spotify.com/track/5T8Mixh22pgFaAKHrnPHkl"
+      "duration_ms": 260394,
+      "name": "Buon trasloco",
+      "url": "https://open.spotify.com/track/3QLMlVX2QydtebrLV5vK2G"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 212777,
+      "name": "Father Figure",
+      "url": "https://open.spotify.com/track/03bTIHJElXZ0O0jqOQvAbY"
+    },
+    {
+      "added_at": "2025-10-04 13:44:33",
       "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/4t5euIQosseN76E6f3b8NF"
@@ -341,23 +405,7 @@
       "url": "https://open.spotify.com/track/6zjlQ39iHKMaPcY9Fz4d9e"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
-      "album": {
-        "name": "Il mio lato peggiore",
-        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 223834,
-      "name": "Nessuna",
-      "url": "https://open.spotify.com/track/5bhYjElbPmm2FyB0PxP8Wd"
-    },
-    {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
       "album": {
         "name": "TUTTA VITA (SEMPRE)",
         "url": "https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f"
@@ -372,28 +420,12 @@
           "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
         }
       ],
-      "duration_ms": 195988,
-      "name": "Occhi color mare",
-      "url": "https://open.spotify.com/track/1EVOcQcJeAbtmzmuYnI14C"
+      "duration_ms": 186090,
+      "name": "Il brivido della vita",
+      "url": "https://open.spotify.com/track/0P4wjuZdQvFkMYqDYiM9EF"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
-      "album": {
-        "name": "PER SOLDI E PER AMORE",
-        "url": "https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y"
-      },
-      "artists": [
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        }
-      ],
-      "duration_ms": 176584,
-      "name": "IL GIOCO DEL SILENZIO",
-      "url": "https://open.spotify.com/track/4d2d57V0NYORXRGylmLY7R"
-    },
-    {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
       "album": {
         "name": "MATTIA",
         "url": "https://open.spotify.com/album/4v9jvZy9cIvTceWv4XQy0O"
@@ -409,7 +441,91 @@
       "url": "https://open.spotify.com/track/4vamBYGnZNodN7lp2Ma6iL"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
+      "album": {
+        "name": "TUTTA VITA",
+        "url": "https://open.spotify.com/album/4Jf9qSmB62Qj35tpiXunTz"
+      },
+      "artists": [
+        {
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        }
+      ],
+      "duration_ms": 212148,
+      "name": "Depresso fortunato",
+      "url": "https://open.spotify.com/track/0xju4u3DFjOy1fhITDPZ6B"
+    },
+    {
+      "added_at": "2025-10-04 13:44:33",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 246356,
+      "name": "Eldest Daughter",
+      "url": "https://open.spotify.com/track/62HoDY1Km6lm47haFpUn9c"
+    },
+    {
+      "added_at": "2025-10-04 13:44:33",
+      "album": {
+        "name": "Il mio lato peggiore",
+        "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 223834,
+      "name": "Nessuna",
+      "url": "https://open.spotify.com/track/5bhYjElbPmm2FyB0PxP8Wd"
+    },
+    {
+      "added_at": "2025-10-04 13:44:33",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 163699,
+      "name": "Actually Romantic",
+      "url": "https://open.spotify.com/track/2x3mwb96B6TquRqMtbxUE1"
+    },
+    {
+      "added_at": "2025-10-04 13:44:33",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 211498,
+      "name": "CANCELLED!",
+      "url": "https://open.spotify.com/track/1appZ3c336FkPvCuywfmrs"
+    },
+    {
+      "added_at": "2025-10-04 13:44:33",
       "album": {
         "name": "Bam Bam",
         "url": "https://open.spotify.com/album/3jkVm8m2u6EmH4b3C0bSll"
@@ -429,23 +545,63 @@
       "url": "https://open.spotify.com/track/4J2Kj3VyYt6OYwQg7AN6G2"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
       "album": {
-        "name": "PER SOLDI E PER AMORE",
-        "url": "https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y"
+        "name": "TUTTA VITA (SEMPRE)",
+        "url": "https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f"
       },
       "artists": [
         {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
         }
       ],
-      "duration_ms": 175200,
-      "name": "BERLINO",
-      "url": "https://open.spotify.com/track/3l109GEhkVYrTvDoKuNGlu"
+      "duration_ms": 195988,
+      "name": "Occhi color mare",
+      "url": "https://open.spotify.com/track/1EVOcQcJeAbtmzmuYnI14C"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 241766,
+      "name": "The Life of a Showgirl (feat. Sabrina Carpenter)",
+      "url": "https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex"
+    },
+    {
+      "added_at": "2025-10-04 13:44:33",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 220564,
+      "name": "Ruin The Friendship",
+      "url": "https://open.spotify.com/track/62V2ZHslgQV98gH4AuVXnr"
+    },
+    {
+      "added_at": "2025-10-04 13:44:33",
       "album": {
         "name": "Comuni Mortali",
         "url": "https://open.spotify.com/album/3tiuh424B3Leg8bxHc1Jv5"
@@ -461,43 +617,55 @@
       "url": "https://open.spotify.com/track/7vc09IDmFH0MfyPYHPEWRM"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
       "album": {
-        "name": "BIG 5",
-        "url": "https://open.spotify.com/album/4Are0mNScwygiibFFK39db"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 127499,
-      "name": "7ELEVEN",
-      "url": "https://open.spotify.com/track/27teXnNekA5jBFLCcsCFoq"
+      "duration_ms": 150517,
+      "name": "Wood",
+      "url": "https://open.spotify.com/track/5ylJtmaWPJ33cW3En7WOu0"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
       "album": {
-        "name": "TUTTA VITA",
-        "url": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
-          "name": "Olly",
-          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
-        },
-        {
-          "name": "Juli",
-          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 180137,
-      "name": "Scarabocchi",
-      "url": "https://open.spotify.com/track/4X4R6qsIicxIQIFbnDcJLO"
+      "duration_ms": 207349,
+      "name": "Wi$h Li$t",
+      "url": "https://open.spotify.com/track/2TEQvxxQabwLQMqWMg1qGu"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
+      "album": {
+        "name": "PER SOLDI E PER AMORE",
+        "url": "https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "duration_ms": 176584,
+      "name": "IL GIOCO DEL SILENZIO",
+      "url": "https://open.spotify.com/track/4d2d57V0NYORXRGylmLY7R"
+    },
+    {
+      "added_at": "2025-10-04 13:44:33",
       "album": {
         "name": "A me mi piace",
         "url": "https://open.spotify.com/album/5bOq60eYm3onS0GG2CkduJ"
@@ -517,23 +685,23 @@
       "url": "https://open.spotify.com/track/1HOkC1UCYVIWfnu6KD9Hca"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
       "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+        "name": "BIG 5",
+        "url": "https://open.spotify.com/album/4Are0mNScwygiibFFK39db"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
         }
       ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+      "duration_ms": 127499,
+      "name": "7ELEVEN",
+      "url": "https://open.spotify.com/track/27teXnNekA5jBFLCcsCFoq"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
       "album": {
         "name": "\u00c8 FINITA LA PACE",
         "url": "https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo"
@@ -549,7 +717,7 @@
       "url": "https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
       "album": {
         "name": "PER SOLDI E PER AMORE",
         "url": "https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y"
@@ -558,74 +726,46 @@
         {
           "name": "Ernia",
           "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        },
-        {
-          "name": "Madame",
-          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
         }
       ],
-      "duration_ms": 195033,
-      "name": "PERCH\u00c9 (feat. Madame)",
-      "url": "https://open.spotify.com/track/3yl4YSirPhD9zy7FGa4QX6"
+      "duration_ms": 175200,
+      "name": "BERLINO",
+      "url": "https://open.spotify.com/track/3l109GEhkVYrTvDoKuNGlu"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
       "album": {
-        "name": "Amarsi \u00e8 la rivoluzione",
-        "url": "https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP"
+        "name": "NESSUNO",
+        "url": "https://open.spotify.com/album/3DF9iGNevd923pLf3rnAp6"
       },
       "artists": [
         {
-          "name": "Eddie Brock",
-          "url": "https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR"
+          "name": "Le-one",
+          "url": "https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou"
         }
       ],
-      "duration_ms": 187698,
-      "name": "Non \u00e8 mica te",
-      "url": "https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD"
+      "duration_ms": 127384,
+      "name": "YAMAL",
+      "url": "https://open.spotify.com/track/4haEJXWUw7uyrHBBvJGool"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
       "album": {
-        "name": "PER SOLDI E PER AMORE",
-        "url": "https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y"
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
       },
       "artists": [
         {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 189545,
-      "name": "DA DENUNCIA (feat. Marracash)",
-      "url": "https://open.spotify.com/track/1Mv57QiDL2gohIlONsIXBk"
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
-      "album": {
-        "name": "Mentre Los Angeles Brucia",
-        "url": "https://open.spotify.com/album/2O1iWxwf8rcqR6SYksKSb1"
-      },
-      "artists": [
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        },
-        {
-          "name": "Tredici Pietro",
-          "url": "https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC"
-        }
-      ],
-      "duration_ms": 183520,
-      "name": "Che Gusto C'\u00e8 (feat. Tredici Pietro)",
-      "url": "https://open.spotify.com/track/23iWOv9jw8F5zEe550CZa0"
-    },
-    {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
       "album": {
         "name": "Hello World",
         "url": "https://open.spotify.com/album/79HurwZ9TQ8y5jrWlUDrIE"
@@ -645,23 +785,119 @@
       "url": "https://open.spotify.com/track/5wpNF7XLTW4gLyU0NjVOL8"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
       "album": {
-        "name": "NESSUNO",
-        "url": "https://open.spotify.com/album/3DF9iGNevd923pLf3rnAp6"
+        "name": "TUTTA VITA",
+        "url": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7"
       },
       "artists": [
         {
-          "name": "Le-one",
-          "url": "https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou"
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
         }
       ],
-      "duration_ms": 127384,
-      "name": "YAMAL",
-      "url": "https://open.spotify.com/track/4haEJXWUw7uyrHBBvJGool"
+      "duration_ms": 180137,
+      "name": "Scarabocchi",
+      "url": "https://open.spotify.com/track/4X4R6qsIicxIQIFbnDcJLO"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
+      "album": {
+        "name": "Mentre Los Angeles Brucia",
+        "url": "https://open.spotify.com/album/2O1iWxwf8rcqR6SYksKSb1"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        },
+        {
+          "name": "Tredici Pietro",
+          "url": "https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC"
+        }
+      ],
+      "duration_ms": 183520,
+      "name": "Che Gusto C'\u00e8 (feat. Tredici Pietro)",
+      "url": "https://open.spotify.com/track/23iWOv9jw8F5zEe550CZa0"
+    },
+    {
+      "added_at": "2025-10-04 13:44:33",
+      "album": {
+        "name": "LA CIUDAD",
+        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 173858,
+      "name": "capaz (merengueton)",
+      "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
+    },
+    {
+      "added_at": "2025-10-04 13:44:33",
+      "album": {
+        "name": "Ex (feat. Elodie)",
+        "url": "https://open.spotify.com/album/3w47sEM0wJrlEl9Ma2FTjG"
+      },
+      "artists": [
+        {
+          "name": "Irama",
+          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
+        },
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        }
+      ],
+      "duration_ms": 184981,
+      "name": "Ex (feat. Elodie)",
+      "url": "https://open.spotify.com/track/3mrlxIf9tSeQmcmkRPtiRY"
+    },
+    {
+      "added_at": "2025-10-04 13:44:33",
+      "album": {
+        "name": "Non so chi ha creato il mondo ma so che era innamorato",
+        "url": "https://open.spotify.com/album/1aiCFo4xwwYp9J7qHOy1Mb"
+      },
+      "artists": [
+        {
+          "name": "Alfa",
+          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
+        }
+      ],
+      "duration_ms": 187403,
+      "name": "il filo rosso",
+      "url": "https://open.spotify.com/track/1QcmAp6Ev2HuYxKujUwnw0"
+    },
+    {
+      "added_at": "2025-10-04 13:44:33",
+      "album": {
+        "name": "G&V",
+        "url": "https://open.spotify.com/album/1hSHdf8O0jsoaqFi7cpLAR"
+      },
+      "artists": [
+        {
+          "name": "IvanBi",
+          "url": "https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "G&V",
+      "url": "https://open.spotify.com/track/6poK4dgWF5wQmmB7i92mhh"
+    },
+    {
+      "added_at": "2025-10-04 13:44:33",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -693,268 +929,20 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-10-03 14:11:50",
+      "added_at": "2025-10-04 13:44:33",
       "album": {
-        "name": "LA CIUDAD",
-        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
+        "name": "Amarsi \u00e8 la rivoluzione",
+        "url": "https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP"
       },
       "artists": [
         {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+          "name": "Eddie Brock",
+          "url": "https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR"
         }
       ],
-      "duration_ms": 173858,
-      "name": "capaz (merengueton)",
-      "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
-    },
-    {
-      "added_at": "2025-10-03 14:11:50",
-      "album": {
-        "name": "Non so chi ha creato il mondo ma so che era innamorato",
-        "url": "https://open.spotify.com/album/1aiCFo4xwwYp9J7qHOy1Mb"
-      },
-      "artists": [
-        {
-          "name": "Alfa",
-          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
-        }
-      ],
-      "duration_ms": 187403,
-      "name": "il filo rosso",
-      "url": "https://open.spotify.com/track/1QcmAp6Ev2HuYxKujUwnw0"
-    },
-    {
-      "added_at": "2025-10-03 14:11:50",
-      "album": {
-        "name": "TUTTA VITA (SEMPRE)",
-        "url": "https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f"
-      },
-      "artists": [
-        {
-          "name": "Olly",
-          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
-        },
-        {
-          "name": "Juli",
-          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
-        }
-      ],
-      "duration_ms": 252543,
-      "name": "Come noi non c'\u00e8 nessuno",
-      "url": "https://open.spotify.com/track/0Fqhgx5n1h6lDxl4YWF98x"
-    },
-    {
-      "added_at": "2025-10-03 14:11:50",
-      "album": {
-        "name": "Ex (feat. Elodie)",
-        "url": "https://open.spotify.com/album/3w47sEM0wJrlEl9Ma2FTjG"
-      },
-      "artists": [
-        {
-          "name": "Irama",
-          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
-        },
-        {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
-        }
-      ],
-      "duration_ms": 184981,
-      "name": "Ex (feat. Elodie)",
-      "url": "https://open.spotify.com/track/3mrlxIf9tSeQmcmkRPtiRY"
-    },
-    {
-      "added_at": "2025-10-03 14:11:50",
-      "album": {
-        "name": "LA BELLAVITA",
-        "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
-      },
-      "artists": [
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "SOGNO AMERICANO",
-      "url": "https://open.spotify.com/track/7i0zYckMTyvLyKAFxfOKIS"
-    },
-    {
-      "added_at": "2025-10-03 14:11:50",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 237117,
-      "name": "DtMF",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
-    },
-    {
-      "added_at": "2025-10-03 14:11:50",
-      "album": {
-        "name": "PER SOLDI E PER AMORE",
-        "url": "https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y"
-      },
-      "artists": [
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        }
-      ],
-      "duration_ms": 221739,
-      "name": "PER I LORO OCCHI",
-      "url": "https://open.spotify.com/track/2WZis86ZQocZfJBEw3Vsdb"
-    },
-    {
-      "added_at": "2025-10-03 14:11:50",
-      "album": {
-        "name": "SERENATA",
-        "url": "https://open.spotify.com/album/1kknmZi7U32CSSrRVRfaqz"
-      },
-      "artists": [
-        {
-          "name": "Serena Brancale",
-          "url": "https://open.spotify.com/artist/7108jelN43seqWILMvJwKi"
-        },
-        {
-          "name": "Alessandra Amoroso",
-          "url": "https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu"
-        }
-      ],
-      "duration_ms": 188373,
-      "name": "SERENATA",
-      "url": "https://open.spotify.com/track/18phYWPlfxvF9jmUVwkb4c"
-    },
-    {
-      "added_at": "2025-10-03 14:11:50",
-      "album": {
-        "name": "Piazza San Marco (feat. Marco Mengoni)",
-        "url": "https://open.spotify.com/album/5hvqSt6A4URvBVagocDuwo"
-      },
-      "artists": [
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        },
-        {
-          "name": "Marco Mengoni",
-          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
-        }
-      ],
-      "duration_ms": 218307,
-      "name": "Piazza San Marco (feat. Marco Mengoni)",
-      "url": "https://open.spotify.com/track/0o5CZeuplgMbxles3Kketq"
-    },
-    {
-      "added_at": "2025-10-03 14:11:50",
-      "album": {
-        "name": "TUTTA VITA",
-        "url": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7"
-      },
-      "artists": [
-        {
-          "name": "Olly",
-          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
-        },
-        {
-          "name": "Juli",
-          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
-        }
-      ],
-      "duration_ms": 180856,
-      "name": "Quei ricordi l\u00e0",
-      "url": "https://open.spotify.com/track/75Y6WgUldQN8mipAVLy8KJ"
-    },
-    {
-      "added_at": "2025-10-03 14:11:50",
-      "album": {
-        "name": "G&V",
-        "url": "https://open.spotify.com/album/1hSHdf8O0jsoaqFi7cpLAR"
-      },
-      "artists": [
-        {
-          "name": "IvanBi",
-          "url": "https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg"
-        }
-      ],
-      "duration_ms": 112500,
-      "name": "G&V",
-      "url": "https://open.spotify.com/track/6poK4dgWF5wQmmB7i92mhh"
-    },
-    {
-      "added_at": "2025-10-03 14:11:50",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
-    },
-    {
-      "added_at": "2025-10-03 14:11:50",
-      "album": {
-        "name": "Persona",
-        "url": "https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 230922,
-      "name": "CRUDELIA - I nervi",
-      "url": "https://open.spotify.com/track/0xEgDBXYO9gGzmxCFWKxNg"
-    },
-    {
-      "added_at": "2025-10-03 14:11:50",
-      "album": {
-        "name": "ALASKA BABY",
-        "url": "https://open.spotify.com/album/3ROTuddVE79FtfYVw5BfzG"
-      },
-      "artists": [
-        {
-          "name": "Cesare Cremonini",
-          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
-        }
-      ],
-      "duration_ms": 303032,
-      "name": "Ora che non ho pi\u00f9 te",
-      "url": "https://open.spotify.com/track/25idOmfSOCGGdgPhw9iCRm"
-    },
-    {
-      "added_at": "2025-10-03 14:11:50",
-      "album": {
-        "name": "LOCURA",
-        "url": "https://open.spotify.com/album/1QqHc2RPq59exIRKRolI1O"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 189642,
-      "name": "BUIO DAVANTI",
-      "url": "https://open.spotify.com/track/5MJc4IVIt17xEt6angtZcq"
+      "duration_ms": 187698,
+      "name": "Non \u00e8 mica te",
+      "url": "https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD"
     }
   ],
   "unique_name": "Top 50 - Italy",

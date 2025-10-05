@@ -3023,6 +3023,40 @@
     },
     {
       "album": {
+        "name": "D-Nice Presents: TONIGHT",
+        "url": "https://open.spotify.com/album/1LMJvOYrePh4L2jCRkc1wX"
+      },
+      "artists": [
+        {
+          "name": "D-Nice",
+          "url": "https://open.spotify.com/artist/4MbFOE7rR1KpTjHTw1gjWH"
+        },
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        },
+        {
+          "name": "Erick Sermon",
+          "url": "https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ"
+        },
+        {
+          "name": "Teddy Riley",
+          "url": "https://open.spotify.com/artist/5VDmBevaLkMLnK0rLOjijw"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204653,
+      "name": "D-Nice Presents: TONIGHT",
+      "url": "https://open.spotify.com/track/2NzMZBo1flunwpZ1mhRzGj"
+    },
+    {
+      "album": {
         "name": "Damn",
         "url": "https://open.spotify.com/album/5xM06Tdm3WUkdtFqBeN4Mb"
       },
@@ -3266,7 +3300,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 156397,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/24QQcdy9UpOvBTiDV94KHW"
@@ -4468,6 +4502,24 @@
       "duration_ms": 172000,
       "name": "For Granted (feat. Arin Ray)",
       "url": "https://open.spotify.com/track/39RJfDkli3BkEsW6LN4DrZ"
+    },
+    {
+      "album": {
+        "name": "For Life",
+        "url": "https://open.spotify.com/album/0S0HHubwSetJNh0gPiyrIb"
+      },
+      "artists": [
+        {
+          "name": "Kindred The Family Soul",
+          "url": "https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "For Life",
+      "url": "https://open.spotify.com/track/6i3JecAQTANf4N1ihMo5pe"
     },
     {
       "album": {
@@ -6810,7 +6862,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 178891,
       "name": "If The Love Goes",
       "url": "https://open.spotify.com/track/5umedE89tIRPYTAkgLvFEW"

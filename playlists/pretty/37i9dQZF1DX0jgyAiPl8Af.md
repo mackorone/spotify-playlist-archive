@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 
 > Unwind to these calm classical guitar pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,326,777 likes - 190 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,327,780 likes - 190 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 63 | [Tomorrow's Dream](https://open.spotify.com/track/2CCN2biC5thrngQtYUlSOh) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Tomorrow's Dream](https://open.spotify.com/album/375tL35zwCzLsuLSkSpGpG) | 3:00 |
 | 64 | [Avignon](https://open.spotify.com/track/6fAdieoPamID5n1xxzbo9J) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Avignon](https://open.spotify.com/album/2o9Ojzy0zjgESWSvlOJxQT) | 2:49 |
 | 65 | [On safe ground](https://open.spotify.com/track/5pOiP14FTPJoLTlgo8tpTL) | [Max Stewart](https://open.spotify.com/artist/3QVwxtN8aGF1GSyZqqcEow) | [On safe ground](https://open.spotify.com/album/0AaDcTs4eGVcgLldB36hbj) | 2:25 |
-| 66 | [Look Up](https://open.spotify.com/track/0ZiRInDpULhyc77lBcqMoQ) | [Marian Rose](https://open.spotify.com/artist/6zh9U3XKNFN5Drifqx5DtG) | [Look Up](https://open.spotify.com/album/035ju6sd54YQIg44aCRMzU) | 2:37 |
+| 66 | [Look Up](https://open.spotify.com/track/0ZiRInDpULhyc77lBcqMoQ) | [M\. Rose](https://open.spotify.com/artist/6mDntABgyJFtNZ3IkqCJIn) | [Look Up](https://open.spotify.com/album/035ju6sd54YQIg44aCRMzU) | 2:37 |
 | 67 | [Everwarm](https://open.spotify.com/track/4vVHHh42oRLxw4McSyWED2) | [Yumi Ima](https://open.spotify.com/artist/0TVrvag1CbzyEzo93LPCba) | [Everwarm](https://open.spotify.com/album/41ezKIzkNkok0R3aBcdyLU) | 2:49 |
 | 68 | [River's Edge](https://open.spotify.com/track/7lcpqrRdvs8komIL2UI1e6) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [River's Edge](https://open.spotify.com/album/0nqR7HIHANllfef8LZt8NZ) | 3:02 |
 | 69 | [Harbor Light](https://open.spotify.com/track/4IsEpm8Krhp2eyyu7wsooI) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Harbor Light](https://open.spotify.com/album/3SuzrVzAA7XHa5oSFgMEoZ) | 2:52 |
@@ -144,7 +144,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 134 | [Divine Smile](https://open.spotify.com/track/6nnoZ1JS7wWrpRcg1DsWas) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Divine Smile](https://open.spotify.com/album/0rmJuboHrB6Tpd7Sb71bad) | 2:04 |
 | 135 | [Poesia](https://open.spotify.com/track/5bhYob3MDA4aVNPxZkUVGi) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Poesia](https://open.spotify.com/album/5cOQkSQH87sWJdATlUvvVs) | 2:20 |
 | 136 | [Am Fuschlsee](https://open.spotify.com/track/3IQxXk7kjHO2YTaf0kDD7K) | [Duo MR](https://open.spotify.com/artist/7hfYp0jhsWfGQImrzTEa3i) | [Am Fuschlsee](https://open.spotify.com/album/1hrGVeNjcMuU0vne38brsd) | 3:50 |
-| 137 | [Doors](https://open.spotify.com/track/0p8hGanIeSRCOcDZ1nayUb) | [Marian Rose](https://open.spotify.com/artist/6zh9U3XKNFN5Drifqx5DtG) | [Doors](https://open.spotify.com/album/25383NCmsUte9zszpeKzr2) | 2:31 |
+| 137 | [Doors](https://open.spotify.com/track/0p8hGanIeSRCOcDZ1nayUb) | [M\. Rose](https://open.spotify.com/artist/6mDntABgyJFtNZ3IkqCJIn) | [Doors](https://open.spotify.com/album/25383NCmsUte9zszpeKzr2) | 2:31 |
 | 138 | [Nebula's Lullaby](https://open.spotify.com/track/3bpXmth8hxymLN2H457E9b) | [Serena Perez](https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR) | [Nebula's Lullaby](https://open.spotify.com/album/6x9a7Hpb4vgKqTblifErDo) | 2:08 |
 | 139 | [Daffodil](https://open.spotify.com/track/4iMdLRlOYmVKieGVPNfawY) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [Daffodil](https://open.spotify.com/album/7iPJO6kKUX6OzSxXxhBgjW) | 2:46 |
 | 140 | [Santorini](https://open.spotify.com/track/0rx4tPhXaiVrpglMzVLVbj) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Santorini](https://open.spotify.com/album/0Ipg8tK3kvzke2pNfPVFSz) | 2:09 |
@@ -154,7 +154,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 144 | [Remaining Link](https://open.spotify.com/track/3THjDQSoQoBoeqT71CdUeG) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Remaining Link](https://open.spotify.com/album/0BEE1YWLyPm6kFnVEL9LN9) | 2:18 |
 | 145 | [Toujours](https://open.spotify.com/track/4KcEPxhVRj82HNQkZz0fTW) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Toujours](https://open.spotify.com/album/676ljNNDqK54CNbN0NOayI) | 3:11 |
 | 146 | [Impressions](https://open.spotify.com/track/5FtBh1Ik9zIzJSoh33fxlM) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Impressions](https://open.spotify.com/album/44WfQys4PLW5lRENyD5U62) | 4:18 |
-| 147 | [Simple Reverie](https://open.spotify.com/track/51cpn2Y6niqb3LnucJXkwH) | [Marian Rose](https://open.spotify.com/artist/6zh9U3XKNFN5Drifqx5DtG) | [Simple Reverie](https://open.spotify.com/album/3BmX4s69077iF5bueVbl7n) | 3:07 |
+| 147 | [Simple Reverie](https://open.spotify.com/track/51cpn2Y6niqb3LnucJXkwH) | [M\. Rose](https://open.spotify.com/artist/6mDntABgyJFtNZ3IkqCJIn) | [Simple Reverie](https://open.spotify.com/album/3BmX4s69077iF5bueVbl7n) | 3:07 |
 | 148 | [Simpatia](https://open.spotify.com/track/4HeyYmT5CJldklMP2ZLeSJ) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Simpatia](https://open.spotify.com/album/3HHbMvYOgKOAcEyLrkJQ17) | 2:46 |
 | 149 | [Comfort Me](https://open.spotify.com/track/3VR78tnaSa1owd7xP9hA2K) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [Comfort Me](https://open.spotify.com/album/1Ub90Zjn7J7amOBicYwUQ2) | 2:12 |
 | 150 | [Passages](https://open.spotify.com/track/409nrkfFWjJSF0JiWne0HY) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Passages](https://open.spotify.com/album/1XU36ZyjSyRQc6UDpqPVfq) | 2:04 |

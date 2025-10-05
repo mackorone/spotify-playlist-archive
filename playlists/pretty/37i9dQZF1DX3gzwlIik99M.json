@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 205015,
+  "num_followers": 205001,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP2OW3hy7Ps67JOGKAv3PD8rQsW5",
+  "snapshot_id": "AAAAAP19LmyVz4MZv6Z0BEglv3wcf6zI",
   "tracks": [
     {
       "added_at": "2025-09-18 22:01:59",
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
-        "name": "Apatrida",
-        "url": "https://open.spotify.com/album/16TSHKfaruA9FCP2K86Vj3"
-      },
-      "artists": [
-        {
-          "name": "Nuclear",
-          "url": "https://open.spotify.com/artist/5ODa95P58TRNxymAD9moqt"
-        }
-      ],
-      "duration_ms": 225312,
-      "name": "Apatrida",
-      "url": "https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf"
-    },
-    {
-      "added_at": "2025-09-18 22:01:59",
-      "album": {
         "name": "No Money No Fiesta",
         "url": "https://open.spotify.com/album/4alBZkNLtgeGiCI4AbUBtq"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 169130,
       "name": "Cantina Del Infierno",
       "url": "https://open.spotify.com/track/0eR2mWPtubdE8Rea23zAc2"
+    },
+    {
+      "added_at": "2025-09-18 22:01:59",
+      "album": {
+        "name": "Apatrida",
+        "url": "https://open.spotify.com/album/16TSHKfaruA9FCP2K86Vj3"
+      },
+      "artists": [
+        {
+          "name": "Nuclear",
+          "url": "https://open.spotify.com/artist/5ODa95P58TRNxymAD9moqt"
+        }
+      ],
+      "duration_ms": 225312,
+      "name": "Apatrida",
+      "url": "https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf"
     },
     {
       "added_at": "2025-09-18 22:01:59",
@@ -807,18 +807,18 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
-        "name": "Earthliens",
-        "url": "https://open.spotify.com/album/5tyMcEgeoKK0USWlBAjg3l"
+        "name": "Deceitful Idols",
+        "url": "https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw"
       },
       "artists": [
         {
-          "name": "Perpetual Warfare",
-          "url": "https://open.spotify.com/artist/3nDZ96c0eP5xULoXG5VKwG"
+          "name": "Anima Tempo",
+          "url": "https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5"
         }
       ],
-      "duration_ms": 250362,
-      "name": "Las Venas Abiertas...",
-      "url": "https://open.spotify.com/track/26e1lqciRLcyXPzYvxOgfy"
+      "duration_ms": 331013,
+      "name": "Deceitful Idols",
+      "url": "https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz"
     }
   ],
   "unique_name": "Metal del Nuestro",

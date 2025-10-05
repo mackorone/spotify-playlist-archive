@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 83886,
+  "num_followers": 83901,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,26 @@
     {
       "added_at": "2025-09-25 09:03:02",
       "album": {
+        "name": "Crazy Mega Cool",
+        "url": "https://open.spotify.com/album/5aQs4NYz6ZGWa5M96hdmp2"
+      },
+      "artists": [
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        },
+        {
+          "name": "Russian Village Boys",
+          "url": "https://open.spotify.com/artist/1AsruX0vcpmL1O82dfWZBD"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Crazy Mega Cool",
+      "url": "https://open.spotify.com/track/251SfwRqsmsDvndBNUI3QQ"
+    },
+    {
+      "added_at": "2025-09-25 09:03:02",
+      "album": {
         "name": "Vier Zomers Lang (Barry Fest Remix)",
         "url": "https://open.spotify.com/album/0wRbxX6azZGqmB8VpIvtxr"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 207063,
       "name": "Vier Zomers Lang - Barry Fest Remix",
       "url": "https://open.spotify.com/track/216Zm7o5aJcu4kdPpiIXTf"
-    },
-    {
-      "added_at": "2025-09-25 09:03:02",
-      "album": {
-        "name": "Crazy Mega Cool",
-        "url": "https://open.spotify.com/album/5aQs4NYz6ZGWa5M96hdmp2"
-      },
-      "artists": [
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        },
-        {
-          "name": "Russian Village Boys",
-          "url": "https://open.spotify.com/artist/1AsruX0vcpmL1O82dfWZBD"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Crazy Mega Cool",
-      "url": "https://open.spotify.com/track/251SfwRqsmsDvndBNUI3QQ"
     },
     {
       "added_at": "2025-09-25 09:03:02",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2025-09-25 09:03:02",
       "album": {
-        "name": "Het Is Een Nacht (Total Loss Remix)",
-        "url": "https://open.spotify.com/album/3xUfmOr4zK9Q5KdoIxC1V3"
-      },
-      "artists": [
-        {
-          "name": "Arjon Oostrom",
-          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
-        },
-        {
-          "name": "Dr Rude",
-          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
-        }
-      ],
-      "duration_ms": 257202,
-      "name": "Het Is Een Nacht - Total Loss Remix",
-      "url": "https://open.spotify.com/track/7F17y60qAsDiOmWj5XZOhQ"
-    },
-    {
-      "added_at": "2025-09-25 09:03:02",
-      "album": {
         "name": "Banger Hart",
         "url": "https://open.spotify.com/album/434UyfPtqMaG61mIuFs34G"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 166487,
       "name": "Banger Hart",
       "url": "https://open.spotify.com/track/4JFOAK7gbUMOKCqxInP83L"
+    },
+    {
+      "added_at": "2025-09-25 09:03:02",
+      "album": {
+        "name": "Het Is Een Nacht (Total Loss Remix)",
+        "url": "https://open.spotify.com/album/3xUfmOr4zK9Q5KdoIxC1V3"
+      },
+      "artists": [
+        {
+          "name": "Arjon Oostrom",
+          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
+        },
+        {
+          "name": "Dr Rude",
+          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
+        }
+      ],
+      "duration_ms": 257202,
+      "name": "Het Is Een Nacht - Total Loss Remix",
+      "url": "https://open.spotify.com/track/7F17y60qAsDiOmWj5XZOhQ"
     },
     {
       "added_at": "2025-09-25 09:03:02",

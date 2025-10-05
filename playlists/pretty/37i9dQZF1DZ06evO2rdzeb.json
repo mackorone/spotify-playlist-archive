@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 17397,
+  "num_followers": 17419,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAADT0G7RIoeB3+PFpwK4RaXs",
+  "snapshot_id": "aN8SAAAAAAAknIVCHcrf2EL47YALNpFJ",
   "tracks": [
     {
       "added_at": null,
@@ -199,18 +199,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "abysskiss",
-        "url": "https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa"
+        "name": "a-sides",
+        "url": "https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1"
       },
       "artists": [
         {
           "name": "Adrianne Lenker",
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        },
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 183040,
-      "name": "abyss kiss",
-      "url": "https://open.spotify.com/track/0aI9eihvBSQRjMjtHQQ6nb"
+      "duration_ms": 171453,
+      "name": "Kerina",
+      "url": "https://open.spotify.com/track/57qpL2xmsydc04uBmiH2DC"
     },
     {
       "added_at": null,
@@ -247,22 +251,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "a-sides",
-        "url": "https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1"
+        "name": "abysskiss",
+        "url": "https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa"
       },
       "artists": [
         {
           "name": "Adrianne Lenker",
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        },
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 171453,
-      "name": "Kerina",
-      "url": "https://open.spotify.com/track/57qpL2xmsydc04uBmiH2DC"
+      "duration_ms": 183040,
+      "name": "abyss kiss",
+      "url": "https://open.spotify.com/track/0aI9eihvBSQRjMjtHQQ6nb"
     },
     {
       "added_at": null,

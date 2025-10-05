@@ -1,6 +1,6 @@
 {
   "description": "your soundtrack to your exam studies. for max productiveness. u got this!",
-  "num_followers": 108255,
+  "num_followers": 108265,
   "original_name": "exams 2025",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2025-09-25 12:15:15",
       "album": {
+        "name": "Old Friends",
+        "url": "https://open.spotify.com/album/7MgEFOHLuO16karUWsZ19V"
+      },
+      "artists": [
+        {
+          "name": "Oroshi",
+          "url": "https://open.spotify.com/artist/3gqs8fHrmLkMfjT5BI1bNh"
+        }
+      ],
+      "duration_ms": 153362,
+      "name": "Old Friends",
+      "url": "https://open.spotify.com/track/4ipco4orDngfmTXSaiBm4x"
+    },
+    {
+      "added_at": "2025-09-25 12:15:15",
+      "album": {
         "name": "Incredibly happy",
         "url": "https://open.spotify.com/album/4aE1MMVBFm1WESG0pRYHJs"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 128225,
       "name": "Flower Kingdom",
       "url": "https://open.spotify.com/track/1s8hwjA2u5dOpU0SEoxDxz"
-    },
-    {
-      "added_at": "2025-09-25 12:15:15",
-      "album": {
-        "name": "Old Friends",
-        "url": "https://open.spotify.com/album/7MgEFOHLuO16karUWsZ19V"
-      },
-      "artists": [
-        {
-          "name": "Oroshi",
-          "url": "https://open.spotify.com/artist/3gqs8fHrmLkMfjT5BI1bNh"
-        }
-      ],
-      "duration_ms": 153362,
-      "name": "Old Friends",
-      "url": "https://open.spotify.com/track/4ipco4orDngfmTXSaiBm4x"
     },
     {
       "added_at": "2025-09-25 12:15:15",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-09-25 12:15:15",
       "album": {
+        "name": "Beauty",
+        "url": "https://open.spotify.com/album/5H5LBXcN86oigxMAyVZAKE"
+      },
+      "artists": [
+        {
+          "name": "W8lss",
+          "url": "https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7"
+        }
+      ],
+      "duration_ms": 111767,
+      "name": "Beauty",
+      "url": "https://open.spotify.com/track/5qVYvn1qfR6oIsV2O3WgxN"
+    },
+    {
+      "added_at": "2025-09-25 12:15:15",
+      "album": {
         "name": "Melt",
         "url": "https://open.spotify.com/album/3DIVjgLOSD8HeuNaIIEJzS"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 120429,
       "name": "Forgotten Dreams",
       "url": "https://open.spotify.com/track/1YjAqVamDxZouwyHBfsap3"
-    },
-    {
-      "added_at": "2025-09-25 12:15:15",
-      "album": {
-        "name": "Beauty",
-        "url": "https://open.spotify.com/album/5H5LBXcN86oigxMAyVZAKE"
-      },
-      "artists": [
-        {
-          "name": "W8lss",
-          "url": "https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7"
-        }
-      ],
-      "duration_ms": 111767,
-      "name": "Beauty",
-      "url": "https://open.spotify.com/track/5qVYvn1qfR6oIsV2O3WgxN"
     },
     {
       "added_at": "2025-09-25 12:15:15",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-09-25 12:15:15",
       "album": {
-        "name": "spacewalk",
-        "url": "https://open.spotify.com/album/6EudaZOIQN6nXEodWRhcuX"
-      },
-      "artists": [
-        {
-          "name": "okayokay",
-          "url": "https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "spacewalk",
-      "url": "https://open.spotify.com/track/0aCCGFwEjFpwbBogpzra6b"
-    },
-    {
-      "added_at": "2025-09-25 12:15:15",
-      "album": {
         "name": "roadtrip",
         "url": "https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 139714,
       "name": "roadtrip",
       "url": "https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk"
+    },
+    {
+      "added_at": "2025-09-25 12:15:15",
+      "album": {
+        "name": "spacewalk",
+        "url": "https://open.spotify.com/album/6EudaZOIQN6nXEodWRhcuX"
+      },
+      "artists": [
+        {
+          "name": "okayokay",
+          "url": "https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "spacewalk",
+      "url": "https://open.spotify.com/track/0aCCGFwEjFpwbBogpzra6b"
     },
     {
       "added_at": "2025-09-25 12:15:15",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-09-25 12:15:15",
       "album": {
-        "name": "Stones",
-        "url": "https://open.spotify.com/album/5PUftgP7uBfDuHrkzer3vV"
-      },
-      "artists": [
-        {
-          "name": "W8lss",
-          "url": "https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7"
-        }
-      ],
-      "duration_ms": 137228,
-      "name": "Stones",
-      "url": "https://open.spotify.com/track/1EDesWUrHjghCMZb0jjbS3"
-    },
-    {
-      "added_at": "2025-09-25 12:15:15",
-      "album": {
         "name": "warm & orange",
         "url": "https://open.spotify.com/album/4jvL1JGNrNs90TPPvE6iXW"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 186000,
       "name": "warm & orange",
       "url": "https://open.spotify.com/track/6wXSZsRZ1vxooWZ4W9yWHG"
+    },
+    {
+      "added_at": "2025-09-25 12:15:15",
+      "album": {
+        "name": "Stones",
+        "url": "https://open.spotify.com/album/5PUftgP7uBfDuHrkzer3vV"
+      },
+      "artists": [
+        {
+          "name": "W8lss",
+          "url": "https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7"
+        }
+      ],
+      "duration_ms": 137228,
+      "name": "Stones",
+      "url": "https://open.spotify.com/track/1EDesWUrHjghCMZb0jjbS3"
     },
     {
       "added_at": "2025-09-25 12:15:15",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-09-25 12:15:15",
       "album": {
-        "name": "Sparks Down",
-        "url": "https://open.spotify.com/album/5ADGHmXhf1EWZZvmjxnC0h"
-      },
-      "artists": [
-        {
-          "name": "KiddoCalvin",
-          "url": "https://open.spotify.com/artist/08tB77WyTGC9pZ5Pm7Ymu6"
-        }
-      ],
-      "duration_ms": 138915,
-      "name": "Sparks Down",
-      "url": "https://open.spotify.com/track/4HfrXnXrj1fyTnNRdTMLqy"
-    },
-    {
-      "added_at": "2025-09-25 12:15:15",
-      "album": {
         "name": "Newfoundland",
         "url": "https://open.spotify.com/album/2Qc4mA0oXvPM20LnxiYAwH"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 169411,
       "name": "Newfoundland",
       "url": "https://open.spotify.com/track/0LfVn0YGjq376wVwJo4THd"
+    },
+    {
+      "added_at": "2025-09-25 12:15:15",
+      "album": {
+        "name": "Sparks Down",
+        "url": "https://open.spotify.com/album/5ADGHmXhf1EWZZvmjxnC0h"
+      },
+      "artists": [
+        {
+          "name": "KiddoCalvin",
+          "url": "https://open.spotify.com/artist/08tB77WyTGC9pZ5Pm7Ymu6"
+        }
+      ],
+      "duration_ms": 138915,
+      "name": "Sparks Down",
+      "url": "https://open.spotify.com/track/4HfrXnXrj1fyTnNRdTMLqy"
     },
     {
       "added_at": "2025-09-25 12:15:15",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-09-25 12:15:15",
       "album": {
-        "name": "Pineapple Buddies",
-        "url": "https://open.spotify.com/album/57JWCjra4VebstviuIJ6Ne"
-      },
-      "artists": [
-        {
-          "name": "Breakfast For Brunch",
-          "url": "https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O"
-        }
-      ],
-      "duration_ms": 118500,
-      "name": "Pineapple Buddies",
-      "url": "https://open.spotify.com/track/0mj2sBzTr6l1klNonBbLyG"
-    },
-    {
-      "added_at": "2025-09-25 12:15:15",
-      "album": {
         "name": "Behind the stars",
         "url": "https://open.spotify.com/album/1vfOBiWpg9jEabvNeQaxp9"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 142758,
       "name": "Behind the stars",
       "url": "https://open.spotify.com/track/2Qu8fz0Ae2tNvBefZoZIJF"
+    },
+    {
+      "added_at": "2025-09-25 12:15:15",
+      "album": {
+        "name": "Pineapple Buddies",
+        "url": "https://open.spotify.com/album/57JWCjra4VebstviuIJ6Ne"
+      },
+      "artists": [
+        {
+          "name": "Breakfast For Brunch",
+          "url": "https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O"
+        }
+      ],
+      "duration_ms": 118500,
+      "name": "Pineapple Buddies",
+      "url": "https://open.spotify.com/track/0mj2sBzTr6l1klNonBbLyG"
     },
     {
       "added_at": "2025-09-25 12:15:15",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2025-09-25 12:15:15",
       "album": {
+        "name": "clouded",
+        "url": "https://open.spotify.com/album/7mIPhNXOSRMWkqCwVPpuuE"
+      },
+      "artists": [
+        {
+          "name": "ffoorreesstt",
+          "url": "https://open.spotify.com/artist/7kR8pcIkkacGIHGiw8kNej"
+        }
+      ],
+      "duration_ms": 157935,
+      "name": "clouded",
+      "url": "https://open.spotify.com/track/02yaLWrbBD6rjztw6b0cLL"
+    },
+    {
+      "added_at": "2025-09-25 12:15:15",
+      "album": {
         "name": "tortoise shell",
         "url": "https://open.spotify.com/album/41XrU1gKLnA9lRP3ST3MOK"
       },
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2025-09-25 12:15:15",
       "album": {
-        "name": "Kyoto Nights",
-        "url": "https://open.spotify.com/album/2f0vY3mmnDAXTfqP9UzMi7"
-      },
-      "artists": [
-        {
-          "name": "Nitta' Gritta'",
-          "url": "https://open.spotify.com/artist/55psXqpj00WvVubriLCEet"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Kyoto Nights",
-      "url": "https://open.spotify.com/track/7kCclmsH5N16EG7eSTmkh4"
-    },
-    {
-      "added_at": "2025-09-25 12:15:15",
-      "album": {
         "name": "Lax",
         "url": "https://open.spotify.com/album/1843ngbpbg1YhvSO6sAA4l"
       },
@@ -1079,6 +1079,22 @@
       "duration_ms": 142285,
       "name": "Lax",
       "url": "https://open.spotify.com/track/4I4tqUKsQ2mC89NoB8RLDC"
+    },
+    {
+      "added_at": "2025-09-25 12:15:15",
+      "album": {
+        "name": "Kyoto Nights",
+        "url": "https://open.spotify.com/album/2f0vY3mmnDAXTfqP9UzMi7"
+      },
+      "artists": [
+        {
+          "name": "Nitta' Gritta'",
+          "url": "https://open.spotify.com/artist/55psXqpj00WvVubriLCEet"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Kyoto Nights",
+      "url": "https://open.spotify.com/track/7kCclmsH5N16EG7eSTmkh4"
     },
     {
       "added_at": "2025-09-25 12:15:15",
@@ -1131,22 +1147,6 @@
       "duration_ms": 149815,
       "name": "With your eyes!",
       "url": "https://open.spotify.com/track/1USmYJcOKa94oA58sRnOXJ"
-    },
-    {
-      "added_at": "2025-09-25 12:15:15",
-      "album": {
-        "name": "clouded",
-        "url": "https://open.spotify.com/album/7mIPhNXOSRMWkqCwVPpuuE"
-      },
-      "artists": [
-        {
-          "name": "ffoorreesstt",
-          "url": "https://open.spotify.com/artist/7kR8pcIkkacGIHGiw8kNej"
-        }
-      ],
-      "duration_ms": 157935,
-      "name": "clouded",
-      "url": "https://open.spotify.com/track/02yaLWrbBD6rjztw6b0cLL"
     },
     {
       "added_at": "2025-09-25 12:15:15",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-09-25 12:15:15",
       "album": {
-        "name": "Surp",
-        "url": "https://open.spotify.com/album/4tdzH69lzNwW84ZArVHH83"
-      },
-      "artists": [
-        {
-          "name": "Wavy Naps",
-          "url": "https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX"
-        }
-      ],
-      "duration_ms": 154074,
-      "name": "Surp",
-      "url": "https://open.spotify.com/track/2pO441R3SvR2O1G1Q4pGe0"
-    },
-    {
-      "added_at": "2025-09-25 12:15:15",
-      "album": {
         "name": "Blue Horizon",
         "url": "https://open.spotify.com/album/5zlNXnQTjDxiLeuS0fELY8"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 123333,
       "name": "Blue Horizon",
       "url": "https://open.spotify.com/track/0OA8PeZ8hLpAIku5Gg1C3U"
+    },
+    {
+      "added_at": "2025-09-25 12:15:15",
+      "album": {
+        "name": "Surp",
+        "url": "https://open.spotify.com/album/4tdzH69lzNwW84ZArVHH83"
+      },
+      "artists": [
+        {
+          "name": "Wavy Naps",
+          "url": "https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX"
+        }
+      ],
+      "duration_ms": 154074,
+      "name": "Surp",
+      "url": "https://open.spotify.com/track/2pO441R3SvR2O1G1Q4pGe0"
     },
     {
       "added_at": "2025-09-25 12:15:15",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-09-25 12:15:15",
       "album": {
-        "name": "Sunny Walk",
-        "url": "https://open.spotify.com/album/6JvavHc9LVWO0fksFQviHS"
-      },
-      "artists": [
-        {
-          "name": "pipetiger",
-          "url": "https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL"
-        }
-      ],
-      "duration_ms": 106830,
-      "name": "Sunny Walk",
-      "url": "https://open.spotify.com/track/7EccAFIyTAXrxfvrkZdDNU"
-    },
-    {
-      "added_at": "2025-09-25 12:15:15",
-      "album": {
         "name": "Drives",
         "url": "https://open.spotify.com/album/5Yq3BR4a0Ip2NkJ4lXEVHa"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 192062,
       "name": "Drives",
       "url": "https://open.spotify.com/track/07uRU9EczqsAqDdTcNCqwv"
+    },
+    {
+      "added_at": "2025-09-25 12:15:15",
+      "album": {
+        "name": "Sunny Walk",
+        "url": "https://open.spotify.com/album/6JvavHc9LVWO0fksFQviHS"
+      },
+      "artists": [
+        {
+          "name": "pipetiger",
+          "url": "https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL"
+        }
+      ],
+      "duration_ms": 106830,
+      "name": "Sunny Walk",
+      "url": "https://open.spotify.com/track/7EccAFIyTAXrxfvrkZdDNU"
     },
     {
       "added_at": "2025-09-25 12:15:15",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2025-09-25 12:15:15",
       "album": {
-        "name": "Oonga Boonga",
-        "url": "https://open.spotify.com/album/4cxVtYbW26RwdkQc8H00Pk"
-      },
-      "artists": [
-        {
-          "name": "cakofonik",
-          "url": "https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor"
-        }
-      ],
-      "duration_ms": 125853,
-      "name": "Oonga Boonga",
-      "url": "https://open.spotify.com/track/26QyP0HrEPW0EAggeRovc5"
-    },
-    {
-      "added_at": "2025-09-25 12:15:15",
-      "album": {
         "name": "Childhood",
         "url": "https://open.spotify.com/album/5pJdmQhsZdqUNMPs2uzTxh"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 115999,
       "name": "Crimson Red",
       "url": "https://open.spotify.com/track/6CgcuC8yOCXVzJZVuhRlSx"
+    },
+    {
+      "added_at": "2025-09-25 12:15:15",
+      "album": {
+        "name": "Oonga Boonga",
+        "url": "https://open.spotify.com/album/4cxVtYbW26RwdkQc8H00Pk"
+      },
+      "artists": [
+        {
+          "name": "cakofonik",
+          "url": "https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor"
+        }
+      ],
+      "duration_ms": 125853,
+      "name": "Oonga Boonga",
+      "url": "https://open.spotify.com/track/26QyP0HrEPW0EAggeRovc5"
     },
     {
       "added_at": "2025-09-25 12:15:15",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2025-09-25 12:15:15",
       "album": {
-        "name": "Humble Thoughts",
-        "url": "https://open.spotify.com/album/1rWA1dux14RbyTupsbWiUa"
-      },
-      "artists": [
-        {
-          "name": "Somebody's Son",
-          "url": "https://open.spotify.com/artist/3vmZybcmAnD5q3J5h6K8Ny"
-        }
-      ],
-      "duration_ms": 89250,
-      "name": "Humble Thoughts",
-      "url": "https://open.spotify.com/track/38QAKMfUQMUVOkVsDJ1tlh"
-    },
-    {
-      "added_at": "2025-09-25 12:15:15",
-      "album": {
         "name": "Cherry Blossom",
         "url": "https://open.spotify.com/album/7n1QYNXh7TbEQLtYrrUWwF"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 120000,
       "name": "Cherry Blossom",
       "url": "https://open.spotify.com/track/6RO1NFtqXr2FgbrUJCkame"
+    },
+    {
+      "added_at": "2025-09-25 12:15:15",
+      "album": {
+        "name": "Humble Thoughts",
+        "url": "https://open.spotify.com/album/1rWA1dux14RbyTupsbWiUa"
+      },
+      "artists": [
+        {
+          "name": "Somebody's Son",
+          "url": "https://open.spotify.com/artist/3vmZybcmAnD5q3J5h6K8Ny"
+        }
+      ],
+      "duration_ms": 89250,
+      "name": "Humble Thoughts",
+      "url": "https://open.spotify.com/track/38QAKMfUQMUVOkVsDJ1tlh"
     },
     {
       "added_at": "2025-09-25 12:15:15",
@@ -2035,6 +2035,22 @@
     {
       "added_at": "2025-09-25 12:15:15",
       "album": {
+        "name": "Plant Haze",
+        "url": "https://open.spotify.com/album/5nKTjrxGyD9AR9wMehx4iA"
+      },
+      "artists": [
+        {
+          "name": "WFPB",
+          "url": "https://open.spotify.com/artist/4rMRjyAjkIJB4a6voVAtAM"
+        }
+      ],
+      "duration_ms": 121326,
+      "name": "Plant Haze",
+      "url": "https://open.spotify.com/track/7q0NPAbq3rDORmYjfR0VYu"
+    },
+    {
+      "added_at": "2025-09-25 12:15:15",
+      "album": {
         "name": "Miss Blue",
         "url": "https://open.spotify.com/album/1edQQwUOQyYfD5wtP42Up7"
       },
@@ -2063,22 +2079,6 @@
       "duration_ms": 164819,
       "name": "One Flame",
       "url": "https://open.spotify.com/track/4Ff9CW1dMdIqupiUG3yn3q"
-    },
-    {
-      "added_at": "2025-09-25 12:15:15",
-      "album": {
-        "name": "Plant Haze",
-        "url": "https://open.spotify.com/album/5nKTjrxGyD9AR9wMehx4iA"
-      },
-      "artists": [
-        {
-          "name": "WFPB",
-          "url": "https://open.spotify.com/artist/4rMRjyAjkIJB4a6voVAtAM"
-        }
-      ],
-      "duration_ms": 121326,
-      "name": "Plant Haze",
-      "url": "https://open.spotify.com/track/7q0NPAbq3rDORmYjfR0VYu"
     },
     {
       "added_at": "2025-09-25 12:15:15",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2025-09-25 12:15:15",
       "album": {
-        "name": "Tear Me Apart",
-        "url": "https://open.spotify.com/album/6ZWBm80CbzWyskZV5MbECr"
-      },
-      "artists": [
-        {
-          "name": "H\u00d6NS",
-          "url": "https://open.spotify.com/artist/7xJqZn92FHmrPc6tdWfDfu"
-        }
-      ],
-      "duration_ms": 121578,
-      "name": "Tear Me Apart",
-      "url": "https://open.spotify.com/track/3SulLcEmLS7c45KMeFpnpZ"
-    },
-    {
-      "added_at": "2025-09-25 12:15:15",
-      "album": {
         "name": "for you",
         "url": "https://open.spotify.com/album/2Ee66lYmpcXnbSW5cZbJxw"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 108000,
       "name": "for you",
       "url": "https://open.spotify.com/track/7EUp5t0R3xhWNRaOiIleFV"
+    },
+    {
+      "added_at": "2025-09-25 12:15:15",
+      "album": {
+        "name": "Tear Me Apart",
+        "url": "https://open.spotify.com/album/6ZWBm80CbzWyskZV5MbECr"
+      },
+      "artists": [
+        {
+          "name": "H\u00d6NS",
+          "url": "https://open.spotify.com/artist/7xJqZn92FHmrPc6tdWfDfu"
+        }
+      ],
+      "duration_ms": 121578,
+      "name": "Tear Me Apart",
+      "url": "https://open.spotify.com/track/3SulLcEmLS7c45KMeFpnpZ"
     },
     {
       "added_at": "2025-09-25 12:15:15",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2025-09-25 12:15:15",
       "album": {
-        "name": "Loafing About",
-        "url": "https://open.spotify.com/album/4TxogjaWGWQcKjghyLEUJi"
-      },
-      "artists": [
-        {
-          "name": "< b a r u b e a t >",
-          "url": "https://open.spotify.com/artist/7HCQbPZSE554rp75XWBWGL"
-        }
-      ],
-      "duration_ms": 168250,
-      "name": "Loafing About",
-      "url": "https://open.spotify.com/track/0v7hjhp5gLUl2Z6owHK8ao"
-    },
-    {
-      "added_at": "2025-09-25 12:15:15",
-      "album": {
         "name": "beneath your feet / balcony falls",
         "url": "https://open.spotify.com/album/6kMAkZyLnbPHnxvtOY7kG0"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 123333,
       "name": "beneath your feet",
       "url": "https://open.spotify.com/track/2liw1mIxDdw1d0D6tkFsXG"
+    },
+    {
+      "added_at": "2025-09-25 12:15:15",
+      "album": {
+        "name": "Loafing About",
+        "url": "https://open.spotify.com/album/4TxogjaWGWQcKjghyLEUJi"
+      },
+      "artists": [
+        {
+          "name": "< b a r u b e a t >",
+          "url": "https://open.spotify.com/artist/7HCQbPZSE554rp75XWBWGL"
+        }
+      ],
+      "duration_ms": 168250,
+      "name": "Loafing About",
+      "url": "https://open.spotify.com/track/0v7hjhp5gLUl2Z6owHK8ao"
     },
     {
       "added_at": "2025-09-25 12:15:15",

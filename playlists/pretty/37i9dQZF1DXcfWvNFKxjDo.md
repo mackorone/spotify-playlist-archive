@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Sofiya Nzau, Madism
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,799 likes - 99 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,811 likes - 99 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 51 | [Something](https://open.spotify.com/track/1N6QdwureADyiztMBIsOC7) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [ANY](https://open.spotify.com/artist/6Kj8Zi8kj1aPKyHX9w8C3L) | [Something](https://open.spotify.com/album/1GnXR6i4XRjevBJK45JykM) | 3:27 |
 | 52 | [Lose My Mind](https://open.spotify.com/track/1LdRvKZka9ZHunz6eoH5B9) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Lose My Mind](https://open.spotify.com/album/1dkMg6enDSv6bjEBBqnt8c) | 3:19 |
 | 53 | [Save Me](https://open.spotify.com/track/1GaDH1dJfouYubhkaS2gy5) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Save Me](https://open.spotify.com/album/4Bq9sY0d1IogWKXnR9JUte) | 3:32 |
-| 54 | [Miss Icónica](https://open.spotify.com/track/15LkNJpMMSJJ5ZfdLMYpXO) | [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C), [Sita](https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF) | [Miss Icónica](https://open.spotify.com/album/5K6T3tctUsQqgzJ4ifHERN) | 2:57 |
+| 54 | [Miss Icónica](https://open.spotify.com/track/15LkNJpMMSJJ5ZfdLMYpXO) | [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C), [SITA](https://open.spotify.com/artist/4Pi6eaHXMqift5xrs1vPMI) | [Miss Icónica](https://open.spotify.com/album/5K6T3tctUsQqgzJ4ifHERN) | 2:57 |
 | 55 | [Read All About It](https://open.spotify.com/track/3IYHstS1dhT5sxNtei4wcd) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [Read All About It](https://open.spotify.com/album/6FZ0xheiheEPSIjks3v3bF) | 2:09 |
 | 56 | [Bring Me Up \(1,2,3,4\)](https://open.spotify.com/track/2yfks81dKKIV8cvU4ypGq9) | [Lahos](https://open.spotify.com/artist/4Pamica4HJLZPQTKTCkG2w) | [Bring Me Up \(1,2,3,4\)](https://open.spotify.com/album/11Wsam71XnUJhRdkGh4fhr) | 3:26 |
 | 57 | [Tanzen](https://open.spotify.com/track/4LzQqSAuCzMWNT58Ss192b) | [Paraçek](https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1), [sarah4k](https://open.spotify.com/artist/5FeCVlYDA8WCyvh3KIY8NN) | [Tanzen](https://open.spotify.com/album/24MnUE3hGSGzCIHjJ9qsNa) | 2:55 |

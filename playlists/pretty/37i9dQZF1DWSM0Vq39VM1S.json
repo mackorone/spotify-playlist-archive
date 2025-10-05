@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388120,
+  "num_followers": 388109,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2025-10-02 22:00:47",
       "album": {
+        "name": "Disarray",
+        "url": "https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 310853,
+      "name": "Disarray",
+      "url": "https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA"
+    },
+    {
+      "added_at": "2025-10-02 22:00:47",
+      "album": {
         "name": "The Rest Of Me",
         "url": "https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh"
       },
@@ -391,6 +407,22 @@
       "duration_ms": 230661,
       "name": "The Rest Of Me",
       "url": "https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq"
+    },
+    {
+      "added_at": "2025-10-02 22:00:47",
+      "album": {
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 376520,
+      "name": "It's Not Just Me, It's Everybody",
+      "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
     },
     {
       "added_at": "2025-10-02 22:00:47",
@@ -415,18 +447,18 @@
     {
       "added_at": "2025-10-02 22:00:47",
       "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+        "name": "Wally",
+        "url": "https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI"
       },
       "artists": [
         {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
         }
       ],
-      "duration_ms": 376520,
-      "name": "It's Not Just Me, It's Everybody",
-      "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
+      "duration_ms": 128332,
+      "name": "Wally",
+      "url": "https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9"
     },
     {
       "added_at": "2025-10-02 22:00:47",
@@ -443,22 +475,6 @@
       "duration_ms": 189905,
       "name": "Pale Blue Eyes",
       "url": "https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE"
-    },
-    {
-      "added_at": "2025-10-02 22:00:47",
-      "album": {
-        "name": "Wally",
-        "url": "https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 128332,
-      "name": "Wally",
-      "url": "https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9"
     },
     {
       "added_at": "2025-10-02 22:00:47",
@@ -495,6 +511,22 @@
     {
       "added_at": "2025-10-02 22:00:47",
       "album": {
+        "name": "Rent California",
+        "url": "https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 243595,
+      "name": "Rent California",
+      "url": "https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8"
+    },
+    {
+      "added_at": "2025-10-02 22:00:47",
+      "album": {
         "name": "22:22",
         "url": "https://open.spotify.com/album/6753teQnmjiQTbYlJMajYo"
       },
@@ -515,22 +547,6 @@
       "duration_ms": 269413,
       "name": "22:23",
       "url": "https://open.spotify.com/track/0TjAjZ6Hp7smLH8qUBlNuR"
-    },
-    {
-      "added_at": "2025-10-02 22:00:47",
-      "album": {
-        "name": "Rent California",
-        "url": "https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 243595,
-      "name": "Rent California",
-      "url": "https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8"
     },
     {
       "added_at": "2025-10-02 22:00:47",
@@ -587,6 +603,22 @@
     {
       "added_at": "2025-10-02 22:00:47",
       "album": {
+        "name": "Sit Back Baby",
+        "url": "https://open.spotify.com/album/049xHwMikU5vc99m0Xo5Z1"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 234723,
+      "name": "Sit Back Baby",
+      "url": "https://open.spotify.com/track/3uJHRqJcli8SMnZx1M2KXD"
+    },
+    {
+      "added_at": "2025-10-02 22:00:47",
+      "album": {
         "name": "Lisbon",
         "url": "https://open.spotify.com/album/61aSnHkcMWrnFRHMzOzk9i"
       },
@@ -615,22 +647,6 @@
       "duration_ms": 324130,
       "name": "Mornin Dew",
       "url": "https://open.spotify.com/track/6bxtai04eVsvV7IZGqOXMy"
-    },
-    {
-      "added_at": "2025-10-02 22:00:47",
-      "album": {
-        "name": "Sit Back Baby",
-        "url": "https://open.spotify.com/album/049xHwMikU5vc99m0Xo5Z1"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 234723,
-      "name": "Sit Back Baby",
-      "url": "https://open.spotify.com/track/3uJHRqJcli8SMnZx1M2KXD"
     },
     {
       "added_at": "2025-10-02 22:00:47",
@@ -667,18 +683,18 @@
     {
       "added_at": "2025-10-02 22:00:47",
       "album": {
-        "name": "Brown Eyes",
-        "url": "https://open.spotify.com/album/42hKD3BSIxJEHJAsD6RwsE"
+        "name": "Back on the Road",
+        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
       },
       "artists": [
         {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
         }
       ],
-      "duration_ms": 197136,
-      "name": "Brown Eyes",
-      "url": "https://open.spotify.com/track/0E3JebQh1CbRvY9zPc668m"
+      "duration_ms": 144901,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
     },
     {
       "added_at": "2025-10-02 22:00:47",
@@ -695,22 +711,6 @@
       "duration_ms": 185640,
       "name": "Hoagy's Place",
       "url": "https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv"
-    },
-    {
-      "added_at": "2025-10-02 22:00:47",
-      "album": {
-        "name": "Back on the Road",
-        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 144901,
-      "name": "Back on the Road",
-      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
     },
     {
       "added_at": "2025-10-02 22:00:47",
@@ -743,6 +743,22 @@
       "duration_ms": 185344,
       "name": "My Whole Life",
       "url": "https://open.spotify.com/track/34GAk6onUPTSyOsISSQY3L"
+    },
+    {
+      "added_at": "2025-10-02 22:00:47",
+      "album": {
+        "name": "Brown Eyes",
+        "url": "https://open.spotify.com/album/42hKD3BSIxJEHJAsD6RwsE"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "duration_ms": 197136,
+      "name": "Brown Eyes",
+      "url": "https://open.spotify.com/track/0E3JebQh1CbRvY9zPc668m"
     },
     {
       "added_at": "2025-10-02 22:00:47",
@@ -795,22 +811,6 @@
     {
       "added_at": "2025-10-02 22:00:47",
       "album": {
-        "name": "Riverside",
-        "url": "https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 283066,
-      "name": "Riverside",
-      "url": "https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU"
-    },
-    {
-      "added_at": "2025-10-02 22:00:47",
-      "album": {
         "name": "Make It Work",
         "url": "https://open.spotify.com/album/4VC97qyEvXilPylVXxhcCB"
       },
@@ -827,6 +827,22 @@
       "duration_ms": 255877,
       "name": "Make It Work",
       "url": "https://open.spotify.com/track/7AgPGHkeXpj8yETLvBn3Kb"
+    },
+    {
+      "added_at": "2025-10-02 22:00:47",
+      "album": {
+        "name": "Riverside",
+        "url": "https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "duration_ms": 283066,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU"
     },
     {
       "added_at": "2025-10-02 22:00:47",
@@ -867,6 +883,22 @@
     {
       "added_at": "2025-10-02 22:00:47",
       "album": {
+        "name": "Flower of the soul (full bloom)",
+        "url": "https://open.spotify.com/album/0o2x4f45z6FIxPTC1ZkDcE"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "duration_ms": 143268,
+      "name": "Borrow mine",
+      "url": "https://open.spotify.com/track/3IB7RouchQngKLsY3ZWSS5"
+    },
+    {
+      "added_at": "2025-10-02 22:00:47",
+      "album": {
         "name": "The Eyes Of C\u00e9cilia",
         "url": "https://open.spotify.com/album/0jNSfn0ePvYRkY3AofwJSt"
       },
@@ -883,18 +915,18 @@
     {
       "added_at": "2025-10-02 22:00:47",
       "album": {
-        "name": "Flower of the soul (full bloom)",
-        "url": "https://open.spotify.com/album/0o2x4f45z6FIxPTC1ZkDcE"
+        "name": "Archwood (the playlist)",
+        "url": "https://open.spotify.com/album/3wvpoyNZog5TJ2RxK4euJz"
       },
       "artists": [
         {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
         }
       ],
-      "duration_ms": 143268,
-      "name": "Borrow mine",
-      "url": "https://open.spotify.com/track/3IB7RouchQngKLsY3ZWSS5"
+      "duration_ms": 149546,
+      "name": "Wonderful World",
+      "url": "https://open.spotify.com/track/6nu3IwpAso6DJT3bXDwEiW"
     },
     {
       "added_at": "2025-10-02 22:00:47",
@@ -931,38 +963,6 @@
     {
       "added_at": "2025-10-02 22:00:47",
       "album": {
-        "name": "Archwood (the playlist)",
-        "url": "https://open.spotify.com/album/3wvpoyNZog5TJ2RxK4euJz"
-      },
-      "artists": [
-        {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
-        }
-      ],
-      "duration_ms": 149546,
-      "name": "Wonderful World",
-      "url": "https://open.spotify.com/track/6nu3IwpAso6DJT3bXDwEiW"
-    },
-    {
-      "added_at": "2025-10-02 22:00:47",
-      "album": {
-        "name": "Disarray",
-        "url": "https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 310853,
-      "name": "Disarray",
-      "url": "https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA"
-    },
-    {
-      "added_at": "2025-10-02 22:00:47",
-      "album": {
         "name": "Joy Will Find Its Way",
         "url": "https://open.spotify.com/album/1mkFngvOZTjjUkDBhtqFAc"
       },
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-10-02 22:00:47",
       "album": {
-        "name": "L.A.B VI",
-        "url": "https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 254920,
-      "name": "Give Me That Feeling",
-      "url": "https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ"
-    },
-    {
-      "added_at": "2025-10-02 22:00:47",
-      "album": {
         "name": "V I N C E N T",
         "url": "https://open.spotify.com/album/0trDWegHEv7XseWBMfZapf"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 236346,
       "name": "Us",
       "url": "https://open.spotify.com/track/7FW2ySkiy0xaE9GdZAFOxy"
+    },
+    {
+      "added_at": "2025-10-02 22:00:47",
+      "album": {
+        "name": "L.A.B VI",
+        "url": "https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 254920,
+      "name": "Give Me That Feeling",
+      "url": "https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ"
     }
   ],
   "unique_name": "R\u00e9veil en douceur",

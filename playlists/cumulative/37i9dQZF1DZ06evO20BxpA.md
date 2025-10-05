@@ -4,7 +4,7 @@
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-150 songs - 6 hr 48 min
+151 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Family Invasion](https://open.spotify.com/track/4JzWKzahqQ0NSgRajrby9H) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 2:46 | 2023-09-21 | 2025-01-14 |
 | [Finding the Lost Population](https://open.spotify.com/track/1sOhyJhdaqy7J9fIfmsmJz) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Blue Whales \- Return of the Giants \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq) | 2:48 | 2023-08-04 | 2024-09-22 |
 | [First Of Many](https://open.spotify.com/track/2H36aVWSrzu2Zp8TJ63NpX) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 1:24 | 2024-11-23 |  |
-| [Flook](https://open.spotify.com/track/71I9kSO11dSWteAgNKuqTB) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Dolphin Reef \(Original Soundtrack\)](https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN) | 3:32 | 2024-09-03 |  |
+| [Flook](https://open.spotify.com/track/71I9kSO11dSWteAgNKuqTB) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Dolphin Reef \(Original Soundtrack\)](https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN) | 3:32 | 2024-09-03 | 2025-10-05 |
 | [For Millions of Years](https://open.spotify.com/track/4xpvd0eIYKM3SqPDK7pc7r) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 1:46 | 2025-05-15 |  |
 | [Foundations](https://open.spotify.com/track/3OkttASbIVtH1A5SAXqgPe) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 2:32 | 2025-05-13 |  |
 | [Frailty in Love](https://open.spotify.com/track/4nI39GnQb5otTxYYn1Np5W) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 2:47 | 2024-10-23 | 2025-04-14 |
@@ -74,6 +74,7 @@
 | [Jungles](https://open.spotify.com/track/1NaKI3qpnedSMNEMGRFggD) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Jungles \(Episode 3 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/6mo0cOVfG6KHW1KgGmT2es) | 1:36 | 2023-08-04 | 2023-09-13 |
 | [Just Part of Their Story](https://open.spotify.com/track/1FXs7ZUpTVrHR48UfSdDTp) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ocean with David Attenborough \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l) | 3:24 | 2025-05-14 | 2025-06-07 |
 | [Katrina](https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [American Assassin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d) | 4:33 | 2023-08-09 |  |
+| [Keep Talking](https://open.spotify.com/track/4MZh8DuykJ5lH1cuk9w0wu) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Long Distance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KzYrn6OLfXJBI9hudj38G) | 1:44 | 2025-10-05 |  |
 | [Life's Talent For Change](https://open.spotify.com/track/27Q2SjswXjzfZVWlBR5Z4e) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 5:03 | 2024-08-10 | 2024-08-23 |
 | [Lifeless Again](https://open.spotify.com/track/7dOrs9015T264sTjQj09E8) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Blue Whales \- Return of the Giants \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq) | 1:57 | 2023-08-04 | 2023-08-14 |
 | [Like the Sea Is Breathing](https://open.spotify.com/track/1RXuoOVAufKpauBFcLy8Bt) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Blue Whales \- Return of the Giants \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq) | 2:25 | 2023-08-04 | 2023-09-03 |

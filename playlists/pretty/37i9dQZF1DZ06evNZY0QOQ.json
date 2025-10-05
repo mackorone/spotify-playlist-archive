@@ -1,12 +1,12 @@
 {
   "description": "This is CKay. The essential tracks, all in one playlist.",
-  "num_followers": 23204,
+  "num_followers": 23210,
   "original_name": "This Is CKay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAADZtd++odAg2tHqIEncmOqO",
+  "snapshot_id": "aN8SAAAAAACTMub312WKbRbBs/ZT/BI2",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sanity",
+        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 198344,
+      "name": "Bygone",
+      "url": "https://open.spotify.com/track/1BvdpcGv8qFqO99XWN7ile"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CKay The Second",
         "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
       },
@@ -299,26 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 204573,
-      "name": "come close (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/2u5dBIBam2FTwYsgsptJyj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
       },
@@ -335,6 +335,26 @@
       "duration_ms": 173333,
       "name": "Skoin Skoin (feat. Bianca Costa)",
       "url": "https://open.spotify.com/track/55Rnsl2V2IjPf7wiwCyEFq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 204573,
+      "name": "come close (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/2u5dBIBam2FTwYsgsptJyj"
     },
     {
       "added_at": null,
@@ -467,30 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "love nwantiti x dumebi (Mid\u00e9 Naike Remix)",
-        "url": "https://open.spotify.com/album/7AzISzDV84yvlneRn6OL3j"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Mid\u00e9 Naike",
-          "url": "https://open.spotify.com/artist/7qYDPQS76PSE3OzJZ48JCc"
-        }
-      ],
-      "duration_ms": 194181,
-      "name": "love nwantiti x dumebi - Mid\u00e9 Naike Remix",
-      "url": "https://open.spotify.com/track/5h3lq0x9KKwYhPcWAUVdOj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sad Romance",
         "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
       },
@@ -519,18 +515,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "CKay The Second",
-        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
+        "name": "love nwantiti x dumebi (Mid\u00e9 Naike Remix)",
+        "url": "https://open.spotify.com/album/7AzISzDV84yvlneRn6OL3j"
       },
       "artists": [
         {
           "name": "CKay",
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Mid\u00e9 Naike",
+          "url": "https://open.spotify.com/artist/7qYDPQS76PSE3OzJZ48JCc"
         }
       ],
-      "duration_ms": 160429,
-      "name": "say no more",
-      "url": "https://open.spotify.com/track/6b6KwJ5Ig1SmOKM9cD3Bem"
+      "duration_ms": 194181,
+      "name": "love nwantiti x dumebi - Mid\u00e9 Naike Remix",
+      "url": "https://open.spotify.com/track/5h3lq0x9KKwYhPcWAUVdOj"
     },
     {
       "added_at": null,
@@ -551,6 +555,22 @@
       "duration_ms": 188920,
       "name": "Anya Mmiri",
       "url": "https://open.spotify.com/track/4m8YqoUZLToSUjpNmb7m5X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CKay The Second",
+        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 175615,
+      "name": "permit me",
+      "url": "https://open.spotify.com/track/0UdlBInYiNqclTU4bGm7dN"
     },
     {
       "added_at": null,
@@ -595,38 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CKay The Second",
-        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 175615,
-      "name": "permit me",
-      "url": "https://open.spotify.com/track/0UdlBInYiNqclTU4bGm7dN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 196712,
-      "name": "mmadu",
-      "url": "https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "4U (feat. CKay, Leo Rizzi)",
         "url": "https://open.spotify.com/album/7eRSN2WVgwjEr5XBRHh2qp"
       },
@@ -647,6 +635,38 @@
       "duration_ms": 225321,
       "name": "4U (feat. CKay, Leo Rizzi)",
       "url": "https://open.spotify.com/track/6qFHJBEbHNKpWhN6e9xNnO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CKay The Second",
+        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 160429,
+      "name": "say no more",
+      "url": "https://open.spotify.com/track/6b6KwJ5Ig1SmOKM9cD3Bem"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 196712,
+      "name": "mmadu",
+      "url": "https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx"
     },
     {
       "added_at": null,
@@ -883,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forward",
-        "url": "https://open.spotify.com/album/5caurEEX04czGkrjHcARHu"
-      },
-      "artists": [
-        {
-          "name": "Silly Walks Discotheque",
-          "url": "https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 153560,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/6cgPG5VRHJvoXZ8NY8MmOR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "40 Days (feat. CKay)",
         "url": "https://open.spotify.com/album/5mUEBoLPKIVyNlvulD40kL"
       },
@@ -919,6 +919,26 @@
       "duration_ms": 186586,
       "name": "40 Days (feat. CKay)",
       "url": "https://open.spotify.com/track/3RaFHuGXEgAH8k0J9kSF5x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/5caurEEX04czGkrjHcARHu"
+      },
+      "artists": [
+        {
+          "name": "Silly Walks Discotheque",
+          "url": "https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 153560,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/6cgPG5VRHJvoXZ8NY8MmOR"
     },
     {
       "added_at": null,
@@ -951,30 +971,6 @@
       "duration_ms": 183652,
       "name": "IS IT YOU?",
       "url": "https://open.spotify.com/track/3xmnR9kblvHlUWY2YDWkrE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE ANGEL YOU DON'T KNOW",
-        "url": "https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        },
-        {
-          "name": "Maesu",
-          "url": "https://open.spotify.com/artist/2kk1THOr0gsQaAqOj02tbl"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 222604,
-      "name": "FANTASY",
-      "url": "https://open.spotify.com/track/6ylNT9nQLTOglCEHqvFnGo"
     }
   ],
   "unique_name": "This Is CKay",

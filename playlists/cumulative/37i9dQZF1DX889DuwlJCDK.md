@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: おいしくるメロンパン
 
-1,381 songs - 3 day 11 hr 21 min
+1,382 songs - 3 day 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -643,6 +643,7 @@
 | [いつか何もない世界で](https://open.spotify.com/track/2wZux5EsJfcZF5kgJPtsrq) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [いつか何もない世界で](https://open.spotify.com/album/3zWwbZxKb5GsQPKZ0CAerN) | 2:47 | 2025-09-09 |  |
 | [いつだってそんなもんだろ](https://open.spotify.com/track/603Bu8HzR7VjTFQvCV1tlj) | [TENSONG](https://open.spotify.com/artist/4gg2Eg18OeqjqzfWtsBTMG) | [いつだってそんなもんだろ](https://open.spotify.com/album/4Q7KK4b02fiMe74aBRZO7L) | 3:52 | 2025-02-04 | 2025-06-02 |
 | [いびつな愛ですが](https://open.spotify.com/track/7yRD3phQHFDVrkr9UVy7xn) | [ちゃくら](https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr) | [いびつな愛ですが](https://open.spotify.com/album/25MVPTjqJaUtwLgzuPyqBb) | 3:31 | 2025-06-03 | 2025-07-22 |
+| [おどるらいおん](https://open.spotify.com/track/577u27gsOMyPGhLzUfM408) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX), [上野羽有音](https://open.spotify.com/artist/1ayDnNzffQqmHOyVydbj0z) | [おどるらいおん](https://open.spotify.com/album/156xUbteR44M344qWAgPdn) | 4:04 | 2025-10-01 |  |
 | [おねがい神様](https://open.spotify.com/track/4e8RK5BFlWRuijK92Vm8AZ) | [パーカーズ](https://open.spotify.com/artist/6TVg7Kq9FSpdPLWMlHUhfW) | [心の中なら何度も言えるのにな](https://open.spotify.com/album/5r9TwQMzmKQneL6AXUTWKD) | 3:44 | 2023-12-19 | 2023-12-21 |
 | [おふろのうた](https://open.spotify.com/track/6vaDmfyF2rBqQfMWDEOpK4) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [おふろのうた](https://open.spotify.com/album/1xU7biDImPl58LslLofb8J) | 4:37 | 2023-10-24 | 2023-11-08 |
 | [おぼろげ](https://open.spotify.com/track/0lszvcMooYCboG7YKL0Ogz) | [Cloudy](https://open.spotify.com/artist/1ZNbVSp7OXMnTNXJ3MmGUH) | [おぼろげ](https://open.spotify.com/album/37ho1gzf1rk8Zjm3LL4RHe) | 4:58 | 2024-12-17 | 2024-12-27 |
@@ -1301,7 +1302,7 @@
 | [結婚式には呼ばないで](https://open.spotify.com/track/5ftqM3eIrsjIQeSiJMABvW) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [結婚式には呼ばないで](https://open.spotify.com/album/7kMPOw3Xnn1esJ6nZNi73O) | 1:32 | 2025-06-17 | 2025-07-02 |
 | [結局他人](https://open.spotify.com/track/2eWMkeIRBEYxhgVRq9pAAO) | [Hwyl](https://open.spotify.com/artist/6bYzlsbs269Xa3z6L5OfjC) | [結局他人](https://open.spotify.com/album/3zZx38HvniEvLNJnnHbLJq) | 2:35 | 2024-03-12 | 2024-03-20 |
 | [結目](https://open.spotify.com/track/2HwYkUxWgPE0DUwWQwIKSM) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [It's myself](https://open.spotify.com/album/3LbkhkpzZ9cgpoLcy2fvbX) | 3:49 | 2025-05-21 | 2025-08-20 |
-| [絶命](https://open.spotify.com/track/2vVl8HMaKTH4iv3HD70JjP) | [神が残した夢を喰う。](https://open.spotify.com/artist/0tWJYjocqKq3vZ1EL2Yc0o) | [絶命](https://open.spotify.com/album/7JPyPAGHYOuc1NL5VhxYbz) | 4:36 | 2025-07-01 |  |
+| [絶命](https://open.spotify.com/track/2vVl8HMaKTH4iv3HD70JjP) | [神が残した夢を喰う。](https://open.spotify.com/artist/0tWJYjocqKq3vZ1EL2Yc0o) | [絶命](https://open.spotify.com/album/7JPyPAGHYOuc1NL5VhxYbz) | 4:36 | 2025-07-01 | 2025-10-05 |
 | [織姫とBABY](https://open.spotify.com/track/2RMBCQdXkfFArpX3NIuuNm) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld), [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [織姫とBABY](https://open.spotify.com/album/3kDCegnvxc2zbSHrghMhQD) | 3:42 | 2025-08-01 |  |
 | [美女と野獣](https://open.spotify.com/track/4AJ5EtRjaZuu7xdBPJBZCu) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [美女と野獣](https://open.spotify.com/album/6GE6ZhJonvfaIEqBCqawDl) | 4:10 | 2024-04-02 | 2024-07-01 |
 | [群青謳歌](https://open.spotify.com/track/5qghy9FhJe4NP4639zFjMn) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [群青謳歌](https://open.spotify.com/album/3Rk5UO0XrkQlUxvExmc55z) | 3:53 | 2023-08-15 | 2023-08-17 |

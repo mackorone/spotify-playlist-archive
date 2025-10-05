@@ -1,12 +1,12 @@
 {
   "description": "This is Venna. The essential tracks, all in one playlist.",
-  "num_followers": 949,
+  "num_followers": 951,
   "original_name": "This Is Venna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAAAC4cIv/mbRC7k1rP2Tb17t",
+  "snapshot_id": "aN8SAAAAAAC8Gj7/dm0PQiGT/QnQ/6XM",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Standard",
-        "url": "https://open.spotify.com/album/7aXmIOc3CuYe0AtqO3fjca"
+        "name": "Avenue B",
+        "url": "https://open.spotify.com/album/6GJdh5Yo1LRYAahkLavVWu"
       },
       "artists": [
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
         }
       ],
-      "duration_ms": 157866,
-      "name": "Standard",
-      "url": "https://open.spotify.com/track/6vidfcE63k1dl1YrQTQ4S5"
+      "duration_ms": 242933,
+      "name": "Avenue B",
+      "url": "https://open.spotify.com/track/562pdTsqaP4glM3nAut3DA"
     },
     {
       "added_at": null,
@@ -367,18 +363,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avenue B",
-        "url": "https://open.spotify.com/album/6GJdh5Yo1LRYAahkLavVWu"
+        "name": "Standard",
+        "url": "https://open.spotify.com/album/7aXmIOc3CuYe0AtqO3fjca"
       },
       "artists": [
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
         }
       ],
-      "duration_ms": 242933,
-      "name": "Avenue B",
-      "url": "https://open.spotify.com/track/562pdTsqaP4glM3nAut3DA"
+      "duration_ms": 157866,
+      "name": "Standard",
+      "url": "https://open.spotify.com/track/6vidfcE63k1dl1YrQTQ4S5"
     },
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VENOLOGY",
-        "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Marco Bernardis",
-          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
-        }
-      ],
-      "duration_ms": 254333,
-      "name": "The Last Poets",
-      "url": "https://open.spotify.com/track/2VHMxsaWF7okBa3fKuRqP8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Patience (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1QEyTusbAcW5xMGGvWQkyC"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 170007,
       "name": "2011 (feat. Venna)",
       "url": "https://open.spotify.com/track/0n7mUH2Yx5mrUW2NvCBcTD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VENOLOGY",
+        "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Marco Bernardis",
+          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
+        }
+      ],
+      "duration_ms": 254333,
+      "name": "The Last Poets",
+      "url": "https://open.spotify.com/track/2VHMxsaWF7okBa3fKuRqP8"
     },
     {
       "added_at": null,
@@ -667,30 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vibes (feat. Sam Wise & Venna)",
-        "url": "https://open.spotify.com/album/7ED4oWJ38EyR2VkSIAQ9kc"
-      },
-      "artists": [
-        {
-          "name": "p-rallel",
-          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
-        },
-        {
-          "name": "Sam Wise",
-          "url": "https://open.spotify.com/artist/4CCjWYtowoZyWAl03Iih5P"
-        },
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 192894,
-      "name": "Vibes (feat. Sam Wise & Venna)",
-      "url": "https://open.spotify.com/track/0rpSppwgJjbbeYEmM7uujk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ways of Knowing",
         "url": "https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO"
       },
@@ -711,6 +687,30 @@
       "duration_ms": 130546,
       "name": "Embers (feat Liv.e & Venna)",
       "url": "https://open.spotify.com/track/4SRY0aXM7Sb3HTqgxG0cWr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vibes (feat. Sam Wise & Venna)",
+        "url": "https://open.spotify.com/album/7ED4oWJ38EyR2VkSIAQ9kc"
+      },
+      "artists": [
+        {
+          "name": "p-rallel",
+          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
+        },
+        {
+          "name": "Sam Wise",
+          "url": "https://open.spotify.com/artist/4CCjWYtowoZyWAl03Iih5P"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 192894,
+      "name": "Vibes (feat. Sam Wise & Venna)",
+      "url": "https://open.spotify.com/track/0rpSppwgJjbbeYEmM7uujk"
     },
     {
       "added_at": null,

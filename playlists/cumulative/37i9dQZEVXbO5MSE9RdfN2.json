@@ -5954,7 +5954,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 108307,
       "name": "Cali Man",
       "url": "https://open.spotify.com/track/2pPNAgcdgtRMwK9mPYMK7O"
@@ -9044,7 +9044,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 162826,
       "name": "Destroy Me",
       "url": "https://open.spotify.com/track/5sdqwzp1kSHHqTFsyfhrZW"
@@ -9550,7 +9550,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 208176,
       "name": "Divine Feelings",
       "url": "https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi"
@@ -9568,7 +9568,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 208176,
       "name": "Divine Feelings",
       "url": "https://open.spotify.com/track/7E7La8d5lm9zNqPysZIR1j"
@@ -17220,7 +17220,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 148653,
       "name": "I'm a Dog",
       "url": "https://open.spotify.com/track/2Dlp3mgmT5GgKw9tXs85NA"
@@ -29042,7 +29042,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 134347,
       "name": "Puppet",
       "url": "https://open.spotify.com/track/5EphWkRuqee9EE3Ubm1XCy"
@@ -30192,6 +30192,24 @@
       "duration_ms": 196754,
       "name": "Ronald",
       "url": "https://open.spotify.com/track/1xeIvccuZq4DiqqmZDSbAg"
+    },
+    {
+      "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "date_added": "2025-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Rottweiler",
+      "url": "https://open.spotify.com/track/7mcxFbFdnFFbWwPflgqqKE"
     },
     {
       "album": {
@@ -38160,7 +38178,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 213687,
       "name": "Up There Cazaly - 35th Year Anniversary - 2014",
       "url": "https://open.spotify.com/track/06fpTiKaq3MbjROra2Vgqq"

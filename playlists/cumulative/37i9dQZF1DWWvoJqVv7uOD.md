@@ -4,7 +4,7 @@
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: RAYE
 
-841 songs - 1 day 21 hr 51 min
+842 songs - 1 day 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,6 +505,7 @@
 | [Me](https://open.spotify.com/track/2RidTpfCfAA3Wb7sBcBubb) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Every Little Detail](https://open.spotify.com/album/35HZGYSj5vzKFeRsoCMU2w) | 2:27 | 2022-10-28 | 2022-11-19 |
 | [Medicine](https://open.spotify.com/track/7CHNIK6EGjnwpWkSpx6JZe) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Medicine](https://open.spotify.com/album/6K8gvUTwVftCa3gd0MFtI4) | 3:28 | 2022-02-04 | 2022-02-12 |
 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 | 2025-01-10 |  |
+| [Melodies \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/2zCQq1vH3QCPfPtrnxIxyK) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Melodies \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/30s9hkl9YEZDeQkl2dyV8c) | 2:37 | 2025-10-03 |  |
 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 | 2023-06-16 | 2023-08-19 |
 | [Meltdown](https://open.spotify.com/track/52Rfxu5AUNMV1qhhC2ZCkb) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Meltdown](https://open.spotify.com/album/5YFjep71L0CSTopsrhZ56q) | 2:33 | 2023-05-12 | 2023-06-18 |
 | [Mercy](https://open.spotify.com/track/4MB87UHsD18uievFjjo737) | [Will Troy](https://open.spotify.com/artist/2D9TZalGr1SmjkGguD6Jy1) | [Mercy](https://open.spotify.com/album/6tc5626s6b7NI34UlJKH0X) | 3:54 | 2022-11-04 | 2022-11-26 |
@@ -704,7 +705,7 @@
 | [Still Have Love For You](https://open.spotify.com/track/2Lt4bMUuokKyC4r1puqefa) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Love Over Fear](https://open.spotify.com/album/173IyxzOdHpenFKug42nGh) | 3:05 | 2023-10-24 | 2023-12-02 |
 | [Still Have Love For You](https://open.spotify.com/track/4XRk2TxSMtCUczDYnW9vzY) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Love Over Fear](https://open.spotify.com/album/6owtgnHhaat8agT8cIrfVF) | 3:05 | 2023-08-25 | 2023-11-04 |
 | [Strange](https://open.spotify.com/track/7Mh8TbrCLjGxkJg5TmlKC3) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Strange](https://open.spotify.com/album/5wwOyVfErnVEhNXulI4JX3) | 3:08 | 2023-06-09 | 2023-09-30 |
-| [strangers again](https://open.spotify.com/track/38MltIuVQE5LeWoSCV7Wxz) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [strangers again](https://open.spotify.com/album/5LQsCqGtTU2k4WreRYF7vG) | 2:25 | 2024-08-16 |  |
+| [strangers again](https://open.spotify.com/track/38MltIuVQE5LeWoSCV7Wxz) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [strangers again](https://open.spotify.com/album/5LQsCqGtTU2k4WreRYF7vG) | 2:25 | 2024-08-16 | 2025-10-05 |
 | [Strong Enough \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Strong Enough](https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX) | 2:29 | 2023-11-10 | 2024-09-07 |
 | [Stronger \(Grey's Anatomy Version\)](https://open.spotify.com/track/2h444Cn1pbZjKPD4jbjY3E) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Stronger](https://open.spotify.com/album/4KrEjdnGDVtiRyZ4poxNTk) | 2:59 | 2023-02-07 | 2023-08-26 |
 | [stuck in denial](https://open.spotify.com/track/5VVqWlP1umXU5XYdZTXXaT) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [stuck in denial](https://open.spotify.com/album/61bATvekneBTSDOYXE6cjA) | 3:10 | 2022-10-28 | 2022-11-26 |

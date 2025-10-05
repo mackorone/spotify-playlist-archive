@@ -1,6 +1,6 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 181096,
+  "num_followers": 181152,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
@@ -899,38 +899,6 @@
     {
       "added_at": "2025-07-21 07:58:21",
       "album": {
-        "name": "Bullitt (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5E1Rw9xvIgCOJtlrVKsnYO"
-      },
-      "artists": [
-        {
-          "name": "Lalo Schifrin",
-          "url": "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
-        }
-      ],
-      "duration_ms": 143066,
-      "name": "Room \"26\"",
-      "url": "https://open.spotify.com/track/1p1KxxcWqRsun63SshXLo3"
-    },
-    {
-      "added_at": "2025-07-21 07:58:21",
-      "album": {
-        "name": "Soul (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 111266,
-      "name": "Bigger Than Us",
-      "url": "https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k"
-    },
-    {
-      "added_at": "2025-07-21 07:58:21",
-      "album": {
         "name": "Daily Battles (From Motherless Brooklyn: Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6EqM2rlOCixg83ma0o4uDB"
       },
@@ -959,6 +927,38 @@
       "duration_ms": 204064,
       "name": "Daily Battles (feat. Joe Farnsworth, Russell Hall, Isaiah J. Thompson & Jerry Weldon) - Jazz Arrangement",
       "url": "https://open.spotify.com/track/6c9Z0OpPG69o6ULaiYpMu2"
+    },
+    {
+      "added_at": "2025-07-21 07:58:21",
+      "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 111266,
+      "name": "Bigger Than Us",
+      "url": "https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k"
+    },
+    {
+      "added_at": "2025-07-21 07:58:21",
+      "album": {
+        "name": "Bullitt (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5E1Rw9xvIgCOJtlrVKsnYO"
+      },
+      "artists": [
+        {
+          "name": "Lalo Schifrin",
+          "url": "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
+        }
+      ],
+      "duration_ms": 143066,
+      "name": "Room \"26\"",
+      "url": "https://open.spotify.com/track/1p1KxxcWqRsun63SshXLo3"
     },
     {
       "added_at": "2025-07-21 07:58:21",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2025-07-21 07:58:21",
       "album": {
+        "name": "Babylon (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0jCuKxy96iDfx9JtXKRyXe"
+      },
+      "artists": [
+        {
+          "name": "Justin Hurwitz",
+          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
+        }
+      ],
+      "duration_ms": 130600,
+      "name": "Damascus Thump",
+      "url": "https://open.spotify.com/track/5twNVE0ofszyWolOWwjRSN"
+    },
+    {
+      "added_at": "2025-07-21 07:58:21",
+      "album": {
         "name": "Chico & Rita",
         "url": "https://open.spotify.com/album/75jbEORN0z55vVY3ZGgpkB"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 76773,
       "name": "Sabor a M\u00ed",
       "url": "https://open.spotify.com/track/2iLxmg8G5tCx52JtnbQOke"
-    },
-    {
-      "added_at": "2025-07-21 07:58:21",
-      "album": {
-        "name": "Babylon (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/0jCuKxy96iDfx9JtXKRyXe"
-      },
-      "artists": [
-        {
-          "name": "Justin Hurwitz",
-          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
-        }
-      ],
-      "duration_ms": 130600,
-      "name": "Damascus Thump",
-      "url": "https://open.spotify.com/track/5twNVE0ofszyWolOWwjRSN"
     },
     {
       "added_at": "2025-07-21 07:58:21",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2025-07-21 07:58:21",
       "album": {
-        "name": "Johnny Cool (Original Movie Soundtrack)",
-        "url": "https://open.spotify.com/album/12vD766oDQd8CVJmivrfMw"
-      },
-      "artists": [
-        {
-          "name": "Billy May",
-          "url": "https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq"
-        }
-      ],
-      "duration_ms": 198034,
-      "name": "Green Tables Blues",
-      "url": "https://open.spotify.com/track/4Jsugzy5b9QZdSlOpCjrIl"
-    },
-    {
-      "added_at": "2025-07-21 07:58:21",
-      "album": {
         "name": "The Motown Anthology",
         "url": "https://open.spotify.com/album/1iWLbj2Az7I7ixffEQUrSc"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 142266,
       "name": "Good Morning Heartache - From \"Lady Sings The Blues\" Soundtrack",
       "url": "https://open.spotify.com/track/1VnCyVMa4MsbvjEGXGOH6P"
+    },
+    {
+      "added_at": "2025-07-21 07:58:21",
+      "album": {
+        "name": "Johnny Cool (Original Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/12vD766oDQd8CVJmivrfMw"
+      },
+      "artists": [
+        {
+          "name": "Billy May",
+          "url": "https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq"
+        }
+      ],
+      "duration_ms": 198034,
+      "name": "Green Tables Blues",
+      "url": "https://open.spotify.com/track/4Jsugzy5b9QZdSlOpCjrIl"
     },
     {
       "added_at": "2025-07-21 07:58:21",

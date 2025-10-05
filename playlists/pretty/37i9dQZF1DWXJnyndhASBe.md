@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Avi
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,116 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,167 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Imago](https://open.spotify.com/track/1IeAQJe21bqjWEeMrlD2zt) | [Avi](https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl), [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [Jan\-Rapowanie](https://open.spotify.com/artist/43yekIowVCHkR6TGGg9gSp), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [WPR](https://open.spotify.com/album/5DIOcbcpLoEa5DjDcjg4n9) | 3:33 |
 | 2 | [POKOLOROWANA](https://open.spotify.com/track/6mPLPjlONvnJTPtQo6ia8u) | [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [POKOLOROWANA](https://open.spotify.com/album/4jt1eGcqa1i36BAlXN8Dm1) | 3:11 |
 | 3 | [Nie bój się bać](https://open.spotify.com/track/0LvpebWbdZaeN4Izhk9yM3) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7), [Anita Lipnicka](https://open.spotify.com/artist/3JIRLDbCJ55I5nevDYiasK), [Luxon](https://open.spotify.com/artist/62Gar1Ac49mJeo3bRuHnkc) | [Nie bój się bać](https://open.spotify.com/album/3MGZ2sgslhF9py8bNpdkIN) | 3:36 |
-| 4 | [LETNIA NOC](https://open.spotify.com/track/1LolSEndJ6rnuoFe0yZjPs) | [Blacha 2115](https://open.spotify.com/artist/71tiWMKZ5wpl6E0BdwVQza), [slowez](https://open.spotify.com/artist/4eI1QUuWhfhQwOSr98b9Ro), [Koder](https://open.spotify.com/artist/1qJPIWsxxzTulBOb5kFllO) | [LETNIA NOC](https://open.spotify.com/album/2zbXAsAWnYaBHdipbSNaOS) | 2:26 |
+| 4 | [LETNIA NOC](https://open.spotify.com/track/1LolSEndJ6rnuoFe0yZjPs) | [Blacha 2115](https://open.spotify.com/artist/71tiWMKZ5wpl6E0BdwVQza), [slowez](https://open.spotify.com/artist/4eI1QUuWhfhQwOSr98b9Ro), [Koder](https://open.spotify.com/artist/1qJPIWsxxzTulBOb5kFllO), [KUBEN1K](https://open.spotify.com/artist/1RX3PbEsYn4AGxcDemKAij) | [LETNIA NOC](https://open.spotify.com/album/2zbXAsAWnYaBHdipbSNaOS) | 2:26 |
 | 5 | [Baciata](https://open.spotify.com/track/58JXOkFJ9P50s2L1pEOdPF) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E) | [Baciata](https://open.spotify.com/album/2Swgs4e19ysNnoRo0HC3Ru) | 2:12 |
 | 6 | [BEZ NIKOGO OBOK](https://open.spotify.com/track/7Ki2wz0F38lWnwBOLRkyIV) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd) | [3347](https://open.spotify.com/album/0hYMkjmSD1OKHbgPfh6W7B) | 2:03 |
 | 7 | [CERTYFIKAT](https://open.spotify.com/track/4wqzjszg4AWKQoeY7swyci) | [Eryk Moczko](https://open.spotify.com/artist/6BqCCSNavmsoUg5WLnQGhd) | [CERTYFIKAT](https://open.spotify.com/album/4nNNcLFT17QWgHSSzQYwrb) | 2:21 |

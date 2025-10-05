@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Machos. The essential tracks, all in one playlist.",
-  "num_followers": 66808,
+  "num_followers": 66825,
   "original_name": "This Is Banda Machos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAAD9UQfllPgoQ7O3r46BwvDw",
+  "snapshot_id": "aN8SAAAAAACZ9kVI9NlOC+Z73kXmcdCS",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sangre de indio",
-        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 162800,
-      "name": "Al gato y al rat\u00f3n",
-      "url": "https://open.spotify.com/track/3qtsVB90KMoccHtSCbAHOE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Palabra de machos",
         "url": "https://open.spotify.com/album/6nHukDTFU4XLZs9F3YR5KM"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 148266,
       "name": "Chiquita bonita",
       "url": "https://open.spotify.com/track/1oyFVrHU6I2vRUSR1VVDKL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sangre de indio",
+        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 162800,
+      "name": "Al gato y al rat\u00f3n",
+      "url": "https://open.spotify.com/track/3qtsVB90KMoccHtSCbAHOE"
     },
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "La culebra",
-      "url": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Historia sin fin",
         "url": "https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 197426,
       "name": "Tres minutos",
       "url": "https://open.spotify.com/track/0mKKoYIkWf9BeAWNV8OQoP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "La culebra",
+      "url": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Pr\u00f3ximo Tonto",
-        "url": "https://open.spotify.com/album/3WvE7i1NcHqtHYC7GnE8HF"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 206120,
-      "name": "El Pr\u00f3ximo Tonto",
-      "url": "https://open.spotify.com/track/159vIWmmGLkVzYWqG2oHNb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Estrellas de la Musica Mexicana (USA)",
         "url": "https://open.spotify.com/album/2JOLFDLR0yxFWPQ2V8f2tY"
       },
@@ -619,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me llamo Raquel",
-        "url": "https://open.spotify.com/album/6kKUMZRUFskGD5ApAkKHRu"
+        "name": "El Pr\u00f3ximo Tonto",
+        "url": "https://open.spotify.com/album/3WvE7i1NcHqtHYC7GnE8HF"
       },
       "artists": [
         {
@@ -628,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 177960,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/4LWNMFGhh76bv1Q6JIwlJu"
+      "duration_ms": 206120,
+      "name": "El Pr\u00f3ximo Tonto",
+      "url": "https://open.spotify.com/track/159vIWmmGLkVzYWqG2oHNb"
     },
     {
       "added_at": null,
@@ -655,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me llamo Raquel",
+        "url": "https://open.spotify.com/album/6kKUMZRUFskGD5ApAkKHRu"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 177960,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/4LWNMFGhh76bv1Q6JIwlJu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "25 Bandazos de Machos (Vol. 2) [USA]",
         "url": "https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv"
       },
@@ -667,26 +667,6 @@
       "duration_ms": 231453,
       "name": "Vivir sin ella",
       "url": "https://open.spotify.com/track/1tGEqvzyAMUReS4zQMpZ2G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ando Pisteando Por Ella",
-        "url": "https://open.spotify.com/album/4PY6Vx6pcfAzzRpllPYltZ"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Internacional CHG De Gamaliel Contreras Huerta",
-          "url": "https://open.spotify.com/artist/4Z0ZWO0lp2z7HqhAs9kVSw"
-        },
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 147752,
-      "name": "Ando Pisteando Por Ella",
-      "url": "https://open.spotify.com/track/2ViQb4MB0Fa80dvgjOATc7"
     },
     {
       "added_at": null,
@@ -723,6 +703,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ando Pisteando Por Ella",
+        "url": "https://open.spotify.com/album/4PY6Vx6pcfAzzRpllPYltZ"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Internacional CHG De Gamaliel Contreras Huerta",
+          "url": "https://open.spotify.com/artist/4Z0ZWO0lp2z7HqhAs9kVSw"
+        },
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 147752,
+      "name": "Ando Pisteando Por Ella",
+      "url": "https://open.spotify.com/track/2ViQb4MB0Fa80dvgjOATc7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Palabra de machos",
         "url": "https://open.spotify.com/album/6nHukDTFU4XLZs9F3YR5KM"
       },
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me llamo Raquel",
-        "url": "https://open.spotify.com/album/6kKUMZRUFskGD5ApAkKHRu"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 187720,
-      "name": "La roncona",
-      "url": "https://open.spotify.com/track/2Y5Um0Bzz2aZCOhzL50wr5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi chica ideal (Lo B\u00e1sico)",
         "url": "https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 176773,
       "name": "Qu\u00e9 te costaba dec\u00edrmelo",
       "url": "https://open.spotify.com/track/3WP5vkPc1gnagKLBrsR5m7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me llamo Raquel",
+        "url": "https://open.spotify.com/album/6kKUMZRUFskGD5ApAkKHRu"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 187720,
+      "name": "La roncona",
+      "url": "https://open.spotify.com/track/2Y5Um0Bzz2aZCOhzL50wr5"
     },
     {
       "added_at": null,

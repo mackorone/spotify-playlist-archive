@@ -1,6 +1,6 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 445337,
+  "num_followers": 445398,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2025-07-31 16:00:18",
       "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "My Head & My Heart",
+      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
+    },
+    {
+      "added_at": "2025-07-31 16:00:18",
+      "album": {
         "name": "Higher Love",
         "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
-      "added_at": "2025-07-31 16:00:18",
-      "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "My Head & My Heart",
-      "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
     },
     {
       "added_at": "2025-07-31 16:00:18",
@@ -687,26 +687,6 @@
     {
       "added_at": "2025-07-31 16:00:18",
       "album": {
-        "name": "Let Me Hold You (Turn Me On)",
-        "url": "https://open.spotify.com/album/2APVXYBFX7sOVQ8HLO6kG9"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Dante Klein",
-          "url": "https://open.spotify.com/artist/1b4DN8Vj0dnj5cceMFsRYN"
-        }
-      ],
-      "duration_ms": 162425,
-      "name": "Let Me Hold You (Turn Me On)",
-      "url": "https://open.spotify.com/track/3aLWuWKHaTV4Ok7LKvXRYn"
-    },
-    {
-      "added_at": "2025-07-31 16:00:18",
-      "album": {
         "name": "Night Away (Dance) (feat. Tion Wayne)",
         "url": "https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 175774,
       "name": "Night Away (Dance) (feat. Tion Wayne)",
       "url": "https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g"
+    },
+    {
+      "added_at": "2025-07-31 16:00:18",
+      "album": {
+        "name": "Let Me Hold You (Turn Me On)",
+        "url": "https://open.spotify.com/album/2APVXYBFX7sOVQ8HLO6kG9"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Dante Klein",
+          "url": "https://open.spotify.com/artist/1b4DN8Vj0dnj5cceMFsRYN"
+        }
+      ],
+      "duration_ms": 162425,
+      "name": "Let Me Hold You (Turn Me On)",
+      "url": "https://open.spotify.com/track/3aLWuWKHaTV4Ok7LKvXRYn"
     },
     {
       "added_at": "2025-07-31 16:00:18",
@@ -847,26 +847,6 @@
     {
       "added_at": "2025-07-31 16:00:18",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Roy English",
-          "url": "https://open.spotify.com/artist/1m42JiZ7Rv8D7Lc7FTSWAR"
-        }
-      ],
-      "duration_ms": 221400,
-      "name": "Cool",
-      "url": "https://open.spotify.com/track/2ToIksTPpJ4csKPEOdUEyM"
-    },
-    {
-      "added_at": "2025-07-31 16:00:18",
-      "album": {
         "name": "Split (Only U)",
         "url": "https://open.spotify.com/album/0WTYsW1iJz4NQqdclJ4gcd"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 256640,
       "name": "Split (Only U)",
       "url": "https://open.spotify.com/track/1Q4jb2UjtWUDUojHsB8mLY"
+    },
+    {
+      "added_at": "2025-07-31 16:00:18",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Roy English",
+          "url": "https://open.spotify.com/artist/1m42JiZ7Rv8D7Lc7FTSWAR"
+        }
+      ],
+      "duration_ms": 221400,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/2ToIksTPpJ4csKPEOdUEyM"
     },
     {
       "added_at": "2025-07-31 16:00:18",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-07-31 16:00:18",
       "album": {
-        "name": "Astronomia (Never Go Home)",
-        "url": "https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq"
-      },
-      "artists": [
-        {
-          "name": "Tony Igy",
-          "url": "https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW"
-        }
-      ],
-      "duration_ms": 156888,
-      "name": "Astronomia - Never Go Home",
-      "url": "https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz"
-    },
-    {
-      "added_at": "2025-07-31 16:00:18",
-      "album": {
         "name": "I Was Made",
         "url": "https://open.spotify.com/album/3zHqo2ygJlcfOyzxLyLevV"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 155399,
       "name": "I Was Made",
       "url": "https://open.spotify.com/track/0ieEZjHQO5eq9Uad7opItK"
+    },
+    {
+      "added_at": "2025-07-31 16:00:18",
+      "album": {
+        "name": "Astronomia (Never Go Home)",
+        "url": "https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq"
+      },
+      "artists": [
+        {
+          "name": "Tony Igy",
+          "url": "https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW"
+        }
+      ],
+      "duration_ms": 156888,
+      "name": "Astronomia - Never Go Home",
+      "url": "https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz"
     },
     {
       "added_at": "2025-07-31 16:00:18",
@@ -1047,22 +1047,18 @@
     {
       "added_at": "2025-07-31 16:00:18",
       "album": {
-        "name": "A Better World",
-        "url": "https://open.spotify.com/album/3hAcZ5awmnV1zc2P3WNSzr"
+        "name": "Mr. Saxobeat",
+        "url": "https://open.spotify.com/album/70TSV0yHReXgd8pnbnrMmz"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
         }
       ],
-      "duration_ms": 172606,
-      "name": "A Better World",
-      "url": "https://open.spotify.com/track/7tCXmtYrYNFWMa7vyQfuAI"
+      "duration_ms": 151181,
+      "name": "Mr. Saxobeat",
+      "url": "https://open.spotify.com/track/2dmZy75CTSv6BFo7IbO0eK"
     }
   ],
   "unique_name": "EDM Samplings",

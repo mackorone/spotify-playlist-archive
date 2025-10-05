@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Trang Anh
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,366 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,367 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 57 | [anh chang muon nuoc mat em roi](https://open.spotify.com/track/0LqDZ3IFDuTwZcokjXu8G7) | [Kushzzvw](https://open.spotify.com/artist/0rsnNJ6I4zicx5WXNAlkV9) | [anh chang muon nuoc mat em roi](https://open.spotify.com/album/72yxPjl0nnwX3Jw9oBFFvQ) | 2:01 |
 | 58 | [Chuyện Cũ Cứ Xem Là Gió Bay](https://open.spotify.com/track/7FtayNdrNCE5j1WSA3sbnA) | [giangimgs](https://open.spotify.com/artist/5cOX2910hNJR9e1cxaVNQp), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Chuyện Cũ Cứ Xem Là Gió Bay](https://open.spotify.com/album/2Ajqdo4oyrV6pHo0aTf7bV) | 2:24 |
 | 59 | [TÌNH SHI](https://open.spotify.com/track/0XzyhjbEsglfjOLzozgamI) | [QUANGHUY](https://open.spotify.com/artist/5QIhpiFVMtAGsnNiiMRGOw), [PAGANINO](https://open.spotify.com/artist/1MwzdNF7cfIWwlVYg0onWY) | [TÌNH SHI](https://open.spotify.com/album/3KWbquckBY4rZ7wE4m2jPI) | 3:00 |
-| 60 | [NÓI](https://open.spotify.com/track/0HTfR57jbmRXHW4oPOf0os) | [Soonerr](https://open.spotify.com/artist/1cTygyyG6dtnj7uNnM10Lh), [LINGUINI](https://open.spotify.com/artist/1nxO82A8XTXsjKmOthZjrm) | [NÓI](https://open.spotify.com/album/46WIaAk4Igm1v6Pkg5Aseg) | 4:01 |
+| 60 | [NÓI](https://open.spotify.com/track/0HTfR57jbmRXHW4oPOf0os) | [Soonerr](https://open.spotify.com/artist/1cTygyyG6dtnj7uNnM10Lh), [Linguini](https://open.spotify.com/artist/7rpLLaDI0B2Ni0hGJynccr) | [NÓI](https://open.spotify.com/album/46WIaAk4Igm1v6Pkg5Aseg) | 4:01 |
 | 61 | [Tưởng Rằng Sau Cơn Mưa](https://open.spotify.com/track/303ASjpwoiTxGr35416OmR) | [Lê Gia Bảo](https://open.spotify.com/artist/5li8A5IiLMLhqGNpd7putm), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Tưởng Rằng Sau Cơn Mưa](https://open.spotify.com/album/2YnWfJQc4odCm3XfqBHk6E) | 5:50 |
 | 62 | [Cớ Sao Em Phải Nhớ](https://open.spotify.com/track/11xcDf9GXc2LVVTURymaJl) | [Bảo Trân.](https://open.spotify.com/artist/5NFGbQhFrVMY4kpln4HE40), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Cớ Sao Em Phải Nhớ](https://open.spotify.com/album/0lXAx9dS1lzWwH4YADZ8St) | 4:16 |
 | 63 | [Fell4U](https://open.spotify.com/track/3lbUC7DefSQUFQmH7640k4) | [JesiLyn](https://open.spotify.com/artist/7gm9casuT7FIMFUmOhz5TS) | [Fell4U](https://open.spotify.com/album/1SJ3wA5mE7rmqqe6w6fH0o) | 3:33 |

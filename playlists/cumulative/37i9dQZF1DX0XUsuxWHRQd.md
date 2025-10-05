@@ -4,7 +4,7 @@
 
 > Music from Gunna, Offset and Young Thug.
 
-2,522 songs - 5 day 10 hr 48 min
+2,523 songs - 5 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [3 Headed Goat \(feat\. Lil Baby & Polo G\)](https://open.spotify.com/track/677KTHp39ZBJ9csDdgymI9) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [3 Headed Goat \(feat\. Lil Baby & Polo G\)](https://open.spotify.com/album/7jyTznlK360v8ldMNfvt3Z) | 2:49 | 2020-05-08 | 2020-06-29 |
 | [300 Blackout](https://open.spotify.com/track/3y3NwQPQAjKCunRz2eKggA) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kutthroat Bill: Vol\. 1](https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs) | 2:46 | 2022-10-28 | 2022-11-19 |
 | [350](https://open.spotify.com/track/42TFM7pxF8mRUJTWJdGMeS) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Crazy](https://open.spotify.com/album/5kj4uRtKgpR9PKnQaMYqZU) | 3:13 | 2023-12-15 | 2024-02-10 |
+| [3am](https://open.spotify.com/track/43oBNdp6W1Z9YDu1svX1hl) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Rockstar Junkie](https://open.spotify.com/album/5yKyv50gYG4q6S2ti49XID) | 2:16 | 2025-10-03 |  |
 | [3AM in ToKEYo](https://open.spotify.com/track/1EpSEIbldNM7SQ6koEQqWT) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [3AM in ToKEYo](https://open.spotify.com/album/5dx9ylPTCSU1SHR2b3uqXh) | 2:26 | 2025-02-07 | 2025-04-19 |
 | [3G \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/3O0XntET8Ee1nFI3rDTwOJ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:50 | 2022-04-01 | 2022-04-09 |
 | [4 Da Gang \(with Roddy Ricch\)](https://open.spotify.com/track/4KIkADzoVm3A10E9qyjsQ5) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [4 Da Gang \(with Roddy Ricch\)](https://open.spotify.com/album/6NRf3rD5JCAsD3tHBTKZ6P) | 2:35 | 2021-04-10 | 2021-07-17 |
@@ -1919,7 +1920,7 @@
 | [Show of Hands](https://open.spotify.com/track/0cGn4vxyoBftN61XUv2aQk) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:33 | 2024-04-13 | 2024-04-19 |
 | [Show Out \(with Skepta & Pop Smoke\)](https://open.spotify.com/track/5CFJRZRq6sdKKtRwNPWbYv) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 2:54 | 2020-12-11 | 2021-03-19 |
 | [Shrimp & Grits \(feat\. Young Nudy\)](https://open.spotify.com/track/04yFP7f0TBeeIKs34TXvAP) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:44 | 2024-08-09 | 2024-08-24 |
-| [Shut Me Up](https://open.spotify.com/track/6nOgznOKaZXPxLqx3h0RrX) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [W!LD Deluxe: The Elephant & The Rider](https://open.spotify.com/album/26vSIrPtkA7En8zwJgI17c) | 3:55 | 2025-09-19 |  |
+| [Shut Me Up](https://open.spotify.com/track/6nOgznOKaZXPxLqx3h0RrX) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [W!LD Deluxe: The Elephant & The Rider](https://open.spotify.com/album/26vSIrPtkA7En8zwJgI17c) | 3:55 | 2025-09-19 | 2025-10-05 |
 | [SHUT UP](https://open.spotify.com/track/3ekxXNSH4mgUnMprSnopls) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [SHUT UP](https://open.spotify.com/album/1lZ9uQpFOvFcm5SoLhwZSO) | 2:50 | 2020-02-21 | 2020-04-03 |
 | [Sick \(feat\. DaBaby\)](https://open.spotify.com/track/0BqyyCV8M6roYLRmNtiasC) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [BOSS MAN](https://open.spotify.com/album/1YOx6ZVgiv9GEluUwBWevi) | 1:57 | 2020-03-13 | 2020-04-18 |
 | [Sick \(feat\. DaBaby\)](https://open.spotify.com/track/0SILPpXjFgZCwW64L1bamm) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [BOSS MAN](https://open.spotify.com/album/3jPpeRUHcgC8ZkDT7MgUg3) | 1:57 | 2020-04-18 | 2020-04-24 |

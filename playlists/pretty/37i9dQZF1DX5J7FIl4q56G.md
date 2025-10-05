@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Lamb Of God
 
-[Spotify](https://open.spotify.com/user/spotify) - 772,992 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 773,045 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 17 | [Ivory Tower](https://open.spotify.com/track/4jz9uEiH9imxLH1IJaPhhI) | [Elwood Stray](https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr) | [Ivory Tower](https://open.spotify.com/album/3oss2LGYzeog85wgNSBTXj) | 1:54 |
 | 18 | [Pills From The Start](https://open.spotify.com/track/5veJxMbTFDmUStxWBTthlC) | [The Narrator](https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk) | [Pills From The Start](https://open.spotify.com/album/7g5Ve1kCztJb28wuAHDfug) | 3:11 |
 | 19 | [Paralyzed](https://open.spotify.com/track/59KSuPsR2uzx7nKoFj3Bf3) | [Secrets](https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl) | [Paralyzed](https://open.spotify.com/album/60vVun2EgKk6rt9ww8fLDE) | 3:09 |
-| 20 | [Orbiting](https://open.spotify.com/track/4KxN0xhViLRP4EPbOS60Z3) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [If You Do Not Fear Me...](https://open.spotify.com/album/6BpTl0GVvEGHE99VTh8PDa) | 3:04 |
+| 20 | [Orbiting](https://open.spotify.com/track/4KxN0xhViLRP4EPbOS60Z3) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [If You Do Not Fear Me...](https://open.spotify.com/album/6BpTl0GVvEGHE99VTh8PDa) | 3:05 |
 | 21 | [Peacemaker](https://open.spotify.com/track/3rWRRbiKEAnvIVAyovkZsU) | [Nasty](https://open.spotify.com/artist/7GnX7pGXdWtLObs16B1mFB) | [Peacemaker](https://open.spotify.com/album/4o95osImkXl6QAsWhyQK0F) | 2:09 |
 | 22 | [Letdown](https://open.spotify.com/track/01OuBrlcM2Xmk0jSok0HH8) | [Fight From Within](https://open.spotify.com/artist/6mQi8LMPMts9Fz67wqneDV) | [Talk Is Cheap](https://open.spotify.com/album/2dAdIQGlU94LtzJQmSctq6) | 2:35 |
 | 23 | [Incipience](https://open.spotify.com/track/1CusOWh7L2URkIgt2Yt5OG) | [Empire Fall](https://open.spotify.com/artist/3LURa20zIKdXG4MHqz70zp) | [Dissension, Pt\. 2](https://open.spotify.com/album/7suSkYi5t3utI0jAymEsHd) | 3:07 |

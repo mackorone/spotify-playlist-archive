@@ -2,7 +2,7 @@
 
 ### [hIndies](https://open.spotify.com/playlist/37i9dQZF1DWXSzFkaLsPkN)
 
-> Hindi hai, Indie hai! Cover\- Anumita Nadesan
+> Hindi hai, Indie hai! Cover\- Tanmaya Bhatnagar
 
 293 songs - 16 hr 4 min
 

@@ -2,7 +2,7 @@
 
 ### [Pop Rising Singapore & Malaysia](https://open.spotify.com/playlist/37i9dQZF1DX1TxhZPYjnhx)
 
-> Discover new favorites or tomorrow's hits today\. Cover: 5 Seconds of Summer
+> Discover new favorites or tomorrow's hits today\. Cover: Henry Moodie
 
 1,012 songs - 2 day 5 hr 37 min
 

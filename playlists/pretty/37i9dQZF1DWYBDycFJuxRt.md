@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: NIKO NIKO TAN TAN \*👉 <a href="https://spice.eplus.jp/articles/341104">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,256 likes - 79 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,302 likes - 79 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

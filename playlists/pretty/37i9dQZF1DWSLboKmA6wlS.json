@@ -1,6 +1,6 @@
 {
   "description": "\u0e1f\u0e31\u0e07\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e19. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: KYLINZ. Artwork: Isu Kim",
-  "num_followers": 10987,
+  "num_followers": 10988,
   "original_name": "Fresh Finds Thailand",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAG3z3Cy6GRE/i0J+8PtASR9ih4ZN",
   "tracks": [
+    {
+      "added_at": "2025-10-03 10:20:14",
+      "album": {
+        "name": "Pretty Girl",
+        "url": "https://open.spotify.com/album/08H6tDS77MOL0eL5RT2qqE"
+      },
+      "artists": [
+        {
+          "name": "KimGun",
+          "url": "https://open.spotify.com/artist/12mLwmGdGDI6nZxur0atkl"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/6tB3Own6faovgVetrvNCiZ"
+    },
     {
       "added_at": "2025-10-03 10:20:14",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 238515,
       "name": "\u0e43\u0e2b\u0e49\u0e09\u0e31\u0e19\u0e19\u0e31\u0e48\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e16\u0e2d\u0e30",
       "url": "https://open.spotify.com/track/728CSOvvjVwBMttPfwbUPS"
-    },
-    {
-      "added_at": "2025-10-03 10:20:14",
-      "album": {
-        "name": "infinity (8)",
-        "url": "https://open.spotify.com/album/52DMFxQLYvAV6RWZ6CDETa"
-      },
-      "artists": [
-        {
-          "name": "LE7EL",
-          "url": "https://open.spotify.com/artist/6W1itHL95v5jqmqrg1N6fc"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "infinity (8)",
-      "url": "https://open.spotify.com/track/5OUAy3nAeLHWIyD7DGQHKP"
     },
     {
       "added_at": "2025-10-03 10:20:14",
@@ -59,34 +59,18 @@
     {
       "added_at": "2025-10-03 10:20:14",
       "album": {
-        "name": "Pretty Girl",
-        "url": "https://open.spotify.com/album/08H6tDS77MOL0eL5RT2qqE"
+        "name": "infinity (8)",
+        "url": "https://open.spotify.com/album/52DMFxQLYvAV6RWZ6CDETa"
       },
       "artists": [
         {
-          "name": "KimGun",
-          "url": "https://open.spotify.com/artist/12mLwmGdGDI6nZxur0atkl"
+          "name": "LE7EL",
+          "url": "https://open.spotify.com/artist/6W1itHL95v5jqmqrg1N6fc"
         }
       ],
-      "duration_ms": 167586,
-      "name": "Pretty Girl",
-      "url": "https://open.spotify.com/track/6tB3Own6faovgVetrvNCiZ"
-    },
-    {
-      "added_at": "2025-10-03 10:20:14",
-      "album": {
-        "name": "\u0e2d\u0e32\u0e08\u0e08\u0e30\u0e22\u0e31\u0e07\u0e19\u0e49\u0e32 (Maybe not now)",
-        "url": "https://open.spotify.com/album/44rQxQcWLqJASf6Wc0z1qk"
-      },
-      "artists": [
-        {
-          "name": "TEMI",
-          "url": "https://open.spotify.com/artist/0VDH8FrhpCC1DwVqiGPTGn"
-        }
-      ],
-      "duration_ms": 187423,
-      "name": "\u0e2d\u0e32\u0e08\u0e08\u0e30\u0e22\u0e31\u0e07\u0e19\u0e49\u0e32 (Maybe not now)",
-      "url": "https://open.spotify.com/track/6ePZx7jDM7IIMNxyuhJGCf"
+      "duration_ms": 164210,
+      "name": "infinity (8)",
+      "url": "https://open.spotify.com/track/5OUAy3nAeLHWIyD7DGQHKP"
     },
     {
       "added_at": "2025-10-03 10:20:14",
@@ -103,6 +87,22 @@
       "duration_ms": 192000,
       "name": "\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d\u0e04\u0e33\u0e15\u0e2d\u0e1a (The World Of Us) - From \"\u0e1e\u0e34\u0e29\u0e23\u0e31\u0e01 Poisonous Love\"",
       "url": "https://open.spotify.com/track/2HO4ne5gCobMXPTACgvjPx"
+    },
+    {
+      "added_at": "2025-10-03 10:20:14",
+      "album": {
+        "name": "\u0e2d\u0e32\u0e08\u0e08\u0e30\u0e22\u0e31\u0e07\u0e19\u0e49\u0e32 (Maybe not now)",
+        "url": "https://open.spotify.com/album/44rQxQcWLqJASf6Wc0z1qk"
+      },
+      "artists": [
+        {
+          "name": "TEMI",
+          "url": "https://open.spotify.com/artist/0VDH8FrhpCC1DwVqiGPTGn"
+        }
+      ],
+      "duration_ms": 187423,
+      "name": "\u0e2d\u0e32\u0e08\u0e08\u0e30\u0e22\u0e31\u0e07\u0e19\u0e49\u0e32 (Maybe not now)",
+      "url": "https://open.spotify.com/track/6ePZx7jDM7IIMNxyuhJGCf"
     },
     {
       "added_at": "2025-10-03 10:20:14",
@@ -203,22 +203,6 @@
     {
       "added_at": "2025-10-03 10:20:14",
       "album": {
-        "name": "\u0e2b\u0e49\u0e2d\u0e07\u0e2b\u0e31\u0e27\u0e43\u0e08",
-        "url": "https://open.spotify.com/album/7L08xqlWrmRgxk6SA0ZE0D"
-      },
-      "artists": [
-        {
-          "name": "GAIKAI",
-          "url": "https://open.spotify.com/artist/2tjF5O9fXbcqYq8O1lIVti"
-        }
-      ],
-      "duration_ms": 206024,
-      "name": "\u0e2b\u0e49\u0e2d\u0e07\u0e2b\u0e31\u0e27\u0e43\u0e08",
-      "url": "https://open.spotify.com/track/5uIL8TxvhsyFT08tsXHUIN"
-    },
-    {
-      "added_at": "2025-10-03 10:20:14",
-      "album": {
         "name": "\u0e17\u0e34\u0e49\u0e07\u0e40\u0e02\u0e32\u0e43\u0e19\u0e17\u0e30\u0e40\u0e25 (SEAYOU)",
         "url": "https://open.spotify.com/album/0q0adFZe7xdKnVfeSAPukd"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 234000,
       "name": "\u0e17\u0e34\u0e49\u0e07\u0e40\u0e02\u0e32\u0e43\u0e19\u0e17\u0e30\u0e40\u0e25 (SEAYOU)",
       "url": "https://open.spotify.com/track/4R4tASjsiNOEmQ1zqvJtYV"
+    },
+    {
+      "added_at": "2025-10-03 10:20:14",
+      "album": {
+        "name": "\u0e2b\u0e49\u0e2d\u0e07\u0e2b\u0e31\u0e27\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/7L08xqlWrmRgxk6SA0ZE0D"
+      },
+      "artists": [
+        {
+          "name": "GAIKAI",
+          "url": "https://open.spotify.com/artist/2tjF5O9fXbcqYq8O1lIVti"
+        }
+      ],
+      "duration_ms": 206024,
+      "name": "\u0e2b\u0e49\u0e2d\u0e07\u0e2b\u0e31\u0e27\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/5uIL8TxvhsyFT08tsXHUIN"
     },
     {
       "added_at": "2025-10-03 10:20:14",
@@ -319,22 +319,6 @@
     {
       "added_at": "2025-10-03 10:20:14",
       "album": {
-        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e19\u0e35\u0e49\u0e22\u0e31\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d (Replayed)",
-        "url": "https://open.spotify.com/album/06zgoGl7BltdNwIZyM1ooz"
-      },
-      "artists": [
-        {
-          "name": "PUIMEKSTER",
-          "url": "https://open.spotify.com/artist/1J4CZAHBaCdOr4hGth4K9i"
-        }
-      ],
-      "duration_ms": 188750,
-      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e19\u0e35\u0e49\u0e22\u0e31\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d (Replayed)",
-      "url": "https://open.spotify.com/track/0gGgb8BbMw2WZc5Gy52pXW"
-    },
-    {
-      "added_at": "2025-10-03 10:20:14",
-      "album": {
         "name": "al dente",
         "url": "https://open.spotify.com/album/4WiFKWtJ6EsHsLx6TkimZj"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 230043,
       "name": "al dente",
       "url": "https://open.spotify.com/track/1hkAWiahjurKmvtmNyPmSO"
+    },
+    {
+      "added_at": "2025-10-03 10:20:14",
+      "album": {
+        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e19\u0e35\u0e49\u0e22\u0e31\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d (Replayed)",
+        "url": "https://open.spotify.com/album/06zgoGl7BltdNwIZyM1ooz"
+      },
+      "artists": [
+        {
+          "name": "PUIMEKSTER",
+          "url": "https://open.spotify.com/artist/1J4CZAHBaCdOr4hGth4K9i"
+        }
+      ],
+      "duration_ms": 188750,
+      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e19\u0e35\u0e49\u0e22\u0e31\u0e07\u0e40\u0e1b\u0e47\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d (Replayed)",
+      "url": "https://open.spotify.com/track/0gGgb8BbMw2WZc5Gy52pXW"
     },
     {
       "added_at": "2025-10-03 10:20:14",
@@ -543,6 +543,22 @@
     {
       "added_at": "2025-10-03 10:20:14",
       "album": {
+        "name": "\u0e15\u0e23\u0e32\u0e1a\u0e22\u0e31\u0e07\u0e21\u0e35\u0e25\u0e21\u0e2b\u0e32\u0e22\u0e43\u0e08 (Last chance) ost.A(ir) Moment",
+        "url": "https://open.spotify.com/album/4QP6tCsOfTvZLe7DVH3D0G"
+      },
+      "artists": [
+        {
+          "name": "First Kantapon",
+          "url": "https://open.spotify.com/artist/2ABejldUonNR8MkLbhkcA7"
+        }
+      ],
+      "duration_ms": 260278,
+      "name": "\u0e15\u0e23\u0e32\u0e1a\u0e22\u0e31\u0e07\u0e21\u0e35\u0e25\u0e21\u0e2b\u0e32\u0e22\u0e43\u0e08 (Last chance) ost.A(ir) Moment",
+      "url": "https://open.spotify.com/track/41t2rjbSUisjp3HkzWityv"
+    },
+    {
+      "added_at": "2025-10-03 10:20:14",
+      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/6V99yT7iaz8KK5LRKjbVFV"
       },
@@ -575,18 +591,34 @@
     {
       "added_at": "2025-10-03 10:20:14",
       "album": {
-        "name": "\u0e15\u0e23\u0e32\u0e1a\u0e22\u0e31\u0e07\u0e21\u0e35\u0e25\u0e21\u0e2b\u0e32\u0e22\u0e43\u0e08 (Last chance) ost.A(ir) Moment",
-        "url": "https://open.spotify.com/album/4QP6tCsOfTvZLe7DVH3D0G"
+        "name": "Thisis242",
+        "url": "https://open.spotify.com/album/1uq7TK6zNGPRmyi2E2ziYS"
       },
       "artists": [
         {
-          "name": "First Kantapon",
-          "url": "https://open.spotify.com/artist/2ABejldUonNR8MkLbhkcA7"
+          "name": "242",
+          "url": "https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA"
         }
       ],
-      "duration_ms": 260278,
-      "name": "\u0e15\u0e23\u0e32\u0e1a\u0e22\u0e31\u0e07\u0e21\u0e35\u0e25\u0e21\u0e2b\u0e32\u0e22\u0e43\u0e08 (Last chance) ost.A(ir) Moment",
-      "url": "https://open.spotify.com/track/41t2rjbSUisjp3HkzWityv"
+      "duration_ms": 228000,
+      "name": "\u0e1b\u0e23\u0e32\u0e01\u0e0f\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e21\u0e35\u0e43\u0e04\u0e23\u0e40\u0e02\u0e32\u0e1a\u0e2d\u0e01",
+      "url": "https://open.spotify.com/track/7bUbPGXIyVruAJ4tMeAoNn"
+    },
+    {
+      "added_at": "2025-10-03 10:20:14",
+      "album": {
+        "name": "\u0e2b\u0e19\u0e49\u0e32\u0e15\u0e48\u0e32\u0e07 (Drops)",
+        "url": "https://open.spotify.com/album/5agwHF2dLrBDW5XvPWnhqM"
+      },
+      "artists": [
+        {
+          "name": "JOYE",
+          "url": "https://open.spotify.com/artist/38oEcugQXZEzxG44gBhE2C"
+        }
+      ],
+      "duration_ms": 232563,
+      "name": "\u0e2b\u0e19\u0e49\u0e32\u0e15\u0e48\u0e32\u0e07 (Drops)",
+      "url": "https://open.spotify.com/track/5vselVLB2BT7UJsk43fmy0"
     },
     {
       "added_at": "2025-10-03 10:20:14",
@@ -619,38 +651,6 @@
       "duration_ms": 239478,
       "name": "\u0e01\u0e35\u0e48\u0e44\u0e21\u0e25\u0e4c",
       "url": "https://open.spotify.com/track/2aWI8KiWb89AwBFkNp5sBN"
-    },
-    {
-      "added_at": "2025-10-03 10:20:14",
-      "album": {
-        "name": "Thisis242",
-        "url": "https://open.spotify.com/album/1uq7TK6zNGPRmyi2E2ziYS"
-      },
-      "artists": [
-        {
-          "name": "242",
-          "url": "https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "\u0e1b\u0e23\u0e32\u0e01\u0e0f\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e21\u0e35\u0e43\u0e04\u0e23\u0e40\u0e02\u0e32\u0e1a\u0e2d\u0e01",
-      "url": "https://open.spotify.com/track/7bUbPGXIyVruAJ4tMeAoNn"
-    },
-    {
-      "added_at": "2025-10-03 10:20:14",
-      "album": {
-        "name": "\u0e2b\u0e19\u0e49\u0e32\u0e15\u0e48\u0e32\u0e07 (Drops)",
-        "url": "https://open.spotify.com/album/5agwHF2dLrBDW5XvPWnhqM"
-      },
-      "artists": [
-        {
-          "name": "JOYE",
-          "url": "https://open.spotify.com/artist/38oEcugQXZEzxG44gBhE2C"
-        }
-      ],
-      "duration_ms": 232563,
-      "name": "\u0e2b\u0e19\u0e49\u0e32\u0e15\u0e48\u0e32\u0e07 (Drops)",
-      "url": "https://open.spotify.com/track/5vselVLB2BT7UJsk43fmy0"
     },
     {
       "added_at": "2025-10-03 10:20:14",
@@ -747,6 +747,22 @@
       "duration_ms": 194157,
       "name": "\u0e23\u0e2d\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 Hotline",
       "url": "https://open.spotify.com/track/4bHwJ4H4Ki3tyOc15jnh5y"
+    },
+    {
+      "added_at": "2025-10-03 10:20:14",
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e2a\u0e31\u0e01\u0e17\u0e35 (Self-Love)",
+        "url": "https://open.spotify.com/album/2hmsYqa6cWEHmHCRZVfuVL"
+      },
+      "artists": [
+        {
+          "name": "QVINT",
+          "url": "https://open.spotify.com/artist/1Tjk3sUtF6JhurRrOqasJL"
+        }
+      ],
+      "duration_ms": 252246,
+      "name": "\u0e23\u0e31\u0e01\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e2a\u0e31\u0e01\u0e17\u0e35 (Self-Love)",
+      "url": "https://open.spotify.com/track/5DJKWEAsUhNde2t13m07i2"
     },
     {
       "added_at": "2025-10-03 10:20:14",
@@ -855,22 +871,6 @@
     {
       "added_at": "2025-10-03 10:20:14",
       "album": {
-        "name": "\u0e23\u0e31\u0e01\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e2a\u0e31\u0e01\u0e17\u0e35 (Self-Love)",
-        "url": "https://open.spotify.com/album/2hmsYqa6cWEHmHCRZVfuVL"
-      },
-      "artists": [
-        {
-          "name": "QVINT",
-          "url": "https://open.spotify.com/artist/1Tjk3sUtF6JhurRrOqasJL"
-        }
-      ],
-      "duration_ms": 252246,
-      "name": "\u0e23\u0e31\u0e01\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e2a\u0e31\u0e01\u0e17\u0e35 (Self-Love)",
-      "url": "https://open.spotify.com/track/5DJKWEAsUhNde2t13m07i2"
-    },
-    {
-      "added_at": "2025-10-03 10:20:14",
-      "album": {
         "name": "\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e43\u0e04\u0e23 \u0e01\u0e47\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e04\u0e19\u0e19\u0e31\u0e49\u0e19\u0e40\u0e40\u0e2b\u0e25\u0e30",
         "url": "https://open.spotify.com/album/0kxZrX3eZVGDDfpIS665iZ"
       },
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-10-03 10:20:14",
       "album": {
-        "name": "\u0e16\u0e49\u0e32\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e01\u0e2d\u0e14\u0e40\u0e18\u0e2d (Only U)",
-        "url": "https://open.spotify.com/album/7jWlswlP5NOdOKUGJ88sE1"
-      },
-      "artists": [
-        {
-          "name": "Saraki",
-          "url": "https://open.spotify.com/artist/6wPmGBkpZeAAPhpKGWAH5j"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "\u0e16\u0e49\u0e32\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e01\u0e2d\u0e14\u0e40\u0e18\u0e2d (Only U)",
-      "url": "https://open.spotify.com/track/4TXCbH4uFQNRYdmDbs5BrC"
-    },
-    {
-      "added_at": "2025-10-03 10:20:14",
-      "album": {
         "name": "\u0e1e\u0e34\u0e18\u0e35\u0e01\u0e23 (an interviewer)",
         "url": "https://open.spotify.com/album/0n8Ojby3dMlcXm6312D7eR"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 191333,
       "name": "\u0e1e\u0e34\u0e18\u0e35\u0e01\u0e23 (an interviewer)",
       "url": "https://open.spotify.com/track/1YT67ckKchj3bpNP05wnAn"
+    },
+    {
+      "added_at": "2025-10-03 10:20:14",
+      "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e01\u0e2d\u0e14\u0e40\u0e18\u0e2d (Only U)",
+        "url": "https://open.spotify.com/album/7jWlswlP5NOdOKUGJ88sE1"
+      },
+      "artists": [
+        {
+          "name": "Saraki",
+          "url": "https://open.spotify.com/artist/6wPmGBkpZeAAPhpKGWAH5j"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "\u0e16\u0e49\u0e32\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e01\u0e2d\u0e14\u0e40\u0e18\u0e2d (Only U)",
+      "url": "https://open.spotify.com/track/4TXCbH4uFQNRYdmDbs5BrC"
     },
     {
       "added_at": "2025-10-03 10:20:14",
@@ -1219,26 +1219,18 @@
     {
       "added_at": "2025-10-03 10:20:14",
       "album": {
-        "name": "\u0e22\u0e34\u0e49\u0e21\u0e2a\u0e34",
-        "url": "https://open.spotify.com/album/2WGJVpaF2GwC6AfMbvtYb1"
+        "name": "\u0e04\u0e33\u0e15\u0e2d\u0e1a",
+        "url": "https://open.spotify.com/album/5J4F02c85dKAs84lrQKw0S"
       },
       "artists": [
         {
-          "name": "Ball Pharanwat",
-          "url": "https://open.spotify.com/artist/4Yx9Q2qWC6p3ULryGrKN5p"
-        },
-        {
-          "name": "NED",
-          "url": "https://open.spotify.com/artist/1J2DMJsTqJ6vZDRKdtnatX"
-        },
-        {
-          "name": "KittyAmath",
-          "url": "https://open.spotify.com/artist/53FqoMOX2hHl94eqn7aQOF"
+          "name": "PS",
+          "url": "https://open.spotify.com/artist/5mPMimurGk9ARZM3FV12x0"
         }
       ],
-      "duration_ms": 170137,
-      "name": "\u0e22\u0e34\u0e49\u0e21\u0e2a\u0e34",
-      "url": "https://open.spotify.com/track/7chvvYJtx6Nnw4LUzhTeeB"
+      "duration_ms": 185106,
+      "name": "\u0e04\u0e33\u0e15\u0e2d\u0e1a",
+      "url": "https://open.spotify.com/track/7pZOZVXxunkjA1CRVq1N2u"
     },
     {
       "added_at": "2025-10-03 10:20:14",
@@ -1259,18 +1251,26 @@
     {
       "added_at": "2025-10-03 10:20:14",
       "album": {
-        "name": "\u0e04\u0e33\u0e15\u0e2d\u0e1a",
-        "url": "https://open.spotify.com/album/5J4F02c85dKAs84lrQKw0S"
+        "name": "\u0e22\u0e34\u0e49\u0e21\u0e2a\u0e34",
+        "url": "https://open.spotify.com/album/2WGJVpaF2GwC6AfMbvtYb1"
       },
       "artists": [
         {
-          "name": "PS",
-          "url": "https://open.spotify.com/artist/5mPMimurGk9ARZM3FV12x0"
+          "name": "Ball Pharanwat",
+          "url": "https://open.spotify.com/artist/4Yx9Q2qWC6p3ULryGrKN5p"
+        },
+        {
+          "name": "NED",
+          "url": "https://open.spotify.com/artist/1J2DMJsTqJ6vZDRKdtnatX"
+        },
+        {
+          "name": "KittyAmath",
+          "url": "https://open.spotify.com/artist/53FqoMOX2hHl94eqn7aQOF"
         }
       ],
-      "duration_ms": 185106,
-      "name": "\u0e04\u0e33\u0e15\u0e2d\u0e1a",
-      "url": "https://open.spotify.com/track/7pZOZVXxunkjA1CRVq1N2u"
+      "duration_ms": 170137,
+      "name": "\u0e22\u0e34\u0e49\u0e21\u0e2a\u0e34",
+      "url": "https://open.spotify.com/track/7chvvYJtx6Nnw4LUzhTeeB"
     },
     {
       "added_at": "2025-10-03 10:20:14",

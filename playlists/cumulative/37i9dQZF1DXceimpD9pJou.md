@@ -4,7 +4,7 @@
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Olga Tañón
 
-3,326 songs - 10 day 6 hr 56 min
+3,327 songs - 10 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2878,6 +2878,7 @@
 | [Tienes Mi Corazón](https://open.spotify.com/track/5fW9gpZJLeXiKLuO2Mhs7L) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Alumbras Mi Vida](https://open.spotify.com/album/2ioiX3BKpvY8wj5uIGQbBH) | 3:17 | 2022-06-03 | 2022-08-06 |
 | [Tierra Prometida](https://open.spotify.com/track/7bwwh84dalgKpYpbXenUA5) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Tierra Prometida](https://open.spotify.com/album/2X2TKIVD411wzu9uWcERLR) | 3:33 | 2022-03-18 | 2022-05-14 |
 | [Tierra Prometida](https://open.spotify.com/track/0dmWfdmZpDwxXMFpEB0Ahd) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [De Donde Vengo](https://open.spotify.com/album/2muy7qsOxiPQdKAOBp3Deq) | 3:38 | 2025-04-25 | 2025-05-31 |
+| [Time](https://open.spotify.com/track/6DGTKo18v6D7TpxR8ErytY) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Time](https://open.spotify.com/album/6iWezRWOnou3ZH5kEZswJg) | 3:17 | 2025-10-03 |  |
 | [Tira Pa'Lante](https://open.spotify.com/track/6AONI6ZFaOwszRBVgdJZl8) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Libesita](https://open.spotify.com/album/13U6rLmmX7cWawSKCBsUVI) | 2:29 | 2024-03-29 | 2024-06-01 |
 | [Toda de ti](https://open.spotify.com/track/4QD7e2lplD4KKqShOMIq14) | [Amelia Silva](https://open.spotify.com/artist/1ExbqZs9Td5ADXjM91hK0a) | [Toda de ti](https://open.spotify.com/album/28IKWFpov365K5NrWmhcFN) | 3:19 | 2024-09-13 | 2024-10-12 |
 | [Toda Gloria](https://open.spotify.com/track/4Soi6SrZ2BWNXAaYBXJiYM) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [Toda Gloria](https://open.spotify.com/album/37R6TuehPiLMocUlUQI2Df) | 3:14 | 2024-05-31 | 2024-06-29 |

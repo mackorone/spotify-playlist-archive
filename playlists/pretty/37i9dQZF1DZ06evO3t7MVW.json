@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 91390,
+  "num_followers": 91408,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAACV5xEW/tltxbHpAOSqi9uD",
+  "snapshot_id": "aN8SAAAAAAD75T7H6ZTitgVfC3aCI2Bx",
   "tracks": [
     {
       "added_at": null,
@@ -279,22 +279,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home (with Stick Figure)",
-        "url": "https://open.spotify.com/album/6wXNgsH6qyh4Ujqq7laPOG"
+        "name": "Got Me On The Run (with Stick Figure and Pepper)",
+        "url": "https://open.spotify.com/album/7utd2iqVDpBxA4BLfFVZtF"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
         }
       ],
-      "duration_ms": 210182,
-      "name": "Home (with Stick Figure)",
-      "url": "https://open.spotify.com/track/1GwcqCWWQwzt6r09rQjqQQ"
+      "duration_ms": 274498,
+      "name": "Got Me On The Run (with Stick Figure and Pepper)",
+      "url": "https://open.spotify.com/track/39KOFS51LBiUeAEle7utOX"
     },
     {
       "added_at": null,
@@ -319,26 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Got Me On The Run (with Stick Figure and Pepper)",
-        "url": "https://open.spotify.com/album/7utd2iqVDpBxA4BLfFVZtF"
+        "name": "Home (with Stick Figure)",
+        "url": "https://open.spotify.com/album/6wXNgsH6qyh4Ujqq7laPOG"
       },
       "artists": [
         {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
         },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Pepper",
-          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
         }
       ],
-      "duration_ms": 274498,
-      "name": "Got Me On The Run (with Stick Figure and Pepper)",
-      "url": "https://open.spotify.com/track/39KOFS51LBiUeAEle7utOX"
+      "duration_ms": 210182,
+      "name": "Home (with Stick Figure)",
+      "url": "https://open.spotify.com/track/1GwcqCWWQwzt6r09rQjqQQ"
     },
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burial Ground",
+        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 283793,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/05BJQUM4bATKGFheqrC6CW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Visions",
         "url": "https://open.spotify.com/album/4Suls86gUFWBN7rP3MKphB"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 227266,
       "name": "Visions (with Stick Figure)",
       "url": "https://open.spotify.com/track/6VFrBdWj6BjGNeuX3VlmPl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burial Ground",
-        "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 283793,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/05BJQUM4bATKGFheqrC6CW"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wisdom",
+        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 282696,
+      "name": "Falling Stars",
+      "url": "https://open.spotify.com/track/7xJkMC1Yq4SNxZOunlIxvr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slow Ride",
         "url": "https://open.spotify.com/album/3LK1Pf2stMGqONSkOUIZZX"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 232444,
       "name": "Slow Ride",
       "url": "https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wisdom",
-        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 282696,
-      "name": "Falling Stars",
-      "url": "https://open.spotify.com/track/7xJkMC1Yq4SNxZOunlIxvr"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Natural Mystic",
-        "url": "https://open.spotify.com/album/5xwwqaY5S4blxRznTfrHwe"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 195195,
-      "name": "Natural Mystic",
-      "url": "https://open.spotify.com/track/6zRTifE3Ianv6ClqYTIwQC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wisdom",
         "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 254655,
       "name": "Higher (with Slightly Stoopid)",
       "url": "https://open.spotify.com/track/04dXzKIPzrU6sRZai9YuTZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Natural Mystic",
+        "url": "https://open.spotify.com/album/5xwwqaY5S4blxRznTfrHwe"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 195195,
+      "name": "Natural Mystic",
+      "url": "https://open.spotify.com/track/6zRTifE3Ianv6ClqYTIwQC"
     },
     {
       "added_at": null,

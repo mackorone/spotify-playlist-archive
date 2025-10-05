@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 
 > Countdown to Portola weekend! For your pre\-games, afters, spurts of manic cleaning, and everything in between\.  Curated by the <a href="https://portolamusicfestival.com/">Portola Festival</a> Department of Science and Research.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,541 likes - 59 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,564 likes - 59 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 | 58 | [Like I Like It](https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Too Big For B\-Side](https://open.spotify.com/album/5jtv44Kb5NZmbRDfpCTIWE) | 3:44 |
 | 59 | [Brand New Me](https://open.spotify.com/track/6UYzOKGh4hXae0reTWKK24) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [International](https://open.spotify.com/album/5CEt8piPRnEk8BAE9gpdAz) | 3:03 |
 
-Snapshot ID: `AAAAAMklKJESe66kqOpITF8EpvUXDnQU`
+Snapshot ID: `AAAAAMCtxd91rMOhvBLTxTKCvZdKE5zB`

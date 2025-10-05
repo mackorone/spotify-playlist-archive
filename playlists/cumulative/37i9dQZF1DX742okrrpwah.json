@@ -69353,32 +69353,6 @@
     },
     {
       "album": {
-        "name": "Nu\u00e9es ardentes",
-        "url": "https://open.spotify.com/album/5ZRsOZR0ZkhT23NDQJq1c3"
-      },
-      "artists": [
-        {
-          "name": "Birds on a Wire",
-          "url": "https://open.spotify.com/artist/3GKGEnbmQnaTNGJL6ZGryj"
-        },
-        {
-          "name": "Rosemary Standley",
-          "url": "https://open.spotify.com/artist/57v02RSRJzcY5WiYQ5yPCl"
-        },
-        {
-          "name": "Dom La Nena",
-          "url": "https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY"
-        }
-      ],
-      "date_added": "2025-10-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 197520,
-      "name": "Lovecats",
-      "url": "https://open.spotify.com/track/12CHo5hf8f6bgVBRE0ZgCx"
-    },
-    {
-      "album": {
         "name": "Greetings From Your Hometown",
         "url": "https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR"
       },
@@ -113838,6 +113812,32 @@
       "duration_ms": 224677,
       "name": "The Love On High",
       "url": "https://open.spotify.com/track/6ZkmO5UIyAu3WpA7Nlke2A"
+    },
+    {
+      "album": {
+        "name": "Nu\u00e9es ardentes",
+        "url": "https://open.spotify.com/album/5ZRsOZR0ZkhT23NDQJq1c3"
+      },
+      "artists": [
+        {
+          "name": "Birds on a Wire",
+          "url": "https://open.spotify.com/artist/3GKGEnbmQnaTNGJL6ZGryj"
+        },
+        {
+          "name": "Rosemary Standley",
+          "url": "https://open.spotify.com/artist/57v02RSRJzcY5WiYQ5yPCl"
+        },
+        {
+          "name": "Dom La Nena",
+          "url": "https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197520,
+      "name": "The Lovecats",
+      "url": "https://open.spotify.com/track/12CHo5hf8f6bgVBRE0ZgCx"
     },
     {
       "album": {

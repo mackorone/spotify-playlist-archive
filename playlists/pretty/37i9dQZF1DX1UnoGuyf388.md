@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 
 > Pop music driving the current, every week\.  Cover: Amber Mark
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,271 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,292 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 | 49 | [Holy Blindfold](https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Holy Blindfold](https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9) | 2:50 |
 | 50 | [Two to Tango](https://open.spotify.com/track/6NXuqTLgPlY0bwjDsI5Piy) | [Michaela Jaé](https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5) | [Two to Tango](https://open.spotify.com/album/3IxihJxl3moR6IWgLuJ3h0) | 2:24 |
 
-Snapshot ID: `AAAAAGHrwXOaqI2LFeQm5pnT3S0F2Nkj`
+Snapshot ID: `AAAAANF4xgHlv8hFCnu5HbgRS2pY/CHX`

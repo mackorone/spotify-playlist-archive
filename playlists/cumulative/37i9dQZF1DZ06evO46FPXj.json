@@ -394,7 +394,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 281026,
       "name": "Bine",
       "url": "https://open.spotify.com/track/3PoWq2JUTFo5JNQbQkWhVU"
@@ -2785,6 +2785,24 @@
     },
     {
       "album": {
+        "name": "Quaristice.Quadrange.ep.ae",
+        "url": "https://open.spotify.com/album/4sdrE1wszmZUWIgH1PzGNU"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455527,
+      "name": "Perlence losid 2",
+      "url": "https://open.spotify.com/track/2EcjIejVp67FNimtyGRo7S"
+    },
+    {
+      "album": {
         "name": "Quaristice (Versions)",
         "url": "https://open.spotify.com/album/3EhXQYoLSUFXkDDSxrLHx1"
       },
@@ -3624,7 +3642,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 300013,
       "name": "Simmm",
       "url": "https://open.spotify.com/track/6Hf0sfpzzlxDF61jwbWCLZ"
@@ -3822,7 +3840,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 219480,
       "name": "Tankakern",
       "url": "https://open.spotify.com/track/7Bj79DS9awomsPi9QUVGZK"

@@ -1,6 +1,6 @@
 {
   "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with MPH",
-  "num_followers": 1856170,
+  "num_followers": 1855780,
   "original_name": "Dance Rising",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,30 @@
   },
   "snapshot_id": "AAAAAOwDM3VbukOxv5SNluiUvv5BqoxA",
   "tracks": [
+    {
+      "added_at": "2025-10-03 04:00:42",
+      "album": {
+        "name": "LA NOCHE",
+        "url": "https://open.spotify.com/album/3iBDg8qZiUWJy0kiZHI3Cv"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "ANITA B QUEEN",
+          "url": "https://open.spotify.com/artist/2YcZup1n6AW4BxoikeUswf"
+        }
+      ],
+      "duration_ms": 212244,
+      "name": "LA NOCHE",
+      "url": "https://open.spotify.com/track/5vu69csqeUJheoQWPd2MoM"
+    },
     {
       "added_at": "2025-09-26 04:00:37",
       "album": {
@@ -49,24 +73,40 @@
       "url": "https://open.spotify.com/track/5UzmK3aMmpW9X1pKjRdrMi"
     },
     {
-      "added_at": "2025-09-19 04:00:20",
+      "added_at": "2025-10-03 04:00:42",
       "album": {
-        "name": "4 Ya Mind",
-        "url": "https://open.spotify.com/album/0xmHvWsIECBDM5ltH51C2f"
+        "name": "Substance",
+        "url": "https://open.spotify.com/album/42Qb9hUm8vloTMDTU1Sf9L"
       },
       "artists": [
         {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
-        },
-        {
-          "name": "Discip",
-          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
         }
       ],
-      "duration_ms": 205546,
-      "name": "4 Ya Mind",
-      "url": "https://open.spotify.com/track/6cJwVvwYpMg8PlQpJY5RwS"
+      "duration_ms": 245333,
+      "name": "LA NYC",
+      "url": "https://open.spotify.com/track/0IvrXoiEersp0bPYwCEMNC"
+    },
+    {
+      "added_at": "2025-10-03 04:00:42",
+      "album": {
+        "name": "Love Songs (feat. Kosmo Kint)",
+        "url": "https://open.spotify.com/album/2ZaVJ7fzj4JfjTkRuzmPSZ"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Kosmo Kint",
+          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "Love Songs (feat. Kosmo Kint)",
+      "url": "https://open.spotify.com/track/0aNPB23MLFcGGYaMNN7DCf"
     },
     {
       "added_at": "2025-09-26 04:00:37",
@@ -87,6 +127,50 @@
       "duration_ms": 172733,
       "name": "Up Down",
       "url": "https://open.spotify.com/track/5jqEybi7fIl2BpT0njbfhO"
+    },
+    {
+      "added_at": "2025-10-03 04:00:42",
+      "album": {
+        "name": "GEWAH Selects",
+        "url": "https://open.spotify.com/album/1GQVGlJb4JL0nVoW4ptYht"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "Moth To A Flame",
+      "url": "https://open.spotify.com/track/4ZOdEGreqCzM2P3C9EE4AF"
+    },
+    {
+      "added_at": "2025-10-03 04:00:42",
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/5Bhe2wkVUz1nOjPp2L80t9"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "duration_ms": 142135,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/43Gw9Yd4mYtpJ1AHFA00oY"
     },
     {
       "added_at": "2025-09-26 04:00:37",
@@ -145,6 +229,30 @@
       "url": "https://open.spotify.com/track/1VhNZmtGQPnJlzZStAYn5j"
     },
     {
+      "added_at": "2025-10-03 04:00:42",
+      "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/1dkMg6enDSv6bjEBBqnt8c"
+      },
+      "artists": [
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "duration_ms": 199411,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/1LdRvKZka9ZHunz6eoH5B9"
+    },
+    {
       "added_at": "2025-09-26 04:00:37",
       "album": {
         "name": "9 LIVES",
@@ -199,6 +307,26 @@
       "duration_ms": 218398,
       "name": "Shook Ones, PT. III",
       "url": "https://open.spotify.com/track/1pZVr0g2zWmsCXoUjFqNZZ"
+    },
+    {
+      "added_at": "2025-09-19 04:00:20",
+      "album": {
+        "name": "4 Ya Mind",
+        "url": "https://open.spotify.com/album/0xmHvWsIECBDM5ltH51C2f"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        },
+        {
+          "name": "Discip",
+          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
+        }
+      ],
+      "duration_ms": 205546,
+      "name": "4 Ya Mind",
+      "url": "https://open.spotify.com/track/6cJwVvwYpMg8PlQpJY5RwS"
     },
     {
       "added_at": "2025-09-26 04:00:37",
@@ -259,26 +387,6 @@
     {
       "added_at": "2025-09-19 04:00:20",
       "album": {
-        "name": "ABC's",
-        "url": "https://open.spotify.com/album/6zpvtXid20MHH1ZYdb1mJE"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        },
-        {
-          "name": "AntsLive",
-          "url": "https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "ABC's",
-      "url": "https://open.spotify.com/track/73P8YjW0PLirC8MygBp3hj"
-    },
-    {
-      "added_at": "2025-09-19 04:00:20",
-      "album": {
         "name": "Your Mind",
         "url": "https://open.spotify.com/album/2n8p61Ro0BVU2wCOTAhg6D"
       },
@@ -301,6 +409,26 @@
       "url": "https://open.spotify.com/track/2crEwjCQ4DMwvKEjIDslkj"
     },
     {
+      "added_at": "2025-10-03 04:00:42",
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/2wjn9mkCYKbfLzqPOGk9nP"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Make Me Forget",
+      "url": "https://open.spotify.com/track/4S0SLH2oXje7v2C5s0u4NC"
+    },
+    {
       "added_at": "2025-09-12 04:00:07",
       "album": {
         "name": "On Repeat",
@@ -315,6 +443,26 @@
       "duration_ms": 190374,
       "name": "On Repeat",
       "url": "https://open.spotify.com/track/2NuKvt8jjaIivq4Za4glMP"
+    },
+    {
+      "added_at": "2025-10-03 04:00:42",
+      "album": {
+        "name": "Azimuth",
+        "url": "https://open.spotify.com/album/1slnJE8ptgpAnNMyE83rcg"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 226606,
+      "name": "Azimuth",
+      "url": "https://open.spotify.com/track/5eLQyZ8kZKFRukO1mIAXKQ"
     },
     {
       "added_at": "2025-08-15 04:00:12",
@@ -543,6 +691,26 @@
       "duration_ms": 222857,
       "name": "Air",
       "url": "https://open.spotify.com/track/1hGFbfiUfo4xVIR0R706rR"
+    },
+    {
+      "added_at": "2025-10-03 04:00:42",
+      "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/0dSAfRmTB8timCZ1XmPpnj"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Whyte Fang",
+          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
+        }
+      ],
+      "duration_ms": 162266,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/4BZDFSkvQHfvM1MoWbCLSR"
     },
     {
       "added_at": "2025-09-19 04:00:20",
@@ -933,22 +1101,6 @@
       "url": "https://open.spotify.com/track/44TO2DzyeHJaNJFQOQLndQ"
     },
     {
-      "added_at": "2025-08-08 04:00:45",
-      "album": {
-        "name": "WTF",
-        "url": "https://open.spotify.com/album/6Qs4FQFYCMfLnuYEFATGEo"
-      },
-      "artists": [
-        {
-          "name": "SCRIPT",
-          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
-        }
-      ],
-      "duration_ms": 193903,
-      "name": "WTF",
-      "url": "https://open.spotify.com/track/18rxxU3lErSMcyoYIXR4k1"
-    },
-    {
       "added_at": "2025-09-05 04:00:11",
       "album": {
         "name": "Champagne",
@@ -1121,22 +1273,6 @@
       "url": "https://open.spotify.com/track/5AQUoPHBy8jbmg5f5jmq6t"
     },
     {
-      "added_at": "2025-08-15 04:00:12",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/56f1MFjf3qnA3OQSqS0017"
-      },
-      "artists": [
-        {
-          "name": "Luuk Van Dijk",
-          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
-        }
-      ],
-      "duration_ms": 285786,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/1BJyVpblYEmeYberEVmOWM"
-    },
-    {
       "added_at": "2025-09-12 04:00:07",
       "album": {
         "name": "GIRL I WANT YOU",
@@ -1195,26 +1331,6 @@
       "duration_ms": 244878,
       "name": "Space",
       "url": "https://open.spotify.com/track/4eQXDVpJW0P2uj59IuoKrh"
-    },
-    {
-      "added_at": "2025-08-08 04:00:45",
-      "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/7KLcjAjvk0hZjj7vWLuu7n"
-      },
-      "artists": [
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        },
-        {
-          "name": "Caroline Byrne",
-          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/69kA0r4P0OYNRunizcANLu"
     },
     {
       "added_at": "2025-09-05 04:00:11",
@@ -1315,42 +1431,6 @@
     {
       "added_at": "2025-08-08 04:00:45",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/77rQVGYB6ZuwjAKo6Q2Qbh"
-      },
-      "artists": [
-        {
-          "name": "KILIMANJARO",
-          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
-        },
-        {
-          "name": "AMAKA",
-          "url": "https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa"
-        }
-      ],
-      "duration_ms": 180014,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/4ncYt6zcpeT7TdKy5XQ8Mu"
-    },
-    {
-      "added_at": "2025-07-25 04:00:47",
-      "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/1PJEjRyI5FCOqFf6QbWnlf"
-      },
-      "artists": [
-        {
-          "name": "Samm (BE)",
-          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
-        }
-      ],
-      "duration_ms": 179016,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/31yljlcH1pEm4Dz85D1KGC"
-    },
-    {
-      "added_at": "2025-08-08 04:00:45",
-      "album": {
         "name": "Get Stupid",
         "url": "https://open.spotify.com/album/0xkWdnlmmsfqbFrdqlrGom"
       },
@@ -1435,22 +1515,6 @@
       "duration_ms": 173959,
       "name": "Wanna See U Again",
       "url": "https://open.spotify.com/track/61wIaRj0CMJR7MecUlW5a1"
-    },
-    {
-      "added_at": "2025-08-22 04:00:17",
-      "album": {
-        "name": "TO YOU, BY US (VOL. 1)",
-        "url": "https://open.spotify.com/album/3B5HqIucVllBSuzk692VFv"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 157097,
-      "name": "Before You Broke My Heart",
-      "url": "https://open.spotify.com/track/5t3HqfdKcA7igOrOx0JKJX"
     },
     {
       "added_at": "2025-08-29 04:00:34",
@@ -1571,38 +1635,6 @@
       "duration_ms": 239823,
       "name": "Ooo",
       "url": "https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu"
-    },
-    {
-      "added_at": "2025-08-08 04:00:45",
-      "album": {
-        "name": "Last Forever",
-        "url": "https://open.spotify.com/album/6u9A0fkIdZfRNpLepIV39C"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 309101,
-      "name": "Last Forever",
-      "url": "https://open.spotify.com/track/17DObRgarppeleRuJJOV8q"
-    },
-    {
-      "added_at": "2025-07-18 04:00:14",
-      "album": {
-        "name": "Funk U Want",
-        "url": "https://open.spotify.com/album/1fXkckIZDpKNPOsyK55iwu"
-      },
-      "artists": [
-        {
-          "name": "DJ Mandy",
-          "url": "https://open.spotify.com/artist/4p2xDjEJLI7pgml2xOb3iT"
-        }
-      ],
-      "duration_ms": 210909,
-      "name": "Funk U Want",
-      "url": "https://open.spotify.com/track/2aiiorAu7zLKYanYv47LjN"
     }
   ],
   "unique_name": "Dance Rising",

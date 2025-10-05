@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Xavi y Gabito Ballesteros en portada ",
-  "num_followers": 798478,
+  "num_followers": 798917,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -511,26 +511,6 @@
     {
       "added_at": "2025-10-03 06:00:09",
       "album": {
-        "name": "Hecho para ti",
-        "url": "https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        },
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 152734,
-      "name": "Hecho para ti",
-      "url": "https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o"
-    },
-    {
-      "added_at": "2025-10-03 06:00:09",
-      "album": {
         "name": "Haciendo Memoria",
         "url": "https://open.spotify.com/album/34nVEyCXj7H5vRoqLf34Ar"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 187034,
       "name": "Haciendo Memoria",
       "url": "https://open.spotify.com/track/1trlpTsQJoBoKQeHGDF72a"
+    },
+    {
+      "added_at": "2025-10-03 06:00:09",
+      "album": {
+        "name": "Hecho para ti",
+        "url": "https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        },
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 152734,
+      "name": "Hecho para ti",
+      "url": "https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o"
     },
     {
       "added_at": "2025-10-03 06:00:09",
@@ -907,26 +907,6 @@
     {
       "added_at": "2025-10-03 06:00:09",
       "album": {
-        "name": "La M\u00e1quina del Tiempo",
-        "url": "https://open.spotify.com/album/7KGcUnsY00SdDPuPr5vYP9"
-      },
-      "artists": [
-        {
-          "name": "Josi Cuen",
-          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
-        },
-        {
-          "name": "Jorge Medina",
-          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
-        }
-      ],
-      "duration_ms": 192998,
-      "name": "La M\u00e1quina del Tiempo",
-      "url": "https://open.spotify.com/track/0EXLXqvuCnE6hoPPxsVk3P"
-    },
-    {
-      "added_at": "2025-10-03 06:00:09",
-      "album": {
         "name": "La Tirana",
         "url": "https://open.spotify.com/album/3m4iMb2AizcRBHVi2YWZVp"
       },
@@ -947,22 +927,22 @@
     {
       "added_at": "2025-10-03 06:00:09",
       "album": {
-        "name": "El Chore",
-        "url": "https://open.spotify.com/album/4yyQAqJj38f5DD7BhZhCuh"
+        "name": "La M\u00e1quina del Tiempo",
+        "url": "https://open.spotify.com/album/7KGcUnsY00SdDPuPr5vYP9"
       },
       "artists": [
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
         },
         {
-          "name": "Gael Valenzuela",
-          "url": "https://open.spotify.com/artist/6MUhWuKMY0Wo0S12d7FAgh"
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
         }
       ],
-      "duration_ms": 170259,
-      "name": "El Chore",
-      "url": "https://open.spotify.com/track/2k35RlqbpIPZPAOjzME0ZL"
+      "duration_ms": 192998,
+      "name": "La M\u00e1quina del Tiempo",
+      "url": "https://open.spotify.com/track/0EXLXqvuCnE6hoPPxsVk3P"
     },
     {
       "added_at": "2025-10-03 06:00:09",
@@ -979,6 +959,26 @@
       "duration_ms": 278456,
       "name": "Campo De Fuerza",
       "url": "https://open.spotify.com/track/1m38lWWKzmJqykCVawumPP"
+    },
+    {
+      "added_at": "2025-10-03 06:00:09",
+      "album": {
+        "name": "El Chore",
+        "url": "https://open.spotify.com/album/4yyQAqJj38f5DD7BhZhCuh"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Gael Valenzuela",
+          "url": "https://open.spotify.com/artist/6MUhWuKMY0Wo0S12d7FAgh"
+        }
+      ],
+      "duration_ms": 170259,
+      "name": "El Chore",
+      "url": "https://open.spotify.com/track/2k35RlqbpIPZPAOjzME0ZL"
     },
     {
       "added_at": "2025-10-03 06:00:09",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-10-03 06:00:09",
       "album": {
-        "name": "Cada Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/3HklrN7N2hEhOlcDOWJAM9"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 201474,
-      "name": "Cada Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/4hxPUai4jc3r76nbnVR88c"
-    },
-    {
-      "added_at": "2025-10-03 06:00:09",
-      "album": {
         "name": "Rexsexex",
         "url": "https://open.spotify.com/album/0N75pJ0usO4zBt08Z5wSWj"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 252142,
       "name": "Rexsexex",
       "url": "https://open.spotify.com/track/4hof8Zyvn8QvkkCWt5HAY0"
+    },
+    {
+      "added_at": "2025-10-03 06:00:09",
+      "album": {
+        "name": "Cada Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/3HklrN7N2hEhOlcDOWJAM9"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 201474,
+      "name": "Cada Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4hxPUai4jc3r76nbnVR88c"
     },
     {
       "added_at": "2025-10-03 06:00:09",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-10-03 06:00:09",
       "album": {
-        "name": "Lo Que Construimos",
-        "url": "https://open.spotify.com/album/2maXmcI7gl4oZMzNQSlLUz"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 210541,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/7GlfNhJutjN1rhKwhR779E"
-    },
-    {
-      "added_at": "2025-10-03 06:00:09",
-      "album": {
         "name": "Lamine Yamal",
         "url": "https://open.spotify.com/album/7fmh1oNqZT1aIpUS5tie5J"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 163378,
       "name": "Lamine Yamal",
       "url": "https://open.spotify.com/track/4pN10u9cyHuPLGtWEc55gY"
+    },
+    {
+      "added_at": "2025-10-03 06:00:09",
+      "album": {
+        "name": "Lo Que Construimos",
+        "url": "https://open.spotify.com/album/2maXmcI7gl4oZMzNQSlLUz"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 210541,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/7GlfNhJutjN1rhKwhR779E"
     },
     {
       "added_at": "2025-10-03 06:00:09",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-10-03 06:00:09",
       "album": {
-        "name": "LA PEDA",
-        "url": "https://open.spotify.com/album/5Xt2TO0oHWLB37UmW59ZuW"
-      },
-      "artists": [
-        {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "LA PEDA",
-      "url": "https://open.spotify.com/track/4toD3IqqcuHWGl6bnNkM4s"
-    },
-    {
-      "added_at": "2025-10-03 06:00:09",
-      "album": {
         "name": "TRAVES\u00cdA",
         "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 216746,
       "name": "Que Emoci\u00f3n",
       "url": "https://open.spotify.com/track/4gEJMS993Cg13T1yWZVrKs"
+    },
+    {
+      "added_at": "2025-10-03 06:00:09",
+      "album": {
+        "name": "LA PEDA",
+        "url": "https://open.spotify.com/album/5Xt2TO0oHWLB37UmW59ZuW"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "LA PEDA",
+      "url": "https://open.spotify.com/track/4toD3IqqcuHWGl6bnNkM4s"
     },
     {
       "added_at": "2025-10-03 06:00:09",
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2025-10-03 06:00:09",
       "album": {
+        "name": "Las Cuentas",
+        "url": "https://open.spotify.com/album/0TIvuANOmxZzbDlojhslDI"
+      },
+      "artists": [
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        },
+        {
+          "name": "Lalote",
+          "url": "https://open.spotify.com/artist/7jFNq0U92GK6EFLZfLjS16"
+        }
+      ],
+      "duration_ms": 170454,
+      "name": "Las Cuentas",
+      "url": "https://open.spotify.com/track/0eFzp1ymrkEmYi7seDlaPZ"
+    },
+    {
+      "added_at": "2025-10-03 06:00:09",
+      "album": {
         "name": "\u00bfQu\u00e9 Fue Lo Que Me Diste?",
         "url": "https://open.spotify.com/album/2fJrm1oEbTww4VWJsob6zn"
       },
@@ -1367,26 +1387,6 @@
       "duration_ms": 206773,
       "name": "\u00bfQu\u00e9 Fue Lo Que Me Diste?",
       "url": "https://open.spotify.com/track/5NfKSbEf0ZT6wpGXivX5WK"
-    },
-    {
-      "added_at": "2025-10-03 06:00:09",
-      "album": {
-        "name": "Lowrider",
-        "url": "https://open.spotify.com/album/3u0JejXafw4ag9IF3gVBHf"
-      },
-      "artists": [
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 195851,
-      "name": "Lowrider",
-      "url": "https://open.spotify.com/track/4xI4rxSzH6pwBnoVZAIv9b"
     }
   ],
   "unique_name": "Top M\u00e9xico",

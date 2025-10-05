@@ -2,7 +2,7 @@
 
 ### [Top Brasil](https://open.spotify.com/playlist/37i9dQZF1DX0FOF1IUWK1W)
 
-> Matheus & Kauan com Ana Castela e os maiores hits do país\. O que tá bombando tá aqui.
+> Clayton & Romário com Zé Felipe e os maiores hits do país\. O que tá bombando tá aqui.
 
 641 songs - 1 day 7 hr 54 min
 

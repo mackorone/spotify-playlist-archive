@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 61377,
+  "num_followers": 61411,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAABoSZU6UIwFSnxlCUR3SHBx",
+  "snapshot_id": "aN8SAAAAAAB+ltf+l7NklnUCvWY26VT0",
   "tracks": [
     {
       "added_at": null,
@@ -79,6 +79,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos Pa Mis Compas Y Rolitas Pa Mi Ex",
+        "url": "https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 215751,
+      "name": "Si No Est\u00e1s",
+      "url": "https://open.spotify.com/track/23rsNGqAU6mBbUe4dEk8b9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ya No Vuelvas",
         "url": "https://open.spotify.com/album/0WrgUvsKQN66KimIcl0MaJ"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 213674,
       "name": "Ya No Vuelvas",
       "url": "https://open.spotify.com/track/1vhV61LBldZ7Wvg0eP9wLZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Pa Mis Compas Y Rolitas Pa Mi Ex",
-        "url": "https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 215751,
-      "name": "Si No Est\u00e1s",
-      "url": "https://open.spotify.com/track/23rsNGqAU6mBbUe4dEk8b9"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Aesthetic",
-        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 183920,
-      "name": "c\u00f3mo dormiste?",
-      "url": "https://open.spotify.com/track/2G2aZ724zW6qIgNtamYHGz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Pa Mis Compas Y Rolitas Pa Mi Ex",
         "url": "https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 170469,
       "name": "Marbella",
       "url": "https://open.spotify.com/track/3xmGmwtUM3tpsPArcYYAQ4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Aesthetic",
+        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 183920,
+      "name": "c\u00f3mo dormiste?",
+      "url": "https://open.spotify.com/track/2G2aZ724zW6qIgNtamYHGz"
     },
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Aesthetic",
-        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "Ojitos Lindos",
-      "url": "https://open.spotify.com/track/7BnMbXmqb42ZvaFCJeQNhE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serafin Zambada",
         "url": "https://open.spotify.com/album/4F2fbkwSDTWxX9s2ThmRCt"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 128933,
       "name": "Serafin Zambada",
       "url": "https://open.spotify.com/track/6xelfxDNolbBvTbpHMtNrs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Aesthetic",
+        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "Ojitos Lindos",
+      "url": "https://open.spotify.com/track/7BnMbXmqb42ZvaFCJeQNhE"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
       "duration_ms": 130368,
       "name": "Tus Red flags",
       "url": "https://open.spotify.com/track/0AJsXKUr5Zjtz1GXH34cOB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Aesthetic",
-        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 208413,
-      "name": "Malas Decisiones",
-      "url": "https://open.spotify.com/track/4RVbwkl3iBtvYCNSDWSPN7"
     },
     {
       "added_at": null,
@@ -351,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos Aesthetic",
+        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 208413,
+      "name": "Malas Decisiones",
+      "url": "https://open.spotify.com/track/4RVbwkl3iBtvYCNSDWSPN7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nacimos Con Estrella",
         "url": "https://open.spotify.com/album/2S0FbDrOTKRYbfTl462RV3"
       },
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Aesthetic",
-        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 193800,
-      "name": "La Invitaci\u00f3n",
-      "url": "https://open.spotify.com/track/2pao3nCEFbEz6E4xp6RfWi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Receta",
         "url": "https://open.spotify.com/album/7s65xoy6ILB4Tm640q3EhX"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 136416,
       "name": "La Receta",
       "url": "https://open.spotify.com/track/63r2czs5BFDV4lIzDA2YOc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Aesthetic",
+        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "La Invitaci\u00f3n",
+      "url": "https://open.spotify.com/track/2pao3nCEFbEz6E4xp6RfWi"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Aesthetic",
-        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 165213,
-      "name": "MIENTRAS ME CURO DEL CORA",
-      "url": "https://open.spotify.com/track/1SOpXCnJpfG7yO1cwX3OCt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Asombrerados",
         "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 167321,
       "name": "No Voy Con Rodeos",
       "url": "https://open.spotify.com/track/2V8YzvtchoXnYLXufC8Jtu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Aesthetic",
+        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 165213,
+      "name": "MIENTRAS ME CURO DEL CORA",
+      "url": "https://open.spotify.com/track/1SOpXCnJpfG7yO1cwX3OCt"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Pola",
-  "num_followers": 24211,
+  "num_followers": 24209,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2025-09-30 19:39:05",
       "album": {
+        "name": "KIKI",
+        "url": "https://open.spotify.com/album/3qDMTHKO39Gj3j4Qrspp6K"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "duration_ms": 141057,
+      "name": "KIKI",
+      "url": "https://open.spotify.com/track/1KRGigp3LmG6QdckYpH2cH"
+    },
+    {
+      "added_at": "2025-09-30 19:39:05",
+      "album": {
         "name": "Na dno",
         "url": "https://open.spotify.com/album/78fK0P2m4ktGeSPSbSX9bs"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 220840,
       "name": "Na dno",
       "url": "https://open.spotify.com/track/7dnUcwrc4eZkAAHfU4DxRS"
-    },
-    {
-      "added_at": "2025-09-30 19:39:05",
-      "album": {
-        "name": "KIKI",
-        "url": "https://open.spotify.com/album/3qDMTHKO39Gj3j4Qrspp6K"
-      },
-      "artists": [
-        {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
-        }
-      ],
-      "duration_ms": 141057,
-      "name": "KIKI",
-      "url": "https://open.spotify.com/track/1KRGigp3LmG6QdckYpH2cH"
     },
     {
       "added_at": "2025-09-30 19:39:05",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-09-30 19:39:05",
       "album": {
-        "name": "Lepsze dni",
-        "url": "https://open.spotify.com/album/4b98rZf8iYZ5lyux2knvGS"
-      },
-      "artists": [
-        {
-          "name": "Maciej Skiba",
-          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
-        }
-      ],
-      "duration_ms": 215842,
-      "name": "Lepsze dni",
-      "url": "https://open.spotify.com/track/3eS2Q7d7Pd8RG1B2eQ8cwA"
-    },
-    {
-      "added_at": "2025-09-30 19:39:05",
-      "album": {
         "name": "Je\u015bli ma si\u0119 sko\u0144czy\u0107 \u015bwiat",
         "url": "https://open.spotify.com/album/7KJsWMtM5jpPulsi70oFCj"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 217290,
       "name": "Bez Ciebie",
       "url": "https://open.spotify.com/track/5rxt70pNzx0BVSxFChifTI"
+    },
+    {
+      "added_at": "2025-09-30 19:39:05",
+      "album": {
+        "name": "Lepsze dni",
+        "url": "https://open.spotify.com/album/4b98rZf8iYZ5lyux2knvGS"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "duration_ms": 215842,
+      "name": "Lepsze dni",
+      "url": "https://open.spotify.com/track/3eS2Q7d7Pd8RG1B2eQ8cwA"
     },
     {
       "added_at": "2025-09-30 19:39:05",
@@ -703,18 +703,18 @@
     {
       "added_at": "2025-09-30 19:39:05",
       "album": {
-        "name": "Wiem co z nami b\u0119dzie",
-        "url": "https://open.spotify.com/album/0Na93OlcBPkgdXFS3Wrc7V"
+        "name": "Zabij",
+        "url": "https://open.spotify.com/album/03HyBfrhvD62En7PK1kEKx"
       },
       "artists": [
         {
-          "name": "Leon Krze\u015bniak",
-          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
+          "name": "Micha\u0142 Anio\u0142",
+          "url": "https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS"
         }
       ],
-      "duration_ms": 200268,
-      "name": "Wiem co z nami b\u0119dzie",
-      "url": "https://open.spotify.com/track/1Hcn4nkvEolgue5ZzkN4cj"
+      "duration_ms": 226438,
+      "name": "Zabij",
+      "url": "https://open.spotify.com/track/0t7yAsZITr3QU2jQOh7PkN"
     },
     {
       "added_at": "2025-09-30 19:39:05",
@@ -743,18 +743,34 @@
     {
       "added_at": "2025-09-30 19:39:05",
       "album": {
-        "name": "Zabij",
-        "url": "https://open.spotify.com/album/03HyBfrhvD62En7PK1kEKx"
+        "name": "Wiem co z nami b\u0119dzie",
+        "url": "https://open.spotify.com/album/0Na93OlcBPkgdXFS3Wrc7V"
       },
       "artists": [
         {
-          "name": "Micha\u0142 Anio\u0142",
-          "url": "https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS"
+          "name": "Leon Krze\u015bniak",
+          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
         }
       ],
-      "duration_ms": 226438,
-      "name": "Zabij",
-      "url": "https://open.spotify.com/track/0t7yAsZITr3QU2jQOh7PkN"
+      "duration_ms": 200268,
+      "name": "Wiem co z nami b\u0119dzie",
+      "url": "https://open.spotify.com/track/1Hcn4nkvEolgue5ZzkN4cj"
+    },
+    {
+      "added_at": "2025-09-30 19:39:05",
+      "album": {
+        "name": "Sedno",
+        "url": "https://open.spotify.com/album/7BdBHF7fDtd5OL5lPiAs75"
+      },
+      "artists": [
+        {
+          "name": "Felivers",
+          "url": "https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Sedno",
+      "url": "https://open.spotify.com/track/184h1j6ZZv26SmoKzv5uHD"
     },
     {
       "added_at": "2025-09-30 19:39:05",
@@ -775,22 +791,6 @@
       "duration_ms": 205375,
       "name": "Niby to wiem",
       "url": "https://open.spotify.com/track/1TGP53EWadwAcMCQDzUBL8"
-    },
-    {
-      "added_at": "2025-09-30 19:39:05",
-      "album": {
-        "name": "Sedno",
-        "url": "https://open.spotify.com/album/7BdBHF7fDtd5OL5lPiAs75"
-      },
-      "artists": [
-        {
-          "name": "Felivers",
-          "url": "https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Sedno",
-      "url": "https://open.spotify.com/track/184h1j6ZZv26SmoKzv5uHD"
     },
     {
       "added_at": "2025-09-30 19:39:05",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-09-30 19:39:05",
       "album": {
-        "name": "Bez siebie",
-        "url": "https://open.spotify.com/album/6zVUF3gjJuooEjHEQZy76p"
-      },
-      "artists": [
-        {
-          "name": "Ola Olszewska",
-          "url": "https://open.spotify.com/artist/1YyVozTrSIYYqKGNFzBa4b"
-        }
-      ],
-      "duration_ms": 178741,
-      "name": "Bez siebie",
-      "url": "https://open.spotify.com/track/7gHumEFAIMYc1VvkxfHLCW"
-    },
-    {
-      "added_at": "2025-09-30 19:39:05",
-      "album": {
         "name": "jest zlaa",
         "url": "https://open.spotify.com/album/02lSbMO1JWKo0qrW0lY6Vw"
       },
@@ -915,22 +899,6 @@
       "duration_ms": 144798,
       "name": "jest zlaa",
       "url": "https://open.spotify.com/track/7Bzy7wBqZ1YTIX7IW2DcUi"
-    },
-    {
-      "added_at": "2025-09-30 19:39:05",
-      "album": {
-        "name": "3 miesi\u0105ce",
-        "url": "https://open.spotify.com/album/1dxdAf7bnlWEepfGzghnDN"
-      },
-      "artists": [
-        {
-          "name": "Maja Krzy\u017cewska",
-          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
-        }
-      ],
-      "duration_ms": 172213,
-      "name": "3 miesi\u0105ce",
-      "url": "https://open.spotify.com/track/0iKPBfpv6Iy9swjYfAWXde"
     },
     {
       "added_at": "2025-09-30 19:39:05",
@@ -951,18 +919,34 @@
     {
       "added_at": "2025-09-30 19:39:05",
       "album": {
-        "name": "Rzeka",
-        "url": "https://open.spotify.com/album/3D3J5dpQAHrawx2KujS2ao"
+        "name": "3 miesi\u0105ce",
+        "url": "https://open.spotify.com/album/1dxdAf7bnlWEepfGzghnDN"
       },
       "artists": [
         {
-          "name": "Clayknot",
-          "url": "https://open.spotify.com/artist/3ZxpsVkaNjQbagCHapxVE7"
+          "name": "Maja Krzy\u017cewska",
+          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
         }
       ],
-      "duration_ms": 232733,
-      "name": "Rzeka",
-      "url": "https://open.spotify.com/track/7EI8yqG3nA8MvfUKGkTIwC"
+      "duration_ms": 172213,
+      "name": "3 miesi\u0105ce",
+      "url": "https://open.spotify.com/track/0iKPBfpv6Iy9swjYfAWXde"
+    },
+    {
+      "added_at": "2025-09-30 19:39:05",
+      "album": {
+        "name": "Bez siebie",
+        "url": "https://open.spotify.com/album/6zVUF3gjJuooEjHEQZy76p"
+      },
+      "artists": [
+        {
+          "name": "Ola Olszewska",
+          "url": "https://open.spotify.com/artist/1YyVozTrSIYYqKGNFzBa4b"
+        }
+      ],
+      "duration_ms": 178741,
+      "name": "Bez siebie",
+      "url": "https://open.spotify.com/track/7gHumEFAIMYc1VvkxfHLCW"
     },
     {
       "added_at": "2025-09-30 19:39:05",
@@ -983,6 +967,22 @@
       "duration_ms": 184390,
       "name": "A\u0142\u0142tobus",
       "url": "https://open.spotify.com/track/2z7xuv9dKI7ECJwMXREnyC"
+    },
+    {
+      "added_at": "2025-09-30 19:39:05",
+      "album": {
+        "name": "Rzeka",
+        "url": "https://open.spotify.com/album/3D3J5dpQAHrawx2KujS2ao"
+      },
+      "artists": [
+        {
+          "name": "Clayknot",
+          "url": "https://open.spotify.com/artist/3ZxpsVkaNjQbagCHapxVE7"
+        }
+      ],
+      "duration_ms": 232733,
+      "name": "Rzeka",
+      "url": "https://open.spotify.com/track/7EI8yqG3nA8MvfUKGkTIwC"
     },
     {
       "added_at": "2025-09-30 19:39:05",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2025-09-30 19:39:05",
       "album": {
+        "name": "Czas",
+        "url": "https://open.spotify.com/album/0W6CLUac2XfDjfURHOzF4V"
+      },
+      "artists": [
+        {
+          "name": "Filip Max",
+          "url": "https://open.spotify.com/artist/2Af5aejlBF2UrIn1xmPWJ5"
+        }
+      ],
+      "duration_ms": 126187,
+      "name": "Czas",
+      "url": "https://open.spotify.com/track/7qj1lu6yxDl5GTnSItuIdh"
+    },
+    {
+      "added_at": "2025-09-30 19:39:05",
+      "album": {
         "name": "BOOM",
         "url": "https://open.spotify.com/album/43o9D8UKbPHhcpLDBDTsZJ"
       },
@@ -1087,6 +1103,26 @@
     {
       "added_at": "2025-09-30 19:39:05",
       "album": {
+        "name": "Boisz si\u0119",
+        "url": "https://open.spotify.com/album/5O7WpfdyHWZiqzIVclkOwX"
+      },
+      "artists": [
+        {
+          "name": "Sad Smiles",
+          "url": "https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo"
+        },
+        {
+          "name": "Arek K\u0142usowski",
+          "url": "https://open.spotify.com/artist/34wHojIYy5Nrua9isD46O6"
+        }
+      ],
+      "duration_ms": 181052,
+      "name": "Boisz si\u0119",
+      "url": "https://open.spotify.com/track/5OPDVu8yGItlFz8BsVQkF4"
+    },
+    {
+      "added_at": "2025-09-30 19:39:05",
+      "album": {
         "name": "MAMY CZAS",
         "url": "https://open.spotify.com/album/2UNYyT3D4fSiWT8H5er3uH"
       },
@@ -1103,38 +1139,6 @@
       "duration_ms": 225680,
       "name": "MAMY CZAS",
       "url": "https://open.spotify.com/track/158kRJZfrHHbL7LXT6UlSh"
-    },
-    {
-      "added_at": "2025-09-30 19:39:05",
-      "album": {
-        "name": "Czas",
-        "url": "https://open.spotify.com/album/0W6CLUac2XfDjfURHOzF4V"
-      },
-      "artists": [
-        {
-          "name": "Filip Max",
-          "url": "https://open.spotify.com/artist/2Af5aejlBF2UrIn1xmPWJ5"
-        }
-      ],
-      "duration_ms": 126187,
-      "name": "Czas",
-      "url": "https://open.spotify.com/track/7qj1lu6yxDl5GTnSItuIdh"
-    },
-    {
-      "added_at": "2025-09-30 19:39:05",
-      "album": {
-        "name": "ernest",
-        "url": "https://open.spotify.com/album/4Q9f6v9fVFZz8MyNgIFozL"
-      },
-      "artists": [
-        {
-          "name": "zofia justy\u0144ska",
-          "url": "https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4"
-        }
-      ],
-      "duration_ms": 263500,
-      "name": "ernest",
-      "url": "https://open.spotify.com/track/4N283rSr7iWXEzdUJE2VRI"
     }
   ],
   "unique_name": "up next",

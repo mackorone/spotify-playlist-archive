@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Malcolm VL, Mc Luanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,779 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,751 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Carta do Baralho](https://open.spotify.com/track/3Ab10F9gj4O6i30HZR0KqI) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [MC Luanna](https://open.spotify.com/artist/2aekAfiJhZGSD7x9aY5aK1) | [Pé no Chão, Mente Nas Nuvens](https://open.spotify.com/album/5v6XzcP1918N7PWrMfUett) | 3:25 |
+| 1 | [Carta do Baralho](https://open.spotify.com/track/3Ab10F9gj4O6i30HZR0KqI) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Pé no Chão, Mente Nas Nuvens](https://open.spotify.com/album/5v6XzcP1918N7PWrMfUett) | 3:25 |
 | 2 | [Fora dos Stories](https://open.spotify.com/track/32zgV5lO8UWt8yDDznWt0f) | [Spvic](https://open.spotify.com/artist/446NPc9EAgsxmeoj3YzXAs), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Fora dos Stories](https://open.spotify.com/album/7FD7Iqeob3Csq0PsgGt773) | 2:21 |
 | 3 | [Homens de Negócio](https://open.spotify.com/track/2vfACVbjl5dptW2BWlo5Fk) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Baratapai](https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY) | [Homens de Negócio](https://open.spotify.com/album/6C2TmhVZ83ZGOZzvcKG7UH) | 2:42 |
 | 4 | [Perfil \#124 Billboard](https://open.spotify.com/track/0pfljDWXvhevjHEk6T8rWj) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Perfil \#124 Billboard](https://open.spotify.com/album/3WDdKr2jQVWhGGsTIpBtEj) | 2:33 |

@@ -1,6 +1,6 @@
 {
   "description": "Voices that are elevating nuestra cultura. Cuco en portada. ",
-  "num_followers": 1704,
+  "num_followers": 1723,
   "original_name": "Our Voice",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2025-09-25 15:20:09",
       "album": {
+        "name": "MEMORIAS",
+        "url": "https://open.spotify.com/album/0eRHa55sMmGpWTDXfLZgPf"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 215250,
+      "name": "Un Inmigrante",
+      "url": "https://open.spotify.com/track/607cPRztqRtxABpHZwJYDB"
+    },
+    {
+      "added_at": "2025-09-25 15:20:09",
+      "album": {
         "name": "DIAMANTE",
         "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 152343,
       "name": "Parcera",
       "url": "https://open.spotify.com/track/1qAr6nhNzHFiPjUWKYRv0z"
-    },
-    {
-      "added_at": "2025-09-25 15:20:09",
-      "album": {
-        "name": "MEMORIAS",
-        "url": "https://open.spotify.com/album/0eRHa55sMmGpWTDXfLZgPf"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 215250,
-      "name": "Un Inmigrante",
-      "url": "https://open.spotify.com/track/607cPRztqRtxABpHZwJYDB"
     },
     {
       "added_at": "2025-09-25 15:20:09",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-09-25 15:20:09",
       "album": {
-        "name": "Me Tienes Loco",
-        "url": "https://open.spotify.com/album/28TWokIxsQlhoKq2VMiPt3"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Me Tienes Loco",
-      "url": "https://open.spotify.com/track/1FNsJI6T9CdKYkAjTzLaiB"
-    },
-    {
-      "added_at": "2025-09-25 15:20:09",
-      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 193600,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp"
+    },
+    {
+      "added_at": "2025-09-25 15:20:09",
+      "album": {
+        "name": "Me Tienes Loco",
+        "url": "https://open.spotify.com/album/28TWokIxsQlhoKq2VMiPt3"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Me Tienes Loco",
+      "url": "https://open.spotify.com/track/1FNsJI6T9CdKYkAjTzLaiB"
     },
     {
       "added_at": "2025-09-25 15:20:09",
@@ -663,6 +663,22 @@
     {
       "added_at": "2025-09-25 15:20:09",
       "album": {
+        "name": "No Me Importa",
+        "url": "https://open.spotify.com/album/4BsrrIsCrOVGmIzGYHTWEd"
+      },
+      "artists": [
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        }
+      ],
+      "duration_ms": 186339,
+      "name": "\u00bfQui\u00e9n de Ustedes?",
+      "url": "https://open.spotify.com/track/0uZDAWitKcqqtq5nUcXn1w"
+    },
+    {
+      "added_at": "2025-09-25 15:20:09",
+      "album": {
         "name": "la emoci\u00f3n",
         "url": "https://open.spotify.com/album/3w7IrS4d416CR2xUw2WB5N"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 193097,
       "name": "la emoci\u00f3n",
       "url": "https://open.spotify.com/track/12bAZeBar4BQC2FNL9H9XA"
-    },
-    {
-      "added_at": "2025-09-25 15:20:09",
-      "album": {
-        "name": "cuando t\u00fa me besas",
-        "url": "https://open.spotify.com/album/2QtFMf82Oxhy77QWX6xVgr"
-      },
-      "artists": [
-        {
-          "name": "Luna Luna",
-          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
-        }
-      ],
-      "duration_ms": 152148,
-      "name": "cuando t\u00fa me besas",
-      "url": "https://open.spotify.com/track/1iSwx9InMi6I6SKIWANKKv"
     },
     {
       "added_at": "2025-09-25 15:20:09",
@@ -715,18 +715,18 @@
     {
       "added_at": "2025-09-25 15:20:09",
       "album": {
-        "name": "No Me Importa",
-        "url": "https://open.spotify.com/album/4BsrrIsCrOVGmIzGYHTWEd"
+        "name": "cuando t\u00fa me besas",
+        "url": "https://open.spotify.com/album/2QtFMf82Oxhy77QWX6xVgr"
       },
       "artists": [
         {
-          "name": "Ralphy Dreamz",
-          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+          "name": "Luna Luna",
+          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
         }
       ],
-      "duration_ms": 186339,
-      "name": "\u00bfQui\u00e9n de Ustedes?",
-      "url": "https://open.spotify.com/track/0uZDAWitKcqqtq5nUcXn1w"
+      "duration_ms": 152148,
+      "name": "cuando t\u00fa me besas",
+      "url": "https://open.spotify.com/track/1iSwx9InMi6I6SKIWANKKv"
     },
     {
       "added_at": "2025-09-25 15:20:09",

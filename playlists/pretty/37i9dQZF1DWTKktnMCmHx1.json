@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-12-06 12:53:49",
       "album": {
+        "name": "Gully (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3AXV4OJLUI7v9MQ3w8wzaN"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 192203,
+      "name": "BETRAYED",
+      "url": "https://open.spotify.com/track/5sxq1iFhvcqSbS86Cws8aj"
+    },
+    {
+      "added_at": "2024-12-06 12:53:49",
+      "album": {
         "name": "ELO",
         "url": "https://open.spotify.com/album/0vp8LbPMJ0tAlqz2wjWRJa"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 220896,
       "name": "ELEGANTE (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/7qADAhkEs9vv3ll4hP8ybC"
-    },
-    {
-      "added_at": "2024-12-06 12:53:49",
-      "album": {
-        "name": "Gully (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3AXV4OJLUI7v9MQ3w8wzaN"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 192203,
-      "name": "BETRAYED",
-      "url": "https://open.spotify.com/track/5sxq1iFhvcqSbS86Cws8aj"
     },
     {
       "added_at": "2024-12-06 12:53:49",
@@ -1555,26 +1555,22 @@
     {
       "added_at": "2024-12-06 12:53:49",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/11T8pkk7VAT7LeoReyY7B7"
+        "name": "J",
+        "url": "https://open.spotify.com/album/4vCqEvwOICd6NwnsuhWzUO"
       },
       "artists": [
         {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
         },
         {
-          "name": "Jake La Furia",
-          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
-        },
-        {
-          "name": "Massimo Pericolo",
-          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
         }
       ],
-      "duration_ms": 210960,
-      "name": "L'ultima volta - feat. Massimo Pericolo",
-      "url": "https://open.spotify.com/track/3rOw9WmYFCRLHTRcbOjhUl"
+      "duration_ms": 208233,
+      "name": "SLIME (feat. Rondodasosa)",
+      "url": "https://open.spotify.com/track/13Iu4OXlnP5vUQ0rgXR6e3"
     }
   ],
   "unique_name": "GOOD GAME",

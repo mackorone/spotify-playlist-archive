@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Taylor Swift, Charlotte Cardin x SCH et Damso x Blynk au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,114 likes - 97 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,089 likes - 97 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 61 | [Haute tension](https://open.spotify.com/track/52q7ihcRczvaS2iuioWeyX) | [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [Haute tension](https://open.spotify.com/album/71udV9OoS8nLeqtJezA6tt) | 2:18 |
 | 62 | [Back to Blue](https://open.spotify.com/track/2AFXIwrUX3226xeydJ5fg0) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Valentino Indy](https://open.spotify.com/artist/5zMBjWdfMwhZp28FMj5G9n), [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Back to Blue](https://open.spotify.com/album/30SupnOykTnR6sinOFP8vm) | 2:12 |
 | 63 | [Between The Lines](https://open.spotify.com/track/4rdLw7tBQqrGzVUUHUNnDL) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Between The Lines](https://open.spotify.com/album/5EsFwgZD9YvfVRJ0KCDOlj) | 3:52 |
-| 64 | [Lovecats](https://open.spotify.com/track/12CHo5hf8f6bgVBRE0ZgCx) | [Birds on a Wire](https://open.spotify.com/artist/3GKGEnbmQnaTNGJL6ZGryj), [Rosemary Standley](https://open.spotify.com/artist/57v02RSRJzcY5WiYQ5yPCl), [Dom La Nena](https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY) | [Nuées ardentes](https://open.spotify.com/album/5ZRsOZR0ZkhT23NDQJq1c3) | 3:17 |
+| 64 | [The Lovecats](https://open.spotify.com/track/12CHo5hf8f6bgVBRE0ZgCx) | [Birds on a Wire](https://open.spotify.com/artist/3GKGEnbmQnaTNGJL6ZGryj), [Rosemary Standley](https://open.spotify.com/artist/57v02RSRJzcY5WiYQ5yPCl), [Dom La Nena](https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY) | [Nuées ardentes](https://open.spotify.com/album/5ZRsOZR0ZkhT23NDQJq1c3) | 3:17 |
 | 65 | [Miroir, miroir](https://open.spotify.com/track/563U66K5UYFjAZtG4r7bkY) | [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [Miroir, miroir](https://open.spotify.com/album/40z60XH9p7t5iAypEZbIKE) | 3:11 |
 | 66 | [Banksy](https://open.spotify.com/track/625rfimZqqMEVrKKNlCgti) | [RandJess](https://open.spotify.com/artist/6jZCC4zK2doZjBdXJhaRPJ) | [Banksy](https://open.spotify.com/album/26Ltzr2I3pL8vuhqVmzIng) | 2:29 |
 | 67 | [Something That I Can't Forget](https://open.spotify.com/track/3Ea73OugiZpZ2vkuUVAw3l) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Fight Another Day](https://open.spotify.com/album/1fJwJU0qxtEcHmYDwulQvj) | 3:49 |

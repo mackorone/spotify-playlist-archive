@@ -1,6 +1,6 @@
 {
   "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Taylor Swift, YOASOBI, Kali Uchis, \u30de\u30ab\u30ed\u30cb\u3048\u3093\u3074\u3064, yama, Jason Derulo,  and more!\n",
-  "num_followers": 140158,
+  "num_followers": 140175,
   "original_name": "New Music Friday Japan",
   "owner": {
     "name": "Spotify",
@@ -9,7 +9,23 @@
   "snapshot_id": "AAAAAM2S2NSnQ8wqE0gkDbtfo549Tzz+",
   "tracks": [
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+    },
+    {
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "\u5287\u4e0a",
         "url": "https://open.spotify.com/album/2u1jyTGzYhnMNy495lVx8G"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/3BFx3IfjwIaUr0W5Bl1LED"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "GOOD DAY",
         "url": "https://open.spotify.com/album/4TfNFjBYQEGxAdnWaXpbDv"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/61UOoqGI1B9qdeD5Dzupyb"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Sincerely: P.S.",
         "url": "https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Solace & The Vices",
         "url": "https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n"
@@ -77,7 +93,27 @@
       "url": "https://open.spotify.com/track/6g8YoqKjS1OqW0MXo1DyeL"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 241766,
+      "name": "The Life of a Showgirl (feat. Sabrina Carpenter)",
+      "url": "https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex"
+    },
+    {
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "\u5316\u3051\u7269",
         "url": "https://open.spotify.com/album/4J7pgtevvLL5ckPVAWIVmr"
@@ -93,7 +129,7 @@
       "url": "https://open.spotify.com/track/2E2vLhJXZPFEsy83jhqU7s"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "\u30a2\u30c0\u30eb\u30c8\u30c1\u30c3\u30af\u30c1\u30eb\u30c9\u30ec\u30f3",
         "url": "https://open.spotify.com/album/7yTWJUaWIAU0ERYbbTZXwr"
@@ -109,7 +145,7 @@
       "url": "https://open.spotify.com/track/4szCibdelqTfe8XzGlBT8u"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "you're a star",
         "url": "https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ"
@@ -129,7 +165,7 @@
       "url": "https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "LOST IN HEAVEN (HIGH AS HELL) [Deluxe]",
         "url": "https://open.spotify.com/album/6rcnUgf07ihw83jjuaCXfR"
@@ -145,7 +181,7 @@
       "url": "https://open.spotify.com/track/7GVpcXnj4dq0ozhiPKwWPm"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "RIP",
         "url": "https://open.spotify.com/album/2g2DrGWizKKb5wIA1FnUW5"
@@ -161,7 +197,7 @@
       "url": "https://open.spotify.com/track/2WBKIq4LHfxg29Uo1R2arA"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Who Hurt You",
         "url": "https://open.spotify.com/album/2G9g3RbcQttElEjwPMgzvJ"
@@ -177,7 +213,7 @@
       "url": "https://open.spotify.com/track/55ZGQCR6if6r6pPaHm3eyY"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "\u30c0\u30a4\u30a2\u30ea\u30fc",
         "url": "https://open.spotify.com/album/7ISMep3bRygs9hXyl1digu"
@@ -193,7 +229,7 @@
       "url": "https://open.spotify.com/track/5Gnig5J8kZVohlZyLql4Mh"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "\u3082\u3057\u3082\u306e\u304c\u305f\u308a",
         "url": "https://open.spotify.com/album/5yM6PFNuNz0LqB8Tq6NFi2"
@@ -209,7 +245,7 @@
       "url": "https://open.spotify.com/track/1wLrBCgGJcK5PNm0slZey9"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Blue Sky Mentality",
         "url": "https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd"
@@ -225,7 +261,7 @@
       "url": "https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "lost",
         "url": "https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp"
@@ -241,7 +277,7 @@
       "url": "https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Minute by Minute",
         "url": "https://open.spotify.com/album/1EOHONbGxrD6rWLlT8gtAL"
@@ -257,7 +293,7 @@
       "url": "https://open.spotify.com/track/6nr3yPFVSNPdSOP2Idgl1Q"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "1, 2, Play / Left & Right",
         "url": "https://open.spotify.com/album/1VhfknXFuQCoAqZZu6Mvtq"
@@ -273,7 +309,7 @@
       "url": "https://open.spotify.com/track/3eo7iY4K5jsKjPZkHhgiwd"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Gtg",
         "url": "https://open.spotify.com/album/0E7kv5bWhxRpjSv6gy5Z4T"
@@ -293,7 +329,7 @@
       "url": "https://open.spotify.com/track/29SLKg5p3n89krHVS3mrn1"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Stellar Days",
         "url": "https://open.spotify.com/album/1pDRQrG8cWQttO5fEVXHBU"
@@ -309,7 +345,7 @@
       "url": "https://open.spotify.com/track/56R6MDNhB1lOt4TpPygUoq"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "EXchange4, Pt. 1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2I17RyVqyk6yJgj3SF4T0T"
@@ -325,7 +361,7 @@
       "url": "https://open.spotify.com/track/1VXv0ltyTJWcRltuEf5Qin"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "CxM 1st Mini Album \u2018HYPE VIBES\u2019",
         "url": "https://open.spotify.com/album/4PxPsw7YFuzBaJZ3dHUV55"
@@ -345,7 +381,7 @@
       "url": "https://open.spotify.com/track/4eTDkRxOmm4llv4Yr1bteq"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "LA NOCHE",
         "url": "https://open.spotify.com/album/3iBDg8qZiUWJy0kiZHI3Cv"
@@ -369,7 +405,7 @@
       "url": "https://open.spotify.com/track/5vu69csqeUJheoQWPd2MoM"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/0Ep3CUwcbfWRyKLiTWvEKk"
@@ -393,7 +429,7 @@
       "url": "https://open.spotify.com/track/15aqhgN9LLd7TvuF367e57"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Wet Like (feat. COBRAH)",
         "url": "https://open.spotify.com/album/0Hz2N9IKHo9fuTNpTC7AI9"
@@ -413,7 +449,23 @@
       "url": "https://open.spotify.com/track/4s3MvOa2k4mwlIgH6mcfcZ"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235355,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3euZKF0hmGxQ6h2JHHY4iu"
+    },
+    {
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Second Best",
         "url": "https://open.spotify.com/album/6wuwiiAyhdR1B8fuW7Entm"
@@ -429,7 +481,7 @@
       "url": "https://open.spotify.com/track/3maVS3WFsYND7s97LJQnzF"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "\u00e7a pik un peu quand m\u00eame",
         "url": "https://open.spotify.com/album/5iYukIto4dPaIxDVzgiq2p"
@@ -445,7 +497,7 @@
       "url": "https://open.spotify.com/track/5pbOI0KItebrpL6UeQKs7A"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Itsumo",
         "url": "https://open.spotify.com/album/2oJB4zFLkIGgcV2Qk2jsL5"
@@ -461,7 +513,7 @@
       "url": "https://open.spotify.com/track/0l0lvQPjHQWXEnG187eyWw"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Thick Skin",
         "url": "https://open.spotify.com/album/6ykkVXarEYsrH8G56v1FRI"
@@ -477,7 +529,7 @@
       "url": "https://open.spotify.com/track/4wPS8JGKj8iNV8zNrmwtam"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Underwater",
         "url": "https://open.spotify.com/album/5rAiMWvgPhR5n1qvJbAGV4"
@@ -493,7 +545,7 @@
       "url": "https://open.spotify.com/track/2WzgNSY8AQBDCwoyMHWl6O"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "mood swings",
         "url": "https://open.spotify.com/album/49ohZcxcWzI8nefBcfe9Bt"
@@ -509,7 +561,7 @@
       "url": "https://open.spotify.com/track/2wVmMB3NBNbOuPIJfe5KK0"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "superstar",
         "url": "https://open.spotify.com/album/2r7vK3RnYfofnAkMruYhSI"
@@ -525,7 +577,7 @@
       "url": "https://open.spotify.com/track/4hFt3Ht6b9OLsesqx51aq1"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "i-dle",
         "url": "https://open.spotify.com/album/4mtGRfKXk5EHEem5Z1g9CI"
@@ -541,7 +593,7 @@
       "url": "https://open.spotify.com/track/1JCKwBr7XDfh1tvzAtd4hw"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "First Luv",
         "url": "https://open.spotify.com/album/6hR079yVpoqUG4sOswANT4"
@@ -557,7 +609,7 @@
       "url": "https://open.spotify.com/track/0qHbCeNAPB7EaKxWiyaAMP"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "DO ME",
         "url": "https://open.spotify.com/album/2AQZZ8WJyEwiWO8IH8d2bJ"
@@ -577,7 +629,7 @@
       "url": "https://open.spotify.com/track/4RjMBDzADxE6bidCWQimD3"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Aye Girl",
         "url": "https://open.spotify.com/album/3g6e5ZEnl1YUFsQE3pI4YL"
@@ -593,7 +645,7 @@
       "url": "https://open.spotify.com/track/5AtuctYcoqwtmqrgEFIYH9"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Act Like You Know",
         "url": "https://open.spotify.com/album/79g6lh7jLIAAorMCSKUXCI"
@@ -613,7 +665,7 @@
       "url": "https://open.spotify.com/track/6YKZThWeKwTze24UqcCw3T"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "gigolo",
         "url": "https://open.spotify.com/album/58Xf2l1m7iWhfwoRjx75C0"
@@ -629,7 +681,7 @@
       "url": "https://open.spotify.com/track/6DYul32gElizGgTrtRYrNY"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/5Bhe2wkVUz1nOjPp2L80t9"
@@ -653,7 +705,7 @@
       "url": "https://open.spotify.com/track/43Gw9Yd4mYtpJ1AHFA00oY"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Just How You Are",
         "url": "https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw"
@@ -669,7 +721,7 @@
       "url": "https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Dancing in the Smoke (From the Netflix Series \"Nobody Wants This\" Season 2)",
         "url": "https://open.spotify.com/album/1PVCrr31njtNL2Hj4x9GSK"
@@ -685,7 +737,7 @@
       "url": "https://open.spotify.com/track/4IMtvPPuBjtkWoMqlOwqYL"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Disarray",
         "url": "https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW"
@@ -701,7 +753,7 @@
       "url": "https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Roulette",
         "url": "https://open.spotify.com/album/3ri9BvsRSttcqo5i4ofKME"
@@ -721,7 +773,7 @@
       "url": "https://open.spotify.com/track/58SELDL70hm66Oy4fwzBFM"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "THE FALL",
         "url": "https://open.spotify.com/album/1QgFO7rwG1CZafxysAP6zP"
@@ -745,7 +797,7 @@
       "url": "https://open.spotify.com/track/26Zg7dZQtAMYIpEHD3SYci"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "News",
         "url": "https://open.spotify.com/album/3pXZd0WkaZDJ4Hq2ILWNnb"
@@ -761,7 +813,7 @@
       "url": "https://open.spotify.com/track/3W5gASBQIeEyhkVLNpuK6n"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Fascination in the Dark",
         "url": "https://open.spotify.com/album/20D40h9RReCMF4oQGqNtUG"
@@ -777,7 +829,7 @@
       "url": "https://open.spotify.com/track/1DsQhvmPkeqD0oTNPkV9XV"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "ACTION",
         "url": "https://open.spotify.com/album/5fG9xJaE05G3ffjqhXSXTt"
@@ -793,7 +845,7 @@
       "url": "https://open.spotify.com/track/0Al26AUvUaOkySrlXeklV2"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "\u3044\u306e\u3061\u306e\u30d1\u30ec\u30f1\u30c9",
         "url": "https://open.spotify.com/album/1rVMxPiU2H6GVFLEmZV695"
@@ -809,7 +861,7 @@
       "url": "https://open.spotify.com/track/0IerodT2kkmffBh02FflGJ"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "NIJITO",
         "url": "https://open.spotify.com/album/2SClyIttdHixmVyFi8EhUB"
@@ -829,7 +881,7 @@
       "url": "https://open.spotify.com/track/21nildKUIIDIcofFk4a5Yk"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "What's for dinner today?",
         "url": "https://open.spotify.com/album/7gfEUykZUfEDznPHXr3gxF"
@@ -845,7 +897,7 @@
       "url": "https://open.spotify.com/track/4NKJxYKXxlAhJqQRNdl43e"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "The Prequel",
         "url": "https://open.spotify.com/album/40xQAz7RDjeznOtTYeEMLs"
@@ -861,7 +913,7 @@
       "url": "https://open.spotify.com/track/5E2y5TSb2RJNCO01QjkgLf"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "No Ends No Beginnings EP",
         "url": "https://open.spotify.com/album/0B0Wk2YO00pFe0ez3ixarQ"
@@ -885,7 +937,7 @@
       "url": "https://open.spotify.com/track/19F7oro1COubiVCRhLeErS"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Living",
         "url": "https://open.spotify.com/album/3C4N0csezUXLqo5aEsR4Ae"
@@ -901,7 +953,7 @@
       "url": "https://open.spotify.com/track/41RCdAt1hvIfBOg5gsdCdz"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "l.o.v.e",
         "url": "https://open.spotify.com/album/4BNdRv5U4sQ0Zr3WiYwXCL"
@@ -917,7 +969,7 @@
       "url": "https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/5AhpPhcDT7sy2LysHHSE31"
@@ -933,7 +985,7 @@
       "url": "https://open.spotify.com/track/01nrOV8yvpLXi7IXGJpnnk"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "What's On Your Mind",
         "url": "https://open.spotify.com/album/1e03yQdw0r4dKmmZ49owsh"
@@ -949,7 +1001,7 @@
       "url": "https://open.spotify.com/track/1DEJKx9IYnTMiEe1mEj9H0"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "FACES",
         "url": "https://open.spotify.com/album/738E0JdQ5M2HNEVljWZmLE"
@@ -965,7 +1017,7 @@
       "url": "https://open.spotify.com/track/5fmNsEdbraFS9leqbsBvbQ"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Nasty Star",
         "url": "https://open.spotify.com/album/6nSWbKT7Hp2UPipVWivxro"
@@ -981,7 +1033,7 @@
       "url": "https://open.spotify.com/track/0z1ALQCFtIwVw4ge6eYLYi"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Ostentatious",
         "url": "https://open.spotify.com/album/0Y0OQfgW9cFQHrKpZvicX2"
@@ -1005,7 +1057,7 @@
       "url": "https://open.spotify.com/track/0buN3nIjGOmj2boRh7zNrz"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Azimuth",
         "url": "https://open.spotify.com/album/1slnJE8ptgpAnNMyE83rcg"
@@ -1025,7 +1077,7 @@
       "url": "https://open.spotify.com/track/5eLQyZ8kZKFRukO1mIAXKQ"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Where Do We Go",
         "url": "https://open.spotify.com/album/377QxEPZ8i3ayUMR7ULx39"
@@ -1049,7 +1101,7 @@
       "url": "https://open.spotify.com/track/6kJb1Y3iy2wfJW2iSp3mXQ"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "XTC",
         "url": "https://open.spotify.com/album/0dSAfRmTB8timCZ1XmPpnj"
@@ -1069,7 +1121,23 @@
       "url": "https://open.spotify.com/track/4BZDFSkvQHfvM1MoWbCLSR"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
+      "album": {
+        "name": "Archangel",
+        "url": "https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "duration_ms": 281500,
+      "name": "Man With a Second Face",
+      "url": "https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO"
+    },
+    {
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Substance",
         "url": "https://open.spotify.com/album/42Qb9hUm8vloTMDTU1Sf9L"
@@ -1085,7 +1153,7 @@
       "url": "https://open.spotify.com/track/0IvrXoiEersp0bPYwCEMNC"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "The Nightlife",
         "url": "https://open.spotify.com/album/7xsxQvOjSUDv7G3RvnA1rl"
@@ -1105,7 +1173,7 @@
       "url": "https://open.spotify.com/track/3yS2HZtVQyt81BvC8KnBEa"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "ENDER",
         "url": "https://open.spotify.com/album/1tDnsQ4qohcSZAikateDZR"
@@ -1121,7 +1189,7 @@
       "url": "https://open.spotify.com/track/2FMwLbed4YtLgB8MwfbSJ6"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "AMIDAKUJI",
         "url": "https://open.spotify.com/album/01N8DUL76wPallB8y3Eu3J"
@@ -1137,7 +1205,7 @@
       "url": "https://open.spotify.com/track/6pcml9vUg6BFdhmot9sE6P"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "DON'T CRY",
         "url": "https://open.spotify.com/album/4SiMYzU58qTSOCDxo9dfRG"
@@ -1157,7 +1225,7 @@
       "url": "https://open.spotify.com/track/72V9hq7ofiWKjDtBujqPwj"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/5qbWcmomWqrrCRxdXydX9g"
@@ -1173,7 +1241,7 @@
       "url": "https://open.spotify.com/track/5wW92RgvtGIsbmX6CUlLHy"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Where Would I Be?",
         "url": "https://open.spotify.com/album/472yPc1YwUpA2EAC03zz7m"
@@ -1193,7 +1261,7 @@
       "url": "https://open.spotify.com/track/3jk05snyjj8EDA5OGTGehL"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Live Like This",
         "url": "https://open.spotify.com/album/1tFehtNiE6SP9KrSnbQWJw"
@@ -1209,7 +1277,7 @@
       "url": "https://open.spotify.com/track/00y1Q0oLxWi9u030HFrDQ6"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "hell yeah",
         "url": "https://open.spotify.com/album/6TNlUPcIFatT0tCQCSIzr2"
@@ -1225,7 +1293,7 @@
       "url": "https://open.spotify.com/track/39l0nOZmVMEq6KGXnAsPkQ"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Cut & Rewind",
         "url": "https://open.spotify.com/album/7hFUCq6uO0DeJg3Ns7ik2T"
@@ -1241,7 +1309,7 @@
       "url": "https://open.spotify.com/track/3KZfBcqpUeeG5pLj39WI69"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Dearly Missed",
         "url": "https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS"
@@ -1257,7 +1325,7 @@
       "url": "https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "X\u2019s For Eyes",
         "url": "https://open.spotify.com/album/2W4xgzMCme2M6yGeLFTCTi"
@@ -1273,7 +1341,7 @@
       "url": "https://open.spotify.com/track/1WbMj3nxjiPgx2UFsijV5r"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Cross Your Heart",
         "url": "https://open.spotify.com/album/5t4oHdZQYOc3ASJurLiJgM"
@@ -1289,7 +1357,7 @@
       "url": "https://open.spotify.com/track/2Dc7IQg5KhKGDCqrTIMsVA"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Flash and Core",
         "url": "https://open.spotify.com/album/6adDt7KDDnY7Kdtyazkr8N"
@@ -1305,7 +1373,7 @@
       "url": "https://open.spotify.com/track/322ZFlJ5zhErQhaOXnZ1di"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "In The Stars",
         "url": "https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ"
@@ -1321,7 +1389,7 @@
       "url": "https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "dog years",
         "url": "https://open.spotify.com/album/50mjtzsNGH18GWiE8DQljM"
@@ -1337,7 +1405,7 @@
       "url": "https://open.spotify.com/track/0RDZBIbznmPxiK8SNbZxug"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Earthday",
         "url": "https://open.spotify.com/album/5daBB3dy2KLzIOnZnG4mzm"
@@ -1353,7 +1421,7 @@
       "url": "https://open.spotify.com/track/0nHVBKax5stRHnSjA249t7"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "GEWAH Selects",
         "url": "https://open.spotify.com/album/1GQVGlJb4JL0nVoW4ptYht"
@@ -1373,7 +1441,7 @@
       "url": "https://open.spotify.com/track/4ZOdEGreqCzM2P3C9EE4AF"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Close",
         "url": "https://open.spotify.com/album/3gRdeYH5U1sjiAb9a2HRzY"
@@ -1389,7 +1457,7 @@
       "url": "https://open.spotify.com/track/0SxDq6CxA8IgkZIMsmUccI"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Blonde",
         "url": "https://open.spotify.com/album/6qEJ5fcIFbdHIUt0FUPhVE"
@@ -1405,7 +1473,7 @@
       "url": "https://open.spotify.com/track/44x7Asb4DU5s63216ympxY"
     },
     {
-      "added_at": "2025-10-02 15:00:24",
+      "added_at": "2025-10-03 04:01:00",
       "album": {
         "name": "Crawl",
         "url": "https://open.spotify.com/album/1nT6MhLCs9UHXmzxpkwZQw"

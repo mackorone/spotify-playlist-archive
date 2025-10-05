@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek: Taylor Swift, Pommelien Thijs, Kybba, Fred again.\. en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,834 likes - 96 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,832 likes - 96 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 89 | [ça pik un peu quand même](https://open.spotify.com/track/5pbOI0KItebrpL6UeQKs7A) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [ça pik un peu quand même](https://open.spotify.com/album/5iYukIto4dPaIxDVzgiq2p) | 2:17 |
 | 90 | [The Coward Forgets His Nightmare](https://open.spotify.com/track/4x6ZZ97Ze9K8IoaHFkxJWb) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [The Coward Forgets His Nightmare](https://open.spotify.com/album/792UORpgms3EOVSbVtSD0A) | 3:32 |
 | 91 | [Leave](https://open.spotify.com/track/0MpeNghv46333R1MeoSRFk) | [Tom Smith](https://open.spotify.com/artist/5nw0YnxEyqweUJ4Piu9TWM) | [Leave](https://open.spotify.com/album/7dL2vrFcuNoxG44CqOkWJh) | 3:39 |
-| 92 | [The Best Is Yet To Come](https://open.spotify.com/track/7nxdRCgAEg9aHL7ePzYsaO) | [Lois Lane](https://open.spotify.com/artist/6XtqgoAYl2mXQhn9ZmDEdt) | [Ready To Move](https://open.spotify.com/album/5uYVSOQ1YHHYsRtWi2lHcq) | 3:37 |
+| 92 | [The Best Is Yet To Come](https://open.spotify.com/track/7nxdRCgAEg9aHL7ePzYsaO) | [Lois Lane](https://open.spotify.com/artist/6XtqgoAYl2mXQhn9ZmDEdt) | [Ready To Move](https://open.spotify.com/album/5uYVSOQ1YHHYsRtWi2lHcq) | 3:30 |
 | 93 | [hell yeah](https://open.spotify.com/track/39l0nOZmVMEq6KGXnAsPkQ) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [hell yeah](https://open.spotify.com/album/6TNlUPcIFatT0tCQCSIzr2) | 2:53 |
 | 94 | [GODSPEED \(feat\. Bnnyhunna\)](https://open.spotify.com/track/7E7p8WNzhxaf3KKR3X8CKk) | [QUANZA](https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy), [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [GODSPEED \(feat\. Bnnyhunna\)](https://open.spotify.com/album/5TXFOOyKn1U79BRipgjurq) | 3:54 |
 | 95 | [Geschichten aus dem Wienerwald](https://open.spotify.com/track/7pJ6bW5w3c8pnSVoZxaYBO) | [Johann Strauss II](https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM), [André Rieu](https://open.spotify.com/artist/3hJv5p2HwekJysNB2NDnEC), [Johann Strauss Orchestra](https://open.spotify.com/artist/51HxUAjeZIOv4aniusaDkT) | [G’schichten aus dem Wienerwald](https://open.spotify.com/album/1MtUR60qORGwKBQEeu8wSJ) | 8:36 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: Young Thug
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,258,568 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,258,590 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 55 | [Forbes List](https://open.spotify.com/track/2uFGXKcPCmtUUuVytPHyxQ) | [Hustleman Quise](https://open.spotify.com/artist/6gB8BpeoCpDP1BVmX0uqHd), [Montana 700](https://open.spotify.com/artist/0KpToBdtK9KP6TZPFK2zbw) | [How I Came In](https://open.spotify.com/album/2AgW2wWUiwlhzsVVWnEzR5) | 2:51 |
 | 56 | [boxhed](https://open.spotify.com/track/3MUOM8A8r6yeYAD4fWp52k) | [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [GANGWAY](https://open.spotify.com/album/2sTAs9s5yvOp0aF0HSx7Z7) | 2:04 |
 | 57 | [at my purest \(feat\. Offset\)](https://open.spotify.com/track/338HvC3y58zPScamNZu4Dr) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:13 |
-| 58 | [Take Me Thru Dere](https://open.spotify.com/track/2GFawZaMjG8QLxiR4OD3db) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Breskii](https://open.spotify.com/artist/2wVt4s4eHizk62Er2CLunw), [YK Niece](https://open.spotify.com/artist/20LHcYW9rmkpatv2aHzxCE), [DJ Spinz](https://open.spotify.com/artist/7m4YY1JUSagIGuM9BL7KR1) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 2:42 |
+| 58 | [Take Me Thru Dere](https://open.spotify.com/track/2GFawZaMjG8QLxiR4OD3db) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Breskii](https://open.spotify.com/artist/2wVt4s4eHizk62Er2CLunw), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog), [DJ Spinz](https://open.spotify.com/artist/7m4YY1JUSagIGuM9BL7KR1) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 2:42 |
 | 59 | [Friend Do Remix \(feat\. YKNIECE\)](https://open.spotify.com/track/1HmpFowQR9dq4wzNdfzmnY) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [Friend Do Remix \(feat\. YKNIECE\)](https://open.spotify.com/album/6tKVKWZYZ9zqwUC6qBU8r5) | 2:51 |
 | 60 | [Affirmations \- Remix](https://open.spotify.com/track/29vJlClxzbMkWsZjnsmDCx) | [Flippa T](https://open.spotify.com/artist/7ybmXfgq1wUp1tdU9Wnx1I), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Affirmations \(Remix\)](https://open.spotify.com/album/6FVdpIQlb0eu5tdlbgt1DS) | 3:04 |
 | 61 | [Guidance \(feat\. Sauce Walka & Hogg Booma\)](https://open.spotify.com/track/2jtSuyPMdZ8TJ0ZVfJv4RW) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Hogg Booma](https://open.spotify.com/artist/0v0tqexq9zktoveDR1o6v1) | [Recess](https://open.spotify.com/album/5Bo68f3J0Ufnb0d9iHf4FZ) | 2:53 |

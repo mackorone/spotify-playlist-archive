@@ -4,7 +4,7 @@
 
 > This is La Arrolladora Banda El Limón De Rene Camacho\. The essential tracks, all in one playlist.
 
-92 songs - 5 hr 9 min
+93 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Aunque Tiren Hate](https://open.spotify.com/track/0HXjgTtxw4ADoeeuE76YAh) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Aunque Tiren Hate](https://open.spotify.com/album/5qpJ2TpMxSZIzsGrNROo5S) | 2:57 | 2025-06-08 | 2025-07-05 |
 | [Belleza Pura](https://open.spotify.com/track/1xJMMiVYP5QtvFIEEXP0Vt) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Belleza Pura](https://open.spotify.com/album/2F47NaaD3GScaHWEVVRbS5) | 3:24 | 2023-08-08 | 2023-08-28 |
 | [Cabecita Dura](https://open.spotify.com/track/1y8vhYug05asslmpY8bFel) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Irreversible..\. 2012](https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF) | 2:54 | 2023-08-08 |  |
-| [Cada Mañana](https://open.spotify.com/track/4hxPUai4jc3r76nbnVR88c) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Cada Mañana](https://open.spotify.com/album/3HklrN7N2hEhOlcDOWJAM9) | 3:21 | 2025-09-10 |  |
+| [Cada Mañana](https://open.spotify.com/track/4hxPUai4jc3r76nbnVR88c) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Cada Mañana](https://open.spotify.com/album/3HklrN7N2hEhOlcDOWJAM9) | 3:21 | 2025-09-10 | 2025-10-05 |
 | [Calidad Y Cantidad](https://open.spotify.com/track/0nfp44XFmPrLDMMmYfNIP3) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Calidad Y Cantidad](https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl) | 3:30 | 2023-08-08 |  |
 | [Carita De Perdón](https://open.spotify.com/track/6apOgi25sgEaVSJO7znHCg) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Más Adelante](https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB) | 3:04 | 2024-07-18 | 2024-07-19 |
 | [Caro Descaro](https://open.spotify.com/track/7uwdbAR1pciHerZescRlWk) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Caro Descaro](https://open.spotify.com/album/5gTnpaxyS9hX1RYd1omt6g) | 2:57 | 2023-08-08 | 2023-09-16 |
@@ -33,6 +33,7 @@
 | [De Memoria Me Las Sé](https://open.spotify.com/track/4EcwphS4DVi9Zjuyzp9Zxr) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [De Memoria Me Las Sé](https://open.spotify.com/album/7oMVwl3lOSJC0KEnvliwzl) | 2:43 | 2023-08-08 | 2023-11-11 |
 | [De Ti Exclusivo](https://open.spotify.com/track/2GQuP8ZrDoi38bwAbsyAtZ) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 3:14 | 2023-08-08 |  |
 | [Disponible Para Mi](https://open.spotify.com/track/1sKERUbwyohGOuQXS2JwFJ) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Todo Depende De Ti](https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr) | 3:26 | 2023-08-08 |  |
+| [DPM](https://open.spotify.com/track/5Te1pQWfOvRVCACXnWmnFG) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [DPM](https://open.spotify.com/album/5FI3UqACwq2bcOR5566PIH) | 3:33 | 2025-10-05 |  |
 | [El Amor De Tu Vida](https://open.spotify.com/track/07NDoMUU2uThRfYaQLAhNj) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [El Amor De Tu Vida](https://open.spotify.com/album/0m83d317eGDRDC3Cn6zrnF) | 3:04 | 2023-12-13 | 2023-12-31 |
 | [El Bombón](https://open.spotify.com/track/2bPBTRQTJ2SKYzWyCwR6yN) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [El Bombón](https://open.spotify.com/album/5eFh81ZOJPtiP0hUqPpd4O) | 3:16 | 2024-07-14 | 2024-08-11 |
 | [El Final De Nuestra Historia](https://open.spotify.com/track/31REg67eoHJSvMLUcEmGNj) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 3:15 | 2023-08-08 |  |

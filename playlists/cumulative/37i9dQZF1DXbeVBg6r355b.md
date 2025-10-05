@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Alabaster Doze](https://open.spotify.com/track/6RARfTprv3iqJ9P3igyayl) | [Aeoluzzz](https://open.spotify.com/artist/0aWv3c8ziN4LaKzIjHwb9V) | [Alabaster Doze](https://open.spotify.com/album/1HiD54aPEy9ScyFwridgdR) | 5:32 | 2025-09-17 |  |
-| [Antarctic White Noise](https://open.spotify.com/track/05nvjxsga5amL2Y6Kjd3gH) | [Sitting in Sound](https://open.spotify.com/artist/6VDvCWzqiYZexctS7vtTvO) | [Antarctic White Noise](https://open.spotify.com/album/5CyPkA90oE5l1fpTGsP8Tc) | 4:20 | 2025-09-17 |  |
+| [Antarctic White Noise](https://open.spotify.com/track/05nvjxsga5amL2Y6Kjd3gH) | [Sky Eyes](https://open.spotify.com/artist/6fqTWU9DusNSJHHmrUJfFg) | [Antarctic White Noise](https://open.spotify.com/album/5CyPkA90oE5l1fpTGsP8Tc) | 4:20 | 2025-09-17 |  |
 | [Beachy White Noise](https://open.spotify.com/track/7DcwvYZDbJpZaGn2goeG9f) | [Wavelab](https://open.spotify.com/artist/7AbQo3tDp5SYr5ctDcNC21) | [Beachy White Noise](https://open.spotify.com/album/3hcp1jmaWi3FDxgLBNXoE2) | 5:18 | 2025-09-17 |  |
 | [Beyond the Hush](https://open.spotify.com/track/4AfXt0L7VSaGIwF7yXBLbb) | [In The Noise](https://open.spotify.com/artist/3FGtKDRRneWEDpWEUSwnKY) | [Beyond the Hush](https://open.spotify.com/album/4IYZ1RRpyfZ46vQczXeZfg) | 2:42 | 2025-09-17 |  |
 | [Bora \(Noise\)](https://open.spotify.com/track/7pDaNTG69OeSgJiYVtA5KY) | [Sonitaru](https://open.spotify.com/artist/0yFE5Qgqe6pCqJJNTLz5rW) | [Bora \(Noise\)](https://open.spotify.com/album/6Av9uVHp3zSrtnKCAuGgdm) | 2:01 | 2025-09-17 |  |

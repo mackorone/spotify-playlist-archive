@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,247 songs - 5 day 0 hr 23 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,248 songs - 5 day 0 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1702,7 +1702,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1692 | [Three Bedrooms In A Good Neighborhood](https://open.spotify.com/track/5wtlMHHDKJuokR4a02thk2) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [Bottomless Pit](https://open.spotify.com/album/4dIPUQHheyH9e6ioplvNT2) | 3:03 |
 | 1693 | [Void](https://open.spotify.com/track/09hFzxySPHV6PMWUiW91Di) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [mothe](https://open.spotify.com/album/3Jsj2EXHXgXEsJ6ELMxTdY) | 3:03 |
 | 1694 | [Doe Deer](https://open.spotify.com/track/1uULPX0Bvz4ksJRrA2upxu) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(II\)](https://open.spotify.com/album/37TeO5usN4vsGSfpg4dPNA) | 1:35 |
-| 1695 | [Twinz \(feat\. Fat Joe\)](https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [Capital Punishment](https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y) | 3:48 |
+| 1695 | [Twinz \(Deep Cover 98\) \(feat\. Fat Joe\)](https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [Capital Punishment](https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y) | 3:48 |
 | 1696 | [Knife Prty](https://open.spotify.com/track/42Kv1RoTAm09FeytxiuZIB) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 4:49 |
 | 1697 | [Watch](https://open.spotify.com/track/6BTaOTV4R07QunBda62fR7) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:28 |
 | 1698 | [Crystalline Chute](https://open.spotify.com/track/6GCV3poLURCiv08L3DaPUO) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Gemini](https://open.spotify.com/album/4vdHY7cdRkKTebKoEM6yaE) | 3:17 |
@@ -2255,5 +2255,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2245 | [Inside](https://open.spotify.com/track/5AACEBhCH579PdVh90ShvC) | [Slim Sinna](https://open.spotify.com/artist/16PQzIArEPbyu29a63l1pZ) | [Come Alive](https://open.spotify.com/album/0rKDAbuTkGHNX5qSrsOa2e) | 4:50 |
 | 2246 | [My Flaws Burn Through My Skin Like Demonic Flames from Hell](https://open.spotify.com/track/6QFQqqYye5lAcnhCALvxKJ) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear the Razor Guarding My Heel](https://open.spotify.com/album/5QvM8XR1GooXrA7TgIr6Ok) | 2:47 |
 | 2247 | [Restlessness](https://open.spotify.com/track/5xqh7CfTruUxz8Nu5ECNlW) | [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [Skitzofrenia Simulation](https://open.spotify.com/album/1xPlkO690CiBEwodg1HaN7) | 3:28 |
+| 2248 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 |
 
-Snapshot ID: `AAAEu+4u58PTylpY6VSvW61vRAKpePLe`
+Snapshot ID: `AAAEvGAOidd9AWNCjZn6xDZ+k42ap4cT`

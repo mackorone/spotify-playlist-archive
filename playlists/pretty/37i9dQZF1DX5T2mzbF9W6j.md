@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,960 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,955 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,18 +54,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 44 | [Rushmere](https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Rushmere](https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ) | 3:12 |
 | 45 | [Więcej nas](https://open.spotify.com/track/0pN5F4nvvnB2ZYb9AhKMJ4) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh), [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [Więcej nas](https://open.spotify.com/album/6f0unjJ3i3i2jCOoCvsIvx) | 3:01 |
 | 46 | [proszę pana](https://open.spotify.com/track/3S3ayOhVEJSZZP1tgeKEOB) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [proszę pana](https://open.spotify.com/album/4Atcfix3A3u1PefLTIW0j7) | 2:10 |
-| 47 | [Na dno](https://open.spotify.com/track/7dnUcwrc4eZkAAHfU4DxRS) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Na dno](https://open.spotify.com/album/78fK0P2m4ktGeSPSbSX9bs) | 3:40 |
-| 48 | [Wszystko](https://open.spotify.com/track/7KFi8G55mi68MDA9OhlBNz) | [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4) | [Popiół](https://open.spotify.com/album/73hQElTnbuhB7HT0w9gIN3) | 3:33 |
+| 47 | [Wszystko](https://open.spotify.com/track/7KFi8G55mi68MDA9OhlBNz) | [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4) | [Popiół](https://open.spotify.com/album/73hQElTnbuhB7HT0w9gIN3) | 3:33 |
+| 48 | [Na dno](https://open.spotify.com/track/7dnUcwrc4eZkAAHfU4DxRS) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Na dno](https://open.spotify.com/album/78fK0P2m4ktGeSPSbSX9bs) | 3:40 |
 | 49 | [Guilty](https://open.spotify.com/track/6D3YpYu7OXAruxDiElKrE7) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Guilty](https://open.spotify.com/album/6sFyzjGUkNN0tEHHVwMaDO) | 2:23 |
-| 50 | [Shadowboxing](https://open.spotify.com/track/55Ml2qIECJeLRo8qzRnSGO) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Shadowboxing](https://open.spotify.com/album/1lNgCoCV3uPOfKjHp3R5YD) | 2:52 |
-| 51 | [Los](https://open.spotify.com/track/2ZrDmDRxMJZkJ4JZbqvstj) | [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m) | [Los](https://open.spotify.com/album/5AypQAAZv3ryCsQkMqZzHj) | 2:44 |
+| 50 | [Los](https://open.spotify.com/track/2ZrDmDRxMJZkJ4JZbqvstj) | [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m) | [Los](https://open.spotify.com/album/5AypQAAZv3ryCsQkMqZzHj) | 2:44 |
+| 51 | [Shadowboxing](https://open.spotify.com/track/55Ml2qIECJeLRo8qzRnSGO) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Shadowboxing](https://open.spotify.com/album/1lNgCoCV3uPOfKjHp3R5YD) | 2:52 |
 | 52 | [Co za stan](https://open.spotify.com/track/4Rw7LmqHPFjqTpWe0tYcbC) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui), [BRASSERS](https://open.spotify.com/artist/41T7tKisVyiDzTTCxGEkBh) | [Co za stan](https://open.spotify.com/album/3ayFRKD6twKbbap9qUmGkm) | 2:39 |
-| 53 | [Bądź tu ze mną](https://open.spotify.com/track/0NFOKweZTdra8nBOxgA7C2) | [Sylwia Przybysz](https://open.spotify.com/artist/2AIobjujCm6ktZMZeY4M09) | [Bądź tu ze mną](https://open.spotify.com/album/4vqGL1vM1t7fF7r6U3DKKJ) | 2:41 |
-| 54 | [Rany, chyba nie daję rady](https://open.spotify.com/track/7p5U4cxuko3T7GuIG8nXx7) | [dezydery](https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE) | [Rany, chyba nie daję rady](https://open.spotify.com/album/3AHA96h9aCxmLQky5ci8F2) | 2:31 |
+| 53 | [Rany, chyba nie daję rady](https://open.spotify.com/track/7p5U4cxuko3T7GuIG8nXx7) | [dezydery](https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE) | [Rany, chyba nie daję rady](https://open.spotify.com/album/3AHA96h9aCxmLQky5ci8F2) | 2:31 |
+| 54 | [Bądź tu ze mną](https://open.spotify.com/track/0NFOKweZTdra8nBOxgA7C2) | [Sylwia Przybysz](https://open.spotify.com/artist/2AIobjujCm6ktZMZeY4M09) | [Bądź tu ze mną](https://open.spotify.com/album/4vqGL1vM1t7fF7r6U3DKKJ) | 2:41 |
 | 55 | [Czas](https://open.spotify.com/track/7qj1lu6yxDl5GTnSItuIdh) | [Filip Max](https://open.spotify.com/artist/2Af5aejlBF2UrIn1xmPWJ5) | [Czas](https://open.spotify.com/album/0W6CLUac2XfDjfURHOzF4V) | 2:06 |
 | 56 | [Boisz się](https://open.spotify.com/track/5OPDVu8yGItlFz8BsVQkF4) | [Sad Smiles](https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo), [Arek Kłusowski](https://open.spotify.com/artist/34wHojIYy5Nrua9isD46O6) | [Boisz się](https://open.spotify.com/album/5O7WpfdyHWZiqzIVclkOwX) | 3:01 |
-| 57 | [Szanowny Panie](https://open.spotify.com/track/4j3XqG2iGoqxHaGfqshtc5) | [Bluszcz](https://open.spotify.com/artist/4QUfzPnzzNf93Y6VKxZVlD) | [Szanowny Panie](https://open.spotify.com/album/1MEF9BkNH4pCCSvHXs5HjS) | 2:31 |
-| 58 | [Amstaff](https://open.spotify.com/track/4sn1nfJCPKBTzPIVLi9gld) | [Sara Kordowska](https://open.spotify.com/artist/0tEwXd8Y8XF92pbRVVGq9P) | [Amstaff](https://open.spotify.com/album/5cEeS7LEUksRMnHnRJ200s) | 3:43 |
+| 57 | [Amstaff](https://open.spotify.com/track/4sn1nfJCPKBTzPIVLi9gld) | [Sara Kordowska](https://open.spotify.com/artist/0tEwXd8Y8XF92pbRVVGq9P) | [Amstaff](https://open.spotify.com/album/5cEeS7LEUksRMnHnRJ200s) | 3:43 |
+| 58 | [Szanowny Panie](https://open.spotify.com/track/4j3XqG2iGoqxHaGfqshtc5) | [Bluszcz](https://open.spotify.com/artist/4QUfzPnzzNf93Y6VKxZVlD) | [Szanowny Panie](https://open.spotify.com/album/1MEF9BkNH4pCCSvHXs5HjS) | 2:31 |
 | 59 | [Żywioły](https://open.spotify.com/track/2qZ8B8fc2kejGqUR3rVKk7) | [Bibobit](https://open.spotify.com/artist/30nbDQcIKNaKHQFCE97DBX) | [Żywioły](https://open.spotify.com/album/1WaBxPeBJFjDNxhcRpWSwp) | 3:41 |
 | 60 | [Zapomnij Mnie](https://open.spotify.com/track/4pjWbIByb1viHxrsKleGCF) | [Joulie Fox](https://open.spotify.com/artist/5hE1IPeVSiRpzsHBBBpzy4) | [Zapomnij Mnie](https://open.spotify.com/album/6r7P6UnFxFnmYlO7HK7EJi) | 2:58 |
 

@@ -3863,6 +3863,24 @@
     },
     {
       "album": {
+        "name": "Bloodlust",
+        "url": "https://open.spotify.com/album/0bgNfjHXv1wHZjvoRlLA0D"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209986,
+      "name": "Bloodlust",
+      "url": "https://open.spotify.com/track/0EJ9cdzNwraAU0yzwGL2ZE"
+    },
+    {
+      "album": {
         "name": "BLOODSTREAM",
         "url": "https://open.spotify.com/album/3A1dpM3b53KREb9DeWsEoP"
       },
@@ -10304,7 +10322,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 149600,
       "name": "FMK!",
       "url": "https://open.spotify.com/track/7lX3ylz8nhiM7yBvz6CO0x"

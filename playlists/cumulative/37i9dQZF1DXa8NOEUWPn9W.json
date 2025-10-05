@@ -16367,6 +16367,28 @@
     },
     {
       "album": {
+        "name": "Moth To A Flame",
+        "url": "https://open.spotify.com/album/0LS6sI5gsP40ZJOSqfJPML"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190153,
+      "name": "Moth To A Flame",
+      "url": "https://open.spotify.com/track/1K2saNWiQjrrgeIy8gAb73"
+    },
+    {
+      "album": {
         "name": "GEWAH Selects",
         "url": "https://open.spotify.com/album/1GQVGlJb4JL0nVoW4ptYht"
       },
@@ -16382,7 +16404,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 190153,
       "name": "Moth To A Flame",
       "url": "https://open.spotify.com/track/4ZOdEGreqCzM2P3C9EE4AF"

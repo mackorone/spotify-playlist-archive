@@ -1,6 +1,6 @@
 {
   "description": "Soul for the blues. Cover: Otis Redding.",
-  "num_followers": 302733,
+  "num_followers": 303023,
   "original_name": "Sad Soul",
   "owner": {
     "name": "Spotify",
@@ -373,22 +373,6 @@
       "url": "https://open.spotify.com/track/3NcJu9876GBJuNU6vJOrbb"
     },
     {
-      "added_at": "2021-11-11 14:02:18",
-      "album": {
-        "name": "Definitive Soul: Spinners",
-        "url": "https://open.spotify.com/album/4Njh8ZQ1VG46bOo8YBF2L9"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 192760,
-      "name": "It's A Shame - Remastered",
-      "url": "https://open.spotify.com/track/5LuVBkfELaydohNZahwvNN"
-    },
-    {
       "added_at": "2022-09-08 14:58:04",
       "album": {
         "name": "Bettye Swann",
@@ -403,6 +387,22 @@
       "duration_ms": 226240,
       "name": "Then You Can Tell Me Goodbye",
       "url": "https://open.spotify.com/track/1bDjWyTOXs0sxQMC1mchSM"
+    },
+    {
+      "added_at": "2021-11-11 14:02:18",
+      "album": {
+        "name": "Definitive Soul: Spinners",
+        "url": "https://open.spotify.com/album/4Njh8ZQ1VG46bOo8YBF2L9"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 192760,
+      "name": "It's A Shame - Remastered",
+      "url": "https://open.spotify.com/track/5LuVBkfELaydohNZahwvNN"
     },
     {
       "added_at": "2021-11-11 14:02:18",
@@ -509,22 +509,6 @@
       "url": "https://open.spotify.com/track/5mBHcJ6yNXyYGLosWkuGqv"
     },
     {
-      "added_at": "2022-09-08 14:58:04",
-      "album": {
-        "name": "Stand By Your Man",
-        "url": "https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "He Called Me Baby",
-      "url": "https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa"
-    },
-    {
       "added_at": "2021-11-11 14:02:18",
       "album": {
         "name": "Hurry Up This Way Again",
@@ -539,6 +523,22 @@
       "duration_ms": 353680,
       "name": "Hurry Up This Way Again",
       "url": "https://open.spotify.com/track/7fAe2PjWPfVdEur3xUCcvt"
+    },
+    {
+      "added_at": "2022-09-08 14:58:04",
+      "album": {
+        "name": "Stand By Your Man",
+        "url": "https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "He Called Me Baby",
+      "url": "https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa"
     },
     {
       "added_at": "2021-11-11 14:02:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover:  Denny Caknan, NDX A.K.A.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,102 likes - 102 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,248 likes - 102 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 9 | [Sampeyan](https://open.spotify.com/track/0HODYghtMn99N7189LLFWI) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO), [Destya Eka](https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2) | [Sampeyan](https://open.spotify.com/album/3RjDWLA3kZod405bGn7x8x) | 5:43 |
 | 10 | [Lalekno \- New Version](https://open.spotify.com/track/5zPtFLKtxS9fhIIjnKX95F) | [Imogiri Boys](https://open.spotify.com/artist/53RErsdDMlGlugJZyYvae3), [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD), [GMLT](https://open.spotify.com/artist/1ZzwhODUHoaPl3Xt3d9xx6) | [Lalekno \(New Version\)](https://open.spotify.com/album/3cqSmz3sVPPgKWT9d6WVxR) | 4:00 |
 | 11 | [Gulu Pedot](https://open.spotify.com/track/06ZeVWAb9aM6ni9SAWvMYL) | [Dara Ayu](https://open.spotify.com/artist/1nAdzqW8RvYMugm6eDs9Lx) | [Gulu Pedot](https://open.spotify.com/album/5c3wJWoPOpFtJ8ZkgeDyDB) | 5:10 |
-| 12 | [Sewates Selingan](https://open.spotify.com/track/4XYowsoOVX0IaG8FT2JWqP) | [Start Koplo](https://open.spotify.com/artist/5vfIXTOHuuaHQ1XxUSHjlA) | [Sewates Selingan](https://open.spotify.com/album/3BdjmcDFz0NoNayRc77Cr3) | 5:46 |
+| 12 | [Sewates Selingan](https://open.spotify.com/track/4XYowsoOVX0IaG8FT2JWqP) | [START KOPLO](https://open.spotify.com/artist/3NSHD91wHPskJuktHal5ma) | [Sewates Selingan](https://open.spotify.com/album/3BdjmcDFz0NoNayRc77Cr3) | 5:46 |
 | 13 | [Iso Tanpo Kowe \- Live](https://open.spotify.com/track/4LU2ZSJIX8gIEPCp14Ouj7) | [Diva Hani](https://open.spotify.com/artist/0rY381w1KbZR9IUPhp2ppK), [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Iso Tanpo Kowe \(Live\)](https://open.spotify.com/album/5jhZhGk86d38QvNC95I4mn) | 5:49 |
 | 14 | [Mencintai Dengan Ngeyel](https://open.spotify.com/track/6i6r1Z2Bl7vdZbIfYtHnIu) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO) | [Mencintai Dengan Ngeyel](https://open.spotify.com/album/2N7YLZFogJhbsnpHfyLahq) | 4:35 |
 | 15 | [Sabar \(Sinau Bareng\)](https://open.spotify.com/track/1jOASJ1rcIzVvX4QB1z7ze) | [Sadewok](https://open.spotify.com/artist/5EkOo7TpmDN9Uz5wvxDyGe) | [Sabar \(Sinau Bareng\)](https://open.spotify.com/album/7h9IP156OsoCug4bZnInLN) | 4:14 |

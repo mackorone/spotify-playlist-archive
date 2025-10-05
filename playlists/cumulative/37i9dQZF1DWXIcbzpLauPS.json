@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "the best new metalcore. where brutality and technicality collide. Cover: We Came As Romans",
+  "description": "the best new metalcore. where brutality and technicality collide. Cover: Architects",
   "name": "The Core",
   "tracks": [
     {
@@ -3026,7 +3026,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 200800,
       "name": "Blackhole",
       "url": "https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8"
@@ -3152,7 +3152,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 191680,
       "name": "BLOOD",
       "url": "https://open.spotify.com/track/35MyLnfHifLWW15xh2OneJ"
@@ -4490,7 +4490,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 190000,
       "name": "Closure",
       "url": "https://open.spotify.com/track/7wOnoMYUQot21uPASWNdqa"
@@ -5374,7 +5374,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 186000,
       "name": "Dance!",
       "url": "https://open.spotify.com/track/70GR0y0UQoWDOzApauQqpN"
@@ -11859,6 +11859,28 @@
     },
     {
       "album": {
+        "name": "Instrument Of War",
+        "url": "https://open.spotify.com/album/2YCs4Epk1PprjDB9U8UnYQ"
+      },
+      "artists": [
+        {
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+        },
+        {
+          "name": "Stick To Your Guns",
+          "url": "https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189810,
+      "name": "Instrument Of War",
+      "url": "https://open.spotify.com/track/1p6ZmD7ewbMjiwcM9Uk4U7"
+    },
+    {
+      "album": {
         "name": "Intergalactic Casanova",
         "url": "https://open.spotify.com/album/2vOfczZPhxfUiTydB6hyQr"
       },
@@ -13411,6 +13433,24 @@
     },
     {
       "album": {
+        "name": "Lost It All (Reborn)",
+        "url": "https://open.spotify.com/album/3wh8RyIi1f0UU9i7rCxDBl"
+      },
+      "artists": [
+        {
+          "name": "Fabvl",
+          "url": "https://open.spotify.com/artist/48bqPGhLPTuS8gKg3UTtf9"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269217,
+      "name": "Lost It All (Reborn)",
+      "url": "https://open.spotify.com/track/1yxmCyXj5me7ASp1ZPXiQL"
+    },
+    {
+      "album": {
         "name": "Love, I Tore It Apart",
         "url": "https://open.spotify.com/album/4SlrylSAJAJDUTxdv6ej72"
       },
@@ -13788,7 +13828,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 189933,
       "name": "mallxcore",
       "url": "https://open.spotify.com/track/6irxouPiUi5FBwuEZhl0Mc"
@@ -16511,6 +16551,24 @@
     },
     {
       "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/60vVun2EgKk6rt9ww8fLDE"
+      },
+      "artists": [
+        {
+          "name": "Secrets",
+          "url": "https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189157,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/59KSuPsR2uzx7nKoFj3Bf3"
+    },
+    {
+      "album": {
         "name": "Parasite",
         "url": "https://open.spotify.com/album/0Tr8yRpp0crtdCltwINpYP"
       },
@@ -18217,6 +18275,24 @@
     },
     {
       "album": {
+        "name": "Sacrifice",
+        "url": "https://open.spotify.com/album/5r07n5C93U0Wk4V5jRjK32"
+      },
+      "artists": [
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/0dsiM6v2ANCXRQOiPudPxh"
+    },
+    {
+      "album": {
         "name": "bioMACHiNA",
         "url": "https://open.spotify.com/album/4azxoq5UXg4huDqHWo9SL1"
       },
@@ -18384,7 +18460,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 248474,
       "name": "Salt The Wound",
       "url": "https://open.spotify.com/track/6nLjrvLgI1JDqrh5CgrDUn"

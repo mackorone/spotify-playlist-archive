@@ -1,12 +1,12 @@
 {
   "description": "This is Black Coffee. The essential tracks, all in one playlist.",
-  "num_followers": 180587,
+  "num_followers": 180654,
   "original_name": "This Is Black Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAADnJb+U4GJMKCXgjhnCTImd",
+  "snapshot_id": "aN8SAAAAAAAXIpujQO2Kz9GhG57XuiaK",
   "tracks": [
     {
       "added_at": null,
@@ -926,15 +926,11 @@
         {
           "name": "Black Coffee",
           "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Busi Mhlongo",
-          "url": "https://open.spotify.com/artist/4QlgeNz8Uf8xF0f0LNjCbf"
         }
       ],
-      "duration_ms": 420200,
-      "name": "Izizwe",
-      "url": "https://open.spotify.com/track/0TOScmuHq8iS1GblTVqQMq"
+      "duration_ms": 404693,
+      "name": "Even Though",
+      "url": "https://open.spotify.com/track/26qQM5sqNWTedLxlWwMqXL"
     },
     {
       "added_at": null,
@@ -1010,11 +1006,15 @@
         {
           "name": "Black Coffee",
           "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Busi Mhlongo",
+          "url": "https://open.spotify.com/artist/4QlgeNz8Uf8xF0f0LNjCbf"
         }
       ],
-      "duration_ms": 404693,
-      "name": "Even Though",
-      "url": "https://open.spotify.com/track/26qQM5sqNWTedLxlWwMqXL"
+      "duration_ms": 420200,
+      "name": "Izizwe",
+      "url": "https://open.spotify.com/track/0TOScmuHq8iS1GblTVqQMq"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 ### [Pop Rising Singapore & Malaysia](https://open.spotify.com/playlist/37i9dQZF1DX1TxhZPYjnhx)
 
-> Discover new favorites or tomorrow's hits today\. Cover: 5 Seconds of Summer
+> Discover new favorites or tomorrow's hits today\. Cover: Henry Moodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,603 likes - 103 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,601 likes - 103 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

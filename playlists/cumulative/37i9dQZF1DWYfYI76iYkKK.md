@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-554 songs - 1 day 12 hr 18 min
+555 songs - 1 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [借春風](https://open.spotify.com/track/1utPYZzeIrA6YzeZZQ2fAM) | [賈淏森](https://open.spotify.com/artist/7JPjn74S1RZRfDXA8V3pSK) | [借春風](https://open.spotify.com/album/5rAoPMElnTc8maQVv3dWcH) | 4:20 | 2023-08-17 | 2023-09-01 |
 | [假男友](https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [我和我的布拉姆斯](https://open.spotify.com/album/3VrBcHcHB4BpiIlUL8aSTI) | 4:26 | 2022-07-28 | 2024-04-19 |
 | [做我的初戀 \(純愛不插電\)](https://open.spotify.com/track/0QTVDDZFhLRyFKqgmphkms) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv) | [做我的初戀（純愛不插電）](https://open.spotify.com/album/6c7wFSp80wogFSImEgRSK5) | 3:17 | 2025-09-25 |  |
+| [側臉](https://open.spotify.com/track/37bdVVPemdUmN8FTqQXWYz) | [加木](https://open.spotify.com/artist/45aOa6C5ieGIXh7yExsvVl) | [嵌入生長](https://open.spotify.com/album/4WzTaRTT9piXbAzXyYIXvN) | 3:53 | 2025-10-02 |  |
 | [偶爾墜落](https://open.spotify.com/track/75Oa1Cs5lz0p0Kcu3t5kgk) | [安柏兒](https://open.spotify.com/artist/011Ngr53zecMBKVVE6Esgn) | [偶爾墜落](https://open.spotify.com/album/44X8FjH0jJ8H3oWjIrdtTo) | 2:56 | 2023-04-27 | 2023-05-12 |
 | [光](https://open.spotify.com/track/16Jwl6WRsN8xvjVz9Tnw7L) | [捲捲澡堂 Soul Bath](https://open.spotify.com/artist/22MLKWCiyDJoKDzOq9gYOJ) | [光](https://open.spotify.com/album/36ILWiZpRS5KSaXNkpl3fj) | 4:40 | 2024-11-07 | 2024-11-15 |
 | [光圈](https://open.spotify.com/track/5uixm2byd4jkWwQTBWd48a) | [陳卓](https://open.spotify.com/artist/4b1OGhW4UMm5KeCgW7eeYh) | [光圈](https://open.spotify.com/album/3ptv0yjuNNCjhV3VnMDkqG) | 3:31 | 2023-09-28 | 2023-10-13 |
@@ -312,7 +313,7 @@
 | [我們很好](https://open.spotify.com/track/7iud0nXzaQBO6lY5ukT4Hn) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [我們很好](https://open.spotify.com/album/3zhIlA1iaSy9QReJ5iWMpV) | 4:28 | 2022-07-28 | 2022-07-30 |
 | [我可以](https://open.spotify.com/track/7FJ1eVDKKZMblOygYVTSkz) | [洪以芯](https://open.spotify.com/artist/5PMS3LPsDNAhBc3Sa5EEuO) | [我可以](https://open.spotify.com/album/5bitmU8nDk51WqYtPjohYg) | 3:23 | 2025-01-02 | 2025-01-10 |
 | [我喜歡你 \- Acoustic Version](https://open.spotify.com/track/7DWvcbGGWWtk0edvck09X3) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [我喜歡你 \(Acoustic Version\)](https://open.spotify.com/album/5EY6xMTqPg3hXvL7BYTkbI) | 3:32 | 2023-04-13 | 2023-06-04 |
-| [我喜歡我](https://open.spotify.com/track/6xSTphVc86dhex73ZryENf) | [Zen 俊倩](https://open.spotify.com/artist/07nkXNC5TYJ4N2J6JvKgMH) | [我喜歡我](https://open.spotify.com/album/6LznfHadflUwKQhyVPdOYy) | 3:04 | 2025-08-28 |  |
+| [我喜歡我](https://open.spotify.com/track/6xSTphVc86dhex73ZryENf) | [Zen 俊倩](https://open.spotify.com/artist/07nkXNC5TYJ4N2J6JvKgMH) | [我喜歡我](https://open.spotify.com/album/6LznfHadflUwKQhyVPdOYy) | 3:04 | 2025-08-28 | 2025-10-05 |
 | [我在紐約打電話給你](https://open.spotify.com/track/3vTnGxlxui3i9mWrAepise) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [我在紐約打電話給你](https://open.spotify.com/album/705xmvtHgzHVcHADtEdICs) | 3:56 | 2023-11-09 |  |
 | [我多想變成她](https://open.spotify.com/track/5yD4MF6VJWYkcyA2EzwVhz) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [偏偏我卻都記得](https://open.spotify.com/album/0Q0O0kpGV394flFNTvdfJ5) | 4:47 | 2022-06-02 | 2024-06-28 |
 | [我想再擁有自己](https://open.spotify.com/track/6Ya4RZGwrXVAOjU70kR3Ys) | [Neci Ken](https://open.spotify.com/artist/2LzIV2DbLNmH0DG89BNbD6) | [我想再擁有自己](https://open.spotify.com/album/3hGtXqUNJ9ww5LknAnPL6g) | 4:46 | 2022-06-30 | 2022-07-08 |

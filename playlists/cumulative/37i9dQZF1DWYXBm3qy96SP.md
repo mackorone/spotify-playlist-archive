@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: The Last Dinner Party
 
-1,710 songs - 4 day 2 hr 53 min
+1,711 songs - 4 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [BLOOD AND SUGAR](https://open.spotify.com/track/7slQaLDyL3WnMUffGwrnYi) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [BLOOD AND SUGAR](https://open.spotify.com/album/030TjWifiM82d85tllj2QY) | 3:06 | 2023-05-18 | 2023-06-02 |
 | [Blood in blue](https://open.spotify.com/track/4qfi7sCX4w5dZiIltgkPHB) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Blood in blue](https://open.spotify.com/album/0twJvdID2xF7NZvAb3K1Gx) | 2:45 | 2023-10-19 | 2023-11-03 |
 | [Blood In The Water](https://open.spotify.com/track/36h5JAbSei6u5AcZJji05T) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Blood In The Water](https://open.spotify.com/album/51XawJfwZu5NH45ICmVAwI) | 3:37 | 2023-11-23 | 2023-12-01 |
+| [Bloodlust](https://open.spotify.com/track/0EJ9cdzNwraAU0yzwGL2ZE) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Bloodlust](https://open.spotify.com/album/0bgNfjHXv1wHZjvoRlLA0D) | 3:29 | 2025-10-02 |  |
 | [BLOODSTREAM](https://open.spotify.com/track/3ey44BzqrH2Si5FmeFZ300) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [BLOODSTREAM](https://open.spotify.com/album/3A1dpM3b53KREb9DeWsEoP) | 3:09 | 2023-07-13 | 2023-08-18 |
 | [bloodYhell.](https://open.spotify.com/track/3hK0jJVeMYsie1nnQhvy2N) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [bloodYhell.](https://open.spotify.com/album/5TVZ4thQkBJS3fFAKt11Su) | 3:41 | 2025-04-03 | 2025-05-16 |
 | [Bloom Baby Bloom](https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8) | 3:47 | 2025-05-16 | 2025-07-29 |
@@ -554,7 +555,7 @@
 | [flashback](https://open.spotify.com/track/7AKbUJwfLdQYOAyoDKDnEI) | [ULTRA](https://open.spotify.com/artist/0lyPo2zoahnoeFXTq1JHeS) | [flashback](https://open.spotify.com/album/38lEvVBTBgrTH3ZQLpEl9q) | 3:28 | 2023-10-12 | 2023-10-20 |
 | [FLESH AND BONE](https://open.spotify.com/track/4jj7lOFhYu59x8QUgvQ6NJ) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [DEATH CULT \- 8323](https://open.spotify.com/album/6E5Nnp3cPI7gGTIW9XJpqr) | 3:18 | 2023-12-14 | 2023-12-22 |
 | [Flow](https://open.spotify.com/track/2NB6ACcaEct5ha069bXw7P) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Flow](https://open.spotify.com/album/5ALiFefXq1BQLwVG7CVJwq) | 3:53 | 2023-06-30 | 2023-07-14 |
-| [FMK!](https://open.spotify.com/track/7lX3ylz8nhiM7yBvz6CO0x) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [FMK!](https://open.spotify.com/album/7fu0iV33NKf7AcVkAyE4VZ) | 2:29 | 2025-09-18 |  |
+| [FMK!](https://open.spotify.com/track/7lX3ylz8nhiM7yBvz6CO0x) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [FMK!](https://open.spotify.com/album/7fu0iV33NKf7AcVkAyE4VZ) | 2:29 | 2025-09-18 | 2025-10-05 |
 | [Foam](https://open.spotify.com/track/4h6AjmvszVvlSLg0vwJJ46) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Foam](https://open.spotify.com/album/4Rmw7d4SsYHn1U5SosFCOI) | 3:05 | 2024-02-15 | 2024-02-17 |
 | [Foam](https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 3:05 | 2024-02-15 | 2025-07-04 |
 | [Foreign Land](https://open.spotify.com/track/2CxhLkidVJI6pufYJuiBGd) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Foreign Land](https://open.spotify.com/album/2Lkz0vxOzbglSgoFbhmpyc) | 3:54 | 2023-05-25 | 2023-06-02 |

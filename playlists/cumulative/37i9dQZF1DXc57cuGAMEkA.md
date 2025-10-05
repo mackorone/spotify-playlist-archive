@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。Taylor Swift, YOASOBI, Kali Uchis, マカロニえんぴつ, yama, Jason Derulo,  and more!
 
-11,230 songs - 26 day 2 hr 7 min
+11,234 songs - 26 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5662,6 +5662,7 @@
 | [Man Of The Year](https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Man Of The Year](https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW) | 3:00 | 2025-05-30 | 2025-06-06 |
 | [Man On A Mission](https://open.spotify.com/track/6fJld32axCH9Aw7XlVLoGG) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Man On A Mission](https://open.spotify.com/album/3gXvlO1pTEgCQlQ3O3oOPJ) | 3:31 | 2025-06-19 | 2025-06-27 |
 | [Man on The Moon](https://open.spotify.com/track/5axqHofGz7te1YRAVJiXPA) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Man on The Moon](https://open.spotify.com/album/6vTJpzK34hbmKzrftG34G8) | 2:30 | 2025-05-09 | 2025-05-16 |
+| [Man With a Second Face](https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Archangel](https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d) | 4:41 | 2025-10-03 |  |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-06 | 2025-06-13 |
 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 | 2025-07-10 | 2025-07-18 |
 | [Manhattan](https://open.spotify.com/track/0WMkBDaWr13JBRaIGMNyQu) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Manhattan](https://open.spotify.com/album/3iWkBhtKdPdzo7opnJRmTX) | 5:19 | 2023-08-17 | 2023-08-25 |
@@ -6721,6 +6722,7 @@
 | [Ooo](https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Ooo](https://open.spotify.com/album/55F9lvdT7PRtVofAzLXDRX) | 3:59 | 2025-08-07 | 2025-08-15 |
 | [Oops…](https://open.spotify.com/track/0sEKlkgD6s2KRa9U6luzoR) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Oops…](https://open.spotify.com/album/07yGleEHQMA6250Wxmmw5u) | 2:32 | 2025-02-27 | 2025-03-07 |
 | [Op Shop Lover](https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Op Shop Lover](https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP) | 2:30 | 2023-09-28 | 2023-10-06 |
+| [Opalite](https://open.spotify.com/track/3euZKF0hmGxQ6h2JHHY4iu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:55 | 2025-10-03 |  |
 | [Open Hands](https://open.spotify.com/track/36O1yuwWMGqgHq6ab9SKJp) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Gems](https://open.spotify.com/album/2ToWCEcXq3n9pmH83Lvx3J) | 4:03 | 2025-05-01 | 2025-05-09 |
 | [Open Hearts](https://open.spotify.com/track/0vGaq6yLFIWQTVT1IStvdn) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Open Hearts](https://open.spotify.com/album/06XMKyyqiQfvBze41Yi8pv) | 3:37 | 2024-08-29 | 2024-09-06 |
 | [Open The Door, See What You Find](https://open.spotify.com/track/1Ks53o54WS8LzbwyEG56ds) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f) | 4:07 | 2023-06-02 | 2023-06-09 |
@@ -8883,6 +8885,7 @@
 | [the evidence](https://open.spotify.com/track/4jeT6Z5VHsmx4EEG3kED7n) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [the evidence](https://open.spotify.com/album/1rzilWEI5SkyiVnD9sjEAM) | 2:40 | 2023-11-11 | 2023-11-18 |
 | [THE FAKE ESCAPE](https://open.spotify.com/track/23CNXLcMvLKgeWBEXt7JKS) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [THE FAKE ESCAPE](https://open.spotify.com/album/69tv2teYIILTpu7DYyORy1) | 3:40 | 2024-09-05 | 2024-09-13 |
 | [THE FALL](https://open.spotify.com/track/26Zg7dZQtAMYIpEHD3SYci) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [THE FALL](https://open.spotify.com/album/1QgFO7rwG1CZafxysAP6zP) | 3:20 | 2025-10-02 |  |
+| [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 | 2025-10-03 |  |
 | [The Feeling](https://open.spotify.com/track/2XwfwHvM8iqvWL5bZWbo86) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [The Feeling](https://open.spotify.com/album/3cPlIoKj0mGfn4gOJGf1Ms) | 2:48 | 2024-10-24 | 2024-11-01 |
 | [The Feeling You Get](https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ask That God](https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m) | 4:16 | 2024-07-26 | 2024-08-02 |
 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 | 2023-04-27 | 2023-05-05 |
@@ -8938,6 +8941,7 @@
 | [The Knife In My Back](https://open.spotify.com/track/52hW86OGxT6nn0Aex2V6oM) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [The Knife In My Back](https://open.spotify.com/album/2gTy3DhstHXAph5LjtHEnX) | 2:49 | 2025-09-04 | 2025-09-13 |
 | [The Landolt C](https://open.spotify.com/track/4UE0ayD44qejZTGDK8S4qF) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [The Landolt C](https://open.spotify.com/album/3AEc4G6uZqIGc02Xo9ApZ1) | 3:28 | 2025-01-09 | 2025-01-17 |
 | [The Last Bit Of Us](https://open.spotify.com/track/3cgHwqbHcu1DKFADvkgPJ7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Last Bit Of Us](https://open.spotify.com/album/0VSEo3ZMGfadTa9K90KMI3) | 3:22 | 2024-03-28 | 2024-04-05 |
+| [The Life of a Showgirl \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 4:01 | 2025-10-03 |  |
 | [The Light](https://open.spotify.com/track/6j5BK1cFX9TjJd5EXHGgAn) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Light](https://open.spotify.com/album/2thP70nudcFpvmRl3AsYRa) | 2:52 | 2023-03-24 | 2023-03-31 |
 | [The Light](https://open.spotify.com/track/6Jf6l54ftlk6rvk14v0kma) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [The Light](https://open.spotify.com/album/3S3qjC95LDdkcmZ8G0w7Tt) | 3:35 | 2024-05-23 | 2024-06-01 |
 | [The Light Shines Brightest In The Dark From "Marlowe" \- From "Marlowe"](https://open.spotify.com/track/3zQ2vKWOflKo0wH6PyvfP2) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [The Light Shines Brightest In The Dark \(From Marlowe\)](https://open.spotify.com/album/49KNelepray4YxHWWnANnB) | 3:34 | 2023-02-09 | 2023-02-17 |

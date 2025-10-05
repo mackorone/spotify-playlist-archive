@@ -4,7 +4,7 @@
 
 > Nieuwe muziek: Taylor Swift, Pommelien Thijs, Kybba, Fred again.\. en meer
 
-12,920 songs - 28 day 3 hr 11 min
+12,920 songs - 28 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -10859,7 +10859,7 @@
 | [The Beat](https://open.spotify.com/track/5TM64poPKEC9oqUoxojedI) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [The Beat](https://open.spotify.com/album/4niaB3fUejqfPM4alqc3uT) | 1:43 | 2025-07-10 | 2025-07-18 |
 | [The Beginning](https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Beginning](https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu) | 3:31 | 2024-05-31 | 2024-06-07 |
 | [The Best](https://open.spotify.com/track/3Kkimj4FMdrdUdobl9jRYQ) | [Oh Hazar](https://open.spotify.com/artist/0h3oUO0mB2fFg7yz2Xy4T1) | [Clair Obscur](https://open.spotify.com/album/44GV0oJYYJo7mi3LEJ6Dg3) | 4:24 | 2025-01-31 | 2025-02-07 |
-| [The Best Is Yet To Come](https://open.spotify.com/track/7nxdRCgAEg9aHL7ePzYsaO) | [Lois Lane](https://open.spotify.com/artist/6XtqgoAYl2mXQhn9ZmDEdt) | [Ready To Move](https://open.spotify.com/album/5uYVSOQ1YHHYsRtWi2lHcq) | 3:37 | 2025-10-02 |  |
+| [The Best Is Yet To Come](https://open.spotify.com/track/7nxdRCgAEg9aHL7ePzYsaO) | [Lois Lane](https://open.spotify.com/artist/6XtqgoAYl2mXQhn9ZmDEdt) | [Ready To Move](https://open.spotify.com/album/5uYVSOQ1YHHYsRtWi2lHcq) | 3:30 | 2025-10-02 |  |
 | [The Best Things Are](https://open.spotify.com/track/1WunmA66pMmbjzWi35NlEZ) | [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [The Best Things Are](https://open.spotify.com/album/1nFaKNIH6QbtHdjWXnG8o9) | 2:50 | 2024-05-09 | 2024-05-17 |
 | [The Best View in Liverpool](https://open.spotify.com/track/22y6zqQ4Ahf3JRlJajHIsD) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [The Best View in Liverpool](https://open.spotify.com/album/6SbYKsZa6HR2nShInDWFHk) | 4:02 | 2023-12-01 | 2023-12-09 |
 | [The Big Bucks](https://open.spotify.com/track/0ByBUI0v0TMsjfl06IhO2V) | [Bony Macaroni](https://open.spotify.com/artist/5RsdlcuYtj4bWyGPVJCuet) | [The Big Bucks](https://open.spotify.com/album/0hBAxyZXIjEjGxrAqNiHuR) | 3:00 | 2023-03-30 | 2023-04-07 |

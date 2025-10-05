@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora para tus cenas en casa.",
-  "num_followers": 402085,
+  "num_followers": 402060,
   "original_name": "Cena con Amigos",
   "owner": {
     "name": "Spotify",
@@ -443,18 +443,18 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
       },
       "artists": [
         {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 233173,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
+      "duration_ms": 174000,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e"
     },
     {
       "added_at": "2025-07-02 08:57:18",
@@ -475,18 +475,18 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
-        "name": "I Put A Spell On You",
-        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e"
+      "duration_ms": 233173,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
     },
     {
       "added_at": "2025-07-02 08:57:18",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
-        "name": "Solomon Burke's Greatest Hits",
-        "url": "https://open.spotify.com/album/5wbo06FU4VwIgA0CdfJXI4"
-      },
-      "artists": [
-        {
-          "name": "Solomon Burke",
-          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
-        }
-      ],
-      "duration_ms": 154906,
-      "name": "Cry to Me",
-      "url": "https://open.spotify.com/track/1tYk5zABu6h8CMP1cSea56"
-    },
-    {
-      "added_at": "2025-07-02 08:57:18",
-      "album": {
         "name": "Bossa Nova Lounge",
         "url": "https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 204418,
       "name": "Somewhere Over The Rainbow - Bossa Version",
       "url": "https://open.spotify.com/track/0n2I6f8lJ1BY0vNWPwOA8K"
+    },
+    {
+      "added_at": "2025-07-02 08:57:18",
+      "album": {
+        "name": "Solomon Burke's Greatest Hits",
+        "url": "https://open.spotify.com/album/5wbo06FU4VwIgA0CdfJXI4"
+      },
+      "artists": [
+        {
+          "name": "Solomon Burke",
+          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
+        }
+      ],
+      "duration_ms": 154906,
+      "name": "Cry to Me",
+      "url": "https://open.spotify.com/track/1tYk5zABu6h8CMP1cSea56"
     },
     {
       "added_at": "2025-07-02 08:57:18",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
+        "name": "Mujeres",
+        "url": "https://open.spotify.com/album/5oE1VEtOYkkJJiRkZ7KbgB"
+      },
+      "artists": [
+        {
+          "name": "Estrella Morente",
+          "url": "https://open.spotify.com/artist/5gKJbL392PiokTPUoL7N6D"
+        }
+      ],
+      "duration_ms": 217853,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/1uhQ3H3TSDX9Bq9Oz6uHWV"
+    },
+    {
+      "added_at": "2025-07-02 08:57:18",
+      "album": {
         "name": "Careless Love",
         "url": "https://open.spotify.com/album/5Abc3wXAy8U1f79eVn7AGd"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 235640,
       "name": "Dance Me To The End Of Love",
       "url": "https://open.spotify.com/track/5ztIul377mylwHJkCnIWbn"
-    },
-    {
-      "added_at": "2025-07-02 08:57:18",
-      "album": {
-        "name": "Mujeres",
-        "url": "https://open.spotify.com/album/5oE1VEtOYkkJJiRkZ7KbgB"
-      },
-      "artists": [
-        {
-          "name": "Estrella Morente",
-          "url": "https://open.spotify.com/artist/5gKJbL392PiokTPUoL7N6D"
-        }
-      ],
-      "duration_ms": 217853,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/1uhQ3H3TSDX9Bq9Oz6uHWV"
     },
     {
       "added_at": "2025-07-02 08:57:18",

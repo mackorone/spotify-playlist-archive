@@ -1,12 +1,12 @@
 {
   "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
-  "num_followers": 99520,
+  "num_followers": 99528,
   "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAAC1YYypKpOKm3bT8EE46B56",
+  "snapshot_id": "aN8SAAAAAAA4HfEI6pRZm6Tu1S4i4xWM",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "love + everything else",
+        "url": "https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5"
+      },
+      "artists": [
+        {
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 144243,
+      "name": "if we never met (feat. Kelsea Ballerini)",
+      "url": "https://open.spotify.com/track/5vDA0WiwxOzj4AJDKDl1Bz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SUBJECT TO CHANGE",
         "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 211843,
       "name": "MUSCLE MEMORY",
       "url": "https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "kelsea",
-        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 201343,
-      "name": "the other girl (with Halsey)",
-      "url": "https://open.spotify.com/track/3CS5zwqrjggxlRD0QGJAva"
     },
     {
       "added_at": null,
@@ -415,22 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "love + everything else",
-        "url": "https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5"
+        "name": "kelsea",
+        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
       },
       "artists": [
         {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
-        },
-        {
           "name": "Kelsea Ballerini",
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 144243,
-      "name": "if we never met (feat. Kelsea Ballerini)",
-      "url": "https://open.spotify.com/track/5vDA0WiwxOzj4AJDKDl1Bz"
+      "duration_ms": 201343,
+      "name": "the other girl (with Halsey)",
+      "url": "https://open.spotify.com/track/3CS5zwqrjggxlRD0QGJAva"
     },
     {
       "added_at": null,
@@ -835,18 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The First Time: 10 Year Anniversary Edition",
-        "url": "https://open.spotify.com/album/4bT4YQv0edl0KrWrrMHpB3"
+        "name": "They Don't Know",
+        "url": "https://open.spotify.com/album/2EhCp9jUMBdrJIrnDrhw4L"
       },
       "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        },
         {
           "name": "Kelsea Ballerini",
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 183582,
-      "name": "Boy Meets Girl (Unreleased Demo)",
-      "url": "https://open.spotify.com/track/37CproXECOynt6rioUnE4s"
+      "duration_ms": 204106,
+      "name": "First Time Again",
+      "url": "https://open.spotify.com/track/7dRnLA0SZFVn62weznwJnk"
     }
   ],
   "unique_name": "This Is Kelsea Ballerini",

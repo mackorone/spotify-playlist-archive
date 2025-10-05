@@ -2271,6 +2271,24 @@
     },
     {
       "album": {
+        "name": "Jacarandosa",
+        "url": "https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197588,
+      "name": "Sin Tu Amor",
+      "url": "https://open.spotify.com/track/7Fk8ERPKE82O8xWwqqj5qB"
+    },
+    {
+      "album": {
         "name": "Lo M\u00e1s Caliente...La Ni\u00f1a Fresa",
         "url": "https://open.spotify.com/album/6aEj3pDjQ8MfWnoyarOdCZ"
       },
@@ -2354,7 +2372,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 162626,
       "name": "Toca Tres Veces",
       "url": "https://open.spotify.com/track/699JdgmsdfNHRAxysWzD1S"

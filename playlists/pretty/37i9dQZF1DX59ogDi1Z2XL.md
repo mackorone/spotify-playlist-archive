@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 ### [Northern Bars](https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL)
 
-> The coldest sounds in hip\-hop, coming out of Canada\. Cover: Connor Price
+> The coldest sounds in hip\-hop, coming out of Canada\. Cover: Planet Giza
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,541 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,551 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 74 | [validate](https://open.spotify.com/track/3nqBdyumPYpb8ydPKCRAcu) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [they said it would rain...](https://open.spotify.com/album/3BXsSGQ3Kc4OYnbQPSoegi) | 2:54 |
 | 75 | [L's](https://open.spotify.com/track/0nftwM7FVkH2yFuWJMmh5P) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 2:03 |
 
-Snapshot ID: `AAAAAGJTmFRrGsC+/oRs8Go0CVTiUdNA`
+Snapshot ID: `AAAAAPEOUwhXchEGVGD2hvVA9rtqoD6Z`

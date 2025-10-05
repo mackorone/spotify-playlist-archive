@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Hans Philip, Taylor Swift, URO og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,570 likes - 106 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,617 likes - 106 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

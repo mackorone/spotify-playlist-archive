@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... El Malilla en portada.",
-  "num_followers": 289301,
+  "num_followers": 289324,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,26 @@
     {
       "added_at": "2025-09-19 06:00:28",
       "album": {
+        "name": "Apaga El Cel",
+        "url": "https://open.spotify.com/album/5Isy5T3w9NjggarK5RxrQZ"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 170832,
+      "name": "Apaga El Cel",
+      "url": "https://open.spotify.com/track/1sXr6moCwVxwKEgSPxhVvF"
+    },
+    {
+      "added_at": "2025-09-19 06:00:28",
+      "album": {
         "name": "Pocos A\u00f1os Mil Errores",
         "url": "https://open.spotify.com/album/3Ss2agKWd4oBWEBcdKsZPe"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 198354,
       "name": "Pocos A\u00f1os Mil Errores",
       "url": "https://open.spotify.com/track/05eWLa61PMRibhFtIHsD0D"
-    },
-    {
-      "added_at": "2025-09-19 06:00:28",
-      "album": {
-        "name": "Apaga El Cel",
-        "url": "https://open.spotify.com/album/5Isy5T3w9NjggarK5RxrQZ"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        },
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 170832,
-      "name": "Apaga El Cel",
-      "url": "https://open.spotify.com/track/1sXr6moCwVxwKEgSPxhVvF"
     },
     {
       "added_at": "2025-09-19 06:00:28",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2025-09-19 06:00:28",
       "album": {
-        "name": "Capuchas",
-        "url": "https://open.spotify.com/album/5g1hYqFTKyktDQ6YMAEJut"
-      },
-      "artists": [
-        {
-          "name": "Fend",
-          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
-        },
-        {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "Capuchas",
-      "url": "https://open.spotify.com/track/2aKIZtzWNPRoDLkITdxGaB"
-    },
-    {
-      "added_at": "2025-09-19 06:00:28",
-      "album": {
         "name": "El Chamaquito",
         "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 139863,
       "name": "El Chamaquito",
       "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
+    },
+    {
+      "added_at": "2025-09-19 06:00:28",
+      "album": {
+        "name": "Capuchas",
+        "url": "https://open.spotify.com/album/5g1hYqFTKyktDQ6YMAEJut"
+      },
+      "artists": [
+        {
+          "name": "Fend",
+          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
+        },
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Capuchas",
+      "url": "https://open.spotify.com/track/2aKIZtzWNPRoDLkITdxGaB"
     },
     {
       "added_at": "2025-09-19 06:00:28",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-09-19 06:00:28",
       "album": {
-        "name": "Sold Out",
-        "url": "https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi"
-      },
-      "artists": [
-        {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
-        }
-      ],
-      "duration_ms": 198036,
-      "name": "Sold Out",
-      "url": "https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx"
-    },
-    {
-      "added_at": "2025-09-19 06:00:28",
-      "album": {
         "name": "La Cagu\u00e9",
         "url": "https://open.spotify.com/album/74gVdaDvYpQF91s7e8eIAN"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 240000,
       "name": "La Cagu\u00e9",
       "url": "https://open.spotify.com/track/2HcRbiUHQZ8NSvYhUgRfC9"
+    },
+    {
+      "added_at": "2025-09-19 06:00:28",
+      "album": {
+        "name": "Sold Out",
+        "url": "https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "duration_ms": 198036,
+      "name": "Sold Out",
+      "url": "https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx"
     },
     {
       "added_at": "2025-09-19 06:00:28",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-09-19 06:00:28",
       "album": {
-        "name": "3 Baikas",
-        "url": "https://open.spotify.com/album/1yb29W0IFRQuf5k7EPf6Wv"
-      },
-      "artists": [
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        }
-      ],
-      "duration_ms": 211948,
-      "name": "3 Baikas",
-      "url": "https://open.spotify.com/track/3iXGu3Rr3cQkep5xeUMVAz"
-    },
-    {
-      "added_at": "2025-09-19 06:00:28",
-      "album": {
         "name": "CINDERELLA",
         "url": "https://open.spotify.com/album/3UCNmAyO3Kwl5kI0ccmZVK"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 216920,
       "name": "CINDERELLA",
       "url": "https://open.spotify.com/track/1dXrN1k5P85gXjcixMa44j"
+    },
+    {
+      "added_at": "2025-09-19 06:00:28",
+      "album": {
+        "name": "3 Baikas",
+        "url": "https://open.spotify.com/album/1yb29W0IFRQuf5k7EPf6Wv"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 211948,
+      "name": "3 Baikas",
+      "url": "https://open.spotify.com/track/3iXGu3Rr3cQkep5xeUMVAz"
     },
     {
       "added_at": "2025-09-19 06:00:28",
@@ -1855,6 +1855,26 @@
     {
       "added_at": "2025-09-19 06:00:28",
       "album": {
+        "name": "Chalineras",
+        "url": "https://open.spotify.com/album/06AC0m6945Q1SLAv6sSvp2"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        }
+      ],
+      "duration_ms": 217033,
+      "name": "Chalineras",
+      "url": "https://open.spotify.com/track/6y9kwY2Z6zOUmVymmj9P06"
+    },
+    {
+      "added_at": "2025-09-19 06:00:28",
+      "album": {
         "name": "XClusive",
         "url": "https://open.spotify.com/album/4I0e6Oe4UIc6GpcTcHityz"
       },
@@ -1875,26 +1895,6 @@
       "duration_ms": 149700,
       "name": "XClusive",
       "url": "https://open.spotify.com/track/46defqRhyto8kFovVjc36n"
-    },
-    {
-      "added_at": "2025-09-19 06:00:28",
-      "album": {
-        "name": "Chalineras",
-        "url": "https://open.spotify.com/album/06AC0m6945Q1SLAv6sSvp2"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        },
-        {
-          "name": "Beto Sierra",
-          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
-        }
-      ],
-      "duration_ms": 217033,
-      "name": "Chalineras",
-      "url": "https://open.spotify.com/track/6y9kwY2Z6zOUmVymmj9P06"
     },
     {
       "added_at": "2025-09-19 06:00:28",

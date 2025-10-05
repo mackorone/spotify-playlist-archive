@@ -1,15 +1,43 @@
 {
   "description": "Your daily update of the most played tracks right now - Greece.",
-  "num_followers": 128991,
+  "num_followers": 129059,
   "original_name": "Top 50 - Greece",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MHM5yAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MHSP+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
+      "album": {
+        "name": "Paidia Tou Feggariou",
+        "url": "https://open.spotify.com/album/0eWIKzJmFpbHbhv33NRhE3"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        },
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        },
+        {
+          "name": "Marina Satti",
+          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
+        }
+      ],
+      "duration_ms": 230750,
+      "name": "Paidia Tou Feggariou",
+      "url": "https://open.spotify.com/track/6DprMwVs2mHbGN2U6qenzQ"
+    },
+    {
+      "added_at": "2025-10-04 13:44:37",
       "album": {
         "name": "PARADISO",
         "url": "https://open.spotify.com/album/0K9I0a6MdMq7wvJUWfOY5B"
@@ -41,7 +69,7 @@
       "url": "https://open.spotify.com/track/74eCVhPx2IXqqrqLxGLiPN"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
       "album": {
         "name": "Alkoolikes I Nihtes",
         "url": "https://open.spotify.com/album/2DhTZJ7uoABIuwAceeBWq4"
@@ -57,7 +85,7 @@
       "url": "https://open.spotify.com/track/3wXwptbzcV60VOzQz0ODG4"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
       "album": {
         "name": "PATEK",
         "url": "https://open.spotify.com/album/0FWFzZwAFVmfyuev4tv0Km"
@@ -81,27 +109,55 @@
       "url": "https://open.spotify.com/track/4hP3SgO11Vn5ZPW2UfK73q"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
       "album": {
-        "name": "XWRA TOU POTE",
-        "url": "https://open.spotify.com/album/0xek4EZBuAPeNmkVzM3gSs"
+        "name": "Prezi",
+        "url": "https://open.spotify.com/album/25W0wFI9LqcziSkZob1Smn"
       },
       "artists": [
         {
-          "name": "Sicario",
-          "url": "https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV"
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
         },
         {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
         }
       ],
-      "duration_ms": 154705,
-      "name": "KOUKLA",
-      "url": "https://open.spotify.com/track/2OtlJi8vzajxp51W9gYwCO"
+      "duration_ms": 169811,
+      "name": "Prezi",
+      "url": "https://open.spotify.com/track/7pm3I8p2MWYcjEyZKoVMcd"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
+      "album": {
+        "name": "Paidia Tou Feggariou",
+        "url": "https://open.spotify.com/album/0eWIKzJmFpbHbhv33NRhE3"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        },
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "duration_ms": 242597,
+      "name": "Xrysi Kardia",
+      "url": "https://open.spotify.com/track/1BzDu5khJpnirb9g8pmAta"
+    },
+    {
+      "added_at": "2025-10-04 13:44:37",
       "album": {
         "name": "SEADOO",
         "url": "https://open.spotify.com/album/2T5uudWve4hhgTHVnaMGcl"
@@ -121,7 +177,23 @@
       "url": "https://open.spotify.com/track/2O6rvtuZnW3yCa1ASbTk6g"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+    },
+    {
+      "added_at": "2025-10-04 13:44:37",
       "album": {
         "name": "XWRA TOU POTE",
         "url": "https://open.spotify.com/album/0xek4EZBuAPeNmkVzM3gSs"
@@ -136,12 +208,12 @@
           "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
         }
       ],
-      "duration_ms": 186122,
-      "name": "FWTIA",
-      "url": "https://open.spotify.com/track/4NJzucf3s44ZN2E7kcoE0a"
+      "duration_ms": 154705,
+      "name": "KOUKLA",
+      "url": "https://open.spotify.com/track/2OtlJi8vzajxp51W9gYwCO"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
       "album": {
         "name": "Aroma",
         "url": "https://open.spotify.com/album/40lSpv9DUV1CrP0ZMHozpj"
@@ -169,7 +241,67 @@
       "url": "https://open.spotify.com/track/3DUb10VKSNh0dVG8ZEszNn"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
+      "album": {
+        "name": "Paidia Tou Feggariou",
+        "url": "https://open.spotify.com/album/0eWIKzJmFpbHbhv33NRhE3"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "duration_ms": 185374,
+      "name": "Kolopaida",
+      "url": "https://open.spotify.com/track/3eEZ6KdHBWtjOGLRll7Nzf"
+    },
+    {
+      "added_at": "2025-10-04 13:44:37",
+      "album": {
+        "name": "Nero",
+        "url": "https://open.spotify.com/album/1TzT3q0Z7rRE7jwjyXdg8y"
+      },
+      "artists": [
+        {
+          "name": "Konstantinos Argiros",
+          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
+        },
+        {
+          "name": "Noizy",
+          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Nero",
+      "url": "https://open.spotify.com/track/2ubEbpEKlROchIqMYQSC9f"
+    },
+    {
+      "added_at": "2025-10-04 13:44:37",
+      "album": {
+        "name": "Paidia Tou Feggariou",
+        "url": "https://open.spotify.com/album/0eWIKzJmFpbHbhv33NRhE3"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "duration_ms": 220041,
+      "name": "Rendez-vous",
+      "url": "https://open.spotify.com/track/38xVobP0F1HWTtgwgXaPLg"
+    },
+    {
+      "added_at": "2025-10-04 13:44:37",
       "album": {
         "name": "ICE C.R.E.A.M.",
         "url": "https://open.spotify.com/album/2kdQSVWNpmSFk1y4g2DQDl"
@@ -193,43 +325,75 @@
       "url": "https://open.spotify.com/track/7nWCBmf2cLyMzXQTnYgSvr"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
       "album": {
-        "name": "Primo",
-        "url": "https://open.spotify.com/album/3u9Rvw4L844wtiuKXqGgrS"
+        "name": "XWRA TOU POTE",
+        "url": "https://open.spotify.com/album/0xek4EZBuAPeNmkVzM3gSs"
       },
       "artists": [
         {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Primo",
-      "url": "https://open.spotify.com/track/4Sp2yyp8BbY0nIYrsbEqOz"
-    },
-    {
-      "added_at": "2025-10-03 14:11:49",
-      "album": {
-        "name": "Nero",
-        "url": "https://open.spotify.com/album/1TzT3q0Z7rRE7jwjyXdg8y"
-      },
-      "artists": [
-        {
-          "name": "Konstantinos Argiros",
-          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
+          "name": "Sicario",
+          "url": "https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV"
         },
         {
-          "name": "Noizy",
-          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Nero",
-      "url": "https://open.spotify.com/track/2ubEbpEKlROchIqMYQSC9f"
+      "duration_ms": 186122,
+      "name": "FWTIA",
+      "url": "https://open.spotify.com/track/4NJzucf3s44ZN2E7kcoE0a"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
+      "album": {
+        "name": "Paidia Tou Feggariou",
+        "url": "https://open.spotify.com/album/0eWIKzJmFpbHbhv33NRhE3"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        },
+        {
+          "name": "Mikros Kleftis",
+          "url": "https://open.spotify.com/artist/1WNkrtDTdQ5izZf5L372i9"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "duration_ms": 180250,
+      "name": "Einai Magika",
+      "url": "https://open.spotify.com/track/2G162R7zBBxY59Ub77xL8n"
+    },
+    {
+      "added_at": "2025-10-04 13:44:37",
+      "album": {
+        "name": "Paidia Tou Feggariou",
+        "url": "https://open.spotify.com/album/0eWIKzJmFpbHbhv33NRhE3"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        },
+        {
+          "name": "Solid",
+          "url": "https://open.spotify.com/artist/46L0pH2TWTjzpnWeYhOfZn"
+        }
+      ],
+      "duration_ms": 181145,
+      "name": "Parapanw",
+      "url": "https://open.spotify.com/track/1gGtpSxK6ZYjH00tl0geIU"
+    },
+    {
+      "added_at": "2025-10-04 13:44:37",
       "album": {
         "name": "Fthina Tricks 3",
         "url": "https://open.spotify.com/album/7KA4oKgG0mzJ62dzs9SlyK"
@@ -249,7 +413,171 @@
       "url": "https://open.spotify.com/track/3lS1r65AbkPdljhDrRQEyV"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
+      "album": {
+        "name": "Primo",
+        "url": "https://open.spotify.com/album/3u9Rvw4L844wtiuKXqGgrS"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Primo",
+      "url": "https://open.spotify.com/track/4Sp2yyp8BbY0nIYrsbEqOz"
+    },
+    {
+      "added_at": "2025-10-04 13:44:37",
+      "album": {
+        "name": "Paidia Tou Feggariou",
+        "url": "https://open.spotify.com/album/0eWIKzJmFpbHbhv33NRhE3"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        },
+        {
+          "name": "Gus G.",
+          "url": "https://open.spotify.com/artist/6LEttL8kbm67tcEy84Qh5O"
+        }
+      ],
+      "duration_ms": 176374,
+      "name": "LOV\u20ac",
+      "url": "https://open.spotify.com/track/4VMYNl6ASQD4bsryGRIuKm"
+    },
+    {
+      "added_at": "2025-10-04 13:44:37",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 208291,
+      "name": "Elizabeth Taylor",
+      "url": "https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL"
+    },
+    {
+      "added_at": "2025-10-04 13:44:37",
+      "album": {
+        "name": "Paidia Tou Feggariou",
+        "url": "https://open.spotify.com/album/0eWIKzJmFpbHbhv33NRhE3"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "duration_ms": 152187,
+      "name": "Oxi To 100",
+      "url": "https://open.spotify.com/track/6081cHWAcRVnv3H8GiWfbE"
+    },
+    {
+      "added_at": "2025-10-04 13:44:37",
+      "album": {
+        "name": "Paidia Tou Feggariou",
+        "url": "https://open.spotify.com/album/0eWIKzJmFpbHbhv33NRhE3"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Simademenoi",
+      "url": "https://open.spotify.com/track/7eeBv8TrfWfyW0UbSHsryI"
+    },
+    {
+      "added_at": "2025-10-04 13:44:37",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235355,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3euZKF0hmGxQ6h2JHHY4iu"
+    },
+    {
+      "added_at": "2025-10-04 13:44:37",
+      "album": {
+        "name": "Paidia Tou Feggariou",
+        "url": "https://open.spotify.com/album/0eWIKzJmFpbHbhv33NRhE3"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "duration_ms": 178094,
+      "name": "Mad City",
+      "url": "https://open.spotify.com/track/75xYSganAcTJ4nWASyb3vk"
+    },
+    {
+      "added_at": "2025-10-04 13:44:37",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 212777,
+      "name": "Father Figure",
+      "url": "https://open.spotify.com/track/03bTIHJElXZ0O0jqOQvAbY"
+    },
+    {
+      "added_at": "2025-10-04 13:44:37",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 211498,
+      "name": "CANCELLED!",
+      "url": "https://open.spotify.com/track/1appZ3c336FkPvCuywfmrs"
+    },
+    {
+      "added_at": "2025-10-04 13:44:37",
       "album": {
         "name": "EMMONI IDEA",
         "url": "https://open.spotify.com/album/5YFnE8E82pTVA3nuU8x5Zb"
@@ -273,27 +601,7 @@
       "url": "https://open.spotify.com/track/0kcQD5QcAG7jzY1gkHbEDY"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
-      "album": {
-        "name": "G.T.K.",
-        "url": "https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
-        },
-        {
-          "name": "Dof Twogee",
-          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
-        }
-      ],
-      "duration_ms": 217110,
-      "name": "Alitiki Agapi",
-      "url": "https://open.spotify.com/track/4cevw8iIIMDXzI0XIEnCpv"
-    },
-    {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
       "album": {
         "name": "1%",
         "url": "https://open.spotify.com/album/3VV0IJpxgIPSxesoopN6s0"
@@ -309,7 +617,7 @@
       "url": "https://open.spotify.com/track/0Kx9GDeRcQyzaMQRqIk12j"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
       "album": {
         "name": "G.T.K.",
         "url": "https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la"
@@ -329,31 +637,79 @@
       "url": "https://open.spotify.com/track/5RquJn4F0DjTTzroC5pQRY"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
       "album": {
-        "name": "Prezi",
-        "url": "https://open.spotify.com/album/25W0wFI9LqcziSkZob1Smn"
+        "name": "G.T.K.",
+        "url": "https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la"
       },
       "artists": [
         {
-          "name": "FLY LO",
-          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
         },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "duration_ms": 217110,
+      "name": "Alitiki Agapi",
+      "url": "https://open.spotify.com/track/4cevw8iIIMDXzI0XIEnCpv"
+    },
+    {
+      "added_at": "2025-10-04 13:44:37",
+      "album": {
+        "name": "KAKO",
+        "url": "https://open.spotify.com/album/6BKBBxMICtMDMsER47ZjXe"
+      },
+      "artists": [
         {
           "name": "TOQUEL",
           "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
         },
         {
-          "name": "Mike G",
-          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+          "name": "ObieDaz",
+          "url": "https://open.spotify.com/artist/08GTkgJXi9tedLqjbLDLCP"
         }
       ],
-      "duration_ms": 169811,
-      "name": "Prezi",
-      "url": "https://open.spotify.com/track/7pm3I8p2MWYcjEyZKoVMcd"
+      "duration_ms": 186947,
+      "name": "KAKO",
+      "url": "https://open.spotify.com/track/28kpCoILnxmKUc6AMO6NEu"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
+      "album": {
+        "name": "SOSA",
+        "url": "https://open.spotify.com/album/6810zgdbl1djlk13WXQOFx"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        }
+      ],
+      "duration_ms": 168428,
+      "name": "SOSA",
+      "url": "https://open.spotify.com/track/1j8aRXVJFYkDWEUpZeGrdc"
+    },
+    {
+      "added_at": "2025-10-04 13:44:37",
+      "album": {
+        "name": "Mosca",
+        "url": "https://open.spotify.com/album/3CAeqi03slw8IKpo9ljcbI"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "duration_ms": 212244,
+      "name": "Mosca",
+      "url": "https://open.spotify.com/track/6dX52uQdpwEDkgAcNjOwuI"
+    },
+    {
+      "added_at": "2025-10-04 13:44:37",
       "album": {
         "name": "SYNTAGH",
         "url": "https://open.spotify.com/album/1RW7ZSxu05jD61IOeydBAi"
@@ -377,23 +733,23 @@
       "url": "https://open.spotify.com/track/48ZHtSECQg0LISXnGrHSum"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
       "album": {
-        "name": "SOSA",
-        "url": "https://open.spotify.com/album/6810zgdbl1djlk13WXQOFx"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
-          "name": "SNIK",
-          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 168428,
-      "name": "SOSA",
-      "url": "https://open.spotify.com/track/1j8aRXVJFYkDWEUpZeGrdc"
+      "duration_ms": 246356,
+      "name": "Eldest Daughter",
+      "url": "https://open.spotify.com/track/62HoDY1Km6lm47haFpUn9c"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
       "album": {
         "name": "4AM IN IBIZA",
         "url": "https://open.spotify.com/album/5FxiBOrZbYDCik9EnQpNL5"
@@ -413,23 +769,23 @@
       "url": "https://open.spotify.com/track/77U0fCBBkM4MfTBUZBzaF9"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
       "album": {
-        "name": "Mosca",
-        "url": "https://open.spotify.com/album/3CAeqi03slw8IKpo9ljcbI"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 212244,
-      "name": "Mosca",
-      "url": "https://open.spotify.com/track/6dX52uQdpwEDkgAcNjOwuI"
+      "duration_ms": 163699,
+      "name": "Actually Romantic",
+      "url": "https://open.spotify.com/track/2x3mwb96B6TquRqMtbxUE1"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
       "album": {
         "name": "BAD BOY 3",
         "url": "https://open.spotify.com/album/4DXYeuH5LDPoN8MA8ZOO31"
@@ -445,51 +801,7 @@
       "url": "https://open.spotify.com/track/00Kgg0HjZyeIDTWGWHw3kp"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
-      "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/5CPfihmme19iTL4VuZedQT"
-      },
-      "artists": [
-        {
-          "name": "Ivan Greko",
-          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
-        },
-        {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        },
-        {
-          "name": "BeTaf Beats",
-          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
-        }
-      ],
-      "duration_ms": 176571,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/2InisuUeQxBarfQ33xn8Md"
-    },
-    {
-      "added_at": "2025-10-03 14:11:49",
-      "album": {
-        "name": "KAKO",
-        "url": "https://open.spotify.com/album/6BKBBxMICtMDMsER47ZjXe"
-      },
-      "artists": [
-        {
-          "name": "TOQUEL",
-          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
-        },
-        {
-          "name": "ObieDaz",
-          "url": "https://open.spotify.com/artist/08GTkgJXi9tedLqjbLDLCP"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "KAKO",
-      "url": "https://open.spotify.com/track/28kpCoILnxmKUc6AMO6NEu"
-    },
-    {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
       "album": {
         "name": "ILEGAL",
         "url": "https://open.spotify.com/album/0XIVH728KNI7KdI19fHeaF"
@@ -513,110 +825,78 @@
       "url": "https://open.spotify.com/track/3Q3e0KMeCinQONCLJyO69X"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
       "album": {
-        "name": "Oneiropolos",
-        "url": "https://open.spotify.com/album/4aWRnOdlk1K83Bf4uDf2u2"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
-          "name": "APON",
-          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 144705,
-      "name": "Provlimata",
-      "url": "https://open.spotify.com/track/0SwDKWxXKHKGSKXrLtA0xH"
+      "duration_ms": 241766,
+      "name": "The Life of a Showgirl (feat. Sabrina Carpenter)",
+      "url": "https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
       "album": {
-        "name": "EGEFALIKO",
-        "url": "https://open.spotify.com/album/2P8Wse74JI6ohaxhKdaKcp"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
-          "name": "Kidd",
-          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
-        },
-        {
-          "name": "BLVD Studio",
-          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 138000,
-      "name": "EGEFALIKO",
-      "url": "https://open.spotify.com/track/6jhNVmFLWD5LPGrpLfCw67"
+      "duration_ms": 207349,
+      "name": "Wi$h Li$t",
+      "url": "https://open.spotify.com/track/2TEQvxxQabwLQMqWMg1qGu"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
       "album": {
-        "name": "BAD BOY 3",
-        "url": "https://open.spotify.com/album/4DXYeuH5LDPoN8MA8ZOO31"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 191489,
-      "name": "FTAIW EGW",
-      "url": "https://open.spotify.com/track/0R1t9FcBUuoew8ndJ8ubut"
+      "duration_ms": 220564,
+      "name": "Ruin The Friendship",
+      "url": "https://open.spotify.com/track/62V2ZHslgQV98gH4AuVXnr"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
       "album": {
-        "name": "ILEGAL",
-        "url": "https://open.spotify.com/album/0XIVH728KNI7KdI19fHeaF"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
-          "name": "TOQUEL",
-          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
-        },
-        {
-          "name": "FLY LO",
-          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 168888,
-      "name": "ILEGAL",
-      "url": "https://open.spotify.com/track/6R2utRyFhiEBnyz6afQ9Pe"
+      "duration_ms": 150517,
+      "name": "Wood",
+      "url": "https://open.spotify.com/track/5ylJtmaWPJ33cW3En7WOu0"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
       "album": {
-        "name": "ILEGAL",
-        "url": "https://open.spotify.com/album/0XIVH728KNI7KdI19fHeaF"
-      },
-      "artists": [
-        {
-          "name": "TOQUEL",
-          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
-        },
-        {
-          "name": "FLY LO",
-          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
-        }
-      ],
-      "duration_ms": 156069,
-      "name": "DOLCE GABBANA",
-      "url": "https://open.spotify.com/track/7r0sYhhoM4hjeuCDlbCobZ"
-    },
-    {
-      "added_at": "2025-10-03 14:11:49",
-      "album": {
-        "name": "ICE C.R.E.A.M.",
-        "url": "https://open.spotify.com/album/2kdQSVWNpmSFk1y4g2DQDl"
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/5CPfihmme19iTL4VuZedQT"
       },
       "artists": [
         {
@@ -624,16 +904,20 @@
           "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
         },
         {
-          "name": "Oge",
-          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
         }
       ],
-      "duration_ms": 165148,
-      "name": "C'EST LA VIE",
-      "url": "https://open.spotify.com/track/24lFkOGD335Gqix1VDFHYH"
+      "duration_ms": 176571,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/2InisuUeQxBarfQ33xn8Md"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
       "album": {
         "name": "EGO THERAPY",
         "url": "https://open.spotify.com/album/1q26U80QVKg26wIZpBGFi8"
@@ -657,135 +941,27 @@
       "url": "https://open.spotify.com/track/6D5QFkJLHYuv5f7hvslZxz"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
       "album": {
-        "name": "O Xoros Tou Fy",
-        "url": "https://open.spotify.com/album/5B7KNfCrSFSPJdZjJV8Xui"
+        "name": "EGEFALIKO",
+        "url": "https://open.spotify.com/album/2P8Wse74JI6ohaxhKdaKcp"
       },
       "artists": [
         {
-          "name": "Fy",
-          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
-        },
-        {
-          "name": "Arab",
-          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
         },
         {
           "name": "BLVD Studio",
           "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
         }
       ],
-      "duration_ms": 171705,
-      "name": "Mamacita",
-      "url": "https://open.spotify.com/track/0sh8BOMXIJxPZW1pasio6P"
+      "duration_ms": 138000,
+      "name": "EGEFALIKO",
+      "url": "https://open.spotify.com/track/6jhNVmFLWD5LPGrpLfCw67"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
-      "album": {
-        "name": "5 AM",
-        "url": "https://open.spotify.com/album/18LPhQUpQbp4QkoX27LyfZ"
-      },
-      "artists": [
-        {
-          "name": "Saske",
-          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
-        }
-      ],
-      "duration_ms": 195345,
-      "name": "5 AM",
-      "url": "https://open.spotify.com/track/1JGntUi9e8Oe2N5lBdXYGU"
-    },
-    {
-      "added_at": "2025-10-03 14:11:49",
-      "album": {
-        "name": "Oneiropolos",
-        "url": "https://open.spotify.com/album/4aWRnOdlk1K83Bf4uDf2u2"
-      },
-      "artists": [
-        {
-          "name": "APON",
-          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
-        }
-      ],
-      "duration_ms": 157578,
-      "name": "Xiliometra",
-      "url": "https://open.spotify.com/track/2zR6FzBG3hAfZoWz7MsqT1"
-    },
-    {
-      "added_at": "2025-10-03 14:11:49",
-      "album": {
-        "name": "BAD BOY 3",
-        "url": "https://open.spotify.com/album/4DXYeuH5LDPoN8MA8ZOO31"
-      },
-      "artists": [
-        {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        }
-      ],
-      "duration_ms": 193777,
-      "name": "PROTI FORA",
-      "url": "https://open.spotify.com/track/2ZP1SQPZboChRCbxhh6sBh"
-    },
-    {
-      "added_at": "2025-10-03 14:11:49",
-      "album": {
-        "name": "Alkoolikes I Nihtes",
-        "url": "https://open.spotify.com/album/2DhTZJ7uoABIuwAceeBWq4"
-      },
-      "artists": [
-        {
-          "name": "Pantelis Pantelidis",
-          "url": "https://open.spotify.com/artist/1TubjoUgPPYHfMoUrvJxP3"
-        }
-      ],
-      "duration_ms": 202596,
-      "name": "Paramithiazome",
-      "url": "https://open.spotify.com/track/6U6aKOxwETZ38VVyt4JZLu"
-    },
-    {
-      "added_at": "2025-10-03 14:11:49",
-      "album": {
-        "name": "Apagorevmeno",
-        "url": "https://open.spotify.com/album/23T6QbCsClxJ7imMKAKp0G"
-      },
-      "artists": [
-        {
-          "name": "Anna Vissi",
-          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "Kontra",
-      "url": "https://open.spotify.com/track/0dMasOoYB6bpcu35QpScjc"
-    },
-    {
-      "added_at": "2025-10-03 14:11:49",
-      "album": {
-        "name": "EGO THERAPY",
-        "url": "https://open.spotify.com/album/1q26U80QVKg26wIZpBGFi8"
-      },
-      "artists": [
-        {
-          "name": "RACK",
-          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
-        },
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
-        }
-      ],
-      "duration_ms": 169696,
-      "name": "OMERTA",
-      "url": "https://open.spotify.com/track/3SX7Wbl2uotkaeKUJkrP85"
-    },
-    {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
       "album": {
         "name": "P.O.S.",
         "url": "https://open.spotify.com/album/2Shh4sMBBv3Uq5Klg9n2xd"
@@ -805,212 +981,44 @@
       "url": "https://open.spotify.com/track/0VzLi4og9pVyuoo4jfjkWw"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
       "album": {
-        "name": "Ax Kardia Mou",
-        "url": "https://open.spotify.com/album/12DviWYgAjScvO1TTpoUnf"
+        "name": "BAD BOY 3",
+        "url": "https://open.spotify.com/album/4DXYeuH5LDPoN8MA8ZOO31"
       },
       "artists": [
         {
-          "name": "Konstantinos Argiros",
-          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
         }
       ],
-      "duration_ms": 179498,
-      "name": "Ax Kardia Mou",
-      "url": "https://open.spotify.com/track/0PFoC7hLMPv5NJ2l8xpofj"
+      "duration_ms": 191489,
+      "name": "FTAIW EGW",
+      "url": "https://open.spotify.com/track/0R1t9FcBUuoew8ndJ8ubut"
     },
     {
-      "added_at": "2025-10-03 14:11:49",
+      "added_at": "2025-10-04 13:44:37",
       "album": {
-        "name": "Unplugged 2",
-        "url": "https://open.spotify.com/album/3T2qowmSsKM33FKvwFGVf1"
-      },
-      "artists": [
-        {
-          "name": "Nikos Apergis",
-          "url": "https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d"
-        }
-      ],
-      "duration_ms": 171042,
-      "name": "To Glenti - Matia Mou Kai Go Gia Sena Exo",
-      "url": "https://open.spotify.com/track/6153saBJWv9QHvxQsdGryv"
-    },
-    {
-      "added_at": "2025-10-03 14:11:49",
-      "album": {
-        "name": "H MASKA",
-        "url": "https://open.spotify.com/album/5sJyWYQHi5jamYY4XZY4cY"
-      },
-      "artists": [
-        {
-          "name": "Sicario",
-          "url": "https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "XOROS",
-      "url": "https://open.spotify.com/track/7EeEMoAJVKzhO5uqNH7Oqm"
-    },
-    {
-      "added_at": "2025-10-03 14:11:49",
-      "album": {
-        "name": "Beverly Hills",
-        "url": "https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW"
+        "name": "ILEGAL",
+        "url": "https://open.spotify.com/album/0XIVH728KNI7KdI19fHeaF"
       },
       "artists": [
         {
           "name": "TOQUEL",
           "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Beverly Hills",
-      "url": "https://open.spotify.com/track/5j2qq0EBEAceOdff92l4qZ"
-    },
-    {
-      "added_at": "2025-10-03 14:11:49",
-      "album": {
-        "name": "G.T.K.",
-        "url": "https://open.spotify.com/album/5c1QYJZUSVTddywzKrN4la"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
         },
         {
-          "name": "Dof Twogee",
-          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
-        }
-      ],
-      "duration_ms": 207225,
-      "name": "Nyxterides",
-      "url": "https://open.spotify.com/track/7rgTr97Ob29FuuKCHqB7a4"
-    },
-    {
-      "added_at": "2025-10-03 14:11:49",
-      "album": {
-        "name": "MOLOTOV",
-        "url": "https://open.spotify.com/album/7pDsDMQJ0KlmBCucDynLcQ"
-      },
-      "artists": [
-        {
-          "name": "RICTA",
-          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
         },
         {
-          "name": "BLVD Studio",
-          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
         }
       ],
-      "duration_ms": 164506,
-      "name": "MOLOTOV",
-      "url": "https://open.spotify.com/track/1U9oT9anqEgC7axD1Th7NT"
-    },
-    {
-      "added_at": "2025-10-03 14:11:49",
-      "album": {
-        "name": "MAVRI ELLADA",
-        "url": "https://open.spotify.com/album/1VLERIT9MWXQGypnzYaTe9"
-      },
-      "artists": [
-        {
-          "name": "Negros Tou Moria",
-          "url": "https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1"
-        },
-        {
-          "name": "Bloody Hawk",
-          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
-        },
-        {
-          "name": "ODYDOZE",
-          "url": "https://open.spotify.com/artist/3joZFtD641x3Iv1fJ74ybQ"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "Kapos Allios",
-      "url": "https://open.spotify.com/track/2AQtKCJgmykkIC2bODzcfN"
-    },
-    {
-      "added_at": "2025-10-03 14:11:49",
-      "album": {
-        "name": "Echo Summer",
-        "url": "https://open.spotify.com/album/1OyocKYIOGfX3OZz7GNweI"
-      },
-      "artists": [
-        {
-          "name": "Verde",
-          "url": "https://open.spotify.com/artist/5caqmh5ZXnKSx8vmdsCA9v"
-        },
-        {
-          "name": "Kidd",
-          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
-        },
-        {
-          "name": "Echo",
-          "url": "https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD"
-        }
-      ],
-      "duration_ms": 206640,
-      "name": "Echo Summer",
-      "url": "https://open.spotify.com/track/2HdusSddU4ImVttg4Rl9b1"
-    },
-    {
-      "added_at": "2025-10-03 14:11:49",
-      "album": {
-        "name": "Primo",
-        "url": "https://open.spotify.com/album/3u9Rvw4L844wtiuKXqGgrS"
-      },
-      "artists": [
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        }
-      ],
-      "duration_ms": 257647,
-      "name": "Peta Ta",
-      "url": "https://open.spotify.com/track/0UFPiis9uHJcYbTVp0hmkB"
-    },
-    {
-      "added_at": "2025-10-03 14:11:49",
-      "album": {
-        "name": "Fthina Tricks 3",
-        "url": "https://open.spotify.com/album/7KA4oKgG0mzJ62dzs9SlyK"
-      },
-      "artists": [
-        {
-          "name": "Bloody Hawk",
-          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
-        },
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
-        }
-      ],
-      "duration_ms": 274666,
-      "name": "Antigonidon",
-      "url": "https://open.spotify.com/track/5XoBIF0Y6zaHjMnf2aZsMh"
-    },
-    {
-      "added_at": "2025-10-03 14:11:49",
-      "album": {
-        "name": "1%",
-        "url": "https://open.spotify.com/album/3VV0IJpxgIPSxesoopN6s0"
-      },
-      "artists": [
-        {
-          "name": "RACK",
-          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
-        },
-        {
-          "name": "Sin Laurent",
-          "url": "https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE"
-        }
-      ],
-      "duration_ms": 127179,
-      "name": "AJO",
-      "url": "https://open.spotify.com/track/4zrCTfiRoVOXrz3q0sNW5B"
+      "duration_ms": 168888,
+      "name": "ILEGAL",
+      "url": "https://open.spotify.com/track/6R2utRyFhiEBnyz6afQ9Pe"
     }
   ],
   "unique_name": "Top 50 - Greece",

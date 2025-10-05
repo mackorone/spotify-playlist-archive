@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 26166,
+  "num_followers": 26172,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
@@ -583,34 +583,6 @@
     {
       "added_at": "2025-09-15 14:00:17",
       "album": {
-        "name": "Strauss: Heimliche Aufforderung",
-        "url": "https://open.spotify.com/album/7IwIpZ4Z6kWUuUdnmca7LG"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Christiane Karg",
-          "url": "https://open.spotify.com/artist/1ciVg5ahmKB06VBabf8tsL"
-        },
-        {
-          "name": "Malcolm Martineau",
-          "url": "https://open.spotify.com/artist/1i6erSbtyzD87TZVxLSiC2"
-        },
-        {
-          "name": "Felix Klieser",
-          "url": "https://open.spotify.com/artist/6iEsUJcTGn6UC6G4Qce84z"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Alphorn, o. Op.",
-      "url": "https://open.spotify.com/track/0UWQtxUehtClFEDEOaQLGO"
-    },
-    {
-      "added_at": "2025-09-15 14:00:17",
-      "album": {
         "name": "Verklarte Nacht",
         "url": "https://open.spotify.com/album/3DxFVpg1RqtjZTyqJsya26"
       },
@@ -635,6 +607,34 @@
       "duration_ms": 577160,
       "name": "Strauss: Capriccio, Op. 85: Einleitung",
       "url": "https://open.spotify.com/track/0ikGKOEhmahJPTpjN5FAif"
+    },
+    {
+      "added_at": "2025-09-15 14:00:17",
+      "album": {
+        "name": "Strauss: Heimliche Aufforderung",
+        "url": "https://open.spotify.com/album/7IwIpZ4Z6kWUuUdnmca7LG"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Christiane Karg",
+          "url": "https://open.spotify.com/artist/1ciVg5ahmKB06VBabf8tsL"
+        },
+        {
+          "name": "Malcolm Martineau",
+          "url": "https://open.spotify.com/artist/1i6erSbtyzD87TZVxLSiC2"
+        },
+        {
+          "name": "Felix Klieser",
+          "url": "https://open.spotify.com/artist/6iEsUJcTGn6UC6G4Qce84z"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Alphorn, o. Op.",
+      "url": "https://open.spotify.com/track/0UWQtxUehtClFEDEOaQLGO"
     },
     {
       "added_at": "2025-09-15 14:00:17",
@@ -714,11 +714,19 @@
         {
           "name": "Guillaume Bellom",
           "url": "https://open.spotify.com/artist/0z1uScA0e01UuE6ipHzEFK"
+        },
+        {
+          "name": "Paul Zientara",
+          "url": "https://open.spotify.com/artist/3mbbBgW0aTo0294ZNvWUq9"
+        },
+        {
+          "name": "Julia Hagen",
+          "url": "https://open.spotify.com/artist/3MEY8aVoJVsOCc1rzMdy0t"
         }
       ],
-      "duration_ms": 561213,
-      "name": "Violin Sonata, Op. 18: III. Finale. Andante \u2013 Allegro",
-      "url": "https://open.spotify.com/track/01koCQF0MDzDDejmfEKc1A"
+      "duration_ms": 631573,
+      "name": "Piano Quartet in C Minor, Op. 13: IV. Finale. Vivace",
+      "url": "https://open.spotify.com/track/3DO0StDHtu4HrV4daIUAMs"
     },
     {
       "added_at": "2025-09-15 14:00:17",
@@ -738,19 +746,11 @@
         {
           "name": "Guillaume Bellom",
           "url": "https://open.spotify.com/artist/0z1uScA0e01UuE6ipHzEFK"
-        },
-        {
-          "name": "Paul Zientara",
-          "url": "https://open.spotify.com/artist/3mbbBgW0aTo0294ZNvWUq9"
-        },
-        {
-          "name": "Julia Hagen",
-          "url": "https://open.spotify.com/artist/3MEY8aVoJVsOCc1rzMdy0t"
         }
       ],
-      "duration_ms": 631573,
-      "name": "Piano Quartet in C Minor, Op. 13: IV. Finale. Vivace",
-      "url": "https://open.spotify.com/track/3DO0StDHtu4HrV4daIUAMs"
+      "duration_ms": 561213,
+      "name": "Violin Sonata, Op. 18: III. Finale. Andante \u2013 Allegro",
+      "url": "https://open.spotify.com/track/01koCQF0MDzDDejmfEKc1A"
     },
     {
       "added_at": "2025-09-15 14:00:17",
@@ -783,30 +783,6 @@
     {
       "added_at": "2025-09-15 14:00:17",
       "album": {
-        "name": "R. Strauss: Sinfonia domestica; Macbeth",
-        "url": "https://open.spotify.com/album/6JEexXnUl1TsPNBVJqPi6r"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Lorin Maazel",
-          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
-        }
-      ],
-      "duration_ms": 314533,
-      "name": "Sinfonia domestica, Op. 53: I. Themes. Bewegt \u2013 Sehr lebhaft \u2013 Ruhig - Live at Musikverein, Vienna, 1983",
-      "url": "https://open.spotify.com/track/6GrbXVGfli9piw0DtBElH3"
-    },
-    {
-      "added_at": "2025-09-15 14:00:17",
-      "album": {
         "name": "Strauss: Metamorphosis & An Alpine Symphony, Op. 64",
         "url": "https://open.spotify.com/album/4bkr77Tbm5Z8pW7YG8jHkN"
       },
@@ -827,6 +803,30 @@
       "duration_ms": 207080,
       "name": "Strauss, R: An Alpine Symphony, Op. 64: I. Night",
       "url": "https://open.spotify.com/track/4VFfjSKlobyKBdizYMveG7"
+    },
+    {
+      "added_at": "2025-09-15 14:00:17",
+      "album": {
+        "name": "R. Strauss: Sinfonia domestica; Macbeth",
+        "url": "https://open.spotify.com/album/6JEexXnUl1TsPNBVJqPi6r"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Lorin Maazel",
+          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
+        }
+      ],
+      "duration_ms": 314533,
+      "name": "Sinfonia domestica, Op. 53: I. Themes. Bewegt \u2013 Sehr lebhaft \u2013 Ruhig - Live at Musikverein, Vienna, 1983",
+      "url": "https://open.spotify.com/track/6GrbXVGfli9piw0DtBElH3"
     },
     {
       "added_at": "2025-09-15 14:00:17",

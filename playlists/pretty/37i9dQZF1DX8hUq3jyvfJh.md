@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Gaby Amarantos e mais mulheres incríveis no volume máximo! co\-curada por Gaby Amarantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,456 likes - 46 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,449 likes - 46 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,16 +24,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 14 | [Figa De Guiné](https://open.spotify.com/track/0r3Mm4DMDknVpd9phO76v0) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Sabiá Marrom \- O Samba Raro De Alcione](https://open.spotify.com/album/2zEkyyq57U6JokONwsVy5H) | 2:19 |
 | 15 | [POTE DE OURO](https://open.spotify.com/track/3f1lEgEorble8TWplM949r) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 3:58 |
 | 16 | [Banho de Folhas](https://open.spotify.com/track/1RJJN0Q4lAwh13t2keNEFK) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/6Qg6H9Uo0Iymf3OROPLSDN) | 6:29 |
-| 17 | [Que Pecado!](https://open.spotify.com/track/5djr1EgrgGLBbZD8xOxNPs) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Que Pecado!](https://open.spotify.com/album/3WXo4tB3KteRN81GGqNlOi) | 2:43 |
+| 17 | [Aquém](https://open.spotify.com/track/0LBT6TP41Co8TS0e67uEM1) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Aquém](https://open.spotify.com/album/6NZZi9wN1XTX9dtKEoa90y) | 2:34 |
 | 18 | [Short Beira Cu](https://open.spotify.com/track/1lUUNThFBW8tz0AIRLy01w) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [Rock Doido](https://open.spotify.com/album/2lHhpY2cSNO1kjyReGEfrK) | 2:16 |
-| 19 | [Aquém](https://open.spotify.com/track/0LBT6TP41Co8TS0e67uEM1) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Aquém](https://open.spotify.com/album/6NZZi9wN1XTX9dtKEoa90y) | 2:34 |
+| 19 | [Que Pecado!](https://open.spotify.com/track/5djr1EgrgGLBbZD8xOxNPs) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Que Pecado!](https://open.spotify.com/album/3WXo4tB3KteRN81GGqNlOi) | 2:43 |
 | 20 | [Despacha](https://open.spotify.com/track/5m4Ok5eGb7Igrw6d6G4fqr) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Despacha](https://open.spotify.com/album/1dci5uXicRuc34idbXrxdi) | 2:58 |
 | 21 | [Quem Manda em Mim](https://open.spotify.com/track/1E3crO0Q7b1DtPFUxey86i) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb) | [É Beat Melody](https://open.spotify.com/album/52wMdwicif5wocjT6Zh1dy) | 3:03 |
 | 22 | [No Meio do Pitiú](https://open.spotify.com/track/0j4smktx4vpIR5D5gSCdfg) | [Dona Onete](https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc) | [Banzeiro](https://open.spotify.com/album/5MkpYXXhFHuBp4mNfFDCYB) | 4:08 |
 | 23 | [Não Vou Chorar](https://open.spotify.com/track/0RbSlxSKLv5Pz2A47o7vm6) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Rock Doido](https://open.spotify.com/album/2lHhpY2cSNO1kjyReGEfrK) | 2:25 |
 | 24 | [Amor Próprio](https://open.spotify.com/track/6OPprj5RhUpaXmdYn4JPk5) | [Carol Lyne](https://open.spotify.com/artist/6CNcWQ6XRW3RNddWCeyvBO) | [Amor Próprio](https://open.spotify.com/album/3YEfwEpTgO8wTW4ixLm0pN) | 2:48 |
-| 25 | [Céu Azul](https://open.spotify.com/track/2mGFPlmBH20hj4J0rNesux) | [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93), [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n) | [ft \(pt\. 1\)](https://open.spotify.com/album/3B4cJlGVff9RiNXDHezkhr) | 3:44 |
-| 26 | [Sexta\-feira](https://open.spotify.com/track/1qkZVztcOUmTLihs8L2RJi) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Sexta\-feira](https://open.spotify.com/album/0FFW6UeLV3QjAclxcWO0UL) | 2:44 |
+| 25 | [Sexta\-feira](https://open.spotify.com/track/1qkZVztcOUmTLihs8L2RJi) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Sexta\-feira](https://open.spotify.com/album/0FFW6UeLV3QjAclxcWO0UL) | 2:44 |
+| 26 | [Céu Azul](https://open.spotify.com/track/2mGFPlmBH20hj4J0rNesux) | [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93), [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n) | [ft \(pt\. 1\)](https://open.spotify.com/album/3B4cJlGVff9RiNXDHezkhr) | 3:44 |
 | 27 | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF) | 2:54 |
 | 28 | [Galera da Golada](https://open.spotify.com/track/1nOi7O71UVjCPS4AT1BLDQ) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Marcantes](https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX) | 4:31 |
 | 29 | [Agarradinho \- Spotify Singles](https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [Agarradinho \- Spotify Singles](https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi) | 2:44 |
@@ -47,12 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 37 | [Oxum](https://open.spotify.com/track/74cfc18Lsm3WoibKvpce27) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Gira Mundo](https://open.spotify.com/album/5oh1vYj0UR3CT80XPQOPKJ) | 2:59 |
 | 38 | [CHUVA DE VERÃO](https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [TRÓPICO 96 \(Edição de Verão\)](https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ) | 3:06 |
 | 39 | [É Tudo Meu](https://open.spotify.com/track/3z7YYkTNEpG6FXIuZmfnPg) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [FÚRIA](https://open.spotify.com/album/3J5ykRCZav5xEqcZTkh7Sm) | 3:02 |
-| 40 | [Minissaia](https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Minissaia](https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr) | 2:19 |
-| 41 | [Saudade Sussurrou](https://open.spotify.com/track/53I221gUKoRZGdP0isLItU) | [Gabi Melim](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM) | [Gabriela](https://open.spotify.com/album/43uB6pjppKLyha8XOYxnK9) | 2:55 |
-| 42 | [Ain’t I a Woman?](https://open.spotify.com/track/2x6FBPXXXiYXAZG8YHTGdS) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 3:47 |
+| 40 | [Delírio Favorito](https://open.spotify.com/track/7BJ0CO6cBxEC3g8as2M8zC) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Delírio Favorito](https://open.spotify.com/album/2yj64rYACA151NjzLpZo2a) | 3:15 |
+| 41 | [Minissaia](https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Minissaia](https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr) | 2:19 |
+| 42 | [Saudade Sussurrou](https://open.spotify.com/track/53I221gUKoRZGdP0isLItU) | [Gabi Melim](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM) | [Gabriela](https://open.spotify.com/album/43uB6pjppKLyha8XOYxnK9) | 2:55 |
 | 43 | [PÉROLAS](https://open.spotify.com/track/6EFSiocntAianAv1fbFRQN) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [PÉROLAS](https://open.spotify.com/album/2K4QpoVaFJ4Bmd3JxLDjo1) | 3:02 |
-| 44 | [Acesa](https://open.spotify.com/track/4p5iCqbJpcDeGw4BzQdZte) | [LEOA](https://open.spotify.com/artist/7CsVgmYd9DmB7PiCm93Ccb) | [Original Malokera](https://open.spotify.com/album/7DbMfDyobV6VHroeOMZjU8) | 3:09 |
-| 45 | [Delírio Favorito](https://open.spotify.com/track/7BJ0CO6cBxEC3g8as2M8zC) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Delírio Favorito](https://open.spotify.com/album/2yj64rYACA151NjzLpZo2a) | 3:15 |
+| 44 | [Ain’t I a Woman?](https://open.spotify.com/track/2x6FBPXXXiYXAZG8YHTGdS) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 3:47 |
+| 45 | [Acesa](https://open.spotify.com/track/4p5iCqbJpcDeGw4BzQdZte) | [LEOA](https://open.spotify.com/artist/7CsVgmYd9DmB7PiCm93Ccb) | [Original Malokera](https://open.spotify.com/album/7DbMfDyobV6VHroeOMZjU8) | 3:09 |
 | 46 | [tonteira](https://open.spotify.com/track/1GhoyYVzHWqgTeyxdWe3zR) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [DELÍRIOS](https://open.spotify.com/album/5zdy3MUjYs5tFsWCl5Vcg1) | 2:27 |
 
 Snapshot ID: `AAAAAEsLIKedqidUNhsuxVLxKS6dEhXA`

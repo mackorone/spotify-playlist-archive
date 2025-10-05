@@ -1,12 +1,12 @@
 {
   "description": "This is Ice Spice. The essential tracks, all in one playlist.",
-  "num_followers": 74524,
+  "num_followers": 74527,
   "original_name": "This Is Ice Spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAACrbwOIhUWdRf1Sp9wm9IJQ",
+  "snapshot_id": "aN8SAAAAAACtbfbirAN2ncE674PRoAmh",
   "tracks": [
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Clarity",
-        "url": "https://open.spotify.com/album/5N6REUhO5E2MviBC6thktg"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 108169,
-      "name": "No Clarity",
-      "url": "https://open.spotify.com/track/0tnT8B415mZyOYETy2ulVv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gimmie A Light",
         "url": "https://open.spotify.com/album/6mlqVMvvdPMNr0Ec6CJAV8"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 126153,
       "name": "Gimmie A Light",
       "url": "https://open.spotify.com/track/0n4nfjCluBECewuD3Z4Agq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Clarity",
+        "url": "https://open.spotify.com/album/5N6REUhO5E2MviBC6thktg"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 108169,
+      "name": "No Clarity",
+      "url": "https://open.spotify.com/track/0tnT8B415mZyOYETy2ulVv"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         }
       ],
-      "duration_ms": 133714,
-      "name": "Actin A Smoochie",
-      "url": "https://open.spotify.com/track/0QdB2tkxPG1qMgAMwv6mRP"
+      "duration_ms": 124965,
+      "name": "On The Radar - Bonus",
+      "url": "https://open.spotify.com/track/15fiT3hdgQs817NrcgJ3CM"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         }
       ],
-      "duration_ms": 124965,
-      "name": "On The Radar - Bonus",
-      "url": "https://open.spotify.com/track/15fiT3hdgQs817NrcgJ3CM"
+      "duration_ms": 133714,
+      "name": "Actin A Smoochie",
+      "url": "https://open.spotify.com/track/0QdB2tkxPG1qMgAMwv6mRP"
     },
     {
       "added_at": null,

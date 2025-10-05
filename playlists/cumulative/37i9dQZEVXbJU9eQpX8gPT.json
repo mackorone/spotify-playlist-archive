@@ -1048,7 +1048,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-29",
+      "date_removed": null,
       "duration_ms": 227810,
       "name": "9awdooha",
       "url": "https://open.spotify.com/track/2MHafKNq1mDFBA9HGa2QdK"
@@ -3662,7 +3662,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 159456,
       "name": "Badi 7efyan",
       "url": "https://open.spotify.com/track/7twFNyJbMDWQPn8lk0lDRh"
@@ -8120,7 +8120,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 161959,
       "name": "Dawini",
       "url": "https://open.spotify.com/track/5d54P8T7TXGwE2d0zyN3uu"
@@ -19978,7 +19978,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 254800,
       "name": "MAGHRIBI",
       "url": "https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1"
@@ -21190,7 +21190,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-06",
+      "date_removed": null,
       "duration_ms": 214364,
       "name": "Mghayer",
       "url": "https://open.spotify.com/track/5ZSHDWYm4sixQLgxHrqODM"
@@ -25808,7 +25808,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 190630,
       "name": "PETASSA LA VIE",
       "url": "https://open.spotify.com/track/0qI1EDodKcqvnNBXSQGCUU"
@@ -31855,6 +31855,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+    },
+    {
+      "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
       },
@@ -31964,6 +31982,36 @@
       "duration_ms": 168000,
       "name": "Thuga",
       "url": "https://open.spotify.com/track/0AMBhbjYGcMlxCNKzLhz5H"
+    },
+    {
+      "album": {
+        "name": "The Last Race",
+        "url": "https://open.spotify.com/album/7BhTEZolYdvJoxWB6ykCf8"
+      },
+      "artists": [
+        {
+          "name": "GP Explorer",
+          "url": "https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Zed",
+          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
+        }
+      ],
+      "date_added": "2025-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252376,
+      "name": "Thunes",
+      "url": "https://open.spotify.com/track/6aPXfQSEApJPZ6fXzkleF7"
     },
     {
       "album": {

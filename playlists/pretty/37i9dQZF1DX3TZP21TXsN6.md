@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Nnelg, Parsa, Gilly en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,258 likes - 63 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,247 likes - 63 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

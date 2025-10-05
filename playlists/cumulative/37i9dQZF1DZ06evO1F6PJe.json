@@ -587,6 +587,28 @@
     },
     {
       "album": {
+        "name": "Cold Shot",
+        "url": "https://open.spotify.com/album/3kymnLXtiqdEiqwL2BR4SO"
+      },
+      "artists": [
+        {
+          "name": "David Garfield",
+          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301316,
+      "name": "Cold Shot",
+      "url": "https://open.spotify.com/track/3nybK0LsyqhOtIlJxoktiQ"
+    },
+    {
+      "album": {
         "name": "Cotton Mouth Man",
         "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
       },
@@ -2564,7 +2586,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 515226,
       "name": "Prisoner (Live At The Hollywood Bowl With Orchestra)",
       "url": "https://open.spotify.com/track/0lJaKtdseCtmsSsYHXptfC"

@@ -287,6 +287,24 @@
     },
     {
       "album": {
+        "name": "Haule Haule",
+        "url": "https://open.spotify.com/album/0nbatMNOhz0rm79eC6C0Ys"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243884,
+      "name": "Haule Haule",
+      "url": "https://open.spotify.com/track/3I4JiUh4I6I2JJaqfIT7dO"
+    },
+    {
+      "album": {
         "name": "Four More Shots Please! Season 3 (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/4VCr1CMHyeW8NQaB5njvAC"
       },

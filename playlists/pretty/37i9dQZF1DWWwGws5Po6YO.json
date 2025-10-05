@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Malibu",
-  "num_followers": 131788,
+  "num_followers": 131832,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
+        "name": "Atlantic Diva",
+        "url": "https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        }
+      ],
+      "duration_ms": 243921,
+      "name": "Atlantic Diva",
+      "url": "https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV"
+    },
+    {
+      "added_at": "2025-09-04 09:36:25",
+      "album": {
         "name": "Holotropica",
         "url": "https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 229000,
       "name": "Ubiquitous",
       "url": "https://open.spotify.com/track/6AA44gTSmQ6S2aMUsjd3ZG"
-    },
-    {
-      "added_at": "2025-09-04 09:36:25",
-      "album": {
-        "name": "become the sky",
-        "url": "https://open.spotify.com/album/3fimGJqkBb61QiQrRiFXNv"
-      },
-      "artists": [
-        {
-          "name": "Sophie Hutchings",
-          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
-        }
-      ],
-      "duration_ms": 183192,
-      "name": "Holding Moments",
-      "url": "https://open.spotify.com/track/5eKvPgmm9AGChNGQQyKyZs"
     },
     {
       "added_at": "2025-09-04 09:36:25",
@@ -619,18 +619,18 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
-        "name": "Atlantic Diva",
-        "url": "https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV"
+        "name": "become the sky",
+        "url": "https://open.spotify.com/album/3fimGJqkBb61QiQrRiFXNv"
       },
       "artists": [
         {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+          "name": "Sophie Hutchings",
+          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
         }
       ],
-      "duration_ms": 243921,
-      "name": "Atlantic Diva",
-      "url": "https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV"
+      "duration_ms": 183192,
+      "name": "Holding Moments",
+      "url": "https://open.spotify.com/track/5eKvPgmm9AGChNGQQyKyZs"
     },
     {
       "added_at": "2025-09-04 09:36:25",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
+        "name": "until all are free",
+        "url": "https://open.spotify.com/album/6xCbR0Jj7Sv99FELiluFHw"
+      },
+      "artists": [
+        {
+          "name": "Jessica Moss",
+          "url": "https://open.spotify.com/artist/0mXuTfa0qloI8dL4G41V5n"
+        }
+      ],
+      "duration_ms": 281613,
+      "name": "until all are free",
+      "url": "https://open.spotify.com/track/0UrZM7tm4R6F4Kl9yfzEFp"
+    },
+    {
+      "added_at": "2025-09-04 09:36:25",
+      "album": {
         "name": "Tramuntana Tapes I",
         "url": "https://open.spotify.com/album/4x0Ctds3wypaoiUsfG6SSh"
       },
@@ -827,38 +843,6 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
-        "name": "RELUCESCO I",
-        "url": "https://open.spotify.com/album/1aTlHOpugpBr2K7IWTb2hg"
-      },
-      "artists": [
-        {
-          "name": "Sarah Pag\u00e9",
-          "url": "https://open.spotify.com/artist/045JYB2I42fQLnNRJQSvdN"
-        }
-      ],
-      "duration_ms": 419549,
-      "name": "RELUCESCO I",
-      "url": "https://open.spotify.com/track/0fRDySUoyDdS1Erd73lztX"
-    },
-    {
-      "added_at": "2025-09-04 09:36:25",
-      "album": {
-        "name": "until all are free",
-        "url": "https://open.spotify.com/album/6xCbR0Jj7Sv99FELiluFHw"
-      },
-      "artists": [
-        {
-          "name": "Jessica Moss",
-          "url": "https://open.spotify.com/artist/0mXuTfa0qloI8dL4G41V5n"
-        }
-      ],
-      "duration_ms": 281613,
-      "name": "until all are free",
-      "url": "https://open.spotify.com/track/0UrZM7tm4R6F4Kl9yfzEFp"
-    },
-    {
-      "added_at": "2025-09-04 09:36:25",
-      "album": {
         "name": "Impossible Light",
         "url": "https://open.spotify.com/album/1ZwJMEEaBifkdvQl793ek3"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 350968,
       "name": "Endocrine Disruptor",
       "url": "https://open.spotify.com/track/2PF6906ULwsP3InXPZ2gPc"
+    },
+    {
+      "added_at": "2025-09-04 09:36:25",
+      "album": {
+        "name": "RELUCESCO I",
+        "url": "https://open.spotify.com/album/1aTlHOpugpBr2K7IWTb2hg"
+      },
+      "artists": [
+        {
+          "name": "Sarah Pag\u00e9",
+          "url": "https://open.spotify.com/artist/045JYB2I42fQLnNRJQSvdN"
+        }
+      ],
+      "duration_ms": 419549,
+      "name": "RELUCESCO I",
+      "url": "https://open.spotify.com/track/0fRDySUoyDdS1Erd73lztX"
     },
     {
       "added_at": "2025-09-04 09:36:25",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
-        "name": "One Universal Breath",
-        "url": "https://open.spotify.com/album/47WEDEEZNLVuppL1bmHcvj"
-      },
-      "artists": [
-        {
-          "name": "Veryan",
-          "url": "https://open.spotify.com/artist/0VtrpLfJvEkqmDHUGBMhRk"
-        }
-      ],
-      "duration_ms": 277333,
-      "name": "Lift Hands",
-      "url": "https://open.spotify.com/track/5Yv6nOfN88vJqLR8X4enQ8"
-    },
-    {
-      "added_at": "2025-09-04 09:36:25",
-      "album": {
         "name": "Big Majestic",
         "url": "https://open.spotify.com/album/27Edaf6CUyLSiDnXPRDckq"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 290250,
       "name": "Big Majestic",
       "url": "https://open.spotify.com/track/7ipNQUa48GOa6gDQiXbRry"
+    },
+    {
+      "added_at": "2025-09-04 09:36:25",
+      "album": {
+        "name": "One Universal Breath",
+        "url": "https://open.spotify.com/album/47WEDEEZNLVuppL1bmHcvj"
+      },
+      "artists": [
+        {
+          "name": "Veryan",
+          "url": "https://open.spotify.com/artist/0VtrpLfJvEkqmDHUGBMhRk"
+        }
+      ],
+      "duration_ms": 277333,
+      "name": "Lift Hands",
+      "url": "https://open.spotify.com/track/5Yv6nOfN88vJqLR8X4enQ8"
     },
     {
       "added_at": "2025-09-04 09:36:25",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
-        "name": "\u0100tam\u014dn",
-        "url": "https://open.spotify.com/album/6v6Oe5kfd0IZuHLSZjnBvl"
-      },
-      "artists": [
-        {
-          "name": "Amina Hocine",
-          "url": "https://open.spotify.com/artist/6X41Zeam6qLK4tgAbIuzX4"
-        }
-      ],
-      "duration_ms": 1769471,
-      "name": "\u0100tam\u014dn I",
-      "url": "https://open.spotify.com/track/5q62iQdn61S0aXSbOuCeHa"
-    },
-    {
-      "added_at": "2025-09-04 09:36:25",
-      "album": {
         "name": "Axis Of Light",
         "url": "https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 143815,
       "name": "CHU / \u8655",
       "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
+    },
+    {
+      "added_at": "2025-09-04 09:36:25",
+      "album": {
+        "name": "\u0100tam\u014dn",
+        "url": "https://open.spotify.com/album/6v6Oe5kfd0IZuHLSZjnBvl"
+      },
+      "artists": [
+        {
+          "name": "Amina Hocine",
+          "url": "https://open.spotify.com/artist/6X41Zeam6qLK4tgAbIuzX4"
+        }
+      ],
+      "duration_ms": 1769471,
+      "name": "\u0100tam\u014dn I",
+      "url": "https://open.spotify.com/track/5q62iQdn61S0aXSbOuCeHa"
     },
     {
       "added_at": "2025-09-04 09:36:25",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
-        "name": "Island Alchemy",
-        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 618138,
-      "name": "Myg",
-      "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
-    },
-    {
-      "added_at": "2025-09-04 09:36:25",
-      "album": {
         "name": "Sleep",
         "url": "https://open.spotify.com/album/5PWPXuYf4tFbW09yLqzJed"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 229521,
       "name": "Sleep",
       "url": "https://open.spotify.com/track/1TnEVTlFobaQCRYIXr1Ctc"
+    },
+    {
+      "added_at": "2025-09-04 09:36:25",
+      "album": {
+        "name": "Island Alchemy",
+        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 618138,
+      "name": "Myg",
+      "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
     },
     {
       "added_at": "2025-09-04 09:36:25",

@@ -1,6 +1,6 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 212828,
+  "num_followers": 212893,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "Smokers Delight",
+        "url": "https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 419426,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/5RTi3ClzRwFsso3gfYppHO"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "SB1",
         "url": "https://open.spotify.com/album/1p1w828sU7QewePqhfZKwh"
       },
@@ -1619,6 +1635,22 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "The Cosmic Game",
+        "url": "https://open.spotify.com/album/3x31ejKrrjJWXGd6ftaSNu"
+      },
+      "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        }
+      ],
+      "duration_ms": 139226,
+      "name": "The Cosmic Game",
+      "url": "https://open.spotify.com/track/3tg1p03BlubeFZbCLzmNwF"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "Smokers Delight",
         "url": "https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm"
       },
@@ -1647,42 +1679,6 @@
       "duration_ms": 220813,
       "name": "Angelica",
       "url": "https://open.spotify.com/track/6AHW2n1EFK85tYC9922pFP"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Cold Krush Cuts",
-        "url": "https://open.spotify.com/album/2pIjSXfVTFQsoSGKrtqF8B"
-      },
-      "artists": [
-        {
-          "name": "Coldcut",
-          "url": "https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND"
-        }
-      ],
-      "duration_ms": 374800,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/5YNMjGLMY3JvuCFd9FLdcc"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Simple Science EP",
-        "url": "https://open.spotify.com/album/5DEFRRPdUj1kwNAq9RERHi"
-      },
-      "artists": [
-        {
-          "name": "Zero 7",
-          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
-        },
-        {
-          "name": "Danny Pratt",
-          "url": "https://open.spotify.com/artist/4UpaWG799gLccPzyPozzpo"
-        }
-      ],
-      "duration_ms": 463399,
-      "name": "Simple Science - 12\" Version",
-      "url": "https://open.spotify.com/track/1OQ3DVHPX1cXU4uUOvrKPH"
     }
   ],
   "unique_name": "Chillout Classics",

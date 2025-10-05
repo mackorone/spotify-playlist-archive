@@ -89,6 +89,28 @@
     },
     {
       "album": {
+        "name": "Act Like You Know",
+        "url": "https://open.spotify.com/album/79g6lh7jLIAAorMCSKUXCI"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Shoreline Mafia",
+          "url": "https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159573,
+      "name": "Act Like You Know",
+      "url": "https://open.spotify.com/track/6YKZThWeKwTze24UqcCw3T"
+    },
+    {
+      "album": {
         "name": "Add It",
         "url": "https://open.spotify.com/album/6cdiwNAHltVS3FKRWXsism"
       },
@@ -1102,7 +1124,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 189813,
       "name": "I Like (feat. Karlae & Coi Leray)",
       "url": "https://open.spotify.com/track/1OuwfVcdn99T9SPBHaVTNn"

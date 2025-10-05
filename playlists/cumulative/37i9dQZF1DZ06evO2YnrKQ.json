@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Fully Completely",
+        "url": "https://open.spotify.com/album/5iSeNirSdjXzdv4eBx72X1"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228835,
+      "name": "Fully Completely",
+      "url": "https://open.spotify.com/track/7Gj5Gd0IlD4GTxL9bmVZg1"
+    },
+    {
+      "album": {
         "name": "\"Watch out!\"",
         "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
       },
@@ -808,7 +826,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 234760,
       "name": "Reverse the Curse",
       "url": "https://open.spotify.com/track/5quzpeYK7lXAYpcioucm6d"

@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 173486,
+  "num_followers": 173554,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAADYzGEGOPDzCgzM0Z6Y1S6+",
+  "snapshot_id": "aN8SAAAAAACinkx0vCffjP1mhJrpxHjo",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,26 @@
       "duration_ms": 199459,
       "name": "PERRA MADRE",
       "url": "https://open.spotify.com/track/5DDmtoFZGkNl1nePtYAcco"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cartier",
+        "url": "https://open.spotify.com/album/1Dc6mH1teFQDQQXlgpl8pB"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 186494,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/5xAikCeFXqHpVUuRKxBg4V"
     },
     {
       "added_at": null,
@@ -950,11 +970,15 @@
         {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 216525,
-      "name": "PICASSO",
-      "url": "https://open.spotify.com/track/0uGbZpw3WJBtLAnVqBVBpi"
+      "duration_ms": 153600,
+      "name": "DOSIS DE AMOR",
+      "url": "https://open.spotify.com/track/0WC20El0j1vhgQoPCLp6Xo"
     },
     {
       "added_at": null,
@@ -1019,26 +1043,6 @@
       "duration_ms": 216115,
       "name": "NO QUIERE FLORES (feat. Gabito Ballesteros)",
       "url": "https://open.spotify.com/track/2QgALMalFs4GMsQFqtFPkY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya No Se Llevan Serenatas",
-        "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "DOSIS DE AMOR",
-      "url": "https://open.spotify.com/track/0WC20El0j1vhgQoPCLp6Xo"
     }
   ],
   "unique_name": "This Is Gabito Ballesteros",

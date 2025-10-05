@@ -1,12 +1,12 @@
 {
   "description": "This is LUDMILLA. The essential tracks, all in one playlist.",
-  "num_followers": 307178,
+  "num_followers": 307177,
   "original_name": "This Is LUDMILLA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAAC3EbGanc6zAqYpk3oPwm9B",
+  "snapshot_id": "aN8SAAAAAAB/xjeBWJsmMUrOZvEIfm7Q",
   "tracks": [
     {
       "added_at": null,
@@ -252,13 +252,13 @@
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         },
         {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
         }
       ],
-      "duration_ms": 176297,
-      "name": "Destilado - Ao Vivo",
-      "url": "https://open.spotify.com/track/1J8rfA9BdhlpzNSKKePf3U"
+      "duration_ms": 187979,
+      "name": "Saudade da Gente - Ao Vivo",
+      "url": "https://open.spotify.com/track/7zD6UkCZatI0QhTr3Q9c59"
     },
     {
       "added_at": null,
@@ -328,13 +328,13 @@
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         },
         {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
         }
       ],
-      "duration_ms": 187979,
-      "name": "Saudade da Gente - Ao Vivo",
-      "url": "https://open.spotify.com/track/7zD6UkCZatI0QhTr3Q9c59"
+      "duration_ms": 176297,
+      "name": "Destilado - Ao Vivo",
+      "url": "https://open.spotify.com/track/1J8rfA9BdhlpzNSKKePf3U"
     },
     {
       "added_at": null,
@@ -999,6 +999,26 @@
       "duration_ms": 186157,
       "name": "Ela Terminou No WhatsApp - Ao Vivo",
       "url": "https://open.spotify.com/track/41YAs2W3C3xPHuDLQIPnvM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zangadinha",
+        "url": "https://open.spotify.com/album/72bDC2HxY61C2poH7GEaOC"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 156635,
+      "name": "Zangadinha",
+      "url": "https://open.spotify.com/track/4o31yQPBDncr20tBIEi9hM"
     }
   ],
   "unique_name": "This Is LUDMILLA",

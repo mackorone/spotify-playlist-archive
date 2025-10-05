@@ -1,12 +1,12 @@
 {
   "description": "This is The Used. The essential tracks, all in one playlist.",
-  "num_followers": 48333,
+  "num_followers": 48345,
   "original_name": "This Is The Used",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAACqF18KK64OcZhgNW6e2YlJ",
+  "snapshot_id": "aN8SAAAAAADQPhFxxTgvcy1NvMkI4ZPF",
   "tracks": [
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Artwork",
+        "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 248720,
+      "name": "Kissing You Goodbye",
+      "url": "https://open.spotify.com/track/1GD14FW1m3XP8596se9WBk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shallow Believer",
         "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
       },
@@ -631,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Artwork",
-        "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 248720,
-      "name": "Kissing You Goodbye",
-      "url": "https://open.spotify.com/track/1GD14FW1m3XP8596se9WBk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MEDZ",
         "url": "https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb"
       },
@@ -659,6 +659,22 @@
       "duration_ms": 197966,
       "name": "Before I Leave",
       "url": "https://open.spotify.com/track/4UvpM0BuXyfbHmt9hhAiZk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Artwork",
+        "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 252453,
+      "name": "Sold My Soul",
+      "url": "https://open.spotify.com/track/68mlXME4DllvQgMbSsSimc"
     },
     {
       "added_at": null,
@@ -703,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Artwork",
-        "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 252453,
-      "name": "Sold My Soul",
-      "url": "https://open.spotify.com/track/68mlXME4DllvQgMbSsSimc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heartwork",
         "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
       },
@@ -726,27 +726,15 @@
         {
           "name": "The Used",
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 184105,
-      "name": "Bloody Nose",
-      "url": "https://open.spotify.com/track/7q9kMLY1nPqL4fxO4CgKhZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toxic Positivity",
-        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
-      },
-      "artists": [
+        },
         {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+          "name": "Mark Hoppus",
+          "url": "https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g"
         }
       ],
-      "duration_ms": 168891,
-      "name": "I Hate Everybody",
-      "url": "https://open.spotify.com/track/5N7p0vxDpd6oxrrxJiisIv"
+      "duration_ms": 171741,
+      "name": "The Lighthouse",
+      "url": "https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU"
     },
     {
       "added_at": null,
@@ -763,6 +751,22 @@
       "duration_ms": 184133,
       "name": "Slit Your Own Throat",
       "url": "https://open.spotify.com/track/1j8b6BNsHXaAImvIocZqHn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 168891,
+      "name": "I Hate Everybody",
+      "url": "https://open.spotify.com/track/5N7p0vxDpd6oxrrxJiisIv"
     },
     {
       "added_at": null,
@@ -790,31 +794,11 @@
         {
           "name": "The Used",
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        },
-        {
-          "name": "Mark Hoppus",
-          "url": "https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g"
         }
       ],
-      "duration_ms": 171741,
-      "name": "The Lighthouse",
-      "url": "https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toxic Positivity",
-        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 174350,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/1duAXhfgEErfZ2yrdhpSXw"
+      "duration_ms": 184105,
+      "name": "Bloody Nose",
+      "url": "https://open.spotify.com/track/7q9kMLY1nPqL4fxO4CgKhZ"
     },
     {
       "added_at": null,
@@ -831,6 +815,22 @@
       "duration_ms": 196306,
       "name": "I Come Alive",
       "url": "https://open.spotify.com/track/006JXPV4FsK49ehd5lrWYG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 174350,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/1duAXhfgEErfZ2yrdhpSXw"
     },
     {
       "added_at": null,

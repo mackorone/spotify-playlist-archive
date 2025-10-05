@@ -1,6 +1,6 @@
 {
   "description": "The biggest festival of the year. The official playlist for Glastonbury 2025.",
-  "num_followers": 238240,
+  "num_followers": 238273,
   "original_name": "Glastonbury 2025",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 159586,
-      "name": "DENIAL IS A RIVER",
-      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 164284,
       "name": "Von dutch",
       "url": "https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 159586,
+      "name": "DENIAL IS A RIVER",
+      "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -551,6 +551,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Costello Music",
+        "url": "https://open.spotify.com/album/7avNT7QnpWXl1Khqnsguaw"
+      },
+      "artists": [
+        {
+          "name": "The Fratellis",
+          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
+        }
+      ],
+      "duration_ms": 215306,
+      "name": "Chelsea Dagger",
+      "url": "https://open.spotify.com/track/1bCmvezFg5MRcENzCGG1Cy"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Asking",
         "url": "https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ"
       },
@@ -575,22 +591,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Costello Music",
-        "url": "https://open.spotify.com/album/7avNT7QnpWXl1Khqnsguaw"
-      },
-      "artists": [
-        {
-          "name": "The Fratellis",
-          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
-        }
-      ],
-      "duration_ms": 215306,
-      "name": "Chelsea Dagger",
-      "url": "https://open.spotify.com/track/1bCmvezFg5MRcENzCGG1Cy"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Jagged Little Pill (2015 Remaster)",
         "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
       },
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "What A Devastating Turn of Events",
-        "url": "https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 217578,
-      "name": "All I Ever Asked",
-      "url": "https://open.spotify.com/track/1awQLv1J6LkeEQ5co4OOoQ"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "The Script",
         "url": "https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 241373,
       "name": "The Man Who Can't Be Moved",
       "url": "https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "What A Devastating Turn of Events",
+        "url": "https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 217578,
+      "name": "All I Ever Asked",
+      "url": "https://open.spotify.com/track/1awQLv1J6LkeEQ5co4OOoQ"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "EV3",
-        "url": "https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN"
-      },
-      "artists": [
-        {
-          "name": "En Vogue",
-          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
-        }
-      ],
-      "duration_ms": 291880,
-      "name": "Don't Let Go (Love)",
-      "url": "https://open.spotify.com/track/06TuMCjDEYjTOJScCRzmjf"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "King Of The Mischievous South Vol. 2",
         "url": "https://open.spotify.com/album/6LoDd1G8en4TcqdSg7yqrV"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 165280,
       "name": "HOT ONE (with TiaCorine & A$AP Ferg)",
       "url": "https://open.spotify.com/track/2TmS5wJTfWrpFgakSSTdCi"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "EV3",
+        "url": "https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN"
+      },
+      "artists": [
+        {
+          "name": "En Vogue",
+          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
+        }
+      ],
+      "duration_ms": 291880,
+      "name": "Don't Let Go (Love)",
+      "url": "https://open.spotify.com/track/06TuMCjDEYjTOJScCRzmjf"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "Seasons (Waiting on You)",
+      "url": "https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Running Away",
         "url": "https://open.spotify.com/album/4UmlS91PmUrukRnM8x4JiR"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 111786,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/5toKOQ86ydhA5UJ8DfENzy"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/26bhmgVpg5E5HyU4K1BYMc"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "Seasons (Waiting on You)",
-      "url": "https://open.spotify.com/track/522YBf6WqBwJVAe7oHLymu"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Twentysomething",
+        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 309693,
+      "name": "What A Difference A Day Made",
+      "url": "https://open.spotify.com/track/5PbSvsljhgxijSYV5cG5xU"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Mermaid Avenue",
         "url": "https://open.spotify.com/album/22rLwPW3QCaLB8UgWDY9bM"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 298533,
       "name": "California Stars",
       "url": "https://open.spotify.com/track/5B2mJIk8yso3ugyvfHR62A"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Twentysomething",
-        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 309693,
-      "name": "What A Difference A Day Made",
-      "url": "https://open.spotify.com/track/5PbSvsljhgxijSYV5cG5xU"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "shut the fuck up talking to me",
         "url": "https://open.spotify.com/album/2As0TCvNIO3mJ4yAthXtYZ"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 158466,
       "name": "fafo",
       "url": "https://open.spotify.com/track/59N5Xs2k47ESLEeRB84hWW"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "New Energy",
-        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 252255,
-      "name": "Two Thousand and Seventeen",
-      "url": "https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Family Only",
         "url": "https://open.spotify.com/album/1dcia5MJRh9FBJRxxMFlhk"
       },
@@ -1983,18 +1967,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Cult Classics",
-        "url": "https://open.spotify.com/album/3mnKHGcVhqsdZP1IeyLbS6"
+        "name": "New Energy",
+        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
       },
       "artists": [
         {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 237979,
-      "name": "JOY (Up The Street)",
-      "url": "https://open.spotify.com/track/1d9NF9D6HgLWvGQyPrYE98"
+      "duration_ms": 252255,
+      "name": "Two Thousand and Seventeen",
+      "url": "https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2015,6 +1999,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Cult Classics",
+        "url": "https://open.spotify.com/album/3mnKHGcVhqsdZP1IeyLbS6"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "duration_ms": 237979,
+      "name": "JOY (Up The Street)",
+      "url": "https://open.spotify.com/track/1d9NF9D6HgLWvGQyPrYE98"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "The New Sound",
         "url": "https://open.spotify.com/album/07YS7ooqYtvPZLlW59MHY5"
       },
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        }
-      ],
-      "duration_ms": 161960,
-      "name": "Mountain Banjo",
-      "url": "https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Stars Of CCTV",
         "url": "https://open.spotify.com/album/49lMsHtv1i2vAaIs0lHWpD"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 253306,
       "name": "Hard to Beat",
       "url": "https://open.spotify.com/track/5PZK7nZBsKjSkXDszKrJ1W"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "duration_ms": 161960,
+      "name": "Mountain Banjo",
+      "url": "https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "It Gets Better (Forever Mix)",
-        "url": "https://open.spotify.com/album/1nQ8tCFXhFZ8RXJbqTPplO"
-      },
-      "artists": [
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        }
-      ],
-      "duration_ms": 252767,
-      "name": "It Gets Better - Forever Mix",
-      "url": "https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Hooked",
         "url": "https://open.spotify.com/album/1QTA91lsVoCLeRUXRMukmg"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 199643,
       "name": "Makes Me Violent",
       "url": "https://open.spotify.com/track/0qu6cJbPDnwaWZSPqQbuId"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "It Gets Better (Forever Mix)",
+        "url": "https://open.spotify.com/album/1nQ8tCFXhFZ8RXJbqTPplO"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        }
+      ],
+      "duration_ms": 252767,
+      "name": "It Gets Better - Forever Mix",
+      "url": "https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Peace Song",
-        "url": "https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm"
-      },
-      "artists": [
-        {
-          "name": "Fat Dog",
-          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
-        }
-      ],
-      "duration_ms": 190784,
-      "name": "Peace Song",
-      "url": "https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "flight fm",
         "url": "https://open.spotify.com/album/7z6MsabW7ZDqtcgmV9fZrv"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 247820,
       "name": "flight fm",
       "url": "https://open.spotify.com/track/4Wrd7TpAgRmlUtcbpJCW3T"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Peace Song",
+        "url": "https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "duration_ms": 190784,
+      "name": "Peace Song",
+      "url": "https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2419,6 +2419,22 @@
       "duration_ms": 351893,
       "name": "Fistful Of Love",
       "url": "https://open.spotify.com/track/37YJOz90ri4sjyo4uyCLXA"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Bros",
+        "url": "https://open.spotify.com/album/2eLVc58BUrSlRAGYkauMTh"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 216750,
+      "name": "Bros",
+      "url": "https://open.spotify.com/track/4McPoHVfn7qQptowbbPK23"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2455,18 +2471,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Bros",
-        "url": "https://open.spotify.com/album/2eLVc58BUrSlRAGYkauMTh"
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/5EE83YjGBKzM6x5O9AT9rN"
       },
       "artists": [
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
         }
       ],
-      "duration_ms": 216750,
-      "name": "Bros",
-      "url": "https://open.spotify.com/track/4McPoHVfn7qQptowbbPK23"
+      "duration_ms": 253043,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/6pCrx0kmrXsXlMfKK9KksT"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2491,22 +2507,6 @@
       "duration_ms": 177580,
       "name": "Forever 2 (Crush Mix) - Malugi Remix",
       "url": "https://open.spotify.com/track/1lWiQ34sGK1i862zAFiRNW"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/5EE83YjGBKzM6x5O9AT9rN"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 253043,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/6pCrx0kmrXsXlMfKK9KksT"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2663,22 +2663,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Leftism",
-        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
-      },
-      "artists": [
-        {
-          "name": "Leftfield",
-          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
-        }
-      ],
-      "duration_ms": 382360,
-      "name": "Original - Remastered",
-      "url": "https://open.spotify.com/track/6zK6tHtbYjmc8zesa7e8br"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "People",
         "url": "https://open.spotify.com/album/3CmvEkZvuwobL2plDscowF"
       },
@@ -2691,6 +2675,22 @@
       "duration_ms": 229480,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/33LfsAZ4kCfD90A3Zwp4sk"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Leftism",
+        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
+      },
+      "artists": [
+        {
+          "name": "Leftfield",
+          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
+        }
+      ],
+      "duration_ms": 382360,
+      "name": "Original - Remastered",
+      "url": "https://open.spotify.com/track/6zK6tHtbYjmc8zesa7e8br"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2727,22 +2727,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Afrikan Alien",
-        "url": "https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct"
-      },
-      "artists": [
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Belly",
-      "url": "https://open.spotify.com/track/7kgU2NMdgWnKMksqvgzPAb"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "La Murga (Michael's Midnight Mix)",
         "url": "https://open.spotify.com/album/2Vb680k6SJv9RKNXDUJA2M"
       },
@@ -2759,6 +2743,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Afrikan Alien",
+        "url": "https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct"
+      },
+      "artists": [
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Belly",
+      "url": "https://open.spotify.com/track/7kgU2NMdgWnKMksqvgzPAb"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Love & Money",
         "url": "https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8"
       },
@@ -2771,34 +2771,6 @@
       "duration_ms": 229656,
       "name": "Love & Money",
       "url": "https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Wifey Riddim",
-        "url": "https://open.spotify.com/album/6GLYQfBSP4JHsec83wYB9c"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        },
-        {
-          "name": "Club Shy",
-          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 148054,
-      "name": "Wifey Riddim",
-      "url": "https://open.spotify.com/track/4QmoRTOUyrBb0butY0aYtX"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2835,6 +2807,50 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Wifey Riddim",
+        "url": "https://open.spotify.com/album/6GLYQfBSP4JHsec83wYB9c"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Club Shy",
+          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 148054,
+      "name": "Wifey Riddim",
+      "url": "https://open.spotify.com/track/4QmoRTOUyrBb0butY0aYtX"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "What They Say EP",
+        "url": "https://open.spotify.com/album/0DECxh5mdTBhB2Rw9qE7UI"
+      },
+      "artists": [
+        {
+          "name": "Maya Jane Coles",
+          "url": "https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2"
+        }
+      ],
+      "duration_ms": 400115,
+      "name": "What They Say",
+      "url": "https://open.spotify.com/track/5S7Y5HgQ2HPqiCVkKylT2r"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Mid Air",
         "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
       },
@@ -2867,22 +2883,6 @@
       "duration_ms": 238176,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/0K2XxY1LB3CYG4QhulZerK"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "What They Say EP",
-        "url": "https://open.spotify.com/album/0DECxh5mdTBhB2Rw9qE7UI"
-      },
-      "artists": [
-        {
-          "name": "Maya Jane Coles",
-          "url": "https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2"
-        }
-      ],
-      "duration_ms": 400115,
-      "name": "What They Say",
-      "url": "https://open.spotify.com/track/5S7Y5HgQ2HPqiCVkKylT2r"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3019,26 +3019,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Shoot",
-        "url": "https://open.spotify.com/album/7ABQGNfnRm0vwcdPBr3NoY"
-      },
-      "artists": [
-        {
-          "name": "Friction",
-          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
-        },
-        {
-          "name": "Basslayerz",
-          "url": "https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew"
-        }
-      ],
-      "duration_ms": 164137,
-      "name": "Shoot",
-      "url": "https://open.spotify.com/track/2px94zB56yKPyaUuGeVyEP"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Send Return Remixes Pt. 1",
         "url": "https://open.spotify.com/album/2d10S3TzEDbCwxnTSZH1Bq"
       },
@@ -3087,6 +3067,26 @@
       "duration_ms": 172129,
       "name": "YourLove",
       "url": "https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Shoot",
+        "url": "https://open.spotify.com/album/7ABQGNfnRm0vwcdPBr3NoY"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        },
+        {
+          "name": "Basslayerz",
+          "url": "https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew"
+        }
+      ],
+      "duration_ms": 164137,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/2px94zB56yKPyaUuGeVyEP"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3235,22 +3235,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Centerfield \u2013 25th Anniversary",
-        "url": "https://open.spotify.com/album/5ZYrDri9HWKLgSqDZOquH5"
-      },
-      "artists": [
-        {
-          "name": "John Fogerty",
-          "url": "https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t"
-        }
-      ],
-      "duration_ms": 231346,
-      "name": "Centerfield",
-      "url": "https://open.spotify.com/track/38BgqHjoogBGBqdx14cV46"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Walking Like We Do",
         "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
       },
@@ -3279,6 +3263,22 @@
       "duration_ms": 248640,
       "name": "Vibrate",
       "url": "https://open.spotify.com/track/49qlXXclrGVj1V9mtQovx3"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Centerfield \u2013 25th Anniversary",
+        "url": "https://open.spotify.com/album/5ZYrDri9HWKLgSqDZOquH5"
+      },
+      "artists": [
+        {
+          "name": "John Fogerty",
+          "url": "https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t"
+        }
+      ],
+      "duration_ms": 231346,
+      "name": "Centerfield",
+      "url": "https://open.spotify.com/track/38BgqHjoogBGBqdx14cV46"
     },
     {
       "added_at": "2025-06-27 23:00:28",

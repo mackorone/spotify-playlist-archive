@@ -199,7 +199,7 @@
     {
       "added_at": "2025-10-03 13:41:02",
       "album": {
-        "name": "B.A.$.$.",
+        "name": "Bass",
         "url": "https://open.spotify.com/album/6ly7J4IaZl1bvYRL9htjfz"
       },
       "artists": [
@@ -212,8 +212,8 @@
           "url": "https://open.spotify.com/artist/0gY0xqBydHZ18MMEE4FJ4J"
         }
       ],
-      "duration_ms": 145928,
-      "name": "B.A.$.$.",
+      "duration_ms": 146214,
+      "name": "Bass",
       "url": "https://open.spotify.com/track/5NLfIFyx4csoftlFerjuVr"
     },
     {
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-10-03 13:41:02",
       "album": {
-        "name": "\u0218apte",
-        "url": "https://open.spotify.com/album/3BYQDwElVXz9moBnWbZtwm"
-      },
-      "artists": [
-        {
-          "name": "Spike",
-          "url": "https://open.spotify.com/artist/6JDu6pr6teBn79KqBTOXdp"
-        }
-      ],
-      "duration_ms": 150620,
-      "name": "\u0218apte",
-      "url": "https://open.spotify.com/track/6n6PmjIRTLLcBuGSglnqKv"
-    },
-    {
-      "added_at": "2025-10-03 13:41:02",
-      "album": {
         "name": "Blur",
         "url": "https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 152000,
       "name": "Poate",
       "url": "https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu"
+    },
+    {
+      "added_at": "2025-10-03 13:41:02",
+      "album": {
+        "name": "\u0218apte",
+        "url": "https://open.spotify.com/album/3BYQDwElVXz9moBnWbZtwm"
+      },
+      "artists": [
+        {
+          "name": "Spike",
+          "url": "https://open.spotify.com/artist/6JDu6pr6teBn79KqBTOXdp"
+        }
+      ],
+      "duration_ms": 150620,
+      "name": "\u0218apte",
+      "url": "https://open.spotify.com/track/6n6PmjIRTLLcBuGSglnqKv"
     },
     {
       "added_at": "2025-10-03 13:41:02",

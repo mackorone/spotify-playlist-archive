@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 735794,
+  "num_followers": 735726,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
@@ -871,26 +871,6 @@
     {
       "added_at": "2025-09-04 23:00:13",
       "album": {
-        "name": "Sippin",
-        "url": "https://open.spotify.com/album/78Dma8F2gORqPspfYEunqu"
-      },
-      "artists": [
-        {
-          "name": "Milco",
-          "url": "https://open.spotify.com/artist/5WHUxQCM4499eLKORl6G4l"
-        },
-        {
-          "name": "DEJA",
-          "url": "https://open.spotify.com/artist/42VmdS8ipHlJdnjfeT3Hnp"
-        }
-      ],
-      "duration_ms": 158075,
-      "name": "Sippin",
-      "url": "https://open.spotify.com/track/60pHhvyWNIHvjIUWOKBUg6"
-    },
-    {
-      "added_at": "2025-09-04 23:00:13",
-      "album": {
         "name": "Rhyme Dust",
         "url": "https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 181364,
       "name": "Rhyme Dust",
       "url": "https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f"
+    },
+    {
+      "added_at": "2025-09-04 23:00:13",
+      "album": {
+        "name": "Sippin",
+        "url": "https://open.spotify.com/album/78Dma8F2gORqPspfYEunqu"
+      },
+      "artists": [
+        {
+          "name": "Milco",
+          "url": "https://open.spotify.com/artist/5WHUxQCM4499eLKORl6G4l"
+        },
+        {
+          "name": "DEJA",
+          "url": "https://open.spotify.com/artist/42VmdS8ipHlJdnjfeT3Hnp"
+        }
+      ],
+      "duration_ms": 158075,
+      "name": "Sippin",
+      "url": "https://open.spotify.com/track/60pHhvyWNIHvjIUWOKBUg6"
     },
     {
       "added_at": "2025-09-04 23:00:13",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-09-04 23:00:13",
       "album": {
-        "name": "Angel of Mine",
-        "url": "https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 162741,
-      "name": "Angel of Mine",
-      "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
-    },
-    {
-      "added_at": "2025-09-04 23:00:13",
-      "album": {
         "name": "You Little Beauty",
         "url": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 206587,
       "name": "You Little Beauty",
       "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
+    },
+    {
+      "added_at": "2025-09-04 23:00:13",
+      "album": {
+        "name": "Angel of Mine",
+        "url": "https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 162741,
+      "name": "Angel of Mine",
+      "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
     },
     {
       "added_at": "2025-09-04 23:00:13",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-09-04 23:00:13",
       "album": {
-        "name": "Running Around",
-        "url": "https://open.spotify.com/album/6ix5Z3jcKpO5l6FExztvuc"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 124620,
-      "name": "Running Around",
-      "url": "https://open.spotify.com/track/4cJXHfk3oZ7hX2MgVMsTNC"
-    },
-    {
-      "added_at": "2025-09-04 23:00:13",
-      "album": {
         "name": "Bittersweet Goodbye",
         "url": "https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 166778,
       "name": "Bittersweet Goodbye",
       "url": "https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN"
+    },
+    {
+      "added_at": "2025-09-04 23:00:13",
+      "album": {
+        "name": "Running Around",
+        "url": "https://open.spotify.com/album/6ix5Z3jcKpO5l6FExztvuc"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 124620,
+      "name": "Running Around",
+      "url": "https://open.spotify.com/track/4cJXHfk3oZ7hX2MgVMsTNC"
     },
     {
       "added_at": "2025-09-04 23:00:13",
@@ -1531,30 +1531,6 @@
     {
       "added_at": "2025-09-04 23:00:13",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/36Vuo1Sls1ZzZqcceuapAh"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Culture Shock",
-          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
-        },
-        {
-          "name": "Fragma",
-          "url": "https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/7A2K6UcyFSt7wBuv4B6kXi"
-    },
-    {
-      "added_at": "2025-09-04 23:00:13",
-      "album": {
         "name": "6 In the Morning (feat. Nate Dogg)",
         "url": "https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs"
       },
@@ -1587,6 +1563,30 @@
       "duration_ms": 165961,
       "name": "Stay",
       "url": "https://open.spotify.com/track/4EyIt50f46KvqdJphEPg8U"
+    },
+    {
+      "added_at": "2025-09-04 23:00:13",
+      "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/36Vuo1Sls1ZzZqcceuapAh"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Culture Shock",
+          "url": "https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE"
+        },
+        {
+          "name": "Fragma",
+          "url": "https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/7A2K6UcyFSt7wBuv4B6kXi"
     },
     {
       "added_at": "2025-09-04 23:00:13",

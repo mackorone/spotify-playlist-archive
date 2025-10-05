@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: Els Hagia
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,289 likes - 92 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,288 likes - 92 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 8 | [Bicara \- Cinematic Version](https://open.spotify.com/track/3Ov1FnIRukLqYRaVXP3WNz) | [CVX](https://open.spotify.com/artist/3YDAdiXuKjmL0SsiCr1eyz) | [Bicara \(Cinematic Version\)](https://open.spotify.com/album/1L1RuaTx3MGLl4YETN7cJ8) | 3:47 |
 | 9 | [Bukan Khayalan](https://open.spotify.com/track/06LGTIHi6zh9LPxN1A4yHz) | [DOM Band](https://open.spotify.com/artist/4sKsqgZpRJ2l6UjmO5ZgzS) | [Bukan Khayalan](https://open.spotify.com/album/0WvwKBqRUmmpQhip8Udtbz) | 2:58 |
 | 10 | [Constellation](https://open.spotify.com/track/70XVtHxUVOZo94bC0SPRCO) | [LOTUS FROM JAKARTA](https://open.spotify.com/artist/41J5awaMlB8Jr9O3eLbrtG) | [Constellation](https://open.spotify.com/album/5twXA2RyqE0JZEg9UyQxp1) | 4:44 |
-| 11 | [Sewates Selingan](https://open.spotify.com/track/4XYowsoOVX0IaG8FT2JWqP) | [Start Koplo](https://open.spotify.com/artist/5vfIXTOHuuaHQ1XxUSHjlA) | [Sewates Selingan](https://open.spotify.com/album/3BdjmcDFz0NoNayRc77Cr3) | 5:46 |
+| 11 | [Sewates Selingan](https://open.spotify.com/track/4XYowsoOVX0IaG8FT2JWqP) | [START KOPLO](https://open.spotify.com/artist/3NSHD91wHPskJuktHal5ma) | [Sewates Selingan](https://open.spotify.com/album/3BdjmcDFz0NoNayRc77Cr3) | 5:46 |
 | 12 | [Hilang Waras](https://open.spotify.com/track/15s6PE8DqGFWLc2FLipP7l) | [Pika Iskandar](https://open.spotify.com/artist/3ZYWF9zaonB6IQ7KuOneIo), [Aidaaihsan](https://open.spotify.com/artist/1Ov3Q82wv1h4GAnNMbH0qo) | [Hilang Waras](https://open.spotify.com/album/7anXRgMv1d3CY01YtoW5l9) | 3:38 |
 | 13 | [Doa Terbaikku](https://open.spotify.com/track/56J5St1syhR7ZOVqTjLIyO) | [Laura Geraldine](https://open.spotify.com/artist/2mxvSPHMJnQDZUL61yMLZC) | [Doa Terbaikku](https://open.spotify.com/album/4Amuj5dImlUFIuDItY6n5h) | 4:47 |
 | 14 | [Pergi Saja](https://open.spotify.com/track/2RXWbRBb7HMg4pEhLb5Sbc) | [Andi Devandi](https://open.spotify.com/artist/108FB6tJZooTCcrpAbnrRZ) | [Pergi Saja](https://open.spotify.com/album/3WRNMukGEVav3jYzfBWo8T) | 3:38 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAABkjsTh0d0Q85ppx23OEUb2",
+  "snapshot_id": "aN8SAAAAAACmG0TYCop1RSbbnQwDKtfZ",
   "tracks": [
     {
       "added_at": null,
@@ -111,26 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Church (feat. EARTHGANG)",
-        "url": "https://open.spotify.com/album/1jAJCdLpq8lMwN7oTPRCQN"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 228117,
-      "name": "Church (feat. EARTHGANG)",
-      "url": "https://open.spotify.com/track/1T37rmthd8KPcRPcD5Tm7u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Forever Story (Extended Version)",
         "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 203377,
       "name": "Can\u2019t Punk Me (feat. EARTHGANG)",
       "url": "https://open.spotify.com/track/2H2l7zo9EqtqxFr8R8N8Zg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Church (feat. EARTHGANG)",
+        "url": "https://open.spotify.com/album/1jAJCdLpq8lMwN7oTPRCQN"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 228117,
+      "name": "Church (feat. EARTHGANG)",
+      "url": "https://open.spotify.com/track/1T37rmthd8KPcRPcD5Tm7u"
     },
     {
       "added_at": null,
@@ -959,22 +959,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Options (with Wale)",
-        "url": "https://open.spotify.com/album/32JawunWi79g0aZOpjr0Os"
+        "name": "Bears Like This Too Much",
+        "url": "https://open.spotify.com/album/1QYACZF6ijryY2dHq71erf"
       },
       "artists": [
         {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
         },
         {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Jordxn Bryant",
+          "url": "https://open.spotify.com/artist/5HDugisegjcujApqOEN3Ki"
+        },
+        {
+          "name": "Hollywood JB",
+          "url": "https://open.spotify.com/artist/7rQhG9iwQZilVSDCivPQO4"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 154253,
-      "name": "Options (with Wale)",
-      "url": "https://open.spotify.com/track/4BcJTOfO1EI6sn1TEKZUyR"
+      "duration_ms": 195800,
+      "name": "Willow Tree (feat. J.I.D, JordxnBryant, Hollywood JB & EARTHGANG)",
+      "url": "https://open.spotify.com/track/4ir5WlzsgiP6TEbRtkhCGR"
     },
     {
       "added_at": null,
@@ -1031,34 +1043,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bears Like This Too Much",
-        "url": "https://open.spotify.com/album/1QYACZF6ijryY2dHq71erf"
+        "name": "Options (with Wale)",
+        "url": "https://open.spotify.com/album/32JawunWi79g0aZOpjr0Os"
       },
       "artists": [
         {
-          "name": "Spillage Village",
-          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Jordxn Bryant",
-          "url": "https://open.spotify.com/artist/5HDugisegjcujApqOEN3Ki"
-        },
-        {
-          "name": "Hollywood JB",
-          "url": "https://open.spotify.com/artist/7rQhG9iwQZilVSDCivPQO4"
-        },
-        {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 195800,
-      "name": "Willow Tree (feat. J.I.D, JordxnBryant, Hollywood JB & EARTHGANG)",
-      "url": "https://open.spotify.com/track/4ir5WlzsgiP6TEbRtkhCGR"
+      "duration_ms": 154253,
+      "name": "Options (with Wale)",
+      "url": "https://open.spotify.com/track/4BcJTOfO1EI6sn1TEKZUyR"
     },
     {
       "added_at": null,

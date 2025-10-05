@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 346147,
+  "num_followers": 346113,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 230893,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Aurora Remixed",
         "url": "https://open.spotify.com/album/7rEvRh1tkLQSNDA4PvHDRb"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 254163,
       "name": "Pura Flor (El B\u00faho Remix)",
       "url": "https://open.spotify.com/track/3R5PROPl0zd9GsmCNYtZNv"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 230893,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -535,30 +535,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "La Que Es",
-        "url": "https://open.spotify.com/album/1m14JbxGEi0s1vktDhdlwt"
-      },
-      "artists": [
-        {
-          "name": "Venezonix",
-          "url": "https://open.spotify.com/artist/4EU8WPqqBvsipJkWL1XfQ6"
-        },
-        {
-          "name": "Betsayda Machado",
-          "url": "https://open.spotify.com/artist/5NxtLG8o5Bsm23XJ9NYq1k"
-        },
-        {
-          "name": "Parranda el Clavo",
-          "url": "https://open.spotify.com/artist/6rwsObUb4DHKh8o01y1nXp"
-        }
-      ],
-      "duration_ms": 194531,
-      "name": "La Que Es",
-      "url": "https://open.spotify.com/track/3MO2Ym7qBnmNEAtjPwOxXE"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Ac\u00fastico",
         "url": "https://open.spotify.com/album/1L7X3TMHXuB8XSOZpdkxAc"
       },
@@ -587,6 +563,46 @@
       "duration_ms": 213146,
       "name": "Tamarugal (Para de Mirarme)",
       "url": "https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "La Que Es",
+        "url": "https://open.spotify.com/album/1m14JbxGEi0s1vktDhdlwt"
+      },
+      "artists": [
+        {
+          "name": "Venezonix",
+          "url": "https://open.spotify.com/artist/4EU8WPqqBvsipJkWL1XfQ6"
+        },
+        {
+          "name": "Betsayda Machado",
+          "url": "https://open.spotify.com/artist/5NxtLG8o5Bsm23XJ9NYq1k"
+        },
+        {
+          "name": "Parranda el Clavo",
+          "url": "https://open.spotify.com/artist/6rwsObUb4DHKh8o01y1nXp"
+        }
+      ],
+      "duration_ms": 194531,
+      "name": "La Que Es",
+      "url": "https://open.spotify.com/track/3MO2Ym7qBnmNEAtjPwOxXE"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Nene",
+        "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        }
+      ],
+      "duration_ms": 201700,
+      "name": "Nene",
+      "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -623,22 +639,6 @@
       "duration_ms": 157746,
       "name": "Pachamama",
       "url": "https://open.spotify.com/track/5wETbMw6PuupavwJ5ERA7B"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Nene",
-        "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
-      },
-      "artists": [
-        {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
-        }
-      ],
-      "duration_ms": 201700,
-      "name": "Nene",
-      "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -703,26 +703,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Tierra Moj\u00e1 (Dub Mix)",
-        "url": "https://open.spotify.com/album/5nNgttpJa3yf9foArittyG"
-      },
-      "artists": [
-        {
-          "name": "Los Gaiteros de Ovejas",
-          "url": "https://open.spotify.com/artist/3VUqC0Q4XHN2PBuFQeredd"
-        },
-        {
-          "name": "Cerrero",
-          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
-        }
-      ],
-      "duration_ms": 307436,
-      "name": "Tierra Moj\u00e1 - Cerrero Dub Mix",
-      "url": "https://open.spotify.com/track/57LjA8Nq2X6gut8TRpfhZZ"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Misturas",
         "url": "https://open.spotify.com/album/0A5zpH2SoNiRGBZf3WAyZJ"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 228754,
       "name": "Olv\u00eddame",
       "url": "https://open.spotify.com/track/0S7YJBN4QRwXLLRTAhlhew"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Tierra Moj\u00e1 (Dub Mix)",
+        "url": "https://open.spotify.com/album/5nNgttpJa3yf9foArittyG"
+      },
+      "artists": [
+        {
+          "name": "Los Gaiteros de Ovejas",
+          "url": "https://open.spotify.com/artist/3VUqC0Q4XHN2PBuFQeredd"
+        },
+        {
+          "name": "Cerrero",
+          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
+        }
+      ],
+      "duration_ms": 307436,
+      "name": "Tierra Moj\u00e1 - Cerrero Dub Mix",
+      "url": "https://open.spotify.com/track/57LjA8Nq2X6gut8TRpfhZZ"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -859,38 +859,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Elevation / Baba Meyi",
-        "url": "https://open.spotify.com/album/5wpmJ3wcqk4ib1zS8B0Tjs"
-      },
-      "artists": [
-        {
-          "name": "Penya",
-          "url": "https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU"
-        }
-      ],
-      "duration_ms": 184886,
-      "name": "Elevation",
-      "url": "https://open.spotify.com/track/18xMAhhakzjsthPu1OAIq9"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Dub de Gaita",
-        "url": "https://open.spotify.com/album/7aFGsX83VM3UQBtUk3S6Gk"
-      },
-      "artists": [
-        {
-          "name": "Los Gaiteros de San Jacinto",
-          "url": "https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO"
-        }
-      ],
-      "duration_ms": 346280,
-      "name": "Fuego de Cumbia / Dub de Sangre Pura - Dub Mix",
-      "url": "https://open.spotify.com/track/4o5CcQ1vD1Ikr0yeEcb9s6"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Ofelia (Cerrero Dub Mix)",
         "url": "https://open.spotify.com/album/0LCGEuFRb0t2TWrQkry64K"
       },
@@ -911,6 +879,38 @@
       "duration_ms": 241197,
       "name": "Ofelia - Cerrero Dub Mix",
       "url": "https://open.spotify.com/track/21Ekz6yMIrnyHdJ819Pj4m"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Dub de Gaita",
+        "url": "https://open.spotify.com/album/7aFGsX83VM3UQBtUk3S6Gk"
+      },
+      "artists": [
+        {
+          "name": "Los Gaiteros de San Jacinto",
+          "url": "https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO"
+        }
+      ],
+      "duration_ms": 346280,
+      "name": "Fuego de Cumbia / Dub de Sangre Pura - Dub Mix",
+      "url": "https://open.spotify.com/track/4o5CcQ1vD1Ikr0yeEcb9s6"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Elevation / Baba Meyi",
+        "url": "https://open.spotify.com/album/5wpmJ3wcqk4ib1zS8B0Tjs"
+      },
+      "artists": [
+        {
+          "name": "Penya",
+          "url": "https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU"
+        }
+      ],
+      "duration_ms": 184886,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/18xMAhhakzjsthPu1OAIq9"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "El Cafetal",
-        "url": "https://open.spotify.com/album/5HFvxyfp9eb2PwzFgubQ48"
-      },
-      "artists": [
-        {
-          "name": "Vilamarea",
-          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
-        }
-      ],
-      "duration_ms": 244660,
-      "name": "El Cafetal",
-      "url": "https://open.spotify.com/track/2XsfAFoTRjddzRz52aIJek"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Tiboria",
         "url": "https://open.spotify.com/album/6pQItyKgHpKxdLzJQvtT21"
       },
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "El Cafetal",
+        "url": "https://open.spotify.com/album/5HFvxyfp9eb2PwzFgubQ48"
+      },
+      "artists": [
+        {
+          "name": "Vilamarea",
+          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
+        }
+      ],
+      "duration_ms": 244660,
+      "name": "El Cafetal",
+      "url": "https://open.spotify.com/track/2XsfAFoTRjddzRz52aIJek"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Siesta",
         "url": "https://open.spotify.com/album/7u4bA8axdYb3VtJGY34Hxf"
       },
@@ -1083,26 +1083,6 @@
       "duration_ms": 233739,
       "name": "Kalimba Nara",
       "url": "https://open.spotify.com/track/7rKkfnMEyHGxy1nPJcDf6f"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Momoto",
-        "url": "https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA"
-      },
-      "artists": [
-        {
-          "name": "Onda Mundial",
-          "url": "https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp"
-        },
-        {
-          "name": "Klik & Frik",
-          "url": "https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC"
-        }
-      ],
-      "duration_ms": 427525,
-      "name": "Salamanquesa",
-      "url": "https://open.spotify.com/track/2g0DEj8yNoDmh5BjNg5kcw"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1127,6 +1107,26 @@
       "duration_ms": 271335,
       "name": "Las Mellas - Cerrero Dub Mix",
       "url": "https://open.spotify.com/track/2H9fKVibA0pCyjBCcL86MW"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Momoto",
+        "url": "https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA"
+      },
+      "artists": [
+        {
+          "name": "Onda Mundial",
+          "url": "https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp"
+        },
+        {
+          "name": "Klik & Frik",
+          "url": "https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC"
+        }
+      ],
+      "duration_ms": 427525,
+      "name": "Salamanquesa",
+      "url": "https://open.spotify.com/track/2g0DEj8yNoDmh5BjNg5kcw"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

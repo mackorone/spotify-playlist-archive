@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 111960,
+  "num_followers": 111955,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,22 @@
     {
       "added_at": "2025-10-03 10:51:02",
       "album": {
+        "name": "Popi\u00f3\u0142",
+        "url": "https://open.spotify.com/album/73hQElTnbuhB7HT0w9gIN3"
+      },
+      "artists": [
+        {
+          "name": "B\u0142a\u017cej Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4"
+        }
+      ],
+      "duration_ms": 213311,
+      "name": "Wszystko",
+      "url": "https://open.spotify.com/track/7KFi8G55mi68MDA9OhlBNz"
+    },
+    {
+      "added_at": "2025-10-03 10:51:02",
+      "album": {
         "name": "Na dno",
         "url": "https://open.spotify.com/album/78fK0P2m4ktGeSPSbSX9bs"
       },
@@ -851,22 +867,6 @@
     {
       "added_at": "2025-10-03 10:51:02",
       "album": {
-        "name": "Popi\u00f3\u0142",
-        "url": "https://open.spotify.com/album/73hQElTnbuhB7HT0w9gIN3"
-      },
-      "artists": [
-        {
-          "name": "B\u0142a\u017cej Kr\u00f3l",
-          "url": "https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4"
-        }
-      ],
-      "duration_ms": 213311,
-      "name": "Wszystko",
-      "url": "https://open.spotify.com/track/7KFi8G55mi68MDA9OhlBNz"
-    },
-    {
-      "added_at": "2025-10-03 10:51:02",
-      "album": {
         "name": "Guilty",
         "url": "https://open.spotify.com/album/6sFyzjGUkNN0tEHHVwMaDO"
       },
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-10-03 10:51:02",
       "album": {
-        "name": "Shadowboxing",
-        "url": "https://open.spotify.com/album/1lNgCoCV3uPOfKjHp3R5YD"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 172952,
-      "name": "Shadowboxing",
-      "url": "https://open.spotify.com/track/55Ml2qIECJeLRo8qzRnSGO"
-    },
-    {
-      "added_at": "2025-10-03 10:51:02",
-      "album": {
         "name": "Los",
         "url": "https://open.spotify.com/album/5AypQAAZv3ryCsQkMqZzHj"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 164571,
       "name": "Los",
       "url": "https://open.spotify.com/track/2ZrDmDRxMJZkJ4JZbqvstj"
+    },
+    {
+      "added_at": "2025-10-03 10:51:02",
+      "album": {
+        "name": "Shadowboxing",
+        "url": "https://open.spotify.com/album/1lNgCoCV3uPOfKjHp3R5YD"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 172952,
+      "name": "Shadowboxing",
+      "url": "https://open.spotify.com/track/55Ml2qIECJeLRo8qzRnSGO"
     },
     {
       "added_at": "2025-10-03 10:51:02",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-10-03 10:51:02",
       "album": {
-        "name": "B\u0105d\u017a tu ze mn\u0105",
-        "url": "https://open.spotify.com/album/4vqGL1vM1t7fF7r6U3DKKJ"
-      },
-      "artists": [
-        {
-          "name": "Sylwia Przybysz",
-          "url": "https://open.spotify.com/artist/2AIobjujCm6ktZMZeY4M09"
-        }
-      ],
-      "duration_ms": 161221,
-      "name": "B\u0105d\u017a tu ze mn\u0105",
-      "url": "https://open.spotify.com/track/0NFOKweZTdra8nBOxgA7C2"
-    },
-    {
-      "added_at": "2025-10-03 10:51:02",
-      "album": {
         "name": "Rany, chyba nie daj\u0119 rady",
         "url": "https://open.spotify.com/album/3AHA96h9aCxmLQky5ci8F2"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 151038,
       "name": "Rany, chyba nie daj\u0119 rady",
       "url": "https://open.spotify.com/track/7p5U4cxuko3T7GuIG8nXx7"
+    },
+    {
+      "added_at": "2025-10-03 10:51:02",
+      "album": {
+        "name": "B\u0105d\u017a tu ze mn\u0105",
+        "url": "https://open.spotify.com/album/4vqGL1vM1t7fF7r6U3DKKJ"
+      },
+      "artists": [
+        {
+          "name": "Sylwia Przybysz",
+          "url": "https://open.spotify.com/artist/2AIobjujCm6ktZMZeY4M09"
+        }
+      ],
+      "duration_ms": 161221,
+      "name": "B\u0105d\u017a tu ze mn\u0105",
+      "url": "https://open.spotify.com/track/0NFOKweZTdra8nBOxgA7C2"
     },
     {
       "added_at": "2025-10-03 10:51:02",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-10-03 10:51:02",
       "album": {
-        "name": "Szanowny Panie",
-        "url": "https://open.spotify.com/album/1MEF9BkNH4pCCSvHXs5HjS"
-      },
-      "artists": [
-        {
-          "name": "Bluszcz",
-          "url": "https://open.spotify.com/artist/4QUfzPnzzNf93Y6VKxZVlD"
-        }
-      ],
-      "duration_ms": 151082,
-      "name": "Szanowny Panie",
-      "url": "https://open.spotify.com/track/4j3XqG2iGoqxHaGfqshtc5"
-    },
-    {
-      "added_at": "2025-10-03 10:51:02",
-      "album": {
         "name": "Amstaff",
         "url": "https://open.spotify.com/album/5cEeS7LEUksRMnHnRJ200s"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 223541,
       "name": "Amstaff",
       "url": "https://open.spotify.com/track/4sn1nfJCPKBTzPIVLi9gld"
+    },
+    {
+      "added_at": "2025-10-03 10:51:02",
+      "album": {
+        "name": "Szanowny Panie",
+        "url": "https://open.spotify.com/album/1MEF9BkNH4pCCSvHXs5HjS"
+      },
+      "artists": [
+        {
+          "name": "Bluszcz",
+          "url": "https://open.spotify.com/artist/4QUfzPnzzNf93Y6VKxZVlD"
+        }
+      ],
+      "duration_ms": 151082,
+      "name": "Szanowny Panie",
+      "url": "https://open.spotify.com/track/4j3XqG2iGoqxHaGfqshtc5"
     },
     {
       "added_at": "2025-10-03 10:51:02",

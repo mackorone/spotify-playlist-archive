@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Among The Stars",
+        "url": "https://open.spotify.com/album/6AtGi9oQpMuRBp43ugdxr4"
+      },
+      "artists": [
+        {
+          "name": "Onni",
+          "url": "https://open.spotify.com/artist/7A0mACsqOhqMaeKYJfQkbx"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Among The Stars",
+      "url": "https://open.spotify.com/track/7axkIOMIOCYECef9H6HbTs"
+    },
+    {
+      "album": {
         "name": "Thai Sunrise",
         "url": "https://open.spotify.com/album/24Wo6aRCb7BSdNQ2cZfB12"
       },
@@ -5894,7 +5912,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 173633,
       "name": "The Mist",
       "url": "https://open.spotify.com/track/7A087XKnj9LRqRgR5qzKQw"

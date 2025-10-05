@@ -9664,7 +9664,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 179413,
       "name": "Businessman",
       "url": "https://open.spotify.com/track/6Ut71PoNsLM9ubj5uLI7m4"
@@ -27230,7 +27230,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 168486,
       "name": "Houby",
       "url": "https://open.spotify.com/track/1hSHnObfqFTYrLO2VWoevx"
@@ -30508,7 +30508,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 155333,
       "name": "I\u2019m So Dope",
       "url": "https://open.spotify.com/track/5H8uURLK4I1OtNzUjWEX2m"
@@ -66530,7 +66530,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 172733,
       "name": "Up Down",
       "url": "https://open.spotify.com/track/5jqEybi7fIl2BpT0njbfhO"
@@ -68674,6 +68674,28 @@
       "duration_ms": 180000,
       "name": "VZH\u016eRU CELOU NOC",
       "url": "https://open.spotify.com/track/47amAylHisxb5vuPLGQ72x"
+    },
+    {
+      "album": {
+        "name": "HA MEGHALOK SE",
+        "url": "https://open.spotify.com/album/5tUNJHOtRKtuftYTS5EVfZ"
+      },
+      "artists": [
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        },
+        {
+          "name": "RZMVS",
+          "url": "https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4"
+        }
+      ],
+      "date_added": "2025-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165900,
+      "name": "V\u00c1RJ MEG",
+      "url": "https://open.spotify.com/track/4RyGoGUAR8cAC7hA9qzc5b"
     },
     {
       "album": {
@@ -74694,7 +74716,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 197668,
       "name": "\u9769\u547d\u9053\u4e2d - On The Way",
       "url": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar"

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7clFvfOCA8KimyV26jLALB">Alicia Keys</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-238 songs - 15 hr 16 min
+239 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,8 @@
 | [Time Machine](https://open.spotify.com/track/3hBxzzWEIHFpVWuU0s2YQD) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Time Machine \(Official Video\)](https://open.spotify.com/album/11pCfMFJ4ctD4pRGB1qcvt) | 4:02 | 2024-01-07 | 2024-02-02 |
 | [Time Machine](https://open.spotify.com/track/5mK9w8MYTh3SpmycLZ561K) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 4:26 | 2023-03-09 |  |
 | [Too Much](https://open.spotify.com/track/0mhlIcF2UReFGIl6XvKzB4) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Too Much](https://open.spotify.com/album/7AywMcUIGhC5MePplTL80A) | 2:46 | 2025-09-21 | 2025-10-03 |
-| [Too Much](https://open.spotify.com/track/6cxilGAlJ1Jbcg505ES7BD) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Too Much](https://open.spotify.com/album/6oZrzRKyPumbpZ99hoEFgJ) | 2:46 | 2025-10-02 |  |
+| [Too Much](https://open.spotify.com/track/6cxilGAlJ1Jbcg505ES7BD) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Too Much](https://open.spotify.com/album/6oZrzRKyPumbpZ99hoEFgJ) | 2:46 | 2025-10-02 | 2025-10-05 |
+| [Too Much](https://open.spotify.com/track/71JXHX1aaLQEVcZpOSx4oc) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Too Much](https://open.spotify.com/album/0yv3h3jYDrSEAwhmNaTllW) | 2:46 | 2025-10-04 |  |
 | [Trillions](https://open.spotify.com/track/4SRgSvPTF1xYFvDJYbyMG3) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Trillions \(Official Video\)](https://open.spotify.com/album/1QPoaRO3pspXdIazm2XKl8) | 2:48 | 2023-12-15 | 2024-01-29 |
 | [Trillions \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/5md3aeM1WaEjDec9gH21yW) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [KEYS II](https://open.spotify.com/album/4z4IDBBvwAl3SyUOorj5M0) | 2:53 | 2023-03-09 |  |
 | [Troubles](https://open.spotify.com/track/4QD2WHH386lGJ6OotpY17G) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 4:28 | 2023-03-09 |  |

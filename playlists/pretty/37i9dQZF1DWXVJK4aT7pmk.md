@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 
 > Catch the hottest Punjabi tracks\. Cover \- Navaan Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,402,371 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,402,916 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 | 4 | [High On You](https://open.spotify.com/track/2eqUVYJVnlDs8PgOtuOlJm) | [Jind Universe](https://open.spotify.com/artist/5KmFbbptaZhEtmMibvibUE) | [High On You](https://open.spotify.com/album/7kt5CDMRKbe25KBeHDthWC) | 2:20 |
 | 5 | [3am In Gillco](https://open.spotify.com/track/1oMW4IqpV4ulyFYk16YzSl) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [3am In Gillco](https://open.spotify.com/album/2xKR9o0kFAitgPrfymGw5t) | 3:19 |
 | 6 | [Without Me](https://open.spotify.com/track/7geJy2YZjqHe1oOjaSyRAE) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Without Me](https://open.spotify.com/album/3ZIaRzsiL9ue12E2duQgiM) | 2:36 |
-| 7 | [PERFECT \(From "Sunny Sanskari Ki Tulsi Kumari"\)](https://open.spotify.com/track/4Cp29GrZ9Jxxoke0OeQGuz) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [PERFECT \(From "Sunny Sanskari Ki Tulsi Kumari"\)](https://open.spotify.com/album/2uFqKj9qt6TkwKdNpFjQ4R) | 2:26 |
+| 7 | [PERFECT \(From "Sunny Sanskari Ki Tulsi Kumari"\)](https://open.spotify.com/track/4Cp29GrZ9Jxxoke0OeQGuz) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [PERFECT \(From "Sunny Sanskari Ki Tulsi Kumari"\)](https://open.spotify.com/album/2uFqKj9qt6TkwKdNpFjQ4R) | 2:26 |
 | 8 | [For A Reason](https://open.spotify.com/track/0cYohCh24y1aMjJmcS9RBl) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:00 |
 | 9 | [Lor Lor](https://open.spotify.com/track/0UVcAOt6NMxYQ24zD66XKk) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9) | [Lor Lor](https://open.spotify.com/album/4zqRJG3ls1lWXULHc712bw) | 2:59 |
 | 10 | [Haseen](https://open.spotify.com/track/08GYLNhKthS3arMdXsveRI) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG), [Rippy Grewal](https://open.spotify.com/artist/1RaZAbVB4yopz69N1XlZvj) | [Haseen](https://open.spotify.com/album/3L6TDQekb2ZsaqAnw1nZRx) | 2:54 |

@@ -1,12 +1,12 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 22045,
+  "num_followers": 22052,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFNcPv7QeUxrNYFwGzBYMXwu42Zm",
+  "snapshot_id": "AAAAAHtIp75UiDiVWigHBlnJQqVIN+LS",
   "tracks": [
     {
       "added_at": "2025-09-19 22:28:24",
@@ -319,38 +319,6 @@
     {
       "added_at": "2025-09-19 22:28:24",
       "album": {
-        "name": "EXPECTATIVAS",
-        "url": "https://open.spotify.com/album/172ipzW34GEnl38MHofXcf"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "EXPECTATIVAS",
-      "url": "https://open.spotify.com/track/6pFD81uwGh25w62Ut3XSqd"
-    },
-    {
-      "added_at": "2025-09-19 22:28:24",
-      "album": {
-        "name": "Un Afrito",
-        "url": "https://open.spotify.com/album/4Gpxahsskuc5R2nj1Wqft7"
-      },
-      "artists": [
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "Un Afrito",
-      "url": "https://open.spotify.com/track/213EYsG3x95vtxupDU1XMc"
-    },
-    {
-      "added_at": "2025-09-19 22:28:24",
-      "album": {
         "name": "MAIOR QUE O TEMPO",
         "url": "https://open.spotify.com/album/3Cjn6aliQrVp6MPiU4oAdw"
       },
@@ -371,6 +339,38 @@
       "duration_ms": 228349,
       "name": "MULHER SECRETA",
       "url": "https://open.spotify.com/track/7IrWDPYP9rwNq1N4aUF3nG"
+    },
+    {
+      "added_at": "2025-09-19 22:28:24",
+      "album": {
+        "name": "Un Afrito",
+        "url": "https://open.spotify.com/album/4Gpxahsskuc5R2nj1Wqft7"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "Un Afrito",
+      "url": "https://open.spotify.com/track/213EYsG3x95vtxupDU1XMc"
+    },
+    {
+      "added_at": "2025-09-19 22:28:24",
+      "album": {
+        "name": "EXPECTATIVAS",
+        "url": "https://open.spotify.com/album/172ipzW34GEnl38MHofXcf"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "EXPECTATIVAS",
+      "url": "https://open.spotify.com/track/6pFD81uwGh25w62Ut3XSqd"
     },
     {
       "added_at": "2025-09-19 22:28:24",
@@ -947,30 +947,6 @@
     {
       "added_at": "2025-09-19 22:28:24",
       "album": {
-        "name": "Fora do Normal",
-        "url": "https://open.spotify.com/album/2Hn8berMzeeQHZfR1OFnm5"
-      },
-      "artists": [
-        {
-          "name": "THIFREE",
-          "url": "https://open.spotify.com/artist/4i1onoDzdfZeBll14ktbfv"
-        },
-        {
-          "name": "Vignoli",
-          "url": "https://open.spotify.com/artist/0jKm12TzXOaJBmb5hrG7q2"
-        },
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Fora do Normal",
-      "url": "https://open.spotify.com/track/2sDGcExhySyvzQNXk0RTWs"
-    },
-    {
-      "added_at": "2025-09-19 22:28:24",
-      "album": {
         "name": "Coragem",
         "url": "https://open.spotify.com/album/3EdUtzzp9mYM7NIp5pnzrv"
       },
@@ -995,6 +971,30 @@
       "duration_ms": 182448,
       "name": "Coragem",
       "url": "https://open.spotify.com/track/2ICmFpSpyqKk68VT5TMFu1"
+    },
+    {
+      "added_at": "2025-09-19 22:28:24",
+      "album": {
+        "name": "Fora do Normal",
+        "url": "https://open.spotify.com/album/2Hn8berMzeeQHZfR1OFnm5"
+      },
+      "artists": [
+        {
+          "name": "THIFREE",
+          "url": "https://open.spotify.com/artist/4i1onoDzdfZeBll14ktbfv"
+        },
+        {
+          "name": "Vignoli",
+          "url": "https://open.spotify.com/artist/0jKm12TzXOaJBmb5hrG7q2"
+        },
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Fora do Normal",
+      "url": "https://open.spotify.com/track/2sDGcExhySyvzQNXk0RTWs"
     },
     {
       "added_at": "2025-09-19 22:28:24",

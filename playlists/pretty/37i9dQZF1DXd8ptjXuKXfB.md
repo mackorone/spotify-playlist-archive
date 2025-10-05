@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > Cool és trendi dalok Magyarországon! Cover: Pamkutya
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,426 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,445 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 50 | [ZHA MAJ DUR](https://open.spotify.com/track/1pveRbNO9ChgyuY37trkLw) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [Farkas Pisti](https://open.spotify.com/artist/3S80BK8zfo0nGXKOgG4vo3) | [ZHA MAJ DUR](https://open.spotify.com/album/0QWmGuYzWAkZuvZPzZ8bV3) | 3:39 |
 | 51 | [Inuyasha](https://open.spotify.com/track/4LbMF0avnNg2NQeGJEcQIz) | [mollywood](https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP) | [Larissza Radio](https://open.spotify.com/album/45xJvwMSljwn6qkvq1cHGZ) | 1:52 |
 | 52 | [NINTENDO](https://open.spotify.com/track/5MOlhGLex8jhMeyUPSsanz) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [NINTENDO](https://open.spotify.com/album/5JK5KmPYSR3Ruys8nDUa7c) | 2:06 |
-| 53 | [Szép](https://open.spotify.com/track/6rYTRrFZTcT3i3u0eG0fHX) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E), [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Sisi](https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f), [BEATó](https://open.spotify.com/artist/3m410ob9E6v6HxcrpeSUqn) | [Spontán Kollabok](https://open.spotify.com/album/58pRsBtv0Sf4VRp3R70mXp) | 3:12 |
-| 54 | [úgy unom](https://open.spotify.com/track/0h3Ua52yOapva267D0QoQw) | [Mehringer](https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1), [sosehol](https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai) | [A bálban](https://open.spotify.com/album/0x89eDYKFXBDebJqzTyt5b) | 3:54 |
+| 53 | [úgy unom](https://open.spotify.com/track/0h3Ua52yOapva267D0QoQw) | [Mehringer](https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1), [sosehol](https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai) | [A bálban](https://open.spotify.com/album/0x89eDYKFXBDebJqzTyt5b) | 3:54 |
+| 54 | [Szép](https://open.spotify.com/track/6rYTRrFZTcT3i3u0eG0fHX) | [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E), [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Sisi](https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f), [BEATó](https://open.spotify.com/artist/3m410ob9E6v6HxcrpeSUqn) | [Spontán Kollabok](https://open.spotify.com/album/58pRsBtv0Sf4VRp3R70mXp) | 3:12 |
 | 55 | [SZÖRNYETEG](https://open.spotify.com/track/3MlKk8TP3xjM80j5uUXtRr) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [SZÍVTIPRÓ SZÁLLODA \(1\. RÉSZ\)](https://open.spotify.com/album/7FnnqrwibMHb5j59gifRhF) | 3:28 |
 | 56 | [THC](https://open.spotify.com/track/3itJAWZjdsEmcW3A2785zG) | [mollywood](https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP) | [Europa](https://open.spotify.com/album/1WWV9V12Yd9SAw7LuM6z7P) | 2:12 |
 | 57 | [História](https://open.spotify.com/track/57azn5oXW0OWBv8HVtuSmn) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O) | [Talpra cigányok](https://open.spotify.com/album/2Ql5DaKsixp6Oev9vRKlak) | 2:16 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 59 | [Libikóka](https://open.spotify.com/track/66FSHBlaFjgUBE7AKVRxmj) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Libikóka](https://open.spotify.com/album/6BKsMwAE9c1NM5moE808Yb) | 4:01 |
 | 60 | [FOROG A FÖLD](https://open.spotify.com/track/5Qmlr66irQIftmWA1NFXEj) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [Gaspar Laci](https://open.spotify.com/artist/1P5T5EzCNQXavHmVZ7Kdj5) | [FOROG A FÖLD](https://open.spotify.com/album/6JGfT6iaCMPndbWLNwXDff) | 3:12 |
 | 61 | [az én országom](https://open.spotify.com/track/0Xymkt9jHypCBwW9NWfPoN) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [az én országom](https://open.spotify.com/album/1B0fhyY2g7APOcJW6xulVs) | 3:04 |
-| 62 | [Járatlan](https://open.spotify.com/track/7gt3yKDsnuyD3klF0uOEXW) | [laurie.](https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET), [sosehol](https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai) | [Járatlan](https://open.spotify.com/album/6ND8Ft1X16BRRQxGLpTtKY) | 3:16 |
-| 63 | [Oy Lele](https://open.spotify.com/track/7nnTebRqWMU92pbdF1hpk5) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [Oy Lele](https://open.spotify.com/album/49XobDXRmdpDuNcGVMKj9B) | 2:30 |
+| 62 | [Oy Lele](https://open.spotify.com/track/7nnTebRqWMU92pbdF1hpk5) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [Oy Lele](https://open.spotify.com/album/49XobDXRmdpDuNcGVMKj9B) | 2:30 |
+| 63 | [Járatlan](https://open.spotify.com/track/7gt3yKDsnuyD3klF0uOEXW) | [laurie.](https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET), [sosehol](https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai) | [Járatlan](https://open.spotify.com/album/6ND8Ft1X16BRRQxGLpTtKY) | 3:16 |
 | 64 | [Gyere Kislány](https://open.spotify.com/track/4ZXIRnU7kU6HCxjIUEVgoH) | [Fehér Krisztián](https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX), [Burai](https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO) | [Gyere Kislány](https://open.spotify.com/album/7u1VEXdOplmEB5UQPJEzUX) | 3:36 |
 | 65 | [PATKÁNY](https://open.spotify.com/track/769BgoDplcfdCwuMKzVMgV) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [PATKÁNY](https://open.spotify.com/album/5QBhS7BWtdqDSz6N9YICeK) | 2:29 |
 | 66 | [Túl szép](https://open.spotify.com/track/4MEOjiTkrNxNs160x45p2p) | [Hien](https://open.spotify.com/artist/427eVj50XeC8tmsHm51euv) | [Játék Az Egész](https://open.spotify.com/album/4qu3S2E48nwRyOuxoMovm1) | 3:20 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 77 | [MILF](https://open.spotify.com/track/4OzNBJIHhiYKRe5COThmC3) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [MILF](https://open.spotify.com/album/0njwkRwxNkojfPZTKVnTYW) | 2:23 |
 | 78 | [NGZ LDN BER](https://open.spotify.com/track/3suDFP1Nwxi6a2dUKRFvJg) | [ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM), [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [NGZ LDN BER](https://open.spotify.com/album/4v1Y05brN7WfMfWEmoAb30) | 2:53 |
 | 79 | [Mégegyszer](https://open.spotify.com/track/6MoY6upCR0LGbyy9HOVwJ2) | [Filo](https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee) | [Mégegyszer](https://open.spotify.com/album/74PfAetWEsR4nxqDq2UWlr) | 3:03 |
-| 80 | [Don't Be Afraid](https://open.spotify.com/track/5qxPTaUYRmfwJdYWbQ9j2W) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Don't Be Afraid](https://open.spotify.com/album/5uN3XLrt5SwVjN9fwvfh2I) | 2:52 |
+| 80 | [Beházasodtam](https://open.spotify.com/track/3SBqXm4ArrhOqNdUwHvzGa) | [HRflow](https://open.spotify.com/artist/3YuXReN1XJtyvBhUd0zjBk) | [Beházasodtam](https://open.spotify.com/album/2Zo8W6TqE90d8omt0fW8pY) | 2:26 |
 
 Snapshot ID: `AAAAAHgbscCdNnnEWjshLIK/HedSGJmj`

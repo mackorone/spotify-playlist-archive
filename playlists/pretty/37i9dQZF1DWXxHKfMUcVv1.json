@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 124750,
+  "num_followers": 124773,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Canciones Rotas",
-        "url": "https://open.spotify.com/album/0gzoNPu1co0CfO6Bmoz2yM"
-      },
-      "artists": [
-        {
-          "name": "Pablo Benegas",
-          "url": "https://open.spotify.com/artist/1w3h0mrPhK98mFPP6eiMgp"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "Soy De Mi Tierra",
-      "url": "https://open.spotify.com/track/74DxLHmbHDSsUQhs3v8kqI"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
         "name": "Kaimonomacaco",
         "url": "https://open.spotify.com/album/2U1Nf26RYrUngfJxeyszk1"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 267480,
       "name": "El Solo",
       "url": "https://open.spotify.com/track/06CeEkSJ834D9jTT3posh6"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
+        "name": "Canciones Rotas",
+        "url": "https://open.spotify.com/album/0gzoNPu1co0CfO6Bmoz2yM"
+      },
+      "artists": [
+        {
+          "name": "Pablo Benegas",
+          "url": "https://open.spotify.com/artist/1w3h0mrPhK98mFPP6eiMgp"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "Soy De Mi Tierra",
+      "url": "https://open.spotify.com/track/74DxLHmbHDSsUQhs3v8kqI"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Es Mi Culpa",
-        "url": "https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH"
-      },
-      "artists": [
-        {
-          "name": "Erica",
-          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
-        }
-      ],
-      "duration_ms": 215067,
-      "name": "Es Mi Culpa",
-      "url": "https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
         "name": "Aut\u00e9ntico Rock. Grandes \u00c9xitos del Rock Paraguayo",
         "url": "https://open.spotify.com/album/5A7nxCzhDKu4dLQsFI5QOJ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 245720,
       "name": "Que Divague",
       "url": "https://open.spotify.com/track/1rTMJXNamvqh1RAXtxnZl2"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
+        "name": "Es Mi Culpa",
+        "url": "https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH"
+      },
+      "artists": [
+        {
+          "name": "Erica",
+          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
+        }
+      ],
+      "duration_ms": 215067,
+      "name": "Es Mi Culpa",
+      "url": "https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB"
     },
     {
       "added_at": "2025-03-14 20:46:39",

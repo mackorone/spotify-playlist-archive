@@ -1,6 +1,6 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1106538,
+  "num_followers": 1106276,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
+        "name": "Redemption (From the Apple Original Film \u201cPalmer\u201d)",
+        "url": "https://open.spotify.com/album/2d9J4LzLm6h9eNIg8COFCB"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "duration_ms": 298935,
+      "name": "Redemption",
+      "url": "https://open.spotify.com/track/7sJIqdSLw7lvQUsX2NOxJB"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 257213,
       "name": "Revolution 0",
       "url": "https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
-        "name": "Redemption (From the Apple Original Film \u201cPalmer\u201d)",
-        "url": "https://open.spotify.com/album/2d9J4LzLm6h9eNIg8COFCB"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        }
-      ],
-      "duration_ms": 298935,
-      "name": "Redemption",
-      "url": "https://open.spotify.com/track/7sJIqdSLw7lvQUsX2NOxJB"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "New Wall",
-        "url": "https://open.spotify.com/album/43BULtlzGsqok8PoRPypm2"
-      },
-      "artists": [
-        {
-          "name": "Tori Forsyth",
-          "url": "https://open.spotify.com/artist/0UVISIZtASrGYL3975rp6w"
-        }
-      ],
-      "duration_ms": 158426,
-      "name": "New Wall",
-      "url": "https://open.spotify.com/track/5oF2zpG0BoSdqVkN7bwyWs"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Front Porch",
         "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 209426,
       "name": "When Creation Was Young",
       "url": "https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "New Wall",
+        "url": "https://open.spotify.com/album/43BULtlzGsqok8PoRPypm2"
+      },
+      "artists": [
+        {
+          "name": "Tori Forsyth",
+          "url": "https://open.spotify.com/artist/0UVISIZtASrGYL3975rp6w"
+        }
+      ],
+      "duration_ms": 158426,
+      "name": "New Wall",
+      "url": "https://open.spotify.com/track/5oF2zpG0BoSdqVkN7bwyWs"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Asylum",
-        "url": "https://open.spotify.com/album/72lIVHTGWdypCkAqXuaZI3"
-      },
-      "artists": [
-        {
-          "name": "Chloe Foy",
-          "url": "https://open.spotify.com/artist/3KSEcvpvbR40uwA4eiSJUa"
-        }
-      ],
-      "duration_ms": 231200,
-      "name": "Asylum",
-      "url": "https://open.spotify.com/track/736Jy0aC33icgo4VWXgnU6"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Gloria Duplex",
         "url": "https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "You & I",
-        "url": "https://open.spotify.com/album/3Hgnwo776L50LdBk4JkwmR"
+        "name": "Asylum",
+        "url": "https://open.spotify.com/album/72lIVHTGWdypCkAqXuaZI3"
       },
       "artists": [
         {
-          "name": "Tom Speight",
-          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+          "name": "Chloe Foy",
+          "url": "https://open.spotify.com/artist/3KSEcvpvbR40uwA4eiSJUa"
         }
       ],
-      "duration_ms": 154491,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/0T5wK7y2uGZmGQf1xdBM4c"
+      "duration_ms": 231200,
+      "name": "Asylum",
+      "url": "https://open.spotify.com/track/736Jy0aC33icgo4VWXgnU6"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -843,6 +827,22 @@
       "duration_ms": 226497,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/3FilajRAwqtUrYfIAf0p9J"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/3Hgnwo776L50LdBk4JkwmR"
+      },
+      "artists": [
+        {
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+        }
+      ],
+      "duration_ms": 154491,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/0T5wK7y2uGZmGQf1xdBM4c"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "All the Things That I Did and All the Things That I Didn't Do",
-        "url": "https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 184040,
-      "name": "Mourning in America",
-      "url": "https://open.spotify.com/track/5Apnwmk2Zzh3gGZD6OzQjN"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Better Way",
         "url": "https://open.spotify.com/album/3wodOxvLjVE7JmMPqOtS1M"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 356522,
       "name": "Better Way",
       "url": "https://open.spotify.com/track/74XfNFAVAxZrTUupTlQ5SB"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "All the Things That I Did and All the Things That I Didn't Do",
+        "url": "https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 184040,
+      "name": "Mourning in America",
+      "url": "https://open.spotify.com/track/5Apnwmk2Zzh3gGZD6OzQjN"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Silent Advance",
-        "url": "https://open.spotify.com/album/5j5jKiWgjZ7w4VDNVBEuW8"
-      },
-      "artists": [
-        {
-          "name": "Bryan Rahija",
-          "url": "https://open.spotify.com/artist/17OekKFB72Bbu7R14sde59"
-        }
-      ],
-      "duration_ms": 145818,
-      "name": "Silent Advance",
-      "url": "https://open.spotify.com/track/1rmQpmB07R7ehokVR74AQW"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "At the Roadhouse",
         "url": "https://open.spotify.com/album/65MKJshn1AdDBvt99IRTSu"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 230906,
       "name": "Pocket Full of Rain",
       "url": "https://open.spotify.com/track/7bUbLYm0GJoTF7ct92WnXm"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Silent Advance",
+        "url": "https://open.spotify.com/album/5j5jKiWgjZ7w4VDNVBEuW8"
+      },
+      "artists": [
+        {
+          "name": "Bryan Rahija",
+          "url": "https://open.spotify.com/artist/17OekKFB72Bbu7R14sde59"
+        }
+      ],
+      "duration_ms": 145818,
+      "name": "Silent Advance",
+      "url": "https://open.spotify.com/track/1rmQpmB07R7ehokVR74AQW"
     },
     {
       "added_at": "2024-08-23 14:59:54",

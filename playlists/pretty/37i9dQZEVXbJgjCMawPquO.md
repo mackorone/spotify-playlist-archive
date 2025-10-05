@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bolivia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,570 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,574 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJgjCMawPquO.md) - [plain]
 | 49 | [Contacto Cero](https://open.spotify.com/track/7zNm10RSB0KhRtP9XhdsVK) | [Luis Vega](https://open.spotify.com/artist/5JMJt80HJWR1e4hMw63Z5t), [David Soliz](https://open.spotify.com/artist/37furtvEyv5bePdtW1xmur) | [Contacto Cero](https://open.spotify.com/album/519rsr2RQ8SQBkAZgIbAFa) | 3:38 |
 | 50 | [La Foto](https://open.spotify.com/track/1BSijYfeMpjKCzfROYNKh7) | [Luis Vega](https://open.spotify.com/artist/5JMJt80HJWR1e4hMw63Z5t) | [La Foto](https://open.spotify.com/album/06I6NgN45EyL1hy4QtI3pU) | 3:13 |
 
-Snapshot ID: `MHM5yAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MHSP+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

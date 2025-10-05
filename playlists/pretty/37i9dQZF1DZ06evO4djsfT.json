@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 27626,
+  "num_followers": 27637,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAAAsdajRudTsxA1vm9/06m9H",
+  "snapshot_id": "aN8SAAAAAABAEDV5l6HjqXUZIXMd1xXb",
   "tracks": [
     {
       "added_at": null,
@@ -315,26 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 205386,
-      "name": "O God Forgive Us",
-      "url": "https://open.spotify.com/track/2dBpNhfNCT1XkBRAOdam5J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blameless",
         "url": "https://open.spotify.com/album/71y5aQ69P6j4bltUNwCOQb"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 163037,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/2zUcMdIMGKuDLjR1WnbzbB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 205386,
+      "name": "O God Forgive Us",
+      "url": "https://open.spotify.com/track/2dBpNhfNCT1XkBRAOdam5J"
     },
     {
       "added_at": null,
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Today We Rebel",
-        "url": "https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        }
-      ],
-      "duration_ms": 246545,
-      "name": "Not Today Satan",
-      "url": "https://open.spotify.com/track/1oKdabnq8pKhjM79yUNN93"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Glory Alone II",
         "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 170761,
       "name": "Who the Son Sets Free",
       "url": "https://open.spotify.com/track/661kkGDN5jp6J7iy5XEGgf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Today We Rebel",
+        "url": "https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "duration_ms": 246545,
+      "name": "Not Today Satan",
+      "url": "https://open.spotify.com/track/1oKdabnq8pKhjM79yUNN93"
     },
     {
       "added_at": null,
@@ -875,6 +875,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Good Life",
+        "url": "https://open.spotify.com/album/4isPEpuar7DBekswZNoawh"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "duration_ms": 246346,
+      "name": "One Sixteen",
+      "url": "https://open.spotify.com/track/0PxHrnV45CQascq6nWBnLT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hills and Valleys (Deluxe Edition)",
         "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
       },
@@ -911,8 +935,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Good Life",
-        "url": "https://open.spotify.com/album/4isPEpuar7DBekswZNoawh"
+        "name": "The End.",
+        "url": "https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr"
       },
       "artists": [
         {
@@ -922,15 +946,11 @@
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
         }
       ],
-      "duration_ms": 246346,
-      "name": "One Sixteen",
-      "url": "https://open.spotify.com/track/0PxHrnV45CQascq6nWBnLT"
+      "duration_ms": 216586,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/5XBGxROlpdJYueRfu9C4hO"
     },
     {
       "added_at": null,
@@ -951,26 +971,6 @@
       "duration_ms": 173575,
       "name": "Start Right Here (HGA Version)",
       "url": "https://open.spotify.com/track/6iLtLgh5wyYIN4OVgxiSAV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The End.",
-        "url": "https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr"
-      },
-      "artists": [
-        {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 216586,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/5XBGxROlpdJYueRfu9C4hO"
     },
     {
       "added_at": null,

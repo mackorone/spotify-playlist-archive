@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 924195,
+  "num_followers": 924026,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-09-26 04:00:10",
       "album": {
-        "name": "Nightbird",
-        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Nightbird",
-      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
-    },
-    {
-      "added_at": "2025-09-26 04:00:10",
-      "album": {
         "name": "The Don",
         "url": "https://open.spotify.com/album/0qGQYh3hi5EiIXaobMB3yV"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 166237,
       "name": "The Don",
       "url": "https://open.spotify.com/track/6amFTa4qtw7wHiSKNZsBUw"
+    },
+    {
+      "added_at": "2025-09-26 04:00:10",
+      "album": {
+        "name": "Nightbird",
+        "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "Nightbird",
+      "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
     },
     {
       "added_at": "2025-09-26 04:00:10",
@@ -979,26 +979,6 @@
     {
       "added_at": "2025-09-26 04:00:10",
       "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/7zjQAeiHLJJ8OB7MftaFjz"
-      },
-      "artists": [
-        {
-          "name": "Dirty Palm",
-          "url": "https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0"
-        },
-        {
-          "name": "KDH",
-          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
-        }
-      ],
-      "duration_ms": 162187,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/097XuYiqI3sS1SlTlncfmU"
-    },
-    {
-      "added_at": "2025-09-26 04:00:10",
-      "album": {
         "name": "Feeling Good",
         "url": "https://open.spotify.com/album/0hlko6kYwEuUbQAmzsyDdL"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 164761,
       "name": "Beast Mode (Knock You Out)",
       "url": "https://open.spotify.com/track/460FLlsVLaDLzPTclcuOl4"
+    },
+    {
+      "added_at": "2025-09-26 04:00:10",
+      "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/7zjQAeiHLJJ8OB7MftaFjz"
+      },
+      "artists": [
+        {
+          "name": "Dirty Palm",
+          "url": "https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0"
+        },
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        }
+      ],
+      "duration_ms": 162187,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/097XuYiqI3sS1SlTlncfmU"
     },
     {
       "added_at": "2025-09-26 04:00:10",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2025-09-26 04:00:10",
       "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/2xQP7FhsF1Qpstvb7wdVRH"
-      },
-      "artists": [
-        {
-          "name": "Plastik Funk",
-          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
-        },
-        {
-          "name": "Kris Kiss",
-          "url": "https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg"
-        }
-      ],
-      "duration_ms": 150875,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/2JIWCJrgxmmM8coyFZZriG"
-    },
-    {
-      "added_at": "2025-09-26 04:00:10",
-      "album": {
         "name": "I'm a Man",
         "url": "https://open.spotify.com/album/3N9SCz8ypCUZ9KL07wv6EQ"
       },
@@ -1603,6 +1583,46 @@
       "duration_ms": 167076,
       "name": "I'm a Man",
       "url": "https://open.spotify.com/track/3zzzMsXOCCkPAFr2zbmKzY"
+    },
+    {
+      "added_at": "2025-09-26 04:00:10",
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/2xQP7FhsF1Qpstvb7wdVRH"
+      },
+      "artists": [
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        },
+        {
+          "name": "Kris Kiss",
+          "url": "https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg"
+        }
+      ],
+      "duration_ms": 150875,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/2JIWCJrgxmmM8coyFZZriG"
+    },
+    {
+      "added_at": "2025-09-26 04:00:10",
+      "album": {
+        "name": "Night Shift",
+        "url": "https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        },
+        {
+          "name": "MASTERIA",
+          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
+        }
+      ],
+      "duration_ms": 230625,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO"
     },
     {
       "added_at": "2025-09-26 04:00:10",
@@ -1639,26 +1659,6 @@
       "duration_ms": 148571,
       "name": "Still Cutting Shapes",
       "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
-    },
-    {
-      "added_at": "2025-09-26 04:00:10",
-      "album": {
-        "name": "Night Shift",
-        "url": "https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        },
-        {
-          "name": "MASTERIA",
-          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
-        }
-      ],
-      "duration_ms": 230625,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO"
     },
     {
       "added_at": "2025-09-26 04:00:10",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2025-09-26 04:00:10",
       "album": {
-        "name": "Smash The Disco",
-        "url": "https://open.spotify.com/album/2EYCno5OfWCya6X0zXX5SN"
-      },
-      "artists": [
-        {
-          "name": "REBRN",
-          "url": "https://open.spotify.com/artist/3GHKSLV8K79xY8Z6TASqqz"
-        },
-        {
-          "name": "Oliver Marshak",
-          "url": "https://open.spotify.com/artist/6lUFleltrcWzLWSkRnt3zB"
-        }
-      ],
-      "duration_ms": 181875,
-      "name": "Smash The Disco",
-      "url": "https://open.spotify.com/track/2dkF1yfMyvfaRMhIpA9iLA"
-    },
-    {
-      "added_at": "2025-09-26 04:00:10",
-      "album": {
         "name": "Afterparty",
         "url": "https://open.spotify.com/album/3EzveG4GtcBRVCdsIYmZgp"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 160849,
       "name": "Afterparty",
       "url": "https://open.spotify.com/track/1P8mmV6llhUuj8sz3By1q1"
+    },
+    {
+      "added_at": "2025-09-26 04:00:10",
+      "album": {
+        "name": "Smash The Disco",
+        "url": "https://open.spotify.com/album/2EYCno5OfWCya6X0zXX5SN"
+      },
+      "artists": [
+        {
+          "name": "REBRN",
+          "url": "https://open.spotify.com/artist/3GHKSLV8K79xY8Z6TASqqz"
+        },
+        {
+          "name": "Oliver Marshak",
+          "url": "https://open.spotify.com/artist/6lUFleltrcWzLWSkRnt3zB"
+        }
+      ],
+      "duration_ms": 181875,
+      "name": "Smash The Disco",
+      "url": "https://open.spotify.com/track/2dkF1yfMyvfaRMhIpA9iLA"
     },
     {
       "added_at": "2025-09-26 04:00:10",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2025-09-26 04:00:10",
       "album": {
-        "name": "C.R.E.A.M.",
-        "url": "https://open.spotify.com/album/7pOk3ct870S4hLB547f7VJ"
-      },
-      "artists": [
-        {
-          "name": "Lukas Vane",
-          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
-        }
-      ],
-      "duration_ms": 149562,
-      "name": "C.R.E.A.M.",
-      "url": "https://open.spotify.com/track/3sPnvTRfLlviMwOGbvjIug"
-    },
-    {
-      "added_at": "2025-09-26 04:00:10",
-      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/2gZzx7A5qnSbcO7OmTPAja"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 166954,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4ij2abVupX0NTWG5TuKe02"
+    },
+    {
+      "added_at": "2025-09-26 04:00:10",
+      "album": {
+        "name": "C.R.E.A.M.",
+        "url": "https://open.spotify.com/album/7pOk3ct870S4hLB547f7VJ"
+      },
+      "artists": [
+        {
+          "name": "Lukas Vane",
+          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
+        }
+      ],
+      "duration_ms": 149562,
+      "name": "C.R.E.A.M.",
+      "url": "https://open.spotify.com/track/3sPnvTRfLlviMwOGbvjIug"
     },
     {
       "added_at": "2025-09-26 04:00:10",

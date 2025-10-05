@@ -372,7 +372,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 499328,
       "name": "Alfie",
       "url": "https://open.spotify.com/track/6WiOLR12myN6odhdOcwC9P"
@@ -2723,6 +2723,24 @@
     },
     {
       "album": {
+        "name": "Elsa (Remastered Stereo 2025 / Take 6)",
+        "url": "https://open.spotify.com/album/7iwCtY3X9rbTadkcq3N6Ti"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291777,
+      "name": "Elsa - Remastered Stereo 2025 / Take 6",
+      "url": "https://open.spotify.com/track/6qWNiJfLYvmk5VLJw8vDie"
+    },
+    {
+      "album": {
         "name": "Squint",
         "url": "https://open.spotify.com/album/4eomOt6YKFtZhFPyoSwrSC"
       },
@@ -3194,6 +3212,24 @@
       "duration_ms": 466568,
       "name": "For Heavens Sake - Remastered",
       "url": "https://open.spotify.com/track/142HC0KR9g0jmmGtwJJAKv"
+    },
+    {
+      "album": {
+        "name": "For Mar\u00eda Jos\u00e9",
+        "url": "https://open.spotify.com/album/0K10SUnHnwWjpmBBbzeDwU"
+      },
+      "artists": [
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294504,
+      "name": "For Mar\u00eda Jos\u00e9",
+      "url": "https://open.spotify.com/track/4zZ48K58R61teDDRJsPTPb"
     },
     {
       "album": {
@@ -7564,7 +7600,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 335866,
       "name": "Reflections in D",
       "url": "https://open.spotify.com/track/5pyFDbYIDiRBsFK3F59iju"

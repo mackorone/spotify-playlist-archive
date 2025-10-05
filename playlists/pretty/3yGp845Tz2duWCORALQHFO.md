@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,141 likes - 54 songs - 3 hr 5 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,143 likes - 54 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 28 | [Kiss the Ring](https://open.spotify.com/track/4brmAnLhFQVFeGXz3CYyC2) | [Ferry Tayle](https://open.spotify.com/artist/6duWCqMhaEvKA0P0MVs0zQ), [Tonks](https://open.spotify.com/artist/29uLSGwUNqBFGS02mLVDJL), [Mirage](https://open.spotify.com/artist/5uOKNdDGSzc6aGyRPKq0pf) | [Kiss the Ring](https://open.spotify.com/album/1t7sAro05RC2IQ22aSenJm) | 4:31 |
 | 29 | [The Way We Were](https://open.spotify.com/track/5mYoy1oGqrX9LRVajIXS6k) | [RODA](https://open.spotify.com/artist/39PpUkKS1ul0OKtz72q0qE), [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM), [HLB](https://open.spotify.com/artist/7hdtZ25XhjprCGmz5t6AR1) | [The Way We Were](https://open.spotify.com/album/1BcgI8dzs5Ydjr1KgSFwNu) | 2:58 |
 | 30 | [Mondrago \- Short Mix](https://open.spotify.com/track/06TfUYzthfQadvmhIKpyuo) | [Super\-Frog Saves Tokyo](https://open.spotify.com/artist/53eRwFJ92aFBw8xEdPfgOl) | [Mondrago](https://open.spotify.com/album/6jtSkSo9kqRExGPu60NJ33) | 3:57 |
-| 31 | [Ignite](https://open.spotify.com/track/0cfo91GmOWI93JUPyImA5K) | [Qbacki](https://open.spotify.com/artist/47DeH4q7lS6R0lxjXhOjBs) | [Ignite](https://open.spotify.com/album/3IFys5aLyKnsnKb8UlR6A1) | 3:15 |
+| 31 | [Ignite](https://open.spotify.com/track/0cfo91GmOWI93JUPyImA5K) | [Qbacki](https://open.spotify.com/artist/3MDdzYztDiT7hMcba4PCvo) | [Ignite](https://open.spotify.com/album/3IFys5aLyKnsnKb8UlR6A1) | 3:15 |
 | 32 | [Right Direction](https://open.spotify.com/track/1uy25BFg5L4tRxJt4Jqf6Y) | [Claus Backslash](https://open.spotify.com/artist/5ReRJ7haxeFeSr9BRzJ3T4) | [Right Direction](https://open.spotify.com/album/4O4O3Fcf8B3iI9zCkV8X9c) | 4:03 |
 | 33 | [Into The Rain](https://open.spotify.com/track/3ZY94cXN6Gg9JprnG9KvLI) | [Cold Blue](https://open.spotify.com/artist/3mbjJqO86kx786znlhmTrF) | [Into The Rain](https://open.spotify.com/album/39Q5cdWGNhPG5TpMLR9kjs) | 4:48 |
 | 34 | [Fuego](https://open.spotify.com/track/50G9IOZlYuvtcdalWgl7se) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Fuego](https://open.spotify.com/album/5u0WXhYW2AmaCLe0f6VpOs) | 2:47 |

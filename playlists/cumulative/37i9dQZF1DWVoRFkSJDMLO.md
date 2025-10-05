@@ -4,7 +4,7 @@
 
 > From the continent to the islands with Fireboy DML\. 🇳🇬
 
-1,457 songs - 3 day 0 hr 22 min
+1,458 songs - 3 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1206,6 +1206,7 @@
 | [Story Book](https://open.spotify.com/track/1LBeNAJO3YmNxmJD8TIDCI) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Story Book](https://open.spotify.com/album/2U02tg1NEMND2KBjTqLYhl) | 2:13 | 2025-07-04 | 2025-09-06 |
 | [Str8 Vybz](https://open.spotify.com/track/2IkaY20NsArTchrbGCmc6g) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Str8 Vybz](https://open.spotify.com/album/0KoWIs2inu6HLYuwGshLsq) | 2:18 | 2025-01-10 | 2025-02-22 |
 | [Straight To The Moon](https://open.spotify.com/track/7KAUmjBuc9AnuJoC7dRhjY) | [Lex Junior](https://open.spotify.com/artist/3dvvkiXIRyaeLve9BMHdo9), [Jayd Ink](https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac) | [Straight To The Moon](https://open.spotify.com/album/2qcCljNxGNFrifXcTZt3P6) | 2:53 | 2023-03-03 | 2023-04-29 |
+| [Strangers & Lovers](https://open.spotify.com/track/32qStoL8bgahluG1ZbS9EY) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Strangers & Lovers](https://open.spotify.com/album/4QXtyWpTA78jhxVq1WbigA) | 3:06 | 2025-10-04 |  |
 | [Strings Attached](https://open.spotify.com/track/4S4yOnEhs3CchPNlqTrI8s) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y) | [Lost Files](https://open.spotify.com/album/3TMfWqrSPfKFXUgGJyL09Z) | 3:13 | 2023-03-10 | 2023-05-13 |
 | [Stubborn \(with Asake\)](https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Stubborn \(with Asake\)](https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b) | 2:56 | 2024-05-10 | 2024-06-26 |
 | [Stutter](https://open.spotify.com/track/0zLQMGb0xjC6q4ugJhRdXc) | [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4), [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq) | [Stutter](https://open.spotify.com/album/6VjGsKlcGuJEgL9quD4fke) | 2:07 | 2023-08-04 | 2023-10-07 |

@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Thelma & James
 
-867 songs - 2 day 5 hr 26 min
+868 songs - 2 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Call Me \(Whatever You Like\)](https://open.spotify.com/track/4TY6NaYVnusU8E4W2gfIQu) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [South of Here](https://open.spotify.com/album/1LOWCHNR8jAauJd35jafkN) | 3:00 | 2024-11-15 | 2025-07-26 |
 | [Can't Stop The Rain](https://open.spotify.com/track/0VIR6RuxQMvGICgS3GgLnM) | [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Can't Stop The Rain](https://open.spotify.com/album/1iCgCacKIkBclHhWdAiLh1) | 4:06 | 2021-12-17 | 2022-02-23 |
 | [Canola Fields](https://open.spotify.com/track/6qgbLRTPfUVyWMPHYgyHS6) | [James McMurtry](https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH) | [The Horses and the Hounds](https://open.spotify.com/album/6p7vIZAHU72G5C0F3quQaF) | 4:49 | 2021-12-17 | 2022-11-19 |
+| [Canyon Walls](https://open.spotify.com/track/3MMnyvIcSvXeUPEe368nnr) | [Breakfield](https://open.spotify.com/artist/631Dp31oMOJmgq8CY50MIl) | [Canyon Walls](https://open.spotify.com/album/3wLObguvsoktYj9RLrOba6) | 3:04 | 2025-10-03 |  |
 | [Can’t Let Go](https://open.spotify.com/track/5JktApbmtMr5cCbOoENhrK) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Can’t Let Go](https://open.spotify.com/album/5cCTUwnFwgHlb0ZmMqxmbd) | 3:41 | 2021-12-17 | 2022-04-02 |
 | [Cardinal](https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 | 2024-05-17 | 2025-09-21 |
 | [Carolina \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Carolina \(From The Motion Picture “Where The Crawdads Sing”\)](https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf) | 4:24 | 2022-06-24 | 2023-05-20 |

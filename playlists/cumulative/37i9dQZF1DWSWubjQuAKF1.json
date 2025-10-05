@@ -1127,6 +1127,28 @@
     },
     {
       "album": {
+        "name": "Boisz si\u0119",
+        "url": "https://open.spotify.com/album/5O7WpfdyHWZiqzIVclkOwX"
+      },
+      "artists": [
+        {
+          "name": "Sad Smiles",
+          "url": "https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo"
+        },
+        {
+          "name": "Arek K\u0142usowski",
+          "url": "https://open.spotify.com/artist/34wHojIYy5Nrua9isD46O6"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181052,
+      "name": "Boisz si\u0119",
+      "url": "https://open.spotify.com/track/5OPDVu8yGItlFz8BsVQkF4"
+    },
+    {
+      "album": {
         "name": "BOOM",
         "url": "https://open.spotify.com/album/43o9D8UKbPHhcpLDBDTsZJ"
       },
@@ -2784,7 +2806,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 263500,
       "name": "ernest",
       "url": "https://open.spotify.com/track/4N283rSr7iWXEzdUJE2VRI"

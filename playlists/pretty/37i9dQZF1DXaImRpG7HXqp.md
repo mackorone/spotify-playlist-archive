@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 
 > Keep calm with instrumental acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 948,482 likes - 186 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 948,622 likes - 186 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,7 +130,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 120 | [Carroll Gardens](https://open.spotify.com/track/3dgAbsq1H5NqLJscYPxurR) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Carroll Gardens](https://open.spotify.com/album/6UTtrPhsCgjxjG24Zfn6jq) | 2:44 |
 | 121 | [A Telegraph Smile](https://open.spotify.com/track/3xPDUGGusnXo4BzYOuuuVZ) | [Glen Beasley](https://open.spotify.com/artist/1tE58bEflq4eNizffO3Au1) | [A Telegraph Smile](https://open.spotify.com/album/5EPw5sn3QLPMLSUYgFPqg8) | 2:45 |
 | 122 | [Le Marais](https://open.spotify.com/track/6iPpvVIvrSbH8zaEtQSDCn) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Le Marais](https://open.spotify.com/album/3GzC9R053ap38En4eZI3v6) | 2:20 |
-| 123 | [Doors](https://open.spotify.com/track/0p8hGanIeSRCOcDZ1nayUb) | [Marian Rose](https://open.spotify.com/artist/6zh9U3XKNFN5Drifqx5DtG) | [Doors](https://open.spotify.com/album/25383NCmsUte9zszpeKzr2) | 2:31 |
+| 123 | [Doors](https://open.spotify.com/track/0p8hGanIeSRCOcDZ1nayUb) | [M\. Rose](https://open.spotify.com/artist/6mDntABgyJFtNZ3IkqCJIn) | [Doors](https://open.spotify.com/album/25383NCmsUte9zszpeKzr2) | 2:31 |
 | 124 | [Steps ahead](https://open.spotify.com/track/38HxNjQa0seDx02w8fEhLM) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Steps ahead](https://open.spotify.com/album/0XJK0qLoz7yt1v6CskH7E0) | 2:49 |
 | 125 | [With Languor](https://open.spotify.com/track/7wcUEnW420sjGIpD5XZTvK) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Within](https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax) | 3:19 |
 | 126 | [Siena Dreamin'](https://open.spotify.com/track/3upEQlKz2eX8kjfhtOlGWc) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Siena Dreamin'](https://open.spotify.com/album/22Ru9VDOPhOkxGFYWdR6au) | 4:09 |
@@ -169,7 +169,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 159 | [Helix](https://open.spotify.com/track/1gzalRgd6177ItWli3V6fI) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Helix](https://open.spotify.com/album/36IKErRzj6twXIiIPDh4TN) | 2:12 |
 | 160 | [Always With You](https://open.spotify.com/track/5ItGFvCvkLI4wm2dXycCCs) | [Maitre](https://open.spotify.com/artist/4lz66um9dJ0YB7ugJHeoZe) | [Always With You](https://open.spotify.com/album/5T3Ix0PNlLeAhemjXwjBH9) | 2:27 |
 | 161 | [Calma](https://open.spotify.com/track/4qWbRktWWHXHGJb1uhWq8m) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Calma](https://open.spotify.com/album/5US6Ejo1xkfRpR3YSnKEQr) | 2:01 |
-| 162 | [Simple Reverie](https://open.spotify.com/track/51cpn2Y6niqb3LnucJXkwH) | [Marian Rose](https://open.spotify.com/artist/6zh9U3XKNFN5Drifqx5DtG) | [Simple Reverie](https://open.spotify.com/album/3BmX4s69077iF5bueVbl7n) | 3:07 |
+| 162 | [Simple Reverie](https://open.spotify.com/track/51cpn2Y6niqb3LnucJXkwH) | [M\. Rose](https://open.spotify.com/artist/6mDntABgyJFtNZ3IkqCJIn) | [Simple Reverie](https://open.spotify.com/album/3BmX4s69077iF5bueVbl7n) | 3:07 |
 | 163 | [Supernova](https://open.spotify.com/track/3fdOkah1IiOii4fpHg5b0C) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Supernova](https://open.spotify.com/album/2K0EhxeFypyV9DWdbDYBiW) | 2:34 |
 | 164 | [Driving Alongside](https://open.spotify.com/track/3OAPa9BnaZoHYbDvaa952w) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Driving Alongside](https://open.spotify.com/album/5i4GPhiFsiEmNxgrFITm5D) | 2:29 |
 | 165 | [Deliver These Words Of Mine](https://open.spotify.com/track/6BZGoIkSNK1XO87ZjGjHM2) | [Maximilian Aird](https://open.spotify.com/artist/2YEYZMKfhaoln2CS8q7Kg0) | [Deliver These Words Of Mine](https://open.spotify.com/album/2ejwvZzkzX6nc9UG2su9As) | 3:08 |

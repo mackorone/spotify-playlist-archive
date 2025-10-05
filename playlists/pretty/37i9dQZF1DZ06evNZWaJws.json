@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 339059,
+  "num_followers": 339139,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAABi8SuSC+fKLQf/HJyiDc7Y",
+  "snapshot_id": "aN8SAAAAAACMXDoyR8EH7PtgGdDa/hTM",
   "tracks": [
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Mas Buscados",
+        "url": "https://open.spotify.com/album/64dZEFpVrF6TkL6G5nmYWh"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 206280,
+      "name": "El Heredero",
+      "url": "https://open.spotify.com/track/59YF0TRYWRyS4O3taW5Wuc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
         "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 222653,
       "name": "Secuestro De Amor (En Vivo)",
       "url": "https://open.spotify.com/track/1oIgvLYxxowV3Lh4UljRGC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Mas Buscados",
-        "url": "https://open.spotify.com/album/64dZEFpVrF6TkL6G5nmYWh"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 206280,
-      "name": "El Heredero",
-      "url": "https://open.spotify.com/track/59YF0TRYWRyS4O3taW5Wuc"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Primera Plana",
-        "url": "https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 173386,
-      "name": "El Pesado",
-      "url": "https://open.spotify.com/track/1INJtwan6KATEWHapjTtHZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mundo De Amor",
         "url": "https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 180040,
       "name": "Los Dichos De Lupita",
       "url": "https://open.spotify.com/track/7s93NvOSPkWAyHNHPpG7ug"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Primera Plana",
+        "url": "https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 173386,
+      "name": "El Pesado",
+      "url": "https://open.spotify.com/track/1INJtwan6KATEWHapjTtHZ"
     }
   ],
   "unique_name": "This Is Los Tucanes De Tijuana",

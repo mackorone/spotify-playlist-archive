@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 
 > Italian funk, disco and jazz, recent and old\. Hand\-picked by actual Italians\. 🌙
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,286 likes - 79 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,290 likes - 79 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

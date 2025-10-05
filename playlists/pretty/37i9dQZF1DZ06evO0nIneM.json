@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 92067,
+  "num_followers": 92085,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAABwJYmLXMlXNfSy2XJVJfJl",
+  "snapshot_id": "aN8SAAAAAABffUOQfyX5H6za8FYV9CR7",
   "tracks": [
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bitterzoet",
-        "url": "https://open.spotify.com/album/2EbPeDwO72ys18Q6PD2hoB"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 227840,
-      "name": "Bitterzoet",
-      "url": "https://open.spotify.com/track/21Kz5NrURIthNXPwgO9AaM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Omarm",
         "url": "https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 244960,
       "name": "Misschien Niet De Eeuwigheid",
       "url": "https://open.spotify.com/track/2yKrrSrt9PTVqDcBCedsoD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bitterzoet",
+        "url": "https://open.spotify.com/album/2EbPeDwO72ys18Q6PD2hoB"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 227840,
+      "name": "Bitterzoet",
+      "url": "https://open.spotify.com/track/21Kz5NrURIthNXPwgO9AaM"
     },
     {
       "added_at": null,
@@ -691,38 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Omarm",
-        "url": "https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 434680,
-      "name": "De Mooiste Verliezers",
-      "url": "https://open.spotify.com/track/3fLDw6PS213U606WPG0qn8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "April",
-        "url": "https://open.spotify.com/album/0UqJJtE2gbrSpmEJEn6ete"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 205080,
-      "name": "Vandaag",
-      "url": "https://open.spotify.com/track/5wHiVi4aj4J0fO8c4xB99G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We doen wat we kunnen (feat. Geike)",
         "url": "https://open.spotify.com/album/6OFRhULTO9UJf1yk7v9XfZ"
       },
@@ -743,22 +711,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live op Concert at SEA 2015",
-        "url": "https://open.spotify.com/album/1E2BoVBA043DwqPEdSWNsI"
+        "name": "April",
+        "url": "https://open.spotify.com/album/0UqJJtE2gbrSpmEJEn6ete"
       },
       "artists": [
         {
           "name": "BL\u00d8F",
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        },
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
         }
       ],
-      "duration_ms": 282866,
-      "name": "Holiday In Spain (feat. Counting Crows) - Live op Concert at SEA 2015",
-      "url": "https://open.spotify.com/track/1f3GoYVrEBNdrfNuxGpwQr"
+      "duration_ms": 205080,
+      "name": "Vandaag",
+      "url": "https://open.spotify.com/track/5wHiVi4aj4J0fO8c4xB99G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Omarm",
+        "url": "https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 434680,
+      "name": "De Mooiste Verliezers",
+      "url": "https://open.spotify.com/track/3fLDw6PS213U606WPG0qn8"
     },
     {
       "added_at": null,
@@ -775,6 +755,26 @@
       "duration_ms": 232840,
       "name": "Monsters Slapen Nooit",
       "url": "https://open.spotify.com/track/6baKoyKHbiSRapbEixvE8M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live op Concert at SEA 2015",
+        "url": "https://open.spotify.com/album/1E2BoVBA043DwqPEdSWNsI"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        },
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 282866,
+      "name": "Holiday In Spain (feat. Counting Crows) - Live op Concert at SEA 2015",
+      "url": "https://open.spotify.com/track/1f3GoYVrEBNdrfNuxGpwQr"
     },
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Umoja",
+        "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 311986,
+      "name": "Een Manier Om Thuis Te Komen",
+      "url": "https://open.spotify.com/track/1FECUzfklLYzvIZhoiiwQG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live op Concert at SEA 2015",
         "url": "https://open.spotify.com/album/1E2BoVBA043DwqPEdSWNsI"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 392389,
       "name": "There is A Light That Never Goes Out / Er Is Een Licht Dat Nooit Uit Zal Gaan (feat. Counting Crows) - Live op Concert at SEA 2015",
       "url": "https://open.spotify.com/track/3cadYJplGpDjraN9cztMwn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Umoja",
-        "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 311986,
-      "name": "Een Manier Om Thuis Te Komen",
-      "url": "https://open.spotify.com/track/1FECUzfklLYzvIZhoiiwQG"
     },
     {
       "added_at": null,

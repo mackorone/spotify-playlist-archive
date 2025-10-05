@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: 1111",
-  "num_followers": 97289,
+  "num_followers": 97499,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2025-10-02 23:00:28",
       "album": {
+        "name": "HITZ 4 THE HOOD",
+        "url": "https://open.spotify.com/album/20LXTzhxUDcAfAw8zRsL1R"
+      },
+      "artists": [
+        {
+          "name": "Charlie Shell",
+          "url": "https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk"
+        }
+      ],
+      "duration_ms": 141776,
+      "name": "HITZ 4 THE HOOD",
+      "url": "https://open.spotify.com/track/2hrChmfPMrA0751rZnWwTj"
+    },
+    {
+      "added_at": "2025-10-02 23:00:28",
+      "album": {
         "name": "LOOK4MYLOVE",
         "url": "https://open.spotify.com/album/3aEwbI3IgFsljshX9Gk9ZD"
       },
@@ -615,18 +631,18 @@
     {
       "added_at": "2025-10-02 23:00:28",
       "album": {
-        "name": "HITZ 4 THE HOOD",
-        "url": "https://open.spotify.com/album/20LXTzhxUDcAfAw8zRsL1R"
+        "name": "Raw",
+        "url": "https://open.spotify.com/album/2CJ61dRA06lmlIw8hVvmak"
       },
       "artists": [
         {
-          "name": "Charlie Shell",
-          "url": "https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk"
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
         }
       ],
-      "duration_ms": 141776,
-      "name": "HITZ 4 THE HOOD",
-      "url": "https://open.spotify.com/track/2hrChmfPMrA0751rZnWwTj"
+      "duration_ms": 192121,
+      "name": "Raw",
+      "url": "https://open.spotify.com/track/2U9RtZORzcu54vkWI19PIL"
     },
     {
       "added_at": "2025-10-02 23:00:28",
@@ -647,22 +663,6 @@
       "duration_ms": 218666,
       "name": "over you",
       "url": "https://open.spotify.com/track/4oDxs30sUOndog6GHHhOMe"
-    },
-    {
-      "added_at": "2025-10-02 23:00:28",
-      "album": {
-        "name": "Raw",
-        "url": "https://open.spotify.com/album/2CJ61dRA06lmlIw8hVvmak"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 192121,
-      "name": "Raw",
-      "url": "https://open.spotify.com/track/2U9RtZORzcu54vkWI19PIL"
     },
     {
       "added_at": "2025-10-02 23:00:28",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-10-02 23:00:28",
       "album": {
-        "name": "six missed calls",
-        "url": "https://open.spotify.com/album/1gWdOqu1lh6XB8o99mNB8r"
-      },
-      "artists": [
-        {
-          "name": "KiLLOWEN",
-          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
-        }
-      ],
-      "duration_ms": 137090,
-      "name": "pick your poison",
-      "url": "https://open.spotify.com/track/6OaYA5Xn6xVwcLyYEE2Ard"
-    },
-    {
-      "added_at": "2025-10-02 23:00:28",
-      "album": {
         "name": "GETAWAY",
         "url": "https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 253043,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/6pCrx0kmrXsXlMfKK9KksT"
+    },
+    {
+      "added_at": "2025-10-02 23:00:28",
+      "album": {
+        "name": "six missed calls",
+        "url": "https://open.spotify.com/album/1gWdOqu1lh6XB8o99mNB8r"
+      },
+      "artists": [
+        {
+          "name": "KiLLOWEN",
+          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
+        }
+      ],
+      "duration_ms": 137090,
+      "name": "pick your poison",
+      "url": "https://open.spotify.com/track/6OaYA5Xn6xVwcLyYEE2Ard"
     },
     {
       "added_at": "2025-10-02 23:00:28",
@@ -811,26 +811,6 @@
     {
       "added_at": "2025-10-02 23:00:28",
       "album": {
-        "name": "i couldn't hold back (feat. George Riley)",
-        "url": "https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "George Riley",
-          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
-        }
-      ],
-      "duration_ms": 170316,
-      "name": "i couldn't hold back (feat. George Riley)",
-      "url": "https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy"
-    },
-    {
-      "added_at": "2025-10-02 23:00:28",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/6OguGlQ0qqeNAOaggF4zDT"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 206222,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1RHsONwpXcquKICISbiJxB"
+    },
+    {
+      "added_at": "2025-10-02 23:00:28",
+      "album": {
+        "name": "i couldn't hold back (feat. George Riley)",
+        "url": "https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        }
+      ],
+      "duration_ms": 170316,
+      "name": "i couldn't hold back (feat. George Riley)",
+      "url": "https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy"
     },
     {
       "added_at": "2025-10-02 23:00:28",
@@ -951,6 +951,22 @@
     {
       "added_at": "2025-10-02 23:00:28",
       "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/4DZW1POsJE6ge80HXUfsfs"
+      },
+      "artists": [
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 236225,
+      "name": "True",
+      "url": "https://open.spotify.com/track/21SUW6VqiPSwSumXMPYQtz"
+    },
+    {
+      "added_at": "2025-10-02 23:00:28",
+      "album": {
         "name": "Passport",
         "url": "https://open.spotify.com/album/6KAJubTn2kF6YPQYNaPg3T"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 162923,
       "name": "Passport",
       "url": "https://open.spotify.com/track/3VJYY6eFLhRyxrCloEW9Ch"
-    },
-    {
-      "added_at": "2025-10-02 23:00:28",
-      "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/4DZW1POsJE6ge80HXUfsfs"
-      },
-      "artists": [
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 236225,
-      "name": "True",
-      "url": "https://open.spotify.com/track/21SUW6VqiPSwSumXMPYQtz"
     },
     {
       "added_at": "2025-10-02 23:00:28",
@@ -1143,22 +1143,18 @@
     {
       "added_at": "2025-10-02 23:00:28",
       "album": {
-        "name": "Hot In The Party",
-        "url": "https://open.spotify.com/album/5d4VFFHF06KIbDfcRufGTM"
+        "name": "IF I CAN'T BE YOURS",
+        "url": "https://open.spotify.com/album/31p4g4SiFB9oAkAUYsPOHB"
       },
       "artists": [
         {
-          "name": "Osmosis Jones",
-          "url": "https://open.spotify.com/artist/39vtMUnZETGKSh6MFRSJ7n"
-        },
-        {
-          "name": "KAISUI",
-          "url": "https://open.spotify.com/artist/3nw02QhDsR9kPXfPlptEbs"
+          "name": "bullet tooth",
+          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
         }
       ],
-      "duration_ms": 215744,
-      "name": "Hot In The Party",
-      "url": "https://open.spotify.com/track/0MVBT2XUKmRJmvOX8GngyJ"
+      "duration_ms": 215303,
+      "name": "IF I CAN'T BE YOURS",
+      "url": "https://open.spotify.com/track/1CURVg07JNoRfEBylXcVnG"
     },
     {
       "added_at": "2025-10-02 23:00:28",
@@ -1183,18 +1179,22 @@
     {
       "added_at": "2025-10-02 23:00:28",
       "album": {
-        "name": "IF I CAN'T BE YOURS",
-        "url": "https://open.spotify.com/album/31p4g4SiFB9oAkAUYsPOHB"
+        "name": "Hot In The Party",
+        "url": "https://open.spotify.com/album/5d4VFFHF06KIbDfcRufGTM"
       },
       "artists": [
         {
-          "name": "bullet tooth",
-          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
+          "name": "Osmosis Jones",
+          "url": "https://open.spotify.com/artist/39vtMUnZETGKSh6MFRSJ7n"
+        },
+        {
+          "name": "KAISUI",
+          "url": "https://open.spotify.com/artist/3nw02QhDsR9kPXfPlptEbs"
         }
       ],
-      "duration_ms": 215303,
-      "name": "IF I CAN'T BE YOURS",
-      "url": "https://open.spotify.com/track/1CURVg07JNoRfEBylXcVnG"
+      "duration_ms": 215744,
+      "name": "Hot In The Party",
+      "url": "https://open.spotify.com/track/0MVBT2XUKmRJmvOX8GngyJ"
     },
     {
       "added_at": "2025-10-02 23:00:28",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2025-10-02 23:00:28",
       "album": {
-        "name": "Straight From The Underground",
-        "url": "https://open.spotify.com/album/6Cx0pmwZLVvxawm1st4AuX"
+        "name": "2 Spirits",
+        "url": "https://open.spotify.com/album/4Cz8KBru4BGKeTlPJtmIVi"
       },
       "artists": [
         {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+          "name": "Love,Shaun",
+          "url": "https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu"
         }
       ],
-      "duration_ms": 193022,
-      "name": "Straight From The Underground",
-      "url": "https://open.spotify.com/track/2zNOr9xeXhb1Wverupu0uP"
+      "duration_ms": 147580,
+      "name": "2 Spirits",
+      "url": "https://open.spotify.com/track/21fDO61ssrijFjOXqrBw2n"
     },
     {
       "added_at": "2025-10-02 23:00:28",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2025-10-02 23:00:28",
       "album": {
-        "name": "2 Spirits",
-        "url": "https://open.spotify.com/album/4Cz8KBru4BGKeTlPJtmIVi"
+        "name": "Straight From The Underground",
+        "url": "https://open.spotify.com/album/6Cx0pmwZLVvxawm1st4AuX"
       },
       "artists": [
         {
-          "name": "Love,Shaun",
-          "url": "https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu"
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
         }
       ],
-      "duration_ms": 147580,
-      "name": "2 Spirits",
-      "url": "https://open.spotify.com/track/21fDO61ssrijFjOXqrBw2n"
+      "duration_ms": 193022,
+      "name": "Straight From The Underground",
+      "url": "https://open.spotify.com/track/2zNOr9xeXhb1Wverupu0uP"
     }
   ],
   "unique_name": "New UK Garage",

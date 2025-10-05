@@ -1,6 +1,6 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 90428,
+  "num_followers": 90435,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "VYZEE",
+        "url": "https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 202531,
+      "name": "VYZEE",
+      "url": "https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "think abt it",
         "url": "https://open.spotify.com/album/70s3pT3CMwRrOw2DmEbx5V"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 144332,
       "name": "think abt it",
       "url": "https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "VYZEE",
-        "url": "https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 202531,
-      "name": "VYZEE",
-      "url": "https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -991,6 +991,26 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "clueless",
+        "url": "https://open.spotify.com/album/6gtMMyI4wfLnfEDvtYNQpg"
+      },
+      "artists": [
+        {
+          "name": "kuru",
+          "url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
+        },
+        {
+          "name": "kurtains",
+          "url": "https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP"
+        }
+      ],
+      "duration_ms": 127634,
+      "name": "clueless",
+      "url": "https://open.spotify.com/track/2PlrJupGTWvgVlGXSK95Me"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "None",
         "url": "https://open.spotify.com/album/0FuahJaNlb2xX87G54NSLj"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 263364,
       "name": "Thos Moser",
       "url": "https://open.spotify.com/track/6pe1T2thmWds9hPq67Xv74"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "clueless",
-        "url": "https://open.spotify.com/album/6gtMMyI4wfLnfEDvtYNQpg"
-      },
-      "artists": [
-        {
-          "name": "kuru",
-          "url": "https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu"
-        },
-        {
-          "name": "kurtains",
-          "url": "https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP"
-        }
-      ],
-      "duration_ms": 127634,
-      "name": "clueless",
-      "url": "https://open.spotify.com/track/2PlrJupGTWvgVlGXSK95Me"
     },
     {
       "added_at": "2024-10-09 21:55:22",

@@ -4,7 +4,7 @@
 
 > 
 
-1,184 songs - 2 day 12 hr 30 min
+1,185 songs - 2 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Bool, Balm & Bollective](https://open.spotify.com/track/0UmV17gerlXy4V3wuOUWPo) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Still Brazy \(Deluxe\)](https://open.spotify.com/album/4nwd6ernojhNIIRifDJoRz) | 3:35 | 2025-01-28 | 2025-05-21 |
 | [Borough Check](https://open.spotify.com/track/1yeUcA8cGzT2Y7Crt9hqXw) | [Digable Planets](https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ), [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW) | [Blowout Comb](https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt) | 6:55 | 2023-10-03 | 2024-04-24 |
 | [Bosses](https://open.spotify.com/track/7eWMg3GRc2whQzRYsVcA8u) | [user00xman](https://open.spotify.com/artist/6UWnzCvZ8dOv4f3grPg2wT) | [Lost ?](https://open.spotify.com/album/5FJyFYEfCJy8moRbDfEMBt) | 2:26 | 2023-01-07 | 2023-05-09 |
+| [Bottled Violence](https://open.spotify.com/track/5JhZWM8gnhG3FywK8mckZX) | [Minor Threat](https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf) | [First Two Seven Inches](https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy) | 0:54 | 2025-10-04 |  |
 | [Bought The Earth](https://open.spotify.com/track/43MyijzQ0ngRPjYHeUV7AM) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/0cLGXgec8fFV7YPFQ96SUG) | 2:58 | 2024-02-16 | 2024-02-22 |
 | [Bought The Earth](https://open.spotify.com/track/5Bno6wFa22tRbFUwh4iZdk) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:58 | 2024-02-21 | 2024-04-24 |
 | [BOYFRIEND, GIRLFRIEND \(2020 Demo\) \(feat\. YG\)](https://open.spotify.com/track/2sFEmuVVAa2klHwhFaT0rR) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:24 | 2023-04-05 | 2023-12-14 |

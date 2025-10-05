@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAAAu/7lkT1CYzMCcqZ1iN2QX",
+  "snapshot_id": "aN8SAAAAAACfcdM3aI3vvc3CLRuhe2LK",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 174240,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/0udQn3SIcXZYGwFyOO4jgi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elevate (Chill Mix)",
+        "url": "https://open.spotify.com/album/0IANHc7rarAQAAjVzyUvkk"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 219125,
+      "name": "Elevate (Chill Mix)",
+      "url": "https://open.spotify.com/track/5uHEJG2ROEJC1cwCMDW1ZH"
     },
     {
       "added_at": null,
@@ -235,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elevate",
-        "url": "https://open.spotify.com/album/3k0NQ5if3HNqmb9qaZlKkG"
-      },
-      "artists": [
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 193392,
-      "name": "Elevate",
-      "url": "https://open.spotify.com/track/1OBD78TQNosI2cVxqzCSVT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/6pKDEaJxcjq8mGAxWCQDyW"
       },
@@ -279,6 +279,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LEGACY",
+        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 230399,
+      "name": "Love Myself",
+      "url": "https://open.spotify.com/track/0twklpVNU409abDKbvrA01"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "On Repeat",
         "url": "https://open.spotify.com/album/0ezmC8VHRQijLPVBPIri2S"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 183727,
       "name": "On Repeat",
       "url": "https://open.spotify.com/track/560XM9FI9xl5H6RK8S1LqH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEGACY",
-        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
-      },
-      "artists": [
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 230399,
-      "name": "Love Myself",
-      "url": "https://open.spotify.com/track/0twklpVNU409abDKbvrA01"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LEGACY",
+        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 175901,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/7yw3aTLXNcxC2gdkeV8hWE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nightales",
         "url": "https://open.spotify.com/album/2PZJvrn7vNFz9pFeQZdwZx"
       },
@@ -639,38 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEGACY",
-        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
-      },
-      "artists": [
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 175901,
-      "name": "Pulse",
-      "url": "https://open.spotify.com/track/7yw3aTLXNcxC2gdkeV8hWE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Feelin' U",
-        "url": "https://open.spotify.com/album/5CFclh7BxZs5tkvABJKTMn"
-      },
-      "artists": [
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 137261,
-      "name": "Feelin' U",
-      "url": "https://open.spotify.com/track/2ULAqCna5PrSEtX1bJ5fYq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For Love",
         "url": "https://open.spotify.com/album/63tuZdj8UFflEROfuqibSM"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 221427,
       "name": "For Love",
       "url": "https://open.spotify.com/track/5AuS594msbacnVERxzdk7J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feelin' U",
+        "url": "https://open.spotify.com/album/5CFclh7BxZs5tkvABJKTMn"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 137261,
+      "name": "Feelin' U",
+      "url": "https://open.spotify.com/track/2ULAqCna5PrSEtX1bJ5fYq"
     },
     {
       "added_at": null,
@@ -863,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LEGACY",
+        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 195172,
+      "name": "Back",
+      "url": "https://open.spotify.com/track/5FUcSDcDLigUyc4VJrrkjJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Clubland 27",
         "url": "https://open.spotify.com/album/1lpBT7xlHsaxUvVQthNDuG"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 157470,
       "name": "So Real",
       "url": "https://open.spotify.com/track/0Y1Qdnb7rvqGYj5yp3Pwcu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEGACY",
-        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
-      },
-      "artists": [
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 195172,
-      "name": "Back",
-      "url": "https://open.spotify.com/track/5FUcSDcDLigUyc4VJrrkjJ"
     },
     {
       "added_at": null,
@@ -939,6 +939,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LEGACY",
+        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        },
+        {
+          "name": "Art Bastian",
+          "url": "https://open.spotify.com/artist/2JblH86IoErnmhXVw5hEPy"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Can't Dance - Radio Edit",
+      "url": "https://open.spotify.com/track/7KtcHEhIAIrTFqVIB0JoPH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf"
       },
@@ -963,26 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEGACY",
-        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
-      },
-      "artists": [
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        },
-        {
-          "name": "Art Bastian",
-          "url": "https://open.spotify.com/artist/2JblH86IoErnmhXVw5hEPy"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Can't Dance - Radio Edit",
-      "url": "https://open.spotify.com/track/7KtcHEhIAIrTFqVIB0JoPH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love & Devotion",
         "url": "https://open.spotify.com/album/3JrJsej825b2dqp0qtJGlY"
       },
@@ -1003,30 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pure Bassline - Mixed by DJ Q & Jamie Duggan",
-        "url": "https://open.spotify.com/album/6HqhEXFbvzjH8m8DUtwTXp"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/6fImdHSEwZ8JuD1VFGEc28"
-        },
-        {
-          "name": "DJ Q",
-          "url": "https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 253108,
-      "name": "Deeper - DJ Q Remix",
-      "url": "https://open.spotify.com/track/2iP1vQb6yRgNNnQzXRwwuw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cotton Clouds (Cutmore Remix)",
         "url": "https://open.spotify.com/album/4DLyIn25SoE3G70uh8X4PK"
       },
@@ -1043,6 +1019,22 @@
       "duration_ms": 233709,
       "name": "Cotton Clouds - Cutmore Remix",
       "url": "https://open.spotify.com/track/6DjvrztskWWRh9LzgmL053"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LEGACY",
+        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 179070,
+      "name": "New Chic",
+      "url": "https://open.spotify.com/track/7b8kyPQiZeWeELLMZic9Uq"
     }
   ],
   "unique_name": "This Is Kelli-Leigh",

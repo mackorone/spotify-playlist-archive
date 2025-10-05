@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 227807,
+  "num_followers": 227804,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAABoJsWudtxVLAAn57hezF+4",
+  "snapshot_id": "aN8SAAAAAAB9Z+Apmr/BjBFBqg2DW0+o",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuk Wat They Talkin Bout",
-        "url": "https://open.spotify.com/album/6p6Wab5m1yqyp4NzRevTft"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 186672,
-      "name": "Ice Cream Man",
-      "url": "https://open.spotify.com/track/6ZA3Q8Dj5BrnmOsT300DCh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fan of A Fan The Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 286373,
       "name": "Lights Out (feat. Fat Trel)",
       "url": "https://open.spotify.com/track/77ZhzP75wx1qzhFG4P7vyt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuk Wat They Talkin Bout",
+        "url": "https://open.spotify.com/album/6p6Wab5m1yqyp4NzRevTft"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 186672,
+      "name": "Ice Cream Man",
+      "url": "https://open.spotify.com/track/6ZA3Q8Dj5BrnmOsT300DCh"
     },
     {
       "added_at": null,

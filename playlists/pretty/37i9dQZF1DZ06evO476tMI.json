@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 632204,
+  "num_followers": 632337,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAADaBRX6sFjN6KDvDe+r97Bm",
+  "snapshot_id": "aN8SAAAAAAAE2hocQmrTg0tPOGtUvCtq",
   "tracks": [
     {
       "added_at": null,
@@ -211,26 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Not Right But It's Okay",
-        "url": "https://open.spotify.com/album/5L6Sk7HlBhTQaeXh5nkQro"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 212990,
-      "name": "It's Not Right But It's Okay",
-      "url": "https://open.spotify.com/track/1MTCiRbvPK93YY6LNIeEbc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Wanna Dance With Somebody (Who Loves Me)",
         "url": "https://open.spotify.com/album/0QqUqMaNbFvY7iIihnDJZ4"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 218006,
       "name": "I Wanna Dance With Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/4uAnA8nZAgl1bASMQTqnJI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Not Right But It's Okay",
+        "url": "https://open.spotify.com/album/5L6Sk7HlBhTQaeXh5nkQro"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 212990,
+      "name": "It's Not Right But It's Okay",
+      "url": "https://open.spotify.com/track/1MTCiRbvPK93YY6LNIeEbc"
     },
     {
       "added_at": null,

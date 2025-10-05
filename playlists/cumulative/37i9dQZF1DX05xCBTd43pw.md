@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Linda Elys
 
-414 songs - 21 hr 19 min
+415 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Fäderliecht](https://open.spotify.com/track/74yAbSSwPYlbJRoVvkauPz) | [Steff la Cheffe](https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU) | [Fäderliecht](https://open.spotify.com/album/0cV75qed2Zo9mY4Sr9LM8I) | 3:54 | 2025-04-24 | 2025-05-02 |
 | [Girlfriend](https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u) | [MAREA](https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y) | [Girlfriend](https://open.spotify.com/album/5MARdnZTyKQohhJuNvZN1K) | 2:47 | 2024-08-05 | 2025-07-11 |
 | [Gold \(feat\. KOOLKID\)](https://open.spotify.com/track/7sN8cPi1YSSXxluyVCl7YQ) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [KOOLKID](https://open.spotify.com/artist/0WBAJsJSN2RtYuWVa1aRCY) | [Gold \(feat\. KOOLKID\)](https://open.spotify.com/album/6cnA84PlNGIXkMCs7oglJw) | 3:20 | 2025-07-10 |  |
+| [Gold Rush](https://open.spotify.com/track/5dCV3T0S8p5O4btsyd6uFb) | [Veronica Fusaro](https://open.spotify.com/artist/2Nu9BiGXLIAbTs0mrbsmRW) | [Gold Rush](https://open.spotify.com/album/15anfhhRhsAdkmBq9qHOra) | 2:42 | 2025-10-02 |  |
 | [Good](https://open.spotify.com/track/22LulLIuYZS8qspHQeVi7w) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Good](https://open.spotify.com/album/17d8AeWoYu428twNlwtXjI) | 3:47 | 2025-08-07 |  |
 | [Good Love](https://open.spotify.com/track/4nOfERRA2RjU40hNSRshs5) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Good Love](https://open.spotify.com/album/3QP4KzSLMMQfmY1pqB4d9r) | 2:45 | 2024-09-27 | 2024-11-27 |
 | [Gray Area](https://open.spotify.com/track/4GsVYuOnWXpxx4QsShrSOt) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P), [GIOVANNA](https://open.spotify.com/artist/4dKNVy72FShsqA2JJrkaHb) | [September](https://open.spotify.com/album/7JZSZvM0rik8GhhP1bD9EP) | 2:11 | 2025-09-19 |  |
@@ -369,7 +370,7 @@
 | [Time to Shine](https://open.spotify.com/track/6D3HZbLX4Z6UFb7ljFG2U0) | [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [Time to Shine](https://open.spotify.com/album/479IBiAj7jR4ftHkwpUwHt) | 2:43 | 2025-09-08 |  |
 | [Todas Las Flores](https://open.spotify.com/track/3nUMWn4xuHsP3gM23lVvZr) | [AKIRA](https://open.spotify.com/artist/0dErkhdd4nhGJhX2Hwi2vM) | [Las Flores De Mi Barrio](https://open.spotify.com/album/1aXrU0R7Xgf3YYqPNlFx60) | 2:52 | 2025-04-24 | 2025-05-02 |
 | [Tontauben](https://open.spotify.com/track/2h0Mz4cN7JV79zeLmnMscN) | [Hecht](https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S) | [Tontauben](https://open.spotify.com/album/6V4AxqWLm9jJfhNYZUMr3Z) | 3:16 | 2025-03-21 |  |
-| [Too Late](https://open.spotify.com/track/3ujKtX9veDSd8L7xsghjx3) | [Anna Rossinelli](https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X) | [Too Late](https://open.spotify.com/album/47Klgsbt8GiMzK2c7N5xrU) | 3:06 | 2025-07-10 |  |
+| [Too Late](https://open.spotify.com/track/3ujKtX9veDSd8L7xsghjx3) | [Anna Rossinelli](https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X) | [Too Late](https://open.spotify.com/album/47Klgsbt8GiMzK2c7N5xrU) | 3:06 | 2025-07-10 | 2025-10-05 |
 | [torn](https://open.spotify.com/track/4Q4pIhQUUoqDagBCc81rX4) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [torn](https://open.spotify.com/album/4tsVKMEScY3SQF6OkeDcbW) | 2:43 | 2024-06-27 | 2024-10-04 |
 | [Toro](https://open.spotify.com/track/160NRR8Ol1CwAMNnjM2COC) | [LieVin](https://open.spotify.com/artist/4bCEw9lXrhxvEZQHxD8tJU), [L Loko](https://open.spotify.com/artist/6iI54kPtuDGxFe6T3eIR53), [Drini](https://open.spotify.com/artist/5tRlhg6J2lBxI7Qb4IfL00) | [Toro](https://open.spotify.com/album/0wNk0P72mbxhAx1I6UcrZ6) | 2:31 | 2025-04-24 | 2025-05-02 |
 | [Toti Chatz](https://open.spotify.com/track/5K1QCmyfRpGylVR3Cj6Gj6) | [Dachs](https://open.spotify.com/artist/04LdKPNs0taDflOxwGZCGe) | [Toti Chatz](https://open.spotify.com/album/6kWFAwpZ9L7wd9FeZH6v7v) | 3:30 | 2025-04-24 | 2025-05-02 |

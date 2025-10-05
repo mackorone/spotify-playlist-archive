@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Zlatan & Qing Madi",
-  "num_followers": 70856,
+  "num_followers": 70904,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -23,6 +23,46 @@
       "duration_ms": 184821,
       "name": "INDUSTRY MACHINE",
       "url": "https://open.spotify.com/track/3wxFGa444tOpit0dsToPd6"
+    },
+    {
+      "added_at": "2025-10-03 00:01:10",
+      "album": {
+        "name": "Get Better",
+        "url": "https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Get Better",
+      "url": "https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O"
+    },
+    {
+      "added_at": "2025-10-03 00:01:10",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/0YJON4FqskJ7Zp5W5Xaug0"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 214187,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/1o40BKnO6xqV1ul2YUOWeF"
     },
     {
       "added_at": "2025-10-03 00:01:10",
@@ -51,26 +91,6 @@
     {
       "added_at": "2025-10-03 00:01:10",
       "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/0YJON4FqskJ7Zp5W5Xaug0"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 214187,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/1o40BKnO6xqV1ul2YUOWeF"
-    },
-    {
-      "added_at": "2025-10-03 00:01:10",
-      "album": {
         "name": "KELEBU",
         "url": "https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa"
       },
@@ -83,22 +103,6 @@
       "duration_ms": 172069,
       "name": "KELEBU",
       "url": "https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj"
-    },
-    {
-      "added_at": "2025-10-03 00:01:10",
-      "album": {
-        "name": "Mortal Kombat",
-        "url": "https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr"
-      },
-      "artists": [
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        }
-      ],
-      "duration_ms": 121061,
-      "name": "Mortal Kombat",
-      "url": "https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa"
     },
     {
       "added_at": "2025-10-03 00:01:10",
@@ -119,22 +123,18 @@
     {
       "added_at": "2025-10-03 00:01:10",
       "album": {
-        "name": "TaTaTa (feat. Travis Scott)",
-        "url": "https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5"
+        "name": "Mortal Kombat",
+        "url": "https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
         }
       ],
-      "duration_ms": 150651,
-      "name": "TaTaTa (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9"
+      "duration_ms": 121061,
+      "name": "Mortal Kombat",
+      "url": "https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa"
     },
     {
       "added_at": "2025-10-03 00:01:10",
@@ -159,18 +159,22 @@
     {
       "added_at": "2025-10-03 00:01:10",
       "album": {
-        "name": "Na Scra",
-        "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
+        "name": "TaTaTa (feat. Travis Scott)",
+        "url": "https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5"
       },
       "artists": [
         {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Na Scra",
-      "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
+      "duration_ms": 150651,
+      "name": "TaTaTa (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9"
     },
     {
       "added_at": "2025-10-03 00:01:10",
@@ -219,6 +223,22 @@
     {
       "added_at": "2025-10-03 00:01:10",
       "album": {
+        "name": "Na Scra",
+        "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Na Scra",
+      "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
+    },
+    {
+      "added_at": "2025-10-03 00:01:10",
+      "album": {
         "name": "Children of Africa",
         "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
       },
@@ -231,26 +251,6 @@
       "duration_ms": 140527,
       "name": "SHAOLIN",
       "url": "https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV"
-    },
-    {
-      "added_at": "2025-10-03 00:01:10",
-      "album": {
-        "name": "Get Better",
-        "url": "https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Get Better",
-      "url": "https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O"
     },
     {
       "added_at": "2025-10-03 00:01:10",
@@ -419,22 +419,22 @@
     {
       "added_at": "2025-10-03 00:01:10",
       "album": {
-        "name": "BlownBoy RU",
-        "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
+        "name": "Kilometer II",
+        "url": "https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
         },
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Giveaway",
-      "url": "https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y"
+      "duration_ms": 123185,
+      "name": "Kilogram",
+      "url": "https://open.spotify.com/track/0viaQlHq5KHyywH6rQyNjB"
     },
     {
       "added_at": "2025-10-03 00:01:10",
@@ -491,22 +491,22 @@
     {
       "added_at": "2025-10-03 00:01:10",
       "album": {
-        "name": "Kilometer II",
-        "url": "https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ"
+        "name": "BlownBoy RU",
+        "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
       },
       "artists": [
         {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         },
         {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 123185,
-      "name": "Kilogram",
-      "url": "https://open.spotify.com/track/0viaQlHq5KHyywH6rQyNjB"
+      "duration_ms": 180000,
+      "name": "Giveaway",
+      "url": "https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y"
     },
     {
       "added_at": "2025-10-03 00:01:10",
@@ -527,22 +527,18 @@
     {
       "added_at": "2025-10-03 00:01:10",
       "album": {
-        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
-        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
+        "name": "Hat-Trick",
+        "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
       },
       "artists": [
         {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
         }
       ],
-      "duration_ms": 180160,
-      "name": "Look To You (feat. Llona)",
-      "url": "https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68"
+      "duration_ms": 137892,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT"
     },
     {
       "added_at": "2025-10-03 00:01:10",
@@ -567,18 +563,22 @@
     {
       "added_at": "2025-10-03 00:01:10",
       "album": {
-        "name": "Hat-Trick",
-        "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
+        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
+        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
       },
       "artists": [
         {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
         }
       ],
-      "duration_ms": 137892,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT"
+      "duration_ms": 180160,
+      "name": "Look To You (feat. Llona)",
+      "url": "https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68"
     },
     {
       "added_at": "2025-10-03 00:01:10",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2025-10-03 00:01:10",
       "album": {
+        "name": "Olufunmi (The Missing Recipe)",
+        "url": "https://open.spotify.com/album/7MfB9wSvVjmxV7VfD1gU7q"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Styl-Plus",
+          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Olufunmi (The Missing Recipe)",
+      "url": "https://open.spotify.com/track/5UKjVTABJpQSx1UynzpHon"
+    },
+    {
+      "added_at": "2025-10-03 00:01:10",
+      "album": {
         "name": "Healers Chapel",
         "url": "https://open.spotify.com/album/26EFuAiv2fxVd44jxz9oHN"
       },
@@ -1019,22 +1039,6 @@
       "duration_ms": 179000,
       "name": "Healers Chapel",
       "url": "https://open.spotify.com/track/1toGWaj2vdYFyoJCgoan24"
-    },
-    {
-      "added_at": "2025-10-03 00:01:10",
-      "album": {
-        "name": "Folasade",
-        "url": "https://open.spotify.com/album/1M6bYAJ0BlpTvH9GpJBvPN"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        }
-      ],
-      "duration_ms": 168648,
-      "name": "Folasade",
-      "url": "https://open.spotify.com/track/4vSmuYwg5da3fheZ9HcNi5"
     },
     {
       "added_at": "2025-10-03 00:01:10",
@@ -1151,6 +1155,22 @@
     {
       "added_at": "2025-10-03 00:01:10",
       "album": {
+        "name": "Folasade",
+        "url": "https://open.spotify.com/album/1M6bYAJ0BlpTvH9GpJBvPN"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "duration_ms": 168648,
+      "name": "Folasade",
+      "url": "https://open.spotify.com/track/4vSmuYwg5da3fheZ9HcNi5"
+    },
+    {
+      "added_at": "2025-10-03 00:01:10",
+      "album": {
         "name": "Vibration",
         "url": "https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 181764,
       "name": "Vibration",
       "url": "https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN"
-    },
-    {
-      "added_at": "2025-10-03 00:01:10",
-      "album": {
-        "name": "Olufunmi (The Missing Recipe)",
-        "url": "https://open.spotify.com/album/7MfB9wSvVjmxV7VfD1gU7q"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Styl-Plus",
-          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Olufunmi (The Missing Recipe)",
-      "url": "https://open.spotify.com/track/5UKjVTABJpQSx1UynzpHon"
     },
     {
       "added_at": "2025-10-03 00:01:10",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-10-03 00:01:10",
       "album": {
-        "name": "Lazy Baby",
-        "url": "https://open.spotify.com/album/4EAhkQ3E7yUXGMVYkgXTTh"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 126131,
-      "name": "Lazy Baby",
-      "url": "https://open.spotify.com/track/5DaYJuywGnucxxv8HRlkUl"
-    },
-    {
-      "added_at": "2025-10-03 00:01:10",
-      "album": {
         "name": "Hello Habibi",
         "url": "https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2025-10-03 00:01:10",
       "album": {
-        "name": "Amen (God My Dealer)",
-        "url": "https://open.spotify.com/album/7qrVggiU01zhpAofCUrWqO"
+        "name": "Lazy Baby",
+        "url": "https://open.spotify.com/album/4EAhkQ3E7yUXGMVYkgXTTh"
       },
       "artists": [
         {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
         }
       ],
-      "duration_ms": 164160,
-      "name": "Amen (God My Dealer)",
-      "url": "https://open.spotify.com/track/1ItASgyD1Gwh6bOUxLm89S"
+      "duration_ms": 126131,
+      "name": "Lazy Baby",
+      "url": "https://open.spotify.com/track/5DaYJuywGnucxxv8HRlkUl"
     },
     {
       "added_at": "2025-10-03 00:01:10",
@@ -1323,6 +1307,22 @@
       "duration_ms": 163404,
       "name": "Velvet",
       "url": "https://open.spotify.com/track/1DTVhkf9ATO3hoPrCrh0iX"
+    },
+    {
+      "added_at": "2025-10-03 00:01:10",
+      "album": {
+        "name": "Amen (God My Dealer)",
+        "url": "https://open.spotify.com/album/7qrVggiU01zhpAofCUrWqO"
+      },
+      "artists": [
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        }
+      ],
+      "duration_ms": 164160,
+      "name": "Amen (God My Dealer)",
+      "url": "https://open.spotify.com/track/1ItASgyD1Gwh6bOUxLm89S"
     },
     {
       "added_at": "2025-10-03 00:01:10",

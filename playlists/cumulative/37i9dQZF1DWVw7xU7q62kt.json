@@ -971,6 +971,32 @@
     },
     {
       "album": {
+        "name": "Bir",
+        "url": "https://open.spotify.com/album/3rkniVn3KmJtmixUJiiR5G"
+      },
+      "artists": [
+        {
+          "name": "Yeet Bey",
+          "url": "https://open.spotify.com/artist/7smg87ALnKGB5slipYH42t"
+        },
+        {
+          "name": "Evre",
+          "url": "https://open.spotify.com/artist/0NbJ7PTiD6BLuBqsrIRKRi"
+        },
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142184,
+      "name": "Bir",
+      "url": "https://open.spotify.com/track/5Pjre4zDNOBQ64KGVfwyI8"
+    },
+    {
+      "album": {
         "name": "Birds",
         "url": "https://open.spotify.com/album/6Y8nFCKVLh1eJATqh2xvgW"
       },
@@ -4310,7 +4336,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 130786,
       "name": "Golden",
       "url": "https://open.spotify.com/track/0puARhK6jKkusREeVYGchX"
@@ -4700,7 +4726,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 106987,
       "name": "High Stakes",
       "url": "https://open.spotify.com/track/6kURl2z8oL9QPeFH4GlKhd"
@@ -6028,6 +6054,24 @@
       "duration_ms": 155898,
       "name": "Late Night Vibes",
       "url": "https://open.spotify.com/track/67Y0o1RFXaLYN7XLiN2onZ"
+    },
+    {
+      "album": {
+        "name": "Lay Down And Sea",
+        "url": "https://open.spotify.com/album/4cxsVx7mtmwc1h94wD57oS"
+      },
+      "artists": [
+        {
+          "name": "Huey Daze",
+          "url": "https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91419,
+      "name": "Lay Down And Sea",
+      "url": "https://open.spotify.com/track/5TEAP52ErATZ3z5KF2urOn"
     },
     {
       "album": {

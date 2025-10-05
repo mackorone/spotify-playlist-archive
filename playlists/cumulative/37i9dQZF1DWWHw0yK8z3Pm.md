@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Colter Wall
 
-582 songs - 1 day 11 hr 27 min
+583 songs - 1 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [If It Comes in the Morning](https://open.spotify.com/track/2dKbKigrQtSFGDS8c9L3fJ) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [If It Comes in the Morning](https://open.spotify.com/album/6yBuW4QLmb2rigEMoC1A60) | 4:05 | 2022-05-13 | 2022-06-18 |
 | [If the Loneliness Don't Kill Me](https://open.spotify.com/track/34wCPaOE7dhUUg8DlR5NQ5) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [If The Loneliness Don't Kill Me](https://open.spotify.com/album/4ulfhgsUVauXUbSFLJzQiC) | 3:03 | 2022-10-28 | 2023-01-16 |
 | [If the Loneliness Don't Kill Me](https://open.spotify.com/track/6vkbnhLvFFkK9dvxeqnus3) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [I'm Not Crying, You're Crying](https://open.spotify.com/album/2yNUReN1do8Qbg6xkfJiw6) | 3:03 | 2022-12-16 | 2023-04-22 |
+| [If There's A Heaven](https://open.spotify.com/track/7lfCazSXAmsNc1bZ3d4zwx) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [If There's A Heaven](https://open.spotify.com/album/2wztGzC37E9wJez5AMCJf3) | 5:01 | 2025-10-03 |  |
 | [In Dreams](https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 2:41 | 2023-04-21 |  |
 | [In Emerald](https://open.spotify.com/track/2FsIZpptwaAwU8vOBinIvy) | [Wyatt C\. Louis](https://open.spotify.com/artist/0U2aokEQQSzyTcQdpC6DsB) | [In Emerald](https://open.spotify.com/album/1Ug1eaDyeJVPVDw2AlA7tI) | 3:30 | 2024-01-12 | 2024-05-04 |
 | [In Montreal](https://open.spotify.com/track/3Gwqsw9RQu216w13DvByYL) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [In Montreal](https://open.spotify.com/album/6vt5EJjKiIymCZYBjXFGtc) | 3:33 | 2024-04-12 | 2024-06-01 |
@@ -405,7 +406,7 @@
 | [patches](https://open.spotify.com/track/54PBgesYzwCsJSWBqy50gW) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [patches](https://open.spotify.com/album/3ummiDN168EzHP1vIMPOcU) | 3:23 | 2023-08-25 | 2024-08-06 |
 | [Pathways](https://open.spotify.com/track/6JbtptJaHLabnevNBcvRLV) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Pathways](https://open.spotify.com/album/6WspJ4n6zDViW1aDngPaMo) | 3:30 | 2024-08-23 | 2024-09-28 |
 | [Peacemaker](https://open.spotify.com/track/5YmT2lYxtHHgSlMowSlvUe) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Peacemaker](https://open.spotify.com/album/4BAve16knUSPUFxMOb3vXJ) | 3:53 | 2023-09-15 | 2023-12-12 |
-| [Permanently Lonely \(From "Skincare"\)](https://open.spotify.com/track/3IjDDbc4BAlOFpHLrFuCiu) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Permanently Lonely \(From "Skincare"\)](https://open.spotify.com/album/2Y3oP24fYERudDG6m5risI) | 3:35 | 2024-08-16 |  |
+| [Permanently Lonely \(From "Skincare"\)](https://open.spotify.com/track/3IjDDbc4BAlOFpHLrFuCiu) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Permanently Lonely \(From "Skincare"\)](https://open.spotify.com/album/2Y3oP24fYERudDG6m5risI) | 3:35 | 2024-08-16 | 2025-10-05 |
 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-05-31 |  |
 | [Pitch Black](https://open.spotify.com/track/24v9Z8Q7Ohbee93YyPns0m) | [Jadea Kelly](https://open.spotify.com/artist/3ro4f3VnPO6PiAah0POgwD) | [Roses](https://open.spotify.com/album/0t2iOdlsZEn4DmXMkRKBIe) | 3:58 | 2022-05-13 | 2022-11-12 |
 | [Pitchin' fits](https://open.spotify.com/track/2m4Rz3Pn5tN7MFth0kHgSL) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [A Hard up Life](https://open.spotify.com/album/4hxny6RxCa9kJjdXkpXlPi) | 3:47 | 2023-04-21 |  |

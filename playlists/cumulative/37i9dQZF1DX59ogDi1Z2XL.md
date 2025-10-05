@@ -2,7 +2,7 @@
 
 ### [Northern Bars](https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL)
 
-> The coldest sounds in hip\-hop, coming out of Canada\. Cover: Connor Price
+> The coldest sounds in hip\-hop, coming out of Canada\. Cover: Planet Giza
 
 1,986 songs - 3 day 19 hr 50 min
 

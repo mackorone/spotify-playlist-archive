@@ -803,6 +803,24 @@
     },
     {
       "album": {
+        "name": "Winner",
+        "url": "https://open.spotify.com/album/1yDIgEYCqnXgNRfPcd2isc"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166852,
+      "name": "Winner",
+      "url": "https://open.spotify.com/track/32Fi0ERaMduzL4QsiCenk1"
+    },
+    {
+      "album": {
         "name": "you fake your british accent",
         "url": "https://open.spotify.com/album/68TfQ3tnoUR6MwkO3658it"
       },

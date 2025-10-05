@@ -12187,6 +12187,32 @@
     },
     {
       "album": {
+        "name": "Number One",
+        "url": "https://open.spotify.com/album/0Gf17466DPiCKfRizn0gVl"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Leys",
+          "url": "https://open.spotify.com/artist/5QNv7hSi3Ba7DV4li83jFG"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152158,
+      "name": "Number One",
+      "url": "https://open.spotify.com/track/5cWEZixlL2o2CKGTT0VEYT"
+    },
+    {
+      "album": {
         "name": "Nunca Sozinho",
         "url": "https://open.spotify.com/album/06LCPYS9Nixib0IzHkurko"
       },
@@ -18002,7 +18028,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 240000,
       "name": "Veterano",
       "url": "https://open.spotify.com/track/0RkL3poajWMDLB7Q90cpjr"

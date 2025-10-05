@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 34847,
+  "num_followers": 34854,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAAAywpsWHB68Ynb8UK/OpG3i",
+  "snapshot_id": "aN8SAAAAAADCa8hvH9j+KvggBTDnjCCE",
   "tracks": [
     {
       "added_at": null,
@@ -843,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Fly (Deluxe)",
-        "url": "https://open.spotify.com/album/16fOEIiwZ9ic2JIL7PI6u7"
-      },
-      "artists": [
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Trench Baby (with G Herbo)",
-      "url": "https://open.spotify.com/track/5NPWbfa9RPLC5UabrvxnrM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Welcome to Fazoland (Anniversary Edition)",
         "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 174545,
       "name": "Feel Bad (feat. G Herbo)",
       "url": "https://open.spotify.com/track/3vopZj6osuP21LtAmCUTJs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Me Fly (Deluxe)",
+        "url": "https://open.spotify.com/album/16fOEIiwZ9ic2JIL7PI6u7"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Trench Baby (with G Herbo)",
+      "url": "https://open.spotify.com/track/5NPWbfa9RPLC5UabrvxnrM"
     },
     {
       "added_at": null,

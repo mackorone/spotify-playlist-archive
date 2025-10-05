@@ -925,6 +925,24 @@
     },
     {
       "album": {
+        "name": "El Troquero",
+        "url": "https://open.spotify.com/album/0nItB24GBHy9KPJiDRA9Mc"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186124,
+      "name": "El Troquero",
+      "url": "https://open.spotify.com/track/2xTVWD3VQ2EYmvDx8iEFb7"
+    },
+    {
+      "album": {
         "name": "En Cambio No",
         "url": "https://open.spotify.com/album/2hNjG4PRS550kZO1sjj02l"
       },
@@ -1426,7 +1444,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 328115,
       "name": "Los Caminos de la Vida - Spotify Singles",
       "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"

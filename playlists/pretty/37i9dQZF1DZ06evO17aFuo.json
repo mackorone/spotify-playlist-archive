@@ -1,13 +1,29 @@
 {
   "description": "This is Megadeth. The essential tracks, all in one playlist.",
-  "num_followers": 308770,
+  "num_followers": 308830,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAAA10jrmyICkMF+dhYi92k1z",
+  "snapshot_id": "aN8SAAAAAAANcm3LRSo1D+IdlBoxWt/V",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tipping Point",
+        "url": "https://open.spotify.com/album/09fWUtFj5UY5gEJapwj0xa"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 268828,
+      "name": "Tipping Point",
+      "url": "https://open.spotify.com/track/6jhxeGvYuGY6KHHmUDj8Sv"
+    },
     {
       "added_at": null,
       "album": {
@@ -459,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 262026,
+      "name": "The Threat Is Real",
+      "url": "https://open.spotify.com/track/5qrlMOwqunICbaOZaKAoBN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Countdown To Extinction (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
@@ -507,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 262026,
-      "name": "The Threat Is Real",
-      "url": "https://open.spotify.com/track/5qrlMOwqunICbaOZaKAoBN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rust In Peace (2004 Remix / Expanded Edition)",
         "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
       },
@@ -548,9 +564,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 262426,
-      "name": "Foreclosure Of A Dream - 2004 Remastered",
-      "url": "https://open.spotify.com/track/4goJhfQRbNfYybpYf9xmbL"
+      "duration_ms": 223400,
+      "name": "This Was My Life",
+      "url": "https://open.spotify.com/track/0Ad43GBuMZqdInDrwp2HHL"
     },
     {
       "added_at": null,
@@ -612,9 +628,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 223400,
-      "name": "This Was My Life",
-      "url": "https://open.spotify.com/track/0Ad43GBuMZqdInDrwp2HHL"
+      "duration_ms": 262426,
+      "name": "Foreclosure Of A Dream - 2004 Remastered",
+      "url": "https://open.spotify.com/track/4goJhfQRbNfYybpYf9xmbL"
     },
     {
       "added_at": null,
@@ -651,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 302333,
-      "name": "The Conjuring - Remastered",
-      "url": "https://open.spotify.com/track/0pv49erP5wxMZMnprRCqXT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sick, The Dying\u2026 And The Dead!",
         "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 252146,
       "name": "Life In Hell",
       "url": "https://open.spotify.com/track/1wObJxo4kYisj7tot8PVvT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 302333,
+      "name": "The Conjuring - Remastered",
+      "url": "https://open.spotify.com/track/0pv49erP5wxMZMnprRCqXT"
     },
     {
       "added_at": null,
@@ -715,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 305200,
-      "name": "Devils Island - 2004 Remaster",
-      "url": "https://open.spotify.com/track/009aJqwtazpcpmOW3YbwDx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Killing Is My Business...And Business Is Good!",
         "url": "https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 223040,
       "name": "Rattlehead",
       "url": "https://open.spotify.com/track/0a87tfuBhOFmYMgPjyR53R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 305200,
+      "name": "Devils Island - 2004 Remaster",
+      "url": "https://open.spotify.com/track/009aJqwtazpcpmOW3YbwDx"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
       "duration_ms": 324800,
       "name": "A Secret Place - Remastered 2004 / Remixed",
       "url": "https://open.spotify.com/track/3b1nPEPh9OGSngRUciEv6P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The World Needs a Hero",
-        "url": "https://open.spotify.com/album/1BbQ01oDFvVK4aHdgvsBB9"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 239413,
-      "name": "Return to Hangar",
-      "url": "https://open.spotify.com/track/3ZKHEhU9lhOhCYWXtKykBl"
     }
   ],
   "unique_name": "This Is Megadeth",

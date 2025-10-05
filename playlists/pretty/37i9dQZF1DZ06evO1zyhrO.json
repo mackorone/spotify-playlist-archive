@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 103537,
+  "num_followers": 103545,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAAA+ZxOsLA6q+ERzRkkCUNMg",
+  "snapshot_id": "aN8SAAAAAAAbVBItZUFUPl+Kez7gCG3Y",
   "tracks": [
     {
       "added_at": null,
@@ -554,15 +554,11 @@
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Louisa Johnson",
-          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
         }
       ],
-      "duration_ms": 198340,
-      "name": "Leave The Light On",
-      "url": "https://open.spotify.com/track/4QKaDo33XTC0JumNtvBNXI"
+      "duration_ms": 184354,
+      "name": "Dominoes",
+      "url": "https://open.spotify.com/track/5VXdYLJ62WPtRfb597kRP1"
     },
     {
       "added_at": null,
@@ -603,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Your Hands",
-        "url": "https://open.spotify.com/album/0OpArfZnzl4fpAm5uwqnhW"
+        "name": "The Story Goes...",
+        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
       },
       "artists": [
         {
@@ -612,9 +608,9 @@
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 197690,
-      "name": "In Your Hands",
-      "url": "https://open.spotify.com/track/39EqqKlqMBvmG6I9ZhaHbk"
+      "duration_ms": 235933,
+      "name": "All the Way",
+      "url": "https://open.spotify.com/track/5ln1Tttut50qIL1KJkl3YC"
     },
     {
       "added_at": null,
@@ -626,11 +622,15 @@
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Louisa Johnson",
+          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
         }
       ],
-      "duration_ms": 184354,
-      "name": "Dominoes",
-      "url": "https://open.spotify.com/track/5VXdYLJ62WPtRfb597kRP1"
+      "duration_ms": 198340,
+      "name": "Leave The Light On",
+      "url": "https://open.spotify.com/track/4QKaDo33XTC0JumNtvBNXI"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Story Goes...",
-        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
+        "name": "In Your Hands",
+        "url": "https://open.spotify.com/album/0OpArfZnzl4fpAm5uwqnhW"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 235933,
-      "name": "All the Way",
-      "url": "https://open.spotify.com/track/5ln1Tttut50qIL1KJkl3YC"
+      "duration_ms": 197690,
+      "name": "In Your Hands",
+      "url": "https://open.spotify.com/track/39EqqKlqMBvmG6I9ZhaHbk"
     },
     {
       "added_at": null,

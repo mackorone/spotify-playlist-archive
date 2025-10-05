@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAeP0qvE2oQs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6bllSJNua7UnV0Nr9wFwmE">girl in red</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 743 likes - 25 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 742 likes - 25 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAeP0qvE2oQs.md) - [plain]
 | 24 | [it would feel like this](https://open.spotify.com/track/0o2KnhHD5nFFgbfL6cQtY7) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 1:20 |
 | 25 | [something new](https://open.spotify.com/track/5HGZJeGaJsHHgKy95BAai0) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [MOOMINVALLEY 2 \(Official Soundtrack\)](https://open.spotify.com/album/2SuMYxHuybyoaBLSDkQ5Rc) | 3:25 |
 
-Snapshot ID: `Ab95/AAAAACmu4qfglPjtzFBrwYaQQiS`
+Snapshot ID: `Ab9/nAAAAACSlbLca7g6p3TmGZHQjv8W`

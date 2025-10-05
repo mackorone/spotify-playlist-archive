@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: SAILORMONEY
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,237 likes - 91 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,235 likes - 91 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

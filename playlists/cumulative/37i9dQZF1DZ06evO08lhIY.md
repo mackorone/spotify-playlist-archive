@@ -4,7 +4,7 @@
 
 > This is Limoblaze\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 14 min
+59 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Amazing Grace](https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Amazing Grace](https://open.spotify.com/album/0rqRhC288otR9wnmgHz6Bb) | 2:56 | 2025-07-15 |  |
 | [Away](https://open.spotify.com/track/41lW4DB7gvfMvumKvwmtNL) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 3:28 | 2025-07-15 |  |
 | [Billion Words](https://open.spotify.com/track/7fk2maOyYbRVEM9UL4QhmH) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Billion Words](https://open.spotify.com/album/2ua3yE01TSHBvZ8aAMywD2) | 7:44 | 2025-07-15 | 2025-09-13 |
-| [Blow My Mind](https://open.spotify.com/track/0vQc3gUbXHAF4FDlzhfaJL) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Blow My Mind](https://open.spotify.com/album/4fyl086gcUeMo0euTMYWde) | 3:07 | 2025-07-15 |  |
+| [Blow My Mind](https://open.spotify.com/track/0vQc3gUbXHAF4FDlzhfaJL) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Blow My Mind](https://open.spotify.com/album/4fyl086gcUeMo0euTMYWde) | 3:07 | 2025-07-15 | 2025-10-05 |
 | [Brighter Day](https://open.spotify.com/track/3IQGgI3YOn3HGlrZECYs0K) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [Moflo](https://open.spotify.com/artist/3l4DNYCciNLDKnkKO2u8wP), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Pilgrim's Road](https://open.spotify.com/album/3NtuWd8mZObFRl6JyIhyy0) | 2:35 | 2025-07-15 |  |
 | [Cadeau](https://open.spotify.com/track/2tefVnRRqYsjqMRGii5cSX) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [1er Amour](https://open.spotify.com/album/5qacTmr57fIbthd4Q85nBK) | 2:51 | 2025-07-15 |  |
 | [Calling \(Bless Me\)](https://open.spotify.com/track/70phX1Md7Hertk651Q06Z2) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Calling \(Bless Me\)](https://open.spotify.com/album/6tgGEm8JciW3omq5q6kJKB) | 3:00 | 2025-07-15 |  |
@@ -20,6 +20,7 @@
 | [Daily](https://open.spotify.com/track/4B1jKLUVBmrJb4ZZj4kpxf) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [Restore](https://open.spotify.com/album/2Upq0VFnL6M6Q9UlyN8bCx) | 2:56 | 2025-07-15 |  |
 | [Desire](https://open.spotify.com/track/38hOrmc7D0YqWZ2QYdxgK2) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Desire](https://open.spotify.com/album/2QPzJrnYkpPBU4kCD15Hcw) | 3:24 | 2025-07-15 |  |
 | [Desire Pt\. 2](https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Desire Pt\. 2](https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne) | 2:40 | 2025-07-15 |  |
+| [Do It Now \(Agbanilagbatan\)](https://open.spotify.com/track/66lY1eeYhJeQKrrLLFkddD) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Do It Now \(Agbanilagbatan\)](https://open.spotify.com/album/4tk0aBwh1JrVWyPwoJzlCw) | 4:39 | 2025-10-05 |  |
 | [Elijah Level \(with Limoblaze\)](https://open.spotify.com/track/1yEuEyMs30kbMfyEWlEk8h) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Elijah Level \(with Limoblaze\)](https://open.spotify.com/album/6FT3RodFpDNE4R4cAhb5O9) | 2:53 | 2025-07-15 |  |
 | [Eternal](https://open.spotify.com/track/1pFFPEQN4EzdcbeMpF8P45) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Eternal](https://open.spotify.com/album/64yotkQgRqiboT1Sc9uRUQ) | 3:45 | 2025-07-15 |  |
 | [Fade Away](https://open.spotify.com/track/1pscjrBlPPkzYwNgOmSj1T) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Fade Away](https://open.spotify.com/album/5o934KiJcvWwFhhPbPINvz) | 2:57 | 2025-07-15 |  |

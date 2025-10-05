@@ -1,12 +1,12 @@
 {
   "description": "Os indicados na maior celebra\u00e7\u00e3o da m\u00fasica latina em 2025.",
-  "num_followers": 78416,
+  "num_followers": 78418,
   "original_name": "Os Indicados",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHq5d5aV1Ae8VUvQza4ccopOD73S",
+  "snapshot_id": "AAAAADemuTEM2CcA0nUXUPFnotj3Hjz6",
   "tracks": [
     {
       "added_at": "2025-09-17 15:00:09",
@@ -627,26 +627,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Um Mar Pra Cada Um,",
-        "url": "https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Lucs Romero",
-          "url": "https://open.spotify.com/artist/1yw5PZ4ceYDZWiptutFaAN"
-        }
-      ],
-      "duration_ms": 215005,
-      "name": "Rota",
-      "url": "https://open.spotify.com/track/2PfuIcBIEvArGhn10S46Rc"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "Ton Carfi 20 anos (Ao Vivo)",
         "url": "https://open.spotify.com/album/2vNkUge260SMhGlBBbQP4p"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 195730,
       "name": "Bogot\u00e1",
       "url": "https://open.spotify.com/track/42xEJ2PHDrVa8lGRr8DIci"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "Um Mar Pra Cada Um,",
+        "url": "https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Lucs Romero",
+          "url": "https://open.spotify.com/artist/1yw5PZ4ceYDZWiptutFaAN"
+        }
+      ],
+      "duration_ms": 215005,
+      "name": "Rota",
+      "url": "https://open.spotify.com/track/2PfuIcBIEvArGhn10S46Rc"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "AFIM",
-        "url": "https://open.spotify.com/album/4gtQPnisgFKDkNEKTU74YJ"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
-        }
-      ],
-      "duration_ms": 190092,
-      "name": "Transe",
-      "url": "https://open.spotify.com/track/6GagMYkmbSakx79Eta9RIh"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "big buraco",
         "url": "https://open.spotify.com/album/7nFKPgj0vGWz0KMTVynIGN"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 180185,
       "name": "sol na pele",
       "url": "https://open.spotify.com/track/5DsCl1RVwYK5hgBBDLwlKq"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "AFIM",
+        "url": "https://open.spotify.com/album/4gtQPnisgFKDkNEKTU74YJ"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+        }
+      ],
+      "duration_ms": 190092,
+      "name": "Transe",
+      "url": "https://open.spotify.com/track/6GagMYkmbSakx79Eta9RIh"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -947,6 +947,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "te quiero",
+        "url": "https://open.spotify.com/album/23hLGSkYcppnyp3QKW8Z7B"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        }
+      ],
+      "duration_ms": 215418,
+      "name": "te quiero",
+      "url": "https://open.spotify.com/track/3G00ACFE1MAfxyfbXOR8Ji"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Zeca Pagodinho - 40 Anos (Ao Vivo)",
         "url": "https://open.spotify.com/album/54TvGrplEW3aKHJuYUuN3r"
       },
@@ -983,18 +999,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "te quiero",
-        "url": "https://open.spotify.com/album/23hLGSkYcppnyp3QKW8Z7B"
+        "name": "Rea\u00e7\u00f5es Adversas / Ao Persistirem os Sintomas",
+        "url": "https://open.spotify.com/album/6by7zSKPD4Ah4yF42hdk98"
       },
       "artists": [
         {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+          "name": "T\u00f3 Brandileone",
+          "url": "https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
         }
       ],
-      "duration_ms": 215418,
-      "name": "te quiero",
-      "url": "https://open.spotify.com/track/3G00ACFE1MAfxyfbXOR8Ji"
+      "duration_ms": 189374,
+      "name": "Salto",
+      "url": "https://open.spotify.com/track/69doH8g7Bq4ZOBoBrsjXhD"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1015,26 +1035,6 @@
       "duration_ms": 233496,
       "name": "NASCENTE DA PAZ",
       "url": "https://open.spotify.com/track/6A0nMCXdLjWkwLxl5TtMmu"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "Rea\u00e7\u00f5es Adversas / Ao Persistirem os Sintomas",
-        "url": "https://open.spotify.com/album/6by7zSKPD4Ah4yF42hdk98"
-      },
-      "artists": [
-        {
-          "name": "T\u00f3 Brandileone",
-          "url": "https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "Salto",
-      "url": "https://open.spotify.com/track/69doH8g7Bq4ZOBoBrsjXhD"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "Transespacial",
+        "url": "https://open.spotify.com/album/5ad60ItCkVWina53xajH4n"
+      },
+      "artists": [
+        {
+          "name": "Fitti",
+          "url": "https://open.spotify.com/artist/4WMPe7u3avpvbGO9wzVdhk"
+        }
+      ],
+      "duration_ms": 175053,
+      "name": "Feliz e Triste",
+      "url": "https://open.spotify.com/track/32fsC0Q4bHACkTOja30D8A"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Hamilton de Holanda Trio - Live in NYC",
         "url": "https://open.spotify.com/album/3hhYEaJfx4hOOePCxlH3Yr"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 315110,
       "name": "Todo Dia \u00c9 Um Recome\u00e7o",
       "url": "https://open.spotify.com/track/6j96maxkfrAD7Z2wBNIDs7"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "Transespacial",
-        "url": "https://open.spotify.com/album/5ad60ItCkVWina53xajH4n"
-      },
-      "artists": [
-        {
-          "name": "Fitti",
-          "url": "https://open.spotify.com/artist/4WMPe7u3avpvbGO9wzVdhk"
-        }
-      ],
-      "duration_ms": 175053,
-      "name": "Feliz e Triste",
-      "url": "https://open.spotify.com/track/32fsC0Q4bHACkTOja30D8A"
     },
     {
       "added_at": "2025-09-17 15:00:09",

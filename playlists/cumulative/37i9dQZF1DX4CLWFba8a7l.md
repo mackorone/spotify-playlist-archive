@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: BOY SODA
 
-461 songs - 1 day 1 hr 39 min
+462 songs - 1 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,7 +428,7 @@
 | [Touchy Subject](https://open.spotify.com/track/5oquffCDI8BAXP7jBewlll) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Touchy Subject](https://open.spotify.com/album/7E6LnPGLCbh5yZMb5sjWEk) | 3:47 | 2024-05-31 | 2024-11-26 |
 | [Train Left The Station](https://open.spotify.com/track/2MRxpNwr8fccjiRMpa9zFA) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Caught in a Reverie](https://open.spotify.com/album/57mCFDpG3DjTa7LeD89Dsr) | 4:15 | 2024-05-31 | 2025-01-10 |
 | [Transactional Deal](https://open.spotify.com/track/7oOsr25JQYP7WbYiVrvImd) | [Charlie Collins](https://open.spotify.com/artist/2rEuydWE0WYRbI4YajHu9E) | [Transactional Deal](https://open.spotify.com/album/4WyxbPuZYUA7QaXQ79JFOl) | 4:16 | 2025-09-01 | 2025-09-05 |
-| [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 | 2024-05-31 |  |
+| [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 | 2024-05-31 | 2025-10-05 |
 | [Truth](https://open.spotify.com/track/4mSDOE2kImbodUtKFLmcqm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Truth](https://open.spotify.com/album/1PoebRqjvlN71Tjdwg6I37) | 3:27 | 2025-05-29 |  |
 | [Try Me](https://open.spotify.com/track/19z986PgphGLQvBEfYSrvU) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Try Me](https://open.spotify.com/album/673wPIH6WgkyhaM5bTfg35) | 3:12 | 2025-09-01 | 2025-09-05 |
 | [Tsunami](https://open.spotify.com/track/5ORGoLlRAtpEz9q7ztyS8I) | [The Moving Stills](https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w) | [Half Moon Bay](https://open.spotify.com/album/6ZNvHEDhXHfcjVDy7uBUIP) | 3:09 | 2025-07-03 | 2025-07-11 |
@@ -442,6 +442,7 @@
 | [Wake Up](https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Wake Up](https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo) | 2:04 | 2024-05-31 | 2025-04-09 |
 | [waltz](https://open.spotify.com/track/0WxQXx1MwC6LpIzEGZiQSE) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [waltz](https://open.spotify.com/album/48Ry2sdfkU5r4SHmaP9olC) | 2:43 | 2025-04-10 | 2025-05-30 |
 | [Want You Back](https://open.spotify.com/track/47ZgtovCo5c8I5QqAtXKiy) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Want You Back](https://open.spotify.com/album/0E5rDybP5sO4st8biXaOo3) | 3:03 | 2025-09-18 | 2025-09-26 |
+| [WARCRY](https://open.spotify.com/track/7GVpcXnj4dq0ozhiPKwWPm) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [LOST IN HEAVEN \(HIGH AS HELL\) \[Deluxe\]](https://open.spotify.com/album/6rcnUgf07ihw83jjuaCXfR) | 3:02 | 2025-10-02 |  |
 | [We Could Be Love](https://open.spotify.com/track/3y20RxZMr3wZMvhC78jc8O) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [We Could Be Love](https://open.spotify.com/album/4p3Eue4nXRORfFiID2811z) | 3:09 | 2024-05-31 | 2025-04-04 |
 | [We Don't Talk](https://open.spotify.com/track/3BDJ1n7LohxHw8wIYpkvym) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [We Don't Talk](https://open.spotify.com/album/5n48NAidkgRyAcgVPQwFO8) | 3:26 | 2025-03-27 | 2025-05-09 |
 | [What If](https://open.spotify.com/track/2QdMLzaL2uSoZv7zMfV78b) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [What If](https://open.spotify.com/album/2KLrMp7xcmaZ6KnJpIzJkG) | 3:38 | 2024-05-31 | 2024-11-08 |

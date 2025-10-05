@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 57080,
+  "num_followers": 57083,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAABYDiG2N4OoxkU8R/59vB4R",
+  "snapshot_id": "aN8SAAAAAAAam8aQO8oIKN3OjuadsAzc",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Beautiful Liar",
-        "url": "https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 185585,
-      "name": "My Own Monster",
-      "url": "https://open.spotify.com/track/6TOe5NPjsKmJpjEshXSvcs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Not Easy",
         "url": "https://open.spotify.com/album/4K6Zqkm3dZQncMmunPIl9O"
       },
@@ -491,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Beautiful Liar",
+        "url": "https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 185585,
+      "name": "My Own Monster",
+      "url": "https://open.spotify.com/track/6TOe5NPjsKmJpjEshXSvcs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Friend For Life (with Medium Build)",
         "url": "https://open.spotify.com/album/6QcE06gxBT4Son5ZgCzY0n"
       },
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Songs Drug Songs",
+        "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 321386,
+      "name": "Litost",
+      "url": "https://open.spotify.com/track/7HyvbdOddwXEGzKoLNxhKG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 287893,
       "name": "Bad Husband (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/3GOjD8hwXOxbTF3apTqSqX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Songs Drug Songs",
-        "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 321386,
-      "name": "Litost",
-      "url": "https://open.spotify.com/track/7HyvbdOddwXEGzKoLNxhKG"
     },
     {
       "added_at": null,

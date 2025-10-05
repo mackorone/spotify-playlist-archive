@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Geese
 
-[Spotify](https://open.spotify.com/user/spotify) - 814,073 likes - 141 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 813,943 likes - 141 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

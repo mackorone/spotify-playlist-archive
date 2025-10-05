@@ -1,12 +1,12 @@
 {
   "description": "This is Los Plebes del Rancho de Ariel Camacho. The essential tracks, all in one playlist.",
-  "num_followers": 163635,
+  "num_followers": 163664,
   "original_name": "This Is Los Plebes del Rancho de Ariel Camacho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAADfkNYN6MAvinTC3I2uVwVI",
+  "snapshot_id": "aN8SAAAAAADafKiLA9pomDsDjBEqGYsW",
   "tracks": [
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recordando A Una Leyenda",
-        "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 227986,
-      "name": "El Rey De Corazones",
-      "url": "https://open.spotify.com/track/2ICYrKS9mBUgV0yp3S5rWM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somos",
         "url": "https://open.spotify.com/album/2IqDvtglDJhlfbAzAhDnW4"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 171600,
       "name": "Somos",
       "url": "https://open.spotify.com/track/6NVZEdkIXr6acdEE9vWjkv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recordando A Una Leyenda",
+        "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 227986,
+      "name": "El Rey De Corazones",
+      "url": "https://open.spotify.com/track/2ICYrKS9mBUgV0yp3S5rWM"
     },
     {
       "added_at": null,
@@ -679,22 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duren",
-        "url": "https://open.spotify.com/album/3opbMuXUbqktLyqgZ0W7Cx"
+        "name": "Toro Encartado (En Vivo)",
+        "url": "https://open.spotify.com/album/7xBSPL05RobjeaUwj0bTMA"
       },
       "artists": [
         {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+          "name": "Hijos De Barron",
+          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
         },
         {
           "name": "Los Plebes del Rancho de Ariel Camacho",
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 190423,
-      "name": "Duren",
-      "url": "https://open.spotify.com/track/11Hyc6dj7gEuTobhK9HDWa"
+      "duration_ms": 218771,
+      "name": "Toro Encartado - En Vivo",
+      "url": "https://open.spotify.com/track/2uqioTIH7tswiDWK23nrwe"
     },
     {
       "added_at": null,
@@ -715,22 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toro Encartado (En Vivo)",
-        "url": "https://open.spotify.com/album/7xBSPL05RobjeaUwj0bTMA"
+        "name": "Duren",
+        "url": "https://open.spotify.com/album/3opbMuXUbqktLyqgZ0W7Cx"
       },
       "artists": [
         {
-          "name": "Hijos De Barron",
-          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
         },
         {
           "name": "Los Plebes del Rancho de Ariel Camacho",
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 218771,
-      "name": "Toro Encartado - En Vivo",
-      "url": "https://open.spotify.com/track/2uqioTIH7tswiDWK23nrwe"
+      "duration_ms": 190423,
+      "name": "Duren",
+      "url": "https://open.spotify.com/track/11Hyc6dj7gEuTobhK9HDWa"
     },
     {
       "added_at": null,
@@ -851,22 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cosas del Olvido",
-        "url": "https://open.spotify.com/album/2Q95jEf6GLOANI2jHaa0Nj"
+        "name": "El Rey del Corrido: Ayer, Hoy y Siempre, Vol. 1",
+        "url": "https://open.spotify.com/album/3j0SuYEsquaXM4ShuqjgLl"
       },
       "artists": [
         {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
         },
         {
           "name": "Los Plebes del Rancho de Ariel Camacho",
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 178040,
-      "name": "Cosas del Olvido",
-      "url": "https://open.spotify.com/track/7pAErCAyqljlxLXvGIjNQY"
+      "duration_ms": 234240,
+      "name": "Cu\u00e9ntame Tus Penas",
+      "url": "https://open.spotify.com/track/0nV0bBujp9cSXnTMlFqOW0"
     }
   ],
   "unique_name": "This Is Los Plebes del Rancho de Ariel Camacho",

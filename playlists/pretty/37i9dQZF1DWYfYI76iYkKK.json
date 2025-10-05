@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 130197,
+  "num_followers": 130198,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2025-10-02 16:00:37",
       "album": {
-        "name": "Miserable",
-        "url": "https://open.spotify.com/album/4207P6ZEsU5nqCCHRhBUcA"
-      },
-      "artists": [
-        {
-          "name": "Vicky Chen",
-          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
-        }
-      ],
-      "duration_ms": 193693,
-      "name": "Miserable",
-      "url": "https://open.spotify.com/track/2hRVNcJYwOHEXZJPMJUuEz"
-    },
-    {
-      "added_at": "2025-10-02 16:00:37",
-      "album": {
         "name": "Almost \u5e7e\u4e4e\u662f\u611b\u60c5",
         "url": "https://open.spotify.com/album/579BRjoSe2Xj9dB5gP0D8O"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 253728,
       "name": "\u5e7e\u4e4e\u662f\u611b\u60c5",
       "url": "https://open.spotify.com/track/2dbWZvUkVW7ahyIO7UYUxs"
+    },
+    {
+      "added_at": "2025-10-02 16:00:37",
+      "album": {
+        "name": "Miserable",
+        "url": "https://open.spotify.com/album/4207P6ZEsU5nqCCHRhBUcA"
+      },
+      "artists": [
+        {
+          "name": "Vicky Chen",
+          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
+        }
+      ],
+      "duration_ms": 193693,
+      "name": "Miserable",
+      "url": "https://open.spotify.com/track/2hRVNcJYwOHEXZJPMJUuEz"
     },
     {
       "added_at": "2025-10-02 16:00:37",
@@ -271,22 +271,6 @@
     {
       "added_at": "2025-10-02 16:00:37",
       "album": {
-        "name": "Hai Cheng",
-        "url": "https://open.spotify.com/album/0pvUzcbKZAlIQYrbaVRLXb"
-      },
-      "artists": [
-        {
-          "name": "THE 8",
-          "url": "https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk"
-        }
-      ],
-      "duration_ms": 232426,
-      "name": "Hai Cheng",
-      "url": "https://open.spotify.com/track/3kBfE92drjZEgYffx22zbl"
-    },
-    {
-      "added_at": "2025-10-02 16:00:37",
-      "album": {
         "name": "\u505a\u6211\u7684\u521d\u6200\uff08\u7d14\u611b\u4e0d\u63d2\u96fb\uff09",
         "url": "https://open.spotify.com/album/6c7wFSp80wogFSImEgRSK5"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 197954,
       "name": "\u505a\u6211\u7684\u521d\u6200 (\u7d14\u611b\u4e0d\u63d2\u96fb)",
       "url": "https://open.spotify.com/track/0QTVDDZFhLRyFKqgmphkms"
+    },
+    {
+      "added_at": "2025-10-02 16:00:37",
+      "album": {
+        "name": "Hai Cheng",
+        "url": "https://open.spotify.com/album/0pvUzcbKZAlIQYrbaVRLXb"
+      },
+      "artists": [
+        {
+          "name": "THE 8",
+          "url": "https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk"
+        }
+      ],
+      "duration_ms": 232426,
+      "name": "Hai Cheng",
+      "url": "https://open.spotify.com/track/3kBfE92drjZEgYffx22zbl"
     },
     {
       "added_at": "2025-10-02 16:00:37",
@@ -339,22 +339,6 @@
     {
       "added_at": "2025-10-02 16:00:37",
       "album": {
-        "name": "\u4f60\u6703\u4f86\u770b\u6211\u55ce\uff1f",
-        "url": "https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC"
-      },
-      "artists": [
-        {
-          "name": "Firdhaus",
-          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
-        }
-      ],
-      "duration_ms": 221073,
-      "name": "\u4f60\u6703\u4f86\u770b\u6211\u55ce\uff1f",
-      "url": "https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4"
-    },
-    {
-      "added_at": "2025-10-02 16:00:37",
-      "album": {
         "name": "\u541b",
         "url": "https://open.spotify.com/album/3nsFQo4sPQ9XbZxMsh9Oed"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 168471,
       "name": "\u541b",
       "url": "https://open.spotify.com/track/4XLW8SQNciud0pTp7Urj49"
+    },
+    {
+      "added_at": "2025-10-02 16:00:37",
+      "album": {
+        "name": "\u4f60\u6703\u4f86\u770b\u6211\u55ce\uff1f",
+        "url": "https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "duration_ms": 221073,
+      "name": "\u4f60\u6703\u4f86\u770b\u6211\u55ce\uff1f",
+      "url": "https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4"
     },
     {
       "added_at": "2025-10-02 16:00:37",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-10-02 16:00:37",
       "album": {
-        "name": "\u8327Jian",
-        "url": "https://open.spotify.com/album/7w8cW1IqQCo8xKhXmG6313"
-      },
-      "artists": [
-        {
-          "name": "Wang OK",
-          "url": "https://open.spotify.com/artist/21QQNTzqULHjiaDKaZepRP"
-        }
-      ],
-      "duration_ms": 199282,
-      "name": "\u8327Jian",
-      "url": "https://open.spotify.com/track/5AtzX2REgyt6hgduniGMZX"
-    },
-    {
-      "added_at": "2025-10-02 16:00:37",
-      "album": {
         "name": "\u7b49\u5f85\u4f60\u90a3\u5929",
         "url": "https://open.spotify.com/album/5UqskmXa3TihM95voWWhTw"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 240285,
       "name": "\u7b49\u5f85\u4f60\u90a3\u5929",
       "url": "https://open.spotify.com/track/7EXbutggsR2KP5klyOZeE0"
+    },
+    {
+      "added_at": "2025-10-02 16:00:37",
+      "album": {
+        "name": "\u8327Jian",
+        "url": "https://open.spotify.com/album/7w8cW1IqQCo8xKhXmG6313"
+      },
+      "artists": [
+        {
+          "name": "Wang OK",
+          "url": "https://open.spotify.com/artist/21QQNTzqULHjiaDKaZepRP"
+        }
+      ],
+      "duration_ms": 199282,
+      "name": "\u8327Jian",
+      "url": "https://open.spotify.com/track/5AtzX2REgyt6hgduniGMZX"
     },
     {
       "added_at": "2025-10-02 16:00:37",
@@ -687,6 +687,22 @@
     {
       "added_at": "2025-10-02 16:00:37",
       "album": {
+        "name": "T.I.A.",
+        "url": "https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi"
+      },
+      "artists": [
+        {
+          "name": "TIA RAY",
+          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
+        }
+      ],
+      "duration_ms": 234828,
+      "name": "\u65c5\u884c\u4e2d\u5fd8\u8a18",
+      "url": "https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA"
+    },
+    {
+      "added_at": "2025-10-02 16:00:37",
+      "album": {
         "name": "\u518a\u8449\u4e00\uff1a\u4e00\u8207\u4e00",
         "url": "https://open.spotify.com/album/3rF6e6T98lg8usUISr18oG"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": "2025-10-02 16:00:37",
       "album": {
-        "name": "T.I.A.",
-        "url": "https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi"
-      },
-      "artists": [
-        {
-          "name": "TIA RAY",
-          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
-        }
-      ],
-      "duration_ms": 234828,
-      "name": "\u65c5\u884c\u4e2d\u5fd8\u8a18",
-      "url": "https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA"
-    },
-    {
-      "added_at": "2025-10-02 16:00:37",
-      "album": {
         "name": "\u8f38\u60c5\u6b4c",
         "url": "https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 224653,
       "name": "\u8f38\u60c5\u6b4c",
       "url": "https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8"
-    },
-    {
-      "added_at": "2025-10-02 16:00:37",
-      "album": {
-        "name": "\u9752\u7a7a\u672a\u4f86",
-        "url": "https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR"
-      },
-      "artists": [
-        {
-          "name": "Ashin Chen",
-          "url": "https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb"
-        }
-      ],
-      "duration_ms": 255438,
-      "name": "\u9752\u7a7a\u672a\u4f86",
-      "url": "https://open.spotify.com/track/7iZy5sCDT5VkqEYBKy0DTU"
     },
     {
       "added_at": "2025-10-02 16:00:37",
@@ -783,6 +767,38 @@
     {
       "added_at": "2025-10-02 16:00:37",
       "album": {
+        "name": "\u9752\u7a7a\u672a\u4f86",
+        "url": "https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR"
+      },
+      "artists": [
+        {
+          "name": "Ashin Chen",
+          "url": "https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb"
+        }
+      ],
+      "duration_ms": 255438,
+      "name": "\u9752\u7a7a\u672a\u4f86",
+      "url": "https://open.spotify.com/track/7iZy5sCDT5VkqEYBKy0DTU"
+    },
+    {
+      "added_at": "2025-10-02 16:00:37",
+      "album": {
+        "name": "\u5d4c\u5165\u751f\u9577",
+        "url": "https://open.spotify.com/album/4WzTaRTT9piXbAzXyYIXvN"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u6728",
+          "url": "https://open.spotify.com/artist/45aOa6C5ieGIXh7yExsvVl"
+        }
+      ],
+      "duration_ms": 233949,
+      "name": "\u5074\u81c9",
+      "url": "https://open.spotify.com/track/37bdVVPemdUmN8FTqQXWYz"
+    },
+    {
+      "added_at": "2025-10-02 16:00:37",
+      "album": {
         "name": "Say You\u2019re Sorry",
         "url": "https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 136400,
       "name": "Say You\u2019re Sorry",
       "url": "https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S"
-    },
-    {
-      "added_at": "2025-10-02 16:00:37",
-      "album": {
-        "name": "\u6211\u559c\u6b61\u6211",
-        "url": "https://open.spotify.com/album/6LznfHadflUwKQhyVPdOYy"
-      },
-      "artists": [
-        {
-          "name": "Zen \u4fca\u5029",
-          "url": "https://open.spotify.com/artist/07nkXNC5TYJ4N2J6JvKgMH"
-        }
-      ],
-      "duration_ms": 184553,
-      "name": "\u6211\u559c\u6b61\u6211",
-      "url": "https://open.spotify.com/track/6xSTphVc86dhex73ZryENf"
     },
     {
       "added_at": "2025-10-02 16:00:37",

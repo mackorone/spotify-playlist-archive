@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbeVBg6r355b.md) - [plain]
 
 > Sleep deeper with soft and seamless white noise
 
-[Spotify](https://open.spotify.com/user/spotify) - 219 likes - 73 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 238 likes - 73 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbeVBg6r355b.md) - [plain]
 | 33 | [Relieving White Noise](https://open.spotify.com/track/1oVhQrMOQcOXEeerrJVdIA) | [It Can Be Done](https://open.spotify.com/artist/5rEZYkp7IH0CYH0bLaEhrj) | [Relieving White Noise](https://open.spotify.com/album/6uGJ3BwNRAUhAipQU6x2H8) | 3:11 |
 | 34 | [Brilliant White Noise](https://open.spotify.com/track/5exbKZfn8JHmSqbe0kAp3m) | [Freifall](https://open.spotify.com/artist/4XPPLTZjMkxbXSa3lVaUte) | [Brilliant White Noise](https://open.spotify.com/album/7a0pnsC2Ee9CVeoE2KDec7) | 4:35 |
 | 35 | [White Noise at Dusk](https://open.spotify.com/track/5rD8MfmFYDHZy8aU3S7LiD) | [High Above The Clouds](https://open.spotify.com/artist/0TGwwqBPOAEsrEQKOT2FVY) | [White Noise at Dusk](https://open.spotify.com/album/21niuXkAmgfLgbmtXc1hKs) | 3:57 |
-| 36 | [Antarctic White Noise](https://open.spotify.com/track/05nvjxsga5amL2Y6Kjd3gH) | [Sitting in Sound](https://open.spotify.com/artist/6VDvCWzqiYZexctS7vtTvO) | [Antarctic White Noise](https://open.spotify.com/album/5CyPkA90oE5l1fpTGsP8Tc) | 4:20 |
+| 36 | [Antarctic White Noise](https://open.spotify.com/track/05nvjxsga5amL2Y6Kjd3gH) | [Sky Eyes](https://open.spotify.com/artist/6fqTWU9DusNSJHHmrUJfFg) | [Antarctic White Noise](https://open.spotify.com/album/5CyPkA90oE5l1fpTGsP8Tc) | 4:20 |
 | 37 | [White Noise Time Travel](https://open.spotify.com/track/2I4Km7dgwPhBAOBv2BoFCN) | [World Recorders](https://open.spotify.com/artist/1kG5S2MLYLuZUFlQb72rxE) | [White Noise Time Travel](https://open.spotify.com/album/2ub7RpOd2j3PGU4P45UiNl) | 4:40 |
 | 38 | [White Arctic Noise](https://open.spotify.com/track/7DbUDCoC1XwQ3Xq4R1Nf8T) | [Focus Noise](https://open.spotify.com/artist/15nL9hF1vK3mHTqpV9Z2jP) | [Fluffy Winds](https://open.spotify.com/album/11utgFeLO1G1HZsyPEaj6U) | 2:45 |
 | 39 | [Sleeping Winds](https://open.spotify.com/track/1HY5hiKQhtp0rBqeclaakw) | [Hybrid Treasure](https://open.spotify.com/artist/5A8KqUhcyeE6FIGkTADd2J) | [White Glaciers](https://open.spotify.com/album/2bTdS9sOhMXyiIwe6B9Hz3) | 2:52 |

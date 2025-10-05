@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrBZDtTtSeK.md) - [plain]
 
 > The official playlist for the GIANTS show with the Dean collection, opening in Minneapolis on March 7th\. Get your tickets<a href="https://tickets.artsmia.org/events/01934052\-e7dc\-337b\-b9f3\-e4216feb4d0e"> here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,893 likes - 69 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,894 likes - 69 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrBZDtTtSeK.md) - [plain]
 | 34 | [Me x 7 \(feat\. Tierra Whack\)](https://open.spotify.com/track/4HWhqsHKli9ujBAFVabKuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:32 |
 | 35 | [Empire State of Mind \(Part II\) Broken Down](https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 3:36 |
 | 36 | [Jesus Lord](https://open.spotify.com/track/1LwdWIbfuqlOo8vlHxkyna) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 8:58 |
-| 37 | [The Blinding feat\. Travis Scott](https://open.spotify.com/track/3tnJIJVNuVziKgY38J2HZP) | [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [A Written Testimony](https://open.spotify.com/album/0ZJt4dCoI19u71k37E1nQu) | 2:48 |
+| 37 | [The Blinding feat\. Travis Scott](https://open.spotify.com/track/3tnJIJVNuVziKgY38J2HZP) | [J A Y E L E C T R O N I C A](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [A Written Testimony](https://open.spotify.com/album/0ZJt4dCoI19u71k37E1nQu) | 2:48 |
 | 38 | [Uproar](https://open.spotify.com/track/3wScL5W8H40zzCKN0atfBk) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [Tha Carter V](https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg) | 3:14 |
 | 39 | [Ruff Ryders' Anthem](https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [It's Dark And Hell Is Hot](https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc) | 3:34 |
 | 40 | [Banned From TV](https://open.spotify.com/track/3Z1FMx6MCNgPKRWUcCUAAE) | [Noreaga](https://open.spotify.com/artist/2GqgiChw79vIYobk2zJFsO), [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Cam'Ron](https://open.spotify.com/artist/6f8Z5hf3WFDKHWh2MgfeMR), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Nature](https://open.spotify.com/artist/6hOMsNrEKV7FzQpypeZGf5), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [N.O.R.E](https://open.spotify.com/album/1aFS9Pa88Gl3QH1gNNVyzR) | 5:12 |

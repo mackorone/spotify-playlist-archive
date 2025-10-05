@@ -1173,6 +1173,28 @@
     },
     {
       "album": {
+        "name": "Inv\u00e9ntame Un Amor",
+        "url": "https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Mariachi Santa Mar\u00eda",
+          "url": "https://open.spotify.com/artist/54oub6uzta6IHPRNCQlttQ"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200353,
+      "name": "Llorando Una Pena",
+      "url": "https://open.spotify.com/track/7hAsVEHdN6ZNFVFl0uhey6"
+    },
+    {
+      "album": {
         "name": "Sinverg\u00fcenza Y Mujeriego",
         "url": "https://open.spotify.com/album/6FIw4o8zKTXt6PzrTJK5mo"
       },
@@ -2314,7 +2336,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 184426,
       "name": "Por Cabr\u00f3n",
       "url": "https://open.spotify.com/track/50a22wMk5E1AfKMiZeK7ns"

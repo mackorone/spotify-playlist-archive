@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 615981,
+  "num_followers": 615953,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
+        "name": "80's",
+        "url": "https://open.spotify.com/album/6FPJRjSJpm6dDcgKOS0dOV"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "80's",
+      "url": "https://open.spotify.com/track/2cGlzTR9gC93lc12cZ8afB"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
         "name": "First Heartbreak",
         "url": "https://open.spotify.com/album/1QGOpJ2KxpQ4TryPQfPq9n"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 180486,
       "name": "First Heartbreak",
       "url": "https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
-        "name": "Hus utan speglar",
-        "url": "https://open.spotify.com/album/5Df3GkRmprbUE1c4SDVmVe"
-      },
-      "artists": [
-        {
-          "name": "Peg Parnevik",
-          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
-        }
-      ],
-      "duration_ms": 164531,
-      "name": "Hus utan speglar",
-      "url": "https://open.spotify.com/track/5HlqlmK2aXj8yGuzqxlYxE"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -855,50 +855,18 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "80's",
-        "url": "https://open.spotify.com/album/6FPJRjSJpm6dDcgKOS0dOV"
+        "name": "Hus utan speglar",
+        "url": "https://open.spotify.com/album/5Df3GkRmprbUE1c4SDVmVe"
       },
       "artists": [
         {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+          "name": "Peg Parnevik",
+          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
         }
       ],
-      "duration_ms": 210500,
-      "name": "80's",
-      "url": "https://open.spotify.com/track/2cGlzTR9gC93lc12cZ8afB"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
-        "name": "Middle Ground",
-        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 219800,
-      "name": "Middle Ground",
-      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
-        "name": "Utan dina andetag - Spotify Singles",
-        "url": "https://open.spotify.com/album/3x3NE0VAzGPbsPuqqVQhmI"
-      },
-      "artists": [
-        {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
-        }
-      ],
-      "duration_ms": 204913,
-      "name": "Utan dina andetag - Spotify Singles",
-      "url": "https://open.spotify.com/track/4bLVAX1N6G8e3Lpq7rwIFm"
+      "duration_ms": 164531,
+      "name": "Hus utan speglar",
+      "url": "https://open.spotify.com/track/5HlqlmK2aXj8yGuzqxlYxE"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -919,6 +887,38 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
+        "name": "Utan dina andetag - Spotify Singles",
+        "url": "https://open.spotify.com/album/3x3NE0VAzGPbsPuqqVQhmI"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "duration_ms": 204913,
+      "name": "Utan dina andetag - Spotify Singles",
+      "url": "https://open.spotify.com/track/4bLVAX1N6G8e3Lpq7rwIFm"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
+        "name": "Middle Ground",
+        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Middle Ground",
+      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
         "name": "En del av dig (From the Netflix film \"A Part Of You\")",
         "url": "https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ"
       },
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "The Best Is Yet to Come",
-        "url": "https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS"
-      },
-      "artists": [
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "The Best Is Yet to Come",
-      "url": "https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
         "name": "Det sista jag beh\u00f6ver",
         "url": "https://open.spotify.com/album/7mXhFByOKqVfAM8TxYMX9M"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 174376,
       "name": "Det sista jag beh\u00f6ver",
       "url": "https://open.spotify.com/track/2nZMFrdnV0AxKlRvXbsDYX"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
+        "name": "The Best Is Yet to Come",
+        "url": "https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "The Best Is Yet to Come",
+      "url": "https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Better Man",
-        "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 192130,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
         "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
         "url": "https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl"
       },
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Do You Haunt Me",
-        "url": "https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3"
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
       },
       "artists": [
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
         }
       ],
-      "duration_ms": 193155,
-      "name": "Do You Haunt Me",
-      "url": "https://open.spotify.com/track/2ADlSEarDUKjsnuMMPgnak"
+      "duration_ms": 192130,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "House On Fire",
-        "url": "https://open.spotify.com/album/0mYcvsaGweNUTm4HoifK5O"
+        "name": "Do You Haunt Me",
+        "url": "https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3"
       },
       "artists": [
         {
-          "name": "Linda Elys",
-          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 179561,
-      "name": "House On Fire",
-      "url": "https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K"
+      "duration_ms": 193155,
+      "name": "Do You Haunt Me",
+      "url": "https://open.spotify.com/track/2ADlSEarDUKjsnuMMPgnak"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Home Is You",
-        "url": "https://open.spotify.com/album/3bQZIh4luskfXT2Ev9o4QA"
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/0mYcvsaGweNUTm4HoifK5O"
       },
       "artists": [
         {
-          "name": "Jon Wiilde",
-          "url": "https://open.spotify.com/artist/3bqHSYVBMI0gs3v86080ZT"
+          "name": "Linda Elys",
+          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
         }
       ],
-      "duration_ms": 195509,
-      "name": "Home Is You",
-      "url": "https://open.spotify.com/track/1G4vlm1c1Ai9ORbdO6fR0W"
+      "duration_ms": 179561,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
+        "name": "Home Is You",
+        "url": "https://open.spotify.com/album/3bQZIh4luskfXT2Ev9o4QA"
+      },
+      "artists": [
+        {
+          "name": "Jon Wiilde",
+          "url": "https://open.spotify.com/artist/3bqHSYVBMI0gs3v86080ZT"
+        }
+      ],
+      "duration_ms": 195509,
+      "name": "Home Is You",
+      "url": "https://open.spotify.com/track/1G4vlm1c1Ai9ORbdO6fR0W"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
         "name": "Angel Face",
         "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
       },
@@ -1195,6 +1195,22 @@
       "duration_ms": 232277,
       "name": "Doesn\u2019t Do Me Any Good",
       "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
+        "name": "Row Your Boat",
+        "url": "https://open.spotify.com/album/4LSD9CPFBbfpqu3Pc99RA8"
+      },
+      "artists": [
+        {
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        }
+      ],
+      "duration_ms": 175030,
+      "name": "Row Your Boat",
+      "url": "https://open.spotify.com/track/3WXGdXrITAcaMUQiZuu04n"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -1215,22 +1231,6 @@
       "duration_ms": 145622,
       "name": "Scissors",
       "url": "https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
-        "name": "Row Your Boat",
-        "url": "https://open.spotify.com/album/4LSD9CPFBbfpqu3Pc99RA8"
-      },
-      "artists": [
-        {
-          "name": "Peder Elias",
-          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
-        }
-      ],
-      "duration_ms": 175030,
-      "name": "Row Your Boat",
-      "url": "https://open.spotify.com/track/3WXGdXrITAcaMUQiZuu04n"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Kite (Acoustic)",
-        "url": "https://open.spotify.com/album/5WdVCItE0te2sT4DwwvByd"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        },
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 149996,
-      "name": "Kite - Acoustic",
-      "url": "https://open.spotify.com/track/3N7Xj01q72fQczJlpJyD78"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
         "name": "And The Story Goes",
         "url": "https://open.spotify.com/album/24dwnbZy3cgTOi9pYavlv9"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 275326,
       "name": "H\u00e4nderna Mot Himlen - Acoustic",
       "url": "https://open.spotify.com/track/3dBmqkxFJ9qECnyky9YDp2"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
+        "name": "Kite (Acoustic)",
+        "url": "https://open.spotify.com/album/5WdVCItE0te2sT4DwwvByd"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        },
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 149996,
+      "name": "Kite - Acoustic",
+      "url": "https://open.spotify.com/track/3N7Xj01q72fQczJlpJyD78"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -1405,22 +1405,6 @@
       "url": "https://open.spotify.com/track/4G8dAXp2XdDch2cVILY6IB"
     },
     {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
-        "name": "Act 4: Atonement",
-        "url": "https://open.spotify.com/album/7BBJypdDRXvdYsnGDjrHFD"
-      },
-      "artists": [
-        {
-          "name": "Mon Rov\u00eea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
-        }
-      ],
-      "duration_ms": 174250,
-      "name": "Dead Man Walking.",
-      "url": "https://open.spotify.com/track/4hpvKryuaU4CMcyqlahOyj"
-    },
-    {
       "added_at": "2025-08-21 22:00:22",
       "album": {
         "name": "Show Me Something",
@@ -1435,6 +1419,22 @@
       "duration_ms": 215975,
       "name": "Show Me Something",
       "url": "https://open.spotify.com/track/2iRwKG094cE0wbj3PA94Xz"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
+        "name": "Act 4: Atonement",
+        "url": "https://open.spotify.com/album/7BBJypdDRXvdYsnGDjrHFD"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "duration_ms": 174250,
+      "name": "Dead Man Walking.",
+      "url": "https://open.spotify.com/track/4hpvKryuaU4CMcyqlahOyj"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
+        "name": "Oh Daughters",
+        "url": "https://open.spotify.com/album/0AS2q4m3CykbM5xFiJgA4G"
+      },
+      "artists": [
+        {
+          "name": "Moa Lignell",
+          "url": "https://open.spotify.com/artist/0HrcSCqklP5G1QFHrIiztO"
+        }
+      ],
+      "duration_ms": 302500,
+      "name": "Daughters",
+      "url": "https://open.spotify.com/track/0QvBbxPRfekbg8hYFMO0nL"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
         "name": "Heaven (Acoustic)",
         "url": "https://open.spotify.com/album/2BVa3nSaQSubIwgKYEtXka"
       },
@@ -1487,18 +1503,18 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Oh Daughters",
-        "url": "https://open.spotify.com/album/0AS2q4m3CykbM5xFiJgA4G"
+        "name": "L\u00e5ngsamt (Piano Version)",
+        "url": "https://open.spotify.com/album/6SJ8e1Hxk740wDgmoyhmPk"
       },
       "artists": [
         {
-          "name": "Moa Lignell",
-          "url": "https://open.spotify.com/artist/0HrcSCqklP5G1QFHrIiztO"
+          "name": "Klaudy",
+          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
         }
       ],
-      "duration_ms": 302500,
-      "name": "Daughters",
-      "url": "https://open.spotify.com/track/0QvBbxPRfekbg8hYFMO0nL"
+      "duration_ms": 193253,
+      "name": "L\u00e5ngsamt - Piano Version",
+      "url": "https://open.spotify.com/track/0JBRQRXAj1Z7nBY0iwpW1G"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -1535,18 +1551,18 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "L\u00e5ngsamt (Piano Version)",
-        "url": "https://open.spotify.com/album/6SJ8e1Hxk740wDgmoyhmPk"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
       },
       "artists": [
         {
-          "name": "Klaudy",
-          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 193253,
-      "name": "L\u00e5ngsamt - Piano Version",
-      "url": "https://open.spotify.com/track/0JBRQRXAj1Z7nBY0iwpW1G"
+      "duration_ms": 240277,
+      "name": "Airplane",
+      "url": "https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -1563,22 +1579,6 @@
       "duration_ms": 231907,
       "name": "logical",
       "url": "https://open.spotify.com/track/3dKYak9dKL8YeHx5jMokoP"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 240277,
-      "name": "Airplane",
-      "url": "https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Slow Running",
-        "url": "https://open.spotify.com/album/5YCkmTgvykc6JFbvT5NlZF"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 262205,
-      "name": "Slow Running",
-      "url": "https://open.spotify.com/track/6qg7RK7REbNVr9eOqPZ8zH"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
         "name": "Wish (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 173306,
       "name": "A Wish Worth Making",
       "url": "https://open.spotify.com/track/0uan47LDD0HMob7n3UMkZd"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
+        "name": "Slow Running",
+        "url": "https://open.spotify.com/album/5YCkmTgvykc6JFbvT5NlZF"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 262205,
+      "name": "Slow Running",
+      "url": "https://open.spotify.com/track/6qg7RK7REbNVr9eOqPZ8zH"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Mercedes",
-        "url": "https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS"
+        "name": "Som i en dr\u00f6m",
+        "url": "https://open.spotify.com/album/2YDfyyMmwnKaGVHUBn08cM"
       },
       "artists": [
         {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+          "name": "Herman Silow",
+          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
         }
       ],
-      "duration_ms": 173000,
-      "name": "It's a Beautiful Dream",
-      "url": "https://open.spotify.com/track/2GNv0P8RpZeqpe2rr8AUzh"
+      "duration_ms": 145568,
+      "name": "Fr\u00e5n & med nu",
+      "url": "https://open.spotify.com/track/4xpRrrshnyEM4UMiAOMOzG"
     }
   ],
   "unique_name": "Lugnt & Sk\u00f6nt",

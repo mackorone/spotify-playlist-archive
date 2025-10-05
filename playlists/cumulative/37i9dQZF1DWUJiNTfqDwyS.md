@@ -4,7 +4,7 @@
 
 > A collection of the best Metal covers out there\. Cover: Lamb of God
 
-211 songs - 14 hr 48 min
+212 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Bulls on Parade](https://open.spotify.com/track/6gSfKul1glsUVY5MU7Kpgx) | [Andrew Baena](https://open.spotify.com/artist/31Jtwuc3XU8MypjID0ZuIm), [Johnny Ciardullo](https://open.spotify.com/artist/7567HDjus3OchzVOdkLnDX) | [Bulls on Parade](https://open.spotify.com/album/7tHei16hRcsEEjn6rxmPkM) | 3:41 | 2022-05-25 | 2022-07-20 |
 | [Carry on a Wayward Son](https://open.spotify.com/track/6YvqkiySh1NoVCvkYxfNXK) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [For All Kings \(Deluxe\)](https://open.spotify.com/album/4V0U4SYEZX0tmBw6fnca3h) | 5:24 | 2022-06-13 | 2023-02-20 |
 | [Carry on Wayward Son](https://open.spotify.com/track/1FxosQH33P76OcBR4HcPMh) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Leftoverthrax](https://open.spotify.com/album/09r0W7tapAmT4AL2RJeVL0) | 5:24 | 2022-05-25 | 2022-07-29 |
-| [Cars \- Remix](https://open.spotify.com/track/5gp7nuCjOwI79WfO65di78) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Obsolete \(Special Edition\)](https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN) | 3:38 | 2022-05-25 |  |
+| [Cars \- Remix](https://open.spotify.com/track/5gp7nuCjOwI79WfO65di78) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Obsolete \(Special Edition\)](https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN) | 3:38 | 2022-05-25 | 2025-10-05 |
 | [Children of the Grave](https://open.spotify.com/track/5pdb4UFAWnuiepRAyAUvsd) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Children of the Grave](https://open.spotify.com/album/2josSbpUs4UMzSoCVcXRau) | 4:47 | 2025-08-15 |  |
 | [Children Of The Grave](https://open.spotify.com/track/7eEHTD3EEevRKoLj7RwbYn) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Nativity In Black: A Tribute To Black Sabbath](https://open.spotify.com/album/3UlxkwnznivcfY2FdxsnSu) | 5:49 | 2022-05-25 | 2023-02-20 |
 | [Chop Suey!](https://open.spotify.com/track/37SgiDGQSiUTQXZo2Ml888) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Chop Suey!](https://open.spotify.com/album/0TkVuK1bb6hvlJOjZlV80i) | 3:38 | 2022-05-25 | 2023-02-20 |
@@ -88,6 +88,7 @@
 | [How It's Done](https://open.spotify.com/track/5IXGxvewBsrfHtfym01YfL) | [Andrew Baena](https://open.spotify.com/artist/31Jtwuc3XU8MypjID0ZuIm), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX), [Phasestep](https://open.spotify.com/artist/0pJjEJ9Nr9LP0Ioq8hH9f3) | [How It's Done](https://open.spotify.com/album/64ubOftES7s24r5sMpraAb) | 2:54 | 2025-08-01 |  |
 | [Hunting High and Low](https://open.spotify.com/track/15W0PcvB3DWsgbvWLsYU5A) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [Hunting High and Low](https://open.spotify.com/album/6Q564q0CmThXMx6rGrqPEf) | 4:37 | 2022-05-25 | 2023-02-20 |
 | [I Knew You Were Trouble](https://open.spotify.com/track/4LtWzWV22RQJI8fCtPVunn) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Punk Goes Pop, Vol\. 6](https://open.spotify.com/album/1l6S45U20fiob98cV6siw8) | 3:38 | 2023-08-23 | 2024-04-19 |
+| [I Like To Move It](https://open.spotify.com/track/3Luyg3EECRaFlViwU9h37Z) | [Kontrust](https://open.spotify.com/artist/3sQVICf0Bhikl5tlBQSU6W) | [I Like To Move It](https://open.spotify.com/album/5USFwzTNOyGHOURbBbTd7S) | 3:31 | 2025-10-03 |  |
 | [I Only Wanna Be With You](https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [The Strength / The Sound / The Songs](https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5) | 2:44 | 2023-02-19 | 2024-04-19 |
 | [I Wanna Be Somebody](https://open.spotify.com/track/47XVdpZtKkmBIjIbWNsKOU) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [I Wanna Be Somebody](https://open.spotify.com/album/3wQukIxRxaLwzScXyz6YAf) | 3:42 | 2025-09-19 | 2025-09-27 |
 | [If You Want Blood \(You Got It\)](https://open.spotify.com/track/6TWhvdum4pJxzka53znStD) | [Gwar](https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt) | [The Blood of Gods](https://open.spotify.com/album/4Ps3txaybLW14aDROZ48sL) | 5:05 | 2022-05-25 | 2023-02-20 |

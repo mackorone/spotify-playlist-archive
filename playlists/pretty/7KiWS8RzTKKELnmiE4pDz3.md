@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 335 songs - 19 hr 9 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 336 songs - 19 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -343,5 +343,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 333 | [Tease \(feat\. Pharrell\)](https://open.spotify.com/track/2xyRZ1lxkW5cXDTRt4bT9o) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Hollywood: A Story of a Dozen Roses \(Deluxe Version\)](https://open.spotify.com/album/79EyqF9taW9XFPKci2U5D9) | 2:55 |
 | 334 | [Comfort Me](https://open.spotify.com/track/3dAk7Z16rv38qRM3MIhCIX) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Comfort Me](https://open.spotify.com/album/2TBDKykLi4elMrJAfU2qhT) | 2:51 |
 | 335 | [She's Not Me](https://open.spotify.com/track/5lAXP9ChewjNQtf30LU9R6) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Hard Candy](https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu) | 6:04 |
+| 336 | [Bottled Violence](https://open.spotify.com/track/5JhZWM8gnhG3FywK8mckZX) | [Minor Threat](https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf) | [First Two Seven Inches](https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy) | 0:54 |
 
-Snapshot ID: `AAAfGO3lue5gBD9uW4kjS8AeaUehZnra`
+Snapshot ID: `AAAfGd+Jj6BrfDVI60O1fTMnaUOR5WGF`

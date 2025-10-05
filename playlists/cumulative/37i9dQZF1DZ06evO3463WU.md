@@ -4,7 +4,7 @@
 
 > This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-149 songs - 8 hr 26 min
+150 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Las Llaves De Mi Alma](https://open.spotify.com/track/5svu7VLrzUslx5wnhpxYAw) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Una Noche Cualquiera](https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1) | 2:52 | 2025-09-10 |  |
 | [Las Llaves De Mi Alma](https://open.spotify.com/track/6vvBP49CrNlSBEV0tsTo8V) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Una Noche Cualquiera](https://open.spotify.com/album/69gdI8NQ0yB8nfP6eoj4lC) | 2:52 | 2022-06-12 | 2022-10-13 |
 | [Llorando Una Pena](https://open.spotify.com/track/5CawfH4wFANfiOQU4wMW2S) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Rancheras Con Banda Y Mariachi](https://open.spotify.com/album/7MuIdXN7rXlX4qVgHjrT1Q) | 3:20 | 2022-06-01 | 2022-10-13 |
+| [Llorando Una Pena](https://open.spotify.com/track/7hAsVEHdN6ZNFVFl0uhey6) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Mariachi Santa María](https://open.spotify.com/artist/54oub6uzta6IHPRNCQlttQ) | [Invéntame Un Amor](https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J) | 3:20 | 2025-10-05 |  |
 | [Los Amantes](https://open.spotify.com/track/40G5sjVX47PG8LMMigxyJH) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Sinvergüenza Y Mujeriego](https://open.spotify.com/album/6FIw4o8zKTXt6PzrTJK5mo) | 3:26 | 2024-09-16 |  |
 | [Los Amantes](https://open.spotify.com/track/0h43pLYpldnoNwESdxnoDI) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Lo Mejor De Mi Repertorio](https://open.spotify.com/album/3dEdr01jgZ35RTRKO3HEaR) | 3:28 | 2022-06-07 | 2024-09-16 |
 | [Lucharé Por Ti](https://open.spotify.com/track/5I9SnEA84dwUgjbBLIdTSm) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Lucharé Por Ti](https://open.spotify.com/album/5ZhzGPdJ3ybEx9fK6LF5c7) | 3:30 | 2022-06-01 |  |
@@ -117,7 +118,7 @@
 | [Polvo Y Nada](https://open.spotify.com/track/3hxmYDtf38nK7MLtbdaHFj) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Polvo Y Nada](https://open.spotify.com/album/0tsv50A3ZdXC5EeohYYHag) | 3:34 | 2022-06-01 | 2025-09-16 |
 | [Por Amor Y Fe](https://open.spotify.com/track/6VD5k9j9LmtxyK4BbrIOV7) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F) | 3:33 | 2022-06-01 | 2024-09-16 |
 | [Por Amor Y Fe](https://open.spotify.com/track/7pP9uxNOKsS6pdueA278sq) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs) | 3:33 | 2024-10-07 |  |
-| [Por Cabrón](https://open.spotify.com/track/50a22wMk5E1AfKMiZeK7ns) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Por Cabrón](https://open.spotify.com/album/1aHEvbuM5W7PEKSxY04Nef) | 3:04 | 2025-09-10 |  |
+| [Por Cabrón](https://open.spotify.com/track/50a22wMk5E1AfKMiZeK7ns) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Por Cabrón](https://open.spotify.com/album/1aHEvbuM5W7PEKSxY04Nef) | 3:04 | 2025-09-10 | 2025-10-05 |
 | [Por Una Sonrisa](https://open.spotify.com/track/1Bbf3b3q6g8ycctLHCVDZA) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Lo Mejor De Mi Repertorio](https://open.spotify.com/album/3dEdr01jgZ35RTRKO3HEaR) | 3:01 | 2022-06-01 | 2023-08-22 |
 | [Porque](https://open.spotify.com/track/4hHLcpYdCXA9nlnES0gkA4) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [La Fuerza Del Amor](https://open.spotify.com/album/2B4Ry5xyWtrJeIj8JiqCmo) | 3:34 | 2022-06-01 | 2022-11-22 |
 | [Que Te Paso](https://open.spotify.com/track/5DsX6k1XSBuKj3GxHItIZV) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mas Fuerte Que Nunca](https://open.spotify.com/album/7EQVo82zWf1HDubvJmdbEi) | 2:37 | 2022-06-01 | 2022-10-13 |

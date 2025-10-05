@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-277 songs - 16 hr 5 min
+279 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [everything i wanted \(notturno\)](https://open.spotify.com/track/3YxYCnmwqzntBbiAOvwLM1) | [Atlys](https://open.spotify.com/artist/7tCzmM07JOGsFq2RwTzKRg) | [everything i wanted \(notturno\)](https://open.spotify.com/album/6CS63NX4f72I3iegS4BTBI) | 5:32 | 2022-12-02 |  |
 | [Everything I Wanted \- Arr\. for Oboe and Chamber Orchestra by Juri Vallentin](https://open.spotify.com/track/6WRzX7MZHC0YgZuoACKOlD) | [Juri Vallentin](https://open.spotify.com/artist/2YtNr7UFUdaRMLRbQY1OJb), [Ensemble Reflektor](https://open.spotify.com/artist/47Khw2Og2Im70QJmKU4Qqt) | [Everything I Wanted](https://open.spotify.com/album/2dGp8VifkLqCVp0o5q1O7f) | 4:15 | 2025-02-21 |  |
 | [Eyes Closed](https://open.spotify.com/track/3rKLkTn7GgLEVaIJjoDH8G) | [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw) | [Eyes Closed](https://open.spotify.com/album/2cwhtJvpJXig9amktNpiMr) | 3:14 | 2023-06-09 |  |
+| [Fade into You \- Piano & Strings version](https://open.spotify.com/track/0sPTdAhKz0VNGoqQU0J834) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Fade into You \(Piano & Strings Version\)](https://open.spotify.com/album/6D0onG9zAmue4BaMkDBqiC) | 2:48 | 2025-10-03 |  |
 | [Fake Plastic Trees](https://open.spotify.com/track/6vrXoa46fJUbYKQJLVSyHO) | [Christopher O'Riley](https://open.spotify.com/artist/70sTS2TfD7x40e01or0h2I) | [True Love Waits \(Christopher O'Riley Plays Radiohead\)](https://open.spotify.com/album/3weiYbaSqJtuIBEyqLKNgm) | 4:54 | 2021-11-19 |  |
 | [Fingers Crossed](https://open.spotify.com/track/6naRiNpUvGidp3tXIMMz8J) | [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw) | [Fingers Crossed](https://open.spotify.com/album/70UQKzSLliDROGtzp8BV3k) | 2:57 | 2022-03-25 | 2023-09-30 |
 | [Fingers Crossed \(arr\. piano\)](https://open.spotify.com/track/0qoMHjrFq0g4QdMqxYhG9t) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Fingers Crossed \(arr\. piano\)](https://open.spotify.com/album/7kkjF3lRF4KtvIk95UNmpJ) | 3:07 | 2022-01-28 | 2022-03-26 |
@@ -180,6 +181,7 @@
 | [Now We Are Free \(Arr\. Piano\) \- from "Gladiator"](https://open.spotify.com/track/32DOR9FunwPXFYyTAXzYQj) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Now We Are Free \(Arr\. Piano\) \[from "Gladiator"\]](https://open.spotify.com/album/5XdnldcWyrm9wBSMNtoQvN) | 2:44 | 2024-12-10 |  |
 | [Numb \- Piano & Strings Version](https://open.spotify.com/track/4GVKZ4MY8a0JMhnJjf58fZ) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Numb \(Piano & Strings Version\)](https://open.spotify.com/album/1zQis5knuuZfrRRJWUXzx3) | 2:38 | 2025-02-28 |  |
 | [Numb \- Piano Version](https://open.spotify.com/track/6leIpO0toh6VjmmqnFNgqP) | [Andrea Carri](https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U) | [Numb \(Piano Version\)](https://open.spotify.com/album/2VznK8OUodd03zf2uMMeHT) | 3:09 | 2023-06-09 |  |
+| [ocean eyes](https://open.spotify.com/track/4RcWtKFpfnR64ARSnK7tm3) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Billie Eilish](https://open.spotify.com/album/3FE9wRDUSXqZ2qfLWBdsBl) | 3:16 | 2025-10-03 |  |
 | [OMG](https://open.spotify.com/track/315jwR0MNIp2N1MK0f4yeZ) | [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [OMG](https://open.spotify.com/album/2q93SQOfQA0ZHrQMIm8KTj) | 1:31 | 2024-03-01 |  |
 | [ON](https://open.spotify.com/track/5SFOSF6lKcEI7678ri3i4v) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [ON](https://open.spotify.com/album/6NCqruF6K4nEKcugO6Cr2p) | 3:54 | 2022-10-07 | 2023-09-30 |
 | [Ordinary](https://open.spotify.com/track/1WYDk8XsjBqrlLetgTlPC1) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2025, Vol\. 1](https://open.spotify.com/album/6zVzIXdCpItzGUetIXfsPW) | 3:03 | 2025-06-20 | 2025-07-19 |

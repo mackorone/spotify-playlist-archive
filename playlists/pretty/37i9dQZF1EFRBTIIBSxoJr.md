@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 769 likes - 133 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 770 likes - 133 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 70 | [Here We Go](https://open.spotify.com/track/0wzlsBqUWJ7ltS5uXsXdwh) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [It's About Us](https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC) | 3:23 |
 | 71 | [My Love](https://open.spotify.com/track/5ptFpFPLIEANgoSVb0qPJ6) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Turn It Up](https://open.spotify.com/album/4S2rMIWiGeYCe5pxZxycyN) | 3:19 |
 | 72 | [Love Me Anyway](https://open.spotify.com/track/10P4pphovyx8PAoz4OPZ4L) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Kids In Love](https://open.spotify.com/album/4M2p2BIRHIeBu8Ew9IBQ0s) | 3:19 |
-| 73 | [Take My Place](https://open.spotify.com/track/1qo2h2KvBQPbl8ENdecgtJ) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 4:14 |
-| 74 | [Anyway \(feat\. RuthAnne\)](https://open.spotify.com/track/5TAlj8WBSEWPdzudunvu0B) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Anyway \(feat\. RuthAnne\)](https://open.spotify.com/album/709dbtr4OzXUGUfOeRrAV7) | 2:48 |
+| 73 | [Anyway \(feat\. RuthAnne\)](https://open.spotify.com/track/5TAlj8WBSEWPdzudunvu0B) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Anyway \(feat\. RuthAnne\)](https://open.spotify.com/album/709dbtr4OzXUGUfOeRrAV7) | 2:48 |
+| 74 | [Take My Place](https://open.spotify.com/track/1qo2h2KvBQPbl8ENdecgtJ) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 4:14 |
 | 75 | [Freedom \(feat\. Jussie Smollett\)](https://open.spotify.com/track/3K21eqPSN8Fb4SxEnKfEOo) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jussie Smollett](https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm) | [Empire: Original Soundtrack, Season 2 Volume 2 \(Deluxe\)](https://open.spotify.com/album/5F63FnyDVZcFljjvVRdPd8) | 3:05 |
 | 76 | [Enough](https://open.spotify.com/track/2GrEn4GJECJgW8Q1zr2XbH) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:24 |
 | 77 | [Goodbye My Friend](https://open.spotify.com/track/5Zn2RY4CFqzm9lxQWyN8i9) | [Thirdstory](https://open.spotify.com/artist/7GJbWH8vhhuW22707B8HsW) | [Cold Heart](https://open.spotify.com/album/3UJW1p1qiGScFrGKLwBptB) | 3:48 |
@@ -134,12 +134,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 124 | [Sliding Doors](https://open.spotify.com/track/2tgyMQjcwVp2CjFT6gAZwh) | [Baptiste Giabiconi](https://open.spotify.com/artist/4DD9H38CXQBbIME7AGNOr9) | [Oxygen](https://open.spotify.com/album/3wJqURLm1qe9DucNTntWS3) | 3:41 |
 | 125 | [Gratitude](https://open.spotify.com/track/2cI7IM2jlIC7wKdfpQvctA) | [Erica\-Cody](https://open.spotify.com/artist/6h9boYU490q7cRC64QsEBI) | [Love & Light](https://open.spotify.com/album/2XrzEmUgAStgYTQT8lDzHG) | 3:25 |
 | 126 | [Flaws](https://open.spotify.com/track/0SWDM8WYXyM1PkJUqRW0pn) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Way I Love You](https://open.spotify.com/album/7b0LDjvwIauR7OUEX8rQAo) | 2:53 |
-| 127 | [My Greatest Joy](https://open.spotify.com/track/5WrRPWk3P7j2V5SgwBQZZ0) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [My Greatest Joy](https://open.spotify.com/album/0rPr6SUIMnncdEeEI7BfoY) | 3:07 |
-| 128 | [Mutual Danger](https://open.spotify.com/track/2mh17l0N0eJ1q5BcMJ2KvK) | [Jamie Joseph](https://open.spotify.com/artist/6SAHiawT7qwvIRpebD2sS4) | [Can't Seem to Change](https://open.spotify.com/album/6AsEVSLb6TQFh6XiZCm24F) | 4:03 |
-| 129 | [The Best Is Yet To Come](https://open.spotify.com/track/6QqxkhFWS49pq67T6Vrfjq) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA), [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [The Best Is Yet To Come](https://open.spotify.com/album/7adbWwMsonRMUpGFqwBuDg) | 3:18 |
+| 127 | [The Best Is Yet To Come](https://open.spotify.com/track/6QqxkhFWS49pq67T6Vrfjq) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA), [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [The Best Is Yet To Come](https://open.spotify.com/album/7adbWwMsonRMUpGFqwBuDg) | 3:18 |
+| 128 | [My Greatest Joy](https://open.spotify.com/track/5WrRPWk3P7j2V5SgwBQZZ0) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [My Greatest Joy](https://open.spotify.com/album/0rPr6SUIMnncdEeEI7BfoY) | 3:07 |
+| 129 | [Mutual Danger](https://open.spotify.com/track/2mh17l0N0eJ1q5BcMJ2KvK) | [Jamie Joseph](https://open.spotify.com/artist/6SAHiawT7qwvIRpebD2sS4) | [Can't Seem to Change](https://open.spotify.com/album/6AsEVSLb6TQFh6XiZCm24F) | 4:03 |
 | 130 | [Lebih Dari Kekasihku](https://open.spotify.com/track/4ii3aTST1vQabcKhVPjrKZ) | [Classy](https://open.spotify.com/artist/23RnPEmrU2zuAYavcWZejp) | [X Factor Indonesia Season 2](https://open.spotify.com/album/2AEkMd7QfOCzUyuNqwOok7) | 3:53 |
 | 131 | [Still in Love \(Acoustic\)](https://open.spotify.com/track/1FOX7NEDh37v5xNXyESzsK) | [The Inner Voices](https://open.spotify.com/artist/6YNzFZMSy9yCYyXtS3JQQF) | [Still in Love \(Acoustic\)](https://open.spotify.com/album/68kr3m1lQzS0MlXXpVIeYW) | 4:14 |
 | 132 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha Lee](https://open.spotify.com/artist/3dT9AnyUKXdrXCzGsJjx7H) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 133 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `Ab95/AAAAACrxAy6gc9yCqx/rav/wkQ/`
+Snapshot ID: `Ab9/fgAAAACKxK5v2r0X8U5tTcImqu9G`

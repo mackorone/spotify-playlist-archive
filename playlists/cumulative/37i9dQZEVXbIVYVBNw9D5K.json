@@ -6888,7 +6888,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 200000,
       "name": "Dilerim Ki",
       "url": "https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU"
@@ -7602,7 +7602,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-03",
+      "date_removed": null,
       "duration_ms": 203653,
       "name": "D\u00f6nsen Bile",
       "url": "https://open.spotify.com/track/6Ear9bhjbNi2oaqv5qlqlM"
@@ -9313,6 +9313,24 @@
     },
     {
       "album": {
+        "name": "gelemez",
+        "url": "https://open.spotify.com/album/3knLu4ljJ8JCP9MqzKo6PW"
+      },
+      "artists": [
+        {
+          "name": "EGE!",
+          "url": "https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5"
+        }
+      ],
+      "date_added": "2025-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152258,
+      "name": "gelemez",
+      "url": "https://open.spotify.com/track/5NZIOc4fppMklnzBB6O0JE"
+    },
+    {
+      "album": {
         "name": "GELME \u0130STEMEM",
         "url": "https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF"
       },
@@ -9324,7 +9342,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 186562,
       "name": "GELME \u0130STEMEM",
       "url": "https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X"
@@ -14228,7 +14246,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 201032,
       "name": "Kendine D\u00fcnya",
       "url": "https://open.spotify.com/track/5eGbBcz7DKfV0uIl7jX8Dr"
@@ -14568,7 +14586,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 231199,
       "name": "Kopamam Senden",
       "url": "https://open.spotify.com/track/5O2CISQrEZJkH28UsHVfw6"
@@ -19807,6 +19825,24 @@
     },
     {
       "album": {
+        "name": "R\u00dcYA",
+        "url": "https://open.spotify.com/album/5v6G10hZApQneoCuBnwcxS"
+      },
+      "artists": [
+        {
+          "name": "manifest",
+          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
+        }
+      ],
+      "date_added": "2025-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195054,
+      "name": "R\u00dcYA",
+      "url": "https://open.spotify.com/track/67AMcEV9GTOlxs1NAvUDiU"
+    },
+    {
+      "album": {
         "name": "R\u00fcya Gibi",
         "url": "https://open.spotify.com/album/768mfmAJuwFne65w5xmGso"
       },
@@ -22640,6 +22676,28 @@
       "duration_ms": 199821,
       "name": "Tiryakinim",
       "url": "https://open.spotify.com/track/5NEqpPrKdN5kkn66GPO5z1"
+    },
+    {
+      "album": {
+        "name": "T\u0130KTOK",
+        "url": "https://open.spotify.com/album/22kL0LjMCNE6ssXseUGuGY"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
+        }
+      ],
+      "date_added": "2025-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116124,
+      "name": "T\u0130KTOK",
+      "url": "https://open.spotify.com/track/3ic4P54j8y17su29vAGYD5"
     },
     {
       "album": {

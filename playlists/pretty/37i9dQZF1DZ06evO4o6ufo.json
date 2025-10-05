@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 88540,
+  "num_followers": 88598,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAADrZ5wqS3RMN8lQHIB7S1t8",
+  "snapshot_id": "aN8SAAAAAABtX7JijJdTNM7eE+zOEjzM",
   "tracks": [
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 141293,
-      "name": "La Gallada Pesada",
-      "url": "https://open.spotify.com/track/6hVeCPVrUHic2vM6s2SS9t"
+      "duration_ms": 216746,
+      "name": "Que Emoci\u00f3n",
+      "url": "https://open.spotify.com/track/4gEJMS993Cg13T1yWZVrKs"
     },
     {
       "added_at": null,
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 216746,
-      "name": "Que Emoci\u00f3n",
-      "url": "https://open.spotify.com/track/4gEJMS993Cg13T1yWZVrKs"
+      "duration_ms": 141293,
+      "name": "La Gallada Pesada",
+      "url": "https://open.spotify.com/track/6hVeCPVrUHic2vM6s2SS9t"
     },
     {
       "added_at": null,
@@ -719,22 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "De la Estancia a Cosala",
-        "url": "https://open.spotify.com/album/2j9WyrK81HCPqj479LndB2"
+        "name": "Por El Bien De Los Dos",
+        "url": "https://open.spotify.com/album/716TfM8cw7aevXpbBzHiWF"
       },
       "artists": [
         {
-          "name": "La Revancha RC",
-          "url": "https://open.spotify.com/artist/7u5GwJI2qzR8MUhA6JlAQf"
+          "name": "Jaque Mate",
+          "url": "https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew"
         },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 139853,
-      "name": "De la Estancia a Cosala",
-      "url": "https://open.spotify.com/track/510JTUuO196PonOM82hyLo"
+      "duration_ms": 195744,
+      "name": "Por El Bien De Los Dos",
+      "url": "https://open.spotify.com/track/0tAmt8WRonEH8IpNnmeHrF"
     },
     {
       "added_at": null,
@@ -771,6 +771,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "De la Estancia a Cosala",
+        "url": "https://open.spotify.com/album/2j9WyrK81HCPqj479LndB2"
+      },
+      "artists": [
+        {
+          "name": "La Revancha RC",
+          "url": "https://open.spotify.com/artist/7u5GwJI2qzR8MUhA6JlAQf"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 139853,
+      "name": "De la Estancia a Cosala",
+      "url": "https://open.spotify.com/track/510JTUuO196PonOM82hyLo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Buena Cepa",
         "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 198321,
       "name": "Sorry Pa\u2019 Los Gabachos",
       "url": "https://open.spotify.com/track/6pvWRtjFmdNM47Cuz4EqqS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Por El Bien De Los Dos",
-        "url": "https://open.spotify.com/album/716TfM8cw7aevXpbBzHiWF"
-      },
-      "artists": [
-        {
-          "name": "Jaque Mate",
-          "url": "https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 195744,
-      "name": "Por El Bien De Los Dos",
-      "url": "https://open.spotify.com/track/0tAmt8WRonEH8IpNnmeHrF"
     },
     {
       "added_at": null,

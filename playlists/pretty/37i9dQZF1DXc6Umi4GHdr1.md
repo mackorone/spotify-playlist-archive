@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,803 likes - 175 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,793 likes - 175 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 | 115 | [Moments](https://open.spotify.com/track/1GgytkMdKCMIhzDcPHTJMX) | [Caylee Luna](https://open.spotify.com/artist/6gEGHbKHwwG0aslwsdWKL8) | [Moments](https://open.spotify.com/album/0841nT5RLsINf4vERrhMrB) | 2:19 |
 | 116 | [Passages](https://open.spotify.com/track/409nrkfFWjJSF0JiWne0HY) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Passages](https://open.spotify.com/album/1XU36ZyjSyRQc6UDpqPVfq) | 2:04 |
 | 117 | [Divine Smile](https://open.spotify.com/track/6nnoZ1JS7wWrpRcg1DsWas) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Divine Smile](https://open.spotify.com/album/0rmJuboHrB6Tpd7Sb71bad) | 2:04 |
-| 118 | [Simple Reverie](https://open.spotify.com/track/51cpn2Y6niqb3LnucJXkwH) | [Marian Rose](https://open.spotify.com/artist/6zh9U3XKNFN5Drifqx5DtG) | [Simple Reverie](https://open.spotify.com/album/3BmX4s69077iF5bueVbl7n) | 3:07 |
+| 118 | [Simple Reverie](https://open.spotify.com/track/51cpn2Y6niqb3LnucJXkwH) | [M\. Rose](https://open.spotify.com/artist/6mDntABgyJFtNZ3IkqCJIn) | [Simple Reverie](https://open.spotify.com/album/3BmX4s69077iF5bueVbl7n) | 3:07 |
 | 119 | [Bloom](https://open.spotify.com/track/1ZF4Elt0Sxg8UrQ186jbXn) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Bloom](https://open.spotify.com/album/2VsnPobiX8U8SzIuII5hI8) | 2:46 |
 | 120 | [Seasons Change](https://open.spotify.com/track/4bFcRseaUHL04lIvGQy9Ss) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [Seasons Change](https://open.spotify.com/album/3MXVce2S5FrDoKTIZ7UoWD) | 2:45 |
 | 121 | [A Short Walk To Open Fields](https://open.spotify.com/track/0AcpMokszr0bPJQ5eoTPvg) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [A Short Walk To Open Fields](https://open.spotify.com/album/4DB1OJk9eG0vSkybSmHSQ0) | 3:12 |

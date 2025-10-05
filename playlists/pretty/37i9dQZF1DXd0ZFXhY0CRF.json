@@ -1,6 +1,6 @@
 {
   "description": "The women whose music and influence rock our world. Cover: Nova Twins",
-  "num_followers": 774053,
+  "num_followers": 774143,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-09-02 23:00:32",
       "album": {
-        "name": "No Obligation",
-        "url": "https://open.spotify.com/album/0hHBHXLrTlYfLXrp8yb6N6"
-      },
-      "artists": [
-        {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
-        }
-      ],
-      "duration_ms": 201187,
-      "name": "All In My Head",
-      "url": "https://open.spotify.com/track/7uHpXA3rYfs1EqFHogCwDj"
-    },
-    {
-      "added_at": "2025-09-02 23:00:32",
-      "album": {
         "name": "Are We All Angels",
         "url": "https://open.spotify.com/album/0zDdwRsOg2sVvOFpjEOtHs"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 181027,
       "name": "Not Hell, Not Heaven",
       "url": "https://open.spotify.com/track/3Dv3zgW4OHauERx9RIZUXL"
+    },
+    {
+      "added_at": "2025-09-02 23:00:32",
+      "album": {
+        "name": "No Obligation",
+        "url": "https://open.spotify.com/album/0hHBHXLrTlYfLXrp8yb6N6"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 201187,
+      "name": "All In My Head",
+      "url": "https://open.spotify.com/track/7uHpXA3rYfs1EqFHogCwDj"
     },
     {
       "added_at": "2025-09-02 23:00:32",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-09-02 23:00:32",
       "album": {
-        "name": "Down to be wrong",
-        "url": "https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 249120,
-      "name": "Down to be wrong",
-      "url": "https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP"
-    },
-    {
-      "added_at": "2025-09-02 23:00:32",
-      "album": {
         "name": "VIVA HINDS",
         "url": "https://open.spotify.com/album/4XQwD29zcKWF5TUKjYACaN"
       },
@@ -1147,22 +1131,18 @@
     {
       "added_at": "2025-09-02 23:00:32",
       "album": {
-        "name": "The Wolf You Feed (feat. Alissa White-Gluz)",
-        "url": "https://open.spotify.com/album/0RldApXzFEBMTvPetGTIcF"
+        "name": "Down to be wrong",
+        "url": "https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW"
       },
       "artists": [
         {
-          "name": "Nita Strauss",
-          "url": "https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf"
-        },
-        {
-          "name": "Alissa White-Gluz",
-          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
         }
       ],
-      "duration_ms": 234000,
-      "name": "The Wolf You Feed (feat. Alissa White-Gluz)",
-      "url": "https://open.spotify.com/track/6P6h9RdPJxPWqFqpLFIYA9"
+      "duration_ms": 249120,
+      "name": "Down to be wrong",
+      "url": "https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP"
     },
     {
       "added_at": "2025-09-02 23:00:32",
@@ -1195,6 +1175,26 @@
       "duration_ms": 178933,
       "name": "I Got Heaven",
       "url": "https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8"
+    },
+    {
+      "added_at": "2025-09-02 23:00:32",
+      "album": {
+        "name": "The Wolf You Feed (feat. Alissa White-Gluz)",
+        "url": "https://open.spotify.com/album/0RldApXzFEBMTvPetGTIcF"
+      },
+      "artists": [
+        {
+          "name": "Nita Strauss",
+          "url": "https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf"
+        },
+        {
+          "name": "Alissa White-Gluz",
+          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "The Wolf You Feed (feat. Alissa White-Gluz)",
+      "url": "https://open.spotify.com/track/6P6h9RdPJxPWqFqpLFIYA9"
     },
     {
       "added_at": "2025-09-02 23:00:32",

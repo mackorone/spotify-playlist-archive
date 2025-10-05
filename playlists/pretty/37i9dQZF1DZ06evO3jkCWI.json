@@ -1,29 +1,13 @@
 {
   "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 190148,
+  "num_followers": 190195,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAAAVGO2fSoan5TQzfIgjs8ET",
+  "snapshot_id": "aN8SAAAAAAA/KBHQ5o9NbVjuMeRYR5Y/",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aguanta Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 170333,
-      "name": "Mi Casa Nueva",
-      "url": "https://open.spotify.com/track/0YqxST7jMa8B4Ecr1675u6"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 161493,
       "name": "A M\u00ed, \u00bfQu\u00e9 Me Qued\u00f3?",
       "url": "https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "Mi Casa Nueva",
+      "url": "https://open.spotify.com/track/0YqxST7jMa8B4Ecr1675u6"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Laurita Garza",
-        "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Rosalinda",
-      "url": "https://open.spotify.com/track/76JjJHMjVRSpI86NOzbWeZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se\u00f1al De Alerta",
         "url": "https://open.spotify.com/album/28K8AZI79UWVamCJZglQlq"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 165853,
       "name": "Ni Que Tuvieras Tanta Suerte",
       "url": "https://open.spotify.com/track/0OzRg0JDqxDDxtmKn2GUVi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Laurita Garza",
+        "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Rosalinda",
+      "url": "https://open.spotify.com/track/76JjJHMjVRSpI86NOzbWeZ"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puros \u00c9xitos",
-        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 207906,
-      "name": "Dios No Lo Quiera",
-      "url": "https://open.spotify.com/track/3ujr1xnvt5kxuEfAwxuvKf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Es Demasiado Tarde",
         "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 181720,
       "name": "Es Demasiado Tarde",
       "url": "https://open.spotify.com/track/70YMp6bVrVHMhgevfAbf63"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 207906,
+      "name": "Dios No Lo Quiera",
+      "url": "https://open.spotify.com/track/3ujr1xnvt5kxuEfAwxuvKf"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Boleros De Oro",
-        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "Me Refiero A T\u00ed",
-      "url": "https://open.spotify.com/track/5bbF1SdFGSqK7hKNAunuyc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D\u00e9jate Llevar",
         "url": "https://open.spotify.com/album/6OCVGmvD74MNcDpClL0uXT"
       },
@@ -547,38 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi H\u00e9roe",
-        "url": "https://open.spotify.com/album/1Flg5XJrhqjvd70wX6QV9C"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 159013,
-      "name": "Degenerado",
-      "url": "https://open.spotify.com/track/413NV5nNVfbEh7vG1x2GTl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Otra Era",
-        "url": "https://open.spotify.com/album/4EzWUl91tOLsFNgKrs8oe0"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 168304,
-      "name": "La Mejor de Mis Tragedias",
-      "url": "https://open.spotify.com/track/2VBLnpqcMppdvYeuDYXBth"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Es Demasiado Tarde",
         "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
       },
@@ -595,6 +547,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "15 Boleros De Oro",
+        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "Me Refiero A T\u00ed",
+      "url": "https://open.spotify.com/track/5bbF1SdFGSqK7hKNAunuyc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi H\u00e9roe",
+        "url": "https://open.spotify.com/album/1Flg5XJrhqjvd70wX6QV9C"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 159013,
+      "name": "Degenerado",
+      "url": "https://open.spotify.com/track/413NV5nNVfbEh7vG1x2GTl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Vida O Muerte",
         "url": "https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 153733,
       "name": "La Costumbre",
       "url": "https://open.spotify.com/track/1lhPvRuwUY0BIgxx98cOL2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otra Era",
+        "url": "https://open.spotify.com/album/4EzWUl91tOLsFNgKrs8oe0"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 168304,
+      "name": "La Mejor de Mis Tragedias",
+      "url": "https://open.spotify.com/track/2VBLnpqcMppdvYeuDYXBth"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Boleros De Oro",
-        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 177973,
-      "name": "En Eso No Quedamos",
-      "url": "https://open.spotify.com/track/1FUQ3tfR1LuZmptkavWTQa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aferrado Al Amor",
         "url": "https://open.spotify.com/album/6pEDYFi8ddb1yiJKF1h0yV"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 208000,
       "name": "La Viviana",
       "url": "https://open.spotify.com/track/6UsGCiKi5RwwosYEsVwQz3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 Boleros De Oro",
+        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 177973,
+      "name": "En Eso No Quedamos",
+      "url": "https://open.spotify.com/track/1FUQ3tfR1LuZmptkavWTQa"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Boleros De Oro",
-        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 140333,
-      "name": "Te Sorprend\u00ed Llorando",
-      "url": "https://open.spotify.com/track/4rqLedkzIcDNbSo8bnRGZY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Volumen 1",
         "url": "https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 184240,
       "name": "El Preso De Nuevo Le\u00f3n",
       "url": "https://open.spotify.com/track/3lu45Zgfj4pRDen29QsZGx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 Boleros De Oro",
+        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 140333,
+      "name": "Te Sorprend\u00ed Llorando",
+      "url": "https://open.spotify.com/track/4rqLedkzIcDNbSo8bnRGZY"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 244051,
+  "num_followers": 244117,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN3AgAAAAABUyXaVYDveDCfd+3KrcXAj",
+  "snapshot_id": "aN8SAAAAAAD4ubAo3Vti/0jd+rOaL5jh",
   "tracks": [
     {
       "added_at": null,
@@ -171,26 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Calma Apparente",
-        "url": "https://open.spotify.com/album/5A5pws69LWyMgZ0iJlb3Nb"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        },
-        {
-          "name": "Anastacia",
-          "url": "https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH"
-        }
-      ],
-      "duration_ms": 265600,
-      "name": "I Belong to You (feat. Anastacia)",
-      "url": "https://open.spotify.com/track/4RUoW6ewYFNsNzTbtvM99Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The World Of Pavarotti",
         "url": "https://open.spotify.com/album/4sZtLMwl4ga9aV73G1Nn8D"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 275733,
       "name": "Se Bastasse Una Canzone",
       "url": "https://open.spotify.com/track/1Mc6y8Q3MYppvrCylqDkwO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Calma Apparente",
+        "url": "https://open.spotify.com/album/5A5pws69LWyMgZ0iJlb3Nb"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Anastacia",
+          "url": "https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH"
+        }
+      ],
+      "duration_ms": 265600,
+      "name": "I Belong to You (feat. Anastacia)",
+      "url": "https://open.spotify.com/track/4RUoW6ewYFNsNzTbtvM99Y"
     },
     {
       "added_at": null,

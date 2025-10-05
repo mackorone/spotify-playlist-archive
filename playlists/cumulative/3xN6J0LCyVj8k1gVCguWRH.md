@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,336 songs - 12 day 10 hr 15 min
+5,338 songs - 12 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2170,6 +2170,7 @@
 | [I Feel Like I'm Missing \(from The Synthesis Collection: The Early Naughts\)](https://open.spotify.com/track/1Np4ePrLEEgSNNOjaQHlCp) | [The Independent Sound](https://open.spotify.com/artist/3aqMUgCyPOhYr2kENi5WDZ), [The OBC](https://open.spotify.com/artist/4LSehK46S5N5jJN8j0FpKT) | [I Feel Like I'm Missing \(from The Synthesis Collection: The Early Naughts\)](https://open.spotify.com/album/6gmjWCzY40FdkBKluV4Kv1) | 3:42 | 2022-05-13 | 2022-05-29 |
 | [I Feel Love](https://open.spotify.com/track/4f3DpvZPxLPsL4ZR6Q3gb2) | [Dan Mudd](https://open.spotify.com/artist/7lSTKhTEGogFW81sMWwIPg) | [I Feel Love](https://open.spotify.com/album/1girDyBlVizz7eIigHEGnI) | 2:37 | 2025-07-13 | 2025-07-25 |
 | [I Feel the Power](https://open.spotify.com/track/2O6rF0ljIBLuKKWki41mlD) | [Vyceroy](https://open.spotify.com/artist/7od50GZa4v89T1f9k3lYEt), [biz colletti](https://open.spotify.com/artist/19Nj9CcRRF2INn0MXkAVLX) | [I Feel the Power](https://open.spotify.com/album/3z7FDizj8juedf4R1kYLL2) | 3:00 | 2021-05-21 | 2021-06-06 |
+| [I Fell In Love](https://open.spotify.com/track/6A0dVE47USMxf4zGeFmiFx) | [Angels Of Libra](https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL), [Nathan Johnston](https://open.spotify.com/artist/6Vz8qpQ7nZNOlhmTU0Ibwb) | [I Fell In Love](https://open.spotify.com/album/6sZ7qojO829hld5gV6rAaD) | 3:48 | 2025-10-04 |  |
 | [I Found It](https://open.spotify.com/track/6pBxU1CuJpco03zLFkr95Q) | [La Shana Latrice](https://open.spotify.com/artist/7i0zdgEzQ1YYTquPIPvp81) | [I Found It](https://open.spotify.com/album/2HnxzryocgSiDmdIW2jEv9) | 3:02 | 2023-09-01 | 2023-09-26 |
 | [I Got A Feeling](https://open.spotify.com/track/67khZBWjxlHg85xcwdySjS) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [I Got A Feeling](https://open.spotify.com/album/1RQIpbfwNYLalU8PKNysqt) | 2:24 | 2021-09-04 | 2021-09-19 |
 | [I Got A Man](https://open.spotify.com/track/0bRbF1nTvyyMo4pQv2x7J2) | [Logan Lynn](https://open.spotify.com/artist/2clmyuEvqEILINTuP7lXxY), [Yellow Trash Can](https://open.spotify.com/artist/0HIoY3v13URc5qWoSZ4aRQ) | [I Got A Man](https://open.spotify.com/album/2jipU7dlj6JZPE34I502ic) | 2:37 | 2023-04-28 | 2023-05-16 |
@@ -2736,6 +2737,7 @@
 | [Look for Me](https://open.spotify.com/track/3m13ew3vHgAaNhXs3XgdqC) | [Riverside](https://open.spotify.com/artist/0c3aEpOOEMSqA7Eyf67dXU), [Mannis](https://open.spotify.com/artist/3EkD7husgPaiAm0NC3XsZj), [ENROSA](https://open.spotify.com/artist/2GL4yQnMX0QY6dd9yRwDbj) | [Look for Me](https://open.spotify.com/album/3bpPSNs2Z3VhgF4qLXq7E6) | 3:10 | 2021-03-06 | 2021-04-26 |
 | [Look how beautiful you are \(Feat\. MODSIWH\)](https://open.spotify.com/track/5y3YnJc1EckiKaWuDhfJq5) | [Little stone](https://open.spotify.com/artist/2sKntwQb2qFRIMfcz4wfZO), [MODSIWH](https://open.spotify.com/artist/0RwJZ7e6SQExEsyhAi7M3C) | [4 seasons](https://open.spotify.com/album/3cWfP9gd22TEeGF10FSMqF) | 3:23 | 2023-04-22 | 2023-05-02 |
 | [Looking Away](https://open.spotify.com/track/18h9JpSrV3GHo8xVLnZFRx) | [Monotronic](https://open.spotify.com/artist/6yRrkpttMRDY8KiZG193SU) | [Looking Away](https://open.spotify.com/album/1BaLVDm5kQlJEgir3bvFlk) | 2:47 | 2025-04-26 | 2025-05-08 |
+| [Loosely](https://open.spotify.com/track/7qi4SX9U3ehP5ae16XkRDd) | [Lunalay](https://open.spotify.com/artist/3HLWEoyncfoUNoodGamTNo) | [Loosely](https://open.spotify.com/album/0FSpGNhZIdpnkp3MpFa4o9) | 3:15 | 2025-10-04 |  |
 | [Los Angeles](https://open.spotify.com/track/6ljNdzcRb0rml3my3lwVQQ) | [brady](https://open.spotify.com/artist/7nq9mnjjuDB4dYxMOFUTy4) | [Los Angeles](https://open.spotify.com/album/7GJdwDc0lPW9N5ccDOXuLl) | 3:56 | 2024-03-31 | 2024-04-12 |
 | [Lose Control](https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Lose Control](https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP) | 2:48 | 2020-02-21 | 2020-03-11 |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2023-12-29 | 2024-03-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Zé Felipe com Ana Castela, Taylor Swift e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,170,016 likes - 88 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,170,906 likes - 88 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 12 | [A Gente Separou e Não Sabe \- Da Play na Playlist, Ao Vivo](https://open.spotify.com/track/6m8HQpDF80w8KmFuxWCcwc) | [Zé Henrique & Gabriel](https://open.spotify.com/artist/5Dyg6H3QJHQV5c7ojyKWyv), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [A Gente Separou e Não Sabe \(Da Play na Playlist, Ao Vivo\)](https://open.spotify.com/album/628ISqYeDJnKMvjVnoFsdU) | 3:12 |
 | 13 | [RISCA DA LISTA](https://open.spotify.com/track/4luFUPBdjryvSTH6PPgaee) | [Ruas Mc](https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5), [Kohuru](https://open.spotify.com/artist/4mLeIPWofY0Osn40mAkqko) | [RISCA DA LISTA](https://open.spotify.com/album/0G0s4Fqr9PUn9DkBnFkS0K) | 2:26 |
 | 14 | [loira de medicina](https://open.spotify.com/track/5TZ5h31NOjUyv5Dfol47bg) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [loira de medicina](https://open.spotify.com/album/155LCmJKAVr0ZMGd9pHNdf) | 2:33 |
-| 15 | [Carta do Baralho](https://open.spotify.com/track/3Ab10F9gj4O6i30HZR0KqI) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [MC Luanna](https://open.spotify.com/artist/2aekAfiJhZGSD7x9aY5aK1) | [Pé no Chão, Mente Nas Nuvens](https://open.spotify.com/album/5v6XzcP1918N7PWrMfUett) | 3:25 |
+| 15 | [Carta do Baralho](https://open.spotify.com/track/3Ab10F9gj4O6i30HZR0KqI) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Pé no Chão, Mente Nas Nuvens](https://open.spotify.com/album/5v6XzcP1918N7PWrMfUett) | 3:25 |
 | 16 | [DOMINICANA](https://open.spotify.com/track/3V5DUGFkuUGM7nqlwWHLQi) | [Tchelo](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY) | [NOVOS HÁBITOS](https://open.spotify.com/album/65uzff6CI81JisRkr9nJkU) | 2:12 |
 | 17 | [MC de Batalha](https://open.spotify.com/track/48sYhNCkx9es4AyTkIgHVJ) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [A.LBeats](https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo) | [MC de Batalha](https://open.spotify.com/album/2NNZqUGRmQEdAo8AyRQRRy) | 3:08 |
 | 18 | [Get Naughty](https://open.spotify.com/track/5P8LSsLAP75kPDYS4wzHUX) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Doozie](https://open.spotify.com/artist/094tZMLXkYiIpf6u2XAaX1), [Lauren Nicole](https://open.spotify.com/artist/372yikzGlwhP86LfFwZqrX) | [Get Naughty](https://open.spotify.com/album/3nKxR0KC6khTVASw8yFckY) | 3:39 |

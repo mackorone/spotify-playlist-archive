@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  The Imbachi, Gabri
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,792 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,800 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 | 2 | [Moham](https://open.spotify.com/track/4sT5Nq1aJDKagw6mUNLhv8) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW) | [Moham](https://open.spotify.com/album/2Cjd2k8SVeJnh6A0uNuLKA) | 3:56 |
 | 3 | [Bhootha Ganam \(From "Nellikkampoyil Night Riders"\)](https://open.spotify.com/track/4IYDQHPadJZjPvwBlB376b) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf), [Karthika Bs](https://open.spotify.com/artist/0ZjzzGPolLunVabuHA2fQa), [Yakzan Gary Pereira](https://open.spotify.com/artist/4AmlgLX3ZgHhJ9phrzlIRu), [Neha S\. Nair](https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH), [King Orekh](https://open.spotify.com/artist/65uCxjiUkxVYRfRd4yZiJu) | [Bhootha Ganam \(From "Nellikkampoyil Night Riders"\)](https://open.spotify.com/album/0I4wsxzUnoW1sLTIMy41Cl) | 2:59 |
 | 4 | [Sinners \- From "Vala \- Story of a Bangle"](https://open.spotify.com/track/0dHcFjI7SXu6UDMd3LDfgH) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz), [GABRI](https://open.spotify.com/artist/4NPVKDDjJUl4qJX0soxyng) | [Sinners \(From "Vala \- Story of a Bangle"\)](https://open.spotify.com/album/0SGOEbktUPS4MA93V8FRRD) | 4:35 |
-| 5 | [Gangsta Kochi](https://open.spotify.com/track/20fp8A6MEx4W0RhUVHgBQr) | [Brad Ford](https://open.spotify.com/artist/4D4ktluIhtYRFpAEadYaSB) | [Gangsta Kochi](https://open.spotify.com/album/75zGzNHfBH5GZET7Yaj7Ks) | 2:27 |
+| 5 | [Gangsta Kochi](https://open.spotify.com/track/20fp8A6MEx4W0RhUVHgBQr) | [Brad Ford](https://open.spotify.com/artist/4IGYvJx9Mlr92L6astezfE) | [Gangsta Kochi](https://open.spotify.com/album/75zGzNHfBH5GZET7Yaj7Ks) | 2:27 |
 | 6 | [WHYSHE](https://open.spotify.com/track/5k6U5Qo6sAXS6FhbMR1qzh) | [AFRY](https://open.spotify.com/artist/3imnAxKMdZSQSf0G32suKJ), [Bobbydhuth](https://open.spotify.com/artist/1sBX3nvLLesJkoYQuQXxXg) | [WHYSHE](https://open.spotify.com/album/55jLv1XxqUy1FMgAUsofy6) | 2:20 |
 | 7 | [Paapam](https://open.spotify.com/track/3CTqfKM7kDyIICuxDK63QL) | [Aksomaniac](https://open.spotify.com/artist/12tOFlQDhU4Jx6wNb9XO87), [Fatboi Raccoon](https://open.spotify.com/artist/3jZDhH5RtA8K1L61tvUdl4), [Shreyas](https://open.spotify.com/artist/65qLuo5zSTqg8Qb17OCnLu) | [Varthamanam](https://open.spotify.com/album/7LOWpo19ROx5TL0qYTEsnp) | 2:54 |
 | 8 | [മിന്നി മറഞ്ഞു](https://open.spotify.com/track/4A1T3FWBYEi5XQ8eLv9rFs) | [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8), [Efy Music](https://open.spotify.com/artist/1DDwkZwiamO6HSJdB6DtYY) | [GATE](https://open.spotify.com/album/76aZGm2avDSL6BrJwsjuNi) | 2:57 |

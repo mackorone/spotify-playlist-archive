@@ -4,7 +4,7 @@
 
 > This is Spiritbox\. The essential tracks, all in one playlist.
 
-46 songs - 3 hr 1 min
+47 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Ride The Wave](https://open.spotify.com/track/3Fk6MqQs8k1pGV3PJ8jrkY) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:53 | 2025-03-09 | 2025-04-05 |
 | [Rotoscope](https://open.spotify.com/track/5LJmf4fMXEvO1PdlCBKwRz) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW) | 3:35 | 2025-03-08 |  |
 | [Rule Of Nines](https://open.spotify.com/track/4vtJnyP8ukIKcYZ7MhfBHJ) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rule Of Nines](https://open.spotify.com/album/0BGme1FUv8SQHVCPDzXJlr) | 3:31 | 2025-03-08 |  |
-| [Secret Garden](https://open.spotify.com/track/0OzpSEZ5rwwAu1JC2zRAvb) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL) | 3:39 | 2025-03-08 |  |
+| [Secret Garden](https://open.spotify.com/track/0OzpSEZ5rwwAu1JC2zRAvb) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL) | 3:39 | 2025-03-08 | 2025-10-05 |
 | [Sew Me Up](https://open.spotify.com/track/1YQiA0Kfml44BqF68ZQ48n) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/01vIMDzbZrTEhtScu8jrGW) | 3:31 | 2025-03-08 |  |
 | [Shivering](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 | 2025-03-08 |  |
 | [Soft Spine](https://open.spotify.com/track/3t5GlWUzGSt2lPuiSEPBFG) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Soft Spine](https://open.spotify.com/album/54Upk1Q8DmVaMR2MrOvoiR) | 3:03 | 2025-03-08 | 2025-03-14 |
@@ -47,6 +47,7 @@
 | [The Mara Effect, Pt\. 1](https://open.spotify.com/track/0nSs7VI50BrQv7StFpHiIf) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Spiritbox](https://open.spotify.com/album/158bnWWnX3VhlcoD4mcsK5) | 4:40 | 2025-03-08 |  |
 | [The Mara Effect, Pt\. 2](https://open.spotify.com/track/0FlmUj0m30mDgKo6MeUP0e) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Spiritbox](https://open.spotify.com/album/158bnWWnX3VhlcoD4mcsK5) | 3:40 | 2025-03-08 |  |
 | [The Mara Effect, Pt\. 3](https://open.spotify.com/track/0bkviQ95BYne6DqG8AWhiw) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Spiritbox](https://open.spotify.com/album/158bnWWnX3VhlcoD4mcsK5) | 5:38 | 2025-03-08 |  |
+| [The Summit](https://open.spotify.com/track/6PmAWNUMqIJbTbfCOuhwSf) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL) | 3:57 | 2025-10-05 |  |
 | [The Void](https://open.spotify.com/track/2exVVVKvdymCwOFdvmA2bq) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Void](https://open.spotify.com/album/7iAsbehqUN1IsCNG4NlAwu) | 3:40 | 2025-03-08 |  |
 | [Too Close / Too Late](https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 4:41 | 2025-03-08 |  |
 | [Trust Fall](https://open.spotify.com/track/5iC5TeP2eSGLzcH1OwOhG1) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Singles Collection](https://open.spotify.com/album/2qyxvqq9X7ncfHNdZajbPC) | 5:19 | 2025-03-08 |  |

@@ -2,7 +2,7 @@
 
 ### [Palco POP](https://open.spotify.com/playlist/37i9dQZF1DX7GWlXStIq5M)
 
-> Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Lucas Pretti
+> Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Nina Baiochhi, Clarice Falcão
 
 1,041 songs - 2 day 3 hr 45 min
 

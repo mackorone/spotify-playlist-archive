@@ -610,7 +610,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 133333,
       "name": "2 pa 1",
       "url": "https://open.spotify.com/track/7mY74CfnMf1d7fvusV2IVQ"
@@ -5364,7 +5364,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 146938,
       "name": "Ba Ba Bad Remix",
       "url": "https://open.spotify.com/track/2RnCVOUcOaPeTlFRW3NHQJ"
@@ -12424,7 +12424,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 131253,
       "name": "Confess Your Love",
       "url": "https://open.spotify.com/track/5wGsHz4u8LopZlpwIZO60q"
@@ -12784,7 +12784,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 163411,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF"
@@ -20522,7 +20522,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 111627,
       "name": "Eta \u00d1ema",
       "url": "https://open.spotify.com/track/3CwMEOwdKxfa6c5AgnumQS"
@@ -31434,7 +31434,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 226298,
       "name": "LAS NOCHES",
       "url": "https://open.spotify.com/track/0uQhDYHyoZe5DpncrPolb6"
@@ -38309,6 +38309,32 @@
     },
     {
       "album": {
+        "name": "MONTAGEM DIRE\u00c7\u00c3O",
+        "url": "https://open.spotify.com/album/229QzVCN20ePbPd1o2R7QL"
+      },
+      "artists": [
+        {
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+        },
+        {
+          "name": "farofinat beats",
+          "url": "https://open.spotify.com/artist/2uCcj0lTsdhbdZfVSQ7OTM"
+        },
+        {
+          "name": "Dj Samir",
+          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
+        }
+      ],
+      "date_added": "2025-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80442,
+      "name": "MONTAGEM DIRE\u00c7\u00c3O",
+      "url": "https://open.spotify.com/track/1KuF0vl4lKo1EQNAJIlnZM"
+    },
+    {
+      "album": {
         "name": "Montagem Lunar Diamante",
         "url": "https://open.spotify.com/album/0JYZjOll98BB5vPgl2xOLN"
       },
@@ -41887,6 +41913,28 @@
     },
     {
       "album": {
+        "name": "Porque Quise DELUXE",
+        "url": "https://open.spotify.com/album/78Ok3vPNjR0K0WKVz4wYNm"
+      },
+      "artists": [
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        },
+        {
+          "name": "angely2k",
+          "url": "https://open.spotify.com/artist/4gt3Ws8Q3RY6yabs4U5Egl"
+        }
+      ],
+      "date_added": "2025-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "NOTYPE",
+      "url": "https://open.spotify.com/track/4ZRtXnyW2BPAxsAVpe42Fy"
+    },
+    {
+      "album": {
         "name": "ARMAGED\u00d3N",
         "url": "https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk"
       },
@@ -42380,6 +42428,24 @@
       "duration_ms": 201935,
       "name": "offline",
       "url": "https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL"
+    },
+    {
+      "album": {
+        "name": "Foxy Shazam",
+        "url": "https://open.spotify.com/album/4dhCjrqhvcGuIAcP2JIVaR"
+      },
+      "artists": [
+        {
+          "name": "Foxy Shazam",
+          "url": "https://open.spotify.com/artist/5qRXoCC1CDTMTli9gplUvk"
+        }
+      ],
+      "date_added": "2025-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250960,
+      "name": "Oh Lord",
+      "url": "https://open.spotify.com/track/5iJU96441eAZ2VdWgxdyJa"
     },
     {
       "album": {
@@ -52906,7 +52972,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 146409,
       "name": "Si Me Gano Un Grammy",
       "url": "https://open.spotify.com/track/0e0BqjHEcb6pJAVJ7WZA7V"
@@ -59640,7 +59706,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 188487,
       "name": "Todas Mienten",
       "url": "https://open.spotify.com/track/3n4WxHTolQrNMxhT5OiGHO"
@@ -60520,7 +60586,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-05",
       "duration_ms": 358000,
       "name": "True Love",
       "url": "https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW"

@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-284 songs - 13 hr 43 min
+285 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Glitching](https://open.spotify.com/track/5mGFbVJPUbx8ml6o3gFzcI) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Glitching](https://open.spotify.com/album/5tEOEdmq5hskUT0cNQlEj8) | 2:27 | 2023-04-28 |  |
 | [Gloom](https://open.spotify.com/track/0KfCNOZ5t6pld3BPrsclKW) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Gloom](https://open.spotify.com/album/2oW7DPtkYty3pzxB5UsB3u) | 2:50 | 2024-12-12 |  |
 | [Golden Meadow](https://open.spotify.com/track/2RnLkBVNSErnfTgnRtT7lJ) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Golden Meadow](https://open.spotify.com/album/7csw7q2jmFiLOJdEpHQgyw) | 2:40 | 2023-04-28 |  |
-| [Grandiosa](https://open.spotify.com/track/6ondOZjfiq0FiGari0uFuv) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Grandiosa](https://open.spotify.com/album/3M3SKrrQ0T2VfVLCWF36Rv) | 2:18 | 2025-10-02 |  |
+| [Grandiosa](https://open.spotify.com/track/6ondOZjfiq0FiGari0uFuv) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Grandiosa](https://open.spotify.com/album/3M3SKrrQ0T2VfVLCWF36Rv) | 2:18 | 2025-10-02 | 2025-10-05 |
 | [Grounded](https://open.spotify.com/track/4OLwU8YwGCYUAureSrInHQ) | [Zilon Tay](https://open.spotify.com/artist/5MXcNvb6HXa2KgYvCqRbuU) | [Grounded](https://open.spotify.com/album/73OcD8zbuUAOvWShwFij1r) | 2:43 | 2023-09-08 |  |
 | [Grow, My Dear](https://open.spotify.com/track/5CRZJDlRrjmWXVmnhFHcQY) | [Felix Dekker](https://open.spotify.com/artist/0mUCh5H0yIr67MM7lPq3kL) | [Grow, My Dear](https://open.spotify.com/album/60IN9Im3JUIoN2YGAnMhvs) | 2:57 | 2025-03-19 |  |
 | [Halfmoon](https://open.spotify.com/track/0AdOu6FCkWdtrCxPYP4yS9) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Halfmoon](https://open.spotify.com/album/3f4dbs1Vhi3VBJ121oobzs) | 2:49 | 2023-08-11 |  |
@@ -245,6 +245,7 @@
 | [Sunrise in a Jar](https://open.spotify.com/track/0e5XpVnnRRLrIYb1tcuBTE) | [Stone Steps](https://open.spotify.com/artist/4FDTSH6593ZrweLvsonjQ5) | [Sunrise in a Jar](https://open.spotify.com/album/1Nzkj2cu59W15lC5Ps3OLV) | 3:21 | 2024-04-01 | 2024-06-04 |
 | [Surface Water](https://open.spotify.com/track/74cd9khXUG4UsEAKZLCuKO) | [Elements Of Matter](https://open.spotify.com/artist/2msV34nEca2EAuKzEUp2Ef) | [Surface Water](https://open.spotify.com/album/1eEODxWpy92t2vU3gbvBND) | 2:43 | 2025-04-11 |  |
 | [Swells of Peace](https://open.spotify.com/track/2dIc6DpyULpWApOIcfrJ9R) | [Beyond Observable](https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq) | [Swells of Peace](https://open.spotify.com/album/0JdcL1uvu23PI3A0pdYEPF) | 2:23 | 2024-04-01 | 2025-09-11 |
+| [Taledra](https://open.spotify.com/track/4p63wTrHhA2L5ik5hSMx3M) | [Lux Alba](https://open.spotify.com/artist/18NVPzP15IyNqKnkShIdVz) | [Taledra](https://open.spotify.com/album/0bYVlFv5nKN4cIYgfFMvdt) | 2:41 | 2025-10-02 |  |
 | [Tall Signs](https://open.spotify.com/track/1sfIqjgvXMyek71Oq86kD7) | [Faux Moon](https://open.spotify.com/artist/6nDHxcxzE1HEYG9PYmuVQW) | [Tall Signs](https://open.spotify.com/album/6cxw4V46E77PerOomIH8oP) | 2:38 | 2025-09-10 |  |
 | [Temple of the Spirits](https://open.spotify.com/track/3vJ4hPdQlIiFGA0nlxjTqW) | [Full Presence](https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB) | [Temple of the Spirits](https://open.spotify.com/album/34Q0mz7T84wLpgX19v7vtq) | 2:27 | 2024-12-20 |  |
 | [Thankful](https://open.spotify.com/track/2UXjwMD5scjJzBh3nmQAX8) | [Regentum](https://open.spotify.com/artist/6gfKfJS89ZAy4mSAlwTXvc) | [Thankful](https://open.spotify.com/album/73ZOqAI2ARO0Chn2Vg3wrw) | 3:14 | 2023-04-28 | 2024-08-24 |

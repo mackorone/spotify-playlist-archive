@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,818 songs - 5 day 3 hr 40 min
+1,819 songs - 5 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,7 @@
 | [Daffodils](https://open.spotify.com/track/6Wx7Zbi9bgT0qqqmWndWW5) | [Jacaszek](https://open.spotify.com/artist/46xbeTrtjYfCObCHTlGOPW) | [Daffodils](https://open.spotify.com/album/0wc6Yze5PRKUGdMPayCTGq) | 5:01 | 2020-05-18 | 2021-01-11 |
 | [Dance In The Sunlight](https://open.spotify.com/track/3ipy5ap1gVSdERpF5ays6F) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bandit](https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2) | [Dance In The Sunlight](https://open.spotify.com/album/3ITR6LlbWdAuHID9WYvP78) | 2:47 | 2025-03-28 |  |
 | [Dapple](https://open.spotify.com/track/6zU1KwHoeJfyinQtFyst4m) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Dapple](https://open.spotify.com/album/1P2cw0QNAaWCdPF7H5fxvJ) | 3:28 | 2020-03-20 | 2022-04-21 |
-| [Dark In This Room](https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Dark In This Room](https://open.spotify.com/album/0wrMY5uUsBFVvfnXLLeA6z) | 4:12 | 2024-06-21 |  |
+| [Dark In This Room](https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Dark In This Room](https://open.spotify.com/album/0wrMY5uUsBFVvfnXLLeA6z) | 4:12 | 2024-06-21 | 2025-10-05 |
 | [Dawn](https://open.spotify.com/track/5adS6sOA3qKVw5qxhRPowE) | [mölly](https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq), [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs), [Afnan Prince](https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ) | [Dawn](https://open.spotify.com/album/0YQeE6phJTbw0RH4xrkZXs) | 4:22 | 2025-06-20 |  |
 | [Dawn \(feat\. ROBB\)](https://open.spotify.com/track/6u34bB6XweoIFTtBOEvoZr) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [ROBB](https://open.spotify.com/artist/4fCOnFAkJPYFgK847YsUXv) | [Dawn EP](https://open.spotify.com/album/6r12F8ZnMQxGdUVBWoBjqM) | 4:33 | 2020-05-18 | 2020-07-03 |
 | [Day Dream](https://open.spotify.com/track/35anp3GjvtlMY0869WNQpY) | [Eleven Fly](https://open.spotify.com/artist/34qu9X2o3eh1ly1VgbGbuK), [March 13](https://open.spotify.com/artist/1HFMq4FxAkAIGOedJoCBDO) | [Run / Day Dream EP](https://open.spotify.com/album/1LTOux9nnTVZe1pDRPzOLT) | 3:38 | 2020-05-18 | 2020-07-18 |
@@ -1487,6 +1487,7 @@
 | [Starlight](https://open.spotify.com/track/5epMdylltsD0tLc8TCkt9M) | [Embee](https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF) | [Starlight](https://open.spotify.com/album/1Ff2oSlw18ClcWPl5TsVM1) | 2:50 | 2020-05-18 | 2022-04-21 |
 | [Starlight](https://open.spotify.com/track/7lYGmGag8kjKIhYt6Y65a8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Starlight](https://open.spotify.com/album/1f27ATRGBUjd7HxAYWRAs2) | 3:43 | 2020-05-18 | 2020-07-18 |
 | [Stars \(feat\. Haley\)](https://open.spotify.com/track/3CBSazHvVcqFDP9EnOmk5N) | [Project 46](https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ) | [Summer Feels \- EP](https://open.spotify.com/album/3uhfuZ398DO04cdnp8ic86) | 3:52 | 2020-05-18 | 2020-07-18 |
+| [Start A Fire](https://open.spotify.com/track/28cYQJKDB6tiGSDzHAVAPE) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Start A Fire](https://open.spotify.com/album/3UTBLc4db5ykQ5m6Pp5VJq) | 3:51 | 2025-10-03 |  |
 | [State Of Mind](https://open.spotify.com/track/769a3KrWIeyqIeAsKSyq2Y) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA) | [State Of Mind](https://open.spotify.com/album/3l1Cs2OVHkj5aLiFHyOlDg) | 4:39 | 2025-04-04 |  |
 | [Stay](https://open.spotify.com/track/7w86jiNM1neRMCbkhvjYyo) | [ASHE](https://open.spotify.com/artist/5xTp3xrqM94mOTJdfOAUP8), [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [Strangers Dream](https://open.spotify.com/album/4SeZQJZpVSQpWNCyKO5pru) | 5:22 | 2021-03-14 | 2022-07-28 |
 | [Stay](https://open.spotify.com/track/716VJhE66ugznJ3u08gofV) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [Sophie and the Bom Boms](https://open.spotify.com/artist/3CzcBE7wIy9pCYEyraRZ5A) | [Sleepless EP](https://open.spotify.com/album/38NuIhP25TzDy8kqki5XzM) | 3:23 | 2020-05-18 | 2020-07-03 |

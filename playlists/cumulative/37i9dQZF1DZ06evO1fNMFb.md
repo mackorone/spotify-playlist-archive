@@ -4,7 +4,7 @@
 
 > This is Natania\. The essential tracks, all in one playlist.
 
-49 songs - 2 hr 17 min
+50 songs - 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Get Dat](https://open.spotify.com/track/1t1eeYi7HjDQxcgjZavRGu) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:43 | 2025-07-04 |  |
 | [Get Together](https://open.spotify.com/track/4koHShRkiVWXavKjkSyxXQ) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Pick It Up](https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq) | 2:36 | 2025-07-04 |  |
 | [Gulzar](https://open.spotify.com/track/0qkXvj4p0hZ3ETGl1r8ULV) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Gulzar](https://open.spotify.com/album/6hN4c25T3ZWXjpjNjwW5iD) | 3:09 | 2025-07-04 |  |
+| [Haule Haule](https://open.spotify.com/track/3I4JiUh4I6I2JJaqfIT7dO) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Haule Haule](https://open.spotify.com/album/0nbatMNOhz0rm79eC6C0Ys) | 4:03 | 2025-10-05 |  |
 | [Hell of A Ride](https://open.spotify.com/track/6ge8kuBbrS6Sy1vRiQFMBB) | [Parth Parekh](https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40), [Aniket Mangrulkar](https://open.spotify.com/artist/67teYYqIg5ffWDHj6nqOIB) | [Four More Shots Please! Season 3 \(Original Series Soundtrack\)](https://open.spotify.com/album/4VCr1CMHyeW8NQaB5njvAC) | 2:28 | 2025-07-04 |  |
 | [Higher Love \(feat\. Natania and Subhi\) \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/7vh5wN9o1meMGK8DooO7KD) | [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Higher Love \(feat\. Natania and Subhi\) \[from the Smurfs Movie Soundtrack\]](https://open.spotify.com/album/4AitGOdoQPQZGcpiGXMHAq) | 2:56 | 2025-07-04 |  |
 | [Honey](https://open.spotify.com/track/1FpyIuBKyNKG2O06ZawDlo) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Honey](https://open.spotify.com/album/51T3czrBwVl8aB2XRCGzMb) | 2:13 | 2025-07-04 |  |

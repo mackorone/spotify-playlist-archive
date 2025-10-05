@@ -4,7 +4,7 @@
 
 > This is Scorpions\. The essential tracks, all in one playlist.
 
-93 songs - 7 hr 6 min
+94 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,8 +97,9 @@
 | [When You Know \(Where You Come From\)](https://open.spotify.com/track/4cXLQrYdvNNRGg6fpCxWT2) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 4:22 | 2022-09-17 |  |
 | [Where the River Flows \(feat\. Ina Müller\) \- Studio Edit](https://open.spotify.com/track/0uAaH1DhDFg2rumxVT2X1q) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY), [Ina Müller](https://open.spotify.com/artist/4sX5aHE7Jnbl4bTrah2aDu) | [MTV Unplugged \(The Studio Edits\)](https://open.spotify.com/album/0qnfKJaZ29PXoBeMIuUkrb) | 3:53 | 2022-09-17 | 2022-10-09 |
 | [White Dove](https://open.spotify.com/track/3C5OACv4JfvLAmUdxVugrk) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Live Bites](https://open.spotify.com/album/7CJ59CBDycdjun1rBbSKlK) | 4:20 | 2022-10-12 |  |
-| [Wind of Change](https://open.spotify.com/track/5WSsTyBvMEFG3ac6JKb9gY) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 5:08 | 2022-09-17 |  |
+| [Wind of Change](https://open.spotify.com/track/5WSsTyBvMEFG3ac6JKb9gY) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 5:08 | 2022-09-17 | 2025-10-05 |
 | [Wind Of Change](https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 5:12 | 2022-09-17 |  |
+| [Wind Of Change \- On Stage](https://open.spotify.com/track/3SttHkLRcYG1LnVILfTyA8) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Wind Of Change \(On Stage\)](https://open.spotify.com/album/2dS7qHtDTnNxZjF1OclZWP) | 5:05 | 2025-10-05 |  |
 | [You & I](https://open.spotify.com/track/659lSEpj2x1hRdpLCSO5Wk) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [You & I](https://open.spotify.com/album/3C7MMV9RWemgXyu2XAil6u) | 6:15 | 2025-09-28 |  |
 | [You & I \- Live](https://open.spotify.com/track/1Ovgu7X7u8zYoURU62ESmu) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Acoustica](https://open.spotify.com/album/6VOsm3ABkYoOnJFHo4iG6q) | 5:19 | 2022-09-17 | 2025-09-28 |
 
