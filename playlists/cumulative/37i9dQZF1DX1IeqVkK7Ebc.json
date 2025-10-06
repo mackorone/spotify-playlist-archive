@@ -647,6 +647,24 @@
     },
     {
       "album": {
+        "name": "Camera (Unplugged)",
+        "url": "https://open.spotify.com/album/0i3yVznQnq0h5g9Pn6Q6pl"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213594,
+      "name": "Camera - Unplugged",
+      "url": "https://open.spotify.com/track/3LGcolProZ9dVz33pOSh1t"
+    },
+    {
+      "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
@@ -1106,6 +1124,24 @@
       "duration_ms": 160666,
       "name": "d\u00a3aler",
       "url": "https://open.spotify.com/track/2oEWlfp7bWOb3Mqiyhu8rW"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208291,
+      "name": "Elizabeth Taylor",
+      "url": "https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL"
     },
     {
       "album": {
@@ -3216,7 +3252,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 156165,
       "name": "Same Mouth",
       "url": "https://open.spotify.com/track/3eVNwlFGyGwaLGIS71cS8a"
@@ -4078,7 +4114,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 129032,
       "name": "Trippin",
       "url": "https://open.spotify.com/track/5uSu5qSPTshlm0LK52mEkz"

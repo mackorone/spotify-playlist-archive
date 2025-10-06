@@ -385,6 +385,24 @@
     },
     {
       "album": {
+        "name": "Ana 3liha nma3ni",
+        "url": "https://open.spotify.com/album/1xozR2CaoTjqGID8aIHsyb"
+      },
+      "artists": [
+        {
+          "name": "Abdou Gambetta",
+          "url": "https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "Ana 3liha nma3ni",
+      "url": "https://open.spotify.com/track/44DPiQfi22Azsv22TBzRFW"
+    },
+    {
+      "album": {
         "name": "Ana wiyak",
         "url": "https://open.spotify.com/album/7kuIaZYSdwLrufUJu8YRmk"
       },
@@ -2115,6 +2133,28 @@
     },
     {
       "album": {
+        "name": "Labgha 3Ch9ak Hareb",
+        "url": "https://open.spotify.com/album/7iPbc1jPPu6OJi8Ny7Z8NF"
+      },
+      "artists": [
+        {
+          "name": "Cheb Reda Sghir",
+          "url": "https://open.spotify.com/artist/0VMu3WU9lEAFyqE1fBvsha"
+        },
+        {
+          "name": "Yahia Parolier",
+          "url": "https://open.spotify.com/artist/3CeDxB4snL6bEuyLhW2LYK"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247408,
+      "name": "Labgha 3Ch9ak Hareb",
+      "url": "https://open.spotify.com/track/1w5ZcbVErRFw3JgvzItuFa"
+    },
+    {
+      "album": {
         "name": "Labset Katifa",
         "url": "https://open.spotify.com/album/7coxul1zOPL2xIM0tBnShD"
       },
@@ -3394,7 +3434,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 769593,
       "name": "Tayer 3la jalha Rouho golouhalh",
       "url": "https://open.spotify.com/track/59h6C78HlXp830a2rkxfoC"
@@ -3706,7 +3746,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 428849,
       "name": "Ya Glbi",
       "url": "https://open.spotify.com/track/4iR1FL0ou2i5N9fMv4UZ2M"

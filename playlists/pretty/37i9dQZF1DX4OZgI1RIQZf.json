@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 129331,
+  "num_followers": 129359,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2025-09-26 00:01:30",
       "album": {
+        "name": "The Physical World",
+        "url": "https://open.spotify.com/album/0jwaEsMikUvFhywAHDFrVw"
+      },
+      "artists": [
+        {
+          "name": "Death From Above 1979",
+          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Right On, Frankenstein!",
+      "url": "https://open.spotify.com/track/6enpWqM9QhTk7qQTXp1KB5"
+    },
+    {
+      "added_at": "2025-09-26 00:01:30",
+      "album": {
         "name": "We Need Medicine",
         "url": "https://open.spotify.com/album/20K4oohZg7r3nYN8VSBtj6"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 167253,
       "name": "Evil Eye",
       "url": "https://open.spotify.com/track/2F3dEXRcLx9nQT8qCnHj1j"
-    },
-    {
-      "added_at": "2025-09-26 00:01:30",
-      "album": {
-        "name": "The Physical World",
-        "url": "https://open.spotify.com/album/0jwaEsMikUvFhywAHDFrVw"
-      },
-      "artists": [
-        {
-          "name": "Death From Above 1979",
-          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Right On, Frankenstein!",
-      "url": "https://open.spotify.com/track/6enpWqM9QhTk7qQTXp1KB5"
     },
     {
       "added_at": "2025-09-26 00:01:30",

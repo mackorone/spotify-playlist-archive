@@ -1,12 +1,12 @@
 {
   "description": "This is Lacuna Coil. The essential tracks, all in one playlist.",
-  "num_followers": 34285,
+  "num_followers": 34295,
   "original_name": "This Is Lacuna Coil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAAA2CufDOra7adVXe0U3X33R",
+  "snapshot_id": "aOBjgAAAAADVotPlZv676GVR6oHdEZ4t",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In a Reverie",
-        "url": "https://open.spotify.com/album/3OGMfNOHgqT5KQeOrESXbG"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 307266,
-      "name": "Falling Again",
-      "url": "https://open.spotify.com/track/1M3h1uXXNSG5wAjErb1Y15"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Delirium",
         "url": "https://open.spotify.com/album/5ddVEy5XVXrK6fEL0jNLYs"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 236266,
       "name": "My Demons",
       "url": "https://open.spotify.com/track/31B9r2N9vAqhHciZanfucd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In a Reverie",
+        "url": "https://open.spotify.com/album/3OGMfNOHgqT5KQeOrESXbG"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 307266,
+      "name": "Falling Again",
+      "url": "https://open.spotify.com/track/1M3h1uXXNSG5wAjErb1Y15"
     },
     {
       "added_at": null,
@@ -544,25 +544,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 276560,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/3wRWnQjaodUfbTx8tmVRtZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Comalies",
-        "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 217666,
-      "name": "Unspoken",
-      "url": "https://open.spotify.com/track/3RaxN3FA8bvtjHPBEaDnID"
+      "duration_ms": 371426,
+      "name": "Veneficium",
+      "url": "https://open.spotify.com/track/2SievHiWihoHHBaes2m8Wx"
     },
     {
       "added_at": null,
@@ -579,6 +563,22 @@
       "duration_ms": 317191,
       "name": "The House of Shame",
       "url": "https://open.spotify.com/track/3mEExxNbWKdTJImI7KTvU0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comalies",
+        "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 217666,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/3RaxN3FA8bvtjHPBEaDnID"
     },
     {
       "added_at": null,
@@ -608,25 +608,9 @@
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
         }
       ],
-      "duration_ms": 371426,
-      "name": "Veneficium",
-      "url": "https://open.spotify.com/track/2SievHiWihoHHBaes2m8Wx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Comalies",
-        "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
-      },
-      "artists": [
-        {
-          "name": "Lacuna Coil",
-          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        }
-      ],
-      "duration_ms": 255200,
-      "name": "Tight Rope",
-      "url": "https://open.spotify.com/track/4ELHk26fjscfQpmKHV0gLe"
+      "duration_ms": 276560,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/3wRWnQjaodUfbTx8tmVRtZ"
     },
     {
       "added_at": null,
@@ -643,6 +627,22 @@
       "duration_ms": 183440,
       "name": "Upsidedown",
       "url": "https://open.spotify.com/track/0dA9TfUtgoVZTWiGUEXiIq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comalies",
+        "url": "https://open.spotify.com/album/1zFvNbQjRGiCalBnPzUEyN"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        }
+      ],
+      "duration_ms": 255200,
+      "name": "Tight Rope",
+      "url": "https://open.spotify.com/track/4ELHk26fjscfQpmKHV0gLe"
     },
     {
       "added_at": null,

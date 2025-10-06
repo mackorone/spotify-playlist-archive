@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 192044,
+  "num_followers": 192052,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2025-10-01 08:24:37",
       "album": {
+        "name": "Wither",
+        "url": "https://open.spotify.com/album/67cUnpKyp9JRjQXOuXfvCM"
+      },
+      "artists": [
+        {
+          "name": "Sevens",
+          "url": "https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd"
+        }
+      ],
+      "duration_ms": 180173,
+      "name": "Wither",
+      "url": "https://open.spotify.com/track/75tuLoo93ovd5lSDWrTdpi"
+    },
+    {
+      "added_at": "2025-10-01 08:24:37",
+      "album": {
         "name": "Martyr",
         "url": "https://open.spotify.com/album/1MzFcyK6GVCXGXKhu8vBlI"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 210520,
       "name": "4am",
       "url": "https://open.spotify.com/track/1OvoqDv9bEHUs4oVaX70wv"
-    },
-    {
-      "added_at": "2025-10-01 08:24:37",
-      "album": {
-        "name": "Wither",
-        "url": "https://open.spotify.com/album/67cUnpKyp9JRjQXOuXfvCM"
-      },
-      "artists": [
-        {
-          "name": "Sevens",
-          "url": "https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd"
-        }
-      ],
-      "duration_ms": 180173,
-      "name": "Wither",
-      "url": "https://open.spotify.com/track/75tuLoo93ovd5lSDWrTdpi"
     },
     {
       "added_at": "2025-10-01 08:24:37",
@@ -243,22 +243,6 @@
     {
       "added_at": "2025-10-01 08:24:37",
       "album": {
-        "name": "Stonewall Riots Forever",
-        "url": "https://open.spotify.com/album/5a7UNqcVVkbZybijRntt5P"
-      },
-      "artists": [
-        {
-          "name": "Dressed Like Boys",
-          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
-        }
-      ],
-      "duration_ms": 238372,
-      "name": "Stonewall Riots Forever",
-      "url": "https://open.spotify.com/track/3Ozml8RxFfvpqPrGKzU87x"
-    },
-    {
-      "added_at": "2025-10-01 08:24:37",
-      "album": {
         "name": "The Sun Will Rise",
         "url": "https://open.spotify.com/album/3QC6ggv8vSOBWdIwkLU7BQ"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 183226,
       "name": "The Sun Will Rise",
       "url": "https://open.spotify.com/track/2zEh9FgszAX9ms1rdOeDX0"
+    },
+    {
+      "added_at": "2025-10-01 08:24:37",
+      "album": {
+        "name": "Stonewall Riots Forever",
+        "url": "https://open.spotify.com/album/5a7UNqcVVkbZybijRntt5P"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "duration_ms": 238372,
+      "name": "Stonewall Riots Forever",
+      "url": "https://open.spotify.com/track/3Ozml8RxFfvpqPrGKzU87x"
     },
     {
       "added_at": "2025-10-01 08:24:37",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-10-01 08:24:37",
       "album": {
-        "name": "Cold Comfort",
-        "url": "https://open.spotify.com/album/4tO6Fxl8uuoQjeYpUT00t6"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 164970,
-      "name": "Cold Comfort",
-      "url": "https://open.spotify.com/track/08P9JuQ2LGJDTue3lUsTt6"
-    },
-    {
-      "added_at": "2025-10-01 08:24:37",
-      "album": {
         "name": "somebody's daughter",
         "url": "https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 200806,
       "name": "i'm not afraid of dying",
       "url": "https://open.spotify.com/track/5b82NDDYznzAYwu3iT6tky"
+    },
+    {
+      "added_at": "2025-10-01 08:24:37",
+      "album": {
+        "name": "Cold Comfort",
+        "url": "https://open.spotify.com/album/4tO6Fxl8uuoQjeYpUT00t6"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 164970,
+      "name": "Cold Comfort",
+      "url": "https://open.spotify.com/track/08P9JuQ2LGJDTue3lUsTt6"
     },
     {
       "added_at": "2025-10-01 08:24:37",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-10-01 08:24:37",
       "album": {
-        "name": "Shape Of The Dunes",
-        "url": "https://open.spotify.com/album/0iJBWKAPrHKMncHoYuGwPe"
-      },
-      "artists": [
-        {
-          "name": "Liza Weald",
-          "url": "https://open.spotify.com/artist/4pE0J1Lxb3hXti8fOrmt9C"
-        }
-      ],
-      "duration_ms": 193445,
-      "name": "Shape Of The Dunes",
-      "url": "https://open.spotify.com/track/3O5ryOKDo5ua9qQgFZxRe9"
-    },
-    {
-      "added_at": "2025-10-01 08:24:37",
-      "album": {
         "name": "Never Again",
         "url": "https://open.spotify.com/album/4ThezZScitRuZONCfkJewe"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 172920,
       "name": "Never Again",
       "url": "https://open.spotify.com/track/0KwMTCtE9g1K3e6VoOjf0A"
+    },
+    {
+      "added_at": "2025-10-01 08:24:37",
+      "album": {
+        "name": "Shape Of The Dunes",
+        "url": "https://open.spotify.com/album/0iJBWKAPrHKMncHoYuGwPe"
+      },
+      "artists": [
+        {
+          "name": "Liza Weald",
+          "url": "https://open.spotify.com/artist/4pE0J1Lxb3hXti8fOrmt9C"
+        }
+      ],
+      "duration_ms": 193445,
+      "name": "Shape Of The Dunes",
+      "url": "https://open.spotify.com/track/3O5ryOKDo5ua9qQgFZxRe9"
     },
     {
       "added_at": "2025-10-01 08:24:37",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-10-01 08:24:37",
       "album": {
-        "name": "Sincerely, Sevens",
-        "url": "https://open.spotify.com/album/5v8vQHWZctWcuM6VpuLAFn"
-      },
-      "artists": [
-        {
-          "name": "Sevens",
-          "url": "https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd"
-        }
-      ],
-      "duration_ms": 250306,
-      "name": "Exit Wounds",
-      "url": "https://open.spotify.com/track/4ExjFndsVBO5i2mAB5Eutf"
-    },
-    {
-      "added_at": "2025-10-01 08:24:37",
-      "album": {
         "name": "Bleeding Colours",
         "url": "https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2025-10-01 08:24:37",
       "album": {
-        "name": "An Hour Per Day",
-        "url": "https://open.spotify.com/album/32QlWfeGQTrlE5JFR3Teav"
+        "name": "Sincerely, Sevens",
+        "url": "https://open.spotify.com/album/5v8vQHWZctWcuM6VpuLAFn"
       },
       "artists": [
         {
-          "name": "Robin Kester",
-          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
+          "name": "Sevens",
+          "url": "https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd"
         }
       ],
-      "duration_ms": 217646,
-      "name": "An Hour Per Day",
-      "url": "https://open.spotify.com/track/7rBwAUy2w1CPrrIan7r2Rd"
+      "duration_ms": 250306,
+      "name": "Exit Wounds",
+      "url": "https://open.spotify.com/track/4ExjFndsVBO5i2mAB5Eutf"
     },
     {
       "added_at": "2025-10-01 08:24:37",
@@ -835,6 +819,22 @@
       "duration_ms": 215000,
       "name": "At The Party",
       "url": "https://open.spotify.com/track/0eD9nDx3ZdZt5wzLOOUtxy"
+    },
+    {
+      "added_at": "2025-10-01 08:24:37",
+      "album": {
+        "name": "An Hour Per Day",
+        "url": "https://open.spotify.com/album/32QlWfeGQTrlE5JFR3Teav"
+      },
+      "artists": [
+        {
+          "name": "Robin Kester",
+          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
+        }
+      ],
+      "duration_ms": 217646,
+      "name": "An Hour Per Day",
+      "url": "https://open.spotify.com/track/7rBwAUy2w1CPrrIan7r2Rd"
     },
     {
       "added_at": "2025-10-01 08:24:37",
@@ -943,6 +943,22 @@
     {
       "added_at": "2025-10-01 08:24:37",
       "album": {
+        "name": "More Than Enough",
+        "url": "https://open.spotify.com/album/2N0laeE3SqH46ADFdgcs34"
+      },
+      "artists": [
+        {
+          "name": "Lisette",
+          "url": "https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO"
+        }
+      ],
+      "duration_ms": 196821,
+      "name": "More Than Enough",
+      "url": "https://open.spotify.com/track/1wTtnNyUUrJL4erWEUfC77"
+    },
+    {
+      "added_at": "2025-10-01 08:24:37",
+      "album": {
         "name": "Boat",
         "url": "https://open.spotify.com/album/27Df3AJdoQ94z0CD6XmKqA"
       },
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2025-10-01 08:24:37",
       "album": {
-        "name": "More Than Enough",
-        "url": "https://open.spotify.com/album/2N0laeE3SqH46ADFdgcs34"
-      },
-      "artists": [
-        {
-          "name": "Lisette",
-          "url": "https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO"
-        }
-      ],
-      "duration_ms": 196821,
-      "name": "More Than Enough",
-      "url": "https://open.spotify.com/track/1wTtnNyUUrJL4erWEUfC77"
-    },
-    {
-      "added_at": "2025-10-01 08:24:37",
-      "album": {
         "name": "Swimming",
         "url": "https://open.spotify.com/album/2AmsdFE6K0JljNeAB2EqrD"
       },
@@ -1055,6 +1055,22 @@
       "duration_ms": 209237,
       "name": "Swimming",
       "url": "https://open.spotify.com/track/0LuRbtuakg2uS1z5qoDzba"
+    },
+    {
+      "added_at": "2025-10-01 08:24:37",
+      "album": {
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/7pYx7rQtcVhaLEKlf0QQ4Y"
+      },
+      "artists": [
+        {
+          "name": "Lisette",
+          "url": "https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO"
+        }
+      ],
+      "duration_ms": 225595,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/72RALfAJBuXc939MfC0Gl7"
     },
     {
       "added_at": "2025-10-01 08:24:37",
@@ -1091,34 +1107,18 @@
     {
       "added_at": "2025-10-01 08:24:37",
       "album": {
-        "name": "my moon",
-        "url": "https://open.spotify.com/album/6cevS6KNQ3lsNIEtMskfQ2"
+        "name": "Where's The Fun In That?",
+        "url": "https://open.spotify.com/album/4b4p6k9ibGvXrIaVk7BDgg"
       },
       "artists": [
         {
-          "name": "la loye",
-          "url": "https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S"
+          "name": "Ola",
+          "url": "https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC"
         }
       ],
-      "duration_ms": 127440,
-      "name": "my moon",
-      "url": "https://open.spotify.com/track/1hafzeP5FlBnUljHl6OIKh"
-    },
-    {
-      "added_at": "2025-10-01 08:24:37",
-      "album": {
-        "name": "Lucy",
-        "url": "https://open.spotify.com/album/7pYx7rQtcVhaLEKlf0QQ4Y"
-      },
-      "artists": [
-        {
-          "name": "Lisette",
-          "url": "https://open.spotify.com/artist/5mfbtUhhXdjlP7mysPltPO"
-        }
-      ],
-      "duration_ms": 225595,
-      "name": "Lucy",
-      "url": "https://open.spotify.com/track/72RALfAJBuXc939MfC0Gl7"
+      "duration_ms": 148125,
+      "name": "Where's The Fun In That?",
+      "url": "https://open.spotify.com/track/0sZtc0hnEZL9OJ1PfyaCWS"
     },
     {
       "added_at": "2025-10-01 08:24:37",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2025-10-01 08:24:37",
       "album": {
-        "name": "Where's The Fun In That?",
-        "url": "https://open.spotify.com/album/4b4p6k9ibGvXrIaVk7BDgg"
+        "name": "my moon",
+        "url": "https://open.spotify.com/album/6cevS6KNQ3lsNIEtMskfQ2"
       },
       "artists": [
         {
-          "name": "Ola",
-          "url": "https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC"
+          "name": "la loye",
+          "url": "https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S"
         }
       ],
-      "duration_ms": 148125,
-      "name": "Where's The Fun In That?",
-      "url": "https://open.spotify.com/track/0sZtc0hnEZL9OJ1PfyaCWS"
+      "duration_ms": 127440,
+      "name": "my moon",
+      "url": "https://open.spotify.com/track/1hafzeP5FlBnUljHl6OIKh"
     },
     {
       "added_at": "2025-10-01 08:24:37",
@@ -1167,6 +1167,22 @@
       "duration_ms": 198806,
       "name": "When Everything Was Right",
       "url": "https://open.spotify.com/track/5NYG2qj2ohCYhHykzBhPRK"
+    },
+    {
+      "added_at": "2025-10-01 08:24:37",
+      "album": {
+        "name": "A Passage Between",
+        "url": "https://open.spotify.com/album/6ghjaRprdmAhepnKaEpVIL"
+      },
+      "artists": [
+        {
+          "name": "Melle Jutte",
+          "url": "https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ"
+        }
+      ],
+      "duration_ms": 252705,
+      "name": "Realize (Essence)",
+      "url": "https://open.spotify.com/track/789rnoPBFblPQBMTNGrGc2"
     },
     {
       "added_at": "2025-10-01 08:24:37",
@@ -1199,22 +1215,6 @@
       "duration_ms": 148000,
       "name": "In My Head Today",
       "url": "https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL"
-    },
-    {
-      "added_at": "2025-10-01 08:24:37",
-      "album": {
-        "name": "A Passage Between",
-        "url": "https://open.spotify.com/album/6ghjaRprdmAhepnKaEpVIL"
-      },
-      "artists": [
-        {
-          "name": "Melle Jutte",
-          "url": "https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ"
-        }
-      ],
-      "duration_ms": 252705,
-      "name": "Realize (Essence)",
-      "url": "https://open.spotify.com/track/789rnoPBFblPQBMTNGrGc2"
     },
     {
       "added_at": "2025-10-01 08:24:37",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: JO1
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,046 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,061 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,16 +12,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 2 | [ATAMI](https://open.spotify.com/track/3ajXAg7HBTYXylCWh9PSkT) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅱ](https://open.spotify.com/album/14nvfkvkYheGoYCbhLL5ZE) | 2:37 |
 | 3 | [5, 4, 3 \(Pretty woman\) \(feat\. Lay Bankz\)](https://open.spotify.com/track/4eTDkRxOmm4llv4Yr1bteq) | [CxM](https://open.spotify.com/artist/7kjuLdYbtTkWBToMu2ebZN), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [CxM 1st Mini Album ‘HYPE VIBES’](https://open.spotify.com/album/4PxPsw7YFuzBaJZ3dHUV55) | 2:46 |
 | 4 | [ICONIK](https://open.spotify.com/track/3b7ejK9HytsRwa1Wne277w) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [NEVER SAY NEVER](https://open.spotify.com/album/5IW8xxg85CGHRAMsiW0VLJ) | 3:13 |
-| 5 | [Ash](https://open.spotify.com/track/0k7wgQsVXg6ojBukAleznY) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Ashes to Light](https://open.spotify.com/album/0N3IF32AyRsrhGO8YIl4qF) | 3:17 |
-| 6 | [GO!](https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:50 |
-| 7 | [PARADISE](https://open.spotify.com/track/1hnUnUBYHDwjTbz3UbYibb) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [3rd MINI ALBUM \[LOVE PULSE\]](https://open.spotify.com/album/4OhWb329ph6bDQPT7YkYJ8) | 2:50 |
-| 8 | [N the Front](https://open.spotify.com/track/1RIyqzVoYqADXfAWjWNFz8) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE X](https://open.spotify.com/album/2tLs0fD9QQuBIWKIsyxNSw) | 3:00 |
-| 9 | [Head Shoulders Knees Toes](https://open.spotify.com/track/6fE9fRsnxRx9TqWFiq6OAy) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Head Shoulders Knees Toes](https://open.spotify.com/album/3D8vj2pQwvS2tIzgmgAuZN) | 2:58 |
-| 10 | [Dance With Me](https://open.spotify.com/track/4eDOey6H4uD1kmbP1MZLwO) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Headlines](https://open.spotify.com/album/4E0DnIB6iLAZ9ufGA24yz7) | 3:04 |
-| 11 | [Good Liar](https://open.spotify.com/track/0wUKi6FP0BvXUS8vCeiCPI) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Good Liar](https://open.spotify.com/album/3UEpsPGGiDg0YRsbdHgd7U) | 2:50 |
-| 12 | [BLUE](https://open.spotify.com/track/4IehAfAGnazAV2KiH3zfRv) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [空](https://open.spotify.com/album/5fg8QLCJt6TpzAPjD5JMTK) | 2:41 |
-| 13 | [EX](https://open.spotify.com/track/50ARYbP5bKUn4YVKZIEfbS) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [EX](https://open.spotify.com/album/4fUrVp1xhJvcJfxYLlJiNm) | 2:53 |
-| 14 | [カリスマックス \-CHARISMAX](https://open.spotify.com/track/76OElzXqlyLCdlSypwSKBy) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [カリスマックス \-CHARISMAX](https://open.spotify.com/album/5VWD7lx3jH6XKPfPeeLhyv) | 2:57 |
+| 5 | [Stare In Wonder](https://open.spotify.com/track/2STK9x4KfYyeC82zsdJ2WM) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Stare In Wonder](https://open.spotify.com/album/34Y0UOwoUZNrGlafpg7d4D) | 3:17 |
+| 6 | [TRUE LOVE](https://open.spotify.com/track/0wnjaknKCvliLDwsrTiAYz) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [TRUE LOVE](https://open.spotify.com/album/0Vx9lG8jqCsS4lYKnynCO8) | 4:25 |
+| 7 | [GO!](https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:50 |
+| 8 | [PARADISE](https://open.spotify.com/track/1hnUnUBYHDwjTbz3UbYibb) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [3rd MINI ALBUM \[LOVE PULSE\]](https://open.spotify.com/album/4OhWb329ph6bDQPT7YkYJ8) | 2:50 |
+| 9 | [Ash](https://open.spotify.com/track/0k7wgQsVXg6ojBukAleznY) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Ashes to Light](https://open.spotify.com/album/0N3IF32AyRsrhGO8YIl4qF) | 3:17 |
+| 10 | [N the Front](https://open.spotify.com/track/1RIyqzVoYqADXfAWjWNFz8) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE X](https://open.spotify.com/album/2tLs0fD9QQuBIWKIsyxNSw) | 3:00 |
+| 11 | [Head Shoulders Knees Toes](https://open.spotify.com/track/6fE9fRsnxRx9TqWFiq6OAy) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Head Shoulders Knees Toes](https://open.spotify.com/album/3D8vj2pQwvS2tIzgmgAuZN) | 2:58 |
+| 12 | [Dance With Me](https://open.spotify.com/track/4eDOey6H4uD1kmbP1MZLwO) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Headlines](https://open.spotify.com/album/4E0DnIB6iLAZ9ufGA24yz7) | 3:04 |
+| 13 | [Good Liar](https://open.spotify.com/track/0wUKi6FP0BvXUS8vCeiCPI) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Good Liar](https://open.spotify.com/album/3UEpsPGGiDg0YRsbdHgd7U) | 2:50 |
+| 14 | [EX](https://open.spotify.com/track/50ARYbP5bKUn4YVKZIEfbS) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [EX](https://open.spotify.com/album/4fUrVp1xhJvcJfxYLlJiNm) | 2:53 |
 | 15 | [CEREMONY](https://open.spotify.com/track/1GfRjLG3DivFZEr85b6k7G) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/5ULZLn7Vv8TCeIpe0Uh2hO) | 2:44 |
 | 16 | [처음 불러보는 노래 \(My First Love Song\)](https://open.spotify.com/track/3wlSKXBySBUG5Wv9FTXxgm) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [My First Flip](https://open.spotify.com/album/04Yv1WojhqaF5sn1iHyj87) | 2:44 |
 | 17 | [꿈의 버스 Dream Bus](https://open.spotify.com/track/5cE6bNjhhuJnrrDdkcZmv0) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The DECADE](https://open.spotify.com/album/7MGEb2kSPjn7izDAul5bAh) | 2:41 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 79 | [n \(number of cases\)](https://open.spotify.com/track/33nC9lajf4bWI12PooiOKF) | [NouerA](https://open.spotify.com/artist/4YsiijJHnCAjqS9cIXNoTI) | [n: number of cases](https://open.spotify.com/album/2TqBXeAVeC8lQ1ThQqjY4I) | 2:53 |
 | 80 | [Poet \| Artist](https://open.spotify.com/track/2cCoa7dwECGNlmLVV1Fgjf) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Poet \| Artist](https://open.spotify.com/album/2ZrLQa73Q3wW2SXZPkSVED) | 3:24 |
 
-Snapshot ID: `AAAAAK6AoBcQm95iL2sZ5WwjqmX2UYFi`
+Snapshot ID: `AAAAAN1KYj8fgPM97Be8+DfhxS9L1JrV`

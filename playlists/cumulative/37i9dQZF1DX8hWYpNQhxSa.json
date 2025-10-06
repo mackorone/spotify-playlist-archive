@@ -4027,6 +4027,24 @@
     },
     {
       "album": {
+        "name": "\u706f\u3092\u8b77\u308b",
+        "url": "https://open.spotify.com/album/5kh25KxBQdiqOPOr05rxM3"
+      },
+      "artists": [
+        {
+          "name": "SPITZ",
+          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213693,
+      "name": "\u706f\u3092\u8b77\u308b",
+      "url": "https://open.spotify.com/track/0tu73VStd4PNxbF37Y6YSD"
+    },
+    {
+      "album": {
         "name": "\u8272\u5f69",
         "url": "https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn"
       },

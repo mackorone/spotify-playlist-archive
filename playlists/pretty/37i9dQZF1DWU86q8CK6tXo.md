@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Amber Mark
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,406 likes - 65 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,422 likes - 65 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 23 | [Dancer](https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Dancer](https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9) | 3:00 |
 | 24 | [CANNIBALISM!](https://open.spotify.com/track/0d5maE1saK2pmlhZfW0xmh) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [CANNIBALISM!](https://open.spotify.com/album/20PiiYxiYvWiagbQ65z1Qo) | 2:47 |
 | 25 | [Off Me](https://open.spotify.com/track/2uxvA2wfmEiTnz5iFZyeCz) | [Bri3](https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H) | [Off Me](https://open.spotify.com/album/3Cyll1Ghi5o0k7EwcE6RXo) | 2:53 |
-| 26 | [Imaginary Playerz](https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Imaginary Playerz](https://open.spotify.com/album/1DZ4IYnszM0mxdZnQgkv4r) | 3:27 |
+| 26 | [Uñas Afiladas](https://open.spotify.com/track/3lQhZXwbJmu5s2tp9LHKzT) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [IDGAF ERA](https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V) | 2:27 |
 | 27 | [Like It Like That](https://open.spotify.com/track/5zlJMdPyfd6p3Tw1IAS5r0) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Like It Like That](https://open.spotify.com/album/25oCUC8YL51Tak2f2qZrP6) | 2:47 |
-| 28 | [Uñas Afiladas](https://open.spotify.com/track/3lQhZXwbJmu5s2tp9LHKzT) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [IDGAF ERA](https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V) | 2:27 |
+| 28 | [Imaginary Playerz](https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Imaginary Playerz](https://open.spotify.com/album/1DZ4IYnszM0mxdZnQgkv4r) | 3:27 |
 | 29 | [QUIERO OLVIDARTE \- Respuesta \#1](https://open.spotify.com/track/6XRf6qExxVGfMgrmzSuwUT) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [QUIERO OLVIDARTE \(Respuesta \#1\)](https://open.spotify.com/album/03nmaVWuIXQDmjKgY6Q1R0) | 2:42 |
 | 30 | [Cinder Block](https://open.spotify.com/track/4ocbhbmq4kUNWFqCEoUOLs) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Cinder Block](https://open.spotify.com/album/2XMx3ZVns6LFVKu3GpAYN6) | 3:42 |
 | 31 | [halfwaythru](https://open.spotify.com/track/6EpqDPPT3GAdHmeFcFlRGw) | [Chelsea Jordan](https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs) | [halfwaythru](https://open.spotify.com/album/26qByOEvSOrNK0MNUw68MS) | 3:13 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 33 | [Ego](https://open.spotify.com/track/4cPGneVmrxVcz28DFWlHWl) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [Ego](https://open.spotify.com/album/43mrj0Ck4DFDYRC4za10sz) | 3:13 |
 | 34 | [Crazy Bitch Song](https://open.spotify.com/track/0sBHtKyjZLMwt2niRYxGMM) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Crazy Bitch Song](https://open.spotify.com/album/6raHiXlXAuf1lU0JsIC70Q) | 2:13 |
 | 35 | [Salute](https://open.spotify.com/track/5sWjhIs29sp6rbgOicg4NS) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:34 |
-| 36 | [Perfect Person \(feat\. coop\)](https://open.spotify.com/track/3fOBaVKw79f4xRTwMkR15w) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv) | [Perfect Person \(feat\. coop\)](https://open.spotify.com/album/3TWKgpC7rrappK0JWHPWWZ) | 2:10 |
-| 37 | [SO DAMN GOOD](https://open.spotify.com/track/4rLRo9sQKBU4jx2XNRsMWw) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [SO DAMN GOOD](https://open.spotify.com/album/4AOXWzndHo8A7gmlLj5CxF) | 3:18 |
-| 38 | [Girl Of Constant Sorrow](https://open.spotify.com/track/3UjmEplBH91KXo7PHPZKTU) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Girl Of Constant Sorrow](https://open.spotify.com/album/2kjhNUwtDsCfYHrh03TXOE) | 2:59 |
+| 36 | [Girl Of Constant Sorrow](https://open.spotify.com/track/3UjmEplBH91KXo7PHPZKTU) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Girl Of Constant Sorrow](https://open.spotify.com/album/2kjhNUwtDsCfYHrh03TXOE) | 2:59 |
+| 37 | [Perfect Person \(feat\. coop\)](https://open.spotify.com/track/3fOBaVKw79f4xRTwMkR15w) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv) | [Perfect Person \(feat\. coop\)](https://open.spotify.com/album/3TWKgpC7rrappK0JWHPWWZ) | 2:10 |
+| 38 | [SO DAMN GOOD](https://open.spotify.com/track/4rLRo9sQKBU4jx2XNRsMWw) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [SO DAMN GOOD](https://open.spotify.com/album/4AOXWzndHo8A7gmlLj5CxF) | 3:18 |
 | 39 | [DON'T STRESS](https://open.spotify.com/track/2vkkMGqeuAtumFaYHA0CoX) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [DON'T STRESS](https://open.spotify.com/album/11iY6153p0IYzUEK6yZfaE) | 2:51 |
 | 40 | [Bettadaze](https://open.spotify.com/track/6IdxFn9YRBZLZuySXUqRjP) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Miss Black America](https://open.spotify.com/album/5lSpRx7o1F60p2ZFuTmgIg) | 2:55 |
 | 41 | [Always Been You \(with Anike\) \- Live](https://open.spotify.com/track/43HieN3qrUrZUgAsyhFTDM) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Jesus Over Everything \(Live In Las Vegas\)](https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp) | 6:01 |

@@ -4,11 +4,11 @@
 
 > Your chill anime soundtrack\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-135 songs - 9 hr 11 min
+136 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(I keep reaching but\) the light is far](https://open.spotify.com/track/21uv2vOAAnRXTj0ZYjNgfU) | [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk) | [\(I keep reaching but\) the light is far](https://open.spotify.com/album/3mOmkItwWWARVN2v9BakWl) | 3:05 | 2025-07-22 |  |
+| [\(I keep reaching but\) the light is far](https://open.spotify.com/track/21uv2vOAAnRXTj0ZYjNgfU) | [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk) | [\(I keep reaching but\) the light is far](https://open.spotify.com/album/3mOmkItwWWARVN2v9BakWl) | 3:05 | 2025-07-22 | 2025-10-06 |
 | [4:00A.M.](https://open.spotify.com/track/0zoGVO4bQXG8U6ChKwNgeg) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [MIGNONNE \(Mastered by Bernie Grundman\)](https://open.spotify.com/album/0Y4RPWAZZui6gUL1kwgND6) | 5:36 | 2023-01-05 |  |
 | [A Million Miles Away](https://open.spotify.com/track/0WQRbcwmUd1fZ5AJcH5GDT) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 8:01 | 2023-01-05 | 2024-04-19 |
 | [A Million Miles Away](https://open.spotify.com/track/4EouoYXPLTgO1v16BE8t4L) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 8:01 | 2024-04-02 |  |
@@ -133,6 +133,7 @@
 | [榛摺 \(g\#101 remastering\)](https://open.spotify.com/track/6YWv5Lv9dawIwK8cSxyhKU) | [reche](https://open.spotify.com/artist/4sJCsXNYmUMeumUKVz4Abm) | [gallery\#101 \(Sl:2400s\)](https://open.spotify.com/album/7envhMlPn0tkII50VSv8mf) | 3:34 | 2023-02-21 | 2023-03-08 |
 | [櫂](https://open.spotify.com/track/4MmbhBWuOX0FChh2gb1fXv) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [PARADE](https://open.spotify.com/album/3Eyw8aU1Fn25ctcjd3GnMq) | 5:01 | 2023-04-18 | 2023-10-11 |
 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2024-04-02 |  |
+| [灯を護る](https://open.spotify.com/track/0tu73VStd4PNxbF37Y6YSD) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [灯を護る](https://open.spotify.com/album/5kh25KxBQdiqOPOr05rxM3) | 3:33 | 2025-10-05 |  |
 | [真っ白](https://open.spotify.com/track/3GiADMmI5jfkhF2o4a2G8N) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [真っ白](https://open.spotify.com/album/2aKu1BAfHa6EJBX4ibdaQI) | 4:54 | 2025-02-27 |  |
 | [紙ひこうき](https://open.spotify.com/track/0BHWsaVofTldxGF9PvxCCe) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0), [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [アニメ『カイリューとゆうびんやさん』主題歌「紙ひこうき」](https://open.spotify.com/album/1RnA1YQvgwIlo2tG1xrzmf) | 2:14 | 2025-02-27 | 2025-07-23 |
 | [花瓶](https://open.spotify.com/track/3sxcncyvcTJspkePuvs0k1) | [mol\-74](https://open.spotify.com/artist/7sVShwPweG5PNLgVPdWlbx) | [花瓶](https://open.spotify.com/album/5CcSSBfqlEaeQOX5SQpLbM) | 3:52 | 2023-01-17 | 2023-02-08 |

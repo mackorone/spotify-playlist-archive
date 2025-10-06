@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 255099,
+  "num_followers": 255171,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAABTCszSpF41F28PiTX8F/61",
+  "snapshot_id": "aOBjgAAAAADsZYXSFpAJZCEp5TtWE+mS",
   "tracks": [
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 246480,
+      "name": "Me Da Lo Mismo",
+      "url": "https://open.spotify.com/track/5Gd3xX8XfF0BtJifRndvRK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -439,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HECHO M13RD4",
-        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 246480,
-      "name": "Me Da Lo Mismo",
-      "url": "https://open.spotify.com/track/5Gd3xX8XfF0BtJifRndvRK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mustang 65'",
         "url": "https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq"
       },
@@ -471,6 +471,26 @@
       "duration_ms": 206200,
       "name": "Prohibida",
       "url": "https://open.spotify.com/track/7bbo8bW8isBHUSrd2pVF7z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A la antigua",
+        "url": "https://open.spotify.com/album/0UeCJiaaEgCddnfzMoZwEG"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 162162,
+      "name": "A la antigua",
+      "url": "https://open.spotify.com/track/1wnzoUVLZ4o4GntVWJRqcK"
     },
     {
       "added_at": null,
@@ -523,26 +543,6 @@
       "duration_ms": 235008,
       "name": "Una Loca Como T\u00fa",
       "url": "https://open.spotify.com/track/0yWarPMKVH0kLJT7XZRMNF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A la antigua",
-        "url": "https://open.spotify.com/album/0UeCJiaaEgCddnfzMoZwEG"
-      },
-      "artists": [
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 162162,
-      "name": "A la antigua",
-      "url": "https://open.spotify.com/track/1wnzoUVLZ4o4GntVWJRqcK"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HECHO M13RD4",
-        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "Te Hice Llorar",
-      "url": "https://open.spotify.com/track/0iqkjwsF783Lw0OGTnIssP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Gustas M\u00e1s Que Salir a Fumar",
         "url": "https://open.spotify.com/album/7B09xwvImN3XxIC7Dk5bOL"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 203456,
       "name": "Me Gustas M\u00e1s Que Salir a Fumar",
       "url": "https://open.spotify.com/track/4YboPBRofQXESDyYLZZOSM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "Te Hice Llorar",
+      "url": "https://open.spotify.com/track/0iqkjwsF783Lw0OGTnIssP"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Compilado, Vol. 1",
+        "url": "https://open.spotify.com/album/7fZDOnXpFSO6hUe0Ds9iAG"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 190542,
+      "name": "M\u00eda",
+      "url": "https://open.spotify.com/track/4DJglNblWD6tSBHIqe3Ymq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HECHO M13RD4",
         "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 220612,
       "name": "Lejos de Ti",
       "url": "https://open.spotify.com/track/04sXYgNcb48fNO0prhFHpq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Compilado, Vol. 1",
-        "url": "https://open.spotify.com/album/7fZDOnXpFSO6hUe0Ds9iAG"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 190542,
-      "name": "M\u00eda",
-      "url": "https://open.spotify.com/track/4DJglNblWD6tSBHIqe3Ymq"
     },
     {
       "added_at": null,
@@ -947,26 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Ir\u00e1 Bien",
-        "url": "https://open.spotify.com/album/6QsEigzBAgnkBS9AHbRIRP"
-      },
-      "artists": [
-        {
-          "name": "Nach",
-          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 191713,
-      "name": "Todo Ir\u00e1 Bien",
-      "url": "https://open.spotify.com/track/3jX12gKsZ4bPUne2d9b4aQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mal Mal Mal",
         "url": "https://open.spotify.com/album/6iB3O3TKxj76KRjhG71OXf"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 228214,
       "name": "Mal Mal Mal",
       "url": "https://open.spotify.com/track/1Yrm0hOIWwZtfMf6xS3D3E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Ir\u00e1 Bien",
+        "url": "https://open.spotify.com/album/6QsEigzBAgnkBS9AHbRIRP"
+      },
+      "artists": [
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 191713,
+      "name": "Todo Ir\u00e1 Bien",
+      "url": "https://open.spotify.com/track/3jX12gKsZ4bPUne2d9b4aQ"
     },
     {
       "added_at": null,

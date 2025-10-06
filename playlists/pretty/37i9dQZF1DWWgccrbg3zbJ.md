@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 
 > The classic recordings from Bossa Nova\. Cover: João Gilberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,120 likes - 65 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,641 likes - 65 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 50 | [Chega de Saudade](https://open.spotify.com/track/0QhoniumuDQIQY46aIebRq) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade \(42 Original Tracks\)](https://open.spotify.com/album/3pWt2byZuo2KDF8wac8JXR) | 2:01 |
 | 51 | [One Note Samba](https://open.spotify.com/track/00KsnoekYhjdUu9yAPvXVh) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Rio Revisited](https://open.spotify.com/album/5ODnlDDe8dxCN23lkc8RcI) | 3:01 |
 | 52 | [Triste](https://open.spotify.com/track/0w4ufcWQwpRuLjOS1dpxu7) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis & Tom](https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx) | 2:39 |
-| 53 | [O Grande Amor](https://open.spotify.com/track/21n8OogtCoE8INAOdGQ38M) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto Quintet](https://open.spotify.com/artist/3UmzVSTun6O0Qtn0wacusX), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto](https://open.spotify.com/album/69xayFuQfFKnxxSmHtNo6Y) | 5:27 |
+| 53 | [Vivo Sonhando](https://open.spotify.com/track/6tGwpf1CczvEvzVaDVUPjk) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto](https://open.spotify.com/album/69xayFuQfFKnxxSmHtNo6Y) | 3:04 |
 | 54 | [Meu Mundo Caiu](https://open.spotify.com/track/4XWgUf9Hke6SekbfxEhdGG) | [Maysa](https://open.spotify.com/artist/6O67GI6ayhWHyFmOOJRLEq) | [The Sound Of Love](https://open.spotify.com/album/3KYK6KPU7EFjCsrt5cvsXC) | 3:23 |
 | 55 | [Rosa Morena](https://open.spotify.com/track/2a9RgLSgbfIQwEiwCltTSK) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Hô\-Bá\-Lá\-Lá](https://open.spotify.com/album/2yHz1xJFHbJzhBitif1HJp) | 2:04 |
-| 56 | [Vivo Sonhando](https://open.spotify.com/track/6tGwpf1CczvEvzVaDVUPjk) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto](https://open.spotify.com/album/69xayFuQfFKnxxSmHtNo6Y) | 3:04 |
+| 56 | [O Grande Amor](https://open.spotify.com/track/21n8OogtCoE8INAOdGQ38M) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto Quintet](https://open.spotify.com/artist/3UmzVSTun6O0Qtn0wacusX), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto](https://open.spotify.com/album/69xayFuQfFKnxxSmHtNo6Y) | 5:27 |
 | 57 | [Pela luz dos olhos teus](https://open.spotify.com/track/6tyYK7y3kboS7GQulNtwo5) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Miúcha](https://open.spotify.com/artist/24ZP6P1JgCo65CEJsk2OQ2) | [Jobim, Vinicius, Baden, Menescal, Lyra..\. \(54 Songs\)](https://open.spotify.com/album/16s66A7p1Z0L5H8u5Cr9Wt) | 2:48 |
 | 58 | [Pra Que Discutir Com Madame? \- Live](https://open.spotify.com/track/13VTZ3mO1X6tYFvAwn61aB) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [In Tokyo](https://open.spotify.com/album/4V81DhwAOf9L0M20rbWZDn) | 6:01 |
 | 59 | [Doralice](https://open.spotify.com/track/1Hy8rhQjCQtscISAE6GmVP) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, o Sorriso e a Flor](https://open.spotify.com/album/5OaElNWVFpJLxvu0aBfVS2) | 1:27 |

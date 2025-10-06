@@ -679,6 +679,24 @@
     },
     {
       "album": {
+        "name": "August 19",
+        "url": "https://open.spotify.com/album/1h4VJe5AfMPD7jAr2fLZYP"
+      },
+      "artists": [
+        {
+          "name": "HighSchool",
+          "url": "https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155177,
+      "name": "August 19",
+      "url": "https://open.spotify.com/track/4c8x6c7l31Hvd4iZNztEuK"
+    },
+    {
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0"
       },
@@ -1808,7 +1826,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 129940,
       "name": "Didn't Want to Go",
       "url": "https://open.spotify.com/track/02TXGl2KRQ7e5sPydK4nX9"

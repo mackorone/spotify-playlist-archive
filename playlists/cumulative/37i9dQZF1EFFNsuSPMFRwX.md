@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6qlZhVcPgV2bWXdUuEDoST">Ink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-73 songs - 4 hr 11 min
+76 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Back To Love](https://open.spotify.com/track/5ieTob4Bbn9DF97YakQUO9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Back To Love \(Official Video\)](https://open.spotify.com/album/3QnR1AJ8ejS2E9RRTnaW62) | 4:54 | 2023-12-17 | 2024-02-02 |
 | [Before You Enter My Soul](https://open.spotify.com/track/5y0lEABp85Esv9bYUE5CvT) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:42 | 2022-05-25 |  |
 | [Black Rose](https://open.spotify.com/track/2weAP38rRFExVCWkOUJSiX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 2:15 | 2024-01-24 |  |
+| [Blink of an Eye](https://open.spotify.com/track/2TtyGeOLJxMnbK1VgdIPp7) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 3:30 | 2025-10-05 |  |
 | [Body Count](https://open.spotify.com/track/4HzluSPW4Dx2ZIPDx8iLNt) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 3:03 | 2024-11-14 |  |
 | [Broken Like Me](https://open.spotify.com/track/00HNVblyBbbKCzJZhxofeW) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:16 | 2024-02-18 |  |
 | [Can't Get Enough](https://open.spotify.com/track/2if19Z5XLIR9CZt2oiKjGk) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:06 | 2024-02-18 |  |
@@ -37,7 +38,8 @@
 | [Greatest Love Story Never Told](https://open.spotify.com/track/4FAs3OblD5UR4gKdpwcprV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:07 | 2024-02-18 |  |
 | [Hear Me \(feat\. Ink\)](https://open.spotify.com/track/7sFWuqjE6nFlKQxVVWcXUq) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [From Dark to Light](https://open.spotify.com/album/1Dp8DJTwLzqxscHc6nHrio) | 2:58 | 2022-05-25 |  |
 | [Higher Place](https://open.spotify.com/track/6jQB97LaIftgb81KhkisXl) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:23 | 2022-05-25 |  |
-| [Hoedown](https://open.spotify.com/track/0TBz8UMrTueMeRCzZfbkwA) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Hoedown](https://open.spotify.com/album/3TRJXcC6rlzBYzK9lvVkvH) | 2:59 | 2025-07-25 |  |
+| [Hoedown](https://open.spotify.com/track/4qPdEFwFiUaOVi6sZzQadZ) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 2:56 | 2025-10-05 |  |
+| [Hoedown](https://open.spotify.com/track/0TBz8UMrTueMeRCzZfbkwA) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Hoedown](https://open.spotify.com/album/3TRJXcC6rlzBYzK9lvVkvH) | 2:59 | 2025-07-25 | 2025-10-06 |
 | [Hummingbird](https://open.spotify.com/track/1L5YOGPAhIoSoj93pEYnXF) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 2:45 | 2024-02-18 | 2024-04-03 |
 | [Hummingbird](https://open.spotify.com/track/7xl8Bg3rcjYsF31NUGbrQA) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now \(Deluxe\)](https://open.spotify.com/album/5n2H8XDZfGQS92t0dpTNtg) | 2:45 | 2024-04-02 |  |
 | [Intro](https://open.spotify.com/track/6yh4lwuuYxx22fWsqilHzY) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [From Dark to Light](https://open.spotify.com/album/1Dp8DJTwLzqxscHc6nHrio) | 1:32 | 2022-05-25 |  |
@@ -79,7 +81,8 @@
 | [This Time Around](https://open.spotify.com/track/6fveZbfaioqsGCZDaCEUqV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:55 | 2024-02-18 |  |
 | [Traumada](https://open.spotify.com/track/7MIkwVS7Wm1vYTEoDPsyVS) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:27 | 2022-05-25 |  |
 | [Traumada](https://open.spotify.com/track/0fMQSHQBLUNHgBPofQyeGt) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Traumada \(Official Video\)](https://open.spotify.com/album/33qJKxx7ICKDtAbcmqGhlr) | 2:36 | 2023-12-19 | 2024-02-02 |
-| [Turquoise Cowboy](https://open.spotify.com/track/4LifLPjq01uBbFF0yKTrzU) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Turquoise Cowboy](https://open.spotify.com/album/1JMzzKhYbJcYNQ3VKC0lpw) | 3:16 | 2025-07-26 |  |
+| [Turquoise Cowboy](https://open.spotify.com/track/4BZSY7v7z0uOrcOQ2vU9GA) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 3:13 | 2025-10-05 |  |
+| [Turquoise Cowboy](https://open.spotify.com/track/4LifLPjq01uBbFF0yKTrzU) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Turquoise Cowboy](https://open.spotify.com/album/1JMzzKhYbJcYNQ3VKC0lpw) | 3:16 | 2025-07-26 | 2025-10-06 |
 | [Vibrations](https://open.spotify.com/track/76RRoxiQ5u5wAuyLr3VIqR) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:41 | 2024-10-17 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

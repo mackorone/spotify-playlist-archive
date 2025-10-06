@@ -1,6 +1,6 @@
 {
   "description": "Modern heavenly sounds. Cover: Blood Orange",
-  "num_followers": 1646512,
+  "num_followers": 1646378,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
@@ -167,38 +167,6 @@
     {
       "added_at": "2025-07-29 23:33:32",
       "album": {
-        "name": "Back To Me",
-        "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ"
-    },
-    {
-      "added_at": "2025-07-29 23:33:32",
-      "album": {
-        "name": "On The Beach",
-        "url": "https://open.spotify.com/album/6KrzhYHM6iHMzTMbCTO9du"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 256859,
-      "name": "On The Beach (from DEATH STRANDING 2: ON THE BEACH)",
-      "url": "https://open.spotify.com/track/72R7Qzj6kVw44ndWnFZzKK"
-    },
-    {
-      "added_at": "2025-07-29 23:33:32",
-      "album": {
         "name": "A New Kind Of Love (Demo)",
         "url": "https://open.spotify.com/album/484SKRaXGq7m9VV0rmSyeb"
       },
@@ -219,6 +187,38 @@
       "duration_ms": 259071,
       "name": "A New Kind Of Love - Demo",
       "url": "https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H"
+    },
+    {
+      "added_at": "2025-07-29 23:33:32",
+      "album": {
+        "name": "On The Beach",
+        "url": "https://open.spotify.com/album/6KrzhYHM6iHMzTMbCTO9du"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 256859,
+      "name": "On The Beach (from DEATH STRANDING 2: ON THE BEACH)",
+      "url": "https://open.spotify.com/track/72R7Qzj6kVw44ndWnFZzKK"
+    },
+    {
+      "added_at": "2025-07-29 23:33:32",
+      "album": {
+        "name": "Back To Me",
+        "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ"
     },
     {
       "added_at": "2025-07-29 23:33:32",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-07-29 23:33:32",
       "album": {
-        "name": "Dove (Doll Ver)",
-        "url": "https://open.spotify.com/album/3iNri5JDR2qHc5XqXdu6T7"
-      },
-      "artists": [
-        {
-          "name": "antihoney",
-          "url": "https://open.spotify.com/artist/5JAa9e6UwxxYbZfyUBZcU3"
-        }
-      ],
-      "duration_ms": 135976,
-      "name": "Dove - Doll Ver",
-      "url": "https://open.spotify.com/track/2NHHKv9F4mYLSMfMl0jayB"
-    },
-    {
-      "added_at": "2025-07-29 23:33:32",
-      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 203945,
       "name": "Everything is romantic featuring caroline polachek",
       "url": "https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C"
+    },
+    {
+      "added_at": "2025-07-29 23:33:32",
+      "album": {
+        "name": "Dove (Doll Ver)",
+        "url": "https://open.spotify.com/album/3iNri5JDR2qHc5XqXdu6T7"
+      },
+      "artists": [
+        {
+          "name": "antihoney",
+          "url": "https://open.spotify.com/artist/5JAa9e6UwxxYbZfyUBZcU3"
+        }
+      ],
+      "duration_ms": 135976,
+      "name": "Dove - Doll Ver",
+      "url": "https://open.spotify.com/track/2NHHKv9F4mYLSMfMl0jayB"
     },
     {
       "added_at": "2025-07-29 23:33:32",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-07-29 23:33:32",
       "album": {
-        "name": "Imaginal Disk",
-        "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 193186,
-      "name": "She Looked Like Me!",
-      "url": "https://open.spotify.com/track/66st0nh6vlK7t2yzWfzmcA"
-    },
-    {
-      "added_at": "2025-07-29 23:33:32",
-      "album": {
         "name": "Details",
         "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 253893,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3"
+    },
+    {
+      "added_at": "2025-07-29 23:33:32",
+      "album": {
+        "name": "Imaginal Disk",
+        "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 193186,
+      "name": "She Looked Like Me!",
+      "url": "https://open.spotify.com/track/66st0nh6vlK7t2yzWfzmcA"
     },
     {
       "added_at": "2025-07-29 23:33:32",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-07-29 23:33:32",
       "album": {
-        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
-        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 199576,
-      "name": "Love Is Complicated (The Angels Sing)",
-      "url": "https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9"
-    },
-    {
-      "added_at": "2025-07-29 23:33:32",
-      "album": {
         "name": "choke enough",
         "url": "https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 208274,
       "name": "ict",
       "url": "https://open.spotify.com/track/6aUr8iLB8hfp9z2xMv1X5X"
+    },
+    {
+      "added_at": "2025-07-29 23:33:32",
+      "album": {
+        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
+        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 199576,
+      "name": "Love Is Complicated (The Angels Sing)",
+      "url": "https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9"
     },
     {
       "added_at": "2025-07-29 23:33:32",

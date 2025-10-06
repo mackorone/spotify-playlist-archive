@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 
 > Electronic music with caffeine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,551 likes - 215 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,715 likes - 215 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 | 214 | [Waves](https://open.spotify.com/track/7xOeXABPteFfNMEkfEe1aM) | [Deep Sea Society](https://open.spotify.com/artist/3zpqPg4vtWY6cauB9Zhf0t) | [Waves](https://open.spotify.com/album/0CzWJtpffg6ZxlLXFts2SU) | 2:14 |
 | 215 | [Lonely Sky](https://open.spotify.com/track/5bzcqcvzrmimYn9nb7yAs2) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Lonely Sky](https://open.spotify.com/album/4yJ7x7yvZxizG13L1a2gAE) | 3:47 |
 
-Snapshot ID: `AAAAANj/N/bLsdRTFv9sj1uZKS86VpM8`
+Snapshot ID: `AAAAAF26y6DeC8qA7MO0RzVlHT8F8S7e`

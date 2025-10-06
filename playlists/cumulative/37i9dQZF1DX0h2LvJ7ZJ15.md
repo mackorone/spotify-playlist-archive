@@ -4,7 +4,7 @@
 
 > slowed, reverbed, chopped and screwed.
 
-249 songs - 13 hr 51 min
+250 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [chess \- slowed](https://open.spotify.com/track/5mfhZc6AUbfoe6WqV33u4l) | [joyful](https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ) | [chess](https://open.spotify.com/album/35q2E7Iy0368OlYsPCA0ou) | 2:22 | 2025-03-05 |  |
 | [CLEARED \- Remix \(Slowed\)](https://open.spotify.com/track/2G2zAIs50FJyvutTfZqkZj) | [Lilithzplug](https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo) | [CLEARED \- Remix \(Slowed / Sped Up\)](https://open.spotify.com/album/2c8DjbK7TaAUYkYWouikkH) | 2:47 | 2024-04-05 |  |
 | [Close Eyes \- Slowed + Reverb](https://open.spotify.com/track/5RE3w3M9g5vsotdIVtLONq) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes \(Slowed + Reverb\)](https://open.spotify.com/album/12zL1YZJeADPb6hPdD9Mqm) | 2:23 | 2021-10-01 |  |
+| [coldshade \- Slowed](https://open.spotify.com/track/6kazHgRY42IvErUxsSInVV) | [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw), [neytles](https://open.spotify.com/artist/22ext9Do0WP94crY5FZxli) | [coldshade](https://open.spotify.com/album/7stzTSqo40hosxvqvrUFZx) | 3:24 | 2025-07-15 |  |
 | [controlla \- slowed + reverb](https://open.spotify.com/track/6RSQeyP04RWrZagVQbrvLj) | [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [controlla \- slowed + reverb](https://open.spotify.com/album/6XEaL0Xu7ZiYQQAs5RIfgz) | 1:18 | 2022-04-01 | 2022-05-17 |
 | [Could Be Friends \- Slowed](https://open.spotify.com/track/5RNfYbSht0gQR6ZldRPQoy) | [$avage KD](https://open.spotify.com/artist/125r6N80whxIEzOb4maM01) | [Could Be Friends \(Slowed\)](https://open.spotify.com/album/4enBTTztoGlCzQ65ahJdRX) | 4:00 | 2021-11-12 | 2023-12-09 |
 | [CRYSTALS \(Slowed\)](https://open.spotify.com/track/3hfvzrj13TtfKq8P3WG2Q1) | [PR1SVX](https://open.spotify.com/artist/12NSBgMVPKhwB8tDMsoYpP) | [CRYSTALS \(Remixes\)](https://open.spotify.com/album/6Mm3ztOCaGqwRudNjtPyv5) | 1:15 | 2023-06-01 | 2025-01-23 |
@@ -248,7 +249,7 @@
 | [Whatta Man \- Slowed + Reverb](https://open.spotify.com/track/2S2FCL79w1rT1k8e1xOpyh) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ), [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48), [Paul Leigh Paige](https://open.spotify.com/artist/0fxiEm0sTs3Itu0IW6Y44z) | [Whatta Man \(The Remixes\)](https://open.spotify.com/album/5Ly6l6Hv9tpSik7XwCJDag) | 5:29 | 2021-10-01 | 2022-04-20 |
 | [Whatta Man \- Slowed + Reverb](https://open.spotify.com/track/6Wd9I9eFM4TX2XleK9Z4wp) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ), [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48), [Paul Leigh Paige](https://open.spotify.com/artist/0fxiEm0sTs3Itu0IW6Y44z) | [slowed + reverb](https://open.spotify.com/album/2aOhO8ulqkulygQQ1QHQYD) | 5:29 | 2023-09-21 | 2023-12-09 |
 | [when i was your man \- slowed + reverb](https://open.spotify.com/track/0tEfc9KsxNAQ05pWKcZTuF) | [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [when i was your man \- slowed + reverb](https://open.spotify.com/album/0zzLMtczgpbOogCitwGzMu) | 2:26 | 2022-04-01 | 2022-06-01 |
-| [Where's My Love \- Slowed](https://open.spotify.com/track/7gCMZGYUvujTe4OF64uvN3) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love \(Slowed\)](https://open.spotify.com/album/7dwAeKkbpzA4ELMDiacfcR) | 4:49 | 2022-11-11 |  |
+| [Where's My Love \- Slowed](https://open.spotify.com/track/7gCMZGYUvujTe4OF64uvN3) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love \(Slowed\)](https://open.spotify.com/album/7dwAeKkbpzA4ELMDiacfcR) | 4:49 | 2022-11-11 | 2025-10-06 |
 | [Wildest Dreams \(Slowed + Reverb\)](https://open.spotify.com/track/0lkBkXmaFcznNrnDA6Aeuj) | [Hiko](https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX) | [Wildest Dreams \(Slowed + Reverb\)](https://open.spotify.com/album/6UgIJhpVmkMfOySEj86xBb) | 3:49 | 2022-03-08 | 2022-06-01 |
 | [Within These Walls \- Slow Down Rework](https://open.spotify.com/track/5faeolAsubn6KYYTYxpFRc) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Within These Walls \(Slow Down Rework\)](https://open.spotify.com/album/5LauFnwiHWZCYyAwpFDwH5) | 2:47 | 2021-11-26 | 2023-09-26 |
 | [Wrap Me In Plastic \- Slowed Down Version](https://open.spotify.com/track/74PdooqFwI8VhklmayQ7dz) | [CHROMANCE](https://open.spotify.com/artist/0fEj1fYIQwWj1bzzAto9rp), [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz) | [Wrap Me In Plastic](https://open.spotify.com/album/3Igr361QL5Kd2pMs0ywmf6) | 2:27 | 2021-10-01 | 2023-12-09 |

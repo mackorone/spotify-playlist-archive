@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 63 | [T'es où](https://open.spotify.com/track/7hrYEBoSeQlEk7CU1l2Sob) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 3:12 |
 | 64 | [Viano](https://open.spotify.com/track/79aP0TraICgSI68NBEK8ID) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/0DiFDp3MRVxcECcJFPWXU3) | 2:46 |
 | 65 | [Promets moi](https://open.spotify.com/track/6pgjSqpayCvO5PAGZTI5Eg) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 2:48 |
-| 66 | [Aye](https://open.spotify.com/track/3AsqqOPJejGFSuJ9depO7U) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 2:43 |
-| 67 | [Dis moi que tu m'aimes](https://open.spotify.com/track/1T9LhC0vlV95Q8HJRaNC1S) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [NOV](https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts) | 3:12 |
+| 66 | [Dis moi que tu m'aimes](https://open.spotify.com/track/1T9LhC0vlV95Q8HJRaNC1S) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [NOV](https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts) | 3:12 |
+| 67 | [Aye](https://open.spotify.com/track/3AsqqOPJejGFSuJ9depO7U) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 2:43 |
 | 68 | [A deux](https://open.spotify.com/track/2GGKEPBEKh4MclL7UOBAN5) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [Glow Up](https://open.spotify.com/album/5lxGXboLgqONmIT50uLRO9) | 2:25 |
 | 69 | [Solo](https://open.spotify.com/track/28fAQAsMD86wB6K3Am282K) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Solo](https://open.spotify.com/album/4tKml0RxOek2UjAhLl2Nzo) | 3:28 |
 | 70 | [Je rentre à la maison](https://open.spotify.com/track/2yo2Q8FGARCevQYok7LEWd) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 3:19 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 77 | [Par hasard](https://open.spotify.com/track/0u2AmL4idXpdOCOLAwiCd1) | [Rafal](https://open.spotify.com/artist/1po2usUvDtjw2UVI2bnV1h) | [Jukaï : Tome 1](https://open.spotify.com/album/5sqmCvklxhkUu63bGCPtT7) | 2:15 |
 | 78 | [fade up](https://open.spotify.com/track/6VhmOw8lERbTRs1Al7iy2z) | [Eliias](https://open.spotify.com/artist/36hWlixqFk1ZWlJQYaB5To) | [march 29](https://open.spotify.com/album/1DpoTfAnZAEEIqJ4zqcpJG) | 6:32 |
 
-Snapshot ID: `Ab9/nAAAAADhxNVoJu3qApd82J18sKTB`
+Snapshot ID: `Ab+FMgAAAAB1LxQPWsSTMQKwKpF98S/H`

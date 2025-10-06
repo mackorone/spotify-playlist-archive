@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 34854,
+  "num_followers": 34860,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAADCa8hvH9j+KvggBTDnjCCE",
+  "snapshot_id": "aOBjgAAAAAAMC1Bgsg6cXkiougkatPWU",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sessions",
+        "url": "https://open.spotify.com/album/7yaedwQjo5ai0h1EEI9ymx"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 188053,
+      "name": "Sessions",
+      "url": "https://open.spotify.com/track/03gHIjYCwrOia5nNwg7jmT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Survivor\u2019s Guilt (feat. G Herbo)",
         "url": "https://open.spotify.com/album/5LmyrJlTv5zRJm2CiyxHSS"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 183703,
       "name": "Survivor\u2019s Guilt (feat. G Herbo)",
       "url": "https://open.spotify.com/track/6nCWE96dbCCeWig5TZu4jv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sessions",
-        "url": "https://open.spotify.com/album/7yaedwQjo5ai0h1EEI9ymx"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 188053,
-      "name": "Sessions",
-      "url": "https://open.spotify.com/track/03gHIjYCwrOia5nNwg7jmT"
     },
     {
       "added_at": null,
@@ -899,22 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Swerv 2.0",
-        "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 179946,
-      "name": "Dark Knight",
-      "url": "https://open.spotify.com/track/4eVjHYvqgwQsPN16XeX9JR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNDERWORLD",
         "url": "https://open.spotify.com/album/1G4tRpGjmTkmE3jSAtKkvV"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 181080,
       "name": "Swerve (feat. G Herbo)",
       "url": "https://open.spotify.com/track/27MFaiM3gYDvknS6FYEUVC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Swerv 2.0",
+        "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 179946,
+      "name": "Dark Knight",
+      "url": "https://open.spotify.com/track/4eVjHYvqgwQsPN16XeX9JR"
     },
     {
       "added_at": null,

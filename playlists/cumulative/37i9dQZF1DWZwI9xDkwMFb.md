@@ -4,7 +4,7 @@
 
 > The official playlist for” Blue Orchestra” ©阿久井真／小学館／NHK・NEP・日本アニメーション
 
-54 songs - 4 hr 1 min
+56 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,9 +58,11 @@
 | [The Shadows in Between](https://open.spotify.com/track/2a87PUiODU1FfHYKB4xBUc) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Blue Orchestra \(Original Soundtrack\)](https://open.spotify.com/album/715m42tQwAxBohq0CiXiNZ) | 2:16 | 2023-10-10 |  |
 | [Think/Consider](https://open.spotify.com/track/386Ob32WB8Vp3995dRtXjN) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Blue Orchestra \(Original Soundtrack\)](https://open.spotify.com/album/715m42tQwAxBohq0CiXiNZ) | 2:05 | 2023-10-10 |  |
 | [Violin Concerto No\. 1 in E Major, RV 269 "La primavera": I\. Allegro](https://open.spotify.com/track/5XG44N2hyQns8V7XZHL9Ym) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Janine Jansen](https://open.spotify.com/artist/00hfOKuZEhvKKNXmVdb1We), [Candida Thompson](https://open.spotify.com/artist/53dqNaesiJ52bYl36DZuxM), [Henk Rubingh](https://open.spotify.com/artist/7ocblNnID5VgPzixlZ4EFO), [Julian Rachlin](https://open.spotify.com/artist/6aXeLNKDAYfLVrVcy5ISaX), [Stacey Watton](https://open.spotify.com/artist/1E9GJVMj19cBIwiRegnF5F), [Maarten Jansen](https://open.spotify.com/artist/5Ff0ekDZLWLZRlv4jKe3ZB), [Liz Kenny](https://open.spotify.com/artist/6s4N9nzRrgbx8LnB7VbVEc), [Jan Jansen](https://open.spotify.com/artist/4S5wP8Mk9tMgPBgeB0f7UX) | [Vivaldi: The Four Seasons](https://open.spotify.com/album/1smxmzL8C2nXjtrpLj0802) | 3:19 | 2023-06-15 | 2023-10-11 |
+| [アマデウス](https://open.spotify.com/track/2nRuEkrPW1KL9CW3ylEk7X) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [アマデウス](https://open.spotify.com/album/6PclPhQAIkftll2q1vvRh4) | 3:42 | 2025-10-05 |  |
 | [カノン\(無伴奏ヴァイオリン版 / 編:萩森英明\)](https://open.spotify.com/track/2i5tJba0MzIg8IoRgCIPr0) | [東 亮汰](https://open.spotify.com/artist/0R78zJyXYkOyQbAvT8tKyF) | [パッヘルベル:カノン\(無伴奏ヴァイオリン版 / 編:萩森英明\)](https://open.spotify.com/album/4V2hzUgmMOvcSppnJpl0pH) | 5:57 | 2023-06-15 | 2023-10-12 |
 | [ヴァイオリン協奏曲 ホ短調 作品64: 第3楽章: Allegretto non troppo \- Allegro molto vivace](https://open.spotify.com/track/4KEvcFdZntfsJgy49HH27T) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Sayaka Shoji](https://open.spotify.com/artist/11OqwK96LZdmndmul6hPex), [フランス放送フィルハーモニー管弦楽団](https://open.spotify.com/artist/3nJ6UKgyatVS2SqL6wowDl), [チョン・ミョンフン](https://open.spotify.com/artist/07kqB64WF9H72nLdGcAIZS) | [チャイコフスキー、メンデルスゾーン：ヴァイオリン協奏曲](https://open.spotify.com/album/4nFCOvL2ulzpHTKf4c04iQ) | 6:54 | 2023-06-15 |  |
 | [夕さりのカノン](https://open.spotify.com/track/37lVT9BHrBRUsLxYUOZw9x) | [粗品](https://open.spotify.com/artist/7xqEtCgCQWtiuvlkM5Wigc), [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [夕さりのカノン](https://open.spotify.com/album/0UpP21Crlupm1SaIE33tIy) | 3:11 | 2023-08-25 |  |
 | [無伴奏チェロ組曲 第1番 ト長調 BWV 1007: 第1曲: プレリュード](https://open.spotify.com/track/4UbBCKxwhcjm5cxrXCpNrv) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Haruma Sato](https://open.spotify.com/artist/3H65pWTCUa1pcpNVq8HNuk) | [J.S.バッハ:無伴奏チェロ組曲 第1番 ト長調 BWV 1007 第1曲: プレリュード](https://open.spotify.com/album/7sI7B6dHB3hvRISIkuHvwp) | 2:51 | 2023-07-06 | 2023-10-12 |
+| [青の魔法](https://open.spotify.com/track/3j5DAn7RNoJj2Kl87FeOOZ) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [青の魔法](https://open.spotify.com/album/10w3OQKWjYbcUzztkdw4oP) | 3:46 | 2025-10-05 |  |
 
 \*This playlist was first scraped on 2023-06-17. Prior content cannot be recovered.

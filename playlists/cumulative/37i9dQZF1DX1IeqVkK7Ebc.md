@@ -4,7 +4,7 @@
 
 > Like grass on my jeans you're staying with me...
 
-251 songs - 13 hr 37 min
+253 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [broken by you](https://open.spotify.com/track/472jZF9DQbbJlp6Zg58aai) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [broken by you](https://open.spotify.com/album/3xGBQIPJYhqeSkTF53Jr70) | 2:52 | 2024-06-20 | 2025-02-23 |
 | [Bye Bye Bye](https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \(Deluxe\)](https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d) | 2:29 | 2024-09-13 | 2025-01-28 |
 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 | 2025-02-21 |  |
+| [Camera \- Unplugged](https://open.spotify.com/track/3LGcolProZ9dVz33pOSh1t) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Camera \(Unplugged\)](https://open.spotify.com/album/0i3yVznQnq0h5g9Pn6Q6pl) | 3:33 | 2025-10-03 |  |
 | [canal street](https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 5:02 | 2025-10-02 |  |
 | [Cardboard Box](https://open.spotify.com/track/6Jv25wiyMdXCntMUvoTdNi) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 2:41 | 2024-06-20 | 2025-02-19 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2024-06-20 | 2025-04-29 |
@@ -68,6 +69,7 @@
 | [Dreams](https://open.spotify.com/track/1igkxmN7OLGaQ9XoUxYGOk) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Late Start](https://open.spotify.com/album/39crSASAQumXtIGURlbaDD) | 3:14 | 2025-04-28 | 2025-10-03 |
 | [Drown](https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Drown](https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA) | 4:20 | 2024-06-20 | 2025-02-22 |
 | [d£aler](https://open.spotify.com/track/2oEWlfp7bWOb3Mqiyhu8rW) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 2:40 | 2025-10-02 |  |
+| [Elizabeth Taylor](https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:28 | 2025-10-03 |  |
 | [end game](https://open.spotify.com/track/3YyyTcNUwJU4fS01fppkkZ) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [end game](https://open.spotify.com/album/28Al1lPpcToVKiM8EnNuXz) | 2:26 | 2024-06-20 | 2025-02-22 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2025-02-21 | 2025-04-29 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-20 | 2025-03-14 |
@@ -182,7 +184,7 @@
 | [Run Your Mouth](https://open.spotify.com/track/19fKJrO9XdOf6Xla2QHecO) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 2:40 | 2025-05-02 |  |
 | [Safe House](https://open.spotify.com/track/2esSObQC6pfnta4C6Crjbu) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Nothing To Lose](https://open.spotify.com/album/51Ejpf2T7D8fjeQuL45tf4) | 3:15 | 2024-06-20 | 2025-02-22 |
 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 | 2025-02-21 |  |
-| [Same Mouth](https://open.spotify.com/track/3eVNwlFGyGwaLGIS71cS8a) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Same Mouth](https://open.spotify.com/album/0gpl7Z4SNjlyELHad9yiWn) | 2:36 | 2025-05-23 |  |
+| [Same Mouth](https://open.spotify.com/track/3eVNwlFGyGwaLGIS71cS8a) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Same Mouth](https://open.spotify.com/album/0gpl7Z4SNjlyELHad9yiWn) | 2:36 | 2025-05-23 | 2025-10-06 |
 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2024-06-20 |  |
 | [Saturn's Return](https://open.spotify.com/track/4tHPWiQagyCevaz3j5n4iC) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:47 | 2025-10-02 |  |
 | [Scared Of Loving You](https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Scared Of Loving You](https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt) | 1:50 | 2025-02-21 | 2025-03-14 |
@@ -229,7 +231,7 @@
 | [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 | 2024-06-20 | 2025-02-22 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-16 |  |
 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 | 2024-06-20 | 2025-02-22 |
-| [Trippin](https://open.spotify.com/track/5uSu5qSPTshlm0LK52mEkz) | [LYVIA](https://open.spotify.com/artist/50lx8GGMkqblJrDSpaV0du) | [Trippin](https://open.spotify.com/album/2v6SjGWldikliw4sKC7BkQ) | 2:09 | 2025-05-16 |  |
+| [Trippin](https://open.spotify.com/track/5uSu5qSPTshlm0LK52mEkz) | [LYVIA](https://open.spotify.com/artist/50lx8GGMkqblJrDSpaV0du) | [Trippin](https://open.spotify.com/album/2v6SjGWldikliw4sKC7BkQ) | 2:09 | 2025-05-16 | 2025-10-06 |
 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 | 2024-08-02 | 2025-03-14 |
 | [Twenty Something](https://open.spotify.com/track/6M8mr5ekV1fLfPC3cqAIMP) | [VILLFORTH](https://open.spotify.com/artist/5zZFUqzTf5EItusaDuzmXG) | [Twenty Something](https://open.spotify.com/album/6ssPolXqmHmBlHoguitL5g) | 2:24 | 2025-04-28 | 2025-05-24 |
 | [Two Years](https://open.spotify.com/track/2a9A4x3SfWSztDTMaUkNAG) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Two Years](https://open.spotify.com/album/7vU5EsVxO1ermbSGIRifkn) | 2:52 | 2025-10-02 |  |

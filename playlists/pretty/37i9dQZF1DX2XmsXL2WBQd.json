@@ -1,6 +1,6 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 438242,
+  "num_followers": 438310,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
+        "name": "Straight Outta Compton",
+        "url": "https://open.spotify.com/album/0PHwgJuLLRZP99sEvkkQUd"
+      },
+      "artists": [
+        {
+          "name": "N.W.A.",
+          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
+        }
+      ],
+      "duration_ms": 258687,
+      "name": "Straight Outta Compton",
+      "url": "https://open.spotify.com/track/1CNvz3a8C4t9Ex2fedcu4n"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
         "name": "The Message (Expanded Edition)",
         "url": "https://open.spotify.com/album/6hrwAx3KoigDlYJx2TCAwC"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 319960,
       "name": "Planet Rock",
       "url": "https://open.spotify.com/track/3uy0jtkM8QYVTsBazkli1x"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
-        "name": "Straight Outta Compton",
-        "url": "https://open.spotify.com/album/0PHwgJuLLRZP99sEvkkQUd"
-      },
-      "artists": [
-        {
-          "name": "N.W.A.",
-          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
-        }
-      ],
-      "duration_ms": 258687,
-      "name": "Straight Outta Compton",
-      "url": "https://open.spotify.com/track/1CNvz3a8C4t9Ex2fedcu4n"
     }
   ],
   "unique_name": "I Love My '80s Hip-Hop",

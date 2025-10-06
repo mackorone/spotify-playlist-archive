@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 
 > This is Banda Maguey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,750 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,768 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 | 49 | [Por Qué Te Querré Tanto](https://open.spotify.com/track/6Qydko2p4Vcr4WmQI615DA) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Éxitos de Oro](https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq) | 2:36 |
 | 50 | [Los Vaqueritos](https://open.spotify.com/track/6YxBZqcArkXnPCcIyiwzmA) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Los Vaqueritos](https://open.spotify.com/album/2pVXnHH43mAqv5uMeFaPUw) | 3:32 |
 
-Snapshot ID: `aN8SAAAAAADMpL5X85bZJsI37U7+2rVq`
+Snapshot ID: `aOBjgAAAAAAfsu7aTM4jlgc8RCeI6Eqy`

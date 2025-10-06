@@ -4,7 +4,7 @@
 
 > 100% Pinoy hits from your favorite artists!
 
-188 songs - 13 hr 19 min
+189 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Ikaw Lang](https://open.spotify.com/track/4legZBvlei0pwnrzzxMzol) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Ikaw Lang](https://open.spotify.com/album/2uac9Zt7Zz2icXylMwHOEf) | 4:23 | 2025-08-23 | 2025-09-18 |
 | [Ikaw Lang Patutunguhan](https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Ikaw Lang Patutunguhan](https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG) | 5:26 | 2025-03-25 |  |
 | [Ikaw Pa Rin](https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ikaw Pa Rin](https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k) | 3:11 | 2023-03-23 | 2025-03-26 |
+| [ikaw, ikaw, ikaw](https://open.spotify.com/track/4RmKeqmqtYIl0tbeTnLyXi) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [ikaw, ikaw, ikaw](https://open.spotify.com/album/7FxiQz4Hk6ihjr7ypYnEtP) | 2:54 | 2025-10-06 |  |
 | [Ikot](https://open.spotify.com/track/5gQyJNVUEydHMciwhih7EK) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Make Believe](https://open.spotify.com/album/0eVAbAiekijNEO7xTvGn23) | 4:10 | 2025-08-23 |  |
 | [Imahe](https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Imahe](https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h) | 5:21 | 2022-04-19 |  |
 | [Ipagpatawad Mo](https://open.spotify.com/track/3On64r714N7t1Q4KuqMYlO) | [Mayonnaise](https://open.spotify.com/artist/7lIVjtsgz0y1oRQFBAVNzq), [Star Music](https://open.spotify.com/artist/3x9i2nnioY7wlQE9oPEHqv) | [Tersera](https://open.spotify.com/album/5ZNxJGEM28nI1M8SKQcXNr) | 4:02 | 2022-09-20 | 2023-12-15 |
@@ -102,7 +103,7 @@
 | [Magbalik](https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Destination XYZ](https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6) | 5:26 | 2022-04-19 |  |
 | [Magkabilang Mundo](https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0) | [Jireh Lim](https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q) | [Love And Soul](https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl) | 3:56 | 2022-04-19 |  |
 | [Mahika](https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Senaryo](https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k) | 3:21 | 2024-03-06 |  |
-| [Mahika](https://open.spotify.com/track/0Pafr67ogSuAur2L3DxB4b) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Mahika](https://open.spotify.com/album/65PZ3P2MKJuSAVCMM9WWkA) | 3:30 | 2023-03-23 |  |
+| [Mahika](https://open.spotify.com/track/0Pafr67ogSuAur2L3DxB4b) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Mahika](https://open.spotify.com/album/65PZ3P2MKJuSAVCMM9WWkA) | 3:30 | 2023-03-23 | 2025-10-06 |
 | [Malaya](https://open.spotify.com/track/70bc7AZ8MN5niphOXyHpsD) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Malaya](https://open.spotify.com/album/05rQadwAVYTpNNnBoeTuj0) | 5:20 | 2022-04-19 | 2022-07-29 |
 | [Marilag](https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Marilag](https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY) | 2:37 | 2025-05-28 |  |
 | [Maybe The Night](https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Maybe The Night](https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e) | 3:37 | 2022-04-19 | 2025-08-24 |
@@ -144,7 +145,7 @@
 | [Pusong Ligaw](https://open.spotify.com/track/14pj36HKHd6c72njvGVPWU) | [Jericho Rosales](https://open.spotify.com/artist/3RpJ6OyOnaXRFRXSirgQa6) | [Change](https://open.spotify.com/album/41S3W52qwH0oEKOx9ByH5t) | 4:06 | 2022-09-20 | 2023-05-13 |
 | [Rainbow](https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK) | [South Border](https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv) | [Episode III](https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX) | 5:47 | 2022-04-19 | 2023-03-19 |
 | [RomCom](https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [RomCom](https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX) | 3:57 | 2025-08-23 |  |
-| [Rosas](https://open.spotify.com/track/3kedvnPWaRcrshtiV6e6Z3) | [Jenzen Guino](https://open.spotify.com/artist/3jkBa6etjIDCdf13YXJ0pS) | [Rosas](https://open.spotify.com/album/6dAmnkJugmwr6Db7HLuqHr) | 3:23 | 2025-09-17 |  |
+| [Rosas](https://open.spotify.com/track/3kedvnPWaRcrshtiV6e6Z3) | [Jenzen Guino](https://open.spotify.com/artist/3jkBa6etjIDCdf13YXJ0pS) | [Rosas](https://open.spotify.com/album/6dAmnkJugmwr6Db7HLuqHr) | 3:23 | 2025-09-17 | 2025-10-06 |
 | [Sa Ngalan Ng Pag\-Ibig](https://open.spotify.com/track/00mBzIWv5gHOYxwuEJXjOG) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Sa Ngalan Ng Pag\-Ibig](https://open.spotify.com/album/7xconhHQKj7Be4P2KvUmFz) | 4:45 | 2022-04-19 | 2023-09-01 |
 | [Sa Ngalan Ng Pag\-Ibig](https://open.spotify.com/track/1FnPkOlWCMwRtfXeAAuhMu) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Langit Mong Bughaw](https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr) | 4:45 | 2023-09-13 | 2025-09-18 |
 | [Sa Susunod na Habang Buhay](https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Sa Susunod na Habang Buhay](https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD) | 4:48 | 2022-04-19 |  |
@@ -161,7 +162,7 @@
 | [Simpleng Tao](https://open.spotify.com/track/6bMSUhAmaAGTb5RTTuzWE3) | [Gloc 9](https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD) | [G9](https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG) | 4:04 | 2022-06-13 | 2023-06-04 |
 | [sining \(feat\. Jay R\)](https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [sining \(feat\. Jay R\)](https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m) | 3:20 | 2025-06-25 |  |
 | [Sino](https://open.spotify.com/track/2xCkiGqGMkAIg6fQTag51C) | [Unique Salonga](https://open.spotify.com/artist/30mZI7Hw2MhoarTVYxfyZM) | [Grandma](https://open.spotify.com/album/0oEXZAhZrEhLUtgKcMaxPg) | 4:40 | 2025-08-23 |  |
-| [Sinta](https://open.spotify.com/track/0aCmjkogiWIRu7205eZK6I) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Sinta](https://open.spotify.com/album/0LAPQm2tSDLFDDpCfpw5DO) | 5:16 | 2023-04-03 | 2025-08-24 |
+| [Sinta](https://open.spotify.com/track/0aCmjkogiWIRu7205eZK6I) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Sinta](https://open.spotify.com/album/0LAPQm2tSDLFDDpCfpw5DO) | 5:16 | 2023-04-03 |  |
 | [So Slow](https://open.spotify.com/track/5tg4Rr2rArQJKiH2hcaJph) | [Freestyle](https://open.spotify.com/artist/0jarApAsbmiCkYhz0590mE) | [Freestyle](https://open.spotify.com/album/23urE9jm4wugYqmxANnDut) | 4:35 | 2022-09-20 | 2023-01-17 |
 | [So Slow](https://open.spotify.com/track/1Xr4t4Ze6gfuzY1Yb4bP3z) | [Side A & Freestyle](https://open.spotify.com/artist/3JITwr6Xwkz8p6cm9leNUh) | [Back 2 Back](https://open.spotify.com/album/5m3Qj30Vp2BKZVGzBFxCyD) | 4:36 | 2022-06-13 | 2022-07-28 |
 | [Someday](https://open.spotify.com/track/1MkiRsYBkXbXvdiYvTTiQT) | [Nina](https://open.spotify.com/artist/2tQbSWgZLIB8MXMnsXVRro) | [Nina](https://open.spotify.com/album/1yx0lKqG8Z1J3IOxx4gbzs) | 3:34 | 2022-04-19 | 2023-02-02 |

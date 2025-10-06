@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa\. Cover: Babes Wodumo
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,799 likes - 65 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,902 likes - 65 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

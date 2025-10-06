@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx6OpWBkqVv.md) - [plain]
 
 > Você já dançou muito essas músicas num inferninho insalubre\. Foto: The Go Go Dolls
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,442 likes - 65 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,425 likes - 65 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

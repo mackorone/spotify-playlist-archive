@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 
 > Knees go down and the prayers go up
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,787 likes - 50 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,837 likes - 50 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 25 | [Do to Me What You Want](https://open.spotify.com/track/4DubS31RXrubsxE486uBPi) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Do to Me What You Want](https://open.spotify.com/album/5HHnscBoj1SIt7FIDtSi6c) | 11:54 |
 | 26 | [My Altar \(Cover\)](https://open.spotify.com/track/4jTaIxtdPrwJTY5DVKkKI8) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [My Altar \(Cover\)](https://open.spotify.com/album/36hBmlMUEHL26OVG9JSJ9P) | 6:57 |
 | 27 | [This God Is Too Good \(feat\. Micah Stampley\)](https://open.spotify.com/track/1IxzckvVNIDjmiCy7X76Cx) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Micah Stampley](https://open.spotify.com/artist/32HUki1MDatCzJlahnhjqK) | [This God Is Too Good](https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg) | 6:17 |
-| 28 | [He Is Here \(Live\)](https://open.spotify.com/track/5xTyw6RcRUIPbDPSXgl9h1) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He Is Here \(Live\)](https://open.spotify.com/album/4yC2SG1jlzE9HumSAGdMx1) | 11:41 |
-| 29 | [Omekannaya](https://open.spotify.com/track/1ovRzUecowNFHf5vXUWWo3) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:34 |
+| 28 | [Omekannaya](https://open.spotify.com/track/1ovRzUecowNFHf5vXUWWo3) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:34 |
+| 29 | [He Is Here \(Live\)](https://open.spotify.com/track/5xTyw6RcRUIPbDPSXgl9h1) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He Is Here \(Live\)](https://open.spotify.com/album/4yC2SG1jlzE9HumSAGdMx1) | 11:41 |
 | 30 | [You Have Done Me Well](https://open.spotify.com/track/4j9hSEJPFCUHFIF6qkpzEl) | [Olivertherain](https://open.spotify.com/artist/64E0RwV7Qxl8GSiaHHNbmh), [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [You Have Done Me Well](https://open.spotify.com/album/2wvMaXM7YTDCE3dE1Aohxt) | 4:56 |
 | 31 | [On Fire](https://open.spotify.com/track/2rn3SbXpuzacWTj6WQEB2W) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Return Rev\. 2:4](https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI) | 8:51 |
 | 32 | [Daddy wey dey Pamper](https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU) | [Daddy wey dey Pamper](https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI) | 12:40 |

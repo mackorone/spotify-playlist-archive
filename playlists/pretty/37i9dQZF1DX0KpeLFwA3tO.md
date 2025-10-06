@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Upchuck
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,374 likes - 125 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,368 likes - 125 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 15 | [Kebangkitan](https://open.spotify.com/track/5E1oL0woNnOZUNOLFcEGcl) | [Sukatani](https://open.spotify.com/artist/6j1La1fkBWt6vQcwwXla0w), [IKLIM](https://open.spotify.com/artist/13RkP9NAGg67uIHcFWsdSS) | [Kebangkitan](https://open.spotify.com/album/4TFaMDK9GAcjhhyMVNV9vT) | 4:38 |
 | 16 | [No Cops In Heaven](https://open.spotify.com/track/6o9xWBNWeOGiUlGsB46PD5) | [Split System](https://open.spotify.com/artist/37jDGGhU8pF8nOMBhodmxW) | [No Cops In Heaven / Pull The Trigger](https://open.spotify.com/album/7IQWOlmZ9hdMCDgZjCfUMb) | 3:31 |
 | 17 | [Life and Limb \- Leeds UK 10/31/02\_FLS1041 \- Live](https://open.spotify.com/track/21fskfOK5U16UrbElPCmQ4) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [Live at Metropolitan University Leeds UK 10/31/02\_FLS1041](https://open.spotify.com/album/04T9Ko3dg7IK4kDsuFEdjT) | 3:14 |
-| 18 | [Big Boobs \(ft\. Zora\)](https://open.spotify.com/track/5HC4NulHGigB6MvPIUYTF9) | [Gully Boys](https://open.spotify.com/artist/0RNADU4Af78zqyTCOj2rVU), [Zora](https://open.spotify.com/artist/3pFbhzunKyBUtD2i43BjxB) | [Gully Boys](https://open.spotify.com/album/6vKrrP3yqueciIMoOMeLKP) | 3:05 |
+| 18 | [Big Boobs \(ft\. Zora\)](https://open.spotify.com/track/5HC4NulHGigB6MvPIUYTF9) | [Gully Boys](https://open.spotify.com/artist/0RNADU4Af78zqyTCOj2rVU), [ZORA](https://open.spotify.com/artist/0XKJrvokkuYzlL4umtnit8) | [Gully Boys](https://open.spotify.com/album/6vKrrP3yqueciIMoOMeLKP) | 3:05 |
 | 19 | [Hanging Onto You](https://open.spotify.com/track/4hGcrdznAIH2DtLh1quyZm) | [Grade 2](https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b) | [Hanging Onto You](https://open.spotify.com/album/7v2jRZVrXNOIZOrq62hwzO) | 2:46 |
 | 20 | [Out Loud](https://open.spotify.com/track/3OcF7dJIgKUaDhXjirsFvL) | [Destiny Bond](https://open.spotify.com/artist/4XGRuOMAK9ritE48mxQgYs) | [Out Loud](https://open.spotify.com/album/6Ud63aNDdeR0a52Mcxbguo) | 1:09 |
 | 21 | [Future 86](https://open.spotify.com/track/4uRAbeMggwMmQTrQmfCryK) | [Alex Orange Drink](https://open.spotify.com/artist/6MjoFNppz6Tm6qCdHrzcvx) | [Future 86](https://open.spotify.com/album/3veqs22xTXIcDnKlCWwHiJ) | 1:52 |

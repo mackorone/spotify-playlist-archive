@@ -1,6 +1,6 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 10874,
+  "num_followers": 10880,
   "original_name": "*\ubd04 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-05-13 05:06:27",
       "album": {
-        "name": "Spring Is Gone by chance (2021)",
-        "url": "https://open.spotify.com/album/0jjvd9wnZN808fbJnbB4ba"
-      },
-      "artists": [
-        {
-          "name": "Hello Ga-Young",
-          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
-        }
-      ],
-      "duration_ms": 210386,
-      "name": "Spring Is Gone by chance (2021)",
-      "url": "https://open.spotify.com/track/4ujIaXQKSvamPSSCoPiMT0"
-    },
-    {
-      "added_at": "2025-05-13 05:06:27",
-      "album": {
         "name": "Spring",
         "url": "https://open.spotify.com/album/1wGIkXzSpJd7VfoGJBkVbs"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 173880,
       "name": "Spring",
       "url": "https://open.spotify.com/track/2jqFUiYryAqZRbCNA5D1oM"
+    },
+    {
+      "added_at": "2025-05-13 05:06:27",
+      "album": {
+        "name": "Spring Is Gone by chance (2021)",
+        "url": "https://open.spotify.com/album/0jjvd9wnZN808fbJnbB4ba"
+      },
+      "artists": [
+        {
+          "name": "Hello Ga-Young",
+          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
+        }
+      ],
+      "duration_ms": 210386,
+      "name": "Spring Is Gone by chance (2021)",
+      "url": "https://open.spotify.com/track/4ujIaXQKSvamPSSCoPiMT0"
     },
     {
       "added_at": "2025-05-13 05:06:27",
@@ -919,38 +919,6 @@
     {
       "added_at": "2025-05-13 05:06:27",
       "album": {
-        "name": "First Love Story (Original Soundtrack from the Webtoon Fight For My Way)",
-        "url": "https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ"
-      },
-      "artists": [
-        {
-          "name": "Baek A Yeon",
-          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
-        }
-      ],
-      "duration_ms": 207773,
-      "name": "First Love Story",
-      "url": "https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY"
-    },
-    {
-      "added_at": "2025-05-13 05:06:27",
-      "album": {
-        "name": "Love Catcher in Bali, Pt. 3 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/439TfzqRqaIX84wfVmSrg4"
-      },
-      "artists": [
-        {
-          "name": "KIM YO HAN",
-          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
-        }
-      ],
-      "duration_ms": 194786,
-      "name": "My Destiny",
-      "url": "https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA"
-    },
-    {
-      "added_at": "2025-05-13 05:06:27",
-      "album": {
         "name": "A daily adventurer",
         "url": "https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP"
       },
@@ -979,6 +947,38 @@
       "duration_ms": 163733,
       "name": "Spring Bloom",
       "url": "https://open.spotify.com/track/3ZGKRl24T92ouc13ttGer4"
+    },
+    {
+      "added_at": "2025-05-13 05:06:27",
+      "album": {
+        "name": "Love Catcher in Bali, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/439TfzqRqaIX84wfVmSrg4"
+      },
+      "artists": [
+        {
+          "name": "KIM YO HAN",
+          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
+        }
+      ],
+      "duration_ms": 194786,
+      "name": "My Destiny",
+      "url": "https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA"
+    },
+    {
+      "added_at": "2025-05-13 05:06:27",
+      "album": {
+        "name": "First Love Story (Original Soundtrack from the Webtoon Fight For My Way)",
+        "url": "https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        }
+      ],
+      "duration_ms": 207773,
+      "name": "First Love Story",
+      "url": "https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY"
     },
     {
       "added_at": "2025-05-13 05:06:27",
@@ -1083,22 +1083,22 @@
     {
       "added_at": "2025-05-13 05:06:27",
       "album": {
-        "name": "Is this love?",
-        "url": "https://open.spotify.com/album/1FUgKWwkD6La6MGm0Ndh5K"
+        "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
+        "url": "https://open.spotify.com/album/31T5angQfNXokneuSdQq56"
       },
       "artists": [
         {
-          "name": "JUNIEL",
-          "url": "https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6"
+          "name": "BOOKKU DDOONG",
+          "url": "https://open.spotify.com/artist/3dy8YhuMdQX2iwO1CaurGw"
         },
         {
-          "name": "YOUN TOVEN",
-          "url": "https://open.spotify.com/artist/6AXmdfKN5XhluSBP5wCrEr"
+          "name": "CHOI YOOJUNG",
+          "url": "https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648"
         }
       ],
-      "duration_ms": 183296,
-      "name": "Is this love? (with YOUN TOVEN)",
-      "url": "https://open.spotify.com/track/6AzNmQzi4gFwlbcfCUemJ2"
+      "duration_ms": 167800,
+      "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
+      "url": "https://open.spotify.com/track/0bh107oicEpxI1RiAz59Wb"
     },
     {
       "added_at": "2025-05-13 05:06:27",
@@ -1119,22 +1119,22 @@
     {
       "added_at": "2025-05-13 05:06:27",
       "album": {
-        "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
-        "url": "https://open.spotify.com/album/31T5angQfNXokneuSdQq56"
+        "name": "Is this love?",
+        "url": "https://open.spotify.com/album/1FUgKWwkD6La6MGm0Ndh5K"
       },
       "artists": [
         {
-          "name": "BOOKKU DDOONG",
-          "url": "https://open.spotify.com/artist/3dy8YhuMdQX2iwO1CaurGw"
+          "name": "JUNIEL",
+          "url": "https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6"
         },
         {
-          "name": "CHOI YOOJUNG",
-          "url": "https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648"
+          "name": "YOUN TOVEN",
+          "url": "https://open.spotify.com/artist/6AXmdfKN5XhluSBP5wCrEr"
         }
       ],
-      "duration_ms": 167800,
-      "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
-      "url": "https://open.spotify.com/track/0bh107oicEpxI1RiAz59Wb"
+      "duration_ms": 183296,
+      "name": "Is this love? (with YOUN TOVEN)",
+      "url": "https://open.spotify.com/track/6AzNmQzi4gFwlbcfCUemJ2"
     },
     {
       "added_at": "2025-05-13 05:06:27",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2025-05-13 05:06:27",
       "album": {
+        "name": "the 24th spring",
+        "url": "https://open.spotify.com/album/3iOEyEwC6NogLMgjQ9gKWP"
+      },
+      "artists": [
+        {
+          "name": "jeong min joo",
+          "url": "https://open.spotify.com/artist/5opiWhQPSyQQQ3wcuim5dk"
+        }
+      ],
+      "duration_ms": 241749,
+      "name": "the 24th spring",
+      "url": "https://open.spotify.com/track/2y9J8vIBmsrZDBMIpySIMk"
+    },
+    {
+      "added_at": "2025-05-13 05:06:27",
+      "album": {
         "name": "If I (with Yun DDanDDan)",
         "url": "https://open.spotify.com/album/6qGRlVGMoRhvsKjkixQe6Y"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 229354,
       "name": "If I (with Yun DDanDDan)",
       "url": "https://open.spotify.com/track/2Leb6RTSFvdVEXW20Pnv1U"
-    },
-    {
-      "added_at": "2025-05-13 05:06:27",
-      "album": {
-        "name": "the 24th spring",
-        "url": "https://open.spotify.com/album/3iOEyEwC6NogLMgjQ9gKWP"
-      },
-      "artists": [
-        {
-          "name": "jeong min joo",
-          "url": "https://open.spotify.com/artist/5opiWhQPSyQQQ3wcuim5dk"
-        }
-      ],
-      "duration_ms": 241749,
-      "name": "the 24th spring",
-      "url": "https://open.spotify.com/track/2y9J8vIBmsrZDBMIpySIMk"
     },
     {
       "added_at": "2025-05-13 05:06:27",

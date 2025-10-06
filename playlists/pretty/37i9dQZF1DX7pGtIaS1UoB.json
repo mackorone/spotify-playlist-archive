@@ -1,6 +1,6 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 99816,
+  "num_followers": 99820,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2025-10-02 16:00:36",
       "album": {
-        "name": "Ugly Beauty",
-        "url": "https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9"
-      },
-      "artists": [
-        {
-          "name": "JOLIN",
-          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
-        }
-      ],
-      "duration_ms": 172968,
-      "name": "\u8166\u516c",
-      "url": "https://open.spotify.com/track/50ZM3drEKbAIKDfrbRYvX8"
-    },
-    {
-      "added_at": "2025-10-02 16:00:36",
-      "album": {
         "name": "\u4e00\u5929",
         "url": "https://open.spotify.com/album/0gvJLsBulK413oR9BJTOUM"
       },
@@ -423,18 +407,18 @@
     {
       "added_at": "2025-10-02 16:00:36",
       "album": {
-        "name": "Superman",
-        "url": "https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN"
+        "name": "Ugly Beauty",
+        "url": "https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9"
       },
       "artists": [
         {
-          "name": "Gary Chaw",
-          "url": "https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK"
+          "name": "JOLIN",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
         }
       ],
-      "duration_ms": 244690,
-      "name": "\u5169\u96bb\u6200\u4eba",
-      "url": "https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN"
+      "duration_ms": 172968,
+      "name": "\u8166\u516c",
+      "url": "https://open.spotify.com/track/50ZM3drEKbAIKDfrbRYvX8"
     },
     {
       "added_at": "2025-10-02 16:00:36",
@@ -451,22 +435,6 @@
       "duration_ms": 260480,
       "name": "\u966a\u6211\u770b\u65e5\u51fa",
       "url": "https://open.spotify.com/track/54vBDYCulMrXboGiXiABXD"
-    },
-    {
-      "added_at": "2025-10-02 16:00:36",
-      "album": {
-        "name": "\u5c6c\u65bc\u4f60 (\u96fb\u5f71\u300a\u4e00\u5468\u7684\u670b\u53cb\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/72UbhmRyjQB15aaSkfz6Td"
-      },
-      "artists": [
-        {
-          "name": "\u7406\u60f3\u6df7\u86cb",
-          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
-        }
-      ],
-      "duration_ms": 177757,
-      "name": "\u5c6c\u65bc\u4f60 - \u96fb\u5f71\u300a\u4e00\u5468\u7684\u670b\u53cb\u300b\u63d2\u66f2",
-      "url": "https://open.spotify.com/track/6aAWv8sFAh1l1buBTUgTWo"
     },
     {
       "added_at": "2025-10-02 16:00:36",
@@ -491,22 +459,34 @@
     {
       "added_at": "2025-10-02 16:00:36",
       "album": {
-        "name": "\u547d\u4e2d\u6ce8\u5b9a\u6211\u611b\u4f60 \u96fb\u8996\u539f\u8072\u5e36",
-        "url": "https://open.spotify.com/album/6ZPU1hsU2POklmDrDiSpem"
+        "name": "\u5c6c\u65bc\u4f60 (\u96fb\u5f71\u300a\u4e00\u5468\u7684\u670b\u53cb\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/72UbhmRyjQB15aaSkfz6Td"
       },
       "artists": [
         {
-          "name": "\u5143\u82e5\u85cd",
-          "url": "https://open.spotify.com/artist/6ksmwGJ7ECvNHvTGb8uMMK"
-        },
-        {
-          "name": "\u5927Q\u79c9\u6d1b",
-          "url": "https://open.spotify.com/artist/4RR9YZI1lrC7K0dg07RLKr"
+          "name": "\u7406\u60f3\u6df7\u86cb",
+          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
         }
       ],
-      "duration_ms": 255097,
-      "name": "\u5fc3\u9858\u4fbf\u5229\u8cbc - \u53f0\u8996\u3001\u4e09\u7acb\u300a\u547d\u4e2d\u6ce8\u5b9a\u6211\u611b\u4f60\u300b\u7247\u5c3e\u66f2",
-      "url": "https://open.spotify.com/track/7bC2uZJZichlPr83rAJlKv"
+      "duration_ms": 177757,
+      "name": "\u5c6c\u65bc\u4f60 - \u96fb\u5f71\u300a\u4e00\u5468\u7684\u670b\u53cb\u300b\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/6aAWv8sFAh1l1buBTUgTWo"
+    },
+    {
+      "added_at": "2025-10-02 16:00:36",
+      "album": {
+        "name": "Superman",
+        "url": "https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN"
+      },
+      "artists": [
+        {
+          "name": "Gary Chaw",
+          "url": "https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK"
+        }
+      ],
+      "duration_ms": 244690,
+      "name": "\u5169\u96bb\u6200\u4eba",
+      "url": "https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN"
     },
     {
       "added_at": "2025-10-02 16:00:36",
@@ -527,6 +507,26 @@
     {
       "added_at": "2025-10-02 16:00:36",
       "album": {
+        "name": "\u547d\u4e2d\u6ce8\u5b9a\u6211\u611b\u4f60 \u96fb\u8996\u539f\u8072\u5e36",
+        "url": "https://open.spotify.com/album/6ZPU1hsU2POklmDrDiSpem"
+      },
+      "artists": [
+        {
+          "name": "\u5143\u82e5\u85cd",
+          "url": "https://open.spotify.com/artist/6ksmwGJ7ECvNHvTGb8uMMK"
+        },
+        {
+          "name": "\u5927Q\u79c9\u6d1b",
+          "url": "https://open.spotify.com/artist/4RR9YZI1lrC7K0dg07RLKr"
+        }
+      ],
+      "duration_ms": 255097,
+      "name": "\u5fc3\u9858\u4fbf\u5229\u8cbc - \u53f0\u8996\u3001\u4e09\u7acb\u300a\u547d\u4e2d\u6ce8\u5b9a\u6211\u611b\u4f60\u300b\u7247\u5c3e\u66f2",
+      "url": "https://open.spotify.com/track/7bC2uZJZichlPr83rAJlKv"
+    },
+    {
+      "added_at": "2025-10-02 16:00:36",
+      "album": {
         "name": "\u4eca\u5929\u967d\u5149\u5c31\u662f\u7279\u5225\u8000\u773c\u7279\u5225\u548c\u8ae7",
         "url": "https://open.spotify.com/album/2QREzTJk3ddhLIxoiLRveT"
       },
@@ -543,6 +543,58 @@
       "duration_ms": 186014,
       "name": "\u4eca\u5929\u967d\u5149\u5c31\u662f\u7279\u5225\u8000\u773c\u7279\u5225\u548c\u8ae7 feat. \u97cb\u79ae\u5b89",
       "url": "https://open.spotify.com/track/6qnSA1GSwRtgHCqaD1jQin"
+    },
+    {
+      "added_at": "2025-10-02 16:00:36",
+      "album": {
+        "name": "Cindy\u8881\u8a60\u7433\u540c\u540d\u5c08\u8f2f",
+        "url": "https://open.spotify.com/album/5BZIrbFiSeJgdbY96ReQPH"
+      },
+      "artists": [
+        {
+          "name": "Cindy Yen",
+          "url": "https://open.spotify.com/artist/3IXhSUXNXO7Z6GnYufgpKR"
+        },
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 273666,
+      "name": "\u756b\u6c99",
+      "url": "https://open.spotify.com/track/1FHyeleXso8kLXXNfnqWEL"
+    },
+    {
+      "added_at": "2025-10-02 16:00:36",
+      "album": {
+        "name": "\u6211\u7684\u9ea5\u514b\u98a8",
+        "url": "https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX"
+      },
+      "artists": [
+        {
+          "name": "Will Pan",
+          "url": "https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0"
+        }
+      ],
+      "duration_ms": 241213,
+      "name": "\u611b\u4e0a\u672a\u4f86\u7684\u4f60",
+      "url": "https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl"
+    },
+    {
+      "added_at": "2025-10-02 16:00:36",
+      "album": {
+        "name": "Till We Fall in Love",
+        "url": "https://open.spotify.com/album/69Xnn6GEk0hLXUcPxcMngt"
+      },
+      "artists": [
+        {
+          "name": "\u989c\u4eba\u4e2d",
+          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
+        }
+      ],
+      "duration_ms": 240283,
+      "name": "Till We Fall in Love",
+      "url": "https://open.spotify.com/track/7lXQEJTUzFPeuuDtB2NpkA"
     },
     {
       "added_at": "2025-10-02 16:00:36",
@@ -575,74 +627,6 @@
       "duration_ms": 241551,
       "name": "\u7b2c\u4e00\u5c01\u60c5\u66f8",
       "url": "https://open.spotify.com/track/5tjog7gO3dqoQe7qOsxNUx"
-    },
-    {
-      "added_at": "2025-10-02 16:00:36",
-      "album": {
-        "name": "Cindy\u8881\u8a60\u7433\u540c\u540d\u5c08\u8f2f",
-        "url": "https://open.spotify.com/album/5BZIrbFiSeJgdbY96ReQPH"
-      },
-      "artists": [
-        {
-          "name": "Cindy Yen",
-          "url": "https://open.spotify.com/artist/3IXhSUXNXO7Z6GnYufgpKR"
-        },
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 273666,
-      "name": "\u756b\u6c99",
-      "url": "https://open.spotify.com/track/1FHyeleXso8kLXXNfnqWEL"
-    },
-    {
-      "added_at": "2025-10-02 16:00:36",
-      "album": {
-        "name": "Till We Fall in Love",
-        "url": "https://open.spotify.com/album/69Xnn6GEk0hLXUcPxcMngt"
-      },
-      "artists": [
-        {
-          "name": "\u989c\u4eba\u4e2d",
-          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
-        }
-      ],
-      "duration_ms": 240283,
-      "name": "Till We Fall in Love",
-      "url": "https://open.spotify.com/track/7lXQEJTUzFPeuuDtB2NpkA"
-    },
-    {
-      "added_at": "2025-10-02 16:00:36",
-      "album": {
-        "name": "\u6211\u7684\u9ea5\u514b\u98a8",
-        "url": "https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX"
-      },
-      "artists": [
-        {
-          "name": "Will Pan",
-          "url": "https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0"
-        }
-      ],
-      "duration_ms": 241213,
-      "name": "\u611b\u4e0a\u672a\u4f86\u7684\u4f60",
-      "url": "https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl"
-    },
-    {
-      "added_at": "2025-10-02 16:00:36",
-      "album": {
-        "name": "\u60f3\u4f60\u60f3\u4f60",
-        "url": "https://open.spotify.com/album/7jqhQ0VO6Qld6JfJttghxC"
-      },
-      "artists": [
-        {
-          "name": "\u6591\u6069Ben",
-          "url": "https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ"
-        }
-      ],
-      "duration_ms": 195900,
-      "name": "\u60f3\u4f60\u60f3\u4f60",
-      "url": "https://open.spotify.com/track/4HCTAnB6SVjydxfpMlbN8p"
     },
     {
       "added_at": "2025-10-02 16:00:36",
@@ -695,6 +679,22 @@
       "duration_ms": 200689,
       "name": "\u60f3\u8aaa",
       "url": "https://open.spotify.com/track/5Wisct6F7PgfIyIsosbfhY"
+    },
+    {
+      "added_at": "2025-10-02 16:00:36",
+      "album": {
+        "name": "\u60f3\u4f60\u60f3\u4f60",
+        "url": "https://open.spotify.com/album/7jqhQ0VO6Qld6JfJttghxC"
+      },
+      "artists": [
+        {
+          "name": "\u6591\u6069Ben",
+          "url": "https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ"
+        }
+      ],
+      "duration_ms": 195900,
+      "name": "\u60f3\u4f60\u60f3\u4f60",
+      "url": "https://open.spotify.com/track/4HCTAnB6SVjydxfpMlbN8p"
     },
     {
       "added_at": "2025-10-02 16:00:36",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-10-02 16:00:36",
       "album": {
-        "name": "Mojito",
-        "url": "https://open.spotify.com/album/1RDzEskhUbajEbNp9xeglp"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 185008,
-      "name": "Mojito",
-      "url": "https://open.spotify.com/track/0EFJeBb373Aau6lnrpgvXo"
-    },
-    {
-      "added_at": "2025-10-02 16:00:36",
-      "album": {
         "name": "\u6162\u52d5\u4f5c\u544a\u767d",
         "url": "https://open.spotify.com/album/3rmO1ZCqgQbHlWam1InUBD"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 159528,
       "name": "\u6162\u52d5\u4f5c\u544a\u767d",
       "url": "https://open.spotify.com/track/0oTNUfAZEykfW3zglmqdiF"
+    },
+    {
+      "added_at": "2025-10-02 16:00:36",
+      "album": {
+        "name": "Mojito",
+        "url": "https://open.spotify.com/album/1RDzEskhUbajEbNp9xeglp"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 185008,
+      "name": "Mojito",
+      "url": "https://open.spotify.com/track/0EFJeBb373Aau6lnrpgvXo"
     },
     {
       "added_at": "2025-10-02 16:00:36",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-10-02 16:00:36",
       "album": {
-        "name": "\u7d66\u6708\u4eae\u7684\u60c5\u66f8",
-        "url": "https://open.spotify.com/album/3WZqmI0dLE7g7az7g7EWr1"
-      },
-      "artists": [
-        {
-          "name": "REGENT \u6797\u6690\u7ae3",
-          "url": "https://open.spotify.com/artist/0fC5VBIUXbh9Fltzxn12Mp"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "\u7d66\u6708\u4eae\u7684\u60c5\u66f8",
-      "url": "https://open.spotify.com/track/2ZqCwuKgjbUAhpnpLjjX04"
-    },
-    {
-      "added_at": "2025-10-02 16:00:36",
-      "album": {
         "name": "\u60f3\u548c\u4f60",
         "url": "https://open.spotify.com/album/3PVAauOBdVFNBx27Nx9bry"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 183428,
       "name": "\u60f3\u548c\u4f60",
       "url": "https://open.spotify.com/track/4TTjeID2YL0FogDNQoKWfF"
+    },
+    {
+      "added_at": "2025-10-02 16:00:36",
+      "album": {
+        "name": "\u7d66\u6708\u4eae\u7684\u60c5\u66f8",
+        "url": "https://open.spotify.com/album/3WZqmI0dLE7g7az7g7EWr1"
+      },
+      "artists": [
+        {
+          "name": "REGENT \u6797\u6690\u7ae3",
+          "url": "https://open.spotify.com/artist/0fC5VBIUXbh9Fltzxn12Mp"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "\u7d66\u6708\u4eae\u7684\u60c5\u66f8",
+      "url": "https://open.spotify.com/track/2ZqCwuKgjbUAhpnpLjjX04"
     },
     {
       "added_at": "2025-10-02 16:00:36",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-10-02 16:00:36",
       "album": {
-        "name": "Yes I Do",
-        "url": "https://open.spotify.com/album/6RNt4lUhcjuctkJAI3hW82"
-      },
-      "artists": [
-        {
-          "name": "Will Pan",
-          "url": "https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Yes I Do",
-      "url": "https://open.spotify.com/track/1fBGyLALUIx2PFpeznjamS"
-    },
-    {
-      "added_at": "2025-10-02 16:00:36",
-      "album": {
         "name": "\u6bcf\u4e00\u5929\u90fd\u60f3\u89c1\u9762",
         "url": "https://open.spotify.com/album/5TH32PfNAAR304rtJaYN84"
       },
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2025-10-02 16:00:36",
       "album": {
+        "name": "Yes I Do",
+        "url": "https://open.spotify.com/album/6RNt4lUhcjuctkJAI3hW82"
+      },
+      "artists": [
+        {
+          "name": "Will Pan",
+          "url": "https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Yes I Do",
+      "url": "https://open.spotify.com/track/1fBGyLALUIx2PFpeznjamS"
+    },
+    {
+      "added_at": "2025-10-02 16:00:36",
+      "album": {
         "name": "\u592a\u967d\u966a\u8457\u884c\u661f",
         "url": "https://open.spotify.com/album/05H4mvVyuv5j1Gulgxgf9x"
       },
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2025-10-02 16:00:36",
       "album": {
-        "name": "\u5206\u4f60\u4e00\u534a\u8033\u6a5f\uff08\u6232\u5287\u300a\u6821\u670d\u7684\u88d9\u64fa\u300b\u7247\u5c3e\u66f2\uff09",
-        "url": "https://open.spotify.com/album/1PmBonUTzbdYSqFQ4iu17x"
+        "name": "\u5e7e\u5206\u4e4b\u5e7e",
+        "url": "https://open.spotify.com/album/2yBLZVs24cFju6t8Jrnpbx"
       },
       "artists": [
         {
-          "name": "\u6d2a\u6690\u54f2WAJI",
-          "url": "https://open.spotify.com/artist/2r5tIhrcRTq0AGzTBz0C0O"
+          "name": "Crowd Lu",
+          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
         }
       ],
-      "duration_ms": 180576,
-      "name": "\u5206\u4f60\u4e00\u534a\u8033\u6a5f\uff08\u6232\u5287\u300a\u6821\u670d\u7684\u88d9\u64fa\u300b\u7247\u5c3e\u66f2\uff09",
-      "url": "https://open.spotify.com/track/3biOb3HBy1E6Jc3AjLaAqK"
+      "duration_ms": 218700,
+      "name": "\u4f60\u662f\u6211\u7684\u6c34 - \u96fb\u5f71<\u82b1\u7532\u5927\u4eba\u8f49\u7537\u5b69>\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/6K95j4rov7rzTljwWXVibx"
     },
     {
       "added_at": "2025-10-02 16:00:36",
@@ -1231,6 +1231,22 @@
       "duration_ms": 164500,
       "name": "\u6211\u662f\u591a\u9ebc\u60f3\u4f60",
       "url": "https://open.spotify.com/track/4gXB7CbEfpf966MTmNF4oT"
+    },
+    {
+      "added_at": "2025-10-02 16:00:36",
+      "album": {
+        "name": "\u5206\u4f60\u4e00\u534a\u8033\u6a5f\uff08\u6232\u5287\u300a\u6821\u670d\u7684\u88d9\u64fa\u300b\u7247\u5c3e\u66f2\uff09",
+        "url": "https://open.spotify.com/album/1PmBonUTzbdYSqFQ4iu17x"
+      },
+      "artists": [
+        {
+          "name": "\u6d2a\u6690\u54f2WAJI",
+          "url": "https://open.spotify.com/artist/2r5tIhrcRTq0AGzTBz0C0O"
+        }
+      ],
+      "duration_ms": 180576,
+      "name": "\u5206\u4f60\u4e00\u534a\u8033\u6a5f\uff08\u6232\u5287\u300a\u6821\u670d\u7684\u88d9\u64fa\u300b\u7247\u5c3e\u66f2\uff09",
+      "url": "https://open.spotify.com/track/3biOb3HBy1E6Jc3AjLaAqK"
     },
     {
       "added_at": "2025-10-02 16:00:36",
@@ -1267,22 +1283,6 @@
       "duration_ms": 149000,
       "name": "stuck on u",
       "url": "https://open.spotify.com/track/5AF1AJAWKPfjAVvIv1x2QQ"
-    },
-    {
-      "added_at": "2025-10-02 16:00:36",
-      "album": {
-        "name": "\u5e7e\u5206\u4e4b\u5e7e",
-        "url": "https://open.spotify.com/album/2yBLZVs24cFju6t8Jrnpbx"
-      },
-      "artists": [
-        {
-          "name": "Crowd Lu",
-          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
-        }
-      ],
-      "duration_ms": 218700,
-      "name": "\u4f60\u662f\u6211\u7684\u6c34 - \u96fb\u5f71<\u82b1\u7532\u5927\u4eba\u8f49\u7537\u5b69>\u63d2\u66f2",
-      "url": "https://open.spotify.com/track/6K95j4rov7rzTljwWXVibx"
     }
   ],
   "unique_name": "\u6696\u5fc3\u60c5\u6b4c",

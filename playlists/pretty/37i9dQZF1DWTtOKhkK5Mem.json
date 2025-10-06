@@ -1,6 +1,6 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 804502,
+  "num_followers": 804557,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Don't Play That Song (Mono)",
-        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
-      },
-      "artists": [
-        {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
-        }
-      ],
-      "duration_ms": 180055,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Chicago X",
         "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 235373,
       "name": "If You Leave Me Now",
       "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Don't Play That Song (Mono)",
+        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        }
+      ],
+      "duration_ms": 180055,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "A New Flame (Expanded Version)",
-        "url": "https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew"
-      },
-      "artists": [
-        {
-          "name": "Simply Red",
-          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "If You Don't Know Me by Now - 2008 Remaster",
-      "url": "https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Chicago 17 (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 229240,
       "name": "You're the Inspiration - 2006 Remaster",
       "url": "https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "A New Flame (Expanded Version)",
+        "url": "https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew"
+      },
+      "artists": [
+        {
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "If You Don't Know Me by Now - 2008 Remaster",
+      "url": "https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Lionel Richie",
         "url": "https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 237760,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Ultimate Manilow",
-        "url": "https://open.spotify.com/album/2GAmoT3vdSG2OKA1pwFjwG"
-      },
-      "artists": [
-        {
-          "name": "Barry Manilow",
-          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
-        }
-      ],
-      "duration_ms": 197733,
-      "name": "Mandy",
-      "url": "https://open.spotify.com/track/4oV4dVj0evVFhjPLvUz8w8"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Classic Eric Clapton",
         "url": "https://open.spotify.com/album/5XkiwxKI2aJYzPq63WPSvJ"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 222626,
       "name": "Wonderful Tonight",
       "url": "https://open.spotify.com/track/3GBGdtSuPKI81bzrniHuF3"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Ultimate Manilow",
+        "url": "https://open.spotify.com/album/2GAmoT3vdSG2OKA1pwFjwG"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "Mandy",
+      "url": "https://open.spotify.com/track/4oV4dVj0evVFhjPLvUz8w8"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "First Impressions",
-        "url": "https://open.spotify.com/album/4TOuZm9IHXWmFDPh8ccp1Z"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "When You Love Someone",
-      "url": "https://open.spotify.com/track/1o6YK7phnXgsljfWSQQfWc"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Isaiah",
         "url": "https://open.spotify.com/album/0Mcl4Qm47aTgoJ35CFGsQv"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 193446,
       "name": "It's Gotta Be You",
       "url": "https://open.spotify.com/track/6cAKeFFYW2aClZSUyvqAEW"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "First Impressions",
+        "url": "https://open.spotify.com/album/4TOuZm9IHXWmFDPh8ccp1Z"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "When You Love Someone",
+      "url": "https://open.spotify.com/track/1o6YK7phnXgsljfWSQQfWc"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Avalon Sunset",
-        "url": "https://open.spotify.com/album/2vE3SSFPxYt7jRu93j6rsi"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 260385,
-      "name": "Have I Told You Lately",
-      "url": "https://open.spotify.com/track/1VsGYaCBFjCVudtX9IGqDg"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Love And Emotion",
         "url": "https://open.spotify.com/album/0ruAWd75Hr6xtUS2ht8HW1"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 275253,
       "name": "Wishing You Were Here - 2002 Remaster",
       "url": "https://open.spotify.com/track/3apndFiT1MCYS9qSy4NJCP"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Avalon Sunset",
+        "url": "https://open.spotify.com/album/2vE3SSFPxYt7jRu93j6rsi"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 260385,
+      "name": "Have I Told You Lately",
+      "url": "https://open.spotify.com/track/1VsGYaCBFjCVudtX9IGqDg"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Nobody Else (Deluxe)",
-        "url": "https://open.spotify.com/album/5QnHvl0ne6yEhRGw3ajvFF"
-      },
-      "artists": [
-        {
-          "name": "Take That",
-          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
-        }
-      ],
-      "duration_ms": 242266,
-      "name": "Back for Good - Radio Mix",
-      "url": "https://open.spotify.com/track/24fQpRwKFkC3Fe8QtvvrNw"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Take Me Home: Yearbook Edition",
         "url": "https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 290960,
       "name": "Let's Get It On",
       "url": "https://open.spotify.com/track/0jHkgTtTaqg5LNCiYDQPUB"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Nobody Else (Deluxe)",
+        "url": "https://open.spotify.com/album/5QnHvl0ne6yEhRGw3ajvFF"
+      },
+      "artists": [
+        {
+          "name": "Take That",
+          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
+        }
+      ],
+      "duration_ms": 242266,
+      "name": "Back for Good - Radio Mix",
+      "url": "https://open.spotify.com/track/24fQpRwKFkC3Fe8QtvvrNw"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "In The Lonely Hour (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7p7RFI5jtwYDknwhnQgmlp"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/7IHOIqZUUInxjVkko181PB"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "The Best Of Extreme (An Accidental Collication Of Atoms)",
         "url": "https://open.spotify.com/album/4hgVjEoyjjCXhMg5dZtGiI"
       },
@@ -2247,18 +2231,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "David Soul",
-        "url": "https://open.spotify.com/album/3bK8cxPBLUFkeBeoqzoWtx"
+        "name": "In The Lonely Hour (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7p7RFI5jtwYDknwhnQgmlp"
       },
       "artists": [
         {
-          "name": "David Soul",
-          "url": "https://open.spotify.com/artist/2eFkm34OMSYRUwP4RAtXaT"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 218946,
-      "name": "Don't give up on us",
-      "url": "https://open.spotify.com/track/23IWhAK0cYRwnBT5EE8i3u"
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/7IHOIqZUUInxjVkko181PB"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2279,22 +2263,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Deep Cuts: The Best Of The Ballads",
-        "url": "https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 208066,
-      "name": "To Be With You",
-      "url": "https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Waking Up The Neighbours",
         "url": "https://open.spotify.com/album/0RhmLffWf3oRr6ahOS6G47"
       },
@@ -2307,6 +2275,38 @@
       "duration_ms": 393640,
       "name": "(Everything I Do) I Do It For You",
       "url": "https://open.spotify.com/track/76qB2ZEZlEJAMqMqUjKusp"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "David Soul",
+        "url": "https://open.spotify.com/album/3bK8cxPBLUFkeBeoqzoWtx"
+      },
+      "artists": [
+        {
+          "name": "David Soul",
+          "url": "https://open.spotify.com/artist/2eFkm34OMSYRUwP4RAtXaT"
+        }
+      ],
+      "duration_ms": 218946,
+      "name": "Don't give up on us",
+      "url": "https://open.spotify.com/track/23IWhAK0cYRwnBT5EE8i3u"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Deep Cuts: The Best Of The Ballads",
+        "url": "https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 208066,
+      "name": "To Be With You",
+      "url": "https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Too Good At Goodbyes",
-        "url": "https://open.spotify.com/album/7oiRNdTfUWmsx6DAjEe7DB"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Too Good At Goodbyes - Edit",
-      "url": "https://open.spotify.com/track/0mel2N9Ws9r4yLQn5QE21Y"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Shawn Mendes",
         "url": "https://open.spotify.com/album/6AjREacSERvnQTe6GFTx3c"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 235746,
       "name": "Fallin' All In You",
       "url": "https://open.spotify.com/track/5I8oEqbk2ZBmQfXCrZbUFb"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Too Good At Goodbyes",
+        "url": "https://open.spotify.com/album/7oiRNdTfUWmsx6DAjEe7DB"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Too Good At Goodbyes - Edit",
+      "url": "https://open.spotify.com/track/0mel2N9Ws9r4yLQn5QE21Y"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Dancing On The Ceiling (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1b81mEDt3DmqDdQrZg3i8F"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 241066,
-      "name": "Say You, Say Me",
-      "url": "https://open.spotify.com/track/0I9M3okWVRJXWT6G7cbIdx"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "The Essential",
         "url": "https://open.spotify.com/album/21xc2PMrHv2PyMtLR610Jk"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 267880,
       "name": "Every Time You Go Away",
       "url": "https://open.spotify.com/track/6rZLTGM5UEpjL8Beebg1Vo"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/7nSAyfhwuPt4vcQ7jeWJCF"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 273999,
+      "name": "Can't Get Enough Of Your Love, Babe",
+      "url": "https://open.spotify.com/track/0hSAR39xfxXXs2LmwjTWUI"
     }
   ],
   "unique_name": "In the Arms of a Woman",

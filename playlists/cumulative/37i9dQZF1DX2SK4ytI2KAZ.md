@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-662 songs - 1 day 12 hr 18 min
+663 songs - 1 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Loser](https://open.spotify.com/track/7uC88PADBOV6yYDsF5ib5t) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Homesick](https://open.spotify.com/album/6PmqLs9QBsOq6nWGlbgWKv) | 3:05 | 2022-08-12 | 2022-11-22 |
 | [Loser](https://open.spotify.com/track/1dRaYeS22TQZ3jRLFfe7vM) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Subject to Flooding](https://open.spotify.com/album/3C96WnL2IhxgpmOIuokjm4) | 2:55 | 2021-03-10 | 2022-04-21 |
 | [Loser at Best](https://open.spotify.com/track/3AVYmz1xX2INIwnSz9pyat) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Loser at Best](https://open.spotify.com/album/5kCYiAEMWTDztfN77A7FDk) | 3:10 | 2023-09-15 | 2023-10-14 |
+| [lost](https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [lost](https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp) | 3:01 | 2025-10-03 |  |
 | [Lost Kitten](https://open.spotify.com/track/1iQQIAfpATwzNGL9cjvsqL) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Synthetica](https://open.spotify.com/album/6dnw3X7u1ErlRAdeDDL4EK) | 3:16 | 2023-09-15 | 2023-10-14 |
 | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI) | 3:13 | 2023-02-17 | 2024-08-17 |
 | [Love Is Mystical](https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [LA DIVINE](https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On) | 3:34 | 2022-06-27 | 2023-10-14 |
@@ -635,7 +636,7 @@
 | [What Am I Missing?](https://open.spotify.com/track/1UhP3hxXqqKwrOedzSKFfE) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [What Am I Missing?](https://open.spotify.com/album/4fYbhT0Rz9HTWM2u5XoxDg) | 2:52 | 2023-05-31 | 2023-09-22 |
 | [What Am I Missing?](https://open.spotify.com/track/61noMxtCbfnzewtJmUIQ13) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Dark](https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou) | 2:52 | 2023-10-13 | 2024-04-19 |
 | [WHAT LOVE?](https://open.spotify.com/track/2UUFmHjjo2ZiqKUN5dkxr4) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [WHAT LOVE?](https://open.spotify.com/album/1Fpn010jS6hIajqCDlpliR) | 3:15 | 2023-10-13 | 2024-01-13 |
-| [What Now](https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:46 | 2024-02-16 |  |
+| [What Now](https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:46 | 2024-02-16 | 2025-10-06 |
 | [WHAT THE HELL](https://open.spotify.com/track/3E3s4xXjmt43Bl1SIC3ij7) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHEN THE MUSIC STOPS](https://open.spotify.com/album/1HU7wSsEM83drfgiAZP9PL) | 2:52 | 2024-07-05 |  |
 | [WHAT YOU GONNA DO???](https://open.spotify.com/track/31brGBYDq5N15VxIn5juop) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC) | [WHAT YOU GONNA DO???](https://open.spotify.com/album/60qrudaXQ3p7R3gX4ctAdD) | 2:11 | 2021-03-10 | 2022-05-05 |
 | [What're We Doing Here](https://open.spotify.com/track/23r4WNoHCVaLypbxeHMu8p) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [What're We Doing Here](https://open.spotify.com/album/0di1rlD8Afel1VLF06lRxK) | 3:04 | 2024-03-10 | 2025-02-01 |

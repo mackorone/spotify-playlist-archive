@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAABw2uZmg3BwU8u7IOc7EPJC",
+  "snapshot_id": "aOBjgAAAAADq3hZhws25SG90iwgalDf1",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dandelions",
-        "url": "https://open.spotify.com/album/5VzuZacoeGfdGSfDL3HNBT"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 179809,
-      "name": "Dandelions",
-      "url": "https://open.spotify.com/track/5QEYqQwZw93WBo56JoWc9k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fragile Future",
         "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 187666,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/6DfiLZdV2DfYi1enJJr2AI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dandelions",
+        "url": "https://open.spotify.com/album/5VzuZacoeGfdGSfDL3HNBT"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 179809,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/5QEYqQwZw93WBo56JoWc9k"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 231720,
-      "name": "Dead In The Water",
-      "url": "https://open.spotify.com/track/1vvzn2ZqR7p31b5ohClWhO"
+      "duration_ms": 222240,
+      "name": "Where Can I Stab Myself In The Ears",
+      "url": "https://open.spotify.com/track/0WnaprahtIVTUWsgGc2hYK"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 222240,
-      "name": "Where Can I Stab Myself In The Ears",
-      "url": "https://open.spotify.com/track/0WnaprahtIVTUWsgGc2hYK"
+      "duration_ms": 231720,
+      "name": "Dead In The Water",
+      "url": "https://open.spotify.com/track/1vvzn2ZqR7p31b5ohClWhO"
     },
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 216520,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/0sFUZ7Hklg97I0l7MTGbD0"
+      "duration_ms": 201414,
+      "name": "Tail Lights",
+      "url": "https://open.spotify.com/track/1wLyxJA73dEPitzJFtY0pd"
     },
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 201414,
-      "name": "Tail Lights",
-      "url": "https://open.spotify.com/track/1wLyxJA73dEPitzJFtY0pd"
+      "duration_ms": 216520,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/0sFUZ7Hklg97I0l7MTGbD0"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dead Formats, Vol. 1",
-        "url": "https://open.spotify.com/album/4Tl209xj9yMafpEmXY2iqI"
+        "name": "Lost Frequencies",
+        "url": "https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 205229,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/766h2nBdhksrA8IRkR4Tgd"
+      "duration_ms": 217113,
+      "name": "Pet Sematary",
+      "url": "https://open.spotify.com/track/2JSJ8qYk6Kvzmb87pTRsjn"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost Frequencies",
-        "url": "https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta"
+        "name": "Dead Formats, Vol. 1",
+        "url": "https://open.spotify.com/album/4Tl209xj9yMafpEmXY2iqI"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 217113,
-      "name": "Pet Sematary",
-      "url": "https://open.spotify.com/track/2JSJ8qYk6Kvzmb87pTRsjn"
+      "duration_ms": 205229,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/766h2nBdhksrA8IRkR4Tgd"
     },
     {
       "added_at": null,
@@ -635,22 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nine Reasons To Say Goodbye",
-        "url": "https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx"
+        "name": "Lost Frequencies",
+        "url": "https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta"
       },
       "artists": [
-        {
-          "name": "A Day In The Life",
-          "url": "https://open.spotify.com/artist/07xLcyDwfSZmCv7V3jr4tr"
-        },
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 152346,
-      "name": "The Girl That Destroyed Me",
-      "url": "https://open.spotify.com/track/358p1DPqhRm4ttRbyua9DX"
+      "duration_ms": 180093,
+      "name": "So Hopelessly",
+      "url": "https://open.spotify.com/track/3rdiIX9ZHQ3PcxWcmCl8Zz"
     },
     {
       "added_at": null,
@@ -675,18 +671,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost Frequencies",
-        "url": "https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta"
+        "name": "Nine Reasons To Say Goodbye",
+        "url": "https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx"
       },
       "artists": [
+        {
+          "name": "A Day In The Life",
+          "url": "https://open.spotify.com/artist/07xLcyDwfSZmCv7V3jr4tr"
+        },
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 180093,
-      "name": "So Hopelessly",
-      "url": "https://open.spotify.com/track/3rdiIX9ZHQ3PcxWcmCl8Zz"
+      "duration_ms": 152346,
+      "name": "The Girl That Destroyed Me",
+      "url": "https://open.spotify.com/track/358p1DPqhRm4ttRbyua9DX"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost Lights",
-        "url": "https://open.spotify.com/album/7rt4AToj7D1GTIuBM1LDyv"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 224762,
-      "name": "We Were Never Lost",
-      "url": "https://open.spotify.com/track/6oNQdqeYRMHi3ywjbrpoyB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fragile Future",
         "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
       },
@@ -755,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
+        "name": "Lost Lights",
+        "url": "https://open.spotify.com/album/7rt4AToj7D1GTIuBM1LDyv"
       },
       "artists": [
         {
@@ -764,9 +748,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 166213,
-      "name": "Hollywood & Vine",
-      "url": "https://open.spotify.com/track/0jK7tJvPWzdG73hnSnQweF"
+      "duration_ms": 224762,
+      "name": "We Were Never Lost",
+      "url": "https://open.spotify.com/track/6oNQdqeYRMHi3ywjbrpoyB"
     },
     {
       "added_at": null,
@@ -787,22 +771,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hawthorne Heights / Emery",
-        "url": "https://open.spotify.com/album/0R46evZSMibVrQooZN69xg"
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
       },
       "artists": [
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        },
-        {
-          "name": "Emery",
-          "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni"
         }
       ],
-      "duration_ms": 224550,
-      "name": "Walls",
-      "url": "https://open.spotify.com/track/4vlilXIZBCe8GdgRCuJhvg"
+      "duration_ms": 166213,
+      "name": "Hollywood & Vine",
+      "url": "https://open.spotify.com/track/0jK7tJvPWzdG73hnSnQweF"
     },
     {
       "added_at": null,
@@ -819,6 +799,26 @@
       "duration_ms": 192173,
       "name": "Corps Of Corpses",
       "url": "https://open.spotify.com/track/5JteFKFxIHvcEEQhx2bkTT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hawthorne Heights / Emery",
+        "url": "https://open.spotify.com/album/0R46evZSMibVrQooZN69xg"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        },
+        {
+          "name": "Emery",
+          "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni"
+        }
+      ],
+      "duration_ms": 224550,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/4vlilXIZBCe8GdgRCuJhvg"
     },
     {
       "added_at": null,

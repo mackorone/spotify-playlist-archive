@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Tutte le migliori nuove uscite indie sono qui 🌻 Cover: Anna Carol e Dente
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,186 likes - 115 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,189 likes - 115 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha a mujeres a todo volumen\. Foto: Ana Belén.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,262 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,259 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 38 | [No soy Diosa](https://open.spotify.com/track/0vz3RZvT3EsujmA5QdLM7k) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [No soy Diosa](https://open.spotify.com/album/0YyJj0GUJFXhBo6pdjX6uz) | 2:11 |
 | 39 | [Yo no te esperaba](https://open.spotify.com/track/20qjnPVhZJhrQ4lhRfipBZ) | [Marta Soto](https://open.spotify.com/artist/6rRY793jdSneQ9aSy0RtMN) | [Yo no te esperaba](https://open.spotify.com/album/0mwiKnVmyuOK2wxECh717V) | 3:25 |
 | 40 | [BABY WATA](https://open.spotify.com/track/6xBKVVHsriYoq3uAAsxuAq) | [Suzete](https://open.spotify.com/artist/2JXeQeL8WjIbo6GIiCJjea) | [BABY WATA](https://open.spotify.com/album/112ES1x3dBXjLyIuMtcTPA) | 2:17 |
-| 41 | [tristán de acuña](https://open.spotify.com/track/1tBGsS9Z4kTznq0Ml0eVTp) | [klaraa](https://open.spotify.com/artist/67hUGeAt8O14w2kjwNa5js), [Yere](https://open.spotify.com/artist/4lzDszfgtJrnmeBfDu9dt7) | [UNDINE](https://open.spotify.com/album/3ZJo6zzFSfmtRng86xoCyX) | 2:32 |
+| 41 | [tristán de acuña](https://open.spotify.com/track/1tBGsS9Z4kTznq0Ml0eVTp) | [klaraa](https://open.spotify.com/artist/67hUGeAt8O14w2kjwNa5js), [Yere](https://open.spotify.com/artist/4lzDszfgtJrnmeBfDu9dt7) | [UNDINE](https://open.spotify.com/album/3ZJo6zzFSfmtRng86xoCyX) | 2:30 |
 | 42 | [AMARGURA EN MIEL](https://open.spotify.com/track/0ZDf2KtbVHx9avpDrvR0sy) | [Lao Ra](https://open.spotify.com/artist/5GDuUaYx3PW3Wa64KxAAAO) | [AMARGURA EN MIEL](https://open.spotify.com/album/63qRRgulh9HRuMxrm5BgaG) | 3:04 |
 | 43 | [Sobrepensando](https://open.spotify.com/track/1yjleUvT41837ZNE8eNXGH) | [Rata Negra](https://open.spotify.com/artist/7KjdFWj7ujhSLbzWYAAgVe) | [Sobrepensando](https://open.spotify.com/album/5mPW8AzWLDjN1aDt7mZt2u) | 1:53 |
 | 44 | [Hola MaRinaaAAA](https://open.spotify.com/track/1I0XGkdTxico04E73ITKyu) | [Marina Daza](https://open.spotify.com/artist/1ycbxfYzNEBabFjFAv85u8) | [Hola MaRinaaAAA](https://open.spotify.com/album/7Mr4BqjF3904aP6bqurgSn) | 2:21 |

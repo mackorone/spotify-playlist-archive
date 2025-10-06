@@ -4,7 +4,7 @@
 
 > This is Slipmami\. The essential tracks, all in one playlist.
 
-63 songs - 2 hr 47 min
+64 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [geada](https://open.spotify.com/track/4Vel9cEUX2x62b1OTGy6h7) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [geada](https://open.spotify.com/album/6amp0p1x4LzDY5aYHaNrKc) | 2:34 | 2025-10-05 |  |
 | [geada](https://open.spotify.com/track/6OJpeTE1wIBHBP9149QOcO) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [geada](https://open.spotify.com/album/4U87UWtYMsHOYHe7s0jLX5) | 2:34 | 2023-12-30 | 2025-10-05 |
 | [GODZILLA](https://open.spotify.com/track/1BrIXH2RmVHzeFszEefAGP) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [GODZILLA](https://open.spotify.com/album/3afnPcuccMKmiiVtzDMCXq) | 2:31 | 2025-04-26 |  |
-| [Gostosa Posturada](https://open.spotify.com/track/0QrZOO5aW18qjKHbjcClWu) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Rafu](https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk) | [Gostosa Posturada](https://open.spotify.com/album/3mp2ekGulGPeycSW8kugCr) | 2:04 | 2023-12-30 |  |
+| [Gostosa Posturada](https://open.spotify.com/track/0QrZOO5aW18qjKHbjcClWu) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Rafu](https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk) | [Gostosa Posturada](https://open.spotify.com/album/3mp2ekGulGPeycSW8kugCr) | 2:04 | 2023-12-30 | 2025-10-06 |
+| [Gostosa Posturada](https://open.spotify.com/track/0woduZD9B00CEyQRrNFdve) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Rafu](https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk) | [Gostosa Posturada](https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF) | 2:04 | 2025-10-06 |  |
 | [Malvadeza](https://open.spotify.com/track/1bYDvVrCAWzQnw5orQ9qgB) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvadeza](https://open.spotify.com/album/0eQEgHKRqdWJp4Kf6PtjAy) | 2:00 | 2023-12-30 |  |
 | [Malvatrem](https://open.spotify.com/track/38sJbmQNqqVSclhdkCfU3a) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Dorly](https://open.spotify.com/artist/1mAJkqf6ZX7Tm1WCTwRuI2), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvatrem](https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh) | 1:49 | 2024-04-06 |  |
 | [Malvatrem](https://open.spotify.com/track/6wsR1Hk6yshbjO3Wi7M1GJ) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Dorly](https://open.spotify.com/artist/1mAJkqf6ZX7Tm1WCTwRuI2), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvatrem](https://open.spotify.com/album/1ZPKYFpymZKgLc0T0Z9WDL) | 1:49 | 2023-12-30 | 2024-04-06 |

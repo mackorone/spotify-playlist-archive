@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,854 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,860 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 12 | [Last Time \(feat\. G Herbo\)](https://open.spotify.com/track/5rDt0wjt4BrYGrveWoIKXB) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 2:59 |
 | 13 | [On Yo Ass](https://open.spotify.com/track/1GieuvkMLaSeu57s1BRVNP) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Levon James](https://open.spotify.com/album/1ZRAeQ6zsPJ5W1K3DvpRpP) | 2:37 |
 | 14 | [Real Oppy \(feat\. G Herbo\)](https://open.spotify.com/track/33b88WhmUTvmavA6yAsKQp) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Grandson](https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN) | 2:43 |
-| 15 | [Survivor’s Guilt \(feat\. G Herbo\)](https://open.spotify.com/track/6nCWE96dbCCeWig5TZu4jv) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor’s Guilt \(feat\. G Herbo\)](https://open.spotify.com/album/5LmyrJlTv5zRJm2CiyxHSS) | 3:03 |
-| 16 | [Sessions](https://open.spotify.com/track/03gHIjYCwrOia5nNwg7jmT) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Sessions](https://open.spotify.com/album/7yaedwQjo5ai0h1EEI9ymx) | 3:08 |
+| 15 | [Sessions](https://open.spotify.com/track/03gHIjYCwrOia5nNwg7jmT) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Sessions](https://open.spotify.com/album/7yaedwQjo5ai0h1EEI9ymx) | 3:08 |
+| 16 | [Survivor’s Guilt \(feat\. G Herbo\)](https://open.spotify.com/track/6nCWE96dbCCeWig5TZu4jv) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor’s Guilt \(feat\. G Herbo\)](https://open.spotify.com/album/5LmyrJlTv5zRJm2CiyxHSS) | 3:03 |
 | 17 | [Write Your Name](https://open.spotify.com/track/1nbFaXgi6FVywm9BN4UmUt) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Welcome to Fazoland](https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl) | 3:19 |
 | 18 | [Party in Heaven](https://open.spotify.com/track/0nSwqwNqNUlNgpPJ4GDAMm) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [PTSD](https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr) | 3:16 |
 | 19 | [Pull Up](https://open.spotify.com/track/4QgtGpNXs1v2UFz1VuCvWB) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Strictly 4 My Fans](https://open.spotify.com/album/5XLw4dnwqajOACwT2MN2d0) | 3:28 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 42 | [Still Dangerous](https://open.spotify.com/track/5vc2kF0dDGa4zJ3bKFR6LP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Welcome to Fazoland \(Anniversary Edition\)](https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26) | 2:33 |
 | 43 | [Feel Bad \(feat\. G Herbo\)](https://open.spotify.com/track/3vopZj6osuP21LtAmCUTJs) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [I NEVER GAVE AF](https://open.spotify.com/album/5U0od07DPyVqElA9cbO364) | 2:54 |
 | 44 | [Trench Baby \(with G Herbo\)](https://open.spotify.com/track/5NPWbfa9RPLC5UabrvxnrM) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Let Me Fly \(Deluxe\)](https://open.spotify.com/album/16fOEIiwZ9ic2JIL7PI6u7) | 2:34 |
-| 45 | [Dark Knight](https://open.spotify.com/track/4eVjHYvqgwQsPN16XeX9JR) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv 2.0](https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a) | 2:59 |
-| 46 | [Swerve \(feat\. G Herbo\)](https://open.spotify.com/track/27MFaiM3gYDvknS6FYEUVC) | [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [UNDERWORLD](https://open.spotify.com/album/1G4tRpGjmTkmE3jSAtKkvV) | 3:01 |
+| 45 | [Swerve \(feat\. G Herbo\)](https://open.spotify.com/track/27MFaiM3gYDvknS6FYEUVC) | [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [UNDERWORLD](https://open.spotify.com/album/1G4tRpGjmTkmE3jSAtKkvV) | 3:01 |
+| 46 | [Dark Knight](https://open.spotify.com/track/4eVjHYvqgwQsPN16XeX9JR) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv 2.0](https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a) | 2:59 |
 | 47 | [Man Now](https://open.spotify.com/track/6e8qzxdh2JPbPqGCUXva59) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Humble Beast \(Deluxe\)](https://open.spotify.com/album/46Shwm91xl9opm3MadNEGn) | 3:29 |
 | 48 | [Chiraq Demons \(feat\. G Herbo\)](https://open.spotify.com/track/3dqsY4TIr0KHJGDgzhGm2t) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Just Cause Y'all Waited 2](https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5) | 2:54 |
 | 49 | [Mine \(feat\. G Herbo\)](https://open.spotify.com/track/5sPGxuVfQkJSCpc8extKFB) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lost Pages](https://open.spotify.com/album/2dtaX61cm2HUJlOn5MSsMs) | 3:26 |
 | 50 | [Body Count \(feat\. King Von & G Herbo\)](https://open.spotify.com/track/30AW1wD8qK1Bqw3Z44xs3f) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Beyond Bulletproof](https://open.spotify.com/album/3Ud5r7QHfMF1UhH8a5M1cH) | 4:03 |
 
-Snapshot ID: `aN8SAAAAAADCa8hvH9j+KvggBTDnjCCE`
+Snapshot ID: `aOBjgAAAAAAMC1Bgsg6cXkiougkatPWU`

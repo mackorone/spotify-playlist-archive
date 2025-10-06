@@ -4,7 +4,7 @@
 
 > Enjoy music & episodes of "SPY×FAMILY"! ©2023「劇場版 SPY×FAMILY」製作委員会　©遠藤達哉／集英社
 
-222 songs - 15 hr 30 min
+223 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 | 2022-05-08 |  |
 | [子守唄](https://open.spotify.com/track/1Vo6Bz6ekS0Yn64LwTgaMY) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY \(ORIGINAL TELEVISION SOUNDTRACK\)](https://open.spotify.com/album/5iqIYxPD47iYuOfXZEQtic) | 2:40 | 2022-12-20 | 2024-04-19 |
 | [子守唄](https://open.spotify.com/track/6EgICjgfShpEX4SsAA1xkP) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A), [ヨル・フォージャー\(CV:早見沙織\)](https://open.spotify.com/artist/3HA8EQvmlOQYX3QRw4QYbE) | [TVアニメ『SPY×FAMILY』オリジナル・サウンドトラック](https://open.spotify.com/album/6FdkOskSEFVPG4va7UuSJN) | 2:40 | 2023-12-27 |  |
+| [灯を護る](https://open.spotify.com/track/0tu73VStd4PNxbF37Y6YSD) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [灯を護る](https://open.spotify.com/album/5kh25KxBQdiqOPOr05rxM3) | 3:33 | 2025-10-05 |  |
 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 | 2022-10-01 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

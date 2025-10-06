@@ -1,12 +1,12 @@
 {
   "description": "This is Roy Ayers. The essential tracks, all in one playlist.",
-  "num_followers": 16374,
+  "num_followers": 16376,
   "original_name": "This Is Roy Ayers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAACF4lqKd1Ztgt64/WDg7gkA",
+  "snapshot_id": "aOBjgAAAAABD8XaZOu7xO/MHQ+il5+Me",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Champagne Kisses",
+        "url": "https://open.spotify.com/album/1BkhAWj2DJmsapEOd0OUUU"
+      },
+      "artists": [
+        {
+          "name": "Reuben James",
+          "url": "https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        },
+        {
+          "name": "FONVILLE",
+          "url": "https://open.spotify.com/artist/4Pk1WAS0PpMDJb36CMbyfv"
+        },
+        {
+          "name": "Basile Petite",
+          "url": "https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE"
+        }
+      ],
+      "duration_ms": 102812,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/0rhUo9oEDGs822bVN8J0FR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Roy Ayers JID002",
         "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
       },
@@ -335,38 +367,6 @@
       "duration_ms": 175213,
       "name": "Aragon - From The \"Coffy\" Soundtrack",
       "url": "https://open.spotify.com/track/6pxqP6XNBLbKVozvtgTH08"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Champagne Kisses",
-        "url": "https://open.spotify.com/album/1BkhAWj2DJmsapEOd0OUUU"
-      },
-      "artists": [
-        {
-          "name": "Reuben James",
-          "url": "https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH"
-        },
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        },
-        {
-          "name": "CARRTOONS",
-          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
-        },
-        {
-          "name": "FONVILLE",
-          "url": "https://open.spotify.com/artist/4Pk1WAS0PpMDJb36CMbyfv"
-        },
-        {
-          "name": "Basile Petite",
-          "url": "https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE"
-        }
-      ],
-      "duration_ms": 102812,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/0rhUo9oEDGs822bVN8J0FR"
     },
     {
       "added_at": null,
@@ -615,30 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roy Ayers Delfonic Reworked #1",
-        "url": "https://open.spotify.com/album/1wbV73tH1qCoWODy2hHiFy"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        },
-        {
-          "name": "Delfonic",
-          "url": "https://open.spotify.com/artist/58TCXxlvoKiZrNowJsfGKP"
-        },
-        {
-          "name": "Merry Clayton",
-          "url": "https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy"
-        }
-      ],
-      "duration_ms": 350293,
-      "name": "Oh What A Lonely Feeling - Delfonic Rework",
-      "url": "https://open.spotify.com/track/2YsACErCqxeNdWiU1MdKN6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roy Ayers JID002",
         "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
       },
@@ -659,6 +635,30 @@
       "duration_ms": 180549,
       "name": "Soulful and Unique",
       "url": "https://open.spotify.com/track/6eA9vRrNPGGPMszrBcOn3a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roy Ayers Delfonic Reworked #1",
+        "url": "https://open.spotify.com/album/1wbV73tH1qCoWODy2hHiFy"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Delfonic",
+          "url": "https://open.spotify.com/artist/58TCXxlvoKiZrNowJsfGKP"
+        },
+        {
+          "name": "Merry Clayton",
+          "url": "https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy"
+        }
+      ],
+      "duration_ms": 350293,
+      "name": "Oh What A Lonely Feeling - Delfonic Rework",
+      "url": "https://open.spotify.com/track/2YsACErCqxeNdWiU1MdKN6"
     },
     {
       "added_at": null,
@@ -919,22 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Change Up The Groove",
-        "url": "https://open.spotify.com/album/2odkikUoXGKyYYi5rcY79M"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 280840,
-      "name": "The Boogie Back",
-      "url": "https://open.spotify.com/track/6IST9f4O5DtXuxal7RM7A3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Time",
         "url": "https://open.spotify.com/album/5nnpSTWi4Uo92Tz1S1YJ9E"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 523840,
       "name": "In Time",
       "url": "https://open.spotify.com/track/6MXfEaPHJQEig5Saz4ew8I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Change Up The Groove",
+        "url": "https://open.spotify.com/album/2odkikUoXGKyYYi5rcY79M"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 280840,
+      "name": "The Boogie Back",
+      "url": "https://open.spotify.com/track/6IST9f4O5DtXuxal7RM7A3"
     },
     {
       "added_at": null,

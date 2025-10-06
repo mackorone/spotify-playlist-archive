@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 
 > Lo mejor del electropop latino\. Foto: Vera Frod
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,727 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,729 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 99 | [Juego Amoroso](https://open.spotify.com/track/0z40KTSBqMWIhoFsGF2K9U) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Cecilia Aguayo](https://open.spotify.com/artist/6rXlCSp0d779BSfgaIvCI2) | [Juego Amoroso](https://open.spotify.com/album/0J6rQSqSd7VADiee89nGdv) | 4:18 |
 | 100 | [Bórrame el Dolor ☆](https://open.spotify.com/track/4hv9p4wMWoBTDgdaWw6fmB) | [DANI RIDE](https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6), [Supernova](https://open.spotify.com/artist/4hp1i0d15TWg1YN3lCUWgq) | [Bórrame el Dolor ☆](https://open.spotify.com/album/30eyu4C1vjBzJlMsJ5XBxW) | 3:43 |
 
-Snapshot ID: `AAAAANJwaR4b8ncqA9pYeVdFpUMf4n/m`
+Snapshot ID: `AAAAAI+XryK07ZP3Q8/VCR7v1Fx1L7gu`

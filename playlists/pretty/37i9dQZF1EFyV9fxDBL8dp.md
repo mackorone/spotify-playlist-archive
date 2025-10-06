@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 25 | [Dúvidas](https://open.spotify.com/track/4DTaIg8SsZ40HyNR9tzIj4) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 5:07 |
 | 26 | [1655 \- Zumbi](https://open.spotify.com/track/5MsOxXSGCq3x9G031ZAsnT) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 4:16 |
 | 27 | [Há Babilônia](https://open.spotify.com/track/6EDx91ASTLq4b5WBl8b52N) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 4:08 |
-| 28 | [A Nuvem Passará](https://open.spotify.com/track/4DJFyJsqbJcE1Kxy5cClWP) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 3:22 |
-| 29 | [Avante](https://open.spotify.com/track/5rJ3s9LiQjY7qQCrUSWlZ9) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 3:30 |
+| 28 | [Avante](https://open.spotify.com/track/5rJ3s9LiQjY7qQCrUSWlZ9) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 3:30 |
+| 29 | [A Nuvem Passará](https://open.spotify.com/track/4DJFyJsqbJcE1Kxy5cClWP) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 3:22 |
 | 30 | [Homens de Rapina](https://open.spotify.com/track/0qiDadSGKarBklcLv6rWl2) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:39 |
 | 31 | [Sadrak, Mesak e Abed\-Nego](https://open.spotify.com/track/4uNXFMfnDWWU5MWjObeCKj) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 4:20 |
 | 32 | [Quilombagem](https://open.spotify.com/track/6F75rxfue833JfwpokjVkz) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 3:40 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 58 | [Vítima](https://open.spotify.com/track/7jMUhDGu6D02gtw5WgLfrz) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 4:03 |
 | 59 | [Rasta Commander](https://open.spotify.com/track/5a6pFkwgYuw7SgJ2QanIJG) | [Luiz de Assis](https://open.spotify.com/artist/6GsSCLHySnPTdaS82mgMir), [Cedric Myton](https://open.spotify.com/artist/0WYnbwHtJwlgq4kZ8wv5Y3), [Átila Santana](https://open.spotify.com/artist/3xZplycz3ZHKYoIUM9wwnS) | [Rasta Commander](https://open.spotify.com/album/3aGP9FKhuvuqnbkUuFISnC) | 4:20 |
 
-Snapshot ID: `Ab9/nAAAAAAfzXP3FVV1VKSK+BADKDeD`
+Snapshot ID: `Ab+FMgAAAABhXrLAicl82EvQRIKzDLtE`

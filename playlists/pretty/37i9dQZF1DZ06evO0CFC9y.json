@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 37562,
+  "num_followers": 37575,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAABk46wiLKwyCEvn9gxshSJM",
+  "snapshot_id": "aOBjgAAAAAAN2uYtyNOqeJQkboO4bj7O",
   "tracks": [
     {
       "added_at": null,
@@ -139,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Silver Bleeds the Black Sun...",
+        "url": "https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 148580,
+      "name": "VOIDWARD, I BEND BACK",
+      "url": "https://open.spotify.com/track/1X3cCp55Pui90xhNa8X6zL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AFI",
         "url": "https://open.spotify.com/album/1eK4nhdVZTpIzibRw7qWiw"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 164360,
       "name": "Totalimmortal",
       "url": "https://open.spotify.com/track/3pbQW2s8n2KysT7SBIvRdc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Behind the Clock",
-        "url": "https://open.spotify.com/album/0XfWqCd9PH408MsPtDvAED"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 237465,
-      "name": "Behind the Clock",
-      "url": "https://open.spotify.com/track/7x3ir1NFIt7z5Sy1rJTHLJ"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Art Of Drowning",
-        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 162573,
-      "name": "The Lost Souls",
-      "url": "https://open.spotify.com/track/2yQkmsZyxw99iNzgbbkuOn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Silver Bleeds the Black Sun...",
         "url": "https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5"
       },
@@ -235,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DECEMBERUNDERGROUND",
-        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
+        "name": "The Art Of Drowning",
+        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
       },
       "artists": [
         {
@@ -244,9 +228,25 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 186973,
-      "name": "Summer Shudder",
-      "url": "https://open.spotify.com/track/55BYnMUhDNtRo4HLvay6hk"
+      "duration_ms": 162573,
+      "name": "The Lost Souls",
+      "url": "https://open.spotify.com/track/2yQkmsZyxw99iNzgbbkuOn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Behind the Clock",
+        "url": "https://open.spotify.com/album/0XfWqCd9PH408MsPtDvAED"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 237465,
+      "name": "Behind the Clock",
+      "url": "https://open.spotify.com/track/7x3ir1NFIt7z5Sy1rJTHLJ"
     },
     {
       "added_at": null,
@@ -263,86 +263,6 @@
       "duration_ms": 250360,
       "name": "This Celluloid Dream",
       "url": "https://open.spotify.com/track/46Y9yh2KxmtodypW4bCp6v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shut Your Mouth And Open Your Eyes",
-        "url": "https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "A Single Second",
-      "url": "https://open.spotify.com/track/3kAxXpkSl233HRCa5V8OGr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Silver Bleeds the Black Sun...",
-        "url": "https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 148580,
-      "name": "VOIDWARD, I BEND BACK",
-      "url": "https://open.spotify.com/track/1X3cCp55Pui90xhNa8X6zL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crash Love (Deluxe)",
-        "url": "https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 260760,
-      "name": "Medicate",
-      "url": "https://open.spotify.com/track/42vwak6ZIFMscDhRB3S52z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sing The Sorrow",
-        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "Dancing Through Sunday",
-      "url": "https://open.spotify.com/track/4O5GKVbnQ8U9BxYWu0hIug"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Art Of Drowning",
-        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 118866,
-      "name": "Sacrifice Theory",
-      "url": "https://open.spotify.com/track/5fMmhitM2K9CDxiZGPzzbP"
     },
     {
       "added_at": null,
@@ -372,9 +292,89 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 243920,
-      "name": "The Killing Lights",
-      "url": "https://open.spotify.com/track/5ThgOYuTH92cHr32utoGyN"
+      "duration_ms": 186973,
+      "name": "Summer Shudder",
+      "url": "https://open.spotify.com/track/55BYnMUhDNtRo4HLvay6hk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shut Your Mouth And Open Your Eyes",
+        "url": "https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "A Single Second",
+      "url": "https://open.spotify.com/track/3kAxXpkSl233HRCa5V8OGr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sing The Sorrow",
+        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "Dancing Through Sunday",
+      "url": "https://open.spotify.com/track/4O5GKVbnQ8U9BxYWu0hIug"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Silver Bleeds the Black Sun...",
+        "url": "https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 251026,
+      "name": "Spear of Truth",
+      "url": "https://open.spotify.com/track/4VUs7nas3jOAj5qXfTQNt2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crash Love (Deluxe)",
+        "url": "https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 260760,
+      "name": "Medicate",
+      "url": "https://open.spotify.com/track/42vwak6ZIFMscDhRB3S52z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Art Of Drowning",
+        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 118866,
+      "name": "Sacrifice Theory",
+      "url": "https://open.spotify.com/track/5fMmhitM2K9CDxiZGPzzbP"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crash Love",
-        "url": "https://open.spotify.com/album/0Y84KHrmhbX9IlDI64dC6I"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 226026,
-      "name": "Beautiful Thieves",
-      "url": "https://open.spotify.com/track/1HZsS7bmZvn3TzCyI0Vs2C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Silver Bleeds the Black Sun...",
         "url": "https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5"
       },
@@ -427,6 +411,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "DECEMBERUNDERGROUND",
+        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 243920,
+      "name": "The Killing Lights",
+      "url": "https://open.spotify.com/track/5ThgOYuTH92cHr32utoGyN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crash Love",
+        "url": "https://open.spotify.com/album/0Y84KHrmhbX9IlDI64dC6I"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 226026,
+      "name": "Beautiful Thieves",
+      "url": "https://open.spotify.com/track/1HZsS7bmZvn3TzCyI0Vs2C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Art Of Drowning",
         "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
       },
@@ -439,6 +455,22 @@
       "duration_ms": 186933,
       "name": "Ever And A Day",
       "url": "https://open.spotify.com/track/1jrXJefkU4DQdM2XOJDENu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Silver Bleeds the Black Sun...",
+        "url": "https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 241213,
+      "name": "A World Unmade",
+      "url": "https://open.spotify.com/track/7kjkmJW2O9FYmVUs2U9142"
     },
     {
       "added_at": null,
@@ -475,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silver Bleeds the Black Sun...",
-        "url": "https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5"
+        "name": "Crash Love",
+        "url": "https://open.spotify.com/album/0Y84KHrmhbX9IlDI64dC6I"
       },
       "artists": [
         {
@@ -484,9 +516,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 251026,
-      "name": "Spear of Truth",
-      "url": "https://open.spotify.com/track/4VUs7nas3jOAj5qXfTQNt2"
+      "duration_ms": 226173,
+      "name": "End Transmission",
+      "url": "https://open.spotify.com/track/3x5SiKbgSLUTnWCAZIXc50"
     },
     {
       "added_at": null,
@@ -539,70 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silver Bleeds the Black Sun...",
-        "url": "https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 241213,
-      "name": "A World Unmade",
-      "url": "https://open.spotify.com/track/7kjkmJW2O9FYmVUs2U9142"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crash Love",
-        "url": "https://open.spotify.com/album/0Y84KHrmhbX9IlDI64dC6I"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "End Transmission",
-      "url": "https://open.spotify.com/track/3x5SiKbgSLUTnWCAZIXc50"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Sails In The Sunset",
-        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 241720,
-      "name": "Malleus Maleficarum",
-      "url": "https://open.spotify.com/track/259UpfomIaTr9PdBvR6R1c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Art Of Drowning",
-        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 155333,
-      "name": "The Nephilim",
-      "url": "https://open.spotify.com/track/6AbO0VF7dLnvQFJ8AbM5Vm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Hallows EP",
         "url": "https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6"
       },
@@ -644,9 +612,25 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 182693,
-      "name": "The Last Kiss",
-      "url": "https://open.spotify.com/track/6oDscaJdXFtRKk1G7cCcjf"
+      "duration_ms": 241720,
+      "name": "Malleus Maleficarum",
+      "url": "https://open.spotify.com/track/259UpfomIaTr9PdBvR6R1c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Art Of Drowning",
+        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 155333,
+      "name": "The Nephilim",
+      "url": "https://open.spotify.com/track/6AbO0VF7dLnvQFJ8AbM5Vm"
     },
     {
       "added_at": null,
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Sails In The Sunset",
+        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 182693,
+      "name": "The Last Kiss",
+      "url": "https://open.spotify.com/track/6oDscaJdXFtRKk1G7cCcjf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Answer That And Stay Fashionable",
         "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
       },
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Sails In The Sunset",
-        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 168573,
-      "name": "Exsanguination",
-      "url": "https://open.spotify.com/track/6OdabvInaZXWONggJSLncn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AFI (The Blood Album)",
         "url": "https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl"
       },
@@ -727,22 +711,6 @@
       "duration_ms": 200920,
       "name": "Snow Cats",
       "url": "https://open.spotify.com/track/6HwJvwkooQjunshBL6hPK5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Very Proud of Ya",
-        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 108773,
-      "name": "File 13",
-      "url": "https://open.spotify.com/track/6Oy5crRGUAPCya3orxspx7"
     },
     {
       "added_at": null,
@@ -772,9 +740,25 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 149906,
-      "name": "Narrative Of Soul Against Soul",
-      "url": "https://open.spotify.com/track/69zFVq4NkAhjiYGdznM23B"
+      "duration_ms": 168573,
+      "name": "Exsanguination",
+      "url": "https://open.spotify.com/track/6OdabvInaZXWONggJSLncn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Very Proud of Ya",
+        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 108773,
+      "name": "File 13",
+      "url": "https://open.spotify.com/track/6Oy5crRGUAPCya3orxspx7"
     },
     {
       "added_at": null,
@@ -795,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shut Your Mouth And Open Your Eyes",
-        "url": "https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB"
+        "name": "Burials",
+        "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
       },
       "artists": [
         {
@@ -804,9 +788,25 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 169293,
-      "name": "Third Season",
-      "url": "https://open.spotify.com/track/5fpGz5nKCVDG97CyWSiXoF"
+      "duration_ms": 241560,
+      "name": "A Deep Slow Panic",
+      "url": "https://open.spotify.com/track/4ihV0ic9h89fhCLdEkH1aE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Sails In The Sunset",
+        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 149906,
+      "name": "Narrative Of Soul Against Soul",
+      "url": "https://open.spotify.com/track/69zFVq4NkAhjiYGdznM23B"
     }
   ],
   "unique_name": "This Is AFI",

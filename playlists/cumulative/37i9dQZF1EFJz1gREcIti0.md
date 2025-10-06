@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3LRQHA0f13JHI5UZH2JLsz">Spencer Stewart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-144 songs - 7 hr 31 min
+146 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,10 +32,12 @@
 | [Change My Mind](https://open.spotify.com/track/1ClklkdqMsWNvC0YdjNb1X) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Moongate](https://open.spotify.com/album/0teV5HNso0WGi7EwyASosR) | 2:54 | 2025-08-02 |  |
 | [Charge It \(with Masego, Jozzy & Bayka\)](https://open.spotify.com/track/2yg0AEBcHGfMIPVaA5W7o8) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY), [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [Charge It \(with Masego, Jozzy & Bayka\)](https://open.spotify.com/album/2UsEip5hKV0iVICEfTXPVB) | 2:47 | 2025-08-02 |  |
 | [Cheat \(feat\. JoJo\)](https://open.spotify.com/track/2APWeDZZLBBwAmVVECtgMr) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [IRL \(Deluxe\)](https://open.spotify.com/album/76G7P45A56sBfsNXj2yZyD) | 3:22 | 2025-08-02 |  |
+| [Cherry On Top](https://open.spotify.com/track/6SXNnuYAZADpmSsmDfcGYr) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely: P.S.](https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux) | 3:06 | 2025-10-05 |  |
 | [Clean Air](https://open.spotify.com/track/5uKnUmI97PCAT5GvX7vkWZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 2:35 | 2025-08-24 |  |
 | [Clockwork](https://open.spotify.com/track/3QPLboX38WnMhQDWSDuqcY) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 2:30 | 2025-08-24 |  |
 | [Coconut Oil](https://open.spotify.com/track/54C1z2GOnf08ZCykqMBiYc) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis\. He Wasn't the One](https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1) | 2:01 | 2025-08-02 |  |
-| [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd) | 2:51 | 2025-09-20 |  |
+| [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/2qMymtxoafC1JRtiiXUVFN) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Sincerely: P.S.](https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux) | 2:51 | 2025-10-05 |  |
+| [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd) | 2:51 | 2025-09-20 | 2025-10-06 |
 | [Days](https://open.spotify.com/track/1ObS8I1dTlxdYM59TsZAmi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 4:03 | 2025-08-02 |  |
 | [Days Before Grace](https://open.spotify.com/track/7CoV4xgwStKcl4qZSHgqGG) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [GRACE](https://open.spotify.com/album/7iT2FObD258Tu1W2YUHZg5) | 4:22 | 2025-08-02 |  |
 | [Dear Soulmate](https://open.spotify.com/track/2OcTokSU4FnEaIMpNSAh9F) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 4:20 | 2025-08-02 |  |

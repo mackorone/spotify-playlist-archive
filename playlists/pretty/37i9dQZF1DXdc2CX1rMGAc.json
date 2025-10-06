@@ -1,6 +1,6 @@
 {
   "description": "Latin tunes to get your beast mode on!",
-  "num_followers": 252940,
+  "num_followers": 253003,
   "original_name": "Beast Mode Latin",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-09-26 08:40:01",
       "album": {
+        "name": "BlessDeluxury",
+        "url": "https://open.spotify.com/album/0MkMu019XCFwwuL1ftHKmQ"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 183535,
+      "name": "YOGURCITO",
+      "url": "https://open.spotify.com/track/6rZno3nqeT7hv2PnSWRuYS"
+    },
+    {
+      "added_at": "2025-09-26 08:40:01",
+      "album": {
         "name": "WYA REMIX RED",
         "url": "https://open.spotify.com/album/4KparoC39Qn5NatBrMA7nN"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 321741,
       "name": "WYA REMIX RED",
       "url": "https://open.spotify.com/track/4YnmQG1fnJR9LnTZtix70T"
-    },
-    {
-      "added_at": "2025-09-26 08:40:01",
-      "album": {
-        "name": "BlessDeluxury",
-        "url": "https://open.spotify.com/album/0MkMu019XCFwwuL1ftHKmQ"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 183535,
-      "name": "YOGURCITO",
-      "url": "https://open.spotify.com/track/6rZno3nqeT7hv2PnSWRuYS"
     },
     {
       "added_at": "2025-09-26 08:40:01",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2025-09-26 08:40:01",
       "album": {
+        "name": "Porque La Demora",
+        "url": "https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 200239,
+      "name": "Como Es",
+      "url": "https://open.spotify.com/track/2JlGo3jir6d0JLeYDvyPgh"
+    },
+    {
+      "added_at": "2025-09-26 08:40:01",
+      "album": {
         "name": "LOS FLAVORZ",
         "url": "https://open.spotify.com/album/22BVJ7Phbagnr8hhECDzqk"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 229708,
       "name": "Toa (with De La Rose)",
       "url": "https://open.spotify.com/track/1gaBfa1HWh1HVmuUAdBpzs"
-    },
-    {
-      "added_at": "2025-09-26 08:40:01",
-      "album": {
-        "name": "Porque La Demora",
-        "url": "https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 200239,
-      "name": "Como Es",
-      "url": "https://open.spotify.com/track/2JlGo3jir6d0JLeYDvyPgh"
     },
     {
       "added_at": "2025-09-26 08:40:01",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2025-09-26 08:40:01",
       "album": {
-        "name": "AMISTA",
-        "url": "https://open.spotify.com/album/12kivfRERofKpsDpcinrmE"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 177882,
-      "name": "AMISTA",
-      "url": "https://open.spotify.com/track/1TzQqJ4hme55ZKnM86Xyw0"
-    },
-    {
-      "added_at": "2025-09-26 08:40:01",
-      "album": {
         "name": "NUBES",
         "url": "https://open.spotify.com/album/3wUVB1OW5zxtW9G7UmfHzJ"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 178224,
       "name": "NUBES",
       "url": "https://open.spotify.com/track/7bugn9Xif6VHCLco3PIZc5"
+    },
+    {
+      "added_at": "2025-09-26 08:40:01",
+      "album": {
+        "name": "AMISTA",
+        "url": "https://open.spotify.com/album/12kivfRERofKpsDpcinrmE"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 177882,
+      "name": "AMISTA",
+      "url": "https://open.spotify.com/track/1TzQqJ4hme55ZKnM86Xyw0"
     },
     {
       "added_at": "2025-09-26 08:40:01",
@@ -1423,22 +1423,22 @@
     {
       "added_at": "2025-09-26 08:40:01",
       "album": {
-        "name": "Back2Back",
-        "url": "https://open.spotify.com/album/3td6WtAEmsQXsE2juKCIgv"
+        "name": "Rayo",
+        "url": "https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo"
       },
       "artists": [
         {
-          "name": "J Abdiel",
-          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "DFZM",
-          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Back2Back",
-      "url": "https://open.spotify.com/track/0HApCqaKwmBLA74FBdfH60"
+      "duration_ms": 176720,
+      "name": "Doblexx\u00f3",
+      "url": "https://open.spotify.com/track/2llFXBrftm6YJzBj3tpk0s"
     },
     {
       "added_at": "2025-09-26 08:40:01",
@@ -1467,22 +1467,22 @@
     {
       "added_at": "2025-09-26 08:40:01",
       "album": {
-        "name": "Rayo",
-        "url": "https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo"
+        "name": "Back2Back",
+        "url": "https://open.spotify.com/album/3td6WtAEmsQXsE2juKCIgv"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "J Abdiel",
+          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
         },
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
         }
       ],
-      "duration_ms": 176720,
-      "name": "Doblexx\u00f3",
-      "url": "https://open.spotify.com/track/2llFXBrftm6YJzBj3tpk0s"
+      "duration_ms": 173333,
+      "name": "Back2Back",
+      "url": "https://open.spotify.com/track/0HApCqaKwmBLA74FBdfH60"
     },
     {
       "added_at": "2025-09-26 08:40:01",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2025-09-26 08:40:01",
       "album": {
+        "name": "OH WOW",
+        "url": "https://open.spotify.com/album/3bxnH77ofJYkCpBq97YVAg"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "OH WOW",
+      "url": "https://open.spotify.com/track/2CVQ3jo9g4SfLv1jXburFL"
+    },
+    {
+      "added_at": "2025-09-26 08:40:01",
+      "album": {
         "name": "Natural (Remix)",
         "url": "https://open.spotify.com/album/3uqqbHxbIjfw6olSmogD65"
       },
@@ -1999,22 +2015,6 @@
       "duration_ms": 283200,
       "name": "Natural - Remix",
       "url": "https://open.spotify.com/track/5kYYpK0UaX925YBm6wKjV1"
-    },
-    {
-      "added_at": "2025-09-26 08:40:01",
-      "album": {
-        "name": "OH WOW",
-        "url": "https://open.spotify.com/album/3bxnH77ofJYkCpBq97YVAg"
-      },
-      "artists": [
-        {
-          "name": "Clarent",
-          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "OH WOW",
-      "url": "https://open.spotify.com/track/2CVQ3jo9g4SfLv1jXburFL"
     },
     {
       "added_at": "2025-09-26 08:40:01",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2025-09-26 08:40:01",
       "album": {
-        "name": "4AM EN IBIZA",
-        "url": "https://open.spotify.com/album/6lYMuShTlxnmA4MGrihGIi"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "4AM EN IBIZA",
-      "url": "https://open.spotify.com/track/3kpv89wsesBcSc6P7LpcDg"
-    },
-    {
-      "added_at": "2025-09-26 08:40:01",
-      "album": {
         "name": "KTM",
         "url": "https://open.spotify.com/album/1NXAld0zegArVKl00nTSpv"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 177447,
       "name": "KTM",
       "url": "https://open.spotify.com/track/3XXofal1zx616qGCutchgq"
+    },
+    {
+      "added_at": "2025-09-26 08:40:01",
+      "album": {
+        "name": "4AM EN IBIZA",
+        "url": "https://open.spotify.com/album/6lYMuShTlxnmA4MGrihGIi"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "4AM EN IBIZA",
+      "url": "https://open.spotify.com/track/3kpv89wsesBcSc6P7LpcDg"
     },
     {
       "added_at": "2025-09-26 08:40:01",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2025-09-26 08:40:01",
       "album": {
-        "name": "All Eyes On Me",
-        "url": "https://open.spotify.com/album/4Gzj1NVk6KksUf56sJiIF3"
-      },
-      "artists": [
-        {
-          "name": "Cano",
-          "url": "https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS"
-        }
-      ],
-      "duration_ms": 161311,
-      "name": "All Eyes On Me",
-      "url": "https://open.spotify.com/track/3FKwkGb7Cd96TiXgv69dNc"
-    },
-    {
-      "added_at": "2025-09-26 08:40:01",
-      "album": {
         "name": "H.I.M.",
         "url": "https://open.spotify.com/album/6ZQICkkwdOzHuS8OHYIGxF"
       },
@@ -2219,6 +2203,22 @@
       "duration_ms": 130459,
       "name": "H.I.M.",
       "url": "https://open.spotify.com/track/1raPPxkstNnTmg6EmFCX0j"
+    },
+    {
+      "added_at": "2025-09-26 08:40:01",
+      "album": {
+        "name": "All Eyes On Me",
+        "url": "https://open.spotify.com/album/4Gzj1NVk6KksUf56sJiIF3"
+      },
+      "artists": [
+        {
+          "name": "Cano",
+          "url": "https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS"
+        }
+      ],
+      "duration_ms": 161311,
+      "name": "All Eyes On Me",
+      "url": "https://open.spotify.com/track/3FKwkGb7Cd96TiXgv69dNc"
     },
     {
       "added_at": "2025-09-26 08:40:01",
@@ -2239,22 +2239,6 @@
       "duration_ms": 176774,
       "name": "Contacto",
       "url": "https://open.spotify.com/track/7omr30ct5eLmTVhYwLtuM8"
-    },
-    {
-      "added_at": "2025-09-26 08:40:01",
-      "album": {
-        "name": "Un Dia en Mi Barrio",
-        "url": "https://open.spotify.com/album/0LCkVTaIfTXqJW4JSEUqKT"
-      },
-      "artists": [
-        {
-          "name": "Tony Monta",
-          "url": "https://open.spotify.com/artist/1WF0qzllFgT2xJlk0Nrwqo"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Un Dia en Mi Barrio",
-      "url": "https://open.spotify.com/track/3G5E96MgweWL5SvL3GAwZ9"
     },
     {
       "added_at": "2025-09-26 08:40:01",
@@ -2287,6 +2271,22 @@
       "duration_ms": 134876,
       "name": "Doy",
       "url": "https://open.spotify.com/track/3BWXQED8aRj3yiaivu04ed"
+    },
+    {
+      "added_at": "2025-09-26 08:40:01",
+      "album": {
+        "name": "Un Dia en Mi Barrio",
+        "url": "https://open.spotify.com/album/0LCkVTaIfTXqJW4JSEUqKT"
+      },
+      "artists": [
+        {
+          "name": "Tony Monta",
+          "url": "https://open.spotify.com/artist/1WF0qzllFgT2xJlk0Nrwqo"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Un Dia en Mi Barrio",
+      "url": "https://open.spotify.com/track/3G5E96MgweWL5SvL3GAwZ9"
     },
     {
       "added_at": "2025-09-26 08:40:01",

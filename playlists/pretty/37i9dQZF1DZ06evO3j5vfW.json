@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 72324,
+  "num_followers": 72323,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAAD/CL0/OMMrv3euINpQm7Ja",
+  "snapshot_id": "aOBjgAAAAABaZSlHAy676hQDCWp7BD6H",
   "tracks": [
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nights With You",
+        "url": "https://open.spotify.com/album/1z2gtZ1VigtVV6UVNqQAuq"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 149200,
+      "name": "Nights With You",
+      "url": "https://open.spotify.com/track/1Gx6oQEiS4h5e7ltUDN1jc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'll Follow You",
         "url": "https://open.spotify.com/album/6n8A62fT6vLTMrwuVDQAIp"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 219374,
       "name": "I'll Follow You",
       "url": "https://open.spotify.com/track/3Ijf2SBZguZPkom811NZTd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nights With You",
-        "url": "https://open.spotify.com/album/1z2gtZ1VigtVV6UVNqQAuq"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 149200,
-      "name": "Nights With You",
-      "url": "https://open.spotify.com/track/1Gx6oQEiS4h5e7ltUDN1jc"
     },
     {
       "added_at": null,
@@ -659,30 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love You for the Summer",
-        "url": "https://open.spotify.com/album/1Y0KcLD3LWkZYyvj2eTERW"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 172727,
-      "name": "Love You for the Summer",
-      "url": "https://open.spotify.com/track/6DYi7HljZ64OF6beOCgSMx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waiting For Me",
         "url": "https://open.spotify.com/album/7AmzbrQgJx0ziEaObGoyR5"
       },
@@ -703,6 +679,30 @@
       "duration_ms": 138102,
       "name": "Waiting For Me",
       "url": "https://open.spotify.com/track/69FsZtKV3syfUMApe92Spf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love You for the Summer",
+        "url": "https://open.spotify.com/album/1Y0KcLD3LWkZYyvj2eTERW"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 172727,
+      "name": "Love You for the Summer",
+      "url": "https://open.spotify.com/track/6DYi7HljZ64OF6beOCgSMx"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Summer Nights",
-        "url": "https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        }
-      ],
-      "duration_ms": 158671,
-      "name": "Hot Summer Nights",
-      "url": "https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rave Music",
         "url": "https://open.spotify.com/album/6bK6HqxQH4MLBdBScC3YRl"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 180461,
       "name": "Rave Music",
       "url": "https://open.spotify.com/track/6WkwgLD8a7Dr8nnPRVe9BK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hot Summer Nights",
+        "url": "https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "duration_ms": 158671,
+      "name": "Hot Summer Nights",
+      "url": "https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc"
     },
     {
       "added_at": null,
@@ -951,30 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love You Forever",
-        "url": "https://open.spotify.com/album/6HiujSCdsYuCXdd759w2kr"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Stadiumx",
-          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
-        },
-        {
-          "name": "Sam Martin",
-          "url": "https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK"
-        }
-      ],
-      "duration_ms": 234609,
-      "name": "Love You Forever",
-      "url": "https://open.spotify.com/track/2gqzTQEn4g5ly0n5ScdMx0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stay A Little Longer",
         "url": "https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav"
       },
@@ -995,6 +971,30 @@
       "duration_ms": 211406,
       "name": "Stay A Little Longer",
       "url": "https://open.spotify.com/track/3r9RtXj216zntRikvgQdkK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love You Forever",
+        "url": "https://open.spotify.com/album/6HiujSCdsYuCXdd759w2kr"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Stadiumx",
+          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
+        },
+        {
+          "name": "Sam Martin",
+          "url": "https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK"
+        }
+      ],
+      "duration_ms": 234609,
+      "name": "Love You Forever",
+      "url": "https://open.spotify.com/track/2gqzTQEn4g5ly0n5ScdMx0"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is Kane Brown\. The essential tracks, all in one playlist.
 
-107 songs - 5 hr 46 min
+108 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Whiskey Sour](https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Whiskey Sour](https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH) | 3:29 | 2022-09-08 | 2025-10-05 |
 | [Wide Open](https://open.spotify.com/track/0t5zXzcJjRZMpBPAqkbjdW) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Chapter 1 \- EP](https://open.spotify.com/album/5Ts9XJ1G4UWKW2vgPTbyt0) | 3:05 | 2022-09-08 | 2024-03-16 |
 | [Worldwide Beautiful](https://open.spotify.com/track/431M98gFekRc9HdNfgWc7N) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Worldwide Beautiful](https://open.spotify.com/album/30mVH408jo6oYaMduiwX66) | 3:28 | 2022-09-08 | 2024-12-22 |
-| [Worship You](https://open.spotify.com/track/4RN6OApAESI3Sh0gf5iuAM) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Mixtape Vol\. 1 \- EP](https://open.spotify.com/album/014fzAwHbsvUolo3ap8P38) | 3:25 | 2022-09-08 |  |
+| [Worship You](https://open.spotify.com/track/0nUGOvjXk6Vc9ecQanZXUQ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Worship You](https://open.spotify.com/album/2PMjEMiY2OBlbaLgGFSfLt) | 3:25 | 2025-10-06 |  |
+| [Worship You](https://open.spotify.com/track/4RN6OApAESI3Sh0gf5iuAM) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Mixtape Vol\. 1 \- EP](https://open.spotify.com/album/014fzAwHbsvUolo3ap8P38) | 3:25 | 2022-09-08 | 2025-10-06 |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

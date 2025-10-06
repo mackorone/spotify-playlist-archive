@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 
 > Catch the hottest Punjabi tracks\. Cover \- Navaan Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,402,916 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,403,482 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 | 25 | [STFU](https://open.spotify.com/track/1JioaCninhpfY1filFEIZi) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [OKAY STFU](https://open.spotify.com/album/3ga4cpxM6htVEMHBnzxqpF) | 2:54 |
 | 26 | [AZUL](https://open.spotify.com/track/1XwOA83wulFYtimOir6MUL) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Gurjit Gill](https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd), [Lavish Dhiman](https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc) | [AZUL](https://open.spotify.com/album/3NGgHtZBotxHUiKBUuwn39) | 2:18 |
 | 27 | [MVP](https://open.spotify.com/track/5BQePe9rcCJozHK3oPayYk) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [MVP](https://open.spotify.com/album/5oCCfkVCpkSUhBUXe0pyJF) | 3:16 |
-| 28 | [Bande 4](https://open.spotify.com/track/1eCJkMId2CBCWpukvmVHk2) | [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Bande 4](https://open.spotify.com/album/7MtkRxJx2PFFHSzjRLda38) | 3:04 |
+| 28 | [Bande 4](https://open.spotify.com/track/1eCJkMId2CBCWpukvmVHk2) | [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Bande 4](https://open.spotify.com/album/7MtkRxJx2PFFHSzjRLda38) | 3:04 |
 | 29 | [Young G.O.A.T](https://open.spotify.com/track/6xHPBEvcG0RQDfyTq7jc8P) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Young G.O.A.T](https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq) | 3:45 |
 | 30 | [Naina \(From "Crew"\)](https://open.spotify.com/track/1eZefeDb8uOsjvcbl1fJrG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Naina \(From "Crew"\)](https://open.spotify.com/album/4mGz0G0d2mqGmaFc67MEEm) | 3:00 |
 | 31 | [HIM.](https://open.spotify.com/track/2TQy6HAI99JYNw2cKGYAE8) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:11 |

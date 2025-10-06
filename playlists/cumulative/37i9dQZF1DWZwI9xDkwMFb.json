@@ -1161,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30de\u30c7\u30a6\u30b9",
+        "url": "https://open.spotify.com/album/6PclPhQAIkftll2q1vvRh4"
+      },
+      "artists": [
+        {
+          "name": "Galileo Galilei",
+          "url": "https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222374,
+      "name": "\u30a2\u30de\u30c7\u30a6\u30b9",
+      "url": "https://open.spotify.com/track/2nRuEkrPW1KL9CW3ylEk7X"
+    },
+    {
+      "album": {
         "name": "\u30d1\u30c3\u30d8\u30eb\u30d9\u30eb:\u30ab\u30ce\u30f3(\u7121\u4f34\u594f\u30f4\u30a1\u30a4\u30aa\u30ea\u30f3\u7248 / \u7de8:\u8429\u68ee\u82f1\u660e)",
         "url": "https://open.spotify.com/album/4V2hzUgmMOvcSppnJpl0pH"
       },
@@ -1250,6 +1268,24 @@
       "duration_ms": 171404,
       "name": "\u7121\u4f34\u594f\u30c1\u30a7\u30ed\u7d44\u66f2 \u7b2c1\u756a \u30c8\u9577\u8abf BWV 1007: \u7b2c1\u66f2: \u30d7\u30ec\u30ea\u30e5\u30fc\u30c9",
       "url": "https://open.spotify.com/track/4UbBCKxwhcjm5cxrXCpNrv"
+    },
+    {
+      "album": {
+        "name": "\u9752\u306e\u9b54\u6cd5",
+        "url": "https://open.spotify.com/album/10w3OQKWjYbcUzztkdw4oP"
+      },
+      "artists": [
+        {
+          "name": "ChoQMay",
+          "url": "https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226676,
+      "name": "\u9752\u306e\u9b54\u6cd5",
+      "url": "https://open.spotify.com/track/3j5DAn7RNoJj2Kl87FeOOZ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZwI9xDkwMFb"

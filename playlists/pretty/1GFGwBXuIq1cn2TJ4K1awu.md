@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Ten or eleven songs a week\. Updated every Sunday\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 24 likes - 11 songs - 44 min 56 sec
+[royva06](https://open.spotify.com/user/royva06) - 24 likes - 11 songs - 38 min 57 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Green Eyes](https://open.spotify.com/track/5iwTDcZSrVq71HjMjNno5c) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:18 |
-| 2 | [Dirty Hound](https://open.spotify.com/track/3kBaxSbf7FdlzVazwqrPC8) | [Cicada Rhythm](https://open.spotify.com/artist/3Ks6VJR2RbM1Yhlux5xh76) | [Cicada Rhythm](https://open.spotify.com/album/09jfhpXHhCFkHTQTvMigM4) | 3:25 |
-| 3 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 |
-| 4 | [Serpentskirt](https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Milk & Kisses](https://open.spotify.com/album/2xWjRAaO5qYhsJSxmJp1IK) | 3:57 |
-| 5 | [Dark Child](https://open.spotify.com/track/7wGqKldCrQev6HEtUxilME) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Marlon Williams](https://open.spotify.com/album/6zyHtPo88NOvkXW749yGwU) | 5:23 |
-| 6 | [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 |
-| 7 | [In Circles \- Remastered](https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Diary \(Remastered and Expanded Edition\)](https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv) | 4:58 |
-| 8 | [Tried And True](https://open.spotify.com/track/4VtbQx2koGlw8Ple6O2IZH) | [Ween](https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu) | [Quebec](https://open.spotify.com/album/0GOWw5YVpOmIX6mUtjLi30) | 4:02 |
-| 9 | [Meddle with Metal](https://open.spotify.com/track/6Bau7xvbJLgmHW96Eyb7IF) | [CZARFACE](https://open.spotify.com/artist/4John8fJ3LKqFho0pselVr), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Czarface Meets Metal Face](https://open.spotify.com/album/2PPvDD3t985MvMphfSwzgr) | 3:26 |
-| 10 | [Cold Shoulder](https://open.spotify.com/track/462XC4yxrvWoc2yVpkx8uV) | [Yosemite in Black](https://open.spotify.com/artist/0zOVAB3GRqMiwtfu6Y5j59) | [The Pursuit Of](https://open.spotify.com/album/75HoaRTglwuPxMNQtszlvN) | 2:34 |
-| 11 | [Down For My Niggaz](https://open.spotify.com/track/6SSJcmQgBEvHqqCivyVfqG) | [C\-Murder](https://open.spotify.com/artist/4135eJjHCRw5SuVzLfzR0x), [Magic](https://open.spotify.com/artist/5RszwcBlHzry6slQ9LRcSw), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Trapped In Crime](https://open.spotify.com/album/7MDd3o71CPSVTi3F58gWVu) | 3:45 |
+| 1 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 |
+| 2 | [A Couple Things](https://open.spotify.com/track/7KxGqubTbHqghydpuWz1AH) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [A word becomes a sound](https://open.spotify.com/album/4nYi7GOE0yrDKt0qbNaWPO) | 2:40 |
+| 3 | [Pale Blue Eyes](https://open.spotify.com/track/11VwZwNF29HrqwalYUMitb) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [The Velvet Underground \(45th Anniversary\)](https://open.spotify.com/album/2HOf3Nb44Us8U9oEtKLSrX) | 5:39 |
+| 4 | [All Night](https://open.spotify.com/track/4l1f44Rl6f6pwuSZN7DjVR) | [Oh He Dead](https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6), [Khemist](https://open.spotify.com/artist/7peFTIvfAUXCfwStNjcE7q) | [Pretty](https://open.spotify.com/album/2mbRiwM3GFzekNyTiYgvur) | 3:15 |
+| 5 | [Falling in Love Again](https://open.spotify.com/track/2M0IWOmIi079R1MaPVlOW3) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Never Hungover Again](https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf) | 2:28 |
+| 6 | [Civilian Ways](https://open.spotify.com/track/1bbwuyXB1Ppr3SYVwYVNn0) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let The Dominoes Fall \(Expanded Version\)](https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93) | 4:11 |
+| 7 | [Mourir Demain](https://open.spotify.com/track/27OazPRfoFSZh1kfYujHhp) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Mourir Demain](https://open.spotify.com/album/2maYUGRhPI9z4D2gBsWgkw) | 3:27 |
+| 8 | [A New Wave](https://open.spotify.com/track/2audHw8H7pcDViQBXAufEZ) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [No Cities to Love](https://open.spotify.com/album/1l7gMbzE7RRAdYddJSfM5B) | 3:38 |
+| 9 | [Garden](https://open.spotify.com/track/3ZkURqO753fN0SgtzqMmIs) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [Sweep It Into Space](https://open.spotify.com/album/5nq7eeznlbbS4koADLXd5k) | 3:02 |
+| 10 | [He's so Shy](https://open.spotify.com/track/6R9NqD0WX9sJYs6PbA5onu) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Special Things \(Bonus Track Version\)](https://open.spotify.com/album/5AnJr2Axqy5aIhcvaVKGEB) | 3:38 |
+| 11 | [Black Girl Memoir](https://open.spotify.com/track/6TmMjGz6kN1gHq1TCzkL6Z) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 3:40 |
 
-Snapshot ID: `AAAHx1KdHt07EdIVQ/+JB/zQDBuxRkq3`
+Snapshot ID: `AAAH3Qgl9dMnmZWI/ubBwLy0rCCKRm6p`

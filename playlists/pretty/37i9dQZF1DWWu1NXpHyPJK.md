@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu1NXpHyPJK.md) - [plain]
 
 > Allerbeste songs van de 90's! Cover: No Doubt
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,561 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,574 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu1NXpHyPJK.md) - [plain]
 | 46 | [Cose della vita \(Can't Stop Thinking of You\) \(feat\. Tina Turner\)](https://open.spotify.com/track/63RAhyfI3l2612x8q53BOh) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Eros](https://open.spotify.com/album/5MDsDepmrXoKkYwY8ZyS3r) | 4:51 |
 | 47 | [High](https://open.spotify.com/track/7zB3ZhA5v33pA4rCdKKGqq) | [Lighthouse Family](https://open.spotify.com/artist/6edGSAX5dVpeJVwu1Q0NwJ) | [Postcards From Heaven](https://open.spotify.com/album/1Pl9C2X0IiwBUyRqAwpbV1) | 5:10 |
 | 48 | [Nobody's Wife](https://open.spotify.com/track/1Q0p30HuN1ADMX2CmPzIvO) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Together Alone](https://open.spotify.com/album/3zMAFbz27Bd7gtmPFAq46b) | 3:25 |
-| 49 | [Bailamos](https://open.spotify.com/track/2bbeNsFmjZqdoDhjLsKNWe) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique](https://open.spotify.com/album/183XphT974zDxwM5QxETET) | 3:34 |
-| 50 | [Harder Dan Ik Hebben Kan](https://open.spotify.com/track/1buASziRLNHXcTVYFWZ8EK) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Boven](https://open.spotify.com/album/198mMFxiYJihAoJzn7cRO6) | 4:13 |
+| 49 | [Harder Dan Ik Hebben Kan](https://open.spotify.com/track/1buASziRLNHXcTVYFWZ8EK) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Boven](https://open.spotify.com/album/198mMFxiYJihAoJzn7cRO6) | 4:13 |
+| 50 | [Bailamos](https://open.spotify.com/track/2bbeNsFmjZqdoDhjLsKNWe) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique](https://open.spotify.com/album/183XphT974zDxwM5QxETET) | 3:34 |
 | 51 | [Stil In Mij](https://open.spotify.com/track/3xOiF0xnt47PgOwprICudF) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Van Dik Hout](https://open.spotify.com/album/74dehe0e0Thai6kw4u0Jrc) | 4:04 |
 | 52 | [Fell In Love With An Alien](https://open.spotify.com/track/7ByhqIL2dqk4W0jPTkWc9A) | [The Kelly Family](https://open.spotify.com/artist/5KU4DdFlZy6aiI5u6nhywP) | [Almost Heaven](https://open.spotify.com/album/15g36gwo1i1sQOheZG7GHh) | 3:11 |
 | 53 | [Mysterious Girl \- Radio Edit](https://open.spotify.com/track/3GCpEbJzknVdpvx9WI03x3) | [Peter Andre](https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S) | [The Long Road Back](https://open.spotify.com/album/5SzHkxYKPIK4LcGaJrgnNU) | 3:37 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu1NXpHyPJK.md) - [plain]
 | 80 | [It's My Life](https://open.spotify.com/track/6HdM7gzXVgcpepv276raog) | [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [One Love \(2nd Edition\)](https://open.spotify.com/album/5YPI9qfm2uuMxlq4CEUOFu) | 3:59 |
 | 81 | [Wonderwall \(Remastered\)](https://open.spotify.com/track/5wj4E6IsrVtn8IBJQOd0Cl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/6ozp33PI3p9AdddB6ZL3xQ) | 4:18 |
 | 82 | [Losing My Religion](https://open.spotify.com/track/74EV0g12ihUoOUXMprFpZB) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(U.S\. Version\)](https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD) | 4:27 |
-| 83 | [Lemon Tree](https://open.spotify.com/track/4fXGWiVhlOLdhwRDP6pIFG) | [Fools Garden](https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG) | [Dish Of The Day](https://open.spotify.com/album/1l2SxZKUm1UH45qUqpLfYH) | 3:11 |
-| 84 | [Don't Speak](https://open.spotify.com/track/7H8zey5My6uNdD2TxeCb9F) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/22MtHr01EzeL6jmc5uwpHC) | 4:23 |
+| 83 | [Don't Speak](https://open.spotify.com/track/7H8zey5My6uNdD2TxeCb9F) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/22MtHr01EzeL6jmc5uwpHC) | 4:23 |
+| 84 | [Lemon Tree](https://open.spotify.com/track/4fXGWiVhlOLdhwRDP6pIFG) | [Fools Garden](https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG) | [Dish Of The Day](https://open.spotify.com/album/1l2SxZKUm1UH45qUqpLfYH) | 3:11 |
 | 85 | [Together Again](https://open.spotify.com/track/1GrikfH0jDejDvrxo84n4P) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ) | 5:01 |
 | 86 | [No Limit](https://open.spotify.com/track/7pSJmBTlbA4S5zSLsj6Pzz) | [2 Unlimited](https://open.spotify.com/artist/18JD8DVlD1fakDAw7E9LFC) | [Unlimited Hits & Remixes](https://open.spotify.com/album/31ZELjZPFpr5326F1uojYm) | 3:43 |
 | 87 | [Rainbow In The Sky \- Radio Edit](https://open.spotify.com/track/2MlqP1HzhitHfFXPXKumdB) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [May The Forze Be With You](https://open.spotify.com/album/5UyEXyjH5flnfcmotVS1kS) | 3:27 |

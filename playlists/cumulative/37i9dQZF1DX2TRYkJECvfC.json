@@ -1621,6 +1621,28 @@
     },
     {
       "album": {
+        "name": "Movement II",
+        "url": "https://open.spotify.com/album/53o2yMucNXQc8kOYdpF2mD"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        },
+        {
+          "name": "Eug\u00e9nie",
+          "url": "https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182012,
+      "name": "Call Me Up",
+      "url": "https://open.spotify.com/track/7xlPrYqBpWc1fjrfA3zP53"
+    },
+    {
+      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/2AATjcwyMv4RDwKvXZyBn4"
       },
@@ -3396,7 +3418,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 268309,
       "name": "Fields",
       "url": "https://open.spotify.com/track/5FZw8knmfy0feNKCXFEI1c"

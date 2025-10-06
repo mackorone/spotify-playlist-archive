@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 685733,
+  "num_followers": 685812,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAABBztQ1PTPcbUTN03pHmbim",
+  "snapshot_id": "aOBjgAAAAADz3XvfmrMsxRy6VaVaxrxV",
   "tracks": [
     {
       "added_at": null,
@@ -184,13 +184,13 @@
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         },
         {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 204351,
-      "name": "What's Goin On (feat. Lizzo)",
-      "url": "https://open.spotify.com/track/5RpGHqlGHRTGWzNPBKW08D"
+      "duration_ms": 160782,
+      "name": "Pick It Up (feat. Selena Gomez)",
+      "url": "https://open.spotify.com/track/6M1vkKMDQZoh1sbH4asNcF"
     },
     {
       "added_at": null,
@@ -262,15 +262,11 @@
         {
           "name": "Cardi B",
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 160782,
-      "name": "Pick It Up (feat. Selena Gomez)",
-      "url": "https://open.spotify.com/track/6M1vkKMDQZoh1sbH4asNcF"
+      "duration_ms": 155006,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/5MnPcgXz4RXqx09nIqvHKX"
     },
     {
       "added_at": null,
@@ -344,9 +340,9 @@
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 155006,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/5MnPcgXz4RXqx09nIqvHKX"
+      "duration_ms": 104062,
+      "name": "Bodega Baddie",
+      "url": "https://open.spotify.com/track/4JI9FH3KOYOushudtnZt0z"
     },
     {
       "added_at": null,
@@ -412,9 +408,9 @@
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 104062,
-      "name": "Bodega Baddie",
-      "url": "https://open.spotify.com/track/4JI9FH3KOYOushudtnZt0z"
+      "duration_ms": 178358,
+      "name": "Magnet",
+      "url": "https://open.spotify.com/track/7dHblXsJTRemgyIvFNJE7t"
     },
     {
       "added_at": null,
@@ -599,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Press",
-        "url": "https://open.spotify.com/album/4OYI54WJJQRkCG4FVmIuTZ"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 143791,
-      "name": "Press",
-      "url": "https://open.spotify.com/track/6dPyzkyZwoj9LqjQXOFdVv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wanna Be (Remix Alternate Versions)",
         "url": "https://open.spotify.com/album/2YhNUDVeFFJshlJDkppXY6"
       },
@@ -635,6 +615,22 @@
       "duration_ms": 224000,
       "name": "Wanna Be (with Megan Thee Stallion & Cardi B) - Remix",
       "url": "https://open.spotify.com/track/0LMNckdqhd2eQr5xV5NGRi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Press",
+        "url": "https://open.spotify.com/album/4OYI54WJJQRkCG4FVmIuTZ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 143791,
+      "name": "Press",
+      "url": "https://open.spotify.com/track/6dPyzkyZwoj9LqjQXOFdVv"
     },
     {
       "added_at": null,
@@ -735,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Like What (Freestyle)",
+        "url": "https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 136400,
+      "name": "Like What (Freestyle)",
+      "url": "https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rumors (feat. Cardi B)",
         "url": "https://open.spotify.com/album/7jMo8dhMIorHoLlzTisjJy"
       },
@@ -751,22 +763,6 @@
       "duration_ms": 172832,
       "name": "Rumors (feat. Cardi B)",
       "url": "https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Like What (Freestyle)",
-        "url": "https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 136400,
-      "name": "Like What (Freestyle)",
-      "url": "https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD"
     },
     {
       "added_at": null,

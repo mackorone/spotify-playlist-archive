@@ -1,6 +1,6 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 342119,
+  "num_followers": 342450,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2025-09-17 12:07:39",
       "album": {
+        "name": "Nightlife",
+        "url": "https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke"
+      },
+      "artists": [
+        {
+          "name": "Avenue Blue (Featuring Jeff Golub)",
+          "url": "https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9"
+        }
+      ],
+      "duration_ms": 299640,
+      "name": "Always There (feat. Jeff Golub)",
+      "url": "https://open.spotify.com/track/4o8cUnppGWSjA5gkZXi52N"
+    },
+    {
+      "added_at": "2025-09-17 12:07:39",
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/11cJrPEgWk8xpK8MqRegfd"
       },
@@ -315,18 +331,18 @@
     {
       "added_at": "2025-09-17 12:07:39",
       "album": {
-        "name": "Nightlife",
-        "url": "https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke"
+        "name": "Porch Java",
+        "url": "https://open.spotify.com/album/4sM3uDXvdN0qZ3KIrtVGGY"
       },
       "artists": [
         {
-          "name": "Avenue Blue (Featuring Jeff Golub)",
-          "url": "https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9"
+          "name": "Delorme & Co",
+          "url": "https://open.spotify.com/artist/3SHdVmPB4OnBpkkme0OP4W"
         }
       ],
-      "duration_ms": 299640,
-      "name": "Always There (feat. Jeff Golub)",
-      "url": "https://open.spotify.com/track/4o8cUnppGWSjA5gkZXi52N"
+      "duration_ms": 215435,
+      "name": "Porch Java",
+      "url": "https://open.spotify.com/track/11m6UgxZF4ZfDQ50eN9bYs"
     },
     {
       "added_at": "2025-09-17 12:07:39",
@@ -363,18 +379,18 @@
     {
       "added_at": "2025-09-17 12:07:39",
       "album": {
-        "name": "Porch Java",
-        "url": "https://open.spotify.com/album/4sM3uDXvdN0qZ3KIrtVGGY"
+        "name": "Fuzzy Logic",
+        "url": "https://open.spotify.com/album/49ZeUMBQWLHtOvp1G0Os7m"
       },
       "artists": [
         {
-          "name": "Delorme & Co",
-          "url": "https://open.spotify.com/artist/3SHdVmPB4OnBpkkme0OP4W"
+          "name": "David Benoit",
+          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
         }
       ],
-      "duration_ms": 215435,
-      "name": "Porch Java",
-      "url": "https://open.spotify.com/track/11m6UgxZF4ZfDQ50eN9bYs"
+      "duration_ms": 291520,
+      "name": "You Read My Mind",
+      "url": "https://open.spotify.com/track/7clQlmRcKRDWXWu9vmYexQ"
     },
     {
       "added_at": "2025-09-17 12:07:39",
@@ -395,22 +411,6 @@
       "duration_ms": 251013,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/1mYIkTdWul7A4NYS3cKR2g"
-    },
-    {
-      "added_at": "2025-09-17 12:07:39",
-      "album": {
-        "name": "Fuzzy Logic",
-        "url": "https://open.spotify.com/album/49ZeUMBQWLHtOvp1G0Os7m"
-      },
-      "artists": [
-        {
-          "name": "David Benoit",
-          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
-        }
-      ],
-      "duration_ms": 291520,
-      "name": "You Read My Mind",
-      "url": "https://open.spotify.com/track/7clQlmRcKRDWXWu9vmYexQ"
     },
     {
       "added_at": "2025-09-17 12:07:39",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-09-17 12:07:39",
       "album": {
-        "name": "Last Look",
-        "url": "https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx"
-      },
-      "artists": [
-        {
-          "name": "Torcuato Mariano",
-          "url": "https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR"
-        }
-      ],
-      "duration_ms": 303106,
-      "name": "Ocean Way",
-      "url": "https://open.spotify.com/track/670qTzPNB0Ikn0lBTilHbx"
-    },
-    {
-      "added_at": "2025-09-17 12:07:39",
-      "album": {
         "name": "Born 2 Groove",
         "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 301240,
       "name": "Mr. Groove",
       "url": "https://open.spotify.com/track/16hiBwYiCd0crSiBtCXsMN"
+    },
+    {
+      "added_at": "2025-09-17 12:07:39",
+      "album": {
+        "name": "Last Look",
+        "url": "https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx"
+      },
+      "artists": [
+        {
+          "name": "Torcuato Mariano",
+          "url": "https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR"
+        }
+      ],
+      "duration_ms": 303106,
+      "name": "Ocean Way",
+      "url": "https://open.spotify.com/track/670qTzPNB0Ikn0lBTilHbx"
     },
     {
       "added_at": "2025-09-17 12:07:39",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-09-17 12:07:39",
       "album": {
-        "name": "Can't Stop Now",
-        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Read Between the Lines",
-      "url": "https://open.spotify.com/track/2RtFmibwUwhyL9n48yuYfY"
-    },
-    {
-      "added_at": "2025-09-17 12:07:39",
-      "album": {
         "name": "Find Someone Like You",
         "url": "https://open.spotify.com/album/63okbbo4mM33XJt2DmYRgS"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 249230,
       "name": "Find Someone Like You",
       "url": "https://open.spotify.com/track/0Y2ILiQA9YbWev5YpkzOu9"
+    },
+    {
+      "added_at": "2025-09-17 12:07:39",
+      "album": {
+        "name": "Can't Stop Now",
+        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Read Between the Lines",
+      "url": "https://open.spotify.com/track/2RtFmibwUwhyL9n48yuYfY"
     },
     {
       "added_at": "2025-09-17 12:07:39",
@@ -647,22 +647,34 @@
     {
       "added_at": "2025-09-17 12:07:39",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3"
+        "name": "Little Tokyo",
+        "url": "https://open.spotify.com/album/4OtCVYtmUw5oJ7fSyRqbMQ"
       },
       "artists": [
         {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
-        },
-        {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5QKxN2fua4X7t8QfyojijI"
         }
       ],
-      "duration_ms": 236960,
-      "name": "Two of a Kind (feat. Chuck Loeb)",
-      "url": "https://open.spotify.com/track/0rG2XJ2nMojj2dFMkpfSJ7"
+      "duration_ms": 195333,
+      "name": "Little Tokyo",
+      "url": "https://open.spotify.com/track/6KH7ps7H92gdLQcfIHpoc6"
+    },
+    {
+      "added_at": "2025-09-17 12:07:39",
+      "album": {
+        "name": "Next Journey",
+        "url": "https://open.spotify.com/album/3JOUNTko166Qtwt6hVdMsz"
+      },
+      "artists": [
+        {
+          "name": "robomoque",
+          "url": "https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v"
+        }
+      ],
+      "duration_ms": 183250,
+      "name": "Next Journey",
+      "url": "https://open.spotify.com/track/40ch36XYitWd7bL6Ih7Fyz"
     },
     {
       "added_at": "2025-09-17 12:07:39",
@@ -699,22 +711,6 @@
     {
       "added_at": "2025-09-17 12:07:39",
       "album": {
-        "name": "It's All Good",
-        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 277840,
-      "name": "Saturday Cool",
-      "url": "https://open.spotify.com/track/7gqQ4b0NnmlLoN2Hp8SkjK"
-    },
-    {
-      "added_at": "2025-09-17 12:07:39",
-      "album": {
         "name": "Love and Paragraphs",
         "url": "https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu"
       },
@@ -731,34 +727,38 @@
     {
       "added_at": "2025-09-17 12:07:39",
       "album": {
-        "name": "Next Journey",
-        "url": "https://open.spotify.com/album/3JOUNTko166Qtwt6hVdMsz"
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
       },
       "artists": [
         {
-          "name": "robomoque",
-          "url": "https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v"
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
         }
       ],
-      "duration_ms": 183250,
-      "name": "Next Journey",
-      "url": "https://open.spotify.com/track/40ch36XYitWd7bL6Ih7Fyz"
+      "duration_ms": 277840,
+      "name": "Saturday Cool",
+      "url": "https://open.spotify.com/track/7gqQ4b0NnmlLoN2Hp8SkjK"
     },
     {
       "added_at": "2025-09-17 12:07:39",
       "album": {
-        "name": "Little Tokyo",
-        "url": "https://open.spotify.com/album/4OtCVYtmUw5oJ7fSyRqbMQ"
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3"
       },
       "artists": [
         {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5QKxN2fua4X7t8QfyojijI"
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        },
+        {
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
         }
       ],
-      "duration_ms": 195333,
-      "name": "Little Tokyo",
-      "url": "https://open.spotify.com/track/6KH7ps7H92gdLQcfIHpoc6"
+      "duration_ms": 236960,
+      "name": "Two of a Kind (feat. Chuck Loeb)",
+      "url": "https://open.spotify.com/track/0rG2XJ2nMojj2dFMkpfSJ7"
     },
     {
       "added_at": "2025-09-17 12:07:39",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-09-17 12:07:39",
       "album": {
-        "name": "Euge Groove",
-        "url": "https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 269573,
-      "name": "Vinyl",
-      "url": "https://open.spotify.com/track/2q2kwEh9flpSMwwqpPYCC3"
-    },
-    {
-      "added_at": "2025-09-17 12:07:39",
-      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/6TuOteMAypRo9glKqAVSGT"
       },
@@ -811,18 +795,18 @@
     {
       "added_at": "2025-09-17 12:07:39",
       "album": {
-        "name": "Peas And Carrots",
-        "url": "https://open.spotify.com/album/6bfnbStxUvR8R7JDZd0NBK"
+        "name": "Euge Groove",
+        "url": "https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG"
       },
       "artists": [
         {
-          "name": "Matty Mel Jr",
-          "url": "https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW"
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Peas And Carrots",
-      "url": "https://open.spotify.com/track/6suqE7jsS61mbxUa1jqxxl"
+      "duration_ms": 269573,
+      "name": "Vinyl",
+      "url": "https://open.spotify.com/track/2q2kwEh9flpSMwwqpPYCC3"
     },
     {
       "added_at": "2025-09-17 12:07:39",
@@ -843,18 +827,18 @@
     {
       "added_at": "2025-09-17 12:07:39",
       "album": {
-        "name": "Looking Up",
-        "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
+        "name": "Peas And Carrots",
+        "url": "https://open.spotify.com/album/6bfnbStxUvR8R7JDZd0NBK"
       },
       "artists": [
         {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+          "name": "Matty Mel Jr",
+          "url": "https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW"
         }
       ],
-      "duration_ms": 324213,
-      "name": "Isabella",
-      "url": "https://open.spotify.com/track/3auejP8jQXX4soeSvMCtqL"
+      "duration_ms": 184000,
+      "name": "Peas And Carrots",
+      "url": "https://open.spotify.com/track/6suqE7jsS61mbxUa1jqxxl"
     },
     {
       "added_at": "2025-09-17 12:07:39",
@@ -871,6 +855,22 @@
       "duration_ms": 219752,
       "name": "Emily",
       "url": "https://open.spotify.com/track/1THYlGUnGESGfmZWLW11C6"
+    },
+    {
+      "added_at": "2025-09-17 12:07:39",
+      "album": {
+        "name": "Looking Up",
+        "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 324213,
+      "name": "Isabella",
+      "url": "https://open.spotify.com/track/3auejP8jQXX4soeSvMCtqL"
     },
     {
       "added_at": "2025-09-17 12:07:39",
@@ -939,6 +939,22 @@
     {
       "added_at": "2025-09-17 12:07:39",
       "album": {
+        "name": "Do not disturb",
+        "url": "https://open.spotify.com/album/4RG39enCANdnjbagkDndcp"
+      },
+      "artists": [
+        {
+          "name": "Matty Mel Jr",
+          "url": "https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "Do not disturb",
+      "url": "https://open.spotify.com/track/2R7A0xNBsAHLNY66uiCScE"
+    },
+    {
+      "added_at": "2025-09-17 12:07:39",
+      "album": {
         "name": "For Your Pleasure",
         "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 258398,
       "name": "I Feel You",
       "url": "https://open.spotify.com/track/5yqw56hswQdEZofRcIOUhd"
-    },
-    {
-      "added_at": "2025-09-17 12:07:39",
-      "album": {
-        "name": "Beaches",
-        "url": "https://open.spotify.com/album/0ETUDbr9SDuqPDz0Dau0G5"
-      },
-      "artists": [
-        {
-          "name": "Ennio M\u00e1no",
-          "url": "https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs"
-        }
-      ],
-      "duration_ms": 227328,
-      "name": "Beaches",
-      "url": "https://open.spotify.com/track/1qlNWZGVTcyrCyfeTJgUFD"
     },
     {
       "added_at": "2025-09-17 12:07:39",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-09-17 12:07:39",
       "album": {
-        "name": "Do not disturb",
-        "url": "https://open.spotify.com/album/4RG39enCANdnjbagkDndcp"
-      },
-      "artists": [
-        {
-          "name": "Matty Mel Jr",
-          "url": "https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "Do not disturb",
-      "url": "https://open.spotify.com/track/2R7A0xNBsAHLNY66uiCScE"
-    },
-    {
-      "added_at": "2025-09-17 12:07:39",
-      "album": {
         "name": "Ready to Play",
         "url": "https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 303973,
       "name": "Catnap",
       "url": "https://open.spotify.com/track/0x1TSRHlJ2hV63cPBcvrLp"
+    },
+    {
+      "added_at": "2025-09-17 12:07:39",
+      "album": {
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/0ETUDbr9SDuqPDz0Dau0G5"
+      },
+      "artists": [
+        {
+          "name": "Ennio M\u00e1no",
+          "url": "https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs"
+        }
+      ],
+      "duration_ms": 227328,
+      "name": "Beaches",
+      "url": "https://open.spotify.com/track/1qlNWZGVTcyrCyfeTJgUFD"
     },
     {
       "added_at": "2025-09-17 12:07:39",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-09-17 12:07:39",
       "album": {
-        "name": "Smooth Lines",
-        "url": "https://open.spotify.com/album/46cSsCZNSPKDCuDXtLvGZJ"
-      },
-      "artists": [
-        {
-          "name": "Irvine",
-          "url": "https://open.spotify.com/artist/3AXCBCm78dD72ONT759Msq"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Smooth Lines",
-      "url": "https://open.spotify.com/track/37wOzVfpUxcs7yf2OdxE1R"
-    },
-    {
-      "added_at": "2025-09-17 12:07:39",
-      "album": {
         "name": "Working Buttons",
         "url": "https://open.spotify.com/album/1mVGzvC6G2EyX4uVMFuUfe"
       },
@@ -1131,22 +1115,6 @@
       "duration_ms": 270025,
       "name": "Working Buttons",
       "url": "https://open.spotify.com/track/2KVOhGRZ4TjY3cXnnt40nn"
-    },
-    {
-      "added_at": "2025-09-17 12:07:39",
-      "album": {
-        "name": "Changing Lanes",
-        "url": "https://open.spotify.com/album/3okiGsB4Y7njNxRBp0vfLH"
-      },
-      "artists": [
-        {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5QKxN2fua4X7t8QfyojijI"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "Changing Lanes",
-      "url": "https://open.spotify.com/track/4JA3H5Yl2AaPlYJGHSExeb"
     },
     {
       "added_at": "2025-09-17 12:07:39",
@@ -1167,18 +1135,34 @@
     {
       "added_at": "2025-09-17 12:07:39",
       "album": {
-        "name": "Pleasure Seeker",
-        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
+        "name": "Smooth Lines",
+        "url": "https://open.spotify.com/album/46cSsCZNSPKDCuDXtLvGZJ"
       },
       "artists": [
         {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+          "name": "Irvine",
+          "url": "https://open.spotify.com/artist/3AXCBCm78dD72ONT759Msq"
         }
       ],
-      "duration_ms": 259360,
-      "name": "Dry Your Eyes",
-      "url": "https://open.spotify.com/track/6Wz2T6KAS5rJsdiUEBOjFl"
+      "duration_ms": 162000,
+      "name": "Smooth Lines",
+      "url": "https://open.spotify.com/track/37wOzVfpUxcs7yf2OdxE1R"
+    },
+    {
+      "added_at": "2025-09-17 12:07:39",
+      "album": {
+        "name": "Changing Lanes",
+        "url": "https://open.spotify.com/album/3okiGsB4Y7njNxRBp0vfLH"
+      },
+      "artists": [
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5QKxN2fua4X7t8QfyojijI"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "Changing Lanes",
+      "url": "https://open.spotify.com/track/4JA3H5Yl2AaPlYJGHSExeb"
     },
     {
       "added_at": "2025-09-17 12:07:39",
@@ -1195,6 +1179,22 @@
       "duration_ms": 213813,
       "name": "Divine Morning",
       "url": "https://open.spotify.com/track/76NCiXYW0Be1Cxgi6tXXX7"
+    },
+    {
+      "added_at": "2025-09-17 12:07:39",
+      "album": {
+        "name": "Pleasure Seeker",
+        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
+      },
+      "artists": [
+        {
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+        }
+      ],
+      "duration_ms": 259360,
+      "name": "Dry Your Eyes",
+      "url": "https://open.spotify.com/track/6Wz2T6KAS5rJsdiUEBOjFl"
     },
     {
       "added_at": "2025-09-17 12:07:39",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2025-09-17 12:07:39",
       "album": {
+        "name": "Another Door Opens",
+        "url": "https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh"
+      },
+      "artists": [
+        {
+          "name": "Jeff Kashiwa",
+          "url": "https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW"
+        }
+      ],
+      "duration_ms": 284200,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/1mzBQnUMTUSs4TkpSJjZES"
+    },
+    {
+      "added_at": "2025-09-17 12:07:39",
+      "album": {
         "name": "The Catwalk",
         "url": "https://open.spotify.com/album/5AjtdeM07zySmIaIkVrHoC"
       },
@@ -1311,18 +1327,18 @@
     {
       "added_at": "2025-09-17 12:07:39",
       "album": {
-        "name": "Another Door Opens",
-        "url": "https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh"
+        "name": "Big Jon",
+        "url": "https://open.spotify.com/album/27sKUo532bzJ5pvOv32zGo"
       },
       "artists": [
         {
-          "name": "Jeff Kashiwa",
-          "url": "https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW"
+          "name": "Lou Lizza",
+          "url": "https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4"
         }
       ],
-      "duration_ms": 284200,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/1mzBQnUMTUSs4TkpSJjZES"
+      "duration_ms": 230886,
+      "name": "Big Jon",
+      "url": "https://open.spotify.com/track/7FS9mcAHdV6OZYlpRrdR7a"
     },
     {
       "added_at": "2025-09-17 12:07:39",
@@ -1343,22 +1359,6 @@
       "duration_ms": 245933,
       "name": "Kimi Trick",
       "url": "https://open.spotify.com/track/1ouzK9gIxLEADwHlL97nPv"
-    },
-    {
-      "added_at": "2025-09-17 12:07:39",
-      "album": {
-        "name": "Big Jon",
-        "url": "https://open.spotify.com/album/27sKUo532bzJ5pvOv32zGo"
-      },
-      "artists": [
-        {
-          "name": "Lou Lizza",
-          "url": "https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4"
-        }
-      ],
-      "duration_ms": 230886,
-      "name": "Big Jon",
-      "url": "https://open.spotify.com/track/7FS9mcAHdV6OZYlpRrdR7a"
     },
     {
       "added_at": "2025-09-17 12:07:39",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-09-17 12:07:39",
       "album": {
-        "name": "The Dubble",
-        "url": "https://open.spotify.com/album/4PFrstLSNUox98INthlTQT"
-      },
-      "artists": [
-        {
-          "name": "Lou Lizza",
-          "url": "https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "The Dubble",
-      "url": "https://open.spotify.com/track/3ngMgAjrvFnJ4rozyKphL7"
-    },
-    {
-      "added_at": "2025-09-17 12:07:39",
-      "album": {
         "name": "Club 1600",
         "url": "https://open.spotify.com/album/6iUHScjeLYf1SiN2WmRM3z"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 168888,
       "name": "Paks",
       "url": "https://open.spotify.com/track/3f526KslwaHSuamZFabgvk"
+    },
+    {
+      "added_at": "2025-09-17 12:07:39",
+      "album": {
+        "name": "The Dubble",
+        "url": "https://open.spotify.com/album/4PFrstLSNUox98INthlTQT"
+      },
+      "artists": [
+        {
+          "name": "Lou Lizza",
+          "url": "https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "The Dubble",
+      "url": "https://open.spotify.com/track/3ngMgAjrvFnJ4rozyKphL7"
     },
     {
       "added_at": "2025-09-17 12:07:39",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-09-17 12:07:39",
       "album": {
-        "name": "It Might Be You",
-        "url": "https://open.spotify.com/album/2CWjlY0KC2fN7eGRCFYx92"
-      },
-      "artists": [
-        {
-          "name": "Anthony Smith",
-          "url": "https://open.spotify.com/artist/67dt5GuTNqsdlSfaTDky4S"
-        }
-      ],
-      "duration_ms": 142285,
-      "name": "It Might Be You",
-      "url": "https://open.spotify.com/track/6k6CaQntp1AuJ89RCzFM35"
-    },
-    {
-      "added_at": "2025-09-17 12:07:39",
-      "album": {
         "name": "Jazzmasters 3",
         "url": "https://open.spotify.com/album/0WXePiP7WNfImObygPwrNM"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 414834,
       "name": "Squeeze Me",
       "url": "https://open.spotify.com/track/6dSzZ1ll6LwJ7OG5U1w7RG"
+    },
+    {
+      "added_at": "2025-09-17 12:07:39",
+      "album": {
+        "name": "It Might Be You",
+        "url": "https://open.spotify.com/album/2CWjlY0KC2fN7eGRCFYx92"
+      },
+      "artists": [
+        {
+          "name": "Anthony Smith",
+          "url": "https://open.spotify.com/artist/67dt5GuTNqsdlSfaTDky4S"
+        }
+      ],
+      "duration_ms": 142285,
+      "name": "It Might Be You",
+      "url": "https://open.spotify.com/track/6k6CaQntp1AuJ89RCzFM35"
     },
     {
       "added_at": "2025-09-17 12:07:39",

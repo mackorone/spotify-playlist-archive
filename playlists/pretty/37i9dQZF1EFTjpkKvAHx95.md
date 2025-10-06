@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,916 likes - 154 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,918 likes - 154 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 64 | [$$$ \(feat\. Normani\)](https://open.spotify.com/track/1qmTyz4l8mLlxGqGP2YjCF) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 3:01 |
 | 65 | [For the Night](https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [For the Night](https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q) | 3:25 |
 | 66 | [Surface](https://open.spotify.com/track/0y1lLLaSzHIVQZKHEfwOrm) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:14 |
-| 67 | [She Bumped Her Head \(feat\. Gunna\)](https://open.spotify.com/track/21dG6mNMHwkogPh7V5e83A) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Slime & B](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) | 4:00 |
-| 68 | [Mamushi \(Remix\) \[feat\. TWICE\]](https://open.spotify.com/track/0DanydI1wKqKkKjn0qKoVR) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MEGAN: ACT II](https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR) | 2:35 |
+| 67 | [Mamushi \(Remix\) \[feat\. TWICE\]](https://open.spotify.com/track/0DanydI1wKqKkKjn0qKoVR) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MEGAN: ACT II](https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR) | 2:35 |
+| 68 | [She Bumped Her Head \(feat\. Gunna\)](https://open.spotify.com/track/21dG6mNMHwkogPh7V5e83A) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Slime & B](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) | 4:00 |
 | 69 | [No Surprise \(feat\. Don Toliver & Bslime\)](https://open.spotify.com/track/5yjcHfRu0LWD9XpvWabQGj) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Bslime](https://open.spotify.com/artist/2EnD37GNRe2REqHBKqMnZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Slime Language 2 \(Deluxe\)](https://open.spotify.com/album/3XADnbi4uhYXb7RuSJ7bre) | 3:45 |
 | 70 | [Pull Up](https://open.spotify.com/track/3wGV5S5a2jkZw3KeH8BtB9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Heartbreak on a Full Moon](https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp) | 2:22 |
 | 71 | [Shadows \(with Kehlani\)](https://open.spotify.com/track/2iPnYQRutwTQopudwgkIfm) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:53 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 153 | [Aya](https://open.spotify.com/track/5ns3kffO7Y8hh3lZyoXMCF) | [Medusa](https://open.spotify.com/artist/4vPPFsG4hJ9JrtrgUrzsYh) | [Aya](https://open.spotify.com/album/23x8pIyTKI3MggMSdShflL) | 2:55 |
 | 154 | [I AM LOLA](https://open.spotify.com/track/4kH4Lb90dhFdWaruTrrx86) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dennis Daughter](https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe) | 3:14 |
 
-Snapshot ID: `Ab9/nAAAAAABkH+cGKdB+1jhtWMG4apj`
+Snapshot ID: `Ab+FMgAAAACAjm9gXL0krqOMTHztqdKB`

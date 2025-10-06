@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1567539,
+  "num_followers": 1567891,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-07-15 19:04:50",
       "album": {
+        "name": "Vision (Slowed)",
+        "url": "https://open.spotify.com/album/6kKao8k8is0gfZ2LtrnUMh"
+      },
+      "artists": [
+        {
+          "name": "Hucci",
+          "url": "https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk"
+        }
+      ],
+      "duration_ms": 299572,
+      "name": "Vision - Slowed",
+      "url": "https://open.spotify.com/track/1NFqszFNaYFCTjdGb3TfSh"
+    },
+    {
+      "added_at": "2025-07-15 19:04:50",
+      "album": {
         "name": "MONTAGEM - PR FUNK (Slowed & Reveerb)",
         "url": "https://open.spotify.com/album/0w0fGghlcl6YPgK5JjmWHI"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 83048,
       "name": "MONTAGEM - PR FUNK - Slowed & Reveerb",
       "url": "https://open.spotify.com/track/4hB9LJ3TsLNPb2fiZidRLZ"
-    },
-    {
-      "added_at": "2025-07-15 19:04:50",
-      "album": {
-        "name": "Vision (Slowed)",
-        "url": "https://open.spotify.com/album/6kKao8k8is0gfZ2LtrnUMh"
-      },
-      "artists": [
-        {
-          "name": "Hucci",
-          "url": "https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk"
-        }
-      ],
-      "duration_ms": 299572,
-      "name": "Vision - Slowed",
-      "url": "https://open.spotify.com/track/1NFqszFNaYFCTjdGb3TfSh"
     },
     {
       "added_at": "2025-07-15 19:04:50",
@@ -883,18 +883,22 @@
     {
       "added_at": "2025-07-15 19:04:50",
       "album": {
-        "name": "Where's My Love (Slowed)",
-        "url": "https://open.spotify.com/album/7dwAeKkbpzA4ELMDiacfcR"
+        "name": "coldshade",
+        "url": "https://open.spotify.com/album/7stzTSqo40hosxvqvrUFZx"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "LONOWN",
+          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        },
+        {
+          "name": "neytles",
+          "url": "https://open.spotify.com/artist/22ext9Do0WP94crY5FZxli"
         }
       ],
-      "duration_ms": 289536,
-      "name": "Where's My Love - Slowed",
-      "url": "https://open.spotify.com/track/7gCMZGYUvujTe4OF64uvN3"
+      "duration_ms": 204887,
+      "name": "coldshade - Slowed",
+      "url": "https://open.spotify.com/track/6kazHgRY42IvErUxsSInVV"
     }
   ],
   "unique_name": "slowed and reverbed",

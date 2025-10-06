@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 36737,
+  "num_followers": 36741,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAACDYTN7bobmsURGW4XUPcEF",
+  "snapshot_id": "aOBjgAAAAAD1/v3qxWkTfUFhxOgTu6Sq",
   "tracks": [
     {
       "added_at": null,
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 406440,
-      "name": "For Your Glory - Live",
-      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
+      "duration_ms": 498426,
+      "name": "Break Every Chain - Live",
+      "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
     },
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 498426,
-      "name": "Break Every Chain - Live",
-      "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
+      "duration_ms": 406440,
+      "name": "For Your Glory - Live",
+      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 318986,
-      "name": "Happy - Live",
-      "url": "https://open.spotify.com/track/1yXL6qHPnnrcvBrdTPF3iI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Hallelujah",
         "url": "https://open.spotify.com/album/6PC1CBTlJ7WaV6YC62jVbn"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 345179,
       "name": "One Hallelujah",
       "url": "https://open.spotify.com/track/1nJYjT357z2vQAMAbuoTno"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 318986,
+      "name": "Happy - Live",
+      "url": "https://open.spotify.com/track/1yXL6qHPnnrcvBrdTPF3iI"
     },
     {
       "added_at": null,
@@ -603,6 +603,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Made In The South",
+        "url": "https://open.spotify.com/album/3QHcxJF7Phwk45RQ4aJb4d"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 242362,
+      "name": "Big Heart (feat. Tasha Cobbs Leonard)",
+      "url": "https://open.spotify.com/track/66FuKEsGwkpIN2vpdQkSrK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Losing My Religion",
         "url": "https://open.spotify.com/album/0Uvc0XDk2O8KsPIsMMdasM"
       },
@@ -627,30 +651,6 @@
       "duration_ms": 423106,
       "name": "My World Needs You (feat. Sarah Reeves, Tasha Cobbs & Tamela Mann)",
       "url": "https://open.spotify.com/track/0GRRDzyfiF5dQU1ZpC4Ftk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Made In The South",
-        "url": "https://open.spotify.com/album/3QHcxJF7Phwk45RQ4aJb4d"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 242362,
-      "name": "Big Heart (feat. Tasha Cobbs Leonard)",
-      "url": "https://open.spotify.com/track/66FuKEsGwkpIN2vpdQkSrK"
     },
     {
       "added_at": null,

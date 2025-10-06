@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 438211,
+  "num_followers": 438201,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2025-08-25 21:42:09",
       "album": {
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+    },
+    {
+      "added_at": "2025-08-25 21:42:09",
+      "album": {
         "name": "Regalo",
         "url": "https://open.spotify.com/album/512JRiq6UX5wYeFIAXN4KK"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 177640,
       "name": "Regalo",
       "url": "https://open.spotify.com/track/7mU8ts3VQhufEOMc00vzKX"
-    },
-    {
-      "added_at": "2025-08-25 21:42:09",
-      "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
       "added_at": "2025-08-25 21:42:09",
@@ -667,18 +667,18 @@
     {
       "added_at": "2025-08-25 21:42:09",
       "album": {
-        "name": "Esperando Verte",
-        "url": "https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT"
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
       },
       "artists": [
         {
-          "name": "Ni\u00f1a Pastori",
-          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
         }
       ],
-      "duration_ms": 232853,
-      "name": "Esperando Verte",
-      "url": "https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx"
+      "duration_ms": 162986,
+      "name": "Un Telegrama",
+      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
     },
     {
       "added_at": "2025-08-25 21:42:09",
@@ -703,18 +703,18 @@
     {
       "added_at": "2025-08-25 21:42:09",
       "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
+        "name": "Esperando Verte",
+        "url": "https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT"
       },
       "artists": [
         {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+          "name": "Ni\u00f1a Pastori",
+          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
         }
       ],
-      "duration_ms": 162986,
-      "name": "Un Telegrama",
-      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
+      "duration_ms": 232853,
+      "name": "Esperando Verte",
+      "url": "https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx"
     },
     {
       "added_at": "2025-08-25 21:42:09",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-08-25 21:42:09",
       "album": {
-        "name": "Rituales",
-        "url": "https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm"
-      },
-      "artists": [
-        {
-          "name": "KerreKe",
-          "url": "https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P"
-        }
-      ],
-      "duration_ms": 174706,
-      "name": "Bailando Con Un Pie",
-      "url": "https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u"
-    },
-    {
-      "added_at": "2025-08-25 21:42:09",
-      "album": {
         "name": "Tiene Sabor",
         "url": "https://open.spotify.com/album/5B5XX53acuLFw8JHXK1UU2"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 185786,
       "name": "Linda Guajira",
       "url": "https://open.spotify.com/track/6LgpmOednaE46TjVgeSFJm"
+    },
+    {
+      "added_at": "2025-08-25 21:42:09",
+      "album": {
+        "name": "Rituales",
+        "url": "https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm"
+      },
+      "artists": [
+        {
+          "name": "KerreKe",
+          "url": "https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Bailando Con Un Pie",
+      "url": "https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u"
     },
     {
       "added_at": "2025-08-25 21:42:09",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-08-25 21:42:09",
       "album": {
-        "name": "Atacama!",
-        "url": "https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf"
-      },
-      "artists": [
-        {
-          "name": "Alessio Arena",
-          "url": "https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc"
-        }
-      ],
-      "duration_ms": 251830,
-      "name": "El hombre que quiso ser canci\u00f3n",
-      "url": "https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct"
-    },
-    {
-      "added_at": "2025-08-25 21:42:09",
-      "album": {
         "name": "Danz\u00f3n Para La Espera",
         "url": "https://open.spotify.com/album/5NlwLkuzq9WBQa54Rytnxv"
       },
@@ -1107,6 +1091,42 @@
       "duration_ms": 302000,
       "name": "Danz\u00f3n Para La Espera",
       "url": "https://open.spotify.com/track/1RlcebUFfWS1DaRnlDr0Ms"
+    },
+    {
+      "added_at": "2025-08-25 21:42:09",
+      "album": {
+        "name": "Atacama!",
+        "url": "https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf"
+      },
+      "artists": [
+        {
+          "name": "Alessio Arena",
+          "url": "https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc"
+        }
+      ],
+      "duration_ms": 251830,
+      "name": "El hombre que quiso ser canci\u00f3n",
+      "url": "https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct"
+    },
+    {
+      "added_at": "2025-08-25 21:42:09",
+      "album": {
+        "name": "Pelo Negro",
+        "url": "https://open.spotify.com/album/1aHrWZbOa31S3rBUA51muK"
+      },
+      "artists": [
+        {
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+        },
+        {
+          "name": "Matanza",
+          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
+        }
+      ],
+      "duration_ms": 370730,
+      "name": "Pelo Negro",
+      "url": "https://open.spotify.com/track/63lE9CBiNmJIdgkH2vPpVm"
     },
     {
       "added_at": "2025-08-25 21:42:09",
@@ -1147,26 +1167,6 @@
     {
       "added_at": "2025-08-25 21:42:09",
       "album": {
-        "name": "Pelo Negro",
-        "url": "https://open.spotify.com/album/1aHrWZbOa31S3rBUA51muK"
-      },
-      "artists": [
-        {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
-        },
-        {
-          "name": "Matanza",
-          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
-        }
-      ],
-      "duration_ms": 370730,
-      "name": "Pelo Negro",
-      "url": "https://open.spotify.com/track/63lE9CBiNmJIdgkH2vPpVm"
-    },
-    {
-      "added_at": "2025-08-25 21:42:09",
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI"
       },
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-08-25 21:42:09",
       "album": {
-        "name": "Caminando por Quisqueya",
-        "url": "https://open.spotify.com/album/1z6vx39dIoXCScxQ8c6xn4"
-      },
-      "artists": [
-        {
-          "name": "ChiChi Peralta",
-          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "Caminando por Quisqueya",
-      "url": "https://open.spotify.com/track/2avb4jaEXShHqfAF3yuKhX"
-    },
-    {
-      "added_at": "2025-08-25 21:42:09",
-      "album": {
         "name": "Somos Hermanas",
         "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 230877,
       "name": "Somos Hermanas",
       "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
+    },
+    {
+      "added_at": "2025-08-25 21:42:09",
+      "album": {
+        "name": "Caminando por Quisqueya",
+        "url": "https://open.spotify.com/album/1z6vx39dIoXCScxQ8c6xn4"
+      },
+      "artists": [
+        {
+          "name": "ChiChi Peralta",
+          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Caminando por Quisqueya",
+      "url": "https://open.spotify.com/track/2avb4jaEXShHqfAF3yuKhX"
     },
     {
       "added_at": "2025-08-25 21:42:09",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-08-25 21:42:09",
       "album": {
-        "name": "LADAMA",
-        "url": "https://open.spotify.com/album/0ZS5LZAEaWFcZEpdqwwub6"
-      },
-      "artists": [
-        {
-          "name": "LADAMA",
-          "url": "https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9"
-        }
-      ],
-      "duration_ms": 226405,
-      "name": "Porro Maracatu",
-      "url": "https://open.spotify.com/track/3Fj0USmSNBcOwu4oeFXtZu"
-    },
-    {
-      "added_at": "2025-08-25 21:42:09",
-      "album": {
         "name": "Morena m\u00eda",
         "url": "https://open.spotify.com/album/0ErqfJ1kVZagcPNa7pf7fK"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 188543,
       "name": "Morena m\u00eda",
       "url": "https://open.spotify.com/track/2gCE7OHYYb0pZlp8nlRmXc"
+    },
+    {
+      "added_at": "2025-08-25 21:42:09",
+      "album": {
+        "name": "LADAMA",
+        "url": "https://open.spotify.com/album/0ZS5LZAEaWFcZEpdqwwub6"
+      },
+      "artists": [
+        {
+          "name": "LADAMA",
+          "url": "https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9"
+        }
+      ],
+      "duration_ms": 226405,
+      "name": "Porro Maracatu",
+      "url": "https://open.spotify.com/track/3Fj0USmSNBcOwu4oeFXtZu"
     },
     {
       "added_at": "2025-08-25 21:42:09",
@@ -1435,22 +1435,18 @@
     {
       "added_at": "2025-08-25 21:42:09",
       "album": {
-        "name": "Ag\u00fcita de Coco",
-        "url": "https://open.spotify.com/album/57BymNURM2SQpLtCzedXtx"
+        "name": "M\u00fasica para verse bien",
+        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
       },
       "artists": [
         {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        },
-        {
-          "name": "Butera Knowless",
-          "url": "https://open.spotify.com/artist/3x4ddfyjJHpGIBcPvdFxeK"
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
         }
       ],
-      "duration_ms": 153208,
-      "name": "Ag\u00fcita de Coco",
-      "url": "https://open.spotify.com/track/1N5jZ3y5O2AMtcw1iggw76"
+      "duration_ms": 249170,
+      "name": "Dancin' Days",
+      "url": "https://open.spotify.com/track/1Nni53RQ8FI8yBYEuZ3jLR"
     },
     {
       "added_at": "2025-08-25 21:42:09",
@@ -1471,34 +1467,22 @@
     {
       "added_at": "2025-08-25 21:42:09",
       "album": {
-        "name": "M\u00fasica para verse bien",
-        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
+        "name": "Ag\u00fcita de Coco",
+        "url": "https://open.spotify.com/album/57BymNURM2SQpLtCzedXtx"
       },
       "artists": [
         {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 249170,
-      "name": "Dancin' Days",
-      "url": "https://open.spotify.com/track/1Nni53RQ8FI8yBYEuZ3jLR"
-    },
-    {
-      "added_at": "2025-08-25 21:42:09",
-      "album": {
-        "name": "30 Horas",
-        "url": "https://open.spotify.com/album/1cuAp4nFmm9IHlcFtLHyw8"
-      },
-      "artists": [
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        },
         {
-          "name": "Cuarta Pared",
-          "url": "https://open.spotify.com/artist/2hNk3m3EelZ8vnecBGhOqX"
+          "name": "Butera Knowless",
+          "url": "https://open.spotify.com/artist/3x4ddfyjJHpGIBcPvdFxeK"
         }
       ],
-      "duration_ms": 219268,
-      "name": "30 Horas",
-      "url": "https://open.spotify.com/track/0v1fyQIaCG4e3TwCO3F0VZ"
+      "duration_ms": 153208,
+      "name": "Ag\u00fcita de Coco",
+      "url": "https://open.spotify.com/track/1N5jZ3y5O2AMtcw1iggw76"
     },
     {
       "added_at": "2025-08-25 21:42:09",
@@ -1515,6 +1499,22 @@
       "duration_ms": 115266,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/2Ci1wKycW15sG9tYFadSqa"
+    },
+    {
+      "added_at": "2025-08-25 21:42:09",
+      "album": {
+        "name": "30 Horas",
+        "url": "https://open.spotify.com/album/1cuAp4nFmm9IHlcFtLHyw8"
+      },
+      "artists": [
+        {
+          "name": "Cuarta Pared",
+          "url": "https://open.spotify.com/artist/2hNk3m3EelZ8vnecBGhOqX"
+        }
+      ],
+      "duration_ms": 219268,
+      "name": "30 Horas",
+      "url": "https://open.spotify.com/track/0v1fyQIaCG4e3TwCO3F0VZ"
     },
     {
       "added_at": "2025-08-25 21:42:09",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-08-25 21:42:09",
       "album": {
-        "name": "Today Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/0jiYxu7xEHUUYXkGNtrO9M"
-      },
-      "artists": [
-        {
-          "name": "Hunters of the Alps",
-          "url": "https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/0a5bGlvKZbcWWx3EE4lLOP"
-    },
-    {
-      "added_at": "2025-08-25 21:42:09",
-      "album": {
         "name": "Nobreza",
         "url": "https://open.spotify.com/album/1S3u1h0ggT85QcGdb2qDuq"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 201364,
       "name": "Nobreza",
       "url": "https://open.spotify.com/track/1g1CCNbAA546LXL4q3CwSZ"
+    },
+    {
+      "added_at": "2025-08-25 21:42:09",
+      "album": {
+        "name": "Today Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/0jiYxu7xEHUUYXkGNtrO9M"
+      },
+      "artists": [
+        {
+          "name": "Hunters of the Alps",
+          "url": "https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG"
+        }
+      ],
+      "duration_ms": 234773,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/0a5bGlvKZbcWWx3EE4lLOP"
     },
     {
       "added_at": "2025-08-25 21:42:09",

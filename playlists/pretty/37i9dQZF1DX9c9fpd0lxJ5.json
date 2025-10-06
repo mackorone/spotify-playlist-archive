@@ -1,6 +1,6 @@
 {
   "description": "indie tunes to make you shine (\u273f\u25e0\u203f\u25e0)",
-  "num_followers": 445940,
+  "num_followers": 445938,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-09-05 03:38:25",
       "album": {
-        "name": "Dime Precioso",
-        "url": "https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 273746,
-      "name": "Paris, Tal Vez?",
-      "url": "https://open.spotify.com/track/2LsFN7FUc8mMYnVJ6jxtJY"
-    },
-    {
-      "added_at": "2025-09-05 03:38:25",
-      "album": {
         "name": "The Sweet Escape",
         "url": "https://open.spotify.com/album/3jCd27MDogNResJz6axMOP"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 166016,
       "name": "The Sweet Escape",
       "url": "https://open.spotify.com/track/0UPYSuHKAZq6diZrCaBAsW"
+    },
+    {
+      "added_at": "2025-09-05 03:38:25",
+      "album": {
+        "name": "Dime Precioso",
+        "url": "https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 273746,
+      "name": "Paris, Tal Vez?",
+      "url": "https://open.spotify.com/track/2LsFN7FUc8mMYnVJ6jxtJY"
     },
     {
       "added_at": "2025-09-05 03:38:25",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-09-05 03:38:25",
       "album": {
-        "name": "Cartagena",
-        "url": "https://open.spotify.com/album/0ahwRf85EYG9xvig4lqdvB"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 187640,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/3CBc589syKaYJd0VYgxjka"
-    },
-    {
-      "added_at": "2025-09-05 03:38:25",
-      "album": {
         "name": "Where Do You Go?",
         "url": "https://open.spotify.com/album/0mgwFqh3CUu9DAX9HBvXpq"
       },
@@ -963,18 +947,18 @@
     {
       "added_at": "2025-09-05 03:38:25",
       "album": {
-        "name": "Todo Lamento",
-        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
+        "name": "Cartagena",
+        "url": "https://open.spotify.com/album/0ahwRf85EYG9xvig4lqdvB"
       },
       "artists": [
         {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 155675,
-      "name": "Todo Lamento",
-      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
+      "duration_ms": 187640,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/3CBc589syKaYJd0VYgxjka"
     },
     {
       "added_at": "2025-09-05 03:38:25",
@@ -991,6 +975,22 @@
       "duration_ms": 202126,
       "name": "Un d\u00eda m\u00e1s",
       "url": "https://open.spotify.com/track/5mXYPoqiOCab0lTbHqbYTO"
+    },
+    {
+      "added_at": "2025-09-05 03:38:25",
+      "album": {
+        "name": "Todo Lamento",
+        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 155675,
+      "name": "Todo Lamento",
+      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
     },
     {
       "added_at": "2025-09-05 03:38:25",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2025-09-05 03:38:25",
       "album": {
+        "name": "Locochona",
+        "url": "https://open.spotify.com/album/6BzRhIEFVhtaKekLzRnxlX"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        },
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 148338,
+      "name": "Locochona",
+      "url": "https://open.spotify.com/track/63huxKkkuUPoMzOyYJnEkV"
+    },
+    {
+      "added_at": "2025-09-05 03:38:25",
+      "album": {
         "name": "Coraz\u00f3n Extra\u00f1o",
         "url": "https://open.spotify.com/album/6ooGDTPhDaeQPIjE99BtY5"
       },
@@ -1175,26 +1195,6 @@
     {
       "added_at": "2025-09-05 03:38:25",
       "album": {
-        "name": "Locochona",
-        "url": "https://open.spotify.com/album/6BzRhIEFVhtaKekLzRnxlX"
-      },
-      "artists": [
-        {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
-        },
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 148338,
-      "name": "Locochona",
-      "url": "https://open.spotify.com/track/63huxKkkuUPoMzOyYJnEkV"
-    },
-    {
-      "added_at": "2025-09-05 03:38:25",
-      "album": {
         "name": "Volver A Empezar",
         "url": "https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN"
       },
@@ -1207,22 +1207,6 @@
       "duration_ms": 175596,
       "name": "Volver A Empezar",
       "url": "https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF"
-    },
-    {
-      "added_at": "2025-09-05 03:38:25",
-      "album": {
-        "name": "555",
-        "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
-      },
-      "artists": [
-        {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
-        }
-      ],
-      "duration_ms": 148538,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/5idNzLXuETCpAYsrtHkl7g"
     },
     {
       "added_at": "2025-09-05 03:38:25",
@@ -1243,6 +1227,22 @@
       "duration_ms": 288624,
       "name": "Mi vida en llamas (feat. Buscabulla)",
       "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
+    },
+    {
+      "added_at": "2025-09-05 03:38:25",
+      "album": {
+        "name": "555",
+        "url": "https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP"
+      },
+      "artists": [
+        {
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+        }
+      ],
+      "duration_ms": 148538,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/5idNzLXuETCpAYsrtHkl7g"
     },
     {
       "added_at": "2025-09-05 03:38:25",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-09-05 03:38:25",
       "album": {
-        "name": "Quemar La Casa",
-        "url": "https://open.spotify.com/album/0BjsgknELVeYJdN3u85EYE"
-      },
-      "artists": [
-        {
-          "name": "Giorgio Siladi",
-          "url": "https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj"
-        }
-      ],
-      "duration_ms": 243356,
-      "name": "Sexy",
-      "url": "https://open.spotify.com/track/5HXPMDJdaLo2UY1HL6ybnf"
-    },
-    {
-      "added_at": "2025-09-05 03:38:25",
-      "album": {
         "name": "inigualable",
         "url": "https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 178645,
       "name": "inigualable",
       "url": "https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2"
+    },
+    {
+      "added_at": "2025-09-05 03:38:25",
+      "album": {
+        "name": "Quemar La Casa",
+        "url": "https://open.spotify.com/album/0BjsgknELVeYJdN3u85EYE"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Siladi",
+          "url": "https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj"
+        }
+      ],
+      "duration_ms": 243356,
+      "name": "Sexy",
+      "url": "https://open.spotify.com/track/5HXPMDJdaLo2UY1HL6ybnf"
     },
     {
       "added_at": "2025-09-05 03:38:25",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-09-05 03:38:25",
       "album": {
-        "name": "qu\u00e9 bueno!",
-        "url": "https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7"
-      },
-      "artists": [
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        }
-      ],
-      "duration_ms": 157394,
-      "name": "qu\u00e9 bueno!",
-      "url": "https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt"
-    },
-    {
-      "added_at": "2025-09-05 03:38:25",
-      "album": {
         "name": "tdbn",
         "url": "https://open.spotify.com/album/6bdoqQybs5gW8m92VMwVPJ"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 199173,
       "name": "tdbn",
       "url": "https://open.spotify.com/track/3fLmwbhdw0dgBYYSTvT3v5"
+    },
+    {
+      "added_at": "2025-09-05 03:38:25",
+      "album": {
+        "name": "qu\u00e9 bueno!",
+        "url": "https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 157394,
+      "name": "qu\u00e9 bueno!",
+      "url": "https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt"
     },
     {
       "added_at": "2025-09-05 03:38:25",
@@ -1607,6 +1607,26 @@
     {
       "added_at": "2025-09-05 03:38:25",
       "album": {
+        "name": "Fugaz",
+        "url": "https://open.spotify.com/album/1Ah9gV6yPpVHjq3VdxwLej"
+      },
+      "artists": [
+        {
+          "name": "Marte",
+          "url": "https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm"
+        },
+        {
+          "name": "Costa de \u00c1mbar",
+          "url": "https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Fugaz",
+      "url": "https://open.spotify.com/track/6xyyEGR8dSPYwxFvRzRt3A"
+    },
+    {
+      "added_at": "2025-09-05 03:38:25",
+      "album": {
         "name": "Acto de Fe (A & B Remix)",
         "url": "https://open.spotify.com/album/2flR1deOgoalwj3x8wJuwM"
       },
@@ -1627,26 +1647,6 @@
       "duration_ms": 167726,
       "name": "Acto de Fe - A & B Remix",
       "url": "https://open.spotify.com/track/7qd8tiws4kLMsxfSNXiiUk"
-    },
-    {
-      "added_at": "2025-09-05 03:38:25",
-      "album": {
-        "name": "Fugaz",
-        "url": "https://open.spotify.com/album/1Ah9gV6yPpVHjq3VdxwLej"
-      },
-      "artists": [
-        {
-          "name": "Marte",
-          "url": "https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm"
-        },
-        {
-          "name": "Costa de \u00c1mbar",
-          "url": "https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Fugaz",
-      "url": "https://open.spotify.com/track/6xyyEGR8dSPYwxFvRzRt3A"
     },
     {
       "added_at": "2025-09-05 03:38:25",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2025-09-05 03:38:25",
       "album": {
-        "name": "donjulio",
-        "url": "https://open.spotify.com/album/0ErQsoGFidaUIXmX5eOkJ6"
-      },
-      "artists": [
-        {
-          "name": "MiSHNRZ",
-          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
-        }
-      ],
-      "duration_ms": 160695,
-      "name": "donjulio",
-      "url": "https://open.spotify.com/track/31w5L4yW2an3IlelD1htJ1"
-    },
-    {
-      "added_at": "2025-09-05 03:38:25",
-      "album": {
         "name": "Y SI SE ABREN LOS CIELOS",
         "url": "https://open.spotify.com/album/7ojO0TsCWpHwxCIZ02vde4"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 180893,
       "name": "Y SI SE ABREN LOS CIELOS",
       "url": "https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw"
+    },
+    {
+      "added_at": "2025-09-05 03:38:25",
+      "album": {
+        "name": "donjulio",
+        "url": "https://open.spotify.com/album/0ErQsoGFidaUIXmX5eOkJ6"
+      },
+      "artists": [
+        {
+          "name": "MiSHNRZ",
+          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
+        }
+      ],
+      "duration_ms": 160695,
+      "name": "donjulio",
+      "url": "https://open.spotify.com/track/31w5L4yW2an3IlelD1htJ1"
     },
     {
       "added_at": "2025-09-05 03:38:25",

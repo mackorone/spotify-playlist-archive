@@ -4,7 +4,7 @@
 
 > This is Marco Polo\. The essential tracks, all in one playlist.
 
-138 songs - 7 hr 38 min
+139 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [The Fight Song \(feat\. Pharoahe Monch\)](https://open.spotify.com/track/3Semiur4LDOYnSjSKfWegW) | [Masta Ace & Marco Polo](https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [A Breukelen Story](https://open.spotify.com/album/1R3JKxtFrNZI31eNg0JYth) | 3:47 | 2023-12-13 | 2025-07-10 |
 | [The Greatest](https://open.spotify.com/track/4vBanFyeKfyYthwaqVzlhq) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Canned Goods](https://open.spotify.com/album/5jEiB3VnjRFD1sOTpChayh) | 3:33 | 2025-08-27 | 2025-09-09 |
 | [The Return](https://open.spotify.com/track/1Jp6sQP4tGLMpqTlHjUVE4) | [Torae](https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Midnight Run](https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK) | 3:35 | 2024-10-14 | 2025-08-09 |
-| [The Rub](https://open.spotify.com/track/6oNqlXz7op4lQvqi0I9hLj) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Baker's Dozen: Marco Polo](https://open.spotify.com/album/0j0xuOUPmBQj74Eo8LZNLt) | 2:41 | 2024-07-02 |  |
+| [The Rub](https://open.spotify.com/track/6oNqlXz7op4lQvqi0I9hLj) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Baker's Dozen: Marco Polo](https://open.spotify.com/album/0j0xuOUPmBQj74Eo8LZNLt) | 2:41 | 2024-07-02 | 2025-10-06 |
 | [The Veteran](https://open.spotify.com/track/0BgDyBZxY6Co2J1W7yf0a1) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Grand Daddy I.U.](https://open.spotify.com/artist/1XMAYcdy0aZQTZ6S4deMUd) | [The Stupendous Adventures of Marco Polo](https://open.spotify.com/album/5r5uYvL1suWVjWoHZFDRrQ) | 3:05 | 2023-12-22 | 2024-01-28 |
 | [Three](https://open.spotify.com/track/5hsxLQQy068iKUjMMtapoQ) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Masta Ace & Marco Polo](https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA), [EMC](https://open.spotify.com/artist/0gLaGKA1vlqDqfHUxh67un) | [A Breukelen Story \(Deluxe Edition\)](https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw) | 2:47 | 2024-02-09 | 2024-02-24 |
 | [Toi tu veux Djor](https://open.spotify.com/track/5ZWGEu5vqjdJwGL4Pq7GHW) | [ALX FIDJI](https://open.spotify.com/artist/6H0hJPDbTej7RXsnRAHqqD), [Widgunz](https://open.spotify.com/artist/3sIJ8AYWsQmlgIcLxwiFkt), [Denzo](https://open.spotify.com/artist/1ZkZjE8TjYVFuZPDS5y52S), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Louzio](https://open.spotify.com/artist/5QVDXaYwMDBqCc8VZuTK19) | [Toi tu veux Djor](https://open.spotify.com/album/67ZqqqXNtB1FsfrJjFb6ug) | 2:43 | 2023-12-30 | 2024-01-13 |
@@ -145,6 +145,7 @@
 | [Wrong One](https://open.spotify.com/track/40H22sFbazRwISu76U1qh0) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Wordsworth](https://open.spotify.com/artist/6de0XwbJtLyirUZUqte7aD) | [Port Authority](https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc) | 3:41 | 2023-12-13 |  |
 | [Yada Yada](https://open.spotify.com/track/4ogCOpVUZoxStUv6YEF3il) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Baker's Dozen: Marco Polo](https://open.spotify.com/album/0j0xuOUPmBQj74Eo8LZNLt) | 2:54 | 2025-08-07 | 2025-08-14 |
 | [You & I](https://open.spotify.com/track/0hHZgJRrnN2ysNf4LqN8G3) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl), [Masta Ace & Marco Polo](https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA) | [A Breukelen Story \(Deluxe Edition\)](https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw) | 3:10 | 2023-12-13 | 2025-07-04 |
+| [Yung Rad Boys](https://open.spotify.com/track/6ojAW19s9ybbLBwKOWvY44) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [MP On The MP: The Beat Tape Vol\. 1](https://open.spotify.com/album/0jVA9R5PBXoBnl27fbRJEh) | 3:45 | 2025-10-06 |  |
 | [Żywy lub Martwy](https://open.spotify.com/track/6Iyj5JsEk9agqb2J8XSQqB) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv), [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Kartagina](https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz) | 3:59 | 2024-07-23 | 2025-10-05 |
 
 \*This playlist was first scraped on 2023-12-14. Prior content cannot be recovered.

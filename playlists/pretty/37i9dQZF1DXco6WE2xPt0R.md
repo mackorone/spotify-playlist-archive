@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 
 > longe dos perigos noturnos
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,044 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,043 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 46 | [Damaged](https://open.spotify.com/track/2zKsGLytwZOY5WKEZ1ARAk) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [All For You](https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ) | 3:16 |
 | 47 | [moonlit room](https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [moonlit room](https://open.spotify.com/album/4fNpiEQNMa4ehobympXbQi) | 4:10 |
 | 48 | [Choosin'](https://open.spotify.com/track/6ixs1OVZpJ4gIPDdpzZqvn) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Choosin'](https://open.spotify.com/album/6bW3Tm54WdO1OdHtBKckdy) | 2:56 |
-| 49 | [Thinking Less](https://open.spotify.com/track/4QDAVHo7gtwrRp3aNpHdZm) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Thinking Less](https://open.spotify.com/album/3nlJCjmJXerAEitId6gwFW) | 2:42 |
-| 50 | [Slow \(feat\. J Valentine\)](https://open.spotify.com/track/78t5Br2LpRmlisvBzxE4mZ) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [J\. Valentine](https://open.spotify.com/artist/0YG3fiiee6tHuimu1klAMg) | [Slow \(feat\. J Valentine\)](https://open.spotify.com/album/2URY7aT8Ig8jxhlXK3bWOl) | 3:20 |
+| 49 | [Slow \(feat\. J Valentine\)](https://open.spotify.com/track/78t5Br2LpRmlisvBzxE4mZ) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [J\. Valentine](https://open.spotify.com/artist/0YG3fiiee6tHuimu1klAMg) | [Slow \(feat\. J Valentine\)](https://open.spotify.com/album/2URY7aT8Ig8jxhlXK3bWOl) | 3:20 |
+| 50 | [Thinking Less](https://open.spotify.com/track/4QDAVHo7gtwrRp3aNpHdZm) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Thinking Less](https://open.spotify.com/album/3nlJCjmJXerAEitId6gwFW) | 2:42 |
 | 51 | [He Will Follow You With His Eyes](https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Black Rainbows](https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1) | 3:45 |
 | 52 | [All Pride Aside with Summer Walker](https://open.spotify.com/track/5xJqIMx7GZg4Lt1dRims0V) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [All Pride Aside with Summer Walker](https://open.spotify.com/album/5OXWFTGZLq6ro7IKpL7E8v) | 4:18 |
 | 53 | [Diamonds And Pearls](https://open.spotify.com/track/2fKW2z6VAOGSaEeOTBTOWt) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Diamonds And Pearls](https://open.spotify.com/album/17v5uQhPTOV1xbNcHBWivY) | 3:09 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 62 | [I Need It \(feat\. Syd & Tank\)](https://open.spotify.com/track/0cqy3SDGmrYNND6Ej2Il0q) | [Camper](https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [I Need It \(feat\. Syd & Tank\)](https://open.spotify.com/album/2rsp9SfNHnsTgdtBVfNXlG) | 3:44 |
 | 63 | [Perfect Stranger \(feat\. Kenny Lattimore\)](https://open.spotify.com/track/2u2ji0HpSmNJkklMTDwg0i) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [Perfect Stranger \(feat\. Kenny Lattimore\)](https://open.spotify.com/album/4VAxIlO6cvGFgF6SudtKwW) | 3:51 |
 | 64 | [Right Time](https://open.spotify.com/track/279rl4oKt4TZGxMOaQa34T) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Right Time \(feat\. Reggie Becton\)](https://open.spotify.com/album/68GpIwLR39Lkm6B5QqmEIi) | 2:57 |
-| 65 | [Exposure](https://open.spotify.com/track/0tHWsBI54oBishkTwMwd9Y) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Exposure](https://open.spotify.com/album/1K1Dv8UvUhejxrbAMPCFu7) | 3:44 |
-| 66 | [11th Hour](https://open.spotify.com/track/78LJ7iVGbin0ej1TC1smDS) | [Lynda Dawn](https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM) | [11th Hour](https://open.spotify.com/album/6ocq51uZKVrzIXHlS4oCSH) | 4:11 |
+| 65 | [11th Hour](https://open.spotify.com/track/78LJ7iVGbin0ej1TC1smDS) | [Lynda Dawn](https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM) | [11th Hour](https://open.spotify.com/album/6ocq51uZKVrzIXHlS4oCSH) | 4:11 |
+| 66 | [Exposure](https://open.spotify.com/track/0tHWsBI54oBishkTwMwd9Y) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Exposure](https://open.spotify.com/album/1K1Dv8UvUhejxrbAMPCFu7) | 3:44 |
 | 67 | [Inside Out – A COLORS SHOW](https://open.spotify.com/track/6hjiaLxYiZfQTn70mfasJ2) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Inside Out – A COLORS SHOW](https://open.spotify.com/album/6z6puxSN6gXkYqKKXUTPAh) | 3:52 |
 | 68 | [Closer](https://open.spotify.com/track/3oVuO5NMqQIM8S12g18T4j) | [Nka](https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz) | [Patience](https://open.spotify.com/album/21CTrD6XB9J14u9TnKGpH8) | 3:17 |
 | 69 | [Make Luv 2 Me](https://open.spotify.com/track/6wSS1PXZcHbjIKHwQK6g1v) | [Zo!](https://open.spotify.com/artist/0XoDNlIZvfQP47lyLBVIsz), [Monica Blaire](https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK) | [SunStorm](https://open.spotify.com/album/1ssu0v4LiGz7j3y2BUaj2j) | 10:35 |

@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Phantastic Ferniture
 
-794 songs - 1 day 21 hr 8 min
+795 songs - 1 day 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Bad Love](https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Blue Skies](https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE) | 2:30 | 2022-04-01 | 2022-08-19 |
 | [Bad Love](https://open.spotify.com/track/3MEYOBGJlvDgG99hSKIDQH) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Bad Love](https://open.spotify.com/album/0lUqvNrhKRtU5OlPPcqXr0) | 2:30 | 2022-02-14 | 2022-07-29 |
 | [Bang Bang Bang Bang](https://open.spotify.com/track/2qLSXZuIHMsKydCEFDchc3) | [Sohodolls](https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN) | [Ribbed Music For The Numb Generation](https://open.spotify.com/album/6DK0TneKMKj64I93VCG1bW) | 3:01 | 2021-08-04 | 2022-04-02 |
+| [Baptism](https://open.spotify.com/track/5jt5cm3mPU9GtWGnjwFPDU) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [One Simple Trick](https://open.spotify.com/album/3mK0jqmMbU0qXx0bnkirpU) | 3:39 | 2025-10-03 |  |
 | [Battle](https://open.spotify.com/track/3MTuf7SClqUl0UlPsrixPW) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Battle](https://open.spotify.com/album/3IbYC7UpTbAYKDmNRPdrUp) | 2:34 | 2024-05-16 | 2024-07-13 |
 | [Be By Your Side](https://open.spotify.com/track/1Vh0ZXykuBBR0mcERksAqw) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Be By Your Side](https://open.spotify.com/album/0ocfNOe1DGjYob591ipgcC) | 4:54 | 2022-01-21 | 2022-03-11 |
 | [Be By Your Side](https://open.spotify.com/track/2Om9dYuAMsw8jnCLpwVMhx) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Leave The Light On](https://open.spotify.com/album/71yW0rxm0PtKpgdCHJabyY) | 4:54 | 2022-08-18 | 2023-01-23 |
@@ -199,7 +200,7 @@
 | [Diva](https://open.spotify.com/track/3TRftl5G4bhM74bwq1Q6qx) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Diva](https://open.spotify.com/album/3bk5oW9x91uHCJZHsodGwf) | 4:16 | 2025-05-01 | 2025-06-28 |
 | [Do It All the Same](https://open.spotify.com/track/6o9mE8B6hhpDWutaOSsAho) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Do It All the Same](https://open.spotify.com/album/0oqtiAPmi6ZiZd7PnuDLuT) | 3:27 | 2022-09-01 | 2022-10-14 |
 | [Do You Wanna Talk](https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Do You Wanna Talk](https://open.spotify.com/album/1M9rhdjdrp2azAxUtavJuX) | 2:26 | 2022-09-22 | 2023-08-31 |
-| [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 | 2024-05-16 |  |
+| [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 | 2024-05-16 | 2025-10-06 |
 | [Dogs In Heaven](https://open.spotify.com/track/14aI471gbVhilXXhaV5vww) | [Silver Gore](https://open.spotify.com/artist/5VrSyJDlKqvbpRaRBaA4o2) | [Dogs In Heaven](https://open.spotify.com/album/3bhQKuDSclCvuunld6lR4g) | 2:08 | 2025-07-25 | 2025-08-09 |
 | [Don't Press Me](https://open.spotify.com/track/1kjV1x2jSTA6g4RoPm3HdY) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Anna Calls From The Arctic](https://open.spotify.com/album/5jwTWkWKnLiNQL9NXklUva) | 1:50 | 2022-08-18 | 2022-09-23 |
 | [DOOLALLY](https://open.spotify.com/track/5KiOQH7AdJMxAo6LtgkQHg) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [DOOLALLY](https://open.spotify.com/album/3TZLSPVmWjBqmwqXn1Xal5) | 3:22 | 2023-05-18 | 2023-08-05 |
@@ -544,7 +545,7 @@
 | [Poor Boy](https://open.spotify.com/track/4hTctq4PxrW9qrX1tCDdTR) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Poor Boy](https://open.spotify.com/album/7iu5xANwikkcwdOjY2WeiB) | 3:15 | 2021-03-09 | 2022-01-17 |
 | [Popular \(feat\. Matthew Caws of Nada Surf\)](https://open.spotify.com/track/5ppPV0hCtwt5TMTKF1xY57) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs), [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy), [Matthew Caws](https://open.spotify.com/artist/2euOhDrnToDMpxBiCPf72Z) | [Popular \(feat\. Matthew Caws of Nada Surf\)](https://open.spotify.com/album/7nvPKeZxfHFgbKTrRWqvCo) | 3:26 | 2022-01-17 | 2022-08-19 |
 | [Portrait of a Blank Slate](https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Wake Up & It's Over](https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr) | 3:47 | 2023-05-18 | 2025-03-28 |
-| [Portsmouth Raceway](https://open.spotify.com/track/06GLV6gWiFa4eYQ2pa5Pb7) | [villagerrr](https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5) | [Portsmouth Raceway](https://open.spotify.com/album/2PzSVCyVb86aNSMHkyB2Qb) | 4:18 | 2025-09-12 | 2025-10-04 |
+| [Portsmouth Raceway](https://open.spotify.com/track/06GLV6gWiFa4eYQ2pa5Pb7) | [villagerrr](https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5) | [Portsmouth Raceway](https://open.spotify.com/album/2PzSVCyVb86aNSMHkyB2Qb) | 4:18 | 2025-09-12 |  |
 | [Praise You](https://open.spotify.com/track/5zFlp5CJqy3NPOYF1FXEYF) | [Afflecks Palace](https://open.spotify.com/artist/4IPPxhNko81s8pZsgyYhYW) | [Praise You](https://open.spotify.com/album/0FLyhyx0Ui5m8esZnPE6Qi) | 3:10 | 2022-08-18 | 2022-11-18 |
 | [Prep\-School Gangsters](https://open.spotify.com/track/0NiaHPlgDp7081zSqXuULS) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 3:48 | 2024-05-16 |  |
 | [Pretty](https://open.spotify.com/track/5BvulJDF5EpO5Yjs3bpjEd) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Pretty](https://open.spotify.com/album/5Zqf3BZV2oAUqF3qyzJxi3) | 3:23 | 2025-08-08 |  |
@@ -674,7 +675,7 @@
 | [Sweeter Things](https://open.spotify.com/track/6TOpX6PrdVwYZ0vkFHxuJc) | [Jacqueline Tucci](https://open.spotify.com/artist/3C8jNP8KucAySqnpvVTsyL) | [Sweeter Things](https://open.spotify.com/album/6htfjXRYortoaprlglShQe) | 2:23 | 2021-03-09 | 2022-01-17 |
 | [Swimming with Dolphins](https://open.spotify.com/track/6qCDZC0B30GZlOA9l5x4XD) | [Peace](https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS) | [Swimming with Dolphins](https://open.spotify.com/album/2jWLsbRw24SxJeO1rKsRj2) | 3:34 | 2025-03-27 | 2025-03-30 |
 | [Switch Over](https://open.spotify.com/track/3T9TQAYyDUgIlnnOHRlWWm) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Switch Over](https://open.spotify.com/album/5wRB3TauoGZdAUg7PCV4mR) | 3:05 | 2025-01-17 | 2025-06-07 |
-| [Sword](https://open.spotify.com/track/52abQEHHYwE5eGxLG0zcH5) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Sword](https://open.spotify.com/album/0oPDylAtcGw4FPvMcRDse8) | 2:26 | 2025-03-27 |  |
+| [Sword](https://open.spotify.com/track/52abQEHHYwE5eGxLG0zcH5) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Sword](https://open.spotify.com/album/0oPDylAtcGw4FPvMcRDse8) | 2:26 | 2025-03-27 | 2025-10-06 |
 | [T&A](https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [T&A](https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2) | 3:45 | 2025-03-27 | 2025-08-17 |
 | [Tacklebox](https://open.spotify.com/track/6eMWMTmsTwApiQCUeCFGpA) | [Ruby Fields](https://open.spotify.com/artist/1nwPEi1UZdJtCxBqATpsq3) | [Tacklebox](https://open.spotify.com/album/1bCK8Bfvp53mLqLixJDiYJ) | 3:12 | 2025-07-04 |  |
 | [Take me back](https://open.spotify.com/track/3CkBVxtfny3epwPhQfw9t8) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Take me back](https://open.spotify.com/album/2lNf4UcthxACQ1Ks8BUw98) | 3:45 | 2025-06-06 | 2025-10-01 |

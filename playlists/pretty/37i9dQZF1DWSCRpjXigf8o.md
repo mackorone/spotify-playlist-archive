@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,169 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,161 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 86 | [Time](https://open.spotify.com/track/6SxkiETU36VnbiJk9jNxQ8) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [TIME](https://open.spotify.com/album/1TWjKSJNJ7WUbSxSqelrES) | 2:25 |
 | 87 | [Bloom feat\. KIKI](https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:26 |
 | 88 | [See You Soon](https://open.spotify.com/track/6J0iDtlXabHqZizUKWUAX8) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [See You Soon](https://open.spotify.com/album/3RnZzFLaoswdse4TKBEmmH) | 3:14 |
-| 89 | [やえ](https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [はなよど](https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8) | 4:21 |
+| 89 | [back to you \(you're the reason\)](https://open.spotify.com/track/7MiWqkriAg3HsLr8L8OvdN) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [back to you \(you're the reason\)](https://open.spotify.com/album/1zGWULZWndg7c8f0adeU5M) | 4:00 |
 | 90 | [Feel Those Things \- Edit](https://open.spotify.com/track/5g1PiWaOKr7LGDY5VupNTi) | [Bryony Jarman\-Pinto](https://open.spotify.com/artist/4qGRPAtF4Dnuy1pZEH8Pgv) | [Feel Those Things / Riverside](https://open.spotify.com/album/6AqJJfCWmCKZEqM3Mphbso) | 3:32 |
-| 91 | [頬にひと口](https://open.spotify.com/track/6YEzgjuFl1bmtVUZ04Ozlr) | [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [頬にひと口](https://open.spotify.com/album/1OseQ5LUgKXP4M6UNnspyj) | 3:29 |
-| 92 | [APPLE PIE](https://open.spotify.com/track/2oZXiY2TUfafJj6qec5Oqv) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [APPLE PIE](https://open.spotify.com/album/4zmH8hhWPeE6PE2DNPLull) | 4:02 |
-| 93 | [In Bloom](https://open.spotify.com/track/5wZJxky1QtCNqv4WyonHLG) | [Powloh](https://open.spotify.com/artist/1k6pzQFm9xjWETHy8Gv7OA) | [Lonely Driver](https://open.spotify.com/album/75lFxxSm1nYqQrTo20gbZl) | 3:28 |
+| 91 | [やえ](https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [はなよど](https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8) | 4:21 |
+| 92 | [頬にひと口](https://open.spotify.com/track/6YEzgjuFl1bmtVUZ04Ozlr) | [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [頬にひと口](https://open.spotify.com/album/1OseQ5LUgKXP4M6UNnspyj) | 3:29 |
+| 93 | [APPLE PIE](https://open.spotify.com/track/2oZXiY2TUfafJj6qec5Oqv) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [APPLE PIE](https://open.spotify.com/album/4zmH8hhWPeE6PE2DNPLull) | 4:02 |
 | 94 | [なみしぐさ](https://open.spotify.com/track/5lCHvxlOWI6rRGkLEtnopS) | [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY) | [パレード \(Original Soundtrack\)](https://open.spotify.com/album/0xfFfjCL2W2MEr0fSCf4bh) | 4:48 |
-| 95 | [This must be the place](https://open.spotify.com/track/3rDfFPybJVMqBiFbhMGDMi) | [Marina Balenciaga](https://open.spotify.com/artist/6wvMmbfuW3vADgH3zzJGII) | [This must be the place](https://open.spotify.com/album/1FJVVG53D8ZTMwqn85UfMy) | 3:52 |
-| 96 | [Life goes on](https://open.spotify.com/track/5MuDopbi2aVxg8HjwJd3T6) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Life goes on](https://open.spotify.com/album/5IKkUL547sLdaFV9v30OwI) | 3:51 |
-| 97 | [Apple](https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw) | [Apple](https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu) | 4:08 |
-| 98 | [カラタチの夢](https://open.spotify.com/track/7o0IZeK9qnfNdjxx4TaMNL) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [カラタチの夢](https://open.spotify.com/album/2fSTHMm7zKp834JHdcGcY4) | 3:29 |
-| 99 | [声を聞かせて](https://open.spotify.com/track/0ZJmMINFDqxtS5QhZzMjWh) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [Correspondances](https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z) | 2:28 |
-| 100 | [all my perfects](https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine \(The Deluxe Album\)](https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na) | 3:38 |
+| 95 | [In Bloom](https://open.spotify.com/track/5wZJxky1QtCNqv4WyonHLG) | [Powloh](https://open.spotify.com/artist/1k6pzQFm9xjWETHy8Gv7OA) | [Lonely Driver](https://open.spotify.com/album/75lFxxSm1nYqQrTo20gbZl) | 3:28 |
+| 96 | [This must be the place](https://open.spotify.com/track/3rDfFPybJVMqBiFbhMGDMi) | [Marina Balenciaga](https://open.spotify.com/artist/6wvMmbfuW3vADgH3zzJGII) | [This must be the place](https://open.spotify.com/album/1FJVVG53D8ZTMwqn85UfMy) | 3:52 |
+| 97 | [Life goes on](https://open.spotify.com/track/5MuDopbi2aVxg8HjwJd3T6) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Life goes on](https://open.spotify.com/album/5IKkUL547sLdaFV9v30OwI) | 3:51 |
+| 98 | [Apple](https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw) | [Apple](https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu) | 4:08 |
+| 99 | [カラタチの夢](https://open.spotify.com/track/7o0IZeK9qnfNdjxx4TaMNL) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [カラタチの夢](https://open.spotify.com/album/2fSTHMm7zKp834JHdcGcY4) | 3:29 |
+| 100 | [声を聞かせて](https://open.spotify.com/track/0ZJmMINFDqxtS5QhZzMjWh) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [Correspondances](https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z) | 2:28 |
 
 Snapshot ID: `AAAAAEF2xtVGl70ddLln4oIjfm2Q5exk`

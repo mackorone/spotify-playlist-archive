@@ -4,7 +4,7 @@
 
 > Turn on the movement with the latest and greatest in K\-Pop! \(Cover: K\-Pop Demon Hunters\)
 
-734 songs - 1 day 14 hr 7 min
+735 songs - 1 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Gameboy](https://open.spotify.com/track/2f1WulnyiYYnseSQWI8Oi9) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4llrXTk6u4QYI1j7KHIsCx) | 3:05 | 2025-06-27 |  |
 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 | 2022-03-12 | 2022-06-28 |
 | [Generation](https://open.spotify.com/track/1RHTdr5QfviCYI70QPPDJN) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Acid Angel from Asia <ACCESS>](https://open.spotify.com/album/0EsUBCjxGF328J7VRAE48Y) | 2:44 | 2022-11-24 | 2023-02-07 |
+| [GENIE](https://open.spotify.com/track/3B1kVUGFALavXUt8s9L65V) | [HAN \(Stray Kids\)](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W), [I.N](https://open.spotify.com/artist/1odvXbzhdzNajv6un9x5Mc) | [다 이루어질지니 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7lR1C36AIonUwAUqehsdOU) | 3:33 | 2025-10-04 |  |
 | [Get A Guitar](https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Get A Guitar](https://open.spotify.com/album/4QzCT76QtPCyLinchwVt8l) | 2:40 | 2023-12-01 | 2024-03-01 |
 | [Get A Guitar](https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Get A Guitar](https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k) | 2:40 | 2023-09-08 | 2023-12-09 |
 | [Get Loud](https://open.spotify.com/track/7zi7dD55ORKCGEjDNwSa1n) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Lose Yourself](https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab) | 2:49 | 2024-10-15 | 2024-11-23 |
@@ -741,6 +742,6 @@
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-04-13 | 2022-11-25 |
 | [깨어 \(Are You Alive\)](https://open.spotify.com/track/0hRr7x68aApt0TX1AIAA9W) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE25>](https://open.spotify.com/album/4MGXby5GGnly4aVwdZuwak) | 3:06 | 2025-05-20 | 2025-07-15 |
 | [별별별 \(See that?\)](https://open.spotify.com/track/2Oc0j4x7HkDRVZq8JsgACT) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/0RRWmhro004YXI7Yak0EpW) | 3:02 | 2024-08-19 | 2024-11-02 |
-| [처음 불러보는 노래 \(My First Love Song\)](https://open.spotify.com/track/3wlSKXBySBUG5Wv9FTXxgm) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [My First Flip](https://open.spotify.com/album/04Yv1WojhqaF5sn1iHyj87) | 2:44 | 2025-09-22 |  |
+| [처음 불러보는 노래 \(My First Love Song\)](https://open.spotify.com/track/3wlSKXBySBUG5Wv9FTXxgm) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [My First Flip](https://open.spotify.com/album/04Yv1WojhqaF5sn1iHyj87) | 2:44 | 2025-09-22 | 2025-10-06 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

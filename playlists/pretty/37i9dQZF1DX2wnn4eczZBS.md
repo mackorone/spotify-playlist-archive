@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: WIES
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,876 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,880 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 23 | [Giftig](https://open.spotify.com/track/0KfzPMMjRQw9Vh3J8rzTDK) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH), [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x) | [Giftig](https://open.spotify.com/album/6XjQOyWXlcCjgKzivTgUl2) | 2:52 |
 | 24 | [Huis van Zwart en Rood](https://open.spotify.com/track/01ePjjnb3JX85NDzzt4aWs) | [De Nachtwacht](https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp) | [Huis van Zwart en Rood / Cederhout](https://open.spotify.com/album/0u3Aq3qOZpLFa9zU275XBe) | 2:16 |
 | 25 | [Platonisch](https://open.spotify.com/track/6Mwcn4IEsarl0gDqJ29XFy) | [Noor](https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W) | [Platonisch](https://open.spotify.com/album/57jpp3Qa9F5qEBfpXViX6m) | 3:02 |
-| 26 | [Dansen met de dood](https://open.spotify.com/track/4l9mEd8BcksX3maLREZaX5) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Dansen met de dood](https://open.spotify.com/album/3iKTDcSlzjaUlLfYENtrW7) | 3:24 |
+| 26 | [Dingen Die Je Horen Wil](https://open.spotify.com/track/4d5qpQRzJd7Po9IosPoEda) | [NONCHELANGE](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Dingen Die Je Horen Wil](https://open.spotify.com/album/4QOeb4QC1aYM5powVjyMIL) | 2:17 |
 | 27 | [God Los](https://open.spotify.com/track/5oQ9DL4oTFPjzS3hVbKO0R) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [God Los](https://open.spotify.com/album/2jZgFBqWNfZSlBMneFoQXS) | 3:43 |
-| 28 | [Dingen Die Je Horen Wil](https://open.spotify.com/track/4d5qpQRzJd7Po9IosPoEda) | [NONCHELANGE](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Dingen Die Je Horen Wil](https://open.spotify.com/album/4QOeb4QC1aYM5powVjyMIL) | 2:17 |
+| 28 | [Dansen met de dood](https://open.spotify.com/track/4l9mEd8BcksX3maLREZaX5) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Dansen met de dood](https://open.spotify.com/album/3iKTDcSlzjaUlLfYENtrW7) | 3:24 |
 | 29 | [Rondjes](https://open.spotify.com/track/6cQWHhI9gJ44kZG0vNofsZ) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Rondjes](https://open.spotify.com/album/0AOklMhFa8PHsfrdqzvLDk) | 3:10 |
 | 30 | [Niemandsland](https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Niemandsland](https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll) | 2:45 |
 | 31 | [Schaduw](https://open.spotify.com/track/51K5jkPVyjP4jcqPcfBTYl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ) | [Schaduw](https://open.spotify.com/album/66mkzk0QFKvP4BalRxe8ZR) | 3:36 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 47 | [Doe Het Voor Het Geld](https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P) | [NONCHELANGE](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Doe Het Voor Het Geld](https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5) | 3:10 |
 | 48 | [Vager!](https://open.spotify.com/track/5llK2C03HqHJ7NM8ixKwYD) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN), [MAZOO](https://open.spotify.com/artist/0xbGR2sM0IN3C3pwlmA4Hj) | [Vager!](https://open.spotify.com/album/5zRCPSHsRjT9thKatrwc1J) | 2:12 |
 | 49 | [Krijt](https://open.spotify.com/track/43EQUVQgXKeEQ3jivFdE6c) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Krijt](https://open.spotify.com/album/14XuQas4lx3fztkq8H5GjE) | 2:28 |
-| 50 | [Wildernis](https://open.spotify.com/track/4XnKHxkNz9myioLIPM7NnQ) | [Johannes Is Zijn Naam](https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0) | [Wildernis](https://open.spotify.com/album/0XcPUzHYP68CtnXoxBm1YJ) | 3:31 |
+| 50 | [Wind In De Zeilen](https://open.spotify.com/track/1CuunQxTRe5jL13ikuQ67Y) | [Tienson](https://open.spotify.com/artist/6NuwXIFcHEYmeu6Tf9BGt8) | [Wind In De Zeilen](https://open.spotify.com/album/1Vcc1C8T9ktEhGmmlx8A0D) | 3:35 |
 
 Snapshot ID: `AAAAAJsNtdsobWkMPLwaZJHEZJYx3V/M`

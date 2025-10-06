@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-618 songs - 2 day 2 hr 35 min
+620 songs - 2 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [He Won't \(Worship Medley\)](https://open.spotify.com/track/0zGdGRc5Cv0b89wx3HfiNn) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [He Won't \(Worship Medley\)](https://open.spotify.com/album/04pSAhuoZGv9xW2mdTwbgR) | 11:49 | 2025-03-28 | 2025-06-20 |
 | [HE'S HERE \(THE KABOD\)](https://open.spotify.com/track/2a4wzlyRLx0zvz71WgseXN) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3), [NAWIRAS Mass Choir](https://open.spotify.com/artist/68FjyOBa9zUDt1UkvioE05) | [HE'S HERE \(THE KABOD\)](https://open.spotify.com/album/7Cekl5I7lIp501IHTHOSru) | 7:40 | 2024-03-01 | 2025-06-06 |
 | [Heal](https://open.spotify.com/track/2Uf3cKXiFkyGee73C8og1G) | [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [Heal](https://open.spotify.com/album/21cNfAyXPr5Nt5kKXPvyBd) | 2:33 | 2025-06-20 | 2025-09-09 |
+| [Heal Our Land](https://open.spotify.com/track/22A8LtBraZbTlhEBWRlA50) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Heal Our Land](https://open.spotify.com/album/3iz7QSdqWk5HzCKJYkG8RA) | 5:29 | 2025-10-03 |  |
 | [heaven on earth](https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [heaven on earth](https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA) | 3:23 | 2024-03-22 | 2025-06-20 |
 | [Heaven's Got My Back](https://open.spotify.com/track/0CxtJRvWV4wx9PgtpPuaII) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Heaven's Got My Back](https://open.spotify.com/album/50RExeqQJQuzvidZovHFQ2) | 2:30 | 2025-08-08 |  |
 | [HEAVENS GATE](https://open.spotify.com/track/7tZ1qPrxuBApMF6j3lJWJE) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [I Am](https://open.spotify.com/album/65nIbGuai3iNDw0jQUbYgw) | 4:49 | 2024-07-26 | 2024-08-17 |
@@ -236,7 +237,7 @@
 | [How Excellent Is Your Name \- Live](https://open.spotify.com/track/2PkBsj7plaSZabkhuwy5RW) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [How Excellent Is Your Name \(Live\)](https://open.spotify.com/album/52mkWaKaDVVkYcReBBCrom) | 5:55 | 2025-08-29 |  |
 | [How Great You Are](https://open.spotify.com/track/2uNdZjm6wWzLap2asj1f1S) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g) | [How Great You Are](https://open.spotify.com/album/0jJ8AgkTxfZIyJIVyrdMkc) | 5:18 | 2025-09-19 |  |
 | [Hunger](https://open.spotify.com/track/76QxXnjKzq7E1B4PoLpPFf) | [K\-Medley](https://open.spotify.com/artist/4l14tKWGq5TEm5NEXvcRI6) | [Hunger](https://open.spotify.com/album/5vx3A23DhGzGmF3DH5JIkJ) | 11:19 | 2024-11-08 | 2024-12-28 |
-| [I Am](https://open.spotify.com/track/2zrsyufGC2p1LPBp8RzKcP) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [I Am](https://open.spotify.com/album/4jQGnOdxBUGyZKcQIkKvOV) | 7:39 | 2025-07-25 |  |
+| [I Am](https://open.spotify.com/track/2zrsyufGC2p1LPBp8RzKcP) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [I Am](https://open.spotify.com/album/4jQGnOdxBUGyZKcQIkKvOV) | 7:39 | 2025-07-25 | 2025-10-06 |
 | [I Am Yours](https://open.spotify.com/track/7ehcu5sVG3L1lHQf7yhO08) | [Tobass Adolphus](https://open.spotify.com/artist/4qkRtDX0A69ZUOxHVL6VUf) | [I Am Yours](https://open.spotify.com/album/0NM7QI7SnozgYJ8Pl5JrRD) | 3:57 | 2023-11-24 | 2024-01-14 |
 | [I Carry Fire](https://open.spotify.com/track/3OqtPMbBFOs3kxCzsG3lYL) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [I Carry Fire](https://open.spotify.com/album/0B3pl5ySe3L4oMakIWcclc) | 6:11 | 2025-09-26 | 2025-10-03 |
 | [I Carry God](https://open.spotify.com/track/0xXddFk3eUcd8SGdkxKOzp) | [Abimbola Funke Fagun](https://open.spotify.com/artist/1EHVpqPo4ZxRBrKqhL49po), [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [I Carry God](https://open.spotify.com/album/2nx9CnLKR95SAONx2Clzqn) | 3:31 | 2024-05-24 | 2024-07-14 |
@@ -260,6 +261,7 @@
 | [I Thank the Lord](https://open.spotify.com/track/1vHb7ovFeTKo031f6WSIIA) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [I Thank the Lord](https://open.spotify.com/album/6DxGpp2IN37GnoEO8zGEDB) | 3:16 | 2023-12-15 | 2024-01-05 |
 | [I will pray](https://open.spotify.com/track/4us9pwwMqOKN3lklnPZZAv) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I will pray](https://open.spotify.com/album/28UZKXjw7Iag6leBIIoAeQ) | 2:50 | 2023-12-01 | 2024-03-16 |
 | [I Will Pray](https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I Will Pray](https://open.spotify.com/album/6kK5wplkTW4cH4gnBTujvn) | 2:50 | 2023-09-15 | 2024-02-19 |
+| [I will Pray](https://open.spotify.com/track/6Ulz7PfmAnIpbve5hlhDr0) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [I will Pray](https://open.spotify.com/album/5gqKJoGGg7H34oUkUdFNGD) | 14:43 | 2025-09-12 |  |
 | [I Won't Let Go](https://open.spotify.com/track/3TwnDOJmK3mBnHaaquocEq) | [Tres Dei](https://open.spotify.com/artist/0QxXcWpb9kKHHbx10pIVcC) | [I Won't Let Go](https://open.spotify.com/album/2N3VFJJMsWKTrdKxvRvt0r) | 3:52 | 2025-05-09 | 2025-08-09 |
 | [I'm Ready](https://open.spotify.com/track/4MeBfW1xgl07PR7pnE0Bwz) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [I'm Ready](https://open.spotify.com/album/6S7gLUI8nQr3HRW79IjTaH) | 3:05 | 2024-11-22 | 2025-03-09 |
 | [I'm The One](https://open.spotify.com/track/6Xbdxs1Gj8SBLh5ko37DrT) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [I'm The One](https://open.spotify.com/album/5EnaXIgJh65O3wFj1BMYOM) | 3:03 | 2025-09-05 |  |
@@ -450,7 +452,7 @@
 | [PRAISE \(RENDITION\)](https://open.spotify.com/track/5dvsH15ks1ngWGKV1Uv2sB) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [PRAISE \(RENDITION\)](https://open.spotify.com/album/1h5eWQ63x30HlC6XCY2DuF) | 4:18 | 2025-08-01 | 2025-10-03 |
 | [Praise Jesus](https://open.spotify.com/track/5PjWbQl3uhYMvIJ0VHVIeI) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3) | [Praise Jesus](https://open.spotify.com/album/2zr2FJeIgfh6FyuEaC3S37) | 3:11 | 2025-07-04 | 2025-08-08 |
 | [Praise The Lord](https://open.spotify.com/track/5HVAC7q0ZhOt2PWoXKiYqj) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Fearless Community](https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A), [Anderson Qozan](https://open.spotify.com/artist/4msmthFt2XFTVxINZhiaxN) | [Praise The Lord](https://open.spotify.com/album/0q2F3gGEsvczdPqHpC1SHt) | 2:56 | 2024-11-22 | 2025-06-20 |
-| [Praise You](https://open.spotify.com/track/0xn4Y3EXSLiN4mx65Oagkt) | [Princewill Agbazue](https://open.spotify.com/artist/2dpzpGDabUYHCOhggruWZL) | [Praise You](https://open.spotify.com/album/2eNfBrha4wluwTcj43XI4p) | 2:04 | 2025-08-22 |  |
+| [Praise You](https://open.spotify.com/track/0xn4Y3EXSLiN4mx65Oagkt) | [Princewill Agbazue](https://open.spotify.com/artist/2dpzpGDabUYHCOhggruWZL) | [Praise You](https://open.spotify.com/album/2eNfBrha4wluwTcj43XI4p) | 2:04 | 2025-08-22 | 2025-10-06 |
 | [PRAISE YOU ANYWHERE](https://open.spotify.com/track/6PR1HxI09SL1O2itnjBW12) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [PRAISE YOU ANYWHERE](https://open.spotify.com/album/5rDIQLqVrdykpRWD2PwKME) | 3:35 | 2023-09-15 | 2024-03-16 |
 | [PRAY](https://open.spotify.com/track/54olarKIJgpFzd67yaEKC6) | [Daniel Mylez](https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE), [Egar Boi](https://open.spotify.com/artist/5BgxilmpjhmqEFKqoQnmIV) | [PRAY](https://open.spotify.com/album/76WzGvyauaHgZWJwnJS6j4) | 2:32 | 2025-05-23 | 2025-07-11 |
 | [Pray](https://open.spotify.com/track/4GPwZy4FAsSNLQygwXyCh2) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Pray](https://open.spotify.com/album/3F6vpAXVJVrQwQGL6pDFdi) | 2:50 | 2025-06-13 |  |

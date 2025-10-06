@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 40553,
+  "num_followers": 40584,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -1099,18 +1099,22 @@
     {
       "added_at": "2025-09-26 00:01:35",
       "album": {
-        "name": "MERCY PLEASE",
-        "url": "https://open.spotify.com/album/7zp1dyDCFHB2KbMLHWuZeh"
+        "name": "FEELS",
+        "url": "https://open.spotify.com/album/6RufVlTi8oghtOMhX3MXwL"
       },
       "artists": [
         {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+          "name": "DJ Boat",
+          "url": "https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ"
+        },
+        {
+          "name": "Ghetto Boy",
+          "url": "https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA"
         }
       ],
-      "duration_ms": 173436,
-      "name": "MERCY PLEASE",
-      "url": "https://open.spotify.com/track/36VaeS40rE82eU4mxBCJ6v"
+      "duration_ms": 170711,
+      "name": "FEELS",
+      "url": "https://open.spotify.com/track/4Q0nTj4TyprPk5bTpeSrGk"
     },
     {
       "added_at": "2025-09-26 00:01:35",
@@ -1151,22 +1155,18 @@
     {
       "added_at": "2025-09-26 00:01:35",
       "album": {
-        "name": "FEELS",
-        "url": "https://open.spotify.com/album/6RufVlTi8oghtOMhX3MXwL"
+        "name": "MERCY PLEASE",
+        "url": "https://open.spotify.com/album/7zp1dyDCFHB2KbMLHWuZeh"
       },
       "artists": [
         {
-          "name": "DJ Boat",
-          "url": "https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ"
-        },
-        {
-          "name": "Ghetto Boy",
-          "url": "https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA"
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
         }
       ],
-      "duration_ms": 170711,
-      "name": "FEELS",
-      "url": "https://open.spotify.com/track/4Q0nTj4TyprPk5bTpeSrGk"
+      "duration_ms": 173436,
+      "name": "MERCY PLEASE",
+      "url": "https://open.spotify.com/track/36VaeS40rE82eU4mxBCJ6v"
     },
     {
       "added_at": "2025-09-26 00:01:35",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2025-09-26 00:01:35",
       "album": {
+        "name": "Must Have Been",
+        "url": "https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr"
+      },
+      "artists": [
+        {
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+        }
+      ],
+      "duration_ms": 156320,
+      "name": "Must Have Been",
+      "url": "https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U"
+    },
+    {
+      "added_at": "2025-09-26 00:01:35",
+      "album": {
         "name": "Tayo",
         "url": "https://open.spotify.com/album/7bYbluaYSIJ8VhkpoDgS85"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 162162,
       "name": "Milli (feat. Victony)",
       "url": "https://open.spotify.com/track/2GzuO6Yu4viM9XNWZKZmSa"
-    },
-    {
-      "added_at": "2025-09-26 00:01:35",
-      "album": {
-        "name": "Must Have Been",
-        "url": "https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr"
-      },
-      "artists": [
-        {
-          "name": "TAR1Q",
-          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
-        }
-      ],
-      "duration_ms": 156320,
-      "name": "Must Have Been",
-      "url": "https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U"
     },
     {
       "added_at": "2025-09-26 00:01:35",

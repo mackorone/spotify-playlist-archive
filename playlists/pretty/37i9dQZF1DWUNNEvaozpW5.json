@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Robe.",
-  "num_followers": 599202,
+  "num_followers": 599225,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -319,8 +319,8 @@
     {
       "added_at": "2025-10-02 22:01:27",
       "album": {
-        "name": "Material defectuoso",
-        "url": "https://open.spotify.com/album/3JFryzZ2dByJ7Z2Ik2fVua"
+        "name": "Agila",
+        "url": "https://open.spotify.com/album/3msSCqpQLoY0nl4RTSf1Is"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
         }
       ],
-      "duration_ms": 516666,
-      "name": "Si te vas...",
-      "url": "https://open.spotify.com/track/2x59pa3xDf8hHZ4N3f5fGQ"
+      "duration_ms": 281666,
+      "name": "So payaso",
+      "url": "https://open.spotify.com/track/5HSpMRUC4m3L3q48to2Kmu"
     },
     {
       "added_at": "2025-10-02 22:01:27",
@@ -479,8 +479,8 @@
     {
       "added_at": "2025-10-02 22:01:27",
       "album": {
-        "name": "Agila",
-        "url": "https://open.spotify.com/album/3msSCqpQLoY0nl4RTSf1Is"
+        "name": "Material defectuoso",
+        "url": "https://open.spotify.com/album/3JFryzZ2dByJ7Z2Ik2fVua"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
         }
       ],
-      "duration_ms": 281666,
-      "name": "So payaso",
-      "url": "https://open.spotify.com/track/5HSpMRUC4m3L3q48to2Kmu"
+      "duration_ms": 516666,
+      "name": "Si te vas...",
+      "url": "https://open.spotify.com/track/2x59pa3xDf8hHZ4N3f5fGQ"
     },
     {
       "added_at": "2025-10-02 22:01:27",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-10-02 22:01:27",
       "album": {
-        "name": "La Ley Del Desierto",
-        "url": "https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu"
-      },
-      "artists": [
-        {
-          "name": "Radio Futura",
-          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "Escuela de Calor",
-      "url": "https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88"
-    },
-    {
-      "added_at": "2025-10-02 22:01:27",
-      "album": {
         "name": "El Bien",
         "url": "https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 206226,
       "name": "El Bien",
       "url": "https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD"
+    },
+    {
+      "added_at": "2025-10-02 22:01:27",
+      "album": {
+        "name": "La Ley Del Desierto",
+        "url": "https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu"
+      },
+      "artists": [
+        {
+          "name": "Radio Futura",
+          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "Escuela de Calor",
+      "url": "https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88"
     },
     {
       "added_at": "2025-10-02 22:01:27",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-10-02 22:01:27",
       "album": {
-        "name": "Veneno En La Piel",
-        "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
-      },
-      "artists": [
-        {
-          "name": "Radio Futura",
-          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Veneno en la Piel",
-      "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
-    },
-    {
-      "added_at": "2025-10-02 22:01:27",
-      "album": {
         "name": "Bajo Presi\u00f3n",
         "url": "https://open.spotify.com/album/0UQVnUty5NVhUOH3tKFbSK"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 200367,
       "name": "K\u00e9 M\u00e1s Nos Da",
       "url": "https://open.spotify.com/track/1JurgyjeCTcDyZErghSV0y"
+    },
+    {
+      "added_at": "2025-10-02 22:01:27",
+      "album": {
+        "name": "Veneno En La Piel",
+        "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
+      },
+      "artists": [
+        {
+          "name": "Radio Futura",
+          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Veneno en la Piel",
+      "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
     },
     {
       "added_at": "2025-10-02 22:01:27",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-10-02 22:01:27",
       "album": {
-        "name": "Correos",
-        "url": "https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY"
-      },
-      "artists": [
-        {
-          "name": "Platero Y Tu",
-          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "Cigarrito",
-      "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
-    },
-    {
-      "added_at": "2025-10-02 22:01:27",
-      "album": {
         "name": "Miguel R\u00edos y las estrellas del Rock latino",
         "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 227973,
       "name": "Insurrecci\u00f3n (con Manolo Garc\u00eda)",
       "url": "https://open.spotify.com/track/5JD2HODIglXaNJopWb248t"
+    },
+    {
+      "added_at": "2025-10-02 22:01:27",
+      "album": {
+        "name": "Correos",
+        "url": "https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY"
+      },
+      "artists": [
+        {
+          "name": "Platero Y Tu",
+          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
+        }
+      ],
+      "duration_ms": 236413,
+      "name": "Cigarrito",
+      "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
     },
     {
       "added_at": "2025-10-02 22:01:27",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-10-02 22:01:27",
       "album": {
-        "name": "Nos Vemos En Los Bares",
-        "url": "https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz"
-      },
-      "artists": [
-        {
-          "name": "Celtas Cortos",
-          "url": "https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "20 de abril - En directo 1997",
-      "url": "https://open.spotify.com/track/4bavcis6bApsKI8YkKg3Cx"
-    },
-    {
-      "added_at": "2025-10-02 22:01:27",
-      "album": {
         "name": "El D\u00eda Que T\u00fa Te Marches",
         "url": "https://open.spotify.com/album/2HLsMqrSQzRdPzoi0NzijC"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 208101,
       "name": "El D\u00eda Que T\u00fa Te Marches",
       "url": "https://open.spotify.com/track/5chHtm0x86aE3jxmylJA6z"
+    },
+    {
+      "added_at": "2025-10-02 22:01:27",
+      "album": {
+        "name": "Nos Vemos En Los Bares",
+        "url": "https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz"
+      },
+      "artists": [
+        {
+          "name": "Celtas Cortos",
+          "url": "https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "20 de abril - En directo 1997",
+      "url": "https://open.spotify.com/track/4bavcis6bApsKI8YkKg3Cx"
     },
     {
       "added_at": "2025-10-02 22:01:27",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2025-10-02 22:01:27",
       "album": {
-        "name": "Esencial Estopa",
-        "url": "https://open.spotify.com/album/6aYbP8x2bbGRP8Zd0XH4CK"
-      },
-      "artists": [
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        }
-      ],
-      "duration_ms": 203213,
-      "name": "Como Camar\u00f3n",
-      "url": "https://open.spotify.com/track/3fpS8r0JsVTkCOLnq49lH6"
-    },
-    {
-      "added_at": "2025-10-02 22:01:27",
-      "album": {
         "name": "Na de na",
         "url": "https://open.spotify.com/album/4pwghDb60CKHA3YfzyRUlt"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 227992,
       "name": "Na de na",
       "url": "https://open.spotify.com/track/56PFYKe401t0ZzmtD9Ev36"
+    },
+    {
+      "added_at": "2025-10-02 22:01:27",
+      "album": {
+        "name": "Esencial Estopa",
+        "url": "https://open.spotify.com/album/6aYbP8x2bbGRP8Zd0XH4CK"
+      },
+      "artists": [
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "duration_ms": 203213,
+      "name": "Como Camar\u00f3n",
+      "url": "https://open.spotify.com/track/3fpS8r0JsVTkCOLnq49lH6"
     },
     {
       "added_at": "2025-10-02 22:01:27",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2025-10-02 22:01:27",
       "album": {
+        "name": "Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
+      },
+      "artists": [
+        {
+          "name": "Pereza",
+          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
+        }
+      ],
+      "duration_ms": 173226,
+      "name": "Pienso en Aquella Tarde",
+      "url": "https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37"
+    },
+    {
+      "added_at": "2025-10-02 22:01:27",
+      "album": {
         "name": "10 Minutos (25 Aniversario)",
         "url": "https://open.spotify.com/album/0rGZNA5XTX7nxAxDfTiaBO"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 257023,
       "name": "10 Minutos - 25 Aniversario",
       "url": "https://open.spotify.com/track/6QRdgGh1GicCA7VEqwF33g"
-    },
-    {
-      "added_at": "2025-10-02 22:01:27",
-      "album": {
-        "name": "Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
-      },
-      "artists": [
-        {
-          "name": "Pereza",
-          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
-        }
-      ],
-      "duration_ms": 173226,
-      "name": "Pienso en Aquella Tarde",
-      "url": "https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37"
     },
     {
       "added_at": "2025-10-02 22:01:27",

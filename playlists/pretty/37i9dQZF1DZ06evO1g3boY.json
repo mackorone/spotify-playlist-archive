@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 173270,
+  "num_followers": 173269,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAABpPH0jrl0+AIuQJlqdVAZR",
+  "snapshot_id": "aOBjgAAAAADQ8apCr8FMT/Et1LBlToWl",
   "tracks": [
     {
       "added_at": null,
@@ -255,26 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Casas",
-        "url": "https://open.spotify.com/album/37svAARdwTp6vApCWBwoec"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 294049,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/4pkcufYBrwhYMi5mZ8276B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AmarElo",
         "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 249000,
       "name": "Quem Tem Um Amigo (Tem Tudo) (feat. Zeca Pagodinho & Tokyo Ska Paradise Orchestra)",
       "url": "https://open.spotify.com/track/4yEBOuDHhrFeGXyXNJ3C4y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Casas",
+        "url": "https://open.spotify.com/album/37svAARdwTp6vApCWBwoec"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 294049,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/4pkcufYBrwhYMi5mZ8276B"
     },
     {
       "added_at": null,
@@ -343,6 +343,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "AmarElo",
+        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 320800,
+      "name": "AmarElo (Sample: Sujeito de Sorte - Belchior)",
+      "url": "https://open.spotify.com/track/5p3LIyy38s0QQNoSTwbZXX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Mundo D\u00e1 Voltas",
         "url": "https://open.spotify.com/album/4pzQgSjcmHASfBc1lnTFjp"
       },
@@ -367,30 +391,6 @@
       "duration_ms": 342928,
       "name": "A Laje",
       "url": "https://open.spotify.com/track/0MsX3PcYtQCNqzsAsOFv3f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AmarElo",
-        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Majur",
-          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 320800,
-      "name": "AmarElo (Sample: Sujeito de Sorte - Belchior)",
-      "url": "https://open.spotify.com/track/5p3LIyy38s0QQNoSTwbZXX"
     },
     {
       "added_at": null,
@@ -435,26 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emicidio",
-        "url": "https://open.spotify.com/album/1xTiVYWuLx7GkZN9NLRVEs"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Cohen",
-          "url": "https://open.spotify.com/artist/6YANUKWAHOVnWhG0wnvm2M"
-        }
-      ],
-      "duration_ms": 197746,
-      "name": "Eu Gosto Dela",
-      "url": "https://open.spotify.com/track/5yqbISO0lUFwY3wdrLgiR0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AmarElo",
         "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
       },
@@ -483,22 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa\u00eds do Futebol",
-        "url": "https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009"
+        "name": "Emicidio",
+        "url": "https://open.spotify.com/album/1xTiVYWuLx7GkZN9NLRVEs"
       },
       "artists": [
         {
-          "name": "MC Guime",
-          "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
-        },
-        {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Cohen",
+          "url": "https://open.spotify.com/artist/6YANUKWAHOVnWhG0wnvm2M"
         }
       ],
-      "duration_ms": 149002,
-      "name": "Pa\u00eds do Futebol",
-      "url": "https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD"
+      "duration_ms": 197746,
+      "name": "Eu Gosto Dela",
+      "url": "https://open.spotify.com/track/5yqbISO0lUFwY3wdrLgiR0"
     },
     {
       "added_at": null,
@@ -519,6 +499,26 @@
       "duration_ms": 237120,
       "name": "Seu Jogo",
       "url": "https://open.spotify.com/track/7eCfwimC5tQcGIEd4BkX5Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa\u00eds do Futebol",
+        "url": "https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009"
+      },
+      "artists": [
+        {
+          "name": "MC Guime",
+          "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 149002,
+      "name": "Pa\u00eds do Futebol",
+      "url": "https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Amor \u00c9 Tudo de Bom",
-        "url": "https://open.spotify.com/album/4Id5nvGsp6yQhkoSxCcauN"
-      },
-      "artists": [
-        {
-          "name": "Mundo Bita",
-          "url": "https://open.spotify.com/artist/47iSWoNrLjnWCWesR14gL2"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "O Amor \u00c9 Tudo de Bom",
-      "url": "https://open.spotify.com/track/6FgOPZIzN8J8Cssm1U5FlG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock In Rio (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 249373,
       "name": "O Pequeno Burgu\u00eas/ Canta Canta Minha Gente - Ao Vivo",
       "url": "https://open.spotify.com/track/6EVlrirhIuJd7uMJ0FlbEs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Amor \u00c9 Tudo de Bom",
+        "url": "https://open.spotify.com/album/4Id5nvGsp6yQhkoSxCcauN"
+      },
+      "artists": [
+        {
+          "name": "Mundo Bita",
+          "url": "https://open.spotify.com/artist/47iSWoNrLjnWCWesR14gL2"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "O Amor \u00c9 Tudo de Bom",
+      "url": "https://open.spotify.com/track/6FgOPZIzN8J8Cssm1U5FlG"
     },
     {
       "added_at": null,
@@ -1015,30 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AmarElo - Ao Vivo",
-        "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Majur",
-          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 338250,
-      "name": "AmarElo (Sample: Sujeito de Sorte - Belchior) - Ao Vivo",
-      "url": "https://open.spotify.com/track/7EMNOr4AZYSpSSkc8pGtzI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quintal dos Prettos (Ao Vivo)",
         "url": "https://open.spotify.com/album/1Y79dwPc0O5P5nIERR6Pmv"
       },
@@ -1083,6 +1059,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "AmarElo - Ao Vivo",
+        "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 338250,
+      "name": "AmarElo (Sample: Sujeito de Sorte - Belchior) - Ao Vivo",
+      "url": "https://open.spotify.com/track/7EMNOr4AZYSpSSkc8pGtzI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quintal",
         "url": "https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW"
       },
@@ -1119,6 +1119,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
+      },
+      "artists": [
+        {
+          "name": "Planet Hemp",
+          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 246904,
+      "name": "NUNCA TENHA MEDO RMX - Ao Vivo",
+      "url": "https://open.spotify.com/track/3CSNLfuxKXmJDlw916US3j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AmarElo - Ao Vivo",
         "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
       },
@@ -1135,42 +1159,6 @@
       "duration_ms": 305213,
       "name": "9nha / Eu Gosto Dela - Ao Vivo",
       "url": "https://open.spotify.com/track/5OR3l3lAJBgkQb0viiYjKJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dai a Cesar o Que \u00c9 de Cesar",
-        "url": "https://open.spotify.com/album/43KSg1Gi3ZV3NBsUAnH2jH"
-      },
-      "artists": [
-        {
-          "name": "Cesar Mc",
-          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Tibery",
-          "url": "https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01"
-        },
-        {
-          "name": "Felipe Artioli",
-          "url": "https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w"
-        },
-        {
-          "name": "NAVE",
-          "url": "https://open.spotify.com/artist/3nCDhz6532rbB6v01BL5Zo"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Antes Que a Bala Perdida Me Ache",
-      "url": "https://open.spotify.com/track/39VxVw1CRvQrtQLTErDiEV"
     }
   ],
   "unique_name": "This Is Emicida",

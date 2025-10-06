@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 05 Oct 22:05 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 05 Oct 18:05 UTC.
 
-5,616 songs - 13 day 0 hr 54 min
+5,617 songs - 13 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3452,7 +3452,7 @@
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-05 | 2024-05-09 |
 | [Not Linear](https://open.spotify.com/track/1X65qVpOjYsy2OSluTVpCo) | [Subsonic Eye](https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie) | [Not Linear](https://open.spotify.com/album/2x7CDxnBDVenYcLBUeCiwA) | 4:28 | 2024-08-26 | 2024-08-30 |
 | [NOT MY FUCKIN' PROBLEM](https://open.spotify.com/track/2JcAdkkmvKSTYtnc1eWaM3) | [KILL KARL](https://open.spotify.com/artist/6EkKa58rGJ5799EpRA1Kjy) | [NOT MY FUCKIN' PROBLEM](https://open.spotify.com/album/3bfcByfMG24ikfYBTSxos2) | 2:32 | 2025-05-17 | 2025-05-24 |
-| [NOT OK](https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [NOT OK](https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm) | 3:26 | 2025-09-24 |  |
+| [NOT OK](https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [NOT OK](https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm) | 3:26 | 2025-09-24 | 2025-10-06 |
 | [Not Regular](https://open.spotify.com/track/7nrB7FTJ9TjWXrGXgF9XpG) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [Not Regular](https://open.spotify.com/album/1xbqROaZYQX11Y9w4R0DGF) | 2:12 | 2025-04-20 | 2025-04-26 |
 | [Not What You Think](https://open.spotify.com/track/3EPWQOyuyCBi23OpIL6NDt) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Not What You Think](https://open.spotify.com/album/2XBOWKsjWM9TF3d19mzGzq) | 3:30 | 2025-01-28 | 2025-02-03 |
 | [Not You](https://open.spotify.com/track/7tmVdRsFuKhJJ9cNgOUAdY) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Not You](https://open.spotify.com/album/14B3wqQbe2YsbCn43EDI44) | 2:43 | 2024-10-04 | 2024-10-10 |
@@ -4593,6 +4593,7 @@
 | [SUPERPOWER](https://open.spotify.com/track/3kfQuU6FXW4OXHIHjuups7) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky), [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [SUPERPOWER](https://open.spotify.com/album/5uCFinoHAfvh3RM5UuBhZ6) | 3:02 | 2024-07-24 | 2024-07-27 |
 | [Supersad](https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Supersad](https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA) | 2:50 | 2024-06-20 | 2024-06-22 |
 | [Supersonic](https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Supersonic](https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi) | 2:54 | 2024-08-12 | 2024-08-16 |
+| [superstar](https://open.spotify.com/track/4hFt3Ht6b9OLsesqx51aq1) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [superstar](https://open.spotify.com/album/2r7vK3RnYfofnAkMruYhSI) | 2:49 | 2025-10-05 |  |
 | [Superstar](https://open.spotify.com/track/24dCUervPkm3G8qqv50CWv) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Superstar](https://open.spotify.com/album/7HzSQEYUcBxyZyASryOgCf) | 4:02 | 2024-07-23 | 2024-07-27 |
 | [superstitious](https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [superstitious / falling in love](https://open.spotify.com/album/1WevIdYWogV9E4pZcXdoel) | 3:07 | 2025-05-20 | 2025-05-24 |
 | [Supreme Ruler](https://open.spotify.com/track/55QDYIACL3Ze1gWBjVBUXz) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [Supreme Ruler](https://open.spotify.com/album/0nj0wMbDj49fBooNKFN5po) | 0:54 | 2024-08-09 | 2024-08-14 |

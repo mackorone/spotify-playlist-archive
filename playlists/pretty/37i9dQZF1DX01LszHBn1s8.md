@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > gonna be, gonna be 💛⭐️👑⚜️ golden ⚜️👑⭐️💛
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,011 likes - 129 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,039 likes - 129 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

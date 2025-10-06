@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 05 Oct 22:05 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 05 Oct 18:05 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -65784,7 +65784,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 206040,
       "name": "NOT OK",
       "url": "https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f"
@@ -87584,6 +87584,24 @@
       "duration_ms": 174146,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v"
+    },
+    {
+      "album": {
+        "name": "superstar",
+        "url": "https://open.spotify.com/album/2r7vK3RnYfofnAkMruYhSI"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169361,
+      "name": "superstar",
+      "url": "https://open.spotify.com/track/4hFt3Ht6b9OLsesqx51aq1"
     },
     {
       "album": {

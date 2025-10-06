@@ -1,12 +1,12 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 22052,
+  "num_followers": 22055,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHtIp75UiDiVWigHBlnJQqVIN+LS",
+  "snapshot_id": "AAAAAFNcPv7QeUxrNYFwGzBYMXwu42Zm",
   "tracks": [
     {
       "added_at": "2025-09-19 22:28:24",
@@ -319,6 +319,22 @@
     {
       "added_at": "2025-09-19 22:28:24",
       "album": {
+        "name": "Un Afrito",
+        "url": "https://open.spotify.com/album/4Gpxahsskuc5R2nj1Wqft7"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "Un Afrito",
+      "url": "https://open.spotify.com/track/213EYsG3x95vtxupDU1XMc"
+    },
+    {
+      "added_at": "2025-09-19 22:28:24",
+      "album": {
         "name": "MAIOR QUE O TEMPO",
         "url": "https://open.spotify.com/album/3Cjn6aliQrVp6MPiU4oAdw"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 228349,
       "name": "MULHER SECRETA",
       "url": "https://open.spotify.com/track/7IrWDPYP9rwNq1N4aUF3nG"
-    },
-    {
-      "added_at": "2025-09-19 22:28:24",
-      "album": {
-        "name": "Un Afrito",
-        "url": "https://open.spotify.com/album/4Gpxahsskuc5R2nj1Wqft7"
-      },
-      "artists": [
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "Un Afrito",
-      "url": "https://open.spotify.com/track/213EYsG3x95vtxupDU1XMc"
     },
     {
       "added_at": "2025-09-19 22:28:24",

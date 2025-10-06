@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Jaz Karis & Joshua Baraka
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,295 likes - 84 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,305 likes - 84 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Young Scooter. The essential tracks, all in one playlist.",
-  "num_followers": 4491,
+  "num_followers": 4492,
   "original_name": "This Is Young Scooter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAAC1F5B/OR9wETFxavzUl4fh",
+  "snapshot_id": "aOBjgAAAAACSIHLl3KIaZMERcOPh0MQh",
   "tracks": [
     {
       "added_at": null,
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trippple Cross",
-        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 233725,
-      "name": "Do It Big (feat. Future)",
-      "url": "https://open.spotify.com/track/4WogORkwFHHvXGQLmLMwnB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Columbia Remix",
         "url": "https://open.spotify.com/album/1pk75KjlNX0OPNslAAoGZQ"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 310733,
       "name": "Columbia Remix (Dirty)",
       "url": "https://open.spotify.com/track/7in3GxNPphXDq1Mcm586el"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trippple Cross",
+        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 233725,
+      "name": "Do It Big (feat. Future)",
+      "url": "https://open.spotify.com/track/4WogORkwFHHvXGQLmLMwnB"
     },
     {
       "added_at": null,
@@ -647,6 +647,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trap God 2",
+        "url": "https://open.spotify.com/album/327qRhLMXOOwsx3IXxZZxM"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 184613,
+      "name": "Big Guwap (feat. Young Scooter)",
+      "url": "https://open.spotify.com/track/66szIKCdNwvZ9lY4j8t1kO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trippple Cross",
         "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 250965,
       "name": "Bread Crumbs (feat. Young Thug & Vl Deck)",
       "url": "https://open.spotify.com/track/757H5Tyiq1KGm3gzMvbidd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trap God 2",
-        "url": "https://open.spotify.com/album/327qRhLMXOOwsx3IXxZZxM"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 184613,
-      "name": "Big Guwap (feat. Young Scooter)",
-      "url": "https://open.spotify.com/track/66szIKCdNwvZ9lY4j8t1kO"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Street Lottery 3",
-        "url": "https://open.spotify.com/album/4qh11vmlKBV7PaWDI9vPpF"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 154463,
-      "name": "Doin Numbers",
-      "url": "https://open.spotify.com/track/0TaphaE3VkrM9uVLfwYJCV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zaystreet",
         "url": "https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf"
       },
@@ -827,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Street Lottery 3",
+        "url": "https://open.spotify.com/album/4qh11vmlKBV7PaWDI9vPpF"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 154463,
+      "name": "Doin Numbers",
+      "url": "https://open.spotify.com/track/0TaphaE3VkrM9uVLfwYJCV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Pledge Allegiance to the Trap, Vol. 5",
         "url": "https://open.spotify.com/album/093j7UenxRyQ27vrlZrJ6d"
       },
@@ -843,22 +843,6 @@
       "duration_ms": 185077,
       "name": "Imma Ball Forever",
       "url": "https://open.spotify.com/track/5heBkfjqYt14ah0pFbBEYg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Street Lottery 3",
-        "url": "https://open.spotify.com/album/4qh11vmlKBV7PaWDI9vPpF"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 220448,
-      "name": "True Story",
-      "url": "https://open.spotify.com/track/1xID1flNH2PurcvgPbhdRY"
     },
     {
       "added_at": null,
@@ -903,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Street Lottery 3",
+        "url": "https://open.spotify.com/album/4qh11vmlKBV7PaWDI9vPpF"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 220448,
+      "name": "True Story",
+      "url": "https://open.spotify.com/track/1xID1flNH2PurcvgPbhdRY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zaystreet",
         "url": "https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf"
       },
@@ -927,18 +927,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Street Lottery 3",
-        "url": "https://open.spotify.com/album/4qh11vmlKBV7PaWDI9vPpF"
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7"
       },
       "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
         {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         }
       ],
-      "duration_ms": 187325,
-      "name": "Real",
-      "url": "https://open.spotify.com/track/4pfCylKzBa9dz0HHFVdXzi"
+      "duration_ms": 238720,
+      "name": "How Can I Not (feat. Young Scooter)",
+      "url": "https://open.spotify.com/track/3LRdrJky4qhRp8HiyY9mWL"
     },
     {
       "added_at": null,
@@ -963,22 +967,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7"
+        "name": "Street Lottery 3",
+        "url": "https://open.spotify.com/album/4qh11vmlKBV7PaWDI9vPpF"
       },
       "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
         {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         }
       ],
-      "duration_ms": 238720,
-      "name": "How Can I Not (feat. Young Scooter)",
-      "url": "https://open.spotify.com/track/3LRdrJky4qhRp8HiyY9mWL"
+      "duration_ms": 187325,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/4pfCylKzBa9dz0HHFVdXzi"
     },
     {
       "added_at": null,
@@ -1003,18 +1003,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Street Lottery 3",
-        "url": "https://open.spotify.com/album/4qh11vmlKBV7PaWDI9vPpF"
+        "name": "Trippple Cross",
+        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
       },
       "artists": [
         {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 194143,
-      "name": "For My Hutlers",
-      "url": "https://open.spotify.com/track/5rNSTZgFHGCe69wlUXMZMF"
+      "duration_ms": 267867,
+      "name": "Both Sides (feat. Future & Young Thug)",
+      "url": "https://open.spotify.com/track/1Gp7ozmDtFfr43EcoeH65k"
     }
   ],
   "unique_name": "This Is Young Scooter",

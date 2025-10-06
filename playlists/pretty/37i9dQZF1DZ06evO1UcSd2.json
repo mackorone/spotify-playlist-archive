@@ -1,12 +1,12 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 74682,
+  "num_followers": 74686,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAADvgCVtChkbDXDgk4JV9Dz7",
+  "snapshot_id": "aOBjgAAAAABcWOkiGjzVtLqSMJlYQr4y",
   "tracks": [
     {
       "added_at": null,
@@ -702,11 +702,15 @@
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 175090,
-      "name": "24/7 Dolido",
-      "url": "https://open.spotify.com/track/6SOEnAfMK7T4rzW3dsHrLk"
+      "duration_ms": 168546,
+      "name": "Estrenando Amante",
+      "url": "https://open.spotify.com/track/5K32FWmw4y9GQg6IgK1INe"
     },
     {
       "added_at": null,
@@ -774,15 +778,11 @@
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 168546,
-      "name": "Estrenando Amante",
-      "url": "https://open.spotify.com/track/5K32FWmw4y9GQg6IgK1INe"
+      "duration_ms": 175090,
+      "name": "24/7 Dolido",
+      "url": "https://open.spotify.com/track/6SOEnAfMK7T4rzW3dsHrLk"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Tu Jalas Yo Jalo",
-        "url": "https://open.spotify.com/album/4zrsMyqaFttELssgAZNfNa"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 174615,
-      "name": "Si Tu Jalas Yo Jalo",
-      "url": "https://open.spotify.com/track/75abYDt8Lcik0jvf2JNFbo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jalando la Banda y el Tololoche",
         "url": "https://open.spotify.com/album/4LMSBwGqafnGVhYaX73lCF"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 200000,
       "name": "Cuando Nino (feat. Lenin Ramirez - Banda",
       "url": "https://open.spotify.com/track/2HbTiBBBEMaQHTGWkniY5h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si Tu Jalas Yo Jalo",
+        "url": "https://open.spotify.com/album/4zrsMyqaFttELssgAZNfNa"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 174615,
+      "name": "Si Tu Jalas Yo Jalo",
+      "url": "https://open.spotify.com/track/75abYDt8Lcik0jvf2JNFbo"
     },
     {
       "added_at": null,

@@ -1,13 +1,65 @@
 {
-  "description": "A little bit of pop, a little bit of rap, a little bit of country? Cover: CORTIS",
-  "num_followers": 221918,
+  "description": "A little bit of pop, a little bit of rap, a little bit of country? Cover: Lil Peep",
+  "num_followers": 221941,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGR719Qbs4Y9nW/kaacE78Vuijd6",
+  "snapshot_id": "AAAAAEIIvX/9VPYdgizlBckfReOxEro5",
   "tracks": [
+    {
+      "added_at": "2025-08-18 15:34:28",
+      "album": {
+        "name": "downtown",
+        "url": "https://open.spotify.com/album/1oaHlsVVHDlbcxYTtoFB56"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "duration_ms": 121866,
+      "name": "downtown",
+      "url": "https://open.spotify.com/track/6Ur4ZVoemg8EI6WT7aHBWk"
+    },
+    {
+      "added_at": "2025-10-05 23:23:09",
+      "album": {
+        "name": "LIFE'S A TRIP",
+        "url": "https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 176874,
+      "name": "Wish (feat. Trippie Redd) - Trippie Mix",
+      "url": "https://open.spotify.com/track/0c0YHn3DIQLl1opsQDd9kO"
+    },
+    {
+      "added_at": "2025-10-05 23:23:09",
+      "album": {
+        "name": "gigolo",
+        "url": "https://open.spotify.com/album/58Xf2l1m7iWhfwoRjx75C0"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 118461,
+      "name": "gigolo",
+      "url": "https://open.spotify.com/track/6DYul32gElizGgTrtRYrNY"
+    },
     {
       "added_at": "2025-09-12 04:03:27",
       "album": {
@@ -25,20 +77,20 @@
       "url": "https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz"
     },
     {
-      "added_at": "2025-08-18 15:34:28",
+      "added_at": "2025-10-05 23:23:09",
       "album": {
-        "name": "downtown",
-        "url": "https://open.spotify.com/album/1oaHlsVVHDlbcxYTtoFB56"
+        "name": "NIGHTLIFE",
+        "url": "https://open.spotify.com/album/2U9CC3sQ5uP9BYb4HNyL2D"
       },
       "artists": [
         {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+          "name": "ilyaugust",
+          "url": "https://open.spotify.com/artist/1LtlO7x7J1OCaUVKRBub5v"
         }
       ],
-      "duration_ms": 121866,
-      "name": "downtown",
-      "url": "https://open.spotify.com/track/6Ur4ZVoemg8EI6WT7aHBWk"
+      "duration_ms": 133632,
+      "name": "NIGHTLIFE",
+      "url": "https://open.spotify.com/track/6sP4EXsBMPbQlhuw28eQEq"
     },
     {
       "added_at": "2025-09-15 22:12:54",
@@ -81,6 +133,22 @@
       "url": "https://open.spotify.com/track/5ppdmIeHPG2qLHm0SsmqfB"
     },
     {
+      "added_at": "2025-10-05 23:23:09",
+      "album": {
+        "name": "Yes Daddy",
+        "url": "https://open.spotify.com/album/0ZzvD6KLI1sq2DutkD0n1g"
+      },
+      "artists": [
+        {
+          "name": "Bryce Savage",
+          "url": "https://open.spotify.com/artist/3BKu8LEdOvfIVWXZlmJAGI"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Yes Daddy",
+      "url": "https://open.spotify.com/track/5NVH0o05dCAomhZXjdlpCc"
+    },
+    {
       "added_at": "2025-09-15 22:12:54",
       "album": {
         "name": "DOG HOUSE",
@@ -121,6 +189,22 @@
       "url": "https://open.spotify.com/track/15KkQmwZhilaeahH0TYdeS"
     },
     {
+      "added_at": "2025-10-05 23:23:09",
+      "album": {
+        "name": "age tape 15",
+        "url": "https://open.spotify.com/album/6f1PdnnTYTkxqTw44BWwJA"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "high like you",
+      "url": "https://open.spotify.com/track/1dOvjgCSZdmJu1upMs994P"
+    },
+    {
       "added_at": "2025-08-05 21:56:51",
       "album": {
         "name": "THINKIN BOUT YOU",
@@ -153,24 +237,20 @@
       "url": "https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb"
     },
     {
-      "added_at": "2025-08-22 18:20:48",
+      "added_at": "2025-10-05 23:23:09",
       "album": {
-        "name": "What You Want (feat. Teezo Touchdown)",
-        "url": "https://open.spotify.com/album/0YoNZBlXu7clpO3QcBrldX"
+        "name": "put it on me",
+        "url": "https://open.spotify.com/album/7ISjczr1BMdAZrrMkxnjhz"
       },
       "artists": [
         {
-          "name": "CORTIS",
-          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
-        },
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
         }
       ],
-      "duration_ms": 194093,
-      "name": "What You Want (feat. Teezo Touchdown)",
-      "url": "https://open.spotify.com/track/1pFQRreMptp3dkh64WiUNx"
+      "duration_ms": 131061,
+      "name": "put it on me",
+      "url": "https://open.spotify.com/track/3WSGp3kqtSEbVKLzCWvGGQ"
     },
     {
       "added_at": "2025-06-20 04:00:35",
@@ -877,22 +957,6 @@
       "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
     },
     {
-      "added_at": "2025-04-29 15:38:07",
-      "album": {
-        "name": "WTHELLY",
-        "url": "https://open.spotify.com/album/44r6QyfbQubhNAIW18wfKg"
-      },
-      "artists": [
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
-        }
-      ],
-      "duration_ms": 137666,
-      "name": "WTHELLY",
-      "url": "https://open.spotify.com/track/03gyVoP8A8A3mdcGMxcHqD"
-    },
-    {
       "added_at": "2025-06-20 04:00:35",
       "album": {
         "name": "Levon James",
@@ -907,22 +971,6 @@
       "duration_ms": 196179,
       "name": "Took Her To The O",
       "url": "https://open.spotify.com/track/7fEoXCZTZFosUFvFQg1BmW"
-    },
-    {
-      "added_at": "2025-05-02 04:00:39",
-      "album": {
-        "name": "boom",
-        "url": "https://open.spotify.com/album/2F9Hj91XXDt5FRvJyyLG6X"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "boom",
-      "url": "https://open.spotify.com/track/6zhyXTuRkMSabSHvmMchpp"
     },
     {
       "added_at": "2025-05-16 04:00:11",
@@ -961,38 +1009,6 @@
       "url": "https://open.spotify.com/track/2UvJGqD2wNzCfOHrUsm2Pu"
     },
     {
-      "added_at": "2025-05-16 04:00:11",
-      "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/6jrUbwWMJR8APSS7D1iHq9"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/601m47xXoC3TFJuyEQ80VZ"
-    },
-    {
-      "added_at": "2025-04-29 15:38:07",
-      "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 241023,
-      "name": "NOKIA",
-      "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
-    },
-    {
       "added_at": "2025-04-29 15:38:07",
       "album": {
         "name": "Blue Strips",
@@ -1027,22 +1043,6 @@
       "duration_ms": 240437,
       "name": "Lucid Dreams (feat. Lil Uzi Vert) - Remix",
       "url": "https://open.spotify.com/track/1jKlRcH7X78ps1yKBTWyUV"
-    },
-    {
-      "added_at": "2024-05-31 16:56:00",
-      "album": {
-        "name": "Fall Back / Selfish Game",
-        "url": "https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR"
-      },
-      "artists": [
-        {
-          "name": "Lithe",
-          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
-        }
-      ],
-      "duration_ms": 129522,
-      "name": "Fall Back",
-      "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
     }
   ],
   "unique_name": "Varsity Bars",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAADrbBdksR44JE8I7VWi1sN6",
+  "snapshot_id": "aOBjgAAAAABVNntlmDGl0yUw8kHcT0lE",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Age Of Worry",
+        "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 167186,
+      "name": "The Age Of Worry",
+      "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lucius",
         "url": "https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 273150,
       "name": "Plain Letters - Reimagined",
       "url": "https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Age Of Worry",
-        "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 167186,
-      "name": "The Age Of Worry",
-      "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
     },
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Golden Heart Protector",
-        "url": "https://open.spotify.com/album/0jxAojVGsPyWPz9F1JjjAn"
-      },
-      "artists": [
-        {
-          "name": "Margaret Glaspy",
-          "url": "https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 220622,
-      "name": "The Book Of Love (with Madison Cunningham)",
-      "url": "https://open.spotify.com/track/5d5SB3s3ksk34OIDb4EoaW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Send My Regards",
         "url": "https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 247893,
       "name": "Send My Regards",
       "url": "https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Golden Heart Protector",
+        "url": "https://open.spotify.com/album/0jxAojVGsPyWPz9F1JjjAn"
+      },
+      "artists": [
+        {
+          "name": "Margaret Glaspy",
+          "url": "https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 220622,
+      "name": "The Book Of Love (with Madison Cunningham)",
+      "url": "https://open.spotify.com/track/5d5SB3s3ksk34OIDb4EoaW"
     },
     {
       "added_at": null,
@@ -855,6 +855,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Song Forlorn",
+        "url": "https://open.spotify.com/album/74eNC4a0hUjaNd1jdFENCR"
+      },
+      "artists": [
+        {
+          "name": "SunYears",
+          "url": "https://open.spotify.com/artist/2IGFUA97ITAteBRDy2kG18"
+        },
+        {
+          "name": "Peter Mor\u00e9n",
+          "url": "https://open.spotify.com/artist/4z0MZkwGvdcoQqcA47Wx4O"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 435480,
+      "name": "The Song Forlorn",
+      "url": "https://open.spotify.com/track/6tv9CT6ii9F02TH9H3VKqp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For The Sake Of The Rhyme",
         "url": "https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR"
       },
@@ -883,30 +907,6 @@
       "duration_ms": 239120,
       "name": "I Close My Eyes",
       "url": "https://open.spotify.com/track/4MzNLzhD7I4xXcdGCKCAty"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Song Forlorn",
-        "url": "https://open.spotify.com/album/74eNC4a0hUjaNd1jdFENCR"
-      },
-      "artists": [
-        {
-          "name": "SunYears",
-          "url": "https://open.spotify.com/artist/2IGFUA97ITAteBRDy2kG18"
-        },
-        {
-          "name": "Peter Mor\u00e9n",
-          "url": "https://open.spotify.com/artist/4z0MZkwGvdcoQqcA47Wx4O"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 435480,
-      "name": "The Song Forlorn",
-      "url": "https://open.spotify.com/track/6tv9CT6ii9F02TH9H3VKqp"
     }
   ],
   "unique_name": "This Is Madison Cunningham",

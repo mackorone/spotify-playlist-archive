@@ -1,6 +1,6 @@
 {
   "description": "lighters up.",
-  "num_followers": 796577,
+  "num_followers": 796676,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-06-26 02:18:14",
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/2RVZtDdeACKYVXKnmIWH7m"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 240895,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/6LleMnUceskUsmszoOlODl"
+    },
+    {
+      "added_at": "2024-06-26 02:18:14",
+      "album": {
         "name": "Maybe It\u2019s Time (feat. Corey Taylor, Joe Elliott, Brantley Gilbert, Ivan Moody, Slash, AWOLNATION, Tommy Vext)",
         "url": "https://open.spotify.com/album/4ezpBhE0MTqAeuSPxoY4dY"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 254200,
       "name": "Maybe It\u2019s Time (feat. Corey Taylor, Joe Elliott, Brantley Gilbert, Ivan Moody, Slash, AWOLNATION, Tommy Vext)",
       "url": "https://open.spotify.com/track/1rptK1oec3gjHpzzrxHyln"
-    },
-    {
-      "added_at": "2024-06-26 02:18:14",
-      "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/2RVZtDdeACKYVXKnmIWH7m"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 240895,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/6LleMnUceskUsmszoOlODl"
     },
     {
       "added_at": "2024-06-26 02:18:14",

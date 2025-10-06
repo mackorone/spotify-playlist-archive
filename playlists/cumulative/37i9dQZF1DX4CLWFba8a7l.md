@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: BOY SODA
 
-462 songs - 1 day 1 hr 42 min
+463 songs - 1 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [I dropped the bottle](https://open.spotify.com/track/2Q0mGTS4rOEnl8Z0VwSFFc) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [I dropped the bottle](https://open.spotify.com/album/5N6E5nysJ950xzpi0ZqbAL) | 2:41 | 2024-08-30 | 2024-11-22 |
 | [I Get High](https://open.spotify.com/track/3fbmrIE49XTFLEwm5TQUB9) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Get High](https://open.spotify.com/album/6kb7iyiFPdPEAJ59c08P8J) | 4:20 | 2024-05-31 | 2024-09-11 |
 | [I HEART YOU](https://open.spotify.com/track/2KulZwrv0Wg8OSiKIfvaMu) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [4AM \(LA LA LA\)](https://open.spotify.com/album/1TYlqFHeXpIOaLSdnu8Kji) | 2:52 | 2025-03-04 | 2025-04-18 |
+| [I OUGHTA KNOW BETTER](https://open.spotify.com/track/5xRHTbZPkWHV9seGljMKYw) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [I OUGHTA KNOW BETTER](https://open.spotify.com/album/4gtI5sbgbNJgLQ6nSsYYKt) | 3:26 | 2025-10-02 |  |
 | [i want the light to swallow me whole](https://open.spotify.com/track/6eOX4hlAQymOc3LV14L3nj) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [i want the light to swallow me whole](https://open.spotify.com/album/0nKnzpsT7uW5CtdqUXQ2i3) | 3:38 | 2025-09-01 | 2025-09-05 |
 | [I Wish I Never Loved You](https://open.spotify.com/track/349kMKxDtv5bkXPoWQTi4S) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [I Wish I Never Loved You](https://open.spotify.com/album/51JOrvXnoXJHBNBgHlntJA) | 3:43 | 2024-08-01 | 2024-11-05 |
 | [Ice Cream](https://open.spotify.com/track/7aVlNa4f1VxG6D1gEEQ6CY) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Ice Cream](https://open.spotify.com/album/20cPAOECyiHnN342S6Q56L) | 2:19 | 2025-01-16 | 2025-03-08 |
@@ -253,7 +254,7 @@
 | [Meant to Be](https://open.spotify.com/track/0pXt0UdacoAg0eYHvPukXF) | [Jack J](https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl), [© Linda Fox](https://open.spotify.com/artist/2DOGDrGDmfURr17vp3FYkJ) | [Meant to Be](https://open.spotify.com/album/7owhzox0MmtVOr95H3jYRR) | 4:33 | 2025-07-24 | 2025-08-01 |
 | [Meant To Be](https://open.spotify.com/track/3pngSkv9Q6PhzKZttKmCqc) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Zorb](https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz) | 2:28 | 2024-08-22 | 2025-09-05 |
 | [Meant2Be](https://open.spotify.com/track/4j0HS3mAX0axh6k0NJU3MU) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL), [Rino](https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s) | [Meant2Be](https://open.spotify.com/album/4RWcbaUc2V5ZRpYF6Qq0ls) | 4:32 | 2025-09-01 | 2025-09-05 |
-| [Might Not Be](https://open.spotify.com/track/2k3DRZRm9izXjhCPkxGPee) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant \(Deluxe\)](https://open.spotify.com/album/6dKDh72QTH8hJz3I4WLREI) | 2:25 | 2025-07-17 |  |
+| [Might Not Be](https://open.spotify.com/track/2k3DRZRm9izXjhCPkxGPee) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant \(Deluxe\)](https://open.spotify.com/album/6dKDh72QTH8hJz3I4WLREI) | 2:25 | 2025-07-17 | 2025-10-06 |
 | [Milk & Honey](https://open.spotify.com/track/3FeHLLnTnOvDKuFo46nTKI) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Milk & Honey](https://open.spotify.com/album/2evlCGKSXmun0ByXPY5BY2) | 4:20 | 2025-02-06 | 2025-07-08 |
 | [Minivan](https://open.spotify.com/track/7KMwpBjtxRcUx8inckrkhk) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Minivan](https://open.spotify.com/album/5RQmAO47FfsIBZMvR9rURH) | 4:12 | 2024-05-31 | 2024-08-19 |
 | [Miss You Still](https://open.spotify.com/track/0SarTtshZyZMdLB6KdClab) | [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs), [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Miss You Still](https://open.spotify.com/album/2Ji8E0Cm2RzoJWRNoKTJVt) | 2:30 | 2024-05-31 | 2024-08-16 |

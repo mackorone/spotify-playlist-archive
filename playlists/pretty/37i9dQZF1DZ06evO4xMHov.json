@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 63295,
+  "num_followers": 63291,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAABKFNgaETX6tCK9sNJt4CZP",
+  "snapshot_id": "aOBjgAAAAACUunbV/1ShS8ccACkrtKjT",
   "tracks": [
     {
       "added_at": null,
@@ -171,26 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9s Bem-Vindo \u00e0 Mesa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/46owzmGavoCyP0lvOw2wkG"
-      },
-      "artists": [
-        {
-          "name": "Leo Fonseca",
-          "url": "https://open.spotify.com/artist/34iSGCakITd5m0nZgIjkio"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 538285,
-      "name": "O Que Tua Gl\u00f3ria Fez Comigo - Ao Vivo",
-      "url": "https://open.spotify.com/track/0RFIzKM85VrAcqvISglMvg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Comunh\u00e3o e Adora\u00e7\u00e3o 6 (Ac\u00fastico Ao Vivo)",
         "url": "https://open.spotify.com/album/2Y67rR3nVWYbRgt8pRQpoJ"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 280880,
       "name": "Grande \u00e9 o Senhor - Ac\u00fastico Ao Vivo",
       "url": "https://open.spotify.com/track/1dIah1UaJi3n5pwOaOd5QV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9s Bem-Vindo \u00e0 Mesa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/46owzmGavoCyP0lvOw2wkG"
+      },
+      "artists": [
+        {
+          "name": "Leo Fonseca",
+          "url": "https://open.spotify.com/artist/34iSGCakITd5m0nZgIjkio"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 538285,
+      "name": "O Que Tua Gl\u00f3ria Fez Comigo - Ao Vivo",
+      "url": "https://open.spotify.com/track/0RFIzKM85VrAcqvISglMvg"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reina Sobre Mim",
+        "url": "https://open.spotify.com/album/23nFUCxOBdQu13XZrYDcsL"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 388200,
+      "name": "Reina Sobre Mim",
+      "url": "https://open.spotify.com/track/4pMuGWAkpd9v2aCqdwS3qv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Som da Liberdade 2.0",
         "url": "https://open.spotify.com/album/2bRpKofUSDkDG6Dlwem8Nr"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 305076,
       "name": "Filho do Deus Vivo (feat. N\u00edvea Soares)",
       "url": "https://open.spotify.com/track/4Ksk2JCgHnWxTcrhTC6c99"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reina Sobre Mim",
-        "url": "https://open.spotify.com/album/23nFUCxOBdQu13XZrYDcsL"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 388200,
-      "name": "Reina Sobre Mim",
-      "url": "https://open.spotify.com/track/4pMuGWAkpd9v2aCqdwS3qv"
     },
     {
       "added_at": null,
@@ -1019,22 +1019,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1Ow3OfgV2kNgK3VraTwXIc"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 511929,
-      "name": "Rio - Ao Vivo",
-      "url": "https://open.spotify.com/track/5oOp5pjXZx4n5k3AhYRM4V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gl\u00f3ria E Honra (Ao Vivo)",
         "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 331306,
       "name": "Incompar\u00e1vel - Ao Vivo",
       "url": "https://open.spotify.com/track/2pN3oRT2BJyghB5vsljMuZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1Ow3OfgV2kNgK3VraTwXIc"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 511929,
+      "name": "Rio - Ao Vivo",
+      "url": "https://open.spotify.com/track/5oOp5pjXZx4n5k3AhYRM4V"
     },
     {
       "added_at": null,

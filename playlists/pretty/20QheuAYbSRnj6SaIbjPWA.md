@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 
 > 2021
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 145 songs - 9 hr 45 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 146 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,5 +153,6 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 | 143 | [Free Fallin'](https://open.spotify.com/track/60NdsqyuYa6QSeEJEbHKfP) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Failure](https://open.spotify.com/album/3Fb7UeC7wyXOsoSjAwQdMV) | 4:40 |
 | 144 | [Atomik Lust](https://open.spotify.com/track/5x8DmYi4YYjgXZb6Ngerrl) | [Super Furry Animals](https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ) | [Love Kraft](https://open.spotify.com/album/7tzkUmG3eRbwrQOZFVgmkZ) | 4:53 |
 | 145 | [Instant Crush \(feat\. Julian Casablancas\)](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 5:37 |
+| 146 | [Carlos \(interlude\)](https://open.spotify.com/track/03LSUjL0Rqh2Lpj1rKgsmG) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 2:01 |
 
-Snapshot ID: `AAABCLvP6bW0qwTz2WpYqIaENeyZskOV`
+Snapshot ID: `AAABCUJWuVCm+1wI6AnZeEUN9w2lz935`

@@ -1,12 +1,12 @@
 {
   "description": "This is CKay. The essential tracks, all in one playlist.",
-  "num_followers": 23210,
+  "num_followers": 23213,
   "original_name": "This Is CKay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAACTMub312WKbRbBs/ZT/BI2",
+  "snapshot_id": "aOBjgAAAAACELJE1y7Mj4k5F23jH/BeK",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sanity",
+        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 198344,
+      "name": "Bygone",
+      "url": "https://open.spotify.com/track/1BvdpcGv8qFqO99XWN7ile"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
       },
@@ -259,26 +279,6 @@
       "duration_ms": 137142,
       "name": "HALLELUJAH (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/7q82Rs7vQn8bJcwj8uE0Af"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sanity",
-        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 198344,
-      "name": "Bygone",
-      "url": "https://open.spotify.com/track/1BvdpcGv8qFqO99XWN7ile"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EMOTIONS",
-        "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 172640,
-      "name": "EGWU EJI",
-      "url": "https://open.spotify.com/track/7HeqbuykOPm9DZ965bHhsg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sad Romance",
         "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 305941,
       "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
       "url": "https://open.spotify.com/track/0mGcsaIOK2wL7ECV3BN5XD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EMOTIONS",
+        "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 172640,
+      "name": "EGWU EJI",
+      "url": "https://open.spotify.com/track/7HeqbuykOPm9DZ965bHhsg"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 175615,
-      "name": "permit me",
-      "url": "https://open.spotify.com/track/0UdlBInYiNqclTU4bGm7dN"
+      "duration_ms": 160429,
+      "name": "say no more",
+      "url": "https://open.spotify.com/track/6b6KwJ5Ig1SmOKM9cD3Bem"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 160429,
-      "name": "say no more",
-      "url": "https://open.spotify.com/track/6b6KwJ5Ig1SmOKM9cD3Bem"
+      "duration_ms": 175615,
+      "name": "permit me",
+      "url": "https://open.spotify.com/track/0UdlBInYiNqclTU4bGm7dN"
     },
     {
       "added_at": null,
@@ -775,26 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pace",
-        "url": "https://open.spotify.com/album/1uCiEjIJMG143YJoPwQ8yI"
+        "name": "Wayeh (feat. CKay) [Remix]",
+        "url": "https://open.spotify.com/album/3heqtgQOgtvpVvTQomcBAo"
       },
       "artists": [
         {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+          "name": "THEODORT",
+          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
         },
         {
           "name": "CKay",
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 178048,
-      "name": "Obianuju",
-      "url": "https://open.spotify.com/track/2zFg0GwpMzDaob8vfmOm7y"
+      "duration_ms": 150557,
+      "name": "Wayeh (feat. CKay) - Remix",
+      "url": "https://open.spotify.com/track/4Q0JF3miNPe7vYj3MPQo9t"
     },
     {
       "added_at": null,
@@ -819,22 +815,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wayeh (feat. CKay) [Remix]",
-        "url": "https://open.spotify.com/album/3heqtgQOgtvpVvTQomcBAo"
+        "name": "Pace",
+        "url": "https://open.spotify.com/album/1uCiEjIJMG143YJoPwQ8yI"
       },
       "artists": [
         {
-          "name": "THEODORT",
-          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
         },
         {
           "name": "CKay",
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 150557,
-      "name": "Wayeh (feat. CKay) - Remix",
-      "url": "https://open.spotify.com/track/4Q0JF3miNPe7vYj3MPQo9t"
+      "duration_ms": 178048,
+      "name": "Obianuju",
+      "url": "https://open.spotify.com/track/2zFg0GwpMzDaob8vfmOm7y"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Aimer. The essential tracks, all in one playlist.",
-  "num_followers": 168690,
+  "num_followers": 168706,
   "original_name": "This Is Aimer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAAD0e+V1s4Sh64HzdNvQ+VhB",
+  "snapshot_id": "aOBjgAAAAACjB0gR7lhOPus6w/E9V+Fa",
   "tracks": [
     {
       "added_at": null,
@@ -179,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u671d\u304c\u6765\u308b",
+        "url": "https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 294933,
+      "name": "\u671d\u304c\u6765\u308b",
+      "url": "https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "daydream",
         "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw"
       },
@@ -211,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u671d\u304c\u6765\u308b",
-        "url": "https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 294933,
-      "name": "\u671d\u304c\u6765\u308b",
-      "url": "https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SCOPE",
         "url": "https://open.spotify.com/album/4En3BPOgBrfh5pZgN58fnp"
       },
@@ -239,26 +239,6 @@
       "duration_ms": 175022,
       "name": "SCOPE",
       "url": "https://open.spotify.com/track/3Jo4XDtnSvgky2gC40gEwX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "daydream",
-        "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        },
-        {
-          "name": "Chelly",
-          "url": "https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z"
-        }
-      ],
-      "duration_ms": 261773,
-      "name": "ninelie",
-      "url": "https://open.spotify.com/track/164YLgHJYhqOEYUcAc93Xz"
     },
     {
       "added_at": null,
@@ -279,6 +259,26 @@
       "duration_ms": 232786,
       "name": "\u5730\u7403\u5100",
       "url": "https://open.spotify.com/track/6NffEVuGbmTvIpfSS93aMU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "daydream",
+        "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        },
+        {
+          "name": "Chelly",
+          "url": "https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z"
+        }
+      ],
+      "duration_ms": 261773,
+      "name": "ninelie",
+      "url": "https://open.spotify.com/track/164YLgHJYhqOEYUcAc93Xz"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/5RVfqMRgL4klOhPZwyXlbt"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 235202,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/5syUIljMeRXFhqbrCGrxRH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Genshin Impact - The Road Not Taken (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/5PXwOJuiro3ilsW6Y86cZV"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 150842,
       "name": "The Road Not Taken - Genshin Impact Animated Short \"The Road Not Taken\" Original Soundtrack",
       "url": "https://open.spotify.com/track/13ZiVkjad58eXSASbOFqwB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/5RVfqMRgL4klOhPZwyXlbt"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 235202,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/5syUIljMeRXFhqbrCGrxRH"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleepless Nights",
-        "url": "https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 360480,
-      "name": "\u3042\u306a\u305f\u306b\u51fa\u4f1a\u308f\u306a\u3051\u308c\u3070\uff5e\u590f\u96ea\u51ac\u82b1\uff5e",
-      "url": "https://open.spotify.com/track/76Q4LP5dkZiMVvwLIL1kEc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/7xW2KsTPW5qytt3G9IxEXa"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 292760,
       "name": "After Rain",
       "url": "https://open.spotify.com/track/0mpLgvlW0tztoBGKzfLRNr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sleepless Nights",
+        "url": "https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 360480,
+      "name": "\u3042\u306a\u305f\u306b\u51fa\u4f1a\u308f\u306a\u3051\u308c\u3070\uff5e\u590f\u96ea\u51ac\u82b1\uff5e",
+      "url": "https://open.spotify.com/track/76Q4LP5dkZiMVvwLIL1kEc"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u8776\u3005\u7d50\u3073",
-        "url": "https://open.spotify.com/album/6Sxen65iUIObRklGqP1iTh"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 302960,
-      "name": "\u30bb\u30d7\u30c6\u30f3\u30d0\u30fc\u3055\u3093",
-      "url": "https://open.spotify.com/track/684qXOiHeMagUHN4eto8bv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sun Dance",
         "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 328493,
       "name": "ONE",
       "url": "https://open.spotify.com/track/01jAlHee4psROggfWjk8hp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u8776\u3005\u7d50\u3073",
+        "url": "https://open.spotify.com/album/6Sxen65iUIObRklGqP1iTh"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 302960,
+      "name": "\u30bb\u30d7\u30c6\u30f3\u30d0\u30fc\u3055\u3093",
+      "url": "https://open.spotify.com/track/684qXOiHeMagUHN4eto8bv"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Penny Rain",
-        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 371426,
-      "name": "\u82b1\u306e\u5504",
-      "url": "https://open.spotify.com/track/3oSavJ5fMvJWZyR9zNHMte"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walpurgis",
         "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 285826,
       "name": "STAND-ALONE",
       "url": "https://open.spotify.com/track/4adxfjDov8fxK1vXTVvGfU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Penny Rain",
+        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 371426,
+      "name": "\u82b1\u306e\u5504",
+      "url": "https://open.spotify.com/track/3oSavJ5fMvJWZyR9zNHMte"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Penny Rain",
-        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 343973,
-      "name": "April Showers",
-      "url": "https://open.spotify.com/track/1RYS6fQjK0nSYE8tZO7Aj1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
         "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 281560,
       "name": "Blind to you (Remaster for \u661f\u306e\u6d88\u3048\u305f\u591c\u306b 2022)",
       "url": "https://open.spotify.com/track/3QrRKBM0VEI2aVIW29Fkp2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Penny Rain",
+        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 343973,
+      "name": "April Showers",
+      "url": "https://open.spotify.com/track/1RYS6fQjK0nSYE8tZO7Aj1"
     },
     {
       "added_at": null,

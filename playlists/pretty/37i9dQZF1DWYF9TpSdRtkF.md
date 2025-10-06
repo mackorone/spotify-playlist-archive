@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\.  THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,204 likes - 75 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,208 likes - 75 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 59 | [深紅のパシオン](https://open.spotify.com/track/2cWMgAKxXnZajAfMJrb29N) | [高山紗代子 \(CV.駒形友梨\)](https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS), [豊川風花 \(CV.末柄里恵\)](https://open.spotify.com/artist/5hQQjU2TGeQY6H3Uo9t7Wz), [ジュリア \(CV.愛美\)](https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9), [二階堂千鶴 \(CV.野村香菜子\)](https://open.spotify.com/artist/4zCdHJxNsqIFe1IS0KDDFe) | [THE IDOLM@STER MILLION THE@TER WAVE 15 chicAAmor](https://open.spotify.com/album/2EQQNrat2zwQMfwD67OycQ) | 4:25 |
 | 60 | [Marionetteは眠らない](https://open.spotify.com/track/17ZVx1jFauGaIbhiFzKZTl) | [星井美希 \(CV.長谷川明子\)](https://open.spotify.com/artist/1G5EAh0pP7H3wX5zOqFRNi), [伊吹 翼 \(CV.Machico\)](https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1), [北上麗花 \(CV.平山笑美\)](https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE), [ジュリア \(CV.愛美\)](https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9) | [THE IDOLM@STER LIVE THE@TER PERFORMANCE 06](https://open.spotify.com/album/30Lzd3PMCzEzF5sE12cbxi) | 4:06 |
 | 61 | [恋のLesson初級編](https://open.spotify.com/track/2MFXCcrr20fqbLzPnrCrIp) | [伊吹 翼 \(CV.Machico\)](https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1) | [THE IDOLM@STER LIVE THE@TER PERFORMANCE 06](https://open.spotify.com/album/30Lzd3PMCzEzF5sE12cbxi) | 3:20 |
-| 62 | [Just be myself!!](https://open.spotify.com/track/7f6KcplqyqS7iUYqM6zhVj) | [如月千早 \(CV.今井麻美\)](https://open.spotify.com/artist/7HXMd79Kiz7GweUt79us1g) | [THE IDOLM@STER LIVE THE@TER HARMONY 04](https://open.spotify.com/album/6J11xHMzVurnh6787kuCEc) | 4:08 |
-| 63 | [微笑んだから、気づいたんだ。](https://open.spotify.com/track/0hYM4ylfju0irg3Tbg6mNj) | [双海亜美 \(CV.下田麻美\)](https://open.spotify.com/artist/6aRf6AwexFXihb7EKmzbx9) | [THE IDOLM@STER LIVE THE@TER PERFORMANCE 13](https://open.spotify.com/album/5CvkmLTabznfl6lVW9f9ZU) | 4:54 |
-| 64 | [GR@TITUDE \- ミリオンライブ！Ver.](https://open.spotify.com/track/0Y8GIkZKTbkjjLKMPiNDZR) | [MILLIONSTARS](https://open.spotify.com/artist/5dbz1ohwsTWeBm8flKjaii) | [THE IDOLM@STER STARLIT SEASON 00 GR@TITUDE \(ランティス盤\)](https://open.spotify.com/album/3rgY1KXiGaa6ao5w7rLoNv) | 4:22 |
+| 62 | [微笑んだから、気づいたんだ。](https://open.spotify.com/track/0hYM4ylfju0irg3Tbg6mNj) | [双海亜美 \(CV.下田麻美\)](https://open.spotify.com/artist/6aRf6AwexFXihb7EKmzbx9) | [THE IDOLM@STER LIVE THE@TER PERFORMANCE 13](https://open.spotify.com/album/5CvkmLTabznfl6lVW9f9ZU) | 4:54 |
+| 63 | [GR@TITUDE \- ミリオンライブ！Ver.](https://open.spotify.com/track/0Y8GIkZKTbkjjLKMPiNDZR) | [MILLIONSTARS](https://open.spotify.com/artist/5dbz1ohwsTWeBm8flKjaii) | [THE IDOLM@STER STARLIT SEASON 00 GR@TITUDE \(ランティス盤\)](https://open.spotify.com/album/3rgY1KXiGaa6ao5w7rLoNv) | 4:22 |
+| 64 | [Just be myself!!](https://open.spotify.com/track/7f6KcplqyqS7iUYqM6zhVj) | [如月千早 \(CV.今井麻美\)](https://open.spotify.com/artist/7HXMd79Kiz7GweUt79us1g) | [THE IDOLM@STER LIVE THE@TER HARMONY 04](https://open.spotify.com/album/6J11xHMzVurnh6787kuCEc) | 4:08 |
 | 65 | [Growing Storm!](https://open.spotify.com/track/0Wk5vKYX3dY08DnQnddNqf) | [乙女ストーム!](https://open.spotify.com/artist/2VQzzVai0olRp4HlVXsndu) | [THE IDOLM@STER LIVE THE@TER HARMONY 02](https://open.spotify.com/album/2GToGpK197lsdbBkoj41Zt) | 4:18 |
 | 66 | [Catch my dream](https://open.spotify.com/track/0jgj7n4quchk3nSTdVJ7vF) | [最上静香 \(CV.田所あずさ\)](https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH) | [THE IDOLM@STER LIVE THE@TER HARMONY 03](https://open.spotify.com/album/7eyHlvuilbyQace0k063iy) | 4:31 |
 | 67 | [キラメキ進行形](https://open.spotify.com/track/0zUxcMSrVLfjuloZtMEBGD) | [天海春香 \(CV.中村繪里子\)](https://open.spotify.com/artist/4VYbbwQ4B6bjc3bJEAjFlL) | [THE IDOLM@STER LIVE THE@TER PERFORMANCE 02](https://open.spotify.com/album/63Ic75x61p1Mtdcyt8roK5) | 3:37 |

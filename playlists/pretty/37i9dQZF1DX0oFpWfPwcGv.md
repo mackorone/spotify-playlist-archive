@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,025 likes - 75 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,042 likes - 75 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 71 | [He's My Man \- Extended Version](https://open.spotify.com/track/5niTFUJECbNZ0I2iLpot75) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Let Yourself Go: The ’70s Albums, Vol\. 2: 1974\-1977 \(The Final Sessions\)](https://open.spotify.com/album/7dY1xL0GNNxj2Qu6mePWvG) | 4:57 |
 | 72 | [Possessed \(Extended Verison\)](https://open.spotify.com/track/5giBASxVW4R1BFzGtWNEun) | [Doris Jones](https://open.spotify.com/artist/1YzlD6Cogo9fLRtzyMIdRc) | [The Best of Doris Jones "No Way Out"](https://open.spotify.com/album/1zEOxgQDjnzXNVuXO2IlXh) | 6:59 |
 | 73 | [I Want Your Love](https://open.spotify.com/track/6HZKlK1mDDBsILMoNNncxL) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [C'est Chic](https://open.spotify.com/album/2KSmpFuIe2nOYYVgA7oa9o) | 6:55 |
-| 74 | [Never Knew Love Like This Before](https://open.spotify.com/track/1CqBel8F2RKf3mopnPf4Yv) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Classic Soul](https://open.spotify.com/album/0PFh0hEIlgaeLVF8qRkl0q) | 5:25 |
-| 75 | [Love Is You \- A Tom Moulton Mix](https://open.spotify.com/track/4YjD6Gd0IjMIchfTOOPEgS) | [Carol Williams](https://open.spotify.com/artist/5QqgCq8kssGoXgqxBlGgJM), [Tom Moulton](https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6) | ['Lectric Lady](https://open.spotify.com/album/7eY0iC16v1UNmrHqG1eiuB) | 7:53 |
+| 74 | [Love Is You \- A Tom Moulton Mix](https://open.spotify.com/track/4YjD6Gd0IjMIchfTOOPEgS) | [Carol Williams](https://open.spotify.com/artist/5QqgCq8kssGoXgqxBlGgJM), [Tom Moulton](https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6) | ['Lectric Lady](https://open.spotify.com/album/7eY0iC16v1UNmrHqG1eiuB) | 7:53 |
+| 75 | [Never Knew Love Like This Before](https://open.spotify.com/track/1CqBel8F2RKf3mopnPf4Yv) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Classic Soul](https://open.spotify.com/album/0PFh0hEIlgaeLVF8qRkl0q) | 5:25 |
 
 Snapshot ID: `AAAAAFxwH/NqplQmXuGGhIegr3GVC5eY`

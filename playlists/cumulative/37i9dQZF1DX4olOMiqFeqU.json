@@ -1217,6 +1217,28 @@
     },
     {
       "album": {
+        "name": "ikaw, ikaw, ikaw",
+        "url": "https://open.spotify.com/album/7FxiQz4Hk6ihjr7ypYnEtP"
+      },
+      "artists": [
+        {
+          "name": "ICEBOX",
+          "url": "https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK"
+        },
+        {
+          "name": "Eliza Maturan",
+          "url": "https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "ikaw, ikaw, ikaw",
+      "url": "https://open.spotify.com/track/4RmKeqmqtYIl0tbeTnLyXi"
+    },
+    {
+      "album": {
         "name": "Make Believe",
         "url": "https://open.spotify.com/album/0eVAbAiekijNEO7xTvGn23"
       },
@@ -1744,7 +1766,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 210586,
       "name": "Mahika",
       "url": "https://open.spotify.com/track/0Pafr67ogSuAur2L3DxB4b"
@@ -2536,7 +2558,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 203019,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/3kedvnPWaRcrshtiV6e6Z3"
@@ -2854,7 +2876,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 316683,
       "name": "Sinta",
       "url": "https://open.spotify.com/track/0aCmjkogiWIRu7205eZK6I"

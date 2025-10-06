@@ -990,7 +990,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 142184,
       "name": "Bir",
       "url": "https://open.spotify.com/track/5Pjre4zDNOBQ64KGVfwyI8"
@@ -2121,6 +2121,28 @@
     },
     {
       "album": {
+        "name": "cozed",
+        "url": "https://open.spotify.com/album/5L6T5LYEusjLtNpWQh3TVD"
+      },
+      "artists": [
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        },
+        {
+          "name": "think less.",
+          "url": "https://open.spotify.com/artist/5ptLWFs1O1R1QDZSjwtU0c"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105488,
+      "name": "cozed",
+      "url": "https://open.spotify.com/track/6aWWO5gx9NYP7mhdf2XQbd"
+    },
+    {
+      "album": {
         "name": "CPH",
         "url": "https://open.spotify.com/album/6HdAgTAOjWIZXSoWmVtG3T"
       },
@@ -2532,7 +2554,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 154862,
       "name": "deep in it",
       "url": "https://open.spotify.com/track/3J2WUEn6oFN8eDPZov7w9I"
@@ -9854,6 +9876,28 @@
       "duration_ms": 154840,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/61vVI6qo8zhw2OWM96ReDd"
+    },
+    {
+      "album": {
+        "name": "ROSE PISCINE",
+        "url": "https://open.spotify.com/album/2D9gxafDvSUSwK9aP6ysbj"
+      },
+      "artists": [
+        {
+          "name": "VEEKO",
+          "url": "https://open.spotify.com/artist/45IMVcKtPxEQpiIOooChbg"
+        },
+        {
+          "name": "Ferdi",
+          "url": "https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208263,
+      "name": "ROSE PISCINE",
+      "url": "https://open.spotify.com/track/3agEfdmiNcGnJ5hL6RlkA6"
     },
     {
       "album": {

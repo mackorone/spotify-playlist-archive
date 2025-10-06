@@ -1,6 +1,6 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Melody's Echo Chamber on cover.",
-  "num_followers": 569670,
+  "num_followers": 569732,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "The Trip",
+        "url": "https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ"
+      },
+      "artists": [
+        {
+          "name": "Derya Y\u0131ld\u0131r\u0131m & Grup \u015eim\u015fek",
+          "url": "https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT"
+        }
+      ],
+      "duration_ms": 257972,
+      "name": "The Trip",
+      "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "Time Bazaar",
         "url": "https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 404562,
       "name": "Are You Tired? (Keep on Singing)",
       "url": "https://open.spotify.com/track/7qONmzQvjWnzQAbBrRqKrB"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "The Trip",
-        "url": "https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ"
-      },
-      "artists": [
-        {
-          "name": "Derya Y\u0131ld\u0131r\u0131m & Grup \u015eim\u015fek",
-          "url": "https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT"
-        }
-      ],
-      "duration_ms": 257972,
-      "name": "The Trip",
-      "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Wading Out / Shell Island",
-        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
-      },
-      "artists": [
-        {
-          "name": "Favourite People",
-          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
-        }
-      ],
-      "duration_ms": 221418,
-      "name": "Wading Out",
-      "url": "https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "The Revolt Against Tired Noises",
         "url": "https://open.spotify.com/album/71b2Yqz7DCWPuS6YXoMLFa"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 321906,
       "name": "Black Kite",
       "url": "https://open.spotify.com/track/0ded1wHOrEsDsVE3W01m0V"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Wading Out / Shell Island",
+        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
+      },
+      "artists": [
+        {
+          "name": "Favourite People",
+          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
+        }
+      ],
+      "duration_ms": 221418,
+      "name": "Wading Out",
+      "url": "https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Ring Tail",
-        "url": "https://open.spotify.com/album/1jB0X1Ch7IChY79vv1gZMe"
-      },
-      "artists": [
-        {
-          "name": "Monster Rally",
-          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
-        }
-      ],
-      "duration_ms": 118883,
-      "name": "Ring Tail",
-      "url": "https://open.spotify.com/track/1wVNi51JyuLkBa1Q7JeUTN"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Egypt",
         "url": "https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 261634,
       "name": "Egypt",
       "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Ring Tail",
+        "url": "https://open.spotify.com/album/1jB0X1Ch7IChY79vv1gZMe"
+      },
+      "artists": [
+        {
+          "name": "Monster Rally",
+          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
+        }
+      ],
+      "duration_ms": 118883,
+      "name": "Ring Tail",
+      "url": "https://open.spotify.com/track/1wVNi51JyuLkBa1Q7JeUTN"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "WILLING",
+        "url": "https://open.spotify.com/album/0Ye4lZJZJor3sJj4uAEOYE"
+      },
+      "artists": [
+        {
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "WILLING",
+      "url": "https://open.spotify.com/track/2hf3RcWaexBbDBuUfY4QfD"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "ILION",
         "url": "https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 183978,
       "name": "Casino",
       "url": "https://open.spotify.com/track/2F6OAlmLqW0MmRA4Qo5o6W"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "WILLING",
-        "url": "https://open.spotify.com/album/0Ye4lZJZJor3sJj4uAEOYE"
-      },
-      "artists": [
-        {
-          "name": "JJUUJJUU",
-          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "WILLING",
-      "url": "https://open.spotify.com/track/2hf3RcWaexBbDBuUfY4QfD"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "You Will Know Nothing",
-        "url": "https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX"
-      },
-      "artists": [
-        {
-          "name": "Here Lies Man",
-          "url": "https://open.spotify.com/artist/6Ms9HDPdO2yBwjtljcqL7H"
-        }
-      ],
-      "duration_ms": 252089,
-      "name": "Animal Noises",
-      "url": "https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Another Quiet Sunday",
         "url": "https://open.spotify.com/album/0vLznsp55OgjDuuhAUSE8z"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 267640,
       "name": "Another Quiet Sunday (Keep Moving On)",
       "url": "https://open.spotify.com/track/3dvtiG0XQkcfHQpr3Ghhp0"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "You Will Know Nothing",
+        "url": "https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX"
+      },
+      "artists": [
+        {
+          "name": "Here Lies Man",
+          "url": "https://open.spotify.com/artist/6Ms9HDPdO2yBwjtljcqL7H"
+        }
+      ],
+      "duration_ms": 252089,
+      "name": "Animal Noises",
+      "url": "https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Dune",
-        "url": "https://open.spotify.com/album/6x0vT19lo7AbJXoTntJesC"
-      },
-      "artists": [
-        {
-          "name": "Spiny Norman",
-          "url": "https://open.spotify.com/artist/6fXIjWSOIeXmugPaMBe54K"
-        }
-      ],
-      "duration_ms": 239263,
-      "name": "Dune",
-      "url": "https://open.spotify.com/track/3PRS2uCYDyBp3khoz6rQ3s"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "The Real Work",
         "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 266737,
       "name": "Risky Behaviour",
       "url": "https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Dune",
+        "url": "https://open.spotify.com/album/6x0vT19lo7AbJXoTntJesC"
+      },
+      "artists": [
+        {
+          "name": "Spiny Norman",
+          "url": "https://open.spotify.com/artist/6fXIjWSOIeXmugPaMBe54K"
+        }
+      ],
+      "duration_ms": 239263,
+      "name": "Dune",
+      "url": "https://open.spotify.com/track/3PRS2uCYDyBp3khoz6rQ3s"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Breathe in, Breathe Out",
-        "url": "https://open.spotify.com/album/6KsF7RqHsReBCAmMqj8p0G"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 170333,
-      "name": "Breathe in, Breathe Out",
-      "url": "https://open.spotify.com/track/4J9LOhzDYiASTnXdOgG6I1"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Cardboard Pile",
         "url": "https://open.spotify.com/album/2ZEtImc0odG8vDBz6nzz6x"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 246500,
       "name": "Cardboard Pile",
       "url": "https://open.spotify.com/track/2HCwigy5HaZddBgDFmu9Je"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Breathe in, Breathe Out",
+        "url": "https://open.spotify.com/album/6KsF7RqHsReBCAmMqj8p0G"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "Breathe in, Breathe Out",
+      "url": "https://open.spotify.com/track/4J9LOhzDYiASTnXdOgG6I1"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "No Way In",
+        "url": "https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2"
+      },
+      "artists": [
+        {
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+        }
+      ],
+      "duration_ms": 246125,
+      "name": "No Way In",
+      "url": "https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "Fire In The Blood (Live Masterlink Session)",
         "url": "https://open.spotify.com/album/40tFlVAC8ZH2Xx4j4cgPE2"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 257429,
       "name": "Fire In The Blood - Live Masterlink Session",
       "url": "https://open.spotify.com/track/5CV4H5R5UzXHqzOFSECUaA"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "Keep The Outside Open",
-        "url": "https://open.spotify.com/album/6Ww8zAvaNvHZ59jXamH2fj"
-      },
-      "artists": [
-        {
-          "name": "Apifera",
-          "url": "https://open.spotify.com/artist/7zgoELe3akRCheZJ8XnDpr"
-        }
-      ],
-      "duration_ms": 290500,
-      "name": "Iris Is Neil",
-      "url": "https://open.spotify.com/track/3VIhqLfKxHqOQmfcm6JQtd"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wtrGDH81Oa.md) - [plain]
 
 > Instrumental house for when you need to focus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,473 likes - 203 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,623 likes - 203 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -212,4 +212,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wtrGDH81Oa.md) - [plain]
 | 202 | [want u](https://open.spotify.com/track/34YB4nJ5tkWbvXVXaDcmRY) | [Kayyyy](https://open.spotify.com/artist/5g4nLwrKsbQSYCI4AXhsTJ) | [want u](https://open.spotify.com/album/6WD3kWk07cPUrCiv9RTZDo) | 2:15 |
 | 203 | [Domino Effect](https://open.spotify.com/track/0kKr3CifT3nG6QNWiDdCU4) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Domino Effect](https://open.spotify.com/album/1d9YULzRYcwFAk8pInWOxS) | 3:08 |
 
-Snapshot ID: `AAAAABsk49Q4NkIwmSc1nY1b9jDfIJNY`
+Snapshot ID: `AAAAAFjRWgEBrQ6UBZFBaHibiTbjgc/A`

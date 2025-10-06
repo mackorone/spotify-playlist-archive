@@ -1,12 +1,12 @@
 {
   "description": "This is Manu Dibango. The essential tracks, all in one playlist.",
-  "num_followers": 9964,
+  "num_followers": 9965,
   "original_name": "This Is Manu Dibango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAABFRiECSGeFqVbJqiZaN6hU",
+  "snapshot_id": "aOBjgAAAAABlo/owzXfYruquEoPwHtMU",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "African Woodoo",
-        "url": "https://open.spotify.com/album/3KoCNy8UEBuCcrz5GLFHiv"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 230106,
-      "name": "Lagos Go Slow",
-      "url": "https://open.spotify.com/track/0JQSknccRupmf6K8UPfCWl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wakafrika",
         "url": "https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 308666,
       "name": "Biko (feat. Alex Brown, Peter Gabriel, Ladysmith Black Mambazo & Geoffrey Oryema)",
       "url": "https://open.spotify.com/track/5PlwfYLmedp2BPxf0oGy8x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "African Woodoo",
+        "url": "https://open.spotify.com/album/3KoCNy8UEBuCcrz5GLFHiv"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 230106,
+      "name": "Lagos Go Slow",
+      "url": "https://open.spotify.com/track/0JQSknccRupmf6K8UPfCWl"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "African Voodoo",
-        "url": "https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 188025,
-      "name": "Wilderness",
-      "url": "https://open.spotify.com/track/3h5mkWhcVV9jVv7XxFfTlE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cubafrica",
         "url": "https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 264106,
       "name": "Cerisiers Roses Et Pommiers Blancs",
       "url": "https://open.spotify.com/track/4k3YTY6Oyaux2UdaZM9NUU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "African Voodoo",
+        "url": "https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 188025,
+      "name": "Wilderness",
+      "url": "https://open.spotify.com/track/3h5mkWhcVV9jVv7XxFfTlE"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "African Voodoo",
-        "url": "https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 178428,
-      "name": "Soul Saxes Meeting",
-      "url": "https://open.spotify.com/track/2a4pTooehkmiD7hQ5DeyC5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cubafrica",
         "url": "https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 259160,
       "name": "Son de la Loma",
       "url": "https://open.spotify.com/track/6tLJ6F2PNFmQfZlaJQqblS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "African Voodoo",
+        "url": "https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 178428,
+      "name": "Soul Saxes Meeting",
+      "url": "https://open.spotify.com/track/2a4pTooehkmiD7hQ5DeyC5"
     },
     {
       "added_at": null,
@@ -763,6 +763,46 @@
       "duration_ms": 298813,
       "name": "Diarabi (feat. Bonga, Tour\u00e9 Kunda)",
       "url": "https://open.spotify.com/track/2UMCl2uPMWVoylBBOAjkqG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Taciturne",
+        "url": "https://open.spotify.com/album/2WCnXqrZUmN7mdioYMbyMC"
+      },
+      "artists": [
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        },
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 274626,
+      "name": "Les gar\u00e7ons ne pleurent pas",
+      "url": "https://open.spotify.com/track/3p6yYoGeqGQZnaBLopd0HY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cubafrica",
+        "url": "https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        },
+        {
+          "name": "Cuarteto Patria",
+          "url": "https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG"
+        }
+      ],
+      "duration_ms": 344760,
+      "name": "El Manicero",
+      "url": "https://open.spotify.com/track/6vG5U3Oi7RBLTD7sUf6olT"
     },
     {
       "added_at": null,
@@ -803,66 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cubafrica",
-        "url": "https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        },
-        {
-          "name": "Cuarteto Patria",
-          "url": "https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG"
-        }
-      ],
-      "duration_ms": 344760,
-      "name": "El Manicero",
-      "url": "https://open.spotify.com/track/6vG5U3Oi7RBLTD7sUf6olT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Taciturne",
-        "url": "https://open.spotify.com/album/2WCnXqrZUmN7mdioYMbyMC"
-      },
-      "artists": [
-        {
-          "name": "Dinos",
-          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
-        },
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 274626,
-      "name": "Les gar\u00e7ons ne pleurent pas",
-      "url": "https://open.spotify.com/track/3p6yYoGeqGQZnaBLopd0HY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cubafrica",
-        "url": "https://open.spotify.com/album/2LKgfPJtRIuHTh5wgi7N8Q"
-      },
-      "artists": [
-        {
-          "name": "Cuarteto Patria",
-          "url": "https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG"
-        },
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 350733,
-      "name": "Carnaval",
-      "url": "https://open.spotify.com/track/1XWDjQkOEUvgKuWRPxZOMO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV"
       },
@@ -899,38 +879,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le testament du makossa, Vol. 8",
-        "url": "https://open.spotify.com/album/0XUeMGRZi1SsVxmakzESw7"
+        "name": "Cubafrica",
+        "url": "https://open.spotify.com/album/2LKgfPJtRIuHTh5wgi7N8Q"
       },
       "artists": [
         {
-          "name": "Franck Chaleur",
-          "url": "https://open.spotify.com/artist/3IVxFMLPR7oePD3DHpYvbp"
-        },
-        {
-          "name": "Moni Bile",
-          "url": "https://open.spotify.com/artist/2uMATivHXNKTu89qctJZdg"
-        },
-        {
-          "name": "GUY LOBE",
-          "url": "https://open.spotify.com/artist/5KkKfOmZ3Ku3jmbi1Vp7AS"
-        },
-        {
-          "name": "Ben Decca",
-          "url": "https://open.spotify.com/artist/0167ut3NFs3TI8EGscI3aZ"
+          "name": "Cuarteto Patria",
+          "url": "https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG"
         },
         {
           "name": "Manu Dibango",
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        },
-        {
-          "name": "Sergeo Polo",
-          "url": "https://open.spotify.com/artist/3d14xPEq0eQJDwxUKuZw0I"
         }
       ],
-      "duration_ms": 952386,
-      "name": "Nostalgie",
-      "url": "https://open.spotify.com/track/3Kn1HI0X47ydVVSHgPBoA7"
+      "duration_ms": 350733,
+      "name": "Carnaval",
+      "url": "https://open.spotify.com/track/1XWDjQkOEUvgKuWRPxZOMO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lorenzo 2015 CC.",
+        "url": "https://open.spotify.com/album/00FW0vTXN3EWyC68GJNN4X"
+      },
+      "artists": [
+        {
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+        },
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 274626,
+      "name": "Musica",
+      "url": "https://open.spotify.com/track/5quLDM7ds2qugQmzT6Qwaa"
     }
   ],
   "unique_name": "This Is Manu Dibango",

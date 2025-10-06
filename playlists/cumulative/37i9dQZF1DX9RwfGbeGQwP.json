@@ -13687,6 +13687,28 @@
     },
     {
       "album": {
+        "name": "Lagoon Nights",
+        "url": "https://open.spotify.com/album/7B6BOs3To5jSgBccfQR5TA"
+      },
+      "artists": [
+        {
+          "name": "Goson",
+          "url": "https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe"
+        },
+        {
+          "name": "Zycix",
+          "url": "https://open.spotify.com/artist/2Wv6IR9Z1e2zHWLDOHWUFy"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115000,
+      "name": "Lagoon Nights",
+      "url": "https://open.spotify.com/track/0m4rxghYCCaNPrszGeMjix"
+    },
+    {
+      "album": {
         "name": "Laid-Back Skylines",
         "url": "https://open.spotify.com/album/6BDP79MYOUZsLmq0Gsjuw6"
       },
@@ -28686,7 +28708,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 121446,
       "name": "washed up",
       "url": "https://open.spotify.com/track/2uhlAgdxgzwMvJ1YEA5ZaT"

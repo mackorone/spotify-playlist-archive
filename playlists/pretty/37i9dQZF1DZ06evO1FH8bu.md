@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1FH8bu.md) - [plain]
 
 > This is Neck Deep\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,629 likes - 48 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,630 likes - 48 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1FH8bu.md) - [plain]
 | 5 | [In Bloom](https://open.spotify.com/track/0lgiIwUU7Y10uXfKkgXdjk) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:38 |
 | 6 | [Can't Kick Up The Roots](https://open.spotify.com/track/1iKjPM2YygFxUqjUakAI4n) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Life's Not Out To Get You](https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj) | 2:49 |
 | 7 | [Torn](https://open.spotify.com/track/55SMBnlZaMebqCYUkFU2dT) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Torn](https://open.spotify.com/album/5zF5pEzJQgwu97Qze67WRL) | 4:04 |
-| 8 | [You Should See Me Now](https://open.spotify.com/track/2F9c0gRcMvPm8AinfcuJek) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [You Should See Me Now](https://open.spotify.com/album/45Hi3e8WGVcpjTiYx8vvth) | 3:44 |
+| 8 | [When You Know](https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [All Distortions Are Intentional](https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG) | 3:09 |
 | 9 | [Motion Sickness](https://open.spotify.com/track/2JcQF1cSeyFx34F8ItVTRN) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:25 |
 | 10 | [Gold Steps](https://open.spotify.com/track/3wcT7Bndd1w4dVsKhEXcEm) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Life's Not Out To Get You](https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj) | 3:12 |
-| 11 | [When You Know](https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [All Distortions Are Intentional](https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG) | 3:09 |
+| 11 | [You Should See Me Now](https://open.spotify.com/track/2F9c0gRcMvPm8AinfcuJek) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [You Should See Me Now](https://open.spotify.com/album/45Hi3e8WGVcpjTiYx8vvth) | 3:44 |
 | 12 | [Heartbreak Of The Century](https://open.spotify.com/track/4ijqpIWc6VhVRTvHPJlBMw) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 3:49 |
 | 13 | [Parachute](https://open.spotify.com/track/1gXAB8LVnrNFVkj4kBdaSE) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:40 |
 | 14 | [Kali Ma](https://open.spotify.com/track/4HsWOiIPuQ6tCT3suvGWMK) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Life's Not Out To Get You](https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj) | 2:50 |
@@ -50,11 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1FH8bu.md) - [plain]
 | 40 | [Don’t Tell Me It’s Over](https://open.spotify.com/track/17px1Xc6wfPnhHWM84njQP) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Don’t Tell Me It’s Over](https://open.spotify.com/album/1GNtqzWi7abSqeagV7eEDd) | 2:29 |
 | 41 | [Tables Turned](https://open.spotify.com/track/0sZgeU7tMuB7QfQMVUKLbb) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Rain In July / A History Of Bad Decisions](https://open.spotify.com/album/13xBAYqsGgjXnoawJEMkr8) | 3:23 |
 | 42 | [Losing Teeth](https://open.spotify.com/track/2igkrp986MU4maviUzLiVO) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Wishful Thinking](https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1) | 2:59 |
-| 43 | [Over and Over](https://open.spotify.com/track/2dIqAytE9D0jL6VmlQHylS) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Rain In July](https://open.spotify.com/album/13C2WGkljqaE62wJjsvENT) | 2:55 |
+| 43 | [Silver Lining](https://open.spotify.com/track/5thqWp5JUnjDrxhZhKt3ns) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Rain In July](https://open.spotify.com/album/13C2WGkljqaE62wJjsvENT) | 2:43 |
 | 44 | [All Hype, No Heart](https://open.spotify.com/track/2aMm7yVRfx4VdPr6dRnsp7) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Rain In July / A History Of Bad Decisions](https://open.spotify.com/album/13xBAYqsGgjXnoawJEMkr8) | 0:42 |
 | 45 | [Staircase Wit](https://open.spotify.com/track/0rQybU8pbJFcaUU7Mqju0z) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Wishful Thinking](https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1) | 3:10 |
-| 46 | [Silver Lining](https://open.spotify.com/track/5thqWp5JUnjDrxhZhKt3ns) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Rain In July](https://open.spotify.com/album/13C2WGkljqaE62wJjsvENT) | 2:43 |
+| 46 | [Over and Over](https://open.spotify.com/track/2dIqAytE9D0jL6VmlQHylS) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Rain In July](https://open.spotify.com/album/13C2WGkljqaE62wJjsvENT) | 2:55 |
 | 47 | [Damsel In Distress](https://open.spotify.com/track/7HuZXpNRta1mVgOmqCJssL) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Wishful Thinking](https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1) | 3:22 |
 | 48 | [Kick It](https://open.spotify.com/track/54u8VbDveaKMQVTj0NDzrT) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Rain In July](https://open.spotify.com/album/13C2WGkljqaE62wJjsvENT) | 1:34 |
 
-Snapshot ID: `aN8SAAAAAAAwZ+sVPTtVgA6HdLV4kx/U`
+Snapshot ID: `aOBjgAAAAABjr8DHZY7xMyHgAQXqoQJx`

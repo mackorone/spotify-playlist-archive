@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- Tanmaya Bhatnagar
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,730 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,736 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 21 | [Humdum](https://open.spotify.com/track/1ZbcAMnlobqTAg2gZp3po1) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Humdum](https://open.spotify.com/album/4xSDrJ3bKFOZjUoy9JV2ku) | 3:01 |
 | 22 | [Sunday](https://open.spotify.com/track/1GMFeGQBppaepcx6NsR7qB) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Sunday](https://open.spotify.com/album/34YGRvUlSxeevZHXZ7fl9m) | 2:24 |
 | 23 | [Better With You](https://open.spotify.com/track/31RiqzKluljrXwwanZSD1c) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Ansh4sure](https://open.spotify.com/artist/50v8c6DzqnysN9InIun5MA), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Better With You](https://open.spotify.com/album/4SLRZ2hzrapT1iMVOhFhJ3) | 2:54 |
-| 24 | [Adhoora](https://open.spotify.com/track/0PrdTQ8dyxLVeOk1Hy9ytk) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ) | [Adhoora](https://open.spotify.com/album/5KCvtdTpRec6LnElztBLx4) | 3:54 |
-| 25 | [Sawaal](https://open.spotify.com/track/7FfCxoiaShMahjnHEGLGNu) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Sawaal](https://open.spotify.com/album/0OR7vWEzcUAhoyO6HBrSXY) | 3:31 |
+| 24 | [Sawaal](https://open.spotify.com/track/7FfCxoiaShMahjnHEGLGNu) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Sawaal](https://open.spotify.com/album/0OR7vWEzcUAhoyO6HBrSXY) | 3:31 |
+| 25 | [Adhoora](https://open.spotify.com/track/0PrdTQ8dyxLVeOk1Hy9ytk) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ) | [Adhoora](https://open.spotify.com/album/5KCvtdTpRec6LnElztBLx4) | 3:54 |
 | 26 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 |
 | 27 | [SHARMEELI](https://open.spotify.com/track/3a0cGrLF6Ac1QqG3PCoIDY) | [Frappe Ash](https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH), [toorjo dey](https://open.spotify.com/artist/2K7LWCOiWME8Na9QWEbUwL) | [SHARMEELI](https://open.spotify.com/album/2uZeb9NCQY76An8LqPMX5K) | 2:10 |
 | 28 | [Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Jadoo](https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1) | 3:10 |

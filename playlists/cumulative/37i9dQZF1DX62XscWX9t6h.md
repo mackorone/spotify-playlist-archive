@@ -28,7 +28,7 @@
 | [Badi Sabah Olmadan](https://open.spotify.com/track/69HsibWosA5K8UhyhPZ92t) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8) | 4:43 | 2022-03-11 | 2023-08-15 |
 | [Bear Creek](https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Livelong Day](https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC) | 5:31 | 2023-11-23 |  |
 | [Bia Bia](https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb) | [Liraz](https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk) | [Zan](https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77) | 3:36 | 2021-10-20 |  |
-| [Binboğa](https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39) | [Yalnayak](https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu) | [Binboğa](https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9) | 4:02 | 2022-03-04 | 2025-09-30 |
+| [Binboğa](https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39) | [Yalnayak](https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu) | [Binboğa](https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9) | 4:02 | 2022-03-04 |  |
 | [Break Away](https://open.spotify.com/track/38qUvMP0z6Xn7aPrvpurit) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP) | [Escape Plan](https://open.spotify.com/album/1rbwWcHllLmjWUjODSKV4Y) | 3:06 | 2022-04-17 | 2024-04-19 |
 | [Bubbles](https://open.spotify.com/track/1IFG2aGnwS56vreofnAHha) | [Wilson Tanner](https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i) | [Bubbles](https://open.spotify.com/album/3ZMluCSOAodsTGsxeLRbfd) | 2:36 | 2025-05-05 | 2025-05-26 |
 | [Bul Bul Bul](https://open.spotify.com/track/7kSRBKkO3wgFGNsRqlDkNE) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Bul Bul Bul](https://open.spotify.com/album/4JVtJnEeBkkCUUbrxs1tU8) | 3:28 | 2024-09-11 | 2024-11-28 |
@@ -240,6 +240,6 @@
 | [Şinanay](https://open.spotify.com/track/2fXrL66WMT93qlrqreWXqa) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Şinanay / French Disko \(Lagniappe Session\)](https://open.spotify.com/album/3SVe0JgNmBLHgyFLhKOwoH) | 3:56 | 2022-04-06 |  |
 | [двa TWO](https://open.spotify.com/track/0ycbHO4SfIOGKkviEO1GK1) | [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx) | [для FOR](https://open.spotify.com/album/0FvvY5F27MaKdwvTx1EybZ) | 1:36 | 2021-10-20 | 2024-04-19 |
 | [Шо з\-под дуба](https://open.spotify.com/track/52Wl3PQGfyvMJm5JQu0acD) | [DakhaBrakha](https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5) | [Yahudky](https://open.spotify.com/album/0KyTYyyHjdkYS65d08fvYm) | 3:48 | 2022-09-15 |  |
-| [アダンの海辺](https://open.spotify.com/track/2Sw8R2PBZQ6qvtpsEMu9ND) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [Correspondances](https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z) | 3:18 | 2024-05-02 |  |
+| [アダンの海辺](https://open.spotify.com/track/2Sw8R2PBZQ6qvtpsEMu9ND) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [Correspondances](https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z) | 3:18 | 2024-05-02 | 2025-10-06 |
 
 \*This playlist was first scraped on 2023-08-09. Prior content cannot be recovered.

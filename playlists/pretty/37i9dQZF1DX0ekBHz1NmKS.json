@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. ",
-  "num_followers": 196119,
+  "num_followers": 196106,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
-        "name": "EGO",
-        "url": "https://open.spotify.com/album/5YYgM8HfCKUsWkT4vwWmL8"
-      },
-      "artists": [
-        {
-          "name": "Agnes",
-          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
-        }
-      ],
-      "duration_ms": 216259,
-      "name": "EGO",
-      "url": "https://open.spotify.com/track/6KfyfEiMAQJrMhRrP2Epm4"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
         "name": "RUSHEN TAR ALDRIG SLUT",
         "url": "https://open.spotify.com/album/3ZtvMVD8asywOMHIbix1nS"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 125539,
       "name": "VEM VET?",
       "url": "https://open.spotify.com/track/5ukPTFMAIoEq6AOmRHZFRk"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/5YYgM8HfCKUsWkT4vwWmL8"
+      },
+      "artists": [
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+        }
+      ],
+      "duration_ms": 216259,
+      "name": "EGO",
+      "url": "https://open.spotify.com/track/6KfyfEiMAQJrMhRrP2Epm4"
     },
     {
       "added_at": "2025-10-02 22:00:51",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
-        "name": "Klara",
-        "url": "https://open.spotify.com/album/5CNoE336D6RcLoWP0w9h2H"
-      },
-      "artists": [
-        {
-          "name": "Ida-Lova",
-          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
-        }
-      ],
-      "duration_ms": 229994,
-      "name": "Klara",
-      "url": "https://open.spotify.com/track/0bGNkAnYXjd9V8rMTbctHs"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
         "name": "Stockholm \u00e4r f\u00f6r stort",
         "url": "https://open.spotify.com/album/341ScRYl1Nuz3wPvelqdxk"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 185421,
       "name": "Stockholm \u00e4r f\u00f6r stort",
       "url": "https://open.spotify.com/track/3tiBjKLsRIF3kHIXynvGXv"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
+        "name": "Klara",
+        "url": "https://open.spotify.com/album/5CNoE336D6RcLoWP0w9h2H"
+      },
+      "artists": [
+        {
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+        }
+      ],
+      "duration_ms": 229994,
+      "name": "Klara",
+      "url": "https://open.spotify.com/track/0bGNkAnYXjd9V8rMTbctHs"
     },
     {
       "added_at": "2025-10-02 22:00:51",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
-        "name": "East of the Sun...",
-        "url": "https://open.spotify.com/album/0RNYfTahQ9qXuVoEm1CFIL"
-      },
-      "artists": [
-        {
-          "name": "Saga Faye",
-          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
-        }
-      ],
-      "duration_ms": 175339,
-      "name": "I Wonder",
-      "url": "https://open.spotify.com/track/2ba36qIBKEl9TYOAPdYuvB"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
         "name": "Ramla",
         "url": "https://open.spotify.com/album/39OJYOVxta0JzTODnefED9"
       },
@@ -791,18 +775,18 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
-        "name": "Okej att d\u00f6",
-        "url": "https://open.spotify.com/album/2N6zGSJKBKGOLMUwxnwx2B"
+        "name": "East of the Sun...",
+        "url": "https://open.spotify.com/album/0RNYfTahQ9qXuVoEm1CFIL"
       },
       "artists": [
         {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
         }
       ],
-      "duration_ms": 144360,
-      "name": "FaceTime",
-      "url": "https://open.spotify.com/track/61E9a3TY4BNTBOuTa5jqJK"
+      "duration_ms": 175339,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/2ba36qIBKEl9TYOAPdYuvB"
     },
     {
       "added_at": "2025-10-02 22:00:51",
@@ -819,6 +803,22 @@
       "duration_ms": 185000,
       "name": "Jag har h\u00f6rt (hahaha)",
       "url": "https://open.spotify.com/track/5o1xTXO39jqeXhieh98rPa"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
+        "name": "Okej att d\u00f6",
+        "url": "https://open.spotify.com/album/2N6zGSJKBKGOLMUwxnwx2B"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 144360,
+      "name": "FaceTime",
+      "url": "https://open.spotify.com/track/61E9a3TY4BNTBOuTa5jqJK"
     },
     {
       "added_at": "2025-10-02 22:00:51",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
-        "name": "Bitch",
-        "url": "https://open.spotify.com/album/5kpBKPaKvuCXvn2PRoJECt"
-      },
-      "artists": [
-        {
-          "name": "estraden",
-          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
-        }
-      ],
-      "duration_ms": 243357,
-      "name": "Bitch",
-      "url": "https://open.spotify.com/track/0ZJzqshtEYTOtuoNY2s13q"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
         "name": "4L",
         "url": "https://open.spotify.com/album/3NX60E3tiZN3Xx3U14xYdd"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 151730,
       "name": "4L",
       "url": "https://open.spotify.com/track/13EHxr8bqdfqwXtyp411bf"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
+        "name": "Bitch",
+        "url": "https://open.spotify.com/album/5kpBKPaKvuCXvn2PRoJECt"
+      },
+      "artists": [
+        {
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+        }
+      ],
+      "duration_ms": 243357,
+      "name": "Bitch",
+      "url": "https://open.spotify.com/track/0ZJzqshtEYTOtuoNY2s13q"
     },
     {
       "added_at": "2025-10-02 22:00:51",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
-        "name": "A Sky Full of Stars",
-        "url": "https://open.spotify.com/album/6rVuS8geDXgoTCaPMMFSJS"
-      },
-      "artists": [
-        {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
-        }
-      ],
-      "duration_ms": 202987,
-      "name": "A Sky Full of Stars",
-      "url": "https://open.spotify.com/track/46ugCVn6XqZKNDE2lLQzOm"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
         "name": "Forgive, Forget",
         "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 169608,
       "name": "Forgive, Forget",
       "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
+        "name": "A Sky Full of Stars",
+        "url": "https://open.spotify.com/album/6rVuS8geDXgoTCaPMMFSJS"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "duration_ms": 202987,
+      "name": "A Sky Full of Stars",
+      "url": "https://open.spotify.com/track/46ugCVn6XqZKNDE2lLQzOm"
     },
     {
       "added_at": "2025-10-02 22:00:51",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
-        "name": "Inte bra i grupp",
-        "url": "https://open.spotify.com/album/0gLrrKFWzbR8K6692CCLRV"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 169785,
-      "name": "Inte bra i grupp",
-      "url": "https://open.spotify.com/track/1cSIHVhP9zdZeEG4qwwIoQ"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
         "name": "Steep Hills",
         "url": "https://open.spotify.com/album/0G3wnAeXMgPqWvE4ZyH4AS"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 187135,
       "name": "Steep Hills",
       "url": "https://open.spotify.com/track/6Ie9IKWu7PRwW80gTbSxKP"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
+        "name": "Inte bra i grupp",
+        "url": "https://open.spotify.com/album/0gLrrKFWzbR8K6692CCLRV"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 169785,
+      "name": "Inte bra i grupp",
+      "url": "https://open.spotify.com/track/1cSIHVhP9zdZeEG4qwwIoQ"
     },
     {
       "added_at": "2025-10-02 22:00:51",
@@ -1071,54 +1071,6 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
-        "name": "Bon Voyage",
-        "url": "https://open.spotify.com/album/59423YD9JZdvJsFSICrsfg"
-      },
-      "artists": [
-        {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
-        }
-      ],
-      "duration_ms": 163320,
-      "name": "Bon Voyage",
-      "url": "https://open.spotify.com/track/5Y9UJiXsJSXWlOOJl2FRLW"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
-        "name": "B\u00e4ttre h\u00e4r",
-        "url": "https://open.spotify.com/album/1wXJmcfz165NY32SoEaSVn"
-      },
-      "artists": [
-        {
-          "name": "Linnea Henriksson",
-          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
-        }
-      ],
-      "duration_ms": 188695,
-      "name": "B\u00e4ttre h\u00e4r",
-      "url": "https://open.spotify.com/track/3zqfcyKhCA4STL9qI4NmAL"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
-        "name": "Jag lovar",
-        "url": "https://open.spotify.com/album/2Yo0cj7ZMiJwsDavajoXpP"
-      },
-      "artists": [
-        {
-          "name": "Ella Tiritiello",
-          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
-        }
-      ],
-      "duration_ms": 183785,
-      "name": "Jag lovar",
-      "url": "https://open.spotify.com/track/4y8EzX57AY2RB5reMQM1XX"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
         "name": "Saltvatten",
         "url": "https://open.spotify.com/album/20vHV2i2Xsq1fKZ7WwKMZz"
       },
@@ -1139,6 +1091,54 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
+        "name": "Underbar",
+        "url": "https://open.spotify.com/album/0eNz0x9a8zKVGjlWi9wK1V"
+      },
+      "artists": [
+        {
+          "name": "Oscar Zia",
+          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
+        }
+      ],
+      "duration_ms": 155827,
+      "name": "Underbar",
+      "url": "https://open.spotify.com/track/4kUW83853lU7hqhUJHV96p"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
+        "name": "B\u00e4ttre h\u00e4r",
+        "url": "https://open.spotify.com/album/1wXJmcfz165NY32SoEaSVn"
+      },
+      "artists": [
+        {
+          "name": "Linnea Henriksson",
+          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
+        }
+      ],
+      "duration_ms": 188695,
+      "name": "B\u00e4ttre h\u00e4r",
+      "url": "https://open.spotify.com/track/3zqfcyKhCA4STL9qI4NmAL"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/59423YD9JZdvJsFSICrsfg"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC"
+        }
+      ],
+      "duration_ms": 163320,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/5Y9UJiXsJSXWlOOJl2FRLW"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
         "name": "P\u00e5 andra sidan havet (Folkmord)",
         "url": "https://open.spotify.com/album/00V5BUmkkGYBXGuEcG5JOR"
       },
@@ -1155,34 +1155,34 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/5emD6veRgAKrGIf31AoyI5"
+        "name": "Jag lovar",
+        "url": "https://open.spotify.com/album/2Yo0cj7ZMiJwsDavajoXpP"
       },
       "artists": [
         {
-          "name": "Adrian Mac\u00e9us",
-          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
+          "name": "Ella Tiritiello",
+          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
         }
       ],
-      "duration_ms": 132500,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/29wEVD99X1HJvWXuEmTTxm"
+      "duration_ms": 183785,
+      "name": "Jag lovar",
+      "url": "https://open.spotify.com/track/4y8EzX57AY2RB5reMQM1XX"
     },
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
-        "name": "Underbar",
-        "url": "https://open.spotify.com/album/0eNz0x9a8zKVGjlWi9wK1V"
+        "name": "Mjukt ljus",
+        "url": "https://open.spotify.com/album/2NlBfbdzrKtMKzcwBGQeVe"
       },
       "artists": [
         {
-          "name": "Oscar Zia",
-          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
+          "name": "Julia Lov",
+          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
         }
       ],
-      "duration_ms": 155827,
-      "name": "Underbar",
-      "url": "https://open.spotify.com/track/4kUW83853lU7hqhUJHV96p"
+      "duration_ms": 160817,
+      "name": "Mjukt ljus",
+      "url": "https://open.spotify.com/track/2NaFkhr86MXCLgmxcJSYNS"
     },
     {
       "added_at": "2025-10-02 22:00:51",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/5emD6veRgAKrGIf31AoyI5"
+      },
+      "artists": [
+        {
+          "name": "Adrian Mac\u00e9us",
+          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
+        }
+      ],
+      "duration_ms": 132500,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/29wEVD99X1HJvWXuEmTTxm"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
         "name": "Andarna",
         "url": "https://open.spotify.com/album/7xzfbsn3XlOxsemWxzykqY"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 226124,
       "name": "Andarna",
       "url": "https://open.spotify.com/track/3LbU3hQgMSyRHqYcGXVFLx"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
-        "name": "Mjukt ljus",
-        "url": "https://open.spotify.com/album/2NlBfbdzrKtMKzcwBGQeVe"
-      },
-      "artists": [
-        {
-          "name": "Julia Lov",
-          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
-        }
-      ],
-      "duration_ms": 160817,
-      "name": "Mjukt ljus",
-      "url": "https://open.spotify.com/track/2NaFkhr86MXCLgmxcJSYNS"
     },
     {
       "added_at": "2025-10-02 22:00:51",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
+        "name": "Visa vid vindens \u00e4ngar",
+        "url": "https://open.spotify.com/album/7zhoRHmKPQbhqdCeNdolgq"
+      },
+      "artists": [
+        {
+          "name": "Klara Almstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Visa vid vindens \u00e4ngar",
+      "url": "https://open.spotify.com/track/7f32bNrOzhPp3Ukb19tqoI"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
         "name": "F\u00f6r Sverige i tiden",
         "url": "https://open.spotify.com/album/2fNNdBuMKVptGEgFI62UiE"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 183160,
       "name": "Magk\u00e4nsla",
       "url": "https://open.spotify.com/track/4IR5XlkrTU0MIqYvm35gLd"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
-        "name": "Visa vid vindens \u00e4ngar",
-        "url": "https://open.spotify.com/album/7zhoRHmKPQbhqdCeNdolgq"
-      },
-      "artists": [
-        {
-          "name": "Klara Almstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Visa vid vindens \u00e4ngar",
-      "url": "https://open.spotify.com/track/7f32bNrOzhPp3Ukb19tqoI"
     },
     {
       "added_at": "2025-10-02 22:00:51",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
-        "name": "Dance King",
-        "url": "https://open.spotify.com/album/6Uv7kHf6Jroa2W24NSzPQ8"
-      },
-      "artists": [
-        {
-          "name": "Saga Faye",
-          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
-        }
-      ],
-      "duration_ms": 150872,
-      "name": "Dance King",
-      "url": "https://open.spotify.com/track/39M1vHVjacFSQroeRSTV4V"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
         "name": "Slott av luft",
         "url": "https://open.spotify.com/album/41jolTTrQSFIW0H7PuXr0n"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 161447,
       "name": "Slott av luft",
       "url": "https://open.spotify.com/track/4KDSCPNo7yPOLnAKIcX3jm"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
+        "name": "Dance King",
+        "url": "https://open.spotify.com/album/6Uv7kHf6Jroa2W24NSzPQ8"
+      },
+      "artists": [
+        {
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
+        }
+      ],
+      "duration_ms": 150872,
+      "name": "Dance King",
+      "url": "https://open.spotify.com/track/39M1vHVjacFSQroeRSTV4V"
     },
     {
       "added_at": "2025-10-02 22:00:51",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
-        "name": "Den enda du har",
-        "url": "https://open.spotify.com/album/1gwhFxLUwG7QFmKiibz01j"
-      },
-      "artists": [
-        {
-          "name": "Nektar",
-          "url": "https://open.spotify.com/artist/1yeda824Q8uZiR0i29Fa4d"
-        }
-      ],
-      "duration_ms": 286820,
-      "name": "Den enda du har",
-      "url": "https://open.spotify.com/track/4qhTYbdnPbpZr2SQgStJrP"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
         "name": "Ringar p\u00e5 vatten",
         "url": "https://open.spotify.com/album/0TLgK4U330eUAGOJok5Anc"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 153998,
       "name": "Ringar p\u00e5 vatten",
       "url": "https://open.spotify.com/track/0TKpAnZTeEnPkVbbTD2tHY"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
+        "name": "Den enda du har",
+        "url": "https://open.spotify.com/album/1gwhFxLUwG7QFmKiibz01j"
+      },
+      "artists": [
+        {
+          "name": "Nektar",
+          "url": "https://open.spotify.com/artist/1yeda824Q8uZiR0i29Fa4d"
+        }
+      ],
+      "duration_ms": 286820,
+      "name": "Den enda du har",
+      "url": "https://open.spotify.com/track/4qhTYbdnPbpZr2SQgStJrP"
     },
     {
       "added_at": "2025-10-02 22:00:51",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
-        "name": "Staden",
-        "url": "https://open.spotify.com/album/10m9GVB1D3nQxNAmUrr7tH"
-      },
-      "artists": [
-        {
-          "name": "Von Disco",
-          "url": "https://open.spotify.com/artist/4x7WacYjAU6XQpeDHmNxhv"
-        }
-      ],
-      "duration_ms": 143236,
-      "name": "Staden",
-      "url": "https://open.spotify.com/track/3NU6g9s3vo643YWSHfn5PF"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
         "name": "Lilla F\u00e5gel Bl\u00e5",
         "url": "https://open.spotify.com/album/4ouppQ8BxOMAOcs1jjgBKZ"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 133617,
       "name": "Lilla F\u00e5gel Bl\u00e5",
       "url": "https://open.spotify.com/track/6dOz6Z3vJXx2T2338poGwK"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
+        "name": "Staden",
+        "url": "https://open.spotify.com/album/10m9GVB1D3nQxNAmUrr7tH"
+      },
+      "artists": [
+        {
+          "name": "Von Disco",
+          "url": "https://open.spotify.com/artist/4x7WacYjAU6XQpeDHmNxhv"
+        }
+      ],
+      "duration_ms": 143236,
+      "name": "Staden",
+      "url": "https://open.spotify.com/track/3NU6g9s3vo643YWSHfn5PF"
     },
     {
       "added_at": "2025-10-02 22:00:51",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
+        "name": "I Believed",
+        "url": "https://open.spotify.com/album/60yZlBnmsGBEW2YG9QTeYe"
+      },
+      "artists": [
+        {
+          "name": "Maria Jane Smith",
+          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
+        }
+      ],
+      "duration_ms": 179266,
+      "name": "I Believed",
+      "url": "https://open.spotify.com/track/2f1UuqZvtbNHRxEIzFXRf4"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
         "name": "Bacchanal (vem bryr sej om 200 \u00e5r!?)",
         "url": "https://open.spotify.com/album/6Q3yzxOqe25kwUTDH3JPWD"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 165346,
       "name": "Bacchanal (vem bryr sej om 200 \u00e5r!?)",
       "url": "https://open.spotify.com/track/0OQFqa9Iu94v7n0pH3f3XA"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
-        "name": "I Believed",
-        "url": "https://open.spotify.com/album/60yZlBnmsGBEW2YG9QTeYe"
-      },
-      "artists": [
-        {
-          "name": "Maria Jane Smith",
-          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
-        }
-      ],
-      "duration_ms": 179266,
-      "name": "I Believed",
-      "url": "https://open.spotify.com/track/2f1UuqZvtbNHRxEIzFXRf4"
     },
     {
       "added_at": "2025-10-02 22:00:51",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
-        "name": "Sommarland",
-        "url": "https://open.spotify.com/album/7q9mqWT3bEfgLhGbpPSwjo"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
-        }
-      ],
-      "duration_ms": 163064,
-      "name": "Sommarland",
-      "url": "https://open.spotify.com/track/3pOjWUQShXxf03rfThapNZ"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
         "name": "Vem vill va sj\u00e4lv",
         "url": "https://open.spotify.com/album/6FYC9Wfc8kKYt5xaw5qw7x"
       },
@@ -1755,6 +1739,22 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
+        "name": "A Glitch In The Matrix",
+        "url": "https://open.spotify.com/album/3DFQ8HHK62kGV4yknGe9KP"
+      },
+      "artists": [
+        {
+          "name": "Maria Jane Smith",
+          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
+        }
+      ],
+      "duration_ms": 265212,
+      "name": "Harley Pt. 2",
+      "url": "https://open.spotify.com/track/2NhLmzbbr44giCxzwoSAAD"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
         "name": "Swedish Girl",
         "url": "https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo"
       },
@@ -1767,6 +1767,22 @@
       "duration_ms": 153937,
       "name": "Swedish Girl",
       "url": "https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
+        "name": "Sommarland",
+        "url": "https://open.spotify.com/album/7q9mqWT3bEfgLhGbpPSwjo"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "duration_ms": 163064,
+      "name": "Sommarland",
+      "url": "https://open.spotify.com/track/3pOjWUQShXxf03rfThapNZ"
     },
     {
       "added_at": "2025-10-02 22:00:51",
@@ -1815,22 +1831,6 @@
       "duration_ms": 188195,
       "name": "k\u00e4nna det igen",
       "url": "https://open.spotify.com/track/2IzwU2LnVFlCGl7IHtYNJk"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
-        "name": "Springer Ikapp",
-        "url": "https://open.spotify.com/album/5cUibeySR9mDVYxRrtrcQk"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
-        }
-      ],
-      "duration_ms": 214033,
-      "name": "Springer ikapp",
-      "url": "https://open.spotify.com/track/5DF56PEsdLEHpqoCpzLg6I"
     }
   ],
   "unique_name": "Made in Sweden",

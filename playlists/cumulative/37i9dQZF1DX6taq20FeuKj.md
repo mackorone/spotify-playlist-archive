@@ -4,7 +4,7 @@
 
 > Get your gaming session going with this epic rap mix.
 
-449 songs - 1 day 0 hr 57 min
+450 songs - 1 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Our Time](https://open.spotify.com/track/4PlwZcXyJwoYPgafhglDgq) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Our Time](https://open.spotify.com/album/5OGVTcBmkApTJTcujoXFht) | 1:38 | 2021-09-03 | 2022-07-29 |
 | [Out On Bail](https://open.spotify.com/track/1ylymaTbSjggG7TaItdRkI) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Out On Bail](https://open.spotify.com/album/5zJWl86o0Xf0KdSw2OYi63) | 2:31 | 2021-09-03 | 2022-07-25 |
 | [OUT WEST \(feat\. Young Thug\)](https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 2:37 | 2022-10-28 |  |
+| [Outside Today](https://open.spotify.com/track/5PIfH6BzcmH04RDmtzF0BN) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Until Death Call My Name](https://open.spotify.com/album/6ee8lju8zGwQ6Pkr5tZSts) | 2:09 | 2024-05-02 |  |
 | [Over Your Head](https://open.spotify.com/track/0Tcw8w9pvPrZoORgxsNASW) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Over Your Head](https://open.spotify.com/album/2LLu6xqRlPgR80v0lg5WR1) | 3:06 | 2021-09-03 | 2022-04-21 |
 | [Panda](https://open.spotify.com/track/275a9yzwGB6ncAW4SxY7q3) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Panda](https://open.spotify.com/album/1k3BLTc4VZ7beRBXL1SPN6) | 4:07 | 2022-03-25 | 2022-10-29 |
 | [PAPARAZZI](https://open.spotify.com/track/001U2oRRZXrLbeOJMduXSc) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi) | 2:28 | 2022-03-11 | 2022-07-29 |
@@ -448,7 +449,7 @@
 | [Why Would I Stop?](https://open.spotify.com/track/46hDiH4YvAWXE04GskkIHS) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 2:32 | 2021-09-03 | 2022-07-29 |
 | [Wishing Well](https://open.spotify.com/track/2U5WueTLIK5WJLD7mvDODv) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 3:14 | 2024-01-11 |  |
 | [Without Me](https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:50 | 2024-05-31 |  |
-| [wokeuplikethis\*](https://open.spotify.com/track/59J5nzL1KniFHnU120dQzt) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 3:55 | 2022-10-28 |  |
+| [wokeuplikethis\*](https://open.spotify.com/track/59J5nzL1KniFHnU120dQzt) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 3:55 | 2022-10-28 | 2025-10-06 |
 | [Wolves \(feat\. Post Malone\)](https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 3:19 | 2021-09-03 | 2024-01-12 |
 | [WUNNA](https://open.spotify.com/track/0y7Ao3CVJsyKFmqdjutiIF) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 2:38 | 2022-03-25 | 2022-04-18 |
 | [X \(feat\. Future\)](https://open.spotify.com/track/6fwdbPMwP1zVStm8FybmkO) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Savage Mode](https://open.spotify.com/album/4I3EcXD4e3KcEoDJfFEZ5b) | 4:18 | 2022-10-28 | 2024-01-12 |

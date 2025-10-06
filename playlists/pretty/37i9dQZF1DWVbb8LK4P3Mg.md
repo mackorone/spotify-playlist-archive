@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! \(Cover: ONEWE\(원위\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,776 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,762 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 47 | [Will You Be My Home](https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z) | [대니 구\(Danny Koo\)](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn) | [Will You Be My Home](https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R) | 3:30 |
 | 48 | [The Magic of Christmas Time](https://open.spotify.com/track/35OjjtMHKnPdOAsEZ6M9OA) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [This Christmas – Winter is Coming](https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx) | 2:47 |
 | 49 | [Lonely Christmas](https://open.spotify.com/track/2vJP8zpSkssJjuddm63jyS) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Lonely Christmas](https://open.spotify.com/album/6EdZ5jg5tJ0vV97VzXFG7a) | 3:37 |
-| 50 | [Christmas Gift \(feat\. Ashley Alisha & Sonny Zero\)](https://open.spotify.com/track/3c1Dp25RwHWmTuqx5jHMW4) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [Christmas Gift](https://open.spotify.com/album/48DteS8oPnYiwJsA0aM9Dv) | 2:45 |
-| 51 | [gr8](https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [gr8](https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU) | 2:38 |
+| 50 | [gr8](https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [gr8](https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU) | 2:38 |
+| 51 | [Christmas Gift \(feat\. Ashley Alisha & Sonny Zero\)](https://open.spotify.com/track/3c1Dp25RwHWmTuqx5jHMW4) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [Christmas Gift](https://open.spotify.com/album/48DteS8oPnYiwJsA0aM9Dv) | 2:45 |
 | 52 | [merry merry](https://open.spotify.com/track/2kGIo9vbpdBnRnOJlPAtNb) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [merry merry](https://open.spotify.com/album/0u4kQYJsfOrpnew817qr5q) | 2:45 |
 | 53 | [christmas recipe \(feat\. 16\)](https://open.spotify.com/track/16rKQI5eOg9v47XOoA7beq) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [16](https://open.spotify.com/artist/0OTgDNfl2p58FhCuhFuMcF) | [christmas recipe](https://open.spotify.com/album/7IPcwUqtcrmpwVE7dKgdYF) | 2:54 |
 | 54 | [I Need You](https://open.spotify.com/track/68fpO1QFaZAssEl9c6546S) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [I Need You](https://open.spotify.com/album/6lxrVgsLIypewMYdY2DURL) | 3:26 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 93 | [Sweater \- Orchestral Version](https://open.spotify.com/track/04qZBrSALT0FSxG42XLexl) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Sweater \(Orchestral Version\)](https://open.spotify.com/album/3ito8Q4onJ9uQFAR3omfWb) | 3:57 |
 | 94 | [D\-day](https://open.spotify.com/track/5u7y6dLbCVbCGZCwEz8RBE) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Favorite Winter](https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp) | 3:57 |
 | 95 | [Movie Winter](https://open.spotify.com/track/0P00r0hbz9yKs4DtBCzqVu) | [Tarin](https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO) | [Movie Winter](https://open.spotify.com/album/34q66uq3KaL6CTlqDmTvyc) | 2:45 |
-| 96 | [It's Christmas](https://open.spotify.com/track/1rG5ROBk7oNa2qRZO9gBcz) | [FNC ARTIST](https://open.spotify.com/artist/1skD49OqyAqPbSUpVyxEP0) | [FNC LAB \#2 'It's Christmas'](https://open.spotify.com/album/5T3gFIMhsV2HuCRmZNgo2S) | 3:50 |
-| 97 | [Jingle Bells](https://open.spotify.com/track/2CKdHKVgFiemZTZucPJY4q) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [MIDNIGHT CHRISTMAS](https://open.spotify.com/album/5W65ubAkiJzldtaloU3G13) | 2:22 |
+| 96 | [Jingle Bells](https://open.spotify.com/track/2CKdHKVgFiemZTZucPJY4q) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [MIDNIGHT CHRISTMAS](https://open.spotify.com/album/5W65ubAkiJzldtaloU3G13) | 2:22 |
+| 97 | [It's Christmas](https://open.spotify.com/track/1rG5ROBk7oNa2qRZO9gBcz) | [FNC ARTIST](https://open.spotify.com/artist/1skD49OqyAqPbSUpVyxEP0) | [FNC LAB \#2 'It's Christmas'](https://open.spotify.com/album/5T3gFIMhsV2HuCRmZNgo2S) | 3:50 |
 | 98 | [Grass under Snow](https://open.spotify.com/track/5yqrLjLXElOOj8cW1eH0If) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi), [GGS](https://open.spotify.com/artist/1skhcLxnX5M0NK59U7b1I2), [psv:gun](https://open.spotify.com/artist/6nLtSzTBaODlpfv1oQr7v0) | [Grass under Snow](https://open.spotify.com/album/2bUVBzFqxI4LmcgM58rDro) | 2:58 |
 | 99 | [Last Christmas](https://open.spotify.com/track/4lJhsgN4GVDWOsZTpYN1Sb) | [B.I.G](https://open.spotify.com/artist/6gHyYB83BQlGKpqbn57D8R) | [Last Christmas](https://open.spotify.com/album/27brxcSO7wHNJbtoUFALaa) | 3:24 |
 | 100 | [Christmas Again](https://open.spotify.com/track/1CNmcZ0bv30xYUTPiftBtS) | [1set](https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl) | [Christmas Again](https://open.spotify.com/album/6OMA4TLlpQnbfCpx4s6Cmc) | 3:46 |

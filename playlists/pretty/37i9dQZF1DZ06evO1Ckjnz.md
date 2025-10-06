@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ckjnz.md) - [plain]
 
 > This is Rico Nasty\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,960 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,964 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ckjnz.md) - [plain]
 | 39 | [Poppin](https://open.spotify.com/track/2EniaQpyAdPbOt6irqXSpN) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Sugar Trap 2](https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt) | 2:47 |
 | 40 | [Trust Issues](https://open.spotify.com/track/3U1er6n2pSve0xcNVn9eUu) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nasty](https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1) | 3:17 |
 | 41 | [High Heels \(feat\. Rico Nasty\)](https://open.spotify.com/track/4DrDU8Vv9UkveFFgGhAnzG) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Pink Is Better](https://open.spotify.com/album/0FnQVPQcWZjPL6u6M1qDAf) | 2:35 |
-| 42 | [H.O.T.](https://open.spotify.com/track/4ARDoNfzkclZOONnsXnEtB) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [HARDC0RE DR3AMZ](https://open.spotify.com/album/13d9lBpUjqyGa1fE4FgcyD) | 2:35 |
-| 43 | [SUGARPARENTS \(feat\. Rico Nasty\)](https://open.spotify.com/track/2WS2N8wgs9Drd5MNJLJxkf) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [ONEPOINTFIVE](https://open.spotify.com/album/4mwO9qIVmngSe7yR5Ios0I) | 1:59 |
+| 42 | [SUGARPARENTS \(feat\. Rico Nasty\)](https://open.spotify.com/track/2WS2N8wgs9Drd5MNJLJxkf) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [ONEPOINTFIVE](https://open.spotify.com/album/4mwO9qIVmngSe7yR5Ios0I) | 1:59 |
+| 43 | [H.O.T.](https://open.spotify.com/track/4ARDoNfzkclZOONnsXnEtB) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [HARDC0RE DR3AMZ](https://open.spotify.com/album/13d9lBpUjqyGa1fE4FgcyD) | 2:35 |
 | 44 | [STFU](https://open.spotify.com/track/01793uMHGj38bP3ZtXeeeL) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nightmare Vacation](https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL) | 2:16 |
 | 45 | [Hatin](https://open.spotify.com/track/3Wk4qCyx4m5aoafRxftp43) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kenny Beats](https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1) | [Anger Management](https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf) | 2:20 |
 | 46 | [FMU](https://open.spotify.com/track/5p84ePa35EvlMOADpwwogw) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [SEXORCISM](https://open.spotify.com/album/4TI5JC2BNfGFqk9GeA86Hk) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ckjnz.md) - [plain]
 | 49 | [my way \(w/ Rico Nasty & Kanii\)](https://open.spotify.com/track/0MIJyhl23TYo8HBVcLxx0Y) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [my way \(w/ Rico Nasty & Kanii\)](https://open.spotify.com/album/4CmTdaHt5vFyOQQjjmcruR) | 2:57 |
 | 50 | [Cold](https://open.spotify.com/track/4Onanh2sbZQKTGH8KvWzxS) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kenny Beats](https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1) | [Anger Management](https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf) | 2:33 |
 
-Snapshot ID: `aN8SAAAAAADzjMYlnxyTx25QtgINivm9`
+Snapshot ID: `aOBjgAAAAACTQ7BsxC8D4nYcOqhSx2+T`

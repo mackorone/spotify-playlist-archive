@@ -1,13 +1,29 @@
 {
   "description": "This is Turnstile. The essential tracks, all in one playlist.",
-  "num_followers": 38282,
+  "num_followers": 38341,
   "original_name": "This Is Turnstile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAADsXtXobkDzm89NPbcpK9Ik",
+  "snapshot_id": "aOBjgAAAAAB1PErUFNEgCNhP24Qcz3LV",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 147750,
+      "name": "NEW HEART DESIGN",
+      "url": "https://open.spotify.com/track/6J2Y5iz8C5b83ndoPun6aF"
+    },
     {
       "added_at": null,
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 146933,
       "name": "BIRDS",
       "url": "https://open.spotify.com/track/0kshHISCRGn9MwpkbqafG4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 173279,
-      "name": "BLACKOUT",
-      "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o"
     },
     {
       "added_at": null,
@@ -83,6 +83,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 173279,
+      "name": "BLACKOUT",
+      "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
       },
@@ -99,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+        "name": "Nonstop Feeling",
+        "url": "https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6"
       },
       "artists": [
         {
@@ -108,9 +124,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 172020,
-      "name": "HOLIDAY",
-      "url": "https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7"
+      "duration_ms": 108769,
+      "name": "Love Lasso",
+      "url": "https://open.spotify.com/track/0jN0nHXkh1hJt3RlN2tgVk"
     },
     {
       "added_at": null,
@@ -131,8 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nonstop Feeling",
-        "url": "https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6"
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
       "artists": [
         {
@@ -140,9 +156,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 78590,
-      "name": "Blue by You",
-      "url": "https://open.spotify.com/track/6hSIZc6GWa6uUTyzSPcwWT"
+      "duration_ms": 172020,
+      "name": "HOLIDAY",
+      "url": "https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7"
     },
     {
       "added_at": null,
@@ -163,8 +179,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+        "name": "Nonstop Feeling",
+        "url": "https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6"
       },
       "artists": [
         {
@@ -172,9 +188,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 133353,
-      "name": "DON'T PLAY",
-      "url": "https://open.spotify.com/track/69uzV9BQmNLPIu0dWK4Tbe"
+      "duration_ms": 78590,
+      "name": "Blue by You",
+      "url": "https://open.spotify.com/track/6hSIZc6GWa6uUTyzSPcwWT"
     },
     {
       "added_at": null,
@@ -195,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nonstop Feeling",
-        "url": "https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6"
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
       "artists": [
         {
@@ -204,9 +220,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 164456,
-      "name": "Can't Deny It",
-      "url": "https://open.spotify.com/track/4W024pk8Dm0yjFn3ciaz2F"
+      "duration_ms": 133353,
+      "name": "DON'T PLAY",
+      "url": "https://open.spotify.com/track/69uzV9BQmNLPIu0dWK4Tbe"
     },
     {
       "added_at": null,
@@ -227,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+        "name": "Nonstop Feeling",
+        "url": "https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6"
       },
       "artists": [
         {
@@ -236,9 +252,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 118541,
-      "name": "ENDLESS",
-      "url": "https://open.spotify.com/track/6yzMX2L7bjFbklJPfBIO3o"
+      "duration_ms": 164456,
+      "name": "Can't Deny It",
+      "url": "https://open.spotify.com/track/4W024pk8Dm0yjFn3ciaz2F"
     },
     {
       "added_at": null,
@@ -259,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nonstop Feeling",
-        "url": "https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6"
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
       "artists": [
         {
@@ -268,9 +284,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 172028,
-      "name": "Fazed Out",
-      "url": "https://open.spotify.com/track/31EYM7iJC3FEADrfzA4bmD"
+      "duration_ms": 118541,
+      "name": "ENDLESS",
+      "url": "https://open.spotify.com/track/6yzMX2L7bjFbklJPfBIO3o"
     },
     {
       "added_at": null,
@@ -291,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+        "name": "Nonstop Feeling",
+        "url": "https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6"
       },
       "artists": [
         {
@@ -300,9 +316,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 155199,
-      "name": "MYSTERY",
-      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
+      "duration_ms": 172028,
+      "name": "Fazed Out",
+      "url": "https://open.spotify.com/track/31EYM7iJC3FEADrfzA4bmD"
     },
     {
       "added_at": null,
@@ -323,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nonstop Feeling",
-        "url": "https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6"
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
       "artists": [
         {
@@ -332,9 +348,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 96588,
-      "name": "Drop",
-      "url": "https://open.spotify.com/track/2RUlE7rP0oKPQE5fI6nQMk"
+      "duration_ms": 155199,
+      "name": "MYSTERY",
+      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
     },
     {
       "added_at": null,
@@ -355,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+        "name": "Nonstop Feeling",
+        "url": "https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6"
       },
       "artists": [
         {
@@ -364,9 +380,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 184944,
-      "name": "UNDERWATER BOI",
-      "url": "https://open.spotify.com/track/4pV11quzVm52tULYj6ITD2"
+      "duration_ms": 96588,
+      "name": "Drop",
+      "url": "https://open.spotify.com/track/2RUlE7rP0oKPQE5fI6nQMk"
     },
     {
       "added_at": null,
@@ -387,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nonstop Feeling",
-        "url": "https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 190394,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/47BhgqJy3oRTGzjNTgf3hq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Step to Rhythm",
         "url": "https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz"
       },
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 97136,
-      "name": "7",
-      "url": "https://open.spotify.com/track/6VHhnEVCYvxlQQr5kbWd5i"
+      "duration_ms": 197433,
+      "name": "Keep It Moving",
+      "url": "https://open.spotify.com/track/4VVnprM3eR1hlac2ulGzjv"
     },
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nonstop Feeling",
+        "url": "https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 190394,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/47BhgqJy3oRTGzjNTgf3hq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pressure to Succeed",
         "url": "https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO"
       },
@@ -451,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nonstop Feeling",
-        "url": "https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 136716,
-      "name": "Bad Wave",
-      "url": "https://open.spotify.com/track/4ErXaLOxWqva7GsgQY3Kql"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Step to Rhythm",
         "url": "https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz"
       },
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 197433,
-      "name": "Keep It Moving",
-      "url": "https://open.spotify.com/track/4VVnprM3eR1hlac2ulGzjv"
+      "duration_ms": 97136,
+      "name": "7",
+      "url": "https://open.spotify.com/track/6VHhnEVCYvxlQQr5kbWd5i"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
       "duration_ms": 211712,
       "name": "Better Way",
       "url": "https://open.spotify.com/track/0AfcDu9FosOBh8HtoEVxHE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Step to Rhythm",
-        "url": "https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 93013,
-      "name": "Snaked",
-      "url": "https://open.spotify.com/track/0R046DVTvu15N3RpzitDY5"
     }
   ],
   "unique_name": "This Is Turnstile",

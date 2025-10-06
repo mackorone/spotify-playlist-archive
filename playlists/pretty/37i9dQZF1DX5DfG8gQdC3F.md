@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Taylor Swift, Luke Combs, Fred again..., Lauren Spencer Smith, Fredz and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,932 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,003 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 67 | [Star 6 9](https://open.spotify.com/track/0e2aRqnNEkLc1NDgVpfSuP) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Worldwide](https://open.spotify.com/album/1Lej9DPOh2ljmeiyKTFHrz) | 3:11 |
 | 68 | [Beyond the Pines](https://open.spotify.com/track/4FGQflyaaFIUwS6Llb8kq4) | [Maria\-Therese](https://open.spotify.com/artist/5G7CkGWwTk7l36L6vw0ftK) | [MONARCH](https://open.spotify.com/album/4zISc7rQ93tgBp3Htxc2vO) | 3:31 |
 | 69 | [Sarah](https://open.spotify.com/track/626vFZjPFRPHnjAha24UKW) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Sarah](https://open.spotify.com/album/6Pctlav5tWkidNJ9nOvYiU) | 3:29 |
-| 70 | [Big Boobs \(ft\. Zora\)](https://open.spotify.com/track/5HC4NulHGigB6MvPIUYTF9) | [Gully Boys](https://open.spotify.com/artist/0RNADU4Af78zqyTCOj2rVU), [Zora](https://open.spotify.com/artist/3pFbhzunKyBUtD2i43BjxB) | [Gully Boys](https://open.spotify.com/album/6vKrrP3yqueciIMoOMeLKP) | 3:05 |
+| 70 | [Big Boobs \(ft\. Zora\)](https://open.spotify.com/track/5HC4NulHGigB6MvPIUYTF9) | [Gully Boys](https://open.spotify.com/artist/0RNADU4Af78zqyTCOj2rVU), [ZORA](https://open.spotify.com/artist/0XKJrvokkuYzlL4umtnit8) | [Gully Boys](https://open.spotify.com/album/6vKrrP3yqueciIMoOMeLKP) | 3:05 |
 | 71 | [New Case](https://open.spotify.com/track/5LF2zTvtSPdm6Ffa2IuXUf) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [New Case](https://open.spotify.com/album/5szt6cyBnFYsksLYpu4jw1) | 2:46 |
 | 72 | [Cocoa](https://open.spotify.com/track/2umjueMhtny00cbEgTuj1U) | [KAYAM](https://open.spotify.com/artist/58UJUfMaQRjFlDxawMuOru), [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [Cocoa](https://open.spotify.com/album/5ncDR3ojJICabsyySTdJRt) | 2:42 |
 | 73 | [Smokestack Town](https://open.spotify.com/track/7yxdlyCfn8NheFLJ29ECLp) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [Smokestack Town](https://open.spotify.com/album/3UYGvm4wCqViaF8XkOhd5m) | 4:08 |

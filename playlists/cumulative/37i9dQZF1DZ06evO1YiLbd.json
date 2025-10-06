@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "SAKAMOTO DAYS Original Sound Track (Hayashi special Mix Vol.2)",
+        "url": "https://open.spotify.com/album/2WNFxXXoEIKHLoXxeaNxDU"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96685,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/0AoMMPObGluADHQx7xpFiw"
+    },
+    {
+      "album": {
         "name": "Believe - A Bridge to you - ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/42f32ey4GbC3OI1m3ZwPFn"
       },
@@ -1642,7 +1660,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 124706,
       "name": "\u304a\u4e92\u3044",
       "url": "https://open.spotify.com/track/3xoR0KaRRbNGfJZwz2zm6n"
@@ -2294,7 +2312,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 142893,
       "name": "\u5408\u6d41",
       "url": "https://open.spotify.com/track/34K68U7gox0nTZih04zKcL"
@@ -3234,7 +3252,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-17",
+      "date_removed": null,
       "duration_ms": 91973,
       "name": "\u9802\u306e\u666f\u8272",
       "url": "https://open.spotify.com/track/3TQq78O1tjqaAvEusTDh4s"

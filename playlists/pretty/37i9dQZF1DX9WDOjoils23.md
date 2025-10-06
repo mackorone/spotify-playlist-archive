@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,471 likes - 50 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,525 likes - 50 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

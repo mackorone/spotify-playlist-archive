@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Isaiah Falls & Alex Isley
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,367,816 likes - 215 songs - 11 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,367,855 likes - 215 songs - 11 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

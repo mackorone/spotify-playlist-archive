@@ -1,12 +1,12 @@
 {
   "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
-  "num_followers": 99528,
+  "num_followers": 99544,
   "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAAA4HfEI6pRZm6Tu1S4i4xWM",
+  "snapshot_id": "aOBjgAAAAAAAeyqC7BJOjemgd1m1HnzV",
   "tracks": [
     {
       "added_at": null,
@@ -383,18 +383,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUBJECT TO CHANGE",
-        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+        "name": "kelsea",
+        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
       },
       "artists": [
         {
           "name": "Kelsea Ballerini",
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 211843,
-      "name": "MUSCLE MEMORY",
-      "url": "https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ"
+      "duration_ms": 201343,
+      "name": "the other girl (with Halsey)",
+      "url": "https://open.spotify.com/track/3CS5zwqrjggxlRD0QGJAva"
     },
     {
       "added_at": null,
@@ -415,22 +419,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "kelsea",
-        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
       },
       "artists": [
         {
           "name": "Kelsea Ballerini",
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 201343,
-      "name": "the other girl (with Halsey)",
-      "url": "https://open.spotify.com/track/3CS5zwqrjggxlRD0QGJAva"
+      "duration_ms": 211843,
+      "name": "MUSCLE MEMORY",
+      "url": "https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ"
     },
     {
       "added_at": null,

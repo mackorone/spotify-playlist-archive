@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,853 songs - 7 day 10 hr 40 min
+2,854 songs - 7 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -995,6 +995,7 @@
 | [Gold Dust \- ILLENIUM 2015 Remix](https://open.spotify.com/track/31xpBcHJen3t4zJz02dO1U) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [Gold Dust \(ILLENIUM 2015 Remix\)](https://open.spotify.com/album/20FXdazGWpExq17zclAjKP) | 4:24 | 2024-01-26 | 2024-02-03 |
 | [Gold Gats \- Remix](https://open.spotify.com/track/5CbOAS4lEeyeWAmksFxV8G) | [Computa 75](https://open.spotify.com/artist/7l9mFRw0QLLuqYAJ0p0oGq), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [G\. Dep](https://open.spotify.com/artist/7x7pxJtOTFkTSStKmrRyRp) | [Gold Gats \(Remix\)](https://open.spotify.com/album/2w9v6vKEiPv5KzJsFbERxF) | 2:24 | 2025-09-05 | 2025-09-13 |
 | [Golden](https://open.spotify.com/track/2qpO61VYdgYDYrrXGfA2yi) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Golden](https://open.spotify.com/album/3xPchYxzLZMB0v9QilXjiG) | 3:01 | 2023-04-21 | 2023-05-13 |
+| [Golden \(Goes Metal\)](https://open.spotify.com/track/4qeRXoKDj8BfEnrbBc7yNq) | [Anthony Vincent](https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6), [Artificial Fear](https://open.spotify.com/artist/1CFxbBr11nVJSQ0lB9RPgr) | [Golden \(Goes Metal\)](https://open.spotify.com/album/5i4bEqBHZTkxAcq6619icq) | 3:32 | 2025-10-03 |  |
 | [Golden \(KPop Demon Hunters\)](https://open.spotify.com/track/3QTyZisBmEM3b7Pqm0I2GC) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Golden \(KPop Demon Hunters\)](https://open.spotify.com/album/4wVccijheCSiL6BWcJRGvd) | 3:02 | 2025-09-19 | 2025-09-27 |
 | [GOMD \(Remix\) \[feat\. Lil Uzi Vert\]](https://open.spotify.com/track/4ncoZ4PKxvyzVoSIJsOLo0) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [GOMD \(Remix\) \[feat\. Lil Uzi Vert\]](https://open.spotify.com/album/1XTi2AYI6uOEonUfsLSm3s) | 4:36 | 2023-05-12 | 2023-06-02 |
 | [GOMD \(Remix\) \[feat\. Lil Uzi Vert\]](https://open.spotify.com/track/7wYgd9KnYvtwqXOeDKpBEL) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [GOMD \(Remix\) \[feat\. Lil Uzi Vert\]](https://open.spotify.com/album/6QDwI3PVyKahJbYF6fZekd) | 4:36 | 2023-05-12 | 2023-06-03 |

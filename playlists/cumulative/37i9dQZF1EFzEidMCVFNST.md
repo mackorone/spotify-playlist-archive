@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-543 songs - 1 day 1 hr 50 min
+544 songs - 1 day 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,8 @@
 | [Deu a Louca Nessa Raba](https://open.spotify.com/track/5UZIU262qdyMcE0n8z0Icj) | [Thamy](https://open.spotify.com/artist/5NUcO47R7xlNLpeQiHhqol), [Edu Donna](https://open.spotify.com/artist/3O7If1JfH3Fgjr9qmN1T3d) | [Deu a Louca Nessa Raba](https://open.spotify.com/album/2SqYJWJW7kwQTRV7ftpaB5) | 2:33 | 2024-01-29 | 2025-06-28 |
 | [Deus Me Livre De Fofoca \- Léo Santana Ao Vivo / 2020](https://open.spotify.com/track/55bxiH6LekEgK1yK2r4lZi) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [O Poeta](https://open.spotify.com/artist/44joZFurg31HS9vvv64WpU) | [Al Mare \(Léo Santana Ao Vivo / 2020\)](https://open.spotify.com/album/4qX0iBJJuhC7YmYvMC9JZ3) | 2:49 | 2024-01-29 | 2025-06-28 |
 | [Deus Me Livre Fofoca \(Ao Vivo\)](https://open.spotify.com/track/5Rij3WitXnRVkb7VY23hDj) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [A Gente Acertou \(Ao Vivo\)](https://open.spotify.com/album/7f9lP1wSft6PMoya01QmDn) | 2:33 | 2025-06-27 |  |
-| [Deve Haver](https://open.spotify.com/track/1KUthtIQJQEqBYOgewiMEs) | [Sampa Crew](https://open.spotify.com/artist/1sPTOnMc3tEimHIT9xZX4G) | [Todo Coração Tem Jeito](https://open.spotify.com/album/7gVXiIpReG9lHFg6jPDmHU) | 3:29 | 2024-01-29 |  |
+| [Deve Haver](https://open.spotify.com/track/1KUthtIQJQEqBYOgewiMEs) | [Sampa Crew](https://open.spotify.com/artist/1sPTOnMc3tEimHIT9xZX4G) | [Todo Coração Tem Jeito](https://open.spotify.com/album/7gVXiIpReG9lHFg6jPDmHU) | 3:29 | 2024-01-29 | 2025-10-06 |
+| [Deve Haver](https://open.spotify.com/track/2tx7zGElPkD2ylC9zvyVkR) | [Sampa Crew](https://open.spotify.com/artist/1sPTOnMc3tEimHIT9xZX4G) | [Todo Coração Tem Jeito](https://open.spotify.com/album/7p7dGYVjbc9g5eebHDAxuq) | 3:29 | 2025-10-05 |  |
 | [Dia D \- Ao Vivo](https://open.spotify.com/track/0sE0T1vVGKPd06ZU7CTIwI) | [Rick & Nogueira](https://open.spotify.com/artist/0MZjTmgoSErzmMapfREhGv) | [Resenha dos Lokos 2, Ep\. 2 \(Ao Vivo\)](https://open.spotify.com/album/3BrCylfQ10rcEm1PBWJKJu) | 2:49 | 2024-01-29 | 2024-06-24 |
 | [Dia D \- Ao Vivo](https://open.spotify.com/track/2x27qfjs2LHNDFCgdbBusn) | [Rick & Nogueira](https://open.spotify.com/artist/0MZjTmgoSErzmMapfREhGv) | [Resenha dos Lokos 2 \(Ao Vivo\)](https://open.spotify.com/album/2BsZHZMyJKhfMMiFb3348T) | 2:49 | 2024-06-23 |  |
 | [Doida](https://open.spotify.com/track/4AyZQaRMTszmhWo7enzHqe) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Doida](https://open.spotify.com/album/21pd7NfUknICTdrZTynWoy) | 2:53 | 2024-01-29 |  |

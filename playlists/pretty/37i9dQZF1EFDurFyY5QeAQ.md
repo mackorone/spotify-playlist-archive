@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1FxDVhXcHEAtLrLA0KD9CC">Bebe Rexha</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,136 likes - 95 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,135 likes - 95 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 94 | [Miracle](https://open.spotify.com/track/2H5r66uEoNiIS5W9CQ9DB2) | [Greg Scott](https://open.spotify.com/artist/5bBHo5g4F9R3WQoMcw3r80) | [Miracle](https://open.spotify.com/album/0nK7nk8wSXVEkwkbGMsf94) | 2:32 |
 | 95 | [Right Here, Right Now](https://open.spotify.com/track/0n324gn22EDTQsNHvyFvQ0) | [Jeremy Johnson](https://open.spotify.com/artist/7xepAnhCIzCv3zUtpZyq4N) | [Mixtape For War](https://open.spotify.com/album/2D75KXRDeYBHvgttp7gq4l) | 3:49 |
 
-Snapshot ID: `Ab9/kgAAAABHrZcjbXDaXkecBEs8p4hI`
+Snapshot ID: `Ab+FMgAAAADHyFNNzoP7sUEMusdg+v6N`

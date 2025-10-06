@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,975 likes - 304 songs - 18 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,974 likes - 304 songs - 18 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,7 +138,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 128 | [Born 2 Be Great](https://open.spotify.com/track/3AmqJsyZDFA8EHC461R7bY) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 2:50 |
 | 129 | [Ok Ok pt 2](https://open.spotify.com/track/5ad5uryyzVWs95bK3myGkw) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:24 |
 | 130 | [PARANOID](https://open.spotify.com/track/1To4zdRrEQsWw7KVzwuyY4) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [SHAKE THE SNOW GLOBE \(DELUXE\)](https://open.spotify.com/album/5Vmz3pIxG7Dsx7fzHgtyJB) | 3:01 |
-| 131 | [Cut the Check \(feat\. Chief Keef\)](https://open.spotify.com/track/6U1ueRYXTjFHuJ9Ld2LBIW) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 2:50 |
+| 131 | [Cut the Check \(feat\. Chief Keef\)](https://open.spotify.com/track/2BzWZAYoI9cNJMz7QIHfPF) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [GO:OD AM \(10th Anniversary\)](https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR) | 2:50 |
 | 132 | [Run Away \(feat\. Bryson Tiller\)](https://open.spotify.com/track/5JrQ1Jc3udCcAJasEpH0Ov) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 3:27 |
 | 133 | [Psychopath Killer](https://open.spotify.com/track/41waH7ObCldjMZ90i6HY3A) | [Slaughterhouse](https://open.spotify.com/artist/5rVbcJv0JRfhWLA3mgM73r), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [SHADYXV](https://open.spotify.com/album/6wdSf72duVewXTqhYU3Z87) | 5:19 |
 | 134 | [Party Favors \(feat\. Young Thug\)](https://open.spotify.com/track/4XrKWBHDm587nYp6Io33oo) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Party Favors \(feat\. Young Thug\)](https://open.spotify.com/album/6euw4OOlKt20SAPSz4xKhY) | 4:29 |
@@ -313,4 +313,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 303 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 | 304 | [Love Me Til I Die](https://open.spotify.com/track/4GLENDZP3pxlrzpkQDITWt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/2oPT6EoZENUaEzT03RoG6C) | 4:18 |
 
-Snapshot ID: `Ab9/nAAAAABeGWdjybccIdk82H0Ut4Jz`
+Snapshot ID: `Ab+FMgAAAABAj7nxF75hzKwjDo9HvFI2`

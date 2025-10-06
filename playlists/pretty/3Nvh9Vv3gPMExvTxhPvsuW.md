@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Nvh9Vv3gPMExvTxhPvsuW.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 28 songs - 2 hr 17 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 31 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,5 +36,8 @@ pretty - [cumulative](/playlists/cumulative/3Nvh9Vv3gPMExvTxhPvsuW.md) - [plain]
 | 26 | [Silence Of Love](https://open.spotify.com/track/3HPGxugBFN3nlpMa5ta2TY) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [L'Ecstasy](https://open.spotify.com/album/5gHsDs3ofg8qejWBcIGtJv) | 4:10 |
 | 27 | [Echoes of Us](https://open.spotify.com/track/7v2XOrBkkzPzmd8jm48m17) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN), [NEAV](https://open.spotify.com/artist/1mcmAn0sb6qWnVXUrxFT7W) | [Echoes of Us](https://open.spotify.com/album/0IGhU4eaou6Avj9iZw3LXb) | 3:41 |
 | 28 | [Nothing On Me](https://open.spotify.com/track/1Rh8OSTma2g6BdfBYXiTrq) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [APACHE \(FR\)](https://open.spotify.com/artist/1g0xOdroOocyFkNCMAq5TU), [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm), [Tabia](https://open.spotify.com/artist/3fvAIzLvQim7Bas6O8FCK8) | [Nothing On Me](https://open.spotify.com/album/1c79b4P58cpDUHZXUqvqxS) | 4:02 |
+| 29 | [Weightless \(jamesjamesjames Remix\)](https://open.spotify.com/track/1a3u6JpaSEndtkzDyUFOqC) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Weightless \(jamesjamesjames Remix\)](https://open.spotify.com/album/6Sv0gyjKWyrdij1ToQG6f0) | 4:09 |
+| 30 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 |
+| 31 | [Your Body](https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [Your Body](https://open.spotify.com/album/7BILrDqY2kO1SOhX2MUJVN) | 3:48 |
 
-Snapshot ID: `AAAAI3eU1t1d3vQ2+4SlGHMiGkQydZW3`
+Snapshot ID: `AAAAJm2DsS1Jcd3zUaMKcsOlOYd/307i`

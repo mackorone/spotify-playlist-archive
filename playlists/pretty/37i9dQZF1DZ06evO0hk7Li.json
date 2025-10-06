@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 39792,
+  "num_followers": 39794,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAAANd2q1wmY2zJCSe2lQ94Vu",
+  "snapshot_id": "aOBjgAAAAAAOOGZlMZ0m3jc9+aLK7U5a",
   "tracks": [
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yonder",
+        "url": "https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 177400,
+      "name": "You Like It I Love It",
+      "url": "https://open.spotify.com/track/78sI81RifcXgUp2YBiZb2q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Monologue",
         "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
       },
@@ -655,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
+        "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 204658,
+      "name": "In The Name Of Love - From The Motion Picture The Equalizer 2",
+      "url": "https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Miles",
         "url": "https://open.spotify.com/album/5NTwzn0gyfspqs0CgRXAnK"
       },
@@ -671,22 +703,6 @@
       "duration_ms": 155624,
       "name": "Miles",
       "url": "https://open.spotify.com/track/4eI0cTeYray8jcBxlFjl2z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
-        "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 204658,
-      "name": "In The Name Of Love - From The Motion Picture The Equalizer 2",
-      "url": "https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I"
     },
     {
       "added_at": null,
@@ -739,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yonder",
-        "url": "https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 177400,
-      "name": "You Like It I Love It",
-      "url": "https://open.spotify.com/track/78sI81RifcXgUp2YBiZb2q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm A Dream",
         "url": "https://open.spotify.com/album/0yaanxtB24lLgKvzXPw4gi"
       },
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartlands / Thorns",
-        "url": "https://open.spotify.com/album/1NnzB8wGIoN04CjEjL9fo6"
-      },
-      "artists": [
-        {
-          "name": "Kofi Stone",
-          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 382889,
-      "name": "Thorns",
-      "url": "https://open.spotify.com/track/4Grrun3ZnHh9qzPuasmTl3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yonder",
         "url": "https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx"
       },
@@ -843,6 +823,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heartlands / Thorns",
+        "url": "https://open.spotify.com/album/1NnzB8wGIoN04CjEjL9fo6"
+      },
+      "artists": [
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 382889,
+      "name": "Thorns",
+      "url": "https://open.spotify.com/track/4Grrun3ZnHh9qzPuasmTl3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lies About The War",
         "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
       },
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 293244,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/6FwlaG3vag0IHp8McdVY0C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yonder",
         "url": "https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 107353,
       "name": "Move Like Me",
       "url": "https://open.spotify.com/track/6dCdOzsea9tGh7a14jl3wL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 293244,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/6FwlaG3vag0IHp8McdVY0C"
     },
     {
       "added_at": null,

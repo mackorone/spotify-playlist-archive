@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 105108,
+  "num_followers": 105113,
   "original_name": "Dance Workout",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,26 @@
     {
       "added_at": "2025-10-02 22:00:44",
       "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9"
+    },
+    {
+      "added_at": "2025-10-02 22:00:44",
+      "album": {
         "name": "Higher Power",
         "url": "https://open.spotify.com/album/4bQrdY8wBoLMaeCwzFlsfd"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 187298,
       "name": "Higher Power",
       "url": "https://open.spotify.com/track/7paRyIC5aRpiiYkiBnT39O"
-    },
-    {
-      "added_at": "2025-10-02 22:00:44",
-      "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9"
     },
     {
       "added_at": "2025-10-02 22:00:44",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-10-02 22:00:44",
       "album": {
+        "name": "Una Velita",
+        "url": "https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Una Velita",
+      "url": "https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT"
+    },
+    {
+      "added_at": "2025-10-02 22:00:44",
+      "album": {
         "name": "TEN",
         "url": "https://open.spotify.com/album/0iIC693yA29mHcT8j08osB"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 129103,
       "name": "TEN",
       "url": "https://open.spotify.com/track/5mblkVhuszeZGe1W00bno8"
-    },
-    {
-      "added_at": "2025-10-02 22:00:44",
-      "album": {
-        "name": "Una Velita",
-        "url": "https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "Una Velita",
-      "url": "https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT"
     },
     {
       "added_at": "2025-10-02 22:00:44",
@@ -731,6 +731,22 @@
     {
       "added_at": "2025-10-02 22:00:44",
       "album": {
+        "name": "Still Fall",
+        "url": "https://open.spotify.com/album/74e6pSi6iXw7TMut1Utb0f"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 209102,
+      "name": "Still Fall",
+      "url": "https://open.spotify.com/track/3JG1pGENyNtrVyPd1VPhN4"
+    },
+    {
+      "added_at": "2025-10-02 22:00:44",
+      "album": {
         "name": "Freaking You Out",
         "url": "https://open.spotify.com/album/4pYGTu5OMw0SAeW7uWIpM3"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 182968,
       "name": "Freaking You Out",
       "url": "https://open.spotify.com/track/5ndDgAqa9XNZsfdt6MVHIC"
-    },
-    {
-      "added_at": "2025-10-02 22:00:44",
-      "album": {
-        "name": "Still Fall",
-        "url": "https://open.spotify.com/album/74e6pSi6iXw7TMut1Utb0f"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 209102,
-      "name": "Still Fall",
-      "url": "https://open.spotify.com/track/3JG1pGENyNtrVyPd1VPhN4"
     },
     {
       "added_at": "2025-10-02 22:00:44",
@@ -887,6 +887,22 @@
     {
       "added_at": "2025-10-02 22:00:44",
       "album": {
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/6kIgGVhhww5H5SNwg2Dsoo"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "duration_ms": 137538,
+      "name": "For The People",
+      "url": "https://open.spotify.com/track/1LvXRLxZ8s2ofB0X5zONou"
+    },
+    {
+      "added_at": "2025-10-02 22:00:44",
+      "album": {
         "name": "Feel The Passion",
         "url": "https://open.spotify.com/album/01J5Pl4PZKt3wfwOGM4ffA"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 180018,
       "name": "Feel The Passion",
       "url": "https://open.spotify.com/track/1FsIirLTiqFlbgEPnmdNzT"
-    },
-    {
-      "added_at": "2025-10-02 22:00:44",
-      "album": {
-        "name": "For The People",
-        "url": "https://open.spotify.com/album/6kIgGVhhww5H5SNwg2Dsoo"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        }
-      ],
-      "duration_ms": 137538,
-      "name": "For The People",
-      "url": "https://open.spotify.com/track/1LvXRLxZ8s2ofB0X5zONou"
     },
     {
       "added_at": "2025-10-02 22:00:44",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2025-10-02 22:00:44",
       "album": {
+        "name": "Beat Of The Drum",
+        "url": "https://open.spotify.com/album/4HFWXFBNtVdC4JuRJRI7LC"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "Beat Of The Drum",
+      "url": "https://open.spotify.com/track/5maUP6kkmNTMtoKNxstN7T"
+    },
+    {
+      "added_at": "2025-10-02 22:00:44",
+      "album": {
         "name": "What You Need",
         "url": "https://open.spotify.com/album/36WVqPt4HocsuiPQer82ob"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 218040,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/2KR32tVW39lfG4tO1yOwdq"
-    },
-    {
-      "added_at": "2025-10-02 22:00:44",
-      "album": {
-        "name": "Beat Of The Drum",
-        "url": "https://open.spotify.com/album/4HFWXFBNtVdC4JuRJRI7LC"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 174375,
-      "name": "Beat Of The Drum",
-      "url": "https://open.spotify.com/track/5maUP6kkmNTMtoKNxstN7T"
     },
     {
       "added_at": "2025-10-02 22:00:44",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2025-10-02 22:00:44",
       "album": {
-        "name": "Elektro",
-        "url": "https://open.spotify.com/album/06F26Q4nAKjQAbr3I4QRMq"
-      },
-      "artists": [
-        {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
-        }
-      ],
-      "duration_ms": 160629,
-      "name": "Elektro",
-      "url": "https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO"
-    },
-    {
-      "added_at": "2025-10-02 22:00:44",
-      "album": {
         "name": "Don't Fall For Me",
         "url": "https://open.spotify.com/album/0rOOc8U67BGLXCBxiBKpoJ"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 174888,
       "name": "Don't Fall For Me",
       "url": "https://open.spotify.com/track/0MYnMotI9017FjYVszNswj"
+    },
+    {
+      "added_at": "2025-10-02 22:00:44",
+      "album": {
+        "name": "Elektro",
+        "url": "https://open.spotify.com/album/06F26Q4nAKjQAbr3I4QRMq"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "duration_ms": 160629,
+      "name": "Elektro",
+      "url": "https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO"
     },
     {
       "added_at": "2025-10-02 22:00:44",

@@ -1,12 +1,12 @@
 {
   "description": "This is Muse. The essential tracks, all in one playlist.",
-  "num_followers": 821514,
+  "num_followers": 821553,
   "original_name": "This Is Muse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAAD33xgF/s0tE0GOgZ8Qy5bE",
+  "snapshot_id": "aOBjgAAAAABbLisYNUQ0ec4Mf0lPw7PU",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 233733,
-      "name": "Sunburn",
-      "url": "https://open.spotify.com/track/5wq8wceQvaFlOZovDtfr0j"
+      "duration_ms": 237026,
+      "name": "Unintended",
+      "url": "https://open.spotify.com/track/6kyxQuFD38mo4S3urD2Wkw"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 237026,
-      "name": "Unintended",
-      "url": "https://open.spotify.com/track/6kyxQuFD38mo4S3urD2Wkw"
+      "duration_ms": 233733,
+      "name": "Sunburn",
+      "url": "https://open.spotify.com/track/5wq8wceQvaFlOZovDtfr0j"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simulation Theory (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 227213,
-      "name": "The Dark Side",
-      "url": "https://open.spotify.com/track/0dMYPDqcI4ca4cjqlmp9mE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Holes and Revelations",
         "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 211133,
       "name": "Assassin",
       "url": "https://open.spotify.com/track/6JnFVmPyJvjnfBag0hhIFa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simulation Theory (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 227213,
+      "name": "The Dark Side",
+      "url": "https://open.spotify.com/track/0dMYPDqcI4ca4cjqlmp9mE"
     },
     {
       "added_at": null,

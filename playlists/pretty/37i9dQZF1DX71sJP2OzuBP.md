@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,929 likes - 114 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,928 likes - 114 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 113 | [不想忘掉](https://open.spotify.com/track/0RnFODkvPGoKeozcQfRZlQ) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [不想忘掉](https://open.spotify.com/album/3vUYwWf7801LFagmV83aKG) | 3:56 |
 | 114 | [瞬間的瞬間 \(電影《他年她日》主題曲\)](https://open.spotify.com/track/5HGAEdNPg1y5CesBg6ZNCR) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [瞬間的瞬間 \(電影《他年她日》主題曲\)](https://open.spotify.com/album/796MxC3IVgtFKuhrC5Fo0S) | 5:00 |
 
-Snapshot ID: `AAAAAHrVyEeGu0HFAyNj+wwIumNAynry`
+Snapshot ID: `AAAAAJvPWHivszmd+UE49IuKY+Hwxv7/`

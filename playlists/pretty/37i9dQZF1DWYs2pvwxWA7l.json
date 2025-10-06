@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: Adekunle Gold ",
-  "num_followers": 629874,
+  "num_followers": 629945,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -299,26 +299,6 @@
     {
       "added_at": "2025-10-03 00:01:15",
       "album": {
-        "name": "Gimme Dat",
-        "url": "https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 225500,
-      "name": "Gimme Dat (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo"
-    },
-    {
-      "added_at": "2025-10-03 00:01:15",
-      "album": {
         "name": "Get Better",
         "url": "https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 226800,
       "name": "Billionaires Club",
       "url": "https://open.spotify.com/track/65cRt4uGMzo51AzXqptVsX"
+    },
+    {
+      "added_at": "2025-10-03 00:01:15",
+      "album": {
+        "name": "Gimme Dat",
+        "url": "https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 225500,
+      "name": "Gimme Dat (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo"
     },
     {
       "added_at": "2025-10-03 00:01:15",
@@ -471,22 +471,22 @@
     {
       "added_at": "2025-10-03 00:01:15",
       "album": {
-        "name": "The Year I Turned 21",
-        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
         }
       ],
-      "duration_ms": 149677,
-      "name": "Last Heartbreak Song (feat. Giveon)",
-      "url": "https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT"
+      "duration_ms": 205373,
+      "name": "Slow (feat. Ana\u00efs Cardot)",
+      "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
     },
     {
       "added_at": "2025-10-03 00:01:15",
@@ -511,22 +511,22 @@
     {
       "added_at": "2025-10-03 00:01:15",
       "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+        "name": "The Year I Turned 21",
+        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         },
         {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 205373,
-      "name": "Slow (feat. Ana\u00efs Cardot)",
-      "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
+      "duration_ms": 149677,
+      "name": "Last Heartbreak Song (feat. Giveon)",
+      "url": "https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT"
     },
     {
       "added_at": "2025-10-03 00:01:15",
@@ -571,18 +571,22 @@
     {
       "added_at": "2025-10-03 00:01:15",
       "album": {
-        "name": "All The Love",
-        "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
+        "name": "Very Soon",
+        "url": "https://open.spotify.com/album/51Q7voQ9tecAT8150iglFc"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 188127,
-      "name": "All The Love",
-      "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
+      "duration_ms": 137100,
+      "name": "Very Soon",
+      "url": "https://open.spotify.com/track/54HwZc6fEmR5EnjRT4oBq5"
     },
     {
       "added_at": "2025-10-03 00:01:15",
@@ -607,26 +611,6 @@
     {
       "added_at": "2025-10-03 00:01:15",
       "album": {
-        "name": "Very Soon",
-        "url": "https://open.spotify.com/album/51Q7voQ9tecAT8150iglFc"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 137100,
-      "name": "Very Soon",
-      "url": "https://open.spotify.com/track/54HwZc6fEmR5EnjRT4oBq5"
-    },
-    {
-      "added_at": "2025-10-03 00:01:15",
-      "album": {
         "name": "Born in the Wild",
         "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 156763,
       "name": "Wickedest",
       "url": "https://open.spotify.com/track/0D6XSXGNj5CTGQQzKQKQQ2"
+    },
+    {
+      "added_at": "2025-10-03 00:01:15",
+      "album": {
+        "name": "All The Love",
+        "url": "https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 188127,
+      "name": "All The Love",
+      "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
     },
     {
       "added_at": "2025-10-03 00:01:15",
@@ -715,6 +715,22 @@
     {
       "added_at": "2025-10-03 00:01:15",
       "album": {
+        "name": "CAPTAIN",
+        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 172736,
+      "name": "Jies",
+      "url": "https://open.spotify.com/track/6dmuFoJ8jYh7kzai2twWNo"
+    },
+    {
+      "added_at": "2025-10-03 00:01:15",
+      "album": {
         "name": "PITY THIS BOY",
         "url": "https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 140367,
       "name": "Moving",
       "url": "https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti"
-    },
-    {
-      "added_at": "2025-10-03 00:01:15",
-      "album": {
-        "name": "CAPTAIN",
-        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 172736,
-      "name": "Jies",
-      "url": "https://open.spotify.com/track/6dmuFoJ8jYh7kzai2twWNo"
     },
     {
       "added_at": "2025-10-03 00:01:15",
@@ -843,6 +843,26 @@
       "duration_ms": 146823,
       "name": "Arike - Remix",
       "url": "https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1"
+    },
+    {
+      "added_at": "2025-10-03 00:01:15",
+      "album": {
+        "name": "Fi Kan We Kan",
+        "url": "https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 159339,
+      "name": "Fi Kan We Kan",
+      "url": "https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR"
     },
     {
       "added_at": "2025-10-03 00:01:15",
@@ -927,26 +947,6 @@
     {
       "added_at": "2025-10-03 00:01:15",
       "album": {
-        "name": "Good Vibes",
-        "url": "https://open.spotify.com/album/6wAtf8uEQuwzFGFaVgdAb4"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 176326,
-      "name": "Good Vibes",
-      "url": "https://open.spotify.com/track/595jJM2sqdHwv1kvcZUHTl"
-    },
-    {
-      "added_at": "2025-10-03 00:01:15",
-      "album": {
         "name": "adedamola",
         "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
       },
@@ -963,22 +963,22 @@
     {
       "added_at": "2025-10-03 00:01:15",
       "album": {
-        "name": "Fi Kan We Kan",
-        "url": "https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp"
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/6wAtf8uEQuwzFGFaVgdAb4"
       },
       "artists": [
         {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
         },
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         }
       ],
-      "duration_ms": 159339,
-      "name": "Fi Kan We Kan",
-      "url": "https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR"
+      "duration_ms": 176326,
+      "name": "Good Vibes",
+      "url": "https://open.spotify.com/track/595jJM2sqdHwv1kvcZUHTl"
     },
     {
       "added_at": "2025-10-03 00:01:15",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-10-03 00:01:15",
       "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/4hT9e7lkQ6lbXP1QHW35pZ"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 158690,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/1wQzfGryAzTNKSeDyBcP1z"
-    },
-    {
-      "added_at": "2025-10-03 00:01:15",
-      "album": {
         "name": "Bad Vibes",
         "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 168406,
       "name": "Bad Vibes (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
+    },
+    {
+      "added_at": "2025-10-03 00:01:15",
+      "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/4hT9e7lkQ6lbXP1QHW35pZ"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 158690,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/1wQzfGryAzTNKSeDyBcP1z"
     },
     {
       "added_at": "2025-10-03 00:01:15",
@@ -1267,22 +1267,22 @@
     {
       "added_at": "2025-10-03 00:01:15",
       "album": {
-        "name": "Commitment",
-        "url": "https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd"
+        "name": "Toma Toma",
+        "url": "https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS"
       },
       "artists": [
         {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         },
         {
           "name": "Tiwa Savage",
           "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         }
       ],
-      "duration_ms": 191160,
-      "name": "Commitment",
-      "url": "https://open.spotify.com/track/0UP1t8bOHiRzdeet1WYXLo"
+      "duration_ms": 168000,
+      "name": "Toma Toma",
+      "url": "https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd"
     },
     {
       "added_at": "2025-10-03 00:01:15",
@@ -1307,22 +1307,22 @@
     {
       "added_at": "2025-10-03 00:01:15",
       "album": {
-        "name": "Toma Toma",
-        "url": "https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS"
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         },
         {
           "name": "Tiwa Savage",
           "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Toma Toma",
-      "url": "https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd"
+      "duration_ms": 191160,
+      "name": "Commitment",
+      "url": "https://open.spotify.com/track/0UP1t8bOHiRzdeet1WYXLo"
     }
   ],
   "unique_name": "Afropop",

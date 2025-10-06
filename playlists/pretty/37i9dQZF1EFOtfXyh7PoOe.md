@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4VL4QRgUHPpilJ4CRhCW1I">Pablo Bowman Navarro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 848 likes - 129 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 849 likes - 129 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,10 +74,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 64 | [Thrill of the Chase \(feat\. R.I.Pablo\)](https://open.spotify.com/track/5iIGjnYdSOa1K0EcFTTxqk) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Thrill Of The Chase](https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn) | 3:18 |
 | 65 | [Amelia](https://open.spotify.com/track/2Di10SMcYqTKahN7lJazFe) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:11 |
 | 66 | [Love Shot \- Chinese Version](https://open.spotify.com/track/7K45R30uQUtN22SgOjVLK2) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 3:20 |
-| 67 | [Pray for Rain](https://open.spotify.com/track/1T6yWVW5ftl0NQqJHgFQSP) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Pray For Rain](https://open.spotify.com/album/6ZoTp37vsTqhkbfwq5vIao) | 3:31 |
-| 68 | [coloured concrete](https://open.spotify.com/track/2lmT9NiqohWoRf9yAxt4Ru) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [Verbathim](https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N) | 3:10 |
-| 69 | [The Wrong Ones](https://open.spotify.com/track/6Ngm2VhQna3DJGSYf5ePVG) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [The Wrong Ones](https://open.spotify.com/album/44uWdDSJjRmiB0nWbth1jO) | 2:47 |
-| 70 | [Before You Break My Heart](https://open.spotify.com/track/0atnyfHKI3hGD75pts9FCY) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/68xnlxNDFcNGjDxxOv7gxH) | 3:16 |
+| 67 | [coloured concrete](https://open.spotify.com/track/2lmT9NiqohWoRf9yAxt4Ru) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [Verbathim](https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N) | 3:10 |
+| 68 | [Pray for Rain](https://open.spotify.com/track/1T6yWVW5ftl0NQqJHgFQSP) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Pray For Rain](https://open.spotify.com/album/6ZoTp37vsTqhkbfwq5vIao) | 3:31 |
+| 69 | [Before You Break My Heart](https://open.spotify.com/track/0atnyfHKI3hGD75pts9FCY) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/68xnlxNDFcNGjDxxOv7gxH) | 3:16 |
+| 70 | [The Wrong Ones](https://open.spotify.com/track/6Ngm2VhQna3DJGSYf5ePVG) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [The Wrong Ones](https://open.spotify.com/album/44uWdDSJjRmiB0nWbth1jO) | 2:47 |
 | 71 | [Both Of Us](https://open.spotify.com/track/2Mtj4On4ARe1gnJER2g57a) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:46 |
 | 72 | [Deep Sea Diving](https://open.spotify.com/track/3hE7LW2R8O6X7KTbjBDAPz) | [aboutagirl](https://open.spotify.com/artist/1Rm8cDAHAL2mo9H7sUxohj), [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Deep Sea Diving](https://open.spotify.com/album/2lRXr9TZZxfzU7tZQtaDmm) | 3:19 |
 | 73 | [Bad Reception](https://open.spotify.com/track/7tBXxrBMQICE4VSzSiu2V7) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 2\)](https://open.spotify.com/album/5fokZDlNCQwtgXtsths7AC) | 2:36 |
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 98 | [Radio](https://open.spotify.com/track/5vV9BdGnoBvfoCLThYfaSJ) | [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [Just for the Times](https://open.spotify.com/album/751FUQcmvpQEinjZhTOLHH) | 3:28 |
 | 99 | [Katakulli](https://open.spotify.com/track/1KEnr4kN9ICCoBswwUfs3V) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 2\)](https://open.spotify.com/album/5fokZDlNCQwtgXtsths7AC) | 2:12 |
 | 100 | [Dark Imagination](https://open.spotify.com/track/2HG5pRpERRJ2wbln73lvLS) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Walk of Fire](https://open.spotify.com/album/0K21lLIS1d13QlL5jhHgi3) | 2:59 |
-| 101 | [U Dnt Fk Me Up](https://open.spotify.com/track/6e4ixOLC0odrzT2UvDravh) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [U Dnt Fk Me Up](https://open.spotify.com/album/3sR01bZudXMyh627XLxn15) | 2:45 |
-| 102 | [I Met A Boy](https://open.spotify.com/track/5wpegU5IjGs4X6oFNRPKAq) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions](https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw) | 2:57 |
+| 101 | [I Met A Boy](https://open.spotify.com/track/5wpegU5IjGs4X6oFNRPKAq) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions](https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw) | 2:57 |
+| 102 | [U Dnt Fk Me Up](https://open.spotify.com/track/6e4ixOLC0odrzT2UvDravh) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [U Dnt Fk Me Up](https://open.spotify.com/album/3sR01bZudXMyh627XLxn15) | 2:45 |
 | 103 | [fine print](https://open.spotify.com/track/2jffev12ZeINFfKAbBHzbP) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [Verbathim](https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N) | 2:21 |
 | 104 | [Leap Of Faith](https://open.spotify.com/track/60RaJR9WDuED6orXYyXOAR) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Leap Of Faith](https://open.spotify.com/album/6dESR87X8I2nUW6rOlaDH8) | 3:22 |
 | 105 | [C'est La Vie](https://open.spotify.com/track/2rDZiVgp3t072QzQba281V) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [C'est La Vie](https://open.spotify.com/album/3k2L48HTq4EdOAIBF49W0G) | 2:32 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 128 | [The View](https://open.spotify.com/track/0038fnjL6UVsKq5jzV5QGm) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [The View](https://open.spotify.com/album/4y8f3Y73QLPyoqGTzAn9qG) | 2:59 |
 | 129 | [Season of Our Love](https://open.spotify.com/track/0lpJumwXtUE3xD8RP0oll4) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Season of Our Love](https://open.spotify.com/album/4M15n8kQVAQkGrP6XoBhyi) | 2:08 |
 
-Snapshot ID: `Ab9/nAAAAAAp1YDy9d7HgddcFbZGn/8C`
+Snapshot ID: `Ab+FMgAAAACW3a9uVfXQEmoPD72MpN14`

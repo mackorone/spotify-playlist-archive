@@ -4,7 +4,7 @@
 
 > Kick back to the best new and recent chill hits.
 
-960 songs - 2 day 4 hr 15 min
+961 songs - 2 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -708,6 +708,7 @@
 | [rock bottom](https://open.spotify.com/track/3z7pGjbbFGjPt8ne55e0YW) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [songs from 3am](https://open.spotify.com/album/4NeqpTtchhJkrFhW0kQgrH) | 2:50 | 2020-01-31 | 2020-02-01 |
 | [Room For Love](https://open.spotify.com/track/4X1r74w09Ok0KgHSziwVWA) | [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l), [Vera](https://open.spotify.com/artist/0Nj6EN5mur7EJHl0aZuGP7) | [Room For Love](https://open.spotify.com/album/1reKjFG4Vi6dSs4KJ1ytpr) | 2:32 | 2020-06-12 | 2022-04-20 |
 | [Rooting For You](https://open.spotify.com/track/1spZPzBLYeVTvd0iDWXgC2) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Rooting For You](https://open.spotify.com/album/4yp0nH151NPmcakfthQDc9) | 2:56 | 2019-08-26 | 2021-03-22 |
+| [Ruin The Friendship](https://open.spotify.com/track/62V2ZHslgQV98gH4AuVXnr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:40 | 2025-10-03 |  |
 | [Ruin Your Party](https://open.spotify.com/track/0WuUpHEORKw3WTIlMb0Bv8) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [Ruin Your Party](https://open.spotify.com/album/5DExtFpcxmHagKqHZ97m4F) | 3:08 | 2019-06-21 | 2019-11-09 |
 | [Rumors \(feat\. ZAYN\)](https://open.spotify.com/track/6XjNLIoUiU2XKdbNp7PvHl) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Truth Is](https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU) | 3:46 | 2019-10-25 | 2021-03-23 |
 | [Run \(feat\. Ed Sheeran\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4IQkfUsrwXol38VV3U7t7T) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:00 | 2021-11-17 | 2023-03-19 |
@@ -932,7 +933,7 @@
 | [Why Her Not Me](https://open.spotify.com/track/2WKJGNWfblWBKqm7cw9C9N) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Why Her Not Me](https://open.spotify.com/album/3hErxZPzy7RPCZLmIXupDT) | 3:50 | 2019-05-25\* | 2019-10-19 |
 | [Wild Dreams \(feat\. Khalid\)](https://open.spotify.com/track/2cgamRofJ1iWxAHD801DNu) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:06 | 2022-07-07 | 2022-09-10 |
 | [Wild Life](https://open.spotify.com/track/6oaQuXiRKqQq9ITJBV1XmC) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Wild Life](https://open.spotify.com/album/4a1yq8xj6XlZvbCiBvYGsa) | 4:27 | 2020-09-25 | 2022-07-27 |
-| [willow](https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:34 | 2020-12-11 |  |
+| [willow](https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:34 | 2020-12-11 | 2025-10-06 |
 | [Winding Road](https://open.spotify.com/track/2fP8RyfovqVxN6eiVt5wKK) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Winding Road](https://open.spotify.com/album/77ocsRfqJf2O2yHr5xqetG) | 4:00 | 2020-07-24 | 2021-01-08 |
 | [Wish I Was Better](https://open.spotify.com/track/1kAkUHFb7ryeVkVSRD6Nkj) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Wish I Was Better](https://open.spotify.com/album/0dbCEm3gL91TgF2Gihuexr) | 2:20 | 2020-05-28 | 2022-04-19 |
 | [Wish We Had History](https://open.spotify.com/track/32rW37r60HLUJj8qlleba7) | [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [Wish We Had History](https://open.spotify.com/album/0bH31JVkxjZKgTeXCCNPsK) | 3:40 | 2019-07-07 | 2019-08-27 |

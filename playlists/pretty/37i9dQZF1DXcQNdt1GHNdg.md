@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 
 > Pump up your adrenaline with Punjabi hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,972 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,168 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 | 6 | [3am In Gillco](https://open.spotify.com/track/1oMW4IqpV4ulyFYk16YzSl) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [3am In Gillco](https://open.spotify.com/album/2xKR9o0kFAitgPrfymGw5t) | 3:19 |
 | 7 | [Balenci](https://open.spotify.com/track/3nKO2BajBQ1wNJd5f2eJhw) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Balenci](https://open.spotify.com/album/298UXj0QGtqX9UWZh0ejXP) | 3:02 |
 | 8 | [Pols](https://open.spotify.com/track/4EpKRtkdwOQGmX1YCDsq1d) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Pols](https://open.spotify.com/album/0dKep1k5qQFGZnW7ZYEXmD) | 2:00 |
-| 9 | [Bande 4](https://open.spotify.com/track/1eCJkMId2CBCWpukvmVHk2) | [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Bande 4](https://open.spotify.com/album/7MtkRxJx2PFFHSzjRLda38) | 3:04 |
+| 9 | [Bande 4](https://open.spotify.com/track/1eCJkMId2CBCWpukvmVHk2) | [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Bande 4](https://open.spotify.com/album/7MtkRxJx2PFFHSzjRLda38) | 3:04 |
 | 10 | [Lala Lala](https://open.spotify.com/track/0bpCU4vY6sf3WNNq88w7nT) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Lala Lala](https://open.spotify.com/album/1HNjofemPzIaYikUdusDJt) | 2:24 |
 | 11 | [I'm So Rich \(Feat\. Nora Fatehi\)](https://open.spotify.com/track/6DLu7Xxa4ZoBHsvoqjC0HT) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 2:52 |
 | 12 | [HOOD\-CH](https://open.spotify.com/track/2UV4cpfmL3UFJVdXgdvnEa) | [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [HOOD\-CH](https://open.spotify.com/album/1y2eWdEBXMqCwK6y0MNWr5) | 2:52 |

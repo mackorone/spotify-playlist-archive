@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-264 songs - 13 hr 32 min
+266 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 | 2024-08-03 | 2025-09-15 |
 | [Angel Of My Dreams](https://open.spotify.com/track/46i8ZYPRekK8tmaXJO6M9r) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/68xnlxNDFcNGjDxxOv7gxH) | 3:17 | 2025-09-14 |  |
 | [Angry Woman](https://open.spotify.com/track/58s4yfoJnnlH49KC4UeRxY) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Rae](https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww) | 2:33 | 2024-06-07 |  |
-| [Arrows \(Die For That Man\)](https://open.spotify.com/track/1jaC5Z1mhzVQVJkOgzcFIf) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Arrows \(Die For That Man\)](https://open.spotify.com/album/7JNiCSkz7KUF87H43PoUqw) | 3:51 | 2025-09-24 |  |
+| [Arrows \(Die For That Man\)](https://open.spotify.com/track/1jaC5Z1mhzVQVJkOgzcFIf) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Arrows \(Die For That Man\)](https://open.spotify.com/album/7JNiCSkz7KUF87H43PoUqw) | 3:51 | 2025-09-24 | 2025-10-06 |
+| [Arrows \(Die For That Man\)](https://open.spotify.com/track/2uLn4xSIDBsv0No9plVAFZ) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Cherry Valley](https://open.spotify.com/album/5cBseH5iReybVachkE0BMA) | 3:51 | 2025-10-05 |  |
 | [Back in My Arms](https://open.spotify.com/track/1FlAMUpKrjY4NdaqsXjl1w) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Back in My Arms](https://open.spotify.com/album/4dvspekxkG2Etjyrwme4kG) | 3:15 | 2024-06-07 |  |
 | [Bad for Business](https://open.spotify.com/track/38bbpkFcxgjupISR0K94UU) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:08 | 2024-06-07 |  |
 | [Bad Karma](https://open.spotify.com/track/2wukQYZ4iFRYtlWPLGCdLG) | [Jorge Blanco](https://open.spotify.com/artist/6MWKObDGDrI3jN3Q3d9dpD) | [Bad Karma](https://open.spotify.com/album/5mKk4OvQLooCtzMK8p33Jp) | 3:14 | 2024-06-07 |  |
@@ -98,7 +99,8 @@
 | [Good Times \(Bonus Track\)](https://open.spotify.com/track/30877ufZfLUNYXR9mXo9bi) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj) | 3:31 | 2024-11-16 |  |
 | [Goodbye](https://open.spotify.com/track/6K5xY7EabiBLjd2HuBQIak) | [Who Is Fancy](https://open.spotify.com/artist/5QSx2vpiSchSeCwc0qmfNI) | [Goodbye](https://open.spotify.com/album/3wXSqg2UGr5JOlCcxWR7K4) | 3:26 | 2024-06-07 |  |
 | [Growing Up is Getting Old](https://open.spotify.com/track/5okMXP9UNHt4XhAHCbDo3Y) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 2:27 | 2024-06-07 |  |
-| [Grudge](https://open.spotify.com/track/5bflBZU8xtdhfuLJMVlVWy) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Grudge](https://open.spotify.com/album/3fv6xGd7MydT0OjTM7Gnbt) | 3:15 | 2025-05-22 |  |
+| [Grudge](https://open.spotify.com/track/5bflBZU8xtdhfuLJMVlVWy) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Grudge](https://open.spotify.com/album/3fv6xGd7MydT0OjTM7Gnbt) | 3:15 | 2025-05-22 | 2025-10-06 |
+| [Grudge](https://open.spotify.com/track/3yRyNXFdQEcbSUHZEXMbMk) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Cherry Valley](https://open.spotify.com/album/5cBseH5iReybVachkE0BMA) | 3:15 | 2025-10-05 |  |
 | [Guitars and Drugs](https://open.spotify.com/track/2SAFL0N9Ob8YsHqcINxAlD) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Guitars and Drugs](https://open.spotify.com/album/1HTGmS5myekLKaz6nxls7V) | 3:12 | 2024-06-07 |  |
 | [Hair](https://open.spotify.com/track/20xJN09dBJBEImfp9NPdGb) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Hair](https://open.spotify.com/album/6aoeLVMwa68Mn1QVYqbSw2) | 2:34 | 2024-06-07 |  |
 | [Hanging On](https://open.spotify.com/track/6hDXJbOh3PmAO8d6NSfSEv) | [Quinn Lewis](https://open.spotify.com/artist/5n69lhq7BLWqnSjJgNPRh4) | [Hanging On](https://open.spotify.com/album/0PlU5KBD4gYLyee8ixByoR) | 2:51 | 2024-06-07 |  |
@@ -127,7 +129,7 @@
 | [I Wanna](https://open.spotify.com/track/6MYq9RdjaL8w3kh6K4q44i) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Marginalia](https://open.spotify.com/album/7b0YvwnCJ456w3KWpmxlpi) | 3:30 | 2025-07-24 |  |
 | [I Wish You Would](https://open.spotify.com/track/63KRrdQOxGgKHcGaf7R65n) | [Jordan Pratt](https://open.spotify.com/artist/45LDETeH1V7yzGfXOLRfK3) | [Anywhere in the World](https://open.spotify.com/album/7tTW19f2hwcko8NxWT70wv) | 2:43 | 2024-06-07 |  |
 | [If I Fall](https://open.spotify.com/track/6SLqAWFmEBEyjU4QIuEIsc) | [Cole Plante](https://open.spotify.com/artist/0BmgT51Y8JI74rlRK7YcAL), [Myon & Shane 54](https://open.spotify.com/artist/0uXRsluXdi5LtEs8DoFknc), [Ruby O'Dell](https://open.spotify.com/artist/0f2gU2tbpYHLSKtFBnxdg9) | [If I Fall](https://open.spotify.com/album/28HsMk0oE0r8voVBAuSkJJ) | 4:15 | 2024-06-07 |  |
-| [if we never met](https://open.spotify.com/track/3D2H0RZzOXziswr9UHbpyb) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5) | 2:25 | 2024-06-07 | 2025-10-05 |
+| [if we never met](https://open.spotify.com/track/3D2H0RZzOXziswr9UHbpyb) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5) | 2:25 | 2024-06-07 |  |
 | [if we never met \(feat\. Kelsea Ballerini\)](https://open.spotify.com/track/5vDA0WiwxOzj4AJDKDl1Bz) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [love + everything else](https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5) | 2:24 | 2024-06-07 |  |
 | [if we never met \- remix](https://open.spotify.com/track/0o6NlHNV7Tet6yh9BC6BGd) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [if we never met \(remix\)](https://open.spotify.com/album/1iCPJ4fkyZ5yvIWSqA4ajE) | 3:06 | 2024-06-07 |  |
 | [ilym](https://open.spotify.com/track/0Aw8DvbSKLbdoLXWNGFrgm) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5) | 3:53 | 2024-06-07 |  |

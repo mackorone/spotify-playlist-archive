@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: AFI
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,298 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,349 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 29 | [Tipping Point](https://open.spotify.com/track/6jhxeGvYuGY6KHHmUDj8Sv) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Tipping Point](https://open.spotify.com/album/09fWUtFj5UY5gEJapwj0xa) | 4:28 |
 | 30 | [Bang Bang](https://open.spotify.com/track/4bpHEIQlbPupZy6v9DqG4g) | [Totorro](https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx) | [Sofa So Good](https://open.spotify.com/album/1f3O1xiCsDhdHQlXnyDl7g) | 2:20 |
 | 31 | [Miss Behavior](https://open.spotify.com/track/4rfUnV1oRaHuN5BwwY83PG) | [Venus & the Flytraps](https://open.spotify.com/artist/0p1Rswnjvt7KFNFTYXNmWF) | [Miss Behavior](https://open.spotify.com/album/6RwTYEfp9FamdJrFDaOVQJ) | 4:06 |
-| 32 | [Big Boobs \(ft\. Zora\)](https://open.spotify.com/track/5HC4NulHGigB6MvPIUYTF9) | [Gully Boys](https://open.spotify.com/artist/0RNADU4Af78zqyTCOj2rVU), [Zora](https://open.spotify.com/artist/3pFbhzunKyBUtD2i43BjxB) | [Gully Boys](https://open.spotify.com/album/6vKrrP3yqueciIMoOMeLKP) | 3:05 |
+| 32 | [Big Boobs \(ft\. Zora\)](https://open.spotify.com/track/5HC4NulHGigB6MvPIUYTF9) | [Gully Boys](https://open.spotify.com/artist/0RNADU4Af78zqyTCOj2rVU), [ZORA](https://open.spotify.com/artist/0XKJrvokkuYzlL4umtnit8) | [Gully Boys](https://open.spotify.com/album/6vKrrP3yqueciIMoOMeLKP) | 3:05 |
 | 33 | [Kebangkitan](https://open.spotify.com/track/5E1oL0woNnOZUNOLFcEGcl) | [Sukatani](https://open.spotify.com/artist/6j1La1fkBWt6vQcwwXla0w), [IKLIM](https://open.spotify.com/artist/13RkP9NAGg67uIHcFWsdSS) | [Kebangkitan](https://open.spotify.com/album/4TFaMDK9GAcjhhyMVNV9vT) | 4:38 |
 | 34 | [my heart](https://open.spotify.com/track/40WLOm26r2ccsfo6VGTKnq) | [supermodel\*](https://open.spotify.com/artist/5UboFifW4NugOuTYaYk159) | [supermodel\* ep](https://open.spotify.com/album/0DpwShnsZUzj5erF7Mi4GT) | 3:45 |
 | 35 | [Naive](https://open.spotify.com/track/1plhyeguVvIytBG33ATqBC) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [Naive](https://open.spotify.com/album/3UzYej3wO9Y1ZlBBRwM0oM) | 4:12 |

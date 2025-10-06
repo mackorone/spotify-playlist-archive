@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 108054,
       "name": "A Guevo A Guevo",
       "url": "https://open.spotify.com/track/1Xs5nP5kv7ld8cSn8dektt"
@@ -1310,7 +1310,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 163699,
       "name": "Actually Romantic",
       "url": "https://open.spotify.com/track/2x3mwb96B6TquRqMtbxUE1"
@@ -4130,7 +4130,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 107339,
       "name": "BMW",
       "url": "https://open.spotify.com/track/0anUN5hO584TVu17CDRmLW"
@@ -5168,7 +5168,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 211498,
       "name": "CANCELLED!",
       "url": "https://open.spotify.com/track/1appZ3c336FkPvCuywfmrs"
@@ -5248,7 +5248,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 173858,
       "name": "capaz (merengueton)",
       "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
@@ -5684,6 +5684,24 @@
       "duration_ms": 303440,
       "name": "CHIHIRO",
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
+    },
+    {
+      "album": {
+        "name": "Chiquilla Bonita",
+        "url": "https://open.spotify.com/album/7vBd4KfQ1vxFYUAuBnDWCN"
+      },
+      "artists": [
+        {
+          "name": "Dalvin La Melodia",
+          "url": "https://open.spotify.com/artist/6oYf3YTP3CaTNPlUqAK7xJ"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256056,
+      "name": "Chiquilla Bonita",
+      "url": "https://open.spotify.com/track/64VvfDMrVYpGZCOU9RfDuN"
     },
     {
       "album": {
@@ -11476,7 +11494,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 246356,
       "name": "Eldest Daughter",
       "url": "https://open.spotify.com/track/62HoDY1Km6lm47haFpUn9c"
@@ -11494,7 +11512,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 208291,
       "name": "Elizabeth Taylor",
       "url": "https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL"
@@ -13104,7 +13122,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 212777,
       "name": "Father Figure",
       "url": "https://open.spotify.com/track/03bTIHJElXZ0O0jqOQvAbY"
@@ -14954,7 +14972,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 132498,
       "name": "Hablamos Depues",
       "url": "https://open.spotify.com/track/6Zz5ksmtmU2zV6cppStbq7"
@@ -16980,7 +16998,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 206066,
       "name": "Kh\u00e9?",
       "url": "https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9"
@@ -20714,7 +20732,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 257186,
       "name": "Los Infieles",
       "url": "https://open.spotify.com/track/0HDHY6RSHHG2ZTE0cMT4GJ"
@@ -26244,7 +26262,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3euZKF0hmGxQ6h2JHHY4iu"
@@ -26516,6 +26534,32 @@
       "duration_ms": 125548,
       "name": "PA QUE LO BAILES (BAILALO ROCKY)",
       "url": "https://open.spotify.com/track/6LAE0cwzbk9Gr1uexKnA2B"
+    },
+    {
+      "album": {
+        "name": "PA QUE TOSA",
+        "url": "https://open.spotify.com/album/11SBQgODoKZ5koFRVWvJSk"
+      },
+      "artists": [
+        {
+          "name": "Bluemoney",
+          "url": "https://open.spotify.com/artist/5pL4JCQ5E6AxnT10xuaojk"
+        },
+        {
+          "name": "La Makulada",
+          "url": "https://open.spotify.com/artist/0Ag9ysvWMLaQ6XEe0FMpNI"
+        },
+        {
+          "name": "Etervidos",
+          "url": "https://open.spotify.com/artist/6vCXaVD6s7A3a8waYGJzlz"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130721,
+      "name": "PA QUE TOSA",
+      "url": "https://open.spotify.com/track/6R3lKAjLS4c3pN826Ovpj0"
     },
     {
       "album": {
@@ -31818,7 +31862,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 220564,
       "name": "Ruin The Friendship",
       "url": "https://open.spotify.com/track/62V2ZHslgQV98gH4AuVXnr"
@@ -33020,7 +33064,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-03",
+      "date_removed": null,
       "duration_ms": 160178,
       "name": "Se Riega",
       "url": "https://open.spotify.com/track/7EOiQ1TeeA4eMgkCl4gUGY"
@@ -35486,7 +35530,7 @@
       ],
       "date_added": "2025-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Suave",
       "url": "https://open.spotify.com/track/3D9d0PEHfC9PqQAwKKljDv"
@@ -36900,10 +36944,28 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
       "album": {
@@ -36922,7 +36984,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 241766,
       "name": "The Life of a Showgirl (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex"
@@ -39494,7 +39556,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 172426,
       "name": "UWAIE",
       "url": "https://open.spotify.com/track/0fMjldiEpgjbWQ4bBQwVzH"
@@ -40102,7 +40164,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 114534,
       "name": "Voltio",
       "url": "https://open.spotify.com/track/3wVmOUwQAQLV4pWV6HrJKe"
@@ -40804,7 +40866,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 207349,
       "name": "Wi$h Li$t",
       "url": "https://open.spotify.com/track/2TEQvxxQabwLQMqWMg1qGu"
@@ -40928,7 +40990,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 150517,
       "name": "Wood",
       "url": "https://open.spotify.com/track/5ylJtmaWPJ33cW3En7WOu0"

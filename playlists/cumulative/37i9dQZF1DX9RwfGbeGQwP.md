@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,580 songs - 2 day 11 hr 24 min
+1,581 songs - 2 day 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -725,6 +725,7 @@
 | [Köln Kalk](https://open.spotify.com/track/1HUDqgmGyCQjv42w6gxEn0) | [Jakspin](https://open.spotify.com/artist/3PLqmSa29zyLdTGINzLqCZ) | [Köln Kalk](https://open.spotify.com/album/2FwnZhdY4UYiy6UQcZK8KB) | 2:28 | 2022-11-11 | 2023-09-29 |
 | [L A P I S L A Z U L I](https://open.spotify.com/track/6dxxq8txtOlSMwZwZPHScG) | [Joel Loopez](https://open.spotify.com/artist/3l7zH3g5Z7QnHAiIYKZu6u) | [舎](https://open.spotify.com/album/2Knj3Ym8f7FWeZSQV8APA9) | 3:05 | 2022-10-15 | 2023-09-22 |
 | [Ladron Lover](https://open.spotify.com/track/3XhzJPeuzAEAaZAVKsmkky) | [Hekiga](https://open.spotify.com/artist/1qbuegBEzi7RW8QEEI2gwe) | [The Alley](https://open.spotify.com/album/3JG3pdBOGURxFubxIjuVPD) | 1:39 | 2022-09-02 | 2024-05-14 |
+| [Lagoon Nights](https://open.spotify.com/track/0m4rxghYCCaNPrszGeMjix) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe), [Zycix](https://open.spotify.com/artist/2Wv6IR9Z1e2zHWLDOHWUFy) | [Lagoon Nights](https://open.spotify.com/album/7B6BOs3To5jSgBccfQR5TA) | 1:55 | 2025-09-26 |  |
 | [Laid\-Back Skylines](https://open.spotify.com/track/4jeYDsddMI8TShXgmOww8S) | [JAKKARTA](https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk) | [Laid\-Back Skylines](https://open.spotify.com/album/6BDP79MYOUZsLmq0Gsjuw6) | 2:34 | 2024-02-23 |  |
 | [Laidback Style](https://open.spotify.com/track/7KPAMOtffV17NiiapCPGnh) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo) | [Laidback Style](https://open.spotify.com/album/04PobR5vGW2Xam5YBOPpDO) | 2:44 | 2023-02-07 | 2023-11-25 |
 | [Last call on what](https://open.spotify.com/track/5de261y9PMBp40oyycVd2h) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Last call on what](https://open.spotify.com/album/6QSf6cdpkGTAp0YtSK5lFr) | 2:13 | 2023-03-08 | 2025-09-27 |
@@ -1511,7 +1512,7 @@
 | [wandsworth park](https://open.spotify.com/track/4fWFGd70ErhNWIr3B1caod) | [flowtide](https://open.spotify.com/artist/1krCmhhTo8H7k8YxKoKpbv) | [wandsworth park](https://open.spotify.com/album/3uTFiBnVfCwU8mOaPtpqOb) | 1:47 | 2022-01-27 | 2023-05-20 |
 | [want ya](https://open.spotify.com/track/6HV10yCjxRNOM0prvTdfhj) | [jelaquest](https://open.spotify.com/artist/2vkUei6EdRcTOJtsH5hJeX) | [want ya](https://open.spotify.com/album/4d75yP2t7jB1gBRsPNt7S9) | 2:18 | 2022-01-27 | 2022-05-14 |
 | [warm socks](https://open.spotify.com/track/3voSXNZ1D1yPz95nkrR1fy) | [Happy Tobi](https://open.spotify.com/artist/1GyfVIZcP7PfEgpNnars9N) | [short days](https://open.spotify.com/album/3tHHoFc584OWBCEY1qlj9t) | 1:21 | 2022-01-27 | 2022-04-22 |
-| [washed up](https://open.spotify.com/track/2uhlAgdxgzwMvJ1YEA5ZaT) | [Sleepy Titan](https://open.spotify.com/artist/4ehFI3LIUrDNhMXTR1XCdL) | [washed up](https://open.spotify.com/album/2qt6rOo8RTUt0lBbIPjMiS) | 2:01 | 2023-06-05 |  |
+| [washed up](https://open.spotify.com/track/2uhlAgdxgzwMvJ1YEA5ZaT) | [Sleepy Titan](https://open.spotify.com/artist/4ehFI3LIUrDNhMXTR1XCdL) | [washed up](https://open.spotify.com/album/2qt6rOo8RTUt0lBbIPjMiS) | 2:01 | 2023-06-05 | 2025-10-06 |
 | [Watanabe](https://open.spotify.com/track/7vIxfxNI94g3qeGJ6xoJBA) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Watanabe](https://open.spotify.com/album/0qobFyLAWz1SHcc8vmlQaK) | 1:59 | 2022-01-27 | 2022-07-01 |
 | [Watch Your Step](https://open.spotify.com/track/611q9eZ9TfWhuSNYrAizmx) | [darecloud](https://open.spotify.com/artist/3CEJ5kBVJx2hrk8bsEf8lp), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Watch Your Step](https://open.spotify.com/album/1hsknGuxLQdu8X55U1l6Vg) | 2:02 | 2022-12-09 | 2023-02-25 |
 | [waterlily](https://open.spotify.com/track/5mo909cydKvQcD35Hj1fRJ) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [waterlily](https://open.spotify.com/album/7s5MN3NWNSAcHy7MZ1t0Xv) | 2:13 | 2024-09-27 | 2024-10-26 |

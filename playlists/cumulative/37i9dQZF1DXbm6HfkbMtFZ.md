@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-646 songs - 1 day 14 hr 47 min
+647 songs - 1 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,7 +500,7 @@
 | [Sol](https://open.spotify.com/track/3c3VaKO06oPEFlantuWWTz) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Dina Ögon](https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF) | 3:16 | 2024-04-10 | 2025-04-30 |
 | [Somebody Made For Me](https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq) | [Emitt Rhodes](https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y) | [The Emitt Rhodes Recordings \(1969\-1973\)](https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB) | 2:26 | 2021-12-16 | 2024-08-23 |
 | [Somebody New](https://open.spotify.com/track/2Br3fsJf9k9ciS5jiDxpDQ) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie Sings \(45th Anniversary Edition\)](https://open.spotify.com/album/7ylVNuVPvO6dAS84nuQE7A) | 2:56 | 2022-03-30 |  |
-| [Someone Else](https://open.spotify.com/track/5sGub8Btll3qnMlKinrpz4) | [Henry Wolfe](https://open.spotify.com/artist/2YFql5yrx8t4yrCVzvD8Cn) | [Linda Vista](https://open.spotify.com/album/3EVXpkAnYCI2YhlRAceg5g) | 4:04 | 2022-01-21 |  |
+| [Someone Else](https://open.spotify.com/track/5sGub8Btll3qnMlKinrpz4) | [Henry Wolfe](https://open.spotify.com/artist/2YFql5yrx8t4yrCVzvD8Cn) | [Linda Vista](https://open.spotify.com/album/3EVXpkAnYCI2YhlRAceg5g) | 4:04 | 2022-01-21 | 2025-10-06 |
 | [Something Beautiful](https://open.spotify.com/track/7GuLQABAOtHgdebC50HGIl) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Closer](https://open.spotify.com/album/6Kq1wGlsadyj4jQhjTO6CE) | 3:58 | 2022-06-21 | 2025-04-30 |
 | [Something New](https://open.spotify.com/track/24eMGcmzxR64yf45pN4K8i) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/0AVCRrmv8zuENn81egH8F2) | 3:13 | 2022-07-26 | 2022-12-01 |
 | [Something New](https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3) | 3:15 | 2022-12-05 | 2024-04-19 |
@@ -579,6 +579,7 @@
 | [Time and Place](https://open.spotify.com/track/7JBGmLzOLtpirsys3Ufoqa) | [Lee Moses](https://open.spotify.com/artist/073AjXFaMayG50bDyAopud) | [Time and Place](https://open.spotify.com/album/3L3JOkdZKS4AyKdhF3hahK) | 2:56 | 2022-03-30 | 2022-04-21 |
 | [Time Machine](https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Time Machine](https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3) | 4:11 | 2024-03-12 | 2024-08-23 |
 | [Time Was](https://open.spotify.com/track/1lLQtlPli8kTLJsTrcnRuQ) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hallelujah](https://open.spotify.com/album/0J3nz9lYQ4LjfKkfyAy0VB) | 3:22 | 2023-01-07 | 2024-12-10 |
+| [Tincture](https://open.spotify.com/track/4nl667qTGv4btKjjCssNuc) | [Perfect Binding](https://open.spotify.com/artist/7guexKHSspsfD9QBco76EY) | [Tincture](https://open.spotify.com/album/4qQzFct5Cd4QOyTfSjLBP6) | 3:31 | 2025-08-29 |  |
 | [Tip Pit](https://open.spotify.com/track/1bYqCjyoX456YOsC5MhiNC) | [World Champion](https://open.spotify.com/artist/4kK9XiFmS6rlzCFIY5DzI9) | [Avocado Galaxy](https://open.spotify.com/album/1Bg7byH7AeQhvwfXs4iRiG) | 3:47 | 2022-03-30 | 2022-04-19 |
 | [To Connect](https://open.spotify.com/track/1O3ZpANOTSH7R9TYIxZxGe) | [Floating Action](https://open.spotify.com/artist/01Ru0hfWYNVxQHtFkvYY7r) | [Floating Action](https://open.spotify.com/album/1GDN7bty8mKXFfzqYM73oK) | 4:02 | 2022-03-30 | 2022-06-12 |
 | [To Love You All Over Again](https://open.spotify.com/track/4EPwpBN0t11bIxjsAI8oaF) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Bare Bones](https://open.spotify.com/album/5WSZnecSUMQprzWZLlk5ha) | 3:57 | 2022-07-26 | 2022-10-04 |

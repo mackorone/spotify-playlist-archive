@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Na\u00efka",
-  "num_followers": 97847,
+  "num_followers": 97860,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,30 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "HoneyComb",
+        "url": "https://open.spotify.com/album/4qIvyWgbTjjEd32vwBycHM"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        }
+      ],
+      "duration_ms": 139752,
+      "name": "HoneyComb",
+      "url": "https://open.spotify.com/track/79cOrbvS7AQTKda6v0MZFP"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Solfa (Tila)",
         "url": "https://open.spotify.com/album/3jtT0D7rTtOfmdKRFw5OVp"
       },
@@ -975,30 +999,6 @@
       "duration_ms": 194380,
       "name": "Solfa (Tila)",
       "url": "https://open.spotify.com/track/27OyimhoqIZaPG0Z0m3x4V"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "HoneyComb",
-        "url": "https://open.spotify.com/album/4qIvyWgbTjjEd32vwBycHM"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        },
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        },
-        {
-          "name": "Micha\u00ebl Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        }
-      ],
-      "duration_ms": 139752,
-      "name": "HoneyComb",
-      "url": "https://open.spotify.com/track/79cOrbvS7AQTKda6v0MZFP"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Cashapp Cashapp Zelle",
-        "url": "https://open.spotify.com/album/7dcwRgnRPQQo65y30WEdQo"
-      },
-      "artists": [
-        {
-          "name": "T-ANSYTO",
-          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
-        }
-      ],
-      "duration_ms": 61368,
-      "name": "Cashapp Cashapp Zelle",
-      "url": "https://open.spotify.com/track/6joLh6fVXL9vYwnUZosrnu"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Ti Kabrit",
         "url": "https://open.spotify.com/album/126HZ3Ggm1f7300inNCydK"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 161717,
       "name": "Ti Kabrit",
       "url": "https://open.spotify.com/track/2JBYTiyA2K0cakWqqzZ4mR"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Cashapp Cashapp Zelle",
+        "url": "https://open.spotify.com/album/7dcwRgnRPQQo65y30WEdQo"
+      },
+      "artists": [
+        {
+          "name": "T-ANSYTO",
+          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
+        }
+      ],
+      "duration_ms": 61368,
+      "name": "Cashapp Cashapp Zelle",
+      "url": "https://open.spotify.com/track/6joLh6fVXL9vYwnUZosrnu"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Anthology, Vol. IV",
-        "url": "https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey"
-      },
-      "artists": [
-        {
-          "name": "Tabou Combo",
-          "url": "https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh"
-        }
-      ],
-      "duration_ms": 526373,
-      "name": "New York City",
-      "url": "https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Thug Love",
         "url": "https://open.spotify.com/album/01syB7Sv7P91d6OBnNjLm5"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 188250,
       "name": "Thug Love",
       "url": "https://open.spotify.com/track/37PRqXgbusYfrUitGoVsKP"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Anthology, Vol. IV",
+        "url": "https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey"
+      },
+      "artists": [
+        {
+          "name": "Tabou Combo",
+          "url": "https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh"
+        }
+      ],
+      "duration_ms": 526373,
+      "name": "New York City",
+      "url": "https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "FENOMENAL",
+        "url": "https://open.spotify.com/album/459nIEM8g74x2S1SWhjKYY"
+      },
+      "artists": [
+        {
+          "name": "\u00c4SHH",
+          "url": "https://open.spotify.com/artist/0I2SuBOYEBvLoVmmsNckEK"
+        }
+      ],
+      "duration_ms": 187862,
+      "name": "FENOMENAL",
+      "url": "https://open.spotify.com/track/45M1foqRYk20JvPXuDMUe5"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Can't Catch Me",
         "url": "https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK"
       },
@@ -1875,30 +1891,6 @@
       "duration_ms": 210857,
       "name": "U.F.O.",
       "url": "https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/7CJwyU2x5ZD5EvAkDPe8K7"
-      },
-      "artists": [
-        {
-          "name": "KeyAra",
-          "url": "https://open.spotify.com/artist/5ip5n1ajctLiO63CCJfEv6"
-        },
-        {
-          "name": "KOLO",
-          "url": "https://open.spotify.com/artist/2CICr3LR6jHHl0V6DmAtWE"
-        },
-        {
-          "name": "J Perry",
-          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
-        }
-      ],
-      "duration_ms": 197999,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/2W4Nb6RIJrpE8PEpX9POZD"
     }
   ],
   "unique_name": "Haitian Heat",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 
 > This is Grupo Firme\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,068,141 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,068,435 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 49 | [Lujos y Secretos](https://open.spotify.com/track/6V9ZXuiHRGVU1sblM9LRbZ) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Quinto V Imperio](https://open.spotify.com/artist/6WFv2NyTtnWS7GHkeLgn0G), [Banda Coloso](https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED) | [Lujos y Secretos](https://open.spotify.com/album/3cbhqcAnhdzrBYjrehJ3Hx) | 2:45 |
 | 50 | [Me Recordaras](https://open.spotify.com/track/1Rgapgagk9d7HnGrcYh55l) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Me Recordaras](https://open.spotify.com/album/0rZjGjQ7Ldvcn43ecZ1z2b) | 3:28 |
 
-Snapshot ID: `aN8SAAAAAAD4y8J9K8R91qQkeHQqJzR3`
+Snapshot ID: `aOBjgAAAAAB6VEbTN+oZFx4z2GqaAyKB`

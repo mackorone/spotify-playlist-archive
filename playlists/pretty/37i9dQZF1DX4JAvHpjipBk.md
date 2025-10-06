@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Taylor Swift, Leon Thomas, Luke Combs, Young Miko, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,448,744 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,448,806 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 85 | [IYKYK](https://open.spotify.com/track/13I2ADgSEWeA5sS4UZ7E8i) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Broken Branches \(Extended\)](https://open.spotify.com/album/2OBSAgRDYsKDjd7MPxaKWt) | 2:40 |
 | 86 | [idols](https://open.spotify.com/track/6gJj2m1SMEywchE08sNY5h) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [idols](https://open.spotify.com/album/5UayLEXFF7eInzLYtalNZh) | 2:48 |
 | 87 | [Mascara Tears](https://open.spotify.com/track/0C2AFLlJ5x53lM9qfKgK8p) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Mascara Tears](https://open.spotify.com/album/7LrBHi7F3LfosN1hSRsKX9) | 3:37 |
-| 88 | [Big Boobs \(ft\. Zora\)](https://open.spotify.com/track/5HC4NulHGigB6MvPIUYTF9) | [Gully Boys](https://open.spotify.com/artist/0RNADU4Af78zqyTCOj2rVU), [Zora](https://open.spotify.com/artist/3pFbhzunKyBUtD2i43BjxB) | [Gully Boys](https://open.spotify.com/album/6vKrrP3yqueciIMoOMeLKP) | 3:05 |
+| 88 | [Big Boobs \(ft\. Zora\)](https://open.spotify.com/track/5HC4NulHGigB6MvPIUYTF9) | [Gully Boys](https://open.spotify.com/artist/0RNADU4Af78zqyTCOj2rVU), [ZORA](https://open.spotify.com/artist/0XKJrvokkuYzlL4umtnit8) | [Gully Boys](https://open.spotify.com/album/6vKrrP3yqueciIMoOMeLKP) | 3:05 |
 | 89 | [Living](https://open.spotify.com/track/41RCdAt1hvIfBOg5gsdCdz) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Living](https://open.spotify.com/album/3C4N0csezUXLqo5aEsR4Ae) | 3:01 |
 | 90 | [Vows](https://open.spotify.com/track/5nohCawT6TUJ0Nl3kqCaFj) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X), [Ezra Skys](https://open.spotify.com/artist/2Ay5ctNDFzQQz4fWV3DGMT) | [Vows](https://open.spotify.com/album/23wr2De8ynNEpUTWjLXyQZ) | 3:11 |
 | 91 | [Daylight](https://open.spotify.com/track/3sVVxX78LIK5bXUfmAF7F1) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Watercress](https://open.spotify.com/album/16Bp2wOfOAbK7uKZY42IkW) | 3:15 |

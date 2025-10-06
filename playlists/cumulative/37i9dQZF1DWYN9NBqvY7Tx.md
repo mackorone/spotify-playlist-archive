@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-707 songs - 1 day 12 hr 14 min
+708 songs - 1 day 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [BRODYAGA FUNK](https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [BRODYAGA FUNK](https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0) | 2:14 | 2024-05-24 |  |
 | [Broken Hearted \(feat\. Julia Church\)](https://open.spotify.com/track/6cmYMueidIP3Q2vLDrJWrv) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Broken Hearted \(feat\. Julia Church\)](https://open.spotify.com/album/4YzBqD277ZTx7qtXI1wwSp) | 3:32 | 2025-07-25 | 2025-09-30 |
 | [Bruce Wayne \- Loek Remix](https://open.spotify.com/track/6RRKcbrq0F4vtfePmDvwrt) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki), [Loek](https://open.spotify.com/artist/2JOvOzmVfZf99AJBtjemm0) | [Bruce Wayne \(Loek Remix\)](https://open.spotify.com/album/2FtST95kCd9R6gFWaK2gEL) | 2:50 | 2025-05-30 | 2025-09-11 |
+| [By My Side](https://open.spotify.com/track/6oGFDrlsSXovBIAY7gNYIq) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [Snack Pack Vol\. 1](https://open.spotify.com/album/4UQkMJyhzQNbldVNaOY4IC) | 3:42 | 2025-10-03 |  |
 | [By the Light of the Moon](https://open.spotify.com/track/20TYKg7pZLNFmLwwfER9G5) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Kerli](https://open.spotify.com/artist/4IFgewC2urR62Fwt7uAU03) | [By the Light of the Moon](https://open.spotify.com/album/4Hd8CzQdBmuEXsUyHpYCcj) | 4:27 | 2025-09-25 |  |
 | [Carry You](https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO), [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Carry You](https://open.spotify.com/album/1EHfXHtB9Ynnia0yZhV6HO) | 3:35 | 2024-02-19 | 2024-06-25 |
 | [Catharsis](https://open.spotify.com/track/0YLqnkxAp7Bwbi9V1X93xL) | [Approaching Nirvana](https://open.spotify.com/artist/3sS2Q1UZuUXL7TZSbQumDI) | [Catharsis](https://open.spotify.com/album/0ymUAvf82F01N86FAksVzT) | 4:25 | 2022-05-06 | 2022-07-28 |
@@ -211,7 +212,7 @@
 | [Fearless Pt\. II](https://open.spotify.com/track/4VZH6OfxPy1nNE7KbtVKyK) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Fearless Pt\. II](https://open.spotify.com/album/1EfxWO4kPvf4d2Nj6HCL3D) | 3:14 | 2022-05-06 | 2022-07-29 |
 | [Fearless Pt\. II](https://open.spotify.com/track/4y1nvncvBhdoelqPMyXxis) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Fearless Pt\. II](https://open.spotify.com/album/47iQRvTe8uiasjN9jIS1nr) | 3:14 | 2022-07-14 | 2023-07-19 |
 | [Feelings](https://open.spotify.com/track/5QigdMkimi4NnfTmiOQEfS) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Friendz By Chance](https://open.spotify.com/artist/2MhwZ9lBlMCnrH3qpmxOlE) | [Feelings](https://open.spotify.com/album/7GGAr3VtN7Zn7Cslozttq8) | 2:16 | 2022-06-03 | 2022-06-10 |
-| [Fever](https://open.spotify.com/track/7b3tktwO7obxxYuQMiyz5T) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Fever](https://open.spotify.com/album/3FC9JSCOZxpqxishliyxby) | 2:26 | 2025-07-25 |  |
+| [Fever](https://open.spotify.com/track/7b3tktwO7obxxYuQMiyz5T) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Fever](https://open.spotify.com/album/3FC9JSCOZxpqxishliyxby) | 2:26 | 2025-07-25 | 2025-10-06 |
 | [Fight Back](https://open.spotify.com/track/6KigD0mlF4VGDYiSEzAyYw) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Fight Back: The Collection](https://open.spotify.com/album/5DkR7Wn2rUWY5Hw9csN0ui) | 3:20 | 2022-05-06 | 2023-07-19 |
 | [FIGHT CLUB](https://open.spotify.com/track/2KOR0FNI6I9OgSH0w59oCI) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY), [EL$E](https://open.spotify.com/artist/36zaLvAR3hvPMtlSqgQs2i) | [PHONK CLUB](https://open.spotify.com/album/2cJa6cqxo5ZcJWstZbjylz) | 1:56 | 2022-12-06 | 2023-01-14 |
 | [Fight or Flight](https://open.spotify.com/track/0biZ6lxXHy4eHweTbOD33W) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [Fight or Flight](https://open.spotify.com/album/21flOOgl2FgBHpxum2PVVH) | 2:31 | 2023-09-22 | 2023-10-14 |

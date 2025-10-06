@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Canaan Nyathi
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,049 likes - 100 songs - 11 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,200 likes - 100 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

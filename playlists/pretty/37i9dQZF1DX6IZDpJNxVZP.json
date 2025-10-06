@@ -1,6 +1,6 @@
 {
   "description": "Celebrate Halloween at home with these fun tracks",
-  "num_followers": 70780,
+  "num_followers": 70779,
   "original_name": "Trick or Treat",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2025-09-29 19:41:03",
       "album": {
+        "name": "Spooky Spiders Everywhere!",
+        "url": "https://open.spotify.com/album/64Z3O18A2zMDcCNgPCZIJh"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 258390,
+      "name": "Spooky Spiders Everywhere!",
+      "url": "https://open.spotify.com/track/57LgRvOO6sDh5Mfqx4RY63"
+    },
+    {
+      "added_at": "2025-09-29 19:41:03",
+      "album": {
         "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4YTduhQWfS0pOzQC4o0HcG"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 291693,
       "name": "Poor Unfortunate Souls",
       "url": "https://open.spotify.com/track/7yyTZAgwQUy1a5kDjQJJNN"
-    },
-    {
-      "added_at": "2025-09-29 19:41:03",
-      "album": {
-        "name": "Spooky Spiders Everywhere!",
-        "url": "https://open.spotify.com/album/64Z3O18A2zMDcCNgPCZIJh"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 258390,
-      "name": "Spooky Spiders Everywhere!",
-      "url": "https://open.spotify.com/track/57LgRvOO6sDh5Mfqx4RY63"
     },
     {
       "added_at": "2025-09-29 19:41:03",
@@ -343,38 +343,6 @@
     {
       "added_at": "2025-09-29 19:41:03",
       "album": {
-        "name": "Mini Pop Kids 17",
-        "url": "https://open.spotify.com/album/4RucFi1MogLkft52GQPS0S"
-      },
-      "artists": [
-        {
-          "name": "Mini Pop Kids",
-          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
-        }
-      ],
-      "duration_ms": 153986,
-      "name": "Bad Guy",
-      "url": "https://open.spotify.com/track/4V9KNW6NCaFTHmgo85Punq"
-    },
-    {
-      "added_at": "2025-09-29 19:41:03",
-      "album": {
-        "name": "The Best Of The Laurie Berkner Band",
-        "url": "https://open.spotify.com/album/4XbuNhXriszF4L1V4mYBfV"
-      },
-      "artists": [
-        {
-          "name": "The Laurie Berkner Band",
-          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
-        }
-      ],
-      "duration_ms": 79560,
-      "name": "Monster Boogie",
-      "url": "https://open.spotify.com/track/77gQppy2SLAQGqMB1LTXX9"
-    },
-    {
-      "added_at": "2025-09-29 19:41:03",
-      "album": {
         "name": "Preschool Halloween Songs",
         "url": "https://open.spotify.com/album/43jz0Ysu62z2Zvi9NZJ3ti"
       },
@@ -387,6 +355,22 @@
       "duration_ms": 116000,
       "name": "Five Little Pumpkins Sitting on a Gate",
       "url": "https://open.spotify.com/track/3uawt11RygVvIMXVRMb4PN"
+    },
+    {
+      "added_at": "2025-09-29 19:41:03",
+      "album": {
+        "name": "Mini Pop Kids 17",
+        "url": "https://open.spotify.com/album/4RucFi1MogLkft52GQPS0S"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "duration_ms": 153986,
+      "name": "Bad Guy",
+      "url": "https://open.spotify.com/track/4V9KNW6NCaFTHmgo85Punq"
     },
     {
       "added_at": "2025-09-29 19:41:03",
@@ -407,6 +391,22 @@
     {
       "added_at": "2025-09-29 19:41:03",
       "album": {
+        "name": "The Best Of The Laurie Berkner Band",
+        "url": "https://open.spotify.com/album/4XbuNhXriszF4L1V4mYBfV"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "duration_ms": 79560,
+      "name": "Monster Boogie",
+      "url": "https://open.spotify.com/track/77gQppy2SLAQGqMB1LTXX9"
+    },
+    {
+      "added_at": "2025-09-29 19:41:03",
+      "album": {
         "name": "The Loud House Mega Music Countdown (Soundtrack)",
         "url": "https://open.spotify.com/album/6ea3zT249IDx7ODPVF8cFL"
       },
@@ -419,6 +419,22 @@
       "duration_ms": 122869,
       "name": "Tricked",
       "url": "https://open.spotify.com/track/7FiaO4Ne6CsR5TMZ1L47GT"
+    },
+    {
+      "added_at": "2025-09-29 19:41:03",
+      "album": {
+        "name": "Preschool Halloween Songs",
+        "url": "https://open.spotify.com/album/43jz0Ysu62z2Zvi9NZJ3ti"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "duration_ms": 140098,
+      "name": "Shake Them Skeleton Bones",
+      "url": "https://open.spotify.com/track/6yyUXmHgVY3T0HjY9JjK8k"
     },
     {
       "added_at": "2025-09-29 19:41:03",
@@ -451,22 +467,6 @@
       "duration_ms": 72426,
       "name": "I Wanna Scare Myself",
       "url": "https://open.spotify.com/track/7pvlXWhbPUkGmhspCJ49Pn"
-    },
-    {
-      "added_at": "2025-09-29 19:41:03",
-      "album": {
-        "name": "Preschool Halloween Songs",
-        "url": "https://open.spotify.com/album/43jz0Ysu62z2Zvi9NZJ3ti"
-      },
-      "artists": [
-        {
-          "name": "The Kiboomers",
-          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
-        }
-      ],
-      "duration_ms": 140098,
-      "name": "Shake Them Skeleton Bones",
-      "url": "https://open.spotify.com/track/6yyUXmHgVY3T0HjY9JjK8k"
     },
     {
       "added_at": "2025-09-29 19:41:03",
@@ -647,18 +647,18 @@
     {
       "added_at": "2025-09-29 19:41:03",
       "album": {
-        "name": "Spooky Night (from A Really Haunted Loud House)",
-        "url": "https://open.spotify.com/album/4KOq2cmP4PahZHDrY9d6xW"
+        "name": "ABC Boo (Caitie)",
+        "url": "https://open.spotify.com/album/4ca7iydzxw93rvcX8WGACN"
       },
       "artists": [
         {
-          "name": "The Loud House",
-          "url": "https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB"
+          "name": "Caitie's Classroom",
+          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
         }
       ],
-      "duration_ms": 173465,
-      "name": "Spooky Night (from A Really Haunted Loud House)",
-      "url": "https://open.spotify.com/track/2nfkkepFVzBviOk0wZSklX"
+      "duration_ms": 192628,
+      "name": "ABC Boo (Caitie)",
+      "url": "https://open.spotify.com/track/3vg4EfjcqPCfQQgE9T89KF"
     },
     {
       "added_at": "2025-09-29 19:41:03",
@@ -695,18 +695,18 @@
     {
       "added_at": "2025-09-29 19:41:03",
       "album": {
-        "name": "ABC Boo (Caitie)",
-        "url": "https://open.spotify.com/album/4ca7iydzxw93rvcX8WGACN"
+        "name": "Spooky Night (from A Really Haunted Loud House)",
+        "url": "https://open.spotify.com/album/4KOq2cmP4PahZHDrY9d6xW"
       },
       "artists": [
         {
-          "name": "Caitie's Classroom",
-          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
+          "name": "The Loud House",
+          "url": "https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB"
         }
       ],
-      "duration_ms": 192628,
-      "name": "ABC Boo (Caitie)",
-      "url": "https://open.spotify.com/track/3vg4EfjcqPCfQQgE9T89KF"
+      "duration_ms": 173465,
+      "name": "Spooky Night (from A Really Haunted Loud House)",
+      "url": "https://open.spotify.com/track/2nfkkepFVzBviOk0wZSklX"
     },
     {
       "added_at": "2025-09-29 19:41:03",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-09-29 19:41:03",
       "album": {
-        "name": "Songs and Story: Mickey's Spooky Night",
-        "url": "https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr"
-      },
-      "artists": [
-        {
-          "name": "Goofy",
-          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
-        }
-      ],
-      "duration_ms": 167946,
-      "name": "Monster Mash",
-      "url": "https://open.spotify.com/track/4Engqtxwykpej8XLAgq7qA"
-    },
-    {
-      "added_at": "2025-09-29 19:41:03",
-      "album": {
         "name": "It\u2019s Halloween!",
         "url": "https://open.spotify.com/album/5iCbpallmqJEEdk6EpBVIJ"
       },
@@ -847,22 +831,34 @@
     {
       "added_at": "2025-09-29 19:41:03",
       "album": {
-        "name": "Bones! Bones! Bones!",
-        "url": "https://open.spotify.com/album/5V8VkDTGBoTIkxrIywqlda"
+        "name": "Songs and Story: Mickey's Spooky Night",
+        "url": "https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr"
       },
       "artists": [
         {
-          "name": "GoNoodle",
-          "url": "https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f"
-        },
-        {
-          "name": "Awesome Sauce",
-          "url": "https://open.spotify.com/artist/4rF4SqHjG4ZNy3k6aJjru1"
+          "name": "Goofy",
+          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
         }
       ],
-      "duration_ms": 97455,
-      "name": "Bones! Bones! Bones!",
-      "url": "https://open.spotify.com/track/0eVGZSVkdxVfrtoIZsUDq7"
+      "duration_ms": 167946,
+      "name": "Monster Mash",
+      "url": "https://open.spotify.com/track/4Engqtxwykpej8XLAgq7qA"
+    },
+    {
+      "added_at": "2025-09-29 19:41:03",
+      "album": {
+        "name": "KIDZ BOP Halloween",
+        "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 222186,
+      "name": "Werewolves Of London",
+      "url": "https://open.spotify.com/track/2YB6oRXEKmgAcl9ON5capM"
     },
     {
       "added_at": "2025-09-29 19:41:03",
@@ -891,6 +887,26 @@
     {
       "added_at": "2025-09-29 19:41:03",
       "album": {
+        "name": "Bones! Bones! Bones!",
+        "url": "https://open.spotify.com/album/5V8VkDTGBoTIkxrIywqlda"
+      },
+      "artists": [
+        {
+          "name": "GoNoodle",
+          "url": "https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f"
+        },
+        {
+          "name": "Awesome Sauce",
+          "url": "https://open.spotify.com/artist/4rF4SqHjG4ZNy3k6aJjru1"
+        }
+      ],
+      "duration_ms": 97455,
+      "name": "Bones! Bones! Bones!",
+      "url": "https://open.spotify.com/track/0eVGZSVkdxVfrtoIZsUDq7"
+    },
+    {
+      "added_at": "2025-09-29 19:41:03",
+      "album": {
         "name": "I FOUND YOU!",
         "url": "https://open.spotify.com/album/5cgca90mQ014PmAoEOkxbF"
       },
@@ -907,22 +923,6 @@
     {
       "added_at": "2025-09-29 19:41:03",
       "album": {
-        "name": "KIDZ BOP Halloween",
-        "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 222186,
-      "name": "Werewolves Of London",
-      "url": "https://open.spotify.com/track/2YB6oRXEKmgAcl9ON5capM"
-    },
-    {
-      "added_at": "2025-09-29 19:41:03",
-      "album": {
         "name": "Halloween Songs 3",
         "url": "https://open.spotify.com/album/3JoS9KsDBydpJuxJ0YFbKV"
       },
@@ -935,6 +935,22 @@
       "duration_ms": 81130,
       "name": "Vampire Wedding",
       "url": "https://open.spotify.com/track/2hH8xQrEH39WJ2cOckewvQ"
+    },
+    {
+      "added_at": "2025-09-29 19:41:03",
+      "album": {
+        "name": "KIDZ BOP Halloween",
+        "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 188040,
+      "name": "Bad Blood",
+      "url": "https://open.spotify.com/track/21jdyV98aurGa8pu2SCYFL"
     },
     {
       "added_at": "2025-09-29 19:41:03",
@@ -991,22 +1007,6 @@
     {
       "added_at": "2025-09-29 19:41:03",
       "album": {
-        "name": "KIDZ BOP Halloween",
-        "url": "https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 188040,
-      "name": "Bad Blood",
-      "url": "https://open.spotify.com/track/21jdyV98aurGa8pu2SCYFL"
-    },
-    {
-      "added_at": "2025-09-29 19:41:03",
-      "album": {
         "name": "Halloween Songs",
         "url": "https://open.spotify.com/album/6W2tIdBTW9jKKlbSra9g0F"
       },
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-09-29 19:41:03",
       "album": {
-        "name": "Halloween Songs 2",
-        "url": "https://open.spotify.com/album/3W0o5NCvcvvQtYAvor3KDS"
-      },
-      "artists": [
-        {
-          "name": "Pinkfong",
-          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
-        }
-      ],
-      "duration_ms": 110965,
-      "name": "Halloween Costume Party",
-      "url": "https://open.spotify.com/track/1kZUhs9oLt95tLfsT4NE9h"
-    },
-    {
-      "added_at": "2025-09-29 19:41:03",
-      "album": {
         "name": "Dracula Spectacular",
         "url": "https://open.spotify.com/album/1rtVFcWEp7y8OvgRaszQHc"
       },
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2025-09-29 19:41:03",
       "album": {
+        "name": "Halloween Songs 2",
+        "url": "https://open.spotify.com/album/3W0o5NCvcvvQtYAvor3KDS"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "duration_ms": 110965,
+      "name": "Halloween Costume Party",
+      "url": "https://open.spotify.com/track/1kZUhs9oLt95tLfsT4NE9h"
+    },
+    {
+      "added_at": "2025-09-29 19:41:03",
+      "album": {
         "name": "Halloween Train",
         "url": "https://open.spotify.com/album/0Lf6axNL2EDZ1hTLKk0RAU"
       },
@@ -1087,6 +1087,22 @@
       "duration_ms": 163480,
       "name": "Halloween Train",
       "url": "https://open.spotify.com/track/2CWGQwGJdssqTsOqBtORE7"
+    },
+    {
+      "added_at": "2025-09-29 19:41:03",
+      "album": {
+        "name": "Kids Halloween Party Music",
+        "url": "https://open.spotify.com/album/1DrwxkXuJRDomi1QtqvRAA"
+      },
+      "artists": [
+        {
+          "name": "The Hit Crew Kids",
+          "url": "https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN"
+        }
+      ],
+      "duration_ms": 166733,
+      "name": "Who Let The Ghosts Out",
+      "url": "https://open.spotify.com/track/4bU4wo67tGtrDPaFv5pSk8"
     },
     {
       "added_at": "2025-09-29 19:41:03",
@@ -1105,20 +1121,20 @@
       "url": "https://open.spotify.com/track/0IUYwvWRUmr7zP3ltjISWH"
     },
     {
-      "added_at": "2025-09-29 19:41:03",
+      "added_at": "2025-10-03 04:00:44",
       "album": {
-        "name": "Kids Halloween Party Music",
-        "url": "https://open.spotify.com/album/1DrwxkXuJRDomi1QtqvRAA"
+        "name": "Ha Ha Halloween (Skye's Music Party)",
+        "url": "https://open.spotify.com/album/653HtQ6YHknzW6VmVRxB4x"
       },
       "artists": [
         {
-          "name": "The Hit Crew Kids",
-          "url": "https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN"
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
         }
       ],
-      "duration_ms": 166733,
-      "name": "Who Let The Ghosts Out",
-      "url": "https://open.spotify.com/track/4bU4wo67tGtrDPaFv5pSk8"
+      "duration_ms": 120822,
+      "name": "Ha Ha Halloween - Skye's Music Party",
+      "url": "https://open.spotify.com/track/1Y1PSX1ur2Uo3QPeutLvJh"
     },
     {
       "added_at": "2025-09-29 19:41:03",
@@ -1223,6 +1239,22 @@
     {
       "added_at": "2025-09-29 19:41:03",
       "album": {
+        "name": "Big Things",
+        "url": "https://open.spotify.com/album/6fJLE5P4cQ7Kelq7CRLzMf"
+      },
+      "artists": [
+        {
+          "name": "Lucy Kalantari",
+          "url": "https://open.spotify.com/artist/48DitTEk1ItVK1K023w2S1"
+        }
+      ],
+      "duration_ms": 215840,
+      "name": "It's Halloween",
+      "url": "https://open.spotify.com/track/1cXBL3J7QtdYRuttYOHsFL"
+    },
+    {
+      "added_at": "2025-09-29 19:41:03",
+      "album": {
         "name": "We Haunt These Halls",
         "url": "https://open.spotify.com/album/41ktHCJaSL8UXGFIt3CI47"
       },
@@ -1243,22 +1275,6 @@
     {
       "added_at": "2025-09-29 19:41:03",
       "album": {
-        "name": "Big Things",
-        "url": "https://open.spotify.com/album/6fJLE5P4cQ7Kelq7CRLzMf"
-      },
-      "artists": [
-        {
-          "name": "Lucy Kalantari",
-          "url": "https://open.spotify.com/artist/48DitTEk1ItVK1K023w2S1"
-        }
-      ],
-      "duration_ms": 215840,
-      "name": "It's Halloween",
-      "url": "https://open.spotify.com/track/1cXBL3J7QtdYRuttYOHsFL"
-    },
-    {
-      "added_at": "2025-09-29 19:41:03",
-      "album": {
         "name": "Songs and Story: Mickey's Spooky Night",
         "url": "https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 161160,
       "name": "Shake Your Bones",
       "url": "https://open.spotify.com/track/1Mew11one8wgUBsWt8EOGl"
-    },
-    {
-      "added_at": "2025-09-29 19:41:03",
-      "album": {
-        "name": "Kids Halloween Party Music",
-        "url": "https://open.spotify.com/album/1DrwxkXuJRDomi1QtqvRAA"
-      },
-      "artists": [
-        {
-          "name": "The Hit Crew Kids",
-          "url": "https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN"
-        }
-      ],
-      "duration_ms": 163293,
-      "name": "Batman Theme",
-      "url": "https://open.spotify.com/track/6NVI8uSMMbVAjt0FzL4GFL"
     }
   ],
   "unique_name": "Trick or Treat",

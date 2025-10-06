@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 
 > This is Teenage Wrist\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,396 likes - 27 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,397 likes - 27 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 | 20 | [Cold Case](https://open.spotify.com/track/5G3IvLAzd5V4CzMhh8EBBc) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:44 |
 | 21 | [Sparkle / Fade](https://open.spotify.com/track/54pcxTH4RzzfvTq7f2vWem) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Counting Flies](https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD) | 5:39 |
 | 22 | [New Emotion](https://open.spotify.com/track/4fPaQVq5eklkLMduNY3Gnb) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 3:26 |
-| 23 | [Daylight](https://open.spotify.com/track/3NFESrMYBdTbsKVtIpg2Sz) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:47 |
+| 23 | [Supermachine](https://open.spotify.com/track/6NNi9MBDthHTDFFaaYpDA9) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:52 |
 | 24 | [Wax Poetic](https://open.spotify.com/track/5FOvWDm4PrPchyHMDOQiXs) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [Sister Void](https://open.spotify.com/artist/3DpwZLxTvFL01VP4qPfRjn) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:33 |
 | 25 | [Outside of Love](https://open.spotify.com/track/3pjKdEZS8xho0ywMko6NpS) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS) | 4:06 |
 | 26 | [Believe In The Wrong Things](https://open.spotify.com/track/45CZwozIAJgbWlIzEjCRf5) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Counting Flies](https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD) | 3:33 |
 | 27 | [Summer](https://open.spotify.com/track/5cDp8qgQCsni5pD2YKdh5J) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/0OTMJe9Gf7rk5ss02Q6KtS) | 5:01 |
 
-Snapshot ID: `aN8SAAAAAABbVv7TQNny8OjPBAEM+8yr`
+Snapshot ID: `aOBjgAAAAADOfiBXHofAU9gue2o9+Oti`

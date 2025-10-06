@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Victor Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,564 likes - 49 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,573 likes - 49 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,16 +22,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 12 | [Bolo Bolo](https://open.spotify.com/track/3dYnYRTcJSfELlIH3mgNOl) | [W.i.S.H.](https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k), [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Sweetburn](https://open.spotify.com/album/2CLrTDeBWcP9WfoimcOyfX) | 3:57 |
 | 13 | [Quieres Autodestruirte Conmigo?](https://open.spotify.com/track/0ImJfk8NU4a1aMvclUyJT0) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [INFANCIA MAL CALIBRADA](https://open.spotify.com/album/16xCvyLPONGbD1pij2GOQ1) | 3:07 |
 | 14 | [get better!](https://open.spotify.com/track/2FElV26FnQwjsGzmkh4Dom) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [get better!](https://open.spotify.com/album/44DDyYBv1WXPKfStRoCXPl) | 2:17 |
-| 15 | [Echoes](https://open.spotify.com/track/0VM4421vCWFJaLeLq1C33b) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Echoes](https://open.spotify.com/album/2t0tzhydw5GN4WiYmqNBts) | 3:14 |
-| 16 | [Goodbye, My Summer](https://open.spotify.com/track/2aicRlZiaAEteaPsti8Hls) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [JAMONG SALGU CLUB](https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ) | 3:56 |
-| 17 | [Indipendente](https://open.spotify.com/track/5QcdUyOyaADHjCEF1g09nJ) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Indipendente](https://open.spotify.com/album/0LPzcw1FoXTEYadRNiItCV) | 2:32 |
-| 18 | [Ruang Hidup](https://open.spotify.com/track/3lrCSyPHotdOAMu10Sp62o) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kepada, Yang Terhormat](https://open.spotify.com/album/0GY8wV9c0h68Izx8eEzjXF) | 3:23 |
-| 19 | [When We Play](https://open.spotify.com/track/7bZzYTtOpjYtGi9fd4HFjc) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Xolani Guitars](https://open.spotify.com/artist/0fXj3KTK2tXbxUImfJEF9I) | [Gods window, Pt\. 1](https://open.spotify.com/album/2qDpWACZJ81rK6BJP8aoWD) | 8:33 |
-| 20 | [Kisah Tanpa Dirimu](https://open.spotify.com/track/6RAxgUG90f39dVSGUr4qOd) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Devaki](https://open.spotify.com/album/6WyxwTMDu7MdmWKZ2m4lCe) | 4:17 |
+| 15 | [Kisah Tanpa Dirimu](https://open.spotify.com/track/6RAxgUG90f39dVSGUr4qOd) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Devaki](https://open.spotify.com/album/6WyxwTMDu7MdmWKZ2m4lCe) | 4:17 |
+| 16 | [Echoes](https://open.spotify.com/track/0VM4421vCWFJaLeLq1C33b) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Echoes](https://open.spotify.com/album/2t0tzhydw5GN4WiYmqNBts) | 3:14 |
+| 17 | [Goodbye, My Summer](https://open.spotify.com/track/2aicRlZiaAEteaPsti8Hls) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [JAMONG SALGU CLUB](https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ) | 3:56 |
+| 18 | [Indipendente](https://open.spotify.com/track/5QcdUyOyaADHjCEF1g09nJ) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Indipendente](https://open.spotify.com/album/0LPzcw1FoXTEYadRNiItCV) | 2:32 |
+| 19 | [Ruang Hidup](https://open.spotify.com/track/3lrCSyPHotdOAMu10Sp62o) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kepada, Yang Terhormat](https://open.spotify.com/album/0GY8wV9c0h68Izx8eEzjXF) | 3:23 |
+| 20 | [When We Play](https://open.spotify.com/track/7bZzYTtOpjYtGi9fd4HFjc) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Xolani Guitars](https://open.spotify.com/artist/0fXj3KTK2tXbxUImfJEF9I) | [Gods window, Pt\. 1](https://open.spotify.com/album/2qDpWACZJ81rK6BJP8aoWD) | 8:33 |
 | 21 | [Pity Party Princess](https://open.spotify.com/track/1Sk1xlCDUwUplLatU0MWRa) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Honeymoon In A Motel](https://open.spotify.com/album/3eRKBboz0GSShr4JGRmzl7) | 2:50 |
 | 22 | [Drugs Don't Work](https://open.spotify.com/track/02kDT0zis0OkjpstQE4smc) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Hope Came Last](https://open.spotify.com/album/435kjRF6b4PhhLa8cadcLC) | 2:16 |
-| 23 | [Firdygałki](https://open.spotify.com/track/7HjSGd75KfBbKAEcMZogKi) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Firdygałki](https://open.spotify.com/album/3hvfKTYWgFdqtmFOby3LZr) | 3:53 |
-| 24 | [WIE?](https://open.spotify.com/track/4bx1kaKVgDK6aONBlWawmr) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb) | [WIE?](https://open.spotify.com/album/0zsEvQw4D2XzlQdLrfpTTj) | 2:46 |
+| 23 | [WIE?](https://open.spotify.com/track/4bx1kaKVgDK6aONBlWawmr) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb) | [WIE?](https://open.spotify.com/album/0zsEvQw4D2XzlQdLrfpTTj) | 2:46 |
+| 24 | [Firdygałki](https://open.spotify.com/track/7HjSGd75KfBbKAEcMZogKi) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Firdygałki](https://open.spotify.com/album/3hvfKTYWgFdqtmFOby3LZr) | 3:53 |
 | 25 | [MOMENTO](https://open.spotify.com/track/0lKSSNUWk7baSbP5tbiqnd) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C), [Prayers](https://open.spotify.com/artist/7a0G4CC3dZdKAAzVRnaRGu) | [MOMENTO](https://open.spotify.com/album/5coYkHMjR7MZY6FNh6yDaA) | 2:50 |
 | 26 | [Vanity](https://open.spotify.com/track/0AU2a60eNXKv2XP3CkXyos) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Vanity](https://open.spotify.com/album/2r1SLo3tTmw7w1omWMUlkW) | 3:30 |
 | 27 | [Coups de soleil](https://open.spotify.com/track/7z4oEyhuIL5jB45mL4bKLX) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Coups de soleil](https://open.spotify.com/album/1P9eGJfPY8ZYPdVZOndFcm) | 2:27 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 40 | [favourite jeans](https://open.spotify.com/track/4AuTXxUCBb3hUTowdXTRtm) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [25](https://open.spotify.com/album/1mNdKc1N4YKzkLcUNh1vxf) | 3:28 |
 | 41 | [Dendam](https://open.spotify.com/track/24Ooyj1Dci9rluOg1DZ37K) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY) | [Dendam](https://open.spotify.com/album/5mFzLpmF4Bvsng3wyx40Bn) | 3:39 |
 | 42 | [Kaisi Ye Aandhi Thee](https://open.spotify.com/track/7h1OtQaJ6HVMNVPYbNmH7p) | [Mansa Jimmy](https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu) | [Kaisi Ye Aandhi Thee](https://open.spotify.com/album/1fdzdvL1O03xY27LOxbpkU) | 3:48 |
-| 43 | [RICH](https://open.spotify.com/track/0APma3TkPygErSuwg8y9nn) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus), [GARETH FERNANDEZ](https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb) | [RICH](https://open.spotify.com/album/5As5b3LJnMumsTkQM00x7h) | 2:50 |
-| 44 | [Ingatlah Aku Di Sini](https://open.spotify.com/track/5PGwDL5zm7JpfM8kfg5ebw) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [do you guys \*still\* wanna listen to some electro\-pop music?](https://open.spotify.com/album/2ENuqRm2NrJnLfR2V5ZyK2) | 3:06 |
+| 43 | [Ingatlah Aku Di Sini](https://open.spotify.com/track/5PGwDL5zm7JpfM8kfg5ebw) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [do you guys \*still\* wanna listen to some electro\-pop music?](https://open.spotify.com/album/2ENuqRm2NrJnLfR2V5ZyK2) | 3:06 |
+| 44 | [RICH](https://open.spotify.com/track/0APma3TkPygErSuwg8y9nn) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus), [GARETH FERNANDEZ](https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb) | [RICH](https://open.spotify.com/album/5As5b3LJnMumsTkQM00x7h) | 2:50 |
 | 45 | [VIBEX](https://open.spotify.com/track/3zTQbyngvaU24Cwri1nmW4) | [UNIVERSE](https://open.spotify.com/artist/6fCxl3Uhiv0cCYGgDElhRV) | [VIBEX](https://open.spotify.com/album/2DIInPe7dtf9TqvgfvHz91) | 1:39 |
 | 46 | [What Does She Have](https://open.spotify.com/track/3xNMIHsncO6D3f4jD5I2Vc) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [What Does She Have](https://open.spotify.com/album/5QIFRXZBSXicIIX8sXPVqG) | 3:18 |
 | 47 | [Thua Người Ta](https://open.spotify.com/track/0jtKXWSesIai271sQT6VBC) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [Thua Người Ta](https://open.spotify.com/album/3SFXrBYmq1KiykPeasXh1L) | 3:14 |

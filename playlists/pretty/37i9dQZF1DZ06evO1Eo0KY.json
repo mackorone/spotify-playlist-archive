@@ -1,12 +1,12 @@
 {
   "description": "This is Nicholas Craven. The essential tracks, all in one playlist.",
-  "num_followers": 660,
+  "num_followers": 661,
   "original_name": "This Is Nicholas Craven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAADAQOWubva2UHFltGlpF0DJ",
+  "snapshot_id": "aOBjgAAAAAAwv+LjJF/ldcYAaDpXw+Uw",
   "tracks": [
     {
       "added_at": null,
@@ -703,22 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "POTLUCK",
-        "url": "https://open.spotify.com/album/1WwIvrNfaFQdAu82XAs7Fh"
+        "name": "Craven N 3",
+        "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
       },
       "artists": [
         {
-          "name": "Bruiser Wolf",
-          "url": "https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67"
-        },
-        {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         }
       ],
-      "duration_ms": 157290,
-      "name": "Beat The Charge",
-      "url": "https://open.spotify.com/track/51nexOgdmWUAbfIY6rdQDI"
+      "duration_ms": 162909,
+      "name": "Yzerman",
+      "url": "https://open.spotify.com/track/1OJk0PW55ZEAmmmxn370ka"
     },
     {
       "added_at": null,
@@ -763,22 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Craven N 3",
-        "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
+        "name": "POTLUCK",
+        "url": "https://open.spotify.com/album/1WwIvrNfaFQdAu82XAs7Fh"
       },
       "artists": [
         {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+          "name": "Bruiser Wolf",
+          "url": "https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67"
         },
         {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 162909,
-      "name": "Yzerman",
-      "url": "https://open.spotify.com/track/1OJk0PW55ZEAmmmxn370ka"
+      "duration_ms": 157290,
+      "name": "Beat The Charge",
+      "url": "https://open.spotify.com/track/51nexOgdmWUAbfIY6rdQDI"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 150753,
+  "num_followers": 150770,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAACipFjTqcrm31iIRPWC3p3P",
+  "snapshot_id": "aOBjgAAAAADKfTM8agieKCCee7R6HBaV",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "She's Like Texas",
-        "url": "https://open.spotify.com/album/3GQWEiCkBX2tyr0D1Y60au"
+        "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
       },
       "artists": [
-        {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        },
         {
           "name": "Kacey Musgraves",
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 205506,
-      "name": "Oh, Tonight (feat. Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/35DciiuaU8Lut9EkrlP4wR"
+      "duration_ms": 168266,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
     },
     {
       "added_at": null,
@@ -491,18 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
+        "name": "She's Like Texas",
+        "url": "https://open.spotify.com/album/3GQWEiCkBX2tyr0D1Y60au"
       },
       "artists": [
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        },
         {
           "name": "Kacey Musgraves",
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 168266,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
+      "duration_ms": 205506,
+      "name": "Oh, Tonight (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/35DciiuaU8Lut9EkrlP4wR"
     },
     {
       "added_at": null,

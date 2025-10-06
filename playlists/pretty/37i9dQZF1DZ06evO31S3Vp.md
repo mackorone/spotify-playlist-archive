@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31S3Vp.md) - [plain]
 
 > This is Jão\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,863 likes - 38 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,849 likes - 38 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,12 +23,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31S3Vp.md) - [plain]
 | 13 | [Mal](https://open.spotify.com/track/3Q97FKXvvhX7xNE9T3rp0Z) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Mal](https://open.spotify.com/album/66cKlnpPVfGXR0Xgec7lK7) | 2:46 |
 | 14 | [Julho](https://open.spotify.com/track/6vOdrnuWDwm6lKtuienvzt) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 3:07 |
 | 15 | [Santo](https://open.spotify.com/track/23n4YuEtkZuALpk0wG3ZMT) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 2:42 |
-| 16 | [Acidente](https://open.spotify.com/track/0soeEPl0HwEmuC0LNQ1dSp) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPERNOVA](https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf) | 3:06 |
-| 17 | [AMOR PIRATA](https://open.spotify.com/track/5K5g0QQZI1a1ZS3Ag7CU5f) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [AMOR PIRATA](https://open.spotify.com/album/4wxp5gMpPpvtKup4KgDrdm) | 2:52 |
+| 16 | [AMOR PIRATA](https://open.spotify.com/track/5K5g0QQZI1a1ZS3Ag7CU5f) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [AMOR PIRATA](https://open.spotify.com/album/4wxp5gMpPpvtKup4KgDrdm) | 2:52 |
+| 17 | [Acidente](https://open.spotify.com/track/0soeEPl0HwEmuC0LNQ1dSp) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPERNOVA](https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf) | 3:06 |
 | 18 | [Escorpião](https://open.spotify.com/track/4UStL1GSBg8uThwygAz7Ao) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 2:28 |
 | 19 | [Coringa](https://open.spotify.com/track/5j3p2WnU8ha4K4ybaTZ4Hx) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:07 |
-| 20 | [Modo de Dizer](https://open.spotify.com/track/3lAHnDr46AbZKq4XSSvxO2) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPERNOVA](https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf) | 2:56 |
-| 21 | [A Rua](https://open.spotify.com/track/2OKEIwfQhf2a6lJuR3aMXJ) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 2:36 |
+| 20 | [A Rua](https://open.spotify.com/track/2OKEIwfQhf2a6lJuR3aMXJ) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 2:36 |
+| 21 | [Modo de Dizer](https://open.spotify.com/track/3lAHnDr46AbZKq4XSSvxO2) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPERNOVA](https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf) | 2:56 |
 | 22 | [Lábia](https://open.spotify.com/track/015fd1R17Z7S1FeU5H2V3I) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 2:51 |
 | 23 | [Doce](https://open.spotify.com/track/0U2PbvCX6MHp72tqiaCPSS) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:15 |
 | 24 | [A Última Noite](https://open.spotify.com/track/1COly0kisSWSrcUQkXUMcF) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 4:15 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31S3Vp.md) - [plain]
 | 37 | [Você Vai Me Destruir](https://open.spotify.com/track/3mPz8WMo0zOWMxezQjyc8n) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 3:04 |
 | 38 | [Eu Quero Ser Como Você](https://open.spotify.com/track/3XbqMexOs4oiE9n6ATZ35K) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 3:09 |
 
-Snapshot ID: `aN8SAAAAAAAD2BfQBMZUwvp2Y4WyyDhw`
+Snapshot ID: `aOBjgAAAAACz2PTdpaCb5j6U429d6GQL`

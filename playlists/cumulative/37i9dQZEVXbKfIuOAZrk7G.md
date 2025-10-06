@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-4,325 songs - 9 day 12 hr 46 min
+4,326 songs - 9 day 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1996,7 +1996,7 @@
 | [KEEP UP](https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [KEEP UP // FROSTBITE](https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY) | 2:13 | 2024-08-21 | 2024-10-17 |
 | [Keeping Your Head Up \- Jonas Blue Remix; Radio Edit \[Radio Edit\]](https://open.spotify.com/track/26uWcFPeunNydCH7rl7nyA) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Keeping Your Head Up \(Jonas Blue Remix; Radio Edit\)](https://open.spotify.com/album/3er2BNkkRFdjHEKySKwjkX) | 3:03 | 2022-11-12 | 2022-11-30 |
 | [Keeps Me Sane](https://open.spotify.com/track/2btbEoXW6Vi2EI175dfrOE) | [Tyler Nance](https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z) | [Keeps Me Sane](https://open.spotify.com/album/39J0JAEwT3R6G16VvmiKj7) | 3:12 | 2025-07-29 | 2025-08-05 |
-| [Keeps Me Sane](https://open.spotify.com/track/5ivClJh64rX5PvFeyqI4Ew) | [Tyler Nance](https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z) | [Keeps Me Sane](https://open.spotify.com/album/2uXjcnHz8XQWs8IHPiPTbA) | 3:12 | 2025-08-04 |  |
+| [Keeps Me Sane](https://open.spotify.com/track/5ivClJh64rX5PvFeyqI4Ew) | [Tyler Nance](https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z) | [Keeps Me Sane](https://open.spotify.com/album/2uXjcnHz8XQWs8IHPiPTbA) | 3:12 | 2025-08-04 | 2025-10-06 |
 | [Keeps Me Sane](https://open.spotify.com/track/2MHqFComgCrQBmEBok3vJM) | [Tyler Nance](https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z) | [Keeps Me Sane](https://open.spotify.com/album/0X5ySFbq9Cp2wQXcev5taL) | 3:12 | 2025-08-13 | 2025-08-15 |
 | [KEHLANI](https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/4e9It5Geutbt6LBEqFmHSz) | 2:02 | 2024-06-04 | 2024-06-26 |
 | [KEHLANI](https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm) | 2:02 | 2024-06-26 | 2024-08-14 |
@@ -2487,6 +2487,7 @@
 | [MONTAGEM DIAMANTE ROSA \- SLOWED](https://open.spotify.com/track/6fdjPVlCwFryREAsmRHy4C) | [vtze archive](https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs), [Mc Ster](https://open.spotify.com/artist/2RqjTHL40djgpNGG2LS9O0) | [MONTAGEM DIAMANTE ROSA](https://open.spotify.com/album/28N1pcdMLhrEajfJKkBkl1) | 1:54 | 2024-03-27 | 2024-04-10 |
 | [Montagem Lunar Diamante \- Slowed](https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr) | [DJ DYLANFK](https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee), [WXCHSXN](https://open.spotify.com/artist/3V9pMeaokZlFw0a80Cff3O) | [Montagem Lunar Diamante](https://open.spotify.com/album/0JYZjOll98BB5vPgl2xOLN) | 3:05 | 2024-12-31 | 2025-01-17 |
 | [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 | 2024-01-08 | 2024-02-09 |
+| [MONTAGEM RUGADA](https://open.spotify.com/track/7hCUHXMZknrymWCyeMx8B6) | [cape](https://open.spotify.com/artist/6hB4Px9Gm2FjAB30PXsv8K), [JXNDRO](https://open.spotify.com/artist/62vwt2P3iBw4NwHdDZb27q), [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB) | [MONTAGEM RUGADA](https://open.spotify.com/album/7FsRROosPNliIsu3YzSs9n) | 1:32 | 2025-10-05 |  |
 | [Montagem Supersonic](https://open.spotify.com/track/2r2vr5ujMEZN9hJzwwc6Jk) | [KHAOS](https://open.spotify.com/artist/3SENePgknpJt3DvLK2JAfZ), [Jmilton](https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz) | [Montagem Supersonic](https://open.spotify.com/album/0fauumBf19hArK8Wt3XhkC) | 1:27 | 2025-09-04 | 2025-09-17 |
 | [MONTAGEM TOMADA](https://open.spotify.com/track/1WusF1nfwF70ojSCSFhmLW) | [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y) | [MONTAGEM TOMADA](https://open.spotify.com/album/5D17Gk0J7jPXLvWMszqijF) | 1:11 | 2025-04-08 | 2025-04-24 |
 | [MONTAGEM TOMADA](https://open.spotify.com/track/2UEyo3ufg8DvO0zYMJWG7R) | [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y) | [MONTAGEM TOMADA](https://open.spotify.com/album/40m2KxQUQNQANattrHt9vZ) | 1:11 | 2025-04-23 | 2025-04-30 |

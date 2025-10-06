@@ -1,6 +1,6 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 54496,
+  "num_followers": 54505,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "From Afar",
-        "url": "https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll"
-      },
-      "artists": [
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 297253,
-      "name": "Laudate Dominum (from Vespers, K. 339) (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
-      "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
-    },
-    {
-      "added_at": "2024-05-30 15:22:47",
-      "album": {
         "name": "Undiscovered Vol.2",
         "url": "https://open.spotify.com/album/6wj5CvFjtpFIk6AjAYfOcG"
       },
@@ -971,34 +955,18 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "Blue Stone of Atlas (Piano Solo Version)",
-        "url": "https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3"
+        "name": "From Afar",
+        "url": "https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll"
       },
       "artists": [
         {
-          "name": "Hikaru Shirosu",
-          "url": "https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a"
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Blue Stone of Atlas - Piano Solo Version",
-      "url": "https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF"
-    },
-    {
-      "added_at": "2024-05-30 15:22:47",
-      "album": {
-        "name": "\u96ea\u89e3\u3051\u306e\u671d",
-        "url": "https://open.spotify.com/album/0gvr1J3aClpX0holnRIFbp"
-      },
-      "artists": [
-        {
-          "name": "\u8352\u4e95\u6843\u5b50",
-          "url": "https://open.spotify.com/artist/6ZLhlVDG7KglxlYkMuLwvr"
-        }
-      ],
-      "duration_ms": 222775,
-      "name": "\u96ea\u89e3\u3051\u306e\u671d",
-      "url": "https://open.spotify.com/track/4V9PhPpzQ00RJjJaqRkgpq"
+      "duration_ms": 297253,
+      "name": "Laudate Dominum (from Vespers, K. 339) (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
+      "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1019,6 +987,38 @@
       "duration_ms": 145200,
       "name": "Song Book: The Man I Love. Slow and in singing style",
       "url": "https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc"
+    },
+    {
+      "added_at": "2024-05-30 15:22:47",
+      "album": {
+        "name": "\u96ea\u89e3\u3051\u306e\u671d",
+        "url": "https://open.spotify.com/album/0gvr1J3aClpX0holnRIFbp"
+      },
+      "artists": [
+        {
+          "name": "\u8352\u4e95\u6843\u5b50",
+          "url": "https://open.spotify.com/artist/6ZLhlVDG7KglxlYkMuLwvr"
+        }
+      ],
+      "duration_ms": 222775,
+      "name": "\u96ea\u89e3\u3051\u306e\u671d",
+      "url": "https://open.spotify.com/track/4V9PhPpzQ00RJjJaqRkgpq"
+    },
+    {
+      "added_at": "2024-05-30 15:22:47",
+      "album": {
+        "name": "Blue Stone of Atlas (Piano Solo Version)",
+        "url": "https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Shirosu",
+          "url": "https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Blue Stone of Atlas - Piano Solo Version",
+      "url": "https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 220346,
+      "name": "I Can't Tell You Why",
+      "url": "https://open.spotify.com/track/5GAh0yww213mHRQGyDHwk7"
+    },
+    {
+      "added_at": "2024-05-30 15:22:47",
+      "album": {
         "name": "THE GREATEST UNKNOWN",
         "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 141160,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
-    },
-    {
-      "added_at": "2024-05-30 15:22:47",
-      "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 220346,
-      "name": "I Can't Tell You Why",
-      "url": "https://open.spotify.com/track/5GAh0yww213mHRQGyDHwk7"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
-        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
+        "name": "Cairngorms",
+        "url": "https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3"
       },
       "artists": [
         {
-          "name": "Gabriel Yared",
-          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
         }
       ],
-      "duration_ms": 101375,
-      "name": "G\u00e9n\u00e9rique de fin",
-      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
+      "duration_ms": 252878,
+      "name": "Cairngorms",
+      "url": "https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "Cairngorms",
-        "url": "https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3"
+        "name": "Si tu voyais son c\u0153ur (Bande originale du film)",
+        "url": "https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In"
       },
       "artists": [
         {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+          "name": "Gabriel Yared",
+          "url": "https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB"
         }
       ],
-      "duration_ms": 252878,
-      "name": "Cairngorms",
-      "url": "https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F"
+      "duration_ms": 101375,
+      "name": "G\u00e9n\u00e9rique de fin",
+      "url": "https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "N\u00e9o-Romance",
-        "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Streliski",
-          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
-        }
-      ],
-      "duration_ms": 190232,
-      "name": "a new romance",
-      "url": "https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r"
-    },
-    {
-      "added_at": "2024-05-30 15:22:47",
-      "album": {
         "name": "Little Blue (feat. Brandi Carlile)",
         "url": "https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa"
       },
@@ -1491,6 +1475,26 @@
       "duration_ms": 265306,
       "name": "Little Blue (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O"
+    },
+    {
+      "added_at": "2024-05-30 15:22:47",
+      "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/2XDn2tAwfflLVZbQqCtJ5s"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "duration_ms": 235644,
+      "name": "Mother Nature",
+      "url": "https://open.spotify.com/track/7FsETbTxNbbwx9KUjojpVP"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1523,22 +1527,18 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "Mother Nature",
-        "url": "https://open.spotify.com/album/2XDn2tAwfflLVZbQqCtJ5s"
+        "name": "N\u00e9o-Romance",
+        "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
         }
       ],
-      "duration_ms": 235644,
-      "name": "Mother Nature",
-      "url": "https://open.spotify.com/track/7FsETbTxNbbwx9KUjojpVP"
+      "duration_ms": 190232,
+      "name": "a new romance",
+      "url": "https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r"
     },
     {
       "added_at": "2024-05-30 15:22:47",

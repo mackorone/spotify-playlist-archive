@@ -1,12 +1,12 @@
 {
   "description": "This is AJULIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 10048,
+  "num_followers": 10068,
   "original_name": "This Is AJULIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAABsBw9f5zFX5GK5viJwaXPW",
+  "snapshot_id": "aOBjgAAAAACG37d6O2oc12WjYPPX17rO",
   "tracks": [
     {
       "added_at": null,
@@ -858,15 +858,11 @@
         {
           "name": "AJULIACOSTA",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
         }
       ],
-      "duration_ms": 153600,
-      "name": "Aju",
-      "url": "https://open.spotify.com/track/3AnlYFI3TFrz7p0Q6zo376"
+      "duration_ms": 120944,
+      "name": "7 Ruas",
+      "url": "https://open.spotify.com/track/3rOXjEay5jV6cFDkQvuGqE"
     },
     {
       "added_at": null,
@@ -934,11 +930,15 @@
         {
           "name": "AJULIACOSTA",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
         }
       ],
-      "duration_ms": 120944,
-      "name": "7 Ruas",
-      "url": "https://open.spotify.com/track/3rOXjEay5jV6cFDkQvuGqE"
+      "duration_ms": 153600,
+      "name": "Aju",
+      "url": "https://open.spotify.com/track/3AnlYFI3TFrz7p0Q6zo376"
     },
     {
       "added_at": null,

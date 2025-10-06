@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-223 songs - 11 hr 22 min
+224 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [No Drama](https://open.spotify.com/track/5Jq958VQwRyQFujau4TMKD) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [No Drama](https://open.spotify.com/album/3LzwUe8NBJtLco5uK6bbGO) | 3:24 | 2024-01-29 |  |
 | [No Drama \- Cumbia Version](https://open.spotify.com/track/7ebgqt3yMeBjTUVa8IYHMf) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [No Drama \(Cumbia Version\)](https://open.spotify.com/album/6O5pki5n78TGznFJxzNxpW) | 3:02 | 2024-01-29 |  |
 | [No Voy A Cambiar](https://open.spotify.com/track/6mflYV4snpVRc7SLkeb80n) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [No Voy A Cambiar](https://open.spotify.com/album/1rtdyipqp4TCLicTHf9gp5) | 4:02 | 2024-01-29 |  |
+| [Ojitos\_Verdes.mp3](https://open.spotify.com/track/1iOr558nKZFEUisItQldh8) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:51 | 2025-10-05 |  |
 | [Olvidar](https://open.spotify.com/track/6bXhgSB0JZwxFl4qUdN6eC) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Olvidar](https://open.spotify.com/album/2YgC5ADumNhLMefJ7H30eL) | 3:02 | 2025-01-09 | 2025-04-12 |
 | [Only One \(feat\. Di Genius\)](https://open.spotify.com/track/1LUp83N3Zh6FE5lpGdiUaU) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Julia Michaels](https://open.spotify.com/artist/5iZfdXW7Tr4Th4MuqFeyIh), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [Only One \(feat\. Di Genius\)](https://open.spotify.com/album/2Mug7a9txQpNZv3HunvIIc) | 3:38 | 2024-01-29 |  |
 | [orióN](https://open.spotify.com/track/4feh4Ak3ZJfC6ibxkNzlkE) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [SAN BLAS](https://open.spotify.com/album/0FftKMxAvrnFuynmLCvjQ0) | 4:00 | 2025-04-26 |  |

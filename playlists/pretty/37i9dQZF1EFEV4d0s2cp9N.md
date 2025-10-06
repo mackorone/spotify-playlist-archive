@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/56ZBiYuSM6W68EojT5WORo">Blush Davis</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423 likes - 56 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 424 likes - 59 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,14 +55,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 45 | [Better Without U](https://open.spotify.com/track/4ZhH9lE1H1kHglrgVS6d9n) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Dreamers](https://open.spotify.com/album/2pFdkI2vVBJ5rvCq17db9e) | 2:37 |
 | 46 | [Point of View](https://open.spotify.com/track/5pdycEF3g4wnfTlb92BnW7) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [Point of View](https://open.spotify.com/album/6m7FyjVOUtN9y5kfVrdyQL) | 3:10 |
 | 47 | [Begging](https://open.spotify.com/track/6OyVm6NMV3aMNGiI1yn2iI) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [Begging](https://open.spotify.com/album/79sVfNpFmrcJyZdOS9jnMC) | 3:02 |
-| 48 | [i don’t know](https://open.spotify.com/track/1MZTlZNS0GraKJ8EpIkqb7) | [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [i don’t know](https://open.spotify.com/album/0cdUGguCYuLTgkY2f2K2Qw) | 3:52 |
-| 49 | [The Beach](https://open.spotify.com/track/0A4DniPQYwURoRs9jKm7j4) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [The Beach](https://open.spotify.com/album/3kEXFP8ZH9uCcnm1e6Cjck) | 3:03 |
+| 48 | [The Beach](https://open.spotify.com/track/0A4DniPQYwURoRs9jKm7j4) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [The Beach](https://open.spotify.com/album/3kEXFP8ZH9uCcnm1e6Cjck) | 3:03 |
+| 49 | [i don’t know](https://open.spotify.com/track/1MZTlZNS0GraKJ8EpIkqb7) | [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [i don’t know](https://open.spotify.com/album/0cdUGguCYuLTgkY2f2K2Qw) | 3:52 |
 | 50 | [Illusion](https://open.spotify.com/track/3FSU0BGcjjPqPEEFeQL348) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [\(Me\)moir](https://open.spotify.com/album/1KixiCbpzXKydBJqWiA9kB) | 3:04 |
 | 51 | [Everything You Wanted](https://open.spotify.com/track/2R0u5DR5tnMSHJLpsiCVmJ) | [Tasha Low](https://open.spotify.com/artist/3i2MctLBDYHXCLNATxRT5Q), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Everything You Wanted](https://open.spotify.com/album/6MSynSHfw5YN5DN3cG7I91) | 2:37 |
 | 52 | [Meaning](https://open.spotify.com/track/1pjHUdacuwY14inKRpcJld) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [\(Me\)moir](https://open.spotify.com/album/1KixiCbpzXKydBJqWiA9kB) | 2:54 |
-| 53 | [Priority](https://open.spotify.com/track/0jgIsq6BtybOp4R1udNuOP) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Priority](https://open.spotify.com/album/6SGPIdhRflWG0jvIp7ftGj) | 3:16 |
-| 54 | [MAGIC](https://open.spotify.com/track/6OhYnnNVRvLRBy580Wit9k) | [Park kang hyun](https://open.spotify.com/artist/6GuseRhHqcubzIgtBob2Pk) | [Music Collaboration\-MAGIC](https://open.spotify.com/album/6CR946phNnK0cI2Qnw4L1O) | 3:10 |
-| 55 | [surrender](https://open.spotify.com/track/2lleU8uOuQfNe1IvN6JUXf) | [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [would i be yours?](https://open.spotify.com/album/4s4U15Zass2usbXrNJPBpA) | 3:04 |
-| 56 | [Meaning \- Inst.](https://open.spotify.com/track/4Y5oE4Xn5VMCRce5UgyIkM) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [\(Me\)moir](https://open.spotify.com/album/1KixiCbpzXKydBJqWiA9kB) | 2:54 |
+| 53 | [Starlet](https://open.spotify.com/track/3BmWKYWYKlcqpqgkwgiGzB) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [Starlet](https://open.spotify.com/album/4oYCnKybgcL6hBdYQc3o95) | 3:13 |
+| 54 | [Priority](https://open.spotify.com/track/0jgIsq6BtybOp4R1udNuOP) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Priority](https://open.spotify.com/album/6SGPIdhRflWG0jvIp7ftGj) | 3:16 |
+| 55 | [Lipstick on the Rearview](https://open.spotify.com/track/4nyWwTljQ9I6h6a4KxihN3) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [No Room For Two](https://open.spotify.com/album/6fE8mUVWPj7tO5e8O2lrId) | 2:34 |
+| 56 | [MAGIC](https://open.spotify.com/track/6OhYnnNVRvLRBy580Wit9k) | [Park kang hyun](https://open.spotify.com/artist/6GuseRhHqcubzIgtBob2Pk) | [Music Collaboration\-MAGIC](https://open.spotify.com/album/6CR946phNnK0cI2Qnw4L1O) | 3:10 |
+| 57 | [surrender](https://open.spotify.com/track/2lleU8uOuQfNe1IvN6JUXf) | [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [would i be yours?](https://open.spotify.com/album/4s4U15Zass2usbXrNJPBpA) | 3:04 |
+| 58 | [Meaning \- Inst.](https://open.spotify.com/track/4Y5oE4Xn5VMCRce5UgyIkM) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [\(Me\)moir](https://open.spotify.com/album/1KixiCbpzXKydBJqWiA9kB) | 2:54 |
+| 59 | [tydfl](https://open.spotify.com/track/1iTEUzyDxQRcAbbYWsjT4A) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [No Room For Two](https://open.spotify.com/album/6fE8mUVWPj7tO5e8O2lrId) | 2:32 |
 
-Snapshot ID: `Ab9/nAAAAACgQCRSM94EmWP/y6aid5Gx`
+Snapshot ID: `Ab+FMgAAAAD0kKq49ix8xzRm8QYhuuPD`

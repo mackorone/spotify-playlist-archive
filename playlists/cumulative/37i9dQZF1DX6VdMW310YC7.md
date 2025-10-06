@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,819 songs - 5 day 3 hr 44 min
+1,820 songs - 5 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1366,7 +1366,7 @@
 | [Say a Prayer for Me](https://open.spotify.com/track/3wGVYicGXEt2lHwMpX6nvW) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/0gIAWTyvnOntQSd3yxyiW5) | 4:37 | 2020-05-18 | 2020-07-18 |
 | [Say My Name \(feat\. Zyra\)](https://open.spotify.com/track/1LeItUMezKA1HdCHxYICed) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Zyra](https://open.spotify.com/artist/0DGAOR3KtqWwWSwDzhzqOa) | [In Return](https://open.spotify.com/album/5SXT6dwhHX56Sos7KMcMF5) | 4:22 | 2020-05-18 | 2020-07-03 |
 | [Say The Word](https://open.spotify.com/track/1CPfcxZSA4scOgRq8hVBW4) | [tyDi](https://open.spotify.com/artist/7tOUuyCplrFWLXCZuhE3C4), [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g) | [Say The Word](https://open.spotify.com/album/5OXYSAiZRvzm9l0X1Q0XbZ) | 3:30 | 2020-03-16 | 2022-04-16 |
-| [Say You Want To Fly](https://open.spotify.com/track/3NxRqLhqJFNybOEHMoXI8W) | [Otherwish](https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T) | [Say You Want To Fly](https://open.spotify.com/album/2YXYd4ZoEjEPIwAuGQlTce) | 4:00 | 2024-11-22 |  |
+| [Say You Want To Fly](https://open.spotify.com/track/3NxRqLhqJFNybOEHMoXI8W) | [Otherwish](https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T) | [Say You Want To Fly](https://open.spotify.com/album/2YXYd4ZoEjEPIwAuGQlTce) | 4:00 | 2024-11-22 | 2025-10-06 |
 | [Scared Of The Dark](https://open.spotify.com/track/5XyamXKs8Z3ThrMZtGt6yQ) | [Friends & I](https://open.spotify.com/artist/1DgkENk0JhWHATAaVZN4Bn) | [Scared Of The Dark](https://open.spotify.com/album/0C7XqnzLWmXC09HRpn6BfH) | 2:11 | 2024-09-13 | 2025-04-09 |
 | [Scared to Go Home](https://open.spotify.com/track/5gXLhbWoo01qNyGois2Doc) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Scared to Go Home](https://open.spotify.com/album/4ZXSq1eXkwdgEOAtxurhmD) | 2:59 | 2020-05-16 | 2020-10-09 |
 | [Schools Out](https://open.spotify.com/track/1RtNv5YOoY0ODeAekDHAga) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [Schools Out](https://open.spotify.com/album/64cTvTckUDWDLU9xRtdnlq) | 2:55 | 2020-03-17 | 2022-04-21 |
@@ -1475,6 +1475,7 @@
 | [Soothing Tension](https://open.spotify.com/track/06o7YdqanB0LO3gXjq4PXM) | [Passenger 10](https://open.spotify.com/artist/1Rmh4YOuttbNyVthCkTokT) | [Soothing Tension](https://open.spotify.com/album/6HGu7Q1sqdTb1hXQz6WQpY) | 3:56 | 2022-12-28 | 2023-01-06 |
 | [Soul Spiral](https://open.spotify.com/track/3Do9fwtLWSCvcGJgq7PXUB) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh) | [Soul Spiral](https://open.spotify.com/album/0lbxOCslIA34Ll8uiN2PH1) | 3:36 | 2022-04-15 | 2022-12-29 |
 | [Soweto](https://open.spotify.com/track/4WofBAFHcHd87y92Azllpm) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Shirazee](https://open.spotify.com/artist/3yZDwFnQlK2pgG8hu5knnu) | [Soweto](https://open.spotify.com/album/58r0dOmMRQvBNeuXKLoVbd) | 3:04 | 2020-05-18 | 2020-07-18 |
+| [Space](https://open.spotify.com/track/43Gw9Yd4mYtpJ1AHFA00oY) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Space](https://open.spotify.com/album/5Bhe2wkVUz1nOjPp2L80t9) | 2:22 | 2025-10-03 |  |
 | [Space Between Us](https://open.spotify.com/track/0bkwtvUJpzBoiD8Z7u1kzk) | [Ellusive](https://open.spotify.com/artist/6gwInscSxlouXzcmENDqk4), [Eny](https://open.spotify.com/artist/0EbgPXDvaiVP1maVy5eSGt) | [Space Between Us](https://open.spotify.com/album/3CnDyyFkOMmbhq6yAyRVeP) | 3:44 | 2020-05-18 | 2020-07-18 |
 | [Space For Me](https://open.spotify.com/track/52RE7Xc8y29D85xdsH4IMU) | [Zak Leever](https://open.spotify.com/artist/52YFhvzbffRkaVJQCjFlpU) | [Space For Me](https://open.spotify.com/album/4pAlzrxfbgYv0dFc5WQZiA) | 2:59 | 2021-01-23 | 2022-07-24 |
 | [Spark](https://open.spotify.com/track/455dBlLbb20MByIVmlSwEg) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Spark](https://open.spotify.com/album/4jutaK8CCJBxmzPbElehQg) | 4:00 | 2020-03-17 | 2020-06-12 |

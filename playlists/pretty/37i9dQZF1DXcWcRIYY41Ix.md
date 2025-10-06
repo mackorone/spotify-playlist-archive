@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Vicente Navarro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,841 likes - 101 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,839 likes - 101 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

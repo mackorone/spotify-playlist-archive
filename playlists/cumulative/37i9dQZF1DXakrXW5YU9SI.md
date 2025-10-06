@@ -4,7 +4,7 @@
 
 > Powitaj jesień błogimi dźwiękami 🍂
 
-666 songs - 1 day 13 hr 18 min
+667 songs - 1 day 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Czego chcemy my \(a czego chcą oni\)](https://open.spotify.com/track/7JEirX2SKKIChDNk3iwbhE) | [Patrick the Pan](https://open.spotify.com/artist/7vYfq6OMlGDw1IpTxar2h2) | [To nie najlepszy czas dla wrażliwych ludzi](https://open.spotify.com/album/4DX4IM3HoMQUFKDre6OiEV) | 4:26 | 2024-10-17 | 2024-10-26 |
 | [Czuję Cię Obok](https://open.spotify.com/track/21v4fl1hJ2bAUtp5fnpkoP) | [FANKA](https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg), [BRSC](https://open.spotify.com/artist/68b1ngOghaULNOIcy2nouz), [Mike Johnson](https://open.spotify.com/artist/1Rv7NvFb9DhfzZcA33jotl) | [Czuję Cię Obok](https://open.spotify.com/album/4UftLy4wwU1yDanxA9DYdN) | 2:32 | 2024-09-20 | 2024-11-22 |
 | [Czułość](https://open.spotify.com/track/0mzilIypwzynCyNNSFi2AN) | [Mikromusic](https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5) | [Czułość](https://open.spotify.com/album/3UrwWPlfimWizwXmGsmaTV) | 5:37 | 2024-11-08 | 2025-01-21 |
-| [Czuły punkt](https://open.spotify.com/track/2lszUq5AKP7gsC2ICpCs3S) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Czuły punkt](https://open.spotify.com/album/2pt9ofYyr8H5RFG7kngEVJ) | 3:14 | 2025-08-22 |  |
+| [Czuły punkt](https://open.spotify.com/track/2lszUq5AKP7gsC2ICpCs3S) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Czuły punkt](https://open.spotify.com/album/2pt9ofYyr8H5RFG7kngEVJ) | 3:14 | 2025-08-22 | 2025-10-06 |
 | [Czy o mnie myślisz?](https://open.spotify.com/track/7lYMP0fbLY47Z5Cru6QpkY) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Czy o mnie myślisz?](https://open.spotify.com/album/3bNRAwwiPnhSaXtrzPfkhB) | 2:31 | 2025-05-31 | 2025-07-01 |
 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 | 2024-07-05 | 2024-09-13 |
 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-09-15 |  |
@@ -460,6 +460,7 @@
 | [Poznajmy się](https://open.spotify.com/track/0jyyqdqmA5ycu3FRXc86ZL) | [Kacper Andrzejewski](https://open.spotify.com/artist/7ctFnHDhMOyVORjHPsUf0N) | [Poznajmy się](https://open.spotify.com/album/0UMXfWzWNE3igHGxOPbDXt) | 2:38 | 2024-11-29 | 2025-02-03 |
 | [Połowa Mnie](https://open.spotify.com/track/5o6kVWLGia3lOVGppXQBJb) | [Smolasty](https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP), [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Połowa Mnie](https://open.spotify.com/album/6qnqvqS01qdpVp6WggOZlL) | 2:44 | 2024-09-12 | 2024-09-28 |
 | [pretty](https://open.spotify.com/track/7zku2rvsa345C0kwQ4OEyZ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [pretty](https://open.spotify.com/album/4w5TWeEWxzS7qhsAUR5xE5) | 2:30 | 2025-02-28 | 2025-06-01 |
+| [Pretty Promises, \(feat\. Mariah The Scientist\)](https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Sincerely: P.S.](https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux) | 3:09 | 2025-10-03 |  |
 | [Pretty Woman](https://open.spotify.com/track/3lw7lnqS2cNgrMEZeEzQ7W) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Pretty Woman](https://open.spotify.com/album/53ycyfvHxlw27C0dmfi2PW) | 2:46 | 2025-04-04 | 2025-04-19 |
 | [Priceless \(feat\. LISA\)](https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Priceless \(feat\. LISA\)](https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ) | 2:43 | 2025-05-01 | 2025-09-16 |
 | [Prywatna wyspa](https://open.spotify.com/track/3ZlvrQL6AJetHiOmLUjS5X) | [Lordofon](https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99), [Hi Hania](https://open.spotify.com/artist/0kKd8tAFuoSpZ3zXe5vgkH) | [Prywatna wyspa](https://open.spotify.com/album/589yWr3ogBNa6KPVhNMUZF) | 2:22 | 2025-07-10 | 2025-08-11 |

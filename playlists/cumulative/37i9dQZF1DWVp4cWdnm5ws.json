@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Celebrate 1000 RADAR artists by listening to some of the top most streamed RADAR artists from the Philippines!",
+  "description": "Discover new artists on the horizon this 2025. Cover: BGYO\n",
   "name": "RADAR Philippines",
   "tracks": [
     {
@@ -608,7 +608,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 221538,
       "name": "Binibini",
       "url": "https://open.spotify.com/track/55RMhrPQYA6vLu5YMgXxFD"
@@ -947,6 +947,24 @@
     },
     {
       "album": {
+        "name": "Headlines",
+        "url": "https://open.spotify.com/album/4E0DnIB6iLAZ9ufGA24yz7"
+      },
+      "artists": [
+        {
+          "name": "BGYO",
+          "url": "https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184341,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/4eDOey6H4uD1kmbP1MZLwO"
+    },
+    {
+      "album": {
         "name": "Darling, Darling",
         "url": "https://open.spotify.com/album/1a72z6O7pUejkSYW8nRb7Z"
       },
@@ -1092,7 +1110,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 192380,
       "name": "Dilaw",
       "url": "https://open.spotify.com/track/2ADSh3Mp744n2586tpUtIW"
@@ -1172,6 +1190,36 @@
       "duration_ms": 202000,
       "name": "don't matter",
       "url": "https://open.spotify.com/track/3DAEXv0dhydvWcT7wkXDfG"
+    },
+    {
+      "album": {
+        "name": "DON'T WANNA THINK ABOUT U",
+        "url": "https://open.spotify.com/album/7CngBsQ3ChbQybleq7hKlF"
+      },
+      "artists": [
+        {
+          "name": "Clien",
+          "url": "https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK"
+        },
+        {
+          "name": "ALLMO$T",
+          "url": "https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz"
+        },
+        {
+          "name": "Mark Mendez",
+          "url": "https://open.spotify.com/artist/35LEv5q2KA07FyZNoRE4FG"
+        },
+        {
+          "name": "Bolo",
+          "url": "https://open.spotify.com/artist/2tNvirxo0YPPpZ6KMnDVaF"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228324,
+      "name": "DON'T WANNA THINK ABOUT U",
+      "url": "https://open.spotify.com/track/27AGaNzgfWtygmqQ1zjiEL"
     },
     {
       "album": {
@@ -1500,7 +1548,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 232621,
       "name": "GENTO",
       "url": "https://open.spotify.com/track/6RYhIHur2unkQv28fcinNO"
@@ -2096,7 +2144,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 191009,
       "name": "Ikaw Pa Rin",
       "url": "https://open.spotify.com/track/61ZPj8acfZj0H6zGxkr6K4"
@@ -2392,6 +2440,24 @@
       "duration_ms": 249712,
       "name": "Kulay (Miss Universe Philippines 2021)",
       "url": "https://open.spotify.com/track/55HcwpBtgFIKmY1v1OZss8"
+    },
+    {
+      "album": {
+        "name": "Kung Di Mo Alam",
+        "url": "https://open.spotify.com/album/1DRvYTu2nZlcKKixTQ7iIQ"
+      },
+      "artists": [
+        {
+          "name": "Justin Vasquez",
+          "url": "https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177692,
+      "name": "Kung Di Mo Alam",
+      "url": "https://open.spotify.com/track/73lcuoa9ZIRQhXNVRo81Kc"
     },
     {
       "album": {
@@ -2742,7 +2808,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 201951,
       "name": "Mahika",
       "url": "https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy"
@@ -2988,7 +3054,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 237692,
       "name": "Multo",
       "url": "https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF"
@@ -3356,7 +3422,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 225466,
       "name": "Pantropiko",
       "url": "https://open.spotify.com/track/6Csrqur3IfnVp0EtHskjMw"
@@ -3490,7 +3556,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 190562,
       "name": "pasulyap-sulyap",
       "url": "https://open.spotify.com/track/1emtJRLd5henLeHVOQnOyI"
@@ -4180,7 +4246,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 200000,
       "name": "sining (feat. Jay R)",
       "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
@@ -4514,7 +4580,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 206181,
       "name": "TAKE ALL THE LOVE",
       "url": "https://open.spotify.com/track/2v6jmF6VQWS96x6tSg05IC"

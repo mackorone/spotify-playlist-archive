@@ -4,7 +4,7 @@
 
 > This is CHiCO with HoneyWorks\. The essential tracks, all in one playlist.
 
-126 songs - 8 hr 14 min
+127 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [我武者羅](https://open.spotify.com/track/1CXOv9wefRErGts84IhrUS) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ｉは自由で、縛れない。](https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms) | 3:55 | 2025-05-07 |  |
 | [我武者羅](https://open.spotify.com/track/0L9JNPLUBrdshUMYzYQifY) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [我武者羅](https://open.spotify.com/album/78IFr46G72yZkCKzU4HIKn) | 3:56 | 2022-06-09 | 2025-05-14 |
 | [我武者羅 \(TV size\)](https://open.spotify.com/track/2o6d0rAC9BAyPmgXnbXx1h) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [我武者羅 \(TV size\)](https://open.spotify.com/album/0oPcNJfKvuBkb9fpg5UMxc) | 1:30 | 2022-11-03 | 2024-06-07 |
+| [戦場の華](https://open.spotify.com/track/3lrLWugodcmk6bKQNFoG2e) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [戦場の華](https://open.spotify.com/album/4P6jLBYmtDTJidPlNQi18n) | 3:08 | 2025-10-06 |  |
 | [決戦スピリット \(アニメsize\)](https://open.spotify.com/track/3WYRfyATNJnF1Gi9zzViiy) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット \(アニメsize\)](https://open.spotify.com/album/41Yc8uHn1nWNMGw3gdCwMl) | 1:30 | 2023-09-21 | 2024-01-13 |
 | [決戦スピリット](https://open.spotify.com/track/1HHOkD7fuNCBnImFrlDRVi) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [瞬く世界にｉを揺らせ](https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9) | 4:30 | 2022-06-09 |  |
 | [決戦スピリット](https://open.spotify.com/track/4DSSRuiWONPIvHJ3GxCECH) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/4qriecwv26eu0kkzSAaObD) | 4:32 | 2023-09-21 | 2024-01-13 |

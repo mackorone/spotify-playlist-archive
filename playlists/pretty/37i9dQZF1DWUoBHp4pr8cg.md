@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > The hottest Hip Hop from TOSS, Maglera Doe Boy & Young Stunna, Tyler The Creator, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,641 likes - 85 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,659 likes - 85 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

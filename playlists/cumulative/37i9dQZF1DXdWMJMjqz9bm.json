@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "A little bit of pop, a little bit of rap, a little bit of country? Cover: CORTIS",
+  "description": "A little bit of pop, a little bit of rap, a little bit of country? Cover: Lil Peep",
   "name": "Varsity Bars",
   "tracks": [
     {
@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 163000,
       "name": "boom",
       "url": "https://open.spotify.com/track/6zhyXTuRkMSabSHvmMchpp"
@@ -2874,7 +2874,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 161000,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/601m47xXoC3TFJuyEQ80VZ"
@@ -4090,7 +4090,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 129522,
       "name": "Fall Back",
       "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
@@ -5187,6 +5187,24 @@
     },
     {
       "album": {
+        "name": "gigolo",
+        "url": "https://open.spotify.com/album/58Xf2l1m7iWhfwoRjx75C0"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118461,
+      "name": "gigolo",
+      "url": "https://open.spotify.com/track/6DYul32gElizGgTrtRYrNY"
+    },
+    {
+      "album": {
         "name": "Girl U My Plug",
         "url": "https://open.spotify.com/album/7MnuSCvU2bmLIzkOfxI302"
       },
@@ -5770,6 +5788,24 @@
       "duration_ms": 162793,
       "name": "High 4 U",
       "url": "https://open.spotify.com/track/4i4JycD1WDecXoRW5j41Ge"
+    },
+    {
+      "album": {
+        "name": "age tape 15",
+        "url": "https://open.spotify.com/album/6f1PdnnTYTkxqTw44BWwJA"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "high like you",
+      "url": "https://open.spotify.com/track/1dOvjgCSZdmJu1upMs994P"
     },
     {
       "album": {
@@ -9035,6 +9071,24 @@
     },
     {
       "album": {
+        "name": "NIGHTLIFE",
+        "url": "https://open.spotify.com/album/2U9CC3sQ5uP9BYb4HNyL2D"
+      },
+      "artists": [
+        {
+          "name": "ilyaugust",
+          "url": "https://open.spotify.com/artist/1LtlO7x7J1OCaUVKRBub5v"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133632,
+      "name": "NIGHTLIFE",
+      "url": "https://open.spotify.com/track/6sP4EXsBMPbQlhuw28eQEq"
+    },
+    {
+      "album": {
         "name": "Nintendo",
         "url": "https://open.spotify.com/album/4F7uRi2BAlFFxGgZo6bWVi"
       },
@@ -9316,7 +9370,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 241023,
       "name": "NOKIA",
       "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
@@ -10590,6 +10644,24 @@
       "duration_ms": 138680,
       "name": "Psychotic",
       "url": "https://open.spotify.com/track/7LqROURBlbHtu5Is8uIqEG"
+    },
+    {
+      "album": {
+        "name": "put it on me",
+        "url": "https://open.spotify.com/album/7ISjczr1BMdAZrrMkxnjhz"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131061,
+      "name": "put it on me",
+      "url": "https://open.spotify.com/track/3WSGp3kqtSEbVKLzCWvGGQ"
     },
     {
       "album": {
@@ -14292,7 +14364,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 194093,
       "name": "What You Want (feat. Teezo Touchdown)",
       "url": "https://open.spotify.com/track/1pFQRreMptp3dkh64WiUNx"
@@ -14625,6 +14697,28 @@
     },
     {
       "album": {
+        "name": "LIFE'S A TRIP",
+        "url": "https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176874,
+      "name": "Wish (feat. Trippie Redd) - Trippie Mix",
+      "url": "https://open.spotify.com/track/0c0YHn3DIQLl1opsQDd9kO"
+    },
+    {
+      "album": {
         "name": "Wish You Well",
         "url": "https://open.spotify.com/album/4wyVBiF1059DWSRhF0P6eK"
       },
@@ -14730,7 +14824,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 137666,
       "name": "WTHELLY",
       "url": "https://open.spotify.com/track/03gyVoP8A8A3mdcGMxcHqD"
@@ -14788,6 +14882,24 @@
       "duration_ms": 226758,
       "name": "Ye Not Crazy",
       "url": "https://open.spotify.com/track/70jjParnrP2X3mOVkoljGE"
+    },
+    {
+      "album": {
+        "name": "Yes Daddy",
+        "url": "https://open.spotify.com/album/0ZzvD6KLI1sq2DutkD0n1g"
+      },
+      "artists": [
+        {
+          "name": "Bryce Savage",
+          "url": "https://open.spotify.com/artist/3BKu8LEdOvfIVWXZlmJAGI"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Yes Daddy",
+      "url": "https://open.spotify.com/track/5NVH0o05dCAomhZXjdlpCc"
     },
     {
       "album": {

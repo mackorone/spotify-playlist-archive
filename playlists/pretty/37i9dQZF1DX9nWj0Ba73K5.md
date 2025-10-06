@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > In loving memory of songwriter <a href="https://open.spotify.com/playlist/37i9dQZF1DZ06evO2iM06L"> Brett James</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,649 likes - 195 songs - 11 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,663 likes - 195 songs - 11 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 | 194 | [What Whiskey Does \(feat\. Hillary Lindsey\)](https://open.spotify.com/track/6Zz0GUgiyGrN0EUkkHU1JM) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [Magnolia](https://open.spotify.com/album/7sRSL1KG2nyd8qkdA3YhFg) | 3:46 |
 | 195 | [The Highwayman](https://open.spotify.com/track/5Uq2mhb7ZHCGlLLbVVIuAF) | [Jimmy Webb](https://open.spotify.com/artist/0YJUdunUDA1pTDxJ8AJlyB) | [Highwayman: The Greatest Hits](https://open.spotify.com/album/34u1HXTINbB3kfKUAj6PzV) | 3:50 |
 
-Snapshot ID: `AAAAAHqBKWGZFFQnHRJr0zecQZ6RgjqM`
+Snapshot ID: `AAAAAGoIcXZLwowvyT2AkxaUFY+GUC/N`

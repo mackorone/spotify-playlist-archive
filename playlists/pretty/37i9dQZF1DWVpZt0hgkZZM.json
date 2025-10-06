@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 42200,
+  "num_followers": 42211,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Historia Musical de los Embajadores Vallenatos: 36 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI"
-      },
-      "artists": [
-        {
-          "name": "Los Embajadores Vallenatos",
-          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
-        }
-      ],
-      "duration_ms": 295879,
-      "name": "Bebiendo y Llorando",
-      "url": "https://open.spotify.com/track/3eh5xfz6LVt198YnqoCa5W"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de Fruko: \u00c9xitos",
         "url": "https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 219352,
       "name": "Tania",
       "url": "https://open.spotify.com/track/1D1ekeAi8uHYh1JPOcnr1I"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Historia Musical de los Embajadores Vallenatos: 36 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI"
+      },
+      "artists": [
+        {
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+        }
+      ],
+      "duration_ms": 295879,
+      "name": "Bebiendo y Llorando",
+      "url": "https://open.spotify.com/track/3eh5xfz6LVt198YnqoCa5W"
     },
     {
       "added_at": "2024-07-12 23:11:55",

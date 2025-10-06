@@ -13075,6 +13075,24 @@
     },
     {
       "album": {
+        "name": "A Glitch In The Matrix",
+        "url": "https://open.spotify.com/album/3DFQ8HHK62kGV4yknGe9KP"
+      },
+      "artists": [
+        {
+          "name": "Maria Jane Smith",
+          "url": "https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265212,
+      "name": "Harley Pt. 2",
+      "url": "https://open.spotify.com/track/2NhLmzbbr44giCxzwoSAAD"
+    },
+    {
+      "album": {
         "name": "Hatar att du l\u00e4t oss g\u00e5",
         "url": "https://open.spotify.com/album/0EgjkXmUyXWeBOhZqUYnRO"
       },
@@ -29784,7 +29802,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 214033,
       "name": "Springer ikapp",
       "url": "https://open.spotify.com/track/5DF56PEsdLEHpqoCpzLg6I"

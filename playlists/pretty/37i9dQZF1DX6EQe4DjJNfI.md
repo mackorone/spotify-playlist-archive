@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Bela Maria
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,576 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,594 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 43 | [perco o ar](https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Drew](https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV) | [perco o ar](https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z) | 3:24 |
 | 44 | [Sozinho](https://open.spotify.com/track/7m75tNUYyt3Bz21tIDdq3j) | [Tállia](https://open.spotify.com/artist/4WVJKn89nXJQunOVVkcfDj), [Klismman](https://open.spotify.com/artist/3jZdI7WRp6aZdMA6OgvVxJ) | [Sozinho](https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d) | 2:31 |
 | 45 | [SLOW DOWN](https://open.spotify.com/track/2oZrrzcXDbRb1IAvM6OwTF) | [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G), [Burn\-O](https://open.spotify.com/artist/2L8Zk7Y14wkqiiYQ3J53Sn), [rod shawty](https://open.spotify.com/artist/0HdnynTCwfciA6uEqbXask) | [REAL R&B, Vol\. 2](https://open.spotify.com/album/4CDQVOBaMeTZRfO5yM33us) | 2:37 |
-| 46 | [Daqui pra Frente \- Dread Session, Vol\. 1](https://open.spotify.com/track/439RsYapYgE3f29yZCrgnn) | [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Daqui pra Frente \- Dread Session, Vol\. 1](https://open.spotify.com/album/5afThezK3Y0b2kqr9F5EfY) | 3:01 |
+| 46 | [UNHA DE FOGUINHO](https://open.spotify.com/track/6lH6NusL3eoEv9XIJTVNWH) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [UNHA DE FOGUINHO](https://open.spotify.com/album/4Snh5BuDdaYJPJ0Fl2H1Uz) | 2:45 |
 | 47 | [Red On My Lips](https://open.spotify.com/track/5MBNXbieJAHV7lOcNxpzfL) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN) | [Red On My Lips](https://open.spotify.com/album/6cW19rqP5z2smPZwyeG6vL) | 2:14 |
-| 48 | [UNHA DE FOGUINHO](https://open.spotify.com/track/6lH6NusL3eoEv9XIJTVNWH) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [UNHA DE FOGUINHO](https://open.spotify.com/album/4Snh5BuDdaYJPJ0Fl2H1Uz) | 2:45 |
+| 48 | [Daqui pra Frente \- Dread Session, Vol\. 1](https://open.spotify.com/track/439RsYapYgE3f29yZCrgnn) | [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Daqui pra Frente \- Dread Session, Vol\. 1](https://open.spotify.com/album/5afThezK3Y0b2kqr9F5EfY) | 3:01 |
 | 49 | [Viu!?](https://open.spotify.com/track/0Y5Ulasjgo28kEpFbBFKkf) | [Cyro Sampaio](https://open.spotify.com/artist/5L0ZOCLmpOTteBYRqeIl9g) | [Viu!?](https://open.spotify.com/album/073YAMjODyN4sxKRQq9mXM) | 3:05 |
 | 50 | [Pra Mim Não Dá](https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu) | [Juliah](https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Pra Mim Não Dá](https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K) | 2:33 |
 | 51 | [Tenho Tanto de Você em Mim](https://open.spotify.com/track/3IrZFpw7o2O149tSCDcx7g) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [Tenho Tanto de Você em Mim](https://open.spotify.com/album/5TeKABn6knV7MhIq2owAZO) | 2:48 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 60 | [risco](https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [NEM TUDO É AMOR](https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv) | 3:33 |
 | 61 | [Sobrenome](https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT), [Dodoin](https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1) | [Sobrenome](https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7) | 2:14 |
 | 62 | [ESCOLHAS](https://open.spotify.com/track/5l4yvhKkTcosuRuOaF5Kcx) | [VÉRTICE](https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm) | [ESCOLHAS](https://open.spotify.com/album/03pGiKAx5rT7nBELKTZ7Ot) | 3:41 |
-| 63 | [Lingerie Branca](https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS) | [Motico Money](https://open.spotify.com/artist/7rOf2PkphQnVsVQKzVsfbA) | [Lingerie Branca](https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z) | 3:59 |
-| 64 | [TRATO](https://open.spotify.com/track/1usu3xnDdqPIuAsUm8HsPl) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [TRATO](https://open.spotify.com/album/7mHxkuHr9ymMDapBPOHRJO) | 2:29 |
+| 63 | [TRATO](https://open.spotify.com/track/1usu3xnDdqPIuAsUm8HsPl) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [TRATO](https://open.spotify.com/album/7mHxkuHr9ymMDapBPOHRJO) | 2:29 |
+| 64 | [Lingerie Branca](https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS) | [Motico Money](https://open.spotify.com/artist/7rOf2PkphQnVsVQKzVsfbA) | [Lingerie Branca](https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z) | 3:59 |
 | 65 | [Melanina](https://open.spotify.com/track/4YazQdzbY7zJH9qSSZr7ot) | [Nega](https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8), [TX](https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2) | [Melanina](https://open.spotify.com/album/0hZdTZ83F15jpvPREY3YVK) | 2:00 |
 | 66 | [Tudo Que Eu Sempre Quis](https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE) | [JovemBlues](https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH), [Dos Anjos](https://open.spotify.com/artist/1082w5hRcoRGY04f8T2Tmn) | [Tudo Que Eu Sempre Quis](https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5) | 2:33 |
 | 67 | [Louco inconsequente](https://open.spotify.com/track/0vFR2vPA4YpKlZEkMYadV1) | [Kid Lovi](https://open.spotify.com/artist/7IVy9xDXn9jhG9f8sdnemG) | [Louco inconsequente](https://open.spotify.com/album/0h3AjvRUpYVLfdAxkUBU6J) | 3:18 |

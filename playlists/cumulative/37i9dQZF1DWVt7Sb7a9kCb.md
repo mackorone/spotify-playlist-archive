@@ -4,7 +4,7 @@
 
 > Llévatela tranqui con los hits más relajados del urbano\. Rauw Alejandro en portada
 
-535 songs - 1 day 3 hr 14 min
+536 songs - 1 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [pantera](https://open.spotify.com/track/3tMdgJnbbLcFBi0vEDkSxs) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [GÉNESIS](https://open.spotify.com/album/4blQHdDuBVjZRVdLzwcVl5) | 3:10 | 2022-06-03 | 2022-07-13 |
 | [Paraíso Tropical](https://open.spotify.com/track/70jWmpVTjEyB5sd4ZBpCDo) | [Rafa Parra](https://open.spotify.com/artist/5AuDNPVomwMxxDWbGt93Zg) | [Paraíso Tropical](https://open.spotify.com/album/1G8hiq6L57MiN6ywonuvqM) | 2:11 | 2025-08-29 |  |
 | [Pareja Del Año](https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Pareja Del Año](https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ) | 3:15 | 2022-05-25 |  |
+| [Paris](https://open.spotify.com/track/30V3s7JION6nkntl6vsTYw) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Paris](https://open.spotify.com/album/6slcxJSXyA96hAUiaABZW2) | 3:09 | 2025-09-26 |  |
 | [Party BB](https://open.spotify.com/track/6B79DnMYX4zXP88sd7PzV2) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 3:19 | 2024-07-12 | 2024-10-25 |
 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 | 2022-05-25 | 2025-07-19 |
 | [Pasarla Bien](https://open.spotify.com/track/5KuLv5XWO2rMESQzd9QfAD) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM) | [Pasarla Bien](https://open.spotify.com/album/5l20i1oR3EmyhRe6COI9LX) | 3:13 | 2024-09-20 | 2025-01-01 |
@@ -523,7 +524,7 @@
 | [Vitamina](https://open.spotify.com/track/3LBYHlDSJOeUWSvCHXDWy5) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Vitamina](https://open.spotify.com/album/1LIiuhDLtsodcyRL70hBmP) | 2:37 | 2025-01-31 |  |
 | [VITAMINA D](https://open.spotify.com/track/3fyTzHQ46mylLRmHL1kphx) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [VITAMINA D](https://open.spotify.com/album/4psggAblmOxpE19d4XoDsw) | 3:11 | 2023-10-27 | 2023-12-01 |
 | [Vive La Vida \- Remix](https://open.spotify.com/track/5f8KjV1pu3KHkzTcmtI50o) | [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Vive La Vida \(Remix\)](https://open.spotify.com/album/71VeWhunJPqfvt6CyZoNGp) | 3:57 | 2024-03-04 | 2025-01-18 |
-| [Volare](https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Volare](https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc) | 2:27 | 2022-09-05 |  |
+| [Volare](https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Volare](https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc) | 2:27 | 2022-09-05 | 2025-10-06 |
 | [Volver](https://open.spotify.com/track/3RpXgnCyowfF33AKzAq0f0) | [Jey L](https://open.spotify.com/artist/0HdevWUyvQEjghLJbDPSWd), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI) | [Volver](https://open.spotify.com/album/5aBpVNt3TXxffto94BFZ4K) | 2:56 | 2025-04-04 | 2025-04-26 |
 | [Volver](https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Volver](https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s) | 3:52 | 2025-02-07 |  |
 | [Wapa](https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [Wapa](https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq) | 2:39 | 2025-05-30 |  |

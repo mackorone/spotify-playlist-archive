@@ -4,7 +4,7 @@
 
 > music that just \*hits different\* Cover: aleksiah
 
-606 songs - 1 day 8 hr 41 min
+608 songs - 1 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Hounds](https://open.spotify.com/track/11YCHFUaBsofGaPFdiruzG) | [Darcie Haven](https://open.spotify.com/artist/4z5Ea2f21AVA18kbjWp0Ni) | [Hounds](https://open.spotify.com/album/2FaOlceM6uGfvdpeEXvDFq) | 3:23 | 2025-02-13 | 2025-03-07 |
 | [House](https://open.spotify.com/track/4DM1J2NHPGlIfdepXMFbK9) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [House](https://open.spotify.com/album/6D6kw82gz48fycksFloqS5) | 3:10 | 2024-04-04 | 2024-04-12 |
 | [how could u love somebody like me?](https://open.spotify.com/track/7bn5nXdatftk0CHSrd7NHQ) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [how could u love somebody like me?](https://open.spotify.com/album/1lUpGoaGcoPhS0uyzpw3mj) | 2:06 | 2024-10-11 | 2025-05-23 |
+| [how do you dance?](https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [stay with the ocean, i'll find you](https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5) | 3:21 | 2025-10-02 |  |
 | [Human](https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:20 | 2023-03-16 | 2024-06-12 |
 | [Hurricane](https://open.spotify.com/track/4VmUjQemFIPObiloQu0xgQ) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [I’m Sorry, Now Say It Back](https://open.spotify.com/album/5zdn7NF3UcpwC9SUsvvGaf) | 3:10 | 2024-10-24 | 2024-11-15 |
 | [I Can See You \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:33 | 2023-07-07 | 2023-08-18 |
@@ -367,7 +368,7 @@
 | [MUSTANG BABY \(FT\. ARTEMAS\)](https://open.spotify.com/track/31rLeplcJIGfbvUBpPa9f7) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ), [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 3:11 | 2024-11-21 | 2025-08-11 |
 | [My House Is Not A Home](https://open.spotify.com/track/0ssxoYXlw70MY4lh3JsI9q) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [My House Is Not A Home](https://open.spotify.com/album/2vx0QJQQAIkQFJJpdlD3u1) | 3:59 | 2024-03-07 | 2024-10-13 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-24 | 2025-02-28 |
-| [my love my love my love](https://open.spotify.com/track/5BsGNwy7xeUylco6Jj6VyP) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [my love my love my love](https://open.spotify.com/album/0cKKpc9Cig7raogpgLFRrY) | 2:38 | 2025-09-18 |  |
+| [my love my love my love](https://open.spotify.com/track/5BsGNwy7xeUylco6Jj6VyP) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [my love my love my love](https://open.spotify.com/album/0cKKpc9Cig7raogpgLFRrY) | 2:38 | 2025-09-18 | 2025-10-06 |
 | [My Mouth \(la la la\)](https://open.spotify.com/track/7kuF2t0nCCcDw1L7o1NwzY) | [ISHAN](https://open.spotify.com/artist/4bOSK7fslWnqp8M4YQRBzm) | [My Mouth \(la la la\)](https://open.spotify.com/album/41JIT907XyLYcUYlyXWAj7) | 3:11 | 2024-03-21 | 2024-03-29 |
 | [need dat boy](https://open.spotify.com/track/0qpakVB2d3MDiqZd8RUaQy) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [need dat boy](https://open.spotify.com/album/4qzWsMI3bGG5RiZejAvwGa) | 2:52 | 2024-11-28 | 2024-12-19 |
 | [Need You Around](https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 2:45 | 2025-04-03 | 2025-04-28 |
@@ -427,7 +428,7 @@
 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 | 2023-12-19 | 2024-06-19 |
 | [Running/Planning](https://open.spotify.com/track/65Csu3DczS27ZFv6LCieKl) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Running/Planning](https://open.spotify.com/album/31gACQVSidtVeFzL4hUGy2) | 4:26 | 2025-06-05 | 2025-07-18 |
 | [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 | 2023-07-13 | 2023-08-26 |
-| [sad face :\(](https://open.spotify.com/track/3St17urGIaCTW6PD0rgyI5) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [sad face :\(](https://open.spotify.com/album/346wFaSt5f7TfNJfXMKE78) | 3:28 | 2025-09-11 |  |
+| [sad face :\(](https://open.spotify.com/track/3St17urGIaCTW6PD0rgyI5) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [sad face :\(](https://open.spotify.com/album/346wFaSt5f7TfNJfXMKE78) | 3:28 | 2025-09-11 | 2025-10-06 |
 | [Safe For Another Day](https://open.spotify.com/track/6hMIlCVxfh93G65HTthxwQ) | [Surely Shirley](https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB) | [Safe For Another Day](https://open.spotify.com/album/5lFIiWu2PSgEIETJ77dBJ7) | 3:06 | 2025-06-12 | 2025-06-20 |
 | [safeword](https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [safeword](https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu) | 2:13 | 2025-02-27 | 2025-04-25 |
 | [Sail Away](https://open.spotify.com/track/4CZswu0Wz6p8MofHYdjgxc) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Sail Away](https://open.spotify.com/album/0ZTVAUvD7uDqn2s3Ir6IQV) | 2:29 | 2025-05-08 | 2025-05-23 |
@@ -595,6 +596,7 @@
 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 | 2025-01-23 | 2025-06-01 |
 | [Who’s Afraid of Little Old Me?](https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 5:34 | 2024-06-11 | 2025-06-13 |
 | [Wifey Riddim](https://open.spotify.com/track/4QmoRTOUyrBb0butY0aYtX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Wifey Riddim](https://open.spotify.com/album/6GLYQfBSP4JHsec83wYB9c) | 2:28 | 2025-03-06 | 2025-04-12 |
+| [Wild Guess](https://open.spotify.com/track/3yEBtdO34T5kdnabqZJawn) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Wild Guess](https://open.spotify.com/album/1gfZZDAAhIEZInvGnmkdlU) | 2:46 | 2025-10-02 |  |
 | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU) | 3:40 | 2023-10-27 | 2024-11-22 |
 | [Woman Gone Mad](https://open.spotify.com/track/2NYHtLFcLqq7T7MXTXrsK8) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [Woman Gone Mad](https://open.spotify.com/album/4MhaKeoa64cH14GRjjpLXG) | 2:57 | 2025-03-06 | 2025-03-28 |
 | [Work Song](https://open.spotify.com/track/35PKfoynRpVFoAUE3D5Kc6) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk) | 3:49 | 2024-06-18 | 2024-07-27 |

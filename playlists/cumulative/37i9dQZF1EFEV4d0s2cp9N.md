@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/56ZBiYuSM6W68EojT5WORo">Blush Davis</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-84 songs - 4 hr 11 min
+87 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Life Goes On](https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:27 | 2024-05-01 |  |
 | [Like A Man](https://open.spotify.com/track/5rj3tqrFpkDyAUi7DhUBxR) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Dreamers](https://open.spotify.com/album/2pFdkI2vVBJ5rvCq17db9e) | 2:22 | 2025-01-15 |  |
 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2024-05-01 |  |
+| [Lipstick on the Rearview](https://open.spotify.com/track/4nyWwTljQ9I6h6a4KxihN3) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [No Room For Two](https://open.spotify.com/album/6fE8mUVWPj7tO5e8O2lrId) | 2:34 | 2025-10-05 |  |
 | [Loveless](https://open.spotify.com/track/19So3cXuMUSiffB8AXzr9r) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Loveless](https://open.spotify.com/album/1IsfgWTtfRYs3VyVQXll1s) | 2:54 | 2025-03-13 |  |
 | [MAGIC](https://open.spotify.com/track/6OhYnnNVRvLRBy580Wit9k) | [Park kang hyun](https://open.spotify.com/artist/6GuseRhHqcubzIgtBob2Pk) | [Music Collaboration\-MAGIC](https://open.spotify.com/album/6CR946phNnK0cI2Qnw4L1O) | 3:10 | 2024-05-01 |  |
 | [Meaning](https://open.spotify.com/track/1pjHUdacuwY14inKRpcJld) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [\(Me\)moir](https://open.spotify.com/album/1KixiCbpzXKydBJqWiA9kB) | 2:54 | 2025-05-07 |  |
@@ -78,6 +79,7 @@
 | [Skippin](https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F) | [MAXAM](https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Skippin](https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB) | 2:37 | 2024-05-01 |  |
 | [Slow Dance \(feat\. Sofia Carson\)](https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:08 | 2024-07-30 |  |
 | [Something](https://open.spotify.com/track/5JDV9OrKjeNkudakqwp9on) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/40gIiI8skJeWU05P7FoIse) | 3:07 | 2024-06-19 |  |
+| [Starlet](https://open.spotify.com/track/3BmWKYWYKlcqpqgkwgiGzB) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [Starlet](https://open.spotify.com/album/4oYCnKybgcL6hBdYQc3o95) | 3:13 | 2025-10-05 |  |
 | [Still Monster](https://open.spotify.com/track/6tuTpe37ljVcrJeZAAKBE1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ORANGE BLOOD](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) | 3:06 | 2024-05-01 |  |
 | [surrender](https://open.spotify.com/track/2lleU8uOuQfNe1IvN6JUXf) | [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [would i be yours?](https://open.spotify.com/album/4s4U15Zass2usbXrNJPBpA) | 3:04 | 2025-04-14 |  |
 | [Take Me To Eterna](https://open.spotify.com/track/02cTdRWbWorhJ7DFXRkFKK) | [Sweater Beats](https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY), [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [Take Me To Eterna](https://open.spotify.com/album/57Tirl2ZE5G9AgqpyFLD8P) | 3:14 | 2024-05-01 | 2025-01-18 |
@@ -87,6 +89,7 @@
 | [Too Weak](https://open.spotify.com/track/0IwnyVENCHeAnSPA8xcG14) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Coming Home](https://open.spotify.com/album/0Z1WX8Yg9HXmz6Qkl2nhgc) | 4:00 | 2024-05-01 |  |
 | [Touch Me](https://open.spotify.com/track/74lOK0Z3WKvTpK8W8Srj1d) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Touch Me](https://open.spotify.com/album/0W1CKVUL1yAWcIwWzA4Ztt) | 3:23 | 2025-01-15 |  |
 | [Turn off the Lights](https://open.spotify.com/track/3TeieiG5zeormUCyJIcF5Z) | [The Hitmen](https://open.spotify.com/artist/44de5I8rbCwTAjBF1xYv75) | [Turn off the Lights](https://open.spotify.com/album/2EsmUBEmNSpSPAUW65C6ng) | 3:08 | 2024-05-01 |  |
+| [tydfl](https://open.spotify.com/track/1iTEUzyDxQRcAbbYWsjT4A) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [No Room For Two](https://open.spotify.com/album/6fE8mUVWPj7tO5e8O2lrId) | 2:32 | 2025-10-05 |  |
 | [U & I](https://open.spotify.com/track/3axphnYT5NJueypneDpRpj) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Dreamers](https://open.spotify.com/album/2pFdkI2vVBJ5rvCq17db9e) | 2:39 | 2025-01-15 |  |
 | [Wake Up As You](https://open.spotify.com/track/1d9vKkT7y3bhyEGstBJyXr) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [Wake Up As You](https://open.spotify.com/album/1lu63fAYGT2jj7PFH3Rlxs) | 2:38 | 2024-05-01 | 2025-01-15 |
 | [Weekend Lover](https://open.spotify.com/track/2tmtAG8HUAxAbEN9cJU3Kk) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [Weekend Lover](https://open.spotify.com/album/6jeWoIDDJJ5zZXVvWbhnOh) | 3:07 | 2024-05-01 | 2025-01-15 |

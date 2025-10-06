@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from The Rions, Taylor Swift, Chase Atlantic, Luke Combs, Fred again.., Amyl & The Sniffers + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,816 likes - 89 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,825 likes - 89 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

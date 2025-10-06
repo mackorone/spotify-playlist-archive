@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\.  Cover: Haile
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,116,101 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,115,985 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 45 | [Radio](https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 3:00 |
 | 46 | [Believe](https://open.spotify.com/track/4lelv8PEcOEpSxZGsYZWil) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Believe](https://open.spotify.com/album/09dXLJqAXCOCrsFNZv9NzC) | 2:38 |
 | 47 | [Let's Make Up](https://open.spotify.com/track/0vXUQKUSOItuBwnRU6FsW2) | [Bitty McLean](https://open.spotify.com/artist/2t3eEaWiT5weaCJIh6aRv2), [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Forward](https://open.spotify.com/album/1AIRz1KsEzGjh55J81z03F) | 4:51 |
-| 48 | [Way You Make Me Feel](https://open.spotify.com/track/7liPPCJ2159T02PnqyhhuY) | [Kelissa](https://open.spotify.com/artist/7yO5rUbDIUN1RDKMJcHeeg) | [Way You Make Me Feel](https://open.spotify.com/album/1xSwH7uxVv63vA6I5D5kqc) | 3:59 |
-| 49 | [Perfectly With You](https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Perfectly With You](https://open.spotify.com/album/6cDKLuyr4i3lY2uCOuEO3J) | 3:32 |
+| 48 | [Perfectly With You](https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Perfectly With You](https://open.spotify.com/album/6cDKLuyr4i3lY2uCOuEO3J) | 3:32 |
+| 49 | [Way You Make Me Feel](https://open.spotify.com/track/7liPPCJ2159T02PnqyhhuY) | [Kelissa](https://open.spotify.com/artist/7yO5rUbDIUN1RDKMJcHeeg) | [Way You Make Me Feel](https://open.spotify.com/album/1xSwH7uxVv63vA6I5D5kqc) | 3:59 |
 | 50 | [Alert](https://open.spotify.com/track/4FAqKCBFj52Myx3NJiXlv2) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Irie Ites](https://open.spotify.com/artist/0ypDXMZA9gXwM7ulFUOHY3) | [Alert](https://open.spotify.com/album/5oV2GCECRmisn7MnTFOBAc) | 2:59 |
 | 51 | [Be My Love](https://open.spotify.com/track/5hnhH9GlQSgIyljtsvjFM1) | [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Be My Love](https://open.spotify.com/album/78bpNDVGqJODfz6Dr5wTkY) | 2:25 |
 | 52 | [Mi Deh Yah](https://open.spotify.com/track/49v38DJoDmsKR2hLuuX035) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Mixing Finga](https://open.spotify.com/artist/2UopbSlohTzQEyqorhWAzx) | [Mi Deh Yah](https://open.spotify.com/album/1nidBImbRcFGTYh0YBkAuu) | 3:47 |
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 60 | [Safe N Sound](https://open.spotify.com/track/0wLcHCDYmsKURWg1dGZUie) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Safe N Sound](https://open.spotify.com/album/4KkSe9skfC5aFwD2J3WzFN) | 3:06 |
 | 61 | [Undeniable \(feat\. Kaylan Arnold\)](https://open.spotify.com/track/3FXA9dJbftFcgOoMiGYH0u) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Kaylan Arnold](https://open.spotify.com/artist/30Umdbc6mDkhyrfyPw2quC) | [Undeniable \(feat\. Kaylan Arnold\)](https://open.spotify.com/album/3n932rLi5cM8YNejLeCcf7) | 4:00 |
 | 62 | [Fill My Cup](https://open.spotify.com/track/58PFZiGVblDkRgiFbsCXTm) | [Iotosh](https://open.spotify.com/artist/5IzolPBJ2JFhc2NeNA8Log) | [Fill My Cup](https://open.spotify.com/album/5GjpNkfPldpQpyqH8UgOrE) | 3:22 |
-| 63 | [Never Give Up](https://open.spotify.com/track/5YcRugjrGIBL6TjcmaDaqI) | [Zamunda](https://open.spotify.com/artist/7FjI2O0iKV8rvlHjiqZaPg) | [Jah Love Surround Me](https://open.spotify.com/album/5TUwg8z4VvkkeR8GGtdJz2) | 3:38 |
-| 64 | [Jungle](https://open.spotify.com/track/0ez6JelKTHlTaZlJEufmfd) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Jungle](https://open.spotify.com/album/7flyvQaoNzRFLeTUA1GElE) | 2:21 |
+| 63 | [Jungle](https://open.spotify.com/track/0ez6JelKTHlTaZlJEufmfd) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Jungle](https://open.spotify.com/album/7flyvQaoNzRFLeTUA1GElE) | 2:21 |
+| 64 | [Never Give Up](https://open.spotify.com/track/5YcRugjrGIBL6TjcmaDaqI) | [Zamunda](https://open.spotify.com/artist/7FjI2O0iKV8rvlHjiqZaPg) | [Jah Love Surround Me](https://open.spotify.com/album/5TUwg8z4VvkkeR8GGtdJz2) | 3:38 |
 | 65 | [Ready](https://open.spotify.com/track/6VDgMJdCeStxNkwBr6AQB3) | [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Ready](https://open.spotify.com/album/4vDMTgy7svuDfJK5nXHPtu) | 2:50 |
 | 66 | [Helping Hand \(with Anthony B\)](https://open.spotify.com/track/6PjLeKjVLdN76GcBcDXn82) | [Irie Souljah](https://open.spotify.com/artist/1Qfee1zwAFUrtaaPMbkpsw), [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Thankful \(with Chronic Law\)](https://open.spotify.com/album/5LM9OTMQ4ub6exdf9E8h23) | 4:13 |
-| 67 | [Million Times](https://open.spotify.com/track/3uk44fP88XJZ9rCqZicsXV) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Million Times](https://open.spotify.com/album/42EPgrQJsO48gpuFV2xAOq) | 3:11 |
-| 68 | [40 Days & 40 Nights \(Pt\. 2\)](https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 2:56 |
-| 69 | [If Not Today](https://open.spotify.com/track/6l3N5PqwZlGBRTMljrX923) | [JR Kenna](https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN), [Governor Tiggy](https://open.spotify.com/artist/5IwMTcaqt4B2bAcPqchc9u), [DJ Jeren](https://open.spotify.com/artist/5QkPMsK0XHCvM6jCbKhuEJ) | [If Not Today](https://open.spotify.com/album/3laz5leeSqRa3adGm0zjXP) | 4:16 |
-| 70 | [Good Good](https://open.spotify.com/track/2AgxNfN57Dzc69VbFwlUJ6) | [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Good Good](https://open.spotify.com/album/2GM76ogRNK5hfjWAL6rEIX) | 3:56 |
+| 67 | [40 Days & 40 Nights \(Pt\. 2\)](https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 2:56 |
+| 68 | [Million Times](https://open.spotify.com/track/3uk44fP88XJZ9rCqZicsXV) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Million Times](https://open.spotify.com/album/42EPgrQJsO48gpuFV2xAOq) | 3:11 |
+| 69 | [Good Good](https://open.spotify.com/track/2AgxNfN57Dzc69VbFwlUJ6) | [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Good Good](https://open.spotify.com/album/2GM76ogRNK5hfjWAL6rEIX) | 3:56 |
+| 70 | [If Not Today](https://open.spotify.com/track/6l3N5PqwZlGBRTMljrX923) | [JR Kenna](https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN), [Governor Tiggy](https://open.spotify.com/artist/5IwMTcaqt4B2bAcPqchc9u), [DJ Jeren](https://open.spotify.com/artist/5QkPMsK0XHCvM6jCbKhuEJ) | [If Not Today](https://open.spotify.com/album/3laz5leeSqRa3adGm0zjXP) | 4:16 |
 
 Snapshot ID: `AAAAAAg7lKd2HVYj3HQSoDYhnsAvAjsB`

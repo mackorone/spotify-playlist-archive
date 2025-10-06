@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > glaive shoots, he scores ⚽⚽⚽⚽⚽⚽
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,400 likes - 200 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,454 likes - 200 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

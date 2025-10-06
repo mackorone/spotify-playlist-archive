@@ -1,6 +1,6 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 136425,
+  "num_followers": 136428,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-09-05 04:00:26",
       "album": {
-        "name": "Arrows",
-        "url": "https://open.spotify.com/album/77FjAsKZwIETP9YPmkx9U3"
-      },
-      "artists": [
-        {
-          "name": "She Her Her Hers",
-          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
-        }
-      ],
-      "duration_ms": 266729,
-      "name": "Arrows",
-      "url": "https://open.spotify.com/track/2AfPNXHk6iiGWGpt4bT0fH"
-    },
-    {
-      "added_at": "2025-09-05 04:00:26",
-      "album": {
         "name": "DESIGN",
         "url": "https://open.spotify.com/album/0QXiv0aGxKVLugiTD6Wfc4"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 199113,
       "name": "CAREFREE",
       "url": "https://open.spotify.com/track/3F3ND4kdC19c5n08haZHnk"
+    },
+    {
+      "added_at": "2025-09-05 04:00:26",
+      "album": {
+        "name": "Arrows",
+        "url": "https://open.spotify.com/album/77FjAsKZwIETP9YPmkx9U3"
+      },
+      "artists": [
+        {
+          "name": "She Her Her Hers",
+          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
+        }
+      ],
+      "duration_ms": 266729,
+      "name": "Arrows",
+      "url": "https://open.spotify.com/track/2AfPNXHk6iiGWGpt4bT0fH"
     },
     {
       "added_at": "2025-09-05 04:00:26",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-09-05 04:00:26",
       "album": {
-        "name": "Soup",
-        "url": "https://open.spotify.com/album/0wp5HjYpk5v6SLU8QUmDjX"
-      },
-      "artists": [
-        {
-          "name": "7co",
-          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Soup",
-      "url": "https://open.spotify.com/track/6UHbnHQHQcFlhtEVwOVVQT"
-    },
-    {
-      "added_at": "2025-09-05 04:00:26",
-      "album": {
         "name": "Ninh Binh Brother's Homestay",
         "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
       },
@@ -975,22 +959,18 @@
     {
       "added_at": "2025-09-05 04:00:26",
       "album": {
-        "name": "Beautiful World",
-        "url": "https://open.spotify.com/album/1OWtLn5iWuajzUjHAkdoDb"
+        "name": "Soup",
+        "url": "https://open.spotify.com/album/0wp5HjYpk5v6SLU8QUmDjX"
       },
       "artists": [
         {
-          "name": "Koji Tamaki",
-          "url": "https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD"
-        },
-        {
-          "name": "ayaka",
-          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
         }
       ],
-      "duration_ms": 340573,
-      "name": "Beautiful World",
-      "url": "https://open.spotify.com/track/3x9fmCeM7CRiB3NwrVZxvM"
+      "duration_ms": 210000,
+      "name": "Soup",
+      "url": "https://open.spotify.com/track/6UHbnHQHQcFlhtEVwOVVQT"
     },
     {
       "added_at": "2025-09-05 04:00:26",
@@ -1011,6 +991,26 @@
       "duration_ms": 258920,
       "name": "Love (feat. Skaai)",
       "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
+    },
+    {
+      "added_at": "2025-09-05 04:00:26",
+      "album": {
+        "name": "Beautiful World",
+        "url": "https://open.spotify.com/album/1OWtLn5iWuajzUjHAkdoDb"
+      },
+      "artists": [
+        {
+          "name": "Koji Tamaki",
+          "url": "https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD"
+        },
+        {
+          "name": "ayaka",
+          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
+        }
+      ],
+      "duration_ms": 340573,
+      "name": "Beautiful World",
+      "url": "https://open.spotify.com/track/3x9fmCeM7CRiB3NwrVZxvM"
     },
     {
       "added_at": "2025-09-05 04:00:26",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-09-05 04:00:26",
       "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/6X0e48IHrHjAtgb00eYxsp"
-      },
-      "artists": [
-        {
-          "name": "Anneth",
-          "url": "https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW"
-        }
-      ],
-      "duration_ms": 277500,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/2EZM4rYK3tbiRaGS3XyYvi"
-    },
-    {
-      "added_at": "2025-09-05 04:00:26",
-      "album": {
         "name": "\u306f\u306a\u3088\u3069",
         "url": "https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 261282,
       "name": "\u3084\u3048",
       "url": "https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w"
+    },
+    {
+      "added_at": "2025-09-05 04:00:26",
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/6X0e48IHrHjAtgb00eYxsp"
+      },
+      "artists": [
+        {
+          "name": "Anneth",
+          "url": "https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW"
+        }
+      ],
+      "duration_ms": 277500,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/2EZM4rYK3tbiRaGS3XyYvi"
     },
     {
       "added_at": "2025-09-05 04:00:26",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2025-09-05 04:00:26",
       "album": {
-        "name": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab (2024 ver.)",
-        "url": "https://open.spotify.com/album/5V2JKwezZvZsyfLjmMlKjH"
-      },
-      "artists": [
-        {
-          "name": "\u5b89\u7530\u6210\u7f8e",
-          "url": "https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs"
-        },
-        {
-          "name": "Haruomi Hosono",
-          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
-        }
-      ],
-      "duration_ms": 325185,
-      "name": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab - 2024 ver.",
-      "url": "https://open.spotify.com/track/0Hch2lV9Vk7MfyL0OZLHS2"
-    },
-    {
-      "added_at": "2025-09-05 04:00:26",
-      "album": {
         "name": "\u3081\u3050\u308b",
         "url": "https://open.spotify.com/album/6h4XyRagPLC8pSqbWls32G"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 331984,
       "name": "\u30b5\u30f3\u30b5\u30fc\u30e9",
       "url": "https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3"
+    },
+    {
+      "added_at": "2025-09-05 04:00:26",
+      "album": {
+        "name": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab (2024 ver.)",
+        "url": "https://open.spotify.com/album/5V2JKwezZvZsyfLjmMlKjH"
+      },
+      "artists": [
+        {
+          "name": "\u5b89\u7530\u6210\u7f8e",
+          "url": "https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs"
+        },
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        }
+      ],
+      "duration_ms": 325185,
+      "name": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab - 2024 ver.",
+      "url": "https://open.spotify.com/track/0Hch2lV9Vk7MfyL0OZLHS2"
     },
     {
       "added_at": "2025-09-05 04:00:26",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2025-09-05 04:00:26",
       "album": {
+        "name": "50th Anniversary Special A Tribute of Hayashi Tetsuji - Saudade -",
+        "url": "https://open.spotify.com/album/5xsy4iKnYN4g8uM3KWiMLf"
+      },
+      "artists": [
+        {
+          "name": "Akina Nakamori",
+          "url": "https://open.spotify.com/artist/7140bcJ0ZySe314nUfOo1J"
+        }
+      ],
+      "duration_ms": 382866,
+      "name": "\u5317\u30a6\u30a4\u30f3\u30b0 -CLASSIC-",
+      "url": "https://open.spotify.com/track/07OiQkDWUwgatxU5WUWxXN"
+    },
+    {
+      "added_at": "2025-09-05 04:00:26",
+      "album": {
         "name": "Twilight",
         "url": "https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf"
       },
@@ -1411,18 +1427,18 @@
     {
       "added_at": "2025-09-05 04:00:26",
       "album": {
-        "name": "50th Anniversary Special A Tribute of Hayashi Tetsuji - Saudade -",
-        "url": "https://open.spotify.com/album/5xsy4iKnYN4g8uM3KWiMLf"
+        "name": "Double Rift",
+        "url": "https://open.spotify.com/album/4GlJPeO448wfQ5E1BDir2Y"
       },
       "artists": [
         {
-          "name": "Akina Nakamori",
-          "url": "https://open.spotify.com/artist/7140bcJ0ZySe314nUfOo1J"
+          "name": "CRCK/LCKS",
+          "url": "https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs"
         }
       ],
-      "duration_ms": 382866,
-      "name": "\u5317\u30a6\u30a4\u30f3\u30b0 -CLASSIC-",
-      "url": "https://open.spotify.com/track/07OiQkDWUwgatxU5WUWxXN"
+      "duration_ms": 255213,
+      "name": "\u305f\u3068\u3048\u30fb\u3070\u3055",
+      "url": "https://open.spotify.com/track/7J13ZqrHTqZPI6rzeZS0jz"
     },
     {
       "added_at": "2025-09-05 04:00:26",
@@ -1443,22 +1459,6 @@
       "duration_ms": 248600,
       "name": "\u65b0\u5b9d\u5cf6 (hf remix)",
       "url": "https://open.spotify.com/track/2qo64xvU09LWSKKFxJAUoV"
-    },
-    {
-      "added_at": "2025-09-05 04:00:26",
-      "album": {
-        "name": "Double Rift",
-        "url": "https://open.spotify.com/album/4GlJPeO448wfQ5E1BDir2Y"
-      },
-      "artists": [
-        {
-          "name": "CRCK/LCKS",
-          "url": "https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs"
-        }
-      ],
-      "duration_ms": 255213,
-      "name": "\u305f\u3068\u3048\u30fb\u3070\u3055",
-      "url": "https://open.spotify.com/track/7J13ZqrHTqZPI6rzeZS0jz"
     },
     {
       "added_at": "2025-09-05 04:00:26",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-09-05 04:00:26",
       "album": {
-        "name": "\u5e30\u3063\u3066\u304b\u3089\u3001\u6b4c\u3044\u305f\u304f\u306a\u3063\u3066\u3082\u3044\u3044\u3088\u3046\u306b\u3068\u601d\u3063\u305f\u306e\u3060\u3002",
-        "url": "https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG"
-      },
-      "artists": [
-        {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
-        }
-      ],
-      "duration_ms": 310520,
-      "name": "\u306d\u3080\u308b\u306e\u307e\u3061\uff5eTidur Tidur\uff5e",
-      "url": "https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V"
-    },
-    {
-      "added_at": "2025-09-05 04:00:26",
-      "album": {
         "name": "\u5317\u3078\u5411\u304b\u3046",
         "url": "https://open.spotify.com/album/5EdJTMHBPL2ziqG47U0ILo"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 270413,
       "name": "\u8a18\u61b6",
       "url": "https://open.spotify.com/track/5FVS7nLGnbYPm5fUAPmO1D"
+    },
+    {
+      "added_at": "2025-09-05 04:00:26",
+      "album": {
+        "name": "\u5e30\u3063\u3066\u304b\u3089\u3001\u6b4c\u3044\u305f\u304f\u306a\u3063\u3066\u3082\u3044\u3044\u3088\u3046\u306b\u3068\u601d\u3063\u305f\u306e\u3060\u3002",
+        "url": "https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG"
+      },
+      "artists": [
+        {
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
+        }
+      ],
+      "duration_ms": 310520,
+      "name": "\u306d\u3080\u308b\u306e\u307e\u3061\uff5eTidur Tidur\uff5e",
+      "url": "https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V"
     },
     {
       "added_at": "2025-09-05 04:00:26",
@@ -1607,26 +1607,18 @@
     {
       "added_at": "2025-09-05 04:00:26",
       "album": {
-        "name": "\u732b\u6751\u3055\u3093\u306e\u3046\u305f",
-        "url": "https://open.spotify.com/album/69O6a8s4FMk37vtSs4qjU0"
+        "name": "\u305f\u3088\u308a\u306a\u3044\u3082\u306e\u306e\u305f\u3081\u306b",
+        "url": "https://open.spotify.com/album/6sQTNDYLrgz6QTOVZCP87x"
       },
       "artists": [
         {
-          "name": "\u677e\u91cd\u8c4a",
-          "url": "https://open.spotify.com/artist/3pHwaIplhKgtrVqaW16o50"
-        },
-        {
-          "name": "U-zhaan",
-          "url": "https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS"
-        },
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+          "name": "Saho Terao",
+          "url": "https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH"
         }
       ],
-      "duration_ms": 166300,
-      "name": "\u732b\u6751\u3055\u3093\u306e\u3046\u305f",
-      "url": "https://open.spotify.com/track/30G4STumh4gJ0aq2sU3h9t"
+      "duration_ms": 430266,
+      "name": "\u305f\u3088\u308a\u306a\u3044\u3082\u306e\u306e\u305f\u3081\u306b",
+      "url": "https://open.spotify.com/track/5Y1z7Lgf0eBw2tRXMo2TRa"
     },
     {
       "added_at": "2025-09-05 04:00:26",
@@ -1647,18 +1639,26 @@
     {
       "added_at": "2025-09-05 04:00:26",
       "album": {
-        "name": "\u305f\u3088\u308a\u306a\u3044\u3082\u306e\u306e\u305f\u3081\u306b",
-        "url": "https://open.spotify.com/album/6sQTNDYLrgz6QTOVZCP87x"
+        "name": "\u732b\u6751\u3055\u3093\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/69O6a8s4FMk37vtSs4qjU0"
       },
       "artists": [
         {
-          "name": "Saho Terao",
-          "url": "https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH"
+          "name": "\u677e\u91cd\u8c4a",
+          "url": "https://open.spotify.com/artist/3pHwaIplhKgtrVqaW16o50"
+        },
+        {
+          "name": "U-zhaan",
+          "url": "https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
         }
       ],
-      "duration_ms": 430266,
-      "name": "\u305f\u3088\u308a\u306a\u3044\u3082\u306e\u306e\u305f\u3081\u306b",
-      "url": "https://open.spotify.com/track/5Y1z7Lgf0eBw2tRXMo2TRa"
+      "duration_ms": 166300,
+      "name": "\u732b\u6751\u3055\u3093\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/30G4STumh4gJ0aq2sU3h9t"
     },
     {
       "added_at": "2025-09-05 04:00:26",

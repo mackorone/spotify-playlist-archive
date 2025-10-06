@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 
 > This is BigXthaPlug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,115 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,177 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 11 | [Whip It](https://open.spotify.com/track/1YA4Jn5uE82zSUUW17hnsP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR \(Deluxe\)](https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop) | 2:17 |
 | 12 | [2AM](https://open.spotify.com/track/26TX1oZbaDeKxfTYDclSAo) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 3:04 |
 | 13 | [Box Me Up \(feat\. Jelly Roll\)](https://open.spotify.com/track/7JjciUzSALsonXv6MukgrP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 2:53 |
-| 14 | [Home \(feat\. Shaboozey\)](https://open.spotify.com/track/7LaLY7dkzWEtmtJ8o7oD05) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Home \(feat\. Shaboozey\)](https://open.spotify.com/album/50Gz1176FyXKAnBmVvc6GQ) | 2:15 |
-| 15 | [Hip\-Hop \(feat\. BigXthaPlug, Jay Jones\)](https://open.spotify.com/track/0t5LNjml8LTuAPiEfD7zFN) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Jay Jones](https://open.spotify.com/artist/2Oaq4UUJgqtQzPuuXTpiZL) | [Tha Carter VI](https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ) | 4:01 |
+| 14 | [Hip\-Hop \(feat\. BigXthaPlug, Jay Jones\)](https://open.spotify.com/track/0t5LNjml8LTuAPiEfD7zFN) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Jay Jones](https://open.spotify.com/artist/2Oaq4UUJgqtQzPuuXTpiZL) | [Tha Carter VI](https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ) | 4:01 |
+| 15 | [Home \(feat\. Shaboozey\)](https://open.spotify.com/track/7LaLY7dkzWEtmtJ8o7oD05) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Home \(feat\. Shaboozey\)](https://open.spotify.com/album/50Gz1176FyXKAnBmVvc6GQ) | 2:15 |
 | 16 | [Change Me](https://open.spotify.com/track/1AKXrejQiFURJnr9UKIjDb) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 2:16 |
 | 17 | [Mr.Trouble](https://open.spotify.com/track/4Yicqjumhd4OdKGTu7zNGn) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Mr.Trouble](https://open.spotify.com/album/32x6rKzX540RpFKMLfFWBd) | 2:02 |
 | 18 | [About You \(feat\. Tucker Wetmore\)](https://open.spotify.com/track/4mDeL6rcWzsCLVYcdnzDo5) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 49 | [Comes & Goes \(feat\. Tommy Newport\)](https://open.spotify.com/track/6HaciYi0PXePK4rY3BbZBr) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [TAKE CARE \(DELUXE\)](https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs) | 2:01 |
 | 50 | [AR \(feat\. BigXthaPlug\)](https://open.spotify.com/track/4PlgNSQcOWM2wjb11eREvB) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Legend](https://open.spotify.com/album/1ZTCGhCvCLoDdU1ndwX7Kp) | 3:16 |
 
-Snapshot ID: `aN8SAAAAAAChS0Vlg1dcwahHuNvzZdES`
+Snapshot ID: `aOBjgAAAAABgBEP3cK/ui5gQkg/iTwCO`

@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Il Mago del Gelato \ud83c\udf49",
-  "num_followers": 33354,
+  "num_followers": 33358,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -119,22 +119,6 @@
     {
       "added_at": "2025-10-03 08:10:24",
       "album": {
-        "name": "Reality And Fantasy (Special Edition)",
-        "url": "https://open.spotify.com/album/6zoX2yMQCCSCZaorNKgdsZ"
-      },
-      "artists": [
-        {
-          "name": "Raphael Gualazzi",
-          "url": "https://open.spotify.com/artist/6hu9cUsJDFg2kUkAAjOepA"
-        }
-      ],
-      "duration_ms": 214053,
-      "name": "Follia D'Amore",
-      "url": "https://open.spotify.com/track/5sFAmIIncDn9O1wcxQmAte"
-    },
-    {
-      "added_at": "2025-10-03 08:10:24",
-      "album": {
         "name": "Other Directions (Remastered and Unreleased Tracks)",
         "url": "https://open.spotify.com/album/5cKcN1R8UBM5AHySPWAdCQ"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 239226,
       "name": "Sea and Sand",
       "url": "https://open.spotify.com/track/6SywHlqpazHVFfzw1rAnVz"
+    },
+    {
+      "added_at": "2025-10-03 08:10:24",
+      "album": {
+        "name": "Reality And Fantasy (Special Edition)",
+        "url": "https://open.spotify.com/album/6zoX2yMQCCSCZaorNKgdsZ"
+      },
+      "artists": [
+        {
+          "name": "Raphael Gualazzi",
+          "url": "https://open.spotify.com/artist/6hu9cUsJDFg2kUkAAjOepA"
+        }
+      ],
+      "duration_ms": 214053,
+      "name": "Follia D'Amore",
+      "url": "https://open.spotify.com/track/5sFAmIIncDn9O1wcxQmAte"
     },
     {
       "added_at": "2025-10-03 08:10:24",
@@ -495,18 +495,18 @@
     {
       "added_at": "2025-10-03 08:10:24",
       "album": {
-        "name": "Carioca",
-        "url": "https://open.spotify.com/album/0BcPVNgNrtNtXdBrcz7fAp"
+        "name": "Funambola",
+        "url": "https://open.spotify.com/album/08xjdXUMNo6eXeh45j99xp"
       },
       "artists": [
         {
-          "name": "Stefano Bollani",
-          "url": "https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7"
+          "name": "Patrizia Laquidara",
+          "url": "https://open.spotify.com/artist/4KlpFEaCAxO1NYQPFqsQp9"
         }
       ],
-      "duration_ms": 300453,
-      "name": "Luz Negra",
-      "url": "https://open.spotify.com/track/24r0Ni7UbWHy69PBOe364Q"
+      "duration_ms": 233160,
+      "name": "Ziza",
+      "url": "https://open.spotify.com/track/6WdTIDGuebUIlkQsWPJZpr"
     },
     {
       "added_at": "2025-10-03 08:10:24",
@@ -527,18 +527,18 @@
     {
       "added_at": "2025-10-03 08:10:24",
       "album": {
-        "name": "Funambola",
-        "url": "https://open.spotify.com/album/08xjdXUMNo6eXeh45j99xp"
+        "name": "Carioca",
+        "url": "https://open.spotify.com/album/0BcPVNgNrtNtXdBrcz7fAp"
       },
       "artists": [
         {
-          "name": "Patrizia Laquidara",
-          "url": "https://open.spotify.com/artist/4KlpFEaCAxO1NYQPFqsQp9"
+          "name": "Stefano Bollani",
+          "url": "https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7"
         }
       ],
-      "duration_ms": 233160,
-      "name": "Ziza",
-      "url": "https://open.spotify.com/track/6WdTIDGuebUIlkQsWPJZpr"
+      "duration_ms": 300453,
+      "name": "Luz Negra",
+      "url": "https://open.spotify.com/track/24r0Ni7UbWHy69PBOe364Q"
     },
     {
       "added_at": "2025-10-03 08:10:24",
@@ -743,8 +743,8 @@
     {
       "added_at": "2025-10-03 08:10:24",
       "album": {
-        "name": "Popoli del Mare",
-        "url": "https://open.spotify.com/album/1g7UTKhytfHHaqU17J22e6"
+        "name": "Citt\u00e0 Futura",
+        "url": "https://open.spotify.com/album/57VVdwvhb2E3hOp21U6Isw"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
         }
       ],
-      "duration_ms": 279709,
-      "name": "Popoli del Mare",
-      "url": "https://open.spotify.com/track/4oTX4W2AcuxSU1iPAeAasE"
+      "duration_ms": 284804,
+      "name": "Citt\u00e0 Futura",
+      "url": "https://open.spotify.com/track/6eKPdRjUepZxs8GyaSfuap"
     },
     {
       "added_at": "2025-10-03 08:10:24",
@@ -771,6 +771,26 @@
       "duration_ms": 150000,
       "name": "Appuntamento al mare - Remastered 2022",
       "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
+    },
+    {
+      "added_at": "2025-10-03 08:10:24",
+      "album": {
+        "name": "Shades of Chet",
+        "url": "https://open.spotify.com/album/0AC26eZQKVP2pvcnqEyQFK"
+      },
+      "artists": [
+        {
+          "name": "Enrico Rava",
+          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
+        },
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        }
+      ],
+      "duration_ms": 457360,
+      "name": "You can't go home again",
+      "url": "https://open.spotify.com/track/64OrUDaxPFxPuwKzeUW6vA"
     },
     {
       "added_at": "2025-10-03 08:10:24",
@@ -807,26 +827,6 @@
     {
       "added_at": "2025-10-03 08:10:24",
       "album": {
-        "name": "Shades of Chet",
-        "url": "https://open.spotify.com/album/0AC26eZQKVP2pvcnqEyQFK"
-      },
-      "artists": [
-        {
-          "name": "Enrico Rava",
-          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
-        },
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        }
-      ],
-      "duration_ms": 457360,
-      "name": "You can't go home again",
-      "url": "https://open.spotify.com/track/64OrUDaxPFxPuwKzeUW6vA"
-    },
-    {
-      "added_at": "2025-10-03 08:10:24",
-      "album": {
         "name": "The Jazzness",
         "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
       },
@@ -859,6 +859,22 @@
     {
       "added_at": "2025-10-03 08:10:24",
       "album": {
+        "name": "Amalia Gr\u00e8",
+        "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
+      },
+      "artists": [
+        {
+          "name": "Amalia Gre'",
+          "url": "https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv"
+        }
+      ],
+      "duration_ms": 235506,
+      "name": "Io Cammino Di Notte Da Sola",
+      "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
+    },
+    {
+      "added_at": "2025-10-03 08:10:24",
+      "album": {
         "name": "La ragazza dalla pelle di luna",
         "url": "https://open.spotify.com/album/2Yy70WbCDfjI4yzfska0Yg"
       },
@@ -871,6 +887,22 @@
       "duration_ms": 175047,
       "name": "Stella del sud",
       "url": "https://open.spotify.com/track/4DkvQdCtKBSPJ8D9O6oP9p"
+    },
+    {
+      "added_at": "2025-10-03 08:10:24",
+      "album": {
+        "name": "Popoli del Mare",
+        "url": "https://open.spotify.com/album/1g7UTKhytfHHaqU17J22e6"
+      },
+      "artists": [
+        {
+          "name": "Bassolino",
+          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
+        }
+      ],
+      "duration_ms": 279709,
+      "name": "Popoli del Mare",
+      "url": "https://open.spotify.com/track/4oTX4W2AcuxSU1iPAeAasE"
     },
     {
       "added_at": "2025-10-03 08:10:24",
@@ -891,38 +923,6 @@
       "duration_ms": 566966,
       "name": "Hula Om",
       "url": "https://open.spotify.com/track/1xBke1qBIpQHmM9q3hKemz"
-    },
-    {
-      "added_at": "2025-10-03 08:10:24",
-      "album": {
-        "name": "Citt\u00e0 Futura",
-        "url": "https://open.spotify.com/album/57VVdwvhb2E3hOp21U6Isw"
-      },
-      "artists": [
-        {
-          "name": "Bassolino",
-          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
-        }
-      ],
-      "duration_ms": 284804,
-      "name": "Citt\u00e0 Futura",
-      "url": "https://open.spotify.com/track/6eKPdRjUepZxs8GyaSfuap"
-    },
-    {
-      "added_at": "2025-10-03 08:10:24",
-      "album": {
-        "name": "Amalia Gr\u00e8",
-        "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
-      },
-      "artists": [
-        {
-          "name": "Amalia Gre'",
-          "url": "https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv"
-        }
-      ],
-      "duration_ms": 235506,
-      "name": "Io Cammino Di Notte Da Sola",
-      "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
     },
     {
       "added_at": "2025-10-03 08:10:24",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-10-03 08:10:24",
       "album": {
-        "name": "AMUN\u00cc",
-        "url": "https://open.spotify.com/album/11Eg6yBh2LphTmiHJY0vwt"
-      },
-      "artists": [
-        {
-          "name": "sunremo",
-          "url": "https://open.spotify.com/artist/0PifXQiTMFvQVmZRu3Skk5"
-        }
-      ],
-      "duration_ms": 220969,
-      "name": "AMUN\u00cc",
-      "url": "https://open.spotify.com/track/3IbJzKw3LBlO0Gomvw4wqP"
-    },
-    {
-      "added_at": "2025-10-03 08:10:24",
-      "album": {
         "name": "Porta Pia",
         "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 175458,
       "name": "Porta Pia",
       "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
+    },
+    {
+      "added_at": "2025-10-03 08:10:24",
+      "album": {
+        "name": "AMUN\u00cc",
+        "url": "https://open.spotify.com/album/11Eg6yBh2LphTmiHJY0vwt"
+      },
+      "artists": [
+        {
+          "name": "sunremo",
+          "url": "https://open.spotify.com/artist/0PifXQiTMFvQVmZRu3Skk5"
+        }
+      ],
+      "duration_ms": 220969,
+      "name": "AMUN\u00cc",
+      "url": "https://open.spotify.com/track/3IbJzKw3LBlO0Gomvw4wqP"
     },
     {
       "added_at": "2025-10-03 08:10:24",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2025-10-03 08:10:24",
       "album": {
+        "name": "Comes Love",
+        "url": "https://open.spotify.com/album/5XQ6X5WJEpdst4PFJFEpuS"
+      },
+      "artists": [
+        {
+          "name": "Alice Ricciardi",
+          "url": "https://open.spotify.com/artist/4PPBw8LWMH9HOTtAnmBzVl"
+        }
+      ],
+      "duration_ms": 292720,
+      "name": "Le Tue Mani",
+      "url": "https://open.spotify.com/track/497xZ3NsjcAXGs0yx3vs8V"
+    },
+    {
+      "added_at": "2025-10-03 08:10:24",
+      "album": {
         "name": "Joyful",
         "url": "https://open.spotify.com/album/4fBaQJruwDEhSU5aNnsF43"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 241966,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1wAWk4UszlXtx5RaOHbxgC"
-    },
-    {
-      "added_at": "2025-10-03 08:10:24",
-      "album": {
-        "name": "Comes Love",
-        "url": "https://open.spotify.com/album/5XQ6X5WJEpdst4PFJFEpuS"
-      },
-      "artists": [
-        {
-          "name": "Alice Ricciardi",
-          "url": "https://open.spotify.com/artist/4PPBw8LWMH9HOTtAnmBzVl"
-        }
-      ],
-      "duration_ms": 292720,
-      "name": "Le Tue Mani",
-      "url": "https://open.spotify.com/track/497xZ3NsjcAXGs0yx3vs8V"
     },
     {
       "added_at": "2025-10-03 08:10:24",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2025-10-03 08:10:24",
       "album": {
+        "name": "Alchimia",
+        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
+      },
+      "artists": [
+        {
+          "name": "AIN\u00c9",
+          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
+        }
+      ],
+      "duration_ms": 225875,
+      "name": "Hangover",
+      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
+    },
+    {
+      "added_at": "2025-10-03 08:10:24",
+      "album": {
         "name": "Notturno",
         "url": "https://open.spotify.com/album/6yJ4cIfrOpoo4QukcFtCYw"
       },
@@ -1591,18 +1607,34 @@
     {
       "added_at": "2025-10-03 08:10:24",
       "album": {
-        "name": "Alchimia",
-        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
+        "name": "Correspondence",
+        "url": "https://open.spotify.com/album/27Bwh5V6QhP7W40ZhV2kyB"
       },
       "artists": [
         {
-          "name": "AIN\u00c9",
-          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
+          "name": "Gianluca Petrella",
+          "url": "https://open.spotify.com/artist/5lwjOWuZSgq4IC4KvheTMc"
+        },
+        {
+          "name": "Pasquale Mirra",
+          "url": "https://open.spotify.com/artist/0dmvnPuOvkiWbZT9z4MTXu"
+        },
+        {
+          "name": "Danilo Mineo",
+          "url": "https://open.spotify.com/artist/4KNEmG8CjvDg5k0Tr2xKWQ"
+        },
+        {
+          "name": "Giulietta Passera",
+          "url": "https://open.spotify.com/artist/6aycI2HAjRhW9W3AMRwVgk"
+        },
+        {
+          "name": "Primo Zanasi",
+          "url": "https://open.spotify.com/artist/7kN7qQdznUeYIqm1lwNkkN"
         }
       ],
-      "duration_ms": 225875,
-      "name": "Hangover",
-      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
+      "duration_ms": 342447,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/5zbZtQukFdYtsxuxdFUUlv"
     },
     {
       "added_at": "2025-10-03 08:10:24",
@@ -1651,38 +1683,6 @@
       "duration_ms": 288616,
       "name": "Tuareg",
       "url": "https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU"
-    },
-    {
-      "added_at": "2025-10-03 08:10:24",
-      "album": {
-        "name": "Correspondence",
-        "url": "https://open.spotify.com/album/27Bwh5V6QhP7W40ZhV2kyB"
-      },
-      "artists": [
-        {
-          "name": "Gianluca Petrella",
-          "url": "https://open.spotify.com/artist/5lwjOWuZSgq4IC4KvheTMc"
-        },
-        {
-          "name": "Pasquale Mirra",
-          "url": "https://open.spotify.com/artist/0dmvnPuOvkiWbZT9z4MTXu"
-        },
-        {
-          "name": "Danilo Mineo",
-          "url": "https://open.spotify.com/artist/4KNEmG8CjvDg5k0Tr2xKWQ"
-        },
-        {
-          "name": "Giulietta Passera",
-          "url": "https://open.spotify.com/artist/6aycI2HAjRhW9W3AMRwVgk"
-        },
-        {
-          "name": "Primo Zanasi",
-          "url": "https://open.spotify.com/artist/7kN7qQdznUeYIqm1lwNkkN"
-        }
-      ],
-      "duration_ms": 342447,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/5zbZtQukFdYtsxuxdFUUlv"
     },
     {
       "added_at": "2025-10-03 08:10:24",
@@ -1739,38 +1739,6 @@
     {
       "added_at": "2025-10-03 08:10:24",
       "album": {
-        "name": "IRA",
-        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
-      },
-      "artists": [
-        {
-          "name": "Iosonouncane",
-          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
-        }
-      ],
-      "duration_ms": 662586,
-      "name": "hajar",
-      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
-    },
-    {
-      "added_at": "2025-10-03 08:10:24",
-      "album": {
-        "name": "NAXOS",
-        "url": "https://open.spotify.com/album/6S9eVbnJNclJ09sCN3lB3Z"
-      },
-      "artists": [
-        {
-          "name": "Francesco Buzzurro",
-          "url": "https://open.spotify.com/artist/7va7RuUDlM00yzRi2nrFX5"
-        }
-      ],
-      "duration_ms": 217280,
-      "name": "Song for Django",
-      "url": "https://open.spotify.com/track/6V6BOGQ5AjGyFnHyayO8aV"
-    },
-    {
-      "added_at": "2025-10-03 08:10:24",
-      "album": {
         "name": "Tempo al Tempo",
         "url": "https://open.spotify.com/album/2Pg5JP20FpZXP3S8aveehk"
       },
@@ -1799,6 +1767,38 @@
       "duration_ms": 377930,
       "name": "Tempo al Tempo",
       "url": "https://open.spotify.com/track/5fJPhL4bpFTElmkDwjaOME"
+    },
+    {
+      "added_at": "2025-10-03 08:10:24",
+      "album": {
+        "name": "NAXOS",
+        "url": "https://open.spotify.com/album/6S9eVbnJNclJ09sCN3lB3Z"
+      },
+      "artists": [
+        {
+          "name": "Francesco Buzzurro",
+          "url": "https://open.spotify.com/artist/7va7RuUDlM00yzRi2nrFX5"
+        }
+      ],
+      "duration_ms": 217280,
+      "name": "Song for Django",
+      "url": "https://open.spotify.com/track/6V6BOGQ5AjGyFnHyayO8aV"
+    },
+    {
+      "added_at": "2025-10-03 08:10:24",
+      "album": {
+        "name": "IRA",
+        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
+      },
+      "artists": [
+        {
+          "name": "Iosonouncane",
+          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
+        }
+      ],
+      "duration_ms": 662586,
+      "name": "hajar",
+      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
     },
     {
       "added_at": "2025-10-03 08:10:24",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2025-10-03 08:10:24",
       "album": {
+        "name": "Jazz Carnival",
+        "url": "https://open.spotify.com/album/6qeRZWcX3ZBIbG06naVZUS"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "duration_ms": 226693,
+      "name": "Jazz Carnival",
+      "url": "https://open.spotify.com/track/4bTSotryWXXOQw55gXDAyA"
+    },
+    {
+      "added_at": "2025-10-03 08:10:24",
+      "album": {
         "name": "Sounds Like Freedom",
         "url": "https://open.spotify.com/album/6mlrg0FuPmj4hY1f6zUDjc"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 299787,
       "name": "Habibi Baby",
       "url": "https://open.spotify.com/track/0pCfYzmqBqZN9uRoVfErBF"
-    },
-    {
-      "added_at": "2025-10-03 08:10:24",
-      "album": {
-        "name": "Jazz Carnival",
-        "url": "https://open.spotify.com/album/6qeRZWcX3ZBIbG06naVZUS"
-      },
-      "artists": [
-        {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
-        }
-      ],
-      "duration_ms": 226693,
-      "name": "Jazz Carnival",
-      "url": "https://open.spotify.com/track/4bTSotryWXXOQw55gXDAyA"
     },
     {
       "added_at": "2025-10-03 08:10:24",

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 8610,
+  "num_followers": 8609,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAACwXUXLA4lI6tk46wbPv3kp",
+  "snapshot_id": "aOBjgAAAAAAWQf0iWR1iU1M7MmCy0NNa",
   "tracks": [
     {
       "added_at": null,
@@ -171,18 +171,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMOR DE SUBIDA",
-        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
+        "name": "Luna De Miel",
+        "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
       },
       "artists": [
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
         }
       ],
-      "duration_ms": 144700,
-      "name": "ME TIENES LOCO",
-      "url": "https://open.spotify.com/track/5ceptXWvTbtHDW136LA1Oq"
+      "duration_ms": 198639,
+      "name": "Baby (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/7L5f1cWtVCeVn128pwTt5b"
     },
     {
       "added_at": null,
@@ -223,22 +227,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna De Miel",
-        "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
+        "name": "AMOR DE SUBIDA",
+        "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
       },
       "artists": [
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
         }
       ],
-      "duration_ms": 198639,
-      "name": "Baby (Version Norte\u00f1a)",
-      "url": "https://open.spotify.com/track/7L5f1cWtVCeVn128pwTt5b"
+      "duration_ms": 144700,
+      "name": "ME TIENES LOCO",
+      "url": "https://open.spotify.com/track/5ceptXWvTbtHDW136LA1Oq"
     },
     {
       "added_at": null,
@@ -435,26 +435,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Bueno Y Lo Malo",
-        "url": "https://open.spotify.com/album/59RvfoVTOMJBng2ViEacq4"
+        "name": "La Fiesta De Mi Rancho (Remix)",
+        "url": "https://open.spotify.com/album/3K2Anv3vPh9KZ5jufd1tAg"
       },
       "artists": [
         {
+          "name": "Monir Bautista",
+          "url": "https://open.spotify.com/artist/3vsI26mTGeEkEdWxsibd7g"
+        },
+        {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Kane Rodriguez",
-          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
-        },
-        {
-          "name": "Julio Caesar",
-          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
         }
       ],
-      "duration_ms": 162625,
-      "name": "Lo Bueno Y Lo Malo",
-      "url": "https://open.spotify.com/track/3max574PT1q80JWMAGkdUY"
+      "duration_ms": 158275,
+      "name": "La Fiesta De Mi Rancho - Remix",
+      "url": "https://open.spotify.com/track/74eHdWsJM0p448J9Hsa3oh"
     },
     {
       "added_at": null,
@@ -479,22 +475,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fiesta De Mi Rancho (Remix)",
-        "url": "https://open.spotify.com/album/3K2Anv3vPh9KZ5jufd1tAg"
+        "name": "Lo Bueno Y Lo Malo",
+        "url": "https://open.spotify.com/album/59RvfoVTOMJBng2ViEacq4"
       },
       "artists": [
         {
-          "name": "Monir Bautista",
-          "url": "https://open.spotify.com/artist/3vsI26mTGeEkEdWxsibd7g"
-        },
-        {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        },
+        {
+          "name": "Julio Caesar",
+          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
         }
       ],
-      "duration_ms": 158275,
-      "name": "La Fiesta De Mi Rancho - Remix",
-      "url": "https://open.spotify.com/track/74eHdWsJM0p448J9Hsa3oh"
+      "duration_ms": 162625,
+      "name": "Lo Bueno Y Lo Malo",
+      "url": "https://open.spotify.com/track/3max574PT1q80JWMAGkdUY"
     },
     {
       "added_at": null,

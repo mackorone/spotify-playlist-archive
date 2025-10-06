@@ -1,6 +1,6 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1045570,
+  "num_followers": 1045445,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "The Subway",
-        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 252276,
-      "name": "The Subway",
-      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
         "name": "Bird's Eye",
         "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "MILLION PLACES",
-        "url": "https://open.spotify.com/album/5JAV9kfx7bcxgdJFFfdHd4"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 204320,
-      "name": "MILLION PLACES",
-      "url": "https://open.spotify.com/track/4HJNGbmQomaeZoh6aOYDIT"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
         "name": "All I Know (with Khalid)",
         "url": "https://open.spotify.com/album/1TNPKEmo5TSj8NpXpDgMsf"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 176046,
       "name": "All I Know (with Khalid)",
       "url": "https://open.spotify.com/track/2rgWhlzASxN4MKk7c3RAGP"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
+        "name": "MILLION PLACES",
+        "url": "https://open.spotify.com/album/5JAV9kfx7bcxgdJFFfdHd4"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 204320,
+      "name": "MILLION PLACES",
+      "url": "https://open.spotify.com/track/4HJNGbmQomaeZoh6aOYDIT"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "clich\u00e9",
-        "url": "https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 176242,
-      "name": "clich\u00e9",
-      "url": "https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
         "name": "Fools Gold",
         "url": "https://open.spotify.com/album/2jYLzXEZ5ki5itbFQhADAV"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 192700,
       "name": "Orbit",
       "url": "https://open.spotify.com/track/6LBMBIzdGj4RKhJeTcTBjr"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
+        "name": "clich\u00e9",
+        "url": "https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 176242,
+      "name": "clich\u00e9",
+      "url": "https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
+        "name": "Itty Bitty",
+        "url": "https://open.spotify.com/album/6cPPkaA7q9UF66afGI945c"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Itty Bitty",
+      "url": "https://open.spotify.com/track/6TxJ6ocfLpkKkY8152ttpM"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
         "name": "Can\u2019t Get Enough",
         "url": "https://open.spotify.com/album/3AjPHQqgkjcqwhpRxwiFP2"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 165276,
       "name": "Can\u2019t Get Enough",
       "url": "https://open.spotify.com/track/6zY829UlOMYoOIULHiGIZz"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
-        "name": "Itty Bitty",
-        "url": "https://open.spotify.com/album/6cPPkaA7q9UF66afGI945c"
-      },
-      "artists": [
-        {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Itty Bitty",
-      "url": "https://open.spotify.com/track/6TxJ6ocfLpkKkY8152ttpM"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "Leave Me Alone",
-        "url": "https://open.spotify.com/album/3BKy2tD6GZCsfYkmgWkdbq"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 141738,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/1T38okUZknebljidMNSvfJ"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
         "name": "Come With Me (feat. Jorja Smith)",
         "url": "https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26"
       },
@@ -1511,6 +1495,38 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
+        "name": "Leave Me Alone",
+        "url": "https://open.spotify.com/album/3BKy2tD6GZCsfYkmgWkdbq"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 141738,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/1T38okUZknebljidMNSvfJ"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
+        "name": "i guess u never really cared about me",
+        "url": "https://open.spotify.com/album/7CHoqxYsAtC7YZZDa1t95z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 191150,
+      "name": "i guess u never really cared about me",
+      "url": "https://open.spotify.com/track/2hyyp0mZc5QFY5YQeyv7oP"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
         "name": "French Girls",
         "url": "https://open.spotify.com/album/0zNVm3xZratOorJpLbglfN"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 167404,
       "name": "Almost, So Close, Maybe",
       "url": "https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
-        "name": "i guess u never really cared about me",
-        "url": "https://open.spotify.com/album/7CHoqxYsAtC7YZZDa1t95z"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 191150,
-      "name": "i guess u never really cared about me",
-      "url": "https://open.spotify.com/track/2hyyp0mZc5QFY5YQeyv7oP"
     },
     {
       "added_at": "2025-08-14 22:00:28",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-08-14 22:00:28",
       "album": {
-        "name": "Heart By Heart",
-        "url": "https://open.spotify.com/album/2QasGAycrDSiVNtUtTslgU"
-      },
-      "artists": [
-        {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
-        }
-      ],
-      "duration_ms": 190754,
-      "name": "Heart By Heart",
-      "url": "https://open.spotify.com/track/6NUoW7RwcO1jcrSvJ2V6od"
-    },
-    {
-      "added_at": "2025-08-14 22:00:28",
-      "album": {
         "name": "RUSHMERE",
         "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 200373,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm"
+    },
+    {
+      "added_at": "2025-08-14 22:00:28",
+      "album": {
+        "name": "Heart By Heart",
+        "url": "https://open.spotify.com/album/2QasGAycrDSiVNtUtTslgU"
+      },
+      "artists": [
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "duration_ms": 190754,
+      "name": "Heart By Heart",
+      "url": "https://open.spotify.com/track/6NUoW7RwcO1jcrSvJ2V6od"
     },
     {
       "added_at": "2025-08-14 22:00:28",

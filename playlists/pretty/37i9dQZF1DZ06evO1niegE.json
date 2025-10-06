@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 8613,
+  "num_followers": 8617,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAACVeqSPNfN2Yb3ZXhvUhN+q",
+  "snapshot_id": "aOBjgAAAAAD5BNW9+htLaQAuuNKQCCMS",
   "tracks": [
     {
       "added_at": null,
@@ -307,18 +307,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NMDQH",
-        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+        "name": "Parece Un Chiste Con RENEE",
+        "url": "https://open.spotify.com/album/3SlWcRle7SqfiMXwrzOAK0"
       },
       "artists": [
+        {
+          "name": "Estibaliz Badiola",
+          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
+        },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 150760,
-      "name": "Tibio",
-      "url": "https://open.spotify.com/track/2iqzKoc9YpedaZGWU1S84i"
+      "duration_ms": 149731,
+      "name": "Parece Un Chiste",
+      "url": "https://open.spotify.com/track/3FaN4AqtGkSMZQ1AzhEzev"
     },
     {
       "added_at": null,
@@ -335,6 +339,22 @@
       "duration_ms": 168426,
       "name": "El Disfraz",
       "url": "https://open.spotify.com/track/7iwrVm4GME5VrJM5Xkjpj9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 150760,
+      "name": "Tibio",
+      "url": "https://open.spotify.com/track/2iqzKoc9YpedaZGWU1S84i"
     },
     {
       "added_at": null,
@@ -375,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NMDQH",
-        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 150773,
-      "name": "Algo Bien",
-      "url": "https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
       },
@@ -407,22 +411,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parece Un Chiste Con RENEE",
-        "url": "https://open.spotify.com/album/3SlWcRle7SqfiMXwrzOAK0"
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
       },
       "artists": [
-        {
-          "name": "Estibaliz Badiola",
-          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
-        },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 149731,
-      "name": "Parece Un Chiste",
-      "url": "https://open.spotify.com/track/3FaN4AqtGkSMZQ1AzhEzev"
+      "duration_ms": 150773,
+      "name": "Algo Bien",
+      "url": "https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alta Joya",
-        "url": "https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva"
-      },
-      "artists": [
-        {
-          "name": "George Rhoads",
-          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "Alta Joya",
-      "url": "https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AHORA O NUNCA",
         "url": "https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 156448,
       "name": "AHORA O NUNCA",
       "url": "https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alta Joya",
+        "url": "https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva"
+      },
+      "artists": [
+        {
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "Alta Joya",
+      "url": "https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv"
     },
     {
       "added_at": null,

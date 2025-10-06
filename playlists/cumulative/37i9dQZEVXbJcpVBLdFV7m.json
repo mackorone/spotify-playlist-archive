@@ -15052,7 +15052,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 288706,
       "name": "Kids",
       "url": "https://open.spotify.com/track/1xhOTZQnG1aZV8xMQok8Ak"
@@ -16006,7 +16006,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 236446,
       "name": "Letter To Myself (feat. Frank Turner)",
       "url": "https://open.spotify.com/track/2lsaiqpiJY0hVX4PtcyvqT"
@@ -17110,7 +17110,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-30",
+      "date_removed": null,
       "duration_ms": 111157,
       "name": "LV Sandals",
       "url": "https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv"
@@ -17464,7 +17464,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 249048,
       "name": "Making Love to Morgan Wallen",
       "url": "https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z"
@@ -17566,7 +17566,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -27651,6 +27651,24 @@
     },
     {
       "album": {
+        "name": "I've Been Expecting You",
+        "url": "https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279293,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/5IvhE3L0nR3dxrrmRLHdpp"
+    },
+    {
+      "album": {
         "name": "WHAM (Extended Version)",
         "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
       },
@@ -30612,7 +30630,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 168947,
       "name": "Tutti Frutti",
       "url": "https://open.spotify.com/track/3d2IqDTT73zxsmlztbfloA"
@@ -34028,7 +34046,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 248813,
       "name": "Yuck (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/1gVbCsO7ekztVTRgyD0nq7"

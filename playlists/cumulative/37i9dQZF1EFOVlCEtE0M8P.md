@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-309 songs - 17 hr 57 min
+310 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [Infinite Roses](https://open.spotify.com/track/4cYD6UGs6vagGhyaWPChWF) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Sugar Water](https://open.spotify.com/album/3JSLVKZqrDVyeUSSVsvhYj) | 3:15 | 2024-12-20 |  |
 | [Invention](https://open.spotify.com/track/1HS1531ZSGB77lUFEn74BY) | [Brandon](https://open.spotify.com/artist/3mMlNCX0juOKPTTkSsiOie), [Savannah](https://open.spotify.com/artist/1NmrIlbg3XEPGnsKyQ0pDB) | [Adolescent Summer \- EP](https://open.spotify.com/album/4KIPIQ1jyctI8bfRUPiLZF) | 3:53 | 2024-03-07 | 2024-11-17 |
 | [Island](https://open.spotify.com/track/4LRxmh62YHxSHL4hGLq0ln) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:59 | 2024-03-07 |  |
-| [Jesus Christ & Country Clubs](https://open.spotify.com/track/0YBycNXcQkUKRXvFs19UQN) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Jesus Christ & Country Clubs](https://open.spotify.com/album/17myOP7pQ31MueJ66ru1UE) | 3:06 | 2025-08-05 |  |
+| [Jesus Christ & Country Clubs](https://open.spotify.com/track/0YBycNXcQkUKRXvFs19UQN) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Jesus Christ & Country Clubs](https://open.spotify.com/album/17myOP7pQ31MueJ66ru1UE) | 3:06 | 2025-08-05 | 2025-10-06 |
+| [Jesus Christ & Country Clubs](https://open.spotify.com/track/4shsbeIvqN4fvfyFQPHexh) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [The Eldest Daughter](https://open.spotify.com/album/3mhNjUSEUenXUme3MEc4Bo) | 3:06 | 2025-10-05 |  |
 | [Joyride](https://open.spotify.com/track/73pkKcumGPXXdLaBWvdRzW) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 3:04 | 2024-03-24 |  |
 | [JUNKIE](https://open.spotify.com/track/6azzQpelUGRtIQUfgR9R0J) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 2: the burn](https://open.spotify.com/album/4kDBAwGGcSpxs6d4FFdPYG) | 3:08 | 2024-03-07 |  |
 | [Just Be Friends](https://open.spotify.com/track/4h2IL1bjFUiXJ2RJ3SV1bS) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 3:37 | 2025-03-09 |  |

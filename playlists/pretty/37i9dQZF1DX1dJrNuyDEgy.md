@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 
 > Ay ay ay ay..\. Canta y no llores, porque cantando se alegran, cielito lindo, los corazones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,475 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,478 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dJrNuyDEgy.md) - [plain]
 | 24 | [La Bala](https://open.spotify.com/track/2Z5fIjiXs9mewTPp2hvVTR) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [De Corazón](https://open.spotify.com/album/76fRflWFFHxPUIc0qKnmDo) | 10:01 |
 | 25 | [El Sinaloense](https://open.spotify.com/track/0bxa8kZpLhhxg9ATooV3yQ) | [Luis Aguilar](https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx) | [RCA 100 Años De Musica](https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH) | 1:45 |
 | 26 | [El Carretero Se Va](https://open.spotify.com/track/14hwgXezbZDPcyhq7Zw91D) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Serie 20 Exitos](https://open.spotify.com/album/7n6xNmDEgfcTkO1Jz9G3Py) | 2:08 |
-| 27 | [15 de Septiembre](https://open.spotify.com/track/21yxW3iXPbxEpa5FRILbdF) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Corridos Y Rancheras](https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf) | 2:52 |
-| 28 | [El Tilingo Lingo](https://open.spotify.com/track/1wuWRVyQmOMocqvdKkB2J1) | [Conjunto Jarocho Lindo Veracruz](https://open.spotify.com/artist/1G2qHYmNah4PuOrAAWpwUU) | [El Tilingo Lingo](https://open.spotify.com/album/2CI0buQUSqmtm4a5SccEaD) | 2:55 |
+| 27 | [El Tilingo Lingo](https://open.spotify.com/track/1wuWRVyQmOMocqvdKkB2J1) | [Conjunto Jarocho Lindo Veracruz](https://open.spotify.com/artist/1G2qHYmNah4PuOrAAWpwUU) | [El Tilingo Lingo](https://open.spotify.com/album/2CI0buQUSqmtm4a5SccEaD) | 2:55 |
+| 28 | [15 de Septiembre](https://open.spotify.com/track/21yxW3iXPbxEpa5FRILbdF) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Corridos Y Rancheras](https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf) | 2:52 |
 | 29 | [Torito Serrano](https://open.spotify.com/track/4BFHo7sWvDEoPErm3aVS9C) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con El Mariachi Vargas](https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX) | 2:55 |
 | 30 | [Hasta La Raíz](https://open.spotify.com/track/5OYKJlZTMQvAX8kEJ1R60y) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Maestra Vida](https://open.spotify.com/album/08wJCaKI1iUCFObnucLK25) | 6:20 |
 | 31 | [Las Bicicletas](https://open.spotify.com/track/43KGNTOAE6pX5hjqDG7yBg) | [Salterio y Quinteto de Antaño](https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ) | [La Belle Epoque](https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g) | 3:09 |

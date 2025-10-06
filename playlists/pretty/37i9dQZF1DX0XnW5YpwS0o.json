@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2016. Cover: AURORA",
-  "num_followers": 115415,
+  "num_followers": 115463,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 269893,
-      "name": "All the Pretty Girls",
-      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
+      "duration_ms": 245960,
+      "name": "Broken Bones",
+      "url": "https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 245960,
-      "name": "Broken Bones",
-      "url": "https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6"
+      "duration_ms": 269893,
+      "name": "All the Pretty Girls",
+      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/1lVGIXjXpaPw2qoeYqBQjM"
-      },
-      "artists": [
-        {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
-        }
-      ],
-      "duration_ms": 221974,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/6OJMVcgJYX3rJrjN6txUOI"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "The Hope Six Demolition Project",
         "url": "https://open.spotify.com/album/1Un5JM2tnlI7I9GBgylutb"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 338120,
       "name": "The Wheel",
       "url": "https://open.spotify.com/track/5RcKZnXma5ZZq8PWFsn06v"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/1lVGIXjXpaPw2qoeYqBQjM"
+      },
+      "artists": [
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        }
+      ],
+      "duration_ms": 221974,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/6OJMVcgJYX3rJrjN6txUOI"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Coast Modern",
-        "url": "https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2"
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR"
       },
       "artists": [
         {
-          "name": "Coast Modern",
-          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
         }
       ],
-      "duration_ms": 204066,
-      "name": "Guru",
-      "url": "https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL"
+      "duration_ms": 226999,
+      "name": "Under the Sun",
+      "url": "https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR"
+        "name": "Coast Modern",
+        "url": "https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2"
       },
       "artists": [
         {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+          "name": "Coast Modern",
+          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
         }
       ],
-      "duration_ms": 226999,
-      "name": "Under the Sun",
-      "url": "https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV"
+      "duration_ms": 204066,
+      "name": "Guru",
+      "url": "https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL"
     },
     {
       "added_at": "2024-03-18 13:26:28",

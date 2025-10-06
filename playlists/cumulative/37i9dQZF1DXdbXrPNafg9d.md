@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Chanel Beads
 
-9,485 songs - 23 day 2 hr 10 min
+9,486 songs - 23 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3680,6 +3680,7 @@
 | [History \(feat\. Waxahatchee\)](https://open.spotify.com/track/2v3H792zzsZb4OrWrNhkCv) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [13 Months of Sunshine](https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE) | 3:03 | 2025-05-23 | 2025-07-05 |
 | [History Of A Feeling](https://open.spotify.com/track/2PLpZnaPqYfr89TY1bG3wc) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 3:19 | 2021-08-28 | 2021-10-16 |
 | [History Repeats](https://open.spotify.com/track/1wkwQW4Q014vkwRpFocJng) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [History Repeats](https://open.spotify.com/album/306v7MMgEupUcu9WUZvl4h) | 3:04 | 2019-06-28 | 2019-08-16 |
+| [Hit My Head All Day](https://open.spotify.com/track/0JIKmYZmtDKqXAU37ZqwbN) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Hit My Head All Day](https://open.spotify.com/album/1x5dErbtLuyMUZrnmkM4CI) | 6:03 | 2025-10-04 |  |
 | [hit of the highlife](https://open.spotify.com/track/0M9kAFtdEmi5WjKXiAtjdL) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2), [Luke Roberts](https://open.spotify.com/artist/6wAZyC0IbyHiQ7yJrI15zb) | [Classic Love \(ep\)](https://open.spotify.com/album/6AKsAJOKcpD8khaDacJv7j) | 6:03 | 2025-07-25 | 2025-08-23 |
 | [Hitchhiking](https://open.spotify.com/track/4Xus7PhuqSihGgFJJZ1Ayu) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [We're Starting to Look Like Each Other](https://open.spotify.com/album/12AH5gxA0gwvON2H1ce72w) | 4:03 | 2023-11-03 | 2024-01-05 |
 | [Hive Mind](https://open.spotify.com/track/11qlJNC5vSmd0KMeeaRO3D) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd), [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX) | [Hive Mind](https://open.spotify.com/album/0zkvB981BoEJdo526JVfe8) | 4:05 | 2021-09-11 | 2021-10-02 |

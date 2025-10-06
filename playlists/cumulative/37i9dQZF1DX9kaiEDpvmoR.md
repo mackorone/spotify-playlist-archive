@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-447 songs - 1 day 2 hr 3 min
+448 songs - 1 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Graven vid Gullmars](https://open.spotify.com/track/3ehrThyttZSbERKzCbOGKv) | [Mira Ray](https://open.spotify.com/artist/1CqqL8tzrLhMjrZcFTItul), [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Graven vid Gullmars](https://open.spotify.com/album/61o6zXe3il75qvCm39Y1o1) | 4:59 | 2025-05-22 |  |
 | [Growing Pains](https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Growing Pains](https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk) | 3:08 | 2025-01-16 | 2025-05-30 |
 | [Han lever \(Himmelsfärden\)](https://open.spotify.com/track/4NFx0vyHFKhGKXT99ecdNq) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Via Dolorosa, Maria Magdalenas kärlek](https://open.spotify.com/album/2jQQCQDZUQu6VS2G658Ts0) | 4:11 | 2025-04-10 | 2025-06-22 |
-| [Happier Now](https://open.spotify.com/track/39fU4xXjcmGu7nQ6oXpMUv) | [Erik Segerstedt](https://open.spotify.com/artist/63q3l3pKBpvqEjUM5Vf1TG) | [Happier Now](https://open.spotify.com/album/04TryUgrbhMKNxso4jnmKr) | 2:37 | 2025-06-19 |  |
+| [Happier Now](https://open.spotify.com/track/39fU4xXjcmGu7nQ6oXpMUv) | [Erik Segerstedt](https://open.spotify.com/artist/63q3l3pKBpvqEjUM5Vf1TG) | [Happier Now](https://open.spotify.com/album/04TryUgrbhMKNxso4jnmKr) | 2:37 | 2025-06-19 | 2025-10-06 |
 | [Happiness](https://open.spotify.com/track/4bMiqeOGu8szuBoJ2SYVCR) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Happiness](https://open.spotify.com/album/3DzHyRbyjAQiaFuBq7TjG1) | 4:29 | 2024-10-24 | 2025-05-16 |
 | [Har på känn](https://open.spotify.com/track/2jlC60WVWghOGflEo0kt9L) | [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK), [Uno Svenningsson](https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR) | [Sällskapssjuk](https://open.spotify.com/album/1dtyicmDm2kBFPmwMLdVMu) | 3:30 | 2024-10-24 | 2025-04-25 |
 | [Hate To Love](https://open.spotify.com/track/0FQrZ9z8qTnG6teIZhb3EY) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Hate To Love](https://open.spotify.com/album/5AXLTxMpHICBifTJXDESzS) | 3:05 | 2025-06-05 | 2025-07-31 |
@@ -273,6 +273,7 @@
 | [Mitt i min stad](https://open.spotify.com/track/2a3FwtpaCCz8WkQVKRUrPn) | [Staffan Hellstrand](https://open.spotify.com/artist/0smhbmfhr1L1vFZskdZIsl) | [Sommar](https://open.spotify.com/album/6LardUaFQo2AgiXsVnjiuu) | 2:22 | 2025-04-24 | 2025-06-08 |
 | [Mordbrand](https://open.spotify.com/track/5wcN4IzrDi0vEEAL5etavw) | [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Mordbrand](https://open.spotify.com/album/1Qq4f6MVfVz1QG0NSvSB6D) | 3:38 | 2024-06-27 | 2024-10-11 |
 | [More Than Words](https://open.spotify.com/track/0Y2qS45YYbYfxPVp0RfWLc) | [Angelo Perrelli](https://open.spotify.com/artist/1v1b1VJKeXticlHnYyJDbs), [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl) | [More Than Words](https://open.spotify.com/album/3raSM95Yq7o3qC7CcXxkzP) | 3:55 | 2025-08-07 | 2025-08-22 |
+| [Mother's Love Conquers All](https://open.spotify.com/track/1V8t9A7kfwmv3HKi1JjJAP) | [Amanda Jenssen](https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9) | [Mother's Love Conquers All](https://open.spotify.com/album/69AGXPie59h3BozlQ728ew) | 5:17 | 2025-10-02 |  |
 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 | 2024-06-27 | 2024-08-16 |
 | [Månen](https://open.spotify.com/track/0K983v0A3vx4mtWv2TxjXQ) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Månen](https://open.spotify.com/album/1l5Mvjssz7K5HfIyTHD0g2) | 2:39 | 2025-06-26 | 2025-09-29 |
 | [Möt mig i Gamla Stan \(Swing Version\)](https://open.spotify.com/track/6MIqXeG9H9NCqzlrEVwS7s) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Se mig bara för den jag är](https://open.spotify.com/album/76ffJEYzoFrQlS9hQ4UUzh) | 3:06 | 2024-06-27 | 2024-08-23 |

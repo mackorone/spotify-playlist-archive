@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-645 songs - 2 day 5 hr 17 min
+646 songs - 2 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Broken](https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Broken](https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO) | 3:18 | 2023-04-21 | 2025-01-11 |
 | [Broken Parts](https://open.spotify.com/track/1TS3hIyeGdWqeBQyj5HgoT) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Found In The Wild](https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS) | 3:56 | 2021-12-08 | 2025-08-30 |
 | [Call](https://open.spotify.com/track/0NKMIeCLz6FhoziY1HjhtO) | [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp) | [Call](https://open.spotify.com/album/0BtlgWzegBTP0xtKgLteJP) | 3:56 | 2024-07-12 | 2025-02-28 |
+| [Call Me Up](https://open.spotify.com/track/7xlPrYqBpWc1fjrfA3zP53) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [Movement II](https://open.spotify.com/album/53o2yMucNXQc8kOYdpF2mD) | 3:02 | 2025-10-03 |  |
 | [Call My Name](https://open.spotify.com/track/4vI94CkCfDXotFMcSPujvK) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Call My Name](https://open.spotify.com/album/2AATjcwyMv4RDwKvXZyBn4) | 4:25 | 2023-08-04 |  |
 | [Calm](https://open.spotify.com/track/254ovkt2YPJeMAHdvuz5oe) | [Midnight Pass](https://open.spotify.com/artist/2F8qRDc5o9tYPuRiT4cvN6), [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf) | [Calm](https://open.spotify.com/album/78IwPOkrLSxRINhZS6iSKg) | 3:18 | 2024-07-12 | 2025-01-11 |
 | [Cameo](https://open.spotify.com/track/1xltPGjeNgtjO8zLHZ6mCf) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC) | [Cameo](https://open.spotify.com/album/67yxzpLfTndtBK2RD2yGvp) | 5:17 | 2021-12-08 | 2023-07-29 |
@@ -178,7 +179,7 @@
 | [Feelings Of Love](https://open.spotify.com/track/3hVesPNlGrCXIO2E45aVnB) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7) | [Feelings Of Love](https://open.spotify.com/album/0NRDMZLCu5ReSNiolhzmZv) | 6:07 | 2025-09-05 |  |
 | [Felt \(feat\. Henry Green\)](https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [A Life](https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R) | 3:19 | 2024-04-26 |  |
 | [Fibonacci](https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Fibonacci](https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY) | 3:08 | 2021-12-08 | 2024-04-13 |
-| [Fields](https://open.spotify.com/track/5FZw8knmfy0feNKCXFEI1c) | [Sieren](https://open.spotify.com/artist/3Jzy4I2ATG22T6bZB24ToD) | [Emergence](https://open.spotify.com/album/0cw1jXcFM6cmW3oApTbx8g) | 4:28 | 2025-09-05 |  |
+| [Fields](https://open.spotify.com/track/5FZw8knmfy0feNKCXFEI1c) | [Sieren](https://open.spotify.com/artist/3Jzy4I2ATG22T6bZB24ToD) | [Emergence](https://open.spotify.com/album/0cw1jXcFM6cmW3oApTbx8g) | 4:28 | 2025-09-05 | 2025-10-06 |
 | [Fig Spread](https://open.spotify.com/track/7aqk3yBoqxB4nIl4UuMyxB) | [Aspetuck](https://open.spotify.com/artist/0GkeJJhTM5XDaT8iuRl0gd) | [Aspetuck 002](https://open.spotify.com/album/0ayZp8Cy4rwDLteIOWTUT1) | 5:51 | 2021-12-08 | 2022-07-21 |
 | [Five](https://open.spotify.com/track/1AyWOwYZStmF5jtgNThUWd) | [Jon Gurd](https://open.spotify.com/artist/2Nd5J1iedlzuNp32YYNuAl), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [Five EP](https://open.spotify.com/album/1d1C5lZ34OxnzawtsFMnCD) | 3:17 | 2025-03-21 |  |
 | [Flek](https://open.spotify.com/track/37MvOmyPdgyeWOymDgor3O) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Flek](https://open.spotify.com/album/32vcNeIRAUWxN8Yq0ROfEa) | 3:59 | 2023-11-10 |  |

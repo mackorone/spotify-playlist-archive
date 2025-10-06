@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 
 > Celebremos el orgullo mexicano con estas alegres canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,503 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,488 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 50 | [La Mulita Prieta](https://open.spotify.com/track/2dCICTepTYf3CgfITnxQ4f) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Pepe Aguilar Interpreta A Joan Sebastian](https://open.spotify.com/album/3tIHIHQhkjShT31Br8nreb) | 2:31 |
 | 51 | [Juan Colorado](https://open.spotify.com/track/2qqdRSEgnCaxg3gXnCQGJC) | [Mariachi Arriba Juárez](https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy) | [Mariachi](https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93) | 2:58 |
 | 52 | [Popurrí de Sones](https://open.spotify.com/track/3M3fXgsaeOLSSq3lBq4ABT) | [Mariachi Nuevo Ordaz de Purépero](https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs) | [Cuando México Canta](https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW) | 5:22 |
-| 53 | [Los Machetes](https://open.spotify.com/track/1XO99D36hFTXxGQsRt606o) | [Mariachi De Zapopan De Armando López](https://open.spotify.com/artist/4tychdbMKCQHGKPZ9EC9n3) | [Los Mejores 20 Sones Jaliciences](https://open.spotify.com/album/2DXxRwnJVAO3gBzcqRPHNE) | 2:40 |
-| 54 | [El Barzon](https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Lo Mejor De Rancheras](https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8) | 2:44 |
+| 53 | [El Barzon](https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Lo Mejor De Rancheras](https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8) | 2:44 |
+| 54 | [Los Machetes](https://open.spotify.com/track/1XO99D36hFTXxGQsRt606o) | [Mariachi De Zapopan De Armando López](https://open.spotify.com/artist/4tychdbMKCQHGKPZ9EC9n3) | [Los Mejores 20 Sones Jaliciences](https://open.spotify.com/album/2DXxRwnJVAO3gBzcqRPHNE) | 2:40 |
 | 55 | [Caminos de Guanajuato](https://open.spotify.com/track/2NYtb44MFHpDadBfNFcQXd) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Rey](https://open.spotify.com/album/6ugwfm6B8ToDlJndtQJ7jf) | 3:14 |
 | 56 | [El Caporal de Chihuahua](https://open.spotify.com/track/2XPWSMlqGUf0WlA4esS5GD) | [Mariachi Arriba Juárez](https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy) | [Mariachi](https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93) | 2:56 |
 | 57 | [Pelea de gallos](https://open.spotify.com/track/0groWFwp9diQBCepI52eC7) | [Mariachi Silvestre Vargas](https://open.spotify.com/artist/16RPDOVQlVowqfNnRuRlRG) | [Mexico Gran Colección Ranchera \- Mariachi Silvestre Vargas](https://open.spotify.com/album/0EdehzXJzRiKpZ2QCSrkgf) | 3:08 |

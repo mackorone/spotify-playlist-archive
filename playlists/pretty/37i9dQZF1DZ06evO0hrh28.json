@@ -1,12 +1,12 @@
 {
   "description": "This is Emilia. The essential tracks, all in one playlist.",
-  "num_followers": 254373,
+  "num_followers": 254440,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAADiVxZislTPWgv3xmnBN7BZ",
+  "snapshot_id": "aOBjgAAAAADe2RQMVcHupYCrz6/1OWAv",
   "tracks": [
     {
       "added_at": null,
@@ -219,26 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "bunda \ud83c\udf51",
-        "url": "https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 223855,
-      "name": "bunda \ud83c\udf51",
-      "url": "https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No_se_ve.mp3",
         "url": "https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 203636,
       "name": "No_se_ve.mp3",
       "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "bunda \ud83c\udf51",
+        "url": "https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 223855,
+      "name": "bunda \ud83c\udf51",
+      "url": "https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "perfectas",
-        "url": "https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 142361,
-      "name": "servidora \ud83d\udd76\ufe0f",
-      "url": "https://open.spotify.com/track/5PqINo0dGJTCyNXcBomwsb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quieres",
         "url": "https://open.spotify.com/album/6FYsivfijNDaQ1bpw8Kljc"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 213666,
       "name": "Quieres",
       "url": "https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "perfectas",
+        "url": "https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 142361,
+      "name": "servidora \ud83d\udd76\ufe0f",
+      "url": "https://open.spotify.com/track/5PqINo0dGJTCyNXcBomwsb"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "perfectas",
-        "url": "https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 143794,
-      "name": "beautiful \ud83d\udc84",
-      "url": "https://open.spotify.com/track/4oJUtlGzMWmyURfJsCwO3z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Salgo a Bailar",
         "url": "https://open.spotify.com/album/0uRoHlgfvgSwumltupp9vs"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 157830,
       "name": "Salgo a Bailar",
       "url": "https://open.spotify.com/track/7xX7bER73YZSE4m76OpMXV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "perfectas",
+        "url": "https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 143794,
+      "name": "beautiful \ud83d\udc84",
+      "url": "https://open.spotify.com/track/4oJUtlGzMWmyURfJsCwO3z"
     },
     {
       "added_at": null,

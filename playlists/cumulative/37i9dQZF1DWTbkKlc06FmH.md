@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,109 songs - 2 day 17 hr 20 min
+1,110 songs - 2 day 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -643,7 +643,7 @@
 | [ON THE ISLAND](https://open.spotify.com/track/2k1fUk8E4SBPpkwTUQ46ek) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [ON THE ISLAND](https://open.spotify.com/album/3gREMxCqs0lnzPgBcazdmy) | 2:37 | 2024-11-06 | 2024-11-20 |
 | [Once Upon a Night](https://open.spotify.com/track/5tu4MtskI177URpGVNJQ7P) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [WiND](https://open.spotify.com/album/55Ajgl4mS2poq5DFRPNoQl) | 3:43 | 2025-01-15 | 2025-01-22 |
 | [Once Upon a Night](https://open.spotify.com/track/6WKv7u984pHLpvQsQ3DsQD) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Once Upon a Night](https://open.spotify.com/album/3PDXFarV1SrfDwaWQBArbe) | 3:43 | 2025-01-21 | 2025-02-06 |
-| [One in a Million](https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [One in a Million](https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd) | 4:17 | 2025-09-04 |  |
+| [One in a Million](https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [One in a Million](https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd) | 4:17 | 2025-09-04 | 2025-10-06 |
 | [One Love \- Bob Marley: One Love \- Music Inspired By The Film](https://open.spotify.com/track/03gFXOX3TuRERFlYmHDqIX) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [One Love \(Bob Marley: One Love \- Music Inspired By The Film\)](https://open.spotify.com/album/6XN6OMDwUH5O8E04Zhlcv2) | 3:04 | 2024-02-15 | 2024-03-27 |
 | [One More Kiss \(feat\. ひかり\) \- grooveman Spot Remix](https://open.spotify.com/track/0JhKgf3yhZbCxA3Rap4YDT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [grooveman Spot](https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [One More Kiss \(feat\. ひかり\) \[grooveman Spot Remix\]](https://open.spotify.com/album/489m6WCowErD1iqtPkQzVC) | 4:55 | 2023-09-05 | 2023-09-27 |
 | [One More Time](https://open.spotify.com/track/0ubPRDaIbWJzz5BaepbXJY) | [DJ Yen](https://open.spotify.com/artist/5kRFqqvu4FOtaOevEfYH60), [Varria](https://open.spotify.com/artist/1vnPpGGXhMWPEeAJSQFpN7) | [One More Time](https://open.spotify.com/album/2OmFaODKIMmfw4w1UkTaLW) | 2:47 | 2024-05-08 | 2024-05-15 |
@@ -855,6 +855,7 @@
 | [Take That ! feat\. TENDRE](https://open.spotify.com/track/0v2Kv316ccVrrL3BDDqRHm) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Take That ! feat\. TENDRE](https://open.spotify.com/album/3Krjqn3TYEyvQ4JC0TF7xX) | 3:35 | 2023-03-07 | 2023-03-09 |
 | [Take That ! feat\. TENDRE](https://open.spotify.com/track/64ygTL7d8g37JIp4rcRZ26) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Take That ! feat\. TENDRE](https://open.spotify.com/album/72MRQEQStg151kpzKoTM7q) | 3:35 | 2023-03-07 | 2023-03-29 |
 | [Taste](https://open.spotify.com/track/7mZx7xNcvXStILZCTy8Fsh) | [FiJA](https://open.spotify.com/artist/37yszP4OZkNSupZFSPGtKl), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Taste](https://open.spotify.com/album/59dhgrnqqMQMA0yTcGcCAz) | 4:00 | 2025-07-02 | 2025-07-11 |
+| [taste test](https://open.spotify.com/track/6cJMqbFoBGsLFf4yuq7PRv) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [taste test](https://open.spotify.com/album/1PCcnx3pkx9xnDjE48JE9f) | 2:49 | 2025-10-01 |  |
 | [Taxi driver](https://open.spotify.com/track/081aH87V7FfLfGoenHYBQE) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [Taxi driver](https://open.spotify.com/album/1JBnoKEtIT5Fc3gJbsiZ5c) | 3:49 | 2022-11-23 | 2022-12-24 |
 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 | 2025-08-29 |  |
 | [Teibou \(feat\. Hikari\)](https://open.spotify.com/track/4gGlDBjYN1xYLEXR7taTfs) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Teibou \(feat\. Hikari\)](https://open.spotify.com/album/2JA2xWJMJL8SZnPQFVud3S) | 4:12 | 2025-07-02 | 2025-07-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahsxs9xh0fn.md) - [plain]
 
 > anything by adrianne lenker on repeat
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,101 likes - 112 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,461 likes - 112 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

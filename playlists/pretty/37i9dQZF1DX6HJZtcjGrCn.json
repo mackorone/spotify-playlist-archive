@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Samuel \u00daria",
-  "num_followers": 36351,
+  "num_followers": 36345,
   "original_name": "Cena Indie",
   "owner": {
     "name": "Spotify",
@@ -267,8 +267,8 @@
     {
       "added_at": "2025-10-02 23:00:27",
       "album": {
-        "name": "The Subway",
-        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 252276,
-      "name": "The Subway",
-      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
       "added_at": "2025-10-02 23:00:27",
@@ -371,8 +371,8 @@
     {
       "added_at": "2025-10-02 23:00:27",
       "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
     },
     {
       "added_at": "2025-10-02 23:00:27",
@@ -851,6 +851,26 @@
     {
       "added_at": "2025-10-02 23:00:27",
       "album": {
+        "name": "Elegantly Wasted [Feat. Leon Bridges]",
+        "url": "https://open.spotify.com/album/6ttrLfwlXpHv4HwoImyqqR"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 213062,
+      "name": "Elegantly Wasted [Feat. Leon Bridges]",
+      "url": "https://open.spotify.com/track/4cKkrTYbkWnu96lWNRFcRq"
+    },
+    {
+      "added_at": "2025-10-02 23:00:27",
+      "album": {
         "name": "The Little Mess You Made",
         "url": "https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 201284,
       "name": "The Little Mess You Made",
       "url": "https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX"
-    },
-    {
-      "added_at": "2025-10-02 23:00:27",
-      "album": {
-        "name": "Elegantly Wasted [Feat. Leon Bridges]",
-        "url": "https://open.spotify.com/album/6ttrLfwlXpHv4HwoImyqqR"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 213062,
-      "name": "Elegantly Wasted [Feat. Leon Bridges]",
-      "url": "https://open.spotify.com/track/4cKkrTYbkWnu96lWNRFcRq"
     },
     {
       "added_at": "2025-10-02 23:00:27",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2025-10-02 23:00:27",
       "album": {
+        "name": "Giving Up Air",
+        "url": "https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 287411,
+      "name": "Giving Up Air",
+      "url": "https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy"
+    },
+    {
+      "added_at": "2025-10-02 23:00:27",
+      "album": {
         "name": "Glum",
         "url": "https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 191379,
       "name": "Glum",
       "url": "https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD"
-    },
-    {
-      "added_at": "2025-10-02 23:00:27",
-      "album": {
-        "name": "Summerinlove",
-        "url": "https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 271047,
-      "name": "Summerinlove",
-      "url": "https://open.spotify.com/track/5Me9CVP8sqZvuhtFMOKQoU"
     },
     {
       "added_at": "2025-10-02 23:00:27",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2025-10-02 23:00:27",
       "album": {
-        "name": "Giving Up Air",
-        "url": "https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw"
+        "name": "Summerinlove",
+        "url": "https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4"
       },
       "artists": [
         {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
         }
       ],
-      "duration_ms": 287411,
-      "name": "Giving Up Air",
-      "url": "https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy"
+      "duration_ms": 271047,
+      "name": "Summerinlove",
+      "url": "https://open.spotify.com/track/5Me9CVP8sqZvuhtFMOKQoU"
     },
     {
       "added_at": "2025-10-02 23:00:27",

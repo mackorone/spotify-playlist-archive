@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Palomo en portada.
 
-755 songs - 1 day 15 hr 42 min
+756 songs - 1 day 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -594,6 +594,7 @@
 | [Que Me Extrañas](https://open.spotify.com/track/43MeRoZnKTXoLQlORolyNC) | [Gera Demara](https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu) | [Que Me Extrañas](https://open.spotify.com/album/49DD02Il1gwX61heeVgou8) | 3:14 | 2022-07-01 | 2022-07-12 |
 | [Que Sea](https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Que Sea](https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR) | 2:50 | 2022-07-01 |  |
 | [Que Soy Un Malandro](https://open.spotify.com/track/0hFMcLsktrTFOoZIgljTDe) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Desde La 48](https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD) | 2:16 | 2025-02-28 | 2025-04-24 |
+| [Que Sube Y Baja \(En Vivo\)](https://open.spotify.com/track/6ibESFw31H1shORQnJlNo8) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La Amanecida En Vivo Desde "El Carrizal"](https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR) | 2:01 | 2025-10-03 |  |
 | [Que Te Valga Verga](https://open.spotify.com/track/2TIRRX9lDuhujt0ojcZ8Y6) | [Grupo Nuevo Equipo](https://open.spotify.com/artist/3FBG6TxCmYEDgwXai20GAl) | [Que Te Valga Verga](https://open.spotify.com/album/7DAmH01Zs3AGPJugrq7MFH) | 2:06 | 2022-07-01 | 2022-07-06 |
 | [Que Te Vaya Bien](https://open.spotify.com/track/1EKGXIvGSPOHRt2wJdMzVN) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Que Te Vaya Bien](https://open.spotify.com/album/7pjWprusHoAZTaeVORXMS1) | 3:58 | 2022-07-01 | 2024-10-19 |
 | [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 | 2022-12-09 |  |
@@ -738,7 +739,7 @@
 | [Y Sigues Siendo Tú](https://open.spotify.com/track/74rsDogaPfxMdSMHAiWL3l) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5) | 2:35 | 2024-03-22 | 2024-04-19 |
 | [Y Soporten](https://open.spotify.com/track/5PLRKvmEZfoiv2D4mwy6yj) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [La Historia](https://open.spotify.com/album/3tW5IUDFgvR8XDhQom7oL4) | 2:31 | 2024-03-22 | 2024-06-22 |
 | [Y Te Vas \(En Vivo\)](https://open.spotify.com/track/5JKS2pA7ry6oJhiOGE7jTa) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Y Te Vas \(En Vivo\)](https://open.spotify.com/album/0He4O7A2vn4Td82eBe9e6x) | 3:55 | 2023-12-15 |  |
-| [Y Tu](https://open.spotify.com/track/5ljfG2h3NkhHB89qoELPyt) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CORAZÓN ERRANTE](https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X) | 3:19 | 2024-12-20 |  |
+| [Y Tu](https://open.spotify.com/track/5ljfG2h3NkhHB89qoELPyt) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CORAZÓN ERRANTE](https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X) | 3:19 | 2024-12-20 | 2025-10-06 |
 | [Y Tú a Toda Madre](https://open.spotify.com/track/7bEfzjPeeY6sYFr2P4oOzz) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Trilogía, Vol\. 1](https://open.spotify.com/album/7jTWwmpVFs08W8wftoIC2B) | 3:14 | 2023-02-24 | 2023-07-01 |
 | [Ya Es Muy Tarde](https://open.spotify.com/track/7wEu9ssXquiC6OKt1GNtnW) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Ya Es Muy Tarde](https://open.spotify.com/album/6eB15NGmsCyvNKUPwtzO1Z) | 3:18 | 2022-07-01 | 2022-07-31 |
 | [Ya Fue Suficiente](https://open.spotify.com/track/6DxehmTpQ7gPuQzIl4oJ67) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Al Derecho Y Al Reverso \(Deluxe\)](https://open.spotify.com/album/53WBc1wQGoVpcMAUvdMzvS) | 2:40 | 2023-02-24 | 2023-07-15 |

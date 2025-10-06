@@ -1,6 +1,6 @@
 {
   "description": "Celebramos a las figuras legendarias del rock en nuestro idioma. Foto: Soda Stereo.",
-  "num_followers": 728151,
+  "num_followers": 728346,
   "original_name": "Iconos del Rock Latinoamericano",
   "owner": {
     "name": "Spotify",
@@ -123,8 +123,8 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
-        "name": "El Nervio Del Volcan",
-        "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
+        "name": "El Diablito",
+        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
         }
       ],
-      "duration_ms": 288600,
-      "name": "Afuera",
-      "url": "https://open.spotify.com/track/3pJfnBjO3kjudEchcPEDxS"
+      "duration_ms": 215866,
+      "name": "La C\u00e9lula Que Explota",
+      "url": "https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -203,8 +203,8 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
-        "name": "El Diablito",
-        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
+        "name": "El Nervio Del Volcan",
+        "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
       },
       "artists": [
         {
@@ -212,9 +212,25 @@
           "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
         }
       ],
-      "duration_ms": 215866,
-      "name": "La C\u00e9lula Que Explota",
-      "url": "https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK"
+      "duration_ms": 288600,
+      "name": "Afuera",
+      "url": "https://open.spotify.com/track/3pJfnBjO3kjudEchcPEDxS"
+    },
+    {
+      "added_at": "2024-06-12 14:32:47",
+      "album": {
+        "name": "Programaton",
+        "url": "https://open.spotify.com/album/3UZ0vtpq3mGcr4J0kjveSD"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "Arrullo De Estrellas",
+      "url": "https://open.spotify.com/track/1p4rYrxjVkj6v2eMzRhLfA"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -247,22 +263,6 @@
       "duration_ms": 310146,
       "name": "As\u00ed Es la Vida",
       "url": "https://open.spotify.com/track/3q2aVABxuztNi3iS6h6qdB"
-    },
-    {
-      "added_at": "2024-06-12 14:32:47",
-      "album": {
-        "name": "Programaton",
-        "url": "https://open.spotify.com/album/3UZ0vtpq3mGcr4J0kjveSD"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Arrullo De Estrellas",
-      "url": "https://open.spotify.com/track/1p4rYrxjVkj6v2eMzRhLfA"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
-        "name": "El Nervio Del Volcan",
-        "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 294266,
-      "name": "Aqu\u00ed No Es As\u00ed",
-      "url": "https://open.spotify.com/track/02KG9DpLT3bV4fzUM1bORW"
-    },
-    {
-      "added_at": "2024-06-12 14:32:47",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 233266,
       "name": "Lobo-hombre en Par\u00eds",
       "url": "https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv"
+    },
+    {
+      "added_at": "2024-06-12 14:32:47",
+      "album": {
+        "name": "El Nervio Del Volcan",
+        "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 294266,
+      "name": "Aqu\u00ed No Es As\u00ed",
+      "url": "https://open.spotify.com/track/02KG9DpLT3bV4fzUM1bORW"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 225173,
-      "name": "Vendedora de Caricias",
-      "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
-    },
-    {
-      "added_at": "2024-06-12 14:32:47",
-      "album": {
         "name": "El Mar No Cesa- Edici\u00f3n Especial",
         "url": "https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 248986,
       "name": "H\u00e9roe de leyenda",
       "url": "https://open.spotify.com/track/6pAvXn45z0sktftypuEEzt"
+    },
+    {
+      "added_at": "2024-06-12 14:32:47",
+      "album": {
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 225173,
+      "name": "Vendedora de Caricias",
+      "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
-        "name": "Santana's Greatest Hits",
-        "url": "https://open.spotify.com/album/1YrdGK2y2Edq2R5gFja2ai"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        }
-      ],
-      "duration_ms": 196466,
-      "name": "Black Magic Woman - Single Version",
-      "url": "https://open.spotify.com/track/4YMQXzscifAREG0a7KNGhB"
-    },
-    {
-      "added_at": "2024-06-12 14:32:47",
-      "album": {
         "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
         "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 291493,
       "name": "Vivir Sin Aire",
       "url": "https://open.spotify.com/track/3G9RQLOSjsXVUDyQSv2PQR"
+    },
+    {
+      "added_at": "2024-06-12 14:32:47",
+      "album": {
+        "name": "Santana's Greatest Hits",
+        "url": "https://open.spotify.com/album/1YrdGK2y2Edq2R5gFja2ai"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 196466,
+      "name": "Black Magic Woman - Single Version",
+      "url": "https://open.spotify.com/track/4YMQXzscifAREG0a7KNGhB"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
+        "name": "Circo Beat",
+        "url": "https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 222346,
+      "name": "Mariposa tecknicolor",
+      "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
+    },
+    {
+      "added_at": "2024-06-12 14:32:47",
+      "album": {
         "name": "Abraxas",
         "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 225706,
       "name": "Putita",
       "url": "https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek"
-    },
-    {
-      "added_at": "2024-06-12 14:32:47",
-      "album": {
-        "name": "Circo Beat",
-        "url": "https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 222346,
-      "name": "Mariposa tecknicolor",
-      "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
+        "name": "Memo Rex Commander y el Coraz\u00f3n At\u00f3mico de la V\u00eda L\u00e1ctea",
+        "url": "https://open.spotify.com/album/1aHxOwnGJWLSB2KfiUPoZG"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 227373,
+      "name": "No Me Destruyas",
+      "url": "https://open.spotify.com/track/2DeK0E3KxFzuDbwKQo1A49"
+    },
+    {
+      "added_at": "2024-06-12 14:32:47",
+      "album": {
         "name": "Locura",
         "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 250357,
       "name": "Personalmente",
       "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
-    },
-    {
-      "added_at": "2024-06-12 14:32:47",
-      "album": {
-        "name": "Memo Rex Commander y el Coraz\u00f3n At\u00f3mico de la V\u00eda L\u00e1ctea",
-        "url": "https://open.spotify.com/album/1aHxOwnGJWLSB2KfiUPoZG"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 227373,
-      "name": "No Me Destruyas",
-      "url": "https://open.spotify.com/track/2DeK0E3KxFzuDbwKQo1A49"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
+        "name": "La Extraordinaria Paradoja Del Sonido Quijano",
+        "url": "https://open.spotify.com/album/5PvhfeSnVId3ZknKo9ztID"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+        }
+      ],
+      "duration_ms": 197320,
+      "name": "La Lola",
+      "url": "https://open.spotify.com/track/5hyq5k3Do9gW3HGvDg5ZEJ"
+    },
+    {
+      "added_at": "2024-06-12 14:32:47",
+      "album": {
         "name": "Hijos del pueblo",
         "url": "https://open.spotify.com/album/69JZWukakNJGpGhJILhyTl"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 212560,
       "name": "Aunque no sea conmigo",
       "url": "https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W"
-    },
-    {
-      "added_at": "2024-06-12 14:32:47",
-      "album": {
-        "name": "La Extraordinaria Paradoja Del Sonido Quijano",
-        "url": "https://open.spotify.com/album/5PvhfeSnVId3ZknKo9ztID"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Quijano",
-          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
-        }
-      ],
-      "duration_ms": 197320,
-      "name": "La Lola",
-      "url": "https://open.spotify.com/track/5hyq5k3Do9gW3HGvDg5ZEJ"
     },
     {
       "added_at": "2024-06-12 14:32:47",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-06-12 14:32:47",
       "album": {
-        "name": "Himno De Mi Corazon",
-        "url": "https://open.spotify.com/album/2oo9stWQLNM4eb5JCSoXGC"
-      },
-      "artists": [
-        {
-          "name": "Los Abuelos De La Nada",
-          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
-        }
-      ],
-      "duration_ms": 194226,
-      "name": "Lunes Por La Madrugada",
-      "url": "https://open.spotify.com/track/6VPIaZNNJFOY9U17geQz1o"
-    },
-    {
-      "added_at": "2024-06-12 14:32:47",
-      "album": {
         "name": "Clics Modernos",
         "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 206720,
       "name": "Nos Siguen Pegando Abajo",
       "url": "https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB"
+    },
+    {
+      "added_at": "2024-06-12 14:32:47",
+      "album": {
+        "name": "Himno De Mi Corazon",
+        "url": "https://open.spotify.com/album/2oo9stWQLNM4eb5JCSoXGC"
+      },
+      "artists": [
+        {
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
+        }
+      ],
+      "duration_ms": 194226,
+      "name": "Lunes Por La Madrugada",
+      "url": "https://open.spotify.com/track/6VPIaZNNJFOY9U17geQz1o"
     },
     {
       "added_at": "2024-06-12 14:32:47",

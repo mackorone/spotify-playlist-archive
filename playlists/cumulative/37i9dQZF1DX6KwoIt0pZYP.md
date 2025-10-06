@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-1,143 songs - 2 day 14 hr 8 min
+1,144 songs - 2 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,6 +455,7 @@
 | [I Guess That Was Goodbye](https://open.spotify.com/track/3mtSPmyeEkkqvHdXj7W4qg) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [I Guess That Was Goodbye](https://open.spotify.com/album/1Ta5G7cdU0U7yDjZjbvyVl) | 3:10 | 2022-02-11 | 2023-01-06 |
 | [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 | 2022-06-17 | 2022-08-27 |
 | [i hate u owe me $$](https://open.spotify.com/track/75RainG5pTfpOH1Hj937BU) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u owe me $$](https://open.spotify.com/album/6erAGsVqS76Ei8fu66QoKa) | 2:50 | 2022-09-02 | 2022-09-12 |
+| [i hope my cat loves me](https://open.spotify.com/track/3t586kGSELrw77TZvHSvIp) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [stay with the ocean, i'll find you](https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5) | 3:19 | 2025-10-02 |  |
 | [i just want to hear your voice](https://open.spotify.com/track/3R00EiW64MncJxDnXbEH7G) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [i just want to hear your voice](https://open.spotify.com/album/6jKuWGKfnMKo1XA0Eh7WCu) | 2:57 | 2023-09-17 | 2023-10-07 |
 | [i know it’s you](https://open.spotify.com/track/2gEUdv8NXw7D0AoUtb3srf) | [Narysal](https://open.spotify.com/artist/26iQVSr3VdWWAzy7fiN908), [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [i know it’s you](https://open.spotify.com/album/3YnPfbOOaCxmw3AlxH5g5H) | 3:19 | 2023-07-07 | 2023-07-29 |
 | [I Lost Me](https://open.spotify.com/track/0Q0CLCNClkMzKPZblMowcR) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [I Lost Me](https://open.spotify.com/album/4rDpW6sX82tXfGn3KIFJtl) | 3:19 | 2023-01-06 | 2023-01-27 |
@@ -982,7 +983,7 @@
 | [the moon is not here](https://open.spotify.com/track/28bqgkr7d0rMYRaJiOqXUB) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [the moon is not here](https://open.spotify.com/album/0HecTvp2QgaJ69MlhDZbol) | 3:07 | 2023-09-08 | 2023-09-18 |
 | [The Night feat\. CHAD](https://open.spotify.com/track/0zaNYfgZk0dbW4DuLZ4UqI) | [TAKE AWAY.](https://open.spotify.com/artist/5TwqbQyqvValzUppb7QHU1), [CHAD](https://open.spotify.com/artist/6dPyL3IZYAOSZ5hxM1QSWB) | [The Night](https://open.spotify.com/album/7n8s3zkhu7FRSgT8SYmWWZ) | 4:05 | 2023-11-13 | 2023-11-18 |
 | [The Ones We Once Loved](https://open.spotify.com/track/6YjKd9oPXKqjLUVPo4Y0oi) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Ones We Once Loved](https://open.spotify.com/album/0276LtRwBrOo2uoRlTOiPX) | 4:33 | 2022-08-26 | 2024-12-14 |
-| [The Other Piece Of My Heart](https://open.spotify.com/track/7Glllm4Dytz70wdJizyZt6) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [HONEYMOOD](https://open.spotify.com/album/7K9xdvayXXWMHwPdXvNCun) | 2:29 | 2025-10-02 |  |
+| [The Other Piece Of My Heart](https://open.spotify.com/track/7Glllm4Dytz70wdJizyZt6) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [HONEYMOOD](https://open.spotify.com/album/7K9xdvayXXWMHwPdXvNCun) | 2:29 | 2025-10-02 | 2025-10-06 |
 | [The Outsider](https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider](https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798) | 3:00 | 2022-03-11 | 2023-06-09 |
 | [the space between us](https://open.spotify.com/track/4s0m05iPPuTeFlJxAQivGy) | [siopaolo](https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf) | [the space between us](https://open.spotify.com/album/3MW0W3uEDPpMQyzdVJ9xAx) | 4:13 | 2024-03-08 |  |
 | [The Trip](https://open.spotify.com/track/0UUwjvjJpPglNiGjJzk5dn) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [The Trip](https://open.spotify.com/album/0OUuOt452BNPn74et9Iqnr) | 3:46 | 2022-06-24 | 2022-07-19 |

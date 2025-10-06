@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Last Train",
-  "num_followers": 53760,
+  "num_followers": 53783,
   "original_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "Nevermind the Living Dead",
-        "url": "https://open.spotify.com/album/0104yYvLVYm2mVaUVtWuVW"
-      },
-      "artists": [
-        {
-          "name": "Stuck in the Sound",
-          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Toy Boy",
-      "url": "https://open.spotify.com/track/0vTRJ32D1tg11WnXc0CIq9"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
         "name": "Vegas 76",
         "url": "https://open.spotify.com/album/6RMd6TThidQTzQVe2JicLG"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 181573,
       "name": "Va y avoir du sport",
       "url": "https://open.spotify.com/track/1oE5WEHiHjbS4VKOCF6O2F"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
+        "name": "Nevermind the Living Dead",
+        "url": "https://open.spotify.com/album/0104yYvLVYm2mVaUVtWuVW"
+      },
+      "artists": [
+        {
+          "name": "Stuck in the Sound",
+          "url": "https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Toy Boy",
+      "url": "https://open.spotify.com/track/0vTRJ32D1tg11WnXc0CIq9"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "Singles Collection (2001 - 2021)",
-        "url": "https://open.spotify.com/album/73W988ag6ew4iiNTbgMU0C"
-      },
-      "artists": [
-        {
-          "name": "Indochine",
-          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
-        }
-      ],
-      "duration_ms": 208986,
-      "name": "Alice & June - Mix 2020",
-      "url": "https://open.spotify.com/track/7taoYAfDTtuI5dxSBeijUO"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
         "name": "Cr\u00e8vecoeur (2019 remastered)",
         "url": "https://open.spotify.com/album/5brOhiGaSGy404g0CaY3Yf"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 199960,
       "name": "Je me souviens, je me rappelle",
       "url": "https://open.spotify.com/track/3vgmRlBi986YeWV95UNgJ6"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
+        "name": "Singles Collection (2001 - 2021)",
+        "url": "https://open.spotify.com/album/73W988ag6ew4iiNTbgMU0C"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "duration_ms": 208986,
+      "name": "Alice & June - Mix 2020",
+      "url": "https://open.spotify.com/track/7taoYAfDTtuI5dxSBeijUO"
     },
     {
       "added_at": "2024-06-24 19:56:15",

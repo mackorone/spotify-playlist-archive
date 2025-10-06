@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,426,432 likes - 200 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,426,543 likes - 200 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 18 | [Loft Room](https://open.spotify.com/track/6uDcf4yMECdvrTVUc06Gfn) | [Rainbows & Clouds](https://open.spotify.com/artist/4MItiv8qg42Ph7bWuCsOTg) | [Loft Room](https://open.spotify.com/album/1MueD7LqO77Oh55GwLXbAE) | 2:37 |
 | 19 | [florale](https://open.spotify.com/track/2CZf8wYy8bkDYDnEyBiA2J) | [jean opal](https://open.spotify.com/artist/4vSheQ1c3KW4v7MOrPE7ql) | [florale](https://open.spotify.com/album/6B8hAqpnaGr72Ve6OQJwLL) | 2:22 |
 | 20 | [Old Friends](https://open.spotify.com/track/4ipco4orDngfmTXSaiBm4x) | [Oroshi](https://open.spotify.com/artist/3gqs8fHrmLkMfjT5BI1bNh) | [Old Friends](https://open.spotify.com/album/7MgEFOHLuO16karUWsZ19V) | 2:33 |
-| 21 | [Moments](https://open.spotify.com/track/5DgL5cDpuLQUAwVMX3aHEI) | [Lowsen](https://open.spotify.com/artist/2fXix1vqplIj0R5bxsMHUs), [Oulfen](https://open.spotify.com/artist/4QuQHfnhvbEULD9fUyHbAk) | [Moments](https://open.spotify.com/album/3jQuRpypLM0JAu87kKtcHK) | 2:13 |
+| 21 | [Moments](https://open.spotify.com/track/5DgL5cDpuLQUAwVMX3aHEI) | [Lowsen](https://open.spotify.com/artist/2fXix1vqplIj0R5bxsMHUs), [Ouflen](https://open.spotify.com/artist/1RFUrCY2wxQaLw6NjAnnT7) | [Moments](https://open.spotify.com/album/3jQuRpypLM0JAu87kKtcHK) | 2:13 |
 | 22 | [back alone](https://open.spotify.com/track/2M308BE21jeTq0miYBzfxY) | [low pines](https://open.spotify.com/artist/0vVUkxt48ozguY3xh3ntKg) | [back alone](https://open.spotify.com/album/5lad2wFyWZMyAUBHH2zf22) | 2:11 |
 | 23 | [Rearview](https://open.spotify.com/track/7gEZsQNuTYbLiMmr8LmXhQ) | [Dondie](https://open.spotify.com/artist/519dbDArl4MXSfg1TS8DL0) | [Rearview](https://open.spotify.com/album/7ddV6wfDMPe1xOJjgGpsEN) | 2:27 |
 | 24 | [Wandering Haze](https://open.spotify.com/track/57VbofiK1Eo7t0p8KbrpDq) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [Wandering Haze](https://open.spotify.com/album/64s2zGZ00i6dwoaMelNHi0) | 2:28 |

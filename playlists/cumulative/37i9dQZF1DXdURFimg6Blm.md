@@ -4,7 +4,7 @@
 
 > Boost your energy with these dance tracks.
 
-639 songs - 1 day 7 hr 28 min
+640 songs - 1 day 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2022-01-07 | 2022-04-09 |
 | [Drag Me Out](https://open.spotify.com/track/2SDG2dYcoW5ksPGsiFGt7V) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Drag Me Out](https://open.spotify.com/album/2ulgg6hyu3NPgjpURpNYfs) | 2:19 | 2022-03-18 | 2022-07-30 |
 | [Dream A Little Dream](https://open.spotify.com/track/3QLYpJeGjyLMIDj7roEphJ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Dream A Little Dream](https://open.spotify.com/album/0zM0LsWsNxdXAkNCGpli9B) | 2:56 | 2025-04-25 | 2025-09-24 |
-| [Dreamin \(feat\. Daya\)](https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Dreamin \(feat\. Daya\)](https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN) | 2:51 | 2025-02-07 |  |
+| [Dreamin \(feat\. Daya\)](https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Dreamin \(feat\. Daya\)](https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN) | 2:51 | 2025-02-07 | 2025-10-06 |
 | [Drifting](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Drifting](https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG) | 2:27 | 2023-07-07 | 2023-11-11 |
 | [Drinkin'](https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Drinkin'](https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI) | 2:29 | 2023-09-15 | 2024-06-22 |
 | [Drinks on MI](https://open.spotify.com/track/3EnaAIwiciqClp6bnI40gr) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Silver & Gold \- Chapter II](https://open.spotify.com/album/6IffxaOUNV88w4yxw561vT) | 2:41 | 2023-03-06 | 2023-04-22 |
@@ -593,6 +593,7 @@
 | [Unbreakable](https://open.spotify.com/track/6QGHCildW0p2nnrxE4BHsy) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Nataliya Nikitenko](https://open.spotify.com/artist/26PbdWuDsJPMLPA4vTveNE) | [Unbreakable](https://open.spotify.com/album/0It16o9TunM1CVf22U1Dc5) | 2:45 | 2022-04-08 | 2022-07-29 |
 | [Unbreakable \(with Sam Gray\)](https://open.spotify.com/track/1ymsN94JMOSZncP5WETfSh) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Unbreakable \(with Sam Gray\)](https://open.spotify.com/album/6yD8EL3S9KrIysOAHv08LE) | 3:03 | 2022-01-07 | 2022-03-12 |
 | [Until The Lights Go Out](https://open.spotify.com/track/6xmWDLQBuBjWBc0Ary6wUj) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [CARMA](https://open.spotify.com/artist/5gp0qfvidEBit8aWKh18NA) | [Until The Lights Go Out](https://open.spotify.com/album/6eTCjsz3UJzuGEHVpMXSRZ) | 3:11 | 2025-05-23 | 2025-07-12 |
+| [Up Down](https://open.spotify.com/track/5jqEybi7fIl2BpT0njbfhO) | [bradeazy](https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI), [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [Up Down](https://open.spotify.com/album/3rClZY3iOdiE4bwY6P25hY) | 2:52 | 2025-09-26 |  |
 | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm) | 2:54 | 2023-04-21 | 2024-04-30 |
 | [Used To This](https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Used to This](https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm) | 3:46 | 2022-01-07 | 2022-04-09 |
 | [Vent](https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds) | [NOIT](https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC) | [Vent](https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU) | 2:56 | 2024-04-19 | 2025-04-16 |

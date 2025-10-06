@@ -1,12 +1,12 @@
 {
   "description": "This is Nina Simone. The essential tracks, all in one playlist.",
-  "num_followers": 502575,
+  "num_followers": 502627,
   "original_name": "This Is Nina Simone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAACaARqAuSjkJJ6TGuoaicZp",
+  "snapshot_id": "aOBjgAAAAACRMnTiXnXNQpWOn5OLeIuf",
   "tracks": [
     {
       "added_at": null,
@@ -63,6 +63,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Silk & Soul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 188613,
+      "name": "I Wish I Knew How It Would Feel to Be Free",
+      "url": "https://open.spotify.com/track/5CKHhg31HcYYhwUeeGqvhq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sinnerman (Sofi Tukker Remix)",
         "url": "https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 232632,
       "name": "Sinnerman - Sofi Tukker Remix",
       "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Silk & Soul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 188613,
-      "name": "I Wish I Knew How It Would Feel to Be Free",
-      "url": "https://open.spotify.com/track/5CKHhg31HcYYhwUeeGqvhq"
     },
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 125960,
-      "name": "Take Care Of Business",
-      "url": "https://open.spotify.com/track/2YwjSPeznyCvkUYvqKbXa9"
+      "duration_ms": 214533,
+      "name": "Ne Me Quitte Pas",
+      "url": "https://open.spotify.com/track/6illsnZ2rn1lCzXY9gBC28"
     },
     {
       "added_at": null,
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 214533,
-      "name": "Ne Me Quitte Pas",
-      "url": "https://open.spotify.com/track/6illsnZ2rn1lCzXY9gBC28"
+      "duration_ms": 125960,
+      "name": "Take Care Of Business",
+      "url": "https://open.spotify.com/track/2YwjSPeznyCvkUYvqKbXa9"
     },
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 164986,
-      "name": "Do I Move You?",
-      "url": "https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6"
+      "duration_ms": 168106,
+      "name": "One September Day",
+      "url": "https://open.spotify.com/track/2Y2M7TztqchZwMoszbYapJ"
     },
     {
       "added_at": null,
@@ -583,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Put A Spell On You",
-        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 168306,
-      "name": "Tomorrow Is My Turn",
-      "url": "https://open.spotify.com/track/3cfz4PB3iCqG12StNkKvRo"
+      "duration_ms": 164986,
+      "name": "Do I Move You?",
+      "url": "https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
       "duration_ms": 290080,
       "name": "Just Like a Woman",
       "url": "https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 168306,
+      "name": "Tomorrow Is My Turn",
+      "url": "https://open.spotify.com/track/3cfz4PB3iCqG12StNkKvRo"
     },
     {
       "added_at": null,
@@ -643,22 +659,6 @@
       "duration_ms": 148826,
       "name": "Backlash Blues",
       "url": "https://open.spotify.com/track/2bdapwYVEGpGWxlx3iooAB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Put A Spell On You",
-        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 168106,
-      "name": "One September Day",
-      "url": "https://open.spotify.com/track/2Y2M7TztqchZwMoszbYapJ"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 176413,
-      "name": "In the Dark",
-      "url": "https://open.spotify.com/track/1EJNVmLt3wnssius7WVE2l"
+      "duration_ms": 264666,
+      "name": "Four Women",
+      "url": "https://open.spotify.com/track/7urjzeGBtfHdwWmfYJjdAp"
     }
   ],
   "unique_name": "This Is Nina Simone",

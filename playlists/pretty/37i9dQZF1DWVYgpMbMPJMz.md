@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Matt Redman
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,031,388 likes - 90 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,031,356 likes - 90 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

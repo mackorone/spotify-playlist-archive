@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/41CdF19fdLj0raHQbE7LLz.md) - [plain]
 
 > &\#x27;Spektre&\#x27;s Selection&\#x27; is a weekly updated playlist of the freshest techno straight from their crate! Get following! \#respekt
 
-[spektrelive](https://open.spotify.com/user/spektrelive) - 1,407 likes - 97 songs - 7 hr 58 min
+[spektrelive](https://open.spotify.com/user/spektrelive) - 1,408 likes - 97 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Django Reinhardt\. The essential tracks, all in one playlist.
 
-59 songs - 2 hr 56 min
+60 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Billets Doux](https://open.spotify.com/track/2BsOqXWv9LMNBaSzaznPFv) | [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [St\. Louis Blues](https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2) | 2:57 | 2025-07-20 |  |
 | [Brazil](https://open.spotify.com/track/3ctsORVoVEDUxLpQAL0zOC) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf) | 2:48 | 2025-07-20 | 2025-08-18 |
 | [Brazil](https://open.spotify.com/track/7EgyUrTd8PQIbMzRVRFeGC) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/5CWvYQgJZhqRZrHLXvTOmw) | 2:48 | 2025-08-18 |  |
+| [Chasing Shadows](https://open.spotify.com/track/6oM4MacpuZJH6VUhIQfy3L) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [Bioshock 2: The Official Soundtrack \- Music From And Inspired By The Game](https://open.spotify.com/album/36ND4UndVMbE4FlGAd90F0) | 2:57 | 2025-10-06 |  |
 | [Coucou](https://open.spotify.com/track/0e7Ad0iVKsuzU3K7LU5v08) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [War Clouds 1940](https://open.spotify.com/album/3EBERH7EzZK7zFN2PvOoEx) | 2:43 | 2025-07-20 |  |
 | [Django's Tiger](https://open.spotify.com/track/7D0Vzk7rZ6ncTFZj3AqT84) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol15 / 1946 \- 1947](https://open.spotify.com/album/1sUg8G0j9lPHSQExj5Q797) | 2:38 | 2025-07-20 |  |
 | [Djangology](https://open.spotify.com/track/0mbJ17SU7NN2hWjRfYvOTL) | [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [European Swing Giants, Vol.6: Django Reinhardt –The Ultraphone Sessions \(Paris 1934\-1935\) and Rhythme \(Brussels 1942\)](https://open.spotify.com/album/4zbu4MDyQI8T91XMLHhJzB) | 2:53 | 2025-07-20 | 2025-08-14 |

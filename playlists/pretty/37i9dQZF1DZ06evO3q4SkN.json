@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAABijtcbDpSVqdUonyYrkhAH",
+  "snapshot_id": "aOBjgAAAAAC4LVU3bv2XmbNhhIUTl9K3",
   "tracks": [
     {
       "added_at": null,
@@ -131,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
+        "name": "The Mother (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 35842,
-      "name": "Wagon Discovery",
-      "url": "https://open.spotify.com/track/1PXbbMQvEhmVLRrvESSeA6"
+      "duration_ms": 108600,
+      "name": "She's Mine",
+      "url": "https://open.spotify.com/track/4fV0XLAcaK9Z5QQpsRP6eM"
     },
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mother (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 102600,
-      "name": "Mother To Mother",
-      "url": "https://open.spotify.com/track/0PCLZXHh7EiqzaL5kwYoPX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Margarita (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp"
       },
@@ -211,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Mother (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 198120,
+      "name": "Havana Flashback",
+      "url": "https://open.spotify.com/track/6ZcuL8PMsy7QWo5To1RVdG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
       },
@@ -223,6 +223,22 @@
       "duration_ms": 128345,
       "name": "Meet La Familia",
       "url": "https://open.spotify.com/track/2p9OhUXRl2hACpmw9M9JvO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 35842,
+      "name": "Wagon Discovery",
+      "url": "https://open.spotify.com/track/1PXbbMQvEhmVLRrvESSeA6"
     },
     {
       "added_at": null,
@@ -260,25 +276,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 108600,
-      "name": "She's Mine",
-      "url": "https://open.spotify.com/track/4fV0XLAcaK9Z5QQpsRP6eM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 86133,
-      "name": "Simiana Derby Race",
-      "url": "https://open.spotify.com/track/2LTelmAAj58iqRUmjxWwiq"
+      "duration_ms": 188800,
+      "name": "Evolution",
+      "url": "https://open.spotify.com/track/3aEvSGLsszY6CHUjoI8ayJ"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mother (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Evolution",
-      "url": "https://open.spotify.com/track/3aEvSGLsszY6CHUjoI8ayJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Margarita (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp"
       },
@@ -347,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Mother (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 138653,
+      "name": "Dear Zoe",
+      "url": "https://open.spotify.com/track/71bvni2XSb2PD9ab7sJNZx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
       },
@@ -359,6 +359,22 @@
       "duration_ms": 87200,
       "name": "El R\u00edo",
       "url": "https://open.spotify.com/track/6NU17xd9hC8JZCcYc2cTE8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 86133,
+      "name": "Simiana Derby Race",
+      "url": "https://open.spotify.com/track/2LTelmAAj58iqRUmjxWwiq"
     },
     {
       "added_at": null,
@@ -388,9 +404,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 167483,
-      "name": "Fire and Ice",
-      "url": "https://open.spotify.com/track/6ORJOggTLQzfF8I5dsR5av"
+      "duration_ms": 102600,
+      "name": "Mother To Mother",
+      "url": "https://open.spotify.com/track/0PCLZXHh7EiqzaL5kwYoPX"
     },
     {
       "added_at": null,
@@ -400,21 +416,13 @@
       },
       "artists": [
         {
-          "name": "Federico Ramos",
-          "url": "https://open.spotify.com/artist/21KfnWJ8r1OSD9sNEKrLfm"
-        },
-        {
           "name": "Germaine Franco",
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        },
-        {
-          "name": "Gabriela Martinez",
-          "url": "https://open.spotify.com/artist/6DxYmXAvO5MWIOvnwltlLk"
         }
       ],
-      "duration_ms": 144250,
-      "name": "No Me Dejes Atr\u00e1s (feat. Gabriela Martinez)",
-      "url": "https://open.spotify.com/track/146AOJ6INXeSHQEWjYHqsr"
+      "duration_ms": 167316,
+      "name": "Tango De Las Mujeres",
+      "url": "https://open.spotify.com/track/5juqZzFeCNW7xsY2FS82e5"
     },
     {
       "added_at": null,
@@ -475,18 +483,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
+        "name": "Margarita (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp"
       },
       "artists": [
         {
+          "name": "Federico Ramos",
+          "url": "https://open.spotify.com/artist/21KfnWJ8r1OSD9sNEKrLfm"
+        },
+        {
           "name": "Germaine Franco",
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        },
+        {
+          "name": "Gabriela Martinez",
+          "url": "https://open.spotify.com/artist/6DxYmXAvO5MWIOvnwltlLk"
         }
       ],
-      "duration_ms": 54373,
-      "name": "Don't Give Up You Two",
-      "url": "https://open.spotify.com/track/6MyB4Txgtsq7YTHMAOPD71"
+      "duration_ms": 144250,
+      "name": "No Me Dejes Atr\u00e1s (feat. Gabriela Martinez)",
+      "url": "https://open.spotify.com/track/146AOJ6INXeSHQEWjYHqsr"
     },
     {
       "added_at": null,
@@ -527,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mother (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
+        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
       },
       "artists": [
         {
@@ -536,25 +552,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 114920,
-      "name": "A Life Apart",
-      "url": "https://open.spotify.com/track/7DWCtu846C9kSdacjgLycc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Margarita (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 167316,
-      "name": "Tango De Las Mujeres",
-      "url": "https://open.spotify.com/track/5juqZzFeCNW7xsY2FS82e5"
+      "duration_ms": 54373,
+      "name": "Don't Give Up You Two",
+      "url": "https://open.spotify.com/track/6MyB4Txgtsq7YTHMAOPD71"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
       "duration_ms": 112000,
       "name": "George's Realization",
       "url": "https://open.spotify.com/track/62cl94B6a9VBUYRShcF6dp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 84650,
-      "name": "Arriving to Ginny's Farm",
-      "url": "https://open.spotify.com/track/638Nk6e23crFjluIBPWIk1"
     },
     {
       "added_at": null,
@@ -623,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 84650,
+      "name": "Arriving to Ginny's Farm",
+      "url": "https://open.spotify.com/track/638Nk6e23crFjluIBPWIk1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
       },
@@ -635,22 +635,6 @@
       "duration_ms": 87013,
       "name": "Masks And Mirrors",
       "url": "https://open.spotify.com/track/6xdlu35n0Vd1LpQqKBnfW0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 88053,
-      "name": "A Storm Approaches",
-      "url": "https://open.spotify.com/track/62xeNjaW13mCaCtNzD1dMB"
     },
     {
       "added_at": null,
@@ -691,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tag (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3C7wBD6rACNfc21SL9Y1US"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 114346,
-      "name": "Cheryl Deakins",
-      "url": "https://open.spotify.com/track/2uRyuUBwKnJ4HMBhHLY6KI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
       },
@@ -716,9 +684,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 83293,
-      "name": "Big City Train",
-      "url": "https://open.spotify.com/track/1QF7uHKcbn3pUylZMVL6lT"
+      "duration_ms": 88053,
+      "name": "A Storm Approaches",
+      "url": "https://open.spotify.com/track/62xeNjaW13mCaCtNzD1dMB"
     },
     {
       "added_at": null,
@@ -767,6 +735,22 @@
       "duration_ms": 121346,
       "name": "Summer Passes Into Autumn",
       "url": "https://open.spotify.com/track/4XuC1b3xLK3O2zmFppHRwc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 83293,
+      "name": "Big City Train",
+      "url": "https://open.spotify.com/track/1QF7uHKcbn3pUylZMVL6lT"
     }
   ],
   "unique_name": "This Is Germaine Franco",

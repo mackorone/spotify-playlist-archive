@@ -1,12 +1,12 @@
 {
   "description": "This is Machine Head. The essential tracks, all in one playlist.",
-  "num_followers": 62245,
+  "num_followers": 62249,
   "original_name": "This Is Machine Head",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAAC74X917gJdalmKD+nUKwAR",
+  "snapshot_id": "aOBjgAAAAABXbw+p4Z4pH/L/0erbFclw",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn My Eyes",
-        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 286706,
-      "name": "The Rage to Overcome",
-      "url": "https://open.spotify.com/track/4Xv2j9s22GodhZ12kUnOmW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bloodstone & Diamonds",
         "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 366467,
       "name": "Ghosts Will Haunt My Bones",
       "url": "https://open.spotify.com/track/0VWbvw6PcVSLgKZCpnxBiw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burn My Eyes",
+        "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 286706,
+      "name": "The Rage to Overcome",
+      "url": "https://open.spotify.com/track/4Xv2j9s22GodhZ12kUnOmW"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
-        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 625720,
-      "name": "SLAUGHTER THE MARTYR",
-      "url": "https://open.spotify.com/track/1pKNdeaS07seG0NANKcB8p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Burning Red",
         "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 288600,
       "name": "Desire to Fire",
       "url": "https://open.spotify.com/track/4HVymfRIpYsw37K0at1FbK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 625720,
+      "name": "SLAUGHTER THE MARTYR",
+      "url": "https://open.spotify.com/track/1pKNdeaS07seG0NANKcB8p"
     },
     {
       "added_at": null,

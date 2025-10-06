@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 205923,
+  "num_followers": 205956,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAAAsTXboVCTZNLHVz9iAGvAH",
+  "snapshot_id": "aOBjgAAAAACDx4wu07XinwWfOlHEpgp6",
   "tracks": [
     {
       "added_at": null,
@@ -531,6 +531,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revival's In The Air (Live)",
+        "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 526890,
+      "name": "Champion (Live)",
+      "url": "https://open.spotify.com/track/55dcgR4fGVMo6rpEYpEZUi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Holy Hands (Live)",
         "url": "https://open.spotify.com/album/0TlNPCiRxU36TmSo9ovB6P"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 434745,
       "name": "Holy Hands - Live",
       "url": "https://open.spotify.com/track/1CRnlPeWgRyep3kfulcaVp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revival's In The Air (Live)",
-        "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        }
-      ],
-      "duration_ms": 526890,
-      "name": "Champion (Live)",
-      "url": "https://open.spotify.com/track/55dcgR4fGVMo6rpEYpEZUi"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
         }
       ],
-      "duration_ms": 373371,
-      "name": "He Has Done Great Things - Live",
-      "url": "https://open.spotify.com/track/44xhaEDPSwHTo7YXL6yZsc"
+      "duration_ms": 146993,
+      "name": "You're Worthy of My Praise/As The Deer - Live",
+      "url": "https://open.spotify.com/track/0z3CNIaZ6g6Pw5v4OocpFQ"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
         }
       ],
-      "duration_ms": 146993,
-      "name": "You're Worthy of My Praise/As The Deer - Live",
-      "url": "https://open.spotify.com/track/0z3CNIaZ6g6Pw5v4OocpFQ"
+      "duration_ms": 373371,
+      "name": "He Has Done Great Things - Live",
+      "url": "https://open.spotify.com/track/44xhaEDPSwHTo7YXL6yZsc"
     },
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Must Respond (Live)",
-        "url": "https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Hannah McClure",
-          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
-        }
-      ],
-      "duration_ms": 437655,
-      "name": "Even Though I Walk - Live",
-      "url": "https://open.spotify.com/track/4zAIwci5B82d59OhGOkJRl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 339041,
       "name": "Reckless Love",
       "url": "https://open.spotify.com/track/3UwwW9Ymz3xob5SxHx4uLO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Must Respond (Live)",
+        "url": "https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Hannah McClure",
+          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
+        }
+      ],
+      "duration_ms": 437655,
+      "name": "Even Though I Walk - Live",
+      "url": "https://open.spotify.com/track/4zAIwci5B82d59OhGOkJRl"
     },
     {
       "added_at": null,

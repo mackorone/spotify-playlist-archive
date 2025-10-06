@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 
 > Only hits! Cover\- 'Sahiba' by Jasleen Royal and Stebin Ben
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,322 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,355 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 | 38 | [Dost Banke](https://open.spotify.com/track/2k0D2OXWXwuwBPXLQQYmZx) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz) | [Dost Banke](https://open.spotify.com/album/4Ira2DDLEUgXmL6t4UA95V) | 4:49 |
 | 39 | [She Move It Like](https://open.spotify.com/track/39vrbjCMTRXEdiIr2IsBgd) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [ONE \(Original Never Ends\)](https://open.spotify.com/album/1g1jWkfmIQPBwbUBc7VxTw) | 3:01 |
 | 40 | [Filhall](https://open.spotify.com/track/7DE0I3buHcns00C0YEsYsY) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Akshay Kumar](https://open.spotify.com/artist/0w0mlcvl7QH28Cs28O6waY), [Nupur Sanon](https://open.spotify.com/artist/2vCsnF6h4c2b1csudqJiV5) | [Filhall](https://open.spotify.com/album/6qc16gUvik05h9ztn3OwHn) | 4:15 |
-| 41 | [Buzz \(feat\. Badshah\)](https://open.spotify.com/track/3XYvdqcZrTmRntFDDbJkJd) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Buzz \(feat\. Badshah\)](https://open.spotify.com/album/5cPn3sDy8jjN5gnA0n0kHd) | 3:13 |
-| 42 | [Dance Like](https://open.spotify.com/track/36EPfDEkfLYQLt8Fvced8x) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Dance Like](https://open.spotify.com/album/4eVSYKLFcL0PuWDPzU47li) | 2:51 |
+| 41 | [Dance Like](https://open.spotify.com/track/36EPfDEkfLYQLt8Fvced8x) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Dance Like](https://open.spotify.com/album/4eVSYKLFcL0PuWDPzU47li) | 2:51 |
+| 42 | [Buzz \(feat\. Badshah\)](https://open.spotify.com/track/3XYvdqcZrTmRntFDDbJkJd) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Buzz \(feat\. Badshah\)](https://open.spotify.com/album/5cPn3sDy8jjN5gnA0n0kHd) | 3:13 |
 | 43 | [TERE TE](https://open.spotify.com/track/0ptqV9ySE8HVbWblGdv3Eb) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl) | [HIDDEN GEMS](https://open.spotify.com/album/69VUBIbtxtouNd7eKKD6BI) | 1:54 |
 | 44 | [Morni](https://open.spotify.com/track/3jPLJbSL14oH6pcSLIaMGJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Sharvi Yadav](https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Morni](https://open.spotify.com/album/1xWp8jVcJqW40Aey8il8wE) | 2:51 |
 | 45 | [Akhiyan](https://open.spotify.com/track/6Bfd1hyQ5AOqiBHlA3AAck) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [MERCURY](https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW) | 2:34 |

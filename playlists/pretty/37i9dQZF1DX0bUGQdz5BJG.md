@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Brendan Walter
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,611 likes - 203 songs - 10 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,631 likes - 203 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

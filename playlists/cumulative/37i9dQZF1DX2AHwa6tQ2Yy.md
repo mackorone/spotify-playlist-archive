@@ -4,7 +4,7 @@
 
 > Try a little tenderness\. Cover: Bumpy
 
-337 songs - 20 hr 54 min
+338 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Julia](https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Julia](https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV) | 3:09 | 2025-07-31 |  |
 | [Just Fine](https://open.spotify.com/track/49NvEjTPk04A5bUGOYfti4) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Just Fine](https://open.spotify.com/album/3i18iObygAdcU1eRyYgK0A) | 2:54 | 2023-08-10 | 2024-04-19 |
 | [Just Fine](https://open.spotify.com/track/5OEha6DVSo75Cvg0qNFHaP) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Just Fine](https://open.spotify.com/album/2KnEJL8yLVFBzS8ZneL1kC) | 2:54 | 2022-06-23 | 2023-07-27 |
+| [Just How You Are](https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Just How You Are](https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw) | 3:14 | 2025-10-02 |  |
 | [Kanana](https://open.spotify.com/track/5KNbuqKLvnMkJpW29vcUgJ) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Kanana](https://open.spotify.com/album/1xCw5CbamxGX0iWfQxLZky) | 5:35 | 2025-07-11 | 2025-10-03 |
 | [Keep Walkin'](https://open.spotify.com/track/2wDdtIewggQNN3pLuFPVkF) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Keep Walkin'](https://open.spotify.com/album/5GKeUrkkzL3np1csd75Yk8) | 3:30 | 2025-07-14 | 2025-08-01 |
 | [Keep Walkin'](https://open.spotify.com/track/78eKLWFEiP9QigCvronTXN) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Keep Walkin'](https://open.spotify.com/album/6c5OThz1oFTpUzXQzKmyXb) | 3:30 | 2025-07-31 | 2025-10-03 |
@@ -230,7 +231,7 @@
 | [Pieces](https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Pieces](https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA) | 5:52 | 2022-09-08 | 2023-04-20 |
 | [Please Don't Go](https://open.spotify.com/track/7js5qnk3hGWb20H263sXWZ) | [Liliana](https://open.spotify.com/artist/1iRSAN1d2YuiQaOHvLMhwF), [Cam Noble](https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV) | [Please Don't Go](https://open.spotify.com/album/3hqERMu6KirdARs43Kr6JT) | 2:08 | 2022-06-02 | 2025-07-11 |
 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 | 2025-07-11 |  |
-| [Prototype](https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 5:26 | 2025-07-11 |  |
+| [Prototype](https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 5:26 | 2025-07-11 | 2025-10-06 |
 | [Proven \(with Rick Ross\)](https://open.spotify.com/track/1ReSAuZPXUTXYFHIHaLqyG) | [Nia Sultana](https://open.spotify.com/artist/1L8An7RfJbMW7zBy2fE0Tz), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Bigger Dreams](https://open.spotify.com/album/7g0ZUn505parZAzW477hHd) | 4:27 | 2022-06-02 | 2024-05-22 |
 | [Put D'Angelo On](https://open.spotify.com/track/1QJp8dIzUSg9c1pXLmqGNB) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Put D'Angelo On](https://open.spotify.com/album/1bzYIO6OIHcokJvgbAZj4s) | 3:07 | 2022-06-02 | 2023-01-20 |
 | [Put It On Hold](https://open.spotify.com/track/6VXBOJfGbi8LFr6LItukTc) | [Mo’Ju](https://open.spotify.com/artist/08kSC3EyOASw4LU1BmBG6g) | [Put It On Hold](https://open.spotify.com/album/2N0um43ZRVVPA8Hn4fQ8Il) | 2:36 | 2022-06-02 | 2022-07-22 |

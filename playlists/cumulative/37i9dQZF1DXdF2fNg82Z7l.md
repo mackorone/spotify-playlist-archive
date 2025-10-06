@@ -4,7 +4,7 @@
 
 > a strictly smooth mood...cover: Kehlani
 
-264 songs - 13 hr 58 min
+265 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Homicide \(with Jessie Reyez\)](https://open.spotify.com/track/2vVUevSgxbWBub5zW7rQPO) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Homicide](https://open.spotify.com/album/5MEbCYZLR7HGbZP45NrhrW) | 3:01 | 2024-03-14 | 2024-10-05 |
 | [Hot Body](https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hot Body](https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z) | 2:40 | 2025-07-24 |  |
 | [How They Shine](https://open.spotify.com/track/3kdiRPcRID348yBfz7fiMo) | [Ms Ray](https://open.spotify.com/artist/1OwAcRe2gUEpDZhLAkiLRp) | [Wow Is Now](https://open.spotify.com/album/0ALdyqVpp2tx8WH8v3Qwht) | 4:38 | 2025-03-19 | 2025-04-29 |
+| [I Need Her](https://open.spotify.com/track/6g8YoqKjS1OqW0MXo1DyeL) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 2:37 | 2025-10-02 |  |
 | [I Suppose](https://open.spotify.com/track/7qRCVfjifWMt3q2MVfV8mV) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [I Suppose](https://open.spotify.com/album/3IwL1d0FNDwEjm3GEYMbJ0) | 3:42 | 2024-03-14 | 2024-10-05 |
 | [I'll Call U Back](https://open.spotify.com/track/6zfVYM5Nne0EzpjzYfJKwp) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY) | 1:57 | 2024-10-04 |  |
 | [I'm a Rock](https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Honeycomb](https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc) | 3:24 | 2024-10-24 | 2025-04-29 |
@@ -123,7 +124,7 @@
 | [Lil' Obsession](https://open.spotify.com/track/0GCXmACrAH2yDE8g3Fvuqn) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Lil' Obsession](https://open.spotify.com/album/4w5kf2SU2JQ6NV0CZcTpTt) | 3:01 | 2025-04-29 | 2025-06-09 |
 | [Liquor and Weed](https://open.spotify.com/track/0o4HDwcuJ6RVHVtcOGq8rB) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Blue Moon](https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU) | 2:37 | 2024-03-14 | 2024-10-05 |
 | [Location](https://open.spotify.com/track/3yk7PJnryiJ8mAPqsrujzf) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 2:48 | 2024-10-04 |  |
-| [Lookin](https://open.spotify.com/track/1UAmQe8EwpxQ80OfYVD13z) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 3:03 | 2024-10-04 |  |
+| [Lookin](https://open.spotify.com/track/1UAmQe8EwpxQ80OfYVD13z) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 3:03 | 2024-10-04 | 2025-10-06 |
 | [Love Is All We Need](https://open.spotify.com/track/2HbfUVcfYzkrHVuWwaIz7B) | [Israel Starr](https://open.spotify.com/artist/2RU8SlXTX6tBiFAKCGioui), [Sianne](https://open.spotify.com/artist/13KCq8jY8uENeNrmer60fO) | [Love Is All We Need](https://open.spotify.com/album/6IUVVQqYJTZQOQ3Iex2MGS) | 3:38 | 2025-05-23 | 2025-07-25 |
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-10-04 |  |
 | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/track/5FFUDCkMjxuK6XQZNumN55) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Love Me Like](https://open.spotify.com/album/4ASozZrX3WMIJplKcfRJYf) | 2:44 | 2024-10-04 | 2025-02-07 |

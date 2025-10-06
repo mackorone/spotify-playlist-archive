@@ -1,6 +1,6 @@
 {
   "description": "pop punk, alt, emo, post-hardcore & more. Cover: Yellowcard",
-  "num_followers": 449980,
+  "num_followers": 449929,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
@@ -737,6 +737,22 @@
       "url": "https://open.spotify.com/track/2TtRe0m0PhThwIhxNDQfbP"
     },
     {
+      "added_at": "2025-10-03 04:00:59",
+      "album": {
+        "name": "Eternal Youth",
+        "url": "https://open.spotify.com/album/0R0mH2K2OsB8tDTtvOT4UX"
+      },
+      "artists": [
+        {
+          "name": "The Starting Line",
+          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
+        }
+      ],
+      "duration_ms": 152101,
+      "name": "I See How It Is",
+      "url": "https://open.spotify.com/track/3lPMIuABEuCPZVCVNavUxq"
+    },
+    {
       "added_at": "2025-09-19 04:00:15",
       "album": {
         "name": "MOTH KIDS",
@@ -767,22 +783,6 @@
       "duration_ms": 199240,
       "name": "blindfolded",
       "url": "https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr"
-    },
-    {
-      "added_at": "2025-10-03 04:00:59",
-      "album": {
-        "name": "Eternal Youth",
-        "url": "https://open.spotify.com/album/0R0mH2K2OsB8tDTtvOT4UX"
-      },
-      "artists": [
-        {
-          "name": "The Starting Line",
-          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
-        }
-      ],
-      "duration_ms": 152101,
-      "name": "I See How It Is",
-      "url": "https://open.spotify.com/track/3lPMIuABEuCPZVCVNavUxq"
     },
     {
       "added_at": "2025-09-19 04:00:15",
@@ -1185,6 +1185,26 @@
       "url": "https://open.spotify.com/track/2DpaLvk9AOPSSQhlcepetR"
     },
     {
+      "added_at": "2025-10-03 04:00:59",
+      "album": {
+        "name": "When in Love",
+        "url": "https://open.spotify.com/album/1JnrM00cVPFBxrZc8EgdYw"
+      },
+      "artists": [
+        {
+          "name": "A Lot Like Birds",
+          "url": "https://open.spotify.com/artist/4tGd3HHlV4RVOdlBc5LAW3"
+        },
+        {
+          "name": "Geoff Rickly",
+          "url": "https://open.spotify.com/artist/1rSMnOXCnT7rf4j4RErmSX"
+        }
+      ],
+      "duration_ms": 265748,
+      "name": "When in Love",
+      "url": "https://open.spotify.com/track/5tjKNBax9WFNbrpruOumHS"
+    },
+    {
       "added_at": "2025-09-19 04:00:15",
       "album": {
         "name": "BLINK AND YOU'LL MISS IT//",
@@ -1243,8 +1263,8 @@
     {
       "added_at": "2025-09-19 04:00:15",
       "album": {
-        "name": "Dark Magic",
-        "url": "https://open.spotify.com/album/4febs9NRsULttX3cSN4Oev"
+        "name": "Cult Classic",
+        "url": "https://open.spotify.com/album/1lDhJzS7NYP0SWQYKWQIPG"
       },
       "artists": [
         {
@@ -1252,9 +1272,9 @@
           "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Pity Party",
-      "url": "https://open.spotify.com/track/0Latl06o13TA9mQV7SBUpx"
+      "duration_ms": 222317,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2hZsXCd4yjv04usMf4chII"
     },
     {
       "added_at": "2025-09-19 04:00:15",
@@ -1323,42 +1343,6 @@
       "duration_ms": 180959,
       "name": "don't light the match (dyed black 2010)",
       "url": "https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT"
-    },
-    {
-      "added_at": "2025-10-03 04:00:59",
-      "album": {
-        "name": "When in Love",
-        "url": "https://open.spotify.com/album/1JnrM00cVPFBxrZc8EgdYw"
-      },
-      "artists": [
-        {
-          "name": "A Lot Like Birds",
-          "url": "https://open.spotify.com/artist/4tGd3HHlV4RVOdlBc5LAW3"
-        },
-        {
-          "name": "Geoff Rickly",
-          "url": "https://open.spotify.com/artist/1rSMnOXCnT7rf4j4RErmSX"
-        }
-      ],
-      "duration_ms": 265748,
-      "name": "When in Love",
-      "url": "https://open.spotify.com/track/5tjKNBax9WFNbrpruOumHS"
-    },
-    {
-      "added_at": "2025-09-19 04:00:15",
-      "album": {
-        "name": "Cult Classic",
-        "url": "https://open.spotify.com/album/1lDhJzS7NYP0SWQYKWQIPG"
-      },
-      "artists": [
-        {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
-        }
-      ],
-      "duration_ms": 222317,
-      "name": "You",
-      "url": "https://open.spotify.com/track/2hZsXCd4yjv04usMf4chII"
     },
     {
       "added_at": "2025-09-19 04:00:15",
@@ -1471,6 +1455,38 @@
     {
       "added_at": "2025-09-19 04:00:15",
       "album": {
+        "name": "Dark Magic",
+        "url": "https://open.spotify.com/album/4febs9NRsULttX3cSN4Oev"
+      },
+      "artists": [
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Pity Party",
+      "url": "https://open.spotify.com/track/0Latl06o13TA9mQV7SBUpx"
+    },
+    {
+      "added_at": "2025-09-19 04:00:15",
+      "album": {
+        "name": "saturate",
+        "url": "https://open.spotify.com/album/3LiCWQLym789U7V1Rdz5eE"
+      },
+      "artists": [
+        {
+          "name": "sace6",
+          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
+        }
+      ],
+      "duration_ms": 194896,
+      "name": "saturate",
+      "url": "https://open.spotify.com/track/4MghRJacieQHH2nUO5eZb9"
+    },
+    {
+      "added_at": "2025-09-19 04:00:15",
+      "album": {
         "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
         "url": "https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd"
       },
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2025-09-19 04:00:15",
       "album": {
-        "name": "saturate",
-        "url": "https://open.spotify.com/album/3LiCWQLym789U7V1Rdz5eE"
-      },
-      "artists": [
-        {
-          "name": "sace6",
-          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
-        }
-      ],
-      "duration_ms": 194896,
-      "name": "saturate",
-      "url": "https://open.spotify.com/track/4MghRJacieQHH2nUO5eZb9"
-    },
-    {
-      "added_at": "2025-09-19 04:00:15",
-      "album": {
         "name": "Phantoms/Twenty",
         "url": "https://open.spotify.com/album/3kI3OWrB6LKdH7HwVI8X6o"
       },
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-09-19 04:00:15",
       "album": {
-        "name": "Toxic Positivity",
-        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 190222,
-      "name": "Giving Up",
-      "url": "https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C"
-    },
-    {
-      "added_at": "2025-09-19 04:00:15",
-      "album": {
         "name": "Swing and Sway",
         "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 178253,
       "name": "Swing and Sway",
       "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
+    },
+    {
+      "added_at": "2025-09-19 04:00:15",
+      "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 190222,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C"
     },
     {
       "added_at": "2025-09-19 04:00:15",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2025-09-19 04:00:15",
       "album": {
-        "name": "Don't Let Me Get Too Low",
-        "url": "https://open.spotify.com/album/2JT0MoB5ESOA30VZwlq4af"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 158999,
-      "name": "Don't Let Me Get Too Low",
-      "url": "https://open.spotify.com/track/2HazFhqPwSFVyLL1piMoCh"
-    },
-    {
-      "added_at": "2025-09-19 04:00:15",
-      "album": {
         "name": "Candy Mouth",
         "url": "https://open.spotify.com/album/7BrRpfGIJqjIu9KQ7rsiRd"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 179746,
       "name": "Candy Mouth",
       "url": "https://open.spotify.com/track/19wtuLFeO7sIXHTxaW5l4H"
+    },
+    {
+      "added_at": "2025-09-19 04:00:15",
+      "album": {
+        "name": "Don't Let Me Get Too Low",
+        "url": "https://open.spotify.com/album/2JT0MoB5ESOA30VZwlq4af"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 158999,
+      "name": "Don't Let Me Get Too Low",
+      "url": "https://open.spotify.com/track/2HazFhqPwSFVyLL1piMoCh"
     },
     {
       "added_at": "2025-09-19 04:00:15",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2025-09-19 04:00:15",
       "album": {
-        "name": "i\u2019m still breathing",
-        "url": "https://open.spotify.com/album/2AyoTkItCVeDOWklLgo2KI"
-      },
-      "artists": [
-        {
-          "name": "senses",
-          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
-        }
-      ],
-      "duration_ms": 182234,
-      "name": "nosebleeds",
-      "url": "https://open.spotify.com/track/0SMRtXWXIn7Xxr2FyNpyOt"
-    },
-    {
-      "added_at": "2025-09-19 04:00:15",
-      "album": {
         "name": "American Psycho",
         "url": "https://open.spotify.com/album/2ILkMKiZC1vs6dtRKB3HvA"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 185873,
       "name": "American Psycho",
       "url": "https://open.spotify.com/track/3oQkPjn9TE19bRxPPpWp08"
+    },
+    {
+      "added_at": "2025-09-19 04:00:15",
+      "album": {
+        "name": "i\u2019m still breathing",
+        "url": "https://open.spotify.com/album/2AyoTkItCVeDOWklLgo2KI"
+      },
+      "artists": [
+        {
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
+        }
+      ],
+      "duration_ms": 182234,
+      "name": "nosebleeds",
+      "url": "https://open.spotify.com/track/0SMRtXWXIn7Xxr2FyNpyOt"
     }
   ],
   "unique_name": "The Scene",

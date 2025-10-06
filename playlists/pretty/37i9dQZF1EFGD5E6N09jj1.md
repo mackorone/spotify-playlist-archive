@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2YMfVMHfyhZ8nNwKmfbrZi">Charli XCX</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,850 likes - 199 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,866 likes - 199 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,8 +161,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 151 | [Blow You Up \(feat\. AlunaGeorge & Less Is Moore\)](https://open.spotify.com/track/0MpuMMLaWGLYHC9MxKc3VH) | [Yogi](https://open.spotify.com/artist/0QiCCpzEYPFaWqkWtDQTmH), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38), [Less Is Moore](https://open.spotify.com/artist/4XwwChVejCSy5rQ570UE1c) | [Blow You Up \(feat\. AlunaGeorge & Less Is Moore \)](https://open.spotify.com/album/1H5bBq8PUjshZkvTJy2hUc) | 3:08 |
 | 152 | [Win](https://open.spotify.com/track/632CutbxIbe3zwr0Pg5oFK) | [Nasty Cherry](https://open.spotify.com/artist/3a4OHGZwsqHc3eRChiDkS9) | [What Do You Like In Me](https://open.spotify.com/album/56pGforwuUa5IegFeMqVru) | 2:44 |
 | 153 | [I Don't Wanna Know](https://open.spotify.com/track/2wsypbBdFwN1woTAh9sq6X) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 3:05 |
-| 154 | [Babygirl \(feat\. Uffie\)](https://open.spotify.com/track/1G2uiB6xTRkfrZvG7jk4Sc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:53 |
-| 155 | [Grins](https://open.spotify.com/track/32OiPj5WrMToQV5XjNd8dF) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [True Romance](https://open.spotify.com/album/5t7Bn5XfE7yj2rqydVq0Ue) | 3:52 |
+| 154 | [Grins](https://open.spotify.com/track/32OiPj5WrMToQV5XjNd8dF) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [True Romance](https://open.spotify.com/album/5t7Bn5XfE7yj2rqydVq0Ue) | 3:52 |
+| 155 | [Babygirl \(feat\. Uffie\)](https://open.spotify.com/track/1G2uiB6xTRkfrZvG7jk4Sc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:53 |
 | 156 | [Miss U](https://open.spotify.com/track/764YDnFgsAFrqJgDwiY84V) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [13 Reasons Why \(Season 3\)](https://open.spotify.com/album/1zbH0DnpYxaoqTojXNLQb6) | 3:05 |
 | 157 | [Stay Away](https://open.spotify.com/track/7GFCOhZAlkKYU1VZftqDvL) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [True Romance](https://open.spotify.com/album/5t7Bn5XfE7yj2rqydVq0Ue) | 3:47 |
 | 158 | [Blame It on U](https://open.spotify.com/track/053tQJvHupZLhjUWMmHlQ1) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:47 |
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 198 | [Bullets](https://open.spotify.com/track/5k5PKZ18CNLgubRSa5aIQ9) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 2:43 |
 | 199 | [Friss meine Shorts](https://open.spotify.com/track/52sdkW14TkAL1lURxnPsgW) | [Bart](https://open.spotify.com/artist/27T8KFq2GCENrgbvjioqIb) | [The Voices of Springfield](https://open.spotify.com/album/2geQRLxx4XzNZHwGYVHVVl) | 2:40 |
 
-Snapshot ID: `Ab9/fgAAAAALDA/TMuZRxuh8wAf1wBLB`
+Snapshot ID: `Ab+FMgAAAAA0HCXuDrgGc5LRNLa6srvm`

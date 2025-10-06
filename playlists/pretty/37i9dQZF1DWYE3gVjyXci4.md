@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYE3gVjyXci4.md) - [plain]
 
 > pink bows, spilled secrets, deep feels, and main character dreams
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,122 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,394 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYE3gVjyXci4.md) - [plain]
 | 49 | [Pretty](https://open.spotify.com/track/3L545updZMVxAsaYV6K8Z9) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Pretty](https://open.spotify.com/album/3qgzSXy4n3efYOUN0rd0aZ) | 3:44 |
 | 50 | [What It Feels Like for a Girl](https://open.spotify.com/track/6rQcK4xOzePDdrTg7Yv6d6) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/3e3PxWKqv7lyZaR5d02abW) | 4:43 |
 
-Snapshot ID: `AAAAAK42F40c+uRFgxgseppbwakMHnhp`
+Snapshot ID: `AAAAABdJVjQfzRJOvzfySEL5hO7i4PcR`

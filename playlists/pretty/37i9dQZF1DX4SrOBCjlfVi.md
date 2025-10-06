@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Gucci Mane, Coi Leray, Jeezy and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,956 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,029 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 28 | [Athlete \(feat\. G Herbo\)](https://open.spotify.com/track/1BpfgW0qI3xk63tRu7Jfuz) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Athlete \(feat\. G Herbo\)](https://open.spotify.com/album/2MzyeiaLsWa2cRP2fSNyE9) | 3:47 |
 | 29 | [IRL](https://open.spotify.com/track/6L8r1GQB21RL8gJOO7qIDC) | [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7) | [IRL](https://open.spotify.com/album/7eWZvRAco8FLST8LPcvRxm) | 2:58 |
 | 30 | [You Know \(feat\. Babyfxce E\)](https://open.spotify.com/track/5Ud2QnRwmBnO7KRg0BANLP) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX), [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [You Know \(feat\. Babyfxce E\)](https://open.spotify.com/album/7fYWBXaBsgk3c5v8HdCYD0) | 2:17 |
-| 31 | [Bout That](https://open.spotify.com/track/3bbu8nuvMRuYWkIbzxt5Tc) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei), [Frostydasnowmann](https://open.spotify.com/artist/2Bb57H1EnnHxtpSyOAJF8l) | [Bout That](https://open.spotify.com/album/3xaGtC2OAGRKSf4Htzi182) | 2:51 |
+| 31 | [Bout That](https://open.spotify.com/track/3bbu8nuvMRuYWkIbzxt5Tc) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei), [Frostydasnowmann](https://open.spotify.com/artist/2Bb57H1EnnHxtpSyOAJF8l), [FBEAT](https://open.spotify.com/artist/5JarEeTvVo06htkx9lt8SV) | [Bout That](https://open.spotify.com/album/3xaGtC2OAGRKSf4Htzi182) | 2:51 |
 | 32 | [Are You Responsible \- Remix](https://open.spotify.com/track/7ABAYrPzSfiBDe0lW4sabj) | [Young Slo\-Be](https://open.spotify.com/artist/1pWm8RcyiWZehSnb38i4fM), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0), [DB.Boutabag](https://open.spotify.com/artist/3xGQQ8pYMw09C0YDkVS4mr) | [Are You Responsible \(Remix\)](https://open.spotify.com/album/3e2vSJJ2EGF5EBre9Ta26C) | 3:37 |
 | 33 | [Bottega Trunks \(feat\. Stove God Cooks\)](https://open.spotify.com/track/4odpFHZoEXcRWVa39LooSX) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [Bottega Trunks \(feat\. Stove God Cooks\)](https://open.spotify.com/album/7oAOzlf91Gwe0d7mtKG1uS) | 4:40 |
 | 34 | [Streets Bacc](https://open.spotify.com/track/6wxO5NGa3xgwVh6uB3a1KC) | [Wacotron](https://open.spotify.com/artist/4CAL0nDGvLhUfQEpwSLnUz) | [Streets Bacc](https://open.spotify.com/album/2ObVI8savI7rC9brw7KFeT) | 2:03 |

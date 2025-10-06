@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 19274,
+  "num_followers": 19284,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAADomZuOSTjHu/ITDIXOXVNP",
+  "snapshot_id": "aOBjgAAAAAAFdWGjgiZhxLo943ROqNSy",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Respeta el Flow",
-        "url": "https://open.spotify.com/album/5qab4uebsX0fXFM1byGBfw"
+        "name": "Resiste M\u00e1s Que Yo (En Vivo)",
+        "url": "https://open.spotify.com/album/2fKBLpOOof8HnAJqp16mGf"
       },
       "artists": [
         {
-          "name": "FrioLento",
-          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
-        },
-        {
           "name": "De Saloon",
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        },
+        {
+          "name": "Denisse Malebr\u00e1n",
+          "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
         }
       ],
-      "duration_ms": 161964,
-      "name": "Respeta el Flow",
-      "url": "https://open.spotify.com/track/3yawMrvzCoa6uR7mr88Dzi"
+      "duration_ms": 359233,
+      "name": "Resiste M\u00e1s Que Y\u00f3 - En Vivo",
+      "url": "https://open.spotify.com/track/6kvtQTHtCnHP6xfX1gEK0J"
     },
     {
       "added_at": null,
@@ -575,22 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resiste M\u00e1s Que Yo (En Vivo)",
-        "url": "https://open.spotify.com/album/2fKBLpOOof8HnAJqp16mGf"
+        "name": "Respeta el Flow",
+        "url": "https://open.spotify.com/album/5qab4uebsX0fXFM1byGBfw"
       },
       "artists": [
         {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+          "name": "FrioLento",
+          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
         },
         {
-          "name": "Denisse Malebr\u00e1n",
-          "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 359233,
-      "name": "Resiste M\u00e1s Que Y\u00f3 - En Vivo",
-      "url": "https://open.spotify.com/track/6kvtQTHtCnHP6xfX1gEK0J"
+      "duration_ms": 161964,
+      "name": "Respeta el Flow",
+      "url": "https://open.spotify.com/track/3yawMrvzCoa6uR7mr88Dzi"
     },
     {
       "added_at": null,

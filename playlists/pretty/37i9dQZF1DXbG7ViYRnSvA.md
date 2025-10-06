@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/officialcoodieandchike/">Coodie & Chike</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,307 likes - 50 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,313 likes - 50 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 | 32 | [Depend on U](https://open.spotify.com/track/5080VPeCHNlBDPJ1ojzVBk) | [Budgie](https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89) | [Holy Ghost Zone](https://open.spotify.com/album/0s3tlXw1HJOjNSEQp8EN6x) | 1:47 |
 | 33 | [Serve This Royalty](https://open.spotify.com/track/2v2ewUZjfOTWtKops0508z) | [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr) | [The Headphone Masterpiece](https://open.spotify.com/album/4DO0EipTAYZYaUDSoEVK98) | 5:42 |
 | 34 | [Blackboard Jungle Dub \- Version 1](https://open.spotify.com/track/5AWkPGkHD15Yo9IAbliWc9) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Scratch Attack!](https://open.spotify.com/album/4NhRUpUb0d6hh4T8h5peMk) | 4:38 |
-| 35 | [Po Pimp](https://open.spotify.com/track/66AMCAjrOk7c957i3ej06f) | [Do Or Die](https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB) | [Picture This](https://open.spotify.com/album/4Rjhr6Jg80XQ94uDA8UZkG) | 3:54 |
-| 36 | [What Do You Say \(Move It Baby\)](https://open.spotify.com/track/7tHvaEgvR0O5q1WKZtBrKF) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [A Beautiful Revolution Pt\. 1 & 2](https://open.spotify.com/album/1HhGNkLtbqBKJH9lISKQPH) | 4:02 |
+| 35 | [What Do You Say \(Move It Baby\)](https://open.spotify.com/track/7tHvaEgvR0O5q1WKZtBrKF) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [A Beautiful Revolution Pt\. 1 & 2](https://open.spotify.com/album/1HhGNkLtbqBKJH9lISKQPH) | 4:02 |
+| 36 | [Po Pimp](https://open.spotify.com/track/66AMCAjrOk7c957i3ej06f) | [Do Or Die](https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB) | [Picture This](https://open.spotify.com/album/4Rjhr6Jg80XQ94uDA8UZkG) | 3:54 |
 | 37 | [We Are One](https://open.spotify.com/track/6hBdjS3dx7kOqcW7y5B39T) | [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [Rock With the Hot 8](https://open.spotify.com/album/4Wt275jWR86DOTn7zgVWFR) | 6:44 |
 | 38 | [Safe to Say](https://open.spotify.com/track/4Q9EQ3IOxSDbXyKWXGVPcF) | [Tree](https://open.spotify.com/artist/5ABlNXUNKppEgicfzWsaSQ) | [Sunday School II : When Church Lets Out](https://open.spotify.com/album/37RWnHRT1VjCvTqZsLpISj) | 3:36 |
 | 39 | [Just Chill](https://open.spotify.com/track/4kPslnT97Uo6YdNpFcnrk4) | [Project Mayhem](https://open.spotify.com/artist/10ZHewiVCPZxwb4bewgKPl) | [The Mayhem Machine](https://open.spotify.com/album/35EJ8kPWBRUpQH7gKSkSSK) | 4:17 |

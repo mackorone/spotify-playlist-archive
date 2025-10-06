@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Rocket
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,321 likes - 155 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,331 likes - 155 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

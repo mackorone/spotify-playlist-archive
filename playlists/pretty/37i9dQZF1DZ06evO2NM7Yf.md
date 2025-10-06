@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 
 > This is Meg Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 425 likes - 26 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 426 likes - 26 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Winner](https://open.spotify.com/track/32Fi0ERaMduzL4QsiCenk1) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Winner](https://open.spotify.com/album/1yDIgEYCqnXgNRfPcd2isc) | 2:46 |
 | 2 | [Cross My Heart I Hope U Die](https://open.spotify.com/track/3TSRH5IgWTHc8QZSAmo4bz) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/5AQdr3EeYdMHLTTXNEwfWO) | 2:48 |
 | 3 | [God Damn Baby](https://open.spotify.com/track/75yGJrcOyZon1q5xn6NR7t) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [God Damn Baby](https://open.spotify.com/album/16B9iKwLj2CT7Rq6LiNMTR) | 3:12 |
-| 4 | [Dive Bar Opera](https://open.spotify.com/track/1WBy88hoogwNohh3PPwpRb) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Dive Bar Opera](https://open.spotify.com/album/5y8vYUf5I66jv3OHOAFxPn) | 2:26 |
-| 5 | [Girls Just Wanna Be Famous\(er\)](https://open.spotify.com/track/55fJMUj8cAonidO8dI8fVp) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg), [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE), [Molly Grace](https://open.spotify.com/artist/21rtlXPLkzcyDnYycn4QXH) | [Girls Just Wanna Be Famous\(er\)](https://open.spotify.com/album/24AH43eX8jUg0IkwH581wy) | 2:41 |
+| 4 | [Girls Just Wanna Be Famous\(er\)](https://open.spotify.com/track/55fJMUj8cAonidO8dI8fVp) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg), [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE), [Molly Grace](https://open.spotify.com/artist/21rtlXPLkzcyDnYycn4QXH) | [Girls Just Wanna Be Famous\(er\)](https://open.spotify.com/album/24AH43eX8jUg0IkwH581wy) | 2:41 |
+| 5 | [Dive Bar Opera](https://open.spotify.com/track/1WBy88hoogwNohh3PPwpRb) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Dive Bar Opera](https://open.spotify.com/album/5y8vYUf5I66jv3OHOAFxPn) | 2:26 |
 | 6 | [jesus christ in a mini skirt](https://open.spotify.com/track/24zNxMViyAoKKKqiJ6bAEp) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 3:00 |
 | 7 | [Emotional Punching Bag](https://open.spotify.com/track/7yPgfPvs6aZ5EJ1ofwfpwL) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [emotional punching bag](https://open.spotify.com/album/3znO7FnJGFImn1qGLpgOse) | 2:56 |
 | 8 | [breakup with a friend](https://open.spotify.com/track/5jO40JD6eHrxuHnnhG676n) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [breakup with a friend](https://open.spotify.com/album/0CYC2EhUKwBOQzyroumu3i) | 2:42 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 25 | [guitar center](https://open.spotify.com/track/049lFlV3BgUKZU2Itc5rCT) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [guitar center](https://open.spotify.com/album/1efqw25N4FvdLgJ2mduAz0) | 3:07 |
 | 26 | [DO YOU LIKE ME?](https://open.spotify.com/track/6lxeT761ZTSkwaEDfQnc1F) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S) | 2:57 |
 
-Snapshot ID: `aN8SAAAAAADExQDL7aSBVJIe+jmwQB2t`
+Snapshot ID: `aOBjgAAAAAClciAduthk2aiYQrnldKH5`

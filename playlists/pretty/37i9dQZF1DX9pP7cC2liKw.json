@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 396595,
+  "num_followers": 397016,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Theme from Selva",
-        "url": "https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 340720,
-      "name": "Nineteen Hundred and Eighty Five",
-      "url": "https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Cantos de Vision",
         "url": "https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 329719,
       "name": "Danza de Vision",
       "url": "https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Theme from Selva",
+        "url": "https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 340720,
+      "name": "Nineteen Hundred and Eighty Five",
+      "url": "https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Apolinar",
-        "url": "https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U"
-      },
-      "artists": [
-        {
-          "name": "Matanza",
-          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
-        }
-      ],
-      "duration_ms": 251428,
-      "name": "Temazcal",
-      "url": "https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK"
-    },
-    {
       "added_at": "2023-07-21 19:49:45",
       "album": {
         "name": "Santa Mar\u00eda",
@@ -695,6 +679,22 @@
       "duration_ms": 260584,
       "name": "Santa Mar\u00eda",
       "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Apolinar",
+        "url": "https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U"
+      },
+      "artists": [
+        {
+          "name": "Matanza",
+          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
+        }
+      ],
+      "duration_ms": 251428,
+      "name": "Temazcal",
+      "url": "https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK"
     },
     {
       "added_at": "2024-01-05 06:00:00",
@@ -913,22 +913,6 @@
       "url": "https://open.spotify.com/track/2xNBJd0R1881hLsFgKC9f6"
     },
     {
-      "added_at": "2024-09-06 18:30:54",
-      "album": {
-        "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
-        "url": "https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo"
-      },
-      "artists": [
-        {
-          "name": "kujipy",
-          "url": "https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs"
-        }
-      ],
-      "duration_ms": 448947,
-      "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
-      "url": "https://open.spotify.com/track/3d4nrq8ALR5uxqt6sgICS2"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "So\u00f1ando",
@@ -945,20 +929,20 @@
       "url": "https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4"
     },
     {
-      "added_at": "2022-08-11 18:18:05",
+      "added_at": "2024-09-06 18:30:54",
       "album": {
-        "name": "French Samba",
-        "url": "https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt"
+        "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
+        "url": "https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo"
       },
       "artists": [
         {
-          "name": "ASHA",
-          "url": "https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN"
+          "name": "kujipy",
+          "url": "https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs"
         }
       ],
-      "duration_ms": 163181,
-      "name": "French Samba",
-      "url": "https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c"
+      "duration_ms": 448947,
+      "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
+      "url": "https://open.spotify.com/track/3d4nrq8ALR5uxqt6sgICS2"
     },
     {
       "added_at": "2023-10-10 03:31:09",
@@ -975,6 +959,22 @@
       "duration_ms": 182533,
       "name": "Trago Coqueto",
       "url": "https://open.spotify.com/track/54SKhrxbRKvXuB3C3SGGoC"
+    },
+    {
+      "added_at": "2022-08-11 18:18:05",
+      "album": {
+        "name": "French Samba",
+        "url": "https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt"
+      },
+      "artists": [
+        {
+          "name": "ASHA",
+          "url": "https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN"
+        }
+      ],
+      "duration_ms": 163181,
+      "name": "French Samba",
+      "url": "https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c"
     },
     {
       "added_at": "2023-03-22 17:52:31",
@@ -1077,6 +1077,22 @@
       "url": "https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty"
     },
     {
+      "added_at": "2024-07-20 14:57:35",
+      "album": {
+        "name": "Macro",
+        "url": "https://open.spotify.com/album/1iAqfn9vawMhkRuQQzP3qj"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 234182,
+      "name": "Euphoric Avenue",
+      "url": "https://open.spotify.com/track/0krvVcQqfZTltbCNEOmw5d"
+    },
+    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Noche de Amor",
@@ -1095,22 +1111,6 @@
       "duration_ms": 443874,
       "name": "Noche de Amor",
       "url": "https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt"
-    },
-    {
-      "added_at": "2024-07-20 14:57:35",
-      "album": {
-        "name": "Macro",
-        "url": "https://open.spotify.com/album/1iAqfn9vawMhkRuQQzP3qj"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 234182,
-      "name": "Euphoric Avenue",
-      "url": "https://open.spotify.com/track/0krvVcQqfZTltbCNEOmw5d"
     },
     {
       "added_at": "2024-05-30 03:07:45",
@@ -1149,22 +1149,6 @@
       "url": "https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Je pense \u00e0 toi",
-        "url": "https://open.spotify.com/album/5fpZTDvA6fsMMJLhEauucz"
-      },
-      "artists": [
-        {
-          "name": "El Drag\u00f3n Criollo",
-          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
-        }
-      ],
-      "duration_ms": 272590,
-      "name": "Je Pense \u00e0 Toi",
-      "url": "https://open.spotify.com/track/36bbmGLrqvyxy6btk2DGiy"
-    },
-    {
       "added_at": "2022-07-13 15:46:50",
       "album": {
         "name": "Siempre Sim\u00f3n y Nunca Nel",
@@ -1183,6 +1167,38 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Sabe a Tu Nombre",
+        "url": "https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+        }
+      ],
+      "duration_ms": 228793,
+      "name": "Sabe a Tu Nombre",
+      "url": "https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Je pense \u00e0 toi",
+        "url": "https://open.spotify.com/album/5fpZTDvA6fsMMJLhEauucz"
+      },
+      "artists": [
+        {
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+        }
+      ],
+      "duration_ms": 272590,
+      "name": "Je Pense \u00e0 Toi",
+      "url": "https://open.spotify.com/track/36bbmGLrqvyxy6btk2DGiy"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Claude Fontaine",
         "url": "https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7"
       },
@@ -1195,6 +1211,22 @@
       "duration_ms": 246386,
       "name": "Play by Play",
       "url": "https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Selva y mar",
+        "url": "https://open.spotify.com/album/79AHYPMxeWRc5NR7WqwUFG"
+      },
+      "artists": [
+        {
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
+        }
+      ],
+      "duration_ms": 248099,
+      "name": "Selva y mar",
+      "url": "https://open.spotify.com/track/2DsUXoqK3HXx2Sat09W7uN"
     },
     {
       "added_at": "2023-03-16 23:40:55",
@@ -1219,54 +1251,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Sabe a Tu Nombre",
-        "url": "https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB"
+        "name": "Hybridism",
+        "url": "https://open.spotify.com/album/34ZtJJKrCWgno0vQYtDN5H"
       },
       "artists": [
         {
-          "name": "Cosmic Wacho",
-          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
         }
       ],
-      "duration_ms": 228793,
-      "name": "Sabe a Tu Nombre",
-      "url": "https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Selva y mar",
-        "url": "https://open.spotify.com/album/79AHYPMxeWRc5NR7WqwUFG"
-      },
-      "artists": [
-        {
-          "name": "Tati Falco",
-          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
-        }
-      ],
-      "duration_ms": 248099,
-      "name": "Selva y mar",
-      "url": "https://open.spotify.com/track/2DsUXoqK3HXx2Sat09W7uN"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Better When We're Close",
-        "url": "https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 213453,
-      "name": "Better When We're Close",
-      "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
+      "duration_ms": 308813,
+      "name": "Aima",
+      "url": "https://open.spotify.com/track/2ZLSvb7IJl7k9FDDuO0P3q"
     }
   ],
   "unique_name": "Tulum Vibes",

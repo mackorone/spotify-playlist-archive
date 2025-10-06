@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > the freshest trending lofi beats for chill, focus, or study vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,434 likes - 100 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,479 likes - 100 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jánaa](https://open.spotify.com/track/00UXq4aAGqTqVe05KVtXtE) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Jánaa](https://open.spotify.com/album/3orIJtxkF4BUzOxiZ91Hxh) | 2:14 |
 | 2 | [Softhood](https://open.spotify.com/track/4YLC1DutUaIiSRZtorCFAB) | [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Fool Parsley](https://open.spotify.com/artist/53YSV4G2czMnVwx5s6bmIZ) | [Softhood](https://open.spotify.com/album/1UZ8R3OIc5uzT6JENZBBJh) | 2:00 |
 | 3 | [Oud](https://open.spotify.com/track/3KT954VNNQEBpOkMMKjlYv) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Oud](https://open.spotify.com/album/2MlUax040yBiaUcFTOM5vX) | 1:48 |
-| 4 | [Moments](https://open.spotify.com/track/5DgL5cDpuLQUAwVMX3aHEI) | [Lowsen](https://open.spotify.com/artist/2fXix1vqplIj0R5bxsMHUs), [Oulfen](https://open.spotify.com/artist/4QuQHfnhvbEULD9fUyHbAk) | [Moments](https://open.spotify.com/album/3jQuRpypLM0JAu87kKtcHK) | 2:13 |
+| 4 | [Moments](https://open.spotify.com/track/5DgL5cDpuLQUAwVMX3aHEI) | [Lowsen](https://open.spotify.com/artist/2fXix1vqplIj0R5bxsMHUs), [Ouflen](https://open.spotify.com/artist/1RFUrCY2wxQaLw6NjAnnT7) | [Moments](https://open.spotify.com/album/3jQuRpypLM0JAu87kKtcHK) | 2:13 |
 | 5 | [untethered](https://open.spotify.com/track/6ixnkyhf0pQQJSHf4kjwy4) | [swiftly](https://open.spotify.com/artist/6cfk21YEPJx5qIv6PSaEa7) | [untethered](https://open.spotify.com/album/1YZazZVH7Il3iYAFiL1K2e) | 2:12 |
 | 6 | [for norah](https://open.spotify.com/track/18IYE5it2VcLZfXiloYBS2) | [mellow days](https://open.spotify.com/artist/65tiERODhjgPvUNJg8PE3h), [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv), [Somebuddy](https://open.spotify.com/artist/6TfTpFTSQ6z6kQfBRcZvUO) | [for norah](https://open.spotify.com/album/0Y0qDA7ufLFGE63s3Rfeoa) | 1:54 |
 | 7 | [cozed](https://open.spotify.com/track/6aWWO5gx9NYP7mhdf2XQbd) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [think less.](https://open.spotify.com/artist/5ptLWFs1O1R1QDZSjwtU0c) | [cozed](https://open.spotify.com/album/5L6T5LYEusjLtNpWQh3TVD) | 1:45 |

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,012 songs - 4 day 8 hr 18 min
+2,013 songs - 4 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -707,6 +707,7 @@
 | [Har du sett henne i blått](https://open.spotify.com/track/4Cyvf54FSEE7NcdK0vN3Ej) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN) | [Har du sett henne i blått](https://open.spotify.com/album/2nW9lLF2l1cAAgdM6xMJMW) | 3:21 | 2023-01-05 | 2023-10-06 |
 | [har jag blivit knäpp!? \(har jag blivit sjuk!?\)](https://open.spotify.com/track/01up4QXtiyto3a6YztnWAg) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ) | [dom har bara gett mig ett namn](https://open.spotify.com/album/2UGjZtao246qmGucUYMAsL) | 3:28 | 2023-05-19 | 2023-06-16 |
 | [Hardcore](https://open.spotify.com/track/2aRdlM9PMCRcUrM5DruLZv) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Hardcore](https://open.spotify.com/album/41KhQVLtpKGsitTXYrKxeb) | 2:52 | 2022-03-10 | 2022-07-21 |
+| [Harley Pt\. 2](https://open.spotify.com/track/2NhLmzbbr44giCxzwoSAAD) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [A Glitch In The Matrix](https://open.spotify.com/album/3DFQ8HHK62kGV4yknGe9KP) | 4:25 | 2025-10-02 |  |
 | [Hatar att du lät oss gå](https://open.spotify.com/track/7EisBw1WTPVZBFZlO6gYm9) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Hatar att du lät oss gå](https://open.spotify.com/album/0EgjkXmUyXWeBOhZqUYnRO) | 2:49 | 2022-10-27 | 2023-10-06 |
 | [Hate Me](https://open.spotify.com/track/65yDVnxFoCHz57JdgzRpcG) | [MAZEN AWAD](https://open.spotify.com/artist/5dwPMLSka611grrtrJwJ8T) | [Hate Me](https://open.spotify.com/album/1iaASqwDUGEpJGmIdOG9vq) | 2:36 | 2024-05-02 | 2024-06-01 |
 | [Hate My Guts](https://open.spotify.com/track/3WM7HwJAxhlI87PAzuuvyB) | [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [Hate My Guts](https://open.spotify.com/album/3KQgYkwicq99p0p0u1Dy4K) | 2:53 | 2022-03-24 | 2022-04-02 |
@@ -1600,7 +1601,7 @@
 | [Sparvöga](https://open.spotify.com/track/7Ad48doEcyyr91oRgTg2sz) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Sparvöga / I skydd av mörkret](https://open.spotify.com/album/3fmuDEVEgtEIYqEYEaDF1f) | 3:20 | 2025-01-23 | 2025-05-23 |
 | [Spin The Bottle](https://open.spotify.com/track/1W0AJZWfVldNrgNDoaqRkY) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Spin The Bottle](https://open.spotify.com/album/2PhwRImFoeE9HvSMsyrjfz) | 3:06 | 2025-05-05 | 2025-05-09 |
 | [Springer](https://open.spotify.com/track/7Hq0AAorMD6oxJoqL7qZS0) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Springer](https://open.spotify.com/album/4Umy4dQySiy0DqRufmUroe) | 3:23 | 2023-11-09 | 2024-02-09 |
-| [Springer ikapp](https://open.spotify.com/track/5DF56PEsdLEHpqoCpzLg6I) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Springer Ikapp](https://open.spotify.com/album/5cUibeySR9mDVYxRrtrcQk) | 3:34 | 2025-07-17 |  |
+| [Springer ikapp](https://open.spotify.com/track/5DF56PEsdLEHpqoCpzLg6I) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Springer Ikapp](https://open.spotify.com/album/5cUibeySR9mDVYxRrtrcQk) | 3:34 | 2025-07-17 | 2025-10-06 |
 | [Sprit & Blondiner](https://open.spotify.com/track/0jXbmr98Xm2bNlAUyq9caV) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Sprit & Blondiner](https://open.spotify.com/album/3bXFyWuISWjAIonXpBupcK) | 3:23 | 2024-06-06 | 2024-08-09 |
 | [Spritdränkta](https://open.spotify.com/track/5IeOJsK7HmNjrRP3zOpOfn) | [Agnes Matsdotter](https://open.spotify.com/artist/6C0HjwmlFfHqrpxeQctQWi) | [Spritdränkta](https://open.spotify.com/album/3Ko4CeH9l8c5JFBDxpFAxY) | 3:37 | 2022-03-03 | 2022-05-13 |
 | [Staden](https://open.spotify.com/track/3NU6g9s3vo643YWSHfn5PF) | [Von Disco](https://open.spotify.com/artist/4x7WacYjAU6XQpeDHmNxhv) | [Staden](https://open.spotify.com/album/10m9GVB1D3nQxNAmUrr7tH) | 2:23 | 2025-08-21 |  |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-376 songs - 20 hr 45 min
+377 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Don't Wanna Think](https://open.spotify.com/track/0ufEVwujjfht29nMSWWefR) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 2:59 | 2023-12-30 |  |
 | [Dope](https://open.spotify.com/track/55DuTmvSGwNQR4cBgqYuYL) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Hotel California \(Deluxe\)](https://open.spotify.com/album/5PKYeoSKEVQd7ZTnwnWRn7) | 3:43 | 2023-12-30 |  |
 | [Dress](https://open.spotify.com/track/5RPq4WPdn53v53m72dLBBf) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather \(5 Year Anniversary Edition\)](https://open.spotify.com/album/1lF6IT0hjkqjJ32o8Jz3P9) | 3:26 | 2025-03-30 |  |
-| [Drew Barrymore](https://open.spotify.com/track/0JvUjekRwmDcQq4S0Sxocf) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Carnival](https://open.spotify.com/album/2ellIuTAeZqsBDVqGpNe9R) | 3:11 | 2023-12-30 |  |
+| [Drew Barrymore](https://open.spotify.com/track/0JvUjekRwmDcQq4S0Sxocf) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Carnival](https://open.spotify.com/album/2ellIuTAeZqsBDVqGpNe9R) | 3:11 | 2023-12-30 | 2025-10-06 |
 | [Drew Barrymore](https://open.spotify.com/track/0SB3PdjFgVxywq7Mq4PSPm) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Drew Barrymore](https://open.spotify.com/album/5Stu8WofPxGkuIWWMV6vFA) | 3:12 | 2024-01-03 | 2024-02-01 |
 | [Drew Barrymore \(feat\. Wale\)](https://open.spotify.com/track/5RyFbMmfQ70WThTT6g4Vx0) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Drew Barrymore \(feat\. Wale\)](https://open.spotify.com/album/6lU3bb8FhDHYkZKfZorLha) | 3:36 | 2023-12-30 |  |
 | [Dumb & Poetic](https://open.spotify.com/track/5VhvD0AKRprEaFtPNKGBQR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:13 | 2024-08-28 |  |
@@ -246,6 +246,7 @@
 | [Nervous](https://open.spotify.com/track/5wxurz8J6YlyQRNnGN8zXS) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 2:44 | 2023-12-30 |  |
 | [No Deal](https://open.spotify.com/track/2GJxkCRFJ6maLi2VmYRX9R) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:07 | 2023-12-30 |  |
 | [No Filter \- Trommer Remix](https://open.spotify.com/track/1k6nghthvwndkQdF1Ib3A2) | [EZEK](https://open.spotify.com/artist/5U2GxDdFtp1NLVsUc2o9TU), [Trommer](https://open.spotify.com/artist/6ql1tTiamEtDMwpA8qpupq) | [No Filter](https://open.spotify.com/album/6oe1oXdwjs51jP3AUTKMTb) | 7:44 | 2025-01-09 | 2025-04-12 |
+| [No Heartbreak's Killed Me Yet](https://open.spotify.com/track/58SMNUc42Art0NNE7aiWht) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [No Heartbreak's Killed Me Yet](https://open.spotify.com/album/65xHRIaffZ3DYvtKvSrLHW) | 2:37 | 2025-10-05 |  |
 | [Nobody](https://open.spotify.com/track/4OuMdUzh9Lz82ACgQUYBbU) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/3Kbuu2tHsIbplFUkB7a5oE) | 3:37 | 2023-12-30 |  |
 | [okay](https://open.spotify.com/track/1a0Mg4XPdt4EKsUz5beRZY) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [okay](https://open.spotify.com/album/5jfU7VYOq1M8SllX6emQHN) | 2:49 | 2023-12-30 |  |
 | [On Mine \(feat\. Noah Cyrus\)](https://open.spotify.com/track/0tSwKGbmvKrL0C7ckwIA9B) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 2:36 | 2023-12-30 |  |

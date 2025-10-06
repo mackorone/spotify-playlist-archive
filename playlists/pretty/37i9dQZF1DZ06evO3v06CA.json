@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 203254,
+  "num_followers": 203267,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAAD9kIJhCHViSd2xy7Un7IY+",
+  "snapshot_id": "aOBjgAAAAADIaJ4bqm5m5tuDggm8YxGb",
   "tracks": [
     {
       "added_at": null,
@@ -167,26 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Merle Haggard: The Epic Years",
-        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 287626,
-      "name": "Pancho and Lefty",
-      "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Willie Nelson American Outlaw (Live)",
         "url": "https://open.spotify.com/album/5heTM7q5ly9IPwJIFSbKLp"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 134266,
       "name": "Roll Me Up and Smoke Me When I Die - Live",
       "url": "https://open.spotify.com/track/5iis9J2sptrUy0VIpFVIg1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 287626,
+      "name": "Pancho and Lefty",
+      "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
     },
     {
       "added_at": null,
@@ -1267,22 +1267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Workin' Man Blues",
-        "url": "https://open.spotify.com/album/0t9ceMJd6kciqcTwNDRWcc"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 315773,
-      "name": "Workin' Man Blues",
-      "url": "https://open.spotify.com/track/2toNxoxpnIjDqHozpOpmm3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
       },
@@ -1311,8 +1295,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
+        "name": "Viva Tu",
+        "url": "https://open.spotify.com/album/0de0VSMdg29Rwoe9MG4ck2"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 125379,
+      "name": "Heaven's Bad Day",
+      "url": "https://open.spotify.com/track/5LPo4MHNYtWdh8FWIIkixD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Workin' Man Blues",
+        "url": "https://open.spotify.com/album/0t9ceMJd6kciqcTwNDRWcc"
       },
       "artists": [
         {
@@ -1320,9 +1324,9 @@
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 230933,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/7iyd0aOJ2J54hENgLeGxCk"
+      "duration_ms": 315773,
+      "name": "Workin' Man Blues",
+      "url": "https://open.spotify.com/track/2toNxoxpnIjDqHozpOpmm3"
     }
   ],
   "unique_name": "This Is Willie Nelson",

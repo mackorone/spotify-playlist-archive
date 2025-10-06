@@ -1,12 +1,12 @@
 {
   "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 4488,
+  "num_followers": 4489,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAACpVGjmwcoQ2NsO7C0+E+YJ",
+  "snapshot_id": "aOBjgAAAAACCh4O++ToMu0o6IFYxi1Xi",
   "tracks": [
     {
       "added_at": null,
@@ -114,11 +114,15 @@
         {
           "name": "Touch\u00e9 Amor\u00e9",
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        },
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
         }
       ],
-      "duration_ms": 170001,
-      "name": "Come Heroine",
-      "url": "https://open.spotify.com/track/3z5IRvQG3paO0p5Ewyqa97"
+      "duration_ms": 302514,
+      "name": "Limelight",
+      "url": "https://open.spotify.com/track/1VWs302APzvQSw94xr7SSN"
     },
     {
       "added_at": null,
@@ -178,15 +182,11 @@
         {
           "name": "Touch\u00e9 Amor\u00e9",
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        },
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
         }
       ],
-      "duration_ms": 302514,
-      "name": "Limelight",
-      "url": "https://open.spotify.com/track/1VWs302APzvQSw94xr7SSN"
+      "duration_ms": 170001,
+      "name": "Come Heroine",
+      "url": "https://open.spotify.com/track/3z5IRvQG3paO0p5Ewyqa97"
     },
     {
       "added_at": null,

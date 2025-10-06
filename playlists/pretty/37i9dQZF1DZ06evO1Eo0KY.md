@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 
 > This is Nicholas Craven\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 660 likes - 48 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 661 likes - 48 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 | 31 | [Gfy](https://open.spotify.com/track/5JiVyJ1g6BuikD3OKkvWhL) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Ultimate Dump Gawd](https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP) | 2:32 |
 | 32 | [Deliver Us from Evil](https://open.spotify.com/track/1M96cEfrbRbrOG5XuLaHn7) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Deleted Scenes](https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5) | 2:07 |
 | 33 | [Dear Friend](https://open.spotify.com/track/4mIq67OpwFeAmXmGJfIVMQ) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [Dump Gawd: Shot Clock King](https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs) | 2:30 |
-| 34 | [Beat The Charge](https://open.spotify.com/track/51nexOgdmWUAbfIY6rdQDI) | [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [POTLUCK](https://open.spotify.com/album/1WwIvrNfaFQdAu82XAs7Fh) | 2:37 |
+| 34 | [Yzerman](https://open.spotify.com/track/1OJk0PW55ZEAmmmxn370ka) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Craven N 3](https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad) | 2:42 |
 | 35 | [Tha Riddle of Steel](https://open.spotify.com/track/54Ok7I4CgsfiMQ7NgtHUHj) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Ultimate Dump Gawd](https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP) | 2:18 |
 | 36 | [Final Destination](https://open.spotify.com/track/4OAEMH3QS3o69ww6wKrNQS) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Deleted Scenes](https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5) | 3:08 |
-| 37 | [Yzerman](https://open.spotify.com/track/1OJk0PW55ZEAmmmxn370ka) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Craven N 3](https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad) | 2:42 |
+| 37 | [Beat The Charge](https://open.spotify.com/track/51nexOgdmWUAbfIY6rdQDI) | [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [POTLUCK](https://open.spotify.com/album/1WwIvrNfaFQdAu82XAs7Fh) | 2:37 |
 | 38 | [Wit out a Question](https://open.spotify.com/track/0luxbKG9tGZuAuMaN6g4Tg) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Dump Gawd: Shot Clock King](https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs) | 2:26 |
 | 39 | [I Dont Care](https://open.spotify.com/track/1kPAOJIIzKPXuLNJ6nsVtz) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Ultimate Dump Gawd](https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP) | 2:36 |
 | 40 | [1000 Mile Stare](https://open.spotify.com/track/2M2bmKIGUboIJk3bDYgIz3) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [1000 Mile Stare](https://open.spotify.com/album/22IbC2lqB6l7aqDXvro9Xz) | 3:18 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Eo0KY.md) - [plain]
 | 47 | [Midsommar](https://open.spotify.com/track/6n4hU8yiTKd9vdusec8auo) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Deleted Scenes](https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5) | 1:09 |
 | 48 | [Notre Dame](https://open.spotify.com/track/5pEa8zLhRTC1jqSFxK7hU7) | [Jimmie D](https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Good Music Hypnotizes](https://open.spotify.com/album/6gRt97VXKvCAti89oAI7LZ) | 2:29 |
 
-Snapshot ID: `aN8SAAAAAADAQOWubva2UHFltGlpF0DJ`
+Snapshot ID: `aOBjgAAAAAAwv+LjJF/ldcYAaDpXw+Uw`

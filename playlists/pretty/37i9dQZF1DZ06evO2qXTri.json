@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 36385,
+  "num_followers": 36393,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAACOWScba1p5RMhaTugKp4m9",
+  "snapshot_id": "aOBjgAAAAAABgODiWDKFOZOW3EZIASXJ",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kirk Franklin and the Family",
+        "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 355160,
+      "name": "Why We Sing - Live",
+      "url": "https://open.spotify.com/track/3NBygJfkCX6zbEUljzh2gv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 565833,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kirk Franklin and the Family",
-        "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 355160,
-      "name": "Why We Sing - Live",
-      "url": "https://open.spotify.com/track/3NBygJfkCX6zbEUljzh2gv"
     },
     {
       "added_at": null,
@@ -287,6 +287,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kirk Franklin and the Family",
+        "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 245666,
+      "name": "He's Able - Live",
+      "url": "https://open.spotify.com/track/537bauuRZw1QMo3Ya4vZrz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 421165,
       "name": "My Life Is In Your Hands",
       "url": "https://open.spotify.com/track/01sXKzitAQVsljePSMpxuv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kirk Franklin and the Family",
-        "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 245666,
-      "name": "He's Able - Live",
-      "url": "https://open.spotify.com/track/537bauuRZw1QMo3Ya4vZrz"
     },
     {
       "added_at": null,
@@ -359,6 +359,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "J Moss",
+          "url": "https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP"
+        },
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 407266,
+      "name": "Could've Been (with J Moss & Tye Tribbett)",
+      "url": "https://open.spotify.com/track/4YSzPF7PIahHWHQpyVJPMK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
       },
@@ -387,30 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "J Moss",
-          "url": "https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP"
-        },
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 407266,
-      "name": "Could've Been (with J Moss & Tye Tribbett)",
-      "url": "https://open.spotify.com/track/4YSzPF7PIahHWHQpyVJPMK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do It Again",
         "url": "https://open.spotify.com/album/5HKgWSVnx2YEkQ9d6T6ZJs"
       },
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 236339,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/5KC5XsV0BwYyHJkNqx2C7n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Things",
         "url": "https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 189799,
       "name": "All Things",
       "url": "https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 236339,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/5KC5XsV0BwYyHJkNqx2C7n"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kirk Franklin and the Family",
-        "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 292040,
-      "name": "Silver and Gold - Live",
-      "url": "https://open.spotify.com/track/49BWLtQKtyz1kYhe148mWj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Rebirth Of Kirk Franklin (Live)",
         "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 382573,
       "name": "My Life, My Love, My All - Live at Lakewood Church, Houston, TX - June 16, 2000",
       "url": "https://open.spotify.com/track/40cMyQLw09ehBKgfvVxjie"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kirk Franklin and the Family",
+        "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 292040,
+      "name": "Silver and Gold - Live",
+      "url": "https://open.spotify.com/track/49BWLtQKtyz1kYhe148mWj"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 271131,
-      "name": "F.A.V.O.R",
-      "url": "https://open.spotify.com/track/7mkUBGYLWcCDO6ypX4ojpj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Citizen of Heaven",
         "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 175292,
       "name": "Millionaire (Good Like That)",
       "url": "https://open.spotify.com/track/6ukbMW0CFuZHU1JQNg36su"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 271131,
+      "name": "F.A.V.O.R",
+      "url": "https://open.spotify.com/track/7mkUBGYLWcCDO6ypX4ojpj"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 245901,
-      "name": "Strong God",
-      "url": "https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 202117,
       "name": "Melodies From Heaven (feat. Maryanne J. George)",
       "url": "https://open.spotify.com/track/1KSglHwhyo430sz8eJy7yh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 245901,
+      "name": "Strong God",
+      "url": "https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 391695,
-      "name": "Father Knows Best",
-      "url": "https://open.spotify.com/track/5PWXxYsrzyQQNeNwrRmmu2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boycott",
         "url": "https://open.spotify.com/album/3MQ28EyvwEflLB5q93AAkf"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 339733,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/48LZC1RDcSX3qwSUkmqLbz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 391695,
+      "name": "Father Knows Best",
+      "url": "https://open.spotify.com/track/5PWXxYsrzyQQNeNwrRmmu2"
     },
     {
       "added_at": null,
@@ -927,6 +927,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Breakthrough (Music From & Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/2e6XpPJpzqrhcsWFVG7ETI"
+      },
+      "artists": [
+        {
+          "name": "Taylor Mosby",
+          "url": "https://open.spotify.com/artist/3pk4AaSmKojd4CmEosErcg"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 265693,
+      "name": "Oceans (Where Feet May Fail)",
+      "url": "https://open.spotify.com/track/7t6JZ71UsOkMLfxCw3kGrK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coloring Book",
         "url": "https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 406983,
       "name": "Finish Line / Drown (feat. T-Pain, Kirk Franklin, Eryn Allen Kane & Noname)",
       "url": "https://open.spotify.com/track/2AgnbuzvnfPvq1sAYNB4pj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breakthrough (Music From & Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/2e6XpPJpzqrhcsWFVG7ETI"
-      },
-      "artists": [
-        {
-          "name": "Taylor Mosby",
-          "url": "https://open.spotify.com/artist/3pk4AaSmKojd4CmEosErcg"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 265693,
-      "name": "Oceans (Where Feet May Fail)",
-      "url": "https://open.spotify.com/track/7t6JZ71UsOkMLfxCw3kGrK"
     }
   ],
   "unique_name": "This Is Kirk Franklin",

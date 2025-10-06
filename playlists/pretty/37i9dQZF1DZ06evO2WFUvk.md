@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WFUvk.md) - [plain]
 | 13 | [Balada del Asalariado](https://open.spotify.com/track/4DTyt4bAO9MTLeef7ARbvj) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Hurbanistorias](https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY) | 4:16 |
 | 14 | [Diva Francesa](https://open.spotify.com/track/7p2EqlcvushiV5rykUlIDZ) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Aventuras En el Defe](https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed) | 2:17 |
 | 15 | [Algo de Suerte](https://open.spotify.com/track/0ZGgIES5fy3c5W135lykST) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [El Profeta Del Nopal](https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt) | 2:44 |
-| 16 | [¿Por Que?](https://open.spotify.com/track/6tOoL5m17SSwwpilAsyfmD) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [No Estoy Loco](https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq) | 2:34 |
+| 16 | [Amor De Telefono Esquinero](https://open.spotify.com/track/1DKz8s5Ro0wVgt9f7zXsEi) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [No Estoy Loco](https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq) | 3:19 |
 | 17 | [El Campeón](https://open.spotify.com/track/4kw4cmB6JJXA6SeqAO4x3t) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Hurbanistorias](https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY) | 3:48 |
 | 18 | [Dicen Que La Muerte](https://open.spotify.com/track/4XwZFbFwHEZlFMwXSzSpPv) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Aventuras En el Defe](https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed) | 3:28 |
 | 19 | [Solares Baldíos](https://open.spotify.com/track/6D8LxaWbw8V8gPG5RFusMc) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [El Profeta Del Nopal](https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt) | 4:26 |
-| 20 | [Amor De Telefono Esquinero](https://open.spotify.com/track/1DKz8s5Ro0wVgt9f7zXsEi) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [No Estoy Loco](https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq) | 3:19 |
+| 20 | [¿Por Que?](https://open.spotify.com/track/6tOoL5m17SSwwpilAsyfmD) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [No Estoy Loco](https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq) | 2:34 |
 | 21 | [Oh, Yo No Sé](https://open.spotify.com/track/3fsyB1v2nRTk0Gkvq2Ju5g) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Hurbanistorias](https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY) | 2:12 |
 | 22 | [El Feo](https://open.spotify.com/track/3l6pDQO0OfeHTeXzr6rTfn) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Aventuras En el Defe](https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed) | 5:51 |
 | 23 | [Huapanguero](https://open.spotify.com/track/6j8hjB5DiTxtq7W4MHFDeM) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [El Profeta Del Nopal](https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt) | 4:10 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WFUvk.md) - [plain]
 | 27 | [Euphoria Under the Stars](https://open.spotify.com/track/6jVadFriXE41vSRDfGqwAL) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Euphoria Under the Stars](https://open.spotify.com/album/2A6MjShDvMsZtRzFkD1p6x) | 2:08 |
 | 28 | [Samambaila \- Original Mix](https://open.spotify.com/track/3jF1PS0bJl7QMkYswXE31U) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Take Me Higher](https://open.spotify.com/album/04nHAVldhSET2NsLsAMn8u) | 5:23 |
 
-Snapshot ID: `aN8SAAAAAADxyAiyS/k9K1KRz7hh0xs8`
+Snapshot ID: `aOBjgAAAAAD3CX9GpHqSQgH5+VHz4sVh`

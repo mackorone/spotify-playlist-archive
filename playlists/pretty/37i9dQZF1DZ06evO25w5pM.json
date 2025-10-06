@@ -1,12 +1,12 @@
 {
   "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 19231,
+  "num_followers": 19235,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAADfSY8pTQK7XaQo8zk0DIg6",
+  "snapshot_id": "aOBjgAAAAAAjGbuBAvnr+QgSgwoqT0O+",
   "tracks": [
     {
       "added_at": null,
@@ -143,8 +143,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atmospheres",
-        "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
+        "name": "Empty Sky",
+        "url": "https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn"
       },
       "artists": [
         {
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 420546,
-      "name": "Four",
-      "url": "https://open.spotify.com/track/07kJszAySuuMhJ8UqXS8PS"
+      "duration_ms": 535946,
+      "name": "Traveling the Stars",
+      "url": "https://open.spotify.com/track/6RqAsTGE7uw6BKlUN2Gpln"
     },
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empty Sky",
-        "url": "https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn"
+        "name": "Atmospheres",
+        "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 535946,
-      "name": "Traveling the Stars",
-      "url": "https://open.spotify.com/track/6RqAsTGE7uw6BKlUN2Gpln"
+      "duration_ms": 420546,
+      "name": "Four",
+      "url": "https://open.spotify.com/track/07kJszAySuuMhJ8UqXS8PS"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Illumination of the Heart",
-        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 458373,
-      "name": "Tonglen",
-      "url": "https://open.spotify.com/track/2GiGFQOH4Dzb3hK895quaS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mystery of Light",
         "url": "https://open.spotify.com/album/2U4w7DS7sZVl7uwWdp7wS9"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 305226,
       "name": "Celestial Meadows",
       "url": "https://open.spotify.com/track/6wkfsDSCPrfEAEfQo8XYjx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Illumination of the Heart",
+        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 458373,
+      "name": "Tonglen",
+      "url": "https://open.spotify.com/track/2GiGFQOH4Dzb3hK895quaS"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reiki Hands of Light",
-        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 610733,
-      "name": "Loving Touch",
-      "url": "https://open.spotify.com/track/0hdMmviZDiyTsuctkBtLpC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Illumination of the Heart",
         "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reiki Hands of Light",
+        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 610733,
+      "name": "Loving Touch",
+      "url": "https://open.spotify.com/track/0hdMmviZDiyTsuctkBtLpC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Atmospheres",
         "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
       },
@@ -679,22 +679,6 @@
       "duration_ms": 383133,
       "name": "Deux",
       "url": "https://open.spotify.com/track/0qcnvg2hjGZpQlE33d8COA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reiki Hands of Light",
-        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 650560,
-      "name": "Waves of Light",
-      "url": "https://open.spotify.com/track/4DKQvhGkiY5UpG7aXF4IHb"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
       "duration_ms": 324426,
       "name": "Memories of an Angel",
       "url": "https://open.spotify.com/track/1FElYZpUQRiruS0KCVklO6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reiki Hands of Light",
+        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 650560,
+      "name": "Waves of Light",
+      "url": "https://open.spotify.com/track/4DKQvhGkiY5UpG7aXF4IHb"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 65463,
+  "num_followers": 65476,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAAB9mIpAfvlmdk+XhY5SNSP8",
+  "snapshot_id": "aOBjgAAAAABkqdxKBevs1A5+FQLLoWM2",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 159840,
-      "name": "Mi Amor No Lo Mereces",
-      "url": "https://open.spotify.com/track/0ocdFIkMTHJrGEGnph6g94"
+      "duration_ms": 218373,
+      "name": "Golondrina Viajera",
+      "url": "https://open.spotify.com/track/43p1EAcsehfb4eT6oSWhJs"
     },
     {
       "added_at": null,
@@ -340,25 +340,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 218373,
-      "name": "Golondrina Viajera",
-      "url": "https://open.spotify.com/track/43p1EAcsehfb4eT6oSWhJs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "No Volver\u00e9",
-      "url": "https://open.spotify.com/track/14rY0Ie4e2XqpHot0vWcaL"
+      "duration_ms": 159840,
+      "name": "Mi Amor No Lo Mereces",
+      "url": "https://open.spotify.com/track/0ocdFIkMTHJrGEGnph6g94"
     },
     {
       "added_at": null,
@@ -375,6 +359,22 @@
       "duration_ms": 163440,
       "name": "Yo Quer\u00eda A Las Dos",
       "url": "https://open.spotify.com/track/6S8ZzM5yzxlYl2GpXodBcT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "No Volver\u00e9",
+      "url": "https://open.spotify.com/track/14rY0Ie4e2XqpHot0vWcaL"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Clasicas del Ayer, Vol. 1",
-        "url": "https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 154533,
-      "name": "El Golpe Traidor",
-      "url": "https://open.spotify.com/track/3Dw29YgE0kNvEBDX1WGTpX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Exitos Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 202840,
       "name": "Para Qu\u00e9 Quieres Que Vuelva",
       "url": "https://open.spotify.com/track/27WMmlAzzcQzj0IPrcXX4O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Clasicas del Ayer, Vol. 1",
+        "url": "https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 154533,
+      "name": "El Golpe Traidor",
+      "url": "https://open.spotify.com/track/3Dw29YgE0kNvEBDX1WGTpX"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Eso o M\u00e1s",
-        "url": "https://open.spotify.com/album/4k5tdo6nMpeMxS6SzOzjA3"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 187871,
-      "name": "Es por Eso Que Te Quiero",
-      "url": "https://open.spotify.com/track/2tbICfpEZEsBewG3hW2sCq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Tus Manos",
         "url": "https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD"
       },
@@ -587,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pensando En Usted",
-        "url": "https://open.spotify.com/album/6DXyjAr1mEW7lIMJv7lyzy"
+        "name": "Con Eso o M\u00e1s",
+        "url": "https://open.spotify.com/album/4k5tdo6nMpeMxS6SzOzjA3"
       },
       "artists": [
         {
@@ -596,9 +580,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 181117,
-      "name": "Pensando En Usted",
-      "url": "https://open.spotify.com/track/7yUvzs4rzLnjJajlwCmsrM"
+      "duration_ms": 187871,
+      "name": "Es por Eso Que Te Quiero",
+      "url": "https://open.spotify.com/track/2tbICfpEZEsBewG3hW2sCq"
     },
     {
       "added_at": null,
@@ -631,6 +615,22 @@
       "duration_ms": 181346,
       "name": "Gabino Barrera",
       "url": "https://open.spotify.com/track/1PL4HE40pSXt8SWkBND1la"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pensando En Usted",
+        "url": "https://open.spotify.com/album/6DXyjAr1mEW7lIMJv7lyzy"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 181117,
+      "name": "Pensando En Usted",
+      "url": "https://open.spotify.com/track/7yUvzs4rzLnjJajlwCmsrM"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos Historicos, Vol. 2",
-        "url": "https://open.spotify.com/album/0A6Tcem0fgtdekMek63yrV"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 184133,
-      "name": "Amor Ingrato",
-      "url": "https://open.spotify.com/track/3WzL5T9QinwHJlwC8PjD04"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuesta Arriba",
         "url": "https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi"
       },
@@ -747,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Exitos: La Maquina Musical Numero Uno",
-        "url": "https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD"
+        "name": "20 Exitos Historicos, Vol. 2",
+        "url": "https://open.spotify.com/album/0A6Tcem0fgtdekMek63yrV"
       },
       "artists": [
         {
@@ -756,9 +740,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 214973,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/1Pdf0Ra4DMrCeOQOYigle9"
+      "duration_ms": 184133,
+      "name": "Amor Ingrato",
+      "url": "https://open.spotify.com/track/3WzL5T9QinwHJlwC8PjD04"
     },
     {
       "added_at": null,
@@ -775,6 +759,22 @@
       "duration_ms": 202573,
       "name": "Las Rejas No Matan",
       "url": "https://open.spotify.com/track/0wxflEn0aQ8VQ5fKZPJVjq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 Exitos: La Maquina Musical Numero Uno",
+        "url": "https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/1Pdf0Ra4DMrCeOQOYigle9"
     },
     {
       "added_at": null,

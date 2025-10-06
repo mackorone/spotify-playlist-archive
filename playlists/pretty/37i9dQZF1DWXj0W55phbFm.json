@@ -1,6 +1,6 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 76256,
+  "num_followers": 76304,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,22 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
+        "name": "Marsalis Standard Time - Volume I",
+        "url": "https://open.spotify.com/album/6tDA8wJvkFgz3UDVW0pXat"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 385733,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/7sCl2yfvZHChasvpuZ4muh"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
         "name": "Fats Navarro Memorial Album",
         "url": "https://open.spotify.com/album/3clL5Ml3ZB7v4T4AYwRprQ"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 171123,
       "name": "Lady Bird",
       "url": "https://open.spotify.com/track/1vefcOBRQ83aE7tMO33njz"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
-        "name": "Marsalis Standard Time - Volume I",
-        "url": "https://open.spotify.com/album/6tDA8wJvkFgz3UDVW0pXat"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 385733,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/7sCl2yfvZHChasvpuZ4muh"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -883,6 +883,22 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
+        "name": "Dizzy 100",
+        "url": "https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 303522,
+      "name": "Con Alma",
+      "url": "https://open.spotify.com/track/3cJZT2monFlaNCgXvuDQwZ"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
         "name": "Dona Nostra",
         "url": "https://open.spotify.com/album/5ld8MkClrbCUoPIud5B80N"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 227773,
       "name": "What Reason Could I Give",
       "url": "https://open.spotify.com/track/0JRq65dblAmI3REEchAfF8"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
-        "name": "Dizzy 100",
-        "url": "https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 303522,
-      "name": "Con Alma",
-      "url": "https://open.spotify.com/track/3cJZT2monFlaNCgXvuDQwZ"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1095,30 +1095,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Clifford Brown And Max Roach At Basin Street (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6PuVuJwyxyBZXMz73teSoV"
-      },
-      "artists": [
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        },
-        {
-          "name": "Max Roach Quintet",
-          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
-        },
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 453146,
-      "name": "What Is This Thing Called Love",
-      "url": "https://open.spotify.com/track/3zqVCujN4nNryzTCwLGO3G"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "I Am a Man (with Bill Frisell, Brian Blade, Jason Moran & Thomas Morgan)",
         "url": "https://open.spotify.com/album/7foEq7VyoOsDoFMVaBQz80"
       },
@@ -1147,6 +1123,30 @@
       "duration_ms": 571863,
       "name": "The Gift That Keeps on Giving",
       "url": "https://open.spotify.com/track/3IKLMhVbSKa40glkfeE9vH"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Clifford Brown And Max Roach At Basin Street (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6PuVuJwyxyBZXMz73teSoV"
+      },
+      "artists": [
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        },
+        {
+          "name": "Max Roach Quintet",
+          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
+        },
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 453146,
+      "name": "What Is This Thing Called Love",
+      "url": "https://open.spotify.com/track/3zqVCujN4nNryzTCwLGO3G"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
+        "name": "Simply Stated",
+        "url": "https://open.spotify.com/album/4wEB2Jr7x5yEKf0Z1cySwK"
+      },
+      "artists": [
+        {
+          "name": "Terence Blanchard",
+          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
+        }
+      ],
+      "duration_ms": 600493,
+      "name": "Dear Old Stockholm",
+      "url": "https://open.spotify.com/track/0HvbCzWKX92WGotTTD1Pdb"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
         "name": "With The Swedish All Stars Vol. 1",
         "url": "https://open.spotify.com/album/07IYJflVPQR4TYZ3tWOcrv"
       },
@@ -1251,18 +1267,18 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Simply Stated",
-        "url": "https://open.spotify.com/album/4wEB2Jr7x5yEKf0Z1cySwK"
+        "name": "A Rift In Decorum: Live At The Village Vanguard",
+        "url": "https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb"
       },
       "artists": [
         {
-          "name": "Terence Blanchard",
-          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
+          "name": "Ambrose Akinmusire",
+          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
         }
       ],
-      "duration_ms": 600493,
-      "name": "Dear Old Stockholm",
-      "url": "https://open.spotify.com/track/0HvbCzWKX92WGotTTD1Pdb"
+      "duration_ms": 337893,
+      "name": "Response - Live",
+      "url": "https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1283,22 +1299,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "A Rift In Decorum: Live At The Village Vanguard",
-        "url": "https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb"
-      },
-      "artists": [
-        {
-          "name": "Ambrose Akinmusire",
-          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
-        }
-      ],
-      "duration_ms": 337893,
-      "name": "Response - Live",
-      "url": "https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "Payton's Place",
         "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
       },
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Moving Picture",
-        "url": "https://open.spotify.com/album/3g6UX28wugOtBMsiIga6fh"
-      },
-      "artists": [
-        {
-          "name": "Tom Harrell",
-          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
-        }
-      ],
-      "duration_ms": 312313,
-      "name": "Apple House",
-      "url": "https://open.spotify.com/track/6X797mLARJh7FngEqsDkaL"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "Magnetic",
         "url": "https://open.spotify.com/album/7lKQFTVYJ30NpxHhYMIA98"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 479266,
       "name": "Jacob's Ladder",
       "url": "https://open.spotify.com/track/4sdEI4KEYvzon0FkfWvuYA"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Moving Picture",
+        "url": "https://open.spotify.com/album/3g6UX28wugOtBMsiIga6fh"
+      },
+      "artists": [
+        {
+          "name": "Tom Harrell",
+          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
+        }
+      ],
+      "duration_ms": 312313,
+      "name": "Apple House",
+      "url": "https://open.spotify.com/track/6X797mLARJh7FngEqsDkaL"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Noir en rouge (Live in Paris)",
-        "url": "https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX"
+        "name": "Alone Together",
+        "url": "https://open.spotify.com/album/7tO6vuWCWq09T1znsipZsd"
       },
       "artists": [
         {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+          "name": "Tim Hagans",
+          "url": "https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr"
         }
       ],
-      "duration_ms": 487946,
-      "name": "Re-invention - Live in Paris",
-      "url": "https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6"
+      "duration_ms": 418642,
+      "name": "Sweet Peach Tree",
+      "url": "https://open.spotify.com/track/3GuNFZcceWh90K9Fvj1SUT"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Alone Together",
-        "url": "https://open.spotify.com/album/7tO6vuWCWq09T1znsipZsd"
+        "name": "Noir en rouge (Live in Paris)",
+        "url": "https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX"
       },
       "artists": [
         {
-          "name": "Tim Hagans",
-          "url": "https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr"
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
         }
       ],
-      "duration_ms": 418642,
-      "name": "Sweet Peach Tree",
-      "url": "https://open.spotify.com/track/3GuNFZcceWh90K9Fvj1SUT"
+      "duration_ms": 487946,
+      "name": "Re-invention - Live in Paris",
+      "url": "https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1515,6 +1515,26 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
+        "name": "Hubsongs",
+        "url": "https://open.spotify.com/album/59pKnjWQvSgy4kImdZbWIB"
+      },
+      "artists": [
+        {
+          "name": "Tim Hagans",
+          "url": "https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr"
+        },
+        {
+          "name": "Marcus Printup",
+          "url": "https://open.spotify.com/artist/5q38comXVCcw1tvCuJOeWf"
+        }
+      ],
+      "duration_ms": 265200,
+      "name": "Hub Cap",
+      "url": "https://open.spotify.com/track/2Re5a1uziT52AjVVpug18m"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
         "name": "Dusty Blue",
         "url": "https://open.spotify.com/album/6ZtGsmFIs8KxA4ovr9ScHU"
       },
@@ -1539,26 +1559,6 @@
       "duration_ms": 267180,
       "name": "Cottage for Sale",
       "url": "https://open.spotify.com/track/11YUyneklQZhbVsc9fWglV"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
-        "name": "Hubsongs",
-        "url": "https://open.spotify.com/album/59pKnjWQvSgy4kImdZbWIB"
-      },
-      "artists": [
-        {
-          "name": "Tim Hagans",
-          "url": "https://open.spotify.com/artist/6MACuJx69EQiikIyZsEbFr"
-        },
-        {
-          "name": "Marcus Printup",
-          "url": "https://open.spotify.com/artist/5q38comXVCcw1tvCuJOeWf"
-        }
-      ],
-      "duration_ms": 265200,
-      "name": "Hub Cap",
-      "url": "https://open.spotify.com/track/2Re5a1uziT52AjVVpug18m"
     },
     {
       "added_at": "2025-09-10 12:53:12",

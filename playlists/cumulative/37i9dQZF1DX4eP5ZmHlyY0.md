@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: JO1
 
-739 songs - 1 day 16 hr 34 min
+741 songs - 1 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Blissful](https://open.spotify.com/track/2H1rVi4N3UPddfw5JSXETf) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Blissful](https://open.spotify.com/album/3I9GqQlys7OiNis3Z0fduA) | 3:30 | 2024-08-13 | 2025-02-28 |
 | [BLOOM \(feat\. Ayumu Imazu\)](https://open.spotify.com/track/6jBeNTZcQrzvAMr1p9QBDV) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz), [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [BLOOM \(feat\. Ayumu Imazu\)](https://open.spotify.com/album/6ViNM72dBCuPDyJMetsWI6) | 3:29 | 2025-06-02 | 2025-06-25 |
 | [Blow Your Cover](https://open.spotify.com/track/1gmr7JOnYuR9eq4sqVv6pN) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [Blow Your Cover](https://open.spotify.com/album/5qxa3A2fmTtqzOFTSD6rgQ) | 2:39 | 2024-04-12 | 2024-05-29 |
-| [BLUE](https://open.spotify.com/track/4IehAfAGnazAV2KiH3zfRv) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [空](https://open.spotify.com/album/5fg8QLCJt6TpzAPjD5JMTK) | 2:41 | 2025-09-16 |  |
+| [BLUE](https://open.spotify.com/track/4IehAfAGnazAV2KiH3zfRv) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [空](https://open.spotify.com/album/5fg8QLCJt6TpzAPjD5JMTK) | 2:41 | 2025-09-16 | 2025-10-06 |
 | [BLUE \- Japanese ver.](https://open.spotify.com/track/5ELGegnHxGQDRy5mWjgGKh) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [BLUE \(Japanese ver.\)](https://open.spotify.com/album/7i6ZTJn1LA0V9FDLOEIpC7) | 3:02 | 2025-03-20 | 2025-04-16 |
 | [Blue Flame](https://open.spotify.com/track/2HL9ZAoNjflbahJ8QuqqxN) | [aoen](https://open.spotify.com/artist/24TQYvsd9qzVdHU2j1zY5i) | [青い太陽](https://open.spotify.com/album/6zKaq83ZghJi7NJyy3BDS3) | 3:06 | 2025-06-09 | 2025-10-04 |
 | [BO$$Y](https://open.spotify.com/track/12IAErrJ4t96w75iP5HMau) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [VIIsual](https://open.spotify.com/album/2NbRDGdARD2nXnVlou8wjF) | 3:33 | 2024-12-03 | 2025-03-07 |
@@ -537,6 +537,7 @@
 | [STARBOYS](https://open.spotify.com/track/1t4pem876QGWXXaBKLktMR) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [STARBOYS](https://open.spotify.com/album/5Q33AkiYXkiY7wqRq2MmeY) | 3:28 | 2023-11-23 | 2023-12-06 |
 | [Stardust Forever](https://open.spotify.com/track/1XlzDHh9u8HW29ApDIsE6O) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [Stardust Forever](https://open.spotify.com/album/5wRZA4UGl6Rxm2lDSnrsdh) | 2:49 | 2025-07-28 | 2025-10-01 |
 | [Stardust Forever](https://open.spotify.com/track/5lyhVD94kdyF2GaR844zPa) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [Stardust Forever](https://open.spotify.com/album/2DuzA2TVZxOXkIt4xuuSwE) | 2:49 | 2025-06-12 | 2025-07-25 |
+| [Stare In Wonder](https://open.spotify.com/track/2STK9x4KfYyeC82zsdJ2WM) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Stare In Wonder](https://open.spotify.com/album/34Y0UOwoUZNrGlafpg7d4D) | 3:17 | 2025-10-06 |  |
 | [Stargaze](https://open.spotify.com/track/2c0DXz1BW0FdiDXi2h4prp) | [SixTONES](https://open.spotify.com/artist/7dhueqtbx2NVq1leXyqaNl) | [Stargaze](https://open.spotify.com/album/2fOvvVnrRNqmMvPWjWxDDx) | 3:57 | 2025-07-07 |  |
 | [STARRY LOVE](https://open.spotify.com/track/6meVZwlQ5LdOCjxUy0ipQq) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [STARRY LOVE](https://open.spotify.com/album/27rELiARZxybADb2rbTEli) | 5:06 | 2024-01-16 | 2024-04-24 |
 | [Stars](https://open.spotify.com/track/1L9ON381JuyfpFmrrsSpt6) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Snowin’ \(Special Edition\)](https://open.spotify.com/album/3UKyosnPDUiTp3mj9bMCLM) | 3:20 | 2024-01-31 | 2024-02-07 |
@@ -594,6 +595,7 @@
 | [Treasure Believer](https://open.spotify.com/track/47kYfk9KuZppYzt1n7soRP) | [VΔLZ](https://open.spotify.com/artist/5NsoCPfSPuShXpS1xuLmPf) | [三華の樂](https://open.spotify.com/album/4GnRqlotGHfKskEIprHBEz) | 3:52 | 2024-06-04 | 2024-06-13 |
 | [Trendsetter](https://open.spotify.com/track/0KdRHPuaYxXmDkHPNMHo3l) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Unstoppable](https://open.spotify.com/album/2JJxm3mIqGHbrwDGxDoMQ8) | 3:15 | 2024-10-08 | 2024-11-13 |
 | [Tricky](https://open.spotify.com/track/3G6rXjTd5dzChNH3xTeTZj) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [BAM\-BOO／ミチシルベ](https://open.spotify.com/album/4na3Tzdx6VoIUy6J57Papr) | 3:23 | 2024-12-17 | 2025-04-03 |
+| [TRUE LOVE](https://open.spotify.com/track/0wnjaknKCvliLDwsrTiAYz) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [TRUE LOVE](https://open.spotify.com/album/0Vx9lG8jqCsS4lYKnynCO8) | 4:25 | 2025-10-06 |  |
 | [True or Doubt](https://open.spotify.com/track/4rYthQE68476ZAuZCcz6g0) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [True or Doubt](https://open.spotify.com/album/5y1BmvP8eyXHn01gKycYso) | 3:07 | 2025-02-04 | 2025-02-12 |
 | [Twilight](https://open.spotify.com/track/34j16cc8dbfSQBUDSp5tBG) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Twilight](https://open.spotify.com/album/3l0ysTm95Ki0mi3wgvpNhx) | 3:23 | 2025-03-06 | 2025-04-16 |
 | [Twilight Glitter](https://open.spotify.com/track/4w5oCahIkgM7DWsVdhYGPB) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [BFX / Twilight Glitter](https://open.spotify.com/album/28cOFiqdYxgRmd26KYYjCW) | 3:15 | 2025-09-15 | 2025-10-01 |
@@ -676,7 +678,7 @@
 | [オモイダマ jam with 東京スカパラダイスオーケストラ](https://open.spotify.com/track/3RtcU6Ytb0vOoJ9SrsD8Le) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [SUPER EIGHT](https://open.spotify.com/album/24rRGwyzAfk1fmhyvaKTzA) | 4:58 | 2024-07-30 | 2024-09-04 |
 | [オレンジユース](https://open.spotify.com/track/0tyWACXs21qrDmFCCuVlmp) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [オレンジユース](https://open.spotify.com/album/3dB38r28Uyoi5ykhYFI0X7) | 3:32 | 2024-11-12 | 2025-03-07 |
 | [カカッテコーゼ](https://open.spotify.com/track/4NPPfmUsi86rgdRZNL5oWa) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [SUPER EIGHT](https://open.spotify.com/album/24rRGwyzAfk1fmhyvaKTzA) | 3:30 | 2024-07-30 | 2024-08-23 |
-| [カリスマックス \-CHARISMAX](https://open.spotify.com/track/76OElzXqlyLCdlSypwSKBy) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [カリスマックス \-CHARISMAX](https://open.spotify.com/album/5VWD7lx3jH6XKPfPeeLhyv) | 2:57 | 2025-08-24 |  |
+| [カリスマックス \-CHARISMAX](https://open.spotify.com/track/76OElzXqlyLCdlSypwSKBy) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [カリスマックス \-CHARISMAX](https://open.spotify.com/album/5VWD7lx3jH6XKPfPeeLhyv) | 2:57 | 2025-08-24 | 2025-10-06 |
 | [ガーベラ](https://open.spotify.com/track/2YRmtXRIo66phllXOLOdlL) | [MA55IVE THE RAMPAGE](https://open.spotify.com/artist/4WrhFhuiPWwEkbsRzAjMBk) | [ガーベラ](https://open.spotify.com/album/0yvENWr39Af087Csjjqrdz) | 3:23 | 2024-02-20 | 2024-03-01 |
 | [キミノトコマデ](https://open.spotify.com/track/43cEuCJTfJFHMDEBYqkgkk) | [MA55IVE THE RAMPAGE](https://open.spotify.com/artist/4WrhFhuiPWwEkbsRzAjMBk) | [キミノトコマデ](https://open.spotify.com/album/2EIVEU0l83fLtfn4kGQMPb) | 3:17 | 2025-04-23 | 2025-05-02 |
 | [ギラギラサマー](https://open.spotify.com/track/2sHxORfEwQLuFCINxl0znD) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [ギラギラサマー](https://open.spotify.com/album/02HW2ZpiMq4sURnpLKJ5Im) | 3:24 | 2025-06-02 | 2025-06-18 |

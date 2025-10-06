@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 58552,
+  "num_followers": 58594,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAADdsW6F9g3m1N/WGr3Vedpp",
+  "snapshot_id": "aOBjgAAAAAD413zmPbR7O3B9P8GLSSVf",
   "tracks": [
     {
       "added_at": null,
@@ -287,38 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The King Is In The Room",
-        "url": "https://open.spotify.com/album/7hXxO9keavefw7sN4pBXBD"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "The King Is In The Room",
-      "url": "https://open.spotify.com/track/6XhhHQf50vjnqwhHsNQSpk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Song Of The Saints",
-        "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 277666,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/5P7veaw4BSq113uSBzjXbJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hymn Of Heaven",
         "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
       },
@@ -339,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
+        "name": "Song Of The Saints",
+        "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
       },
       "artists": [
         {
@@ -348,9 +316,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 283986,
-      "name": "The Jesus Way",
-      "url": "https://open.spotify.com/track/5PVVQO4c7O3OjDhYXUBaoa"
+      "duration_ms": 242066,
+      "name": "The King Is In The Room",
+      "url": "https://open.spotify.com/track/7g5XHIyUEAOIAVgQvPx7uW"
     },
     {
       "added_at": null,
@@ -371,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Of The Saints",
-        "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
       },
       "artists": [
         {
@@ -380,9 +348,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 234266,
-      "name": "Resurrection Story",
-      "url": "https://open.spotify.com/track/7l7tQa5ua6beykmoT5tZYc"
+      "duration_ms": 283986,
+      "name": "The Jesus Way",
+      "url": "https://open.spotify.com/track/5PVVQO4c7O3OjDhYXUBaoa"
     },
     {
       "added_at": null,
@@ -407,22 +375,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
+        "name": "Song Of The Saints",
+        "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
       },
       "artists": [
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
         }
       ],
-      "duration_ms": 274586,
-      "name": "Psalm 23",
-      "url": "https://open.spotify.com/track/2ZUpGGamEJbx8DBxGMkzcl"
+      "duration_ms": 277666,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/5P7veaw4BSq113uSBzjXbJ"
     },
     {
       "added_at": null,
@@ -443,34 +407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Of The Saints",
-        "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
       },
       "artists": [
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "God Is Good",
-      "url": "https://open.spotify.com/track/00bSuPKmdXWlhdaYgyPta3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hymn Of Heaven (Acoustic Sessions)",
-        "url": "https://open.spotify.com/album/2vo5O7TN9M2ukYs8ZmTNqj"
-      },
-      "artists": [
+        },
         {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
         }
       ],
-      "duration_ms": 272391,
-      "name": "Reason I Sing - Acoustic",
-      "url": "https://open.spotify.com/track/43OioCdtXLa0YuS8tgBGAY"
+      "duration_ms": 274586,
+      "name": "Psalm 23",
+      "url": "https://open.spotify.com/track/2ZUpGGamEJbx8DBxGMkzcl"
     },
     {
       "added_at": null,
@@ -491,6 +443,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Song Of The Saints",
+        "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 234266,
+      "name": "Resurrection Story",
+      "url": "https://open.spotify.com/track/7l7tQa5ua6beykmoT5tZYc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hymn Of Heaven (Acoustic Sessions)",
+        "url": "https://open.spotify.com/album/2vo5O7TN9M2ukYs8ZmTNqj"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 272391,
+      "name": "Reason I Sing - Acoustic",
+      "url": "https://open.spotify.com/track/43OioCdtXLa0YuS8tgBGAY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Believe",
         "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
       },
@@ -507,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Of The Saints",
-        "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 360666,
-      "name": "Song Of The Saints",
-      "url": "https://open.spotify.com/track/4pMM0veMMHssV2N243bJLv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hymn Of Heaven",
         "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
       },
@@ -535,6 +503,22 @@
       "duration_ms": 241946,
       "name": "It's Always Been You",
       "url": "https://open.spotify.com/track/5Tc2hNyood20vuKm89NeCf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Song Of The Saints",
+        "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "God Is Good",
+      "url": "https://open.spotify.com/track/00bSuPKmdXWlhdaYgyPta3"
     },
     {
       "added_at": null,
@@ -739,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Children of God",
-        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 289333,
-      "name": "My All in All",
-      "url": "https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The King Is Still The King",
         "url": "https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS"
       },
@@ -771,6 +739,22 @@
       "duration_ms": 299459,
       "name": "He Has Done Great Things",
       "url": "https://open.spotify.com/track/7CvI6gPRlOwsdeRXYjgVUV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Children of God",
+        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 289333,
+      "name": "My All in All",
+      "url": "https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE"
     },
     {
       "added_at": null,
@@ -811,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worthy Of My Song",
-        "url": "https://open.spotify.com/album/16fFn81XGGaucqyWowE7QS"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 371640,
-      "name": "Worthy Of My Song",
-      "url": "https://open.spotify.com/track/5VYr4jdVKLv84Ekcv6tCiA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Children of God Acoustic Sessions",
         "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
       },
@@ -839,6 +807,22 @@
       "duration_ms": 239973,
       "name": "At the Foot of the Cross - Acoustic",
       "url": "https://open.spotify.com/track/59dF79fypzaMFZYJCCPJbl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Worthy Of My Song",
+        "url": "https://open.spotify.com/album/16fFn81XGGaucqyWowE7QS"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 371640,
+      "name": "Worthy Of My Song",
+      "url": "https://open.spotify.com/track/5VYr4jdVKLv84Ekcv6tCiA"
     },
     {
       "added_at": null,

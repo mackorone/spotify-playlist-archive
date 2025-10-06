@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUppGmuwT9c7.md) - [plain]
 
 > De grootste hits uit de kroeg in één playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,125 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,226 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

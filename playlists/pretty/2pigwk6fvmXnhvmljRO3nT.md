@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,695 songs - 19 day 21 hr 30 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,704 songs - 19 day 21 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7703,5 +7703,14 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7693 | [テレキャスタービーボーイ](https://open.spotify.com/track/4GAfHKDHRbij9C9KhB4org) | [鳳えむ](https://open.spotify.com/artist/5i94WQNVMViXkTFxm8zNiB) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム ワンダーランズ×ショウタイム](https://open.spotify.com/album/44QtOmDSqlazhtmEGsBUJ7) | 2:46 |
 | 7694 | [フジヤマディスコ](https://open.spotify.com/track/5VBjgiTYtgcSwLa2osNX3P) | [SILENT SIREN](https://open.spotify.com/artist/11FVEsg4m3QWzNfaK7vykQ) | [GIRLS POWER](https://open.spotify.com/album/1Uy0c2cwmBf1EQpbKT45cU) | 4:39 |
 | 7695 | [Backpack City](https://open.spotify.com/track/6aV7QHKbMMGF8f5C4sWbiP) | [Flovry](https://open.spotify.com/artist/2pLu3Ut2C3RviYZ3xUanBs), [tender spring](https://open.spotify.com/artist/0WCCipy2qiobvuygnTMdkC) | [Ages Ago](https://open.spotify.com/album/3K7vNByEnYpjkNAF94qnon) | 2:31 |
+| 7696 | [ミルククラウン・オン・ソーネチカ](https://open.spotify.com/track/1N4f4H5nXJUgc4qmpELvvf) | [花里みのり](https://open.spotify.com/artist/0PNaamnT0FCz53QxNeDQVo) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム MORE MORE JUMP！](https://open.spotify.com/album/3AAX5Rt3xYCnOEvQiIdJgi) | 3:36 |
+| 7697 | [Between the Waves](https://open.spotify.com/track/6dmkVmsuPfAPtpTkUNho7h) | [Wuthering Waves](https://open.spotify.com/artist/4NJxtQzTTeO3ObGlBcxVAh), [jixwang](https://open.spotify.com/artist/4TTQTwzQJgtCLjMrIBXhEZ) | [Into the Depths](https://open.spotify.com/album/7IY2C495boRx3P5bTmdt3N) | 1:13 |
+| 7698 | [Solitary Boat on a Long Voyage](https://open.spotify.com/track/5KKniwqQUCP4Wm27Xv3KXD) | [Wuthering Waves](https://open.spotify.com/artist/4NJxtQzTTeO3ObGlBcxVAh), [YUE.STEVEN](https://open.spotify.com/artist/3fTSVN7hdmCE107F0wBrGm) | [Into the Depths](https://open.spotify.com/album/7IY2C495boRx3P5bTmdt3N) | 1:13 |
+| 7699 | [De Caelo / On the Heavens](https://open.spotify.com/track/70OT4YmpKRGWMiXaPs280p) | [Wuthering Waves](https://open.spotify.com/artist/4NJxtQzTTeO3ObGlBcxVAh), [baitian](https://open.spotify.com/artist/7A517I1oZfmO5nieMFSEaH) | [Into the Depths](https://open.spotify.com/album/7IY2C495boRx3P5bTmdt3N) | 3:04 |
+| 7700 | [Echoes of Destruction](https://open.spotify.com/track/2pEaBbMR6rn4wyfUtfW4Cg) | [Wuthering Waves](https://open.spotify.com/artist/4NJxtQzTTeO3ObGlBcxVAh), [GoKou](https://open.spotify.com/artist/5Ut4i7ATcLyWOAnjpffipj) | [Into the Depths](https://open.spotify.com/album/7IY2C495boRx3P5bTmdt3N) | 1:11 |
+| 7701 | [All the Rediscovered Tales](https://open.spotify.com/track/2LtqAYahiJVoBvBCJyOs8s) | [Wuthering Waves](https://open.spotify.com/artist/4NJxtQzTTeO3ObGlBcxVAh), [jixwang](https://open.spotify.com/artist/4TTQTwzQJgtCLjMrIBXhEZ), [TreeO3O](https://open.spotify.com/artist/2Blfr5X3eyNKjcRkDh4xSv) | [Into the Depths](https://open.spotify.com/album/7IY2C495boRx3P5bTmdt3N) | 1:32 |
+| 7702 | [The Very First Fairy Tale Theater](https://open.spotify.com/track/7pS7a8sMyW8hfr8in6Fcuy) | [Wuthering Waves](https://open.spotify.com/artist/4NJxtQzTTeO3ObGlBcxVAh), [TreeO3O](https://open.spotify.com/artist/2Blfr5X3eyNKjcRkDh4xSv) | [Into the Depths](https://open.spotify.com/album/7IY2C495boRx3P5bTmdt3N) | 2:39 |
+| 7703 | [Adventure in the Wooly Kingdom](https://open.spotify.com/track/26NIrZaXWrERpMNQ1cwajn) | [Wuthering Waves](https://open.spotify.com/artist/4NJxtQzTTeO3ObGlBcxVAh), [沐可Linda](https://open.spotify.com/artist/5cI1KAMsGNyEp9xjVhOe5F) | [Into the Depths](https://open.spotify.com/album/7IY2C495boRx3P5bTmdt3N) | 1:37 |
+| 7704 | [Wooly Warrior Strikes!](https://open.spotify.com/track/1PJwqWA17qJanpEDhpWAx3) | [Wuthering Waves](https://open.spotify.com/artist/4NJxtQzTTeO3ObGlBcxVAh), [沐可Linda](https://open.spotify.com/artist/5cI1KAMsGNyEp9xjVhOe5F) | [Into the Depths](https://open.spotify.com/album/7IY2C495boRx3P5bTmdt3N) | 1:12 |
 
-Snapshot ID: `AAAJCcDFUg/vDcOaGkK2PyzRPAH21ELz`
+Snapshot ID: `AAAJEvdbOgjCOJnnnQDkABH/EO4sBKS+`

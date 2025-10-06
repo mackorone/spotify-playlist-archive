@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66842,
+  "num_followers": 66836,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAAD/6HXv+IpHqgdTM4zuTNgo",
+  "snapshot_id": "aOBjgAAAAADZSKMtjK477g4mB8HqFF9K",
   "tracks": [
     {
       "added_at": null,
@@ -291,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus Prover\u00e1",
-        "url": "https://open.spotify.com/album/45xNlZQyeXiB8aYcLZSjAm"
+        "name": "O Tanque de Betesda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6FkkGzO3T0ZcBAPKSQN9AG"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 335946,
-      "name": "Deus Prover\u00e1",
-      "url": "https://open.spotify.com/track/6xPypgIH4fzWAFFP5DF2Zy"
+      "duration_ms": 304280,
+      "name": "O Tanque de Betesda (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6NwSwEUPsZy3WC7MbsyzmJ"
     },
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Tanque de Betesda (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6FkkGzO3T0ZcBAPKSQN9AG"
+        "name": "Deus Prover\u00e1",
+        "url": "https://open.spotify.com/album/45xNlZQyeXiB8aYcLZSjAm"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 304280,
-      "name": "O Tanque de Betesda (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6NwSwEUPsZy3WC7MbsyzmJ"
+      "duration_ms": 335946,
+      "name": "Deus Prover\u00e1",
+      "url": "https://open.spotify.com/track/6xPypgIH4fzWAFFP5DF2Zy"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "At\u00e9 Tocar o C\u00e9u",
+        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 294661,
+      "name": "Deus Est\u00e1 me Ensinando",
+      "url": "https://open.spotify.com/track/3ewNwpEyciD3Ly38dmAgcl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Na Casa de Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/7yentyJ51KwfcdZUGD1wXm"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 242093,
       "name": "Na Casa de Deus (Ao Vivo)",
       "url": "https://open.spotify.com/track/405pnewk2TN2WxsUKyvbS4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "At\u00e9 Tocar o C\u00e9u",
-        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 294661,
-      "name": "Deus Est\u00e1 me Ensinando",
-      "url": "https://open.spotify.com/track/3ewNwpEyciD3Ly38dmAgcl"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sonhos N\u00e3o T\u00eam Fim",
+        "url": "https://open.spotify.com/album/4dTjsSkmgBLEfPrtmqerb5"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 402587,
+      "name": "Sonhos N\u00e3o Tem Fim",
+      "url": "https://open.spotify.com/track/2eNcB9K068sJio6Udpix6T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deus Prover\u00e1 + De Nada Tenho Falta (Ao Vivo)",
         "url": "https://open.spotify.com/album/2zyADzeYjaUwdBh7ecCpSP"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 363600,
       "name": "Deus Prover\u00e1 + De Nada Tenho Falta (Ao Vivo)",
       "url": "https://open.spotify.com/track/0P32dn0FwLXHbGn9nUxT8H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sonhos N\u00e3o T\u00eam Fim",
-        "url": "https://open.spotify.com/album/4dTjsSkmgBLEfPrtmqerb5"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 402587,
-      "name": "Sonhos N\u00e3o Tem Fim",
-      "url": "https://open.spotify.com/track/2eNcB9K068sJio6Udpix6T"
     },
     {
       "added_at": null,
@@ -867,6 +867,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Simplesmente Te Adorar + Eu S\u00f3 Quero Tua Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6sqyWe2roWz3gVylfXy2BM"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "L\u00e9o Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L"
+        },
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        }
+      ],
+      "duration_ms": 463133,
+      "name": "Simplesmente Te Adorar + Eu S\u00f3 Quero Tua Presen\u00e7a (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5DhuUO1J5wflNCsJOvSbcp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Marina de Oliveira - Gospel Collection Ao Vivo",
         "url": "https://open.spotify.com/album/4PcFH8X4A19i8WMtkT967n"
       },
@@ -935,30 +959,6 @@
       "duration_ms": 182508,
       "name": "Unidos Pelo Amor",
       "url": "https://open.spotify.com/track/58JbyiEMEfi9SfOAmnvyeV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Simplesmente Te Adorar + Eu S\u00f3 Quero Tua Presen\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6sqyWe2roWz3gVylfXy2BM"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "L\u00e9o Brand\u00e3o",
-          "url": "https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L"
-        },
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        }
-      ],
-      "duration_ms": 463133,
-      "name": "Simplesmente Te Adorar + Eu S\u00f3 Quero Tua Presen\u00e7a (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5DhuUO1J5wflNCsJOvSbcp"
     },
     {
       "added_at": null,

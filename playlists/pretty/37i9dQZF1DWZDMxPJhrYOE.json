@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105599,
+  "num_followers": 105613,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-10-02 22:00:52",
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 215511,
-      "name": "Camera",
-      "url": "https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka"
-    },
-    {
-      "added_at": "2025-10-02 22:00:52",
-      "album": {
         "name": "Vie",
         "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 266021,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph"
+    },
+    {
+      "added_at": "2025-10-02 22:00:52",
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 215511,
+      "name": "Camera",
+      "url": "https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka"
     },
     {
       "added_at": "2025-10-02 22:00:52",
@@ -675,26 +675,6 @@
     {
       "added_at": "2025-10-02 22:00:52",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 219087,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W"
-    },
-    {
-      "added_at": "2025-10-02 22:00:52",
-      "album": {
         "name": "The Happy Dictator (feat. Sparks)",
         "url": "https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 284775,
       "name": "The Happy Dictator (feat. Sparks)",
       "url": "https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d"
+    },
+    {
+      "added_at": "2025-10-02 22:00:52",
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 219087,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W"
     },
     {
       "added_at": "2025-10-02 22:00:52",
@@ -979,6 +979,42 @@
     {
       "added_at": "2025-10-02 22:00:52",
       "album": {
+        "name": "What No One's Thinking",
+        "url": "https://open.spotify.com/album/2cNDGdbVTxhvH3elDcLVKh"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 302653,
+      "name": "The Big Goodbye",
+      "url": "https://open.spotify.com/track/2VvdnhGdRYqYCenXLh6rJ4"
+    },
+    {
+      "added_at": "2025-10-02 22:00:52",
+      "album": {
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "Moon (Feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/2RBvwQI858xReQpWSRO866"
+    },
+    {
+      "added_at": "2025-10-02 22:00:52",
+      "album": {
         "name": "FUNNY little FEARS (DREAMS)",
         "url": "https://open.spotify.com/album/3TZONvyRaehRSxPangnoG5"
       },
@@ -1003,22 +1039,6 @@
     {
       "added_at": "2025-10-02 22:00:52",
       "album": {
-        "name": "What No One's Thinking",
-        "url": "https://open.spotify.com/album/2cNDGdbVTxhvH3elDcLVKh"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 302653,
-      "name": "The Big Goodbye",
-      "url": "https://open.spotify.com/track/2VvdnhGdRYqYCenXLh6rJ4"
-    },
-    {
-      "added_at": "2025-10-02 22:00:52",
-      "album": {
         "name": "Sex Hysteria",
         "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 168247,
       "name": "1965",
       "url": "https://open.spotify.com/track/1CnEPh46C45T7xv3ZEBb9h"
-    },
-    {
-      "added_at": "2025-10-02 22:00:52",
-      "album": {
-        "name": "Moon",
-        "url": "https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 317000,
-      "name": "Moon (Feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/2RBvwQI858xReQpWSRO866"
     },
     {
       "added_at": "2025-10-02 22:00:52",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2025-10-02 22:00:52",
       "album": {
+        "name": "One of the Greats",
+        "url": "https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 392098,
+      "name": "One of the Greats",
+      "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
+    },
+    {
+      "added_at": "2025-10-02 22:00:52",
+      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst"
       },
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2025-10-02 22:00:52",
       "album": {
-        "name": "One of the Greats",
-        "url": "https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 392098,
-      "name": "One of the Greats",
-      "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
-    },
-    {
-      "added_at": "2025-10-02 22:00:52",
-      "album": {
         "name": "Helium",
         "url": "https://open.spotify.com/album/2dMZhbMxAjRSWPjSOUkr1B"
       },
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-10-02 22:00:52",
       "album": {
-        "name": "Rocket",
-        "url": "https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 171741,
-      "name": "Great Pretender",
-      "url": "https://open.spotify.com/track/1pNEdS8LS4TKZgTSvfvl5C"
-    },
-    {
-      "added_at": "2025-10-02 22:00:52",
-      "album": {
         "name": "DEPRESSED",
         "url": "https://open.spotify.com/album/4wdp5hBwGx9AgqUoiCCDUV"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 138332,
       "name": "DEPRESSED",
       "url": "https://open.spotify.com/track/1kO8TSZU0ORR4eJpirLPGW"
+    },
+    {
+      "added_at": "2025-10-02 22:00:52",
+      "album": {
+        "name": "Rocket",
+        "url": "https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 171741,
+      "name": "Great Pretender",
+      "url": "https://open.spotify.com/track/1pNEdS8LS4TKZgTSvfvl5C"
     },
     {
       "added_at": "2025-10-02 22:00:52",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-10-02 22:00:52",
       "album": {
-        "name": "SPIDERS",
-        "url": "https://open.spotify.com/album/1PndzdLW2Ykd36TDbkKuNF"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 267520,
-      "name": "SPIDERS",
-      "url": "https://open.spotify.com/track/0ARuTkOpeNxlsSpLVlpaIJ"
-    },
-    {
-      "added_at": "2025-10-02 22:00:52",
-      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/2CqOc7E7a4aQHEAD6ctS8I"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 146250,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/5ECf8gpBqmIUN7MWMN4WZx"
+    },
+    {
+      "added_at": "2025-10-02 22:00:52",
+      "album": {
+        "name": "SPIDERS",
+        "url": "https://open.spotify.com/album/1PndzdLW2Ykd36TDbkKuNF"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 267520,
+      "name": "SPIDERS",
+      "url": "https://open.spotify.com/track/0ARuTkOpeNxlsSpLVlpaIJ"
     },
     {
       "added_at": "2025-10-02 22:00:52",

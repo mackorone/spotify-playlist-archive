@@ -1,6 +1,6 @@
 {
   "description": "Der Sommer neigt sich dem Ende \ud83e\udd72 - und das waren die Sommerhits  2025.",
-  "num_followers": 1602574,
+  "num_followers": 1602324,
   "original_name": "Sommerhits 2025",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
-        "name": "FUNNY little FEARS",
-        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "The First Time",
-      "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
-    },
-    {
-      "added_at": "2025-08-29 06:03:40",
-      "album": {
         "name": "Soleil Bleu",
         "url": "https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 205933,
       "name": "Azul",
       "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
+    },
+    {
+      "added_at": "2025-08-29 06:03:40",
+      "album": {
+        "name": "FUNNY little FEARS",
+        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 218266,
+      "name": "The First Time",
+      "url": "https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O"
     },
     {
       "added_at": "2025-08-29 06:03:40",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
+        "name": "Bella Napoli",
+        "url": "https://open.spotify.com/album/1yRV305TLlttFq1RqXy9we"
+      },
+      "artists": [
+        {
+          "name": "Roy Bianco & Die Abbrunzati Boys",
+          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
+        }
+      ],
+      "duration_ms": 235986,
+      "name": "Bella Napoli",
+      "url": "https://open.spotify.com/track/2RETchtst6lwpgfHy7CCoT"
+    },
+    {
+      "added_at": "2025-08-29 06:03:40",
+      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/77lRJx359HvAd8fcFqbbO8"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 194500,
       "name": "Body",
       "url": "https://open.spotify.com/track/3hH3ypxqE0JwYq4mfyYmlD"
-    },
-    {
-      "added_at": "2025-08-29 06:03:40",
-      "album": {
-        "name": "Bella Napoli",
-        "url": "https://open.spotify.com/album/1yRV305TLlttFq1RqXy9we"
-      },
-      "artists": [
-        {
-          "name": "Roy Bianco & Die Abbrunzati Boys",
-          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
-        }
-      ],
-      "duration_ms": 235986,
-      "name": "Bella Napoli",
-      "url": "https://open.spotify.com/track/2RETchtst6lwpgfHy7CCoT"
     },
     {
       "added_at": "2025-08-29 06:03:40",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
-        "name": "vorsatz",
-        "url": "https://open.spotify.com/album/78dmZeptQFkKm6WTSQ9bkr"
-      },
-      "artists": [
-        {
-          "name": "Revelle",
-          "url": "https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA"
-        },
-        {
-          "name": "OSWALD",
-          "url": "https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB"
-        }
-      ],
-      "duration_ms": 157151,
-      "name": "vorsatz",
-      "url": "https://open.spotify.com/track/3cqnYYfKRdtfk8SOxG3YTH"
-    },
-    {
-      "added_at": "2025-08-29 06:03:40",
-      "album": {
         "name": "Born Again",
         "url": "https://open.spotify.com/album/3sCDeEFzmAnapVbmkLGKmt"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 217004,
       "name": "Born Again",
       "url": "https://open.spotify.com/track/04S8gIcwrcm97fNZKtSGXX"
+    },
+    {
+      "added_at": "2025-08-29 06:03:40",
+      "album": {
+        "name": "vorsatz",
+        "url": "https://open.spotify.com/album/78dmZeptQFkKm6WTSQ9bkr"
+      },
+      "artists": [
+        {
+          "name": "Revelle",
+          "url": "https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA"
+        },
+        {
+          "name": "OSWALD",
+          "url": "https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB"
+        }
+      ],
+      "duration_ms": 157151,
+      "name": "vorsatz",
+      "url": "https://open.spotify.com/track/3cqnYYfKRdtfk8SOxG3YTH"
     },
     {
       "added_at": "2025-08-29 06:03:40",

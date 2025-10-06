@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-636 songs - 1 day 14 hr 33 min
+637 songs - 1 day 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Aiuta](https://open.spotify.com/track/7joHTyRw7w70bCi2BIFOLP) | [MASANORI OTODA](https://open.spotify.com/artist/3kMsMz5ChIC0nvU3wtEaNA) | [Aiuta](https://open.spotify.com/album/01LteLKTQJOREHweQrsdQV) | 4:52 | 2024-01-10 | 2024-02-21 |
 | [Akebono \- 2023](https://open.spotify.com/track/7Gp8M2hRqUB2rrjJu56Bp9) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [Akebono \(2023\)](https://open.spotify.com/album/0pIVXEt7OiY6Qk8KMeo67U) | 5:27 | 2023-07-04 | 2023-08-25 |
 | [all my ghosts](https://open.spotify.com/track/46BHP7nFOrGQPLW8mCxzZr) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:17 | 2023-03-07 | 2023-05-19 |
-| [all my perfects](https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine \(The Deluxe Album\)](https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na) | 3:38 | 2025-09-05 |  |
+| [all my perfects](https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine \(The Deluxe Album\)](https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na) | 3:38 | 2025-09-05 | 2025-10-06 |
 | [All The Way Home](https://open.spotify.com/track/3lNxMw1toz8dCBt0wx9DWf) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [All The Way Home](https://open.spotify.com/album/5Trqw7SQqbXfQnXHLzLnEN) | 2:47 | 2024-07-12 |  |
 | [All You Need Is Love](https://open.spotify.com/track/4yyHCYD1ZmeIXEEbvLjCqh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [All You Need Is Love](https://open.spotify.com/album/0yLJMIgyF3luW7T884EOGR) | 3:26 | 2023-02-28 | 2023-04-21 |
 | [Almost \(Sweet Music\)](https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:37 | 2022-10-20 | 2022-12-15 |
@@ -61,6 +61,7 @@
 | [Aura](https://open.spotify.com/track/26DcgZg9O6YCUVuRukGGhQ) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Aura](https://open.spotify.com/album/4pOYu3ruXW8StaMZmXTcDs) | 5:18 | 2025-07-17 |  |
 | [Back Pocket](https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Thrill of the Arts](https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7) | 3:01 | 2023-03-07 | 2025-09-06 |
 | [back to me](https://open.spotify.com/track/2DKMdkAal5If57D4ltQQur) | [Vivien Yap](https://open.spotify.com/artist/71gWfXRZ2vs5cQ7Bfh9M53) | [back to me](https://open.spotify.com/album/2J7Utc8BqKvS4HWDOyRDlf) | 3:10 | 2023-05-25 | 2023-09-15 |
+| [back to you \(you're the reason\)](https://open.spotify.com/track/7MiWqkriAg3HsLr8L8OvdN) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [back to you \(you're the reason\)](https://open.spotify.com/album/1zGWULZWndg7c8f0adeU5M) | 4:00 | 2025-10-03 |  |
 | [Ballad Kibun](https://open.spotify.com/track/4so7Q5JTkr8wkW45MOeqVe) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Hazard Of Love](https://open.spotify.com/album/618qCFzzmmL4iN3TlH2SPC) | 3:58 | 2023-11-28 | 2024-01-26 |
 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 | 2022-10-20 | 2025-09-06 |
 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 | 2023-08-03 | 2025-04-18 |

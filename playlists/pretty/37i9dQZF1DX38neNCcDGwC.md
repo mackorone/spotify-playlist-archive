@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38neNCcDGwC.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,419 likes - 36 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,425 likes - 36 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38neNCcDGwC.md) - [plain]
 | 12 | [One Love / People Get Ready \- Medley](https://open.spotify.com/track/2HcyIzVsX45jLIxK7SH2aI) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD) | 2:52 |
 | 13 | [Jamming](https://open.spotify.com/track/4zn0kScuV9Oj28d4g9CQQs) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD) | 3:31 |
 | 14 | [Three Little Birds](https://open.spotify.com/track/6A9mKXlFRPMPem6ygQSt7z) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD) | 3:00 |
-| 15 | [Rastaman Chant](https://open.spotify.com/track/1WujDB3odQoKJYJNvhgEGL) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 3:45 |
-| 16 | [Mix Up, Mix Up](https://open.spotify.com/track/12zYQ3dOGdclP6Iy2a0bgy) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 5:02 |
+| 15 | [Mix Up, Mix Up](https://open.spotify.com/track/12zYQ3dOGdclP6Iy2a0bgy) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 5:02 |
+| 16 | [Rastaman Chant](https://open.spotify.com/track/1WujDB3odQoKJYJNvhgEGL) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 3:45 |
 | 17 | [Kinky Reggae](https://open.spotify.com/track/7rzl3uAXLQMWznyVUaoeer) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire](https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy) | 3:37 |
 | 18 | [High Tide Or Low Tide \- Jamaican Version](https://open.spotify.com/track/2P7dqEsGAvdVBCWeycm0vI) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Catch A Fire](https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy) | 4:42 |
 | 19 | [Burnin' And Lootin'](https://open.spotify.com/track/34Jqj42hsT3O3N8yihE3B6) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 4:13 |

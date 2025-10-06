@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-428 songs - 1 day 0 hr 35 min
+429 songs - 1 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [El Cervatillo](https://open.spotify.com/track/6vAoXRdls7zSYTQFoK0qaa) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM) | [El Cervatillo](https://open.spotify.com/album/2qCzPfroFLBsxrZaPT7hlG) | 5:07 | 2024-06-06 | 2024-08-15 |
 | [EL DÍA QUE PERDÍ MI JUVENTUD](https://open.spotify.com/track/5gFRjeeZ32L9KnWyFxPncv) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [GRASA](https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv) | 2:48 | 2024-06-21 | 2024-07-13 |
 | [El Espejo](https://open.spotify.com/track/4fHpriV14mig4esLm2CQea) | [Naked Family](https://open.spotify.com/artist/2XuDkWSGwLfIMsAii8xBt3) | [La Vuelta](https://open.spotify.com/album/7HELda0VxRW8VEDN5QGJZC) | 5:14 | 2024-08-02 | 2024-10-13 |
-| [El Noi de la Mare](https://open.spotify.com/track/66g8zLOa9PaF5bXQ6ubktQ) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw), [Juan Falú](https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH) | [El Noi de la Mare](https://open.spotify.com/album/1GyYr7au04PcBI5x3FgLtG) | 4:03 | 2024-12-23 |  |
+| [El Noi de la Mare](https://open.spotify.com/track/66g8zLOa9PaF5bXQ6ubktQ) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw), [Juan Falú](https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH) | [El Noi de la Mare](https://open.spotify.com/album/1GyYr7au04PcBI5x3FgLtG) | 4:03 | 2024-12-23 | 2025-10-06 |
 | [El Sitio de Mi Recreo](https://open.spotify.com/track/63L2xTgFiiabCUdWwfXdep) | [Alba Molina](https://open.spotify.com/artist/3cQX4iryDhE8MpwGv9AqD1), [Mayte Martin](https://open.spotify.com/artist/3sDu0EmS1aAWSsRwn1ZcQd), [Vicente Amigo](https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY) | [El Sitio de Mi Recreo](https://open.spotify.com/album/5uwukbu9XmoBz1qn8kuDME) | 3:31 | 2025-06-26 |  |
 | [el sur](https://open.spotify.com/track/0XztUZe3YjkeHByWXKLlyM) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Tony Grox](https://open.spotify.com/artist/2JtSnG15nk4gxjlFG7aocD) | [el sur](https://open.spotify.com/album/0LBBkVKzKtzhX6WUoQZ3cH) | 2:40 | 2025-06-02 |  |
 | [ella brilla](https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ella brilla](https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD) | 4:23 | 2024-10-01 | 2024-12-24 |
@@ -298,6 +298,7 @@
 | [Only Time](https://open.spotify.com/track/6FLwmdmW77N1Pxb1aWsZmO) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [A Day Without Rain](https://open.spotify.com/album/2ioso1tqQ5zABQDVYyiUi5) | 3:38 | 2022-11-11 | 2024-11-22 |
 | [Only You](https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [We Were Here](https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG) | 2:29 | 2022-11-11 |  |
 | [OPPENHEIMER](https://open.spotify.com/track/5VW0caqrvndBLyofAjjscO) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [OPPENHEIMER](https://open.spotify.com/album/1DHmGusWeGzJOnYrKBzLFu) | 2:21 | 2024-03-04 | 2024-06-22 |
+| [Otro Culito](https://open.spotify.com/track/5GbsTPypLz8xm3Y8jK8vk5) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Otro Culito](https://open.spotify.com/album/3t5c0UXgnZDIxpMy6JE75m) | 3:23 | 2025-10-03 |  |
 | [Over The Rainbow](https://open.spotify.com/track/3TJjGMaiuDlw3fqNghvznv) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Over The Rainbow](https://open.spotify.com/album/08WcTSjqsHq05rTXm64P6O) | 3:31 | 2024-04-11 | 2025-09-19 |
 | [Over the Rainbow](https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Alone In Iz World](https://open.spotify.com/album/4aM85igbrBcoRZVt7L11Zn) | 3:31 | 2022-11-11 | 2024-04-19 |
 | [Over the Rainbow](https://open.spotify.com/track/4yDjzVhXig9tfO7Zv46FE8) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Somewhere Over the Rainbow The Best of Israel Kamakawiwo\`ole](https://open.spotify.com/album/29uSnrq9dBUFj9hjobj9TS) | 3:31 | 2022-11-11 | 2022-11-14 |

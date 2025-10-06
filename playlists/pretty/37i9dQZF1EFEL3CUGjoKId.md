@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEL3CUGjoKId.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrGNtrGiJfVh8TSrPHSiE">Christine McVie</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 515 likes - 87 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 514 likes - 87 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEL3CUGjoKId.md) - [plain]
 | 15 | [Over & Over \- 2015 Remaster](https://open.spotify.com/track/4SUF4kyuSX9siVjzpjEibr) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(2015 Remaster\)](https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re) | 4:34 |
 | 16 | [Isn't It Midnight \- 2017 Remaster](https://open.spotify.com/track/6D8BkkjFumCyE2qi5I7a3D) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 4:13 |
 | 17 | [Wind Blow](https://open.spotify.com/track/2SO6T1KaYLu4yXP4qf286F) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [Strength & Loyalty](https://open.spotify.com/album/6fgFFyMpkmOZK038Ta3gQB) | 4:18 |
-| 18 | [Skies the Limit](https://open.spotify.com/track/0Cq7FAM0nK4xRXL5dSbGIS) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Behind the Mask](https://open.spotify.com/album/3aXrkfZW8FzUDOU0RwQ401) | 3:45 |
-| 19 | [Only over You \- 2016 Remaster](https://open.spotify.com/track/6zAwSWQywmeEFP11tK7t5W) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 4:09 |
+| 18 | [Only over You \- 2016 Remaster](https://open.spotify.com/track/6zAwSWQywmeEFP11tK7t5W) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 4:09 |
+| 19 | [Skies the Limit](https://open.spotify.com/track/0Cq7FAM0nK4xRXL5dSbGIS) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Behind the Mask](https://open.spotify.com/album/3aXrkfZW8FzUDOU0RwQ401) | 3:45 |
 | 20 | [Warm Ways](https://open.spotify.com/track/4SysnIGNcHQlaz9jJVnIxX) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:54 |
 | 21 | [Got a Hold on Me](https://open.spotify.com/track/0FCgqHNdcbhGIEmU8r6ZF1) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [Christine McVie](https://open.spotify.com/album/6qSmsdv6UxrqaB3oflB5Yy) | 3:52 |
 | 22 | [I Do](https://open.spotify.com/track/3lKoKxbgDUmpRWyUQUjDvi) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Time](https://open.spotify.com/album/2efkPPuJQ7JrTloWk4lhiV) | 4:28 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEL3CUGjoKId.md) - [plain]
 | 86 | [Sweet Revenge](https://open.spotify.com/track/469gfzBdPNs6FfZ9SMEvlw) | [Christine Mcvie](https://open.spotify.com/artist/37vxFfgCPJ4ATpZjGPVWY2) | [In The Meantime](https://open.spotify.com/album/0fCzPs9l2rPF3eLPrEiQ9H) | 3:50 |
 | 87 | [Wanna Be With You \(Everywhere\)](https://open.spotify.com/track/5wUSCnSTvyRXUJzpAaorhz) | [GTF](https://open.spotify.com/artist/6qa9mE0Y9cguezXeXWJBQ1) | [Wanna Be With You \(Everywhere\)](https://open.spotify.com/album/1tAkT1wiSxVsR2hgYcirAh) | 3:15 |
 
-Snapshot ID: `Ab9/nAAAAADukF1Cc/sf1TGoYxsa6ZFN`
+Snapshot ID: `Ab+FMgAAAADK8JhKkvPjrRTv45AMBUnR`

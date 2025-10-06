@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > Listen to women at full volume\. Cover: <a href="https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ?si=KTGzE8E0Sg\-5XZ47hxMWaA">Gyakie</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,460 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,497 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

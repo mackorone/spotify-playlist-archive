@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWggFU8R1w.md) - [plain]
 
 > The worst monsters are the ones we create\. Listen to the music from The Witcher, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,775 likes - 160 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,793 likes - 160 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

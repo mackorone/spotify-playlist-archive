@@ -1,6 +1,6 @@
 {
   "description": "Certified R&B hits. Cover: Bryson Tiller",
-  "num_followers": 61552,
+  "num_followers": 61619,
   "original_name": "Certi: R&B",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2025-10-02 23:00:23",
       "album": {
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 215178,
+      "name": "Residuals",
+      "url": "https://open.spotify.com/track/4t4rGgiVX7woTmlnW9SHJ7"
+    },
+    {
+      "added_at": "2025-10-02 23:00:23",
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 250725,
       "name": "TYRANT",
       "url": "https://open.spotify.com/track/5mUlozUYpdmXVPkj4BW8cA"
-    },
-    {
-      "added_at": "2025-10-02 23:00:23",
-      "album": {
-        "name": "11:11 (Deluxe)",
-        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 215178,
-      "name": "Residuals",
-      "url": "https://open.spotify.com/track/4t4rGgiVX7woTmlnW9SHJ7"
     },
     {
       "added_at": "2025-10-02 23:00:23",

@@ -4,7 +4,7 @@
 
 > Embrace those happy vibes with these feel\-good hits!
 
-1,005 songs - 2 day 8 hr 37 min
+1,006 songs - 2 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -807,6 +807,7 @@
 | [Starting Line](https://open.spotify.com/track/3tIQg7bErGUNgE6nZ2TXZ2) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Starting Line](https://open.spotify.com/album/29dl63pyzkkAPZSY8vSqlD) | 4:30 | 2021-07-08 | 2022-04-20 |
 | [Starving](https://open.spotify.com/track/4Ce37cRWvM1vIGGynKcs22) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Starving](https://open.spotify.com/album/18pR217SWwBjODSRWFBw0I) | 3:01 | 2019-08-04 |  |
 | [Stay](https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Stay](https://open.spotify.com/album/1I4W7JKzYbl8VKRfD61DIS) | 3:30 | 2019-07-31 |  |
+| [Stay \(If You Wanna Dance\)](https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stay \(If You Wanna Dance\)](https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA) | 3:05 | 2025-09-23 |  |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2021-07-30 |  |
 | [Stay Next To Me \(with Chelsea Cutler\)](https://open.spotify.com/track/6SGG5AxHShqSYiV9fCWpZz) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Stay Next To Me \(with Chelsea Cutler\)](https://open.spotify.com/album/2z5swLenXPUPG79UfLU51I) | 3:26 | 2020-12-11 | 2022-07-29 |
 | [Steal My Sunshine](https://open.spotify.com/track/4agp6oHofabdUedr0B1krj) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k) | 4:25 | 2021-03-22 | 2022-04-19 |
@@ -973,7 +974,7 @@
 | [We Got Love](https://open.spotify.com/track/7kqujRWNEBhrpYt0eV0uw5) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [We Got Love](https://open.spotify.com/album/0ECfA035E0wh6Z0RQfYyrg) | 3:22 | 2021-03-08 | 2022-04-18 |
 | [We'll Never Know](https://open.spotify.com/track/3ThMVGHZjedDBVQFeaT32u) | [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Chapter One](https://open.spotify.com/album/223OMYrfXBNEHtaZgRkIqi) | 3:35 | 2019-07-31 | 2019-08-04 |
 | [West Coast](https://open.spotify.com/track/0sBJA2OCEECMs0HsdIQhvR) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [West Coast](https://open.spotify.com/album/1EM2RddQo9GGjrCsE1bk7a) | 3:12 | 2022-03-17 | 2022-11-14 |
-| [What A Man Gotta Do](https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [What A Man Gotta Do](https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p) | 3:00 | 2020-02-16 |  |
+| [What A Man Gotta Do](https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [What A Man Gotta Do](https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p) | 3:00 | 2020-02-16 | 2025-10-06 |
 | [What Am I](https://open.spotify.com/track/0TMGV2zMZXOILVtQLtkI3G) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Big Plans](https://open.spotify.com/album/085TF4mnNbXQT0m2X05cb0) | 3:04 | 2019-10-25 | 2019-10-26 |
 | [What Am I](https://open.spotify.com/track/1HimGOB6BjOaCQYMIF1xtU) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [What Am I](https://open.spotify.com/album/6IEEEv0mmFYPjhATWKYZRE) | 3:04 | 2019-09-04 | 2022-04-07 |
 | [What It Is](https://open.spotify.com/track/5gC5GY6XzSzrzSByUpOBUc) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [What It Is](https://open.spotify.com/album/1ZOiCBh8DrmLH4t1mXinkJ) | 2:23 | 2020-06-12 | 2020-10-02 |

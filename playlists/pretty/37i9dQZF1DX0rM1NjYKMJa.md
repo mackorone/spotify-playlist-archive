@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 
 > The vibes start here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,993 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,020 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 27 | [NY Girls](https://open.spotify.com/track/4yh9WYjFLCSMZ6gTh3MTlE) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w), [cjthechemist](https://open.spotify.com/artist/6RDY4LRYno0UwPMHsxOKAe) | [NY Girls](https://open.spotify.com/album/6qU0YxBfZ50I8w3kivpZtZ) | 3:01 |
 | 28 | [It Bend Like Banana](https://open.spotify.com/track/4L7x3yl710OFAJCUpoRVUy) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Notnice](https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX) | [It Bend Like Banana](https://open.spotify.com/album/1T8WjqpvrKIJUG6TO1zjqu) | 2:54 |
 | 29 | [Mute](https://open.spotify.com/track/1SsBhroynnJPIU4jc9eVqC) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Mute](https://open.spotify.com/album/6XhQsFERljV8xhwBGiuCnp) | 4:02 |
-| 30 | [Continent](https://open.spotify.com/track/2e9FcY7bVjs4Hu0IV1o0EG) | [NIGY BOY](https://open.spotify.com/artist/63o6Z7qrOen7eLbmYOx7gt) | [Continent](https://open.spotify.com/album/1AW8nCr4tc04eI86BCLsNx) | 2:30 |
-| 31 | [Girls Dem Sugar](https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Art And Life](https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF) | 4:17 |
+| 30 | [Girls Dem Sugar](https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Art And Life](https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF) | 4:17 |
+| 31 | [Continent](https://open.spotify.com/track/2e9FcY7bVjs4Hu0IV1o0EG) | [NIGY BOY](https://open.spotify.com/artist/63o6Z7qrOen7eLbmYOx7gt) | [Continent](https://open.spotify.com/album/1AW8nCr4tc04eI86BCLsNx) | 2:30 |
 | 32 | [Buss a Whine](https://open.spotify.com/track/6UQLhEkY7ZfpMbctfg490g) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Leftside](https://open.spotify.com/artist/187qoiisjzqvj3wsBWLotr), [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [Buss a Whine](https://open.spotify.com/album/2O7NFz737LgCjAmqWdswst) | 2:27 |
 | 33 | [Happy Birthday](https://open.spotify.com/track/0nlERwr8m4Ks1RYYuTVm0C) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Happy Birthday](https://open.spotify.com/album/18kwUyynFKyNEJYZe2d4xg) | 3:04 |
 | 34 | [All Ova](https://open.spotify.com/track/2bWbdWDaMidmc5HH1CVK26) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [cjthechemist](https://open.spotify.com/artist/6RDY4LRYno0UwPMHsxOKAe) | [All Ova](https://open.spotify.com/album/7xI7n70CruBpMwrekWFHhG) | 2:43 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 42 | [Fast Wine](https://open.spotify.com/track/4NwVmwGWpiiPdJj3NCehe9) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Fast Wine](https://open.spotify.com/album/2htMNG5thjmStMpHtdE9iH) | 3:24 |
 | 43 | [Nursery Rhymes](https://open.spotify.com/track/0l7DsApSOJ4G7vPzFXMszj) | [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [Nursery Rhymes](https://open.spotify.com/album/0CHcleLL9nuyElanBqucCX) | 2:24 |
 | 44 | [What's Up \(Big Buddy\)](https://open.spotify.com/track/2Zqi4KB2Wl0Luxwwx4qEM7) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [What's Up \(Big Buddy\)](https://open.spotify.com/album/2Mee0OzBr15EoIr0CYuwwh) | 2:21 |
-| 45 | [Famalay](https://open.spotify.com/track/2XRkyBiKyHPyJ0krDmK4MA) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Famalay](https://open.spotify.com/album/6ZhAG5mWqLEq3ZB3C1dx5q) | 3:19 |
-| 46 | [Shh](https://open.spotify.com/track/23Csr5XN6KE16e0IiKCY7s) | [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C), [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Free Hit Riddim](https://open.spotify.com/album/55cIRop9TAk7no2wv45rTB) | 3:00 |
+| 45 | [Shh](https://open.spotify.com/track/23Csr5XN6KE16e0IiKCY7s) | [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C), [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Free Hit Riddim](https://open.spotify.com/album/55cIRop9TAk7no2wv45rTB) | 3:00 |
+| 46 | [Famalay](https://open.spotify.com/track/2XRkyBiKyHPyJ0krDmK4MA) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Famalay](https://open.spotify.com/album/6ZhAG5mWqLEq3ZB3C1dx5q) | 3:19 |
 | 47 | [Ignite the World](https://open.spotify.com/track/4y4C4B2g9S7Ui2QT8aFIj6) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Ignite the World \- Single](https://open.spotify.com/album/6JINQjFUePDsCO92qWuz8F) | 3:09 |
 | 48 | [Ms Pretty Rockstar](https://open.spotify.com/track/0OP6uabvEok2R5i3OzltCB) | [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [Ms Pretty Rockstar](https://open.spotify.com/album/2hNJ03DujEamkpCIsAGjZ3) | 2:24 |
 | 49 | [Throat](https://open.spotify.com/track/4LGDRn6E199hReOZGF5Exw) | [Gage](https://open.spotify.com/artist/5ENdfpGHYMwemMEe0uJG8w) | [Throat](https://open.spotify.com/album/21pDh5Ze2VGN8g94uQj5J5) | 2:52 |

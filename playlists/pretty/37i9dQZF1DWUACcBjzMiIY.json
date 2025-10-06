@@ -1,6 +1,6 @@
 {
   "description": "Easy listening for a comfortable drive.",
-  "num_followers": 280809,
+  "num_followers": 280886,
   "original_name": "Mellow Drive",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,18 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "The Truth About Love",
-        "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
       },
       "artists": [
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Nate Ruess",
-          "url": "https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 242733,
-      "name": "Just Give Me a Reason (feat. Nate Ruess)",
-      "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -279,34 +275,22 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+        "name": "The Truth About Love",
+        "url": "https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
-      },
-      "artists": [
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Nate Ruess",
+          "url": "https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ"
         }
       ],
-      "duration_ms": 232253,
-      "name": "Delicate",
-      "url": "https://open.spotify.com/track/6NFyWDv5CjfwuzoCkw47Xf"
+      "duration_ms": 242733,
+      "name": "Just Give Me a Reason (feat. Nate Ruess)",
+      "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -323,6 +307,22 @@
       "duration_ms": 228706,
       "name": "If I Ain't Got You",
       "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 232253,
+      "name": "Delicate",
+      "url": "https://open.spotify.com/track/6NFyWDv5CjfwuzoCkw47Xf"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "I And Love And You",
-        "url": "https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 300840,
-      "name": "I And Love And You",
-      "url": "https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 278373,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/7gpy7sfWPNuOKmUNs3XQYE"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "I And Love And You",
+        "url": "https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 300840,
+      "name": "I And Love And You",
+      "url": "https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Nine Track Mind",
-        "url": "https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "One Call Away",
-      "url": "https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Amos Lee",
         "url": "https://open.spotify.com/album/0hPXaSKyujqCej452raazD"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 160453,
       "name": "Colors",
       "url": "https://open.spotify.com/track/72SPsHheqN6J3sI520jT9E"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Nine Track Mind",
+        "url": "https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "One Call Away",
+      "url": "https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1831,18 +1831,18 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Talking Dreams (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"
+        "name": "Amos Lee",
+        "url": "https://open.spotify.com/album/0hPXaSKyujqCej452raazD"
       },
       "artists": [
         {
-          "name": "Echosmith",
-          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
         }
       ],
-      "duration_ms": 220626,
-      "name": "Bright",
-      "url": "https://open.spotify.com/track/3WKg25vrbjJlkhsgl2W4p3"
+      "duration_ms": 251440,
+      "name": "Arms Of A Woman",
+      "url": "https://open.spotify.com/track/37pK088xTo1ZpR3y23wsFk"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1863,34 +1863,18 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Amos Lee",
-        "url": "https://open.spotify.com/album/0hPXaSKyujqCej452raazD"
+        "name": "Talking Dreams (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"
       },
       "artists": [
         {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+          "name": "Echosmith",
+          "url": "https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x"
         }
       ],
-      "duration_ms": 251440,
-      "name": "Arms Of A Woman",
-      "url": "https://open.spotify.com/track/37pK088xTo1ZpR3y23wsFk"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
-        "name": "Still Crazy After All These Years",
-        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 206533,
-      "name": "Still Crazy After All These Years",
-      "url": "https://open.spotify.com/track/3gIBSlXYIN1mru35l4LWPB"
+      "duration_ms": 220626,
+      "name": "Bright",
+      "url": "https://open.spotify.com/track/3WKg25vrbjJlkhsgl2W4p3"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1907,6 +1891,22 @@
       "duration_ms": 280226,
       "name": "Let It Be Me",
       "url": "https://open.spotify.com/track/56AecW9Anb0CY6HpgWvcg9"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Still Crazy After All These Years",
+        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "Still Crazy After All These Years",
+      "url": "https://open.spotify.com/track/3gIBSlXYIN1mru35l4LWPB"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -2471,38 +2471,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Begin to Hope (Special Edition)",
-        "url": "https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a"
-      },
-      "artists": [
-        {
-          "name": "Regina Spektor",
-          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "Fidelity",
-      "url": "https://open.spotify.com/track/6GskIhdM6TN6EkPgeSjVfW"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/4bJsDQSbvSYfjku0kz83oF"
-      },
-      "artists": [
-        {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
-        }
-      ],
-      "duration_ms": 211124,
-      "name": "Drivin",
-      "url": "https://open.spotify.com/track/1pFonXiErvubBcA4VQtFUF"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Playlist: The Very Best Of Los Lonely Boys",
         "url": "https://open.spotify.com/album/1ZyeNQ6uvVyK3yNJDSLdRU"
       },
@@ -2519,6 +2487,22 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
+        "name": "Begin to Hope (Special Edition)",
+        "url": "https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a"
+      },
+      "artists": [
+        {
+          "name": "Regina Spektor",
+          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "Fidelity",
+      "url": "https://open.spotify.com/track/6GskIhdM6TN6EkPgeSjVfW"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
         "name": "Jagged Little Pill",
         "url": "https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW"
       },
@@ -2531,6 +2515,22 @@
       "duration_ms": 239640,
       "name": "You Learn",
       "url": "https://open.spotify.com/track/1HsbGJnOXPWfocSS6FoR60"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/4bJsDQSbvSYfjku0kz83oF"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "duration_ms": 211124,
+      "name": "Drivin",
+      "url": "https://open.spotify.com/track/1pFonXiErvubBcA4VQtFUF"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -3199,22 +3199,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "All The Little Lights",
-        "url": "https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 252866,
-      "name": "Let Her Go",
-      "url": "https://open.spotify.com/track/7DFNE7NO0raLIUbgzY2rzm"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Eyes Open",
         "url": "https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp"
       },
@@ -3227,6 +3211,22 @@
       "duration_ms": 267933,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/11bD1JtSjlIgKgZG2134DZ"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "All The Little Lights",
+        "url": "https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 252866,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/7DFNE7NO0raLIUbgzY2rzm"
     },
     {
       "added_at": "2024-07-05 23:01:26",

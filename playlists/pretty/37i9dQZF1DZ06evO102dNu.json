@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1217812,
+  "num_followers": 1217872,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAABBq3j5CMeg87WZuuzdu71G",
+  "snapshot_id": "aOBjgAAAAADuMMWQSaxMrR35AZ2gVHar",
   "tracks": [
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Where Are You? (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Autumn Leaves - Remastered 1999",
+      "url": "https://open.spotify.com/track/1Yv6PMPkvLdCIFbm9kanaz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sinatra/Jobim: The Complete Reprise Recordings",
         "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 165213,
       "name": "Quiet Nights of Quiet Stars (Corcovado)",
       "url": "https://open.spotify.com/track/1FdulvpRiLgkseCz7RrNOR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where Are You? (Remastered / Expanded Edition)",
-        "url": "https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Autumn Leaves - Remastered 1999",
-      "url": "https://open.spotify.com/track/1Yv6PMPkvLdCIFbm9kanaz"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 170346,
+      "name": "Young At Heart",
+      "url": "https://open.spotify.com/track/4AdqsEH40jfERiDkzyY0Ur"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sinatra/Jobim: The Complete Reprise Recordings",
         "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 201560,
       "name": "Wave",
       "url": "https://open.spotify.com/track/4qY2AhtXXuWST74MrShHTu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 170346,
-      "name": "Young At Heart",
-      "url": "https://open.spotify.com/track/4AdqsEH40jfERiDkzyY0Ur"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trilogy: Past, Present & Future",
+        "url": "https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "It Had To Be You",
+      "url": "https://open.spotify.com/track/0Ab4lEHfPY98aqtQrKQbUu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sinatra/Jobim: The Complete Reprise Recordings",
         "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 155440,
       "name": "Drinking Water (Aqua de Beber)",
       "url": "https://open.spotify.com/track/0d7rAcuh3djewMUKGxyVG8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trilogy: Past, Present & Future",
-        "url": "https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "It Had To Be You",
-      "url": "https://open.spotify.com/track/0Ab4lEHfPY98aqtQrKQbUu"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/4N6a1fTmJmyPJp9HmrNyVO"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "Rain In My Heart",
+      "url": "https://open.spotify.com/track/2JzTfNN8k3O6l42DZMj80Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duets (20th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/67TRGeFfMzq6ArsHrJkzya"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 153146,
       "name": "Summer Wind",
       "url": "https://open.spotify.com/track/1KGFGleVVS76wuLiOtS7Iu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cycles",
-        "url": "https://open.spotify.com/album/4N6a1fTmJmyPJp9HmrNyVO"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Rain In My Heart",
-      "url": "https://open.spotify.com/track/2JzTfNN8k3O6l42DZMj80Q"
     },
     {
       "added_at": null,

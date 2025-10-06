@@ -1,6 +1,6 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 164319,
+  "num_followers": 164340,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2025-05-23 03:01:25",
       "album": {
+        "name": "Xande Canta Caetano",
+        "url": "https://open.spotify.com/album/7DG96zvwE2rauCCLwO1JWV"
+      },
+      "artists": [
+        {
+          "name": "Xande de Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "duration_ms": 181665,
+      "name": "Lua de S\u00e3o Jorge",
+      "url": "https://open.spotify.com/track/0B5NMQDTeq7P6ti4CO9edA"
+    },
+    {
+      "added_at": "2025-05-23 03:01:25",
+      "album": {
         "name": "A Bossa De Caetano",
         "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 283052,
       "name": "LUCIDEZ",
       "url": "https://open.spotify.com/track/4c09tcJCbgmuDB9sIKbDjM"
-    },
-    {
-      "added_at": "2025-05-23 03:01:25",
-      "album": {
-        "name": "Xande Canta Caetano",
-        "url": "https://open.spotify.com/album/7DG96zvwE2rauCCLwO1JWV"
-      },
-      "artists": [
-        {
-          "name": "Xande de Pilares",
-          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
-        }
-      ],
-      "duration_ms": 181665,
-      "name": "Lua de S\u00e3o Jorge",
-      "url": "https://open.spotify.com/track/0B5NMQDTeq7P6ti4CO9edA"
     },
     {
       "added_at": "2025-05-23 03:01:25",
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-05-23 03:01:25",
       "album": {
-        "name": "Meu Coco",
-        "url": "https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 212014,
-      "name": "Sem Samba N\u00e3o D\u00e1",
-      "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
-    },
-    {
-      "added_at": "2025-05-23 03:01:25",
-      "album": {
         "name": "Beth",
         "url": "https://open.spotify.com/album/57u3pqnTEmTJvl9iJ5x2kO"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 208733,
       "name": "Chega de Saudade",
       "url": "https://open.spotify.com/track/7CS9xHifm0tfyGCmrRAEQ7"
+    },
+    {
+      "added_at": "2025-05-23 03:01:25",
+      "album": {
+        "name": "Meu Coco",
+        "url": "https://open.spotify.com/album/2WeCBdtzqLePJpI28q0mjz"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 212014,
+      "name": "Sem Samba N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/1pIwgYq2uM1Q2nu9DTODGP"
     },
     {
       "added_at": "2025-05-23 03:01:25",
@@ -1127,18 +1127,22 @@
     {
       "added_at": "2025-05-23 03:01:25",
       "album": {
-        "name": "A Chave do Sucesso",
-        "url": "https://open.spotify.com/album/3DvT2KqKuuP8BWqLUl6wF1"
+        "name": "Do It Yourself (New Bossa Remix)",
+        "url": "https://open.spotify.com/album/19uU6Yn5TPvtxKbCLLzpiF"
       },
       "artists": [
         {
-          "name": "Orlandivo",
-          "url": "https://open.spotify.com/artist/2vFK2xckKvQQfitvHxRvk0"
+          "name": "Markko Mendes",
+          "url": "https://open.spotify.com/artist/3PbBjz1cgZBSBjvdse8cfG"
+        },
+        {
+          "name": "DJ Hum",
+          "url": "https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf"
         }
       ],
-      "duration_ms": 142000,
-      "name": "Jura",
-      "url": "https://open.spotify.com/track/3Uet0zyQWzgLCRBNTKmBgU"
+      "duration_ms": 252142,
+      "name": "Do It Yourself - New Bossa Remix",
+      "url": "https://open.spotify.com/track/0UlhNzWYxoid17dChHoFPo"
     },
     {
       "added_at": "2025-05-23 03:01:25",
@@ -1163,22 +1167,18 @@
     {
       "added_at": "2025-05-23 03:01:25",
       "album": {
-        "name": "Do It Yourself (New Bossa Remix)",
-        "url": "https://open.spotify.com/album/19uU6Yn5TPvtxKbCLLzpiF"
+        "name": "A Chave do Sucesso",
+        "url": "https://open.spotify.com/album/3DvT2KqKuuP8BWqLUl6wF1"
       },
       "artists": [
         {
-          "name": "Markko Mendes",
-          "url": "https://open.spotify.com/artist/3PbBjz1cgZBSBjvdse8cfG"
-        },
-        {
-          "name": "DJ Hum",
-          "url": "https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf"
+          "name": "Orlandivo",
+          "url": "https://open.spotify.com/artist/2vFK2xckKvQQfitvHxRvk0"
         }
       ],
-      "duration_ms": 252142,
-      "name": "Do It Yourself - New Bossa Remix",
-      "url": "https://open.spotify.com/track/0UlhNzWYxoid17dChHoFPo"
+      "duration_ms": 142000,
+      "name": "Jura",
+      "url": "https://open.spotify.com/track/3Uet0zyQWzgLCRBNTKmBgU"
     },
     {
       "added_at": "2025-05-23 03:01:25",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2025-05-23 03:01:25",
       "album": {
-        "name": "Atraco",
-        "url": "https://open.spotify.com/album/3WbHlIlEtgwCxIlCOwxOZm"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Campos",
-          "url": "https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ"
-        },
-        {
-          "name": "Mari Tavares",
-          "url": "https://open.spotify.com/artist/2wUOBLQeG4XpiuIe1QGUxR"
-        }
-      ],
-      "duration_ms": 205663,
-      "name": "Atraco",
-      "url": "https://open.spotify.com/track/4P8u2XnaM64X8yKYAd5np4"
-    },
-    {
-      "added_at": "2025-05-23 03:01:25",
-      "album": {
         "name": "Paira no Ar",
         "url": "https://open.spotify.com/album/75FH1Z71DcaAy2zVAAnuUT"
       },
@@ -1635,6 +1615,26 @@
       "duration_ms": 193682,
       "name": "Paira no Ar",
       "url": "https://open.spotify.com/track/1qAZ5RiDgma9Z9uOQliVEK"
+    },
+    {
+      "added_at": "2025-05-23 03:01:25",
+      "album": {
+        "name": "Atraco",
+        "url": "https://open.spotify.com/album/3WbHlIlEtgwCxIlCOwxOZm"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Campos",
+          "url": "https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ"
+        },
+        {
+          "name": "Mari Tavares",
+          "url": "https://open.spotify.com/artist/2wUOBLQeG4XpiuIe1QGUxR"
+        }
+      ],
+      "duration_ms": 205663,
+      "name": "Atraco",
+      "url": "https://open.spotify.com/track/4P8u2XnaM64X8yKYAd5np4"
     },
     {
       "added_at": "2025-05-23 03:01:25",

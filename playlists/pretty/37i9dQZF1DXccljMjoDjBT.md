@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 
 > The best soft rock from the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,652 likes - 75 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,757 likes - 75 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 8 | [Can't Fight This Feeling](https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Wheels Are Turnin'](https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR) | 4:54 |
 | 9 | [Little Lies \- 2017 Remaster](https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:41 |
 | 10 | [I Can't Go for That \(No Can Do\)](https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Private Eyes \(Expanded Edition\)](https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0) | 5:07 |
-| 11 | [I'll Be Over You](https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Fahrenheit](https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg) | 3:49 |
-| 12 | [Missing You](https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr) | [John Waite](https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj) | [No Brakes](https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H) | 4:29 |
+| 11 | [Missing You](https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr) | [John Waite](https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj) | [No Brakes](https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H) | 4:29 |
+| 12 | [I'll Be Over You](https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Fahrenheit](https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg) | 3:49 |
 | 13 | [I Keep Forgettin' \(Every Time You're Near\)](https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [If That's What It Takes](https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1) | 3:42 |
 | 14 | [Lost In Love](https://open.spotify.com/track/6MfVSA5iKBPHzo6RGARjL0) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Lost in Love](https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW) | 3:53 |
 | 15 | [Private Eyes](https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Private Eyes \(Expanded Edition\)](https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0) | 3:37 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 33 | [New York Minute](https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 6:35 |
 | 34 | [Cool Night](https://open.spotify.com/track/29KyVqHekckVGfxHn8QS7m) | [Paul Davis](https://open.spotify.com/artist/6EJmqnuK0r6qiAevFFiNNR) | [Cool Night](https://open.spotify.com/album/6zK0vUxP3YQAWcc7injGov) | 3:38 |
 | 35 | [Heart of Mine](https://open.spotify.com/track/3GGLM9N7B18Hww26bScGDq) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Other Roads \(Expanded\)](https://open.spotify.com/album/6yesaWRPjBvzztTpFrktQm) | 4:11 |
-| 36 | [Heart to Heart](https://open.spotify.com/track/2KaA0Tgl3RmQLzcvLEtzLH) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [High Adventure](https://open.spotify.com/album/1BbFSjGKKbiJqJSkfvaKtA) | 5:22 |
-| 37 | [Missing You](https://open.spotify.com/track/0Gtb0lXSgo9zEXl3B2yn07) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Flying Colours](https://open.spotify.com/album/6D4cLIAUVvA7qhKWoI2fvW) | 4:07 |
+| 36 | [Missing You](https://open.spotify.com/track/0Gtb0lXSgo9zEXl3B2yn07) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Flying Colours](https://open.spotify.com/album/6D4cLIAUVvA7qhKWoI2fvW) | 4:07 |
+| 37 | [Heart to Heart](https://open.spotify.com/track/2KaA0Tgl3RmQLzcvLEtzLH) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [High Adventure](https://open.spotify.com/album/1BbFSjGKKbiJqJSkfvaKtA) | 5:22 |
 | 38 | [I Gotta Try](https://open.spotify.com/track/0qnfAVtzFPY0pOGYpTkZeY) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [If That's What It Takes](https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1) | 3:55 |
 | 39 | [The Last Worthless Evening](https://open.spotify.com/track/5xFXOthzXYku3MvAlc5EKg) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 6:02 |
 | 40 | [I Just Can't Let Go](https://open.spotify.com/track/5K27xdI3aPGoyXnxdcan82) | [David Pack](https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl) | [Anywhere You Go](https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo) | 4:52 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 58 | [Throwing It All Away](https://open.spotify.com/track/6Tl40NMUnrFqhQssrW0TYB) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch](https://open.spotify.com/album/7jYfZ6i2taKDkiuxncR8P1) | 3:50 |
 | 59 | [Our Love](https://open.spotify.com/track/3P16X8qsN8fMQQT7o0Tfgy) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [No Lookin' Back](https://open.spotify.com/album/5EgP5Nh4vxShzBrBJk87qW) | 4:30 |
 | 60 | [Love Is A Bridge](https://open.spotify.com/track/0EcU5IQCJ53kzGnVYvalRE) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Monsoon](https://open.spotify.com/album/0krvUaO5oHXzEduLU57ct7) | 4:06 |
-| 61 | [Desert Moon](https://open.spotify.com/track/3MzjEIe5pjA1gFgS95bkdN) | [Dennis DeYoung](https://open.spotify.com/artist/4TM0rDUbvVvrHioKsmzr68) | [Desert Moon](https://open.spotify.com/album/4TtHKG6zI7faJlLLaEgLs8) | 6:08 |
-| 62 | [Sweetheart](https://open.spotify.com/track/0D2UIFvpE0xb5wEgWrpps2) | [Franke & The Knockouts](https://open.spotify.com/artist/5l6cEOynnkfX7PS7zCMRU0) | [Franke & The Knockouts \(Original Recording Remastered\)](https://open.spotify.com/album/5fQQ6TiiIyO7d6a07zYJ3t) | 4:11 |
+| 61 | [Sweetheart](https://open.spotify.com/track/0D2UIFvpE0xb5wEgWrpps2) | [Franke & The Knockouts](https://open.spotify.com/artist/5l6cEOynnkfX7PS7zCMRU0) | [Franke & The Knockouts \(Original Recording Remastered\)](https://open.spotify.com/album/5fQQ6TiiIyO7d6a07zYJ3t) | 4:11 |
+| 62 | [Desert Moon](https://open.spotify.com/track/3MzjEIe5pjA1gFgS95bkdN) | [Dennis DeYoung](https://open.spotify.com/artist/4TM0rDUbvVvrHioKsmzr68) | [Desert Moon](https://open.spotify.com/album/4TtHKG6zI7faJlLLaEgLs8) | 6:08 |
 | 63 | [I Found Somebody](https://open.spotify.com/track/64wX1p2ZtC9ksXSVYtCp88) | [Glenn Frey](https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ) | [No Fun Aloud](https://open.spotify.com/album/1vgK8Yq0G3E3MO4MzI4BJJ) | 4:05 |
 | 64 | [Parked Cars](https://open.spotify.com/track/065U4wb8kPKuY3XqpIk5zg) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Bowling In Paris](https://open.spotify.com/album/6jMjThGNjDvWlYKDYQVYqB) | 4:45 |
 | 65 | [Hard to Say I'm Sorry / Get Away \- 2009 Remaster](https://open.spotify.com/track/5zpYTfWIuNXCFblRIescG1) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 16 \(Expanded Edition\)](https://open.spotify.com/album/1I5t0om003Ikyhs8Ks3t8C) | 5:04 |

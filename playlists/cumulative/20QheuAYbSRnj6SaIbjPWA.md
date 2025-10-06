@@ -4,7 +4,7 @@
 
 > 2021
 
-148 songs - 9 hr 54 min
+149 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Blur Beat](https://open.spotify.com/track/6liaZfhd1JmN5nGytSOfNN) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [W.L\. \(Deluxe\)](https://open.spotify.com/album/6dakS3ouiZyccOIdrBBKcu) | 3:25 | 2023-08-31 |  |
 | [Both Sides Of A Smile \(feat\. James Blake\)](https://open.spotify.com/track/3hX0ilh84w2KGaiNw2rRCV) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 7:59 | 2024-01-04 |  |
 | [Burn](https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Burn](https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79) | 2:59 | 2022-07-15 |  |
+| [Carlos \(interlude\)](https://open.spotify.com/track/03LSUjL0Rqh2Lpj1rKgsmG) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 2:01 | 2025-10-05 |  |
 | [Carluccio](https://open.spotify.com/track/5AxhoDqSWt4WQjBvhh6aq3) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Not Waving, But Drowning](https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV) | 3:11 | 2023-09-13 |  |
 | [Cerca De Ti](https://open.spotify.com/track/1dmJWX0nWAx5gjDzAohSbO) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Hoy Como Ayer](https://open.spotify.com/album/12x0ISxr7b5JssrNJWNDPZ) | 1:48 | 2025-02-01 |  |
 | [Cigarette Daydreams](https://open.spotify.com/track/6jHvX8ZnHKC1PnrPMJ0Emt) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/5nJ9B1KiydXoYWAcyqlG76) | 3:28 | 2023-10-19 |  |

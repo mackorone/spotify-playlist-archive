@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3974go.md) - [plain]
 
 > This is Rich Homie Quan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,519 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,523 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3974go.md) - [plain]
 | 46 | [Downgrade](https://open.spotify.com/track/3BhhN8DG3MkqJZWx7FWKtB) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Coma](https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd) | 3:03 |
 | 47 | [Gamble](https://open.spotify.com/track/6LZLx6B97FDjUg89RIT44U) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Back To The Basics](https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV) | 2:42 |
 | 48 | [I'm Sayin' \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/1GPWHf45DwSziB91p9Phbm) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [I'm Sayin' \(feat\. Rich Homie Quan\)](https://open.spotify.com/album/4kiBGPnmexgABakZacTOMp) | 3:22 |
-| 49 | [Song Cry](https://open.spotify.com/track/0OAKpmhof8rDnV9j91XxUl) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Song Cry](https://open.spotify.com/album/7ykcCIJqdcbmAS6GZ6xypx) | 2:49 |
-| 50 | [Perfect Flower](https://open.spotify.com/track/0k2zadj0ibcTAPXcGg6t7a) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Rich As In Spirit](https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7) | 3:34 |
+| 49 | [Perfect Flower](https://open.spotify.com/track/0k2zadj0ibcTAPXcGg6t7a) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Rich As In Spirit](https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7) | 3:34 |
+| 50 | [Song Cry](https://open.spotify.com/track/0OAKpmhof8rDnV9j91XxUl) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Song Cry](https://open.spotify.com/album/7ykcCIJqdcbmAS6GZ6xypx) | 2:49 |
 
-Snapshot ID: `aN8SAAAAAAAyQ+cOYm1g78199mNH9E/R`
+Snapshot ID: `aOBjgAAAAADcr3/HkT+7HiBjlzNlurJF`

@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 95938,
+  "num_followers": 95935,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAAAkSihZFVAfPzwca5Kf1IV3",
+  "snapshot_id": "aOBjgAAAAAAhqyhQA8PYseJ76bAvNus3",
   "tracks": [
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Timing",
-        "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 228106,
-      "name": "Held Me Down",
-      "url": "https://open.spotify.com/track/0jiW3PNiHJxOhWh9oPBJ7m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "6AM Thoughts",
         "url": "https://open.spotify.com/album/6Y7WV9kM9IS5mhcgrvIbfx"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 200933,
       "name": "6AM Thoughts (with Cash Cobain & Bay Swag)",
       "url": "https://open.spotify.com/track/4l4gr5KjRl1msqINS47y20"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 228106,
+      "name": "Held Me Down",
+      "url": "https://open.spotify.com/track/0jiW3PNiHJxOhWh9oPBJ7m"
     },
     {
       "added_at": null,

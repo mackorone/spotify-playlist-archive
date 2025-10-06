@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Ranging from your new favorites to familiar classics, let these songs bless you as you're on the road!
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,130 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,256 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 22 | [Black Sheep](https://open.spotify.com/track/42AQxbRCvwfGg9L0oRDUR5) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Black Sheep](https://open.spotify.com/album/1HXCaQmQea8GL5FXUze8oI) | 3:53 |
 | 23 | [No Love For A Sinner](https://open.spotify.com/track/63HWbJOOhgF082RwgEghew) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Eulogize](https://open.spotify.com/album/0KVshV8BH234oVUlRDVaaE) | 3:30 |
 | 24 | [Heaven On My Mind](https://open.spotify.com/track/00hBntRNlxbvmUa7VX7Woq) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Heaven On My Mind](https://open.spotify.com/album/3QrtYSiDxk8mmKmEy6xQfR) | 3:23 |
-| 25 | [dopamine](https://open.spotify.com/track/1MlwlvguOnqk3vZCAWe168) | [Strings And Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [dopamine](https://open.spotify.com/album/7s4KNsNzQuHuZLYneTMUEE) | 2:02 |
-| 26 | [God Is For Me](https://open.spotify.com/track/7Dzhw9i6H4oX89Iwqf3ziK) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [God Is For Me](https://open.spotify.com/album/6f8eCGU8Pf9rI0OTP6HTAU) | 2:44 |
+| 25 | [God Is For Me](https://open.spotify.com/track/7Dzhw9i6H4oX89Iwqf3ziK) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [God Is For Me](https://open.spotify.com/album/6f8eCGU8Pf9rI0OTP6HTAU) | 2:44 |
+| 26 | [dopamine](https://open.spotify.com/track/1MlwlvguOnqk3vZCAWe168) | [Strings And Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [dopamine](https://open.spotify.com/album/7s4KNsNzQuHuZLYneTMUEE) | 2:02 |
 | 27 | [Walk Through Fire](https://open.spotify.com/track/5vF6qbL6WwKGSGxdZiLp6c) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Walk Through Fire](https://open.spotify.com/album/0eC41NajaOtRYUd1Fezu4t) | 3:13 |
 | 28 | [That's The Thing About Praise](https://open.spotify.com/track/3jWIXPUA6KAHoatVUAaxBv) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Benjamin William Hastings](https://open.spotify.com/album/1K9dbdsz6jagqTAkrHHSmk) | 3:57 |
 | 29 | [a light in me](https://open.spotify.com/track/1LMiE4tPJ49stB7AsHyWZ4) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [a light in me](https://open.spotify.com/album/3tEVEN59Yr9xHBjNNIt5YU) | 3:11 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 42 | [OOWEE](https://open.spotify.com/track/2S8j7DJfqYEDG7sv74TA4u) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [OOWEE](https://open.spotify.com/album/7GOJOlZImisCOmvOTyxLC6) | 2:28 |
 | 43 | [NEVER GOING BACK](https://open.spotify.com/track/7cBufOFCMzMgOJ0YdZRpWz) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Kato On The Track](https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [NEVER GOING BACK](https://open.spotify.com/album/2j5Kbe1G5jQUcEMAhmytq9) | 2:32 |
 | 44 | [I'm So Blessed \- Aaron Cole Mix](https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [I'm So Blessed \(Aaron Cole Mix\)](https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ) | 2:55 |
-| 45 | [give & take](https://open.spotify.com/track/5zjbwZNZn7vNdb6ep4Xszq) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [give & take](https://open.spotify.com/album/7ufigBepuzBwx2TDA5lgWC) | 3:26 |
-| 46 | [So Good](https://open.spotify.com/track/6S5InY8HVnvFYKgeOrnKN0) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Impossible](https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai) | 4:15 |
+| 45 | [So Good](https://open.spotify.com/track/6S5InY8HVnvFYKgeOrnKN0) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Impossible](https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai) | 4:15 |
+| 46 | [give & take](https://open.spotify.com/track/5zjbwZNZn7vNdb6ep4Xszq) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [give & take](https://open.spotify.com/album/7ufigBepuzBwx2TDA5lgWC) | 3:26 |
 | 47 | [i still have you](https://open.spotify.com/track/1WrQq6Pnr7QGmXdd51EYu6) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [trustfall](https://open.spotify.com/album/6HGmAgrZHojZ3Urz9OTEyi) | 3:17 |
 | 48 | [Can't Lose](https://open.spotify.com/track/2PjC4t9Kp4hIJ2h9DkL5Dp) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Everything Good](https://open.spotify.com/album/0WmDtpLTNOAW1PANlncdBE) | 3:22 |
 | 49 | [POP UP](https://open.spotify.com/track/3RdOLCrgJbxRkvsNVJzOW5) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Dead Or Alive Pt\. 2](https://open.spotify.com/album/290RwiFSj49ozfvrNtOAgh) | 4:05 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 68 | [Drive](https://open.spotify.com/track/4e8lXxOrEBJfvyx2zoZ0K3) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [Drive](https://open.spotify.com/album/6fTzSgdtC6r0rASnYHaPaJ) | 3:13 |
 | 69 | [Blinded](https://open.spotify.com/track/1wsxYJWrgYuVzieibPpyIP) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Blinded](https://open.spotify.com/album/4HIa4aAv2MMUq8eTlJUVCc) | 3:27 |
 | 70 | [I'd Be Lying](https://open.spotify.com/track/5gSSBeFZLEnvoXMYVIiCzK) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [I'd Be Lying](https://open.spotify.com/album/1Nx3COSHouV525o3E16uTZ) | 2:34 |
-| 71 | [Crying Out Loud](https://open.spotify.com/track/2q7BXGqVOraGocLXEWk9Dn) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Crying Out Loud](https://open.spotify.com/album/4iMTjPySOIJY9dJk4wFGyB) | 3:20 |
-| 72 | [The Heat](https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [The Heat](https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt) | 3:33 |
-| 73 | [Still Small Voice](https://open.spotify.com/track/0N0bFgkkvD6sIX8PfJ1Ywi) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Still Small Voice](https://open.spotify.com/album/499GkCyuTPX1U2BXhSDBon) | 3:25 |
+| 71 | [The Heat](https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [The Heat](https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt) | 3:33 |
+| 72 | [Still Small Voice](https://open.spotify.com/track/0N0bFgkkvD6sIX8PfJ1Ywi) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Still Small Voice](https://open.spotify.com/album/499GkCyuTPX1U2BXhSDBon) | 3:25 |
+| 73 | [Crying Out Loud](https://open.spotify.com/track/2q7BXGqVOraGocLXEWk9Dn) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Crying Out Loud](https://open.spotify.com/album/4iMTjPySOIJY9dJk4wFGyB) | 3:20 |
 | 74 | [SPIN BACK!](https://open.spotify.com/track/6io60qSWxYi4ZSWrF2lWYF) | [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [SPIN BACK!](https://open.spotify.com/album/4Zykomn4WwkD6yHyXC8Kcq) | 2:02 |
 | 75 | [Hope's Gonna Find You](https://open.spotify.com/track/5Jqklo4srneGCMCLVHaFOX) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Hope's Gonna Find You](https://open.spotify.com/album/2X1dvHTNsqJ0poH4K898cE) | 3:55 |
 | 76 | [Learning To Let Go](https://open.spotify.com/track/3B8JMdJvuyPLokXb0eN8Wm) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [Real Me](https://open.spotify.com/album/78GU0GtHUsMuU140MvN1wu) | 2:52 |

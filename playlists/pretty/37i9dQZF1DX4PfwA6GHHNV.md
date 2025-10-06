@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > afrobeats daqui, de fora, de todos os cantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,052 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,055 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 13 | [ILY](https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ILY](https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW) | 3:36 |
 | 14 | [Gold](https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Gold](https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM) | 3:08 |
 | 15 | [AEROMOÇA](https://open.spotify.com/track/48prukdF0AI4Q7AMOzkxnQ) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [FRAGMENTADO](https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H) | 2:38 |
-| 16 | [MULHER SECRETA](https://open.spotify.com/track/7IrWDPYP9rwNq1N4aUF3nG) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [MAIOR QUE O TEMPO](https://open.spotify.com/album/3Cjn6aliQrVp6MPiU4oAdw) | 3:48 |
-| 17 | [Un Afrito](https://open.spotify.com/track/213EYsG3x95vtxupDU1XMc) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Un Afrito](https://open.spotify.com/album/4Gpxahsskuc5R2nj1Wqft7) | 2:07 |
+| 16 | [Un Afrito](https://open.spotify.com/track/213EYsG3x95vtxupDU1XMc) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Un Afrito](https://open.spotify.com/album/4Gpxahsskuc5R2nj1Wqft7) | 2:07 |
+| 17 | [MULHER SECRETA](https://open.spotify.com/track/7IrWDPYP9rwNq1N4aUF3nG) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [MAIOR QUE O TEMPO](https://open.spotify.com/album/3Cjn6aliQrVp6MPiU4oAdw) | 3:48 |
 | 18 | [EXPECTATIVAS](https://open.spotify.com/track/6pFD81uwGh25w62Ut3XSqd) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [EXPECTATIVAS](https://open.spotify.com/album/172ipzW34GEnl38MHofXcf) | 3:22 |
 | 19 | [Touch me \(feat\. Ya Levis\)](https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [9PM IN PARIS](https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9) | 2:39 |
 | 20 | [No Sign of Weakness](https://open.spotify.com/track/2hZSwKDJFiTnxnvObgiQuB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:55 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 59 | [Desacelera](https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Emiká](https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB) | [Desacelera](https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo) | 2:44 |
 | 60 | [Brinca Comigo](https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd) | [RUBY](https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1), [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Atitude](https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ) | 3:05 |
 
-Snapshot ID: `AAAAAHtIp75UiDiVWigHBlnJQqVIN+LS`
+Snapshot ID: `AAAAAFNcPv7QeUxrNYFwGzBYMXwu42Zm`

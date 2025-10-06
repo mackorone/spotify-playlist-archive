@@ -4,14 +4,14 @@
 
 > This is Turnstile\. The essential tracks, all in one playlist.
 
-59 songs - 2 hr 34 min
+60 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Lost Another\) Piece of My World](https://open.spotify.com/track/1afMorBjO1qEq8RCXz9RqV) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 1:51 | 2024-09-29 |  |
 | [7](https://open.spotify.com/track/6VHhnEVCYvxlQQr5kbWd5i) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Step to Rhythm](https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz) | 1:37 | 2022-11-17 |  |
 | [Alien Love Call](https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [New Heart Designs](https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC) | 3:42 | 2023-08-13 |  |
-| [Bad Wave](https://open.spotify.com/track/4ErXaLOxWqva7GsgQY3Kql) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Nonstop Feeling](https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6) | 2:16 | 2024-11-23 |  |
+| [Bad Wave](https://open.spotify.com/track/4ErXaLOxWqva7GsgQY3Kql) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Nonstop Feeling](https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6) | 2:16 | 2024-11-23 | 2025-10-06 |
 | [Better Way](https://open.spotify.com/track/0AfcDu9FosOBh8HtoEVxHE) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Step to Rhythm](https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz) | 3:31 | 2022-11-17 |  |
 | [Big Smile](https://open.spotify.com/track/0OK2cjonTMoF8PLRup3MAM) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 1:29 | 2022-11-17 |  |
 | [BIRDS](https://open.spotify.com/track/0k9JIBszlCqCa4SpXI353F) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 2:26 | 2025-05-08 | 2025-06-15 |
@@ -44,12 +44,13 @@
 | [Keep It Moving](https://open.spotify.com/track/4VVnprM3eR1hlac2ulGzjv) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Step to Rhythm](https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz) | 3:17 | 2022-11-17 |  |
 | [LIGHT DESIGN](https://open.spotify.com/track/4UI693m28NeH4uY0mnBV0F) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 2:09 | 2025-06-08 |  |
 | [LOOK OUT FOR ME](https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [LOOK OUT FOR ME](https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza) | 6:43 | 2025-05-23 | 2025-06-20 |
-| [Love Lasso](https://open.spotify.com/track/0jN0nHXkh1hJt3RlN2tgVk) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Nonstop Feeling](https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6) | 1:48 | 2023-01-25 | 2024-11-23 |
+| [Love Lasso](https://open.spotify.com/track/0jN0nHXkh1hJt3RlN2tgVk) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Nonstop Feeling](https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6) | 1:48 | 2023-01-25 |  |
 | [Moon](https://open.spotify.com/track/1r1MOC7jMhvTua0TV8FpgO) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 1:53 | 2022-11-17 | 2024-09-29 |
 | [Move Thru Me](https://open.spotify.com/track/4rKG6dxdnugCSZ6COGNlvB) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Move Thru Me](https://open.spotify.com/album/6UOOi8etpSCbXlWHtpDIgL) | 2:18 | 2023-08-21 | 2025-06-08 |
 | [Move Thru Me](https://open.spotify.com/track/5U0GKdcQ6vhHndCkoRbP1c) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Move Thru Me](https://open.spotify.com/album/4yv0f6J21URHCBZ0owXEPl) | 2:18 | 2022-11-17 | 2023-08-22 |
 | [MYSTERY](https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:35 | 2022-11-17 |  |
 | [NEVER ENOUGH](https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY) | 4:47 | 2025-04-11 | 2025-06-13 |
+| [NEW HEART DESIGN](https://open.spotify.com/track/6J2Y5iz8C5b83ndoPun6aF) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:27 | 2025-10-06 |  |
 | [New Rules](https://open.spotify.com/track/41qY7F57ob5JSwboHiPoBk) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Pressure to Succeed](https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO) | 2:36 | 2022-11-17 |  |
 | [Out of Rage](https://open.spotify.com/track/75Llbj5OAnDnSaob3koB0w) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Nonstop Feeling](https://open.spotify.com/album/6BFCtPdoT07blVSsAkHUw6) | 3:11 | 2022-11-17 | 2023-01-26 |
 | [Pressure to Succeed](https://open.spotify.com/track/6lgwU51adM1hZwgFWLF2nh) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Pressure to Succeed](https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO) | 3:13 | 2022-11-17 | 2025-06-08 |
@@ -59,13 +60,13 @@
 | [SEEIN’ STARS](https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 3:06 | 2025-05-08 | 2025-06-17 |
 | [SEEIN’ STARS](https://open.spotify.com/track/2Z4nIITCxUoaZvFug5FxtO) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:06 | 2025-06-17 |  |
 | [SLOWDIVE](https://open.spotify.com/track/1wNspyFiI1E9YGhJzz3AoO) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:33 | 2025-06-08 | 2025-06-17 |
-| [Snaked](https://open.spotify.com/track/0R046DVTvu15N3RpzitDY5) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Step to Rhythm](https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz) | 1:33 | 2022-11-17 |  |
+| [Snaked](https://open.spotify.com/track/0R046DVTvu15N3RpzitDY5) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Step to Rhythm](https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz) | 1:33 | 2022-11-17 | 2025-10-06 |
 | [SOLE](https://open.spotify.com/track/6PaSOin7Y9GnXRZ5U5sMsv) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:25 | 2025-06-08 |  |
 | [SUNSHOWER](https://open.spotify.com/track/2QmmdEYfM6kEk5iz6E1Rs7) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:40 | 2025-06-08 | 2025-06-15 |
 | [T.L.C\. \(TURNSTILE LOVE CONNECTION\)](https://open.spotify.com/track/3zQpWQCDm9QMDaAhe4ggoO) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 1:42 | 2025-03-14 | 2025-06-20 |
 | [The Dream](https://open.spotify.com/track/04jmrsQI3WUHaUTZ6sZ6eM) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Pressure to Succeed](https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO) | 1:43 | 2022-11-17 |  |
 | [The Things You Do](https://open.spotify.com/track/7oSetY84ZklreUXX4eFdP0) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Pressure to Succeed](https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO) | 1:03 | 2022-11-17 |  |
-| [UNDERWATER BOI](https://open.spotify.com/track/4pV11quzVm52tULYj6ITD2) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 3:04 | 2022-11-17 |  |
+| [UNDERWATER BOI](https://open.spotify.com/track/4pV11quzVm52tULYj6ITD2) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 3:04 | 2022-11-17 | 2025-10-06 |
 | [Yes I Need My Generator](https://open.spotify.com/track/4vFicRRBJFCC5UofT5sWAT) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Mall Grab](https://open.spotify.com/artist/6zOjgckldodS8u8cZoY3cc) | [Share A View](https://open.spotify.com/album/5pxz1toBQ4J9WIkaXHJprU) | 5:08 | 2022-11-17 | 2023-12-14 |
 
 \*This playlist was first scraped on 2022-11-18. Prior content cannot be recovered.

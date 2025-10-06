@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 
 > The home of rage rap\. Cover: Destroy Lonely
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,841 likes - 65 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,919 likes - 65 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 | 64 | [The Grinch](https://open.spotify.com/track/2VKHWIONh47ntN7wyoSxEQ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 4](https://open.spotify.com/album/5nDqjtvRwDYElIflvoNDdE) | 1:31 |
 | 65 | [if looks could kill](https://open.spotify.com/track/7cFLFmj3fLV5wxhcFfol7u) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [If Looks Could Kill](https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29) | 3:14 |
 
-Snapshot ID: `AAAAAPKeW0jeRaZuP3Ag9irNfwSLnWIQ`
+Snapshot ID: `AAAAAHxpfQhcq1851HtzjcCuDpF/KHeu`

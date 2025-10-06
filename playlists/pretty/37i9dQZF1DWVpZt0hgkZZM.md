@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,200 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,211 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 93 | [Luz de Cumbia](https://open.spotify.com/track/0HItkk1upCaJ3CIkug0cF3) | [Anibal Velasquez](https://open.spotify.com/artist/0wTrWHg7n7oL5UGT0I3VqE), [José Velásquez](https://open.spotify.com/artist/6tgbHKkvt86JIm5cc3EHJg) | [Historia Musical de Aníbal Velásquez](https://open.spotify.com/album/5EsZaXFKjzsUMgFYmaaAkk) | 2:50 |
 | 94 | [Oye](https://open.spotify.com/track/0RgkYy8cFIFju90PGSMg45) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Historia Musical de la Sonora Dinamita: 40 Éxitos](https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD) | 3:09 |
 | 95 | [Bacano](https://open.spotify.com/track/5OQxj4awrNDYMnvNAzwSjQ) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo) | [Éxitos los Tupamaros](https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM) | 3:29 |
-| 96 | [Bebiendo y Llorando](https://open.spotify.com/track/3eh5xfz6LVt198YnqoCa5W) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Historia Musical de los Embajadores Vallenatos: 36 Grandes Éxitos](https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI) | 4:55 |
-| 97 | [Tania](https://open.spotify.com/track/1D1ekeAi8uHYh1JPOcnr1I) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Historia Musical de Fruko: Éxitos](https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB) | 3:39 |
+| 96 | [Tania](https://open.spotify.com/track/1D1ekeAi8uHYh1JPOcnr1I) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Historia Musical de Fruko: Éxitos](https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB) | 3:39 |
+| 97 | [Bebiendo y Llorando](https://open.spotify.com/track/3eh5xfz6LVt198YnqoCa5W) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Historia Musical de los Embajadores Vallenatos: 36 Grandes Éxitos](https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI) | 4:55 |
 | 98 | [La Mafafa](https://open.spotify.com/track/6ssMfGx7MMrJlvdvuRfZCA) | [La Sonora Cordobesa](https://open.spotify.com/artist/5rICAMDtQlBghUdJ4E3TLK), [Eliseo Herrera](https://open.spotify.com/artist/3YpIrDTEyfabU64t89sani), [Pedro Laza Y Sus Pelayeros](https://open.spotify.com/artist/0CulHu6suXmBEZRI9pYgnk) | [Historia Musical de la Sonora Cordobesa](https://open.spotify.com/album/6u0TM12VcCDBKI2gzqcyb0) | 2:35 |
 | 99 | [Mil Horas](https://open.spotify.com/track/6GA4n3kmq8pTJLmntNlXDD) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Historia Musical de la Sonora Dinamita: 40 Éxitos](https://open.spotify.com/album/3kwb8jpDd8zq1wRwovYaPD) | 3:46 |
 | 100 | [Muero por Verla](https://open.spotify.com/track/2CIWM6twdjSFIsw2LSVKyc) | [Luis Mateus](https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW), [La Nueva Generación](https://open.spotify.com/artist/3yxxiR793umYevxROWGMqv) | [Historia Musical de 14 Vallenatos Románticos](https://open.spotify.com/album/3LMhF3xPIjr9e2e9sdFR9U) | 4:38 |

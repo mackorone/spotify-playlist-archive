@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jTifM0MFAVzFVvYIpez2Z">Tommy Parker</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-131 songs - 7 hr 2 min
+132 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [MASC \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/0FdW7MEbDKdz8v5TXqcFkG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Scarlet 2 CLAUDE](https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2) | 3:25 | 2024-06-07 |  |
 | [Meet Again](https://open.spotify.com/track/2Ta8ohcEc1baylhzoeHuFb) | [TOB Duke](https://open.spotify.com/artist/0swrkotfXHdeJNfkELoFkS) | [Time Will Tell \(Deluxe\)](https://open.spotify.com/album/4qEGuoOqBsOF2qkY3EwQdV) | 2:17 | 2024-06-07 |  |
 | [Menage a Trois](https://open.spotify.com/track/6xS4BdN2QBNN6AjSOXy0Q0) | [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Highway 85](https://open.spotify.com/album/6LjVjNpmVDtop3I7X5v5oU) | 3:50 | 2024-06-07 |  |
+| [Mimi Interlude](https://open.spotify.com/track/5eQtRJm1hLwSWeB5UBPyDa) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1mOzqonHplZ7XxhwNtDbBp) | 0:38 | 2025-10-05 |  |
 | [Mine](https://open.spotify.com/track/5zTdRY35xrvOUUpwRZs3TW) | [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) | [Mine](https://open.spotify.com/album/3xXYS0X2RGfksBDK9stJYV) | 2:49 | 2024-06-07 |  |
 | [NEVER COULD SAY](https://open.spotify.com/track/18JNzu58Ux49pb2YcoiYNE) | [Keedron Bryant](https://open.spotify.com/artist/2l5DDUyyMSmNBLCSa0BIIX) | [I JUST WANNA LIVE](https://open.spotify.com/album/18hfjUQqaV5v39o9Y7CLPc) | 3:40 | 2024-06-07 |  |
 | [Night](https://open.spotify.com/track/0LFO2Dep3r3g36vt0rY8yt) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Unbreakable](https://open.spotify.com/album/45nlliwsohn0gLFmQ49FAG) | 4:14 | 2024-06-07 |  |

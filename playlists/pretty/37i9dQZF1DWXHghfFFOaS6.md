@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,353 likes - 90 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,402 likes - 90 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 45 | [Apple Green](https://open.spotify.com/track/09athuEe5kQfC7bV63jmGa) | [Mother Earth](https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw) | [The People Tree](https://open.spotify.com/album/3OPuEGeKNwmxTfvOQJUh0Y) | 4:25 |
 | 46 | [Totally Together](https://open.spotify.com/track/5x48S3L3kieU5g7LhW5TPM) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [A Joyful Noise Unto The Creator](https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j) | 3:49 |
 | 47 | [Stomp And Buck Dance](https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp) | [The Crusaders](https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b) | [Southern Comfort](https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD) | 5:48 |
-| 48 | [Free Your Mind](https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs) | [James Taylor Quartet](https://open.spotify.com/artist/4yJ5JaEQvtAynbcucAiN0R) | [In the Hand of the Inevitable](https://open.spotify.com/album/4XTXpbLvjAvzyzInkgK992) | 4:54 |
+| 48 | [Give Me](https://open.spotify.com/track/5VSxOUW2zqOo77pauTqpFG) | [iLEVEL](https://open.spotify.com/artist/6giP3D3xjy48VZKi3nk3eE) | [I\-Level](https://open.spotify.com/album/0OCJNxmBNVXTS9tAAwXea8) | 4:01 |
 | 49 | [Apparently Nothin' \- Edit](https://open.spotify.com/track/5OpfYk7WM53sDn3GQdrnZt) | [Young Disciples](https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4) | [urban lounge](https://open.spotify.com/album/18S1slBXavEGjhjJgVEPhr) | 4:00 |
-| 50 | [Give Me](https://open.spotify.com/track/5VSxOUW2zqOo77pauTqpFG) | [iLEVEL](https://open.spotify.com/artist/6giP3D3xjy48VZKi3nk3eE) | [I\-Level](https://open.spotify.com/album/0OCJNxmBNVXTS9tAAwXea8) | 4:01 |
+| 50 | [Free Your Mind](https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs) | [James Taylor Quartet](https://open.spotify.com/artist/4yJ5JaEQvtAynbcucAiN0R) | [In the Hand of the Inevitable](https://open.spotify.com/album/4XTXpbLvjAvzyzInkgK992) | 4:54 |
 | 51 | [Be Thankful](https://open.spotify.com/track/2bULDC7iIk43NXgGKA4vPB) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [William DeVaughan](https://open.spotify.com/artist/1Ti8l2zXtTyMRi37I4mSK4) | [Best by Far](https://open.spotify.com/album/4HRoAeVyVORkenqpt9oXIk) | 4:12 |
 | 52 | [Changin'](https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb) | [Brass Construction](https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9) | [Brass Construction](https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV) | 8:14 |
 | 53 | [It's A Vanity](https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh) | [T\. P\. Orchestre Poly\-Rythmo](https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb), [Gabo Brown](https://open.spotify.com/artist/4611pTtcuyslFogumDsWzP) | [Afro\-Funk](https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k) | 4:22 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 74 | [Check The Pulse](https://open.spotify.com/track/1JW36QtBxE4usZnSjYJz8W) | [Mr Jukes](https://open.spotify.com/artist/1y71H4hNtnHG7LeU1Y47FO), [Barney Artist](https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Check The Pulse](https://open.spotify.com/album/0vbBNZcVFdm712rzsXfsr5) | 2:34 |
 | 75 | [C'était un rendez\-vous](https://open.spotify.com/track/7r3KxXhRx6sznqDL05497j) | [Arms and Sleepers](https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP) | [C'était un rendez\-vous](https://open.spotify.com/album/0PP9XAAa3yjLiMQ9gM2E7W) | 5:20 |
 | 76 | [Pete's Sake](https://open.spotify.com/track/0CrzPm81c6W4uwXWSu1rB8) | [All Good Funk Alliance](https://open.spotify.com/artist/73Qym52gV9q9oJuZMZZv0s) | [On The One](https://open.spotify.com/album/2wxTaM1mg8J6T5lQgOugGk) | 5:32 |
-| 77 | [Playing my piano](https://open.spotify.com/track/5lri4wmusuBlpOQWENexUK) | [Don Laka](https://open.spotify.com/artist/1pVB3hFHwbaa3CkI72nQfQ) | [Playing my piano](https://open.spotify.com/album/5QxvuQDhcKIJiQkwDFXfHV) | 6:21 |
+| 77 | [I Am The Black Gold Of The Sun](https://open.spotify.com/track/6OMfk1Gei14BexfcSzjLrB) | [Nuyorican Soul](https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Nuyorican Soul](https://open.spotify.com/album/7vJTJEMC5FYSCD61O5KFvf) | 5:19 |
 | 78 | [Now Is Tomorrow \(Anticipation\)](https://open.spotify.com/track/3MiiMAoyj2UWIBEjwVXyQ8) | [Brass Construction](https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9) | [Brass Construction II](https://open.spotify.com/album/0c8782gtKBLYzPls3Wtat6) | 5:58 |
-| 79 | [I Am The Black Gold Of The Sun](https://open.spotify.com/track/6OMfk1Gei14BexfcSzjLrB) | [Nuyorican Soul](https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Nuyorican Soul](https://open.spotify.com/album/7vJTJEMC5FYSCD61O5KFvf) | 5:19 |
+| 79 | [Playing my piano](https://open.spotify.com/track/5lri4wmusuBlpOQWENexUK) | [Don Laka](https://open.spotify.com/artist/1pVB3hFHwbaa3CkI72nQfQ) | [Playing my piano](https://open.spotify.com/album/5QxvuQDhcKIJiQkwDFXfHV) | 6:21 |
 | 80 | [Woman Of The Ghetto \- Reimagined](https://open.spotify.com/track/0TPpaCh6kiqIJEZOGosUTg) | [Melanie Charles](https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe), [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [Woman Of The Ghetto \(Reimagined\)](https://open.spotify.com/album/2rjniBoJTfY4IIn8aPaR19) | 4:57 |
 | 81 | [Peer Pressure](https://open.spotify.com/track/1FMGZE4pWo49VXyKeFeO5o) | [The Whole Thing](https://open.spotify.com/artist/6329ULqnLbRWcDIPaVPEmM) | [The Whole Thing](https://open.spotify.com/album/1hNqQgyUpZvDu9lDEi9Yzc) | 3:48 |
 | 82 | [Take Four](https://open.spotify.com/track/1kHc8mFnI7IkSf9Hi0c3UM) | [The Quiet Boys](https://open.spotify.com/artist/6iYeCjvRYeWPSp5LjaiIMt) | [Bosh!](https://open.spotify.com/album/2HbZzv8puv4OrDL90MluOh) | 3:33 |

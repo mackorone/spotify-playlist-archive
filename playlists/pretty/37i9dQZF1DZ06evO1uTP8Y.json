@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 8142,
+  "num_followers": 8149,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAADghXy52A2/alyi/1iWDaQx",
+  "snapshot_id": "aOBjgAAAAACGLVo8DdW63ffP+UzDTbyZ",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lustropolis",
-        "url": "https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa"
+        "name": "Space",
+        "url": "https://open.spotify.com/album/5Bhe2wkVUz1nOjPp2L80t9"
       },
       "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
         {
           "name": "Odeal",
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         },
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
         }
       ],
-      "duration_ms": 244000,
-      "name": "You're Stuck",
-      "url": "https://open.spotify.com/track/5lqrfNrGrMfNlPxcCrlmyp"
+      "duration_ms": 142135,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/43Gw9Yd4mYtpJ1AHFA00oY"
     },
     {
       "added_at": null,
@@ -307,6 +311,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "You're Stuck",
+      "url": "https://open.spotify.com/track/5lqrfNrGrMfNlPxcCrlmyp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WHOSDAT",
         "url": "https://open.spotify.com/album/7rDcX06ibFQn0KFkID4cLv"
       },
@@ -323,22 +347,6 @@
       "duration_ms": 181333,
       "name": "Fall In Love (feat. Odeal)",
       "url": "https://open.spotify.com/track/5JV1b92v3C6Css76envcRx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Repercussions",
-        "url": "https://open.spotify.com/album/2Hp6RUBiRKNzXUy6jZfFlu"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 180714,
-      "name": "Repercussions",
-      "url": "https://open.spotify.com/track/69kEVA5svAeoREFoNVeumH"
     },
     {
       "added_at": null,
@@ -375,26 +383,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/5Bhe2wkVUz1nOjPp2L80t9"
+        "name": "Repercussions",
+        "url": "https://open.spotify.com/album/2Hp6RUBiRKNzXUy6jZfFlu"
       },
       "artists": [
         {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
           "name": "Odeal",
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
         }
       ],
-      "duration_ms": 142135,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/43Gw9Yd4mYtpJ1AHFA00oY"
+      "duration_ms": 180714,
+      "name": "Repercussions",
+      "url": "https://open.spotify.com/track/69kEVA5svAeoREFoNVeumH"
     },
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Last Thing",
+        "url": "https://open.spotify.com/album/1aJDWgL0E0b0ihVWhVAitX"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 162230,
+      "name": "Last Thing",
+      "url": "https://open.spotify.com/track/7rTj4pKVamxPkaHooEE23Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 205846,
       "name": "Outside",
       "url": "https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Last Thing",
-        "url": "https://open.spotify.com/album/1aJDWgL0E0b0ihVWhVAitX"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 162230,
-      "name": "Last Thing",
-      "url": "https://open.spotify.com/track/7rTj4pKVamxPkaHooEE23Z"
     },
     {
       "added_at": null,

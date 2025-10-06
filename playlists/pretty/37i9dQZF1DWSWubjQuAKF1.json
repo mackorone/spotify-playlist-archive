@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Pola",
-  "num_followers": 24209,
+  "num_followers": 24207,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2025-09-30 19:39:05",
       "album": {
+        "name": "Firdyga\u0142ki",
+        "url": "https://open.spotify.com/album/3hvfKTYWgFdqtmFOby3LZr"
+      },
+      "artists": [
+        {
+          "name": "maks.tachasiuk",
+          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
+        }
+      ],
+      "duration_ms": 233636,
+      "name": "Firdyga\u0142ki",
+      "url": "https://open.spotify.com/track/7HjSGd75KfBbKAEcMZogKi"
+    },
+    {
+      "added_at": "2025-09-30 19:39:05",
+      "album": {
         "name": "Born To Be Blue",
         "url": "https://open.spotify.com/album/3ZqxWb4ror9WT1QT7GuV8c"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 171753,
       "name": "Born To Be Blue",
       "url": "https://open.spotify.com/track/04zo7BvWV2yNzgpRNhgKFw"
-    },
-    {
-      "added_at": "2025-09-30 19:39:05",
-      "album": {
-        "name": "PASSPORT",
-        "url": "https://open.spotify.com/album/3EFv9uC4C4kSP3osSDiJ1K"
-      },
-      "artists": [
-        {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
-        }
-      ],
-      "duration_ms": 131152,
-      "name": "PASSPORT",
-      "url": "https://open.spotify.com/track/6PWfx76OvEAGRcomQSdJnt"
     },
     {
       "added_at": "2025-09-30 19:39:05",
@@ -315,18 +315,18 @@
     {
       "added_at": "2025-09-30 19:39:05",
       "album": {
-        "name": "Firdyga\u0142ki",
-        "url": "https://open.spotify.com/album/3hvfKTYWgFdqtmFOby3LZr"
+        "name": "PASSPORT",
+        "url": "https://open.spotify.com/album/3EFv9uC4C4kSP3osSDiJ1K"
       },
       "artists": [
         {
-          "name": "maks.tachasiuk",
-          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
         }
       ],
-      "duration_ms": 233636,
-      "name": "Firdyga\u0142ki",
-      "url": "https://open.spotify.com/track/7HjSGd75KfBbKAEcMZogKi"
+      "duration_ms": 131152,
+      "name": "PASSPORT",
+      "url": "https://open.spotify.com/track/6PWfx76OvEAGRcomQSdJnt"
     },
     {
       "added_at": "2025-09-30 19:39:05",
@@ -387,6 +387,22 @@
     {
       "added_at": "2025-09-30 19:39:05",
       "album": {
+        "name": "Nie pozwol\u0119 Ci wyj\u015b\u0107",
+        "url": "https://open.spotify.com/album/1ERBMG7BItkG9tFx13JHYd"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "duration_ms": 161129,
+      "name": "Nie pozwol\u0119 Ci wyj\u015b\u0107",
+      "url": "https://open.spotify.com/track/1wHhHMk0hutBAULKaC3G3U"
+    },
+    {
+      "added_at": "2025-09-30 19:39:05",
+      "album": {
         "name": "Baw Si\u0119 Dobrze",
         "url": "https://open.spotify.com/album/4wZfYMcwpIWEBAYUC3EDsc"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 143236,
       "name": "Baw Si\u0119 Dobrze",
       "url": "https://open.spotify.com/track/6yTiIMzJ8uJkzqhv8tCagJ"
-    },
-    {
-      "added_at": "2025-09-30 19:39:05",
-      "album": {
-        "name": "Nie pozwol\u0119 Ci wyj\u015b\u0107",
-        "url": "https://open.spotify.com/album/1ERBMG7BItkG9tFx13JHYd"
-      },
-      "artists": [
-        {
-          "name": "Maciej Skiba",
-          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
-        }
-      ],
-      "duration_ms": 161129,
-      "name": "Nie pozwol\u0119 Ci wyj\u015b\u0107",
-      "url": "https://open.spotify.com/track/1wHhHMk0hutBAULKaC3G3U"
     },
     {
       "added_at": "2025-09-30 19:39:05",
@@ -495,8 +495,8 @@
     {
       "added_at": "2025-09-30 19:39:05",
       "album": {
-        "name": "Dajesz Mi Serce",
-        "url": "https://open.spotify.com/album/5cUkR7z4PFhEkRteq1dt4w"
+        "name": "Ton\u0119",
+        "url": "https://open.spotify.com/album/6UnjcTHtlJPu9YQRJSDkPk"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF"
         }
       ],
-      "duration_ms": 185204,
-      "name": "Dajesz Mi Serce",
-      "url": "https://open.spotify.com/track/2DoWTRyBa49tFnlaEow3XC"
+      "duration_ms": 207656,
+      "name": "Ton\u0119",
+      "url": "https://open.spotify.com/track/333fFTwtaQPV7TXpTrT9nA"
     },
     {
       "added_at": "2025-09-30 19:39:05",
@@ -571,6 +571,38 @@
     {
       "added_at": "2025-09-30 19:39:05",
       "album": {
+        "name": "To dopiero pocz\u0105tek",
+        "url": "https://open.spotify.com/album/1IlScWRfi6dwEdsy5oy7ak"
+      },
+      "artists": [
+        {
+          "name": "Zuta",
+          "url": "https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui"
+        }
+      ],
+      "duration_ms": 217290,
+      "name": "Bez Ciebie",
+      "url": "https://open.spotify.com/track/5rxt70pNzx0BVSxFChifTI"
+    },
+    {
+      "added_at": "2025-09-30 19:39:05",
+      "album": {
+        "name": "Dajesz Mi Serce",
+        "url": "https://open.spotify.com/album/5cUkR7z4PFhEkRteq1dt4w"
+      },
+      "artists": [
+        {
+          "name": "Mateusz Ciaw\u0142owski",
+          "url": "https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF"
+        }
+      ],
+      "duration_ms": 185204,
+      "name": "Dajesz Mi Serce",
+      "url": "https://open.spotify.com/track/2DoWTRyBa49tFnlaEow3XC"
+    },
+    {
+      "added_at": "2025-09-30 19:39:05",
+      "album": {
         "name": "Dla Turyst\u00f3w",
         "url": "https://open.spotify.com/album/0aFnmKbMvJxPEtC9H2yUb0"
       },
@@ -591,22 +623,6 @@
     {
       "added_at": "2025-09-30 19:39:05",
       "album": {
-        "name": "Ton\u0119",
-        "url": "https://open.spotify.com/album/6UnjcTHtlJPu9YQRJSDkPk"
-      },
-      "artists": [
-        {
-          "name": "Mateusz Ciaw\u0142owski",
-          "url": "https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF"
-        }
-      ],
-      "duration_ms": 207656,
-      "name": "Ton\u0119",
-      "url": "https://open.spotify.com/track/333fFTwtaQPV7TXpTrT9nA"
-    },
-    {
-      "added_at": "2025-09-30 19:39:05",
-      "album": {
         "name": "Je\u015bli ma si\u0119 sko\u0144czy\u0107 \u015bwiat",
         "url": "https://open.spotify.com/album/7KJsWMtM5jpPulsi70oFCj"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 196705,
       "name": "Je\u015bli ma si\u0119 sko\u0144czy\u0107 \u015bwiat",
       "url": "https://open.spotify.com/track/5JGNvqBlOUb256Wa587RQr"
-    },
-    {
-      "added_at": "2025-09-30 19:39:05",
-      "album": {
-        "name": "To dopiero pocz\u0105tek",
-        "url": "https://open.spotify.com/album/1IlScWRfi6dwEdsy5oy7ak"
-      },
-      "artists": [
-        {
-          "name": "Zuta",
-          "url": "https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui"
-        }
-      ],
-      "duration_ms": 217290,
-      "name": "Bez Ciebie",
-      "url": "https://open.spotify.com/track/5rxt70pNzx0BVSxFChifTI"
     },
     {
       "added_at": "2025-09-30 19:39:05",
@@ -719,6 +719,22 @@
     {
       "added_at": "2025-09-30 19:39:05",
       "album": {
+        "name": "Sedno",
+        "url": "https://open.spotify.com/album/7BdBHF7fDtd5OL5lPiAs75"
+      },
+      "artists": [
+        {
+          "name": "Felivers",
+          "url": "https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Sedno",
+      "url": "https://open.spotify.com/track/184h1j6ZZv26SmoKzv5uHD"
+    },
+    {
+      "added_at": "2025-09-30 19:39:05",
+      "album": {
         "name": "Korony drzew",
         "url": "https://open.spotify.com/album/3bfzPdXHxKnZoJnwr8yG7t"
       },
@@ -743,38 +759,6 @@
     {
       "added_at": "2025-09-30 19:39:05",
       "album": {
-        "name": "Wiem co z nami b\u0119dzie",
-        "url": "https://open.spotify.com/album/0Na93OlcBPkgdXFS3Wrc7V"
-      },
-      "artists": [
-        {
-          "name": "Leon Krze\u015bniak",
-          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
-        }
-      ],
-      "duration_ms": 200268,
-      "name": "Wiem co z nami b\u0119dzie",
-      "url": "https://open.spotify.com/track/1Hcn4nkvEolgue5ZzkN4cj"
-    },
-    {
-      "added_at": "2025-09-30 19:39:05",
-      "album": {
-        "name": "Sedno",
-        "url": "https://open.spotify.com/album/7BdBHF7fDtd5OL5lPiAs75"
-      },
-      "artists": [
-        {
-          "name": "Felivers",
-          "url": "https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Sedno",
-      "url": "https://open.spotify.com/track/184h1j6ZZv26SmoKzv5uHD"
-    },
-    {
-      "added_at": "2025-09-30 19:39:05",
-      "album": {
         "name": "Niby to wiem",
         "url": "https://open.spotify.com/album/5NGVIouWnsDoi0kWFwpjOg"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 205375,
       "name": "Niby to wiem",
       "url": "https://open.spotify.com/track/1TGP53EWadwAcMCQDzUBL8"
+    },
+    {
+      "added_at": "2025-09-30 19:39:05",
+      "album": {
+        "name": "Wiem co z nami b\u0119dzie",
+        "url": "https://open.spotify.com/album/0Na93OlcBPkgdXFS3Wrc7V"
+      },
+      "artists": [
+        {
+          "name": "Leon Krze\u015bniak",
+          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
+        }
+      ],
+      "duration_ms": 200268,
+      "name": "Wiem co z nami b\u0119dzie",
+      "url": "https://open.spotify.com/track/1Hcn4nkvEolgue5ZzkN4cj"
     },
     {
       "added_at": "2025-09-30 19:39:05",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-09-30 19:39:05",
       "album": {
-        "name": "Bez siebie",
-        "url": "https://open.spotify.com/album/6zVUF3gjJuooEjHEQZy76p"
-      },
-      "artists": [
-        {
-          "name": "Ola Olszewska",
-          "url": "https://open.spotify.com/artist/1YyVozTrSIYYqKGNFzBa4b"
-        }
-      ],
-      "duration_ms": 178741,
-      "name": "Bez siebie",
-      "url": "https://open.spotify.com/track/7gHumEFAIMYc1VvkxfHLCW"
-    },
-    {
-      "added_at": "2025-09-30 19:39:05",
-      "album": {
         "name": "A\u0142\u0142tobus",
         "url": "https://open.spotify.com/album/6tZiFTisGmTWHWmnuRrJBe"
       },
@@ -983,6 +967,38 @@
       "duration_ms": 232733,
       "name": "Rzeka",
       "url": "https://open.spotify.com/track/7EI8yqG3nA8MvfUKGkTIwC"
+    },
+    {
+      "added_at": "2025-09-30 19:39:05",
+      "album": {
+        "name": "Bez siebie",
+        "url": "https://open.spotify.com/album/6zVUF3gjJuooEjHEQZy76p"
+      },
+      "artists": [
+        {
+          "name": "Ola Olszewska",
+          "url": "https://open.spotify.com/artist/1YyVozTrSIYYqKGNFzBa4b"
+        }
+      ],
+      "duration_ms": 178741,
+      "name": "Bez siebie",
+      "url": "https://open.spotify.com/track/7gHumEFAIMYc1VvkxfHLCW"
+    },
+    {
+      "added_at": "2025-09-30 19:39:05",
+      "album": {
+        "name": "Czas",
+        "url": "https://open.spotify.com/album/0W6CLUac2XfDjfURHOzF4V"
+      },
+      "artists": [
+        {
+          "name": "Filip Max",
+          "url": "https://open.spotify.com/artist/2Af5aejlBF2UrIn1xmPWJ5"
+        }
+      ],
+      "duration_ms": 126187,
+      "name": "Czas",
+      "url": "https://open.spotify.com/track/7qj1lu6yxDl5GTnSItuIdh"
     },
     {
       "added_at": "2025-09-30 19:39:05",
@@ -1039,18 +1055,18 @@
     {
       "added_at": "2025-09-30 19:39:05",
       "album": {
-        "name": "Czas",
-        "url": "https://open.spotify.com/album/0W6CLUac2XfDjfURHOzF4V"
+        "name": "wifey material",
+        "url": "https://open.spotify.com/album/60U1gVo9t0FP69JWud0BQ5"
       },
       "artists": [
         {
-          "name": "Filip Max",
-          "url": "https://open.spotify.com/artist/2Af5aejlBF2UrIn1xmPWJ5"
+          "name": "Milky.wav",
+          "url": "https://open.spotify.com/artist/0d4V9KFvcZZS9ASemIGuDP"
         }
       ],
-      "duration_ms": 126187,
-      "name": "Czas",
-      "url": "https://open.spotify.com/track/7qj1lu6yxDl5GTnSItuIdh"
+      "duration_ms": 122571,
+      "name": "wifey material",
+      "url": "https://open.spotify.com/track/1g8puN0EuWAuupTQfGBGZN"
     },
     {
       "added_at": "2025-09-30 19:39:05",
@@ -1071,38 +1087,6 @@
     {
       "added_at": "2025-09-30 19:39:05",
       "album": {
-        "name": "wifey material",
-        "url": "https://open.spotify.com/album/60U1gVo9t0FP69JWud0BQ5"
-      },
-      "artists": [
-        {
-          "name": "Milky.wav",
-          "url": "https://open.spotify.com/artist/0d4V9KFvcZZS9ASemIGuDP"
-        }
-      ],
-      "duration_ms": 122571,
-      "name": "wifey material",
-      "url": "https://open.spotify.com/track/1g8puN0EuWAuupTQfGBGZN"
-    },
-    {
-      "added_at": "2025-09-30 19:39:05",
-      "album": {
-        "name": "NAD RANEM",
-        "url": "https://open.spotify.com/album/5QXG3wphlrSN8iF97n7Mkv"
-      },
-      "artists": [
-        {
-          "name": "Piotr Odoszewski",
-          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "NAD RANEM",
-      "url": "https://open.spotify.com/track/3WOdMYBgZJBKKqMVzU3ndj"
-    },
-    {
-      "added_at": "2025-09-30 19:39:05",
-      "album": {
         "name": "Boisz si\u0119",
         "url": "https://open.spotify.com/album/5O7WpfdyHWZiqzIVclkOwX"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 181052,
       "name": "Boisz si\u0119",
       "url": "https://open.spotify.com/track/5OPDVu8yGItlFz8BsVQkF4"
+    },
+    {
+      "added_at": "2025-09-30 19:39:05",
+      "album": {
+        "name": "NAD RANEM",
+        "url": "https://open.spotify.com/album/5QXG3wphlrSN8iF97n7Mkv"
+      },
+      "artists": [
+        {
+          "name": "Piotr Odoszewski",
+          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "NAD RANEM",
+      "url": "https://open.spotify.com/track/3WOdMYBgZJBKKqMVzU3ndj"
     },
     {
       "added_at": "2025-09-30 19:39:05",

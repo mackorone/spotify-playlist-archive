@@ -1,6 +1,6 @@
 {
   "description": "Embrace those happy vibes with these feel-good hits!",
-  "num_followers": 400135,
+  "num_followers": 400131,
   "original_name": "Happy Pop",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-09-23 14:00:18",
       "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "You Make My Dreams (Come True)",
+      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
+    },
+    {
+      "added_at": "2025-09-23 14:00:18",
+      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 190960,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
-    },
-    {
-      "added_at": "2025-09-23 14:00:18",
-      "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 190626,
-      "name": "You Make My Dreams (Come True)",
-      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
     },
     {
       "added_at": "2025-09-23 14:00:18",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-09-23 14:00:18",
       "album": {
-        "name": "Fearless (Big Machine Radio Release Special)",
-        "url": "https://open.spotify.com/album/3EzFY9Rg0PpbADMth746zi"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 236266,
-      "name": "Love Story",
-      "url": "https://open.spotify.com/track/1D4PL9B8gOg78jiHg3FvBb"
-    },
-    {
-      "added_at": "2025-09-23 14:00:18",
-      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 258004,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB"
+    },
+    {
+      "added_at": "2025-09-23 14:00:18",
+      "album": {
+        "name": "Fearless (Big Machine Radio Release Special)",
+        "url": "https://open.spotify.com/album/3EzFY9Rg0PpbADMth746zi"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 236266,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/1D4PL9B8gOg78jiHg3FvBb"
     },
     {
       "added_at": "2025-09-23 14:00:18",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-09-23 14:00:18",
       "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 201287,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
-    },
-    {
-      "added_at": "2025-09-23 14:00:18",
-      "album": {
         "name": "Stronger (Deluxe Version)",
         "url": "https://open.spotify.com/album/0VmE95pr5TSpZWucfyhO5e"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 221946,
       "name": "Stronger (What Doesn't Kill You)",
       "url": "https://open.spotify.com/track/1nInOsHbtotAmEOQhtvnzP"
+    },
+    {
+      "added_at": "2025-09-23 14:00:18",
+      "album": {
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 201287,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
     },
     {
       "added_at": "2025-09-23 14:00:18",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-09-23 14:00:18",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Love On Top",
-      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
-    },
-    {
-      "added_at": "2025-09-23 14:00:18",
-      "album": {
         "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
         "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 226240,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
+    },
+    {
+      "added_at": "2025-09-23 14:00:18",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
     },
     {
       "added_at": "2025-09-23 14:00:18",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-09-23 14:00:18",
       "album": {
-        "name": "Red (Taylor's Version)",
-        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 225960,
-      "name": "Message In A Bottle (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j"
-    },
-    {
-      "added_at": "2025-09-23 14:00:18",
-      "album": {
         "name": "Don't Start Now",
         "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+    },
+    {
+      "added_at": "2025-09-23 14:00:18",
+      "album": {
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 225960,
+      "name": "Message In A Bottle (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j"
     },
     {
       "added_at": "2025-09-23 14:00:18",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-09-23 14:00:18",
       "album": {
-        "name": "Back To You (From 13 Reasons Why \u2013 Season 2 Soundtrack)",
-        "url": "https://open.spotify.com/album/3N7eWDCvfWv34xWNohdHjO"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 207904,
-      "name": "Back To You - From 13 Reasons Why \u2013 Season 2 Soundtrack",
-      "url": "https://open.spotify.com/track/4hQ6UGyWQIGJmHSo0J88JW"
-    },
-    {
-      "added_at": "2025-09-23 14:00:18",
-      "album": {
         "name": "Accidentally In Love (From Shrek 2 S/T)",
         "url": "https://open.spotify.com/album/2VuCWE3A2QXpC7vECziDsh"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 188640,
       "name": "Accidentally In Love - From \"Shrek 2\" Soundtrack",
       "url": "https://open.spotify.com/track/2Y6uY65ZwKl9WbVOvKyZg6"
+    },
+    {
+      "added_at": "2025-09-23 14:00:18",
+      "album": {
+        "name": "Back To You (From 13 Reasons Why \u2013 Season 2 Soundtrack)",
+        "url": "https://open.spotify.com/album/3N7eWDCvfWv34xWNohdHjO"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 207904,
+      "name": "Back To You - From 13 Reasons Why \u2013 Season 2 Soundtrack",
+      "url": "https://open.spotify.com/track/4hQ6UGyWQIGJmHSo0J88JW"
     },
     {
       "added_at": "2025-09-23 14:00:18",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2025-09-23 14:00:18",
       "album": {
-        "name": "What A Man Gotta Do",
-        "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
+        "name": "Stay (If You Wanna Dance)",
+        "url": "https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA"
       },
       "artists": [
         {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
         }
       ],
-      "duration_ms": 180644,
-      "name": "What A Man Gotta Do",
-      "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
+      "duration_ms": 185999,
+      "name": "Stay (If You Wanna Dance)",
+      "url": "https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc"
     }
   ],
   "unique_name": "Happy Pop",

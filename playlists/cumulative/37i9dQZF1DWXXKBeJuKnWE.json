@@ -838,7 +838,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 220866,
       "name": "Bad Dreams (feat. Of Virtue)",
       "url": "https://open.spotify.com/track/1MYG4PzDAovlzKFZ6dqatY"
@@ -936,7 +936,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 228364,
       "name": "Bekhauf (feat. BABYMETAL)",
       "url": "https://open.spotify.com/track/0KLm7cjKriGkqI0ApLlzNb"
@@ -4907,6 +4907,24 @@
     },
     {
       "album": {
+        "name": "I Don't Belong Here",
+        "url": "https://open.spotify.com/album/7qYZEoFXuB2AAK99y98l2N"
+      },
+      "artists": [
+        {
+          "name": "Wind Walkers",
+          "url": "https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "Hereditary",
+      "url": "https://open.spotify.com/track/4j4NCpKg0dZKqepfdwL1KH"
+    },
+    {
+      "album": {
         "name": "Heretic (feat. Loz Taylor)",
         "url": "https://open.spotify.com/album/4GuxQZOki4NdCKpn9kW9xn"
       },
@@ -4994,6 +5012,24 @@
       "duration_ms": 315906,
       "name": "Hive Mind",
       "url": "https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI"
+    },
+    {
+      "album": {
+        "name": "Holding On / The Dark Glow",
+        "url": "https://open.spotify.com/album/6DLUWbSqeAndqEcJ1Da24o"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215013,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/5ESDRSXZD5k3UCBQAcffij"
     },
     {
       "album": {
@@ -7692,7 +7728,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 205897,
       "name": "Out Of Style",
       "url": "https://open.spotify.com/track/2o7UpMFIBWzHIRK3Ej2H6k"
@@ -8470,10 +8506,28 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 229373,
       "name": "Sacred",
       "url": "https://open.spotify.com/track/0yrt2vCdHhIyrzFQYzzGkM"
+    },
+    {
+      "album": {
+        "name": "Sacrifice",
+        "url": "https://open.spotify.com/album/5r07n5C93U0Wk4V5jRjK32"
+      },
+      "artists": [
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/0dsiM6v2ANCXRQOiPudPxh"
     },
     {
       "album": {
@@ -10533,6 +10587,24 @@
     },
     {
       "album": {
+        "name": "Tipping Point",
+        "url": "https://open.spotify.com/album/09fWUtFj5UY5gEJapwj0xa"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268828,
+      "name": "Tipping Point",
+      "url": "https://open.spotify.com/track/6jhxeGvYuGY6KHHmUDj8Sv"
+    },
+    {
+      "album": {
         "name": "Tired Eyes",
         "url": "https://open.spotify.com/album/1PPzDscYP774d3bJZkfLTB"
       },
@@ -10984,6 +11056,24 @@
       "duration_ms": 189723,
       "name": "Vacant",
       "url": "https://open.spotify.com/track/1RSEUx1pkaiL7is1obW5v7"
+    },
+    {
+      "album": {
+        "name": "VIBE COP",
+        "url": "https://open.spotify.com/album/3xsEDdXxK10DCUE4z4p1DF"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173012,
+      "name": "VIBE COP",
+      "url": "https://open.spotify.com/track/10XUaxmDM4GZiCwjOPw47I"
     },
     {
       "album": {
@@ -11716,7 +11806,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 273696,
       "name": "Wrath",
       "url": "https://open.spotify.com/track/2v2S3rEa4kBh96NCEtv02m"

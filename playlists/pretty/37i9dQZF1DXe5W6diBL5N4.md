@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: izna\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,225 likes - 110 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,237 likes - 110 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 109 | [SHE'S GONE](https://open.spotify.com/track/3jwtJ4Ig7Rn14OmBSLnpg3) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [SHE'S GONE](https://open.spotify.com/album/2isRDIzErsgbDk0bGqklj5) | 2:57 |
 | 110 | [DUMB](https://open.spotify.com/track/5jqnpaGBgHNMTNIO6wZZzz) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [DUMB](https://open.spotify.com/album/6QYmZNsB8JEqHybg99YYfM) | 2:09 |
 
-Snapshot ID: `AAAAAJGKsbC+qUAVcJfxHnBuJ+C3srFP`
+Snapshot ID: `AAAAAIwyipSTfchmR1XZ2nJwrBA3j0fM`

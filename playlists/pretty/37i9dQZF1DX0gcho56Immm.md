@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: NEW YORK
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,147 likes - 155 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,247 likes - 155 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

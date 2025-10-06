@@ -1,6 +1,6 @@
 {
   "description": "It's just us.",
-  "num_followers": 1142018,
+  "num_followers": 1142060,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -75,18 +75,18 @@
     {
       "added_at": "2025-02-14 15:17:16",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
       },
       "artists": [
         {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 157485,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
+      "duration_ms": 267653,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
     },
     {
       "added_at": "2025-02-14 15:17:16",
@@ -123,18 +123,18 @@
     {
       "added_at": "2025-02-14 15:17:16",
       "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
       },
       "artists": [
         {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
         }
       ],
-      "duration_ms": 267653,
-      "name": "The Only Exception",
-      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
     },
     {
       "added_at": "2025-02-14 15:17:16",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-02-14 15:17:16",
       "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/4JqtQJR0R6xSJqlmGH31X3"
-      },
-      "artists": [
-        {
-          "name": "The Hunna",
-          "url": "https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG"
-        }
-      ],
-      "duration_ms": 183760,
-      "name": "She's Casual",
-      "url": "https://open.spotify.com/track/3WLwkFXJpZ1VpDxAh0DXzz"
-    },
-    {
-      "added_at": "2025-02-14 15:17:16",
-      "album": {
         "name": "Social Cues",
         "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 240546,
       "name": "Love's The Only Way",
       "url": "https://open.spotify.com/track/7eIODQbTgKeNawQtowZJEM"
+    },
+    {
+      "added_at": "2025-02-14 15:17:16",
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/4JqtQJR0R6xSJqlmGH31X3"
+      },
+      "artists": [
+        {
+          "name": "The Hunna",
+          "url": "https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG"
+        }
+      ],
+      "duration_ms": 183760,
+      "name": "She's Casual",
+      "url": "https://open.spotify.com/track/3WLwkFXJpZ1VpDxAh0DXzz"
     },
     {
       "added_at": "2025-02-14 15:17:16",
@@ -1411,6 +1411,38 @@
     {
       "added_at": "2025-02-14 15:17:16",
       "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/1dKh4z5Aayt8FFDWjO5FDh"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "Seasons (Waiting On You)",
+      "url": "https://open.spotify.com/track/41X9To0bQ4fpoSRri4NHiI"
+    },
+    {
+      "added_at": "2025-02-14 15:17:16",
+      "album": {
+        "name": "Sadnecessary",
+        "url": "https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Flashed Junk Mind",
+      "url": "https://open.spotify.com/track/5mpLcXEsk3jjzLFGuNKk5I"
+    },
+    {
+      "added_at": "2025-02-14 15:17:16",
+      "album": {
         "name": "Songs for Dads",
         "url": "https://open.spotify.com/album/3MFTbUnA8C9T6KCBb0gpH5"
       },
@@ -1443,34 +1475,18 @@
     {
       "added_at": "2025-02-14 15:17:16",
       "album": {
-        "name": "Sadnecessary",
-        "url": "https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb"
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
       },
       "artists": [
         {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 262000,
-      "name": "Flashed Junk Mind",
-      "url": "https://open.spotify.com/track/5mpLcXEsk3jjzLFGuNKk5I"
-    },
-    {
-      "added_at": "2025-02-14 15:17:16",
-      "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/1dKh4z5Aayt8FFDWjO5FDh"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "Seasons (Waiting On You)",
-      "url": "https://open.spotify.com/track/41X9To0bQ4fpoSRri4NHiI"
+      "duration_ms": 336613,
+      "name": "Holocene",
+      "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
     },
     {
       "added_at": "2025-02-14 15:17:16",
@@ -1487,22 +1503,6 @@
       "duration_ms": 265613,
       "name": "This Modern Love",
       "url": "https://open.spotify.com/track/5jFMzYXf0IIApEJBCAoaaL"
-    },
-    {
-      "added_at": "2025-02-14 15:17:16",
-      "album": {
-        "name": "Bon Iver",
-        "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 336613,
-      "name": "Holocene",
-      "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
     },
     {
       "added_at": "2025-02-14 15:17:16",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-02-14 15:17:16",
       "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7"
-      },
-      "artists": [
-        {
-          "name": "Chairlift",
-          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
-        }
-      ],
-      "duration_ms": 207306,
-      "name": "I Belong in Your Arms",
-      "url": "https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9"
-    },
-    {
-      "added_at": "2025-02-14 15:17:16",
-      "album": {
         "name": "Shake! Shake! Shake!",
         "url": "https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 163236,
       "name": "Shake, Shake, Shake",
       "url": "https://open.spotify.com/track/4dI4oscajpdtjpg2dP1x28"
+    },
+    {
+      "added_at": "2025-02-14 15:17:16",
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7"
+      },
+      "artists": [
+        {
+          "name": "Chairlift",
+          "url": "https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp"
+        }
+      ],
+      "duration_ms": 207306,
+      "name": "I Belong in Your Arms",
+      "url": "https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9"
     },
     {
       "added_at": "2025-02-14 15:17:16",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2025-02-14 15:17:16",
       "album": {
-        "name": "Gooey",
-        "url": "https://open.spotify.com/album/6DpPctloXGrodIm8fZg7hn"
+        "name": "You Are All I See",
+        "url": "https://open.spotify.com/album/0naMIQoMmwqmpXiO7qFqCX"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "Active Child",
+          "url": "https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU"
         }
       ],
-      "duration_ms": 289306,
-      "name": "Gooey",
-      "url": "https://open.spotify.com/track/1oSuscBj84xVHVhFZOnMXF"
+      "duration_ms": 321453,
+      "name": "Hanging On",
+      "url": "https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob"
     }
   ],
   "unique_name": "You & Me",

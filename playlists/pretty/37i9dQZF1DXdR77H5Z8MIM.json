@@ -1,6 +1,6 @@
 {
   "description": "Time to press play on these jaem jams from 2010 onwards! Cover: SEVENTEEN",
-  "num_followers": 378279,
+  "num_followers": 378328,
   "original_name": "Nolja!",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2025-09-08 07:41:18",
       "album": {
+        "name": "MAP OF THE SOUL : 7",
+        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 246380,
+      "name": "ON",
+      "url": "https://open.spotify.com/track/0fZRNhPJ4AGmwY7rkpdbqK"
+    },
+    {
+      "added_at": "2025-09-08 07:41:18",
+      "album": {
         "name": "HOT",
         "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2025-09-08 07:41:18",
       "album": {
-        "name": "MAP OF THE SOUL : 7",
-        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
+        "name": "ME",
+        "url": "https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
         }
       ],
-      "duration_ms": 246380,
-      "name": "ON",
-      "url": "https://open.spotify.com/track/0fZRNhPJ4AGmwY7rkpdbqK"
+      "duration_ms": 174216,
+      "name": "FLOWER",
+      "url": "https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc"
     },
     {
       "added_at": "2025-09-08 07:41:18",
@@ -931,22 +947,6 @@
       "duration_ms": 171427,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU"
-    },
-    {
-      "added_at": "2025-09-08 07:41:18",
-      "album": {
-        "name": "ME",
-        "url": "https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql"
-      },
-      "artists": [
-        {
-          "name": "JISOO",
-          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
-        }
-      ],
-      "duration_ms": 174216,
-      "name": "FLOWER",
-      "url": "https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc"
     },
     {
       "added_at": "2025-09-08 07:41:18",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-09-08 07:41:18",
       "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/2gNPnKP1PDkB5SZz3IMKuX"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 192765,
-      "name": "Lovesick Girls",
-      "url": "https://open.spotify.com/track/1GMufNnkKAnPLnqKJ5HHxW"
-    },
-    {
-      "added_at": "2025-09-08 07:41:18",
-      "album": {
         "name": "Stay Alive (Prod. SUGA of BTS)",
         "url": "https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 210928,
       "name": "Stay Alive (Prod. SUGA of BTS)",
       "url": "https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep"
+    },
+    {
+      "added_at": "2025-09-08 07:41:18",
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/2gNPnKP1PDkB5SZz3IMKuX"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 192765,
+      "name": "Lovesick Girls",
+      "url": "https://open.spotify.com/track/1GMufNnkKAnPLnqKJ5HHxW"
     },
     {
       "added_at": "2025-09-08 07:41:18",

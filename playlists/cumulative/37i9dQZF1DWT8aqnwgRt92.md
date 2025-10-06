@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,194 songs - 5 day 16 hr 1 min
+2,196 songs - 5 day 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -859,7 +859,7 @@
 | [Quiet explosion](https://open.spotify.com/track/221x9VoSuIZLz05MfJ9hVT) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [Quiet explosion](https://open.spotify.com/album/3d4pqoNGR66q2B2A0DJaL9) | 3:26 | 2023-04-11 | 2023-04-27 |
 | [Quiet explosion](https://open.spotify.com/track/3ytGc8DrY5fvPYJpkGfB0W) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [Quiet explosion](https://open.spotify.com/album/3XAEoNI4FLn9PKW6S6pfGA) | 3:26 | 2023-04-25 | 2023-07-05 |
 | [R.I.P.](https://open.spotify.com/track/4d4RL0VuwSA1JfRRXD9tXt) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [R.I.P.](https://open.spotify.com/album/4d5W6sksMk3FHYYmdd4u0E) | 3:22 | 2023-10-07 | 2024-01-10 |
-| [R.P.G](https://open.spotify.com/track/0CCGeM3JB53vjyMHGnWkQ5) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [R.P.G](https://open.spotify.com/album/0OFWIM0ixkv0tCsdqKF4Xf) | 3:48 | 2025-09-16 |  |
+| [R.P.G](https://open.spotify.com/track/0CCGeM3JB53vjyMHGnWkQ5) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [R.P.G](https://open.spotify.com/album/0OFWIM0ixkv0tCsdqKF4Xf) | 3:48 | 2025-09-16 | 2025-10-06 |
 | [Rabbits Kingdom \-Versus\-](https://open.spotify.com/track/3inaS1ESs7Cm7AyndScx4x) | [Six Gravity/師走 駆\(CV:梶 裕貴\)、睦月 始\(CV:鳥海浩輔\)、如月 恋\(CV:増田俊樹\)、弥生 春\(CV:前野智昭\)、卯月 新\(Singer:koyomi from 桜men\)、皐月 葵\(CV:KENN\)](https://open.spotify.com/artist/0luzsTiTEbEG9bi8MG8ijN), [Procellarum/水無月 涙\(CV:蒼井翔太\)、文月 海\(CV:羽多野 渉\)、葉月 陽\(CV:柿原徹也\)、長月 夜\(CV:近藤 隆\)、神無月 郁\(CV:小野賢章\)、霜月 隼\(CV:木村良平\)](https://open.spotify.com/artist/5cwfh8pJ5aTes47EU2Mc67) | [「ツキウタ。」劇場版 RABBITS KINGDOM THE MOVIE主題歌「Rabbits Kingdom \-Versus\-」](https://open.spotify.com/album/6tV93YClk9enXSoJfo558o) | 6:50 | 2024-06-25 | 2024-07-03 |
 | [Radice](https://open.spotify.com/track/4893FsQYudPBJAZYdlOECk) | [Wolpis Carter](https://open.spotify.com/artist/5gBtcJIa6ZLJB1HUwfik4J) | [Radice](https://open.spotify.com/album/2CAphCAzJw3gMJIUMROYrS) | 3:40 | 2023-05-23 | 2023-07-12 |
 | [Raise](https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [for you](https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9) | 3:34 | 2023-08-08 | 2024-01-10 |
@@ -1009,6 +1009,7 @@
 | [Stand by Me](https://open.spotify.com/track/0OoQhyGwEwOGKk96J6nJ3R) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Stand by Me](https://open.spotify.com/album/4yMFghtnK1xFARGmPw3qfs) | 3:28 | 2023-01-10 | 2023-03-08 |
 | [Star Parade](https://open.spotify.com/track/3HJ4LKYkpkwChkLicMLu4M) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [PROTOSTAR](https://open.spotify.com/artist/0ORPjKIVWn5h1T52foPAN1) | [Star Parade](https://open.spotify.com/album/1S6Hu4rVelpdgfAJfbevZF) | 3:35 | 2025-01-11 | 2025-04-16 |
 | [Stardust Memory](https://open.spotify.com/track/2Cmm1iDA7AbfLR1UF6ulR9) | [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [Stardust Memory](https://open.spotify.com/album/69GGDQfXCATix3I6s7bNYo) | 3:21 | 2024-04-02 | 2024-07-06 |
+| [Stare In Wonder](https://open.spotify.com/track/2STK9x4KfYyeC82zsdJ2WM) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Stare In Wonder](https://open.spotify.com/album/34Y0UOwoUZNrGlafpg7d4D) | 3:17 | 2025-10-05 |  |
 | [Starry Garden](https://open.spotify.com/track/7nHvVlz4A5aO8hSLLWJrHk) | [Nanaka Suwa](https://open.spotify.com/artist/2Rpn2JNSFaoyhgEj3H9dVO) | [Starry Garden](https://open.spotify.com/album/4f9OsZlfycCAYBVXY2FCog) | 4:02 | 2023-05-09 | 2023-06-14 |
 | [Starry\-eyed Chronicle](https://open.spotify.com/track/5KQ2PPh2ZY6WRMBur4Uvk7) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Starry\-eyed Chronicle](https://open.spotify.com/album/5Pxpgyy9CDEw3zwNwmQxRo) | 4:01 | 2022-07-28 | 2022-10-07 |
 | [STARS](https://open.spotify.com/track/0mMikRupn84z6woeMHccz1) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [STARS](https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x) | 3:33 | 2023-07-09 | 2023-10-06 |
@@ -1964,7 +1965,7 @@
 | [最後の巨人](https://open.spotify.com/track/4jCia2ud7CJjNDaNtArZkC) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [最後の巨人](https://open.spotify.com/album/7dFRuFp1pwBCvewDyDiSRK) | 4:00 | 2023-11-05 | 2023-11-07 |
 | [最果て](https://open.spotify.com/track/0GiepUHAIfTH1WzpHqtVXT) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [最果て](https://open.spotify.com/album/6JffqDdgFVwPOjHmLte6kC) | 3:00 | 2022-10-18 | 2023-01-13 |
 | [最高到達点](https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最高到達点](https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN) | 3:47 | 2023-09-16 | 2024-01-19 |
-| [月と私のかくれんぼ](https://open.spotify.com/track/4YA60SxvRK6Pmjw0CelABs) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [月と私のかくれんぼ](https://open.spotify.com/album/2m5P7dfPDOQWQ6g9XY2zg7) | 3:53 | 2025-06-28 |  |
+| [月と私のかくれんぼ](https://open.spotify.com/track/4YA60SxvRK6Pmjw0CelABs) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [月と私のかくれんぼ](https://open.spotify.com/album/2m5P7dfPDOQWQ6g9XY2zg7) | 3:53 | 2025-06-28 | 2025-10-06 |
 | [月に願う](https://open.spotify.com/track/70fkoVXkPUtJXFjjFWlX7c) | [sorato](https://open.spotify.com/artist/5PJX4HycJJooJ50iJduQH5) | [月に願う](https://open.spotify.com/album/7AxVbYRfuXJQ6zV1wWDZym) | 2:38 | 2025-04-10 | 2025-07-07 |
 | [月の花](https://open.spotify.com/track/2ReyEk3kylmJ0YDC06xYp4) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [美少女戦士セーラームーンCosmos](https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe) | [月の花](https://open.spotify.com/album/2aY1P1qCT5zhsMaGDUKzwR) | 4:01 | 2023-05-25 | 2023-07-21 |
 | [月へ行こう](https://open.spotify.com/track/21JQaUURrZvW2SutiOtX1Y) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [月へ行こう](https://open.spotify.com/album/4WDo7ma5e2z6bqjcbQkz2w) | 3:18 | 2024-03-07 | 2024-04-17 |
@@ -2013,6 +2014,7 @@
 | [淋しい熱帯魚](https://open.spotify.com/track/1oNBmN9FfWYE94BRiIGeBM) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [淋しい熱帯魚](https://open.spotify.com/album/1hyaup1uQPsURjo4Eja3Lj) | 4:26 | 2023-05-09 | 2023-07-05 |
 | [淡く微か](https://open.spotify.com/track/2OUnNkuS59ssxA7eS3bBaA) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [淡く微か](https://open.spotify.com/album/1qS1QPOmFqm9goorWoVSuz) | 3:17 | 2024-10-17 | 2025-01-08 |
 | [火星人](https://open.spotify.com/track/5RKDnMLQdvkk4OLxF0uBj6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [火星人](https://open.spotify.com/album/7prOrULE1LsLR9aCjLVZQj) | 3:54 | 2025-05-08 | 2025-07-11 |
+| [灯を護る](https://open.spotify.com/track/0tu73VStd4PNxbF37Y6YSD) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [灯を護る](https://open.spotify.com/album/5kh25KxBQdiqOPOr05rxM3) | 3:33 | 2025-10-05 |  |
 | [灯火](https://open.spotify.com/track/52yZji1fkuUScDNuezg2G0) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [灯火](https://open.spotify.com/album/3uz7kZnobQe7o7KEStivTg) | 3:30 | 2025-07-15 |  |
 | [灯火](https://open.spotify.com/track/3lcBFczHT6GgHtCTIcO4h6) | [Half time Old](https://open.spotify.com/artist/1zpGAwgdCoZw9CP4QlWq9l) | [灯火](https://open.spotify.com/album/2nlvi70ynicKcQZlVjNwOC) | 4:19 | 2023-07-11 | 2023-08-02 |
 | [灰ト祈リ](https://open.spotify.com/track/2YDcTSeBYrfKwHt1ABMVYH) | [GEMS COMPANY](https://open.spotify.com/artist/6XnWrx5hdp7NtFzHQ1SbZ9) | [灰ト祈リ](https://open.spotify.com/album/24iWQBAAvREhJeSxw07mox) | 4:37 | 2024-07-05 | 2024-10-04 |

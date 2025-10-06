@@ -1,6 +1,6 @@
 {
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
-  "num_followers": 2181234,
+  "num_followers": 2180968,
   "original_name": "Acoustic Chill",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "A Sailor's Guide to Earth",
-        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 212586,
-      "name": "Breakers Roar",
-      "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Forever Young (From NBC's Parenthood)",
         "url": "https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 261370,
       "name": "Forever Young - From NBC's Parenthood",
       "url": "https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "A Sailor's Guide to Earth",
+        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "Breakers Roar",
+      "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Living Room Worktapes",
+        "url": "https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 243898,
+      "name": "Where You Are - Acoustic",
+      "url": "https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "What A Relief",
         "url": "https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 182110,
       "name": "As Good As It Gets",
       "url": "https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Living Room Worktapes",
-        "url": "https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 243898,
-      "name": "Where You Are - Acoustic",
-      "url": "https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -923,18 +923,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "The Stray Birds",
-        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
+        "name": "I Know You Know Me (With Matt Berninger)",
+        "url": "https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW"
       },
       "artists": [
         {
-          "name": "The Stray Birds",
-          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        },
+        {
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
         }
       ],
-      "duration_ms": 212026,
-      "name": "Dream in Blue",
-      "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
+      "duration_ms": 199123,
+      "name": "I Know You Know Me (With Matt Berninger)",
+      "url": "https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -955,22 +959,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "I Know You Know Me (With Matt Berninger)",
-        "url": "https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW"
+        "name": "The Stray Birds",
+        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
       },
       "artists": [
         {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        },
-        {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+          "name": "The Stray Birds",
+          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
         }
       ],
-      "duration_ms": 199123,
-      "name": "I Know You Know Me (With Matt Berninger)",
-      "url": "https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc"
+      "duration_ms": 212026,
+      "name": "Dream in Blue",
+      "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Those Nights",
-        "url": "https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz"
-      },
-      "artists": [
-        {
-          "name": "Carla Rego",
-          "url": "https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk"
-        }
-      ],
-      "duration_ms": 153979,
-      "name": "Those Nights",
-      "url": "https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "German Cars",
         "url": "https://open.spotify.com/album/319NY8ddHWxtHWaYzbPdjT"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 201453,
       "name": "German Cars",
       "url": "https://open.spotify.com/track/4yPEdX4KdqujBwQWlzhBMu"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Those Nights",
+        "url": "https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz"
+      },
+      "artists": [
+        {
+          "name": "Carla Rego",
+          "url": "https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk"
+        }
+      ],
+      "duration_ms": 153979,
+      "name": "Those Nights",
+      "url": "https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Neon",
-        "url": "https://open.spotify.com/album/0vOvZxXtpGfj8lguolWtcZ"
-      },
-      "artists": [
-        {
-          "name": "Sam Moss",
-          "url": "https://open.spotify.com/artist/1l5DL2eLjMMvgwKX5Ysw9j"
-        }
-      ],
-      "duration_ms": 151172,
-      "name": "Rust",
-      "url": "https://open.spotify.com/track/4Ob6C4hbiVGVAmP0nP1i4U"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "A song I wrote after therapy",
         "url": "https://open.spotify.com/album/3wUQjO7pxLrxUejTLff8kG"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 185043,
       "name": "A song I wrote after therapy",
       "url": "https://open.spotify.com/track/3325MwcQJr4OL7Wq9D9TS9"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Neon",
+        "url": "https://open.spotify.com/album/0vOvZxXtpGfj8lguolWtcZ"
+      },
+      "artists": [
+        {
+          "name": "Sam Moss",
+          "url": "https://open.spotify.com/artist/1l5DL2eLjMMvgwKX5Ysw9j"
+        }
+      ],
+      "duration_ms": 151172,
+      "name": "Rust",
+      "url": "https://open.spotify.com/track/4Ob6C4hbiVGVAmP0nP1i4U"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1767,26 +1767,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "I Hope It Takes You Higher (Acoustic)",
-        "url": "https://open.spotify.com/album/6NmGBBMgSEzqXprwqAIGad"
-      },
-      "artists": [
-        {
-          "name": "Toulouse",
-          "url": "https://open.spotify.com/artist/4Vy0AbsAmU5l3ZWOxhilzr"
-        },
-        {
-          "name": "iRO",
-          "url": "https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF"
-        }
-      ],
-      "duration_ms": 220864,
-      "name": "I Hope It Takes You Higher - Acoustic",
-      "url": "https://open.spotify.com/track/71aHrUacV9bMtm1qCqJuwZ"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Manly Man",
         "url": "https://open.spotify.com/album/79topiJ4Bj0SRE5XiBkpuH"
       },
@@ -1803,6 +1783,26 @@
       "duration_ms": 210963,
       "name": "Manly Man",
       "url": "https://open.spotify.com/track/3W8tRjkiC0TQZuUq0wA5zI"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "I Hope It Takes You Higher (Acoustic)",
+        "url": "https://open.spotify.com/album/6NmGBBMgSEzqXprwqAIGad"
+      },
+      "artists": [
+        {
+          "name": "Toulouse",
+          "url": "https://open.spotify.com/artist/4Vy0AbsAmU5l3ZWOxhilzr"
+        },
+        {
+          "name": "iRO",
+          "url": "https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF"
+        }
+      ],
+      "duration_ms": 220864,
+      "name": "I Hope It Takes You Higher - Acoustic",
+      "url": "https://open.spotify.com/track/71aHrUacV9bMtm1qCqJuwZ"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1887,18 +1887,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Matin\u00e9e",
-        "url": "https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl"
+        "name": "Waysides",
+        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
       },
       "artists": [
         {
-          "name": "Canyon City",
-          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
         }
       ],
-      "duration_ms": 252640,
-      "name": "So Are We",
-      "url": "https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U"
+      "duration_ms": 226258,
+      "name": "The Solitude",
+      "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1923,18 +1923,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Waysides",
-        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
+        "name": "Matin\u00e9e",
+        "url": "https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl"
       },
       "artists": [
         {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
         }
       ],
-      "duration_ms": 226258,
-      "name": "The Solitude",
-      "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
+      "duration_ms": 252640,
+      "name": "So Are We",
+      "url": "https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1987,26 +1987,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "I'll Keep You",
-        "url": "https://open.spotify.com/album/27XjdLrwcrDDrlBmVHook8"
-      },
-      "artists": [
-        {
-          "name": "Robby Hecht",
-          "url": "https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk"
-        },
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 157174,
-      "name": "I'll Keep You",
-      "url": "https://open.spotify.com/track/753h0atsE418iQyz7Jbtci"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Luck Mansion Sessions",
         "url": "https://open.spotify.com/album/72sVXC5BzvjO9WFaebpK1c"
       },
@@ -2039,6 +2019,26 @@
       "duration_ms": 210614,
       "name": "In Time",
       "url": "https://open.spotify.com/track/5EAtZRQPWrt2OtkJjMdLH2"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "I'll Keep You",
+        "url": "https://open.spotify.com/album/27XjdLrwcrDDrlBmVHook8"
+      },
+      "artists": [
+        {
+          "name": "Robby Hecht",
+          "url": "https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk"
+        },
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 157174,
+      "name": "I'll Keep You",
+      "url": "https://open.spotify.com/track/753h0atsE418iQyz7Jbtci"
     },
     {
       "added_at": "2024-11-08 05:00:00",

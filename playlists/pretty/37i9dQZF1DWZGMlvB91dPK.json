@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2024.",
-  "num_followers": 3338,
+  "num_followers": 3340,
   "original_name": "BISE Festival 2024",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
+        "name": "ACID",
+        "url": "https://open.spotify.com/album/5DUBanco1qA9ksFdBVe5LZ"
+      },
+      "artists": [
+        {
+          "name": "Hyper Jacuzzi",
+          "url": "https://open.spotify.com/artist/5RkOL12PMfc3CDRY6JElZ1"
+        }
+      ],
+      "duration_ms": 258560,
+      "name": "ACID",
+      "url": "https://open.spotify.com/track/552GDaca9nwW4RuN2CsZZt"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
         "name": "Nouveau Genre",
         "url": "https://open.spotify.com/album/3eVXioK104LwXkXlXfpZ9M"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 194106,
       "name": "BRAT",
       "url": "https://open.spotify.com/track/4JpDToTM1LqoSreM99SRPb"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
-        "name": "ACID",
-        "url": "https://open.spotify.com/album/5DUBanco1qA9ksFdBVe5LZ"
-      },
-      "artists": [
-        {
-          "name": "Hyper Jacuzzi",
-          "url": "https://open.spotify.com/artist/5RkOL12PMfc3CDRY6JElZ1"
-        }
-      ],
-      "duration_ms": 258560,
-      "name": "ACID",
-      "url": "https://open.spotify.com/track/552GDaca9nwW4RuN2CsZZt"
     },
     {
       "added_at": "2024-01-15 17:31:32",

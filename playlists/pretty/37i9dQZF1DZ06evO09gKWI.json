@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAAD5Oi4thkR+VhSrEUxYwe2H",
+  "snapshot_id": "aOBjgAAAAABfO8691N0aCcy9e7YDLGDy",
   "tracks": [
     {
       "added_at": null,
@@ -520,13 +520,21 @@
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         },
         {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        },
+        {
+          "name": "Douglas Moda",
+          "url": "https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK"
         }
       ],
-      "duration_ms": 204302,
-      "name": "Eu & Tu!",
-      "url": "https://open.spotify.com/track/1ymfNLLUGtND2AEe2K0TjF"
+      "duration_ms": 137450,
+      "name": "Raspa Placa",
+      "url": "https://open.spotify.com/track/67vSSq4PsZZksXIWROcghR"
     },
     {
       "added_at": null,
@@ -538,11 +546,15 @@
         {
           "name": "Bivolt",
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "X\u00eania Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Me Salva",
-      "url": "https://open.spotify.com/track/52zfI6y5NF7mnxu7wg9gmv"
+      "duration_ms": 221176,
+      "name": "Nome e Sobrenome",
+      "url": "https://open.spotify.com/track/4PYHWK4Z301z9jPFwojK5Z"
     },
     {
       "added_at": null,
@@ -600,21 +612,13 @@
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         },
         {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        },
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        },
-        {
-          "name": "Douglas Moda",
-          "url": "https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK"
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 137450,
-      "name": "Raspa Placa",
-      "url": "https://open.spotify.com/track/67vSSq4PsZZksXIWROcghR"
+      "duration_ms": 204302,
+      "name": "Eu & Tu!",
+      "url": "https://open.spotify.com/track/1ymfNLLUGtND2AEe2K0TjF"
     },
     {
       "added_at": null,
@@ -626,15 +630,11 @@
         {
           "name": "Bivolt",
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "X\u00eania Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
         }
       ],
-      "duration_ms": 221176,
-      "name": "Nome e Sobrenome",
-      "url": "https://open.spotify.com/track/4PYHWK4Z301z9jPFwojK5Z"
+      "duration_ms": 206000,
+      "name": "Me Salva",
+      "url": "https://open.spotify.com/track/52zfI6y5NF7mnxu7wg9gmv"
     },
     {
       "added_at": null,
@@ -687,46 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Senta Aqui",
-        "url": "https://open.spotify.com/album/1dBu2lZSOD078KkRc6XLqQ"
-      },
-      "artists": [
-        {
-          "name": "Devasto Prod",
-          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
-        },
-        {
-          "name": "Junior Lord",
-          "url": "https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Senta Aqui",
-      "url": "https://open.spotify.com/track/4oRfkAIaLWCpdGnbPAywPE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bivolt",
-        "url": "https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 184421,
-      "name": "Sigilo",
-      "url": "https://open.spotify.com/track/21WPLgQ590lqTXSbY3ngK3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L\u00e1 na Quebrada",
         "url": "https://open.spotify.com/album/3963cMjeQJL3N278ax8twb"
       },
@@ -763,6 +723,46 @@
       "duration_ms": 360000,
       "name": "L\u00e1 na Quebrada",
       "url": "https://open.spotify.com/track/30rKkDORVEkgrUTPKMoqfK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bivolt",
+        "url": "https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 184421,
+      "name": "Sigilo",
+      "url": "https://open.spotify.com/track/21WPLgQ590lqTXSbY3ngK3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Senta Aqui",
+        "url": "https://open.spotify.com/album/1dBu2lZSOD078KkRc6XLqQ"
+      },
+      "artists": [
+        {
+          "name": "Devasto Prod",
+          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
+        },
+        {
+          "name": "Junior Lord",
+          "url": "https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Senta Aqui",
+      "url": "https://open.spotify.com/track/4oRfkAIaLWCpdGnbPAywPE"
     },
     {
       "added_at": null,
@@ -1011,6 +1011,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bivolt no Est\u00fadio Showlivre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/54Hy0G86AMIiRvEd9KsP65"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Showlivre",
+          "url": "https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U"
+        }
+      ],
+      "duration_ms": 300153,
+      "name": "Olhos Negros - Ao Vivo",
+      "url": "https://open.spotify.com/track/2EjqZpbPUrVgY1oGqfw0WA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Homenagem de Mar\u00e7o",
         "url": "https://open.spotify.com/album/6dpuGkFrhMtDdW0vpUkGXk"
       },
@@ -1043,26 +1063,6 @@
       "duration_ms": 352801,
       "name": "Homenagem de Mar\u00e7o",
       "url": "https://open.spotify.com/track/1Ixhp33HDysxaryYlftDpr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bivolt no Est\u00fadio Showlivre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/54Hy0G86AMIiRvEd9KsP65"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Showlivre",
-          "url": "https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U"
-        }
-      ],
-      "duration_ms": 300153,
-      "name": "Olhos Negros - Ao Vivo",
-      "url": "https://open.spotify.com/track/2EjqZpbPUrVgY1oGqfw0WA"
     },
     {
       "added_at": null,
@@ -1135,54 +1135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ela Joga",
-        "url": "https://open.spotify.com/album/5AvbEHe8F554m3drljPLrK"
-      },
-      "artists": [
-        {
-          "name": "Carolzinha",
-          "url": "https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN"
-        },
-        {
-          "name": "Carol & Vitoria",
-          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Nith",
-          "url": "https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb"
-        }
-      ],
-      "duration_ms": 164809,
-      "name": "Ela Joga",
-      "url": "https://open.spotify.com/track/4jCo34kC8FqJrpmgpNAJIY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nem Tudo \u00c9 Close",
-        "url": "https://open.spotify.com/album/46qrn7z8GbX8nuIZr5HQPV"
-      },
-      "artists": [
-        {
-          "name": "Boombeat",
-          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 242341,
-      "name": "Rela\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/37Caje6ogUIS4u9Jmn1j2F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Topo",
         "url": "https://open.spotify.com/album/1orHc2D0k8TKzRIyCSnFXl"
       },
@@ -1227,6 +1179,34 @@
       "duration_ms": 366857,
       "name": "No Topo",
       "url": "https://open.spotify.com/track/5gNR7OHe5ZAShqYItuYPmr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ela Joga",
+        "url": "https://open.spotify.com/album/5AvbEHe8F554m3drljPLrK"
+      },
+      "artists": [
+        {
+          "name": "Carolzinha",
+          "url": "https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN"
+        },
+        {
+          "name": "Carol & Vitoria",
+          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Nith",
+          "url": "https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb"
+        }
+      ],
+      "duration_ms": 164809,
+      "name": "Ela Joga",
+      "url": "https://open.spotify.com/track/4jCo34kC8FqJrpmgpNAJIY"
     },
     {
       "added_at": null,
@@ -1283,6 +1263,26 @@
       "duration_ms": 185884,
       "name": "Imaginei",
       "url": "https://open.spotify.com/track/2JKAtEvUOHmtfEjgSbVRAL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nem Tudo \u00c9 Close",
+        "url": "https://open.spotify.com/album/46qrn7z8GbX8nuIZr5HQPV"
+      },
+      "artists": [
+        {
+          "name": "Boombeat",
+          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 242341,
+      "name": "Rela\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/37Caje6ogUIS4u9Jmn1j2F"
     }
   ],
   "unique_name": "This Is Bivolt",

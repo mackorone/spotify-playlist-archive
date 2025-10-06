@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,996 likes - 150 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,003 likes - 150 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 | 149 | [Overlord](https://open.spotify.com/track/0kX0jZQieja8m7twj3LqYp) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Extras Extras](https://open.spotify.com/album/389hJo8QkrYFRDpAfSr2br) | 2:13 |
 | 150 | [chimenea](https://open.spotify.com/track/0gapXTrrUdFXk8707pDVBB) | [lov sum](https://open.spotify.com/artist/33PmLS3NlrdMiDJpXnYNSs), [landlooper](https://open.spotify.com/artist/38qqfsLO3vaDBewodzX1V1) | [chimenea](https://open.spotify.com/album/6Fu7WKoTfwFKNX6dn3UPV4) | 1:54 |
 
-Snapshot ID: `AAAAAExgzZ74ZVFcbtsPyhV6ZyuMeydF`
+Snapshot ID: `AAAAACDG1DwlUXVOlX4CA1ScRaYZBlPd`

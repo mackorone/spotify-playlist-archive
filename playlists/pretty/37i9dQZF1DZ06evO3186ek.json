@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 162275,
+  "num_followers": 162322,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAABykapB/eaZby/CZ5WMHcfY",
+  "snapshot_id": "aOBjgAAAAAAej4ledfapQIuX/D2OWdj5",
   "tracks": [
     {
       "added_at": null,
@@ -423,6 +423,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 732553,
+      "name": "Refiner (feat. Steffany Gretzinger)",
+      "url": "https://open.spotify.com/track/0exdT4GjJ8NmKzyMgenTWa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
@@ -447,30 +471,6 @@
       "duration_ms": 564423,
       "name": "Wait On You (feat. Dante Bowe & Chandler Moore)",
       "url": "https://open.spotify.com/track/2p3qr3HQBgsjeE5rFobSDy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maverick City, Vol. 2",
-        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        }
-      ],
-      "duration_ms": 732553,
-      "name": "Refiner (feat. Steffany Gretzinger)",
-      "url": "https://open.spotify.com/track/0exdT4GjJ8NmKzyMgenTWa"
     },
     {
       "added_at": null,
@@ -531,30 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 509977,
-      "name": "Talking To Jesus (feat. Brandon Lake)",
-      "url": "https://open.spotify.com/track/7q05bMdcSwsJKduP8eiLpZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAVHOUSE",
         "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
       },
@@ -575,6 +551,30 @@
       "duration_ms": 232093,
       "name": "Stand Still",
       "url": "https://open.spotify.com/track/0Wa2ws6YA9IWWLPbyF1jRF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 509977,
+      "name": "Talking To Jesus (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/7q05bMdcSwsJKduP8eiLpZ"
     },
     {
       "added_at": null,
@@ -627,30 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        }
-      ],
-      "duration_ms": 402803,
-      "name": "Old Church Basement (feat. Dante Bowe)",
-      "url": "https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nobody But Jesus (feat. Genavieve Linkowski & Nick Day)",
         "url": "https://open.spotify.com/album/6Iu4zEbRkZYPdAaJoqPrbL"
       },
@@ -675,6 +651,30 @@
       "duration_ms": 202503,
       "name": "Nobody But Jesus (feat. Genavieve Linkowski & Nick Day)",
       "url": "https://open.spotify.com/track/0p3j36w9WbvP9ulX7rbWQS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 402803,
+      "name": "Old Church Basement (feat. Dante Bowe)",
+      "url": "https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx"
     },
     {
       "added_at": null,
@@ -719,30 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        }
-      ],
-      "duration_ms": 515232,
-      "name": "Mercy (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/7pHDixs53icP6n2Yoi5mtD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God Problems (feat. Chandler Moore)",
         "url": "https://open.spotify.com/album/0d3jBzKsUXdynysqmqE07E"
       },
@@ -763,6 +739,30 @@
       "duration_ms": 590857,
       "name": "God Problems (feat. Chandler Moore)",
       "url": "https://open.spotify.com/track/2aIKL1vIMOztwdxlG9hGoD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "duration_ms": 515232,
+      "name": "Mercy (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/7pHDixs53icP6n2Yoi5mtD"
     },
     {
       "added_at": null,
@@ -1075,34 +1075,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kingdom Book One",
-        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 625062,
-      "name": "Fear Is Not My Future (feat. Brandon Lake)",
-      "url": "https://open.spotify.com/track/1AlIF7Ndgztmris8fLgytr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Breathe - EP",
         "url": "https://open.spotify.com/album/32rTBx8WkFOyY400Sr2JWA"
       },
@@ -1131,6 +1103,34 @@
       "duration_ms": 326500,
       "name": "Breathe (feat. Jonathan McReynolds, DOE & Mav City Gospel Choir) - Studio Version",
       "url": "https://open.spotify.com/track/0G20Y1YJ7wD1GqmKXq9JVn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 625062,
+      "name": "Fear Is Not My Future (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/1AlIF7Ndgztmris8fLgytr"
     },
     {
       "added_at": null,
@@ -1175,6 +1175,30 @@
       "duration_ms": 432294,
       "name": "Such an Awesome God (feat. Maryanne J. George)",
       "url": "https://open.spotify.com/track/2bC8nrT3tqqGUXRGUbqimw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/0ByWNVCBtL6Kry8FCJNs07"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "GRAHAM",
+          "url": "https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G"
+        }
+      ],
+      "duration_ms": 150038,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/0c28bKYkEvgSv2ykftbZVT"
     },
     {
       "added_at": null,
@@ -1235,30 +1259,6 @@
       "duration_ms": 168000,
       "name": "Promises (Lofi Remix)",
       "url": "https://open.spotify.com/track/7xyvOFRONKq8LYYQJfShtn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 449446,
-      "name": "Thank You (feat. Steffany Gretzinger & Chandler Moore)",
-      "url": "https://open.spotify.com/track/0tI27jZrVAIKhpT5koEU7V"
     }
   ],
   "unique_name": "This Is Maverick City Music",

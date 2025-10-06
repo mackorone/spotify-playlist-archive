@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 13428,
+  "num_followers": 13431,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAACxx23rvsw9UuQGDg9uPX6M",
+  "snapshot_id": "aOBjgAAAAAChoeD0P0fczSZpL4DiHUuH",
   "tracks": [
     {
       "added_at": null,
@@ -331,22 +331,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "donde van los perros",
-        "url": "https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O"
+        "name": "Aroma A Nostalgia (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3K6S0Mt1ZMrcjuCiOztmBJ"
       },
       "artists": [
         {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+          "name": "Daniel Qui\u00e9n",
+          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
         },
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 136101,
-      "name": "inocencia interrumpida",
-      "url": "https://open.spotify.com/track/0qCyVa5ASsxtkGY9uQtvRB"
+      "duration_ms": 351413,
+      "name": "Otros Colores",
+      "url": "https://open.spotify.com/track/6VbEA6Zk7964dwD2fd2HbD"
     },
     {
       "added_at": null,
@@ -367,22 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aroma A Nostalgia (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3K6S0Mt1ZMrcjuCiOztmBJ"
+        "name": "donde van los perros",
+        "url": "https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O"
       },
       "artists": [
         {
-          "name": "Daniel Qui\u00e9n",
-          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
         },
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 351413,
-      "name": "Otros Colores",
-      "url": "https://open.spotify.com/track/6VbEA6Zk7964dwD2fd2HbD"
+      "duration_ms": 136101,
+      "name": "inocencia interrumpida",
+      "url": "https://open.spotify.com/track/0qCyVa5ASsxtkGY9uQtvRB"
     },
     {
       "added_at": null,
@@ -526,11 +526,15 @@
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
         }
       ],
-      "duration_ms": 229173,
-      "name": "Ya No Es Lo Mismo",
-      "url": "https://open.spotify.com/track/5OvmUAjeo81TsJ3m7Y45JG"
+      "duration_ms": 206040,
+      "name": "\u00bfQu\u00e9 Ser\u00e1 De M\u00ed?",
+      "url": "https://open.spotify.com/track/0LpvtGk7G8MhRB5bczQe8p"
     },
     {
       "added_at": null,
@@ -594,15 +598,11 @@
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
         }
       ],
-      "duration_ms": 206040,
-      "name": "\u00bfQu\u00e9 Ser\u00e1 De M\u00ed?",
-      "url": "https://open.spotify.com/track/0LpvtGk7G8MhRB5bczQe8p"
+      "duration_ms": 229173,
+      "name": "Ya No Es Lo Mismo",
+      "url": "https://open.spotify.com/track/5OvmUAjeo81TsJ3m7Y45JG"
     },
     {
       "added_at": null,

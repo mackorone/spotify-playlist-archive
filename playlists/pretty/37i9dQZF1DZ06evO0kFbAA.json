@@ -1,12 +1,12 @@
 {
   "description": "This is Stan Getz. The essential tracks, all in one playlist.",
-  "num_followers": 52116,
+  "num_followers": 52130,
   "original_name": "This Is Stan Getz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAAAbdVNhNjhLfpw4vCHUXPul",
+  "snapshot_id": "aOBjgAAAAAC8TWOA2H0Pj57YvtY/m3nL",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody Else But Me",
-        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 218746,
-      "name": "Little Girl Blue",
-      "url": "https://open.spotify.com/track/7l1z1abVjOLrhxo1FpfgDI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cool Velvet: Stan Getz And Strings",
         "url": "https://open.spotify.com/album/3dJrIpP3hIbGBgrv2qre4I"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 285333,
       "name": "Early Autumn",
       "url": "https://open.spotify.com/track/22DysDIxio06fLuxT0f6g8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nobody Else But Me",
+        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 218746,
+      "name": "Little Girl Blue",
+      "url": "https://open.spotify.com/track/7l1z1abVjOLrhxo1FpfgDI"
     },
     {
       "added_at": null,
@@ -563,26 +563,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jazz Samba Encore!",
-        "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
+        "name": "Cool Velvet: Stan Getz And Strings",
+        "url": "https://open.spotify.com/album/3dJrIpP3hIbGBgrv2qre4I"
       },
       "artists": [
         {
           "name": "Stan Getz",
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Luiz Bonf\u00e1",
-          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
-        },
-        {
-          "name": "Maria Toledo",
-          "url": "https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi"
         }
       ],
-      "duration_ms": 128160,
-      "name": "Sambalero",
-      "url": "https://open.spotify.com/track/4ENo69KpwpYb1C8UyhruQo"
+      "duration_ms": 246866,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/2qKjC8YrPXUiXB0Dj6onV1"
     },
     {
       "added_at": null,
@@ -607,18 +599,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cool Velvet: Stan Getz And Strings",
-        "url": "https://open.spotify.com/album/3dJrIpP3hIbGBgrv2qre4I"
+        "name": "Jazz Samba Encore!",
+        "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
       },
       "artists": [
         {
           "name": "Stan Getz",
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Luiz Bonf\u00e1",
+          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+        },
+        {
+          "name": "Maria Toledo",
+          "url": "https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi"
         }
       ],
-      "duration_ms": 246866,
-      "name": "It Never Entered My Mind",
-      "url": "https://open.spotify.com/track/2qKjC8YrPXUiXB0Dj6onV1"
+      "duration_ms": 128160,
+      "name": "Sambalero",
+      "url": "https://open.spotify.com/track/4ENo69KpwpYb1C8UyhruQo"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "West Coast Jazz (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 368266,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/52g9vHlua2MBt6PhkZfUrT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stan Getz And The Cool Sounds",
         "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
       },
@@ -711,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "West Coast Jazz (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y"
+        "name": "Stan Getz Plays",
+        "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
       },
       "artists": [
         {
@@ -720,9 +736,9 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 368266,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/52g9vHlua2MBt6PhkZfUrT"
+      "duration_ms": 194173,
+      "name": "'Tis Autumn",
+      "url": "https://open.spotify.com/track/0WdiW7zP35hfIAw6jKxwIS"
     },
     {
       "added_at": null,
@@ -747,24 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stan Getz Plays",
-        "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 194173,
-      "name": "'Tis Autumn",
-      "url": "https://open.spotify.com/track/0WdiW7zP35hfIAw6jKxwIS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stan Getz And Gerry Mulligan/Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4Q0U8YpUSIcQ8cl08SbYkf"
+        "name": "Jazz Samba Encore!",
+        "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
       },
       "artists": [
         {
@@ -772,13 +772,13 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+          "name": "Luiz Bonf\u00e1",
+          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
         }
       ],
-      "duration_ms": 542733,
-      "name": "I Didn't Know What Time It Was",
-      "url": "https://open.spotify.com/track/1ZO96LBkBu7BCO2xF5twWo"
+      "duration_ms": 413466,
+      "name": "O Morro Nao Tem Vez",
+      "url": "https://open.spotify.com/track/1Rs9fhY6wmDNVodvMPhdWN"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jazz Samba Encore!",
-        "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
+        "name": "Stan Getz And Gerry Mulligan/Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4Q0U8YpUSIcQ8cl08SbYkf"
       },
       "artists": [
         {
@@ -808,13 +808,13 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
-          "name": "Luiz Bonf\u00e1",
-          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
         }
       ],
-      "duration_ms": 413466,
-      "name": "O Morro Nao Tem Vez",
-      "url": "https://open.spotify.com/track/1Rs9fhY6wmDNVodvMPhdWN"
+      "duration_ms": 542733,
+      "name": "I Didn't Know What Time It Was",
+      "url": "https://open.spotify.com/track/1ZO96LBkBu7BCO2xF5twWo"
     },
     {
       "added_at": null,

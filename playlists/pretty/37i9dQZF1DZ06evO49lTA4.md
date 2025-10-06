@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 
 > This is Luke Combs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 891,911 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,124 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 | 44 | [Front Door Famous](https://open.spotify.com/track/5Xtm6aizhemUZMdjvLImeK) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:18 |
 | 45 | [Doin' This](https://open.spotify.com/track/6TpyujRefwsflWFXbmjVpj) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 4:14 |
 | 46 | [Beyond \(feat\. Luke Combs\) \- Live](https://open.spotify.com/track/05zt3H2jdG0MA1V6Q2t2Et) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Beyond \(feat\. Luke Combs\) \[Live\]](https://open.spotify.com/album/4hhm2iJ6yhnMnlTaa5hjNo) | 4:06 |
-| 47 | [The Great Divide](https://open.spotify.com/track/3q3lSbfT5BnQlIvGwahgAD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [The Great Divide](https://open.spotify.com/album/1KUJKWXmE95TPXxeJecop9) | 3:31 |
+| 47 | [My Kinda Saturday Night](https://open.spotify.com/track/68BUz8H5H1mHb4o7VrJccb) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Prequel](https://open.spotify.com/album/40xQAz7RDjeznOtTYeEMLs) | 2:45 |
 | 48 | [Huntin' By Yourself](https://open.spotify.com/track/6oSd9gpVPuJEWotPQ54zcU) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:59 |
 | 49 | [Outrunnin' Your Memory](https://open.spotify.com/track/79gv58G6usuURwl6TlmBTu) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 4:14 |
-| 50 | [Beer Can](https://open.spotify.com/track/5k8m3ZCp3AP4TKd2IKzKO8) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 3:30 |
+| 50 | [The Great Divide](https://open.spotify.com/track/3q3lSbfT5BnQlIvGwahgAD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [The Great Divide](https://open.spotify.com/album/1KUJKWXmE95TPXxeJecop9) | 3:31 |
 
-Snapshot ID: `aN8SAAAAAABJ3dFkoTjz22rLKVFGyTt/`
+Snapshot ID: `aOBjgAAAAABKIdPyVpdgrZvhpWEfWL6d`

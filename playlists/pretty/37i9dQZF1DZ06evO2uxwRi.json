@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 42746,
+  "num_followers": 42754,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAAC1nkhGEjovW+aSb7XuVrLN",
+  "snapshot_id": "aOBjgAAAAABhaaPo927fVncGJg0H4Ex5",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resurrection: Ascension",
-        "url": "https://open.spotify.com/album/7cmMT5imIjUt7RGKpIc1uk"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 197225,
-      "name": "Vicious Love (feat. Hayley Williams)",
-      "url": "https://open.spotify.com/track/2y8FLV6pZI3YH1GyiaRp35"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sticks And Stones",
         "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 191160,
       "name": "Understatement",
       "url": "https://open.spotify.com/track/4191ROqtYiS10furYDAv05"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resurrection: Ascension",
+        "url": "https://open.spotify.com/album/7cmMT5imIjUt7RGKpIc1uk"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 197225,
+      "name": "Vicious Love (feat. Hayley Williams)",
+      "url": "https://open.spotify.com/track/2y8FLV6pZI3YH1GyiaRp35"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Found Glory",
-        "url": "https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 208066,
-      "name": "Dressed To Kill",
-      "url": "https://open.spotify.com/track/75JUFOP8s5yiOYcHmJjccP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sticks And Stones",
         "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 226840,
       "name": "Head On Collision",
       "url": "https://open.spotify.com/track/11edIhzFAjPEVbZ92LQKwT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Found Glory",
+        "url": "https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 208066,
+      "name": "Dressed To Kill",
+      "url": "https://open.spotify.com/track/75JUFOP8s5yiOYcHmJjccP"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sticks And Stones",
-        "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
+        "name": "Catalyst",
+        "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 189866,
-      "name": "Forget My Name",
-      "url": "https://open.spotify.com/track/12sw03e7UF7H8gn5Eqt58N"
+      "duration_ms": 231240,
+      "name": "Failure's Not Flattering",
+      "url": "https://open.spotify.com/track/5SCgfgCHD7UnhS7mWemshR"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catalyst",
-        "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 231240,
-      "name": "Failure's Not Flattering",
-      "url": "https://open.spotify.com/track/5SCgfgCHD7UnhS7mWemshR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sticks And Stones",
         "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
       },
@@ -308,9 +292,25 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 207800,
-      "name": "Sonny",
-      "url": "https://open.spotify.com/track/4ZBmAdGxiCJ1V3r9kn9fKS"
+      "duration_ms": 189866,
+      "name": "Forget My Name",
+      "url": "https://open.spotify.com/track/12sw03e7UF7H8gn5Eqt58N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Catalyst",
+        "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 182066,
+      "name": "Truth Of My Youth",
+      "url": "https://open.spotify.com/track/62I2QLmIk1heWZAXo548Ga"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catalyst",
-        "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
+        "name": "Sticks And Stones",
+        "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 182066,
-      "name": "Truth Of My Youth",
-      "url": "https://open.spotify.com/track/62I2QLmIk1heWZAXo548Ga"
+      "duration_ms": 207800,
+      "name": "Sonny",
+      "url": "https://open.spotify.com/track/4ZBmAdGxiCJ1V3r9kn9fKS"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sticks And Stones",
-        "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
+        "name": "Catalyst",
+        "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 160266,
-      "name": "Something I Call Personality",
-      "url": "https://open.spotify.com/track/3hr00EQjDABNtQ1XG0sZIW"
+      "duration_ms": 210040,
+      "name": "At Least I'm Known For Something",
+      "url": "https://open.spotify.com/track/4lFvQm71y6KF1J4M6IkbOv"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catalyst",
-        "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
+        "name": "Sticks And Stones",
+        "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 210040,
-      "name": "At Least I'm Known For Something",
-      "url": "https://open.spotify.com/track/4lFvQm71y6KF1J4M6IkbOv"
+      "duration_ms": 160266,
+      "name": "Something I Call Personality",
+      "url": "https://open.spotify.com/track/3hr00EQjDABNtQ1XG0sZIW"
     },
     {
       "added_at": null,
@@ -447,38 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Screen To Your Stereo",
-        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 183293,
-      "name": "My Heart Will Go On",
-      "url": "https://open.spotify.com/track/1WVtn3yjabxY2016Lv96Ma"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From The Screen To Your Stereo 3",
-        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 204972,
-      "name": "Eye of the Tiger",
-      "url": "https://open.spotify.com/track/7zV1lZsCJZRh26TwAAz8uP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Catalyst",
         "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
       },
@@ -491,6 +459,22 @@
       "duration_ms": 188253,
       "name": "This Disaster",
       "url": "https://open.spotify.com/track/6dJTPWYq8EkGFwUhSgQDIn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Screen To Your Stereo",
+        "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 183293,
+      "name": "My Heart Will Go On",
+      "url": "https://open.spotify.com/track/1WVtn3yjabxY2016Lv96Ma"
     },
     {
       "added_at": null,
@@ -511,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "From The Screen To Your Stereo 3",
+        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 204972,
+      "name": "Eye of the Tiger",
+      "url": "https://open.spotify.com/track/7zV1lZsCJZRh26TwAAz8uP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "From The Screen To Your Stereo, Pt. II",
         "url": "https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp"
       },
@@ -523,22 +523,6 @@
       "duration_ms": 162360,
       "name": "Stay (I Missed You)",
       "url": "https://open.spotify.com/track/14jDhyykJv5yVu84baSjkJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From The Screen To Your Stereo 3",
-        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 178810,
-      "name": "Accidentally in Love",
-      "url": "https://open.spotify.com/track/6dF8V3HeiLd8X2I2BkxhUV"
     },
     {
       "added_at": null,
@@ -571,6 +555,22 @@
       "duration_ms": 168333,
       "name": "Better Off Dead",
       "url": "https://open.spotify.com/track/3D2ZhGxvaweSrZkFqoNblC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Screen To Your Stereo 3",
+        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 178810,
+      "name": "Accidentally in Love",
+      "url": "https://open.spotify.com/track/6dF8V3HeiLd8X2I2BkxhUV"
     },
     {
       "added_at": null,

@@ -343,22 +343,6 @@
     {
       "added_at": "2025-10-02 21:45:45",
       "album": {
-        "name": "Imaginary Playerz",
-        "url": "https://open.spotify.com/album/1DZ4IYnszM0mxdZnQgkv4r"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 207380,
-      "name": "Imaginary Playerz",
-      "url": "https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt"
-    },
-    {
-      "added_at": "2025-10-02 21:45:45",
-      "album": {
         "name": "HOTEL LOBBY (Unc & Phew)",
         "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 142657,
       "name": "HOTEL LOBBY (Unc & Phew)",
       "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
+    },
+    {
+      "added_at": "2025-10-02 21:45:45",
+      "album": {
+        "name": "Imaginary Playerz",
+        "url": "https://open.spotify.com/album/1DZ4IYnszM0mxdZnQgkv4r"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 207380,
+      "name": "Imaginary Playerz",
+      "url": "https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt"
     },
     {
       "added_at": "2025-10-02 21:45:45",
@@ -507,30 +507,6 @@
     {
       "added_at": "2025-10-02 21:45:45",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Tell The Vision (feat. Kanye West & Pusha T)",
-      "url": "https://open.spotify.com/track/2UwALqx6yOsXTFt7zRxnts"
-    },
-    {
-      "added_at": "2025-10-02 21:45:45",
-      "album": {
         "name": "Stop Giving Me Advice",
         "url": "https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv"
       },
@@ -551,6 +527,30 @@
       "duration_ms": 242453,
       "name": "Stop Giving Me Advice (with Jack Harlow & Dave)",
       "url": "https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8"
+    },
+    {
+      "added_at": "2025-10-02 21:45:45",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Tell The Vision (feat. Kanye West & Pusha T)",
+      "url": "https://open.spotify.com/track/2UwALqx6yOsXTFt7zRxnts"
     },
     {
       "added_at": "2025-10-02 21:45:45",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-10-02 21:45:45",
       "album": {
-        "name": "Se7enteen5ive",
-        "url": "https://open.spotify.com/album/3vm08VN8HiSs7rNxePAhit"
-      },
-      "artists": [
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        }
-      ],
-      "duration_ms": 181831,
-      "name": "Se7enteen5ive",
-      "url": "https://open.spotify.com/track/2ZV1uKzSpLxbR9OiyRtkHs"
-    },
-    {
-      "added_at": "2025-10-02 21:45:45",
-      "album": {
         "name": "Head High",
         "url": "https://open.spotify.com/album/65KIgWKpqFbvMmH8QUkdUD"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 180826,
       "name": "Head High",
       "url": "https://open.spotify.com/track/1TUNcLZZImGkNlviSpQp6H"
+    },
+    {
+      "added_at": "2025-10-02 21:45:45",
+      "album": {
+        "name": "Se7enteen5ive",
+        "url": "https://open.spotify.com/album/3vm08VN8HiSs7rNxePAhit"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "duration_ms": 181831,
+      "name": "Se7enteen5ive",
+      "url": "https://open.spotify.com/track/2ZV1uKzSpLxbR9OiyRtkHs"
     },
     {
       "added_at": "2025-10-02 21:45:45",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2025-10-02 21:45:45",
       "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/261LWEVYViMXijB95mAty3"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 267173,
+      "name": "Zipcodes",
+      "url": "https://open.spotify.com/track/2S3PBAzoPAxnmdOtdEuaLW"
+    },
+    {
+      "added_at": "2025-10-02 21:45:45",
+      "album": {
         "name": "Continuance",
         "url": "https://open.spotify.com/album/6nOgR17Z6SkfRQ0ygRogTU"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 177814,
       "name": "YES!",
       "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
-    },
-    {
-      "added_at": "2025-10-02 21:45:45",
-      "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/261LWEVYViMXijB95mAty3"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 267173,
-      "name": "Zipcodes",
-      "url": "https://open.spotify.com/track/2S3PBAzoPAxnmdOtdEuaLW"
     },
     {
       "added_at": "2025-10-02 21:45:45",
@@ -1487,6 +1487,22 @@
       "duration_ms": 282581,
       "name": "Vinyl Days (feat. DJ Premier)",
       "url": "https://open.spotify.com/track/4Red8fs87G5istv5L8S9kU"
+    },
+    {
+      "added_at": "2025-10-02 21:45:45",
+      "album": {
+        "name": "Let It Breathe",
+        "url": "https://open.spotify.com/album/6tZVnffRGdPeTtONlgRVia"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 204106,
+      "name": "Let It Breathe",
+      "url": "https://open.spotify.com/track/0sJgYuySEv6icDbfsrIXYD"
     },
     {
       "added_at": "2025-10-02 21:45:45",
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2025-10-02 21:45:45",
       "album": {
-        "name": "Let It Breathe",
-        "url": "https://open.spotify.com/album/6tZVnffRGdPeTtONlgRVia"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 204106,
-      "name": "Let It Breathe",
-      "url": "https://open.spotify.com/track/0sJgYuySEv6icDbfsrIXYD"
-    },
-    {
-      "added_at": "2025-10-02 21:45:45",
-      "album": {
         "name": "RUN",
         "url": "https://open.spotify.com/album/6zNJxFmILwoDTFYJqhQFIU"
       },
@@ -1627,6 +1627,22 @@
       "duration_ms": 233090,
       "name": "RUN [Feat. Young Thug] - Single Version",
       "url": "https://open.spotify.com/track/4DSS2IhBFgW7MYyjkOOx68"
+    },
+    {
+      "added_at": "2025-10-02 21:45:45",
+      "album": {
+        "name": "Survivors Guilt",
+        "url": "https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 352613,
+      "name": "Survivors Guilt",
+      "url": "https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3"
     },
     {
       "added_at": "2025-10-02 21:45:45",
@@ -1743,22 +1759,6 @@
     {
       "added_at": "2025-10-02 21:45:45",
       "album": {
-        "name": "Survivors Guilt",
-        "url": "https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 352613,
-      "name": "Survivors Guilt",
-      "url": "https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3"
-    },
-    {
-      "added_at": "2025-10-02 21:45:45",
-      "album": {
         "name": "Butterfly Effect (feat. RJ Payne)",
         "url": "https://open.spotify.com/album/7Bo1E59d5xhFdkrwJGUTZ1"
       },
@@ -1775,26 +1775,6 @@
       "duration_ms": 178157,
       "name": "Butterfly Effect (feat. RJ Payne)",
       "url": "https://open.spotify.com/track/7vAd8g2Tkwkj7p88S9ksT9"
-    },
-    {
-      "added_at": "2025-10-02 21:45:45",
-      "album": {
-        "name": "Wise Up",
-        "url": "https://open.spotify.com/album/1IROPd6PTUoA3o9tqTvRiL"
-      },
-      "artists": [
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        },
-        {
-          "name": "Pete Rock",
-          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
-        }
-      ],
-      "duration_ms": 227495,
-      "name": "Wise Up",
-      "url": "https://open.spotify.com/track/4QVS7dlOCQde84utqhwOyY"
     },
     {
       "added_at": "2025-10-02 21:45:45",
@@ -1883,6 +1863,26 @@
     {
       "added_at": "2025-10-02 21:45:45",
       "album": {
+        "name": "Wise Up",
+        "url": "https://open.spotify.com/album/1IROPd6PTUoA3o9tqTvRiL"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Pete Rock",
+          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+        }
+      ],
+      "duration_ms": 227495,
+      "name": "Wise Up",
+      "url": "https://open.spotify.com/track/4QVS7dlOCQde84utqhwOyY"
+    },
+    {
+      "added_at": "2025-10-02 21:45:45",
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -1890,19 +1890,27 @@
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Amanda Reifer",
-          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
         }
       ],
-      "duration_ms": 239026,
-      "name": "Die Hard",
-      "url": "https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs"
+      "duration_ms": 195950,
+      "name": "N95",
+      "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
+    },
+    {
+      "added_at": "2025-10-02 21:45:45",
+      "album": {
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/3VB5ViVn5PK58UmJaCdopk"
+      },
+      "artists": [
+        {
+          "name": "Morray",
+          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
+        }
+      ],
+      "duration_ms": 223944,
+      "name": "Quicksand",
+      "url": "https://open.spotify.com/track/33HO2V42Tc6xE0SbCg6vBj"
     },
     {
       "added_at": "2025-10-02 21:45:45",
@@ -1935,18 +1943,18 @@
     {
       "added_at": "2025-10-02 21:45:45",
       "album": {
-        "name": "Quicksand",
-        "url": "https://open.spotify.com/album/3VB5ViVn5PK58UmJaCdopk"
+        "name": "Kool Aid and Frozen Pizza",
+        "url": "https://open.spotify.com/album/7xHyZoZLGHVUCdZwG16Zd3"
       },
       "artists": [
         {
-          "name": "Morray",
-          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 223944,
-      "name": "Quicksand",
-      "url": "https://open.spotify.com/track/33HO2V42Tc6xE0SbCg6vBj"
+      "duration_ms": 157737,
+      "name": "Kool Aid and Frozen Pizza",
+      "url": "https://open.spotify.com/track/3VmrLy4WZLHDgTXENCIz2p"
     },
     {
       "added_at": "2025-10-02 21:45:45",
@@ -1971,22 +1979,6 @@
       "duration_ms": 204434,
       "name": "The Jackie (with J. Cole & Lil Tjay)",
       "url": "https://open.spotify.com/track/15qKrPi4Kg0z7g9HlwWyeb"
-    },
-    {
-      "added_at": "2025-10-02 21:45:45",
-      "album": {
-        "name": "Kool Aid and Frozen Pizza",
-        "url": "https://open.spotify.com/album/7xHyZoZLGHVUCdZwG16Zd3"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 157737,
-      "name": "Kool Aid and Frozen Pizza",
-      "url": "https://open.spotify.com/track/3VmrLy4WZLHDgTXENCIz2p"
     }
   ],
   "unique_name": "no corre",

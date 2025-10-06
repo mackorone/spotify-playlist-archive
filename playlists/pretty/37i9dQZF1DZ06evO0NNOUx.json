@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 153517,
+  "num_followers": 153884,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAACTNC45k2eWXLGoCvvPEFpa",
+  "snapshot_id": "aOBjgAAAAAAUG15wYCLn1oqnpY7wBEtm",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 147692,
-      "name": "NO L's",
-      "url": "https://open.spotify.com/track/3uLuxijlvrmMLcSHoplmol"
+      "duration_ms": 135975,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/5hvVdUchUscAK6hLezOoUV"
     },
     {
       "added_at": null,
@@ -331,6 +331,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LEMONADE (FOLK)",
+        "url": "https://open.spotify.com/album/3d30N3D4MZguQ2aAJ0g7MJ"
+      },
+      "artists": [
+        {
+          "name": "The Figs",
+          "url": "https://open.spotify.com/artist/0guOtxDAwFFEGGCxrbW5KF"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 183532,
+      "name": "LEMONADE (FOLK)",
+      "url": "https://open.spotify.com/track/6JM6fmIDkRckUrKmnCeT1a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SUNRISE",
         "url": "https://open.spotify.com/album/7HFnz2dskywxtDeWEdWkdg"
       },
@@ -343,6 +363,42 @@
       "duration_ms": 156583,
       "name": "SUNRISE",
       "url": "https://open.spotify.com/track/7scWcScVJIcVTLLE1cv1ib"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILD OF GOD II",
+        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "NO L's",
+      "url": "https://open.spotify.com/track/3uLuxijlvrmMLcSHoplmol"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILD OF GOD",
+        "url": "https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 207529,
+      "name": "GOD IS GOOD",
+      "url": "https://open.spotify.com/track/4SPycPiDl1PeFmwp7QPXRc"
     },
     {
       "added_at": null,
@@ -363,58 +419,6 @@
       "duration_ms": 214850,
       "name": "Altar",
       "url": "https://open.spotify.com/track/0GSEIffBQyILlI6FPzn6G0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHILD OF GOD II",
-        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 135975,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/5hvVdUchUscAK6hLezOoUV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHILD OF GOD",
-        "url": "https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 158016,
-      "name": "ALWAYS",
-      "url": "https://open.spotify.com/track/34FjdCbFv7A1R4vjbogjjb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEMONADE (FOLK)",
-        "url": "https://open.spotify.com/album/3d30N3D4MZguQ2aAJ0g7MJ"
-      },
-      "artists": [
-        {
-          "name": "The Figs",
-          "url": "https://open.spotify.com/artist/0guOtxDAwFFEGGCxrbW5KF"
-        },
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 183532,
-      "name": "LEMONADE (FOLK)",
-      "url": "https://open.spotify.com/track/6JM6fmIDkRckUrKmnCeT1a"
     },
     {
       "added_at": null,
@@ -743,6 +747,26 @@
       "duration_ms": 178280,
       "name": "Your Soul",
       "url": "https://open.spotify.com/track/4g6ZNtgFm7pOvinj2IvLCy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JESUS IS COMING BACK SOON",
+        "url": "https://open.spotify.com/album/3HDW8T0mgHExobcePqYorP"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "duration_ms": 180034,
+      "name": "JESUS IS COMING BACK SOON",
+      "url": "https://open.spotify.com/track/3lDONs5jdDxJIHovAwgtsc"
     },
     {
       "added_at": null,

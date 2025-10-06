@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 
 > This is XXXTENTACION\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,958,250 likes - 50 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,958,190 likes - 50 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AnZXW.md) - [plain]
 | 49 | [I spoke to the devil in miami, he said everything would be fine](https://open.spotify.com/track/4VnR7plUitZ788acvBHdP6) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 2:58 |
 | 50 | [IWATCHEDHIMDROWN](https://open.spotify.com/track/4jv3TFJWkmCswY7DxwMeQI) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [The Lost Files](https://open.spotify.com/album/428N9zTdjW9YzRVxBWZN7C) | 1:24 |
 
-Snapshot ID: `aN8SAAAAAAAzGnWeU6R+TK0Ju7UyQ/+6`
+Snapshot ID: `aOBjgAAAAAAsv3KdkamPDpk51TVcr/42`

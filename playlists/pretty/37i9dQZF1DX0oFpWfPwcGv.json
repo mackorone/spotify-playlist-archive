@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 71025,
+  "num_followers": 71042,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Classic Soul",
-        "url": "https://open.spotify.com/album/0PFh0hEIlgaeLVF8qRkl0q"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
-        }
-      ],
-      "duration_ms": 325173,
-      "name": "Never Knew Love Like This Before",
-      "url": "https://open.spotify.com/track/1CqBel8F2RKf3mopnPf4Yv"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "'Lectric Lady",
         "url": "https://open.spotify.com/album/7eY0iC16v1UNmrHqG1eiuB"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 473240,
       "name": "Love Is You - A Tom Moulton Mix",
       "url": "https://open.spotify.com/track/4YjD6Gd0IjMIchfTOOPEgS"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Classic Soul",
+        "url": "https://open.spotify.com/album/0PFh0hEIlgaeLVF8qRkl0q"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "duration_ms": 325173,
+      "name": "Never Knew Love Like This Before",
+      "url": "https://open.spotify.com/track/1CqBel8F2RKf3mopnPf4Yv"
     }
   ],
   "unique_name": "Disco Decadence",

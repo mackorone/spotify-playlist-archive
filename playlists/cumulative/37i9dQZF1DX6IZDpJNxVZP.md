@@ -4,7 +4,7 @@
 
 > Celebrate Halloween at home with these fun tracks
 
-330 songs - 14 hr 28 min
+331 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Baby Ghost](https://open.spotify.com/track/5ojQFlYr2HgRxV8GPT6yAH) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Baby Ghost](https://open.spotify.com/album/0oDKbLKGqzWUqSd8Ld32Qw) | 1:36 | 2021-09-10 | 2024-09-21 |
 | [Bad Blood](https://open.spotify.com/track/21jdyV98aurGa8pu2SCYFL) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 3:08 | 2023-10-02 |  |
 | [Bad Guy](https://open.spotify.com/track/4V9KNW6NCaFTHmgo85Punq) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 17](https://open.spotify.com/album/4RucFi1MogLkft52GQPS0S) | 2:33 | 2023-10-02 |  |
-| [Batman Theme](https://open.spotify.com/track/6NVI8uSMMbVAjt0FzL4GFL) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [Kids Halloween Party Music](https://open.spotify.com/album/1DrwxkXuJRDomi1QtqvRAA) | 2:43 | 2021-08-30 |  |
+| [Batman Theme](https://open.spotify.com/track/6NVI8uSMMbVAjt0FzL4GFL) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [Kids Halloween Party Music](https://open.spotify.com/album/1DrwxkXuJRDomi1QtqvRAA) | 2:43 | 2021-08-30 | 2025-10-06 |
 | [Bats \- make them go and not come back! \(DJ Pon\-3's Version\)](https://open.spotify.com/track/0rUtYAAcUWjbgArfzQmi07) | [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM), [DJ Pon\-3](https://open.spotify.com/artist/6Oi2Qrnn3uBHiQgNZk9qen), [Mona Rue](https://open.spotify.com/artist/15lMav195dBJKGtRHPTWVw) | [Bats \(DJ Pon\-3's Version\)](https://open.spotify.com/album/7w3CZvcGvth9LAwfWdhubm) | 2:32 | 2025-09-29 |  |
 | [Bones! Bones! Bones!](https://open.spotify.com/track/0eVGZSVkdxVfrtoIZsUDq7) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Awesome Sauce](https://open.spotify.com/artist/4rF4SqHjG4ZNy3k6aJjru1) | [Bones! Bones! Bones!](https://open.spotify.com/album/5V8VkDTGBoTIkxrIywqlda) | 1:37 | 2023-10-02 |  |
 | [Boo Ya!](https://open.spotify.com/track/1x1yovHjSWgXkzZrCFjEY1) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w) | [Boo Ya!](https://open.spotify.com/album/4yhVNql0ImtQJlGLSdsfXu) | 2:36 | 2024-10-22 |  |
@@ -97,6 +97,7 @@
 | [Graveyard Dance\-Off](https://open.spotify.com/track/0EdZLLA7xYslXoEvzby2So) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Cocomelon & Friends Halloween](https://open.spotify.com/album/4Ka27MLLbmj1IcjVyens72) | 3:03 | 2021-09-10 | 2024-09-21 |
 | [Graveyard Dance\-Off](https://open.spotify.com/track/0XAl1fAdJlcLZVmKp4rnbu) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Scrambled Eggs For All](https://open.spotify.com/album/7xLTzZs8Wa9fKSLegvN2O1) | 3:03 | 2021-09-10 | 2024-04-19 |
 | [Grim Grinning Ghosts \- From "The Haunted Mansion"](https://open.spotify.com/track/6PDomgzbyDHx0pxJwWQ5HI) | [The Melomen](https://open.spotify.com/artist/2Zdiv6y6Bd0GpdlEtvXzVB), [Paul Frees](https://open.spotify.com/artist/4O7CH489gsT4ZDJNL98Eqk), [Betty Taylor](https://open.spotify.com/artist/1lD6fWemp959GGVhH0NuC1), [Bill Lee](https://open.spotify.com/artist/1Vb1cXNxIUyb3Geb9cvSvL), [Thurl Ravenscroft](https://open.spotify.com/artist/5Gejwv3xz2DpLcxVpMD6hL) | [Disney Classics](https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0) | 5:32 | 2021-09-10 |  |
+| [Ha Ha Halloween \- Skye's Music Party](https://open.spotify.com/track/1Y1PSX1ur2Uo3QPeutLvJh) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [Ha Ha Halloween \(Skye's Music Party\)](https://open.spotify.com/album/653HtQ6YHknzW6VmVRxB4x) | 2:00 | 2025-10-03 |  |
 | [Hallo Hallo Halloween](https://open.spotify.com/track/7q9lXbpoaUcml6XnlelZhF) | [Lucy Kalantari & the Jazz Cats](https://open.spotify.com/artist/6WkbYGc8Fyh56mAdlLb6g8) | [Hallo Hallo Halloween](https://open.spotify.com/album/2sfdJ8STL44UnED1yLE1R3) | 2:12 | 2024-09-20 | 2025-09-27 |
 | [Hallo Halloween!](https://open.spotify.com/track/0afQ2LV1xMekm8t9pYDwSP) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Peppa Pig Halloween Songs, Vol\. 2](https://open.spotify.com/album/53RrCbZLjsT3DV0vgly29X) | 3:10 | 2025-10-03 |  |
 | [Halloveen](https://open.spotify.com/track/16lPkyM9Nc19BbQluNUks2) | [Little Ditto](https://open.spotify.com/artist/45zwS0Ipb9GuXMvekivQ38) | [Halloveen](https://open.spotify.com/album/5xRCtJR7mVVKbNuqSEMmoy) | 1:56 | 2021-09-17 | 2024-10-06 |

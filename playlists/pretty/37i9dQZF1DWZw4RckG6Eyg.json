@@ -1,6 +1,6 @@
 {
   "description": "All the indie gems from 2024 that may have flown under your radar! Cover: Saya Gray",
-  "num_followers": 41642,
+  "num_followers": 41648,
   "original_name": "Indie songs from 2024 you may have missed",
   "owner": {
     "name": "Spotify",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Twice Around the Sun",
+        "url": "https://open.spotify.com/album/3wzMjiyIQ2zDv3suwSHxpp"
+      },
+      "artists": [
+        {
+          "name": "Ugly (UK)",
+          "url": "https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf"
+        }
+      ],
+      "duration_ms": 408950,
+      "name": "Icy Windy Sky",
+      "url": "https://open.spotify.com/track/66U7274Oapr417BNqeQLoS"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "BUG",
         "url": "https://open.spotify.com/album/6pKthF8DGDBBhypcxAPGDo"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 182426,
       "name": "My Day Off",
       "url": "https://open.spotify.com/track/6GUv3PAHoR1IVoonUmiSFi"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Twice Around the Sun",
-        "url": "https://open.spotify.com/album/3wzMjiyIQ2zDv3suwSHxpp"
-      },
-      "artists": [
-        {
-          "name": "Ugly (UK)",
-          "url": "https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf"
-        }
-      ],
-      "duration_ms": 408950,
-      "name": "Icy Windy Sky",
-      "url": "https://open.spotify.com/track/66U7274Oapr417BNqeQLoS"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "The Sweater Club",
-        "url": "https://open.spotify.com/album/73lkqaVOVZnVMHi2ZYrY0N"
-      },
-      "artists": [
-        {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
-        }
-      ],
-      "duration_ms": 167271,
-      "name": "Shudder",
-      "url": "https://open.spotify.com/track/1w5m4J6icg6zmt0KuneqST"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Rose Main Reading Room",
         "url": "https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 166228,
       "name": "Wish You Well",
       "url": "https://open.spotify.com/track/03TWR8Pj2dYpXiCbhuncQb"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "The Sweater Club",
+        "url": "https://open.spotify.com/album/73lkqaVOVZnVMHi2ZYrY0N"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "duration_ms": 167271,
+      "name": "Shudder",
+      "url": "https://open.spotify.com/track/1w5m4J6icg6zmt0KuneqST"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Piano Hands",
-        "url": "https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk"
-      },
-      "artists": [
-        {
-          "name": "Soft Launch",
-          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
-        }
-      ],
-      "duration_ms": 218031,
-      "name": "Piano Hands",
-      "url": "https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Devil Mode",
         "url": "https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 184434,
       "name": "Devil Mode",
       "url": "https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Piano Hands",
+        "url": "https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk"
+      },
+      "artists": [
+        {
+          "name": "Soft Launch",
+          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
+        }
+      ],
+      "duration_ms": 218031,
+      "name": "Piano Hands",
+      "url": "https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf"
     }
   ],
   "unique_name": "Indie songs from 2024 you may have missed",

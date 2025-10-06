@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 
 > This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 767 likes - 19 songs - 45 min 19 sec
+[Spotify](https://open.spotify.com/user/spotify) - 767 likes - 20 songs - 47 min 25 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 | 15 | [Lessons In Chemistry](https://open.spotify.com/track/5uF3bldebcNNuyZaJliK5h) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:16 |
 | 16 | [Sygrayem \(Let's Play\)](https://open.spotify.com/track/4OuuChRBdM8QPEl9yDIrSX) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 2:11 |
 | 17 | [Mary Agnes & Callie](https://open.spotify.com/track/3ywYZubSA4DRPT8JyBgAyp) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 1:21 |
-| 18 | [Training With Mr\. Schaibel](https://open.spotify.com/track/1GZgxiTmZPfeYKsWQddxWV) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 3:04 |
-| 19 | [Alice](https://open.spotify.com/track/2yxEakHVn3iOGKnxcvuOQ6) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 2:58 |
+| 18 | [Darwin's Theory](https://open.spotify.com/track/1J4LK2Edrjq9bhFdUC9L48) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 2:06 |
+| 19 | [Training With Mr\. Schaibel](https://open.spotify.com/track/1GZgxiTmZPfeYKsWQddxWV) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 3:04 |
+| 20 | [Alice](https://open.spotify.com/track/2yxEakHVn3iOGKnxcvuOQ6) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 2:58 |
 
-Snapshot ID: `aN8SAAAAAACTCmgIHzR6n+qjd+DtzMp/`
+Snapshot ID: `aOBjgAAAAAB0SbGaw66ULGCe2ka4GuV+`

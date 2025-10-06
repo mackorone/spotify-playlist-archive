@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 75 | [Still Feels The Same](https://open.spotify.com/track/2fOjTmGULGRwVBKoj7unUj) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb), [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Open Bars](https://open.spotify.com/album/2U3hHFDfOrkA1HKKH8Fi2a) | 3:01 |
 | 76 | [Fell Into You](https://open.spotify.com/track/0ENrVuNnqpmnmdjgUxg61j) | [Revaeon](https://open.spotify.com/artist/1NubCpQK9Tz3JEIm4UhrUC), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Fell Into You](https://open.spotify.com/album/3VBQxDg1c5ND7HoVCzIfHw) | 2:52 |
 | 77 | [This Is Where I Leave You](https://open.spotify.com/track/0jtRYpwMmDV5pypwHYksSw) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [In My Imagination](https://open.spotify.com/album/6GVdXBg3rFTbg3fB1MJ7pa) | 2:39 |
-| 78 | [Desperate](https://open.spotify.com/track/4CmtnIlvd5fdmJ94dSO5Ig) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life](https://open.spotify.com/album/3pWiHbMUEcxA0TjNW1Ipb3) | 3:51 |
-| 79 | [Bad Bad](https://open.spotify.com/track/7gbzuDKCcFkNsg0efdf5hd) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Flight Risk](https://open.spotify.com/album/2HEYWp2k9LL1AT167QZizt) | 3:01 |
+| 78 | [Bad Bad](https://open.spotify.com/track/7gbzuDKCcFkNsg0efdf5hd) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Flight Risk](https://open.spotify.com/album/2HEYWp2k9LL1AT167QZizt) | 3:01 |
+| 79 | [Desperate](https://open.spotify.com/track/4CmtnIlvd5fdmJ94dSO5Ig) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life](https://open.spotify.com/album/3pWiHbMUEcxA0TjNW1Ipb3) | 3:51 |
 | 80 | [Bad for Me](https://open.spotify.com/track/27W6Mlh7dZaNuWQaXaoe5H) | [Sarah Allison Turner](https://open.spotify.com/artist/5HKrm4aihaeEPAezAxT24Z) | [Bad for Me](https://open.spotify.com/album/3mCCEf1n16Rrjclrw2S3jB) | 3:22 |
 | 81 | [If We Want To](https://open.spotify.com/track/7qgCPiaB0hffA8UVeJN0WM) | [Chevy Beaulieu](https://open.spotify.com/artist/1v9yVXQyQHJ4K0CQkT0rDC) | [If We Want To](https://open.spotify.com/album/3DIBtAWlzmki8v1cDZf7QJ) | 3:13 |
 | 82 | [Think of You](https://open.spotify.com/track/7Kv6dG9sVPnJuKmCQdrlUs) | [Thimlife](https://open.spotify.com/artist/5hlGugY24gHs0FqG05AgN0), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Think of You](https://open.spotify.com/album/4sdfdyZcABEAT0dm6BjAHa) | 3:25 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 118 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 | 119 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 
-Snapshot ID: `Ab9/nAAAAABcrS5tOkcrtOOmZSEjR9XI`
+Snapshot ID: `Ab+FMgAAAADUlFKqwpQ9M8Hc05QTMANQ`

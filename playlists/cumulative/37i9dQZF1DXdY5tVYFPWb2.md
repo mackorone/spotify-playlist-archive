@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-931 songs - 2 day 13 hr 26 min
+932 songs - 2 day 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [City Habits](https://open.spotify.com/track/38f8NbWFJ22TU4qIqZoNnd) | [brkfstblend](https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ) | [City Habits](https://open.spotify.com/album/1LDTsY4d3u9FASRjOjseqU) | 4:49 | 2024-07-12 | 2024-10-03 |
 | [Clap Clap](https://open.spotify.com/track/1xBHBwjDF6EOLxs2NJDd7F) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [Clap Clap](https://open.spotify.com/album/2fezHuGaqi8F9iN18IVKYM) | 3:50 | 2023-05-30 | 2023-06-16 |
 | [Climax Night](https://open.spotify.com/track/3O4SdpqF7RzZkA79cRBvwV) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [PARAISO](https://open.spotify.com/album/2nlSDINS6XaxOTGIvld3u0) | 4:04 | 2024-04-16 |  |
+| [COLD MOON](https://open.spotify.com/track/3sqd7YCOuzBJKvqJgf0A6v) | [降幡 愛](https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD) | [COLD MOON](https://open.spotify.com/album/2VK88BTRRpqp47phCpXAEh) | 4:22 | 2025-09-30 |  |
 | [Colorful Raindrop](https://open.spotify.com/track/3dVcGtf7hg1Ma0jmt03P9q) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh) | [Colorful Raindrop](https://open.spotify.com/album/6Xr7K3xKDAxS1nUwyRDvOW) | 3:08 | 2022-11-01 | 2022-11-03 |
 | [Colorful Raindrop](https://open.spotify.com/track/3mdEo8YTPXlcZlvpVhFEgY) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh) | [Colorful Raindrop](https://open.spotify.com/album/52eAKerLBLJvoP6eXtKhNB) | 3:08 | 2022-11-01 | 2022-11-09 |
 | [conversation \- Prod\. by DPR CREAM](https://open.spotify.com/track/3KYoEkpQ0P35PC3l2UYNdz) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [conversation \(Prod\. by DPR CREAM\)](https://open.spotify.com/album/7B9jkm5VB5RW3EF3qS0ngG) | 3:24 | 2023-08-29 | 2023-09-09 |
@@ -204,7 +205,7 @@
 | [Gimme](https://open.spotify.com/track/4iELGQQnXwloNqbQZ0rfNZ) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [BITTER!](https://open.spotify.com/album/0BSd8vQJG03o2NHVMA7kA5) | 3:31 | 2022-09-13 | 2022-11-02 |
 | [GINGILA](https://open.spotify.com/track/4XJYGDYtk5S1NrtTiLFvam) | [UNCHAIN](https://open.spotify.com/artist/02PEhzGH16gaPuzm29f0zL) | [GINGILA](https://open.spotify.com/album/6n7np1WaRKGTc3P5GcKnry) | 4:52 | 2024-08-14 | 2024-09-05 |
 | [GLASS NO PALM TREE \- 2020 Remix](https://open.spotify.com/track/77tmXKuiCWoACwbyyJd4Ry) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [FIRST FINALE REMIX](https://open.spotify.com/album/5hzaK16MfTovy9Xxvuqnla) | 4:33 | 2023-09-26 | 2023-11-18 |
-| [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/track/2lyUj9ReeWZHSBaw22yqPT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/album/19NdL3I9k3u1HhVwSaEa02) | 3:45 | 2024-02-06 |  |
+| [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/track/2lyUj9ReeWZHSBaw22yqPT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/album/19NdL3I9k3u1HhVwSaEa02) | 3:45 | 2024-02-06 | 2025-10-06 |
 | [Goes On](https://open.spotify.com/track/0ABdjpCuLnTTluGGdlDfja) | [烏兎 \-uto\-](https://open.spotify.com/artist/1mRH8Ts0ab2eegJfZsqPwc) | [Blessings of the Sun](https://open.spotify.com/album/1AJute2GlhIg4DmgLG121e) | 4:41 | 2025-05-13 | 2025-06-04 |
 | [Good Luck,Good Time](https://open.spotify.com/track/21fjaRKHWjM103DohcT0W3) | [Takuya Kimura](https://open.spotify.com/artist/7jZnmNs4rkoMqljfgaXxF9) | [Next Destination](https://open.spotify.com/album/4iczsnS9GVykkEwh5LpufO) | 4:27 | 2023-07-04 | 2023-08-02 |
 | [Good Morning](https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Good Morning](https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R) | 3:17 | 2022-05-31 | 2023-10-11 |

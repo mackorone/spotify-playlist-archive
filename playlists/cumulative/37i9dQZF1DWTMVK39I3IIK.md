@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸  Von Quar
 
-320 songs - 16 hr 17 min
+321 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Marianne og Henrik](https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Marianne og Henrik](https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr) | 3:00 | 2024-10-03 |  |
 | [Marigold](https://open.spotify.com/track/0ial8d0UqAOVetenDTpcI7) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Marigold](https://open.spotify.com/album/0P4fFsIA6Y95WLKRg6UHW1) | 3:40 | 2025-01-23 | 2025-03-28 |
 | [Mere End Bare Kaffe](https://open.spotify.com/track/04EY5MIcdHXhVIeEKFi79u) | [Gejst](https://open.spotify.com/artist/5aYWNs1bORooRHDSeuZ1IP) | [Mere End Bare Kaffe](https://open.spotify.com/album/4uJiYK3mVmoNMLbKe8N7G9) | 3:01 | 2025-10-02 |  |
-| [Mi Amor](https://open.spotify.com/track/5gCsQD68LPv4FmndQwyGEx) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Før Jeg Falder](https://open.spotify.com/album/5VEvNimYjgSZDXbBPZ8Qf9) | 3:16 | 2025-06-19 |  |
+| [Mi Amor](https://open.spotify.com/track/5gCsQD68LPv4FmndQwyGEx) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Før Jeg Falder](https://open.spotify.com/album/5VEvNimYjgSZDXbBPZ8Qf9) | 3:16 | 2025-06-19 | 2025-10-06 |
 | [Mig Og Min Mund](https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Mig Og Min Mund](https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q) | 2:39 | 2024-06-27 |  |
 | [Minder Om Dig](https://open.spotify.com/track/1553ldzhZQvrhS5fgWWve5) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [Minder Om Dig](https://open.spotify.com/album/22evEz1GRHMoFBh57DrHkA) | 2:57 | 2025-04-10 | 2025-09-05 |
 | [Mouse Tag](https://open.spotify.com/track/1QVgtD9wGjGQdLLdrQ1dI4) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Musicality](https://open.spotify.com/album/6rcnlJU0yDzWJf59i4SP6X) | 1:46 | 2025-09-18 |  |
@@ -274,6 +274,7 @@
 | [Sådan nogen som os](https://open.spotify.com/track/2rcPLBGIR2ZeXkcKuuTgwN) | [PIND](https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q), [OKAYNICO](https://open.spotify.com/artist/0moGh7WEOH25xy8gZvpY3a), [Martin Johannes Larsen](https://open.spotify.com/artist/5MRuy6GE6v6wUrCrvrF6mt) | [Sådan nogen som os](https://open.spotify.com/album/15PAmqov9dExYI5756SSfl) | 3:08 | 2025-04-17 | 2025-06-27 |
 | [Sæson](https://open.spotify.com/track/65Nq6t6JmdfVOf2IIkCIgX) | [milo](https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF) | [Sæson](https://open.spotify.com/album/0rjKYgUC4EPdh7uJz338XZ) | 3:10 | 2025-04-24 | 2025-06-20 |
 | [Sætter Alt På Spil](https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d) | [Bifald](https://open.spotify.com/artist/0digldp7orPQLSfADZojvH) | [Sætter Alt På Spil](https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA) | 3:17 | 2024-10-24 |  |
+| [Sætter Sig Fast](https://open.spotify.com/track/0ueHqqPHinLsblBWQ0cjmW) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Sætter Sig Fast](https://open.spotify.com/album/6kPWRAW8tNgqcCyHMK6pM4) | 2:56 | 2025-10-02 |  |
 | [Tag Mig Som Jeg Er](https://open.spotify.com/track/7aSvvFYDuR8fCurPx6hqwl) | [KALASET](https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7) | [Tag Mig Som Jeg Er](https://open.spotify.com/album/5cgv7qdPVxJS9jN50kr3nH) | 3:15 | 2025-01-06 |  |
 | [Tandlæge](https://open.spotify.com/track/44RZ2zrp3rfeUL9yrboOxB) | [BUKURU](https://open.spotify.com/artist/3ihqaAb6mlqx7JYCgo8mSN) | [Tandlæge](https://open.spotify.com/album/39knlRfz425t69wjmm0por) | 2:54 | 2025-01-30 | 2025-05-07 |
 | [Telefonperson](https://open.spotify.com/track/625UsSgQrZOSKUxdW5gUbQ) | [Zar Paulo](https://open.spotify.com/artist/5Org3M2mFFEFd8A57h9Yv2) | [Telefonperson](https://open.spotify.com/album/3VX5LZ87CqqjvPbX4OBqxi) | 2:57 | 2025-04-07 | 2025-08-01 |

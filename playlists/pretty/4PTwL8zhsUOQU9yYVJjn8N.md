@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 
 > Includes instrumentals , collabs, ect ect
 
-[beanspace](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 344 likes - 189 songs - 6 hr 13 min
+[beanspace](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 345 likes - 189 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

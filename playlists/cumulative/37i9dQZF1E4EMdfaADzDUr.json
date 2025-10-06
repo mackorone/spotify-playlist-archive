@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-22",
-  "description": "With After Cooking, winterburn, Leblanc and more",
+  "description": "With winterburn, After Cooking, Birrd and more",
   "name": "Klangphonics Radio",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 242026,
       "name": "A Name I Don't Know - Extended Instrumental Version",
       "url": "https://open.spotify.com/track/5qqgnwZq7WRgk2vWNLPlDY"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-29",
+      "date_removed": null,
       "duration_ms": 338000,
       "name": "Bodhisattva",
       "url": "https://open.spotify.com/track/5dzhXwTjMkVhsHfPYk3OYr"
@@ -610,6 +610,28 @@
       "duration_ms": 274545,
       "name": "C\u0153ur Noir",
       "url": "https://open.spotify.com/track/0zbaWzgpzP1gFpEvgwI8YI"
+    },
+    {
+      "album": {
+        "name": "Dark Waves",
+        "url": "https://open.spotify.com/album/0D8fGhXhEr8zyXUGfaDjao"
+      },
+      "artists": [
+        {
+          "name": "Moonwalk",
+          "url": "https://open.spotify.com/artist/1khyIydqanugacJyKdmceT"
+        },
+        {
+          "name": "EarthLife",
+          "url": "https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251903,
+      "name": "Dark Waves",
+      "url": "https://open.spotify.com/track/2SIywaExbw39WSlS768Sg6"
     },
     {
       "album": {
@@ -812,7 +834,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 150500,
       "name": "Echoes in The Dark",
       "url": "https://open.spotify.com/track/0ACOPSyN7dDaXUqUFrJrW7"
@@ -834,6 +856,28 @@
       "duration_ms": 227500,
       "name": "Effet d'hiver",
       "url": "https://open.spotify.com/track/6PQeHDT3xUfOPxR50Uo90s"
+    },
+    {
+      "album": {
+        "name": "Trip to Sanity",
+        "url": "https://open.spotify.com/album/7yHFXNvk1C4XzbNUOTYa3u"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        },
+        {
+          "name": "Hidden Empire",
+          "url": "https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401511,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/5qnCwf4JSeYIoZAYzs3MoK"
     },
     {
       "album": {
@@ -866,7 +910,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 165800,
       "name": "Eternal Bond",
       "url": "https://open.spotify.com/track/0B2GF5eu7ODZfyY5EE25EI"
@@ -986,7 +1030,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 449225,
       "name": "Freed From Memories",
       "url": "https://open.spotify.com/track/0ctm8aaSxkORbzgZseBe42"
@@ -1308,7 +1352,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 307441,
       "name": "La Dibona",
       "url": "https://open.spotify.com/track/57Kf4Qwg7H41AF2ST2tBQq"
@@ -1348,7 +1392,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-30",
+      "date_removed": null,
       "duration_ms": 395874,
       "name": "Laminar - Moonbootica Remix",
       "url": "https://open.spotify.com/track/3XsNa1764TvABm41Ru2WgR"
@@ -1478,7 +1522,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 203779,
       "name": "Minuit",
       "url": "https://open.spotify.com/track/4UAxmiriWgNyu40rePrrsn"
@@ -1612,7 +1656,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 160350,
       "name": "Nebula",
       "url": "https://open.spotify.com/track/6xhPA7A3DkKodKHBiD6KKm"
@@ -1940,7 +1984,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 411720,
       "name": "Quetzal",
       "url": "https://open.spotify.com/track/5bgSkiClqBmuItDcFADjf6"
@@ -1976,7 +2020,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 203000,
       "name": "Rivi\u00e8re",
       "url": "https://open.spotify.com/track/6f7mqZcx2ZeGaz3jhfqPvK"
@@ -2138,7 +2182,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 472698,
       "name": "Space Bunny",
       "url": "https://open.spotify.com/track/1FTpgO7f4gWEpKwSUo7tHE"
@@ -2228,7 +2272,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 312000,
       "name": "Supermoon",
       "url": "https://open.spotify.com/track/6M24qezRKtq3GyudKIZnJH"
@@ -2264,7 +2308,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 205403,
       "name": "Take Care",
       "url": "https://open.spotify.com/track/3ZcSFBU313eFXCgZcs0TAp"
@@ -2340,7 +2384,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 412631,
       "name": "The White Duke",
       "url": "https://open.spotify.com/track/4LxPAOJOpHmBXxoUBjGkBT"
@@ -2380,7 +2424,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 283520,
       "name": "Things",
       "url": "https://open.spotify.com/track/1HfZcA8qWGZZF4sWcP575R"
@@ -2452,7 +2496,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 295680,
       "name": "Trust",
       "url": "https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy"
@@ -2672,7 +2716,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 166875,
       "name": "what a day",
       "url": "https://open.spotify.com/track/0QWzeUKqTxgvs9eLK9J9TS"
@@ -2708,7 +2752,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 489523,
       "name": "White Clouds",
       "url": "https://open.spotify.com/track/4NJvhKZO5KNkfuB05HTWb0"
@@ -2798,7 +2842,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 223125,
       "name": "you are not like the others",
       "url": "https://open.spotify.com/track/34xGE39RLD5Pe3dKUD876g"
@@ -2820,7 +2864,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 300687,
       "name": "You Know (We Won't Remember)",
       "url": "https://open.spotify.com/track/15W32cDfIWtXMxcywcUlhF"
@@ -2842,7 +2886,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 215413,
       "name": "Zora - Birrd Remix",
       "url": "https://open.spotify.com/track/1NLnxStnWIpyvpPK1J4s4F"

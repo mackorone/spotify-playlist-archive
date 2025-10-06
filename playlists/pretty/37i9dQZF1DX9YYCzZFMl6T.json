@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 6724,
+  "num_followers": 6749,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "Rockin' Around The Christmas Tree / Jingle Bell Rock",
-        "url": "https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 143909,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
         "name": "More Than Christmas",
         "url": "https://open.spotify.com/album/4EUqxpsyCxWbhimLELMNJ6"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 213693,
       "name": "More Than Christmas",
       "url": "https://open.spotify.com/track/2AUHUlz3WsgArd1uZ4bHEj"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
+        "name": "Rockin' Around The Christmas Tree / Jingle Bell Rock",
+        "url": "https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 143909,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -319,22 +319,6 @@
       "duration_ms": 133640,
       "name": "That Christmasy Feeling",
       "url": "https://open.spotify.com/track/28lWAOcNZRnYvSLRMUws0p"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 248066,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/5heNmoqcn6AO5aIf4lvfgp"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -383,6 +367,22 @@
       "duration_ms": 252388,
       "name": "Merry Christmas Mary Jane",
       "url": "https://open.spotify.com/track/7DsdX05nPIdeUKK3xMnjFS"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 248066,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/5heNmoqcn6AO5aIf4lvfgp"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "Hard Candy Christmas",
-        "url": "https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl"
-      },
-      "artists": [
-        {
-          "name": "Lola Kirke",
-          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
-        }
-      ],
-      "duration_ms": 207735,
-      "name": "Hard Candy Christmas",
-      "url": "https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
         "name": "Light of the Stable (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/3FGUuuml7BwQVDrhb20Elz"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 161266,
       "name": "The First Noel - 2004 Remaster",
       "url": "https://open.spotify.com/track/0HoBChp8kED3vN81I5wA5l"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
+        "name": "Hard Candy Christmas",
+        "url": "https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl"
+      },
+      "artists": [
+        {
+          "name": "Lola Kirke",
+          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
+        }
+      ],
+      "duration_ms": 207735,
+      "name": "Hard Candy Christmas",
+      "url": "https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -591,26 +591,6 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "Under the Mistletoe!",
-        "url": "https://open.spotify.com/album/7JIwLbalAQ20uJEjbMf8aZ"
-      },
-      "artists": [
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        },
-        {
-          "name": "Ronnie Spector",
-          "url": "https://open.spotify.com/artist/3ur7kjN4pd94zjUxrFSMDj"
-        }
-      ],
-      "duration_ms": 162333,
-      "name": "Under the Mistletoe!",
-      "url": "https://open.spotify.com/track/74YpSfHQSct8wznkHopETX"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
         "name": "Christmas Tree in the Window",
         "url": "https://open.spotify.com/album/2rwOJbEi8XzqrNHPl705ES"
       },
@@ -643,6 +623,26 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
+        "name": "Under the Mistletoe!",
+        "url": "https://open.spotify.com/album/7JIwLbalAQ20uJEjbMf8aZ"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        },
+        {
+          "name": "Ronnie Spector",
+          "url": "https://open.spotify.com/artist/3ur7kjN4pd94zjUxrFSMDj"
+        }
+      ],
+      "duration_ms": 162333,
+      "name": "Under the Mistletoe!",
+      "url": "https://open.spotify.com/track/74YpSfHQSct8wznkHopETX"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
         "name": "Winter Wonderland",
         "url": "https://open.spotify.com/album/6H69IpUOiZqIYZ9W529Hfy"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 218386,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/39KIuW3VSBGZMo4aiKOzMr"
+    },
+    {
+      "added_at": "2024-12-20 18:31:17",
+      "album": {
+        "name": "Kid On Christmas",
+        "url": "https://open.spotify.com/album/70dq1feEPWzESCayzL0DMW"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "duration_ms": 245293,
+      "name": "Kid On Christmas",
+      "url": "https://open.spotify.com/track/3BDlXhWvdcymPm5eMIwtXm"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -675,22 +691,6 @@
       "duration_ms": 232102,
       "name": "Gone for Christmas (feat. The McCrary Sisters)",
       "url": "https://open.spotify.com/track/51oXLrYEtJM9nwOXPoDNJ3"
-    },
-    {
-      "added_at": "2024-12-20 18:31:17",
-      "album": {
-        "name": "Kid On Christmas",
-        "url": "https://open.spotify.com/album/70dq1feEPWzESCayzL0DMW"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 245293,
-      "name": "Kid On Christmas",
-      "url": "https://open.spotify.com/track/3BDlXhWvdcymPm5eMIwtXm"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -779,18 +779,22 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "Christmas Alone (Live from the Blue Room)",
-        "url": "https://open.spotify.com/album/3zDVgEGn74AjkKShyC3gGn"
+        "name": "Lonely on Christmas",
+        "url": "https://open.spotify.com/album/3oG3oJqYCWBFeuBznwd4ft"
       },
       "artists": [
         {
-          "name": "Lola Kirke",
-          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
+          "name": "Brit Taylor",
+          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
+        },
+        {
+          "name": "Mike and the Moonpies",
+          "url": "https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi"
         }
       ],
-      "duration_ms": 210508,
-      "name": "Christmas Alone - Live",
-      "url": "https://open.spotify.com/track/4KkzdFdx8KVQNt1hBDLWFV"
+      "duration_ms": 189118,
+      "name": "Lonely on Christmas",
+      "url": "https://open.spotify.com/track/5PfYhLWG9tiLdcr4oPE9XH"
     },
     {
       "added_at": "2024-12-20 18:31:17",
@@ -815,22 +819,18 @@
     {
       "added_at": "2024-12-20 18:31:17",
       "album": {
-        "name": "Lonely on Christmas",
-        "url": "https://open.spotify.com/album/3oG3oJqYCWBFeuBznwd4ft"
+        "name": "Christmas Alone (Live from the Blue Room)",
+        "url": "https://open.spotify.com/album/3zDVgEGn74AjkKShyC3gGn"
       },
       "artists": [
         {
-          "name": "Brit Taylor",
-          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
-        },
-        {
-          "name": "Mike and the Moonpies",
-          "url": "https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi"
+          "name": "Lola Kirke",
+          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
         }
       ],
-      "duration_ms": 189118,
-      "name": "Lonely on Christmas",
-      "url": "https://open.spotify.com/track/5PfYhLWG9tiLdcr4oPE9XH"
+      "duration_ms": 210508,
+      "name": "Christmas Alone - Live",
+      "url": "https://open.spotify.com/track/4KkzdFdx8KVQNt1hBDLWFV"
     },
     {
       "added_at": "2024-12-20 18:31:17",

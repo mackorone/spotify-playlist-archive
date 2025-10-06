@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6qlZhVcPgV2bWXdUuEDoST">Ink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 518 likes - 59 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 518 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 | 43 | [Change](https://open.spotify.com/track/4tm4ucTjb7eJ85iz9tZjnt) | [YK Osiris](https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM) | [The Golden Child](https://open.spotify.com/album/52iN0AN48yBH5pF6C65ZmI) | 2:36 |
 | 44 | [My Theme Song](https://open.spotify.com/track/4Yj4sWjaEmUHsL7203EcZZ) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:29 |
 | 45 | [Black Rose](https://open.spotify.com/track/2weAP38rRFExVCWkOUJSiX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 2:15 |
-| 46 | [Turquoise Cowboy](https://open.spotify.com/track/4LifLPjq01uBbFF0yKTrzU) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Turquoise Cowboy](https://open.spotify.com/album/1JMzzKhYbJcYNQ3VKC0lpw) | 3:16 |
+| 46 | [Turquoise Cowboy](https://open.spotify.com/track/4BZSY7v7z0uOrcOQ2vU9GA) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 3:13 |
 | 47 | [Luv Everybody](https://open.spotify.com/track/2tnBlh7oMnqaTsHlejsaHM) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb) | 2:42 |
 | 48 | [Suga](https://open.spotify.com/track/6hxXriaJ6Uf3riLxQsN3CA) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Code Red](https://open.spotify.com/album/6swMxrdIwr5SMa2R3Zfqp9) | 3:21 |
-| 49 | [Hoedown](https://open.spotify.com/track/0TBz8UMrTueMeRCzZfbkwA) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Hoedown](https://open.spotify.com/album/3TRJXcC6rlzBYzK9lvVkvH) | 2:59 |
+| 49 | [Hoedown](https://open.spotify.com/track/4qPdEFwFiUaOVi6sZzQadZ) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 2:56 |
 | 50 | [Paid In Full](https://open.spotify.com/track/1RQ38nLe5BiB6SneqIPCpZ) | [DJ Bubba](https://open.spotify.com/artist/38hnmRmRWrRibnjmtQQ91Y), [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [P1](https://open.spotify.com/artist/5JsVRWPRBOzxoPOWPIdGTc), [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv) | [Paid In Full](https://open.spotify.com/album/6U0isZJ2ryGi3YfoH6shvG) | 2:51 |
 | 51 | [flowers](https://open.spotify.com/track/6y3cOwUVb3MZQQzzLcscYb) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 3:44 |
 | 52 | [Landslide](https://open.spotify.com/track/4ACXc7diLQP7kQcoTgh0d1) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/2FGOxwdP7MMd4GfVl2Uf7f) | 3:34 |
@@ -67,5 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 | 57 | [Smokey Mirrors](https://open.spotify.com/track/595nKxCNnFgftXqRFNy7E0) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:10 |
 | 58 | [Now & Then](https://open.spotify.com/track/4zj8zdzgK2bvRpK11kbWtp) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:29 |
 | 59 | [Before You Enter My Soul](https://open.spotify.com/track/5y0lEABp85Esv9bYUE5CvT) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Backstreets](https://open.spotify.com/album/5uS9gKTAgWEEk3XdEPcoc0) | 3:42 |
+| 60 | [Blink of an Eye](https://open.spotify.com/track/2TtyGeOLJxMnbK1VgdIPp7) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 3:30 |
 
-Snapshot ID: `Ab9/fgAAAACW/JcB+r2Z4WrHx4SwShS8`
+Snapshot ID: `Ab+FMgAAAAD2bLFCMkF0pN9LsNhe43Xk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 
 > 2025 yazına damga vuran şarkılar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,899 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,891 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 | 2 | [YAPAR MISIN?](https://open.spotify.com/track/1o1y0rEQzj9HyB7grfQyl8) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [YAPAR MISIN?](https://open.spotify.com/album/6wCoZSFVEl52dncyZh2juC) | 2:37 |
 | 3 | [SONBAHAR](https://open.spotify.com/track/1YrEoI9Cn6pmCXuiUGQ0Kf) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [SONBAHAR](https://open.spotify.com/album/2KAvMXHNqyZbQnrwg5tavY) | 2:30 |
 | 4 | [Bir Çift Göz](https://open.spotify.com/track/0DDTcst1ymDkTla649Mu0H) | [Norm Ender](https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ), [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Bir Çift Göz](https://open.spotify.com/album/2LyB2W3XhNwMdZ2Ww9NlVH) | 3:27 |
-| 5 | [TAK TAK TAK](https://open.spotify.com/track/28TeosAOQZvsftj5ZxucaX) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [TAK TAK TAK](https://open.spotify.com/album/5QWdCZD91757ow6zCrYTnr) | 1:30 |
-| 6 | [Seni Düşündüm](https://open.spotify.com/track/6oZ8BPQSQog7Q3LPUVgxCr) | [Çağla](https://open.spotify.com/artist/6z5LOKPoOll2mbBqsQrMqp), [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy) | [Seni Düşündüm](https://open.spotify.com/album/19pHsDprhf7iUmvia6TDhH) | 3:16 |
+| 5 | [Seni Düşündüm](https://open.spotify.com/track/6oZ8BPQSQog7Q3LPUVgxCr) | [Çağla](https://open.spotify.com/artist/6z5LOKPoOll2mbBqsQrMqp), [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy) | [Seni Düşündüm](https://open.spotify.com/album/19pHsDprhf7iUmvia6TDhH) | 3:16 |
+| 6 | [TAK TAK TAK](https://open.spotify.com/track/28TeosAOQZvsftj5ZxucaX) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [TAK TAK TAK](https://open.spotify.com/album/5QWdCZD91757ow6zCrYTnr) | 1:30 |
 | 7 | [SEVMEYİ DENEMEDİN](https://open.spotify.com/track/3ff93VTp2DBbNnDEsAW8Cm) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [OBSESIF](https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic) | 2:52 |
 | 8 | [Yerinde Dur](https://open.spotify.com/track/3JTphuwOWcI28J2vS4gMmI) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Yerinde Dur](https://open.spotify.com/album/2dWhGxwCOtruhYXuT84cJ8) | 2:28 |
 | 9 | [Aşiyan](https://open.spotify.com/track/00Yab3ZoSz1nfy6iyGPJOG) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Aşiyan](https://open.spotify.com/album/5Cv1gREuQjfm8vM2b0SrsT) | 2:43 |
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 | 34 | [Serserinim](https://open.spotify.com/track/7EvDurG8Qcx1549Tc7Gzpm) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Serserinim](https://open.spotify.com/album/1aMjQcqxbXFOUj7N00ti5S) | 1:44 |
 | 35 | [Kayboldum Masalında](https://open.spotify.com/track/1BpEKaFPwQY2KtoDQawpt2) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn), [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Kayboldum Masalında](https://open.spotify.com/album/7M2QsyKsuRE2We8pTa2oEc) | 4:15 |
 | 36 | [Sahte Dualar](https://open.spotify.com/track/3bUkBCbcOg787J2jEp3lN7) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Sahte Dualar](https://open.spotify.com/album/2NHiHNUsDwEW49Y5ss910e) | 3:30 |
-| 37 | [Bi Gece Gidebilirim](https://open.spotify.com/track/7L52bWVSbEPSwyHF4IeVk8) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Bi Gece Gidebilirim](https://open.spotify.com/album/54x3BPwQEcauxQXFRF53Qd) | 3:06 |
-| 38 | [GECELERDE](https://open.spotify.com/track/2W1lqgFE5bW3RyLyilTfF2) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [GECELERDE](https://open.spotify.com/album/6GGM3YG5GEtvv0zrdNySxs) | 2:27 |
+| 37 | [GECELERDE](https://open.spotify.com/track/2W1lqgFE5bW3RyLyilTfF2) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [GECELERDE](https://open.spotify.com/album/6GGM3YG5GEtvv0zrdNySxs) | 2:27 |
+| 38 | [Bi Gece Gidebilirim](https://open.spotify.com/track/7L52bWVSbEPSwyHF4IeVk8) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Bi Gece Gidebilirim](https://open.spotify.com/album/54x3BPwQEcauxQXFRF53Qd) | 3:06 |
 | 39 | [AFACAN](https://open.spotify.com/track/4wcgZ4tW9FJIf7npjESE72) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [AFACAN](https://open.spotify.com/album/2E4vqnsYlAgWK2fr7qeehR) | 2:12 |
 | 40 | [YANILIR GİBİ](https://open.spotify.com/track/20hHiVlL96ctdsrP2Nsydj) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf), [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [TEK KİŞİLİK MASA](https://open.spotify.com/album/1PNjEh6e0T28jszrn3Mwva) | 4:27 |
 | 41 | [Adı Yok](https://open.spotify.com/track/7IZ9Fw0EYYhReIdYiUUoIe) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx) | [Adı Yok](https://open.spotify.com/album/4sISEKhVWCYRb2Rct7iLLI) | 2:39 |
-| 42 | [Çek Tetiği](https://open.spotify.com/track/021NnHd8KIjzaNQi1fQMGK) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Bachi\-Bouzouk](https://open.spotify.com/album/7MgIYClJAmFL0MG3oHINOE) | 3:00 |
-| 43 | [Kabul](https://open.spotify.com/track/2nyigm34dUR20LTLTt2g11) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Kabul](https://open.spotify.com/album/0K7EIVgGtYvc71CpGQBtt3) | 3:52 |
+| 42 | [Kabul](https://open.spotify.com/track/2nyigm34dUR20LTLTt2g11) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Kabul](https://open.spotify.com/album/0K7EIVgGtYvc71CpGQBtt3) | 3:52 |
+| 43 | [Çek Tetiği](https://open.spotify.com/track/021NnHd8KIjzaNQi1fQMGK) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Bachi\-Bouzouk](https://open.spotify.com/album/7MgIYClJAmFL0MG3oHINOE) | 3:00 |
 | 44 | [Aşkına Destan](https://open.spotify.com/track/215Fb7rnOHnXlgdF6kzMBc) | [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Aşkına Destan](https://open.spotify.com/album/2taY4vXAx90UqNiXyWNOKj) | 2:54 |
 | 45 | [Mucize](https://open.spotify.com/track/6zfnaEJ1e2pQULGX5Qm3to) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Mucize](https://open.spotify.com/album/3rLShAcaMZZls5uZx7bPE4) | 2:37 |
 | 46 | [Ağla](https://open.spotify.com/track/2fnTOxrBmArhS5SZSE20zM) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Ağla](https://open.spotify.com/album/49vH7j0N445dlfC9jnXeiy) | 3:04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p37CU.md) - [plain]
 
 > This is EARTHGANG\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,428 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,427 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p37CU.md) - [plain]
 | 13 | [D/vision](https://open.spotify.com/track/0DcBQ7dMhCMvk9t6L4XI7G) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [The Never Story](https://open.spotify.com/album/1gPqbxhs90kppgOVxGOPzd) | 4:25 |
 | 14 | [Been A Minute...](https://open.spotify.com/track/4QRRjCZLbmnqDGtsKNEiOh) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Been A Minute...](https://open.spotify.com/album/7381wOtgfTOq2x3pSjkmub) | 3:09 |
 | 15 | [Wells Fargo \(with JID & EARTHGANG feat\. Buddy & Guapdad 4000\) \- Interlude](https://open.spotify.com/track/2gtFMLjQpCTGekMi4oXZxN) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 2:03 |
-| 16 | [Meditate \(feat\. J.I.D.\)](https://open.spotify.com/track/0Eqm7hD828cATBLUx2fJox) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Rags](https://open.spotify.com/album/6vWPa9ZBLjjh7jsG4hRskQ) | 4:38 |
-| 17 | [LORD FORGIVE ME](https://open.spotify.com/track/3KVS5CzCxsfQ4iZcOpD7xk) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 3:24 |
+| 16 | [LORD FORGIVE ME](https://open.spotify.com/track/3KVS5CzCxsfQ4iZcOpD7xk) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 3:24 |
+| 17 | [Meditate \(feat\. J.I.D.\)](https://open.spotify.com/track/0Eqm7hD828cATBLUx2fJox) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Rags](https://open.spotify.com/album/6vWPa9ZBLjjh7jsG4hRskQ) | 4:38 |
 | 18 | [Opium \(feat\. EARTHGANG\)](https://open.spotify.com/track/4jNs9cJBsFTiahZAe3iuwV) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Song Machine, Season One: Strange Timez \(Deluxe\)](https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz) | 6:50 |
 | 19 | [Big Love \(with EARTHGANG & MNDR\)](https://open.spotify.com/track/25Q6XHjKEyaXzCvKlwDpPP) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Here For Now](https://open.spotify.com/album/12BBYEXH7hGF6io8xNuXSJ) | 2:47 |
 | 20 | [You Comfort Me](https://open.spotify.com/track/6YT5x2mq6uSyhjjrmGEbir) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Songs That Made Me Feel](https://open.spotify.com/album/3X8HsMV6AyN2RZp22JE7HR) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p37CU.md) - [plain]
 | 49 | [Big Titties \(feat\. Baauer and EarthGang\)](https://open.spotify.com/track/77lHSh6eoMiKWRxczAPQ1k) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Kenny Beats](https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Anger Management](https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf) | 2:52 |
 | 50 | [Bank](https://open.spotify.com/track/0uqJQ1k1N63nl4tAYW8t2A) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Mirrorland](https://open.spotify.com/album/2JtlTPzThXs3Pvz8V2iBIB) | 2:59 |
 
-Snapshot ID: `aN8SAAAAAACmG0TYCop1RSbbnQwDKtfZ`
+Snapshot ID: `aOBjgAAAAAAZRqLc5sxn63/DKFMNW0Rh`

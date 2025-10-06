@@ -1,6 +1,6 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 63487,
+  "num_followers": 63504,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,26 @@
     {
       "added_at": "2024-07-05 00:01:00",
       "album": {
+        "name": "Cornerstone (Live)",
+        "url": "https://open.spotify.com/album/5wBEavD9XYCXY6ALqFHeLW"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+        }
+      ],
+      "duration_ms": 346346,
+      "name": "I Surrender - Live",
+      "url": "https://open.spotify.com/track/4irEfIEfEXuaPVOYDCw5Rm"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
         "name": "No Longer Bound (I'm Free)",
         "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
       },
@@ -407,26 +427,6 @@
       "duration_ms": 175188,
       "name": "No Longer Bound (I'm Free)",
       "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
-    },
-    {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
-        "name": "Cornerstone (Live)",
-        "url": "https://open.spotify.com/album/5wBEavD9XYCXY6ALqFHeLW"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
-        }
-      ],
-      "duration_ms": 346346,
-      "name": "I Surrender - Live",
-      "url": "https://open.spotify.com/track/4irEfIEfEXuaPVOYDCw5Rm"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -489,6 +489,26 @@
       "url": "https://open.spotify.com/track/0Dlm41iXvTsIVsEOce3yX6"
     },
     {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
+        "name": "Zion",
+        "url": "https://open.spotify.com/album/7LHFVlsndw7HxDGJPWJS7S"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 535991,
+      "name": "Oceans (Where Feet May Fail)",
+      "url": "https://open.spotify.com/track/5SDcksP8En1l6RtTY1wzHc"
+    },
+    {
       "added_at": "2023-12-01 00:01:00",
       "album": {
         "name": "In The Room (feat. Tasha Cobbs Leonard)",
@@ -515,26 +535,6 @@
       "duration_ms": 597481,
       "name": "In The Room (feat. Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k"
-    },
-    {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
-        "name": "Zion",
-        "url": "https://open.spotify.com/album/7LHFVlsndw7HxDGJPWJS7S"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 535991,
-      "name": "Oceans (Where Feet May Fail)",
-      "url": "https://open.spotify.com/track/5SDcksP8En1l6RtTY1wzHc"
     },
     {
       "added_at": "2024-08-16 00:01:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "yet (don't give up)",
+        "url": "https://open.spotify.com/album/2R9rTZLe39Z0QZrCKpdqft"
+      },
+      "artists": [
+        {
+          "name": "the King will come",
+          "url": "https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8"
+        }
+      ],
+      "duration_ms": 302042,
+      "name": "yet (don't give up)",
+      "url": "https://open.spotify.com/track/6I2GrwoJw23AKpqpE14KFq"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "YET (feat. Ashley Hess & the King will come)",
         "url": "https://open.spotify.com/album/5UrquVUYkl6qbyHkip4SNb"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 350194,
       "name": "YET (feat. Ashley Hess & the King will come)",
       "url": "https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "yet (don't give up)",
-        "url": "https://open.spotify.com/album/2R9rTZLe39Z0QZrCKpdqft"
-      },
-      "artists": [
-        {
-          "name": "the King will come",
-          "url": "https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8"
-        }
-      ],
-      "duration_ms": 302042,
-      "name": "yet (don't give up)",
-      "url": "https://open.spotify.com/track/6I2GrwoJw23AKpqpE14KFq"
     },
     {
       "added_at": "2023-12-01 00:01:00",

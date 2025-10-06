@@ -1,6 +1,6 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e17\u0e35\u0e48\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49!",
-  "num_followers": 122048,
+  "num_followers": 122072,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
-        "name": "Uprising",
-        "url": "https://open.spotify.com/album/4HusBQo7V60wRjyJelOr7X"
-      },
-      "artists": [
-        {
-          "name": "Musketeers",
-          "url": "https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9"
-        }
-      ],
-      "duration_ms": 238392,
-      "name": "\u0e41\u0e04\u0e48\u0e04\u0e38\u0e13",
-      "url": "https://open.spotify.com/track/5u8iqPNTa3ryOqeiNdgi6o"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
         "name": "\u0e23\u0e31\u0e01\u0e23\u0e31\u0e01\u0e23\u0e31\u0e01\u0e23\u0e31\u0e01\u0e23\u0e31\u0e01\u0e23\u0e31\u0e01\u0e23\u0e31\u0e01 (Talk Less)",
         "url": "https://open.spotify.com/album/0NYeQR4Q9C7FBnpbO7Pp0C"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 244577,
       "name": "\u0e23\u0e31\u0e01\u0e23\u0e31\u0e01\u0e23\u0e31\u0e01\u0e23\u0e31\u0e01\u0e23\u0e31\u0e01\u0e23\u0e31\u0e01\u0e23\u0e31\u0e01 (Talk Less)",
       "url": "https://open.spotify.com/track/1LV7y6Foa5JFMOUc0qyj4b"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/4HusBQo7V60wRjyJelOr7X"
+      },
+      "artists": [
+        {
+          "name": "Musketeers",
+          "url": "https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9"
+        }
+      ],
+      "duration_ms": 238392,
+      "name": "\u0e41\u0e04\u0e48\u0e04\u0e38\u0e13",
+      "url": "https://open.spotify.com/track/5u8iqPNTa3ryOqeiNdgi6o"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -107,22 +107,6 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
-        "name": "\u0e08\u0e35\u0e1a",
-        "url": "https://open.spotify.com/album/5eN8G60BJAtnKXZO9asSRI"
-      },
-      "artists": [
-        {
-          "name": "QLER",
-          "url": "https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk"
-        }
-      ],
-      "duration_ms": 224261,
-      "name": "\u0e08\u0e35\u0e1a",
-      "url": "https://open.spotify.com/track/5bvgLLWn7IFu6mOa46XaoV"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
         "name": "Luxury",
         "url": "https://open.spotify.com/album/0T8k6o8VFOi8Ve5ey2h6Yk"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 246923,
       "name": "Luxury",
       "url": "https://open.spotify.com/track/1EOWBTE1GPKcxz3wlR08tW"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
+        "name": "\u0e08\u0e35\u0e1a",
+        "url": "https://open.spotify.com/album/5eN8G60BJAtnKXZO9asSRI"
+      },
+      "artists": [
+        {
+          "name": "QLER",
+          "url": "https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk"
+        }
+      ],
+      "duration_ms": 224261,
+      "name": "\u0e08\u0e35\u0e1a",
+      "url": "https://open.spotify.com/track/5bvgLLWn7IFu6mOa46XaoV"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
-        "name": "\u0e1d\u0e32\u0e01\u0e43\u0e08",
-        "url": "https://open.spotify.com/album/4okyxzayrSFXEzGJg79vKa"
-      },
-      "artists": [
-        {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
-        }
-      ],
-      "duration_ms": 259285,
-      "name": "\u0e1d\u0e32\u0e01\u0e43\u0e08",
-      "url": "https://open.spotify.com/track/0WmHAw7c5LppZdca1amE6f"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
         "name": "\u0e22\u0e34\u0e19\u0e14\u0e35 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23\u0e21\u0e32\u0e15\u0e32\u0e25\u0e14\u0e32 \u0e0a\u0e48\u0e2d\u0e07 3)",
         "url": "https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 197250,
       "name": "\u0e22\u0e34\u0e19\u0e14\u0e35 - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23\u0e21\u0e32\u0e15\u0e32\u0e25\u0e14\u0e32 \u0e0a\u0e48\u0e2d\u0e07 3",
       "url": "https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
+        "name": "\u0e1d\u0e32\u0e01\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/4okyxzayrSFXEzGJg79vKa"
+      },
+      "artists": [
+        {
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "duration_ms": 259285,
+      "name": "\u0e1d\u0e32\u0e01\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/0WmHAw7c5LppZdca1amE6f"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
-        "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e40\u0e25\u0e22 (Best Luck)",
-        "url": "https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u"
-      },
-      "artists": [
-        {
-          "name": "fellow fellow",
-          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e40\u0e25\u0e22 (Best Luck)",
-      "url": "https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
         "name": "\u0e01\u0e35\u0e48\u0e2b\u0e21\u0e37\u0e48\u0e19\u0e04\u0e23\u0e31\u0e49\u0e07\u0e17\u0e35\u0e48\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e04\u0e19\u0e40\u0e14\u0e34\u0e21 (Fall And Fall In Love) [From \u0e01\u0e35\u0e48\u0e2b\u0e21\u0e37\u0e48\u0e19\u0e1f\u0e49\u0e32 Your Sky Series]",
         "url": "https://open.spotify.com/album/1InOIV7WBx7JZM4kc97iXI"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 203013,
       "name": "\u0e01\u0e35\u0e48\u0e2b\u0e21\u0e37\u0e48\u0e19\u0e04\u0e23\u0e31\u0e49\u0e07\u0e17\u0e35\u0e48\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e04\u0e19\u0e40\u0e14\u0e34\u0e21 (Fall And Fall In Love) - From \u0e01\u0e35\u0e48\u0e2b\u0e21\u0e37\u0e48\u0e19\u0e1f\u0e49\u0e32 Your Sky Series",
       "url": "https://open.spotify.com/track/1HFeLuglS3JcHREWnEoqzj"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e40\u0e25\u0e22 (Best Luck)",
+        "url": "https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u"
+      },
+      "artists": [
+        {
+          "name": "fellow fellow",
+          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e40\u0e25\u0e22 (Best Luck)",
+      "url": "https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
-        "name": "\u0e40\u0e18\u0e2d\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e01\u0e38\u0e21\u0e20\u0e32",
-        "url": "https://open.spotify.com/album/1LYnNDgFSwltBX0d6inJff"
-      },
-      "artists": [
-        {
-          "name": "fellow fellow",
-          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "\u0e40\u0e18\u0e2d\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e01\u0e38\u0e21\u0e20\u0e32",
-      "url": "https://open.spotify.com/track/0UdosedsHuO7pFUxOLJNDT"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
         "name": "\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e40\u0e23\u0e32",
         "url": "https://open.spotify.com/album/2XWxn9NFOs09U5PjNi85DF"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 212500,
       "name": "\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e40\u0e23\u0e32",
       "url": "https://open.spotify.com/track/32QmhtvBdGRbgijNhpLlOu"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e01\u0e38\u0e21\u0e20\u0e32",
+        "url": "https://open.spotify.com/album/1LYnNDgFSwltBX0d6inJff"
+      },
+      "artists": [
+        {
+          "name": "fellow fellow",
+          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "\u0e40\u0e18\u0e2d\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e14\u0e37\u0e2d\u0e19\u0e01\u0e38\u0e21\u0e20\u0e32",
+      "url": "https://open.spotify.com/track/0UdosedsHuO7pFUxOLJNDT"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
-        "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
-        "url": "https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg"
-      },
-      "artists": [
-        {
-          "name": "Violette Wautier",
-          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
-        }
-      ],
-      "duration_ms": 240450,
-      "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
-      "url": "https://open.spotify.com/track/126PlW2V73OM9n1s1zOKW9"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
         "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
         "url": "https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 200000,
       "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
+        "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
+        "url": "https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg"
+      },
+      "artists": [
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "duration_ms": 240450,
+      "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
+      "url": "https://open.spotify.com/track/126PlW2V73OM9n1s1zOKW9"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
-        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e41\u0e23\u0e01 (Blooming)",
-        "url": "https://open.spotify.com/album/6ZUJeCFflkdXgz1p8LSmP4"
-      },
-      "artists": [
-        {
-          "name": "LANDOKMAI",
-          "url": "https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt"
-        }
-      ],
-      "duration_ms": 257566,
-      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e41\u0e23\u0e01 - Blooming",
-      "url": "https://open.spotify.com/track/79S6mQUxOs8ANRmJTS7agU"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
         "name": "\u0e22\u0e34\u0e49\u0e21\u0e01\u0e47\u0e1e\u0e2d",
         "url": "https://open.spotify.com/album/0IsfsMc7MH55yjHssa3Mfd"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 193548,
       "name": "\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e17\u0e38\u0e01\u0e27\u0e31\u0e19\u0e01\u0e47\u0e44\u0e14\u0e49\u0e19\u0e30",
       "url": "https://open.spotify.com/track/0WF0gPr8uLyWwPhmOiNYm4"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
+        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e41\u0e23\u0e01 (Blooming)",
+        "url": "https://open.spotify.com/album/6ZUJeCFflkdXgz1p8LSmP4"
+      },
+      "artists": [
+        {
+          "name": "LANDOKMAI",
+          "url": "https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt"
+        }
+      ],
+      "duration_ms": 257566,
+      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e41\u0e23\u0e01 - Blooming",
+      "url": "https://open.spotify.com/track/79S6mQUxOs8ANRmJTS7agU"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -1487,70 +1487,6 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
-        "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
-        "url": "https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J"
-      },
-      "artists": [
-        {
-          "name": "THEMOONWILLALWAYSBEWITHME",
-          "url": "https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz"
-        }
-      ],
-      "duration_ms": 225714,
-      "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
-      "url": "https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
-        "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 - Single",
-        "url": "https://open.spotify.com/album/2fuw0L6d7EGwyEQQfB0WkU"
-      },
-      "artists": [
-        {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
-        }
-      ],
-      "duration_ms": 246434,
-      "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 OST.\u0e1a\u0e38\u0e1e\u0e40\u0e1e\u0e2a\u0e31\u0e19\u0e19\u0e34\u0e27\u0e32\u0e2a 2",
-      "url": "https://open.spotify.com/track/6GDIW3Le2tM0hMWD3pvefH"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
-        "name": "\u0e25\u0e31\u0e48\u0e19\u0e17\u0e21 - Single",
-        "url": "https://open.spotify.com/album/0Oe4z8uvnmJNTV8PhobcUs"
-      },
-      "artists": [
-        {
-          "name": "Cocktail",
-          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
-        }
-      ],
-      "duration_ms": 277674,
-      "name": "\u0e25\u0e31\u0e48\u0e19\u0e17\u0e21 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e2b\u0e2d\u0e21\u0e01\u0e25\u0e34\u0e48\u0e19\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01)",
-      "url": "https://open.spotify.com/track/2uZ6hKHh0UjZMz0YKzCLT1"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
-        "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
-        "url": "https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D"
-      },
-      "artists": [
-        {
-          "name": "Ae Jirakorn",
-          "url": "https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1"
-        }
-      ],
-      "duration_ms": 246904,
-      "name": "\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e44\u0e1b\u0e08\u0e19\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c",
-      "url": "https://open.spotify.com/track/4Sm3ufM7YPRyY1ElbMCWqZ"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
         "name": "All You Need is Love 3",
         "url": "https://open.spotify.com/album/5mv8MrHfjarF9xeT1DHSpD"
       },
@@ -1575,6 +1511,70 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
+        "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
+        "url": "https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J"
+      },
+      "artists": [
+        {
+          "name": "THEMOONWILLALWAYSBEWITHME",
+          "url": "https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz"
+        }
+      ],
+      "duration_ms": 225714,
+      "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
+      "url": "https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
+        "name": "\u0e25\u0e31\u0e48\u0e19\u0e17\u0e21 - Single",
+        "url": "https://open.spotify.com/album/0Oe4z8uvnmJNTV8PhobcUs"
+      },
+      "artists": [
+        {
+          "name": "Cocktail",
+          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
+        }
+      ],
+      "duration_ms": 277674,
+      "name": "\u0e25\u0e31\u0e48\u0e19\u0e17\u0e21 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e2b\u0e2d\u0e21\u0e01\u0e25\u0e34\u0e48\u0e19\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01)",
+      "url": "https://open.spotify.com/track/2uZ6hKHh0UjZMz0YKzCLT1"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 - Single",
+        "url": "https://open.spotify.com/album/2fuw0L6d7EGwyEQQfB0WkU"
+      },
+      "artists": [
+        {
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "duration_ms": 246434,
+      "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 OST.\u0e1a\u0e38\u0e1e\u0e40\u0e1e\u0e2a\u0e31\u0e19\u0e19\u0e34\u0e27\u0e32\u0e2a 2",
+      "url": "https://open.spotify.com/track/6GDIW3Le2tM0hMWD3pvefH"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
+        "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
+        "url": "https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D"
+      },
+      "artists": [
+        {
+          "name": "Ae Jirakorn",
+          "url": "https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1"
+        }
+      ],
+      "duration_ms": 246904,
+      "name": "\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e44\u0e1b\u0e08\u0e19\u0e19\u0e34\u0e23\u0e31\u0e19\u0e14\u0e23\u0e4c",
+      "url": "https://open.spotify.com/track/4Sm3ufM7YPRyY1ElbMCWqZ"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
         "name": "begins",
         "url": "https://open.spotify.com/album/4esxRZK9lkQEjCt6lkerNR"
       },
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
-        "name": "\u0e1c\u0e39\u0e49\u0e40\u0e14\u0e35\u0e22\u0e27",
-        "url": "https://open.spotify.com/album/2TiiQ167oW1svJVLppgOsv"
+        "name": "Best of MR.TEAM",
+        "url": "https://open.spotify.com/album/2fCIKdtXMGGbDzZXerpLXl"
       },
       "artists": [
         {
-          "name": "Tilly Birds",
-          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
+          "name": "Mr.Team",
+          "url": "https://open.spotify.com/artist/3idQlYHIpkPc7NjGqeCerH"
         }
       ],
-      "duration_ms": 205875,
-      "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e40\u0e02\u0e49\u0e32\u0e21\u0e32 (Worth The Wait)",
-      "url": "https://open.spotify.com/track/6a5f2v5IlyeEXQRn65MFdS"
+      "duration_ms": 243946,
+      "name": "\u0e04\u0e19\u0e43\u0e19\u0e1d\u0e31\u0e19 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e1d\u0e31\u0e19\u0e40\u0e1f\u0e37\u0e48\u0e2d\u0e07)",
+      "url": "https://open.spotify.com/track/5wAiiV03L8YP5HnH0ePMON"
     },
     {
       "added_at": "2025-08-17 11:48:50",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2025-08-17 11:48:50",
       "album": {
+        "name": "\u0e1c\u0e39\u0e49\u0e40\u0e14\u0e35\u0e22\u0e27",
+        "url": "https://open.spotify.com/album/2TiiQ167oW1svJVLppgOsv"
+      },
+      "artists": [
+        {
+          "name": "Tilly Birds",
+          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
+        }
+      ],
+      "duration_ms": 205875,
+      "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e40\u0e02\u0e49\u0e32\u0e21\u0e32 (Worth The Wait)",
+      "url": "https://open.spotify.com/track/6a5f2v5IlyeEXQRn65MFdS"
+    },
+    {
+      "added_at": "2025-08-17 11:48:50",
+      "album": {
         "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
         "url": "https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 326326,
       "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
       "url": "https://open.spotify.com/track/5kEW70VzIYbKL7mUMV4fvH"
-    },
-    {
-      "added_at": "2025-08-17 11:48:50",
-      "album": {
-        "name": "Best of MR.TEAM",
-        "url": "https://open.spotify.com/album/2fCIKdtXMGGbDzZXerpLXl"
-      },
-      "artists": [
-        {
-          "name": "Mr.Team",
-          "url": "https://open.spotify.com/artist/3idQlYHIpkPc7NjGqeCerH"
-        }
-      ],
-      "duration_ms": 243946,
-      "name": "\u0e04\u0e19\u0e43\u0e19\u0e1d\u0e31\u0e19 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e1d\u0e31\u0e19\u0e40\u0e1f\u0e37\u0e48\u0e2d\u0e07)",
-      "url": "https://open.spotify.com/track/5wAiiV03L8YP5HnH0ePMON"
     },
     {
       "added_at": "2025-08-17 11:48:50",

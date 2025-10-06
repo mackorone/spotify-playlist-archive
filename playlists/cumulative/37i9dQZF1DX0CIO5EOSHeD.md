@@ -4,7 +4,7 @@
 
 > Slacker jams.
 
-431 songs - 23 hr 15 min
+432 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Attempt](https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Attempt](https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau) | 4:41 | 2021-09-18 |  |
 | [Attention](https://open.spotify.com/track/4TKAE15440weMFqZeuzprE) | [rainbow frog biscuits](https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT) | [Attention](https://open.spotify.com/album/75htLgjuNRdGrfZLcsT5N3) | 2:46 | 2022-09-13 | 2024-03-20 |
 | [Attention](https://open.spotify.com/track/4UBIzOKyn5pRas034ofcMC) | [rainbow frog biscuits](https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT) | [Attention](https://open.spotify.com/album/4Kv4EH2HQOGV1PG27eIVjN) | 2:46 | 2021-05-21 | 2022-12-14 |
+| [August 19](https://open.spotify.com/track/4c8x6c7l31Hvd4iZNztEuK) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [August 19](https://open.spotify.com/album/1h4VJe5AfMPD7jAr2fLZYP) | 2:35 | 2025-05-01 |  |
 | [Baby](https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Baby](https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0) | 3:57 | 2021-08-22 |  |
 | [babyur2nice](https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk) | [patchymate](https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO) | [Avian](https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY) | 2:00 | 2021-05-22 | 2025-09-01 |
 | [backseat](https://open.spotify.com/track/2ivpTUIMtk6YUWmEGEfbpN) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [backseat](https://open.spotify.com/album/7nYjwblIZN4P6q597kmjNO) | 3:17 | 2021-10-29 | 2022-07-29 |
@@ -106,7 +107,7 @@
 | [delight](https://open.spotify.com/track/2RltG1HQAE9gRpaIPAeOLD) | [Milkz](https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [delight](https://open.spotify.com/album/6b0XXq28wdXP7IrtoOuWpC) | 2:11 | 2021-12-09 | 2022-04-18 |
 | [Desire](https://open.spotify.com/track/1oIsme5EVsevPhgUPFMHxT) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Me Oh My Mirror](https://open.spotify.com/album/7wQxKtAeDiAnGlFXglzodc) | 3:43 | 2021-08-15 | 2022-07-26 |
 | [Desire](https://open.spotify.com/track/2CgjSLZmBqcJZyefZSDFQ3) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Me Oh My Mirror](https://open.spotify.com/album/4FIEhoPQZpjjSS6japEfDx) | 3:43 | 2022-03-30 | 2024-04-19 |
-| [Didn't Want to Go](https://open.spotify.com/track/02TXGl2KRQ7e5sPydK4nX9) | [Slumberville](https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv), [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Didn't Want to Go](https://open.spotify.com/album/4nWF9Pb0K2ehvZhP34aDg4) | 2:09 | 2021-12-09 |  |
+| [Didn't Want to Go](https://open.spotify.com/track/02TXGl2KRQ7e5sPydK4nX9) | [Slumberville](https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv), [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Didn't Want to Go](https://open.spotify.com/album/4nWF9Pb0K2ehvZhP34aDg4) | 2:09 | 2021-12-09 | 2025-10-06 |
 | [Dope Sick](https://open.spotify.com/track/0sAKBIDiIFc6UspothbzAW) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv) | [Dope Sick](https://open.spotify.com/album/2973KhbLLpi58GvCCTIbXn) | 3:15 | 2024-03-19 |  |
 | [Double Life](https://open.spotify.com/track/7nFc9x9hrYeQJl6CtfQz6V) | [Paul Lagac](https://open.spotify.com/artist/3d1qSFaTvaYV49M9eLRmK0) | [Double Life](https://open.spotify.com/album/5tv9RmIAAhAEOLCUhaFspu) | 2:33 | 2021-08-20 | 2022-04-21 |
 | [Dream Wall](https://open.spotify.com/track/21QgJOLugXmaZRtPZ7RlGY) | [Pictish Trail](https://open.spotify.com/artist/2H5FmmxEe60Tl6PZyfa95F) | [Dream Wall](https://open.spotify.com/album/45jKuJZMc2Z8AilIWK6PIA) | 4:41 | 2021-02-06 | 2022-04-21 |

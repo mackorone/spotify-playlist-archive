@@ -1,12 +1,12 @@
 {
   "description": "This is The Jones Girls. The essential tracks, all in one playlist.",
-  "num_followers": 3465,
+  "num_followers": 3466,
   "original_name": "This Is The Jones Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAABIwEGyvrxlA+v15IRdp/1b",
+  "snapshot_id": "aOBjgAAAAADSN8X6xGZOoDVDOznjzW/C",
   "tracks": [
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 252640,
-      "name": "Better Things to Do",
-      "url": "https://open.spotify.com/track/74PH2myT1Q271X9ygKce2I"
+      "duration_ms": 275773,
+      "name": "Why You Wanna Do That to Me",
+      "url": "https://open.spotify.com/track/37qqCwdo1Vx0lKV0t2v3oa"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 275773,
-      "name": "Why You Wanna Do That to Me",
-      "url": "https://open.spotify.com/track/37qqCwdo1Vx0lKV0t2v3oa"
+      "duration_ms": 252640,
+      "name": "Better Things to Do",
+      "url": "https://open.spotify.com/track/74PH2myT1Q271X9ygKce2I"
     },
     {
       "added_at": null,
@@ -692,9 +692,25 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 344000,
-      "name": "What a Fool",
-      "url": "https://open.spotify.com/track/5h1Xn0K0ke0E7fey2kXWtW"
+      "duration_ms": 254533,
+      "name": "Baby I'm Yours",
+      "url": "https://open.spotify.com/track/2WZH1nBAsdKIcaN73w1e4v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
+        "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 231053,
+      "name": "You're the Only Bargain I've Got",
+      "url": "https://open.spotify.com/track/7n99baQQ4F6lGKpz52SNMn"
     },
     {
       "added_at": null,
@@ -743,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
-        "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 231053,
-      "name": "You're the Only Bargain I've Got",
-      "url": "https://open.spotify.com/track/7n99baQQ4F6lGKpz52SNMn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coming Back",
         "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
       },
@@ -784,9 +784,57 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 254533,
-      "name": "Baby I'm Yours",
-      "url": "https://open.spotify.com/track/2WZH1nBAsdKIcaN73w1e4v"
+      "duration_ms": 344000,
+      "name": "What a Fool",
+      "url": "https://open.spotify.com/track/5h1Xn0K0ke0E7fey2kXWtW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luxury Soul 2018",
+        "url": "https://open.spotify.com/album/3wGtvC2F8Bw7ztDIl3ly3L"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 157133,
+      "name": "If You Don't Start Nothing",
+      "url": "https://open.spotify.com/track/3TdBD4lD7gylpWdNsRHx8P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
+        "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 168920,
+      "name": "Don't Be Sorry Be Careful",
+      "url": "https://open.spotify.com/track/0sXmIrSxNdjBPcQCvFGe5t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coming Back",
+        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "Somewhere Alone Tonight",
+      "url": "https://open.spotify.com/track/7p8yn1qom6ABw7zFTYvM6b"
     },
     {
       "added_at": null,
@@ -831,54 +879,6 @@
       "duration_ms": 309000,
       "name": "Could You Be Mine?",
       "url": "https://open.spotify.com/track/592L5UVwLVl6kmxB8E2z7Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luxury Soul 2018",
-        "url": "https://open.spotify.com/album/3wGtvC2F8Bw7ztDIl3ly3L"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 157133,
-      "name": "If You Don't Start Nothing",
-      "url": "https://open.spotify.com/track/3TdBD4lD7gylpWdNsRHx8P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coming Back",
-        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "Somewhere Alone Tonight",
-      "url": "https://open.spotify.com/track/7p8yn1qom6ABw7zFTYvM6b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
-        "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 168920,
-      "name": "Don't Be Sorry Be Careful",
-      "url": "https://open.spotify.com/track/0sXmIrSxNdjBPcQCvFGe5t"
     },
     {
       "added_at": null,

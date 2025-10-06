@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,398 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,406 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 46 | [I Think I Like You Better When You’re Gone](https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:23 |
 | 47 | [NEW DROP](https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:37 |
 | 48 | [We Hug Now](https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [We Hug Now](https://open.spotify.com/album/30h62oCDd1lhOsJibIFieh) | 4:08 |
-| 49 | [The First Time](https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:38 |
-| 50 | [Azul](https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:25 |
-| 51 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
+| 49 | [Azul](https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:25 |
+| 50 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
+| 51 | [The First Time](https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:38 |
 | 52 | [Deslocado](https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu) | [Deslocado](https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R) | 2:59 |
 | 53 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 |
 | 54 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 95 | [Brasileiro](https://open.spotify.com/track/5QxrwYi8HokaPKgApOhoDN) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Brasileiro](https://open.spotify.com/album/2gPF15vJyaU8QErbQlvki7) | 2:38 |
 | 96 | [Meneaito](https://open.spotify.com/track/4Cy1wIbi2TGoiCBXE9qBID) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Costel Biju](https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY) | [Meneaito](https://open.spotify.com/album/7nAYBo6ma8p4sGj9cig5Bb) | 2:39 |
 | 97 | [Fantasy](https://open.spotify.com/track/26L8DBVuNze7p4Awek9je5) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Fantasy](https://open.spotify.com/album/4gYjYUEqs9Npy57LS2zhRA) | 2:23 |
-| 98 | [Dientes](https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Dientes](https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O) | 2:46 |
-| 99 | [Mercedes](https://open.spotify.com/track/7CzIPuAZjl1K8wYPOOzHyL) | [Iuly Neamtu](https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Mercedes](https://open.spotify.com/album/1Xz7MvPHQ8U5YBrNtOztWL) | 2:45 |
+| 98 | [Mercedes](https://open.spotify.com/track/7CzIPuAZjl1K8wYPOOzHyL) | [Iuly Neamtu](https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Mercedes](https://open.spotify.com/album/1Xz7MvPHQ8U5YBrNtOztWL) | 2:45 |
+| 99 | [Dientes](https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Dientes](https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O) | 2:46 |
 | 100 | [Marae](https://open.spotify.com/track/0B0G4rBspOqDL7Ap9pgFm0) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [ATIPIC](https://open.spotify.com/album/77EqeG8eEhpdTWwYlc4kW0) | 3:02 |
 
 Snapshot ID: `AAAAAAKEuTXJnpYNF6OhCITC1wZtD/mq`

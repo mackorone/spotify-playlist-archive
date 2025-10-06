@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 207772,
+  "num_followers": 207812,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAAD5pi7U5FodtEKihHJ9BoSj",
+  "snapshot_id": "aOBjgAAAAACL9G6n3Z8PIjYpJdqtNJo2",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Volvi\u00f3 A Amanecer",
+        "url": "https://open.spotify.com/album/4djLVh799E7iDt4qyKG7Cr"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 222066,
+      "name": "Volvi\u00f3 A Amanecer",
+      "url": "https://open.spotify.com/track/0dcVgVt6fPoJnZl52xUG4a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sin Ti",
         "url": "https://open.spotify.com/album/4IbsYpeHXOiRiGYfMriL1i"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 346038,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/0E7Ue4jKLBSNnHfpb5qLS0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Volvi\u00f3 A Amanecer",
-        "url": "https://open.spotify.com/album/4djLVh799E7iDt4qyKG7Cr"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 222066,
-      "name": "Volvi\u00f3 A Amanecer",
-      "url": "https://open.spotify.com/track/0dcVgVt6fPoJnZl52xUG4a"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Camino",
+        "url": "https://open.spotify.com/album/6OgELu9sCBTURNGzdykl2v"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 217913,
+      "name": "Mi Camino",
+      "url": "https://open.spotify.com/track/0JUO8vzP1ggpnA3DODSiNC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Receta",
         "url": "https://open.spotify.com/album/2QgKob0qHmbDkIsugkw31v"
       },
@@ -715,18 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Camino",
-        "url": "https://open.spotify.com/album/6OgELu9sCBTURNGzdykl2v"
+        "name": "En El Avi\u00f3n",
+        "url": "https://open.spotify.com/album/7kXMF180yIJXGqcj8GBEta"
       },
       "artists": [
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
         {
           "name": "Lefty Sm",
           "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 217913,
-      "name": "Mi Camino",
-      "url": "https://open.spotify.com/track/0JUO8vzP1ggpnA3DODSiNC"
+      "duration_ms": 227750,
+      "name": "En El Avi\u00f3n",
+      "url": "https://open.spotify.com/track/42u9e0pWIPYcaPERtBSJda"
     },
     {
       "added_at": null,
@@ -747,26 +767,6 @@
       "duration_ms": 144414,
       "name": "Barrio (with Lefty Sm)",
       "url": "https://open.spotify.com/track/31L6JkBku2Oq4D5IvuOvYv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En El Avi\u00f3n",
-        "url": "https://open.spotify.com/album/7kXMF180yIJXGqcj8GBEta"
-      },
-      "artists": [
-        {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 227750,
-      "name": "En El Avi\u00f3n",
-      "url": "https://open.spotify.com/track/42u9e0pWIPYcaPERtBSJda"
     },
     {
       "added_at": null,

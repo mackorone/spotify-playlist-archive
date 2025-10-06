@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 31 | [EVERYTHING](https://open.spotify.com/track/0e5VVBA3Y3w0uCiHoWgXNQ) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [Pretty In Black \(Deluxe\)](https://open.spotify.com/album/0mYQnhiqwscLVlk0LgVia1) | 1:45 |
 | 32 | [100YD Dash \(Madden 20 Original Soundtrack\)](https://open.spotify.com/track/3udJ09ioWBam8g9AlfUpvY) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP) | [100YD Dash \(Madden 20 Original Soundtrack\)](https://open.spotify.com/album/4UyKbjtQ4cn8UOUHNlLWPR) | 2:42 |
 | 33 | [Issues](https://open.spotify.com/track/52jtTbKkCMKlOccyzhoNI9) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [I GOT ISSUES](https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ) | 2:20 |
-| 34 | [Switch](https://open.spotify.com/track/6KCzYRnwngV2aYykXRPFU8) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Switch](https://open.spotify.com/album/6xTbTfx554N3fTIte4LP8n) | 3:09 |
-| 35 | [GO SHORTY](https://open.spotify.com/track/4zX3kNYoVwmU1dkkg5zvNt) | [SWAVAY](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [ALMETHA’S SON](https://open.spotify.com/album/1xGuwE8Kx83IOZRPHnoUKA) | 3:53 |
+| 34 | [GO SHORTY](https://open.spotify.com/track/4zX3kNYoVwmU1dkkg5zvNt) | [SWAVAY](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [ALMETHA’S SON](https://open.spotify.com/album/1xGuwE8Kx83IOZRPHnoUKA) | 3:53 |
+| 35 | [Switch](https://open.spotify.com/track/6KCzYRnwngV2aYykXRPFU8) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Switch](https://open.spotify.com/album/6xTbTfx554N3fTIte4LP8n) | 3:09 |
 | 36 | [Nada](https://open.spotify.com/track/3CVEQzKtULatPcRoCUMDvU) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [2030](https://open.spotify.com/album/3EDheqSnBlJIST8dU7baWF) | 2:17 |
 | 37 | [FAMOUS.](https://open.spotify.com/track/21prC6Di5O8rqycidi5IDv) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [when angels cry](https://open.spotify.com/album/3Pxu2ymEhjctOANjYZh5eA) | 2:00 |
 | 38 | [LET IT GO](https://open.spotify.com/track/6U0aE7POLQ0mQJd3gutMub) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [LVL 36](https://open.spotify.com/album/2en8CrkQChgJ8YJMyJPtmF) | 3:36 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 85 | [800MILES](https://open.spotify.com/track/2m3Ea5E1L50QwDG6uhekMM) | [SWAVAY](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [BILLY](https://open.spotify.com/album/1rma34mRY4zuSyxr3h2rvT) | 3:39 |
 | 86 | [Under Control](https://open.spotify.com/track/3B6Ha04nvVi9EeEbGsfrOX) | [Nigel Knight](https://open.spotify.com/artist/6u6thFL95rh5B0oz678Yl5) | [Paintings Come True \(Deluxe\)](https://open.spotify.com/album/08dmxAt5O4kl7BiHiNXNP9) | 2:05 |
 | 87 | [Yoko](https://open.spotify.com/track/45gHc1QYBky7k38HSlaIft) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Yoko](https://open.spotify.com/album/7MX7xfLckdaiMg1POPrs42) | 2:05 |
-| 88 | [Mhmm](https://open.spotify.com/track/3wqh0yW8QqgWC0ugN1fEZM) | [Nigel Knight](https://open.spotify.com/artist/6u6thFL95rh5B0oz678Yl5) | [Out Here \- Single](https://open.spotify.com/album/7cB2PmK41V2q8whJzGOVpQ) | 2:13 |
+| 88 | [Mhmm](https://open.spotify.com/track/6iQ08CZmJFdnolFSJtRuET) | [Nigel Knight](https://open.spotify.com/artist/6u6thFL95rh5B0oz678Yl5) | [Out Here](https://open.spotify.com/album/5jgEgxgqiByHG0ms9c0r6X) | 2:04 |
 | 89 | [Bitter](https://open.spotify.com/track/53PhCf5rWmxBYWPNjfiaWL) | [Jayacara](https://open.spotify.com/artist/77MEEt77ZHE6FU3jrxYDd6) | [Bitter](https://open.spotify.com/album/1cQURsqOSrMRgFmRHyLhMW) | 2:46 |
 | 90 | [HICCUP](https://open.spotify.com/track/4LMJRxu8w0b9cB6s5rUjrO) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Chapter 01: The Show Must Go On](https://open.spotify.com/album/0b5Rqd7gSb8gBS8xCzgYR2) | 2:10 |
 | 91 | [I Like That](https://open.spotify.com/track/61SUnUdIUeY4ixS970eQnb) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Chapter 03: Mr\. Independent](https://open.spotify.com/album/6ONtu6CXex6rakxf5icamp) | 2:19 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 108 | [Voices](https://open.spotify.com/track/25ZeuWx1B76UrJyAw1QkFl) | [Vince Scxtt](https://open.spotify.com/artist/4P4gnvY04k1Y1oPYP9l3Wj), [Bijan Amir](https://open.spotify.com/artist/7G6pqpOOxg1fcLZwhP2QLM) | [Voices](https://open.spotify.com/album/1JShKB2CB7LY4woAzIznr6) | 1:48 |
 | 109 | [Elegance](https://open.spotify.com/track/4cQihinpyYCh5inmJdMgZB) | [Wilson Raps](https://open.spotify.com/artist/3FLQlrK3Mbj5eTvTmVp5nn) | [Worldwide Waves](https://open.spotify.com/album/0DURT30u8OxZRNbehztSae) | 3:19 |
 
-Snapshot ID: `Ab9/nAAAAACZVppJyxRwfsNLlSbr2Jtu`
+Snapshot ID: `Ab+FMgAAAACH5SLs3+FHsMkNJG1RAloq`

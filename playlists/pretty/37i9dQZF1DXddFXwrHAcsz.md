@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 80's! Cover: André Hazes
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,425 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,445 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 | 11 | [Vriendschap](https://open.spotify.com/track/13mvLR1T0GesAY3jhM9lAw) | [Het Goede Doel](https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ) | [Belgie](https://open.spotify.com/album/3FhvAa1JUA71NTX6AJBfpc) | 4:07 |
 | 12 | [Annabel](https://open.spotify.com/track/41Wklq87430ovCkiHchbN2) | [Hans De Booij](https://open.spotify.com/artist/7cdRThov7spzODFHbygauO) | [Annabel En Andere Grote Hits](https://open.spotify.com/album/5x0sWY505mKv9as3L2Caqf) | 3:32 |
 | 13 | [Smoorverliefd](https://open.spotify.com/track/0OFLK8St1n4C9smb4s7CKX) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [De Jonge Jaren van Doe Maar \- 50 jaar Nederpop](https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu) | 3:17 |
-| 14 | [Toveren](https://open.spotify.com/track/2NDJAS0IlvK0UswjMzsac5) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [Nu En Dan \- 30 Jaar Herman Van Veen](https://open.spotify.com/album/1UiyBdABOkEMxydH963pq5) | 3:25 |
-| 15 | [O O Den Haag](https://open.spotify.com/track/2F5HbFGRgJNzLvSU17sw2N) | [Harry Klorkestein](https://open.spotify.com/artist/5DCksz2HeuBgf0g2fYHP8B) | [Alles](https://open.spotify.com/album/71uQhj11xtVa1H2yN4fDjq) | 4:01 |
+| 14 | [O O Den Haag](https://open.spotify.com/track/2F5HbFGRgJNzLvSU17sw2N) | [Harry Klorkestein](https://open.spotify.com/artist/5DCksz2HeuBgf0g2fYHP8B) | [Alles](https://open.spotify.com/album/71uQhj11xtVa1H2yN4fDjq) | 4:01 |
+| 15 | [Toveren](https://open.spotify.com/track/2NDJAS0IlvK0UswjMzsac5) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [Nu En Dan \- 30 Jaar Herman Van Veen](https://open.spotify.com/album/1UiyBdABOkEMxydH963pq5) | 3:25 |
 | 16 | [Alles Geprobeerd](https://open.spotify.com/track/3yBuEy5DmmV4tRL5ASRxlE) | [Het Goede Doel](https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ) | [Mooi En Onverslijtbaar](https://open.spotify.com/album/0ibRP3mGseezsT8R7GgGWj) | 6:27 |
 | 17 | [Suzanne](https://open.spotify.com/track/3MrtadqfvO2VrIfiCCBVo6) | [V.O.F\. De Kunst](https://open.spotify.com/artist/3iAS2g4qFW5aHDv4fOtXGl) | [Monsterhits](https://open.spotify.com/album/5qmW8BY18VtDOBhYDSFwY5) | 4:45 |
 | 18 | [1 Nacht Alleen](https://open.spotify.com/track/7tV4oNcFWW85uwKL7JPOTV) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [4us](https://open.spotify.com/album/1d27T3U7K7WixFp0Ja6pLz) | 3:59 |

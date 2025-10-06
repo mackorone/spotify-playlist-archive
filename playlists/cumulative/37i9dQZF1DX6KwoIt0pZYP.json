@@ -8523,6 +8523,24 @@
     },
     {
       "album": {
+        "name": "stay with the ocean, i'll find you",
+        "url": "https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199380,
+      "name": "i hope my cat loves me",
+      "url": "https://open.spotify.com/track/3t586kGSELrw77TZvHSvIp"
+    },
+    {
+      "album": {
         "name": "i just want to hear your voice",
         "url": "https://open.spotify.com/album/6jKuWGKfnMKo1XA0Eh7WCu"
       },
@@ -18592,7 +18610,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 149199,
       "name": "The Other Piece Of My Heart",
       "url": "https://open.spotify.com/track/7Glllm4Dytz70wdJizyZt6"

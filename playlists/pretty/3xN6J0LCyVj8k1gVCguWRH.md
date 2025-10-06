@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,015 likes - 170 songs - 9 hr 56 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,009 likes - 162 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,13 +170,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 160 | [Hopeless In Ann Arbor](https://open.spotify.com/track/1CzvOSFFb6WQ6JRhtvi2xg) | [Lost Weekend](https://open.spotify.com/artist/2CidrduiHH6ZlejaE0Efiu) | [Escape To Aquarius Bay](https://open.spotify.com/album/0bSYgp4wXsB9C1Xu44WeWc) | 4:35 |
 | 161 | [Egos](https://open.spotify.com/track/4UWkxcutVJH5tkzLy9ZjID) | [1P4E Music Collective](https://open.spotify.com/artist/3SBblF02HmxdcBwb527LFl), [KA3](https://open.spotify.com/artist/3r0EsYuuWuoMIryA50auuv), [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW), [Annie Daymar](https://open.spotify.com/artist/3xjZKxoPWWG1akLsPpNfsS) | [Egos](https://open.spotify.com/album/7EnuAt9A4zlx3FHyHybrgi) | 2:57 |
 | 162 | [Oh God](https://open.spotify.com/track/3H9CEHLTpUlthLW3eM7zEw) | [Caitlin Mar](https://open.spotify.com/artist/1XErytpdprOSvj7fchV9WE) | [Oh God](https://open.spotify.com/album/3OzNd4TDxUk7cXDv37pBI2) | 3:01 |
-| 163 | [Celebration](https://open.spotify.com/track/4SjrlXiPI6Q9WuVSjQa7XJ) | [MAKO Girls](https://open.spotify.com/artist/3Yu9eG3yuqEgw2I7SlP8QW) | [Celebration](https://open.spotify.com/album/3BCEM3bafQito9zekguTNM) | 2:10 |
-| 164 | [The Makings Of A Man](https://open.spotify.com/track/4iFq4m6L0NbLf7osUQB1qZ) | [JASON MADE](https://open.spotify.com/artist/6YIPePfcIWGBLFqICgmHYv) | [The Makings Of A Man](https://open.spotify.com/album/2mDucYMPBARNFgYb0UMC6C) | 4:22 |
-| 165 | [evil \(feat\. Rexx Life Raj\)](https://open.spotify.com/track/29qwVCNKXapIxEtbmCK2mc) | [Dylan Reese](https://open.spotify.com/artist/6m3JhzmHaGOTO2XKns88fy), [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [evil \(feat\. Rexx Life Raj\)](https://open.spotify.com/album/4uvBugFIdjrUB7X4CeCCfK) | 2:38 |
-| 166 | [Infinite Sea](https://open.spotify.com/track/41kMbABv5slYIt4MkJ1knN) | [Ushio](https://open.spotify.com/artist/7k87a1gW3of6EgtvM5uo42) | [Under Alien Sky](https://open.spotify.com/album/5Ij1D4fra6YR5tdpO4q8T3) | 3:56 |
-| 167 | [Waterloo Sunset](https://open.spotify.com/track/6jTVMGAAOEqDO2eqJikgvX) | [Sputnik the Band](https://open.spotify.com/artist/3MaFGebgJgCzfmARDrImrI) | [Waterloo Sunset](https://open.spotify.com/album/77o5Z8B1sjOK0jhckJOBhG) | 3:05 |
-| 168 | [Done Sailing](https://open.spotify.com/track/093dzjKrQ5RCLF4Hpykpzc) | [Sleepers Club](https://open.spotify.com/artist/4PHzHvZnYFeg15NF0LEkOm) | [Done Sailing](https://open.spotify.com/album/4lKMLlJlnG5LLAIkVBGEat) | 3:29 |
-| 169 | [Sand in my Jeans](https://open.spotify.com/track/6JGAl4F9mKUAoEe64SDDLV) | [Kamran Feiz](https://open.spotify.com/artist/2263xkqdUuWWkPTE9nlNx4) | [Sand In My Jeans](https://open.spotify.com/album/7kuXcXbEtY3peRO1orerTK) | 2:36 |
-| 170 | [Par 5](https://open.spotify.com/track/1FBEnYsjuL5pjKyjLtgtf4) | [Kitty Craft](https://open.spotify.com/artist/5mmXz0LCVnPbgHcZ7KBJlj) | [Beats and Breaks from the Flower Patch](https://open.spotify.com/album/5CPcCM0t4qynEtcKvtGWKj) | 3:57 |
 
-Snapshot ID: `AAA0yWNDSrmVyy2onpRzltkwDzx5JqlP`
+Snapshot ID: `AAA0ynE095pKTXZFR19rPhApiS+rp9i0`

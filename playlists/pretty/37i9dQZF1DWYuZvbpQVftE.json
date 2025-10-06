@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 40971,
+  "num_followers": 41008,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
+        "name": "Jazz Impressions Of Eurasia",
+        "url": "https://open.spotify.com/album/6r0rjJgC6VTKGn6gQv9VMs"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        }
+      ],
+      "duration_ms": 411866,
+      "name": "Brandenburg Gate",
+      "url": "https://open.spotify.com/track/2hHMogPlvtE3i1TnUI5lmP"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
         "name": "Blowin' Country",
         "url": "https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 251933,
       "name": "Steve Allen Theme",
       "url": "https://open.spotify.com/track/6v4si83mpUqBwwAUKFbFuR"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
-        "name": "Jazz Impressions Of Eurasia",
-        "url": "https://open.spotify.com/album/6r0rjJgC6VTKGn6gQv9VMs"
-      },
-      "artists": [
-        {
-          "name": "Dave Brubeck",
-          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
-        }
-      ],
-      "duration_ms": 411866,
-      "name": "Brandenburg Gate",
-      "url": "https://open.spotify.com/track/2hHMogPlvtE3i1TnUI5lmP"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -555,26 +555,6 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "Sonny Stitt, Bud Powell, J.J. Johnson",
-        "url": "https://open.spotify.com/album/7qbujqTVR3B9ED9DqGd1sB"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        },
-        {
-          "name": "Bud Powell Quartet",
-          "url": "https://open.spotify.com/artist/2vBE1v3LSzP5FGUm3sDo4Z"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/6DT90JA5wdKatQf12NynLb"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
         "name": "Jimmy Raney Featuring Bob Brookmeyer",
         "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 246466,
       "name": "Isn't It Romantic",
       "url": "https://open.spotify.com/track/7gQmV1v83oPr2BwBaw89Qr"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
+        "name": "Sonny Stitt, Bud Powell, J.J. Johnson",
+        "url": "https://open.spotify.com/album/7qbujqTVR3B9ED9DqGd1sB"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        },
+        {
+          "name": "Bud Powell Quartet",
+          "url": "https://open.spotify.com/artist/2vBE1v3LSzP5FGUm3sDo4Z"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/6DT90JA5wdKatQf12NynLb"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "Son Of Gunn!!",
-        "url": "https://open.spotify.com/album/0wIqfFb0f9BQTjdUt31Zlq"
+        "name": "Afro-Cuban Influence",
+        "url": "https://open.spotify.com/album/62Yenrvcp91jc43CDuroz6"
       },
       "artists": [
         {
-          "name": "Shelly Manne and His Men",
-          "url": "https://open.spotify.com/artist/0jiF8voCldfvNjfCEr6JDF"
+          "name": "Shorty Rogers & His Big Band",
+          "url": "https://open.spotify.com/artist/7hK396PrftEwAlzt41Bsse"
         }
       ],
-      "duration_ms": 289360,
-      "name": "Blue Steel",
-      "url": "https://open.spotify.com/track/6A5n5BZfgR2IhzlV1GbGWf"
+      "duration_ms": 254626,
+      "name": "Moon over Cuba",
+      "url": "https://open.spotify.com/track/63sdXqoW9M8UoR9FqdZVcN"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -667,18 +667,18 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "Afro-Cuban Influence",
-        "url": "https://open.spotify.com/album/62Yenrvcp91jc43CDuroz6"
+        "name": "Son Of Gunn!!",
+        "url": "https://open.spotify.com/album/0wIqfFb0f9BQTjdUt31Zlq"
       },
       "artists": [
         {
-          "name": "Shorty Rogers & His Big Band",
-          "url": "https://open.spotify.com/artist/7hK396PrftEwAlzt41Bsse"
+          "name": "Shelly Manne and His Men",
+          "url": "https://open.spotify.com/artist/0jiF8voCldfvNjfCEr6JDF"
         }
       ],
-      "duration_ms": 254626,
-      "name": "Moon over Cuba",
-      "url": "https://open.spotify.com/track/63sdXqoW9M8UoR9FqdZVcN"
+      "duration_ms": 289360,
+      "name": "Blue Steel",
+      "url": "https://open.spotify.com/track/6A5n5BZfgR2IhzlV1GbGWf"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "Jazz Loves Paris",
-        "url": "https://open.spotify.com/album/5aXQDmS6CoqSi8MJ3kRdYq"
-      },
-      "artists": [
-        {
-          "name": "Buddy Collette",
-          "url": "https://open.spotify.com/artist/1ZsOY6yOMW2n8M7mzKuTpR"
-        }
-      ],
-      "duration_ms": 146306,
-      "name": "Pigalle",
-      "url": "https://open.spotify.com/track/4vwJminEIogBjD68EE6nLM"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
         "name": "Gongs East!",
         "url": "https://open.spotify.com/album/2vhPXcTqaaFwl9L8PsBd8Q"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 185786,
       "name": "Beyond the Blue Horizon",
       "url": "https://open.spotify.com/track/58iD5C0t6pKoidcDayin0K"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
+        "name": "Jazz Loves Paris",
+        "url": "https://open.spotify.com/album/5aXQDmS6CoqSi8MJ3kRdYq"
+      },
+      "artists": [
+        {
+          "name": "Buddy Collette",
+          "url": "https://open.spotify.com/artist/1ZsOY6yOMW2n8M7mzKuTpR"
+        }
+      ],
+      "duration_ms": 146306,
+      "name": "Pigalle",
+      "url": "https://open.spotify.com/track/4vwJminEIogBjD68EE6nLM"
     },
     {
       "added_at": "2024-09-03 09:42:20",

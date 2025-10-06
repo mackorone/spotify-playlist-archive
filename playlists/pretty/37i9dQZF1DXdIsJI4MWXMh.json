@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Z\u00fambale Primo, & Coraz\u00f3n Serrano.",
-  "num_followers": 76650,
+  "num_followers": 76680,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
+        "name": "Yo Lo Canto y Tu Lo Bailas",
+        "url": "https://open.spotify.com/album/3UW6tbYhtJYrYVGR0U85W1"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres de Parral",
+          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
+        }
+      ],
+      "duration_ms": 231393,
+      "name": "Matalas",
+      "url": "https://open.spotify.com/track/7pSYLS1okWaevRLU2oXCqa"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
         "name": "De Padre Desconocido",
         "url": "https://open.spotify.com/album/6hsBJneAqhFImnsdNDL6ZW"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 229640,
       "name": "Bil\u00fa Bil\u00fa",
       "url": "https://open.spotify.com/track/5VIU0pNUmmIEF54my1hd5t"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
-        "name": "Yo Lo Canto y Tu Lo Bailas",
-        "url": "https://open.spotify.com/album/3UW6tbYhtJYrYVGR0U85W1"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres de Parral",
-          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
-        }
-      ],
-      "duration_ms": 231393,
-      "name": "Matalas",
-      "url": "https://open.spotify.com/track/7pSYLS1okWaevRLU2oXCqa"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -499,26 +499,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Despu\u00e9s de Ti",
-        "url": "https://open.spotify.com/album/2tWeqrleq2g7t4A4XZGVjn"
-      },
-      "artists": [
-        {
-          "name": "Gino Mella",
-          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
-        },
-        {
-          "name": "Grupo Z\u00fambale Primo",
-          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
-        }
-      ],
-      "duration_ms": 279362,
-      "name": "Despu\u00e9s de Ti",
-      "url": "https://open.spotify.com/track/3KZ9E2VdnR7QpMIywm8Hv0"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "De Fiesta Con los Braos",
         "url": "https://open.spotify.com/album/2VeiRxdUOwogVqJJ35yMzX"
       },
@@ -531,6 +511,22 @@
       "duration_ms": 267335,
       "name": "Abrazado de un Poste",
       "url": "https://open.spotify.com/track/1XruxMWn7b7WjTiw6ItLDG"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "Puro Sur Puro Chile",
+        "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
+      },
+      "artists": [
+        {
+          "name": "Los Pincheira del sur Oficial",
+          "url": "https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "Tatuaje",
+      "url": "https://open.spotify.com/track/04iJD3f7nwF1wuM8b8FPmk"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -555,18 +551,22 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Puro Sur Puro Chile",
-        "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
+        "name": "Despu\u00e9s de Ti",
+        "url": "https://open.spotify.com/album/2tWeqrleq2g7t4A4XZGVjn"
       },
       "artists": [
         {
-          "name": "Los Pincheira del sur Oficial",
-          "url": "https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR"
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
         }
       ],
-      "duration_ms": 215266,
-      "name": "Tatuaje",
-      "url": "https://open.spotify.com/track/04iJD3f7nwF1wuM8b8FPmk"
+      "duration_ms": 279362,
+      "name": "Despu\u00e9s de Ti",
+      "url": "https://open.spotify.com/track/3KZ9E2VdnR7QpMIywm8Hv0"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
+        "name": "Para Nuestra Gente",
+        "url": "https://open.spotify.com/album/0GrlpcJCnQtifPuKcJaKMK"
+      },
+      "artists": [
+        {
+          "name": "Los tremendos laureles",
+          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
+        }
+      ],
+      "duration_ms": 200100,
+      "name": "Sin Coronas Ni Reinas",
+      "url": "https://open.spotify.com/track/4lH1QljMIcW8Au5WksCpxP"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
         "name": "Por una Yegua No Se para la Trilla",
         "url": "https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 328974,
       "name": "Ahora por unas monedas",
       "url": "https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
-        "name": "Para Nuestra Gente",
-        "url": "https://open.spotify.com/album/0GrlpcJCnQtifPuKcJaKMK"
-      },
-      "artists": [
-        {
-          "name": "Los tremendos laureles",
-          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
-        }
-      ],
-      "duration_ms": 200100,
-      "name": "Sin Coronas Ni Reinas",
-      "url": "https://open.spotify.com/track/4lH1QljMIcW8Au5WksCpxP"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1359,22 +1359,18 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/1qE854buRuUPuvoHNkgb7I"
+        "name": "La Diuca",
+        "url": "https://open.spotify.com/album/7xzyEyU06MNtW4VlOVH9E7"
       },
       "artists": [
         {
-          "name": "Los Principes del Norte",
-          "url": "https://open.spotify.com/artist/1iob7ma3J3xLV2disvGcjG"
-        },
-        {
-          "name": "Zona Ranchera",
-          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
+          "name": "Zumba Ranchera",
+          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
         }
       ],
-      "duration_ms": 235600,
-      "name": "Golpes y Besos",
-      "url": "https://open.spotify.com/track/0RnzGw4vP6XEZbEIHOPFNT"
+      "duration_ms": 200248,
+      "name": "La Diuca",
+      "url": "https://open.spotify.com/track/1MPLrlcAb3gQ89tffm0kXD"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1399,18 +1395,22 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "La Diuca",
-        "url": "https://open.spotify.com/album/7xzyEyU06MNtW4VlOVH9E7"
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/1qE854buRuUPuvoHNkgb7I"
       },
       "artists": [
         {
-          "name": "Zumba Ranchera",
-          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
+          "name": "Los Principes del Norte",
+          "url": "https://open.spotify.com/artist/1iob7ma3J3xLV2disvGcjG"
+        },
+        {
+          "name": "Zona Ranchera",
+          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
         }
       ],
-      "duration_ms": 200248,
-      "name": "La Diuca",
-      "url": "https://open.spotify.com/track/1MPLrlcAb3gQ89tffm0kXD"
+      "duration_ms": 235600,
+      "name": "Golpes y Besos",
+      "url": "https://open.spotify.com/track/0RnzGw4vP6XEZbEIHOPFNT"
     },
     {
       "added_at": "2025-09-18 20:11:00",

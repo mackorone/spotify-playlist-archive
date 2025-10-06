@@ -1,12 +1,12 @@
 {
   "description": "This is Bonnie Raitt. The essential tracks, all in one playlist.",
-  "num_followers": 52401,
+  "num_followers": 52406,
   "original_name": "This Is Bonnie Raitt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAAD/KP/OZAsPpkqacJjLpknM",
+  "snapshot_id": "aOBjgAAAAACv7Jg0osZLncjNZWId5xdt",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Forgiveness",
-        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 208093,
-      "name": "Home - 2008 Remaster",
-      "url": "https://open.spotify.com/track/4SgIuqaMyQSckMOCrZBBPe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bonnie Raitt (2008 Remaster)",
         "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 216093,
       "name": "I Ain't Blue - 2008 Remaster",
       "url": "https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sweet Forgiveness",
+        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 208093,
+      "name": "Home - 2008 Remaster",
+      "url": "https://open.spotify.com/track/4SgIuqaMyQSckMOCrZBBPe"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give It Up (2008 Remaster)",
-        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 178733,
-      "name": "Too Long at the Fair - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1oMhFBq8JndGlXmknlkSjp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bonnie Raitt (2008 Remaster)",
         "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 143933,
       "name": "Any Day Woman - 2008 Remaster",
       "url": "https://open.spotify.com/track/6hH5c3iQ0z1RjyOuz4D0c2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 178733,
+      "name": "Too Long at the Fair - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1oMhFBq8JndGlXmknlkSjp"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sweet Forgiveness",
+        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Louise - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5hAXzCx8xvI15AcsHwEkEl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slipstream",
         "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
       },
@@ -603,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Forgiveness",
-        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
+        "name": "Takin' My Time",
+        "url": "https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra"
       },
       "artists": [
         {
@@ -612,9 +628,9 @@
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Louise - 2008 Remaster",
-      "url": "https://open.spotify.com/track/5hAXzCx8xvI15AcsHwEkEl"
+      "duration_ms": 180000,
+      "name": "Guilty - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2QUpntd3v7cZQByy7Kyh4L"
     },
     {
       "added_at": null,
@@ -651,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Souls Alike",
+        "url": "https://open.spotify.com/album/3iK0XCTRh5zfLjfrmO3agU"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 218960,
+      "name": "I Will Not Be Broken",
+      "url": "https://open.spotify.com/track/7dS8Pt5M2lsBJuPhTMvRuq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Luck Of The Draw",
         "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
       },
@@ -671,38 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Souls Alike",
-        "url": "https://open.spotify.com/album/3iK0XCTRh5zfLjfrmO3agU"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 218960,
-      "name": "I Will Not Be Broken",
-      "url": "https://open.spotify.com/track/7dS8Pt5M2lsBJuPhTMvRuq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Takin' My Time",
-        "url": "https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Guilty - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2QUpntd3v7cZQByy7Kyh4L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dig In Deep",
         "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
       },
@@ -715,6 +715,22 @@
       "duration_ms": 199493,
       "name": "Need You Tonight",
       "url": "https://open.spotify.com/track/0GNQAGdA4i46QxT8qZx0mG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nick Of Time",
+        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 225866,
+      "name": "Too Soon To Tell",
+      "url": "https://open.spotify.com/track/21bGSuzzoQOKcmz59uDuwH"
     },
     {
       "added_at": null,
@@ -751,38 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bonnie Raitt (2008 Remaster)",
-        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 186200,
-      "name": "Since I Fell for You - 2008 Remaster",
-      "url": "https://open.spotify.com/track/71G25PCcl4wa87qOJjjblz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nick Of Time",
-        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 225866,
-      "name": "Too Soon To Tell",
-      "url": "https://open.spotify.com/track/21bGSuzzoQOKcmz59uDuwH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of Bonnie Raitt On Capitol 1989-2003",
         "url": "https://open.spotify.com/album/1FV3yQh4QovuCGWqJuRdl4"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 217933,
       "name": "Silver Lining - Radio Edit",
       "url": "https://open.spotify.com/track/7lkKtkioFFFk9nkwNLRHER"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 186200,
+      "name": "Since I Fell for You - 2008 Remaster",
+      "url": "https://open.spotify.com/track/71G25PCcl4wa87qOJjjblz"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Forgiveness",
-        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 235773,
-      "name": "Runaway - 2008 Remaster",
-      "url": "https://open.spotify.com/track/7ldCklGtxrVxpmdt1el897"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where Have All The Flowers Gone: The Songs Of Pete Seeger",
         "url": "https://open.spotify.com/album/7A34ZUoI1EdUKSHlDY6iRF"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 283160,
       "name": "Kisses Sweeter than Wine",
       "url": "https://open.spotify.com/track/03XiG8UT6iWa3kDVGHcTW4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sweet Forgiveness",
+        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "Runaway - 2008 Remaster",
+      "url": "https://open.spotify.com/track/7ldCklGtxrVxpmdt1el897"
     },
     {
       "added_at": null,

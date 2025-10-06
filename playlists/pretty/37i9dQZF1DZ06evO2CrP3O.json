@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 139242,
+  "num_followers": 139252,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAAAHDEsZQDdPx1lbs0z3qQPg",
+  "snapshot_id": "aOBjgAAAAABpE9wW4gXZZhrngGICUKK8",
   "tracks": [
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Panic of Girls",
-        "url": "https://open.spotify.com/album/3taJK6ccQov0Z5FlKox65t"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "What I Heard",
-      "url": "https://open.spotify.com/track/77mO1n1s6ouUD2EIZk56NH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Curse of Blondie",
         "url": "https://open.spotify.com/album/6fmtjViWZ65ETI9EoXl8kU"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 239040,
       "name": "End to End",
       "url": "https://open.spotify.com/track/5xfFKL2AyqvYwx25NAl8fY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Panic of Girls",
+        "url": "https://open.spotify.com/album/3taJK6ccQov0Z5FlKox65t"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "What I Heard",
+      "url": "https://open.spotify.com/track/77mO1n1s6ouUD2EIZk56NH"
     },
     {
       "added_at": null,

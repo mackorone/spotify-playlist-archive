@@ -1,6 +1,6 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 216774,
+  "num_followers": 216808,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,26 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
+        "name": "Kaldal\u00f3ns: Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson)",
+        "url": "https://open.spotify.com/album/3h3aFGCPGBTHNrA1Fa6tfA"
+      },
+      "artists": [
+        {
+          "name": "Sigvaldi Kaldal\u00f3ns",
+          "url": "https://open.spotify.com/artist/315KRsFj1cPJewYIbaH978"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 216213,
+      "name": "Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
+      "url": "https://open.spotify.com/track/6MzbO6YS0M6tjwT93hjAl0"
+    },
+    {
+      "added_at": "2025-07-02 09:25:11",
+      "album": {
         "name": "Songs from the Arc of Life",
         "url": "https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD"
       },
@@ -319,26 +339,6 @@
       "duration_ms": 160226,
       "name": "Apr\u00e8s un r\u00eave, Op. 7, No. 1",
       "url": "https://open.spotify.com/track/05yzhEWkmVXiigqWfcNTQS"
-    },
-    {
-      "added_at": "2025-07-02 09:25:11",
-      "album": {
-        "name": "Kaldal\u00f3ns: Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson)",
-        "url": "https://open.spotify.com/album/3h3aFGCPGBTHNrA1Fa6tfA"
-      },
-      "artists": [
-        {
-          "name": "Sigvaldi Kaldal\u00f3ns",
-          "url": "https://open.spotify.com/artist/315KRsFj1cPJewYIbaH978"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 216213,
-      "name": "Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
-      "url": "https://open.spotify.com/track/6MzbO6YS0M6tjwT93hjAl0"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -591,6 +591,26 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
+        "name": "Polovtsian Dances from Prince Igor (piano arr. by L. Faulkner)",
+        "url": "https://open.spotify.com/album/2cnR6LsauMMTwyY2Huum1G"
+      },
+      "artists": [
+        {
+          "name": "Luke Faulkner",
+          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
+        },
+        {
+          "name": "Alexander Borodin",
+          "url": "https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I"
+        }
+      ],
+      "duration_ms": 172758,
+      "name": "Polovtsian Dances from Prince Igor (piano arr. by L. Faulkner)",
+      "url": "https://open.spotify.com/track/7dlMTbloHegihfau1dF9mm"
+    },
+    {
+      "added_at": "2025-07-02 09:25:11",
+      "album": {
         "name": "J.S. Bach: Come, Sweet Death (Arr. for 5 Cellos)",
         "url": "https://open.spotify.com/album/7DuFXiU4QVs2ZNXPPGvNXD"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 197200,
       "name": "Come, Sweet Death, BWV 478 (Arr. for 5 Cellos)",
       "url": "https://open.spotify.com/track/4zdyJk5NEGXiWIZ87zfRVQ"
-    },
-    {
-      "added_at": "2025-07-02 09:25:11",
-      "album": {
-        "name": "Polovtsian Dances from Prince Igor (piano arr. by L. Faulkner)",
-        "url": "https://open.spotify.com/album/2cnR6LsauMMTwyY2Huum1G"
-      },
-      "artists": [
-        {
-          "name": "Luke Faulkner",
-          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
-        },
-        {
-          "name": "Alexander Borodin",
-          "url": "https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I"
-        }
-      ],
-      "duration_ms": 172758,
-      "name": "Polovtsian Dances from Prince Igor (piano arr. by L. Faulkner)",
-      "url": "https://open.spotify.com/track/7dlMTbloHegihfau1dF9mm"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -1079,6 +1079,30 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
+        "name": "Baranowski: Reflections",
+        "url": "https://open.spotify.com/album/36OcZ35GfXQTEvmI91BPEV"
+      },
+      "artists": [
+        {
+          "name": "Alex Baranowski",
+          "url": "https://open.spotify.com/artist/25ZtHjSjM5LJckzidujhoQ"
+        },
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        },
+        {
+          "name": "Jess Gillam Ensemble",
+          "url": "https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c"
+        }
+      ],
+      "duration_ms": 233593,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/6SU67MSkLkHTvQJ9Auvx3w"
+    },
+    {
+      "added_at": "2025-07-02 09:25:11",
+      "album": {
         "name": "Musique fran\u00e7aise pour deux pianos et piano \u00e0 quatre mains: Debussy, Faur\u00e9, Milhaud & Ravel",
         "url": "https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf"
       },
@@ -1119,30 +1143,6 @@
       "duration_ms": 139974,
       "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
       "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
-    },
-    {
-      "added_at": "2025-07-02 09:25:11",
-      "album": {
-        "name": "Baranowski: Reflections",
-        "url": "https://open.spotify.com/album/36OcZ35GfXQTEvmI91BPEV"
-      },
-      "artists": [
-        {
-          "name": "Alex Baranowski",
-          "url": "https://open.spotify.com/artist/25ZtHjSjM5LJckzidujhoQ"
-        },
-        {
-          "name": "Jess Gillam",
-          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
-        },
-        {
-          "name": "Jess Gillam Ensemble",
-          "url": "https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c"
-        }
-      ],
-      "duration_ms": 233593,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/6SU67MSkLkHTvQJ9Auvx3w"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 114601,
-      "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
-      "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
-    },
-    {
-      "added_at": "2025-07-02 09:25:11",
-      "album": {
         "name": "Schubert: Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
         "url": "https://open.spotify.com/album/0UyNc6IFSqY9zL64xdixBj"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 241720,
       "name": "Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
       "url": "https://open.spotify.com/track/1ZXpmSQ4FVAiLbCaYvGD2f"
+    },
+    {
+      "added_at": "2025-07-02 09:25:11",
+      "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 114601,
+      "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
+      "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -1627,6 +1627,30 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
+        "name": "Glassworks: I. Opening (Arr. for Ensemble by Ang\u00e8le Dubeau and Fran\u00e7ois Valli\u00e8res)",
+        "url": "https://open.spotify.com/album/3NYi6pcxNtjPslQOqlT9HM"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Ang\u00e8le Dubeau",
+          "url": "https://open.spotify.com/artist/3aKoUd44IrrqOa6Rzn9Ybq"
+        },
+        {
+          "name": "La Piet\u00e0",
+          "url": "https://open.spotify.com/artist/3ZiiIxwcdE60xHzCQ35ewj"
+        }
+      ],
+      "duration_ms": 456586,
+      "name": "Glassworks: I. Opening (Arr. for Ensemble by Ang\u00e8le Dubeau and Fran\u00e7ois Valli\u00e8res)",
+      "url": "https://open.spotify.com/track/555HfevWXA1wFKLNCcCExq"
+    },
+    {
+      "added_at": "2025-07-02 09:25:11",
+      "album": {
         "name": "Meditation - Relaxing Classics",
         "url": "https://open.spotify.com/album/71kxuK6d0As6TeafPksgFj"
       },
@@ -1659,30 +1683,6 @@
       "duration_ms": 267773,
       "name": "Les noces de Jeanette: Air du rossignol (Arr. Pierre for Flute & Orchestra)",
       "url": "https://open.spotify.com/track/6fqXx67EOQOLEQHFA5ZnBY"
-    },
-    {
-      "added_at": "2025-07-02 09:25:11",
-      "album": {
-        "name": "Glassworks: I. Opening (Arr. for Ensemble by Ang\u00e8le Dubeau and Fran\u00e7ois Valli\u00e8res)",
-        "url": "https://open.spotify.com/album/3NYi6pcxNtjPslQOqlT9HM"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Ang\u00e8le Dubeau",
-          "url": "https://open.spotify.com/artist/3aKoUd44IrrqOa6Rzn9Ybq"
-        },
-        {
-          "name": "La Piet\u00e0",
-          "url": "https://open.spotify.com/artist/3ZiiIxwcdE60xHzCQ35ewj"
-        }
-      ],
-      "duration_ms": 456586,
-      "name": "Glassworks: I. Opening (Arr. for Ensemble by Ang\u00e8le Dubeau and Fran\u00e7ois Valli\u00e8res)",
-      "url": "https://open.spotify.com/track/555HfevWXA1wFKLNCcCExq"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -2087,54 +2087,26 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
-        "name": "C.P.E. Bach: Keyboard Concertos, Wq. 26, 44 & 20",
-        "url": "https://open.spotify.com/album/4PWG4HAlwOceVdbjiX3r08"
+        "name": "Dvo\u0159\u00e1k: Bagatelles, Op. 47: No. 4, Canon. Andante con moto",
+        "url": "https://open.spotify.com/album/45n1laC9NyFVDjfWJZsCOW"
       },
       "artists": [
         {
-          "name": "Carl Philipp Emanuel Bach",
-          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
-          "name": "Michael Rische",
-          "url": "https://open.spotify.com/artist/2m1oXzullfjrEtsT2z8Wia"
+          "name": "Musica Sancta Ensemble",
+          "url": "https://open.spotify.com/artist/1dkIDcLzUNJUy1olSaxQJH"
         },
         {
-          "name": "Kammersymphonie Leipzig",
-          "url": "https://open.spotify.com/artist/5HOyATQgfbBibfKpZfsCFa"
+          "name": "Liran Mendel",
+          "url": "https://open.spotify.com/artist/5xe9LuFCawM6wgEZKV5krU"
         }
       ],
-      "duration_ms": 198333,
-      "name": "Keyboard Concerto in G Major, Wq. 44: II. Andantino",
-      "url": "https://open.spotify.com/track/7xI0wxBQhYMSWDhkuvbRgM"
-    },
-    {
-      "added_at": "2025-07-02 09:25:11",
-      "album": {
-        "name": "Barbella: Mandolin Concerto in D Major: II. Andantino",
-        "url": "https://open.spotify.com/album/3Hv6HfQgtLiNwpyuB7GuIv"
-      },
-      "artists": [
-        {
-          "name": "Emanuele Barbella",
-          "url": "https://open.spotify.com/artist/0Mq2gLttd8uE9a12879DxR"
-        },
-        {
-          "name": "Avi Avital",
-          "url": "https://open.spotify.com/artist/3NbuyRJml6VdSfpDFC5a7b"
-        },
-        {
-          "name": "Il Giardino Armonico",
-          "url": "https://open.spotify.com/artist/3ffMbKIrSWo557U1wDxNDq"
-        },
-        {
-          "name": "Giovanni Antonini",
-          "url": "https://open.spotify.com/artist/6p4RwKsAymPrqeEEluZECW"
-        }
-      ],
-      "duration_ms": 233306,
-      "name": "Mandolin Concerto in D Major: II. Andantino",
-      "url": "https://open.spotify.com/track/0q5F2Us19Bt12QGfexqkDM"
+      "duration_ms": 243995,
+      "name": "Bagatelles, Op. 47: No. 4, Canon. Andante con moto",
+      "url": "https://open.spotify.com/track/5FT0F4TjmJZAiFLDXyNoVx"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -2167,6 +2139,34 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
+        "name": "Barbella: Mandolin Concerto in D Major: II. Andantino",
+        "url": "https://open.spotify.com/album/3Hv6HfQgtLiNwpyuB7GuIv"
+      },
+      "artists": [
+        {
+          "name": "Emanuele Barbella",
+          "url": "https://open.spotify.com/artist/0Mq2gLttd8uE9a12879DxR"
+        },
+        {
+          "name": "Avi Avital",
+          "url": "https://open.spotify.com/artist/3NbuyRJml6VdSfpDFC5a7b"
+        },
+        {
+          "name": "Il Giardino Armonico",
+          "url": "https://open.spotify.com/artist/3ffMbKIrSWo557U1wDxNDq"
+        },
+        {
+          "name": "Giovanni Antonini",
+          "url": "https://open.spotify.com/artist/6p4RwKsAymPrqeEEluZECW"
+        }
+      ],
+      "duration_ms": 233306,
+      "name": "Mandolin Concerto in D Major: II. Andantino",
+      "url": "https://open.spotify.com/track/0q5F2Us19Bt12QGfexqkDM"
+    },
+    {
+      "added_at": "2025-07-02 09:25:11",
+      "album": {
         "name": "Ravel: Le tombeau de Couperin, M. 68: I. Pr\u00e9lude",
         "url": "https://open.spotify.com/album/4OE4jCTEkXvvUmxd9Wr2BN"
       },
@@ -2187,26 +2187,26 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
-        "name": "Dvo\u0159\u00e1k: Bagatelles, Op. 47: No. 4, Canon. Andante con moto",
-        "url": "https://open.spotify.com/album/45n1laC9NyFVDjfWJZsCOW"
+        "name": "C.P.E. Bach: Keyboard Concertos, Wq. 26, 44 & 20",
+        "url": "https://open.spotify.com/album/4PWG4HAlwOceVdbjiX3r08"
       },
       "artists": [
         {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+          "name": "Carl Philipp Emanuel Bach",
+          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
         },
         {
-          "name": "Musica Sancta Ensemble",
-          "url": "https://open.spotify.com/artist/1dkIDcLzUNJUy1olSaxQJH"
+          "name": "Michael Rische",
+          "url": "https://open.spotify.com/artist/2m1oXzullfjrEtsT2z8Wia"
         },
         {
-          "name": "Liran Mendel",
-          "url": "https://open.spotify.com/artist/5xe9LuFCawM6wgEZKV5krU"
+          "name": "Kammersymphonie Leipzig",
+          "url": "https://open.spotify.com/artist/5HOyATQgfbBibfKpZfsCFa"
         }
       ],
-      "duration_ms": 243995,
-      "name": "Bagatelles, Op. 47: No. 4, Canon. Andante con moto",
-      "url": "https://open.spotify.com/track/5FT0F4TjmJZAiFLDXyNoVx"
+      "duration_ms": 198333,
+      "name": "Keyboard Concerto in G Major, Wq. 44: II. Andantino",
+      "url": "https://open.spotify.com/track/7xI0wxBQhYMSWDhkuvbRgM"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -2275,6 +2275,26 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
+        "name": "Klassieke Muziek voor Zondagochtend",
+        "url": "https://open.spotify.com/album/3dL5xXrW6tsjQNH6rml5Rn"
+      },
+      "artists": [
+        {
+          "name": "Enrique Granados",
+          "url": "https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT"
+        },
+        {
+          "name": "Xavier De Maistre",
+          "url": "https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp"
+        }
+      ],
+      "duration_ms": 96786,
+      "name": "Valses Po\u00e9ticos H. 147, DLR 7:8: No. 1: Mel\u00f3dico",
+      "url": "https://open.spotify.com/track/1UT4F8DOvzM616ZTOm1z6s"
+    },
+    {
+      "added_at": "2025-07-02 09:25:11",
+      "album": {
         "name": "Norway",
         "url": "https://open.spotify.com/album/5CO47sQ8DX7uMbJbQ8uM38"
       },
@@ -2295,26 +2315,6 @@
       "duration_ms": 294848,
       "name": "V\u00e5ren",
       "url": "https://open.spotify.com/track/3oBshZ7DMS9sAgja2M1JVV"
-    },
-    {
-      "added_at": "2025-07-02 09:25:11",
-      "album": {
-        "name": "Klassieke Muziek voor Zondagochtend",
-        "url": "https://open.spotify.com/album/3dL5xXrW6tsjQNH6rml5Rn"
-      },
-      "artists": [
-        {
-          "name": "Enrique Granados",
-          "url": "https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT"
-        },
-        {
-          "name": "Xavier De Maistre",
-          "url": "https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp"
-        }
-      ],
-      "duration_ms": 96786,
-      "name": "Valses Po\u00e9ticos H. 147, DLR 7:8: No. 1: Mel\u00f3dico",
-      "url": "https://open.spotify.com/track/1UT4F8DOvzM616ZTOm1z6s"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -2367,6 +2367,26 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/2tgroBhBrUTlMUxGZ7pQts"
+      },
+      "artists": [
+        {
+          "name": "Peter Sculthorpe",
+          "url": "https://open.spotify.com/artist/31rgljsVrzeRFFnJXOYq5J"
+        },
+        {
+          "name": "Richard Narroway",
+          "url": "https://open.spotify.com/artist/5xRz6Mr5zBY2D0vDDKYDy4"
+        }
+      ],
+      "duration_ms": 147429,
+      "name": "Requiem for Cello Alone: IV. Lacrimosa",
+      "url": "https://open.spotify.com/track/0aYtpkDdoua0zUqRoX2csM"
+    },
+    {
+      "added_at": "2025-07-02 09:25:11",
+      "album": {
         "name": "Bruch, Brahms & Schubert: Chamber Works",
         "url": "https://open.spotify.com/album/7opugbzWAHbl5FKUZGjzgz"
       },
@@ -2395,22 +2415,22 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/2tgroBhBrUTlMUxGZ7pQts"
+        "name": "Chopin",
+        "url": "https://open.spotify.com/album/3pWpDvscBL8ThRxctgtoF1"
       },
       "artists": [
         {
-          "name": "Peter Sculthorpe",
-          "url": "https://open.spotify.com/artist/31rgljsVrzeRFFnJXOYq5J"
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
         },
         {
-          "name": "Richard Narroway",
-          "url": "https://open.spotify.com/artist/5xRz6Mr5zBY2D0vDDKYDy4"
+          "name": "Laurence Oldak",
+          "url": "https://open.spotify.com/artist/2PFGFK2N7de95IA21E4bTj"
         }
       ],
-      "duration_ms": 147429,
-      "name": "Requiem for Cello Alone: IV. Lacrimosa",
-      "url": "https://open.spotify.com/track/0aYtpkDdoua0zUqRoX2csM"
+      "duration_ms": 313200,
+      "name": "Grande valse brillante, Op. 34 No. 2",
+      "url": "https://open.spotify.com/track/49MgBvaoQoWMkdBigI2scZ"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -2435,26 +2455,6 @@
       "duration_ms": 376560,
       "name": "Sarabande et rigaudon, Op. 93: Sarabande",
       "url": "https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad"
-    },
-    {
-      "added_at": "2025-07-02 09:25:11",
-      "album": {
-        "name": "Chopin",
-        "url": "https://open.spotify.com/album/3pWpDvscBL8ThRxctgtoF1"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Laurence Oldak",
-          "url": "https://open.spotify.com/artist/2PFGFK2N7de95IA21E4bTj"
-        }
-      ],
-      "duration_ms": 313200,
-      "name": "Grande valse brillante, Op. 34 No. 2",
-      "url": "https://open.spotify.com/track/49MgBvaoQoWMkdBigI2scZ"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -2551,26 +2551,6 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
-        "name": "Piano Recital: Raekallio, Matti - Mozart, W.A. / Gluck, C.W. / Wagner, R. / Liszt, F. / Busoni, F. (Transcriptions - A Night at the Opera)",
-        "url": "https://open.spotify.com/album/6XpiHz1VSNQOR18Nj4pH0J"
-      },
-      "artists": [
-        {
-          "name": "Christoph Willibald Gluck",
-          "url": "https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM"
-        },
-        {
-          "name": "Matti Raekallio",
-          "url": "https://open.spotify.com/artist/0BP5X6U7xuiSDl0zpr9JQg"
-        }
-      ],
-      "duration_ms": 244333,
-      "name": "Iphigenie en Aulide, Act II: Gavotte (Arr. J. Brahms)",
-      "url": "https://open.spotify.com/track/5a6LNnUyLmQ0kPo93qpKJk"
-    },
-    {
-      "added_at": "2025-07-02 09:25:11",
-      "album": {
         "name": "Debussy: Pr\u00e9ludes, Book 2: V. Bruy\u00e8res",
         "url": "https://open.spotify.com/album/11Fu5kidvDn8hule3EVVb1"
       },
@@ -2587,6 +2567,26 @@
       "duration_ms": 213240,
       "name": "Pr\u00e9ludes, Book 2: V. Bruy\u00e8res",
       "url": "https://open.spotify.com/track/1MXHiRxjE4jp6MxHXWYIT7"
+    },
+    {
+      "added_at": "2025-07-02 09:25:11",
+      "album": {
+        "name": "Piano Recital: Raekallio, Matti - Mozart, W.A. / Gluck, C.W. / Wagner, R. / Liszt, F. / Busoni, F. (Transcriptions - A Night at the Opera)",
+        "url": "https://open.spotify.com/album/6XpiHz1VSNQOR18Nj4pH0J"
+      },
+      "artists": [
+        {
+          "name": "Christoph Willibald Gluck",
+          "url": "https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM"
+        },
+        {
+          "name": "Matti Raekallio",
+          "url": "https://open.spotify.com/artist/0BP5X6U7xuiSDl0zpr9JQg"
+        }
+      ],
+      "duration_ms": 244333,
+      "name": "Iphigenie en Aulide, Act II: Gavotte (Arr. J. Brahms)",
+      "url": "https://open.spotify.com/track/5a6LNnUyLmQ0kPo93qpKJk"
     }
   ],
   "unique_name": "Creative Focus",

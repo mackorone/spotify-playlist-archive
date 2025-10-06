@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACBpYNxHOp9qskkknBh67Zz",
+  "snapshot_id": "AAAAAAAAAAAYDrOWWTISwQApNC0EBOxz",
   "tracks": [
     {
       "added_at": "2025-10-03 04:00:00",
@@ -27,22 +27,6 @@
       "duration_ms": 177882,
       "name": "Warning Signs - Remix",
       "url": "https://open.spotify.com/track/68j6ZGUR3Iqop4nrPfuhAr"
-    },
-    {
-      "added_at": "2025-10-03 04:00:00",
-      "album": {
-        "name": "I Shouldn't",
-        "url": "https://open.spotify.com/album/0VRO7IxZ0hqSgMOCrr1Vme"
-      },
-      "artists": [
-        {
-          "name": "Beats By AI",
-          "url": "https://open.spotify.com/artist/2VL0G8nTevMkOCc1cPWu5i"
-        }
-      ],
-      "duration_ms": 183759,
-      "name": "I Shouldn't",
-      "url": "https://open.spotify.com/track/2qAD1VwtCgQXaa5eiyCBsf"
     },
     {
       "added_at": "2025-10-03 04:00:00",
@@ -71,6 +55,22 @@
     {
       "added_at": "2025-10-03 04:00:00",
       "album": {
+        "name": "I Shouldn't",
+        "url": "https://open.spotify.com/album/0VRO7IxZ0hqSgMOCrr1Vme"
+      },
+      "artists": [
+        {
+          "name": "Beats By AI",
+          "url": "https://open.spotify.com/artist/2VL0G8nTevMkOCc1cPWu5i"
+        }
+      ],
+      "duration_ms": 183759,
+      "name": "I Shouldn't",
+      "url": "https://open.spotify.com/track/2qAD1VwtCgQXaa5eiyCBsf"
+    },
+    {
+      "added_at": "2025-10-03 04:00:00",
+      "album": {
         "name": "Blue Sky Mentality",
         "url": "https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd"
       },
@@ -83,6 +83,26 @@
       "duration_ms": 176985,
       "name": "Walk Walk Walk",
       "url": "https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK"
+    },
+    {
+      "added_at": "2025-10-03 04:00:00",
+      "album": {
+        "name": "100 NIGHTS",
+        "url": "https://open.spotify.com/album/1rNJU9cKcImQmNSeKnfe4Y"
+      },
+      "artists": [
+        {
+          "name": "Rashid Isaiah",
+          "url": "https://open.spotify.com/artist/7mEdGrvSIkWB9P2ANVik80"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "VELOUR SUITS",
+      "url": "https://open.spotify.com/track/1O2BZv4jX9HCmNVaMsZSHi"
     },
     {
       "added_at": "2025-10-03 04:00:00",
@@ -111,22 +131,22 @@
     {
       "added_at": "2025-10-03 04:00:00",
       "album": {
-        "name": "100 NIGHTS",
-        "url": "https://open.spotify.com/album/1rNJU9cKcImQmNSeKnfe4Y"
+        "name": "Cold Corner Confessions",
+        "url": "https://open.spotify.com/album/0KSXmdAwd2b4uJMZBwpQ9R"
       },
       "artists": [
         {
-          "name": "Rashid Isaiah",
-          "url": "https://open.spotify.com/artist/7mEdGrvSIkWB9P2ANVik80"
+          "name": "JuN JuN Music",
+          "url": "https://open.spotify.com/artist/3e0ntdiDbLjWOWZfCZKomr"
         },
         {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
         }
       ],
-      "duration_ms": 151500,
-      "name": "VELOUR SUITS",
-      "url": "https://open.spotify.com/track/1O2BZv4jX9HCmNVaMsZSHi"
+      "duration_ms": 199079,
+      "name": "Cut Throat",
+      "url": "https://open.spotify.com/track/6i4nggJOmwHvvbWRc6PmAN"
     },
     {
       "added_at": "2025-10-03 04:00:00",
@@ -147,6 +167,26 @@
     {
       "added_at": "2025-10-03 04:00:00",
       "album": {
+        "name": "Sincerely: P.S.",
+        "url": "https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 189041,
+      "name": "Pretty Promises, (feat. Mariah The Scientist)",
+      "url": "https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia"
+    },
+    {
+      "added_at": "2025-10-03 04:00:00",
+      "album": {
         "name": "Roulette",
         "url": "https://open.spotify.com/album/3ri9BvsRSttcqo5i4ofKME"
       },
@@ -163,26 +203,6 @@
       "duration_ms": 208880,
       "name": "Always Be (feat. Kaya Thomas-Dyke)",
       "url": "https://open.spotify.com/track/58SELDL70hm66Oy4fwzBFM"
-    },
-    {
-      "added_at": "2025-10-03 04:00:00",
-      "album": {
-        "name": "Cold Corner Confessions",
-        "url": "https://open.spotify.com/album/0KSXmdAwd2b4uJMZBwpQ9R"
-      },
-      "artists": [
-        {
-          "name": "JuN JuN Music",
-          "url": "https://open.spotify.com/artist/3e0ntdiDbLjWOWZfCZKomr"
-        },
-        {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
-        }
-      ],
-      "duration_ms": 199079,
-      "name": "Cut Throat",
-      "url": "https://open.spotify.com/track/6i4nggJOmwHvvbWRc6PmAN"
     },
     {
       "added_at": "2025-10-03 04:00:00",
@@ -211,26 +231,6 @@
       "duration_ms": 221187,
       "name": "Stereo (High Contrast Remix)",
       "url": "https://open.spotify.com/track/0rFFjLdIq4SlFAZvKXrPUR"
-    },
-    {
-      "added_at": "2025-10-03 04:00:00",
-      "album": {
-        "name": "Sincerely: P.S.",
-        "url": "https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 189041,
-      "name": "Pretty Promises, (feat. Mariah The Scientist)",
-      "url": "https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia"
     },
     {
       "added_at": "2025-10-03 04:00:00",
@@ -271,22 +271,22 @@
     {
       "added_at": "2025-10-03 04:00:00",
       "album": {
-        "name": "Bad Company",
-        "url": "https://open.spotify.com/album/2eIrVnq65F5EwNFm6vyFtB"
+        "name": "Golden (Goes Metal)",
+        "url": "https://open.spotify.com/album/5i4bEqBHZTkxAcq6619icq"
       },
       "artists": [
         {
-          "name": "Bad Company",
-          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+          "name": "Anthony Vincent",
+          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
         },
         {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+          "name": "Artificial Fear",
+          "url": "https://open.spotify.com/artist/1CFxbBr11nVJSQ0lB9RPgr"
         }
       ],
-      "duration_ms": 220493,
-      "name": "Bad Company",
-      "url": "https://open.spotify.com/track/2eAyPnMrdMLkuYaUQsWl8K"
+      "duration_ms": 212332,
+      "name": "Golden (Goes Metal)",
+      "url": "https://open.spotify.com/track/4qeRXoKDj8BfEnrbBc7yNq"
     },
     {
       "added_at": "2025-10-03 04:00:00",
@@ -303,6 +303,26 @@
       "duration_ms": 245798,
       "name": "Shame, Shame, Shame",
       "url": "https://open.spotify.com/track/0l5i2lHBBB1UqFg44HSMuF"
+    },
+    {
+      "added_at": "2025-10-03 04:00:00",
+      "album": {
+        "name": "Bad Company",
+        "url": "https://open.spotify.com/album/2eIrVnq65F5EwNFm6vyFtB"
+      },
+      "artists": [
+        {
+          "name": "Bad Company",
+          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+        },
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 220493,
+      "name": "Bad Company",
+      "url": "https://open.spotify.com/track/2eAyPnMrdMLkuYaUQsWl8K"
     },
     {
       "added_at": "2025-10-03 04:00:00",
@@ -327,66 +347,6 @@
       "duration_ms": 170020,
       "name": "Look At 'Em",
       "url": "https://open.spotify.com/track/6nnKuAPS0lZ41PEGuiKMLD"
-    },
-    {
-      "added_at": "2025-10-03 04:00:00",
-      "album": {
-        "name": "Here For It All",
-        "url": "https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 224788,
-      "name": "Play This Song (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P"
-    },
-    {
-      "added_at": "2025-10-03 04:00:00",
-      "album": {
-        "name": "Zunge 2025",
-        "url": "https://open.spotify.com/album/5LbNzPH6EUnBPl0E2up8FN"
-      },
-      "artists": [
-        {
-          "name": "Till Lindemann",
-          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
-        }
-      ],
-      "duration_ms": 212387,
-      "name": "Prostitution",
-      "url": "https://open.spotify.com/track/4hDxks1OWDJ2R7rpwLQ5sx"
-    },
-    {
-      "added_at": "2025-10-03 04:00:00",
-      "album": {
-        "name": "Rise Again",
-        "url": "https://open.spotify.com/album/6Sb2lFZrju00dqv4aineCq"
-      },
-      "artists": [
-        {
-          "name": "Alonestar",
-          "url": "https://open.spotify.com/artist/1kwi1Q7X4jPTkHTgayxKhS"
-        },
-        {
-          "name": "Kayla Kelley",
-          "url": "https://open.spotify.com/artist/1JYXBwvd3qW5Yc92NGIA8C"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 228670,
-      "name": "Rise Again",
-      "url": "https://open.spotify.com/track/3z0zyuRP0ayvV09c3sGC3R"
     },
     {
       "added_at": "2025-10-03 04:00:00",
@@ -419,26 +379,62 @@
     {
       "added_at": "2025-10-03 04:00:00",
       "album": {
-        "name": "She's the One (with Surfer Girl & Tropidelic)",
-        "url": "https://open.spotify.com/album/5wuPyXzlUfPTFDdOIXjoFC"
+        "name": "Here For It All",
+        "url": "https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst"
       },
       "artists": [
         {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         },
         {
-          "name": "Surfer Girl",
-          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
-        },
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 194280,
-      "name": "She's the One (with Surfer Girl & Tropidelic)",
-      "url": "https://open.spotify.com/track/7erVJFuGtHC9p7VvuMqxx4"
+      "duration_ms": 224788,
+      "name": "Play This Song (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P"
+    },
+    {
+      "added_at": "2025-10-03 04:00:00",
+      "album": {
+        "name": "Rise Again",
+        "url": "https://open.spotify.com/album/6Sb2lFZrju00dqv4aineCq"
+      },
+      "artists": [
+        {
+          "name": "Alonestar",
+          "url": "https://open.spotify.com/artist/1kwi1Q7X4jPTkHTgayxKhS"
+        },
+        {
+          "name": "Kayla Kelley",
+          "url": "https://open.spotify.com/artist/1JYXBwvd3qW5Yc92NGIA8C"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 228670,
+      "name": "Rise Again",
+      "url": "https://open.spotify.com/track/3z0zyuRP0ayvV09c3sGC3R"
+    },
+    {
+      "added_at": "2025-10-03 04:00:00",
+      "album": {
+        "name": "Zunge 2025",
+        "url": "https://open.spotify.com/album/5LbNzPH6EUnBPl0E2up8FN"
+      },
+      "artists": [
+        {
+          "name": "Till Lindemann",
+          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
+        }
+      ],
+      "duration_ms": 212387,
+      "name": "Prostitution",
+      "url": "https://open.spotify.com/track/4hDxks1OWDJ2R7rpwLQ5sx"
     },
     {
       "added_at": "2025-10-03 04:00:00",
@@ -463,34 +459,26 @@
     {
       "added_at": "2025-10-03 04:00:00",
       "album": {
-        "name": "GMFU",
-        "url": "https://open.spotify.com/album/5Eb75KVSoTmkow2KZPxADd"
+        "name": "She's the One (with Surfer Girl & Tropidelic)",
+        "url": "https://open.spotify.com/album/5wuPyXzlUfPTFDdOIXjoFC"
       },
       "artists": [
         {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 115207,
-      "name": "GMFU",
-      "url": "https://open.spotify.com/track/20mEy3uJz5iXawPy8RncV0"
-    },
-    {
-      "added_at": "2025-10-03 04:00:00",
-      "album": {
-        "name": "Vacancy",
-        "url": "https://open.spotify.com/album/2kVzP9jxqRDUrQ7Po0In3U"
-      },
-      "artists": [
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+        },
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+        },
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
         }
       ],
-      "duration_ms": 183489,
-      "name": "Vacancy",
-      "url": "https://open.spotify.com/track/08zXm8YQQmbFGag4y353Dp"
+      "duration_ms": 194280,
+      "name": "She's the One (with Surfer Girl & Tropidelic)",
+      "url": "https://open.spotify.com/track/7erVJFuGtHC9p7VvuMqxx4"
     },
     {
       "added_at": "2025-10-03 04:00:00",
@@ -515,22 +503,18 @@
     {
       "added_at": "2025-10-03 04:00:00",
       "album": {
-        "name": "Chilly Winds Don't Blow (Bolden. Remix)",
-        "url": "https://open.spotify.com/album/6t9jA8KDGRoewxzCWVn4O2"
+        "name": "GMFU",
+        "url": "https://open.spotify.com/album/5Eb75KVSoTmkow2KZPxADd"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Bolden.",
-          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
         }
       ],
-      "duration_ms": 200295,
-      "name": "Chilly Winds Don't Blow - Bolden. Remix",
-      "url": "https://open.spotify.com/track/3QaLeFkFcnBb9Klvf7jNIX"
+      "duration_ms": 115207,
+      "name": "GMFU",
+      "url": "https://open.spotify.com/track/20mEy3uJz5iXawPy8RncV0"
     },
     {
       "added_at": "2025-10-03 04:00:00",
@@ -551,18 +535,38 @@
     {
       "added_at": "2025-10-03 04:00:00",
       "album": {
-        "name": "Relaxin'",
-        "url": "https://open.spotify.com/album/2PILER8j7OhOrZDqATD5Pi"
+        "name": "Vacancy",
+        "url": "https://open.spotify.com/album/2kVzP9jxqRDUrQ7Po0In3U"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
         }
       ],
-      "duration_ms": 254729,
-      "name": "Relaxin'",
-      "url": "https://open.spotify.com/track/1qCtySsflBDTCu2aWMKtu3"
+      "duration_ms": 183489,
+      "name": "Vacancy",
+      "url": "https://open.spotify.com/track/08zXm8YQQmbFGag4y353Dp"
+    },
+    {
+      "added_at": "2025-10-03 04:00:00",
+      "album": {
+        "name": "Chilly Winds Don't Blow (Bolden. Remix)",
+        "url": "https://open.spotify.com/album/6t9jA8KDGRoewxzCWVn4O2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Bolden.",
+          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
+        }
+      ],
+      "duration_ms": 200295,
+      "name": "Chilly Winds Don't Blow - Bolden. Remix",
+      "url": "https://open.spotify.com/track/3QaLeFkFcnBb9Klvf7jNIX"
     },
     {
       "added_at": "2025-10-03 04:00:00",
@@ -591,6 +595,46 @@
     {
       "added_at": "2025-10-03 04:00:00",
       "album": {
+        "name": "Magic City",
+        "url": "https://open.spotify.com/album/1lOpFH3H5zuMpuXRGPCEGW"
+      },
+      "artists": [
+        {
+          "name": "Jermaine Dupri",
+          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "duration_ms": 263292,
+      "name": "Married To The Game",
+      "url": "https://open.spotify.com/track/009kSF6acuUtsbexfRIhU9"
+    },
+    {
+      "added_at": "2025-10-03 04:00:00",
+      "album": {
+        "name": "Relaxin'",
+        "url": "https://open.spotify.com/album/2PILER8j7OhOrZDqATD5Pi"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 254729,
+      "name": "Relaxin'",
+      "url": "https://open.spotify.com/track/1qCtySsflBDTCu2aWMKtu3"
+    },
+    {
+      "added_at": "2025-10-03 04:00:00",
+      "album": {
         "name": "The Eternal Tenure of Sound: Damage Control",
         "url": "https://open.spotify.com/album/7dbPdr5wIgzLDoh4csU0Yj"
       },
@@ -615,30 +659,6 @@
       "duration_ms": 608663,
       "name": "In Search of My Heart / Love Surrounds Us Everywhere (feat. Kamasi Washington, Terrace Martin & Nile Rodgers)",
       "url": "https://open.spotify.com/track/2A49G3LtFy8dWckf69rZBM"
-    },
-    {
-      "added_at": "2025-10-03 04:00:00",
-      "album": {
-        "name": "Magic City",
-        "url": "https://open.spotify.com/album/1lOpFH3H5zuMpuXRGPCEGW"
-      },
-      "artists": [
-        {
-          "name": "Jermaine Dupri",
-          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "Jagged Edge",
-          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
-        }
-      ],
-      "duration_ms": 263292,
-      "name": "Married To The Game",
-      "url": "https://open.spotify.com/track/009kSF6acuUtsbexfRIhU9"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

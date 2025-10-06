@@ -1,6 +1,6 @@
 {
   "description": "The best in house music",
-  "num_followers": 500247,
+  "num_followers": 500227,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
@@ -387,26 +387,6 @@
     {
       "added_at": "2025-09-26 09:00:31",
       "album": {
-        "name": "Sentimental",
-        "url": "https://open.spotify.com/album/15JwpSbmrg94260qjQQYse"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        },
-        {
-          "name": "Janet Planet",
-          "url": "https://open.spotify.com/artist/6WaeCF7BKSHfUuOj4ggRoq"
-        }
-      ],
-      "duration_ms": 198483,
-      "name": "Forever Baby",
-      "url": "https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo"
-    },
-    {
-      "added_at": "2025-09-26 09:00:31",
-      "album": {
         "name": "Jolie Fille",
         "url": "https://open.spotify.com/album/7x1lI7V6hPlNkQtcuRCrnV"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 194442,
       "name": "Jolie Fille",
       "url": "https://open.spotify.com/track/3pyPyRSFvIOMNS3S2CeMDB"
+    },
+    {
+      "added_at": "2025-09-26 09:00:31",
+      "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/15JwpSbmrg94260qjQQYse"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "Janet Planet",
+          "url": "https://open.spotify.com/artist/6WaeCF7BKSHfUuOj4ggRoq"
+        }
+      ],
+      "duration_ms": 198483,
+      "name": "Forever Baby",
+      "url": "https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo"
     },
     {
       "added_at": "2025-09-26 09:00:31",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-09-26 09:00:31",
       "album": {
-        "name": "Upside Down",
-        "url": "https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH"
-      },
-      "artists": [
-        {
-          "name": "Eats Everything",
-          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
-        }
-      ],
-      "duration_ms": 162684,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W"
-    },
-    {
-      "added_at": "2025-09-26 09:00:31",
-      "album": {
         "name": "Baile De Fantome EP",
         "url": "https://open.spotify.com/album/2nRQyfyyHQL2E69yDNBuWx"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 240000,
       "name": "Baile De Fantome",
       "url": "https://open.spotify.com/track/0q3HI1pBWomC3MiAEciBkF"
+    },
+    {
+      "added_at": "2025-09-26 09:00:31",
+      "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH"
+      },
+      "artists": [
+        {
+          "name": "Eats Everything",
+          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+        }
+      ],
+      "duration_ms": 162684,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W"
     },
     {
       "added_at": "2025-09-26 09:00:31",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-09-26 09:00:31",
       "album": {
-        "name": "Marseille",
-        "url": "https://open.spotify.com/album/4lNXxO3pxla3Di3JEMVtu6"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 145250,
-      "name": "Marseille",
-      "url": "https://open.spotify.com/track/1CZ0Q8EpbCBz3CvMPtrW7v"
-    },
-    {
-      "added_at": "2025-09-26 09:00:31",
-      "album": {
         "name": "Stars Above",
         "url": "https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 190078,
       "name": "Stars Above",
       "url": "https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg"
+    },
+    {
+      "added_at": "2025-09-26 09:00:31",
+      "album": {
+        "name": "Marseille",
+        "url": "https://open.spotify.com/album/4lNXxO3pxla3Di3JEMVtu6"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 145250,
+      "name": "Marseille",
+      "url": "https://open.spotify.com/track/1CZ0Q8EpbCBz3CvMPtrW7v"
     },
     {
       "added_at": "2025-09-26 09:00:31",
@@ -847,18 +847,18 @@
     {
       "added_at": "2025-09-26 09:00:31",
       "album": {
-        "name": "Buschtaxi",
-        "url": "https://open.spotify.com/album/18mW0faz1AHDsTHNdtxAih"
+        "name": "Control Yourself EP",
+        "url": "https://open.spotify.com/album/6tznRqtsPQgYo8YXYB5g19"
       },
       "artists": [
         {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
         }
       ],
-      "duration_ms": 516815,
-      "name": "Buschtaxi",
-      "url": "https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca"
+      "duration_ms": 215813,
+      "name": "Control Yourself - Radio Edit",
+      "url": "https://open.spotify.com/track/49cvev2GTehnDkEGXYgcZ0"
     },
     {
       "added_at": "2025-09-26 09:00:31",
@@ -883,6 +883,22 @@
     {
       "added_at": "2025-09-26 09:00:31",
       "album": {
+        "name": "Buschtaxi",
+        "url": "https://open.spotify.com/album/18mW0faz1AHDsTHNdtxAih"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 516815,
+      "name": "Buschtaxi",
+      "url": "https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca"
+    },
+    {
+      "added_at": "2025-09-26 09:00:31",
+      "album": {
         "name": "Saving It All",
         "url": "https://open.spotify.com/album/3wwmoi3CiDSRJCPivgRZkV"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 186268,
       "name": "Saving It All",
       "url": "https://open.spotify.com/track/2D15cl0pYVNkKWwLCMdzK8"
-    },
-    {
-      "added_at": "2025-09-26 09:00:31",
-      "album": {
-        "name": "Control Yourself EP",
-        "url": "https://open.spotify.com/album/6tznRqtsPQgYo8YXYB5g19"
-      },
-      "artists": [
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 215813,
-      "name": "Control Yourself - Radio Edit",
-      "url": "https://open.spotify.com/track/49cvev2GTehnDkEGXYgcZ0"
     },
     {
       "added_at": "2025-09-26 09:00:31",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2025-09-26 09:00:31",
       "album": {
-        "name": "From The Stars EP",
-        "url": "https://open.spotify.com/album/5epS4PC6kWpMDiLP7KWsPK"
-      },
-      "artists": [
-        {
-          "name": "Mochakk",
-          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
-        },
-        {
-          "name": "The Rah Band",
-          "url": "https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH"
-        }
-      ],
-      "duration_ms": 260156,
-      "name": "From The Stars",
-      "url": "https://open.spotify.com/track/2wYtsbYJjltjeDyuAO0xBp"
-    },
-    {
-      "added_at": "2025-09-26 09:00:31",
-      "album": {
         "name": "Tracey in My Room",
         "url": "https://open.spotify.com/album/554NrMskF38wSzcuZV2ZjG"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 142093,
       "name": "Punch Drunk Feeling (Feat david hugo)",
       "url": "https://open.spotify.com/track/5SoPTQLAFngnBUcETAnrEW"
+    },
+    {
+      "added_at": "2025-09-26 09:00:31",
+      "album": {
+        "name": "From The Stars EP",
+        "url": "https://open.spotify.com/album/5epS4PC6kWpMDiLP7KWsPK"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        },
+        {
+          "name": "The Rah Band",
+          "url": "https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH"
+        }
+      ],
+      "duration_ms": 260156,
+      "name": "From The Stars",
+      "url": "https://open.spotify.com/track/2wYtsbYJjltjeDyuAO0xBp"
     },
     {
       "added_at": "2025-09-26 09:00:31",
@@ -1279,38 +1279,6 @@
     {
       "added_at": "2025-09-26 09:00:31",
       "album": {
-        "name": "Want You",
-        "url": "https://open.spotify.com/album/4ppDXeh7tV0E2In87iiR6o"
-      },
-      "artists": [
-        {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
-        }
-      ],
-      "duration_ms": 163464,
-      "name": "Want You",
-      "url": "https://open.spotify.com/track/1GzheMTLU2wPjMvs24o4WZ"
-    },
-    {
-      "added_at": "2025-09-26 09:00:31",
-      "album": {
-        "name": "So High",
-        "url": "https://open.spotify.com/album/5UL4c4jq7vWAI2u3g7SBAA"
-      },
-      "artists": [
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 339706,
-      "name": "So High",
-      "url": "https://open.spotify.com/track/7sz9ZV2IVfUv3hD0MUpxG2"
-    },
-    {
-      "added_at": "2025-09-26 09:00:31",
-      "album": {
         "name": "In It",
         "url": "https://open.spotify.com/album/0tywyauEJceUMimBQfTe7w"
       },
@@ -1327,6 +1295,22 @@
     {
       "added_at": "2025-09-26 09:00:31",
       "album": {
+        "name": "Want You",
+        "url": "https://open.spotify.com/album/4ppDXeh7tV0E2In87iiR6o"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "duration_ms": 163464,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/1GzheMTLU2wPjMvs24o4WZ"
+    },
+    {
+      "added_at": "2025-09-26 09:00:31",
+      "album": {
         "name": "Together One Time",
         "url": "https://open.spotify.com/album/2arvcqZRndNmNrUtWGJNny"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 157500,
       "name": "Together One Time",
       "url": "https://open.spotify.com/track/76CpS4stsQvmXC45oPPvT5"
+    },
+    {
+      "added_at": "2025-09-26 09:00:31",
+      "album": {
+        "name": "So High",
+        "url": "https://open.spotify.com/album/5UL4c4jq7vWAI2u3g7SBAA"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 339706,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/7sz9ZV2IVfUv3hD0MUpxG2"
     },
     {
       "added_at": "2025-09-26 09:00:31",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-09-26 09:00:31",
       "album": {
-        "name": "Come On Back With Your Love",
-        "url": "https://open.spotify.com/album/4jU9hmYyqwY2eurr8BMOmf"
-      },
-      "artists": [
-        {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Come On Back With Your Love - Sunrise Mix",
-      "url": "https://open.spotify.com/track/7yTD5MdgZQMIGh6nnRUlg4"
-    },
-    {
-      "added_at": "2025-09-26 09:00:31",
-      "album": {
         "name": "Resolution",
         "url": "https://open.spotify.com/album/0aldqu0IulsfyOxdruOE7g"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 397525,
       "name": "Resolution",
       "url": "https://open.spotify.com/track/2h0s5YLG2KpAPbJn2VKQf0"
+    },
+    {
+      "added_at": "2025-09-26 09:00:31",
+      "album": {
+        "name": "Come On Back With Your Love",
+        "url": "https://open.spotify.com/album/4jU9hmYyqwY2eurr8BMOmf"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Come On Back With Your Love - Sunrise Mix",
+      "url": "https://open.spotify.com/track/7yTD5MdgZQMIGh6nnRUlg4"
     },
     {
       "added_at": "2025-09-26 09:00:31",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2025-09-26 09:00:31",
       "album": {
-        "name": "Love Is All Around",
-        "url": "https://open.spotify.com/album/71xOe0V8lYKJd2cjAkpp8e"
-      },
-      "artists": [
-        {
-          "name": "Kassko",
-          "url": "https://open.spotify.com/artist/7tziVSjdkcQy72BZnmL9sA"
-        }
-      ],
-      "duration_ms": 201238,
-      "name": "Love Is All Around",
-      "url": "https://open.spotify.com/track/52lxsvyCNPIjeL78GKBBLj"
-    },
-    {
-      "added_at": "2025-09-26 09:00:31",
-      "album": {
         "name": "I Know You",
         "url": "https://open.spotify.com/album/2NmgzsfS7kcbXOPMQ4dixi"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 180232,
       "name": "I Know You",
       "url": "https://open.spotify.com/track/6RQvujjx9DUuRHU4YiC49q"
+    },
+    {
+      "added_at": "2025-09-26 09:00:31",
+      "album": {
+        "name": "Love Is All Around",
+        "url": "https://open.spotify.com/album/71xOe0V8lYKJd2cjAkpp8e"
+      },
+      "artists": [
+        {
+          "name": "Kassko",
+          "url": "https://open.spotify.com/artist/7tziVSjdkcQy72BZnmL9sA"
+        }
+      ],
+      "duration_ms": 201238,
+      "name": "Love Is All Around",
+      "url": "https://open.spotify.com/track/52lxsvyCNPIjeL78GKBBLj"
     },
     {
       "added_at": "2025-09-26 09:00:31",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-09-26 09:00:31",
       "album": {
-        "name": "OBRIGADO",
-        "url": "https://open.spotify.com/album/0EoZk9OPqTPYIPId511MtB"
-      },
-      "artists": [
-        {
-          "name": "Menesix",
-          "url": "https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "Toca Me Ft. Michelle Marrero",
-      "url": "https://open.spotify.com/track/2WzUDkHU1iAVJdy3Can2O9"
-    },
-    {
-      "added_at": "2025-09-26 09:00:31",
-      "album": {
         "name": "On Vacation",
         "url": "https://open.spotify.com/album/6quVgn36BE6mAU28utNY7r"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 230062,
       "name": "On Vacation",
       "url": "https://open.spotify.com/track/0Jdk7IDdy7o8aXdPYYpouz"
+    },
+    {
+      "added_at": "2025-09-26 09:00:31",
+      "album": {
+        "name": "OBRIGADO",
+        "url": "https://open.spotify.com/album/0EoZk9OPqTPYIPId511MtB"
+      },
+      "artists": [
+        {
+          "name": "Menesix",
+          "url": "https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "Toca Me Ft. Michelle Marrero",
+      "url": "https://open.spotify.com/track/2WzUDkHU1iAVJdy3Can2O9"
     },
     {
       "added_at": "2025-09-26 09:00:31",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2025-09-26 09:00:31",
       "album": {
+        "name": "Mi Vida EP",
+        "url": "https://open.spotify.com/album/0qVltBVJYcyhhhdKhQapPI"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+        }
+      ],
+      "duration_ms": 152883,
+      "name": "Mi Vida",
+      "url": "https://open.spotify.com/track/7GNcodiCQICWsRT99AZ3ib"
+    },
+    {
+      "added_at": "2025-09-26 09:00:31",
+      "album": {
         "name": "Squire For Hire (Fouk Remixes)",
         "url": "https://open.spotify.com/album/1mpjavww04IMjI3i1cTBsu"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 232195,
       "name": "Squire For Hire - Fouk Remix Edit",
       "url": "https://open.spotify.com/track/1nYNEbLHR6odSN9hHBCtil"
-    },
-    {
-      "added_at": "2025-09-26 09:00:31",
-      "album": {
-        "name": "Mi Vida EP",
-        "url": "https://open.spotify.com/album/0qVltBVJYcyhhhdKhQapPI"
-      },
-      "artists": [
-        {
-          "name": "Thomas Newson",
-          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
-        }
-      ],
-      "duration_ms": 152883,
-      "name": "Mi Vida",
-      "url": "https://open.spotify.com/track/7GNcodiCQICWsRT99AZ3ib"
     },
     {
       "added_at": "2025-09-26 09:00:31",
@@ -2083,26 +2083,6 @@
     {
       "added_at": "2025-09-26 09:00:31",
       "album": {
-        "name": "Love On Repeat",
-        "url": "https://open.spotify.com/album/54tygP05azXX7rSkkj8dqQ"
-      },
-      "artists": [
-        {
-          "name": "Mason",
-          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
-        },
-        {
-          "name": "Cara Mel\u00edn",
-          "url": "https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8"
-        }
-      ],
-      "duration_ms": 142297,
-      "name": "Love On Repeat",
-      "url": "https://open.spotify.com/track/4FRfbY6QwgjK5ocCeAkx7U"
-    },
-    {
-      "added_at": "2025-09-26 09:00:31",
-      "album": {
         "name": "Solid Ground",
         "url": "https://open.spotify.com/album/0wSR02tnGQD9TDcnnvjWWy"
       },
@@ -2123,6 +2103,26 @@
       "duration_ms": 361172,
       "name": "Solid Ground - Brian Tappert for the Heads Remix",
       "url": "https://open.spotify.com/track/1QDuYOb7u7H2iiuhJqdXlB"
+    },
+    {
+      "added_at": "2025-09-26 09:00:31",
+      "album": {
+        "name": "Love On Repeat",
+        "url": "https://open.spotify.com/album/54tygP05azXX7rSkkj8dqQ"
+      },
+      "artists": [
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+        },
+        {
+          "name": "Cara Mel\u00edn",
+          "url": "https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8"
+        }
+      ],
+      "duration_ms": 142297,
+      "name": "Love On Repeat",
+      "url": "https://open.spotify.com/track/4FRfbY6QwgjK5ocCeAkx7U"
     },
     {
       "added_at": "2025-09-26 09:00:31",
@@ -2155,22 +2155,6 @@
       "duration_ms": 174000,
       "name": "Falling Under",
       "url": "https://open.spotify.com/track/6MGYIlViEQBtZHVKDHUJYB"
-    },
-    {
-      "added_at": "2025-09-26 09:00:31",
-      "album": {
-        "name": "Don't You Want My Love",
-        "url": "https://open.spotify.com/album/7bHOgHyrQ7N7Os1uJWBVtP"
-      },
-      "artists": [
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 258750,
-      "name": "Don't You Want My Love",
-      "url": "https://open.spotify.com/track/3hQ18r26uEFyUMjWL5OUiF"
     },
     {
       "added_at": "2025-09-26 09:00:31",
@@ -2219,26 +2203,6 @@
     {
       "added_at": "2025-09-26 09:00:31",
       "album": {
-        "name": "To The Beat (Club Mix)",
-        "url": "https://open.spotify.com/album/4aopMdUJzLDDj9CgYApKLt"
-      },
-      "artists": [
-        {
-          "name": "Lee Cabrera",
-          "url": "https://open.spotify.com/artist/4h8hm6TjKsvgmLajBgaI9w"
-        },
-        {
-          "name": "Joe Bataan",
-          "url": "https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "To The Beat - Club Mix",
-      "url": "https://open.spotify.com/track/1lrPaOiy45DbcRFVyd9ZFG"
-    },
-    {
-      "added_at": "2025-09-26 09:00:31",
-      "album": {
         "name": "It Feels Alright",
         "url": "https://open.spotify.com/album/0nm2kIt4iJ0nESh1w8NNOt"
       },
@@ -2271,6 +2235,42 @@
       "duration_ms": 199774,
       "name": "100% Pure Love",
       "url": "https://open.spotify.com/track/7cLoWbdlgwRLEXi9kEMKDi"
+    },
+    {
+      "added_at": "2025-09-26 09:00:31",
+      "album": {
+        "name": "To The Beat (Club Mix)",
+        "url": "https://open.spotify.com/album/4aopMdUJzLDDj9CgYApKLt"
+      },
+      "artists": [
+        {
+          "name": "Lee Cabrera",
+          "url": "https://open.spotify.com/artist/4h8hm6TjKsvgmLajBgaI9w"
+        },
+        {
+          "name": "Joe Bataan",
+          "url": "https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "To The Beat - Club Mix",
+      "url": "https://open.spotify.com/track/1lrPaOiy45DbcRFVyd9ZFG"
+    },
+    {
+      "added_at": "2025-09-26 09:00:31",
+      "album": {
+        "name": "Don't You Want My Love",
+        "url": "https://open.spotify.com/album/7bHOgHyrQ7N7Os1uJWBVtP"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 258750,
+      "name": "Don't You Want My Love",
+      "url": "https://open.spotify.com/track/3hQ18r26uEFyUMjWL5OUiF"
     },
     {
       "added_at": "2025-09-26 09:00:31",

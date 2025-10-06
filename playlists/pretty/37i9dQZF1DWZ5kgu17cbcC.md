@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5kgu17cbcC.md) - [plain]
 
 > Music from shows and movies you love including Chad Powers, now streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,217 likes - 104 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,197 likes - 104 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

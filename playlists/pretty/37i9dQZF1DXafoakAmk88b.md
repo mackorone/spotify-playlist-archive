@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie from black artists driving the current\. Cover: John Glacier
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,391 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,411 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 20 | [i cant tell \(love my money\)](https://open.spotify.com/track/0oZ4efjL1w7SQPAo6ud5lI) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [i cant tell \(love my money\)](https://open.spotify.com/album/0Y2zQQCPC9PGa24Jku0rle) | 2:43 |
 | 21 | [act viii: i hate to be alone](https://open.spotify.com/track/1jIu9uVVYaP3x09HLjikQ3) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [u made me a st4r](https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr) | 2:47 |
 | 22 | [Sweetie](https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Sweetie](https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36) | 4:04 |
-| 23 | [hunting days](https://open.spotify.com/track/6zsCOSqaG0QiWoTqJkRpEG) | [Khatumu](https://open.spotify.com/artist/4UKSvoK7sV3294V39V0pfu) | [hunting days](https://open.spotify.com/album/28EWTxtGcRWPPbSfacYr7H) | 3:32 |
-| 24 | [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 |
+| 23 | [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 |
+| 24 | [hunting days](https://open.spotify.com/track/6zsCOSqaG0QiWoTqJkRpEG) | [Khatumu](https://open.spotify.com/artist/4UKSvoK7sV3294V39V0pfu) | [hunting days](https://open.spotify.com/album/28EWTxtGcRWPPbSfacYr7H) | 3:32 |
 | 25 | [Babylon](https://open.spotify.com/track/4KnEBw94WkGhtdcZ5tTXwC) | [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8) | [Quit to Play Chess](https://open.spotify.com/album/255ea4BNBkMKULxcVZICeO) | 3:06 |
 | 26 | [Sober](https://open.spotify.com/track/7mZcHbpk2U6nZimDW4okd2) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Sober](https://open.spotify.com/album/0F6zv5oKgDzgI4NSDago87) | 3:41 |
 | 27 | [SCREAM MY NAME](https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [DISTRACTION / SCREAM MY NAME](https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy) | 2:40 |

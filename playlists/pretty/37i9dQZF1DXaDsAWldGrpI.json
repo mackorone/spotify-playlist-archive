@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Keith Urban",
-  "num_followers": 143406,
+  "num_followers": 143409,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,38 @@
     {
       "added_at": "2025-09-26 04:00:13",
       "album": {
+        "name": "House Of The Rising Sun (Live in Denver)",
+        "url": "https://open.spotify.com/album/6MmI1NpknaKeMhOsYBqB9r"
+      },
+      "artists": [
+        {
+          "name": "The Brudi Brothers",
+          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "House Of The Rising Sun - Live in Denver",
+      "url": "https://open.spotify.com/track/6r6lV2hf0QE27BpJ5Pm6Vq"
+    },
+    {
+      "added_at": "2025-09-26 04:00:13",
+      "album": {
+        "name": "My Church (Live from the Bluebird Caf\u00e9)",
+        "url": "https://open.spotify.com/album/24AOlassgS5YceHoqgwfAT"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 200750,
+      "name": "My Church - Live from the Bluebird Caf\u00e9",
+      "url": "https://open.spotify.com/track/1atcxTKmyUASYKQVNpBBQp"
+    },
+    {
+      "added_at": "2025-09-26 04:00:13",
+      "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
@@ -699,38 +731,6 @@
       "duration_ms": 218506,
       "name": "On the Road Again - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/6kiBHtPe8GfNhLygAO2jiv"
-    },
-    {
-      "added_at": "2025-09-26 04:00:13",
-      "album": {
-        "name": "My Church (Live from the Bluebird Caf\u00e9)",
-        "url": "https://open.spotify.com/album/24AOlassgS5YceHoqgwfAT"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 200750,
-      "name": "My Church - Live from the Bluebird Caf\u00e9",
-      "url": "https://open.spotify.com/track/1atcxTKmyUASYKQVNpBBQp"
-    },
-    {
-      "added_at": "2025-09-26 04:00:13",
-      "album": {
-        "name": "House Of The Rising Sun (Live in Denver)",
-        "url": "https://open.spotify.com/album/6MmI1NpknaKeMhOsYBqB9r"
-      },
-      "artists": [
-        {
-          "name": "The Brudi Brothers",
-          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "House Of The Rising Sun - Live in Denver",
-      "url": "https://open.spotify.com/track/6r6lV2hf0QE27BpJ5Pm6Vq"
     },
     {
       "added_at": "2025-09-26 04:00:13",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-09-26 04:00:13",
       "album": {
-        "name": "Bullets in the Gun",
-        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 273826,
-      "name": "Sundown - Live at the Fillmore New York at Irving Plaza, 2010",
-      "url": "https://open.spotify.com/track/2RBfevYbpxycnnzBXZUwEi"
-    },
-    {
-      "added_at": "2025-09-26 04:00:13",
-      "album": {
         "name": "Country Music - A Film by Ken Burns (The Soundtrack) [Deluxe]",
         "url": "https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 163040,
       "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
       "url": "https://open.spotify.com/track/55vr0rSNotM3KY1OB7H4zf"
+    },
+    {
+      "added_at": "2025-09-26 04:00:13",
+      "album": {
+        "name": "Bullets in the Gun",
+        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 273826,
+      "name": "Sundown - Live at the Fillmore New York at Irving Plaza, 2010",
+      "url": "https://open.spotify.com/track/2RBfevYbpxycnnzBXZUwEi"
     },
     {
       "added_at": "2025-09-26 04:00:13",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-09-26 04:00:13",
       "album": {
-        "name": "For The Last Time",
-        "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 173280,
-      "name": "Check Yes Or No - Live",
-      "url": "https://open.spotify.com/track/71MDysNhBpxguK9t97hM4U"
-    },
-    {
-      "added_at": "2025-09-26 04:00:13",
-      "album": {
         "name": "Me and My Kind (Live)",
         "url": "https://open.spotify.com/album/4mi8LU8Z2rUQcsQ4vKXswc"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 163013,
       "name": "Me and My Kind - Live",
       "url": "https://open.spotify.com/track/01pn2Jr3H7j8VOKGTh4Ptf"
+    },
+    {
+      "added_at": "2025-09-26 04:00:13",
+      "album": {
+        "name": "For The Last Time",
+        "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 173280,
+      "name": "Check Yes Or No - Live",
+      "url": "https://open.spotify.com/track/71MDysNhBpxguK9t97hM4U"
     },
     {
       "added_at": "2025-09-26 04:00:13",

@@ -1,12 +1,12 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 173653,
+  "num_followers": 173657,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAADzfyyjz9YOcPzj8kgFJYva",
+  "snapshot_id": "aOBjgAAAAACRc51Oe1tId37n1cYq76or",
   "tracks": [
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 272640,
+      "name": "Holding On to You",
+      "url": "https://open.spotify.com/track/7A35lRz4cm0QkbnlNAJPtm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "House Again (with Miranda Lambert) / The House That Built Me",
         "url": "https://open.spotify.com/album/6L0PTevCRfWXL5E4XqdaIs"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 203162,
       "name": "House Again (with Miranda Lambert)",
       "url": "https://open.spotify.com/track/1jR5heh1OlXAvkP35M8Utx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 272640,
-      "name": "Holding On to You",
-      "url": "https://open.spotify.com/track/7A35lRz4cm0QkbnlNAJPtm"
     },
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 204386,
+      "name": "Little Red Wagon",
+      "url": "https://open.spotify.com/track/4sl4UWqzHSG7riBKdralwy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fuse (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6LJH0InZpmgymwZ3hpsUYD"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 191746,
       "name": "We Were Us",
       "url": "https://open.spotify.com/track/5Net7uzpcqkJtOwR22onye"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 204386,
-      "name": "Little Red Wagon",
-      "url": "https://open.spotify.com/track/4sl4UWqzHSG7riBKdralwy"
     },
     {
       "added_at": null,

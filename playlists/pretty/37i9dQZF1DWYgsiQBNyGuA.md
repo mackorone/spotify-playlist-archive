@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day\. Cover: Destin Conrad
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,637 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,665 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,9 +97,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 87 | [Hash Browns](https://open.spotify.com/track/3EcFVXOhKYKwGswzeWPGo7) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV) | [The Hash Brown Demos](https://open.spotify.com/album/2R6pJlvxvvnUHlqvF5d5Fg) | 1:59 |
 | 88 | [She Keeps Calling](https://open.spotify.com/track/1hG55qzxbHuGaPfAhCPgoF) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [She Keeps Calling](https://open.spotify.com/album/04pWdxoC5371dvrDgzDIBO) | 2:23 |
 | 89 | [All I Want Is You \[Feat\. October London\]](https://open.spotify.com/track/2YKgKQeaYc2sIZIGooyLw0) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [All I Want Is You \[Feat\. October London\]](https://open.spotify.com/album/6J9R7EmL3lIrfnXzZwxRB8) | 3:20 |
-| 90 | [Pot Of Gold](https://open.spotify.com/track/2g2rlv5gvnfVUPqTIfipW9) | [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Pot Of Gold](https://open.spotify.com/album/3CebK4P2w00jstDTeoCzE0) | 3:32 |
-| 91 | [Feel Like Makin' Love \- Spotify Singles \- Cover](https://open.spotify.com/track/4Q854c9cytFvuWMgey7CT9) | [WESLEYFRANKLIN](https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh) | [Feel Like Makin' Love \- Spotify Singles \(Cover\)](https://open.spotify.com/album/2IEeiGYo0OGK9x27CyLVEA) | 4:26 |
-| 92 | [The Way I Feel](https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh) | [Remy Shand](https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt) | [The Way I Feel](https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2) | 5:01 |
+| 90 | [The Way I Feel](https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh) | [Remy Shand](https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt) | [The Way I Feel](https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2) | 5:01 |
+| 91 | [Pot Of Gold](https://open.spotify.com/track/2g2rlv5gvnfVUPqTIfipW9) | [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Pot Of Gold](https://open.spotify.com/album/3CebK4P2w00jstDTeoCzE0) | 3:32 |
+| 92 | [Feel Like Makin' Love \- Spotify Singles \- Cover](https://open.spotify.com/track/4Q854c9cytFvuWMgey7CT9) | [WESLEYFRANKLIN](https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh) | [Feel Like Makin' Love \- Spotify Singles \(Cover\)](https://open.spotify.com/album/2IEeiGYo0OGK9x27CyLVEA) | 4:26 |
 | 93 | [Can't Change Me](https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9) | [N'Dambi](https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX) | [A Weird Kinda Wonderful](https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa) | 5:11 |
 | 94 | [Best For Us](https://open.spotify.com/track/1ZExgSbVQ0Ku5gjryLeKpQ) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Best For Us](https://open.spotify.com/album/0VkuiyMbYzeSKuRmyWvRzk) | 3:40 |
 | 95 | [Take You There](https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa) | [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [Take You There](https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR) | 3:32 |

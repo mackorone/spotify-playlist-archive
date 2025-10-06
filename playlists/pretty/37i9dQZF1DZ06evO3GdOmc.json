@@ -1,12 +1,12 @@
 {
   "description": "This is Casting Crowns. The essential tracks, all in one playlist.",
-  "num_followers": 44156,
+  "num_followers": 44184,
   "original_name": "This Is Casting Crowns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAAAjcUbIKggpyakLNW21J+Ai",
+  "snapshot_id": "aOBjgAAAAACc/1NGGpr1vAva8TZlJq6o",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glorious Day: Hymns of Faith",
-        "url": "https://open.spotify.com/album/3hB7IALT7uaNMC6Ol0elbo"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 196933,
-      "name": "'Tis So Sweet To Trust In Jesus",
-      "url": "https://open.spotify.com/track/68QjFdBRwqWSgfxRnEu9SZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Altar and The Door",
         "url": "https://open.spotify.com/album/3YNvCS8uVgcJVMfk2Ad8EL"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 277293,
       "name": "Slow Fade",
       "url": "https://open.spotify.com/track/3GkIRSRXThXbSfQTKcMApx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Glorious Day: Hymns of Faith",
+        "url": "https://open.spotify.com/album/3hB7IALT7uaNMC6Ol0elbo"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 196933,
+      "name": "'Tis So Sweet To Trust In Jesus",
+      "url": "https://open.spotify.com/track/68QjFdBRwqWSgfxRnEu9SZ"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Live Worship Experience",
-        "url": "https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 379213,
-      "name": "Good Good Father - Live",
-      "url": "https://open.spotify.com/track/7nLL5UrsXYHVWv2DnXBtud"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Very Next Thing",
         "url": "https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 273146,
       "name": "Loving My Jesus",
       "url": "https://open.spotify.com/track/0qZXAGI1FPTn0IM7tvyqrJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Live Worship Experience",
+        "url": "https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 379213,
+      "name": "Good Good Father - Live",
+      "url": "https://open.spotify.com/track/7nLL5UrsXYHVWv2DnXBtud"
     },
     {
       "added_at": null,

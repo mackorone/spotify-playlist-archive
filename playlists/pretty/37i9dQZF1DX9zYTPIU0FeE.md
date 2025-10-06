@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the sounds of South African Jazz\. Cover: Kujenga
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,999 likes - 50 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,011 likes - 50 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 13 | [indlela](https://open.spotify.com/track/4eajZbdg8VneL3FBe1BoHO) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [nomthandazo](https://open.spotify.com/album/0yaSKg83zo7r7TfTRBORs1) | 3:52 |
 | 14 | [Idabi Labantu](https://open.spotify.com/track/6qi5vAQlXgBjWPJfvqFo5u) | [iPhupho L'ka Biko](https://open.spotify.com/artist/69TRZAKuYvfQEpDIkKYQaq) | [Idabi Labantu](https://open.spotify.com/album/16gWRJdfbaNMbTDIuUtp21) | 5:05 |
 | 15 | [Thixo Akunangqalelo](https://open.spotify.com/track/7hZsc0THR1IshMDE0VlTua) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [African Time](https://open.spotify.com/album/5WBAzcalp0upbOBakABp6s) | 2:53 |
-| 16 | [Brunch In Harlem](https://open.spotify.com/track/3DNguS5r1FV5U8nikhRkJ9) | [Jazzgroupiez](https://open.spotify.com/artist/2SmWARs3Ky24E8bfpqj5QM), [Saul Madiope](https://open.spotify.com/artist/2BbonfFXXMlwfcLemarFh3), [Stephen Richard](https://open.spotify.com/artist/4OO982yjCXgY3K3zFqflp3) | [The Crossover II](https://open.spotify.com/album/3jyWT4o0KD5VMAuUAJM5BE) | 2:09 |
+| 16 | [Rain](https://open.spotify.com/track/1nsUHf6IzILt5Vh5UCDVrH) | [Charles Webster](https://open.spotify.com/artist/4zMgFVljBxMaPn1U0SXGOh), [EMAMKAY](https://open.spotify.com/artist/3BhUASI2Cb8vaJNUTcEzGv), [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [Rain](https://open.spotify.com/album/3s5eLz0oFuLKU6O0lo3mBH) | 5:04 |
 | 17 | [Ransome, Pt\. 1](https://open.spotify.com/track/6Qq0U6mp8ziiObrYHiVFwU) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [Ransome](https://open.spotify.com/album/1OVSlDC8KEWjuB7kpI2zHl) | 5:22 |
-| 18 | [Rain](https://open.spotify.com/track/1nsUHf6IzILt5Vh5UCDVrH) | [Charles Webster](https://open.spotify.com/artist/4zMgFVljBxMaPn1U0SXGOh), [EMAMKAY](https://open.spotify.com/artist/3BhUASI2Cb8vaJNUTcEzGv), [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [Rain](https://open.spotify.com/album/3s5eLz0oFuLKU6O0lo3mBH) | 5:04 |
+| 18 | [Brunch In Harlem](https://open.spotify.com/track/3DNguS5r1FV5U8nikhRkJ9) | [Jazzgroupiez](https://open.spotify.com/artist/2SmWARs3Ky24E8bfpqj5QM), [Saul Madiope](https://open.spotify.com/artist/2BbonfFXXMlwfcLemarFh3), [Stephen Richard](https://open.spotify.com/artist/4OO982yjCXgY3K3zFqflp3) | [The Crossover II](https://open.spotify.com/album/3jyWT4o0KD5VMAuUAJM5BE) | 2:09 |
 | 19 | [iGosa](https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [iLadi](https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL) | 6:54 |
 | 20 | [Hamba No Malume](https://open.spotify.com/track/4JmB7lkQdDpz2xbvfG95ps) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [Hamba No Malume](https://open.spotify.com/album/4dJ6nQJPT95KYfYqoiADSJ) | 4:58 |
 | 21 | [Teardrop](https://open.spotify.com/track/25Ucl6VZIn1hCcYVCdFor8) | [Kyle Shepherd Trio](https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx) | [A Dance More Sweetly Played](https://open.spotify.com/album/46foYmXHYg5B9s8F1tg9J7) | 6:24 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 45 | [Sinamanga \(uMagebhula\)](https://open.spotify.com/track/4fZe1x4UfOPqNIZcmtzrAC) | [Letta Mbulu](https://open.spotify.com/artist/7iwwcDXXToUdUoDYP70EA0) | [Sinamanga \(uMagebhula\)](https://open.spotify.com/album/3YPdyUJ9F9TJBA9Njlmkjl) | 4:05 |
 | 46 | [H.O.P.E](https://open.spotify.com/track/0R15zq6ZETyMiu1bG2lf3a) | [Ofentse Moses Sebula](https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E) | [H.O.P.E \(Holding On to Positive Expectations\)](https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF) | 6:05 |
 | 47 | [Bawo Ndi Xolele \(Hymn\)](https://open.spotify.com/track/5oDMLrjVqFN3ALJmsBAjtq) | [Billy Monama](https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m) | [The Y\-Factor Project](https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s) | 3:30 |
-| 48 | [Inkehli](https://open.spotify.com/track/2sCSm8uWxprJbkwqk4roTs) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [Inkehli](https://open.spotify.com/album/5HSsIxH98Ic7Mw0k12cmSm) | 6:53 |
-| 49 | [Ebhedini](https://open.spotify.com/track/0Xl1YzuTlDP7ILQfb46T63) | [Ncesh Nonxishi](https://open.spotify.com/artist/3cvkD2gq2z8dCSiVagagZP), [Mthunzikazi Mbungwana](https://open.spotify.com/artist/4th427muHryTpC6m6UEmJo) | [Apho Kungenje](https://open.spotify.com/album/7BgstqFLclam34XUZfiX33) | 6:53 |
-| 50 | [Bela Bela \- Live Studio](https://open.spotify.com/track/29uC6WCV5q0jYJlfVw8IDc) | [Nkosi Zondo](https://open.spotify.com/artist/6fZnlEQhCdN5rTWuzKG7ao), [Bhekinkosi 'Soja' Hlatshwayo](https://open.spotify.com/artist/1pOOeJi41sMEExc6FXxWIR) | [Bela Bela \(Live Studio\)](https://open.spotify.com/album/7jwsvjLpVhlglv8Wy7NZOn) | 6:38 |
+| 48 | [Ebhedini](https://open.spotify.com/track/0Xl1YzuTlDP7ILQfb46T63) | [Ncesh Nonxishi](https://open.spotify.com/artist/3cvkD2gq2z8dCSiVagagZP), [Mthunzikazi Mbungwana](https://open.spotify.com/artist/4th427muHryTpC6m6UEmJo) | [Apho Kungenje](https://open.spotify.com/album/7BgstqFLclam34XUZfiX33) | 6:53 |
+| 49 | [Inkehli](https://open.spotify.com/track/2sCSm8uWxprJbkwqk4roTs) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on) | [Inkehli](https://open.spotify.com/album/5HSsIxH98Ic7Mw0k12cmSm) | 6:53 |
+| 50 | [Njia](https://open.spotify.com/track/6tmedtkicLtB4uJKuc2spW) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Jonno Sweetman](https://open.spotify.com/artist/0l8peTQLmGJYNRyeecRFhW), [Gontse Makhene](https://open.spotify.com/artist/3V7WKFF6UrGdI4jV6nBhHD), [Micca Manganye](https://open.spotify.com/artist/3UtkXcZLR9l1xzjTvp1aae) | [Njia](https://open.spotify.com/album/7IYWPcAgxfOe7xPwAFti5w) | 1:53 |
 
 Snapshot ID: `AAAAAPNMVMb4Imo5gNeeWad9j5BXHFmi`

@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQi0ZCT7HlO.md) - [plain]
 | 37 | [Come Thou Long Expected Jesus \- Fireside Christmas](https://open.spotify.com/track/4f9JMu88egVfi8KLqslVom) | [Anne Stahl](https://open.spotify.com/artist/75EMiZJs4kX9pxwH3O3WX4) | [Carols By The Fire](https://open.spotify.com/album/4RqB8ciH61URyJ3vjAD1bN) | 2:49 |
 | 38 | [Lo, How A Rose E'er Blooming \- Fireplace](https://open.spotify.com/track/4F5YPfIou0dd4hG39A8hWc) | [Jules Amaro](https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA) | [Piano Christmas By The Fireplace](https://open.spotify.com/album/71akQmAvBNjQWRO6S4cLo1) | 3:44 |
 
-Snapshot ID: `AAAAAHThYGrOCw6pJgjN8MVxNgLqwp75`
+Snapshot ID: `AAAAAJCEmE7RDf4E8y5oqYmOFkBmeBjB`

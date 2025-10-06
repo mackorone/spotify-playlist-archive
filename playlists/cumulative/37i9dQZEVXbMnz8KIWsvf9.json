@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 207347,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
@@ -3710,7 +3710,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 223716,
       "name": "Dream",
       "url": "https://open.spotify.com/track/5fFdUV9NMDxPjgkS54My63"
@@ -7662,7 +7662,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 149268,
       "name": "Like Damn",
       "url": "https://open.spotify.com/track/4wlmpwdyng4B4bObMnP3OS"
@@ -9778,7 +9778,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3euZKF0hmGxQ6h2JHHY4iu"
@@ -13578,10 +13578,28 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
       "album": {
@@ -14800,7 +14818,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 215000,
       "name": "What's going on",
       "url": "https://open.spotify.com/track/5dIYl0ERKVWLz6cKpfWwKp"
@@ -15430,7 +15448,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 259380,
       "name": "Yours Ever (feat. Q Flure)",
       "url": "https://open.spotify.com/track/5W2IYA5Su42XiI90GDdscj"
@@ -16310,7 +16328,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 258973,
       "name": "\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33",
       "url": "https://open.spotify.com/track/24VfUtHxbkCrscWC00toom"
@@ -20332,7 +20350,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 314117,
       "name": "\u0e2a\u0e38\u0e14\u0e41\u0e15\u0e48\u0e43\u0e08\u0e08\u0e30\u0e44\u0e02\u0e27\u0e48\u0e04\u0e27\u0e49\u0e32",
       "url": "https://open.spotify.com/track/6QdPlI3flfUFMy4JNpsWcG"
@@ -21980,7 +21998,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 238392,
       "name": "\u0e41\u0e04\u0e48\u0e04\u0e38\u0e13",
       "url": "https://open.spotify.com/track/5u8iqPNTa3ryOqeiNdgi6o"
@@ -22572,7 +22590,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 274786,
       "name": "\u0e43\u0e08\u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e40\u0e2b\u0e25\u0e37\u0e2d",
       "url": "https://open.spotify.com/track/5mcCatVvcUeNQpli4Mpaxl"

@@ -1,6 +1,6 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 142869,
+  "num_followers": 142868,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
+        "name": "Elvis' Christmas Album",
+        "url": "https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 129173,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
         "name": "If I Should Fall from Grace with God (Expanded Edition)",
         "url": "https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 272466,
       "name": "Fairytale of New York (feat. Kirsty MacColl)",
       "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
-        "name": "Elvis' Christmas Album",
-        "url": "https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 129173,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "Together In Electric Dreams",
-        "url": "https://open.spotify.com/album/5LT3id7rPUZCZvAZMZSjzy"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 201925,
-      "name": "Together In Electric Dreams",
-      "url": "https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
         "name": "Loneliest Time Of Year",
         "url": "https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 202613,
       "name": "Loneliest Time Of Year",
       "url": "https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
+        "name": "Together In Electric Dreams",
+        "url": "https://open.spotify.com/album/5LT3id7rPUZCZvAZMZSjzy"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 201925,
+      "name": "Together In Electric Dreams",
+      "url": "https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "Christmas Bells",
-        "url": "https://open.spotify.com/album/1dXRKuoD1gJpa4ZQp0zN46"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 246745,
-      "name": "Christmas Bells",
-      "url": "https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
         "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
         "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 163680,
       "name": "Time After Time - From The McDonald\u2019s Christmas Advert 2021",
       "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
+        "name": "Christmas Bells",
+        "url": "https://open.spotify.com/album/1dXRKuoD1gJpa4ZQp0zN46"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 246745,
+      "name": "Christmas Bells",
+      "url": "https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "The Magic Of Christmas",
-        "url": "https://open.spotify.com/album/6mSquMNOjmr49rmLMW0p08"
-      },
-      "artists": [
-        {
-          "name": "LYRA",
-          "url": "https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x"
-        }
-      ],
-      "duration_ms": 207946,
-      "name": "The Magic Of Christmas",
-      "url": "https://open.spotify.com/track/0J60y4thRnADY1AtEtxhCr"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
         "name": "My Favorite Things",
         "url": "https://open.spotify.com/album/4HM8jivtEeHxo9AfP0h2Vt"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 191378,
       "name": "My Favorite Things",
       "url": "https://open.spotify.com/track/0qRSeJNPVhhMDZ5N6gPoW6"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
+        "name": "The Magic Of Christmas",
+        "url": "https://open.spotify.com/album/6mSquMNOjmr49rmLMW0p08"
+      },
+      "artists": [
+        {
+          "name": "LYRA",
+          "url": "https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x"
+        }
+      ],
+      "duration_ms": 207946,
+      "name": "The Magic Of Christmas",
+      "url": "https://open.spotify.com/track/0J60y4thRnADY1AtEtxhCr"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
+        "name": "christmas day",
+        "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
+      },
+      "artists": [
+        {
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
+        }
+      ],
+      "duration_ms": 161324,
+      "name": "christmas day",
+      "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
         "name": "Christmas (Deluxe Special Edition)",
         "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 218465,
       "name": "White Christmas (with Shania Twain)",
       "url": "https://open.spotify.com/track/114461rbzcgTriw8n4FOPW"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
-        "name": "christmas day",
-        "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
-      },
-      "artists": [
-        {
-          "name": "Lexie Carroll",
-          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
-        }
-      ],
-      "duration_ms": 161324,
-      "name": "christmas day",
-      "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/1FRqLI971CD1QedTiJeL3c"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
         "name": "Stay Another Day",
         "url": "https://open.spotify.com/album/05csGxWijr1PGGfg4oEvGU"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 161657,
       "name": "Stay Another Day",
       "url": "https://open.spotify.com/track/5npCyhoNJ3eJLIszVqOwIj"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/1FRqLI971CD1QedTiJeL3c"
     },
     {
       "added_at": "2024-12-13 09:34:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Kaushik Mahalengam
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,155 likes - 66 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,162 likes - 66 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 7 | [Oru Murai Nokkinal](https://open.spotify.com/track/5ehjc7hFuqi73E9GmQEz1U) | [Vinesh dharan](https://open.spotify.com/artist/3HhORWLWExRuQ9ucBVIO11), [Christy George](https://open.spotify.com/artist/1YBMgy2O1RtGlVZN1Bx81W), [K Anandharaj](https://open.spotify.com/artist/3gHA9kFFrYKUrmoRhu6spK) | [Oru Murai Nokkinal](https://open.spotify.com/album/3N8GHJTEk7RVZI0fRoDrs6) | 4:32 |
 | 8 | [Kaadhal Vibe \(Bachata\)](https://open.spotify.com/track/6cORWkPNsK5unM85YFALFl) | [Arun Pauer](https://open.spotify.com/artist/1nXfmyX8X7x8meYQKiUsYp) | [Kaadhal Vibe \(Bachata\)](https://open.spotify.com/album/30SMTGvSew2EjPSabpbCuN) | 2:47 |
 | 9 | [Kanjaada](https://open.spotify.com/track/3M83NsjslV7zPdAYdkGqlO) | [MOZ](https://open.spotify.com/artist/1g4uzCTdQZdsfZKC1rBTZR) | [Kanjaada](https://open.spotify.com/album/1bDZYNMRVMRotImIClVWKw) | 1:56 |
-| 10 | [Nee Ennai Nerungayile](https://open.spotify.com/track/37QgPDhDSCqXnHjRNNxxB0) | [Nithyasri Venketraman](https://open.spotify.com/artist/6atAQEUW6LPPLCLxz0NVCr), [Jayaraj Chakravarthy](https://open.spotify.com/artist/1frL5ggVakn0rwLbvnQUIy), [Mohanrajan](https://open.spotify.com/artist/5tSoZKJdiyAz4blPkLLF3X) | [Nee Ennai Nerungayile](https://open.spotify.com/album/07l1pjD3SVRVlVix6RNkdH) | 4:10 |
+| 10 | [Nee Ennai Nerungayile](https://open.spotify.com/track/37QgPDhDSCqXnHjRNNxxB0) | [Nithyashree Venkataramanan](https://open.spotify.com/artist/2rjIp8JxMfyeWWcRj2bixP), [Jayaraj Chakravarthy](https://open.spotify.com/artist/1frL5ggVakn0rwLbvnQUIy), [Mohanrajan](https://open.spotify.com/artist/5tSoZKJdiyAz4blPkLLF3X) | [Nee Ennai Nerungayile](https://open.spotify.com/album/07l1pjD3SVRVlVix6RNkdH) | 4:10 |
 | 11 | [Pattampoochi parakuthada](https://open.spotify.com/track/7oMIjQELawYa32GK3NE4tS) | [mohanshiva](https://open.spotify.com/artist/4CIHHPmvZHiWtv6dNJAzY0), [Priya Mali](https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM) | [Pattampoochi parakuthada](https://open.spotify.com/album/5LxBMdyJzoln2xNr5zA6uG) | 4:16 |
 | 12 | [Neram Mayangavillai](https://open.spotify.com/track/64YUic5Fh4jjQonuCVlqNT) | [Vishnu Sunil](https://open.spotify.com/artist/7mleenu1O4TItvEJ1pnze6) | [Neram Mayangavillai](https://open.spotify.com/album/47OTiEDWNBSCxKYX9B4hXh) | 2:58 |
 | 13 | [Kaadhalin Kaanalai](https://open.spotify.com/track/212Too8nbkvRg2O6J7NkLq) | [Mahathi](https://open.spotify.com/artist/1aDrazy6us9J3HpnwE4O7m), [Akash Amudhan](https://open.spotify.com/artist/2HXVuoqdsuytQES2YwCkTJ), [Anish Karthick](https://open.spotify.com/artist/6kHjDYxcAfmNTuQ7j2fkQh), [Sajii boyy](https://open.spotify.com/artist/0T8uKoZBdGKhaJL9miWmat) | [Kaadhalin Kaanalai](https://open.spotify.com/album/1YzhldloHtVi9M3I46hJXb) | 5:36 |

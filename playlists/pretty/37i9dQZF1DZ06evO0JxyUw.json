@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 275218,
+  "num_followers": 275252,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAAA18ejzLzbnk4tUsHY//X/u",
+  "snapshot_id": "aOBjgAAAAAA5VQhE3WJme6z0FnPCISoR",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lady Marmalade",
+        "url": "https://open.spotify.com/album/5rlAvknHpWuF6m4VMS3vnJ"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        },
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 267960,
+      "name": "Lady Marmalade - Single Edit",
+      "url": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Ultimo Adi\u00f3s",
         "url": "https://open.spotify.com/album/1Tz1WfJZkvWPhyFHWAzZLo"
       },
@@ -195,34 +223,6 @@
       "duration_ms": 237466,
       "name": "El Ultimo Adi\u00f3s - Varios Artistas Version",
       "url": "https://open.spotify.com/track/0tzixmHNQfE6S6SirSToxW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lady Marmalade",
-        "url": "https://open.spotify.com/album/5rlAvknHpWuF6m4VMS3vnJ"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "Lil' Kim",
-          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
-        },
-        {
-          "name": "M\u00fda",
-          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
-        },
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 267960,
-      "name": "Lady Marmalade - Single Edit",
-      "url": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P"
     },
     {
       "added_at": null,
@@ -703,30 +703,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Mis Muchachas (feat. NATHY PELUSO)",
-        "url": "https://open.spotify.com/album/0WtOyuBYge9gx7X8MpCeeW"
+        "name": "Haunted Heart",
+        "url": "https://open.spotify.com/album/4Qe5hKn7JNQ55cBCMhQCUC"
       },
       "artists": [
         {
           "name": "Christina Aguilera",
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
         }
       ],
-      "duration_ms": 216737,
-      "name": "Pa Mis Muchachas (feat. NATHY PELUSO)",
-      "url": "https://open.spotify.com/track/1kGhjFgl6A68ZAYvtw2UDK"
+      "duration_ms": 166974,
+      "name": "Haunted Heart",
+      "url": "https://open.spotify.com/track/7qcanNUZ2M1kfBPuzHHVgj"
     },
     {
       "added_at": null,
@@ -779,18 +767,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haunted Heart",
-        "url": "https://open.spotify.com/album/4Qe5hKn7JNQ55cBCMhQCUC"
+        "name": "Pa Mis Muchachas (feat. NATHY PELUSO)",
+        "url": "https://open.spotify.com/album/0WtOyuBYge9gx7X8MpCeeW"
       },
       "artists": [
         {
           "name": "Christina Aguilera",
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
         }
       ],
-      "duration_ms": 166974,
-      "name": "Haunted Heart",
-      "url": "https://open.spotify.com/track/7qcanNUZ2M1kfBPuzHHVgj"
+      "duration_ms": 216737,
+      "name": "Pa Mis Muchachas (feat. NATHY PELUSO)",
+      "url": "https://open.spotify.com/track/1kGhjFgl6A68ZAYvtw2UDK"
     },
     {
       "added_at": null,

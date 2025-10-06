@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-892 songs - 1 day 21 hr 53 min
+893 songs - 1 day 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -643,6 +643,7 @@
 | [Power](https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Power](https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn) | 2:22 | 2024-05-17 |  |
 | [Pretend](https://open.spotify.com/track/6L0CV2dKwROWygdfPUXKI2) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Let's Go Camping](https://open.spotify.com/album/4hKEjXh28wr4AcWB2FBZ6Q) | 3:02 | 2022-03-24 | 2022-04-16 |
 | [Pretender](https://open.spotify.com/track/209ANSkGIsfA5M5GewdMGi) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Wisconsin](https://open.spotify.com/album/31RR4pZy65rFv65pX37zyG) | 2:08 | 2024-02-20 | 2025-09-26 |
+| [Promises](https://open.spotify.com/track/43U88NL56TYXF9sR6n7cHM) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sad](https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9) | 4:23 | 2025-10-03 |  |
 | [Punching Bag](https://open.spotify.com/track/7fudux10sVIxILOocZaHrW) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Punching Bag](https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS) | 2:59 | 2023-03-24 |  |
 | [Punkstar \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1rppprlWCNdcJY6DQxVNkI) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Punkstar \(feat\. Royal & the Serpent\)](https://open.spotify.com/album/5waz9PhRXRpr5LKEkPr09t) | 2:20 | 2023-03-24 | 2024-04-20 |
 | [Purity](https://open.spotify.com/track/1BV7YtzsoKAF2cULDHLe2K) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Purity](https://open.spotify.com/album/3yKU3194yUrl8T499qMKvQ) | 1:53 | 2022-03-24 | 2023-11-18 |
@@ -690,7 +691,7 @@
 | [Serotonin](https://open.spotify.com/track/1q2Zb0v5ZGxKDktEz7wSPb) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Serotonin](https://open.spotify.com/album/7Dv5bbo8oZ0KTrXG6CkeUO) | 3:02 | 2022-03-17 | 2022-10-13 |
 | [Serotonin](https://open.spotify.com/track/7tLTxOJY6cjQz4aJYMs8Nu) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:02 | 2022-10-14 | 2023-05-20 |
 | [Seventeen Going Under](https://open.spotify.com/track/1Dp7ASSZVVOPJ85VdLpjOX) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under](https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4) | 5:02 | 2022-03-24 |  |
-| [Shallow](https://open.spotify.com/track/2A0yaDps8KbadUuUEegBYQ) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Shallow](https://open.spotify.com/album/3pG0tymPYF4XegIzM6qqAh) | 3:23 | 2025-07-18 |  |
+| [Shallow](https://open.spotify.com/track/2A0yaDps8KbadUuUEegBYQ) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Shallow](https://open.spotify.com/album/3pG0tymPYF4XegIzM6qqAh) | 3:23 | 2025-07-18 | 2025-10-06 |
 | [Shame Shame](https://open.spotify.com/track/0wGv595Z2XDF9ZFbrbQqqH) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Shame Shame](https://open.spotify.com/album/4bMgI05AysPH4EdwWaWORy) | 4:17 | 2022-03-24 | 2022-04-04 |
 | [Shapeshift](https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shapeshift](https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf) | 2:25 | 2022-03-24 | 2023-11-18 |
 | [Sharks](https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Sharks](https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e) | 3:10 | 2022-06-30 | 2024-04-20 |

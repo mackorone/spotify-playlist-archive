@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,324 likes - 128 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,334 likes - 128 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 37 | [Please Don’t Touch](https://open.spotify.com/track/16eNwSoWmJh5GSjN8ECmIp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Please Don’t Touch](https://open.spotify.com/album/2L0kDBJ2d6aThU4egKkoDk) | 3:38 |
 | 38 | [Love Me Again](https://open.spotify.com/track/4QbX1M5JblYzGTVwdZTgfb) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Love Me Again](https://open.spotify.com/album/0Mz15UUJtdswzlTpPfhPfc) | 3:18 |
 | 39 | [Yours](https://open.spotify.com/track/7uNWZOCm6TphuTnwpDUUjN) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Yours](https://open.spotify.com/album/472vGmYiYh9aT9fBI04yIT) | 3:50 |
-| 40 | [Moi](https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Moi](https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw) | 2:54 |
-| 41 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 |
+| 40 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 |
+| 41 | [Moi](https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Moi](https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw) | 2:54 |
 | 42 | [Told You So](https://open.spotify.com/track/3Mvd9KPeMf2YQa1MiQGKmV) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [LM5 \(Deluxe\)](https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj) | 3:12 |
 | 43 | [Feel Right Now \(feat\. Nonô\)](https://open.spotify.com/track/1qX6EzEftYFq7MWL0ry3An) | [Parx](https://open.spotify.com/artist/2C45tSmv4vJEa6zD0aSwtO), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Feel Right Now \(feat\. Nonô\)](https://open.spotify.com/album/0HwFa92Rbgm9mVEMtfOV7z) | 2:30 |
 | 44 | [BIGGER](https://open.spotify.com/track/4R2KJOgEUP2qO3re9BwIhs) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:46 |
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 115 | [South East London](https://open.spotify.com/track/1FMM2ZK0wK7RIQTbi8OiSu) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Rapman Presents: Blue Story, Music Inspired By The Original Motion Picture](https://open.spotify.com/album/7rEE5D5xsKP4yGpwXXF7Bl) | 3:14 |
 | 116 | [Glue \(feat\. RAYE\)](https://open.spotify.com/track/1Uf09GGlf7Nq4iCfCbaGKf) | [Somewhere Else](https://open.spotify.com/artist/5LA9eBtrAmkfQveuJZLH5h), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Glue \(feat\. RAYE\)](https://open.spotify.com/album/1mG1ciibiQf1hQ6CE41Z91) | 3:02 |
 | 117 | [Braveface](https://open.spotify.com/track/4vChLQrMY67IWFxYCcQUVQ) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Braveface](https://open.spotify.com/album/4rNZwITNBukiT5F6s0KO9X) | 3:03 |
-| 118 | [War \(feat\. Keon Bryce\)](https://open.spotify.com/track/1GxgwYCyhEiS8XDh8J1y85) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Keon Bryce](https://open.spotify.com/artist/7aoCuY6OJl2puP2hX6Fal0) | [Street's Disciple](https://open.spotify.com/album/0jghcWTsQzux5T9sAfZO13) | 4:17 |
-| 119 | [Dear Ben, Pt\. II](https://open.spotify.com/track/0jdveBJMYBs7lk1w0Pk9Jw) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:39 |
+| 118 | [Dear Ben, Pt\. II](https://open.spotify.com/track/0jdveBJMYBs7lk1w0Pk9Jw) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:39 |
+| 119 | [War \(feat\. Keon Bryce\)](https://open.spotify.com/track/1GxgwYCyhEiS8XDh8J1y85) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Keon Bryce](https://open.spotify.com/artist/7aoCuY6OJl2puP2hX6Fal0) | [Street's Disciple](https://open.spotify.com/album/0jghcWTsQzux5T9sAfZO13) | 4:17 |
 | 120 | [Alien](https://open.spotify.com/track/0fZfRJ4LlniAOAvq2beBRI) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [Alien](https://open.spotify.com/album/7Lg6ullAYcXZA3VV8D7yBd) | 4:54 |
 | 121 | [Tell Me](https://open.spotify.com/track/3qERB87N7mWWvMiFnrMMzj) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [SECOND](https://open.spotify.com/album/6eT16kw4EZwX9jlHaQQ4Ww) | 3:27 |
 | 122 | [About Last Night..\. \(Intro\)](https://open.spotify.com/track/4h7pGYo2Ciay17qYsPXwfL) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 0:34 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 127 | [Don’t Cry \(feat\. Aida Lae\)](https://open.spotify.com/track/3aXsMhbTt3SQTD4iz3ptcc) | [Preditah](https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Don’t Cry \(feat\. Aida Lae\)](https://open.spotify.com/album/20fw7LGasmONYZDICD2cUD) | 2:49 |
 | 128 | [Magic](https://open.spotify.com/track/6Is9lEdN1IJQcD6sfFJiTo) | [Rachel Alejandro](https://open.spotify.com/artist/4oMk1QJuMWUWrNmchRJGWL) | [Heart's Desire](https://open.spotify.com/album/2hx6aKJg9nktlobIjmFiW8) | 3:12 |
 
-Snapshot ID: `Ab9/nAAAAAARMrZKZ9o0hJZ2Dfn9xeyU`
+Snapshot ID: `Ab+FMgAAAAAnt+dwApEa0vtrhFCG/OQv`

@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 82735,
+  "num_followers": 82752,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAADx1TcUDiKxZ2v8qKsbomIv",
+  "snapshot_id": "aOBjgAAAAAB8oO8J4PAbc2AumRpSsrAR",
   "tracks": [
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "COUNTRY! COUNTRY!",
+        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 217270,
+      "name": "Take The Country And Run",
+      "url": "https://open.spotify.com/track/1vkhfKFbsg8mj1MNfqNHJx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "COUNTRY!",
         "url": "https://open.spotify.com/album/6D36bEVEUJueIpSqdaotyQ"
       },
@@ -551,38 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COUNTRY! COUNTRY!",
-        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 217270,
-      "name": "Take The Country And Run",
-      "url": "https://open.spotify.com/track/1vkhfKFbsg8mj1MNfqNHJx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COUNTRY!",
-        "url": "https://open.spotify.com/album/45k1cbcPYPSmCFThpFBHQG"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 184281,
-      "name": "Buck On The Wall",
-      "url": "https://open.spotify.com/track/71LMlj53VfGjIkOsLasnV9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A ROCK",
         "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 202516,
       "name": "AIN'T A BAD DAY",
       "url": "https://open.spotify.com/track/6ylWoGhvbMInRjPnceGLpO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COUNTRY! COUNTRY!",
+        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 204910,
+      "name": "Country In Me",
+      "url": "https://open.spotify.com/track/0tnKWiWZvNiTehuGuYAHGT"
     },
     {
       "added_at": null,
@@ -615,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "COUNTRY! COUNTRY!",
-        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
+        "name": "COUNTRY!",
+        "url": "https://open.spotify.com/album/45k1cbcPYPSmCFThpFBHQG"
       },
       "artists": [
         {
@@ -624,9 +624,45 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 204910,
-      "name": "Country In Me",
-      "url": "https://open.spotify.com/track/0tnKWiWZvNiTehuGuYAHGT"
+      "duration_ms": 184281,
+      "name": "Buck On The Wall",
+      "url": "https://open.spotify.com/track/71LMlj53VfGjIkOsLasnV9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dog Years",
+        "url": "https://open.spotify.com/album/7pPNAH85dZ7ISCOtk8MvDI"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 256627,
+      "name": "Dog Years",
+      "url": "https://open.spotify.com/track/3WH2Z2ZoUv0RB0NBV13YY9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COUNTRY! COUNTRY!",
+        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        }
+      ],
+      "duration_ms": 218471,
+      "name": "Bedrooms In The Sky (feat. Stephen Wilson Jr.)",
+      "url": "https://open.spotify.com/track/4hVlesuEbCoRKZwuupbgTx"
     },
     {
       "added_at": null,
@@ -702,21 +738,17 @@
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Stephen Wilson Jr.",
-          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
         }
       ],
-      "duration_ms": 218471,
-      "name": "Bedrooms In The Sky (feat. Stephen Wilson Jr.)",
-      "url": "https://open.spotify.com/track/4hVlesuEbCoRKZwuupbgTx"
+      "duration_ms": 172672,
+      "name": "Y\u2019all Need Jesus",
+      "url": "https://open.spotify.com/track/4LmtuM662l8X2spMNBsdHj"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Dog Years",
-        "url": "https://open.spotify.com/album/7pPNAH85dZ7ISCOtk8MvDI"
+        "name": "COUNTRY! COUNTRY! COUNTRY!",
+        "url": "https://open.spotify.com/album/0ihzXn0iwyBtHVfQuLRUSh"
       },
       "artists": [
         {
@@ -724,9 +756,9 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 256627,
-      "name": "Dog Years",
-      "url": "https://open.spotify.com/track/3WH2Z2ZoUv0RB0NBV13YY9"
+      "duration_ms": 212685,
+      "name": "Good Ole Boy",
+      "url": "https://open.spotify.com/track/3zvPnDrcIbpXnHZ7Sspw3m"
     },
     {
       "added_at": null,
@@ -776,9 +808,9 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 172672,
-      "name": "Y\u2019all Need Jesus",
-      "url": "https://open.spotify.com/track/4LmtuM662l8X2spMNBsdHj"
+      "duration_ms": 228759,
+      "name": "Gun To My Head",
+      "url": "https://open.spotify.com/track/3VVIWGnCANZczMUaMMqhWG"
     },
     {
       "added_at": null,
@@ -811,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COUNTRY! COUNTRY! COUNTRY!",
-        "url": "https://open.spotify.com/album/0ihzXn0iwyBtHVfQuLRUSh"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 212685,
-      "name": "Good Ole Boy",
-      "url": "https://open.spotify.com/track/3zvPnDrcIbpXnHZ7Sspw3m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THIS OLE BOY",
         "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
       },
@@ -843,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COUNTRY! COUNTRY!",
-        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 228759,
-      "name": "Gun To My Head",
-      "url": "https://open.spotify.com/track/3VVIWGnCANZczMUaMMqhWG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WHERE TO FIND ME",
         "url": "https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF"
       },
@@ -871,6 +871,22 @@
       "duration_ms": 161159,
       "name": "ALL SHE LEFT WAS ME",
       "url": "https://open.spotify.com/track/1lyDAuNyaHxGaNNp7rAyne"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COUNTRY! COUNTRY!",
+        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 181154,
+      "name": "Who Don\u2019t",
+      "url": "https://open.spotify.com/track/3Mz0bZ1SKqVzcxgtJzfxSb"
     },
     {
       "added_at": null,
@@ -903,22 +919,6 @@
       "duration_ms": 203674,
       "name": "THROWBACK",
       "url": "https://open.spotify.com/track/0nuoH38JAOGnaG63WTe5Cz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COUNTRY! COUNTRY!",
-        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 181154,
-      "name": "Who Don\u2019t",
-      "url": "https://open.spotify.com/track/3Mz0bZ1SKqVzcxgtJzfxSb"
     }
   ],
   "unique_name": "This Is HARDY",

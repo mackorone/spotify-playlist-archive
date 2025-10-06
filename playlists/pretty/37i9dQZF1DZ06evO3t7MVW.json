@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 91408,
+  "num_followers": 91423,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAAD75T7H6ZTitgVfC3aCI2Bx",
+  "snapshot_id": "aOBjgAAAAADgryz1OPRNqvNcyRtusaiX",
   "tracks": [
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ways Of The World",
-        "url": "https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q"
-      },
-      "artists": [
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 237756,
-      "name": "Siren (with Stick Figure)",
-      "url": "https://open.spotify.com/track/3jSlARN861elnfSuveZx8X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burial Ground",
         "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 227266,
       "name": "Visions (with Stick Figure)",
       "url": "https://open.spotify.com/track/6VFrBdWj6BjGNeuX3VlmPl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ways Of The World",
+        "url": "https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 237756,
+      "name": "Siren (with Stick Figure)",
+      "url": "https://open.spotify.com/track/3jSlARN861elnfSuveZx8X"
     },
     {
       "added_at": null,

@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 244600,
       "name": "100 Years",
       "url": "https://open.spotify.com/track/2lFlveK1y13WWp3vnQtrr3"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 360938,
       "name": "Aaraadhike",
       "url": "https://open.spotify.com/track/7nHQjVpEncX7NEdA2G6kU1"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 303585,
       "name": "Adyam Thammil",
       "url": "https://open.spotify.com/track/5Ye5VX2e1B61Bx5GwZYPNd"
@@ -266,10 +266,28 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 297783,
       "name": "Agasatha",
       "url": "https://open.spotify.com/track/0FS8IXxOxUVX24aelwkBJv"
+    },
+    {
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/3fMyZxyMnganWmHEfYVP9T"
+      },
+      "artists": [
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217643,
+      "name": "Ain't No Reason",
+      "url": "https://open.spotify.com/track/77HBtt6ZKzUqudLRekxS8F"
     },
     {
       "album": {
@@ -332,7 +350,7 @@
       ],
       "date_added": "2025-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 225272,
       "name": "Akame",
       "url": "https://open.spotify.com/track/1SYEp0TdbqLzNos5jEFDUv"
@@ -424,7 +442,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 222647,
       "name": "ALL MY LOVE",
       "url": "https://open.spotify.com/track/1mAMlMxsUBQ4qqQ8FVdjt8"
@@ -442,7 +460,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 207531,
       "name": "All The Light",
       "url": "https://open.spotify.com/track/49q67fOFH8hDvyOIN3wtap"
@@ -648,7 +666,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-03",
+      "date_removed": null,
       "duration_ms": 266773,
       "name": "Arere Vaanaa",
       "url": "https://open.spotify.com/track/62UqZv8jJwfXpKENrnk8OJ"
@@ -692,7 +710,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 294500,
       "name": "Arz Kiya Hai | Coke Studio Bharat",
       "url": "https://open.spotify.com/track/1bMkimTb47umgNP6xCi4A1"
@@ -780,7 +798,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 263028,
       "name": "Aval - From \"Op 160/18 Kakshi: Amminippilla\"",
       "url": "https://open.spotify.com/track/3cZ1L75hTPcF9Cxr3oEzcj"
@@ -842,7 +860,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 233640,
       "name": "Bad Day",
       "url": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
@@ -860,7 +878,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 191906,
       "name": "Banana Pancakes",
       "url": "https://open.spotify.com/track/0BgbobvykXxEvxo2HhCuvM"
@@ -972,7 +990,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 285120,
       "name": "Between The Raindrops",
       "url": "https://open.spotify.com/track/1nxGSNnFCpDLwm3umCOUpi"
@@ -1096,6 +1114,24 @@
       "duration_ms": 214357,
       "name": "blue",
       "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
+    },
+    {
+      "album": {
+        "name": "stay with the ocean, i'll find you",
+        "url": "https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214357,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/6W614n8yLUeS3zsZSeBwyq"
     },
     {
       "album": {
@@ -1372,7 +1408,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 234720,
       "name": "Cherukadhapole",
       "url": "https://open.spotify.com/track/6GWU92QOjtkXCa5ZwUTYYb"
@@ -1712,7 +1748,7 @@
       ],
       "date_added": "2025-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 142986,
       "name": "Curse Of The Dreamer",
       "url": "https://open.spotify.com/track/2rYSq4e4LtuQEJrm8dYeld"
@@ -1896,7 +1932,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 278373,
       "name": "Dirty Paws",
       "url": "https://open.spotify.com/track/5g7rJvWYVrloJZwKiShqlS"
@@ -2146,7 +2182,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 156923,
       "name": "Ee Mazha Megham",
       "url": "https://open.spotify.com/track/6XiDeVfyySA2LnBPsnwXbI"
@@ -2810,7 +2846,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 210165,
       "name": "Gonna Be Okay",
       "url": "https://open.spotify.com/track/2Ocao0XJlBrKgIQm9ckhsH"
@@ -2930,7 +2966,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 295000,
       "name": "Happy People (with Teddy Swims & Jac Ross)",
       "url": "https://open.spotify.com/track/5lujBnGhaV4zgazZ6A8S5g"
@@ -2966,7 +3002,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 269720,
       "name": "Heartbreak Warfare",
       "url": "https://open.spotify.com/track/4gs07VlJST4bdxGbBsXVue"
@@ -3002,7 +3038,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 171757,
       "name": "her",
       "url": "https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM"
@@ -3092,7 +3128,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 238746,
       "name": "Hold Back The River",
       "url": "https://open.spotify.com/track/63lNvqjdrYxusz43JnORbE"
@@ -3354,7 +3390,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-03",
+      "date_removed": null,
       "duration_ms": 218006,
       "name": "I Wanna Dance With Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/4uAnA8nZAgl1bASMQTqnJI"
@@ -3486,7 +3522,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 228750,
       "name": "Ilakozhiye - From \"Thalavara\"",
       "url": "https://open.spotify.com/track/0bWSEjbLs9Byx02grLa6AX"
@@ -3562,7 +3598,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 181800,
       "name": "in my mind",
       "url": "https://open.spotify.com/track/6HEJavNON4wd0cy1Hp6KV2"
@@ -3742,7 +3778,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-03",
+      "date_removed": null,
       "duration_ms": 224842,
       "name": "Ishq",
       "url": "https://open.spotify.com/track/1hlbywc8Jhl1FFqJxAMabE"
@@ -3804,7 +3840,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-18",
+      "date_removed": null,
       "duration_ms": 210261,
       "name": "Ithale Nee",
       "url": "https://open.spotify.com/track/6XRzFosRlKVzYU9UD1kkZN"
@@ -3896,7 +3932,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 259213,
       "name": "Jeevana",
       "url": "https://open.spotify.com/track/7e76tfLZK1jI4ZjsRA6Bjp"
@@ -4188,7 +4224,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-22",
+      "date_removed": null,
       "duration_ms": 260992,
       "name": "Kadalalle (From \"Dear Comrade\")",
       "url": "https://open.spotify.com/track/2kW6AMK99mnEO6X01r2E3T"
@@ -4544,7 +4580,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 325806,
       "name": "Khwaab",
       "url": "https://open.spotify.com/track/0H9rWqCXi7gv6kDO3N98ZU"
@@ -4802,7 +4838,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 212320,
       "name": "Love on the Weekend",
       "url": "https://open.spotify.com/track/0oiCeOPwm4zhwfyIpAE37y"
@@ -5134,7 +5170,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 266102,
       "name": "Mazha Paadum",
       "url": "https://open.spotify.com/track/7dI3nM7YEzr214pYfZgei4"
@@ -5234,7 +5270,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 249534,
       "name": "Mazhamegham",
       "url": "https://open.spotify.com/track/4uY3rCTpHlq1enEiFMDrNf"
@@ -5278,7 +5314,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 255997,
       "name": "Mazhaneer Thullikal (Male) (from \"Beautiful (Malayalam Film)\")",
       "url": "https://open.spotify.com/track/2Zjv5MQK3gds2FRT4sWM9h"
@@ -5386,7 +5422,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 291991,
       "name": "Mazhaye Thoomazhaye",
       "url": "https://open.spotify.com/track/28vMvTr88sI6XQgGgFHJ8r"
@@ -5506,7 +5542,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 223640,
       "name": "Mess Is Mine",
       "url": "https://open.spotify.com/track/6IJXxWAHTVORSyl7lT5pkY"
@@ -5742,7 +5778,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 236214,
       "name": "Mulchedi",
       "url": "https://open.spotify.com/track/1sHRRpWdvPmT1XQR3WEtMq"
@@ -5838,7 +5874,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 206250,
       "name": "My Home",
       "url": "https://open.spotify.com/track/4ZEw5uS9RY6M6lEjsu7w8Q"
@@ -6118,7 +6154,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 216555,
       "name": "Neeyilla Neram",
       "url": "https://open.spotify.com/track/150QIbzsnzGQLLcXVbJaXQ"
@@ -6356,7 +6392,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 242181,
       "name": "Nila",
       "url": "https://open.spotify.com/track/0qj4kWzwOSn5gt2hQSE4TW"
@@ -6458,7 +6494,7 @@
       ],
       "date_added": "2025-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 201818,
       "name": "No One Wants To Die Alone - Acoustic Version",
       "url": "https://open.spotify.com/track/54Lie66KFAGm0g2GDXOVtg"
@@ -6476,7 +6512,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 217106,
       "name": "No Rain",
       "url": "https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT"
@@ -6788,7 +6824,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 294230,
       "name": "Oru Nokku Kaanuvaan",
       "url": "https://open.spotify.com/track/6HkT2S0yiktHdq10q9Qndp"
@@ -7058,7 +7094,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 216504,
       "name": "Parimitha Neram - From \"Madhuram\"",
       "url": "https://open.spotify.com/track/6BpvuH6BxCUmkd5nWImt8M"
@@ -7186,7 +7222,7 @@
       ],
       "date_added": "2025-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 145219,
       "name": "pick up the phone",
       "url": "https://open.spotify.com/track/6Z1IBgysq1FfSzhQWUdvAc"
@@ -7222,7 +7258,7 @@
       ],
       "date_added": "2025-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 335506,
       "name": "Please Forgive Me",
       "url": "https://open.spotify.com/track/5Zsc5iKqeqfIyYsLuB2vrp"
@@ -7350,7 +7386,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-19",
+      "date_removed": null,
       "duration_ms": 276168,
       "name": "Punchiri Thanjum",
       "url": "https://open.spotify.com/track/1QbbfwcTSbELc1vVU14bXp"
@@ -7538,7 +7574,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 180520,
       "name": "Raindrops Keep Fallin' On My Head",
       "url": "https://open.spotify.com/track/2s1Yh0AywJhLsKKZ9vM0tm"
@@ -7668,7 +7704,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 197346,
       "name": "Right As Rain",
       "url": "https://open.spotify.com/track/6OLudcGaT6HQ5bXH54kI8i"
@@ -8036,7 +8072,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 159068,
       "name": "She Loves the Rain",
       "url": "https://open.spotify.com/track/6n6IzBGcMZA1p1zMln7n9x"
@@ -8264,7 +8300,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 308026,
       "name": "Somewhere Over The Rainbow/What A Wonderful World",
       "url": "https://open.spotify.com/track/25U7raB3ZSszayTYClh4hF"
@@ -8420,7 +8456,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 178193,
       "name": "Sumahaasithe - The Waiting (From \"Abhilasham\")",
       "url": "https://open.spotify.com/track/668FHAzmLQ3HefgUHfrp2b"
@@ -8474,7 +8510,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 254853,
       "name": "Sunday Morning - Acoustic",
       "url": "https://open.spotify.com/track/3bXhtg6H8lOMWaLZttQF6F"
@@ -8546,7 +8582,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 163854,
       "name": "SUPERMAN",
       "url": "https://open.spotify.com/track/1KMkatBuls9xhZZVX0gays"
@@ -8900,7 +8936,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 176048,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/3cPoiK69oQ1SdbB2j2ulGm"
@@ -9374,7 +9410,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 198296,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/5oCyK3vuoQWzczWNwabnL9"
@@ -9454,7 +9490,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55"
@@ -9942,7 +9978,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 201173,
       "name": "Waiting On the World to Change",
       "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
@@ -10036,7 +10072,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 205982,
       "name": "When I Die",
       "url": "https://open.spotify.com/track/7Je3ZS7wC2wdeORkmvF3GO"
@@ -10216,7 +10252,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-03",
+      "date_removed": null,
       "duration_ms": 213173,
       "name": "You Give Me Something",
       "url": "https://open.spotify.com/track/6bFsQ6yOp3z5mGNkhWP0P1"

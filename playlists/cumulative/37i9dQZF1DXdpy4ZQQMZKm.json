@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7otCGmgp9h4CsR2LhwB6gt"
@@ -816,7 +816,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 278573,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML"
@@ -1015,6 +1015,28 @@
     },
     {
       "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/1Jbwq1BswM8apm7pjRZKq8"
+      },
+      "artists": [
+        {
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        },
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191387,
+      "name": "Hello (feat. Dragonette)",
+      "url": "https://open.spotify.com/track/3sl4dcqSwxHVnLfqwF2jly"
+    },
+    {
+      "album": {
         "name": "Sit Still, Look Pretty",
         "url": "https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4"
       },
@@ -1174,7 +1196,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 210346,
       "name": "I'll Do It",
       "url": "https://open.spotify.com/track/3RpCFxfsccNPDTWd3ALMaB"
@@ -1590,6 +1612,24 @@
       "duration_ms": 386906,
       "name": "Money Trees",
       "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
+    },
+    {
+      "album": {
+        "name": "Ultimate R&B 2008 (Double Album)",
+        "url": "https://open.spotify.com/album/5B8yXRhRIxrBNlhyFfFwEt"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327373,
+      "name": "My Humps",
+      "url": "https://open.spotify.com/track/03Tm89xwZ33MfFah9OE0rz"
     },
     {
       "album": {
@@ -2157,6 +2197,24 @@
     },
     {
       "album": {
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp"
+      },
+      "artists": [
+        {
+          "name": "fun.",
+          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277040,
+      "name": "Some Nights",
+      "url": "https://open.spotify.com/track/67WTwafOMgegV6ABnBQxcE"
+    },
+    {
+      "album": {
         "name": "Making Mirrors",
         "url": "https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna"
       },
@@ -2646,7 +2704,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-06",
       "duration_ms": 231920,
       "name": "The Cut That Always Bleeds",
       "url": "https://open.spotify.com/track/7wTqEW5nrMhvyEhEyTnOMd"
@@ -2958,6 +3016,24 @@
       "duration_ms": 213826,
       "name": "When I Was Your Man",
       "url": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"
+    },
+    {
+      "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2025-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242680,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/5WQQIDU3HRaMyPkob8mpFb"
     },
     {
       "album": {

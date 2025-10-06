@@ -4,7 +4,7 @@
 
 > When my mouth has no words, let my spirit sing
 
-97 songs - 13 hr 40 min
+98 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,8 +22,9 @@
 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 | 2024-07-26 |  |
 | [Captured My Heart](https://open.spotify.com/track/0mkiOUQl052rRacosA5fS4) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap) | 10:31 | 2024-07-26 |  |
 | [Chants of Ascension](https://open.spotify.com/track/6Rkip7RaOfsHjJlOb3UY4N) | [JOSHUA BANJO](https://open.spotify.com/artist/4V02aAFEwBwBrVgPnSV49E) | [Chants of Ascension](https://open.spotify.com/album/3TX9A7yDSZfrOMvUIvbAVV) | 9:30 | 2024-07-26 |  |
+| [Chants of Intimacy](https://open.spotify.com/track/5pzgMmTjKJlThDPQnfRX5I) | [Faith Captain](https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK), [The Zamar Team](https://open.spotify.com/artist/2KMsF6ENAkWuM80Kg1fdND) | [The Zamar Experience](https://open.spotify.com/album/4leEZEGBNamPXVBRUqDUQa) | 12:50 | 2024-07-26 |  |
 | [Daddy wey dey Pamper](https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU) | [Daddy wey dey Pamper](https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI) | 12:40 | 2024-07-26 |  |
-| [Deep Prophetic Worship](https://open.spotify.com/track/4mIabVSMCGzLNCsDYBniYQ) | [Fiyin Adeniyi](https://open.spotify.com/artist/7b4BZkj7cS5gokEOCrNuN0) | [Deep Prophetic Worship](https://open.spotify.com/album/1Fl0GKcHMtfMyOt2g4rxS6) | 2:42 | 2024-07-26 |  |
+| [Deep Prophetic Worship](https://open.spotify.com/track/4mIabVSMCGzLNCsDYBniYQ) | [Fiyin Adeniyi](https://open.spotify.com/artist/7b4BZkj7cS5gokEOCrNuN0) | [Deep Prophetic Worship](https://open.spotify.com/album/1Fl0GKcHMtfMyOt2g4rxS6) | 2:42 | 2024-07-26 | 2025-10-06 |
 | [Deeper Experience Chant](https://open.spotify.com/track/7JJ1xN2a1s7EV7ujV3TQyE) | [Esther Jonathan](https://open.spotify.com/artist/2VwZIHK1W8Izjud3aASxA9), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Deeper Experience Chant](https://open.spotify.com/album/1Tay2nbUOJnoshqUEoIbO8) | 9:24 | 2024-07-26 |  |
 | [Desire \(Soaking\)](https://open.spotify.com/track/0XnDlgontGHG8XpS0ifP7b) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Desire \(Soaking\)](https://open.spotify.com/album/0WCOP52II2HdFYZ1saG2Ym) | 4:23 | 2024-07-26 |  |
 | [Dide](https://open.spotify.com/track/1ySo3tFztJvwjCjnDLRxK5) | [JayMikee](https://open.spotify.com/artist/1If5luzGOiRqMAlwPchSS2), [Tee Worship](https://open.spotify.com/artist/1HNyNN9fa1wTVD69hU9FdZ) | [Dide \(Soundtracks from the movie ENOCH\)](https://open.spotify.com/album/5YaA3qQpHQMnUZjY3B8yzH) | 3:21 | 2024-07-26 |  |
@@ -51,9 +52,9 @@
 | [Hunger \(Cover Version\)](https://open.spotify.com/track/4y1G0zIj1I6FKdD5riSTEy) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Hunger \(Cover Version\)](https://open.spotify.com/album/0SApsq2CLGIYTK2BDHHTtM) | 3:27 | 2024-07-26 |  |
 | [I will pray](https://open.spotify.com/track/4us9pwwMqOKN3lklnPZZAv) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I will pray](https://open.spotify.com/album/28UZKXjw7Iag6leBIIoAeQ) | 2:50 | 2024-07-26 |  |
 | [I'm Available \(Prayer Chant\)](https://open.spotify.com/track/0ANipW0kAZ1RIocfpL1u4u) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Strings of Glory \(Prayer Chant\)](https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb) | 5:20 | 2024-07-26 |  |
-| [In This Place \- Live At Carnival City, 2024](https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [In This Place/Liyabasebenzela \(Live At Carnival City, 2024\)](https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD) | 6:33 | 2025-03-07 |  |
+| [In This Place \- Live At Carnival City, 2024](https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [In This Place/Liyabasebenzela \(Live At Carnival City, 2024\)](https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD) | 6:33 | 2025-03-07 | 2025-10-06 |
 | [Intensify](https://open.spotify.com/track/2apSO736RbDC57Uwg1X7vw) | [1Spirit & Theophilus Sunday](https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00) | [Eternity in View](https://open.spotify.com/album/0uWI0ToFhg1eLuNvr32eGY) | 3:34 | 2024-07-26 |  |
-| [Intercession](https://open.spotify.com/track/2RXbpRdcxIq513gWw7tgn7) | [Caleb Music](https://open.spotify.com/artist/3tkHMoB4rBAXLjg0iq2jz0) | [Intercession](https://open.spotify.com/album/668d4mhaCYauZOunBEq7Vb) | 5:26 | 2024-07-26 | 2025-09-12 |
+| [Intercession](https://open.spotify.com/track/2RXbpRdcxIq513gWw7tgn7) | [Caleb Music](https://open.spotify.com/artist/3tkHMoB4rBAXLjg0iq2jz0) | [Intercession](https://open.spotify.com/album/668d4mhaCYauZOunBEq7Vb) | 5:26 | 2024-07-26 |  |
 | [Into the Deep \(Prayer Chant\)](https://open.spotify.com/track/1Lz5z1VShC93fUV6GsB3DO) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Strings of Glory \(Prayer Chant\)](https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb) | 3:45 | 2024-07-26 |  |
 | [Iwo Loba](https://open.spotify.com/track/27YFofQ1E31ldqdR6wqA7F) | [Ucious Music](https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Iwo Loba](https://open.spotify.com/album/41TyHM9fcGLKecb3k6zJyp) | 14:53 | 2024-07-26 |  |
 | [Iwo Loba\(Chant\)](https://open.spotify.com/track/7DWMCsJ0Vb7Dx3Q1Zr2y7I) | [Hugo David](https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo) | [Tongues and Melodies](https://open.spotify.com/album/4KKbio6RtPiANVNYFAQwnK) | 2:14 | 2024-07-26 | 2025-09-30 |

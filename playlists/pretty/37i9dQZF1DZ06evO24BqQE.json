@@ -1,12 +1,12 @@
 {
   "description": "This is BNXN. The essential tracks, all in one playlist.",
-  "num_followers": 41747,
+  "num_followers": 41763,
   "original_name": "This Is BNXN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aN8SAAAAAAAJHMOIQ5IUMEPmmIi7HCUM",
+  "snapshot_id": "aOBjgAAAAAAfx3hYpvADyJM7yRnWqdWd",
   "tracks": [
     {
       "added_at": null,
@@ -723,18 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Spoil My Steeze",
-        "url": "https://open.spotify.com/album/7keuk7sJUYxoVCDaZTeve6"
+        "name": "RnB",
+        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
       },
       "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 211652,
-      "name": "No Spoil My Steeze",
-      "url": "https://open.spotify.com/track/7vT1tAmx5F8P2Fat7gqsZz"
+      "duration_ms": 175777,
+      "name": "Party Monster",
+      "url": "https://open.spotify.com/track/6XQ3ver8HQA5voTiXDk0xG"
     },
     {
       "added_at": null,
@@ -779,22 +783,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "RnB",
-        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
+        "name": "No Spoil My Steeze",
+        "url": "https://open.spotify.com/album/7keuk7sJUYxoVCDaZTeve6"
       },
       "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 175777,
-      "name": "Party Monster",
-      "url": "https://open.spotify.com/track/6XQ3ver8HQA5voTiXDk0xG"
+      "duration_ms": 211652,
+      "name": "No Spoil My Steeze",
+      "url": "https://open.spotify.com/track/7vT1tAmx5F8P2Fat7gqsZz"
     },
     {
       "added_at": null,

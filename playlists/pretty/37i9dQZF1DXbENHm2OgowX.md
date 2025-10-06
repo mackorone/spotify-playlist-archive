@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 
 > wandering the forest as the fog floats through the trees
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,460 likes - 69 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,749 likes - 69 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 50 | [Still Numbers](https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Heavy](https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm) | 4:49 |
 | 51 | [4AM ambient version](https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0) | [Late Era](https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN) | [4AM ambient version](https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn) | 1:52 |
 | 52 | [Under The Bed](https://open.spotify.com/track/3dUqKqvdBv7TUm0jnAoYRV) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Under The Bed](https://open.spotify.com/album/7pbDEcOijM3A5aMX79aMMp) | 9:54 |
-| 53 | [haunted, but it's ambient](https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [haunted, but it's ambient](https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl) | 2:16 |
-| 54 | [Matèl](https://open.spotify.com/track/6d81er1G1FqItrbdX2Ta5E) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [Matèl \(original motion picture soundtrack\)](https://open.spotify.com/album/6Uu2aSnnskKHLs0mriQfcT) | 3:24 |
+| 53 | [Matèl](https://open.spotify.com/track/6d81er1G1FqItrbdX2Ta5E) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [Matèl \(original motion picture soundtrack\)](https://open.spotify.com/album/6Uu2aSnnskKHLs0mriQfcT) | 3:24 |
+| 54 | [haunted, but it's ambient](https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [haunted, but it's ambient](https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl) | 2:16 |
 | 55 | [Waiting for Your Train](https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R) | [Wreath](https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX) | [Green Wall](https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE) | 2:02 |
 | 56 | [Dance of Seasons](https://open.spotify.com/track/7Ikb6ccHVKwhmafzmpQFSN) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Dance of Seasons](https://open.spotify.com/album/08Z5Fkweh6PZirP9LVfnbr) | 7:02 |
 | 57 | [Bardo Landscape](https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e) | [Alicia Enstrom](https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa) | [Bardo Landscape](https://open.spotify.com/album/4MGotWNffTdUNvrgNiRF0f) | 3:23 |
-| 58 | [cry \- Slowed](https://open.spotify.com/track/3mMI0ZM6VM2qmWb75kbgzY) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Kol](https://open.spotify.com/artist/0U6V8CeBBv9tQPBLBCircp) | [cry](https://open.spotify.com/album/3ZuOU00dKlfWPcK5maio5I) | 2:26 |
-| 59 | [For One Another](https://open.spotify.com/track/76Q7prOhYcczSlOrHfNQnj) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS), [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw), [Harbors](https://open.spotify.com/artist/6lOZ3w183ZOw3cEJc7lt8R) | [For One Another](https://open.spotify.com/album/556MxCxr9kDtL0NIQJvNKw) | 3:50 |
+| 58 | [For One Another](https://open.spotify.com/track/76Q7prOhYcczSlOrHfNQnj) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS), [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw), [Harbors](https://open.spotify.com/artist/6lOZ3w183ZOw3cEJc7lt8R) | [For One Another](https://open.spotify.com/album/556MxCxr9kDtL0NIQJvNKw) | 3:50 |
+| 59 | [cry \- Slowed](https://open.spotify.com/track/3mMI0ZM6VM2qmWb75kbgzY) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Kol](https://open.spotify.com/artist/0U6V8CeBBv9tQPBLBCircp) | [cry](https://open.spotify.com/album/3ZuOU00dKlfWPcK5maio5I) | 2:26 |
 | 60 | [The Monolith](https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar](https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9) | 4:32 |
 | 61 | [Maple Seed](https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5) | [Benoît Pioulard](https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl) | [Eidetic](https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI) | 2:21 |
 | 62 | [Entwined](https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7), [Karin Park](https://open.spotify.com/artist/5uBdYy8QRabKEL1MtDPXfr) | [Alter](https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza) | 9:26 |

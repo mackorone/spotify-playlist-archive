@@ -4,7 +4,7 @@
 
 > 
 
-240 songs - 22 hr 44 min
+241 songs - 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [You Are The Only One](https://open.spotify.com/track/6kjjiuFtJ6uNnonwY1AioP) | [Amazingblaze](https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ) | [You Are The Only One](https://open.spotify.com/album/7dztEddHwUAJTkFNtSTEGv) | 5:13 | 2025-08-07 |  |
 | [You Thought It Was the End](https://open.spotify.com/track/0hRfA6AsUZZNwjBsVOekFH) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [A Magic World](https://open.spotify.com/album/3uW3PwT40SJKQDfhrLvwNY) | 3:09 | 2021-10-22 |  |
 | [Yougan](https://open.spotify.com/track/2X3iK5mRObJ9MwtsiWvTUL) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Blitzbahn](https://open.spotify.com/album/790P3HDKEu482J1Oz46OCo) | 6:17 | 2020-10-04 | 2025-09-12 |
+| [Your Body](https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [Your Body](https://open.spotify.com/album/7BILrDqY2kO1SOhX2MUJVN) | 3:48 | 2025-10-05 |  |
 | [Yoyoyo](https://open.spotify.com/track/3mjpUhSiUbEvaPdxikuEZI) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Yoyoyo](https://open.spotify.com/album/5EZ9za0ULGWOTaLEfPj6aw) | 4:35 | 2024-05-27 | 2025-08-28 |
 | [Zeit](https://open.spotify.com/track/3eTLlDRs4areEg79zapizJ) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Zukunft](https://open.spotify.com/album/7egVvoX1tiHQDFPXJKYNfA) | 7:32 | 2022-01-20 |  |
 | [страсть](https://open.spotify.com/track/5z0mE0M3ulwpPIpkKhgR2x) | [Trudge](https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG) | [100](https://open.spotify.com/album/2x5nhtupPfZDAYWJ7h12vA) | 7:53 | 2021-03-31 |  |

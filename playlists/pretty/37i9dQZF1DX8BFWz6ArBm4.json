@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Konstantinos Pantelidis",
-  "num_followers": 36798,
+  "num_followers": 36794,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2025-10-02 21:00:25",
       "album": {
+        "name": "maZW Akoma (Ola Mou Ta Thelo)",
+        "url": "https://open.spotify.com/album/3mLP9WM6GglShWbaMbYsPS"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "duration_ms": 208355,
+      "name": "maZW Akoma (Ola Mou Ta Thelo)",
+      "url": "https://open.spotify.com/track/49OvjhB5rxkF7KzfTEk9ri"
+    },
+    {
+      "added_at": "2025-10-02 21:00:25",
+      "album": {
         "name": "Ypervoles",
         "url": "https://open.spotify.com/album/3H9TOeoNzQmxLRQeWXJTZr"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 167379,
       "name": "Ypervoles",
       "url": "https://open.spotify.com/track/1WrpcYZsJkzJw5l95ECvpp"
-    },
-    {
-      "added_at": "2025-10-02 21:00:25",
-      "album": {
-        "name": "maZW Akoma (Ola Mou Ta Thelo)",
-        "url": "https://open.spotify.com/album/3mLP9WM6GglShWbaMbYsPS"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Mazonakis",
-          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
-        }
-      ],
-      "duration_ms": 208355,
-      "name": "maZW Akoma (Ola Mou Ta Thelo)",
-      "url": "https://open.spotify.com/track/49OvjhB5rxkF7KzfTEk9ri"
     },
     {
       "added_at": "2025-10-02 21:00:25",
@@ -707,18 +707,18 @@
     {
       "added_at": "2025-10-02 21:00:25",
       "album": {
-        "name": "Pano Kato",
-        "url": "https://open.spotify.com/album/1TZi3G83QczW33yFdsSpJU"
+        "name": "Anasa",
+        "url": "https://open.spotify.com/album/1cff2Mbs7o9xKdBxPmXgBD"
       },
       "artists": [
         {
-          "name": "Aspa",
-          "url": "https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N"
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
         }
       ],
-      "duration_ms": 162035,
-      "name": "Pano Kato",
-      "url": "https://open.spotify.com/track/0LeidYUXKWE1kKVp84EPXY"
+      "duration_ms": 283520,
+      "name": "Anasa",
+      "url": "https://open.spotify.com/track/6QraIKM78nFy6sVIedXVOs"
     },
     {
       "added_at": "2025-10-02 21:00:25",
@@ -739,18 +739,18 @@
     {
       "added_at": "2025-10-02 21:00:25",
       "album": {
-        "name": "Anasa",
-        "url": "https://open.spotify.com/album/1cff2Mbs7o9xKdBxPmXgBD"
+        "name": "Pano Kato",
+        "url": "https://open.spotify.com/album/1TZi3G83QczW33yFdsSpJU"
       },
       "artists": [
         {
-          "name": "Giorgos Mazonakis",
-          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+          "name": "Aspa",
+          "url": "https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N"
         }
       ],
-      "duration_ms": 283520,
-      "name": "Anasa",
-      "url": "https://open.spotify.com/track/6QraIKM78nFy6sVIedXVOs"
+      "duration_ms": 162035,
+      "name": "Pano Kato",
+      "url": "https://open.spotify.com/track/0LeidYUXKWE1kKVp84EPXY"
     },
     {
       "added_at": "2025-10-02 21:00:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q4kU2.md) - [plain]
 
 > This is Gabríel Ólafs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,182 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,184 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q4kU2.md) - [plain]
 | 12 | [Túndra](https://open.spotify.com/track/7l4zfFpyo8a1zKNsevVcDT) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Túndra](https://open.spotify.com/album/7wZskJqToFDU8RmWXLzUXi) | 2:23 |
 | 13 | [Absent Minded Solo](https://open.spotify.com/track/0G8CCPN2EpfaC9JgEc1qhK) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Piano Works](https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq) | 2:14 |
 | 14 | [Fantasía for Cello and Orchestra](https://open.spotify.com/track/3xc1tPUPPygJDabqiTwNjA) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Steiney Sigurðardóttir](https://open.spotify.com/artist/60zYVQeEkApaNJVnVKyISO), [Reykjavík Orkestra](https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU), [Viktor Orri Árnason](https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1) | [Fantasía for Cello and Orchestra](https://open.spotify.com/album/03AwBwflLN1q8y6DtuL0oz) | 4:01 |
-| 15 | [Cyclist Waltz](https://open.spotify.com/track/3bfTfRxO7ksp4EjYWF6LDn) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Absent Minded](https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q) | 3:17 |
-| 16 | [Mamma](https://open.spotify.com/track/4GrEFJisQX6VcpXuDKv5md) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Lullabies for Piano and Cello](https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz) | 3:11 |
+| 15 | [Mamma](https://open.spotify.com/track/4GrEFJisQX6VcpXuDKv5md) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Lullabies for Piano and Cello](https://open.spotify.com/album/0HwKeae707YpW2aAZia2iz) | 3:11 |
+| 16 | [Cyclist Waltz](https://open.spotify.com/track/3bfTfRxO7ksp4EjYWF6LDn) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Absent Minded](https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q) | 3:17 |
 | 17 | [Cyclist Waltz Solo](https://open.spotify.com/track/24wjI8OjrQdeLVLduvu8rl) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Piano Works](https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq) | 2:27 |
 | 18 | [Kyndir](https://open.spotify.com/track/2UMSHmV0qdCg2W3eJK9saL) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Solon Islandus \(Deluxe\)](https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za) | 1:50 |
 | 19 | [Whale Overture](https://open.spotify.com/track/5nFtrtSgq1IAXGAuJsvt5v) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Whale Overture](https://open.spotify.com/album/2qKtYYDcYFtSXUaCxYhJAb) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q4kU2.md) - [plain]
 | 49 | [Sálmur Variation](https://open.spotify.com/track/6pT20vUG6c3WtP7pywi6Gk) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Lullabies for Piano and Cello \(Deluxe\)](https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3) | 2:40 |
 | 50 | [Ocean Variation](https://open.spotify.com/track/7ctmcDZTaWfbaWBQrE4L7G) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar: Dusk](https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td) | 1:48 |
 
-Snapshot ID: `aN8SAAAAAABU9nWPkBTs5FzBvUSMkwct`
+Snapshot ID: `aOBjgAAAAAAuOQ06eN018p3UoJTwYVlB`

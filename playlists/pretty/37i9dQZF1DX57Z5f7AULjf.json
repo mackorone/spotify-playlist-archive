@@ -1,6 +1,6 @@
 {
   "description": "we outside all summer 2025!",
-  "num_followers": 8482,
+  "num_followers": 8484,
   "original_name": "We Outside!",
   "owner": {
     "name": "Spotify",
@@ -201,26 +201,6 @@
       "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
     },
     {
-      "added_at": "2025-08-01 02:12:09",
-      "album": {
-        "name": "It Depends (feat. Bryson Tiller)",
-        "url": "https://open.spotify.com/album/6FA7O8oQl5eReFrDYjkusP"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 271874,
-      "name": "It Depends (feat. Bryson Tiller)",
-      "url": "https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH"
-    },
-    {
       "added_at": "2023-06-16 05:16:25",
       "album": {
         "name": "Sprinter",
@@ -239,6 +219,26 @@
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
+    },
+    {
+      "added_at": "2025-08-01 02:12:09",
+      "album": {
+        "name": "It Depends (feat. Bryson Tiller)",
+        "url": "https://open.spotify.com/album/6FA7O8oQl5eReFrDYjkusP"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 271874,
+      "name": "It Depends (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH"
     },
     {
       "added_at": "2025-07-11 07:49:15",
@@ -377,10 +377,10 @@
       "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
     },
     {
-      "added_at": "2025-07-11 07:49:15",
+      "added_at": "2023-06-16 05:16:25",
       "album": {
-        "name": "FWU",
-        "url": "https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4"
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
       },
       "artists": [
         {
@@ -388,13 +388,17 @@
           "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         },
         {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 171000,
-      "name": "FWU",
-      "url": "https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT"
+      "duration_ms": 238253,
+      "name": "Private Landing (feat. Justin Bieber & Future)",
+      "url": "https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf"
     },
     {
       "added_at": "2025-07-11 07:49:15",
@@ -465,10 +469,10 @@
       "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
     },
     {
-      "added_at": "2023-06-16 05:16:25",
+      "added_at": "2025-07-11 07:49:15",
       "album": {
-        "name": "Love Sick",
-        "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
+        "name": "FWU",
+        "url": "https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4"
       },
       "artists": [
         {
@@ -476,17 +480,13 @@
           "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         },
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
         }
       ],
-      "duration_ms": 238253,
-      "name": "Private Landing (feat. Justin Bieber & Future)",
-      "url": "https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf"
+      "duration_ms": 171000,
+      "name": "FWU",
+      "url": "https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT"
     },
     {
       "added_at": "2025-07-11 07:49:15",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-10-21 17:22:38",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 183056,
-      "name": "soso",
-      "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
+      "duration_ms": 247578,
+      "name": "Free Mind",
+      "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
     },
     {
       "added_at": "2023-06-16 05:16:25",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-10-21 17:22:38",
       "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 247578,
-      "name": "Free Mind",
-      "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
+      "duration_ms": 183056,
+      "name": "soso",
+      "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
     },
     {
       "added_at": "2024-05-31 19:42:03",
@@ -757,26 +757,6 @@
       "url": "https://open.spotify.com/track/2x2olWuWXpqjoeE4bO1NFS"
     },
     {
-      "added_at": "2025-08-08 06:50:03",
-      "album": {
-        "name": "The Last Wun",
-        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "at my purest (feat. Offset)",
-      "url": "https://open.spotify.com/track/338HvC3y58zPScamNZu4Dr"
-    },
-    {
       "added_at": "2025-07-11 07:49:15",
       "album": {
         "name": "Laho II",
@@ -817,6 +797,26 @@
       "url": "https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo"
     },
     {
+      "added_at": "2025-08-08 06:50:03",
+      "album": {
+        "name": "The Last Wun",
+        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 193466,
+      "name": "at my purest (feat. Offset)",
+      "url": "https://open.spotify.com/track/338HvC3y58zPScamNZu4Dr"
+    },
+    {
       "added_at": "2024-05-16 21:55:50",
       "album": {
         "name": "COWBOY CARTER",
@@ -853,22 +853,6 @@
       "url": "https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn"
     },
     {
-      "added_at": "2025-07-11 07:49:15",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 206711,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u"
-    },
-    {
       "added_at": "2024-05-16 21:55:50",
       "album": {
         "name": "TYLA",
@@ -883,6 +867,22 @@
       "duration_ms": 148517,
       "name": "ART",
       "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
+    },
+    {
+      "added_at": "2025-07-11 07:49:15",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 206711,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u"
     },
     {
       "added_at": "2025-08-08 06:50:03",
