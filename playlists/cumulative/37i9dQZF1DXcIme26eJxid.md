@@ -4,7 +4,7 @@
 
 > The most known Afro\-pop classics, all in one place! Cover: Lijadu Sisters
 
-144 songs - 14 hr 19 min
+145 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Be Your Man](https://open.spotify.com/track/1uf9KS6uC1G1UbsHDgoICt) | [Dipo](https://open.spotify.com/artist/0fWySMiRJ3rCJjcVlw6DWd) | [Lagos to Toronto](https://open.spotify.com/album/6B4PkYyILIdZEIQVav3AjH) | 4:30 | 2025-09-15 | 2025-10-01 |
 | [Beautiful Rain](https://open.spotify.com/track/4RvaURFdgzDdMc9IrHg28N) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [ROOTS](https://open.spotify.com/album/2OU0uJWqRBeAokBzjvAiRF) | 3:26 | 2025-09-15 | 2025-10-01 |
 | [Beng Beng Beng](https://open.spotify.com/track/2A7qQvMZ710KPFpIvRKI9h) | [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb) | [Shoki Shoki](https://open.spotify.com/album/0iL5NHl4oL1gFquGBRRjbO) | 4:46 | 2025-09-15 | 2025-10-01 |
+| [Bonde](https://open.spotify.com/track/5xH0qbaqtzc2onO0XC2Ywu) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu](https://open.spotify.com/album/0mrP9dZLtrJtUEBuhGgVRF) | 5:28 | 2025-09-30 |  |
 | [Bonde \(with Ry Cooder\)](https://open.spotify.com/track/28HE2hcTggk9F46G9Ra6PY) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Talking Timbuktu](https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk) | 5:28 | 2019-06-28 | 2024-04-19 |
 | [Bonde \(with Ry Cooder\)](https://open.spotify.com/track/7L5FEYVfpIEGHJOv6gZ6EW) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu \(with Ry Cooder\)](https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9) | 5:24 | 2019-06-28 | 2023-11-11 |
 | [Buga](https://open.spotify.com/track/4kre5jC1AncY14Ra2gzmR0) | [Jesse King & The Queens In The Palace](https://open.spotify.com/artist/098qOt76s46NMCahJbGxZL) | [Buga](https://open.spotify.com/album/03m61gb4oqfDamdrmwvl13) | 6:50 | 2025-09-15 | 2025-10-01 |
@@ -123,7 +124,7 @@
 | [Shinamania, Pt\. 1](https://open.spotify.com/track/3pFVnwh9vK7pUSiA2ZRlub) | [Sir Shina Peters](https://open.spotify.com/artist/774XinAuSJ5UAid0N6BNrV) | [Shinamania](https://open.spotify.com/album/2Uo7xDKVdBUZ1VuUtAcQdk) | 16:42 | 2019-06-28 |  |
 | [Soul Makossa](https://open.spotify.com/track/21s0bjVrP7RtQskeUKZxOu) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 4:24 | 2019-06-28 | 2024-04-19 |
 | [Soul Makossa](https://open.spotify.com/track/4JaOd0NUBTckYFZMguuY7M) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Anthology](https://open.spotify.com/album/7uA2tEXRCXua5P7rcpEWLa) | 4:24 | 2024-08-01 | 2025-09-07 |
-| [Special Star](https://open.spotify.com/track/1xMFHgilbKXS02lMSBlDvZ) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/5snC2QWALNCAMl7FW521yb) | 5:53 | 2020-04-07 |  |
+| [Special Star](https://open.spotify.com/track/1xMFHgilbKXS02lMSBlDvZ) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/5snC2QWALNCAMl7FW521yb) | 5:53 | 2020-04-07 | 2025-10-07 |
 | [Special Star](https://open.spotify.com/track/549xBLH0dGz2e2jDultQQH) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/30DrlbUcoHdqSwOrtpTNu3) | 5:53 | 2020-04-07 | 2022-10-14 |
 | [Special Star](https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/0wv0MS5ETAzzzZdcsIBPBl) | 5:53 | 2020-04-07 | 2024-04-19 |
 | [Sudden Day](https://open.spotify.com/track/6FvnqxPCxXf1Zl2MxY4FNW) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Nsikak David](https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy) | [No Love In Lagos](https://open.spotify.com/album/3OB64tBkIABfzlcWTYfr9N) | 4:34 | 2025-09-15 | 2025-10-01 |

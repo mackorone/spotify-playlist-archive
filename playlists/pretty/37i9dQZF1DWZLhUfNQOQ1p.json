@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano \ud83c\udf79",
-  "num_followers": 254072,
+  "num_followers": 254043,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2025-08-06 21:22:11",
       "album": {
+        "name": "Born a Loser",
+        "url": "https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 207373,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y"
+    },
+    {
+      "added_at": "2025-08-06 21:22:11",
+      "album": {
         "name": "Ice 2 Water",
         "url": "https://open.spotify.com/album/07QpZOg940gjr7NqqtdPTd"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 196700,
       "name": "Ice 2 Water",
       "url": "https://open.spotify.com/track/697Ub7j26uCkn3VtWSucG3"
-    },
-    {
-      "added_at": "2025-08-06 21:22:11",
-      "album": {
-        "name": "Born a Loser",
-        "url": "https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd"
-      },
-      "artists": [
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 207373,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y"
     },
     {
       "added_at": "2025-08-06 21:22:11",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-08-06 21:22:11",
       "album": {
-        "name": "Melody A.M.",
-        "url": "https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        }
-      ],
-      "duration_ms": 218320,
-      "name": "Eple",
-      "url": "https://open.spotify.com/track/7pbEKdMWHGwPQSDGfcNycM"
-    },
-    {
-      "added_at": "2025-08-06 21:22:11",
-      "album": {
         "name": "Time for a Change",
         "url": "https://open.spotify.com/album/5NPQ3KFdwLrZKuOebTAIzb"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 270405,
       "name": "Instant Need",
       "url": "https://open.spotify.com/track/6obKvh06VvBZP98oqU6YR7"
+    },
+    {
+      "added_at": "2025-08-06 21:22:11",
+      "album": {
+        "name": "Melody A.M.",
+        "url": "https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        }
+      ],
+      "duration_ms": 218320,
+      "name": "Eple",
+      "url": "https://open.spotify.com/track/7pbEKdMWHGwPQSDGfcNycM"
     },
     {
       "added_at": "2025-08-06 21:22:11",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2025-08-06 21:22:11",
       "album": {
-        "name": "Flying Away With You",
-        "url": "https://open.spotify.com/album/7lj5Qju9iEiIOG7RlNK7Ua"
-      },
-      "artists": [
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        },
-        {
-          "name": "Tripolism",
-          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
-        }
-      ],
-      "duration_ms": 249120,
-      "name": "Flying Away With You",
-      "url": "https://open.spotify.com/track/2hLOgEXMKytPei6kfgnzzL"
-    },
-    {
-      "added_at": "2025-08-06 21:22:11",
-      "album": {
         "name": "Everything Eventually Ends",
         "url": "https://open.spotify.com/album/5pk9cqTDktuytdBNidkke4"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 167093,
       "name": "Moving Men",
       "url": "https://open.spotify.com/track/3OrQzlqFmedMua5WxgCVrI"
+    },
+    {
+      "added_at": "2025-08-06 21:22:11",
+      "album": {
+        "name": "Flying Away With You",
+        "url": "https://open.spotify.com/album/7lj5Qju9iEiIOG7RlNK7Ua"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        }
+      ],
+      "duration_ms": 249120,
+      "name": "Flying Away With You",
+      "url": "https://open.spotify.com/track/2hLOgEXMKytPei6kfgnzzL"
     },
     {
       "added_at": "2025-08-06 21:22:11",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-08-06 21:22:11",
       "album": {
-        "name": "Buschtaxi",
-        "url": "https://open.spotify.com/album/18mW0faz1AHDsTHNdtxAih"
-      },
-      "artists": [
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 516815,
-      "name": "Buschtaxi",
-      "url": "https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca"
-    },
-    {
-      "added_at": "2025-08-06 21:22:11",
-      "album": {
         "name": "Leave My Home",
         "url": "https://open.spotify.com/album/30YHSDjlRRnxAdIbDXgbdX"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 221772,
       "name": "Leave My Home",
       "url": "https://open.spotify.com/track/769CRTJKBxN0UiVYkHFoCM"
+    },
+    {
+      "added_at": "2025-08-06 21:22:11",
+      "album": {
+        "name": "Buschtaxi",
+        "url": "https://open.spotify.com/album/18mW0faz1AHDsTHNdtxAih"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 516815,
+      "name": "Buschtaxi",
+      "url": "https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca"
     },
     {
       "added_at": "2025-08-06 21:22:11",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2025-08-06 21:22:11",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        }
-      ],
-      "duration_ms": 249749,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/4mQw0wkyombRwP19uS2mLB"
-    },
-    {
-      "added_at": "2025-08-06 21:22:11",
-      "album": {
         "name": "orange juice",
         "url": "https://open.spotify.com/album/1l5W5RuywK6dNxscYAEF79"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 186724,
       "name": "orange juice",
       "url": "https://open.spotify.com/track/7GvpILTCIzaAwpvFteGOG0"
+    },
+    {
+      "added_at": "2025-08-06 21:22:11",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "duration_ms": 249749,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/4mQw0wkyombRwP19uS2mLB"
     },
     {
       "added_at": "2025-08-06 21:22:11",

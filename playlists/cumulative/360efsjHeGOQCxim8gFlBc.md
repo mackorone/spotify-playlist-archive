@@ -4,7 +4,7 @@
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-808 songs - 1 day 9 hr 44 min
+809 songs - 1 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -685,6 +685,7 @@
 | [The Day Before](https://open.spotify.com/track/7xCfDiumTXcUbM8XgEi9gm) | [Daniel Zachary](https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO), [Felix Weber](https://open.spotify.com/artist/6OR4yJYLqq4mmw2wMW9Cly), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [The Day Before](https://open.spotify.com/album/4cgeDzu2XPOMsh5BLnkUov) | 1:41 | 2023-10-29 | 2024-04-14 |
 | [The Empty Library](https://open.spotify.com/track/3q1P2XBEhHbltljXMlvcmv) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [The Empty Library](https://open.spotify.com/album/07R4np0gTaTWVOVmjcb7Nf) | 2:06 | 2024-04-20 | 2025-03-02 |
 | [The End of a Dream](https://open.spotify.com/track/1HdVwaztiRB7rKna79Arg8) | [Soheil Bostani](https://open.spotify.com/artist/5v7gJdbkBahCQTJrKCPga9) | [The End of a Dream](https://open.spotify.com/album/3gQg54JbUapufd8LjKlQEY) | 1:47 | 2023-10-29 | 2024-02-15 |
+| [The Falling Notes](https://open.spotify.com/track/6rhCcqg6WIdPZHFvqgcXoD) | [Sonoe](https://open.spotify.com/artist/48VgDgh7JSNHr1lRFLjXiq) | [The Falling Notes](https://open.spotify.com/album/5hO34GucbJYAUvG4cUaF8B) | 2:48 | 2025-10-06 |  |
 | [The Faroes](https://open.spotify.com/track/1xa8mqm2xZCuvzjfo5pCAa) | [Joe Sinha Semple](https://open.spotify.com/artist/1A7OPDVDUqq417nwKzAVu6) | [The Faroes](https://open.spotify.com/album/3fOUYyURondIwEGMIH56FQ) | 1:40 | 2024-04-13 | 2025-02-01 |
 | [The Flower Duet \- \(From "Lakmé"\)](https://open.spotify.com/track/7gAOWuYdjLCRpG7d1HTaJz) | [Charles Szczepanek](https://open.spotify.com/artist/2RHgkbONbH9he8kovTc0MX) | [Charles Szczepanek \- The Solo Piano Project, Vol 1: Transcriptions and Arrangements of Delibes, Dvořák, Elgar, Massenet, and Puccini](https://open.spotify.com/album/0LW6t4j5psA9fk8lNXZD6j) | 4:57 | 2024-10-11 | 2024-10-27 |
 | [The Gift](https://open.spotify.com/track/5ooAC86Csmb1dFrtcT0uD3) | [Kristen Miller](https://open.spotify.com/artist/0dgW8jhegxDkxrgWt6KLLX), [Alise Ashby](https://open.spotify.com/artist/6OXGDvWRgKbobaPLc93zUF) | [The Gift](https://open.spotify.com/album/29baVDOArAU8FdhwbRWY3o) | 3:28 | 2024-07-12 | 2025-03-02 |
@@ -764,8 +765,8 @@
 | [Waterfall](https://open.spotify.com/track/5M0hcvGQyO2LC5JIbshtUA) | [Eddy Ruyter](https://open.spotify.com/artist/2fQ4BxblZZrGA0okXlpT2V) | [Waterfall](https://open.spotify.com/album/2rFtUFE8nk3PwBG07Vuyti) | 3:20 | 2024-09-06 | 2025-07-29 |
 | [Waterfalls of Life](https://open.spotify.com/track/6aeRz2hfrtz5oWtiu5do0a) | [Daniel Zachary](https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO), [Levi Meyer](https://open.spotify.com/artist/1xzi3oDoPShzW8iOY8KtEN), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [Waterfalls of Life](https://open.spotify.com/album/5WhWDpYMihfjPk0QxRFBiY) | 1:45 | 2023-10-29 | 2024-06-20 |
 | [watermelon sugar \- piano instrumental](https://open.spotify.com/track/4gEBcjMwIh1r8KfiMMhGbo) | [Chilled Kitten](https://open.spotify.com/artist/4bAR3McB7SPBGgDmWTRmvP) | [watermelon sugar \(piano instrumental\)](https://open.spotify.com/album/2pPeVMycSTC5MqlW8mdYJq) | 3:08 | 2023-10-29 | 2024-10-24 |
-| [Waves](https://open.spotify.com/track/1k1EAe1t6B9hCP2OGB4uwz) | [Eddy Ruyter](https://open.spotify.com/artist/2fQ4BxblZZrGA0okXlpT2V) | [Waves](https://open.spotify.com/album/4dSe9CnMvMzncI58YkBv35) | 3:10 | 2024-10-11 | 2025-09-30 |
-| [Waves](https://open.spotify.com/track/6x2BX324218Ip4A9MYRuFG) | [Eddy Ruyter](https://open.spotify.com/artist/2fQ4BxblZZrGA0okXlpT2V) | [Waves \(Deluxe\)](https://open.spotify.com/album/49iqp9t8Nx5tTZY86Lv54F) | 3:10 | 2025-09-29 |  |
+| [Waves](https://open.spotify.com/track/1k1EAe1t6B9hCP2OGB4uwz) | [Eddy Ruyter](https://open.spotify.com/artist/2fQ4BxblZZrGA0okXlpT2V) | [Waves](https://open.spotify.com/album/4dSe9CnMvMzncI58YkBv35) | 3:10 | 2024-10-11 |  |
+| [Waves](https://open.spotify.com/track/6x2BX324218Ip4A9MYRuFG) | [Eddy Ruyter](https://open.spotify.com/artist/2fQ4BxblZZrGA0okXlpT2V) | [Waves \(Deluxe\)](https://open.spotify.com/album/49iqp9t8Nx5tTZY86Lv54F) | 3:10 | 2025-09-29 | 2025-10-07 |
 | [We Will Be Better Alone](https://open.spotify.com/track/5WSxJ4HOg8wYUC8lBAZG4O) | [Jakub Szybiak](https://open.spotify.com/artist/4kz7NgN823IKxhhOv08WQg) | [We Will Be Better Alone](https://open.spotify.com/album/1jbd7hvrv1IDbfkZKh6KXH) | 2:49 | 2025-02-28 |  |
 | [What a Wonderful World](https://open.spotify.com/track/0ezstBMKdNcP41AgsCbYse) | [Julian Byrd](https://open.spotify.com/artist/6xuFoS81N7OFQKHhhCdeVC) | [What a Wonderful World](https://open.spotify.com/album/2gisOn5fvvmElje0126Q43) | 3:11 | 2023-10-29 | 2024-10-24 |
 | [What Comes Next](https://open.spotify.com/track/3pklbfnNNGUJcZRrUNPfgy) | [Michael Martinez](https://open.spotify.com/artist/5xU9fGVJjEudolpIPCqg4w), [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [What Comes Next](https://open.spotify.com/album/12PFAMlnvZpHBMi7Tpp64S) | 3:30 | 2024-07-12 | 2025-04-08 |

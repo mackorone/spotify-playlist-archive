@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/karencivil/?hl=en\">Karen Civil</a>",
-  "num_followers": 37191,
+  "num_followers": 37193,
   "original_name": "Karen Civil's Taste",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Meet The Woo 2",
+        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 135746,
+      "name": "Element",
+      "url": "https://open.spotify.com/track/57BGVV6wcyhbn3hsjlqEZB"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 202636,
       "name": "Plain Jane REMIX (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/2YzmfPLqUx5CJOaw5ThsBV"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Meet The Woo 2",
-        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 135746,
-      "name": "Element",
-      "url": "https://open.spotify.com/track/57BGVV6wcyhbn3hsjlqEZB"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 347986,
-      "name": "2009",
-      "url": "https://open.spotify.com/track/6dFn6my1sHK2bcf23GlHwM"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Victory Lap",
         "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 258519,
       "name": "Hussle & Motivate",
       "url": "https://open.spotify.com/track/2hVtGnJeHOo0EqjzYXNFg5"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 347986,
+      "name": "2009",
+      "url": "https://open.spotify.com/track/6dFn6my1sHK2bcf23GlHwM"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "K.T.S.E.",
-        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        }
-      ],
-      "duration_ms": 222828,
-      "name": "Rose In Harlem",
-      "url": "https://open.spotify.com/track/38HcgcQC4suvti0Sa0e5yc"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Throat Baby (Go Baby) (with DaBaby & City Girls) [Remix]",
         "url": "https://open.spotify.com/album/7CaoMilK1vM4KvbbvRVggD"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 211609,
       "name": "Throat Baby (Go Baby) (with DaBaby & City Girls) - Remix",
       "url": "https://open.spotify.com/track/15C4TnrrVdym7UykxQIOTZ"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "K.T.S.E.",
+        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "duration_ms": 222828,
+      "name": "Rose In Harlem",
+      "url": "https://open.spotify.com/track/38HcgcQC4suvti0Sa0e5yc"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Slauson Boy 2",
-        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        }
-      ],
-      "duration_ms": 261373,
-      "name": "I Don't Stress",
-      "url": "https://open.spotify.com/track/2FJnGx6mOQh7bB1dKj4IpI"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Walk",
         "url": "https://open.spotify.com/album/3h7LsoHuTDBCrgcz96xkKx"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Slauson Boy 2",
+        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 261373,
+      "name": "I Don't Stress",
+      "url": "https://open.spotify.com/track/2FJnGx6mOQh7bB1dKj4IpI"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "NICE GIRLS FINISH LAST: CUIDADO",
         "url": "https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7"
       },
@@ -831,6 +831,22 @@
       "duration_ms": 103173,
       "name": "SUPABIEN",
       "url": "https://open.spotify.com/track/5rxgQs8vyfy4z3IErxGscx"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Lonely Vibes",
+        "url": "https://open.spotify.com/album/1svFbTEhnqACSVV5JZSFxE"
+      },
+      "artists": [
+        {
+          "name": "Shy Glizzy",
+          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
+        }
+      ],
+      "duration_ms": 196610,
+      "name": "Lonely Vibes",
+      "url": "https://open.spotify.com/track/0fH67n0kMHc2Zm6bHdagwG"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -879,22 +895,6 @@
       "duration_ms": 172146,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/7rctLyDUHeuSCXbSTniwL9"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Lonely Vibes",
-        "url": "https://open.spotify.com/album/1svFbTEhnqACSVV5JZSFxE"
-      },
-      "artists": [
-        {
-          "name": "Shy Glizzy",
-          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
-        }
-      ],
-      "duration_ms": 196610,
-      "name": "Lonely Vibes",
-      "url": "https://open.spotify.com/track/0fH67n0kMHc2Zm6bHdagwG"
     }
   ],
   "unique_name": "Karen Civil's Taste",

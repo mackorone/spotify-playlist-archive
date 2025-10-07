@@ -4,7 +4,7 @@
 
 > Real nasty house 🔥🔥 with Dillon Francis & Marten Hørger
 
-1,173 songs - 2 day 11 hr 40 min
+1,174 songs - 2 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [Complicated](https://open.spotify.com/track/3N3w7Ge6lULExWZ4DJsHZF) | [Digital Koala](https://open.spotify.com/artist/2smGxnd2ZkFTk5bf70eirU), [MKJAY](https://open.spotify.com/artist/20LoXYCfkUQLrhGAu0fXqC) | [Complicated](https://open.spotify.com/album/6Y1lU1HuhqUhyuIM62MuSK) | 4:02 | 2022-03-25 | 2022-08-26 |
 | [CONFIDENT](https://open.spotify.com/track/6WlnyD7FP7NTZxXfLVtQPS) | [JOHN BALAYA](https://open.spotify.com/artist/789ipt8BmfCVZhDo44gfz9) | [CONFIDENT](https://open.spotify.com/album/1IXX4Gd0YlTAe8y9vB3I4j) | 2:24 | 2021-10-29 | 2022-05-28 |
 | [Conflict](https://open.spotify.com/track/0UzGLQkMItEJc1NW3vrwTK) | [Kohmi](https://open.spotify.com/artist/6NhJ3byRXx7HJzpryxi8w7) | [Conflict](https://open.spotify.com/album/0RyQaIzM8sUYjC9j0Oq1LP) | 4:03 | 2021-10-29 | 2022-01-20 |
-| [Connect](https://open.spotify.com/track/6An6JPuqOMgE9DV3Nk1u7A) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Jamakabi](https://open.spotify.com/artist/0kUmhavjjgQdru7TRPlLAC) | [Connect](https://open.spotify.com/album/1183FzAgAXFIGnGtzsrqxd) | 2:17 | 2025-02-14 |  |
+| [Connect](https://open.spotify.com/track/6An6JPuqOMgE9DV3Nk1u7A) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Jamakabi](https://open.spotify.com/artist/0kUmhavjjgQdru7TRPlLAC) | [Connect](https://open.spotify.com/album/1183FzAgAXFIGnGtzsrqxd) | 2:17 | 2025-02-14 | 2025-10-07 |
 | [Connect](https://open.spotify.com/track/6H1fjrF5zmxUUdLerA7HkF) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Connect](https://open.spotify.com/album/4nLK2scPvvoKozMofiVPxr) | 2:51 | 2024-09-20 | 2025-05-09 |
 | [Consume It](https://open.spotify.com/track/3il0x7oS13YAfsmSWx6saa) | [Where It's ATT](https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD), [Veste](https://open.spotify.com/artist/0J3bkc9cinplW5YbSjTo5O) | [Consume It](https://open.spotify.com/album/5QkNAL0C8a1dnnAzAZCx07) | 3:03 | 2024-09-06 | 2025-03-01 |
 | [Contagious](https://open.spotify.com/track/61wysOgEoXd2ygHPHx6EnD) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Bekah](https://open.spotify.com/artist/7wOUKoEl8oFWohDR7JRxet) | [Contagious](https://open.spotify.com/album/4pbeRjNY08arpSbbdOK8Ap) | 3:16 | 2025-07-25 | 2025-09-02 |
@@ -1004,6 +1004,7 @@
 | [TALK MY SH\*T \(feat\. Dean Mitchell\)](https://open.spotify.com/track/4VqqbHPyCQ5LNZRs7gfIRW) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Dean Mitchell](https://open.spotify.com/artist/4f1eEtlpI6Sjtj1obWK1zz) | [TALK MY SH\*T \(feat\. Dean Mitchell\)](https://open.spotify.com/album/3BfdRtaM8PmbX0wsAedZF3) | 3:09 | 2025-02-07 | 2025-03-08 |
 | [Talk To Me](https://open.spotify.com/track/6uABa7vKOgFqXnwvk8NBr5) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Talk To Me](https://open.spotify.com/album/7wqh8TtbHufeZmxvsXURsn) | 3:23 | 2021-10-29 | 2022-05-28 |
 | [Talk To Me](https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [Talk To Me](https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7) | 3:52 | 2024-11-22 | 2025-02-22 |
+| [Talk to You](https://open.spotify.com/track/2nMMmLYXRj4mh8YL16vcJL) | [BLCKLGHT](https://open.spotify.com/artist/4go2W5luQfPng5QNIZPAQl), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Talk to You](https://open.spotify.com/album/0I64lKZ66PErO3mZYiVTeA) | 3:52 | 2025-09-26 |  |
 | [Taste](https://open.spotify.com/track/3MV9KGnjB8ENLKcEP1pPfn) | [KuKs](https://open.spotify.com/artist/5PWpXV7tpqjNx2Laro6Ytx) | [Taste](https://open.spotify.com/album/6yyYlbbJMiHdxBJHOCja5S) | 2:43 | 2025-06-06 | 2025-07-19 |
 | [Taste](https://open.spotify.com/track/3dQ1gvudu6vdVCo5TZ7U7e) | [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U) | [Taste](https://open.spotify.com/album/6suFwTz2e2M0QOXrDxwaAC) | 2:16 | 2025-05-09 | 2025-05-17 |
 | [Teaser](https://open.spotify.com/track/16Mm6LWsaARg2MnhqWJhUS) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Teaser](https://open.spotify.com/album/6pUlx6jz0BChTHeNqXvPYB) | 2:25 | 2025-04-11 | 2025-05-03 |

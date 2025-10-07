@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the center of innovation in electronic music\. Featuring Ninajirachi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,763 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,798 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 15 | [Pull The Trigger](https://open.spotify.com/track/0Y0B8pQ0q7On2qnhbRpMfS) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [Pull The Trigger](https://open.spotify.com/album/27ge9Uvi1u8vgDI1SS0LrE) | 3:37 |
 | 16 | [Rain](https://open.spotify.com/track/5UzmK3aMmpW9X1pKjRdrMi) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Rain](https://open.spotify.com/album/3BiRyCQFu9ftb7sASphBHQ) | 3:18 |
 | 17 | [I Ain't Even](https://open.spotify.com/track/2yxkCfQoaY9TcWQ7wOeKbp) | [MADI](https://open.spotify.com/artist/6X80kEoRJvuJrrKQCuyL1T) | [Who Got You?](https://open.spotify.com/album/2oSC9eF1j4CNXxvbNXvaDO) | 3:41 |
-| 18 | [Momentary Phase Transition](https://open.spotify.com/track/7iGAClYVw6mVV7aaqMPmyK) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Momentary Phase Transition](https://open.spotify.com/album/01dqmbbulfqFKRvXubjPsD) | 6:22 |
+| 18 | [Momentary Phase Transition \(DJ\-Kicks\)](https://open.spotify.com/track/7iGAClYVw6mVV7aaqMPmyK) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Momentary Phase Transition \(DJ\-Kicks\)](https://open.spotify.com/album/01dqmbbulfqFKRvXubjPsD) | 6:22 |
 | 19 | [Match My Speed](https://open.spotify.com/track/0Jc3LSbd1KQaKpMC716iBX) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF), [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9) | [Match My Speed](https://open.spotify.com/album/5BZIFHtGU9M94e69CJS12P) | 1:57 |
 | 20 | [Stressed Out](https://open.spotify.com/track/2hPjodk3uO452PXj93V7GU) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [Got Shit On My Pants Act II](https://open.spotify.com/album/44uUN2EvFMzgD0LnU373q5) | 3:13 |
 | 21 | [Feel Good](https://open.spotify.com/track/3Cu6S9xHtU2XbwXBwyeZ0b) | [Ruthlss](https://open.spotify.com/artist/4j3gWUkv9UZeRdk4GNozpS) | [Feel Good](https://open.spotify.com/album/79xO4G1MdymjwFgHwSCEab) | 3:36 |

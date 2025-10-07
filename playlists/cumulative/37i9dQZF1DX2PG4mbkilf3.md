@@ -2,7 +2,7 @@
 
 ### [Mood Ring ](https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3)
 
-> Your guide to R&B in Canada, featuring Daniela Andrade from Montréal, ON.
+> Your guide to R&B in Canada, featuring Daniela Andrade from Montréal, QC.
 
 1,465 songs - 3 day 4 hr 21 min
 

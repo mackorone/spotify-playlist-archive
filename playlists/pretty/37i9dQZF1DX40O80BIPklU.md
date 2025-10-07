@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Hip\-Hop con Ñ, aquí lxs que dominan el juego de las rimas\. Myke Towers, Kris R\. y Alemán en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,783 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,786 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 9 | [Cuéntalo Bien](https://open.spotify.com/track/0mTY5S2ZGB8bvgPMVwDcWG) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Desde La Cajuela](https://open.spotify.com/album/2cGfHwaglYTCJTYxWQFeDj) | 3:39 |
 | 10 | [Buenas Noches](https://open.spotify.com/track/3bjzh6s0ktMtuxDEZOua43) | [NicoJP](https://open.spotify.com/artist/1OmO0lAKuNHuN7AIFbuJUP), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Another Five](https://open.spotify.com/album/70xZ6J12NRnK0XAnjw0Ipe) | 3:47 |
 | 11 | [RAP CON PASAPORTE](https://open.spotify.com/track/7uIw0GB2pYAnEGWpmZBEe1) | [Lela](https://open.spotify.com/artist/1u3ZC3x9csSPB1d0TO05fe) | [RAP CON PASAPORTE](https://open.spotify.com/album/1H0wEUeyn4ZP1TUoh0CBMo) | 2:29 |
-| 12 | [ULTRA](https://open.spotify.com/track/5JEuU6LyjzQKVhDHvnhNi9) | [Urbanse](https://open.spotify.com/artist/66X3l109SsMthurq0pHk3g), [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K), [Tensei One](https://open.spotify.com/artist/1T7nUn5Rl3Rmu4HgyIckl7), [Nichess One](https://open.spotify.com/artist/1mMPZ6dhjDEGg9cqe4Y1SI), [Antioch](https://open.spotify.com/artist/78UTGJPxHbiqliqrmxiFkv) | [ULTRA](https://open.spotify.com/album/1xkq0WQIwscp64Wd5uBpgg) | 4:45 |
+| 12 | [ULTRA](https://open.spotify.com/track/5JEuU6LyjzQKVhDHvnhNi9) | [Urbanse](https://open.spotify.com/artist/66X3l109SsMthurq0pHk3g), [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K), [Tensei One](https://open.spotify.com/artist/1T7nUn5Rl3Rmu4HgyIckl7), [Nichess One](https://open.spotify.com/artist/1mMPZ6dhjDEGg9cqe4Y1SI), [Antioch](https://open.spotify.com/artist/78UTGJPxHbiqliqrmxiFkv), [3m5](https://open.spotify.com/artist/1dYMiH0FUuABDJekuOMnuf) | [ULTRA](https://open.spotify.com/album/1xkq0WQIwscp64Wd5uBpgg) | 4:45 |
 | 13 | [Lamine Yamal](https://open.spotify.com/track/4pN10u9cyHuPLGtWEc55gY) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Lamine Yamal](https://open.spotify.com/album/7fmh1oNqZT1aIpUS5tie5J) | 2:43 |
 | 14 | [Serenata](https://open.spotify.com/track/1YpKyatSp8X1brX4GpEkrC) | [Error 999](https://open.spotify.com/artist/7lsntvM70w5zsPUbAFFFT0), [PAVEL](https://open.spotify.com/artist/73MIElBc2EabbqXIWffWyv) | [Serenata](https://open.spotify.com/album/1oorRk8ZYdGdjOeZuBhiQh) | 2:40 |
 | 15 | [La Vida Se Va](https://open.spotify.com/track/5hjvY1YhJjwZ4Fv2mOCDlg) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Destino](https://open.spotify.com/album/2ARC1cxDxSpastOcpeHe2n) | 3:24 |

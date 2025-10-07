@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Recent hits from all your favorite Christian Rock artists!  Cover: Disciple",
+  "description": "Recent hits from all your favorite Christian Rock artists!  Cover: Skillet",
   "name": "Christian Rock Hits",
   "tracks": [
     {
@@ -1381,6 +1381,24 @@
     },
     {
       "album": {
+        "name": "Showtime (Live)",
+        "url": "https://open.spotify.com/album/1aLb0v21t3iYfoEJKbGD4X"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294144,
+      "name": "Showtime - Live",
+      "url": "https://open.spotify.com/track/2JXVG3HKGQqgKF1a9XnjbE"
+    },
+    {
+      "album": {
         "name": "Stupid Deep",
         "url": "https://open.spotify.com/album/6iBbaoo5wrHot6lLJQVuqW"
       },
@@ -1678,7 +1696,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 205177,
       "name": "Victory",
       "url": "https://open.spotify.com/track/5ddlzv2lJ7jCNfkVbqVtfc"

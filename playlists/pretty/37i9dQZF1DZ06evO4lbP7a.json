@@ -1,18 +1,18 @@
 {
   "description": "This is yama. The essential tracks, all in one playlist.",
-  "num_followers": 49617,
+  "num_followers": 49619,
   "original_name": "This Is yama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOBjgAAAAADjGPAZN9+qhRwiWZTGECu8",
+  "snapshot_id": "aOG1AAAAAACc+bD3/Phb3GkiH3gounXy",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Haru wo Tsugeru",
-        "url": "https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ"
+        "name": "\u6625\u3092\u544a\u3052\u308b",
+        "url": "https://open.spotify.com/album/1B4Ka4FOargLNxmbNch7xv"
       },
       "artists": [
         {
@@ -21,8 +21,8 @@
         }
       ],
       "duration_ms": 196497,
-      "name": "Haru wo Tsugeru",
-      "url": "https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m"
+      "name": "\u6625\u3092\u544a\u3052\u308b",
+      "url": "https://open.spotify.com/track/2Gmyw5Vg2X5YW2lM3OC7nD"
     },
     {
       "added_at": null,
@@ -175,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u30a2\u30c0\u30eb\u30c8\u30c1\u30c3\u30af\u30c1\u30eb\u30c9\u30ec\u30f3",
+        "url": "https://open.spotify.com/album/7yTWJUaWIAU0ERYbbTZXwr"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "\u30a2\u30c0\u30eb\u30c8\u30c1\u30c3\u30af\u30c1\u30eb\u30c9\u30ec\u30f3",
+      "url": "https://open.spotify.com/track/4szCibdelqTfe8XzGlBT8u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "awake\uff06build",
         "url": "https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 196166,
       "name": "Ever",
       "url": "https://open.spotify.com/track/3WiGi6UeOTH1hhjCaTTQwT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30a2\u30c0\u30eb\u30c8\u30c1\u30c3\u30af\u30c1\u30eb\u30c9\u30ec\u30f3",
-        "url": "https://open.spotify.com/album/7yTWJUaWIAU0ERYbbTZXwr"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "\u30a2\u30c0\u30eb\u30c8\u30c1\u30c3\u30af\u30c1\u30eb\u30c9\u30ec\u30f3",
-      "url": "https://open.spotify.com/track/4szCibdelqTfe8XzGlBT8u"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u30af\u30ea\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/4JX57Yo9ACKXP8v1ZW2KRo"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 218571,
+      "name": "\u30af\u30ea\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/6q2anED2iLMVW1XvdZx5pQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "; semicolon",
         "url": "https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe"
       },
@@ -463,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30af\u30ea\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/4JX57Yo9ACKXP8v1ZW2KRo"
+        "name": "\u771f\u3063\u767d",
+        "url": "https://open.spotify.com/album/1X3vFDKaJJjQxQ2i21dBh8"
       },
       "artists": [
         {
@@ -472,9 +488,9 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 218571,
-      "name": "\u30af\u30ea\u30fc\u30e0",
-      "url": "https://open.spotify.com/track/6q2anED2iLMVW1XvdZx5pQ"
+      "duration_ms": 287166,
+      "name": "\u771f\u3063\u767d",
+      "url": "https://open.spotify.com/track/1m0RfmsLgUUf0AB1zyObXc"
     },
     {
       "added_at": null,
@@ -499,22 +515,6 @@
       "duration_ms": 245214,
       "name": "Hello/Hello",
       "url": "https://open.spotify.com/track/5M13MqCBVJykhVUXgjjYcX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u771f\u3063\u767d",
-        "url": "https://open.spotify.com/album/1X3vFDKaJJjQxQ2i21dBh8"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 287166,
-      "name": "\u771f\u3063\u767d",
-      "url": "https://open.spotify.com/track/1m0RfmsLgUUf0AB1zyObXc"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRIDOUT",
-        "url": "https://open.spotify.com/album/7H5RpLomYhM8ZO1dTYwrbR"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 175106,
-      "name": "Sugarveil",
-      "url": "https://open.spotify.com/track/34ozZofkGQZi2zzdTTdvtO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
         "url": "https://open.spotify.com/album/4FNbJK6K73qKy9TuxggkVY"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 219206,
       "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
       "url": "https://open.spotify.com/track/5EBkv7Vl47e674Yi6Gk7zi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GRIDOUT",
+        "url": "https://open.spotify.com/album/7H5RpLomYhM8ZO1dTYwrbR"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 175106,
+      "name": "Sugarveil",
+      "url": "https://open.spotify.com/track/34ozZofkGQZi2zzdTTdvtO"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30aa\u30ea\u30b8\u30f3",
-        "url": "https://open.spotify.com/album/5pRmvEqEFcbS83hcQPNWrb"
+        "name": "\u58f0\u660e",
+        "url": "https://open.spotify.com/album/64WnOkk1bfF32ElFKEBw1F"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 206666,
-      "name": "\u30aa\u30ea\u30b8\u30f3",
-      "url": "https://open.spotify.com/track/7sqlWfsAcENRdsrN6BuyTr"
+      "duration_ms": 215700,
+      "name": "\u58f0\u660e",
+      "url": "https://open.spotify.com/track/52K93xV0RzR1oiTpLelcmj"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u58f0\u660e",
-        "url": "https://open.spotify.com/album/64WnOkk1bfF32ElFKEBw1F"
+        "name": "\u30aa\u30ea\u30b8\u30f3",
+        "url": "https://open.spotify.com/album/5pRmvEqEFcbS83hcQPNWrb"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 215700,
-      "name": "\u58f0\u660e",
-      "url": "https://open.spotify.com/track/52K93xV0RzR1oiTpLelcmj"
+      "duration_ms": 206666,
+      "name": "\u30aa\u30ea\u30b8\u30f3",
+      "url": "https://open.spotify.com/track/7sqlWfsAcENRdsrN6BuyTr"
     },
     {
       "added_at": null,

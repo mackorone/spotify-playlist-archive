@@ -1,12 +1,12 @@
 {
   "description": "This is Spiritbox. The essential tracks, all in one playlist.",
-  "num_followers": 45632,
+  "num_followers": 45648,
   "original_name": "This Is Spiritbox",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOBjgAAAAADxgafRL9Gu+f2Ye0TZiNVS",
+  "snapshot_id": "aOG1AAAAAADf/srk73g487bdzxf+7yzU",
   "tracks": [
     {
       "added_at": null,
@@ -254,15 +254,11 @@
         {
           "name": "Spiritbox",
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        },
-        {
-          "name": "Sam Carter",
-          "url": "https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK"
         }
       ],
-      "duration_ms": 198067,
-      "name": "Yellowjacket - feat. Sam Carter",
-      "url": "https://open.spotify.com/track/3zQy3N1K8Mk5QknfFuVGNc"
+      "duration_ms": 173174,
+      "name": "Holy Roller",
+      "url": "https://open.spotify.com/track/1LLiDI21J4WWlmqk7zsm9v"
     },
     {
       "added_at": null,
@@ -322,11 +318,15 @@
         {
           "name": "Spiritbox",
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        },
+        {
+          "name": "Sam Carter",
+          "url": "https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK"
         }
       ],
-      "duration_ms": 173174,
-      "name": "Holy Roller",
-      "url": "https://open.spotify.com/track/1LLiDI21J4WWlmqk7zsm9v"
+      "duration_ms": 198067,
+      "name": "Yellowjacket - feat. Sam Carter",
+      "url": "https://open.spotify.com/track/3zQy3N1K8Mk5QknfFuVGNc"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 236320,
-      "name": "Everything's Eventual",
-      "url": "https://open.spotify.com/track/1YhdBg2KGOcFZ4XJkm7Ttv"
+      "duration_ms": 338513,
+      "name": "The Mara Effect, Pt. 3",
+      "url": "https://open.spotify.com/track/0bkviQ95BYne6DqG8AWhiw"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 338513,
-      "name": "The Mara Effect, Pt. 3",
-      "url": "https://open.spotify.com/track/0bkviQ95BYne6DqG8AWhiw"
+      "duration_ms": 236320,
+      "name": "Everything's Eventual",
+      "url": "https://open.spotify.com/track/1YhdBg2KGOcFZ4XJkm7Ttv"
     },
     {
       "added_at": null,

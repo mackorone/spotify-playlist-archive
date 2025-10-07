@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Dedublüman ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,735 likes - 118 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,722 likes - 118 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 13 | [Arkadaşlarım](https://open.spotify.com/track/4KGa6TQY60Qd71okSCibLE) | [Maya Perest](https://open.spotify.com/artist/35zOeNPm5Zx3AgzzG0BBfj) | [Arkadaşlarım](https://open.spotify.com/album/5VXmU7aVKHk8qX7ahM1Trk) | 2:26 |
 | 14 | [Giden Unutulur Elbet](https://open.spotify.com/track/1zdvvkrssB0qGgVrJpsHQk) | [Mehmet Elmas](https://open.spotify.com/artist/10BA29Asr9YbvkcBFJixDb) | [Giden Unutulur Elbet](https://open.spotify.com/album/1YAyzeuYosbx64Wn4krWt8) | 2:00 |
 | 15 | [Kumdan Kaleler](https://open.spotify.com/track/6nqu4vwfGUHiIgaGjydWvR) | [Kum](https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw) | [Burkut](https://open.spotify.com/album/0G3rUCs3ali73sSqzOiraS) | 2:45 |
-| 16 | [Kendine İyi Bak](https://open.spotify.com/track/1WYC1u2z1gCKdDazxK95CI) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti), [Laçin](https://open.spotify.com/artist/5UIqKlp3KqK3eszxgKdGVh) | [S2000](https://open.spotify.com/album/6K2RHovILRZFlHkFvLpibQ) | 2:01 |
+| 16 | [Kendine İyi Bak](https://open.spotify.com/track/1WYC1u2z1gCKdDazxK95CI) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti), [Laçin](https://open.spotify.com/artist/5eAntyjk6nCiWXJgd0CmXa) | [S2000](https://open.spotify.com/album/6K2RHovILRZFlHkFvLpibQ) | 2:01 |
 | 17 | [SON](https://open.spotify.com/track/0pYQmBtGKPpzKvJgStaIvO) | [Baneva](https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e) | [SON](https://open.spotify.com/album/7wyy2xEHw9Wl5xZoQ6Qd80) | 2:40 |
 | 18 | [gelemez](https://open.spotify.com/track/5NZIOc4fppMklnzBB6O0JE) | [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5) | [gelemez](https://open.spotify.com/album/3knLu4ljJ8JCP9MqzKo6PW) | 2:32 |
 | 19 | [Üzüntü ve Muz Kabuğu](https://open.spotify.com/track/6om71PV74ILqUVbdiZf1mT) | [Flört](https://open.spotify.com/artist/0ou1EkRCAJcfRv2P1qKVPo) | [Üzüntü ve Muz Kabuğu](https://open.spotify.com/album/14LREb9j6bBCC2ZyTSb2aJ) | 3:54 |

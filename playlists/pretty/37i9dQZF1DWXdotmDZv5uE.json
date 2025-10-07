@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lleva el alma musical de M\u00e9xico a donde sea!",
-  "num_followers": 133594,
+  "num_followers": 133599,
   "original_name": "Tradici\u00f3n Mexicana",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-09-04 20:27:32",
       "album": {
-        "name": "Colecci\u00f3n Original RCA",
-        "url": "https://open.spotify.com/album/3nodJ4wvcNXc1qxyBcHTjg"
-      },
-      "artists": [
-        {
-          "name": "Dueto Caleta",
-          "url": "https://open.spotify.com/artist/0eAmmzGvPNjPM5zFVNaQfo"
-        }
-      ],
-      "duration_ms": 160640,
-      "name": "Por los Caminos del Sur",
-      "url": "https://open.spotify.com/track/7uXqcRxoGWrqSTDKL5BnKo"
-    },
-    {
-      "added_at": "2025-09-04 20:27:32",
-      "album": {
         "name": "Gr\u00edtenme Piedras Del Campo (En Vivo Desde La Ciudad De M\u00e9xico, 2017)",
         "url": "https://open.spotify.com/album/40EsqK8Wk2WkpZSjP3TK2y"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 208706,
       "name": "Gr\u00edtenme Piedras Del Campo - En Vivo Desde La Ciudad De M\u00e9xico, 2017",
       "url": "https://open.spotify.com/track/5kjPnaA0MRdjsNNgwsU18c"
+    },
+    {
+      "added_at": "2025-09-04 20:27:32",
+      "album": {
+        "name": "Colecci\u00f3n Original RCA",
+        "url": "https://open.spotify.com/album/3nodJ4wvcNXc1qxyBcHTjg"
+      },
+      "artists": [
+        {
+          "name": "Dueto Caleta",
+          "url": "https://open.spotify.com/artist/0eAmmzGvPNjPM5zFVNaQfo"
+        }
+      ],
+      "duration_ms": 160640,
+      "name": "Por los Caminos del Sur",
+      "url": "https://open.spotify.com/track/7uXqcRxoGWrqSTDKL5BnKo"
     },
     {
       "added_at": "2025-09-04 20:27:32",
@@ -171,22 +171,6 @@
     {
       "added_at": "2025-09-04 20:27:32",
       "album": {
-        "name": "La Belle Epoque",
-        "url": "https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g"
-      },
-      "artists": [
-        {
-          "name": "Salterio y Quinteto de Anta\u00f1o",
-          "url": "https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ"
-        }
-      ],
-      "duration_ms": 189106,
-      "name": "Las Bicicletas",
-      "url": "https://open.spotify.com/track/43KGNTOAE6pX5hjqDG7yBg"
-    },
-    {
-      "added_at": "2025-09-04 20:27:32",
-      "album": {
         "name": "Sones Jarochos - Los Nacionales De Jacinto Gatica - Feria Mexicana",
         "url": "https://open.spotify.com/album/5I2AhtiDpEUVWjeYn2DpyS"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 130493,
       "name": "El Siquisiri",
       "url": "https://open.spotify.com/track/5AaFV9x2mCYc0xOaOq2t8a"
+    },
+    {
+      "added_at": "2025-09-04 20:27:32",
+      "album": {
+        "name": "La Belle Epoque",
+        "url": "https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g"
+      },
+      "artists": [
+        {
+          "name": "Salterio y Quinteto de Anta\u00f1o",
+          "url": "https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ"
+        }
+      ],
+      "duration_ms": 189106,
+      "name": "Las Bicicletas",
+      "url": "https://open.spotify.com/track/43KGNTOAE6pX5hjqDG7yBg"
     },
     {
       "added_at": "2025-09-04 20:27:32",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-09-04 20:27:32",
       "album": {
-        "name": "M\u00e9xico 2010 El Salterio",
-        "url": "https://open.spotify.com/album/1PU88tZ22xHSWrdTY1jroX"
-      },
-      "artists": [
-        {
-          "name": "Daniel Armas",
-          "url": "https://open.spotify.com/artist/62m8kgUSiuiUb2cl118JCi"
-        }
-      ],
-      "duration_ms": 161866,
-      "name": "Ay Jalisco No Te Rajes",
-      "url": "https://open.spotify.com/track/5q673d8BBfaK3CrQWBUMOH"
-    },
-    {
-      "added_at": "2025-09-04 20:27:32",
-      "album": {
         "name": "De la Mera Mata",
         "url": "https://open.spotify.com/album/7vTwydvxuCNG1nSdnm6c26"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 289666,
       "name": "El Zapateado",
       "url": "https://open.spotify.com/track/1P69StBPsVFlm6awf7EACX"
+    },
+    {
+      "added_at": "2025-09-04 20:27:32",
+      "album": {
+        "name": "M\u00e9xico 2010 El Salterio",
+        "url": "https://open.spotify.com/album/1PU88tZ22xHSWrdTY1jroX"
+      },
+      "artists": [
+        {
+          "name": "Daniel Armas",
+          "url": "https://open.spotify.com/artist/62m8kgUSiuiUb2cl118JCi"
+        }
+      ],
+      "duration_ms": 161866,
+      "name": "Ay Jalisco No Te Rajes",
+      "url": "https://open.spotify.com/track/5q673d8BBfaK3CrQWBUMOH"
     },
     {
       "added_at": "2025-09-04 20:27:32",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2025-09-04 20:27:32",
       "album": {
-        "name": "Trio Azteca: Folk Songs and Ballads",
-        "url": "https://open.spotify.com/album/1fC7tnPE1fTadN6NePzG2V"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Gutierrez",
-          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
-        },
-        {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "El polvorete",
-      "url": "https://open.spotify.com/track/6J3SOBJl8aL5gXlf4msiNw"
-    },
-    {
-      "added_at": "2025-09-04 20:27:32",
-      "album": {
         "name": "The Best of Mexico",
         "url": "https://open.spotify.com/album/0JjUyzvAkWOcKizrCSOEd9"
       },
@@ -1187,22 +1167,6 @@
     {
       "added_at": "2025-09-04 20:27:32",
       "album": {
-        "name": "The Best of Mexico",
-        "url": "https://open.spotify.com/album/0JjUyzvAkWOcKizrCSOEd9"
-      },
-      "artists": [
-        {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/0MBSO5GELNAmRSJ3QQxzXP"
-    },
-    {
-      "added_at": "2025-09-04 20:27:32",
-      "album": {
         "name": "Mariachi Azteca",
         "url": "https://open.spotify.com/album/7L0qYDZ1E8Pww3fz8qkMpr"
       },
@@ -1219,6 +1183,22 @@
       "duration_ms": 122026,
       "name": "Las Alte\u00f1itas",
       "url": "https://open.spotify.com/track/2D2mjiZy0Zpu5CGecrNSi1"
+    },
+    {
+      "added_at": "2025-09-04 20:27:32",
+      "album": {
+        "name": "The Best of Mexico",
+        "url": "https://open.spotify.com/album/0JjUyzvAkWOcKizrCSOEd9"
+      },
+      "artists": [
+        {
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/0MBSO5GELNAmRSJ3QQxzXP"
     },
     {
       "added_at": "2025-09-04 20:27:32",
@@ -1303,6 +1283,26 @@
       "duration_ms": 170800,
       "name": "La Raspa",
       "url": "https://open.spotify.com/track/6N9he4wWKlcKnPZbUD0SDn"
+    },
+    {
+      "added_at": "2025-09-04 20:27:32",
+      "album": {
+        "name": "Trio Azteca: Folk Songs and Ballads",
+        "url": "https://open.spotify.com/album/1fC7tnPE1fTadN6NePzG2V"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Gutierrez",
+          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
+        },
+        {
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "El polvorete",
+      "url": "https://open.spotify.com/track/6J3SOBJl8aL5gXlf4msiNw"
     },
     {
       "added_at": "2025-09-04 20:27:32",
@@ -1623,8 +1623,8 @@
     {
       "added_at": "2025-09-04 20:27:32",
       "album": {
-        "name": "Mariachi Vol. 1",
-        "url": "https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA"
+        "name": "Marimbas Clasicas",
+        "url": "https://open.spotify.com/album/48sRia6rlUi7yI5XGaYjJX"
       },
       "artists": [
         {
@@ -1632,21 +1632,13 @@
           "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
         },
         {
-          "name": "Luis Alberto Ballesteros",
-          "url": "https://open.spotify.com/artist/3pHNSjBYvtXDZX4LL4BUb5"
-        },
-        {
-          "name": "Domingo Suarez",
-          "url": "https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx"
-        },
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
         }
       ],
-      "duration_ms": 151823,
-      "name": "Amanecer",
-      "url": "https://open.spotify.com/track/0hk66dcAuWYtc24wXLaShb"
+      "duration_ms": 134291,
+      "name": "La Cucaracha",
+      "url": "https://open.spotify.com/track/70YB8z8u5OflFK8CWN5rcS"
     },
     {
       "added_at": "2025-09-04 20:27:32",
@@ -1719,8 +1711,8 @@
     {
       "added_at": "2025-09-04 20:27:32",
       "album": {
-        "name": "Marimbas Clasicas",
-        "url": "https://open.spotify.com/album/48sRia6rlUi7yI5XGaYjJX"
+        "name": "Mariachi Vol. 1",
+        "url": "https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA"
       },
       "artists": [
         {
@@ -1728,37 +1720,21 @@
           "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
         },
         {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        }
-      ],
-      "duration_ms": 134291,
-      "name": "La Cucaracha",
-      "url": "https://open.spotify.com/track/70YB8z8u5OflFK8CWN5rcS"
-    },
-    {
-      "added_at": "2025-09-04 20:27:32",
-      "album": {
-        "name": "Marimbas Y Regional Vol. 1",
-        "url": "https://open.spotify.com/album/6hWqfOtbjRUgHNHGi7VqTI"
-      },
-      "artists": [
-        {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+          "name": "Luis Alberto Ballesteros",
+          "url": "https://open.spotify.com/artist/3pHNSjBYvtXDZX4LL4BUb5"
         },
         {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+          "name": "Domingo Suarez",
+          "url": "https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx"
         },
         {
-          "name": "Jorge Cristian",
-          "url": "https://open.spotify.com/artist/5HlPfVI2yF8MWE8j2gyYaS"
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
         }
       ],
-      "duration_ms": 181465,
-      "name": "Ansia Marimba",
-      "url": "https://open.spotify.com/track/01moK6nSNPIDKnfv5GhsN1"
+      "duration_ms": 151823,
+      "name": "Amanecer",
+      "url": "https://open.spotify.com/track/0hk66dcAuWYtc24wXLaShb"
     },
     {
       "added_at": "2025-09-04 20:27:32",
@@ -1783,6 +1759,30 @@
       "duration_ms": 100395,
       "name": "Huapango 2010",
       "url": "https://open.spotify.com/track/2t6Egk8teqWy5U4OkB1Hap"
+    },
+    {
+      "added_at": "2025-09-04 20:27:32",
+      "album": {
+        "name": "Marimbas Y Regional Vol. 1",
+        "url": "https://open.spotify.com/album/6hWqfOtbjRUgHNHGi7VqTI"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        },
+        {
+          "name": "Jorge Cristian",
+          "url": "https://open.spotify.com/artist/5HlPfVI2yF8MWE8j2gyYaS"
+        }
+      ],
+      "duration_ms": 181465,
+      "name": "Ansia Marimba",
+      "url": "https://open.spotify.com/track/01moK6nSNPIDKnfv5GhsN1"
     },
     {
       "added_at": "2025-09-04 20:27:32",

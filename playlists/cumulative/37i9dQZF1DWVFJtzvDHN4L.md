@@ -4,7 +4,7 @@
 
 > Relaxing soundtracks to help you escape and unwind.
 
-108 songs - 5 hr 9 min
+109 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [The Only Way Is Down](https://open.spotify.com/track/4vHg75DPSyMvXGfcF2RTNF) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Victoria & Abdul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1uw4UD12sYODj80ppjpP8G) | 1:13 | 2021-11-19 |  |
 | [The Origin of Belief](https://open.spotify.com/track/2OGX1pafcLlcqI0fmVCEjr) | [Francesco Le Metre](https://open.spotify.com/artist/6LhB3BzQTnbX8DVi4GCmrs) | [Unknown: Cave Of Bones \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/40UqG0iP6C6U7bAYnebYtn) | 4:00 | 2023-07-14 |  |
 | [The Revenant \(Main Theme\)](https://open.spotify.com/track/2KMpuyFJuyHbeFen3XsFDm) | [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV) | [The Revenant \(Main Theme\)](https://open.spotify.com/album/5ELrtg0cvRebmaLjRV0wDb) | 3:19 | 2024-12-24 |  |
+| [The Risk \- Instrumental](https://open.spotify.com/track/009udixUjGtU5zslULs1fO) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Big Bold Beautiful Journey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47kkQLC0hzwsp0uFdhikZP) | 3:58 | 2025-10-06 |  |
 | [The Thursday Murder Club](https://open.spotify.com/track/2B9dfN995AVXr4etJY31v3) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [The Thursday Murder Club \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4CCBvTQAK9UlMPN17p445Z) | 1:41 | 2025-10-03 |  |
 | [The Wardrobe \- from 'The Chronicles Of Narnia; The Lion, The Witch and The Wardrobe’](https://open.spotify.com/track/2sbovdEA4GJy2PRJ2ccKTF) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Elliott Jack Sansom Plays Christmas Movie Themes](https://open.spotify.com/album/4aHKQXLjhsNzk9Ic6Ns5au) | 2:43 | 2024-11-15 |  |
 | [The Wedding](https://open.spotify.com/track/1YshKvKR8iinJwlo7M1VgU) | [Rob Lane](https://open.spotify.com/artist/7nlwfEaz3EFAq4rJBvLy5k) | [A Discovery of Witches \(Music from Series Two of the Television Series\)](https://open.spotify.com/album/0CeAJgYranIQO6BFYqC1hO) | 2:26 | 2022-01-06 | 2022-05-28 |

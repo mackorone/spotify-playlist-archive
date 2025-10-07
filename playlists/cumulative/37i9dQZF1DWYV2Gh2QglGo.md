@@ -4,7 +4,7 @@
 
 > The home of Canadian country music\. Cover: Owen Riegling
 
-433 songs - 23 hr 14 min
+434 songs - 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Easy Man](https://open.spotify.com/track/4PlLk1253CbpRzsdytzEWF) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [Easy Man](https://open.spotify.com/album/5CYzJyJn3mc2qyhUdUdK6g) | 2:41 | 2025-04-25 | 2025-07-12 |
 | [End Game](https://open.spotify.com/track/0Hn8PDXY6SAaikKJNjpD7z) | [Emma Kade](https://open.spotify.com/artist/1ZP71cqO4xor5i3gqhuRHx) | [End Game](https://open.spotify.com/album/5uQoGeooNx3xA57poJGnRA) | 3:16 | 2024-06-28 | 2024-09-14 |
 | [Every Once In a While](https://open.spotify.com/track/43qxCAP9QX3HoCVxRPUZdC) | [River Town Saints](https://open.spotify.com/artist/5AWoUNm23MGtj128vkXcjo) | [Every Once In a While](https://open.spotify.com/album/5j71tQSZuhWVTjEntqM992) | 3:47 | 2025-05-02 | 2025-07-12 |
+| [Everybody Loves My Little Darling](https://open.spotify.com/track/792fQejq2ZtI3SvapaWxAt) | [Jake Vaadeland](https://open.spotify.com/artist/3xQzfgIw2TLiFUfvlrKgH3) | [Everybody Loves My Little Darling](https://open.spotify.com/album/6cL7E045MCT6M72Ij7xkIT) | 2:10 | 2025-10-06 |  |
 | [Family First](https://open.spotify.com/track/6Wwr6c7cF6xPvqTbGGBk9I) | [Eric Ethridge](https://open.spotify.com/artist/6h3SuFXFhINbYsVyIgaKLS) | [Family First](https://open.spotify.com/album/3UpphRVmpfImtobnjhFn3p) | 4:00 | 2024-06-28 | 2024-07-06 |
 | [Feel Free](https://open.spotify.com/track/7vI8yJI3tfFe8HDaus3Icl) | [Zach McPhee](https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN) | [Feel Free](https://open.spotify.com/album/05iuk1LdHKBkC90HLbminy) | 3:00 | 2025-09-05 |  |
 | [Feels Like Forever](https://open.spotify.com/track/7owsUFh4Oc4zwtq8uYCESH) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [Feels Like Forever](https://open.spotify.com/album/1O59CVuNp3WHcV7lgRnoHm) | 3:12 | 2025-09-19 |  |
@@ -138,7 +139,7 @@
 | [Good To Drive](https://open.spotify.com/track/2ZfToR0LzuBGd59gdqdwYG) | [Jessica Sevier](https://open.spotify.com/artist/7bEcIrpwBawp9YKL2MxLL2) | [Good To Drive](https://open.spotify.com/album/1nuGJOj0oP74peYWg9Lk8X) | 3:08 | 2025-07-11 | 2025-09-26 |
 | [Got It](https://open.spotify.com/track/1hJzdE1N69zSEmG5VIhEwy) | [Dustin Bird](https://open.spotify.com/artist/2SLrAqe5sHj0UuRYla8LOf) | [Got It](https://open.spotify.com/album/2mEdu1KXHXyY8KaKnTBf0F) | 2:47 | 2024-06-28 | 2024-09-14 |
 | [Gotta Be Country](https://open.spotify.com/track/556NgrV6yBcJ7jLkqUwj4P) | [The Martin Boys](https://open.spotify.com/artist/0Jjl71AwTHhQlvhSeugY8k) | [Gotta Be Country](https://open.spotify.com/album/2etCBGd1lP6hjRyFTiLZQj) | 3:14 | 2025-05-09 | 2025-05-17 |
-| [Great Joy & Happiness](https://open.spotify.com/track/5lCWCkOGJCLzPELPq2YLZv) | [Jake Vaadeland](https://open.spotify.com/artist/3xQzfgIw2TLiFUfvlrKgH3) | [Great Joy & Happiness](https://open.spotify.com/album/0BvusUW8PEc3iknPMOTmPs) | 2:30 | 2025-08-29 |  |
+| [Great Joy & Happiness](https://open.spotify.com/track/5lCWCkOGJCLzPELPq2YLZv) | [Jake Vaadeland](https://open.spotify.com/artist/3xQzfgIw2TLiFUfvlrKgH3) | [Great Joy & Happiness](https://open.spotify.com/album/0BvusUW8PEc3iknPMOTmPs) | 2:30 | 2025-08-29 | 2025-10-07 |
 | [Halfway](https://open.spotify.com/track/5GiOwpuHSFeh0snoOIGnaH) | [Parker Graye](https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8) | [Halfway](https://open.spotify.com/album/3y6XWLi6AnYqkdOhopkLe3) | 3:39 | 2024-08-23 | 2024-09-14 |
 | [Hangover At My Place](https://open.spotify.com/track/08gx57bVrgxO52yQeiL8cC) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo), [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Hangover At My Place](https://open.spotify.com/album/31983x5kusfiIYcS4OXyAD) | 3:16 | 2024-09-13 | 2025-05-31 |
 | [Happier](https://open.spotify.com/track/6KdfGp8WKhXEOuF9AOOdnP) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Happier](https://open.spotify.com/album/4a0CYxnsOI2dinAXSMcImB) | 3:18 | 2025-02-21 | 2025-05-03 |

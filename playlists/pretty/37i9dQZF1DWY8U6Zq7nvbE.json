@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 2431837,
+  "num_followers": 2432012,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-07-24 08:37:36",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/0diqsjfEEOC1n4LVVLSMgr"
-      },
-      "artists": [
-        {
-          "name": "Von Allen",
-          "url": "https://open.spotify.com/artist/6XzdZwXu9yspPxr3u2DnBG"
-        }
-      ],
-      "duration_ms": 217078,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/1cskeMwfKX1G0mV1T0ypHf"
-    },
-    {
-      "added_at": "2025-07-24 08:37:36",
-      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/2KaUS3nSP8EgKStEa8Jeia"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 157611,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/0QUUfXxit1xeCtmuF6VNrc"
+    },
+    {
+      "added_at": "2025-07-24 08:37:36",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/0diqsjfEEOC1n4LVVLSMgr"
+      },
+      "artists": [
+        {
+          "name": "Von Allen",
+          "url": "https://open.spotify.com/artist/6XzdZwXu9yspPxr3u2DnBG"
+        }
+      ],
+      "duration_ms": 217078,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/1cskeMwfKX1G0mV1T0ypHf"
     },
     {
       "added_at": "2025-07-24 08:37:36",
@@ -203,22 +203,6 @@
     {
       "added_at": "2025-07-24 08:37:36",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r"
-      },
-      "artists": [
-        {
-          "name": "Simon Sage",
-          "url": "https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz"
-        }
-      ],
-      "duration_ms": 132024,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO"
-    },
-    {
-      "added_at": "2025-07-24 08:37:36",
-      "album": {
         "name": "Mr. Brightside",
         "url": "https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 215758,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6"
+    },
+    {
+      "added_at": "2025-07-24 08:37:36",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r"
+      },
+      "artists": [
+        {
+          "name": "Simon Sage",
+          "url": "https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz"
+        }
+      ],
+      "duration_ms": 132024,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO"
     },
     {
       "added_at": "2025-07-24 08:37:36",
@@ -251,22 +251,6 @@
     {
       "added_at": "2025-07-24 08:37:36",
       "album": {
-        "name": "Boat",
-        "url": "https://open.spotify.com/album/37hzBgpWfxo0tieKhIs4l2"
-      },
-      "artists": [
-        {
-          "name": "Kelsey Hodge",
-          "url": "https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE"
-        }
-      ],
-      "duration_ms": 192975,
-      "name": "Boat",
-      "url": "https://open.spotify.com/track/5J2CG1KDabRXqoV1KJP1np"
-    },
-    {
-      "added_at": "2025-07-24 08:37:36",
-      "album": {
         "name": "Latch",
         "url": "https://open.spotify.com/album/1QsdrtvYuAKSDuSyW1VikU"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 197684,
       "name": "Latch",
       "url": "https://open.spotify.com/track/17h05SukjWjPCNWAENwW8U"
+    },
+    {
+      "added_at": "2025-07-24 08:37:36",
+      "album": {
+        "name": "Boat",
+        "url": "https://open.spotify.com/album/37hzBgpWfxo0tieKhIs4l2"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Hodge",
+          "url": "https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE"
+        }
+      ],
+      "duration_ms": 192975,
+      "name": "Boat",
+      "url": "https://open.spotify.com/track/5J2CG1KDabRXqoV1KJP1np"
     },
     {
       "added_at": "2025-07-24 08:37:36",
@@ -587,18 +587,18 @@
     {
       "added_at": "2025-07-24 08:37:36",
       "album": {
-        "name": "I'm On Fire",
-        "url": "https://open.spotify.com/album/5pNvKAPlizwG6HPssbLkDo"
+        "name": "I Feel It Coming",
+        "url": "https://open.spotify.com/album/7GBboSmTQfhQI14a9bER4f"
       },
       "artists": [
         {
-          "name": "L\u00fac",
-          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
+          "name": "Alice Nordstrom",
+          "url": "https://open.spotify.com/artist/6tZEMBPWeYyxYIKEubuJD3"
         }
       ],
-      "duration_ms": 174857,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/0eCghBykmPeS3LMMnJpVcr"
+      "duration_ms": 166554,
+      "name": "I Feel It Coming",
+      "url": "https://open.spotify.com/track/5C2KczvPxtlAbohydAQcYb"
     },
     {
       "added_at": "2025-07-24 08:37:36",
@@ -619,18 +619,18 @@
     {
       "added_at": "2025-07-24 08:37:36",
       "album": {
-        "name": "I Feel It Coming",
-        "url": "https://open.spotify.com/album/7GBboSmTQfhQI14a9bER4f"
+        "name": "I'm On Fire",
+        "url": "https://open.spotify.com/album/5pNvKAPlizwG6HPssbLkDo"
       },
       "artists": [
         {
-          "name": "Alice Nordstrom",
-          "url": "https://open.spotify.com/artist/6tZEMBPWeYyxYIKEubuJD3"
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
         }
       ],
-      "duration_ms": 166554,
-      "name": "I Feel It Coming",
-      "url": "https://open.spotify.com/track/5C2KczvPxtlAbohydAQcYb"
+      "duration_ms": 174857,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/0eCghBykmPeS3LMMnJpVcr"
     },
     {
       "added_at": "2025-07-24 08:37:36",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-07-24 08:37:36",
       "album": {
-        "name": "Little Lies",
-        "url": "https://open.spotify.com/album/70ToToyGxWgZ2s745s1CxV"
-      },
-      "artists": [
-        {
-          "name": "Roses & Frey",
-          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
-        }
-      ],
-      "duration_ms": 197851,
-      "name": "Little Lies",
-      "url": "https://open.spotify.com/track/1okbqCnEzl9GUddnjNkb19"
-    },
-    {
-      "added_at": "2025-07-24 08:37:36",
-      "album": {
         "name": "Never Gonna Give You Up - Acoustic",
         "url": "https://open.spotify.com/album/6O1nvjo9R2hSmby3AJyVrd"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 217848,
       "name": "Never Gonna Give You Up - Acoustic",
       "url": "https://open.spotify.com/track/2e53BiRUze4PQ8PfLGqWrD"
+    },
+    {
+      "added_at": "2025-07-24 08:37:36",
+      "album": {
+        "name": "Little Lies",
+        "url": "https://open.spotify.com/album/70ToToyGxWgZ2s745s1CxV"
+      },
+      "artists": [
+        {
+          "name": "Roses & Frey",
+          "url": "https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE"
+        }
+      ],
+      "duration_ms": 197851,
+      "name": "Little Lies",
+      "url": "https://open.spotify.com/track/1okbqCnEzl9GUddnjNkb19"
     },
     {
       "added_at": "2025-07-24 08:37:36",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-07-24 08:37:36",
       "album": {
-        "name": "Chasing Pavements",
-        "url": "https://open.spotify.com/album/4ZBXi0owchcH5sIj5qyrn0"
-      },
-      "artists": [
-        {
-          "name": "Demi Femme",
-          "url": "https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY"
-        }
-      ],
-      "duration_ms": 180034,
-      "name": "Chasing Pavements",
-      "url": "https://open.spotify.com/track/1tIEJc4Sgw1Op6Ef0fLSzV"
-    },
-    {
-      "added_at": "2025-07-24 08:37:36",
-      "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 176542,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp"
+    },
+    {
+      "added_at": "2025-07-24 08:37:36",
+      "album": {
+        "name": "Chasing Pavements",
+        "url": "https://open.spotify.com/album/4ZBXi0owchcH5sIj5qyrn0"
+      },
+      "artists": [
+        {
+          "name": "Demi Femme",
+          "url": "https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY"
+        }
+      ],
+      "duration_ms": 180034,
+      "name": "Chasing Pavements",
+      "url": "https://open.spotify.com/track/1tIEJc4Sgw1Op6Ef0fLSzV"
     },
     {
       "added_at": "2025-07-24 08:37:36",
@@ -827,8 +827,24 @@
     {
       "added_at": "2025-07-24 08:37:36",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/34fwE3cLPQVlNRA8seANC1"
+        "name": "The Scientist",
+        "url": "https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse"
+      },
+      "artists": [
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "duration_ms": 275732,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt"
+    },
+    {
+      "added_at": "2025-07-24 08:37:36",
+      "album": {
+        "name": "Nobody Gets Me",
+        "url": "https://open.spotify.com/album/19EdbTQdsbueDPCF4Xod6Q"
       },
       "artists": [
         {
@@ -836,9 +852,9 @@
           "url": "https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY"
         }
       ],
-      "duration_ms": 206819,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/7q8Tf2APnxcQWKT69nfegF"
+      "duration_ms": 158080,
+      "name": "Nobody Gets Me",
+      "url": "https://open.spotify.com/track/2eWYem39jbaXKQ38BCtQDV"
     },
     {
       "added_at": "2025-07-24 08:37:36",
@@ -875,22 +891,6 @@
     {
       "added_at": "2025-07-24 08:37:36",
       "album": {
-        "name": "The Scientist",
-        "url": "https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse"
-      },
-      "artists": [
-        {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
-        }
-      ],
-      "duration_ms": 275732,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt"
-    },
-    {
-      "added_at": "2025-07-24 08:37:36",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm"
       },
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-07-24 08:37:36",
       "album": {
-        "name": "Nobody Gets Me",
-        "url": "https://open.spotify.com/album/19EdbTQdsbueDPCF4Xod6Q"
-      },
-      "artists": [
-        {
-          "name": "Demi Femme",
-          "url": "https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY"
-        }
-      ],
-      "duration_ms": 158080,
-      "name": "Nobody Gets Me",
-      "url": "https://open.spotify.com/track/2eWYem39jbaXKQ38BCtQDV"
-    },
-    {
-      "added_at": "2025-07-24 08:37:36",
-      "album": {
         "name": "I Was Never There",
         "url": "https://open.spotify.com/album/6bGak7iAgHBHdtz1wXuzyz"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 179383,
       "name": "I Was Never There",
       "url": "https://open.spotify.com/track/2boE2b7Lrin4bf410UKhSe"
+    },
+    {
+      "added_at": "2025-07-24 08:37:36",
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/34fwE3cLPQVlNRA8seANC1"
+      },
+      "artists": [
+        {
+          "name": "Demi Femme",
+          "url": "https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY"
+        }
+      ],
+      "duration_ms": 206819,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/7q8Tf2APnxcQWKT69nfegF"
     },
     {
       "added_at": "2025-07-24 08:37:36",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-07-24 08:37:36",
       "album": {
-        "name": "Cold Heart",
-        "url": "https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl"
-      },
-      "artists": [
-        {
-          "name": "Clementine Duo",
-          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
-        }
-      ],
-      "duration_ms": 188742,
-      "name": "Cold Heart",
-      "url": "https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo"
-    },
-    {
-      "added_at": "2025-07-24 08:37:36",
-      "album": {
         "name": "Behind Blue Eyes",
         "url": "https://open.spotify.com/album/7yHOE5W3lfTf3c2K8gorFm"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 164210,
       "name": "Behind Blue Eyes",
       "url": "https://open.spotify.com/track/4bjwOaC6YzQAnbSNaWTJ7a"
+    },
+    {
+      "added_at": "2025-07-24 08:37:36",
+      "album": {
+        "name": "Cold Heart",
+        "url": "https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl"
+      },
+      "artists": [
+        {
+          "name": "Clementine Duo",
+          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
+        }
+      ],
+      "duration_ms": 188742,
+      "name": "Cold Heart",
+      "url": "https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo"
     },
     {
       "added_at": "2025-07-24 08:37:36",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-07-24 08:37:36",
       "album": {
-        "name": "Out Of My Head And Back In My Bed",
-        "url": "https://open.spotify.com/album/2tYlc586qfpzDq1nfh8z1M"
-      },
-      "artists": [
-        {
-          "name": "Eloise Freud",
-          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
-        }
-      ],
-      "duration_ms": 190561,
-      "name": "Out Of My Head And Back In My Bed",
-      "url": "https://open.spotify.com/track/13TEQskDYFrpAtPtKVMznF"
-    },
-    {
-      "added_at": "2025-07-24 08:37:36",
-      "album": {
         "name": "I Ain't Worried",
         "url": "https://open.spotify.com/album/0mXxiT0uogjEy8V8CncCKb"
       },
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2025-07-24 08:37:36",
       "album": {
+        "name": "Out Of My Head And Back In My Bed",
+        "url": "https://open.spotify.com/album/2tYlc586qfpzDq1nfh8z1M"
+      },
+      "artists": [
+        {
+          "name": "Eloise Freud",
+          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
+        }
+      ],
+      "duration_ms": 190561,
+      "name": "Out Of My Head And Back In My Bed",
+      "url": "https://open.spotify.com/track/13TEQskDYFrpAtPtKVMznF"
+    },
+    {
+      "added_at": "2025-07-24 08:37:36",
+      "album": {
         "name": "Just The Two Of Us - Acoustic",
         "url": "https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz"
       },
@@ -1143,6 +1143,22 @@
       "duration_ms": 186008,
       "name": "Just the Two of Us - Acoustic",
       "url": "https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH"
+    },
+    {
+      "added_at": "2025-07-24 08:37:36",
+      "album": {
+        "name": "Birds of a Feather",
+        "url": "https://open.spotify.com/album/3lNGPfARQg2ktx9dnSsStt"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 219120,
+      "name": "Birds of a Feather",
+      "url": "https://open.spotify.com/track/4lg1LJNoqAP5VDPQR4MIyo"
     },
     {
       "added_at": "2025-07-24 08:37:36",
@@ -1175,22 +1191,6 @@
       "duration_ms": 132789,
       "name": "STAY",
       "url": "https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj"
-    },
-    {
-      "added_at": "2025-07-24 08:37:36",
-      "album": {
-        "name": "Birds of a Feather",
-        "url": "https://open.spotify.com/album/3lNGPfARQg2ktx9dnSsStt"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 219120,
-      "name": "Birds of a Feather",
-      "url": "https://open.spotify.com/track/4lg1LJNoqAP5VDPQR4MIyo"
     },
     {
       "added_at": "2025-07-24 08:37:36",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-07-24 08:37:36",
       "album": {
-        "name": "Pillowtalk",
-        "url": "https://open.spotify.com/album/5Q4v3WlXy542KhJUVIs9oz"
-      },
-      "artists": [
-        {
-          "name": "Simon Sage",
-          "url": "https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz"
-        }
-      ],
-      "duration_ms": 153374,
-      "name": "Pillowtalk",
-      "url": "https://open.spotify.com/track/4bIHIz5ywe7IsmRTWygU02"
-    },
-    {
-      "added_at": "2025-07-24 08:37:36",
-      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/3ZSjHPyJ3NnbtH271F2kWe"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 203603,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/1MFZQ3L9XixU9Hi3XLXeRl"
+    },
+    {
+      "added_at": "2025-07-24 08:37:36",
+      "album": {
+        "name": "Pillowtalk",
+        "url": "https://open.spotify.com/album/5Q4v3WlXy542KhJUVIs9oz"
+      },
+      "artists": [
+        {
+          "name": "Simon Sage",
+          "url": "https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz"
+        }
+      ],
+      "duration_ms": 153374,
+      "name": "Pillowtalk",
+      "url": "https://open.spotify.com/track/4bIHIz5ywe7IsmRTWygU02"
     },
     {
       "added_at": "2025-07-24 08:37:36",

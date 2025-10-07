@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://loremandfriends.substack.com/p/this\-year\-the\-fall\-season\-is\-in\-bloom">October newsletter is live 🪿</a> ft Audrey Hobert
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,187,712 likes - 187 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,187,677 likes - 187 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

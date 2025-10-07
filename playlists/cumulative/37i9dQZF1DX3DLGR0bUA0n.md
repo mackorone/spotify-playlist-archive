@@ -4,7 +4,7 @@
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy y Triny y La Leyenda en portada.
 
-187 songs - 10 hr 58 min
+188 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,10 +27,11 @@
 | [Así Fue](https://open.spotify.com/track/5LYv9sE58vpWj5vmBT9WsF) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Kilos de Polvo](https://open.spotify.com/album/26qV7yOOuaAe48fNIOl4yk) | 5:29 | 2023-10-12 |  |
 | [Aunque Estés Lejos De Mí](https://open.spotify.com/track/1z7i3Ijju21wfapSwi98My) | [Banda Roja](https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2) | [Cuestión De Tiempo](https://open.spotify.com/album/47D8bgL135qYk3Jp8fmlrA) | 3:50 | 2023-10-12 |  |
 | [Bonito Tierra Caliente](https://open.spotify.com/track/7jlQGFTCJjGR43VaJ4bxp7) | [Josecito Leon y Su Internacional Banda Roja](https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw) | [No Traigo 45](https://open.spotify.com/album/2mk0NunPByPvLKOppGX6Ut) | 3:16 | 2023-10-12 | 2024-04-19 |
-| [Bonito Tierra Caliente](https://open.spotify.com/track/1KoRFIQxCMEnzqlFQB2jmA) | [Josecito Leon y Su Internacional Banda Roja](https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw), [JOSECITO A\. LEÓN TERRONES](https://open.spotify.com/artist/4Ra5JGYsJiDAoO8KVOx2mJ) | [No Traigo 45](https://open.spotify.com/album/1k5H0rnSdBvZ5RhqsfcmB1) | 3:16 | 2024-02-23 |  |
+| [Bonito Tierra Caliente](https://open.spotify.com/track/1KoRFIQxCMEnzqlFQB2jmA) | [Josecito Leon y Su Internacional Banda Roja](https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw), [JOSECITO A\. LEÓN TERRONES](https://open.spotify.com/artist/4Ra5JGYsJiDAoO8KVOx2mJ) | [No Traigo 45](https://open.spotify.com/album/1k5H0rnSdBvZ5RhqsfcmB1) | 3:16 | 2024-02-23 | 2025-10-07 |
 | [Brebaje](https://open.spotify.com/track/3w3xwSJe6GhgqTfbVGhBbv) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Esperando Tu Llamada](https://open.spotify.com/album/3oDGzlvfKUsJ0NQpV8cAXj) | 2:54 | 2023-10-12 |  |
 | [Brebaje / Recuerdos De Una Noche \(En Vivo\)](https://open.spotify.com/track/3b5H0MyNMs7wtijEgnBl1M) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Los De Tierra Caliente \(En Vivo\)](https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL) | 8:20 | 2024-11-15 |  |
 | [Caliente Caliente](https://open.spotify.com/track/00KobkfwcyPkxUY73Y2J8T) | [Raza Obrera](https://open.spotify.com/artist/0R5UVonrEc6yE7gjWllRGF) | [Arpacumbiando: Caliente, Caliente](https://open.spotify.com/album/6zOnwXDxxOHik1jT3IIukc) | 3:07 | 2023-10-12 |  |
+| [Canción a mi Papá](https://open.spotify.com/track/5SgNpLaVzP1r2oewqS5DIk) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R), [Los Numero 1](https://open.spotify.com/artist/5NguftlrG2vteEZ6WVgugW) | [Canción a mi Papá](https://open.spotify.com/album/2848T5rwOKJwxPElYm1Xls) | 2:50 | 2025-08-22 |  |
 | [Carga Fina \- En Vivo](https://open.spotify.com/track/25EhRhmxIm8jCiYzxRbd0D) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Exitos en Vivo \(En Vivo\)](https://open.spotify.com/album/1NmTQFtD2GDx2zxexJ5sTO) | 1:42 | 2024-02-23 |  |
 | [Carta de Luto](https://open.spotify.com/track/6fIWxlRswxsuhBtEE8SpI8) | [Raul Garcia Y Su Grupo Kabildo](https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU), [La Dinastia de Tuzantla Mich](https://open.spotify.com/artist/7BouKelHMxy42RJSMzkE0w) | [Homenaje al Rey Pobre](https://open.spotify.com/album/17YAHxM19DfTGzJHJzfcST) | 2:52 | 2023-10-12 |  |
 | [Casita de Adobe](https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Casita de Adobe](https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk) | 3:59 | 2023-10-12 |  |

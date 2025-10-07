@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Little Joy](https://open.spotify.com/track/0esDL5PvbZHLiGBk0BAbrA) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 4:14 | 2024-05-17 |  |
+| [A Little Joy](https://open.spotify.com/track/0esDL5PvbZHLiGBk0BAbrA) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 4:14 | 2024-05-17 | 2025-10-07 |
 | [All Good Fun](https://open.spotify.com/track/3NwwLJlmS7OXkXFhkJtt3W) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Landing Lights](https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs) | 3:33 | 2023-08-10 | 2025-10-06 |
 | [All Good Fun \- Live @ Studio Goonga, 2019](https://open.spotify.com/track/6b051VFccFPDnLXwDOJX2Z) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [All Good Fun \(Live @ Studio Goonga, 2019\)](https://open.spotify.com/album/37BOImeDfA77dEkVWqvAJG) | 3:43 | 2023-09-18 | 2024-06-14 |
 | [Amazing](https://open.spotify.com/track/2eWvmojw75d2yaPARaKj22) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 3:01 | 2023-06-17 | 2025-08-16 |
@@ -22,7 +22,7 @@
 | [Bogswamp](https://open.spotify.com/track/0HVMscjhyVfXgiNFgpcgUa) | [Felicity Urquhart and Josh Cunningham](https://open.spotify.com/artist/29TsUV0ZWC6uui8HAmNF21) | [Bogswamp](https://open.spotify.com/album/5IEDUuNTmaSyVIu3pt6c2b) | 3:54 | 2023-06-17 | 2025-01-18 |
 | [Bon Bons](https://open.spotify.com/track/2kUYxBMfhX1HhJwZDpYvOM) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 3:35 | 2023-06-25 | 2025-08-29 |
 | [Breaking Your Heart Again](https://open.spotify.com/track/0xTkMv6wQtQkhBbRvLfd6t) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 3:53 | 2023-06-17 | 2025-09-29 |
-| [Breathe](https://open.spotify.com/track/5NdszK9eLxfrFCEitAz3Fd) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 3:22 | 2023-06-17 | 2025-10-05 |
+| [Breathe](https://open.spotify.com/track/5NdszK9eLxfrFCEitAz3Fd) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 3:22 | 2023-06-17 |  |
 | [Cartwheel and Climb](https://open.spotify.com/track/1F1kB8gBN9iguuckBQLWnj) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 3:50 | 2023-06-19 | 2025-08-17 |
 | [Catching a Feeling](https://open.spotify.com/track/1U9DtRapn4xV6VgFCAJHj4) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [The Song Club](https://open.spotify.com/album/4LJ7i3oggMdAbTpDJHDB59) | 4:57 | 2023-06-17 | 2025-01-06 |
 | [Chain of Joy](https://open.spotify.com/track/4riMZ7xA4evmLwzgSc8cEo) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 2:57 | 2023-06-17 |  |

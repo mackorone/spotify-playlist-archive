@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 290749,
+  "num_followers": 291013,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-09-05 04:00:08",
       "album": {
-        "name": "Love Is Colder Than Death",
-        "url": "https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb"
-      },
-      "artists": [
-        {
-          "name": "Romance",
-          "url": "https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt"
-        }
-      ],
-      "duration_ms": 213832,
-      "name": "Out Of The Past",
-      "url": "https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog"
-    },
-    {
-      "added_at": "2025-09-05 04:00:08",
-      "album": {
         "name": "its never enough",
         "url": "https://open.spotify.com/album/5NEgDSxRetHmUbi0lfN8JE"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 98196,
       "name": "its never enough",
       "url": "https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l"
+    },
+    {
+      "added_at": "2025-09-05 04:00:08",
+      "album": {
+        "name": "Love Is Colder Than Death",
+        "url": "https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb"
+      },
+      "artists": [
+        {
+          "name": "Romance",
+          "url": "https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt"
+        }
+      ],
+      "duration_ms": 213832,
+      "name": "Out Of The Past",
+      "url": "https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog"
     },
     {
       "added_at": "2025-09-05 04:00:08",
@@ -951,6 +951,30 @@
     {
       "added_at": "2025-09-05 04:00:08",
       "album": {
+        "name": "For One Another",
+        "url": "https://open.spotify.com/album/556MxCxr9kDtL0NIQJvNKw"
+      },
+      "artists": [
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        },
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        },
+        {
+          "name": "Harbors",
+          "url": "https://open.spotify.com/artist/6lOZ3w183ZOw3cEJc7lt8R"
+        }
+      ],
+      "duration_ms": 230173,
+      "name": "For One Another",
+      "url": "https://open.spotify.com/track/76Q7prOhYcczSlOrHfNQnj"
+    },
+    {
+      "added_at": "2025-09-05 04:00:08",
+      "album": {
         "name": "Dance of Seasons",
         "url": "https://open.spotify.com/album/08Z5Fkweh6PZirP9LVfnbr"
       },
@@ -983,30 +1007,6 @@
     {
       "added_at": "2025-09-05 04:00:08",
       "album": {
-        "name": "For One Another",
-        "url": "https://open.spotify.com/album/556MxCxr9kDtL0NIQJvNKw"
-      },
-      "artists": [
-        {
-          "name": "Hollie Kenniff",
-          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
-        },
-        {
-          "name": "Goldmund",
-          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
-        },
-        {
-          "name": "Harbors",
-          "url": "https://open.spotify.com/artist/6lOZ3w183ZOw3cEJc7lt8R"
-        }
-      ],
-      "duration_ms": 230173,
-      "name": "For One Another",
-      "url": "https://open.spotify.com/track/76Q7prOhYcczSlOrHfNQnj"
-    },
-    {
-      "added_at": "2025-09-05 04:00:08",
-      "album": {
         "name": "cry",
         "url": "https://open.spotify.com/album/3ZuOU00dKlfWPcK5maio5I"
       },
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-09-05 04:00:08",
       "album": {
-        "name": "Polar",
-        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 272501,
-      "name": "The Monolith",
-      "url": "https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ"
-    },
-    {
-      "added_at": "2025-09-05 04:00:08",
-      "album": {
         "name": "Eidetic",
         "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 141483,
       "name": "Maple Seed",
       "url": "https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5"
+    },
+    {
+      "added_at": "2025-09-05 04:00:08",
+      "album": {
+        "name": "Polar",
+        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 272501,
+      "name": "The Monolith",
+      "url": "https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ"
     },
     {
       "added_at": "2025-09-05 04:00:08",

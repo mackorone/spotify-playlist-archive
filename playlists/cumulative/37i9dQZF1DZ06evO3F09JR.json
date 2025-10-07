@@ -2579,6 +2579,24 @@
     },
     {
       "album": {
+        "name": "Forse 3",
+        "url": "https://open.spotify.com/album/0jHu1WdYU5K3LYAR31GsQS"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 769843,
+      "name": "Senza Aria",
+      "url": "https://open.spotify.com/track/3GcUWe6Fq1ULIJHKlRTyki"
+    },
+    {
+      "album": {
         "name": "Emosfere",
         "url": "https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb"
       },
@@ -2804,7 +2822,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 232000,
       "name": "Spezia",
       "url": "https://open.spotify.com/track/6pzIffWCizN2DBqEMkajpE"

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Day of Rain",
+        "url": "https://open.spotify.com/album/1r4vtkpjEK15D265Ml7dmj"
+      },
+      "artists": [
+        {
+          "name": "Lakoustiks",
+          "url": "https://open.spotify.com/artist/3D8fqVzEmlJnUq50MV3aJl"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "A Day of Rain",
+      "url": "https://open.spotify.com/track/5XOhWkb0Q9uHaSYztJYwU5"
+    },
+    {
+      "album": {
         "name": "Park And Nature Rains",
         "url": "https://open.spotify.com/album/4d39VZ9ogKIVcm1d5V00cT"
       },
@@ -106,7 +124,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 146100,
       "name": "Alcance",
       "url": "https://open.spotify.com/track/5ztAcoTCCDKvkdGnAjqNM5"
@@ -2144,7 +2162,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 139666,
       "name": "Fuerte lluvia y trueno",
       "url": "https://open.spotify.com/track/226PADyAAd84tELtUrT4No"
@@ -7706,7 +7724,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 168934,
       "name": "Thunderstorm and Strong Winds",
       "url": "https://open.spotify.com/track/6ntncuA9hOa8aJFGEQ1ytK"

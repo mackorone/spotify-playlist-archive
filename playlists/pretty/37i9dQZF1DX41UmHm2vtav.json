@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 491578,
+  "num_followers": 491629,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,22 @@
     {
       "added_at": "2025-10-03 03:01:33",
       "album": {
+        "name": "Live Your Life",
+        "url": "https://open.spotify.com/album/46AdlEXi3E3vcRvR3CT4GP"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 200574,
+      "name": "Live Your Life",
+      "url": "https://open.spotify.com/track/20Q9Fs3CtbsYdwVwq3xbsR"
+    },
+    {
+      "added_at": "2025-10-03 03:01:33",
+      "album": {
         "name": "Sorri, Sou Rei (KVSH Remix)",
         "url": "https://open.spotify.com/album/5J4wjBvmwvBXYBWXickRmk"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 217678,
       "name": "Sorri, Sou Rei (KVSH Remix)",
       "url": "https://open.spotify.com/track/3xV2M8KBtZDtZp42vJReCH"
-    },
-    {
-      "added_at": "2025-10-03 03:01:33",
-      "album": {
-        "name": "Live Your Life",
-        "url": "https://open.spotify.com/album/46AdlEXi3E3vcRvR3CT4GP"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 200574,
-      "name": "Live Your Life",
-      "url": "https://open.spotify.com/track/20Q9Fs3CtbsYdwVwq3xbsR"
     },
     {
       "added_at": "2025-10-03 03:01:33",
@@ -167,6 +167,22 @@
     {
       "added_at": "2025-10-03 03:01:33",
       "album": {
+        "name": "Don't Let It Go",
+        "url": "https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "Don't Let It Go",
+      "url": "https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy"
+    },
+    {
+      "added_at": "2025-10-03 03:01:33",
+      "album": {
         "name": "Can't Get Over You",
         "url": "https://open.spotify.com/album/5McVvbere3ujsgUgEp5gGR"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 142439,
       "name": "Can't Get Over You",
       "url": "https://open.spotify.com/track/3dTmgecC7MCMbteWjf8Ls7"
-    },
-    {
-      "added_at": "2025-10-03 03:01:33",
-      "album": {
-        "name": "Don't Let It Go",
-        "url": "https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 183652,
-      "name": "Don't Let It Go",
-      "url": "https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy"
     },
     {
       "added_at": "2025-10-03 03:01:33",
@@ -527,26 +527,6 @@
     {
       "added_at": "2025-10-03 03:01:33",
       "album": {
-        "name": "Deixe Me Ir",
-        "url": "https://open.spotify.com/album/4cUP4A6DlXz2LOADhjsr9Q"
-      },
-      "artists": [
-        {
-          "name": "1Kilo",
-          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
-        },
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        }
-      ],
-      "duration_ms": 214634,
-      "name": "Deixe Me Ir",
-      "url": "https://open.spotify.com/track/5iG6XGRTfFjL2iky4d8Q5L"
-    },
-    {
-      "added_at": "2025-10-03 03:01:33",
-      "album": {
         "name": "It's Your Life",
         "url": "https://open.spotify.com/album/3m2oxIxHCXPpbf1aEhGq1A"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 160909,
       "name": "It's Your Life",
       "url": "https://open.spotify.com/track/3dYKyv7l70pDq8tG6WRpev"
+    },
+    {
+      "added_at": "2025-10-03 03:01:33",
+      "album": {
+        "name": "Deixe Me Ir",
+        "url": "https://open.spotify.com/album/4cUP4A6DlXz2LOADhjsr9Q"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        }
+      ],
+      "duration_ms": 214634,
+      "name": "Deixe Me Ir",
+      "url": "https://open.spotify.com/track/5iG6XGRTfFjL2iky4d8Q5L"
     },
     {
       "added_at": "2025-10-03 03:01:33",
@@ -655,6 +655,30 @@
     {
       "added_at": "2025-10-03 03:01:33",
       "album": {
+        "name": "Azul (Illusionize & Linkage Remix)",
+        "url": "https://open.spotify.com/album/7EX3FMUMFmiu4WBts8RZsz"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        },
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "Linkage",
+          "url": "https://open.spotify.com/artist/1ZvYE8yQ4j8dBKWNA9JW7R"
+        }
+      ],
+      "duration_ms": 198867,
+      "name": "Azul - Illusionize & Linkage Remix",
+      "url": "https://open.spotify.com/track/54OR3bj7ddSx8Xm6LLpOxa"
+    },
+    {
+      "added_at": "2025-10-03 03:01:33",
+      "album": {
         "name": "Sem Ch\u00e3o (Malemol\u00eancia)",
         "url": "https://open.spotify.com/album/1KMNZU2XgBIFejM1j0DHwR"
       },
@@ -695,30 +719,6 @@
       "duration_ms": 209032,
       "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
       "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
-    },
-    {
-      "added_at": "2025-10-03 03:01:33",
-      "album": {
-        "name": "Azul (Illusionize & Linkage Remix)",
-        "url": "https://open.spotify.com/album/7EX3FMUMFmiu4WBts8RZsz"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "illusionize",
-          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
-        },
-        {
-          "name": "Linkage",
-          "url": "https://open.spotify.com/artist/1ZvYE8yQ4j8dBKWNA9JW7R"
-        }
-      ],
-      "duration_ms": 198867,
-      "name": "Azul - Illusionize & Linkage Remix",
-      "url": "https://open.spotify.com/track/54OR3bj7ddSx8Xm6LLpOxa"
     },
     {
       "added_at": "2025-10-03 03:01:33",
@@ -959,6 +959,26 @@
     {
       "added_at": "2025-10-03 03:01:33",
       "album": {
+        "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
+        "url": "https://open.spotify.com/album/4u1iSVei2vJgYCjhBqT5b0"
+      },
+      "artists": [
+        {
+          "name": "Viot",
+          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+        },
+        {
+          "name": "Blitz",
+          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
+      "url": "https://open.spotify.com/track/3dTQZCZ6ymToMbSqaIljDB"
+    },
+    {
+      "added_at": "2025-10-03 03:01:33",
+      "album": {
         "name": "E Depois (Que Sorte A Minha)",
         "url": "https://open.spotify.com/album/0ICc6IqSIkLkS2idTkFXu0"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 220125,
       "name": "E Depois (Que Sorte A Minha)",
       "url": "https://open.spotify.com/track/214FzhGa7IXferIhbZ9KnL"
-    },
-    {
-      "added_at": "2025-10-03 03:01:33",
-      "album": {
-        "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
-        "url": "https://open.spotify.com/album/4u1iSVei2vJgYCjhBqT5b0"
-      },
-      "artists": [
-        {
-          "name": "Viot",
-          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
-        },
-        {
-          "name": "Blitz",
-          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
-      "url": "https://open.spotify.com/track/3dTQZCZ6ymToMbSqaIljDB"
     },
     {
       "added_at": "2025-10-03 03:01:33",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2025-10-03 03:01:33",
       "album": {
+        "name": "Empezar Ganando",
+        "url": "https://open.spotify.com/album/0OQaAAmqwMlwjvBhPua2T1"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/7aoiWBO8doJwpmDlAwVHu6"
+    },
+    {
+      "added_at": "2025-10-03 03:01:33",
+      "album": {
         "name": "Olhos Coloridos (Rap Singulares)",
         "url": "https://open.spotify.com/album/4MMCIWA9SlXLGqtmhGDe7z"
       },
@@ -1243,26 +1263,6 @@
       "duration_ms": 277565,
       "name": "Olhos Coloridos (Rap Singulares)",
       "url": "https://open.spotify.com/track/6mnm2vF8ERCRrJQZeCtsbg"
-    },
-    {
-      "added_at": "2025-10-03 03:01:33",
-      "album": {
-        "name": "Empezar Ganando",
-        "url": "https://open.spotify.com/album/0OQaAAmqwMlwjvBhPua2T1"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        },
-        {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/7aoiWBO8doJwpmDlAwVHu6"
     },
     {
       "added_at": "2025-10-03 03:01:33",
@@ -1331,34 +1331,6 @@
     {
       "added_at": "2025-10-03 03:01:33",
       "album": {
-        "name": "Calma, Senta, Relaxa",
-        "url": "https://open.spotify.com/album/33Fy4OcnaRL6IPLbM6yNsq"
-      },
-      "artists": [
-        {
-          "name": "Mc Kitinho",
-          "url": "https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "DJ Jap\u00e3o",
-          "url": "https://open.spotify.com/artist/3xoA3XlugnMbcIurjFJp93"
-        },
-        {
-          "name": "Kamoto",
-          "url": "https://open.spotify.com/artist/024MAhdqfNuVvJbpOvkZA9"
-        }
-      ],
-      "duration_ms": 124111,
-      "name": "Calma, Senta, Relaxa",
-      "url": "https://open.spotify.com/track/50NEjFtXbDh1SSgxfbZDFh"
-    },
-    {
-      "added_at": "2025-10-03 03:01:33",
-      "album": {
         "name": "La Belle De Jour (Remix)",
         "url": "https://open.spotify.com/album/13FFkY8H5bRfN05qfhQCLt"
       },
@@ -1403,6 +1375,58 @@
     {
       "added_at": "2025-10-03 03:01:33",
       "album": {
+        "name": "Calma, Senta, Relaxa",
+        "url": "https://open.spotify.com/album/33Fy4OcnaRL6IPLbM6yNsq"
+      },
+      "artists": [
+        {
+          "name": "Mc Kitinho",
+          "url": "https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "DJ Jap\u00e3o",
+          "url": "https://open.spotify.com/artist/3xoA3XlugnMbcIurjFJp93"
+        },
+        {
+          "name": "Kamoto",
+          "url": "https://open.spotify.com/artist/024MAhdqfNuVvJbpOvkZA9"
+        }
+      ],
+      "duration_ms": 124111,
+      "name": "Calma, Senta, Relaxa",
+      "url": "https://open.spotify.com/track/50NEjFtXbDh1SSgxfbZDFh"
+    },
+    {
+      "added_at": "2025-10-03 03:01:33",
+      "album": {
+        "name": "Todo Homem (Bhaskar, Mojjo Remix)",
+        "url": "https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN"
+      },
+      "artists": [
+        {
+          "name": "Zeca Veloso",
+          "url": "https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        }
+      ],
+      "duration_ms": 269015,
+      "name": "Todo Homem - Bhaskar, Mojjo Remix",
+      "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"
+    },
+    {
+      "added_at": "2025-10-03 03:01:33",
+      "album": {
         "name": "Imprevis\u00edvel (Overdriver Duo e Guz Zanotto Remix)",
         "url": "https://open.spotify.com/album/1qa0nujY9Mf2HdbL86o7GW"
       },
@@ -1443,30 +1467,6 @@
       "duration_ms": 175546,
       "name": "Que Dia",
       "url": "https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H"
-    },
-    {
-      "added_at": "2025-10-03 03:01:33",
-      "album": {
-        "name": "Todo Homem (Bhaskar, Mojjo Remix)",
-        "url": "https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN"
-      },
-      "artists": [
-        {
-          "name": "Zeca Veloso",
-          "url": "https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z"
-        },
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Mojjo",
-          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
-        }
-      ],
-      "duration_ms": 269015,
-      "name": "Todo Homem - Bhaskar, Mojjo Remix",
-      "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"
     },
     {
       "added_at": "2025-10-03 03:01:33",

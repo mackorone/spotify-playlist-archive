@@ -4,11 +4,12 @@
 
 > This is Rich Homie Quan\. The essential tracks, all in one playlist.
 
-75 songs - 4 hr 24 min
+76 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$ave Dat Money \(feat\. Fetty Wap & Rich Homie Quan\)](https://open.spotify.com/track/1TkWsnheqK0gBtvh07BtNX) | [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Professional Rapper](https://open.spotify.com/album/7IhHBoBPWlCSrr8DCmP5ot) | 4:50 | 2024-09-07 |  |
+| [15 Shots](https://open.spotify.com/track/53I7AM0JdcKspFjo29tHyW) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Legacy of Hits](https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL) | 2:38 | 2025-10-07 |  |
 | [2 Rounds \[Remix\] \(feat\. Rich Homie Quan & Kevin Gates\)](https://open.spotify.com/track/3vk2vqP66qXKYoC5NU4qtO) | [Propain](https://open.spotify.com/artist/2hJIsGyAMyrircVHcLEj4y), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [2 Rounds \[Remix\] \(feat\. Rich Homie Quan & Kevin Gates\)](https://open.spotify.com/album/7stv82Fq3iVD7tZ1JTmWXs) | 4:07 | 2024-09-07 | 2024-09-08 |
 | [Ah'chi](https://open.spotify.com/track/5suBeiydHdrdMvMV98wOQp) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Ah'chi](https://open.spotify.com/album/4ktxz9GRn32r4GWaHogUr5) | 3:40 | 2024-09-07 | 2025-03-02 |
 | [Ah'chi](https://open.spotify.com/track/5sGsxrtnw9Z725OC5KOTkJ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Forever Goin In](https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh) | 3:41 | 2025-03-02 | 2025-05-22 |
@@ -57,7 +58,7 @@
 | [No Way](https://open.spotify.com/track/25qyaJi5AbHAMhUYMDVvPF) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [No Label Vol\. 2](https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj) | 4:41 | 2024-09-07 |  |
 | [One of Quan](https://open.spotify.com/track/6p6pqAuoA9xDuyenxpzojG) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Forever Goin In](https://open.spotify.com/album/41w5rKjLxKI735hBuQ8RAs) | 3:08 | 2025-08-25 | 2025-10-05 |
 | [One of Quan](https://open.spotify.com/track/70SqOG5NhnhH5HJQCgqTUO) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Forever Goin In](https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh) | 3:08 | 2024-10-09 | 2025-04-21 |
-| [Perfect Flower](https://open.spotify.com/track/0k2zadj0ibcTAPXcGg6t7a) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Rich As In Spirit](https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7) | 3:34 | 2025-09-26 |  |
+| [Perfect Flower](https://open.spotify.com/track/0k2zadj0ibcTAPXcGg6t7a) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Rich As In Spirit](https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7) | 3:34 | 2025-09-26 | 2025-10-07 |
 | [Private Room](https://open.spotify.com/track/6NtUvEqIOgO1rRkQk6F0aE) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [Tony Michael](https://open.spotify.com/artist/5DVMoEqGsSj3jFCIR2inf8), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Private Room \(feat\. Rich Homie Quan\) \- Single](https://open.spotify.com/album/1EZPtQxaaD648L0RXVBUXZ) | 3:17 | 2024-09-07 |  |
 | [RedBone](https://open.spotify.com/track/2tEvKwNUradPTkXpGnbDyv) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Coma](https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd) | 4:13 | 2024-10-03 |  |
 | [Rich Homie Quando \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/5UAXYLeJ7XrdTe7u5eq2ts) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Life After Fame](https://open.spotify.com/album/3IYaSINx79h33UY51uylld) | 2:44 | 2024-09-07 |  |

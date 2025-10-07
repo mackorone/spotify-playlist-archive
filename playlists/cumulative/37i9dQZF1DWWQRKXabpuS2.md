@@ -4,7 +4,7 @@
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-421 songs - 1 day 4 hr 58 min
+422 songs - 1 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [حظ من شافك](https://open.spotify.com/track/2vVlibedNRJkM7xIHkMiq4) | [Faisal Al Jasem](https://open.spotify.com/artist/0jsUKX6jfAdzVj3ml3BAwT) | [حظ من شافك](https://open.spotify.com/album/62oXdDuMezhgs39J3liFYg) | 3:49 | 2023-06-30 | 2023-12-30 |
 | [حنيت](https://open.spotify.com/track/4SbeEnZSqDyHZrOruHLMjh) | [Mai Mostafa](https://open.spotify.com/artist/30anNvRIZmx6agpOWolWRI) | [حنيت](https://open.spotify.com/album/2iAFWITELlig4HQfHQmq3G) | 4:15 | 2022-01-06 | 2022-06-10 |
 | [درعية العز](https://open.spotify.com/track/5zVEy651bxerXBDB6Y93Vk) | [Rashed Al Fares](https://open.spotify.com/artist/7J900jipjzgeVmiVU3a5cf) | [درعية العز](https://open.spotify.com/album/0QmEQZpP3QEwr6fJOeMGc8) | 3:10 | 2024-02-06 | 2024-09-06 |
+| [دور عذر](https://open.spotify.com/track/3xdIuk8WVIX9xedX4TZMzB) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [دور عذر](https://open.spotify.com/album/0hfBg4g0INDycRB8hO8Bja) | 3:24 | 2025-10-06 |  |
 | [راحت أيامه](https://open.spotify.com/track/0F7zIQlo4DFp0VGI4E2ObA) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [سلطان المرشد ٢٠٢٥](https://open.spotify.com/album/61cWGLutmVrLGBaVAcuEw1) | 3:59 | 2025-04-24 | 2025-04-27 |
 | [روح براحتك](https://open.spotify.com/track/4MEeCc9QHr24rQ99dOd9AZ) | [Sheme](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [روح براحتك](https://open.spotify.com/album/2hStDr8tYNyFkQiUT2F0fj) | 3:39 | 2022-06-02 | 2023-01-10 |
 | [زانت الدنيا](https://open.spotify.com/track/5EzRuKGJH0mbsN6v8Fnv9I) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [زانت الدنيا](https://open.spotify.com/album/1LR4dAWfgxCfo15VonGAmO) | 3:39 | 2022-02-24 | 2022-08-13 |

@@ -142,7 +142,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 151700,
       "name": "Altostratus",
       "url": "https://open.spotify.com/track/1cy8xrjUjonN2wplWc2rK9"
@@ -308,6 +308,24 @@
       "duration_ms": 200620,
       "name": "Birds song forest rain",
       "url": "https://open.spotify.com/track/0NNomsoZvS34EyTZ8ph1xz"
+    },
+    {
+      "album": {
+        "name": "Bloom Drops",
+        "url": "https://open.spotify.com/album/5bhWfiwUq7bSthr0ZUvgCU"
+      },
+      "artists": [
+        {
+          "name": "Suburban DZ",
+          "url": "https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Bloom Drops",
+      "url": "https://open.spotify.com/track/0vblE9dJaMfWAZAyCPFSBu"
     },
     {
       "album": {
@@ -592,7 +610,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 166000,
       "name": "City Drencher",
       "url": "https://open.spotify.com/track/0PmFJejR2xSdSDR2jMw7cF"
@@ -2216,7 +2234,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 166000,
       "name": "It's Rain, Dear",
       "url": "https://open.spotify.com/track/7KvxHYNGXUHuPhZFRcQoqE"
@@ -3196,6 +3214,24 @@
       "duration_ms": 188725,
       "name": "Peaceful Rain",
       "url": "https://open.spotify.com/track/1gkY5sTXhdFhfUM1YpIZ4V"
+    },
+    {
+      "album": {
+        "name": "Peaceful Rains",
+        "url": "https://open.spotify.com/album/4lBS9l6qbdAZG4NHzc9f0z"
+      },
+      "artists": [
+        {
+          "name": "Nature Advisor",
+          "url": "https://open.spotify.com/artist/49v15Biw9XvZRUShSgK2aQ"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160615,
+      "name": "Peaceful Rains",
+      "url": "https://open.spotify.com/track/1a6j8HYCABWOtlq0EQwsjQ"
     },
     {
       "album": {
@@ -4950,7 +4986,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 167081,
       "name": "Roc\u00edo",
       "url": "https://open.spotify.com/track/0mTJryqzobnXiywllWVQ9H"

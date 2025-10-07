@@ -13055,6 +13055,24 @@
     },
     {
       "album": {
+        "name": "The Falling Notes",
+        "url": "https://open.spotify.com/album/5hO34GucbJYAUvG4cUaF8B"
+      },
+      "artists": [
+        {
+          "name": "Sonoe",
+          "url": "https://open.spotify.com/artist/48VgDgh7JSNHr1lRFLjXiq"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168375,
+      "name": "The Falling Notes",
+      "url": "https://open.spotify.com/track/6rhCcqg6WIdPZHFvqgcXoD"
+    },
+    {
+      "album": {
         "name": "The Faroes",
         "url": "https://open.spotify.com/album/3fOUYyURondIwEGMIH56FQ"
       },
@@ -14588,7 +14606,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-30",
+      "date_removed": null,
       "duration_ms": 190753,
       "name": "Waves",
       "url": "https://open.spotify.com/track/1k1EAe1t6B9hCP2OGB4uwz"
@@ -14606,7 +14624,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 190753,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6x2BX324218Ip4A9MYRuFG"

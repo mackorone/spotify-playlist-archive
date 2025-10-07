@@ -1,6 +1,6 @@
 {
   "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Maria Becerra",
-  "num_followers": 276827,
+  "num_followers": 276763,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-12-20 05:00:25",
       "album": {
+        "name": "Noche de Paz - Recorded at Electric Lady Studios NYC - Spotify Studios NYC",
+        "url": "https://open.spotify.com/album/6ko0lFEORJ1r844s60Zh3f"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 124989,
+      "name": "Noche de Paz - Recorded at Electric Lady Studios NYC - Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6lxZad9QvvupcZmt0BwKPJ"
+    },
+    {
+      "added_at": "2024-12-20 05:00:25",
+      "album": {
         "name": "Santa Para Que Porfa",
         "url": "https://open.spotify.com/album/6y60Q4HPD3K9V0anQN0y2P"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 176571,
       "name": "Santa Para Que Porfa",
       "url": "https://open.spotify.com/track/52qnXpspvSfn6VK96iADHG"
-    },
-    {
-      "added_at": "2024-12-20 05:00:25",
-      "album": {
-        "name": "5 pa las 12",
-        "url": "https://open.spotify.com/album/6eVGO1kGK6UvJH59KtF300"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 173586,
-      "name": "5 pa las 12",
-      "url": "https://open.spotify.com/track/7uwcZL1mOd4u22md6i4tLD"
     },
     {
       "added_at": "2024-12-20 05:00:25",
@@ -155,18 +155,18 @@
     {
       "added_at": "2024-12-20 05:00:25",
       "album": {
-        "name": "Noche de Paz - Recorded at Electric Lady Studios NYC - Spotify Studios NYC",
-        "url": "https://open.spotify.com/album/6ko0lFEORJ1r844s60Zh3f"
+        "name": "5 pa las 12",
+        "url": "https://open.spotify.com/album/6eVGO1kGK6UvJH59KtF300"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 124989,
-      "name": "Noche de Paz - Recorded at Electric Lady Studios NYC - Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6lxZad9QvvupcZmt0BwKPJ"
+      "duration_ms": 173586,
+      "name": "5 pa las 12",
+      "url": "https://open.spotify.com/track/7uwcZL1mOd4u22md6i4tLD"
     },
     {
       "added_at": "2024-12-20 05:00:25",
@@ -303,18 +303,18 @@
     {
       "added_at": "2024-12-20 05:00:25",
       "album": {
-        "name": "Navisad",
-        "url": "https://open.spotify.com/album/4CvfMBqnVE3Hfltq69KDEI"
+        "name": "Lleg\u00f3 la Navidad",
+        "url": "https://open.spotify.com/album/41BtvGvCv8JpWl3RXFEZdI"
       },
       "artists": [
         {
-          "name": "Corina Smith",
-          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
         }
       ],
-      "duration_ms": 186775,
-      "name": "Navisad",
-      "url": "https://open.spotify.com/track/4DrWtI8bBJ8rHqV2h53T9o"
+      "duration_ms": 245791,
+      "name": "Lleg\u00f3 la Navidad",
+      "url": "https://open.spotify.com/track/6kmwUkaKQMGxQGpS52r1Pt"
     },
     {
       "added_at": "2024-12-20 05:00:25",
@@ -339,18 +339,18 @@
     {
       "added_at": "2024-12-20 05:00:25",
       "album": {
-        "name": "Lleg\u00f3 la Navidad",
-        "url": "https://open.spotify.com/album/41BtvGvCv8JpWl3RXFEZdI"
+        "name": "Navisad",
+        "url": "https://open.spotify.com/album/4CvfMBqnVE3Hfltq69KDEI"
       },
       "artists": [
         {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+          "name": "Corina Smith",
+          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
         }
       ],
-      "duration_ms": 245791,
-      "name": "Lleg\u00f3 la Navidad",
-      "url": "https://open.spotify.com/track/6kmwUkaKQMGxQGpS52r1Pt"
+      "duration_ms": 186775,
+      "name": "Navisad",
+      "url": "https://open.spotify.com/track/4DrWtI8bBJ8rHqV2h53T9o"
     },
     {
       "added_at": "2024-12-20 05:00:25",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-12-20 05:00:25",
       "album": {
+        "name": "Santa Claus Lleg\u00f3 A La Ciudad",
+        "url": "https://open.spotify.com/album/07xPl363lb9z67lLCtjuNS"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 158629,
+      "name": "Santa Claus Lleg\u00f3 A La Ciudad",
+      "url": "https://open.spotify.com/track/4mpwuLCkeVzmzYFYjNrwMr"
+    },
+    {
+      "added_at": "2024-12-20 05:00:25",
+      "album": {
         "name": "Navidad Melanc\u00f3lica",
         "url": "https://open.spotify.com/album/6hLO1ANHWXJJq7mdSH8CLV"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 197697,
       "name": "Naci\u00f3 la Luz",
       "url": "https://open.spotify.com/track/1U377FOgdZVOUftTD6UoWx"
-    },
-    {
-      "added_at": "2024-12-20 05:00:25",
-      "album": {
-        "name": "Santa Claus Lleg\u00f3 A La Ciudad",
-        "url": "https://open.spotify.com/album/07xPl363lb9z67lLCtjuNS"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 158629,
-      "name": "Santa Claus Lleg\u00f3 A La Ciudad",
-      "url": "https://open.spotify.com/track/4mpwuLCkeVzmzYFYjNrwMr"
     },
     {
       "added_at": "2024-12-20 05:00:25",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-12-20 05:00:25",
       "album": {
-        "name": "Navidad Melanc\u00f3lica",
-        "url": "https://open.spotify.com/album/6hLO1ANHWXJJq7mdSH8CLV"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 167929,
-      "name": "Al Mundo Paz",
-      "url": "https://open.spotify.com/track/77E7lXHMVXgQmvpo5l4pLX"
-    },
-    {
-      "added_at": "2024-12-20 05:00:25",
-      "album": {
         "name": "Estefan Family Christmas",
         "url": "https://open.spotify.com/album/49b2hgZIN5fqQrswcuVyNk"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 243666,
       "name": "Doy Gracias Por Ti",
       "url": "https://open.spotify.com/track/2ZPAfGIvoOpPi3ozCqVg0L"
+    },
+    {
+      "added_at": "2024-12-20 05:00:25",
+      "album": {
+        "name": "Navidad Melanc\u00f3lica",
+        "url": "https://open.spotify.com/album/6hLO1ANHWXJJq7mdSH8CLV"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 167929,
+      "name": "Al Mundo Paz",
+      "url": "https://open.spotify.com/track/77E7lXHMVXgQmvpo5l4pLX"
     },
     {
       "added_at": "2024-12-20 05:00:25",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-12-20 05:00:25",
       "album": {
+        "name": "Feliz Christmas (Vol.1)",
+        "url": "https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/2o9Gsb0lejeTmJ06F2R5hh"
+    },
+    {
+      "added_at": "2024-12-20 05:00:25",
+      "album": {
         "name": "Se Acerca Navidad",
         "url": "https://open.spotify.com/album/3ZE9lMRkHFM2RnjzSyxe5C"
       },
@@ -711,38 +727,6 @@
     {
       "added_at": "2024-12-20 05:00:25",
       "album": {
-        "name": "Feliz Christmas (Vol.1)",
-        "url": "https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        }
-      ],
-      "duration_ms": 191333,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/2o9Gsb0lejeTmJ06F2R5hh"
-    },
-    {
-      "added_at": "2024-12-20 05:00:25",
-      "album": {
-        "name": "Querido Santa Claus",
-        "url": "https://open.spotify.com/album/2VsVlL1ru5VlJm6WBO3vxI"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Querido Santa Claus",
-      "url": "https://open.spotify.com/track/1pCmabA7RFtLkDv4wQLtZn"
-    },
-    {
-      "added_at": "2024-12-20 05:00:25",
-      "album": {
         "name": "Navidad Contigo",
         "url": "https://open.spotify.com/album/3VlditEUUTeSXRw4r3RFGn"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 188520,
       "name": "Navidad Contigo",
       "url": "https://open.spotify.com/track/481jZRK94eCVslwavhdY8n"
+    },
+    {
+      "added_at": "2024-12-20 05:00:25",
+      "album": {
+        "name": "Querido Santa Claus",
+        "url": "https://open.spotify.com/album/2VsVlL1ru5VlJm6WBO3vxI"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Querido Santa Claus",
+      "url": "https://open.spotify.com/track/1pCmabA7RFtLkDv4wQLtZn"
     },
     {
       "added_at": "2024-12-20 05:00:25",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-12-20 05:00:25",
       "album": {
-        "name": "Diciembre",
-        "url": "https://open.spotify.com/album/1oZ3it2Hd6dNEm3ErNYzAi"
-      },
-      "artists": [
-        {
-          "name": "Darho",
-          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
-        }
-      ],
-      "duration_ms": 160312,
-      "name": "Diciembre",
-      "url": "https://open.spotify.com/track/2VMEtD2E4Fh8gBe9UuJ7Px"
-    },
-    {
-      "added_at": "2024-12-20 05:00:25",
-      "album": {
         "name": "Villancicos",
         "url": "https://open.spotify.com/album/0plHwd26dot1EiYNqE1imb"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 260143,
       "name": "El Tamborilero",
       "url": "https://open.spotify.com/track/5MfxwmRXFzGsvn2yR0HI9v"
+    },
+    {
+      "added_at": "2024-12-20 05:00:25",
+      "album": {
+        "name": "Diciembre",
+        "url": "https://open.spotify.com/album/1oZ3it2Hd6dNEm3ErNYzAi"
+      },
+      "artists": [
+        {
+          "name": "Darho",
+          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
+        }
+      ],
+      "duration_ms": 160312,
+      "name": "Diciembre",
+      "url": "https://open.spotify.com/track/2VMEtD2E4Fh8gBe9UuJ7Px"
     },
     {
       "added_at": "2024-12-20 05:00:25",
@@ -983,22 +983,6 @@
       "duration_ms": 175100,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/3ahTtn2xIy34RYlwTOxqW1"
-    },
-    {
-      "added_at": "2024-12-20 05:00:25",
-      "album": {
-        "name": "este diciembre.",
-        "url": "https://open.spotify.com/album/0GvCjUOCj1CpfIRlBEC7GI"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "este diciembre.",
-      "url": "https://open.spotify.com/track/1QWNbaeJ7tjSCfF0OQ1852"
     },
     {
       "added_at": "2024-12-20 05:00:25",
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2024-12-20 05:00:25",
       "album": {
+        "name": "este diciembre.",
+        "url": "https://open.spotify.com/album/0GvCjUOCj1CpfIRlBEC7GI"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "este diciembre.",
+      "url": "https://open.spotify.com/track/1QWNbaeJ7tjSCfF0OQ1852"
+    },
+    {
+      "added_at": "2024-12-20 05:00:25",
+      "album": {
         "name": "Duende",
         "url": "https://open.spotify.com/album/2w5Retn8950UJiwf09tFJq"
       },
@@ -1067,22 +1067,6 @@
       "duration_ms": 166891,
       "name": "Duende",
       "url": "https://open.spotify.com/track/4YOZ3RFiqr4SiPpQ3MMBot"
-    },
-    {
-      "added_at": "2024-12-20 05:00:25",
-      "album": {
-        "name": "Ven a Mi Casa Esta Navidad",
-        "url": "https://open.spotify.com/album/4wzE6Qzq86autFUu0wZ9QF"
-      },
-      "artists": [
-        {
-          "name": "JACE Carrillo",
-          "url": "https://open.spotify.com/artist/3SkH0TcPc8cxGospxnjClx"
-        }
-      ],
-      "duration_ms": 154969,
-      "name": "Ven a Mi Casa Esta Navidad",
-      "url": "https://open.spotify.com/track/3FXsT2EtwJnWifXRDLbMEd"
     },
     {
       "added_at": "2024-12-20 05:00:25",
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2024-12-20 05:00:25",
       "album": {
+        "name": "Ven a Mi Casa Esta Navidad",
+        "url": "https://open.spotify.com/album/4wzE6Qzq86autFUu0wZ9QF"
+      },
+      "artists": [
+        {
+          "name": "JACE Carrillo",
+          "url": "https://open.spotify.com/artist/3SkH0TcPc8cxGospxnjClx"
+        }
+      ],
+      "duration_ms": 154969,
+      "name": "Ven a Mi Casa Esta Navidad",
+      "url": "https://open.spotify.com/track/3FXsT2EtwJnWifXRDLbMEd"
+    },
+    {
+      "added_at": "2024-12-20 05:00:25",
+      "album": {
         "name": "Diciembre Fr\u00edo",
         "url": "https://open.spotify.com/album/1DanZPzGDbBYuMeFVgloC5"
       },
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-12-20 05:00:25",
       "album": {
+        "name": "Love & Christmas",
+        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "duration_ms": 191457,
+      "name": "Roz\u00e1ndome",
+      "url": "https://open.spotify.com/track/2qEzMGg0SXKxwvUNdiFqSD"
+    },
+    {
+      "added_at": "2024-12-20 05:00:25",
+      "album": {
         "name": "mi \u00fanico deseo",
         "url": "https://open.spotify.com/album/6USiBPFQmZydXaPPaLzH92"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 186947,
       "name": "mi \u00fanico deseo",
       "url": "https://open.spotify.com/track/4HHBSCjY9BYUF8HFGxnXGE"
-    },
-    {
-      "added_at": "2024-12-20 05:00:25",
-      "album": {
-        "name": "Love & Christmas",
-        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
-        }
-      ],
-      "duration_ms": 191457,
-      "name": "Roz\u00e1ndome",
-      "url": "https://open.spotify.com/track/2qEzMGg0SXKxwvUNdiFqSD"
     },
     {
       "added_at": "2024-12-20 05:00:25",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-12-20 05:00:25",
       "album": {
-        "name": "st. Pedro's Christmas Special",
-        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
-      },
-      "artists": [
-        {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
-        }
-      ],
-      "duration_ms": 187668,
-      "name": "Otra Navidad :(",
-      "url": "https://open.spotify.com/track/0stGjckaqF832pf74QJT0l"
-    },
-    {
-      "added_at": "2024-12-20 05:00:25",
-      "album": {
         "name": "Love & Christmas",
         "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 195882,
       "name": "triste navidad",
       "url": "https://open.spotify.com/track/4jqg6EpmCWFrBMxlamseYv"
+    },
+    {
+      "added_at": "2024-12-20 05:00:25",
+      "album": {
+        "name": "st. Pedro's Christmas Special",
+        "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "duration_ms": 187668,
+      "name": "Otra Navidad :(",
+      "url": "https://open.spotify.com/track/0stGjckaqF832pf74QJT0l"
     },
     {
       "added_at": "2024-12-20 05:00:25",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-12-20 05:00:25",
       "album": {
-        "name": "Para Navidad",
-        "url": "https://open.spotify.com/album/27CeHfJqWFuTSj2IOXCMT2"
+        "name": "No Me Puedes Faltar (Navidad)",
+        "url": "https://open.spotify.com/album/6W6JtAT7c9Cgg73wheBQoP"
       },
       "artists": [
         {
-          "name": "The Fam",
-          "url": "https://open.spotify.com/artist/4vfh2t9u9b9Ekc43M8PcYH"
+          "name": "Charlie Zaa",
+          "url": "https://open.spotify.com/artist/1KfBKoozFugeT1PBkz33xl"
         }
       ],
-      "duration_ms": 177329,
-      "name": "Para Navidad",
-      "url": "https://open.spotify.com/track/7GX2qkdqQmi8rDNkl5terB"
+      "duration_ms": 208374,
+      "name": "No Me Puedes Faltar (Navidad)",
+      "url": "https://open.spotify.com/track/3c56nqMkeVdVnIxuflEJ5a"
     }
   ],
   "unique_name": "Feliz Navidad",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKnb4wcRKrO.md) - [plain]
 
 > Golden hour, apéritif, cozy time, beach wind\-down \-  jazzy vibes & relaxed house beats🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,320 likes - 108 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,585 likes - 108 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKnb4wcRKrO.md) - [plain]
 | 107 | [Drifting On](https://open.spotify.com/track/0OCT3zd8kEYOUU1gjRBVo2) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [Doble Espresso](https://open.spotify.com/album/2Ub48SgCtdDBsf1ZatJpXY) | 6:41 |
 | 108 | [Now I See](https://open.spotify.com/track/0DBRTvXViJcg76r9EQ6ngu) | [Redeyes](https://open.spotify.com/artist/6bFVG82TmMLbnFFBqG9LYa) | [Now I See](https://open.spotify.com/album/6wn5623NAokok2nuscutZK) | 3:46 |
 
-Snapshot ID: `AAAAAO5SrtGdC915c3/lqoUDIIzZ9XGJ`
+Snapshot ID: `AAAAABqEZE3F5k9xkK7e4DGRrHPK48OF`

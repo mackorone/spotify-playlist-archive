@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 34860,
+  "num_followers": 34863,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOBjgAAAAAAMC1Bgsg6cXkiougkatPWU",
+  "snapshot_id": "aOG1AAAAAADcGEavJCExS4yVl+zZq6V2",
   "tracks": [
     {
       "added_at": null,
@@ -303,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sessions",
+        "url": "https://open.spotify.com/album/7yaedwQjo5ai0h1EEI9ymx"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 188053,
+      "name": "Sessions",
+      "url": "https://open.spotify.com/track/03gHIjYCwrOia5nNwg7jmT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grandson",
         "url": "https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 163013,
       "name": "Real Oppy (feat. G Herbo)",
       "url": "https://open.spotify.com/track/33b88WhmUTvmavA6yAsKQp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sessions",
-        "url": "https://open.spotify.com/album/7yaedwQjo5ai0h1EEI9ymx"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 188053,
-      "name": "Sessions",
-      "url": "https://open.spotify.com/track/03gHIjYCwrOia5nNwg7jmT"
     },
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Untreated Trauma",
-        "url": "https://open.spotify.com/album/4b3YhxbbwYFmhqdzmty0rQ"
-      },
-      "artists": [
-        {
-          "name": "FattMack",
-          "url": "https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "White Lies (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/0tFBUAD6EUgXmmj1ooNzVT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SLICK ALMIGHTY",
         "url": "https://open.spotify.com/album/7z89XFe47HxS51U6cF6tMp"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 204750,
       "name": "Drench Gang (feat. G Herbo)",
       "url": "https://open.spotify.com/track/0ylEKSeI0KEbDrWz33bIAP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Untreated Trauma",
+        "url": "https://open.spotify.com/album/4b3YhxbbwYFmhqdzmty0rQ"
+      },
+      "artists": [
+        {
+          "name": "FattMack",
+          "url": "https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "White Lies (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/0tFBUAD6EUgXmmj1ooNzVT"
     },
     {
       "added_at": null,
@@ -655,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Why Would I (feat. G Herbo) [Extended]",
-        "url": "https://open.spotify.com/album/4I53Ib8xSNSB7ve1LfrVFW"
-      },
-      "artists": [
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "Why Would I (feat. G Herbo) - Extended",
-      "url": "https://open.spotify.com/track/6egdly2Q01O5EGDWcO3IQ4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PTSD (Deluxe)",
         "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 162217,
       "name": "Real One",
       "url": "https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Why Would I (feat. G Herbo) [Extended]",
+        "url": "https://open.spotify.com/album/4I53Ib8xSNSB7ve1LfrVFW"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "Why Would I (feat. G Herbo) - Extended",
+      "url": "https://open.spotify.com/track/6egdly2Q01O5EGDWcO3IQ4"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PTSD (Deluxe)",
+        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 196659,
+      "name": "Cap Guns",
+      "url": "https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What It Means To Be King",
         "url": "https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 156133,
       "name": "Facetime (feat. G Herbo)",
       "url": "https://open.spotify.com/track/0AfBqvVQowOxKyau7NxUWp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PTSD (Deluxe)",
-        "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 196659,
-      "name": "Cap Guns",
-      "url": "https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG"
     },
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hall of Fame",
-        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 161627,
-      "name": "Go Part 1 (with G Herbo)",
-      "url": "https://open.spotify.com/track/1EnWTwagv0XR5OJ51WMdzj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PTSD (Deluxe)",
         "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
       },
@@ -859,22 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I NEVER GAVE AF",
-        "url": "https://open.spotify.com/album/5U0od07DPyVqElA9cbO364"
+        "name": "Hall of Fame",
+        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
       },
       "artists": [
         {
-          "name": "Raq baby",
-          "url": "https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 174545,
-      "name": "Feel Bad (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/3vopZj6osuP21LtAmCUTJs"
+      "duration_ms": 161627,
+      "name": "Go Part 1 (with G Herbo)",
+      "url": "https://open.spotify.com/track/1EnWTwagv0XR5OJ51WMdzj"
     },
     {
       "added_at": null,
@@ -895,6 +875,26 @@
       "duration_ms": 154666,
       "name": "Trench Baby (with G Herbo)",
       "url": "https://open.spotify.com/track/5NPWbfa9RPLC5UabrvxnrM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I NEVER GAVE AF",
+        "url": "https://open.spotify.com/album/5U0od07DPyVqElA9cbO364"
+      },
+      "artists": [
+        {
+          "name": "Raq baby",
+          "url": "https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Feel Bad (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/3vopZj6osuP21LtAmCUTJs"
     },
     {
       "added_at": null,
@@ -951,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Cause Y'all Waited 2",
-        "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 174266,
-      "name": "Chiraq Demons (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/3dqsY4TIr0KHJGDgzhGm2t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost Pages",
         "url": "https://open.spotify.com/album/2dtaX61cm2HUJlOn5MSsMs"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 206643,
       "name": "Mine (feat. G Herbo)",
       "url": "https://open.spotify.com/track/5sPGxuVfQkJSCpc8extKFB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Cause Y'all Waited 2",
+        "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 174266,
+      "name": "Chiraq Demons (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/3dqsY4TIr0KHJGDgzhGm2t"
     },
     {
       "added_at": null,

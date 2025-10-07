@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOBjgAAAAADcr3/HkT+7HiBjlzNlurJF",
+  "snapshot_id": "aOG1AAAAAAA8sRSvzPcQRY33OjgSKcL+",
   "tracks": [
     {
       "added_at": null,
@@ -859,8 +859,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coma",
-        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
+        "name": "Legacy of Hits",
+        "url": "https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL"
       },
       "artists": [
         {
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 183289,
-      "name": "Downgrade",
-      "url": "https://open.spotify.com/track/3BhhN8DG3MkqJZWx7FWKtB"
+      "duration_ms": 158638,
+      "name": "15 Shots",
+      "url": "https://open.spotify.com/track/53I7AM0JdcKspFjo29tHyW"
     },
     {
       "added_at": null,
@@ -891,28 +891,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Sayin' (feat. Rich Homie Quan)",
-        "url": "https://open.spotify.com/album/4kiBGPnmexgABakZacTOMp"
-      },
-      "artists": [
-        {
-          "name": "Omarion",
-          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "I'm Sayin' (feat. Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/1GPWHf45DwSziB91p9Phbm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rich As In Spirit",
-        "url": "https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7"
+        "name": "Coma",
+        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
       },
       "artists": [
         {
@@ -920,9 +900,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 214947,
-      "name": "Perfect Flower",
-      "url": "https://open.spotify.com/track/0k2zadj0ibcTAPXcGg6t7a"
+      "duration_ms": 183289,
+      "name": "Downgrade",
+      "url": "https://open.spotify.com/track/3BhhN8DG3MkqJZWx7FWKtB"
     },
     {
       "added_at": null,
@@ -939,6 +919,26 @@
       "duration_ms": 169880,
       "name": "Song Cry",
       "url": "https://open.spotify.com/track/0OAKpmhof8rDnV9j91XxUl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Sayin' (feat. Rich Homie Quan)",
+        "url": "https://open.spotify.com/album/4kiBGPnmexgABakZacTOMp"
+      },
+      "artists": [
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "I'm Sayin' (feat. Rich Homie Quan)",
+      "url": "https://open.spotify.com/track/1GPWHf45DwSziB91p9Phbm"
     }
   ],
   "unique_name": "This Is Rich Homie Quan",

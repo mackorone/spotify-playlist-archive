@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Dhinesh Nagarajan
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,201 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,207 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 | 5 | [YEDA YUNG \(Tamil Remix\)](https://open.spotify.com/track/3jlfA88tVVL8TOe6AvV0oH) | [Kelithee](https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg), [YUNG DSA](https://open.spotify.com/artist/5e8gOu2fk8b1txcXWlX1Pl), [Year Down](https://open.spotify.com/artist/4vIfkn8fo2rtRIBJi9fdku) | [YEDA YUNG \(Tamil Remix\)](https://open.spotify.com/album/5wK6HCJIMzV2gtOTkaAnYO) | 1:45 |
 | 6 | [Kimchi Dosa](https://open.spotify.com/track/10CGE3JHF9XMDaicnLD46D) | [Dharan Kumar](https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF), [AOORA](https://open.spotify.com/artist/7dmIgQslc6AmX193BneAsy), [sachu Madrasi](https://open.spotify.com/artist/5cTDZIXnv13h05pY6zTQjN) | [Kimchi Dosa](https://open.spotify.com/album/2nLirBUQhM557pbuMgbnCP) | 4:02 |
 | 7 | [Sigma Paiyan \- From "Think Indie"](https://open.spotify.com/track/6XKlfesXLwVbzumSS7XN4o) | [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Sigma Paiyan \(From "Think Indie"\)](https://open.spotify.com/album/4sTHhxgBEZifnSNjbmkyg6) | 2:29 |
-| 8 | [Aayiram](https://open.spotify.com/track/0C082Q1AZAUGfYzGHrlk0Y) | [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a), [BSP](https://open.spotify.com/artist/6iOuI0IPcd6hbU1AK6jI3A) | [Aayiram](https://open.spotify.com/album/3VQmk19UWS9xIQrCxfaybH) | 3:03 |
+| 8 | [Aayiram](https://open.spotify.com/track/0C082Q1AZAUGfYzGHrlk0Y) | [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Aayiram](https://open.spotify.com/album/3VQmk19UWS9xIQrCxfaybH) | 3:03 |
 | 9 | [222](https://open.spotify.com/track/2tXKNCfIsFni2KZlJ0eY0x) | [Stanley Xavier](https://open.spotify.com/artist/5eErWHlCjgBDcY9OYBecEj) | [222](https://open.spotify.com/album/2vd00S6qgxTeynCgtJlCJh) | 4:44 |
 | 10 | [Trippila](https://open.spotify.com/track/6klow9MClqTn35kDLKqCn3) | [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt), [BSP](https://open.spotify.com/artist/6iOuI0IPcd6hbU1AK6jI3A) | [Trippila](https://open.spotify.com/album/0GazuCuHE6SvoJwFa7ssBv) | 2:37 |
 | 11 | [Ulaa](https://open.spotify.com/track/1xmwh2Q8tPaj7qWCRwP0ej) | [The Non Violinist Project](https://open.spotify.com/artist/0yWjRJpQnQb3oANLj2QhKb), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [Ulaa](https://open.spotify.com/album/3TS2lHekqjnrUrwxoz3Cwy) | 4:25 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0XfQBWgzisaS9ltDV9bXAS">Honey Dijon</a>'s favorite tracks\. Updated regularly\. Curated by Honey Dijon\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-266 songs - 1 day 2 hr 22 min
+267 songs - 1 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Tenacity \- Main Vocal Edit](https://open.spotify.com/track/1BfsPI6rZJX2OEbvV2lvpN) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Bluey Robinson](https://open.spotify.com/artist/4JgCtSrKUJB4UT9MUoPSo6) | [Spaces and Places Album Sampler 2](https://open.spotify.com/album/0gBxMDsIAHDZjJpZDV7glr) | 4:25 | 2022-10-14 | 2023-06-07 |
 | [TENKAICHI](https://open.spotify.com/track/3RFwXX2ZU9QD8fivT6lIDE) | [OVEOUS](https://open.spotify.com/artist/5AnuYnFCVs0mK7rbcvIiBc) | [TENKAICHI](https://open.spotify.com/album/0ElhtbADLKbtcu7kdsKaPG) | 7:03 | 2022-10-14 | 2023-03-23 |
 | [Thank You Everyday](https://open.spotify.com/track/4mr5iHDb3prPqcAShSMvqJ) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [Infinity Within](https://open.spotify.com/album/7ryPClJuZ4NdEcuE9riU3z) | 6:22 | 2024-03-11 |  |
+| [The Nightlife](https://open.spotify.com/track/3yS2HZtVQyt81BvC8KnBEa) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [The Nightlife](https://open.spotify.com/album/7xsxQvOjSUDv7G3RvnA1rl) | 2:49 | 2025-10-06 |  |
 | [The Poem](https://open.spotify.com/track/5Z5EEo1RFb3lLkCMxz7vW9) | [Massive Sounds](https://open.spotify.com/artist/68TdHCXHDsvJGVFRTMPDAH), [Mutaburaka](https://open.spotify.com/artist/2abONxG1gZEYMhsweq9Ts9) | [A Lost Era in NYC 1987 \- 1992](https://open.spotify.com/album/0yyM3vkmFtkOkLKzz44qnC) | 8:24 | 2022-05-27 | 2024-03-12 |
 | [They Frontin' \(feat\. Monty Luke\) \[Mixed\]](https://open.spotify.com/track/207iG2HJPRuULIAEnv4zzi) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Monty Luke](https://open.spotify.com/artist/1ogIcJRkvbtkJqCIoRA0dH) | [Darkbeat 10th Anniversary Collection \(Mixed by Anthony Pappa, Rollin Connection & Phil K\)](https://open.spotify.com/album/3TXLKyyY0sptt8LlXyL03P) | 3:26 | 2023-08-22 | 2023-11-25 |
 | [Time Tunnel](https://open.spotify.com/track/2iu3nu0aBkzZsCqCZJU3Eu) | [Brassica](https://open.spotify.com/artist/2n2Ah4eslXpgZNFQPM1STG) | [Time Tunnel](https://open.spotify.com/album/1D6C7pSPvhW9BbKDk2ZwLa) | 7:58 | 2023-08-22 | 2024-03-12 |

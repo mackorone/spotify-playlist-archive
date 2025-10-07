@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Franni Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,148 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,182 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 15 | [No Greater Love](https://open.spotify.com/track/4ARfwrL2OHsmBBBg0AVqag) | [John Van Deusen](https://open.spotify.com/artist/6DLId1szBt6BlrTp5NELXK) | [As Long As I Am In The Tent of This Body I Will Make A Joyful Noise Pt\. 1](https://open.spotify.com/album/6rdN8JNF1tCmEMr1o5KS16) | 3:28 |
 | 16 | [It Is Well](https://open.spotify.com/track/237DdGVbH6tq0L3HGnFjbx) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A), [Kings Kaleidoscope Hymns](https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7) | [It Is Well](https://open.spotify.com/album/1NJbyEjXlMh6tS3sUDvU5W) | 3:59 |
 | 17 | [Hurricane](https://open.spotify.com/track/7qCGZcGe3LOd4Ibhnszaqc) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Hurricane](https://open.spotify.com/album/6yOkGkTi5VWA76DLUI7u7e) | 3:09 |
-| 18 | [Brighter Days](https://open.spotify.com/track/1DKD7Nz9XQxzrb0D8t3W65) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Cascade View \- EP](https://open.spotify.com/album/6wHNXMTHl6NaymmeHhJUr8) | 2:44 |
+| 18 | [Brighter Days](https://open.spotify.com/track/1DKD7Nz9XQxzrb0D8t3W65) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Cascade View](https://open.spotify.com/album/6wHNXMTHl6NaymmeHhJUr8) | 2:44 |
 | 19 | [Seek Your Face](https://open.spotify.com/track/7zklUez8gfOdWtlro9qMHC) | [Heather Suzanne](https://open.spotify.com/artist/0KGGZqBsiH7iJ5DdGLV8KO) | [Seek Your Face](https://open.spotify.com/album/0mZPFuyDAocJTj3pADq8O5) | 3:42 |
 | 20 | [This House Won't Fall](https://open.spotify.com/track/6fbYulNGu7RFiDshBFF7ra) | [Emerson Day](https://open.spotify.com/artist/2rGlpKlL9sbKTES9sPsLuJ) | [This House Won't Fall](https://open.spotify.com/album/1857SKT72mgSk8rLkj8BHj) | 3:27 |
 | 21 | [Jesus Won't](https://open.spotify.com/track/6LEXx1ywDfEtiaxMVeTxQw) | [Band Reeves](https://open.spotify.com/artist/2KuImPwSXezVrIEtpeRVmk) | [Jesus Won't](https://open.spotify.com/album/6CHL0QyijtGwgLnUC216Lp) | 3:08 |

@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-285 songs - 13 hr 46 min
+287 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Floating](https://open.spotify.com/track/7BXp68Ti7SWwdiLUT0bpuY) | [Monduen](https://open.spotify.com/artist/7ufKbXQTJ2WVnEbsbTo5iJ) | [Floating](https://open.spotify.com/album/0jJsEHkuBGqa3lgF41rVtT) | 2:55 | 2025-07-09 |  |
 | [Floating senses](https://open.spotify.com/track/3QeAlxO6Q3mRAdM56l0C2Q) | [Chakrasapiens](https://open.spotify.com/artist/0ifeddor0BLT2TaPLlzhjg) | [Floating senses](https://open.spotify.com/album/10eWaFvXO1b1uWhqMbctJR) | 2:35 | 2023-04-28 | 2025-05-22 |
 | [Floral Symmetry](https://open.spotify.com/track/4R6lRKk1vaYGlmKJUUIkov) | [Anna Nueva](https://open.spotify.com/artist/40EzXxZKfeMHctd8T22mlh) | [Floral Symmetry](https://open.spotify.com/album/3ajT7odbtLIXFpF6GOrjRU) | 2:22 | 2024-09-04 | 2024-10-13 |
+| [Floresta Calma](https://open.spotify.com/track/3joKN6kIZ8Xie8Ofsen96L) | [Fernando Alegre](https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn) | [Floresta Calma](https://open.spotify.com/album/5lfpAeQQ9wPY9pAQv7qk23) | 2:57 | 2025-10-02 |  |
 | [Flow of Silence](https://open.spotify.com/track/63GiDJoqHGpoqKb9PNMLGG) | [Lake Nebula](https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU) | [Flow of Silence](https://open.spotify.com/album/3yEsmW9wEHlnr0MVywqkPj) | 2:50 | 2025-07-22 |  |
 | [Flowing Calm](https://open.spotify.com/track/3FDcmnPJY1V39k54Fy6FxN) | [Joseph Rain](https://open.spotify.com/artist/1YHhB4lSX141uoyd58WoUc) | [Flowing Calm](https://open.spotify.com/album/4JoqWgNsmJ4NUE13A4FDKS) | 2:28 | 2023-08-25 |  |
 | [Flowing Light](https://open.spotify.com/track/5KxRRZxsMDdm6cLnNDxEe8) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Flowing Light](https://open.spotify.com/album/5jlECX6pdRu4JoT5Pt5ceB) | 2:55 | 2025-09-10 |  |
@@ -129,7 +130,8 @@
 | [Hydration](https://open.spotify.com/track/6euwKpkQB92wk3DluAidnQ) | [Divine Isle](https://open.spotify.com/artist/2lbyzOWzrHi2r8yMUnuglT) | [Hydration](https://open.spotify.com/album/2Zonfdg72FB9zs6GJvA77C) | 3:12 | 2025-05-06 |  |
 | [I Can See You At The Bottom Of Every River](https://open.spotify.com/track/7mNB5wjFqN2ERnNeDe1YPg) | [Le Code](https://open.spotify.com/artist/5w7nuCjDmpoz2mcdM8RsOQ) | [Into The Wild](https://open.spotify.com/album/2hxfoyhB0m567fTylRTAw3) | 4:02 | 2023-04-28 | 2023-06-17 |
 | [Imitating Reflections](https://open.spotify.com/track/0SETmmxlQchBbRxvJpZTp3) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Imitating Reflections](https://open.spotify.com/album/7LmA2P6Of7fTlkqHdv9ex1) | 2:23 | 2023-04-28 | 2025-05-22 |
-| [Incandescent](https://open.spotify.com/track/4kv0JwNazt1KbOw9Vggcbd) | [Monduen](https://open.spotify.com/artist/7ufKbXQTJ2WVnEbsbTo5iJ) | [Incandescent](https://open.spotify.com/album/39SH7vxnTRlGsXiEdjEfUg) | 2:28 | 2025-10-02 |  |
+| [Incandescent](https://open.spotify.com/track/4kv0JwNazt1KbOw9Vggcbd) | [Monduen](https://open.spotify.com/artist/7ufKbXQTJ2WVnEbsbTo5iJ) | [Incandescent](https://open.spotify.com/album/39SH7vxnTRlGsXiEdjEfUg) | 2:28 | 2025-10-02 | 2025-10-07 |
+| [Inclusive](https://open.spotify.com/track/26atiN5wmCGO9Rbcx5lSwj) | [Spacetiming](https://open.spotify.com/artist/5eFO9GqXr6CFXygAtUlxGa) | [Inclusive](https://open.spotify.com/album/6bPTArHqDlHoxzO5ELIE0g) | 2:35 | 2025-10-02 |  |
 | [Infinite Potential](https://open.spotify.com/track/66w2QkVBFwKcZm4DvN3FLv) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Infinite Potential](https://open.spotify.com/album/5GL2UD3ZEqT1AaTx5Bbsl9) | 2:17 | 2024-06-03 |  |
 | [Inside the Heart](https://open.spotify.com/track/57zWmPhfZleSqpv59pzraX) | [Büdi Siebert](https://open.spotify.com/artist/6Wiy9Dr9ZTdgfoVoXwZ0da) | [Wave Hands Like Clouds](https://open.spotify.com/album/4nf94iBRiWVGlOqMZgip9S) | 4:47 | 2024-02-15 | 2024-04-02 |
 | [Introspective Thoughts Gamma \(88\-176hz\)](https://open.spotify.com/track/4Kd0E840XEJnAPxl1tktZY) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Introspective Thoughts Gamma](https://open.spotify.com/album/6cEWrmi0Zw37PcVVRaOtS3) | 2:48 | 2024-07-19 |  |
@@ -272,7 +274,7 @@
 | [Up Above](https://open.spotify.com/track/3OIg6QE59Pye3cK1oRCp54) | [Amosento](https://open.spotify.com/artist/1TA2SmsBfupnHplKJkEajW) | [You are a miracle](https://open.spotify.com/album/0eZSO9dRfHPub2fkBev7nE) | 3:43 | 2023-04-28 | 2025-02-18 |
 | [Vedana](https://open.spotify.com/track/4Bz2Y5mv3GEtxrlHQzheMB) | [Kamamatsu](https://open.spotify.com/artist/2MXArrDWK0b0kaxFz4OtCQ) | [Vedana](https://open.spotify.com/album/35JiT2cKAXYsielBXaC5Cz) | 2:23 | 2023-04-28 | 2023-07-29 |
 | [Veilwood](https://open.spotify.com/track/7fhsIOV0wfMkkR3s5cs8qS) | [Elysian Woods](https://open.spotify.com/artist/2a9nGgopYoBxxQMwXO7bvi) | [Veilwood](https://open.spotify.com/album/7B7tdmFyDvO6iwzvrKsKuO) | 2:33 | 2025-09-10 |  |
-| [Velvet Daybreak](https://open.spotify.com/track/64wJtggmXCk8lsUDAA2E2n) | [Stapleton Grass](https://open.spotify.com/artist/50QpGqvE5PlmXrcJBSM9sM) | [Velvet Daybreak](https://open.spotify.com/album/3so557kpftvDDStYLHz8cI) | 2:21 | 2025-10-02 |  |
+| [Velvet Daybreak](https://open.spotify.com/track/64wJtggmXCk8lsUDAA2E2n) | [Stapleton Grass](https://open.spotify.com/artist/50QpGqvE5PlmXrcJBSM9sM) | [Velvet Daybreak](https://open.spotify.com/album/3so557kpftvDDStYLHz8cI) | 2:21 | 2025-10-02 | 2025-10-07 |
 | [Verdancy](https://open.spotify.com/track/3mBcz9IUFbbZOWPBRcqSVQ) | [Harmonic Pathways](https://open.spotify.com/artist/50w3lD1tVFon2IBD8jRBOO), [Nature on Record](https://open.spotify.com/artist/4XC4r2EEPyi9Ox0ZinPaIV) | [Emergence](https://open.spotify.com/album/5npmxbN4pCm1CHhjxHmFuf) | 2:37 | 2023-04-28 | 2025-10-03 |
 | [Verdure](https://open.spotify.com/track/7iEfhRXZpaI1w7zkj9Np5U) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Verdure](https://open.spotify.com/album/4BNcZNVXeCRvxdIEdykxOi) | 2:45 | 2023-04-28 | 2025-05-22 |
 | [Vibo Nuovo](https://open.spotify.com/track/5MP7fS5PCPoQhQdggjW3md) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Vibo Nuovo](https://open.spotify.com/album/2rCtZcfFt7svYlB7xuAn5i) | 3:34 | 2024-02-15 | 2024-04-02 |

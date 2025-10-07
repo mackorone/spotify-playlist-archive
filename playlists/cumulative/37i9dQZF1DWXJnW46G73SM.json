@@ -189,6 +189,36 @@
     },
     {
       "album": {
+        "name": "3ALA BAB EL CIMA",
+        "url": "https://open.spotify.com/album/1lIZxwTXQxVLIvPyDwmTWf"
+      },
+      "artists": [
+        {
+          "name": "Nasser",
+          "url": "https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO"
+        },
+        {
+          "name": "Karim Osman",
+          "url": "https://open.spotify.com/artist/6ZeP5tvlTQ0RjQfowlad3j"
+        },
+        {
+          "name": "Big Moe",
+          "url": "https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn"
+        },
+        {
+          "name": "Bashmohannad",
+          "url": "https://open.spotify.com/artist/4GLe8RzslZ4xgt3Jl2Tz1m"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207096,
+      "name": "3ALA BAB EL CIMA",
+      "url": "https://open.spotify.com/track/3U5uSudlSamkLBK8ZQKZ50"
+    },
+    {
+      "album": {
         "name": "3Ala Bali",
         "url": "https://open.spotify.com/album/1UQtTEV4iTDXaHSNK71vsE"
       },
@@ -684,7 +714,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 210000,
       "name": "7ob Eh Ya 7asra",
       "url": "https://open.spotify.com/track/4DdUQ7EhcpfbuH3rE467QN"
@@ -16583,6 +16613,24 @@
     },
     {
       "album": {
+        "name": "Tegy Nerga3",
+        "url": "https://open.spotify.com/album/0Sx2vDZlF1h3HTiBAqqSQy"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Saeed",
+          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191947,
+      "name": "Tegy Nerga3",
+      "url": "https://open.spotify.com/track/78bAVc3M4sqnRTKVRWzZz2"
+    },
+    {
+      "album": {
         "name": "Tegy Netsawar",
         "url": "https://open.spotify.com/album/6AofYZuIof0MWN6RNBrnS4"
       },
@@ -28856,7 +28904,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 206837,
       "name": "\u0648\u062d\u0634\u062a\u064a\u0646\u064a",
       "url": "https://open.spotify.com/track/6XoWTnKXpjQL3I1Qwp3nc2"

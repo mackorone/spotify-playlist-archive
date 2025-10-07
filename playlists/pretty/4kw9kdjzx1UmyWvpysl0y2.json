@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124915,
+  "num_followers": 124911,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUpYkBTbybT9/gRYk85NpCAX7Is3Rg",
+  "snapshot_id": "AAAUp9p0XEgcpAKqqApuTV2wYU9kTy5p",
   "tracks": [
+    {
+      "added_at": "2025-10-06 14:12:46",
+      "album": {
+        "name": "UNDERTALE (10-Year Anniversary Remixes)",
+        "url": "https://open.spotify.com/album/6wfuhGODjpM5ru47Z7ks60"
+      },
+      "artists": [
+        {
+          "name": "Toby Fox",
+          "url": "https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau"
+        },
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        }
+      ],
+      "duration_ms": 170625,
+      "name": "MEGALOVANIA - Pegboard Nerds Remix",
+      "url": "https://open.spotify.com/track/5DuvEUkgu16gnEC08xfKSW"
+    },
     {
       "added_at": "2025-10-03 14:02:32",
       "album": {
@@ -1119,98 +1139,6 @@
       "duration_ms": 155000,
       "name": "collide",
       "url": "https://open.spotify.com/track/4ZiRO3AgPASOA3t5Jad3oJ"
-    },
-    {
-      "added_at": "2025-07-15 14:41:07",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/1sei2WhOugKDlw77NEP7Bp"
-      },
-      "artists": [
-        {
-          "name": "ORACLE",
-          "url": "https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/29lzIVp4Q0x9iG7nJKatHC"
-    },
-    {
-      "added_at": "2025-07-14 14:46:20",
-      "album": {
-        "name": "What U Got",
-        "url": "https://open.spotify.com/album/3pT7yoj0eMAguauZW5dOk2"
-      },
-      "artists": [
-        {
-          "name": "Virtual Riot",
-          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
-        },
-        {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
-        }
-      ],
-      "duration_ms": 168053,
-      "name": "What U Got",
-      "url": "https://open.spotify.com/track/2zJEJNYyI45ekNQbJQ2oTf"
-    },
-    {
-      "added_at": "2025-07-11 15:08:21",
-      "album": {
-        "name": "Switch On Em",
-        "url": "https://open.spotify.com/album/4rL8IlLaGiexJNReOAGWWb"
-      },
-      "artists": [
-        {
-          "name": "UZ",
-          "url": "https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Switch On Em",
-      "url": "https://open.spotify.com/track/4ZPU9Q0rSQLO4NZ3Wl6ivr"
-    },
-    {
-      "added_at": "2025-07-10 17:35:23",
-      "album": {
-        "name": "Crashout",
-        "url": "https://open.spotify.com/album/6WMccOsTUBD5MjR5GOBLu6"
-      },
-      "artists": [
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        }
-      ],
-      "duration_ms": 197812,
-      "name": "Crashout",
-      "url": "https://open.spotify.com/track/1H3PyvVjT4NmwJMgzI3jbr"
-    },
-    {
-      "added_at": "2025-07-09 16:36:35",
-      "album": {
-        "name": "Elevator",
-        "url": "https://open.spotify.com/album/4vuIWVByX0E9DxBFeaDK4u"
-      },
-      "artists": [
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 192888,
-      "name": "Elevator",
-      "url": "https://open.spotify.com/track/5x8NTBPvrCybwOXQFT7qIu"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

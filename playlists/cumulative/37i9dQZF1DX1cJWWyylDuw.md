@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Fit For An Autopsy
 
-729 songs - 1 day 22 hr 49 min
+731 songs - 1 day 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Calcium Closet](https://open.spotify.com/track/1bygSIvHzKkDtfYLVNSiGd) | [LARCɆNIA ROɆ](https://open.spotify.com/artist/7I4UbCV9XZSHR24cyJcUy4), [Alex Koehler](https://open.spotify.com/artist/0gmlkmHNfDhknERbozS3cI) | [Extraction](https://open.spotify.com/album/2UYMVHDDn7kwm8YQy40ndu) | 4:24 | 2025-05-16 |  |
 | [Carcinogenesis](https://open.spotify.com/track/58My0D2eOrppNfx6mzs4MO) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Carcinogenesis](https://open.spotify.com/album/4KVAMyq8wkY6AnnFpcRuKc) | 5:49 | 2024-08-23 | 2025-03-15 |
 | [Carnage in Despair](https://open.spotify.com/track/6ZrHf3qvDCMPaDR83ojn24) | [Gutrectomy](https://open.spotify.com/artist/0GAUayKtM7XULaNosOHwaD), [Kyle Medina](https://open.spotify.com/artist/4gcF5DdDf5H5rdkHvnvRRO) | [Carnage in Despair](https://open.spotify.com/album/3G9IUcjFx2KaodHmkOAVqO) | 3:04 | 2025-03-14 | 2025-06-08 |
+| [CASKET CADAVER](https://open.spotify.com/track/0B9D4xAL1tTEAswooJsnar) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [CASKET CADAVER](https://open.spotify.com/album/2QMERVC9I7Iqb8OoreQhmB) | 2:11 | 2025-10-03 |  |
 | [Casket of Rust](https://open.spotify.com/track/3p63Cu4a1ViOqDU7T8feBD) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Casket of Rust](https://open.spotify.com/album/5SfiHBsWzaeSCPNKepKKAw) | 7:04 | 2024-01-30 | 2024-02-05 |
 | [Casket of Rust](https://open.spotify.com/track/6Ih7n4B7GWNw6TSkcDOTCP) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Death: An Anthology](https://open.spotify.com/album/2JBNKkdKgCZ9mW2IZOuOHd) | 7:04 | 2024-01-30 | 2024-04-19 |
 | [Casket of Rust](https://open.spotify.com/track/79uDCcS7UnIVSpGKDJcmh1) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Casket of Rust](https://open.spotify.com/album/2V1soNndfJC7B8i1vOT3yy) | 7:04 | 2024-08-23 | 2025-03-15 |
@@ -193,7 +194,7 @@
 | [DEPTHS](https://open.spotify.com/track/77LUHqjZUv9vNLuqcyF2ZL) | [SUICIDE MESSIAH](https://open.spotify.com/artist/43d9cIWGbJrzetNX3zi4JO), [ENEMY 906](https://open.spotify.com/artist/7KxQQIZ8rQ6jOM6FcimDp0), [Blegh! Label](https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl) | [DEPTHS](https://open.spotify.com/album/4Ci4DonjInElqisA3x30q3) | 3:16 | 2025-08-15 |  |
 | [Desensitised](https://open.spotify.com/track/2NyaVGt3OWO3PbBiiYIznZ) | [Carbine](https://open.spotify.com/artist/2cuY8G1GO57896caxClTIj) | [Desensitised](https://open.spotify.com/album/3SWIjXdp9UvrQvzlrlh1eL) | 3:21 | 2021-12-17 | 2022-07-27 |
 | [Desolate Specter](https://open.spotify.com/track/6UYTzsBQfVCLa5F1WdCJfX) | [Termina](https://open.spotify.com/artist/5so7YSsRh7TGtWfkRZ2fbo) | [Desolate Specter](https://open.spotify.com/album/73vvbakKYjHpokxsROMeKf) | 3:12 | 2021-12-17 | 2024-06-26 |
-| [Destroyer of Worlds](https://open.spotify.com/track/1mLq1if1kfmyS9pkm7AJTW) | [Heaven Is A Lie](https://open.spotify.com/artist/00TMUdRnoUHuJLcHgU1hkQ) | [Destroyer of Worlds](https://open.spotify.com/album/0b9xzeBQTf14vtjBpsIoTe) | 4:49 | 2025-08-15 |  |
+| [Destroyer of Worlds](https://open.spotify.com/track/1mLq1if1kfmyS9pkm7AJTW) | [Heaven Is A Lie](https://open.spotify.com/artist/00TMUdRnoUHuJLcHgU1hkQ) | [Destroyer of Worlds](https://open.spotify.com/album/0b9xzeBQTf14vtjBpsIoTe) | 4:49 | 2025-08-15 | 2025-10-07 |
 | [Destructo](https://open.spotify.com/track/72dlRtRULviBnoxATyLBjW) | [Hunt the Dinosaur](https://open.spotify.com/artist/0Soz973Ih3ocID7FOktNpv) | [Dankosaurus](https://open.spotify.com/album/0KrXmQksBQFMy68bbi67Je) | 3:21 | 2021-12-17 |  |
 | [Dethroned](https://open.spotify.com/track/6MlZKFmiN5JJy4ZX29z6ag) | [My Own Will](https://open.spotify.com/artist/3WOSLWmOvviDX3fiuHLTK6) | [Dethroned](https://open.spotify.com/album/1EBLYvAUe0ICIzXGtO9Lpw) | 2:59 | 2022-01-21 | 2022-07-24 |
 | [Devil In Me](https://open.spotify.com/track/7m7SLo5HUI0DyDXzMh8wNv) | [Within The Ruins](https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y) | [Black Heart](https://open.spotify.com/album/78J2WyAF3Updccv9cQEcnc) | 3:33 | 2021-12-17 | 2023-08-03 |
@@ -605,6 +606,7 @@
 | [Sun//Eater](https://open.spotify.com/track/1QeQ1bq6jitMzdgNu8nK1L) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Sun//Eater](https://open.spotify.com/album/2lJtDqPcOAXkNLgh18YTFB) | 6:10 | 2022-05-13 | 2022-06-24 |
 | [Sungazer](https://open.spotify.com/track/0egKxL1kN2yev9AVKMFkTj) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Sungazer](https://open.spotify.com/album/69ccl1EvGtY99liaJBlzDT) | 4:33 | 2022-04-15 | 2025-04-26 |
 | [Survival](https://open.spotify.com/track/5cV5z3OWpzyvLmpZQiJhuA) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [Survival](https://open.spotify.com/album/1yQX87mmZgUC1CH8R7EbLr) | 3:19 | 2022-06-17 | 2025-10-03 |
+| [Sworn To Repay](https://open.spotify.com/track/7eotZ4yZxAh6ktFjowQnXA) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [Sworn To Repay](https://open.spotify.com/album/74ZJH8kdxayr72jwpcAluo) | 2:44 | 2025-10-03 |  |
 | [Synaptic Depravation](https://open.spotify.com/track/0qYSwywyNslSTuCUrBInwg) | [The Zenith Passage](https://open.spotify.com/artist/55ISuKXdlefU2R5hV3GWnf) | [Synaptic Depravation](https://open.spotify.com/album/6cbulNIl1MwMkCEcwaQu4R) | 6:09 | 2022-04-01 | 2022-07-24 |
 | [Synthetic Smile](https://open.spotify.com/track/6QrALflBXHCdDUPOgNViCe) | [Bite Down](https://open.spotify.com/artist/0v6hSqiiT4b6n0sEVQY41l) | [Synthetic Smile](https://open.spotify.com/album/1GTLz7qK0mKXXFLhKcNa2Y) | 3:02 | 2022-03-11 | 2025-03-15 |
 | [Take Me To Hell](https://open.spotify.com/track/0nEiGzZ4KvcrAkibCNeFKF) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Take Me To Hell](https://open.spotify.com/album/2dK4X6T1BIPHzwaiUBkXGJ) | 3:30 | 2021-12-17 | 2025-03-15 |
@@ -732,7 +734,7 @@
 | [Wounds Never Healed](https://open.spotify.com/track/05xztNser5Tg4Ba2kkngy2) | [Oceano](https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s) | [Wounds Never Healed](https://open.spotify.com/album/7jlhQ4iWfpSwF4zho7eTo4) | 4:22 | 2024-06-25 | 2025-09-27 |
 | [Wrath of the Lamb](https://open.spotify.com/track/6n6x37r1ftyMpDRSyQ3Dbx) | [Lost Creation](https://open.spotify.com/artist/6l1pQbLXFRayZ8dHpLLBYI) | [Tales of Hatred](https://open.spotify.com/album/4NWoQ2kk1Bn9GrXkuYEyfo) | 5:25 | 2021-12-17 | 2022-04-08 |
 | [You Can't Kill Us](https://open.spotify.com/track/1GIorOlAwn81ZF5gRpThU1) | [Stillbirth](https://open.spotify.com/artist/3zBRwsfsphAy6eNvh2bPiG) | [You Can't Kill Us](https://open.spotify.com/album/4pZhwCEP2dLJmFhy8TlB3c) | 3:37 | 2022-01-14 | 2022-07-26 |
-| [YOU LIE](https://open.spotify.com/track/1uilIRPZmJakhcauDdH3XW) | [GAI 荄](https://open.spotify.com/artist/4UxSNn8D7I6mwc4ugD0Org) | [YOU LIE](https://open.spotify.com/album/5NhYVf3UFIXc0YQxIo5xG3) | 1:53 | 2025-05-16 |  |
+| [YOU LIE](https://open.spotify.com/track/1uilIRPZmJakhcauDdH3XW) | [GAI 荄](https://open.spotify.com/artist/4UxSNn8D7I6mwc4ugD0Org) | [YOU LIE](https://open.spotify.com/album/5NhYVf3UFIXc0YQxIo5xG3) | 1:53 | 2025-05-16 | 2025-10-07 |
 | [You Must Die](https://open.spotify.com/track/62FvxmmrGxBBEBI6yBkI0E) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [You Must Die](https://open.spotify.com/album/5caFwAXPLpgbK5DtDnHBTj) | 2:42 | 2022-12-16 | 2023-04-29 |
 | [You Must Die](https://open.spotify.com/track/68gyFtYJzoe6rI7elhTNpc) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Remember..\. You Must Die](https://open.spotify.com/album/3mwVBK8eS1JkOoCs2fYiAr) | 2:42 | 2023-04-28 | 2023-08-17 |
 | [Zerotonin 2](https://open.spotify.com/track/2ZsLiGgkF2Kedip9JMNigf) | [Darknet](https://open.spotify.com/artist/4q0wfu3kKAydX7PSA4H502) | [Self\-Titled](https://open.spotify.com/album/7qyhP5CSj4KpC87XnHO92f) | 3:17 | 2021-12-17 | 2022-02-09 |

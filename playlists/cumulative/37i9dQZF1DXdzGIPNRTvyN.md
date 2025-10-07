@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-362 songs - 17 hr 6 min
+363 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Ballerina](https://open.spotify.com/track/2rvd4QBrSRXmgzvbzBz1k7) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 1:47 | 2023-01-24 | 2024-07-17 |
 | [Bed of Clouds \(by a Babbling Brook\)](https://open.spotify.com/track/5G9TdCSs9GPwGSrwGjfIPo) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [River Peace](https://open.spotify.com/album/78qKa5xSG1kJaoi5nSo2NZ) | 2:44 | 2024-03-05 |  |
 | [Bel Flusso](https://open.spotify.com/track/5G9elfgCYkKL5fPCfKP6eD) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Bel Flusso](https://open.spotify.com/album/2E43nIu2dU5K0oEkgJJwo2) | 3:38 | 2023-05-19 |  |
-| [Blooming Flowers](https://open.spotify.com/track/713dLHQqGsLpHRxOyZfQsS) | [Ari Einarsson](https://open.spotify.com/artist/4phG0P0DDFhm0ZORDBMaSk) | [Blooming Flowers](https://open.spotify.com/album/041bD9COQS0TGAsZCNFUJg) | 2:55 | 2025-10-01 |  |
+| [Blooming Flowers](https://open.spotify.com/track/713dLHQqGsLpHRxOyZfQsS) | [Ari Einarsson](https://open.spotify.com/artist/4phG0P0DDFhm0ZORDBMaSk) | [Blooming Flowers](https://open.spotify.com/album/041bD9COQS0TGAsZCNFUJg) | 2:55 | 2025-10-01 | 2025-10-07 |
 | [Blue Shadows](https://open.spotify.com/track/1S5UW31xDfoNW3Tc7rNyKp) | [Maira](https://open.spotify.com/artist/6x0Xdy7LgcYtyIWBG7CA04) | [Blue Shadows](https://open.spotify.com/album/1Iy98GEoDPSUJHx6iIKh5E) | 2:52 | 2025-03-14 |  |
 | [Bonvoya](https://open.spotify.com/track/312nTGasaGeNatMGWsjc56) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Bonvoya](https://open.spotify.com/album/0WzgkSpotQa1C2cDhrJDu1) | 2:37 | 2024-10-03 |  |
 | [Botanical Creek](https://open.spotify.com/track/0yprfzL1FDEhQ2q0ez80o4) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Botanical Creek](https://open.spotify.com/album/1WVPOp90EnS4O7jVvHxatZ) | 2:54 | 2024-11-11 |  |
@@ -331,6 +331,7 @@
 | [Sunrise](https://open.spotify.com/track/08x0lo9qXTPOHpmJXOIUGV) | [Constant Future](https://open.spotify.com/artist/0MhUXfJGaHfNudsEeha6iA) | [Sunrise](https://open.spotify.com/album/32ag8xH70wLTbKDS6Rcq7Q) | 3:11 | 2024-12-04 |  |
 | [Swells of Peace](https://open.spotify.com/track/2dIc6DpyULpWApOIcfrJ9R) | [Beyond Observable](https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq) | [Swells of Peace](https://open.spotify.com/album/0JdcL1uvu23PI3A0pdYEPF) | 2:23 | 2024-01-30 | 2025-07-02 |
 | [Take A Breath](https://open.spotify.com/track/5mBJ1WB5syIHpn9LAh53hl) | [Moderato Aredo](https://open.spotify.com/artist/74G3pWoGCFymwyQUPn8rsj) | [Take A Breath](https://open.spotify.com/album/2AjcwMmxfCdh0siTZOOdJw) | 2:21 | 2023-09-05 |  |
+| [Taledra](https://open.spotify.com/track/4p63wTrHhA2L5ik5hSMx3M) | [Lux Alba](https://open.spotify.com/artist/18NVPzP15IyNqKnkShIdVz) | [Taledra](https://open.spotify.com/album/0bYVlFv5nKN4cIYgfFMvdt) | 2:41 | 2025-10-01 |  |
 | [Tall Signs](https://open.spotify.com/track/1sfIqjgvXMyek71Oq86kD7) | [Faux Moon](https://open.spotify.com/artist/6nDHxcxzE1HEYG9PYmuVQW) | [Tall Signs](https://open.spotify.com/album/6cxw4V46E77PerOomIH8oP) | 2:38 | 2025-09-18 |  |
 | [Tamber](https://open.spotify.com/track/48d93hJAYO1AXulXARqTYO) | [Hulu Otto](https://open.spotify.com/artist/0b2hSNgC94dVrDmvJBqd84) | [Tamber](https://open.spotify.com/album/6Q582niAm4psDFt9W8Lqyo) | 3:04 | 2024-12-12 |  |
 | [Tantra](https://open.spotify.com/track/2yxNtcqRXXLPpUroUaKYAh) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Tantra](https://open.spotify.com/album/4hnPgFlqzJylzUSAVkqwE1) | 1:46 | 2023-02-13 |  |

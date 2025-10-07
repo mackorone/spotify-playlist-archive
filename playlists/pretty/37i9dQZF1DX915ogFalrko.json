@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 181062,
+  "num_followers": 181067,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,6 @@
     {
       "added_at": "2025-10-02 22:00:31",
       "album": {
-        "name": "A Matter of Time",
-        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Mr. Eclectic",
-      "url": "https://open.spotify.com/track/0gBlPhTZaqY06DHCL9V7W5"
-    },
-    {
-      "added_at": "2025-10-02 22:00:31",
-      "album": {
         "name": "Dancy Party",
         "url": "https://open.spotify.com/album/3hifRrzUOFSl3BJo2JUqBE"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 194160,
       "name": "Siesta Freestyle",
       "url": "https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z"
+    },
+    {
+      "added_at": "2025-10-02 22:00:31",
+      "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Mr. Eclectic",
+      "url": "https://open.spotify.com/track/0gBlPhTZaqY06DHCL9V7W5"
     },
     {
       "added_at": "2025-10-02 22:00:31",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-10-02 22:00:31",
       "album": {
-        "name": "Odyss\u00e9e - EP",
-        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 248892,
-      "name": "Agitations tropicales",
-      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
-    },
-    {
-      "added_at": "2025-10-02 22:00:31",
-      "album": {
         "name": "BUBBA",
         "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 183786,
       "name": "What You Need (feat. Charlotte Day Wilson)",
       "url": "https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA"
+    },
+    {
+      "added_at": "2025-10-02 22:00:31",
+      "album": {
+        "name": "Odyss\u00e9e - EP",
+        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 248892,
+      "name": "Agitations tropicales",
+      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
     },
     {
       "added_at": "2025-10-02 22:00:31",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-10-02 22:00:31",
       "album": {
-        "name": "Sunny",
-        "url": "https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/42AsgO0005lineLVc1aSOL"
-    },
-    {
-      "added_at": "2025-10-02 22:00:31",
-      "album": {
         "name": "There's Just Something About Her",
         "url": "https://open.spotify.com/album/7qfhRZlEHzCmdgoHnEJuar"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 192157,
       "name": "There's Just Something About Her",
       "url": "https://open.spotify.com/track/6XzSqyhtKa4uJT6O1ZjMe8"
+    },
+    {
+      "added_at": "2025-10-02 22:00:31",
+      "album": {
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/42AsgO0005lineLVc1aSOL"
     },
     {
       "added_at": "2025-10-02 22:00:31",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-10-02 22:00:31",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/6baBfgccJbY8W2r5dwOWDZ"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 197703,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3"
-    },
-    {
-      "added_at": "2025-10-02 22:00:31",
-      "album": {
         "name": "Forward",
         "url": "https://open.spotify.com/album/2UCpwkWg7BuHe2bHD0MTfC"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 212532,
       "name": "Save a Little Love for Me",
       "url": "https://open.spotify.com/track/6lqxlJWNaykLli5cIXMf7l"
+    },
+    {
+      "added_at": "2025-10-02 22:00:31",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6baBfgccJbY8W2r5dwOWDZ"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 197703,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3"
     },
     {
       "added_at": "2025-10-02 22:00:31",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-10-02 22:00:31",
       "album": {
-        "name": "Lucy",
-        "url": "https://open.spotify.com/album/2241CnrLPBaerawjf6vPFa"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 218151,
-      "name": "Lucy",
-      "url": "https://open.spotify.com/track/6O1vElqf77upV8az275UZs"
-    },
-    {
-      "added_at": "2025-10-02 22:00:31",
-      "album": {
         "name": "Sim",
         "url": "https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 235600,
       "name": "Boa Sorte / Good Luck (feat. Ben Harper)",
       "url": "https://open.spotify.com/track/1LR5KBD64oRzGEjQhAMNdj"
+    },
+    {
+      "added_at": "2025-10-02 22:00:31",
+      "album": {
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/2241CnrLPBaerawjf6vPFa"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 218151,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/6O1vElqf77upV8az275UZs"
     },
     {
       "added_at": "2025-10-02 22:00:31",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2025-10-02 22:00:31",
       "album": {
+        "name": "Isteri",
+        "url": "https://open.spotify.com/album/5J3L8ukBVqikwoSN9Mv5sk"
+      },
+      "artists": [
+        {
+          "name": "Ours Samplus",
+          "url": "https://open.spotify.com/artist/0XtVN1QaB7vYRpw4qEIRt0"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Spell on You",
+      "url": "https://open.spotify.com/track/5w2zI2TnxiP4DMcsA0P30M"
+    },
+    {
+      "added_at": "2025-10-02 22:00:31",
+      "album": {
         "name": "Celestial Strut",
         "url": "https://open.spotify.com/album/5UAtIWTEaVwzoZ4NZDtElM"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 349257,
       "name": "Found Your Love",
       "url": "https://open.spotify.com/track/2ohinF8keJDshzetGAK0GX"
-    },
-    {
-      "added_at": "2025-10-02 22:00:31",
-      "album": {
-        "name": "Isteri",
-        "url": "https://open.spotify.com/album/5J3L8ukBVqikwoSN9Mv5sk"
-      },
-      "artists": [
-        {
-          "name": "Ours Samplus",
-          "url": "https://open.spotify.com/artist/0XtVN1QaB7vYRpw4qEIRt0"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Spell on You",
-      "url": "https://open.spotify.com/track/5w2zI2TnxiP4DMcsA0P30M"
     },
     {
       "added_at": "2025-10-02 22:00:31",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2025-10-02 22:00:31",
       "album": {
-        "name": "Yours & Mine",
-        "url": "https://open.spotify.com/album/0PgL9nyk4jNY4axPYVUswn"
+        "name": "l.o.v.e",
+        "url": "https://open.spotify.com/album/4BNdRv5U4sQ0Zr3WiYwXCL"
       },
       "artists": [
         {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
         }
       ],
-      "duration_ms": 213545,
-      "name": "Yours & Mine",
-      "url": "https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF"
+      "duration_ms": 179368,
+      "name": "l.o.v.e",
+      "url": "https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6"
     },
     {
       "added_at": "2025-10-02 22:00:31",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2025-10-02 22:00:31",
       "album": {
-        "name": "Bloodline",
-        "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
+        "name": "Yours & Mine",
+        "url": "https://open.spotify.com/album/0PgL9nyk4jNY4axPYVUswn"
       },
       "artists": [
         {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
         }
       ],
-      "duration_ms": 170453,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj"
+      "duration_ms": 213545,
+      "name": "Yours & Mine",
+      "url": "https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF"
     },
     {
       "added_at": "2025-10-02 22:00:31",
@@ -1371,6 +1371,22 @@
       "duration_ms": 278238,
       "name": "My Melody",
       "url": "https://open.spotify.com/track/4ktm7sS9TapvBBbYv8PrtP"
+    },
+    {
+      "added_at": "2025-10-02 22:00:31",
+      "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj"
     },
     {
       "added_at": "2025-10-02 22:00:31",
@@ -1395,22 +1411,6 @@
     {
       "added_at": "2025-10-02 22:00:31",
       "album": {
-        "name": "l.o.v.e",
-        "url": "https://open.spotify.com/album/4BNdRv5U4sQ0Zr3WiYwXCL"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 179368,
-      "name": "l.o.v.e",
-      "url": "https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6"
-    },
-    {
-      "added_at": "2025-10-02 22:00:31",
-      "album": {
         "name": "Willow",
         "url": "https://open.spotify.com/album/34H26omESs9CrxasleR1Cy"
       },
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-10-02 22:00:31",
       "album": {
-        "name": "In My Pocket",
-        "url": "https://open.spotify.com/album/50qvHvf9UAWFckNJcRwFWv"
-      },
-      "artists": [
-        {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "duration_ms": 238223,
-      "name": "In My Pocket",
-      "url": "https://open.spotify.com/track/1gE0tC5gvbVQeYezwbnacb"
-    },
-    {
-      "added_at": "2025-10-02 22:00:31",
-      "album": {
         "name": "So Be So Mine",
         "url": "https://open.spotify.com/album/6a2sEWy5mmfAcsaSW3tt7Q"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 174705,
       "name": "So Be So Mine",
       "url": "https://open.spotify.com/track/1EZ8su96SWli2ao55uNyXE"
+    },
+    {
+      "added_at": "2025-10-02 22:00:31",
+      "album": {
+        "name": "In My Pocket",
+        "url": "https://open.spotify.com/album/50qvHvf9UAWFckNJcRwFWv"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "duration_ms": 238223,
+      "name": "In My Pocket",
+      "url": "https://open.spotify.com/track/1gE0tC5gvbVQeYezwbnacb"
     },
     {
       "added_at": "2025-10-02 22:00:31",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-10-02 22:00:31",
       "album": {
-        "name": "Moonlit",
-        "url": "https://open.spotify.com/album/1sbBM687gBFOF1ZVWz8vRC"
-      },
-      "artists": [
-        {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
-        }
-      ],
-      "duration_ms": 221810,
-      "name": "Moonlit",
-      "url": "https://open.spotify.com/track/7bYCJEl4oPXccNUPxNPk1y"
-    },
-    {
-      "added_at": "2025-10-02 22:00:31",
-      "album": {
         "name": "Sacatela",
         "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 199380,
       "name": "Press Pause",
       "url": "https://open.spotify.com/track/68qGBPUqSLlxwbbkWrMIjZ"
+    },
+    {
+      "added_at": "2025-10-02 22:00:31",
+      "album": {
+        "name": "Moonlit",
+        "url": "https://open.spotify.com/album/1sbBM687gBFOF1ZVWz8vRC"
+      },
+      "artists": [
+        {
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+        }
+      ],
+      "duration_ms": 221810,
+      "name": "Moonlit",
+      "url": "https://open.spotify.com/track/7bYCJEl4oPXccNUPxNPk1y"
     },
     {
       "added_at": "2025-10-02 22:00:31",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-10-02 22:00:31",
       "album": {
-        "name": "Lake Tear of the Clouds",
-        "url": "https://open.spotify.com/album/5MAwGM6wOVrzJtl17kRpnW"
-      },
-      "artists": [
-        {
-          "name": "Cornelia Murr",
-          "url": "https://open.spotify.com/artist/1FdUgjmEeGCpmAxXatjiEG"
-        }
-      ],
-      "duration_ms": 222490,
-      "name": "Man On My Mind",
-      "url": "https://open.spotify.com/track/2NRapgmqFRRnflBV7p9ZzT"
-    },
-    {
-      "added_at": "2025-10-02 22:00:31",
-      "album": {
         "name": "Let Me Take You",
         "url": "https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 189770,
       "name": "Let Me Take You",
       "url": "https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp"
+    },
+    {
+      "added_at": "2025-10-02 22:00:31",
+      "album": {
+        "name": "Lake Tear of the Clouds",
+        "url": "https://open.spotify.com/album/5MAwGM6wOVrzJtl17kRpnW"
+      },
+      "artists": [
+        {
+          "name": "Cornelia Murr",
+          "url": "https://open.spotify.com/artist/1FdUgjmEeGCpmAxXatjiEG"
+        }
+      ],
+      "duration_ms": 222490,
+      "name": "Man On My Mind",
+      "url": "https://open.spotify.com/track/2NRapgmqFRRnflBV7p9ZzT"
     },
     {
       "added_at": "2025-10-02 22:00:31",

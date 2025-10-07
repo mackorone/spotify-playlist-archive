@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles. Foto: Kadriana Massri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,471 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,473 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 16 | [De Otra Manera](https://open.spotify.com/track/7mAlEKfEFln6KGjmsq2sz5) | [Carameloraro](https://open.spotify.com/artist/2UXZFXRI7FHXOOLVPK3Zce) | [De Otra Manera](https://open.spotify.com/album/5V1dd6In1N8Wgu3Lzkza2R) | 3:39 |
 | 17 | [Perdiendo el tiempo](https://open.spotify.com/track/2h2cU8FNQchkM55c7Q4B69) | [Macías](https://open.spotify.com/artist/1CAODZDhSh2gkjWxXwgdJ1), [Margarita Quebrada](https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi) | [Perdiendo el tiempo](https://open.spotify.com/album/6VGczKQVNeSgWUb7XoDU0X) | 3:48 |
 | 18 | [PARA VOSOTROS, EXTRAÑOS.](https://open.spotify.com/track/63Jr6c2YHipamIjwoVJBbB) | [bosco herrero](https://open.spotify.com/artist/2k74pCf0NdIPHGCpwocdxG) | [PARA VOSOTROS, EXTRAÑOS.](https://open.spotify.com/album/6hC4bgfs5kCJArmPKoz16v) | 5:00 |
-| 19 | [tristán de acuña](https://open.spotify.com/track/1tBGsS9Z4kTznq0Ml0eVTp) | [klaraa](https://open.spotify.com/artist/67hUGeAt8O14w2kjwNa5js), [Yere](https://open.spotify.com/artist/4lzDszfgtJrnmeBfDu9dt7) | [UNDINE](https://open.spotify.com/album/3ZJo6zzFSfmtRng86xoCyX) | 2:32 |
+| 19 | [tristán de acuña](https://open.spotify.com/track/1tBGsS9Z4kTznq0Ml0eVTp) | [klaraa](https://open.spotify.com/artist/67hUGeAt8O14w2kjwNa5js), [Yere](https://open.spotify.com/artist/4lzDszfgtJrnmeBfDu9dt7) | [UNDINE](https://open.spotify.com/album/3ZJo6zzFSfmtRng86xoCyX) | 2:30 |
 | 20 | [14 de Febrero](https://open.spotify.com/track/3St1X5l50MwhupkTSnVYmR) | [Indiana](https://open.spotify.com/artist/7kvnH3b0dEZlplB37WsXND) | [14 de Febrero](https://open.spotify.com/album/0ol9eB90DpDd1auhviMMod) | 3:49 |
 | 21 | [a veces aburrido](https://open.spotify.com/track/3O0kzShkey83jaK2cvH6EW) | [yaveremos](https://open.spotify.com/artist/46sGuc1lNHBdzEPxrj8a3Z) | [a veces aburrido](https://open.spotify.com/album/2xeRmkX97gvZuWc55Bep8F) | 4:02 |
 | 22 | [Buena suerte](https://open.spotify.com/track/48LIqcXAaIefIUTvoJId8j) | [Paco Moreno](https://open.spotify.com/artist/1yLrA8a9c6qikBV0THGnux) | [RUMBAAAA](https://open.spotify.com/album/1cdGWFv7vyVOVcXNwfe53q) | 2:42 |

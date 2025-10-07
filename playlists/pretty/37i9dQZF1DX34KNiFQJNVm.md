@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Zé Felipe com Ana Castela, Taylor Swift e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,171,344 likes - 88 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,171,447 likes - 88 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

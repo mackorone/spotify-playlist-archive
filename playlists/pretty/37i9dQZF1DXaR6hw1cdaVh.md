@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 
 > I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify 🎤
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,904 likes - 36 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,903 likes - 36 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,13 +16,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 | 6 | [La Nuova Stella Di Broadway](https://open.spotify.com/track/3qtuOAI0YyfoBM1s7Tvm46) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [La Teoria Dei Colori](https://open.spotify.com/album/3OpmNTT7hIZMoO9NNcKnmz) | 4:27 |
 | 7 | [Rossetto e caffè](https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Rossetto e caffè](https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM) | 3:12 |
 | 8 | [L'Emozione Non Ha voce \(Io Non So Parlar D'Amore\)](https://open.spotify.com/track/39efIaQFmERjt8U71FrJzs) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Io Non So Parlar D'Amore](https://open.spotify.com/album/5fv7zCf5fRBzmVqnrJ0UJO) | 4:07 |
-| 9 | [Quando \- 2021 Remaster](https://open.spotify.com/track/2wcfoB1fYTDaLdV4RqA42H) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Sotto 'o sole \(2021 Remaster\)](https://open.spotify.com/album/2lIRhytz2a9UnnVmRrpPCW) | 3:35 |
-| 10 | [La Cura](https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [L'Imboscata](https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv) | 4:03 |
+| 9 | [La Cura](https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [L'Imboscata](https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv) | 4:03 |
+| 10 | [Quando \- 2021 Remaster](https://open.spotify.com/track/2wcfoB1fYTDaLdV4RqA42H) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Sotto 'o sole \(2021 Remaster\)](https://open.spotify.com/album/2lIRhytz2a9UnnVmRrpPCW) | 3:35 |
 | 11 | [L'Anno Che Verrà](https://open.spotify.com/track/2buPtPaKomtwoT8YvxO13f) | [Lucio Dalla](https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl) | [Lucio Dalla](https://open.spotify.com/album/1QV9aAN5P2Tw1ODM9hiC8E) | 4:26 |
 | 12 | [Il pescatore](https://open.spotify.com/track/0i4mLwfyxnSSgF6hwIkU2L) | [Fabrizio De André](https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm) | [Fabrizio De André Opere Complete](https://open.spotify.com/album/4O3H3CcqEyK7J5T7rhVf72) | 2:20 |
 | 13 | [La voglia, la pazzia](https://open.spotify.com/track/1Sr4RnfU7JVaRKuhNrfI5h) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [La voglia la pazzia l'incoscienza l'allegria](https://open.spotify.com/album/5O6YBiSMJZ4qB5opZCJHGH) | 2:53 |
-| 14 | [Yes I Know My Way \- 2021 Remaster](https://open.spotify.com/track/0HVvtZhPgnuR2Nia1x8zUX) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Vai mo' \(2021 Remaster\)](https://open.spotify.com/album/337FIRdreM3p4irs8hrMsX) | 3:36 |
-| 15 | [The Sound of Silence \- Electric Version](https://open.spotify.com/track/2YplrdHMBoRdnHgMeHEwHm) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 3:05 |
+| 14 | [The Sound of Silence \- Electric Version](https://open.spotify.com/track/2YplrdHMBoRdnHgMeHEwHm) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 3:05 |
+| 15 | [Yes I Know My Way \- 2021 Remaster](https://open.spotify.com/track/0HVvtZhPgnuR2Nia1x8zUX) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Vai mo' \(2021 Remaster\)](https://open.spotify.com/album/337FIRdreM3p4irs8hrMsX) | 3:36 |
 | 16 | [Fiori rosa, fiori di pesco](https://open.spotify.com/track/51Z0G9wCaGl2pcBISoJu9x) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Emozioni](https://open.spotify.com/album/6C91Sp5eJ1LPEFuSoEf5vw) | 3:12 |
 | 17 | [Aspettando Il Sole](https://open.spotify.com/track/0HgSaG6pYR3Nlt45GQyrKp) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Giuliano Palma](https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I) | [Neffa E I Messaggeri Della Dopa](https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn) | 5:12 |
 | 18 | [Bella stronza](https://open.spotify.com/track/6zaqjLbBdfkdHUWtQzvrK2) | [Marco Masini](https://open.spotify.com/artist/0kcOfjhVfDMTS09s9aLmuD) | [Il Cielo Della Vergine](https://open.spotify.com/album/60MK9V8B2IP2TuCwDdb1R9) | 5:21 |

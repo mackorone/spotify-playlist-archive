@@ -4,7 +4,7 @@
 
 > This is Ho \- Kago Tea Time\. The essential tracks, all in one playlist.
 
-29 songs - 1 hr 59 min
+30 songs - 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,9 +23,10 @@
 | [Ohayou, Mata Ashita](https://open.spotify.com/track/3jD6EFk93cBAMwuWHTJhlF) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Singing! \(Standard Edition\)](https://open.spotify.com/album/5bCinByDAyOCePVoccduYa) | 4:55 | 2025-05-30 |  |
 | [Our Magic](https://open.spotify.com/track/0gu4p4NA29AzwbH1m23xsg) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Listen!! \(From "K\-On!!"\)](https://open.spotify.com/album/5NHwuwLZ1p38Fq3Q6sGchl) | 4:11 | 2025-05-30 |  |
 | [Pure Pure Heart](https://open.spotify.com/track/36XSn3wjamiIH4kydEEuyk) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Ho\-Kago Tea Time II \(From "K\-On!!"\)](https://open.spotify.com/album/3SJPNJ3dMplHK8UeFy295k) | 4:34 | 2025-05-30 |  |
-| [Samidare 20 Love](https://open.spotify.com/track/3cbGituXoCkNUN9mYz1Egh) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Ho\-Kago Tea Time II \(From "K\-On!!"\)](https://open.spotify.com/album/3SJPNJ3dMplHK8UeFy295k) | 4:03 | 2025-05-30 |  |
+| [Samidare 20 Love](https://open.spotify.com/track/3cbGituXoCkNUN9mYz1Egh) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Ho\-Kago Tea Time II \(From "K\-On!!"\)](https://open.spotify.com/album/3SJPNJ3dMplHK8UeFy295k) | 4:03 | 2025-05-30 | 2025-10-07 |
 | [Singing!](https://open.spotify.com/track/5ftfX6pKdedXPrbLXYPl0B) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Singing! \(Standard Edition\)](https://open.spotify.com/album/5bCinByDAyOCePVoccduYa) | 3:54 | 2025-05-30 |  |
 | [Tenshi Ni Furetayo!](https://open.spotify.com/track/6zFOC4552JDO6UqzjDxkCw) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Ho\-Kago Tea Time II \(From "K\-On!!"\)](https://open.spotify.com/album/3SJPNJ3dMplHK8UeFy295k) | 4:41 | 2025-05-30 |  |
+| [Tokimeki Sugar](https://open.spotify.com/track/3fzdjCGmv8HPUNeljvXPhL) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Ho\-Kago Tea Time II \(From "K\-On!!"\)](https://open.spotify.com/album/3SJPNJ3dMplHK8UeFy295k) | 3:59 | 2025-10-07 |  |
 | [U&I](https://open.spotify.com/track/5A0d3GnBCF8x4WJgvJhhgO) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Ho\-Kago Tea Time II \(From "K\-On!!"\)](https://open.spotify.com/album/3SJPNJ3dMplHK8UeFy295k) | 4:35 | 2025-05-30 |  |
 | [Unmei♪wa♪Endless!](https://open.spotify.com/track/0LoGJrS5kTRw9w1lQUiVPz) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Unmei♪wa♪Endless!\(通常盤\)](https://open.spotify.com/album/6Pfm579mk6dFBnhzLq64xd) | 3:52 | 2025-05-30 |  |
 | [Utauyo!!MIRACLE](https://open.spotify.com/track/2JmZ0T4edkqdthYVlDuGxg) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Utauyo!!MIRACLE](https://open.spotify.com/album/67IFBceF1jRdBYhNLPhUng) | 4:02 | 2025-05-30 |  |

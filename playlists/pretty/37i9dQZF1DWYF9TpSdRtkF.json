@@ -1,6 +1,6 @@
 {
   "description": "Music from \"THE IDOLM@STER MILLION LIVE!\".  THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.",
-  "num_followers": 18208,
+  "num_followers": 18212,
   "original_name": "THE IDOLM@STER MILLION LIVE! ",
   "owner": {
     "name": "Spotify",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-03-26 16:49:37",
       "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 02",
-        "url": "https://open.spotify.com/album/2GToGpK197lsdbBkoj41Zt"
-      },
-      "artists": [
-        {
-          "name": "\u4e59\u5973\u30b9\u30c8\u30fc\u30e0!",
-          "url": "https://open.spotify.com/artist/2VQzzVai0olRp4HlVXsndu"
-        }
-      ],
-      "duration_ms": 258200,
-      "name": "Growing Storm!",
-      "url": "https://open.spotify.com/track/0Wk5vKYX3dY08DnQnddNqf"
-    },
-    {
-      "added_at": "2025-03-26 16:49:37",
-      "album": {
         "name": "THE IDOLM@STER LIVE THE@TER HARMONY 03",
         "url": "https://open.spotify.com/album/7eyHlvuilbyQace0k063iy"
       },
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2025-03-26 16:49:37",
       "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 02",
+        "url": "https://open.spotify.com/album/2GToGpK197lsdbBkoj41Zt"
+      },
+      "artists": [
+        {
+          "name": "\u4e59\u5973\u30b9\u30c8\u30fc\u30e0!",
+          "url": "https://open.spotify.com/artist/2VQzzVai0olRp4HlVXsndu"
+        }
+      ],
+      "duration_ms": 258200,
+      "name": "Growing Storm!",
+      "url": "https://open.spotify.com/track/0Wk5vKYX3dY08DnQnddNqf"
+    },
+    {
+      "added_at": "2025-03-26 16:49:37",
+      "album": {
         "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 02",
         "url": "https://open.spotify.com/album/63Ic75x61p1Mtdcyt8roK5"
       },
@@ -1431,6 +1431,34 @@
       "duration_ms": 217880,
       "name": "\u30ad\u30e9\u30e1\u30ad\u9032\u884c\u5f62",
       "url": "https://open.spotify.com/track/0zUxcMSrVLfjuloZtMEBGD"
+    },
+    {
+      "added_at": "2025-03-26 16:49:37",
+      "album": {
+        "name": "\u30ea\u30d5\u30ec\u30a4\u30f3\u30ad\u30b9 (Brand New Ver.)",
+        "url": "https://open.spotify.com/album/5M761lw0DidVCkXofyhDu5"
+      },
+      "artists": [
+        {
+          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
+          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
+        },
+        {
+          "name": "\u9ad8\u5742\u6d77\u7f8e (CV.\u4e0a\u7530\u9e97\u5948)",
+          "url": "https://open.spotify.com/artist/6AZndMQu5mgIHidhE5rB7v"
+        },
+        {
+          "name": "Kotoha Tanaka (CV: Risa Taneda)",
+          "url": "https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr"
+        },
+        {
+          "name": "\u677e\u7530\u4e9c\u5229\u6c99 (CV.\u6751\u5ddd\u68a8\u8863)",
+          "url": "https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV"
+        }
+      ],
+      "duration_ms": 301573,
+      "name": "\u30ea\u30d5\u30ec\u30a4\u30f3\u30ad\u30b9 - Brand New Ver.",
+      "url": "https://open.spotify.com/track/6qik4NVB7AHXb6MyeWafRC"
     },
     {
       "added_at": "2025-03-26 16:49:37",
@@ -1483,34 +1511,6 @@
     {
       "added_at": "2025-03-26 16:49:37",
       "album": {
-        "name": "\u30ea\u30d5\u30ec\u30a4\u30f3\u30ad\u30b9 (Brand New Ver.)",
-        "url": "https://open.spotify.com/album/5M761lw0DidVCkXofyhDu5"
-      },
-      "artists": [
-        {
-          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
-          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
-        },
-        {
-          "name": "\u9ad8\u5742\u6d77\u7f8e (CV.\u4e0a\u7530\u9e97\u5948)",
-          "url": "https://open.spotify.com/artist/6AZndMQu5mgIHidhE5rB7v"
-        },
-        {
-          "name": "Kotoha Tanaka (CV: Risa Taneda)",
-          "url": "https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr"
-        },
-        {
-          "name": "\u677e\u7530\u4e9c\u5229\u6c99 (CV.\u6751\u5ddd\u68a8\u8863)",
-          "url": "https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV"
-        }
-      ],
-      "duration_ms": 301573,
-      "name": "\u30ea\u30d5\u30ec\u30a4\u30f3\u30ad\u30b9 - Brand New Ver.",
-      "url": "https://open.spotify.com/track/6qik4NVB7AHXb6MyeWafRC"
-    },
-    {
-      "added_at": "2025-03-26 16:49:37",
-      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER SEASON FINAL",
         "url": "https://open.spotify.com/album/0AqCcAkzDG2TrgSIWY9WgH"
       },
@@ -1559,6 +1559,34 @@
     {
       "added_at": "2025-03-26 16:49:37",
       "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 11 \u30aa\u30da\u30e9\u30bb\u30ea\u30a2\u30fb\u714c\u8f1d\u5ea7",
+        "url": "https://open.spotify.com/album/2SSr71xZDj52IgJ3zacjfx"
+      },
+      "artists": [
+        {
+          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
+          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
+        },
+        {
+          "name": "\u685c\u5b88\u6b4c\u7e54 (CV.\u9999\u91cc\u6709\u4f50)",
+          "url": "https://open.spotify.com/artist/3THHXLEZAhQ02EPLTJZ0Ii"
+        },
+        {
+          "name": "\u5fb3\u5ddd\u307e\u3064\u308a (CV.\u8acf\u8a2a\u5f69\u82b1)",
+          "url": "https://open.spotify.com/artist/2uTw4D9HmyZI0NmjCIJ7Mk"
+        },
+        {
+          "name": "Kotoha Tanaka (CV: Risa Taneda)",
+          "url": "https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr"
+        }
+      ],
+      "duration_ms": 264480,
+      "name": "Parade d'amour",
+      "url": "https://open.spotify.com/track/0fPEMQLXpCDbaCeT6CgUAd"
+    },
+    {
+      "added_at": "2025-03-26 16:49:37",
+      "album": {
         "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 10",
         "url": "https://open.spotify.com/album/5Y49hqNoAuT0V33DeyHUnj"
       },
@@ -1587,34 +1615,6 @@
       "duration_ms": 271120,
       "name": "ENTER PLEASURE",
       "url": "https://open.spotify.com/track/02qhpRpoQwUC4wI2VOM7Tq"
-    },
-    {
-      "added_at": "2025-03-26 16:49:37",
-      "album": {
-        "name": "THE IDOLM@STER MILLION THE@TER WAVE 11 \u30aa\u30da\u30e9\u30bb\u30ea\u30a2\u30fb\u714c\u8f1d\u5ea7",
-        "url": "https://open.spotify.com/album/2SSr71xZDj52IgJ3zacjfx"
-      },
-      "artists": [
-        {
-          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
-          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
-        },
-        {
-          "name": "\u685c\u5b88\u6b4c\u7e54 (CV.\u9999\u91cc\u6709\u4f50)",
-          "url": "https://open.spotify.com/artist/3THHXLEZAhQ02EPLTJZ0Ii"
-        },
-        {
-          "name": "\u5fb3\u5ddd\u307e\u3064\u308a (CV.\u8acf\u8a2a\u5f69\u82b1)",
-          "url": "https://open.spotify.com/artist/2uTw4D9HmyZI0NmjCIJ7Mk"
-        },
-        {
-          "name": "Kotoha Tanaka (CV: Risa Taneda)",
-          "url": "https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr"
-        }
-      ],
-      "duration_ms": 264480,
-      "name": "Parade d'amour",
-      "url": "https://open.spotify.com/track/0fPEMQLXpCDbaCeT6CgUAd"
     }
   ],
   "unique_name": "THE IDOLM@STER MILLION LIVE! ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,059 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,060 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 29 | [More Alive](https://open.spotify.com/track/6I4lNirK2tcpEeLAPXLXiH) | [Loxodrome](https://open.spotify.com/artist/2sekBTVvkPBYft7njmbQEh), [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85) | [More Alive](https://open.spotify.com/album/6oVboXUefw7iX8N102mt7C) | 5:50 |
 | 30 | [Feel It Much?](https://open.spotify.com/track/5xqJymiqq4OCbo5akUSZJC) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Feel It Much?](https://open.spotify.com/album/3iG5dFTdjW3ytc2deeJqg1) | 4:35 |
 | 31 | [into flames](https://open.spotify.com/track/3oX9siBJ6QNG4zQc4XgUzr) | [MXGPU](https://open.spotify.com/artist/7LHpDayfzUPdd5DGAJIrko), [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [GPU Panic](https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3) | [Sudden Light](https://open.spotify.com/album/2ZUwPUKq7ac0StmzAvO4zR) | 3:25 |
-| 32 | [Momentary Phase Transition](https://open.spotify.com/track/7iGAClYVw6mVV7aaqMPmyK) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Momentary Phase Transition](https://open.spotify.com/album/01dqmbbulfqFKRvXubjPsD) | 6:22 |
+| 32 | [Momentary Phase Transition \(DJ\-Kicks\)](https://open.spotify.com/track/7iGAClYVw6mVV7aaqMPmyK) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Momentary Phase Transition \(DJ\-Kicks\)](https://open.spotify.com/album/01dqmbbulfqFKRvXubjPsD) | 6:22 |
 | 33 | [Mystery \- Harvey Sutherland Remix](https://open.spotify.com/track/6aT30gUEveRMm0Pd4XaJ1M) | [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH), [GUINNY](https://open.spotify.com/artist/2We5sHePj1UqVLOFNU6IOK), [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Mystery \(Harvey Sutherland Remix\)](https://open.spotify.com/album/7e7e321hcV1GW7lh9bfCQD) | 3:28 |
 | 34 | [You Like It, It's Yours \- Edit](https://open.spotify.com/track/7nnu8bpOSLiBumzkUUMpD7) | [Harrison BDP](https://open.spotify.com/artist/4i3y3MC57rWYNAdYlE6HM3), [O'ner](https://open.spotify.com/artist/4fii2KrYFHN72FYWfElOyJ) | [You Like It, It's Yours \(Edit\)](https://open.spotify.com/album/5CESgH9z5XnMW5xCtjYsmJ) | 3:17 |
 | 35 | [Mont Blanc](https://open.spotify.com/track/1jG2w4SGRqzC4wQKlN3D7q) | [Moontalk](https://open.spotify.com/artist/4UFhlgDCipgC1LdbaJgIgN) | [Mont Blanc](https://open.spotify.com/album/5vxKpurDpHTvadVYHBS6J8) | 4:35 |

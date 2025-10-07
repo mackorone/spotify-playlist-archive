@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover:  NINO Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,582 likes - 250 songs - 14 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,597 likes - 250 songs - 14 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

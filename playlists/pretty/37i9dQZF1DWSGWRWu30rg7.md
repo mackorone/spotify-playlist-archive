@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: Els Hagia
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,287 likes - 92 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,288 likes - 92 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 63 | [Lara](https://open.spotify.com/track/5W8MNdDv4mojJHSqXLQtbU) | [Vitanova](https://open.spotify.com/artist/2O7hNHfOjZN0tnUrYAZN7c) | [Lara](https://open.spotify.com/album/3ensfcWd6SSiD3TG7uwOdQ) | 3:53 |
 | 64 | [Tidak Nyambung, Daijobu](https://open.spotify.com/track/05ODly4EekASJ7NjJizd8J) | [Kawaii Indonesia](https://open.spotify.com/artist/1tR2xnwcejRtktExL88nPa) | [Tidak Nyambung, Daijobu](https://open.spotify.com/album/4fTEL2xstF3Oig1sWkPain) | 3:03 |
 | 65 | [Glowfall](https://open.spotify.com/track/1PUoyHWJMDoBBAZgQbBaPi) | [Kaleigo](https://open.spotify.com/artist/7deoKuPj6iXVF38vjr2KXI) | [Glowfall](https://open.spotify.com/album/5O0ckSQ8yGZh4ME3PsC4Sy) | 4:18 |
-| 66 | [how can i live without you???](https://open.spotify.com/track/2eXMbcT3SnTkHI4AcZ1Ijy) | [remi](https://open.spotify.com/artist/3hrrPggxAi0meheUudeQIm) | [how can i live without you???](https://open.spotify.com/album/3yfAj78Thake4uurZ30E7N) | 3:29 |
+| 66 | [how can i live without you???](https://open.spotify.com/track/2eXMbcT3SnTkHI4AcZ1Ijy) | [remi the duo](https://open.spotify.com/artist/3hrrPggxAi0meheUudeQIm) | [how can i live without you???](https://open.spotify.com/album/3yfAj78Thake4uurZ30E7N) | 3:29 |
 | 67 | [Adegan Dewasa](https://open.spotify.com/track/6FAFHuGnxJlBtKb6nvJfpM) | [Keshya Valerie](https://open.spotify.com/artist/3ioWvy85yCgiqmpyu4jEma) | [Adegan Dewasa](https://open.spotify.com/album/0kAS8eUEX52s2oHXdJdIgX) | 3:39 |
 | 68 | [Angdimano](https://open.spotify.com/track/2bGHkJ2Rqdt783RFGuh2Yq) | [Caessaria](https://open.spotify.com/artist/4Lqjj5kam5AMYcZvdkKTvd) | [DYSTOPIA](https://open.spotify.com/album/4PfucubYGaerE0S6egYl38) | 4:55 |
 | 69 | [birds](https://open.spotify.com/track/0mP3wjqXVu1ju5988IXOMu) | [Trico](https://open.spotify.com/artist/1F9dlchjFRruemNF373U61) | [birds](https://open.spotify.com/album/41RVEnSX4GVMtYBLOkcVwv) | 2:21 |

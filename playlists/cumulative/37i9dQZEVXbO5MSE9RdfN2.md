@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Australia.
 
-2,075 songs - 4 day 14 hr 34 min
+2,077 songs - 4 day 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -555,6 +555,7 @@
 | [Eusexua](https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Eusexua](https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj) | 4:23 | 2024-10-01 | 2024-10-03 |
 | [Even In Arcadia](https://open.spotify.com/track/4IixOTCzviJgIigKleiVbo) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:28 | 2025-05-27 | 2025-05-30 |
 | [Everybody Wants To Rule the World](https://open.spotify.com/track/70CYroXLBCsndZ1LySt6dr) | [Despicable Me 4 Cast](https://open.spotify.com/artist/3q4eQCCkDNTWT1wkhOjO54) | [Despicable Me 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0fxJNsszrPN4iubjPabVvy) | 2:34 | 2024-08-03 | 2024-08-21 |
+| [Everything is romantic featuring caroline polachek](https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:23 | 2025-10-06 |  |
 | [Everytime \- BBC Radio 1 Live Lounge](https://open.spotify.com/track/4qIpDRBfedlGwDPu2LBMjw) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Everytime \(BBC Radio 1 Live Lounge\)](https://open.spotify.com/album/5iOG1vxlhEaKZWWdOqGHo3) | 3:01 | 2025-04-29 | 2025-05-04 |
 | [Everytime We Touch \- TEKKNO Version](https://open.spotify.com/track/1RQ50jZIxLYHd09bGo5jWk) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Everytime We Touch \(TEKKNO Version\)](https://open.spotify.com/album/68b4arc5OggOpXBCMTUdZc) | 3:17 | 2024-12-12 | 2024-12-16 |
 | [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:03 | 2025-04-02 | 2025-04-08 |
@@ -1136,8 +1137,9 @@
 | [Make Believe](https://open.spotify.com/track/7IoTUnyyvbMEY2UuE2Tmsx) | [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Make Believe](https://open.spotify.com/album/0WsYBIIe88Cbqs6QpwYqMy) | 3:05 | 2025-09-02 | 2025-09-11 |
 | [Make Me Feel](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Make Me Feel](https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva) | 3:06 | 2025-07-08 |  |
 | [Make Me Feel](https://open.spotify.com/track/4ar5kJ4FvZk1GmVI5LgP1G) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Make Me Feel](https://open.spotify.com/album/7yGhkXjHJP3XeGVnUJGcNs) | 3:06 | 2025-07-19 | 2025-07-22 |
+| [Make Me Feel x No Broke Boys](https://open.spotify.com/track/4KaxL1Q2s5jC8cHO3AprSc) | [JIMRO!](https://open.spotify.com/artist/059WsG6s8SUZbHqdpbm4Vt) | [Make Me Feel x No Broke Boys](https://open.spotify.com/album/3EO8KRFzy40FOVhKgB1YAn) | 2:36 | 2025-10-06 |  |
 | [Make Me Feel x No Broke Boys](https://open.spotify.com/track/5SFk8tiNu9ByNOSN9QjCrV) | [JIMRO!](https://open.spotify.com/artist/059WsG6s8SUZbHqdpbm4Vt) | [Make Me Feel x No Broke Boys](https://open.spotify.com/album/0jFHRAiyHPyZj7Tshx7Zlu) | 2:36 | 2025-10-02 | 2025-10-04 |
-| [Make Me Feel x No Broke Boys](https://open.spotify.com/track/17fjllWtj69c8CEIOA84tv) | [JIMRO!](https://open.spotify.com/artist/059WsG6s8SUZbHqdpbm4Vt) | [Make Me Feel x No Broke Boys](https://open.spotify.com/album/6qtiEaifkEr1bJyH751539) | 2:36 | 2025-10-03 |  |
+| [Make Me Feel x No Broke Boys](https://open.spotify.com/track/17fjllWtj69c8CEIOA84tv) | [JIMRO!](https://open.spotify.com/artist/059WsG6s8SUZbHqdpbm4Vt) | [Make Me Feel x No Broke Boys](https://open.spotify.com/album/6qtiEaifkEr1bJyH751539) | 2:36 | 2025-10-03 | 2025-10-07 |
 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-02-27 | 2024-03-27 |
 | [Makeup](https://open.spotify.com/track/0QcFXTu9pidTznJ2LAm9EV) | [The Bends](https://open.spotify.com/artist/2xBejdNon0VS3Egq8he7sb) | [Makeup](https://open.spotify.com/album/0iJjpNqjN7Ha0SoFFBBmSL) | 3:58 | 2025-06-08 | 2025-06-11 |
 | [Makeup](https://open.spotify.com/track/6byukcmVQRSNHaC10OmP2J) | [The Bends](https://open.spotify.com/artist/2xBejdNon0VS3Egq8he7sb) | [Makeup](https://open.spotify.com/album/0M4C80GGpXefAmgu5P6hHc) | 3:58 | 2025-06-06 | 2025-06-09 |
@@ -1544,7 +1546,7 @@
 | [Score Suite](https://open.spotify.com/track/734WuFbTDxTPMU1lBP6e0M) | [Marcelo Zarvos](https://open.spotify.com/artist/0qDZ7wym9Vg843lDKkzmoR) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:00 | 2025-07-13 | 2025-07-15 |
 | [Scornful Woman](https://open.spotify.com/track/5oEM9EDKL9y4XLTJzi0g96) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Scornful Woman](https://open.spotify.com/album/3Ueo8Ub5iBseNfSbHpCdEq) | 2:55 | 2025-06-24 | 2025-07-09 |
 | [Scorsese Baby Daddy](https://open.spotify.com/track/2E7a96qey4AzSOdK6H21vS) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:33 | 2025-01-07 | 2025-01-09 |
-| [Scott and Zelda](https://open.spotify.com/track/1MJyiTlVdSLAjI9aclZ3hL) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [EVE: ROMANCE](https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y) | 3:13 | 2025-09-13 |  |
+| [Scott and Zelda](https://open.spotify.com/track/1MJyiTlVdSLAjI9aclZ3hL) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [EVE: ROMANCE](https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y) | 3:13 | 2025-09-13 | 2025-10-07 |
 | [Scott Pilgrim vs\. My GPA](https://open.spotify.com/track/4yXKLDrHYrffSVmQOFdbDA) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Best Buds](https://open.spotify.com/album/0KzElSxcfAvleUIuOg0TOQ) | 3:59 | 2024-11-28 | 2025-01-28 |
 | [SE ME OLVIDA](https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SE ME OLVIDA](https://open.spotify.com/album/00ESTj1vBUkIbaTHaXaXu3) | 3:45 | 2024-09-10 | 2024-09-23 |
 | [Seasons](https://open.spotify.com/track/0GzqA980TSsNnqKQbIQyHn) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Seasons](https://open.spotify.com/album/6HQJWzhmmKLP9fKjM4jsyY) | 2:37 | 2024-12-12 | 2025-01-06 |

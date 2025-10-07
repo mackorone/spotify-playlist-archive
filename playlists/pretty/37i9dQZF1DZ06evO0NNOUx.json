@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 153884,
+  "num_followers": 154216,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOBjgAAAAAAUG15wYCLn1oqnpY7wBEtm",
+  "snapshot_id": "aOG1AAAAAAA9YTOnY7+CdVNSsgcuyB6X",
   "tracks": [
     {
       "added_at": null,
@@ -63,6 +63,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "JESUS IS COMING BACK SOON",
+        "url": "https://open.spotify.com/album/3HDW8T0mgHExobcePqYorP"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "duration_ms": 180034,
+      "name": "JESUS IS COMING BACK SOON",
+      "url": "https://open.spotify.com/track/3lDONs5jdDxJIHovAwgtsc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CHILD OF GOD II",
         "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
       },
@@ -83,6 +103,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHILD OF GOD",
+        "url": "https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 168227,
+      "name": "LIFE IS GOOD",
+      "url": "https://open.spotify.com/track/3TQk8yZld28u3CvGiT8gHq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LEMONADE",
         "url": "https://open.spotify.com/album/0MtdVm532g8eK9SxI2nyl4"
       },
@@ -99,22 +135,6 @@
       "duration_ms": 182946,
       "name": "LEMONADE",
       "url": "https://open.spotify.com/track/6P7tj3Pkm6iXlnZmGiS1VS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHILD OF GOD",
-        "url": "https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 168227,
-      "name": "LIFE IS GOOD",
-      "url": "https://open.spotify.com/track/3TQk8yZld28u3CvGiT8gHq"
     },
     {
       "added_at": null,
@@ -155,26 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "California Cowboy",
-        "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "NO LONGER BOUND",
-      "url": "https://open.spotify.com/track/7anCH1IPfW8Jsjhw5ZViuN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHILD OF GOD",
         "url": "https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb"
       },
@@ -191,6 +191,26 @@
       "duration_ms": 145034,
       "name": "NEVER GET USED TO THIS",
       "url": "https://open.spotify.com/track/25f7KnoDqO7nBbPahi15UE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "California Cowboy",
+        "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "NO LONGER BOUND",
+      "url": "https://open.spotify.com/track/7anCH1IPfW8Jsjhw5ZViuN"
     },
     {
       "added_at": null,
@@ -227,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD II",
-        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 161544,
-      "name": "CELEBRATION",
-      "url": "https://open.spotify.com/track/4d5q7kToOjTyTv8ZG0zhut"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHILD OF GOD",
         "url": "https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb"
       },
@@ -263,42 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE ROCK",
-        "url": "https://open.spotify.com/album/3Sl6E162SNTBOZymtjRTKD"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 168058,
-      "name": "THE ROCK",
-      "url": "https://open.spotify.com/track/62MEz6nR7fEtrUVwGLLNxq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LOW KEY",
-        "url": "https://open.spotify.com/album/3LB9SqNsc9eLsGtnJOAOF8"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 150485,
-      "name": "LOW KEY",
-      "url": "https://open.spotify.com/track/1PPEVabQ8ggfXBGFpodjM6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHILD OF GOD II",
         "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
       },
@@ -308,25 +276,9 @@
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 135975,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/5hvVdUchUscAK6hLezOoUV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHILD OF GOD",
-        "url": "https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 219983,
-      "name": "LIFT MY HANDS",
-      "url": "https://open.spotify.com/track/3YcoI7A3ZAwskqcvF5BYuB"
+      "duration_ms": 161544,
+      "name": "CELEBRATION",
+      "url": "https://open.spotify.com/track/4d5q7kToOjTyTv8ZG0zhut"
     },
     {
       "added_at": null,
@@ -351,8 +303,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUNRISE",
-        "url": "https://open.spotify.com/album/7HFnz2dskywxtDeWEdWkdg"
+        "name": "THE ROCK",
+        "url": "https://open.spotify.com/album/3Sl6E162SNTBOZymtjRTKD"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 168058,
+      "name": "THE ROCK",
+      "url": "https://open.spotify.com/track/62MEz6nR7fEtrUVwGLLNxq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILD OF GOD",
+        "url": "https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb"
       },
       "artists": [
         {
@@ -360,9 +332,9 @@
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 156583,
-      "name": "SUNRISE",
-      "url": "https://open.spotify.com/track/7scWcScVJIcVTLLE1cv1ib"
+      "duration_ms": 219983,
+      "name": "LIFT MY HANDS",
+      "url": "https://open.spotify.com/track/3YcoI7A3ZAwskqcvF5BYuB"
     },
     {
       "added_at": null,
@@ -376,9 +348,41 @@
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 147692,
-      "name": "NO L's",
-      "url": "https://open.spotify.com/track/3uLuxijlvrmMLcSHoplmol"
+      "duration_ms": 135975,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/5hvVdUchUscAK6hLezOoUV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOW KEY",
+        "url": "https://open.spotify.com/album/3LB9SqNsc9eLsGtnJOAOF8"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 150485,
+      "name": "LOW KEY",
+      "url": "https://open.spotify.com/track/1PPEVabQ8ggfXBGFpodjM6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SUNRISE",
+        "url": "https://open.spotify.com/album/7HFnz2dskywxtDeWEdWkdg"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 156583,
+      "name": "SUNRISE",
+      "url": "https://open.spotify.com/track/7scWcScVJIcVTLLE1cv1ib"
     },
     {
       "added_at": null,
@@ -399,6 +403,22 @@
       "duration_ms": 207529,
       "name": "GOD IS GOOD",
       "url": "https://open.spotify.com/track/4SPycPiDl1PeFmwp7QPXRc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILD OF GOD II",
+        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "NO L's",
+      "url": "https://open.spotify.com/track/3uLuxijlvrmMLcSHoplmol"
     },
     {
       "added_at": null,
@@ -439,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD II",
-        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "B.I.G.",
-      "url": "https://open.spotify.com/track/5xrtWzNclWvxic98ryBeWD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SELAH",
         "url": "https://open.spotify.com/album/7Ha4qYOG9q7bRVHi4mlSNI"
       },
@@ -467,6 +471,22 @@
       "duration_ms": 202602,
       "name": "SELAH",
       "url": "https://open.spotify.com/track/3epR1Sq8kRU8qc3iHcU6Iz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILD OF GOD II",
+        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "B.I.G.",
+      "url": "https://open.spotify.com/track/5xrtWzNclWvxic98ryBeWD"
     },
     {
       "added_at": null,
@@ -747,26 +767,6 @@
       "duration_ms": 178280,
       "name": "Your Soul",
       "url": "https://open.spotify.com/track/4g6ZNtgFm7pOvinj2IvLCy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JESUS IS COMING BACK SOON",
-        "url": "https://open.spotify.com/album/3HDW8T0mgHExobcePqYorP"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Josiah Queen",
-          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
-        }
-      ],
-      "duration_ms": 180034,
-      "name": "JESUS IS COMING BACK SOON",
-      "url": "https://open.spotify.com/track/3lDONs5jdDxJIHovAwgtsc"
     },
     {
       "added_at": null,

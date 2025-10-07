@@ -3945,6 +3945,24 @@
     },
     {
       "album": {
+        "name": "ENDLESS DEATHLESS",
+        "url": "https://open.spotify.com/album/6tY1OSYObW3x7KAjOXYSeW"
+      },
+      "artists": [
+        {
+          "name": "Just Mustard",
+          "url": "https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251040,
+      "name": "ENDLESS DEATHLESS",
+      "url": "https://open.spotify.com/track/6TmdbHXUuwNbO7gOeuRmVG"
+    },
+    {
+      "album": {
         "name": "Safe",
         "url": "https://open.spotify.com/album/3642b765vQWRQXzDyoPItp"
       },
@@ -6038,6 +6056,24 @@
       "duration_ms": 235093,
       "name": "Hurt You",
       "url": "https://open.spotify.com/track/1pxLVdC8sjLDA2DF3uOEuW"
+    },
+    {
+      "album": {
+        "name": "I Don't Have The Heart",
+        "url": "https://open.spotify.com/album/6d1G4Q53sFptIqszXlgTxq"
+      },
+      "artists": [
+        {
+          "name": "Sharp Pins",
+          "url": "https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151141,
+      "name": "I Don't Have The Heart",
+      "url": "https://open.spotify.com/track/5UmizVFS7HYrVBr6CCPjtN"
     },
     {
       "album": {
@@ -9790,7 +9826,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 258000,
       "name": "Portsmouth Raceway",
       "url": "https://open.spotify.com/track/06GLV6gWiFa4eYQ2pa5Pb7"
@@ -10420,7 +10456,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 222224,
       "name": "Salesman",
       "url": "https://open.spotify.com/track/7nB2NixYWzPiIKjNwaDbJG"

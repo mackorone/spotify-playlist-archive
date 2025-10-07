@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,013 songs - 4 day 8 hr 22 min
+2,014 songs - 4 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [All My Life](https://open.spotify.com/track/7KvTwW9i8f6RYk5hdcq32z) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [All My Life](https://open.spotify.com/album/2TLYWMHBDYn3Qor0pC0Rjp) | 3:02 | 2024-08-08 | 2025-03-14 |
 | [All My Life \- and then…](https://open.spotify.com/track/3YXzBX4UsYFPe11sUty9yS) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 4:35 | 2024-10-24 | 2025-04-14 |
 | [All Over Town](https://open.spotify.com/track/4fQaAVDoLg2QauZPMu2Lne) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [All Over Town](https://open.spotify.com/album/321cYact51YEkdO42GqeVe) | 3:47 | 2024-09-05 | 2025-03-28 |
+| [All The Things That I Am](https://open.spotify.com/track/6NgWT6JeT2ph0giyZG19zZ) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Greczula](https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ) | 2:46 | 2025-10-06 |  |
 | [Alla Glömda Nätter](https://open.spotify.com/track/2fynD15EUzMbPtuKScAiNV) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Vita Skelett & Vita Pärlor](https://open.spotify.com/album/5rzvik02bW2rHsyaPGyS0f) | 4:16 | 2025-04-03 | 2025-06-12 |
 | [Alla måste älska mig](https://open.spotify.com/track/3xahTikNV7Arb70nJcavwM) | [Emma\-Lee Andersson](https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY) | [Alla måste älska mig](https://open.spotify.com/album/7DViMnpL50xK4xAUYmECH1) | 2:44 | 2022-06-09 | 2022-07-28 |
 | [Alla Ska Dö](https://open.spotify.com/track/42JjxAcdxkqNOkx1HpPizt) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Alla Ska Dö](https://open.spotify.com/album/4FGa0t6nw3MaVpLGs0cIif) | 2:46 | 2025-03-20 | 2025-06-27 |
@@ -992,7 +993,7 @@
 | [Kylskåpspoesi](https://open.spotify.com/track/3unNZwXGzgKOFdaL6EPj4C) | [Kvarteret](https://open.spotify.com/artist/6xBSrouGcMUDnoibs8MnlE) | [Kylskåpspoesi](https://open.spotify.com/album/2nPyHdabNvD39J6RH9pkLr) | 2:58 | 2022-03-04 | 2022-07-06 |
 | [Kyss!](https://open.spotify.com/track/3ldYKctJWFisYe41pa6VWo) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Kyss!](https://open.spotify.com/album/3cFLqMC1sJAIdQibUcmfhe) | 3:24 | 2021-12-16 | 2022-03-11 |
 | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/track/47Eym1DOh0jduwT4CWyaG9) | [emoemy](https://open.spotify.com/artist/6kOYIk57Dcel1IrTxYNP9i) | [Känn ingen sorg för mig Göteborg](https://open.spotify.com/album/5U9zrj9w3LZbKYHsBkUhEx) | 2:27 | 2025-01-23 | 2025-05-09 |
-| [känna det igen](https://open.spotify.com/track/2IzwU2LnVFlCGl7IHtYNJk) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [känna det igen](https://open.spotify.com/album/5vzCIN20OYgpflQNSH9566) | 3:08 | 2025-05-29 |  |
+| [känna det igen](https://open.spotify.com/track/2IzwU2LnVFlCGl7IHtYNJk) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [känna det igen](https://open.spotify.com/album/5vzCIN20OYgpflQNSH9566) | 3:08 | 2025-05-29 | 2025-10-07 |
 | [Känner ingenting](https://open.spotify.com/track/2373AatpPbJF5klnOAfI2X) | [Marika Larsson](https://open.spotify.com/artist/5WIrNia2mhdmq27YqJj1hB) | [Känner ingenting](https://open.spotify.com/album/7yxwheJBWmnfyzyqI0bLI4) | 2:57 | 2021-12-16 | 2022-03-03 |
 | [Känns som igår](https://open.spotify.com/track/1GWsPe0PZYRRlY8Awcejds) | [Jobe](https://open.spotify.com/artist/3LpFNC9X6KX4aUmGaWaeGP) | [Känns som igår](https://open.spotify.com/album/08c1O8RIYYnazaS59PwhPD) | 2:53 | 2024-03-28 | 2024-05-03 |
 | [Känslodiplomaten](https://open.spotify.com/track/1000gg1gsEwmCMXrVbJnFt) | [Galleriet](https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7) | [Känslodiplomaten](https://open.spotify.com/album/6nlRpNWQLHEt6FkiktioPr) | 3:32 | 2023-10-19 | 2023-11-27 |

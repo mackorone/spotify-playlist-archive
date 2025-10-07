@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Chris Beats Zn, Yuri Redicopa",
-  "num_followers": 148488,
+  "num_followers": 148493,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2025-10-03 03:01:36",
       "album": {
+        "name": "CAM",
+        "url": "https://open.spotify.com/album/40ZK5ujZ8QnzhRqISu1F38"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        }
+      ],
+      "duration_ms": 167633,
+      "name": "CAM",
+      "url": "https://open.spotify.com/track/0I4dN83QkYPG7aveyl74MV"
+    },
+    {
+      "added_at": "2025-10-03 03:01:36",
+      "album": {
         "name": "Mixtape Supernova Vol.1",
         "url": "https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 162634,
       "name": "Chicago (feat. Veigh)",
       "url": "https://open.spotify.com/track/2yipsqLP0A846JLTnYNIuG"
-    },
-    {
-      "added_at": "2025-10-03 03:01:36",
-      "album": {
-        "name": "CAM",
-        "url": "https://open.spotify.com/album/40ZK5ujZ8QnzhRqISu1F38"
-      },
-      "artists": [
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        }
-      ],
-      "duration_ms": 167633,
-      "name": "CAM",
-      "url": "https://open.spotify.com/track/0I4dN83QkYPG7aveyl74MV"
     },
     {
       "added_at": "2025-10-03 03:01:36",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-10-03 03:01:36",
       "album": {
-        "name": "Eu Meto Bronca",
-        "url": "https://open.spotify.com/album/0xGDMZwlSRXFPgcgCvQkkl"
-      },
-      "artists": [
-        {
-          "name": "Emit\u00ea \u00danico",
-          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Eu Meto Bronca",
-      "url": "https://open.spotify.com/track/5T25TfCnJgTB5JVvrS9xJG"
-    },
-    {
-      "added_at": "2025-10-03 03:01:36",
-      "album": {
         "name": "Cyberpunk",
         "url": "https://open.spotify.com/album/37tMfPWBrcGJFtzQ5U35Lq"
       },
@@ -659,22 +643,18 @@
     {
       "added_at": "2025-10-03 03:01:36",
       "album": {
-        "name": "Aruanda",
-        "url": "https://open.spotify.com/album/48dljowJi0iaP7zBkGpnEk"
+        "name": "Eu Meto Bronca",
+        "url": "https://open.spotify.com/album/0xGDMZwlSRXFPgcgCvQkkl"
       },
       "artists": [
         {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Aruanda",
-      "url": "https://open.spotify.com/track/6A8MA3Quif1pQKPwHs56jm"
+      "duration_ms": 157714,
+      "name": "Eu Meto Bronca",
+      "url": "https://open.spotify.com/track/5T25TfCnJgTB5JVvrS9xJG"
     },
     {
       "added_at": "2025-10-03 03:01:36",
@@ -703,6 +683,26 @@
     {
       "added_at": "2025-10-03 03:01:36",
       "album": {
+        "name": "Aruanda",
+        "url": "https://open.spotify.com/album/48dljowJi0iaP7zBkGpnEk"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Aruanda",
+      "url": "https://open.spotify.com/track/6A8MA3Quif1pQKPwHs56jm"
+    },
+    {
+      "added_at": "2025-10-03 03:01:36",
+      "album": {
         "name": "SEMR\u00c9H",
         "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
       },
@@ -723,22 +723,6 @@
       "duration_ms": 147967,
       "name": "SEMR\u00c9H",
       "url": "https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs"
-    },
-    {
-      "added_at": "2025-10-03 03:01:36",
-      "album": {
-        "name": "Alta Massa (ATM)",
-        "url": "https://open.spotify.com/album/0Twjd4TvTqehiFjeaKPiAE"
-      },
-      "artists": [
-        {
-          "name": "Emit\u00ea \u00danico",
-          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Alta Massa (ATM)",
-      "url": "https://open.spotify.com/track/6NmhXdIUkHYO8gojTVaAMM"
     },
     {
       "added_at": "2025-10-03 03:01:36",
@@ -767,6 +751,46 @@
       "duration_ms": 173114,
       "name": "Lado Negro",
       "url": "https://open.spotify.com/track/4KJBzgc3sUdLv4QyLajJQT"
+    },
+    {
+      "added_at": "2025-10-03 03:01:36",
+      "album": {
+        "name": "Alta Massa (ATM)",
+        "url": "https://open.spotify.com/album/0Twjd4TvTqehiFjeaKPiAE"
+      },
+      "artists": [
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Alta Massa (ATM)",
+      "url": "https://open.spotify.com/track/6NmhXdIUkHYO8gojTVaAMM"
+    },
+    {
+      "added_at": "2025-10-03 03:01:36",
+      "album": {
+        "name": "MOTIVO",
+        "url": "https://open.spotify.com/album/5FV4dy58QXaDjngYtT6VaB"
+      },
+      "artists": [
+        {
+          "name": "M'DEP",
+          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
+        },
+        {
+          "name": "Tevito",
+          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
+        },
+        {
+          "name": "TheJovemJota",
+          "url": "https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV"
+        }
+      ],
+      "duration_ms": 166015,
+      "name": "MOTIVO",
+      "url": "https://open.spotify.com/track/1qKALAI1oDHKjSEz95KO4w"
     },
     {
       "added_at": "2025-10-03 03:01:36",
@@ -819,30 +843,6 @@
       "duration_ms": 160000,
       "name": "OURO BRANCO",
       "url": "https://open.spotify.com/track/6PFsoFrUgww46DSM963is1"
-    },
-    {
-      "added_at": "2025-10-03 03:01:36",
-      "album": {
-        "name": "MOTIVO",
-        "url": "https://open.spotify.com/album/5FV4dy58QXaDjngYtT6VaB"
-      },
-      "artists": [
-        {
-          "name": "M'DEP",
-          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
-        },
-        {
-          "name": "Tevito",
-          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
-        },
-        {
-          "name": "TheJovemJota",
-          "url": "https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV"
-        }
-      ],
-      "duration_ms": 166015,
-      "name": "MOTIVO",
-      "url": "https://open.spotify.com/track/1qKALAI1oDHKjSEz95KO4w"
     },
     {
       "added_at": "2025-10-03 03:01:36",
@@ -931,6 +931,34 @@
     {
       "added_at": "2025-10-03 03:01:36",
       "album": {
+        "name": "RELATOS",
+        "url": "https://open.spotify.com/album/3YIwqsUgXa6IuMVB0Zc4Hr"
+      },
+      "artists": [
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 241623,
+      "name": "Ferrari Vermelha",
+      "url": "https://open.spotify.com/track/7ChzqblIDsCNRBmztg0j2v"
+    },
+    {
+      "added_at": "2025-10-03 03:01:36",
+      "album": {
         "name": "PROIBIDO BRANCO",
         "url": "https://open.spotify.com/album/2UoajtpLuoxVS5HufZRVZP"
       },
@@ -963,34 +991,6 @@
       "duration_ms": 188120,
       "name": "PROIBIDO BRANCO",
       "url": "https://open.spotify.com/track/1y5ZIXW3YfauhIEWNSY5WB"
-    },
-    {
-      "added_at": "2025-10-03 03:01:36",
-      "album": {
-        "name": "RELATOS",
-        "url": "https://open.spotify.com/album/3YIwqsUgXa6IuMVB0Zc4Hr"
-      },
-      "artists": [
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 241623,
-      "name": "Ferrari Vermelha",
-      "url": "https://open.spotify.com/track/7ChzqblIDsCNRBmztg0j2v"
     },
     {
       "added_at": "2025-10-03 03:01:36",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2025-10-03 03:01:36",
       "album": {
+        "name": "P\u00e9 no Ch\u00e3o, Mente Nas Nuvens",
+        "url": "https://open.spotify.com/album/5v6XzcP1918N7PWrMfUett"
+      },
+      "artists": [
+        {
+          "name": "Malcolm VL",
+          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
+        },
+        {
+          "name": "Dona Kelly",
+          "url": "https://open.spotify.com/artist/0Xe4H6iA4Pv8xr4r2Glkat"
+        }
+      ],
+      "duration_ms": 177774,
+      "name": "Forte Abra\u00e7o",
+      "url": "https://open.spotify.com/track/3wk5GFIx6s3GdN4WbgCuh7"
+    },
+    {
+      "added_at": "2025-10-03 03:01:36",
+      "album": {
         "name": "Lealdade Primeiro",
         "url": "https://open.spotify.com/album/5ArkkDvIggAFS3Lc2JCcM0"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 198770,
       "name": "Grandeza",
       "url": "https://open.spotify.com/track/5laBIDKd6mfQJQGdZ6dhFa"
-    },
-    {
-      "added_at": "2025-10-03 03:01:36",
-      "album": {
-        "name": "P\u00e9 no Ch\u00e3o, Mente Nas Nuvens",
-        "url": "https://open.spotify.com/album/5v6XzcP1918N7PWrMfUett"
-      },
-      "artists": [
-        {
-          "name": "Malcolm VL",
-          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
-        },
-        {
-          "name": "Dona Kelly",
-          "url": "https://open.spotify.com/artist/0Xe4H6iA4Pv8xr4r2Glkat"
-        }
-      ],
-      "duration_ms": 177774,
-      "name": "Forte Abra\u00e7o",
-      "url": "https://open.spotify.com/track/3wk5GFIx6s3GdN4WbgCuh7"
     },
     {
       "added_at": "2025-10-03 03:01:36",

@@ -1,12 +1,12 @@
 {
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
-  "num_followers": 325710,
+  "num_followers": 325795,
   "original_name": "This Is Burna Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOBjgAAAAAAi5N8N1YS7fdz+V8P8iOjZ",
+  "snapshot_id": "aOG1AAAAAABpx1iiOjJK/mnDFI+U9MBE",
   "tracks": [
     {
       "added_at": null,
@@ -183,22 +183,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don\u2019t Let Me Drown (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/4gi7iM3pBNBmzHiVPyatjV"
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV"
       },
       "artists": [
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
         }
       ],
-      "duration_ms": 185590,
-      "name": "Don't Let Me Drown - From F1\u00ae The Movie",
-      "url": "https://open.spotify.com/track/24futxi7j75kgGXiumTEn2"
+      "duration_ms": 245920,
+      "name": "23",
+      "url": "https://open.spotify.com/track/0zgeYAouscRmTZ90HM1NA3"
     },
     {
       "added_at": null,
@@ -223,18 +219,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twice As Tall",
-        "url": "https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV"
+        "name": "Don\u2019t Let Me Drown (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/4gi7iM3pBNBmzHiVPyatjV"
       },
       "artists": [
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
         }
       ],
-      "duration_ms": 245920,
-      "name": "23",
-      "url": "https://open.spotify.com/track/0zgeYAouscRmTZ90HM1NA3"
+      "duration_ms": 185590,
+      "name": "Don't Let Me Drown - From F1\u00ae The Movie",
+      "url": "https://open.spotify.com/track/24futxi7j75kgGXiumTEn2"
     },
     {
       "added_at": null,

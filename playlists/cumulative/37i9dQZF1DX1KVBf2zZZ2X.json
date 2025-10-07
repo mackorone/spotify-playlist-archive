@@ -3875,6 +3875,24 @@
     },
     {
       "album": {
+        "name": "Sparkles Between Trees",
+        "url": "https://open.spotify.com/album/3lnKB5L6PHUGkFUCc3rskG"
+      },
+      "artists": [
+        {
+          "name": "Ayala Cola",
+          "url": "https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Sparkles Between Trees",
+      "url": "https://open.spotify.com/track/1KivTompzOiBdFec5jkS8E"
+    },
+    {
+      "album": {
         "name": "Spring is here",
         "url": "https://open.spotify.com/album/3bqM7XfIXMU3vho72nNFND"
       },
@@ -4066,7 +4084,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 161700,
       "name": "The God",
       "url": "https://open.spotify.com/track/0gLVe2ggbV7j5epUeTNo7Q"

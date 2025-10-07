@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 590993,
+  "num_followers": 591023,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOBjgAAAAADIRnvw7vXa5q0g9D/8Mknc",
+  "snapshot_id": "aOG1AAAAAABfl0f3MMjK1n1SH7PgPNpm",
   "tracks": [
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Symphonica (Deluxe Version)",
+        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 285361,
+      "name": "Going To A Town - Live",
+      "url": "https://open.spotify.com/track/3yTgmjZoG8OnQXmE9aNSc2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Greatest Hits III",
         "url": "https://open.spotify.com/album/2BY5L3fpnj4pEduW3T1qN7"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 307360,
       "name": "Somebody To Love - Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992",
       "url": "https://open.spotify.com/track/3g8OM1tEhwNQqsXDHhVbQQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Symphonica (Deluxe Version)",
-        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 285361,
-      "name": "Going To A Town - Live",
-      "url": "https://open.spotify.com/track/3yTgmjZoG8OnQXmE9aNSc2"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
-        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 313595,
-      "name": "Everything She Wants - Live",
-      "url": "https://open.spotify.com/track/2kaDIOcZx2WARb52smVMt4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Symphonica (Deluxe Version)",
         "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 230508,
       "name": "Let Her Down Easy - Live",
       "url": "https://open.spotify.com/track/0LlAIj8FCkmiJ9WOvUIimM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 313595,
+      "name": "Everything She Wants - Live",
+      "url": "https://open.spotify.com/track/2kaDIOcZx2WARb52smVMt4"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs From The Last Century",
-        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 242493,
-      "name": "Wild Is the Wind",
-      "url": "https://open.spotify.com/track/4lLlt6Av8WLCb2xO7IwkHC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Symphonica (Deluxe Version)",
         "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 195957,
       "name": "Feeling Good - Live",
       "url": "https://open.spotify.com/track/4J40h1He466xC8PNnGvFAY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 242493,
+      "name": "Wild Is the Wind",
+      "url": "https://open.spotify.com/track/4lLlt6Av8WLCb2xO7IwkHC"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs From The Last Century",
-        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 263506,
-      "name": "Brother Can You Spare a Dime?",
-      "url": "https://open.spotify.com/track/64FUuN6B1v8W3a1hZd0j5m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/1QiwBjsjHlnfFSKumhozCu"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 186300,
       "name": "Always",
       "url": "https://open.spotify.com/track/1BHyi5tS67s00jDSlGQXg4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 263506,
+      "name": "Brother Can You Spare a Dime?",
+      "url": "https://open.spotify.com/track/64FUuN6B1v8W3a1hZd0j5m"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs From The Last Century",
-        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 105946,
-      "name": "My Baby Just Cares for Me",
-      "url": "https://open.spotify.com/track/6iu9Pko748wfZbn3COSZe3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 263573,
       "name": "John and Elvis Are Dead",
       "url": "https://open.spotify.com/track/0pavieu1tjZZvUkUDevy7k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 105946,
+      "name": "My Baby Just Cares for Me",
+      "url": "https://open.spotify.com/track/6iu9Pko748wfZbn3COSZe3"
     }
   ],
   "unique_name": "This Is George Michael",

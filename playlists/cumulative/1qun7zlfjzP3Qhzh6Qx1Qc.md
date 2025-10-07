@@ -4,7 +4,7 @@
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs.
 
-505 songs - 1 day 4 hr 7 min
+506 songs - 1 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Here Lies the Fool](https://open.spotify.com/track/0RvDQ5Kp6uI2IAhGZT2V3o) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Here Lies the Fool](https://open.spotify.com/album/3JU7dOvlocukChNhrVrtnj) | 4:12 | 2025-01-24 | 2025-03-29 |
 | [Here To Stay](https://open.spotify.com/track/6I9nTnwUOzb8hHukEoBkeH) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Here To Stay](https://open.spotify.com/album/5jm0SNnhwVAVpOp7AIvCWN) | 3:12 | 2024-04-12 | 2024-05-04 |
 | [Hey Mom I Made It](https://open.spotify.com/track/00YB5b2EVOFz0SuNFP2Swv) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Hey Mom I Made It](https://open.spotify.com/album/3QjNG5uvzA9wIimwWpDy2c) | 2:49 | 2024-04-26 |  |
+| [Hey Mom I Made It](https://open.spotify.com/track/4665QhUjlkWrEjr5JkS8wU) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Woman In The Mirror](https://open.spotify.com/album/269aSTuFbQ4tyn7JhyjUS5) | 2:49 | 2025-10-06 |  |
 | [Hey Mom I Made It \(Piano Version\)](https://open.spotify.com/track/23IoKXf2N9hXGEEnHRDOSO) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [Hey Mom I Made It \(Piano Version\)](https://open.spotify.com/album/4xj2qUH7sJfqwSwk10h290) | 3:01 | 2024-10-18 | 2025-02-01 |
 | [High Hopes \(feat\. Marcus King\)](https://open.spotify.com/track/0cRpS8FK3ulhk8FJfRsuOg) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [High Hopes \(feat\. Marcus King\)](https://open.spotify.com/album/4B2TU5PQf1ZZvmRxgWKf9A) | 3:52 | 2024-08-02 | 2024-11-23 |
 | [High in Your Apartment](https://open.spotify.com/track/5MCJyzjXSfVYx00lY3CfvI) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [The Party Is Over \(recovered\)](https://open.spotify.com/album/6ftz2rq0jacN73sVzOqQs8) | 5:16 | 2025-08-01 |  |

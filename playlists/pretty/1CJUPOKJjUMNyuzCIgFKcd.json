@@ -1,13 +1,93 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 22844,
+  "num_followers": 22840,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAm5w+CunfBUPq3P3+hoqpeDahGWMdI",
+  "snapshot_id": "AAAm8P/ub2Pzu5ET1u8DjfkNo/D2FCCM",
   "tracks": [
+    {
+      "added_at": "2025-10-06 18:03:29",
+      "album": {
+        "name": "Aye Girl",
+        "url": "https://open.spotify.com/album/3g6e5ZEnl1YUFsQE3pI4YL"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 114838,
+      "name": "Aye Girl",
+      "url": "https://open.spotify.com/track/5AtuctYcoqwtmqrgEFIYH9"
+    },
+    {
+      "added_at": "2025-10-06 18:03:42",
+      "album": {
+        "name": "Business Merger",
+        "url": "https://open.spotify.com/album/2GiNskl3pHoXqoy5sSKbbQ"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 217947,
+      "name": "Business Merger",
+      "url": "https://open.spotify.com/track/5B3I3LGIa6AYixY0JXLlk8"
+    },
+    {
+      "added_at": "2025-10-06 18:03:53",
+      "album": {
+        "name": "Midnight in Hawaii 2",
+        "url": "https://open.spotify.com/album/7zXEgBFYTBHZx4tSgOb12m"
+      },
+      "artists": [
+        {
+          "name": "Big Sad 1900",
+          "url": "https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 198694,
+      "name": "Midnight in Hawaii 2",
+      "url": "https://open.spotify.com/track/1oB6gO3603t901nqbZGQxN"
+    },
+    {
+      "added_at": "2025-10-06 18:04:14",
+      "album": {
+        "name": "Chanclas 2",
+        "url": "https://open.spotify.com/album/7rE21cPaKW0KPwKyWWT6nL"
+      },
+      "artists": [
+        {
+          "name": "MRG",
+          "url": "https://open.spotify.com/artist/6eqLAUIm0u7CgcbjX9O5fb"
+        },
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        },
+        {
+          "name": "WhoJiggi",
+          "url": "https://open.spotify.com/artist/65ouxpwU5hVjZ4dJQycQeY"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "Chanclas 2",
+      "url": "https://open.spotify.com/track/7glYVrrw2J8sewmuNh7upK"
+    },
     {
       "added_at": "2025-09-29 20:19:19",
       "album": {

@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Pankaj Udhas
 
-211 songs - 18 hr 52 min
+212 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Is Dil Pe Naaz Tha Mujhe](https://open.spotify.com/track/1LhBqgSGz2URInfLJgdDex) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Shehenshah\-E\-Ghazal Mehdi Hassan](https://open.spotify.com/album/6faBY021EEthCQiSUVyK4w) | 4:47 | 2022-11-09 | 2022-11-13 |
 | [Is Kadar Aap](https://open.spotify.com/track/17Wa63bXPvwp6ebsZ4wND4) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE), [Payam Saeedi](https://open.spotify.com/artist/5LVtMCXokvKh5UIFjVkzKi), [Dr Ashim K Mukherjee](https://open.spotify.com/artist/5RmZ5hmHhvSGJpa2nhoO4h) | [Is Kadar Aap](https://open.spotify.com/album/3kienetTHzkuMoInDjWAnn) | 5:58 | 2024-02-15 | 2024-04-19 |
 | [Is Kadar Aap](https://open.spotify.com/track/2uVSOIZX1e86caQnmB7xNt) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE), [Payam Saeedi](https://open.spotify.com/artist/5LVtMCXokvKh5UIFjVkzKi), [Dr Ashim K Mukherjee](https://open.spotify.com/artist/5RmZ5hmHhvSGJpa2nhoO4h) | [Is Kadar Aap](https://open.spotify.com/album/27sYpj3X5BGEwhZmwZv7d2) | 5:58 | 2023-12-12 | 2025-01-01 |
-| [Is Nahin Ka](https://open.spotify.com/track/0NShVQ20TXqbOtGP3uCh8k) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB) | [Lafzon Ke Darmiyaan](https://open.spotify.com/album/26tlS3PKOEDi6yq6GQIKEE) | 4:34 | 2023-10-16 |  |
+| [Is Nahin Ka](https://open.spotify.com/track/0NShVQ20TXqbOtGP3uCh8k) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB) | [Lafzon Ke Darmiyaan](https://open.spotify.com/album/26tlS3PKOEDi6yq6GQIKEE) | 4:34 | 2023-10-16 | 2025-10-07 |
 | [Ishq mein aalaa](https://open.spotify.com/track/2aFHX0cbXZyy6U0zy3G87s) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [Ishq mein aalaa](https://open.spotify.com/album/60389M2luybJW1gWNTdj8r) | 4:04 | 2024-02-09 | 2024-03-06 |
 | [Ishq mein aalaa](https://open.spotify.com/track/7uTc5irHc0RRnqj1Y7usEJ) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [Ishq mein aalaa](https://open.spotify.com/album/1UwwcjWPAyyiNnQG4FvsZC) | 4:04 | 2023-04-18 | 2024-02-14 |
 | [Ishqe Noo Ched Na Bethi](https://open.spotify.com/track/0zFdmEPDnsVO8bmLzmFdBr) | [Ravi Bal](https://open.spotify.com/artist/6j4Mc2MEM58arm0WwHTu5N) | [Enigma](https://open.spotify.com/album/1Bv3r9OPFzsS875nQIrx5R) | 6:43 | 2022-07-26 | 2023-08-23 |
@@ -171,6 +171,7 @@
 | [Rang Rasiya \- Film Version](https://open.spotify.com/track/3JwTaFbO6HlMFyD0UvEtOM) | [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Mahima Bhardwaj](https://open.spotify.com/artist/256cbupySWagIEHWcArnNf), [Shashi Suman](https://open.spotify.com/artist/3RDOiwcPufckpVDe8iAt94) | [Safed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7AfF3Yos8Gx1YYyws9zzq6) | 8:54 | 2023-12-12 |  |
 | [Rangrasiya](https://open.spotify.com/track/4yEkt1sfM6qziBykSESn7W) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Hopun Saikia](https://open.spotify.com/artist/427lOJJUkRWgIZYpcUKKwN) | [Rangrasiya](https://open.spotify.com/album/4EM5UkaNoCKB0seUaorGgq) | 4:21 | 2024-04-22 |  |
 | [Ranjish Hi Sahi](https://open.spotify.com/track/4t2sMBajRuSKudtieXPgPp) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 5:36 | 2024-03-05 | 2025-06-18 |
+| [Ranjish Hi Sahi](https://open.spotify.com/track/4n9A2E7RxxhRGq5GgHBSKy) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc), [Sanjeevani Bhelande](https://open.spotify.com/artist/58MHqzMYj4y4hs53HGz7zF) | [Ranjish Hi Sahi](https://open.spotify.com/album/7uwf4PieYvZPO7ng4KbPk1) | 6:36 | 2025-09-15 |  |
 | [Ranjish Hi Sahi Dil Hi Dukhane Ke Liye](https://open.spotify.com/track/4NbG28kd9gYQHnNbF5Hsjd) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Mehdi Hassan \- Greatest Ghazals](https://open.spotify.com/album/6msMzk74VrVotyZfgwb8np) | 12:12 | 2021-12-01 | 2023-05-16 |
 | [Rasm \-E\- Ulfat Sikha Gaya Koi](https://open.spotify.com/track/6IGwyk06551osZprqKSJPk) | [Begum Akhtar](https://open.spotify.com/artist/2s5kwiBL19Iw2PnrJ6vYDf) | [Begum Akhtar](https://open.spotify.com/album/1DSPkSkvEe1TyrtXHvkkGo) | 3:53 | 2021-12-01 | 2023-03-03 |
 | [Ravi](https://open.spotify.com/track/0sT56zcByY6pW1EQcNDCla) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD) | [Ravi](https://open.spotify.com/album/3rI0HlLjnNxqywLJsu7VTr) | 3:49 | 2023-03-20 |  |

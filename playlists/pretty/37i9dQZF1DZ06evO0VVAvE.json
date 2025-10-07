@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 6850,
+  "num_followers": 6865,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOBjgAAAAAAdsqOW3ExBEbf98SGBvgo1",
+  "snapshot_id": "aOG1AAAAAAAFwAf9SWR6W/VPmnBv4Asv",
   "tracks": [
     {
       "added_at": null,
@@ -131,18 +131,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fresh Prince Of Lagos",
-        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
+        "name": "Sanity",
+        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
       },
       "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 227239,
-      "name": "Gbedu",
-      "url": "https://open.spotify.com/track/2s8ccek0lQmwQOTB3aKh6V"
+      "duration_ms": 141674,
+      "name": "Run from God",
+      "url": "https://open.spotify.com/track/6mQ1sg28qoWd5Oa5dxzaZX"
     },
     {
       "added_at": null,
@@ -179,6 +183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Fresh Prince Of Lagos",
+        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 227239,
+      "name": "Gbedu",
+      "url": "https://open.spotify.com/track/2s8ccek0lQmwQOTB3aKh6V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dangerous Wavy Baby",
         "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
       },
@@ -191,22 +211,6 @@
       "duration_ms": 144065,
       "name": "Wire",
       "url": "https://open.spotify.com/track/3IvE1iyRbBProcJDsHBsnH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Fresh Prince Of Lagos",
-        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 133773,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/5oMNkVjx1SEKvSUhL9It75"
     },
     {
       "added_at": null,
@@ -243,6 +247,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Fresh Prince Of Lagos",
+        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 133773,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/5oMNkVjx1SEKvSUhL9It75"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Major",
         "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
       },
@@ -255,26 +275,6 @@
       "duration_ms": 131364,
       "name": "My Life",
       "url": "https://open.spotify.com/track/5pmuDpn0aIzw8mjJBUWUsv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sanity",
-        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 141674,
-      "name": "Run from God",
-      "url": "https://open.spotify.com/track/6mQ1sg28qoWd5Oa5dxzaZX"
     },
     {
       "added_at": null,
@@ -584,13 +584,13 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         },
         {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 164571,
-      "name": "Play (feat. Fave)",
-      "url": "https://open.spotify.com/track/4xPlMmtY9OD2wbvaK11FjO"
+      "duration_ms": 144552,
+      "name": "Alone (feat. Bella Shmurda)",
+      "url": "https://open.spotify.com/track/6Vnic3NfaQH8Mmfzf5fGFE"
     },
     {
       "added_at": null,
@@ -668,13 +668,13 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         },
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 144552,
-      "name": "Alone (feat. Bella Shmurda)",
-      "url": "https://open.spotify.com/track/6Vnic3NfaQH8Mmfzf5fGFE"
+      "duration_ms": 164571,
+      "name": "Play (feat. Fave)",
+      "url": "https://open.spotify.com/track/4xPlMmtY9OD2wbvaK11FjO"
     },
     {
       "added_at": null,
@@ -735,26 +735,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "S.O.T.P ( Sauce of the Party )",
-        "url": "https://open.spotify.com/album/5Je5R1uBy6QFNgPonxEi0M"
+        "name": "Never Stop Vol. 1",
+        "url": "https://open.spotify.com/album/45fYE42AOHnBxsOFcKSoxw"
       },
       "artists": [
         {
-          "name": "G.O.E",
-          "url": "https://open.spotify.com/artist/4MVPDEBLiF4b01hDW6Qzo9"
+          "name": "PaBrymo",
+          "url": "https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk"
         },
         {
-          "name": "Temadey",
-          "url": "https://open.spotify.com/artist/655vDDQSEnUaFqWzWqBaEv"
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
         },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 170826,
-      "name": "S.O.T.P ( Sauce of the Party )",
-      "url": "https://open.spotify.com/track/1FCIG90E4Oz19ogY2sXBxp"
+      "duration_ms": 149786,
+      "name": "Overload (Kala)",
+      "url": "https://open.spotify.com/track/6pHH6JsPF4OoQBqk7aNcQa"
     },
     {
       "added_at": null,
@@ -779,26 +779,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Stop Vol. 1",
-        "url": "https://open.spotify.com/album/45fYE42AOHnBxsOFcKSoxw"
+        "name": "S.O.T.P ( Sauce of the Party )",
+        "url": "https://open.spotify.com/album/5Je5R1uBy6QFNgPonxEi0M"
       },
       "artists": [
         {
-          "name": "PaBrymo",
-          "url": "https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk"
+          "name": "G.O.E",
+          "url": "https://open.spotify.com/artist/4MVPDEBLiF4b01hDW6Qzo9"
         },
         {
-          "name": "Rexxie",
-          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+          "name": "Temadey",
+          "url": "https://open.spotify.com/artist/655vDDQSEnUaFqWzWqBaEv"
         },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 149786,
-      "name": "Overload (Kala)",
-      "url": "https://open.spotify.com/track/6pHH6JsPF4OoQBqk7aNcQa"
+      "duration_ms": 170826,
+      "name": "S.O.T.P ( Sauce of the Party )",
+      "url": "https://open.spotify.com/track/1FCIG90E4Oz19ogY2sXBxp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jogo (feat. Boss6man) [speed up]",
+        "url": "https://open.spotify.com/album/1GXjJ8RVyVabZpRPyQJkjy"
+      },
+      "artists": [
+        {
+          "name": "maskiking",
+          "url": "https://open.spotify.com/artist/4935TUbJvVDvF0ciKIgWf0"
+        },
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "PaBrymo",
+          "url": "https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk"
+        },
+        {
+          "name": "Boss6man",
+          "url": "https://open.spotify.com/artist/2MpxgoxOjts3AjYXUBcT8V"
+        }
+      ],
+      "duration_ms": 139086,
+      "name": "Jogo (feat. Boss6man) - speed up",
+      "url": "https://open.spotify.com/track/1wSlKkVlDVVmH55siiWl1q"
     },
     {
       "added_at": null,

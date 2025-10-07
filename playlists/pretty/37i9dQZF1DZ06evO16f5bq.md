@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 
 > This is MC Cabelinho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,730 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,733 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 | 35 | [FUI](https://open.spotify.com/track/0F0bSpQoHvA2UmbbT2VRGL) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [ÊXTASE](https://open.spotify.com/album/0bWyQxzGtZ4QV3H6GF8xhF) | 3:58 |
 | 36 | [VALHO NADA](https://open.spotify.com/track/18XOY618zQH4bFw3TgVT9L) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Vinicin](https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G), [Amorim](https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a), [A.R](https://open.spotify.com/artist/7KEZl3nvHOJaaLZUo1wLwc), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp), [Felipe Rosa](https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N), [Brutos](https://open.spotify.com/artist/3Og0gjJyLFUdqIYzXxq6T6), [Bairro 13](https://open.spotify.com/artist/2ippo8G3HMB1qEEJvkj8PT) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 3:37 |
 | 37 | [NA ONDA](https://open.spotify.com/track/4IavDOfEOKg8zzdfCx9TmJ) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [AJ Wav](https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8) | [MUITA ONDA](https://open.spotify.com/album/2WMPOyfjd59nxbXmLlo4n4) | 2:30 |
-| 38 | [nssmnsb](https://open.spotify.com/track/2JQnJDm11xI1aPDydn5qIN) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Não Sou Santo Mas Não Sou Bandido](https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml) | 3:07 |
-| 39 | [Carro Forte](https://open.spotify.com/track/1TL33F4bcT9fZPSqvUbFV5) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Dono das Esquinas](https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK) | 4:00 |
+| 38 | [Carro Forte](https://open.spotify.com/track/1TL33F4bcT9fZPSqvUbFV5) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Dono das Esquinas](https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK) | 4:00 |
+| 39 | [nssmnsb](https://open.spotify.com/track/2JQnJDm11xI1aPDydn5qIN) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Não Sou Santo Mas Não Sou Bandido](https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml) | 3:07 |
 | 40 | [GOTHAM](https://open.spotify.com/track/415dld79DDW9drRA3luAqf) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 2:50 |
 | 41 | [carta aberta](https://open.spotify.com/track/4VI4yOAb7fWrFCnuGBIaeG) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [carta aberta](https://open.spotify.com/album/7yGXpufcJyZEZ5fcyv2NGq) | 4:22 |
 | 42 | [Blindado por Deus](https://open.spotify.com/track/4O1JF5Yngbc9jc7doenL4n) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Confia: Sonho de Cria \- Trilha Sonora](https://open.spotify.com/album/7hK2s7g8yU1a8ULW4AuVBf) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 | 49 | [acabou o amor](https://open.spotify.com/track/3TuJODOhChHkg1pbMQ8RW4) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Não Sou Santo Mas Não Sou Bandido](https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml) | 3:03 |
 | 50 | [VOCÊ&EU](https://open.spotify.com/track/3lF4NH7uy1rRMHvmmK99TX) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 3:18 |
 
-Snapshot ID: `aOBjgAAAAAAi6erIxOZcpxJJ2bq4h/6c`
+Snapshot ID: `aOG1AAAAAAAwI4T6rnF5lHHYlH0Jhb+l`

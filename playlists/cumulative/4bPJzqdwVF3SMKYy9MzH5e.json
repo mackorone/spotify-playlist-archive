@@ -31801,6 +31801,24 @@
     },
     {
       "album": {
+        "name": "White Pony",
+        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268026,
+      "name": "Rx Queen",
+      "url": "https://open.spotify.com/track/6HgrJfzfj9WRBABdussy8z"
+    },
+    {
+      "album": {
         "name": "Public Void",
         "url": "https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g"
       },

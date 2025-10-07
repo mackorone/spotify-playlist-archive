@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 60625,
+  "num_followers": 60678,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOBjgAAAAACrL1QNSpMryvOmJd3o7cvu",
+  "snapshot_id": "aOG1AAAAAABf2DutyltJmEaNsfXJanJm",
   "tracks": [
     {
       "added_at": null,
@@ -23,26 +23,6 @@
       "duration_ms": 220558,
       "name": "Worst Way",
       "url": "https://open.spotify.com/track/1osfLqL6L2iQsirRf83ded"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where We Started",
-        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 183026,
-      "name": "Half Of Me",
-      "url": "https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv"
     },
     {
       "added_at": null,
@@ -171,6 +151,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Where We Started",
+        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 183026,
+      "name": "Half Of Me",
+      "url": "https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Way Out Here",
         "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
       },
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hell Of A Way To Go",
-        "url": "https://open.spotify.com/album/3RxpA45wGZ0WxTWqTozgGf"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 166133,
-      "name": "Hell Of A Way To Go",
-      "url": "https://open.spotify.com/track/4vfTyv3PkLAac4zTn5P82d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Different 'Round Here",
         "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 250413,
       "name": "I Wish Grandpas Never Died",
       "url": "https://open.spotify.com/track/7Dxes6VnfbZYV0S2QTnVuT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hell Of A Way To Go",
+        "url": "https://open.spotify.com/album/3RxpA45wGZ0WxTWqTozgGf"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 166133,
+      "name": "Hell Of A Way To Go",
+      "url": "https://open.spotify.com/track/4vfTyv3PkLAac4zTn5P82d"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If It Wasn't For Trucks (Big Machine Radio Release Special)",
-        "url": "https://open.spotify.com/album/25BFs1sFMT7yn0MUTTdphp"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 183560,
-      "name": "Jesus And Wranglers",
-      "url": "https://open.spotify.com/track/5anbo4JjAPHa8UbEmRls05"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue In The Sky",
         "url": "https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 181626,
       "name": "Huntin' Land (feat. Riley Green)",
       "url": "https://open.spotify.com/track/6rQvX1oNRAS3p3tyKJpTUl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If It Wasn't For Trucks (Big Machine Radio Release Special)",
+        "url": "https://open.spotify.com/album/25BFs1sFMT7yn0MUTTdphp"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 183560,
+      "name": "Jesus And Wranglers",
+      "url": "https://open.spotify.com/track/5anbo4JjAPHa8UbEmRls05"
     },
     {
       "added_at": null,

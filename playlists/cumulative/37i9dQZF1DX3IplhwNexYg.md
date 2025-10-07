@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Phantastic Ferniture
 
-795 songs - 1 day 21 hr 11 min
+797 songs - 1 day 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Elephant](https://open.spotify.com/track/6eIoIF1c8zjyKg7Yk5n8pA) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [Elephant](https://open.spotify.com/album/0PGtSQPXJc2iZtDcOgiied) | 4:05 | 2024-12-06 | 2025-06-07 |
 | [Empty Words](https://open.spotify.com/track/1wCeYLO97jxvaSpihs5JpT) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Empty Words](https://open.spotify.com/album/3qA0YD7inXnMoZySJcSK2Y) | 2:49 | 2025-03-27 |  |
 | [End of the World](https://open.spotify.com/track/3kMn5466igLcIipucTOrSt) | [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [End of the World](https://open.spotify.com/album/14DWK40JwAG6to2t1KpEGK) | 4:15 | 2022-10-13 | 2022-11-18 |
+| [ENDLESS DEATHLESS](https://open.spotify.com/track/6TmdbHXUuwNbO7gOeuRmVG) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [ENDLESS DEATHLESS](https://open.spotify.com/album/6tY1OSYObW3x7KAjOXYSeW) | 4:11 | 2025-10-03 |  |
 | [Entertainer](https://open.spotify.com/track/2MTGcrlm3vnMdzlgS2eKe8) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Safe](https://open.spotify.com/album/3642b765vQWRQXzDyoPItp) | 3:23 | 2025-05-01 |  |
 | [Ethel](https://open.spotify.com/track/0Gm0CzFZ5fh9Rt7jSRIrAv) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Ethel](https://open.spotify.com/album/01HODAvgMBD2gvWPkz4G5y) | 4:29 | 2022-11-18 | 2023-02-10 |
 | [Everybody's Saying Thursday's The Weekend](https://open.spotify.com/track/1uK65VcfQeZ6cPxnUm0TCv) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Everybody's Saying Thursday's The Weekend](https://open.spotify.com/album/4S0L38drU7rEOg4KzvN5lY) | 3:04 | 2022-10-21 | 2023-07-16 |
@@ -340,6 +341,7 @@
 | [How to Hold a Knife](https://open.spotify.com/track/0X09CrNSf6i0OWSVqU3RT0) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [How to Hold a Knife](https://open.spotify.com/album/0PQLyt9P4Qi94KgwTnsvcH) | 2:56 | 2023-09-29 | 2023-11-29 |
 | [how would you know](https://open.spotify.com/track/6kH4hgCLFiVuP9JVQnAucy) | [second thoughts](https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX) | [how would you know](https://open.spotify.com/album/34ChaoZSb0SXAjY07xKJbr) | 2:57 | 2022-11-25 | 2023-05-19 |
 | [Hurt You](https://open.spotify.com/track/1pxLVdC8sjLDA2DF3uOEuW) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Hurt You](https://open.spotify.com/album/6dbhEjyUna0Ts040kPrM8t) | 3:55 | 2022-10-06 | 2023-04-11 |
+| [I Don't Have The Heart](https://open.spotify.com/track/5UmizVFS7HYrVBr6CCPjtN) | [Sharp Pins](https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN) | [I Don't Have The Heart](https://open.spotify.com/album/6d1G4Q53sFptIqszXlgTxq) | 2:31 | 2025-10-03 |  |
 | [I Feel So Cold But It's Warm Outside](https://open.spotify.com/track/7jAQxWVBVAuKmVjlERODpc) | [Baby Strange](https://open.spotify.com/artist/0rOadSgjgHpAXqcEq4D0xS) | [World Below](https://open.spotify.com/album/0rxXVzueM7PnAjecoPYg2i) | 2:54 | 2022-08-18 | 2023-01-13 |
 | [I Know You Care](https://open.spotify.com/track/4ziLKM9jCpEwoJLX7BYwJ1) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [I Know You Care](https://open.spotify.com/album/6NgYnPGDqniGXCXTnAbJ3t) | 3:08 | 2022-11-25 | 2023-01-22 |
 | [I Lied, Amber](https://open.spotify.com/track/3aJShMWzA2RAM7knX50XmG) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [I Lied, Amber](https://open.spotify.com/album/26D33v9Xg1x2UrNQL9gi8p) | 3:31 | 2025-03-27 |  |
@@ -545,7 +547,7 @@
 | [Poor Boy](https://open.spotify.com/track/4hTctq4PxrW9qrX1tCDdTR) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Poor Boy](https://open.spotify.com/album/7iu5xANwikkcwdOjY2WeiB) | 3:15 | 2021-03-09 | 2022-01-17 |
 | [Popular \(feat\. Matthew Caws of Nada Surf\)](https://open.spotify.com/track/5ppPV0hCtwt5TMTKF1xY57) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs), [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy), [Matthew Caws](https://open.spotify.com/artist/2euOhDrnToDMpxBiCPf72Z) | [Popular \(feat\. Matthew Caws of Nada Surf\)](https://open.spotify.com/album/7nvPKeZxfHFgbKTrRWqvCo) | 3:26 | 2022-01-17 | 2022-08-19 |
 | [Portrait of a Blank Slate](https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Wake Up & It's Over](https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr) | 3:47 | 2023-05-18 | 2025-03-28 |
-| [Portsmouth Raceway](https://open.spotify.com/track/06GLV6gWiFa4eYQ2pa5Pb7) | [villagerrr](https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5) | [Portsmouth Raceway](https://open.spotify.com/album/2PzSVCyVb86aNSMHkyB2Qb) | 4:18 | 2025-09-12 |  |
+| [Portsmouth Raceway](https://open.spotify.com/track/06GLV6gWiFa4eYQ2pa5Pb7) | [villagerrr](https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5) | [Portsmouth Raceway](https://open.spotify.com/album/2PzSVCyVb86aNSMHkyB2Qb) | 4:18 | 2025-09-12 | 2025-10-07 |
 | [Praise You](https://open.spotify.com/track/5zFlp5CJqy3NPOYF1FXEYF) | [Afflecks Palace](https://open.spotify.com/artist/4IPPxhNko81s8pZsgyYhYW) | [Praise You](https://open.spotify.com/album/0FLyhyx0Ui5m8esZnPE6Qi) | 3:10 | 2022-08-18 | 2022-11-18 |
 | [Prep\-School Gangsters](https://open.spotify.com/track/0NiaHPlgDp7081zSqXuULS) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 3:48 | 2024-05-16 |  |
 | [Pretty](https://open.spotify.com/track/5BvulJDF5EpO5Yjs3bpjEd) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Pretty](https://open.spotify.com/album/5Zqf3BZV2oAUqF3qyzJxi3) | 3:23 | 2025-08-08 |  |
@@ -580,7 +582,7 @@
 | [Roman Holiday](https://open.spotify.com/track/4IqBIufFMOV1sSYhzIPDoj) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH) | 4:28 | 2022-08-18 | 2023-09-03 |
 | [Roman Holiday](https://open.spotify.com/track/7MWIc6p9uOACLHGzzP9On7) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S) | 4:28 | 2023-08-17 | 2025-03-28 |
 | [Run Run Run](https://open.spotify.com/track/08SkuBh4lrdQTthEc3J1kN) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Run Run Run](https://open.spotify.com/album/6hV5hdmEp1eMTTBeeAiC0K) | 2:53 | 2023-10-13 | 2025-02-21 |
-| [Salesman](https://open.spotify.com/track/7nB2NixYWzPiIKjNwaDbJG) | [Greg Freeman](https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ) | [Salesman](https://open.spotify.com/album/1VNPxU0B6SpzxhWxC5p8Oa) | 3:42 | 2025-09-01 |  |
+| [Salesman](https://open.spotify.com/track/7nB2NixYWzPiIKjNwaDbJG) | [Greg Freeman](https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ) | [Salesman](https://open.spotify.com/album/1VNPxU0B6SpzxhWxC5p8Oa) | 3:42 | 2025-09-01 | 2025-10-07 |
 | [Salt](https://open.spotify.com/track/0KbMVWAxdxV1KYWqjGd0ey) | [Egyptian Blue](https://open.spotify.com/artist/3IW8WBsi0vGrcdMNsXS6Bi) | [Salt](https://open.spotify.com/album/2XzP8cHUnafrR7zgBdbn3t) | 3:24 | 2022-01-17 | 2022-09-02 |
 | [Same Thing](https://open.spotify.com/track/1IPqkeBkpSXFwKPMyMNLV6) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [Same Thing](https://open.spotify.com/album/7LMss2uXAre6SMuq2yAXtT) | 3:24 | 2022-08-18 | 2022-09-30 |
 | [Saturn](https://open.spotify.com/track/31FslokX6FqQWVHIaVy4hY) | [Ghum](https://open.spotify.com/artist/41yzFXg6iuyDfw0PYviMHs) | [The Coldest Fire](https://open.spotify.com/album/7jZmxRxG89gyfb5W0beTdW) | 3:52 | 2021-03-09 | 2022-01-17 |

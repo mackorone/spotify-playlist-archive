@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > From the continent to the islands with Fireboy DML\. 🇳🇬
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,423 likes - 65 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,446 likes - 65 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Nieuwe tijdloze muziek: The Indien & Marcel van Veenendaal \(cover\), RAYE, Olivia Dean en meer
 
-737 songs - 1 day 18 hr 59 min
+738 songs - 1 day 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [Me Before You](https://open.spotify.com/track/1S4sLPFxkgMTOui1W4GN72) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Me Before You](https://open.spotify.com/album/4hElKzCyDVbddwxZe4f9jb) | 3:35 | 2024-06-20 | 2024-10-04 |
 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 | 2024-12-20 | 2025-03-14 |
 | [Melancholy Rain](https://open.spotify.com/track/7bCYUO2k83VMK0yWIeyYPw) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Melancholy Rain](https://open.spotify.com/album/18zEVRFEE4NOr4VwgWTh6m) | 3:18 | 2023-02-23 | 2023-06-09 |
+| [Melodies \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/2zCQq1vH3QCPfPtrnxIxyK) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Melodies \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/30s9hkl9YEZDeQkl2dyV8c) | 2:37 | 2025-10-06 |  |
 | [Mess It Up](https://open.spotify.com/track/0Ag6LNrSfJVKRhGzD7ArDq) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 4:03 | 2023-10-20 | 2024-04-26 |
 | [Met Jou Kan Ik Het Aan](https://open.spotify.com/track/6Zdqcxtwx0TwkXhs7LwIru) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Met Jou Kan Ik Het Aan](https://open.spotify.com/album/1h0e3xS9fYiZ3v1zx2HLU2) | 4:03 | 2023-02-23 | 2023-05-05 |
 | [Money In My Head](https://open.spotify.com/track/4ndeAoy1m2FzBiASupmnNX) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Something Out Of Nothing](https://open.spotify.com/album/52avYCo20BfLgGk50FvyRW) | 3:08 | 2024-01-11 | 2024-05-25 |
@@ -554,7 +555,7 @@
 | [Something About It](https://open.spotify.com/track/6YNCKtSjrRBmeJglRNK6Yn) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Something About It](https://open.spotify.com/album/3J89YUZ9n0PZKs0wcVvwqd) | 3:20 | 2024-01-25 | 2024-06-01 |
 | [Something Better](https://open.spotify.com/track/1pOT0avfCCTWJhreZjoHFm) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Something Better](https://open.spotify.com/album/19ynUn8XBbyJEhspOGhNrB) | 3:31 | 2024-05-24 | 2024-07-30 |
 | [Something Better](https://open.spotify.com/track/1PXiU7yaE1iAhz8XyqhJaK) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Something Better](https://open.spotify.com/album/1Y7rc1h1p9vn5TDRnbIiw0) | 3:23 | 2025-09-08 |  |
-| [Something Over Nothing](https://open.spotify.com/track/5Y9wKu4rpLD7tNsLbmNlz7) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Something Over Nothing](https://open.spotify.com/album/2pOY3OgmYl5KRShgb9r2Pu) | 3:03 | 2025-06-05 |  |
+| [Something Over Nothing](https://open.spotify.com/track/5Y9wKu4rpLD7tNsLbmNlz7) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Something Over Nothing](https://open.spotify.com/album/2pOY3OgmYl5KRShgb9r2Pu) | 3:03 | 2025-06-05 | 2025-10-07 |
 | [Sooner Or Later](https://open.spotify.com/track/2G3IHfidz4PpQ5OBw405y4) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Tasha's World](https://open.spotify.com/artist/0s826k2Yy9FVmxhFsOAQoF) | [Our Time Our Music](https://open.spotify.com/album/6Us1exWgXEYOBrmKGacJwi) | 5:20 | 2023-02-23 | 2023-03-11 |
 | [Speak To Me](https://open.spotify.com/track/1E568TomvGi3FW7NvePXvp) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Speak To Me](https://open.spotify.com/album/3Vbtd1YjWlCO19z2mlfhVs) | 4:19 | 2025-09-30 |  |
 | [Special \(feat\. SZA\)](https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Special \(feat\. SZA\)](https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O) | 2:54 | 2023-02-23 | 2023-07-21 |

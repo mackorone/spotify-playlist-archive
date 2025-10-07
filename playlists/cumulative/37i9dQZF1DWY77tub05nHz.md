@@ -4,7 +4,7 @@
 
 > Vos enfants les connaissent par coeur\. Et vous ?
 
-48 songs - 1 hr 30 min
+49 songs - 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Au clair de la lune](https://open.spotify.com/track/6E14dSMovFtYP7E74yBtqR) | [Comptines TV](https://open.spotify.com/artist/4JkJK4qLTiechJHxxIP2nb) | [Comptines TV](https://open.spotify.com/album/0sCADlgXflIDQLaT5dpln9) | 1:57 | 2022-02-18 |  |
 | [Au clair de la lune](https://open.spotify.com/track/5qnOQ1d8Ori0JOc3Vb1H4h) | [Comptines TV](https://open.spotify.com/artist/4JkJK4qLTiechJHxxIP2nb), [Aurélia Izarn\-Berger](https://open.spotify.com/artist/5KosdkswvXY1dH6bSn8eyV), [Stéphane Gilet](https://open.spotify.com/artist/0P3qheVkfg3vNp4Esri8Mf) | [Comptines TV](https://open.spotify.com/album/1WvyfJ3rEHw7GM2whNJqqz) | 1:57 | 2022-02-18 | 2024-04-19 |
 | [Bateau sur l'eau](https://open.spotify.com/track/5pj9Q5s4kRZrKxEHcQth3e) | [La Reine des chansons pour enfants et bébés](https://open.spotify.com/artist/38LDl2oddqYUi1eEE1uw2Q) | [40 Comptines pour enfants et bébés](https://open.spotify.com/album/3l8djzquzOn7WXIL1l7bFx) | 1:26 | 2022-02-18 |  |
+| [Dans la ferme de Mathurin \(feat\. Thomas Dutronc\)](https://open.spotify.com/track/3aybFCsPEwXrqmq5UGCBWt) | [Les plus belles comptines d'Okoo](https://open.spotify.com/artist/2jhOKo1SElusbD4jKMoABk), [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz) | [Dans la ferme de Mathurin \(feat\. Thomas Dutronc\)](https://open.spotify.com/album/5GaX1VImYS5VYn69wlGXzV) | 2:36 | 2025-10-06 |  |
 | [Dans la forêt lointaine \(coucou hibou\) \- Les plus belles comptines d'Okoo \(Volume 2\)](https://open.spotify.com/track/4wG4iIr5BCHbuGAM9WGHzB) | [Les plus belles comptines d'Okoo](https://open.spotify.com/artist/2jhOKo1SElusbD4jKMoABk), [Cali](https://open.spotify.com/artist/1ULXG4gd6YSvdjuFBJ6sAA) | [Les plus belles comptines d'Okoo \(Volume 2\)](https://open.spotify.com/album/7Lw29n2TRYabizEdsddlsF) | 2:01 | 2022-02-18 |  |
 | [Dans sa maison un grand cerf \- Les plus belles comptines d'Okoo](https://open.spotify.com/track/2dyJKZyoxTE6FiCbBzw6lX) | [Kad Merad](https://open.spotify.com/artist/7HSntKvALIoZ48jXpBXWT8), [Nolwenn Leroy](https://open.spotify.com/artist/6suRVbMTiFWlTpB6fdLdF2) | [Les plus belles comptines d'Okoo](https://open.spotify.com/album/73rdKrKBXqKV17QpOC9Mck) | 3:01 | 2022-02-18 |  |
 | [Dans sa maison un grand cerf \- Les plus belles comptines d'Okoo](https://open.spotify.com/track/5VlNJRsRhXGGxVqdMYGILd) | [Kad Merad](https://open.spotify.com/artist/7HSntKvALIoZ48jXpBXWT8), [Nolwenn Leroy](https://open.spotify.com/artist/6suRVbMTiFWlTpB6fdLdF2) | [Dans sa maison un grand cerf \(Les plus belles comptines d'Okoo\)](https://open.spotify.com/album/7sVKIIkUq1ANcWZBMHaTZB) | 3:01 | 2022-02-18 | 2024-04-19 |

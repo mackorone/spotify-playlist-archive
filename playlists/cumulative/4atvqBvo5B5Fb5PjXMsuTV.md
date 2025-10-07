@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 05 Oct 18:05 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 07 Oct 22:06 UTC.
 
-5,617 songs - 13 day 0 hr 57 min
+5,618 songs - 13 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -618,7 +618,7 @@
 | [Blood Stain III](https://open.spotify.com/track/7c0ubUKwwvizttVNEV1RMC) | [Consequence](https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT) | [Blood Stain III](https://open.spotify.com/album/4KGprmtLUCPLdGaAuZnJgY) | 4:52 | 2024-12-06 | 2024-12-08 |
 | [Blood Sweat & Tears \(from the series Arcane League of Legends\)](https://open.spotify.com/track/32aBLFuInDNhtJ6jogN6ln) | [Sheryl Lee Ralph](https://open.spotify.com/artist/5lk4LfEWbYyP9nnE8v574Y) | [Blood Sweat & Tears \(from the series Arcane League of Legends\)](https://open.spotify.com/album/2AjywCFiqJOmviUYTkkIiY) | 3:42 | 2024-10-28 | 2024-10-31 |
 | [Blood Upon The Ashes](https://open.spotify.com/track/6gj0BlbkoBTW4ZVmHCciLd) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Blood Upon The Ashes](https://open.spotify.com/album/24BF7eMmRX9P6ngEmMltZx) | 3:44 | 2025-06-06 | 2025-06-14 |
-| [Bloodlust](https://open.spotify.com/track/0EJ9cdzNwraAU0yzwGL2ZE) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Bloodlust](https://open.spotify.com/album/0bgNfjHXv1wHZjvoRlLA0D) | 3:29 | 2025-09-26 |  |
+| [Bloodlust](https://open.spotify.com/track/0EJ9cdzNwraAU0yzwGL2ZE) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Bloodlust](https://open.spotify.com/album/0bgNfjHXv1wHZjvoRlLA0D) | 3:29 | 2025-09-26 | 2025-10-07 |
 | [Bloodsport](https://open.spotify.com/track/7f5CKG6ztLKCZ6k7GTTl2k) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Bloodsport](https://open.spotify.com/album/7JoCjEqK2Lc9OJiqNNv6q9) | 3:53 | 2025-03-21 | 2025-03-28 |
 | [Bloom](https://open.spotify.com/track/35KkZrQ5r4NpHYuoLUT0VI) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Bloom](https://open.spotify.com/album/6HEq0bWaLaL9vFSEiYjqpU) | 2:28 | 2024-08-16 | 2024-08-22 |
 | [Bloom Baby Bloom](https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8) | 3:47 | 2025-05-15 | 2025-05-24 |
@@ -3399,6 +3399,7 @@
 | [No Front Teeth](https://open.spotify.com/track/4x67Z1GnOLpU2kkcoKfQuB) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [No Front Teeth](https://open.spotify.com/album/4faIj68HrgoUfU3YHdZ4PI) | 4:46 | 2025-02-19 | 2025-03-01 |
 | [no handouts](https://open.spotify.com/track/1H2GeUnbxXPWWxp8LOPhU2) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [no handouts](https://open.spotify.com/album/2bzSefCt33Qj2yhqafCfz8) | 2:05 | 2024-10-31 | 2024-11-02 |
 | [No Handouts](https://open.spotify.com/track/0cGxqzaOlgt44I0vqved0U) | [RXKNephew](https://open.spotify.com/artist/5fLSo9mAFFDtAJDo3Q2xcT) | [No Handouts](https://open.spotify.com/album/4WVpwTiPEasugKLEZnSrpY) | 2:08 | 2024-05-18 | 2024-05-22 |
+| [No Hook](https://open.spotify.com/track/3fnSwxGG89Ie0UIShlGDZu) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [No Hook](https://open.spotify.com/album/1fTmm1TTz7xYleFzvOwzTt) | 4:14 | 2025-10-06 |  |
 | [NO HOSTAGES](https://open.spotify.com/track/1JKl8OJifNb8TKABeeDi7F) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [NO HOSTAGES](https://open.spotify.com/album/4EHZn3KXmNfXDQqE8BU4AO) | 3:03 | 2024-08-15 | 2024-08-17 |
 | [NO ICE](https://open.spotify.com/track/7jpJGaSJhEEwpX45SqFdXg) | [Z\-Ro](https://open.spotify.com/artist/6MrdwyCIKbpXmTKQBlG3uq) | [NO ICE](https://open.spotify.com/album/1btboxBhDp7DvlW39EAC16) | 3:48 | 2024-11-08 | 2024-11-14 |
 | [No Loss, No Love](https://open.spotify.com/track/3be9lEoOwbDROZViutmSgd) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [No Loss, No Love](https://open.spotify.com/album/7BhHSUylWCFLbOahXAn74K) | 2:56 | 2025-02-07 | 2025-02-15 |

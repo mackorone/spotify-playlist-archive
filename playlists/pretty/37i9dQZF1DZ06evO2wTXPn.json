@@ -1,12 +1,12 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 31715,
+  "num_followers": 31718,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOBjgAAAAAC1FrifShtJXbTBnfVpsF95",
+  "snapshot_id": "aOG1AAAAAAAkVmUdy7cS0mD4ZVzCZ1j8",
   "tracks": [
     {
       "added_at": null,
@@ -175,38 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diosa",
-        "url": "https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 186333,
-      "name": "Diosa",
-      "url": "https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 167960,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/0QvIVwQqVzEkZbo6cO5LES"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tengo",
         "url": "https://open.spotify.com/album/6uq8cwuvPvPSYp3rjriBQ9"
       },
@@ -227,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Medio De Este Ruido",
-        "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
       },
       "artists": [
         {
@@ -236,9 +204,9 @@
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 252560,
-      "name": "Se Fuerte Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6d9NFWpK97HEqAnE5tsnZw"
+      "duration_ms": 167960,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0QvIVwQqVzEkZbo6cO5LES"
     },
     {
       "added_at": null,
@@ -259,6 +227,38 @@
       "duration_ms": 157066,
       "name": "Polvo de Gigantes",
       "url": "https://open.spotify.com/track/3SiGPL00m2bqQ7HCchTL0F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Medio De Este Ruido",
+        "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 252560,
+      "name": "Se Fuerte Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6d9NFWpK97HEqAnE5tsnZw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diosa",
+        "url": "https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 186333,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 184986,
-      "name": "A Un Minuto",
-      "url": "https://open.spotify.com/track/7oTjieahX5dLL0qkSg6eJi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Regalo",
         "url": "https://open.spotify.com/album/2rEFizrsUbYkh5TN1gxfhi"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 157426,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/4UjEKy8PegjhpL3BC4iuL6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 184986,
+      "name": "A Un Minuto",
+      "url": "https://open.spotify.com/track/7oTjieahX5dLL0qkSg6eJi"
     },
     {
       "added_at": null,
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NQSTA",
-        "url": "https://open.spotify.com/album/2vX2gLMycyORhu96EEWqi0"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "NQSTA",
-      "url": "https://open.spotify.com/track/1h2tfXtkM7UiXP4Leq9Bvu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jodido Sin Ti",
         "url": "https://open.spotify.com/album/37MEKBQVt7evqaeNjgRC5U"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 165106,
       "name": "Jodido Sin Ti",
       "url": "https://open.spotify.com/track/3gYE83kjjPZpsxgJ1HnOo3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NQSTA",
+        "url": "https://open.spotify.com/album/2vX2gLMycyORhu96EEWqi0"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "NQSTA",
+      "url": "https://open.spotify.com/track/1h2tfXtkM7UiXP4Leq9Bvu"
     },
     {
       "added_at": null,

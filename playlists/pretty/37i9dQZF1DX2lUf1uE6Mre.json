@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: Monet192",
-  "num_followers": 917254,
+  "num_followers": 917213,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2025-10-02 22:00:46",
       "album": {
+        "name": "Simpel",
+        "url": "https://open.spotify.com/album/6wDfuAJ9aaOhaATIhnsQpL"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "duration_ms": 163306,
+      "name": "Simpel",
+      "url": "https://open.spotify.com/track/1pE1hkxS5CWxcSgayoBXK8"
+    },
+    {
+      "added_at": "2025-10-02 22:00:46",
+      "album": {
         "name": "Buscape",
         "url": "https://open.spotify.com/album/1DXIc6GvvfFdx7j2gOdCNb"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 151755,
       "name": "Buscape",
       "url": "https://open.spotify.com/track/20ABHNIR9jBXjaQnLjcVI2"
-    },
-    {
-      "added_at": "2025-10-02 22:00:46",
-      "album": {
-        "name": "Simpel",
-        "url": "https://open.spotify.com/album/6wDfuAJ9aaOhaATIhnsQpL"
-      },
-      "artists": [
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        }
-      ],
-      "duration_ms": 163306,
-      "name": "Simpel",
-      "url": "https://open.spotify.com/track/1pE1hkxS5CWxcSgayoBXK8"
     },
     {
       "added_at": "2025-10-02 22:00:46",
@@ -327,6 +327,22 @@
     {
       "added_at": "2025-10-02 22:00:46",
       "album": {
+        "name": "Schmerz",
+        "url": "https://open.spotify.com/album/6DXSVluSMQF8aj8zQnoiVZ"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "duration_ms": 163946,
+      "name": "Schmerz",
+      "url": "https://open.spotify.com/track/4SXUbnaYt80pFpAebHVR5Q"
+    },
+    {
+      "added_at": "2025-10-02 22:00:46",
+      "album": {
         "name": "Antalya",
         "url": "https://open.spotify.com/album/5O8n71paupWwPEPVJvaAiz"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 156297,
       "name": "Antalya",
       "url": "https://open.spotify.com/track/0auzdD4Kii0Yt0qVbBX6Bg"
-    },
-    {
-      "added_at": "2025-10-02 22:00:46",
-      "album": {
-        "name": "Schmerz",
-        "url": "https://open.spotify.com/album/6DXSVluSMQF8aj8zQnoiVZ"
-      },
-      "artists": [
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        }
-      ],
-      "duration_ms": 163946,
-      "name": "Schmerz",
-      "url": "https://open.spotify.com/track/4SXUbnaYt80pFpAebHVR5Q"
     },
     {
       "added_at": "2025-10-02 22:00:46",
@@ -423,26 +423,6 @@
     {
       "added_at": "2025-10-02 22:00:46",
       "album": {
-        "name": "KRISTALL",
-        "url": "https://open.spotify.com/album/6Erf1V9IXZsN2oY2AO5g0g"
-      },
-      "artists": [
-        {
-          "name": "Kurdo",
-          "url": "https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i"
-        },
-        {
-          "name": "CAPO",
-          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
-        }
-      ],
-      "duration_ms": 164937,
-      "name": "Alors (feat. CAPO)",
-      "url": "https://open.spotify.com/track/0zBOXwDbCEM0Wbx3rqVdQb"
-    },
-    {
-      "added_at": "2025-10-02 22:00:46",
-      "album": {
         "name": "Highlight",
         "url": "https://open.spotify.com/album/60XndUjPqFimUaGzaKmlgS"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 184453,
       "name": "Highlight",
       "url": "https://open.spotify.com/track/1ivw4hEEh8sUHcqjmuYnZ6"
+    },
+    {
+      "added_at": "2025-10-02 22:00:46",
+      "album": {
+        "name": "KRISTALL",
+        "url": "https://open.spotify.com/album/6Erf1V9IXZsN2oY2AO5g0g"
+      },
+      "artists": [
+        {
+          "name": "Kurdo",
+          "url": "https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i"
+        },
+        {
+          "name": "CAPO",
+          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
+        }
+      ],
+      "duration_ms": 164937,
+      "name": "Alors (feat. CAPO)",
+      "url": "https://open.spotify.com/track/0zBOXwDbCEM0Wbx3rqVdQb"
     },
     {
       "added_at": "2025-10-02 22:00:46",
@@ -767,6 +767,30 @@
     {
       "added_at": "2025-10-02 22:00:46",
       "album": {
+        "name": "Pech & Schwefel",
+        "url": "https://open.spotify.com/album/4lv03w3mhu2o1NOZX24z9R"
+      },
+      "artists": [
+        {
+          "name": "Aymo",
+          "url": "https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "duration_ms": 187286,
+      "name": "Pech & Schwefel",
+      "url": "https://open.spotify.com/track/6yKRxSyDyKXcYA9DGkG5Aq"
+    },
+    {
+      "added_at": "2025-10-02 22:00:46",
+      "album": {
         "name": "Brennpunkt",
         "url": "https://open.spotify.com/album/4aJn7mGqeuzmfAEEREdCHS"
       },
@@ -791,6 +815,22 @@
     {
       "added_at": "2025-10-02 22:00:46",
       "album": {
+        "name": "Theater \ud83c\udfad",
+        "url": "https://open.spotify.com/album/34CqMFySOBvYmKVhEhjevt"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        }
+      ],
+      "duration_ms": 141999,
+      "name": "Theater \ud83c\udfad",
+      "url": "https://open.spotify.com/track/2lRzkiGhOWV7GKTFmRZ4uC"
+    },
+    {
+      "added_at": "2025-10-02 22:00:46",
+      "album": {
         "name": "Summer Baby",
         "url": "https://open.spotify.com/album/7la8ldIlZqwMs1hgFFJVPG"
       },
@@ -807,6 +847,22 @@
       "duration_ms": 143276,
       "name": "Summer Baby",
       "url": "https://open.spotify.com/track/1OH0dxRdfoKbZG9ubxiT7I"
+    },
+    {
+      "added_at": "2025-10-02 22:00:46",
+      "album": {
+        "name": "Brazil Funk Freestyle \ud83c\udde7\ud83c\uddf7",
+        "url": "https://open.spotify.com/album/5SimHdkmwtJjkNSVrCc7IH"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vandamme",
+          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
+        }
+      ],
+      "duration_ms": 131163,
+      "name": "Brazil Funk Freestyle \ud83c\udde7\ud83c\uddf7",
+      "url": "https://open.spotify.com/track/1D0kYwRjSpYq7s7iieS8Oi"
     },
     {
       "added_at": "2025-10-02 22:00:46",
@@ -843,22 +899,6 @@
     {
       "added_at": "2025-10-02 22:00:46",
       "album": {
-        "name": "Brazil Funk Freestyle \ud83c\udde7\ud83c\uddf7",
-        "url": "https://open.spotify.com/album/5SimHdkmwtJjkNSVrCc7IH"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vandamme",
-          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
-        }
-      ],
-      "duration_ms": 131163,
-      "name": "Brazil Funk Freestyle \ud83c\udde7\ud83c\uddf7",
-      "url": "https://open.spotify.com/track/1D0kYwRjSpYq7s7iieS8Oi"
-    },
-    {
-      "added_at": "2025-10-02 22:00:46",
-      "album": {
         "name": "I Hit You",
         "url": "https://open.spotify.com/album/6VHDY4zu1XZ9THRfdEKVES"
       },
@@ -871,6 +911,38 @@
       "duration_ms": 184467,
       "name": "Gott vergib",
       "url": "https://open.spotify.com/track/7yuN0budKGasEeefoi2yTo"
+    },
+    {
+      "added_at": "2025-10-02 22:00:46",
+      "album": {
+        "name": "Mrs. Toxic",
+        "url": "https://open.spotify.com/album/5X9r4CedgRKY71uwTyU1rV"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Mrs. Toxic",
+      "url": "https://open.spotify.com/track/3uhwFTBCoTO7VyW0NH9u1i"
+    },
+    {
+      "added_at": "2025-10-02 22:00:46",
+      "album": {
+        "name": "GOVA",
+        "url": "https://open.spotify.com/album/4yeuPlDecjfycHYXWlfk6v"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vandamme",
+          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
+        }
+      ],
+      "duration_ms": 180062,
+      "name": "Juana auf Snapchat",
+      "url": "https://open.spotify.com/track/0IWHAYlVJISbDL5Wx1aXXU"
     },
     {
       "added_at": "2025-10-02 22:00:46",
@@ -891,62 +963,6 @@
       "duration_ms": 158480,
       "name": "Bei dir",
       "url": "https://open.spotify.com/track/7MLMhnzLCxXCsoWeKUZns7"
-    },
-    {
-      "added_at": "2025-10-02 22:00:46",
-      "album": {
-        "name": "Pech & Schwefel",
-        "url": "https://open.spotify.com/album/4lv03w3mhu2o1NOZX24z9R"
-      },
-      "artists": [
-        {
-          "name": "Aymo",
-          "url": "https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq"
-        },
-        {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
-        },
-        {
-          "name": "Amo",
-          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
-        }
-      ],
-      "duration_ms": 187286,
-      "name": "Pech & Schwefel",
-      "url": "https://open.spotify.com/track/6yKRxSyDyKXcYA9DGkG5Aq"
-    },
-    {
-      "added_at": "2025-10-02 22:00:46",
-      "album": {
-        "name": "Theater \ud83c\udfad",
-        "url": "https://open.spotify.com/album/34CqMFySOBvYmKVhEhjevt"
-      },
-      "artists": [
-        {
-          "name": "Bonez MC",
-          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
-        }
-      ],
-      "duration_ms": 141999,
-      "name": "Theater \ud83c\udfad",
-      "url": "https://open.spotify.com/track/2lRzkiGhOWV7GKTFmRZ4uC"
-    },
-    {
-      "added_at": "2025-10-02 22:00:46",
-      "album": {
-        "name": "GOVA",
-        "url": "https://open.spotify.com/album/4yeuPlDecjfycHYXWlfk6v"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vandamme",
-          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
-        }
-      ],
-      "duration_ms": 180062,
-      "name": "Juana auf Snapchat",
-      "url": "https://open.spotify.com/track/0IWHAYlVJISbDL5Wx1aXXU"
     },
     {
       "added_at": "2025-10-02 22:00:46",
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2025-10-02 22:00:46",
       "album": {
-        "name": "Mrs. Toxic",
-        "url": "https://open.spotify.com/album/5X9r4CedgRKY71uwTyU1rV"
-      },
-      "artists": [
-        {
-          "name": "MERO",
-          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Mrs. Toxic",
-      "url": "https://open.spotify.com/track/3uhwFTBCoTO7VyW0NH9u1i"
-    },
-    {
-      "added_at": "2025-10-02 22:00:46",
-      "album": {
         "name": "MURAKAMI",
         "url": "https://open.spotify.com/album/4NVsfiFwEXlewPFjMB8bjo"
       },
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2025-10-02 22:00:46",
       "album": {
-        "name": "SOMMERNACHT 2",
-        "url": "https://open.spotify.com/album/2kAEj9QhAEz3x4ndm3DaH4"
+        "name": "Diadem",
+        "url": "https://open.spotify.com/album/0TSNWMt7fOHD4QjLy6RXmI"
       },
       "artists": [
         {
-          "name": "OMAR",
-          "url": "https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3"
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
         }
       ],
-      "duration_ms": 166018,
-      "name": "SOMMERNACHT 2",
-      "url": "https://open.spotify.com/track/3vlaxBPQggwXUS6TqkBHok"
+      "duration_ms": 164937,
+      "name": "Diadem",
+      "url": "https://open.spotify.com/track/5my01OPtKE7EbyBiyjfRvy"
     },
     {
       "added_at": "2025-10-02 22:00:46",
@@ -1127,6 +1127,42 @@
     {
       "added_at": "2025-10-02 22:00:46",
       "album": {
+        "name": "SOMMERNACHT 2",
+        "url": "https://open.spotify.com/album/2kAEj9QhAEz3x4ndm3DaH4"
+      },
+      "artists": [
+        {
+          "name": "OMAR",
+          "url": "https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3"
+        }
+      ],
+      "duration_ms": 166018,
+      "name": "SOMMERNACHT 2",
+      "url": "https://open.spotify.com/track/3vlaxBPQggwXUS6TqkBHok"
+    },
+    {
+      "added_at": "2025-10-02 22:00:46",
+      "album": {
+        "name": "aus versehen",
+        "url": "https://open.spotify.com/album/6OmuVGcdnjdPSnlAqlgfsG"
+      },
+      "artists": [
+        {
+          "name": "Sampagne",
+          "url": "https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS"
+        },
+        {
+          "name": "YUNG SAINT PAUL",
+          "url": "https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R"
+        }
+      ],
+      "duration_ms": 138861,
+      "name": "aus versehen",
+      "url": "https://open.spotify.com/track/1L2fsnWJzHzg2xwD4x0MM6"
+    },
+    {
+      "added_at": "2025-10-02 22:00:46",
+      "album": {
         "name": "Buonasera",
         "url": "https://open.spotify.com/album/7oO2rrI1uButc8ephatUSC"
       },
@@ -1139,22 +1175,6 @@
       "duration_ms": 151384,
       "name": "Buonasera",
       "url": "https://open.spotify.com/track/2DBwe8rBEtj9uAP8PI1Ig9"
-    },
-    {
-      "added_at": "2025-10-02 22:00:46",
-      "album": {
-        "name": "Diadem",
-        "url": "https://open.spotify.com/album/0TSNWMt7fOHD4QjLy6RXmI"
-      },
-      "artists": [
-        {
-          "name": "MERO",
-          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
-        }
-      ],
-      "duration_ms": 164937,
-      "name": "Diadem",
-      "url": "https://open.spotify.com/track/5my01OPtKE7EbyBiyjfRvy"
     },
     {
       "added_at": "2025-10-02 22:00:46",
@@ -1215,22 +1235,6 @@
     {
       "added_at": "2025-10-02 22:00:46",
       "album": {
-        "name": "KUNSTWERK",
-        "url": "https://open.spotify.com/album/467oYjt04QFPvLeVhMLerm"
-      },
-      "artists": [
-        {
-          "name": "Ataypapi",
-          "url": "https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U"
-        }
-      ],
-      "duration_ms": 149250,
-      "name": "KUNSTWERK",
-      "url": "https://open.spotify.com/track/46Qzl6GOYinCIvq3LbVugs"
-    },
-    {
-      "added_at": "2025-10-02 22:00:46",
-      "album": {
         "name": "Aphrodite",
         "url": "https://open.spotify.com/album/1eqrNn21u8KbiBgIKfjzRG"
       },
@@ -1243,6 +1247,22 @@
       "duration_ms": 170500,
       "name": "Aphrodite",
       "url": "https://open.spotify.com/track/0tKqampGQs9HH9w4J15246"
+    },
+    {
+      "added_at": "2025-10-02 22:00:46",
+      "album": {
+        "name": "KUNSTWERK",
+        "url": "https://open.spotify.com/album/467oYjt04QFPvLeVhMLerm"
+      },
+      "artists": [
+        {
+          "name": "Ataypapi",
+          "url": "https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "KUNSTWERK",
+      "url": "https://open.spotify.com/track/46Qzl6GOYinCIvq3LbVugs"
     },
     {
       "added_at": "2025-10-02 22:00:46",
@@ -1319,22 +1339,18 @@
     {
       "added_at": "2025-10-02 22:00:46",
       "album": {
-        "name": "aus versehen",
-        "url": "https://open.spotify.com/album/6OmuVGcdnjdPSnlAqlgfsG"
+        "name": "SOMMERN\u00c4CHTE.mp3",
+        "url": "https://open.spotify.com/album/0K6bhfucyOq6gBU1An2O3z"
       },
       "artists": [
         {
-          "name": "Sampagne",
-          "url": "https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS"
-        },
-        {
-          "name": "YUNG SAINT PAUL",
-          "url": "https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R"
+          "name": "Kurdo",
+          "url": "https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i"
         }
       ],
-      "duration_ms": 138861,
-      "name": "aus versehen",
-      "url": "https://open.spotify.com/track/1L2fsnWJzHzg2xwD4x0MM6"
+      "duration_ms": 142966,
+      "name": "SOMMERN\u00c4CHTE.mp3",
+      "url": "https://open.spotify.com/track/4OkC1crin6DNcd0pCA6j1j"
     },
     {
       "added_at": "2025-10-02 22:00:46",
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2025-10-02 22:00:46",
       "album": {
-        "name": "SOMMERN\u00c4CHTE.mp3",
-        "url": "https://open.spotify.com/album/0K6bhfucyOq6gBU1An2O3z"
-      },
-      "artists": [
-        {
-          "name": "Kurdo",
-          "url": "https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i"
-        }
-      ],
-      "duration_ms": 142966,
-      "name": "SOMMERN\u00c4CHTE.mp3",
-      "url": "https://open.spotify.com/track/4OkC1crin6DNcd0pCA6j1j"
-    },
-    {
-      "added_at": "2025-10-02 22:00:46",
-      "album": {
         "name": "Bang",
         "url": "https://open.spotify.com/album/3Co0FCldADeWNu51p7cOAu"
       },
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-10-02 22:00:46",
       "album": {
-        "name": "DR\u00dcCK",
-        "url": "https://open.spotify.com/album/31BNLxCRX0yXo90fgSgWa4"
-      },
-      "artists": [
-        {
-          "name": "Eno",
-          "url": "https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF"
-        }
-      ],
-      "duration_ms": 134315,
-      "name": "DR\u00dcCK",
-      "url": "https://open.spotify.com/track/1uuoGSlD4EZaarIEekY9bF"
-    },
-    {
-      "added_at": "2025-10-02 22:00:46",
-      "album": {
         "name": "SALGOAT",
         "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 212973,
       "name": "DINERO",
       "url": "https://open.spotify.com/track/0gwG2qqU3xhROaJVnnWpTE"
+    },
+    {
+      "added_at": "2025-10-02 22:00:46",
+      "album": {
+        "name": "DR\u00dcCK",
+        "url": "https://open.spotify.com/album/31BNLxCRX0yXo90fgSgWa4"
+      },
+      "artists": [
+        {
+          "name": "Eno",
+          "url": "https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF"
+        }
+      ],
+      "duration_ms": 134315,
+      "name": "DR\u00dcCK",
+      "url": "https://open.spotify.com/track/1uuoGSlD4EZaarIEekY9bF"
     },
     {
       "added_at": "2025-10-02 22:00:46",
@@ -1619,6 +1619,26 @@
     {
       "added_at": "2025-10-02 22:00:46",
       "album": {
+        "name": "Love Stoned",
+        "url": "https://open.spotify.com/album/3WNM1a0lCstxLLJgEP6PFz"
+      },
+      "artists": [
+        {
+          "name": "Jamin",
+          "url": "https://open.spotify.com/artist/742hF8NzfLAfwg7pwSh1x9"
+        },
+        {
+          "name": "Ataypapi",
+          "url": "https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U"
+        }
+      ],
+      "duration_ms": 164185,
+      "name": "Love Stoned",
+      "url": "https://open.spotify.com/track/0qB7TGcEufVXFByQ2WllGD"
+    },
+    {
+      "added_at": "2025-10-02 22:00:46",
+      "album": {
         "name": "Warum ich?",
         "url": "https://open.spotify.com/album/6ihVQK90uZTh49QcocIFIp"
       },
@@ -1667,26 +1687,6 @@
       "duration_ms": 184615,
       "name": "Dschungelbuch",
       "url": "https://open.spotify.com/track/31hngzxYLPCNJEUaYvHVQb"
-    },
-    {
-      "added_at": "2025-10-02 22:00:46",
-      "album": {
-        "name": "Love Stoned",
-        "url": "https://open.spotify.com/album/3WNM1a0lCstxLLJgEP6PFz"
-      },
-      "artists": [
-        {
-          "name": "Jamin",
-          "url": "https://open.spotify.com/artist/742hF8NzfLAfwg7pwSh1x9"
-        },
-        {
-          "name": "Ataypapi",
-          "url": "https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U"
-        }
-      ],
-      "duration_ms": 164185,
-      "name": "Love Stoned",
-      "url": "https://open.spotify.com/track/0qB7TGcEufVXFByQ2WllGD"
     },
     {
       "added_at": "2025-10-02 22:00:46",

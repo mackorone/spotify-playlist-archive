@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-22",
-  "description": "With winterburn, After Cooking, Birrd and more",
+  "description": "With Birrd, winterburn, After Cooking and more",
   "name": "Klangphonics Radio",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 233173,
       "name": "1968",
       "url": "https://open.spotify.com/track/2y6Mqnz8rc73kzoGw4MxnL"
+    },
+    {
+      "album": {
+        "name": "Alter Echo",
+        "url": "https://open.spotify.com/album/2BQkaE9MgTOTbE7pedVZJu"
+      },
+      "artists": [
+        {
+          "name": "Birrd",
+          "url": "https://open.spotify.com/artist/4AJsNqBqkRLJIngQsvZAGw"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252399,
+      "name": "20 Meters",
+      "url": "https://open.spotify.com/track/46VwMtq79p12OALWRRBgRI"
     },
     {
       "album": {
@@ -200,7 +218,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 323200,
       "name": "Allegri",
       "url": "https://open.spotify.com/track/4gfwkR7XoKv6G5OCN8jeHC"
@@ -414,7 +432,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 338000,
       "name": "Bodhisattva",
       "url": "https://open.spotify.com/track/5dzhXwTjMkVhsHfPYk3OYr"
@@ -628,7 +646,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 251903,
       "name": "Dark Waves",
       "url": "https://open.spotify.com/track/2SIywaExbw39WSlS768Sg6"
@@ -726,7 +744,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 190525,
       "name": "Die Eisbraut - Leblanc Remix",
       "url": "https://open.spotify.com/track/153Zciw2gZmJfajrbxGOSK"
@@ -762,7 +780,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 188571,
       "name": "Do You Love Me",
       "url": "https://open.spotify.com/track/77yCg18CVqIW6R6xaCSEIX"
@@ -834,7 +852,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 150500,
       "name": "Echoes in The Dark",
       "url": "https://open.spotify.com/track/0ACOPSyN7dDaXUqUFrJrW7"
@@ -874,7 +892,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 401511,
       "name": "Elevation",
       "url": "https://open.spotify.com/track/5qnCwf4JSeYIoZAYzs3MoK"
@@ -968,7 +986,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 302400,
       "name": "Fairytale of Berlin",
       "url": "https://open.spotify.com/track/34U4HVc9fdGUmFbbm7jgqc"
@@ -1298,7 +1316,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 339760,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/4r4eTvYnjzyQnMpWei7Qgb"
@@ -1352,7 +1370,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-06",
+      "date_removed": null,
       "duration_ms": 307441,
       "name": "La Dibona",
       "url": "https://open.spotify.com/track/57Kf4Qwg7H41AF2ST2tBQq"
@@ -1370,7 +1388,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 362449,
       "name": "Laminar",
       "url": "https://open.spotify.com/track/3c4KwEAWynCZs9QcxxMemz"
@@ -1392,7 +1410,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 395874,
       "name": "Laminar - Moonbootica Remix",
       "url": "https://open.spotify.com/track/3XsNa1764TvABm41Ru2WgR"
@@ -1475,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "Lueur",
+        "url": "https://open.spotify.com/album/0Fxg8bgLC57gQFqY3ZXlIt"
+      },
+      "artists": [
+        {
+          "name": "Worakls",
+          "url": "https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335250,
+      "name": "Lueur",
+      "url": "https://open.spotify.com/track/5Yjb5r08rL8XlbhZ0SaosA"
+    },
+    {
+      "album": {
         "name": "master of your mind",
         "url": "https://open.spotify.com/album/0R6PsBvUrayDLPKDdFSj7K"
       },
@@ -1540,7 +1576,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 272744,
       "name": "Momentum",
       "url": "https://open.spotify.com/track/6czF5qNlJt65HYtfGQK2u1"
@@ -1602,7 +1638,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 371859,
       "name": "Movement",
       "url": "https://open.spotify.com/track/4qbk7CaLjQIjuQpebRnyFN"
@@ -1678,7 +1714,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 275348,
       "name": "Nevado Sorata",
       "url": "https://open.spotify.com/track/7xEFZweKnKVcs3OFczJAbd"
@@ -1732,7 +1768,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 299514,
       "name": "No Tribe",
       "url": "https://open.spotify.com/track/1hGODdyZHPyAU2gsv14a8Q"
@@ -1768,7 +1804,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 221538,
       "name": "Open",
       "url": "https://open.spotify.com/track/3c6bmhP5BWJmggel5FF1Lz"
@@ -1840,7 +1876,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 285213,
       "name": "Pave Your Way",
       "url": "https://open.spotify.com/track/6veznedhcZMQNRWxCudFtm"
@@ -1912,7 +1948,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 281920,
       "name": "Prince Caster",
       "url": "https://open.spotify.com/track/6XxJfXxQAeyUOVl8Pg0gMY"
@@ -2020,7 +2056,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-06",
+      "date_removed": null,
       "duration_ms": 203000,
       "name": "Rivi\u00e8re",
       "url": "https://open.spotify.com/track/6f7mqZcx2ZeGaz3jhfqPvK"
@@ -2038,7 +2074,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 141093,
       "name": "Roads - Original Mix",
       "url": "https://open.spotify.com/track/1CgrZqS3mbUXSo5blucWdq"
@@ -2056,10 +2092,32 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 274851,
       "name": "Samothrace",
       "url": "https://open.spotify.com/track/3ghGwVcpdzHpKnbc1d4Lhg"
+    },
+    {
+      "album": {
+        "name": "Samurai",
+        "url": "https://open.spotify.com/album/6lhi5XvMga9b3Xl3Im6aVH"
+      },
+      "artists": [
+        {
+          "name": "Kadosh",
+          "url": "https://open.spotify.com/artist/3e1Dyl2ZhXliPe3Mls724W"
+        },
+        {
+          "name": "Hannes Bieger",
+          "url": "https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379000,
+      "name": "Samurai - Hannes Bieger Remix",
+      "url": "https://open.spotify.com/track/4zDbnlztm2vtYwUQu2nONL"
     },
     {
       "album": {
@@ -2074,7 +2132,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 269471,
       "name": "Sf",
       "url": "https://open.spotify.com/track/1EHBSrr2pavrLkYwHn9IHD"
@@ -2110,7 +2168,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 169189,
       "name": "Sirene",
       "url": "https://open.spotify.com/track/3T2oIu6ppEekNvlYQHL8y2"
@@ -2272,7 +2330,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 312000,
       "name": "Supermoon",
       "url": "https://open.spotify.com/track/6M24qezRKtq3GyudKIZnJH"
@@ -2308,7 +2366,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 205403,
       "name": "Take Care",
       "url": "https://open.spotify.com/track/3ZcSFBU313eFXCgZcs0TAp"
@@ -2384,7 +2442,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-06",
+      "date_removed": null,
       "duration_ms": 412631,
       "name": "The White Duke",
       "url": "https://open.spotify.com/track/4LxPAOJOpHmBXxoUBjGkBT"
@@ -2496,7 +2554,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 295680,
       "name": "Trust",
       "url": "https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy"
@@ -2593,6 +2651,24 @@
     },
     {
       "album": {
+        "name": "Verbier",
+        "url": "https://open.spotify.com/album/0RiI9vfmJmOUBohJ5ueoOO"
+      },
+      "artists": [
+        {
+          "name": "Worakls",
+          "url": "https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206341,
+      "name": "Verbier",
+      "url": "https://open.spotify.com/track/7f8SsMWNbWM5Fyg9duonkz"
+    },
+    {
+      "album": {
         "name": "Majestic",
         "url": "https://open.spotify.com/album/2usXKM2hr7IxOnkaVQ2Veb"
       },
@@ -2622,7 +2698,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 245706,
       "name": "Void Loop",
       "url": "https://open.spotify.com/track/67PhsJ3qXCLORv16JTniDM"
@@ -2864,7 +2940,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-06",
+      "date_removed": null,
       "duration_ms": 300687,
       "name": "You Know (We Won't Remember)",
       "url": "https://open.spotify.com/track/15W32cDfIWtXMxcywcUlhF"

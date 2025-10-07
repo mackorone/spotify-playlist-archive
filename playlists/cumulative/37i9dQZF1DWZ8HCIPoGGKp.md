@@ -4,7 +4,7 @@
 
 > Calming green frequencies and nature sounds to help you relax and sleep.
 
-328 songs - 14 hr 32 min
+329 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Green Noise Shoreline](https://open.spotify.com/track/0aNShMq3wv7AVtVRWtBxIU) | [Dinkotrons](https://open.spotify.com/artist/1IWnMTe9epcSbGmpBApk7B) | [Green Noise Shoreline](https://open.spotify.com/album/2gSgGthgtn39tk11Ax6iv3) | 2:45 | 2023-03-10 | 2023-10-06 |
 | [Green Noise Sleep](https://open.spotify.com/track/6b2hUYz4fV20w85EwV4BCX) | [Dream Shard](https://open.spotify.com/artist/3EUg5IOxGnBPtjK0uzMxcJ) | [Green Noise Sleep](https://open.spotify.com/album/56vtZvivsQTJVbdK8sOViu) | 2:09 | 2025-02-06 |  |
 | [Green Noise Sleep Aid](https://open.spotify.com/track/4bExCFIxEw8UTb0bzf8o7I) | [Seascapers](https://open.spotify.com/artist/1OCxhMsilRRM68yBUkQ3NA) | [Green Noise Relaxing Waves](https://open.spotify.com/album/2FPduFcR5LEfTzR8wz7mcz) | 2:18 | 2023-03-10 |  |
-| [Green Noise Slow Rain](https://open.spotify.com/track/7vUgN5Xd2P5DHLI0fpIFCK) | [Dreamstatician](https://open.spotify.com/artist/2pq42tsRweYt1misRupTgR) | [Green Relax](https://open.spotify.com/album/10kiGHY22ARlW2kPuxAt3P) | 3:02 | 2023-02-03 |  |
+| [Green Noise Slow Rain](https://open.spotify.com/track/7vUgN5Xd2P5DHLI0fpIFCK) | [Dreamstatician](https://open.spotify.com/artist/2pq42tsRweYt1misRupTgR) | [Green Relax](https://open.spotify.com/album/10kiGHY22ARlW2kPuxAt3P) | 3:02 | 2023-02-03 | 2025-10-07 |
 | [Green Noise Sound Mask](https://open.spotify.com/track/4DemBjpIT8jGyk8XZMILy5) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Green Noise Relaxation](https://open.spotify.com/album/5BUgozIWwXWT7YYNqCkOHd) | 3:24 | 2023-02-03 | 2023-10-21 |
 | [Green Noise Spa](https://open.spotify.com/track/6m3TwGaOoRjuV98Bh5VzjB) | [Picturesque Sound](https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D) | [Green Noise Journeys](https://open.spotify.com/album/3i7VNGNsXlXPj1GrT2hdy6) | 3:36 | 2023-05-05 | 2025-09-11 |
 | [Green Noise Spring Creek](https://open.spotify.com/track/5PTKbhAPYTGVDiN9eeu8wa) | [Aquagirl](https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ) | [Calming Green](https://open.spotify.com/album/4RlGUh0biVRljQCLOKx0mt) | 2:52 | 2023-02-03 |  |
@@ -218,6 +218,7 @@
 | [Heavy Noise](https://open.spotify.com/track/13EVtBX4UEXL060vNyB0wA) | [Scientific Noise](https://open.spotify.com/artist/0DH931C5uJzm7OceDNh41S) | [Soothing Green Noise](https://open.spotify.com/album/5TNoeP6xKaZElUHFlkeYGh) | 2:25 | 2023-03-10 |  |
 | [Hidden River](https://open.spotify.com/track/1POqOx1gAFK8hazWhWOMtk) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Nature's Green Noise](https://open.spotify.com/album/2nsVqm029i0ZfJlYeTnqq6) | 2:21 | 2023-05-05 |  |
 | [Hypnotic Green Noise](https://open.spotify.com/track/67abugPaIu3AZTbnyE8VsU) | [Hypnotronica](https://open.spotify.com/artist/4V6Upc3fY4gIqOH6AogDCW) | [Rain Forest Green Chill](https://open.spotify.com/album/1YlEIiFxpWl7TkeRI23pr1) | 3:15 | 2023-06-16 |  |
+| [Iris Sanctuary](https://open.spotify.com/track/1menvjvEHJqu0v1tPZOSf1) | [The Inceptionists](https://open.spotify.com/artist/6paFuX94JPUGBwVheWFqhT) | [Iris Sanctuary](https://open.spotify.com/album/7qwXlXGSYjz9CLwBpWbqnE) | 4:21 | 2025-05-26 |  |
 | [Laurel Labyrinth \- Green Noise](https://open.spotify.com/track/3NmfftBMS2idqmKAtZG4lu) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Laurel Labyrinth \(Green Noise\)](https://open.spotify.com/album/7n5PS1ZvyzBc3iQLEAeP4n) | 2:44 | 2023-06-16 | 2025-10-04 |
 | [Little Green Noise](https://open.spotify.com/track/0Vsdu1FNvR7rrP6Pw5l0ML) | [Little Koala](https://open.spotify.com/artist/1gLRBiAgnTX3Fj6I29ULqQ) | [Little Noises](https://open.spotify.com/album/6sZh4jnoErOmxguORUbpmX) | 3:32 | 2023-11-24 | 2024-06-11 |
 | [Lluvia Suave \(Ruido Verde\)](https://open.spotify.com/track/0hKbv2cEuaHOjZUfLMoD22) | [Ardeon](https://open.spotify.com/artist/7IG0fEAR9mz2PBckWjAfS8) | [Ruido Verde Sereno](https://open.spotify.com/album/0Sl5qfpBWzVRnwljnNyAVz) | 1:49 | 2023-05-05 | 2023-06-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 
 > Die Klassiker des Schweizer Hip\-Hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,987 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,982 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 25 | [Mond](https://open.spotify.com/track/78AYyOqp7eRKEqG5XDULBD) | [GeilerAsDu](https://open.spotify.com/artist/2sRldY768fLza4lKT5A0U6), [Manillio](https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul) | [Flöchted](https://open.spotify.com/album/7AHBWmJtoKKMBLEwjg6Hek) | 4:01 |
 | 26 | [Vom Feinste](https://open.spotify.com/track/5KwBrbPh4g6JH4OzQ8vb2b) | [Ruff](https://open.spotify.com/artist/6c4A4szzdPRitveDWGOP87), [Arthi](https://open.spotify.com/artist/4jNAeGaooM9Is7PEXBmhP9), [Jears](https://open.spotify.com/artist/0g9eVkK9DaH2pyZmCQK7iP) | [Uhrsprung](https://open.spotify.com/album/6OpzGy7N8uv0BB7BJnDHPb) | 4:13 |
 | 27 | [Ein Koenig Regiert](https://open.spotify.com/track/0cqPlbcY2DUsusJyO59zV0) | [EKR](https://open.spotify.com/artist/7zuDLo0n0dSSeGWtT2xPVL) | [Fresh Stuff 3](https://open.spotify.com/album/1tKRkMvEIbImAElUAEVGWF) | 4:59 |
-| 28 | [Nackt](https://open.spotify.com/track/0M4egOl3bq3YnaYm2H7651) | [CBN](https://open.spotify.com/artist/6J4GECNmYunLtUBdV3kknJ) | [Papillon](https://open.spotify.com/album/6xSCPgzot5N8EEHZ8Px85J) | 3:45 |
-| 29 | [I dier](https://open.spotify.com/track/6rMrK337tJujRXWYMs2QnF) | [Rotchopf](https://open.spotify.com/artist/2O6CRAwvhDRQEPSBcdIl2z) | [Freshman 2015](https://open.spotify.com/album/2atDkxK4rK89hcOWvoVNr0) | 3:20 |
+| 28 | [I dier](https://open.spotify.com/track/6rMrK337tJujRXWYMs2QnF) | [Rotchopf](https://open.spotify.com/artist/2O6CRAwvhDRQEPSBcdIl2z) | [Freshman 2015](https://open.spotify.com/album/2atDkxK4rK89hcOWvoVNr0) | 3:20 |
+| 29 | [Nackt](https://open.spotify.com/track/0M4egOl3bq3YnaYm2H7651) | [CBN](https://open.spotify.com/artist/6J4GECNmYunLtUBdV3kknJ) | [Papillon](https://open.spotify.com/album/6xSCPgzot5N8EEHZ8Px85J) | 3:45 |
 | 30 | [Figg mitt](https://open.spotify.com/track/5Jnjb7xP2BrLzxPIsJcOl2) | [PVP](https://open.spotify.com/artist/5HRA33OVSrSR37rbbFKtNG), [Wurzel 5](https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K) | [Eifach nüt](https://open.spotify.com/album/5vRyfEOWuNEUX3DLOUeGSj) | 4:13 |
 | 31 | [Du Hesch Ke](https://open.spotify.com/track/6uUqFin8qIVVTP8ch9MMmW) | [Webba](https://open.spotify.com/artist/017QhuKZfqKAxJHG2ZmolS), [Baze](https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH) | [Deheim?](https://open.spotify.com/album/5FcPc8QMIXG8DdH66yLqY1) | 4:33 |
 | 32 | [Teil Vom Problem](https://open.spotify.com/track/4dK2t6AV9WtyxuKw3qZGDd) | [Greis](https://open.spotify.com/artist/4529nltiXhYqju0EI0SJUp) | [3](https://open.spotify.com/album/0D41OBWqhA1ChJvYnQHySI) | 3:47 |

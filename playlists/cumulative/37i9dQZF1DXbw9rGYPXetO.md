@@ -2,7 +2,7 @@
 
 ### [Best of: Coke Studio Bharat](https://open.spotify.com/playlist/37i9dQZF1DXbw9rGYPXetO)
 
-> Hottest tracks from Coke Studio Bharat\. Cover: Anuv Jain
+> Hottest tracks from Coke Studio Bharat.
 
 63 songs - 14 hr 48 min
 

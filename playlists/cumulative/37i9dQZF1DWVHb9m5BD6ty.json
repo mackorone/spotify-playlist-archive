@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The newest from UK & Ireland driving the current. Cover: Jim Legxacy",
+  "description": "The newest from UK & Ireland driving the current. Cover: Olivia Dean",
   "name": "Frequency UK & Ireland",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 202371,
       "name": "1800",
       "url": "https://open.spotify.com/track/5BAI4QVp8p0yh0SiOEeVcU"
@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "hopefully !",
+        "url": "https://open.spotify.com/album/3QiiMhk65fgCPOKThjZ8iK"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213542,
+      "name": "all i need",
+      "url": "https://open.spotify.com/track/6zyyos3UrfaughUvRqL3sD"
+    },
+    {
+      "album": {
         "name": "All That We Have EP",
         "url": "https://open.spotify.com/album/4GxxrZH9jVQJdU4lyx16PS"
       },
@@ -194,7 +212,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 310915,
       "name": "All That We Have",
       "url": "https://open.spotify.com/track/2STIbv0FlXtwRXYVHRanT0"
@@ -328,7 +346,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 143688,
       "name": "Bad Life",
       "url": "https://open.spotify.com/track/05kjMGGzMRwwY8mskRaSHi"
@@ -671,6 +689,24 @@
     },
     {
       "album": {
+        "name": "brozone",
+        "url": "https://open.spotify.com/album/6sANlSveTjg4CWNoFlbCB2"
+      },
+      "artists": [
+        {
+          "name": "Mnelia",
+          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149021,
+      "name": "brozone",
+      "url": "https://open.spotify.com/track/1l2XbDb3BAIiWnpD92At4P"
+    },
+    {
+      "album": {
         "name": "Bullet (Dream Wife Remix)",
         "url": "https://open.spotify.com/album/5IMofBJECvlXR785N9DFBH"
       },
@@ -912,7 +948,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 242000,
       "name": "Don't Rush",
       "url": "https://open.spotify.com/track/64h4VxiD7jCJpXJJwyK37L"
@@ -930,7 +966,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 223255,
       "name": "DUALITY",
       "url": "https://open.spotify.com/track/7rXJDZ3rpUZf61raxSuusc"
@@ -1150,6 +1186,50 @@
       "duration_ms": 155761,
       "name": "Go Ali Go",
       "url": "https://open.spotify.com/track/63T9nZ4YBr7W9gfvYO8qLw"
+    },
+    {
+      "album": {
+        "name": "Dance, No One's Watching",
+        "url": "https://open.spotify.com/album/2BwKd9lWotQIhROHSWQ78h"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239306,
+      "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
+      "url": "https://open.spotify.com/track/2mxQ3VWWk47YCo9RB2fkOk"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188263,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq"
     },
     {
       "album": {
@@ -1833,6 +1913,24 @@
     },
     {
       "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/0mYXRQpTGjaLJt1l9MY4ps"
+    },
+    {
+      "album": {
         "name": "Master Shifu",
         "url": "https://open.spotify.com/album/6LFmUBFDPffLxylzW6Lcad"
       },
@@ -2164,6 +2262,28 @@
       "duration_ms": 217801,
       "name": "Not Another Love Song",
       "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
+    },
+    {
+      "album": {
+        "name": "NOW OR NEVER",
+        "url": "https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM"
+      },
+      "artists": [
+        {
+          "name": "Tkandz",
+          "url": "https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO"
+        },
+        {
+          "name": "CXSPER",
+          "url": "https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "NOW OR NEVER",
+      "url": "https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM"
     },
     {
       "album": {
@@ -2526,6 +2646,28 @@
       "duration_ms": 155200,
       "name": "Redemption (feat. Nemzzz)",
       "url": "https://open.spotify.com/track/1krd3VtSxqLMRToL2sfXoY"
+    },
+    {
+      "album": {
+        "name": "Remontada (feat. Blanco)",
+        "url": "https://open.spotify.com/album/1OTdy9AJVXEerYPUTDCmRd"
+      },
+      "artists": [
+        {
+          "name": "Kidwild",
+          "url": "https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9"
+        },
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161095,
+      "name": "Remontada (feat. Blanco)",
+      "url": "https://open.spotify.com/track/362tD7hUEZ06izuWdVlRnP"
     },
     {
       "album": {
@@ -3666,7 +3808,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 121235,
       "name": "WHATCHIMACALLIT.",
       "url": "https://open.spotify.com/track/5OBCvThiCth6OH3edfY7V5"
@@ -3866,7 +4008,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 146000,
       "name": "you say that i'm crazy",
       "url": "https://open.spotify.com/track/3U18vzIuVwMGzR4raHhVVS"

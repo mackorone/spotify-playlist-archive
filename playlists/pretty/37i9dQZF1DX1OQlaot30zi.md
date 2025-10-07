@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di 22simba e Marracash, Nayt, Poli Ok, Young Hash e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,372 likes - 101 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,380 likes - 101 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 9 | [WHIGGA \(feat\. Guè\)](https://open.spotify.com/track/2eYc45COhMTgbyrLG4nHWO) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [MATTIA](https://open.spotify.com/album/4v9jvZy9cIvTceWv4XQy0O) | 2:42 |
 | 10 | [Stai Alla Larga](https://open.spotify.com/track/19wTCdCkVKau2nKjtY4DVI) | [Gianni Bismark](https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa) | [Stai Alla Larga](https://open.spotify.com/album/1KtxMHuZ80Ob6uRzPBmAcU) | 2:29 |
 | 11 | [IO & TU](https://open.spotify.com/track/5MBwzWnikF3EMS9wBagvM9) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Smookid](https://open.spotify.com/artist/2mLQ8JfGyC8pFZTNIhejPR), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [IO & TU](https://open.spotify.com/album/0jKl6eCdgu5cM9fqNH9NIs) | 2:18 |
-| 12 | [7/7](https://open.spotify.com/track/0MF0GER29KwI2l58GV2aCN) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv), [Dadco](https://open.spotify.com/artist/7xlv8SzcNiwDd7fri9t7fv) | [7/7](https://open.spotify.com/album/35TTZNBNhlNrSUoSS4wom6) | 2:15 |
+| 12 | [7/7](https://open.spotify.com/track/0MF0GER29KwI2l58GV2aCN) | [Dadco](https://open.spotify.com/artist/7xlv8SzcNiwDd7fri9t7fv), [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [7/7](https://open.spotify.com/album/35TTZNBNhlNrSUoSS4wom6) | 2:15 |
 | 13 | [11grip](https://open.spotify.com/track/0k9YrhnxugrNPBiorartOT) | [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy) | [11grip](https://open.spotify.com/album/0zPlZ3BQrxebr6aIl0Lygo) | 2:44 |
 | 14 | [PERICOLOSO \(feat\. Lazza, Geolier\)](https://open.spotify.com/track/5bFGJCWniODboiGjiZXKl1) | [333 Mob](https://open.spotify.com/artist/1kWgYwcvWUeGX4wEJkyJx0), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [OSTIL3](https://open.spotify.com/album/49ZyGerSEt8m7LXLeNWW6f) | 2:30 |
 | 15 | [La Cura](https://open.spotify.com/track/24lMpSDWvI4iZ5h1ZDB7Lx) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [La Cura](https://open.spotify.com/album/00McN06J1SBCnck2lW9ftZ) | 1:40 |

@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-662 songs - 1 day 5 hr 7 min
+663 songs - 1 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [cookin hot](https://open.spotify.com/track/4UxG7YQqtz0nMv3OS0OOxh) | [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv), [J Fletch](https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8) | [cookin hot](https://open.spotify.com/album/2rzZWqYTwXxgVMZvq2c1cR) | 1:41 | 2025-05-09 | 2025-05-17 |
 | [Corner Piano](https://open.spotify.com/track/0OD9iCzzNE7dotHlzbLtwf) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Corner Piano](https://open.spotify.com/album/2lYCPZvwNuHfSyxutXRATp) | 1:38 | 2025-02-14 |  |
 | [Cortado](https://open.spotify.com/track/4vGjoOyEmmbPovNCjoF8eQ) | [beyond pluto](https://open.spotify.com/artist/6WShzu0391mQ6M2hJEwm49), [Beats alFredo](https://open.spotify.com/artist/1ECmTGh1rg6O4c57Phnsbr), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Cortado](https://open.spotify.com/album/2gsjSva38akWVkOHy1gB7C) | 2:22 | 2024-08-23 | 2025-05-17 |
-| [cozed](https://open.spotify.com/track/6aWWO5gx9NYP7mhdf2XQbd) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [think less.](https://open.spotify.com/artist/5ptLWFs1O1R1QDZSjwtU0c) | [cozed](https://open.spotify.com/album/5L6T5LYEusjLtNpWQh3TVD) | 1:45 | 2025-10-03 |  |
+| [cozed](https://open.spotify.com/track/6aWWO5gx9NYP7mhdf2XQbd) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [think less.](https://open.spotify.com/artist/5ptLWFs1O1R1QDZSjwtU0c) | [cozed](https://open.spotify.com/album/5L6T5LYEusjLtNpWQh3TVD) | 1:45 | 2025-10-03 | 2025-10-07 |
 | [CPH](https://open.spotify.com/track/1p7OcSfDwx3kr4m4E23UPB) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [CPH](https://open.spotify.com/album/6HdAgTAOjWIZXSoWmVtG3T) | 2:05 | 2025-03-28 | 2025-05-24 |
 | [Croydon Smash](https://open.spotify.com/track/3ArFJR37rzbtmyqypgQN0m) | [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [James Maddren](https://open.spotify.com/artist/6ke4GTfhO9er0IPiwHW1Zw), [ENEMY](https://open.spotify.com/artist/4bl36sH2M86WGlzhX4TqaC) | [The Betrayal](https://open.spotify.com/album/77UysfbnlDD2AIoeFABimZ) | 1:57 | 2023-10-13 | 2024-09-14 |
 | [Cruising](https://open.spotify.com/track/11bQjIYHyRsmnYLb7VvfHZ) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r), [SMTHNGOOD](https://open.spotify.com/artist/6UwT4pDjGSlegunFtmCPcf) | [Cruising](https://open.spotify.com/album/7hHG6zYh72UExmjlXmVAHr) | 2:16 | 2025-06-13 | 2025-06-17 |
@@ -212,6 +212,7 @@
 | [Ginseng Brew](https://open.spotify.com/track/0shoIFhc8XSOMuMr73iVxq) | [Slo Five](https://open.spotify.com/artist/5irIh5qdcXwDG9p7EWegeN), [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf) | [Ginseng Brew](https://open.spotify.com/album/6ipGSt2pzMHtJncpWHYy05) | 1:52 | 2024-09-27 |  |
 | [Glitz](https://open.spotify.com/track/6O3jMWP1iS9r6rw7eDiysW) | [Gaslamp](https://open.spotify.com/artist/4Iufg5jdqQELqh9fQukPUE) | [Glitz](https://open.spotify.com/album/5qagsDYKqCUvIrlgk9RfNf) | 1:51 | 2025-09-26 |  |
 | [Glow](https://open.spotify.com/track/0s3ChS6utpd1BCAorGjty4) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [marsquake](https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb) | [Glow](https://open.spotify.com/album/22ilqibUPL59Msmx0orSTa) | 2:00 | 2025-04-25 |  |
+| [Goin' Places](https://open.spotify.com/track/5hPSNpGlMkiTtlqsnikJvz) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [Goin' Places](https://open.spotify.com/album/66XkfG45HOeDtK9z7m6dzU) | 1:39 | 2025-10-03 |  |
 | [Going Along With It](https://open.spotify.com/track/4KgJmpIxPEnwagCpEgAuYc) | [Sem0r](https://open.spotify.com/artist/5kKtBm0XgwJnI8oudcaupR), [Loyae](https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I) | [Going Along With It](https://open.spotify.com/album/3S63qle6fwfLmeKjWLNTwl) | 1:32 | 2025-02-03 |  |
 | [Golden](https://open.spotify.com/track/0puARhK6jKkusREeVYGchX) | [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Golden](https://open.spotify.com/album/0xPEVbpkS6FMtA2JNboDWZ) | 2:10 | 2025-10-03 | 2025-10-05 |
 | [Golden Hour](https://open.spotify.com/track/56gzYeY3J2VVUqF5Fyx0fa) | [XXIII](https://open.spotify.com/artist/1iMewV5kCtODzBgKmPnIq7) | [Golden Hour](https://open.spotify.com/album/4rFwznUvKfecxIUc5TugBL) | 1:26 | 2025-04-18 | 2025-09-13 |

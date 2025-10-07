@@ -1782,7 +1782,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 265000,
       "name": "Angels",
       "url": "https://open.spotify.com/track/1M2nd8jNUkkwrc1dgBPTJz"
@@ -5334,7 +5334,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-03",
+      "date_removed": null,
       "duration_ms": 155189,
       "name": "Charger",
       "url": "https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ"
@@ -6170,7 +6170,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 278440,
       "name": "Come Undone",
       "url": "https://open.spotify.com/track/6mZCiuIXcA12syIS23Dyxa"
@@ -9996,7 +9996,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 263866,
       "name": "Feel",
       "url": "https://open.spotify.com/track/2Ms33RTRCT6gArrpcrPxmo"
@@ -15930,7 +15930,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 262000,
       "name": "Let Me Entertain You",
       "url": "https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W"
@@ -16006,7 +16006,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-06",
+      "date_removed": null,
       "duration_ms": 236446,
       "name": "Letter To Myself (feat. Frank Turner)",
       "url": "https://open.spotify.com/track/2lsaiqpiJY0hVX4PtcyvqT"
@@ -17464,7 +17464,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-06",
+      "date_removed": null,
       "duration_ms": 249048,
       "name": "Making Love to Morgan Wallen",
       "url": "https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z"
@@ -18112,7 +18112,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 143478,
       "name": "Mega Lux",
       "url": "https://open.spotify.com/track/6h3Mh12aeUMRV0pKRMs1Uc"
@@ -18468,6 +18468,28 @@
       "duration_ms": 140560,
       "name": "Mimosa 2000",
       "url": "https://open.spotify.com/track/79bWkyd08EFDO0ZZuu7IRT"
+    },
+    {
+      "album": {
+        "name": "SWAT",
+        "url": "https://open.spotify.com/album/2dZ0APHp9odDMxKUTxIPQh"
+      },
+      "artists": [
+        {
+          "name": "overtonight throwaways",
+          "url": "https://open.spotify.com/artist/5d1xapXUqUmq0CpozCAhr7"
+        },
+        {
+          "name": "overtonight",
+          "url": "https://open.spotify.com/artist/3WUqGdcFJJquJgCPkEzCfs"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105437,
+      "name": "mirrors demo",
+      "url": "https://open.spotify.com/track/3LDEJgX75Dh0HzEDtQY7lv"
     },
     {
       "album": {
@@ -24030,7 +24052,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 164307,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/2JRsev5j783NgLMhztR95V"
@@ -24204,7 +24226,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 166432,
       "name": "Rocket",
       "url": "https://open.spotify.com/track/1LmOToT3RH1OEZsQ6Q4Jfb"
@@ -25114,7 +25136,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 196857,
       "name": "Seni D\u00fc\u015f\u00fcnd\u00fcm",
       "url": "https://open.spotify.com/track/6oZ8BPQSQog7Q3LPUVgxCr"
@@ -25666,7 +25688,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 258026,
       "name": "She's The One",
       "url": "https://open.spotify.com/track/4lO57zZGFcj7vSY4QhfVDq"
@@ -26370,6 +26392,24 @@
       "duration_ms": 161831,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr"
+    },
+    {
+      "album": {
+        "name": "Softly Floating",
+        "url": "https://open.spotify.com/album/2wxrmfg6bkmmh3FMD9K9xv"
+      },
+      "artists": [
+        {
+          "name": "Enlly Blue",
+          "url": "https://open.spotify.com/artist/28W1qq34TByUcLOtkceRxp"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248919,
+      "name": "Slow Sip of Solitude",
+      "url": "https://open.spotify.com/track/6GaF1uWS0BV1BF4GgVzArK"
     },
     {
       "album": {
@@ -27662,7 +27702,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 279293,
       "name": "Strong",
       "url": "https://open.spotify.com/track/5IvhE3L0nR3dxrrmRLHdpp"
@@ -28084,7 +28124,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 260399,
       "name": "Supreme",
       "url": "https://open.spotify.com/track/4dZ3V71vsqSn9MJ18y8YaJ"
@@ -29492,7 +29532,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 237400,
       "name": "The Road To Mandalay",
       "url": "https://open.spotify.com/track/2HEQUu0ydMFIp6JDvCHFzZ"
@@ -29510,7 +29550,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 239946,
       "name": "The Road To Mandalay",
       "url": "https://open.spotify.com/track/5iWa27IZ9UyXm0TJTod0y5"
@@ -35436,7 +35476,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 160529,
       "name": "\u0414\u0436\u0443\u043c\u0431\u0430\u0440\u0435",
       "url": "https://open.spotify.com/track/1qKImzYMfCmhZWYZ4hmYOq"
@@ -37472,7 +37512,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 171938,
       "name": "\u041f\u0430\u043a \u0441\u0438 \u0442\u0443\u043a",
       "url": "https://open.spotify.com/track/0CjMBFXn3fNTU96HGIMwag"

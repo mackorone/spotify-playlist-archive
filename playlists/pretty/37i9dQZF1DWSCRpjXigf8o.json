@@ -1,6 +1,6 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 89161,
+  "num_followers": 89160,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-10-03 04:00:35",
       "album": {
-        "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
-        "url": "https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 225960,
-      "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
-      "url": "https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7"
-    },
-    {
-      "added_at": "2025-10-03 04:00:35",
-      "album": {
         "name": "Adagio",
         "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 156386,
       "name": "80 Days",
       "url": "https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s"
+    },
+    {
+      "added_at": "2025-10-03 04:00:35",
+      "album": {
+        "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
+        "url": "https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 225960,
+      "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
+      "url": "https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7"
     },
     {
       "added_at": "2025-10-03 04:00:35",
@@ -775,54 +775,6 @@
     {
       "added_at": "2025-10-03 04:00:35",
       "album": {
-        "name": "\u5dee\u3057\u8272",
-        "url": "https://open.spotify.com/album/0osPjHgcenfbVxnPHuMZ4W"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 183709,
-      "name": "\u5dee\u3057\u8272",
-      "url": "https://open.spotify.com/track/2AE8eW32N5jimZ9wVO39Br"
-    },
-    {
-      "added_at": "2025-10-03 04:00:35",
-      "album": {
-        "name": "Late summer waves",
-        "url": "https://open.spotify.com/album/1uOlgoXblcCIlAAMdR63GU"
-      },
-      "artists": [
-        {
-          "name": "7co",
-          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
-        }
-      ],
-      "duration_ms": 155242,
-      "name": "Late summer waves",
-      "url": "https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu"
-    },
-    {
-      "added_at": "2025-10-03 04:00:35",
-      "album": {
-        "name": "Wonder, Won't You?",
-        "url": "https://open.spotify.com/album/3aVD5rqyzp6fzi4do8MI1y"
-      },
-      "artists": [
-        {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
-        }
-      ],
-      "duration_ms": 217080,
-      "name": "My Way Home",
-      "url": "https://open.spotify.com/track/1PmHzy1AebjGRue4hYVkpM"
-    },
-    {
-      "added_at": "2025-10-03 04:00:35",
-      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/7sPl6AbM7tKDmBkJfDQduP"
       },
@@ -843,6 +795,54 @@
     {
       "added_at": "2025-10-03 04:00:35",
       "album": {
+        "name": "\u5dee\u3057\u8272",
+        "url": "https://open.spotify.com/album/0osPjHgcenfbVxnPHuMZ4W"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 183709,
+      "name": "\u5dee\u3057\u8272",
+      "url": "https://open.spotify.com/track/2AE8eW32N5jimZ9wVO39Br"
+    },
+    {
+      "added_at": "2025-10-03 04:00:35",
+      "album": {
+        "name": "Wonder, Won't You?",
+        "url": "https://open.spotify.com/album/3aVD5rqyzp6fzi4do8MI1y"
+      },
+      "artists": [
+        {
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+        }
+      ],
+      "duration_ms": 217080,
+      "name": "My Way Home",
+      "url": "https://open.spotify.com/track/1PmHzy1AebjGRue4hYVkpM"
+    },
+    {
+      "added_at": "2025-10-03 04:00:35",
+      "album": {
+        "name": "Late summer waves",
+        "url": "https://open.spotify.com/album/1uOlgoXblcCIlAAMdR63GU"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "duration_ms": 155242,
+      "name": "Late summer waves",
+      "url": "https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu"
+    },
+    {
+      "added_at": "2025-10-03 04:00:35",
+      "album": {
         "name": "Better Days (Japanese Edition)",
         "url": "https://open.spotify.com/album/15VgsndSAQkLnlLoF38yBc"
       },
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-10-03 04:00:35",
       "album": {
-        "name": "grooblue",
-        "url": "https://open.spotify.com/album/0EAMYAFAnh3421GkbvTI0e"
-      },
-      "artists": [
-        {
-          "name": "SUPER BUTTER DOG",
-          "url": "https://open.spotify.com/artist/3FxIxhSKWszGB3z3FoZDXh"
-        }
-      ],
-      "duration_ms": 318213,
-      "name": "\u30b5\u30e8\u30ca\u30e9COLOR",
-      "url": "https://open.spotify.com/track/2A0ujima89BfVrpG0aJnIq"
-    },
-    {
-      "added_at": "2025-10-03 04:00:35",
-      "album": {
         "name": "\u3084\u3055\u3057\u3044\u307e\u307e\u3067",
         "url": "https://open.spotify.com/album/6JEsb8Gr0a1RyY4zSTMApM"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 224933,
       "name": "\u3084\u3055\u3057\u3044\u307e\u307e\u3067",
       "url": "https://open.spotify.com/track/12ILanij3qGao68KxZtwR9"
+    },
+    {
+      "added_at": "2025-10-03 04:00:35",
+      "album": {
+        "name": "grooblue",
+        "url": "https://open.spotify.com/album/0EAMYAFAnh3421GkbvTI0e"
+      },
+      "artists": [
+        {
+          "name": "SUPER BUTTER DOG",
+          "url": "https://open.spotify.com/artist/3FxIxhSKWszGB3z3FoZDXh"
+        }
+      ],
+      "duration_ms": 318213,
+      "name": "\u30b5\u30e8\u30ca\u30e9COLOR",
+      "url": "https://open.spotify.com/track/2A0ujima89BfVrpG0aJnIq"
     },
     {
       "added_at": "2025-10-03 04:00:35",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2025-10-03 04:00:35",
       "album": {
-        "name": "What's The Point",
-        "url": "https://open.spotify.com/album/1vNeZt4KL1fVTU92ZLkJkD"
+        "name": "\u30a2\u30a4\u30a6\u30bf",
+        "url": "https://open.spotify.com/album/7BeFwx8a2LsM1tVJVqAO52"
       },
       "artists": [
         {
-          "name": "Ruby Waters",
-          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+          "name": "\u97f3\u7530 \u96c5\u5247",
+          "url": "https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo"
         }
       ],
-      "duration_ms": 169266,
-      "name": "90 to 99",
-      "url": "https://open.spotify.com/track/6J2qRzwQ0TFXKtCoBlC2MR"
+      "duration_ms": 292917,
+      "name": "\u30a2\u30a4\u30a6\u30bf",
+      "url": "https://open.spotify.com/track/7xR4VYpFQmNoDEkNfkezO2"
     },
     {
       "added_at": "2025-10-03 04:00:35",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2025-10-03 04:00:35",
       "album": {
-        "name": "\u30a2\u30a4\u30a6\u30bf",
-        "url": "https://open.spotify.com/album/7BeFwx8a2LsM1tVJVqAO52"
+        "name": "What's The Point",
+        "url": "https://open.spotify.com/album/1vNeZt4KL1fVTU92ZLkJkD"
       },
       "artists": [
         {
-          "name": "\u97f3\u7530 \u96c5\u5247",
-          "url": "https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo"
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
         }
       ],
-      "duration_ms": 292917,
-      "name": "\u30a2\u30a4\u30a6\u30bf",
-      "url": "https://open.spotify.com/track/7xR4VYpFQmNoDEkNfkezO2"
+      "duration_ms": 169266,
+      "name": "90 to 99",
+      "url": "https://open.spotify.com/track/6J2qRzwQ0TFXKtCoBlC2MR"
     },
     {
       "added_at": "2025-10-03 04:00:35",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2025-10-03 04:00:35",
       "album": {
-        "name": "\u30cf\u30c4\u30b3\u30a4\u30ce\u30a6\u30bf",
-        "url": "https://open.spotify.com/album/4VtLZNRYHHAe7esWR5eD93"
+        "name": "NAVY",
+        "url": "https://open.spotify.com/album/0lHJa75DcFWZSb0UAdRrDc"
       },
       "artists": [
         {
-          "name": "7co",
-          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+          "name": "\u4e0a\u91ce\u5927\u6a39",
+          "url": "https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF"
         }
       ],
-      "duration_ms": 198014,
-      "name": "\u30cf\u30c4\u30b3\u30a4\u30ce\u30a6\u30bf",
-      "url": "https://open.spotify.com/track/1CZcdTOFmjWTO9MG0UMG2c"
+      "duration_ms": 144766,
+      "name": "NAVY",
+      "url": "https://open.spotify.com/track/5JAgoN0ZK8uIZXtFj1pxrR"
     },
     {
       "added_at": "2025-10-03 04:00:35",
@@ -1251,18 +1251,34 @@
     {
       "added_at": "2025-10-03 04:00:35",
       "album": {
-        "name": "NAVY",
-        "url": "https://open.spotify.com/album/0lHJa75DcFWZSb0UAdRrDc"
+        "name": "\u30cf\u30c4\u30b3\u30a4\u30ce\u30a6\u30bf",
+        "url": "https://open.spotify.com/album/4VtLZNRYHHAe7esWR5eD93"
       },
       "artists": [
         {
-          "name": "\u4e0a\u91ce\u5927\u6a39",
-          "url": "https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF"
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
         }
       ],
-      "duration_ms": 144766,
-      "name": "NAVY",
-      "url": "https://open.spotify.com/track/5JAgoN0ZK8uIZXtFj1pxrR"
+      "duration_ms": 198014,
+      "name": "\u30cf\u30c4\u30b3\u30a4\u30ce\u30a6\u30bf",
+      "url": "https://open.spotify.com/track/1CZcdTOFmjWTO9MG0UMG2c"
+    },
+    {
+      "added_at": "2025-10-03 04:00:35",
+      "album": {
+        "name": "back to you (you're the reason)",
+        "url": "https://open.spotify.com/album/1zGWULZWndg7c8f0adeU5M"
+      },
+      "artists": [
+        {
+          "name": "satellite.",
+          "url": "https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn"
+        }
+      ],
+      "duration_ms": 240392,
+      "name": "back to you (you're the reason)",
+      "url": "https://open.spotify.com/track/7MiWqkriAg3HsLr8L8OvdN"
     },
     {
       "added_at": "2025-10-03 04:00:35",
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2025-10-03 04:00:35",
       "album": {
-        "name": "covent garden",
-        "url": "https://open.spotify.com/album/4fz69J654PbUgnq2vkZzVH"
-      },
-      "artists": [
-        {
-          "name": "pami",
-          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "covent garden",
-      "url": "https://open.spotify.com/track/0YIiDc0bIbvm2doecnf7fU"
-    },
-    {
-      "added_at": "2025-10-03 04:00:35",
-      "album": {
         "name": "Trio & Charm",
         "url": "https://open.spotify.com/album/3SiofApkAxUnDhpEFzLB87"
       },
@@ -1415,22 +1415,18 @@
     {
       "added_at": "2025-10-03 04:00:35",
       "album": {
-        "name": "Silent Storm",
-        "url": "https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os"
+        "name": "covent garden",
+        "url": "https://open.spotify.com/album/4fz69J654PbUgnq2vkZzVH"
       },
       "artists": [
         {
-          "name": "Ovall",
-          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
-        },
-        {
-          "name": "KIKI",
-          "url": "https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM"
+          "name": "pami",
+          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
         }
       ],
-      "duration_ms": 206030,
-      "name": "Bloom feat. KIKI",
-      "url": "https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr"
+      "duration_ms": 181000,
+      "name": "covent garden",
+      "url": "https://open.spotify.com/track/0YIiDc0bIbvm2doecnf7fU"
     },
     {
       "added_at": "2025-10-03 04:00:35",
@@ -1451,18 +1447,22 @@
     {
       "added_at": "2025-10-03 04:00:35",
       "album": {
-        "name": "back to you (you're the reason)",
-        "url": "https://open.spotify.com/album/1zGWULZWndg7c8f0adeU5M"
+        "name": "Silent Storm",
+        "url": "https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os"
       },
       "artists": [
         {
-          "name": "satellite.",
-          "url": "https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn"
+          "name": "Ovall",
+          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
+        },
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM"
         }
       ],
-      "duration_ms": 240392,
-      "name": "back to you (you're the reason)",
-      "url": "https://open.spotify.com/track/7MiWqkriAg3HsLr8L8OvdN"
+      "duration_ms": 206030,
+      "name": "Bloom feat. KIKI",
+      "url": "https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr"
     },
     {
       "added_at": "2025-10-03 04:00:35",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-10-03 04:00:35",
       "album": {
-        "name": "\u982c\u306b\u3072\u3068\u53e3",
-        "url": "https://open.spotify.com/album/1OseQ5LUgKXP4M6UNnspyj"
-      },
-      "artists": [
-        {
-          "name": "kojikoji",
-          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
-        }
-      ],
-      "duration_ms": 209837,
-      "name": "\u982c\u306b\u3072\u3068\u53e3",
-      "url": "https://open.spotify.com/track/6YEzgjuFl1bmtVUZ04Ozlr"
-    },
-    {
-      "added_at": "2025-10-03 04:00:35",
-      "album": {
         "name": "APPLE PIE",
         "url": "https://open.spotify.com/album/4zmH8hhWPeE6PE2DNPLull"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 242307,
       "name": "APPLE PIE",
       "url": "https://open.spotify.com/track/2oZXiY2TUfafJj6qec5Oqv"
+    },
+    {
+      "added_at": "2025-10-03 04:00:35",
+      "album": {
+        "name": "\u982c\u306b\u3072\u3068\u53e3",
+        "url": "https://open.spotify.com/album/1OseQ5LUgKXP4M6UNnspyj"
+      },
+      "artists": [
+        {
+          "name": "kojikoji",
+          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
+        }
+      ],
+      "duration_ms": 209837,
+      "name": "\u982c\u306b\u3072\u3068\u53e3",
+      "url": "https://open.spotify.com/track/6YEzgjuFl1bmtVUZ04Ozlr"
     },
     {
       "added_at": "2025-10-03 04:00:35",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-10-03 04:00:35",
       "album": {
-        "name": "Lonely Driver",
-        "url": "https://open.spotify.com/album/75lFxxSm1nYqQrTo20gbZl"
-      },
-      "artists": [
-        {
-          "name": "Powloh",
-          "url": "https://open.spotify.com/artist/1k6pzQFm9xjWETHy8Gv7OA"
-        }
-      ],
-      "duration_ms": 208375,
-      "name": "In Bloom",
-      "url": "https://open.spotify.com/track/5wZJxky1QtCNqv4WyonHLG"
-    },
-    {
-      "added_at": "2025-10-03 04:00:35",
-      "album": {
         "name": "This must be the place",
         "url": "https://open.spotify.com/album/1FJVVG53D8ZTMwqn85UfMy"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 232238,
       "name": "This must be the place",
       "url": "https://open.spotify.com/track/3rDfFPybJVMqBiFbhMGDMi"
+    },
+    {
+      "added_at": "2025-10-03 04:00:35",
+      "album": {
+        "name": "Lonely Driver",
+        "url": "https://open.spotify.com/album/75lFxxSm1nYqQrTo20gbZl"
+      },
+      "artists": [
+        {
+          "name": "Powloh",
+          "url": "https://open.spotify.com/artist/1k6pzQFm9xjWETHy8Gv7OA"
+        }
+      ],
+      "duration_ms": 208375,
+      "name": "In Bloom",
+      "url": "https://open.spotify.com/track/5wZJxky1QtCNqv4WyonHLG"
     },
     {
       "added_at": "2025-10-03 04:00:35",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-10-03 04:00:35",
       "album": {
-        "name": "Apple",
-        "url": "https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu"
-      },
-      "artists": [
-        {
-          "name": "Haruy",
-          "url": "https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V"
-    },
-    {
-      "added_at": "2025-10-03 04:00:35",
-      "album": {
         "name": "\u30ab\u30e9\u30bf\u30c1\u306e\u5922",
         "url": "https://open.spotify.com/album/2fSTHMm7zKp834JHdcGcY4"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 209899,
       "name": "\u30ab\u30e9\u30bf\u30c1\u306e\u5922",
       "url": "https://open.spotify.com/track/7o0IZeK9qnfNdjxx4TaMNL"
+    },
+    {
+      "added_at": "2025-10-03 04:00:35",
+      "album": {
+        "name": "Apple",
+        "url": "https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu"
+      },
+      "artists": [
+        {
+          "name": "Haruy",
+          "url": "https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V"
     },
     {
       "added_at": "2025-10-03 04:00:35",

@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Von Quar",
-  "num_followers": 47055,
+  "num_followers": 47060,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
+        "name": "v\u00e5gner",
+        "url": "https://open.spotify.com/album/4qkMWKIhCOWFtkVVsRsf0w"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 150938,
+      "name": "drikker med mig selv",
+      "url": "https://open.spotify.com/track/0i4Tf0W7BdBXBdRO5AfuWI"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
         "name": "Tag Mig Som Jeg Er",
         "url": "https://open.spotify.com/album/5cgv7qdPVxJS9jN50kr3nH"
       },
@@ -263,22 +279,6 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
-        "name": "v\u00e5gner",
-        "url": "https://open.spotify.com/album/4qkMWKIhCOWFtkVVsRsf0w"
-      },
-      "artists": [
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        }
-      ],
-      "duration_ms": 150938,
-      "name": "drikker med mig selv",
-      "url": "https://open.spotify.com/track/0i4Tf0W7BdBXBdRO5AfuWI"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
         "name": "Det sker alt for tit",
         "url": "https://open.spotify.com/album/57eFbZtnhu5KxEP6aUiGvB"
       },
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
-        "name": "Dagdr\u00f8mmeri",
-        "url": "https://open.spotify.com/album/34HwCKrjkrUfx102qz7grK"
-      },
-      "artists": [
-        {
-          "name": "KEDDE",
-          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
-        }
-      ],
-      "duration_ms": 188963,
-      "name": "Dagdr\u00f8mmeri",
-      "url": "https://open.spotify.com/track/5FooCMWZhjFYZsTbarkJkA"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
         "name": "Det Hele Handler Om Dig",
         "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
       },
@@ -379,22 +363,6 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
-        "name": "Til Solen Er Sort",
-        "url": "https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 224175,
-      "name": "Til Solen Er Sort",
-      "url": "https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
         "name": "Skyklapper",
         "url": "https://open.spotify.com/album/4ap5LraN4yGYC0my4WUmkz"
       },
@@ -407,6 +375,38 @@
       "duration_ms": 173259,
       "name": "Skyklapper",
       "url": "https://open.spotify.com/track/5nkDngxLSMwnNbJ7YkomTA"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
+        "name": "Dagdr\u00f8mmeri",
+        "url": "https://open.spotify.com/album/34HwCKrjkrUfx102qz7grK"
+      },
+      "artists": [
+        {
+          "name": "KEDDE",
+          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
+        }
+      ],
+      "duration_ms": 188963,
+      "name": "Dagdr\u00f8mmeri",
+      "url": "https://open.spotify.com/track/5FooCMWZhjFYZsTbarkJkA"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
+        "name": "Til Solen Er Sort",
+        "url": "https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 224175,
+      "name": "Til Solen Er Sort",
+      "url": "https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5"
     },
     {
       "added_at": "2025-10-02 22:00:51",
@@ -475,6 +475,22 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
+        "name": "Mig Og Min Mund",
+        "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 159539,
+      "name": "Mig Og Min Mund",
+      "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
         "name": "Vilde \u00d8jne",
         "url": "https://open.spotify.com/album/098k8y3O9JDDX8wigSekbS"
       },
@@ -511,38 +527,6 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
-        "name": "Pissoir",
-        "url": "https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8n",
-          "url": "https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr"
-        }
-      ],
-      "duration_ms": 185533,
-      "name": "Pissoir",
-      "url": "https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
-        "name": "Mig Og Min Mund",
-        "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 159539,
-      "name": "Mig Og Min Mund",
-      "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
         "name": "Tunge F\u00f8lelser",
         "url": "https://open.spotify.com/album/7LAyKf6EHJxTiBkllKmp1U"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 155447,
       "name": "Tunge F\u00f8lelser",
       "url": "https://open.spotify.com/track/1Mnmmbcd8RhjOoZExPW3Zv"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
+        "name": "Pissoir",
+        "url": "https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8n",
+          "url": "https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr"
+        }
+      ],
+      "duration_ms": 185533,
+      "name": "Pissoir",
+      "url": "https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0"
     },
     {
       "added_at": "2025-10-02 22:00:51",
@@ -575,18 +575,18 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
-        "name": "S\u00e6tter Alt P\u00e5 Spil",
-        "url": "https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA"
+        "name": "Musicality",
+        "url": "https://open.spotify.com/album/6rcnlJU0yDzWJf59i4SP6X"
       },
       "artists": [
         {
-          "name": "Bifald",
-          "url": "https://open.spotify.com/artist/0digldp7orPQLSfADZojvH"
+          "name": "haloplus+",
+          "url": "https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB"
         }
       ],
-      "duration_ms": 197589,
-      "name": "S\u00e6tter Alt P\u00e5 Spil",
-      "url": "https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d"
+      "duration_ms": 106909,
+      "name": "Mouse Tag",
+      "url": "https://open.spotify.com/track/1QVgtD9wGjGQdLLdrQ1dI4"
     },
     {
       "added_at": "2025-10-02 22:00:51",
@@ -607,18 +607,34 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
-        "name": "Musicality",
-        "url": "https://open.spotify.com/album/6rcnlJU0yDzWJf59i4SP6X"
+        "name": "Synger Bare",
+        "url": "https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO"
       },
       "artists": [
         {
-          "name": "haloplus+",
-          "url": "https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB"
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
         }
       ],
-      "duration_ms": 106909,
-      "name": "Mouse Tag",
-      "url": "https://open.spotify.com/track/1QVgtD9wGjGQdLLdrQ1dI4"
+      "duration_ms": 107812,
+      "name": "Synger Bare",
+      "url": "https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
+        "name": "S\u00e6tter Alt P\u00e5 Spil",
+        "url": "https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA"
+      },
+      "artists": [
+        {
+          "name": "Bifald",
+          "url": "https://open.spotify.com/artist/0digldp7orPQLSfADZojvH"
+        }
+      ],
+      "duration_ms": 197589,
+      "name": "S\u00e6tter Alt P\u00e5 Spil",
+      "url": "https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d"
     },
     {
       "added_at": "2025-10-02 22:00:51",
@@ -671,22 +687,6 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
-        "name": "Synger Bare",
-        "url": "https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 107812,
-      "name": "Synger Bare",
-      "url": "https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
         "name": "B\u00e6nkevarmer",
         "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
       },
@@ -719,6 +719,22 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
+        "name": "S\u00e6tter Sig Fast",
+        "url": "https://open.spotify.com/album/6kPWRAW8tNgqcCyHMK6pM4"
+      },
+      "artists": [
+        {
+          "name": "will",
+          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
+        }
+      ],
+      "duration_ms": 176083,
+      "name": "S\u00e6tter Sig Fast",
+      "url": "https://open.spotify.com/track/0ueHqqPHinLsblBWQ0cjmW"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
         "name": "Et Sted p\u00e5 Vesterbro",
         "url": "https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn"
       },
@@ -731,6 +747,26 @@
       "duration_ms": 148521,
       "name": "Et Sted p\u00e5 Vesterbro",
       "url": "https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
+        "name": "Jeg h\u00e5ber (feat. Mekdes)",
+        "url": "https://open.spotify.com/album/6kIp7hgt0wpyZheKKklQrG"
+      },
+      "artists": [
+        {
+          "name": "KEDDE",
+          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
+        },
+        {
+          "name": "Mekdes",
+          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
+        }
+      ],
+      "duration_ms": 168469,
+      "name": "Jeg h\u00e5ber (feat. Mekdes)",
+      "url": "https://open.spotify.com/track/7grS76cFWGhWDnlkA9DkxO"
     },
     {
       "added_at": "2025-10-02 22:00:51",
@@ -783,22 +819,18 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
-        "name": "Jeg h\u00e5ber (feat. Mekdes)",
-        "url": "https://open.spotify.com/album/6kIp7hgt0wpyZheKKklQrG"
+        "name": "EP",
+        "url": "https://open.spotify.com/album/3Teg8wMP5yOVruDXO5ema8"
       },
       "artists": [
         {
-          "name": "KEDDE",
-          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
-        },
-        {
-          "name": "Mekdes",
-          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
+          "name": "Bifald",
+          "url": "https://open.spotify.com/artist/0digldp7orPQLSfADZojvH"
         }
       ],
-      "duration_ms": 168469,
-      "name": "Jeg h\u00e5ber (feat. Mekdes)",
-      "url": "https://open.spotify.com/track/7grS76cFWGhWDnlkA9DkxO"
+      "duration_ms": 196526,
+      "name": "Regnvejr",
+      "url": "https://open.spotify.com/track/7KyQMwyinP0eYcIFvnz6aP"
     },
     {
       "added_at": "2025-10-02 22:00:51",
@@ -823,22 +855,6 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
-        "name": "EP",
-        "url": "https://open.spotify.com/album/3Teg8wMP5yOVruDXO5ema8"
-      },
-      "artists": [
-        {
-          "name": "Bifald",
-          "url": "https://open.spotify.com/artist/0digldp7orPQLSfADZojvH"
-        }
-      ],
-      "duration_ms": 196526,
-      "name": "Regnvejr",
-      "url": "https://open.spotify.com/track/7KyQMwyinP0eYcIFvnz6aP"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
         "name": "Perker Pop (Jeg vil ha')",
         "url": "https://open.spotify.com/album/222HR56KflpoDSvJTuDOlC"
       },
@@ -859,38 +875,6 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
-        "name": "Under The Influence",
-        "url": "https://open.spotify.com/album/5EponkQHgGru0rIA4Oge0p"
-      },
-      "artists": [
-        {
-          "name": "ORA",
-          "url": "https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA"
-        }
-      ],
-      "duration_ms": 156356,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/1BxWMfu4hzrWqExWSeT8Nx"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
-        "name": "S\u00e6tter Sig Fast",
-        "url": "https://open.spotify.com/album/6kPWRAW8tNgqcCyHMK6pM4"
-      },
-      "artists": [
-        {
-          "name": "will",
-          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
-        }
-      ],
-      "duration_ms": 176083,
-      "name": "S\u00e6tter Sig Fast",
-      "url": "https://open.spotify.com/track/0ueHqqPHinLsblBWQ0cjmW"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
         "name": "You Don't Wanna Be Mine",
         "url": "https://open.spotify.com/album/7e9JMqzTga2FTNHZFmG1NP"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 159056,
       "name": "You Don't Wanna Be Mine",
       "url": "https://open.spotify.com/track/46zvZV1EiD2Qch4qELYLno"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
+        "name": "Under The Influence",
+        "url": "https://open.spotify.com/album/5EponkQHgGru0rIA4Oge0p"
+      },
+      "artists": [
+        {
+          "name": "ORA",
+          "url": "https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA"
+        }
+      ],
+      "duration_ms": 156356,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/1BxWMfu4hzrWqExWSeT8Nx"
     },
     {
       "added_at": "2025-10-02 22:00:51",
@@ -955,6 +955,22 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
+        "name": "Storm",
+        "url": "https://open.spotify.com/album/56nT96slSLaC6UL8d0VIQH"
+      },
+      "artists": [
+        {
+          "name": "Holdo",
+          "url": "https://open.spotify.com/artist/6KGJwNmZhtZIIcDkMLAfDC"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Storm",
+      "url": "https://open.spotify.com/track/57zAO3UAUe7aP3rjrVAYJR"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
         "name": "How Does It Make U Feel",
         "url": "https://open.spotify.com/album/0IqDhsXRrfVOGsOT3J4Bzg"
       },
@@ -967,6 +983,22 @@
       "duration_ms": 189486,
       "name": "How Does It Make U Feel",
       "url": "https://open.spotify.com/track/76KQNTCROBYS2FCsW22z59"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
+        "name": "Fanget I En Dr\u00f8m",
+        "url": "https://open.spotify.com/album/2pOjJniIhmpX8ykHxphdq4"
+      },
+      "artists": [
+        {
+          "name": "Bifald",
+          "url": "https://open.spotify.com/artist/0digldp7orPQLSfADZojvH"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Fanget I En Dr\u00f8m",
+      "url": "https://open.spotify.com/track/5Rcg7mmHGUOWkamTtNPcqF"
     },
     {
       "added_at": "2025-10-02 22:00:51",
@@ -991,22 +1023,6 @@
       "duration_ms": 153286,
       "name": "1 gang til",
       "url": "https://open.spotify.com/track/4Pj63m6uNr1S6fAYo8Z4QF"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
-        "name": "Fanget I En Dr\u00f8m",
-        "url": "https://open.spotify.com/album/2pOjJniIhmpX8ykHxphdq4"
-      },
-      "artists": [
-        {
-          "name": "Bifald",
-          "url": "https://open.spotify.com/artist/0digldp7orPQLSfADZojvH"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Fanget I En Dr\u00f8m",
-      "url": "https://open.spotify.com/track/5Rcg7mmHGUOWkamTtNPcqF"
     },
     {
       "added_at": "2025-10-02 22:00:51",
@@ -1043,22 +1059,6 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
-        "name": "Stuck in Traffic",
-        "url": "https://open.spotify.com/album/14VcWo1zOmyts2Md2OrJ2F"
-      },
-      "artists": [
-        {
-          "name": "Anna Frank",
-          "url": "https://open.spotify.com/artist/1RCtH6n7rYymOrMvbX84xg"
-        }
-      ],
-      "duration_ms": 195667,
-      "name": "Stuck in Traffic",
-      "url": "https://open.spotify.com/track/5kesuNK5cwGT8wXdxSI4E0"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
         "name": "Lige s\u00e5 fucked som mig",
         "url": "https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk"
       },
@@ -1071,6 +1071,22 @@
       "duration_ms": 150488,
       "name": "Lige s\u00e5 fucked som mig",
       "url": "https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
+        "name": "Stuck in Traffic",
+        "url": "https://open.spotify.com/album/14VcWo1zOmyts2Md2OrJ2F"
+      },
+      "artists": [
+        {
+          "name": "Anna Frank",
+          "url": "https://open.spotify.com/artist/1RCtH6n7rYymOrMvbX84xg"
+        }
+      ],
+      "duration_ms": 195667,
+      "name": "Stuck in Traffic",
+      "url": "https://open.spotify.com/track/5kesuNK5cwGT8wXdxSI4E0"
     },
     {
       "added_at": "2025-10-02 22:00:51",
@@ -1107,6 +1123,22 @@
     {
       "added_at": "2025-10-02 22:00:51",
       "album": {
+        "name": "P\u00c5 TIL DET SAMME",
+        "url": "https://open.spotify.com/album/5NfrOu0p6wuOjrf72B9orO"
+      },
+      "artists": [
+        {
+          "name": "Elias",
+          "url": "https://open.spotify.com/artist/6GHeYbQYL39Ri5g9a8rb2K"
+        }
+      ],
+      "duration_ms": 116259,
+      "name": "P\u00c5 TIL DET SAMME",
+      "url": "https://open.spotify.com/track/2OD3EFIqq5w9XZNlaT5SwS"
+    },
+    {
+      "added_at": "2025-10-02 22:00:51",
+      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX"
       },
@@ -1135,38 +1167,6 @@
       "duration_ms": 147739,
       "name": "R\u00f8dt Flag",
       "url": "https://open.spotify.com/track/1VjZ7NI007heu9eEIJmSpC"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
-        "name": "Deep Waters",
-        "url": "https://open.spotify.com/album/137GJAREvB0f5PFfqz4V4V"
-      },
-      "artists": [
-        {
-          "name": "SKAYA",
-          "url": "https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC"
-        }
-      ],
-      "duration_ms": 156623,
-      "name": "Deep Waters",
-      "url": "https://open.spotify.com/track/747c4oOEq9CG037CUWnz0x"
-    },
-    {
-      "added_at": "2025-10-02 22:00:51",
-      "album": {
-        "name": "shout pillow",
-        "url": "https://open.spotify.com/album/6yi8WNTeuH4sIPH8uC01YG"
-      },
-      "artists": [
-        {
-          "name": "Wads",
-          "url": "https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M"
-        }
-      ],
-      "duration_ms": 141677,
-      "name": "shout pillow",
-      "url": "https://open.spotify.com/track/6LIx9hdE9SszNPuKTKbMZ5"
     }
   ],
   "unique_name": "ung kniv ",

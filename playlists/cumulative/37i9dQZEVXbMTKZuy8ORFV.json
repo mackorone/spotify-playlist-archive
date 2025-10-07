@@ -358,7 +358,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 133333,
       "name": "2 pa 1",
       "url": "https://open.spotify.com/track/7mY74CfnMf1d7fvusV2IVQ"
@@ -7952,7 +7952,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 211084,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC"
@@ -9385,6 +9385,24 @@
     },
     {
       "album": {
+        "name": "Non Stop Rock'n Roll",
+        "url": "https://open.spotify.com/album/4LC0EgGdIMtdpsssOLCJ1T"
+      },
+      "artists": [
+        {
+          "name": "Wig Wam",
+          "url": "https://open.spotify.com/artist/5EzPaejJ1QA4wkTLV37e60"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176973,
+      "name": "Do Ya Wanna Taste It",
+      "url": "https://open.spotify.com/track/5XW4BwCrfYpci5zMbJxs4N"
+    },
+    {
+      "album": {
         "name": "Rayo",
         "url": "https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo"
       },
@@ -10044,7 +10062,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 185131,
       "name": "Ebrio de amor",
       "url": "https://open.spotify.com/track/53x72ql3pw8h0hJ8PsEIdm"
@@ -11064,7 +11082,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 192800,
       "name": "End of You",
       "url": "https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA"
@@ -13173,6 +13191,28 @@
     },
     {
       "album": {
+        "name": "FUNK DO SURPRISE",
+        "url": "https://open.spotify.com/album/3tcB4aVOP5JBIPka43aaUa"
+      },
+      "artists": [
+        {
+          "name": "KXZINVK",
+          "url": "https://open.spotify.com/artist/3lcEB9zveKg0g9ONK9esa7"
+        },
+        {
+          "name": "Mc Roba Cena",
+          "url": "https://open.spotify.com/artist/3JDFG8UQZzliFU7BiKK40c"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95242,
+      "name": "FUNK DO SURPRISE - Ultra Slowed",
+      "url": "https://open.spotify.com/track/3wNfvqd0YYmAuJdj4TFOPO"
+    },
+    {
+      "album": {
         "name": "FUNK INFERNAL",
         "url": "https://open.spotify.com/album/3Iw0jAPzwgmuqSIWQa9i8W"
       },
@@ -13974,7 +14014,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 329759,
       "name": "Gracias / T\u00fa Con \u00c9l - ReMiX",
       "url": "https://open.spotify.com/track/37RGYKi0hD8Rr3TVWsyANl"
@@ -15074,7 +15114,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 173052,
       "name": "Hotel Room",
       "url": "https://open.spotify.com/track/2JvmvxYvYTijGMCpiulS3N"
@@ -22264,7 +22304,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 135659,
       "name": "MUEVELOU",
       "url": "https://open.spotify.com/track/27gcAFVOnixwd1Kd7q428C"
@@ -26944,7 +26984,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 246786,
       "name": "Punkrocker (feat. Iggy Pop) - As featured in Superman",
       "url": "https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ"
@@ -29214,6 +29254,24 @@
       "duration_ms": 370426,
       "name": "See You on the Other Side",
       "url": "https://open.spotify.com/track/1Hs2MG2LBJaSPk7X0fzmfk"
+    },
+    {
+      "album": {
+        "name": "SEMPERO",
+        "url": "https://open.spotify.com/album/5zw0PxWKfHqKvnsVW3CvtF"
+      },
+      "artists": [
+        {
+          "name": "QMIIR",
+          "url": "https://open.spotify.com/artist/20grbXINI9PPalsRLgh9oP"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "SEMPERO - Slowed",
+      "url": "https://open.spotify.com/track/54veCY5M8Y9k92idKlJZ44"
     },
     {
       "album": {
@@ -37184,7 +37242,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 176874,
       "name": "Wish (feat. Trippie Redd) - Trippie Mix",
       "url": "https://open.spotify.com/track/0c0YHn3DIQLl1opsQDd9kO"

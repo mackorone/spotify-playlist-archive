@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: CUTIE STREET
 
-3,357 songs - 8 day 22 hr 12 min
+3,358 songs - 8 day 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -736,6 +736,7 @@
 | [I call your name](https://open.spotify.com/track/4Q8d70JwVBFYAxRDTKc6Pz) | [Sam is Ohm](https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg), [MoMo](https://open.spotify.com/artist/5gwaQTfKLp93WjE9qllzRW) | [I call your name](https://open.spotify.com/album/4gct1Wp0LnVAt4XmERcd3F) | 3:53 | 2024-07-09 | 2024-07-17 |
 | [I Can't Breathe](https://open.spotify.com/track/1488Ai9Urh5SCDJ7sJ9gvT) | [SARAY](https://open.spotify.com/artist/4DipYAIMMmNeSLEt7HlKti) | [Sweet Breath](https://open.spotify.com/album/3RO1iUNKCKzhlmKaTG5NkG) | 5:23 | 2025-02-18 | 2025-02-26 |
 | [I Can't Stop](https://open.spotify.com/track/1ZCqoSBaRQ56etsBpjWvVl) | [MoMo](https://open.spotify.com/artist/5gwaQTfKLp93WjE9qllzRW) | [I Can't Stop](https://open.spotify.com/album/5wZq49m9GaP56WI5dfEk07) | 2:31 | 2024-07-16 | 2024-07-27 |
+| [I Don't Want To Leave](https://open.spotify.com/track/3ENINBIFCYLoTP9EYnKNvu) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [I Don't Want To Leave](https://open.spotify.com/album/4nQs0aAVzyHCP81VSC3YzC) | 4:30 | 2025-09-30 |  |
 | [I Feel You](https://open.spotify.com/track/3xPezjR8MK82e2cUuqNiCG) | [竹渕慶](https://open.spotify.com/artist/2BXz3nKvKeJfnaj3bkVsnf) | [I Feel You](https://open.spotify.com/album/29FB0uxIou5sGA182C4sud) | 3:52 | 2024-04-16 | 2024-04-24 |
 | [I guess](https://open.spotify.com/track/6hKWmd5PxK12SURkjGUbeW) | [ar syura](https://open.spotify.com/artist/2odzQSjzdsC7ssDwZd93rT) | [I guess](https://open.spotify.com/album/1aQSL6rf7dX0bx6agf1BeJ) | 3:42 | 2024-03-19 | 2024-04-10 |
 | [I hate this love song](https://open.spotify.com/track/0HwDv2bXxdQnGUJhAuGAqG) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [I hate this love song](https://open.spotify.com/album/0R8wB8JasgURZHtMHwRjm4) | 3:18 | 2025-06-03 |  |
@@ -3001,7 +3002,7 @@
 | [月は今でも明るいが](https://open.spotify.com/track/64iq9RkRASwf2W6UDZzUPS) | [路地](https://open.spotify.com/artist/3oG3nGNqpuRlrqBKdigaXv) | [月は今でも明るいが](https://open.spotify.com/album/5JKyex0alhL1zW3TyvW3Yj) | 3:53 | 2022-08-23 | 2022-08-31 |
 | [月並](https://open.spotify.com/track/1gKVnefvQ6beLh3TGvolAT) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [月並](https://open.spotify.com/album/6ftGMbUNSNwaWYYpPQngXW) | 3:34 | 2025-07-15 | 2025-08-06 |
 | [月光浴](https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [月光浴](https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q) | 4:08 | 2023-10-12 | 2025-05-14 |
-| [月蝕](https://open.spotify.com/track/53WB038hikUVUhjsR8T3GC) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [月蝕](https://open.spotify.com/album/6bNFw6CsbTWoZB8yCeD6KC) | 3:17 | 2025-07-11 |  |
+| [月蝕](https://open.spotify.com/track/53WB038hikUVUhjsR8T3GC) | [krage](https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx) | [月蝕](https://open.spotify.com/album/6bNFw6CsbTWoZB8yCeD6KC) | 3:17 | 2025-07-11 | 2025-10-07 |
 | [月面着陸計画 \- Moon Landing Plan](https://open.spotify.com/track/2mqSMiMiL36K7vTyU4K0Vc) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [15](https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD) | 4:02 | 2025-01-07 | 2025-07-09 |
 | [朗朗](https://open.spotify.com/track/7Jp8SrcoDDZHl1MYbSiXuq) | [Sato](https://open.spotify.com/artist/42olGDHZaEPtRmxwEZPY31) | [朗朗](https://open.spotify.com/album/5y8wWPaqLkppnC7nmrR5Um) | 3:33 | 2025-01-07 | 2025-01-15 |
 | [朗読](https://open.spotify.com/track/6sXTKn32WA0r7zK7GVDZTh) | [眉村ちあき](https://open.spotify.com/artist/4DjusI9WuKLk3cmsJGtl8T) | [ラブソング史のはじめに](https://open.spotify.com/album/72Jry5CwXocJkNLABgKKr5) | 4:47 | 2024-04-16 | 2024-04-24 |

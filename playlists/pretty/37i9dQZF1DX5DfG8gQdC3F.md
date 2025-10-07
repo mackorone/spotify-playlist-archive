@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Taylor Swift, Luke Combs, Fred again..., Lauren Spencer Smith, Fredz and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,003 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,021 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 60 | [Only Time](https://open.spotify.com/track/3jZr9yjhzg2GGnvhRsJiua) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Only Time](https://open.spotify.com/album/2Y9KP6WWhMETlq1IwGCE2d) | 3:22 |
 | 61 | [Lemon Cherry](https://open.spotify.com/track/6wkohFcztTm7u92TkF6aHG) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Lemon Cherry](https://open.spotify.com/album/5T7gEom5nBZOWTTgyirIKC) | 2:56 |
 | 62 | [Ostentatious](https://open.spotify.com/track/0buN3nIjGOmj2boRh7zNrz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Ostentatious](https://open.spotify.com/album/0Y0OQfgW9cFQHrKpZvicX2) | 3:44 |
-| 63 | [Attack](https://open.spotify.com/track/4LOTqqso4oE3TCHGekewHg) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Fuji](https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J) | 2:52 |
+| 63 | [Attack](https://open.spotify.com/track/4LOTqqso4oE3TCHGekewHg) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Fuji](https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J) | 2:52 |
 | 64 | [Take It From Me](https://open.spotify.com/track/70ZFOfzQgjjudKqCF9pUOP) | [FLEECE](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [TORNADO](https://open.spotify.com/album/1u7lnVv0gqzo6TNSSvjojv) | 4:14 |
 | 65 | [Deep Red Cherry Night](https://open.spotify.com/track/5cO2TKpIPVKxNnqq2yPUUn) | [Begonia](https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6) | [Deep Red Cherry Night](https://open.spotify.com/album/2STkZLPzlGVp6YIryQESum) | 3:14 |
 | 66 | [Business Merger](https://open.spotify.com/track/5B3I3LGIa6AYixY0JXLlk8) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Business Merger](https://open.spotify.com/album/2GiNskl3pHoXqoy5sSKbbQ) | 3:37 |

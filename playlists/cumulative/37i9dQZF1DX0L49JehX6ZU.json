@@ -679,6 +679,28 @@
     },
     {
       "album": {
+        "name": "Khamoshi",
+        "url": "https://open.spotify.com/album/7lWycnEMRXAuuNs7t9dQxy"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        },
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189391,
+      "name": "Khamoshi",
+      "url": "https://open.spotify.com/track/3t07ms95QIBxBzcdF3P4CA"
+    },
+    {
+      "album": {
         "name": "Dev",
         "url": "https://open.spotify.com/album/6y1pmHE0VptaUzu39ApqqE"
       },
@@ -872,7 +894,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 200275,
       "name": "kya karoon?",
       "url": "https://open.spotify.com/track/2nF4CJQfTfwft6TYVYLKiI"

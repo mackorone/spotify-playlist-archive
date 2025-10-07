@@ -2260,7 +2260,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 217961,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/0sej79DRiZ9sdldWxMU66H"
@@ -2582,7 +2582,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 272078,
       "name": "Home",
       "url": "https://open.spotify.com/track/229RklqAOL6322ovZPLDoT"
@@ -2786,6 +2786,24 @@
       "duration_ms": 383346,
       "name": "Immunity - Asleep Version",
       "url": "https://open.spotify.com/track/3oEaSEDYCa2hwAWFpBgM9G"
+    },
+    {
+      "album": {
+        "name": "Night Runner",
+        "url": "https://open.spotify.com/album/0sXAHz4vpUAMvIx1Dwqzpt"
+      },
+      "artists": [
+        {
+          "name": "Wes Wae",
+          "url": "https://open.spotify.com/artist/3YiXMMzC5YpfykBL16fgak"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "In Passing",
+      "url": "https://open.spotify.com/track/5BF1qohbyQFSKxvlV9XlQP"
     },
     {
       "album": {
@@ -3280,6 +3298,28 @@
       "duration_ms": 239272,
       "name": "Let It Burn",
       "url": "https://open.spotify.com/track/0DxInsKBRdvAJTTLgO57tE"
+    },
+    {
+      "album": {
+        "name": "Let You Know (Sol Rising Rework)",
+        "url": "https://open.spotify.com/album/3duJl8gjpQfjUskVLUYeXC"
+      },
+      "artists": [
+        {
+          "name": "Jesse Blake",
+          "url": "https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X"
+        },
+        {
+          "name": "Sol Rising",
+          "url": "https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271428,
+      "name": "Let You Know (Sol Rising Rework)",
+      "url": "https://open.spotify.com/track/5btKmJZOBgrRUNzU39d5HE"
     },
     {
       "album": {
@@ -4016,7 +4056,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 158140,
       "name": "maybe we\u2019re different and everything is still the same",
       "url": "https://open.spotify.com/track/2iLbKE6M5c1S8X6pUXQXUx"
@@ -4384,7 +4424,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 120202,
       "name": "Night Drums",
       "url": "https://open.spotify.com/track/2ZcJPY7GajuGFRCLjoFULR"

@@ -4,7 +4,7 @@
 
 > This is JJ Hairston\. The essential tracks, all in one playlist.
 
-168 songs - 18 hr 21 min
+169 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [The Newborn King \- Live](https://open.spotify.com/track/1CfKsupM9g6aNrbxOXYv9g) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm), [Katondra Jenkins](https://open.spotify.com/artist/4siQoXWognMsG9ieD6B2fG) | [Joy Is Here \(Live\)](https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB) | 8:22 | 2024-11-08 | 2025-01-28 |
 | [The Newborn King \- Live](https://open.spotify.com/track/68480PLDDMeu3MYkQiU2FM) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm), [Katondra Jenkins](https://open.spotify.com/artist/4siQoXWognMsG9ieD6B2fG) | [Joy Is Here \(Live\)](https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa) | 8:22 | 2023-11-10 | 2024-01-23 |
 | [The Night \- Live](https://open.spotify.com/track/0pKnDHFBEcFI6myBgoalGg) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Brittany Brooks](https://open.spotify.com/artist/1IeEzdyX9BDzfDhrkfX8Js) | [Joy Is Here \(Live\)](https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa) | 3:31 | 2024-01-18 | 2024-01-25 |
-| [The Presence](https://open.spotify.com/track/5VKxzVaGwVvrYMd3K0ICVi) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA) | 3:39 | 2024-07-15 |  |
+| [The Presence](https://open.spotify.com/track/5VKxzVaGwVvrYMd3K0ICVi) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA) | 3:39 | 2024-07-15 | 2025-10-07 |
+| [The Ruler \- Live](https://open.spotify.com/track/3lsNrzXDqETWxTGW9OatY1) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [The Live Reunion: Washington, DC \(Live / Deluxe\)](https://open.spotify.com/album/7G1WmscmNcBMU1hYpdext6) | 7:03 | 2025-10-07 |  |
 | [The Victor](https://open.spotify.com/track/72WqopKBL6SloqhDSWy2Me) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [After This](https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g) | 6:17 | 2024-03-03 | 2024-06-27 |
 | [The Victor](https://open.spotify.com/track/7yXoXKRxqVSuFWETqc7SfI) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [After This](https://open.spotify.com/album/1P596ltYZVJ9sJEwGdGCWZ) | 6:17 | 2023-05-25 | 2023-08-10 |
 | [This is the Lord's Doing \(feat\. Crystal Aiken, Kevin Lemons & Higher Calling\)](https://open.spotify.com/track/1YHeESYShbCZxmqqdY8apS) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Crystal Aikin](https://open.spotify.com/artist/5AfDeAE9DebBuxecThmRsf), [Kevin Lemons & Higher Calling](https://open.spotify.com/artist/6n86jr80ui4KY5OMTyWVUg) | [Believe Again, Vol\. II](https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL) | 6:03 | 2023-04-04 | 2025-03-04 |

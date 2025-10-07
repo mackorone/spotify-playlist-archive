@@ -1,12 +1,12 @@
 {
   "description": "Best of the EDM scene in India. Cover- Ritviz",
-  "num_followers": 36872,
+  "num_followers": 36874,
   "original_name": "EDM in India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKKRUvTSXKUPpBv56Hi84fckj+m7",
+  "snapshot_id": "AAAAAGL5FdnQDtJBhA25ZEUkbbNLl5sn",
   "tracks": [
     {
       "added_at": "2025-09-19 11:22:16",
@@ -23,6 +23,42 @@
       "duration_ms": 214545,
       "name": "DHA",
       "url": "https://open.spotify.com/track/7zppLGJpnb7poKWXnytlYh"
+    },
+    {
+      "added_at": "2025-10-06 04:47:06",
+      "album": {
+        "name": "LEHEREVERYWHERE (Radio Edit)",
+        "url": "https://open.spotify.com/album/3yBaC6xcpoENd7YL5C20gX"
+      },
+      "artists": [
+        {
+          "name": "Kimeraa",
+          "url": "https://open.spotify.com/artist/7BKkgWK7uuH709FOJTH7HF"
+        },
+        {
+          "name": "Samad Khan",
+          "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
+        }
+      ],
+      "duration_ms": 153405,
+      "name": "LEHEREVERYWHERE - Radio Edit",
+      "url": "https://open.spotify.com/track/6BLnnwUut8qBCXsJu9bxAR"
+    },
+    {
+      "added_at": "2025-10-06 04:49:50",
+      "album": {
+        "name": "Shakthi",
+        "url": "https://open.spotify.com/album/1T7zssjSgnaDGpTWDCweR1"
+      },
+      "artists": [
+        {
+          "name": "ThudWiser",
+          "url": "https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Shakthi",
+      "url": "https://open.spotify.com/track/5xOavYpYa3lROHHVULZwZB"
     },
     {
       "added_at": "2025-07-09 07:44:49",

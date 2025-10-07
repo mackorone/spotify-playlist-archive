@@ -4,7 +4,7 @@
 
 > إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف: عفروتو
 
-433 songs - 21 hr 7 min
+434 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Caravan](https://open.spotify.com/track/1mDomyxsV7TpNhjsHSdAim) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Caravan](https://open.spotify.com/album/3qwsyWmHGylqvRkqUvvuzJ) | 2:29 | 2023-01-18 | 2023-05-23 |
 | [Catalina](https://open.spotify.com/track/49b5PKQTRiFp6fJq0idjB8) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [Catalina](https://open.spotify.com/album/0XcxqyJ2wJAKPFc7vpjnKX) | 2:14 | 2023-08-16 | 2023-08-25 |
 | [CHAPTER III: GORAA](https://open.spotify.com/track/11CLR83zp5oox9U0dr21Uw) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [TRAUMA \(2023\)](https://open.spotify.com/album/7i1bXILDFwI9u4SaHFOTEJ) | 3:02 | 2023-02-20 | 2023-03-03 |
-| [Code](https://open.spotify.com/track/6zgFCgu5goQ6fvcRZ8zvbT) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Code](https://open.spotify.com/album/3RrKOzOn551GmZ18WCrRnj) | 4:08 | 2024-01-29 |  |
+| [Code](https://open.spotify.com/track/6zgFCgu5goQ6fvcRZ8zvbT) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Code](https://open.spotify.com/album/3RrKOzOn551GmZ18WCrRnj) | 4:08 | 2024-01-29 | 2025-10-07 |
 | [CRISTIANO](https://open.spotify.com/track/70o1xXReo9Y5N0OPKxHB8v) | [Begad](https://open.spotify.com/artist/5jcaxl6UTzjWAUWEdldcQl), [EVO](https://open.spotify.com/artist/3zg3iSMFyA6Jl24iLbQIlx) | [EL\- RAYES x CR7](https://open.spotify.com/album/22l5F8L05DBTaQ6IjDIgJV) | 2:26 | 2024-01-25 | 2024-02-07 |
 | [Daftar A7mar](https://open.spotify.com/track/3Ezm9m5G9BnWNFeKDZ5WY3) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Alfy](https://open.spotify.com/artist/2LsOWfjooIMANdGBjtiMLz) | [Madina](https://open.spotify.com/album/5XLUPYK6v0Mbnu95pbh3Tp) | 3:06 | 2022-08-08 | 2022-10-11 |
 | [DALMA](https://open.spotify.com/track/55AFKSZFskLXl6M9XVnos8) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [FOR REAL](https://open.spotify.com/album/2plfHkMSdOqhtIkQwvkD5r) | 2:35 | 2025-10-02 |  |
@@ -413,6 +413,7 @@
 | [سخنت](https://open.spotify.com/track/3XAUmK0uUZKIWET53ty42t) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87) | [سخنت](https://open.spotify.com/album/5BkD4tMCI2qfFecCXRvtO3) | 3:06 | 2024-01-15 | 2024-02-07 |
 | [سكة](https://open.spotify.com/track/3LFoLm13Aped0za3Qx8PAO) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [سكة](https://open.spotify.com/album/5EHEsSOcBExuVkeMKayq45) | 3:14 | 2024-06-25 | 2025-04-01 |
 | [صح صح للكلام](https://open.spotify.com/track/58IDmCrPSh18wKXv1mirGt) | [E Evil](https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky), [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj) | [صح صح للكلام](https://open.spotify.com/album/6JJjjiKFYr7fUOCBOZGODr) | 3:09 | 2023-09-30 | 2023-10-06 |
+| [ضميري](https://open.spotify.com/track/60GtRQl1DegFa1Cul3FRxr) | [OTSHA](https://open.spotify.com/artist/0WB5JbRil3mMLI8nLwFhTY) | [خلف الكواليس](https://open.spotify.com/album/7ndFMl55aghFOv7CNvC2IQ) | 2:46 | 2025-10-06 |  |
 | [ع الأبيض \- 3L Abyad](https://open.spotify.com/track/70mx55jeb49jYJkjVbNR6W) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [Sulisizer](https://open.spotify.com/artist/5bih06rDRtnqB7v5S8MTSE) | [كي.أوه \(K.O\)](https://open.spotify.com/album/6E0BK1AIxnuZ24E8bOrhkg) | 3:32 | 2024-02-16 |  |
 | [عالعموم](https://open.spotify.com/track/3tfiVsnpCzewE8rPpsRIL6) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [عالعموم](https://open.spotify.com/album/1LLcr3oTtKHlbbYzxmGwkH) | 2:44 | 2024-03-08 | 2025-08-01 |
 | [عرفة](https://open.spotify.com/track/7KPk6KMHIlPO31D8Ku39vP) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [عرفة](https://open.spotify.com/album/4EXcT2v8Vy1zUpBwjMF39Y) | 2:41 | 2023-02-10 | 2023-02-14 |

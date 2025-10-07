@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,913 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,917 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 11 | [1luv](https://open.spotify.com/track/2VpNyk111vQhDyHlDwv6qM) | [DJ Chap](https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA) | [Footwork Frenzy Ep](https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI) | 4:43 |
 | 12 | [Tear It Up](https://open.spotify.com/track/44UIC6KMStyShoIvRyNSHP) | [Turk Turkelton](https://open.spotify.com/artist/1RJ1QHgaJoiAd1czuhS00d) | [Worldwidejuke Vol.2](https://open.spotify.com/album/5bsOhjBEJ7O3rQGzlmyWPs) | 4:39 |
 | 13 | [Forgotten](https://open.spotify.com/track/69L3zcmAXAW09qTz7HoQlX) | [DJ FLP](https://open.spotify.com/artist/7mcrgPUbytCnGDjt7PYXCA) | [Intuition](https://open.spotify.com/album/7rgcAQIrNsHCPRp8p7CWpM) | 6:03 |
-| 14 | [Keep the Drug$](https://open.spotify.com/track/7tzfOnSTtrr8Gzl00240Ik) | [Stayhigh](https://open.spotify.com/artist/2d51ltzSq7hB3viB1DTBEn) | [Kush, Rhodes & 808's](https://open.spotify.com/album/4xW3MYeu3Gwc224UHhNAfV) | 3:30 |
-| 15 | [Footworkin On Air](https://open.spotify.com/track/5YyTiraUCPWYDke6iwkMaz) | [Traxman](https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh) | [Da Mind Of Traxman](https://open.spotify.com/album/20gJfqZovoaiO5AmN1hoSV) | 4:01 |
+| 14 | [Footworkin On Air](https://open.spotify.com/track/5YyTiraUCPWYDke6iwkMaz) | [Traxman](https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh) | [Da Mind Of Traxman](https://open.spotify.com/album/20gJfqZovoaiO5AmN1hoSV) | 4:01 |
+| 15 | [Keep the Drug$](https://open.spotify.com/track/7tzfOnSTtrr8Gzl00240Ik) | [Stayhigh](https://open.spotify.com/artist/2d51ltzSq7hB3viB1DTBEn) | [Kush, Rhodes & 808's](https://open.spotify.com/album/4xW3MYeu3Gwc224UHhNAfV) | 3:30 |
 | 16 | [Bring It Back](https://open.spotify.com/track/0NesKGMUOHjOoPI6KWNLKT) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [The Grove](https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce) | 3:37 |
 | 17 | [Hip Thruster](https://open.spotify.com/track/2lsLDBItN7XZ1e92K5mzBc) | [NameBrandSound](https://open.spotify.com/artist/65kgJ8N0DY3S5XcMAtOSmD) | [Nowadays Pressure](https://open.spotify.com/album/2iM9f33JfLhqJofIu2K1mD) | 3:48 |
 | 18 | [Nycfw](https://open.spotify.com/track/3EQA4h2oX2HsqUXwmb9EMs) | [Dj Spaldin](https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj) | [Heavy on DA Footwork](https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ) | 4:06 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 53 | [Afrika Jungle Them](https://open.spotify.com/track/6FHGAzQKr7CnrmlRwWnjZd) | [DSS](https://open.spotify.com/artist/2T4IqxlbDbMsjHF0kljX0f) | [Afrika Jungle Them EP](https://open.spotify.com/album/3ktYpr3qQwRxWmVpKlqkNZ) | 3:12 |
 | 54 | [Juking For Live \(I.C.T.W\)](https://open.spotify.com/track/0x8GxrGOhZLJJWve0qMryZ) | [DJ Slugo](https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT) | [Juking For Live \(I.C.T.W\)](https://open.spotify.com/album/6nUlE97QCne6C6AYAdFY3F) | 3:56 |
 | 55 | [No Cap 4 2020 \- SBF14](https://open.spotify.com/track/2MPzyS96YOHV8789Bk8j9p) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [No Cap 4 2020 \(SBF14\)](https://open.spotify.com/album/5MgKGMeW2RO46jiF0R1v2R) | 2:37 |
-| 56 | [Slanted \- BSN Posse Remix](https://open.spotify.com/track/2bZty9jSWZiv4rWQqeQJAA) | [Tim Parker](https://open.spotify.com/artist/3LBR9DFhfM9nUjdu1gi7lI), [BSN Posse](https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU) | [Slanted](https://open.spotify.com/album/0lP2c6I9kE1rULPnvACaSA) | 3:46 |
-| 57 | [L](https://open.spotify.com/track/5NhmNspdkZwdMYeebLY1Hi) | [CRZKNY](https://open.spotify.com/artist/1FGPwtHOMV3xV8qtoci5po) | [T3 TRAXX, Vol\. 2](https://open.spotify.com/album/0VXeDXXyazcUW5kbzSOWSH) | 3:06 |
-| 58 | [Good Days](https://open.spotify.com/track/6vAMZ2r4RwgoC6L47owv1U) | [DJ Swisha](https://open.spotify.com/artist/3rnWXUmpJQJzzP3TIoqp8H) | [Perfecto](https://open.spotify.com/album/3SGneAajBWiCia1mHvVs2w) | 2:49 |
+| 56 | [L](https://open.spotify.com/track/5NhmNspdkZwdMYeebLY1Hi) | [CRZKNY](https://open.spotify.com/artist/1FGPwtHOMV3xV8qtoci5po) | [T3 TRAXX, Vol\. 2](https://open.spotify.com/album/0VXeDXXyazcUW5kbzSOWSH) | 3:06 |
+| 57 | [Good Days](https://open.spotify.com/track/6vAMZ2r4RwgoC6L47owv1U) | [DJ Swisha](https://open.spotify.com/artist/3rnWXUmpJQJzzP3TIoqp8H) | [Perfecto](https://open.spotify.com/album/3SGneAajBWiCia1mHvVs2w) | 2:49 |
+| 58 | [Slanted \- BSN Posse Remix](https://open.spotify.com/track/2bZty9jSWZiv4rWQqeQJAA) | [Tim Parker](https://open.spotify.com/artist/3LBR9DFhfM9nUjdu1gi7lI), [BSN Posse](https://open.spotify.com/artist/1fnlGaoXeWH8RMPVKR2gBU) | [Slanted](https://open.spotify.com/album/0lP2c6I9kE1rULPnvACaSA) | 3:46 |
 | 59 | [+3 \(feat\. DJ Rashad, DJ Paypal & Nasty Nigel\)](https://open.spotify.com/track/7LjIWJdk5Z70ZoclGOSOat) | [Nick Hook](https://open.spotify.com/artist/4ICbI408d4uYagVEL3xf7S), [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [DJ Paypal](https://open.spotify.com/artist/4hH4fEXPg3qpTDlmdNOO01), [Nasty Nigel](https://open.spotify.com/artist/42W0OUrWwVQXuHfKan5R49) | [Relationships](https://open.spotify.com/album/0x1yjRNnoer1e1H3bJOUiI) | 3:32 |
 | 60 | [Turn Up](https://open.spotify.com/track/2r9821O4VvvqaRQles7VlL) | [Nangdo](https://open.spotify.com/artist/3q8bo1K12TtwbvsPiwJWDi) | [High On Clouds](https://open.spotify.com/album/3ackwT9BASzdzkoTgqBS67) | 3:14 |
 | 61 | [Narcissus](https://open.spotify.com/track/3MEYgmIqsjW4qlW1SoflGQ) | [Xyla](https://open.spotify.com/artist/7CmkZcKpESltjho1LZJgnb) | [Ways](https://open.spotify.com/album/2PqGGOZm4IPKiXzLZpJULH) | 3:41 |

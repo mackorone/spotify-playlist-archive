@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Patrick Watson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,736,836 likes - 111 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,736,618 likes - 111 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

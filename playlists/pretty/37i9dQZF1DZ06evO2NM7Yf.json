@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOBjgAAAAAClciAduthk2aiYQrnldKH5",
+  "snapshot_id": "aOG1AAAAAADxOovMU6UDIb5QK9xjsxDs",
   "tracks": [
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All the Things You'd Ruin",
-        "url": "https://open.spotify.com/album/3TduRYFyJAvXcA2TdwMFbv"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 166046,
-      "name": "All the Things You'd Ruin",
-      "url": "https://open.spotify.com/track/2VFIq4o2PFqddHWsDQe50c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "...but i'd miss you too much!",
         "url": "https://open.spotify.com/album/2qcZh4d8Sz0JnIgQPrW9Zz"
       },
@@ -211,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Hit Wonder",
-        "url": "https://open.spotify.com/album/0gENvRT2jAQJonb6sC6W22"
+        "name": "All the Things You'd Ruin",
+        "url": "https://open.spotify.com/album/3TduRYFyJAvXcA2TdwMFbv"
       },
       "artists": [
         {
@@ -220,25 +204,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 200345,
-      "name": "One Hit Wonder",
-      "url": "https://open.spotify.com/track/314tXKMiK9aOSezLoyiCSN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Gospel According to Meg Smith",
-        "url": "https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 178743,
-      "name": "blasphemy!",
-      "url": "https://open.spotify.com/track/2v52pN6TZkYsmbafLvOYLk"
+      "duration_ms": 166046,
+      "name": "All the Things You'd Ruin",
+      "url": "https://open.spotify.com/track/2VFIq4o2PFqddHWsDQe50c"
     },
     {
       "added_at": null,
@@ -259,6 +227,38 @@
       "duration_ms": 164213,
       "name": "Sideways (feat. Meg Smith)",
       "url": "https://open.spotify.com/track/0VYCKIsGFTdKsT4iQTbNXF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Gospel According to Meg Smith",
+        "url": "https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 178743,
+      "name": "blasphemy!",
+      "url": "https://open.spotify.com/track/2v52pN6TZkYsmbafLvOYLk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Hit Wonder",
+        "url": "https://open.spotify.com/album/0gENvRT2jAQJonb6sC6W22"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 200345,
+      "name": "One Hit Wonder",
+      "url": "https://open.spotify.com/track/314tXKMiK9aOSezLoyiCSN"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cool 4 U",
-        "url": "https://open.spotify.com/album/1ADKl4iKK2T5Cx0yzNost7"
+        "name": "guitar center",
+        "url": "https://open.spotify.com/album/7DzmUhJugzmQ0O0S4U1fvp"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 139666,
-      "name": "Cool 4 U",
-      "url": "https://open.spotify.com/track/2E1Esh3QgFWafXkJDfREPV"
+      "duration_ms": 187839,
+      "name": "guitar center",
+      "url": "https://open.spotify.com/track/2KL350smdGutz70FYGjVkP"
     },
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cool 4 U",
+        "url": "https://open.spotify.com/album/1ADKl4iKK2T5Cx0yzNost7"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 139666,
+      "name": "Cool 4 U",
+      "url": "https://open.spotify.com/track/2E1Esh3QgFWafXkJDfREPV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Who Not to Love",
         "url": "https://open.spotify.com/album/4P0RKhQn50VKzyJbBYnf3v"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 183793,
       "name": "Who Not to Love",
       "url": "https://open.spotify.com/track/2vDtDVAnCMvaKmKtSPTedt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "guitar center",
-        "url": "https://open.spotify.com/album/1efqw25N4FvdLgJ2mduAz0"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 187839,
-      "name": "guitar center",
-      "url": "https://open.spotify.com/track/049lFlV3BgUKZU2Itc5rCT"
     },
     {
       "added_at": null,

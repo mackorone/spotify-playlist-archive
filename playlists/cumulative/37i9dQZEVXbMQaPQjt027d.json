@@ -845,6 +845,24 @@
     },
     {
       "album": {
+        "name": "Brainrot Rap",
+        "url": "https://open.spotify.com/album/1Q7S8jouFDtL9AGPxUGn05"
+      },
+      "artists": [
+        {
+          "name": "DJ Tralalero Tralala",
+          "url": "https://open.spotify.com/artist/5rChNZRJnV2MciNb9U6HyH"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81446,
+      "name": "Brainrot Rap",
+      "url": "https://open.spotify.com/track/4RhxWMTPGToprUiU2mvWy4"
+    },
+    {
+      "album": {
         "name": "Breakin' Dishes",
         "url": "https://open.spotify.com/album/45DVKreI7RJd1QX49dRJOS"
       },
@@ -2518,6 +2536,24 @@
     {
       "album": {
         "name": "High",
+        "url": "https://open.spotify.com/album/1AA0SM5hlP1fHFPQilHU28"
+      },
+      "artists": [
+        {
+          "name": "Paul Keen",
+          "url": "https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134220,
+      "name": "High",
+      "url": "https://open.spotify.com/track/1E9JnctOaPQP3VA4aFX2PS"
+    },
+    {
+      "album": {
+        "name": "High",
         "url": "https://open.spotify.com/album/44F0Y8cKhXQZ2RqE2ofeJh"
       },
       "artists": [
@@ -2528,7 +2564,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 134220,
       "name": "High",
       "url": "https://open.spotify.com/track/6zfJzUnevLqbmTtCCJslX2"
@@ -3668,7 +3704,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 186240,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
@@ -4720,7 +4756,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 216000,
       "name": "Round My Mind",
       "url": "https://open.spotify.com/track/4j8CfFD1QzZrQqm0srghvN"
@@ -5952,7 +5988,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 131140,
       "name": "Vader & zoon",
       "url": "https://open.spotify.com/track/1pyBvrqSmFtD3yUnXNTlJh"
@@ -6376,10 +6412,28 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 148047,
       "name": "What's a Girl to Do in '25",
       "url": "https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p"
+    },
+    {
+      "album": {
+        "name": "What\u2019s a Girl to Do in \u201825",
+        "url": "https://open.spotify.com/album/1wFswwju0J072xesMYeMCz"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148047,
+      "name": "What\u2019s a Girl to Do in \u201825",
+      "url": "https://open.spotify.com/track/4XsQ5Iq8VUNAY006J7GQY0"
     },
     {
       "album": {

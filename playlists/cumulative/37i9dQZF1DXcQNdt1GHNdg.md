@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-277 songs - 13 hr 16 min
+278 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Hero \(From "Badnaam"\)](https://open.spotify.com/track/0jF77Ini9zPCMMs7lmfogV) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Jayy Randhawa](https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w), [Yaari Ghuman](https://open.spotify.com/artist/1joJsPgNOvnSwUlCKwst3N) | [Hero \(From "Badnaam"\)](https://open.spotify.com/album/6WZJofCfrV15hdQX7AyfeL) | 3:33 | 2025-02-12 | 2025-04-17 |
 | [Holster](https://open.spotify.com/track/42PJnUtHQi7hl7D47StuRp) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Advisory](https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj) | 2:07 | 2025-02-06 | 2025-07-12 |
 | [HOMONYM](https://open.spotify.com/track/1jN6WPnJmcfuwP3MuST5v9) | [Xvir Grewal](https://open.spotify.com/artist/6kGxwXzhQX2OfUcGNi5Rh6), [Romeoz](https://open.spotify.com/artist/0YaSt6aMB7uVjmA52IwYPX) | [HOMONYM](https://open.spotify.com/album/6bVN0VRIntuVOmNsSg4abG) | 2:26 | 2025-03-13 | 2025-03-22 |
-| [HOOD\-CH](https://open.spotify.com/track/2UV4cpfmL3UFJVdXgdvnEa) | [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [HOOD\-CH](https://open.spotify.com/album/1y2eWdEBXMqCwK6y0MNWr5) | 2:52 | 2025-09-12 |  |
+| [HOOD\-CH](https://open.spotify.com/track/2UV4cpfmL3UFJVdXgdvnEa) | [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [HOOD\-CH](https://open.spotify.com/album/1y2eWdEBXMqCwK6y0MNWr5) | 2:52 | 2025-09-12 | 2025-10-07 |
 | [Hu Jattiye](https://open.spotify.com/track/72vuc3a2dvWXSKnbHgP1Yl) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Hu Jattiye](https://open.spotify.com/album/73R0sf5hUv3faSxgGBvIJ8) | 2:50 | 2025-02-03 | 2025-03-18 |
 | [Humble](https://open.spotify.com/track/3IJj5vXTXvXoGECDjoN0yL) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Humble](https://open.spotify.com/album/7G1XiSRwcQEaucF4EESV03) | 2:33 | 2025-03-10 | 2025-05-07 |
 | [HUNDO](https://open.spotify.com/track/7yz7n00FMO8AUxgvBHXZab) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [HUNDO](https://open.spotify.com/album/0vJ4vgqMg9DXt6zsnXaVRN) | 2:23 | 2024-11-08 | 2024-12-04 |
@@ -167,6 +167,7 @@
 | [LEVEL](https://open.spotify.com/track/3Som8HXULC5zwyCF4w754j) | [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [LEVEL](https://open.spotify.com/album/2LGsxAFGP9c2BPgP9r2m5M) | 2:35 | 2025-03-21 |  |
 | [Listen Girl](https://open.spotify.com/track/7CVxTGAwmjMbWdn1T6XDCb) | [Kay Vee Singh](https://open.spotify.com/artist/52sAo4U0x2dfde5UYFDU2n), [Ricky Malhi](https://open.spotify.com/artist/1p6g3paiRdQg0SUV39aaeS), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Fancy](https://open.spotify.com/album/4LHIRGFb5HbK1rtTGW0dQo) | 2:40 | 2025-01-10 | 2025-02-04 |
 | [Lock](https://open.spotify.com/track/6MOzgX8Rj8TpWhG7bd4ZWp) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Lock](https://open.spotify.com/album/26w8VWnNdWUcF5rRZc2rrZ) | 2:55 | 2025-01-23 |  |
+| [MAJHAIL](https://open.spotify.com/track/1gCyzMJLVMDwhWcJTjWMbr) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Micheal](https://open.spotify.com/artist/4HITSZH8b5ITVXjg91mFY1), [Lavish Dhiman](https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc) | [HOME RULE](https://open.spotify.com/album/7rfuzG3gpHNpvWRY5H40ct) | 1:53 | 2025-10-06 |  |
 | [Majhail](https://open.spotify.com/track/4U9gsMBTcBwMosyBxJC9Al) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Majhail](https://open.spotify.com/album/51nwNRYw6uBFk7n4GVanoB) | 2:44 | 2024-12-22 |  |
 | [Malwa Block](https://open.spotify.com/track/4d3tiblcaqGdji7XvPGHiq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:59 | 2023-07-18 | 2025-01-29 |
 | [Malwa Flow](https://open.spotify.com/track/09VWVd647SOaxdOldbQ60U) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Malwa Flow](https://open.spotify.com/album/0aW4c50XWyPUuB8upIfYQu) | 3:17 | 2025-02-19 |  |

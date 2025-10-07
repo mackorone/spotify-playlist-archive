@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: can't be blue) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: QWER) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -1192,7 +1192,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 178000,
       "name": "Awake",
       "url": "https://open.spotify.com/track/0jkTfpiISLOLYnIozYBX0x"
@@ -1905,6 +1905,24 @@
     },
     {
       "album": {
+        "name": "Special Single 'Blue Whale'",
+        "url": "https://open.spotify.com/album/4J4HRHJCwGHHutsosHWA3J"
+      },
+      "artists": [
+        {
+          "name": "QWER",
+          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Blue Whale",
+      "url": "https://open.spotify.com/track/3YfmmJkPj0IH58IP1FN8Z0"
+    },
+    {
+      "album": {
         "name": "BLUE!",
         "url": "https://open.spotify.com/album/4WzgkY9lqsZ4A8ZrT9PegM"
       },
@@ -2180,7 +2198,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 152000,
       "name": "Breakers",
       "url": "https://open.spotify.com/track/3fgIShLTZpwb5Z8tSaQxwS"
@@ -4280,7 +4298,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 174280,
       "name": "Echo! (talk to me baby)",
       "url": "https://open.spotify.com/track/5BYdnzxaLxqOXk1a94qliS"
@@ -7368,7 +7386,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 176000,
       "name": "I Did It",
       "url": "https://open.spotify.com/track/6AKmmsg5C3p86Nm8qwzYc1"
@@ -7999,6 +8017,24 @@
     },
     {
       "album": {
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/3i2i7wZcekVRnnSKzWiCmD"
+      },
+      "artists": [
+        {
+          "name": "Catch The Young",
+          "url": "https://open.spotify.com/artist/422jw2by1jl14vn1FP9EGA"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233346,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/6Hp4VpVKzMokcfK3v84smk"
+    },
+    {
+      "album": {
         "name": "In your time",
         "url": "https://open.spotify.com/album/28zyPz1P8dJhPh7PdjefnS"
       },
@@ -8570,7 +8606,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "KICK OUT",
       "url": "https://open.spotify.com/track/1Gww9PNkelaMkdqpXQeYmW"
@@ -13575,6 +13611,24 @@
     },
     {
       "album": {
+        "name": "EXchange4, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2I17RyVqyk6yJgj3SF4T0T"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Ruin My Life",
+      "url": "https://open.spotify.com/track/1VXv0ltyTJWcRltuEf5Qin"
+    },
+    {
+      "album": {
         "name": "Rules",
         "url": "https://open.spotify.com/album/4iSSfrjweTsHTDG75Xw8hz"
       },
@@ -15362,7 +15416,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-30",
+      "date_removed": null,
       "duration_ms": 192040,
       "name": "Summer Was You",
       "url": "https://open.spotify.com/track/7fiSE0NQwgJPj5QHhln8L1"
@@ -16562,7 +16616,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 229275,
       "name": "To Our Youth",
       "url": "https://open.spotify.com/track/2PFKUY9Fdqwo8GhLGlIB7G"
@@ -16670,7 +16724,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 223181,
       "name": "Tongue",
       "url": "https://open.spotify.com/track/2rEyMH1vFbgJYrscOshMRP"
@@ -18926,7 +18980,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 232558,
       "name": "\ub098\ubb34",
       "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"

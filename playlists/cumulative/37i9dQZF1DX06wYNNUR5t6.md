@@ -2,9 +2,9 @@
 
 ### [Christian Rock Hits](https://open.spotify.com/playlist/37i9dQZF1DX06wYNNUR5t6)
 
-> Recent hits from all your favorite Christian Rock artists!  Cover: Disciple
+> Recent hits from all your favorite Christian Rock artists!  Cover: Skillet
 
-100 songs - 6 hr 19 min
+101 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Rise](https://open.spotify.com/track/5s2VU6HkVBb92xnyNeM57q) | [The Letter Black](https://open.spotify.com/artist/7AH2bTtNIOYu24O3NuFxhG) | [Rise](https://open.spotify.com/album/0DsC2zkOx6orIpcTzmPchK) | 3:14 | 2021-04-10 | 2024-07-04 |
 | [Scars](https://open.spotify.com/track/5zKKBcIm0sVDJhWlZhAi3C) | [In the Verse](https://open.spotify.com/artist/4Ilxsqfishc8GhrarGM7RS) | [Scars](https://open.spotify.com/album/7545gyNLbh98fjLrnAgLBK) | 3:03 | 2021-04-10 | 2025-08-05 |
 | [Set Me Free](https://open.spotify.com/track/4jmM3DfZKnNmdk9E1hu9lg) | [Relentless Flood](https://open.spotify.com/artist/6EvpEo8wSoAZMDb3oV2y0V) | [Escape the Fall](https://open.spotify.com/album/5rVRimOcZf9yLvTZ72xluq) | 4:24 | 2021-04-10 |  |
+| [Showtime \- Live](https://open.spotify.com/track/2JXVG3HKGQqgKF1a9XnjbE) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Showtime \(Live\)](https://open.spotify.com/album/1aLb0v21t3iYfoEJKbGD4X) | 4:54 | 2025-10-06 |  |
 | [Stupid Deep](https://open.spotify.com/track/0CDc1hvrNZZw6qVNfq7Fp4) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Stupid Deep](https://open.spotify.com/album/6iBbaoo5wrHot6lLJQVuqW) | 3:10 | 2024-07-04 |  |
 | [Take It All Back](https://open.spotify.com/track/1486GTNZyKS12K9NSP1QRj) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Take It All Back](https://open.spotify.com/album/0JNxzwUAvDPOboU7nmP9GU) | 3:24 | 2024-11-29 |  |
 | [Tension](https://open.spotify.com/track/01l6eMjuUKrOgBW4ygu6Ka) | [Random Hero](https://open.spotify.com/artist/0FOuR45KED7o5G3bugebGA) | [Tension](https://open.spotify.com/album/7xE8XGR4Mcv9KUqDoqT9Q0) | 3:05 | 2021-04-10 | 2025-08-05 |
@@ -97,7 +98,7 @@
 | [This Is Us](https://open.spotify.com/track/6oW2rfPx2crZZgxxrboCIZ) | [One Crown](https://open.spotify.com/artist/4TKVKRdQ20EkXxEQG84Syi) | [This Is Us](https://open.spotify.com/album/0Vl04c7ygRUlH9xwn8EjZY) | 3:21 | 2024-07-04 | 2025-03-08 |
 | [Too Late](https://open.spotify.com/track/2HdXs8oiSI2I3K65sPg1WS) | [Amongst the Giants](https://open.spotify.com/artist/12rJfJCwHnKC7VuuLk9xtJ) | [Obscene](https://open.spotify.com/album/0lzEISCPcYEJ78E1qxWGQm) | 3:08 | 2021-04-10 |  |
 | [Victory](https://open.spotify.com/track/3tiumLzoEO3girnNu45ohv) | [DaysEye](https://open.spotify.com/artist/5xXNSdXlFulKXyuOxHeIwW) | [Victory](https://open.spotify.com/album/16G3IromCnZSKdlOsdttXe) | 3:25 | 2021-04-10 | 2024-04-19 |
-| [Victory](https://open.spotify.com/track/5ddlzv2lJ7jCNfkVbqVtfc) | [DaysEye](https://open.spotify.com/artist/5xXNSdXlFulKXyuOxHeIwW) | [Victory](https://open.spotify.com/album/5tKOZ7U2T3ELxL5v1NLmJx) | 3:25 | 2021-04-10 |  |
+| [Victory](https://open.spotify.com/track/5ddlzv2lJ7jCNfkVbqVtfc) | [DaysEye](https://open.spotify.com/artist/5xXNSdXlFulKXyuOxHeIwW) | [Victory](https://open.spotify.com/album/5tKOZ7U2T3ELxL5v1NLmJx) | 3:25 | 2021-04-10 | 2025-10-07 |
 | [Watched You Fall](https://open.spotify.com/track/7rKUQ1D1k7T3jVg6rZ8nTn) | [Collision of Innocence](https://open.spotify.com/artist/35wkX6HAVNXCsDF79SnoGc) | [Watched You Fall](https://open.spotify.com/album/2Z6QJuv2hBn7AwUDepHTPs) | 3:33 | 2021-04-10 |  |
 | [What Are You Waiting For](https://open.spotify.com/track/0Nu0KWmS8h2QRV2vhCzE3S) | [Futur](https://open.spotify.com/artist/4Z9WYkdvygjmT03fH7syx9) | [What Are You Waiting For](https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9) | 3:19 | 2025-08-04 |  |
 | [When Everything Means Nothing](https://open.spotify.com/track/20dil44lFapp6oNBfCQlif) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Dark Skies](https://open.spotify.com/album/73AvGSgwYiht6qw4p7LmLc) | 3:51 | 2021-04-10 | 2024-07-04 |

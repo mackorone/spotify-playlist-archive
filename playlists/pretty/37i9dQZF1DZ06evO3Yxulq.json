@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 41374,
+  "num_followers": 41379,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOBjgAAAAAAy3X21qlTc1LXihB4WcuMw",
+  "snapshot_id": "aOG1AAAAAAD+fxTFKaHabE5WvdDYblUi",
   "tracks": [
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 458993,
-      "name": "Mi Padre Me Ama - Adoraci\u00f3n Espont\u00e1nea",
-      "url": "https://open.spotify.com/track/18Xx6rRsGhSjThPrTKzE1X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Desmayes Coraz\u00f3n",
         "url": "https://open.spotify.com/album/7v0Igdo6tJPjOfdXiNxyKg"
       },
@@ -887,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta Poder Ver",
-        "url": "https://open.spotify.com/album/7wc3QJ8twMqY8mlDb0MupP"
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
       },
       "artists": [
         {
@@ -896,9 +880,29 @@
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 309263,
-      "name": "Hasta Poder Ver",
-      "url": "https://open.spotify.com/track/5PPcHsB4euq3Eg90F4Dngs"
+      "duration_ms": 458993,
+      "name": "Mi Padre Me Ama - Adoraci\u00f3n Espont\u00e1nea",
+      "url": "https://open.spotify.com/track/18Xx6rRsGhSjThPrTKzE1X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        }
+      ],
+      "duration_ms": 338293,
+      "name": "Seguirte",
+      "url": "https://open.spotify.com/track/4V3dOBfoR4WKBKqgFba2HJ"
     },
     {
       "added_at": null,
@@ -923,22 +927,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
+        "name": "Hasta Poder Ver",
+        "url": "https://open.spotify.com/album/7wc3QJ8twMqY8mlDb0MupP"
       },
       "artists": [
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
         }
       ],
-      "duration_ms": 338293,
-      "name": "Seguirte",
-      "url": "https://open.spotify.com/track/4V3dOBfoR4WKBKqgFba2HJ"
+      "duration_ms": 309263,
+      "name": "Hasta Poder Ver",
+      "url": "https://open.spotify.com/track/5PPcHsB4euq3Eg90F4Dngs"
     }
   ],
   "unique_name": "This Is Christine D'Clario",

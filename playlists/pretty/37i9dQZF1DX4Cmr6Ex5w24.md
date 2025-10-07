@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 
 > Revisit the retro Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,772 likes - 75 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,808 likes - 75 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 | 71 | [Roja Roja](https://open.spotify.com/track/6QleOhmbHLwcyB0vOm1uwb) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX) | [Kadhalar Dhinam](https://open.spotify.com/album/6lomyyBX6OCYGNKutQBbhZ) | 5:47 |
 | 72 | [Kannai Kattikkollathae](https://open.spotify.com/track/4ND4dDfxFWOZx5PXo0bU85) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Iruvar](https://open.spotify.com/album/5ztXu69YTnoVGJixlOcmBD) | 6:01 |
 | 73 | [Kathalikkum Penin Kaikal](https://open.spotify.com/track/7HHMnYSDwFRrsPThKwp1Ba) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [S.P\. Pallavi](https://open.spotify.com/artist/31zE3XsSq1gHAik8uajDFP), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm) | [Kaadhalan](https://open.spotify.com/album/69KnM0TANwkgU1LCJGOjYT) | 4:49 |
-| 74 | [Enna Vilai](https://open.spotify.com/track/1Fg7iPvC0uugUZAjKfN3Wz) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144) | [Kadhalar Dhinam](https://open.spotify.com/album/6lomyyBX6OCYGNKutQBbhZ) | 5:55 |
-| 75 | [En Veettu Thottathil](https://open.spotify.com/track/3mRb10pErMGcLNepfuCV2j) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Gentleman](https://open.spotify.com/album/6e97t01pmASFo2XJFkJtOC) | 4:03 |
+| 74 | [En Veettu Thottathil](https://open.spotify.com/track/3mRb10pErMGcLNepfuCV2j) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Gentleman](https://open.spotify.com/album/6e97t01pmASFo2XJFkJtOC) | 4:03 |
+| 75 | [Ottagtha Katikko](https://open.spotify.com/track/7pT6IaXJKXDq85Ucu2fNUg) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Gentleman](https://open.spotify.com/album/6e97t01pmASFo2XJFkJtOC) | 5:14 |
 
 Snapshot ID: `AAAAAJa62iCPgNNvLEWc6nz2E1qjsLAp`

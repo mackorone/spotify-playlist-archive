@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 319574,
+  "num_followers": 319569,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -191,26 +191,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "FAIRY PHONK",
-        "url": "https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        },
-        {
-          "name": "ZAND",
-          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
-        }
-      ],
-      "duration_ms": 125454,
-      "name": "KILL ALL PREDATORS",
-      "url": "https://open.spotify.com/track/0mH0iiNINYULYFwszeqWnW"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "AFRAID TO DIE",
         "url": "https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T"
       },
@@ -259,6 +239,42 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "FAIRY PHONK",
+        "url": "https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        },
+        {
+          "name": "ZAND",
+          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
+        }
+      ],
+      "duration_ms": 125454,
+      "name": "KILL ALL PREDATORS",
+      "url": "https://open.spotify.com/track/0mH0iiNINYULYFwszeqWnW"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "RAT WARS",
+        "url": "https://open.spotify.com/album/6tkuHFo0hTGGkWEGjdKOjz"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "duration_ms": 263706,
+      "name": "DSM-V",
+      "url": "https://open.spotify.com/track/31JoCS9r2IzGp13ENm3Cvd"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
         "url": "https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 189552,
       "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
       "url": "https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "RAT WARS",
-        "url": "https://open.spotify.com/album/6tkuHFo0hTGGkWEGjdKOjz"
-      },
-      "artists": [
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        }
-      ],
-      "duration_ms": 263706,
-      "name": "DSM-V",
-      "url": "https://open.spotify.com/track/31JoCS9r2IzGp13ENm3Cvd"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "It's Supposed To Hurt",
+        "url": "https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "duration_ms": 212086,
+      "name": "It's Supposed To Hurt",
+      "url": "https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Intoxicated",
         "url": "https://open.spotify.com/album/385qWF7ljbjZNS6r9LCbZ6"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 117857,
       "name": "Handshakes With Snakes",
       "url": "https://open.spotify.com/track/4oztf7RcwAIxhd1gBp0pjg"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "It's Supposed To Hurt",
-        "url": "https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE"
-      },
-      "artists": [
-        {
-          "name": "House of Protection",
-          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
-        }
-      ],
-      "duration_ms": 212086,
-      "name": "It's Supposed To Hurt",
-      "url": "https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Learn To Forget",
+        "url": "https://open.spotify.com/album/0wYHmySvVY3n0W9L2UX1T5"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "Learn To Forget",
+      "url": "https://open.spotify.com/track/5hxWel7I4T6mlEMP1YFG2m"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "In Limbo",
         "url": "https://open.spotify.com/album/4tNRCmCPj37qUhIeoTlzUv"
       },
@@ -551,22 +567,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Learn To Forget",
-        "url": "https://open.spotify.com/album/0wYHmySvVY3n0W9L2UX1T5"
-      },
-      "artists": [
-        {
-          "name": "House of Protection",
-          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
-        }
-      ],
-      "duration_ms": 181466,
-      "name": "Learn To Forget",
-      "url": "https://open.spotify.com/track/5hxWel7I4T6mlEMP1YFG2m"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "DOWN (feat. Malevolence)",
         "url": "https://open.spotify.com/album/2k2jqcFGVY0lmKeGdhdDMD"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Mitsuko",
-        "url": "https://open.spotify.com/album/4FRKJAQ4jL39BOV1ju8GKO"
-      },
-      "artists": [
-        {
-          "name": "Lake Malice",
-          "url": "https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO"
-        }
-      ],
-      "duration_ms": 129078,
-      "name": "Mitsuko",
-      "url": "https://open.spotify.com/track/1oIEBoljXDbbaEciwMVzfx"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "FLATLINE",
         "url": "https://open.spotify.com/album/0ntAkOuUZbtb6LtccaZoMA"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 172067,
       "name": "FLATLINE",
       "url": "https://open.spotify.com/track/7eavNfBDdDIj3nkQb6yOxZ"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Mitsuko",
+        "url": "https://open.spotify.com/album/4FRKJAQ4jL39BOV1ju8GKO"
+      },
+      "artists": [
+        {
+          "name": "Lake Malice",
+          "url": "https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO"
+        }
+      ],
+      "duration_ms": 129078,
+      "name": "Mitsuko",
+      "url": "https://open.spotify.com/track/1oIEBoljXDbbaEciwMVzfx"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -899,18 +899,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Soul Revolution",
-        "url": "https://open.spotify.com/album/4JNGZre3bq4Fgmy0zUkOel"
+        "name": "Camel Dancefloor",
+        "url": "https://open.spotify.com/album/2kIuH8eEDlpUQhYVt5pvMn"
       },
       "artists": [
         {
-          "name": "Fire From The Gods",
-          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+          "name": "Igorrr",
+          "url": "https://open.spotify.com/artist/2p2uE4i92Dn4DkThfoKIB9"
         }
       ],
-      "duration_ms": 214775,
-      "name": "Soul Revolution",
-      "url": "https://open.spotify.com/track/3OMaAVh09E6AgvevhWybRP"
+      "duration_ms": 193066,
+      "name": "Camel Dancefloor",
+      "url": "https://open.spotify.com/track/2Y4diJY7G623aDm3eHfqJA"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -935,18 +935,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Camel Dancefloor",
-        "url": "https://open.spotify.com/album/2kIuH8eEDlpUQhYVt5pvMn"
+        "name": "Soul Revolution",
+        "url": "https://open.spotify.com/album/4JNGZre3bq4Fgmy0zUkOel"
       },
       "artists": [
         {
-          "name": "Igorrr",
-          "url": "https://open.spotify.com/artist/2p2uE4i92Dn4DkThfoKIB9"
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
         }
       ],
-      "duration_ms": 193066,
-      "name": "Camel Dancefloor",
-      "url": "https://open.spotify.com/track/2Y4diJY7G623aDm3eHfqJA"
+      "duration_ms": 214775,
+      "name": "Soul Revolution",
+      "url": "https://open.spotify.com/track/3OMaAVh09E6AgvevhWybRP"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -963,6 +963,22 @@
       "duration_ms": 656933,
       "name": "Frost (C)",
       "url": "https://open.spotify.com/track/24jWKZE0j30z3LlnzArFf2"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Oportunista",
+        "url": "https://open.spotify.com/album/0bcLhYRcisUhImKFtAxxEh"
+      },
+      "artists": [
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "duration_ms": 188235,
+      "name": "Oportunista",
+      "url": "https://open.spotify.com/track/5j6GKJumEweQIpE91QZcby"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -995,22 +1011,6 @@
       "duration_ms": 90491,
       "name": "FUCK WITH A WITCH 2",
       "url": "https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Oportunista",
-        "url": "https://open.spotify.com/album/0bcLhYRcisUhImKFtAxxEh"
-      },
-      "artists": [
-        {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
-        }
-      ],
-      "duration_ms": 188235,
-      "name": "Oportunista",
-      "url": "https://open.spotify.com/track/5j6GKJumEweQIpE91QZcby"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Fuck What You Heard",
-        "url": "https://open.spotify.com/album/5rbWbdGyN4eA7xXkbzLnpI"
-      },
-      "artists": [
-        {
-          "name": "Body Count",
-          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "Fuck What You Heard",
-      "url": "https://open.spotify.com/track/5WjbME5ZH3917e5KbF8QMS"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "saw BONES",
         "url": "https://open.spotify.com/album/5EPgTJ0WWdo5o3MuPBhSAC"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 147200,
       "name": "saw BONES",
       "url": "https://open.spotify.com/track/0vDGdGQGyvpubJ0dJTg7uk"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Fuck What You Heard",
+        "url": "https://open.spotify.com/album/5rbWbdGyN4eA7xXkbzLnpI"
+      },
+      "artists": [
+        {
+          "name": "Body Count",
+          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "Fuck What You Heard",
+      "url": "https://open.spotify.com/track/5WjbME5ZH3917e5KbF8QMS"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 237354,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Faking It",
         "url": "https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 328015,
       "name": "Faking It",
       "url": "https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 237354,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Fight Alone",
-        "url": "https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx"
-      },
-      "artists": [
-        {
-          "name": "Motive Black",
-          "url": "https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw"
-        }
-      ],
-      "duration_ms": 220333,
-      "name": "Fight Alone",
-      "url": "https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Nowhere Now Here",
         "url": "https://open.spotify.com/album/4SnsgTwNCmqJMOiuj4hxH3"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 128571,
       "name": "DIVINE DISINTEGRATION",
       "url": "https://open.spotify.com/track/6jqaDTLg6elZ4P2CyVF13W"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Fight Alone",
+        "url": "https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx"
+      },
+      "artists": [
+        {
+          "name": "Motive Black",
+          "url": "https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw"
+        }
+      ],
+      "duration_ms": 220333,
+      "name": "Fight Alone",
+      "url": "https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Only Paradise Lost",
-        "url": "https://open.spotify.com/album/10Cjt3n61aOLXuAq7in5iN"
-      },
-      "artists": [
-        {
-          "name": "vedawave",
-          "url": "https://open.spotify.com/artist/1wEiY25dYJBXos4zDqAwz1"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Only Paradise Lost",
-      "url": "https://open.spotify.com/track/1w7iFvhfsK0QtFWZFGjYVG"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "open water",
         "url": "https://open.spotify.com/album/1zmVVYStJqZZWxcsjfb9uT"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 126912,
       "name": "open water",
       "url": "https://open.spotify.com/track/592JTl3UlQvZyBd2329Sgf"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Only Paradise Lost",
+        "url": "https://open.spotify.com/album/10Cjt3n61aOLXuAq7in5iN"
+      },
+      "artists": [
+        {
+          "name": "vedawave",
+          "url": "https://open.spotify.com/artist/1wEiY25dYJBXos4zDqAwz1"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Only Paradise Lost",
+      "url": "https://open.spotify.com/track/1w7iFvhfsK0QtFWZFGjYVG"
     },
     {
       "added_at": "2024-07-19 10:51:43",

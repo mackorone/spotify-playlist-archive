@@ -1161,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/0kvc8rqF5vtlKwN78Fa85y"
+      },
+      "artists": [
+        {
+          "name": "NOVEMBER KID",
+          "url": "https://open.spotify.com/artist/4gFiVj1eoR6KQPQyFZgXRM"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121818,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/3u6QGMiBRiIr3nprnSBo0s"
+    },
+    {
+      "album": {
         "name": "Best of Me (Radio Edit)",
         "url": "https://open.spotify.com/album/4r3jo7rdIgbAbMXX6tkyTB"
       },
@@ -11954,7 +11972,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 212201,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/5asbG4btHJ2h2T4F1EtNK8"

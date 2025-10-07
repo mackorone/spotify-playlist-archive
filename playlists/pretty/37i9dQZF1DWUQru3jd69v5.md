@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Poli Ok in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,663 likes - 57 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,670 likes - 57 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 3 | [La Cura](https://open.spotify.com/track/24lMpSDWvI4iZ5h1ZDB7Lx) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [La Cura](https://open.spotify.com/album/00McN06J1SBCnck2lW9ftZ) | 1:40 |
 | 4 | [UOMO CATTIVO \(feat\. Nabi\)](https://open.spotify.com/track/3nv625SWTqVVctz7AtecoY) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [PROGETTO X](https://open.spotify.com/album/7wnvQLGtbRN9Y4zpCVYxdX) | 3:16 |
 | 5 | [Scama](https://open.spotify.com/track/4yoixiIoVeayqPFfAxIYo1) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu), [Ksub](https://open.spotify.com/artist/4l97AfjXUOO1SZ3QjLz0SQ) | [Scama](https://open.spotify.com/album/1sq14uYbikBnVfn1xB5erA) | 2:03 |
-| 6 | [7/7](https://open.spotify.com/track/0MF0GER29KwI2l58GV2aCN) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv), [Dadco](https://open.spotify.com/artist/7xlv8SzcNiwDd7fri9t7fv) | [7/7](https://open.spotify.com/album/35TTZNBNhlNrSUoSS4wom6) | 2:15 |
+| 6 | [7/7](https://open.spotify.com/track/0MF0GER29KwI2l58GV2aCN) | [Dadco](https://open.spotify.com/artist/7xlv8SzcNiwDd7fri9t7fv), [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [7/7](https://open.spotify.com/album/35TTZNBNhlNrSUoSS4wom6) | 2:15 |
 | 7 | [Pupazzo](https://open.spotify.com/track/7GencZ7T6dXDGuB065De7q) | [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy), [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa) | [Pupazzo](https://open.spotify.com/album/2dMrvxyaSNxkVuQysmIGvM) | 3:06 |
 | 8 | [TOUR](https://open.spotify.com/track/7rXxRfe0ozlR5MeFr5yzEd) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [TOUR](https://open.spotify.com/album/6zlXDaiNxjOnzBkFyJRBLc) | 2:30 |
 | 9 | [7 NANI](https://open.spotify.com/track/3GZfkiTpQ7I8KSDqiGeHa7) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [ilovethisbeat](https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [7 NANI](https://open.spotify.com/album/4dpWBmnAbdcl5WM4xBeJ6k) | 1:47 |

@@ -1,12 +1,12 @@
 {
   "description": "GUITARS. BASS. DRUMS. That's all you need really. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world. Cover: Green Day",
-  "num_followers": 1534,
+  "num_followers": 1533,
   "original_name": "Plugged In",
   "owner": {
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "AAAHaWuR7TcVlVfRzLyp3mxiYp02kjGw",
+  "snapshot_id": "AAAHcm7TNZf3ePh57ukpnIj1grw/M2HD",
   "tracks": [
     {
       "added_at": "2025-10-02 01:31:51",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/3WPvPjDakz0hoE4VASyr6z"
     },
     {
+      "added_at": "2025-10-06 23:36:00",
+      "album": {
+        "name": "AIN'T MY GAME",
+        "url": "https://open.spotify.com/album/4wPVVVZAqOGl4JMQAn50aq"
+      },
+      "artists": [
+        {
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "AIN'T MY GAME",
+      "url": "https://open.spotify.com/track/3oPq1bVJJDlqXytAjsroGu"
+    },
+    {
       "added_at": "2025-10-02 01:31:51",
       "album": {
         "name": "milk of the madonna",
@@ -55,22 +71,6 @@
       "duration_ms": 248840,
       "name": "milk of the madonna",
       "url": "https://open.spotify.com/track/2gcxuSpWOOGR0z0JGsPB7B"
-    },
-    {
-      "added_at": "2025-10-02 01:31:51",
-      "album": {
-        "name": "Destroy Me",
-        "url": "https://open.spotify.com/album/6M1XaMPbxRZZcmM38GwUQc"
-      },
-      "artists": [
-        {
-          "name": "PRESIDENT",
-          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
-        }
-      ],
-      "duration_ms": 162826,
-      "name": "Destroy Me",
-      "url": "https://open.spotify.com/track/5sdqwzp1kSHHqTFsyfhrZW"
     },
     {
       "added_at": "2025-10-02 01:31:51",
@@ -119,6 +119,22 @@
       "duration_ms": 221037,
       "name": "I Don\u2019t Work Here Anymore",
       "url": "https://open.spotify.com/track/0VmGgo6i8HOmrp5y8qqBxQ"
+    },
+    {
+      "added_at": "2025-10-02 01:31:51",
+      "album": {
+        "name": "Destroy Me",
+        "url": "https://open.spotify.com/album/6M1XaMPbxRZZcmM38GwUQc"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "duration_ms": 162826,
+      "name": "Destroy Me",
+      "url": "https://open.spotify.com/track/5sdqwzp1kSHHqTFsyfhrZW"
     },
     {
       "added_at": "2025-10-02 01:31:51",

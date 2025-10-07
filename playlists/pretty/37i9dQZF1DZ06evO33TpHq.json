@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 58594,
+  "num_followers": 58629,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOBjgAAAAAD413zmPbR7O3B9P8GLSSVf",
+  "snapshot_id": "aOG1AAAAAAA/WhSUbndKMZfwhlsb4ff4",
   "tracks": [
     {
       "added_at": null,
@@ -163,18 +163,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homesick For Heaven",
-        "url": "https://open.spotify.com/album/7u9KebbEd6OIu74RbeVLSX"
+        "name": "So So Good (Live)",
+        "url": "https://open.spotify.com/album/4dZx4AIFmNQo4KCUyhY3ru"
       },
       "artists": [
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 250000,
-      "name": "Homesick For Heaven",
-      "url": "https://open.spotify.com/track/4XKxQUkr1OW2DQD2geloRS"
+      "duration_ms": 288766,
+      "name": "So So Good - Live",
+      "url": "https://open.spotify.com/track/3uNx9NvRHm60mDwOBFCkqg"
     },
     {
       "added_at": null,
@@ -211,26 +219,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "So So Good (Live)",
-        "url": "https://open.spotify.com/album/4dZx4AIFmNQo4KCUyhY3ru"
+        "name": "Homesick For Heaven",
+        "url": "https://open.spotify.com/album/7u9KebbEd6OIu74RbeVLSX"
       },
       "artists": [
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 288766,
-      "name": "So So Good - Live",
-      "url": "https://open.spotify.com/track/3uNx9NvRHm60mDwOBFCkqg"
+      "duration_ms": 250000,
+      "name": "Homesick For Heaven",
+      "url": "https://open.spotify.com/track/4XKxQUkr1OW2DQD2geloRS"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 234266,
-      "name": "Resurrection Story",
-      "url": "https://open.spotify.com/track/7l7tQa5ua6beykmoT5tZYc"
+      "duration_ms": 240800,
+      "name": "God Is Good",
+      "url": "https://open.spotify.com/track/00bSuPKmdXWlhdaYgyPta3"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 240800,
-      "name": "God Is Good",
-      "url": "https://open.spotify.com/track/00bSuPKmdXWlhdaYgyPta3"
+      "duration_ms": 234266,
+      "name": "Resurrection Story",
+      "url": "https://open.spotify.com/track/7l7tQa5ua6beykmoT5tZYc"
     },
     {
       "added_at": null,

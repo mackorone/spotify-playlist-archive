@@ -2,9 +2,9 @@
 
 ### [Latest Tamil](https://open.spotify.com/playlist/37i9dQZF1DWVo4cdnikh7Z)
 
-> New Music from Kollywood.<br/>Cover : Madharaasi
+> New Music from Kollywood.<br/>Cover : Dude
 
-2,030 songs - 5 day 2 hr 40 min
+2,031 songs - 5 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1931,6 +1931,7 @@
 | [Venbaa Penne \(From "Saindhav"\)](https://open.spotify.com/track/1w5KgnMTtRC8GCteFEzKnC) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Venbaa Penne \(From "Saindhav"\)](https://open.spotify.com/album/1uUUU13bDNTtpqVXtatH9x) | 3:38 | 2023-12-12 | 2024-02-23 |
 | [Vendum](https://open.spotify.com/track/4ogxWEsy2bTf2QlN9T5JrZ) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Meenakshi Elayaraja](https://open.spotify.com/artist/5daBau8I9vfgnEtu3UzA7M), [Horn Flakes](https://open.spotify.com/artist/7Ij5FSwOHJZud0WOCGbLMb) | [Vendum](https://open.spotify.com/album/13KAqQtq0W4J57BtDbOxNE) | 4:21 | 2023-03-06 | 2023-03-15 |
 | [Vennilaa Veedhiyil \- From "Rajni"](https://open.spotify.com/track/4N99FFeJqKqoy5MNtRApg2) | [4 Musics](https://open.spotify.com/artist/7xXL0CQAFbyCFSmKLdK0PR), [Haritha Balakrishnan](https://open.spotify.com/artist/7raoZtXGaOtVbltcbcNEgU), [Eravi](https://open.spotify.com/artist/1m6EgnNMkhEL03YspUUcQR) | [Vennilaa Veedhiyil \(From "Rajni"\)](https://open.spotify.com/album/3U4taGx0pbCfo0cGX2lTvp) | 3:03 | 2023-12-07 | 2023-12-30 |
+| [Vennilavae](https://open.spotify.com/track/51vhcLABblX3q2xUbMn8Tm) | [Mugen Rao](https://open.spotify.com/artist/521uA5nxi1L31JgK6yd2lA), [Sarath Santosh](https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp), [Amrish](https://open.spotify.com/artist/0aGTnzmMIRLkP50xeuuINj), [Madan Karky](https://open.spotify.com/artist/6EtLhQRslM09DO6EQLzodI) | [Wolf](https://open.spotify.com/album/4AuTUKuT145ctcHCaSRscO) | 3:38 | 2025-10-06 |  |
 | [Vennilavae \(From "Wolf"\)](https://open.spotify.com/track/5u5IMzpuSo7WeR2ozXflme) | [Mugen Rao](https://open.spotify.com/artist/521uA5nxi1L31JgK6yd2lA), [Sarath Santosh](https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp) | [Vennilavae \(From "Wolf"\)](https://open.spotify.com/album/3N5kF8QpzuaH0HqJIA79mB) | 3:38 | 2024-07-01 | 2024-07-30 |
 | [Vennilavu Saaral \(From "Amaran"\) \(Tamil\)](https://open.spotify.com/track/4gmhBxZM8IdmGX85MnVtvf) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ), [Yugabharathi](https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e) | [Vennilavu Saaral \(From "Amaran"\) \(Tamil\)](https://open.spotify.com/album/7ldoqAb5KxFLw4fAKm8Tdp) | 3:33 | 2024-10-17 | 2025-01-09 |
 | [Venum Macha Peace \(From "Oh God Beautiful"\)](https://open.spotify.com/track/46rjKpAKpnWhEVEx4EoiUO) | [JC Joe](https://open.spotify.com/artist/5HyqWvR8oIkQb3ZZHSRbGQ), [Vignesh Ramakrishna](https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu), [Sivakarthikeyan](https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr) | [Venum Macha Peace \(From "Oh God Beautiful"\)](https://open.spotify.com/album/6KhtYSXXCbFfTHsJ3wPGuw) | 2:54 | 2025-08-11 |  |

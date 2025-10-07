@@ -2,7 +2,7 @@
 
 ### [afro&b ](https://open.spotify.com/playlist/37i9dQZF1DWU4DdJqbjPl5)
 
-> Intersection of R&B and afrobeats\. Cover: Joshua Baraka & Jaz Karis
+> Intersection of R&B and afrobeats\. Cover: Lloyiso
 
 484 songs - 1 day 1 hr 25 min
 

@@ -4,7 +4,7 @@
 
 > De beste tracks in WS❗️Cover: Eves Laurent
 
-166 songs - 7 hr 33 min
+167 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [160](https://open.spotify.com/track/7tkhoPEvhqjPlh3TcKHqU9) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [160](https://open.spotify.com/album/44jKkRxDb0ldNyEDq6eoib) | 1:44 | 2025-08-21 |  |
 | [1942](https://open.spotify.com/track/2gS56EP8dsjqIZUvIqy5Tn) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [2019 \(DELUXE\)](https://open.spotify.com/album/25YWapebrhujpU387FLiR5) | 2:18 | 2025-07-17 | 2025-09-05 |
 | [2 iPHONES](https://open.spotify.com/track/3W2kYeHZ4sKIjU2Us1sOgd) | [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [2 iPHONES](https://open.spotify.com/album/3vADJKhXuZPrBoC7dkW4JB) | 2:20 | 2025-07-17 |  |
-| [4 Nachten](https://open.spotify.com/track/4h0LrHKF07slilrXVrS2zd) | [Flashy](https://open.spotify.com/artist/5sXROBdCYLZ26gvHtpj4gd) | [4 Nachten](https://open.spotify.com/album/0eNV6MidqDMCeJ7PZqLsaC) | 3:10 | 2025-08-28 |  |
+| [4 Nachten](https://open.spotify.com/track/4h0LrHKF07slilrXVrS2zd) | [Flashy](https://open.spotify.com/artist/5sXROBdCYLZ26gvHtpj4gd) | [4 Nachten](https://open.spotify.com/album/0eNV6MidqDMCeJ7PZqLsaC) | 3:10 | 2025-08-28 | 2025-10-07 |
 | [419](https://open.spotify.com/track/5KoI4zz4XTdgtFNQt2WQqb) | [Safouu](https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy), [Hefner](https://open.spotify.com/artist/0kmyGm8XFYQyoysy0dpuVx), [Maycash](https://open.spotify.com/artist/3XuZ73r4HTBo0C8rlGSCmD) | [419](https://open.spotify.com/album/2xQagP7aOJ0nhzfYy5j6Pk) | 3:04 | 2025-09-18 |  |
 | [5 In De Nacht \(feat\. Ronnie Flex\)](https://open.spotify.com/track/1RC3n8iZgTi3mb0yU619zq) | [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [5 In De Nacht \(feat\. Ronnie Flex\)](https://open.spotify.com/album/746kcPHvl2QXI25D8cOUaZ) | 2:45 | 2025-07-17 | 2025-08-15 |
 | [50KG](https://open.spotify.com/track/2RfClfmY59U946jZ8I7XHc) | [Klemma](https://open.spotify.com/artist/1iL5mkCy8kbG1shtgGQY6i), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Pergio](https://open.spotify.com/artist/4gUzXRDRTdIogRLkgLhyVW) | [50KG](https://open.spotify.com/album/3mjBldTBjTxrcBBjTGNqc0) | 2:04 | 2025-09-18 | 2025-10-03 |
@@ -91,6 +91,7 @@
 | [LIES](https://open.spotify.com/track/46Zi8b9UbvjwNpwngsyckC) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [LIES](https://open.spotify.com/album/5g3O1A0CXtTT1iKll0hSiN) | 3:19 | 2025-07-17 | 2025-09-26 |
 | [Lira Galore \- Remix](https://open.spotify.com/track/7EQaMPLaycCb7azZrBlQMR) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn) | [Lira Galore \(Remix\)](https://open.spotify.com/album/1RIBfx2LGcHp9O5BFAtOdk) | 2:31 | 2025-07-17 | 2025-09-26 |
 | [Love Me](https://open.spotify.com/track/7yrAtv3ZzvMhc1H57aWZK2) | [Brasco](https://open.spotify.com/artist/1oF9VGP4yn9vVu1sPDLAyr), [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd) | [Love Me](https://open.spotify.com/album/1DePVl9EojfWwgqIDTh3mo) | 2:07 | 2025-08-04 | 2025-08-15 |
+| [Mac of Kentucky \- Remix](https://open.spotify.com/track/1I3kc0antKgJUR1YtEZTaK) | [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC) | [Mac of Kentucky \(Remix\)](https://open.spotify.com/album/4WtawYvfpDLEeMAbZcrQG3) | 2:20 | 2025-10-06 |  |
 | [Mainport](https://open.spotify.com/track/4e938d4sdR1R8hK6Dh6jPw) | [Mario Cash](https://open.spotify.com/artist/1NmZEnCbCyf1O1bkTXZhDB), [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ) | [Mainport](https://open.spotify.com/album/3PF9BwmEOTXvj4UR14rAP0) | 2:35 | 2025-07-17 | 2025-08-26 |
 | [Major](https://open.spotify.com/track/2UGtLQ8NMyamfkDmQOlDi4) | [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW) | [Major](https://open.spotify.com/album/54krODQnFs2nIt4zUysQUQ) | 2:30 | 2025-09-25 |  |
 | [Makkelijk](https://open.spotify.com/track/2gTKZKyPtfghl9NO7hIxmo) | [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu), [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC), [Kili](https://open.spotify.com/artist/6A9qX1ebPIWADHzSSOGh8S) | [Makkelijk](https://open.spotify.com/album/0LM7W6rBaEM7vs11d82l6M) | 2:31 | 2025-08-14 | 2025-09-12 |

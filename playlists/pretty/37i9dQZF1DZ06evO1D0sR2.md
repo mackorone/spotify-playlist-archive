@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 
 > This is JJ Hairston\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,112 likes - 50 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,114 likes - 50 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 | 43 | [You Are Awesome](https://open.spotify.com/track/4h5GMPfnPIHhcZ0yuVWSAw) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA) | 5:29 |
 | 44 | [Everything Is Changed \- Live](https://open.spotify.com/track/0IlKCT84rEbw0PSaoGgDx9) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [Exalted...Live In Baltimore \(Deluxe Edition\)](https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR) | 6:53 |
 | 45 | [Song Of Praise \- Live](https://open.spotify.com/track/1W6V1aIkv5IWisAus6Ovmn) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Wendi H\. Wyatt](https://open.spotify.com/artist/3Z9zNs4VOdu9Sxlonm5j06) | [The Live Reunion: Washington, DC](https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs) | 6:42 |
-| 46 | [We Adore You \- Live](https://open.spotify.com/track/6X0MR8zGMm0HkrY0bbuOI3) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm) | [Joy Is Here \(Live\)](https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB) | 8:19 |
-| 47 | [All Things Well](https://open.spotify.com/track/0go5IhO6HOuKwwag6izAo8) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [I See Victory](https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR) | 7:03 |
+| 46 | [All Things Well](https://open.spotify.com/track/0go5IhO6HOuKwwag6izAo8) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [I See Victory](https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR) | 7:03 |
+| 47 | [You Reign](https://open.spotify.com/track/19fFT5cKOgn6lgqdVGCESu) | [Full Gospel Baptist Church Fellowship International Ministry of Worship](https://open.spotify.com/artist/6PJVrZQUx2azXg7XcVagYW), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [One Sound](https://open.spotify.com/album/2KmdWOkXROfYS4NGeKp7yk) | 6:35 |
 | 48 | [Glory and Honor \- Live](https://open.spotify.com/track/3IMaPnkSJjgnnWgRdn89oF) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [Exalted...Live In Baltimore \(Deluxe Edition\)](https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR) | 7:24 |
-| 49 | [The Presence](https://open.spotify.com/track/5VKxzVaGwVvrYMd3K0ICVi) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/50hxoMiAYBD7ff6VoCfWwA) | 3:39 |
-| 50 | [You Reign](https://open.spotify.com/track/19fFT5cKOgn6lgqdVGCESu) | [Full Gospel Baptist Church Fellowship International Ministry of Worship](https://open.spotify.com/artist/6PJVrZQUx2azXg7XcVagYW), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [One Sound](https://open.spotify.com/album/2KmdWOkXROfYS4NGeKp7yk) | 6:35 |
+| 49 | [We Adore You \- Live](https://open.spotify.com/track/6X0MR8zGMm0HkrY0bbuOI3) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm) | [Joy Is Here \(Live\)](https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB) | 8:19 |
+| 50 | [The Ruler \- Live](https://open.spotify.com/track/3lsNrzXDqETWxTGW9OatY1) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [The Live Reunion: Washington, DC \(Live / Deluxe\)](https://open.spotify.com/album/7G1WmscmNcBMU1hYpdext6) | 7:03 |
 
-Snapshot ID: `aOBjgAAAAACkcx1zpGmgbmNK/O+CoQCO`
+Snapshot ID: `aOG1AAAAAAA9vElqXPoQBoXs4Lgl6Tsp`

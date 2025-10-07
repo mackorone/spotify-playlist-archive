@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Mariana Nolasco",
-  "num_followers": 437239,
+  "num_followers": 437230,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -615,26 +615,6 @@
     {
       "added_at": "2025-10-03 16:30:13",
       "album": {
-        "name": "Mar Manso",
-        "url": "https://open.spotify.com/album/5Au5HBEVUfC394hbv3ycki"
-      },
-      "artists": [
-        {
-          "name": "Estev\u00e3o F\u00e9lix",
-          "url": "https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui"
-        },
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        }
-      ],
-      "duration_ms": 189500,
-      "name": "Mar Manso",
-      "url": "https://open.spotify.com/track/2WWltTw9plq2V2TtRDjRlG"
-    },
-    {
-      "added_at": "2025-10-03 16:30:13",
-      "album": {
         "name": "Raio de Sol",
         "url": "https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 206779,
       "name": "Raio de Sol",
       "url": "https://open.spotify.com/track/2mQRVgy18O2NlngYrBNfrP"
+    },
+    {
+      "added_at": "2025-10-03 16:30:13",
+      "album": {
+        "name": "Mar Manso",
+        "url": "https://open.spotify.com/album/5Au5HBEVUfC394hbv3ycki"
+      },
+      "artists": [
+        {
+          "name": "Estev\u00e3o F\u00e9lix",
+          "url": "https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui"
+        },
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        }
+      ],
+      "duration_ms": 189500,
+      "name": "Mar Manso",
+      "url": "https://open.spotify.com/track/2WWltTw9plq2V2TtRDjRlG"
     },
     {
       "added_at": "2025-10-03 16:30:13",
@@ -739,38 +739,6 @@
     {
       "added_at": "2025-10-03 16:30:13",
       "album": {
-        "name": "Abrigo",
-        "url": "https://open.spotify.com/album/23PdmCyFeFSdD6sEtCdaPs"
-      },
-      "artists": [
-        {
-          "name": "Fi Barreto",
-          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
-        }
-      ],
-      "duration_ms": 166692,
-      "name": "Abrigo",
-      "url": "https://open.spotify.com/track/6zKELA7gCngukYmDKQ6Lqb"
-    },
-    {
-      "added_at": "2025-10-03 16:30:13",
-      "album": {
-        "name": "Prece",
-        "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
-      },
-      "artists": [
-        {
-          "name": "RAY",
-          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
-        }
-      ],
-      "duration_ms": 227906,
-      "name": "Prece",
-      "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
-    },
-    {
-      "added_at": "2025-10-03 16:30:13",
-      "album": {
         "name": "Tanto",
         "url": "https://open.spotify.com/album/6UnPlaIzrlpTwH40c9Z1R1"
       },
@@ -803,22 +771,34 @@
     {
       "added_at": "2025-10-03 16:30:13",
       "album": {
-        "name": "Jaqueta",
-        "url": "https://open.spotify.com/album/3EXKMyTGauvzDkaVmxCXSB"
+        "name": "Abrigo",
+        "url": "https://open.spotify.com/album/23PdmCyFeFSdD6sEtCdaPs"
       },
       "artists": [
         {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        },
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+          "name": "Fi Barreto",
+          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
         }
       ],
-      "duration_ms": 136630,
-      "name": "Jaqueta",
-      "url": "https://open.spotify.com/track/3o4Jk3ZgfYzB6iyA3HGZ9u"
+      "duration_ms": 166692,
+      "name": "Abrigo",
+      "url": "https://open.spotify.com/track/6zKELA7gCngukYmDKQ6Lqb"
+    },
+    {
+      "added_at": "2025-10-03 16:30:13",
+      "album": {
+        "name": "Prece",
+        "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
+      },
+      "artists": [
+        {
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
+        }
+      ],
+      "duration_ms": 227906,
+      "name": "Prece",
+      "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
     },
     {
       "added_at": "2025-10-03 16:30:13",
@@ -851,6 +831,26 @@
       "duration_ms": 238604,
       "name": "Vamos de Viagem",
       "url": "https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw"
+    },
+    {
+      "added_at": "2025-10-03 16:30:13",
+      "album": {
+        "name": "Jaqueta",
+        "url": "https://open.spotify.com/album/3EXKMyTGauvzDkaVmxCXSB"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        },
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 136630,
+      "name": "Jaqueta",
+      "url": "https://open.spotify.com/track/3o4Jk3ZgfYzB6iyA3HGZ9u"
     },
     {
       "added_at": "2025-10-03 16:30:13",
@@ -895,18 +895,22 @@
     {
       "added_at": "2025-10-03 16:30:13",
       "album": {
-        "name": "Me Deixa Ser S\u00f3 Teu",
-        "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
+        "name": "olhos mar",
+        "url": "https://open.spotify.com/album/58BUdZZ32V8sylavdHQVY1"
       },
       "artists": [
         {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+          "name": "Braga",
+          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
+        },
+        {
+          "name": "Pedro Aranha",
+          "url": "https://open.spotify.com/artist/4SAKW6KWTozVGBVw0PIzNS"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Me Deixa Ser S\u00f3 Teu",
-      "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
+      "duration_ms": 83467,
+      "name": "olhos mar",
+      "url": "https://open.spotify.com/track/7EkFBHUyRhjARpnNZr6PgO"
     },
     {
       "added_at": "2025-10-03 16:30:13",
@@ -927,22 +931,18 @@
     {
       "added_at": "2025-10-03 16:30:13",
       "album": {
-        "name": "olhos mar",
-        "url": "https://open.spotify.com/album/58BUdZZ32V8sylavdHQVY1"
+        "name": "Me Deixa Ser S\u00f3 Teu",
+        "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
       },
       "artists": [
         {
-          "name": "Braga",
-          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
-        },
-        {
-          "name": "Pedro Aranha",
-          "url": "https://open.spotify.com/artist/4SAKW6KWTozVGBVw0PIzNS"
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
         }
       ],
-      "duration_ms": 83467,
-      "name": "olhos mar",
-      "url": "https://open.spotify.com/track/7EkFBHUyRhjARpnNZr6PgO"
+      "duration_ms": 160000,
+      "name": "Me Deixa Ser S\u00f3 Teu",
+      "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
     },
     {
       "added_at": "2025-10-03 16:30:13",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-10-03 16:30:13",
       "album": {
-        "name": "A Saudade Vem Bater",
-        "url": "https://open.spotify.com/album/0hqAGPNFZZpYjd7uLRNiJV"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "A Saudade Vem Bater",
-      "url": "https://open.spotify.com/track/0F0ppDu7oMRYywOQfnnHGj"
-    },
-    {
-      "added_at": "2025-10-03 16:30:13",
-      "album": {
         "name": "NEM SE O MUNDO ACABAR",
         "url": "https://open.spotify.com/album/20sOCWA4LGpIE3KXvWv2Te"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 206505,
       "name": "Eu Gosto Assim",
       "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
+    },
+    {
+      "added_at": "2025-10-03 16:30:13",
+      "album": {
+        "name": "A Saudade Vem Bater",
+        "url": "https://open.spotify.com/album/0hqAGPNFZZpYjd7uLRNiJV"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 129229,
+      "name": "A Saudade Vem Bater",
+      "url": "https://open.spotify.com/track/0F0ppDu7oMRYywOQfnnHGj"
     },
     {
       "added_at": "2025-10-03 16:30:13",

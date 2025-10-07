@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,520 likes - 387 songs - 19 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,521 likes - 387 songs - 19 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 62 | [The Best Thing For You Is Me](https://open.spotify.com/track/4o8hWdJ5A7lv6lS9Mgqk5S) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Art](https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G) | 4:18 |
 | 63 | [Happy Easter](https://open.spotify.com/track/0cyTZuTy5jXlYUl6iSoWfl) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Six Pack: Easter \- EP](https://open.spotify.com/album/11qVcPPNlca22wXSj1Avua) | 2:33 |
 | 64 | [Moonshine Lullaby](https://open.spotify.com/track/0J0fAVN5LlFDiig7FKgtal) | [Bernadette Peters](https://open.spotify.com/artist/1lIG8lqWxus7LqThGUXMa1), [Annie Get Your Gun \- The 1999 Broadway Cast](https://open.spotify.com/artist/3vtelc32p1gWe6kKotQpfI), [Tom Wopat](https://open.spotify.com/artist/7vgw2PRsF1Ouh9i7r8bTJu) | [Irving Berlin \- The Family Album](https://open.spotify.com/album/1f7Oi3uEccOJor7YBKpLTZ) | 3:58 |
-| 65 | [Heat Wave](https://open.spotify.com/track/3Fc83pvJzQ5VcRFSGlvMCO) | [Ethel Waters](https://open.spotify.com/artist/3INcDDCxVKMIQT6rfR7kud) | [The Incomparable Ethel Waters](https://open.spotify.com/album/7prJnYtEmNoa90U7NKfroz) | 3:01 |
-| 66 | [A Pretty Girl Is Like a Melody](https://open.spotify.com/track/3XTGJlIluS71fut4P7uBsI) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol9 / 1939 \- 1940](https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun) | 2:37 |
+| 65 | [A Pretty Girl Is Like a Melody](https://open.spotify.com/track/3XTGJlIluS71fut4P7uBsI) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol9 / 1939 \- 1940](https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun) | 2:37 |
+| 66 | [Heat Wave](https://open.spotify.com/track/3Fc83pvJzQ5VcRFSGlvMCO) | [Ethel Waters](https://open.spotify.com/artist/3INcDDCxVKMIQT6rfR7kud) | [The Incomparable Ethel Waters](https://open.spotify.com/album/7prJnYtEmNoa90U7NKfroz) | 3:01 |
 | 67 | [Doin' What Comes Natur'lly](https://open.spotify.com/track/00tlt9EPiT9NitrJ7r5mBk) | [Bernadette Peters](https://open.spotify.com/artist/1lIG8lqWxus7LqThGUXMa1), [Annie Get Your Gun \- 1999 Broadway Cast](https://open.spotify.com/artist/0w34yGDpcmJF0GK1dp14tw) | [Annie Get Your Gun: The New Broadway Cast Recording](https://open.spotify.com/album/2SxCtvFthZqPOkja0lo6yh) | 2:14 |
 | 68 | [When Winter Comes \(with Johnny MacAfee\) \- 78rpm Version](https://open.spotify.com/track/6SCa4F9z0xaSgcXXPSgN2F) | [Eddy Duchin & His Orchestra](https://open.spotify.com/artist/50oLNc8Bq2NmKzqTKiyLHd), [Johnny MacAfee](https://open.spotify.com/artist/6mDwN5ANGSR2THLSMuZVrz) | [Christmas On The Bandstand](https://open.spotify.com/album/05QbwBxaTvwoZXItQX5rkk) | 2:34 |
 | 69 | [No Strings](https://open.spotify.com/track/0qJUPkzN7UYbQBYltuzVlF) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [The Early Years at RKO](https://open.spotify.com/album/6c9s5OiVL6l0aM1z67K3uR) | 2:33 |
@@ -396,4 +396,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 386 | [They Always Follow Me Around](https://open.spotify.com/track/26DUrnMBUJ6DQGdhzMgNxa) | [Jon Peterson](https://open.spotify.com/artist/07NsCTxS9SkrG7UHDw0dAy) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:27 |
 | 387 | [I'm a Dancing Teacher Now](https://open.spotify.com/track/7z2mOgbLgU2KxNUP86yITT) | [Ray DeMattis](https://open.spotify.com/artist/3r8JgnATt9fBES77wAgbdi) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:06 |
 
-Snapshot ID: `Ab+FMgAAAAAHajYoeZQUZPl90/P/rPLw`
+Snapshot ID: `Ab+KtAAAAABMz7DHLSYI+Vmep+N7ES0E`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,525 likes - 50 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,576 likes - 50 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 11 | [Nit Khair Manga](https://open.spotify.com/track/56xKQu2yEWxz5h2Iv5jwVe) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Nit Khair Manga](https://open.spotify.com/album/1GpHMadC0c2fwLxZPPBe5b) | 2:21 |
 | 12 | [Rutba](https://open.spotify.com/track/1VtoihGms5WJk85W2OLqeP) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Kali Jotta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5PX3Pa8S9mb76rDis21Ljc) | 6:44 |
 | 13 | [Kadi Aa Mil Sanwal](https://open.spotify.com/track/4tGycbAMbMuajOmaSgCkI8) | [Kamal Khan](https://open.spotify.com/artist/01DlVvmRpQFutrYzh0HmF8) | [Kadi Aa Mil Sanwal](https://open.spotify.com/album/1FCU1d6a7oTjGpT4zytkAH) | 4:08 |
-| 14 | [Ghazal](https://open.spotify.com/track/3eRa8kceGoVTtF8e2PYvCi) | [Ammri](https://open.spotify.com/artist/5MPjfZvwPc5tjpNNPYDxQr), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq) | [Ghazal](https://open.spotify.com/album/7KH85irsR6yzG4GUDEeoaR) | 3:19 |
-| 15 | [Ik Tu Hi Tu Hi \(Mehfil Mix\)](https://open.spotify.com/track/2nOHNCkYKM5964mADMnFp6) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Mausam](https://open.spotify.com/album/6IXC7pxtf6QKK7BVQUvIxP) | 5:51 |
+| 14 | [Ik Tu Hi Tu Hi \(Mehfil Mix\)](https://open.spotify.com/track/2nOHNCkYKM5964mADMnFp6) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Mausam](https://open.spotify.com/album/6IXC7pxtf6QKK7BVQUvIxP) | 5:51 |
+| 15 | [Ghazal](https://open.spotify.com/track/3eRa8kceGoVTtF8e2PYvCi) | [Ammri](https://open.spotify.com/artist/5MPjfZvwPc5tjpNNPYDxQr), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq) | [Ghazal](https://open.spotify.com/album/7KH85irsR6yzG4GUDEeoaR) | 3:19 |
 | 16 | [Waris Shah Nu](https://open.spotify.com/track/4tfk5JMKtuPZ9omn8SxxsG) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX), [Preeti Uttam](https://open.spotify.com/artist/4soRtfeAZ1TBKGZjtufJMU) | [Pinjar](https://open.spotify.com/album/4WJdoCtxUH7nAaudUbOOPa) | 9:03 |
 | 17 | [Tere Vaastey](https://open.spotify.com/track/6CPStPrCzQaNxRHP9gid67) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Nargis Fakhri](https://open.spotify.com/artist/1tSV6wUtJWPNuEp4aSMzhS) | [Seasons of Sartaaj](https://open.spotify.com/album/4xF2qIUtsAvN5laJlXuav6) | 5:10 |
 | 18 | [Nazaraa](https://open.spotify.com/track/06u4Dl0Rx1CTT84L2YdCBX) | [Puranchand Wadali](https://open.spotify.com/artist/4Ya6sj5W70ZEa0ghrJYk8h), [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO), [Aar Bee](https://open.spotify.com/artist/1ztfAE52RW11rNYUZaINIc), [Sufi Bhatt](https://open.spotify.com/artist/0p3gHGl9hJrATChGbWrbe4) | [Nazaraa](https://open.spotify.com/album/5iCcHyEBQZgTVScHW89gf3) | 5:10 |

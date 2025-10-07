@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\.  cover: Kenshi Yonezu + Hikaru Utada
 
-933 songs - 2 day 5 hr 30 min
+934 songs - 2 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Let me battle](https://open.spotify.com/track/0DQuB9Yygeh2yvQ03B8hUX) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [Let me battle](https://open.spotify.com/album/29UcJWKi5DuqL4bxBfhpCz) | 3:00 | 2024-04-18 | 2024-04-26 |
 | [Line of sight](https://open.spotify.com/track/2jTB1mOZvop7h4YddpJndw) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/0jhtODRQmtW7lvT9Ika34U) | 3:33 | 2023-05-09 | 2023-06-09 |
 | [LIVE IT UP! \(feat\. Furui Riho\)](https://open.spotify.com/track/2UzNrRpOVm83g8CHCXY64P) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM), [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [LIVE IT UP! \(feat\. Furui Riho\)](https://open.spotify.com/album/7EhenG8cXC6o2jHnAUHemC) | 3:45 | 2025-04-24 | 2025-07-18 |
+| [Lollipop](https://open.spotify.com/track/1dgsJyEnUltr4pfGe09UOv) | [miComet](https://open.spotify.com/artist/6iKMuH9DRhu4OnpxQNs7Io) | [Lollipop](https://open.spotify.com/album/54u6odNddmCJMqxER7WnJx) | 3:11 | 2025-10-06 |  |
 | [Lonely in Gorgeous](https://open.spotify.com/track/1Dl1SlF0wySEhHDrn74f3H) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Lonely in Gorgeous](https://open.spotify.com/album/0WSozCLhgdTtqgB6207YSv) | 3:52 | 2025-05-29 | 2025-07-25 |
 | [Love Groovin'](https://open.spotify.com/track/5vXhl78aOAmAV1sLKJotwI) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l) | [Love Groovin'](https://open.spotify.com/album/6TwU6qWEIcymqe1ilpNyNi) | 3:05 | 2023-05-30 | 2023-06-28 |
 | [Love Like This](https://open.spotify.com/track/1eULGMOdkcFd3xTD1zh2f5) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Love Like This](https://open.spotify.com/album/2vPe5MKYCOM31HqnY0uZEw) | 4:20 | 2025-07-31 | 2025-09-06 |
@@ -869,7 +870,7 @@
 | [百花繚乱](https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [百花繚乱](https://open.spotify.com/album/3LDV2xGL9HiqCsQujEPQLb) | 2:59 | 2025-01-16 | 2025-06-13 |
 | [眠れ \- Nemure \(ED Theme to Call of the Night Season 2\)](https://open.spotify.com/track/1C5jZ3xvS4wSVt5pWfjRBX) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [眠れ \- Nemure](https://open.spotify.com/album/2NToRGP9EZVIFwIZe9wxDq) | 2:25 | 2025-07-17 | 2025-08-22 |
 | [眠れない](https://open.spotify.com/track/12al9sDYshsCcdF4HMuIpZ) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [楠木ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [眠れない](https://open.spotify.com/album/70pTLXqIjxiRFycmU3VRB4) | 3:47 | 2023-11-02 | 2025-01-17 |
-| [空](https://open.spotify.com/track/2v99oKRqNh53YIeJmHyRts) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [空](https://open.spotify.com/album/5fg8QLCJt6TpzAPjD5JMTK) | 3:39 | 2025-09-18 |  |
+| [空](https://open.spotify.com/track/2v99oKRqNh53YIeJmHyRts) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [空](https://open.spotify.com/album/5fg8QLCJt6TpzAPjD5JMTK) | 3:39 | 2025-09-18 | 2025-10-07 |
 | [紺色に憧れて](https://open.spotify.com/track/0uNELWoVBRVsmeeGjNgGfc) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [紺色に憧れて](https://open.spotify.com/album/0pamS1zgtw84s4qocKynlk) | 4:02 | 2024-06-20 | 2024-09-27 |
 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 | 2023-05-09 | 2025-09-12 |
 | [絶対零度](https://open.spotify.com/track/389rEslJY9vh7TZemIA4y7) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [絶対零度](https://open.spotify.com/album/4cAgsEZlaDdg3PSH3IAgEy) | 3:18 | 2024-04-04 | 2025-01-17 |

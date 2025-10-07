@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbeVBg6r355b.md) - [plain]
 
 > Sleep deeper with soft and seamless white noise
 
-[Spotify](https://open.spotify.com/user/spotify) - 255 likes - 73 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 282 likes - 73 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

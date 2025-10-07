@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48OvCv93avz.md) - [plain]
 
 > Enter the <a href="spotify:site:infinityplaylist">Infinity Playlist</a>\.  Music from "Demon Slayer"\. <br/>  ©吾峠呼世晴／集英社・アニプレックス・ufotable
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,640 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,602 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48OvCv93avz.md) - [plain]
 | 49 | [大団円](https://open.spotify.com/track/3cFpmIKUmifiAhvkH3TrxV) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」遊郭編 オリジナルサウンドトラック](https://open.spotify.com/album/5czFPP3dehjE4C3PeP4HO4) | 3:23 |
 | 50 | [感謝の見送り](https://open.spotify.com/track/7COP718eNyYdXOzmQxOVvC) | [椎名豪](https://open.spotify.com/artist/5SwtzFnHzuWGai6tPOHBeH) | [「鬼滅の刃」刀鍛冶の里編 オリジナルサウンドトラック](https://open.spotify.com/album/3XWluQCHEe2W1M0NvbPQOq) | 0:54 |
 
-Snapshot ID: `AAAAAA050KWrFEwo1Of8gL/gWg98xvXr`
+Snapshot ID: `AAAAADaLc5cV3YKup4cFqUNeh2/3AHYO`

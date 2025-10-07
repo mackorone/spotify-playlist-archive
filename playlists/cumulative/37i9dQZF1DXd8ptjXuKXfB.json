@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon! Cover: Pamkutya",
+  "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon! ",
   "name": "Most Men\u0151",
   "tracks": [
     {
@@ -296,7 +296,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 146666,
       "name": "Beh\u00e1zasodtam",
       "url": "https://open.spotify.com/track/3SBqXm4ArrhOqNdUwHvzGa"
@@ -1915,6 +1915,28 @@
     },
     {
       "album": {
+        "name": "csendh\u00e1bor\u00edt\u00e1s?!",
+        "url": "https://open.spotify.com/album/1xjOE1GQmQQzq0OCae1XMl"
+      },
+      "artists": [
+        {
+          "name": "girlhood",
+          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
+        },
+        {
+          "name": "Indigo",
+          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186352,
+      "name": "d\u00fch\u00f6ng\u0151",
+      "url": "https://open.spotify.com/track/6IsRKpp3f9kE67pTQi7cnG"
+    },
+    {
+      "album": {
         "name": "EGY/KETT\u0150",
         "url": "https://open.spotify.com/album/4ZGTtTBhvo82ptO3YcTno4"
       },
@@ -2220,6 +2242,28 @@
       "duration_ms": 182666,
       "name": "EZ AZ \u00c1RA",
       "url": "https://open.spotify.com/track/6yTX00Aj6tqE5WNSFCB9DZ"
+    },
+    {
+      "album": {
+        "name": "FARKASOK",
+        "url": "https://open.spotify.com/album/0uHbHg0650Ke5hOoplxBWm"
+      },
+      "artists": [
+        {
+          "name": "Moln\u00e1r Tam\u00e1s",
+          "url": "https://open.spotify.com/artist/50ktSO1tNyaOAn7mC2lOWm"
+        },
+        {
+          "name": "Gege",
+          "url": "https://open.spotify.com/artist/38EesGcG4R51X2wGLcb9sd"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149186,
+      "name": "FARKASOK",
+      "url": "https://open.spotify.com/track/3hKKWN0YAYZlDEJ3Xjd0vS"
     },
     {
       "album": {
@@ -3150,6 +3194,24 @@
       "duration_ms": 215476,
       "name": "Her Eyes",
       "url": "https://open.spotify.com/track/37KlEsunxdtWMTiSZOujDj"
+    },
+    {
+      "album": {
+        "name": "her\u00f3t",
+        "url": "https://open.spotify.com/album/2S06E2r9OS9rwNpVB5BWmF"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194375,
+      "name": "her\u00f3t",
+      "url": "https://open.spotify.com/track/4mFHpUfQG5U3xXOubtyGZP"
     },
     {
       "album": {
@@ -4500,7 +4562,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 166206,
       "name": "Marimba",
       "url": "https://open.spotify.com/track/243WfEVYauoBabr1HDrJMU"
@@ -4676,7 +4738,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 143142,
       "name": "MILF",
       "url": "https://open.spotify.com/track/4OzNBJIHhiYKRe5COThmC3"
@@ -4720,6 +4782,24 @@
       "duration_ms": 161739,
       "name": "Milli\u00f3k",
       "url": "https://open.spotify.com/track/5trI6snHPkJHvg0cygjRes"
+    },
+    {
+      "album": {
+        "name": "Izabella",
+        "url": "https://open.spotify.com/album/5VRMD3rmLqHuKes1zuzHof"
+      },
+      "artists": [
+        {
+          "name": "VargaD",
+          "url": "https://open.spotify.com/artist/2Bewai96wtY5KrwBOMk2Vb"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210778,
+      "name": "Minden \u00e9jjel",
+      "url": "https://open.spotify.com/track/6HTr5hV1c09xemMLe72QED"
     },
     {
       "album": {
@@ -4916,7 +4996,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 181276,
       "name": "Mondanak",
       "url": "https://open.spotify.com/track/7hhL6Wa9Pgx6EsxdKXiIiJ"
@@ -5076,7 +5156,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 183333,
       "name": "M\u00e9gegyszer",
       "url": "https://open.spotify.com/track/6MoY6upCR0LGbyy9HOVwJ2"
@@ -5292,7 +5372,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 173592,
       "name": "NGZ LDN BER",
       "url": "https://open.spotify.com/track/3suDFP1Nwxi6a2dUKRFvJg"
@@ -6283,6 +6363,24 @@
     },
     {
       "album": {
+        "name": "REND\u0150R B\u00c1CSI, K\u00c9REM",
+        "url": "https://open.spotify.com/album/185LSkdiE5rEJb0gpDFK3b"
+      },
+      "artists": [
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174843,
+      "name": "REND\u0150R B\u00c1CSI, K\u00c9REM",
+      "url": "https://open.spotify.com/track/3RrdbFM2AF1fT9dK70mMRP"
+    },
+    {
+      "album": {
         "name": "Rend\u0151rb\u00e1",
         "url": "https://open.spotify.com/album/381XsrVAdCTvbLyPqpyd7w"
       },
@@ -6458,7 +6556,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 163448,
       "name": "rum",
       "url": "https://open.spotify.com/track/1E4dmBbgu6ut66FiXYlIfw"
@@ -7036,6 +7134,40 @@
       "duration_ms": 191240,
       "name": "Szobor",
       "url": "https://open.spotify.com/track/51VGaJxdSKbMe0MgUz77Or"
+    },
+    {
+      "album": {
+        "name": "MENNI MIXTAPE",
+        "url": "https://open.spotify.com/album/2ppanRLrOHhtXlf3RztiB7"
+      },
+      "artists": [
+        {
+          "name": "Wavy",
+          "url": "https://open.spotify.com/artist/6yhyLqCUsp3DMQDRRb6iEq"
+        },
+        {
+          "name": "Co Lee",
+          "url": "https://open.spotify.com/artist/7AFCBet5F4Pocp1il3bxv0"
+        },
+        {
+          "name": "Kolibri",
+          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
+        },
+        {
+          "name": "FRANKO",
+          "url": "https://open.spotify.com/artist/4z7BpuAzNBJCtnkNjYNgKb"
+        },
+        {
+          "name": "Dan Pinto",
+          "url": "https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191240,
+      "name": "Szobor",
+      "url": "https://open.spotify.com/track/6hWybKVOmVE6q4LeJRcoay"
     },
     {
       "album": {
@@ -7653,6 +7785,24 @@
     },
     {
       "album": {
+        "name": "Natural '24",
+        "url": "https://open.spotify.com/album/5G825912knqkKkjcsUJOYF"
+      },
+      "artists": [
+        {
+          "name": "Szek\u00e9r Gerg\u0151",
+          "url": "https://open.spotify.com/artist/0asJOq10QQ4t0Repov7ALD"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Toyboy",
+      "url": "https://open.spotify.com/track/7w5T7TAF1tA6xP6dCrLkrd"
+    },
+    {
+      "album": {
         "name": "Tudod, Hmmm",
         "url": "https://open.spotify.com/album/3ovDAFqqWTL7ZmfXnICsZj"
       },
@@ -8120,6 +8270,24 @@
       "duration_ms": 162400,
       "name": "V\u00e1lassz",
       "url": "https://open.spotify.com/track/14nvfnRd79NHxt8cdMhJeM"
+    },
+    {
+      "album": {
+        "name": "V\u00e1ltoznak a helyek",
+        "url": "https://open.spotify.com/album/7GxcJ9gtzHjt7mDsFrx7G4"
+      },
+      "artists": [
+        {
+          "name": "P.Y.F.U.",
+          "url": "https://open.spotify.com/artist/1bBLTanRAg5hDyeEYC6p6c"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "V\u00e1ltoznak a helyek",
+      "url": "https://open.spotify.com/track/2c6BIUKM9dLPm89XQDcfP0"
     },
     {
       "album": {

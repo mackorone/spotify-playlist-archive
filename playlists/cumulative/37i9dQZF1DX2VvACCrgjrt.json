@@ -4660,7 +4660,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 137595,
       "name": "Connect",
       "url": "https://open.spotify.com/track/6An6JPuqOMgE9DV3Nk1u7A"
@@ -20606,6 +20606,28 @@
       "duration_ms": 232984,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"
+    },
+    {
+      "album": {
+        "name": "Talk to You",
+        "url": "https://open.spotify.com/album/0I64lKZ66PErO3mZYiVTeA"
+      },
+      "artists": [
+        {
+          "name": "BLCKLGHT",
+          "url": "https://open.spotify.com/artist/4go2W5luQfPng5QNIZPAQl"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232380,
+      "name": "Talk to You",
+      "url": "https://open.spotify.com/track/2nMMmLYXRj4mh8YL16vcJL"
     },
     {
       "album": {

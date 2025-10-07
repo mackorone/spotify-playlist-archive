@@ -4,7 +4,7 @@
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: Nightwish
 
-132 songs - 9 hr 54 min
+133 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Cosmic Redemption \(Made in Russia\) \[Live\]](https://open.spotify.com/track/6zZgn4nETQso6sDRhk0Vo6) | [Noturnall](https://open.spotify.com/artist/7xRCuSBEiVCIJWCSIYQ7Ni) | [Cosmic Redemption \(Made in Russia\) \[Live\]](https://open.spotify.com/album/6EKAeHlIR89cddIjX336xR) | 4:22 | 2023-07-14 |  |
 | [Dance Of Ixtab \(Psychopomp & Circumstance March No\. 1\)](https://open.spotify.com/track/3yPBHqSBVEyYKSujOWHyJ4) | [Carcass](https://open.spotify.com/artist/5lhaM01nwvsMZpmPY2HVER) | [Torn Arteries](https://open.spotify.com/album/7gLYRl6OVQjgsceV95XuUR) | 4:29 | 2023-11-03 | 2024-04-19 |
 | [Dance Of Ixtab \(Psychopomp & Circumstance March No\. 1\)](https://open.spotify.com/track/6ss0UUy8yBqhC83qSVn2hf) | [Carcass](https://open.spotify.com/artist/5lhaM01nwvsMZpmPY2HVER) | [Dance of Ixtab \(Psychopomp & Circumstance March No\. 1\)](https://open.spotify.com/album/2jOsnUll6EBUSO3Pa7Ue3r) | 4:29 | 2023-07-14 |  |
-| [Dark Delight](https://open.spotify.com/track/78XZJGujLi4F7mn4HB6E2G) | [Final Disaster](https://open.spotify.com/artist/3Deto26wjooiLPQmPGlZ0E) | [Dark Delight](https://open.spotify.com/album/4kKfDKnqHqveHWjT716F8D) | 5:26 | 2023-07-14 |  |
+| [Dark Delight](https://open.spotify.com/track/78XZJGujLi4F7mn4HB6E2G) | [Final Disaster](https://open.spotify.com/artist/3Deto26wjooiLPQmPGlZ0E) | [Dark Delight](https://open.spotify.com/album/4kKfDKnqHqveHWjT716F8D) | 5:26 | 2023-07-14 | 2025-10-07 |
 | [Days Of Future Past](https://open.spotify.com/track/2L42uB1e5wuanTTPEWVe64) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 4:03 | 2024-04-05 |  |
 | [Days Of Future Past](https://open.spotify.com/track/5grapy5yRWQo4MjOb9nNjY) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/4bBIsMKf6EmHRlhBwtC33N) | 4:03 | 2023-07-14 | 2023-11-04 |
 | [Days of Future Past](https://open.spotify.com/track/7abedqPfYaZj2K89xdoipX) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/2eS8TWeAeQcWNffxpOiabt) | 4:03 | 2023-11-03 | 2024-04-19 |
@@ -128,6 +128,7 @@
 | [Time Bomb](https://open.spotify.com/track/0DS97YTu4Y9CRCDLQfGkAh) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [The Gang's All Here](https://open.spotify.com/album/3CNgCf8Xnno0GH9EhXMMQR) | 4:14 | 2023-07-14 | 2024-04-19 |
 | [Time Bomb](https://open.spotify.com/track/5t9dzCexML40kn7AwjffI7) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Time Bomb](https://open.spotify.com/album/4mizBF4mEdyICj3ElcIyPM) | 4:14 | 2024-04-05 |  |
 | [Timeless](https://open.spotify.com/track/45jaiSaW2xry3gGcXc9Vsb) | [Viper](https://open.spotify.com/artist/6ywWIQgZrAOTcmA3XxGIk7) | [Timeless](https://open.spotify.com/album/6Qoc8V96K4AD2bzcaY0YsB) | 6:15 | 2023-07-14 |  |
+| [Tipping Point](https://open.spotify.com/track/6jhxeGvYuGY6KHHmUDj8Sv) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Tipping Point](https://open.spotify.com/album/09fWUtFj5UY5gEJapwj0xa) | 4:28 | 2025-10-06 |  |
 | [Torn Apart](https://open.spotify.com/track/4LM2zp6DJaKQfN0Gyi8Z5f) | [NervoChaos](https://open.spotify.com/artist/79Zxs7jzzD0sCwnYOUCKGx) | [Torn Apart](https://open.spotify.com/album/3jRfBgD7F6J9AhrNMiNbD4) | 3:51 | 2023-07-14 |  |
 | [Under The Sun](https://open.spotify.com/track/232zDRN94ayKlp9SZSsl8r) | [Viper](https://open.spotify.com/artist/6ywWIQgZrAOTcmA3XxGIk7) | [Under The Sun](https://open.spotify.com/album/1oweEZoub0eQXjT0jyGPnY) | 4:54 | 2023-07-14 |  |
 | [Vida Seca](https://open.spotify.com/track/0Q1Nbro0KYMNYJkZ99z6gB) | [ANGRA](https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y) | [Cycles Of Pain](https://open.spotify.com/album/5BlDBxBfAX0G78mrxCyWwB) | 5:12 | 2024-04-05 |  |

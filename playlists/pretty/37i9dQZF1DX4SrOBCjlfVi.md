@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Gucci Mane, Coi Leray, Jeezy and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,029 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,129 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 40 | [european](https://open.spotify.com/track/2RIyH1uZ9K7KA69jcQKjsy) | [Strick](https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH) | [european](https://open.spotify.com/album/6llhNqCbtipAi53p5I53ZZ) | 2:00 |
 | 41 | [HANDS \(feat\. Wiki\)](https://open.spotify.com/track/1eukpY08pJ0XfbTWH6xVsu) | [LIFEOFTHOM](https://open.spotify.com/artist/3Lp8bQ9iwGj3ndkd1Wn2Me), [Plain Pat](https://open.spotify.com/artist/1JR66NsDvTBEJRrnsIBBWu), [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0) | [DRIVING BLIND](https://open.spotify.com/album/01g6wAabY0JMAleDidQvCX) | 2:56 |
 | 42 | [Freeze Up](https://open.spotify.com/track/5UHzsKy4iwLemPYTEHABM5) | [Drexthejoint](https://open.spotify.com/artist/7hT5GQVXlvbKUy8tWa5Vkl) | [Freeze Up](https://open.spotify.com/album/5r7eP4CHOl4jSjjnIDRBpQ) | 2:01 |
-| 43 | [Cute Like Aspen](https://open.spotify.com/track/6c1W7p6Mr0Wbzfr3iYEm6N) | [TopOppGen](https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye) | [Cute Like Aspen](https://open.spotify.com/album/0yyzphBNgFMbemGI46X5lK) | 2:30 |
+| 43 | [cute like aspen](https://open.spotify.com/track/6c1W7p6Mr0Wbzfr3iYEm6N) | [TopOppGen](https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye) | [cute like aspen](https://open.spotify.com/album/0yyzphBNgFMbemGI46X5lK) | 2:30 |
 | 44 | [Big Kid Now](https://open.spotify.com/track/213EhPuhr0kAgN0EWoPpuq) | [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c) | [Big Kid Now](https://open.spotify.com/album/4wkpMbHPkcKkpdxTjbNjf8) | 2:49 |
 | 45 | [U SPITTIN'](https://open.spotify.com/track/7xge08lUdFcZqWqNn5RK7R) | [Your Stepdad](https://open.spotify.com/artist/4l7BJOIRyFkQT9QD96m8tu) | [U SPITTIN'](https://open.spotify.com/album/3WopTrgnr6aOkY2K6dHXeM) | 1:45 |
 | 46 | [Buss At You Too](https://open.spotify.com/track/6By1xBaO7IW3N5xDGzc28P) | [Saint Lamaar](https://open.spotify.com/artist/16AXQHqAloZDByAlQ99xNN), [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR), [Zillionaire Doe](https://open.spotify.com/artist/1bKQ0QmmCQ2JJFMtypP0xm) | [Buss At You Too](https://open.spotify.com/album/6KIp91ieIVYj87LT76J5TT) | 2:56 |

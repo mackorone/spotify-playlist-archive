@@ -1629,24 +1629,6 @@
     },
     {
       "album": {
-        "name": "Apartamento",
-        "url": "https://open.spotify.com/album/5uMdEtFWebsQehI4EODU8U"
-      },
-      "artists": [
-        {
-          "name": "Puntico",
-          "url": "https://open.spotify.com/artist/6pvDkKoo5XPRtocPULD6ec"
-        }
-      ],
-      "date_added": "2025-10-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 117600,
-      "name": "Apartamento",
-      "url": "https://open.spotify.com/track/5bjJySt1LufsKDApTrS0A0"
-    },
-    {
-      "album": {
         "name": "APDB",
         "url": "https://open.spotify.com/album/5nxqY5d20sfZIj35F2njNm"
       },
@@ -12128,6 +12110,24 @@
       "duration_ms": 705745,
       "name": "LAVAPIE FREESTYLE",
       "url": "https://open.spotify.com/track/7zQJNd8srj6chJkOUNNTgT"
+    },
+    {
+      "album": {
+        "name": "Le Solte",
+        "url": "https://open.spotify.com/album/5uMdEtFWebsQehI4EODU8U"
+      },
+      "artists": [
+        {
+          "name": "Puntico",
+          "url": "https://open.spotify.com/artist/6pvDkKoo5XPRtocPULD6ec"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117600,
+      "name": "Le Solte",
+      "url": "https://open.spotify.com/track/5bjJySt1LufsKDApTrS0A0"
     },
     {
       "album": {

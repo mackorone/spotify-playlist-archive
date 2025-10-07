@@ -4,7 +4,7 @@
 
 > This is our playground 🪩  Cover: Keinemusik
 
-565 songs - 1 day 22 hr 49 min
+566 songs - 1 day 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Dope Dance](https://open.spotify.com/track/3wLOypLdLw1SGdbEUmivEj) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0), [Radeckt](https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL) | [Dope Dance](https://open.spotify.com/album/7ARyH7O9xLfYm2CT0yWc7k) | 3:37 | 2023-11-14 | 2024-10-11 |
 | [Doppler](https://open.spotify.com/track/6uZqlAYVkF3hduXyjsK8QW) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [Doppler](https://open.spotify.com/album/0T0d3TrYL357SrolauDjJX) | 8:26 | 2022-06-17 | 2022-07-29 |
 | [Drop It Down](https://open.spotify.com/track/6euR4VW88wRwG6TTXI8YEE) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Drop It Down](https://open.spotify.com/album/7u26VusojvClzoCafHyzcV) | 3:26 | 2024-01-22 | 2024-10-25 |
-| [Drum Death](https://open.spotify.com/track/1gkTO34Xg6FO8W9HrxYR4E) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [HOSANNA](https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7) | [Drum Death](https://open.spotify.com/album/4vqrNHTMoTgrN4DBH5b81t) | 2:50 | 2025-03-10 |  |
+| [Drum Death](https://open.spotify.com/track/1gkTO34Xg6FO8W9HrxYR4E) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [HOSANNA](https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7) | [Drum Death](https://open.spotify.com/album/4vqrNHTMoTgrN4DBH5b81t) | 2:50 | 2025-03-10 | 2025-10-07 |
 | [Dun Dun](https://open.spotify.com/track/48XuAKxSzr3nJBeU1yf0KM) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Dun Dun](https://open.spotify.com/album/4Ycyp1cQVW9VPOzlEdSk83) | 3:29 | 2024-08-12 |  |
 | [Dungeons](https://open.spotify.com/track/4cxqdHogoLPsaBdB5xgOyf) | [Tinush](https://open.spotify.com/artist/4MxsTQbn9jctKNfDlYrYNh) | [Collection 03](https://open.spotify.com/album/5RXzBvGAMuEKkxJUtAX4ft) | 6:24 | 2022-04-15 | 2022-11-26 |
 | [Earth Orbit](https://open.spotify.com/track/4vp56B6zluaShPdWLg5zJq) | [Cary Crank](https://open.spotify.com/artist/43TvZ4ARP8NWlCy1x3KWt9) | [Earth Orbit I Bad Mice I Behind U](https://open.spotify.com/album/74kySEYVTJQWkjZCGMvSb3) | 7:21 | 2022-04-15 | 2022-07-07 |
@@ -454,6 +454,7 @@
 | [Si Soy Fuego](https://open.spotify.com/track/6oa8rEFHMIrYpHh3AmsaMa) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Si Soy Fuego](https://open.spotify.com/album/4kqAFegAsBLlAr9mWWOqOE) | 5:20 | 2022-04-15 | 2024-01-23 |
 | [Siente \(el Ritmo\)](https://open.spotify.com/track/4V8VKDe62ZdGZAn551JdTz) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual](https://open.spotify.com/album/7gRQwhJTbAl6qHXz2efLCF) | 4:54 | 2024-10-10 | 2025-04-27 |
 | [Sierra](https://open.spotify.com/track/5c4gtyaea8i7H1BqRyb2Xp) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Baset](https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl) | [Sierra](https://open.spotify.com/album/6WzMt8T4SIuxFBjmgcpSzX) | 3:21 | 2024-04-25 |  |
+| [Signs Of Change](https://open.spotify.com/track/64o5oBV1q8oFtNFucoySNJ) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Signs of Change](https://open.spotify.com/album/0MNpTVU58VUC5i3EddQfvl) | 3:19 | 2025-09-25 |  |
 | [Silence](https://open.spotify.com/track/2QKv1gdooWYYvFo3YZaMcE) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Maurice Kaar](https://open.spotify.com/artist/4Tj0xN2fUJ8nxZEq5ikSRa) | [Silence](https://open.spotify.com/album/0bukLAr1ttYfDlBJ81qKYp) | 3:50 | 2023-11-14 | 2024-06-07 |
 | [Silence & Secrets \- Adriatique Remix](https://open.spotify.com/track/5twGTwrfKmxSc21cTGNPNn) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Silence & Secrets \(Adriatique Remix\)](https://open.spotify.com/album/0Y0xhBcScceez0FfDnap8p) | 7:21 | 2022-04-15 | 2024-01-06 |
 | [Silence of Love \- Reznik Remix](https://open.spotify.com/track/5PhLhmZG1r1R1YAAUbl2hx) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Reznik](https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ), [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [Silence of Love \(Reznik Remix\)](https://open.spotify.com/album/0vSvPP21Ijfo3czy4QIaq3) | 7:05 | 2024-10-10 | 2024-11-16 |

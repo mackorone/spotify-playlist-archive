@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 > pop is SO back, shop this year's collection <a href="https://www.umusic.ca/pages/POP">here</a>\.  Cover: Taylor Swift
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 78,777 likes - 132 songs - 7 hr 12 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 78,767 likes - 132 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

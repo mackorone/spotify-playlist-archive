@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: DIFF, XRS",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: VLOSPA, Dof Twogee",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -64,6 +64,28 @@
       "duration_ms": 168554,
       "name": "10'",
       "url": "https://open.spotify.com/track/1XtVtRtoHFOnn8plAirGWb"
+    },
+    {
+      "album": {
+        "name": "2 DIODIA",
+        "url": "https://open.spotify.com/album/5dkR5iCCFe1JOKZpvO8AGw"
+      },
+      "artists": [
+        {
+          "name": "Kareem Kalokoh",
+          "url": "https://open.spotify.com/artist/6fIBCdiEDMUziaNwDi2Awb"
+        },
+        {
+          "name": "Alecc",
+          "url": "https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "2 DIODIA",
+      "url": "https://open.spotify.com/track/70uIhFrirDdHsmFcofSVHh"
     },
     {
       "album": {
@@ -520,6 +542,28 @@
       "duration_ms": 183809,
       "name": "Alitheia?!",
       "url": "https://open.spotify.com/track/6gXsFmOt4pMjWXagCTL9AZ"
+    },
+    {
+      "album": {
+        "name": "ALITIES",
+        "url": "https://open.spotify.com/album/24l91Mmd6zJofmmQli0l03"
+      },
+      "artists": [
+        {
+          "name": "Angelina",
+          "url": "https://open.spotify.com/artist/3AuKpTBn0Ce09mVVhjCEEW"
+        },
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165250,
+      "name": "ALITIES",
+      "url": "https://open.spotify.com/track/57dMRvQeSDsZXdoHGGCCfO"
     },
     {
       "album": {
@@ -2077,6 +2121,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208291,
+      "name": "Elizabeth Taylor",
+      "url": "https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL"
+    },
+    {
+      "album": {
         "name": "EMMONI IDEA",
         "url": "https://open.spotify.com/album/5YFnE8E82pTVA3nuU8x5Zb"
       },
@@ -2250,7 +2312,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 168000,
       "name": "Esena",
       "url": "https://open.spotify.com/track/7uBuKv7JXBT6p2eM4JvSLi"
@@ -2466,7 +2528,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 161632,
       "name": "FHMES",
       "url": "https://open.spotify.com/track/56gbt6Uz4WCUVNwnhlHJSF"
@@ -2484,7 +2546,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 131351,
       "name": "FINOS FILM",
       "url": "https://open.spotify.com/track/3Q78butABFYlJZFIIlJZXd"
@@ -4660,7 +4722,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 145766,
       "name": "MPAOU MPAOU",
       "url": "https://open.spotify.com/track/2LQ8DYZIB850XrVml9kNbl"
@@ -5092,7 +5154,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 107076,
       "name": "OPAP FREESTYLE",
       "url": "https://open.spotify.com/track/2G0yVPwLXdAD32XrhO3jH2"
@@ -5118,6 +5180,36 @@
       "duration_ms": 141406,
       "name": "P.O.S.",
       "url": "https://open.spotify.com/track/0VzLi4og9pVyuoo4jfjkWw"
+    },
+    {
+      "album": {
+        "name": "Paidia Tou Feggariou",
+        "url": "https://open.spotify.com/album/0eWIKzJmFpbHbhv33NRhE3"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        },
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        },
+        {
+          "name": "Marina Satti",
+          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230750,
+      "name": "Paidia Tou Feggariou",
+      "url": "https://open.spotify.com/track/6DprMwVs2mHbGN2U6qenzQ"
     },
     {
       "album": {
@@ -5704,6 +5796,24 @@
       "duration_ms": 204000,
       "name": "PRIN MAFISEIS",
       "url": "https://open.spotify.com/track/2HryglxMYeEZcLHxSgQe4T"
+    },
+    {
+      "album": {
+        "name": "Pros To Paron",
+        "url": "https://open.spotify.com/album/15IOPCi4iTsg9G6lenc11f"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Sabanis",
+          "url": "https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "Pros To Paron",
+      "url": "https://open.spotify.com/track/0Gppi7bYjmxwovvnqRKc1n"
     },
     {
       "album": {
@@ -6745,6 +6855,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+    },
+    {
+      "album": {
         "name": "Thelw Na Se Dw",
         "url": "https://open.spotify.com/album/6vTLwPmhUJKlUtNeUedsQw"
       },
@@ -6834,7 +6962,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 176528,
       "name": "TI THELIS",
       "url": "https://open.spotify.com/track/5MO7LUQJEpuBwakEuOn2BP"
@@ -7506,7 +7634,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 193099,
       "name": "Ximeia",
       "url": "https://open.spotify.com/track/30zUFlAtXOEXikyIAhGhun"
@@ -7550,6 +7678,32 @@
       "duration_ms": 96243,
       "name": "XRISOS",
       "url": "https://open.spotify.com/track/4bnx03kz0ZUQ8wKIHj1M3f"
+    },
+    {
+      "album": {
+        "name": "Paidia Tou Feggariou",
+        "url": "https://open.spotify.com/album/0eWIKzJmFpbHbhv33NRhE3"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        },
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242597,
+      "name": "Xrysi Kardia",
+      "url": "https://open.spotify.com/track/1BzDu5khJpnirb9g8pmAta"
     },
     {
       "album": {

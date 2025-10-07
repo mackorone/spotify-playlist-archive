@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 21854,
+  "num_followers": 21857,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOBjgAAAAAA61cTCgqTwdoDCmeDg+FVb",
+  "snapshot_id": "aOG1AAAAAAB5voMUdchIwT7NXPQ+5tmi",
   "tracks": [
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Savane",
+        "url": "https://open.spotify.com/album/2WsP2BPz9GI5sJBdJFonrO"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 289120,
+      "name": "Beto",
+      "url": "https://open.spotify.com/track/2I9ZSrLeX7tslnqn0ouVuz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Voyageur",
         "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 295200,
       "name": "Sadjona (feat. Oumou Sangar\u00e9)",
       "url": "https://open.spotify.com/track/1pqbPGktY2HPGNlkMBgmRc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Savane",
-        "url": "https://open.spotify.com/album/2WsP2BPz9GI5sJBdJFonrO"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 289120,
-      "name": "Beto",
-      "url": "https://open.spotify.com/track/2I9ZSrLeX7tslnqn0ouVuz"
     },
     {
       "added_at": null,

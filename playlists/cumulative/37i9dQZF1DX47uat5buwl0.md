@@ -4,7 +4,7 @@
 
 > 🔥🎉
 
-103 songs - 4 hr 26 min
+104 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Alles Kan Kapot](https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Alles Kan Kapot](https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT) | 2:52 | 2025-07-17 |  |
 | [Astronaut](https://open.spotify.com/track/3O0gQuyw3xDzm9tvW4db36) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc), [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw), [JIM & JAAF](https://open.spotify.com/artist/45jRKxB5cVjHKJrxAN3tQE) | [Astronaut](https://open.spotify.com/album/6D9lAQPn4ZH7HK06EtvQ2x) | 2:33 | 2025-07-17 |  |
 | [Bad Bitches Luisteren Def](https://open.spotify.com/track/2EIyJASJ9P8cVUV3J33mc9) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Bad Bitches Luisteren Def](https://open.spotify.com/album/28dmgMrhKpJmGNPlfvcaOI) | 1:35 | 2025-09-09 |  |
+| [Barman](https://open.spotify.com/track/57FswJp3cmjj0EXolasm8o) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc), [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Barman](https://open.spotify.com/album/609khigXToopoRE1yguAQ8) | 2:54 | 2025-10-06 |  |
 | [Beetje Van Mij](https://open.spotify.com/track/2zqqu4TbRW3yOI5wqdrgDL) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Beetje Van Mij](https://open.spotify.com/album/3MTu2qGVdcRf5vmFzzVPuw) | 2:30 | 2025-07-17 |  |
 | [Ben Je Morgen Vrij?](https://open.spotify.com/track/2ytB93cB0vNztVGnzYF7Rz) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Ben Je Morgen Vrij?](https://open.spotify.com/album/6sc6ZWqZa0J5FYzr5M15JD) | 2:33 | 2025-08-25 |  |
 | [Bitterzoet](https://open.spotify.com/track/6PbDcr3zfITA3j3MO4OIOu) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc), [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc) | [Bitterzoet](https://open.spotify.com/album/5Y2YwJG3v0WISIGLxoAbbR) | 2:35 | 2025-07-17 | 2025-08-29 |
@@ -30,7 +31,7 @@
 | [Casual](https://open.spotify.com/track/1Oq4ei25SeGivbXLcCnz7z) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:22 | 2025-07-17 |  |
 | [Chaos](https://open.spotify.com/track/2wz7MrwJMq90RMuapVv0e3) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Chaos](https://open.spotify.com/album/2cUXkhXp0T5uWU1rgfWku2) | 2:51 | 2025-07-17 | 2025-09-26 |
 | [CRUSH](https://open.spotify.com/track/5GKsUqnQ90T5kkvG6u30wZ) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Natte Visstick](https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli), [RHYME](https://open.spotify.com/artist/5soNcAUPxpWwipU594dlqZ) | [CRUSH](https://open.spotify.com/album/3fAbIQ4KlgfrbFmIPDJQO0) | 2:46 | 2025-07-17 |  |
-| [Da's Brunzynbaby](https://open.spotify.com/track/0aSjTvFL1ucNBPToefdceg) | [Brunzyn](https://open.spotify.com/artist/34zjBncq7MEAoNwsM1DMU9), [Dentalhon](https://open.spotify.com/artist/7aIdHQ8AGazYhQrF8dOe84) | [Da's Brunzynbaby](https://open.spotify.com/album/4IBxYCz5rMWl99Y4mvq55l) | 2:03 | 2025-08-25 |  |
+| [Da's Brunzynbaby](https://open.spotify.com/track/0aSjTvFL1ucNBPToefdceg) | [Brunzyn](https://open.spotify.com/artist/34zjBncq7MEAoNwsM1DMU9), [Dentalhon](https://open.spotify.com/artist/7aIdHQ8AGazYhQrF8dOe84) | [Da's Brunzynbaby](https://open.spotify.com/album/4IBxYCz5rMWl99Y4mvq55l) | 2:03 | 2025-08-25 | 2025-10-07 |
 | [Dame Un Grrr](https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4) | [Dame Un Grrr](https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65) | 2:13 | 2025-07-17 | 2025-09-05 |
 | [Dame Un Grrr \- Provi Remix Radio Edit](https://open.spotify.com/track/20fzebeACMzZovFyFW3G0L) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4), [Provi](https://open.spotify.com/artist/09WKhhJl9OZwZEKXRoSnOo) | [Dame Un Grrr \(Provi Remix\)](https://open.spotify.com/album/2GDIY30MqJ2sfnFp7px5Mq) | 2:00 | 2025-09-04 |  |
 | [De Liefde](https://open.spotify.com/track/3MrCOZ0qldvkNiQTWG9GIt) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [De Liefde](https://open.spotify.com/album/61mnvmeJ8RTpN5bXDq6AXy) | 2:04 | 2025-10-01 |  |

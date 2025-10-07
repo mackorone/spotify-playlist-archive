@@ -355,6 +355,28 @@
     },
     {
       "album": {
+        "name": "All Over Me",
+        "url": "https://open.spotify.com/album/2oW0v37322Uqkx1hueOmxB"
+      },
+      "artists": [
+        {
+          "name": "Yukimi",
+          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157352,
+      "name": "All Over Me",
+      "url": "https://open.spotify.com/track/3vyp0kTCmVHmGUvo16S98y"
+    },
+    {
+      "album": {
         "name": "The Last Goodbye (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1ZSBGvgxsWbX1i5gdz4gUM"
       },

@@ -4,7 +4,7 @@
 
 > This is Neck Deep\. The essential tracks, all in one playlist.
 
-53 songs - 2 hr 49 min
+54 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Sort Yourself Out](https://open.spotify.com/track/60wZ1Xej8lpqK5t9LEH9Qp) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 3:13 | 2024-07-28 |  |
 | [Staircase Wit](https://open.spotify.com/track/0rQybU8pbJFcaUU7Mqju0z) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Wishful Thinking](https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1) | 3:10 | 2024-07-28 |  |
 | [STFU](https://open.spotify.com/track/3kUOyI09uhyv2hqKgj2o39) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [STFU](https://open.spotify.com/album/0NYz1EimESo3xgx3KMkknf) | 2:52 | 2024-07-28 | 2025-07-06 |
-| [STFU](https://open.spotify.com/track/7dkyr5kVeIxKJs7hS3Lzin) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [STFU](https://open.spotify.com/album/0Wf90O1kpxxNBx4ZksriLh) | 2:52 | 2025-07-06 |  |
+| [STFU](https://open.spotify.com/track/5gzy2eJn42ED4WoKd9Gpsn) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep \(Dumbfuck Edition\)](https://open.spotify.com/album/3xBppdCksi42RQpNGaCnCa) | 2:52 | 2025-10-07 |  |
+| [STFU](https://open.spotify.com/track/7dkyr5kVeIxKJs7hS3Lzin) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [STFU](https://open.spotify.com/album/0Wf90O1kpxxNBx4ZksriLh) | 2:52 | 2025-07-06 | 2025-10-07 |
 | [Tables Turned](https://open.spotify.com/track/0sZgeU7tMuB7QfQMVUKLbb) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Rain In July / A History Of Bad Decisions](https://open.spotify.com/album/13xBAYqsGgjXnoawJEMkr8) | 3:23 | 2024-07-28 |  |
 | [Take Me With You](https://open.spotify.com/track/7hVbtChhgts8Ml2miYBBmk) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 3:17 | 2024-07-28 |  |
 | [This Is All My Fault](https://open.spotify.com/track/4ezAbK86qDCiC6PQGt5gBp) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 3:09 | 2024-07-28 | 2025-05-29 |

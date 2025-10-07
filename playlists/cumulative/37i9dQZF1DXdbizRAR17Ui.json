@@ -250,7 +250,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 241998,
       "name": "After",
       "url": "https://open.spotify.com/track/4Durwjt1E9NXXrpC29GPj6"
@@ -2594,6 +2594,28 @@
       "duration_ms": 210693,
       "name": "fused (DJ-Kicks)",
       "url": "https://open.spotify.com/track/07F3akBPO1FjKJMwDXKf8r"
+    },
+    {
+      "album": {
+        "name": "Ghost in My Stereo",
+        "url": "https://open.spotify.com/album/4huE8eEgu0utGRx3h0oWWN"
+      },
+      "artists": [
+        {
+          "name": "MIND",
+          "url": "https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5"
+        },
+        {
+          "name": "Sam Welch",
+          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118846,
+      "name": "Ghost in My Stereo",
+      "url": "https://open.spotify.com/track/1pnwKkZHdeF7Us2bF4z1Xv"
     },
     {
       "album": {

@@ -493,28 +493,6 @@
     },
     {
       "album": {
-        "name": "B.A.$.$.",
-        "url": "https://open.spotify.com/album/6ly7J4IaZl1bvYRL9htjfz"
-      },
-      "artists": [
-        {
-          "name": "Swisher",
-          "url": "https://open.spotify.com/artist/4rAlBmNtLmd50W0mHbTW9n"
-        },
-        {
-          "name": "SEVEN",
-          "url": "https://open.spotify.com/artist/0gY0xqBydHZ18MMEE4FJ4J"
-        }
-      ],
-      "date_added": "2025-10-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 146214,
-      "name": "B.A.$.$.",
-      "url": "https://open.spotify.com/track/5NLfIFyx4csoftlFerjuVr"
-    },
-    {
-      "album": {
         "name": "BAGS IN THIS B*TCH",
         "url": "https://open.spotify.com/album/7pyrxbNspDLhlN7SlitvHx"
       },
@@ -614,6 +592,28 @@
       "duration_ms": 238762,
       "name": "Banii Vin, Banii Pleaca",
       "url": "https://open.spotify.com/track/1v6s7ZXjbw7ojv9IbBcfSz"
+    },
+    {
+      "album": {
+        "name": "Bass",
+        "url": "https://open.spotify.com/album/6ly7J4IaZl1bvYRL9htjfz"
+      },
+      "artists": [
+        {
+          "name": "Swisher",
+          "url": "https://open.spotify.com/artist/4rAlBmNtLmd50W0mHbTW9n"
+        },
+        {
+          "name": "SEVEN",
+          "url": "https://open.spotify.com/artist/0gY0xqBydHZ18MMEE4FJ4J"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146214,
+      "name": "Bass",
+      "url": "https://open.spotify.com/track/5NLfIFyx4csoftlFerjuVr"
     },
     {
       "album": {
@@ -1462,7 +1462,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 170400,
       "name": "Femei \u00een Parlament",
       "url": "https://open.spotify.com/track/2xwMZvVmWGYV4rreWqE2z6"
@@ -3932,7 +3932,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-12",
+      "date_removed": null,
       "duration_ms": 166153,
       "name": "Vise La Plic",
       "url": "https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA"

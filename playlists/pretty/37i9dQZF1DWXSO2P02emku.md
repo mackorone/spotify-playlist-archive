@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSO2P02emku.md) - [plain]
 
 > Tomamos ruta desde el Noreste hasta el Viejo Oeste 🌵🤠\. Wuicho Kun & Macario Martínez en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,296 likes - 91 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,286 likes - 91 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

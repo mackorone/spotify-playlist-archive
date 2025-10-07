@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: TH;EN
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,164 likes - 90 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,224 likes - 90 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 14 | [What Do U Know \- Monkey Safari Remix](https://open.spotify.com/track/6LXtkmZS7XCKgGnKyJRIaV) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [What Do U Know \(Monkey Safari Remix\)](https://open.spotify.com/album/3Dvmd6AYV2QmSNYWVfvffz) | 4:25 |
 | 15 | [Tequila](https://open.spotify.com/track/6xG9jIwdVjgcxfUeWFij9d) | [DIEGO SAN DIEGO](https://open.spotify.com/artist/1lal1Zh8FBRbRwzd22s0oX), [Alec Monopoly](https://open.spotify.com/artist/7uOE9p28qcPPuSOfcofRS9) | [Tequila](https://open.spotify.com/album/0Pwv92MamrxASIwXrdF8FU) | 2:51 |
 | 16 | [Océana](https://open.spotify.com/track/6Mjoyjg2VDu2bbh7BJ7C5O) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Océana](https://open.spotify.com/album/6gLEOBj3wMJaxcmMCJPosc) | 4:24 |
-| 17 | [Journey To The Stars](https://open.spotify.com/track/06PlOQO34HArZnXqYz1SDz) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [ID ID](https://open.spotify.com/artist/5NF2J9XTpy7Riu5A5LQiHQ), [Aves Volare](https://open.spotify.com/artist/1FC7XBOdJgycFFO3z14NGq) | [Journey To The Stars](https://open.spotify.com/album/03lgzAGmiin92bGWSgJLXX) | 8:48 |
+| 17 | [Journey To The Stars](https://open.spotify.com/track/06PlOQO34HArZnXqYz1SDz) | [ID ID](https://open.spotify.com/artist/5NF2J9XTpy7Riu5A5LQiHQ), [Aves Volare](https://open.spotify.com/artist/1FC7XBOdJgycFFO3z14NGq), [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2) | [Journey To The Stars](https://open.spotify.com/album/03lgzAGmiin92bGWSgJLXX) | 8:48 |
 | 18 | [The Festival](https://open.spotify.com/track/0bBoZ4zEBRwhggp4tMtsIm) | [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM), [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5) | [The Festival](https://open.spotify.com/album/2GnLQUua7m4l4aSPxCu4qQ) | 5:59 |
 | 19 | [Feel It Much?](https://open.spotify.com/track/5xqJymiqq4OCbo5akUSZJC) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Feel It Much?](https://open.spotify.com/album/3iG5dFTdjW3ytc2deeJqg1) | 4:35 |
 | 20 | [Foolish Heart](https://open.spotify.com/track/303eiOgAIPWkWWhq4rtEls) | [PARAFRAME](https://open.spotify.com/artist/2MDR7nMS7lOrQsyZ5FZznk), [Noah Shah](https://open.spotify.com/artist/6h5s7YsgEVn6XXxQFI6wUe) | [Foolish Heart](https://open.spotify.com/album/2nFJMWxSl0tyeZJjBanjrW) | 5:25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6EpzW2Jwe.md) - [plain]
 
 > Remembering Ozzy Osbourne
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,635 likes - 40 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,837 likes - 40 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

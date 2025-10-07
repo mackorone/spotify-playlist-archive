@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fEpJ8cYYNOZXDpwysSpHg">Natania</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185 likes - 131 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 184 likes - 131 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 33 | [Butcher Shop](https://open.spotify.com/track/0C3K3A8USDkaI4mv7AIryb) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Butcher Shop](https://open.spotify.com/album/6O23FrFj880TG8CqVElyRn) | 3:44 |
 | 34 | [We Are The Ones \(feat\. Gucci Mane\)](https://open.spotify.com/track/47AEUwR1rppGeruasDVgBC) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [NEW LIFE](https://open.spotify.com/album/1ERhZcW27LyJkW1w0hy8Tt) | 2:47 |
 | 35 | [Lie To Me](https://open.spotify.com/track/6V97pUZ0maySCRjpJRbD62) | [Noah Davis](https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX) | [Lie To Me](https://open.spotify.com/album/2vdlANgQkp5CdlZZWqXRD5) | 3:11 |
-| 36 | [Hands Off](https://open.spotify.com/track/5zGDlUluNxFDfFlBJBrlIW) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Blue Hour](https://open.spotify.com/album/5NEUJFulV4aYueCDES6bWl) | 3:08 |
-| 37 | [Everything Goes With Blue \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/0cGevwqB5N1trB66N4x2DB) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Smurfs Movie Soundtrack \(Music From & Inspired By\)](https://open.spotify.com/album/1WWC30whzWg114IF0EEcRx) | 2:10 |
+| 36 | [Everything Goes With Blue \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/0cGevwqB5N1trB66N4x2DB) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Smurfs Movie Soundtrack \(Music From & Inspired By\)](https://open.spotify.com/album/1WWC30whzWg114IF0EEcRx) | 2:10 |
+| 37 | [Hands Off](https://open.spotify.com/track/5zGDlUluNxFDfFlBJBrlIW) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Blue Hour](https://open.spotify.com/album/5NEUJFulV4aYueCDES6bWl) | 3:08 |
 | 38 | [No One Cries Forever](https://open.spotify.com/track/3GUIY6vXdNA0z2tkW8yCjh) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [No One Cries Forever](https://open.spotify.com/album/2v6r3pOiKcDQ36A29iKTkF) | 2:45 |
 | 39 | [The Long Way](https://open.spotify.com/track/6IqtVAAmmFYYyUJ38KzP2E) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [The Long Way](https://open.spotify.com/album/6SOZRzxy6hlUsV6g7DCcuc) | 4:01 |
 | 40 | [Gulzar](https://open.spotify.com/track/0qkXvj4p0hZ3ETGl1r8ULV) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Gulzar](https://open.spotify.com/album/6hN4c25T3ZWXjpjNjwW5iD) | 3:09 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 130 | [Get Dat](https://open.spotify.com/track/1t1eeYi7HjDQxcgjZavRGu) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:43 |
 | 131 | [Get It Done](https://open.spotify.com/track/5J9WaXYErqUTZoNmk7ebG6) | [Saint Bodhi](https://open.spotify.com/artist/6JQTItHYnmTq4PxskHsxr4) | [Get It Done](https://open.spotify.com/album/1MVJomsYj2fjYDtA5QzEk3) | 2:16 |
 
-Snapshot ID: `Ab+FMgAAAAC/POMxOMtPDsx8IKMWxU7z`
+Snapshot ID: `Ab+KyAAAAAB4IJmYSf7GTK94rutjJeer`

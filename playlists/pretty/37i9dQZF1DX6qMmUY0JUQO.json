@@ -1,6 +1,6 @@
 {
   "description": "Legendary tracks been produced on a TR-909 drum machine. Cover: Jeff Mills",
-  "num_followers": 186184,
+  "num_followers": 186244,
   "original_name": "909 Classics",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-07-10 08:25:56",
       "album": {
-        "name": "Garden Party",
-        "url": "https://open.spotify.com/album/2hxBhd405LrdVwrUsRz3x8"
-      },
-      "artists": [
-        {
-          "name": "Roman Fl\u00fcgel",
-          "url": "https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "Parade D'Amour",
-      "url": "https://open.spotify.com/track/66PCrDlu6eD8isiBgD7Z1Z"
-    },
-    {
-      "added_at": "2024-07-10 08:25:56",
-      "album": {
         "name": "Forevernevermore",
         "url": "https://open.spotify.com/album/2NhQapO6mTOWbip0fvru36"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 361066,
       "name": "Tribute",
       "url": "https://open.spotify.com/track/3p7Ydiltj799Rx3JfjARxF"
+    },
+    {
+      "added_at": "2024-07-10 08:25:56",
+      "album": {
+        "name": "Garden Party",
+        "url": "https://open.spotify.com/album/2hxBhd405LrdVwrUsRz3x8"
+      },
+      "artists": [
+        {
+          "name": "Roman Fl\u00fcgel",
+          "url": "https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "Parade D'Amour",
+      "url": "https://open.spotify.com/track/66PCrDlu6eD8isiBgD7Z1Z"
     },
     {
       "added_at": "2024-07-10 08:25:56",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-07-10 08:25:56",
       "album": {
+        "name": "Homogenic",
+        "url": "https://open.spotify.com/album/3knDOJUQBAATXsKYLWO4k8"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 255266,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/0zQnCy0NCcBmQcsl2PBNE3"
+    },
+    {
+      "added_at": "2024-07-10 08:25:56",
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/0307WAhBTyZd9YNB6rvPMx"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 367619,
       "name": "Pool Party Music",
       "url": "https://open.spotify.com/track/0PPpehRoJCBZYmZSUEJcot"
-    },
-    {
-      "added_at": "2024-07-10 08:25:56",
-      "album": {
-        "name": "Homogenic",
-        "url": "https://open.spotify.com/album/3knDOJUQBAATXsKYLWO4k8"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 255266,
-      "name": "Hunter",
-      "url": "https://open.spotify.com/track/0zQnCy0NCcBmQcsl2PBNE3"
     }
   ],
   "unique_name": "909 Classics",

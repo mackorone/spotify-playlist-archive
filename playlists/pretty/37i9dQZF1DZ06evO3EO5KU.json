@@ -1,12 +1,12 @@
 {
   "description": "This is Los Plebes del Rancho de Ariel Camacho. The essential tracks, all in one playlist.",
-  "num_followers": 163679,
+  "num_followers": 163702,
   "original_name": "This Is Los Plebes del Rancho de Ariel Camacho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOBjgAAAAACpWzQU/fUH0FZj/0NqQvTF",
+  "snapshot_id": "aOG1AAAAAADfLooEmQFU05MVfWQ5BGrz",
   "tracks": [
     {
       "added_at": null,
@@ -291,26 +291,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hay Niveles",
-        "url": "https://open.spotify.com/album/2YAsxLU1gVuByZyFqOLHgb"
+        "name": "Recuerden Mi Estilo (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ"
       },
       "artists": [
         {
-          "name": "Akwid",
-          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
-        },
-        {
           "name": "Los Plebes del Rancho de Ariel Camacho",
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        },
-        {
-          "name": "P Chonch",
-          "url": "https://open.spotify.com/artist/3gonXKaPxROrPGKTgFlk5w"
         }
       ],
-      "duration_ms": 252285,
-      "name": "Hay Niveles",
-      "url": "https://open.spotify.com/track/7MGstXu3DxRkIZR20X4TPF"
+      "duration_ms": 146790,
+      "name": "Con Palabras Sencillas",
+      "url": "https://open.spotify.com/track/0uedFJSnQfc6uw7mXbTc7g"
     },
     {
       "added_at": null,
@@ -347,18 +339,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recuerden Mi Estilo (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ"
+        "name": "Hay Niveles",
+        "url": "https://open.spotify.com/album/2YAsxLU1gVuByZyFqOLHgb"
       },
       "artists": [
         {
+          "name": "Akwid",
+          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
+        },
+        {
           "name": "Los Plebes del Rancho de Ariel Camacho",
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "P Chonch",
+          "url": "https://open.spotify.com/artist/3gonXKaPxROrPGKTgFlk5w"
         }
       ],
-      "duration_ms": 146790,
-      "name": "Con Palabras Sencillas",
-      "url": "https://open.spotify.com/track/0uedFJSnQfc6uw7mXbTc7g"
+      "duration_ms": 252285,
+      "name": "Hay Niveles",
+      "url": "https://open.spotify.com/track/7MGstXu3DxRkIZR20X4TPF"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 201174,
-      "name": "En Un D\u00eda Como Hoy",
-      "url": "https://open.spotify.com/track/47iMaBA9XSFD6SUqhzzOOy"
+      "duration_ms": 219999,
+      "name": "El G\u00fcero Colorado",
+      "url": "https://open.spotify.com/track/2ObxcTBFkkpqIdWmtofZVg"
     },
     {
       "added_at": null,
@@ -659,6 +659,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Rey del Corrido: Ayer, Hoy y Siempre, Vol. 1",
+        "url": "https://open.spotify.com/album/3j0SuYEsquaXM4ShuqjgLl"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "Cu\u00e9ntame Tus Penas",
+      "url": "https://open.spotify.com/track/0nV0bBujp9cSXnTMlFqOW0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recordando A Una Leyenda",
         "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
       },
@@ -679,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/6IIt2GBTW8esWRoKW6INOm"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 201174,
+      "name": "En Un D\u00eda Como Hoy",
+      "url": "https://open.spotify.com/track/47iMaBA9XSFD6SUqhzzOOy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Toro Encartado (En Vivo)",
         "url": "https://open.spotify.com/album/7xBSPL05RobjeaUwj0bTMA"
       },
@@ -695,22 +731,6 @@
       "duration_ms": 218771,
       "name": "Toro Encartado - En Vivo",
       "url": "https://open.spotify.com/track/2uqioTIH7tswiDWK23nrwe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Naci\u00f3 Pa' Leyenda",
-        "url": "https://open.spotify.com/album/6IIt2GBTW8esWRoKW6INOm"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 219999,
-      "name": "El G\u00fcero Colorado",
-      "url": "https://open.spotify.com/track/2ObxcTBFkkpqIdWmtofZVg"
     },
     {
       "added_at": null,
@@ -783,26 +803,6 @@
       "duration_ms": 169214,
       "name": "El Mencho - En Vivo",
       "url": "https://open.spotify.com/track/2Za9V65HXmc5QD3IVhe0lR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Rey del Corrido: Ayer, Hoy y Siempre, Vol. 1",
-        "url": "https://open.spotify.com/album/3j0SuYEsquaXM4ShuqjgLl"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "Cu\u00e9ntame Tus Penas",
-      "url": "https://open.spotify.com/track/0nV0bBujp9cSXnTMlFqOW0"
     },
     {
       "added_at": null,

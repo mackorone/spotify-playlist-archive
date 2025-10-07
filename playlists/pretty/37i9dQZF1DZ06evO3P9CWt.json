@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 280448,
+  "num_followers": 280461,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOBjgAAAAADXzs4b7x5U4H0KY7N02TfE",
+  "snapshot_id": "aOG1AAAAAADkAawhaGl5SDJoVwQxx8Mu",
   "tracks": [
     {
       "added_at": null,
@@ -75,6 +75,30 @@
       "duration_ms": 150259,
       "name": "MODO TURBO",
       "url": "https://open.spotify.com/track/2ip4hxYupn3CSsHjn4l2a8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        },
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 306281,
+      "name": "DEIXA ESTAR",
+      "url": "https://open.spotify.com/track/1h1uyRSbfQYgckDfb9EeyQ"
     },
     {
       "added_at": null,
@@ -999,26 +1023,6 @@
       "duration_ms": 174753,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/0fmoN2m4nuA4qGShcg3TuK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brava",
-        "url": "https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 192456,
-      "name": "Caliente (feat. Pabllo Vittar)",
-      "url": "https://open.spotify.com/track/75V0RdaCFKsQZX91mI9AD3"
     }
   ],
   "unique_name": "This Is Pabllo Vittar",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469 likes - 391 songs - 20 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 470 likes - 391 songs - 20 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,8 +203,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 193 | [Silk Stockings](https://open.spotify.com/track/1gPgwdyN9t8b3cVJgBX8sG) | [Cole Porter \(composer\), The MGM Studio Orchestra](https://open.spotify.com/artist/10DmwGZhrgdeAaxPIx4y2O) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 4:29 |
 | 194 | [Hotel Exterior](https://open.spotify.com/track/1bPXS00ewWqWqYAQxgkiJL) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 3:25 |
 | 195 | [Cyd Leaves Paris](https://open.spotify.com/track/7Jsj64PEW8KpeMlEZEWMyQ) | [Cole Porter \(composer\), The MGM Studio Orchestra](https://open.spotify.com/artist/10DmwGZhrgdeAaxPIx4y2O) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 1:25 |
-| 196 | [Swingin' The Jinx Away](https://open.spotify.com/track/2DP9FpAhW50aVtZXl9hZJo) | [Nat Gonella And His Georgians](https://open.spotify.com/artist/26doXq7toDGiMUAyGLFjJO) | [The Great British Dance Bands Play Cole Porter](https://open.spotify.com/album/3L31sFS22NEH1a9bgTkDYD) | 3:04 |
-| 197 | [Nina](https://open.spotify.com/track/285s2fExCvLqr2T1dNZ8TV) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Olé Tormé](https://open.spotify.com/album/6tCVZDvOYGYzaJ6jMkP5Td) | 2:33 |
+| 196 | [Nina](https://open.spotify.com/track/285s2fExCvLqr2T1dNZ8TV) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Olé Tormé](https://open.spotify.com/album/6tCVZDvOYGYzaJ6jMkP5Td) | 2:33 |
+| 197 | [Swingin' The Jinx Away](https://open.spotify.com/track/2DP9FpAhW50aVtZXl9hZJo) | [Nat Gonella And His Georgians](https://open.spotify.com/artist/26doXq7toDGiMUAyGLFjJO) | [The Great British Dance Bands Play Cole Porter](https://open.spotify.com/album/3L31sFS22NEH1a9bgTkDYD) | 3:04 |
 | 198 | [Les Girls](https://open.spotify.com/track/4wuLVgC2nYLvKhbmxfsfwW) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [The Early Years 1959\-1966](https://open.spotify.com/album/6UoO3L0ZpeXOg66Z6bMDW5) | 2:01 |
 | 199 | [Pilot Me](https://open.spotify.com/track/71B847yYnD56zyHeSP4dRY) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Bobby Short Loves Cole Porter](https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP) | 2:45 |
 | 200 | [Selectons From Can\-can \- Maidens Typical Of France](https://open.spotify.com/track/69svx0s5MyDNPReTWvoeyK) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole \- Cole Sings Porter \- Recordings Of Cole Porter Singing Music From Can\-can And Jubilee](https://open.spotify.com/album/32QWIcKipvxNykK5bnwcFs) | 1:27 |
@@ -400,4 +400,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 390 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 | 391 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `Ab+FMgAAAACNVIkotujc9izRxjZ5KQoI`
+Snapshot ID: `Ab+KyAAAAADPzM2m/SzDI16q9XrjsPkv`

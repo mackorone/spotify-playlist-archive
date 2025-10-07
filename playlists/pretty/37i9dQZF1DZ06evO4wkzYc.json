@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 173141,
+  "num_followers": 173317,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOBjgAAAAABIafttQ4B3dXsKshYxSh8R",
+  "snapshot_id": "aOG1AAAAAACzu1WFdMpASDFZ8eibNoEj",
   "tracks": [
     {
       "added_at": null,
@@ -167,22 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playball",
-        "url": "https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 214840,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/0sh8CBGWBvJyNmWBRhZ8dU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Guardadas",
         "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 228379,
       "name": "Sobre Mis Pies",
       "url": "https://open.spotify.com/track/4mnveTVKzkbkT23GBDfRnj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Playball",
+        "url": "https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 214840,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/0sh8CBGWBvJyNmWBRhZ8dU"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3lo T\u00fa (En Vivo)",
-        "url": "https://open.spotify.com/album/4g0TTwd8kOOQEYwGgZiiKg"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 187989,
-      "name": "S\u00f3lo T\u00fa - En Vivo",
-      "url": "https://open.spotify.com/track/4jZHBWgeRYvLEexYEr1qrY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00e9date Conmigo",
         "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 182299,
       "name": "Delante De Mi",
       "url": "https://open.spotify.com/track/54WpanwL6bIMbK92QJ6QpH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00f3lo T\u00fa (En Vivo)",
+        "url": "https://open.spotify.com/album/4g0TTwd8kOOQEYwGgZiiKg"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 187989,
+      "name": "S\u00f3lo T\u00fa - En Vivo",
+      "url": "https://open.spotify.com/track/4jZHBWgeRYvLEexYEr1qrY"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 229584,
-      "name": "Nestor (El Nini)",
-      "url": "https://open.spotify.com/track/2whI3QJ3Slu3lv1Xnm5V3H"
+      "duration_ms": 214738,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2Na64BFiR2dNfvqbFdhixX"
     },
     {
       "added_at": null,
@@ -660,25 +660,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 214738,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/2Na64BFiR2dNfvqbFdhixX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hoy Ya Me Voy",
-        "url": "https://open.spotify.com/album/4Zgr06GJIQG1Gk8g6WWnq2"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 259976,
-      "name": "Hoy Ya Me Voy",
-      "url": "https://open.spotify.com/track/01KN2l362wczyvdO9mgW0v"
+      "duration_ms": 229584,
+      "name": "Nestor (El Nini)",
+      "url": "https://open.spotify.com/track/2whI3QJ3Slu3lv1Xnm5V3H"
     },
     {
       "added_at": null,
@@ -695,6 +679,22 @@
       "duration_ms": 147602,
       "name": "El Chico - En Vivo",
       "url": "https://open.spotify.com/track/74sZC4Ct0aNy3pCzvWV2bL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoy Ya Me Voy",
+        "url": "https://open.spotify.com/album/4Zgr06GJIQG1Gk8g6WWnq2"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 259976,
+      "name": "Hoy Ya Me Voy",
+      "url": "https://open.spotify.com/track/01KN2l362wczyvdO9mgW0v"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Dipinto e Frezza in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,720 likes - 73 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,731 likes - 73 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

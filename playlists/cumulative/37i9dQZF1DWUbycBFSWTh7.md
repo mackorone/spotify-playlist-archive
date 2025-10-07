@@ -4,7 +4,7 @@
 
 > get into the groove with a selection of new underground deep house
 
-593 songs - 2 day 7 hr 50 min
+594 songs - 2 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Extassy](https://open.spotify.com/track/2uK3ghC7nVXanDzeTL22Zw) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Extassy / In A Distorted Galaxy](https://open.spotify.com/album/7ik3JfNXlgGFLqeEtgzWS0) | 9:43 | 2022-10-21 | 2023-12-01 |
 | [Faceless \- Original Mix](https://open.spotify.com/track/2LSgFxLCx22k5aG5bghdTe) | [Zoo Brazil](https://open.spotify.com/artist/7KXpXc29g9x7kFBnM2HcrM) | [Stand Alone EP](https://open.spotify.com/album/7CSu8Jr1bOdAbyOXWRJyTH) | 7:07 | 2025-01-25 | 2025-09-21 |
 | [Falling Birds](https://open.spotify.com/track/2s8Ofim4y2HAm3BPVBQkb9) | [Marianto](https://open.spotify.com/artist/6OsqEB9YTm0lPG5340y3BI) | [Falling Birds](https://open.spotify.com/album/2hQ88OBBhfs5GMN7Mu3H4r) | 7:14 | 2025-02-07 | 2025-05-12 |
+| [Feel It Much?](https://open.spotify.com/track/5xqJymiqq4OCbo5akUSZJC) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Feel It Much?](https://open.spotify.com/album/3iG5dFTdjW3ytc2deeJqg1) | 4:35 | 2025-10-06 |  |
 | [Feel It Too](https://open.spotify.com/track/2orNXSkyIRgWWAVHRjjchs) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [Closure](https://open.spotify.com/album/2tQMlxXnIuH9bdnytpKZCz) | 4:53 | 2022-09-15 | 2023-08-12 |
 | [Feel It Too](https://open.spotify.com/track/6eCxE93eHyR9XNClcIi3CS) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [Closure](https://open.spotify.com/album/6E73jFWCNomWlXp3Vis492) | 4:53 | 2023-07-14 | 2023-10-13 |
 | [feel it yah](https://open.spotify.com/track/2dqmfG8IwZwbLfOBq0FkwS) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01) | [feel it yah](https://open.spotify.com/album/65Qd4vvxTDZdf55MW0chnq) | 4:06 | 2022-09-15 | 2022-10-15 |

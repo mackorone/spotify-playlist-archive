@@ -1,6 +1,6 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 494020,
+  "num_followers": 494276,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
@@ -719,26 +719,6 @@
     {
       "added_at": "2025-09-22 18:30:23",
       "album": {
-        "name": "Fall In Love With Her",
-        "url": "https://open.spotify.com/album/5FLWW34mtPlu7S691mEQQ9"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        },
-        {
-          "name": "Taner\u00e9lle",
-          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
-        }
-      ],
-      "duration_ms": 245581,
-      "name": "Fall in Love With Her",
-      "url": "https://open.spotify.com/track/3qk0TOeA6WtKsLbwQC8I8J"
-    },
-    {
-      "added_at": "2025-09-22 18:30:23",
-      "album": {
         "name": "Blurrr",
         "url": "https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 195999,
       "name": "Gown",
       "url": "https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh"
+    },
+    {
+      "added_at": "2025-09-22 18:30:23",
+      "album": {
+        "name": "Fall In Love With Her",
+        "url": "https://open.spotify.com/album/5FLWW34mtPlu7S691mEQQ9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        },
+        {
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+        }
+      ],
+      "duration_ms": 245581,
+      "name": "Fall in Love With Her",
+      "url": "https://open.spotify.com/track/3qk0TOeA6WtKsLbwQC8I8J"
     },
     {
       "added_at": "2025-09-22 18:30:23",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2025-09-22 18:30:23",
       "album": {
-        "name": "Just One Break (with Mon Rov\u00eea)",
-        "url": "https://open.spotify.com/album/2gJk7RfpGhCKYYMa5JGFOQ"
-      },
-      "artists": [
-        {
-          "name": "Josiah and the Bonnevilles",
-          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
-        },
-        {
-          "name": "Mon Rov\u00eea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
-        }
-      ],
-      "duration_ms": 169296,
-      "name": "Just One Break (with Mon Rov\u00eea)",
-      "url": "https://open.spotify.com/track/0freWEWPeC9gFw0hTUOh53"
-    },
-    {
-      "added_at": "2025-09-22 18:30:23",
-      "album": {
         "name": "Light That Match",
         "url": "https://open.spotify.com/album/7kgdul3E3sTCCS3hLU01vx"
       },
@@ -1055,26 +1035,38 @@
     {
       "added_at": "2025-09-22 18:30:23",
       "album": {
-        "name": "Ever New (Reworked by Bon Iver & Flock Of Dimes)",
-        "url": "https://open.spotify.com/album/6YBMppvgwzEQ1WluBwDVBE"
+        "name": "Just One Break (with Mon Rov\u00eea)",
+        "url": "https://open.spotify.com/album/2gJk7RfpGhCKYYMa5JGFOQ"
       },
       "artists": [
         {
-          "name": "Beverly Glenn-Copeland",
-          "url": "https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe"
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
         },
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        },
-        {
-          "name": "Flock of Dimes",
-          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
         }
       ],
-      "duration_ms": 383080,
-      "name": "Ever New - Reworked by Bon Iver & Flock of Dimes Single Version",
-      "url": "https://open.spotify.com/track/02BFhF6HybAE3vjBX9ptjS"
+      "duration_ms": 169296,
+      "name": "Just One Break (with Mon Rov\u00eea)",
+      "url": "https://open.spotify.com/track/0freWEWPeC9gFw0hTUOh53"
+    },
+    {
+      "added_at": "2025-09-22 18:30:23",
+      "album": {
+        "name": "Half Alive",
+        "url": "https://open.spotify.com/album/7HF75RmgHlbDQqZjwmtiIb"
+      },
+      "artists": [
+        {
+          "name": "Eleni Drake",
+          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
+        }
+      ],
+      "duration_ms": 183303,
+      "name": "Half Alive",
+      "url": "https://open.spotify.com/track/4iL0LJgt27lSqpNS6AQsiN"
     },
     {
       "added_at": "2025-09-22 18:30:23",
@@ -1095,18 +1087,26 @@
     {
       "added_at": "2025-09-22 18:30:23",
       "album": {
-        "name": "Half Alive",
-        "url": "https://open.spotify.com/album/7HF75RmgHlbDQqZjwmtiIb"
+        "name": "Ever New (Reworked by Bon Iver & Flock Of Dimes)",
+        "url": "https://open.spotify.com/album/6YBMppvgwzEQ1WluBwDVBE"
       },
       "artists": [
         {
-          "name": "Eleni Drake",
-          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
+          "name": "Beverly Glenn-Copeland",
+          "url": "https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        },
+        {
+          "name": "Flock of Dimes",
+          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
         }
       ],
-      "duration_ms": 183303,
-      "name": "Half Alive",
-      "url": "https://open.spotify.com/track/4iL0LJgt27lSqpNS6AQsiN"
+      "duration_ms": 383080,
+      "name": "Ever New - Reworked by Bon Iver & Flock of Dimes Single Version",
+      "url": "https://open.spotify.com/track/02BFhF6HybAE3vjBX9ptjS"
     },
     {
       "added_at": "2025-09-22 18:30:23",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-09-22 18:30:23",
       "album": {
-        "name": "Sleepless in Seattle",
-        "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
-      },
-      "artists": [
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        }
-      ],
-      "duration_ms": 240813,
-      "name": "Sleepless in Seattle",
-      "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
-    },
-    {
-      "added_at": "2025-09-22 18:30:23",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 153850,
       "name": "Buffalo Replaced - Spotify Singles",
       "url": "https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB"
+    },
+    {
+      "added_at": "2025-09-22 18:30:23",
+      "album": {
+        "name": "Sleepless in Seattle",
+        "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        }
+      ],
+      "duration_ms": 240813,
+      "name": "Sleepless in Seattle",
+      "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
     },
     {
       "added_at": "2025-09-22 18:30:23",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-09-22 18:30:23",
       "album": {
-        "name": "awe",
-        "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
-      },
-      "artists": [
-        {
-          "name": "Pem",
-          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
-        }
-      ],
-      "duration_ms": 235382,
-      "name": "awe",
-      "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
-    },
-    {
-      "added_at": "2025-09-22 18:30:23",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/2LhcszZRrPCmJZqhsTdI6S"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 229432,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/5TnodoKN3XEi80i2ZeCh1y"
+    },
+    {
+      "added_at": "2025-09-22 18:30:23",
+      "album": {
+        "name": "awe",
+        "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
+      },
+      "artists": [
+        {
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+        }
+      ],
+      "duration_ms": 235382,
+      "name": "awe",
+      "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
     },
     {
       "added_at": "2025-09-22 18:30:23",
@@ -1519,18 +1519,22 @@
     {
       "added_at": "2025-09-22 18:30:23",
       "album": {
-        "name": "i leave early",
-        "url": "https://open.spotify.com/album/6WM1ihagtD7rboK5Ycy1lX"
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/19g08PLwSFleJyXjAIugDI"
       },
       "artists": [
         {
-          "name": "Maria Kelly",
-          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 193793,
-      "name": "i leave early",
-      "url": "https://open.spotify.com/track/3v6a2Q4iClZE8a2Qv5g60r"
+      "duration_ms": 224893,
+      "name": "How (ft. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/4da4p7RgqK9AjtVh4sEEHc"
     },
     {
       "added_at": "2025-09-22 18:30:23",
@@ -1551,22 +1555,18 @@
     {
       "added_at": "2025-09-22 18:30:23",
       "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/19g08PLwSFleJyXjAIugDI"
+        "name": "i leave early",
+        "url": "https://open.spotify.com/album/6WM1ihagtD7rboK5Ycy1lX"
       },
       "artists": [
         {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Maria Kelly",
+          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
         }
       ],
-      "duration_ms": 224893,
-      "name": "How (ft. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/4da4p7RgqK9AjtVh4sEEHc"
+      "duration_ms": 193793,
+      "name": "i leave early",
+      "url": "https://open.spotify.com/track/3v6a2Q4iClZE8a2Qv5g60r"
     },
     {
       "added_at": "2025-09-22 18:30:23",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2025-09-22 18:30:23",
       "album": {
-        "name": "Radio Silence",
-        "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
+        "name": "Silicone Heart",
+        "url": "https://open.spotify.com/album/2NbquPo8J4VCEqkrDyV9KR"
       },
       "artists": [
         {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
         }
       ],
-      "duration_ms": 222760,
-      "name": "Radio Silence",
-      "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
+      "duration_ms": 193361,
+      "name": "Silicone Heart",
+      "url": "https://open.spotify.com/track/18YdjxKgfyjcaIKRrfpndh"
     },
     {
       "added_at": "2025-09-22 18:30:23",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2025-09-22 18:30:23",
       "album": {
-        "name": "Silicone Heart",
-        "url": "https://open.spotify.com/album/2NbquPo8J4VCEqkrDyV9KR"
+        "name": "Radio Silence",
+        "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
       },
       "artists": [
         {
-          "name": "Deyaz",
-          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
         }
       ],
-      "duration_ms": 193361,
-      "name": "Silicone Heart",
-      "url": "https://open.spotify.com/track/18YdjxKgfyjcaIKRrfpndh"
+      "duration_ms": 222760,
+      "name": "Radio Silence",
+      "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
     },
     {
       "added_at": "2025-09-22 18:30:23",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2025-09-22 18:30:23",
       "album": {
-        "name": "Such Love Does",
-        "url": "https://open.spotify.com/album/7qNbPyJsIY98uut0qke5PY"
-      },
-      "artists": [
-        {
-          "name": "Andrea von Kampen",
-          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
-        }
-      ],
-      "duration_ms": 200333,
-      "name": "Such Love Does",
-      "url": "https://open.spotify.com/track/47gFlybCCArb5b4VHbJhh0"
-    },
-    {
-      "added_at": "2025-09-22 18:30:23",
-      "album": {
         "name": "A Running Start",
         "url": "https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG"
       },
@@ -1779,18 +1763,18 @@
     {
       "added_at": "2025-09-22 18:30:23",
       "album": {
-        "name": "Wait Up",
-        "url": "https://open.spotify.com/album/1vodStDlRmay0I5Wbfdjng"
+        "name": "Such Love Does",
+        "url": "https://open.spotify.com/album/7qNbPyJsIY98uut0qke5PY"
       },
       "artists": [
         {
-          "name": "Neffy",
-          "url": "https://open.spotify.com/artist/75Qz8WXumn9ghkXDwpj34N"
+          "name": "Andrea von Kampen",
+          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
         }
       ],
-      "duration_ms": 191700,
-      "name": "Wait Up",
-      "url": "https://open.spotify.com/track/464vzE6yinrOYJU0pba5HY"
+      "duration_ms": 200333,
+      "name": "Such Love Does",
+      "url": "https://open.spotify.com/track/47gFlybCCArb5b4VHbJhh0"
     },
     {
       "added_at": "2025-09-22 18:30:23",
@@ -1807,6 +1791,22 @@
       "duration_ms": 323591,
       "name": "River",
       "url": "https://open.spotify.com/track/62h7AycdIWjq6uYWC0LBht"
+    },
+    {
+      "added_at": "2025-09-22 18:30:23",
+      "album": {
+        "name": "Wait Up",
+        "url": "https://open.spotify.com/album/1vodStDlRmay0I5Wbfdjng"
+      },
+      "artists": [
+        {
+          "name": "Neffy",
+          "url": "https://open.spotify.com/artist/75Qz8WXumn9ghkXDwpj34N"
+        }
+      ],
+      "duration_ms": 191700,
+      "name": "Wait Up",
+      "url": "https://open.spotify.com/track/464vzE6yinrOYJU0pba5HY"
     },
     {
       "added_at": "2025-09-22 18:30:23",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2025-09-22 18:30:23",
       "album": {
-        "name": "Collateral",
-        "url": "https://open.spotify.com/album/4rDtkcswamhTIK6xOEgbWF"
-      },
-      "artists": [
-        {
-          "name": "Daulton Hopkins",
-          "url": "https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS"
-        }
-      ],
-      "duration_ms": 179188,
-      "name": "Collateral",
-      "url": "https://open.spotify.com/track/0WwBPTz2wuv3A8qLIklg6y"
-    },
-    {
-      "added_at": "2025-09-22 18:30:23",
-      "album": {
         "name": "God",
         "url": "https://open.spotify.com/album/3li9CStMM1QmEd5A35ImP7"
       },
@@ -1923,18 +1907,18 @@
     {
       "added_at": "2025-09-22 18:30:23",
       "album": {
-        "name": "Restless Minds",
-        "url": "https://open.spotify.com/album/5wIJ5KSFs23rMjn3JDoTR7"
+        "name": "Collateral",
+        "url": "https://open.spotify.com/album/4rDtkcswamhTIK6xOEgbWF"
       },
       "artists": [
         {
-          "name": "Ward Thomas",
-          "url": "https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw"
+          "name": "Daulton Hopkins",
+          "url": "https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS"
         }
       ],
-      "duration_ms": 166706,
-      "name": "No Fooling Me",
-      "url": "https://open.spotify.com/track/0GEdMvgn1eLGBQeoDeSyPs"
+      "duration_ms": 179188,
+      "name": "Collateral",
+      "url": "https://open.spotify.com/track/0WwBPTz2wuv3A8qLIklg6y"
     },
     {
       "added_at": "2025-09-22 18:30:23",
@@ -1955,18 +1939,18 @@
     {
       "added_at": "2025-09-22 18:30:23",
       "album": {
-        "name": "Reliance",
-        "url": "https://open.spotify.com/album/2tTLL49vo53UoDXLcDjPgS"
+        "name": "Restless Minds",
+        "url": "https://open.spotify.com/album/5wIJ5KSFs23rMjn3JDoTR7"
       },
       "artists": [
         {
-          "name": "Amy Jay",
-          "url": "https://open.spotify.com/artist/7ztk56WZhRA5oIiMaNYuh3"
+          "name": "Ward Thomas",
+          "url": "https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw"
         }
       ],
-      "duration_ms": 219245,
-      "name": "Reliance",
-      "url": "https://open.spotify.com/track/2rNlmDqduDNkj8W9D1O7KM"
+      "duration_ms": 166706,
+      "name": "No Fooling Me",
+      "url": "https://open.spotify.com/track/0GEdMvgn1eLGBQeoDeSyPs"
     },
     {
       "added_at": "2025-09-22 18:30:23",
@@ -1983,6 +1967,22 @@
       "duration_ms": 178417,
       "name": "Sunwarmed",
       "url": "https://open.spotify.com/track/2NN9upqz79D5uLDoiaPOx4"
+    },
+    {
+      "added_at": "2025-09-22 18:30:23",
+      "album": {
+        "name": "Reliance",
+        "url": "https://open.spotify.com/album/2tTLL49vo53UoDXLcDjPgS"
+      },
+      "artists": [
+        {
+          "name": "Amy Jay",
+          "url": "https://open.spotify.com/artist/7ztk56WZhRA5oIiMaNYuh3"
+        }
+      ],
+      "duration_ms": 219245,
+      "name": "Reliance",
+      "url": "https://open.spotify.com/track/2rNlmDqduDNkj8W9D1O7KM"
     },
     {
       "added_at": "2025-09-22 18:30:23",

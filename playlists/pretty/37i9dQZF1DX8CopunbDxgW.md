@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > Leon Vynehall releases his gripping new album, In Daytona Yellow 💛  it's all the best indie dance tracks of the moment
 
-[Spotify](https://open.spotify.com/user/spotify) - 880,409 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 880,456 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

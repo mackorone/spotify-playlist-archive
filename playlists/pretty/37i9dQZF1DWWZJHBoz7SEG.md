@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡La spooky season viene con rolitas nuevas tan chidas que asusta! 👻 Chino Pacas en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,062,826 likes - 64 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,062,891 likes - 64 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

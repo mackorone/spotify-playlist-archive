@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Taylor Swift, Linda Elys, Damso, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,132 likes - 93 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,129 likes - 93 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 89 | [Prismatica](https://open.spotify.com/track/6L45eFIDmCPPvqZmWbubuz) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Prismatica](https://open.spotify.com/album/2Bh4ScRdm4fU0sZ1HDm7V8) | 3:50 |
 | 90 | [I Need Her](https://open.spotify.com/track/6g8YoqKjS1OqW0MXo1DyeL) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 2:37 |
 | 91 | [Opening Night](https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Opening Night](https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr) | 3:31 |
-| 92 | [Attack](https://open.spotify.com/track/4LOTqqso4oE3TCHGekewHg) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Fuji](https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J) | 2:52 |
+| 92 | [Attack](https://open.spotify.com/track/4LOTqqso4oE3TCHGekewHg) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Fuji](https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J) | 2:52 |
 | 93 | [Koa Bergbauernbua](https://open.spotify.com/track/1H21MrnJOrw5DAZAuromIo) | [Oimara](https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR), [Melissa Naschenweng](https://open.spotify.com/artist/00unybLgvbIqKxx0OTyYYZ) | [Koa Bergbauernbua](https://open.spotify.com/album/0nNBb1OooHvOVWbZXIUxgD) | 3:35 |
 
 Snapshot ID: `AAAAAP2OE4JiEoiRYMfF158h2H3RQHqR`

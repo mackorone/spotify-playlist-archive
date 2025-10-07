@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 26.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,360 likes - 103 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,571 likes - 103 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Pájaro Cantor](https://open.spotify.com/track/6odGtiVKetw1IxyOYomG8Z) | [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Pájaro Cantor](https://open.spotify.com/album/5jmYb89g2MOH4tAJxt73At) | 4:38 |
+| 1 | [Pájaro Cantor](https://open.spotify.com/track/6odGtiVKetw1IxyOYomG8Z) | [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW), [Cantora de Barro](https://open.spotify.com/artist/2O4CwpeQWQb4VjmpmAxzU2) | [Pájaro Cantor](https://open.spotify.com/album/5jmYb89g2MOH4tAJxt73At) | 4:38 |
 | 2 | [Vacay](https://open.spotify.com/track/28t3hQwbHDfjwqZOWrFN6T) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [13 Months of Sunshine](https://open.spotify.com/album/7uu6SJRaMfIuoiMUKs5hIO) | 2:22 |
 | 3 | [Love On the Big Screen](https://open.spotify.com/track/2arA4UjtVVKh7Gvyi03T68) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Love On the Big Screen](https://open.spotify.com/album/1uXTNT986exupJwfbwXL2t) | 3:25 |
 | 4 | [Generation Love](https://open.spotify.com/track/4VN7zNElegROYZccUa4z4V) | [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [NewEra](https://open.spotify.com/artist/4QLa9DWZEpFrBhNG5UWXF1) | [Generation Love](https://open.spotify.com/album/7pHABdpFxeR8mbMfG20EPm) | 2:59 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Taylor Swift, MERO, Montez und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,872 likes - 78 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,846 likes - 78 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 73 | [Prismatica](https://open.spotify.com/track/6L45eFIDmCPPvqZmWbubuz) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Prismatica](https://open.spotify.com/album/2Bh4ScRdm4fU0sZ1HDm7V8) | 3:50 |
 | 74 | [I Need Her](https://open.spotify.com/track/6g8YoqKjS1OqW0MXo1DyeL) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 2:37 |
 | 75 | [Opening Night](https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Opening Night](https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr) | 3:31 |
-| 76 | [Attack](https://open.spotify.com/track/4LOTqqso4oE3TCHGekewHg) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Fuji](https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J) | 2:52 |
+| 76 | [Attack](https://open.spotify.com/track/4LOTqqso4oE3TCHGekewHg) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Fuji](https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J) | 2:52 |
 | 77 | [10 sur 10 \(feat\. Aya Nakamura\)](https://open.spotify.com/track/5dlAgdujhcEpOToGDBdx4k) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Jeunesse Dorée](https://open.spotify.com/album/2W8FV0Qcb6DsyZWFWPVTD3) | 2:42 |
 | 78 | [Koa Bergbauernbua](https://open.spotify.com/track/1H21MrnJOrw5DAZAuromIo) | [Oimara](https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR), [Melissa Naschenweng](https://open.spotify.com/artist/00unybLgvbIqKxx0OTyYYZ) | [Koa Bergbauernbua](https://open.spotify.com/album/0nNBb1OooHvOVWbZXIUxgD) | 3:35 |
 

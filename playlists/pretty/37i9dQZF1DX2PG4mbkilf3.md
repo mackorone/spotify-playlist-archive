@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 ### [Mood Ring ](https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3)
 
-> Your guide to R&B in Canada, featuring Daniela Andrade from Montréal, ON.
+> Your guide to R&B in Canada, featuring Daniela Andrade from Montréal, QC.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,923 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,937 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 74 | [Life 2](https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Life 2](https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e) | 3:23 |
 | 75 | [Make Me Feel \(with LaRussell\)](https://open.spotify.com/track/3fWFpIGeEWYgrwV1peKywx) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM) | [Say Yes](https://open.spotify.com/album/3KvajQirBv0q6FPpD3JNag) | 3:09 |
 
-Snapshot ID: `AAAAALgv7NMOVUdczilYC4Av3BhuHbz3`
+Snapshot ID: `AAAAAPw2PwY3bacCVwSHrd+EgTD8Zjqm`

@@ -2,9 +2,9 @@
 
 ### [Christian Hits](https://open.spotify.com/playlist/37i9dQZF1DX5SzTPIoCKiv)
 
-> Recent hits from your favorite Christian Contemporary artists\.  Cover: Forrest Frank
+> Recent hits from your favorite Christian Contemporary artists\.  Cover: Phil Wickham
 
-285 songs - 18 hr 38 min
+286 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Burdens](https://open.spotify.com/track/4IlBnAZ3kT5rEbkjDrD89b) | [Jamie Kimmett](https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG) | [Burdens](https://open.spotify.com/album/2nCEqKQx0XNyMJ9Du3Kzxh) | 3:52 | 2021-10-15 | 2022-07-28 |
 | [Call on Your Name](https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Call on Your Name](https://open.spotify.com/album/1eW4OSXW82QK5ckhxZriYQ) | 5:09 | 2024-06-21 | 2024-11-30 |
 | [Canvas And Clay](https://open.spotify.com/track/404RzFqc13ZySX8auBFyub) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Morning By Morning](https://open.spotify.com/album/7eD4vFAbEwTGZxcauUH2dg) | 4:14 | 2021-10-15 |  |
-| [Canyon](https://open.spotify.com/track/0AmKjCIxl7leZzlVbHeAmO) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Canyon](https://open.spotify.com/album/1BSzjovh9NjjdoxfSVyjbV) | 3:40 | 2021-10-15 |  |
+| [Canyon](https://open.spotify.com/track/0AmKjCIxl7leZzlVbHeAmO) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Canyon](https://open.spotify.com/album/1BSzjovh9NjjdoxfSVyjbV) | 3:40 | 2021-10-15 | 2025-10-07 |
 | [Catch Me](https://open.spotify.com/track/2yDWexKaX2plvcDbomivOK) | [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [Wearing a Blindfold and Running](https://open.spotify.com/album/5R45bo2kVxcZE0d1AdWeYZ) | 4:41 | 2021-10-15 | 2022-07-29 |
 | [Caught In The Reeds \(Moses\)](https://open.spotify.com/track/719R9MA3XRpXuVwttEX1Vb) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Caught In The Reeds \(Moses\)](https://open.spotify.com/album/6wQiAgwwdZYXc5d9aYwtSU) | 4:09 | 2021-10-15 | 2024-05-11 |
 | [Chain Breaker](https://open.spotify.com/track/17GmwQ9Q3MTAz05OokmNNB) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Chain Breaker \(Deluxe Edition\)](https://open.spotify.com/album/1SIDIEoYi0EAlRqa1J6J7N) | 3:16 | 2021-10-15 | 2024-06-22 |
@@ -278,6 +278,7 @@
 | [Weary Traveler](https://open.spotify.com/track/27YTT1WDp0UL1TdKssgbM1) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Weary Traveler](https://open.spotify.com/album/48QzqNPnoKRDMidmCOwvbR) | 3:20 | 2021-10-15 |  |
 | [Weary Traveler](https://open.spotify.com/track/3hKlTLtByTIe7nZyWieVkI) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Jordan St\. Cyr](https://open.spotify.com/album/0MCDpmEi7dRHtWtW9U4GXC) | 3:20 | 2023-02-18 | 2024-02-27 |
 | [Weary Traveler](https://open.spotify.com/track/4GvaupCSw4gKdfP0h9H9AB) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Jordan St\. Cyr](https://open.spotify.com/album/3mDTBxxt06UjSoaNj2BpcK) | 3:20 | 2021-10-15 | 2023-01-22 |
+| [What An Awesome God](https://open.spotify.com/track/2fKnX8RINrl4eOG5klOhcZ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [What An Awesome God](https://open.spotify.com/album/19rQaj9WUt61x4kiFOGRlc) | 3:31 | 2025-10-06 |  |
 | [What I'm Here For](https://open.spotify.com/track/60TDbRgxNauv2waKkBZ58q) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [What I’m Here For](https://open.spotify.com/album/0ScpOqmsdJuXH59oV92NgN) | 3:47 | 2021-10-15 | 2022-07-27 |
 | [When We Fall Apart \(feat\. Vince Gill & Amy Grant\)](https://open.spotify.com/track/3qY5XlO5nLbCZDy5BPtH6x) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [When We Fall Apart \(feat\. Vince Gill & Amy Grant\)](https://open.spotify.com/album/0LLTMDGcJwLdwN8SC3OLm7) | 4:26 | 2021-10-15 | 2022-07-29 |
 | [Who Else \(Single Mix\)](https://open.spotify.com/track/16i9L55SPprkbqR0Z13c3C) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Who Else](https://open.spotify.com/album/77T5fBnTJSgDT0nHrUseTO) | 3:28 | 2021-10-15 | 2022-03-12 |

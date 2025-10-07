@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-896 songs - 1 day 23 hr 39 min
+899 songs - 1 day 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | [Hold You Down](https://open.spotify.com/track/5WLcxGiKOoqD0pfeAR1RCP) | [Alex Parker](https://open.spotify.com/artist/7oOfZSYouCcyk13dNrOpiX), [ALMA](https://open.spotify.com/artist/1B7cXxCiF8Je72dc2XTt6M) | [Hold You Down](https://open.spotify.com/album/21V3q9UH4Wg7W2XSg3blKq) | 3:17 | 2023-10-26 | 2024-01-06 |
 | [Holding On](https://open.spotify.com/track/1zOc6AuCVO0DDUybSNTXMy) | [Alvix](https://open.spotify.com/artist/6kvuWxnfDOejSwLyAliFfY) | [Holding On](https://open.spotify.com/album/1MeqUzBOuu3vQvYFhL6IYv) | 2:16 | 2025-01-16 | 2025-08-13 |
 | [Hollow](https://open.spotify.com/track/1mNxu2fyZJ8eND2WzddSIg) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Hollow](https://open.spotify.com/album/1zbkU3kuZLIZ0c4kYypI56) | 4:36 | 2023-04-13 | 2024-01-06 |
+| [Holly](https://open.spotify.com/track/1xXHCKVvxbOWY7w4MNTabh) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s), [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Holly](https://open.spotify.com/album/3CW9naOJLZAKJL9JyUFHpO) | 3:14 | 2025-10-06 |  |
 | [Home](https://open.spotify.com/track/7LcoNxnl1UpDTVlFxyWuc7) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Home](https://open.spotify.com/album/7EQICwXiHrwISuMKvRY9sj) | 3:41 | 2023-06-29 | 2024-01-06 |
 | [Honey](https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb) | 4:22 | 2024-04-11 | 2024-04-19 |
 | [Honey](https://open.spotify.com/track/6ztI9zfPNMhocBJcXbeEqt) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/0tUmA50dII1GN946D9lUsW) | 4:22 | 2024-04-18 | 2024-07-03 |
@@ -440,6 +441,7 @@
 | [Little Wing \- George FitzGerald Remix](https://open.spotify.com/track/3rhPZdw2c8MiFnTQ6xNwD5) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Little Wing \(George FitzGerald Remix\)](https://open.spotify.com/album/3nb11vQXFtfLxRqvJ278Bx) | 4:19 | 2023-11-09 | 2024-01-06 |
 | [Live You Down](https://open.spotify.com/track/6EkOxvS3VutQvy6MsTrrwh) | [Svidden](https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG) | [Live You Down](https://open.spotify.com/album/1vfLlCIdqV5WqXJ4GaOEmJ) | 3:01 | 2023-04-27 | 2025-08-13 |
 | [LIVING WITHOUT U](https://open.spotify.com/track/2krfwDVuO30gcQjZ0houHE) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [LIVING WITHOUT U](https://open.spotify.com/album/1kls1K8RYllsX1baM4X8kQ) | 3:11 | 2025-09-11 |  |
+| [Lonely](https://open.spotify.com/track/0kywndNJmUz0YvuVmaF9RO) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Lonely](https://open.spotify.com/album/2Eu9EXnfSketOVIBoYhj6N) | 3:13 | 2025-10-06 |  |
 | [Lonely](https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [PHEA](https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL) | [Lonely](https://open.spotify.com/album/6qqa82E8e1qMK9mv3OZ6uj) | 2:45 | 2023-07-07 | 2025-08-13 |
 | [Lonely \- AVAION Remix](https://open.spotify.com/track/3QFYEwD1H68ii9jXSdWJbU) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst), [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Lonely \(AVAION Remix\)](https://open.spotify.com/album/3ac5ZGbY7LbUqc3SK9z308) | 3:55 | 2024-08-15 | 2025-08-13 |
 | [Looking Down From Space](https://open.spotify.com/track/3DTTlCES4tHvTBjQBGQSwV) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Looking Down From Space](https://open.spotify.com/album/5qCrgDQMeXAQyw7eFHsGMI) | 4:08 | 2023-06-01 | 2024-01-06 |
@@ -641,6 +643,7 @@
 | [Runaway](https://open.spotify.com/track/3umVRp5FJtkvh6VUZpra8C) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20) | [Affirmations](https://open.spotify.com/album/7fLkWAvOwyWLPQDytTukiJ) | 2:45 | 2023-08-17 | 2024-01-06 |
 | [Runaway \- JEV Remix](https://open.spotify.com/track/5wUgpWOlLFMYfAcpzIUrbI) | [Stresshead](https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs), [JEV](https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW) | [Runaway \(JEV Remix\)](https://open.spotify.com/album/627xHZPv8UREuGW5TWZgcF) | 3:30 | 2025-02-27 |  |
 | [RWEOK?](https://open.spotify.com/track/2YhEJoYccyE5wpdAkZWbPk) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [demotapes](https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X) | [RWEOK?](https://open.spotify.com/album/1ohdPPIK0Gl5F3oJafcwgQ) | 2:27 | 2023-07-28 | 2024-01-06 |
+| [s.o.s](https://open.spotify.com/track/2gRcRlKTI8WSQhufYPlO1Z) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [Tabi](https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn) | [s.o.s](https://open.spotify.com/album/4E0rIBD3vyXDoaynnfT5Av) | 2:09 | 2025-10-06 |  |
 | [SAFE WITH ME \(SECRETOS\)](https://open.spotify.com/track/0FCABIXhXHI4mi0qao8gTR) | [Jhay Rivas](https://open.spotify.com/artist/4hQHXyqZ6QlqPC76XmT2kH) | [SAFE WITH ME \(SECRETOS\)](https://open.spotify.com/album/3W2fOiqWefDpA1huBvt3fe) | 3:46 | 2024-04-04 | 2025-08-13 |
 | [Same Wave \(feat\. Salena Mastroianni\)](https://open.spotify.com/track/0B6YQW5879dzOqOfJKbOWh) | [Hogland](https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB), [Salena Mastroianni](https://open.spotify.com/artist/0X9HZbVBzUgugjKVgrYk6W) | [Same Wave \(feat\. Salena Mastroianni\)](https://open.spotify.com/album/74hfd8hsX9X95Unoyq1FLm) | 1:59 | 2023-08-10 | 2025-08-13 |
 | [Save a Soul](https://open.spotify.com/track/7bDDYji600PxR0F921ctVN) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Woods](https://open.spotify.com/album/2z3CV9qqCvIYvrM6pcrp1F) | 4:22 | 2023-04-20 | 2025-08-13 |

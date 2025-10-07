@@ -4,7 +4,7 @@
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-741 songs - 1 day 11 hr 17 min
+742 songs - 1 day 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -639,6 +639,7 @@
 | [The Return](https://open.spotify.com/track/1XtqZcOVMbs0PMmXDgLSl2) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [The Return \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5k9WjeS35446JBmWdawZtm) | 2:40 | 2025-01-07 | 2025-07-26 |
 | [The Ride of the Witcher \(feat\. Percival Schuttenbach\) \- from The Witcher: Season 3](https://open.spotify.com/track/5F4hjWU7HVUK8i0pNlDRhM) | [Joey Batey](https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc), [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [Percival Schuttenbach](https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM) | [The Ride of the Witcher \(feat\. Percival Schuttenbach\) \[from The Witcher: Season 3\]](https://open.spotify.com/album/4CuY2DkWhEAdOoD6VO7xR6) | 3:23 | 2023-06-23 | 2024-09-11 |
 | [The Rise of Skywalker](https://open.spotify.com/track/5mwobK7yPtQQgrywkyvTLu) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Rise of Skywalker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/26pelVOow8ODvBktJbDiua) | 4:18 | 2021-12-20 | 2022-08-20 |
+| [The Risk \- Instrumental](https://open.spotify.com/track/009udixUjGtU5zslULs1fO) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Big Bold Beautiful Journey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47kkQLC0hzwsp0uFdhikZP) | 3:58 | 2025-10-06 |  |
 | [The Sound](https://open.spotify.com/track/4m6bEYRJBo9GCcOCkBKnAU) | [Aska Matsumiya](https://open.spotify.com/artist/4Xe7FFX2aXXi3Q5lnfzhUU) | [Betty \(HBO Original Series Soundtrack\)](https://open.spotify.com/album/3EyUG8yv7LIKyHIr1yQ7yT) | 3:15 | 2021-12-20 | 2022-07-09 |
 | [The Story of the First Witcher](https://open.spotify.com/track/27IauLSoyh3hseoltgWrRP) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Witcher: Blood Origin \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3wpT0UznACauxn7SjizehW) | 3:41 | 2022-12-16 | 2024-11-21 |
 | [The Theft](https://open.spotify.com/track/4WHjBK90nJUJO6pDhDUcq0) | [Uno Helmersson](https://open.spotify.com/artist/1kadYRHFCmrICPStobY2qm) | [The Painter and the Thief \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2BodeWKh4jOpa1qLXESWpT) | 2:49 | 2021-12-20 | 2022-07-09 |

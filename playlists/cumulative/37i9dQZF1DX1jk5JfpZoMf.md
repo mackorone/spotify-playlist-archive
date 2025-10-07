@@ -4,7 +4,7 @@
 
 > Nada melhor que aquela barulho de chuva para dormir ou relaxar.
 
-319 songs - 15 hr 41 min
+320 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Gentle Garden Rain](https://open.spotify.com/track/43xyo8dOzS47tWP2omabv6) | [Aqualand](https://open.spotify.com/artist/5vMLhcMsB19f7u6bZ2f9GM) | [Gentle Garden Rain](https://open.spotify.com/album/34Z9XV0Lqkp4Ez8DGekhXc) | 3:13 | 2023-06-16 |  |
 | [Get Away Rain](https://open.spotify.com/track/4MRSkeZDLve6VCSTOvKa45) | [Freyr](https://open.spotify.com/artist/0UXi91La4FUOmdfH5X4pIG) | [Misty Rain](https://open.spotify.com/album/2ZTBbqsjjp5b7tvSGcWWQu) | 3:28 | 2023-06-16 |  |
 | [Get Ready for Another Downpour](https://open.spotify.com/track/5M3y23CDqPYXqLMAeEe2TH) | [Stardust Vibes](https://open.spotify.com/artist/1XcbmsczGDkYqrqIy8K89H) | [Australian Rain](https://open.spotify.com/album/4MjMHrspXg9d4jc3VbfAdZ) | 7:45 | 2024-06-11 | 2025-09-13 |
-| [Gimme Some Rain](https://open.spotify.com/track/1KqJ4mOtP0m4E8uRgevKF3) | [Neo Si](https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3) | [The Nimbus Part One](https://open.spotify.com/album/5QU8GSm262qFbE6e0eaiXv) | 2:00 | 2024-03-21 |  |
+| [Gimme Some Rain](https://open.spotify.com/track/1KqJ4mOtP0m4E8uRgevKF3) | [Neo Si](https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3) | [The Nimbus Part One](https://open.spotify.com/album/5QU8GSm262qFbE6e0eaiXv) | 2:00 | 2024-03-21 | 2025-10-07 |
 | [Gramilla](https://open.spotify.com/track/5iZmgtPfC6LOGCwRL0GAAU) | [Altostratus](https://open.spotify.com/artist/0F1KiweoRWIIKbgKWTHaua) | [Pluvialis](https://open.spotify.com/album/4FyYhJBQllqeHdzEVuYGZT) | 2:12 | 2023-06-16 |  |
 | [Grim Falls](https://open.spotify.com/track/5Pn9DRYhdyqbghfMqrgK5F) | [Pointillism](https://open.spotify.com/artist/6JirfCD0iO9srNDD1PEuyZ) | [Grim Falls](https://open.spotify.com/album/0I6Icxj5K4T7KKDhy8lejC) | 2:11 | 2023-06-16 |  |
 | [Ground Level](https://open.spotify.com/track/5s8EezAFdXNiHOvOutgtOU) | [Island Drizzle](https://open.spotify.com/artist/4ZXHTKP1hGyn8s7oRLMxRw) | [Cloud Droplets](https://open.spotify.com/album/185dupnKF5DukVuwY38967) | 2:39 | 2023-06-16 |  |
@@ -102,7 +102,7 @@
 | [Hard Rain 2](https://open.spotify.com/track/0HviNI5IDkJxWlR77EKGoP) | [Rain Hard](https://open.spotify.com/artist/3jjJ23jPDUk9XnURWZmWK4) | [Rain Rain Rain](https://open.spotify.com/album/4tTNZUUVpyPnwysaK2SsmX) | 3:09 | 2023-06-16 |  |
 | [Hard Rain Falling](https://open.spotify.com/track/4g3GdxAHnH21jR4QwCDqHl) | [Let It Rain](https://open.spotify.com/artist/2HQWUP9lYec3fWJ6VbSFdG) | [Mantric Rain](https://open.spotify.com/album/0pXmxhBLGqDsSiBsyV44tP) | 2:44 | 2023-06-16 |  |
 | [Healing Rain](https://open.spotify.com/track/3MeV1PeFOCjgwXOnADJtE5) | [R\. Guru](https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48) | [Healing Rain](https://open.spotify.com/album/3q6h5lns25xvocifvgsXv8) | 3:28 | 2023-06-16 |  |
-| [Heavy Rain](https://open.spotify.com/track/0z5B28cI3u5hFxt6wiGCzX) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Gentle Rain Sounds](https://open.spotify.com/album/0hXnbwNys84VNiVT99n1FC) | 2:49 | 2023-06-16 | 2025-09-28 |
+| [Heavy Rain](https://open.spotify.com/track/0z5B28cI3u5hFxt6wiGCzX) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Gentle Rain Sounds](https://open.spotify.com/album/0hXnbwNys84VNiVT99n1FC) | 2:49 | 2023-06-16 |  |
 | [Heavy Rain](https://open.spotify.com/track/2iWme9Vt87bcJkrjcWbwfj) | [Refreshing Rain](https://open.spotify.com/artist/41VEwpxNtWVa0GWB4RLH03) | [Mother Nature](https://open.spotify.com/album/3Y5nmq4nrhroS7oZpc5ggb) | 2:56 | 2023-06-16 |  |
 | [Heavy Wind And Rain](https://open.spotify.com/track/6JS3QBeAswEtEmmXt02vZH) | [Regen BWS](https://open.spotify.com/artist/1ELXIIOQjxTB6fBRY0hZuo) | [Brain Rain](https://open.spotify.com/album/2CnaCIkOmyhoYwWliPAa73) | 2:56 | 2023-06-16 | 2025-10-05 |
 | [Horas de lluvia](https://open.spotify.com/track/5SU40Es6IskNv9LeHqztF1) | [Amba Naturale](https://open.spotify.com/artist/4th8dE9LVvvevKJrrk2Ge2) | [Horas de lluvia](https://open.spotify.com/album/3GsVGNCWCXpyLSLOYkBvK8) | 2:35 | 2023-06-16 |  |
@@ -144,7 +144,7 @@
 | [Morgonregn](https://open.spotify.com/track/5Jg2TWaUW9RaoUCFuKEBLx) | [Regnskur](https://open.spotify.com/artist/5iayvtoaKjHxf43TODIq4V) | [Morgonregn](https://open.spotify.com/album/0Kq1zjeX2PuQqnhqrR3UKh) | 2:00 | 2023-06-16 |  |
 | [Morning Rain](https://open.spotify.com/track/5imJcc13Fu59LGcxQKhQtp) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Forest Rain Sounds](https://open.spotify.com/album/5PBnIqFcWwIiRKQcm7XQ1i) | 3:06 | 2023-06-16 |  |
 | [Mosslight Rain](https://open.spotify.com/track/0fssBwzuKUh44oWOt3DTVU) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Bloom Drops](https://open.spotify.com/album/5bhWfiwUq7bSthr0ZUvgCU) | 3:12 | 2025-07-24 |  |
-| [Muffled Magic](https://open.spotify.com/track/3hTeWxRnULxK2IGJvDoEIB) | [Morgonkvist](https://open.spotify.com/artist/65IKDKBIpATr65zcLhiUvw) | [Droppar](https://open.spotify.com/album/7wr1YeA4KKJaH4aD7tzGTh) | 2:48 | 2023-06-16 |  |
+| [Muffled Magic](https://open.spotify.com/track/3hTeWxRnULxK2IGJvDoEIB) | [Morgonkvist](https://open.spotify.com/artist/65IKDKBIpATr65zcLhiUvw) | [Droppar](https://open.spotify.com/album/7wr1YeA4KKJaH4aD7tzGTh) | 2:48 | 2023-06-16 | 2025-10-07 |
 | [Must've Been Rain](https://open.spotify.com/track/41bTkvV9Qcc8RuDRqJKjxn) | [rainstantly](https://open.spotify.com/artist/3NXDhMusg4ceknkaxvLxAQ) | [The Sky Makes](https://open.spotify.com/album/0LgA5aHfIe43tAmJ3Fl0Eh) | 2:33 | 2023-06-16 |  |
 | [My Cat is Sleeping](https://open.spotify.com/track/2OJXITcLwJB76rsF58EXkm) | [ASMRainy](https://open.spotify.com/artist/2TmnpZ4hcIW5wNMsl70ZhN) | [Summer Nap](https://open.spotify.com/album/1jbHyvifnMfdEka86g83Kt) | 2:23 | 2023-06-16 |  |
 | [Mystery Sky](https://open.spotify.com/track/0U9ixnjG3qdi35doySolAj) | [Drop To Drop](https://open.spotify.com/artist/5EWTPC3fheVTv9t74wfwPV) | [Seasonal Forests](https://open.spotify.com/album/5rREZjyaZ07DvdorgEeOWb) | 2:36 | 2023-06-16 |  |
@@ -318,6 +318,7 @@
 | [Under Roof \- Rain/Thunder](https://open.spotify.com/track/3k5VRh1H1Khp7PN8Yp8fB8) | [Lavinium](https://open.spotify.com/artist/5Z6GzR42Br7G8wOmu5lRuS) | [Weather FX](https://open.spotify.com/album/58ZclxW2fvqS4OW88fY7YJ) | 2:08 | 2023-06-16 |  |
 | [Under the Rain Clouds](https://open.spotify.com/track/1MyeT7GjwylrPvcLsBSjds) | [Mussina](https://open.spotify.com/artist/0yC8fbzqIzSAGEPZtbSwal) | [Endless Rain](https://open.spotify.com/album/68iEqOmVcOTDhYWQ6DwTUI) | 2:38 | 2023-06-16 |  |
 | [Under the Rainy Skies](https://open.spotify.com/track/5L5tusKjZYfPcPpWPmKduv) | [The Rain Seeker](https://open.spotify.com/artist/3D9BR2Fa86NsSY5aISRoKT) | [Under the Rainy Skies](https://open.spotify.com/album/6Xh0gOKnRW6HUfgiBqok68) | 3:23 | 2024-03-21 |  |
+| [Urban Rainfall](https://open.spotify.com/track/3V1LMUKQMebxzL5hqo4cRi) | [Neo Si](https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3) | [Urban Rainfall](https://open.spotify.com/album/7zW9HJD6kNoPz1VqwDknvB) | 2:44 | 2025-09-23 |  |
 | [Victoria Thunder Beats](https://open.spotify.com/track/7kFIuXeScsfDtx1rUG6dZE) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Electric Atmospheres](https://open.spotify.com/album/3OvvaE109VRaHEVe4uVdU9) | 3:07 | 2024-03-21 |  |
 | [Viene la lluvia](https://open.spotify.com/track/7bvuP8nq8xxw0w8Fr9TY79) | [Hollow Soundbites](https://open.spotify.com/artist/7xGmf4pdtIbw9cxMCZPpPP) | [Viene la lluvia](https://open.spotify.com/album/4Ev84hqNsyaf4Sh1gIair3) | 2:18 | 2023-06-16 |  |
 | [Visualization Rain](https://open.spotify.com/track/2VXMXjpalNPiIc2Es3aSye) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [Rain Mantra](https://open.spotify.com/album/73M4YzG8IXgcVqixgmsYU4) | 2:38 | 2023-06-16 | 2025-07-18 |

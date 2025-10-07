@@ -4861,6 +4861,28 @@
     },
     {
       "album": {
+        "name": "The Nightlife",
+        "url": "https://open.spotify.com/album/7xsxQvOjSUDv7G3RvnA1rl"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169099,
+      "name": "The Nightlife",
+      "url": "https://open.spotify.com/track/3yS2HZtVQyt81BvC8KnBEa"
+    },
+    {
+      "album": {
         "name": "A Lost Era in NYC 1987 - 1992",
         "url": "https://open.spotify.com/album/0yyM3vkmFtkOkLKzz44qnC"
       },

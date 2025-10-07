@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 139252,
+  "num_followers": 139264,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOBjgAAAAABpE9wW4gXZZhrngGICUKK8",
+  "snapshot_id": "aOG1AAAAAAD5rjVjpseK43aDlFkGh+yv",
   "tracks": [
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blondie (Remastered 2001)",
-        "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
+        "name": "Autoamerican (Remastered 2001)",
+        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 194533,
-      "name": "X Offender - Remastered 2001",
-      "url": "https://open.spotify.com/track/2Yn7a6j6jWq9xzQFP2myDS"
+      "duration_ms": 486933,
+      "name": "Call Me - Theme From \"American Gigolo\" / Remastered 2001",
+      "url": "https://open.spotify.com/track/6wzbWsPbfIR0nBjSqdbV7m"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Autoamerican (Remastered 2001)",
-        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
+        "name": "Blondie (Remastered 2001)",
+        "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 486933,
-      "name": "Call Me - Theme From \"American Gigolo\" / Remastered 2001",
-      "url": "https://open.spotify.com/track/6wzbWsPbfIR0nBjSqdbV7m"
+      "duration_ms": 194533,
+      "name": "X Offender - Remastered 2001",
+      "url": "https://open.spotify.com/track/2Yn7a6j6jWq9xzQFP2myDS"
     },
     {
       "added_at": null,

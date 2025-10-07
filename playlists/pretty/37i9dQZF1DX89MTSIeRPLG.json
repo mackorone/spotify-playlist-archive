@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 23007,
+  "num_followers": 23018,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "VORY",
+        "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
+      },
+      "artists": [
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "Bad Guy",
+      "url": "https://open.spotify.com/track/7emJRAhUHhLtBtvzjDpjMC"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "Sayless",
         "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 182258,
       "name": "RPS & Codeine (feat. Gunna)",
       "url": "https://open.spotify.com/track/4ZUnCQ1wwsxIt2r43Mb2YY"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "VORY",
-        "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
-      },
-      "artists": [
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        }
-      ],
-      "duration_ms": 192400,
-      "name": "Bad Guy",
-      "url": "https://open.spotify.com/track/7emJRAhUHhLtBtvzjDpjMC"
     },
     {
       "added_at": "2022-10-01 20:31:11",

@@ -503,6 +503,24 @@
     },
     {
       "album": {
+        "name": "Ghalta",
+        "url": "https://open.spotify.com/album/0geJTiK5HGDu4C5XLR20XH"
+      },
+      "artists": [
+        {
+          "name": "El Far3i",
+          "url": "https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212876,
+      "name": "Ghalta",
+      "url": "https://open.spotify.com/track/3AqxIuMAi2dzwxRJ7JYjl9"
+    },
+    {
+      "album": {
         "name": "Alsahraa",
         "url": "https://open.spotify.com/album/08aS2e6UrwEoq6BPGyNHe2"
       },
@@ -658,7 +676,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 136151,
       "name": "Konna Sghar",
       "url": "https://open.spotify.com/track/55ExdRqYPtqMOweJaWqwbX"
@@ -900,6 +918,24 @@
       "duration_ms": 189546,
       "name": "Memories Of A Palestinian Wound",
       "url": "https://open.spotify.com/track/7EuovX8mMPgIuDjAPECG02"
+    },
+    {
+      "album": {
+        "name": "Nas Min Khashab",
+        "url": "https://open.spotify.com/album/7tfXtMiU14FZyrWdtDMkjQ"
+      },
+      "artists": [
+        {
+          "name": "El Far3i",
+          "url": "https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177400,
+      "name": "Mirtaha",
+      "url": "https://open.spotify.com/track/2UAeUd6u3zZ4S6y0vpLz0i"
     },
     {
       "album": {
@@ -1964,7 +2000,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 232048,
       "name": "\u0644\u0645\u0627 \u0628\u0646\u062a\u0648\u0644\u062f",
       "url": "https://open.spotify.com/track/6AUYfm05XSHswchPVtDEYo"

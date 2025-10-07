@@ -2,7 +2,7 @@
 
 ### [Naija Bars ](https://open.spotify.com/playlist/37i9dQZF1DWUHcUDX0za7N)
 
-> Hip hop and rap music from Nigeria\. Cover: Zlatan & Qing Madi
+> Hip hop and rap music from Nigeria\. Cover: Odumodublvck
 
 650 songs - 1 day 6 hr 32 min
 
@@ -40,7 +40,7 @@
 | [Allez Tobina](https://open.spotify.com/track/47W4qjBTy2E7N7x0p6y2P9) | [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s), [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X) | [Allez Tobina](https://open.spotify.com/album/1qxHpIueABpUg2Hqm4r0JK) | 1:40 | 2025-06-13 | 2025-07-04 |
 | [Amdallah](https://open.spotify.com/track/0KBrX7XrrLWxv4nO3NOHQh) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Amdallah](https://open.spotify.com/album/5Xd5kbHU5hpjwnVVcn2zb7) | 3:00 | 2023-06-02 | 2023-09-29 |
 | [Amen](https://open.spotify.com/track/2dRFCprhcvQiGXSEqQ0ezN) | [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp) | [Amen](https://open.spotify.com/album/4kooYg4oSlwBn24L37DVKJ) | 2:52 | 2024-11-15 |  |
-| [Amen \(God My Dealer\)](https://open.spotify.com/track/1ItASgyD1Gwh6bOUxLm89S) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Amen \(God My Dealer\)](https://open.spotify.com/album/7qrVggiU01zhpAofCUrWqO) | 2:44 | 2025-08-28 |  |
+| [Amen \(God My Dealer\)](https://open.spotify.com/track/1ItASgyD1Gwh6bOUxLm89S) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Amen \(God My Dealer\)](https://open.spotify.com/album/7qrVggiU01zhpAofCUrWqO) | 2:44 | 2025-08-28 | 2025-10-07 |
 | [AMERICA](https://open.spotify.com/track/5CFz4grlqiE2TtrfFWKY2R) | [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [AMERICA](https://open.spotify.com/album/4CA1o2nf4CPm4yyyNkfp95) | 3:32 | 2024-06-28 | 2025-05-19 |
 | [Andale](https://open.spotify.com/track/0rIZdSwtW26f2Ljmi8chI5) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Ypszn \(Explicit\)](https://open.spotify.com/album/2QBz5CtVNac9h3LMPiIUwX) | 3:27 | 2022-10-14 | 2022-10-29 |
 | [Angle 90 \- Remix](https://open.spotify.com/track/38j2gL1Tk7gHDidrZRj899) | [Big Klef](https://open.spotify.com/artist/4VZljMVEAhstVDTphJx2nT), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Angle 90 \(Remix\)](https://open.spotify.com/album/3PybRJAt7AHKnJPQeKWNN3) | 3:10 | 2023-09-29 | 2023-10-13 |
@@ -551,7 +551,7 @@
 | [Something Special](https://open.spotify.com/track/4vW1HwzceCsO8EWA8YJSBu) | [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y), [Begho](https://open.spotify.com/artist/3TTy6LYKVib6oOmyEq0QZb) | [Something Special](https://open.spotify.com/album/5pHSz7BQnbY0Sw3jkQ1X6h) | 2:21 | 2023-09-29 | 2023-10-10 |
 | [Soro](https://open.spotify.com/track/6q85h6RomSM8STj1Qbpk3E) | [Bizzonthetrack](https://open.spotify.com/artist/7mwUCvs44HG9Bh9yW3NUiG), [Bliizzy](https://open.spotify.com/artist/5bTtiKQwOpHRD5Mf5TTyPN) | [Crescendo](https://open.spotify.com/album/3TZIgQWteQktQ1HLS5776X) | 3:16 | 2023-03-25 | 2023-04-12 |
 | [Soro](https://open.spotify.com/track/2dVQommY8nXPpWHoE3dCBX) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Soro](https://open.spotify.com/album/4LvhQBl1WJd8ZdUh5YL3et) | 3:05 | 2024-03-01 | 2024-11-22 |
-| [Space](https://open.spotify.com/track/00qWmyg2cpJuP7nLDBTdqN) | [Elestee](https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Space](https://open.spotify.com/album/2mJtN5UazYAF27M68FOjZN) | 3:06 | 2025-05-16 | 2025-10-04 |
+| [Space](https://open.spotify.com/track/00qWmyg2cpJuP7nLDBTdqN) | [Elestee](https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Space](https://open.spotify.com/album/2mJtN5UazYAF27M68FOjZN) | 3:06 | 2025-05-16 |  |
 | [Speak In Tongues](https://open.spotify.com/track/0eaY230Y03z4AI2OApMFgn) | [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Speak In Tongues](https://open.spotify.com/album/3vTsGoGuFPrXctZmfKQ9HC) | 3:22 | 2023-11-17 | 2023-11-21 |
 | [SPIN DA BLOCK](https://open.spotify.com/track/2YT1PCNcxZJaYyQRKo67DM) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [AREA BOYZ \(DELUXE\)](https://open.spotify.com/album/3gYxC3PsBBi3MZR2678Djo) | 3:18 | 2024-05-03 | 2024-11-22 |
 | [Stacks](https://open.spotify.com/track/2EbyVRYATEEvyc6T23wrlO) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Stacks](https://open.spotify.com/album/13RRd735LR5ZlRK6RzKS4u) | 2:57 | 2022-06-09 | 2022-12-03 |

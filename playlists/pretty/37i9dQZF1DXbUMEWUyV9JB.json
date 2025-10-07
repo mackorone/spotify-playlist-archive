@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! \nCover: Estevie",
-  "num_followers": 276153,
+  "num_followers": 276167,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2025-09-05 22:57:12",
       "album": {
+        "name": "Tus Mentiras",
+        "url": "https://open.spotify.com/album/0ghcboa6syByFczkpDsnwZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cumbia Nova",
+          "url": "https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw"
+        }
+      ],
+      "duration_ms": 253884,
+      "name": "Tus Mentiras",
+      "url": "https://open.spotify.com/track/40PLgjgLNIbrLCdX3wVN1k"
+    },
+    {
+      "added_at": "2025-09-05 22:57:12",
+      "album": {
         "name": "Sentimiento, Elegancia y M\u00e1s Maldad",
         "url": "https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 224285,
       "name": "ALV",
       "url": "https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA"
-    },
-    {
-      "added_at": "2025-09-05 22:57:12",
-      "album": {
-        "name": "Tus Mentiras",
-        "url": "https://open.spotify.com/album/0ghcboa6syByFczkpDsnwZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Cumbia Nova",
-          "url": "https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw"
-        }
-      ],
-      "duration_ms": 253884,
-      "name": "Tus Mentiras",
-      "url": "https://open.spotify.com/track/40PLgjgLNIbrLCdX3wVN1k"
     },
     {
       "added_at": "2025-09-05 22:57:12",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-09-05 22:57:12",
       "album": {
-        "name": "Grito En Silencio",
-        "url": "https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Carabo",
-          "url": "https://open.spotify.com/artist/0pY1OqclT7G3fojvX0dKdv"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "El Afilador",
-      "url": "https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn"
-    },
-    {
-      "added_at": "2025-09-05 22:57:12",
-      "album": {
         "name": "Lo Mejor De...",
         "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 219800,
       "name": "Desde Que No Est\u00e1s Aqu\u00ed",
       "url": "https://open.spotify.com/track/749JqjlwgQBz2Fx0Z92zm9"
+    },
+    {
+      "added_at": "2025-09-05 22:57:12",
+      "album": {
+        "name": "Grito En Silencio",
+        "url": "https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Carabo",
+          "url": "https://open.spotify.com/artist/0pY1OqclT7G3fojvX0dKdv"
+        }
+      ],
+      "duration_ms": 215973,
+      "name": "El Afilador",
+      "url": "https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn"
     },
     {
       "added_at": "2025-09-05 22:57:12",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-09-05 22:57:12",
       "album": {
-        "name": "Cl\u00e1sicas De La Cumbia Andina",
-        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
-      },
-      "artists": [
-        {
-          "name": "Los Llayras",
-          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
-        }
-      ],
-      "duration_ms": 238335,
-      "name": "\u00c1mame",
-      "url": "https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf"
-    },
-    {
-      "added_at": "2025-09-05 22:57:12",
-      "album": {
         "name": "Coraz\u00f3n Enamorado",
         "url": "https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 300840,
       "name": "Coraz\u00f3n Enamorado",
       "url": "https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc"
+    },
+    {
+      "added_at": "2025-09-05 22:57:12",
+      "album": {
+        "name": "Cl\u00e1sicas De La Cumbia Andina",
+        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
+      },
+      "artists": [
+        {
+          "name": "Los Llayras",
+          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
+        }
+      ],
+      "duration_ms": 238335,
+      "name": "\u00c1mame",
+      "url": "https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf"
     },
     {
       "added_at": "2025-09-05 22:57:12",
@@ -1227,42 +1227,6 @@
     {
       "added_at": "2025-09-05 22:57:12",
       "album": {
-        "name": "El Disco de Oro para Equipos de Sonido, Vol 1",
-        "url": "https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT"
-      },
-      "artists": [
-        {
-          "name": "Joe Rodriguez Y Su Grupo Latino",
-          "url": "https://open.spotify.com/artist/1zOOgnJnnxgZh6PzvsnlUU"
-        }
-      ],
-      "duration_ms": 199447,
-      "name": "Cumbia de los Pobres",
-      "url": "https://open.spotify.com/track/4IZX9MfsGtRDLtRoIedm8Z"
-    },
-    {
-      "added_at": "2025-09-05 22:57:12",
-      "album": {
-        "name": "La Bandera",
-        "url": "https://open.spotify.com/album/73o8i8GdGPqeetj2WkQhit"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 160006,
-      "name": "La Bandera",
-      "url": "https://open.spotify.com/track/1yY11odB1K0id6dtJQXT4j"
-    },
-    {
-      "added_at": "2025-09-05 22:57:12",
-      "album": {
         "name": "Linda Mujer",
         "url": "https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc"
       },
@@ -1291,6 +1255,42 @@
       "duration_ms": 232533,
       "name": "Cuando Nadie Ve",
       "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
+    },
+    {
+      "added_at": "2025-09-05 22:57:12",
+      "album": {
+        "name": "La Bandera",
+        "url": "https://open.spotify.com/album/73o8i8GdGPqeetj2WkQhit"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 160006,
+      "name": "La Bandera",
+      "url": "https://open.spotify.com/track/1yY11odB1K0id6dtJQXT4j"
+    },
+    {
+      "added_at": "2025-09-05 22:57:12",
+      "album": {
+        "name": "El Disco de Oro para Equipos de Sonido, Vol 1",
+        "url": "https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT"
+      },
+      "artists": [
+        {
+          "name": "Joe Rodriguez Y Su Grupo Latino",
+          "url": "https://open.spotify.com/artist/1zOOgnJnnxgZh6PzvsnlUU"
+        }
+      ],
+      "duration_ms": 199447,
+      "name": "Cumbia de los Pobres",
+      "url": "https://open.spotify.com/track/4IZX9MfsGtRDLtRoIedm8Z"
     },
     {
       "added_at": "2025-09-05 22:57:12",
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2025-09-05 22:57:12",
       "album": {
-        "name": "En La Playa Te Espero",
-        "url": "https://open.spotify.com/album/61wzNmwFTif615EAi69pFz"
-      },
-      "artists": [
-        {
-          "name": "Adriana Lucia",
-          "url": "https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o"
-        },
-        {
-          "name": "Los Cumbia Stars",
-          "url": "https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "En La Playa Te Espero",
-      "url": "https://open.spotify.com/track/7Exo1L0b30SD19br55XH0N"
-    },
-    {
-      "added_at": "2025-09-05 22:57:12",
-      "album": {
         "name": "Cokita De Vidrio",
         "url": "https://open.spotify.com/album/0lHZ8abaIjknwuvWWEEZOU"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 194520,
       "name": "El Paso Del Gigante - Remix",
       "url": "https://open.spotify.com/track/3xr2DkBynhPVhVAPOrUJ8K"
+    },
+    {
+      "added_at": "2025-09-05 22:57:12",
+      "album": {
+        "name": "En La Playa Te Espero",
+        "url": "https://open.spotify.com/album/61wzNmwFTif615EAi69pFz"
+      },
+      "artists": [
+        {
+          "name": "Adriana Lucia",
+          "url": "https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o"
+        },
+        {
+          "name": "Los Cumbia Stars",
+          "url": "https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "En La Playa Te Espero",
+      "url": "https://open.spotify.com/track/7Exo1L0b30SD19br55XH0N"
     },
     {
       "added_at": "2025-09-05 22:57:12",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2025-09-05 22:57:12",
       "album": {
-        "name": "Cumbia y Amor",
-        "url": "https://open.spotify.com/album/5DGuCQcoaVK1Vems5uswJ0"
-      },
-      "artists": [
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 173430,
-      "name": "Si A Todo",
-      "url": "https://open.spotify.com/track/55yeoyVLs09v8qKpLrSpDL"
-    },
-    {
-      "added_at": "2025-09-05 22:57:12",
-      "album": {
         "name": "Mi Historia Entre Tus Dedos",
         "url": "https://open.spotify.com/album/5Dso9GcL2HzHbt5s35t5vs"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 295526,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/0NK3UhMD7kNwOfuoL0jk8R"
+    },
+    {
+      "added_at": "2025-09-05 22:57:12",
+      "album": {
+        "name": "Cumbia y Amor",
+        "url": "https://open.spotify.com/album/5DGuCQcoaVK1Vems5uswJ0"
+      },
+      "artists": [
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 173430,
+      "name": "Si A Todo",
+      "url": "https://open.spotify.com/track/55yeoyVLs09v8qKpLrSpDL"
     },
     {
       "added_at": "2025-09-05 22:57:12",

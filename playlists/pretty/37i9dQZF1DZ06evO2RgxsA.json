@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 92425,
+  "num_followers": 92432,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOBjgAAAAAB3KwEb3e4dgb2qvBw3zhPH",
+  "snapshot_id": "aOG1AAAAAAAo2WtKyiWW/M6DO20N8Hl5",
   "tracks": [
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "War on Errorism",
-        "url": "https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ"
+        "name": "Self Entitled",
+        "url": "https://open.spotify.com/album/48GR6HX0RKUTooPbdLoxhM"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 145466,
-      "name": "Franco Un-American",
-      "url": "https://open.spotify.com/track/1d6aWHZ6VTwZh9qQhsBmap"
+      "duration_ms": 216146,
+      "name": "72 Hookers",
+      "url": "https://open.spotify.com/track/1Kqfwjka2M3v3oJY9ZAezA"
     },
     {
       "added_at": null,
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Entitled",
-        "url": "https://open.spotify.com/album/48GR6HX0RKUTooPbdLoxhM"
+        "name": "War on Errorism",
+        "url": "https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 216146,
-      "name": "72 Hookers",
-      "url": "https://open.spotify.com/track/1Kqfwjka2M3v3oJY9ZAezA"
+      "duration_ms": 145466,
+      "name": "Franco Un-American",
+      "url": "https://open.spotify.com/track/1d6aWHZ6VTwZh9qQhsBmap"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Trash, Two Heebs and a Bean",
-        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 142466,
-      "name": "Liza And Louise",
-      "url": "https://open.spotify.com/track/3YJZeoD7lWN2mPbs7FbCgj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pump Up The Valuum",
         "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 118000,
       "name": "What's The Matter With Parents Today?",
       "url": "https://open.spotify.com/track/6SWTXSLOkxrFqJc6WPM0bu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "White Trash, Two Heebs and a Bean",
+        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 142466,
+      "name": "Liza And Louise",
+      "url": "https://open.spotify.com/track/3YJZeoD7lWN2mPbs7FbCgj"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Longest EP",
-        "url": "https://open.spotify.com/album/68i9eBIQGNh2tl4vKVj8A5"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 30880,
-      "name": "I Wanna Be an Alcoholic",
-      "url": "https://open.spotify.com/track/49UzZVcz26sdJYjslHGf9b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heavy Petting Zoo",
         "url": "https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 48933,
       "name": "Hobophobic (Scared of Bums)",
       "url": "https://open.spotify.com/track/0t4H9RKqVSyD5OmX1V7GcH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Longest EP",
+        "url": "https://open.spotify.com/album/68i9eBIQGNh2tl4vKVj8A5"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 30880,
+      "name": "I Wanna Be an Alcoholic",
+      "url": "https://open.spotify.com/track/49UzZVcz26sdJYjslHGf9b"
     },
     {
       "added_at": null,

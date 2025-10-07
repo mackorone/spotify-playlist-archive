@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 17708,
+  "num_followers": 17737,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOBjgAAAAADJyQpn33wSVBWf2yNh3wqT",
+  "snapshot_id": "aOG1AAAAAAAT9g8PRRPO+tksHKQZoiu8",
   "tracks": [
     {
       "added_at": null,
@@ -510,15 +510,11 @@
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
         }
       ],
-      "duration_ms": 141034,
-      "name": "Jalados",
-      "url": "https://open.spotify.com/track/45zTxOZyCSV7G7N1cWRZwa"
+      "duration_ms": 185285,
+      "name": "Vida Cara",
+      "url": "https://open.spotify.com/track/5skxWD3azxROcaZAnTeWWl"
     },
     {
       "added_at": null,
@@ -586,11 +582,15 @@
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
         }
       ],
-      "duration_ms": 185285,
-      "name": "Vida Cara",
-      "url": "https://open.spotify.com/track/5skxWD3azxROcaZAnTeWWl"
+      "duration_ms": 141034,
+      "name": "Jalados",
+      "url": "https://open.spotify.com/track/45zTxOZyCSV7G7N1cWRZwa"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EPA",
-        "url": "https://open.spotify.com/album/4jG0S9k29ovli79Un9ojOq"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 177656,
-      "name": "EPA",
-      "url": "https://open.spotify.com/track/30hjAIB08HXjBbEHgR1sAq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Lo Busque",
         "url": "https://open.spotify.com/album/1QJIg7QwIAxHMWR9mX22vr"
       },
@@ -723,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EPA",
+        "url": "https://open.spotify.com/album/4jG0S9k29ovli79Un9ojOq"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 177656,
+      "name": "EPA",
+      "url": "https://open.spotify.com/track/30hjAIB08HXjBbEHgR1sAq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hasta el Dia de Hoy",
         "url": "https://open.spotify.com/album/6GSeGmTye0w8QJ99CDy3oh"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 189450,
       "name": "Hasta el Dia de Hoy",
       "url": "https://open.spotify.com/track/17OipakbVTusJ6e6MeQSNw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vueltas De La Vida",
-        "url": "https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 162346,
-      "name": "Donde Estamos Hoy",
-      "url": "https://open.spotify.com/track/4PmB3C9y4zsTuRgz91JUHD"
     }
   ],
   "unique_name": "This Is Jasiel Nu\u00f1ez",

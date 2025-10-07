@@ -1,15 +1,31 @@
 {
-  "description": "Turn this playlist all the way up! Featuring, Peezy, P-Lo &amp; Rio Da Yung Og.",
-  "num_followers": 35145,
+  "description": "Turn this playlist all the way up! Featuring, Peezy, Blxst &amp; Big Sad 1900.",
+  "num_followers": 35135,
   "original_name": "All The Way Up",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAbvmAyChZfF3qif2qy1u3XO/Rd1pM9",
+  "snapshot_id": "AAAbxmIgIxzyReoy/56tVE0kX8FxHTC5",
   "tracks": [
     {
-      "added_at": "2025-09-29 20:16:02",
+      "added_at": "2025-10-06 18:02:15",
+      "album": {
+        "name": "Aye Girl",
+        "url": "https://open.spotify.com/album/3g6e5ZEnl1YUFsQE3pI4YL"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 114838,
+      "name": "Aye Girl",
+      "url": "https://open.spotify.com/track/5AtuctYcoqwtmqrgEFIYH9"
+    },
+    {
+      "added_at": "2025-10-06 18:01:27",
       "album": {
         "name": "STILL GHETTO",
         "url": "https://open.spotify.com/album/53Zq6FOvF9HDlDvS8KJ12k"
@@ -20,13 +36,33 @@
           "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
         },
         {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
         }
       ],
-      "duration_ms": 141023,
-      "name": "Hide The Rest",
-      "url": "https://open.spotify.com/track/3yabotDArCwMD8JC8GiQyf"
+      "duration_ms": 141236,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/1t9O0FhyAOYIHWcU7XBecd"
+    },
+    {
+      "added_at": "2025-10-06 18:02:33",
+      "album": {
+        "name": "Midnight in Hawaii 2",
+        "url": "https://open.spotify.com/album/7zXEgBFYTBHZx4tSgOb12m"
+      },
+      "artists": [
+        {
+          "name": "Big Sad 1900",
+          "url": "https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 198694,
+      "name": "Midnight in Hawaii 2",
+      "url": "https://open.spotify.com/track/1oB6gO3603t901nqbZGQxN"
     },
     {
       "added_at": "2025-09-29 20:16:17",

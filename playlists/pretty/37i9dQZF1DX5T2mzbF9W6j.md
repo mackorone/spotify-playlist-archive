@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,955 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,963 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 51 | [Shadowboxing](https://open.spotify.com/track/55Ml2qIECJeLRo8qzRnSGO) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Shadowboxing](https://open.spotify.com/album/1lNgCoCV3uPOfKjHp3R5YD) | 2:52 |
 | 52 | [Co za stan](https://open.spotify.com/track/4Rw7LmqHPFjqTpWe0tYcbC) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui), [BRASSERS](https://open.spotify.com/artist/41T7tKisVyiDzTTCxGEkBh) | [Co za stan](https://open.spotify.com/album/3ayFRKD6twKbbap9qUmGkm) | 2:39 |
 | 53 | [Rany, chyba nie daję rady](https://open.spotify.com/track/7p5U4cxuko3T7GuIG8nXx7) | [dezydery](https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE) | [Rany, chyba nie daję rady](https://open.spotify.com/album/3AHA96h9aCxmLQky5ci8F2) | 2:31 |
-| 54 | [Bądź tu ze mną](https://open.spotify.com/track/0NFOKweZTdra8nBOxgA7C2) | [Sylwia Przybysz](https://open.spotify.com/artist/2AIobjujCm6ktZMZeY4M09) | [Bądź tu ze mną](https://open.spotify.com/album/4vqGL1vM1t7fF7r6U3DKKJ) | 2:41 |
-| 55 | [Czas](https://open.spotify.com/track/7qj1lu6yxDl5GTnSItuIdh) | [Filip Max](https://open.spotify.com/artist/2Af5aejlBF2UrIn1xmPWJ5) | [Czas](https://open.spotify.com/album/0W6CLUac2XfDjfURHOzF4V) | 2:06 |
+| 54 | [Czas](https://open.spotify.com/track/7qj1lu6yxDl5GTnSItuIdh) | [Filip Max](https://open.spotify.com/artist/2Af5aejlBF2UrIn1xmPWJ5) | [Czas](https://open.spotify.com/album/0W6CLUac2XfDjfURHOzF4V) | 2:06 |
+| 55 | [Bądź tu ze mną](https://open.spotify.com/track/0NFOKweZTdra8nBOxgA7C2) | [Sylwia Przybysz](https://open.spotify.com/artist/2AIobjujCm6ktZMZeY4M09) | [Bądź tu ze mną](https://open.spotify.com/album/4vqGL1vM1t7fF7r6U3DKKJ) | 2:41 |
 | 56 | [Boisz się](https://open.spotify.com/track/5OPDVu8yGItlFz8BsVQkF4) | [Sad Smiles](https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo), [Arek Kłusowski](https://open.spotify.com/artist/34wHojIYy5Nrua9isD46O6) | [Boisz się](https://open.spotify.com/album/5O7WpfdyHWZiqzIVclkOwX) | 3:01 |
 | 57 | [Amstaff](https://open.spotify.com/track/4sn1nfJCPKBTzPIVLi9gld) | [Sara Kordowska](https://open.spotify.com/artist/0tEwXd8Y8XF92pbRVVGq9P) | [Amstaff](https://open.spotify.com/album/5cEeS7LEUksRMnHnRJ200s) | 3:43 |
 | 58 | [Szanowny Panie](https://open.spotify.com/track/4j3XqG2iGoqxHaGfqshtc5) | [Bluszcz](https://open.spotify.com/artist/4QUfzPnzzNf93Y6VKxZVlD) | [Szanowny Panie](https://open.spotify.com/album/1MEF9BkNH4pCCSvHXs5HjS) | 2:31 |

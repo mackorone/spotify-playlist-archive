@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring Honey Dijon
 
-1,292 songs - 3 day 2 hr 34 min
+1,293 songs - 3 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1115,6 +1115,7 @@
 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 | 2022-05-27 | 2023-05-13 |
 | [Tell Me What You Want](https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Tell Me What You Want](https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi) | 2:40 | 2024-06-14 | 2025-04-28 |
 | [Tell Me Why \- MEDUZA Remix](https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Tell Me Why \(MEDUZA Remix\)](https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM) | 2:51 | 2022-09-26 | 2023-04-09 |
+| [Tell Us](https://open.spotify.com/track/3raC4JsHNnLjIG9U65wKAI) | [Gabe](https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu), [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx) | [Tell Us](https://open.spotify.com/album/7vKuJf14IDiXGbTEGlZDzw) | 2:44 | 2025-10-03 |  |
 | [Tell You What It Is](https://open.spotify.com/track/6FqWqZZAV6bq2iE5dTgDNc) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Tell You What It Is](https://open.spotify.com/album/6DSU3tmrRd6nymUrEaapbu) | 3:07 | 2022-05-27 | 2022-09-17 |
 | [Telugu Tech](https://open.spotify.com/track/5XyvNxXQYEWf8654gd4zak) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Telugu Tech](https://open.spotify.com/album/4ohWdrUFHI4RKGjoXwwnav) | 3:21 | 2023-05-19 | 2023-08-12 |
 | [TEMPO](https://open.spotify.com/track/6onDQO5YoJX83RzAV2m0wN) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [TEMPO](https://open.spotify.com/album/4ycWtoMMvLwccXEjXxpmeh) | 3:14 | 2025-01-31 | 2025-04-05 |
@@ -1169,7 +1170,7 @@
 | [Time Away](https://open.spotify.com/track/1iiXVOS9qPOusYnUFKhCAr) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [ENDZ061](https://open.spotify.com/album/66l4BIequxiDPjxXoH900j) | 2:57 | 2025-08-22 |  |
 | [Time Expands](https://open.spotify.com/track/22nmVMHu9jWcoRwNvtQuSE) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Time Expands](https://open.spotify.com/album/5WFhrKjglAEdacNAi77K1M) | 3:24 | 2023-09-29 | 2023-11-09 |
 | [Time To Go](https://open.spotify.com/track/12hypREWe3wQFb6xgAbwtT) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Time To Go](https://open.spotify.com/album/3ejTqXB3AbW6bGO8iJGmQJ) | 3:22 | 2024-11-08 | 2025-03-08 |
-| [Time To Move](https://open.spotify.com/track/7Jx9lbS4f4uUfHtDJLjRQz) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Time To Move](https://open.spotify.com/album/5egmcXngQYxEeLSgqvYYbu) | 3:11 | 2025-05-30 |  |
+| [Time To Move](https://open.spotify.com/track/7Jx9lbS4f4uUfHtDJLjRQz) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Time To Move](https://open.spotify.com/album/5egmcXngQYxEeLSgqvYYbu) | 3:11 | 2025-05-30 | 2025-10-07 |
 | [Tina](https://open.spotify.com/track/22MfEGdH3Noyx9GfyZWpFz) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [The Vic](https://open.spotify.com/artist/5Yme0D6xmxktmVYHLNULgR) | [Tina](https://open.spotify.com/album/6Ei3g5NrMOOnjKi4CeNuF8) | 4:22 | 2023-03-17 | 2023-07-29 |
 | [To Be Real](https://open.spotify.com/track/7GpiRvevDAkR3lDH5AxNwT) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [To Be Real](https://open.spotify.com/album/6NrGM3aH0HgQyy7UabNprK) | 3:23 | 2023-05-26 | 2024-05-03 |
 | [To The Beat](https://open.spotify.com/track/1D3jKMGvMr9NmirT6cnMyO) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Dances](https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL) | [To The Beat](https://open.spotify.com/album/66mAWexL2lQqCsb2G3YqM4) | 3:56 | 2024-02-09 | 2024-09-07 |

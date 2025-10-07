@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXBWjiVEM8R.md) - [plain]
 
 > This is Avicii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,037,781 likes - 49 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,037,793 likes - 49 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXBWjiVEM8R.md) - [plain]
 | 48 | [All You Need Is Love](https://open.spotify.com/track/0XN65qybmkxjZt3gp90sWT) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True \(Bonus Edition\)](https://open.spotify.com/album/50oWFJ0mDEeMa74ElsdAp3) | 6:21 |
 | 49 | [The Days \- Henrik B Remix](https://open.spotify.com/track/4eteOEGYlGM33q76CKdPom) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Henrik B](https://open.spotify.com/artist/1qM7ddO1J0S7eGGnuVmEXn) | [The Days / Nights](https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF) | 3:56 |
 
-Snapshot ID: `AAAAADIH3llyKMfOcUQ0UfHlYQliWUXd`
+Snapshot ID: `AAAAAFvw1FG/IdLu91r2QAfZMG/KbTo3`

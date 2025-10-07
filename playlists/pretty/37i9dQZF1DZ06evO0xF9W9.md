@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xF9W9.md) - [plain]
 
 > This is Engel Montaz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,761 likes - 33 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,760 likes - 33 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,15 +31,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xF9W9.md) - [plain]
 | 21 | [El Puto Amo](https://open.spotify.com/track/2cE8NFkwGrPBUwChlpkqaG) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [El Puto Amo](https://open.spotify.com/album/2Kz1M3efVHHJ9f4azQ14zA) | 2:06 |
 | 22 | [Entrando en Calor](https://open.spotify.com/track/1lJVlqqUghLjg5FC7fnNTy) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Jinzus](https://open.spotify.com/artist/7IjLz8LTToOSNtI4cW5ZKg) | [Entrando en Calor](https://open.spotify.com/album/2CsK2MEVkZba0TUKKDMO6Y) | 3:12 |
 | 23 | [Una Como Tu](https://open.spotify.com/track/3KSkWY17uXtjDkwz9puuEN) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Una Como Tu](https://open.spotify.com/album/2YjF5MZfofFQ0IJ5TvGBCZ) | 3:20 |
-| 24 | [Mas Diablo Soy Yo](https://open.spotify.com/track/7JvooZ9YHJ2mTGUQLCiTbn) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Breykon](https://open.spotify.com/artist/17BJttW3VLqP7DouuymWPk) | [Mas Diablo Soy Yo](https://open.spotify.com/album/3yLgPoMyYbIYZI0a9ehM9C) | 3:40 |
-| 25 | [Olvidando el pasado](https://open.spotify.com/track/4W4GNgS2O0YbrkXsTdkBVa) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg) | [Olvidando el pasado](https://open.spotify.com/album/44f7j8TXQoWm9msEgyAFRI) | 3:18 |
+| 24 | [Olvidando el pasado](https://open.spotify.com/track/4W4GNgS2O0YbrkXsTdkBVa) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg) | [Olvidando el pasado](https://open.spotify.com/album/44f7j8TXQoWm9msEgyAFRI) | 3:18 |
+| 25 | [Mas Diablo Soy Yo](https://open.spotify.com/track/7JvooZ9YHJ2mTGUQLCiTbn) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Breykon](https://open.spotify.com/artist/17BJttW3VLqP7DouuymWPk) | [Mas Diablo Soy Yo](https://open.spotify.com/album/3yLgPoMyYbIYZI0a9ehM9C) | 3:40 |
 | 26 | [Ruta](https://open.spotify.com/track/6yToupHMF7KRbAthyR5POJ) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Ruta](https://open.spotify.com/album/53rI2kESC0eAG3jkVfFS5I) | 2:30 |
-| 27 | [Pilita](https://open.spotify.com/track/3W1X4YpgycUPuYfQ1wwU18) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Pilita](https://open.spotify.com/album/6izvyhwMROBRGRZewggfra) | 2:58 |
-| 28 | [Quedate \- Live](https://open.spotify.com/track/2tOYbLXrwEKCVwTNYBupYc) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Quedate \(Live\)](https://open.spotify.com/album/0VM1G9J7kPpcxaHJ5SPWPi) | 3:30 |
+| 27 | [Quedate \- Live](https://open.spotify.com/track/2tOYbLXrwEKCVwTNYBupYc) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Quedate \(Live\)](https://open.spotify.com/album/0VM1G9J7kPpcxaHJ5SPWPi) | 3:30 |
+| 28 | [Pilita](https://open.spotify.com/track/3W1X4YpgycUPuYfQ1wwU18) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Pilita](https://open.spotify.com/album/6izvyhwMROBRGRZewggfra) | 2:58 |
 | 29 | [Soledad](https://open.spotify.com/track/7b2ondpAcEVseJO5t9n4FB) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Freko](https://open.spotify.com/artist/3WZWxJh1UzDONnI7kl4tNl), [Koko](https://open.spotify.com/artist/58pqy50vIEhqbk6ad978VJ) | [Soledad](https://open.spotify.com/album/78TTKt4xwI5HPfTv57EyHp) | 3:15 |
 | 30 | [Una Noche Tranquila \- Version Discoteca](https://open.spotify.com/track/3svW0Wq31tR9dDzDlPMmD0) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Una Noche Tranquila \(Version Discoteca\)](https://open.spotify.com/album/46GOunIlxWaUlFbbhlkHOe) | 3:02 |
 | 31 | [Otra Vez](https://open.spotify.com/track/0Awux5kOOKf5HG9zgIaWmm) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/4NeGSe9mxAesx5r9dVzcec) | 2:53 |
 | 32 | [Provoca](https://open.spotify.com/track/3I7DArlMv8E8FiRslMLvVz) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Provoca](https://open.spotify.com/album/61KINxMTi3tqeCEppDskc4) | 3:26 |
 | 33 | [Vamono Lejos](https://open.spotify.com/track/4xdl8WUxPsgG0gZdIP4yS8) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Sacra Mr Melody](https://open.spotify.com/artist/03A4rAqMAxVwjkRIPZxZ9Y) | [Vamono Lejos](https://open.spotify.com/album/2XJ0HDrDyFqGuzGP4vQbGg) | 3:07 |
 
-Snapshot ID: `aOBjgAAAAAD/7EVWs+8U0f027yvTkH4R`
+Snapshot ID: `aOG1AAAAAADlh3QEUZaHo3si1lfxBB4C`

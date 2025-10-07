@@ -1,12 +1,12 @@
 {
   "description": "This is Tony! Toni! Ton\u00e9!. The essential tracks, all in one playlist.",
-  "num_followers": 15267,
+  "num_followers": 15271,
   "original_name": "This Is Tony! Toni! Ton\u00e9!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOBjgAAAAADFb/ClObFXQtte6YJglA30",
+  "snapshot_id": "aOG1AAAAAADOj2CkopQqhyFii5Wn59xy",
   "tracks": [
     {
       "added_at": null,
@@ -87,8 +87,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sons Of Soul",
-        "url": "https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV"
+        "name": "Boyz N The Hood",
+        "url": "https://open.spotify.com/album/7KTu7Fg01AgY8UdPvbjIep"
       },
       "artists": [
         {
@@ -96,9 +96,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 372026,
-      "name": "(Lay Your Head On My) Pillow",
-      "url": "https://open.spotify.com/track/0rRGYJSkI7v2VtxJv8n90m"
+      "duration_ms": 250933,
+      "name": "Me And You",
+      "url": "https://open.spotify.com/track/2hcyCCIcnqkZUN85MwXvaY"
     },
     {
       "added_at": null,
@@ -119,8 +119,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boyz N The Hood",
-        "url": "https://open.spotify.com/album/7KTu7Fg01AgY8UdPvbjIep"
+        "name": "Sons Of Soul",
+        "url": "https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV"
       },
       "artists": [
         {
@@ -128,9 +128,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 250933,
-      "name": "Me And You",
-      "url": "https://open.spotify.com/track/2hcyCCIcnqkZUN85MwXvaY"
+      "duration_ms": 372026,
+      "name": "(Lay Your Head On My) Pillow",
+      "url": "https://open.spotify.com/track/0rRGYJSkI7v2VtxJv8n90m"
     },
     {
       "added_at": null,
@@ -151,8 +151,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sons Of Soul",
-        "url": "https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV"
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g"
       },
       "artists": [
         {
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 289173,
-      "name": "Slow Wine",
-      "url": "https://open.spotify.com/track/4Gul1VGYVv9b3tLPnrKMIK"
+      "duration_ms": 278066,
+      "name": "Boys And Girls",
+      "url": "https://open.spotify.com/track/3o0pgyIsnuHztpAcBWg9eQ"
     },
     {
       "added_at": null,
@@ -183,8 +183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g"
+        "name": "Sons Of Soul",
+        "url": "https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV"
       },
       "artists": [
         {
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 278066,
-      "name": "Boys And Girls",
-      "url": "https://open.spotify.com/track/3o0pgyIsnuHztpAcBWg9eQ"
+      "duration_ms": 289173,
+      "name": "Slow Wine",
+      "url": "https://open.spotify.com/track/4Gul1VGYVv9b3tLPnrKMIK"
     },
     {
       "added_at": null,
@@ -211,38 +211,6 @@
       "duration_ms": 238800,
       "name": "Thinking Of You",
       "url": "https://open.spotify.com/track/2kp0HkwA1v8WcmCwYqm7DO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sons Of Soul",
-        "url": "https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 241466,
-      "name": "If I Had No Loot",
-      "url": "https://open.spotify.com/track/5oPRLER8bCQN3RFFVvLbTC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Revival",
-        "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 253133,
-      "name": "The Blues",
-      "url": "https://open.spotify.com/track/2TYgfLRpzaC4LgTqRy7UAf"
     },
     {
       "added_at": null,
@@ -271,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "House Of Music",
-        "url": "https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If"
+        "name": "The Revival",
+        "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
       },
       "artists": [
         {
@@ -280,9 +248,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 438800,
-      "name": "Still A Man",
-      "url": "https://open.spotify.com/track/3EA1GVdqwyjVvbw9XJ87gq"
+      "duration_ms": 253133,
+      "name": "The Blues",
+      "url": "https://open.spotify.com/track/2TYgfLRpzaC4LgTqRy7UAf"
     },
     {
       "added_at": null,
@@ -296,9 +264,25 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 318466,
-      "name": "I Couldn't Keep It To Myself",
-      "url": "https://open.spotify.com/track/4T5vqnVy8BkPC6WLJXZkWW"
+      "duration_ms": 241466,
+      "name": "If I Had No Loot",
+      "url": "https://open.spotify.com/track/5oPRLER8bCQN3RFFVvLbTC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "House Of Music",
+        "url": "https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 438800,
+      "name": "Still A Man",
+      "url": "https://open.spotify.com/track/3EA1GVdqwyjVvbw9XJ87gq"
     },
     {
       "added_at": null,
@@ -335,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sons Of Soul",
+        "url": "https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 318466,
+      "name": "I Couldn't Keep It To Myself",
+      "url": "https://open.spotify.com/track/4T5vqnVy8BkPC6WLJXZkWW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Own Thang (feat. Tony! Toni! Ton\u00e9!)",
         "url": "https://open.spotify.com/album/4UZZzT8VtWr2WHafHraL4d"
       },
@@ -351,22 +351,6 @@
       "duration_ms": 236124,
       "name": "Own Thang (feat. Tony! Toni! Ton\u00e9!)",
       "url": "https://open.spotify.com/track/45EtM1eyhsJV6d7PPaBxsg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sons Of Soul",
-        "url": "https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 292506,
-      "name": "My Ex-Girlfriend",
-      "url": "https://open.spotify.com/track/0jatcRk16ATM6EskYTDH5r"
     },
     {
       "added_at": null,
@@ -403,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sons Of Soul",
+        "url": "https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 292506,
+      "name": "My Ex-Girlfriend",
+      "url": "https://open.spotify.com/track/0jatcRk16ATM6EskYTDH5r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "House Party II (I Don't Know What You Come To Do)",
         "url": "https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI"
       },
@@ -415,22 +415,6 @@
       "duration_ms": 255133,
       "name": "House Party II (I Don't Know What You Come To Do) - Single Version",
       "url": "https://open.spotify.com/track/3VunH0kgoUEcR4Yq6ACgCH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sons Of Soul",
-        "url": "https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 315826,
-      "name": "Leavin'",
-      "url": "https://open.spotify.com/track/0hUcwyaNHdR9961jFWrIoX"
     },
     {
       "added_at": null,
@@ -467,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sons Of Soul",
+        "url": "https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 315826,
+      "name": "Leavin'",
+      "url": "https://open.spotify.com/track/0hUcwyaNHdR9961jFWrIoX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Revival",
         "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
       },
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Who?",
+        "url": "https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 261706,
+      "name": "Who's Lovin You",
+      "url": "https://open.spotify.com/track/7qfxFwr5VFD4v7ojFfQUgp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poetic Justice: Music from the Motion Picture",
         "url": "https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3"
       },
@@ -515,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who?",
-        "url": "https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu"
+        "name": "It's a Beautiful Thing",
+        "url": "https://open.spotify.com/album/23WqQ1vWS6lI5NpqFO2G3m"
       },
       "artists": [
         {
@@ -524,9 +540,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 261706,
-      "name": "Who's Lovin You",
-      "url": "https://open.spotify.com/track/7qfxFwr5VFD4v7ojFfQUgp"
+      "duration_ms": 257790,
+      "name": "It's a Beautiful Thing - Sly Mix",
+      "url": "https://open.spotify.com/track/5KfFIkuhL7setqTd9DbXDa"
     },
     {
       "added_at": null,
@@ -551,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's a Beautiful Thing",
-        "url": "https://open.spotify.com/album/23WqQ1vWS6lI5NpqFO2G3m"
+        "name": "Who?",
+        "url": "https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu"
       },
       "artists": [
         {
@@ -560,9 +576,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 257790,
-      "name": "It's a Beautiful Thing - Sly Mix",
-      "url": "https://open.spotify.com/track/5KfFIkuhL7setqTd9DbXDa"
+      "duration_ms": 285133,
+      "name": "Born Not To Know",
+      "url": "https://open.spotify.com/track/6Ix4EuZQQNQFUpXT8EQmM7"
     },
     {
       "added_at": null,
@@ -579,22 +595,6 @@
       "duration_ms": 321760,
       "name": "Weather 42",
       "url": "https://open.spotify.com/track/4PlbHumYdcw1Y8YPLQHb5I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who?",
-        "url": "https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 285133,
-      "name": "Born Not To Know",
-      "url": "https://open.spotify.com/track/6Ix4EuZQQNQFUpXT8EQmM7"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Swing",
-        "url": "https://open.spotify.com/album/173zgLYUQJXLa3NXTKgvce"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 188003,
-      "name": "It Feels Good",
-      "url": "https://open.spotify.com/track/1j9jJcfR7xK154OX6XTwFj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who?",
         "url": "https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 346226,
       "name": "Pain",
       "url": "https://open.spotify.com/track/1K9rkQbCTj7LE1ZuJr0Jns"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Swing",
+        "url": "https://open.spotify.com/album/173zgLYUQJXLa3NXTKgvce"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 188003,
+      "name": "It Feels Good",
+      "url": "https://open.spotify.com/track/1j9jJcfR7xK154OX6XTwFj"
     }
   ],
   "unique_name": "This Is Tony! Toni! Ton\u00e9!",

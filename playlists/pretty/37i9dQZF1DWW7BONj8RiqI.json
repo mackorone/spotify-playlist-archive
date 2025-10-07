@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Klassik Frescobar",
-  "num_followers": 238991,
+  "num_followers": 239024,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -243,18 +243,26 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "1 On 1",
-        "url": "https://open.spotify.com/album/3Uq7mIN3ccKNODOAfTjRiy"
+        "name": "Mind My Business",
+        "url": "https://open.spotify.com/album/0EtmN8riYVOR5fBI1bplj1"
       },
       "artists": [
         {
-          "name": "Rupee",
-          "url": "https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb"
+          "name": "Travis World",
+          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
+        },
+        {
+          "name": "Dan Evens",
+          "url": "https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK"
+        },
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
         }
       ],
-      "duration_ms": 214720,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/3lfPuyvkKQsWFFAIhE73ww"
+      "duration_ms": 119040,
+      "name": "Mind My Business",
+      "url": "https://open.spotify.com/track/2VhvSJkmqGQZgJOlMEGHEz"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -299,26 +307,18 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Mind My Business",
-        "url": "https://open.spotify.com/album/0EtmN8riYVOR5fBI1bplj1"
+        "name": "1 On 1",
+        "url": "https://open.spotify.com/album/3Uq7mIN3ccKNODOAfTjRiy"
       },
       "artists": [
         {
-          "name": "Travis World",
-          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
-        },
-        {
-          "name": "Dan Evens",
-          "url": "https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK"
-        },
-        {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+          "name": "Rupee",
+          "url": "https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb"
         }
       ],
-      "duration_ms": 119040,
-      "name": "Mind My Business",
-      "url": "https://open.spotify.com/track/2VhvSJkmqGQZgJOlMEGHEz"
+      "duration_ms": 214720,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/3lfPuyvkKQsWFFAIhE73ww"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -511,26 +511,6 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Carry It",
-        "url": "https://open.spotify.com/album/4hMtnF3yR9VPYyAHbyU0C8"
-      },
-      "artists": [
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
-        },
-        {
-          "name": "Stemz",
-          "url": "https://open.spotify.com/artist/5jY4YgP5Ub1MMCgMhjY4Mp"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Carry It",
-      "url": "https://open.spotify.com/track/0xziaVX2PIOfLC1FNNzNT9"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
         "name": "Black Keys Riddim",
         "url": "https://open.spotify.com/album/22UudBXkxd66PvwCHPLA3g"
       },
@@ -555,26 +535,6 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Workout (feat. Nailah Blackman)",
-        "url": "https://open.spotify.com/album/2LIZ7qauUnT1VdAYpD4YLe"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        },
-        {
-          "name": "Nailah Blackman",
-          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
-        }
-      ],
-      "duration_ms": 238153,
-      "name": "Workout",
-      "url": "https://open.spotify.com/track/3BlI8WbmqInpjM0z3k4L63"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
         "name": "Soca Start",
         "url": "https://open.spotify.com/album/72vCgFMjbzVbiPdFvEm8BZ"
       },
@@ -591,6 +551,46 @@
       "duration_ms": 141296,
       "name": "Soca Start",
       "url": "https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
+        "name": "Carry It",
+        "url": "https://open.spotify.com/album/4hMtnF3yR9VPYyAHbyU0C8"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        },
+        {
+          "name": "Stemz",
+          "url": "https://open.spotify.com/artist/5jY4YgP5Ub1MMCgMhjY4Mp"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Carry It",
+      "url": "https://open.spotify.com/track/0xziaVX2PIOfLC1FNNzNT9"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
+        "name": "Workout (feat. Nailah Blackman)",
+        "url": "https://open.spotify.com/album/2LIZ7qauUnT1VdAYpD4YLe"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        },
+        {
+          "name": "Nailah Blackman",
+          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
+        }
+      ],
+      "duration_ms": 238153,
+      "name": "Workout",
+      "url": "https://open.spotify.com/track/3BlI8WbmqInpjM0z3k4L63"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -675,18 +675,18 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Turn Up",
-        "url": "https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo"
+        "name": "Funky Business",
+        "url": "https://open.spotify.com/album/6irDQgYw7nObjqROUl9hoj"
       },
       "artists": [
         {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+          "name": "Fimba",
+          "url": "https://open.spotify.com/artist/6JHTiWS70od5zHsU5QcEqM"
         }
       ],
-      "duration_ms": 160965,
-      "name": "Big Bad Soca",
-      "url": "https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1"
+      "duration_ms": 173426,
+      "name": "Funky Business",
+      "url": "https://open.spotify.com/track/58TSNfyz3elrAG90rUKbvu"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -707,18 +707,18 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Funky Business",
-        "url": "https://open.spotify.com/album/6irDQgYw7nObjqROUl9hoj"
+        "name": "Turn Up",
+        "url": "https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo"
       },
       "artists": [
         {
-          "name": "Fimba",
-          "url": "https://open.spotify.com/artist/6JHTiWS70od5zHsU5QcEqM"
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
         }
       ],
-      "duration_ms": 173426,
-      "name": "Funky Business",
-      "url": "https://open.spotify.com/track/58TSNfyz3elrAG90rUKbvu"
+      "duration_ms": 160965,
+      "name": "Big Bad Soca",
+      "url": "https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -743,6 +743,26 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
+        "name": "Down Dey",
+        "url": "https://open.spotify.com/album/246WFT6xDiyEoqaAy7YH8F"
+      },
+      "artists": [
+        {
+          "name": "GBM Nutron",
+          "url": "https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT"
+        },
+        {
+          "name": "DJ Spider",
+          "url": "https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq"
+        }
+      ],
+      "duration_ms": 133141,
+      "name": "Down Dey",
+      "url": "https://open.spotify.com/track/7AGm3aWTaC7LRni0xcrhMw"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
         "name": "Tack Back",
         "url": "https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq"
       },
@@ -763,22 +783,18 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Down Dey",
-        "url": "https://open.spotify.com/album/246WFT6xDiyEoqaAy7YH8F"
+        "name": "No Apology",
+        "url": "https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh"
       },
       "artists": [
         {
-          "name": "GBM Nutron",
-          "url": "https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT"
-        },
-        {
-          "name": "DJ Spider",
-          "url": "https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq"
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
         }
       ],
-      "duration_ms": 133141,
-      "name": "Down Dey",
-      "url": "https://open.spotify.com/track/7AGm3aWTaC7LRni0xcrhMw"
+      "duration_ms": 169570,
+      "name": "No Apology",
+      "url": "https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -835,22 +851,6 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "No Apology",
-        "url": "https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh"
-      },
-      "artists": [
-        {
-          "name": "Kerwin Du Bois",
-          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
-        }
-      ],
-      "duration_ms": 169570,
-      "name": "No Apology",
-      "url": "https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
         "name": "Face Beat",
         "url": "https://open.spotify.com/album/5UIMx57NTFFnsnBK2ZDGNM"
       },
@@ -863,6 +863,22 @@
       "duration_ms": 143789,
       "name": "Face Beat",
       "url": "https://open.spotify.com/track/7JOil4DFL3mgC5ZiDr82TG"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
+        "name": "Spirit Of Carnival Project",
+        "url": "https://open.spotify.com/album/70k0gxInLY1FKI2x9H2uSu"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 184273,
+      "name": "Mental Day",
+      "url": "https://open.spotify.com/track/1IqgGVyINMhLLVBEgQYhW1"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -903,38 +919,6 @@
       "duration_ms": 158413,
       "name": "Fling It Up",
       "url": "https://open.spotify.com/track/23NyOI3LyPTddD5kZRpO9b"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
-        "name": "Spirit Of Carnival Project",
-        "url": "https://open.spotify.com/album/70k0gxInLY1FKI2x9H2uSu"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 184273,
-      "name": "Mental Day",
-      "url": "https://open.spotify.com/track/1IqgGVyINMhLLVBEgQYhW1"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
-        "name": "The Queen of Bacchanal",
-        "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
-      },
-      "artists": [
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 234242,
-      "name": "Just a Little Bit",
-      "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -983,6 +967,22 @@
       "duration_ms": 187560,
       "name": "Blessing",
       "url": "https://open.spotify.com/track/1HOPBqlGgQfICLMDyQl0hR"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
+        "name": "The Queen of Bacchanal",
+        "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "duration_ms": 234242,
+      "name": "Just a Little Bit",
+      "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Jab Supremacy",
-        "url": "https://open.spotify.com/album/3RjAWZkaVZdvpU1CrUZavH"
-      },
-      "artists": [
-        {
-          "name": "Terra D Governor",
-          "url": "https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Jab Supremacy",
-      "url": "https://open.spotify.com/track/2mU6Lmu8MK0JZp7NZV7wjJ"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
         "name": "Hot and Groovy",
         "url": "https://open.spotify.com/album/05BvK7qOUP4YLJxrAGaLC5"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 282567,
       "name": "Hot and Groovy",
       "url": "https://open.spotify.com/track/5ufDDOz8dT9bW9tjegZ6DB"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
+        "name": "Jab Supremacy",
+        "url": "https://open.spotify.com/album/3RjAWZkaVZdvpU1CrUZavH"
+      },
+      "artists": [
+        {
+          "name": "Terra D Governor",
+          "url": "https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Jab Supremacy",
+      "url": "https://open.spotify.com/track/2mU6Lmu8MK0JZp7NZV7wjJ"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Darkseid Riddim",
-        "url": "https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX"
-      },
-      "artists": [
-        {
-          "name": "Lyrikal",
-          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
-        }
-      ],
-      "duration_ms": 157506,
-      "name": "Rukshun",
-      "url": "https://open.spotify.com/track/2CXUEF8Ao6dPllVJC3so3C"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
         "name": "Soca Gold 2002",
         "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 181960,
       "name": "Trinidad",
       "url": "https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
+        "name": "Darkseid Riddim",
+        "url": "https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX"
+      },
+      "artists": [
+        {
+          "name": "Lyrikal",
+          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
+        }
+      ],
+      "duration_ms": 157506,
+      "name": "Rukshun",
+      "url": "https://open.spotify.com/track/2CXUEF8Ao6dPllVJC3so3C"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS"
-      },
-      "artists": [
-        {
-          "name": "Hey Choppi",
-          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
-        }
-      ],
-      "duration_ms": 196557,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
         "name": "Soca Savage",
         "url": "https://open.spotify.com/album/4TfALjuKByLMnAT4MT0v6x"
       },
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS"
+      },
+      "artists": [
+        {
+          "name": "Hey Choppi",
+          "url": "https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw"
+        }
+      ],
+      "duration_ms": 196557,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
         "name": "How ah Livin",
         "url": "https://open.spotify.com/album/2wd3Fngpq5RD23KMrY4jsj"
       },
@@ -1503,6 +1503,22 @@
       "duration_ms": 229458,
       "name": "How ah Livin",
       "url": "https://open.spotify.com/track/4NxqELbBJbL9uW9AZaiBut"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
+        "name": "Charge",
+        "url": "https://open.spotify.com/album/15Kfg4oI8XNt0FRRzPvcxo"
+      },
+      "artists": [
+        {
+          "name": "Xtatik",
+          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
+        }
+      ],
+      "duration_ms": 276131,
+      "name": "Footsteps",
+      "url": "https://open.spotify.com/track/0HSmfFHl7PeODbmedSB7BI"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Charge",
-        "url": "https://open.spotify.com/album/15Kfg4oI8XNt0FRRzPvcxo"
-      },
-      "artists": [
-        {
-          "name": "Xtatik",
-          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
-        }
-      ],
-      "duration_ms": 276131,
-      "name": "Footsteps",
-      "url": "https://open.spotify.com/track/0HSmfFHl7PeODbmedSB7BI"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
         "name": "Search Party",
         "url": "https://open.spotify.com/album/5u8anZBLJ122fh1jpVnt3g"
       },
@@ -1555,22 +1555,6 @@
       "duration_ms": 206609,
       "name": "Search Party",
       "url": "https://open.spotify.com/track/32vazc4u4mcNMIc9TBQguB"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
-        "name": "Sit on My Face",
-        "url": "https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg"
-      },
-      "artists": [
-        {
-          "name": "Zido",
-          "url": "https://open.spotify.com/artist/1BXk9qMGTP648nRoWwCImq"
-        }
-      ],
-      "duration_ms": 87086,
-      "name": "Sit on My Face",
-      "url": "https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -1591,6 +1575,22 @@
       "duration_ms": 231874,
       "name": "Carnival (feat. Machel Montano)",
       "url": "https://open.spotify.com/track/2dNzMOqfoezlaLJ6uAqLq3"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
+        "name": "Sit on My Face",
+        "url": "https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg"
+      },
+      "artists": [
+        {
+          "name": "Zido",
+          "url": "https://open.spotify.com/artist/1BXk9qMGTP648nRoWwCImq"
+        }
+      ],
+      "duration_ms": 87086,
+      "name": "Sit on My Face",
+      "url": "https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc"
     },
     {
       "added_at": "2025-08-29 14:56:22",

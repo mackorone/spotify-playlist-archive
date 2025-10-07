@@ -4,7 +4,7 @@
 
 > When the night isn't over just yet.
 
-419 songs - 1 day 4 hr 27 min
+420 songs - 1 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [A Dream Goes On Forever](https://open.spotify.com/track/5OY32VyyPJDPBf2C2RTX9v) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [A Dream Goes On Forever](https://open.spotify.com/album/3GlvdGXfhdSubUQ2uKYXKI) | 4:39 | 2024-04-04 | 2024-06-21 |
 | [About You](https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [A Radiant Sign](https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl) | 3:52 | 2022-09-05 | 2023-11-11 |
 | [Acheless \- Edit](https://open.spotify.com/track/3uSS4gKyOg9m8V2Ds2ZKTr) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [Acheless](https://open.spotify.com/album/3TnRsvwBfgPM8uoE0Wg3FY) | 4:55 | 2021-11-24 | 2022-07-21 |
-| [After](https://open.spotify.com/track/4Durwjt1E9NXXrpC29GPj6) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [After](https://open.spotify.com/album/0pHOZW4Q0dR7bexbUolLqk) | 4:01 | 2025-05-01 |  |
+| [After](https://open.spotify.com/track/4Durwjt1E9NXXrpC29GPj6) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [After](https://open.spotify.com/album/0pHOZW4Q0dR7bexbUolLqk) | 4:01 | 2025-05-01 | 2025-10-07 |
 | [Ageispolis](https://open.spotify.com/track/7KRQoq9GeWeCm0ZAXg5XMb) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 5:23 | 2022-06-20 | 2023-11-18 |
 | [Air Tight](https://open.spotify.com/track/0gethz2jDq9MFbhvRc9tk9) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [Prism of Pleasure](https://open.spotify.com/album/0fGG1bH61jnLMW2cvpB6Er) | 3:54 | 2024-06-14 | 2025-03-21 |
 | [Alas](https://open.spotify.com/track/3EaXrzDBGOFXVm7uL3B1JP) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Alas](https://open.spotify.com/album/2mGAeQetqelRSPnaed9KTF) | 4:24 | 2023-01-09 | 2023-11-11 |
@@ -142,6 +142,7 @@
 | [Follow Me](https://open.spotify.com/track/2CjAV5o0xbp9APj9WQ2gJZ) | [WEI](https://open.spotify.com/artist/2jOSQFHIeUc2OcPx8tSaTw), [Cotton Duck](https://open.spotify.com/artist/4ZqPmeHmCFc9LDbOSdpzaM) | [Follow Me](https://open.spotify.com/album/0mgVhaztvwTi7amAD6wWWP) | 2:22 | 2025-07-03 |  |
 | [Found](https://open.spotify.com/track/509uuSR2IGBjF8QdEl8QyF) | [Kieran Hemming](https://open.spotify.com/artist/0y7PZphnEbZAG2JHlPR4Pi) | [Found](https://open.spotify.com/album/6PoV1awb16hm655ftsNxoi) | 3:30 | 2021-11-24 | 2022-07-29 |
 | [fused \(DJ\-Kicks\)](https://open.spotify.com/track/07F3akBPO1FjKJMwDXKf8r) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [fused \(DJ\-Kicks\)](https://open.spotify.com/album/2KHNxTmgqFo6Fn5Jvfib7R) | 3:30 | 2025-02-20 | 2025-04-26 |
+| [Ghost in My Stereo](https://open.spotify.com/track/1pnwKkZHdeF7Us2bF4z1Xv) | [MIND](https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Ghost in My Stereo](https://open.spotify.com/album/4huE8eEgu0utGRx3h0oWWN) | 1:58 | 2025-10-02 |  |
 | [God Knows We Tried](https://open.spotify.com/track/4u4kVqtHSNULrl0esijmbK) | [Hugo Massien](https://open.spotify.com/artist/2W5iJGVOD94ioSvjS8x8Yu) | [God Knows We Tried](https://open.spotify.com/album/3fp6XL68wHbPJjL6gWfzGM) | 6:13 | 2021-11-24 | 2022-07-12 |
 | [Golden Eyes and Tears](https://open.spotify.com/track/0CBznHvPUsxpBeMwWCjAOk) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Golden Eyes and Tears](https://open.spotify.com/album/2yReVDjo6z3on1JyO6RC6E) | 3:37 | 2024-06-07 | 2025-02-21 |
 | [Granular](https://open.spotify.com/track/0sz4Oxa12dIuLgLzotuXH1) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Granular](https://open.spotify.com/album/1t3jtqSb717CYPCK4f6XKw) | 3:36 | 2021-11-24 | 2022-07-29 |

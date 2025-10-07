@@ -4,7 +4,7 @@
 
 > All of your recent Worship hits in one place!  Cover: Brandon Lake
 
-208 songs - 19 hr 7 min
+209 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [I Belong \- Live](https://open.spotify.com/track/27fs8NYZ76CkPeQWNhBjyn) | [Orphan No More Co](https://open.spotify.com/artist/7EYuj3Lwk6FkWeeIbXs87F) | [I Belong \(Live\)](https://open.spotify.com/album/0CUUIt88L7BwtMkRG5EDNV) | 7:13 | 2021-01-15 | 2024-11-30 |
 | [I CHOOSE TO WORSHIP](https://open.spotify.com/track/4lVkwkjR27tEl9i8ZG7MTb) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [CHOOSE TO WORSHIP](https://open.spotify.com/album/2YkuRwXmz9uCPklzmKZ69L) | 4:26 | 2021-01-15 | 2024-11-30 |
 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/3EHmkZAvEJG0HPRgB7353n) | [Sonicflood](https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI) | [SonicPraise](https://open.spotify.com/album/2v1fOkMUrvzIeGPqAtAxN0) | 4:46 | 2021-01-15 | 2022-07-14 |
+| [I Know A Name](https://open.spotify.com/track/4TXK7iqOnXCr8XWyj3b4dJ) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [I Know A Name](https://open.spotify.com/album/3BOILqe5ccdWMBR8KZfCB2) | 7:09 | 2025-10-06 |  |
 | [I Speak Jesus](https://open.spotify.com/track/6ih83nInlD4raXBDaHmu9d) | [Charity Gayle](https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq), [Steven Musso](https://open.spotify.com/artist/6qG7Lqb9bjQXrmFjj3z8Qx) | [Endless Praise](https://open.spotify.com/album/0ZY2I6RVGv7a75Fus8Y447) | 7:49 | 2025-03-07 |  |
 | [I Still Believe \(You Are Faithful\)](https://open.spotify.com/track/5D7VjqVm0gE29TUWBz7Dv6) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [A Thousand More](https://open.spotify.com/album/71Wbn8i6LWE44Fgpb2D8aB) | 4:26 | 2021-01-15 | 2024-11-30 |
 | [I Thank God](https://open.spotify.com/track/7GJeMVJbLzRgNuabsQ8RXt) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [JWLKRS Worship](https://open.spotify.com/artist/0wczmL4iUleqcy10Ek5Eyh), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C), [Blake Wiggins](https://open.spotify.com/artist/5NW1jC5KUjGRgiiI9Yd8mV) | [How To Start A Housefire \(Pt\. II\)](https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk) | 3:52 | 2024-06-22 |  |
@@ -136,7 +137,7 @@
 | [More Than Enough \- Live](https://open.spotify.com/track/6EIDCcB7NlRox5jIrErS8b) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Church Volume One \(Live\)](https://open.spotify.com/album/06wlpmt4p99xMXHibcgoVj) | 8:36 | 2021-01-15 | 2024-11-30 |
 | [My Victory](https://open.spotify.com/track/1aVJCLIbgvlp3e8Znmpkfz) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [American Prodigal \(Deluxe Edition\)](https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ) | 4:17 | 2023-02-18 | 2025-08-05 |
 | [My Worship \- Live](https://open.spotify.com/track/0CaD1v9lFnjI5jc1Ao34Ju) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2), [Lee University Singers](https://open.spotify.com/artist/2p0Ijwq3ufXdca65KnK4Vq) | [My Worship \(Live\)](https://open.spotify.com/album/1FE5cVevOjLl6SauUbrEM6) | 7:39 | 2021-01-15 | 2022-07-29 |
-| [Never Let Me Go \- Live](https://open.spotify.com/track/1aEOATmuK2T6iZhrC77KYN) | [LIFE Worship](https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d) | [Your Name](https://open.spotify.com/album/3gtzVT6Ai7m4pxfdv1KnjG) | 3:43 | 2021-01-15 |  |
+| [Never Let Me Go \- Live](https://open.spotify.com/track/1aEOATmuK2T6iZhrC77KYN) | [LIFE Worship](https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d) | [Your Name](https://open.spotify.com/album/3gtzVT6Ai7m4pxfdv1KnjG) | 3:43 | 2021-01-15 | 2025-10-07 |
 | [Never Lost](https://open.spotify.com/track/2siGLwunHkTMJjmy4oHfLB) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Never Lost](https://open.spotify.com/album/0c1ZM1kGleLVz9y6ZeoTUt) | 5:15 | 2021-01-15 | 2022-07-29 |
 | [New Wine \- Live](https://open.spotify.com/track/1MX4dx6yNvAH2GjIVsUF4h) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [There Is More \(Live\)](https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm) | 8:10 | 2021-01-15 | 2023-10-10 |
 | [No Impossible with You](https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Trial & Triumph](https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX) | 3:37 | 2021-01-15 | 2024-11-30 |

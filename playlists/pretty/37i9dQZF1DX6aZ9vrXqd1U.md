@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ©創通・サンライズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,324 likes - 160 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,338 likes - 160 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,7 +165,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 155 | [閉ざされた世界](https://open.spotify.com/track/5ilBO8iKJLgxhj2eFTE1i9) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [アサイラム](https://open.spotify.com/album/5Iabzqqw8kKxNuhFTG0Fap) | 4:50 |
 | 156 | [bL∞dy f8 \-eUC\-](https://open.spotify.com/track/0VCktiXKph7Sfs1klMSplj) | [SawanoHiroyuki\[nZk\]:Aimer](https://open.spotify.com/artist/24aMUtQKIRHDMvPI7wPd35) | [Into the Sky EP](https://open.spotify.com/album/6OThyKSLIsY2fVSBjQfSZU) | 4:48 |
 | 157 | [Z･刻をこえて](https://open.spotify.com/track/4uO8B6pZbB1eXAOZsiD5KZ) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [Reply～Mami Ayukawa 25th Anniversary Best Album～](https://open.spotify.com/album/1zkooNcXkwSRYkM2e7blvM) | 3:35 |
-| 158 | [Flying In The Sky \- 2017 Remaster](https://open.spotify.com/track/60GYIAdO2ySJJyncOTTyHu) | [Yoshifumi Ushima](https://open.spotify.com/artist/1s63VTvalxLJgMX3yjxH0L) | [Free Judgement \(2017 Remaster\) \[Deluxe Edition\]](https://open.spotify.com/album/3Lnyc6QiJX7G2aD48Trjea) | 3:44 |
+| 158 | [Flying In The Sky \- 2017 Remaster](https://open.spotify.com/track/60GYIAdO2ySJJyncOTTyHu) | [Yoshifumi Ushima](https://open.spotify.com/artist/1s63VTvalxLJgMX3yjxH0L) | [Free Judgement \[Deluxe Edition\] \(2017 Remaster\)](https://open.spotify.com/album/3Lnyc6QiJX7G2aD48Trjea) | 3:44 |
 | 159 | [Next 2 U \-eUC\-](https://open.spotify.com/track/1auy1PkfwF6yCplcdhd8NK) | [SawanoHiroyuki\[nZk\]:naNami](https://open.spotify.com/artist/2EAfowJhmEii7OUOa44fAk) | [Into the Sky EP](https://open.spotify.com/album/6OThyKSLIsY2fVSBjQfSZU) | 4:04 |
 | 160 | [星空のBelieve](https://open.spotify.com/track/3KX9Ky0uBKGYvMNe1l4iWr) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [Reply～Mami Ayukawa 25th Anniversary Best Album～](https://open.spotify.com/album/1zkooNcXkwSRYkM2e7blvM) | 3:30 |
 

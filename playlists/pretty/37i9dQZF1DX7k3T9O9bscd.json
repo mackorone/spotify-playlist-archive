@@ -1,6 +1,6 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Melody's Echo Chamber on cover.",
-  "num_followers": 569732,
+  "num_followers": 569772,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,26 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "We Were We Still Are",
+        "url": "https://open.spotify.com/album/01DzJZ1Ir8CkDfVDZdxsW9"
+      },
+      "artists": [
+        {
+          "name": "Future Utopia",
+          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
+        },
+        {
+          "name": "Kae Tempest",
+          "url": "https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw"
+        }
+      ],
+      "duration_ms": 177920,
+      "name": "We Were We Still Are",
+      "url": "https://open.spotify.com/track/1t7KPfFCA5fVTV1FR9kSuJ"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "Egypt",
         "url": "https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc"
       },
@@ -723,26 +743,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "We Were We Still Are",
-        "url": "https://open.spotify.com/album/01DzJZ1Ir8CkDfVDZdxsW9"
-      },
-      "artists": [
-        {
-          "name": "Future Utopia",
-          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
-        },
-        {
-          "name": "Kae Tempest",
-          "url": "https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw"
-        }
-      ],
-      "duration_ms": 177920,
-      "name": "We Were We Still Are",
-      "url": "https://open.spotify.com/track/1t7KPfFCA5fVTV1FR9kSuJ"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Funeral for Justice (Injustice Version)",
         "url": "https://open.spotify.com/album/3fYga5PA5HrnbPFH4pWc8F"
       },
@@ -755,22 +755,6 @@
       "duration_ms": 345702,
       "name": "Funeral for Justice - Injustice Version",
       "url": "https://open.spotify.com/track/7MXFGo3Eelb8RegCAC5WQX"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "Don't Delay, Join Today!",
-        "url": "https://open.spotify.com/album/28ArhpcPDNuJFqqWGmevOi"
-      },
-      "artists": [
-        {
-          "name": "Improvement Movement",
-          "url": "https://open.spotify.com/artist/18S4ntNsQ8TCG80wpOsxWZ"
-        }
-      ],
-      "duration_ms": 128917,
-      "name": "Strange Secrets Worth Knowing",
-      "url": "https://open.spotify.com/track/0XDFrRl5464H97zLQZiC1W"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -791,22 +775,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "The Efferusphere",
-        "url": "https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA"
-      },
-      "artists": [
-        {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        }
-      ],
-      "duration_ms": 232444,
-      "name": "Red Sun",
-      "url": "https://open.spotify.com/track/7Eu6PeKZpGJdOOe2aatrHJ"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Looking For A Way Out (Of Del Rio)",
         "url": "https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5"
       },
@@ -819,6 +787,38 @@
       "duration_ms": 187613,
       "name": "Looking For A Way Out (Of Del Rio)",
       "url": "https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Don't Delay, Join Today!",
+        "url": "https://open.spotify.com/album/28ArhpcPDNuJFqqWGmevOi"
+      },
+      "artists": [
+        {
+          "name": "Improvement Movement",
+          "url": "https://open.spotify.com/artist/18S4ntNsQ8TCG80wpOsxWZ"
+        }
+      ],
+      "duration_ms": 128917,
+      "name": "Strange Secrets Worth Knowing",
+      "url": "https://open.spotify.com/track/0XDFrRl5464H97zLQZiC1W"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "The Efferusphere",
+        "url": "https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA"
+      },
+      "artists": [
+        {
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        }
+      ],
+      "duration_ms": 232444,
+      "name": "Red Sun",
+      "url": "https://open.spotify.com/track/7Eu6PeKZpGJdOOe2aatrHJ"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Music For Film: Tramps!",
-        "url": "https://open.spotify.com/album/3cgyHNLkCzJBO631WnduVk"
-      },
-      "artists": [
-        {
-          "name": "MEMORIALS",
-          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
-        }
-      ],
-      "duration_ms": 125973,
-      "name": "Boudicaaa",
-      "url": "https://open.spotify.com/track/1o7RV3dp8GwmRvQA2erpWU"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Fase Luna",
         "url": "https://open.spotify.com/album/52YIfAfezvA9xFDbR1zkrd"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 285308,
       "name": "It's You",
       "url": "https://open.spotify.com/track/3IdIW9NqNyz9ulLMHd8IBM"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Music For Film: Tramps!",
+        "url": "https://open.spotify.com/album/3cgyHNLkCzJBO631WnduVk"
+      },
+      "artists": [
+        {
+          "name": "MEMORIALS",
+          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
+        }
+      ],
+      "duration_ms": 125973,
+      "name": "Boudicaaa",
+      "url": "https://open.spotify.com/track/1o7RV3dp8GwmRvQA2erpWU"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "ILION",
-        "url": "https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3"
-      },
-      "artists": [
-        {
-          "name": "SLIFT",
-          "url": "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO"
-        }
-      ],
-      "duration_ms": 668573,
-      "name": "Ilion",
-      "url": "https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Django's High",
         "url": "https://open.spotify.com/album/05ToJnopcSnLYnbO0u8Mxq"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 183978,
       "name": "Casino",
       "url": "https://open.spotify.com/track/2F6OAlmLqW0MmRA4Qo5o6W"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "ILION",
+        "url": "https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3"
+      },
+      "artists": [
+        {
+          "name": "SLIFT",
+          "url": "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO"
+        }
+      ],
+      "duration_ms": 668573,
+      "name": "Ilion",
+      "url": "https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Stung!",
-        "url": "https://open.spotify.com/album/5bZ876MvlpW4MQhAZFBBdp"
-      },
-      "artists": [
-        {
-          "name": "Pond",
-          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
-        }
-      ],
-      "duration_ms": 209717,
-      "name": "Constant Picnic",
-      "url": "https://open.spotify.com/track/0ADqC4Ko8CHQouePCVb1HL"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "The Moon Is In The Wrong Place",
         "url": "https://open.spotify.com/album/7j6jvLu3thEqRKkALqxXhf"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 179543,
       "name": "The Moon Is In The Wrong Place",
       "url": "https://open.spotify.com/track/2PE6ubpBBfYindtp3fzzBJ"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Stung!",
+        "url": "https://open.spotify.com/album/5bZ876MvlpW4MQhAZFBBdp"
+      },
+      "artists": [
+        {
+          "name": "Pond",
+          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
+        }
+      ],
+      "duration_ms": 209717,
+      "name": "Constant Picnic",
+      "url": "https://open.spotify.com/track/0ADqC4Ko8CHQouePCVb1HL"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "MU!",
-        "url": "https://open.spotify.com/album/3Rgbbvxh8XdL32bJhyQqOY"
-      },
-      "artists": [
-        {
-          "name": "Gnoomes",
-          "url": "https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII"
-        }
-      ],
-      "duration_ms": 208994,
-      "name": "Sword In the Stone",
-      "url": "https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Ghost Power",
         "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 221701,
       "name": "Asteroid Witch",
       "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "MU!",
+        "url": "https://open.spotify.com/album/3Rgbbvxh8XdL32bJhyQqOY"
+      },
+      "artists": [
+        {
+          "name": "Gnoomes",
+          "url": "https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII"
+        }
+      ],
+      "duration_ms": 208994,
+      "name": "Sword In the Stone",
+      "url": "https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "Panther Rotate",
+        "url": "https://open.spotify.com/album/74cNFrEotN1EgfDVypvLKR"
+      },
+      "artists": [
+        {
+          "name": "Thee Oh Sees",
+          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+        },
+        {
+          "name": "Osees",
+          "url": "https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS"
+        }
+      ],
+      "duration_ms": 309200,
+      "name": "Don't Blow Experiment",
+      "url": "https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "The Real Work",
         "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
       },
@@ -1335,26 +1355,6 @@
       "duration_ms": 239263,
       "name": "Dune",
       "url": "https://open.spotify.com/track/3PRS2uCYDyBp3khoz6rQ3s"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
-        "name": "Panther Rotate",
-        "url": "https://open.spotify.com/album/74cNFrEotN1EgfDVypvLKR"
-      },
-      "artists": [
-        {
-          "name": "Thee Oh Sees",
-          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
-        },
-        {
-          "name": "Osees",
-          "url": "https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS"
-        }
-      ],
-      "duration_ms": 309200,
-      "name": "Don't Blow Experiment",
-      "url": "https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Breathe in, Breathe Out",
-        "url": "https://open.spotify.com/album/6KsF7RqHsReBCAmMqj8p0G"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 170333,
-      "name": "Breathe in, Breathe Out",
-      "url": "https://open.spotify.com/track/4J9LOhzDYiASTnXdOgG6I1"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Everything Was Beautiful",
         "url": "https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK"
       },
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Butterfly 3000",
-        "url": "https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy"
+        "name": "Breathe in, Breathe Out",
+        "url": "https://open.spotify.com/album/6KsF7RqHsReBCAmMqj8p0G"
       },
       "artists": [
         {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
         }
       ],
-      "duration_ms": 315133,
-      "name": "Interior People",
-      "url": "https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30"
+      "duration_ms": 170333,
+      "name": "Breathe in, Breathe Out",
+      "url": "https://open.spotify.com/track/4J9LOhzDYiASTnXdOgG6I1"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1471,22 +1455,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Yellowblack",
-        "url": "https://open.spotify.com/album/4NG2JJPI4Fwjrx6IrtGEhx"
-      },
-      "artists": [
-        {
-          "name": "I Hate My Village",
-          "url": "https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7"
-        }
-      ],
-      "duration_ms": 154055,
-      "name": "Yellowblack",
-      "url": "https://open.spotify.com/track/0hjXaVJKUYxVaVpi4smXZA"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Moon Needs The Owl Pt. 1",
         "url": "https://open.spotify.com/album/1Q2wAdsHkrMy4LzY4cyIEx"
       },
@@ -1503,34 +1471,34 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Microshift",
-        "url": "https://open.spotify.com/album/3wDOavy8yEk8G2c0mfyTsA"
+        "name": "Yellowblack",
+        "url": "https://open.spotify.com/album/4NG2JJPI4Fwjrx6IrtGEhx"
       },
       "artists": [
         {
-          "name": "Hookworms",
-          "url": "https://open.spotify.com/artist/7c5Qvy0cv7VGzRnUSwnSnj"
+          "name": "I Hate My Village",
+          "url": "https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7"
         }
       ],
-      "duration_ms": 228693,
-      "name": "Static Resistance",
-      "url": "https://open.spotify.com/track/0eOAeqbD5sxU77qdHSYLOY"
+      "duration_ms": 154055,
+      "name": "Yellowblack",
+      "url": "https://open.spotify.com/track/0hjXaVJKUYxVaVpi4smXZA"
     },
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Canti, Vol. I",
-        "url": "https://open.spotify.com/album/0QLCMuuiun3i2T6hsufBlo"
+        "name": "Butterfly 3000",
+        "url": "https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy"
       },
       "artists": [
         {
-          "name": "ONDAKEIKI",
-          "url": "https://open.spotify.com/artist/2sb3erMdYBN1W2jGtL14BG"
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
         }
       ],
-      "duration_ms": 434000,
-      "name": "Nel Tempio Blu",
-      "url": "https://open.spotify.com/track/7IcLUN0igVIWMHuvVp3GwZ"
+      "duration_ms": 315133,
+      "name": "Interior People",
+      "url": "https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1551,6 +1519,22 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "Microshift",
+        "url": "https://open.spotify.com/album/3wDOavy8yEk8G2c0mfyTsA"
+      },
+      "artists": [
+        {
+          "name": "Hookworms",
+          "url": "https://open.spotify.com/artist/7c5Qvy0cv7VGzRnUSwnSnj"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "Static Resistance",
+      "url": "https://open.spotify.com/track/0eOAeqbD5sxU77qdHSYLOY"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "Ghost Power",
         "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
       },
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
+        "name": "Canti, Vol. I",
+        "url": "https://open.spotify.com/album/0QLCMuuiun3i2T6hsufBlo"
+      },
+      "artists": [
+        {
+          "name": "ONDAKEIKI",
+          "url": "https://open.spotify.com/artist/2sb3erMdYBN1W2jGtL14BG"
+        }
+      ],
+      "duration_ms": 434000,
+      "name": "Nel Tempio Blu",
+      "url": "https://open.spotify.com/track/7IcLUN0igVIWMHuvVp3GwZ"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
         "name": "Across The Meridian",
         "url": "https://open.spotify.com/album/1JVx6dlk7PKc5kbplLJdZg"
       },
@@ -1579,6 +1579,22 @@
       "duration_ms": 195346,
       "name": "Shimmer and Disappear",
       "url": "https://open.spotify.com/track/0dUmodeLcQowf3YZAdOoTW"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "World Music",
+        "url": "https://open.spotify.com/album/7luhH7DG3J2silksmUZ73i"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "duration_ms": 170186,
+      "name": "Golden Dawn",
+      "url": "https://open.spotify.com/track/7bllwcaPt7Di4dI2mbpvfU"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -1607,22 +1623,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "World Music",
-        "url": "https://open.spotify.com/album/7luhH7DG3J2silksmUZ73i"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 170186,
-      "name": "Golden Dawn",
-      "url": "https://open.spotify.com/track/7bllwcaPt7Di4dI2mbpvfU"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "No Way In",
         "url": "https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2"
       },
@@ -1639,22 +1639,18 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Fire In The Blood (Live Masterlink Session)",
-        "url": "https://open.spotify.com/album/40tFlVAC8ZH2Xx4j4cgPE2"
+        "name": "Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z"
       },
       "artists": [
         {
-          "name": "Jade Like The Stone",
-          "url": "https://open.spotify.com/artist/0Kh6HlsJJeA2N3Zaol5plH"
-        },
-        {
-          "name": "Redtenbacher's Funkestra",
-          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
+          "name": "Mirror Revelations",
+          "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
         }
       ],
-      "duration_ms": 257429,
-      "name": "Fire In The Blood - Live Masterlink Session",
-      "url": "https://open.spotify.com/track/5CV4H5R5UzXHqzOFSECUaA"
+      "duration_ms": 384000,
+      "name": "Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

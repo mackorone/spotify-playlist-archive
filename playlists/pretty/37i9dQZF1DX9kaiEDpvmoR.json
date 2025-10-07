@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93683,
+  "num_followers": 93681,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -251,26 +251,6 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "Rocket",
-        "url": "https://open.spotify.com/album/41ttBc7j535fXQkAUbRZzB"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        },
-        {
-          "name": "Tony Iommi",
-          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
-        }
-      ],
-      "duration_ms": 166432,
-      "name": "Rocket",
-      "url": "https://open.spotify.com/track/1LmOToT3RH1OEZsQ6Q4Jfb"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
         "name": "Forgive, Forget",
         "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
       },
@@ -287,8 +267,8 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "Liquid Courage",
-        "url": "https://open.spotify.com/album/30QCyyDm0LNiyTpf2dLEmY"
+        "name": "jaywalking",
+        "url": "https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x"
       },
       "artists": [
         {
@@ -296,25 +276,29 @@
           "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
         }
       ],
-      "duration_ms": 193142,
-      "name": "Liquid Courage",
-      "url": "https://open.spotify.com/track/3kLOyR9AyFvpc3mQxw7S62"
+      "duration_ms": 170818,
+      "name": "Glasshouse",
+      "url": "https://open.spotify.com/track/71Sada6IOdfaCS8PKo1bRw"
     },
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "Kaprifol",
-        "url": "https://open.spotify.com/album/41XXzH7d7sd6yKcxQz0aXP"
+        "name": "Rocket",
+        "url": "https://open.spotify.com/album/41ttBc7j535fXQkAUbRZzB"
       },
       "artists": [
         {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        },
+        {
+          "name": "Tony Iommi",
+          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
         }
       ],
-      "duration_ms": 235230,
-      "name": "Kaprifol",
-      "url": "https://open.spotify.com/track/4sfYzFbJbiXm1lvsoDOtZS"
+      "duration_ms": 166432,
+      "name": "Rocket",
+      "url": "https://open.spotify.com/track/1LmOToT3RH1OEZsQ6Q4Jfb"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -351,22 +335,6 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "F\u00f6rloraren",
-        "url": "https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo"
-      },
-      "artists": [
-        {
-          "name": "Genom Natten",
-          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "F\u00f6rloraren",
-      "url": "https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
         "name": "All These Years",
         "url": "https://open.spotify.com/album/6GLddY1ROJ42TaJ3z8Unm1"
       },
@@ -383,6 +351,38 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
+        "name": "Kaprifol",
+        "url": "https://open.spotify.com/album/41XXzH7d7sd6yKcxQz0aXP"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 235230,
+      "name": "Kaprifol",
+      "url": "https://open.spotify.com/track/4sfYzFbJbiXm1lvsoDOtZS"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
+        "name": "F\u00f6rloraren",
+        "url": "https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo"
+      },
+      "artists": [
+        {
+          "name": "Genom Natten",
+          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "F\u00f6rloraren",
+      "url": "https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
         "name": "Mannen i spegeln",
         "url": "https://open.spotify.com/album/7rDK3KNlGHRXAHBrH5Vp3L"
       },
@@ -395,22 +395,6 @@
       "duration_ms": 212800,
       "name": "Mannen i spegeln",
       "url": "https://open.spotify.com/track/69HqVKBK0Pgh0UzDaCyfO7"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
-        "name": "jaywalking",
-        "url": "https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x"
-      },
-      "artists": [
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        }
-      ],
-      "duration_ms": 170818,
-      "name": "Glasshouse",
-      "url": "https://open.spotify.com/track/71Sada6IOdfaCS8PKo1bRw"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -447,6 +431,22 @@
       "duration_ms": 270874,
       "name": "Inte som alla andra, precis som alla andra (feat. Joakim Berg)",
       "url": "https://open.spotify.com/track/0BJotiVMsdxDSC7HfyitNP"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
+        "name": "Liquid Courage",
+        "url": "https://open.spotify.com/album/30QCyyDm0LNiyTpf2dLEmY"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "duration_ms": 193142,
+      "name": "Liquid Courage",
+      "url": "https://open.spotify.com/track/3kLOyR9AyFvpc3mQxw7S62"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
+        "name": "Sweethearts",
+        "url": "https://open.spotify.com/album/0K3N8ymk6GgL4lxLMPGEOB"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 283480,
+      "name": "Sweethearts",
+      "url": "https://open.spotify.com/track/46pBokNsBdfRifhtpWHkhC"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
         "name": "The First Time Ever I Saw Your Face (with Hozier)",
         "url": "https://open.spotify.com/album/4t9AAm3rQVu01FJ7tQz33B"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 273748,
       "name": "The First Time Ever I Saw Your Face (with Hozier)",
       "url": "https://open.spotify.com/track/4yzyi2v0QhJuumnhldtVNi"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
-        "name": "Sweethearts",
-        "url": "https://open.spotify.com/album/0K3N8ymk6GgL4lxLMPGEOB"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 283480,
-      "name": "Sweethearts",
-      "url": "https://open.spotify.com/track/46pBokNsBdfRifhtpWHkhC"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "Springer Ikapp",
-        "url": "https://open.spotify.com/album/5cUibeySR9mDVYxRrtrcQk"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
-        }
-      ],
-      "duration_ms": 214033,
-      "name": "Springer ikapp",
-      "url": "https://open.spotify.com/track/5DF56PEsdLEHpqoCpzLg6I"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
         "name": "Innan kronan blir f\u00f6r tung",
         "url": "https://open.spotify.com/album/7s64ACactC1ifmgq8gk99p"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 233726,
       "name": "Djungeltelegrafen",
       "url": "https://open.spotify.com/track/6X8dMR7RCjRripob2e23xM"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
+        "name": "Springer Ikapp",
+        "url": "https://open.spotify.com/album/5cUibeySR9mDVYxRrtrcQk"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "duration_ms": 214033,
+      "name": "Springer ikapp",
+      "url": "https://open.spotify.com/track/5DF56PEsdLEHpqoCpzLg6I"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -855,38 +855,6 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "Rain in the River",
-        "url": "https://open.spotify.com/album/3DInaCkwipZmTpN7TviZ7P"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 192226,
-      "name": "Rain in the River",
-      "url": "https://open.spotify.com/track/5pbmSyK67ASTZExAX3TrDP"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
-        "name": "Two in This Story",
-        "url": "https://open.spotify.com/album/7znKEbUC1jtrZioJrxtDiW"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 234972,
-      "name": "Two in This Story",
-      "url": "https://open.spotify.com/track/7Etua9zkc2b11KDoRljJ77"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
         "name": "V\u00e5r b\u00e4sta tid",
         "url": "https://open.spotify.com/album/4axxNXvgZVi1BIL9Oo5bX5"
       },
@@ -903,18 +871,18 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "Make Up Your Mind",
-        "url": "https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U"
+        "name": "Two in This Story",
+        "url": "https://open.spotify.com/album/7znKEbUC1jtrZioJrxtDiW"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
         }
       ],
-      "duration_ms": 218800,
-      "name": "Make Up Your Mind",
-      "url": "https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo"
+      "duration_ms": 234972,
+      "name": "Two in This Story",
+      "url": "https://open.spotify.com/track/7Etua9zkc2b11KDoRljJ77"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -939,6 +907,54 @@
       "duration_ms": 208571,
       "name": "Til the music starts again",
       "url": "https://open.spotify.com/track/68hnuOkBpjcx2p1nJqbYR1"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
+        "name": "Make Up Your Mind",
+        "url": "https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "Make Up Your Mind",
+      "url": "https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
+        "name": "Rain in the River",
+        "url": "https://open.spotify.com/album/3DInaCkwipZmTpN7TviZ7P"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 192226,
+      "name": "Rain in the River",
+      "url": "https://open.spotify.com/track/5pbmSyK67ASTZExAX3TrDP"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
+        "name": "Sakta l\u00e4gger b\u00e5ten ut fr\u00e5n land",
+        "url": "https://open.spotify.com/album/6ePGb3D9DncLR78OOrcNza"
+      },
+      "artists": [
+        {
+          "name": "Titiyo",
+          "url": "https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM"
+        }
+      ],
+      "duration_ms": 324360,
+      "name": "Sakta l\u00e4gger b\u00e5ten ut fr\u00e5n land",
+      "url": "https://open.spotify.com/track/5WedJ2EitfzHR84d7YO2wi"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -991,22 +1007,6 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "Sakta l\u00e4gger b\u00e5ten ut fr\u00e5n land",
-        "url": "https://open.spotify.com/album/6ePGb3D9DncLR78OOrcNza"
-      },
-      "artists": [
-        {
-          "name": "Titiyo",
-          "url": "https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM"
-        }
-      ],
-      "duration_ms": 324360,
-      "name": "Sakta l\u00e4gger b\u00e5ten ut fr\u00e5n land",
-      "url": "https://open.spotify.com/track/5WedJ2EitfzHR84d7YO2wi"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
         "name": "N\u00e5gonting som aldrig h\u00e4nt",
         "url": "https://open.spotify.com/album/3rYdUbfxhvKM4jMBfc8tgq"
       },
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
+        "name": "Mother's Love Conquers All",
+        "url": "https://open.spotify.com/album/69AGXPie59h3BozlQ728ew"
+      },
+      "artists": [
+        {
+          "name": "Amanda Jenssen",
+          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
+        }
+      ],
+      "duration_ms": 317160,
+      "name": "Mother's Love Conquers All",
+      "url": "https://open.spotify.com/track/1V8t9A7kfwmv3HKi1JjJAP"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
         "name": "Who Believes In Angels?",
         "url": "https://open.spotify.com/album/1Wn7mRdFZfHwmgtRFFR42o"
       },
@@ -1055,6 +1071,22 @@
       "duration_ms": 179719,
       "name": "Little Richard\u2019s Bible",
       "url": "https://open.spotify.com/track/3AsmUHXoCqeWXP9tRTYGsR"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
+        "name": "Lake Geneva",
+        "url": "https://open.spotify.com/album/4LUkFSa4KMpoFyXbX06t0A"
+      },
+      "artists": [
+        {
+          "name": "Sophie Zelmani",
+          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
+        }
+      ],
+      "duration_ms": 221560,
+      "name": "Lake Geneva",
+      "url": "https://open.spotify.com/track/5XRO2QAIHPVwo7RXY6Ybqb"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -1095,18 +1127,18 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "Lake Geneva",
-        "url": "https://open.spotify.com/album/4LUkFSa4KMpoFyXbX06t0A"
+        "name": "Henrys gitarr",
+        "url": "https://open.spotify.com/album/1PxnAEmtU9k9i9wz2I6DUs"
       },
       "artists": [
         {
-          "name": "Sophie Zelmani",
-          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
+          "name": "Per Gessle",
+          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
         }
       ],
-      "duration_ms": 221560,
-      "name": "Lake Geneva",
-      "url": "https://open.spotify.com/track/5XRO2QAIHPVwo7RXY6Ybqb"
+      "duration_ms": 173447,
+      "name": "Henrys gitarr",
+      "url": "https://open.spotify.com/track/1nRYLgOCslp2fUgZtC9ZCQ"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -1127,18 +1159,18 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "Henrys gitarr",
-        "url": "https://open.spotify.com/album/1PxnAEmtU9k9i9wz2I6DUs"
+        "name": "Know You've Been Loved",
+        "url": "https://open.spotify.com/album/2wA37r8oJRabkUrgzrkWUI"
       },
       "artists": [
         {
-          "name": "Per Gessle",
-          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
+          "name": "Eva Dahlgren",
+          "url": "https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0"
         }
       ],
-      "duration_ms": 173447,
-      "name": "Henrys gitarr",
-      "url": "https://open.spotify.com/track/1nRYLgOCslp2fUgZtC9ZCQ"
+      "duration_ms": 216594,
+      "name": "Know You've Been Loved",
+      "url": "https://open.spotify.com/track/7FLEPid2NVZg3TePBk3eHS"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -1159,22 +1191,6 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "Know You've Been Loved",
-        "url": "https://open.spotify.com/album/2wA37r8oJRabkUrgzrkWUI"
-      },
-      "artists": [
-        {
-          "name": "Eva Dahlgren",
-          "url": "https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0"
-        }
-      ],
-      "duration_ms": 216594,
-      "name": "Know You've Been Loved",
-      "url": "https://open.spotify.com/track/7FLEPid2NVZg3TePBk3eHS"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
         "name": "ICONIC",
         "url": "https://open.spotify.com/album/5s1DZmhfJzyl3jaWKtVaS7"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 161666,
       "name": "ICONIC",
       "url": "https://open.spotify.com/track/35OYbuQ13AT4lSgk5C3Txv"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
-        "name": "Mother's Love Conquers All",
-        "url": "https://open.spotify.com/album/69AGXPie59h3BozlQ728ew"
-      },
-      "artists": [
-        {
-          "name": "Amanda Jenssen",
-          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
-        }
-      ],
-      "duration_ms": 317160,
-      "name": "Mother's Love Conquers All",
-      "url": "https://open.spotify.com/track/1V8t9A7kfwmv3HKi1JjJAP"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "\u00c4rligt misstag",
-        "url": "https://open.spotify.com/album/0Ar1oOGOq7FSZDuilbUjoW"
-      },
-      "artists": [
-        {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
-        }
-      ],
-      "duration_ms": 263360,
-      "name": "Stillhet",
-      "url": "https://open.spotify.com/track/09Xt3KWgGT25MdaNJqv8wJ"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
         "name": "Dansa i neon",
         "url": "https://open.spotify.com/album/7iAqElCjbYi83uxAuWDCZt"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 195113,
       "name": "Dansa i neon",
       "url": "https://open.spotify.com/track/3KyfoGVGB48ycd2fG1Boyt"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
+        "name": "\u00c4rligt misstag",
+        "url": "https://open.spotify.com/album/0Ar1oOGOq7FSZDuilbUjoW"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "duration_ms": 263360,
+      "name": "Stillhet",
+      "url": "https://open.spotify.com/track/09Xt3KWgGT25MdaNJqv8wJ"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "K\u00e4nner ni igen er",
-        "url": "https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj"
-      },
-      "artists": [
-        {
-          "name": "Peder Stenberg",
-          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
-        }
-      ],
-      "duration_ms": 279303,
-      "name": "K\u00e4nner ni igen er",
-      "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
         "name": "Graven vid Gullmars",
         "url": "https://open.spotify.com/album/61o6zXe3il75qvCm39Y1o1"
       },
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
+        "name": "K\u00e4nner ni igen er",
+        "url": "https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj"
+      },
+      "artists": [
+        {
+          "name": "Peder Stenberg",
+          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
+        }
+      ],
+      "duration_ms": 279303,
+      "name": "K\u00e4nner ni igen er",
+      "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
         "name": "K\u00e4rleken \u00e4r kung",
         "url": "https://open.spotify.com/album/27SBkKqyRUA4R2VsZFHrap"
       },
@@ -1375,26 +1375,6 @@
       "duration_ms": 149153,
       "name": "K\u00e4rleken \u00e4r kung",
       "url": "https://open.spotify.com/track/7rzDJT222ftI5j1FAzApNv"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
-        "name": "Arvet",
-        "url": "https://open.spotify.com/album/0REVRXEkjLpYMMMAJFGcaF"
-      },
-      "artists": [
-        {
-          "name": "Titiyo",
-          "url": "https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM"
-        },
-        {
-          "name": "Anna Ahnlund",
-          "url": "https://open.spotify.com/artist/3QgJNRjR0Qtw1qjmGTnRa5"
-        }
-      ],
-      "duration_ms": 347626,
-      "name": "Arvet",
-      "url": "https://open.spotify.com/track/014rZHk6AR8tqxcmbBW4yS"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -1419,6 +1399,26 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
+        "name": "Arvet",
+        "url": "https://open.spotify.com/album/0REVRXEkjLpYMMMAJFGcaF"
+      },
+      "artists": [
+        {
+          "name": "Titiyo",
+          "url": "https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM"
+        },
+        {
+          "name": "Anna Ahnlund",
+          "url": "https://open.spotify.com/artist/3QgJNRjR0Qtw1qjmGTnRa5"
+        }
+      ],
+      "duration_ms": 347626,
+      "name": "Arvet",
+      "url": "https://open.spotify.com/track/014rZHk6AR8tqxcmbBW4yS"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
         "name": "Goodwill",
         "url": "https://open.spotify.com/album/0HegWmmtx1ptOmFGDCvL7G"
       },
@@ -1431,6 +1431,22 @@
       "duration_ms": 316124,
       "name": "Love Is Everywhere",
       "url": "https://open.spotify.com/track/0NRT9PQ5zQtGKPQqXAVbMb"
+    },
+    {
+      "added_at": "2025-10-02 22:00:33",
+      "album": {
+        "name": "F\u00f6r v\u00e4gens vind",
+        "url": "https://open.spotify.com/album/1JYKArJzrDTQc7hUNvCY9Y"
+      },
+      "artists": [
+        {
+          "name": "Larz-Kristerz",
+          "url": "https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3"
+        }
+      ],
+      "duration_ms": 200813,
+      "name": "F\u00f6r v\u00e4gens vind",
+      "url": "https://open.spotify.com/track/2CjVjcTethPX4VLYNsZPlP"
     },
     {
       "added_at": "2025-10-02 22:00:33",
@@ -1467,22 +1483,6 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "En sommar utan dig",
-        "url": "https://open.spotify.com/album/0ibawcvzE2ExcTRji1fB8z"
-      },
-      "artists": [
-        {
-          "name": "Andreas Leksell",
-          "url": "https://open.spotify.com/artist/1dTWIwLka3fNreoT3lKbun"
-        }
-      ],
-      "duration_ms": 189593,
-      "name": "En sommar utan dig",
-      "url": "https://open.spotify.com/track/7i2vdHortsCwFlsIBT7fCJ"
-    },
-    {
-      "added_at": "2025-10-02 22:00:33",
-      "album": {
         "name": "What I'm Running From",
         "url": "https://open.spotify.com/album/6acnHsy1zaSQuHh7t984lz"
       },
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2025-10-02 22:00:33",
       "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/1roKvLZQqtzpvxiuEA5jMt"
+        "name": "En sommar utan dig",
+        "url": "https://open.spotify.com/album/0ibawcvzE2ExcTRji1fB8z"
       },
       "artists": [
         {
-          "name": "Dad Harmony",
-          "url": "https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX"
+          "name": "Andreas Leksell",
+          "url": "https://open.spotify.com/artist/1dTWIwLka3fNreoT3lKbun"
         }
       ],
-      "duration_ms": 192148,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/7yteHACWU1wnAle5GqzMbx"
+      "duration_ms": 189593,
+      "name": "En sommar utan dig",
+      "url": "https://open.spotify.com/track/7i2vdHortsCwFlsIBT7fCJ"
     }
   ],
   "unique_name": "Aktuellt",

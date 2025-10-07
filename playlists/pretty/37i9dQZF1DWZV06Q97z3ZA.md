@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZV06Q97z3ZA.md) - [plain]
 
 > Love who you want\. It’s good foreign policy\. Listen to the music from and inspired by Red, White & Royal Blue, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,008 likes - 24 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,003 likes - 24 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

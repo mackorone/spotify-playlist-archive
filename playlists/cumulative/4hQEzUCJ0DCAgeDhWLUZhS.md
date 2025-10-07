@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-528 songs - 1 day 6 hr 56 min
+529 songs - 1 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A Little Love](https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Little Love](https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux) | 3:38 | 2025-06-12 |  |
 | [A Little Too High](https://open.spotify.com/track/07UhkkoVZLfX0khL5UzpoZ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4) | 3:37 | 2025-08-08 |  |
 | [Acid Eyes](https://open.spotify.com/track/4YUcYIRBcVqQ93MnNhtU5F) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Acid Eyes / Petrified In Love](https://open.spotify.com/album/6BuzpB9fGMfmOeQVYcq1lF) | 4:33 | 2022-06-23 | 2025-06-04 |
+| [AIN'T MY GAME](https://open.spotify.com/track/3oPq1bVJJDlqXytAjsroGu) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [AIN'T MY GAME](https://open.spotify.com/album/4wPVVVZAqOGl4JMQAn50aq) | 3:01 | 2025-10-06 |  |
 | [All My Favorite Songs](https://open.spotify.com/track/6zVhXpiYbJhLJWmLGV9k1r) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [OK Human](https://open.spotify.com/album/0dL9rGQxUeIqpiUndXaQLl) | 3:22 | 2021-02-25 | 2022-03-18 |
 | [All My Friends](https://open.spotify.com/track/4dubRkWBWpYKviADvMYgv1) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [All My Friends](https://open.spotify.com/album/423eX0ukaU4IirW8RTQB2V) | 4:42 | 2020-10-10\* | 2021-05-13 |
 | [All My Friends Are Dead](https://open.spotify.com/track/2Alzd7ST1ymqz2p3vxnU6X) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [All My Friends Are Dead](https://open.spotify.com/album/4PV9MpvPEWIveMH0iXnYWg) | 3:47 | 2020-10-10\* | 2021-02-25 |

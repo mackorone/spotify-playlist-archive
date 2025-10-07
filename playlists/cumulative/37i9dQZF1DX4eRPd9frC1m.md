@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-441 songs - 23 hr 45 min
+442 songs - 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [DIFFRENT](https://open.spotify.com/track/3EvKRA9ZDmZ0RL3emxE884) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [THATSHYM](https://open.spotify.com/artist/2G6zjE7TSKRPPpY8EgAnpq) | [DIFFRENT](https://open.spotify.com/album/68m1oLyZBu6bIRB4L1sHKL) | 3:05 | 2022-02-04 | 2022-07-29 |
 | [Dimension](https://open.spotify.com/track/3IWkjBkiR4pHOkaHV52OMl) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Dimension](https://open.spotify.com/album/2DX7xiwtqyOVG3BmgyIbV4) | 2:39 | 2022-03-25 | 2023-07-09 |
 | [DISRESPECT](https://open.spotify.com/track/7LpQXlw2o9xWBE5CuATFJk) | [Bobby Blakdout](https://open.spotify.com/artist/3U7NPXeGDm8gryPUNOd46U), [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh), [Gladez](https://open.spotify.com/artist/1L4olAJRUMTi0OcWyFsprM), [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS) | [DISRESPECT](https://open.spotify.com/album/0RGq1ek6xmKTIbF3R5j1P3) | 2:19 | 2024-02-16 | 2024-05-11 |
-| [Do It To It \- Subtronics Remix](https://open.spotify.com/track/4JHL5XOuByjoHSt5bcVk0u) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Subtronics Remix\)](https://open.spotify.com/album/50ojeeiaz71JzrgDJfzsIw) | 2:27 | 2022-04-15 |  |
+| [Do It To It \- Subtronics Remix](https://open.spotify.com/track/4JHL5XOuByjoHSt5bcVk0u) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Subtronics Remix\)](https://open.spotify.com/album/50ojeeiaz71JzrgDJfzsIw) | 2:27 | 2022-04-15 | 2025-10-07 |
 | [DO SUMMIN](https://open.spotify.com/track/2bBTeoD8VGVCZsaYeGGlBw) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [iMinikon](https://open.spotify.com/artist/1JDkC5KMUaF7udEONQIKQo) | [DO SUMMIN](https://open.spotify.com/album/1xqGnAaUclFB1IoNBuOc6I) | 2:23 | 2022-03-11 | 2022-07-28 |
 | [DOMINATION](https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [DOMINATION](https://open.spotify.com/album/2jTIMYQcx87QLi8eBFmIob) | 2:48 | 2021-11-19 | 2022-01-08 |
 | [Don't Look Back](https://open.spotify.com/track/43HrWjjYGP8kXqjThk618V) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [MOELLE](https://open.spotify.com/artist/11yQZ1YJaQopAkKdRFEL4O) | [Don't Look Back](https://open.spotify.com/album/3kWl8jchAKeK2VoT2sw1cZ) | 3:58 | 2022-01-07 | 2022-07-29 |
@@ -424,6 +424,7 @@
 | [Ur Body](https://open.spotify.com/track/4KD6CYSCX2m3rxYdQQuyYP) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Ur Body](https://open.spotify.com/album/6xUwGauHFII4qhNBAldvQi) | 3:36 | 2022-03-25 | 2023-03-30 |
 | [Valley Of Violence](https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Valley Of Violence](https://open.spotify.com/album/3fblenkjskYmPpOOAm58My) | 3:58 | 2022-01-07 | 2024-06-01 |
 | [Vibe Check](https://open.spotify.com/track/6e2kwYm4qe4hFbOkLm4nbF) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Vibe Check](https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ) | 2:49 | 2021-11-19 | 2025-04-02 |
+| [VIBE CHECK](https://open.spotify.com/track/6MPx7PvWFVYVN0jeJNZeHX) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [VEGGIE CARGO LP](https://open.spotify.com/album/1IjZxOh69KTNXKDs5B7kwA) | 2:42 | 2025-09-19 |  |
 | [Voices](https://open.spotify.com/track/18nlBFTGNLAXhLfWoETAj9) | [ZÍA](https://open.spotify.com/artist/0sjnUg1Bv9J3WQ3inGpQRq) | [Voices](https://open.spotify.com/album/65LsQV7JR47jM58qvqrSfc) | 3:31 | 2021-11-19 | 2022-01-08 |
 | [VOLTAGE](https://open.spotify.com/track/227u7P0lZxYfBH9KjT1gsf) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [F\*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3](https://open.spotify.com/album/784znju28Nz5zSuRuthPcO) | 2:09 | 2025-04-04 |  |
 | [VSOP](https://open.spotify.com/track/6ghSZLNbLKVwmSgD9b9y1Y) | [BLVCKLIST](https://open.spotify.com/artist/7vu9ZhIxgYWTSSdqBsFNXf), [Lox Chatterbox](https://open.spotify.com/artist/3SFVIUlipGj3RpWCKe9s73), [Blvkstn](https://open.spotify.com/artist/70hTQzJxZt0JLvFzQVITHe), [Navii](https://open.spotify.com/artist/7rYrupDve9b3EXzS3VObTB) | [VSOP](https://open.spotify.com/album/5EG1X734YgkEsrUnJWOtS5) | 3:17 | 2021-11-19 | 2022-01-08 |

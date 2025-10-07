@@ -3775,6 +3775,28 @@
     },
     {
       "album": {
+        "name": "CAOS DLX",
+        "url": "https://open.spotify.com/album/4F0IyhC2CjV5DtBK0uo5eM"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185833,
+      "name": "COMPASSO",
+      "url": "https://open.spotify.com/track/56nFJirPajAoZ5314gjONJ"
+    },
+    {
+      "album": {
         "name": "A Cara do Enquadro",
         "url": "https://open.spotify.com/album/37Ofg8E2cjJL5B4yrrmRjn"
       },
@@ -9100,7 +9122,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 158608,
       "name": "Lei Anti O.R.U.A.M",
       "url": "https://open.spotify.com/track/3iDZj9V0RSElRwVgtmMYgJ"
@@ -14222,7 +14244,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 164307,
       "name": "PRETTY LET GIRL",
       "url": "https://open.spotify.com/track/5UBCGftdDXdaxomn1eloLC"
@@ -14736,7 +14758,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 166058,
       "name": "QUASE QUE FALEI TE AMO",
       "url": "https://open.spotify.com/track/0TA12jLkmAdhkUa9Vz84jq"
@@ -16616,7 +16638,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 164223,
       "name": "Tango (feat. Veigh & Niink)",
       "url": "https://open.spotify.com/track/6dWGBv0DMNa7sa2y7bGS2r"
@@ -17726,6 +17748,36 @@
       "duration_ms": 151982,
       "name": "Um Mano Discreto (feat. Mc Luanna)",
       "url": "https://open.spotify.com/track/0lN6Mpuubw0DRgOqYq7Fg8"
+    },
+    {
+      "album": {
+        "name": "Uma liga\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0m2i8QYwPsdt2J0qKXGwcP"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Ike Avila",
+          "url": "https://open.spotify.com/artist/3JPkFqx7D94uZRYUnNlfMh"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171130,
+      "name": "Uma liga\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/64ss3DqHafaIu9bj5leXsO"
     },
     {
       "album": {

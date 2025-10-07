@@ -2,7 +2,7 @@
 
 ### [Gbedu](https://open.spotify.com/playlist/37i9dQZF1DWUf3j9Rl2IUG)
 
-> Afrobeats' hottest singles\. Cover: Olamide & Victony
+> Afrobeats' hottest singles\. Cover: Sarz
 
 562 songs - 1 day 2 hr 32 min
 

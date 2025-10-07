@@ -8479,7 +8479,7 @@
 - [sped up songs](/playlists/pretty/37i9dQZF1DX0mWZXNs0ArA.md)
 - [sped up songs \(2\)](/playlists/pretty/6r8hObcpBOeuCd7Zua3L5E.md)
 - [speed BR](/playlists/pretty/37i9dQZF1DWYNc7NGKACaE.md)
-- [spooky halloween lofi 👻🎃](/playlists/pretty/37i9dQZF1DWXJ45m0qiQQY.md)
+- [spooky halloween lofi](/playlists/pretty/37i9dQZF1DWXJ45m0qiQQY.md)
 - [study mode](/playlists/pretty/37i9dQZF1DWSSrwtip3vZP.md)
 - [studying like oppenheimer](/playlists/pretty/1BC7DsARF1AbyFwyfGl0ay.md)
 - [suave](/playlists/pretty/37i9dQZF1DWSjuSq42neMu.md)

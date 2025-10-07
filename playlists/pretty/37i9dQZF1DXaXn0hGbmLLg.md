@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! October ambassador: <a href="spotify:artist:6YznhKZUZFVr418x7OUi3z">Roxy Dekker</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,404 likes - 93 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,419 likes - 93 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

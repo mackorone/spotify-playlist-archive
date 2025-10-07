@@ -4,7 +4,7 @@
 
 > Best of the EDM scene in India\. Cover\- Ritviz
 
-89 songs - 4 hr 54 min
+91 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Kya Hai Tu](https://open.spotify.com/track/37jRP4BxoLNvtYsTI1YFJv) | [Five YearsFromNow](https://open.spotify.com/artist/2O0JXlpMv39NnRZXjFDFbU), [Ratri](https://open.spotify.com/artist/2uZIepJ8Gjj8CwSi42JClr) | [Kya Hai Tu](https://open.spotify.com/album/3dC0Lt4ypDURm45UQjRVVB) | 3:49 | 2023-10-20 |  |
 | [Laung Gawacha](https://open.spotify.com/track/11j7AtNPZNq6BUQhAYrWvC) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Avneet Khurmi](https://open.spotify.com/artist/25rYHJjDq8FFPApQnj3LXT) | [Bass Rani](https://open.spotify.com/album/6qz7Uf0jWIEaAr7vEr5cYY) | 3:33 | 2023-10-20 | 2024-04-19 |
 | [Laung Gawacha](https://open.spotify.com/track/79JMjG6tj2zvCDEukCSgcx) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Avneet Khurmi](https://open.spotify.com/artist/25rYHJjDq8FFPApQnj3LXT) | [Bass Rani](https://open.spotify.com/album/0NgHu77V7xVb30uxtUud2J) | 3:33 | 2024-02-05 |  |
+| [LEHEREVERYWHERE \- Radio Edit](https://open.spotify.com/track/6BLnnwUut8qBCXsJu9bxAR) | [Kimeraa](https://open.spotify.com/artist/7BKkgWK7uuH709FOJTH7HF), [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [LEHEREVERYWHERE \(Radio Edit\)](https://open.spotify.com/album/3yBaC6xcpoENd7YL5C20gX) | 2:33 | 2025-10-06 |  |
 | [Leja](https://open.spotify.com/track/2wthG5BIYGo3UXPplvXscX) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP) | [Marigold Soundsystem \(Deluxe\)](https://open.spotify.com/album/5k3Z3B3ahxGdxCmCO8kwxX) | 3:18 | 2024-02-05 | 2024-04-19 |
 | [Leja](https://open.spotify.com/track/77kFQ06wtiKTmrgDlq4uwp) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP) | [Marigold Soundsystem](https://open.spotify.com/album/6t9tMKgYyud4Bb43XYxSX2) | 3:18 | 2023-10-20 |  |
 | [Lofi Dreams](https://open.spotify.com/track/3cfqBbYc8b0KTceqeiB3Xa) | [Rafiki \(IN\)](https://open.spotify.com/artist/3ROQdOAplnJWKboYPuAbik) | [Anand Mahal](https://open.spotify.com/album/4t1L4btB6EVKRwb1lTbdTQ) | 5:57 | 2024-06-06 |  |
@@ -79,6 +80,7 @@
 | [Sathi](https://open.spotify.com/track/2XBSkMQueeB4p24omMj7m7) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Sathi](https://open.spotify.com/album/5SVJr4rIkhquC1Wqv0olmM) | 3:36 | 2024-02-05 |  |
 | [Sathi](https://open.spotify.com/track/3QCL4FJOSqLrFDJmcdNSbA) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Baaraat](https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn) | 3:36 | 2023-10-20 | 2024-04-19 |
 | [Sayonee \- Sartek Remix](https://open.spotify.com/track/4H9XYpaxiCOOmDLS2zBW2G) | [VIVID](https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1), [Sartek](https://open.spotify.com/artist/7twKy3fK03wqUCnHDCL6Qc) | [Sayonee \(Sartek Remix\)](https://open.spotify.com/album/0BvLTzENzNKdkqurIMVIX0) | 3:04 | 2023-10-20 |  |
+| [Shakthi](https://open.spotify.com/track/5xOavYpYa3lROHHVULZwZB) | [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [Shakthi](https://open.spotify.com/album/1T7zssjSgnaDGpTWDCweR1) | 3:08 | 2025-10-06 |  |
 | [Smoke & Mirrors](https://open.spotify.com/track/5ENfn7MfW9ms4zmfEyoXRF) | [Rafiki \(IN\)](https://open.spotify.com/artist/3ROQdOAplnJWKboYPuAbik) | [Anand Mahal](https://open.spotify.com/album/4t1L4btB6EVKRwb1lTbdTQ) | 5:04 | 2024-06-06 |  |
 | [Somedays I Know](https://open.spotify.com/track/5KyMwqeqAVcsGQPICW3LkX) | [Whoshafee](https://open.spotify.com/artist/6PMkmGQLEWSCCml7Z0KKkx) | [Somedays I Know](https://open.spotify.com/album/2OwqlF3OJ0NQWynICBthiO) | 3:49 | 2023-10-20 |  |
 | [Summer Tune](https://open.spotify.com/track/3LyOG6zAbh8zfMRQ5QGxgl) | [Shranay Shahane](https://open.spotify.com/artist/65Jmv6ckflB3P1XWBtyuF2), [Oskar T.T](https://open.spotify.com/artist/2OVetJ63mx7fvwt2xKPfYY) | [Summer Tune](https://open.spotify.com/album/4kMR4J5qGcm62sWEC0Qb2S) | 2:41 | 2023-10-20 |  |

@@ -2,9 +2,9 @@
 
 ### [Gospel Hits](https://open.spotify.com/playlist/37i9dQZF1DX7OIddoQVdRt)
 
-> Experience the powerful messages and sounds of recent hits in Gospel music\.  Cover: Tamela Mann
+> Experience the powerful messages and sounds of recent hits in Gospel music\.  Cover: Pastor Mike Jr.
 
-293 songs - 1 day 1 hr 39 min
+294 songs - 1 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Confident](https://open.spotify.com/track/5Of5f3g3uScOZ1IwmvvJ6L) | [Bri Babineaux](https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF) | [Confident](https://open.spotify.com/album/6bFMGrmJuqfo0BKm2jBLK4) | 2:59 | 2025-08-01 |  |
 | [Constant \(feat\. Chandler Moore\)](https://open.spotify.com/track/0HqXI3iDAaABXnjjzxH44M) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz), [Anthony Gargiula](https://open.spotify.com/artist/1UMf29qpHkgsJWD2uCMSEI), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Constant](https://open.spotify.com/album/318IRWz7xJ0zZXfo1A89Mu) | 4:52 | 2025-04-04 |  |
 | [Count Your Blessings](https://open.spotify.com/track/5y8apzJP1xF42QHMjSauvN) | [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Jesus Is Born](https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6) | 5:27 | 2021-06-25 | 2023-10-07 |
-| [Dance](https://open.spotify.com/track/3bJGae8rklq4LMAjXtBE1u) | [Marcus Jordan](https://open.spotify.com/artist/27Xu3PU0agWqCrDuhHtQva) | [Dance](https://open.spotify.com/album/7bUmJWiuHOpRVRdhl6tSPZ) | 3:07 | 2024-02-02 |  |
+| [Dance](https://open.spotify.com/track/3bJGae8rklq4LMAjXtBE1u) | [Marcus Jordan](https://open.spotify.com/artist/27Xu3PU0agWqCrDuhHtQva) | [Dance](https://open.spotify.com/album/7bUmJWiuHOpRVRdhl6tSPZ) | 3:07 | 2024-02-02 | 2025-10-07 |
 | [Deserve To Win](https://open.spotify.com/track/5ilxhQWaLCTgQ109JKacW8) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Live Breathe Fight](https://open.spotify.com/album/1dXJkxzfNm889xH7VTHUOT) | 4:22 | 2025-04-04 |  |
 | [Do It Anyway](https://open.spotify.com/track/7K5ANVeHIzH73bI9WMBpeN) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [TASHA](https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP) | 2:57 | 2025-08-01 |  |
 | [Do You Believe In Love?](https://open.spotify.com/track/16TV0mMaoL0OGGwPxTlhSV) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [I Love You](https://open.spotify.com/album/0DTgeOcvfktR1pOb5srzbG) | 4:14 | 2024-02-02 |  |
@@ -152,6 +152,7 @@
 | [Lifted Up](https://open.spotify.com/track/080UdKu38T2X7BkTb9jV9u) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [Lifted Up](https://open.spotify.com/album/4fQDmcyjsy74Ae0ykQmdDd) | 4:29 | 2021-06-25 | 2024-07-19 |
 | [Live](https://open.spotify.com/track/6Oc3UJgFdqv7WDKgl3x5CI) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [You Shall Live](https://open.spotify.com/album/3TKtaibpr6H09j4z7QHaU8) | 5:18 | 2021-06-25 | 2023-08-05 |
 | [Live Again](https://open.spotify.com/track/0zOkDAntJ2JAX5B4fu6CIW) | [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D) | [Live Again](https://open.spotify.com/album/2fHKbSmk7aPjN7c9VKN4IH) | 4:14 | 2024-02-02 |  |
+| [Live Breathe Fight \- Radio Edit](https://open.spotify.com/track/3jqMQdxkyaudfrX62axCjq) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Live Breathe Fight \(Radio Edit\)](https://open.spotify.com/album/5ENgy9hJVcX6p44OamK5SY) | 3:46 | 2025-10-06 |  |
 | [Look At God](https://open.spotify.com/track/1Vpoqhhrf1zO1leCfJkKCz) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Look At God](https://open.spotify.com/album/3M28YujBKpNrnyIt4ssMRK) | 3:39 | 2024-02-02 |  |
 | [Lord Do It For Me \- Live](https://open.spotify.com/track/17WnVLXVM5qUT1z0YZN0Yw) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Imprint \(Live in Memphis\)](https://open.spotify.com/album/1gxIWgMZNfeilz6V1iFWCb) | 5:54 | 2024-02-02 |  |
 | [Love Him Like I Do](https://open.spotify.com/track/5jGyahHaLBcUB1yJ9SY2zH) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [Ruben Studdard](https://open.spotify.com/artist/0H0yrKDty3I7pPrNUSH3wW), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Revealed](https://open.spotify.com/album/1WBCOU7em7eF48hAk3i5FD) | 3:18 | 2021-06-25 | 2024-02-03 |

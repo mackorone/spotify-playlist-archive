@@ -4,7 +4,7 @@
 
 > 
 
-453 songs - 1 day 6 hr 4 min
+454 songs - 1 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [All In A Dream](https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB) | [All In A Dream](https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6) | 3:50 | 2022-06-29 | 2022-10-14 |
 | [All My Friends](https://open.spotify.com/track/2xqI4s8TsrOhhGoWZYoDS2) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [All My Friends](https://open.spotify.com/album/60emWBk5kYEXwYqoM20mco) | 3:20 | 2025-06-24 |  |
 | [All My Friends \- ATRIP Remix](https://open.spotify.com/track/3IevZM8AB31vC7W2AAfYvX) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [All My Friends \(ATRIP Remix\)](https://open.spotify.com/album/0PI83fZUcWePVmd8Fr4KEe) | 3:47 | 2025-08-15 | 2025-09-18 |
+| [All Over Me](https://open.spotify.com/track/3vyp0kTCmVHmGUvo16S98y) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [All Over Me](https://open.spotify.com/album/2oW0v37322Uqkx1hueOmxB) | 2:37 | 2025-10-06 |  |
 | [All We Need \- ODESZA VIP Remix](https://open.spotify.com/track/0gGSxG7r332R7Vgvk24GHY) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Shy Girls](https://open.spotify.com/artist/4oFdxup3UmMDNoLLITyDrs) | [The Last Goodbye \(Deluxe Edition\)](https://open.spotify.com/album/1ZSBGvgxsWbX1i5gdz4gUM) | 3:30 | 2023-04-26 | 2023-07-12 |
 | [Alma's Cove](https://open.spotify.com/track/746izveYMk1tnQZcbR5Odq) | [Yuuf](https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v) | [Alma’s Cove](https://open.spotify.com/album/05myh3AlMEmD8fqNo3HWre) | 3:54 | 2025-04-24 |  |
 | [Always Been](https://open.spotify.com/track/0oMABvqsnoeQkHMWMCu8jy) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Always Been](https://open.spotify.com/album/10SELiFQ5TbsmxH0pmAHYs) | 4:25 | 2022-06-21 | 2022-06-25 |

@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Saint\u00e9",
-  "num_followers": 88230,
+  "num_followers": 88227,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,18 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "Next Up - S4-E2",
-        "url": "https://open.spotify.com/album/0j070iW9OV0gL2IbSWIHcE"
+        "name": "Zidane",
+        "url": "https://open.spotify.com/album/38isnV6iiKFJIk1xInwqCT"
       },
       "artists": [
         {
           "name": "JBEE",
           "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
-        },
-        {
-          "name": "Mixtape Madness",
-          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
         }
       ],
-      "duration_ms": 120839,
-      "name": "Next Up - S4-E2, Pt. 1",
-      "url": "https://open.spotify.com/track/5wwPdWKbDEiybmWkZqsGGn"
+      "duration_ms": 155200,
+      "name": "Zidane",
+      "url": "https://open.spotify.com/track/6UkNTvKOC08q57jausd6aO"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -251,18 +247,22 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "Zidane",
-        "url": "https://open.spotify.com/album/38isnV6iiKFJIk1xInwqCT"
+        "name": "Next Up - S4-E2",
+        "url": "https://open.spotify.com/album/0j070iW9OV0gL2IbSWIHcE"
       },
       "artists": [
         {
           "name": "JBEE",
           "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
         }
       ],
-      "duration_ms": 155200,
-      "name": "Zidane",
-      "url": "https://open.spotify.com/track/6UkNTvKOC08q57jausd6aO"
+      "duration_ms": 120839,
+      "name": "Next Up - S4-E2, Pt. 1",
+      "url": "https://open.spotify.com/track/5wwPdWKbDEiybmWkZqsGGn"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -379,54 +379,6 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "Pain Interlude",
-        "url": "https://open.spotify.com/album/0kw7QYbgmMYuAKSQNt6GEF"
-      },
-      "artists": [
-        {
-          "name": "Tskinz",
-          "url": "https://open.spotify.com/artist/0nP9xNUoQMzpNU30wUJPap"
-        }
-      ],
-      "duration_ms": 68571,
-      "name": "Pain Interlude",
-      "url": "https://open.spotify.com/track/0tsSL4aCPiJ6ModYRFICy7"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe"
-      },
-      "artists": [
-        {
-          "name": "ArtistRD",
-          "url": "https://open.spotify.com/artist/3cdy10Sdneled46d13A74S"
-        }
-      ],
-      "duration_ms": 190615,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/34uPcK97UMz8BClljHmJkL"
-      },
-      "artists": [
-        {
-          "name": "JBEE",
-          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/68eGwObayYWZu9RZMYbUte"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
         "name": "Hooligan In LDN",
         "url": "https://open.spotify.com/album/76YBL1gnAswMln62bIgtLP"
       },
@@ -447,6 +399,54 @@
       "duration_ms": 152390,
       "name": "Hooligan - BexBlu x qtheory Edit",
       "url": "https://open.spotify.com/track/0Wwb3WR2RrI6anhw8MogBv"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
+        "name": "Pain Interlude",
+        "url": "https://open.spotify.com/album/0kw7QYbgmMYuAKSQNt6GEF"
+      },
+      "artists": [
+        {
+          "name": "Tskinz",
+          "url": "https://open.spotify.com/artist/0nP9xNUoQMzpNU30wUJPap"
+        }
+      ],
+      "duration_ms": 68571,
+      "name": "Pain Interlude",
+      "url": "https://open.spotify.com/track/0tsSL4aCPiJ6ModYRFICy7"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/34uPcK97UMz8BClljHmJkL"
+      },
+      "artists": [
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/68eGwObayYWZu9RZMYbUte"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe"
+      },
+      "artists": [
+        {
+          "name": "ArtistRD",
+          "url": "https://open.spotify.com/artist/3cdy10Sdneled46d13A74S"
+        }
+      ],
+      "duration_ms": 190615,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -543,6 +543,22 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/7bI6MVn2einWQk8mvuKdVe"
+      },
+      "artists": [
+        {
+          "name": "AMB",
+          "url": "https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7"
+        }
+      ],
+      "duration_ms": 203964,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/0DZ2oAxxLtD76a5gxGj92k"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
         "name": "Next Up - S3-E47",
         "url": "https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 141740,
       "name": "Next Up - S3-E47, Pt.1",
       "url": "https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
-        "name": "Lies",
-        "url": "https://open.spotify.com/album/7bI6MVn2einWQk8mvuKdVe"
-      },
-      "artists": [
-        {
-          "name": "AMB",
-          "url": "https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7"
-        }
-      ],
-      "duration_ms": 203964,
-      "name": "Lies",
-      "url": "https://open.spotify.com/track/0DZ2oAxxLtD76a5gxGj92k"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "DPMO",
-        "url": "https://open.spotify.com/album/0a6VY1IPF1Gv77FeCXp7XY"
-      },
-      "artists": [
-        {
-          "name": "Equation Billionz",
-          "url": "https://open.spotify.com/artist/2VIodUBANwxtofvbxmZ0PL"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "DPMO",
-      "url": "https://open.spotify.com/track/2Se2z9lj8LLzTdNP6GnhJJ"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
         "name": "Circle Of Life",
         "url": "https://open.spotify.com/album/1IYraEMImyyhDHxXezx6zL"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 257142,
       "name": "Circle Of Life",
       "url": "https://open.spotify.com/track/05r45PbXeBlE1DZ1AhidQX"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
+        "name": "DPMO",
+        "url": "https://open.spotify.com/album/0a6VY1IPF1Gv77FeCXp7XY"
+      },
+      "artists": [
+        {
+          "name": "Equation Billionz",
+          "url": "https://open.spotify.com/artist/2VIodUBANwxtofvbxmZ0PL"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "DPMO",
+      "url": "https://open.spotify.com/track/2Se2z9lj8LLzTdNP6GnhJJ"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
+        "name": "Why you gotta lie?",
+        "url": "https://open.spotify.com/album/1ZXPhI3Vizsp17BV9lrlg7"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "duration_ms": 156053,
+      "name": "Why you gotta lie?",
+      "url": "https://open.spotify.com/track/1wLzyMznZ5BmyRLAmxpDXa"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
         "name": "Love Don't Change",
         "url": "https://open.spotify.com/album/6orzD3w7CUbkxnKYRa0Pg5"
       },
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "Why you gotta lie?",
-        "url": "https://open.spotify.com/album/1ZXPhI3Vizsp17BV9lrlg7"
-      },
-      "artists": [
-        {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
-        }
-      ],
-      "duration_ms": 156053,
-      "name": "Why you gotta lie?",
-      "url": "https://open.spotify.com/track/1wLzyMznZ5BmyRLAmxpDXa"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
         "name": "9AM",
         "url": "https://open.spotify.com/album/0uG0IQx1hfrr4vVnRAQKip"
       },
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "Late Night Trips",
-        "url": "https://open.spotify.com/album/64atF2k7nqkT9oonM5LTjE"
-      },
-      "artists": [
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
-        }
-      ],
-      "duration_ms": 97436,
-      "name": "Late Night Trips",
-      "url": "https://open.spotify.com/track/0hVvkB1j1SC9FQHShpQoYU"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
         "name": "Trust Issues",
         "url": "https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 120000,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
+        "name": "Late Night Trips",
+        "url": "https://open.spotify.com/album/64atF2k7nqkT9oonM5LTjE"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        }
+      ],
+      "duration_ms": 97436,
+      "name": "Late Night Trips",
+      "url": "https://open.spotify.com/track/0hVvkB1j1SC9FQHShpQoYU"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27"
-      },
-      "artists": [
-        {
-          "name": "Emzorearner",
-          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
-        }
-      ],
-      "duration_ms": 152571,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
         "name": "Deeper Than Drill",
         "url": "https://open.spotify.com/album/5I4QSaqKhNLjvyZ9AAPXuG"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 174545,
       "name": "Deeper Than Drill",
       "url": "https://open.spotify.com/track/0aA0NgRHcV0mVKyTE5wjGq"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27"
+      },
+      "artists": [
+        {
+          "name": "Emzorearner",
+          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX"
     },
     {
       "added_at": "2025-05-30 11:57:05",

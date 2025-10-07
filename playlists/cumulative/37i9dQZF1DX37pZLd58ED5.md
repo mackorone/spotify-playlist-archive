@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Tony Boy
 
-258 songs - 13 hr 31 min
+259 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [DOPPIO SENSO \(feat\. Guè\)](https://open.spotify.com/track/0foFUrJ9lETkHQFZ8Jm6LD) | [333 Mob](https://open.spotify.com/artist/1kWgYwcvWUeGX4wEJkyJx0), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq), [NiceKidd](https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [OSTIL3](https://open.spotify.com/album/49ZyGerSEt8m7LXLeNWW6f) | 2:31 | 2025-09-18 |  |
 | [DUBBI](https://open.spotify.com/track/4gxRyOZefp95AXZFaztdtO) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:54 | 2022-07-14 | 2024-04-19 |
 | [DUBBI](https://open.spotify.com/track/7fI5RJec8R3jJ95pljZnkN) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp) | 3:54 | 2022-04-28 |  |
+| [DUOMO](https://open.spotify.com/track/4vamBYGnZNodN7lp2Ma6iL) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [MATTIA](https://open.spotify.com/album/4v9jvZy9cIvTceWv4XQy0O) | 3:44 | 2025-10-06 |  |
 | [EGOISTA](https://open.spotify.com/track/0XuagpK65bgzitFLCmvEKc) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [SE DIO VUOLE](https://open.spotify.com/album/6vWYpH5HETFPhFDTZ1XmoB) | 2:33 | 2025-05-15 |  |
 | [Eravamo Re](https://open.spotify.com/track/6VwGytUkC11Mj5kcHXggYj) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Vero](https://open.spotify.com/album/4TJpiqlHBrwm7nLpOIQjZ7) | 3:02 | 2022-04-28 | 2022-05-20 |
 | [EURO](https://open.spotify.com/track/0jyNaBwi570k2Y5s7FwqDW) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:23 | 2022-07-01 | 2022-09-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > Find hope in Him in every note of these songs full of faith!
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,762 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,782 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 46 | [Where You Are](https://open.spotify.com/track/4IjgGxTQDs9Bf31TGtdxOv) | [Mitch Langley](https://open.spotify.com/artist/3LtLqBXTdKiroUNFlqZLOM), [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR), [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [Where You Are](https://open.spotify.com/album/3aOI1EJVtokwfq2tob9xkQ) | 2:27 |
 | 47 | [Nothing Into Something](https://open.spotify.com/track/5eYJPYS5sUGDIjcghrSeaC) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [BOATS](https://open.spotify.com/album/7dJ4Rpe2fpcxEl5kGdUDpZ) | 2:24 |
 | 48 | [Not The End](https://open.spotify.com/track/4UxBbFETMwBIHhXtlAI0Po) | [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Not The End](https://open.spotify.com/album/1z9cu0bqNqoJ0YHZqzmMM8) | 2:41 |
-| 49 | [Hold On](https://open.spotify.com/track/6njtDzvCTECqQQCGjnQcSS) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Hold On](https://open.spotify.com/album/0r1SPhUGL54zILNycUBKsE) | 3:34 |
-| 50 | [I Believe](https://open.spotify.com/track/4CG0XPNBUUaHnLt7JBZX5z) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [Introspection](https://open.spotify.com/album/1ZMlfIdC2hbPPthzqe4dnR) | 2:58 |
+| 49 | [I Believe](https://open.spotify.com/track/4CG0XPNBUUaHnLt7JBZX5z) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [Introspection](https://open.spotify.com/album/1ZMlfIdC2hbPPthzqe4dnR) | 2:58 |
+| 50 | [Hold On](https://open.spotify.com/track/6njtDzvCTECqQQCGjnQcSS) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Hold On](https://open.spotify.com/album/0r1SPhUGL54zILNycUBKsE) | 3:34 |
 | 51 | [Praise Opens Prison Doors \- Live](https://open.spotify.com/track/4hiRAyATem0OCmor3JSqAB) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Praise Opens Prison Doors \(Live\)](https://open.spotify.com/album/58XlLMgCX56JVfNJnaZfHt) | 5:23 |
 | 52 | [It Is Well \- Live](https://open.spotify.com/track/09ZvDOJkKi76sig28txpQn) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5), [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [Hymns \(Live\)](https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u) | 7:06 |
 | 53 | [Just Like Jesus](https://open.spotify.com/track/5n2McD0ceb8erMwb9KmSTx) | [Iveth Luna](https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv) | [Just Like Jesus](https://open.spotify.com/album/49ZSXWroWWx4MYkIHuLJHG) | 3:54 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 64 | [Safe](https://open.spotify.com/track/5ODnTtYMnow1nV6WIdS87j) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Welcome to Alive City](https://open.spotify.com/album/77MfLEjnam9cGd5mCRFqqt) | 3:19 |
 | 65 | [But God](https://open.spotify.com/track/2cRcWaw2Xg0RY7s5ZgrTZ3) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Love, Evvie McKinney](https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb) | 3:50 |
 | 66 | [Gonna Be Alright \- Live](https://open.spotify.com/track/3D2Caq4sNDP5zt2Iipr6Yj) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Ryan Ellis Live](https://open.spotify.com/album/33b2OZa8zl29Bcx7qVmjig) | 4:30 |
-| 67 | [Good Things \- \(Live\) \[Acoustic\]](https://open.spotify.com/track/5gWpJE4tZiR9xnauOXUo5R) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Perspective](https://open.spotify.com/album/73AHTbSXLzgEciD1y3Lp0L) | 5:38 |
-| 68 | [Do It For You](https://open.spotify.com/track/6H6n4xsWSbOXSmTe0awjgL) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Do It For You](https://open.spotify.com/album/4POLqM7psW9GiZCt8aWmuJ) | 3:07 |
+| 67 | [Do It For You](https://open.spotify.com/track/6H6n4xsWSbOXSmTe0awjgL) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Do It For You](https://open.spotify.com/album/4POLqM7psW9GiZCt8aWmuJ) | 3:07 |
+| 68 | [Good Things \- \(Live\) \[Acoustic\]](https://open.spotify.com/track/5gWpJE4tZiR9xnauOXUo5R) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Perspective](https://open.spotify.com/album/73AHTbSXLzgEciD1y3Lp0L) | 5:38 |
 | 69 | [Keep Looking Up \- Radio Mix](https://open.spotify.com/track/2Ly8NLI7sQ0LOicM7sAHRf) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Keep Looking Up \(Radio Mix\)](https://open.spotify.com/album/2JX7K0eXBgECFklS7qwygf) | 3:32 |
 | 70 | [How Deep The Father's Love For Us](https://open.spotify.com/track/2Jo6iBlMoxmUEmrAYb4Gvz) | [Sarah Sadler](https://open.spotify.com/artist/4RnUOaFWKWEFcCaqkmuIv3) | [The Ultimate Collection: Worship](https://open.spotify.com/album/4TOWBYWhX0juUikLgFpc3B) | 3:34 |
 | 71 | [One Heart at a Time](https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [One Heart at a Time](https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG) | 4:22 |

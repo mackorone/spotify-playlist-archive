@@ -1,29 +1,13 @@
 {
   "description": "The future hits of today. \n",
-  "num_followers": 95341,
+  "num_followers": 95466,
   "original_name": "NXT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANHhXDknAOv4mdAUdAf4JNzkoYAw",
+  "snapshot_id": "AAAAAB1XydcYfqqC84lvWEAgKls6h6Q/",
   "tracks": [
-    {
-      "added_at": "2025-10-03 16:43:49",
-      "album": {
-        "name": "I Wish I Had More Time",
-        "url": "https://open.spotify.com/album/3vmGWdWH4DkbiLWlb3s9kb"
-      },
-      "artists": [
-        {
-          "name": "Braye",
-          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
-        }
-      ],
-      "duration_ms": 189999,
-      "name": "I Wish I Had More Time",
-      "url": "https://open.spotify.com/track/5BQML4ZWArKHRCiQuQ4cDT"
-    },
     {
       "added_at": "2025-10-03 16:43:49",
       "album": {
@@ -307,6 +291,22 @@
       "duration_ms": 166779,
       "name": "Ruwa",
       "url": "https://open.spotify.com/track/54y06gXWPYQHxrgJU5CsYb"
+    },
+    {
+      "added_at": "2025-10-06 13:06:14",
+      "album": {
+        "name": "Kweku Jesus",
+        "url": "https://open.spotify.com/album/5PVHieQPIKB81wkDQ4SBz2"
+      },
+      "artists": [
+        {
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Mmerepa",
+      "url": "https://open.spotify.com/track/7JksSwrAnm544HQ89kzr6i"
     },
     {
       "added_at": "2025-10-03 16:43:49",

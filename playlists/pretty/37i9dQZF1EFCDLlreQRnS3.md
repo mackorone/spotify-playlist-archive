@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 81 | [Oasis](https://open.spotify.com/track/5gFMmlneOGAKlGYEKQIFEX) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Oasis](https://open.spotify.com/album/6xOinKBhlnTjIdMRCJgg4I) | 2:43 |
 | 82 | [Comfortable](https://open.spotify.com/track/4h7ZS66TqqTnQcNn9DDZkx) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Résumé](https://open.spotify.com/album/1LdMSrbrbw2Gabc5na3mcO) | 3:56 |
 | 83 | [Wallet, Keys & Phone](https://open.spotify.com/track/7mux2YcZHv7HQPfj8wPlcG) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5), [French Pirates](https://open.spotify.com/artist/0kTuCWShcfxSpOKQ2xYdf3) | [Wallet, Keys & Phone](https://open.spotify.com/album/2AdOab51bDityCFh0kROI2) | 2:53 |
-| 84 | [Bilder im Kopf](https://open.spotify.com/track/2R1zXcvgZz74fjZM3VUQlT) | [Ella Endlich](https://open.spotify.com/artist/5CbCf86F6Ecw5oXkzlnDF2) | [Im Vertrauen](https://open.spotify.com/album/224TphESj01IM70mwROTgj) | 3:10 |
-| 85 | [Yeah Yeah Yeah](https://open.spotify.com/track/7pJeq5nRA2NhrRuIxvM3ZV) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv), [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:55 |
+| 84 | [Yeah Yeah Yeah](https://open.spotify.com/track/7pJeq5nRA2NhrRuIxvM3ZV) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv), [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:55 |
+| 85 | [Bilder im Kopf](https://open.spotify.com/track/2R1zXcvgZz74fjZM3VUQlT) | [Ella Endlich](https://open.spotify.com/artist/5CbCf86F6Ecw5oXkzlnDF2) | [Im Vertrauen](https://open.spotify.com/album/224TphESj01IM70mwROTgj) | 3:10 |
 | 86 | [Infinity](https://open.spotify.com/track/5YO9riGOJgBA10bDFdWU6T) | [Lavid](https://open.spotify.com/artist/6uWv9tuRobkbltKnvzXVoX), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Infinity](https://open.spotify.com/album/6JxiApeLVGYcw0vUdCpIrV) | 3:08 |
 | 87 | [Fine Without You](https://open.spotify.com/track/2ADQwsjzZIEJYi2QtfAvqc) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Fine Without You](https://open.spotify.com/album/2cgbaxqFkFGzx1gHzQN9zW) | 3:04 |
 | 88 | [Foundations](https://open.spotify.com/track/7lkwDDJUosg2aejawcon9O) | [Adam Ulanicki](https://open.spotify.com/artist/1vpmKYpHvgrwxooa6PCtsQ) | [Foundations](https://open.spotify.com/album/7B0pezOTRnXZQyURsjirjc) | 2:50 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 123 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
 | 124 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `Ab+FMgAAAAAdZ5ETGHIGWGZ45ElBMOcG`
+Snapshot ID: `Ab+KyAAAAADfAnSKVrifYqkrCAN+Xrit`

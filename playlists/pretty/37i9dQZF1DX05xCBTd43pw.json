@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland.  Cover: Linda Elys",
-  "num_followers": 38028,
+  "num_followers": 38022,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,38 @@
     {
       "added_at": "2025-10-02 22:00:50",
       "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/2t6x3lyAeeHDtPG8gfguE8"
+      },
+      "artists": [
+        {
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+        }
+      ],
+      "duration_ms": 202053,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/0Y3OX3KZVsyG23qyV1JgYp"
+    },
+    {
+      "added_at": "2025-10-02 22:00:50",
+      "album": {
+        "name": "Casanova",
+        "url": "https://open.spotify.com/album/6iELgLhTy8AzINTUH2PQ1c"
+      },
+      "artists": [
+        {
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
+        }
+      ],
+      "duration_ms": 182247,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/7DKqquL8njykv59YgLtJU9"
+    },
+    {
+      "added_at": "2025-10-02 22:00:50",
+      "album": {
         "name": "For The Night",
         "url": "https://open.spotify.com/album/0IwnFtcplQN6d7PBctCIpw"
       },
@@ -383,38 +415,6 @@
       "duration_ms": 165206,
       "name": "Fire To The Sky",
       "url": "https://open.spotify.com/track/64z7HtT0PDMdlWaUwacAuz"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/2t6x3lyAeeHDtPG8gfguE8"
-      },
-      "artists": [
-        {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
-        }
-      ],
-      "duration_ms": 202053,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/0Y3OX3KZVsyG23qyV1JgYp"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "Casanova",
-        "url": "https://open.spotify.com/album/6iELgLhTy8AzINTUH2PQ1c"
-      },
-      "artists": [
-        {
-          "name": "Nemo",
-          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
-        }
-      ],
-      "duration_ms": 182247,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/7DKqquL8njykv59YgLtJU9"
     },
     {
       "added_at": "2025-10-02 22:00:50",
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-10-02 22:00:50",
       "album": {
-        "name": "One Day Will Be All I Have",
-        "url": "https://open.spotify.com/album/6P51bLceVuWLrKxm4C0mIQ"
-      },
-      "artists": [
-        {
-          "name": "Black Sea Dahu",
-          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
-        }
-      ],
-      "duration_ms": 329980,
-      "name": "One Day Will Be All I Have",
-      "url": "https://open.spotify.com/track/19wPR7FOTGE51RNh9h5ze3"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
         "name": "Flatline",
         "url": "https://open.spotify.com/album/5UaiSKEsyY4vjBBR9ZIodw"
       },
@@ -599,6 +583,22 @@
     {
       "added_at": "2025-10-02 22:00:50",
       "album": {
+        "name": "One Day Will Be All I Have",
+        "url": "https://open.spotify.com/album/6P51bLceVuWLrKxm4C0mIQ"
+      },
+      "artists": [
+        {
+          "name": "Black Sea Dahu",
+          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
+        }
+      ],
+      "duration_ms": 329980,
+      "name": "One Day Will Be All I Have",
+      "url": "https://open.spotify.com/track/19wPR7FOTGE51RNh9h5ze3"
+    },
+    {
+      "added_at": "2025-10-02 22:00:50",
+      "album": {
         "name": "Heat",
         "url": "https://open.spotify.com/album/2KQYDXvp5OYQLJxjzmRTmu"
       },
@@ -611,22 +611,6 @@
       "duration_ms": 163917,
       "name": "Heat",
       "url": "https://open.spotify.com/track/0R7Q7wmgqioO8z7Bf5KnAU"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "Silhouette",
-        "url": "https://open.spotify.com/album/32JCcFJtu9VVz8GgcTZ4CY"
-      },
-      "artists": [
-        {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
-        }
-      ],
-      "duration_ms": 176949,
-      "name": "Silhouette",
-      "url": "https://open.spotify.com/track/3S0VGP8aFRl9prAYjEU8Ea"
     },
     {
       "added_at": "2025-10-02 22:00:50",
@@ -647,38 +631,6 @@
     {
       "added_at": "2025-10-02 22:00:50",
       "album": {
-        "name": "Love Me Better",
-        "url": "https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 133200,
-      "name": "Love Me Better",
-      "url": "https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "Devil On My Back",
-        "url": "https://open.spotify.com/album/2JbmroGB0UrTPICePQXARj"
-      },
-      "artists": [
-        {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
-        }
-      ],
-      "duration_ms": 194741,
-      "name": "Devil On My Back",
-      "url": "https://open.spotify.com/track/2DBg3vkLLkZYsr0OAUrZH9"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
         "name": "Good",
         "url": "https://open.spotify.com/album/17d8AeWoYu428twNlwtXjI"
       },
@@ -691,6 +643,38 @@
       "duration_ms": 227413,
       "name": "Good",
       "url": "https://open.spotify.com/track/22LulLIuYZS8qspHQeVi7w"
+    },
+    {
+      "added_at": "2025-10-02 22:00:50",
+      "album": {
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/32JCcFJtu9VVz8GgcTZ4CY"
+      },
+      "artists": [
+        {
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+        }
+      ],
+      "duration_ms": 176949,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/3S0VGP8aFRl9prAYjEU8Ea"
+    },
+    {
+      "added_at": "2025-10-02 22:00:50",
+      "album": {
+        "name": "Love Me Better",
+        "url": "https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 133200,
+      "name": "Love Me Better",
+      "url": "https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2"
     },
     {
       "added_at": "2025-10-02 22:00:50",
@@ -727,6 +711,22 @@
     {
       "added_at": "2025-10-02 22:00:50",
       "album": {
+        "name": "Devil On My Back",
+        "url": "https://open.spotify.com/album/2JbmroGB0UrTPICePQXARj"
+      },
+      "artists": [
+        {
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+        }
+      ],
+      "duration_ms": 194741,
+      "name": "Devil On My Back",
+      "url": "https://open.spotify.com/track/2DBg3vkLLkZYsr0OAUrZH9"
+    },
+    {
+      "added_at": "2025-10-02 22:00:50",
+      "album": {
         "name": "Full 180",
         "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
       },
@@ -743,18 +743,18 @@
     {
       "added_at": "2025-10-02 22:00:50",
       "album": {
-        "name": "Heal Me",
-        "url": "https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC"
+        "name": "Julia?",
+        "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
       },
       "artists": [
         {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
         }
       ],
-      "duration_ms": 215300,
-      "name": "Heal Me",
-      "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
+      "duration_ms": 224464,
+      "name": "Julia?",
+      "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
     },
     {
       "added_at": "2025-10-02 22:00:50",
@@ -771,22 +771,6 @@
       "duration_ms": 197573,
       "name": "LEAVE ME ALONE",
       "url": "https://open.spotify.com/track/7jCDiKF2pGrNKIKrftGG39"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "Julia?",
-        "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
-      },
-      "artists": [
-        {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
-        }
-      ],
-      "duration_ms": 224464,
-      "name": "Julia?",
-      "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
     },
     {
       "added_at": "2025-10-02 22:00:50",
@@ -819,6 +803,22 @@
       "duration_ms": 122410,
       "name": "Lost In You",
       "url": "https://open.spotify.com/track/1vQAiK2MWj2D2zgYq6LPbA"
+    },
+    {
+      "added_at": "2025-10-02 22:00:50",
+      "album": {
+        "name": "Heal Me",
+        "url": "https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC"
+      },
+      "artists": [
+        {
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+        }
+      ],
+      "duration_ms": 215300,
+      "name": "Heal Me",
+      "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
     },
     {
       "added_at": "2025-10-02 22:00:50",
@@ -923,38 +923,6 @@
     {
       "added_at": "2025-10-02 22:00:50",
       "album": {
-        "name": "Playing House",
-        "url": "https://open.spotify.com/album/6asLr7iRg5ruj1vatTv75u"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 218193,
-      "name": "Playing House",
-      "url": "https://open.spotify.com/track/3kE87cljGo6RY5hbjFmkRK"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "fire",
-        "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
-      },
-      "artists": [
-        {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
-        }
-      ],
-      "duration_ms": 135866,
-      "name": "fire",
-      "url": "https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
         "name": "Heaven or Hell",
         "url": "https://open.spotify.com/album/1KD8pU9XCRSfQmbyafLGZ9"
       },
@@ -987,6 +955,22 @@
     {
       "added_at": "2025-10-02 22:00:50",
       "album": {
+        "name": "Playing House",
+        "url": "https://open.spotify.com/album/6asLr7iRg5ruj1vatTv75u"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 218193,
+      "name": "Playing House",
+      "url": "https://open.spotify.com/track/3kE87cljGo6RY5hbjFmkRK"
+    },
+    {
+      "added_at": "2025-10-02 22:00:50",
+      "album": {
         "name": "Maggie",
         "url": "https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp"
       },
@@ -1003,22 +987,6 @@
     {
       "added_at": "2025-10-02 22:00:50",
       "album": {
-        "name": "The Promise",
-        "url": "https://open.spotify.com/album/1vuq0WLHEMPZ1xRcMWJkiM"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 178857,
-      "name": "The Promise",
-      "url": "https://open.spotify.com/track/1kybBeFkZLhwkEDipwQWVL"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
         "name": "Low Tide",
         "url": "https://open.spotify.com/album/1jmxE0EMixooHHrPMwLGeM"
       },
@@ -1031,6 +999,22 @@
       "duration_ms": 161340,
       "name": "Low Tide",
       "url": "https://open.spotify.com/track/44LdsGW3nKLfkp0WeInuEC"
+    },
+    {
+      "added_at": "2025-10-02 22:00:50",
+      "album": {
+        "name": "fire",
+        "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "duration_ms": 135866,
+      "name": "fire",
+      "url": "https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo"
     },
     {
       "added_at": "2025-10-02 22:00:50",
@@ -1067,6 +1051,54 @@
     {
       "added_at": "2025-10-02 22:00:50",
       "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/1vuq0WLHEMPZ1xRcMWJkiM"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "duration_ms": 178857,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/1kybBeFkZLhwkEDipwQWVL"
+    },
+    {
+      "added_at": "2025-10-02 22:00:50",
+      "album": {
+        "name": "Wanted To Know",
+        "url": "https://open.spotify.com/album/6vW1NPnaoqWqQ8wgBnM4wR"
+      },
+      "artists": [
+        {
+          "name": "Marlin",
+          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
+        }
+      ],
+      "duration_ms": 141312,
+      "name": "Wanted To Know",
+      "url": "https://open.spotify.com/track/5JCaPtPEol2nS4Hyuhri6R"
+    },
+    {
+      "added_at": "2025-10-02 22:00:50",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 164851,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
+    },
+    {
+      "added_at": "2025-10-02 22:00:50",
+      "album": {
         "name": "How Much Can a Heart Break",
         "url": "https://open.spotify.com/album/6UO64Z8AgMqPdSgoljbaRx"
       },
@@ -1099,22 +1131,6 @@
     {
       "added_at": "2025-10-02 22:00:50",
       "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 164851,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
         "name": "Weird Kid",
         "url": "https://open.spotify.com/album/5YBiuHnpqXl0UBC3tthNj6"
       },
@@ -1127,54 +1143,6 @@
       "duration_ms": 225099,
       "name": "Weird Kid",
       "url": "https://open.spotify.com/track/6ChiiuzwA5FV2Szt22nJ7s"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "Wanted To Know",
-        "url": "https://open.spotify.com/album/6vW1NPnaoqWqQ8wgBnM4wR"
-      },
-      "artists": [
-        {
-          "name": "Marlin",
-          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
-        }
-      ],
-      "duration_ms": 141312,
-      "name": "Wanted To Know",
-      "url": "https://open.spotify.com/track/5JCaPtPEol2nS4Hyuhri6R"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "Starcrossed",
-        "url": "https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 183157,
-      "name": "Starcrossed",
-      "url": "https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "Pretty Girl Thriller",
-        "url": "https://open.spotify.com/album/3510yYBDvh1DZxom9nOhlL"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 175615,
-      "name": "Pretty Girl Thriller",
-      "url": "https://open.spotify.com/track/0UwuMzIsMzLEY6pu8eS3Gn"
     },
     {
       "added_at": "2025-10-02 22:00:50",
@@ -1195,6 +1163,22 @@
     {
       "added_at": "2025-10-02 22:00:50",
       "album": {
+        "name": "Pretty Girl Thriller",
+        "url": "https://open.spotify.com/album/3510yYBDvh1DZxom9nOhlL"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 175615,
+      "name": "Pretty Girl Thriller",
+      "url": "https://open.spotify.com/track/0UwuMzIsMzLEY6pu8eS3Gn"
+    },
+    {
+      "added_at": "2025-10-02 22:00:50",
+      "album": {
         "name": "SPOT",
         "url": "https://open.spotify.com/album/0yNivuBBzDNgyRzkq5mEQU"
       },
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2025-10-02 22:00:50",
       "album": {
+        "name": "Starcrossed",
+        "url": "https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "duration_ms": 183157,
+      "name": "Starcrossed",
+      "url": "https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe"
+    },
+    {
+      "added_at": "2025-10-02 22:00:50",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/6Rutg4L3Or3wdZgmH4muOV"
       },
@@ -1223,6 +1223,22 @@
       "duration_ms": 167450,
       "name": "For You",
       "url": "https://open.spotify.com/track/4cwymvMH81iHgtQJsq12z1"
+    },
+    {
+      "added_at": "2025-10-02 22:00:50",
+      "album": {
+        "name": "Release Me",
+        "url": "https://open.spotify.com/album/0zEDzgkc06V4vaoITIHieR"
+      },
+      "artists": [
+        {
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+        }
+      ],
+      "duration_ms": 190652,
+      "name": "Release Me",
+      "url": "https://open.spotify.com/track/3urxkVanctj4z2LjME3Yb8"
     },
     {
       "added_at": "2025-10-02 22:00:50",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2025-10-02 22:00:50",
       "album": {
-        "name": "Release Me",
-        "url": "https://open.spotify.com/album/0zEDzgkc06V4vaoITIHieR"
-      },
-      "artists": [
-        {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
-        }
-      ],
-      "duration_ms": 190652,
-      "name": "Release Me",
-      "url": "https://open.spotify.com/track/3urxkVanctj4z2LjME3Yb8"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
         "name": "I Just Wanna Turn It Up",
         "url": "https://open.spotify.com/album/125TmODMhsJIu1NxGIoGld"
       },
@@ -1275,22 +1275,6 @@
       "duration_ms": 164966,
       "name": "I Just Wanna Turn It Up",
       "url": "https://open.spotify.com/track/7pV8EPFQ4k9JWldLOpVoSW"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "I'm Getting Tired of Me",
-        "url": "https://open.spotify.com/album/3fkjAF6mRMGlFxyisnRH3c"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 216224,
-      "name": "I\u2019m Getting Tired of Me",
-      "url": "https://open.spotify.com/track/5uVnCPwUSw1ITK92eq0cSY"
     },
     {
       "added_at": "2025-10-02 22:00:50",
@@ -1359,6 +1343,22 @@
       "duration_ms": 189310,
       "name": "Again",
       "url": "https://open.spotify.com/track/4wcLynPZWGPThCEdDUFVMx"
+    },
+    {
+      "added_at": "2025-10-02 22:00:50",
+      "album": {
+        "name": "I'm Getting Tired of Me",
+        "url": "https://open.spotify.com/album/3fkjAF6mRMGlFxyisnRH3c"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "duration_ms": 216224,
+      "name": "I\u2019m Getting Tired of Me",
+      "url": "https://open.spotify.com/track/5uVnCPwUSw1ITK92eq0cSY"
     },
     {
       "added_at": "2025-10-02 22:00:50",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2025-10-02 22:00:50",
       "album": {
+        "name": "Gold Rush",
+        "url": "https://open.spotify.com/album/15anfhhRhsAdkmBq9qHOra"
+      },
+      "artists": [
+        {
+          "name": "Veronica Fusaro",
+          "url": "https://open.spotify.com/artist/2Nu9BiGXLIAbTs0mrbsmRW"
+        }
+      ],
+      "duration_ms": 162084,
+      "name": "Gold Rush",
+      "url": "https://open.spotify.com/track/5dCV3T0S8p5O4btsyd6uFb"
+    },
+    {
+      "added_at": "2025-10-02 22:00:50",
+      "album": {
         "name": "Sch\u00f6n",
         "url": "https://open.spotify.com/album/6SgeUyLbCBVSgohKv8x1Ir"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 196400,
       "name": "Tontauben",
       "url": "https://open.spotify.com/track/2h0Mz4cN7JV79zeLmnMscN"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "Gold Rush",
-        "url": "https://open.spotify.com/album/15anfhhRhsAdkmBq9qHOra"
-      },
-      "artists": [
-        {
-          "name": "Veronica Fusaro",
-          "url": "https://open.spotify.com/artist/2Nu9BiGXLIAbTs0mrbsmRW"
-        }
-      ],
-      "duration_ms": 162084,
-      "name": "Gold Rush",
-      "url": "https://open.spotify.com/track/5dCV3T0S8p5O4btsyd6uFb"
     },
     {
       "added_at": "2025-10-02 22:00:50",
@@ -1619,18 +1619,22 @@
     {
       "added_at": "2025-10-02 22:00:50",
       "album": {
-        "name": "July",
-        "url": "https://open.spotify.com/album/1tgXKouYi8tcMfSRzeH2E2"
+        "name": "Descontrol",
+        "url": "https://open.spotify.com/album/39VSGS38v6WGZsucZ1wa0r"
       },
       "artists": [
         {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+          "name": "Loco Escrito",
+          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
+        },
+        {
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
         }
       ],
-      "duration_ms": 172486,
-      "name": "Chicago",
-      "url": "https://open.spotify.com/track/5hkOl3aXRWS6Z5kLT3DUm7"
+      "duration_ms": 158838,
+      "name": "Descontrol",
+      "url": "https://open.spotify.com/track/2USP7uCFfx4BFm8KXual18"
     },
     {
       "added_at": "2025-10-02 22:00:50",

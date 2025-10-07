@@ -2,7 +2,7 @@
 
 ### [.ORG](https://open.spotify.com/playlist/37i9dQZF1DWXQXM7agvwjO)
 
-> Hottest indie sounds from Asia\. Cover: Gestalt Girl \(Taiwan\) \*Celebrating <a href="https://open.spotify.com/playlist/37i9dQZF1DX5cePYQCUba6?si=92cc3f788f5a4a09">Asian Waves</a> at MINAMI WHEEL 2025!
+> Hottest indie sounds from Asia\. Cover: GOGOHAWK \(South Korea\) \*Celebrating <a href="https://open.spotify.com/playlist/37i9dQZF1DX5cePYQCUba6?si=92cc3f788f5a4a09">Asian Waves</a> at MINAMI WHEEL 2025!
 
 2,235 songs - 5 day 15 hr 19 min
 
@@ -65,7 +65,7 @@
 | [Adolescence](https://open.spotify.com/track/6HWCh9JBOFAJ1nQmaQn0Rx) | [VVAS](https://open.spotify.com/artist/4JqgpBh90G3CofWnz8QKkc), [Wave And So](https://open.spotify.com/artist/7tGqjrytCoVKlwyqkkFE4f) | [Eyesore](https://open.spotify.com/album/0bqsBeug05U8OTSQzzTXhN) | 3:51 | 2024-02-29 | 2024-03-15 |
 | [Adore](https://open.spotify.com/track/3syEb4iSSW7dwhIHtPuwWj) | [quentinn®](https://open.spotify.com/artist/0CYWyysXnCqIJXXNqhPmpX) | [Adore](https://open.spotify.com/album/0tem1KsDNTGknE41b0UzQa) | 2:59 | 2025-03-20 | 2025-04-04 |
 | [Adore You](https://open.spotify.com/track/1F7m10RKlI7ddbkJtAEnNs) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Adore You](https://open.spotify.com/album/6BbHN6wg5U9BbwYMYdINLk) | 2:54 | 2025-06-05 | 2025-07-19 |
-| [Afraid](https://open.spotify.com/track/3vushHjCIv070V3m28mzzS) | [hidari](https://open.spotify.com/artist/1qXQMTY6l4Y1ipNXBo8Ysq), [woah](https://open.spotify.com/artist/14lmu0Tv9vxB7LcyV4auHK) | [Pathetic](https://open.spotify.com/album/01QzBNOBEffMzcOQFrXhL6) | 2:06 | 2025-09-12 |  |
+| [Afraid](https://open.spotify.com/track/3vushHjCIv070V3m28mzzS) | [hidari](https://open.spotify.com/artist/1qXQMTY6l4Y1ipNXBo8Ysq), [woah!](https://open.spotify.com/artist/0dtbfJDSyQR2NQDCZ5rd8P) | [Pathetic](https://open.spotify.com/album/01QzBNOBEffMzcOQFrXhL6) | 2:06 | 2025-09-12 |  |
 | [After All](https://open.spotify.com/track/5QWzqJISgR4x4g16RVFX7c) | [The Peachskins](https://open.spotify.com/artist/6slLx3tKNbSTpbAkkikwzd), [Fer Enough](https://open.spotify.com/artist/4tnMbJhqTcIXVH6iyHU0au) | [After All](https://open.spotify.com/album/5pJBDVGJeiAio4kiJajMmz) | 3:13 | 2025-03-13 | 2025-03-21 |
 | [afterglow](https://open.spotify.com/track/0yIshWSqN6TmJNywjZ7zGh) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [hewantscoffeebutiamtea](https://open.spotify.com/album/1ZJiogegMu9wEbMxI7uy7U) | 3:24 | 2023-08-03 | 2023-09-16 |
 | [Afterglow](https://open.spotify.com/track/38wNASXJl6tNRoVFpnctt9) | [Oakë](https://open.spotify.com/artist/5FFEE3urupCaWwOzfAfV4I) | [Afterglow](https://open.spotify.com/album/44WOydQRUhz1JihfRZT6Zi) | 3:29 | 2023-02-16 | 2023-03-10 |

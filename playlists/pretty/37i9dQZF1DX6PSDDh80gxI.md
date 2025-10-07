@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Un 💘 che batte e Venerus in cover \(e in stazione a Milano!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,193 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,158 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Impossibile](https://open.spotify.com/track/0wdacellVNck0ukTn7aUh2) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD) | [Impossibile](https://open.spotify.com/album/5Fa1eainlT3WLze98FsaGk) | 3:29 |
 | 2 | [Non è mica te](https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Amarsi è la rivoluzione](https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP) | 3:07 |
-| 3 | [Lunedì blu](https://open.spotify.com/track/23WMdJgRYnVZpxPNUamXa8) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Lunedì blu](https://open.spotify.com/album/3o217jWs0rLnkC1bj48RAw) | 3:09 |
-| 4 | [Lasciamene un po'](https://open.spotify.com/track/25W1Kc2SWFmz8DXZT2fTn5) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Lasciamene un po'](https://open.spotify.com/album/27msMZHZCDO0ZpGjPOCvco) | 3:27 |
-| 5 | [Qualcosa di grande](https://open.spotify.com/track/7LHCJnWkQgmHGUhQyZeoW5) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [1998](https://open.spotify.com/album/5nQff1e9q2Tcsa4bEyWXMa) | 2:41 |
-| 6 | [Sabato Sera \(feat\. Calcutta\)](https://open.spotify.com/track/5sfAT5zvEzBa4sX342cmKf) | [TROPICO](https://open.spotify.com/artist/11wRTRhOoRE8kcDgtAmuJW), [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Soli E Disperati Nel Mare Meraviglioso](https://open.spotify.com/album/4c5khiHeRg8ZMaCGKfxIJh) | 5:42 |
-| 7 | [Punto di domanda \(feat\. Nayt, Mecna\)](https://open.spotify.com/track/3lb2UVZySXqt9YyS5PpSUe) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [NUOVOSPAZIOTEMPO](https://open.spotify.com/album/1q9YENyHP8AZHj46FxuSgZ) | 3:27 |
+| 3 | [Qualcosa di grande](https://open.spotify.com/track/7LHCJnWkQgmHGUhQyZeoW5) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [1998](https://open.spotify.com/album/5nQff1e9q2Tcsa4bEyWXMa) | 2:41 |
+| 4 | [Lunedì blu](https://open.spotify.com/track/23WMdJgRYnVZpxPNUamXa8) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Lunedì blu](https://open.spotify.com/album/3o217jWs0rLnkC1bj48RAw) | 3:09 |
+| 5 | [Punto di domanda \(feat\. Nayt, Mecna\)](https://open.spotify.com/track/3lb2UVZySXqt9YyS5PpSUe) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [NUOVOSPAZIOTEMPO](https://open.spotify.com/album/1q9YENyHP8AZHj46FxuSgZ) | 3:27 |
+| 6 | [Lasciamene un po'](https://open.spotify.com/track/25W1Kc2SWFmz8DXZT2fTn5) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Lasciamene un po'](https://open.spotify.com/album/27msMZHZCDO0ZpGjPOCvco) | 3:27 |
+| 7 | [Sabato Sera \(feat\. Calcutta\)](https://open.spotify.com/track/5sfAT5zvEzBa4sX342cmKf) | [TROPICO](https://open.spotify.com/artist/11wRTRhOoRE8kcDgtAmuJW), [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Soli E Disperati Nel Mare Meraviglioso](https://open.spotify.com/album/4c5khiHeRg8ZMaCGKfxIJh) | 5:42 |
 | 8 | [Due Estranei \(feat\. Fulminacci\)](https://open.spotify.com/track/2GzEXn5EhLA9ngz7WOpUZu) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Futuri Possibili](https://open.spotify.com/album/5Z4qQSYHPbYjlXS6wnEhXD) | 3:05 |
 | 9 | [Casomai](https://open.spotify.com/track/2Yo5lsdqZunwJxkLI0mxIt) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Casomai](https://open.spotify.com/album/3pQ5QeRXj1tCHWXBmIJbXG) | 3:05 |
-| 10 | [Lampo](https://open.spotify.com/track/5jLjGPzQ1ws4EanEjy6j8Y) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Lampo](https://open.spotify.com/album/33465r4j9CJtOkzdVYfbSv) | 3:27 |
-| 11 | [Amaro](https://open.spotify.com/track/3OewdIjWctx4TH6jswXRrc) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc) | 3:33 |
-| 12 | [NIENTE DA DIRE](https://open.spotify.com/track/0aUvocDuU0Ugl1jv7S4EzC) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [NIENTE DA DIRE](https://open.spotify.com/album/1XldsQ599Rih4NTWWNCNby) | 3:23 |
+| 10 | [NIENTE DA DIRE](https://open.spotify.com/track/0aUvocDuU0Ugl1jv7S4EzC) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [NIENTE DA DIRE](https://open.spotify.com/album/1XldsQ599Rih4NTWWNCNby) | 3:23 |
+| 11 | [Lampo](https://open.spotify.com/track/5jLjGPzQ1ws4EanEjy6j8Y) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Lampo](https://open.spotify.com/album/33465r4j9CJtOkzdVYfbSv) | 3:27 |
+| 12 | [Amaro](https://open.spotify.com/track/3OewdIjWctx4TH6jswXRrc) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc) | 3:33 |
 | 13 | [Allucinazione](https://open.spotify.com/track/6s42fEwCHQsW2KbTb58abU) | [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5) | [Allucinazione](https://open.spotify.com/album/54CcbtH5Kq625vyy8V27XQ) | 2:52 |
 | 14 | [Sentirsi Soli \(con Calcutta\)](https://open.spotify.com/track/7avHfK0CfHjOoZG8UWlVIn) | [Golden Years](https://open.spotify.com/artist/4x13f8mnFaaoUdFd5PPSgH), [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [FUORI MENÙ](https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k) | 3:05 |
 | 15 | [Tuareg](https://open.spotify.com/track/6FLcWRbOznMsx55HF46oBL) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Tuareg](https://open.spotify.com/album/1Ns0mmFgzffnMQSi9Hv9ww) | 3:40 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 69 | [PURO CAOS \(feat\. Nayt\)](https://open.spotify.com/track/1su7irwzQqGNYv8uk8hcMV) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [DIY](https://open.spotify.com/album/5oPWrMQXu1ixNSdsChS3aq) | 2:52 |
 | 70 | [Chissà \(feat\. Ditonellapiaga\)](https://open.spotify.com/track/7sy957mJPAMwoAjHhLVVuS) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Chissà](https://open.spotify.com/album/1xywCoqMy6siRZbvThSeUA) | 2:59 |
 
-Snapshot ID: `AAAAADXkvCJl211AQmvkSV9x9wnqS0E5`
+Snapshot ID: `AAAAAJyxCvynmNeL01/Q19x8KViT1TNZ`

@@ -4,7 +4,7 @@
 
 > The freshest Hip Hop and R&amp;B.
 
-478 songs - 21 hr 26 min
+482 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Are You Still You?](https://open.spotify.com/track/2ez7tCmjZ8p80NmcKofILZ) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Casa Mira Mar](https://open.spotify.com/album/1Z5GWD6FWevXrscgPDmwIO) | 3:04 | 2025-07-15 | 2025-09-25 |
 | [ASAP](https://open.spotify.com/track/4B5uXnQnWdDYnJzIGHLyTe) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [ASAP](https://open.spotify.com/album/3sPRCUZ4nQZWOqWL4MVqEf) | 3:40 | 2025-08-18 |  |
 | [Aye Citch](https://open.spotify.com/track/6zyJ3S9wKZ2WQHl8Yz7k10) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Aye Citch](https://open.spotify.com/album/2V0HcbojfIQuAhtYOq3lfS) | 2:17 | 2024-05-20 | 2024-11-19 |
+| [Aye Girl](https://open.spotify.com/track/5AtuctYcoqwtmqrgEFIYH9) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Aye Girl](https://open.spotify.com/album/3g6e5ZEnl1YUFsQE3pI4YL) | 1:54 | 2025-10-06 |  |
 | [B&E](https://open.spotify.com/track/3mACxKdKihqX6p1xnSFJUQ) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [B&E](https://open.spotify.com/album/1oyiRs3DZGTWgac445z9U3) | 2:07 | 2024-05-15 | 2024-11-19 |
 | [B2A \(belt 2 ass\)](https://open.spotify.com/track/5I5riGGzguZODuaYlifUs9) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [B2A \(belt 2 ass\)](https://open.spotify.com/album/4c3uikJdDRMI4JXP0cUGs0) | 2:50 | 2025-04-29 | 2025-07-22 |
 | [Baby](https://open.spotify.com/track/16XlQ75mVEp4wlfdTvGcnP) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN) | [Baby](https://open.spotify.com/album/6J1yejuu881CRYihj6PQCN) | 2:21 | 2025-05-28 | 2025-08-14 |
@@ -84,6 +85,7 @@
 | [Buddy A Fool](https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Don't Forget To Breathe](https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0) | 2:34 | 2024-03-30 | 2024-07-23 |
 | [Bully Flow](https://open.spotify.com/track/0CpvLQPZpypNSueYp4MCIb) | [Tay Savage](https://open.spotify.com/artist/3bEvCfguncHB5a063kJr71) | [Bully Flow](https://open.spotify.com/album/3mGduF88Hg7QiWf4vwQ9zR) | 1:59 | 2023-09-15 | 2024-01-13 |
 | [Business Class](https://open.spotify.com/track/2DAR7W1ThLhz3jr0NQusyb) | [VannDa](https://open.spotify.com/artist/6XYPDozxzEi0iu380aAYnL) | [Business Class](https://open.spotify.com/album/1xCXruxieVUH1D9jSMAwqc) | 3:33 | 2025-02-11 | 2025-05-31 |
+| [Business Merger](https://open.spotify.com/track/5B3I3LGIa6AYixY0JXLlk8) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Business Merger](https://open.spotify.com/album/2GiNskl3pHoXqoy5sSKbbQ) | 3:37 | 2025-10-06 |  |
 | [BUY HER FLOWERS!](https://open.spotify.com/track/6FRJiRb848fKONwNgOnBNi) | [WhoJiggi](https://open.spotify.com/artist/65ouxpwU5hVjZ4dJQycQeY), [Matthew Ali](https://open.spotify.com/artist/3P0ckFbRO6oAmgflWXmM1E) | [BUY HER FLOWERS!](https://open.spotify.com/album/0uT1tAzECg7Ylyt3e3LQzt) | 2:19 | 2025-08-18 |  |
 | [Can We Talk?](https://open.spotify.com/track/1NeL0geu5M3lya479QuA6q) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Can We Talk?](https://open.spotify.com/album/5bzaSX78ybcXW55HFe8xZi) | 3:08 | 2025-07-07 | 2025-08-26 |
 | [CAN'T GET RIGHT](https://open.spotify.com/track/7prcfanTLk3DCeER51hqd3) | [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV), [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn) | [CAN'T GET RIGHT](https://open.spotify.com/album/0FdhSn9vahw0oyHSqsYDwE) | 2:17 | 2025-05-14 | 2025-08-14 |
@@ -92,6 +94,7 @@
 | [Cashout](https://open.spotify.com/track/3jMkQImrpgdMpziv9WYj5v) | [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii) | [Have Money Have Heart](https://open.spotify.com/album/5k0hR6M4hFs6mS5X5wbqj5) | 2:33 | 2024-05-20 | 2024-11-19 |
 | [Catch Me Outside 2](https://open.spotify.com/track/000zYgBirXxgFkpAXOt0EB) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Catch Me Outside 2](https://open.spotify.com/album/3NBaHOQq0oj586RZBMkxQG) | 2:06 | 2025-07-07 | 2025-09-25 |
 | [Celebrity Status](https://open.spotify.com/track/6qTVt8nIu3UzFe6qXmtEao) | [Talibando](https://open.spotify.com/artist/5Uv0QiFyiS6dI5tqgiJciI) | [Celebrity Status](https://open.spotify.com/album/6M1H4iaKsUYjEPoTMwqVlF) | 1:26 | 2023-09-08 | 2024-01-13 |
+| [Chanclas 2](https://open.spotify.com/track/7glYVrrw2J8sewmuNh7upK) | [MRG](https://open.spotify.com/artist/6eqLAUIm0u7CgcbjX9O5fb), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [WhoJiggi](https://open.spotify.com/artist/65ouxpwU5hVjZ4dJQycQeY) | [Chanclas 2](https://open.spotify.com/album/7rE21cPaKW0KPwKyWWT6nL) | 2:35 | 2025-10-06 |  |
 | [Charged Up](https://open.spotify.com/track/4HN6CicOpFp1nrkxHFM3Gt) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Charged Up](https://open.spotify.com/album/7tM3cKpt6DrUg1OW4B4BSf) | 2:59 | 2024-04-24 | 2024-07-23 |
 | [CHEAP!](https://open.spotify.com/track/7vUgSkFKIkcdbROR2Noke7) | [MAYCE](https://open.spotify.com/artist/5MLjCi6tlmcBXNyklgRzaZ) | [CHEAP!](https://open.spotify.com/album/7fVUcgvFguHNcHxK8xvfby) | 2:50 | 2025-05-28 | 2025-08-14 |
 | [Cheat On You](https://open.spotify.com/track/5eEujB7GCM34vovJBGCU50) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Cheat On You](https://open.spotify.com/album/38bYEvgGHZ4su9AKt3Dudz) | 3:21 | 2025-04-14 | 2025-07-22 |
@@ -296,6 +299,7 @@
 | [Memory Foam](https://open.spotify.com/track/6SGvj7cxFR3ORF14FvbR0w) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Memory Foam](https://open.spotify.com/album/0qgP4yFijwwQhQbSD1dNPh) | 2:49 | 2025-05-20 | 2025-08-14 |
 | [Michigan Made](https://open.spotify.com/track/1F3unRiCdRnIViCvQfc5yW) | [G.T.](https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ), [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii) | [Michigan Made](https://open.spotify.com/album/1P3pcZoGrGWxH4wa9EoNBR) | 1:50 | 2025-05-20 | 2025-08-14 |
 | [Michigander](https://open.spotify.com/track/4pCxraYjIRBL2y0scZQYzj) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Michigander](https://open.spotify.com/album/5eQFojsgPYDEmI9RRMXCy7) | 3:35 | 2025-07-21 | 2025-09-25 |
+| [Midnight in Hawaii 2](https://open.spotify.com/track/1oB6gO3603t901nqbZGQxN) | [Big Sad 1900](https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Midnight in Hawaii 2](https://open.spotify.com/album/7zXEgBFYTBHZx4tSgOb12m) | 3:18 | 2025-10-06 |  |
 | [Million Bags Sold \(feat\. OHGEESY\)](https://open.spotify.com/track/4OX6q2Gy1BxxpjWn4wX1Qg) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI), [Yung Chowder](https://open.spotify.com/artist/3hFHPjnorEtJWR6GSPwqQg), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [Carbon](https://open.spotify.com/album/1Vju5A1U8srP9uV3RXkigs) | 4:18 | 2025-04-14 | 2025-07-22 |
 | [Mind](https://open.spotify.com/track/1OekV80ySFNwfXFEk8oGlV) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [Mind](https://open.spotify.com/album/0pgMNPo0dopgdtKRGuoBkD) | 2:04 | 2025-04-08 | 2025-07-22 |
 | [Misery](https://open.spotify.com/track/37WO9r4U3LLqFkwHqZ2qg1) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [Misery](https://open.spotify.com/album/0cWD3IQM9T3kYvIc5w7vpv) | 1:39 | 2023-08-28 | 2024-01-13 |

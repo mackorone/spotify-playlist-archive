@@ -1779,6 +1779,32 @@
     },
     {
       "album": {
+        "name": "I Know A Name",
+        "url": "https://open.spotify.com/album/3BOILqe5ccdWMBR8KZfCB2"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2025-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429454,
+      "name": "I Know A Name",
+      "url": "https://open.spotify.com/track/4TXK7iqOnXCr8XWyj3b4dJ"
+    },
+    {
+      "album": {
         "name": "Endless Praise",
         "url": "https://open.spotify.com/album/0ZY2I6RVGv7a75Fus8Y447"
       },
@@ -2648,7 +2674,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-07",
       "duration_ms": 223481,
       "name": "Never Let Me Go - Live",
       "url": "https://open.spotify.com/track/1aEOATmuK2T6iZhrC77KYN"

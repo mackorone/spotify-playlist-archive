@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o de hits pra te acompanhar no home office.",
-  "num_followers": 235248,
+  "num_followers": 235235,
   "original_name": "Trabalhando de Casa",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Audioslave",
-        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
-      },
-      "artists": [
-        {
-          "name": "Audioslave",
-          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
-        }
-      ],
-      "duration_ms": 293960,
-      "name": "Like a Stone",
-      "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Mama Said",
         "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 242640,
       "name": "It Ain't Over 'Til It's Over",
       "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Audioslave",
+        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
+      },
+      "artists": [
+        {
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+        }
+      ],
+      "duration_ms": 293960,
+      "name": "Like a Stone",
+      "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
+        "name": "Chris Cornell (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1BLVdtavgYFMQvzvX3oHpe"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 303906,
+      "name": "Nothing Compares 2 U - Live At SiriusXM/2015",
+      "url": "https://open.spotify.com/track/0tUELgOuOJ3KCsYMDDsNvD"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
         "name": "S\u00f3 No Forevis",
         "url": "https://open.spotify.com/album/2KPL3UpVUBQxgVOCX91xEE"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 233733,
       "name": "A mais pedida (feat. \u00c9rika Martins)",
       "url": "https://open.spotify.com/track/349flwjNbqIaE0Mph3jLGD"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
-        "name": "Chris Cornell (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1BLVdtavgYFMQvzvX3oHpe"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 303906,
-      "name": "Nothing Compares 2 U - Live At SiriusXM/2015",
-      "url": "https://open.spotify.com/track/0tUELgOuOJ3KCsYMDDsNvD"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Get A Grip",
-        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 308333,
-      "name": "Cryin'",
-      "url": "https://open.spotify.com/track/0NJC0FDCODpPUntRTTQq97"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Metallica",
         "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 388733,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/3ZFwuJwUpIl0GeXsvF1ELf"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 308333,
+      "name": "Cryin'",
+      "url": "https://open.spotify.com/track/0NJC0FDCODpPUntRTTQq97"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Eyes Open",
-        "url": "https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp"
-      },
-      "artists": [
-        {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
-        }
-      ],
-      "duration_ms": 341266,
-      "name": "Open Your Eyes",
-      "url": "https://open.spotify.com/track/55fg1bDXyNUsY2KaSMNFpA"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "The Joshua Tree (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/2qKmY7yt0kXdzSQxYAu9eZ"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 295520,
       "name": "With Or Without You - Remastered",
       "url": "https://open.spotify.com/track/4kAJawkLZj4Q7N5521ofP6"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Eyes Open",
+        "url": "https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "duration_ms": 341266,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/55fg1bDXyNUsY2KaSMNFpA"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
+        "name": "A Arte De Cazuza",
+        "url": "https://open.spotify.com/album/1D4lMnP5npjJzw9GRtQMJi"
+      },
+      "artists": [
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "Exagerado",
+      "url": "https://open.spotify.com/track/3ZRWcArefd1sfpdw5icCM7"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
         "name": "Deep Cuts: The Best Of The Ballads",
         "url": "https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 298293,
       "name": "Eyes Without A Face - 1999 - Remaster",
       "url": "https://open.spotify.com/track/6qI1KfY3nomDW1s0BrUInE"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
-        "name": "A Arte De Cazuza",
-        "url": "https://open.spotify.com/album/1D4lMnP5npjJzw9GRtQMJi"
-      },
-      "artists": [
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "Exagerado",
-      "url": "https://open.spotify.com/track/3ZRWcArefd1sfpdw5icCM7"
     },
     {
       "added_at": "2024-02-27 20:15:05",

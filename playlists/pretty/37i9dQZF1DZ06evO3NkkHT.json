@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 67177,
+  "num_followers": 67219,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOBjgAAAAABgBEP3cK/ui5gQkg/iTwCO",
+  "snapshot_id": "aOG1AAAAAABvMlpp5hWNCXyRiqdEDqi6",
   "tracks": [
     {
       "added_at": null,
@@ -631,22 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Run It",
-        "url": "https://open.spotify.com/album/3nNUt7aSmNi3mmiUgtitHI"
+        "name": "Boy",
+        "url": "https://open.spotify.com/album/79SKWkRmNKk5wdJAR2uPSe"
       },
       "artists": [
         {
-          "name": "Ro$ama",
-          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
-        },
-        {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Big Yavo",
+          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
         }
       ],
-      "duration_ms": 163626,
-      "name": "Who Run It",
-      "url": "https://open.spotify.com/track/3uhJIV80m8oKkuyvvS6rw2"
+      "duration_ms": 132537,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/746X8HvYnbrMIqHl9R4QP1"
     },
     {
       "added_at": null,
@@ -667,22 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boy",
-        "url": "https://open.spotify.com/album/79SKWkRmNKk5wdJAR2uPSe"
+        "name": "Who Run It",
+        "url": "https://open.spotify.com/album/3nNUt7aSmNi3mmiUgtitHI"
       },
       "artists": [
         {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
         },
         {
-          "name": "Big Yavo",
-          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 132537,
-      "name": "Boy",
-      "url": "https://open.spotify.com/track/746X8HvYnbrMIqHl9R4QP1"
+      "duration_ms": 163626,
+      "name": "Who Run It",
+      "url": "https://open.spotify.com/track/3uhJIV80m8oKkuyvvS6rw2"
     },
     {
       "added_at": null,

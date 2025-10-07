@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > pq no to' e' dembow en rd loko\. Portada: Huan62
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,648 likes - 100 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,715 likes - 100 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 87 | [Dilon Baby](https://open.spotify.com/track/1n25qb6z7vFIqZS6kW7CYW) | [Crazy Point](https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb) | [Dilon Baby](https://open.spotify.com/album/29HvGcmgTkk4XBTS3EWcgO) | 2:53 |
 | 88 | [Tu No Ta](https://open.spotify.com/track/4TMhWoyolZhdT65j7TZQVh) | [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky), [Carlos Trvp](https://open.spotify.com/artist/3OZW7ELARiHhIhvhQ4FLCy), [OKEIFLOU](https://open.spotify.com/artist/151g6ClefcL7Owo9EZNz9e) | [Tu No Ta](https://open.spotify.com/album/2bZ9s6va1273T1krF11lpk) | 2:33 |
 | 89 | [Malote](https://open.spotify.com/track/0gYDfl4Sq0HIxlYo64Aa4J) | [Liil Jay](https://open.spotify.com/artist/0KA4BF3xL0wSVEY5ovpEru) | [Malote](https://open.spotify.com/album/50i6C1ur6jS1hgpLweFTn7) | 1:59 |
-| 90 | [Apartamento](https://open.spotify.com/track/5bjJySt1LufsKDApTrS0A0) | [Puntico](https://open.spotify.com/artist/6pvDkKoo5XPRtocPULD6ec) | [Apartamento](https://open.spotify.com/album/5uMdEtFWebsQehI4EODU8U) | 1:57 |
+| 90 | [Le Solte](https://open.spotify.com/track/5bjJySt1LufsKDApTrS0A0) | [Puntico](https://open.spotify.com/artist/6pvDkKoo5XPRtocPULD6ec) | [Le Solte](https://open.spotify.com/album/5uMdEtFWebsQehI4EODU8U) | 1:57 |
 | 91 | [Nos Vamos De Party](https://open.spotify.com/track/5LMnO5KKRHBJBcAg0LajTz) | [JonTana](https://open.spotify.com/artist/2lpzWNWBhchSZl3P8i0nQW) | [Nos Vamos De Party](https://open.spotify.com/album/3yrYXCsW1tLLywDFtrv3SC) | 2:34 |
 | 92 | [Qué Rica](https://open.spotify.com/track/5EuQNvwqhke4JDBPktqLDE) | [Luis Brown](https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L), [Geme Broki](https://open.spotify.com/artist/6kc0k5P4fCiZZ02SpPOqSO) | [Qué Rica](https://open.spotify.com/album/2kkcYObbGf9LZFNKeI9vZN) | 2:01 |
 | 93 | [MAYBACH](https://open.spotify.com/track/1iU7gcq1PJI2pkcGwfH5NW) | [Luis Brown](https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [Eklectico](https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC) | [MAYBACH](https://open.spotify.com/album/4HGwF9BDwNTKlqVHKtfJtq) | 2:27 |

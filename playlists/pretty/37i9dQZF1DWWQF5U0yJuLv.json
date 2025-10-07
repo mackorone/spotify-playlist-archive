@@ -1,6 +1,6 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 50760,
+  "num_followers": 50812,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
@@ -517,22 +517,6 @@
       "url": "https://open.spotify.com/track/0NDlsZ7UP5jNf9RjhLOZPA"
     },
     {
-      "added_at": "2023-02-17 01:29:01",
-      "album": {
-        "name": "Lost Horizons",
-        "url": "https://open.spotify.com/album/1z1dDYzcNeUCPVUhu6NqIG"
-      },
-      "artists": [
-        {
-          "name": "Lemon Jelly",
-          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
-        }
-      ],
-      "duration_ms": 422826,
-      "name": "Space Walk",
-      "url": "https://open.spotify.com/track/1bne4gsJshCv77LeKqQb1A"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Lunatic Harness",
@@ -547,6 +531,22 @@
       "duration_ms": 382373,
       "name": "Brace Yourself Jason",
       "url": "https://open.spotify.com/track/4Z8jptUDjJDuxBf0pSOvSi"
+    },
+    {
+      "added_at": "2023-02-17 01:29:01",
+      "album": {
+        "name": "Lost Horizons",
+        "url": "https://open.spotify.com/album/1z1dDYzcNeUCPVUhu6NqIG"
+      },
+      "artists": [
+        {
+          "name": "Lemon Jelly",
+          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
+        }
+      ],
+      "duration_ms": 422826,
+      "name": "Space Walk",
+      "url": "https://open.spotify.com/track/1bne4gsJshCv77LeKqQb1A"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1045,26 +1045,6 @@
       "url": "https://open.spotify.com/track/61y9vPnl8sdCcitbzjZBr3"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Treat Em Right (Boards Of Canada Remix)",
-        "url": "https://open.spotify.com/album/3biP5TpmbP1eQBjnMVo2cm"
-      },
-      "artists": [
-        {
-          "name": "Nevermen",
-          "url": "https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq"
-        },
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 269987,
-      "name": "Treat Em Right - Boards of Canada Remix Instrumental",
-      "url": "https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Mahi Mahi",
@@ -1087,6 +1067,26 @@
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Treat Em Right (Boards Of Canada Remix)",
+        "url": "https://open.spotify.com/album/3biP5TpmbP1eQBjnMVo2cm"
+      },
+      "artists": [
+        {
+          "name": "Nevermen",
+          "url": "https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq"
+        },
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 269987,
+      "name": "Treat Em Right - Boards of Canada Remix Instrumental",
+      "url": "https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1537,22 +1537,6 @@
       "url": "https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Jump & Shuffle (Live at the Hardware Store)",
-        "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
-      },
-      "artists": [
-        {
-          "name": "Kid Koala",
-          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "Jump & Shuffle - Live at the Hardware Store",
-      "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Autoditacker",
@@ -1567,6 +1551,22 @@
       "duration_ms": 312800,
       "name": "Sui Shop",
       "url": "https://open.spotify.com/track/5LWSgShNUgKx8qSafzP7Hz"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Jump & Shuffle (Live at the Hardware Store)",
+        "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
+      },
+      "artists": [
+        {
+          "name": "Kid Koala",
+          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "Jump & Shuffle - Live at the Hardware Store",
+      "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Vaganten",
-        "url": "https://open.spotify.com/album/3H5kcr1ZThSuLmDIe8cbax"
-      },
-      "artists": [
-        {
-          "name": "ToiToiToi",
-          "url": "https://open.spotify.com/artist/7GsvaD3QjxU9RtBAzCU3De"
-        }
-      ],
-      "duration_ms": 161560,
-      "name": "Never a Dull Moment",
-      "url": "https://open.spotify.com/track/2E1CDNz0rRgpQaSIWXCEKh"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "Puzzlewood",
         "url": "https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq"
       },
@@ -1903,6 +1887,22 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
+        "name": "Vaganten",
+        "url": "https://open.spotify.com/album/3H5kcr1ZThSuLmDIe8cbax"
+      },
+      "artists": [
+        {
+          "name": "ToiToiToi",
+          "url": "https://open.spotify.com/artist/7GsvaD3QjxU9RtBAzCU3De"
+        }
+      ],
+      "duration_ms": 161560,
+      "name": "Never a Dull Moment",
+      "url": "https://open.spotify.com/track/2E1CDNz0rRgpQaSIWXCEKh"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
         "name": "Firstsun",
         "url": "https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe"
       },
@@ -1915,22 +1915,6 @@
       "duration_ms": 188802,
       "name": "STARS",
       "url": "https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc"
-    },
-    {
-      "added_at": "2023-03-29 03:24:26",
-      "album": {
-        "name": "Bubbles",
-        "url": "https://open.spotify.com/album/1lmV7sSifPK2VXyumvrNEb"
-      },
-      "artists": [
-        {
-          "name": "Szymon Burnos",
-          "url": "https://open.spotify.com/artist/0Bgh2Zr1hP7POdosvZmcJu"
-        }
-      ],
-      "duration_ms": 266284,
-      "name": "Bubbles",
-      "url": "https://open.spotify.com/track/7s7vBGH4EDmq2WUAQPOOM8"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -1951,6 +1935,22 @@
       "duration_ms": 247380,
       "name": "Krautzig",
       "url": "https://open.spotify.com/track/1ihvgQmJUbKpDpebjGVS9E"
+    },
+    {
+      "added_at": "2023-03-29 03:24:26",
+      "album": {
+        "name": "Bubbles",
+        "url": "https://open.spotify.com/album/1lmV7sSifPK2VXyumvrNEb"
+      },
+      "artists": [
+        {
+          "name": "Szymon Burnos",
+          "url": "https://open.spotify.com/artist/0Bgh2Zr1hP7POdosvZmcJu"
+        }
+      ],
+      "duration_ms": 266284,
+      "name": "Bubbles",
+      "url": "https://open.spotify.com/track/7s7vBGH4EDmq2WUAQPOOM8"
     },
     {
       "added_at": "2023-12-22 15:58:35",
@@ -1985,22 +1985,6 @@
       "url": "https://open.spotify.com/track/3LAB79eJTC9M6B39E6GjJx"
     },
     {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "The Gone Away",
-        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
-      },
-      "artists": [
-        {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
-        }
-      ],
-      "duration_ms": 228289,
-      "name": "Fol-de-rol",
-      "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
-    },
-    {
       "added_at": "2024-02-02 05:58:22",
       "album": {
         "name": "Z",
@@ -2015,6 +1999,22 @@
       "duration_ms": 235140,
       "name": "Z",
       "url": "https://open.spotify.com/track/19G1b84wBvs8AB4mpkaLQb"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "The Gone Away",
+        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 228289,
+      "name": "Fol-de-rol",
+      "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
     },
     {
       "added_at": "2023-02-17 01:10:22",

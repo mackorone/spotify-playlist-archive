@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,886 likes - 75 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,895 likes - 75 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 58 | [Shine \- Sundown Dub](https://open.spotify.com/track/2s2bVNK44NPctaxBMCg2Z6) | [Barbara Douglas](https://open.spotify.com/artist/6lCEiSHsqoAZ61AiHbTw6w) | [The Lost Tapes: Pride 95 \(Mixed by Lil' Louis\) \[DJ Edition; Unmixed\]](https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I) | 4:20 |
 | 59 | [Muzik \- The Siren Mix](https://open.spotify.com/track/6IqCfijEdjDSKHN3ZCBEOU) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU) | [Muzik](https://open.spotify.com/album/22swBlMglQzlAP1G0GeXJJ) | 6:19 |
 | 60 | [Everybody Dance \- M.A.S\. Club Vocal](https://open.spotify.com/track/71ccVLki17DA8sVO74XoSG) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Everybody Dance](https://open.spotify.com/album/3F5UONXKw1at69QdBsLnwr) | 7:59 |
-| 61 | [Give A Little Love \- Photon's Deep Vocal Mix](https://open.spotify.com/track/6xIov8kouD1IwbquXX1tYF) | [Photon Inc.](https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP) | [Give A Little Love](https://open.spotify.com/album/1YMG0R1t7BKaFKNDRbztKz) | 6:17 |
-| 62 | [The Sound \- The Studio 54 Mix](https://open.spotify.com/track/3NYlKhLDWNe99VXWspYFIO) | [Motion Lotion](https://open.spotify.com/artist/6zNLfnKYj3cf2dw6S0aJxn) | [The Lost Tapes: 'Little' Louie Vega Strictly Rhythm Mix](https://open.spotify.com/album/5styrn4ZNjvGasDd6Y4sam) | 9:14 |
+| 61 | [The Sound \- The Studio 54 Mix](https://open.spotify.com/track/3NYlKhLDWNe99VXWspYFIO) | [Motion Lotion](https://open.spotify.com/artist/6zNLfnKYj3cf2dw6S0aJxn) | [The Lost Tapes: 'Little' Louie Vega Strictly Rhythm Mix](https://open.spotify.com/album/5styrn4ZNjvGasDd6Y4sam) | 9:14 |
+| 62 | [Give A Little Love \- Photon's Deep Vocal Mix](https://open.spotify.com/track/6xIov8kouD1IwbquXX1tYF) | [Photon Inc.](https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP) | [Give A Little Love](https://open.spotify.com/album/1YMG0R1t7BKaFKNDRbztKz) | 6:17 |
 | 63 | [Give It All To You \- 92 Remix](https://open.spotify.com/track/49RSvh6silwveTzfQwSbLj) | [DV8](https://open.spotify.com/artist/3C2rdG9aJ0CBfFSKmdzcTf) | [C'mon](https://open.spotify.com/album/5eBXQcItnTE8LVg3CBIzCe) | 4:18 |
 | 64 | [Evelin's Basement \- Groove Mix](https://open.spotify.com/track/5SfB9pv1Juab6fCDaqbrrF) | [Chronic Sounds](https://open.spotify.com/artist/0SfQ4KZdPPjsPCReuMBvV2) | [Evelin's Basement](https://open.spotify.com/album/2K8CaOeS6FTlIeuRIXsw00) | 8:18 |
 | 65 | [Higher Love \- New Mix](https://open.spotify.com/track/3y9VOUP7FppfGcUNlAF9IJ) | [Winter Darling](https://open.spotify.com/artist/1alJyjLMuBTeOCDoW9FQjz) | [The Lost Tapes: Pride 95 \(Mixed by Lil' Louis\) \[DJ Edition; Unmixed\]](https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I) | 7:44 |

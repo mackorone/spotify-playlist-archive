@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف:  أنغام
 
-1,580 songs - 3 day 16 hr 7 min
+1,582 songs - 3 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [3ada Kol El Kalam](https://open.spotify.com/track/3gRsVmA8pN1ZYUUaHw6fR7) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [3ada Kol El Kalam](https://open.spotify.com/album/3U0f2e9rvMojOb8JaR6KAn) | 2:52 | 2024-07-18 | 2024-09-06 |
 | [3Afareet](https://open.spotify.com/track/4TOwJNVjP9k8gmaYH8DCwQ) | [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [3Afareet](https://open.spotify.com/album/1xUK1PKwIMrXAJoSZQ1IQb) | 2:35 | 2024-08-15 | 2024-09-13 |
 | [3al Wa3d](https://open.spotify.com/track/0jBnk6ZGo8XuurCrYaEZon) | [Wust El Balad](https://open.spotify.com/artist/5kpaPebhiMoUmLOVyPW7gv) | [3al Wa3d](https://open.spotify.com/album/5atcnSO2Vs5QQKu6xxAY0Z) | 3:01 | 2023-07-28 | 2023-08-19 |
+| [3ALA BAB EL CIMA](https://open.spotify.com/track/3U5uSudlSamkLBK8ZQKZ50) | [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO), [Karim Osman](https://open.spotify.com/artist/6ZeP5tvlTQ0RjQfowlad3j), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn), [Bashmohannad](https://open.spotify.com/artist/4GLe8RzslZ4xgt3Jl2Tz1m) | [3ALA BAB EL CIMA](https://open.spotify.com/album/1lIZxwTXQxVLIvPyDwmTWf) | 3:27 | 2025-10-06 |  |
 | [3Ala Bali](https://open.spotify.com/track/5oRGUAOYx0JGdJYEeHF9kF) | [amadio](https://open.spotify.com/artist/2s7SZA5iFk03lGBl1bGofj), [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0), [Tag](https://open.spotify.com/artist/7lXXg0RRTjSEnlBoJjeIPS) | [3Ala Bali](https://open.spotify.com/album/1UQtTEV4iTDXaHSNK71vsE) | 3:27 | 2025-02-18 | 2025-05-16 |
 | [3ALA BALI](https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [3ALA BALI](https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON) | 2:42 | 2023-03-07 | 2023-05-06 |
 | [3ala el e3ana](https://open.spotify.com/track/2MD1pRCriQPN6w7FyMcTYY) | [Kassar](https://open.spotify.com/artist/7gTOyOn5JD1cty9eWZvRjP) | [Msh Fahem Haga](https://open.spotify.com/album/7CPW65OAotETJipoKYrN6w) | 3:46 | 2023-03-16 | 2023-05-11 |
@@ -44,7 +45,7 @@
 | [7agara Wara2a M2as](https://open.spotify.com/track/3UGfqoXhpu8QKyGEdcO6Vq) | [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0) | [7agara Wara2a M2as](https://open.spotify.com/album/1dOV6WNImrm5N5MD8xa43J) | 4:10 | 2024-08-05 | 2024-08-30 |
 | [7ALA](https://open.spotify.com/track/00TO3hVgOAgfKrRjrKEZxx) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [7ALA](https://open.spotify.com/album/70r1uOvZK1dM37OeCqtEsn) | 3:01 | 2023-01-03 | 2023-02-17 |
 | [7eneely](https://open.spotify.com/track/0fwo1BAS6r2Ktn2Hl31JDL) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt) | [7eneely](https://open.spotify.com/album/1bqyHkdwTZYoxJYPaCoaqC) | 2:21 | 2022-08-22 | 2022-11-11 |
-| [7ob Eh Ya 7asra](https://open.spotify.com/track/4DdUQ7EhcpfbuH3rE467QN) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [7ob Eh Ya 7asra](https://open.spotify.com/album/58LtQFQEluRbrTM70KnQpR) | 3:30 | 2025-07-03 |  |
+| [7ob Eh Ya 7asra](https://open.spotify.com/track/4DdUQ7EhcpfbuH3rE467QN) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [7ob Eh Ya 7asra](https://open.spotify.com/album/58LtQFQEluRbrTM70KnQpR) | 3:30 | 2025-07-03 | 2025-10-07 |
 | [A'al Hady](https://open.spotify.com/track/5A0UZewaFMomZezPF9ueqS) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [A'al Hady](https://open.spotify.com/album/7yrfJY21d4aleDkGyiTHsz) | 3:13 | 2022-08-23 | 2022-11-18 |
 | [A'yshtiny](https://open.spotify.com/track/4zfHwTLD44LYbz7HH1Lysg) | [Momen Rihan](https://open.spotify.com/artist/0CyOshhqVfUfmaBviztIeU) | [A'yshtiny](https://open.spotify.com/album/3tdL688raITLMsbWZ8tZxG) | 3:53 | 2022-10-10 | 2022-12-30 |
 | [Aadi](https://open.spotify.com/track/4TVVx3bzRfcFLB1U4Zfz2H) | [Husa & Zeyada](https://open.spotify.com/artist/3s47xvcoBSwPTgPizjEwfu) | [Aadi](https://open.spotify.com/album/5XmwW8gJIcjsUM771uXqNP) | 3:45 | 2024-09-19 | 2024-11-15 |
@@ -885,6 +886,7 @@
 | [Tayeh](https://open.spotify.com/track/5RewmMI1PlDpFSKeo1VL9G) | [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO) | [Tayeh](https://open.spotify.com/album/6plScIvVMfDrLp56hqN2ro) | 3:22 | 2023-03-06 | 2023-05-06 |
 | [Tb Khaleky](https://open.spotify.com/track/0lWE84PLzGmNp8iosqNBN1) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi), [Isco](https://open.spotify.com/artist/3Jso2v7OAOY5Pkzp3BcTxJ) | [Tb Khaleky](https://open.spotify.com/album/1knfFMUQ4yxZCKhSRr8O7k) | 3:20 | 2024-07-18 | 2024-09-06 |
 | [Tegy Nenbeset](https://open.spotify.com/track/2olgmxnrsz48q2lodyL9YI) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Tegy Nenbeset](https://open.spotify.com/album/4Y0PokkjwBKB44WxXwK8I2) | 3:18 | 2023-08-08 | 2023-09-29 |
+| [Tegy Nerga3](https://open.spotify.com/track/78bAVc3M4sqnRTKVRWzZz2) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Tegy Nerga3](https://open.spotify.com/album/0Sx2vDZlF1h3HTiBAqqSQy) | 3:11 | 2025-10-06 |  |
 | [Tegy Netsawar](https://open.spotify.com/track/6GnLxviis9Qsu1oq4fvfR6) | [Islam Zaki](https://open.spotify.com/artist/3z3CZNhE5lU0aRyAZ2XKpH), [May Abd El Aziz](https://open.spotify.com/artist/390rlknQEfIDTkwe87Fl7j) | [Tegy Netsawar](https://open.spotify.com/album/6AofYZuIof0MWN6RNBrnS4) | 2:46 | 2023-07-14 | 2023-08-10 |
 | [Tegy Ntrahn](https://open.spotify.com/track/4CvAW2jw7bcfx40aF3YT39) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/1UH5PQeEnm7MFkSN3t71av) | 4:00 | 2021-12-29 | 2022-03-10 |
 | [Tehid ElMa3bad](https://open.spotify.com/track/5YoGXXnHY3n1MrFUu7ODtT) | [Haneen](https://open.spotify.com/artist/5IHWK1ctA9bTZvyloSQ6tO) | [Baya3 Kalam Pt\. 2](https://open.spotify.com/album/3zVn8rsKl5fotm4bpc7Fyd) | 3:27 | 2025-09-27 |  |
@@ -1534,7 +1536,7 @@
 | [وبعدين بقى](https://open.spotify.com/track/3whc8wH18DUB9GXwGIaoPc) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [وبعدين بقى](https://open.spotify.com/album/7hXwx4r7oqFAGPUcZLu3jR) | 3:04 | 2024-06-13 | 2024-07-25 |
 | [وتقابل حبيب](https://open.spotify.com/track/7M1EnR4adNU8vth13OjtBM) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [وتقابل حبيب](https://open.spotify.com/album/0kW5bh1ijiHrwxw828IyAF) | 3:04 | 2025-03-04 | 2025-06-10 |
 | [وجع القلب](https://open.spotify.com/track/0FZ5oLIe8RJYYheKPnmdu2) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [وجع القلب](https://open.spotify.com/album/5LM0TAyvuFOorgqktkRVEx) | 3:16 | 2022-11-17 | 2023-01-27 |
-| [وحشتيني](https://open.spotify.com/track/6XoWTnKXpjQL3I1Qwp3nc2) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [وحشتيني](https://open.spotify.com/album/3SSYQjNTWyJJEOHesuXw0f) | 3:26 | 2025-07-03 |  |
+| [وحشتيني](https://open.spotify.com/track/6XoWTnKXpjQL3I1Qwp3nc2) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [وحشتيني](https://open.spotify.com/album/3SSYQjNTWyJJEOHesuXw0f) | 3:26 | 2025-07-03 | 2025-10-07 |
 | [ورق رسايلك](https://open.spotify.com/track/2ia4akE9lf4BPQdG4b88sL) | [Ahmed Ehab](https://open.spotify.com/artist/3P9Etdmy2JoRlvlelYxZVl) | [ورق رسايلك](https://open.spotify.com/album/7m3abyAEppsKvsi3t70RpR) | 2:22 | 2024-11-07 | 2024-12-20 |
 | [وسط الوشوش \- تتر مسلسل بنون](https://open.spotify.com/track/6jVUA2W2YcGnTJsV2YGajs) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [وسط الوشوش \(تتر مسلسل بنون\)](https://open.spotify.com/album/7u6D1jal2Oi5UeF8qWPlTx) | 4:29 | 2023-06-08 | 2023-07-19 |
 | [وضع الطيران](https://open.spotify.com/track/4pSLabzQFsVrrPfIXU9VG0) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52), [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [وضع الطيران](https://open.spotify.com/album/76l8XYZOoK6cPCJR3BcWMw) | 3:56 | 2025-06-10 | 2025-08-08 |

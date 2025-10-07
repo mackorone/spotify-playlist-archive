@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ym1547AToj.md) - [plain]
 
 > Retrouvez les chansons de vos films préférés en version originale
 
-[Spotify](https://open.spotify.com/user/spotify) - 100 likes - 98 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 99 likes - 98 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ym1547AToj.md) - [plain]
 | 85 | [Shiny](https://open.spotify.com/track/3iGBEhd5POWz2B1YsRcyD0) | [Jemaine Clement](https://open.spotify.com/artist/1Ymky4GOgYA1NI96FCY8yE) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6WcwTfjz7H5SPRFF4Hf7g5) | 3:05 |
 | 86 | [Firework](https://open.spotify.com/track/4lCv7b86sLynZbXhfScfm2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:47 |
 | 87 | [I'm A Believer \- Radio Edit](https://open.spotify.com/track/1RC5Mb0VhnlhnMlFDnrvE0) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Smash Mouth](https://open.spotify.com/album/0E0q3hPeALlDvoDvYztYeH) | 3:03 |
-| 88 | [I Love You Too Much](https://open.spotify.com/track/3Za4yViy4wKFEF0gkqCH3j) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Diego Luna](https://open.spotify.com/artist/5rSlhtcAytdvAnlZXcKLjE) | [The Book of Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7f0cdftcxwu61TCHkwVrs0) | 2:35 |
+| 88 | [I Love You Too Much \- from "The Book of Life" Soundtrack](https://open.spotify.com/track/3Za4yViy4wKFEF0gkqCH3j) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Diego Luna](https://open.spotify.com/artist/5rSlhtcAytdvAnlZXcKLjE) | [The Book of Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7f0cdftcxwu61TCHkwVrs0) | 2:35 |
 | 89 | [Wonderful Life \(Mi Oh My\) \- From the Angry Birds Movie Original Motion Picture Soundtrack](https://open.spotify.com/track/3PQQWkpJhBvytg5TPTsU2T) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [The Angry Birds Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Sp6HR4bYIsiOBO9pPaZv8) | 3:30 |
 | 90 | [Celebration](https://open.spotify.com/track/5QVX213rGhKaNwJPVJnHw4) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wreck\-It Ralph](https://open.spotify.com/album/0aqJGQ73RTLu3yLgcdU9JC) | 3:40 |
 | 91 | [It's The Hard\-Knock Life](https://open.spotify.com/track/2VnMIUBC3Bj7SIcjCqfPx0) | [Quvenzhané Wallis](https://open.spotify.com/artist/0xcfJSVb1IoxDnkFFWpEXz), [Zoe Margaret Colletti](https://open.spotify.com/artist/3RA2d5usSqy6v8daSjatiG), [Nicolette Pierini](https://open.spotify.com/artist/1Kzhk2FJ4nMaqm3TNECWEY), [Eden Duncan\-Smith](https://open.spotify.com/artist/1bq2kt0UIMxXt0oLIHH82k), [Amanda Troya](https://open.spotify.com/artist/0V8g9C7rFwjeMInAb9oTqZ) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6SHWGGZJPmwfOLInPMEUFW) | 2:10 |

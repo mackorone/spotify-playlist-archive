@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Riana Nel, Emma Van Heyn, Nicholis Louw, ROUX, en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,084 likes - 115 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,095 likes - 115 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

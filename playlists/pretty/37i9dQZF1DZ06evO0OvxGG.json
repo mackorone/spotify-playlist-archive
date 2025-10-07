@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 8309,
+  "num_followers": 8311,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOBjgAAAAAAlmcuTQb5HnGwYhQ0pSWrA",
+  "snapshot_id": "aOG1AAAAAACYjg6x2WkCDFc+GoIDHFBH",
   "tracks": [
     {
       "added_at": null,
@@ -295,6 +295,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Malvadeza",
+        "url": "https://open.spotify.com/album/19xvUmwqknEWZqEHmomU1O"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Malvadeza",
+      "url": "https://open.spotify.com/track/3Z0DamvmLFQQMHqXnEaqbb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Molho",
         "url": "https://open.spotify.com/album/0H7TgZyBTY2DNBx7mwHWUX"
       },
@@ -331,30 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "me d\u00e1 dinheiro ou me faz gozar",
-        "url": "https://open.spotify.com/album/22MO3hfvN7rH5XCVD2TEVK"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "AG Beatz",
-          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
-        },
-        {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
-        }
-      ],
-      "duration_ms": 120923,
-      "name": "me d\u00e1 dinheiro ou me faz gozar",
-      "url": "https://open.spotify.com/track/0NC0zCfMGMGR6zL8bHEDg0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Malvatrem",
         "url": "https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh"
       },
@@ -379,6 +375,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "me d\u00e1 dinheiro ou me faz gozar",
+        "url": "https://open.spotify.com/album/22MO3hfvN7rH5XCVD2TEVK"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        }
+      ],
+      "duration_ms": 120923,
+      "name": "me d\u00e1 dinheiro ou me faz gozar",
+      "url": "https://open.spotify.com/track/0NC0zCfMGMGR6zL8bHEDg0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Malvatrem (Deluxe)",
         "url": "https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 142500,
       "name": "14 Sem Vaselina",
       "url": "https://open.spotify.com/track/2JV98Y7WyUvIOYiFbRnikA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Malvadeza",
-        "url": "https://open.spotify.com/album/0eQEgHKRqdWJp4Kf6PtjAy"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Malvadeza",
-      "url": "https://open.spotify.com/track/1bYDvVrCAWzQnw5orQ9qgB"
     },
     {
       "added_at": null,

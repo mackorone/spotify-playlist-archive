@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸  Von Quar
 
-321 songs - 16 hr 20 min
+323 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Dancing In The Dark](https://open.spotify.com/track/01h8wJRVYOiBEXOhqXwZ2C) | [KATMORE](https://open.spotify.com/artist/0mamChK0m9QrNDYXiTeFDc) | [Dancing In The Dark](https://open.spotify.com/album/5L8OFIdsOyFBxlf9FPRks6) | 3:34 | 2025-05-01 | 2025-05-22 |
 | [Dans I Morgen \(feat\. Wads\)](https://open.spotify.com/track/2spwCio5MgRx2U4hEfRGaf) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn), [Wads](https://open.spotify.com/artist/3WpiiMu5szsvN2jSBHCxNu) | [Dans I Morgen](https://open.spotify.com/album/5q2qW7AKv8q6ke68KsLBc7) | 3:12 | 2024-06-27 | 2025-06-27 |
 | [Danser Med Piger](https://open.spotify.com/track/06bMZsOQ6qQGHCTeM9r9bU) | [Danser Med Piger](https://open.spotify.com/artist/0OhwwB6b7ugDTS41UT4YJS) | [Danser Med Piger](https://open.spotify.com/album/05oyT11e8BU40gtvrI6sU5) | 2:48 | 2024-06-27 | 2025-01-24 |
-| [Deep Waters](https://open.spotify.com/track/747c4oOEq9CG037CUWnz0x) | [SKAYA](https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC) | [Deep Waters](https://open.spotify.com/album/137GJAREvB0f5PFfqz4V4V) | 2:36 | 2025-09-11 |  |
+| [Deep Waters](https://open.spotify.com/track/747c4oOEq9CG037CUWnz0x) | [SKAYA](https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC) | [Deep Waters](https://open.spotify.com/album/137GJAREvB0f5PFfqz4V4V) | 2:36 | 2025-09-11 | 2025-10-07 |
 | [Dele Af Mig](https://open.spotify.com/track/6dYo4ACAhGL5JeVYHkWIls) | [milo](https://open.spotify.com/artist/0ySh6QBLEyARk5Nfuxu3gF) | [Dele Af Mig](https://open.spotify.com/album/38MJIeGsUGnQyk6y74tAga) | 2:47 | 2025-02-20 | 2025-05-18 |
 | [Dem, Vi Plejede At Være](https://open.spotify.com/track/2MtiQSpFfpbJZOfF5hYnRx) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw) | [Dem, Vi Plejede At Være](https://open.spotify.com/album/0IeENk7W2iwxHWhln55wvm) | 5:38 | 2024-06-27 | 2025-02-07 |
 | [Den Lykkelige Ungdom](https://open.spotify.com/track/1AL7r6OKkjW77eRDaTZsSI) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Den Lykkelige Ungdom](https://open.spotify.com/album/3fJ3oOrnnde9HHFCzu0xfo) | 2:43 | 2025-09-11 | 2025-10-02 |
@@ -227,6 +227,7 @@
 | [promise to pick up the phone](https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 3:52 | 2024-06-27 | 2025-04-11 |
 | [Puff](https://open.spotify.com/track/3s3jW8NmP4eLUz32sGxCPa) | [Dopha](https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn) | [Puff](https://open.spotify.com/album/7Jn6iY8Vr6OsJ4AkqYd88E) | 3:19 | 2024-06-27 | 2024-09-29 |
 | [Pussy](https://open.spotify.com/track/3vagFJCZdj6Y43MyTuTRRG) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Pussy](https://open.spotify.com/album/3Fn2IEnBfAdxz2lrYpYYpS) | 2:55 | 2025-01-09 | 2025-01-24 |
+| [PÅ TIL DET SAMME](https://open.spotify.com/track/2OD3EFIqq5w9XZNlaT5SwS) | [Elias](https://open.spotify.com/artist/6GHeYbQYL39Ri5g9a8rb2K) | [PÅ TIL DET SAMME](https://open.spotify.com/album/5NfrOu0p6wuOjrf72B9orO) | 1:56 | 2025-10-02 |  |
 | [Pæn](https://open.spotify.com/track/2hhJ58m1JDiXHJ4CGj89U3) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Pæn](https://open.spotify.com/album/2A2O9G1GCevpWdLPUjVaKY) | 3:10 | 2025-05-15 | 2025-09-12 |
 | [Regn](https://open.spotify.com/track/2fPIqRfy3iZIFwycVk8J90) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Regn](https://open.spotify.com/album/5xRpLE2g1CpQStr3AeNYHl) | 3:42 | 2024-06-27 | 2025-03-28 |
 | [Regn På Min Kind](https://open.spotify.com/track/5mcIyGl60e8Y1pk4hx8l6S) | [BUKURU](https://open.spotify.com/artist/3ihqaAb6mlqx7JYCgo8mSN) | [Regn På Min Kind](https://open.spotify.com/album/6xscW4MSCl4g87YaQyd8BH) | 2:49 | 2025-03-27 | 2025-05-23 |
@@ -244,7 +245,7 @@
 | [Se Mig Før Jeg Glemmer Hvem Jeg Er](https://open.spotify.com/track/6eKpCSesviVv5WEtuU8fMJ) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Daylight](https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX) | 4:01 | 2024-10-24 | 2024-11-29 |
 | [Seen In A Movie](https://open.spotify.com/track/1V3QKm4YOq3PgWUYZdUd3M) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [Seen In A Movie](https://open.spotify.com/album/1b74dPCUw7n0ycIGv5dDPX) | 2:50 | 2025-08-21 | 2025-08-29 |
 | [Ser I Mig Nu](https://open.spotify.com/track/5vUPHxD3j8UHXXcZwNgm63) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Ser I Mig Nu](https://open.spotify.com/album/6R5lKOetm0GTwtvP5msPpY) | 2:05 | 2025-01-16 | 2025-01-24 |
-| [shout pillow](https://open.spotify.com/track/6LIx9hdE9SszNPuKTKbMZ5) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [shout pillow](https://open.spotify.com/album/6yi8WNTeuH4sIPH8uC01YG) | 2:21 | 2025-09-04 |  |
+| [shout pillow](https://open.spotify.com/track/6LIx9hdE9SszNPuKTKbMZ5) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [shout pillow](https://open.spotify.com/album/6yi8WNTeuH4sIPH8uC01YG) | 2:21 | 2025-09-04 | 2025-10-07 |
 | [Sidste Gang \(feat\. Silvia\)](https://open.spotify.com/track/1oPn5TXceV3wB58jKxLMkJ) | [Josie Amadonna](https://open.spotify.com/artist/1OkuTIe9TmyBFKMmlAyJLR), [Silvia](https://open.spotify.com/artist/10hzpfut54PK26giA9Mm3X) | [Sidste Gang \(feat\. Silvia\)](https://open.spotify.com/album/0KkoMqyodpwPncrqMGLDbz) | 2:39 | 2025-01-09 | 2025-01-24 |
 | [Sidste År](https://open.spotify.com/track/27aVuXVBHVGcCPc8NH1KoH) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Sidste År](https://open.spotify.com/album/6DE2GW3cUXFGvkmFikTpMf) | 3:22 | 2025-01-09 | 2025-09-12 |
 | [Siger Det Ik'](https://open.spotify.com/track/0A4EXxKqR3WSfft3rwFeHU) | [UNG\-SKAB](https://open.spotify.com/artist/7JfoyGGsFgGPfhgfPvpqk8) | [Siger Det Ik'](https://open.spotify.com/album/1hdjh1iAjtRzAwKfy8LMO8) | 2:48 | 2024-06-27 | 2025-05-04 |
@@ -261,6 +262,7 @@
 | [STADION](https://open.spotify.com/track/4kudNL6XGu5Y79pcUNWILB) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [STADION](https://open.spotify.com/album/4LhHEEE9u5q0vRkv5rOkyn) | 2:22 | 2025-06-26 | 2025-09-05 |
 | [Stemmer fra fjernsynet](https://open.spotify.com/track/0XMSfklhL44luk3W4vpIWl) | [Mona Moroni](https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS) | [Vågen igen](https://open.spotify.com/album/3HpKzH04BvceLrOcvWUy6g) | 3:54 | 2024-11-28 | 2025-01-10 |
 | [Storebæltsbroen](https://open.spotify.com/track/7jnKJJB0H7Pl3uyw9ifY7X) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw) | [Storebæltsbroen](https://open.spotify.com/album/3Rd1qpiv4brUgL2qJrFL5q) | 2:59 | 2024-06-27 | 2025-08-01 |
+| [Storm](https://open.spotify.com/track/57zAO3UAUe7aP3rjrVAYJR) | [Holdo](https://open.spotify.com/artist/6KGJwNmZhtZIIcDkMLAfDC) | [Storm](https://open.spotify.com/album/56nT96slSLaC6UL8d0VIQH) | 3:00 | 2025-10-02 |  |
 | [Strong](https://open.spotify.com/track/6kvS2z82Q6l7h4DnzteKwO) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Strong](https://open.spotify.com/album/3ZrhrH8iDFgDLEgVYfobR7) | 2:59 | 2024-08-15 | 2024-09-20 |
 | [Stuck in Traffic](https://open.spotify.com/track/5kesuNK5cwGT8wXdxSI4E0) | [Anna Frank](https://open.spotify.com/artist/1RCtH6n7rYymOrMvbX84xg) | [Stuck in Traffic](https://open.spotify.com/album/14VcWo1zOmyts2Md2OrJ2F) | 3:15 | 2025-08-28 |  |
 | [Styrke](https://open.spotify.com/track/2ev8YZ4KyMfRVSTujKhtWu) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT) | [Tro](https://open.spotify.com/album/03IN8a5iPH94Nb5SlQYimx) | 2:46 | 2025-01-30 | 2025-02-05 |

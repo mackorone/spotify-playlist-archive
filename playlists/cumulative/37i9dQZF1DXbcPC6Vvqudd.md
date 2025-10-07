@@ -4,16 +4,17 @@
 
 > Sleep with sounds of pouring rain and occasional rolling thunder.
 
-467 songs - 20 hr 50 min
+468 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3D Rain](https://open.spotify.com/track/3PHJojTKJBt5uqWdq38lHd) | [Rain In Spain](https://open.spotify.com/artist/5eDzrKBgV4C8kovSd9vup9) | [Part Two](https://open.spotify.com/album/3kvMpN08jpYtQB1cr1Y93a) | 3:49 | 2021-11-08 |  |
+| [A Day of Rain](https://open.spotify.com/track/5XOhWkb0Q9uHaSYztJYwU5) | [Lakoustiks](https://open.spotify.com/artist/3D8fqVzEmlJnUq50MV3aJl) | [A Day of Rain](https://open.spotify.com/album/1r4vtkpjEK15D265Ml7dmj) | 2:19 | 2025-07-24 |  |
 | [A Rainy Day At The Park](https://open.spotify.com/track/3GIlON6gSvqaNJYm87uWsM) | [Waters Of Deluge](https://open.spotify.com/artist/0WOVfUGhrR6cXub2J4wz10) | [Park And Nature Rains](https://open.spotify.com/album/4d39VZ9ogKIVcm1d5V00cT) | 2:48 | 2021-11-08 |  |
 | [Abstract Rain](https://open.spotify.com/track/2FPTU93d4laMXksmiJ9OR6) | [Sams Sampling](https://open.spotify.com/artist/0l3BC2nHquksROX70Y9c8S) | [Urban Rain For Dreams](https://open.spotify.com/album/1zdi48TyXAEfP64z053T5m) | 2:41 | 2021-11-08 |  |
 | [Acid Rain](https://open.spotify.com/track/595y6mnfwmHJHH4KjvQ90o) | [Euaxation](https://open.spotify.com/artist/1DthR3wwpDfHLnqfFqiAJK) | [Wet Season](https://open.spotify.com/album/7AmPjlijHdoyZoJfnoPlQM) | 2:22 | 2021-11-08 |  |
 | [Aint No Sunshine When There's Rain](https://open.spotify.com/track/6SZvCnStgcYX3Rlj5ttODW) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [London Days](https://open.spotify.com/album/5RFrcOdX3Qzc6sTPYXtVVq) | 3:12 | 2021-11-08 | 2024-03-22 |
-| [Alcance](https://open.spotify.com/track/5ztAcoTCCDKvkdGnAjqNM5) | [Radio Pluvialis](https://open.spotify.com/artist/55ZWeI199GqB3xiSig23pa) | [En Sintonía](https://open.spotify.com/album/3fnaCxg6msIv9Pmtv5haC3) | 2:26 | 2023-06-15 | 2025-10-04 |
+| [Alcance](https://open.spotify.com/track/5ztAcoTCCDKvkdGnAjqNM5) | [Radio Pluvialis](https://open.spotify.com/artist/55ZWeI199GqB3xiSig23pa) | [En Sintonía](https://open.spotify.com/album/3fnaCxg6msIv9Pmtv5haC3) | 2:26 | 2023-06-15 |  |
 | [Alley Thunderstorm](https://open.spotify.com/track/78PJ9kFlCbb84NWXacnrqB) | [The Relaxation Hub](https://open.spotify.com/artist/6J2XOkGyDdC603Fmf44J5e) | [The Relaxation Hub](https://open.spotify.com/album/4yf6oR4OwkGuk0rlOGIwco) | 2:39 | 2021-11-08 | 2023-02-14 |
 | [Always Raining](https://open.spotify.com/track/0WpKvgOUCpKowejZgeO5W0) | [Tono](https://open.spotify.com/artist/4TBU1LUldUubb3RaqmLLN7) | [Always Raining](https://open.spotify.com/album/5CAI53hmKfuMEiDuWIUg2F) | 3:36 | 2021-11-08 |  |
 | [Ambience: Forest Rain](https://open.spotify.com/track/4qeovMaYuZLdxH8SFS5GLm) | [X.L.T](https://open.spotify.com/artist/5XmANDHn1nUVL3rVyohz9t) | [Ambience: Forest Rain](https://open.spotify.com/album/02VU8nz7IrQdiheKviqRL9) | 2:48 | 2021-11-08 |  |
@@ -126,7 +127,7 @@
 | [Forêt tropicale](https://open.spotify.com/track/1tQIg93C2Vq70UTa50vUE3) | [Audiose](https://open.spotify.com/artist/5zfePIwsyuFpWjVE3qr3qA) | [Tonnerre et pluie](https://open.spotify.com/album/3wduQV3xbgPHB4QmHFkqYI) | 2:25 | 2021-11-08 |  |
 | [Friskt Regn](https://open.spotify.com/track/1baZVsKUgC1Uisoz0Cq6Ih) | [Naturen](https://open.spotify.com/artist/3ajIuyxPMn88QDy3p6P6FB) | [Regn](https://open.spotify.com/album/0mr6zgZL3NGZfJWH0Q9OCr) | 2:59 | 2021-11-08 |  |
 | [Frühlingsregen](https://open.spotify.com/track/33bk0r7RYQehNRq89NHmfQ) | [Schlafregengeräusche](https://open.spotify.com/artist/4odKaNPSbifXARPmQ2fu28) | [Frühlingsregen](https://open.spotify.com/album/1DLMqxmEADF4yccqDGGVXR) | 3:22 | 2022-01-21 |  |
-| [Fuerte lluvia y trueno](https://open.spotify.com/track/226PADyAAd84tELtUrT4No) | [Pacifica Norte](https://open.spotify.com/artist/3uHURKaTSA3GBQOqUbVXpm) | [Lluvia ligera y truenos](https://open.spotify.com/album/09x9KnmIyjuZYwZMC5I8Eu) | 2:19 | 2021-11-08 |  |
+| [Fuerte lluvia y trueno](https://open.spotify.com/track/226PADyAAd84tELtUrT4No) | [Pacifica Norte](https://open.spotify.com/artist/3uHURKaTSA3GBQOqUbVXpm) | [Lluvia ligera y truenos](https://open.spotify.com/album/09x9KnmIyjuZYwZMC5I8Eu) | 2:19 | 2021-11-08 | 2025-10-07 |
 | [Garasia Rain Forest](https://open.spotify.com/track/0I42DRVbtMJr0bLEO6ZQB6) | [Literrain](https://open.spotify.com/artist/4rwOqhIQpWyk3Tx4GbiqMw) | [Garasia Rain Forest](https://open.spotify.com/album/05T1og9UcFJdSUzZcobUfz) | 2:07 | 2021-11-08 |  |
 | [Gentle Rainfall](https://open.spotify.com/track/0VXm3lekdKs2OriLvog6qz) | [Harmonious Nature](https://open.spotify.com/artist/334v3jkZ2T1J40I0QGT3rZ) | [Gentle Rainfall](https://open.spotify.com/album/6SUjsYkcWYBOTylI6aSsCA) | 2:06 | 2023-06-15 |  |
 | [Gentle Thunderstorm](https://open.spotify.com/track/4J7XG8zX9GfONRpObawdX0) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Western Rain](https://open.spotify.com/album/6kA4urxt8Ikb7pk7R8Nx60) | 2:12 | 2021-11-08 |  |
@@ -435,7 +436,7 @@
 | [Thunder In Motion](https://open.spotify.com/track/66PaJAfv8IGEjBj0cggYnZ) | [Weathererse](https://open.spotify.com/artist/6Pt0aqNLG6v5g0caOTgcll) | [Swim In The Storm](https://open.spotify.com/album/3TMBIvmt6YUTC0gh1O1Kax) | 1:55 | 2021-11-08 | 2023-06-16 |
 | [Thunder Through The Night](https://open.spotify.com/track/06gtbxmgyG7uYuDDsorKSg) | [Myrs](https://open.spotify.com/artist/6xqQc4rYEbyc9YV7cHZY6Y) | [Nature Rumble](https://open.spotify.com/album/2VBhhO8AUOD9HnJN4kYifp) | 2:12 | 2021-11-08 |  |
 | [Thunderclaps](https://open.spotify.com/track/4e0g5gfNw19IVhwSgPDsHc) | [WeatherBug](https://open.spotify.com/artist/0uU87nlGO0v4JcxS7tMPdB) | [A Storm Is Brewing](https://open.spotify.com/album/6fPAUNMUttiZ8pcEm2PdVy) | 2:33 | 2021-11-08 |  |
-| [Thunderstorm and Strong Winds](https://open.spotify.com/track/6ntncuA9hOa8aJFGEQ1ytK) | [Las Vientas](https://open.spotify.com/artist/3HzI9Zvsqx2AMuLlikzXTT) | [Thunderstorm and Wind Gusts](https://open.spotify.com/album/5sqeql2YcCC6bWqwEa39e9) | 2:48 | 2025-04-09 |  |
+| [Thunderstorm and Strong Winds](https://open.spotify.com/track/6ntncuA9hOa8aJFGEQ1ytK) | [Las Vientas](https://open.spotify.com/artist/3HzI9Zvsqx2AMuLlikzXTT) | [Thunderstorm and Wind Gusts](https://open.spotify.com/album/5sqeql2YcCC6bWqwEa39e9) | 2:48 | 2025-04-09 | 2025-10-07 |
 | [Thunderstorm In the Forest](https://open.spotify.com/track/3D97oOZdpxItVqFoAwBfYC) | [Dieter Esther](https://open.spotify.com/artist/6z0YBDZwZIxUzf0rO3WMFB) | [Weather Watcher](https://open.spotify.com/album/2Xm7W3aJDAsQPYQD7eDcgC) | 2:34 | 2021-11-08 |  |
 | [Tonnerre et pluie](https://open.spotify.com/track/3ZW0AweIggT138hYLyEeFN) | [Hi\-Def FX](https://open.spotify.com/artist/114xO3n0xOrXmOLqwVoHj2) | [Légère pluie d'orage](https://open.spotify.com/album/2SGw4AZyKFo9jMVOXsSQqy) | 1:54 | 2021-11-08 | 2023-06-16 |
 | [Tonnerre Tropical](https://open.spotify.com/track/4g8Uwb4iR9NVsQA4zpixt5) | [Christophe Frédérique](https://open.spotify.com/artist/1tFG73IXT0OVdkSJ5qwTcA) | [Tonnerre Tropical](https://open.spotify.com/album/1gT4wCpiinP8wfbn9F91tF) | 2:18 | 2021-11-08 | 2024-03-15 |

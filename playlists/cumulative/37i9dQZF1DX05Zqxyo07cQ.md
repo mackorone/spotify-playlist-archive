@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-828 songs - 1 day 16 hr 7 min
+829 songs - 1 day 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Bridge](https://open.spotify.com/track/766KT37qZwAW4xqybRdZtX) | [Awake or Asleep](https://open.spotify.com/artist/3oBTUfwSCOhxSuhdXeN1c4) | [Bridge](https://open.spotify.com/album/6rJQvV71A2xTO22BCjnw7h) | 2:55 | 2024-08-16 | 2025-02-18 |
 | [Bright, Brighter](https://open.spotify.com/track/7pJZY6LRXoY8UmJNOy5J2Y) | [Sonorous Drone](https://open.spotify.com/artist/2eHQj6ufTBhAxqRRqMJIZx) | [Bright, Brighter](https://open.spotify.com/album/1yXODdUcnSWw4WSyHS1xU1) | 2:45 | 2025-06-17 |  |
 | [Broken Ledge](https://open.spotify.com/track/6kM1BzE57Mt5ILbWqzMB14) | [Rubicon Fray](https://open.spotify.com/artist/26I6Wv05zdcv6tt43ruf5Z) | [Broken Ledge](https://open.spotify.com/album/6EunXIj9FEYNhXS597LXIa) | 2:22 | 2023-03-23 | 2024-03-21 |
-| [Buoyed](https://open.spotify.com/track/5G5SUZpvIXZX5PvKNqruvU) | [Earthbound](https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03) | [Buoyed](https://open.spotify.com/album/0zg3nYsefBVwq4ebNfm0qW) | 2:30 | 2024-11-21 |  |
+| [Buoyed](https://open.spotify.com/track/5G5SUZpvIXZX5PvKNqruvU) | [Earthbound](https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03) | [Buoyed](https://open.spotify.com/album/0zg3nYsefBVwq4ebNfm0qW) | 2:30 | 2024-11-21 | 2025-10-07 |
 | [Butterfly](https://open.spotify.com/track/5bKOctkwgdfCktzgabUPne) | [Penny Layn](https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy) | [Butterfly](https://open.spotify.com/album/0z60NoGLU6RnvxUSCCskIW) | 3:01 | 2023-03-23 | 2024-02-09 |
 | [Cadeau](https://open.spotify.com/track/1uDuwJazJz7RRgrrkkEonw) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Cadeau](https://open.spotify.com/album/0jLAqumtp6VUkT7ielt55m) | 3:09 | 2023-03-23 | 2024-02-09 |
 | [Cali Dreams](https://open.spotify.com/track/5zswYTabeKhJmNT7Rr13HC) | [Stellar Serenity](https://open.spotify.com/artist/0cNkXhcvWBfK1vKVAUC7Ye) | [Cali Dreams](https://open.spotify.com/album/4tyg58v0XVeXeL0ZyolT3s) | 2:30 | 2024-12-17 | 2025-05-23 |
@@ -769,6 +769,7 @@
 | [Timeframe](https://open.spotify.com/track/4SuMhk4CgYIz3pPKRIXHFp) | [Sailors Of The 7 Seas](https://open.spotify.com/artist/64u292UVi3Zlu0Dl9svsMb) | [Timeframe](https://open.spotify.com/album/7BIGjdAsTOcMIQn12For8s) | 3:04 | 2023-03-23 | 2024-02-09 |
 | [Timeless Glow](https://open.spotify.com/track/1PtbVTP8BooABy9eQ0wymQ) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Timeless Glow](https://open.spotify.com/album/5XA7ddkuhLXLq0mxjh8cx4) | 3:32 | 2025-02-14 | 2025-05-26 |
 | [Tiniebla](https://open.spotify.com/track/1uGy4uNI3SeVUien40Dtzo) | [Pearl Melendez](https://open.spotify.com/artist/6UGfKivLtHEJnrNdPcZHZh) | [Tiniebla](https://open.spotify.com/album/658s4v4gvYkydLyeuaMhsd) | 3:29 | 2023-03-23 | 2024-02-09 |
+| [tint](https://open.spotify.com/track/7suP8ED5szP300Am4HRERx) | [austice](https://open.spotify.com/artist/1iZ4k3yVszfq6m6vw1AQ5L) | [tint](https://open.spotify.com/album/0oNtp7nSYVgQUttDu2jCpk) | 2:56 | 2025-09-23 |  |
 | [Tomorrow](https://open.spotify.com/track/4gf8ak0NXmpNdywwNHTdOO) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Tomorrow](https://open.spotify.com/album/5XpHFAttu9ZYiC0SUvdWG2) | 3:07 | 2025-09-23 |  |
 | [Touches](https://open.spotify.com/track/6KzdWw8Hi1bz1lVw2AXDzb) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Touches](https://open.spotify.com/album/0gr42nFesHmvHP2rihBldP) | 2:24 | 2024-02-08 | 2024-07-16 |
 | [Tout Autour De Nous](https://open.spotify.com/track/0qAFa5xFjEyky6mCW2WTXT) | [Iris Guilbert](https://open.spotify.com/artist/6YR85wKc8XLYVhRaFA2ql8) | [Tout Autour De Nous](https://open.spotify.com/album/0dJGlhXqFX9sftgM17o2Xh) | 3:08 | 2023-03-23 | 2024-03-21 |

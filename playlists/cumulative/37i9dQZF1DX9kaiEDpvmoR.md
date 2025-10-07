@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-448 songs - 1 day 2 hr 8 min
+449 songs - 1 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Balladen om Joe Hill](https://open.spotify.com/track/17fA4aBflCSjovdCUPMvG7) | [Love Antell](https://open.spotify.com/artist/1NsCBCpJLNQstRoKr4oS0G) | [Balladen om Joe Hill](https://open.spotify.com/album/2H8Yypx0nDNWLYnRZhNdig) | 3:16 | 2025-04-24 | 2025-06-06 |
 | [Bar Thinking](https://open.spotify.com/track/2nJfr4oazvlWLoeNYZWQhD) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Bar Thinking](https://open.spotify.com/album/6JCtqw85DgIoIhu7xqA90c) | 3:05 | 2024-06-27 | 2024-08-30 |
 | [Bara vara mig själv](https://open.spotify.com/track/2FZ3LanaveWTMf2aWaMnpy) | [Lisa Miskovsky](https://open.spotify.com/artist/5J0dXmqEYctfFsmcakqZFH) | [Eljest](https://open.spotify.com/album/3D0jMkMGAaZ7AbPnYr4tJG) | 4:06 | 2025-03-10 | 2025-06-06 |
-| [Beautiful Things](https://open.spotify.com/track/7yteHACWU1wnAle5GqzMbx) | [Dad Harmony](https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX) | [Beautiful Things](https://open.spotify.com/album/1roKvLZQqtzpvxiuEA5jMt) | 3:12 | 2025-04-10 |  |
+| [Beautiful Things](https://open.spotify.com/track/7yteHACWU1wnAle5GqzMbx) | [Dad Harmony](https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX) | [Beautiful Things](https://open.spotify.com/album/1roKvLZQqtzpvxiuEA5jMt) | 3:12 | 2025-04-10 | 2025-10-07 |
 | [Benjamin \- From the TV series 'Etter Benjamin'](https://open.spotify.com/track/6qMI1g2TrI8YkybFCBnmwM) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Benjamin \(From the TV series 'Etter Benjamin'\)](https://open.spotify.com/album/2fpkbXE7GnDltvI6m4AJZX) | 3:20 | 2025-09-25 |  |
 | [Bermuda Triangle](https://open.spotify.com/track/3VfcwjlkUMqbXlJlXpWr5u) | [Lexi Berg](https://open.spotify.com/artist/5ZN5AAuWmyLdheRP0rE7dK) | [Bermuda Triangle](https://open.spotify.com/album/1SaesdaWRe58QoVxuNqy5z) | 3:20 | 2024-09-19 | 2024-10-15 |
 | [Besvärjelse \(jag kommer älska dig då\)](https://open.spotify.com/track/0V5IP7tHiJXpyWRsSV5GAX) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Lånat](https://open.spotify.com/album/1pKWyplKpbYHNw1Xdu003A) | 4:17 | 2025-06-05 |  |
@@ -138,6 +138,7 @@
 | [Fri till slut \- Spotify Singles](https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Fri till slut \- Spotify Singles](https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO) | 4:48 | 2024-06-27 | 2025-04-04 |
 | [Fyllda Av Sommar](https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Fyllda Av Sommar](https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3) | 3:24 | 2025-02-14 | 2025-09-03 |
 | [För evigt ny](https://open.spotify.com/track/4Ci4q11TszLgwPbMrsUJvX) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2) | [För evigt ny](https://open.spotify.com/album/08ddJCSdEDyPKzc2kOJHHW) | 4:08 | 2025-09-04 |  |
+| [För vägens vind](https://open.spotify.com/track/2CjVjcTethPX4VLYNsZPlP) | [Larz\-Kristerz](https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3) | [För vägens vind](https://open.spotify.com/album/1JYKArJzrDTQc7hUNvCY9Y) | 3:20 | 2025-10-02 |  |
 | [Förbjudna tankar](https://open.spotify.com/track/23fBN1sw5DBKnADUPxUicl) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Förbjudna tankar](https://open.spotify.com/album/0jEvZDn9Q701djBnQeZEAj) | 2:19 | 2024-06-27 | 2024-08-09 |
 | [Förloraren](https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS) | [Genom Natten](https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9) | [Förloraren](https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo) | 3:05 | 2025-03-20 |  |
 | [Försökte tycka om dig \- Alternativ version](https://open.spotify.com/track/7dNmLi1KdsJFoAcUNQBdGs) | [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [Livet är en cykeltur](https://open.spotify.com/album/69oFUzsxhyfMfv9tf6tNpw) | 3:01 | 2025-06-12 | 2025-07-18 |
