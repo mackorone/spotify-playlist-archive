@@ -1,6 +1,6 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 144391,
+  "num_followers": 144390,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
@@ -859,6 +859,30 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
+        "name": "Wash Over",
+        "url": "https://open.spotify.com/album/5HFf9LEGoJ5UxjywfHhLcI"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "Daktyl",
+          "url": "https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ"
+        },
+        {
+          "name": "RIZ LA VIE",
+          "url": "https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k"
+        }
+      ],
+      "duration_ms": 187659,
+      "name": "Wash Over",
+      "url": "https://open.spotify.com/track/4WabHy46Xmp6O3kLaCP1dp"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
         "name": "Blue Light",
         "url": "https://open.spotify.com/album/4N721gRUUOQBwfAaPoJlt7"
       },
@@ -887,30 +911,6 @@
       "duration_ms": 184687,
       "name": "XTC",
       "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
-        "name": "Wash Over",
-        "url": "https://open.spotify.com/album/5HFf9LEGoJ5UxjywfHhLcI"
-      },
-      "artists": [
-        {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
-        },
-        {
-          "name": "Daktyl",
-          "url": "https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ"
-        },
-        {
-          "name": "RIZ LA VIE",
-          "url": "https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k"
-        }
-      ],
-      "duration_ms": 187659,
-      "name": "Wash Over",
-      "url": "https://open.spotify.com/track/4WabHy46Xmp6O3kLaCP1dp"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -1023,26 +1023,22 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Drift / Long Story Short",
-        "url": "https://open.spotify.com/album/2Xd17DTj75hnMPUFEkHBGx"
+        "name": "Cowgirl",
+        "url": "https://open.spotify.com/album/7DDKQh6Y9UbKCMVIYHKnHz"
       },
       "artists": [
         {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+          "name": "Alyz\u00e9e",
+          "url": "https://open.spotify.com/artist/7qVwsLEso0qnI6kYDjNWsO"
         },
         {
-          "name": "Flansie",
-          "url": "https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI"
-        },
-        {
-          "name": "Sunnysoposted",
-          "url": "https://open.spotify.com/artist/0U3uMh2JMp81V2hup0bJdt"
+          "name": "Vrdnyn",
+          "url": "https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y"
         }
       ],
-      "duration_ms": 246956,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/75psyfokDgEGACe1wurFPa"
+      "duration_ms": 145741,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -1067,22 +1063,26 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Cowgirl",
-        "url": "https://open.spotify.com/album/7DDKQh6Y9UbKCMVIYHKnHz"
+        "name": "Drift / Long Story Short",
+        "url": "https://open.spotify.com/album/2Xd17DTj75hnMPUFEkHBGx"
       },
       "artists": [
         {
-          "name": "Alyz\u00e9e",
-          "url": "https://open.spotify.com/artist/7qVwsLEso0qnI6kYDjNWsO"
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
         },
         {
-          "name": "Vrdnyn",
-          "url": "https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y"
+          "name": "Flansie",
+          "url": "https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI"
+        },
+        {
+          "name": "Sunnysoposted",
+          "url": "https://open.spotify.com/artist/0U3uMh2JMp81V2hup0bJdt"
         }
       ],
-      "duration_ms": 145741,
-      "name": "Cowgirl",
-      "url": "https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e"
+      "duration_ms": 246956,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/75psyfokDgEGACe1wurFPa"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
+        "name": "Can't Do Without (My Baby)",
+        "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Can't Do Without (My Baby)",
+      "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
         "name": "REMEMBER",
         "url": "https://open.spotify.com/album/7z947NgHMz8Ievh7nUciWY"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 219411,
       "name": "REMEMBER",
       "url": "https://open.spotify.com/track/3kuSEpeOT2IuPaIynwpcjq"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
-        "name": "Can't Do Without (My Baby)",
-        "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Can't Do Without (My Baby)",
-      "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
+        "name": "Innadream",
+        "url": "https://open.spotify.com/album/75U6gZIUN0HbSWJ1fNLhuP"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "duration_ms": 193108,
+      "name": "Innadream",
+      "url": "https://open.spotify.com/track/39OWi2zw0JQ34MILmKQQpd"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
         "name": "Alone Again (feat. PEPTALK)",
         "url": "https://open.spotify.com/album/3vwhUwx3bSeAZoX3XhBoHt"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 195522,
       "name": "Alone Again (feat. PEPTALK)",
       "url": "https://open.spotify.com/track/5dc3M8IGZLZX6nk8AjtO7k"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
-        "name": "Innadream",
-        "url": "https://open.spotify.com/album/75U6gZIUN0HbSWJ1fNLhuP"
-      },
-      "artists": [
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        }
-      ],
-      "duration_ms": 193108,
-      "name": "Innadream",
-      "url": "https://open.spotify.com/track/39OWi2zw0JQ34MILmKQQpd"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
+        "name": "Keep Up",
+        "url": "https://open.spotify.com/album/4SDqBoOMC07Q2ObQBQrQ39"
+      },
+      "artists": [
+        {
+          "name": "Kinder",
+          "url": "https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm"
+        }
+      ],
+      "duration_ms": 210210,
+      "name": "Keep Up",
+      "url": "https://open.spotify.com/track/1posBKEgD6xCwLZVu5JpLl"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
         "name": "Gimme Some More (feat. Shungudzo)",
         "url": "https://open.spotify.com/album/7aAXhHWwZALLDrsgI3PC6I"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 140806,
       "name": "Differences",
       "url": "https://open.spotify.com/track/5g9Pgt8T9ppNyMtNIGV1pw"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
-        "name": "Keep Up",
-        "url": "https://open.spotify.com/album/4SDqBoOMC07Q2ObQBQrQ39"
-      },
-      "artists": [
-        {
-          "name": "Kinder",
-          "url": "https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm"
-        }
-      ],
-      "duration_ms": 210210,
-      "name": "Keep Up",
-      "url": "https://open.spotify.com/track/1posBKEgD6xCwLZVu5JpLl"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Pogo",
-        "url": "https://open.spotify.com/album/4xBkF3P6Sb1ZgmYI2KXMrK"
-      },
-      "artists": [
-        {
-          "name": "Skeleten",
-          "url": "https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y"
-        }
-      ],
-      "duration_ms": 264512,
-      "name": "Pogo",
-      "url": "https://open.spotify.com/track/4ZuJpRxOjmElSFkWMlpCqn"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
         "name": "Since I Don't Have You (Dual Remix)",
         "url": "https://open.spotify.com/album/1Bxt7K4vf4jnsbkQWhzzZE"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 166254,
       "name": "Since I Don't Have You - Dual Remix",
       "url": "https://open.spotify.com/track/4Y6Jf44nfFTmCVhZNdrV49"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
+        "name": "Pogo",
+        "url": "https://open.spotify.com/album/4xBkF3P6Sb1ZgmYI2KXMrK"
+      },
+      "artists": [
+        {
+          "name": "Skeleten",
+          "url": "https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y"
+        }
+      ],
+      "duration_ms": 264512,
+      "name": "Pogo",
+      "url": "https://open.spotify.com/track/4ZuJpRxOjmElSFkWMlpCqn"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
+        "name": "Mirror Mountain",
+        "url": "https://open.spotify.com/album/3hcYCXbWFUV5eP4wZPQn8K"
+      },
+      "artists": [
+        {
+          "name": "Hermitude",
+          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
+        }
+      ],
+      "duration_ms": 295198,
+      "name": "Flush with Love",
+      "url": "https://open.spotify.com/track/5pbpePKq40EPcbfQSlFHD3"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
         "name": "wish that i could (Memphis LK Remix)",
         "url": "https://open.spotify.com/album/2XOxNQQpNIccflEHM0x6u3"
       },
@@ -1735,18 +1751,18 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Mirror Mountain",
-        "url": "https://open.spotify.com/album/3hcYCXbWFUV5eP4wZPQn8K"
+        "name": "In The Sweetness of You",
+        "url": "https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq"
       },
       "artists": [
         {
-          "name": "Hermitude",
-          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
         }
       ],
-      "duration_ms": 295198,
-      "name": "Flush with Love",
-      "url": "https://open.spotify.com/track/5pbpePKq40EPcbfQSlFHD3"
+      "duration_ms": 233253,
+      "name": "21",
+      "url": "https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -1775,22 +1791,6 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "In The Sweetness of You",
-        "url": "https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        }
-      ],
-      "duration_ms": 233253,
-      "name": "21",
-      "url": "https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
         "name": "Sunny Day",
         "url": "https://open.spotify.com/album/0ZcsTyc5wSv7VsQGJSjXAa"
       },
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
+        "name": "TOMMY",
+        "url": "https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1"
+      },
+      "artists": [
+        {
+          "name": "WALKER.",
+          "url": "https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB"
+        }
+      ],
+      "duration_ms": 212521,
+      "name": "TOMMY",
+      "url": "https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
         "name": "Feel It (Claptone Remix)",
         "url": "https://open.spotify.com/album/1EYNtwX4XZClAvBiozcLNA"
       },
@@ -1827,22 +1843,6 @@
       "duration_ms": 200813,
       "name": "Feel It - Claptone Remix",
       "url": "https://open.spotify.com/track/4Gnz8xgMWStsGMSU8ITxNS"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
-        "name": "TOMMY",
-        "url": "https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1"
-      },
-      "artists": [
-        {
-          "name": "WALKER.",
-          "url": "https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB"
-        }
-      ],
-      "duration_ms": 212521,
-      "name": "TOMMY",
-      "url": "https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po"
     },
     {
       "added_at": "2025-08-01 04:00:43",

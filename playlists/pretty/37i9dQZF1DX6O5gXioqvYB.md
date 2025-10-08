@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Tutte le migliori nuove uscite indie sono qui 🌻 Cover: Anna Carol e Dente
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,188 likes - 115 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,192 likes - 115 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,6 +122,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 112 | [Triste come me](https://open.spotify.com/track/0KNbxAHfiv0btk8vSKxfEg) | [okaynevada](https://open.spotify.com/artist/5wb7dUe10caX4uCMTJocXr) | [Triste come me](https://open.spotify.com/album/2dTl5VbSnPmQwL2fHpbUcd) | 3:18 |
 | 113 | [Settembre ti perdonerò anche se](https://open.spotify.com/track/3yJSb76nbOlK3iZKMxzQR7) | [Nuvola](https://open.spotify.com/artist/1DxW7i7SZhmYiNxXIYbV79) | [Settembre ti perdonerò anche se](https://open.spotify.com/album/7LtrScZDATq4zXff91Mog4) | 3:20 |
 | 114 | [Granello di speranza](https://open.spotify.com/track/5tOPbs9J7ekO5dvdEwiqgR) | [Valentino Vivace](https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf) | [Granello di speranza](https://open.spotify.com/album/3a4YsZwhsXHkUhS5caXRxp) | 3:40 |
-| 115 | [Non mi piacciono le divise](https://open.spotify.com/track/2uNwk35D0hXXos5l4GQ19O) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW) | [Non mi piacciono le divise](https://open.spotify.com/album/6MeNQkRkRgFxZuOnXLfjxD) | 2:04 |
+| 115 | [Qui la guerra non può entrar](https://open.spotify.com/track/2uNwk35D0hXXos5l4GQ19O) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW) | [Qui la guerra non può entrar](https://open.spotify.com/album/6MeNQkRkRgFxZuOnXLfjxD) | 2:04 |
 
 Snapshot ID: `AAAAALLzhQjW2OXf+vwijJ3w7S9PkHfY`

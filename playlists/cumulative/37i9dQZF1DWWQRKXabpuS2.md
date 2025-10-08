@@ -4,7 +4,7 @@
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-422 songs - 1 day 5 hr 1 min
+423 songs - 1 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Mo Eisha Haya](https://open.spotify.com/track/1oaD9qOBx3jQPlmOJamnWN) | [Hamza Al Aseel](https://open.spotify.com/artist/7nQ1aN8DVGPMH6y80w7FU3) | [Mo Eisha Haya](https://open.spotify.com/album/7r0vk5ltcqqRUsOg6r8HQF) | 3:24 | 2021-12-23 | 2022-02-15 |
 | [Mo Mn Sejek](https://open.spotify.com/track/2sCK3QOOYu1PnOpkvBKfcw) | [Radooy](https://open.spotify.com/artist/266QTh2K8sujlqyPAnQuol) | [Mo Mn Sejek](https://open.spotify.com/album/0CUt165jWKrUjaWoa3Cyfm) | 3:04 | 2021-12-23 | 2022-03-12 |
 | [Moawari Al Atab](https://open.spotify.com/track/3qNy2bp2JmGzUToF4hbPUt) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Moawari Al Atab](https://open.spotify.com/album/0tiPriiPbSb4WrLz7iM3WW) | 3:23 | 2024-02-09 | 2024-10-11 |
+| [Modalali](https://open.spotify.com/track/2TzwSS261mOvEOBORrmjed) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Modalali](https://open.spotify.com/album/2mBvlgySmYubAVGWv0UcAx) | 3:16 | 2025-10-07 |  |
 | [Mokhtasr Alkalam](https://open.spotify.com/track/0aKVdGAShM0qDuQ0yXCfkR) | [Yousef Al Omani](https://open.spotify.com/artist/4a6lP1L1uUaoOpOVkA7dQX) | [Mokhtasr Alkalam](https://open.spotify.com/album/2ZZhDchQl1nUU8uRLOqqIH) | 3:44 | 2022-02-11 | 2022-07-07 |
 | [Momken Aeesh](https://open.spotify.com/track/53ossgJfdQhNVoVBPKd4Qz) | [Haneen Hussain](https://open.spotify.com/artist/4CmKKm9NdvAUNGjpc3LjJJ) | [Momken Aeesh](https://open.spotify.com/album/3Lcv7m0jw02fisyQPh7qmQ) | 4:47 | 2025-01-16 |  |
 | [Mostafz Alnas](https://open.spotify.com/track/1x3qoGBof6SVqJYi6WvhyI) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Mostafz Alnas](https://open.spotify.com/album/6M6XVr2LDKXOkUb5C4PNrO) | 3:05 | 2024-05-16 | 2024-06-21 |

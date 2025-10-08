@@ -1,6 +1,6 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos.",
-  "num_followers": 1130924,
+  "num_followers": 1130888,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "PorSuiGieco",
-        "url": "https://open.spotify.com/album/4cNKM9xwyyavxurd0T0vub"
-      },
-      "artists": [
-        {
-          "name": "Porsuigieco",
-          "url": "https://open.spotify.com/artist/4LoFcBNitqIC130rvzS6BG"
-        }
-      ],
-      "duration_ms": 219039,
-      "name": "La Mam\u00e1 de Jimmy",
-      "url": "https://open.spotify.com/track/01IQmxKdUJ7xaOVdMtWPPE"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Chocolate Ingl\u00e9s",
         "url": "https://open.spotify.com/album/3pZONXDON8OV4eHSvPPh1q"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 218320,
       "name": "El Chino (feat. Andr\u00e9s Calamaro)",
       "url": "https://open.spotify.com/track/7qs3pUILxp3VqyBLqhV6gU"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "PorSuiGieco",
+        "url": "https://open.spotify.com/album/4cNKM9xwyyavxurd0T0vub"
+      },
+      "artists": [
+        {
+          "name": "Porsuigieco",
+          "url": "https://open.spotify.com/artist/4LoFcBNitqIC130rvzS6BG"
+        }
+      ],
+      "duration_ms": 219039,
+      "name": "La Mam\u00e1 de Jimmy",
+      "url": "https://open.spotify.com/track/01IQmxKdUJ7xaOVdMtWPPE"
     },
     {
       "added_at": "2024-11-11 16:58:11",

@@ -4,7 +4,7 @@
 
 > 
 
-454 songs - 1 day 6 hr 7 min
+455 songs - 1 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [I Just Want To Love You](https://open.spotify.com/track/2wi0QZ8SagYzfSeAee6Rm4) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [I Just Want To Love You](https://open.spotify.com/album/4hofhgHoBQXquGsuaELmx4) | 3:50 | 2022-09-20 | 2023-06-28 |
 | [I Just Want To Love You \- Club Version](https://open.spotify.com/track/4e3Qn7ZlJsaRKUOJwzGVzk) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [I Just Want To Love You \(Club Version\)](https://open.spotify.com/album/3S948ScIz3AJ0QvPcXF9C6) | 5:04 | 2022-12-08 | 2023-03-30 |
 | [I Know](https://open.spotify.com/track/4cESBgPWqUgTCkQdLBMEsz) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [I Know](https://open.spotify.com/album/2nDhPyfL3FgzXv1gL67kPO) | 3:43 | 2023-02-10 | 2023-03-03 |
+| [I Like It Like That](https://open.spotify.com/track/70EG3KoKRu3jvsBlFVZYkJ) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [I Like It Like That](https://open.spotify.com/album/4fSeCHsY6f1o4ccUxC7FRT) | 2:53 | 2025-10-07 |  |
 | [I Love The Drive](https://open.spotify.com/track/1LpkTDHQkQ02lL3RnZYYCy) | [Kiss Nuka](https://open.spotify.com/artist/3VXmLRdy5ho8J1Btv7zffg) | [I Love The Drive](https://open.spotify.com/album/0XzTYBWfL8T431l7kb3ObF) | 5:28 | 2022-09-29 | 2022-11-18 |
 | [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 | 2024-08-23 | 2024-11-16 |
 | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt) | 3:51 | 2022-02-10 | 2022-07-15 |

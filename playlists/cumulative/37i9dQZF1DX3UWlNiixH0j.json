@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: ANORAK!",
+  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u67f4\u7530\u8061\u5b50 featuring Elle Teresa and Le Makeup",
   "name": "Edge!",
   "tracks": [
     {
@@ -4538,7 +4538,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 194480,
       "name": "Changes",
       "url": "https://open.spotify.com/track/1SXxBTkWXjqilOMejMiKkZ"
@@ -18253,6 +18253,24 @@
     },
     {
       "album": {
+        "name": "Mudgikk",
+        "url": "https://open.spotify.com/album/7vS6oAyS4pmlEhq2KRvRxZ"
+      },
+      "artists": [
+        {
+          "name": "Cwondo",
+          "url": "https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176914,
+      "name": "Mudgikk",
+      "url": "https://open.spotify.com/track/7cpGjiTyhMVaoX6Kx19BfB"
+    },
+    {
+      "album": {
         "name": "Mukashi no Maho",
         "url": "https://open.spotify.com/album/0Ksif7jpdq0jh5fCzDipw8"
       },
@@ -22712,7 +22730,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 262500,
       "name": "Radio before school",
       "url": "https://open.spotify.com/track/38cVJLSwhxdfKmLfJtSx0g"
@@ -35438,6 +35456,32 @@
       "duration_ms": 259480,
       "name": "\u3068\u304d\u3081\u304d\u3092\u6559\u3048\u3066",
       "url": "https://open.spotify.com/track/2e9Xouw2euVfmRuehC6QM6"
+    },
+    {
+      "album": {
+        "name": "\u3068\u304d\u3081\u304d\u63a2\u5075",
+        "url": "https://open.spotify.com/album/5tOfvO9vg8CSWSvrnCzt9y"
+      },
+      "artists": [
+        {
+          "name": "Satoko Shibata",
+          "url": "https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU"
+        },
+        {
+          "name": "Elle Teresa",
+          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
+        },
+        {
+          "name": "Le Makeup",
+          "url": "https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189687,
+      "name": "\u3068\u304d\u3081\u304d\u63a2\u5075",
+      "url": "https://open.spotify.com/track/3Z27gNml8048d5NuyVaJkt"
     },
     {
       "album": {

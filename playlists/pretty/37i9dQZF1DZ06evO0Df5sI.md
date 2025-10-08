@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 
 > This is Alkaline Trio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,140 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,148 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | 2 | [Mercy Me](https://open.spotify.com/track/5SZA0lHcG0ucCGBqKK32tF) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F) | 2:49 |
 | 3 | [Oblivion](https://open.spotify.com/track/02bj1hZGIwwTYG6z1bJG1M) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Oblivion](https://open.spotify.com/album/4tqmxRUMi21ZAqKVemewpO) | 3:12 |
 | 4 | [Private Eye](https://open.spotify.com/track/3pKd2WdIgHxw9ztbAjWUJ6) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [From Here to Infirmary](https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh) | 3:30 |
-| 5 | [Calling All Skeletons](https://open.spotify.com/track/5wietlPYUdZe5MEPOrrvww) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony \(Deluxe Edition\)](https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l) | 3:20 |
+| 5 | [Radio](https://open.spotify.com/track/0YJvSDPuh3MmmpHkvMFJc5) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Maybe I'll Catch Fire](https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK) | 4:41 |
 | 6 | [Time to Waste](https://open.spotify.com/track/6q0058HsQQ7Ch3SrvcatAD) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F) | 4:11 |
-| 7 | [Radio](https://open.spotify.com/track/0YJvSDPuh3MmmpHkvMFJc5) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Maybe I'll Catch Fire](https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK) | 4:41 |
+| 7 | [Calling All Skeletons](https://open.spotify.com/track/5wietlPYUdZe5MEPOrrvww) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony \(Deluxe Edition\)](https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l) | 3:20 |
 | 8 | [Armageddon](https://open.spotify.com/track/4vjr73F3KT000ii3fzPrib) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [From Here to Infirmary](https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh) | 2:49 |
 | 9 | [This Could Be Love](https://open.spotify.com/track/0jFqJQtQs9BjogBXNzK5Ag) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Good Mourning](https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq) | 3:47 |
 | 10 | [Warbrain](https://open.spotify.com/track/4UrkfJvLfSeWBzK4ag1aW8) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Remains](https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz) | 2:28 |
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | 14 | [Hell Yes](https://open.spotify.com/track/16dxfNNlbUJnKQdt6uRt8l) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Remains](https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz) | 3:49 |
 | 15 | [Help Me](https://open.spotify.com/track/2RHNirj8PxX3g6FBiHMney) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony \(Deluxe Edition\)](https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l) | 3:44 |
 | 16 | [Mr\. Chainsaw](https://open.spotify.com/track/2LAL6TJoTWhqvI5b0rfYTV) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [From Here to Infirmary](https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh) | 3:05 |
-| 17 | [Blood, Hair, And Eyeballs](https://open.spotify.com/track/0fYrJmSbKcBgRZAno8Jkns) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Blood, Hair, And Eyeballs](https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs) | 3:00 |
-| 18 | [We've Had Enough](https://open.spotify.com/track/7HiVHdZfH5zK9pNttg9yX2) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Good Mourning](https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq) | 2:51 |
+| 17 | [We've Had Enough](https://open.spotify.com/track/7HiVHdZfH5zK9pNttg9yX2) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Good Mourning](https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq) | 2:51 |
+| 18 | [Blood, Hair, And Eyeballs](https://open.spotify.com/track/0fYrJmSbKcBgRZAno8Jkns) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Blood, Hair, And Eyeballs](https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs) | 3:00 |
 | 19 | [Jaked on Green Beers](https://open.spotify.com/track/3Xaaa4IOhf3x4rzI2Xfkfe) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Remains](https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz) | 3:27 |
 | 20 | [Take Lots with Alcohol](https://open.spotify.com/track/415ZhkOYcKRuV6SbRmGTnS) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [From Here to Infirmary](https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh) | 3:13 |
 | 21 | [She Lied To The FBI](https://open.spotify.com/track/3rQWKxOJtn2EXr6j3KfHdO) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [My Shame Is True \(Deluxe Edition\)](https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | 49 | [Over and Out](https://open.spotify.com/track/0MWnY2bmf7QnVsBVF4nzFC) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony \(Deluxe Edition\)](https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l) | 3:13 |
 | 50 | [Kiss You To Death](https://open.spotify.com/track/74ocpSSePJzUbfstuWISWD) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [My Shame Is True \(Deluxe Edition\)](https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV) | 3:21 |
 
-Snapshot ID: `aOG1AAAAAAAutrmfRI4Bv98aIZCOijus`
+Snapshot ID: `aOMGgAAAAABjv3e2WjCVUrKcHVKplRqZ`

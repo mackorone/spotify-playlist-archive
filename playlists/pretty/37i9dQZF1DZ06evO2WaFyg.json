@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 262119,
+  "num_followers": 262137,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAACEfx4GDiqMhXpSm8qjGf9W",
+  "snapshot_id": "aOMGgAAAAABvB1NkT2frhIWw8tSF9KfW",
   "tracks": [
     {
       "added_at": null,
@@ -559,6 +559,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 349933,
+      "name": "Maria I'm Drunk (feat. Justin Bieber & Young Thug)",
+      "url": "https://open.spotify.com/track/6Yqmv7XJLCrQEauMbPGZSw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -583,30 +607,6 @@
       "duration_ms": 226400,
       "name": "That Go! (feat. T-Shyne)",
       "url": "https://open.spotify.com/track/6rUmUJ2drFemHTH73bFAKQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 349933,
-      "name": "Maria I'm Drunk (feat. Justin Bieber & Young Thug)",
-      "url": "https://open.spotify.com/track/6Yqmv7XJLCrQEauMbPGZSw"
     },
     {
       "added_at": null,
@@ -979,6 +979,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Barter 6",
+        "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/1jk9c0gZI0wbn5GvAj7PBV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 162400,
       "name": "Mannequin Challenge (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/5TnLXSd4h6G06Fbt2ApOpa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barter 6",
-        "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Check",
-      "url": "https://open.spotify.com/track/1jk9c0gZI0wbn5GvAj7PBV"
     },
     {
       "added_at": null,

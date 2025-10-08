@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > พบคนคลั่งรักหลายอัตราที่เพลย์ลิสต์นี้!
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,094 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,114 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 29 | [ฝากใจ](https://open.spotify.com/track/0WmHAw7c5LppZdca1amE6f) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ฝากใจ](https://open.spotify.com/album/4okyxzayrSFXEzGJg79vKa) | 4:19 |
 | 30 | [แปะหัวใจ \(14th Feb\)](https://open.spotify.com/track/0mqvwTYkebOqQs5cxZzRqN) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo), [Juné](https://open.spotify.com/artist/648qaETeMdDvSgFZjfjS5x) | [แปะหัวใจ \(14th Feb\)](https://open.spotify.com/album/3n2uyCMmpnZ1jGwc3yUh1T) | 4:21 |
 | 31 | [ตั้งใจรัก](https://open.spotify.com/track/6LXKd4e0i2EPLh86GWvWOE) | [พัด Vorapat](https://open.spotify.com/artist/3lSyHNBfu514f8ugz5szx8), [First Anuwat](https://open.spotify.com/artist/4KjqrvqKO5fbI5yDR5yzny) | [ตั้งใจรัก](https://open.spotify.com/album/3mIXXY1EvLeO0fwyockLb3) | 2:35 |
-| 32 | [กี่หมื่นครั้งที่ตกหลุมรักคนเดิม \(Fall And Fall In Love\) \- From กี่หมื่นฟ้า Your Sky Series](https://open.spotify.com/track/1HFeLuglS3JcHREWnEoqzj) | [MARCKRIS OF BUS](https://open.spotify.com/artist/26fU8Bg2Yq7XwvZiuzIwnM) | [กี่หมื่นครั้งที่ตกหลุมรักคนเดิม \(Fall And Fall In Love\) \[From กี่หมื่นฟ้า Your Sky Series\]](https://open.spotify.com/album/1InOIV7WBx7JZM4kc97iXI) | 3:23 |
-| 33 | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u) | 3:10 |
+| 32 | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u) | 3:10 |
+| 33 | [กี่หมื่นครั้งที่ตกหลุมรักคนเดิม \(Fall And Fall In Love\) \- From กี่หมื่นฟ้า Your Sky Series](https://open.spotify.com/track/1HFeLuglS3JcHREWnEoqzj) | [MARCKRIS OF BUS](https://open.spotify.com/artist/26fU8Bg2Yq7XwvZiuzIwnM) | [กี่หมื่นครั้งที่ตกหลุมรักคนเดิม \(Fall And Fall In Love\) \[From กี่หมื่นฟ้า Your Sky Series\]](https://open.spotify.com/album/1InOIV7WBx7JZM4kc97iXI) | 3:23 |
 | 34 | [จูบ](https://open.spotify.com/track/111VL3GT8ZaPhgNgnxzrOx) | [JETSET'ER](https://open.spotify.com/artist/6thrjKf05P1bBsrsjYSuMw) | [Nude](https://open.spotify.com/album/4lwg110NMdGOw234MhEWH2) | 4:42 |
 | 35 | [คู่กัน \(Soulmate\)](https://open.spotify.com/track/2SewBThepvNfjZ6fyBhGYT) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [Club](https://open.spotify.com/album/3FIStO0Jqw4wX6aXbvDd6L) | 4:26 |
 | 36 | [รักรออยู่ไม่ไกล](https://open.spotify.com/track/72UBnP9Be8bZFgGTfm5rwU) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [รักรออยู่ไม่ไกล](https://open.spotify.com/album/44X6txRQMIIwqW8tw0LTdm) | 4:19 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 58 | [ถ้าเธออยากไปทะเลฉันพร้อม...\(Talay\)](https://open.spotify.com/track/4okZRD6ad0o8kxzrkvYFLP) | [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8) | [ถ้าเธออยากไปทะเลฉันพร้อม...\(Talay\)](https://open.spotify.com/album/2hrDOy5wsZ6kKJ3LLNU4LB) | 3:12 |
 | 59 | [เธอเชื่อเรื่องพรหมลิขิตหรือเปล่า \[Destiny\]](https://open.spotify.com/track/1vZPPkCUwCejpoPt9tzAFK) | [Catchy](https://open.spotify.com/artist/4Rl3VVYfy6fvCyubmwyMat) | [เธอเชื่อเรื่องพรหมลิขิตหรือเปล่า \[Destiny\]](https://open.spotify.com/album/4ezYCgWj2GJL2IWo8ahwVc) | 3:49 |
 | 60 | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/album/7nzdc88JydSq90v212jrfU) | 3:55 |
-| 61 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
-| 62 | [เกินต้าน \- Too Cute](https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [เกินต้าน \(Too Cute\)](https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o) | 3:06 |
+| 61 | [เกินต้าน \- Too Cute](https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [เกินต้าน \(Too Cute\)](https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o) | 3:06 |
+| 62 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
 | 63 | [ระยะหัวใจ](https://open.spotify.com/track/1ZvxQC3jxMuceMdoFo0Cor) | [FLUKIE](https://open.spotify.com/artist/3dR2IRGHNpZ5CBbxOQN03t) | [ระยะหัวใจ](https://open.spotify.com/album/2QfNggOnaDCmeUgF2dKCYX) | 3:03 |
 | 64 | [ขอจองได้ไหม](https://open.spotify.com/track/2ExrckON3Z1e95sxU9il2z) | [เอ๋ยเอ้ย](https://open.spotify.com/artist/2eh6aBpW7umSFj4rFz1d0j) | [ขอจองได้ไหม](https://open.spotify.com/album/5hNXs9FYsmfYhe377gdCcF) | 3:21 |
 | 65 | [ยิ้มก็พอ feat\. Wonderframe](https://open.spotify.com/track/089OggImoTkmiPMVtVAs3I) | [TOR Saksit](https://open.spotify.com/artist/0dpiMnuJcfuvZFlGWaQ7tR), [Wonderframe](https://open.spotify.com/artist/5bzFXP4FjQKAwuiHJTsNp9) | [ยิ้มก็พอ](https://open.spotify.com/album/0IsfsMc7MH55yjHssa3Mfd) | 4:05 |

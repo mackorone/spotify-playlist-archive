@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MQnHr.md) - [plain]
 
 > This is Madeline Merlo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 437 likes - 36 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 439 likes - 36 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MQnHr.md) - [plain]
 | 35 | [What If I Am](https://open.spotify.com/track/4K86g3PFhcjT32wuIzP2DR) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu), [Munro Chambers](https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d) | [Country Crush \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd) | 3:36 |
 | 36 | [Have You Ever Had so Much Fun](https://open.spotify.com/track/6RLXgDhOcbWP3mhqidBFXD) | [Munro Chambers](https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d), [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Country Crush \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jJUDUVtsRdN8EWAeEDowd) | 3:43 |
 
-Snapshot ID: `aOG1AAAAAABWIcYJlrm4Qf62YUSp0+hs`
+Snapshot ID: `aOMGgAAAAAClWBRPNFNQU6A8P73wE48G`

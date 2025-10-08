@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : Olivia Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,164 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,193 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 37 | [My Darling](https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [My Darling](https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9) | 2:26 |
 | 38 | [Autrement](https://open.spotify.com/track/3SMtVY7EyN0tSYhAZl1AA7) | [Julien Lieb](https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i) | [Autrement](https://open.spotify.com/album/2CI0v7K6WEB8Z9O6TnXOzE) | 2:44 |
 | 39 | [Hot summer night \- Oh La La La](https://open.spotify.com/track/23uAM0P7BzfC2Vf5qVrczN) | [Smil](https://open.spotify.com/artist/6QjHYUiCpQbhpD7eVApnQI), [Just Ben](https://open.spotify.com/artist/1yYacwL1sMAVv0fGYPmFxL) | [Hot summer night \(Oh La La La\)](https://open.spotify.com/album/3OwwK4RPKg0xubd8IFMjoG) | 3:05 |
-| 40 | [la maison](https://open.spotify.com/track/6LwRx3YAwMp3VmDxAHVpP6) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [grandir](https://open.spotify.com/album/081gGbY0tkx9wYxbORdgA7) | 2:33 |
+| 40 | [la maison](https://open.spotify.com/track/6LwRx3YAwMp3VmDxAHVpP6) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [grandir](https://open.spotify.com/album/081gGbY0tkx9wYxbORdgA7) | 2:34 |
 
 Snapshot ID: `AAAAANDMzl7+QXMG+Ebjgy2cjRqkyMQ8`

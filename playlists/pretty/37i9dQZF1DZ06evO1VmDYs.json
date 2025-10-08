@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 196915,
+  "num_followers": 196933,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAAC1C/9js+yQycokDWv4j10W",
+  "snapshot_id": "aOMGgAAAAAD9B9Z9NMaKyPSC2X3/iVpX",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pinkerton",
+        "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Pink Triangle",
+      "url": "https://open.spotify.com/track/6qQGxKyy6LcyZVsWn93lyS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sunburn",
         "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 222839,
       "name": "Think Fast (feat. Weezer)",
       "url": "https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pinkerton",
-        "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Pink Triangle",
-      "url": "https://open.spotify.com/track/6qQGxKyy6LcyZVsWn93lyS"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer (Teal Album)",
-        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
+        "name": "Pinkerton - Deluxe Edition",
+        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 145640,
-      "name": "Happy Together",
-      "url": "https://open.spotify.com/track/3KxOYNt66Hj42HzO7ao0CV"
+      "duration_ms": 118653,
+      "name": "You Gave Your Love To Me Softly",
+      "url": "https://open.spotify.com/track/6nfLKum9Lr2AuLkeDMoJ8e"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pinkerton - Deluxe Edition",
-        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
+        "name": "Weezer (Teal Album)",
+        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 118653,
-      "name": "You Gave Your Love To Me Softly",
-      "url": "https://open.spotify.com/track/6nfLKum9Lr2AuLkeDMoJ8e"
+      "duration_ms": 145640,
+      "name": "Happy Together",
+      "url": "https://open.spotify.com/track/3KxOYNt66Hj42HzO7ao0CV"
     },
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer (Teal Album)",
-        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
+        "name": "Pinkerton - Deluxe Edition",
+        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 223560,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/1ZB2qWsheGabSEYvBYxjKn"
+      "duration_ms": 326293,
+      "name": "Tragic Girl",
+      "url": "https://open.spotify.com/track/2J4Q2WIx3572uZuTTNkCby"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pinkerton - Deluxe Edition",
-        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
+        "name": "Weezer (Teal Album)",
+        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 326293,
-      "name": "Tragic Girl",
-      "url": "https://open.spotify.com/track/2J4Q2WIx3572uZuTTNkCby"
+      "duration_ms": 223560,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/1ZB2qWsheGabSEYvBYxjKn"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "Don't Let Go",
-      "url": "https://open.spotify.com/track/7HFC0t4r97pMHDRrv7lo7k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pinkerton - Deluxe Edition",
         "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 191826,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/1tZeHEchoo62G0xpEcjbAj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "Don't Let Go",
+      "url": "https://open.spotify.com/track/7HFC0t4r97pMHDRrv7lo7k"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 128332,
-      "name": "Knockdown Dragout",
-      "url": "https://open.spotify.com/track/1cm3a22bsdWVpHlGJO7yl2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Weezer (Teal Album)",
         "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 214760,
       "name": "Sweet Dreams (Are Made of This)",
       "url": "https://open.spotify.com/track/0fjMXEy7uQIMtGlhHfzqXh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 128332,
+      "name": "Knockdown Dragout",
+      "url": "https://open.spotify.com/track/1cm3a22bsdWVpHlGJO7yl2"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "Crab",
-      "url": "https://open.spotify.com/track/0RzUwciNNYvMvdixIUtgfB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OK Human",
         "url": "https://open.spotify.com/album/0dL9rGQxUeIqpiUndXaQLl"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 170717,
       "name": "Grapes Of Wrath",
       "url": "https://open.spotify.com/track/7s42bmqI0kQpoO80H3Vnqu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 154560,
+      "name": "Crab",
+      "url": "https://open.spotify.com/track/0RzUwciNNYvMvdixIUtgfB"
     },
     {
       "added_at": null,
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 251160,
-      "name": "Waiting On You",
-      "url": "https://open.spotify.com/track/3ovTVlWIAzB1XGG8dWPtFl"
+      "duration_ms": 209360,
+      "name": "You Won't Get With Me Tonight",
+      "url": "https://open.spotify.com/track/2ywyHcaPWCOHopio9QsWmE"
     }
   ],
   "unique_name": "This Is Weezer",

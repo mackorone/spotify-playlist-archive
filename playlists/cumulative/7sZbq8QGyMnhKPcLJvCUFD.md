@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-769 songs - 1 day 14 hr 34 min
+770 songs - 1 day 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -598,6 +598,7 @@
 | [Seasons](https://open.spotify.com/track/2pFL6kVGR4PIuPlL2AuAWk) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Seasons](https://open.spotify.com/album/4zPHSYkV9lKePkTUFRZrMC) | 4:08 | 2022-07-05 | 2024-01-06 |
 | [Second Wind](https://open.spotify.com/track/7d9MoWBBI9sbZnsoW16z5Z) | [Matt Pridgyn](https://open.spotify.com/artist/2RZVfmCJEK0AJ9JJ7Bphlu) | [Second Wind](https://open.spotify.com/album/5e3cX20tXLQKMlNUxTSZ4F) | 3:12 | 2024-11-29 |  |
 | [Set It Free](https://open.spotify.com/track/5dtd0fWHWff91kiKlXxJb3) | [John Dee](https://open.spotify.com/artist/2bSxG8y5oReqlnJDxVsZbo), [Litil](https://open.spotify.com/artist/4izATJEnrbYNOBdZscfYL4), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Set It Free](https://open.spotify.com/album/3a3HBm9uLIXg8hHh0qWokg) | 3:15 | 2023-06-09 | 2023-08-10 |
+| [Set Me Free](https://open.spotify.com/track/4WtOjuIOt6GBkpUPc9khSo) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Set Me Free](https://open.spotify.com/album/6eaxTvDzbwAvQh20F6DcT5) | 3:54 | 2025-10-07 |  |
 | [Set Me Free](https://open.spotify.com/track/4iqmbx1CkLGEVozDwxii2w) | [Simbai](https://open.spotify.com/artist/3crJf5p7nUHziLEGTlikzg), [Frizzy The Streetz](https://open.spotify.com/artist/76D7ppv4U20gNYE6iUcYFJ) | [Set Me Free](https://open.spotify.com/album/4CiM00EnVv7QpHTkFaaKab) | 2:49 | 2022-06-23 | 2023-04-28 |
 | [Set Me Free](https://open.spotify.com/track/0SY3e4Csiw86wTeXvlbr4N) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Primate](https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU) | [Set Me Free](https://open.spotify.com/album/3Ju6l6H3bnw84mipE59zEC) | 2:03 | 2024-02-23 | 2024-09-29 |
 | [Set You Free](https://open.spotify.com/track/2MZJIe78uKE7B7cFC1LNbR) | [Siimi](https://open.spotify.com/artist/1MrdhnQwCwxH52IlEhB657) | [Set You Free](https://open.spotify.com/album/5j8yzZxVXnbVTMz5LzZA8N) | 3:14 | 2023-04-18 | 2024-01-04 |

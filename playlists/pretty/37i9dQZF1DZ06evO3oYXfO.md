@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 
 > This is Black Sabbath\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,849 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,895 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 | 49 | [Laguna Sunrise \- 2009 Remaster](https://open.spotify.com/track/2HuDXpZPIXiEQbFBUXqktZ) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 2:50 |
 | 50 | [Megalomania \(2009 Remaster\)](https://open.spotify.com/track/6MfJ7C4274ZPvUYBx8BcRD) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabotage](https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b) | 9:41 |
 
-Snapshot ID: `aOG1AAAAAABO0vlLscZGT0+4ATG1Fgs2`
+Snapshot ID: `aOMGgAAAAAC4llzKM8V+10EEZ9Nss1YA`

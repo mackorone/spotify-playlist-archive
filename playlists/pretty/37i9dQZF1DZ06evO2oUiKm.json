@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 10364,
+  "num_followers": 10363,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAAD9GzEY+J0HbCQSZC0XGYhZ",
+  "snapshot_id": "aOMGgAAAAABsW+cQqyNle5q6uMErPq2F",
   "tracks": [
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
+        "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 187128,
+      "name": "I've Already Won",
+      "url": "https://open.spotify.com/track/6CiLixdgvog7l1tY18vEaz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Color Purple (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
       },
@@ -878,11 +894,19 @@
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Oliver Tompsett",
+          "url": "https://open.spotify.com/artist/10uOf0MNfjh90mGfD1bS6Q"
+        },
+        {
+          "name": "Scott Alan",
+          "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
         }
       ],
-      "duration_ms": 187128,
-      "name": "I've Already Won",
-      "url": "https://open.spotify.com/track/6CiLixdgvog7l1tY18vEaz"
+      "duration_ms": 463020,
+      "name": "Always / Goodnight",
+      "url": "https://open.spotify.com/track/2lthIAIwXMyIYnEAPQfbP1"
     },
     {
       "added_at": null,

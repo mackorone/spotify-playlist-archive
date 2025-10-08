@@ -1,12 +1,12 @@
 {
   "description": "This is Baby Tate. The essential tracks, all in one playlist.",
-  "num_followers": 4965,
+  "num_followers": 4971,
   "original_name": "This Is Baby Tate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAADWzPJ16OUqbmX6FSXjlLCg",
+  "snapshot_id": "aOMGgAAAAACkvg1vRdglH28mHHjn2FsO",
   "tracks": [
     {
       "added_at": null,
@@ -475,6 +475,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hello Stranger",
+        "url": "https://open.spotify.com/album/06ll4nWlQ2P2keJ2ULSOIR"
+      },
+      "artists": [
+        {
+          "name": "Emmy Meli",
+          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 180174,
+      "name": "Aura (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/0zAWAPj6mqQquTdur7Vrxx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poof Be Gone",
         "url": "https://open.spotify.com/album/1MxPUBtYCzZ3qSxF5XUf9P"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 112931,
       "name": "Poof Be Gone (with Yung Baby Tate & Yvette and feat. Cheerlebridee)",
       "url": "https://open.spotify.com/track/7ddJSaMdfeSeCwJzOYcE2W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hello Stranger",
-        "url": "https://open.spotify.com/album/06ll4nWlQ2P2keJ2ULSOIR"
-      },
-      "artists": [
-        {
-          "name": "Emmy Meli",
-          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 180174,
-      "name": "Aura (feat. Baby Tate)",
-      "url": "https://open.spotify.com/track/0zAWAPj6mqQquTdur7Vrxx"
     },
     {
       "added_at": null,
@@ -723,42 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2000AND4EVA",
-        "url": "https://open.spotify.com/album/4lmOcEBG9fJjc6UeMbttVt"
-      },
-      "artists": [
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 172993,
-      "name": "DAMN DANIEL (feat. Yung Baby Tate)",
-      "url": "https://open.spotify.com/track/7yAhHmdoPORDtJIxtugoNY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tate Tuesday, Vol. 1",
-        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 126400,
-      "name": "Super Sick",
-      "url": "https://open.spotify.com/track/2owaOpvrM3m6l7p3q8eAKc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Please Don't Cry",
         "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
       },
@@ -779,22 +743,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ms. Out Tonight",
-        "url": "https://open.spotify.com/album/5dlGTLkjRhY4xpkrAZTKUq"
+        "name": "Tate Tuesday, Vol. 1",
+        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
       },
       "artists": [
         {
-          "name": "Siena Liggins",
-          "url": "https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9"
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 126400,
+      "name": "Super Sick",
+      "url": "https://open.spotify.com/track/2owaOpvrM3m6l7p3q8eAKc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2000AND4EVA",
+        "url": "https://open.spotify.com/album/4lmOcEBG9fJjc6UeMbttVt"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
         },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 209577,
-      "name": "Dirty Girl (with Baby Tate)",
-      "url": "https://open.spotify.com/track/7uaf9grGM3ICiLAWv3dcTJ"
+      "duration_ms": 172993,
+      "name": "DAMN DANIEL (feat. Yung Baby Tate)",
+      "url": "https://open.spotify.com/track/7yAhHmdoPORDtJIxtugoNY"
     },
     {
       "added_at": null,
@@ -811,6 +791,26 @@
       "duration_ms": 142175,
       "name": "Eenie Meenie",
       "url": "https://open.spotify.com/track/7cZVHLMtivlPLHQgqQCGxZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ms. Out Tonight",
+        "url": "https://open.spotify.com/album/5dlGTLkjRhY4xpkrAZTKUq"
+      },
+      "artists": [
+        {
+          "name": "Siena Liggins",
+          "url": "https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 209577,
+      "name": "Dirty Girl (with Baby Tate)",
+      "url": "https://open.spotify.com/track/7uaf9grGM3ICiLAWv3dcTJ"
     },
     {
       "added_at": null,
@@ -915,6 +915,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baby Tate Presents - Sexploration: The Musical",
+        "url": "https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 162492,
+      "name": "Wig",
+      "url": "https://open.spotify.com/track/1Vx3GtCAj9Hl5tajqA7McX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FINE",
         "url": "https://open.spotify.com/album/3cXA1skgfeePscQgcLaw3P"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 171431,
       "name": "FINE",
       "url": "https://open.spotify.com/track/70YrYj7TOzfd00NX7Ynlrt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baby Tate Presents - Sexploration: The Musical",
-        "url": "https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 162492,
-      "name": "Wig",
-      "url": "https://open.spotify.com/track/1Vx3GtCAj9Hl5tajqA7McX"
     },
     {
       "added_at": null,

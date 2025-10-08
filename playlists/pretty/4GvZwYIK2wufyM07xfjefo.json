@@ -1,13 +1,113 @@
 {
   "description": "KARENT\u30ec\u30fc\u30d9\u30eb\u3067\u914d\u4fe1\u4e2d\u306e\u697d\u66f2\u306e\u4e2d\u304b\u3089\u3001\u304a\u5bb6\u3067\u306e\u3093\u3073\u308a\u8074\u304d\u305f\u3044\u7652\u3057\u7cfb\u30dc\u30ab\u30ed\u66f2\u3092\u9078\u66f2\u3002\u6bce\u9031\u66f4\u65b0\u3002",
-  "num_followers": 216,
+  "num_followers": 217,
   "original_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",
   "owner": {
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAFi/jNfPj3zwJEIsITJzNDSDpH0DEw",
+  "snapshot_id": "AAAFmgDbaC/X6rfdvXmydurv/wD5qjld",
   "tracks": [
+    {
+      "added_at": "2025-10-07 08:20:53",
+      "album": {
+        "name": "\u93e1\u306e\u30d5\u30ea\u3057\u305f\u65e5\u3005\u304c\u3042\u308b",
+        "url": "https://open.spotify.com/album/3DoxMLY8x6QYdLfFmQf0xy"
+      },
+      "artists": [
+        {
+          "name": "Mealerrand",
+          "url": "https://open.spotify.com/artist/7cv6baxsgkVVv4jzCBeFkG"
+        },
+        {
+          "name": "\u9cf4\u82b1\u30df\u30b3\u30c8",
+          "url": "https://open.spotify.com/artist/3eJ0F2jTA9UzNWX1jklxDf"
+        }
+      ],
+      "duration_ms": 232881,
+      "name": "\u304a\u306f\u3088\u3046 (feat. \u9cf4\u82b1\u30df\u30b3\u30c8)",
+      "url": "https://open.spotify.com/track/7DTEC5g6aQFrRFp4Gw2StZ"
+    },
+    {
+      "added_at": "2025-10-07 08:21:06",
+      "album": {
+        "name": "\u58f0\u3092\u307b\u3069\u304f\u58f0",
+        "url": "https://open.spotify.com/album/19jzJtyVjhgbCAi1ABxZmY"
+      },
+      "artists": [
+        {
+          "name": "yamichrome",
+          "url": "https://open.spotify.com/artist/56btWLEbaEfENYnHHcXN4m"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "duration_ms": 247636,
+      "name": "\u30ef\u30f3\u30c0\u30ea\u30f3\u30b0\u30b8\u30e3\u30fc\u30cb\u30fc (feat. \u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/6HXX93gtY51kr6hmiIl87C"
+    },
+    {
+      "added_at": "2025-10-07 08:21:18",
+      "album": {
+        "name": "Amnesia: Y que recuerdes (Version Mariachi)",
+        "url": "https://open.spotify.com/album/0eO88LRw0f86EpKflvj1bz"
+      },
+      "artists": [
+        {
+          "name": "AlexTrip Sands",
+          "url": "https://open.spotify.com/artist/5MKEh6IaFZK3knCjCok3rI"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 309494,
+      "name": "Amnesia: Y que recuerdes (Version Mariachi) (feat. \u521d\u97f3\u30df\u30af&\u30e1\u30b0\u30c3\u30dd\u30a4\u30c9&\u91cd\u97f3\u30c6\u30c8&\u5bae\u821e\u30e2\u30ab&\u6c37\u5c71\u30ad\u30e8\u30c6\u30eb)",
+      "url": "https://open.spotify.com/track/2ILwD1koOuxjDJE7FfNm2q"
+    },
+    {
+      "added_at": "2025-10-07 08:21:32",
+      "album": {
+        "name": "\u967d\u3060\u307e\u308a\u306e\u4e2d\u3078",
+        "url": "https://open.spotify.com/album/0Uui57otPk9K6dVuhwTMsD"
+      },
+      "artists": [
+        {
+          "name": "kijima",
+          "url": "https://open.spotify.com/artist/1SgONA50hAdrYYYtBnxC4n"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        }
+      ],
+      "duration_ms": 185047,
+      "name": "\u967d\u3060\u307e\u308a\u306e\u4e2d\u3078 (feat. KAITO)",
+      "url": "https://open.spotify.com/track/32SN57fuStF1X8zgTbd9zE"
+    },
+    {
+      "added_at": "2025-10-07 08:21:44",
+      "album": {
+        "name": "Faint Surface",
+        "url": "https://open.spotify.com/album/6Meek95cAB60RakS6QU8zj"
+      },
+      "artists": [
+        {
+          "name": "Clean Tears",
+          "url": "https://open.spotify.com/artist/7ib7T2bGDFIVqMQGw8rjt4"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 263914,
+      "name": "Lapse (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/02u10DAPZSqvCKbZB1c91K"
+    },
     {
       "added_at": "2025-09-30 08:40:28",
       "album": {
@@ -735,106 +835,6 @@
       "duration_ms": 223625,
       "name": "\u591c\u96e8\u3068\u6708\u8755 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/03M2a40MgBUj8QFaYB10op"
-    },
-    {
-      "added_at": "2025-07-29 08:37:10",
-      "album": {
-        "name": "\u30d7\u30ea\u30ba\u30e0",
-        "url": "https://open.spotify.com/album/1dDGTxZrVRzegRjtoBHI71"
-      },
-      "artists": [
-        {
-          "name": "\u308d\u3058",
-          "url": "https://open.spotify.com/artist/2yi2V7uU0Ky6ppK8kKHC06"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 199751,
-      "name": "\u30d7\u30ea\u30ba\u30e0 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/1cRt2BXqpPT4NXdxW755DM"
-    },
-    {
-      "added_at": "2025-07-29 08:37:25",
-      "album": {
-        "name": "\u6700\u4f4e\u306a\u4eba",
-        "url": "https://open.spotify.com/album/19JnQ7oiYjqGKTpbHBku9L"
-      },
-      "artists": [
-        {
-          "name": "EO",
-          "url": "https://open.spotify.com/artist/4jcGNX43ioTG1HGfJSDISU"
-        },
-        {
-          "name": "Megurine Luka",
-          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "\u6700\u4f4e\u306a\u4eba (feat. \u5de1\u97f3\u30eb\u30ab)",
-      "url": "https://open.spotify.com/track/5t2aSvCYqjBWgBXgEJ46xh"
-    },
-    {
-      "added_at": "2025-07-29 08:37:39",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/0bN3KfLYesVCM9VwZgQWYD"
-      },
-      "artists": [
-        {
-          "name": "AVTechNO!",
-          "url": "https://open.spotify.com/artist/1PrvATVHvyjUWycqKLmBCk"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 173454,
-      "name": "Rain (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/4irbvEdw0EqrZPlogZIwWy"
-    },
-    {
-      "added_at": "2025-07-29 08:37:52",
-      "album": {
-        "name": "\u591c\u306e\u5e37",
-        "url": "https://open.spotify.com/album/2dhWLYCw2WCcgXWwQaeYHD"
-      },
-      "artists": [
-        {
-          "name": "Babuchan",
-          "url": "https://open.spotify.com/artist/5padwROp67kEIr6RKczjKH"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 206218,
-      "name": "\u591c\u306e\u5e37 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/59r14x7AQJngsJpEsXUqrY"
-    },
-    {
-      "added_at": "2025-07-29 08:38:05",
-      "album": {
-        "name": "\u30d5\u30ef\u30e9\u30a4\u30c9\u30a6",
-        "url": "https://open.spotify.com/album/2QaYjVPp5BfdNDHvee6wpe"
-      },
-      "artists": [
-        {
-          "name": "Adeliae",
-          "url": "https://open.spotify.com/artist/1WMnnczuFZmRuvrprv9fjA"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 158048,
-      "name": "\u30d5\u30ef\u30e9\u30a4\u30c9\u30a6 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/3dVN7kgkeUZG3pK2PxvJQJ"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",

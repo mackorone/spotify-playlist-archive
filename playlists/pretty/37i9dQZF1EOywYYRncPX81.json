@@ -259,6 +259,22 @@
     {
       "added_at": "2020-12-03 00:01:51",
       "album": {
+        "name": "Why I Hate this Album",
+        "url": "https://open.spotify.com/album/7IZb0SS8jVtDy1xSgpng5s"
+      },
+      "artists": [
+        {
+          "name": "Why I Hate this Album",
+          "url": "https://open.spotify.com/show/7IZb0SS8jVtDy1xSgpng5s"
+        }
+      ],
+      "duration_ms": 5959372,
+      "name": "#89 - Fall Out Boy - Save Rock and Roll",
+      "url": "https://open.spotify.com/episode/2pXm6F4WnIgurYjRs49pUZ"
+    },
+    {
+      "added_at": "2020-12-03 00:01:51",
+      "album": {
         "name": "dont smile at me",
         "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
       },

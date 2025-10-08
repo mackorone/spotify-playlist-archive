@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 139906,
+  "num_followers": 140307,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAADsKxLOVH1+kqgRiZeYgdin",
+  "snapshot_id": "aOMGgAAAAAAEUZm75qZo8Ue/Sd1TxGJA",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 183653,
+      "name": "Oscar Winning Tears.",
+      "url": "https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 235328,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 246813,
-      "name": "Worth It.",
-      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
     },
     {
       "added_at": null,
@@ -111,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 246813,
+      "name": "Worth It.",
+      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BED",
         "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
       },
@@ -131,26 +147,6 @@
       "duration_ms": 178087,
       "name": "BED",
       "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 272373,
-      "name": "Escapism.",
-      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
     },
     {
       "added_at": null,
@@ -195,6 +191,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 272373,
+      "name": "Escapism.",
+      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Snacks",
         "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 212573,
       "name": "You Don't Know Me (feat. RAYE)",
       "url": "https://open.spotify.com/track/4DJORZgsbqnEJ4f4B9TBGV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 183653,
-      "name": "Oscar Winning Tears.",
-      "url": "https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6"
     },
     {
       "added_at": null,
@@ -267,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 199293,
+      "name": "The Thrill Is Gone.",
+      "url": "https://open.spotify.com/track/5eVG50IlyjSevPsWnSI76r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Euphoric Sad Songs",
         "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
       },
@@ -287,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 199293,
-      "name": "The Thrill Is Gone.",
-      "url": "https://open.spotify.com/track/5eVG50IlyjSevPsWnSI76r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Genesis.",
         "url": "https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW"
       },
@@ -315,26 +315,6 @@
       "duration_ms": 208836,
       "name": "Genesis, pt. ii",
       "url": "https://open.spotify.com/track/1qvgsMTiNL4WwUnQ9yMz2m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moi",
-        "url": "https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "Moi",
-      "url": "https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH"
     },
     {
       "added_at": null,
@@ -371,6 +351,26 @@
       "duration_ms": 191164,
       "name": "Hard Out Here.",
       "url": "https://open.spotify.com/track/0o4HD0mOtTiHSbycbg4IpT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moi",
+        "url": "https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "Moi",
+      "url": "https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Natalie Don\u2019t",
-        "url": "https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Natalie Don't",
-      "url": "https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My 21st Century Blues",
         "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 201373,
       "name": "Flip A Switch.",
       "url": "https://open.spotify.com/track/252ZECHopILLs10pMfE76N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Natalie Don\u2019t",
+        "url": "https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Natalie Don't",
+      "url": "https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk"
     },
     {
       "added_at": null,
@@ -619,6 +619,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Make It To Heaven (with Raye)",
+        "url": "https://open.spotify.com/album/3YgpLKWG2xfjEe8vVfcn13"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 172380,
+      "name": "Make It to Heaven (with Raye)",
+      "url": "https://open.spotify.com/track/5dS2dvXVPe7AR6UwBpnomW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Money Calling (feat. RAYE, Russ Millions & wewantwraiths)",
         "url": "https://open.spotify.com/album/3E9ya95dpugJBXNlHEilrA"
       },
@@ -643,30 +667,6 @@
       "duration_ms": 191897,
       "name": "Money Calling (feat. RAYE, Russ Millions & wewantwraiths)",
       "url": "https://open.spotify.com/track/58BJ5oUPX5ST2pjCtOSMkk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Make It To Heaven (with Raye)",
-        "url": "https://open.spotify.com/album/3YgpLKWG2xfjEe8vVfcn13"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 172380,
-      "name": "Make It to Heaven (with Raye)",
-      "url": "https://open.spotify.com/track/5dS2dvXVPe7AR6UwBpnomW"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Check (with RAYE)",
-        "url": "https://open.spotify.com/album/0CoVa5cPLOwxR8Z3XeflhR"
-      },
-      "artists": [
-        {
-          "name": "Kojo Funds",
-          "url": "https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 215573,
-      "name": "Check (with RAYE)",
-      "url": "https://open.spotify.com/track/4i8ObH2xPP4DSNniUJlgar"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My 21st Century Symphony. (Live at the Royal Albert Hall)",
         "url": "https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 143499,
       "name": "The Thrill Is Gone Requiem. - Live at the Royal Albert Hall",
       "url": "https://open.spotify.com/track/6e1u6VSqa1f4zITKX4aTmt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Check (with RAYE)",
+        "url": "https://open.spotify.com/album/0CoVa5cPLOwxR8Z3XeflhR"
+      },
+      "artists": [
+        {
+          "name": "Kojo Funds",
+          "url": "https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "Check (with RAYE)",
+      "url": "https://open.spotify.com/track/4i8ObH2xPP4DSNniUJlgar"
     },
     {
       "added_at": null,
@@ -959,8 +959,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Line",
-        "url": "https://open.spotify.com/album/2X4QZ0VwRGl7mgNe4G55PG"
+        "name": "Live at Montreux Jazz Festival",
+        "url": "https://open.spotify.com/album/0uqyhvc8HEyztLSTE8RKmx"
       },
       "artists": [
         {
@@ -968,9 +968,9 @@
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 199353,
-      "name": "The Line",
-      "url": "https://open.spotify.com/track/3Kdpyh94Xz8DeUgMCnVYy1"
+      "duration_ms": 419683,
+      "name": "It's A Man's Man's Man's World - Live at Montreux Jazz Festival",
+      "url": "https://open.spotify.com/track/6L1bCa0ff2yknczfXwPLId"
     }
   ],
   "unique_name": "This Is RAYE",

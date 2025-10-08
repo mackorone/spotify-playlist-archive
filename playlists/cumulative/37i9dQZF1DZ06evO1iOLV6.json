@@ -613,6 +613,28 @@
     },
     {
       "album": {
+        "name": "INDUSTRY MACHINE",
+        "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197742,
+      "name": "DO YANGA (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/5wM3JyZlz9elJhVO01umxf"
+    },
+    {
+      "album": {
         "name": "Soundgod Fest Vol.1",
         "url": "https://open.spotify.com/album/6m2ccnWsYoPtpVHgeSx249"
       },
@@ -1428,7 +1450,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 212741,
       "name": "Life",
       "url": "https://open.spotify.com/track/1N0GdFeRwgEeiDqkX0m4HB"

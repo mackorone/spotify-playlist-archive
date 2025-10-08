@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 > 100% Pinoy hits from your favorite artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,481,349 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,481,444 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 6 | [Marilag](https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Marilag](https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY) | 2:37 |
 | 7 | [Bulong](https://open.spotify.com/track/5rV7xueHNNXaZqOLroaUta) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Langit Mong Bughaw](https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr) | 4:30 |
 | 8 | [Kalimutan Ka](https://open.spotify.com/track/7dXZnGGBn9Kfu8NCnrRl3w) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Kalimutan Ka](https://open.spotify.com/album/1CVdBDkuBgD62YGDXslE4R) | 4:48 |
-| 9 | [Sino](https://open.spotify.com/track/2xCkiGqGMkAIg6fQTag51C) | [Unique Salonga](https://open.spotify.com/artist/30mZI7Hw2MhoarTVYxfyZM) | [Grandma](https://open.spotify.com/album/0oEXZAhZrEhLUtgKcMaxPg) | 4:40 |
-| 10 | [Umaasa](https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs) | [Calein](https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y) | [Umaasa](https://open.spotify.com/album/5CoCHo5Uln3nDpd1q2aewW) | 5:35 |
+| 9 | [Pasilyo](https://open.spotify.com/track/0uZFcsx96wzbixsULmrg8o) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [Pasilyo](https://open.spotify.com/album/4shoxv60vMxSDq40tp5cSK) | 4:30 |
+| 10 | [Sino](https://open.spotify.com/track/2xCkiGqGMkAIg6fQTag51C) | [Unique Salonga](https://open.spotify.com/artist/30mZI7Hw2MhoarTVYxfyZM) | [Grandma](https://open.spotify.com/album/0oEXZAhZrEhLUtgKcMaxPg) | 4:40 |
 | 11 | [sining \(feat\. Jay R\)](https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [sining \(feat\. Jay R\)](https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m) | 3:20 |
-| 12 | [Pasilyo](https://open.spotify.com/track/0uZFcsx96wzbixsULmrg8o) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [Pasilyo](https://open.spotify.com/album/4shoxv60vMxSDq40tp5cSK) | 4:30 |
+| 12 | [Umaasa](https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs) | [Calein](https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y) | [Umaasa](https://open.spotify.com/album/5CoCHo5Uln3nDpd1q2aewW) | 5:35 |
 | 13 | [Burnout](https://open.spotify.com/track/0ZCCbW4Aym7b5QdQUKfVdv) | [Sugarfree](https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy) | [Sa Wakas](https://open.spotify.com/album/5TgWcKNeogXr2cPNDcXZRb) | 3:30 |
 | 14 | [Pangarap Lang Kita](https://open.spotify.com/track/09WPbmLdcBhJPcJwEJc1Yv) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4), [Happee Sy](https://open.spotify.com/artist/4OxMtvmCYCgJHjueLFwJHr) | [Middle\-Aged Juvenile Novelty Pop Rockers](https://open.spotify.com/album/0EAM9ux5yMNKsdjcAV5Lg0) | 3:14 |
 | 15 | [TAKE ALL THE LOVE](https://open.spotify.com/track/2v6jmF6VQWS96x6tSg05IC) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [TAKE ALL THE LOVE](https://open.spotify.com/album/4EJLfrjbTDyhhMU1AcYDPb) | 3:26 |

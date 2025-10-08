@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZQNqlKwDCPSeey2y7kwlD.md) - [plain]
 
 > Start your morning right with this collection of songs! Join our mailing list   <a href="https://umusic.lnk.to/Spotify\_GoodMorning\_SignUp">here</a>   to hear first about exclusive vinyl drops &amp; all the best new music.
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 105,535 likes - 80 songs - 4 hr 24 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 105,532 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/4ZQNqlKwDCPSeey2y7kwlD.md) - [plain]
 | 79 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 |
 | 80 | [outlaw overture](https://open.spotify.com/track/3EuCkgHpzLixcDH2OtNFA3) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [lost americana](https://open.spotify.com/album/30aIA1FrouOX9kHxP4dEr6) | 5:02 |
 
-Snapshot ID: `AAAddjSU9ePj4KXmGKjbzOjtEX0YE9mA`
+Snapshot ID: `AAAdd+37wmvBWSFeInFLHEYjsfyJfQLB`

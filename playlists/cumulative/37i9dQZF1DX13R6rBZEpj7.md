@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-355 songs - 20 hr 50 min
+356 songs - 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Nuclear](https://open.spotify.com/track/3OWUGei3PnLi5pqAl68fhZ) | [Arc Nade](https://open.spotify.com/artist/57dmsH0BOHyhumBwhL2zqL) | [Nuclear \- EP](https://open.spotify.com/album/6Y5fwzWmzx1kgIPUUybmNa) | 3:15 | 2022-09-05 | 2023-03-29 |
 | [Numerous Bootings \(Bro in a Coffee Shop\) \- Allstars Remix](https://open.spotify.com/track/2fmXNXuyrvAQ3dzh2ULEV9) | [Meathead](https://open.spotify.com/artist/5WjxmIQ54CJpZwCPuNiDv3), [YA](https://open.spotify.com/artist/2lfx4F5uxI1ayp3nKo3gY9), [Marky B](https://open.spotify.com/artist/15k1qXazWMXAuvcYb59XFj), [KAV](https://open.spotify.com/artist/1wj92TXbOIJAhbgA2WH7ZE), [MC Innes](https://open.spotify.com/artist/4svKLOwhxVeGOjta7SPRIC), [Bailey Holmes Music](https://open.spotify.com/artist/1n8kmW7kZujPlgZ5Q0LP2F) | [Numerous Bootings \(Bro in a Coffee Shop\) \[Allstars Remix\]](https://open.spotify.com/album/3etSqWTLBd8yzGcqq8hSAo) | 4:01 | 2025-08-07 |  |
 | [Oh My Gosh](https://open.spotify.com/track/2UsR4KZpVColypYnCCLLpB) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C), [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ), [IsGwan](https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz), [Redders](https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk) | [Take No Chat \(EP\)](https://open.spotify.com/album/6DY9FDwvEnaBVoDu6gkPxF) | 3:28 | 2025-04-03 | 2025-08-21 |
+| [ON JOB](https://open.spotify.com/track/0QgRQ5uxzGcRFcjXU0bt9L) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [ON JOB](https://open.spotify.com/album/0P8FoWrMOpB4JZWdvJzzvy) | 3:18 | 2025-10-02 |  |
 | [On My Line](https://open.spotify.com/track/3Y5iyIB6OVvhybwGoE9mGv) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [On My Line](https://open.spotify.com/album/63hVrszqSChih5vJ18lquM) | 3:22 | 2023-12-01 | 2025-07-09 |
 | [On My Way \(Feat\. Zdot, Kara Marni\) \- ZKG Remix](https://open.spotify.com/track/0QXvYArdrPJEaGJTW5hL2N) | [Professor Green](https://open.spotify.com/artist/0oJM3iJjMdzgsd4z5VHQvw), [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv), [ZKG](https://open.spotify.com/artist/6SXQM1iGWeRGGpxJKcl4uh) | [On My Way \(Feat\. Zdot, Kara Marni\) \[ZKG Remix\]](https://open.spotify.com/album/5hKK3n38k4IFoMVR72APw5) | 2:39 | 2025-06-20 | 2025-09-16 |
 | [One Ting](https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [One Ting](https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E) | 3:52 | 2022-04-15 | 2025-05-02 |
@@ -310,7 +311,7 @@
 | [Style](https://open.spotify.com/track/62KcN1Ea8Rjm4Nd3DcFw6t) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [Style](https://open.spotify.com/album/4XXKdcSWdp3N8pUfsRtdBf) | 2:03 | 2024-05-17 |  |
 | [Subbed Up](https://open.spotify.com/track/5e3CHluhobE3Hyc9joUScU) | [FooR](https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr), [DJ Seduction](https://open.spotify.com/artist/3QCLS2hkq3jpkJuPmJZHyD) | [Subbed Up](https://open.spotify.com/album/6dwVdxCj5PeZpM2QufAKo0) | 2:33 | 2025-06-20 | 2025-07-16 |
 | [Surgery](https://open.spotify.com/track/1cLCoQ6yp9RPNI8yI3NSjK) | [FooR](https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr), [Ragga Twins](https://open.spotify.com/artist/41vebFiEyxaRwT7rNmRLpq) | [Surgery](https://open.spotify.com/album/4MDbJWczpWtc5fk7f5D3Dr) | 2:09 | 2023-08-10 | 2025-05-29 |
-| [Sweet Lies](https://open.spotify.com/track/7w0xjGyIdNRqI0z2pSDjYG) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Sweet Lies](https://open.spotify.com/album/4NxrjpgGvtfcaOD3VemSZn) | 4:14 | 2024-10-03 |  |
+| [Sweet Lies](https://open.spotify.com/track/7w0xjGyIdNRqI0z2pSDjYG) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Sweet Lies](https://open.spotify.com/album/4NxrjpgGvtfcaOD3VemSZn) | 4:14 | 2024-10-03 | 2025-10-08 |
 | [Swing King](https://open.spotify.com/track/0xHtnko6St2bKkMGgrtTO1) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Swing King](https://open.spotify.com/album/1GXILMnLp8orFCcrPFu0eo) | 4:29 | 2023-12-01 |  |
 | [T Dub](https://open.spotify.com/track/5ir1kBOB9NY3q99Y3gMHAb) | [Luca T](https://open.spotify.com/artist/0RRwxv2lR9DqgXw11rDZUY) | [T Dub](https://open.spotify.com/album/6MVB8CY1iqWLrbBFHx5Rr9) | 2:57 | 2024-01-26 | 2024-11-14 |
 | [Take It Underground](https://open.spotify.com/track/2opBz7WhOjx58AwrqeD3vF) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [BANGERS ONLY](https://open.spotify.com/album/4voo1XkJvNSITyhxSHGLy3) | 3:05 | 2025-09-18 |  |

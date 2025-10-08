@@ -1,6 +1,6 @@
 {
   "description": "Grab your coffee and ease into the day with this light blend.",
-  "num_followers": 385484,
+  "num_followers": 385580,
   "original_name": "Morning Coffee",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
+        "name": "I Still Haven't Found What I'm Looking For / my future",
+        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 212157,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
         "name": "That Was Yesterday",
         "url": "https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 219533,
       "name": "Wouldn't Come Back",
       "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
-        "name": "I Still Haven't Found What I'm Looking For / my future",
-        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 212157,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "blue jean",
-        "url": "https://open.spotify.com/album/7LE4h29Y0CQDbrxIpAUIfR"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 276611,
-      "name": "blue jean",
-      "url": "https://open.spotify.com/track/5UfP6kSzcJE9kFJlBEHU2o"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Slow Hands (Acoustic)",
         "url": "https://open.spotify.com/album/24cFn5N2pwiU2WZQcfSUIp"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 160592,
       "name": "Slow Hands - Acoustic",
       "url": "https://open.spotify.com/track/3BK5t8Z6AkaeUTdFjehHqy"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "blue jean",
+        "url": "https://open.spotify.com/album/7LE4h29Y0CQDbrxIpAUIfR"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 276611,
+      "name": "blue jean",
+      "url": "https://open.spotify.com/track/5UfP6kSzcJE9kFJlBEHU2o"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
+        "name": "Eugene",
+        "url": "https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 221804,
+      "name": "Eugene",
+      "url": "https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
         "name": "Don't Put It All On Me (feat. Fleet Foxes)",
         "url": "https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U"
       },
@@ -1071,38 +1087,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Eugene",
-        "url": "https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 221804,
-      "name": "Eugene",
-      "url": "https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
-        "name": "Redemption (From the Apple Original Film \u201cPalmer\u201d)",
-        "url": "https://open.spotify.com/album/2d9J4LzLm6h9eNIg8COFCB"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        }
-      ],
-      "duration_ms": 298935,
-      "name": "Redemption",
-      "url": "https://open.spotify.com/track/7sJIqdSLw7lvQUsX2NOxJB"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 330066,
       "name": "Birch",
       "url": "https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Redemption (From the Apple Original Film \u201cPalmer\u201d)",
+        "url": "https://open.spotify.com/album/2d9J4LzLm6h9eNIg8COFCB"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "duration_ms": 298935,
+      "name": "Redemption",
+      "url": "https://open.spotify.com/track/7sJIqdSLw7lvQUsX2NOxJB"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Lucy",
-        "url": "https://open.spotify.com/album/2241CnrLPBaerawjf6vPFa"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 218151,
-      "name": "Lucy",
-      "url": "https://open.spotify.com/track/6O1vElqf77upV8az275UZs"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 265652,
       "name": "Every Time You Go Away",
       "url": "https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/2241CnrLPBaerawjf6vPFa"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 218151,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/6O1vElqf77upV8az275UZs"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Turning Onto You (HNNY Remix)",
         "url": "https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 210013,
       "name": "Turning Onto You - HNNY Remix",
       "url": "https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "You In My Life",
-        "url": "https://open.spotify.com/album/4VAyFHlTN3wS2I04RGcKj5"
-      },
-      "artists": [
-        {
-          "name": "Ed Patrick",
-          "url": "https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx"
-        }
-      ],
-      "duration_ms": 217293,
-      "name": "You In My Life",
-      "url": "https://open.spotify.com/track/0xVQa1rlcbYtemV7TezzZJ"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "In the End It Always Does",
         "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 283266,
       "name": "Indexical reminder of a morning well spent",
       "url": "https://open.spotify.com/track/6w8NOOj4f8FhF6346a7Ulx"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "You In My Life",
+        "url": "https://open.spotify.com/album/4VAyFHlTN3wS2I04RGcKj5"
+      },
+      "artists": [
+        {
+          "name": "Ed Patrick",
+          "url": "https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx"
+        }
+      ],
+      "duration_ms": 217293,
+      "name": "You In My Life",
+      "url": "https://open.spotify.com/track/0xVQa1rlcbYtemV7TezzZJ"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
+        "name": "Early Morning Coffee Cups",
+        "url": "https://open.spotify.com/album/31ijpN3FryTPMy3RYdsjsw"
+      },
+      "artists": [
+        {
+          "name": "Jaimi Faulkner",
+          "url": "https://open.spotify.com/artist/1J6JaPeWiuT4oEa4oiEALf"
+        }
+      ],
+      "duration_ms": 199853,
+      "name": "Early Morning Coffee Cups",
+      "url": "https://open.spotify.com/track/04TvtzVrd7FufnY5KJLXzO"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
         "name": "People Don't Change",
         "url": "https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 209813,
       "name": "The Worst Of You",
       "url": "https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
-        "name": "Early Morning Coffee Cups",
-        "url": "https://open.spotify.com/album/31ijpN3FryTPMy3RYdsjsw"
-      },
-      "artists": [
-        {
-          "name": "Jaimi Faulkner",
-          "url": "https://open.spotify.com/artist/1J6JaPeWiuT4oEa4oiEALf"
-        }
-      ],
-      "duration_ms": 199853,
-      "name": "Early Morning Coffee Cups",
-      "url": "https://open.spotify.com/track/04TvtzVrd7FufnY5KJLXzO"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Don't Fade",
-        "url": "https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 190252,
-      "name": "Don't Fade - Single Version",
-      "url": "https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Gonna Be Alright",
         "url": "https://open.spotify.com/album/00p8obmJfzvDLXACx2VNVn"
       },
@@ -1815,18 +1799,18 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "The Weather (acoustic-ish & Gospel Reprise)",
-        "url": "https://open.spotify.com/album/2ZDv2HIeCXvCPd9cyi0thH"
+        "name": "Don't Fade",
+        "url": "https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx"
       },
       "artists": [
         {
-          "name": "Lawrence",
-          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 190500,
-      "name": "The Weather (acoustic-ish)",
-      "url": "https://open.spotify.com/track/7nECboGB4x2fYyf7lPyg7C"
+      "duration_ms": 190252,
+      "name": "Don't Fade - Single Version",
+      "url": "https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -1843,6 +1827,22 @@
       "duration_ms": 213293,
       "name": "Every Shade of Blue",
       "url": "https://open.spotify.com/track/57z9G8G9978wYqpdnO8dW8"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "The Weather (acoustic-ish & Gospel Reprise)",
+        "url": "https://open.spotify.com/album/2ZDv2HIeCXvCPd9cyi0thH"
+      },
+      "artists": [
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "The Weather (acoustic-ish)",
+      "url": "https://open.spotify.com/track/7nECboGB4x2fYyf7lPyg7C"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Whirlwind",
-        "url": "https://open.spotify.com/album/419Peyo7a60OWSj0M03YQY"
-      },
-      "artists": [
-        {
-          "name": "Sam Ryder",
-          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
-        }
-      ],
-      "duration_ms": 208088,
-      "name": "Whirlwind",
-      "url": "https://open.spotify.com/track/4FdlrVG63Nsx9I7dBtsh6J"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/5bzKE2XzZchn40hTnpa2bu"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 254026,
       "name": "Miss Me",
       "url": "https://open.spotify.com/track/5uetNbm1FlJdxsqigbMSB8"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Whirlwind",
+        "url": "https://open.spotify.com/album/419Peyo7a60OWSj0M03YQY"
+      },
+      "artists": [
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "duration_ms": 208088,
+      "name": "Whirlwind",
+      "url": "https://open.spotify.com/track/4FdlrVG63Nsx9I7dBtsh6J"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 226957,
-      "name": "Rhythm Inside - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Heartbreak Hits",
         "url": "https://open.spotify.com/album/04QktcTXcS9qQTp7Q22Z3I"
       },
@@ -2167,18 +2151,18 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "If I Didn\u2019t Love You",
-        "url": "https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp"
       },
       "artists": [
         {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         }
       ],
-      "duration_ms": 246350,
-      "name": "If I Didn\u2019t Love You",
-      "url": "https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq"
+      "duration_ms": 226957,
+      "name": "Rhythm Inside - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -2199,6 +2183,22 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
+        "name": "If I Didn\u2019t Love You",
+        "url": "https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 246350,
+      "name": "If I Didn\u2019t Love You",
+      "url": "https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
         "name": "The Hard Way",
         "url": "https://open.spotify.com/album/4IVyKEuxf8LmxwX0Ltki0N"
       },
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Equus Asinus",
-        "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 166027,
-      "name": "Unlike Anything",
-      "url": "https://open.spotify.com/track/5r7wJLf1cKlIzio4e0xfje"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "October Sky",
         "url": "https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 195065,
       "name": "October Sky",
       "url": "https://open.spotify.com/track/4dGuN04mLIr6EgFkrBe5Vl"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Equus Asinus",
+        "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 166027,
+      "name": "Unlike Anything",
+      "url": "https://open.spotify.com/track/5r7wJLf1cKlIzio4e0xfje"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/1F4rsdXzl1jda8iHIkXU8w"
-      },
-      "artists": [
-        {
-          "name": "Ryan Montbleau",
-          "url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc"
-        }
-      ],
-      "duration_ms": 304880,
-      "name": "I Don't Want to Go",
-      "url": "https://open.spotify.com/track/6v72fV6Nao5E4MOoQ8ZvzD"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Speaking of You",
         "url": "https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 265726,
       "name": "Speaking of You",
       "url": "https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/1F4rsdXzl1jda8iHIkXU8w"
+      },
+      "artists": [
+        {
+          "name": "Ryan Montbleau",
+          "url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc"
+        }
+      ],
+      "duration_ms": 304880,
+      "name": "I Don't Want to Go",
+      "url": "https://open.spotify.com/track/6v72fV6Nao5E4MOoQ8ZvzD"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -2451,22 +2451,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Into The Mystery",
-        "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 234677,
-      "name": "Into The Mystery",
-      "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Vignettes",
         "url": "https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ"
       },
@@ -2479,6 +2463,22 @@
       "duration_ms": 256798,
       "name": "My City of Ruins",
       "url": "https://open.spotify.com/track/22NL5h9eOZqVeBRLrRgMJk"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Into The Mystery",
+        "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 234677,
+      "name": "Into The Mystery",
+      "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -2579,22 +2579,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Door",
-        "url": "https://open.spotify.com/album/7sHF2nzDA9vmRFSs0x9kMU"
-      },
-      "artists": [
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
-        }
-      ],
-      "duration_ms": 197113,
-      "name": "Door",
-      "url": "https://open.spotify.com/track/6SqYRVpl5gT4WZyuLBCsgV"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "would you call me up?",
         "url": "https://open.spotify.com/album/6sq8d7ejYstY6hhWByEIXs"
       },
@@ -2607,6 +2591,22 @@
       "duration_ms": 251504,
       "name": "would you call me up?",
       "url": "https://open.spotify.com/track/5HGQR6WBelocGIuDKTNCxM"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Door",
+        "url": "https://open.spotify.com/album/7sHF2nzDA9vmRFSs0x9kMU"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        }
+      ],
+      "duration_ms": 197113,
+      "name": "Door",
+      "url": "https://open.spotify.com/track/6SqYRVpl5gT4WZyuLBCsgV"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -2759,22 +2759,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/2ynSSRzU9VL57oGpPRsfAp"
-      },
-      "artists": [
-        {
-          "name": "Matthew Lennox",
-          "url": "https://open.spotify.com/artist/2BqutTlarph1w2r4643ntn"
-        }
-      ],
-      "duration_ms": 288720,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/4pRWY8xuHPi0ToEkt0saS8"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Silver Deliverer",
         "url": "https://open.spotify.com/album/5uLwNwP8hIrIUJNFHCNOiS"
       },
@@ -2787,6 +2771,22 @@
       "duration_ms": 340402,
       "name": "Lasso",
       "url": "https://open.spotify.com/track/7q5qLkQPSTOcPEJDfyTbQR"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2ynSSRzU9VL57oGpPRsfAp"
+      },
+      "artists": [
+        {
+          "name": "Matthew Lennox",
+          "url": "https://open.spotify.com/artist/2BqutTlarph1w2r4643ntn"
+        }
+      ],
+      "duration_ms": 288720,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/4pRWY8xuHPi0ToEkt0saS8"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -2923,22 +2923,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Sedona (The Voice Performance)",
-        "url": "https://open.spotify.com/album/1XJWCFvDApRcTaxQvRdPZ0"
-      },
-      "artists": [
-        {
-          "name": "Thunderstorm Artis",
-          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
-        }
-      ],
-      "duration_ms": 205726,
-      "name": "Sedona - The Voice Performance",
-      "url": "https://open.spotify.com/track/63NCB9nUsL8acHNk51klHy"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Ocean Eyes (Acoustic)",
         "url": "https://open.spotify.com/album/1CeJ6aLT0stviKNx2dZOYj"
       },
@@ -2955,50 +2939,18 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "ONE DAY HOME",
-        "url": "https://open.spotify.com/album/6DgYpISZEFRp4EF9jyQa7P"
+        "name": "Sedona (The Voice Performance)",
+        "url": "https://open.spotify.com/album/1XJWCFvDApRcTaxQvRdPZ0"
       },
       "artists": [
         {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+          "name": "Thunderstorm Artis",
+          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
         }
       ],
-      "duration_ms": 227224,
-      "name": "I'm Coming Home",
-      "url": "https://open.spotify.com/track/1s1KBqj1PxgGQnmE3HC3Iv"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
-        "name": "rest in peace",
-        "url": "https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE"
-      },
-      "artists": [
-        {
-          "name": "BL\u00dc EYES",
-          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
-        }
-      ],
-      "duration_ms": 191910,
-      "name": "rest in peace",
-      "url": "https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 240958,
-      "name": "Just for Now",
-      "url": "https://open.spotify.com/track/0B0Kv1dO7clBuDwZMO0dxP"
+      "duration_ms": 205726,
+      "name": "Sedona - The Voice Performance",
+      "url": "https://open.spotify.com/track/63NCB9nUsL8acHNk51klHy"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -3031,6 +2983,54 @@
       "duration_ms": 256000,
       "name": "Abilene",
       "url": "https://open.spotify.com/track/1eXPy9yPydGgJYnM2WkFGy"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "rest in peace",
+        "url": "https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE"
+      },
+      "artists": [
+        {
+          "name": "BL\u00dc EYES",
+          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+        }
+      ],
+      "duration_ms": 191910,
+      "name": "rest in peace",
+      "url": "https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "ONE DAY HOME",
+        "url": "https://open.spotify.com/album/6DgYpISZEFRp4EF9jyQa7P"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 227224,
+      "name": "I'm Coming Home",
+      "url": "https://open.spotify.com/track/1s1KBqj1PxgGQnmE3HC3Iv"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 240958,
+      "name": "Just for Now",
+      "url": "https://open.spotify.com/track/0B0Kv1dO7clBuDwZMO0dxP"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -3199,22 +3199,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Ryland James",
-        "url": "https://open.spotify.com/album/7EELTe8Hgthf9PllDRdkhA"
-      },
-      "artists": [
-        {
-          "name": "Ryland James",
-          "url": "https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "Water - Acoustic",
-      "url": "https://open.spotify.com/track/2nSUKx04FghoPD92S6y7hQ"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Atlanta",
         "url": "https://open.spotify.com/album/3ARs99aFblzNPESMX3h1Y2"
       },
@@ -3243,6 +3227,22 @@
       "duration_ms": 169226,
       "name": "Under The Sun",
       "url": "https://open.spotify.com/track/7y2JsiZ8cKGQp0vmmcMJcB"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Ryland James",
+        "url": "https://open.spotify.com/album/7EELTe8Hgthf9PllDRdkhA"
+      },
+      "artists": [
+        {
+          "name": "Ryland James",
+          "url": "https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Water - Acoustic",
+      "url": "https://open.spotify.com/track/2nSUKx04FghoPD92S6y7hQ"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -3311,18 +3311,18 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Something Simple",
-        "url": "https://open.spotify.com/album/21Fj4477nfc4wOV6UZjL0u"
+        "name": "Starting To Get To You",
+        "url": "https://open.spotify.com/album/74A6O0ISRJ7udEVOEl79yO"
       },
       "artists": [
         {
-          "name": "Sam MacPherson",
-          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Something Simple",
-      "url": "https://open.spotify.com/track/4a1HMAk6ABM11NPJvBkkeT"
+      "duration_ms": 161088,
+      "name": "Starting To Get To You",
+      "url": "https://open.spotify.com/track/5dp58cc1ttAdezO9BIoW1W"
     }
   ],
   "unique_name": "Morning Coffee",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 263 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 30 | [Oh Child](https://open.spotify.com/track/7eWB5IEjltqKJTx5nbibhk) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Real](https://open.spotify.com/album/7Jaiy3v9v7pTkamkvTxO5l) | 2:41 |
 | 31 | [Haunt Me](https://open.spotify.com/track/0TE4EyLBWUIAPiorLlEB1N) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [A Hometown Odyssey \(The Story Continues\)](https://open.spotify.com/album/1nXhV18HsP8vnB8JnNai75) | 2:50 |
 | 32 | [MAESTRO](https://open.spotify.com/track/6waMyYYhkiFHg0hPd2luQo) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [FLOW](https://open.spotify.com/album/7peUxIsjo1GlwVhNdXe4r2) | 2:57 |
-| 33 | [Waiting For You](https://open.spotify.com/track/6CG4xX5mY60t2DzdNt7kFQ) | [Ewan Mainwood](https://open.spotify.com/artist/0sYD7tLwt7uBajEg4adh6u) | [Waiting For You](https://open.spotify.com/album/0dLzKyJTrAQYFC26js8zjo) | 2:41 |
-| 34 | [Sun Goes Down](https://open.spotify.com/track/3gqTiLe1LF3fQ9a5ua8Zsq) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Sun Goes Down](https://open.spotify.com/album/249hhHmNxiQ4pGfLGRXbQt) | 3:21 |
+| 33 | [Sun Goes Down](https://open.spotify.com/track/3gqTiLe1LF3fQ9a5ua8Zsq) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Sun Goes Down](https://open.spotify.com/album/249hhHmNxiQ4pGfLGRXbQt) | 3:21 |
+| 34 | [Waiting For You](https://open.spotify.com/track/6CG4xX5mY60t2DzdNt7kFQ) | [Ewan Mainwood](https://open.spotify.com/artist/0sYD7tLwt7uBajEg4adh6u) | [Waiting For You](https://open.spotify.com/album/0dLzKyJTrAQYFC26js8zjo) | 2:41 |
 | 35 | [biting my tongue](https://open.spotify.com/track/1717Jvw2vyq7KNiutIJmLO) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [biting my tongue](https://open.spotify.com/album/4Xl9cCcZARYBmV4SK9SysK) | 2:35 |
 | 36 | [Hurt When You Hurt Me](https://open.spotify.com/track/3Fl5MQNYh1MIpAOpHYAVpr) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 4:01 |
 | 37 | [proud of me](https://open.spotify.com/track/35TYlXNyDkHjM6uiPBXkHj) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 3:32 |
@@ -57,10 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 47 | [Rain](https://open.spotify.com/track/22p47jS1KK3VFwxTk6b7Gu) | [Adam Klobi](https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI) | [Rain](https://open.spotify.com/album/7hv3rn6CsQxaGdX61qkFIr) | 4:08 |
 | 48 | [Killin' It](https://open.spotify.com/track/7h3ee318fQQrwYqbwHVyW8) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Zero Sympathy](https://open.spotify.com/album/24UtrS5kFi1iwbmioWFMhE) | 2:35 |
 | 49 | [hiatus](https://open.spotify.com/track/7cbvHeOb1SjNxkbqDuilw2) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [hiatus](https://open.spotify.com/album/1xpdm7VyOyj3QlfyyfASyP) | 2:22 |
-| 50 | [JACUZZI](https://open.spotify.com/track/3uxKRkElZD5cYI3kltUn48) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [LOZEAK](https://open.spotify.com/album/7EW8GOijpfI5nohP8w7dzC) | 2:02 |
-| 51 | [jealous in my dreams](https://open.spotify.com/track/2EHKBT1ydk2eWEPqw7Yl3K) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [me at 23](https://open.spotify.com/album/5ZcMpSpjPog7k75ptSXP7g) | 2:57 |
-| 52 | [Butterflies](https://open.spotify.com/track/0tSEQO8Drqe2DI7SRsnKqi) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Thee Unknown](https://open.spotify.com/album/2Jkcr5p1FkmY1vYM5WPJtk) | 2:50 |
-| 53 | [Contagious](https://open.spotify.com/track/2fIWB5J4Hq0rOh8DL4xINK) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Contagious](https://open.spotify.com/album/1fqKR6PCya4ZqtmhayITvZ) | 2:55 |
+| 50 | [Contagious](https://open.spotify.com/track/2fIWB5J4Hq0rOh8DL4xINK) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Contagious](https://open.spotify.com/album/1fqKR6PCya4ZqtmhayITvZ) | 2:55 |
+| 51 | [JACUZZI](https://open.spotify.com/track/3uxKRkElZD5cYI3kltUn48) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [LOZEAK](https://open.spotify.com/album/7EW8GOijpfI5nohP8w7dzC) | 2:02 |
+| 52 | [jealous in my dreams](https://open.spotify.com/track/2EHKBT1ydk2eWEPqw7Yl3K) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [me at 23](https://open.spotify.com/album/5ZcMpSpjPog7k75ptSXP7g) | 2:57 |
+| 53 | [Butterflies](https://open.spotify.com/track/0tSEQO8Drqe2DI7SRsnKqi) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Thee Unknown](https://open.spotify.com/album/2Jkcr5p1FkmY1vYM5WPJtk) | 2:50 |
 | 54 | [Guess She's Cool](https://open.spotify.com/track/2EHfWbPuShkr77dbidqZ1k) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Guess She’s Cool](https://open.spotify.com/album/3RAyDRKWY6KfrcsKZzpQFC) | 3:43 |
 | 55 | [Dopamine](https://open.spotify.com/track/09pDFuRiJpAwTIifF3aPht) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Dopamine](https://open.spotify.com/album/2QWxTZD0HTnNj4JTLCTzJH) | 3:05 |
 | 56 | [So What?](https://open.spotify.com/track/2GpUdjibaWYHpykqgKLfGW) | [Saibh Skelly](https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq) | [So What?](https://open.spotify.com/album/55Ur0PitFeUS67xqx8bajK) | 2:44 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 62 | [See It To Believe It](https://open.spotify.com/track/0LNNvLrHsgqQheAt2lMrTD) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W), [Grace Bowers](https://open.spotify.com/artist/47GDFLxw8IwDw9rSv2xE3u) | [Little Dreaming](https://open.spotify.com/album/6eWcI671vlYco6sFjNGWJS) | 2:47 |
 | 63 | [Breakfast Over Bae](https://open.spotify.com/track/6y8JwscZfUoEFBhoTLX7Ie) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M) | [Breadcrumbs](https://open.spotify.com/album/729KNJXudnLaQoZkCnYeDc) | 2:35 |
 | 64 | [Crybaby](https://open.spotify.com/track/27F4VM8xaqFeJ2C6n9D6kv) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Crybaby](https://open.spotify.com/album/1b1Y7SyrrrB9aExenixvyW) | 3:00 |
-| 65 | [Ordinary Love](https://open.spotify.com/track/2E5dMEYWxm3gY39vvAyOY6) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Slow Crush](https://open.spotify.com/album/0g0bAZkZDREcGkAo5jzuYU) | 3:40 |
-| 66 | [It’s Cian B\*tch](https://open.spotify.com/track/1Ecw5MvtLLOGq8d7UBzBo9) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6eWcI671vlYco6sFjNGWJS) | 1:11 |
+| 65 | [It’s Cian B\*tch](https://open.spotify.com/track/1Ecw5MvtLLOGq8d7UBzBo9) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6eWcI671vlYco6sFjNGWJS) | 1:11 |
+| 66 | [Ordinary Love](https://open.spotify.com/track/2E5dMEYWxm3gY39vvAyOY6) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Slow Crush](https://open.spotify.com/album/0g0bAZkZDREcGkAo5jzuYU) | 3:40 |
 | 67 | [Simple](https://open.spotify.com/track/1faJyWGSpckvsMnyr2QJFs) | [Fia Moon](https://open.spotify.com/artist/0UIbKpz6Owrre4L7XNjad4) | [Simple](https://open.spotify.com/album/4KDLdM2hHAGb57QMR8DJQr) | 3:07 |
 | 68 | [Remember Who Your Friends Are](https://open.spotify.com/track/29VjcdQ1UEPZsXKY01IAP4) | [Stephanie Rainey](https://open.spotify.com/artist/59W7vyEBvLFnrimGrfEUiD) | [Remember Who Your Friends Are](https://open.spotify.com/album/0yDpQYOzjyQPCoEq3qUlu5) | 3:22 |
 | 69 | [Ghummi Ghummi](https://open.spotify.com/track/6NmOh0O40DecD1xCJSuf7p) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M) | [Breadcrumbs](https://open.spotify.com/album/729KNJXudnLaQoZkCnYeDc) | 2:12 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 79 | [Fairytales Are Nightmares](https://open.spotify.com/track/0gnZMoS21NdAPtqM5va32c) | [Bailey333](https://open.spotify.com/artist/5DQGlDPmc9tzUORPhavWet) | [Fairytales Are Nightmares](https://open.spotify.com/album/0MndFwMnPLQFelpaZW8jYN) | 2:31 |
 | 80 | [Pieces](https://open.spotify.com/track/58pdFtaryYVwyHsjYDGw4W) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [Plimsoll Road](https://open.spotify.com/album/6S5eFUOBD9mToIr9iIW32u) | 3:56 |
 
-Snapshot ID: `Ab+K3AAAAABZd99MQKXOaouejh2ZHVMe`
+Snapshot ID: `Ab+QcgAAAAC/BAXnX0XzVEVPH1SKwFOp`

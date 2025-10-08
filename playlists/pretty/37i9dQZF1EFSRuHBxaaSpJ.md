@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 57 | [Entre nous](https://open.spotify.com/track/0CCuBJkOnLy09zFaQBSJ50) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Entre nous](https://open.spotify.com/album/1LvrT5k4frdXaOy7sc66jl) | 2:48 |
 | 58 | [Celtics](https://open.spotify.com/track/4ZFvrW2BSxfJfJ69WPL5ws) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Day One](https://open.spotify.com/album/3nbNEZbsGU2DuuXHnscx0L) | 3:00 |
 | 59 | [Ce soir](https://open.spotify.com/track/2pURrR5rSb7XUwRhEz5xSN) | [SLK](https://open.spotify.com/artist/6CBm5KPNnurK4hFutVDIpz), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [La Centrale](https://open.spotify.com/album/6f8fSoo94Jbu6QBAKkYk1O) | 2:57 |
-| 60 | [Lalala](https://open.spotify.com/track/0QY2cfSWkWtY4bXWfAlMSf) | [Sifax](https://open.spotify.com/artist/5dacK0fiMwLoV93yBdUrZK) | [La Mentale](https://open.spotify.com/album/3gnmXOGZpZrM4lpFTjqUqu) | 2:56 |
-| 61 | [Dis moi](https://open.spotify.com/track/6YANiwoayYin0u5pfCp34O) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 3:32 |
+| 60 | [Dis moi](https://open.spotify.com/track/6YANiwoayYin0u5pfCp34O) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 3:32 |
+| 61 | [Lalala](https://open.spotify.com/track/0QY2cfSWkWtY4bXWfAlMSf) | [Sifax](https://open.spotify.com/artist/5dacK0fiMwLoV93yBdUrZK) | [La Mentale](https://open.spotify.com/album/3gnmXOGZpZrM4lpFTjqUqu) | 2:56 |
 | 62 | [Le feu](https://open.spotify.com/track/15RdsytotGYShRTw1ZkLww) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 2:45 |
 | 63 | [T'es où](https://open.spotify.com/track/7hrYEBoSeQlEk7CU1l2Sob) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 3:12 |
 | 64 | [Viano](https://open.spotify.com/track/79aP0TraICgSI68NBEK8ID) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/0DiFDp3MRVxcECcJFPWXU3) | 2:46 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 77 | [Par hasard](https://open.spotify.com/track/0u2AmL4idXpdOCOLAwiCd1) | [Rafal](https://open.spotify.com/artist/1po2usUvDtjw2UVI2bnV1h) | [Jukaï : Tome 1](https://open.spotify.com/album/5sqmCvklxhkUu63bGCPtT7) | 2:15 |
 | 78 | [fade up](https://open.spotify.com/track/6VhmOw8lERbTRs1Al7iy2z) | [Eliias](https://open.spotify.com/artist/36hWlixqFk1ZWlJQYaB5To) | [march 29](https://open.spotify.com/album/1DpoTfAnZAEEIqJ4zqcpJG) | 6:32 |
 
-Snapshot ID: `Ab+KyAAAAAAFW8fu6QrbuC13pEOQj3r5`
+Snapshot ID: `Ab+QXgAAAAAJyayZtDalLfHxAc7OdvAz`

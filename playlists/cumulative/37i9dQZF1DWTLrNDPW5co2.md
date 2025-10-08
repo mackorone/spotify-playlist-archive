@@ -4,12 +4,12 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Cover: JIALING
 
-412 songs - 1 day 1 hr 25 min
+413 songs - 1 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10% \(feat\. Kali Uchis\)](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 | 2021-10-15 | 2024-05-23 |
-| [11:11](https://open.spotify.com/track/1rFFNUhF9PmxsXO0WlHJj0) | [Cherry Lee](https://open.spotify.com/artist/0bV3bttNRkvIYyjKqmGPFn), [Kittamami](https://open.spotify.com/artist/3ePd0ulLpL9gQT4FFDEEcN) | [11:11](https://open.spotify.com/album/6jveSfZF1tRnNQALlqPjTs) | 4:00 | 2025-06-06 |  |
+| [11:11](https://open.spotify.com/track/1rFFNUhF9PmxsXO0WlHJj0) | [Cherry Lee](https://open.spotify.com/artist/0bV3bttNRkvIYyjKqmGPFn), [Kittamami](https://open.spotify.com/artist/3ePd0ulLpL9gQT4FFDEEcN) | [11:11](https://open.spotify.com/album/6jveSfZF1tRnNQALlqPjTs) | 4:00 | 2025-06-06 | 2025-10-08 |
 | [160 DOWN THE A406](https://open.spotify.com/track/1uFinqBJvAhyupYVcrUaAl) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [160 DOWN THE A406](https://open.spotify.com/album/5Wu97Q2WeXdwFk6kXmF6mS) | 6:02 | 2022-06-03 | 2023-04-01 |
 | [160BPM](https://open.spotify.com/track/5gCuly2WxjI6Bhaqhi7KS8) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [160BPM](https://open.spotify.com/album/5sR7r3HcQrVlcCbQvN3yrf) | 2:40 | 2025-01-10 |  |
 | [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 | 2024-08-02 | 2024-10-12 |
@@ -242,6 +242,7 @@
 | [Lover/Friend](https://open.spotify.com/track/3u18lRpQFZYALlVjn0fL1y) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/0NvlaQeUqClEL7vMdYyUO7) | 4:19 | 2024-06-01 | 2024-12-07 |
 | [LSDXOXO\_TRUTH OR DARE\_123 BPM](https://open.spotify.com/track/0pO8YwXGjixwYbEEaifaCL) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [TAKE ME A\_PART, THE REMIXES](https://open.spotify.com/album/5S5ZRw92uGjaWUlIDPIlPY) | 4:53 | 2023-06-20 | 2023-06-24 |
 | [L’AMOUR DE MA VIE \[OVER NOW EXTENDED EDIT\]](https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [L’AMOUR DE MA VIE \[OVER NOW EXTENDED EDIT\]](https://open.spotify.com/album/4YCeHlXgJTKlzuwHmvZZo8) | 4:31 | 2024-06-14 | 2024-07-02 |
+| [M32 Riddim](https://open.spotify.com/track/2mCuGGAMp2K86a5XnzwBi6) | [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [IMMIGRANT](https://open.spotify.com/album/3XiL4HOizasPR1qjF9avwM) | 4:06 | 2025-10-07 |  |
 | [Magic \(Is In Tempo\) \- BASHKKA'S Basic Instinct Mix](https://open.spotify.com/track/13lH2TfNhMkXHPJc1rfpCe) | [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7), [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c), [BASHKKA](https://open.spotify.com/artist/5ofWf87ImDZQO2KzwdlPSw) | [Magic \(Is In The Tempo\) EP](https://open.spotify.com/album/77hJtqyIi1c9Ny0uJLHbXc) | 5:54 | 2024-06-01 | 2024-06-15 |
 | [Make U Stay](https://open.spotify.com/track/32Q7B7BsaUBb8D2zT2Vngb) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Make U Stay](https://open.spotify.com/album/4qdvHpWNuKzIo49fq9ASrL) | 3:20 | 2021-10-15 | 2024-03-02 |
 | [MAMI](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 | 2023-06-01 | 2024-08-03 |

@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day\. Cover: Felicia Temple
 
-847 songs - 2 day 2 hr 38 min
+848 songs - 2 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,11 +115,12 @@
 | [Can't Hide It](https://open.spotify.com/track/4Ic5SoEYrVpN7gLQ6q1058) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L) | [Dancing in My Room / Can't Hide It](https://open.spotify.com/album/5r0df366M7ZgFHiAj2RhN1) | 2:56 | 2023-08-18 | 2024-02-11 |
 | [Can't Stay Mad](https://open.spotify.com/track/3N0Gepa8QoYX39WJmsz6MQ) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Can't Stay Mad](https://open.spotify.com/album/0eB1N3Fd9jy79f2Ub94x07) | 5:03 | 2025-05-09 | 2025-05-24 |
 | [Can't Wait](https://open.spotify.com/track/3uDZc1Mzf7smj1KuaY5YSG) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1) | [Can't Wait](https://open.spotify.com/album/2ksZnUmEKvKxXFEYdLhENa) | 3:37 | 2025-04-25 | 2025-05-24 |
-| [Can’t Explain This Love](https://open.spotify.com/track/6VhWAlezdLAky4AlWsXVx4) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Can’t Explain This Love](https://open.spotify.com/album/4Tu4MPRJiKFalIgGn5mi1L) | 3:01 | 2024-08-23 |  |
+| [Can’t Explain This Love](https://open.spotify.com/track/6VhWAlezdLAky4AlWsXVx4) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Can’t Explain This Love](https://open.spotify.com/album/4Tu4MPRJiKFalIgGn5mi1L) | 3:01 | 2024-08-23 | 2025-10-08 |
 | [Can’t Wait For You](https://open.spotify.com/track/5n2wrLDldsLbFWi8dmqJua) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Gratitude](https://open.spotify.com/album/6F5xlV2Y4NTIAB8rd1gbAy) | 3:31 | 2024-11-15 | 2025-02-21 |
 | [Carcass \- Evolved](https://open.spotify.com/track/5USi9RGjSH9vgWNRyJENcn) | [JAWAN.mp3](https://open.spotify.com/artist/090FQ8mQozGCRCttDhgEw7) | [Reverie](https://open.spotify.com/album/6q3DI36bLzKZT9JpBjINLn) | 3:08 | 2025-01-24 | 2025-04-12 |
 | [Caroline](https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Slow Burn](https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb) | 4:06 | 2024-04-12 |  |
 | [Catching Feelings](https://open.spotify.com/track/2YQnESqC6ASwaJyUx6U4d7) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Catching Feelings](https://open.spotify.com/album/0ZX6lnq5noF2aNcQSxfpJR) | 3:25 | 2025-06-27 |  |
+| [Caviar](https://open.spotify.com/track/3bUBljQLIeJcsdfKy9NzsS) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju) | [Caviar](https://open.spotify.com/album/5nkZ3TE31QPAIoTkqNAn1c) | 2:54 | 2025-10-03 |  |
 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 | 2024-11-08 |  |
 | [Changed](https://open.spotify.com/track/3DU1AMXRg8IkrvAMg6odMt) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS) | [Changed](https://open.spotify.com/album/1VegKoKvndG9a3jhnseFTD) | 3:15 | 2023-03-31 | 2024-07-13 |
 | [Chasing](https://open.spotify.com/track/2TR35rjnC69Mqs3uBZ1QqR) | [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Chasing](https://open.spotify.com/album/0Sne6wKPU3s6feDEkCqKff) | 3:01 | 2024-05-03 | 2025-04-19 |

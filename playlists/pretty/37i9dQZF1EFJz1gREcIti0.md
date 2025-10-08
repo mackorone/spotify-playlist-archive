@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3LRQHA0f13JHI5UZH2JLsz">Spencer Stewart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 782 likes - 139 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 785 likes - 139 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 7 | [Dreamer](https://open.spotify.com/track/1YxQxV5sKZN1TgVpXl5MLA) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:30 |
 | 8 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 |
 | 9 | [Bewitched](https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 4:06 |
-| 10 | [Off the Grid \(feat\. Khalid\)](https://open.spotify.com/track/6pW5qN3CaUUzS4gzBuhwgp) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 3:20 |
-| 11 | [Lover Girl](https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 2:44 |
+| 10 | [Lover Girl](https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 2:44 |
+| 11 | [Off the Grid \(feat\. Khalid\)](https://open.spotify.com/track/6pW5qN3CaUUzS4gzBuhwgp) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 3:20 |
 | 12 | [Second Best](https://open.spotify.com/track/4Y9Ge3i5r0vgFAZq653Yx3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:24 |
 | 13 | [To Me](https://open.spotify.com/track/3gDbwvZ49B1j9yagKv8laa) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 4:17 |
 | 14 | [If You Let Me](https://open.spotify.com/track/2BfxLAYgetcxiyXJA7ItoF) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Sunbeam](https://open.spotify.com/album/5BRZHdsYHxgipEIy5Am2Ig) | 2:15 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 45 | [Right There](https://open.spotify.com/track/6ACABT7da0gny402DMm9vs) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Moongate](https://open.spotify.com/album/0teV5HNso0WGi7EwyASosR) | 2:42 |
 | 46 | [Change My Mind](https://open.spotify.com/track/1ClklkdqMsWNvC0YdjNb1X) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Moongate](https://open.spotify.com/album/0teV5HNso0WGi7EwyASosR) | 2:54 |
 | 47 | [My Whole Life](https://open.spotify.com/track/3gOaaWn0rrAiG1dUWAuNod) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 2:42 |
-| 48 | [Mandy](https://open.spotify.com/track/13cdHbMDnKqwKXMt37gyB2) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Wish Me Luck](https://open.spotify.com/album/57UGysEyFzO6F6PQLYKRjt) | 3:05 |
-| 49 | [Mr\. Eclectic](https://open.spotify.com/track/4cZnOey9w6yxegFIzE982M) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 2:35 |
+| 48 | [Mr\. Eclectic](https://open.spotify.com/track/4cZnOey9w6yxegFIzE982M) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 2:35 |
+| 49 | [Mandy](https://open.spotify.com/track/13cdHbMDnKqwKXMt37gyB2) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Wish Me Luck](https://open.spotify.com/album/57UGysEyFzO6F6PQLYKRjt) | 3:05 |
 | 50 | [Grade A \(feat\. JAWNY\)](https://open.spotify.com/track/6ek40cFUiRjxA2KrOHNfi3) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Grade A \(feat\. JAWNY\)](https://open.spotify.com/album/55yLoYwGsnb7tCg10LmKIJ) | 1:46 |
 | 51 | [Between Us](https://open.spotify.com/track/5Jqp5YuySyuTOTfFBLkY6K) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Sunbeam](https://open.spotify.com/album/5BRZHdsYHxgipEIy5Am2Ig) | 3:08 |
 | 52 | [Questions For The Universe](https://open.spotify.com/track/7kle3wveNJelYdI1khvHDb) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/777K2ytcKbDsX0AZ2y8CBS) | 3:23 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 68 | [Josslyn \- Demo](https://open.spotify.com/track/02CR9rag6hSFz795H2BJIo) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Josslyn](https://open.spotify.com/album/4H3mlT00kr4bJrY80GOFnx) | 2:49 |
 | 69 | [better the first time](https://open.spotify.com/track/7bGrUqtsMPi9FF59gYaSXS) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel \- EP](https://open.spotify.com/album/6RIPoDTAV7hnyBAM5xrKVV) | 3:09 |
 | 70 | [Nobody Has To Know](https://open.spotify.com/track/2fQE3IKIgFAuUsuD4rWvjq) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Nobody Has To Know](https://open.spotify.com/album/3AA40BRLEzpLVnDEIJgfgv) | 3:06 |
-| 71 | [Watch Out for the Narcs](https://open.spotify.com/track/2mPzb3nt5M9dnQFRmNn7To) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Top Shotta](https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf) | 3:36 |
-| 72 | [who hurt you](https://open.spotify.com/track/6sBAlJ2mhfHHxf8XLURHSO) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 3:28 |
+| 71 | [who hurt you](https://open.spotify.com/track/6sBAlJ2mhfHHxf8XLURHSO) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 3:28 |
+| 72 | [Watch Out for the Narcs](https://open.spotify.com/track/2mPzb3nt5M9dnQFRmNn7To) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Top Shotta](https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf) | 3:36 |
 | 73 | [die for my bitch](https://open.spotify.com/track/4JcibCP49g3evpDtS4Ij6x) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 2:53 |
 | 74 | [From Scratch](https://open.spotify.com/track/1OimzlKVRx75TZtPZiGAGK) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:25 |
 | 75 | [Love Is Blind](https://open.spotify.com/track/7pzL8kHWBXYoGITYwmrzj5) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:51 |
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 110 | [Innit](https://open.spotify.com/track/7oMT6guQ0isyE2bjSkNOmj) | [drumaq](https://open.spotify.com/artist/6YxiJtz5oCCcDsMGiLNMh5) | [Vitamin D](https://open.spotify.com/album/6PlHbEXvDCH52Iq5NO2gAf) | 2:36 |
 | 111 | [Feyoncé](https://open.spotify.com/track/7zibkGOiGEgZ4dR5pqCOW1) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [Melody Of A Memory](https://open.spotify.com/album/5HHk3WZje18OMnqE6VzVKB) | 2:10 |
 | 112 | [Rascal](https://open.spotify.com/track/3WqM0ZtRdYnvVct5kk9HCO) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Sugar For Bugs](https://open.spotify.com/album/6ENuJHPuWUCIogsF4rNwaD) | 3:49 |
-| 113 | [Leon Pt\. 2](https://open.spotify.com/track/008ZGLgUj3YCGQJs1TL92E) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis\. He Wasn't the One](https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1) | 2:30 |
-| 114 | [The Risk](https://open.spotify.com/track/724VTAYwzZowMcN1jC9HF5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Big Bold Beautiful Journey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47kkQLC0hzwsp0uFdhikZP) | 3:58 |
+| 113 | [The Risk](https://open.spotify.com/track/724VTAYwzZowMcN1jC9HF5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Big Bold Beautiful Journey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47kkQLC0hzwsp0uFdhikZP) | 3:58 |
+| 114 | [Leon Pt\. 2](https://open.spotify.com/track/008ZGLgUj3YCGQJs1TL92E) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis\. He Wasn't the One](https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1) | 2:30 |
 | 115 | [Heaven](https://open.spotify.com/track/2xwIfJ0ErCJlr2qPJsytcH) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [En Route](https://open.spotify.com/album/17SKLbRtJHhodYuJthn36O) | 3:01 |
 | 116 | [No Better \(From The Netflix Film “Ultraman: Rising”\)](https://open.spotify.com/track/4QppwYvXCur9VbZXKDrFtO) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [No Better \(From The Netflix Film “Ultraman: Rising”\)](https://open.spotify.com/album/7xHzBLtg5kyEa6TRHaEuHZ) | 3:02 |
 | 117 | [BAD HABITS](https://open.spotify.com/track/6XR59BEFC1Z2kQ7PayDNPj) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [THE DEPENDENCY PROJECT](https://open.spotify.com/album/3et7p7lFukbFP8RwL4io3G) | 3:20 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 120 | [East Side Love](https://open.spotify.com/track/3nbHIkBBHmaS9AyHMIjPJK) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Thank God](https://open.spotify.com/album/0EgK3iRxEr2vuokKSE2khi) | 2:21 |
 | 121 | [Fool’s Gold](https://open.spotify.com/track/1oDlkWpiQjkX2ci6GWnJe5) | [Rosemarie](https://open.spotify.com/artist/3Lz0JugHcf9nqKF1Khkhmu) | [ROCK PAPER SCISSORS: RECUT](https://open.spotify.com/album/6FR9vFhRGgeC3dMIJqtG3T) | 3:01 |
 | 122 | [Always Been You](https://open.spotify.com/track/6DtMK84iJ5bReQffOpCH4p) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Always Been You](https://open.spotify.com/album/7h90sAbas1Clmf6xq47HtY) | 3:23 |
-| 123 | [Molly, I'm Coming Around](https://open.spotify.com/track/5ZZRdNpTpMIH1UYfADvPHF) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Live From Mother Earth](https://open.spotify.com/album/41WeqlJnk95KB5XpZ0jJ6g) | 2:41 |
-| 124 | [Cherry On Top](https://open.spotify.com/track/6SXNnuYAZADpmSsmDfcGYr) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely: P.S.](https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux) | 3:06 |
+| 123 | [Cherry On Top](https://open.spotify.com/track/6SXNnuYAZADpmSsmDfcGYr) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely: P.S.](https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux) | 3:06 |
+| 124 | [Molly, I'm Coming Around](https://open.spotify.com/track/5ZZRdNpTpMIH1UYfADvPHF) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Live From Mother Earth](https://open.spotify.com/album/41WeqlJnk95KB5XpZ0jJ6g) | 2:41 |
 | 125 | [First](https://open.spotify.com/track/1o0Pxy7HBl5pqiDRPROcob) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis\. He Wasn't the One](https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1) | 2:46 |
 | 126 | [Before We Were Us](https://open.spotify.com/track/04ag2eala9ZAxtmDCCWNxx) | [Zola Courtney](https://open.spotify.com/artist/11lgCVODZLjSSBl1oSke9J) | [Before We Were Us](https://open.spotify.com/album/0VqPBtd4Jr05sOiZkNYeEK) | 2:57 |
 | 127 | [Venus](https://open.spotify.com/track/4kZj7dHGWSfnP34LSEHLQl) | [Symphani Soto](https://open.spotify.com/artist/5N2lZ3f6pIpMTnpfVV4Adg) | [Under The Sun](https://open.spotify.com/album/0d5s5Jp5BJ6S7arBPAnfyg) | 3:03 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 138 | [Free Fall \- Edit](https://open.spotify.com/track/5rQtSoeRRO4y3d54z1Kd1f) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [Free Fall](https://open.spotify.com/album/4df4LmPcayUQczAkV63sn4) | 3:01 |
 | 139 | [Mockingbird](https://open.spotify.com/track/1AlxrPQuJNXOl3wQOXyv68) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Rave](https://open.spotify.com/album/4ETd0GtmlvoPnD8woGy2sX) | 3:28 |
 
-Snapshot ID: `Ab+KyAAAAAAwZyZFUsapB/KEpQiu7eRP`
+Snapshot ID: `Ab+QXgAAAACAtN/ADmBbUr6h6oYYAoVB`

@@ -1,6 +1,6 @@
 {
   "description": "The best in South African and international R&B. Cover: Lusanda",
-  "num_followers": 25042,
+  "num_followers": 25043,
   "original_name": "R&Beats",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-10-03 07:11:29",
       "album": {
+        "name": "act right",
+        "url": "https://open.spotify.com/album/6aqhCiscWmMkL7YYS0Cbzz"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 173875,
+      "name": "act right",
+      "url": "https://open.spotify.com/track/1z0gNe6DiusPKN55RBAvRO"
+    },
+    {
+      "added_at": "2025-10-03 07:11:29",
+      "album": {
         "name": "Ecstasy (Remix) [feat. Teyana Taylor]",
         "url": "https://open.spotify.com/album/305yIXU97c0Sa68bjQNSTz"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 210071,
       "name": "Ecstasy (Remix) [feat. Teyana Taylor]",
       "url": "https://open.spotify.com/track/23WBvFOEKE7KYae5H1usrA"
-    },
-    {
-      "added_at": "2025-10-03 07:11:29",
-      "album": {
-        "name": "act right",
-        "url": "https://open.spotify.com/album/6aqhCiscWmMkL7YYS0Cbzz"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 173875,
-      "name": "act right",
-      "url": "https://open.spotify.com/track/1z0gNe6DiusPKN55RBAvRO"
     },
     {
       "added_at": "2025-10-03 07:11:29",

@@ -1,6 +1,6 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Genevieve Stokes",
-  "num_followers": 110041,
+  "num_followers": 110061,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
@@ -399,18 +399,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Everything So Far",
-        "url": "https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE"
+        "name": "First Two Pages of Frankenstein",
+        "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
       },
       "artists": [
         {
-          "name": "Pinegrove",
-          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 191796,
-      "name": "Need 2",
-      "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
+      "duration_ms": 267773,
+      "name": "The Alcott (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -431,22 +435,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "First Two Pages of Frankenstein",
-        "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
+        "name": "Everything So Far",
+        "url": "https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE"
       },
       "artists": [
         {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
         }
       ],
-      "duration_ms": 267773,
-      "name": "The Alcott (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
+      "duration_ms": 191796,
+      "name": "Need 2",
+      "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Never, No Not Once",
+        "url": "https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 298864,
+      "name": "Never, No Not Once",
+      "url": "https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Yoke (with Julien Baker)",
         "url": "https://open.spotify.com/album/3jC9qVXOLE53cU2eTm4RZW"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 233345,
       "name": "Yoke (with Julien Baker)",
       "url": "https://open.spotify.com/track/58VHR19NNpBFrrL2PP06Wv"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Never, No Not Once",
-        "url": "https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 298864,
-      "name": "Never, No Not Once",
-      "url": "https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Worst Case Kid",
-        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Worst Case Kid",
-      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "A Little Love",
         "url": "https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 201893,
       "name": "A Little Love",
       "url": "https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Worst Case Kid",
+        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Worst Case Kid",
+      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Optimism",
-        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
-      },
-      "artists": [
-        {
-          "name": "Jana Horn",
-          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
-        }
-      ],
-      "duration_ms": 119372,
-      "name": "Optimism",
-      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "A Little Older",
         "url": "https://open.spotify.com/album/0HFPYiYnX5HgnfEO5TAUDR"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 182452,
       "name": "A Little Older",
       "url": "https://open.spotify.com/track/1m56W6gAJihdK03ZVr6DIv"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Optimism",
+        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
+      },
+      "artists": [
+        {
+          "name": "Jana Horn",
+          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
+        }
+      ],
+      "duration_ms": 119372,
+      "name": "Optimism",
+      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Winona",
-        "url": "https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA"
-      },
-      "artists": [
-        {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
-        }
-      ],
-      "duration_ms": 275560,
-      "name": "Winona",
-      "url": "https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Scorpions Don't Live Forever",
         "url": "https://open.spotify.com/album/01UB7yLLhdvHKtETrr0VgM"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 272000,
       "name": "Scorpions Don't Live Forever",
       "url": "https://open.spotify.com/track/4FUZi3B1cpwtAXZKXNTu2E"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Winona",
+        "url": "https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "duration_ms": 275560,
+      "name": "Winona",
+      "url": "https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Vampire Empire",
-        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 192127,
-      "name": "Vampire Empire",
-      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Either Way",
         "url": "https://open.spotify.com/album/6xCFqOoJGxMDOQR0JEx8ly"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 222040,
       "name": "Big Idea",
       "url": "https://open.spotify.com/track/6H8zVCDkxJVx7MPDLQGvtQ"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Vampire Empire",
+        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 192127,
+      "name": "Vampire Empire",
+      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
     },
     {
       "added_at": "2024-11-08 05:00:00",

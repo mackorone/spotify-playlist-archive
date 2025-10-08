@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUfOmgBZyBo.md) - [plain]
 
 > Music from "PSYCHO\-PASS" Series !「 PSYCHO\-PASS サイコパス」シリーズの楽曲を1つのプレイリストで。©サイコパス製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,627 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,628 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

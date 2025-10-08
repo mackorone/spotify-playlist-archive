@@ -4,7 +4,7 @@
 
 > 来日希望！ライブで観たい注目の海外アーティストを特集。cover: miki
 
-709 songs - 1 day 15 hr 18 min
+710 songs - 1 day 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,7 +504,7 @@
 | [Pride Trials](https://open.spotify.com/track/08VscSYLkddGfTMNIDpYrl) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Pride Trials](https://open.spotify.com/album/7gE2klwdGjX4kBA1rNUBaZ) | 4:14 | 2024-11-21 | 2024-12-06 |
 | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 | 2023-04-13 | 2023-11-18 |
 | [Problematic](https://open.spotify.com/track/0I2BCIvlzrb6Iix9hAbQFF) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Lucid Dreams](https://open.spotify.com/album/4KAtLRVIfB0bKnRY01dveY) | 2:44 | 2023-10-05 | 2023-10-24 |
-| [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 | 2024-10-10 |  |
+| [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 | 2024-10-10 | 2025-10-08 |
 | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK) | 2:48 | 2023-03-15 | 2023-03-27 |
 | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/16cssMSjVqPJeBxRLy9FrF) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Young Hearts](https://open.spotify.com/album/5HSUCEmAAFT1yl5GoGUnxa) | 2:48 | 2023-03-21 | 2023-05-12 |
 | [Radiosoul \- Single Version](https://open.spotify.com/track/6AyaAytveXEC4AEUiQj0Sa) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Radiosoul](https://open.spotify.com/album/5doIyRFTqHfAgqu8oy0rXE) | 3:38 | 2024-03-07 | 2024-03-15 |
@@ -610,6 +610,7 @@
 | [The Boys](https://open.spotify.com/track/28GrU7y1SAut9GqwvohEaZ) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Modern Romance](https://open.spotify.com/album/0j2JD5n3SLhPgisWlam9lD) | 2:38 | 2025-05-16 | 2025-05-30 |
 | [The Bridge](https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 3:01 | 2023-05-25 | 2023-09-09 |
 | [THE CHEMICALS](https://open.spotify.com/track/4NLvDJiZ1fcOF8eqZRBbxc) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [THE CHEMICALS](https://open.spotify.com/album/5SmtHJw6OE9m8oTUdzV03c) | 4:04 | 2023-08-10 | 2023-08-23 |
+| [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 | 2025-10-02 |  |
 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 | 2023-04-27 | 2023-06-09 |
 | [The Flood](https://open.spotify.com/track/0vXivA7V0E0c8RBgHtcklm) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Flood](https://open.spotify.com/album/5dhxOuPRt7O3Bgk0jLHhXv) | 4:29 | 2025-04-03 | 2025-04-18 |
 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-03-13 | 2025-06-21 |

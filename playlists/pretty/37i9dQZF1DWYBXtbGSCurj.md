@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: tchelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,934 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,949 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 12 | [Diaba](https://open.spotify.com/track/6OL1PIjTZoCEA4NA1yVUPj) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [GvsnoBeat](https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk) | [Cachorro Sincero](https://open.spotify.com/album/0PWbgeNtP3j5bR7QhZ8suc) | 2:17 |
 | 13 | [YAMAL FREESTYLE](https://open.spotify.com/track/4JTL54d1a4iZlXU2Dr74S0) | [Tchelo](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY) | [NOVOS HÁBITOS](https://open.spotify.com/album/65uzff6CI81JisRkr9nJkU) | 1:55 |
 | 14 | [Eu Tive um Sonho](https://open.spotify.com/track/1lfR1duLXBfwgJAZ3dCitC) | [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU), [EF](https://open.spotify.com/artist/31zD0TKiTJ0OlcW3I6JI27) | [Eu Tive um Sonho](https://open.spotify.com/album/7xtSangtPAilLTeKKEZoVP) | 2:00 |
-| 15 | [Eu Diria](https://open.spotify.com/track/6bL6zUP3MhVwdpjQQKPCTn) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY) | [Serena & Venus \(Lado A\)](https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68) | 1:57 |
+| 15 | [Eu Diria](https://open.spotify.com/track/6bL6zUP3MhVwdpjQQKPCTn) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY), [DJ MF](https://open.spotify.com/artist/3nq6pfCv6ez4ozA8Lp6jdm) | [Serena & Venus \(Lado A\)](https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68) | 1:57 |
 | 16 | [Yeezy Slide "REMIX"](https://open.spotify.com/track/3BdG3O9MCiJEWTJDIevhXi) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [MC Marlon PH](https://open.spotify.com/artist/3uSPe0aATQvPSLWin1kZsQ), [ANTCONSTANTINO](https://open.spotify.com/artist/0ncGcxcuCgFZ9vIMEMYQ30), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [Yeezy Slide "REMIX"](https://open.spotify.com/album/61SPqXJSxF2WozUy1KLRrD) | 2:18 |
 | 17 | [Number One](https://open.spotify.com/track/72han37EfWVjoOVJbHKdfe) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Leys](https://open.spotify.com/artist/5QNv7hSi3Ba7DV4li83jFG), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [SIX.](https://open.spotify.com/album/0ulBRtM6uEMBKFbq1NI9mr) | 2:32 |
 | 18 | [MKULTRA](https://open.spotify.com/track/05c69nYisSFXZXPZYxwuHx) | [Akashi Cruz](https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2) | [MKULTRA](https://open.spotify.com/album/6QQ2doZ4hJXOrm3TuCTuLG) | 2:02 |

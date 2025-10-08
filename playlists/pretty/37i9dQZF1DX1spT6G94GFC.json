@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the 80s.",
-  "num_followers": 4051541,
+  "num_followers": 4051679,
   "original_name": "80s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
+        "name": "Diesel And Dust",
+        "url": "https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV"
+      },
+      "artists": [
+        {
+          "name": "Midnight Oil",
+          "url": "https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk"
+        }
+      ],
+      "duration_ms": 255680,
+      "name": "Beds Are Burning - Remastered",
+      "url": "https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
         "name": "Bon Jovi",
         "url": "https://open.spotify.com/album/1UUOBzIHw0noiRGRpbt3sz"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 323453,
       "name": "Separate Ways (Worlds Apart) [2023 Remaster]",
       "url": "https://open.spotify.com/track/1pTw2cNrp9L3esxLAvWnN2"
-    },
-    {
-      "added_at": "2024-09-13 16:58:23",
-      "album": {
-        "name": "Diesel And Dust",
-        "url": "https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV"
-      },
-      "artists": [
-        {
-          "name": "Midnight Oil",
-          "url": "https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk"
-        }
-      ],
-      "duration_ms": 255680,
-      "name": "Beds Are Burning - Remastered",
-      "url": "https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Ultimate Survivor",
-        "url": "https://open.spotify.com/album/5mDgJdfSgdRGA0ab6Xp6H0"
-      },
-      "artists": [
-        {
-          "name": "Survivor",
-          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
-        }
-      ],
-      "duration_ms": 245533,
-      "name": "Eye of the Tiger",
-      "url": "https://open.spotify.com/track/64F1ojnPPiJiFZtYQtHB7r"
-    },
-    {
-      "added_at": "2024-09-13 16:58:23",
-      "album": {
         "name": "Nothing's Shocking",
         "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 242720,
       "name": "Mountain Song",
       "url": "https://open.spotify.com/track/5fKZJHzJ9d3MADArbm9muW"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Ultimate Survivor",
+        "url": "https://open.spotify.com/album/5mDgJdfSgdRGA0ab6Xp6H0"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "duration_ms": 245533,
+      "name": "Eye of the Tiger",
+      "url": "https://open.spotify.com/track/64F1ojnPPiJiFZtYQtHB7r"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Rhino Hi-Five: Twisted Sister",
-        "url": "https://open.spotify.com/album/0pYdfWiG4v5OhcC8LFvWrr"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "We're Not Gonna Take It",
-      "url": "https://open.spotify.com/track/5RHG4SQ6iJ1qQJmt3EFJCX"
-    },
-    {
-      "added_at": "2024-09-13 16:58:23",
-      "album": {
         "name": "Dr. Feelgood",
         "url": "https://open.spotify.com/album/6pL7kL9cOc0DpWCq6qJtxQ"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 282653,
       "name": "Kickstart My Heart",
       "url": "https://open.spotify.com/track/7GonnnalI2s19OCQO1J7Tf"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Rhino Hi-Five: Twisted Sister",
+        "url": "https://open.spotify.com/album/0pYdfWiG4v5OhcC8LFvWrr"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "We're Not Gonna Take It",
+      "url": "https://open.spotify.com/track/5RHG4SQ6iJ1qQJmt3EFJCX"
     },
     {
       "added_at": "2024-09-13 16:58:23",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 
 > All of it
 
-[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,009 songs - 2 day 14 hr 22 min
+[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,011 songs - 2 day 14 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1017,5 +1017,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 1007 | [Without You](https://open.spotify.com/track/696AC0TdTjD1teDPcANly9) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Flowers](https://open.spotify.com/album/7zyILGPU1W58PNTgEgRNvO) | 3:37 |
 | 1008 | [Creep](https://open.spotify.com/track/4udOFK7drN6qDbKeA6FOr6) | [Richard Cheese](https://open.spotify.com/artist/74IIqlVQQmvf04EHOI6yKh) | [The Sunny Side of the Moon: The Best of Richard Cheese](https://open.spotify.com/album/7nACgH5cI6ctEXxaRFNdWS) | 2:33 |
 | 1009 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 |
+| 1010 | [Kiss of Life](https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:11 |
+| 1011 | [Passionfruit](https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 4:58 |
 
-Snapshot ID: `AAAHngJ6uLQhHrtf9+jUfA3cnAIllXXS`
+Snapshot ID: `AAAHoIk4Y884Vo7TEc3YswuuznmyWqia`

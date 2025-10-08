@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 115680,
+  "num_followers": 115718,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,30 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "Amor Puro (feat. La Banda Baston)",
+        "url": "https://open.spotify.com/album/1o4F0i1k4nyoOOqQwLR4qQ"
+      },
+      "artists": [
+        {
+          "name": "Pato Machete",
+          "url": "https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2"
+        },
+        {
+          "name": "Serko Fu",
+          "url": "https://open.spotify.com/artist/4TWEmbduk8hwnl8PnJnX2U"
+        },
+        {
+          "name": "La Banda Baston",
+          "url": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+        }
+      ],
+      "duration_ms": 215373,
+      "name": "Amor Puro (feat. La Banda Baston)",
+      "url": "https://open.spotify.com/track/6XKTQUnpryvy723TkfEhHd"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "Orgullo Rolo",
         "url": "https://open.spotify.com/album/14FDrpL3A4iOvG3o4W7p9G"
       },
@@ -559,30 +583,6 @@
       "duration_ms": 225130,
       "name": "Orgullo Rolo",
       "url": "https://open.spotify.com/track/43L9Q1jIDLzeaL1J8klKgI"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "Amor Puro (feat. La Banda Baston)",
-        "url": "https://open.spotify.com/album/1o4F0i1k4nyoOOqQwLR4qQ"
-      },
-      "artists": [
-        {
-          "name": "Pato Machete",
-          "url": "https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2"
-        },
-        {
-          "name": "Serko Fu",
-          "url": "https://open.spotify.com/artist/4TWEmbduk8hwnl8PnJnX2U"
-        },
-        {
-          "name": "La Banda Baston",
-          "url": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
-        }
-      ],
-      "duration_ms": 215373,
-      "name": "Amor Puro (feat. La Banda Baston)",
-      "url": "https://open.spotify.com/track/6XKTQUnpryvy723TkfEhHd"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -691,30 +691,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "LACOSTA",
-        "url": "https://open.spotify.com/album/4WxcXC1fsy3SGx2BPpgmwc"
-      },
-      "artists": [
-        {
-          "name": "Hard GZ",
-          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
-        },
-        {
-          "name": "Marcelus Airlinez",
-          "url": "https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q"
-        },
-        {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
-        }
-      ],
-      "duration_ms": 248546,
-      "name": "MALDITO",
-      "url": "https://open.spotify.com/track/6P8WRpldEaZbp1xiobRE8A"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "La Ansiedad y Yo",
         "url": "https://open.spotify.com/album/1wLi7L3eS7OnfktZoyIj4n"
       },
@@ -739,6 +715,30 @@
       "duration_ms": 194341,
       "name": "La Ansiedad y Yo",
       "url": "https://open.spotify.com/track/7uBNpRc8gdsbeLs8Y8ztwI"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "LACOSTA",
+        "url": "https://open.spotify.com/album/4WxcXC1fsy3SGx2BPpgmwc"
+      },
+      "artists": [
+        {
+          "name": "Hard GZ",
+          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
+        },
+        {
+          "name": "Marcelus Airlinez",
+          "url": "https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q"
+        },
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        }
+      ],
+      "duration_ms": 248546,
+      "name": "MALDITO",
+      "url": "https://open.spotify.com/track/6P8WRpldEaZbp1xiobRE8A"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -887,26 +887,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Ellas",
-        "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
-      },
-      "artists": [
-        {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
-        },
-        {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
-        }
-      ],
-      "duration_ms": 284413,
-      "name": "Ellas",
-      "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Dolor",
         "url": "https://open.spotify.com/album/1QXRglXocvvIB7lroBNUc8"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 265747,
       "name": "Dolor",
       "url": "https://open.spotify.com/track/4fCg5TdCsAaf2sizMKYFjm"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Ellas",
+        "url": "https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY"
+      },
+      "artists": [
+        {
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        },
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+        }
+      ],
+      "duration_ms": 284413,
+      "name": "Ellas",
+      "url": "https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "So Sad",
+        "url": "https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 217511,
+      "name": "So Sad",
+      "url": "https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "El eslab\u00f3n perdido",
         "url": "https://open.spotify.com/album/0cnmNoOmJCsRYTruZmE8oq"
       },
@@ -1071,26 +1087,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "M\u00e1s & Menos",
-        "url": "https://open.spotify.com/album/6PF5Nfua8PnfihIwSxdwus"
-      },
-      "artists": [
-        {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
-        },
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 269413,
-      "name": "M\u00e1s & Menos",
-      "url": "https://open.spotify.com/track/3JccwWX1NKkIGQYppnjtCA"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Punchline City, Vol. 1",
         "url": "https://open.spotify.com/album/4jUHNtwEvmKr4xjrJiMxSz"
       },
@@ -1107,18 +1103,22 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "So Sad",
-        "url": "https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe"
+        "name": "M\u00e1s & Menos",
+        "url": "https://open.spotify.com/album/6PF5Nfua8PnfihIwSxdwus"
       },
       "artists": [
+        {
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        },
         {
           "name": "Ali Aka Mind",
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         }
       ],
-      "duration_ms": 217511,
-      "name": "So Sad",
-      "url": "https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK"
+      "duration_ms": 269413,
+      "name": "M\u00e1s & Menos",
+      "url": "https://open.spotify.com/track/3JccwWX1NKkIGQYppnjtCA"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "Huerfano Emocional",
+        "url": "https://open.spotify.com/album/4e3G44I1RB4ziN03Ttn9aX"
+      },
+      "artists": [
+        {
+          "name": "Gayo Valdez",
+          "url": "https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo"
+        },
+        {
+          "name": "Abu Barrett",
+          "url": "https://open.spotify.com/artist/3upuqvUR0PdgTBAnB1ehyj"
+        }
+      ],
+      "duration_ms": 166261,
+      "name": "Huerfano Emocional",
+      "url": "https://open.spotify.com/track/1eT312VZpgFX98XZJQ44J2"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "Despiertas",
         "url": "https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu"
       },
@@ -1371,26 +1391,6 @@
       "duration_ms": 171690,
       "name": "Despiertas",
       "url": "https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "Huerfano Emocional",
-        "url": "https://open.spotify.com/album/4e3G44I1RB4ziN03Ttn9aX"
-      },
-      "artists": [
-        {
-          "name": "Gayo Valdez",
-          "url": "https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo"
-        },
-        {
-          "name": "Abu Barrett",
-          "url": "https://open.spotify.com/artist/3upuqvUR0PdgTBAnB1ehyj"
-        }
-      ],
-      "duration_ms": 166261,
-      "name": "Huerfano Emocional",
-      "url": "https://open.spotify.com/track/1eT312VZpgFX98XZJQ44J2"
     },
     {
       "added_at": "2025-05-23 06:00:30",

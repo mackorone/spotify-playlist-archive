@@ -4203,6 +4203,24 @@
     },
     {
       "album": {
+        "name": "I Like It Like That",
+        "url": "https://open.spotify.com/album/4fSeCHsY6f1o4ccUxC7FRT"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173772,
+      "name": "I Like It Like That",
+      "url": "https://open.spotify.com/track/70EG3KoKRu3jvsBlFVZYkJ"
+    },
+    {
+      "album": {
         "name": "I Love The Drive",
         "url": "https://open.spotify.com/album/0XzTYBWfL8T431l7kb3ObF"
       },

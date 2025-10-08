@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a>Georgia</a>",
-  "num_followers": 61895,
+  "num_followers": 61887,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAQ/sE3ywLt3os8kIcm4S0hTV26uYcw",
+  "snapshot_id": "AAAQ/7KRyJp0qtDHnJZuVGzm9KZenAFX",
   "tracks": [
+    {
+      "added_at": "2025-10-07 14:19:28",
+      "album": {
+        "name": "Siren Song",
+        "url": "https://open.spotify.com/album/4imrVUWH3hFEY9qzX5MCuH"
+      },
+      "artists": [
+        {
+          "name": "Austra",
+          "url": "https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g"
+        }
+      ],
+      "duration_ms": 217645,
+      "name": "Siren Song",
+      "url": "https://open.spotify.com/track/0GRUpGySzN9XxBzGZuEahK"
+    },
     {
       "added_at": "2025-10-01 14:00:08",
       "album": {

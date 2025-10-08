@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 120470,
+  "num_followers": 120502,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAADXNf4+t7mh3m7MoLVgYmlv",
+  "snapshot_id": "aOMGgAAAAAAPzt5Fvl2+YP4j90ybnpFY",
   "tracks": [
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Serpientes Y Escaleras",
+        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "No Puedo Ser Tu Amigo",
+      "url": "https://open.spotify.com/track/2O19dNVIKtMF6K0SKRWjiV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ska Wars Monterrey",
         "url": "https://open.spotify.com/album/4GVKRzrnEk8sVoiow3G51x"
       },
@@ -771,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serpientes Y Escaleras",
-        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "No Puedo Ser Tu Amigo",
-      "url": "https://open.spotify.com/track/2O19dNVIKtMF6K0SKRWjiV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ska a La Carta",
         "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 239333,
-      "name": "Desatinos",
-      "url": "https://open.spotify.com/track/0Hr6yaFqBNiDi05aVGGbMM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serpientes Y Escaleras",
         "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 267333,
       "name": "Te Falt\u00f3 Coraz\u00f3n - Versi\u00f3n Bolero",
       "url": "https://open.spotify.com/track/77ugG1dWbDv980I5J0IEzY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 239333,
+      "name": "Desatinos",
+      "url": "https://open.spotify.com/track/0Hr6yaFqBNiDi05aVGGbMM"
     },
     {
       "added_at": null,

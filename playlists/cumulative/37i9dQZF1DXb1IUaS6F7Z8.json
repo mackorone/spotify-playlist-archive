@@ -2073,6 +2073,24 @@
     },
     {
       "album": {
+        "name": "Sing Loud, Sing Proud",
+        "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157053,
+      "name": "The Rocky Road to Dublin",
+      "url": "https://open.spotify.com/track/5GVSpPvjk06BPsr8DhwFtM"
+    },
+    {
+      "album": {
         "name": "On a Fine Spring Evening",
         "url": "https://open.spotify.com/album/4IpjRyghZWy3TSq5Z4LSYo"
       },
@@ -2138,7 +2156,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 232186,
       "name": "The State Of Massachusetts",
       "url": "https://open.spotify.com/track/0kXpvPNNjjPsEGRg3SE0xW"

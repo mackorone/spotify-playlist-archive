@@ -3061,6 +3061,24 @@
     },
     {
       "album": {
+        "name": "Special Single 'Blue Whale'",
+        "url": "https://open.spotify.com/album/4J4HRHJCwGHHutsosHWA3J"
+      },
+      "artists": [
+        {
+          "name": "QWER",
+          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Blue Whale",
+      "url": "https://open.spotify.com/track/3YfmmJkPj0IH58IP1FN8Z0"
+    },
+    {
+      "album": {
         "name": "BLUE!",
         "url": "https://open.spotify.com/album/4WzgkY9lqsZ4A8ZrT9PegM"
       },
@@ -5856,7 +5874,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 202026,
       "name": "Dear",
       "url": "https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL"
@@ -19883,6 +19901,24 @@
     },
     {
       "album": {
+        "name": "Collector",
+        "url": "https://open.spotify.com/album/57c4boNwQniM54V9Zv7zhh"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185946,
+      "name": "ROCK & ROLL",
+      "url": "https://open.spotify.com/track/1GLaxuQ5M92J2rxQFO541O"
+    },
+    {
+      "album": {
         "name": "SEVENTEEN 9th Mini Album 'Attacca'",
         "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
       },
@@ -23188,7 +23224,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 168157,
       "name": "Sugar Free Venom feat. Kesha",
       "url": "https://open.spotify.com/track/5f89Fv9EdAoSeH0BH6oC7q"

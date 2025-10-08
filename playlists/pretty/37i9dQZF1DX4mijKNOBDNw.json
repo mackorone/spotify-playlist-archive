@@ -1,6 +1,6 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 59568,
+  "num_followers": 59567,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,30 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
+        "name": "Lucha",
+        "url": "https://open.spotify.com/album/6gRDacwclCBvNamgOgKCa6"
+      },
+      "artists": [
+        {
+          "name": "AKACATS",
+          "url": "https://open.spotify.com/artist/5SaHvzTtCZQHeRjbUsJq1X"
+        },
+        {
+          "name": "Catana",
+          "url": "https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90"
+        },
+        {
+          "name": "Cidtronyck",
+          "url": "https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS"
+        }
+      ],
+      "duration_ms": 206649,
+      "name": "Lucha",
+      "url": "https://open.spotify.com/track/3wMvE0XAID6AIP13rJedQ6"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
         "name": "Bruja",
         "url": "https://open.spotify.com/album/1qeYxt5kg2nX9Bw3Qic8jj"
       },
@@ -867,30 +891,6 @@
       "duration_ms": 153061,
       "name": "Bruja",
       "url": "https://open.spotify.com/track/01XccHu8pc3IIdCyT6lGl4"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
-        "name": "Lucha",
-        "url": "https://open.spotify.com/album/6gRDacwclCBvNamgOgKCa6"
-      },
-      "artists": [
-        {
-          "name": "AKACATS",
-          "url": "https://open.spotify.com/artist/5SaHvzTtCZQHeRjbUsJq1X"
-        },
-        {
-          "name": "Catana",
-          "url": "https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90"
-        },
-        {
-          "name": "Cidtronyck",
-          "url": "https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS"
-        }
-      ],
-      "duration_ms": 206649,
-      "name": "Lucha",
-      "url": "https://open.spotify.com/track/3wMvE0XAID6AIP13rJedQ6"
     },
     {
       "added_at": "2024-07-23 21:39:12",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-07-23 21:39:12",
       "album": {
+        "name": "Ni Una Mas",
+        "url": "https://open.spotify.com/album/12pHDcyqzSNsZgQJDRiZ3W"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        }
+      ],
+      "duration_ms": 161500,
+      "name": "Ni Una Mas",
+      "url": "https://open.spotify.com/track/6kY8v7VDzPWIy1alEDQGM8"
+    },
+    {
+      "added_at": "2024-07-23 21:39:12",
+      "album": {
         "name": "Llora Llora",
         "url": "https://open.spotify.com/album/7HVuTWgBKBnJqLTskIrcxQ"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 253499,
       "name": "Llora Llora",
       "url": "https://open.spotify.com/track/19i39fA9niRDjcAs3Gf5VO"
-    },
-    {
-      "added_at": "2024-07-23 21:39:12",
-      "album": {
-        "name": "Ni Una Mas",
-        "url": "https://open.spotify.com/album/12pHDcyqzSNsZgQJDRiZ3W"
-      },
-      "artists": [
-        {
-          "name": "Ivonne Galaz",
-          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
-        }
-      ],
-      "duration_ms": 161500,
-      "name": "Ni Una Mas",
-      "url": "https://open.spotify.com/track/6kY8v7VDzPWIy1alEDQGM8"
     },
     {
       "added_at": "2024-07-23 21:39:12",

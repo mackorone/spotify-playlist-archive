@@ -6320,7 +6320,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 199200,
       "name": "Hum",
       "url": "https://open.spotify.com/track/461ApU3e0U5lacUauSwOnE"
@@ -12682,6 +12682,24 @@
       "duration_ms": 171791,
       "name": "Steady State",
       "url": "https://open.spotify.com/track/5FlA0RkPmd84okaFAk6MEN"
+    },
+    {
+      "album": {
+        "name": "Stellar Nursery",
+        "url": "https://open.spotify.com/album/3Yx1n5wZxuVihXlaX08s3F"
+      },
+      "artists": [
+        {
+          "name": "Eirwyn North",
+          "url": "https://open.spotify.com/artist/29zgjcMG5XRMfqrwBenRta"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Stellar Nursery",
+      "url": "https://open.spotify.com/track/7duzoE2HjcLyi2vF2IN4ir"
     },
     {
       "album": {

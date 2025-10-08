@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 
 > This is Nívea Soares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,292 likes - 50 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,293 likes - 50 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 5 | [Ruja o Leão / Que Se Abram Os Céus \- Ao Vivo](https://open.spotify.com/track/36OnXKUU9pAKRYs9jfusbl) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ruja o Leão / Que Se Abram Os Céus \(Ao Vivo\)](https://open.spotify.com/album/4PSU1YDNjWdpb4xErJpQRt) | 7:34 |
 | 6 | [Quem é Como Nosso Deus?](https://open.spotify.com/track/12lShKyr5n3B8qobwzxepl) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Quem é Como Nosso Deus?](https://open.spotify.com/album/6FEiGQwI028PHCKsxtaMni) | 8:09 |
 | 7 | [Teu Amor Não Falha \- Ao Vivo](https://open.spotify.com/track/2BslVGgN43vtWfAFI7vJnr) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 6:05 |
-| 8 | [Teu Toque \- Ao Vivo](https://open.spotify.com/track/6G45Qr6vVxnHxX06qcGEp2) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Teu Toque \(Ao Vivo\)](https://open.spotify.com/album/2OMOHMTTcJxt4NZuiM2tuD) | 7:33 |
-| 9 | [Abre os Selos \- Ao Vivo](https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Abre os Selos \(Ao Vivo\)](https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl) | 7:54 |
+| 8 | [Abre os Selos \- Ao Vivo](https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Abre os Selos \(Ao Vivo\)](https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl) | 7:54 |
+| 9 | [Teu Toque \- Ao Vivo](https://open.spotify.com/track/6G45Qr6vVxnHxX06qcGEp2) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Teu Toque \(Ao Vivo\)](https://open.spotify.com/album/2OMOHMTTcJxt4NZuiM2tuD) | 7:33 |
 | 10 | [Grande é o Senhor \- Acústico Ao Vivo](https://open.spotify.com/track/1dIah1UaJi3n5pwOaOd5QV) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Comunhão e Adoração 6 \(Acústico Ao Vivo\)](https://open.spotify.com/album/2Y67rR3nVWYbRgt8pRQpoJ) | 4:40 |
 | 11 | [O Que Tua Glória Fez Comigo \- Ao Vivo](https://open.spotify.com/track/0RFIzKM85VrAcqvISglMvg) | [Leo Fonseca](https://open.spotify.com/artist/34iSGCakITd5m0nZgIjkio), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [És Bem\-Vindo à Mesa \(Ao Vivo\)](https://open.spotify.com/album/46owzmGavoCyP0lvOw2wkG) | 8:58 |
 | 12 | [Não Seremos Abalados \- Ao Vivo](https://open.spotify.com/track/2RrmHqUvREa3cBt5W854kw) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Reino de Justiça \(Ao Vivo\)](https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi) | 5:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 49 | [Incomparável \- Ao Vivo](https://open.spotify.com/track/2pN3oRT2BJyghB5vsljMuZ) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 5:31 |
 | 50 | [Amigo Incomparável \- Ao vivo](https://open.spotify.com/track/2mrj06EgF9HJudXKYmX6VR) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW) | [Amigo Incomparável \(Ao Vivo\)](https://open.spotify.com/album/1aeUe3lYFvmKnIYkWVJAoY) | 6:33 |
 
-Snapshot ID: `aOG1AAAAAAB8eUd42PXcswkKe6AGGHAw`
+Snapshot ID: `aOMGgAAAAADbdDbcXb4CWX2/Rf2nsvy9`

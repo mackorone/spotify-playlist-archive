@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 
 > 2021
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 146 songs - 9 hr 47 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 147 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,5 +154,6 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 | 144 | [Atomik Lust](https://open.spotify.com/track/5x8DmYi4YYjgXZb6Ngerrl) | [Super Furry Animals](https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ) | [Love Kraft](https://open.spotify.com/album/7tzkUmG3eRbwrQOZFVgmkZ) | 4:53 |
 | 145 | [Instant Crush \(feat\. Julian Casablancas\)](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 5:37 |
 | 146 | [Carlos \(interlude\)](https://open.spotify.com/track/03LSUjL0Rqh2Lpj1rKgsmG) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 2:01 |
+| 147 | [Cariad](https://open.spotify.com/track/3yqF4F1Kk10VdUuIKOXzx6) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [Songs For The Spine](https://open.spotify.com/album/3Cev9xMaHpqf4QOdwkm4hc) | 4:15 |
 
-Snapshot ID: `AAABCUJWuVCm+1wI6AnZeEUN9w2lz935`
+Snapshot ID: `AAABCoQiHsjrK6x9+ZHSCZLyMLxyW6kT`

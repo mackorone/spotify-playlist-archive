@@ -1,6 +1,6 @@
 {
   "description": "The best in house music",
-  "num_followers": 500199,
+  "num_followers": 500181,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
@@ -535,26 +535,6 @@
     {
       "added_at": "2025-10-06 22:00:26",
       "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/4kCI75IoniUlYK3l4tm7ND"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "The Trip",
-          "url": "https://open.spotify.com/artist/0wy1aZ1F0C9LYA49ol6QQW"
-        }
-      ],
-      "duration_ms": 196895,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/4fv1qeXHQA1gGoA7TKYm3g"
-    },
-    {
-      "added_at": "2025-10-06 22:00:26",
-      "album": {
         "name": "Good 4 U",
         "url": "https://open.spotify.com/album/6J4Y082MYxnsdifyTLdG8p"
       },
@@ -575,18 +555,38 @@
     {
       "added_at": "2025-10-06 22:00:26",
       "album": {
-        "name": "The Shiver",
-        "url": "https://open.spotify.com/album/1d8Jpk53Ue4Vi7joBNFSvB"
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/4kCI75IoniUlYK3l4tm7ND"
       },
       "artists": [
         {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "The Trip",
+          "url": "https://open.spotify.com/artist/0wy1aZ1F0C9LYA49ol6QQW"
         }
       ],
-      "duration_ms": 167677,
-      "name": "The Shiver",
-      "url": "https://open.spotify.com/track/0ouWOf4W8331O6dt2GCW7A"
+      "duration_ms": 196895,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/4fv1qeXHQA1gGoA7TKYm3g"
+    },
+    {
+      "added_at": "2025-10-06 22:00:26",
+      "album": {
+        "name": "Baile De Fantome EP",
+        "url": "https://open.spotify.com/album/2nRQyfyyHQL2E69yDNBuWx"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Baile De Fantome",
+      "url": "https://open.spotify.com/track/0q3HI1pBWomC3MiAEciBkF"
     },
     {
       "added_at": "2025-10-06 22:00:26",
@@ -615,18 +615,18 @@
     {
       "added_at": "2025-10-06 22:00:26",
       "album": {
-        "name": "Baile De Fantome EP",
-        "url": "https://open.spotify.com/album/2nRQyfyyHQL2E69yDNBuWx"
+        "name": "The Shiver",
+        "url": "https://open.spotify.com/album/1d8Jpk53Ue4Vi7joBNFSvB"
       },
       "artists": [
         {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Baile De Fantome",
-      "url": "https://open.spotify.com/track/0q3HI1pBWomC3MiAEciBkF"
+      "duration_ms": 167677,
+      "name": "The Shiver",
+      "url": "https://open.spotify.com/track/0ouWOf4W8331O6dt2GCW7A"
     },
     {
       "added_at": "2025-10-06 22:00:26",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-10-06 22:00:26",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/0Xt2vlSkNKlx1aI9M7aBDc"
-      },
-      "artists": [
-        {
-          "name": "Prunk",
-          "url": "https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG"
-        }
-      ],
-      "duration_ms": 190631,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/338TIKCI7nyNsARr0bxSVX"
-    },
-    {
-      "added_at": "2025-10-06 22:00:26",
-      "album": {
         "name": "Make Me Weak",
         "url": "https://open.spotify.com/album/1CajjAr2dPGB3bltAf5Hit"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": "2025-10-06 22:00:26",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/0Xt2vlSkNKlx1aI9M7aBDc"
+      },
+      "artists": [
+        {
+          "name": "Prunk",
+          "url": "https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG"
+        }
+      ],
+      "duration_ms": 190631,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/338TIKCI7nyNsARr0bxSVX"
+    },
+    {
+      "added_at": "2025-10-06 22:00:26",
+      "album": {
         "name": "Control Yourself EP",
         "url": "https://open.spotify.com/album/6tznRqtsPQgYo8YXYB5g19"
       },
@@ -887,6 +887,30 @@
       "duration_ms": 215813,
       "name": "Control Yourself - Radio Edit",
       "url": "https://open.spotify.com/track/49cvev2GTehnDkEGXYgcZ0"
+    },
+    {
+      "added_at": "2025-10-06 22:00:26",
+      "album": {
+        "name": "Only For Tonight",
+        "url": "https://open.spotify.com/album/5IUlPTkjpkLiWCoFOh4oOo"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "m.O.N.R.O.E.",
+          "url": "https://open.spotify.com/artist/6pDZzvzwjGXunH8FCb2ulo"
+        },
+        {
+          "name": "Matluck",
+          "url": "https://open.spotify.com/artist/5CieAewiroqzWWxdsWuoNu"
+        }
+      ],
+      "duration_ms": 196773,
+      "name": "Only For Tonight",
+      "url": "https://open.spotify.com/track/6STCwjymKob5lZcDdpKcTK"
     },
     {
       "added_at": "2025-10-06 22:00:26",
@@ -927,26 +951,22 @@
     {
       "added_at": "2025-10-06 22:00:26",
       "album": {
-        "name": "Only For Tonight",
-        "url": "https://open.spotify.com/album/5IUlPTkjpkLiWCoFOh4oOo"
+        "name": "Y.O.U.",
+        "url": "https://open.spotify.com/album/3SXXeeBoNzJg7oMqmXy0bh"
       },
       "artists": [
         {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
         },
         {
-          "name": "m.O.N.R.O.E.",
-          "url": "https://open.spotify.com/artist/6pDZzvzwjGXunH8FCb2ulo"
-        },
-        {
-          "name": "Matluck",
-          "url": "https://open.spotify.com/artist/5CieAewiroqzWWxdsWuoNu"
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
         }
       ],
-      "duration_ms": 196773,
-      "name": "Only For Tonight",
-      "url": "https://open.spotify.com/track/6STCwjymKob5lZcDdpKcTK"
+      "duration_ms": 183515,
+      "name": "Y.O.U.",
+      "url": "https://open.spotify.com/track/7zRayTvShLcDhlxdo8CsIN"
     },
     {
       "added_at": "2025-10-06 22:00:26",
@@ -967,26 +987,6 @@
       "duration_ms": 195254,
       "name": "24h In A Disco",
       "url": "https://open.spotify.com/track/1W56N5mZJxIzbPqrrcv452"
-    },
-    {
-      "added_at": "2025-10-06 22:00:26",
-      "album": {
-        "name": "Saving It All",
-        "url": "https://open.spotify.com/album/3wwmoi3CiDSRJCPivgRZkV"
-      },
-      "artists": [
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        },
-        {
-          "name": "Angel Janson",
-          "url": "https://open.spotify.com/artist/5nycUaruL25aOGh6M1kmSz"
-        }
-      ],
-      "duration_ms": 186268,
-      "name": "Saving It All",
-      "url": "https://open.spotify.com/track/2D15cl0pYVNkKWwLCMdzK8"
     },
     {
       "added_at": "2025-10-06 22:00:26",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2025-10-06 22:00:26",
       "album": {
-        "name": "Y.O.U.",
-        "url": "https://open.spotify.com/album/3SXXeeBoNzJg7oMqmXy0bh"
-      },
-      "artists": [
-        {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
-        },
-        {
-          "name": "Nu-La",
-          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
-        }
-      ],
-      "duration_ms": 183515,
-      "name": "Y.O.U.",
-      "url": "https://open.spotify.com/track/7zRayTvShLcDhlxdo8CsIN"
-    },
-    {
-      "added_at": "2025-10-06 22:00:26",
-      "album": {
         "name": "i couldn't hold back (feat. George Riley)",
         "url": "https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 170316,
       "name": "i couldn't hold back (feat. George Riley)",
       "url": "https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy"
+    },
+    {
+      "added_at": "2025-10-06 22:00:26",
+      "album": {
+        "name": "Saving It All",
+        "url": "https://open.spotify.com/album/3wwmoi3CiDSRJCPivgRZkV"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        },
+        {
+          "name": "Angel Janson",
+          "url": "https://open.spotify.com/artist/5nycUaruL25aOGh6M1kmSz"
+        }
+      ],
+      "duration_ms": 186268,
+      "name": "Saving It All",
+      "url": "https://open.spotify.com/track/2D15cl0pYVNkKWwLCMdzK8"
     },
     {
       "added_at": "2025-10-06 22:00:26",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2025-10-06 22:00:26",
       "album": {
+        "name": "In It",
+        "url": "https://open.spotify.com/album/0tywyauEJceUMimBQfTe7w"
+      },
+      "artists": [
+        {
+          "name": "Selena Faider",
+          "url": "https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd"
+        }
+      ],
+      "duration_ms": 190952,
+      "name": "In It",
+      "url": "https://open.spotify.com/track/6doi1FwFmq4eroLXAM4TyO"
+    },
+    {
+      "added_at": "2025-10-06 22:00:26",
+      "album": {
         "name": "Heat",
         "url": "https://open.spotify.com/album/2qW5OsFApVV4uFsXSHu1YF"
       },
@@ -1327,18 +1343,18 @@
     {
       "added_at": "2025-10-06 22:00:26",
       "album": {
-        "name": "In It",
-        "url": "https://open.spotify.com/album/0tywyauEJceUMimBQfTe7w"
+        "name": "Together One Time",
+        "url": "https://open.spotify.com/album/2arvcqZRndNmNrUtWGJNny"
       },
       "artists": [
         {
-          "name": "Selena Faider",
-          "url": "https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd"
+          "name": "CASSIMM",
+          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
         }
       ],
-      "duration_ms": 190952,
-      "name": "In It",
-      "url": "https://open.spotify.com/track/6doi1FwFmq4eroLXAM4TyO"
+      "duration_ms": 157500,
+      "name": "Together One Time",
+      "url": "https://open.spotify.com/track/76CpS4stsQvmXC45oPPvT5"
     },
     {
       "added_at": "2025-10-06 22:00:26",
@@ -1363,22 +1379,6 @@
       "duration_ms": 281250,
       "name": "Rolling Thunder - Franky Rizardo 'Day' Remix",
       "url": "https://open.spotify.com/track/7Be0uMI6ttgH6CMwVRDIx2"
-    },
-    {
-      "added_at": "2025-10-06 22:00:26",
-      "album": {
-        "name": "Together One Time",
-        "url": "https://open.spotify.com/album/2arvcqZRndNmNrUtWGJNny"
-      },
-      "artists": [
-        {
-          "name": "CASSIMM",
-          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Together One Time",
-      "url": "https://open.spotify.com/track/76CpS4stsQvmXC45oPPvT5"
     },
     {
       "added_at": "2025-10-06 22:00:26",
@@ -1480,7 +1480,7 @@
           "url": "https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG"
         }
       ],
-      "duration_ms": 243274,
+      "duration_ms": 243275,
       "name": "Another One - Prunk Remix",
       "url": "https://open.spotify.com/track/2J1W4aCIdpbgwESZ48Ymp4"
     },
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-10-06 22:00:26",
       "album": {
-        "name": "Come On Back With Your Love",
-        "url": "https://open.spotify.com/album/4jU9hmYyqwY2eurr8BMOmf"
-      },
-      "artists": [
-        {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Come On Back With Your Love - Sunrise Mix",
-      "url": "https://open.spotify.com/track/7yTD5MdgZQMIGh6nnRUlg4"
-    },
-    {
-      "added_at": "2025-10-06 22:00:26",
-      "album": {
         "name": "Love Is All Around",
         "url": "https://open.spotify.com/album/71xOe0V8lYKJd2cjAkpp8e"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 201238,
       "name": "Love Is All Around",
       "url": "https://open.spotify.com/track/52lxsvyCNPIjeL78GKBBLj"
+    },
+    {
+      "added_at": "2025-10-06 22:00:26",
+      "album": {
+        "name": "Come On Back With Your Love",
+        "url": "https://open.spotify.com/album/4jU9hmYyqwY2eurr8BMOmf"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Come On Back With Your Love - Sunrise Mix",
+      "url": "https://open.spotify.com/track/7yTD5MdgZQMIGh6nnRUlg4"
     },
     {
       "added_at": "2025-10-06 22:00:26",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2025-10-06 22:00:26",
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3v4FlkCeWsvkRf3LvY8cut"
+      },
+      "artists": [
+        {
+          "name": "BURNR",
+          "url": "https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5"
+        }
+      ],
+      "duration_ms": 197250,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/6xuC5KFnyKtJ4Ct3tTJa4Q"
+    },
+    {
+      "added_at": "2025-10-06 22:00:26",
+      "album": {
         "name": "Squire For Hire (Fouk Remixes)",
         "url": "https://open.spotify.com/album/1mpjavww04IMjI3i1cTBsu"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 232195,
       "name": "Squire For Hire - Fouk Remix Edit",
       "url": "https://open.spotify.com/track/1nYNEbLHR6odSN9hHBCtil"
-    },
-    {
-      "added_at": "2025-10-06 22:00:26",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3v4FlkCeWsvkRf3LvY8cut"
-      },
-      "artists": [
-        {
-          "name": "BURNR",
-          "url": "https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5"
-        }
-      ],
-      "duration_ms": 197250,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/6xuC5KFnyKtJ4Ct3tTJa4Q"
     },
     {
       "added_at": "2025-10-06 22:00:26",
@@ -2063,30 +2063,6 @@
     {
       "added_at": "2025-10-06 22:00:26",
       "album": {
-        "name": "No More",
-        "url": "https://open.spotify.com/album/7GPxIRwLpQc9unWjr8XZ5K"
-      },
-      "artists": [
-        {
-          "name": "Hifi Sean",
-          "url": "https://open.spotify.com/artist/4r3RNyF5sHrEh1ds9mTr3o"
-        },
-        {
-          "name": "Ralphi Rosario",
-          "url": "https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh"
-        },
-        {
-          "name": "Dajae",
-          "url": "https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE"
-        }
-      ],
-      "duration_ms": 180091,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/1xXTOX4eq5d10yPRlyyHRi"
-    },
-    {
-      "added_at": "2025-10-06 22:00:26",
-      "album": {
         "name": "Jazzin' The Way You Know (Francisco Allendes Remix)",
         "url": "https://open.spotify.com/album/5zyVPWKf9qeD6OhVbXJXpo"
       },
@@ -2123,6 +2099,30 @@
       "duration_ms": 139218,
       "name": "Cada Vez",
       "url": "https://open.spotify.com/track/3d2hvqd1TVKSXKW1Z13j6n"
+    },
+    {
+      "added_at": "2025-10-06 22:00:26",
+      "album": {
+        "name": "No More",
+        "url": "https://open.spotify.com/album/7GPxIRwLpQc9unWjr8XZ5K"
+      },
+      "artists": [
+        {
+          "name": "Hifi Sean",
+          "url": "https://open.spotify.com/artist/4r3RNyF5sHrEh1ds9mTr3o"
+        },
+        {
+          "name": "Ralphi Rosario",
+          "url": "https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh"
+        },
+        {
+          "name": "Dajae",
+          "url": "https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE"
+        }
+      ],
+      "duration_ms": 180091,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/1xXTOX4eq5d10yPRlyyHRi"
     },
     {
       "added_at": "2025-10-06 22:00:26",

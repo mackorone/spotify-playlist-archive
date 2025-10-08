@@ -1,12 +1,12 @@
 {
   "description": "This is Kemilly Santos. The essential tracks, all in one playlist.",
-  "num_followers": 6079,
+  "num_followers": 6084,
   "original_name": "This Is Kemilly Santos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAACgRBLVll9VpfZV8BlgyZuC",
+  "snapshot_id": "aOMGgAAAAADIAOtiuqU6GlhnF2jHipLa",
   "tracks": [
     {
       "added_at": null,
@@ -259,18 +259,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+        "name": "Far\u00e1s Outra Vez",
+        "url": "https://open.spotify.com/album/7G8XGVmyU4c0ZOeX5nyzPK"
       },
       "artists": [
+        {
+          "name": "Marcos Freire",
+          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
+        },
         {
           "name": "Kemilly Santos",
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 234520,
-      "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
+      "duration_ms": 246998,
+      "name": "Far\u00e1s Outra Vez",
+      "url": "https://open.spotify.com/track/3DFHmoWf6DvDlYQWpSGOrj"
     },
     {
       "added_at": null,
@@ -299,22 +303,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Far\u00e1s Outra Vez",
-        "url": "https://open.spotify.com/album/7G8XGVmyU4c0ZOeX5nyzPK"
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
       },
       "artists": [
-        {
-          "name": "Marcos Freire",
-          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
-        },
         {
           "name": "Kemilly Santos",
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 246998,
-      "name": "Far\u00e1s Outra Vez",
-      "url": "https://open.spotify.com/track/3DFHmoWf6DvDlYQWpSGOrj"
+      "duration_ms": 234520,
+      "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
     },
     {
       "added_at": null,

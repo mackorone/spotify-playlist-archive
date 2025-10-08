@@ -997,6 +997,24 @@
     },
     {
       "album": {
+        "name": "CEREBRUM",
+        "url": "https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143640,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/6IoELIfx2s5I7z6UZEhW9O"
+    },
+    {
+      "album": {
         "name": "You & Me",
         "url": "https://open.spotify.com/album/2XZcqQhk8hmrMmBMGsooID"
       },

@@ -4,7 +4,7 @@
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-127 songs - 6 hr 35 min
+128 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Las Vueltas de la Vida](https://open.spotify.com/track/04QYNjGUwtJ3emEPCvjaJl) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 4:06 | 2022-06-01 |  |
 | [Lo Paseado Quién Me Lo Quita](https://open.spotify.com/track/1XRkSe7d9DGIABTi4gpna9) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Lo Paseado Quién Me Lo Quita](https://open.spotify.com/album/2pg9lePFwsEtRNTnijEI9U) | 2:55 | 2022-12-12 | 2024-05-21 |
 | [Los Panteras Del 08](https://open.spotify.com/track/1EAfSKTIVlFOLHpbXIq5pt) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [Bien Positivo](https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv) | 2:51 | 2024-02-22 | 2024-05-05 |
+| [Luz De Dia](https://open.spotify.com/track/5PMv0sXLpDNrSrMfihTzAV) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Ele\-Eme](https://open.spotify.com/artist/419dlnnbgxhpmG7eR9RUbR) | [Luz De Dia](https://open.spotify.com/album/31pinJMr5eo0AX9BHeeB4q) | 3:17 | 2025-10-08 |  |
 | [Maestra del Engaño \- En Vivo](https://open.spotify.com/track/27BVgB1VHa9RrUhi2mGrHu) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Maestra del Engaño \(En Vivo\)](https://open.spotify.com/album/6KTq0B6tFLsoemadvjD8Ql) | 2:42 | 2022-06-01 | 2023-07-24 |
 | [Me Famoso Chino Antrax](https://open.spotify.com/track/6UsWPelSadUoBuy75fGxbi) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Album De Mi Puno Y Letra](https://open.spotify.com/album/2OXmlL4OKCcZOLddvPTxai) | 3:00 | 2022-06-01 | 2025-06-04 |
 | [Mi 45 \- En Vivo](https://open.spotify.com/track/3WDIjzI7arvMScPaPc5sSw) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Jesus Payan](https://open.spotify.com/artist/0vZ2W0xkBCHRGNkb8seYtQ) | [Mi 45 \(En Vivo\)](https://open.spotify.com/album/3eFOp5MvOEWuVGEoyoKSkz) | 2:36 | 2022-06-01 |  |
@@ -130,7 +131,7 @@
 | [Vuelve Por Favor](https://open.spotify.com/track/0TflYAKQ2cTYzOKQTcAmpP) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Vuelve Por Favor](https://open.spotify.com/album/07yRUflwcRq8xwhUPJ1t0W) | 3:20 | 2022-08-20 | 2025-09-23 |
 | [Vuelve por Favor](https://open.spotify.com/track/2UYYMHO9M2NCvpHVPOKJ9g) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mis 30 Aniversario \(Vol\. 1\)](https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL) | 3:20 | 2025-09-23 |  |
 | [Ya Nimodo](https://open.spotify.com/track/0BzSw9TEaoE1OpF5g3bWfG) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Capitulo 3: El Dragón Para Siempre](https://open.spotify.com/album/7CHWUNRIxM8wXgqb0KbJjb) | 5:13 | 2025-05-29 | 2025-07-02 |
-| [Ya No Se Olvidarte](https://open.spotify.com/track/45jKkZbNaffSkV29TZr6CX) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 2:46 | 2025-08-30 |  |
+| [Ya No Se Olvidarte](https://open.spotify.com/track/45jKkZbNaffSkV29TZr6CX) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 2:46 | 2025-08-30 | 2025-10-08 |
 | [Ya Valiste Madre \- En Vivo](https://open.spotify.com/track/3f615FYAufUocTYlEMh3Fv) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Ya Valiste Madre \(En Vivo\)](https://open.spotify.com/album/6paAsiZAEqWpTR1EujPATt) | 3:07 | 2022-06-01 | 2024-06-01 |
 | [Yo Cuido DEL](https://open.spotify.com/track/5ihpj1arZpof4Kmfeyj1n1) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Oscar Cortez](https://open.spotify.com/artist/6sCLeqbuK4nOWjcMRb10Gp), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Yo Cuido DEL](https://open.spotify.com/album/0NFmCyEmoYeTPaF1FLyJTO) | 2:36 | 2022-07-20 | 2022-10-25 |
 | [Yo Ya No Vuelvo Contigo \- En Vivo](https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Yo Ya No Vuelvo Contigo \(En Vivo\)](https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9) | 4:00 | 2022-06-01 |  |

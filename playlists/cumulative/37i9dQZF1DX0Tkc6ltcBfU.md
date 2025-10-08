@@ -2,9 +2,9 @@
 
 ### [No Cap](https://open.spotify.com/playlist/37i9dQZF1DX0Tkc6ltcBfU)
 
-> The hottest out the South\. Cover: Young Thug
+> The hottest out the South\. Cover: Pooh Shiesty
 
-2,300 songs - 4 day 11 hr 51 min
+2,301 songs - 4 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Back End](https://open.spotify.com/track/3eHOsD9gXqWYPxVr0JVVWv) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Back End](https://open.spotify.com/album/77Hj5PiiIlIxI8l87wwVc1) | 2:45 | 2022-08-26 | 2022-10-22 |
 | [Back Flippin](https://open.spotify.com/track/112f64x3xitpDPHfr98T01) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Back Flippin](https://open.spotify.com/album/3GvwZRsUVRxwjdBW1B05VY) | 2:22 | 2022-12-16 | 2023-04-15 |
 | [Back In Action](https://open.spotify.com/track/08iGIK9Nw2gHeVdFsnsquc) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Drill Season \(Extended\)](https://open.spotify.com/album/6daSSJZ16r6AH9gj8bZbWG) | 1:51 | 2022-12-16 | 2023-01-06 |
+| [Back in Blood \(feat\. Lil Durk\)](https://open.spotify.com/track/7FGdjbZ32vMybPuP0IuE7d) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Shiesty Season](https://open.spotify.com/album/2UwJ4Nt10VStLczYefhcEV) | 3:04 | 2025-10-07 |  |
 | [Back In My Bag](https://open.spotify.com/track/0rFpErCI4zTGkjb0tCuaLh) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Please Don't Cry](https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr) | 3:01 | 2024-05-17 | 2024-05-25 |
 | [Back In That Mode](https://open.spotify.com/track/7CTGdJ9nIEICnuAviVesNr) | [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [PlaqueBoyMax Songwars](https://open.spotify.com/album/3LbleBWaAhvmwtaptRanUS) | 1:47 | 2025-01-31 | 2025-02-08 |
 | [Back Of The Benz](https://open.spotify.com/track/35E66iuoUvFjCSeCXiwht1) | [Baby Jungle](https://open.spotify.com/artist/3chQVApiF3AoD6aym9IWwx) | [Jungle Book](https://open.spotify.com/album/5f2Q0HMRM1nvOSe1y29D3n) | 3:06 | 2024-05-24 | 2024-06-01 |

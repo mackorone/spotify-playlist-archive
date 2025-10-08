@@ -1795,6 +1795,28 @@
     },
     {
       "album": {
+        "name": "Luz De Dia",
+        "url": "https://open.spotify.com/album/31pinJMr5eo0AX9BHeeB4q"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Grupo Ele-Eme",
+          "url": "https://open.spotify.com/artist/419dlnnbgxhpmG7eR9RUbR"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197421,
+      "name": "Luz De Dia",
+      "url": "https://open.spotify.com/track/5PMv0sXLpDNrSrMfihTzAV"
+    },
+    {
+      "album": {
         "name": "Maestra del Enga\u00f1o (En Vivo)",
         "url": "https://open.spotify.com/album/6KTq0B6tFLsoemadvjD8Ql"
       },
@@ -2576,7 +2598,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 166917,
       "name": "Ya No Se Olvidarte",
       "url": "https://open.spotify.com/track/45jKkZbNaffSkV29TZr6CX"

@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yhuKT9G4qk.md) - [plain]
 
 > Lekker  eten en lang natafelen? Daar hoort muziek bij.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,785 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,784 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [So Over Lust](https://open.spotify.com/track/5vSGrRXwcAvxmgtYczjMum) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [So Over Lust](https://open.spotify.com/album/4qiojveUrqcwxYQCf5ijWl) | 3:36 |
-| 2 | [Less Is More](https://open.spotify.com/track/6xDHpo8drfNDqIgKfEwyx9) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Echo](https://open.spotify.com/album/4xlpCJ0XKZ3a9E6k8R8vJB) | 3:56 |
-| 3 | [Remedy](https://open.spotify.com/track/5f8l9ldrzFoxYwkgq3G6S9) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [Remedy](https://open.spotify.com/album/6FmGwYkTYZmcmSi7YMvkvs) | 2:44 |
-| 4 | [One in a Million](https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [One in a Million](https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd) | 4:17 |
-| 5 | [Julia](https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Julia](https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV) | 3:09 |
-| 6 | [DØN'T WANNA FALL](https://open.spotify.com/track/3C5PcBZvcXSx23Wpa1lSzA) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [DØN'T WANNA FALL](https://open.spotify.com/album/1osD1Kt3ka13mjTN7auXBg) | 4:10 |
-| 7 | [Simple Life](https://open.spotify.com/track/0whsD2YBS4Fhp0hft70Uls) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Simple Life](https://open.spotify.com/album/6laHWUm4LQpTPcHUa4YraE) | 1:33 |
-| 8 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
-| 9 | [Butter](https://open.spotify.com/track/2ZCusLcINjCgOeJPJ2b0GL) | [Stefan Sands](https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv) | [The Weight](https://open.spotify.com/album/3A7TG46Q74ib0eWPPh3rpj) | 3:13 |
-| 10 | [Upside Down](https://open.spotify.com/track/0OrBso7nCLzqYqzmyGwdwb) | [Jacob Drescher](https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv) | [Upside Down](https://open.spotify.com/album/3iUdMIUwthMnIdjLhbP1kT) | 3:37 |
-| 11 | [This One's On The House](https://open.spotify.com/track/0rtgKV8GI1SBTDhBxh2jkg) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [This One's On The House](https://open.spotify.com/album/5BsfvWMM9xq24X92OwOhNX) | 3:37 |
-| 12 | [Don't Speak](https://open.spotify.com/track/3HGP6DStszOkaGl1ZtDYGC) | [Loaded Honey](https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB), [Lydia Kitto](https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA), [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Don't Speak](https://open.spotify.com/album/6631muX3oR9NCQXOsjrh0V) | 3:14 |
-| 13 | [Miracle](https://open.spotify.com/track/2oU6JanR9OZ36p5AxHZaFS) | [Ady Suleiman](https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88) | [Miracle](https://open.spotify.com/album/5N41lN5HvoIPHYHkNxHroe) | 3:49 |
-| 14 | [A Way With My Heart](https://open.spotify.com/track/3qwb56omTzpzWixWNjQW9K) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc), [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn) | [A Way With My Heart](https://open.spotify.com/album/1OULQzVeiUbDCQu4blG3Qk) | 3:15 |
-| 15 | [Sorry](https://open.spotify.com/track/02KWhwsDjIX8ZXgBgK9kOP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:17 |
+| 1 | [Butter](https://open.spotify.com/track/2ZCusLcINjCgOeJPJ2b0GL) | [Stefan Sands](https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv) | [The Weight](https://open.spotify.com/album/3A7TG46Q74ib0eWPPh3rpj) | 3:13 |
+| 2 | [A Way With My Heart](https://open.spotify.com/track/3qwb56omTzpzWixWNjQW9K) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc), [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn) | [A Way With My Heart](https://open.spotify.com/album/1OULQzVeiUbDCQu4blG3Qk) | 3:15 |
+| 3 | [Sorry](https://open.spotify.com/track/02KWhwsDjIX8ZXgBgK9kOP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:17 |
+| 4 | [So Over Lust](https://open.spotify.com/track/5vSGrRXwcAvxmgtYczjMum) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [So Over Lust](https://open.spotify.com/album/4qiojveUrqcwxYQCf5ijWl) | 3:36 |
+| 5 | [Less Is More](https://open.spotify.com/track/6xDHpo8drfNDqIgKfEwyx9) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Echo](https://open.spotify.com/album/4xlpCJ0XKZ3a9E6k8R8vJB) | 3:56 |
+| 6 | [Remedy](https://open.spotify.com/track/5f8l9ldrzFoxYwkgq3G6S9) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [Remedy](https://open.spotify.com/album/6FmGwYkTYZmcmSi7YMvkvs) | 2:44 |
+| 7 | [One in a Million](https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [One in a Million](https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd) | 4:17 |
+| 8 | [Julia](https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Julia](https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV) | 3:09 |
+| 9 | [DØN'T WANNA FALL](https://open.spotify.com/track/3C5PcBZvcXSx23Wpa1lSzA) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [DØN'T WANNA FALL](https://open.spotify.com/album/1osD1Kt3ka13mjTN7auXBg) | 4:10 |
+| 10 | [Simple Life](https://open.spotify.com/track/0whsD2YBS4Fhp0hft70Uls) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Simple Life](https://open.spotify.com/album/6laHWUm4LQpTPcHUa4YraE) | 1:33 |
+| 11 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
+| 12 | [Upside Down](https://open.spotify.com/track/0OrBso7nCLzqYqzmyGwdwb) | [Jacob Drescher](https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv) | [Upside Down](https://open.spotify.com/album/3iUdMIUwthMnIdjLhbP1kT) | 3:37 |
+| 13 | [This One's On The House](https://open.spotify.com/track/0rtgKV8GI1SBTDhBxh2jkg) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [This One's On The House](https://open.spotify.com/album/5BsfvWMM9xq24X92OwOhNX) | 3:37 |
+| 14 | [Don't Speak](https://open.spotify.com/track/3HGP6DStszOkaGl1ZtDYGC) | [Loaded Honey](https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB), [Lydia Kitto](https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA), [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Don't Speak](https://open.spotify.com/album/6631muX3oR9NCQXOsjrh0V) | 3:14 |
+| 15 | [Miracle](https://open.spotify.com/track/2oU6JanR9OZ36p5AxHZaFS) | [Ady Suleiman](https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88) | [Miracle](https://open.spotify.com/album/5N41lN5HvoIPHYHkNxHroe) | 3:49 |
 | 16 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 |
 | 17 | [Please Don't Make Me Choose](https://open.spotify.com/track/1kSqmbVfI2mmHNmX5K0W7R) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9) | [Please Don't Make Me Choose](https://open.spotify.com/album/0u3g9YGZBCgEbQg3HJfDSA) | 3:48 |
 | 18 | [Honey \- Single Version](https://open.spotify.com/track/7JplJCCUuo2o6emhE3f3SK) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Honey](https://open.spotify.com/album/2tgMULeDaymA173kWVgCZS) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yhuKT9G4qk.md) - [plain]
 | 99 | [What Do You Believe In? \- Acoustic](https://open.spotify.com/track/6lHxTSPaWZy7fIQQ5r9QlU) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [What Do You Believe In? \(Acoustic\)](https://open.spotify.com/album/27m7ht0g0U5uep16bOyAtI) | 3:08 |
 | 100 | [Through The Echoes](https://open.spotify.com/track/11mmSxrDMiOV1nGakvDoOq) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Shine A Light](https://open.spotify.com/album/7b6ghBEIH75YC11a9bNQzA) | 3:41 |
 
-Snapshot ID: `AAAAAD56HFizQuF7DoqERDNjmI4bNT3l`
+Snapshot ID: `AAAAAGjSDHB2NTFf96hNW/soDc/Rm2+p`

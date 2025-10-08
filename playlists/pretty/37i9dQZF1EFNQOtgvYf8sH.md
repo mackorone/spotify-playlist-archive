@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNQOtgvYf8sH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13MnpMBzJn80fGK6518dNJ">Matt Schaeffer \(of Beach Noise\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317 likes - 24 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 318 likes - 24 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNQOtgvYf8sH.md) - [plain]
 | 23 | [Wave Watching Interlude](https://open.spotify.com/track/6w5n41T13eattfdxrqVPs8) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Sleepy Soldier](https://open.spotify.com/album/5DsTYhB4bzvBvMSHAu1yiM) | 1:24 |
 | 24 | [Happy Head](https://open.spotify.com/track/7EzefciQSXjQdWQH58cv5l) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv) | 3:06 |
 
-Snapshot ID: `Ab+KyAAAAAC6nO3nX/1NQN6u+dOdjClD`
+Snapshot ID: `Ab+QkAAAAAAn2sRpLpd5eqA46Qibfeu8`

@@ -1,12 +1,12 @@
 {
   "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 30617,
+  "num_followers": 30622,
   "original_name": "This Is Howlin' Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAACLcxp7KEmK1Phxtc/5s5bW",
+  "snapshot_id": "aOMGgAAAAABAD9O6k9wCukzsPY5foSJl",
   "tracks": [
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Howlin' Wolf",
-        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 173533,
-      "name": "Back Door Man",
-      "url": "https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp"
+      "duration_ms": 163026,
+      "name": "How Many More Years",
+      "url": "https://open.spotify.com/track/0MkINaEoNBJfG9G6ewd4xM"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moanin' In The Moonlight",
-        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 163026,
-      "name": "How Many More Years",
-      "url": "https://open.spotify.com/track/0MkINaEoNBJfG9G6ewd4xM"
+      "duration_ms": 173533,
+      "name": "Back Door Man",
+      "url": "https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
       "duration_ms": 159400,
       "name": "Built For Comfort",
       "url": "https://open.spotify.com/track/21SP5PYTLcth1BjKfqyKBO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 154973,
-      "name": "Down In The Bottom - Single Version",
-      "url": "https://open.spotify.com/track/69YOG1vMCc64JBwhfg1OUg"
     },
     {
       "added_at": null,
@@ -419,6 +403,22 @@
       "duration_ms": 175413,
       "name": "Worried About My Baby",
       "url": "https://open.spotify.com/track/35s3je4P8U5HkmwnYGCr22"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 154973,
+      "name": "Down In The Bottom - Single Version",
+      "url": "https://open.spotify.com/track/69YOG1vMCc64JBwhfg1OUg"
     },
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smokestack Lightning /The Complete Chess Masters 1951-1960",
+        "url": "https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 159373,
+      "name": "Going Back Home",
+      "url": "https://open.spotify.com/track/2I48KvJxmIXeIZJjmrJxHW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Super Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 394173,
       "name": "Ooh, Baby / Wrecking My Love Life - Medley",
       "url": "https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smokestack Lightning /The Complete Chess Masters 1951-1960",
-        "url": "https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 159373,
-      "name": "Going Back Home",
-      "url": "https://open.spotify.com/track/2I48KvJxmIXeIZJjmrJxHW"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Back Door Wolf",
-        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 175160,
-      "name": "Stop Using Me",
-      "url": "https://open.spotify.com/track/6Sf2fZ9SqkF1shOetY9Qia"
+      "duration_ms": 134600,
+      "name": "I've Been Abused - Single Version",
+      "url": "https://open.spotify.com/track/2QJA0Gsodidit6P7OnDl16"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Change My Way",
-        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
+        "name": "The Back Door Wolf",
+        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 175733,
-      "name": "Just Like I Treat You - Single Version",
-      "url": "https://open.spotify.com/track/4rFIhtPEMIL63bc8mNWUrO"
+      "duration_ms": 175160,
+      "name": "Stop Using Me",
+      "url": "https://open.spotify.com/track/6Sf2fZ9SqkF1shOetY9Qia"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Back Door Wolf",
-        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 154800,
-      "name": "Can't Stay Here",
-      "url": "https://open.spotify.com/track/4jc0aen6yCOI0EEvyqDANp"
+      "duration_ms": 175733,
+      "name": "Just Like I Treat You - Single Version",
+      "url": "https://open.spotify.com/track/4rFIhtPEMIL63bc8mNWUrO"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Change My Way",
-        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
+        "name": "The Back Door Wolf",
+        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 134600,
-      "name": "I've Been Abused - Single Version",
-      "url": "https://open.spotify.com/track/2QJA0Gsodidit6P7OnDl16"
+      "duration_ms": 154800,
+      "name": "Can't Stay Here",
+      "url": "https://open.spotify.com/track/4jc0aen6yCOI0EEvyqDANp"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 191640,
-      "name": "You Can't Be Beat - Single Version",
-      "url": "https://open.spotify.com/track/0ZkCiuzIOa8g63BbesjHNM"
+      "duration_ms": 140760,
+      "name": "Hidden Charms - Single Version",
+      "url": "https://open.spotify.com/track/3BuY7nN3DWskCCBY3wTKgE"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Change My Way",
-        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 140760,
-      "name": "Hidden Charms - Single Version",
-      "url": "https://open.spotify.com/track/3BuY7nN3DWskCCBY3wTKgE"
+      "duration_ms": 191640,
+      "name": "You Can't Be Beat - Single Version",
+      "url": "https://open.spotify.com/track/0ZkCiuzIOa8g63BbesjHNM"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Back Door Wolf",
-        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 293066,
-      "name": "You Turn Slick On Me",
-      "url": "https://open.spotify.com/track/4vFSTxdwlrZJrN5hx6D4ik"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Change My Way",
         "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 162093,
       "name": "I Better Go Now - Single Version",
       "url": "https://open.spotify.com/track/2YQclFbhN5AF54JZfZZM80"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Back Door Wolf",
+        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 293066,
+      "name": "You Turn Slick On Me",
+      "url": "https://open.spotify.com/track/4vFSTxdwlrZJrN5hx6D4ik"
     },
     {
       "added_at": null,

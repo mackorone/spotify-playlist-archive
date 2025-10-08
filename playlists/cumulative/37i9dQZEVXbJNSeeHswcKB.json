@@ -22703,6 +22703,28 @@
     },
     {
       "album": {
+        "name": "melodrama",
+        "url": "https://open.spotify.com/album/5wFsZ4iXAggxIVNZRJogvr"
+      },
+      "artists": [
+        {
+          "name": "disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+        },
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176213,
+      "name": "melodrama",
+      "url": "https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4"
+    },
+    {
+      "album": {
         "name": "Focus Mentalit\u00e9",
         "url": "https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA"
       },
@@ -35874,7 +35896,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 184773,
       "name": "Trouwen",
       "url": "https://open.spotify.com/track/37Qz85BgJQ0L5QfXNp2AT9"

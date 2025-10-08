@@ -1,12 +1,12 @@
 {
   "description": "This is Itzhak Perlman. The essential tracks, all in one playlist.",
-  "num_followers": 14347,
+  "num_followers": 14353,
   "original_name": "This Is Itzhak Perlman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAADlbM6m7vsFfJgyLI+Eapir",
+  "snapshot_id": "aOMGgAAAAACYqzW7xwTStSh6fXkkXJ2D",
   "tracks": [
     {
       "added_at": null,
@@ -359,6 +359,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Works for Two Violins",
+        "url": "https://open.spotify.com/album/1Lto5L6zlWOy0neXJ2y1nG"
+      },
+      "artists": [
+        {
+          "name": "Pinchas Zukerman",
+          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 140626,
+      "name": "3 Violin Duets (1996 Digital Remaster): I. Praeludium",
+      "url": "https://open.spotify.com/track/3gzBQYifQ6i1NYnE7oaHZp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Schindler's List",
         "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 352240,
       "name": "I Could Have Done More",
       "url": "https://open.spotify.com/track/52PSKy15gHNoaidUT4i5vt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Works for Two Violins",
-        "url": "https://open.spotify.com/album/1Lto5L6zlWOy0neXJ2y1nG"
-      },
-      "artists": [
-        {
-          "name": "Pinchas Zukerman",
-          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        }
-      ],
-      "duration_ms": 140626,
-      "name": "3 Violin Duets (1996 Digital Remaster): I. Praeludium",
-      "url": "https://open.spotify.com/track/3gzBQYifQ6i1NYnE7oaHZp"
     },
     {
       "added_at": null,
@@ -855,26 +855,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Schindler's List",
-        "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
+        "name": "Vivaldi: The Four Seasons & Violin Concertos",
+        "url": "https://open.spotify.com/album/2hnRQDwlDjbBktTMm15zNH"
       },
       "artists": [
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         },
         {
-          "name": "Boston Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+          "name": "Israel Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4RkU7dxppCNi2078hPMUI4"
         }
       ],
-      "duration_ms": 316426,
-      "name": "Remembrances",
-      "url": "https://open.spotify.com/track/3IJsTYStxrxhtgHeQJ9cmo"
+      "duration_ms": 202226,
+      "name": "Vivaldi: Violin Concerto in A Minor, RV 356: I. Allegro",
+      "url": "https://open.spotify.com/track/0t9O1vhXUwB52GeezUdZnx"
     },
     {
       "added_at": null,
@@ -903,26 +903,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivaldi: The Four Seasons & Violin Concertos",
-        "url": "https://open.spotify.com/album/2hnRQDwlDjbBktTMm15zNH"
+        "name": "Schindler's List",
+        "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
       },
       "artists": [
         {
-          "name": "Antonio Vivaldi",
-          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         },
         {
-          "name": "Israel Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/4RkU7dxppCNi2078hPMUI4"
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
         }
       ],
-      "duration_ms": 202226,
-      "name": "Vivaldi: Violin Concerto in A Minor, RV 356: I. Allegro",
-      "url": "https://open.spotify.com/track/0t9O1vhXUwB52GeezUdZnx"
+      "duration_ms": 316426,
+      "name": "Remembrances",
+      "url": "https://open.spotify.com/track/3IJsTYStxrxhtgHeQJ9cmo"
     },
     {
       "added_at": null,

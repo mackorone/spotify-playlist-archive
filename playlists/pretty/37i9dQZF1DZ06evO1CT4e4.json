@@ -1,12 +1,12 @@
 {
   "description": "This is Arvo P\u00e4rt. The essential tracks, all in one playlist.",
-  "num_followers": 9746,
+  "num_followers": 9764,
   "original_name": "This Is Arvo P\u00e4rt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAABZvz0ZrAtIUmIRnecDXowr",
+  "snapshot_id": "aOMGgAAAAABJmfKjPfBsUG7U+mC4PGv4",
   "tracks": [
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
         }
       ],
-      "duration_ms": 172119,
-      "name": "7 Magnificat-Antiphons: No. 7, O Immanuel",
-      "url": "https://open.spotify.com/track/7pFZ2SwTpwY8aTBSoBHz4q"
+      "duration_ms": 59705,
+      "name": "7 Magnificat-Antiphons: No. 3, O Spross aus Isais Wurzel",
+      "url": "https://open.spotify.com/track/7sL5mNRt7sHbYCgjRjeuiZ"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         }
       ],
-      "duration_ms": 87173,
-      "name": "F\u00fcr Anna Maria",
-      "url": "https://open.spotify.com/track/4T2SFS1klvR8X4eNrEopBu"
+      "duration_ms": 128946,
+      "name": "Vier leichte Tanzst\u00fccke \u201cMusik f\u00fcr Kindertheater\u201d: No. 3, Schmetterlinge",
+      "url": "https://open.spotify.com/track/0fkMiiVcu3lpa0kENUXnsY"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
         }
       ],
-      "duration_ms": 59705,
-      "name": "7 Magnificat-Antiphons: No. 3, O Spross aus Isais Wurzel",
-      "url": "https://open.spotify.com/track/7sL5mNRt7sHbYCgjRjeuiZ"
+      "duration_ms": 172119,
+      "name": "7 Magnificat-Antiphons: No. 7, O Immanuel",
+      "url": "https://open.spotify.com/track/7pFZ2SwTpwY8aTBSoBHz4q"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         }
       ],
-      "duration_ms": 128946,
-      "name": "Vier leichte Tanzst\u00fccke \u201cMusik f\u00fcr Kindertheater\u201d: No. 3, Schmetterlinge",
-      "url": "https://open.spotify.com/track/0fkMiiVcu3lpa0kENUXnsY"
+      "duration_ms": 87173,
+      "name": "F\u00fcr Anna Maria",
+      "url": "https://open.spotify.com/track/4T2SFS1klvR8X4eNrEopBu"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         }
       ],
-      "duration_ms": 304053,
-      "name": "Pari intervallo (Transc. Osokins for Piano)",
-      "url": "https://open.spotify.com/track/37hHmSK0EOIgQlFStOSzej"
+      "duration_ms": 706693,
+      "name": "Fratres (Transc. Osokins for Piano)",
+      "url": "https://open.spotify.com/track/5K3Is3Xgg3jToIvbqBZiTL"
     },
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         }
       ],
-      "duration_ms": 706693,
-      "name": "Fratres (Transc. Osokins for Piano)",
-      "url": "https://open.spotify.com/track/5K3Is3Xgg3jToIvbqBZiTL"
+      "duration_ms": 224160,
+      "name": "Hymn to a Great City",
+      "url": "https://open.spotify.com/track/3hI9tYGKrqA6E11qCxAZ8F"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         }
       ],
-      "duration_ms": 224160,
-      "name": "Hymn to a Great City",
-      "url": "https://open.spotify.com/track/3hI9tYGKrqA6E11qCxAZ8F"
+      "duration_ms": 304053,
+      "name": "Pari intervallo (Transc. Osokins for Piano)",
+      "url": "https://open.spotify.com/track/37hHmSK0EOIgQlFStOSzej"
     },
     {
       "added_at": null,
@@ -811,6 +811,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "P\u00e4rt: Lamentate: Fragile e conciliante (Transc. Osokins for Piano)",
+        "url": "https://open.spotify.com/album/5ehE2GyzuCJOTsTsFFulCH"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        }
+      ],
+      "duration_ms": 401800,
+      "name": "Lamentate: Fragile e conciliante (Transc. Osokins for Piano)",
+      "url": "https://open.spotify.com/track/6cuOsovElnIdZLC0d6yF75"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arvo P\u00e4rt: Kanon Pokajanen",
         "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 141826,
       "name": "Kanon Pokajanen: Kondakion",
       "url": "https://open.spotify.com/track/528MASpGWZfylyQ5Y1Befd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "P\u00e4rt: Lamentate: Fragile e conciliante (Transc. Osokins for Piano)",
-        "url": "https://open.spotify.com/album/5ehE2GyzuCJOTsTsFFulCH"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        }
-      ],
-      "duration_ms": 401800,
-      "name": "Lamentate: Fragile e conciliante (Transc. Osokins for Piano)",
-      "url": "https://open.spotify.com/track/6cuOsovElnIdZLC0d6yF75"
     },
     {
       "added_at": null,
@@ -947,30 +947,6 @@
       "duration_ms": 348080,
       "name": "Symphony No. 3: II. Pi\u00f9 mosso \u2013",
       "url": "https://open.spotify.com/track/3IWRSAKlUNxApJPX57CPTB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: Kanon Pokajanen",
-        "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Estonian Philharmonic Chamber Choir",
-          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
-        },
-        {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
-        }
-      ],
-      "duration_ms": 498573,
-      "name": "Kanon Pokajanen: Ode VI",
-      "url": "https://open.spotify.com/track/2PNEEvDHAGdslbD03Mjj4i"
     }
   ],
   "unique_name": "This Is Arvo P\u00e4rt (2)",

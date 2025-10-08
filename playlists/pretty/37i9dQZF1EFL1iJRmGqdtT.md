@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL1iJRmGqdtT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1uYXu9L0vzo1lcJk7SjgCT">Brittany "Chi" Coney</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,407 likes - 111 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,406 likes - 111 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL1iJRmGqdtT.md) - [plain]
 | 53 | [Made It](https://open.spotify.com/track/4xxHS2QMCGrMWvylVjufJz) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI) | 3:18 |
 | 54 | [We Got Love \(feat\. Ms\. Lauryn Hill \)](https://open.spotify.com/track/1i92FePfxg1FGAuC6fOpvz) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Album](https://open.spotify.com/album/0BwUN4oXLzs95nE8GO1vrI) | 4:06 |
 | 55 | [Hard To Forget Ya](https://open.spotify.com/track/0nl2VRCK2fptP2nz8LKiGD) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Glory \(Japan Deluxe Version\)](https://open.spotify.com/album/6IM1rlrohJp2B4QtA6dLDy) | 3:29 |
-| 56 | [JUST BE \(feat\. Justin Timberlake\)](https://open.spotify.com/track/4eSsGiCHi75eMYx31ntNuI) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:44 |
-| 57 | [Paradise](https://open.spotify.com/track/21tlBWJr3rsQ5cQQtHyGUo) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [The World Changed On Me](https://open.spotify.com/album/11ftxdclHX02L9kfuzFG60) | 2:27 |
+| 56 | [Paradise](https://open.spotify.com/track/21tlBWJr3rsQ5cQQtHyGUo) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [The World Changed On Me](https://open.spotify.com/album/11ftxdclHX02L9kfuzFG60) | 2:27 |
+| 57 | [JUST BE \(feat\. Justin Timberlake\)](https://open.spotify.com/track/4eSsGiCHi75eMYx31ntNuI) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:44 |
 | 58 | [I Wanna Live](https://open.spotify.com/track/5eHbNMZ45Jku4GBADsUQGx) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Bill Israel](https://open.spotify.com/album/051k93izd0reEjp85OgEo6) | 1:52 |
 | 59 | [Ooh La La](https://open.spotify.com/track/7rXfgg6jbK89XINlgcB8cu) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Joyride](https://open.spotify.com/album/0u3rjsCgagcSxHoRtXMKQo) | 3:15 |
 | 60 | [Best Behavior](https://open.spotify.com/track/1SI0nGEG4roMUv1P3h6yNQ) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 2:52 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL1iJRmGqdtT.md) - [plain]
 | 110 | [Heaven On Earth](https://open.spotify.com/track/55NGMZ4yqhnXZ5ucOww4lw) | [Kendall Cudd](https://open.spotify.com/artist/5omufeVw7t0EfjorCC8rDK) | [Heaven On Earth](https://open.spotify.com/album/7ufOgb0K3eDHvkiJiojFHj) | 2:45 |
 | 111 | [Luv Hug](https://open.spotify.com/track/7AfipMJ54S6m004iJ3DvM9) | [Shunda K](https://open.spotify.com/artist/25EMx35978LX76CR9xPBhH), [Brittany Coney](https://open.spotify.com/artist/0jxdssOxFO2Z612ZOMbN1T) | [The Most Wanted](https://open.spotify.com/album/1T5GaDlXrcvs3UP1KBkQ0Q) | 3:44 |
 
-Snapshot ID: `Ab+KtAAAAABrhsHNujpnynHFFg0h30Iy`
+Snapshot ID: `Ab+QkAAAAACWm7dpSqowL/9bKeDmTFvG`

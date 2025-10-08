@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0ScTcjJBdj.md) - [plain]
 
 > Let your worries and cares slip away.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,584,502 likes - 150 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,584,307 likes - 150 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0ScTcjJBdj.md) - [plain]
 | 149 | [Permanent Way](https://open.spotify.com/track/04BGOF5G8ztSjRkhhM0SmE) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/1x3aGPQ0dqSY0fzljjB9VD) | 4:12 |
 | 150 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 |
 
-Snapshot ID: `AAAAAGPWF2wWAwNsYIBLSorQ7Yyzb3sB`
+Snapshot ID: `AAAAAHYqUzQ1cKzqxsMkTGpbLPTeZBVZ`

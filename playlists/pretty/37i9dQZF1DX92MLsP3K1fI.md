@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! EMJAY en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,452 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,452 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 9 | [Piel Chinita](https://open.spotify.com/track/56hKvzPXMRmCKDqZRqdF9K) | [Sam Vazquez](https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq) | [Piel Chinita](https://open.spotify.com/album/5XSiXbr7qy5d2Dzg1oxL6t) | 2:27 |
 | 10 | [Limonar](https://open.spotify.com/track/5A0BHKTVDwtO2X20EDiZlG) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Limonar](https://open.spotify.com/album/6JKiblGr9JWNYFQ5qmbuN3) | 3:15 |
 | 11 | [FLASHBACKS](https://open.spotify.com/track/5AzYZzWGkY7cKY1EnBPoDe) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [FLASHBACKS](https://open.spotify.com/album/3XFmizYXrXRuStxSqwvEbf) | 2:10 |
-| 12 | [Aplauso](https://open.spotify.com/track/3CYxoFeymojAvh8TzgwmOR) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Aplauso](https://open.spotify.com/album/41U2TU0ktIrUCImUc4xqIb) | 3:52 |
+| 12 | [La Diferencia](https://open.spotify.com/track/3kII7smb04nI2T2vnj5eZr) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [La Diferencia](https://open.spotify.com/album/2igUrvjRYAgBBRyufC50pb) | 3:50 |
 | 13 | [4ME](https://open.spotify.com/track/0zVhZg7WBIffwnHmxqhYdY) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [4ME](https://open.spotify.com/album/1fnkE945x2Q1NAiUTvhcHC) | 2:40 |
-| 14 | [La Diferencia](https://open.spotify.com/track/3kII7smb04nI2T2vnj5eZr) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [La Diferencia](https://open.spotify.com/album/2igUrvjRYAgBBRyufC50pb) | 3:50 |
+| 14 | [Aplauso](https://open.spotify.com/track/3CYxoFeymojAvh8TzgwmOR) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Aplauso](https://open.spotify.com/album/41U2TU0ktIrUCImUc4xqIb) | 3:52 |
 | 15 | [el niño bueno](https://open.spotify.com/track/6WW6JomwQgE8GWNt4pF6vP) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [para ti: querida amiga](https://open.spotify.com/album/41Xi6hQy7ywcAEB4zTEhB6) | 2:17 |
 | 16 | [MUERO X TI](https://open.spotify.com/track/1HctHvk1tYjOW4Rsd5whXV) | [HOYER](https://open.spotify.com/artist/3BU3N61vOSGcUahCNviQoP) | [MUERO X TI](https://open.spotify.com/album/0t6hPxjZj9UAQSrurbeXmC) | 4:12 |
 | 17 | [Estas Ganas](https://open.spotify.com/track/6axFk0R5Fm7BmnAle3CJ2T) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Estas Ganas](https://open.spotify.com/album/1JyeUyl21sY9G60Clzk7vO) | 2:46 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 43 | [Ve y Diles V2 \- Remix](https://open.spotify.com/track/3NO1321RAnd9GmZoJANxlI) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Ve y Diles V2 \(Remix\)](https://open.spotify.com/album/1JP7lfhnwCzHMStiqeL9QV) | 2:56 |
 | 44 | [Te Juro No Te Miento](https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Te Juro No Te Miento](https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT) | 2:35 |
 | 45 | [calma](https://open.spotify.com/track/7tBN8nQrkLsBIdz7RtkzB3) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [calma](https://open.spotify.com/album/2lOfVUwuTEqwiks5dLI7Nh) | 2:20 |
-| 46 | [Aeropuerto](https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Aeropuerto](https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn) | 3:32 |
-| 47 | [Miel](https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 3:32 |
-| 48 | [odio a primera vista](https://open.spotify.com/track/4O7u2mKN9ovYtk3ejaJ87O) | [Ana Sofi W.](https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0) | [odio a primera vista](https://open.spotify.com/album/0SUOvTZTNdnEES1VpEW7Vu) | 3:06 |
-| 49 | [¿Por Qué Soy Así?](https://open.spotify.com/track/1N9n5G6elGqnLm3KSVG7Ir) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Por Qué Soy Así?](https://open.spotify.com/album/0nx6GtmpkRxmbj1gX2pRP2) | 3:09 |
-| 50 | [Mantra](https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Bella Nostalgia](https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK) | 3:30 |
+| 46 | [Miel](https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 3:32 |
+| 47 | [Aeropuerto](https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Aeropuerto](https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn) | 3:32 |
+| 48 | [Cuando Estamos Solas](https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Cuando Estamos Solas](https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv) | 2:40 |
+| 49 | [odio a primera vista](https://open.spotify.com/track/4O7u2mKN9ovYtk3ejaJ87O) | [Ana Sofi W.](https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0) | [odio a primera vista](https://open.spotify.com/album/0SUOvTZTNdnEES1VpEW7Vu) | 3:06 |
+| 50 | [¿Por Qué Soy Así?](https://open.spotify.com/track/1N9n5G6elGqnLm3KSVG7Ir) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Por Qué Soy Así?](https://open.spotify.com/album/0nx6GtmpkRxmbj1gX2pRP2) | 3:09 |
 
 Snapshot ID: `AAAAAD8Y0oI1XWHRHZEXC2ZbrnB9NHWm`

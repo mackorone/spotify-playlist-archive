@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain](/playlists/plain/37i9dQZF1DXdWgffwYAtHM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdWgffwYAtHM)
 
-### [RADAR Brasil Creators](https://open.spotify.com/playlist/37i9dQZF1DXdWgffwYAtHM)
+### [RADAR Creators Brasil](https://open.spotify.com/playlist/37i9dQZF1DXdWgffwYAtHM)
 
 > Creators que você precisa ter no RADAR\. Creator do mês: <a href="spotify:show:3Z980PbVrz8cf0StzZTFU4">MONÓLOGOS ♡</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,803 likes - 10 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,801 likes - 10 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 | 9 | [desesperada pra ser amada ](https://open.spotify.com/episode/1mjhISRxBsFbHNyuWRBdQn) | [Colo de amiga por @sofidisse](https://open.spotify.com/show/5j7Xq0NEDtSOahTZK3bVLc) | [Colo de amiga por @sofidisse](https://open.spotify.com/album/5j7Xq0NEDtSOahTZK3bVLc) | 25:17 |
 | 10 | [\#170\. Com jeitinho](https://open.spotify.com/episode/7fs4Psva5fKGln0mPyoX1z) | [Até aí, ok!](https://open.spotify.com/show/0QukQs0ML5vk7MvOh05bth) | [Até aí, ok!](https://open.spotify.com/album/0QukQs0ML5vk7MvOh05bth) | 48:41 |
 
-Snapshot ID: `AAAAAPy3b8yuou9pD3KcT8UYijSHoS/o`
+Snapshot ID: `AAAAAKwCJ/kL9H1P4kf2KQs+yDk6BNOy`

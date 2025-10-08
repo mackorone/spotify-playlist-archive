@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 
 > I più grandi successi della storia del festival 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,420 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,421 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 31 | [Lei verrà](https://open.spotify.com/track/1WrT3pRtE32H2lyLPQFJq1) | [Mango](https://open.spotify.com/artist/5iBphIrmXEjfrqiuz5y6pY) | [Odissea](https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI) | 4:05 |
 | 32 | [Adesso tu](https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros 30 \(Deluxe Version\)](https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz) | 3:59 |
 | 33 | [Fiamme negli occhi](https://open.spotify.com/track/5qn15Hs4s26YaNd5UWVe00) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [Fiamme negli occhi](https://open.spotify.com/album/63QloB2LteDzQMKstFJ3XK) | 3:26 |
-| 34 | [IL BENE NEL MALE](https://open.spotify.com/track/2j8E9m3kDHfxFnGhN4fXaC) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [IL BENE NEL MALE](https://open.spotify.com/album/2rr30y9ialqckQrhkbb9DQ) | 3:33 |
+| 34 | [Nessun grado di separazione](https://open.spotify.com/track/6WPDJLHlR2fFXNaRKq0jqm) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [di20are](https://open.spotify.com/album/6IFEZC3uX47663lqs4TYLy) | 3:39 |
 | 35 | [Sincero \(feat\. Morgan\)](https://open.spotify.com/track/6v2eWAtpP4WDrxRDAG9FwL) | [Bugo](https://open.spotify.com/artist/01U4yWwtUKMckbI55OiT7g), [Morgan](https://open.spotify.com/artist/6RUY9TXdPIoeOExtd9twr0) | [Sincero \(feat\. Morgan\)](https://open.spotify.com/album/1N1j43lLEbPtcH2agEYos7) | 3:43 |
-| 36 | [Nessun grado di separazione](https://open.spotify.com/track/6WPDJLHlR2fFXNaRKq0jqm) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [di20are](https://open.spotify.com/album/6IFEZC3uX47663lqs4TYLy) | 3:39 |
+| 36 | [IL BENE NEL MALE](https://open.spotify.com/track/2j8E9m3kDHfxFnGhN4fXaC) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [IL BENE NEL MALE](https://open.spotify.com/album/2rr30y9ialqckQrhkbb9DQ) | 3:33 |
 | 37 | [Terra promessa](https://open.spotify.com/track/7bcHU50mENL3al5DhEJc7J) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros 30 \(Deluxe Version\)](https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz) | 3:43 |
 | 38 | [Chiamami Ancora Amore](https://open.spotify.com/track/2D6t8TtB1cpgXK1L1fJ5P5) | [Roberto Vecchioni](https://open.spotify.com/artist/3TVifQ5FPcIzzcYSUuJkp9) | [Chiamami Ancora Amore](https://open.spotify.com/album/35v8DGlNLOl039xe3bGvjT) | 4:13 |
 | 39 | [Amore Di Plastica](https://open.spotify.com/track/4Phog5jQ2VeTPevfFH0UcH) | [Carmen Consoli](https://open.spotify.com/artist/6C3OLzdOvBI9yCOCf7iC4E) | [Due Parole](https://open.spotify.com/album/5uNzCs9eLmDcUn7DtZvhq7) | 4:04 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 43 | [Tutti I Miei Sbagli](https://open.spotify.com/track/79cRtxW6PQWvSbKpvdPGkQ) | [Subsonica](https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK) | [Microchip Emozionale](https://open.spotify.com/album/1R6tWYMVH2NOVsejTwAHxg) | 4:03 |
 | 44 | [Per Un Milione](https://open.spotify.com/track/4QkibOQBBrpdsCgZBpSlgQ) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6) | [Per Un Milione](https://open.spotify.com/album/2hMifnfGsH7W1cPNR8G8sH) | 2:54 |
 | 45 | [Fai rumore](https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS) | [Diodato](https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi) | [Fai rumore](https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ) | 3:36 |
-| 46 | [Senza giacca e cravatta](https://open.spotify.com/track/7DkFHdtNlzHE5gcJT7vGKV) | [Nino D'Angelo](https://open.spotify.com/artist/4xhEhRE75hHgXMeNeeTTsx) | [Stella 'E Matina](https://open.spotify.com/album/70YSojRDllSp9yE0KYOe5P) | 4:14 |
-| 47 | [CHIAMAMI PER NOME](https://open.spotify.com/track/0ZqHo6eTBHUcOVjZzPvftT) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS), [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [CHIAMAMI PER NOME](https://open.spotify.com/album/6Q4QCwk7I4Ox4rsKpsQY8O) | 3:42 |
+| 46 | [CHIAMAMI PER NOME](https://open.spotify.com/track/0ZqHo6eTBHUcOVjZzPvftT) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS), [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [CHIAMAMI PER NOME](https://open.spotify.com/album/6Q4QCwk7I4Ox4rsKpsQY8O) | 3:42 |
+| 47 | [Senza giacca e cravatta](https://open.spotify.com/track/7DkFHdtNlzHE5gcJT7vGKV) | [Nino D'Angelo](https://open.spotify.com/artist/4xhEhRE75hHgXMeNeeTTsx) | [Stella 'E Matina](https://open.spotify.com/album/70YSojRDllSp9yE0KYOe5P) | 4:14 |
 | 48 | [Non E' L'Inferno](https://open.spotify.com/track/7lx7ourd9AVFIBXFTCWXx8) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Sarò Libera \(Sanremo Edition\)](https://open.spotify.com/album/3IaZc3ERddM2fSGj9IOdOT) | 3:45 |
 | 49 | [Vado al massimo](https://open.spotify.com/track/3vSvzXZVJ92x9fHPQAqgVo) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Vado al massimo \(Remastered\)](https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM) | 4:03 |
 | 50 | [Non voglio mica la luna](https://open.spotify.com/track/0xZGPXJ0vzeWIcVlwI4jY8) | [Fiordaliso](https://open.spotify.com/artist/3O9LDOD9Hutyg1tWnqETgH) | [Fiordaliso](https://open.spotify.com/album/3oBdY9Ue7M2VSMrsBfdN6s) | 4:02 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 70 | [E poi](https://open.spotify.com/track/3yoADEzMFGJkP1n95TTMRR) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Greatest Hits \(Le Cose Non Vanno Mai come Credi\)](https://open.spotify.com/album/3PibNS6DdY2iM5xRorGPqm) | 4:27 |
 | 71 | [Dieci](https://open.spotify.com/track/2lBLzzEARN8mGgHFaXYKKk) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Dieci](https://open.spotify.com/album/4FggiQxPJcGvwiRCpNhdx7) | 3:18 |
 | 72 | [Cosa hai messo nel caffè?](https://open.spotify.com/track/2BTvcx218RPaIXyH5Gz3xa) | [Riccardo Del Turco](https://open.spotify.com/artist/26YwzAEW3kihviypkZpOfq) | [Riccardo Del Turco](https://open.spotify.com/album/4yn8guJVqtimO17DbpdsEO) | 3:33 |
-| 73 | [Ti lascerò](https://open.spotify.com/track/5BTBBUwbXB7AVTUd5maNee) | [Anna Oxa](https://open.spotify.com/artist/6iuybPv0Mii8x21mztjaUN), [Fausto Leali](https://open.spotify.com/artist/1O60mnSM6G8r2Reuw5jTgk) | [I Grandi Successi](https://open.spotify.com/album/6WilIF4woo3IMNzZRecDoA) | 4:00 |
-| 74 | [L'ADDIO](https://open.spotify.com/track/4Xqs9LHjvq41AEhjNn36Oe) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [L'ADDIO](https://open.spotify.com/album/2iUk6UtdpU0J5LHF5ZPcaJ) | 3:27 |
+| 73 | [L'ADDIO](https://open.spotify.com/track/4Xqs9LHjvq41AEhjNn36Oe) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [L'ADDIO](https://open.spotify.com/album/2iUk6UtdpU0J5LHF5ZPcaJ) | 3:27 |
+| 74 | [Ti lascerò](https://open.spotify.com/track/5BTBBUwbXB7AVTUd5maNee) | [Anna Oxa](https://open.spotify.com/artist/6iuybPv0Mii8x21mztjaUN), [Fausto Leali](https://open.spotify.com/artist/1O60mnSM6G8r2Reuw5jTgk) | [I Grandi Successi](https://open.spotify.com/album/6WilIF4woo3IMNzZRecDoA) | 4:00 |
 | 75 | [Andamento lento](https://open.spotify.com/track/5HAri7dfAKqA7vTAt8vwMB) | [Tullio De Piscopo](https://open.spotify.com/artist/677NtrMPiyPumrSUs8lBKk) | [1998…e I miei grandi successi](https://open.spotify.com/album/4Vas2bDBwoX9SmeJ9ucL1Q) | 4:16 |
 | 76 | [Glicine](https://open.spotify.com/track/7g1MeIDCN0R36wi4bNarbN) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Glicine](https://open.spotify.com/album/1zKdr84teaXQZuQiOUjscD) | 3:37 |
 | 77 | [Per sentirmi vivo](https://open.spotify.com/track/5U3ln41nbhztweY70Mv5b3) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Per sentirmi vivo](https://open.spotify.com/album/5owbVnzLpbq9SlftvHXjTa) | 2:59 |

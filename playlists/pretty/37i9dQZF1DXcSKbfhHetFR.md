@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,569 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,570 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hawaiienne](https://open.spotify.com/track/0BUD8MCnamel6skM7YCSJJ) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Gros mammouth album turbo](https://open.spotify.com/album/3gqXv0lUseQpAWqbjU3YQm) | 2:29 |
 | 2 | [Boomerang](https://open.spotify.com/track/6xw1lHAsGmik1lu0k15zk9) | [Kevin Parent](https://open.spotify.com/artist/5hOp5PaxAcdnaZtv4oqJCw) | [Pigeon d'argile](https://open.spotify.com/album/1GTX1BnzitW8M9h1Nrpofh) | 3:54 |
 | 3 | [Amalgame](https://open.spotify.com/track/21ATIZAwB9QXBOpTzw2lDM) | [Les Respectables](https://open.spotify.com/artist/1BgrTWzH5jW2zl79JfSLtl) | [$=Bonheur](https://open.spotify.com/album/3S1vz4DSEQFippvw8v05ev) | 4:27 |
-| 4 | [Miss Ecstasy](https://open.spotify.com/track/5fwF0ZdA8YPn2iDF78vYuR) | [Dumas](https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD) | [Dumas](https://open.spotify.com/album/3Q4MKOYexRnIgGSjziQUhm) | 3:55 |
-| 5 | [Le petit castor](https://open.spotify.com/track/7d2Z5noBhH5DWDVm0JtcIe) | [Yelo Molo](https://open.spotify.com/artist/6Myhhn1uQSl9qnbjSVfZPs) | [Méli\-molo](https://open.spotify.com/album/670rCJX9NEOutCLX8zoz1I) | 4:38 |
+| 4 | [Le petit castor](https://open.spotify.com/track/7d2Z5noBhH5DWDVm0JtcIe) | [Yelo Molo](https://open.spotify.com/artist/6Myhhn1uQSl9qnbjSVfZPs) | [Méli\-molo](https://open.spotify.com/album/670rCJX9NEOutCLX8zoz1I) | 4:38 |
+| 5 | [Miss Ecstasy](https://open.spotify.com/track/5fwF0ZdA8YPn2iDF78vYuR) | [Dumas](https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD) | [Dumas](https://open.spotify.com/album/3Q4MKOYexRnIgGSjziQUhm) | 3:55 |
 | 6 | [Si exceptionnel](https://open.spotify.com/track/4rDhLzmzPz4aAJ1hs4HOlW) | [Andrée Watters](https://open.spotify.com/artist/69C2IK3ervhiGEvbp6ss7H) | [AW](https://open.spotify.com/album/658WdTob3JXKse2edU1PiH) | 3:49 |
 | 7 | [Je suis partie](https://open.spotify.com/track/0l90WIAkOhMlPSEvqX0YGV) | [Anik Jean](https://open.spotify.com/artist/6IHeGZkZLc9DQ4INpVyDpa) | [Le Trashy Saloon](https://open.spotify.com/album/0MO9BtyFSmkm4557C9GGd3) | 3:21 |
 | 8 | [Le métronome](https://open.spotify.com/track/1OHIM375HBlr88fQwi0CJK) | [Malajube](https://open.spotify.com/artist/5yLzPjejoWM3eiYNoejATm) | [Le compte complet](https://open.spotify.com/album/19QK4vgoI5NeY8ISWWcSCN) | 2:43 |
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 19 | [Si j'ai tort](https://open.spotify.com/track/0AjB4QVAB8T2DZgt0GrJPx) | [France D'Amour](https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI) | [Le silence des roses](https://open.spotify.com/album/2J5HzUbk4AxuM8j1sbyWKF) | 4:23 |
 | 20 | [Alinéa](https://open.spotify.com/track/22lo0iW3QMBCTyVm1BnsWt) | [El Motor](https://open.spotify.com/artist/4NIlqFEWcoMo6rfATI1FRQ) | [El Motor](https://open.spotify.com/album/6IbcIVV1tB5vboWRJSe3ef) | 4:31 |
 | 21 | [Vent fou](https://open.spotify.com/track/6i3659FPWh4fL7dMCQYYeb) | [Jorane](https://open.spotify.com/artist/6i4QbQrxJaY2aDhTYOYvJ7) | [Vent fou](https://open.spotify.com/album/4meRurpCXE1T2EwMM9L02t) | 1:19 |
-| 22 | [Les patates](https://open.spotify.com/track/3Z3BvbtR8n2LxuZARFc2rW) | [Mononc' Serge](https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1), [Anonymus](https://open.spotify.com/artist/47KsZ7WY3lQUXxhOpXkIG8) | [L'académie du massacre](https://open.spotify.com/album/6OULjgJloRJUYlWctThGkF) | 2:56 |
-| 23 | [Savant Fou](https://open.spotify.com/track/57qp0M59ruMNZKalIYwXA8) | [eXterio](https://open.spotify.com/artist/3wF6f7YFIwgmtD3daujyeF) | [Le Délire Du Savant Fou](https://open.spotify.com/album/4KSLEaEbTmkcVYabhLD3hR) | 3:19 |
-| 24 | [Grossière indécence](https://open.spotify.com/track/55qUxWYhkjinbOJS9rvnN9) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Sans foi ni loi](https://open.spotify.com/album/3ZC0QWTlJ5DYbRrPVTiAwQ) | 2:56 |
-| 25 | [Ton amour est trop lourd](https://open.spotify.com/track/4PxZdHDHTSS5R1BcIuXpj2) | [Hepatite B](https://open.spotify.com/artist/57dW2gHW4uMAAfHXSHsqxg) | [Hepatite B](https://open.spotify.com/album/3vcEGTInZLMpu9zuXASsrk) | 1:57 |
-| 26 | [J'ai Oublié](https://open.spotify.com/track/4tX28kKt5YasANWQj9RgIR) | [Captaine Révolte](https://open.spotify.com/artist/7qsCifJn8gcqcLP5nUfWPC) | [Danse Sociale](https://open.spotify.com/album/32OmCkG3Q6bsHQNNgbKrX3) | 3:55 |
-| 27 | [Le train](https://open.spotify.com/track/2p3O33eThnhhq1dMWlvR7M) | [Vilain Pingouin](https://open.spotify.com/artist/7lS2jO7gRXSOtMYlhfjtbi) | [Vilain Pingouin](https://open.spotify.com/album/3pINLfKyH98HfwvNgMQgL6) | 3:58 |
+| 22 | [Le train](https://open.spotify.com/track/2p3O33eThnhhq1dMWlvR7M) | [Vilain Pingouin](https://open.spotify.com/artist/7lS2jO7gRXSOtMYlhfjtbi) | [Vilain Pingouin](https://open.spotify.com/album/3pINLfKyH98HfwvNgMQgL6) | 3:58 |
+| 23 | [Les patates](https://open.spotify.com/track/3Z3BvbtR8n2LxuZARFc2rW) | [Mononc' Serge](https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1), [Anonymus](https://open.spotify.com/artist/47KsZ7WY3lQUXxhOpXkIG8) | [L'académie du massacre](https://open.spotify.com/album/6OULjgJloRJUYlWctThGkF) | 2:56 |
+| 24 | [Savant Fou](https://open.spotify.com/track/57qp0M59ruMNZKalIYwXA8) | [eXterio](https://open.spotify.com/artist/3wF6f7YFIwgmtD3daujyeF) | [Le Délire Du Savant Fou](https://open.spotify.com/album/4KSLEaEbTmkcVYabhLD3hR) | 3:19 |
+| 25 | [Grossière indécence](https://open.spotify.com/track/55qUxWYhkjinbOJS9rvnN9) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Sans foi ni loi](https://open.spotify.com/album/3ZC0QWTlJ5DYbRrPVTiAwQ) | 2:56 |
+| 26 | [Ton amour est trop lourd](https://open.spotify.com/track/4PxZdHDHTSS5R1BcIuXpj2) | [Hepatite B](https://open.spotify.com/artist/57dW2gHW4uMAAfHXSHsqxg) | [Hepatite B](https://open.spotify.com/album/3vcEGTInZLMpu9zuXASsrk) | 1:57 |
+| 27 | [J'ai Oublié](https://open.spotify.com/track/4tX28kKt5YasANWQj9RgIR) | [Captaine Révolte](https://open.spotify.com/artist/7qsCifJn8gcqcLP5nUfWPC) | [Danse Sociale](https://open.spotify.com/album/32OmCkG3Q6bsHQNNgbKrX3) | 3:55 |
 | 28 | [Dale Hawerchuk](https://open.spotify.com/track/3p4TDZWyc6Uj8GsPAIPO7D) | [Les Dales Hawerchuk](https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC) | [Les Dales Hawerchuk](https://open.spotify.com/album/2kZv4f9cNfQ8327JKqwBYA) | 2:12 |
 | 29 | [Magané](https://open.spotify.com/track/0TyfeeEi54ai07e7fI6KXK) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Ma génération](https://open.spotify.com/album/7szcxj23WP3Y6B9KjqMVP4) | 3:47 |
 | 30 | [Compter Les Corps](https://open.spotify.com/track/2b0m5jX5YEKUiSCzk13SiQ) | [Vulgaires Machins](https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG) | [Compter Les Corps](https://open.spotify.com/album/2aoIxtuvds8j1dnXlM9Y79) | 3:50 |

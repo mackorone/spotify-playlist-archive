@@ -4,7 +4,7 @@
 
 > This is Joan Baez\. The essential tracks, all in one playlist.
 
-118 songs - 7 hr 7 min
+119 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Love Minus Zero / No Limit](https://open.spotify.com/track/4zU2gsfo50BU2MWpMUJtpO) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Any Day Now](https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl) | 2:44 | 2024-01-23 | 2024-07-24 |
 | [Love Minus Zero/No Limit](https://open.spotify.com/track/0qH1dPZj1eSnU6nCUZF9VD) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 2:44 | 2022-09-22 |  |
 | [Love Song To A Stranger](https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 3:53 | 2022-09-26 |  |
-| [Mama, You Been on My Mind \- Live at Philharmonic Hall, New York, NY \- October 1964](https://open.spotify.com/track/48p7zj5Ief2UIzbNWAMfPN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Bootleg Volume 6: Bob Dylan Live 1964 \- Concert At Philharmonic Hall](https://open.spotify.com/album/2iM5ZikFu4dvZLHZRwWiLY) | 3:05 | 2025-01-05 |  |
+| [Mama, You Been on My Mind \- Live at Philharmonic Hall, New York, NY \- October 1964](https://open.spotify.com/track/48p7zj5Ief2UIzbNWAMfPN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Bootleg Volume 6: Bob Dylan Live 1964 \- Concert At Philharmonic Hall](https://open.spotify.com/album/2iM5ZikFu4dvZLHZRwWiLY) | 3:05 | 2025-01-05 | 2025-10-08 |
 | [Mary Hamilton](https://open.spotify.com/track/0fL5OGoccvYvgLxRtNO7JD) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Newport Era](https://open.spotify.com/album/6kuUoWmtG2Hn2pWJx19pRN) | 5:55 | 2025-01-31 | 2025-03-23 |
 | [Mary Hamilton](https://open.spotify.com/track/7rL6dZzydhWSimA6TouJ6K) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 5:57 | 2022-10-02 | 2022-10-05 |
 | [Never Dreamed You'd Leave In Summer](https://open.spotify.com/track/5vxEs5O73vhgijogIFxRSN) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 2:45 | 2022-09-22 |  |
@@ -100,6 +100,7 @@
 | [Prison Trilogy \(Billy Rose\)](https://open.spotify.com/track/09dGiyUBUGQBV0I6uH0sDY) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 4:23 | 2022-09-22 |  |
 | [Rake And Rambling Boy](https://open.spotify.com/track/2VyKXzrtialaXBc4uIA58Z) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 1:59 | 2023-12-13 | 2023-12-15 |
 | [Rambler Gambler \- Live](https://open.spotify.com/track/2wOcNJo1QtEF3KBpedoEPa) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Newport Era](https://open.spotify.com/album/6kuUoWmtG2Hn2pWJx19pRN) | 2:04 | 2025-01-30 | 2025-05-13 |
+| [Ranger's Command \- Remastered 2025](https://open.spotify.com/track/3LMwA5495RllhdcYMT8qIg) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Farewell, Angelina \(Remastered 2025\)](https://open.spotify.com/album/5iwq6gZ9HslfxC28djd6uH) | 3:17 | 2025-10-08 |  |
 | [Sad\-Eyed Lady Of The Low Lands](https://open.spotify.com/track/6B9Y454zvW0ThTRzeIdhng) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Any Day Now](https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl) | 11:17 | 2022-09-22 | 2024-06-09 |
 | [Sagt Mir Wo Die Blumen Sind](https://open.spotify.com/track/7azEbwOXh4ylBBLjYnEwRZ) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Farewell, Angelina](https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun) | 4:04 | 2022-09-22 | 2024-07-23 |
 | [She Moved Through The Fair](https://open.spotify.com/track/3lroklVIelJiObRBewQXz7) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [Joan Baez 75th Birthday Celebration](https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl) | 5:44 | 2022-10-30 | 2024-01-21 |

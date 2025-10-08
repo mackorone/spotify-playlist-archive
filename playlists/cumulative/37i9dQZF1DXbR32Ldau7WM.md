@@ -2,9 +2,9 @@
 
 ### [Big in Japan](https://open.spotify.com/playlist/37i9dQZF1DXbR32Ldau7WM)
 
-> The biggest rock artists in Japan right now!  Cover: LITE
+> The biggest rock artists in Japan right now!  Cover: ポルノグラフィティ
 
-1,397 songs - 3 day 19 hr 39 min
+1,398 songs - 3 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -732,6 +732,7 @@
 | [THE LAST ROCKSTARS \(PARIS MIX\)](https://open.spotify.com/track/3V3BVSPAsXD3keTsZTXF4k) | [The Last Rockstars](https://open.spotify.com/artist/4tCAdCQzODk8RI5LvTfujz) | [THE LAST ROCKSTARS \(PARIS MIX\)](https://open.spotify.com/album/4tofpZnaMxN2eFbS6aBBor) | 4:45 | 2022-12-31 | 2023-06-28 |
 | [The Perfume of Sins \(Radio Edit Ver.\)](https://open.spotify.com/track/30iV9AL1mSkP1j9vKe4li7) | [DIR EN GREY](https://open.spotify.com/artist/3kNqzLmW33fQIfmZ1OfqMA) | [The Perfume of Sins \(Radio Edit Ver.\)](https://open.spotify.com/album/1BQkjRsbHYI1tlPWzuzlww) | 3:19 | 2022-06-14 | 2022-07-06 |
 | [THE PROMISE](https://open.spotify.com/track/3nzAbV5u0IBT6UJuPqPcLp) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [THE PROMISE](https://open.spotify.com/album/2Bx6rMVAb1WltCaBQWT5Lg) | 3:18 | 2023-02-14 | 2023-05-10 |
+| [THE REVO](https://open.spotify.com/track/2uzuO4xzPOmLIC3a5Xvg8h) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [THE REVO](https://open.spotify.com/album/1OhdNxWQU7trRLggTJRtix) | 4:00 | 2025-10-07 |  |
 | [The Rumbling](https://open.spotify.com/track/5JJKkuYGj99dfws5MiiJSR) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/6WNTfLApSKQPPlqWHwgLq8) | 3:40 | 2022-05-10 | 2022-06-17 |
 | [The Rumbling](https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg) | 3:40 | 2023-06-27 | 2023-07-12 |
 | [The Rumbling \(TV Size\)](https://open.spotify.com/track/0KCSJzsQVxkloxoT7dyrqV) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling \(TV Size\)](https://open.spotify.com/album/3Ri7zFBo3zWabQvOVN1DXu) | 1:30 | 2023-06-27 | 2023-07-26 |
@@ -1279,7 +1280,7 @@
 | [海辺](https://open.spotify.com/track/21iZgEsx7Hq6eNa90Ycr0i) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [海辺](https://open.spotify.com/album/6OV4doZnn3DYxzEVweB803) | 5:39 | 2022-05-19 | 2022-06-13 |
 | [涅槃](https://open.spotify.com/track/1rvbAtrJ2FBUBeLbES41qV) | [Yamaarashi](https://open.spotify.com/artist/3YKtcPI1ykxg166wjbrvU5) | [PAIN KILLER](https://open.spotify.com/album/3BETwNVDIswbCpCS4M8wxz) | 4:15 | 2023-02-21 | 2023-03-01 |
 | [消せない!](https://open.spotify.com/track/3onVM8XG0eW9ZtaLqu5zlw) | [DOGADOGA](https://open.spotify.com/artist/5rGVSXTLvetVl0pjdCrDM6) | [あっ!](https://open.spotify.com/album/4DYr1fOg1saZQw3Txp7ObJ) | 3:26 | 2025-08-19 | 2025-09-04 |
-| [涙のスイマー](https://open.spotify.com/track/0OUxpQVIoca5mB0JKSGop0) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [涙のスイマー](https://open.spotify.com/album/3Mi20D234lblgBeMJjdEZc) | 3:09 | 2025-08-01 |  |
+| [涙のスイマー](https://open.spotify.com/track/0OUxpQVIoca5mB0JKSGop0) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [涙のスイマー](https://open.spotify.com/album/3Mi20D234lblgBeMJjdEZc) | 3:09 | 2025-08-01 | 2025-10-08 |
 | [深緑の Morning glow](https://open.spotify.com/track/4nHZgxPtYZHW2julZsOs5V) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [Les Misé blue](https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs) | 4:13 | 2022-11-22 | 2022-11-30 |
 | [火花](https://open.spotify.com/track/05WKrnPYwjdG0Mj9kcoMe3) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [火花](https://open.spotify.com/album/34vNCbkf9QMHciPKAbTN7s) | 4:23 | 2023-05-16 | 2023-05-26 |
 | [烈火](https://open.spotify.com/track/6XiU17DEkiJiX1BpD2r72Z) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [烈火](https://open.spotify.com/album/2jE9xYfV1vRFslp3uPZMs7) | 4:10 | 2024-01-09 | 2024-04-24 |

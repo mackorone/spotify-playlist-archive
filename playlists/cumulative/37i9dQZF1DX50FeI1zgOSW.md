@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Kaushik Mahalengam
 
-628 songs - 1 day 11 hr 58 min
+629 songs - 1 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Kadhal Vizhi](https://open.spotify.com/track/1P0qA4Mp697uuBQsm4J9AJ) | [ChaaiSmokers](https://open.spotify.com/artist/61E6hWD8uFULJv5S35vytj) | [Kadhal Vizhi](https://open.spotify.com/album/2wH6h441uGVIGArtLaERQ9) | 3:06 | 2024-09-30 | 2024-12-06 |
 | [Kadhal You](https://open.spotify.com/track/47cQUeWqy2jT39bS0gP7kG) | [Karthik Rk](https://open.spotify.com/artist/2xDMtjAA117jAB1DOO6np4), [Arun Rathor](https://open.spotify.com/artist/4CBF6drrY0At3ZQVex2Q6M) | [Kadhal You](https://open.spotify.com/album/2ZdDirLnKam2KMAjcsjD9M) | 2:54 | 2024-01-05 | 2024-07-30 |
 | [Kadhale Thonathadi](https://open.spotify.com/track/1YScueapf892eP1seINFrv) | [Abhimanyu](https://open.spotify.com/artist/6AClKP15SXi1bUXgQQHFFZ) | [Kadhale Thonathadi](https://open.spotify.com/album/2h3flI45rDX3D5aopTLT2o) | 3:57 | 2025-04-17 | 2025-07-04 |
+| [Kadhara Kadhara Oru Kaadhaal](https://open.spotify.com/track/2AK0b9zN3kpHqRE3Ztc2z3) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Rama Priya Yegasivanathan](https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx) | [Kadhara Kadhara Oru Kaadhaal](https://open.spotify.com/album/5VhJAITlwZo0ndcBysOQnb) | 2:40 | 2025-10-07 |  |
 | [Kadukulla Singham Pola](https://open.spotify.com/track/5LNj35TB4V7tIdACwY4uag) | [Kirusanth Edman](https://open.spotify.com/artist/2kbtFqE0UNvkMyyQVDFLTL), [Jtin Krishan](https://open.spotify.com/artist/0u4iTssdfUODxw5dovFaWa) | [Kadukulla Singham Pola](https://open.spotify.com/album/2CszKnTchxybbllVeII5Dk) | 4:26 | 2025-04-17 | 2025-06-24 |
 | [Kaettu Paaru](https://open.spotify.com/track/6QHs1itvQeNRQ9C1AN2vhU) | [bebhumika](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl), [pixlpxl®](https://open.spotify.com/artist/1EGgZfRoAg2Z5kAbF5XaH1), [sufr](https://open.spotify.com/artist/0H2Xt7XJQyDItXNN3j7F1F) | [Uyir Ponaalum](https://open.spotify.com/album/4PClcq39M4seJMLAitgNnS) | 3:25 | 2025-05-06 | 2025-08-26 |
 | [Kalyanathukku Menu En Kadhal \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/track/4igMeZBuRS6w6rn7txyVIX) | [Anal Akash](https://open.spotify.com/artist/0Sc5IvyroAu9MuC9kFGjaR), [Punya Selva](https://open.spotify.com/artist/6uvIzuYq1gO5Q4AkLwSIgw), [Navaneethakrishnan V](https://open.spotify.com/artist/5XanFej2Fdq1mJNcq89ymV) | [Kalyanathukku Menu En Kadhal \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/album/7E7E1r2niiRGflZxGzvLQg) | 3:57 | 2023-09-08 | 2024-03-29 |

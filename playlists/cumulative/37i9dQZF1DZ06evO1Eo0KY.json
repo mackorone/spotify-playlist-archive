@@ -749,6 +749,36 @@
     },
     {
       "album": {
+        "name": "THE PRYCE YOU PAY",
+        "url": "https://open.spotify.com/album/2cuQyw05LhSMjnTMejPUNS"
+      },
+      "artists": [
+        {
+          "name": "Slik Jack",
+          "url": "https://open.spotify.com/artist/2zfwgqJzNi5OdfJwFxpMYZ"
+        },
+        {
+          "name": "Vincent Pryce",
+          "url": "https://open.spotify.com/artist/2NOvOuKq4vuXLVKyxx8MC8"
+        },
+        {
+          "name": "Troy Dunnit",
+          "url": "https://open.spotify.com/artist/05dKYqnKFrjD0Fs4D7G00z"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151807,
+      "name": "DUHM PAYD",
+      "url": "https://open.spotify.com/track/3a5tWiIFOG4vBjKeIo6hB7"
+    },
+    {
+      "album": {
         "name": "Craven N",
         "url": "https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP"
       },
@@ -1280,7 +1310,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 156107,
       "name": "I Dont Care",
       "url": "https://open.spotify.com/track/1kPAOJIIzKPXuLNJ6nsVtz"
@@ -1424,6 +1454,32 @@
       "duration_ms": 134269,
       "name": "Look What You Done",
       "url": "https://open.spotify.com/track/5K2ueQB4fbPQANVWfJAs7E"
+    },
+    {
+      "album": {
+        "name": "THE PRYCE YOU PAY",
+        "url": "https://open.spotify.com/album/2cuQyw05LhSMjnTMejPUNS"
+      },
+      "artists": [
+        {
+          "name": "Slik Jack",
+          "url": "https://open.spotify.com/artist/2zfwgqJzNi5OdfJwFxpMYZ"
+        },
+        {
+          "name": "Vincent Pryce",
+          "url": "https://open.spotify.com/artist/2NOvOuKq4vuXLVKyxx8MC8"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "LOOT-CRATIVE",
+      "url": "https://open.spotify.com/track/5zk1MUiLf53dJAc9iXM9NS"
     },
     {
       "album": {
@@ -2518,7 +2574,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-14",
+      "date_removed": null,
       "duration_ms": 170736,
       "name": "The Intent of Vengeance",
       "url": "https://open.spotify.com/track/5XCsMIbMrgG4NPaFd66UtY"

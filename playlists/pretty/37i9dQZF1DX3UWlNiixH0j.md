@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 ### [Edge!](https://open.spotify.com/playlist/37i9dQZF1DX3UWlNiixH0j)
 
-> 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: ANORAK!
+> 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 柴田聡子 featuring Elle Teresa and Le Makeup
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,727 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,733 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fav Riff](https://open.spotify.com/track/07KqVSif7Kk3Hqk8Wcj2HZ) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [Fav Riff](https://open.spotify.com/album/6DQ2J7zVUZlcZqOD5lLSCw) | 3:09 |
+| 1 | [ときめき探偵](https://open.spotify.com/track/3Z27gNml8048d5NuyVaJkt) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj), [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc) | [ときめき探偵](https://open.spotify.com/album/5tOfvO9vg8CSWSvrnCzt9y) | 3:09 |
 | 2 | [HEBITORA](https://open.spotify.com/track/2PgtHgI0v78ELADdsWoXDs) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC) | [HEBITORA](https://open.spotify.com/album/7uGRLS4ZTCPASN8NoOsDky) | 4:17 |
-| 3 | [metro](https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP) | 3:58 |
+| 3 | [Fav Riff](https://open.spotify.com/track/07KqVSif7Kk3Hqk8Wcj2HZ) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [Fav Riff](https://open.spotify.com/album/6DQ2J7zVUZlcZqOD5lLSCw) | 3:09 |
 | 4 | [Punk Head](https://open.spotify.com/track/6wN8LtVvVqh8RyEtFRESdr) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Punk Head](https://open.spotify.com/album/4en5HpvQhcqTFQXerMbXtM) | 2:53 |
 | 5 | [走馬灯](https://open.spotify.com/track/78xKdtdcxkOedPTxeRCJpL) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [走馬灯](https://open.spotify.com/album/4D62Xo6sbsBymHPAQ5v0fV) | 5:14 |
 | 6 | [笑ったり転んだり](https://open.spotify.com/track/0zmzVQMhAdO5qKiQIRdImn) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [笑ったり転んだり](https://open.spotify.com/album/2rsFO81AwLT53Z1ZqlVr2V) | 3:14 |
 | 7 | [After that...](https://open.spotify.com/track/3h4VFjkuKs70dIXBCb5CcS) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [All About McGuffin](https://open.spotify.com/album/2G5FsWdPfY3zQKRUncRIa4) | 3:29 |
 | 8 | [ハイヤー](https://open.spotify.com/track/6omGRvCBWXsy4qWp203ed6) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [ハイヤー](https://open.spotify.com/album/09PLsBCJa3jcmNRMJgmJv0) | 4:36 |
-| 9 | [Changes](https://open.spotify.com/track/1SXxBTkWXjqilOMejMiKkZ) | [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX) | [GUM](https://open.spotify.com/album/5d8QdQJilmf1AeiMZ6SOSd) | 3:14 |
+| 9 | [Mudgikk](https://open.spotify.com/track/7cpGjiTyhMVaoX6Kx19BfB) | [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [Mudgikk](https://open.spotify.com/album/7vS6oAyS4pmlEhq2KRvRxZ) | 2:56 |
 | 10 | [レンタル神様](https://open.spotify.com/track/3XpS5myFyf5fWVhacy5vV1) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [レンタル神様](https://open.spotify.com/album/0dVFInlao33dyNldqM2bPK) | 2:27 |
 | 11 | [Hold Me Tight](https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Hold Me Tight](https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X) | 3:10 |
 | 12 | [Kitsunebi](https://open.spotify.com/track/63JMnAjfEAAmVADp0ilDoE) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [Kitsunebi](https://open.spotify.com/album/7IGwPtCpb7VSBAei4zJQzo) | 4:15 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 17 | [ことさら](https://open.spotify.com/track/7qkQVI205qumPd2D4Hgtv1) | [江沼郁弥](https://open.spotify.com/artist/73pLdo9qAhHq5k992znDeV) | [ことさら EP](https://open.spotify.com/album/4tj9Z1Iq4qnTqIXpzC90gu) | 3:38 |
 | 18 | [Aurora \- 2025 Mix](https://open.spotify.com/track/3jmn1QIIdSbLtDW4erB1e4) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Aurora](https://open.spotify.com/album/7AMmVmf01z7vpM9ytEqHso) | 6:27 |
 | 19 | [Diary 9](https://open.spotify.com/track/1t8SvlndvfSar6g8hcb9f8) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Diary 9](https://open.spotify.com/album/6Q1sJjqEGKYf3hS1hJwpO4) | 2:47 |
-| 20 | [Radio before school](https://open.spotify.com/track/38cVJLSwhxdfKmLfJtSx0g) | [Redhair Rosy](https://open.spotify.com/artist/1pVPvwB8EJnIDue4y5Oukc) | [Radio before school](https://open.spotify.com/album/3DrnmPifLOjAINaalSkIEe) | 4:22 |
+| 20 | [metro](https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP) | 3:58 |
 | 21 | [真空パック](https://open.spotify.com/track/06Jdx6d7n2AtyqSimjKjDx) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [真空パック](https://open.spotify.com/album/11ip0GjDMFhGKG4ic8LKPY) | 2:54 |
 | 22 | [涙のスイマー](https://open.spotify.com/track/0OUxpQVIoca5mB0JKSGop0) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [涙のスイマー](https://open.spotify.com/album/3Mi20D234lblgBeMJjdEZc) | 3:09 |
 | 23 | [未知](https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [SILVER](https://open.spotify.com/album/2lsPukvTQoecJl3WKcS0kY) | 4:01 |
@@ -59,11 +59,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 49 | [Magic](https://open.spotify.com/track/7LhFZAamVSW35NGGSMxwoZ) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Naked 4 Satan](https://open.spotify.com/album/2CzjVt14KokXk1Q6vGp925) | 4:41 |
 | 50 | [Called to the Shore](https://open.spotify.com/track/0v9yR19A5dss79Bb24M7aW) | [petalhead](https://open.spotify.com/artist/7qmQptfWpKjLSxu8EpvFPW) | [The Uncaging of a Paper Crane](https://open.spotify.com/album/2tkV918gVtMjEbQiRx4Xp7) | 2:15 |
 | 51 | [iPX](https://open.spotify.com/track/1zXxvSZvkPdHuWCVzKuVPX) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Podium](https://open.spotify.com/album/6o77fZj73QcB51LBaIli1v) | 2:39 |
-| 52 | [WHEN YOUR OWN INITIALS ARE ENOUGH](https://open.spotify.com/track/0huE46kfj5EC4TqEWw5Be5) | [Daiki Tsuneta](https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z) | [SUNDANCE FOR BOTTEGA VENETA](https://open.spotify.com/album/4Ds0rPkwGrxsHSqysy8IoR) | 3:09 |
-| 53 | [Ms.Sunshine](https://open.spotify.com/track/3PL0wgqzHGC88KAxQSysXC) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE), [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ) | [Ms.Sunshine](https://open.spotify.com/album/7j1l29Ti2xp76Dj0Q5XlLm) | 4:11 |
-| 54 | [CYM](https://open.spotify.com/track/5YxI2oZNEH9Axf77bdjOzE) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [CYM](https://open.spotify.com/album/3RVRFWPfplow0WTWgp0MLA) | 4:09 |
-| 55 | [DON'T MIND](https://open.spotify.com/track/1FXGYvzEiLNXnZkf6dyLio) | [HALLEY](https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2) | [DON'T MIND](https://open.spotify.com/album/58bcwv5RRy4giKo4im4yCa) | 3:35 |
-| 56 | [Brutalist](https://open.spotify.com/track/6rWMUmCe2TQyG46glwRWRK) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Fibril](https://open.spotify.com/album/3Vh81JC3iRRG8UTOMkTT6P) | 2:54 |
+| 52 | [Ms.Sunshine](https://open.spotify.com/track/3PL0wgqzHGC88KAxQSysXC) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE), [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ) | [Ms.Sunshine](https://open.spotify.com/album/7j1l29Ti2xp76Dj0Q5XlLm) | 4:11 |
+| 53 | [CYM](https://open.spotify.com/track/5YxI2oZNEH9Axf77bdjOzE) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [CYM](https://open.spotify.com/album/3RVRFWPfplow0WTWgp0MLA) | 4:09 |
+| 54 | [WHEN YOUR OWN INITIALS ARE ENOUGH](https://open.spotify.com/track/0huE46kfj5EC4TqEWw5Be5) | [Daiki Tsuneta](https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z) | [SUNDANCE FOR BOTTEGA VENETA](https://open.spotify.com/album/4Ds0rPkwGrxsHSqysy8IoR) | 3:09 |
+| 55 | [Brutalist](https://open.spotify.com/track/6rWMUmCe2TQyG46glwRWRK) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Fibril](https://open.spotify.com/album/3Vh81JC3iRRG8UTOMkTT6P) | 2:54 |
+| 56 | [DON'T MIND](https://open.spotify.com/track/1FXGYvzEiLNXnZkf6dyLio) | [HALLEY](https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2) | [DON'T MIND](https://open.spotify.com/album/58bcwv5RRy4giKo4im4yCa) | 3:35 |
 | 57 | [munasawagi](https://open.spotify.com/track/3X89N0OmGkTzA0Uh7tlOE1) | [E.scene](https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5) | [munasawagi](https://open.spotify.com/album/3Ela3PqIlOWWchjJbbJi0x) | 3:27 |
 | 58 | [MISS WORLD](https://open.spotify.com/track/3R0i1KADblDL0zwBbLyDBO) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [ART\-SCHOOL 25th Anniversary Tribute Album『Dreams Never End』](https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc) | 2:21 |
 | 59 | [夢から覚めても](https://open.spotify.com/track/49nGw1NKcK4nZb8x1MzY6S) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [夢から覚めても](https://open.spotify.com/album/3rKdvf8j7KV3284iDpCrOU) | 3:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 74 | [Iikanji \(feat\. STUTS\)](https://open.spotify.com/track/5xRtpYsJFwKFcGExC1OiRX) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Secure +](https://open.spotify.com/album/0HuPcRSbeYwUMfZet6LaAf) | 4:10 |
 | 75 | [NEON TOKYO](https://open.spotify.com/track/1Vhe6NNoxa3YpSeymrmoVQ) | [FUJIBASE](https://open.spotify.com/artist/3MObmQRPLt9gTkOmMudG66) | [NEON TOKYO](https://open.spotify.com/album/5YRg8VJpj2k5nybZHHsSdN) | 3:38 |
 
-Snapshot ID: `AAAAAKHViepMP3hIGu+TCT+ti1aSge/w`
+Snapshot ID: `AAAAAC1UOBtd98mAxiM4dMJsZKaCh010`

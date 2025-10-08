@@ -6806,7 +6806,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 241648,
       "name": "COQUETA",
       "url": "https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV"
@@ -8637,6 +8637,24 @@
     },
     {
       "album": {
+        "name": "DON",
+        "url": "https://open.spotify.com/album/1UHk8OusJjOpu98S584pkd"
+      },
+      "artists": [
+        {
+          "name": "SIN DATOS",
+          "url": "https://open.spotify.com/artist/6nR7tpxkxQxYjiYXMoETcj"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214376,
+      "name": "DON",
+      "url": "https://open.spotify.com/track/1EUfTmQQ4cdhRXrqrfdIo8"
+    },
+    {
+      "album": {
         "name": "(What's The Story) Morning Glory? [Remastered]",
         "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
       },
@@ -8754,7 +8772,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 192974,
       "name": "Dorada - Golden - versi\u00f3n en espa\u00f1ol",
       "url": "https://open.spotify.com/track/03x2Hzommc7gHp1rqh0xBC"
@@ -9252,7 +9270,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 234773,
       "name": "El Amar y el Querer",
       "url": "https://open.spotify.com/track/7wUt1v2ddVqPayC8EKDp5P"
@@ -13486,6 +13504,32 @@
       "duration_ms": 226517,
       "name": "Hasta la Ra\u00edz",
       "url": "https://open.spotify.com/track/0pB4d4r8diKBHMEHoYkQMP"
+    },
+    {
+      "album": {
+        "name": "HASTA QUE ME ENAMORO",
+        "url": "https://open.spotify.com/album/0QqDczkevW20da9kiN9O3Q"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "XROSS",
+          "url": "https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180881,
+      "name": "HASTA QUE ME ENAMORO",
+      "url": "https://open.spotify.com/track/1x2NX2wwyb47DINKGe314l"
     },
     {
       "album": {
@@ -17848,7 +17892,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 201706,
       "name": "Los Mayores",
       "url": "https://open.spotify.com/track/3PzRozh21ZFHP5bAoQ953l"
@@ -20375,6 +20419,32 @@
     },
     {
       "album": {
+        "name": "La Casa De La Cumbia vol.1",
+        "url": "https://open.spotify.com/album/0GHBhM6ApWzKRsF0QDV3Pi"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218392,
+      "name": "Mix Cumbia 2",
+      "url": "https://open.spotify.com/track/2UW5a8dLjIBLxULU1hPpsl"
+    },
+    {
+      "album": {
         "name": "Mix Cumbia VV2 (Herederos, C\u00f3mo Mirarte, Vas A Quedarte)",
         "url": "https://open.spotify.com/album/2VI04KRaGZceSu0Y57PNHg"
       },
@@ -21156,6 +21226,24 @@
       "duration_ms": 118081,
       "name": "MOTINHA 2.0 (Mete Marcha) - Remix",
       "url": "https://open.spotify.com/track/2iDDnYmaz1HhedjI91fbmp"
+    },
+    {
+      "album": {
+        "name": "Oktubre",
+        "url": "https://open.spotify.com/album/0TmPRZoau8M0QIfnMgwrlI"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296133,
+      "name": "Motor Psico",
+      "url": "https://open.spotify.com/track/4hj7NZmMJZjjRTr0f2hjE0"
     },
     {
       "album": {
@@ -25196,6 +25284,28 @@
       "duration_ms": 149072,
       "name": "Perreando Sola",
       "url": "https://open.spotify.com/track/4Mj7m2CEZojrkHQmzihuJ3"
+    },
+    {
+      "album": {
+        "name": "PERREO TH 7",
+        "url": "https://open.spotify.com/album/26401Ef0GUqPRcQI07uqpG"
+      },
+      "artists": [
+        {
+          "name": "Dj Plaga",
+          "url": "https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr"
+        },
+        {
+          "name": "mamiyosoyelth",
+          "url": "https://open.spotify.com/artist/0WeYfeSY8u5DBuDSu1f7s5"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130384,
+      "name": "PERREO TH 7",
+      "url": "https://open.spotify.com/track/1xVC7ab21v6dK03j0f9bgU"
     },
     {
       "album": {
@@ -33498,7 +33608,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 112483,
       "name": "TUNG SAHUR \u2013 BZRT Session (Todos Quieren Tung!)",
       "url": "https://open.spotify.com/track/1rG7NGFQBn6znMMCIDCEEN"
@@ -35617,6 +35727,24 @@
     },
     {
       "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196795,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+    },
+    {
+      "album": {
         "name": "WHINE IN BRAZIL FUNK",
         "url": "https://open.spotify.com/album/6tuTOSJX2SjH8JBsh5uM30"
       },
@@ -36118,7 +36246,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 138716,
       "name": "XPORT",
       "url": "https://open.spotify.com/track/44xNuxgOBy2gcNBxQxhzC5"

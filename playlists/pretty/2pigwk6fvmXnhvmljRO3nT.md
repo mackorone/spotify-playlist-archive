@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,703 songs - 19 day 21 hr 43 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,704 songs - 19 day 21 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7711,5 +7711,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7701 | [The Very First Fairy Tale Theater](https://open.spotify.com/track/7pS7a8sMyW8hfr8in6Fcuy) | [Wuthering Waves](https://open.spotify.com/artist/4NJxtQzTTeO3ObGlBcxVAh), [TreeO3O](https://open.spotify.com/artist/2Blfr5X3eyNKjcRkDh4xSv) | [Into the Depths](https://open.spotify.com/album/7IY2C495boRx3P5bTmdt3N) | 2:39 |
 | 7702 | [Adventure in the Wooly Kingdom](https://open.spotify.com/track/26NIrZaXWrERpMNQ1cwajn) | [Wuthering Waves](https://open.spotify.com/artist/4NJxtQzTTeO3ObGlBcxVAh), [沐可Linda](https://open.spotify.com/artist/5cI1KAMsGNyEp9xjVhOe5F) | [Into the Depths](https://open.spotify.com/album/7IY2C495boRx3P5bTmdt3N) | 1:37 |
 | 7703 | [Wooly Warrior Strikes!](https://open.spotify.com/track/1PJwqWA17qJanpEDhpWAx3) | [Wuthering Waves](https://open.spotify.com/artist/4NJxtQzTTeO3ObGlBcxVAh), [沐可Linda](https://open.spotify.com/artist/5cI1KAMsGNyEp9xjVhOe5F) | [Into the Depths](https://open.spotify.com/album/7IY2C495boRx3P5bTmdt3N) | 1:12 |
+| 7704 | [Sweet Boy](https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 3:00 |
 
-Snapshot ID: `AAAJE2NMNoWuJm+PpdA9gsdZzl8Aat8M`
+Snapshot ID: `AAAJFOiTJb7IYTKr20OUEzAQjtd7Mqam`

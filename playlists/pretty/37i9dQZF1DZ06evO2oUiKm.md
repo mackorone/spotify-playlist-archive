@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 
 > This is Cynthia Erivo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,364 likes - 48 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,363 likes - 49 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 | 42 | [I Don't Know How to Love Him](https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [She is Risen: Volume One](https://open.spotify.com/album/2uJcWqNs9jz23tEzpXe6IE) | 4:19 |
 | 43 | [Everything's Alright](https://open.spotify.com/track/3xO030eZebHF82IMjz626q) | [Morgan James](https://open.spotify.com/artist/56cxpytHZalu41uOraqsB4), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Shoshana Bean](https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5) | [She Is Risen, Vol\. 2](https://open.spotify.com/album/1HfkVtVSe4OQqpFLSmT94X) | 4:16 |
 | 44 | [Bridge Over Troubled Water](https://open.spotify.com/track/3oYfGUdhyhlHRrb29EVdrA) | [Alison Jiear](https://open.spotify.com/artist/7JpWm6GJgOca4w9WejYES8), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Inspirational](https://open.spotify.com/album/4l3nsPf67pl9mqggEpmVVZ) | 6:00 |
-| 45 | [Our Prayer](https://open.spotify.com/track/6BmnVvND7DHAZs5SgzRPF3) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Joaquina Kalukango](https://open.spotify.com/artist/0QcsX0a3SZO3F61Thbx1jb), [Isaiah Johnson](https://open.spotify.com/artist/7MYNM3h4lEjuKcOqiqNVhB), [Kevyn Morrow](https://open.spotify.com/artist/1MjW1SNPKPd5gyt7JpK7z3) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 4:38 |
-| 46 | [I've Already Won](https://open.spotify.com/track/6CiLixdgvog7l1tY18vEaz) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Cynthia Erivo and Oliver Tompsett Sing Scott Alan](https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt) | 3:07 |
-| 47 | [Big Dog](https://open.spotify.com/track/6TSIuLcb2iuuaCO84h7JoI) | [Isaiah Johnson](https://open.spotify.com/artist/7MYNM3h4lEjuKcOqiqNVhB), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 2:42 |
-| 48 | [Take Me Away](https://open.spotify.com/track/7pYnM6Ot9LQjrkYfSy2V8a) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Scott Alan](https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy) | [Cynthia Erivo and Oliver Tompsett Sing Scott Alan](https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt) | 3:58 |
+| 45 | [I've Already Won](https://open.spotify.com/track/6CiLixdgvog7l1tY18vEaz) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Cynthia Erivo and Oliver Tompsett Sing Scott Alan](https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt) | 3:07 |
+| 46 | [Our Prayer](https://open.spotify.com/track/6BmnVvND7DHAZs5SgzRPF3) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Joaquina Kalukango](https://open.spotify.com/artist/0QcsX0a3SZO3F61Thbx1jb), [Isaiah Johnson](https://open.spotify.com/artist/7MYNM3h4lEjuKcOqiqNVhB), [Kevyn Morrow](https://open.spotify.com/artist/1MjW1SNPKPd5gyt7JpK7z3) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 4:38 |
+| 47 | [Always / Goodnight](https://open.spotify.com/track/2lthIAIwXMyIYnEAPQfbP1) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Oliver Tompsett](https://open.spotify.com/artist/10uOf0MNfjh90mGfD1bS6Q), [Scott Alan](https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy) | [Cynthia Erivo and Oliver Tompsett Sing Scott Alan](https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt) | 7:43 |
+| 48 | [Big Dog](https://open.spotify.com/track/6TSIuLcb2iuuaCO84h7JoI) | [Isaiah Johnson](https://open.spotify.com/artist/7MYNM3h4lEjuKcOqiqNVhB), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 2:42 |
+| 49 | [Take Me Away](https://open.spotify.com/track/7pYnM6Ot9LQjrkYfSy2V8a) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Scott Alan](https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy) | [Cynthia Erivo and Oliver Tompsett Sing Scott Alan](https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt) | 3:58 |
 
-Snapshot ID: `aOG1AAAAAAD9GzEY+J0HbCQSZC0XGYhZ`
+Snapshot ID: `aOMGgAAAAABsW+cQqyNle5q6uMErPq2F`

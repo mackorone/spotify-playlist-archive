@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 80. ",
-  "num_followers": 208959,
+  "num_followers": 209103,
   "original_name": "Pop Latino: Los 80",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-06-12 20:35:23",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/3y1nIDv3YFYPl0Z8ZdyQ9d"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 287373,
-      "name": "Toda la Vida",
-      "url": "https://open.spotify.com/track/3bekxMTpuHXZXjvuGWtBx5"
-    },
-    {
-      "added_at": "2024-06-12 20:35:23",
-      "album": {
         "name": "La Historia",
         "url": "https://open.spotify.com/album/2NN9Cm20CPmuzlbCqeaHGH"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 241733,
       "name": "No Huyas de Mi",
       "url": "https://open.spotify.com/track/4Zt2Sl24XNWTMOUhJNDwdx"
+    },
+    {
+      "added_at": "2024-06-12 20:35:23",
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/3y1nIDv3YFYPl0Z8ZdyQ9d"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 287373,
+      "name": "Toda la Vida",
+      "url": "https://open.spotify.com/track/3bekxMTpuHXZXjvuGWtBx5"
     },
     {
       "added_at": "2024-06-12 20:35:23",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-06-12 20:35:23",
       "album": {
-        "name": "Roberto Carlos (1985 Remasterizado)",
-        "url": "https://open.spotify.com/album/0Q1CavPzrjhyUedyl5xnhJ"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 278813,
-      "name": "S\u00edmbolo Sexual - Vers\u00e3o Remasterizada",
-      "url": "https://open.spotify.com/track/24c5K7vB2ZGJ6JqC2xCciJ"
-    },
-    {
-      "added_at": "2024-06-12 20:35:23",
-      "album": {
         "name": "Franco De Vita Vuelve en Primera Fila",
         "url": "https://open.spotify.com/album/2KwMBLrvM82Kxm18H5bxdw"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 203626,
       "name": "S\u00f3lo Importas T\u00fa - Vuelve en Primera Fila - Live Version",
       "url": "https://open.spotify.com/track/0zSSrYm8xdq09m5RePUg2p"
+    },
+    {
+      "added_at": "2024-06-12 20:35:23",
+      "album": {
+        "name": "Roberto Carlos (1985 Remasterizado)",
+        "url": "https://open.spotify.com/album/0Q1CavPzrjhyUedyl5xnhJ"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 278813,
+      "name": "S\u00edmbolo Sexual - Vers\u00e3o Remasterizada",
+      "url": "https://open.spotify.com/track/24c5K7vB2ZGJ6JqC2xCciJ"
     }
   ],
   "unique_name": "Pop Latino: Los 80",

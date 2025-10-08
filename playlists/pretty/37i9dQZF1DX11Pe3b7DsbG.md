@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 
 > Um bom sambinha para acompanhar cada gole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,603 likes - 65 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,599 likes - 65 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 16 | [Feijoada Completa](https://open.spotify.com/track/7MxVCTR3xD55xikxKiGCrv) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque](https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR) | 2:51 |
 | 17 | [Gostoso Veneno](https://open.spotify.com/track/2gfSAH2Cim8mwv4VPsqvId) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Gostoso Veneno](https://open.spotify.com/album/3GVTWsxdNM3yBnjS6r5wbO) | 3:15 |
 | 18 | [Foi Um Rio Que Passou Em Minha Vida](https://open.spotify.com/track/7mkvi46DO25BAkcD9OWrpz) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Eu Sou O Samba](https://open.spotify.com/album/5F3t6SwYT1S8RITt8lvHd6) | 2:35 |
-| 19 | [Alma Boêmia \- Ao Vivo](https://open.spotify.com/track/54pvIGtbbIUy5qhVNPDfCt) | [Toninho Geraes](https://open.spotify.com/artist/1XavFymdZWNz3HyS5jkStp) | [Tudo Que Sou, Vol\. 1: Fragmentos \(Ao Vivo\)](https://open.spotify.com/album/17clMnpX0WwlXFt3v7rmEW) | 4:27 |
-| 20 | [Sambista Perfeito](https://open.spotify.com/track/1HInYWLAypJkiyUbmaJE4E) | [Arlindo Cruz](https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP) | [Sambista Perfeito](https://open.spotify.com/album/3HuBoelQqiwD47mpONUHQw) | 3:46 |
+| 19 | [Sambista Perfeito](https://open.spotify.com/track/1HInYWLAypJkiyUbmaJE4E) | [Arlindo Cruz](https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP) | [Sambista Perfeito](https://open.spotify.com/album/3HuBoelQqiwD47mpONUHQw) | 3:46 |
+| 20 | [Alma Boêmia \- Ao Vivo](https://open.spotify.com/track/54pvIGtbbIUy5qhVNPDfCt) | [Toninho Geraes](https://open.spotify.com/artist/1XavFymdZWNz3HyS5jkStp) | [Tudo Que Sou, Vol\. 1: Fragmentos \(Ao Vivo\)](https://open.spotify.com/album/17clMnpX0WwlXFt3v7rmEW) | 4:27 |
 | 21 | [Deixa A Vida Me Levar \- Ao Vivo](https://open.spotify.com/track/3ADuEIn09NAZIBgpYY3IsE) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Zeca Pagodinho \- Uma Prova De Amor Ao Vivo \(Deluxe\)](https://open.spotify.com/album/4rDMla3wFYoWfhcoUQ5XuC) | 3:14 |
 | 22 | [Gente](https://open.spotify.com/track/4N2qVdPVkeBX0d89WflVbc) | [Xande de Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Xande Canta Caetano](https://open.spotify.com/album/7DG96zvwE2rauCCLwO1JWV) | 3:55 |
 | 23 | [Quando o povo entra na dança](https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Sentimento Brasileiro](https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP) | 2:51 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,289 likes - 48 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,296 likes - 48 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 38 | [Fui feliz](https://open.spotify.com/track/64zw8El0ildtgzXAjGQvDH) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22) | 3:58 |
 | 39 | [Asfixiar](https://open.spotify.com/track/6BELut3GHFznGKbftZC8qu) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou) | 3:38 |
 | 40 | [No Me Atrevo a Preguntar](https://open.spotify.com/track/7BTbrZ5iNXtxCrDzBB0CL8) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe) | 3:39 |
-| 41 | [Látigo de Fuego](https://open.spotify.com/track/5B3bU3NkZSVtfAGUg6TSzP) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Látigo de Fuego](https://open.spotify.com/album/4fEsXRXacqDQ3qvvIuq5Ua) | 3:51 |
-| 42 | [Lo Bueno De Morir De Amor](https://open.spotify.com/track/2DpYiGRJs5JG7FhUYdLbLL) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Lo Bueno De Morir De Amor](https://open.spotify.com/album/4vSwsgx95TJGwGXOnQbE5w) | 4:00 |
+| 41 | [Lo Bueno De Morir De Amor](https://open.spotify.com/track/2DpYiGRJs5JG7FhUYdLbLL) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Lo Bueno De Morir De Amor](https://open.spotify.com/album/4vSwsgx95TJGwGXOnQbE5w) | 4:00 |
+| 42 | [Látigo de Fuego](https://open.spotify.com/track/5B3bU3NkZSVtfAGUg6TSzP) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Látigo de Fuego](https://open.spotify.com/album/4fEsXRXacqDQ3qvvIuq5Ua) | 3:51 |
 | 43 | [Miel](https://open.spotify.com/track/3hno9MGIoj6WL9GfXWSYBT) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22) | 4:57 |
 | 44 | [Carne \- En Vivo](https://open.spotify.com/track/0DWKN008tO0MAwil7cVSDE) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Claudio Valenzuela](https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE) | [Carne \(En Vivo\)](https://open.spotify.com/album/5xT4omRJmTehWIb1y9LT4e) | 5:59 |
 | 45 | [Sombras Destino \- Demo 2008](https://open.spotify.com/track/6HXe1dC9JFnLNiG9Q6tOA9) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Sombras Destino \(Demo 2008\)](https://open.spotify.com/album/3XC8YVXmcojg9Qbm6e9YGo) | 4:04 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 47 | [Brígida](https://open.spotify.com/track/2wl5Cvzz0t3xmakrka5Ccs) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22) | 3:35 |
 | 48 | [Zona de Promesas](https://open.spotify.com/track/4rrPKDbLso4ULMJantCqKQ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Te Veré Volver](https://open.spotify.com/album/2CahCULExuW3iofQgmRPyZ) | 4:47 |
 
-Snapshot ID: `aOG1AAAAAACSeec2r29a+pZhIGlTBPwh`
+Snapshot ID: `aOMGgAAAAAAkWtwTvQG+HV42sH6LhW27`

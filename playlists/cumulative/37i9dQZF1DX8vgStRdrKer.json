@@ -932,7 +932,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 638848,
       "name": "Amour inconditionnel",
       "url": "https://open.spotify.com/track/5WHsP1k6Pho0PMc9aTtESm"
@@ -1836,7 +1836,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 223928,
       "name": "Chante",
       "url": "https://open.spotify.com/track/5IR1HN5u67s98hxOf9w8ci"
@@ -3402,6 +3402,24 @@
       "duration_ms": 269690,
       "name": "Follow",
       "url": "https://open.spotify.com/track/7b5e5nKJgah812BhsxeJHg"
+    },
+    {
+      "album": {
+        "name": "FOLLOW FOREVER",
+        "url": "https://open.spotify.com/album/5wCDBz912y4QcstCd1ljYr"
+      },
+      "artists": [
+        {
+          "name": "Joepraize",
+          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 584813,
+      "name": "FOLLOW FOREVER",
+      "url": "https://open.spotify.com/track/6UUZGmsJ3MWJ2wT49eIvPH"
     },
     {
       "album": {
@@ -10830,6 +10848,24 @@
       "duration_ms": 300000,
       "name": "There For Me",
       "url": "https://open.spotify.com/track/0zCbKPSaCVRei5kmuWqlpw"
+    },
+    {
+      "album": {
+        "name": "There Is More (Live)",
+        "url": "https://open.spotify.com/album/6Cc7MR1Qigu61upFp6RZNb"
+      },
+      "artists": [
+        {
+          "name": "Esther Jonathan",
+          "url": "https://open.spotify.com/artist/2VwZIHK1W8Izjud3aASxA9"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326565,
+      "name": "There Is More - Live",
+      "url": "https://open.spotify.com/track/4ZkSdzNLmrUk5xRdZFx9PL"
     },
     {
       "album": {

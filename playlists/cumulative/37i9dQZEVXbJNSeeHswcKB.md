@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belgium.
 
-2,016 songs - 4 day 14 hr 23 min
+2,017 songs - 4 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1149,6 +1149,7 @@
 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 | 2021-11-10 | 2021-12-17 |
 | [meet the grahams](https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [meet the grahams](https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0) | 6:32 | 2024-05-07 | 2024-05-09 |
 | [Mele Kalikimaka \(Merry Christmas\)](https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [White Christmas](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) | 2:55 | 2024-12-25 | 2024-12-28 |
+| [melodrama](https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [melodrama](https://open.spotify.com/album/5wFsZ4iXAggxIVNZRJogvr) | 2:56 | 2025-10-07 |  |
 | [Melrose Place](https://open.spotify.com/track/3SBBYSbzkLvx96bKzneYsF) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Focus Mentalité](https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA) | 2:36 | 2025-04-23 | 2025-09-12 |
 | [MELTDOWN \(feat\. Drake\)](https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:06 | 2023-07-29 | 2023-08-12 |
 | [Memories \(feat\. Kid Cudi\)](https://open.spotify.com/track/4dTaAiV9xFFCxnPur9c9yL) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [One Love \(Deluxe\)](https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI) | 3:30 | 2024-01-01 | 2024-01-03 |
@@ -1817,7 +1818,7 @@
 | [Trojan Horse](https://open.spotify.com/track/2HALQBSAvpw1oCzL5QsrT2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 4:08 | 2023-06-06 | 2023-06-09 |
 | [Trompeta](https://open.spotify.com/track/181AxLRTyYh9WUxEjmJt1Y) | [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Trompeta](https://open.spotify.com/album/0x8fxnTkzXKsZVzdZ6Qxka) | 2:48 | 2022-04-13 | 2022-09-17 |
 | [Trouble](https://open.spotify.com/track/59151GHN7yr5g9B3bqlGdR) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 0:41 | 2024-07-13 | 2024-07-15 |
-| [Trouwen](https://open.spotify.com/track/37Qz85BgJQ0L5QfXNp2AT9) | [K3](https://open.spotify.com/artist/1eZrOVQ8ady3sDTNdG9E4D) | [Ya Ya Yippee](https://open.spotify.com/album/69cWHRDLRwr6yIzSjoQKTB) | 3:04 | 2025-03-25 |  |
+| [Trouwen](https://open.spotify.com/track/37Qz85BgJQ0L5QfXNp2AT9) | [K3](https://open.spotify.com/artist/1eZrOVQ8ady3sDTNdG9E4D) | [Ya Ya Yippee](https://open.spotify.com/album/69cWHRDLRwr6yIzSjoQKTB) | 3:04 | 2025-03-25 | 2025-10-08 |
 | [Troy](https://open.spotify.com/track/4ZbrvxwWPNX0MgbubsqbZG) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 6:31 | 2023-07-28 | 2023-07-30 |
 | [TRUSTFALL](https://open.spotify.com/track/1gUwi1o1S9W9P0FQgJdY8s) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:57 | 2023-03-07 | 2023-07-30 |
 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 | 2023-02-05 | 2023-02-11 |

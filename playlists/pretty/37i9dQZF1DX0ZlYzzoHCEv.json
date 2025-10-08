@@ -1,6 +1,6 @@
 {
   "description": "musica per quando non sai insomma come",
-  "num_followers": 70776,
+  "num_followers": 70780,
   "original_name": "la mia testa:",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-08-06 14:12:36",
       "album": {
-        "name": "METAMORPHOSIS",
-        "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
-      },
-      "artists": [
-        {
-          "name": "INTERWORLD",
-          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
-        }
-      ],
-      "duration_ms": 142839,
-      "name": "METAMORPHOSIS",
-      "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
-    },
-    {
-      "added_at": "2024-08-06 14:12:36",
-      "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 151739,
       "name": "Apple",
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
+    },
+    {
+      "added_at": "2024-08-06 14:12:36",
+      "album": {
+        "name": "METAMORPHOSIS",
+        "url": "https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D"
+      },
+      "artists": [
+        {
+          "name": "INTERWORLD",
+          "url": "https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN"
+        }
+      ],
+      "duration_ms": 142839,
+      "name": "METAMORPHOSIS",
+      "url": "https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz"
     },
     {
       "added_at": "2024-08-06 14:12:36",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-08-06 14:12:36",
       "album": {
+        "name": "moment",
+        "url": "https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m"
+      },
+      "artists": [
+        {
+          "name": "Vierre Cloud",
+          "url": "https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl"
+        }
+      ],
+      "duration_ms": 129543,
+      "name": "moment",
+      "url": "https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq"
+    },
+    {
+      "added_at": "2024-08-06 14:12:36",
+      "album": {
         "name": "MONTAGEM - PR FUNK",
         "url": "https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 61634,
       "name": "MONTAGEM - PR FUNK",
       "url": "https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"
-    },
-    {
-      "added_at": "2024-08-06 14:12:36",
-      "album": {
-        "name": "moment",
-        "url": "https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m"
-      },
-      "artists": [
-        {
-          "name": "Vierre Cloud",
-          "url": "https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl"
-        }
-      ],
-      "duration_ms": 129543,
-      "name": "moment",
-      "url": "https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq"
     },
     {
       "added_at": "2024-08-06 14:12:36",

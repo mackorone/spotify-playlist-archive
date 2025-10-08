@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105612,
+  "num_followers": 105628,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-10-02 22:00:52",
       "album": {
-        "name": "DON'T TAP THE GLASS",
-        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 201869,
-      "name": "Ring Ring Ring",
-      "url": "https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt"
-    },
-    {
-      "added_at": "2025-10-02 22:00:52",
-      "album": {
         "name": "Dracula",
         "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
+    },
+    {
+      "added_at": "2025-10-02 22:00:52",
+      "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 201869,
+      "name": "Ring Ring Ring",
+      "url": "https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt"
     },
     {
       "added_at": "2025-10-02 22:00:52",
@@ -507,6 +507,22 @@
     {
       "added_at": "2025-10-02 22:00:52",
       "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA"
+    },
+    {
+      "added_at": "2025-10-02 22:00:52",
+      "album": {
         "name": "DOG HOUSE",
         "url": "https://open.spotify.com/album/3r4vAHYjjrGp84E0g909W6"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 190010,
       "name": "DOG HOUSE (feat. Julia Wolf & Yeat)",
       "url": "https://open.spotify.com/track/47Sa7pC00F7D5Z0i7HC5la"
-    },
-    {
-      "added_at": "2025-10-02 22:00:52",
-      "album": {
-        "name": "Loser",
-        "url": "https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 223069,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA"
     },
     {
       "added_at": "2025-10-02 22:00:52",
@@ -627,8 +627,8 @@
     {
       "added_at": "2025-10-02 22:00:52",
       "album": {
-        "name": "d\u00a3aler",
-        "url": "https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde"
+        "name": "I\u2019m Only F**king Myself",
+        "url": "https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 160666,
-      "name": "d\u00a3aler",
-      "url": "https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R"
+      "duration_ms": 261959,
+      "name": "Post Sex Clarity",
+      "url": "https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg"
     },
     {
       "added_at": "2025-10-02 22:00:52",
@@ -715,8 +715,8 @@
     {
       "added_at": "2025-10-02 22:00:52",
       "album": {
-        "name": "I\u2019m Only F**king Myself",
-        "url": "https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts"
+        "name": "d\u00a3aler",
+        "url": "https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 261959,
-      "name": "Post Sex Clarity",
-      "url": "https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg"
+      "duration_ms": 160666,
+      "name": "d\u00a3aler",
+      "url": "https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R"
     },
     {
       "added_at": "2025-10-02 22:00:52",
@@ -743,22 +743,6 @@
       "duration_ms": 432566,
       "name": "End Of Summer",
       "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
-    },
-    {
-      "added_at": "2025-10-02 22:00:52",
-      "album": {
-        "name": "Drum Show",
-        "url": "https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 203773,
-      "name": "Drum Show",
-      "url": "https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX"
     },
     {
       "added_at": "2025-10-02 22:00:52",
@@ -783,18 +767,18 @@
     {
       "added_at": "2025-10-02 22:00:52",
       "album": {
-        "name": "A Little More",
-        "url": "https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X"
+        "name": "Drum Show",
+        "url": "https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 192043,
-      "name": "A Little More",
-      "url": "https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans"
+      "duration_ms": 203773,
+      "name": "Drum Show",
+      "url": "https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX"
     },
     {
       "added_at": "2025-10-02 22:00:52",
@@ -811,6 +795,22 @@
       "duration_ms": 169294,
       "name": "Call On Me",
       "url": "https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC"
+    },
+    {
+      "added_at": "2025-10-02 22:00:52",
+      "album": {
+        "name": "A Little More",
+        "url": "https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 192043,
+      "name": "A Little More",
+      "url": "https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans"
     },
     {
       "added_at": "2025-10-02 22:00:52",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-10-02 22:00:52",
       "album": {
-        "name": "Fast",
-        "url": "https://open.spotify.com/album/5Gxs3DFHTwi9yeE5Uj64uI"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Fast",
-      "url": "https://open.spotify.com/track/0o7fAE9dLRLx4kGMh3QFot"
-    },
-    {
-      "added_at": "2025-10-02 22:00:52",
-      "album": {
         "name": "Moon",
         "url": "https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2025-10-02 22:00:52",
       "album": {
-        "name": "BITE ME",
-        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
+        "name": "Fast",
+        "url": "https://open.spotify.com/album/5Gxs3DFHTwi9yeE5Uj64uI"
       },
       "artists": [
         {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "duration_ms": 192260,
-      "name": "Shy",
-      "url": "https://open.spotify.com/track/2N6md2JtrNake4sJ14KJ72"
+      "duration_ms": 181586,
+      "name": "Fast",
+      "url": "https://open.spotify.com/track/0o7fAE9dLRLx4kGMh3QFot"
     },
     {
       "added_at": "2025-10-02 22:00:52",
@@ -1011,6 +995,38 @@
       "duration_ms": 302653,
       "name": "The Big Goodbye",
       "url": "https://open.spotify.com/track/2VvdnhGdRYqYCenXLh6rJ4"
+    },
+    {
+      "added_at": "2025-10-02 22:00:52",
+      "album": {
+        "name": "BITE ME",
+        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 192260,
+      "name": "Shy",
+      "url": "https://open.spotify.com/track/2N6md2JtrNake4sJ14KJ72"
+    },
+    {
+      "added_at": "2025-10-02 22:00:52",
+      "album": {
+        "name": "Sex Hysteria",
+        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 168247,
+      "name": "1965",
+      "url": "https://open.spotify.com/track/1CnEPh46C45T7xv3ZEBb9h"
     },
     {
       "added_at": "2025-10-02 22:00:52",
@@ -1035,22 +1051,6 @@
       "duration_ms": 193502,
       "name": "Talk to Me (feat. Tyla, Nile Rodgers)",
       "url": "https://open.spotify.com/track/2S8LwZ3Jdjq4R1U2PHxBhn"
-    },
-    {
-      "added_at": "2025-10-02 22:00:52",
-      "album": {
-        "name": "Sex Hysteria",
-        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 168247,
-      "name": "1965",
-      "url": "https://open.spotify.com/track/1CnEPh46C45T7xv3ZEBb9h"
     },
     {
       "added_at": "2025-10-02 22:00:52",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-10-02 22:00:52",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 177118,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF"
-    },
-    {
-      "added_at": "2025-10-02 22:00:52",
-      "album": {
         "name": "DEPRESSED",
         "url": "https://open.spotify.com/album/4wdp5hBwGx9AgqUoiCCDUV"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 138332,
       "name": "DEPRESSED",
       "url": "https://open.spotify.com/track/1kO8TSZU0ORR4eJpirLPGW"
+    },
+    {
+      "added_at": "2025-10-02 22:00:52",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 177118,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF"
     },
     {
       "added_at": "2025-10-02 22:00:52",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-10-02 22:00:52",
       "album": {
-        "name": "SPIDERS",
-        "url": "https://open.spotify.com/album/1PndzdLW2Ykd36TDbkKuNF"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 267520,
-      "name": "SPIDERS",
-      "url": "https://open.spotify.com/track/0ARuTkOpeNxlsSpLVlpaIJ"
-    },
-    {
-      "added_at": "2025-10-02 22:00:52",
-      "album": {
         "name": "Gyatt",
         "url": "https://open.spotify.com/album/6mJonxS4QLPYRzYYmjnZwV"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 137733,
       "name": "Gyatt",
       "url": "https://open.spotify.com/track/3srvOwMjHkTEmjphUucVip"
+    },
+    {
+      "added_at": "2025-10-02 22:00:52",
+      "album": {
+        "name": "SPIDERS",
+        "url": "https://open.spotify.com/album/1PndzdLW2Ykd36TDbkKuNF"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 267520,
+      "name": "SPIDERS",
+      "url": "https://open.spotify.com/track/0ARuTkOpeNxlsSpLVlpaIJ"
     },
     {
       "added_at": "2025-10-02 22:00:52",
@@ -1363,22 +1363,22 @@
     {
       "added_at": "2025-10-02 22:00:52",
       "album": {
-        "name": "NO CAP",
-        "url": "https://open.spotify.com/album/66zqMmj1KlxxgUhWJJyLqe"
+        "name": "Sincerely: P.S.",
+        "url": "https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux"
       },
       "artists": [
         {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         },
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 233734,
-      "name": "NO CAP",
-      "url": "https://open.spotify.com/track/6zaeVCwnf3A9S8R7QfDHQW"
+      "duration_ms": 189041,
+      "name": "Pretty Promises, (feat. Mariah The Scientist)",
+      "url": "https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia"
     }
   ],
   "unique_name": "De nye",

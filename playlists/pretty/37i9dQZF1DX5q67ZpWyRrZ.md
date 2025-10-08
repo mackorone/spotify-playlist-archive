@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 
 > Best of the Indian Indie scene\. Cover \- Tsumyoki & Gini
 
-[Spotify](https://open.spotify.com/user/spotify) - 890,523 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 890,666 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Finding Her \(Female Version\)](https://open.spotify.com/track/2sQsgq7QJqGCJ1HsZcORvT) | [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw), [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Finding Her \(Female Version\)](https://open.spotify.com/album/6RnGw4uQQZZqjfT6SIFpeL) | 3:26 |
-| 2 | [Paro](https://open.spotify.com/track/6nRGPf5tpeJtKpXZO5cgIT) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [UNPLG'd](https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO) | [Paro](https://open.spotify.com/album/1pnmSGbSYY19bPwUJ4XJOl) | 1:10 |
-| 3 | [Don't Even Text](https://open.spotify.com/track/0pMACt1jSBlH8mKdaE1TSv) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Don't Even Text](https://open.spotify.com/album/0pfQ6IPkE1tcpRoBtuDgDb) | 2:59 |
+| 1 | [Don't Even Text](https://open.spotify.com/track/0pMACt1jSBlH8mKdaE1TSv) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Don't Even Text](https://open.spotify.com/album/0pfQ6IPkE1tcpRoBtuDgDb) | 2:59 |
+| 2 | [Finding Her \(Female Version\)](https://open.spotify.com/track/2sQsgq7QJqGCJ1HsZcORvT) | [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw), [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Finding Her \(Female Version\)](https://open.spotify.com/album/6RnGw4uQQZZqjfT6SIFpeL) | 3:26 |
+| 3 | [Paro](https://open.spotify.com/track/6nRGPf5tpeJtKpXZO5cgIT) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [UNPLG'd](https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO) | [Paro](https://open.spotify.com/album/1pnmSGbSYY19bPwUJ4XJOl) | 1:10 |
 | 4 | [Dekha Hi Nahi](https://open.spotify.com/track/5zK7gzWMZlT4TUf2iN2Wjw) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Uff](https://open.spotify.com/album/7elw8oxe7Uh9oZldfemFih) | 3:41 |
 | 5 | [Sajde \- From "Lost;Found"](https://open.spotify.com/track/6lXXUx3PwJ4B4cln5FJfzo) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Huzaif Nazar](https://open.spotify.com/artist/7bSCXFT0iT4kcgsAZ6h8Qy) | [Sajde \(From "Lost;Found"\)](https://open.spotify.com/album/7JLLnVxx07iCxVm81N7BSG) | 7:40 |
 | 6 | [Dooron Dooron](https://open.spotify.com/track/0q5e5KtUOhYQujmhLP0pKd) | [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN), [Shiv Tandan](https://open.spotify.com/artist/74wYoI5DV3XZGJri7l9cOP), [Meghdeep Bose](https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda) | [Dooron Dooron](https://open.spotify.com/album/1wGfxu2U33P3c9fAmJbUe6) | 3:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 | 74 | [Faasle](https://open.spotify.com/track/0s76ExpXyMGVBlKLUr683e) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Faasle](https://open.spotify.com/album/2xfAmgKBQroCYbDnl18me3) | 3:41 |
 | 75 | [Aziyat](https://open.spotify.com/track/5DEp8hauuZ45oG38YOkkQq) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Aziyat](https://open.spotify.com/album/45ClrZZAaxYdWMG5FqsjfB) | 3:41 |
 
-Snapshot ID: `AAAAAFBV+EyH1h5KnN7uwGoIgoSZGHMc`
+Snapshot ID: `AAAAAPME9rvwhnc/5d6Pw/aE4vYWdYkq`

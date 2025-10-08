@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,620 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,684 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 47 | [Feel You](https://open.spotify.com/track/0AkQIzDWxywsrtnY6f0oYB) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Feel You](https://open.spotify.com/album/3uBHz77NGhAuxozj6CUIzL) | 2:58 |
 | 48 | [Peace of Mind](https://open.spotify.com/track/7h8qrDfxBzUGcXXiR4Jxea) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Peace of Mind](https://open.spotify.com/album/6yF8JrEp3yBfFJptdIPLi7) | 3:09 |
 | 49 | [See It As A Sign](https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [See It As A Sign](https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp) | 2:54 |
-| 50 | [Glad I Found You](https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Glad I Found You](https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07) | 3:31 |
+| 50 | [Seasoning \(feat\. 2b.Frank\)](https://open.spotify.com/track/0kIim0efkAEH8y0AUctVDt) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn), [2b.Frank](https://open.spotify.com/artist/3CGeuME9z3whBbGdMNn2hS) | [Seasoning](https://open.spotify.com/album/4oGm7MGGkXCtWH7H2phRfI) | 3:23 |
 
 Snapshot ID: `AAAAAAHVocjhRvmN0Y+SxouhdHcF7sSV`

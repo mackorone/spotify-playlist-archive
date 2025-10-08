@@ -1,12 +1,12 @@
 {
   "description": "This is Murda Beatz. The essential tracks, all in one playlist.",
-  "num_followers": 3256,
+  "num_followers": 3255,
   "original_name": "This Is Murda Beatz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAAA+sawN5Z9+F9stjECNp5W1",
+  "snapshot_id": "aOMGgAAAAAC6LUxZBT7wWbP0Q+Xk6eZe",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Damn Shame",
+        "url": "https://open.spotify.com/album/4YYXAVoKwJoezmIh7KgYjG"
+      },
+      "artists": [
+        {
+          "name": "Funk Flex",
+          "url": "https://open.spotify.com/artist/34ABXKUj0gzq7R8vXjCaNj"
+        },
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 137938,
+      "name": "Damn Shame",
+      "url": "https://open.spotify.com/track/7ETKvvR97gJ28mAiOJoFD4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Same Shit (feat. dj gummy bear)",
         "url": "https://open.spotify.com/album/3M6UTcla235hx0kxmBdevZ"
       },
@@ -403,30 +427,6 @@
       "duration_ms": 185205,
       "name": "Same Shit (feat. dj gummy bear)",
       "url": "https://open.spotify.com/track/4nVyUYaZVAN7dMZ5MytGxF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Damn Shame",
-        "url": "https://open.spotify.com/album/4YYXAVoKwJoezmIh7KgYjG"
-      },
-      "artists": [
-        {
-          "name": "Funk Flex",
-          "url": "https://open.spotify.com/artist/34ABXKUj0gzq7R8vXjCaNj"
-        },
-        {
-          "name": "Jadakiss",
-          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 137938,
-      "name": "Damn Shame",
-      "url": "https://open.spotify.com/track/7ETKvvR97gJ28mAiOJoFD4"
     },
     {
       "added_at": null,
@@ -511,6 +511,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "GRoCERIES",
+        "url": "https://open.spotify.com/album/4ukKkRaCiWcgJ3YZ3jmUfu"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "TisaKorean",
+          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 226845,
+      "name": "GRoCERIES",
+      "url": "https://open.spotify.com/track/2ZueZJriwJi7vFXD1UVEVj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LUCY",
         "url": "https://open.spotify.com/album/0EnjeA3ZeMivEGuACIgrQi"
       },
@@ -535,30 +559,6 @@
       "duration_ms": 251128,
       "name": "EUPHORIA",
       "url": "https://open.spotify.com/track/0kpDa6Wl0DT6rUcAuFKjYL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GRoCERIES",
-        "url": "https://open.spotify.com/album/4ukKkRaCiWcgJ3YZ3jmUfu"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "TisaKorean",
-          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 226845,
-      "name": "GRoCERIES",
-      "url": "https://open.spotify.com/track/2ZueZJriwJi7vFXD1UVEVj"
     },
     {
       "added_at": null,

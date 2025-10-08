@@ -4,7 +4,7 @@
 
 > Free your mind from distraction with calming white noise.
 
-291 songs - 13 hr 37 min
+291 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,6 @@
 | [A Windy Day White Noise](https://open.spotify.com/track/6CYKfTdwIOupiFe6fMxDPG) | [Noise Gravity](https://open.spotify.com/artist/5Qd5aYgxNuzurvHmSbHRa5) | [White Noise Gravital EP](https://open.spotify.com/album/4RdmnEVTyqqjD5FVxodwua) | 2:01 | 2022-08-26 |  |
 | [Addormentarsi](https://open.spotify.com/track/5CJwgyuXlhfXiZzJI53BUw) | [Natural Sample Makers](https://open.spotify.com/artist/2kAU05Lt29wxhRj3BpiwhA) | [Rumori Di Notte](https://open.spotify.com/album/1S9SdBPsQCziWWoXSO8azE) | 2:30 | 2023-03-24 |  |
 | [Airplane Sleep Pt.1](https://open.spotify.com/track/53PHCS3cgaXm3JCIlAw6z8) | [Fabricants of Noise](https://open.spotify.com/artist/6rUkUd35nP2xoKO46sKPqs) | [Airplane Sleep](https://open.spotify.com/album/5bkoo0uYmf8YyGvNb8Bbq0) | 2:29 | 2022-08-26 |  |
-| [Ambient White Tones](https://open.spotify.com/track/01MV13Hg9sfFNtgcMidjgE) | [Hovar](https://open.spotify.com/artist/3COnOYhmr8nINwgd54Z8wj) | [Lean Noise](https://open.spotify.com/album/77UGfdTasZzZkMbeC8lYCg) | 2:03 | 2023-03-24 |  |
 | [Barely There White Noise](https://open.spotify.com/track/11MLDtbj0LZubMid56ye2M) | [Aguamenti](https://open.spotify.com/artist/51zDhvo49NXlaQpANXgOtb) | [Stillness Speaks \(White Noise\)](https://open.spotify.com/album/0vyJCTLqiUDsyaJiwG5EtF) | 2:49 | 2024-01-29 |  |
 | [Bed Time Noise](https://open.spotify.com/track/6qf8bXC9jUy1BvAYvZ9blO) | [Historic Site](https://open.spotify.com/artist/2b6lrSLIjDIaFN8hd7py6a) | [Noise Zone](https://open.spotify.com/album/2TGWB7qK1w8z8kCbCky0bj) | 2:28 | 2022-08-26 |  |
 | [Below the Fall \- River Noise](https://open.spotify.com/track/6sXtxe7FGKa8a7C8fJvEDt) | [The Mindful](https://open.spotify.com/artist/5emKKqhb4oYf9k3sWw0At9) | [Mindfulness White Noise](https://open.spotify.com/album/7qWWQFUC7A8j6G0j8DHJnK) | 1:34 | 2022-08-26 | 2023-06-30 |
@@ -59,6 +58,7 @@
 | [Field Spectrum](https://open.spotify.com/track/3XG01xovL8ygkL6TLZ60xr) | [Asana Ventus](https://open.spotify.com/artist/3D8uKbNS9NX6q57gX9b08V) | [Field Spectrum](https://open.spotify.com/album/1NyupceZmOc5jxKlhY9b6s) | 2:42 | 2025-01-30 |  |
 | [Flat White Noise](https://open.spotify.com/track/2sT8xEi35Qn6iceYxi1u2V) | [520Hz](https://open.spotify.com/artist/6S1S2NTJ5M5REqvqp6zYSs) | [White Noise Hz](https://open.spotify.com/album/3A8cNq1g1XQKds0Ho4ltJG) | 2:30 | 2022-08-26 |  |
 | [Flawless White Noise](https://open.spotify.com/track/7AD1YZluQtRJjgLvUnFuXP) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [White Noise](https://open.spotify.com/album/7G15eMhffdtpyrm2CrtAp2) | 2:20 | 2022-08-26 | 2022-10-07 |
+| [Focus On Noise](https://open.spotify.com/track/01MV13Hg9sfFNtgcMidjgE) | [Hovar](https://open.spotify.com/artist/3COnOYhmr8nINwgd54Z8wj) | [Lean Noise](https://open.spotify.com/album/77UGfdTasZzZkMbeC8lYCg) | 1:39 | 2023-03-24 |  |
 | [Focus Waves](https://open.spotify.com/track/3x0EoMEp16dyEcraUR1beL) | [Jaded Birds](https://open.spotify.com/artist/6SbeFWzBZaVOHOmteyX5Cm) | [Focus Waves](https://open.spotify.com/album/3phP2ItswTCo5Zc1NV07rw) | 2:24 | 2022-08-26 |  |
 | [Forever Ambient Noise](https://open.spotify.com/track/4Qs93QCHeZOsf01IVNQCBY) | [Noise Factory](https://open.spotify.com/artist/686XlpvIgKX6Vvlpi4DXbe) | [The Rhythm Of Noise](https://open.spotify.com/album/5A2FT4FE0UZU06spwKPqox) | 2:22 | 2023-03-24 |  |
 | [Frost Echo \- White Noise](https://open.spotify.com/track/4viGeuY6gRxtE7i1XZBj1Y) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Frost Echo \(White Noise\)](https://open.spotify.com/album/1KqENBgWtdlybFpzMz7sPV) | 3:12 | 2023-12-05 | 2025-04-19 |
@@ -84,7 +84,7 @@
 | [In the White Noise Cave](https://open.spotify.com/track/1sV9WPCpIZeqnQ9qoYAuzt) | [Wavelab](https://open.spotify.com/artist/7AbQo3tDp5SYr5ctDcNC21) | [In the White Noise Cave](https://open.spotify.com/album/7K1ur3Bf939aOmgTG57GG4) | 2:31 | 2023-10-19 |  |
 | [Infrasound](https://open.spotify.com/track/1HPFWKZICLjNWfrKs9WV0W) | [Fluffy Duffy](https://open.spotify.com/artist/5Zar2ecaQrP2jeYjnjNk9p) | [Infrasound](https://open.spotify.com/album/1LIIxRKvZZfGTIVl2kpscl) | 2:55 | 2022-08-26 |  |
 | [Interstellar Cabin](https://open.spotify.com/track/5WQyF7t0tNomzABIYzxxSD) | [PARCEL](https://open.spotify.com/artist/6fhgzDPycvkawFNW0CtORI) | [Interstellar Cabin](https://open.spotify.com/album/5dVZjOztN4gijHKnxCIqvm) | 2:20 | 2022-08-26 |  |
-| [Lean Noise](https://open.spotify.com/track/2KfLH77WUxnPq28o3SZsFp) | [Hovar](https://open.spotify.com/artist/3COnOYhmr8nINwgd54Z8wj) | [Lean Noise](https://open.spotify.com/album/77UGfdTasZzZkMbeC8lYCg) | 2:17 | 2023-03-24 |  |
+| [Lean Noise](https://open.spotify.com/track/2KfLH77WUxnPq28o3SZsFp) | [Factorial FX](https://open.spotify.com/artist/16weRDppbG11cOcQQtKjFu) | [Lean Noise](https://open.spotify.com/album/77UGfdTasZzZkMbeC8lYCg) | 2:17 | 2023-03-24 |  |
 | [Light Noises](https://open.spotify.com/track/2t3BUtYNYGoPcCeHamofRy) | [Doctor Sleep](https://open.spotify.com/artist/3MwKjfr5kxBuFhTZJUimC5) | [A Waterfall of Noise](https://open.spotify.com/album/0Zwsr67zu7UodgvugtKzex) | 2:15 | 2023-03-24 |  |
 | [Ljudet av en skugga](https://open.spotify.com/track/3po8Ur8zo1NZ6mbk0nxUAJ) | [Akvavit](https://open.spotify.com/artist/3vvY6bfFNRymVmylw2vfGy) | [Vitt Brus](https://open.spotify.com/album/5pYHh9WVIkmt8thx2nMvlT) | 2:44 | 2024-01-29 |  |
 | [Lost In Noise](https://open.spotify.com/track/5dKAN40CfHqXP7hHDXtMtl) | [Libronics](https://open.spotify.com/artist/3aRPewMsLWgCfDyogfVWja) | [Sky Full Of Noise](https://open.spotify.com/album/0smg0ZqmbCMR489whHG7Bc) | 2:13 | 2023-06-29 |  |

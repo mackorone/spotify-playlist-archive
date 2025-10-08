@@ -4,7 +4,7 @@
 
 > This is Banda Rafaga\. The essential tracks, all in one playlist.
 
-132 songs - 7 hr 17 min
+133 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Carola \(En Vivo\)](https://open.spotify.com/track/3Z5Z9x4pwlSM2OG2cccr5c) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [En Vivo! Desde Pico Rivera, Ca](https://open.spotify.com/album/4XqFliWLK6IJUXGeFVFArd) | 5:01 | 2022-06-01 | 2022-08-26 |
 | [Carola \- En Vivo](https://open.spotify.com/track/6syiv4squ2EZgcVgxBnmNc) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga En Vivo Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 6:54 | 2022-08-27 |  |
 | [Chica Morena](https://open.spotify.com/track/0PZaUXCznCRq1efUqKXLbx) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 2:59 | 2022-06-01 | 2025-04-10 |
+| [Como Esos Amantes](https://open.spotify.com/track/7b7tALqaVhB9LT9CjC6fIo) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lagrimas Del Corazon](https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo) | 3:27 | 2025-10-08 |  |
 | [Como Esos Amantes](https://open.spotify.com/track/3VuLKZImxOy2bpMaA6ECB0) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lágrimas Del Corazón](https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82) | 3:29 | 2022-06-01 | 2023-12-14 |
 | [Como Me Dolió Tu Adiós](https://open.spotify.com/track/5OybPwUZOo6Gacxt331dEg) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv) | 2:54 | 2025-04-15 |  |
 | [Como Me Dolió Tu Adiós](https://open.spotify.com/track/6ftWmU96nKeUc8yvNcCHig) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 2:54 | 2022-06-01 | 2025-04-15 |
@@ -42,7 +43,7 @@
 | [El Brinquito de la Perra Roñosa](https://open.spotify.com/track/5t1g30K4DhRSkiIgichk5f) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Soy de Carne y Hueso](https://open.spotify.com/album/1Z0XIv35WxRIsrHFERZfBq) | 3:01 | 2022-06-02 | 2022-08-27 |
 | [El Brinquito de la Perra Roñosa](https://open.spotify.com/track/75YKpOTAyaRlOlIT7J7lVB) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [No Pares De Bailar Con...](https://open.spotify.com/album/32GtSnkO0D1YziU8TMHU7K) | 3:01 | 2025-06-10 | 2025-09-21 |
 | [El Brinquito de la Perra Roñosa](https://open.spotify.com/track/2NgQzD0KeSF1VxOzaD59ob) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Soy de Carne Y Hueso](https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ) | 3:01 | 2022-11-28 |  |
-| [El Caballito](https://open.spotify.com/track/6gxoEcHKRYz4l29Tup5WaP) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lagrimas Del Corazon](https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo) | 3:01 | 2025-08-12 |  |
+| [El Caballito](https://open.spotify.com/track/6gxoEcHKRYz4l29Tup5WaP) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lagrimas Del Corazon](https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo) | 3:01 | 2025-08-12 | 2025-10-08 |
 | [El Caballito](https://open.spotify.com/track/3OanacoRGMSYjnedeXkUhQ) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lágrimas Del Corazón](https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82) | 3:03 | 2022-08-26 | 2022-08-28 |
 | [El Peor de Tus Antojos](https://open.spotify.com/track/39TLzNkNXqhNe0E3zvOHWl) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [No Le Digas a Nadie](https://open.spotify.com/album/7BCtUlBeAMEfqUnQayCSSO) | 3:35 | 2022-06-01 | 2022-08-27 |
 | [El Ultimo Trago](https://open.spotify.com/track/4pJvdhRnOhkK6JwRXcUEO0) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [LLegaste A Mi Vida](https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb) | 2:23 | 2022-06-01 | 2023-12-14 |

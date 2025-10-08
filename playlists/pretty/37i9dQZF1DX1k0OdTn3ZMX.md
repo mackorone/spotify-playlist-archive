@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with Mudvayne.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,393 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,513 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Making Love to Morgan Wallen](https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Making Love to Morgan Wallen](https://open.spotify.com/album/5gnSTqbBS89Ekjl6urNeyM) | 4:09 |
 | 2 | [Mercia](https://open.spotify.com/track/0ptNPzAaewqAlfoQFCoiLT) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Mercia](https://open.spotify.com/album/7b0ToeYAyJ2mscjvZgt4Ep) | 5:34 |
-| 3 | [Hurt People Hurt People](https://open.spotify.com/track/0hgiCvELn7bKI7GEKPwkY4) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Hurt People Hurt People](https://open.spotify.com/album/4wj85ClVSfL2lGI9HuL43e) | 3:34 |
-| 4 | [End of You](https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [End of You](https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1) | 3:12 |
-| 5 | [SIMULATION.EXE](https://open.spotify.com/track/53XmXYepLF0ac82AgxvSSo) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [ENTRY WOUNDS](https://open.spotify.com/album/3j0s7SQBbf9sZNqxkaGb4j) | 3:09 |
-| 6 | [New Disease](https://open.spotify.com/track/17mzKJARvVNR7eDyPqBpIG) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [New Disease](https://open.spotify.com/album/23L4tjuxXU9eTZ1Zs1VZDf) | 3:13 |
+| 3 | [End of You](https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [End of You](https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1) | 3:12 |
+| 4 | [SIMULATION.EXE](https://open.spotify.com/track/53XmXYepLF0ac82AgxvSSo) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [ENTRY WOUNDS](https://open.spotify.com/album/3j0s7SQBbf9sZNqxkaGb4j) | 3:09 |
+| 5 | [New Disease](https://open.spotify.com/track/17mzKJARvVNR7eDyPqBpIG) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [New Disease](https://open.spotify.com/album/23L4tjuxXU9eTZ1Zs1VZDf) | 3:13 |
+| 6 | [Hurt People Hurt People](https://open.spotify.com/track/0hgiCvELn7bKI7GEKPwkY4) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Hurt People Hurt People](https://open.spotify.com/album/4wj85ClVSfL2lGI9HuL43e) | 3:34 |
 | 7 | [WTCH](https://open.spotify.com/track/07S1I5r2tlpNg8QJDJewBJ) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [BLACK MAGIC](https://open.spotify.com/album/0YtqdM1lPwVEpOQip5xhfB) | 2:59 |
 | 8 | [THE VEIL](https://open.spotify.com/track/6GI38SAryXGJdXtZSljOSy) | [Memory of a Melody](https://open.spotify.com/artist/7MUx5uHwpNCLJzLBhkuKbP), [Martin Gonzalez](https://open.spotify.com/artist/5JM8caNvIgCqRWYtLYxxNg), [ERIK SEIME](https://open.spotify.com/artist/4sySRuh2u7W8V04xkWNPg5) | [THE VEIL](https://open.spotify.com/album/1uF3KzT84qsZJYmXVu7nqp) | 3:52 |
 | 9 | [Do You Think I'm a Whore? XXV](https://open.spotify.com/track/28Ao9W3TmgM7xzIxICkAgI) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit XXV](https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS) | 3:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 79 | [IDENTITY](https://open.spotify.com/track/2sMbNh0yhdzUi0f4Y9DGuV) | [BIG NOTER](https://open.spotify.com/artist/3wuLSOv0CPHw4s22TIIN0B) | [IDENTITY](https://open.spotify.com/album/5I5Z5PckRfqeq5A9zdvuQh) | 3:24 |
 | 80 | [A Line in the Dust](https://open.spotify.com/track/1WPijMCbMHyodBdwBQj12P) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a), [Mat Welsh](https://open.spotify.com/artist/41qbLh8IPItyHRIHAQafft) | [A Line in the Dust](https://open.spotify.com/album/0QeSlVSiJRan9ocKl2tQWv) | 3:55 |
 
-Snapshot ID: `AAAAAH359iZBFsVRy+ucahZSAQtZMcnD`
+Snapshot ID: `AAAAAFAENV/wrGJ+ytwWpbwvhVKkg/wb`

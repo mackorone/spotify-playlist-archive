@@ -3541,6 +3541,24 @@
     },
     {
       "album": {
+        "name": "lost",
+        "url": "https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181737,
+      "name": "lost",
+      "url": "https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo"
+    },
+    {
+      "album": {
         "name": "Lost In Space",
         "url": "https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl"
       },
@@ -3950,7 +3968,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 218259,
       "name": "monalisa, we miss you//",
       "url": "https://open.spotify.com/track/2MFtNJEL5yexgzMT3wAXOU"

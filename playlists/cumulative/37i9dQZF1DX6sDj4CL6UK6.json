@@ -1579,6 +1579,24 @@
     },
     {
       "album": {
+        "name": "Wishbone",
+        "url": "https://open.spotify.com/album/702dFENFJw2NnwDVc6poeC"
+      },
+      "artists": [
+        {
+          "name": "Saachi",
+          "url": "https://open.spotify.com/artist/4Gbsv1WfhPA5JxVdu1b4R7"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "E.L.T",
+      "url": "https://open.spotify.com/track/2jFZ4MBoB3GkKYYIppdrTg"
+    },
+    {
+      "album": {
         "name": "Blueboy Must Die",
         "url": "https://open.spotify.com/album/7HxuP6eVdhcYH810tElmAg"
       },
@@ -2278,7 +2296,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 172758,
       "name": "Heartbreak 2020",
       "url": "https://open.spotify.com/track/0PIyGX9ZcJWNnyEtQfMNAW"

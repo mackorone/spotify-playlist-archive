@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Shiv Paul
 
-236 songs - 13 hr 0 min
+237 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Lady Superstar \(from the Netflix Documentary “Nayanthara: Beyond the Fairy Tale"\)](https://open.spotify.com/track/4KDNHea3R68RjE6AiF8P6P) | [Prashanth Techno](https://open.spotify.com/artist/4JFVZaGeqeKsZTec9xdUwc), [Navz\-47](https://open.spotify.com/artist/1COjjFgtQEz2oxPHF6XIuu) | [Lady Superstar \(from the Netflix Documentary “Nayanthara: Beyond the Fairy Tale"\)](https://open.spotify.com/album/0CMOsym2DDKqYOvnOqR5dC) | 2:01 | 2024-12-29 | 2025-01-28 |
 | [Let's Play](https://open.spotify.com/track/329hLnLm3VVSPr0kNCsjLn) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Thoughtsfornow](https://open.spotify.com/artist/6UZh26X3rn1LVK5lLn4FoG) | [Thug Life \(Tamil\)](https://open.spotify.com/album/31TRIxu0k1xA4rn4JCwlMb) | 2:39 | 2025-05-24 |  |
 | [Local Jackson ft\. Bigson](https://open.spotify.com/track/1yhe3XaZ10k5AqA6oeze94) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Valliamma Peraandi \- Vol\. 01](https://open.spotify.com/album/1CUpxD8bx7lF4od9FtAXCG) | 2:34 | 2024-12-29 | 2025-02-07 |
+| [Loosu](https://open.spotify.com/track/5EJPrEUbqzPEpiJP8pn1iN) | [Cronyg](https://open.spotify.com/artist/0SaZoElbSiD33kEknjKbRQ), [Seize Me](https://open.spotify.com/artist/1zHAfoK6387FV8pU0QZbil), [Cymbol](https://open.spotify.com/artist/0wKGz0DA4DP6egoQTouL1w) | [Loosu](https://open.spotify.com/album/70Km7JB3PUoOBiDAWUScfS) | 2:19 | 2025-10-07 |  |
 | [Loosu Pennae](https://open.spotify.com/track/3hw1iGc2WAhHG4DFPcu80r) | [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E) | [Vallavan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6iS9GfnmK3wYwVQ8UyBBqu) | 6:47 | 2022-02-08 | 2024-12-29 |
 | [Loosu Pennae](https://open.spotify.com/track/10LfH6Hkt06jYjXo8FGecm) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Blaze](https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN) | [Vallavan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Nphl3LN3A0kEoFKyH6ZLj) | 6:51 | 2022-02-08 | 2023-05-14 |
 | [Loosu Pennae](https://open.spotify.com/track/2M85awz7QvZAq8JuMiduCZ) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Blaze](https://open.spotify.com/artist/6cXlnEp3wULo3eTUIiKxt2) | [Vallavan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JfTOsi6jeQ1HQXSPKC5NV) | 6:51 | 2022-02-08 | 2024-04-19 |

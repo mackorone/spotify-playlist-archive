@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Judeline & Amaia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,798 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,784 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 28 | [OK.](https://open.spotify.com/track/7EecUGxRZUTQI6nnm1sMbj) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [OK.](https://open.spotify.com/album/0AANQfneLU0IRecx5ORTR4) | 2:36 |
 | 29 | [Sunshine & Rain...](https://open.spotify.com/track/0XNZ6zY9qwJVu9JypWUcvo) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sunshine & Rain...](https://open.spotify.com/album/6sBXKaeFQdGtpDMoW5TAU4) | 3:17 |
 | 30 | [I Won't Go](https://open.spotify.com/track/3MBilTXRLzYt0z5vhGCLd4) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [I Won't Go](https://open.spotify.com/album/57sSWRu3FoOdl5L8EiSBsS) | 2:57 |
-| 31 | [PA K](https://open.spotify.com/track/3YOKeu2skm73rfn4bGPQHz) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [PA K](https://open.spotify.com/album/1tBbZo85SaUh3jMkoKjOnv) | 3:41 |
-| 32 | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w) | 2:49 |
+| 31 | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w) | 2:49 |
+| 32 | [PA K](https://open.spotify.com/track/3YOKeu2skm73rfn4bGPQHz) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [PA K](https://open.spotify.com/album/1tBbZo85SaUh3jMkoKjOnv) | 3:41 |
 | 33 | [BRUJERIA!](https://open.spotify.com/track/5PAyf37gvhLctCiTQfBOO9) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Bodhiria](https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq) | 2:44 |
 | 34 | [\(ecco\)](https://open.spotify.com/track/6MNpKQBu98xOz5LpPQjyrU) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:26 |
-| 35 | [Tikiri](https://open.spotify.com/track/3x6mcLgaZNaBGONTG2Ebb1) | [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [Pan](https://open.spotify.com/album/2Z7Q2m7lLYBHJlZWRMENft) | 3:41 |
-| 36 | [Corazón](https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Volver](https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd) | 4:12 |
-| 37 | [Quieres Autodestruirte Conmigo?](https://open.spotify.com/track/0ImJfk8NU4a1aMvclUyJT0) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [INFANCIA MAL CALIBRADA](https://open.spotify.com/album/16xCvyLPONGbD1pij2GOQ1) | 3:07 |
+| 35 | [Quieres Autodestruirte Conmigo?](https://open.spotify.com/track/0ImJfk8NU4a1aMvclUyJT0) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [INFANCIA MAL CALIBRADA](https://open.spotify.com/album/16xCvyLPONGbD1pij2GOQ1) | 3:07 |
+| 36 | [Tikiri](https://open.spotify.com/track/3x6mcLgaZNaBGONTG2Ebb1) | [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [Pan](https://open.spotify.com/album/2Z7Q2m7lLYBHJlZWRMENft) | 3:41 |
+| 37 | [Corazón](https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Volver](https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd) | 4:12 |
 | 38 | [talk](https://open.spotify.com/track/5kTHoxckjY24DWgIX6mnNR) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [talk](https://open.spotify.com/album/1v5MxGxLHcJEMlA6N67bqx) | 2:40 |
 | 39 | [pijama.](https://open.spotify.com/track/3oCKpnwoT4g9adu3O1yyZ3) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Au](https://open.spotify.com/album/68gJgiFvFFokWUzezIIiQt) | 2:38 |
 | 40 | [LO QUE ME CAUSA](https://open.spotify.com/track/3r5mTZiiECjgezzeI9bqgq) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [LO QUE ME CAUSA](https://open.spotify.com/album/1SLeBd72xTXyMOJ4KRInc2) | 3:00 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 72 | [La Espiral](https://open.spotify.com/track/7iZDzYOsICnDgAIY4wTlxf) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Demian](https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8) | 4:30 |
 | 73 | [Baby](https://open.spotify.com/track/44o4tDW0hGnrNOM180kM6K) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Ring Ring](https://open.spotify.com/album/0LiTyKtFq29DDgZ1zvMI4j) | 3:42 |
 | 74 | [el vino y el tiempo \(feat\. Willy Rodríguez\)](https://open.spotify.com/track/2g7KRmUgE964Xrzv3g7yeP) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [el vino y el tiempo \(feat\. Willy Rodríguez\)](https://open.spotify.com/album/3E8R0On43aWkW2gVtBxJce) | 3:00 |
-| 75 | [el tiempo pasa rápido](https://open.spotify.com/track/3679bCH5CErBhzAfYR2Cf1) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [el tiempo pasa rápido](https://open.spotify.com/album/2AGTJDPd2mTqTsQikhlhkM) | 4:07 |
+| 75 | [Durmiendo](https://open.spotify.com/track/4owkQ4569f24b5CmVdr3jt) | [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [Tierra](https://open.spotify.com/album/32J5NblDzVXpvTMuEFtyUA) | 3:24 |
 
 Snapshot ID: `AAAAACL75iyu7gISv7Fr6HFso0Mz6gdq`

@@ -1,6 +1,6 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 24001,
+  "num_followers": 24018,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
@@ -439,30 +439,6 @@
     {
       "added_at": "2025-09-24 03:01:38",
       "album": {
-        "name": "\u6fc0\u30a2\u30c4",
-        "url": "https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl"
-      },
-      "artists": [
-        {
-          "name": "NENE",
-          "url": "https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG"
-        },
-        {
-          "name": "DADA",
-          "url": "https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN"
-        },
-        {
-          "name": "Watson",
-          "url": "https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX"
-        }
-      ],
-      "duration_ms": 241089,
-      "name": "\u30d8\u30d3\u30fc (feat. DADA & Watson)",
-      "url": "https://open.spotify.com/track/2zonAMygHIUK6CfdxHVfFK"
-    },
-    {
-      "added_at": "2025-09-24 03:01:38",
-      "album": {
         "name": "\u30d0\u30b0\u308a (feat. kZm, Awich, PETZ, MonyHorse & JNKMN)",
         "url": "https://open.spotify.com/album/2fPFTelUOr9Nw72DW55aHU"
       },
@@ -495,6 +471,30 @@
       "duration_ms": 186835,
       "name": "\u30d0\u30b0\u308a (feat. kZm, Awich, PETZ, MonyHorse & JNKMN)",
       "url": "https://open.spotify.com/track/3FdZ6MCqA9y0Hhlc8U9uSw"
+    },
+    {
+      "added_at": "2025-09-24 03:01:38",
+      "album": {
+        "name": "\u6fc0\u30a2\u30c4",
+        "url": "https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl"
+      },
+      "artists": [
+        {
+          "name": "NENE",
+          "url": "https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG"
+        },
+        {
+          "name": "DADA",
+          "url": "https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN"
+        },
+        {
+          "name": "Watson",
+          "url": "https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX"
+        }
+      ],
+      "duration_ms": 241089,
+      "name": "\u30d8\u30d3\u30fc (feat. DADA & Watson)",
+      "url": "https://open.spotify.com/track/2zonAMygHIUK6CfdxHVfFK"
     },
     {
       "added_at": "2025-09-24 03:01:38",
@@ -791,26 +791,6 @@
     {
       "added_at": "2025-09-24 03:01:38",
       "album": {
-        "name": "Hot Rodder",
-        "url": "https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85"
-      },
-      "artists": [
-        {
-          "name": "Yvng Patra",
-          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
-        },
-        {
-          "name": "Oddy lozy",
-          "url": "https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Hot Rodder",
-      "url": "https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD"
-    },
-    {
-      "added_at": "2025-09-24 03:01:38",
-      "album": {
         "name": "DEATH NOTE",
         "url": "https://open.spotify.com/album/173yOrrgkqrUFwte1Pd7VW"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 174081,
       "name": "DEATH NOTE",
       "url": "https://open.spotify.com/track/2OCQMg5OLGIMEWHHZcHABc"
+    },
+    {
+      "added_at": "2025-09-24 03:01:38",
+      "album": {
+        "name": "Hot Rodder",
+        "url": "https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85"
+      },
+      "artists": [
+        {
+          "name": "Yvng Patra",
+          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
+        },
+        {
+          "name": "Oddy lozy",
+          "url": "https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Hot Rodder",
+      "url": "https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD"
     },
     {
       "added_at": "2025-09-24 03:01:38",

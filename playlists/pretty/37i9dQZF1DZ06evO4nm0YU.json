@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 180368,
+  "num_followers": 180417,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAADXLbpSxJ/svvTi5nGmhEEA",
+  "snapshot_id": "aOMGgAAAAADTCjdBuB/7k0ABFqrK2UF7",
   "tracks": [
     {
       "added_at": null,
@@ -223,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revent\u00f3",
+        "url": "https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "\u00bfDe Qu\u00e9 Tama\u00f1o Es Tu Amor?",
+      "url": "https://open.spotify.com/track/2NKQK1RldKnR5P6tiCfWxH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 306640,
       "name": "Ausencia",
       "url": "https://open.spotify.com/track/1r6oqZhRYStrYWSeGKuCFP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revent\u00f3",
-        "url": "https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 213360,
-      "name": "\u00bfDe Qu\u00e9 Tama\u00f1o Es Tu Amor?",
-      "url": "https://open.spotify.com/track/2NKQK1RldKnR5P6tiCfWxH"
     },
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Man And His Music: La Voz",
-        "url": "https://open.spotify.com/album/1cjhnTRit0iS1HViiGeK8H"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 402360,
-      "name": "El Rey de la Puntualidad",
-      "url": "https://open.spotify.com/track/77jCAPrC64AI33hvVYQyn9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revent\u00f3",
         "url": "https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 321480,
       "name": "La Fama",
       "url": "https://open.spotify.com/track/7DKDyvd7sV0hN9KrLWRag4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Man And His Music: La Voz",
+        "url": "https://open.spotify.com/album/1cjhnTRit0iS1HViiGeK8H"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 402360,
+      "name": "El Rey de la Puntualidad",
+      "url": "https://open.spotify.com/track/77jCAPrC64AI33hvVYQyn9"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Un Amor De La Calle",
-      "url": "https://open.spotify.com/track/66juz7XEijXRIMtFXYtuSi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hustler",
         "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 277186,
       "name": "Qu\u00e9 L\u00edo",
       "url": "https://open.spotify.com/track/3J4krWOV6J3mE6tNYiaqn2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Voz",
+        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Un Amor De La Calle",
+      "url": "https://open.spotify.com/track/66juz7XEijXRIMtFXYtuSi"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 180240,
-      "name": "Emborrachame De Amor",
-      "url": "https://open.spotify.com/track/0eQoYvZRyqh3FE8GNSKUJ9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revent\u00f3",
         "url": "https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 387600,
       "name": "D\u00e9jala Que Siga",
       "url": "https://open.spotify.com/track/1M97ayCQqyCCsiSs2OIBb9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Voz",
+        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 180240,
+      "name": "Emborrachame De Amor",
+      "url": "https://open.spotify.com/track/0eQoYvZRyqh3FE8GNSKUJ9"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Ti Depende",
-        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 163440,
-      "name": "Consejo De Oro",
-      "url": "https://open.spotify.com/track/4q602p7jJb8JLto5BAhRwa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Voz",
         "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 390600,
       "name": "Rompe Sarag\u00fcey",
       "url": "https://open.spotify.com/track/50T8GUjGq1SMxsMWMLu0fl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Ti Depende",
+        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 163440,
+      "name": "Consejo De Oro",
+      "url": "https://open.spotify.com/track/4q602p7jJb8JLto5BAhRwa"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Comedia",
+        "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 470280,
+      "name": "Songoro Cosongo",
+      "url": "https://open.spotify.com/track/0cCLNIYOUthHiQHOS8iGRV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OG: Original Gangster",
         "url": "https://open.spotify.com/album/1qixO7wcV8yfii33bZj46T"
       },
@@ -819,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comedia",
-        "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
+        "name": "De Ti Depende",
+        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
       },
       "artists": [
         {
@@ -828,9 +844,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 470280,
-      "name": "Songoro Cosongo",
-      "url": "https://open.spotify.com/track/0cCLNIYOUthHiQHOS8iGRV"
+      "duration_ms": 402120,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/0sIS4B5SgYURmXGvYOZYKH"
     },
     {
       "added_at": null,
@@ -855,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Ti Depende",
-        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 402120,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/0sIS4B5SgYURmXGvYOZYKH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crime Pays",
         "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
       },
@@ -891,22 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Tus Ojos",
-      "url": "https://open.spotify.com/track/2qGOhy0tSbvClnQhgBkkoC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00a1Que Sentimiento!",
         "url": "https://open.spotify.com/album/2QhJvPPEdERyZmzAxYVzeo"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 366586,
       "name": "\u00c9l Son",
       "url": "https://open.spotify.com/track/7EN7Hl5S3UHMtK3eDUaMFc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Voz",
+        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Tus Ojos",
+      "url": "https://open.spotify.com/track/2qGOhy0tSbvClnQhgBkkoC"
     },
     {
       "added_at": null,

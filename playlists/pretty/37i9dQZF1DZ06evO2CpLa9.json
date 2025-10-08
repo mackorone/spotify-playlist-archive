@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAADAM92Gbd8J4o/e2HmpX1cC",
+  "snapshot_id": "aOMGgAAAAACbv3SCpekZWD+w0r7lqFZn",
   "tracks": [
     {
       "added_at": null,
@@ -59,30 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Debo Entender",
-        "url": "https://open.spotify.com/album/1U4AU6ken2YH258a4lZyd8"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 238419,
-      "name": "Debo Entender",
-      "url": "https://open.spotify.com/track/55mzJ0LftLnef8sxAjrMkU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WORLDWAI",
         "url": "https://open.spotify.com/album/2StJ33v839ZM3y7yWpG7fg"
       },
@@ -107,6 +83,30 @@
       "duration_ms": 180923,
       "name": "CHINGON 2",
       "url": "https://open.spotify.com/track/54gJmxMx9Ea5zRaAKNodqp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Debo Entender",
+        "url": "https://open.spotify.com/album/1U4AU6ken2YH258a4lZyd8"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 238419,
+      "name": "Debo Entender",
+      "url": "https://open.spotify.com/track/55mzJ0LftLnef8sxAjrMkU"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Necesidad",
-        "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Mi Decepci\u00f3n",
-      "url": "https://open.spotify.com/track/0n5T7FP05NC2ikWM8Bivkp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Vicio y la Fama",
         "url": "https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI"
       },
@@ -679,22 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HECHO M13RD4",
-        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
+        "name": "Necesidad",
+        "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
       },
       "artists": [
         {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         },
         {
           "name": "Santa Fe Klan",
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 213773,
-      "name": "Camina Sola",
-      "url": "https://open.spotify.com/track/1wmcdpR6xizYnjgw0lC3tv"
+      "duration_ms": 292000,
+      "name": "Mi Decepci\u00f3n",
+      "url": "https://open.spotify.com/track/0n5T7FP05NC2ikWM8Bivkp"
     },
     {
       "added_at": null,
@@ -719,6 +699,26 @@
       "duration_ms": 213812,
       "name": "De Mexico Song",
       "url": "https://open.spotify.com/track/6xMZFpORmifhj8lbB5RGH9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 213773,
+      "name": "Camina Sola",
+      "url": "https://open.spotify.com/track/1wmcdpR6xizYnjgw0lC3tv"
     },
     {
       "added_at": null,
@@ -979,22 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bendecido",
-        "url": "https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 200754,
-      "name": "Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/3eWUn60vLUf5ibODEpSxat"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Necesidad",
         "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 227000,
       "name": "Est\u00e1 Caliente",
       "url": "https://open.spotify.com/track/40q3AqR9WiKOTlA79Iyv9h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 200754,
+      "name": "Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/3eWUn60vLUf5ibODEpSxat"
     },
     {
       "added_at": null,
@@ -1071,22 +1071,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Pies a Cabeza",
-        "url": "https://open.spotify.com/album/4eXjEM5eGaxmoRBOYti17F"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 198530,
-      "name": "De Pies a Cabeza",
-      "url": "https://open.spotify.com/track/7iBioaqKNozrqB88QQVoBD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Si Nos Vamos",
         "url": "https://open.spotify.com/album/49XyV9pc6KkimnDrVzrgdI"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 211361,
       "name": "Y Si Nos Vamos",
       "url": "https://open.spotify.com/track/75yIi0f2Uy2i1nBGaVTOiH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Pies a Cabeza",
+        "url": "https://open.spotify.com/album/4eXjEM5eGaxmoRBOYti17F"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 198530,
+      "name": "De Pies a Cabeza",
+      "url": "https://open.spotify.com/track/7iBioaqKNozrqB88QQVoBD"
     },
     {
       "added_at": null,

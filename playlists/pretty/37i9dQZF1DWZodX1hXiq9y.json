@@ -1,6 +1,6 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 132188,
+  "num_followers": 132211,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Page One",
-        "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 361773,
-      "name": "Recorda Me",
-      "url": "https://open.spotify.com/track/3KUSSxjujFcEGhnsm0qeDo"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "That's Where It's At",
         "url": "https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 374626,
       "name": "Dorene Don't Cry, I - Remastered",
       "url": "https://open.spotify.com/track/1JXxyiihPJrMLotLklU0Cb"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Page One",
+        "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 361773,
+      "name": "Recorda Me",
+      "url": "https://open.spotify.com/track/3KUSSxjujFcEGhnsm0qeDo"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "King Of The Tenors",
-        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Don't Get Around Much Any More",
-      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Used To Be Duke",
         "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 217293,
       "name": "Autumn In New York",
       "url": "https://open.spotify.com/track/2rguP2Zy8ohN8tYWwcbr0l"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "King Of The Tenors",
+        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Don't Get Around Much Any More",
+      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Cannonball Takes Charge",
-        "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley Quartet",
-          "url": "https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR"
-        }
-      ],
-      "duration_ms": 310866,
-      "name": "Poor Butterfly",
-      "url": "https://open.spotify.com/track/2GOnuiV0bi8oOy3eNgByYw"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Everybody Knows",
         "url": "https://open.spotify.com/album/6kKpF48UR3DWYHLwbfvZ3C"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 184280,
       "name": "A Flower Is A Lovesome Thing",
       "url": "https://open.spotify.com/track/3dblN4E9Dy4cum70D0Fy2L"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Cannonball Takes Charge",
+        "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley Quartet",
+          "url": "https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR"
+        }
+      ],
+      "duration_ms": 310866,
+      "name": "Poor Butterfly",
+      "url": "https://open.spotify.com/track/2GOnuiV0bi8oOy3eNgByYw"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Now\u2019s The Time: The Genius Of Charlie Parker #3",
-        "url": "https://open.spotify.com/album/7KLwxAG5safFwMgxd0XlH3"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 178866,
-      "name": "Confirmation",
-      "url": "https://open.spotify.com/track/29erJjtgdbh1KbG7MuPJCj"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 285666,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/1Ju8QHOsXPehuL2pCPjXA0"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Now\u2019s The Time: The Genius Of Charlie Parker #3",
+        "url": "https://open.spotify.com/album/7KLwxAG5safFwMgxd0XlH3"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 178866,
+      "name": "Confirmation",
+      "url": "https://open.spotify.com/track/29erJjtgdbh1KbG7MuPJCj"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Tell It The Way It Is",
-        "url": "https://open.spotify.com/album/22Nw7i0lxcEYho6G5kWPLi"
-      },
-      "artists": [
-        {
-          "name": "Paul Gonsalves",
-          "url": "https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4"
-        }
-      ],
-      "duration_ms": 328800,
-      "name": "Dukes Place",
-      "url": "https://open.spotify.com/track/5CPy7jJup06T0xfzYK7xwr"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Turning Point",
         "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 454720,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/1iGtxVoabfF86qjcyfNsNy"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Tell It The Way It Is",
+        "url": "https://open.spotify.com/album/22Nw7i0lxcEYho6G5kWPLi"
+      },
+      "artists": [
+        {
+          "name": "Paul Gonsalves",
+          "url": "https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4"
+        }
+      ],
+      "duration_ms": 328800,
+      "name": "Dukes Place",
+      "url": "https://open.spotify.com/track/5CPy7jJup06T0xfzYK7xwr"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Pushing the World Away",
-        "url": "https://open.spotify.com/album/79HogqAl7FydqNlNZqVz79"
-      },
-      "artists": [
-        {
-          "name": "Kenny Garrett",
-          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
-        }
-      ],
-      "duration_ms": 223960,
-      "name": "A Side Order of Hijiki",
-      "url": "https://open.spotify.com/track/2ZdIftmBJqA88uoE8H1wZq"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Joyous Encounter",
         "url": "https://open.spotify.com/album/7JJAVKH0nRCW4NzpAqUhGu"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 485920,
       "name": "Pannonica",
       "url": "https://open.spotify.com/track/4iuYeo7alKHLLyNBIWbt88"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Pushing the World Away",
+        "url": "https://open.spotify.com/album/79HogqAl7FydqNlNZqVz79"
+      },
+      "artists": [
+        {
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
+        }
+      ],
+      "duration_ms": 223960,
+      "name": "A Side Order of Hijiki",
+      "url": "https://open.spotify.com/track/2ZdIftmBJqA88uoE8H1wZq"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -2011,6 +2011,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "Back East",
+        "url": "https://open.spotify.com/album/3fNLmm3yOGCQYr2M8Tc5UE"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        }
+      ],
+      "duration_ms": 400853,
+      "name": "Back East",
+      "url": "https://open.spotify.com/track/5BxatdeERzU9irLOFkkHG5"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "The Unissued Copenhagen Studio Session",
         "url": "https://open.spotify.com/album/2x0fbyQOBccjXwUZPVTvWc"
       },
@@ -2035,22 +2051,6 @@
       "duration_ms": 446194,
       "name": "Blues in G Flat",
       "url": "https://open.spotify.com/track/0Ue2r9lo6Af2Ix8V1OJWy4"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "Back East",
-        "url": "https://open.spotify.com/album/3fNLmm3yOGCQYr2M8Tc5UE"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        }
-      ],
-      "duration_ms": 400853,
-      "name": "Back East",
-      "url": "https://open.spotify.com/track/5BxatdeERzU9irLOFkkHG5"
     },
     {
       "added_at": "2024-07-17 12:24:10",

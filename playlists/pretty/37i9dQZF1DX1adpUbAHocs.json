@@ -1,6 +1,6 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 646450,
+  "num_followers": 646392,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
+        "name": "Highs & Lows",
+        "url": "https://open.spotify.com/album/5xcCwJuG2hWwWIwWSWXxw8"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 209621,
+      "name": "Highs & Lows",
+      "url": "https://open.spotify.com/track/7IA1Rvt3w8p0PihpYH9JTB"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 212480,
       "name": "Highwomen",
       "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
-        "name": "Highs & Lows",
-        "url": "https://open.spotify.com/album/5xcCwJuG2hWwWIwWSWXxw8"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 209621,
-      "name": "Highs & Lows",
-      "url": "https://open.spotify.com/track/7IA1Rvt3w8p0PihpYH9JTB"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "The Third Gleam",
-        "url": "https://open.spotify.com/album/6qHVJFxoizJAdhB7CdbaV2"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 244280,
-      "name": "Untitled #4",
-      "url": "https://open.spotify.com/track/1kq9lzEHoY3p8naHWpqNlh"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Virginia (Wind In The Night)",
         "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 205293,
       "name": "Virginia (Wind In The Night)",
       "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "The Third Gleam",
+        "url": "https://open.spotify.com/album/6qHVJFxoizJAdhB7CdbaV2"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 244280,
+      "name": "Untitled #4",
+      "url": "https://open.spotify.com/track/1kq9lzEHoY3p8naHWpqNlh"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "The Pet Parade",
-        "url": "https://open.spotify.com/album/4fyZyhtsOevsFYLbLitaHZ"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 248925,
-      "name": "The Balcony",
-      "url": "https://open.spotify.com/track/27GaPhdSkbvrfPTKZk2C6V"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Taking Things For Granted",
         "url": "https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 216167,
       "name": "Taking Things For Granted",
       "url": "https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "The Pet Parade",
+        "url": "https://open.spotify.com/album/4fyZyhtsOevsFYLbLitaHZ"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 248925,
+      "name": "The Balcony",
+      "url": "https://open.spotify.com/track/27GaPhdSkbvrfPTKZk2C6V"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Stand For Myself",
-        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 204693,
-      "name": "Diamond Studded Shoes",
-      "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Weather Balloons [Feat. Frances Cone]",
         "url": "https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 212502,
       "name": "Weather Balloons [Feat. Frances Cone]",
       "url": "https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Stand For Myself",
+        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 204693,
+      "name": "Diamond Studded Shoes",
+      "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Sometimes I Wish We Were An Eagle",
-        "url": "https://open.spotify.com/album/4bKHXqEVmt32YU7u51GIHB"
-      },
-      "artists": [
-        {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
-        }
-      ],
-      "duration_ms": 342746,
-      "name": "Rococo Zephyr",
-      "url": "https://open.spotify.com/track/4pptcDdsgxN4qsjOOzotI6"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "South Gotta Change",
         "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 225266,
       "name": "South Gotta Change",
       "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Sometimes I Wish We Were An Eagle",
+        "url": "https://open.spotify.com/album/4bKHXqEVmt32YU7u51GIHB"
+      },
+      "artists": [
+        {
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+        }
+      ],
+      "duration_ms": 342746,
+      "name": "Rococo Zephyr",
+      "url": "https://open.spotify.com/track/4pptcDdsgxN4qsjOOzotI6"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "8th Wonder",
-        "url": "https://open.spotify.com/album/5GA9VdRshqKOSOdAEPYG0b"
+        "name": "Good Luck With Whatever",
+        "url": "https://open.spotify.com/album/3esEgXmUs1zjBVqijbZ6RQ"
       },
       "artists": [
         {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
         }
       ],
-      "duration_ms": 226116,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/3wCgdTY19EGEvBVdz2yZ9s"
+      "duration_ms": 332853,
+      "name": "Didn't Fix Me",
+      "url": "https://open.spotify.com/track/4pqcb6b9PoBnK3HSt4tIeo"
     }
   ],
   "unique_name": "Scenic Route",

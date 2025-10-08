@@ -1,6 +1,6 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 342500,
+  "num_followers": 342486,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,26 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "1001 Arabian Nights",
+        "url": "https://open.spotify.com/album/6yGgrWVZENV6IQCCpxZQRI"
+      },
+      "artists": [
+        {
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        },
+        {
+          "name": "Chipz",
+          "url": "https://open.spotify.com/artist/770rU18or2uAGT21xyvpzp"
+        }
+      ],
+      "duration_ms": 174960,
+      "name": "1001 Arabian Nights",
+      "url": "https://open.spotify.com/track/3YmiKv5z67ZV8tiW1eNHCM"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/5miAnRqv7eWbmgY4nK7jU9"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 168300,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/6Cm7r5U5igaAnwKOWjFhTq"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "1001 Arabian Nights",
-        "url": "https://open.spotify.com/album/6yGgrWVZENV6IQCCpxZQRI"
-      },
-      "artists": [
-        {
-          "name": "ItaloBrothers",
-          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
-        },
-        {
-          "name": "Chipz",
-          "url": "https://open.spotify.com/artist/770rU18or2uAGT21xyvpzp"
-        }
-      ],
-      "duration_ms": 174960,
-      "name": "1001 Arabian Nights",
-      "url": "https://open.spotify.com/track/3YmiKv5z67ZV8tiW1eNHCM"
     },
     {
       "added_at": "2025-02-14 16:04:15",

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Lola Young
 
-2,207 songs - 4 day 21 hr 5 min
+2,208 songs - 4 day 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,7 +446,7 @@
 | [Cracks](https://open.spotify.com/track/6h9z8SJFDJdCVkr2rrgfFG) | [golda may](https://open.spotify.com/artist/37twljvcr2zd46xUUZlnl6) | [Cracks](https://open.spotify.com/album/4P6em4ZoeR760u9Zug8FE2) | 3:27 | 2022-02-25 | 2022-07-23 |
 | [CRASH COURSE](https://open.spotify.com/track/2nkKGF3kerIiYuAlLdZrGZ) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [CRASH COURSE](https://open.spotify.com/album/2QCeOLhHdbL0acU3hdZoWJ) | 3:37 | 2022-06-17 | 2022-07-28 |
 | [Crashing \(feat\. Bahari\)](https://open.spotify.com/track/3C5piNghVn2W537rCH1eUj) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu) | [To All The Boys: P.S\. I Still Love You \(Music From The Netflix Film\)](https://open.spotify.com/album/37QF4ERcZXyv3i4s22akY5) | 3:50 | 2020-10-20 | 2021-05-27 |
-| [Crashing \(with Kali Uchis\)](https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Crashing \(with Kali Uchis\)](https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS) | 3:07 | 2025-02-28 |  |
+| [Crashing \(with Kali Uchis\)](https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Crashing \(with Kali Uchis\)](https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS) | 3:07 | 2025-02-28 | 2025-10-08 |
 | [Crawl \(feat\. Anna Shoemaker\)](https://open.spotify.com/track/2tyh6kMjnlUsAfyvrYwIDE) | [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6), [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [Crawl \(feat\. Anna Shoemaker\)](https://open.spotify.com/album/09X44dWv4yXjDk7c0EvoPS) | 2:15 | 2022-04-15 | 2022-07-27 |
 | [Crazy Sexy Dream Girl](https://open.spotify.com/track/7hoWwNa00H6yxrphgy0JsT) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Crazy Sexy Dream Girl](https://open.spotify.com/album/51AT6z6XtArrpKzYq3cnbz) | 2:26 | 2022-10-28 | 2022-10-30 |
 | [Cream Shirt](https://open.spotify.com/track/0FeXe1ip5JvofSszofHYIQ) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Cream Shirt](https://open.spotify.com/album/0krr7Z6jLgFaj613S6ZNjK) | 2:43 | 2021-06-02 | 2022-01-06 |
@@ -2077,6 +2077,7 @@
 | [Waiting](https://open.spotify.com/track/7JfqyQ8JSRve0oXhbH1Y8m) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [Waiting](https://open.spotify.com/album/3dDEzizNaiMilGP4dHFNUn) | 2:39 | 2020-11-10 | 2021-01-15 |
 | [Wake Me up When My 20's End](https://open.spotify.com/track/1Un2pcWyuv5cbQpPX1mu8X) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Wake Me up When My 20's End](https://open.spotify.com/album/7cNEaCkk9aR3DeTXxyYgID) | 3:14 | 2022-04-15 | 2022-04-18 |
 | [Walk The Way](https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Ridin'](https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O) | 3:11 | 2025-05-16 | 2025-06-14 |
+| [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 | 2025-10-03 |  |
 | [Walk With Me](https://open.spotify.com/track/7bYhWHFq1bdgF75y0CE9E9) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Walk With Me](https://open.spotify.com/album/07PhwpxrmufeLRlZC0slVg) | 2:52 | 2023-02-17 | 2023-04-05 |
 | [walkin away](https://open.spotify.com/track/1Ma3MobM1PLGweJGm5Uot6) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [walkin away](https://open.spotify.com/album/2HK5ELNGPvIRwzKapotDmJ) | 3:06 | 2021-10-10 | 2021-10-11 |
 | [Walking Home to You \(RAC Mix\)](https://open.spotify.com/track/1AjjtVlQEDRp6obXze4xGl) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [Walking Home to You \(RAC Mix\)](https://open.spotify.com/album/5p0k5EZvya5VoDdirGlF1q) | 3:36 | 2021-02-22 | 2021-10-12 |

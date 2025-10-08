@@ -4,7 +4,7 @@
 
 > English songs from Indian artists<br/>Cover: Jeremiah de Rozario
 
-349 songs - 20 hr 7 min
+350 songs - 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Do The Dance](https://open.spotify.com/track/7rMomVJTqGMjJnXRlgf4Wh) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Do The Dance](https://open.spotify.com/album/3Nz9tlXFXZYvrmls5Qvxza) | 4:02 | 2023-04-04 | 2023-05-20 |
 | [Dream Girl](https://open.spotify.com/track/669SiWtpzweozGGgO9bGVx) | [Jhalli](https://open.spotify.com/artist/4WYrwXBnVA79QFb6pI3xEf) | [Why Should I?](https://open.spotify.com/album/294eYYYdub5x8R5nwQCDRB) | 3:16 | 2022-04-28 | 2022-05-08 |
 | [Dreaming In My Mind](https://open.spotify.com/track/5d0vzUSG3l87BRtGR726RN) | [Jaden Maskie](https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0) | [Dreaming In My Mind](https://open.spotify.com/album/1pCyN5L4pRaw7l0ouq9AFF) | 3:14 | 2022-03-25 | 2023-08-24 |
+| [E.L.T](https://open.spotify.com/track/2jFZ4MBoB3GkKYYIppdrTg) | [Saachi](https://open.spotify.com/artist/4Gbsv1WfhPA5JxVdu1b4R7) | [Wishbone](https://open.spotify.com/album/702dFENFJw2NnwDVc6poeC) | 3:38 | 2025-10-07 |  |
 | [Elevator Music \(OMG\)](https://open.spotify.com/track/4mYTYavKZErjx5MjDuaNW2) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Blueboy Must Die](https://open.spotify.com/album/7HxuP6eVdhcYH810tElmAg) | 2:44 | 2023-09-07 | 2024-06-22 |
 | [Eleven](https://open.spotify.com/track/1yQ7fGXsbp2oHzlCLCKeIW) | [Sunday Moon](https://open.spotify.com/artist/6hyHuSf5Ft5jkSCmTg1RNn) | [Eleven](https://open.spotify.com/album/5156bg3GMWbE5HG0fYIpIE) | 3:23 | 2023-05-24 | 2023-09-03 |
 | [Eleven](https://open.spotify.com/track/4hTSDYZuvejzX7lC667Qdt) | [Sunday Moon](https://open.spotify.com/artist/6hyHuSf5Ft5jkSCmTg1RNn) | [Eleven](https://open.spotify.com/album/6rWYgwW4ytO7sHkEQSKAMT) | 3:23 | 2023-08-29 | 2024-04-19 |
@@ -125,7 +126,7 @@
 | [Have You Been Told](https://open.spotify.com/track/5Lz6NqjGEBDNsDDxnygkUJ) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB) | [Have You Been Told](https://open.spotify.com/album/5pHcP8GHanM9jb6k9sDris) | 3:01 | 2022-04-11 | 2023-08-18 |
 | [Headrush](https://open.spotify.com/track/7oLdorBxa3NvbkOyoHi7Kf) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [adL](https://open.spotify.com/artist/4ERBh5R40XpUy1uk9aZzag) | [Headrush](https://open.spotify.com/album/0MExe2bXS8GwfAWLKAJPce) | 2:59 | 2022-09-26 | 2023-02-08 |
 | [Healing](https://open.spotify.com/track/6SjFc8iaehM0920mfYsq9X) | [Anyasa](https://open.spotify.com/artist/63zQTMtwPjkb5cFFMkL4xd), [Parallel Voices](https://open.spotify.com/artist/6GP9OmnhCjVx3n9jKjoYQH), [Lake Silver](https://open.spotify.com/artist/3jUIM87ijH82I8Wp91U6aE) | [Healing](https://open.spotify.com/album/2o64ZD2pXn8VW9Lr1usAKq) | 4:21 | 2025-03-05 |  |
-| [Heartbreak 2020](https://open.spotify.com/track/0PIyGX9ZcJWNnyEtQfMNAW) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Heartbreak 2020](https://open.spotify.com/album/2zjPqiapUHz5lSNL8NImwp) | 2:52 | 2024-06-21 |  |
+| [Heartbreak 2020](https://open.spotify.com/track/0PIyGX9ZcJWNnyEtQfMNAW) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Heartbreak 2020](https://open.spotify.com/album/2zjPqiapUHz5lSNL8NImwp) | 2:52 | 2024-06-21 | 2025-10-08 |
 | [Heartless](https://open.spotify.com/track/6NZVpnuEbRWkXucouWEbaq) | [Sarah Black](https://open.spotify.com/artist/42HHTJt9IDWgxElbHzZStO) | [Heartless](https://open.spotify.com/album/7oazSeCF0JivrnL8neefG7) | 2:47 | 2024-05-02 | 2024-07-14 |
 | [Hello and Goodbye](https://open.spotify.com/track/1UXQnieFGCBAeiWM173eMX) | [Jeanne Merchant](https://open.spotify.com/artist/3JSGvZjELvoBZalvFCM6Zp), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Hello and Goodbye](https://open.spotify.com/album/3LpTSaMHbu8oo0CBxjgMJt) | 3:09 | 2022-08-05 | 2023-01-13 |
 | [Her Land](https://open.spotify.com/track/3Z7TBEPwIZSoJCV3TWEq7L) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Inna MODJA](https://open.spotify.com/artist/2Wcolafj7tcFeVOIr0V4Ju) | [Her Land](https://open.spotify.com/album/0VmUPJI50gmDvjzSKV1xQl) | 2:32 | 2024-05-17 | 2024-07-01 |

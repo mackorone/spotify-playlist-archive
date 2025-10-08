@@ -1,12 +1,12 @@
 {
   "description": "This is La Fiera de Ojinaga. The essential tracks, all in one playlist.",
-  "num_followers": 52016,
+  "num_followers": 52030,
   "original_name": "This Is La Fiera de Ojinaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAADKtM63LHBuqQhzQNyWzYkV",
+  "snapshot_id": "aOMGgAAAAADe+lz8siSxjfwBzLdDAJhi",
   "tracks": [
     {
       "added_at": null,
@@ -359,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Otro Canal",
+        "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 227196,
+      "name": "Lo Dejar\u00eda Todo",
+      "url": "https://open.spotify.com/track/2HgLertx97aKmtkVfNymvU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Quiero Compartir",
         "url": "https://open.spotify.com/album/3D9xpDoODtzajKTq6oqV6k"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 165700,
       "name": "No Quiero Compartir",
       "url": "https://open.spotify.com/track/7fzMXmWm7vONX6aRq7M1jI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Otro Canal",
-        "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 227196,
-      "name": "Lo Dejar\u00eda Todo",
-      "url": "https://open.spotify.com/track/2HgLertx97aKmtkVfNymvU"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Intento Diez Mil",
-        "url": "https://open.spotify.com/album/2vA069Infjo2PL11CIwDiW"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 149825,
-      "name": "Intento Diez Mil",
-      "url": "https://open.spotify.com/track/2j17wb2STjaPtvddrv82ok"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Otro Canal",
         "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 228863,
       "name": "A Decir Verdad",
       "url": "https://open.spotify.com/track/6YYroAXcnuMR0PqfRkFTch"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Intento Diez Mil",
+        "url": "https://open.spotify.com/album/2vA069Infjo2PL11CIwDiW"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 149825,
+      "name": "Intento Diez Mil",
+      "url": "https://open.spotify.com/track/2j17wb2STjaPtvddrv82ok"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Otro Canal",
+        "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 194247,
+      "name": "Basta",
+      "url": "https://open.spotify.com/track/7G9Z2p9GUo86ssw05dRRYH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como un Meteorito",
         "url": "https://open.spotify.com/album/2NPXznFzShgA3D4bapgYR1"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 181034,
       "name": "Maldita Soledad",
       "url": "https://open.spotify.com/track/4MuXo5mfMatTI3sImuqjg3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Otro Canal",
-        "url": "https://open.spotify.com/album/3HvJP0u24DXt8j3NWu8a90"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 194247,
-      "name": "Basta",
-      "url": "https://open.spotify.com/track/7G9Z2p9GUo86ssw05dRRYH"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Novena Maravilla",
-        "url": "https://open.spotify.com/album/6Tfu5rYl1kXCKtTdEKstfO"
+        "name": "7.2",
+        "url": "https://open.spotify.com/album/3PvzlNzZj7gaNlWDR6YdKB"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 166314,
-      "name": "La Novena Maravilla",
-      "url": "https://open.spotify.com/track/2FCD94ziDenugcxQ3ROu3e"
+      "duration_ms": 160235,
+      "name": "Si Llegan a Enterarse",
+      "url": "https://open.spotify.com/track/235uSINaGqneZry2vVXtx0"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "7.2",
-        "url": "https://open.spotify.com/album/3PvzlNzZj7gaNlWDR6YdKB"
+        "name": "La Novena Maravilla",
+        "url": "https://open.spotify.com/album/6Tfu5rYl1kXCKtTdEKstfO"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
         }
       ],
-      "duration_ms": 160235,
-      "name": "Si Llegan a Enterarse",
-      "url": "https://open.spotify.com/track/235uSINaGqneZry2vVXtx0"
+      "duration_ms": 166314,
+      "name": "La Novena Maravilla",
+      "url": "https://open.spotify.com/track/2FCD94ziDenugcxQ3ROu3e"
     },
     {
       "added_at": null,

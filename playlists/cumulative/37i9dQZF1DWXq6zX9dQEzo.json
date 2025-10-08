@@ -5151,6 +5151,28 @@
     },
     {
       "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/77K4ooWFuanFo5DG5sdSBn"
+      },
+      "artists": [
+        {
+          "name": "George.Rose",
+          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
+        },
+        {
+          "name": "RUA YOUNG",
+          "url": "https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130800,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/5SJh1lE1q3wGH8r0GwMKOQ"
+    },
+    {
+      "album": {
         "name": "4 SUCH A TIME AS THIS",
         "url": "https://open.spotify.com/album/7wEgKzItFRcG8fZCjB6eEN"
       },
@@ -12924,7 +12946,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 152554,
       "name": "Roses",
       "url": "https://open.spotify.com/track/3803B0uUfFimmhthYY1oOb"

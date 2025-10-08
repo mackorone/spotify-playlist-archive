@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Langa Mavuso, Taylor Swift, Lwah Ndlunkulu and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,408 likes - 54 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,434 likes - 54 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 47 | [Abewe](https://open.spotify.com/track/1LVXGbpSNcIKiOt397YgBq) | [Miishu](https://open.spotify.com/artist/4v2RSTDKxzZ928MWSYCOVf), [Nick Degree](https://open.spotify.com/artist/5gQYREYJc3mdqDpP2oIBEv), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Abewe](https://open.spotify.com/album/5fekFoFqgcMDHn18fe4jUA) | 4:26 |
 | 48 | [Umoya](https://open.spotify.com/track/5Jk0YZ8Lg1FaRbSLpswXQ7) | [Theology HD](https://open.spotify.com/artist/06xHyUrgB95PtkQLX5vmnH), [Swizxle](https://open.spotify.com/artist/4JPwfgi9Af5J2kwnmYDc7T) | [Umoya](https://open.spotify.com/album/1IcdZ0CwB4ImB1FRs6NIyS) | 4:56 |
 | 49 | [That's What You Do](https://open.spotify.com/track/3LmoUZyMBnZxCaCuc3QZaK) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [4Love \(Live at CRC, Pretoria, 2025\)](https://open.spotify.com/album/0g3BcSfCAuRn5bXAhFT7CI) | 6:23 |
-| 50 | [Stage Ya Mwisho](https://open.spotify.com/track/4DaouMbzqBe1eaMtaTgzWv) | [Vic West](https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn), [Iyanii](https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr) | [Stage Ya Mwisho](https://open.spotify.com/album/1gIhAIB17QtPHUTr3ZUihX) | 4:50 |
+| 50 | [Stage Ya Mwisho](https://open.spotify.com/track/4DaouMbzqBe1eaMtaTgzWv) | [Vic West](https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn), [Iyanii](https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr) | [Stage Ya Mwisho](https://open.spotify.com/album/1gIhAIB17QtPHUTr3ZUihX) | 4:22 |
 | 51 | [MENU](https://open.spotify.com/track/7gPfcWLq41GtuvwHNWGnZe) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [MENU](https://open.spotify.com/album/2W6hDvOtf3AloLmKkoiXpt) | 2:39 |
 | 52 | [NBA](https://open.spotify.com/track/6SYSI5Fol8vWUexnGsCY0E) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [NBA](https://open.spotify.com/album/2ALybwwwe9YvLxFV7Ok5nK) | 2:49 |
 | 53 | [Maemo](https://open.spotify.com/track/3EAoWEKmNMONAjw2d8AbHC) | [Ghost\_za](https://open.spotify.com/artist/1jzU80S28xPPdHb7wPg4no), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq), [Loony Q](https://open.spotify.com/artist/63k6MOZctLy9IFJqdYgKDv), [Vyron](https://open.spotify.com/artist/1l51pl1ODY7yHPf1Nwi0f3) | [Maemo](https://open.spotify.com/album/2ct3rceZAfO7A6FjzkrRvF) | 7:07 |

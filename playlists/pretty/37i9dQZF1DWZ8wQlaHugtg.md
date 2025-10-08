@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ8wQlaHugtg.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/nnekaenergy/">Nneka Onuorah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 629 likes - 48 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 628 likes - 48 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

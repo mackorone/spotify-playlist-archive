@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: IFE",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: lj",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -1012,7 +1012,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 123442,
       "name": "a Day*",
       "url": "https://open.spotify.com/track/1SoWF0Wku4G693M3rSAiC7"
@@ -3141,6 +3141,24 @@
     },
     {
       "album": {
+        "name": "bottom",
+        "url": "https://open.spotify.com/album/2arKpCgheIOaMs7milShBO"
+      },
+      "artists": [
+        {
+          "name": "VCE NAVA",
+          "url": "https://open.spotify.com/artist/4oG9mZoApHLm4xxMgl4giO"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148604,
+      "name": "bottom",
+      "url": "https://open.spotify.com/track/1X7Qz1fMx7cZcVbzE0EYgM"
+    },
+    {
+      "album": {
         "name": "Tape the Ballin 1",
         "url": "https://open.spotify.com/album/2XDcOjCSqZckRYHGSkgG2Z"
       },
@@ -4308,7 +4326,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 127500,
       "name": "D.A.N.C.E.",
       "url": "https://open.spotify.com/track/1WKiAnFvW4vdswsve4195y"
@@ -5698,7 +5716,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 128699,
       "name": "DWSD",
       "url": "https://open.spotify.com/track/2rwEnrqY21yLks9kgk9aTw"
@@ -6457,6 +6475,24 @@
     },
     {
       "album": {
+        "name": "LIF3STYLE",
+        "url": "https://open.spotify.com/album/44EXxun3bs6IPC8i0FQr8g"
+      },
+      "artists": [
+        {
+          "name": "M3R",
+          "url": "https://open.spotify.com/artist/0My6iE80NWFYIob8q4GknJ"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "FANTA",
+      "url": "https://open.spotify.com/track/3hD5ducFp9VClwWMHSgdK9"
+    },
+    {
+      "album": {
         "name": "Far away (feat. REVE)",
         "url": "https://open.spotify.com/album/4vt7raPNH9aXLPiacR4Wsp"
       },
@@ -6472,7 +6508,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 190000,
       "name": "Far away (feat. REVE)",
       "url": "https://open.spotify.com/track/6wKzcfW5O7pmgjgQM72Bfc"
@@ -7572,7 +7608,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 171379,
       "name": "Get",
       "url": "https://open.spotify.com/track/5wP2Ldr0wOSB82yY9h1G34"
@@ -10132,7 +10168,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 155800,
       "name": "Juggin (feat. JuggrixhSentana)",
       "url": "https://open.spotify.com/track/0dWe0ElHM9gWdz1LJw2iNZ"
@@ -11516,6 +11552,32 @@
       "duration_ms": 202013,
       "name": "Lonely Child (feat. Carz)",
       "url": "https://open.spotify.com/track/4O3RAIPl2v9OuaDApbEsB0"
+    },
+    {
+      "album": {
+        "name": "Lonely Glory",
+        "url": "https://open.spotify.com/album/4ETlZHpSG03Uqh7EnKhY0b"
+      },
+      "artists": [
+        {
+          "name": "DJ Yen",
+          "url": "https://open.spotify.com/artist/5kRFqqvu4FOtaOevEfYH60"
+        },
+        {
+          "name": "stb",
+          "url": "https://open.spotify.com/artist/0rGik946QMPvmQ5neZrEjr"
+        },
+        {
+          "name": "Yongi Black",
+          "url": "https://open.spotify.com/artist/1CQErvroYdDyZz8fVsXmLm"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136504,
+      "name": "Lonely Glory",
+      "url": "https://open.spotify.com/track/1XOSRyfHkHjHzZbItPP8SF"
     },
     {
       "album": {
@@ -14703,6 +14765,24 @@
     },
     {
       "album": {
+        "name": "Pain Always",
+        "url": "https://open.spotify.com/album/1TP00lNzObMKD7y6tb3PFx"
+      },
+      "artists": [
+        {
+          "name": "YOUNG GAGA GG DIOR",
+          "url": "https://open.spotify.com/artist/14prIQmzeWu0jB21VSrSOd"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135949,
+      "name": "Pain Always",
+      "url": "https://open.spotify.com/track/39tWjRwf5Mbz9Im1BTmREi"
+    },
+    {
+      "album": {
         "name": "pAinAwAy",
         "url": "https://open.spotify.com/album/7JmNTpLm6xDgVXglLgxxC6"
       },
@@ -15580,6 +15660,28 @@
       "duration_ms": 115028,
       "name": "Rank up",
       "url": "https://open.spotify.com/track/1EO5QqxtxeJWmElrDhsAWk"
+    },
+    {
+      "album": {
+        "name": "little junior",
+        "url": "https://open.spotify.com/album/0Ilu9bAsZOYlLkFUGSPDbe"
+      },
+      "artists": [
+        {
+          "name": "lj",
+          "url": "https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez"
+        },
+        {
+          "name": "MIKADO",
+          "url": "https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162393,
+      "name": "RAP BOY pt2 (feat. MIKADO)",
+      "url": "https://open.spotify.com/track/3pidFDSYwepePnl2etITtU"
     },
     {
       "album": {
@@ -16584,7 +16686,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 183064,
       "name": "SANKA",
       "url": "https://open.spotify.com/track/103hb4hU8MZzqgAck2wiQl"
@@ -17976,7 +18078,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 213629,
       "name": "Still Move",
       "url": "https://open.spotify.com/track/6npl5S7rnfH4zOG4RFre1Z"
@@ -19769,6 +19871,32 @@
     },
     {
       "album": {
+        "name": "Until I Die",
+        "url": "https://open.spotify.com/album/652qAoohHo3B3XUzwbLMBG"
+      },
+      "artists": [
+        {
+          "name": "sheidA",
+          "url": "https://open.spotify.com/artist/4cCmlLDD6JcIEM4RaDIxaZ"
+        },
+        {
+          "name": "D3adStock",
+          "url": "https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd"
+        },
+        {
+          "name": "Kiyoki",
+          "url": "https://open.spotify.com/artist/4YqDFjvk7ovTE8bYLHr2ux"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150624,
+      "name": "Until I Die",
+      "url": "https://open.spotify.com/track/5XR0jpBmQZW6dJLZiwgPkg"
+    },
+    {
+      "album": {
         "name": "Urban Freestyle",
         "url": "https://open.spotify.com/album/3lMuupKrlHWksB7cFPsou3"
       },
@@ -20849,6 +20977,28 @@
     },
     {
       "album": {
+        "name": "Y.N's",
+        "url": "https://open.spotify.com/album/2fFcu0BkkJTwAMzxFgIGe3"
+      },
+      "artists": [
+        {
+          "name": "WillHalo",
+          "url": "https://open.spotify.com/artist/2ftpnp4cnsC34IHuwrOsPx"
+        },
+        {
+          "name": "Yvngboi P",
+          "url": "https://open.spotify.com/artist/6OpF456GdtGi3oqOafqVWW"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173892,
+      "name": "Y.N's",
+      "url": "https://open.spotify.com/track/3P4zFZrex1twZ4CZXmIhqe"
+    },
+    {
+      "album": {
         "name": "yabebe (feat. sitissy luvit)",
         "url": "https://open.spotify.com/album/0AmpP7KiOuy0U3ro3w1SGw"
       },
@@ -20926,6 +21076,24 @@
       "duration_ms": 136901,
       "name": "Yamanai",
       "url": "https://open.spotify.com/track/2NM4NQIhnCyCL7oErgFunc"
+    },
+    {
+      "album": {
+        "name": "Journey 2000",
+        "url": "https://open.spotify.com/album/1iUpHDlM8jjWmXYpct3imH"
+      },
+      "artists": [
+        {
+          "name": "Yamiboi To$",
+          "url": "https://open.spotify.com/artist/27MxRYUqOp5h0sY4T9u5es"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115197,
+      "name": "YAMIBOI GUAP",
+      "url": "https://open.spotify.com/track/1ppWb5OSbCaQD3G7qEvyTD"
     },
     {
       "album": {

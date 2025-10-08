@@ -1,6 +1,6 @@
 {
   "description": "Josh Ross and Country hits that will have you singing every word.",
-  "num_followers": 452334,
+  "num_followers": 452315,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 166676,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
         "name": "Pour Me A Drink",
         "url": "https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Take Me Home, Country Roads",
-        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 166676,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl"
       },
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Holy Smokes",
-        "url": "https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 195157,
-      "name": "Holy Smokes",
-      "url": "https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "The Painter",
         "url": "https://open.spotify.com/album/5KxDhlSxJGEOcaTnqKwdYu"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 211413,
       "name": "The Painter",
       "url": "https://open.spotify.com/track/6UoKX6uLJwhsnyTp5k5StP"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Holy Smokes",
+        "url": "https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 195157,
+      "name": "Holy Smokes",
+      "url": "https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Love You Again",
-        "url": "https://open.spotify.com/album/08J0usmnyEIpNH9GEtTk5p"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 173636,
-      "name": "Love You Again",
-      "url": "https://open.spotify.com/track/1cAupeTLZyhhtfmRc4qaYy"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Fix What You Didn't Break",
         "url": "https://open.spotify.com/album/7d0hS6Qa9gXEjwlbsJbaEr"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 201555,
       "name": "Fix What You Didn't Break",
       "url": "https://open.spotify.com/track/0GJ8peTqHq9pu5Yf2vHjjX"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Love You Again",
+        "url": "https://open.spotify.com/album/08J0usmnyEIpNH9GEtTk5p"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "duration_ms": 173636,
+      "name": "Love You Again",
+      "url": "https://open.spotify.com/track/1cAupeTLZyhhtfmRc4qaYy"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Making Good Time",
-        "url": "https://open.spotify.com/album/5JXMh1FdutuSfyPtfdJxMQ"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 167218,
-      "name": "Making Good Time",
-      "url": "https://open.spotify.com/track/4jh5v2PmmcryAzPnuEQjUG"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Cowboys Cry Too (with Noah Kahan)",
         "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 230600,
       "name": "Cowboys Cry Too (with Noah Kahan)",
       "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Making Good Time",
+        "url": "https://open.spotify.com/album/5JXMh1FdutuSfyPtfdJxMQ"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 167218,
+      "name": "Making Good Time",
+      "url": "https://open.spotify.com/track/4jh5v2PmmcryAzPnuEQjUG"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Back Then Right Now",
-        "url": "https://open.spotify.com/album/3IQfOGGUJfBkWIgXzLaub9"
-      },
-      "artists": [
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
-        }
-      ],
-      "duration_ms": 201485,
-      "name": "Back Then Right Now",
-      "url": "https://open.spotify.com/track/0GdZqKPBrvkpo7mk2OyHtf"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "The Devil I've Seen",
         "url": "https://open.spotify.com/album/1KAXeCYFOrQwZzQlpf0dnI"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 203550,
       "name": "The Devil I've Seen",
       "url": "https://open.spotify.com/track/4MLomKQI0oeXO1DeJBiRp2"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Back Then Right Now",
+        "url": "https://open.spotify.com/album/3IQfOGGUJfBkWIgXzLaub9"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "duration_ms": 201485,
+      "name": "Back Then Right Now",
+      "url": "https://open.spotify.com/track/0GdZqKPBrvkpo7mk2OyHtf"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "STRAIGHT LINE",
-        "url": "https://open.spotify.com/album/3uacbN2CW4qOedhbLIWsIg"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "STRAIGHT LINE",
-      "url": "https://open.spotify.com/track/5eUuNoeb3ssH6T6zQiXsIj"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Good News Sold",
         "url": "https://open.spotify.com/album/0z3clvkLiQYa5q6bIcrODQ"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 203432,
       "name": "Good News Sold",
       "url": "https://open.spotify.com/track/2nK23mwuUUiJTx9efT9Lvb"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "STRAIGHT LINE",
+        "url": "https://open.spotify.com/album/3uacbN2CW4qOedhbLIWsIg"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "STRAIGHT LINE",
+      "url": "https://open.spotify.com/track/5eUuNoeb3ssH6T6zQiXsIj"
     }
   ],
   "unique_name": "Country Favourites",

@@ -1,12 +1,12 @@
 {
   "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 39385,
+  "num_followers": 39390,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAACxMQ4HI/zvrZFzcdfYuprG",
+  "snapshot_id": "aOMGgAAAAAA5ZLQhev4Jg4pmQQMkI77g",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 218332,
+      "name": "Pussy Talk",
+      "url": "https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Code Red",
         "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
       },
@@ -127,26 +147,6 @@
       "duration_ms": 177704,
       "name": "Said Sum (feat. City Girls & DaBaby) - Remix",
       "url": "https://open.spotify.com/track/13VXVxePp4NUiXwtmQ0viz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 218332,
-      "name": "Pussy Talk",
-      "url": "https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9"
     },
     {
       "added_at": null,
@@ -467,6 +467,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 190491,
+      "name": "Flewed Out",
+      "url": "https://open.spotify.com/track/3Ao4pGywlb4i8WiJgYWRm6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GOD DID",
         "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 208932,
       "name": "BILLS PAID (feat. Latto & City Girls)",
       "url": "https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 190491,
-      "name": "Flewed Out",
-      "url": "https://open.spotify.com/track/3Ao4pGywlb4i8WiJgYWRm6"
     },
     {
       "added_at": null,

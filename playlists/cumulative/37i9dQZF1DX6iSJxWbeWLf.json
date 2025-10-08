@@ -77,24 +77,6 @@
     },
     {
       "album": {
-        "name": "Lean Noise",
-        "url": "https://open.spotify.com/album/77UGfdTasZzZkMbeC8lYCg"
-      },
-      "artists": [
-        {
-          "name": "Hovar",
-          "url": "https://open.spotify.com/artist/3COnOYhmr8nINwgd54Z8wj"
-        }
-      ],
-      "date_added": "2025-03-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 123702,
-      "name": "Ambient White Tones",
-      "url": "https://open.spotify.com/track/01MV13Hg9sfFNtgcMidjgE"
-    },
-    {
-      "album": {
         "name": "Warm Rain Shower",
         "url": "https://open.spotify.com/album/6lq8OihInr7laULnzIaT8l"
       },
@@ -581,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Lean Noise",
+        "url": "https://open.spotify.com/album/77UGfdTasZzZkMbeC8lYCg"
+      },
+      "artists": [
+        {
+          "name": "Hovar",
+          "url": "https://open.spotify.com/artist/3COnOYhmr8nINwgd54Z8wj"
+        }
+      ],
+      "date_added": "2025-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99925,
+      "name": "Focus On Noise",
+      "url": "https://open.spotify.com/track/01MV13Hg9sfFNtgcMidjgE"
+    },
+    {
+      "album": {
         "name": "Swedish River Sounds Vol. 2",
         "url": "https://open.spotify.com/album/5WFw9LxCl3TY6ioNWn9Jsf"
       },
@@ -820,8 +820,8 @@
       },
       "artists": [
         {
-          "name": "Hovar",
-          "url": "https://open.spotify.com/artist/3COnOYhmr8nINwgd54Z8wj"
+          "name": "Factorial FX",
+          "url": "https://open.spotify.com/artist/16weRDppbG11cOcQQtKjFu"
         }
       ],
       "date_added": "2025-03-11",

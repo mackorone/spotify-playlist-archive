@@ -4,7 +4,7 @@
 
 > Sounds of the city to help you drift off.
 
-247 songs - 11 hr 20 min
+249 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Dreamy Rain Sounds In Gothenburg](https://open.spotify.com/track/0PY38SQhVTAj0uO9LSpst4) | [Binaural Recorders](https://open.spotify.com/artist/7hhDQEEcoLGpUSpCbVgSWE) | [Dreamy Rain Sounds In Gothenburg](https://open.spotify.com/album/6dCm7h53wa8tfGaAqJdSmp) | 2:30 | 2022-08-03 |  |
 | [Dreamy Rain Sounds In The City](https://open.spotify.com/track/1IKzsW7IvaWse6FKm61LZA) | [High Sampling](https://open.spotify.com/artist/4DtTcZucLzox7VtkpWsVBw) | [City Dreams In Rain](https://open.spotify.com/album/34IgT3fjg8Y6OvYXtOlyzk) | 2:48 | 2022-06-03 |  |
 | [Drops Hitting The Streets](https://open.spotify.com/track/74ssBIOesuT98Bd5nh2RHD) | [Elements of Nature](https://open.spotify.com/artist/3r1H7zt8YmcO8Vj20uEMy5) | [Rain Pouring In The City](https://open.spotify.com/album/2f0mg3uG2ltyjgplyPFr4Z) | 2:48 | 2022-06-03 |  |
-| [East 55th Street Midtown Manhattan, New York City](https://open.spotify.com/track/37wzx4WskoVbr0D9NQbfNE) | [Dreaming Sound](https://open.spotify.com/artist/2GBHDXgTytZs3Zi8HfJmxL) | [City Sounds New York](https://open.spotify.com/album/7pYK96t4JbZe6mriYpfDnT) | 3:18 | 2022-02-09 |  |
+| [East 55th Street Midtown Manhattan, New York City](https://open.spotify.com/track/37wzx4WskoVbr0D9NQbfNE) | [Dreaming Sound](https://open.spotify.com/artist/2GBHDXgTytZs3Zi8HfJmxL) | [City Sounds New York](https://open.spotify.com/album/7pYK96t4JbZe6mriYpfDnT) | 3:18 | 2022-02-09 | 2025-10-08 |
 | [East Merrill Street](https://open.spotify.com/track/6KaORiLI72Blg3m9Ez2x6W) | [Man and Town](https://open.spotify.com/artist/4N1puMTTmIH6kdfbm9vSJY) | [CIty Sounds](https://open.spotify.com/album/64uzrDU78EAV9YejalfbkS) | 2:53 | 2022-08-03 |  |
 | [Evening Streets In Amsterdam](https://open.spotify.com/track/1MfVgLOZBjzXMHNQt53oN7) | [X.L.T](https://open.spotify.com/artist/5XmANDHn1nUVL3rVyohz9t) | [Evening Streets In Amsterdam](https://open.spotify.com/album/71dwbAinuqpUbdNUi2B8xu) | 2:48 | 2022-08-03 | 2023-06-06 |
 | [Exotic Bids & Light Traffic](https://open.spotify.com/track/0kC1rJ8vGmjrvpO2GlI1FD) | [Global Ambience](https://open.spotify.com/artist/1goj961rAV1i8TIFFVKUJ8) | [Sonidos De Riviera Maya](https://open.spotify.com/album/4L4NhyU5kOqqxWo9Q31nbg) | 3:34 | 2022-06-03 | 2023-05-05 |
@@ -243,6 +243,8 @@
 | [Urban Trickles](https://open.spotify.com/track/1pWL1vFXkSSGBUvvnlbQw9) | [Slumbertronica](https://open.spotify.com/artist/3UOooFmP4gSx8I5fnj7dni) | [Urban Atmos](https://open.spotify.com/album/1jpXonUYtmfRIxJxPZbjR7) | 3:12 | 2022-06-03 |  |
 | [Vatican Soundscapes](https://open.spotify.com/track/5481NFd1L4WNsJFlYKoRxJ) | [Global Ambience](https://open.spotify.com/artist/1goj961rAV1i8TIFFVKUJ8) | [Sea To Sea Holiday](https://open.spotify.com/album/3PvI51zdHr3d6rtVm7xVxY) | 2:42 | 2022-02-09 | 2023-06-06 |
 | [Vibrant City Noise](https://open.spotify.com/track/17Ypfdbh3t0W1iN38gfvSj) | [Yvon Giselle](https://open.spotify.com/artist/2AI2QVg6evvth5AUoCJpVN) | [City Noise And Downpour](https://open.spotify.com/album/4gFlGgUkJ2ruIPCCq4QAdw) | 1:54 | 2022-08-03 | 2023-06-17 |
+| [Vienna VIII](https://open.spotify.com/track/0Pa2ChlfGUwcfbCb4is5fn) | [Long X Lat](https://open.spotify.com/artist/3Oa28q7ufQ7rU3yeanaDvt) | [Vienna VIII](https://open.spotify.com/album/14nH4qkhELIt9qV73eWfLi) | 2:07 | 2025-10-07 |  |
+| [Vienna X](https://open.spotify.com/track/1A3AVMDYxSvRR82xSuNL4m) | [Long X Lat](https://open.spotify.com/artist/3Oa28q7ufQ7rU3yeanaDvt) | [Vienna X](https://open.spotify.com/album/67Ap4yWGNtOURW8denelEx) | 2:09 | 2025-10-07 |  |
 | [Walking Around Downtown Nashville](https://open.spotify.com/track/5OcR8AK66gFwNCksDat8Io) | [Nashville Traveler](https://open.spotify.com/artist/5RhJiYwFEoJPUb9DbxXlE2) | [Explorations](https://open.spotify.com/album/7mzGjZDfKuSfSbFfX2KaGP) | 6:37 | 2022-02-09 | 2023-06-06 |
 | [Walking In The Streets](https://open.spotify.com/track/7ivu2MfWa29mdtwdiEf6l2) | [Avenue](https://open.spotify.com/artist/7LnO6j07JcAqyWyEA2nQvJ) | [The City](https://open.spotify.com/album/2jdhDExTr1u73U6EfPfDnx) | 2:22 | 2022-02-09 |  |
 | [Walking Trough The Streets](https://open.spotify.com/track/1XiorjImwFLsuWarmB5Vzf) | [Elements of Nature](https://open.spotify.com/artist/3r1H7zt8YmcO8Vj20uEMy5) | [City Life Sounds](https://open.spotify.com/album/1lmMHCqYaWdhQjNNMuj82u) | 2:55 | 2022-08-03 | 2023-06-06 |

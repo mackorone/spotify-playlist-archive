@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- Tanmaya Bhatnagar
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,746 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,762 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 43 | [Rozaana](https://open.spotify.com/track/38rA3DEpHuNYUaKhwBKLTp) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Rozaana](https://open.spotify.com/album/2BWeKSmzh8UNutqaHf37SH) | 3:08 |
 | 44 | [With You](https://open.spotify.com/track/3gR1FcXGPjt9dUKoSarG0N) | [Bhoomi](https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs) | [With You](https://open.spotify.com/album/5KvnDsNuSiLY4TxworhRLC) | 2:24 |
 | 45 | [Gulfam](https://open.spotify.com/track/0mBZE8eWukMO81EZZCIQZB) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Gulfam](https://open.spotify.com/album/6sAAUAH0jGj035rmZc99Kt) | 2:33 |
-| 46 | [Dil Behra](https://open.spotify.com/track/6CNvkLUbOVTTwvtyAEPtmR) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Dil Behra](https://open.spotify.com/album/1MfW7hbD4ZQ4mgCwMoa9Eu) | 3:30 |
+| 46 | [Udta Parinda](https://open.spotify.com/track/1gCuddnspi9GThFomI8dYb) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Udta Parinda](https://open.spotify.com/album/2bQOQBSdlI6Oh7rW5rah5T) | 2:58 |
 | 47 | [Udd Chala](https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Udd Chala](https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu) | 4:46 |
 | 48 | [Noor](https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Noor](https://open.spotify.com/album/1C28dscSE3eMMySafwMSmm) | 3:12 |
-| 49 | [Udta Parinda](https://open.spotify.com/track/1gCuddnspi9GThFomI8dYb) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Udta Parinda](https://open.spotify.com/album/2bQOQBSdlI6Oh7rW5rah5T) | 2:58 |
+| 49 | [Dil Behra](https://open.spotify.com/track/6CNvkLUbOVTTwvtyAEPtmR) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Dil Behra](https://open.spotify.com/album/1MfW7hbD4ZQ4mgCwMoa9Eu) | 3:30 |
 | 50 | [Jaadugari](https://open.spotify.com/track/01JcMZVoGUIWpCacWTiJzb) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8) | [Jaadugari](https://open.spotify.com/album/5sPUfdDzhZ6CC4umEbHJD8) | 2:33 |
 
 Snapshot ID: `AAAAAPV4o2thBo3OIQ1NN3E45Ur/xuJT`

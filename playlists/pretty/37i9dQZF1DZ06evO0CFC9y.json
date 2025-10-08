@@ -1,29 +1,13 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 37585,
+  "num_followers": 37596,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAABqKlwgTbDGCy3Z7ed8hzA/",
+  "snapshot_id": "aOMGgAAAAAAuAqTGeSCWxfwONx+40MBS",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Holy Visions",
-        "url": "https://open.spotify.com/album/0hGwipVGYzT8HvuzJq6Mo3"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 210474,
-      "name": "Holy Visions",
-      "url": "https://open.spotify.com/track/4OyDuSzuVb5azaw8WCvcbM"
-    },
     {
       "added_at": null,
       "album": {
@@ -107,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DECEMBERUNDERGROUND",
-        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
+        "name": "Silver Bleeds the Black Sun...",
+        "url": "https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5"
       },
       "artists": [
         {
@@ -116,9 +100,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 165653,
-      "name": "Love Like Winter",
-      "url": "https://open.spotify.com/track/3cDE9Yn4GrsxSrlMCLdmTT"
+      "duration_ms": 148580,
+      "name": "VOIDWARD, I BEND BACK",
+      "url": "https://open.spotify.com/track/1X3cCp55Pui90xhNa8X6zL"
     },
     {
       "added_at": null,
@@ -139,6 +123,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Holy Visions",
+        "url": "https://open.spotify.com/album/0hGwipVGYzT8HvuzJq6Mo3"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 210474,
+      "name": "Holy Visions",
+      "url": "https://open.spotify.com/track/4OyDuSzuVb5azaw8WCvcbM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DECEMBERUNDERGROUND",
+        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 165653,
+      "name": "Love Like Winter",
+      "url": "https://open.spotify.com/track/3cDE9Yn4GrsxSrlMCLdmTT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Silver Bleeds the Black Sun...",
         "url": "https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5"
       },
@@ -148,9 +164,25 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 148580,
-      "name": "VOIDWARD, I BEND BACK",
-      "url": "https://open.spotify.com/track/1X3cCp55Pui90xhNa8X6zL"
+      "duration_ms": 184841,
+      "name": "Blasphemy & Excess",
+      "url": "https://open.spotify.com/track/5BAA4TvfHuuOqNntDkxmXJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sing The Sorrow",
+        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 250706,
+      "name": "Silver And Cold",
+      "url": "https://open.spotify.com/track/6RGV97HIkgZJjme2dzilfg"
     },
     {
       "added_at": null,
@@ -187,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing The Sorrow",
-        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 250706,
-      "name": "Silver And Cold",
-      "url": "https://open.spotify.com/track/6RGV97HIkgZJjme2dzilfg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Silver Bleeds the Black Sun...",
         "url": "https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5"
       },
@@ -212,9 +228,25 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 184841,
-      "name": "Blasphemy & Excess",
-      "url": "https://open.spotify.com/track/5BAA4TvfHuuOqNntDkxmXJ"
+      "duration_ms": 184900,
+      "name": "Marguerite",
+      "url": "https://open.spotify.com/track/5FRoSL3BeHF28QqiXYFa85"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sing The Sorrow",
+        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 250360,
+      "name": "This Celluloid Dream",
+      "url": "https://open.spotify.com/track/46Y9yh2KxmtodypW4bCp6v"
     },
     {
       "added_at": null,
@@ -251,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing The Sorrow",
-        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 250360,
-      "name": "This Celluloid Dream",
-      "url": "https://open.spotify.com/track/46Y9yh2KxmtodypW4bCp6v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Silver Bleeds the Black Sun...",
         "url": "https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5"
       },
@@ -276,9 +292,25 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 184900,
-      "name": "Marguerite",
-      "url": "https://open.spotify.com/track/5FRoSL3BeHF28QqiXYFa85"
+      "duration_ms": 251026,
+      "name": "Spear of Truth",
+      "url": "https://open.spotify.com/track/4VUs7nas3jOAj5qXfTQNt2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sing The Sorrow",
+        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "Dancing Through Sunday",
+      "url": "https://open.spotify.com/track/4O5GKVbnQ8U9BxYWu0hIug"
     },
     {
       "added_at": null,
@@ -315,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing The Sorrow",
-        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "Dancing Through Sunday",
-      "url": "https://open.spotify.com/track/4O5GKVbnQ8U9BxYWu0hIug"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Silver Bleeds the Black Sun...",
         "url": "https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5"
       },
@@ -340,9 +356,25 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 251026,
-      "name": "Spear of Truth",
-      "url": "https://open.spotify.com/track/4VUs7nas3jOAj5qXfTQNt2"
+      "duration_ms": 241213,
+      "name": "A World Unmade",
+      "url": "https://open.spotify.com/track/7kjkmJW2O9FYmVUs2U9142"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sing The Sorrow",
+        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 254680,
+      "name": "Bleed Black",
+      "url": "https://open.spotify.com/track/2d7D8CladbfO6SOTcTLTXN"
     },
     {
       "added_at": null,
@@ -379,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing The Sorrow",
-        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 254680,
-      "name": "Bleed Black",
-      "url": "https://open.spotify.com/track/2d7D8CladbfO6SOTcTLTXN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Silver Bleeds the Black Sun...",
         "url": "https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5"
       },
@@ -404,9 +420,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 241213,
-      "name": "A World Unmade",
-      "url": "https://open.spotify.com/track/7kjkmJW2O9FYmVUs2U9142"
+      "duration_ms": 188534,
+      "name": "The Bird of Prey",
+      "url": "https://open.spotify.com/track/6hmoFL5DGUNpjyA5diJ2kk"
     },
     {
       "added_at": null,
@@ -459,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silver Bleeds the Black Sun...",
-        "url": "https://open.spotify.com/album/5mkdGum4SA8FWcwNMlttf5"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 188534,
-      "name": "The Bird of Prey",
-      "url": "https://open.spotify.com/track/6hmoFL5DGUNpjyA5diJ2kk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burials",
         "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
       },
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crash Love",
-        "url": "https://open.spotify.com/album/0Y84KHrmhbX9IlDI64dC6I"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "End Transmission",
-      "url": "https://open.spotify.com/track/3x5SiKbgSLUTnWCAZIXc50"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DECEMBERUNDERGROUND",
         "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 159613,
       "name": "Kill Caustic",
       "url": "https://open.spotify.com/track/1g3GsYGMF9veVHh1sZn6me"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crash Love",
+        "url": "https://open.spotify.com/album/0Y84KHrmhbX9IlDI64dC6I"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 226173,
+      "name": "End Transmission",
+      "url": "https://open.spotify.com/track/3x5SiKbgSLUTnWCAZIXc50"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFI",
-        "url": "https://open.spotify.com/album/1eK4nhdVZTpIzibRw7qWiw"
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 201973,
-      "name": "God Called In Sick Today",
-      "url": "https://open.spotify.com/track/1KlroNpIZRQuLK236qrfog"
+      "duration_ms": 141100,
+      "name": "Death Of The Party",
+      "url": "https://open.spotify.com/track/7dpnJOu6tMtRXyC61uGNVm"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Answer That And Stay Fashionable",
-        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
+        "name": "AFI",
+        "url": "https://open.spotify.com/album/1eK4nhdVZTpIzibRw7qWiw"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 72560,
-      "name": "I Wanna Get A Mohawk (But Mom Won't Let Me Get One)",
-      "url": "https://open.spotify.com/track/1RlIa3ho39v23Bs9tWbrCN"
+      "duration_ms": 201973,
+      "name": "God Called In Sick Today",
+      "url": "https://open.spotify.com/track/1KlroNpIZRQuLK236qrfog"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFI (The Blood Album)",
-        "url": "https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl"
+        "name": "Answer That And Stay Fashionable",
+        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 200920,
-      "name": "Snow Cats",
-      "url": "https://open.spotify.com/track/6HwJvwkooQjunshBL6hPK5"
+      "duration_ms": 72560,
+      "name": "I Wanna Get A Mohawk (But Mom Won't Let Me Get One)",
+      "url": "https://open.spotify.com/track/1RlIa3ho39v23Bs9tWbrCN"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Very Proud of Ya",
-        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
+        "name": "AFI (The Blood Album)",
+        "url": "https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl"
       },
       "artists": [
         {
@@ -756,25 +756,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 108773,
-      "name": "File 13",
-      "url": "https://open.spotify.com/track/6Oy5crRGUAPCya3orxspx7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burials",
-        "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 241560,
-      "name": "A Deep Slow Panic",
-      "url": "https://open.spotify.com/track/4ihV0ic9h89fhCLdEkH1aE"
+      "duration_ms": 200920,
+      "name": "Snow Cats",
+      "url": "https://open.spotify.com/track/6HwJvwkooQjunshBL6hPK5"
     },
     {
       "added_at": null,
@@ -791,6 +775,22 @@
       "duration_ms": 228440,
       "name": "Rabbits Are Roadkill On Rt. 37",
       "url": "https://open.spotify.com/track/2wcHxD6nRPhIXymN1U7PzL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burials",
+        "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 241560,
+      "name": "A Deep Slow Panic",
+      "url": "https://open.spotify.com/track/4ihV0ic9h89fhCLdEkH1aE"
     },
     {
       "added_at": null,

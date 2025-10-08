@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 189644,
       "name": "As We Fall",
       "url": "https://open.spotify.com/track/6piIJpTPBi60m8nb4f9eyG"
@@ -1322,6 +1322,48 @@
     {
       "album": {
         "name": "MORE",
+        "url": "https://open.spotify.com/album/5v3ALaT37zXgVHr3MZTVVx"
+      },
+      "artists": [
+        {
+          "name": "K/DA",
+          "url": "https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v"
+        },
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        },
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        },
+        {
+          "name": "Lexie Liu",
+          "url": "https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX"
+        },
+        {
+          "name": "Jaira Burns",
+          "url": "https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX"
+        },
+        {
+          "name": "Seraphine",
+          "url": "https://open.spotify.com/artist/4TqlcgMFDryY96KWcvrhTv"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217088,
+      "name": "MORE",
+      "url": "https://open.spotify.com/track/65pHtEdxGt4e3Fv1ncPi6V"
+    },
+    {
+      "album": {
+        "name": "MORE",
         "url": "https://open.spotify.com/album/23yd1cYlPgl643vE8bb0WD"
       },
       "artists": [
@@ -1356,7 +1398,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 217088,
       "name": "MORE",
       "url": "https://open.spotify.com/track/6juLaduD4STCUDWT0AYun4"
@@ -1630,7 +1672,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 291314,
       "name": "Piercing Light",
       "url": "https://open.spotify.com/track/0163ud7I4Vb0ID5K7WBkq9"
@@ -2254,10 +2296,44 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 162600,
       "name": "THE BADDEST",
       "url": "https://open.spotify.com/track/2V4Fx72svQRxrFvNT1eq5f"
+    },
+    {
+      "album": {
+        "name": "THE BADDEST",
+        "url": "https://open.spotify.com/album/3qo3MiVHiorkDRbuhjKK5d"
+      },
+      "artists": [
+        {
+          "name": "K/DA",
+          "url": "https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v"
+        },
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        },
+        {
+          "name": "Wolftyla",
+          "url": "https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb"
+        },
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162600,
+      "name": "THE BADDEST",
+      "url": "https://open.spotify.com/track/6y3EPT8iw6HmuMpX05gyvt"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Pola",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Przebi\u015bniegi",
   "name": "up next",
   "tracks": [
     {
@@ -1333,6 +1333,24 @@
     },
     {
       "album": {
+        "name": "b\u0105d\u017a g\u0142o\u015bno",
+        "url": "https://open.spotify.com/album/00ImWh3EugTSyFgvsIbwrr"
+      },
+      "artists": [
+        {
+          "name": "NATE",
+          "url": "https://open.spotify.com/artist/3AAPRqUrFG2DkMoZyfHlBP"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158677,
+      "name": "b\u0105d\u017a g\u0142o\u015bno",
+      "url": "https://open.spotify.com/track/0N7ETdi2UiXwQZJLK72EHZ"
+    },
+    {
+      "album": {
         "name": "Nastoletni dwudziestolatek",
         "url": "https://open.spotify.com/album/3sWnlf1z8Hgu1Sm8aRbghM"
       },
@@ -1464,7 +1482,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 220689,
       "name": "Charms in bracelet",
       "url": "https://open.spotify.com/track/7sbA6c0JF409RF9EC7W1ww"
@@ -1785,6 +1803,24 @@
     },
     {
       "album": {
+        "name": "polecie",
+        "url": "https://open.spotify.com/album/7b7qFH044TgbZhOhpcQc8f"
+      },
+      "artists": [
+        {
+          "name": "Amelia And",
+          "url": "https://open.spotify.com/artist/58wKaNZ5iuXaeelRtHzEsk"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169720,
+      "name": "co to? Mi\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/6ujrbBFwVsI8op1IncntBV"
+    },
+    {
+      "album": {
         "name": "co ty na to?",
         "url": "https://open.spotify.com/album/646vsWAg8YLIZXHZJOZgvC"
       },
@@ -1981,6 +2017,28 @@
     },
     {
       "album": {
+        "name": "Czerwiec",
+        "url": "https://open.spotify.com/album/0vbtP4aOHMxfXwbMvPqaUd"
+      },
+      "artists": [
+        {
+          "name": "Dawid Tyszkowski",
+          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
+        },
+        {
+          "name": "Piotr Odoszewski",
+          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317013,
+      "name": "Czerwiec",
+      "url": "https://open.spotify.com/track/5DOmpafBNAJrBoZZHigYfX"
+    },
+    {
+      "album": {
         "name": "cze\u015b\u0107",
         "url": "https://open.spotify.com/album/3BVpfC5UOknCXhYprn9mfb"
       },
@@ -2112,7 +2170,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 185204,
       "name": "Dajesz Mi Serce",
       "url": "https://open.spotify.com/track/2DoWTRyBa49tFnlaEow3XC"
@@ -2488,7 +2546,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 165000,
       "name": "Dla Turyst\u00f3w",
       "url": "https://open.spotify.com/track/1xBiiCNb0YUsEftywzL6kd"
@@ -2806,7 +2864,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 263500,
       "name": "ernest",
       "url": "https://open.spotify.com/track/4N283rSr7iWXEzdUJE2VRI"
@@ -3930,7 +3988,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 144798,
       "name": "jest zlaa",
       "url": "https://open.spotify.com/track/7Bzy7wBqZ1YTIX7IW2DcUi"
@@ -4320,7 +4378,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 187041,
       "name": "Kompleks Boga",
       "url": "https://open.spotify.com/track/25xdnX6NokQxIylrlcrURn"
@@ -5026,7 +5084,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 229015,
       "name": "mam dosy\u0107 striptiz club\u00f3w",
       "url": "https://open.spotify.com/track/77JAlSRiYQX3Hy5je6eZvo"
@@ -5172,7 +5230,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -8607,6 +8665,24 @@
     },
     {
       "album": {
+        "name": "sama ze sob\u0105!",
+        "url": "https://open.spotify.com/album/4hXKWDP9q7APH8diHyfGiR"
+      },
+      "artists": [
+        {
+          "name": "Dominika P\u0142onka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117637,
+      "name": "sama ze sob\u0105!",
+      "url": "https://open.spotify.com/track/2ZFBhH8U98Y9T0YJoH81TQ"
+    },
+    {
+      "album": {
         "name": "Sangria",
         "url": "https://open.spotify.com/album/6Ad8k07iiHmD9wbuNfAM03"
       },
@@ -8886,6 +8962,24 @@
       "duration_ms": 177235,
       "name": "Skarbie",
       "url": "https://open.spotify.com/track/3a6rdrLGpbcQAUVu78hca6"
+    },
+    {
+      "album": {
+        "name": "Skromny dar od samotno\u015bci",
+        "url": "https://open.spotify.com/album/51Z4RJPs78WcizaZ6S1Dpq"
+      },
+      "artists": [
+        {
+          "name": "Clayknot",
+          "url": "https://open.spotify.com/artist/3ZxpsVkaNjQbagCHapxVE7"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218871,
+      "name": "Skromny dar od samotno\u015bci",
+      "url": "https://open.spotify.com/track/0y0npITAfiGmtyn5hIJbo2"
     },
     {
       "album": {
@@ -9290,7 +9384,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 161739,
       "name": "szklane s\u0142owa",
       "url": "https://open.spotify.com/track/5iSxwQxs4cQ6XOUhCUrhRk"
@@ -9803,6 +9897,24 @@
     },
     {
       "album": {
+        "name": "to nie ten stan",
+        "url": "https://open.spotify.com/album/3MfOLXNdSTPvup7EW9qQy6"
+      },
+      "artists": [
+        {
+          "name": "stickxr",
+          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111701,
+      "name": "to nie ten stan",
+      "url": "https://open.spotify.com/track/209gXdHjcXRxDxtGNALJLp"
+    },
+    {
+      "album": {
         "name": "To nie to",
         "url": "https://open.spotify.com/album/1j5w8HDzPM4JYHvrvaBypb"
       },
@@ -10248,7 +10360,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 216396,
       "name": "Virgin Heartbreak",
       "url": "https://open.spotify.com/track/3AgUWDWeQLOepfIETZynmA"
@@ -10266,7 +10378,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 245664,
       "name": "Vodka Cranberry",
       "url": "https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl"
@@ -10382,6 +10494,24 @@
       "duration_ms": 169655,
       "name": "WAS DW\u00d3CH",
       "url": "https://open.spotify.com/track/0zuwMlHupJCxyIc7GqcEoz"
+    },
+    {
+      "album": {
+        "name": "Wczorajszy tlen",
+        "url": "https://open.spotify.com/album/3q0HA6dlmep1lommlVGyql"
+      },
+      "artists": [
+        {
+          "name": "Przebi\u015bniegi",
+          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180679,
+      "name": "Wczorajszy tlen",
+      "url": "https://open.spotify.com/track/6hDAg8JGPWcdryzQJm1CuO"
     },
     {
       "album": {
@@ -10620,6 +10750,28 @@
       "duration_ms": 153024,
       "name": "Wi\u0119cej",
       "url": "https://open.spotify.com/track/73l4adiuFKirZH4umyzEog"
+    },
+    {
+      "album": {
+        "name": "woda utleniona",
+        "url": "https://open.spotify.com/album/6lrnYtBfGg8CDKj1F0XkWH"
+      },
+      "artists": [
+        {
+          "name": "\u015bwita\u0142a",
+          "url": "https://open.spotify.com/artist/0fP7Egec8F7B72aatTrLPQ"
+        },
+        {
+          "name": "dj cbh",
+          "url": "https://open.spotify.com/artist/1Y8t9sDYteTcWxc4CqKQGJ"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150321,
+      "name": "woda utleniona",
+      "url": "https://open.spotify.com/track/05PIFyGeH8pSnAfTb2dZpV"
     },
     {
       "album": {
@@ -11318,7 +11470,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 116470,
       "name": "ZING",
       "url": "https://open.spotify.com/track/0K1ReevVwjAZnZxJdgHOuL"

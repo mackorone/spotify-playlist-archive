@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,782 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,787 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 48 | [La Fuente](https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [La Fuente](https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT) | 5:27 |
 | 49 | [Prende](https://open.spotify.com/track/1MkRoo0Vr7Ol8BMQ6bMbGs) | [Tequendama](https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU) | [Prende](https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG) | 3:17 |
 | 50 | [Antes de Que Sea Muy Tarde](https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre) | [Sismo](https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq) | [Antes de Que Sea Muy Tarde](https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe) | 3:12 |
-| 51 | [Aunque Pretendas Olvidar](https://open.spotify.com/track/3ZmVUUrgKBmSI2IkTq42zk) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD) | [Aunque Pretendas Olvidar](https://open.spotify.com/album/4ymkJ4kYySzAaxIP3Ul6NW) | 3:03 |
-| 52 | [Estallados](https://open.spotify.com/track/3FO2k1oUkFBsU63BqVIGRS) | [Los Niños Telepaticos](https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU) | [Estallados](https://open.spotify.com/album/0bKbPtDXlXn07olVlaIAnr) | 4:30 |
+| 51 | [Estallados](https://open.spotify.com/track/3FO2k1oUkFBsU63BqVIGRS) | [Los Niños Telepaticos](https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU) | [Estallados](https://open.spotify.com/album/0bKbPtDXlXn07olVlaIAnr) | 4:30 |
+| 52 | [Aunque Pretendas Olvidar](https://open.spotify.com/track/3ZmVUUrgKBmSI2IkTq42zk) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD) | [Aunque Pretendas Olvidar](https://open.spotify.com/album/4ymkJ4kYySzAaxIP3Ul6NW) | 3:03 |
 | 53 | [Lockdownska](https://open.spotify.com/track/3wa8cbyJbGoAoFqaJdzlwA) | [Burning Caravan](https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat) | [Lockdownska](https://open.spotify.com/album/63drV0XsviR9CVU6eRvs0P) | 3:39 |
-| 54 | [Recorrer el Mundo](https://open.spotify.com/track/1wpn2kg0vFgvEl7V6XeQzK) | [Bonus Trak](https://open.spotify.com/artist/3v68dDHJPpjDZ3sJDNsqQP) | [Recorrer el Mundo](https://open.spotify.com/album/2H4P2Z1NJLy12k8WvrjSjw) | 2:58 |
-| 55 | [Solo tú](https://open.spotify.com/track/5WyavosRBdYVkapSLgqGC4) | [APOLO 7](https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6) | [Solo tú](https://open.spotify.com/album/4x11yXJ8tg1D9tnY2DII65) | 4:07 |
+| 54 | [Solo tú](https://open.spotify.com/track/5WyavosRBdYVkapSLgqGC4) | [APOLO 7](https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6) | [Solo tú](https://open.spotify.com/album/4x11yXJ8tg1D9tnY2DII65) | 4:07 |
+| 55 | [Recorrer el Mundo](https://open.spotify.com/track/1wpn2kg0vFgvEl7V6XeQzK) | [Bonus Trak](https://open.spotify.com/artist/3v68dDHJPpjDZ3sJDNsqQP) | [Recorrer el Mundo](https://open.spotify.com/album/2H4P2Z1NJLy12k8WvrjSjw) | 2:58 |
 | 56 | [Engáñate](https://open.spotify.com/track/6RGz1S7FWiya3aLDMUXnJV) | [Pirineos En Llamas](https://open.spotify.com/artist/522pAy9TuhE7aqrhl8tVFd) | [Engáñate](https://open.spotify.com/album/5HXkHlkENQcA6FIqwnmzSC) | 3:01 |
 | 57 | [Madre Tierra](https://open.spotify.com/track/1Nm64MdvvkfjwIntgflE17) | [La Sociedad de La Sombrilla](https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk), [Sebastián Panesso](https://open.spotify.com/artist/7klsfmubwzRluxsG4nRUyf) | [Madre Tierra](https://open.spotify.com/album/6hfC8pQP0TYzJD9xd9EKSF) | 3:32 |
 | 58 | [Olvidarme de Todo](https://open.spotify.com/track/7lwA01yBJAfoVz730sBcox) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY), [Oso Pardo](https://open.spotify.com/artist/5VvrQ69cP2LpCA3io3vCyQ) | [Olvidarme de Todo](https://open.spotify.com/album/1TwgjOEG8WS6pkjLUstupB) | 3:21 |
-| 59 | [Desierto](https://open.spotify.com/track/3Amv0UJc2xJ7YZuhCCSM5i) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h), [Mateo París](https://open.spotify.com/artist/5g4xkc9ZvfAUuP5UJxvCBG) | [Tierra](https://open.spotify.com/album/4hONbMfBNGtrslvAqe2wX4) | 3:03 |
-| 60 | [Eres Tú](https://open.spotify.com/track/6dgsioXKgII7qWavPLU45x) | [APOLO 7](https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6), [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p) | [Eres Tú](https://open.spotify.com/album/25gfU5N8KqfoN1mPUCmTxx) | 3:27 |
+| 59 | [Eres Tú](https://open.spotify.com/track/6dgsioXKgII7qWavPLU45x) | [APOLO 7](https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6), [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p) | [Eres Tú](https://open.spotify.com/album/25gfU5N8KqfoN1mPUCmTxx) | 3:27 |
+| 60 | [Desierto](https://open.spotify.com/track/3Amv0UJc2xJ7YZuhCCSM5i) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h), [Mateo París](https://open.spotify.com/artist/5g4xkc9ZvfAUuP5UJxvCBG) | [Tierra](https://open.spotify.com/album/4hONbMfBNGtrslvAqe2wX4) | 3:03 |
 
 Snapshot ID: `AAAAAL3SDFaZMou+roasCW3xbHUS9M/c`

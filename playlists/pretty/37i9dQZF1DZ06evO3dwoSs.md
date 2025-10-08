@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 
 > This is Five Finger Death Punch\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,794 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,836 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 | 15 | [Darkness Settles In](https://open.spotify.com/track/6RksBSj5fFtPkUnL2EE0oe) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 4:41 |
 | 16 | [Judgement Day](https://open.spotify.com/track/28pN19lOLb7o6CZlCAcflX) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 4:52 |
 | 17 | [Under and Over It](https://open.spotify.com/track/0xKFHPdmWipLYPG3zlPpr4) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe Edition\)](https://open.spotify.com/album/6u1mCPtlgfflxh5LZiPdoM) | 3:38 |
-| 18 | [M.I.N.E \(End This Way\) \- 2025 VERSION](https://open.spotify.com/track/32DHKiafpMLVlJrZHrlUem) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The End \(feat\. BABYMETAL\) \[2025 VERSION\]](https://open.spotify.com/album/70Z0xKqSdEYNN43FLs7aTO) | 4:03 |
+| 18 | [Hell To Pay \- 2025 VERSION](https://open.spotify.com/track/2NtthunWzMLjSEm2cgfx5G) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The End \(feat\. BABYMETAL\) \[2025 VERSION\]](https://open.spotify.com/album/70Z0xKqSdEYNN43FLs7aTO) | 3:08 |
 | 19 | [Inside Out](https://open.spotify.com/track/163Kb2pSLLduhfbO6Zn0sL) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:46 |
 | 20 | [Times Like These](https://open.spotify.com/track/6bo13cPb5M0B6LhQEl0A3E) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:29 |
 | 21 | [I Refuse \(feat\. Maria Brink of In This Moment\) \- 2025 VERSION](https://open.spotify.com/track/183LHdf7z7LG2eQf10popU) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [I Refuse \(feat\. Maria Brink of In This Moment\) \[2025 VERSION\]](https://open.spotify.com/album/2IrqDjpjH3dOVz8Nd7rPqI) | 3:41 |
-| 22 | [Hell To Pay \- 2025 VERSION](https://open.spotify.com/track/2NtthunWzMLjSEm2cgfx5G) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The End \(feat\. BABYMETAL\) \[2025 VERSION\]](https://open.spotify.com/album/70Z0xKqSdEYNN43FLs7aTO) | 3:08 |
+| 22 | [M.I.N.E \(End This Way\) \- 2025 VERSION](https://open.spotify.com/track/32DHKiafpMLVlJrZHrlUem) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The End \(feat\. BABYMETAL\) \[2025 VERSION\]](https://open.spotify.com/album/70Z0xKqSdEYNN43FLs7aTO) | 4:03 |
 | 23 | [Living The Dream](https://open.spotify.com/track/2gsxeJnGbJQkBddBDr0UTV) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:34 |
 | 24 | [AfterLife](https://open.spotify.com/track/40gGeC397vLmz4eETZDSrG) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 4:03 |
 | 25 | [Sham Pain](https://open.spotify.com/track/3MnYJuv8ogYrBkBb3XWdTQ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/7BXbyT2VJgiD6eYLPJrsJp) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 | 49 | [No One Gets Left Behind](https://open.spotify.com/track/5vif1v33N1y04aewqWIGHm) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V) | 3:23 |
 | 50 | [Dot Your Eyes](https://open.spotify.com/track/17b5efUrwTIWLUYH6RThTs) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1](https://open.spotify.com/album/5z9Z5Hg2LGKVS11njgfI3i) | 3:15 |
 
-Snapshot ID: `aOG1AAAAAACtQ9ZiqgU46Y0B15BK6qlQ`
+Snapshot ID: `aOMGgAAAAAD1taUbazq0pUpj8rhXNCA3`

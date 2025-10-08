@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 125540,
+  "num_followers": 125563,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAABmKH65q5DW5wiqaGRR7I4J",
+  "snapshot_id": "aOMGgAAAAAA+n4T5c6iUa2RNYI1SujCy",
   "tracks": [
     {
       "added_at": null,
@@ -575,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estrafalario",
-        "url": "https://open.spotify.com/album/7lO0gX1rSWXYO9gnUqpY1p"
-      },
-      "artists": [
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 160150,
-      "name": "Sin Dormir (Ya Se Arm\u00f3)",
-      "url": "https://open.spotify.com/track/1HfHDbNHzafjjxnLoAobRA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Historia Mal Contada",
         "url": "https://open.spotify.com/album/5lYcalORluIjuBEKJflc88"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 197373,
       "name": "Para Olvidarme De Tus Besos",
       "url": "https://open.spotify.com/track/4CB7M0J9NNubspCy0WDlNL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estrafalario",
+        "url": "https://open.spotify.com/album/7lO0gX1rSWXYO9gnUqpY1p"
+      },
+      "artists": [
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 160150,
+      "name": "Sin Dormir (Ya Se Arm\u00f3)",
+      "url": "https://open.spotify.com/track/1HfHDbNHzafjjxnLoAobRA"
     },
     {
       "added_at": null,
@@ -879,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Directo Hasta Arriba",
+        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 223626,
+      "name": "El After Porky",
+      "url": "https://open.spotify.com/track/0floU1nPyzIRi2QaEvm4Bu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Esquina",
         "url": "https://open.spotify.com/album/1AUCWNSatHgDBNYvfthnNa"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 267897,
       "name": "Broche De Oro",
       "url": "https://open.spotify.com/track/6bomSYIzgSeymVS1sdUhsu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Directo Hasta Arriba",
-        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 223626,
-      "name": "El After Porky",
-      "url": "https://open.spotify.com/track/0floU1nPyzIRi2QaEvm4Bu"
     },
     {
       "added_at": null,

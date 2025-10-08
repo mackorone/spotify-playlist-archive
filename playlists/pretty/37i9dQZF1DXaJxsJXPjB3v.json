@@ -1,6 +1,6 @@
 {
   "description": "Revisit the best Kwaito songs ever released. Cover: Bongo Maffin",
-  "num_followers": 78197,
+  "num_followers": 78238,
   "original_name": "Kwaito Classics",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Simply The Best",
+        "url": "https://open.spotify.com/album/5xc7F1Xfkq1HXYafFBewRN"
+      },
+      "artists": [
+        {
+          "name": "Spikiri",
+          "url": "https://open.spotify.com/artist/3fP5hWCOBvndu3JLD7HlAi"
+        }
+      ],
+      "duration_ms": 345613,
+      "name": "Current",
+      "url": "https://open.spotify.com/track/7jCN8HmG6EaUzQKq9uHEH2"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Respect Toasted Gona' Ganati",
         "url": "https://open.spotify.com/album/0LfP1AWyHdWVQOZZLVFaNr"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 315653,
       "name": "Bengim'ngaka",
       "url": "https://open.spotify.com/track/7dl5CSZCD7qo8hrrRPMraM"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Simply The Best",
-        "url": "https://open.spotify.com/album/5xc7F1Xfkq1HXYafFBewRN"
-      },
-      "artists": [
-        {
-          "name": "Spikiri",
-          "url": "https://open.spotify.com/artist/3fP5hWCOBvndu3JLD7HlAi"
-        }
-      ],
-      "duration_ms": 345613,
-      "name": "Current",
-      "url": "https://open.spotify.com/track/7jCN8HmG6EaUzQKq9uHEH2"
     },
     {
       "added_at": "2024-05-22 11:00:00",

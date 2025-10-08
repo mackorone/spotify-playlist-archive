@@ -4,7 +4,7 @@
 
 > New Arrivals keeps you posted on the latest records arriving in our record store and online shop &\#x2F; kompakt.fm
 
-325 songs - 1 day 7 hr 45 min
+326 songs - 1 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Gold Filigree](https://open.spotify.com/track/2GFMkbnh2SvLxgavAadQRg) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [All Cylinders](https://open.spotify.com/album/1jooROM5diSNAfEwESyDDH) | 3:24 | 2025-09-17 |  |
 | [Good To You](https://open.spotify.com/track/0gBh7JyQ4QQDA4RdWiwb0r) | [Damiano von Erckert](https://open.spotify.com/artist/28Y1hMhuru402KjzFJDegi) | [Magnolia EP](https://open.spotify.com/album/06BQFfQaGymZoZmfo0nRk4) | 5:57 | 2025-09-16 |  |
 | [Goodbye Horses \- New Wave Version](https://open.spotify.com/track/4DdqcDyyddC2sP2WOMMhzU) | [Q Lazzarus](https://open.spotify.com/artist/2EOrSEDPcZ9feKWSi8Fpdi) | [Goodbye Horses \(New Wave Version\)](https://open.spotify.com/album/4YrFgWusaHw79XTvqC8BH2) | 5:04 | 2025-02-27 |  |
+| [Grace \(A Tale\)](https://open.spotify.com/track/1YlGQvoDePtFI0SjRazsvC) | [Jürgen Paape](https://open.spotify.com/artist/51qSeH9HimuYMMQ7qbWGrk), [Hella](https://open.spotify.com/artist/2YgHIwmUbNjyzS4Oz2HvbG) | [Grace \(A Tale\)](https://open.spotify.com/album/67JH6vtzGBf0sT6yZnZv2B) | 4:16 | 2025-10-07 |  |
 | [Groovy Baby](https://open.spotify.com/track/569eyJXP9UW4uVmkpAENoc) | [Kingdom Come](https://open.spotify.com/artist/1cDASBD4h47ypA04Ya2hWw), [Ron Allen](https://open.spotify.com/artist/3cluZ1EQaIO0pz0cJiqMJr) | [Groovy Baby](https://open.spotify.com/album/1rKUia1gX72dZYffkfoKN3) | 6:01 | 2025-06-24 |  |
 | [Guardian Angel \- Hardt Antoine Remix](https://open.spotify.com/track/13XrTO6lqAMiZ8liHWCBTp) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Wennink](https://open.spotify.com/artist/5ABv9Z75CGfgyALYFpB6Qk), [Hardt Antoine](https://open.spotify.com/artist/3nJOVgthGYcDojzO7utIyA) | [Guardian Angel](https://open.spotify.com/album/4bSKaxzE5iqbtqjGAw2SNT) | 6:20 | 2024-10-26 | 2025-09-06 |
 | [Hack the System](https://open.spotify.com/track/3rZSkV7CQ17RthHY3b9x3G) | [Joyce Muniz](https://open.spotify.com/artist/2V5PoybhNfFnNEs0NKv44L), [Futuradora](https://open.spotify.com/artist/14URkkrrqk31pyDRNiH8dO) | [Hack the System](https://open.spotify.com/album/3YB9xA1s9aR4QX1IpyxOc0) | 3:26 | 2025-07-11 |  |

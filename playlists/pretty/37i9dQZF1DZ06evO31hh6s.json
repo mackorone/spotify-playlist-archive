@@ -1,12 +1,12 @@
 {
   "description": "This is Young Noble. The essential tracks, all in one playlist.",
-  "num_followers": 195,
+  "num_followers": 194,
   "original_name": "This Is Young Noble",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAAAhNs2ffjtsWX4T0Z0zkzZQ",
+  "snapshot_id": "aOMGgAAAAAAB9Yu1hL+9VhMbSTFuGyvV",
   "tracks": [
     {
       "added_at": null,
@@ -279,6 +279,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Sleep",
+        "url": "https://open.spotify.com/album/59tnuKmesDIlykrpyifzjs"
+      },
+      "artists": [
+        {
+          "name": "Hones-T",
+          "url": "https://open.spotify.com/artist/1gjYCdpkRbQf6hQmmGNPsj"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "duration_ms": 211307,
+      "name": "Does Anybody Feel Me",
+      "url": "https://open.spotify.com/track/4K9WdMLQ8sIGKhn0yG5fiP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eternal Legend",
         "url": "https://open.spotify.com/album/0HGHc3rDuEchbyP5t3UJNn"
       },
@@ -347,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Sleep",
-        "url": "https://open.spotify.com/album/59tnuKmesDIlykrpyifzjs"
-      },
-      "artists": [
-        {
-          "name": "Hones-T",
-          "url": "https://open.spotify.com/artist/1gjYCdpkRbQf6hQmmGNPsj"
-        },
-        {
-          "name": "Young Noble",
-          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
-        }
-      ],
-      "duration_ms": 211307,
-      "name": "Does Anybody Feel Me",
-      "url": "https://open.spotify.com/track/4K9WdMLQ8sIGKhn0yG5fiP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Print",
         "url": "https://open.spotify.com/album/4iKYORxngobssHDSwVxbKy"
       },
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lucky Number 7",
+        "url": "https://open.spotify.com/album/3jJfv18AmpmrMOrOzHLgPR"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "duration_ms": 152973,
+      "name": "God Said It",
+      "url": "https://open.spotify.com/track/35U2IpCtyStfdDINC57O5t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thug Brothers 3",
         "url": "https://open.spotify.com/album/7AR4zvTtBpjKY1Xo32q59i"
       },
@@ -411,18 +427,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lucky Number 7",
-        "url": "https://open.spotify.com/album/3jJfv18AmpmrMOrOzHLgPR"
+        "name": "Outlaw University",
+        "url": "https://open.spotify.com/album/5CIusXHEtiDOQfAuFYwwBA"
       },
       "artists": [
         {
           "name": "Young Noble",
           "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "E.D.I. Mean",
+          "url": "https://open.spotify.com/artist/2PLfAUDdt1zaP2rPvJ0L1m"
+        },
+        {
+          "name": "Val Young",
+          "url": "https://open.spotify.com/artist/1XOCjhHRAcUejG6Mkm4RFQ"
         }
       ],
-      "duration_ms": 152973,
-      "name": "God Said It",
-      "url": "https://open.spotify.com/track/35U2IpCtyStfdDINC57O5t"
+      "duration_ms": 340221,
+      "name": "Still Believe (feat. E.D.I. Mean & Val Young)",
+      "url": "https://open.spotify.com/track/6ZOzyRSlxD9tvMg92oxTTd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OUTLAWS (feat. Young Noble, E.D.I. Mean & Pete Rock)",
+        "url": "https://open.spotify.com/album/6fetqszoe1L6RjHi7qrKws"
+      },
+      "artists": [
+        {
+          "name": "MUNI",
+          "url": "https://open.spotify.com/artist/6DMjso63MM8iBE0WYQvmHP"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "E.D.I. Mean",
+          "url": "https://open.spotify.com/artist/2PLfAUDdt1zaP2rPvJ0L1m"
+        },
+        {
+          "name": "Pete Rock",
+          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+        }
+      ],
+      "duration_ms": 176551,
+      "name": "OUTLAWS (feat. Young Noble, E.D.I. Mean & Pete Rock)",
+      "url": "https://open.spotify.com/track/7iVGb8x2VLF68ffmEOn5ln"
     },
     {
       "added_at": null,
@@ -459,30 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlaw University",
-        "url": "https://open.spotify.com/album/5CIusXHEtiDOQfAuFYwwBA"
-      },
-      "artists": [
-        {
-          "name": "Young Noble",
-          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
-        },
-        {
-          "name": "E.D.I. Mean",
-          "url": "https://open.spotify.com/artist/2PLfAUDdt1zaP2rPvJ0L1m"
-        },
-        {
-          "name": "Val Young",
-          "url": "https://open.spotify.com/artist/1XOCjhHRAcUejG6Mkm4RFQ"
-        }
-      ],
-      "duration_ms": 340221,
-      "name": "Still Believe (feat. E.D.I. Mean & Val Young)",
-      "url": "https://open.spotify.com/track/6ZOzyRSlxD9tvMg92oxTTd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thug Brothers 3",
         "url": "https://open.spotify.com/album/7AR4zvTtBpjKY1Xo32q59i"
       },
@@ -499,50 +527,6 @@
       "duration_ms": 220540,
       "name": "Bout That Murder",
       "url": "https://open.spotify.com/track/08agc2GzBbKMVW0TXM7IhH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OUTLAWS (feat. Young Noble, E.D.I. Mean & Pete Rock)",
-        "url": "https://open.spotify.com/album/6fetqszoe1L6RjHi7qrKws"
-      },
-      "artists": [
-        {
-          "name": "MUNI",
-          "url": "https://open.spotify.com/artist/6DMjso63MM8iBE0WYQvmHP"
-        },
-        {
-          "name": "Young Noble",
-          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
-        },
-        {
-          "name": "E.D.I. Mean",
-          "url": "https://open.spotify.com/artist/2PLfAUDdt1zaP2rPvJ0L1m"
-        },
-        {
-          "name": "Pete Rock",
-          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
-        }
-      ],
-      "duration_ms": 176551,
-      "name": "OUTLAWS (feat. Young Noble, E.D.I. Mean & Pete Rock)",
-      "url": "https://open.spotify.com/track/7iVGb8x2VLF68ffmEOn5ln"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lucky Number 7",
-        "url": "https://open.spotify.com/album/3jJfv18AmpmrMOrOzHLgPR"
-      },
-      "artists": [
-        {
-          "name": "Young Noble",
-          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
-        }
-      ],
-      "duration_ms": 422000,
-      "name": "Pac, Yak & Fatal",
-      "url": "https://open.spotify.com/track/71nKPQHrbb6ZTypv0u16om"
     },
     {
       "added_at": null,
@@ -567,76 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thug Brothers 3",
-        "url": "https://open.spotify.com/album/7AR4zvTtBpjKY1Xo32q59i"
-      },
-      "artists": [
-        {
-          "name": "Krayzie Bone",
-          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
-        },
-        {
-          "name": "Young Noble",
-          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
-        }
-      ],
-      "duration_ms": 258758,
-      "name": "Makaveli and Eazy",
-      "url": "https://open.spotify.com/track/5RqSGlSlvjvaxDp5bBgHdu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Last Outlaw",
-        "url": "https://open.spotify.com/album/0BdJAXEoZxZrENcz0VwLG2"
-      },
-      "artists": [
-        {
-          "name": "Young Noble",
-          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
-        },
-        {
-          "name": "E.D.I. Mean",
-          "url": "https://open.spotify.com/artist/2PLfAUDdt1zaP2rPvJ0L1m"
-        },
-        {
-          "name": "Trigga Trife",
-          "url": "https://open.spotify.com/artist/6OGwueEhdWKoOjzJFo59gs"
-        },
-        {
-          "name": "Treach",
-          "url": "https://open.spotify.com/artist/3b3teOkAyYfhj4xiMvqYvW"
-        }
-      ],
-      "duration_ms": 304553,
-      "name": "Outlaw By Nature (feat. E.D.I. Mean, Trigga Trife & Treach)",
-      "url": "https://open.spotify.com/track/7BWvmOQJm6KOw6XgzFpZMZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tha ReaL is Back",
-        "url": "https://open.spotify.com/album/7odAYRhP9wuq0CCKIdu33y"
-      },
-      "artists": [
-        {
-          "name": "Sike G",
-          "url": "https://open.spotify.com/artist/0fEJqFteU7CuKqMqS16rkx"
-        },
-        {
-          "name": "Young Noble",
-          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
-        }
-      ],
-      "duration_ms": 171083,
-      "name": "Outlaw Lifestyle",
-      "url": "https://open.spotify.com/track/5kok2Oe0eGVNwJGVfz8Xjw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlaw University",
-        "url": "https://open.spotify.com/album/5CIusXHEtiDOQfAuFYwwBA"
+        "name": "Lucky Number 7",
+        "url": "https://open.spotify.com/album/3jJfv18AmpmrMOrOzHLgPR"
       },
       "artists": [
         {
@@ -644,53 +560,9 @@
           "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
         }
       ],
-      "duration_ms": 204988,
-      "name": "Outlaw University",
-      "url": "https://open.spotify.com/track/74qKboZPYJIhsBSOpHgErF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Fathers Love",
-        "url": "https://open.spotify.com/album/5FEEJ9q33KZJ17YLwLE6ud"
-      },
-      "artists": [
-        {
-          "name": "2nd Chance",
-          "url": "https://open.spotify.com/artist/29lnEdxtgHW9mHnfR52a4N"
-        },
-        {
-          "name": "Young Noble",
-          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
-        },
-        {
-          "name": "Dougie",
-          "url": "https://open.spotify.com/artist/0ENrY7KVF6HNbXEi9Twn70"
-        }
-      ],
-      "duration_ms": 257281,
-      "name": "Let It Rain",
-      "url": "https://open.spotify.com/track/1TWhHnLrwWPts8mQMWseQ3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life Of A Outlaw (feat. Big Caz)",
-        "url": "https://open.spotify.com/album/0WE6teZXTig9bgcN9y6zaw"
-      },
-      "artists": [
-        {
-          "name": "Young Noble",
-          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
-        },
-        {
-          "name": "Big Caz",
-          "url": "https://open.spotify.com/artist/1xsXTWjSGh1Eduyq74D6v8"
-        }
-      ],
-      "duration_ms": 239832,
-      "name": "Life Of A Outlaw (feat. Big Caz)",
-      "url": "https://open.spotify.com/track/2JJzp1LxtowaM2IV8jxYC8"
+      "duration_ms": 422000,
+      "name": "Pac, Yak & Fatal",
+      "url": "https://open.spotify.com/track/71nKPQHrbb6ZTypv0u16om"
     },
     {
       "added_at": null,
@@ -727,6 +599,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Thug Brothers 3",
+        "url": "https://open.spotify.com/album/7AR4zvTtBpjKY1Xo32q59i"
+      },
+      "artists": [
+        {
+          "name": "Krayzie Bone",
+          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "duration_ms": 258758,
+      "name": "Makaveli and Eazy",
+      "url": "https://open.spotify.com/track/5RqSGlSlvjvaxDp5bBgHdu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outlaw University",
         "url": "https://open.spotify.com/album/5CIusXHEtiDOQfAuFYwwBA"
       },
@@ -739,6 +631,126 @@
       "duration_ms": 190374,
       "name": "Last Official Outlaw",
       "url": "https://open.spotify.com/track/5sztZWvmDxbDHaYiBR3NBZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last Outlaw",
+        "url": "https://open.spotify.com/album/0BdJAXEoZxZrENcz0VwLG2"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "E.D.I. Mean",
+          "url": "https://open.spotify.com/artist/2PLfAUDdt1zaP2rPvJ0L1m"
+        },
+        {
+          "name": "Trigga Trife",
+          "url": "https://open.spotify.com/artist/6OGwueEhdWKoOjzJFo59gs"
+        },
+        {
+          "name": "Treach",
+          "url": "https://open.spotify.com/artist/3b3teOkAyYfhj4xiMvqYvW"
+        }
+      ],
+      "duration_ms": 304553,
+      "name": "Outlaw By Nature (feat. E.D.I. Mean, Trigga Trife & Treach)",
+      "url": "https://open.spotify.com/track/7BWvmOQJm6KOw6XgzFpZMZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life Of A Outlaw (feat. Big Caz)",
+        "url": "https://open.spotify.com/album/0WE6teZXTig9bgcN9y6zaw"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Big Caz",
+          "url": "https://open.spotify.com/artist/1xsXTWjSGh1Eduyq74D6v8"
+        }
+      ],
+      "duration_ms": 239832,
+      "name": "Life Of A Outlaw (feat. Big Caz)",
+      "url": "https://open.spotify.com/track/2JJzp1LxtowaM2IV8jxYC8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thug Brothers",
+        "url": "https://open.spotify.com/album/6RQMdcI0S4puobgZ62MbvD"
+      },
+      "artists": [
+        {
+          "name": "Layzie Bone",
+          "url": "https://open.spotify.com/artist/6wAO5FJZZ5PJoRBSpBic7M"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "duration_ms": 288880,
+      "name": "Man Up",
+      "url": "https://open.spotify.com/track/06yvGeeMmpG4J8aYYi3UcO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlaw University",
+        "url": "https://open.spotify.com/album/5CIusXHEtiDOQfAuFYwwBA"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "duration_ms": 204988,
+      "name": "Outlaw University",
+      "url": "https://open.spotify.com/track/74qKboZPYJIhsBSOpHgErF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last Outlaw",
+        "url": "https://open.spotify.com/album/0BdJAXEoZxZrENcz0VwLG2"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "duration_ms": 219847,
+      "name": "Cold Game",
+      "url": "https://open.spotify.com/track/3qnfpioCY8qxwtkB32tPLy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tha ReaL is Back",
+        "url": "https://open.spotify.com/album/7odAYRhP9wuq0CCKIdu33y"
+      },
+      "artists": [
+        {
+          "name": "Sike G",
+          "url": "https://open.spotify.com/artist/0fEJqFteU7CuKqMqS16rkx"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "duration_ms": 171083,
+      "name": "Outlaw Lifestyle",
+      "url": "https://open.spotify.com/track/5kok2Oe0eGVNwJGVfz8Xjw"
     },
     {
       "added_at": null,
@@ -787,22 +799,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thug Brothers",
-        "url": "https://open.spotify.com/album/6RQMdcI0S4puobgZ62MbvD"
+        "name": "The Fathers Love",
+        "url": "https://open.spotify.com/album/5FEEJ9q33KZJ17YLwLE6ud"
       },
       "artists": [
         {
-          "name": "Layzie Bone",
-          "url": "https://open.spotify.com/artist/6wAO5FJZZ5PJoRBSpBic7M"
+          "name": "2nd Chance",
+          "url": "https://open.spotify.com/artist/29lnEdxtgHW9mHnfR52a4N"
         },
         {
           "name": "Young Noble",
           "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Dougie",
+          "url": "https://open.spotify.com/artist/0ENrY7KVF6HNbXEi9Twn70"
         }
       ],
-      "duration_ms": 288880,
-      "name": "Man Up",
-      "url": "https://open.spotify.com/track/06yvGeeMmpG4J8aYYi3UcO"
+      "duration_ms": 257281,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/1TWhHnLrwWPts8mQMWseQ3"
     },
     {
       "added_at": null,
@@ -844,29 +860,25 @@
           "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
         }
       ],
-      "duration_ms": 219847,
-      "name": "Cold Game",
-      "url": "https://open.spotify.com/track/3qnfpioCY8qxwtkB32tPLy"
+      "duration_ms": 316442,
+      "name": "Nasty New Street",
+      "url": "https://open.spotify.com/track/1ww3wxdRpwqdpkZ8BWYhvC"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Outlaw University",
-        "url": "https://open.spotify.com/album/5CIusXHEtiDOQfAuFYwwBA"
+        "name": "Son of God",
+        "url": "https://open.spotify.com/album/3urVMZt4Oej0afNgNRuJuD"
       },
       "artists": [
         {
           "name": "Young Noble",
           "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
-        },
-        {
-          "name": "Kastro",
-          "url": "https://open.spotify.com/artist/6kbCmJmRthByySAmiqXI0c"
         }
       ],
-      "duration_ms": 221335,
-      "name": "Reason to Shine (feat. Kastro)",
-      "url": "https://open.spotify.com/track/43S8K37dRVWUdlqCpWtCwS"
+      "duration_ms": 496404,
+      "name": "Welcome To Real Life (feat. Arsonal, Hussein Fatal, Tony Atlanta, Malachi)",
+      "url": "https://open.spotify.com/track/7eIjVCRpfg7GLbuzbgMUCH"
     },
     {
       "added_at": null,
@@ -928,45 +940,57 @@
           "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
         }
       ],
-      "duration_ms": 316442,
-      "name": "Nasty New Street",
-      "url": "https://open.spotify.com/track/1ww3wxdRpwqdpkZ8BWYhvC"
+      "duration_ms": 181500,
+      "name": "Born Alone, Die Alone",
+      "url": "https://open.spotify.com/track/2eGum7AB3y8Rn9Cnxezr6q"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Son of God",
-        "url": "https://open.spotify.com/album/3urVMZt4Oej0afNgNRuJuD"
+        "name": "ISLAND ROYALTY VOL 2 V.I.KINGS",
+        "url": "https://open.spotify.com/album/5Ubd4BITMTAylgM1QENEc7"
       },
       "artists": [
         {
-          "name": "Young Noble",
-          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
-        }
-      ],
-      "duration_ms": 496404,
-      "name": "Welcome To Real Life (feat. Arsonal, Hussein Fatal, Tony Atlanta, Malachi)",
-      "url": "https://open.spotify.com/track/7eIjVCRpfg7GLbuzbgMUCH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Hope Dealer, Pt. 3",
-        "url": "https://open.spotify.com/album/0rciraWTGHswD0q2AmP82P"
-      },
-      "artists": [
+          "name": "Mr. ESQ",
+          "url": "https://open.spotify.com/artist/3PFvR6hD2fa1pCuV4cHHpC"
+        },
         {
-          "name": "E.D.I. Mean",
-          "url": "https://open.spotify.com/artist/2PLfAUDdt1zaP2rPvJ0L1m"
+          "name": "details",
+          "url": "https://open.spotify.com/artist/5QX6VHqB9TBFQL3t1nek8I"
+        },
+        {
+          "name": "Livant",
+          "url": "https://open.spotify.com/artist/3ysWeSCcHO7Cw1jnOk6cun"
         },
         {
           "name": "Young Noble",
           "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
         }
       ],
-      "duration_ms": 237531,
-      "name": "H.O.P.E 3 INTRO (feat. Young Noble)",
-      "url": "https://open.spotify.com/track/1LP0BhBVdSD2b5Ztqhfmul"
+      "duration_ms": 301239,
+      "name": "IMMORTALIZED",
+      "url": "https://open.spotify.com/track/5IKnQVhGUxRnviKa8pk37T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlaw University",
+        "url": "https://open.spotify.com/album/5CIusXHEtiDOQfAuFYwwBA"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Kastro",
+          "url": "https://open.spotify.com/artist/6kbCmJmRthByySAmiqXI0c"
+        }
+      ],
+      "duration_ms": 221335,
+      "name": "Reason to Shine (feat. Kastro)",
+      "url": "https://open.spotify.com/track/43S8K37dRVWUdlqCpWtCwS"
     },
     {
       "added_at": null,
@@ -991,26 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something in My Soul",
-        "url": "https://open.spotify.com/album/58WoRCoE45EC6rOYmfr0Yw"
-      },
-      "artists": [
-        {
-          "name": "Matt Nye",
-          "url": "https://open.spotify.com/artist/0uwNjp5VLr7ig2T2rnwDct"
-        },
-        {
-          "name": "Young Noble",
-          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Something in My Soul",
-      "url": "https://open.spotify.com/track/64jsINMp0yZOBqKWR7IHqm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eternal Legend",
         "url": "https://open.spotify.com/album/0HGHc3rDuEchbyP5t3UJNn"
       },
@@ -1027,22 +1031,6 @@
       "duration_ms": 212805,
       "name": "Apparently",
       "url": "https://open.spotify.com/track/386DhHFXyxwwWG0AUZoiGS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Last Outlaw",
-        "url": "https://open.spotify.com/album/0BdJAXEoZxZrENcz0VwLG2"
-      },
-      "artists": [
-        {
-          "name": "Young Noble",
-          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "Born Alone, Die Alone",
-      "url": "https://open.spotify.com/track/2eGum7AB3y8Rn9Cnxezr6q"
     },
     {
       "added_at": null,
@@ -1067,22 +1055,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Son of God",
-        "url": "https://open.spotify.com/album/3urVMZt4Oej0afNgNRuJuD"
-      },
-      "artists": [
-        {
-          "name": "Young Noble",
-          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
-        }
-      ],
-      "duration_ms": 180035,
-      "name": "The Price",
-      "url": "https://open.spotify.com/track/1DfoMRdzLHBDHQVOKG7gK4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Growth",
         "url": "https://open.spotify.com/album/3N7Og743HnTDJ9qWk0E5u2"
       },
@@ -1103,8 +1075,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "3rd Eye View",
-        "url": "https://open.spotify.com/album/6hiTcXU77SCZCmuCaPTZRX"
+        "name": "Something in My Soul",
+        "url": "https://open.spotify.com/album/58WoRCoE45EC6rOYmfr0Yw"
+      },
+      "artists": [
+        {
+          "name": "Matt Nye",
+          "url": "https://open.spotify.com/artist/0uwNjp5VLr7ig2T2rnwDct"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Something in My Soul",
+      "url": "https://open.spotify.com/track/64jsINMp0yZOBqKWR7IHqm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last Outlaw",
+        "url": "https://open.spotify.com/album/0BdJAXEoZxZrENcz0VwLG2"
       },
       "artists": [
         {
@@ -1112,17 +1104,29 @@
           "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
         },
         {
-          "name": "Paris Roze",
-          "url": "https://open.spotify.com/artist/0huP96QICeCs0KjnxhF8Rq"
-        },
-        {
-          "name": "Tony Atlanta",
-          "url": "https://open.spotify.com/artist/464oVisu16xuGYQjMHmh3Y"
+          "name": "Audrey A",
+          "url": "https://open.spotify.com/artist/3UedSJ25mRuso9OuqVG8GU"
         }
       ],
-      "duration_ms": 240014,
-      "name": "Ungrateful (feat. Paris Roze & Tony Atlanta)",
-      "url": "https://open.spotify.com/track/1tMtQwxPmYVELaHheAo4GA"
+      "duration_ms": 253500,
+      "name": "HEAL (feat. Audrey A)",
+      "url": "https://open.spotify.com/track/5pqoEUIYMUO2eVcBzq1cEx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlaw University",
+        "url": "https://open.spotify.com/album/5CIusXHEtiDOQfAuFYwwBA"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "duration_ms": 307526,
+      "name": "Feel About You",
+      "url": "https://open.spotify.com/track/0YZrS4yVwl2DNWOuGPh1O5"
     }
   ],
   "unique_name": "This Is Young Noble",

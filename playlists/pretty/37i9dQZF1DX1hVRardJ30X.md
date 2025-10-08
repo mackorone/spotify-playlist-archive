@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Young Miko, Grupo Frontera & Ozuna, Myke Towers, Nanpa Básico & Kapo and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,763 likes - 51 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,800 likes - 51 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

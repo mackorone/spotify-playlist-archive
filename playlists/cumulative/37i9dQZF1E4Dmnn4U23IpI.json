@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 297272,
       "name": "Alice",
       "url": "https://open.spotify.com/track/3qiTL142kPzE64TXopEbpZ"
@@ -5388,7 +5388,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 362410,
       "name": "Crystalline",
       "url": "https://open.spotify.com/track/2dXpyz3Vlc0PRlaCJG0ZPr"
@@ -5888,7 +5888,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 324018,
       "name": "Days of Thunder",
       "url": "https://open.spotify.com/track/28uitw2AXQQIUHvSJW9qy6"
@@ -5996,7 +5996,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-04",
+      "date_removed": null,
       "duration_ms": 233968,
       "name": "Dead Star",
       "url": "https://open.spotify.com/track/0o7m7XhUtq3GGDoUXGha1h"
@@ -6376,6 +6376,24 @@
       "duration_ms": 187500,
       "name": "Diamond Eyes",
       "url": "https://open.spotify.com/track/1eBP3RJfMANRFb97vSn8ye"
+    },
+    {
+      "album": {
+        "name": "Syndicate",
+        "url": "https://open.spotify.com/album/58ZdIUja7imZmFqOSoI6b7"
+      },
+      "artists": [
+        {
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366201,
+      "name": "Digital Dreams",
+      "url": "https://open.spotify.com/track/1zbxxMaqf0OLPoOeTuncpM"
     },
     {
       "album": {
@@ -16088,7 +16106,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 272196,
       "name": "Midnight Sky",
       "url": "https://open.spotify.com/track/2f9zFwFw9Cckaz1IPp8w3u"
@@ -21719,6 +21737,28 @@
     },
     {
       "album": {
+        "name": "Syndicate",
+        "url": "https://open.spotify.com/album/58ZdIUja7imZmFqOSoI6b7"
+      },
+      "artists": [
+        {
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        },
+        {
+          "name": "Bonnie McKee",
+          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307083,
+      "name": "Runaways (feat. Bonnie McKee)",
+      "url": "https://open.spotify.com/track/1oOo2Kd2mwDomHbtbReSO8"
+    },
+    {
+      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/1sot7qqkxTXJ0aCIQdRrom"
       },
@@ -23200,7 +23240,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 203369,
       "name": "Sing It Louder",
       "url": "https://open.spotify.com/track/3T3B2VppIHXaYvJneNcTAZ"
@@ -24804,7 +24844,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 186870,
       "name": "Summer",
       "url": "https://open.spotify.com/track/4PqmwtVKncqMsVRm0I3ku4"
@@ -24876,7 +24916,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-07",
+      "date_removed": null,
       "duration_ms": 202129,
       "name": "Summer Eyes",
       "url": "https://open.spotify.com/track/1l9GWlY0FPr5Z7xRNoyNcV"
@@ -28806,7 +28846,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-07",
+      "date_removed": null,
       "duration_ms": 198688,
       "name": "Wanderers",
       "url": "https://open.spotify.com/track/3ZmNtoa1me9KilDTlcvwNq"
@@ -28824,7 +28864,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 268403,
       "name": "Wanting More",
       "url": "https://open.spotify.com/track/0v41NdLS8hp0KHGvj0EUXo"

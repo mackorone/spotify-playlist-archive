@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 8612,
+  "num_followers": 8614,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAABOxsX4F4DfO89k/6W7FfLi",
+  "snapshot_id": "aOMGgAAAAAAKu8+bytD8lGnLLlCOXZBn",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fiesta De Mi Rancho (Remix)",
-        "url": "https://open.spotify.com/album/3K2Anv3vPh9KZ5jufd1tAg"
+        "name": "Lo Bueno Y Lo Malo",
+        "url": "https://open.spotify.com/album/59RvfoVTOMJBng2ViEacq4"
       },
       "artists": [
         {
-          "name": "Monir Bautista",
-          "url": "https://open.spotify.com/artist/3vsI26mTGeEkEdWxsibd7g"
-        },
-        {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        },
+        {
+          "name": "Julio Caesar",
+          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
         }
       ],
-      "duration_ms": 158275,
-      "name": "La Fiesta De Mi Rancho - Remix",
-      "url": "https://open.spotify.com/track/74eHdWsJM0p448J9Hsa3oh"
+      "duration_ms": 162625,
+      "name": "Lo Bueno Y Lo Malo",
+      "url": "https://open.spotify.com/track/3max574PT1q80JWMAGkdUY"
     },
     {
       "added_at": null,
@@ -475,26 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Bueno Y Lo Malo",
-        "url": "https://open.spotify.com/album/59RvfoVTOMJBng2ViEacq4"
+        "name": "La Fiesta De Mi Rancho (Remix)",
+        "url": "https://open.spotify.com/album/3K2Anv3vPh9KZ5jufd1tAg"
       },
       "artists": [
         {
+          "name": "Monir Bautista",
+          "url": "https://open.spotify.com/artist/3vsI26mTGeEkEdWxsibd7g"
+        },
+        {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Kane Rodriguez",
-          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
-        },
-        {
-          "name": "Julio Caesar",
-          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
         }
       ],
-      "duration_ms": 162625,
-      "name": "Lo Bueno Y Lo Malo",
-      "url": "https://open.spotify.com/track/3max574PT1q80JWMAGkdUY"
+      "duration_ms": 158275,
+      "name": "La Fiesta De Mi Rancho - Remix",
+      "url": "https://open.spotify.com/track/74eHdWsJM0p448J9Hsa3oh"
     },
     {
       "added_at": null,

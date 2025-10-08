@@ -4,7 +4,7 @@
 
 > Bask in the sound of soul, old and new.
 
-153 songs - 9 hr 10 min
+154 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Good Vibrations](https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Good Vibrations](https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF) | 3:49 | 2024-11-24 |  |
 | [Greatest Gift \(feat\. Lila Iké\)](https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:12 | 2023-11-24 |  |
 | [Greatest Gift \- Reimagined](https://open.spotify.com/track/1Vdescm48rk3XEjR4i2cBr) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying \(Reimagined\)](https://open.spotify.com/album/6pLWFHmvJ82dUQF1bUTvZM) | 3:59 | 2024-10-05 | 2025-09-07 |
+| [HDYK](https://open.spotify.com/track/2Qzu2Ox4Zxtgv8GTlkcI6s) | [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [HDYK](https://open.spotify.com/album/5lAWjLJ5Lp1jNc3UXWKFPD) | 4:05 | 2025-09-06 |  |
 | [Head Above Water](https://open.spotify.com/track/280voyNiWMpSELBtCuMVCs) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Head Above Water](https://open.spotify.com/album/243xtJO49rvMqy5yx1DYxz) | 3:10 | 2025-03-09 | 2025-09-07 |
 | [Head in a Jar](https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Head in a Jar](https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3) | 3:16 | 2025-09-06 |  |
 | [Healing](https://open.spotify.com/track/42cpWOkiSQPcVIYGbw8IRC) | [Caleb Kunle](https://open.spotify.com/artist/3ummHhJhcQSykZfeZlw4MY) | [Healing](https://open.spotify.com/album/3lcnhk95qdnXkvcGeVuKXo) | 5:03 | 2025-03-09 |  |
@@ -130,7 +131,7 @@
 | [Sweet Nothings](https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Sweet Nothings](https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh) | 2:53 | 2025-03-09 | 2025-08-14 |
 | [Sweeter \(feat\. Terrace Martin\)](https://open.spotify.com/track/1ehhGlTvjtHo2e4xJFB0SZ) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Sweeter \(feat\. Terrace Martin\)](https://open.spotify.com/album/7MEVKXLS3YOlaz3kXexPeM) | 2:47 | 2023-11-24 | 2025-04-19 |
 | [Take Me to the River](https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Al Green Explores Your Mind](https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q) | 3:45 | 2023-11-24 |  |
-| [Teal Dreams](https://open.spotify.com/track/6mMXWQDmEvFDUhaXXvMfCC) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Teal Dreams](https://open.spotify.com/album/2l6CZ13JhTOOljZEPBUdY2) | 3:14 | 2025-09-06 |  |
+| [Teal Dreams](https://open.spotify.com/track/6mMXWQDmEvFDUhaXXvMfCC) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Teal Dreams](https://open.spotify.com/album/2l6CZ13JhTOOljZEPBUdY2) | 3:14 | 2025-09-06 | 2025-10-08 |
 | [Tears Dry On Their Own](https://open.spotify.com/track/6yLX8QnxlnEqZfs3YKCfjF) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:05 | 2023-11-24 |  |
 | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1) | 3:29 | 2023-11-24 |  |
 | [That's What I Love](https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That's What I Love](https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93) | 3:46 | 2024-09-28 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 203282,
+  "num_followers": 203278,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAADA9dZT/+QqFPqZ1J6Bhfus",
+  "snapshot_id": "aOMGgAAAAABig6p3Mlmm3iWudLR+W5nX",
   "tracks": [
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shotgun Willie",
-        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 247239,
-      "name": "Whiskey River",
-      "url": "https://open.spotify.com/track/6gS6XQ4OqMddkgzHNz40E5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highwayman",
         "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 228160,
       "name": "Against the Wind",
       "url": "https://open.spotify.com/track/3Q3R4fUAI7Lz1PEowFjK11"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shotgun Willie",
+        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 247239,
+      "name": "Whiskey River",
+      "url": "https://open.spotify.com/track/6gS6XQ4OqMddkgzHNz40E5"
     },
     {
       "added_at": null,
@@ -999,6 +999,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shotgun Willie",
+        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 157053,
+      "name": "Shotgun Willie",
+      "url": "https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Okie From Muskogee (Live)",
         "url": "https://open.spotify.com/album/2rwFK8bxHwqjIJO3he8Mc6"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 95746,
       "name": "Okie From Muskogee - Live",
       "url": "https://open.spotify.com/track/529x2bhs2op70bGqGOoLk4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shotgun Willie",
-        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 157053,
-      "name": "Shotgun Willie",
-      "url": "https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD"
     },
     {
       "added_at": null,

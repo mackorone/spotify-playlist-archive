@@ -4,7 +4,7 @@
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-841 songs - 1 day 16 hr 9 min
+842 songs - 1 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Futuro](https://open.spotify.com/track/5vdPe3HuuqPqBf6zEDFjf4) | [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj) | [Futuro](https://open.spotify.com/album/2sPGwed7st73dAYGJUwIIi) | 4:43 | 2022-02-04 | 2022-04-29 |
 | [FYE FYE](https://open.spotify.com/track/08L5NUKHYS0RO32tz34G4A) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [FYE FYE](https://open.spotify.com/album/6fyajWzEooH12hA3oJIOZU) | 3:52 | 2022-02-04 | 2023-08-12 |
 | [G.O.A.L.S.](https://open.spotify.com/track/2DHpfCtX1KmkvHvc5rutRV) | [Aaron LaRoy](https://open.spotify.com/artist/1CkVufmAAig0ly0zyEqQQJ), [Constance Dees](https://open.spotify.com/artist/0kIBXBjW4OANrsRuMto6yu) | [G.O.A.L.S.](https://open.spotify.com/album/20u7UEG2i60KRs5iPJ2pgl) | 2:59 | 2024-03-20 | 2024-10-05 |
+| [Gasoline](https://open.spotify.com/track/5SJh1lE1q3wGH8r0GwMKOQ) | [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr), [RUA YOUNG](https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1) | [Gasoline](https://open.spotify.com/album/77K4ooWFuanFo5DG5sdSBn) | 2:10 | 2025-10-03 |  |
 | [GATEKEEP!](https://open.spotify.com/track/5ykktDXJ9xWDMTBfok7FYh) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [4 SUCH A TIME AS THIS](https://open.spotify.com/album/7wEgKzItFRcG8fZCjB6eEN) | 2:27 | 2025-05-09 |  |
 | [Get It, Get It](https://open.spotify.com/track/2Aq2yNSQU02PpMUJp86JFz) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [MAKEBA](https://open.spotify.com/artist/298U4nSkh4Zbb68nPuBYTn), [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [B\. Stokes](https://open.spotify.com/artist/5TurTnk96PSPIVZ3cG6HB1) | [Highlight Tapes, Vol\. 1](https://open.spotify.com/album/5vTdtFjNXMEaQOjvPhUImJ) | 2:10 | 2022-02-04 | 2022-07-09 |
 | [Get Out My Way](https://open.spotify.com/track/51DaW6U334rZ19HB0oduYe) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Never Fold](https://open.spotify.com/album/6lp34X38buB3Rl6u2zh5g1) | 3:28 | 2022-02-04 | 2022-12-17 |
@@ -626,7 +627,7 @@
 | [Rise Up \(Lazarus\) \[FRANKLIN Remix\]](https://open.spotify.com/track/0hD5WoXq5PfWYWPcZnIEXm) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Rise Up \(Lazarus\) \[FRANKLIN Remix\]](https://open.spotify.com/album/2vi7eJheb0Tis7qfw6p1kD) | 4:00 | 2022-02-04 | 2023-08-12 |
 | [RIVALS](https://open.spotify.com/track/4Lv3A56fTvfZvTK4mrB1vZ) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [GAV](https://open.spotify.com/artist/4EK1vzhkIaze8TCtYg0Tge) | [RIVALS](https://open.spotify.com/album/0AFbdKKyYriMmSZxOuCrU3) | 3:07 | 2024-01-12 | 2024-06-08 |
 | [Rocky Road](https://open.spotify.com/track/4FGj20G3ceuu0y5tdPPcPl) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Rocky Road](https://open.spotify.com/album/0aJGfLXFLhudd3uUOAleIK) | 2:33 | 2022-09-03 | 2022-10-02 |
-| [Roses](https://open.spotify.com/track/3803B0uUfFimmhthYY1oOb) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [Roses](https://open.spotify.com/album/4kpRKbjZRks2cPmODj2fcw) | 2:32 | 2024-06-07 |  |
+| [Roses](https://open.spotify.com/track/3803B0uUfFimmhthYY1oOb) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [Roses](https://open.spotify.com/album/4kpRKbjZRks2cPmODj2fcw) | 2:32 | 2024-06-07 | 2025-10-08 |
 | [ROUND HERE \(PART ONE\)](https://open.spotify.com/track/3rGkm51Yn7ynxGmGcNC5De) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [moMINTs](https://open.spotify.com/album/3ZFgX4IgUylPhDOKFatHKL) | 1:42 | 2022-07-17 | 2022-08-04 |
 | [ROUND HERE \(PART ONE\)](https://open.spotify.com/track/4BImovSekry2KFLxwmy0Wd) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [moMINTs](https://open.spotify.com/album/5OfbkXXWC6iPFiubnb0NrY) | 1:42 | 2022-07-17 | 2022-08-07 |
 | [Ruckus](https://open.spotify.com/track/4RWpsZUfHdfCVX1KgpQgWU) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ), [Crispin](https://open.spotify.com/artist/0rMwQONuoIsaJir7AFSTTZ) | [Ruckus](https://open.spotify.com/album/389d4pSwwuFlDxsvOwsIXd) | 3:00 | 2022-03-23 | 2022-04-21 |

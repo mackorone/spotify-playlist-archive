@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,839 likes - 71 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,857 likes - 71 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 22 | [UNDEFEATED](https://open.spotify.com/track/0NrObqc8nK1XcDNPJNBKRV) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [UNDEFEATED](https://open.spotify.com/album/7kHjcTey5ZAewZLWtuCqzK) | 2:53 |
 | 23 | [Fast Forward](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu) | 2:40 |
 | 24 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 |
-| 25 | [CUT UP](https://open.spotify.com/track/6409bzRqrc9guKehKXiEcN) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [CUT UP](https://open.spotify.com/album/6hTtCdrTGIb5hzksetYw0u) | 2:56 |
-| 26 | [Idol](https://open.spotify.com/track/1zVsw1SqQKgtzE4aqmE8nE) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Idol](https://open.spotify.com/album/2t5eAUqMwN0Kb2JGTxW2w0) | 3:33 |
+| 25 | [Idol](https://open.spotify.com/track/1zVsw1SqQKgtzE4aqmE8nE) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Idol](https://open.spotify.com/album/2t5eAUqMwN0Kb2JGTxW2w0) | 3:33 |
+| 26 | [CUT UP](https://open.spotify.com/track/6409bzRqrc9guKehKXiEcN) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [CUT UP](https://open.spotify.com/album/6hTtCdrTGIb5hzksetYw0u) | 2:56 |
 | 27 | [figured u out](https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:12 |
 | 28 | [Irresponsible](https://open.spotify.com/track/60SugyNV4FdewZfktXfXte) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Irresponsible](https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd) | 2:04 |
 | 29 | [Haute Couture](https://open.spotify.com/track/3Umaao8VD5w6SWKR8RO9Sp) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1), [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [Haute Couture](https://open.spotify.com/album/7JSfGOO7cNbejGCHjgGDRL) | 2:10 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 64 | [i deserve better](https://open.spotify.com/track/61N6k78p44EXKHAovZd6EX) | [Ka Lia Universe](https://open.spotify.com/artist/75PGoEd8qGidSNjc5isdtb) | [i deserve better](https://open.spotify.com/album/0yMEpVkWmfE2NSrL0sjLG4) | 3:26 |
 | 65 | [Keeping Tabs](https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 2:57 |
 | 66 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 |
-| 67 | [DIRT](https://open.spotify.com/track/4yecHdRmT62mztymihKxYK) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [DIRT](https://open.spotify.com/album/5cRSLaVtgLt9U3leSOTcXD) | 2:15 |
-| 68 | [EXPIRED](https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [EXPIRED](https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy) | 2:26 |
-| 69 | [Better Than the Boys](https://open.spotify.com/track/7GLpR7N8nD4yOmcDBx8rhx) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Better Than the Boys](https://open.spotify.com/album/5TAaro0o1fagEEBHhF9DmH) | 2:34 |
+| 67 | [Better Than the Boys](https://open.spotify.com/track/7GLpR7N8nD4yOmcDBx8rhx) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Better Than the Boys](https://open.spotify.com/album/5TAaro0o1fagEEBHhF9DmH) | 2:34 |
+| 68 | [DIRT](https://open.spotify.com/track/4yecHdRmT62mztymihKxYK) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [DIRT](https://open.spotify.com/album/5cRSLaVtgLt9U3leSOTcXD) | 2:15 |
+| 69 | [EXPIRED](https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [EXPIRED](https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy) | 2:26 |
 | 70 | [EAT](https://open.spotify.com/track/3CRDDASiC4gwTYUOOdnMxt) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [EAT / DIRT](https://open.spotify.com/album/5sSHtc1O80DaV60NDKPnYu) | 2:17 |
 | 71 | [Whatchu Gonna...?](https://open.spotify.com/track/7x4mAxUxBwcHd0VpMOnKsV) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Rainbow Chan](https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy) | [Whatchu Gonna...?](https://open.spotify.com/album/4C6O1vEFP0AM2ThBxFdma2) | 3:48 |
 

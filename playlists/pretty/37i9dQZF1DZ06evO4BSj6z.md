@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSj6z.md) - [plain]
 
 > This is Sasha Keable\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,252 likes - 43 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,262 likes - 43 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSj6z.md) - [plain]
 | 6 | [FEEL SOMETHING](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 |
 | 7 | [Hold Up](https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Hold Up](https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab) | 2:28 |
 | 8 | [heartbeat](https://open.spotify.com/track/7LmCQaJpg5o76eF27GbGIe) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/4YVaV9ViXndugkvyBOBGxX) | 3:03 |
-| 9 | [Body Language \(feat\. Sasha Keable\)](https://open.spotify.com/track/5EUh2m1rTsojG22W7XrCBG) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Body Language \(feat\. Sasha Keable\)](https://open.spotify.com/album/2aeEO30e5qXXujdeJjL7kY) | 4:02 |
-| 10 | [AUCTION](https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [AUCTION](https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU) | 3:20 |
+| 9 | [AUCTION](https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [AUCTION](https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU) | 3:20 |
+| 10 | [Body Language \(feat\. Sasha Keable\)](https://open.spotify.com/track/5EUh2m1rTsojG22W7XrCBG) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Body Language \(feat\. Sasha Keable\)](https://open.spotify.com/album/2aeEO30e5qXXujdeJjL7kY) | 4:02 |
 | 11 | [Goosebumps](https://open.spotify.com/track/4SelzUrCidrhIGNrICgT0o) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Intermission](https://open.spotify.com/album/0eAt0SPmACBvou4iw4wMzv) | 3:08 |
 | 12 | [work \(feat\. BEAM\)](https://open.spotify.com/track/7JA2ocpnZnEbGJwR6TfIDa) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [act right](https://open.spotify.com/album/4YVaV9ViXndugkvyBOBGxX) | 3:15 |
 | 13 | [Never Knew Love \- Acoustic](https://open.spotify.com/track/7HbyOxKUYsosCdb4nyT2Gb) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Never Knew Love \(Acoustic\)](https://open.spotify.com/album/6VaBt5XWwf2Lt08NnaXS9x) | 3:34 |
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSj6z.md) - [plain]
 | 32 | [WHY \- Remix](https://open.spotify.com/track/7ENtzFdzmKM0xNvlb4Sgus) | [Rent "EM" Spoons](https://open.spotify.com/artist/5J3qQ4tHPWRBcXVj5lyaA1), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [WHY \(Remix\)](https://open.spotify.com/album/5MB4OfXtNGygUM3L4h7ATU) | 3:42 |
 | 33 | [Put Your Love On Me \- Stylo G Mix](https://open.spotify.com/track/7oo0Qh2os8dcR5mhFUmZ5r) | [Diztortion](https://open.spotify.com/artist/35vjmhmFFVoYLg4gPJBvEV), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Put Your Love On Me \(Stylo G Mix\)](https://open.spotify.com/album/41BZcJBiIZCXoBclGYUHaj) | 3:07 |
 | 34 | [Careless Over You](https://open.spotify.com/track/3Sz3IZZzkH4h1h1ZJghbVw) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 3:24 |
-| 35 | [Memory](https://open.spotify.com/track/2qe9NvP8qqRydUeiruYEnC) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Lemongrass And Limeleaves](https://open.spotify.com/album/2nczM6I5ehnQlf2whl0bXA) | 3:55 |
+| 35 | [Sweetest Talk](https://open.spotify.com/track/5faA5gSW8Yrpp3pxrhuzEn) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Lemongrass And Limeleaves](https://open.spotify.com/album/2nczM6I5ehnQlf2whl0bXA) | 4:22 |
 | 36 | [Nice Side](https://open.spotify.com/track/59isfjFIf1WfzKfy5y5n7S) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 3:23 |
-| 37 | [Sweetest Talk](https://open.spotify.com/track/5faA5gSW8Yrpp3pxrhuzEn) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Lemongrass And Limeleaves](https://open.spotify.com/album/2nczM6I5ehnQlf2whl0bXA) | 4:22 |
+| 37 | [Memory](https://open.spotify.com/track/2qe9NvP8qqRydUeiruYEnC) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Lemongrass And Limeleaves](https://open.spotify.com/album/2nczM6I5ehnQlf2whl0bXA) | 3:55 |
 | 38 | [Tempting As You Are](https://open.spotify.com/track/5XLIhPjfiKJ6MPFR3djTjh) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 4:48 |
-| 39 | [Living Without You](https://open.spotify.com/track/65eH29VKJ1qN6bR7dlgCEZ) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Lemongrass And Limeleaves](https://open.spotify.com/album/2nczM6I5ehnQlf2whl0bXA) | 3:17 |
+| 39 | [6”4](https://open.spotify.com/track/7boMN3cAF46JnICNllvhJX) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Lemongrass And Limeleaves](https://open.spotify.com/album/2nczM6I5ehnQlf2whl0bXA) | 4:20 |
 | 40 | [Asking For More](https://open.spotify.com/track/1ntJgWD4ep3UsfgzLUTf0U) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 4:08 |
-| 41 | [6”4](https://open.spotify.com/track/7boMN3cAF46JnICNllvhJX) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Lemongrass And Limeleaves](https://open.spotify.com/album/2nczM6I5ehnQlf2whl0bXA) | 4:20 |
+| 41 | [Living Without You](https://open.spotify.com/track/65eH29VKJ1qN6bR7dlgCEZ) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Lemongrass And Limeleaves](https://open.spotify.com/album/2nczM6I5ehnQlf2whl0bXA) | 3:17 |
 | 42 | [Daydreamer](https://open.spotify.com/track/7pClETnYn1YVsA3WbsWHv8) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 3:09 |
 | 43 | [Spoke To Myself](https://open.spotify.com/track/5CVnpiYwMTNYeJofND7y3x) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 4:28 |
 
-Snapshot ID: `aOG1AAAAAAAZqNgKaKXBZKDOmSE86MYM`
+Snapshot ID: `aOMGgAAAAAAw0fxbzI59YvOunBVoTkib`

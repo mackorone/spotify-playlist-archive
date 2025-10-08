@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2012. Cover: Flume",
-  "num_followers": 105433,
+  "num_followers": 105472,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 224680,
-      "name": "The Fall",
-      "url": "https://open.spotify.com/track/35yZkNFNVosiHE6Uj0COVM"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "My Head Is An Animal",
         "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 211453,
       "name": "Mountain Sound",
       "url": "https://open.spotify.com/track/3SPVZJzf1Hs30rB6yXVf2y"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 224680,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/35yZkNFNVosiHE6Uj0COVM"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Flume",
-        "url": "https://open.spotify.com/album/1Ya2L1SaukipRj53e0dIYc"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        }
-      ],
-      "duration_ms": 154414,
-      "name": "Holdin On",
-      "url": "https://open.spotify.com/track/4s5652m7A8iuDQsZ0UWNcO"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "Mondo",
         "url": "https://open.spotify.com/album/2RmYavmwTVl0MOhfyySBJz"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 168626,
       "name": "American Daydream",
       "url": "https://open.spotify.com/track/40QdVaXuZgxZ8vdoaFDNsL"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Flume",
+        "url": "https://open.spotify.com/album/1Ya2L1SaukipRj53e0dIYc"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "duration_ms": 154414,
+      "name": "Holdin On",
+      "url": "https://open.spotify.com/track/4s5652m7A8iuDQsZ0UWNcO"
     },
     {
       "added_at": "2025-03-14 12:16:12",

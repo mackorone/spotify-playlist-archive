@@ -4,7 +4,7 @@
 
 > The best alternative songs of the decade\. Cover: Vampire Weekend
 
-345 songs - 23 hr 2 min
+346 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Holy City](https://open.spotify.com/track/0YPIETceecHVR0VWuRPRT3) | [Joan As Police Woman](https://open.spotify.com/artist/6PBv8t9YTLggA9ZMwpeoqj) | [The Classic](https://open.spotify.com/album/0IuBCE17kDil7XhQmlkZWH) | 4:44 | 2022-02-21 | 2022-07-05 |
 | [Home Again](https://open.spotify.com/track/5yGVHzJ2Se8pDzR7FIYUlU) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again \(Deluxe Version\)](https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK) | 3:29 | 2022-09-29 |  |
 | [Honey](https://open.spotify.com/track/0XN5vm980boRCELIwD2CIe) | [Swim Deep](https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc) | [Where the Heaven Are We](https://open.spotify.com/album/4pysD7EqnDkRx4mXG42OCo) | 3:39 | 2023-04-28 | 2024-06-02 |
+| [hope for the underrated youth](https://open.spotify.com/track/24qhW8fqWyrMHqkBfM2HPk) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [the underrated youth](https://open.spotify.com/album/0kGTcfwQC5nlsubgxUXdwP) | 4:00 | 2022-09-29 |  |
 | [I Can Change](https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 5:52 | 2021-11-15 |  |
 | [I Can't Stand It](https://open.spotify.com/track/16nIdWPjwoNTkADzm6nwBb) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Cool Like You \(Deluxe\)](https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa) | 2:57 | 2022-02-21 | 2022-07-05 |
 | [I Don't Wanna Be Funny Anymore](https://open.spotify.com/track/0kwBATkVUAG7JRMEosNUUs) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Burden](https://open.spotify.com/album/6Ru52lwXvbPaAMSdyPOFsL) | 2:43 | 2021-11-15 | 2022-07-27 |
@@ -162,7 +163,7 @@
 | [King Kunta](https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 3:54 | 2022-02-21 |  |
 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 | 2022-02-21 | 2024-04-19 |
 | [Kingston](https://open.spotify.com/track/6UDsXXPcmbCwXRlNp8s1wT) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Kingston](https://open.spotify.com/album/2l8u3R99icWYGKk2KNfP48) | 3:22 | 2021-11-15 | 2022-07-27 |
-| [L.I.F.E.G.O.E.S.O.N.](https://open.spotify.com/track/6y468DyY1V67RBNCwzrMrC) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Last Night On Earth](https://open.spotify.com/album/2BAYuyT9kP620VgwpowIQK) | 3:48 | 2022-09-29 |  |
+| [L.I.F.E.G.O.E.S.O.N.](https://open.spotify.com/track/6y468DyY1V67RBNCwzrMrC) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Last Night On Earth](https://open.spotify.com/album/2BAYuyT9kP620VgwpowIQK) | 3:48 | 2022-09-29 | 2025-10-08 |
 | [Left Hand Free](https://open.spotify.com/track/126TblwXGNTUZ7RPMnThkU) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/6TbkWAqqY4nhQnYim61IU8) | 2:53 | 2021-11-15 | 2022-07-25 |
 | [Left Hand Free](https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 2:53 | 2022-02-21 | 2024-04-19 |
 | [Lemon Glow](https://open.spotify.com/track/1gmYNelMcY3SFIXhpeBkaz) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1xg88pe0CUD6UeE3fEnEkD) | 4:04 | 2021-11-15 | 2022-07-29 |

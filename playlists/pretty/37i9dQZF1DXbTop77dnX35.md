@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Adekunle Gold, Yemi Alade, Taylor Swift, Bella Shmurda   and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,511 likes - 52 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,623 likes - 52 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 44 | [Common Sense](https://open.spotify.com/track/13F28vPibN4R7sAJwtlseH) | [Nizzy](https://open.spotify.com/artist/49MZ2LfoETArTTAJPnQd4R) | [Common Sense](https://open.spotify.com/album/0IXZObjDBScoY1IAEFNRUo) | 2:10 |
 | 45 | [Backo](https://open.spotify.com/track/1i3Dv3xk8WLGCVu0Lgx6Uu) | [Spy Shitta](https://open.spotify.com/artist/4LTESjldd92V5ZxhEITidD) | [Backo](https://open.spotify.com/album/1gAucgtILND7Pw7PQTOSNH) | 2:42 |
 | 46 | [She Said \(NLZ\)](https://open.spotify.com/track/3hXLCv10INcidKqZzXh0xZ) | [Thousand Voice](https://open.spotify.com/artist/4wvwkptjVXr5TdkvFjiWsz) | [She Said \(NLZ\)](https://open.spotify.com/album/755JOrOHxdSYbcrBxyWsX6) | 2:30 |
-| 47 | [Stage Ya Mwisho](https://open.spotify.com/track/4DaouMbzqBe1eaMtaTgzWv) | [Vic West](https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn), [Iyanii](https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr) | [Stage Ya Mwisho](https://open.spotify.com/album/1gIhAIB17QtPHUTr3ZUihX) | 4:50 |
+| 47 | [Stage Ya Mwisho](https://open.spotify.com/track/4DaouMbzqBe1eaMtaTgzWv) | [Vic West](https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn), [Iyanii](https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr) | [Stage Ya Mwisho](https://open.spotify.com/album/1gIhAIB17QtPHUTr3ZUihX) | 4:22 |
 | 48 | [All My Friends Are Changing](https://open.spotify.com/track/0KYcBZxXNSbU3N4bxoTsps) | [ZUBIN](https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E) | [All My Friends Are Changing](https://open.spotify.com/album/3FHOjRFIN1kanRqWHfphui) | 2:17 |
 | 49 | [Priceless](https://open.spotify.com/track/70WV1vfsIVNh8q1fPUV7J6) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Lavosti](https://open.spotify.com/artist/4nChsq97XGiGD3BMGJt4SV) | [Priceless](https://open.spotify.com/album/4O02XxXQZlouxWZcXk613l) | 4:06 |
 | 50 | [Eli Eli](https://open.spotify.com/track/3UDE2CU7G6Cjk0l00z4MY1) | [Zamorra](https://open.spotify.com/artist/7JTO3ONqILqKAMEIQ7db5s) | [Zamorra The Outcast](https://open.spotify.com/album/4HOlPe4C2nrmxHxF7vVwRg) | 2:38 |

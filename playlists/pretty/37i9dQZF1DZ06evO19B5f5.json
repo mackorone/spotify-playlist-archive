@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAADOpKvq2OfkcVxyxLIKSVe4",
+  "snapshot_id": "aOMGgAAAAAClcakLNFCKe9JQJFyI6U2v",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes (Remixes)",
-        "url": "https://open.spotify.com/album/16CuH62K4ZWOY3aUYdRuSv"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 242552,
-      "name": "Echoes - Edeema Remix",
-      "url": "https://open.spotify.com/track/43mDq73eZzHuVFB7hrEFn8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Isn\u2019t It Strange?",
         "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 202848,
       "name": "Suddenly Strangers",
       "url": "https://open.spotify.com/track/73B6PiZ2UDUss37GmbI5cQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echoes (Remixes)",
+        "url": "https://open.spotify.com/album/16CuH62K4ZWOY3aUYdRuSv"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 242552,
+      "name": "Echoes - Edeema Remix",
+      "url": "https://open.spotify.com/track/43mDq73eZzHuVFB7hrEFn8"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad People",
-        "url": "https://open.spotify.com/album/49zAhCFGgaSPWJJHUvzNec"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 196660,
-      "name": "Bad People",
-      "url": "https://open.spotify.com/track/2CMA6mhqGhVSn6EQ1StxOa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Isn\u2019t It Strange?",
         "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 237338,
       "name": "Thinking About",
       "url": "https://open.spotify.com/track/6wpUNL6pvnzjehb8Az0jmt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad People",
+        "url": "https://open.spotify.com/album/49zAhCFGgaSPWJJHUvzNec"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 196660,
+      "name": "Bad People",
+      "url": "https://open.spotify.com/track/2CMA6mhqGhVSn6EQ1StxOa"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/4t9wHECf8eEymsGn8uAfG0"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 208972,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/1LDfxHCm0G2tFcX1XQimJi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Isn\u2019t It Strange?",
         "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 239468,
       "name": "How Would You Like It?",
       "url": "https://open.spotify.com/track/2hew0QHOWxyf7JoiP8LVSI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/4t9wHECf8eEymsGn8uAfG0"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 208972,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/1LDfxHCm0G2tFcX1XQimJi"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If Looks Could Kill",
-        "url": "https://open.spotify.com/album/39DZ3bo9YT32B4LA7TxWOO"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 209896,
-      "name": "If Looks Could Kill",
-      "url": "https://open.spotify.com/track/40iz3ixJkBn8vFnnvGQhK1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Isn\u2019t It Strange?",
         "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 258598,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/20dyDdutlGUpKffvWOLpni"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If Looks Could Kill",
+        "url": "https://open.spotify.com/album/39DZ3bo9YT32B4LA7TxWOO"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 209896,
+      "name": "If Looks Could Kill",
+      "url": "https://open.spotify.com/track/40iz3ixJkBn8vFnnvGQhK1"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghost World",
-        "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
-      },
-      "artists": [
-        {
-          "name": "Lauren Aquilina",
-          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Swap Places",
-      "url": "https://open.spotify.com/track/2Q6Z13C5b9AqgozHe7qPbO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Isn\u2019t It Strange?",
         "url": "https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 246888,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/1MNevc3dOPDPRZ3SinWfje"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ghost World",
+        "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Swap Places",
+      "url": "https://open.spotify.com/track/2Q6Z13C5b9AqgozHe7qPbO"
     },
     {
       "added_at": null,

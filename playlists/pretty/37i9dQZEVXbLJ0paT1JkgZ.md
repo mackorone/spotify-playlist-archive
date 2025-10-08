@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,529 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,533 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [Bajo De La Piel](https://open.spotify.com/track/3sc0Wv64rOuIRVkQO7rrer) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 2:48 |
 | 50 | [Que Te Vaya Bien](https://open.spotify.com/track/6Sqm0JcOT9tw6Az1dDZ2WC) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Que Te Vaya Bien](https://open.spotify.com/album/282kC6Xq03U4wJdaPgXBWa) | 2:55 |
 
-Snapshot ID: `MHcwoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MHiCIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

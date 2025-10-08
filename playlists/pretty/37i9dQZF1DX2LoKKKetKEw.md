@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 ### [AfroGospel](https://open.spotify.com/playlist/37i9dQZF1DX2LoKKKetKEw)
 
-> Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: Gaise Baba
+> Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: Festizie
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,909 likes - 95 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,937 likes - 95 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 94 | [Prosper](https://open.spotify.com/track/5d3ORNibUzn5VjhHgTt1pQ) | [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Prosper](https://open.spotify.com/album/6ZmOIEJLVTp2xlCpE7Vwed) | 2:50 |
 | 95 | [Big Man Child](https://open.spotify.com/track/1S8t4a6IMP10hNXqbvI3Ub) | [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Big Man Child](https://open.spotify.com/album/6vEYbvVSnkRPeXMUlh071O) | 2:25 |
 
-Snapshot ID: `AAAAAFYhXlQ/RhrHTqDbiV9BSqjUIN5N`
+Snapshot ID: `AAAAADS8J1W8QRjLG4JoPIoaSREfgLbk`

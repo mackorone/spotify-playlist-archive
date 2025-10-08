@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Martox",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Samura\u00ef",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 144731,
       "name": "+ Te Vale",
       "url": "https://open.spotify.com/track/0XWqcDAa5ZCmyBOYukrRoQ"
@@ -3594,7 +3594,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 204794,
       "name": "Coleccionando Heridas",
       "url": "https://open.spotify.com/track/3ddJ8Vbc5tYPxq5zKRVke6"
@@ -5354,6 +5354,24 @@
       "duration_ms": 167994,
       "name": "Dol\u00eda (feat. Las Villa)",
       "url": "https://open.spotify.com/track/6tgn0I6tgzX9n38whF5Xc8"
+    },
+    {
+      "album": {
+        "name": "dos dedos de frente",
+        "url": "https://open.spotify.com/album/6Kp8heod8OEnUnjy4MYHpZ"
+      },
+      "artists": [
+        {
+          "name": "FABIAN",
+          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "dos dedos de frente",
+      "url": "https://open.spotify.com/track/7unscTqHZ3UjQdvmPvBLQP"
     },
     {
       "album": {
@@ -8732,6 +8750,24 @@
       "duration_ms": 188035,
       "name": "K\u00e9 MaL",
       "url": "https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g"
+    },
+    {
+      "album": {
+        "name": "LA 17",
+        "url": "https://open.spotify.com/album/6F9a78U2FLYGKxGRl9ca7L"
+      },
+      "artists": [
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184583,
+      "name": "LA 17",
+      "url": "https://open.spotify.com/track/5VvXKI2utC5crGwOrqFppP"
     },
     {
       "album": {

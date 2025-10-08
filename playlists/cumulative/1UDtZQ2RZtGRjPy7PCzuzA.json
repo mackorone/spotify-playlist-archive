@@ -10463,6 +10463,24 @@
     },
     {
       "album": {
+        "name": "Love Me Anyway",
+        "url": "https://open.spotify.com/album/4zGYqGyEgY8YQZE0tob6Bj"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233325,
+      "name": "Love Me Anyway",
+      "url": "https://open.spotify.com/track/53KWkwzQq47p13swqiLAMI"
+    },
+    {
+      "album": {
         "name": "Fearless (Platinum Edition)",
         "url": "https://open.spotify.com/album/2gP2LMVcIFgVczSJqn340t"
       },

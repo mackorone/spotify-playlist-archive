@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 
 > The hottest 50 tracks in Algeria\. Cover: Numidia Lezoul
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,389 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,412 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sahran lil](https://open.spotify.com/track/1wNH5iIDfcbXdG97m5Uf0H) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Sahran lil](https://open.spotify.com/album/7um0rbaxglumtA1jUqd6WD) | 2:41 |
-| 2 | [Love](https://open.spotify.com/track/3Jet2WFgU8NlW7J4xZHa7s) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Love](https://open.spotify.com/album/4djU41ryFZF6OzAgFuuEI4) | 2:57 |
-| 3 | [Match retard](https://open.spotify.com/track/5b9cobjlCZRwq8KFlv7qqC) | [Hakim Liberta](https://open.spotify.com/artist/3vj3OWhgejcWjemt7nnYAp) | [Match retard](https://open.spotify.com/album/3tZAoGEk3SO8DdVvOkv0pX) | 4:43 |
-| 4 | [Smaht ou Mchit](https://open.spotify.com/track/4szzelql5n4wwot52p0rsm) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Smaht ou Mchit](https://open.spotify.com/album/0crzSITMp0X19AwZwAz6q6) | 3:39 |
-| 5 | [kafini](https://open.spotify.com/track/6uEdcdlgbHfMx6HrhSjBgB) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [kafini](https://open.spotify.com/album/6Pua6hPDd8D5lMt3G8HTWp) | 3:01 |
-| 6 | [El Ghira](https://open.spotify.com/track/5V2zIdJc8wVDkn8yza53QF) | [Cheb Cristal](https://open.spotify.com/artist/4OucPEDMUkYVhet2JqVHs6), [Hasna Elaazizi](https://open.spotify.com/artist/4eiZIVmnpwWyEjaGs1xBio) | [El Ghira](https://open.spotify.com/album/0kc537yKO4crc50nRqMWv8) | 5:19 |
+| 2 | [Denia](https://open.spotify.com/track/1vqT1et6B9Cx8yaz56kcLp) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Zumawoed](https://open.spotify.com/artist/42FWGlRoQ1dHP17if3aFu5) | [Denia](https://open.spotify.com/album/3mN2RgIcV7UfvcDrldsdNu) | 3:15 |
+| 3 | [Love](https://open.spotify.com/track/3Jet2WFgU8NlW7J4xZHa7s) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Love](https://open.spotify.com/album/4djU41ryFZF6OzAgFuuEI4) | 2:57 |
+| 4 | [Match retard](https://open.spotify.com/track/5b9cobjlCZRwq8KFlv7qqC) | [Hakim Liberta](https://open.spotify.com/artist/3vj3OWhgejcWjemt7nnYAp) | [Match retard](https://open.spotify.com/album/3tZAoGEk3SO8DdVvOkv0pX) | 4:43 |
+| 5 | [Smaht ou Mchit](https://open.spotify.com/track/4szzelql5n4wwot52p0rsm) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Smaht ou Mchit](https://open.spotify.com/album/0crzSITMp0X19AwZwAz6q6) | 3:39 |
+| 6 | [kafini](https://open.spotify.com/track/6uEdcdlgbHfMx6HrhSjBgB) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [kafini](https://open.spotify.com/album/6Pua6hPDd8D5lMt3G8HTWp) | 3:01 |
 | 7 | [CARRÉ OK](https://open.spotify.com/track/338wPdNyvOPGZddfk81EKA) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [CARRÉ OK](https://open.spotify.com/album/1RKX8Ub8154NCWzAuxjTHw) | 2:40 |
 | 8 | [WB III \- A COLORS SHOW](https://open.spotify.com/track/2ul7vbBNYl37HP0UE625kq) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [WB III \- A COLORS SHOW](https://open.spotify.com/album/7zLND8Dzq27uwXtjFtgGSN) | 2:48 |
 | 9 | [Mok ya mok](https://open.spotify.com/track/2yQn0Y5mODyHfCk4oxBPfr) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Khadija El Warzazia](https://open.spotify.com/artist/2ygf9jdzulwgls2Gx1jTdm) | [Mok ya mok](https://open.spotify.com/album/6bf0QljuZqYPriKjVQtwG7) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 49 | [Chwiya Wa9t W Nensak](https://open.spotify.com/track/2WLCFfLNLXJQAIWPAnSbHg) | [Sofiane Asla](https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A) | [Chwiya Wa9t W Nensak](https://open.spotify.com/album/26XCHwaPPubRHzdU9JPdGR) | 5:37 |
 | 50 | [Mélanine](https://open.spotify.com/track/0t7d6wbJLS2A31yqlHFew7) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [LVDR](https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1) | 3:01 |
 
-Snapshot ID: `AAAAAIKgnst0JJYHAfHubryS43UdQ6zb`
+Snapshot ID: `AAAAANAgl0Mn3lWcMo/pP5ASGSP5rwqz`

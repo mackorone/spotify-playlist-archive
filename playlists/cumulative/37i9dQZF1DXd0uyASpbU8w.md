@@ -4,7 +4,7 @@
 
 > New music from Langa Mavuso, Taylor Swift, Lwah Ndlunkulu and more.
 
-8,083 songs - 23 day 14 hr 54 min
+8,083 songs - 23 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6424,7 +6424,7 @@
 | [SSF](https://open.spotify.com/track/4IoBPRuIs7xjSz8yO7xZNe) | [DTX](https://open.spotify.com/artist/1LbAw7swSIJ3xv0vgyaFws), [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU), [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [SSF](https://open.spotify.com/album/1BkIc1BQnqF1ztqYGxR7Wq) | 2:58 | 2025-02-20 | 2025-02-28 |
 | [Staan by Jou](https://open.spotify.com/track/58rFdlFNeKJnlhjjpkR5Vw) | [Laudo](https://open.spotify.com/artist/5e3IDHK6w5MzcuY0ab17LB) | [Staan by Jou](https://open.spotify.com/album/0wfZNO0EaDcnkuKbryKY1z) | 3:07 | 2025-02-06 | 2025-02-15 |
 | [Stacks Only \(feat\. CaseKlowzed\)](https://open.spotify.com/track/5bvdPVsxDxOpghYSi5DdWH) | [Sastii](https://open.spotify.com/artist/32Mj58IRbLXY5O8uj2O0Ml), [CaseKlowzed](https://open.spotify.com/artist/7gVgCsUONh0i70WAvyOlkG) | [Stacks Only \(feat\. CaseKlowzed\)](https://open.spotify.com/album/1RRvqmy9wBsEKeduWATEXq) | 3:01 | 2024-09-05 | 2024-09-13 |
-| [Stage Ya Mwisho](https://open.spotify.com/track/4DaouMbzqBe1eaMtaTgzWv) | [Vic West](https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn), [Iyanii](https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr) | [Stage Ya Mwisho](https://open.spotify.com/album/1gIhAIB17QtPHUTr3ZUihX) | 4:50 | 2025-10-03 |  |
+| [Stage Ya Mwisho](https://open.spotify.com/track/4DaouMbzqBe1eaMtaTgzWv) | [Vic West](https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn), [Iyanii](https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr) | [Stage Ya Mwisho](https://open.spotify.com/album/1gIhAIB17QtPHUTr3ZUihX) | 4:22 | 2025-10-03 |  |
 | [Stance Sax](https://open.spotify.com/track/7rwlzB9LXaWiLK2zlTOhNd) | [DaJiggySA](https://open.spotify.com/artist/7ArGMNT18CJqxLhl8aGJgF), [Mfana Mdu](https://open.spotify.com/artist/6GqazFFYpU5fgk5Orv8kXI), [Seun1401](https://open.spotify.com/artist/0CPfPl6Fy7ueqMoxjZjmYb), [Da Muziqal Pro](https://open.spotify.com/artist/7hmBzw36tlild2sEdgucAy), [SkawaraOnSax](https://open.spotify.com/artist/7FSoqChzUyAVaXfvuPUuG0) | [Stance Sax](https://open.spotify.com/album/0Yqm8HbovthX9KwUW0Oqyj) | 8:00 | 2025-05-22 | 2025-05-30 |
 | [Stand](https://open.spotify.com/track/3tDo6YZzIZlc5gRy31lvJD) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Life Is A Highway: Refueled Duets](https://open.spotify.com/album/7w0pDDXQFZSULKDhzuH46M) | 3:30 | 2025-06-06 | 2025-06-13 |
 | [Stand By Me](https://open.spotify.com/track/33ivIh56dnTsz0kgQmLowp) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Fridayy](https://open.spotify.com/album/1SEcDNGPBdSmJox0dpMqIe) | 3:03 | 2023-08-24 | 2023-09-01 |

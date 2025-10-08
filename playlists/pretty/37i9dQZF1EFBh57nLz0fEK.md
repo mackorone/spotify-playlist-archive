@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 64 | [Every Night](https://open.spotify.com/track/0Qe8IB3Tqb5wLQbsrri7ex) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022), [Maino](https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb) | [The Reset](https://open.spotify.com/album/6YLCRtqGScLXhJpkRS2Tff) | 2:57 |
 | 65 | [Cha Cha](https://open.spotify.com/track/3V6iMzC3UouWCUFewAoaZ2) | [Sonny](https://open.spotify.com/artist/7M32CCGFBfGnTWfQuLngrb) | [10's](https://open.spotify.com/album/3IIxAv8KgoGkqCXljHbJ7W) | 3:10 |
 | 66 | [Closer To God](https://open.spotify.com/track/6tEMQwdoXU7pkFwf4FjJjj) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 4:04 |
-| 67 | [Dissolve](https://open.spotify.com/track/1vQ8UU7AGi4ljLZ8yngVBM) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [trying not to think about it](https://open.spotify.com/album/3pqGPovRqsz0IYfWsfR5CL) | 3:31 |
-| 68 | [bleach](https://open.spotify.com/track/0D8UqYcz7ePwma5o3XAQnh) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#gigi](https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa) | 2:19 |
+| 67 | [bleach](https://open.spotify.com/track/0D8UqYcz7ePwma5o3XAQnh) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#gigi](https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa) | 2:19 |
+| 68 | [Dissolve](https://open.spotify.com/track/1vQ8UU7AGi4ljLZ8yngVBM) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [trying not to think about it](https://open.spotify.com/album/3pqGPovRqsz0IYfWsfR5CL) | 3:31 |
 | 69 | [2 B Loved](https://open.spotify.com/track/6pPrxCv6pTAm0qvT4Dc06u) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Unbreakable](https://open.spotify.com/album/45nlliwsohn0gLFmQ49FAG) | 2:55 |
 | 70 | [I Love Myself](https://open.spotify.com/track/2vh7iM4sr5w7e4C0wOsiaX) | [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr) | [Penith \(The DAVE Soundtrack\)](https://open.spotify.com/album/0tD7YCpFten00qPVcMseoe) | 2:07 |
 | 71 | [can u?](https://open.spotify.com/track/4WkRn7DXBqE3FpIHM9tmLs) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [can u?](https://open.spotify.com/album/3QOJ06vA52E3QjK6cTo9Ry) | 2:50 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 125 | [This Time](https://open.spotify.com/track/2vhYlpTjJR6WNcLbt6VohD) | [PARADISE LTD](https://open.spotify.com/artist/0ahtFYd681pvCSkj1vh8lv), [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp) | [Blood, Sweat & Tears](https://open.spotify.com/album/1agGkgiRsIb0lC6TUApqDS) | 4:07 |
 | 126 | [INTERLUDE](https://open.spotify.com/track/4RyDxpwqXhN5zI39QumvVe) | [T$](https://open.spotify.com/artist/00xAzuaRdsIegeqqDtlzae), [Willie Truitt](https://open.spotify.com/artist/3rrNr8VdtVf9y7PBg5xS9w) | [PURPLE BLOOD](https://open.spotify.com/album/4ECQGzAEn0Vj0RiPWLh1gH) | 0:37 |
 
-Snapshot ID: `Ab+KyAAAAABcAdOLvHi6zxiwhb/kWxmG`
+Snapshot ID: `Ab+QkAAAAABlZZWCYQuShYyWunJEf53T`

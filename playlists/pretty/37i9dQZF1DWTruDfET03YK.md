@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 
 > Tu familia puede visitar a todos los animales en el zoológico con estas divertidas canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,559 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,600 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 | 5 | [The Chicken Dance](https://open.spotify.com/track/1c9dv4anUlofPLzIkQCxpA) | [Sing n Play](https://open.spotify.com/artist/3at1vTRcH8tM7ZmnGXyiZs) | [The Chicken Dance and Other Silly Songs](https://open.spotify.com/album/6uDInUcLuJElPuuW5kAKtZ) | 2:28 |
 | 6 | [El Baile de los Animales](https://open.spotify.com/track/11wx5VuLgu4GALjJIb0mT0) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH), [Duo Tiempo de Sol](https://open.spotify.com/artist/58IHn7WX5UYrLG9BhjAiEA) | [Canciones del Zoo Vol\. 3](https://open.spotify.com/album/3COabJotsgeogBvNsNpcok) | 2:54 |
 | 7 | [Pollito Amarillito](https://open.spotify.com/track/1MJX2sInxx64viGnnys6lx) | [Gallina Pintadita](https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq) | [Gallina Pintadita, Vol\. 1](https://open.spotify.com/album/2NOcRovINlE1ysJKFUyYXH) | 1:47 |
-| 8 | [Coco En Su Cueva](https://open.spotify.com/track/7vy0eOdRqLxWJTIQqHPYcQ) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Fiesta En La Aldea Encantada](https://open.spotify.com/album/69rQXystVGM2FksqbAO6M3) | 1:56 |
-| 9 | [O Pato \- El Pato](https://open.spotify.com/track/7q2cOMu2tKxclf9iXDateo) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Casa](https://open.spotify.com/album/3hQCMo8sGNoSRLVvwPsCSc) | 2:09 |
+| 8 | [O Pato \- El Pato](https://open.spotify.com/track/7q2cOMu2tKxclf9iXDateo) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Casa](https://open.spotify.com/album/3hQCMo8sGNoSRLVvwPsCSc) | 2:09 |
+| 9 | [Coco En Su Cueva](https://open.spotify.com/track/7vy0eOdRqLxWJTIQqHPYcQ) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Fiesta En La Aldea Encantada](https://open.spotify.com/album/69rQXystVGM2FksqbAO6M3) | 1:56 |
 | 10 | [La Vaca Lola](https://open.spotify.com/track/50jTH2CYOJdQaLSy0Xfmre) | [Canciones Infantiles En Español](https://open.spotify.com/artist/1FEmVBvJ5naZ1qBKeLcoHv) | [Canciones Infantiles Y Musica Infantil](https://open.spotify.com/album/33ljDtetHDbUlc3ZTp4Rlm) | 1:55 |
 | 11 | [La Vaca Lola](https://open.spotify.com/track/70NIwhQTnE2a4wuE0roHTM) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH), [La Granja de Zenón](https://open.spotify.com/artist/7eVIbeFWMpfMVHR20GJ4PT) | [La Granja de Zenón Vol\. 2](https://open.spotify.com/album/2VkG1yYDatWC1Avw3eZ1SI) | 2:07 |
 | 12 | [S.I.M.P\. \(Squirrels in My Pants\)](https://open.spotify.com/track/7ymrbUUrrqvUKBMmdRvieZ) | [2 Guys n the Parque](https://open.spotify.com/artist/2HQvN6u2hFOIRsZOdXB6UM) | [Phineas And Ferb](https://open.spotify.com/album/29OHw0hs03uERDcTbY9ojU) | 1:34 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 | 29 | [Animal Song](https://open.spotify.com/track/1MbACfYbcxgxJXDcNZqaE7) | [Have Fun Teaching](https://open.spotify.com/artist/705Z0iFTodc8kuWuq6s5ah) | [Science Songs](https://open.spotify.com/album/1SuAdgI7e9osUMADAoIPtC) | 6:19 |
 | 30 | [Popurrí de animales \(El señor don Gato \- La cucaracha \- Pollito chicken\) \- Remasterizado 2016](https://open.spotify.com/track/0fqm5VQW2MnitfZJ0oVopy) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [En Vivo \- Grandes Éxitos](https://open.spotify.com/album/7lRcKpMoYWFNvn2VLrXycs) | 5:37 |
 | 31 | [El Gato Carpintero](https://open.spotify.com/track/7rOpbNnq64dn34lLKrNEHI) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [100 Años...100 Exitos](https://open.spotify.com/album/6a2BoXtXbsVQQo4FxTidco) | 2:17 |
-| 32 | [Los Pollitos Dicen](https://open.spotify.com/track/41yJCVpmgWB3SVVPF8WZRA) | [Kids Music Box](https://open.spotify.com/artist/0syRfepwQdWHmbxLiOqMbC) | [Los Pollitos Dicen](https://open.spotify.com/album/6mMAInUWQTrXwNQUTxtlgH) | 1:39 |
-| 33 | [Animalitos](https://open.spotify.com/track/4QNh1CHTVaywsZFDN6iLSt) | [Ninaná](https://open.spotify.com/artist/4dAAAhQyqbw0QsuaM4aBSd) | [Animalitos](https://open.spotify.com/album/4Ecf2bOwqdmvo1DbEuv5n4) | 2:19 |
+| 32 | [Animalitos](https://open.spotify.com/track/4QNh1CHTVaywsZFDN6iLSt) | [Ninaná](https://open.spotify.com/artist/4dAAAhQyqbw0QsuaM4aBSd) | [Animalitos](https://open.spotify.com/album/4Ecf2bOwqdmvo1DbEuv5n4) | 2:19 |
+| 33 | [Los Pollitos Dicen](https://open.spotify.com/track/41yJCVpmgWB3SVVPF8WZRA) | [Kids Music Box](https://open.spotify.com/artist/0syRfepwQdWHmbxLiOqMbC) | [Los Pollitos Dicen](https://open.spotify.com/album/6mMAInUWQTrXwNQUTxtlgH) | 1:39 |
 | 34 | [La Lechuza](https://open.spotify.com/track/1jx3RF8TADXBcnHLhI45SM) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt) | [Dora The Explorer](https://open.spotify.com/album/6gAb45W5Izm6N63yc5LEVF) | 1:08 |
 | 35 | [Lumi, luminosos \- De Morko y Mali](https://open.spotify.com/track/3G5TF0y9HIZL6BMlCJnAOU) | [Elenco de Morko y Mali](https://open.spotify.com/artist/4Imx9B5kk3yqdH2i9wMAxW) | [Morko y Mali \- Aventuras en la selva \(La música de la serie de Disney Junior\)](https://open.spotify.com/album/5a7iiIrDjs5GlgoPsR21Xb) | 2:10 |
 | 36 | [La Pequena Arana\-Bonus](https://open.spotify.com/track/5x7lPrav33GIfgBv2lVpQg) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Adelante](https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam) | 3:12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,090 likes - 191 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,091 likes - 191 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 44 | [Deep End \(feat\. JHart\) \- Eden Prince Remix](https://open.spotify.com/track/4rgtPGf9Vp2aWiM0NooJvE) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Deep End \(feat\. JHart\) \[Remixes\]](https://open.spotify.com/album/7DTzhs8jGE5KN04HVEag6B) | 3:28 |
 | 45 | [Good Time \(feat\. Pitbull\)](https://open.spotify.com/track/1bLVsavnUruupOI0Pxdm6I) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Good Time \(feat\. Pitbull\)](https://open.spotify.com/album/1MiqNzBTyRXLH4QMbJRkj9) | 3:23 |
 | 46 | [Never Comin Down](https://open.spotify.com/track/1QJvq84l7YcVCyIkGA602c) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:34 |
-| 47 | [Side Effects](https://open.spotify.com/track/776xH04Us0YBTdspg6C1cP) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Side Effects](https://open.spotify.com/album/3G8C4K6QdaeYeGmzUdp4gw) | 3:08 |
-| 48 | [Kissing Strangers](https://open.spotify.com/track/5brMixqQiQN4D60xmvrSts) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:08 |
+| 47 | [Kissing Strangers](https://open.spotify.com/track/5brMixqQiQN4D60xmvrSts) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:08 |
+| 48 | [Side Effects](https://open.spotify.com/track/776xH04Us0YBTdspg6C1cP) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Side Effects](https://open.spotify.com/album/3G8C4K6QdaeYeGmzUdp4gw) | 3:08 |
 | 49 | [Good Things Fall Apart vs\. Sad Songs \(With Said The Sky feat\. Annika Wells\)](https://open.spotify.com/track/2DqhE7xzpGNsKYbptqblJg) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [ASCEND \(Tour Edits\)](https://open.spotify.com/album/6KICcLGlQnS7908qVzbhP6) | 6:06 |
 | 50 | [Your Love](https://open.spotify.com/track/6tADmhq8hYElyxJKRmFY1y) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 3:27 |
 | 51 | [Them Girls Be Like](https://open.spotify.com/track/5L5zJyglhpR0iHKoMLNaBJ) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 2:42 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 88 | [Feel Right](https://open.spotify.com/track/5pyi5wDSHfdY3R5JQdngQ9) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK), [J Hart](https://open.spotify.com/artist/0CwAIKaq06Ep8gtTJ6zy0d) | [10 Ways to Steal Home Plate](https://open.spotify.com/album/2Pkt22VgdQpDrRroWw4AyA) | 3:15 |
 | 89 | [To The Wire](https://open.spotify.com/track/6n7iWKl8PTpHBFJkXz4LWV) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [To The Wire](https://open.spotify.com/album/02HMMz2rCvZK7wt53IpU6q) | 2:36 |
 | 90 | [Young \- From "Songland"](https://open.spotify.com/track/7nzxQacflIozCTLTiBl4JB) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Young \(From "Songland"\)](https://open.spotify.com/album/5gUfxcxbwFbKjXuz0Trknk) | 3:05 |
-| 91 | [NO GOOD REASON](https://open.spotify.com/track/0hZs9kWnaewkXEufPYjbvf) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:36 |
-| 92 | [SEESAW](https://open.spotify.com/track/21Ou57aSTKECHs3zedyFLd) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 3:30 |
+| 91 | [SEESAW](https://open.spotify.com/track/21Ou57aSTKECHs3zedyFLd) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 3:30 |
+| 92 | [NO GOOD REASON](https://open.spotify.com/track/0hZs9kWnaewkXEufPYjbvf) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:36 |
 | 93 | [Let It Ring](https://open.spotify.com/track/39RQAEuPs04z9wCFnMBuA7) | [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [Let It Ring](https://open.spotify.com/album/3euSNVHfekPRn3aeG2r1Up) | 2:48 |
 | 94 | [Put It to Bed](https://open.spotify.com/track/5KfDCX3PEyU4gJ81n2Mtz9) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Put It to Bed](https://open.spotify.com/album/3Vwnuv0NEc0OTYltcT619a) | 3:34 |
 | 95 | [Weekend Millionaires](https://open.spotify.com/track/47hg9HCsnTYbdkd5d5KJMl) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Tired Eyes](https://open.spotify.com/album/1fMzgbBLV4vdE4Wp21F3PF) | 3:44 |
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 190 | [Tonight](https://open.spotify.com/track/4aTAQCJIGLU5RRcnZNPftn) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/6ohDfN4WqQolD87G6s3j3U) | 3:53 |
 | 191 | [Let It Rain](https://open.spotify.com/track/1TG6k7kK3uHX1WyCh2xNpD) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 3:04 |
 
-Snapshot ID: `Ab+KtAAAAACtlgbHWxZI1JyDtA7wrQTr`
+Snapshot ID: `Ab+QXgAAAAD8kgMPF2xaTpKB0/hUB9Ek`

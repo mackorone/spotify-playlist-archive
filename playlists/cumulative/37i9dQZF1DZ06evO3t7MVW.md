@@ -4,7 +4,7 @@
 
 > This is Stick Figure\. The essential tracks, all in one playlist.
 
-48 songs - 3 hr 24 min
+49 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Something To Believe In](https://open.spotify.com/track/7kMnqTDJm3aPibKgz46eLe) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Beauty In The Silence](https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8) | 3:29 | 2025-07-04 |  |
 | [Sound of the Sea](https://open.spotify.com/track/1Gsv8f8KmowkF5BnfMIGKy) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Set in Stone](https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9) | 5:25 | 2025-07-04 |  |
 | [Summertime \(feat\. Citizen Cope\)](https://open.spotify.com/track/2WbZZGXlVWHEfrCG9mC0UV) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 3:58 | 2025-07-04 |  |
+| [Treasure \(with Stick Figure\)](https://open.spotify.com/track/3fpOS57qm6u5R0Pfi7JkVO) | [Stay High](https://open.spotify.com/artist/6TZ4G6EThyydgsg2VEXNio), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Treasure \(with Stick Figure\)](https://open.spotify.com/album/5xDZR9z2v4V0oLe4DmT2uS) | 3:22 | 2025-10-08 |  |
 | [Under Arrest](https://open.spotify.com/track/3z5vTjTWPIzyujnDVDySMT) | [Alific](https://open.spotify.com/artist/4Kv7Splj4TPpJdZkkNd78K), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Echoes From The Soul](https://open.spotify.com/album/1Yj99B7hugPMgtJHMyPNte) | 3:50 | 2025-07-04 |  |
 | [Visions \(with Stick Figure\)](https://open.spotify.com/track/2W1W91laB3BvdC3QkN9gua) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Visions \(with Stick Figure\)](https://open.spotify.com/album/5nXhFjhiM4Ao8wWNk7U43P) | 3:47 | 2025-07-04 | 2025-08-22 |
 | [Visions \(with Stick Figure\)](https://open.spotify.com/track/6VFrBdWj6BjGNeuX3VlmPl) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Visions](https://open.spotify.com/album/4Suls86gUFWBN7rP3MKphB) | 3:47 | 2025-08-22 |  |

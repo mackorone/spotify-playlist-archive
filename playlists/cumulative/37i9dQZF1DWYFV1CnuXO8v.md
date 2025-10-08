@@ -4,7 +4,7 @@
 
 > عيش أجمل حالة حب 🫶❤️
 
-342 songs - 21 hr 42 min
+343 songs - 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [El Hob Dayaani](https://open.spotify.com/track/1d8a7PXLEjkTtEuz5hWuv2) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [El Hob Dayaani](https://open.spotify.com/album/4GQkyZMC7NjgtfMwdIkWrs) | 3:10 | 2023-02-13 | 2023-05-23 |
 | [El Hob El Ha2e2y](https://open.spotify.com/track/3hQT53VbsScHcmOgZZs9I7) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [El Hob El Ha2e2y](https://open.spotify.com/album/1rBP7yd7cCeXPrH2CveD75) | 5:44 | 2023-02-13 |  |
 | [El Hob El Kebir](https://open.spotify.com/track/093CMFUwvPyFIsjBsVfBPO) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [El Hob El Kebir](https://open.spotify.com/album/1dj55G9LZC4mbe8KaFFmHa) | 5:15 | 2023-02-13 | 2023-08-09 |
+| [El Hob Gany](https://open.spotify.com/track/67yheG887FPQXlPRNmoXqz) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [El Hob Gany](https://open.spotify.com/album/0ydLudumPehNljy8VgM0Bp) | 4:01 | 2025-10-07 |  |
 | [El Hob Zay El Watar](https://open.spotify.com/track/2md803CYlkw5ALEyeypWIP) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 9 \(Hassa Beek\)](https://open.spotify.com/album/3ZzJduvd3tDXhfQKcKxXyz) | 4:23 | 2023-02-13 | 2023-05-23 |
 | [El Nazra El Oula](https://open.spotify.com/track/5XRNjWl6DE28GMn15NJktp) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Layalina](https://open.spotify.com/album/0IS5I08Uw4cVS3f84n2WlO) | 3:50 | 2023-05-11 | 2023-05-23 |
 | [El Okd](https://open.spotify.com/track/06mCQATTGnLAAuE8kbelT0) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [El Okd](https://open.spotify.com/album/6nt3aY91do3MhLXe4xeclj) | 3:38 | 2023-08-20 | 2024-05-08 |
@@ -126,7 +127,7 @@
 | [Habaytak Bel Thalata](https://open.spotify.com/track/7suFLDWMo2NTYS4DvDuXtD) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [Habaytak Bel Thalata](https://open.spotify.com/album/09VbBJVSGhQCsONrJQDQWJ) | 3:36 | 2023-07-13 |  |
 | [Habibi Ya Leil](https://open.spotify.com/track/3oAjimiDDbMUYU7DZHuORV) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Habibi Ya Leil](https://open.spotify.com/album/1yfx8JfLQlKxtfLViybWSW) | 4:32 | 2023-09-08 |  |
 | [Habiby Da](https://open.spotify.com/track/5N0w2n2B3OzvBZv4WjcVyA) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Habiby Da](https://open.spotify.com/album/4L55wqHzJVwxNDHSqapcEt) | 4:27 | 2023-05-22 | 2023-07-14 |
-| [Habitha Ya Nas \- From Bhabak](https://open.spotify.com/track/2SeSRjNj2SJF7Ieo8Q1vnj) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Habitha Ya Nas \(From Bhabak\)](https://open.spotify.com/album/6Bhai5TfTSq9hX4SyHSvGS) | 2:35 | 2023-02-13 |  |
+| [Habitha Ya Nas \- From Bhabak](https://open.spotify.com/track/2SeSRjNj2SJF7Ieo8Q1vnj) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Habitha Ya Nas \(From Bhabak\)](https://open.spotify.com/album/6Bhai5TfTSq9hX4SyHSvGS) | 2:35 | 2023-02-13 | 2025-10-08 |
 | [Habitha Ya Nas \- From Bhabak Movie](https://open.spotify.com/track/3AwmOjkzr9WZUqEewrskM1) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [بحبك \(From Bhabak Movie\)](https://open.spotify.com/album/2BBf2DS8iEOLWD5qUVCBe2) | 2:35 | 2023-02-16 | 2024-04-19 |
 | [Haga Mestakhabeya](https://open.spotify.com/track/605DPUyjE08UXnxTBZAYho) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Mn Alby Baghani](https://open.spotify.com/album/7f4sCptaAR6iTh3ZnY1ZR7) | 4:47 | 2023-09-08 | 2025-04-18 |
 | [Hala beek ya medala3](https://open.spotify.com/track/1Fl7yznakyun2ywTDPuiCu) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Hala beek ya medala3](https://open.spotify.com/album/1aawCrlstBcEGwCpWIaXS6) | 2:47 | 2023-08-08 |  |

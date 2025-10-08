@@ -4,7 +4,7 @@
 
 > Het leven is 'beautiful' en dat verdient fijne muziek!
 
-169 songs - 9 hr 32 min
+170 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Hear Me Talking](https://open.spotify.com/track/6JVUDd1x5IuDrfEtbLGmMZ) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [Core Memory](https://open.spotify.com/album/34hSm3zV40vl1GCe2QIA7n) | 3:42 | 2025-07-04 |  |
 | [heat](https://open.spotify.com/track/0qB6vfLUW11bMGjz8SHvtt) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [heat](https://open.spotify.com/album/7N1nx9qGHk0KpDDgJNtG6z) | 3:06 | 2024-07-01 | 2025-01-17 |
 | [Heaven](https://open.spotify.com/track/0CE8tMkJlixcPcHSKAvTJZ) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Heaven](https://open.spotify.com/album/3aBKgZS47p6bqmSuWG5Hr6) | 3:52 | 2024-07-01 | 2024-11-05 |
-| [Heavy](https://open.spotify.com/track/0aw9eYHRnhcOCKRGUmg8mB) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk), [Sophia](https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd) | [Heavy](https://open.spotify.com/album/53vlkY1WXAW0MWRgGqR74z) | 3:34 | 2025-01-09 |  |
+| [Heavy](https://open.spotify.com/track/0aw9eYHRnhcOCKRGUmg8mB) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk), [Sophia](https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd) | [Heavy](https://open.spotify.com/album/53vlkY1WXAW0MWRgGqR74z) | 3:34 | 2025-01-09 | 2025-10-08 |
 | [Heavy Skies](https://open.spotify.com/track/2s4rj8K66iq16zQ6VK8O27) | [Mercy John](https://open.spotify.com/artist/1zJU6SWc4fzECllRZbixhJ) | [Heavy Skies](https://open.spotify.com/album/3xjysPSOysvvD5yHEWUiKY) | 3:46 | 2025-09-15 |  |
 | [Hedonism](https://open.spotify.com/track/2q2dQNaDVmSeLV4UgbLGtn) | [Janne Schra](https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K) | [Hedonism](https://open.spotify.com/album/4YEOVs05mZl1CC8GYwV2os) | 2:49 | 2024-11-07 | 2025-06-27 |
 | [Here To Stay](https://open.spotify.com/track/47nDxKt2bTRH1CtU8fgKnu) | [Holliz](https://open.spotify.com/artist/1GcM7yt6bCkRdj82FxVY45) | [Here To Stay](https://open.spotify.com/album/6Qun7KN1zgB4W2tCMv8mBx) | 3:11 | 2024-11-07 | 2025-08-30 |
@@ -156,6 +156,7 @@
 | [This World Is Our Home](https://open.spotify.com/track/0HUapsBY3CrGXtMzUrsOvY) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [This World Is Our Home](https://open.spotify.com/album/1M1oZP4IZGIj4a4fG6JQny) | 2:53 | 2024-07-01 | 2024-12-21 |
 | [Time Of Your Life](https://open.spotify.com/track/3MANuRQlw4dMMENY8gzcYl) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Time Of Your Life](https://open.spotify.com/album/7o2pbWYW58zhZiSHi6op6b) | 3:07 | 2024-07-01 | 2024-11-29 |
 | [Tough \(The Girls Song\)](https://open.spotify.com/track/4g7ENhoox2hASK5tYih22Q) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Tough \(The Girls Song\)](https://open.spotify.com/album/1nFfsjm5sNquzvitmGvyTb) | 3:02 | 2024-07-01 | 2024-09-27 |
+| [Unbind](https://open.spotify.com/track/4TvpYr1gFtYxtZ4yn2LVuI) | [Eloi Youssef](https://open.spotify.com/artist/4y0egYlrx2v3IzeciScO2A) | [Unbind](https://open.spotify.com/album/04wo4zBOGQzQlbYADhO8xO) | 3:27 | 2025-10-07 |  |
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2024-07-01 | 2025-01-07 |
 | [Wastelands](https://open.spotify.com/track/0XFPoeF4wAc2lBckxnoKdP) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [Sphinx](https://open.spotify.com/album/65aaWX8pDif9qt6u4kNPpq) | 3:40 | 2025-01-06 |  |
 | [We're Gonna Be Okay](https://open.spotify.com/track/2gZ3Twqqirs6A2Xf1mBubH) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [We're Gonna Be Okay](https://open.spotify.com/album/6gGP8SyIyRCAxsMhk11HY5) | 2:59 | 2025-01-16 |  |

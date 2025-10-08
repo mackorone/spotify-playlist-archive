@@ -4,7 +4,7 @@
 
 > كافيار الراب العربي
 
-78 songs - 3 hr 42 min
+79 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Influenza](https://open.spotify.com/track/2UMihK8hP5rBZjw4iXDrvi) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [Influenza](https://open.spotify.com/album/0cfaz8h3V5bYOFcvFYaY7M) | 3:34 | 2024-06-24 |  |
 | [Jiddo](https://open.spotify.com/track/6pczaXrplw78wIo3D9zuLM) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ) | [Jiddo](https://open.spotify.com/album/0SladTRgQhrI8r1zZt62gY) | 2:24 | 2025-10-02 |  |
 | [Khalisni](https://open.spotify.com/track/0T1nrCDa8G4pzzW92BgGIp) | [Saud G](https://open.spotify.com/artist/76VXSNBSY5pbsYgMe2dTYZ), [Ahmedoo Biggie](https://open.spotify.com/artist/4srnmX4lNfxOKYNA8gdRMy) | [Khalisni](https://open.spotify.com/album/3gYH2ky5iZ1SaKNveeP378) | 3:09 | 2024-06-24 |  |
+| [Km Wahed](https://open.spotify.com/track/1rukCHBt95a58Mb4cXzaAV) | [Triple9](https://open.spotify.com/artist/4EDet5KEQAdPKia5RxnVLt) | [Km Wahed](https://open.spotify.com/album/2yZ27FdxGaM69G3jUkDDVn) | 2:15 | 2025-10-07 |  |
 | [KUNG FU](https://open.spotify.com/track/1fBF7Bn3QYK53XHpttpoyl) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP), [LBandy](https://open.spotify.com/artist/0KgDFmrEx0ezsgblUjCxoA) | [KUNG FU](https://open.spotify.com/album/4nNge4R3KOJ3FXgUrclICp) | 2:26 | 2025-01-06 | 2025-10-03 |
 | [Lajl Aldar](https://open.spotify.com/track/6Mt9xxJ9RVgvMtN7Qqguv7) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [Lajl Aldar](https://open.spotify.com/album/6j0XfhZLiWgfjb4m3x8mYB) | 2:20 | 2024-06-24 |  |
 | [Leh](https://open.spotify.com/track/3AitDtX8v5llBxeXDjx1ld) | [Veto](https://open.spotify.com/artist/6LhACAqPCMAf2jnSgE8aqa) | [Leh](https://open.spotify.com/album/6GtedZwGjK8hK3OuN6VDwG) | 2:49 | 2025-10-02 |  |
@@ -73,7 +74,7 @@
 | [الميدان ياحميدان](https://open.spotify.com/track/3bFK1D6GJNparfosj6bcQO) | [BIG ZY](https://open.spotify.com/artist/2xy5S70Psqa6B1z9GMwItA) | [الميدان ياحميدان](https://open.spotify.com/album/2t8IXKiVQnYDeXONHxv68y) | 3:29 | 2024-06-24 | 2024-11-27 |
 | [انترو](https://open.spotify.com/track/1sFyZPz49MR7xin3LiJqin) | [AwabTheRapper](https://open.spotify.com/artist/3vp9zXL4KXZZaZ64Pp6W5X), [Mshakil](https://open.spotify.com/artist/7rEHTsxNUpE6DSntwxhAqL) | [انترو](https://open.spotify.com/album/0xRUHDEuShsfDJfPzfYAK7) | 4:02 | 2025-10-02 |  |
 | [بابا عود](https://open.spotify.com/track/2uDm5lEDJgJYuzu6bz1IuW) | [Confait](https://open.spotify.com/artist/5mwZ6RqB8G5jCGHKFkQfPE) | [بابا عود](https://open.spotify.com/album/3Wk8rHziR5A4LXT3pcbo9U) | 1:40 | 2024-06-24 | 2025-04-30 |
-| [بدايات](https://open.spotify.com/track/0fhqxwrZvlq9b3wlKQvKkO) | [AwabTheRapper](https://open.spotify.com/artist/3vp9zXL4KXZZaZ64Pp6W5X), [WD Alzain](https://open.spotify.com/artist/3mzfnmgUapSxcuTwgjDwFB) | [بدايات](https://open.spotify.com/album/2INHlJhKf8FNId99YNWxDX) | 2:55 | 2025-10-02 |  |
+| [بدايات](https://open.spotify.com/track/0fhqxwrZvlq9b3wlKQvKkO) | [AwabTheRapper](https://open.spotify.com/artist/3vp9zXL4KXZZaZ64Pp6W5X), [WD Alzain](https://open.spotify.com/artist/3mzfnmgUapSxcuTwgjDwFB) | [بدايات](https://open.spotify.com/album/2INHlJhKf8FNId99YNWxDX) | 2:55 | 2025-10-02 | 2025-10-08 |
 | [براند](https://open.spotify.com/track/0bMkuGfY0DFEfZ3Y5szHpx) | [Khalz](https://open.spotify.com/artist/6Ypyp6sAbGndh7J0EMfope), [MOHAMEDMEM](https://open.spotify.com/artist/4V2oeE3lVCRjk6GnL0fsBI) | [براند](https://open.spotify.com/album/02adwhzPLgQhBCiAHW3oZe) | 2:37 | 2024-06-24 | 2025-10-04 |
 | [بسيط ايفكتڤ](https://open.spotify.com/track/0AHVNC8und8XJU61876q0o) | [Dattune](https://open.spotify.com/artist/7KV81tK9fACDT7gCl4pFmj), [DZEEZ دزيز](https://open.spotify.com/artist/0NwIwzq4fV5i0LNEC7Vtwg) | [بسيط ايفكتڤ](https://open.spotify.com/album/4Gf35Uc9uEEi5M9qWKGA5c) | 1:35 | 2024-06-24 | 2024-09-20 |
 | [تصعيد](https://open.spotify.com/track/6SixeQLcrCufbftSxj6Lha) | [BrownMusic](https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [تصعيد](https://open.spotify.com/album/1FT5dI5XoVAS0gat6yq8gi) | 2:04 | 2024-11-26 | 2025-10-03 |

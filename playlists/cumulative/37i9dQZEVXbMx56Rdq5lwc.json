@@ -1675,6 +1675,24 @@
     },
     {
       "album": {
+        "name": "AKNB",
+        "url": "https://open.spotify.com/album/1d4FGvDKhqLSe2ALEx7ovq"
+      },
+      "artists": [
+        {
+          "name": "Lilas ir Innomine",
+          "url": "https://open.spotify.com/artist/7EvvLZS0GP7XuNlWFFXpFR"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217465,
+      "name": "Ant Vilniaus kra\u0161to",
+      "url": "https://open.spotify.com/track/4IpEnvi1DEG7pT9uty0ba2"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -1856,7 +1874,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 290146,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/1oAwsWBovWRIp7qLMGPIet"
@@ -6922,7 +6940,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 198620,
       "name": "COM\u00cb N GO",
       "url": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
@@ -10020,7 +10038,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 246356,
       "name": "Eldest Daughter",
       "url": "https://open.spotify.com/track/62HoDY1Km6lm47haFpUn9c"
@@ -19338,7 +19356,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 256693,
       "name": "Laikas Keistis",
       "url": "https://open.spotify.com/track/64uZgjybWWpwhZ4JKZWQa8"
@@ -21371,6 +21389,32 @@
     },
     {
       "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        },
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        },
+        {
+          "name": "Rico Ace",
+          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111157,
+      "name": "LV Sandals",
+      "url": "https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv"
+    },
+    {
+      "album": {
         "name": "TURTAS",
         "url": "https://open.spotify.com/album/30Tdb5Gzp9ZNRktJdV635x"
       },
@@ -22400,7 +22444,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-07",
+      "date_removed": null,
       "duration_ms": 143661,
       "name": "Ma\u017eas Am\u017einai",
       "url": "https://open.spotify.com/track/4k9uMv8dJhcd9gQhXBFqIJ"
@@ -24554,7 +24598,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 163240,
       "name": "Myliu",
       "url": "https://open.spotify.com/track/1F61F4SNfrF1kYVA6Hwpn5"
@@ -28514,7 +28558,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 234000,
       "name": "Perlai",
       "url": "https://open.spotify.com/track/2riBo7Y0x7MoFCN6fv5yue"
@@ -28590,6 +28634,24 @@
       "duration_ms": 224000,
       "name": "Persona\u017eas",
       "url": "https://open.spotify.com/track/5okespg8OwzuWUhQhZKyqa"
+    },
+    {
+      "album": {
+        "name": "AKNB",
+        "url": "https://open.spotify.com/album/1d4FGvDKhqLSe2ALEx7ovq"
+      },
+      "artists": [
+        {
+          "name": "Lilas ir Innomine",
+          "url": "https://open.spotify.com/artist/7EvvLZS0GP7XuNlWFFXpFR"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224013,
+      "name": "Persona\u017eas",
+      "url": "https://open.spotify.com/track/11GJVEnDXm98A9buJwECR6"
     },
     {
       "album": {
@@ -30448,6 +30510,24 @@
       "duration_ms": 145855,
       "name": "Ram\u0173 rytoj\u0173",
       "url": "https://open.spotify.com/track/2DmJWWqBpMgqJxIqoNrxla"
+    },
+    {
+      "album": {
+        "name": "AKNB",
+        "url": "https://open.spotify.com/album/1d4FGvDKhqLSe2ALEx7ovq"
+      },
+      "artists": [
+        {
+          "name": "Lilas ir Innomine",
+          "url": "https://open.spotify.com/artist/7EvvLZS0GP7XuNlWFFXpFR"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145877,
+      "name": "Ram\u0173 rytoj\u0173",
+      "url": "https://open.spotify.com/track/2nQD645JEEx3L5ZGoXPkfd"
     },
     {
       "album": {
@@ -40407,6 +40487,28 @@
     },
     {
       "album": {
+        "name": "VISI \u017dENKLAI",
+        "url": "https://open.spotify.com/album/2EutkhwSarjd8rEB7SbxJi"
+      },
+      "artists": [
+        {
+          "name": "Justinas Jarutis",
+          "url": "https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d"
+        },
+        {
+          "name": "Aist\u00e8",
+          "url": "https://open.spotify.com/artist/1aGjmnCN164ZJ1t5rqfd14"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178437,
+      "name": "VISI \u017dENKLAI",
+      "url": "https://open.spotify.com/track/57l4D9dzqDcRS6gPWnFRZI"
+    },
+    {
+      "album": {
         "name": "Visiems Reikia Meil\u0117s",
         "url": "https://open.spotify.com/album/0WghARoKRu5Qj2W3yoLHcK"
       },
@@ -41218,7 +41320,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
@@ -41880,7 +41982,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 207349,
       "name": "Wi$h Li$t",
       "url": "https://open.spotify.com/track/2TEQvxxQabwLQMqWMg1qGu"

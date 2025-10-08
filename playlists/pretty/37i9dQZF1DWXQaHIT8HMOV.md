@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan gems in one playlist\. Cover: Pia Pounds
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,249 likes - 55 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,263 likes - 55 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

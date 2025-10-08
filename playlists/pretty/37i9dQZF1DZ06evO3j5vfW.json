@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 72326,
+  "num_followers": 72325,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAABEPyy/jUwS5wTZC+F5ZBOW",
+  "snapshot_id": "aOMGgAAAAABxipMYJgk4j0DoFyUiyC7F",
   "tracks": [
     {
       "added_at": null,
@@ -411,26 +411,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR"
+        "name": "KYGO (The Remixes)",
+        "url": "https://open.spotify.com/album/3l8rLJyHoGvEEDmNqPKHGu"
       },
       "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
         {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
         },
         {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
         }
       ],
-      "duration_ms": 245538,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
+      "duration_ms": 231477,
+      "name": "For Life (feat. Zak Abel & Nile Rodgers) - Nicky Romero Remix",
+      "url": "https://open.spotify.com/track/7lc4S03umj2cTbFP4FWPGc"
     },
     {
       "added_at": null,
@@ -459,30 +463,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "KYGO (The Remixes)",
-        "url": "https://open.spotify.com/album/3l8rLJyHoGvEEDmNqPKHGu"
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR"
       },
       "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
         {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
         },
         {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
         }
       ],
-      "duration_ms": 231477,
-      "name": "For Life (feat. Zak Abel & Nile Rodgers) - Nicky Romero Remix",
-      "url": "https://open.spotify.com/track/7lc4S03umj2cTbFP4FWPGc"
+      "duration_ms": 245538,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
     },
     {
       "added_at": null,
@@ -551,6 +551,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Be There",
+        "url": "https://open.spotify.com/album/3NIArT6BvFcK5FKL4PfK6u"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Emiel Monte",
+          "url": "https://open.spotify.com/artist/2mSHOC40hbPRqVIGPJAkzC"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 224516,
+      "name": "Be There",
+      "url": "https://open.spotify.com/track/50cHNRi4ALoqT1AI9XJckF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We're Still Young",
         "url": "https://open.spotify.com/album/2HE7fzpBQHBCY6JXhoVAq0"
       },
@@ -591,50 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be There",
-        "url": "https://open.spotify.com/album/3NIArT6BvFcK5FKL4PfK6u"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "Emiel Monte",
-          "url": "https://open.spotify.com/artist/2mSHOC40hbPRqVIGPJAkzC"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 224516,
-      "name": "Be There",
-      "url": "https://open.spotify.com/track/50cHNRi4ALoqT1AI9XJckF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'll Follow You",
-        "url": "https://open.spotify.com/album/6n8A62fT6vLTMrwuVDQAIp"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Joe Jury",
-          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
-        }
-      ],
-      "duration_ms": 219374,
-      "name": "I'll Follow You",
-      "url": "https://open.spotify.com/track/3Ijf2SBZguZPkom811NZTd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/1vuWqrCgIqeiaTUJnbAF40"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 182950,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/4Ld9Wvjpj1IOAIbnNy07AP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'll Follow You",
+        "url": "https://open.spotify.com/album/6n8A62fT6vLTMrwuVDQAIp"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Joe Jury",
+          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
+        }
+      ],
+      "duration_ms": 219374,
+      "name": "I'll Follow You",
+      "url": "https://open.spotify.com/track/3Ijf2SBZguZPkom811NZTd"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Summer Nights",
-        "url": "https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        }
-      ],
-      "duration_ms": 158671,
-      "name": "Hot Summer Nights",
-      "url": "https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rave Music",
         "url": "https://open.spotify.com/album/6bK6HqxQH4MLBdBScC3YRl"
       },
@@ -835,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The People",
-        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
+        "name": "Hot Summer Nights",
+        "url": "https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ"
       },
       "artists": [
         {
@@ -844,13 +824,13 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
         }
       ],
-      "duration_ms": 219345,
-      "name": "For The People",
-      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
+      "duration_ms": 158671,
+      "name": "Hot Summer Nights",
+      "url": "https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc"
     },
     {
       "added_at": null,
@@ -875,6 +855,26 @@
       "duration_ms": 211771,
       "name": "Tomorrow Comes",
       "url": "https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        }
+      ],
+      "duration_ms": 219345,
+      "name": "For The People",
+      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
     },
     {
       "added_at": null,
@@ -931,26 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lights Up (Dimitri Vegas & Like Mike Edit)",
-        "url": "https://open.spotify.com/album/1jtuFy5U2SMXOhESik9Cfp"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        }
-      ],
-      "duration_ms": 190746,
-      "name": "Lights Up - Dimitri Vegas & Like Mike Edit",
-      "url": "https://open.spotify.com/track/31T0ANtI2p01yG111kAJ7P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stay A Little Longer",
         "url": "https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 234609,
       "name": "Love You Forever",
       "url": "https://open.spotify.com/track/2gqzTQEn4g5ly0n5ScdMx0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lights Up (Dimitri Vegas & Like Mike Edit)",
+        "url": "https://open.spotify.com/album/1jtuFy5U2SMXOhESik9Cfp"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        }
+      ],
+      "duration_ms": 190746,
+      "name": "Lights Up - Dimitri Vegas & Like Mike Edit",
+      "url": "https://open.spotify.com/track/31T0ANtI2p01yG111kAJ7P"
     },
     {
       "added_at": null,
@@ -1111,6 +1111,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sensation",
+        "url": "https://open.spotify.com/album/0XaCGj1qgwNeHgnvSUrCzs"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Chelcee Grimes",
+          "url": "https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx"
+        }
+      ],
+      "duration_ms": 174665,
+      "name": "Sensation",
+      "url": "https://open.spotify.com/track/4df0o75oXAjyc2KdiFKBIY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/0iYk7ujef4AMfDJJYoCfnq"
       },
@@ -1131,26 +1151,6 @@
       "duration_ms": 253440,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/4mAFdxKaADfs3t2K0QCOXv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sensation",
-        "url": "https://open.spotify.com/album/0XaCGj1qgwNeHgnvSUrCzs"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Chelcee Grimes",
-          "url": "https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx"
-        }
-      ],
-      "duration_ms": 174665,
-      "name": "Sensation",
-      "url": "https://open.spotify.com/track/4df0o75oXAjyc2KdiFKBIY"
     }
   ],
   "unique_name": "This Is Nicky Romero",

@@ -4,7 +4,7 @@
 
 > Behagelig musik.
 
-446 songs - 1 day 1 hr 33 min
+449 songs - 1 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Eyes Closed](https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed](https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0) | 3:14 | 2023-06-29 | 2025-01-11 |
 | [Eyes Closed](https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:14 | 2023-08-03 | 2024-04-19 |
 | [Eyes on You](https://open.spotify.com/track/6Txx3Uj0rRXPixi9V1DZek) | [Millie Turner](https://open.spotify.com/artist/53GC8IrnkJXGO7znOiv4tD) | [Eyes on You](https://open.spotify.com/album/1iLPhaq2JCR9dDnh9omdRE) | 2:48 | 2021-05-24 | 2021-05-27 |
-| [Fact \- Fiction](https://open.spotify.com/track/3A0xFWRKRMZrz8JNY7D7Ns) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Mads Langer](https://open.spotify.com/album/5aYWd0BdvFOKs2q7TT3jC1) | 4:21 | 2020-10-20 |  |
+| [Fact \- Fiction](https://open.spotify.com/track/3A0xFWRKRMZrz8JNY7D7Ns) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Mads Langer](https://open.spotify.com/album/5aYWd0BdvFOKs2q7TT3jC1) | 4:21 | 2020-10-20 | 2025-10-08 |
 | [Fade](https://open.spotify.com/track/2EWR4QeZ5U0eEYIQCK8YMg) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Fade](https://open.spotify.com/album/3CSKbUsAvaLmFXIhDysN0M) | 4:04 | 2021-05-24 | 2021-10-16 |
 | [Fade](https://open.spotify.com/track/5vb911FNE2t5YSFxIVSXWj) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent \(Extended Edition\)](https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8) | 4:06 | 2022-09-09 | 2022-11-13 |
 | [Fade](https://open.spotify.com/track/6r2tV58enH9E8hj2oqoJNK) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 4:06 | 2022-05-09 | 2024-04-19 |
@@ -144,7 +144,7 @@
 | [Handcuffs](https://open.spotify.com/track/3Hjdsmx31RWfuDivCbhU90) | [Baker Grace](https://open.spotify.com/artist/70RgxMmZhLLWxRlbUFQKR2) | [Handcuffs](https://open.spotify.com/album/2Qh9n866IxRHlynEm61hSY) | 2:50 | 2020-10-06\* | 2022-07-28 |
 | [Happiest Year](https://open.spotify.com/track/219slQu3ALbTSAe9P22hvE) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something \(Deluxe\)](https://open.spotify.com/album/5NE8n9E4dMUFvOUZo0tv6p) | 3:48 | 2022-05-09 | 2023-01-06 |
 | [Happiest Year](https://open.spotify.com/track/5kcvBnt6DPX3AMEsCx1qDh) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Happiest Year](https://open.spotify.com/album/2LJiFAtg7CyHrkUGr4mwGl) | 3:48 | 2021-01-21 | 2022-07-24 |
-| [Hardest Thing](https://open.spotify.com/track/6uiZOA1aQzvuNzx4M2mqSl) | [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Eternal, Pt\. I](https://open.spotify.com/album/6rRX4DYKPWgJgdo1uwDDQg) | 4:11 | 2021-12-09 |  |
+| [Hardest Thing](https://open.spotify.com/track/6uiZOA1aQzvuNzx4M2mqSl) | [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Eternal, Pt\. I](https://open.spotify.com/album/6rRX4DYKPWgJgdo1uwDDQg) | 4:11 | 2021-12-09 | 2025-10-08 |
 | [Headlights \- Stripped](https://open.spotify.com/track/2UR59nPBdyLoaAbNH6s8Fr) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Headlights \- Stripped](https://open.spotify.com/album/4FaDm4Z8zGSoE1TLItfs2J) | 4:00 | 2021-05-22 | 2021-05-28 |
 | [Heartbeat](https://open.spotify.com/track/3SWcIEhnesr1UIPxfThFle) | [Calby](https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa) | [Inner Critic's Choice Awards](https://open.spotify.com/album/1lJUU4cFN6ZcgCOLNYD1hr) | 3:55 | 2024-01-12 | 2025-05-24 |
 | [Heartbeat](https://open.spotify.com/track/2Cj2XFOMBT8IrT0aapNTee) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Heartbeat](https://open.spotify.com/album/052xFq8blHwU5tv1kjeiak) | 3:20 | 2020-10-06\* |  |
@@ -230,6 +230,7 @@
 | [Love Me Better](https://open.spotify.com/track/5U76HRbnI7CCdmPJF14ykD) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Love Me Better](https://open.spotify.com/album/02E7TSIOQldtTX5pIJTI2s) | 3:38 | 2020-10-06\* | 2021-05-28 |
 | [Love on the Weekend](https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Love on the Weekend](https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA) | 3:32 | 2020-10-06\* |  |
 | [Love You Anymore](https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [love \(Deluxe Edition\)](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) | 3:02 | 2020-10-06\* |  |
+| [Loved You Better \(with Dean Lewis\)](https://open.spotify.com/track/5boOfeG5brpNtAvmx8CRc5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 2:37 | 2025-10-07 |  |
 | [Lovely](https://open.spotify.com/track/4PyoaiaGyrcKMMicZCvzkj) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Lovely](https://open.spotify.com/album/1PQne7OIZ2eaukaLc3NhC1) | 2:56 | 2020-10-06\* | 2022-11-13 |
 | [Low Beams](https://open.spotify.com/track/5tYqK9de9RC6PMKDaJvr4Q) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f) | [Long Game](https://open.spotify.com/album/1JEM6cvLIfeLtnphHFnQK4) | 2:35 | 2020-10-06\* | 2022-07-25 |
 | [Low Beams](https://open.spotify.com/track/5uxABvfZB7XLBZpD4iQBqb) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f) | [Long Game](https://open.spotify.com/album/3GP1FwVwl9fq1G8Dm02Wwg) | 2:35 | 2022-09-09 | 2022-11-13 |
@@ -276,7 +277,7 @@
 | [Now and Later \- Acoustic Version](https://open.spotify.com/track/3KhgqRMwfWSI9J41k7pbvD) | [Simon Samaeng](https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw) | [Now and Later \(Acoustic Version\)](https://open.spotify.com/album/0yee0fIFICVjaUjdyROrY6) | 3:19 | 2020-10-06\* | 2021-10-11 |
 | [Når Jeg Blir' Til Jord](https://open.spotify.com/track/04CK2ArSYFUVPrugzXmhrD) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [I storslået kinddans, med livet som indsats](https://open.spotify.com/album/4kCIEEooRWkYSiZhn7EECg) | 3:08 | 2020-11-07 | 2021-01-21 |
 | [Only You](https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9) | [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Only You](https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe) | 3:18 | 2020-10-06\* |  |
-| [Op](https://open.spotify.com/track/5TjDwWPZ5vScUEG0NeRtuB) | [Claus Hempler](https://open.spotify.com/artist/79tOI0xq2p477VYBgHagHg) | [Kuffert Fuld Af Mursten](https://open.spotify.com/album/1xxuamywTKWttzz005tsPl) | 4:54 | 2021-04-10 |  |
+| [Op](https://open.spotify.com/track/5TjDwWPZ5vScUEG0NeRtuB) | [Claus Hempler](https://open.spotify.com/artist/79tOI0xq2p477VYBgHagHg) | [Kuffert Fuld Af Mursten](https://open.spotify.com/album/1xxuamywTKWttzz005tsPl) | 4:54 | 2021-04-10 | 2025-10-08 |
 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-04-25 |  |
 | [Out of My Hands](https://open.spotify.com/track/1qRDrHtcdLAKiryk0jPtmY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Out of My Hands](https://open.spotify.com/album/1MsZ5zY3wBWvB6el4T8Ikh) | 3:23 | 2020-10-06\* | 2025-07-25 |
 | [Over Broen](https://open.spotify.com/track/2uYgJzIZbBTCsbXb9laFzh) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Over Broen](https://open.spotify.com/album/4yepsianA44yEssCzMhOW1) | 3:05 | 2025-07-17 |  |
@@ -383,6 +384,7 @@
 | [Too Much To Ask](https://open.spotify.com/track/39jXnbACjiaiTwwhsr5sY5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:43 | 2022-05-09 | 2024-04-19 |
 | [Too Much To Ask](https://open.spotify.com/track/3hRZsdTF5uyGA2uhNqEuhm) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Too Much To Ask](https://open.spotify.com/album/3gvs9DZKZsUXq8FnbX7Xon) | 3:43 | 2021-01-18 | 2022-07-23 |
 | [Too Much To H8](https://open.spotify.com/track/3jsZnIOR0xnPg9XB8Ah7RQ) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Too Much To H8](https://open.spotify.com/album/45dRzNGb0feUCNe9WYgQ6g) | 2:52 | 2020-10-06\* | 2025-01-10 |
+| [Tristan & Isolde](https://open.spotify.com/track/361guhUskLY7XA6X178aEk) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Honey](https://open.spotify.com/album/3aPakmsCVj19Gz1zoLuYOf) | 4:50 | 2025-10-07 |  |
 | [TÆT PÅ \(feat\. Delara\)](https://open.spotify.com/track/7v30u3hUBxW0NhbYHazNDg) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [TÆT PÅ \(feat\. Delara\)](https://open.spotify.com/album/2EJfw8c22rvYkdhdH9RIKx) | 2:17 | 2025-07-17 |  |
 | [Unconditional](https://open.spotify.com/track/2Z7UF5qoyCU6Ksnf6aTMOs) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Unconditional](https://open.spotify.com/album/40icOTpSW5lDFI2kyYHEkU) | 3:17 | 2020-10-06\* | 2025-06-10 |
 | [Uncover Me](https://open.spotify.com/track/3sxW9jb9OzTy8RIVv22f7b) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [FAITH](https://open.spotify.com/album/3iFLeRwYYgD7wq6hDVlw0v) | 3:38 | 2021-01-16 | 2025-01-10 |
@@ -399,6 +401,7 @@
 | [Wait](https://open.spotify.com/track/21FzLpLN7S1XFePNSZHEFt) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Wait](https://open.spotify.com/album/5aeJsnCNWuhCckk0yxFnlJ) | 3:51 | 2020-10-20 | 2022-07-29 |
 | [Wait](https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:51 | 2022-05-09 | 2024-04-19 |
 | [Walk Away](https://open.spotify.com/track/2y6hhuWPK4C6s21N0Y5r8r) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 2:49 | 2021-12-09 |  |
+| [WALKING AWAY](https://open.spotify.com/track/0LutvoC2HqCfnaRSjrhtzo) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 4:04 | 2025-10-07 |  |
 | [Warm Under The Light](https://open.spotify.com/track/3Nhhc1gV5kssNdDNhcBDDe) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Low Tide](https://open.spotify.com/album/227wFvHB7fxdeXnZ2mJ1tC) | 3:53 | 2020-10-20 | 2022-07-29 |
 | [Warwick Avenue](https://open.spotify.com/track/2IMIbiJlbi0pIs3FBpKFhS) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) | 3:46 | 2022-05-09 | 2024-04-19 |
 | [Warwick Avenue](https://open.spotify.com/track/5Og47k4AHrotP2QP36p5iO) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry \(intl Deluxe Edition\)](https://open.spotify.com/album/7HPrr0iy8FSvvCtfPWeKRA) | 3:46 | 2021-05-23 | 2022-07-25 |

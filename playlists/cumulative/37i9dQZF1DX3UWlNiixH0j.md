@@ -2,9 +2,9 @@
 
 ### [Edge!](https://open.spotify.com/playlist/37i9dQZF1DX3UWlNiixH0j)
 
-> 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: ANORAK!
+> 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 柴田聡子 featuring Elle Teresa and Le Makeup
 
-2,729 songs - 7 day 2 hr 19 min
+2,731 songs - 7 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [Chandler Bing](https://open.spotify.com/track/7an3pCqQnVo09Qa59I3Ek0) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [Chandler Bing](https://open.spotify.com/album/47fyjjJdkUJrpShiPEjwI7) | 4:42 | 2023-05-09 | 2023-06-21 |
 | [Change](https://open.spotify.com/track/3zTk7svtTSSKQ3Zm5dlqNn) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Change](https://open.spotify.com/album/5NyrfCDB91UXG5kVREmVha) | 4:49 | 2023-07-25 | 2023-08-16 |
 | [Changed](https://open.spotify.com/track/7MgnK7gvVpELd5YONF4sO8) | [NOT WONK](https://open.spotify.com/artist/12f2uQ7TswXKZRFvJuELAb) | [Changed](https://open.spotify.com/album/73koxHxqw7T8lVmCi4e2Ow) | 5:05 | 2024-11-19 | 2024-12-04 |
-| [Changes](https://open.spotify.com/track/1SXxBTkWXjqilOMejMiKkZ) | [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX) | [GUM](https://open.spotify.com/album/5d8QdQJilmf1AeiMZ6SOSd) | 3:14 | 2025-09-30 |  |
+| [Changes](https://open.spotify.com/track/1SXxBTkWXjqilOMejMiKkZ) | [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX) | [GUM](https://open.spotify.com/album/5d8QdQJilmf1AeiMZ6SOSd) | 3:14 | 2025-09-30 | 2025-10-08 |
 | [ChargeCoupling to the Archive](https://open.spotify.com/track/481Gj5HPIfMNgem6IxbcMR) | [光季](https://open.spotify.com/artist/3LXqR6Lto6ChlfibcmAnlj) | [ChargeCoupling to the Archive](https://open.spotify.com/album/3PTOTCfm6Y75CL0js5n77P) | 5:01 | 2025-01-23 | 2025-02-05 |
 | [Charmy](https://open.spotify.com/track/3g3Kp0ddhaNYvmoIashGcr) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [It's windy](https://open.spotify.com/album/2Zk48CT0j7Mpg7PXlxsCBK) | 3:59 | 2025-03-25 | 2025-04-02 |
 | [chasing shadows](https://open.spotify.com/track/4WHz9iiduN9cJ3QysDrRSP) | [OGRE YOU ASSHOLE](https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW) | [Nature and Computers](https://open.spotify.com/album/2wkyePDEqzYoOoro3TvThK) | 3:40 | 2024-09-17 | 2024-10-09 |
@@ -974,6 +974,7 @@
 | [mp4](https://open.spotify.com/track/3nTfpPpnDVCHulWWRu1Dmk) | [POOLS](https://open.spotify.com/artist/12vqf5QMISRc8umYNvqFw8) | [mp4](https://open.spotify.com/album/1fiLuScWK4IZfM2qVTbEXn) | 2:32 | 2023-11-21 | 2023-11-29 |
 | [Ms.Sunshine](https://open.spotify.com/track/3PL0wgqzHGC88KAxQSysXC) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE), [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ) | [Ms.Sunshine](https://open.spotify.com/album/7j1l29Ti2xp76Dj0Q5XlLm) | 4:11 | 2025-07-22 |  |
 | [MTHRFCKR](https://open.spotify.com/track/2yZUNKSFHC00He0XASgfr8) | [DONGROSSO](https://open.spotify.com/artist/7nRjb0R3RLVlbwHq3f5gTA), [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v), [Mondo Grosso](https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb) | [ANTI SOCIAL SOUNDSYSTEM](https://open.spotify.com/album/42NEfZglWqoZtDQwlWkslq) | 3:14 | 2025-05-01 | 2025-05-07 |
+| [Mudgikk](https://open.spotify.com/track/7cpGjiTyhMVaoX6Kx19BfB) | [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [Mudgikk](https://open.spotify.com/album/7vS6oAyS4pmlEhq2KRvRxZ) | 2:56 | 2025-10-08 |  |
 | [Mukashi no Maho](https://open.spotify.com/track/1kOEFMYAMaEdDAyrez7XSn) | [Seikatsu no Sekkei](https://open.spotify.com/artist/6xM4LUYF3ZCeNOU3sgfrCT) | [Mukashi no Maho](https://open.spotify.com/album/0Ksif7jpdq0jh5fCzDipw8) | 3:41 | 2023-02-21 | 2023-03-01 |
 | [munasawagi](https://open.spotify.com/track/3X89N0OmGkTzA0Uh7tlOE1) | [E.scene](https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5) | [munasawagi](https://open.spotify.com/album/3Ela3PqIlOWWchjJbbJi0x) | 3:27 | 2025-09-16 |  |
 | [Murmurs](https://open.spotify.com/track/5ZPy8Xb1NzDyo93FTjAThz) | [長岡亮介](https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK), [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [LAYLAND](https://open.spotify.com/album/4Tf7khtrhm0kD1QgUmi949) | 3:57 | 2024-02-27 | 2024-03-13 |
@@ -1208,7 +1209,7 @@
 | [Queen In Red](https://open.spotify.com/track/1rbzbUE7C87j6KIYrzOLWb) | [paddy isle](https://open.spotify.com/artist/5fVkOuKZTtdhhxhiifs0Ib) | [Queen In Red](https://open.spotify.com/album/5OJztmLSTOpoWePR0cNxoS) | 3:38 | 2023-08-22 | 2023-08-30 |
 | [racy](https://open.spotify.com/track/56d4QRwypo3gFJCOai7XFS) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [racy](https://open.spotify.com/album/1WHbuGwCu7BumeZtxl4k38) | 4:29 | 2023-11-29 | 2023-11-30 |
 | [Racy](https://open.spotify.com/track/5AwEOc9BQCOZ88MeWRI4wb) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Racy](https://open.spotify.com/album/2wbqPau2WcFPnmXQ1Bz2Wo) | 4:29 | 2023-11-29 | 2024-02-14 |
-| [Radio before school](https://open.spotify.com/track/38cVJLSwhxdfKmLfJtSx0g) | [Redhair Rosy](https://open.spotify.com/artist/1pVPvwB8EJnIDue4y5Oukc) | [Radio before school](https://open.spotify.com/album/3DrnmPifLOjAINaalSkIEe) | 4:22 | 2025-09-30 |  |
+| [Radio before school](https://open.spotify.com/track/38cVJLSwhxdfKmLfJtSx0g) | [Redhair Rosy](https://open.spotify.com/artist/1pVPvwB8EJnIDue4y5Oukc) | [Radio before school](https://open.spotify.com/album/3DrnmPifLOjAINaalSkIEe) | 4:22 | 2025-09-30 | 2025-10-08 |
 | [Raging Fire](https://open.spotify.com/track/3X8OVMSDJdaI9dmSQJBNL5) | [DURAN](https://open.spotify.com/artist/0xJrq1b8p7EYC9aDVF9tHP) | [Electric Man](https://open.spotify.com/album/6bwdq1YGGRsDEXNhJQ50iC) | 3:22 | 2023-11-29 | 2023-12-13 |
 | [Rain](https://open.spotify.com/track/5wDhd4dYzwaAWGgCCkQTMi) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Box Of Summer](https://open.spotify.com/album/4qjUpgOTHoCAVIrfeBY5G2) | 3:04 | 2025-08-05 | 2025-08-20 |
 | [Rain Candy \- feat\. Misi Ke](https://open.spotify.com/track/4PNxVoZMVzv6zDfKvneo9i) | [Fake Creators](https://open.spotify.com/artist/61QSgy6VGii6CLMcAGJ685), [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [Rain Dreams \(feat\. Misi Ke\)](https://open.spotify.com/album/2tt31lYf9Uzg9Cys2XRDZk) | 2:27 | 2023-10-10 | 2023-10-28 |
@@ -1886,6 +1887,7 @@
 | [ときめき](https://open.spotify.com/track/3pkMLslSoJcHgn1nawZngb) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [ときめき](https://open.spotify.com/album/19BGSsqTVaNk6RKYYdd7kQ) | 3:01 | 2024-11-13 | 2025-05-29 |
 | [ときめき](https://open.spotify.com/track/6YfFksjNc28hZfcz2xst8k) | [YOU IRIE](https://open.spotify.com/artist/5E9UHQpY8cvh5wAqURO3lA) | [恋愛](https://open.spotify.com/album/4a4n3o292xrmAzsEPauPQO) | 3:14 | 2024-02-13 | 2024-02-21 |
 | [ときめきを教えて](https://open.spotify.com/track/2e9Xouw2euVfmRuehC6QM6) | [℃\-want you!](https://open.spotify.com/artist/1oePCCijpoxaCwJSzNahwa) | [ときめきを教えて](https://open.spotify.com/album/64mQ3crgXIy4yEHFaJlzei) | 4:19 | 2023-08-13 | 2023-08-23 |
+| [ときめき探偵](https://open.spotify.com/track/3Z27gNml8048d5NuyVaJkt) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj), [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc) | [ときめき探偵](https://open.spotify.com/album/5tOfvO9vg8CSWSvrnCzt9y) | 3:09 | 2025-10-08 |  |
 | [とりあえず](https://open.spotify.com/track/7k2kKPLzxIa4OmDeoiWfYD) | [Mikan Hayashi](https://open.spotify.com/artist/1VPFnxE9Nu4PM4JoCU4RUt), [多多 x 以捷](https://open.spotify.com/artist/25vtw3bkiKz9nbo7vl6qqY) | [とりあえず](https://open.spotify.com/album/6Fg4RusObKTcshoLDWv05K) | 4:37 | 2023-05-02 | 2023-05-31 |
 | [とわの祭り](https://open.spotify.com/track/1VSG9RkIORqUX2oXKNL37E) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [とわの祭り](https://open.spotify.com/album/3nOa9wMmXNvDjtsgcabTkP) | 4:51 | 2025-05-27 | 2025-07-23 |
 | [どうして髭を？](https://open.spotify.com/track/41QfKjANF6fiDll3MN6yxS) | [LAGHEADS](https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN), [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [どうして髭を？](https://open.spotify.com/album/5fkSBMSaT3TGGdQohMGaX2) | 3:18 | 2024-02-27 | 2024-04-07 |

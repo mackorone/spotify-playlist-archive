@@ -4,7 +4,7 @@
 
 > Motion & good vibes! Cover: Kybba ✨
 
-1,525 songs - 2 day 19 hr 53 min
+1,526 songs - 2 day 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -690,7 +690,7 @@
 | [Kame Hame Ha](https://open.spotify.com/track/2GgtavUi1WNhGycAF7q19d) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu) | [Kame Hame Ha](https://open.spotify.com/album/7hShXOa7Ml04xxBzRK0Ljj) | 2:31 | 2022-08-23 | 2022-09-02 |
 | [Kandela Di Amor](https://open.spotify.com/track/5IB3LqzhffiMGwpVsIVaxC) | [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Ori](https://open.spotify.com/artist/4yAg1949MQjAQD087hLdt1) | [Kandela Di Amor](https://open.spotify.com/album/3EJ4yPAADSHAM1rkUtwLd1) | 3:33 | 2024-06-27 | 2024-09-20 |
 | [Kannie Dansen \(feat\. Sluwe Ollie & Jozo\)](https://open.spotify.com/track/6nHeo1G47vtRhMcqnhuIba) | [ChildsPlay](https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel), [KEANU](https://open.spotify.com/artist/6LfsMzntUnwK5YdO7l6MD3), [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx), [Jozo](https://open.spotify.com/artist/45eUXWgwkv92uAk1KQFI6D) | [Kannie Dansen \(feat\. Sluwe Ollie & Jozo\)](https://open.spotify.com/album/27zAC7srDSY1kNuHmPdlVH) | 2:15 | 2024-09-05 | 2024-09-20 |
-| [Kaolo Beat](https://open.spotify.com/track/2dr8yrTUpZw0EzS05mOlGU) | [Freddy Moreira](https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [Kaolo Beat](https://open.spotify.com/album/3i7Efs4zQJi66ihoNhQHGX) | 1:46 | 2025-03-27 |  |
+| [Kaolo Beat](https://open.spotify.com/track/2dr8yrTUpZw0EzS05mOlGU) | [Freddy Moreira](https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [Kaolo Beat](https://open.spotify.com/album/3i7Efs4zQJi66ihoNhQHGX) | 1:46 | 2025-03-27 | 2025-10-08 |
 | [Keeper](https://open.spotify.com/track/4JdEDm25kiFS9pxNUs2bPN) | [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [Keeper](https://open.spotify.com/album/3NVMLm66TK5iDnp7Cl9dQ2) | 2:35 | 2024-06-06 | 2024-07-23 |
 | [Kel bail](https://open.spotify.com/track/6g3fzFlpdd834RWaL4O56o) | [Venant Delacapitale](https://open.spotify.com/artist/2YWcCTBHHea2yUzM71Kwz1), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Kel bail](https://open.spotify.com/album/6fYcge4ihB6KfdvAGCFQyE) | 3:21 | 2022-07-14 | 2022-07-28 |
 | [Kese \(Dance\)](https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Kese \(Dance\)](https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS) | 2:54 | 2024-11-14 | 2024-12-06 |
@@ -1200,6 +1200,7 @@
 | [She's Not Anyone](https://open.spotify.com/track/58VQMrt5md1pozhyeM3MeG) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Lap 5](https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl) | 3:17 | 2022-09-29 | 2022-10-28 |
 | [Shikidim](https://open.spotify.com/track/3FP6Q4fQWU6nyXVwX5DgMa) | [Emil Rosé](https://open.spotify.com/artist/3TNTPduFxe8yaox2f6NxNC) | [Shikidim](https://open.spotify.com/album/4nckwHAozyiuAPeiQdaBzC) | 2:08 | 2022-11-17 | 2023-03-18 |
 | [Shine Bright](https://open.spotify.com/track/60l9cfnaUop1NJGgpiQ7UA) | [Its Natascha](https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6), [Fernandez](https://open.spotify.com/artist/2Lx8uvkJwO86Mmh72z10pR) | [Shine Bright](https://open.spotify.com/album/6cuYpHerue7oNk3PqcKQqz) | 2:05 | 2022-11-17 | 2022-11-26 |
+| [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 | 2025-10-07 |  |
 | [Shirt To Impress](https://open.spotify.com/track/0bI16kL50SYC8XY6982cB1) | [La June](https://open.spotify.com/artist/3hHBl5FjVlul5vOJ8cj72f), [Major Dreamin'](https://open.spotify.com/artist/0EWMZgr0f9k7KVkfm1lIIG) | [Shirt To Impress](https://open.spotify.com/album/5f6ujgFNJeb6WW5gKTv7tl) | 2:27 | 2025-03-20 | 2025-04-18 |
 | [Short up Shorts](https://open.spotify.com/track/15DxGcmXWDZhaFUyz1Kh1y) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [No Excuses](https://open.spotify.com/album/0MqznZG1JtYF7hhLUWfNU9) | 2:34 | 2023-02-23 | 2023-03-18 |
 | [SHOW LEVEL](https://open.spotify.com/track/70zjxnzPf4kwqVUhWsr5N9) | [Saffeh](https://open.spotify.com/artist/6eSYjiVkHcfFiHz8tBlSOz), [Giniio](https://open.spotify.com/artist/1iSUoJSoYDqjIO5P1CdPfM), [Rich2Gether](https://open.spotify.com/artist/7JEKwHEyxkl7GMIZmTVllb), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [SHOW LEVEL](https://open.spotify.com/album/0OOFwdbgZDy7YHfPda6Kga) | 3:00 | 2023-08-03 | 2023-08-16 |

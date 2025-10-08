@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,464 likes - 133 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,438 likes - 133 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,17 +12,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 2 | [Fall in love](https://open.spotify.com/track/3UF5eebbLooD8OAKFqu1hO) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Fall in love/Afterlove](https://open.spotify.com/album/0d1Y5CNFgm3ucHURTk8Xfs) | 2:47 |
 | 3 | [Mama](https://open.spotify.com/track/4ZxtZdrci2m0gODoRIbVzc) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Mama](https://open.spotify.com/album/4b6z4aF15XG89yRgmfkgcI) | 2:01 |
 | 4 | [Säkerhet](https://open.spotify.com/track/1oqftNDvC9Jyp7ieMER9Gk) | [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Säkerhet](https://open.spotify.com/album/7xVt3KOOuXTwrrulftN94u) | 2:02 |
-| 5 | [We The Best](https://open.spotify.com/track/2dRc7qcRcEqzJlCuPRfkMV) | [DR](https://open.spotify.com/artist/6c4sJR389IWJzl4ao1uAiA), [TUTTOLENTE](https://open.spotify.com/artist/3VRrEInrOGVHmPGBP7T3M1) | [We The Best](https://open.spotify.com/album/3kgxDmZ87veKo4oyK4KODH) | 2:07 |
-| 6 | [Afterlove](https://open.spotify.com/track/5XaN8E7tWye1DLFd64sPPT) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Fall in love/Afterlove](https://open.spotify.com/album/0d1Y5CNFgm3ucHURTk8Xfs) | 1:56 |
-| 7 | [Lev & lär](https://open.spotify.com/track/2Uis31BB86Avr2yzmTkUmQ) | [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [Lev & lär](https://open.spotify.com/album/0fSZx43BoNeo3z8ChoGyiS) | 2:14 |
-| 8 | [MOTGIFT](https://open.spotify.com/track/60dPIASBL3v4lH5Vj1Fh7i) | [Juniior](https://open.spotify.com/artist/2iB4oRsEnWjBqolEm67uPR), [BeatsBySindri](https://open.spotify.com/artist/3l4l6Du65QxJ1uhw8SLsyV) | [MOTGIFT](https://open.spotify.com/album/3k6CtjtWKxTU7PBG9A4Mj1) | 2:54 |
-| 9 | [Like Me](https://open.spotify.com/track/5CUPWlYqRnEgC3h5a0qw3l) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Lélé](https://open.spotify.com/artist/71awvpNTodNScyQQYMELrl), [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Like Me](https://open.spotify.com/album/1srvlevZZsU35tVwqTKst3) | 2:36 |
-| 10 | [RÄDDA MIG](https://open.spotify.com/track/1xwdqewVV9KauB0xprlrZw) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [RÄDDA MIG](https://open.spotify.com/album/23uO6xT5yvDElMC0ddJEUW) | 2:56 |
-| 11 | [Playboi Carti](https://open.spotify.com/track/33YogSAAaZlQGxZLpsJXMS) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW) | [Playboi Carti](https://open.spotify.com/album/5634EFeA97bBy5kk26hXP2) | 2:16 |
-| 12 | [ALLA VILL TILL HIMMELEN](https://open.spotify.com/track/2pXeUYf7jM0dOt4uF4hQrY) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [ALLA VILL TILL HIMMELEN](https://open.spotify.com/album/4jjh3zpZ2OcLPRFS5C8WEy) | 2:02 |
-| 13 | [VEM VET?](https://open.spotify.com/track/5ukPTFMAIoEq6AOmRHZFRk) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [RUSHEN TAR ALDRIG SLUT](https://open.spotify.com/album/3ZtvMVD8asywOMHIbix1nS) | 2:05 |
-| 14 | [Akwaaba](https://open.spotify.com/track/1nYrS7KLuFZnAiNUIDIKa5) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [Akwaaba](https://open.spotify.com/album/06Z4yqeIkR2LiU0RnGnWVL) | 2:34 |
-| 15 | [Money](https://open.spotify.com/track/3zpx5UzFYcmm5DFnqYhZ79) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [DÄR & DÅ](https://open.spotify.com/album/6OtxYr8OdGDHOdJrBdzpE4) | 2:35 |
+| 5 | [Afterlove](https://open.spotify.com/track/5XaN8E7tWye1DLFd64sPPT) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Fall in love/Afterlove](https://open.spotify.com/album/0d1Y5CNFgm3ucHURTk8Xfs) | 1:56 |
+| 6 | [Like Me](https://open.spotify.com/track/5CUPWlYqRnEgC3h5a0qw3l) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Lélé](https://open.spotify.com/artist/71awvpNTodNScyQQYMELrl), [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Like Me](https://open.spotify.com/album/1srvlevZZsU35tVwqTKst3) | 2:36 |
+| 7 | [RÄDDA MIG](https://open.spotify.com/track/1xwdqewVV9KauB0xprlrZw) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [RÄDDA MIG](https://open.spotify.com/album/23uO6xT5yvDElMC0ddJEUW) | 2:56 |
+| 8 | [Lev & lär](https://open.spotify.com/track/2Uis31BB86Avr2yzmTkUmQ) | [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [Lev & lär](https://open.spotify.com/album/0fSZx43BoNeo3z8ChoGyiS) | 2:14 |
+| 9 | [Playboi Carti](https://open.spotify.com/track/33YogSAAaZlQGxZLpsJXMS) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW) | [Playboi Carti](https://open.spotify.com/album/5634EFeA97bBy5kk26hXP2) | 2:16 |
+| 10 | [ALLA VILL TILL HIMMELEN](https://open.spotify.com/track/2pXeUYf7jM0dOt4uF4hQrY) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [ALLA VILL TILL HIMMELEN](https://open.spotify.com/album/4jjh3zpZ2OcLPRFS5C8WEy) | 2:02 |
+| 11 | [VEM VET?](https://open.spotify.com/track/5ukPTFMAIoEq6AOmRHZFRk) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [RUSHEN TAR ALDRIG SLUT](https://open.spotify.com/album/3ZtvMVD8asywOMHIbix1nS) | 2:05 |
+| 12 | [We The Best](https://open.spotify.com/track/2dRc7qcRcEqzJlCuPRfkMV) | [DR](https://open.spotify.com/artist/6c4sJR389IWJzl4ao1uAiA), [TUTTOLENTE](https://open.spotify.com/artist/3VRrEInrOGVHmPGBP7T3M1) | [We The Best](https://open.spotify.com/album/3kgxDmZ87veKo4oyK4KODH) | 2:07 |
+| 13 | [Akwaaba](https://open.spotify.com/track/1nYrS7KLuFZnAiNUIDIKa5) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [Akwaaba](https://open.spotify.com/album/06Z4yqeIkR2LiU0RnGnWVL) | 2:34 |
+| 14 | [Money](https://open.spotify.com/track/3zpx5UzFYcmm5DFnqYhZ79) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [DÄR & DÅ](https://open.spotify.com/album/6OtxYr8OdGDHOdJrBdzpE4) | 2:35 |
+| 15 | [MOTGIFT](https://open.spotify.com/track/60dPIASBL3v4lH5Vj1Fh7i) | [Juniior](https://open.spotify.com/artist/2iB4oRsEnWjBqolEm67uPR), [BeatsBySindri](https://open.spotify.com/artist/3l4l6Du65QxJ1uhw8SLsyV) | [MOTGIFT](https://open.spotify.com/album/3k6CtjtWKxTU7PBG9A4Mj1) | 2:54 |
 | 16 | [ÖVERALLT](https://open.spotify.com/track/4OPtCRJRklueoBE1d8DcOI) | [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [ÖVERALLT](https://open.spotify.com/album/1vyVA8DoCV9sBGlNAbSJqC) | 2:44 |
 | 17 | [GET IT](https://open.spotify.com/track/4sWn1B6dgtvoNEFQxkwma7) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE) | [GET IT](https://open.spotify.com/album/6Qtv6pUXCkQVuDmqyWOE5L) | 2:30 |
 | 18 | [Faller Tillsammans](https://open.spotify.com/track/7CuFJdHXn3QARmX1kZ7DqE) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Faller Tillsammans](https://open.spotify.com/album/2MJ8Q9Lh7vu9h8TdjiHELZ) | 2:24 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 132 | [Real Life](https://open.spotify.com/track/3rnU46eWn3eXkKNzVz5Jzq) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Real Life](https://open.spotify.com/album/6IhbtsWYjwBQ9YwM5ouDeS) | 2:40 |
 | 133 | [OBAMA](https://open.spotify.com/track/31ozexiE5T5lWeEly3XWzG) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB) | [OBAMA](https://open.spotify.com/album/0rXPLDNVlxhpW3rBLQiysp) | 2:10 |
 
-Snapshot ID: `AAAAAJhqFgS6+PkQ419ZtLVppThOymzp`
+Snapshot ID: `AAAAAES55UWaPoIHXjXzDfcgWXobxGzF`

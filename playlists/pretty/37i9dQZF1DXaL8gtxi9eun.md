@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 > أجمد أغاني البوب المصري كلها في قائمة واحدة\. غلاف: رامي صبري
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,527 likes - 40 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,543 likes - 40 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,18 +15,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 | 5 | [خبر عاجل](https://open.spotify.com/track/5PhOhk7QUJKhkKQesDD5k1) | [Amal Maher](https://open.spotify.com/artist/5XP2oDdaTLdRheal4GRXyl) | [خبر عاجل](https://open.spotify.com/album/6sDx3E7UuHEj3Ke6FbZigC) | 3:10 |
 | 6 | [تاني](https://open.spotify.com/track/3rV9uAALyaUifbNZQPpGen) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [بيستهبل "الوش الاول"](https://open.spotify.com/album/6R6Mt6nS9EOMUwbxi5FADY) | 2:38 |
 | 7 | [لينا معاد](https://open.spotify.com/track/2w4mJijrR9euogYlaq8H2R) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [لينا معاد](https://open.spotify.com/album/1PiNzyKUgo41ZnStM6EEY6) | 4:02 |
-| 8 | [مرتاح كده](https://open.spotify.com/track/4QAGiyasHlIQKFtkhrZkKg) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [مرتاح كده](https://open.spotify.com/album/4zKnolibB7dEufKAkGhZiA) | 3:44 |
-| 9 | [Elhob W Bass](https://open.spotify.com/track/6YRF4GAwHXeHJXoQ4MRLvC) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Elhob W Bass](https://open.spotify.com/album/3aSlIC2iDpGkBqQ9a10CnG) | 5:20 |
-| 10 | [Kalam Faregh](https://open.spotify.com/track/3bkkYSKgGjsToIbAhl654c) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Kalam Faregh](https://open.spotify.com/album/7dR1LiIeAibr5NL2jYjnDb) | 4:34 |
-| 11 | [El Donya Ray2a](https://open.spotify.com/track/6NWF2mXdfLwRZ4jkX6rL6S) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [El Donya Ray2a](https://open.spotify.com/album/5RLLHfOvHrCcbENPjdjOxX) | 3:01 |
-| 12 | [WARANA EH](https://open.spotify.com/track/122OVJ6si3hn4XaGPf7yii) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [WARANA EH](https://open.spotify.com/album/75XAqkbEoxy5idj36TULy9) | 3:15 |
-| 13 | [محسبتهاش](https://open.spotify.com/track/5XdqlGhKKzvUANYjDI6wsB) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [محسبتهاش](https://open.spotify.com/album/1khkjhzj8oxKeYQqKgXplb) | 4:14 |
-| 14 | [Mesh Tabee3y](https://open.spotify.com/track/6ndWipN1cFyj0fYdlU4R1j) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Mesh Tabee3y](https://open.spotify.com/album/6v61DYXmWE0FQtSsu2szS9) | 2:43 |
-| 15 | [TARQEES](https://open.spotify.com/track/36Yh3W7CVaM6ccGntNTDO2) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [TARQEES](https://open.spotify.com/album/2oiSur6voqu9Tpr8wnToYj) | 3:05 |
-| 16 | [Maleket Gamal El Kon](https://open.spotify.com/track/2UaswhFiFjhWfIBpiVSfEt) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Maleket Gamal El Kon](https://open.spotify.com/album/2o3FieURTMsE0wPBPqFogl) | 2:53 |
-| 17 | [جغرافيًا](https://open.spotify.com/track/31gyXhkjaqNtd0qC3sez0S) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [جغرافيًا](https://open.spotify.com/album/1nPTIrAMfh0Tzba123B4IC) | 3:02 |
-| 18 | [متسبنيش](https://open.spotify.com/track/3qurTdaglT8lhKMV0RvHQh) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [متسبنيش](https://open.spotify.com/album/18F9gCtFiJkUX1uxI5TJZ3) | 3:47 |
-| 19 | [راحت لياليه](https://open.spotify.com/track/4abgJ51SfLiz9e6f65YVGs) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [راحت لياليه](https://open.spotify.com/album/0bWgug0dtOBYeUn7dewjK0) | 4:44 |
+| 8 | [هسيبله ذكري](https://open.spotify.com/track/46LdRGdqFqZ1NlvQyGBqDi) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [هسيبله ذكري](https://open.spotify.com/album/2qpAPiC69A93WnZLSPEN9P) | 3:33 |
+| 9 | [مرتاح كده](https://open.spotify.com/track/4QAGiyasHlIQKFtkhrZkKg) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [مرتاح كده](https://open.spotify.com/album/4zKnolibB7dEufKAkGhZiA) | 3:44 |
+| 10 | [Elhob W Bass](https://open.spotify.com/track/6YRF4GAwHXeHJXoQ4MRLvC) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Elhob W Bass](https://open.spotify.com/album/3aSlIC2iDpGkBqQ9a10CnG) | 5:20 |
+| 11 | [Kalam Faregh](https://open.spotify.com/track/3bkkYSKgGjsToIbAhl654c) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Kalam Faregh](https://open.spotify.com/album/7dR1LiIeAibr5NL2jYjnDb) | 4:34 |
+| 12 | [El Donya Ray2a](https://open.spotify.com/track/6NWF2mXdfLwRZ4jkX6rL6S) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [El Donya Ray2a](https://open.spotify.com/album/5RLLHfOvHrCcbENPjdjOxX) | 3:01 |
+| 13 | [WARANA EH](https://open.spotify.com/track/122OVJ6si3hn4XaGPf7yii) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [WARANA EH](https://open.spotify.com/album/75XAqkbEoxy5idj36TULy9) | 3:15 |
+| 14 | [محسبتهاش](https://open.spotify.com/track/5XdqlGhKKzvUANYjDI6wsB) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [محسبتهاش](https://open.spotify.com/album/1khkjhzj8oxKeYQqKgXplb) | 4:14 |
+| 15 | [Mesh Tabee3y](https://open.spotify.com/track/6ndWipN1cFyj0fYdlU4R1j) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Mesh Tabee3y](https://open.spotify.com/album/6v61DYXmWE0FQtSsu2szS9) | 2:43 |
+| 16 | [TARQEES](https://open.spotify.com/track/36Yh3W7CVaM6ccGntNTDO2) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [TARQEES](https://open.spotify.com/album/2oiSur6voqu9Tpr8wnToYj) | 3:05 |
+| 17 | [Maleket Gamal El Kon](https://open.spotify.com/track/2UaswhFiFjhWfIBpiVSfEt) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy), [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Maleket Gamal El Kon](https://open.spotify.com/album/2o3FieURTMsE0wPBPqFogl) | 2:53 |
+| 18 | [جغرافيًا](https://open.spotify.com/track/31gyXhkjaqNtd0qC3sez0S) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [جغرافيًا](https://open.spotify.com/album/1nPTIrAMfh0Tzba123B4IC) | 3:02 |
+| 19 | [متسبنيش](https://open.spotify.com/track/3qurTdaglT8lhKMV0RvHQh) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [متسبنيش](https://open.spotify.com/album/18F9gCtFiJkUX1uxI5TJZ3) | 3:47 |
 | 20 | [رسينى](https://open.spotify.com/track/49Lw1thFEsqq1qQuxFplte) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [رسينى](https://open.spotify.com/album/765hT0CXO2Ttfthkxsa7tt) | 3:38 |
 | 21 | [Ahla Rasma](https://open.spotify.com/track/4TOTz0WysSu9eI40QT2vZp) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Ahla Rasma](https://open.spotify.com/album/5CziKAAQ10z1hfzr8VfnBO) | 3:36 |
 | 22 | [بخاف من مسلسل سيد الناس](https://open.spotify.com/track/0fHBJnmzWkOhfkbKGBTVlW) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [بخاف من مسلسل سيد الناس](https://open.spotify.com/album/37Y9kPOLBf9mBHYX60YDVf) | 4:52 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 | 39 | [Awla beya \- أولي بيا](https://open.spotify.com/track/4PmUvKfUxjoWxXLkrusgbY) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [Awla beya \- أولي بيا](https://open.spotify.com/album/1fupgv37d7K6vUmtYTfQIo) | 3:17 |
 | 40 | [Habibi El Adem](https://open.spotify.com/track/4ZBeKfRaClbgxPVM1CU3MP) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/4ovMza1WebamIyWDRupshi) | 4:00 |
 
-Snapshot ID: `AAAAALC+vKLx6L/JDYJxOMavQhm9CcYO`
+Snapshot ID: `AAAAADyeHzo7lnYgnXjD/zj3LD4jn/v/`

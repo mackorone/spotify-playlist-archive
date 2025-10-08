@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,160 likes - 276 songs - 14 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,161 likes - 276 songs - 14 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,8 +141,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 131 | [Weekdays](https://open.spotify.com/track/1THJmXtLRufpuVWBdG8Rul) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 2:44 |
 | 132 | [Show Me Girl \- 2008 Remaster](https://open.spotify.com/track/59Q9ivKKAZwbAETukwviEA) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Into Something Good \(The Mickie Most Years 1964\-1972\)](https://open.spotify.com/album/0o3pjzJ5XZGm0BZieBsTcV) | 2:37 |
 | 133 | [There Is A Tavern In The Town](https://open.spotify.com/track/4DJLYAE0mMknhKTwRdmt1v) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Those Lazy Hazy Crazy Days Of Summer](https://open.spotify.com/album/5jA1HyOHqWy718lEXH2koC) | 1:36 |
-| 134 | [You Bet I Would](https://open.spotify.com/track/1sXMxBBrnr7rUZLRORbvjY) | [The Ronettes with Orchestra](https://open.spotify.com/artist/3Y9sFyIolZQ5S9kMTcdX0U) | [Silhouettes](https://open.spotify.com/album/2dgWWWSGXZxAIOY61b6czr) | 2:07 |
-| 135 | [I Don't Think You Know Me \- Second Recorded Version; 2006 Remaster](https://open.spotify.com/track/7yUemsSDDVpsm1ismCVPTl) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:20 |
+| 134 | [I Don't Think You Know Me \- Second Recorded Version; 2006 Remaster](https://open.spotify.com/track/7yUemsSDDVpsm1ismCVPTl) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:20 |
+| 135 | [You Bet I Would](https://open.spotify.com/track/1sXMxBBrnr7rUZLRORbvjY) | [The Ronettes with Orchestra](https://open.spotify.com/artist/3Y9sFyIolZQ5S9kMTcdX0U) | [Silhouettes](https://open.spotify.com/album/2dgWWWSGXZxAIOY61b6czr) | 2:07 |
 | 136 | [Blues For A Young Girl Gone](https://open.spotify.com/track/3Y0pyyBki4gOjIqO4u3eTU) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [The World In A Sea Shell](https://open.spotify.com/album/74ipe6kA1lEYQE2Asr6rGZ) | 2:30 |
 | 137 | [Lady](https://open.spotify.com/track/1YJFNPGWi5jErLPgGZKuSv) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Rake It In: The Greatestest Hits](https://open.spotify.com/album/1PI3JjctHVS3Z1WyXwCuvI) | 2:22 |
 | 138 | [I Won't Be](https://open.spotify.com/track/6PYPAsGS9m3G3VIj2Tq4hy) | [The Queers](https://open.spotify.com/artist/1kRABJWDxSnOJFteI351V6) | [Love Songs For the Retarded](https://open.spotify.com/album/7cirEMVoNE7n6FOgqk9rzZ) | 2:07 |
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 275 | [It's A Crazy Afternoon](https://open.spotify.com/track/3HR8V9vdhRYdRXg9dlGRQw) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [The First Edition](https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx) | [Something's Burning](https://open.spotify.com/album/4DVJF6FAjpGPMMWJroujUX) | 1:57 |
 | 276 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `Ab+KtAAAAAAkQ3AqlJqIHtik9QcqhQil`
+Snapshot ID: `Ab+QcgAAAAA0wbgzLzYzHIrPolKJjNK0`

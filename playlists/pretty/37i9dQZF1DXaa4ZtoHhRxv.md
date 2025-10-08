@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > your honky tonk meets club playlist 🤠🪩 featuring Diplo
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,427 likes - 85 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,531 likes - 85 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

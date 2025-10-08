@@ -1,12 +1,12 @@
 {
   "description": "This is Herbie Hancock. The essential tracks, all in one playlist.",
-  "num_followers": 40591,
+  "num_followers": 40604,
   "original_name": "This Is Herbie Hancock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAAAbimizm0x9ByGZ8P4YdmEs",
+  "snapshot_id": "aOMGgAAAAACCm6pOKUhbQJRHzx1FXtwq",
   "tracks": [
     {
       "added_at": null,
@@ -407,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Speak Like A Child (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r"
+        "name": "Head Hunters",
+        "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA"
       },
       "artists": [
         {
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 470853,
-      "name": "Speak Like A Child",
-      "url": "https://open.spotify.com/track/6GSBBmqOX009TUtParZf2a"
+      "duration_ms": 615360,
+      "name": "Sly",
+      "url": "https://open.spotify.com/track/4WyVRn3L2uXnSUkY762gqN"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Speak Like A Child (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 470853,
+      "name": "Speak Like A Child",
+      "url": "https://open.spotify.com/track/6GSBBmqOX009TUtParZf2a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Street of Minarets",
         "url": "https://open.spotify.com/album/6WYbU1sKldxrr2utsPRbKx"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 259446,
       "name": "Bal d\u2019\u00e2me",
       "url": "https://open.spotify.com/track/3UQQNQMvK8LG2Edu3bLHKB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Head Hunters",
-        "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 615360,
-      "name": "Sly",
-      "url": "https://open.spotify.com/track/4WyVRn3L2uXnSUkY762gqN"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Man-Child",
-        "url": "https://open.spotify.com/album/5ez9bb1h1hOLV8Wb5YCmkj"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 446000,
-      "name": "Hang Up Your Hang Ups",
-      "url": "https://open.spotify.com/track/22G8rQDLJTeJzjQWXZErre"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/42qcX8LprsyIPdjzlQyZ8e"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 424560,
       "name": "Stars in Your Eyes",
       "url": "https://open.spotify.com/track/3VWsDvM1GGEp9OYYlphhi3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Man-Child",
+        "url": "https://open.spotify.com/album/5ez9bb1h1hOLV8Wb5YCmkj"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 446000,
+      "name": "Hang Up Your Hang Ups",
+      "url": "https://open.spotify.com/track/22G8rQDLJTeJzjQWXZErre"
     },
     {
       "added_at": null,

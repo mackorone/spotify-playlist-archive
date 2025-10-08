@@ -4,7 +4,7 @@
 
 > Simply rain
 
-356 songs - 16 hr 22 min
+357 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Heavy Rain](https://open.spotify.com/track/2iWme9Vt87bcJkrjcWbwfj) | [Refreshing Rain](https://open.spotify.com/artist/41VEwpxNtWVa0GWB4RLH03) | [Mother Nature](https://open.spotify.com/album/3Y5nmq4nrhroS7oZpc5ggb) | 2:56 | 2022-11-16 |  |
 | [Heavy rain and thunder in Greece](https://open.spotify.com/track/0wM9KTO3KaTHOrpSuegXZh) | [Rain Inc](https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y) | [Rain Sounds Vol\. 3](https://open.spotify.com/album/4Xnlm5GHBeoAGA6SUHrDFr) | 1:58 | 2021-11-08 | 2023-06-17 |
 | [Heavy Rain Under Cover](https://open.spotify.com/track/4aXbgtlE3sYeXWyBm3yrR5) | [Pioggia Notturna](https://open.spotify.com/artist/0Hus0cAybME524CqgViKck) | [Giardini](https://open.spotify.com/album/0nd9xnVNAS1O89Xs1Du6G4) | 2:18 | 2021-11-08 |  |
-| [Horas de lluvia](https://open.spotify.com/track/5SU40Es6IskNv9LeHqztF1) | [Amba Naturale](https://open.spotify.com/artist/4th8dE9LVvvevKJrrk2Ge2) | [Horas de lluvia](https://open.spotify.com/album/3GsVGNCWCXpyLSLOYkBvK8) | 2:35 | 2022-11-16 |  |
+| [Horas de lluvia](https://open.spotify.com/track/5SU40Es6IskNv9LeHqztF1) | [Amba Naturale](https://open.spotify.com/artist/4th8dE9LVvvevKJrrk2Ge2) | [Horas de lluvia](https://open.spotify.com/album/3GsVGNCWCXpyLSLOYkBvK8) | 2:35 | 2022-11-16 | 2025-10-08 |
 | [Hybrid Clouds](https://open.spotify.com/track/4mJnhL0Wxk8S1H3sKKeI5Q) | [Vapourse](https://open.spotify.com/artist/7EF6zIKi6Qb6Ky3Y9GSsxW) | [Enjoy The Sky](https://open.spotify.com/album/534t88l34yw4XIjPgO45Wf) | 1:55 | 2021-11-08 | 2023-06-17 |
 | [in love with the sound of rain](https://open.spotify.com/track/74HrNfXAGVqeZwecmBPyl7) | [Sweet Nature](https://open.spotify.com/artist/61YIe67dmQ4BisRP0t40Tl) | [Relaxing Rain](https://open.spotify.com/album/66dp9VeQUqBNtZLk7L8m52) | 2:28 | 2022-11-16 |  |
 | [In The Clouds](https://open.spotify.com/track/3cH75G5f24Bc7koyOlBtDg) | [The Stormwater](https://open.spotify.com/artist/01c7DohUs02BwUDAyxzTUU) | [Weather Front](https://open.spotify.com/album/33LXnoQeIUfX5va0n2jiCx) | 2:42 | 2021-11-08 |  |
@@ -160,6 +160,7 @@
 | [Morgonregn](https://open.spotify.com/track/5Jg2TWaUW9RaoUCFuKEBLx) | [Regnskur](https://open.spotify.com/artist/5iayvtoaKjHxf43TODIq4V) | [Morgonregn](https://open.spotify.com/album/0Kq1zjeX2PuQqnhqrR3UKh) | 2:00 | 2021-11-08 |  |
 | [Morning Rain](https://open.spotify.com/track/70LJyAuEGlgXrsEuaWmCkP) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rain Sounds Vol\. 3](https://open.spotify.com/album/2abBIAGnbK4LEppbtAB3KL) | 3:03 | 2021-11-08 | 2022-07-09 |
 | [Morning Rain in Canillo](https://open.spotify.com/track/5oaDyK0TLiidLRcnSp4uGj) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Chill Palm](https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE) | [Soothing Rain Songs](https://open.spotify.com/album/15CC9woREqBQPmVNOIfoQg) | 3:05 | 2025-09-23 |  |
+| [Mosslight Rain](https://open.spotify.com/track/0fssBwzuKUh44oWOt3DTVU) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Bloom Drops](https://open.spotify.com/album/5bhWfiwUq7bSthr0ZUvgCU) | 3:12 | 2025-09-23 |  |
 | [Muffled Magic](https://open.spotify.com/track/3hTeWxRnULxK2IGJvDoEIB) | [Morgonkvist](https://open.spotify.com/artist/65IKDKBIpATr65zcLhiUvw) | [Droppar](https://open.spotify.com/album/7wr1YeA4KKJaH4aD7tzGTh) | 2:48 | 2022-11-16 | 2025-02-28 |
 | [Must've Been Rain](https://open.spotify.com/track/41bTkvV9Qcc8RuDRqJKjxn) | [rainstantly](https://open.spotify.com/artist/3NXDhMusg4ceknkaxvLxAQ) | [The Sky Makes](https://open.spotify.com/album/0LgA5aHfIe43tAmJ3Fl0Eh) | 2:33 | 2021-11-08 |  |
 | [My Cat is Sleeping](https://open.spotify.com/track/2OJXITcLwJB76rsF58EXkm) | [ASMRainy](https://open.spotify.com/artist/2TmnpZ4hcIW5wNMsl70ZhN) | [Summer Nap](https://open.spotify.com/album/1jbHyvifnMfdEka86g83Kt) | 2:23 | 2022-11-16 | 2025-09-13 |

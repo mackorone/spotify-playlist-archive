@@ -1,6 +1,6 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Luis Vazquez",
-  "num_followers": 1891458,
+  "num_followers": 1891372,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "Exitos de Victor Manuelle",
-        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 303133,
-      "name": "He Tratado",
-      "url": "https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
         "name": "Salsa Dura, Vol. 5",
         "url": "https://open.spotify.com/album/1uRY3jqUxtHVxvNdxD6dlR"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 283106,
       "name": "Me Tengo Que Ir",
       "url": "https://open.spotify.com/track/5ac2pGWaq2CDZ8g5a4G53O"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
+        "name": "Exitos de Victor Manuelle",
+        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 303133,
+      "name": "He Tratado",
+      "url": "https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1087,18 +1087,22 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6"
       },
       "artists": [
         {
-          "name": "Lalo Rodriguez",
-          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+          "name": "Jonathan Moly",
+          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
+        },
+        {
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
         }
       ],
-      "duration_ms": 384800,
-      "name": "Tu No Sabes Querer",
-      "url": "https://open.spotify.com/track/6GRFXhOIdiZmkZiNeGZ9Sm"
+      "duration_ms": 191260,
+      "name": "The Reason - Latin Version",
+      "url": "https://open.spotify.com/track/1ON345iq5mxx518u3U4pyn"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1143,22 +1147,18 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "Metamorfosis",
-        "url": "https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6"
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
       },
       "artists": [
         {
-          "name": "Jonathan Moly",
-          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
-        },
-        {
-          "name": "Hoobastank",
-          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
         }
       ],
-      "duration_ms": 191260,
-      "name": "The Reason - Latin Version",
-      "url": "https://open.spotify.com/track/1ON345iq5mxx518u3U4pyn"
+      "duration_ms": 384800,
+      "name": "Tu No Sabes Querer",
+      "url": "https://open.spotify.com/track/6GRFXhOIdiZmkZiNeGZ9Sm"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "Cali Pachanguero 40 A\u00f1os",
-        "url": "https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 287093,
-      "name": "Cali Pachanguero 40 A\u00f1os",
-      "url": "https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
         "name": "Salsa Legends",
         "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 358493,
       "name": "No Vale La Pena",
       "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
+        "name": "Cali Pachanguero 40 A\u00f1os",
+        "url": "https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 287093,
+      "name": "Cali Pachanguero 40 A\u00f1os",
+      "url": "https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "Leyendas: Salsa Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 304533,
-      "name": "Cuenta Conmigo",
-      "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
         "name": "Empezando Otra Vez",
         "url": "https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 248325,
       "name": "Te Equivocaste Conmigo",
       "url": "https://open.spotify.com/track/3qhPmsunL4qfc2cvtwOvh5"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
+        "name": "Leyendas: Salsa Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 304533,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "Me Dedique A Perderte",
-        "url": "https://open.spotify.com/album/3ub5YlYjOAkQPf7mAMGDTs"
-      },
-      "artists": [
-        {
-          "name": "Pablo EEE",
-          "url": "https://open.spotify.com/artist/08IR4c2MfZCUcN5CuMWGIP"
-        },
-        {
-          "name": "Jimmy Rodriguez",
-          "url": "https://open.spotify.com/artist/4M355xYeWAVoaecF6LL2av"
-        }
-      ],
-      "duration_ms": 167320,
-      "name": "Me Dediqu\u00e9 A Perderte",
-      "url": "https://open.spotify.com/track/0A9vorHzI0KJ0hlmWzdSqX"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
         "name": "SOY",
         "url": "https://open.spotify.com/album/6TMMFAy97YN7iTrQF3gEFa"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 257445,
       "name": "Qu\u00e9 M\u00e1s Da",
       "url": "https://open.spotify.com/track/442FzbQEob2NXAg2KIbVBm"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
+        "name": "Me Dedique A Perderte",
+        "url": "https://open.spotify.com/album/3ub5YlYjOAkQPf7mAMGDTs"
+      },
+      "artists": [
+        {
+          "name": "Pablo EEE",
+          "url": "https://open.spotify.com/artist/08IR4c2MfZCUcN5CuMWGIP"
+        },
+        {
+          "name": "Jimmy Rodriguez",
+          "url": "https://open.spotify.com/artist/4M355xYeWAVoaecF6LL2av"
+        }
+      ],
+      "duration_ms": 167320,
+      "name": "Me Dediqu\u00e9 A Perderte",
+      "url": "https://open.spotify.com/track/0A9vorHzI0KJ0hlmWzdSqX"
     },
     {
       "added_at": "2025-08-22 04:00:25",

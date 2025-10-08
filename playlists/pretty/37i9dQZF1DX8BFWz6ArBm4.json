@@ -327,22 +327,18 @@
     {
       "added_at": "2025-10-02 21:00:25",
       "album": {
-        "name": "San To Louloudi",
-        "url": "https://open.spotify.com/album/0VpYXMMuOPkwBVXTSaxwS2"
+        "name": "Me Sighorite",
+        "url": "https://open.spotify.com/album/6gMuD6HJT8Ixnu73PIiXLk"
       },
       "artists": [
         {
-          "name": "Ivi Adamou",
-          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
-        },
-        {
-          "name": "Stavento",
-          "url": "https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK"
+          "name": "Petros Iakovidis",
+          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
         }
       ],
-      "duration_ms": 193274,
-      "name": "San To Louloudi",
-      "url": "https://open.spotify.com/track/0JEqBTl49nSulh9InK43AS"
+      "duration_ms": 210007,
+      "name": "Me Sighorite",
+      "url": "https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww"
     },
     {
       "added_at": "2025-10-02 21:00:25",
@@ -419,18 +415,22 @@
     {
       "added_at": "2025-10-02 21:00:25",
       "album": {
-        "name": "Me Sighorite",
-        "url": "https://open.spotify.com/album/6gMuD6HJT8Ixnu73PIiXLk"
+        "name": "San To Louloudi",
+        "url": "https://open.spotify.com/album/0VpYXMMuOPkwBVXTSaxwS2"
       },
       "artists": [
         {
-          "name": "Petros Iakovidis",
-          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+          "name": "Ivi Adamou",
+          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
+        },
+        {
+          "name": "Stavento",
+          "url": "https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK"
         }
       ],
-      "duration_ms": 210007,
-      "name": "Me Sighorite",
-      "url": "https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww"
+      "duration_ms": 193274,
+      "name": "San To Louloudi",
+      "url": "https://open.spotify.com/track/0JEqBTl49nSulh9InK43AS"
     },
     {
       "added_at": "2025-10-02 21:00:25",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-10-02 21:00:25",
       "album": {
-        "name": "Tha Me Kitas Sta Matia",
-        "url": "https://open.spotify.com/album/6FGxQlqvjBCBlvHTVAyEEf"
-      },
-      "artists": [
-        {
-          "name": "Nikiforos Vithoulkas",
-          "url": "https://open.spotify.com/artist/3uNZcGFziYYu8twdT7pCs9"
-        }
-      ],
-      "duration_ms": 227565,
-      "name": "Tha Me Kitas Sta Matia",
-      "url": "https://open.spotify.com/track/4KS1Cq8pg0EawS2dPYGaWZ"
-    },
-    {
-      "added_at": "2025-10-02 21:00:25",
-      "album": {
         "name": "Anasa",
         "url": "https://open.spotify.com/album/1cff2Mbs7o9xKdBxPmXgBD"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 283520,
       "name": "Anasa",
       "url": "https://open.spotify.com/track/6QraIKM78nFy6sVIedXVOs"
+    },
+    {
+      "added_at": "2025-10-02 21:00:25",
+      "album": {
+        "name": "Tha Me Kitas Sta Matia",
+        "url": "https://open.spotify.com/album/6FGxQlqvjBCBlvHTVAyEEf"
+      },
+      "artists": [
+        {
+          "name": "Nikiforos Vithoulkas",
+          "url": "https://open.spotify.com/artist/3uNZcGFziYYu8twdT7pCs9"
+        }
+      ],
+      "duration_ms": 227565,
+      "name": "Tha Me Kitas Sta Matia",
+      "url": "https://open.spotify.com/track/4KS1Cq8pg0EawS2dPYGaWZ"
     },
     {
       "added_at": "2025-10-02 21:00:25",
@@ -795,38 +795,6 @@
     {
       "added_at": "2025-10-02 21:00:25",
       "album": {
-        "name": "Bam",
-        "url": "https://open.spotify.com/album/61fQlnPmmwgSJ6UJ9Jrf9H"
-      },
-      "artists": [
-        {
-          "name": "Anastasia",
-          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
-        }
-      ],
-      "duration_ms": 166198,
-      "name": "Bam",
-      "url": "https://open.spotify.com/track/68dVduobw35v0SFTfMuaZj"
-    },
-    {
-      "added_at": "2025-10-02 21:00:25",
-      "album": {
-        "name": "Giati S' Emena",
-        "url": "https://open.spotify.com/album/2dAmuI9hvOBW0R3YaddWkw"
-      },
-      "artists": [
-        {
-          "name": "Lena Zevgara",
-          "url": "https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB"
-        }
-      ],
-      "duration_ms": 198875,
-      "name": "Giati S' Emena",
-      "url": "https://open.spotify.com/track/07VYoZedBJpgqRzGGPHg5P"
-    },
-    {
-      "added_at": "2025-10-02 21:00:25",
-      "album": {
         "name": "Parea Me Tin Ioulia",
         "url": "https://open.spotify.com/album/45Eqx4JgN9XscVcEhI1LLQ"
       },
@@ -847,18 +815,50 @@
     {
       "added_at": "2025-10-02 21:00:25",
       "album": {
-        "name": "Perno Tin Efthini",
-        "url": "https://open.spotify.com/album/6AL96TadQffNkXkCW3BvMH"
+        "name": "Giati S' Emena",
+        "url": "https://open.spotify.com/album/2dAmuI9hvOBW0R3YaddWkw"
       },
       "artists": [
         {
-          "name": "Stan",
-          "url": "https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2"
+          "name": "Lena Zevgara",
+          "url": "https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB"
         }
       ],
-      "duration_ms": 215003,
-      "name": "Perno Tin Efthini",
-      "url": "https://open.spotify.com/track/4rOOWZUDSd7s5hAVrWPgEP"
+      "duration_ms": 198875,
+      "name": "Giati S' Emena",
+      "url": "https://open.spotify.com/track/07VYoZedBJpgqRzGGPHg5P"
+    },
+    {
+      "added_at": "2025-10-02 21:00:25",
+      "album": {
+        "name": "Bam",
+        "url": "https://open.spotify.com/album/61fQlnPmmwgSJ6UJ9Jrf9H"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "duration_ms": 166198,
+      "name": "Bam",
+      "url": "https://open.spotify.com/track/68dVduobw35v0SFTfMuaZj"
+    },
+    {
+      "added_at": "2025-10-02 21:00:25",
+      "album": {
+        "name": "Porni Outopia",
+        "url": "https://open.spotify.com/album/76sgSrnerOEpJHQxca7Wx5"
+      },
+      "artists": [
+        {
+          "name": "Paola",
+          "url": "https://open.spotify.com/artist/7m0YMvg7P6lnhSa2Ttu5TF"
+        }
+      ],
+      "duration_ms": 212744,
+      "name": "Porni Outopia",
+      "url": "https://open.spotify.com/track/5pgYW8yaeXiIemY9nOBKZI"
     }
   ],
   "unique_name": "Laika tou Simera",

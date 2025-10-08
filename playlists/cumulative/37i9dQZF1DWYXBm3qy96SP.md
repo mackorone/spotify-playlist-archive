@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: The Last Dinner Party
 
-1,711 songs - 4 day 2 hr 57 min
+1,712 songs - 4 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1283,7 +1283,7 @@
 | [Settle Petal](https://open.spotify.com/track/6bChyygWt38QX2rOuPNzvw) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Settle Petal](https://open.spotify.com/album/15sV58RWILYvlgPXkOOTfy) | 3:06 | 2023-11-23 | 2023-12-01 |
 | [Seven Out](https://open.spotify.com/track/6Mt6czdOmbc2vheLs4HDI4) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [Seven Out](https://open.spotify.com/album/4Qc5eqPw7BSQdoqyT3LSo5) | 2:56 | 2024-01-11 | 2024-01-19 |
 | [Shadow in the Sun](https://open.spotify.com/track/6xaMXvpkmVow1RAinlthUT) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Shadow in the Sun](https://open.spotify.com/album/5dVfRPlgjkkI1bBIvhzMEO) | 3:11 | 2024-02-29 | 2024-07-27 |
-| [SHALLOW](https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Shallow](https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3) | 3:29 | 2024-08-01 |  |
+| [SHALLOW](https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Shallow](https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3) | 3:29 | 2024-08-01 | 2025-10-08 |
 | [Sharkbait](https://open.spotify.com/track/2XybqMpL67EfQErfR00HID) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [Mishaps Of My Mid Twenties](https://open.spotify.com/album/5Rjyhc3YdFNM3qv6wikP8E) | 3:31 | 2023-11-23 | 2023-12-01 |
 | [Sharks](https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 3:10 | 2023-03-16 | 2023-04-28 |
 | [She Loves You \- 2023 Mix](https://open.spotify.com/track/01K1zFyjJhG2Qk7PIkSAEA) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 – 1966 \(2023 Edition\)](https://open.spotify.com/album/39Ti6Be9Ak2d6YbxlQo0Ba) | 2:22 | 2023-11-09 | 2023-11-24 |
@@ -1512,6 +1512,7 @@
 | [Time :: Fate :: Karma :: God](https://open.spotify.com/track/11QL0ypp9YLOvTvArX76tt) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City \(Deluxe\)](https://open.spotify.com/album/2RAkwilnza3i5WYKNhGqWS) | 3:03 | 2024-03-14 | 2024-07-03 |
 | [Times Like These](https://open.spotify.com/track/6bo13cPb5M0B6LhQEl0A3E) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:29 | 2023-03-16 | 2023-09-01 |
 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 | 2024-01-18 | 2024-03-23 |
+| [Tipping Point](https://open.spotify.com/track/6jhxeGvYuGY6KHHmUDj8Sv) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Tipping Point](https://open.spotify.com/album/09fWUtFj5UY5gEJapwj0xa) | 4:28 | 2025-10-02 |  |
 | [Tired Of Being Alone](https://open.spotify.com/track/1GTm4UPyy4VsCmGIuWKglS) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Tired Of Being Alone](https://open.spotify.com/album/7qBemiQttOz66ehbUkfM70) | 4:43 | 2023-07-06 | 2023-07-14 |
 | [TK421](https://open.spotify.com/track/58d6jpiFmElbSX36MnnGFO) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [TK421](https://open.spotify.com/album/7IncAEknANwQthqiwWySBP) | 3:15 | 2023-10-12 | 2023-10-20 |
 | [To My Heart](https://open.spotify.com/track/5lB3jWo6QMwVaLlcxqNEdb) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [To My Heart](https://open.spotify.com/album/7wi6Ppz76KRU5airdpcGCW) | 3:06 | 2023-09-15 | 2023-09-22 |

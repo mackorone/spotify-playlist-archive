@@ -1,6 +1,6 @@
 {
   "description": "Feel good with this positively timeless playlist!",
-  "num_followers": 3631654,
+  "num_followers": 3631509,
   "original_name": "Feelin' Good",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Under the Boardwalk",
-        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 161960,
-      "name": "Under the Boardwalk",
-      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "When a Man Loves a Woman",
         "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 173866,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Under the Boardwalk",
+        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 161960,
+      "name": "Under the Boardwalk",
+      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
     },
     {
       "added_at": "2025-03-25 15:28:45",
@@ -393,22 +393,6 @@
       "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
     },
     {
-      "added_at": "2023-03-28 15:59:00",
-      "album": {
-        "name": "Stand",
-        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 141506,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
-    },
-    {
       "added_at": "2021-10-19 21:36:21",
       "album": {
         "name": "Black Caesar",
@@ -427,6 +411,22 @@
       "duration_ms": 194866,
       "name": "The Boss",
       "url": "https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1"
+    },
+    {
+      "added_at": "2023-03-28 15:59:00",
+      "album": {
+        "name": "Stand",
+        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 141506,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -707,22 +707,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Al Green Explores Your Mind",
-        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Take Me to the River",
-      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "The Fabulous Miracles",
         "url": "https://open.spotify.com/album/6WXuBDGbgFKz4rYLVC9a0W"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "In the Midnight Hour",
-        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
+        "name": "Al Green Explores Your Mind",
+        "url": "https://open.spotify.com/album/2ss0g53nagKtGnoYjwo77Q"
       },
       "artists": [
         {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
         }
       ],
-      "duration_ms": 157160,
-      "name": "In the Midnight Hour",
-      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
+      "duration_ms": 225373,
+      "name": "Take Me to the River",
+      "url": "https://open.spotify.com/track/62r1CS9zL1FL5Ilb7hLX7n"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -767,6 +751,22 @@
       "duration_ms": 352920,
       "name": "Cruisin'",
       "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "In the Midnight Hour",
+        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 157160,
+      "name": "In the Midnight Hour",
+      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -849,22 +849,6 @@
       "url": "https://open.spotify.com/track/7zrPswSV1yxrill5OyCuaU"
     },
     {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Twistin' the Night Away",
-        "url": "https://open.spotify.com/album/406RCIvK6uh49XviqAI6kY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 159853,
-      "name": "Twistin' the Night Away",
-      "url": "https://open.spotify.com/track/7FS541dJh3iQAEXEZoDhE6"
-    },
-    {
       "added_at": "2025-03-25 15:28:45",
       "album": {
         "name": "King Floyd",
@@ -879,6 +863,22 @@
       "duration_ms": 183266,
       "name": "Groove Me",
       "url": "https://open.spotify.com/track/1sG3M0yjIYweejCR9Amyh6"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Twistin' the Night Away",
+        "url": "https://open.spotify.com/album/406RCIvK6uh49XviqAI6kY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 159853,
+      "name": "Twistin' the Night Away",
+      "url": "https://open.spotify.com/track/7FS541dJh3iQAEXEZoDhE6"
     },
     {
       "added_at": "2022-03-28 18:28:56",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The Ultimate Jackie Wilson",
-        "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 181066,
-      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
-      "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Knock On Wood",
         "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 189840,
       "name": "Knock on Wood",
       "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "The Ultimate Jackie Wilson",
+        "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 181066,
+      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
+      "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Anthology: Jackson 5",
+        "url": "https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/3tSi6iFO9yLGIYIqMEgjC9"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "Curtis (Expanded Edition)",
         "url": "https://open.spotify.com/album/3tgJmEz0R0ZsRSrpwafp4R"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 169293,
       "name": "It's Your Thing",
       "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Anthology: Jackson 5",
-        "url": "https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "I Want You Back",
-      "url": "https://open.spotify.com/track/3tSi6iFO9yLGIYIqMEgjC9"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1477,22 +1477,6 @@
       "url": "https://open.spotify.com/track/5fNDP3NTdE69szQHUl4fFr"
     },
     {
-      "added_at": "2022-02-28 20:07:33",
-      "album": {
-        "name": "Up, Up And Away",
-        "url": "https://open.spotify.com/album/77VEDrJrgHdCr6Ju3N4AQp"
-      },
-      "artists": [
-        {
-          "name": "The 5th Dimension",
-          "url": "https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM"
-        }
-      ],
-      "duration_ms": 163346,
-      "name": "Up, Up and Away",
-      "url": "https://open.spotify.com/track/3JdToGxgvH9SnO1a605Ztr"
-    },
-    {
       "added_at": "2021-10-19 21:36:21",
       "album": {
         "name": "The Very Best Of Rufus Featuring Chaka Khan",
@@ -1511,6 +1495,22 @@
       "duration_ms": 280040,
       "name": "Tell Me Something Good",
       "url": "https://open.spotify.com/track/0AECVMjxepWdsjDb49JFRd"
+    },
+    {
+      "added_at": "2022-02-28 20:07:33",
+      "album": {
+        "name": "Up, Up And Away",
+        "url": "https://open.spotify.com/album/77VEDrJrgHdCr6Ju3N4AQp"
+      },
+      "artists": [
+        {
+          "name": "The 5th Dimension",
+          "url": "https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "Up, Up and Away",
+      "url": "https://open.spotify.com/track/3JdToGxgvH9SnO1a605Ztr"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1861,26 +1861,6 @@
       "url": "https://open.spotify.com/track/16ZNz0wXDJERo4zquNPw7x"
     },
     {
-      "added_at": "2023-03-28 15:59:00",
-      "album": {
-        "name": "The Way That I Do",
-        "url": "https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 210329,
-      "name": "The Way That I Do",
-      "url": "https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY"
-    },
-    {
       "added_at": "2021-10-19 21:36:21",
       "album": {
         "name": "Tropicoso",
@@ -1911,6 +1891,26 @@
       "duration_ms": 181535,
       "name": "I Don't Wanna Lie",
       "url": "https://open.spotify.com/track/6CgsttSWDA2sISZQp1upXK"
+    },
+    {
+      "added_at": "2023-03-28 15:59:00",
+      "album": {
+        "name": "The Way That I Do",
+        "url": "https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 210329,
+      "name": "The Way That I Do",
+      "url": "https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Pelvis Pusher",
-        "url": "https://open.spotify.com/album/1bmrKIWcFwqW6PwAe5EnI8"
-      },
-      "artists": [
-        {
-          "name": "Vintage Trouble",
-          "url": "https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0"
-        }
-      ],
-      "duration_ms": 187782,
-      "name": "Pelvis Pusher",
-      "url": "https://open.spotify.com/track/6bo1ykqKEAYsdwVtR1ze8x"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Stand For Myself",
         "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 204693,
       "name": "Diamond Studded Shoes",
       "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Pelvis Pusher",
+        "url": "https://open.spotify.com/album/1bmrKIWcFwqW6PwAe5EnI8"
+      },
+      "artists": [
+        {
+          "name": "Vintage Trouble",
+          "url": "https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0"
+        }
+      ],
+      "duration_ms": 187782,
+      "name": "Pelvis Pusher",
+      "url": "https://open.spotify.com/track/6bo1ykqKEAYsdwVtR1ze8x"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2423,6 +2423,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 199400,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "The Dip Delivers",
         "url": "https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI"
       },
@@ -2451,22 +2467,6 @@
       "duration_ms": 303533,
       "name": "Boogie Nights",
       "url": "https://open.spotify.com/track/20zOIoex7YchUh87d8tlvg"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 199400,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd"
     }
   ],
   "unique_name": "Feelin' Good",

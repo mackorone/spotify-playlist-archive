@@ -1,12 +1,12 @@
 {
   "description": "This is Ayra Starr. The essential tracks, all in one playlist.",
-  "num_followers": 52022,
+  "num_followers": 52044,
   "original_name": "This Is Ayra Starr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAABmEZKGdONDEr+9m2zdsl2I",
+  "snapshot_id": "aOMGgAAAAAB/IE4YbdoFlX2thVxKKft7",
   "tracks": [
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comforter (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Comforter (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grit & Lust",
         "url": "https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 155506,
       "name": "Many Roads",
       "url": "https://open.spotify.com/track/4KHSKFMQr0PGkWIzIueg8v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comforter (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Comforter (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
     },
     {
       "added_at": null,
@@ -947,26 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 204573,
-      "name": "come close (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/2u5dBIBam2FTwYsgsptJyj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bravo",
         "url": "https://open.spotify.com/album/2VrbmxYUpIxZHb6uq7d695"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 154500,
       "name": "Sare",
       "url": "https://open.spotify.com/track/5687UltkEFNIoi7friwKwt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 204573,
+      "name": "come close (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/2u5dBIBam2FTwYsgsptJyj"
     },
     {
       "added_at": null,

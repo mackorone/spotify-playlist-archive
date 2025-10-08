@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTyhpyCExup.md) - [plain]
 
 > New folk & americana driving the current, every week\. Cover: Jensen McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,595 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,596 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTyhpyCExup.md) - [plain]
 | 52 | [Lucid Lucy](https://open.spotify.com/track/21beaiAGKgVVWVSt3tx5QS) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Simple Syrup](https://open.spotify.com/album/1DcosrCPndyPwVtMB84A0u) | 3:37 |
 | 53 | [100 Proof](https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [100 Proof](https://open.spotify.com/album/3bzFV8jpkLzzCB5mmz1sDi) | 3:58 |
 | 54 | [Stay Alive](https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:01 |
-| 55 | [These Fires](https://open.spotify.com/track/6owBVeLgPaKffX6OAOdM9d) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Honesty \(Deluxe Version\)](https://open.spotify.com/album/70FmaCiwtIv1wk7nthZJUU) | 2:51 |
+| 55 | [These Fires](https://open.spotify.com/track/6owBVeLgPaKffX6OAOdM9d) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Honesty](https://open.spotify.com/album/70FmaCiwtIv1wk7nthZJUU) | 2:51 |
 | 56 | [Wait Up](https://open.spotify.com/track/464vzE6yinrOYJU0pba5HY) | [Neffy](https://open.spotify.com/artist/75Qz8WXumn9ghkXDwpj34N) | [Wait Up](https://open.spotify.com/album/1vodStDlRmay0I5Wbfdjng) | 3:11 |
 | 57 | [Troublemaker](https://open.spotify.com/track/3TyAGYeobwWPHwGrRTJAKl) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow \(Deluxe Edition\)](https://open.spotify.com/album/1WQVKrzi1f3YlqTwf3QahU) | 3:32 |
 | 58 | [Mercy](https://open.spotify.com/track/5cR458T2K00QovnaTO8bSj) | [War & Pierce](https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh) | [Mercy](https://open.spotify.com/album/2Qb1mbVSoGlehiJewFUT57) | 3:40 |

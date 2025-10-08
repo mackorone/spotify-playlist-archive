@@ -1486,7 +1486,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 236263,
       "name": "BLACK_WAVE II",
       "url": "https://open.spotify.com/track/5PCKkrp4Wgrl2ukORKVaVm"
@@ -2968,7 +2968,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 279060,
       "name": "Dead Man's Diary",
       "url": "https://open.spotify.com/track/0W6JBOQRxYwwr4IDwfmdQg"
@@ -7604,7 +7604,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-29",
+      "date_removed": null,
       "duration_ms": 255858,
       "name": "Love Burns",
       "url": "https://open.spotify.com/track/3qybm3xmYoAg7vETamsmZv"
@@ -13454,6 +13454,24 @@
       "duration_ms": 271717,
       "name": "Where No Light Shines",
       "url": "https://open.spotify.com/track/38pklo617cL9UmIMU8FkTQ"
+    },
+    {
+      "album": {
+        "name": "Memoirs of Despair",
+        "url": "https://open.spotify.com/album/7AF42hCxVINdJYUy7X5sLP"
+      },
+      "artists": [
+        {
+          "name": "Decayer",
+          "url": "https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231201,
+      "name": "Whispers In The Corridor",
+      "url": "https://open.spotify.com/track/5dZ7I2d5xEYdQceT3t3IXm"
     },
     {
       "album": {

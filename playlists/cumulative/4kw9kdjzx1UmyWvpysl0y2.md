@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,086 songs - 2 day 12 hr 43 min
+1,087 songs - 2 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -642,6 +642,7 @@
 | [Never Enough](https://open.spotify.com/track/0OIHK8vvOTnjg4dtBH34qX) | [Manu Zain](https://open.spotify.com/artist/6MIXwGBFXAuLoaZ6s0fCT7) | [Never Enough](https://open.spotify.com/album/4GN1ATNzGkfuhGDgcnKgKJ) | 3:17 | 2022-02-04 | 2022-04-15 |
 | [Never Fall](https://open.spotify.com/track/0HMU8V4GlxxkhLIGD7bLJF) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [BOTCASH](https://open.spotify.com/artist/2ohZgLU6lCv55yV3d05nMv), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Never Fall](https://open.spotify.com/album/62QNsprfPKxxwXpGY2Hjab) | 3:41 | 2024-11-14 | 2025-02-21 |
 | [Never Let You Down](https://open.spotify.com/track/3HnGSgsJA5KkXAnVthERri) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Miles Away](https://open.spotify.com/artist/3V8H59FqUdudlO1Fl019tg), [RYYZN](https://open.spotify.com/artist/54YpMpAIJC7FV2toZvVo5f) | [Never Let You Down](https://open.spotify.com/album/6fQJLkZUzXXynBgMXKoA8n) | 3:13 | 2023-04-12 | 2023-07-09 |
+| [Never Let You Go](https://open.spotify.com/track/6qEH1WMq3t3ZrNejH3JJLs) | [terro](https://open.spotify.com/artist/6b7wbuM174mDXtmRH4y37g), [TMPST](https://open.spotify.com/artist/59cVQmptpzY1hVL5jRHJoI) | [Halcyon](https://open.spotify.com/album/10Tnylky6pyR5dVSR68TIu) | 2:57 | 2025-10-07 |  |
 | [never mine](https://open.spotify.com/track/1fNFVjK6tIpDNwUA0QucXI) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [never mine](https://open.spotify.com/album/4M3yKgmuuIRtstbx40GJel) | 2:50 | 2025-06-26 | 2025-09-19 |
 | [New Age \- Bossfight Remix](https://open.spotify.com/track/5aCABFeoSwL2Ux0c1gW2QL) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ), [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [New Age \(Bossfight Remix\)](https://open.spotify.com/album/4wUzPAPk50YZRRxMcCRPPX) | 3:10 | 2022-02-23 | 2022-05-05 |
 | [NEW HEIGHTS](https://open.spotify.com/track/4foDugtrBpG8suDqXiXY5n) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [NEW HEIGHTS](https://open.spotify.com/album/1Zz4OoaOCNZbfQV7ZJxays) | 3:12 | 2025-04-28 | 2025-07-22 |

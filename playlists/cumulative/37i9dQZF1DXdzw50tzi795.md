@@ -4,7 +4,7 @@
 
 > เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: PURPEECH
 
-193 songs - 12 hr 31 min
+194 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [ซ่อนเธอไว้ในเพลง](https://open.spotify.com/track/1lM2KWbk6nWKYq7qbMRcsb) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ซ่อนเธอไว้ในเพลง](https://open.spotify.com/album/7wZ6cdyUeqn86acl7dyMwR) | 5:16 | 2025-02-20 |  |
 | [ดวงใจ](https://open.spotify.com/track/6dltZJ9ZFOnyCPgNikpCiW) | [ปราง ปรางทิพย์](https://open.spotify.com/artist/2uLHnWXJesP4riw8ripPWN) | [ดวงใจ](https://open.spotify.com/album/4vQCIsiPWhDaWZpT6qR2wW) | 4:20 | 2025-04-10 | 2025-06-20 |
 | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/track/4kE80JWRissrodmXuo0xYi) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/album/3c507rxKQ6lmPMw7l3Ut6r) | 3:48 | 2024-07-20 | 2025-08-08 |
+| [ดาวตก \(Wish\) \[feat\. Z9\]](https://open.spotify.com/track/4YkPsxVBXkM4jBgMTAxtFz) | [WANYAi](https://open.spotify.com/artist/3yLZtAIGm6Eq4WSfnimZad), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [ดาวตก \(Wish\) \[feat\. Z9\]](https://open.spotify.com/album/1n6smSBWNrb9p3L0vFAilq) | 4:01 | 2025-10-07 |  |
 | [ดาวหางฮัลเลย์](https://open.spotify.com/track/56wDFSIa9Tr7zbEXUVMwjP) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ดาวหางฮัลเลย์](https://open.spotify.com/album/3ZqqQUWMeZasXiZhu7L1Zl) | 3:44 | 2024-01-26 | 2024-12-07 |
 | [ดิ่งดาวน์](https://open.spotify.com/track/1E9X3arqhhm3woKCQtEv01) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q) | [ดิ่งดาวน์](https://open.spotify.com/album/5EeE1FrNjw9sJdSVRbPH3A) | 3:39 | 2024-09-26 | 2024-11-09 |
 | [ดีใจรึเปล่า](https://open.spotify.com/track/1WbqdJzBawPmNVBL1tT7dK) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ดีใจรึเปล่า](https://open.spotify.com/album/4D1IFvo9V2Y8Ty52v8LcyE) | 4:08 | 2024-02-15 | 2025-03-24 |
@@ -122,7 +123,7 @@
 | [ผูกพันต้องลา](https://open.spotify.com/track/2HC3jRQilGWyFlvICAqCaP) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg), [Poppy Chatchaya](https://open.spotify.com/artist/0lPGF4KHt91J1oEnX0u0cv) | [ผูกพันต้องลา](https://open.spotify.com/album/0cwGiZR0Gm9vIlbLORcjyk) | 3:20 | 2024-05-30 | 2024-11-23 |
 | [ฝากใจ](https://open.spotify.com/track/0WmHAw7c5LppZdca1amE6f) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ฝากใจ](https://open.spotify.com/album/4okyxzayrSFXEzGJg79vKa) | 4:19 | 2025-05-22 | 2025-07-15 |
 | [ฝากให้เขารัก](https://open.spotify.com/track/198pPjDG0juHRjechZrWer) | [Yes'sir Days](https://open.spotify.com/artist/5fWMZzHHJQmCVt3W2ejVbV) | [ฝากให้เขารัก](https://open.spotify.com/album/1jnegCzaepXCGuPhyqNtdd) | 4:16 | 2025-08-28 |  |
-| [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 | 2024-07-18 |  |
+| [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 | 2024-07-18 | 2025-10-08 |
 | [พิจารณา \(Consider\)](https://open.spotify.com/track/3XCoEJvCYqTbM8bhples8N) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9), [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M) | [พิจารณา \(Consider\)](https://open.spotify.com/album/00lYeU7gtlokOZDkt15QPR) | 4:06 | 2024-01-26 | 2024-03-28 |
 | [พี่คงไม่ชอบผมหรอก](https://open.spotify.com/track/3t1Ex6dp0O7tUP3NLyjAY8) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr), [VARINZ](https://open.spotify.com/artist/6HBK5QQwMGT6CduG11q9QZ) | [พี่คงไม่ชอบผมหรอก](https://open.spotify.com/album/6dOWpIUDYJSmJJia9G8nfB) | 3:14 | 2024-01-26 | 2024-09-27 |
 | [พี่ชอบหนูที่สุดเลย](https://open.spotify.com/track/7mVobUmGP12Y5SQJgBice3) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr), [VARINZ](https://open.spotify.com/artist/6HBK5QQwMGT6CduG11q9QZ) | [พี่ชอบหนูที่สุดเลย](https://open.spotify.com/album/69ybwJj0gIujut2fiIMQLY) | 3:06 | 2024-01-26 | 2024-07-03 |

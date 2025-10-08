@@ -4,7 +4,7 @@
 
 > 
 
-1,007 songs - 2 day 9 hr 45 min
+1,008 songs - 2 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,6 +519,7 @@
 | [love is embarrassing](https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:34 | 2024-03-29 |  |
 | [Love Language](https://open.spotify.com/track/4IxmobHv5Ag8o30DHaoqnx) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:03 | 2024-12-30 |  |
 | [Love Me 4 Me](https://open.spotify.com/track/7eCVm5KcpFrDhx6XHkF3t6) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:05 | 2024-12-30 |  |
+| [Love Me Anyway](https://open.spotify.com/track/53KWkwzQq47p13swqiLAMI) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Love Me Anyway](https://open.spotify.com/album/4zGYqGyEgY8YQZE0tob6Bj) | 3:53 | 2025-10-07 |  |
 | [Love Story](https://open.spotify.com/track/5hnJCRSo4pxRsaEwT9YusG) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Platinum Edition\)](https://open.spotify.com/album/2gP2LMVcIFgVczSJqn340t) | 3:55 | 2025-05-31 |  |
 | [Lover](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:41 | 2023-06-23 |  |
 | [Low](https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2023-10-10 |  |

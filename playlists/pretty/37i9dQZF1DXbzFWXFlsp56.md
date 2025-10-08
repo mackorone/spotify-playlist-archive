@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzFWXFlsp56.md) - [plain]
 
 > Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Perú\. Foto: UNIVERSE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,691 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,693 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

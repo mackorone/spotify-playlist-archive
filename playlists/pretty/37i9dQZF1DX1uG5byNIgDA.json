@@ -1,6 +1,6 @@
 {
   "description": "Everyday should be a happy day when you listen to this fun K-Pop playlist.",
-  "num_followers": 220365,
+  "num_followers": 220359,
   "original_name": "Morning K-Pop!",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,22 @@
     {
       "added_at": "2025-09-26 04:05:50",
       "album": {
+        "name": "The Chase",
+        "url": "https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "duration_ms": 178900,
+      "name": "The Chase",
+      "url": "https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg"
+    },
+    {
+      "added_at": "2025-09-26 04:05:50",
+      "album": {
         "name": "3D (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE"
-    },
-    {
-      "added_at": "2025-09-26 04:05:50",
-      "album": {
-        "name": "The Chase",
-        "url": "https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN"
-      },
-      "artists": [
-        {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
-        }
-      ],
-      "duration_ms": 178900,
-      "name": "The Chase",
-      "url": "https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg"
     },
     {
       "added_at": "2025-09-26 04:05:50",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-09-26 04:05:50",
       "album": {
-        "name": "TASTE - The 1st Album",
-        "url": "https://open.spotify.com/album/6hMu9KtkE3ZXcS10QaC82U"
-      },
-      "artists": [
-        {
-          "name": "HAECHAN",
-          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
-        }
-      ],
-      "duration_ms": 206480,
-      "name": "CRZY",
-      "url": "https://open.spotify.com/track/2jlVG4zVT1HEeuZJlfnQt5"
-    },
-    {
-      "added_at": "2025-09-26 04:05:50",
-      "album": {
         "name": "BATTER UP",
         "url": "https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 188179,
       "name": "BATTER UP",
       "url": "https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG"
+    },
+    {
+      "added_at": "2025-09-26 04:05:50",
+      "album": {
+        "name": "TASTE - The 1st Album",
+        "url": "https://open.spotify.com/album/6hMu9KtkE3ZXcS10QaC82U"
+      },
+      "artists": [
+        {
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+        }
+      ],
+      "duration_ms": 206480,
+      "name": "CRZY",
+      "url": "https://open.spotify.com/track/2jlVG4zVT1HEeuZJlfnQt5"
     },
     {
       "added_at": "2025-09-26 04:05:50",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-09-26 04:05:50",
       "album": {
-        "name": "HOT",
-        "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 143797,
-      "name": "HOT",
-      "url": "https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY"
-    },
-    {
-      "added_at": "2025-09-26 04:05:50",
-      "album": {
         "name": "Pretty Please",
         "url": "https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 204322,
       "name": "Pretty Please",
       "url": "https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO"
+    },
+    {
+      "added_at": "2025-09-26 04:05:50",
+      "album": {
+        "name": "HOT",
+        "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 143797,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY"
     },
     {
       "added_at": "2025-09-26 04:05:50",
@@ -807,26 +807,6 @@
     {
       "added_at": "2025-09-26 04:05:50",
       "album": {
-        "name": "UNFORGIVEN",
-        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 182148,
-      "name": "UNFORGIVEN (feat. Nile Rodgers)",
-      "url": "https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu"
-    },
-    {
-      "added_at": "2025-09-26 04:05:50",
-      "album": {
         "name": "\u00dcbermensch",
         "url": "https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 153664,
       "name": "TOO BAD",
       "url": "https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm"
+    },
+    {
+      "added_at": "2025-09-26 04:05:50",
+      "album": {
+        "name": "UNFORGIVEN",
+        "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 182148,
+      "name": "UNFORGIVEN (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu"
     },
     {
       "added_at": "2025-09-26 04:05:50",

@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 583199,
+  "num_followers": 583235,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAABobmjauXYFo3aAjBB801mF",
+  "snapshot_id": "aOMGgAAAAACGTtRqxXpUXqwcPqD3+7EE",
   "tracks": [
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 141293,
-      "name": "Subterranean Homesick Blues",
-      "url": "https://open.spotify.com/track/6k9DUKMJpWvu6eFG3O64Lg"
+      "duration_ms": 252066,
+      "name": "It's All Over Now, Baby Blue",
+      "url": "https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 252066,
-      "name": "It's All Over Now, Baby Blue",
-      "url": "https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S"
+      "duration_ms": 141293,
+      "name": "Subterranean Homesick Blues",
+      "url": "https://open.spotify.com/track/6k9DUKMJpWvu6eFG3O64Lg"
     },
     {
       "added_at": null,

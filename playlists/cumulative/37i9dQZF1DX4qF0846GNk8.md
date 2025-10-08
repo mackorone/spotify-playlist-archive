@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر مع  إسلام كابونجا
 
-324 songs - 20 hr 10 min
+325 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [ايوا يا حبيبتي وحشتينى](https://open.spotify.com/track/3uwYsiS1nnYDfVQMBbdX2B) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB), [Kalosha](https://open.spotify.com/artist/33bu3ZoO8twryUNoOLuT1S) | [ايوا يا حبيبتي وحشتينى](https://open.spotify.com/album/7iGVlni4ye8mrzeoxXNE8A) | 7:13 | 2023-08-30 | 2024-12-06 |
 | [بابا المجال](https://open.spotify.com/track/4PWyDZSIrKxRQV0ioxjrXf) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [Mohamed Shaheen](https://open.spotify.com/artist/6DcpnGFm5ORC758EKTT5B0) | [بابا المجال](https://open.spotify.com/album/219E4D2CXK3NYwmJ5mI8dw) | 3:30 | 2023-04-20 | 2023-10-04 |
 | [بخاف من الموت](https://open.spotify.com/track/5YHeeLfclMSuFNOExpl7uN) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Kimo Eldeeb](https://open.spotify.com/artist/18A2yU1GvQnE6cozN5oJky) | [بخاف من الموت](https://open.spotify.com/album/2tRL5kjbXGMkzV8FoXKTZB) | 3:13 | 2024-02-21 | 2024-03-09 |
+| [بسكوتايا ومعاكى دبابة \- الحديدة مش جدعة هتخونك](https://open.spotify.com/track/5ql1P4zBkxALhoZJN2ucSJ) | [مصطفي الجن و هادي الصغير \- تيم الابداع](https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc) | [بسكوتايا ومعاكى دبابة \(الحديدة مش جدعة هتخونك\)](https://open.spotify.com/album/3v080CO7DgF3Nl22dZuCPC) | 2:59 | 2025-10-07 |  |
 | [بعبع دايرتى](https://open.spotify.com/track/10xPGi2k2sVqeUEH10iNso) | [مصطفي الجن و هادي الصغير \- تيم الابداع](https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc) | [بعبع دايرتى](https://open.spotify.com/album/67fejejPtGJzNO2i8LKYpI) | 3:20 | 2025-03-11 |  |
 | [بعملها كده](https://open.spotify.com/track/3jxlTNSqdZnz0hb5fDgORI) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [بعملها كده](https://open.spotify.com/album/15AofCA4RfMHFeqqXasqie) | 2:06 | 2024-03-08 | 2024-06-12 |
 | [بوم طخ طخ](https://open.spotify.com/track/5vIONI8kvsS4S6ogssrCNG) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [بوم طخ طخ](https://open.spotify.com/album/0vvArbnHsNg0TfVDzqNJyu) | 4:27 | 2021-12-16 | 2022-07-31 |
@@ -171,7 +172,7 @@
 | [زى منا انا و مليش زاى](https://open.spotify.com/track/1Xmp87DwHLtZd1fqIEsfVC) | [Mohamed Baskout](https://open.spotify.com/artist/3eWyyPMuTzGMwB3myNIMcj), [Zizo El Mayestro](https://open.spotify.com/artist/6i9v8yiE8k3oW0vQIQjlqS) | [زى منا انا و مليش زاى](https://open.spotify.com/album/5WYxGpAvfKfx43GuiCYgon) | 3:26 | 2025-01-24 | 2025-04-08 |
 | [سوري مبردش انا بستوري](https://open.spotify.com/track/6XnBt8ME4K8d9oYf7SE5Wa) | [Magdy El Zahar](https://open.spotify.com/artist/5CSaIf8OAstAYE5oqQeS15), [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [سوري مبردش انا بستوري](https://open.spotify.com/album/7tePcFslMQ5mMWuC5gCDUm) | 4:13 | 2024-08-12 | 2025-03-11 |
 | [سيبك من اللي خلع \- من فيلم حمص وحلاوة](https://open.spotify.com/track/7ME2ZENU0G5H7IlnPbWvOv) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [سيبك من اللي خلع \(من فيلم حمص وحلاوة\)](https://open.spotify.com/album/5VVLkrKS5EIDoy3ehMbGNX) | 2:52 | 2023-10-11 | 2025-08-14 |
-| [سيبك من كرته المواقع \( خد كشاف انا عارف انك ياض بتخاف \)](https://open.spotify.com/track/2hVnTuP0zdUEwHhME9ThnC) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [سيبك من كرته المواقع \( خد كشاف انا عارف انك ياض بتخاف \)](https://open.spotify.com/album/01v64ppe2dHzvYGzpIbZrn) | 4:08 | 2024-01-31 |  |
+| [سيبك من كرته المواقع \( خد كشاف انا عارف انك ياض بتخاف \)](https://open.spotify.com/track/2hVnTuP0zdUEwHhME9ThnC) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [سيبك من كرته المواقع \( خد كشاف انا عارف انك ياض بتخاف \)](https://open.spotify.com/album/01v64ppe2dHzvYGzpIbZrn) | 4:08 | 2024-01-31 | 2025-10-08 |
 | [شارع الحياه مش هو هو \- كنت اسد بس الحسد](https://open.spotify.com/track/5uY9sxUgX1EarWZXCKdzzu) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [شارع الحياه مش هو هو \(كنت اسد بس الحسد\)](https://open.spotify.com/album/5KoxyECjOwq9JjiRwxfoTZ) | 4:57 | 2023-09-25 | 2025-05-08 |
 | [شارع الرجوله \( مساء الزفت ع العمر اللي بيعدي \)](https://open.spotify.com/track/7nN8eFZ4dgP19pUGZYEOJt) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Kimo Eldeeb](https://open.spotify.com/artist/18A2yU1GvQnE6cozN5oJky) | [شارع الرجوله \( مساء الزفت ع العمر اللي بيعدي \)](https://open.spotify.com/album/2Dl54ixdiIKlln84W2uIoY) | 3:37 | 2023-01-03 | 2023-04-21 |
 | [شايف كلابش في ايدك](https://open.spotify.com/track/51iJE2VRhDZgeKvM3guDfH) | [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI), [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [شايف كلابش في ايدك](https://open.spotify.com/album/4F6LwvHQ7w2aaHVBdUXYlK) | 3:42 | 2023-08-08 | 2023-09-15 |

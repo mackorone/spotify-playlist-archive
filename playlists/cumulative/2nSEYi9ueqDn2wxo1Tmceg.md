@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a>Georgia</a>
 
-1,532 songs - 4 day 7 hr 45 min
+1,533 songs - 4 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1192,6 +1192,7 @@
 | [Sinatra Drive Breakdown](https://open.spotify.com/track/0qe5zk6E7SnQkMmIheGx4E) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [This Stupid World](https://open.spotify.com/album/3LaJpJFSY3cmLFEHJl2z6E) | 7:24 | 2023-02-15 | 2023-03-30 |
 | [Sink Or Swim](https://open.spotify.com/track/105fEjEgDVFrp4gAtyNJLY) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 3:04 | 2023-02-08 | 2023-03-16 |
 | [Sinner](https://open.spotify.com/track/0Z9RNKpfnETjRxqgKCbJZt) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd) | [Sinner](https://open.spotify.com/album/3AzFwWmqAI4gfqqlN2M5Jb) | 4:24 | 2024-05-01 | 2024-05-16 |
+| [Siren Song](https://open.spotify.com/track/0GRUpGySzN9XxBzGZuEahK) | [Austra](https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g) | [Siren Song](https://open.spotify.com/album/4imrVUWH3hFEY9qzX5MCuH) | 3:37 | 2025-10-07 |  |
 | [Sisyphus \- Single Version](https://open.spotify.com/track/4QJIaGAfI4Ems0oU17NgYQ) | [DC Gore](https://open.spotify.com/artist/6Z9iK220pst9ExbutivPI6) | [Sisyphus](https://open.spotify.com/album/4bniwpGQ3K2eEfNI7yUBXF) | 3:59 | 2022-06-16 | 2022-08-04 |
 | [Six\-Pack](https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Six\-Pack](https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI) | 3:51 | 2023-01-18 | 2023-02-16 |
 | [Sky Hook](https://open.spotify.com/track/5nZTYnKo1ugzmtP7EHfOWr) | [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG) | [Guiro EP](https://open.spotify.com/album/0Mh3tPpe3iGnbTjUAXMIxt) | 5:13 | 2023-11-01 | 2023-12-07 |

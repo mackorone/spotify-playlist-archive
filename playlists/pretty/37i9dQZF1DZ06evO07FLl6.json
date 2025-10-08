@@ -1,12 +1,12 @@
 {
   "description": "This is Miles Davis. The essential tracks, all in one playlist.",
-  "num_followers": 244018,
+  "num_followers": 244031,
   "original_name": "This Is Miles Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAAD8L0GW+/B746+0dqTAAHdA",
+  "snapshot_id": "aOMGgAAAAACKBXFGjjjYMRCO20K0O8xE",
   "tracks": [
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blue Note And Capitol Recordings",
-        "url": "https://open.spotify.com/album/2ZN3YPrCFvHJ9dTni1jBUz"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 242973,
-      "name": "It Never Entered My Mind",
-      "url": "https://open.spotify.com/track/4ZX7fXhm6iwP7nABz1tcFB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ascenseur pour l'\u00e9chafaud",
         "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 172330,
       "name": "Au bar du Petit Bac - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
       "url": "https://open.spotify.com/track/4x1wPhR48abeSDr6o25NAv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blue Note And Capitol Recordings",
+        "url": "https://open.spotify.com/album/2ZN3YPrCFvHJ9dTni1jBUz"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 242973,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/4ZX7fXhm6iwP7nABz1tcFB"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tutu",
+        "url": "https://open.spotify.com/album/0toDuabaPv8Pa2KGI88eB7"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 316666,
+      "name": "Tutu",
+      "url": "https://open.spotify.com/track/5nZnAVUt0w7UO8Wma9GabV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Everything's Beautiful",
         "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 203680,
       "name": "Violets (feat. Phonte)",
       "url": "https://open.spotify.com/track/185ciwUe4FUDPG7VHFNzcv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tutu",
-        "url": "https://open.spotify.com/album/0toDuabaPv8Pa2KGI88eB7"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 316666,
-      "name": "Tutu",
-      "url": "https://open.spotify.com/track/5nZnAVUt0w7UO8Wma9GabV"
     },
     {
       "added_at": null,
@@ -871,6 +871,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bags' Groove (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        },
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        },
+        {
+          "name": "Kenny Clarke",
+          "url": "https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa"
+        },
+        {
+          "name": "Percy Heath",
+          "url": "https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb"
+        }
+      ],
+      "duration_ms": 299680,
+      "name": "Airegin - RVG Remaster",
+      "url": "https://open.spotify.com/track/6KvK5mvFIx4JjfVU0gjl7j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Miles Davis And Horns",
         "url": "https://open.spotify.com/album/2EVuUPzrGCa5NvPD3h2SBA"
       },
@@ -907,38 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bags' Groove (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        },
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        },
-        {
-          "name": "Kenny Clarke",
-          "url": "https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa"
-        },
-        {
-          "name": "Percy Heath",
-          "url": "https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb"
-        }
-      ],
-      "duration_ms": 299680,
-      "name": "Airegin - RVG Remaster",
-      "url": "https://open.spotify.com/track/6KvK5mvFIx4JjfVU0gjl7j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Doo-Bop",
         "url": "https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl"
       },
@@ -971,6 +971,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Complete Columbia Studio Recordings",
+        "url": "https://open.spotify.com/album/6KyD1Yj3FfMVCie7WVMTSz"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Gil Evans",
+          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
+        }
+      ],
+      "duration_ms": 30693,
+      "name": "Studio Discussion - One",
+      "url": "https://open.spotify.com/track/2XKlsf6SUUiGQJ5sGU7cum"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Porgy And Bess",
         "url": "https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 269408,
       "name": "Human Nature (2022 Remaster)",
       "url": "https://open.spotify.com/track/25e6EHX8YyC5hsaipxdHCz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Complete Columbia Studio Recordings",
-        "url": "https://open.spotify.com/album/6KyD1Yj3FfMVCie7WVMTSz"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Gil Evans",
-          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
-        }
-      ],
-      "duration_ms": 30693,
-      "name": "Studio Discussion - One",
-      "url": "https://open.spotify.com/track/2XKlsf6SUUiGQJ5sGU7cum"
     },
     {
       "added_at": null,

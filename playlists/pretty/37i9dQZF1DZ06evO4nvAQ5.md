@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 
 > This is J Boog\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,919 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,922 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 11 | [Ganja Farmer](https://open.spotify.com/track/1VPnps7LuU2ryN2fQrmsfA) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Hear Me Roar](https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo) | 3:51 |
 | 12 | [Mystery](https://open.spotify.com/track/696bLELRbQE6K4l3rJODMj) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 3:22 |
 | 13 | [Let's Get It On](https://open.spotify.com/track/1u3mBuYFjvWOu0VQ9x9kF2) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Indigenous Life](https://open.spotify.com/album/3UDKThTuWf6wbVCITpd8K2) | 3:47 |
-| 14 | [See Her Again](https://open.spotify.com/track/3Ibxs1OxL9wH3jBwpIQGid) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [See Her Again \- Single](https://open.spotify.com/album/1f5ECVICe8ixZ9BBiCCrkV) | 3:09 |
+| 14 | [Press Rewind](https://open.spotify.com/track/1Js26hznhkLlFeRoxCtyNq) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Beauty In The Silence](https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8) | 4:34 |
 | 15 | [Here I Am \(with Fiji\)](https://open.spotify.com/track/6L4mF7uao67PDOhvY5Wc4h) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Hear Me Roar](https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo) | 3:33 |
-| 16 | [Press Rewind](https://open.spotify.com/track/1Js26hznhkLlFeRoxCtyNq) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Beauty In The Silence](https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8) | 4:34 |
+| 16 | [See Her Again](https://open.spotify.com/track/3Ibxs1OxL9wH3jBwpIQGid) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [See Her Again \- Single](https://open.spotify.com/album/1f5ECVICe8ixZ9BBiCCrkV) | 3:09 |
 | 17 | [If I Ever](https://open.spotify.com/track/3UKwvOFBizVnVKBQ6ZqG0Y) | [Jah Maoli](https://open.spotify.com/artist/1xr92u8uPinpRXsjZbgGKw), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [If I Ever](https://open.spotify.com/album/5y0grjfOFtNTBP4rOLtzKb) | 4:42 |
 | 18 | [Sounds of Summer \(with Slightly Stoopid & J Boog\) \- Remix](https://open.spotify.com/track/01RCm15CxS9M38rDtlJA0E) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Johnny Cosmic](https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL), [Noah Cronin](https://open.spotify.com/artist/7zVlPgqcPPfRMwK5cBulaH) | [Sounds of Summer \(with Slightly Stoopid & J Boog\) \[Remix\]](https://open.spotify.com/album/0N5fhkX7dxDh0cYpPavO6y) | 4:14 |
 | 19 | [Until One Day](https://open.spotify.com/track/2a3upUyTlyriSfwPlCDHpe) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Hear Me Roar](https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo) | 3:42 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 47 | [My Audio](https://open.spotify.com/track/4A3b23XdMVDPX6cdzHQOjb) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [My Audio](https://open.spotify.com/album/3L9tTUH2OUjHrP8zAEwp24) | 3:55 |
 | 48 | [Always Been You](https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Always Been You](https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ) | 3:23 |
 | 49 | [She Give Me Lovin'](https://open.spotify.com/track/4cQiaV2jiEELjjP588itBe) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 4:08 |
-| 50 | [Worth My Time](https://open.spotify.com/track/1Xd0kjwP0L0LYYExamTlmI) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Jugglerz City](https://open.spotify.com/album/3EDbfW7vuohqsBml6WDzGW) | 3:00 |
+| 50 | [Fire \(with J Boog\)](https://open.spotify.com/track/4ZNfOxcDF2aycOslsOMbhs) | [Hector Roots Lewis](https://open.spotify.com/artist/3SavOzufIaXEFhSy4MofAw), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Johnny Cosmic](https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL) | [Fire \(with J Boog\)](https://open.spotify.com/album/6durB9swq3vS70jO5K3MBs) | 4:01 |
 
-Snapshot ID: `aOG1AAAAAADI3fyTFrLuPVrVTl3bglW8`
+Snapshot ID: `aOMGgAAAAAC3TVGmMgfWsitFRoCiVTXD`

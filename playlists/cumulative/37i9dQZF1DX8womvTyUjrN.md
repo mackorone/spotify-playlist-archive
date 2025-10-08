@@ -2,13 +2,13 @@
 
 ### [el nuevo pop](https://open.spotify.com/playlist/37i9dQZF1DX8womvTyUjrN)
 
-> The new wave of Latin pop 🌊 Cover: Martox
+> The new wave of Latin pop 🌊 Cover: Samuraï
 
-1,057 songs - 2 day 4 hr 52 min
+1,059 songs - 2 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [+ Te Vale](https://open.spotify.com/track/0XWqcDAa5ZCmyBOYukrRoQ) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [+ Te Vale](https://open.spotify.com/album/2IfwhcfV1PJqIOUMNG8Uqs) | 2:24 | 2025-06-20 |  |
+| [+ Te Vale](https://open.spotify.com/track/0XWqcDAa5ZCmyBOYukrRoQ) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [+ Te Vale](https://open.spotify.com/album/2IfwhcfV1PJqIOUMNG8Uqs) | 2:24 | 2025-06-20 | 2025-10-08 |
 | [10 Lágrimas](https://open.spotify.com/track/1Q4kIUJC6FMudx4jHoqMvi) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [10 Lágrimas](https://open.spotify.com/album/3bLEQfCe9Y6HSWmDyG591u) | 3:18 | 2022-04-15 | 2022-07-26 |
 | [1000COSAS](https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [1000COSAS](https://open.spotify.com/album/0tsruTj7W1OO3QyOLdnoBj) | 3:59 | 2024-03-08 | 2024-05-18 |
 | [12,000 km](https://open.spotify.com/track/5DnX36CDWrLguHKaZehTOy) | [Erick Brian](https://open.spotify.com/artist/4tSDK2ySq41vxwERzxVRZH) | [Btw..\. Lo Intenté](https://open.spotify.com/album/2IuLknyBgn1Fe0yhdqh0zW) | 2:56 | 2025-03-21 | 2025-05-03 |
@@ -193,7 +193,7 @@
 | [cloud 9](https://open.spotify.com/track/6o1s4iCIurJ9p8GUdJZutk) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [cloud 9](https://open.spotify.com/album/69fPMw0i7maalscSEnIhGd) | 3:12 | 2022-03-21 | 2022-05-07 |
 | [COBARDE](https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [COBARDE](https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6) | 2:46 | 2023-10-13 | 2023-12-02 |
 | [Cobardes](https://open.spotify.com/track/19MrGoBqSf0fMq3ez53ILU) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:50 | 2022-03-21 | 2022-07-26 |
-| [Coleccionando Heridas](https://open.spotify.com/track/3ddJ8Vbc5tYPxq5zKRVke6) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:24 | 2025-06-27 |  |
+| [Coleccionando Heridas](https://open.spotify.com/track/3ddJ8Vbc5tYPxq5zKRVke6) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:24 | 2025-06-27 | 2025-10-08 |
 | [COLIBRÍ](https://open.spotify.com/track/0mTeZ4upWbQrf66p3iAxkg) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [COLIBRÍ](https://open.spotify.com/album/7vt8WLdwLRU2dEfuoa0hBZ) | 3:55 | 2024-02-02 | 2024-04-06 |
 | [Colores](https://open.spotify.com/track/3cjX2kNtmCn9uP4vvxvNdK) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Colores](https://open.spotify.com/album/2Una6joFhZ97eo86LGN8k4) | 3:35 | 2022-09-09 | 2022-10-29 |
 | [Combustible](https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Combustible](https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC) | 2:46 | 2023-09-08 | 2024-03-10 |
@@ -284,6 +284,7 @@
 | [Dismorfia](https://open.spotify.com/track/6MxToHOYmYuNVMQiUtQxPX) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Dismorfia](https://open.spotify.com/album/4zKIkjiwEzaHZ2ndAHVAC4) | 2:59 | 2025-09-26 |  |
 | [Distintos](https://open.spotify.com/track/4hw9Y2bv19kOb6o02cViiF) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK), [J Heras](https://open.spotify.com/artist/3MItNga2j91Iul6BYGWEoE) | [Distintos](https://open.spotify.com/album/17tM3A86mfYvnxwq4k3xdP) | 2:44 | 2023-01-13 | 2023-01-21 |
 | [Dolía \(feat\. Las Villa\)](https://open.spotify.com/track/6tgn0I6tgzX9n38whF5Xc8) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Dolía \(feat\. Las Villa\)](https://open.spotify.com/album/1B33wszc7gVLOQW0iZHIJA) | 2:47 | 2022-07-25 | 2022-10-29 |
+| [dos dedos de frente](https://open.spotify.com/track/7unscTqHZ3UjQdvmPvBLQP) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [dos dedos de frente](https://open.spotify.com/album/6Kp8heod8OEnUnjy4MYHpZ) | 2:44 | 2025-10-07 |  |
 | [DOS VECES](https://open.spotify.com/track/1UAVfSfyJxzAM6O48jugjQ) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ) | [DOS VECES](https://open.spotify.com/album/4yZDVCsYSLFcZkJX3SltJJ) | 3:18 | 2025-04-04 | 2025-05-31 |
 | [dosextraños](https://open.spotify.com/track/3Cxbn6kSKGPCj4FkWnCOyV) | [Jeudy García](https://open.spotify.com/artist/6wpV5rsBp59VKGmUxjKtSz) | [dosextraños](https://open.spotify.com/album/3y3tkiwHLAPPJHp3Bza72E) | 3:47 | 2022-03-21 | 2022-07-02 |
 | [Duele Tanto](https://open.spotify.com/track/5aSEJUz95JqJ0mkrFOxT8M) | [Carlos Zaur](https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Duele Tanto](https://open.spotify.com/album/4rvwVifbqZhPG49LLMdQKe) | 3:13 | 2022-07-28 | 2022-10-29 |
@@ -457,6 +458,7 @@
 | [KIZAO](https://open.spotify.com/track/2ejhK0OtBe4CdfD67uqzGB) | [MILLENNIUM PARADE](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [KIZAO](https://open.spotify.com/album/6QrInZintbiWaOGfxE5RtK) | 3:40 | 2024-10-18 | 2024-11-23 |
 | [Kokeo](https://open.spotify.com/track/3ae5wSGD2kCCnUdPb0TmoS) | [Erubey](https://open.spotify.com/artist/2TXfinCMGjuBZuWsJI8YAd), [Dejota2021](https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY) | [Kokeo](https://open.spotify.com/album/5Zsf7H9Z5QMKV8GcXjQ3wC) | 3:26 | 2022-05-09 | 2022-07-29 |
 | [Ké MaL](https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ké MaL](https://open.spotify.com/album/2GHyrL2mwHWmw1vmQfCrNv) | 3:08 | 2024-07-26 | 2024-10-12 |
+| [LA 17](https://open.spotify.com/track/5VvXKI2utC5crGwOrqFppP) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [LA 17](https://open.spotify.com/album/6F9a78U2FLYGKxGRl9ca7L) | 3:04 | 2025-10-07 |  |
 | [La Carta](https://open.spotify.com/track/04FSJks8f0kAmXpE4Tk1CD) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [La Carta](https://open.spotify.com/album/3moycdz652XUwSF8jMdfVv) | 2:37 | 2022-05-06 | 2022-06-18 |
 | [LA CASA](https://open.spotify.com/track/2n1E7SJqifjfTd6RIhAZ0y) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [LA CASA](https://open.spotify.com/album/0RYFFKow3QTNAOLK2lYeeO) | 3:18 | 2025-04-11 | 2025-06-14 |
 | [la casa](https://open.spotify.com/track/4GONakAMRJAdk8e7cnmA7m) | [Nina](https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt) | [la casa](https://open.spotify.com/album/3gcuHvooUJ0xyNnWze2aVu) | 2:41 | 2025-06-06 | 2025-06-28 |

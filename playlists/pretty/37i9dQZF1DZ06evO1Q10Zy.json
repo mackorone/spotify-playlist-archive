@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 37756,
+  "num_followers": 37760,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAACVFLd0eRCNsVlg3OvYTkky",
+  "snapshot_id": "aOMGgAAAAAAh9CP1/1Bce8WQtBYxqWHY",
   "tracks": [
     {
       "added_at": null,
@@ -599,6 +599,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ruth & Boaz (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/5GH6c7rgkFzXyKgvSq6sIJ"
+      },
+      "artists": [
+        {
+          "name": "Serayah",
+          "url": "https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 79465,
+      "name": "Goodness of God",
+      "url": "https://open.spotify.com/track/0cCWlrxzlOHyx58NrWiIKi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In My Lifetime, Vol.1",
         "url": "https://open.spotify.com/album/2nJapeqTbOhnhHUhh5tzpB"
       },
@@ -671,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ruth & Boaz (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/5GH6c7rgkFzXyKgvSq6sIJ"
-      },
-      "artists": [
-        {
-          "name": "Serayah",
-          "url": "https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod"
-        },
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 79465,
-      "name": "Goodness of God",
-      "url": "https://open.spotify.com/track/0cCWlrxzlOHyx58NrWiIKi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Painted (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4tOljQq0yQqk6KaWRmAwua"
       },
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The Cool In You",
-        "url": "https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 342360,
-      "name": "And Our Feelings",
-      "url": "https://open.spotify.com/track/27sYHmgfRvHFyQ5vrm5nQp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boomerang",
         "url": "https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 301626,
       "name": "Give U My Heart (feat. Toni Braxton)",
       "url": "https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For The Cool In You",
+        "url": "https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 342360,
+      "name": "And Our Feelings",
+      "url": "https://open.spotify.com/track/27sYHmgfRvHFyQ5vrm5nQp"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grown & Sexy",
-        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 276560,
-      "name": "The Loneliness",
-      "url": "https://open.spotify.com/track/19i9vT76D5UCM5GyHe7FcW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tender Lover",
         "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 311533,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/0NbzLcQ5pXAu71lH7Xmdoe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grown & Sexy",
+        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 276560,
+      "name": "The Loneliness",
+      "url": "https://open.spotify.com/track/19i9vT76D5UCM5GyHe7FcW"
     },
     {
       "added_at": null,
@@ -915,22 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Closer Look",
-        "url": "https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 352866,
-      "name": "Two Occasions (Live) - Live Version",
-      "url": "https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 271040,
       "name": "There She Goes",
       "url": "https://open.spotify.com/track/7dO7S7cAUqTUiVRqQ2v9zh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Closer Look",
+        "url": "https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 352866,
+      "name": "Two Occasions (Live) - Live Version",
+      "url": "https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy"
     }
   ],
   "unique_name": "This Is Babyface",

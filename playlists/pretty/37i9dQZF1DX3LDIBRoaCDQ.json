@@ -1,6 +1,6 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: The Damned from DB Burkeman's <a href=\"https://www.blurringbooks.com/book/crash\"> Crash Bang</a>, a book filled with photos & culture from the late \u201970s/early \u201980s New York, LA & London punk scenes.",
-  "num_followers": 1600981,
+  "num_followers": 1601001,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Inflammable Material",
-        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
-      },
-      "artists": [
-        {
-          "name": "Stiff Little Fingers",
-          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
-        }
-      ],
-      "duration_ms": 155960,
-      "name": "Suspect Device",
-      "url": "https://open.spotify.com/track/7Ig7b1MJJKbNyTxLU6u9rZ"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Suffer",
         "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Q: Are We Not Men? A: We Are Devo!",
-        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
+        "name": "Inflammable Material",
+        "url": "https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD"
       },
       "artists": [
         {
-          "name": "DEVO",
-          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+          "name": "Stiff Little Fingers",
+          "url": "https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab"
         }
       ],
-      "duration_ms": 297733,
-      "name": "Gut Feeling / (Slap Your Mammy)",
-      "url": "https://open.spotify.com/track/2vFaBeQqDVZW9SiJeiM4LU"
+      "duration_ms": 155960,
+      "name": "Suspect Device",
+      "url": "https://open.spotify.com/track/7Ig7b1MJJKbNyTxLU6u9rZ"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -687,6 +671,22 @@
       "duration_ms": 120360,
       "name": "Hope",
       "url": "https://open.spotify.com/track/1MPEPvmX18S9MK4RlMKIst"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Q: Are We Not Men? A: We Are Devo!",
+        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
+      },
+      "artists": [
+        {
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+        }
+      ],
+      "duration_ms": 297733,
+      "name": "Gut Feeling / (Slap Your Mammy)",
+      "url": "https://open.spotify.com/track/2vFaBeQqDVZW9SiJeiM4LU"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
-        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
-      },
-      "artists": [
-        {
-          "name": "Sex Pistols",
-          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
-        }
-      ],
-      "duration_ms": 198160,
-      "name": "Pretty Vacant",
-      "url": "https://open.spotify.com/track/2mKj8Em0GLFu8I78yM1CfU"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Milo Goes to College",
         "url": "https://open.spotify.com/album/6IU592n49Rn36fpEmg9LIq"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 100600,
       "name": "Suburban Home",
       "url": "https://open.spotify.com/track/35PI5Hsq17h723EbyyDFsi"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Never Mind The Bollocks, Here's The Sex Pistols",
+        "url": "https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2"
+      },
+      "artists": [
+        {
+          "name": "Sex Pistols",
+          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
+        }
+      ],
+      "duration_ms": 198160,
+      "name": "Pretty Vacant",
+      "url": "https://open.spotify.com/track/2mKj8Em0GLFu8I78yM1CfU"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "Unknown Pleasures",
+        "url": "https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "She's Lost Control - 2007 Remaster",
+      "url": "https://open.spotify.com/track/49G0Rj1qpt75vdgiOo8QAE"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "The Scream",
         "url": "https://open.spotify.com/album/2mrlf8926IqaXziX4YomV5"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 150333,
       "name": "I Wanna Be Sedated",
       "url": "https://open.spotify.com/track/0weTorJ7HSAdi874qIFCXM"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Unknown Pleasures",
-        "url": "https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "She's Lost Control - 2007 Remaster",
-      "url": "https://open.spotify.com/track/49G0Rj1qpt75vdgiOo8QAE"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Loud, Fast, Ramones: Their Toughest Hits",
-        "url": "https://open.spotify.com/album/0Me9wrzxQGN7vZDudzlI4t"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 137400,
-      "name": "Rock 'N' Roll High School - Remastered",
-      "url": "https://open.spotify.com/track/0CZPjc07HBHxmZVvVnnHWx"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Operation Ivy",
         "url": "https://open.spotify.com/album/4qpRn6UJpBmbfRSsXzzI3e"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 134026,
       "name": "Sound System",
       "url": "https://open.spotify.com/track/7xkSwLmSHDlnNuiePDgp22"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Loud, Fast, Ramones: Their Toughest Hits",
+        "url": "https://open.spotify.com/album/0Me9wrzxQGN7vZDudzlI4t"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 137400,
+      "name": "Rock 'N' Roll High School - Remastered",
+      "url": "https://open.spotify.com/track/0CZPjc07HBHxmZVvVnnHWx"
     },
     {
       "added_at": "2024-11-29 00:00:00",

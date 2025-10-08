@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 13273,
+  "num_followers": 13276,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAAB7+8TF/YuiazicE+J1twOA",
+  "snapshot_id": "aOMGgAAAAABE7T+QDKrrsLyOjy/hFaLg",
   "tracks": [
     {
       "added_at": null,
@@ -111,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Otan",
+        "url": "https://open.spotify.com/album/35glKQJdjELPoOBIYQ1T3a"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 197045,
+      "name": "Otan",
+      "url": "https://open.spotify.com/track/40QrEzU7KQxJUViO5IF9U1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "God Over Everything",
         "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 221603,
       "name": "No Kissing Baby",
       "url": "https://open.spotify.com/track/16ygpIPe2ClOoOypX6QAuH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Otan",
-        "url": "https://open.spotify.com/album/35glKQJdjELPoOBIYQ1T3a"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 197045,
-      "name": "Otan",
-      "url": "https://open.spotify.com/track/40QrEzU7KQxJUViO5IF9U1"
     },
     {
       "added_at": null,
@@ -231,26 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lavida Loca (feat. Lasmid)",
-        "url": "https://open.spotify.com/album/36tSpQ2NiV5tpcQdXzTimB"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 159292,
-      "name": "Lavida Loca (feat. Lasmid)",
-      "url": "https://open.spotify.com/track/1u0z0PIBWpwoMtHef097fN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Till We Die",
         "url": "https://open.spotify.com/album/5qPR8jUBZNR9QCrtpuQhiV"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 180550,
       "name": "Till We Die",
       "url": "https://open.spotify.com/track/1HB8OHKrGHl1jUfIzCMLxY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lavida Loca (feat. Lasmid)",
+        "url": "https://open.spotify.com/album/36tSpQ2NiV5tpcQdXzTimB"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 159292,
+      "name": "Lavida Loca (feat. Lasmid)",
+      "url": "https://open.spotify.com/track/1u0z0PIBWpwoMtHef097fN"
     },
     {
       "added_at": null,
@@ -395,6 +395,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Highest",
+        "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Yung L",
+          "url": "https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq"
+        }
+      ],
+      "duration_ms": 201750,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/5KLFqxmGAZKj3HpGzExiZR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grind Day (Remix) [feat. Sarkodie & Medikal]",
         "url": "https://open.spotify.com/album/0OgcD1QZoeHTbxzFvBLFez"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 242860,
       "name": "Grind Day (Remix) [feat. Sarkodie & Medikal]",
       "url": "https://open.spotify.com/track/1fzWiGhmYO15nxapbpKHbm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Highest",
-        "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Yung L",
-          "url": "https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq"
-        }
-      ],
-      "duration_ms": 201750,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/5KLFqxmGAZKj3HpGzExiZR"
     },
     {
       "added_at": null,
@@ -539,6 +539,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
+        "url": "https://open.spotify.com/album/4YGITRot41cA37kXtZu4VZ"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        }
+      ],
+      "duration_ms": 195555,
+      "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
+      "url": "https://open.spotify.com/track/71aJvjD3gGV1TY7A0Ymg4m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j"
       },
@@ -575,30 +599,6 @@
       "duration_ms": 214013,
       "name": "Chingam (feat. Bisa Kdei)",
       "url": "https://open.spotify.com/track/4Ql8dfmVkKEVz0ZMnvw8xi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
-        "url": "https://open.spotify.com/album/4YGITRot41cA37kXtZu4VZ"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        },
-        {
-          "name": "Kwaku DMC",
-          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
-      "url": "https://open.spotify.com/track/71aJvjD3gGV1TY7A0Ymg4m"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sarkology",
-        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "Illuminati",
-      "url": "https://open.spotify.com/track/1ZXEvJhugYz8uBqrm4yv2c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tonga",
         "url": "https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 202346,
       "name": "Tonga",
       "url": "https://open.spotify.com/track/7ceisg9MpCeJoLaoPfyu0V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 166800,
+      "name": "Illuminati",
+      "url": "https://open.spotify.com/track/1ZXEvJhugYz8uBqrm4yv2c"
     },
     {
       "added_at": null,
@@ -939,22 +939,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Da Man",
-        "url": "https://open.spotify.com/album/5nJXQqAfjNSsNmzZAa9rQQ"
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j"
       },
       "artists": [
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
         }
       ],
-      "duration_ms": 178573,
-      "name": "Who Da Man",
-      "url": "https://open.spotify.com/track/6XJVjxcULLokcDdFtNfEBF"
+      "duration_ms": 207761,
+      "name": "Rollies and Cigars",
+      "url": "https://open.spotify.com/track/2FgCEvRPl5Fsw3DxQXc9jE"
     },
     {
       "added_at": null,
@@ -979,18 +975,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j"
+        "name": "Who Da Man",
+        "url": "https://open.spotify.com/album/5nJXQqAfjNSsNmzZAa9rQQ"
       },
       "artists": [
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
         }
       ],
-      "duration_ms": 207761,
-      "name": "Rollies and Cigars",
-      "url": "https://open.spotify.com/track/2FgCEvRPl5Fsw3DxQXc9jE"
+      "duration_ms": 178573,
+      "name": "Who Da Man",
+      "url": "https://open.spotify.com/track/6XJVjxcULLokcDdFtNfEBF"
     },
     {
       "added_at": null,

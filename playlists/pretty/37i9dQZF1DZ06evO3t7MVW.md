@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 
 > This is Stick Figure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,442 likes - 45 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,446 likes - 46 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,5 +53,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 43 | [Under Arrest](https://open.spotify.com/track/3z5vTjTWPIzyujnDVDySMT) | [Alific](https://open.spotify.com/artist/4Kv7Splj4TPpJdZkkNd78K), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Echoes From The Soul](https://open.spotify.com/album/1Yj99B7hugPMgtJHMyPNte) | 3:50 |
 | 44 | [Livin' It](https://open.spotify.com/track/7Jc9CbbxW8c1VVUIRdrpyL) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Smoke Stack](https://open.spotify.com/album/2ecSuU7MQZI5CH7Mhjxc50) | 5:59 |
 | 45 | [Showdown \(with Collie Buddz\)](https://open.spotify.com/track/3z9AA2p7kCDX8Ds8Donb7l) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 4:25 |
+| 46 | [Treasure \(with Stick Figure\)](https://open.spotify.com/track/3fpOS57qm6u5R0Pfi7JkVO) | [Stay High](https://open.spotify.com/artist/6TZ4G6EThyydgsg2VEXNio), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Treasure \(with Stick Figure\)](https://open.spotify.com/album/5xDZR9z2v4V0oLe4DmT2uS) | 3:22 |
 
-Snapshot ID: `aOG1AAAAAAAMEKcMUtdydxFrUK6fSVCl`
+Snapshot ID: `aOMGgAAAAAA4NvtfAhb2MEt5m9H7jHwk`

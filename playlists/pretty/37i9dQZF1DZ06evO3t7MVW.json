@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 91442,
+  "num_followers": 91446,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAAAMEKcMUtdydxFrUK6fSVCl",
+  "snapshot_id": "aOMGgAAAAAA4NvtfAhb2MEt5m9H7jHwk",
   "tracks": [
     {
       "added_at": null,
@@ -851,6 +851,26 @@
       "duration_ms": 265654,
       "name": "Showdown (with Collie Buddz)",
       "url": "https://open.spotify.com/track/3z9AA2p7kCDX8Ds8Donb7l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Treasure (with Stick Figure)",
+        "url": "https://open.spotify.com/album/5xDZR9z2v4V0oLe4DmT2uS"
+      },
+      "artists": [
+        {
+          "name": "Stay High",
+          "url": "https://open.spotify.com/artist/6TZ4G6EThyydgsg2VEXNio"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 202457,
+      "name": "Treasure (with Stick Figure)",
+      "url": "https://open.spotify.com/track/3fpOS57qm6u5R0Pfi7JkVO"
     }
   ],
   "unique_name": "This Is Stick Figure",

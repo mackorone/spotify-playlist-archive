@@ -1,12 +1,12 @@
 {
   "description": "This is Adam Brand. The essential tracks, all in one playlist.",
-  "num_followers": 4941,
+  "num_followers": 4940,
   "original_name": "This Is Adam Brand",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAAAj+DDpMAXh7KVPcT+KPfuV",
+  "snapshot_id": "aOMGgAAAAADv3Zi2qx9rd6ERE+50cYz5",
   "tracks": [
     {
       "added_at": null,
@@ -79,6 +79,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "What a Life",
+        "url": "https://open.spotify.com/album/5sGkXduWzw2XCG8fAfkfcJ"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "Cigarettes & Whiskey",
+      "url": "https://open.spotify.com/track/2QWEe3dQkKiGoTmptw3js1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The 25th Anniversary Album",
         "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 161875,
       "name": "Dumb Things",
       "url": "https://open.spotify.com/track/3LaakWngDrr1fx1ZC1yt1L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What a Life",
-        "url": "https://open.spotify.com/album/5sGkXduWzw2XCG8fAfkfcJ"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "Cigarettes & Whiskey",
-      "url": "https://open.spotify.com/track/2QWEe3dQkKiGoTmptw3js1"
     },
     {
       "added_at": null,
@@ -615,6 +615,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Get On Your Feet",
+        "url": "https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 248746,
+      "name": "If Heaven Has a Soundtrack",
+      "url": "https://open.spotify.com/track/4PDqTf0wLEsF9UgVaiNoHb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Loud",
+        "url": "https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 174160,
+      "name": "Number 34",
+      "url": "https://open.spotify.com/track/1AQDUCqkSosRRxKa7q1gls"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Speed of Life",
+        "url": "https://open.spotify.com/album/3839iZRfCQ9mZgkCrAeLng"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 182140,
+      "name": "Speed of Life",
+      "url": "https://open.spotify.com/track/5SmXdvyjUWTDVIdS9mgJdT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Oxygen",
         "url": "https://open.spotify.com/album/30EVdt1AjTXmPDeHDBnxZv"
       },
@@ -651,90 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Speed of Life",
-        "url": "https://open.spotify.com/album/3839iZRfCQ9mZgkCrAeLng"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 182140,
-      "name": "Speed of Life",
-      "url": "https://open.spotify.com/track/5SmXdvyjUWTDVIdS9mgJdT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Loud",
-        "url": "https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 174160,
-      "name": "Number 34",
-      "url": "https://open.spotify.com/track/1AQDUCqkSosRRxKa7q1gls"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Side of the Street",
-        "url": "https://open.spotify.com/album/6oGvE1KPgvRNJnHJ3dshMF"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 194333,
-      "name": "Hearts I Leave Behind",
-      "url": "https://open.spotify.com/track/1XRAMlvsJa0frnT5So3Fho"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get On Your Feet",
-        "url": "https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 248746,
-      "name": "If Heaven Has a Soundtrack",
-      "url": "https://open.spotify.com/track/4PDqTf0wLEsF9UgVaiNoHb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adam Brand and The Outlaws",
-        "url": "https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        },
-        {
-          "name": "The Outlaws",
-          "url": "https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Good Year for the Outlaw",
-      "url": "https://open.spotify.com/track/1zow1J6ivxXvaqyEYmxbn4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Is A Highway",
         "url": "https://open.spotify.com/album/4eGhBqwEyI7ZCKprqu4dK7"
       },
@@ -755,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adam Brand",
-        "url": "https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK"
+        "name": "My Side of the Street",
+        "url": "https://open.spotify.com/album/6oGvE1KPgvRNJnHJ3dshMF"
       },
       "artists": [
         {
@@ -764,9 +728,29 @@
           "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
         }
       ],
-      "duration_ms": 218666,
-      "name": "Love Away The Night",
-      "url": "https://open.spotify.com/track/6AyfvtOk91Iyaa4sfEo9jJ"
+      "duration_ms": 194333,
+      "name": "Hearts I Leave Behind",
+      "url": "https://open.spotify.com/track/1XRAMlvsJa0frnT5So3Fho"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adam Brand and The Outlaws",
+        "url": "https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        },
+        {
+          "name": "The Outlaws",
+          "url": "https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "Good Year for the Outlaw",
+      "url": "https://open.spotify.com/track/1zow1J6ivxXvaqyEYmxbn4"
     },
     {
       "added_at": null,
@@ -807,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adam Brand",
+        "url": "https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Love Away The Night",
+      "url": "https://open.spotify.com/track/6AyfvtOk91Iyaa4sfEo9jJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Few Good Years Left Yet",
         "url": "https://open.spotify.com/album/4nbYOTRfsQMshTEJiIscJI"
       },
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adam Brand",
-        "url": "https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "Feelin' Single Seein' Double",
-      "url": "https://open.spotify.com/track/30BAraUYTBkeE7tVfaQ2Xz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adam Brand and The Outlaws",
         "url": "https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 208386,
       "name": "Mamma Don't Let Your Babies",
       "url": "https://open.spotify.com/track/3H5oawvGT6dOQhDdhyiypw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adam Brand",
+        "url": "https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "Feelin' Single Seein' Double",
+      "url": "https://open.spotify.com/track/30BAraUYTBkeE7tVfaQ2Xz"
     },
     {
       "added_at": null,

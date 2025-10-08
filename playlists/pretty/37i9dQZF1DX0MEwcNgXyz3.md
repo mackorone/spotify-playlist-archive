@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 
 > The prince and Simon are determined to be together, but will they jeopardize their freedom and love in conflict with Royal ideals, traditions, and responsibilities?? Young Royals season 3, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,685 likes - 103 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,670 likes - 103 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 | 68 | [My Awe Sustains](https://open.spotify.com/track/2Hh8sSdW6fA9BnbBRxXwP8) | [ARY](https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM) | [For Evig](https://open.spotify.com/album/1WD76mtxpubTxXkuC7lN7o) | 4:26 |
 | 69 | [Run Boy Run](https://open.spotify.com/track/26jIBBZgevyNUpPU2G2ru5) | [Snake City](https://open.spotify.com/artist/7sSkoIWGzQXQC3Pvex07KM) | [Run Boy Run](https://open.spotify.com/album/23xRDRYiptqM73T2t0lVX4) | 3:22 |
 | 70 | [Mirror](https://open.spotify.com/track/1eqzV7D24h0bLF5rJyO8It) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Ravage](https://open.spotify.com/album/6dvDfQcy2wY0G6sUjkfYpu) | 4:05 |
-| 71 | [Holy](https://open.spotify.com/track/7CnQZYzZpSrw8RnOPJI9vg) | [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf) | [Holy, Endlessly Sad, Love](https://open.spotify.com/album/2b4iVeqxFtBpyfMBUiqPaM) | 3:19 |
+| 71 | [Holy \- Young Royals Mix](https://open.spotify.com/track/7CnQZYzZpSrw8RnOPJI9vg) | [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf) | [Holy, Endlessly Sad, Love](https://open.spotify.com/album/2b4iVeqxFtBpyfMBUiqPaM) | 3:19 |
 | 72 | [Revolution](https://open.spotify.com/track/7iceFyXQeIaDuIxIlJZrGB) | [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf) | [Entwined](https://open.spotify.com/album/0ysbz1S6Ml5PdyN4qqsj94) | 4:20 |
 | 73 | [Wannabe Ghetto](https://open.spotify.com/track/612n5mfSOqNxM4WuNtJJ9j) | [FATA BOOM](https://open.spotify.com/artist/4GioeqLGgBkn9rRB12bor4) | [Constricted](https://open.spotify.com/album/35LbJWourhMwBwiHjDDxii) | 3:35 |
 | 74 | [Impatient](https://open.spotify.com/track/1OJHLAz9ryVZDryqbp4ofc) | [Duvchi](https://open.spotify.com/artist/0Pv1zES3REvZ4OuYrW2tGc) | [Impatient](https://open.spotify.com/album/3xMxG92CAAqLurqVZC8TeD) | 3:39 |

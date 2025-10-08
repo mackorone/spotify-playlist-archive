@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 47518,
+  "num_followers": 47527,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Helen Merrill With Strings",
-        "url": "https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG"
-      },
-      "artists": [
-        {
-          "name": "Helen Merrill",
-          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "Anything Goes",
-      "url": "https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Ellis In Wonderland",
         "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 224320,
       "name": "It Could Happen To You",
       "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Helen Merrill With Strings",
+        "url": "https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG"
+      },
+      "artists": [
+        {
+          "name": "Helen Merrill",
+          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "Anything Goes",
+      "url": "https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/7rs02j1JLO1fZgOPrkuy0D"
     },
     {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "The Very Best of Chris Botti",
-        "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
-      },
-      "artists": [
-        {
-          "name": "Chris Botti",
-          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
-        }
-      ],
-      "duration_ms": 299066,
-      "name": "First Wish",
-      "url": "https://open.spotify.com/track/3vOXI61BAwIaUDJG4E6Oq6"
-    },
-    {
       "added_at": "2019-10-02 08:54:10",
       "album": {
         "name": "The Complete Verve Singles",
@@ -759,6 +743,22 @@
       "duration_ms": 149560,
       "name": "Funky Broadway",
       "url": "https://open.spotify.com/track/2CAgx55oNmNRUjC1XKNDe4"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "The Very Best of Chris Botti",
+        "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
+      },
+      "artists": [
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+        }
+      ],
+      "duration_ms": 299066,
+      "name": "First Wish",
+      "url": "https://open.spotify.com/track/3vOXI61BAwIaUDJG4E6Oq6"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -797,38 +797,6 @@
       "url": "https://open.spotify.com/track/41QzbYkCxCe5MgnK1SQdzi"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Trio 64",
-        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 275133,
-      "name": "Dancing In The Dark",
-      "url": "https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "The Very Best of Chris Botti",
-        "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
-      },
-      "artists": [
-        {
-          "name": "Chris Botti",
-          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
-        }
-      ],
-      "duration_ms": 277466,
-      "name": "Worlds Outside",
-      "url": "https://open.spotify.com/track/5as828xQewhAy2JBXwakAj"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Motion",
@@ -859,6 +827,38 @@
       "duration_ms": 484293,
       "name": "Norwegian Wood",
       "url": "https://open.spotify.com/track/4VqSbmpTxOgRU2MQoa6CSC"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Very Best of Chris Botti",
+        "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
+      },
+      "artists": [
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+        }
+      ],
+      "duration_ms": 277466,
+      "name": "Worlds Outside",
+      "url": "https://open.spotify.com/track/5as828xQewhAy2JBXwakAj"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 275133,
+      "name": "Dancing In The Dark",
+      "url": "https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1181,6 +1181,22 @@
       "url": "https://open.spotify.com/track/04ctxBgUXc3Tj6I4ufWPSZ"
     },
     {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Birks Works: The Verve Big-Band Sessions",
+        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie Sextet",
+          "url": "https://open.spotify.com/artist/3LZnEYR8H7Odg793sSJbmU"
+        }
+      ],
+      "duration_ms": 175800,
+      "name": "I Can't Get Started",
+      "url": "https://open.spotify.com/track/24pCNUnKGmlG9MEzYkgBR1"
+    },
+    {
       "added_at": "2019-10-02 08:54:10",
       "album": {
         "name": "Buddy Defranco And Oscar Peterson Play George Gershwin",
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Birks Works: The Verve Big-Band Sessions",
-        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie Sextet",
-          "url": "https://open.spotify.com/artist/3LZnEYR8H7Odg793sSJbmU"
-        }
-      ],
-      "duration_ms": 175800,
-      "name": "I Can't Get Started",
-      "url": "https://open.spotify.com/track/24pCNUnKGmlG9MEzYkgBR1"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
         "name": "Family",
         "url": "https://open.spotify.com/album/2IO0hnGQwsgLU9INxaRPeU"
       },
@@ -1231,22 +1231,6 @@
       "duration_ms": 296666,
       "name": "Brian's Bounce",
       "url": "https://open.spotify.com/track/59zZ0qR1n8rbNwMIy3G922"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "The Complete Verve Studio Sessions",
-        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
-      },
-      "artists": [
-        {
-          "name": "Roy Eldridge",
-          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Somebody Loves Me",
-      "url": "https://open.spotify.com/track/30VONnonLwftL8WeCopyLt"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1263,6 +1247,22 @@
       "duration_ms": 254533,
       "name": "People Get Ready",
       "url": "https://open.spotify.com/track/5Ms4U6Z2cDqkENFZ52VkTc"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Complete Verve Studio Sessions",
+        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
+      },
+      "artists": [
+        {
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Somebody Loves Me",
+      "url": "https://open.spotify.com/track/30VONnonLwftL8WeCopyLt"
     },
     {
       "added_at": "2019-10-02 08:54:10",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Rubby Pérez
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,003 likes - 150 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,002 likes - 150 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 49 | [Ya Te Olvide](https://open.spotify.com/track/6xd0vZYhV9i7ygKsis78ur) | [Los Sabrosos Del Merengue](https://open.spotify.com/artist/6cQ6bUnF957mB2mGsYC2gW) | [Manuel, Solo Y Con Los Sabrosos Del Merengue](https://open.spotify.com/album/628ElMDQrbp9cRZku3MoiH) | 4:46 |
 | 50 | [Pecadora](https://open.spotify.com/track/33aCdZSDr7tpFnqsIuMPJK) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 4:32 |
 | 51 | [Como Te Extraño Mi Amor](https://open.spotify.com/track/4oSI0AAcCt4YlLnAwGkuEt) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues](https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp) | 4:37 |
-| 52 | [Llego Tu Marido](https://open.spotify.com/track/2vHdz2ZLgw4Xj17WBlzERL) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [20 Exitos](https://open.spotify.com/album/6SW9ZiQmj0CY6GxMfHE47w) | 5:04 |
-| 53 | [Dominicano Ausente](https://open.spotify.com/track/19McMfrjItYsAIu8Cx3pcc) | [El Zafiro Carlos Manuel & Orquesta](https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6) | [Con el Alma](https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA) | 3:49 |
+| 52 | [Dominicano Ausente](https://open.spotify.com/track/19McMfrjItYsAIu8Cx3pcc) | [El Zafiro Carlos Manuel & Orquesta](https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6) | [Con el Alma](https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA) | 3:49 |
+| 53 | [Llego Tu Marido](https://open.spotify.com/track/2vHdz2ZLgw4Xj17WBlzERL) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [20 Exitos](https://open.spotify.com/album/6SW9ZiQmj0CY6GxMfHE47w) | 5:04 |
 | 54 | [Te Amo](https://open.spotify.com/track/3yuzcl3CtbWiOQN6SvDARl) | [Los Sabrosos Del Merengue](https://open.spotify.com/artist/6cQ6bUnF957mB2mGsYC2gW) | [Canta Manny Manuel](https://open.spotify.com/album/3vwIQeG3V6CFGkGj0FndWK) | 4:47 |
 | 55 | [El Lapiz](https://open.spotify.com/track/0EMagXNeh6grgZZRpWwDtO) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 3:41 |
 | 56 | [Medley](https://open.spotify.com/track/1l2ut2x4bsqtQmhthQmjpD) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues](https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp) | 4:38 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 
 > Pump up your adrenaline with Punjabi hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,360 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,562 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 | 9 | [I'ma Do My Thiiing](https://open.spotify.com/track/2zIwRUw5iCpgElrEMdPHJm) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:13 |
 | 10 | [Gandasa](https://open.spotify.com/track/6GG4lSyFgj1i2OO9AVgsd7) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [Gandasa](https://open.spotify.com/album/0KWSoiZauWkXFzIyikODKF) | 2:28 |
 | 11 | [Pols](https://open.spotify.com/track/4EpKRtkdwOQGmX1YCDsq1d) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Pols](https://open.spotify.com/album/0dKep1k5qQFGZnW7ZYEXmD) | 2:00 |
-| 12 | [Lala Lala](https://open.spotify.com/track/0bpCU4vY6sf3WNNq88w7nT) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Lala Lala](https://open.spotify.com/album/1HNjofemPzIaYikUdusDJt) | 2:24 |
-| 13 | [I'm So Rich \(Feat\. Nora Fatehi\)](https://open.spotify.com/track/6DLu7Xxa4ZoBHsvoqjC0HT) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 2:52 |
-| 14 | [PANJAB](https://open.spotify.com/track/7whjXmPLiNJJkzblCU9d4B) | [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [4TheWorld](https://open.spotify.com/artist/1NmxtNejR6ZXZUFcEyrBm1) | [PANJAB](https://open.spotify.com/album/584j4Wpkz7gxuwsXpchI79) | 2:50 |
+| 12 | [Rajdhani \(From "Rajdhani"\)](https://open.spotify.com/track/43jPP7W1IHpXxvRX1C631C) | [Dilraj Grewal](https://open.spotify.com/artist/4K57exUc4hdq6l4iaGyTrT), [Sembhy K](https://open.spotify.com/artist/58P1REavgwGHXITn2j4MGo), [Pardeep Malak](https://open.spotify.com/artist/2adVNkNRt1fiCW4vIeK2NO) | [Rajdhani \(From "Rajdhani"\)](https://open.spotify.com/album/78sxzzOWeMwOSqB5tRiyv1) | 2:32 |
+| 13 | [Lala Lala](https://open.spotify.com/track/0bpCU4vY6sf3WNNq88w7nT) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Lala Lala](https://open.spotify.com/album/1HNjofemPzIaYikUdusDJt) | 2:24 |
+| 14 | [I'm So Rich \(Feat\. Nora Fatehi\)](https://open.spotify.com/track/6DLu7Xxa4ZoBHsvoqjC0HT) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 2:52 |
 | 15 | [Sprint](https://open.spotify.com/track/4uVHPXRi01Zro1IBbJyOMF) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [House Navior](https://open.spotify.com/album/1YrHBFW9Wk9KjrEsecqKh4) | 3:30 |
 | 16 | [Safety Off](https://open.spotify.com/track/3NwmvlTYDZPRBGDMGgJH8K) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 2:23 |
 | 17 | [Brats](https://open.spotify.com/track/4vMnHQn0BjpBkHgzaJtqdQ) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Patandar](https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 | 49 | [RYDE OR DIE](https://open.spotify.com/track/7Gc2WlXhHEzYrlGl77tYag) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [A KID FROM GURDASPUR](https://open.spotify.com/album/6MBBnnY5Kacck7ATbIVTcJ) | 2:15 |
 | 50 | [Majhail](https://open.spotify.com/track/4U9gsMBTcBwMosyBxJC9Al) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Majhail](https://open.spotify.com/album/51nwNRYw6uBFk7n4GVanoB) | 2:44 |
 
-Snapshot ID: `AAAAAIsmmqyzKrRyk1H6bgHx8zZDedKg`
+Snapshot ID: `AAAAAEUqkcEVKlpwEKTgA0yPzIN3xQDZ`

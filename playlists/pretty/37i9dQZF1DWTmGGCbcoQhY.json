@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1379175,
+  "num_followers": 1379287,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
+        "name": "Ilusi\u00f3n y M\u00e1s Ilusi\u00f3n",
+        "url": "https://open.spotify.com/album/4mLoZZEfZ9TC9q5AmikXB9"
+      },
+      "artists": [
+        {
+          "name": "Cuerdas De Venezuela",
+          "url": "https://open.spotify.com/artist/3lmP34nf7TS7DuCpmcdUMy"
+        }
+      ],
+      "duration_ms": 177093,
+      "name": "Ilusi\u00f3n",
+      "url": "https://open.spotify.com/track/2PzXc0FEgMEi08IAUuSr8H"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
         "name": "El Final De Nuestra Historia",
         "url": "https://open.spotify.com/album/2U9DusHrxN3ni4l6hGZOCu"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 235853,
       "name": "El Final De Nuestra Historia",
       "url": "https://open.spotify.com/track/4lSHY97TsrsOn0cqBkUrDs"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
-        "name": "Ilusi\u00f3n y M\u00e1s Ilusi\u00f3n",
-        "url": "https://open.spotify.com/album/4mLoZZEfZ9TC9q5AmikXB9"
-      },
-      "artists": [
-        {
-          "name": "Cuerdas De Venezuela",
-          "url": "https://open.spotify.com/artist/3lmP34nf7TS7DuCpmcdUMy"
-        }
-      ],
-      "duration_ms": 177093,
-      "name": "Ilusi\u00f3n",
-      "url": "https://open.spotify.com/track/2PzXc0FEgMEi08IAUuSr8H"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -719,6 +719,22 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
+        "name": "Super Grupo Colombia",
+        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
+      },
+      "artists": [
+        {
+          "name": "Super Grupo Colombia",
+          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
+        }
+      ],
+      "duration_ms": 252679,
+      "name": "Cumbia Del Chinito",
+      "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
         "name": "Si Te Hubieras Quedado",
         "url": "https://open.spotify.com/album/6hzxNwknOcWOvoVlCQk08F"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 278931,
       "name": "Si Te Hubieras Quedado",
       "url": "https://open.spotify.com/track/2lxgLyM4PgdRb1E7jrSfaZ"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
-        "name": "Super Grupo Colombia",
-        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
-      },
-      "artists": [
-        {
-          "name": "Super Grupo Colombia",
-          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
-        }
-      ],
-      "duration_ms": 252679,
-      "name": "Cumbia Del Chinito",
-      "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Lo Mas Ka-Bron Sonidero",
-        "url": "https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA"
-      },
-      "artists": [
-        {
-          "name": "Kual",
-          "url": "https://open.spotify.com/artist/0MYzX59ADPWfK15pDNZzuo"
-        }
-      ],
-      "duration_ms": 300906,
-      "name": "Soy Maraquero",
-      "url": "https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "Un Monton De Estrellas",
         "url": "https://open.spotify.com/album/42oEsxcnZj483G6zXYWpcH"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 283678,
       "name": "La Triste Despedida",
       "url": "https://open.spotify.com/track/6mfl8ppmtBBtmv2sSPVkif"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Lo Mas Ka-Bron Sonidero",
+        "url": "https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA"
+      },
+      "artists": [
+        {
+          "name": "Kual",
+          "url": "https://open.spotify.com/artist/0MYzX59ADPWfK15pDNZzuo"
+        }
+      ],
+      "duration_ms": 300906,
+      "name": "Soy Maraquero",
+      "url": "https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "Cumbias de Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/3vUBhhUFYjEC84W5cUpBhw"
-      },
-      "artists": [
-        {
-          "name": "Claudio Mor\u00e1n",
-          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
-        }
-      ],
-      "duration_ms": 243986,
-      "name": "So\u00f1e Contigo",
-      "url": "https://open.spotify.com/track/4TODthHaTIikA7zyVMBaEk"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "Gran Encuentro",
         "url": "https://open.spotify.com/album/0vIKDr74lkdvjJwHjvcP9L"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 215000,
       "name": "Espacial",
       "url": "https://open.spotify.com/track/1empPjAI5SfG0Qk8RXzHj8"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "Cumbias de Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/3vUBhhUFYjEC84W5cUpBhw"
+      },
+      "artists": [
+        {
+          "name": "Claudio Mor\u00e1n",
+          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
+        }
+      ],
+      "duration_ms": 243986,
+      "name": "So\u00f1e Contigo",
+      "url": "https://open.spotify.com/track/4TODthHaTIikA7zyVMBaEk"
     },
     {
       "added_at": "2025-05-16 06:00:15",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-05-16 06:00:15",
       "album": {
-        "name": "El Sonido Joven De La Cumbia",
-        "url": "https://open.spotify.com/album/5JEU6bHi5pXsQwNMjOA5Hr"
-      },
-      "artists": [
-        {
-          "name": "Arturo Jaimes Y Los Cantantes",
-          "url": "https://open.spotify.com/artist/4LOxW5D6hIgOAAOh1jedrx"
-        }
-      ],
-      "duration_ms": 211533,
-      "name": "Fue En Diciembre",
-      "url": "https://open.spotify.com/track/4WaMR6uG9JwxhVaO5nc5U9"
-    },
-    {
-      "added_at": "2025-05-16 06:00:15",
-      "album": {
         "name": "Mi Otra Mitad",
         "url": "https://open.spotify.com/album/0gtkL0OqqDGkXlqqDDk2JM"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 254240,
       "name": "Mi Otra Mitad",
       "url": "https://open.spotify.com/track/0xCANaLk8F91mIUdOm3ljG"
+    },
+    {
+      "added_at": "2025-05-16 06:00:15",
+      "album": {
+        "name": "El Sonido Joven De La Cumbia",
+        "url": "https://open.spotify.com/album/5JEU6bHi5pXsQwNMjOA5Hr"
+      },
+      "artists": [
+        {
+          "name": "Arturo Jaimes Y Los Cantantes",
+          "url": "https://open.spotify.com/artist/4LOxW5D6hIgOAAOh1jedrx"
+        }
+      ],
+      "duration_ms": 211533,
+      "name": "Fue En Diciembre",
+      "url": "https://open.spotify.com/track/4WaMR6uG9JwxhVaO5nc5U9"
     },
     {
       "added_at": "2025-05-16 06:00:15",

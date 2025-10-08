@@ -1,12 +1,12 @@
 {
   "description": "This is Nana Mizuki. The essential tracks, all in one playlist.",
-  "num_followers": 27681,
+  "num_followers": 27683,
   "original_name": "This Is Nana Mizuki",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAABPZZZKTNYVicgPVVf/5bmn",
+  "snapshot_id": "aOMGgAAAAAAze6bR5G1S0BSKP7D4QAZs",
   "tracks": [
     {
       "added_at": null,
@@ -147,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "METANOIA",
-        "url": "https://open.spotify.com/album/2dTATpcLTVwwestFBVO8v7"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 275765,
-      "name": "METANOIA",
-      "url": "https://open.spotify.com/track/1pu0l2CLyOBzI9SRdqOqTV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "IMPACT EXCITER",
         "url": "https://open.spotify.com/album/7eRju7cXN0JfW34mqwVeUA"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 296666,
       "name": "\u604b\u306e\u6291\u6b62\u529b-type EXCITER-",
       "url": "https://open.spotify.com/track/4THfcBq4kEdHsTOEqcbrmW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "METANOIA",
+        "url": "https://open.spotify.com/album/2dTATpcLTVwwestFBVO8v7"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 275765,
+      "name": "METANOIA",
+      "url": "https://open.spotify.com/track/1pu0l2CLyOBzI9SRdqOqTV"
     },
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SMASHING ANTHEMS",
-        "url": "https://open.spotify.com/album/0ebMgBTomQnd3WNUpjnLlK"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 316280,
-      "name": "Glorious Break",
-      "url": "https://open.spotify.com/track/5xlXHQM8bPlQU9LCnYiPOY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FINAL COMMANDER",
         "url": "https://open.spotify.com/album/79ZMg93RW0DUIG6flJDOJ1"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 262403,
       "name": "FINAL COMMANDER",
       "url": "https://open.spotify.com/track/4BmDMzDL8rpgMcCTHQCJEr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SMASHING ANTHEMS",
+        "url": "https://open.spotify.com/album/0ebMgBTomQnd3WNUpjnLlK"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 316280,
+      "name": "Glorious Break",
+      "url": "https://open.spotify.com/track/5xlXHQM8bPlQU9LCnYiPOY"
     },
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CONTEMPORARY EMOTION",
-        "url": "https://open.spotify.com/album/01KRguA9zLTOZeutYFHsbZ"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 190520,
-      "name": "\u62cd\u52d5",
-      "url": "https://open.spotify.com/track/0zn5uqcWGguTDw5c7tIHMB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HYBRID UNIVERSE",
         "url": "https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 251026,
       "name": "WILD EYES",
       "url": "https://open.spotify.com/track/0qAetyyxDZxgFR1EQrOK7p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CONTEMPORARY EMOTION",
+        "url": "https://open.spotify.com/album/01KRguA9zLTOZeutYFHsbZ"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 190520,
+      "name": "\u62cd\u52d5",
+      "url": "https://open.spotify.com/track/0zn5uqcWGguTDw5c7tIHMB"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destiny's Prelude",
-        "url": "https://open.spotify.com/album/4On0OykKYCMhJK4fGOySNs"
+        "name": "HYBRID UNIVERSE",
+        "url": "https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 267813,
-      "name": "Invisible Heat",
-      "url": "https://open.spotify.com/track/6Q85RKm3uVg8pvwbxFTZzv"
+      "duration_ms": 324586,
+      "name": "BRAVE PHOENIX",
+      "url": "https://open.spotify.com/track/190ZA5j2gi1uoFmjEPHFOZ"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HYBRID UNIVERSE",
-        "url": "https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk"
+        "name": "Destiny's Prelude",
+        "url": "https://open.spotify.com/album/4On0OykKYCMhJK4fGOySNs"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 324586,
-      "name": "BRAVE PHOENIX",
-      "url": "https://open.spotify.com/track/190ZA5j2gi1uoFmjEPHFOZ"
+      "duration_ms": 267813,
+      "name": "Invisible Heat",
+      "url": "https://open.spotify.com/track/6Q85RKm3uVg8pvwbxFTZzv"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn the World",
-        "url": "https://open.spotify.com/album/14urutw4gdRPSWG2J40X5F"
+        "name": "Get up! Shout!",
+        "url": "https://open.spotify.com/album/0iVDWHViURVVmw3cw5gVMF"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 243600,
-      "name": "Turn the World",
-      "url": "https://open.spotify.com/track/1tZDf3bRkGIWYWz5Vme7uW"
+      "duration_ms": 250118,
+      "name": "Get up! Shout!",
+      "url": "https://open.spotify.com/track/2FTt8Qkc04fcRZzwDEsNrh"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get up! Shout!",
-        "url": "https://open.spotify.com/album/0iVDWHViURVVmw3cw5gVMF"
+        "name": "NEVER SURRENDER",
+        "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 250118,
-      "name": "Get up! Shout!",
-      "url": "https://open.spotify.com/track/2FTt8Qkc04fcRZzwDEsNrh"
+      "duration_ms": 239000,
+      "name": "GET BACK",
+      "url": "https://open.spotify.com/track/5g7FmSxZZX7psWFi1HtgB4"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEVER SURRENDER",
-        "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
+        "name": "Turn the World",
+        "url": "https://open.spotify.com/album/14urutw4gdRPSWG2J40X5F"
       },
       "artists": [
         {
@@ -748,25 +748,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 239000,
-      "name": "GET BACK",
-      "url": "https://open.spotify.com/track/5g7FmSxZZX7psWFi1HtgB4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SUPERNAL LIBERTY",
-        "url": "https://open.spotify.com/album/3JZgRA7BTYogkdQu8OboVt"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 284400,
-      "name": "Vitalization-Aufwachen Form-",
-      "url": "https://open.spotify.com/track/1kAaJgbvrsltMvjFPQiC1I"
+      "duration_ms": 243600,
+      "name": "Turn the World",
+      "url": "https://open.spotify.com/track/1tZDf3bRkGIWYWz5Vme7uW"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
       "duration_ms": 254253,
       "name": "FEARLESS HERO",
       "url": "https://open.spotify.com/track/6aSOAkhrHgGv4hzDhnIm50"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SUPERNAL LIBERTY",
+        "url": "https://open.spotify.com/album/3JZgRA7BTYogkdQu8OboVt"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 284400,
+      "name": "Vitalization-Aufwachen Form-",
+      "url": "https://open.spotify.com/track/1kAaJgbvrsltMvjFPQiC1I"
     },
     {
       "added_at": null,

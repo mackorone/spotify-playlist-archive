@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1J94eA.md) - [plain]
 
 > This is Herbie Hancock\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,591 likes - 50 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,604 likes - 50 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1J94eA.md) - [plain]
 | 21 | [Oh! Oh! Here He Comes](https://open.spotify.com/track/01LokOj8KafA7BgBXGIelI) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Fat Albert Rotunda](https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE) | 4:08 |
 | 22 | [The Man I Love](https://open.spotify.com/track/0L1S8G9IuCssiPQgr0uEBo) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Gershwin's World](https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG) | 5:56 |
 | 23 | [Don't give up](https://open.spotify.com/track/6tNodrmrsA206cZ0MTJNFN) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [The Imagine Project](https://open.spotify.com/album/418IYElTJziJTcSaxJy2PA) | 7:28 |
-| 24 | [Speak Like A Child](https://open.spotify.com/track/6GSBBmqOX009TUtParZf2a) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Speak Like A Child \(Expanded Edition\)](https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r) | 7:50 |
+| 24 | [Sly](https://open.spotify.com/track/4WyVRn3L2uXnSUkY762gqN) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 10:15 |
 | 25 | [Wiggle Waggle](https://open.spotify.com/track/2akqjwBZxyDIEJEJXq4Cvx) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Fat Albert Rotunda](https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE) | 5:51 |
-| 26 | [Bal d’âme](https://open.spotify.com/track/3UQQNQMvK8LG2Edu3bLHKB) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx), [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Street of Minarets](https://open.spotify.com/album/6WYbU1sKldxrr2utsPRbKx) | 4:19 |
-| 27 | [Sly](https://open.spotify.com/track/4WyVRn3L2uXnSUkY762gqN) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 10:15 |
+| 26 | [Speak Like A Child](https://open.spotify.com/track/6GSBBmqOX009TUtParZf2a) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Speak Like A Child \(Expanded Edition\)](https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r) | 7:50 |
+| 27 | [Bal d’âme](https://open.spotify.com/track/3UQQNQMvK8LG2Edu3bLHKB) | [Dhafer Youssef](https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx), [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Street of Minarets](https://open.spotify.com/album/6WYbU1sKldxrr2utsPRbKx) | 4:19 |
 | 28 | ['Round Midnight](https://open.spotify.com/track/4wZqLKnxKcZXTLLwfh0lpp) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | ['Round Midnight \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i) | 5:36 |
 | 29 | [Blind Man, Blind Man](https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [My Point Of View \(Expanded Edition\)](https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh) | 8:19 |
 | 30 | [The Maze \- Remastered 2007](https://open.spotify.com/track/65CdHWCm59ybWzrLEnjKuQ) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 6:48 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1J94eA.md) - [plain]
 | 43 | [It Ain't Necessarily So](https://open.spotify.com/track/1yebi3DYxcHXzSFjbeLGMP) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Gershwin's World](https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG) | 4:46 |
 | 44 | [Textures](https://open.spotify.com/track/6wyjGiFFJMNxFyY4h0ttYY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Mr\. Hands](https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5) | 6:38 |
 | 45 | [Oliloqui Valley \- Remastered](https://open.spotify.com/track/3NYiJLsWCBMBekvF6J4s0B) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 8:30 |
-| 46 | [Hang Up Your Hang Ups](https://open.spotify.com/track/22G8rQDLJTeJzjQWXZErre) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Man\-Child](https://open.spotify.com/album/5ez9bb1h1hOLV8Wb5YCmkj) | 7:26 |
-| 47 | [Stars in Your Eyes](https://open.spotify.com/track/3VWsDvM1GGEp9OYYlphhi3) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Monster](https://open.spotify.com/album/42qcX8LprsyIPdjzlQyZ8e) | 7:04 |
+| 46 | [Stars in Your Eyes](https://open.spotify.com/track/3VWsDvM1GGEp9OYYlphhi3) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Monster](https://open.spotify.com/album/42qcX8LprsyIPdjzlQyZ8e) | 7:04 |
+| 47 | [Hang Up Your Hang Ups](https://open.spotify.com/track/22G8rQDLJTeJzjQWXZErre) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Man\-Child](https://open.spotify.com/album/5ez9bb1h1hOLV8Wb5YCmkj) | 7:26 |
 | 48 | [Vein Melter](https://open.spotify.com/track/6c0ziyel6ZMTQ37vKRooGZ) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 9:09 |
 | 49 | [Motor Mouth](https://open.spotify.com/track/5o52ef5vqoDQ2BQz8BEVWP) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Lite Me Up](https://open.spotify.com/album/5LsdfUYg3pWMyjoyAnS3fE) | 3:58 |
 | 50 | [My Man's Gone Now](https://open.spotify.com/track/02Ma3Y0oxEfBDEfJj4EhMg) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Gershwin's World](https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG) | 1:55 |
 
-Snapshot ID: `aOG1AAAAAAAbimizm0x9ByGZ8P4YdmEs`
+Snapshot ID: `aOMGgAAAAACCm6pOKUhbQJRHzx1FXtwq`

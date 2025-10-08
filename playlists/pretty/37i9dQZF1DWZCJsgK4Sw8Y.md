@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 
 > Leave no rock undiscovered and explore the essential foundations of Christian rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,947 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,937 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 | 32 | [Fading](https://open.spotify.com/track/6JvEDa0gyoQ6XkmUrLpMwU) | [Decyfer Down](https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B) | [Crash](https://open.spotify.com/album/6EXEpRGL3vNulelPB5HZKc) | 4:11 |
 | 33 | [To Hell with the Devil](https://open.spotify.com/track/4t8OmZERfkdkRr4aoYa2h1) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [To Hell With The Devil](https://open.spotify.com/album/4LAVjeUmJl3h3U44sMRrfm) | 4:04 |
 | 34 | [Kings & Queens](https://open.spotify.com/track/3N8L7MZktWeZquTAWQ2oY8) | [Audio Adrenaline](https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER) | [Kings & Queens](https://open.spotify.com/album/1NcSOkBUqSXxFiRZxSL24d) | 3:49 |
-| 35 | [Never Alone](https://open.spotify.com/track/6kKIcMRhwxJ1XTnfapaqhL) | [BarlowGirl](https://open.spotify.com/artist/3VMSmJURVM7s6LkrIaPZvi) | [BarlowGirl](https://open.spotify.com/album/4V1yueAEbtS4K2ZvIjvSXr) | 4:30 |
-| 36 | [Take the Bullets Away \(feat\. Lacey Sturm\)](https://open.spotify.com/track/1FgFXxPsmUmiJMoJNi8idR) | [We As Human](https://open.spotify.com/artist/6FFTGpuvFDztqTz4t1Hqy9), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [We As Human](https://open.spotify.com/album/79dn7GARLrAgKx28cwvLea) | 3:31 |
+| 35 | [Take the Bullets Away \(feat\. Lacey Sturm\)](https://open.spotify.com/track/1FgFXxPsmUmiJMoJNi8idR) | [We As Human](https://open.spotify.com/artist/6FFTGpuvFDztqTz4t1Hqy9), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [We As Human](https://open.spotify.com/album/79dn7GARLrAgKx28cwvLea) | 3:31 |
+| 36 | [Never Alone](https://open.spotify.com/track/6kKIcMRhwxJ1XTnfapaqhL) | [BarlowGirl](https://open.spotify.com/artist/3VMSmJURVM7s6LkrIaPZvi) | [BarlowGirl](https://open.spotify.com/album/4V1yueAEbtS4K2ZvIjvSXr) | 4:30 |
 | 37 | [Suspension](https://open.spotify.com/track/2F2BqlVi9YWOSrCeHGSCOX) | [Mae](https://open.spotify.com/artist/17Ht3puBDQIHTXvQTYYI3b) | [The Everglow](https://open.spotify.com/album/2p44huLsquBxzop7L8e5kk) | 4:00 |
 | 38 | [Broken Heart](https://open.spotify.com/track/2YD9ge4vpiztCSCLfRWzMn) | [Falling Up](https://open.spotify.com/artist/0qJxsH9kWhslWau4Ork4Zm) | [Crashings](https://open.spotify.com/album/11IdVYUil7tSZcx3x8AH81) | 3:07 |
 | 39 | [Worlds Apart](https://open.spotify.com/track/3QqQ0uucCvfCZTkR1yriJO) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Worlds Apart](https://open.spotify.com/album/4CaCWD32xGgl8KT4VWBsCV) | 4:28 |

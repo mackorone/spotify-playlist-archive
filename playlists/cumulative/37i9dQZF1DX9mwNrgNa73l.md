@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-201 songs - 22 hr 25 min
+202 songs - 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Allahu Akbar](https://open.spotify.com/track/0oulvgKe81qlq8UvIW3uha) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 8:39 | 2022-06-21 | 2024-01-06 |
 | [Arziyan](https://open.spotify.com/track/3V80Iv04B9XAqGHbXdtRT1) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Prasoon Joshi](https://open.spotify.com/artist/0e7Xsukwik0zDaqCcSvJTg) | [Delhi\-6](https://open.spotify.com/album/2oEJvIPxiVWejbACLjq6Lh) | 8:39 | 2022-10-25 |  |
 | [Balaghal\-Ula Bi\-Kamaalihi](https://open.spotify.com/track/05rGKExmwZcwIvia1YVr8C) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Balaghal\-Ula Bi\-Kamaalihi](https://open.spotify.com/album/45xKWqxlWWRdb3rk3jHjHz) | 8:44 | 2024-03-22 |  |
-| [Banda \- From "Sam Bahadur"](https://open.spotify.com/track/4jg4emrgDIwuJwAyGQSEge) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Sam Bahadur \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4XCmGQKLUg0jr3uPQEhXQH) | 3:59 | 2024-01-05 |  |
+| [Banda \- From "Sam Bahadur"](https://open.spotify.com/track/4jg4emrgDIwuJwAyGQSEge) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Sam Bahadur \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4XCmGQKLUg0jr3uPQEhXQH) | 3:59 | 2024-01-05 | 2025-10-08 |
 | [Bhar Do Jholi Meri](https://open.spotify.com/track/52qnHAlqWpo3kgEteAPjRf) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Bajrangi Bhaijaan](https://open.spotify.com/album/4nZOPP0atfJbBlkedLYi7t) | 8:19 | 2022-06-21 |  |
 | [Bhar Do Jholi Meri](https://open.spotify.com/track/5etuDMYaAMqK2mREqcTpep) | [Sabri Brothers](https://open.spotify.com/artist/0sbtGmW8r5bxfXzla8a7eI) | [50 Greatest Sufi Hits](https://open.spotify.com/album/0Zk3ZjRiCKB0wizNHmm7CI) | 19:53 | 2022-08-02 |  |
 | [Binti Karat Hon Ganje Shakar](https://open.spotify.com/track/1AJ9gU5SwSFPJZRtNlv3xj) | [Hamza Akram Qawwal](https://open.spotify.com/artist/1SqOrcBazuYQ8pcw4UuseT), [Taimoor Akram](https://open.spotify.com/artist/1cwy0UsOCVBUtJcMq80gzq), [Abdul Akram](https://open.spotify.com/artist/7h8qDn9P06lpRw7ARJxXnC) | [Binti Karat Hon Ganje Shakar](https://open.spotify.com/album/5kEaQxsOocIMJSQTSC64ur) | 7:41 | 2022-07-18 | 2023-09-09 |
@@ -125,6 +125,7 @@
 | [Maula](https://open.spotify.com/track/6Z0hi7ntpmQSkTDiBMcZVl) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Maula](https://open.spotify.com/album/0XYIRzV6BpXXSH02O8uaMz) | 6:03 | 2022-06-21 | 2024-01-06 |
 | [Maula Mere Maula](https://open.spotify.com/track/5KNuHsIeFtD0oukst77hBi) | [Roop Kumar Rathod](https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa) | [Anwar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MTyvN8DogBzkLz8ThUKuc) | 6:04 | 2022-08-02 |  |
 | [Maula Tera Noor](https://open.spotify.com/track/43MM7jOLwi9QQRbGXcz6Tx) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Coke Studio Season 10: Episode 7](https://open.spotify.com/album/6N6JL68Ji3Huws0DNHlnv3) | 8:28 | 2024-01-05 |  |
+| [Maula Toh Puch](https://open.spotify.com/track/6lnJrKSdVbGYdN1qK2ESSP) | [Bismil](https://open.spotify.com/artist/1dU8OXH7zI79wpLxei4EDu), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Maula Toh Puch](https://open.spotify.com/album/7tD8D4xZ5WlHcP1K9oPebf) | 4:30 | 2025-10-07 |  |
 | [Maula\-E\-Kull](https://open.spotify.com/track/6uAhKs1xbzs4QIREQzHXb1) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Maula\-E\-Kull](https://open.spotify.com/album/4Gb6vs7OZiB2WDExrgRAdl) | 9:52 | 2024-01-05 | 2024-06-22 |
 | [Mee Raqsam](https://open.spotify.com/track/1szkFgc12IkhomwVaXLGdP) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Mee Raqsam](https://open.spotify.com/album/0UyC4LKCF25GCYj6R9MKqZ) | 5:03 | 2025-08-25 |  |
 | [Mera Khuda](https://open.spotify.com/track/4YEyTF1ojosAcTldLWJhKr) | [Rafaqat Ali Khan](https://open.spotify.com/artist/5gb3fWXn6yqB3bztWCc3wz) | [Mera Khuda](https://open.spotify.com/album/6TVa0BaHhcqzANHOm0bxhw) | 5:51 | 2024-04-26 | 2024-06-22 |

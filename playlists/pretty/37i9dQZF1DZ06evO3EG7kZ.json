@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 49815,
+  "num_followers": 49827,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAAAQWqbnL/kjOO92l6/9l6xG",
+  "snapshot_id": "aOMGgAAAAAADm81feNDmPIlQ0WcMXRX2",
   "tracks": [
     {
       "added_at": null,
@@ -70,11 +70,15 @@
         {
           "name": "Joff Bush",
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        },
+        {
+          "name": "Jazz D'Arcy",
+          "url": "https://open.spotify.com/artist/2LemGUdMgljx9x6YVkfLij"
         }
       ],
-      "duration_ms": 118893,
-      "name": "Dance Mode",
-      "url": "https://open.spotify.com/track/34oa5y5p5SyWk7GfjdeNJY"
+      "duration_ms": 217719,
+      "name": "Rain (Instrumental)",
+      "url": "https://open.spotify.com/track/1eaZSJ0jVWmj9HKjAtl2Sf"
     },
     {
       "added_at": null,
@@ -154,15 +158,11 @@
         {
           "name": "Joff Bush",
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
-        },
-        {
-          "name": "Jazz D'Arcy",
-          "url": "https://open.spotify.com/artist/2LemGUdMgljx9x6YVkfLij"
         }
       ],
-      "duration_ms": 217719,
-      "name": "Rain (Instrumental)",
-      "url": "https://open.spotify.com/track/1eaZSJ0jVWmj9HKjAtl2Sf"
+      "duration_ms": 118893,
+      "name": "Dance Mode",
+      "url": "https://open.spotify.com/track/34oa5y5p5SyWk7GfjdeNJY"
     },
     {
       "added_at": null,

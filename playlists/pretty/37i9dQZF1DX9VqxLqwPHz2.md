@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VqxLqwPHz2.md) - [plain]
 
 > Spotify & Nike present Make Moves: inspiring girls to get moving through music\. What song will you move to today?
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,093 likes - 66 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,127 likes - 66 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9VqxLqwPHz2.md) - [plain]
 | 45 | [Boy's a Liar](https://open.spotify.com/track/3QUbaXCfksmF19lW32BQE0) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
 | 46 | [La Sandunguera](https://open.spotify.com/track/3xQ254OSkFQBk1F69d3Gwc) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [La Sandunguera](https://open.spotify.com/album/0wJRHjnCyxwKkeY2zFRMUQ) | 3:25 |
 | 47 | [Unfinished Business](https://open.spotify.com/track/79fu6pXCo48UYgKtvavzDI) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Silence Is Loud](https://open.spotify.com/album/7aIsJRcf04ZeFiU1Fa70Cq) | 3:16 |
-| 48 | [Pick It Up \(feat\. Selena Gomez\)](https://open.spotify.com/track/02l6cXSMKmizzqOhoYV7sQ) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [AM I THE DRAMA? \(ErrTime Edition\)](https://open.spotify.com/album/6YHIqGYTWdIfuDRokPbCjY) | 2:40 |
+| 48 | [Love You Good](https://open.spotify.com/track/78UZHyUlhP71OhATPMFqZo) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:53 |
 | 49 | [Head Start](https://open.spotify.com/track/4N7alCheeoFUxAAKkuTzU5) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Head Start](https://open.spotify.com/album/02OOD9WmhXOFZEUsZ7CYQb) | 2:14 |
-| 50 | [Love You Good](https://open.spotify.com/track/78UZHyUlhP71OhATPMFqZo) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:53 |
+| 50 | [Pick It Up \(feat\. Selena Gomez\)](https://open.spotify.com/track/02l6cXSMKmizzqOhoYV7sQ) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [AM I THE DRAMA? \(ErrTime Edition\)](https://open.spotify.com/album/6YHIqGYTWdIfuDRokPbCjY) | 2:40 |
 | 51 | [Messy](https://open.spotify.com/track/7yMAQkI1bG1zT1yvBxGxe0) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/6bv6QMQ5TAFkmtTtQ5SHjS) | 4:44 |
 | 52 | [FREAKY \(JUST MY TYPE\)](https://open.spotify.com/track/37Pvim4Q5XnvMFxaUgBwUl) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [WITH A VENGEANCE](https://open.spotify.com/album/2ZZyA2JIJ49RcwIHpu4mjK) | 4:13 |
 | 53 | [Finest](https://open.spotify.com/track/1TRGdHdRkRv5ukCferu1D0) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Finest](https://open.spotify.com/album/45VpiqeoRBGTgTzIR0b6sd) | 1:50 |

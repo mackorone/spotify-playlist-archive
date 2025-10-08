@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAADiXJOidSv8wM7xWAA27A0J",
+  "snapshot_id": "aOMGgAAAAADH78AftTOP55Dmm2oN0XuW",
   "tracks": [
     {
       "added_at": null,
@@ -595,6 +595,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Should Know",
+        "url": "https://open.spotify.com/album/3L5OWAmBC0sIaTcLf35vrr"
+      },
+      "artists": [
+        {
+          "name": "Will Hill ",
+          "url": "https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh"
+        },
+        {
+          "name": "Hollywood Cole",
+          "url": "https://open.spotify.com/artist/60rgnKzRvebLmv6lWS0rTT"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Mack",
+      "url": "https://open.spotify.com/track/1lv6YHO3cxqQ8o2tG9xTAK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What We On (feat. E-40)",
         "url": "https://open.spotify.com/album/6NCCYWOcEUB5jCMzBtgiql"
       },
@@ -619,6 +643,22 @@
       "duration_ms": 173000,
       "name": "What We On (feat. E-40)",
       "url": "https://open.spotify.com/track/0TLAn4Hzf9fTtprPfDgjY4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRIME",
+        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 159064,
+      "name": "bamboo",
+      "url": "https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS"
     },
     {
       "added_at": null,
@@ -667,46 +707,6 @@
       "duration_ms": 205480,
       "name": "On One",
       "url": "https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRIME",
-        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 159064,
-      "name": "bamboo",
-      "url": "https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Should Know",
-        "url": "https://open.spotify.com/album/3L5OWAmBC0sIaTcLf35vrr"
-      },
-      "artists": [
-        {
-          "name": "Will Hill ",
-          "url": "https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh"
-        },
-        {
-          "name": "Hollywood Cole",
-          "url": "https://open.spotify.com/artist/60rgnKzRvebLmv6lWS0rTT"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Mack",
-      "url": "https://open.spotify.com/track/1lv6YHO3cxqQ8o2tG9xTAK"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going To Work - Single",
-        "url": "https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 197187,
-      "name": "Going To Work",
-      "url": "https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SHINE",
         "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
       },
@@ -871,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Going To Work - Single",
+        "url": "https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 197187,
+      "name": "Going To Work",
+      "url": "https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Lose Your Head",
         "url": "https://open.spotify.com/album/6LpAG5njnQXVbHfakYlHrI"
       },
@@ -891,6 +891,26 @@
       "duration_ms": 161250,
       "name": "Don't Lose Your Head",
       "url": "https://open.spotify.com/track/4QMCkz3JSWOEl7jRsDWlWP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Bosko",
+          "url": "https://open.spotify.com/artist/520s2qSqvmjVMEW31EHmYJ"
+        }
+      ],
+      "duration_ms": 182926,
+      "name": "Luh U",
+      "url": "https://open.spotify.com/track/4eDRjjFdu1g6Q4Z4i9Dvjm"
     },
     {
       "added_at": null,
@@ -919,26 +939,6 @@
       "duration_ms": 191067,
       "name": "About That Time (with G-Eazy, P-Lo & White Dave)",
       "url": "https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Bosko",
-          "url": "https://open.spotify.com/artist/520s2qSqvmjVMEW31EHmYJ"
-        }
-      ],
-      "duration_ms": 182926,
-      "name": "Luh U",
-      "url": "https://open.spotify.com/track/4eDRjjFdu1g6Q4Z4i9Dvjm"
     },
     {
       "added_at": null,
@@ -979,26 +979,6 @@
       "duration_ms": 158693,
       "name": "Lightswitch",
       "url": "https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Make a Move",
-        "url": "https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX"
-      },
-      "artists": [
-        {
-          "name": "Jeff Bernat",
-          "url": "https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 144060,
-      "name": "Make a Move",
-      "url": "https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx"
     },
     {
       "added_at": null,
@@ -1059,6 +1039,26 @@
       "duration_ms": 225906,
       "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
       "url": "https://open.spotify.com/track/0gn5dQJPpRCJWKH6LAUZz7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Make a Move",
+        "url": "https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX"
+      },
+      "artists": [
+        {
+          "name": "Jeff Bernat",
+          "url": "https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 144060,
+      "name": "Make a Move",
+      "url": "https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx"
     },
     {
       "added_at": null,

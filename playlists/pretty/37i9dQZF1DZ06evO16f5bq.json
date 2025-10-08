@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 155733,
+  "num_followers": 155740,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAAAwI4T6rnF5lHHYlH0Jhb+l",
+  "snapshot_id": "aOMGgAAAAACeFx3XQ/6t1kP26jNwrWll",
   "tracks": [
     {
       "added_at": null,
@@ -995,6 +995,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00caXTASE",
+        "url": "https://open.spotify.com/album/0bWyQxzGtZ4QV3H6GF8xhF"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 238306,
+      "name": "FUI",
+      "url": "https://open.spotify.com/track/0F0bSpQoHvA2UmbbT2VRGL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00edmica",
+        "url": "https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 153413,
+      "name": "Qu\u00edmica",
+      "url": "https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eh Noiz Ki T\u00e1",
         "url": "https://open.spotify.com/album/5NEKhgyL8iv2HoXI0xqBk1"
       },
@@ -1019,42 +1059,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00edmica",
-        "url": "https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB"
+        "name": "MUITA ONDA",
+        "url": "https://open.spotify.com/album/2WMPOyfjd59nxbXmLlo4n4"
       },
       "artists": [
         {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 153413,
-      "name": "Qu\u00edmica",
-      "url": "https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00caXTASE",
-        "url": "https://open.spotify.com/album/0bWyQxzGtZ4QV3H6GF8xhF"
-      },
-      "artists": [
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
         }
       ],
-      "duration_ms": 238306,
-      "name": "FUI",
-      "url": "https://open.spotify.com/track/0F0bSpQoHvA2UmbbT2VRGL"
+      "duration_ms": 150508,
+      "name": "NA ONDA",
+      "url": "https://open.spotify.com/track/4IavDOfEOKg8zzdfCx9TmJ"
     },
     {
       "added_at": null,
@@ -1099,34 +1127,6 @@
       "duration_ms": 217539,
       "name": "VALHO NADA",
       "url": "https://open.spotify.com/track/18XOY618zQH4bFw3TgVT9L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MUITA ONDA",
-        "url": "https://open.spotify.com/album/2WMPOyfjd59nxbXmLlo4n4"
-      },
-      "artists": [
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "AJ Wav",
-          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
-        }
-      ],
-      "duration_ms": 150508,
-      "name": "NA ONDA",
-      "url": "https://open.spotify.com/track/4IavDOfEOKg8zzdfCx9TmJ"
     },
     {
       "added_at": null,
@@ -1231,6 +1231,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "LITTLE LOVE (DELUXE)",
+        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        }
+      ],
+      "duration_ms": 317340,
+      "name": "BEM MELHOR",
+      "url": "https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Liberdade",
         "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
       },
@@ -1259,30 +1283,6 @@
       "duration_ms": 225365,
       "name": "AK de Bip\u00e9",
       "url": "https://open.spotify.com/track/45AGZPv5djNJj0CH6sEjjp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LITTLE LOVE (DELUXE)",
-        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        }
-      ],
-      "duration_ms": 317340,
-      "name": "BEM MELHOR",
-      "url": "https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b"
     },
     {
       "added_at": null,

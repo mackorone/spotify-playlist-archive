@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 128947,
+  "num_followers": 128962,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAACegVSjmpWRWVbQGubA6DKP",
+  "snapshot_id": "aOMGgAAAAAB7iDFVQmj5J33eRPwEc+EX",
   "tracks": [
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Michigan",
-        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 281746,
-      "name": "Romulus",
-      "url": "https://open.spotify.com/track/2woPqHnZek73ZIcozlk0Ig"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aporia",
         "url": "https://open.spotify.com/album/1juVCzBeCE5Nzx0iqXZ8kU"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 32699,
       "name": "Palinodes",
       "url": "https://open.spotify.com/track/6Dlledo5CPotiHkDSO9xJB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 281746,
+      "name": "Romulus",
+      "url": "https://open.spotify.com/track/2woPqHnZek73ZIcozlk0Ig"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Michigan",
-        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 122026,
-      "name": "Redford (for Yia-Yia and Pappou)",
-      "url": "https://open.spotify.com/track/2EL9uWRulB1rcgDmjYMzTO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Beginner's Mind",
         "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 187302,
       "name": "Olympus",
       "url": "https://open.spotify.com/track/2eVWzZgYX87QQ7cS9MKnZI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 122026,
+      "name": "Redford (for Yia-Yia and Pappou)",
+      "url": "https://open.spotify.com/track/2EL9uWRulB1rcgDmjYMzTO"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carrie & Lowell (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0n7HLjx45Y2LD4WyHGDMf3"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 400661,
-      "name": "Wallowa Lake Monster - Version 2",
-      "url": "https://open.spotify.com/track/7JxVuQdS0aFUIMrja2KzyS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Beginner's Mind",
         "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 103014,
       "name": "Love Yourself (Short Reprise)",
       "url": "https://open.spotify.com/track/6Su3tpwV9plA79jGtiL8rf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Carrie & Lowell (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0n7HLjx45Y2LD4WyHGDMf3"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 400661,
+      "name": "Wallowa Lake Monster - Version 2",
+      "url": "https://open.spotify.com/track/7JxVuQdS0aFUIMrja2KzyS"
     },
     {
       "added_at": null,

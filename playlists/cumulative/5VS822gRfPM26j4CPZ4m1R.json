@@ -463,6 +463,24 @@
     },
     {
       "album": {
+        "name": "Anatoli",
+        "url": "https://open.spotify.com/album/4d8mwJ5mcy4xcbi3z3wmpF"
+      },
+      "artists": [
+        {
+          "name": "Corpus Perditum",
+          "url": "https://open.spotify.com/artist/41bRvSUF56ZIhyJsAMahmJ"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Anatoli",
+      "url": "https://open.spotify.com/track/3yQxFzqdbVfpig9H94UzCq"
+    },
+    {
+      "album": {
         "name": "Anchor in the Clouds",
         "url": "https://open.spotify.com/album/74iLL8S4UNmA8K3DOlYSuZ"
       },

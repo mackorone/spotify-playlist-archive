@@ -1082,10 +1082,28 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 182000,
       "name": "Basic Meditation",
       "url": "https://open.spotify.com/track/3MlyE6l0NIyTvLAIyojRWp"
+    },
+    {
+      "album": {
+        "name": "Becomes Light",
+        "url": "https://open.spotify.com/album/0lKbaedelrcfDgZYR0GAaJ"
+      },
+      "artists": [
+        {
+          "name": "OmniBrain",
+          "url": "https://open.spotify.com/artist/5OIg5Mtsl62IziXx0cGh06"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165100,
+      "name": "Becomes Light",
+      "url": "https://open.spotify.com/track/0FP5OfpcI9mWQ25HPoXjae"
     },
     {
       "album": {
@@ -1550,7 +1568,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 177627,
       "name": "Calming Endless",
       "url": "https://open.spotify.com/track/2Ruhx1KsOZ7AW7KciDquSp"
@@ -1820,7 +1838,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 194000,
       "name": "Chilled Soul",
       "url": "https://open.spotify.com/track/53Le56pxNNt0sAOZ34Qocn"
@@ -1982,7 +2000,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 184000,
       "name": "Cosmic Vibe",
       "url": "https://open.spotify.com/track/16YWHIxMQbvfShxpS1eKiR"
@@ -2573,6 +2591,42 @@
     },
     {
       "album": {
+        "name": "Drift Away",
+        "url": "https://open.spotify.com/album/7EBIC7MK5U3QCp2A4ukLHw"
+      },
+      "artists": [
+        {
+          "name": "Crystalsong",
+          "url": "https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179577,
+      "name": "Drift Away",
+      "url": "https://open.spotify.com/track/4cWiibkWpiaGQrNuwc6BmB"
+    },
+    {
+      "album": {
+        "name": "Drift Off (Deep Sleep)",
+        "url": "https://open.spotify.com/album/4pnE1jMLDJZGOI9L4sOZgH"
+      },
+      "artists": [
+        {
+          "name": "Waves Of Sine",
+          "url": "https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Drift Off (Deep Sleep)",
+      "url": "https://open.spotify.com/track/232Ioprbj25TxcADnKNCH0"
+    },
+    {
+      "album": {
         "name": "Drifting Away",
         "url": "https://open.spotify.com/album/5OSS2Wr61ht4r3K6fmPp7i"
       },
@@ -2966,7 +3020,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 172732,
       "name": "Enhance",
       "url": "https://open.spotify.com/track/6qEnfDbUi83vhDsQ0Fbft1"
@@ -3672,7 +3726,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 138000,
       "name": "Free of Charge",
       "url": "https://open.spotify.com/track/2im1E9P5dMU1S2F0j6eWaI"
@@ -5213,6 +5267,24 @@
     },
     {
       "album": {
+        "name": "Light as a Feather",
+        "url": "https://open.spotify.com/album/4wpxBg54f3VahM7W30oqoM"
+      },
+      "artists": [
+        {
+          "name": "Ambarta",
+          "url": "https://open.spotify.com/artist/5cWf58bsvE8BIq4zwFJeUw"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Light as a Feather",
+      "url": "https://open.spotify.com/track/1FzCQDQnr8CzskSrGeRFK6"
+    },
+    {
+      "album": {
         "name": "Light for all",
         "url": "https://open.spotify.com/album/2sEotHpaJFB3BhhRjHZmBX"
       },
@@ -5264,6 +5336,24 @@
       "duration_ms": 173500,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/5i3gMF4xQnyFWXtmkI1JfD"
+    },
+    {
+      "album": {
+        "name": "Limitless Vision",
+        "url": "https://open.spotify.com/album/2wiMxLcSe3j7zk9uaXIl2F"
+      },
+      "artists": [
+        {
+          "name": "Insomnian",
+          "url": "https://open.spotify.com/artist/1ujgOwCmxg2Rf7IShLE4mQ"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Limitless Vision",
+      "url": "https://open.spotify.com/track/6Jzgt4DSw4sRjpUDIIMVX9"
     },
     {
       "album": {
@@ -6621,6 +6711,42 @@
     },
     {
       "album": {
+        "name": "parking",
+        "url": "https://open.spotify.com/album/4c0CrKV3v3lzNJym89dSfr"
+      },
+      "artists": [
+        {
+          "name": "cloudcrush",
+          "url": "https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "parking",
+      "url": "https://open.spotify.com/track/5ZolhXTJGypeXhH04k7CP9"
+    },
+    {
+      "album": {
+        "name": "Particles",
+        "url": "https://open.spotify.com/album/0EOUbzfq2qNg6M00sbUeKj"
+      },
+      "artists": [
+        {
+          "name": "Spatia Sonica",
+          "url": "https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186531,
+      "name": "Particles",
+      "url": "https://open.spotify.com/track/3HPn00Aw01wp4u0KZgLw5u"
+    },
+    {
+      "album": {
         "name": "Passing Through",
         "url": "https://open.spotify.com/album/3ILuXHlE12wfsanX5hnAMn"
       },
@@ -7446,7 +7572,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 171300,
       "name": "Saster 432Hz",
       "url": "https://open.spotify.com/track/22AKOYsMNojiHdnRbQNwOM"
@@ -7756,6 +7882,24 @@
       "duration_ms": 162315,
       "name": "Serenity in Motion",
       "url": "https://open.spotify.com/track/1f75gvv89vHLQgpgRORP3t"
+    },
+    {
+      "album": {
+        "name": "Shallow",
+        "url": "https://open.spotify.com/album/25R9GcCHqBmNZTA101yaFF"
+      },
+      "artists": [
+        {
+          "name": "Disentangled",
+          "url": "https://open.spotify.com/artist/7cMuOiJswcxBwRlApHIezW"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135967,
+      "name": "Shallow",
+      "url": "https://open.spotify.com/track/60ZzQoIfCpaBpupACGJuhy"
     },
     {
       "album": {
@@ -8220,7 +8364,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 172800,
       "name": "Sparrows",
       "url": "https://open.spotify.com/track/5lkX4dx95MBKM5SY7fyvP6"
@@ -9398,7 +9542,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 163500,
       "name": "Wider Purpose",
       "url": "https://open.spotify.com/track/4R5tfiuzHBNvUh71998qJM"

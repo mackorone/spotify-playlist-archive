@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 37616,
+  "num_followers": 37619,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAAB7KG6uW9GNsZ6xGLyCD79w",
+  "snapshot_id": "aOMGgAAAAAA+g3Ru5E7bJcgGP/5ImdME",
   "tracks": [
     {
       "added_at": null,
@@ -703,18 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here Come the Runts",
-        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
+        "name": "Groove Continental: Side A",
+        "url": "https://open.spotify.com/album/4f4Mgrjdn7P6SoSLV6SWHI"
       },
       "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 189861,
-      "name": "Jealous Buffoon",
-      "url": "https://open.spotify.com/track/6RwLKfndAAn4vr1AjN3UYd"
+      "duration_ms": 174320,
+      "name": "Disco Body Parts (feat. AWOLNATION)",
+      "url": "https://open.spotify.com/track/4W0PnZs6I5KLx3lbPUwnI2"
     },
     {
       "added_at": null,
@@ -735,22 +739,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Groove Continental: Side A",
-        "url": "https://open.spotify.com/album/4f4Mgrjdn7P6SoSLV6SWHI"
+        "name": "Here Come the Runts",
+        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
       },
       "artists": [
-        {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
-        },
         {
           "name": "AWOLNATION",
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 174320,
-      "name": "Disco Body Parts (feat. AWOLNATION)",
-      "url": "https://open.spotify.com/track/4W0PnZs6I5KLx3lbPUwnI2"
+      "duration_ms": 189861,
+      "name": "Jealous Buffoon",
+      "url": "https://open.spotify.com/track/6RwLKfndAAn4vr1AjN3UYd"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Echo, My Shadow, My Covers & Me",
-        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        }
-      ],
-      "duration_ms": 249212,
-      "name": "Flagpole Sitta (feat. Elohim)",
-      "url": "https://open.spotify.com/track/5KcdcUuL8YI3PqeQIvJj2H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Table for One (feat. Elohim)",
         "url": "https://open.spotify.com/album/6Vh3fdmfzij1qT1KVHapZQ"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 278867,
       "name": "Table for One (feat. Elohim)",
       "url": "https://open.spotify.com/track/7fE5PFt7j1aNGdCEM89qxN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Echo, My Shadow, My Covers & Me",
+        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "duration_ms": 249212,
+      "name": "Flagpole Sitta (feat. Elohim)",
+      "url": "https://open.spotify.com/track/5KcdcUuL8YI3PqeQIvJj2H"
     },
     {
       "added_at": null,
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "Shoestrings",
+      "url": "https://open.spotify.com/track/0QvqrTGC7FSolbg8rQbHGa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 243066,
       "name": "Eye In The Sky (feat. Beck)",
       "url": "https://open.spotify.com/track/4JxXyhC4FAALmp7uXrmsrG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "Shoestrings",
-      "url": "https://open.spotify.com/track/0QvqrTGC7FSolbg8rQbHGa"
     }
   ],
   "unique_name": "This Is AWOLNATION",

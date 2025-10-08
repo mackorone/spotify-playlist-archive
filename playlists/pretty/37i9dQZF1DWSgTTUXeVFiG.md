@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,728 likes - 50 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,748 likes - 50 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 45 | [Mata Siguaraya \- Live Version](https://open.spotify.com/track/0OBiNNQRUHrxTyhttCje8w) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 4:32 |
 | 46 | [Que Manera De Quererte \- Live Version](https://open.spotify.com/track/6C09eg8iPo0BTBwkaQpJjK) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Dos Soneros..\. Una Historia](https://open.spotify.com/album/4MpP6sfknKNUhYo0lvnaUU) | 6:37 |
 | 47 | [Quiéreme Tal Como Soy \- Live](https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [30 Años de Power](https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI) | 5:30 |
-| 48 | [Probablemente \- Live](https://open.spotify.com/track/3uaiF0P7A9yo7aMsrE7Xlw) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [El Reencuentro \(Live In Lima\) \- Vol\. 2](https://open.spotify.com/album/5mGJ0vT7EfK2MXLkuLSQP6) | 5:24 |
-| 49 | [Tu Loco, Loco, Y Yo Tranquilo \- En Vivo](https://open.spotify.com/track/5ZnS39e15qQqAFS7lgCPE1) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [En Vivo Desde Bellas Artes](https://open.spotify.com/album/7GjrbV5AIgz240w67gmVCs) | 4:38 |
+| 48 | [Tu Loco, Loco, Y Yo Tranquilo \- En Vivo](https://open.spotify.com/track/5ZnS39e15qQqAFS7lgCPE1) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [En Vivo Desde Bellas Artes](https://open.spotify.com/album/7GjrbV5AIgz240w67gmVCs) | 4:38 |
+| 49 | [Probablemente \- Live](https://open.spotify.com/track/3uaiF0P7A9yo7aMsrE7Xlw) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [El Reencuentro \(Live In Lima\) \- Vol\. 2](https://open.spotify.com/album/5mGJ0vT7EfK2MXLkuLSQP6) | 5:24 |
 | 50 | [Mi Bajo y Yo \- Live Version](https://open.spotify.com/track/5VBWkhVysV6pW7Uiw5S4lb) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:38 |
 
 Snapshot ID: `AAAAALvBCeye4UL5Wi/5OPLkIEKXxqsW`

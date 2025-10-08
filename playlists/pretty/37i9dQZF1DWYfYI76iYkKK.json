@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 130228,
+  "num_followers": 130237,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2025-10-02 16:00:37",
       "album": {
-        "name": "Miserable",
-        "url": "https://open.spotify.com/album/4207P6ZEsU5nqCCHRhBUcA"
-      },
-      "artists": [
-        {
-          "name": "Vicky Chen",
-          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
-        }
-      ],
-      "duration_ms": 193693,
-      "name": "Miserable",
-      "url": "https://open.spotify.com/track/2hRVNcJYwOHEXZJPMJUuEz"
-    },
-    {
-      "added_at": "2025-10-02 16:00:37",
-      "album": {
         "name": "\u505a\u6211\u7684\u521d\u6200\uff08\u7d14\u611b\u4e0d\u63d2\u96fb\uff09",
         "url": "https://open.spotify.com/album/6c7wFSp80wogFSImEgRSK5"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 197954,
       "name": "\u505a\u6211\u7684\u521d\u6200 (\u7d14\u611b\u4e0d\u63d2\u96fb)",
       "url": "https://open.spotify.com/track/0QTVDDZFhLRyFKqgmphkms"
+    },
+    {
+      "added_at": "2025-10-02 16:00:37",
+      "album": {
+        "name": "Miserable",
+        "url": "https://open.spotify.com/album/4207P6ZEsU5nqCCHRhBUcA"
+      },
+      "artists": [
+        {
+          "name": "Vicky Chen",
+          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
+        }
+      ],
+      "duration_ms": 193693,
+      "name": "Miserable",
+      "url": "https://open.spotify.com/track/2hRVNcJYwOHEXZJPMJUuEz"
     },
     {
       "added_at": "2025-10-02 16:00:37",
@@ -307,22 +307,6 @@
     {
       "added_at": "2025-10-02 16:00:37",
       "album": {
-        "name": "\u6700\u5f8c\u4e00\u6839\u7a3b\u8349",
-        "url": "https://open.spotify.com/album/7ivVAyNQMDiTMfE1RDp9oy"
-      },
-      "artists": [
-        {
-          "name": "Good Band",
-          "url": "https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ"
-        }
-      ],
-      "duration_ms": 224995,
-      "name": "\u6700\u5f8c\u4e00\u6839\u7a3b\u8349",
-      "url": "https://open.spotify.com/track/6NGAGgLTGxrWDQ53xra6Bb"
-    },
-    {
-      "added_at": "2025-10-02 16:00:37",
-      "album": {
         "name": "\u5728\u9019\u500b\u6e05\u6668",
         "url": "https://open.spotify.com/album/4ancqmWTgf0EvyCc0R6FcZ"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 168471,
       "name": "\u541b",
       "url": "https://open.spotify.com/track/4XLW8SQNciud0pTp7Urj49"
+    },
+    {
+      "added_at": "2025-10-02 16:00:37",
+      "album": {
+        "name": "\u6700\u5f8c\u4e00\u6839\u7a3b\u8349",
+        "url": "https://open.spotify.com/album/7ivVAyNQMDiTMfE1RDp9oy"
+      },
+      "artists": [
+        {
+          "name": "Good Band",
+          "url": "https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ"
+        }
+      ],
+      "duration_ms": 224995,
+      "name": "\u6700\u5f8c\u4e00\u6839\u7a3b\u8349",
+      "url": "https://open.spotify.com/track/6NGAGgLTGxrWDQ53xra6Bb"
     },
     {
       "added_at": "2025-10-02 16:00:37",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-10-02 16:00:37",
       "album": {
-        "name": "\u611b\u7684\u5c0d\u767d",
-        "url": "https://open.spotify.com/album/6LHSVcmUUJuSVuBt14uGEV"
-      },
-      "artists": [
-        {
-          "name": "The Chairs",
-          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
-        }
-      ],
-      "duration_ms": 185077,
-      "name": "\u60f3\u548c\u4f60\u8aaa\u8aaa\u8a71",
-      "url": "https://open.spotify.com/track/1Z3aEPuzNCiOcECvOGUDwf"
-    },
-    {
-      "added_at": "2025-10-02 16:00:37",
-      "album": {
         "name": "\u4e00\u8d77\u6d6a\u8cbb\u6642\u5149\u7684\u5b89\u5168\u611f",
         "url": "https://open.spotify.com/album/1ekFKiOOaXT1za6Ef7HYJS"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 208000,
       "name": "\u4e00\u8d77\u6d6a\u8cbb\u6642\u5149\u7684\u5b89\u5168\u611f",
       "url": "https://open.spotify.com/track/5yS3QUbj5ukfTVETtGmyGJ"
+    },
+    {
+      "added_at": "2025-10-02 16:00:37",
+      "album": {
+        "name": "\u611b\u7684\u5c0d\u767d",
+        "url": "https://open.spotify.com/album/6LHSVcmUUJuSVuBt14uGEV"
+      },
+      "artists": [
+        {
+          "name": "The Chairs",
+          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
+        }
+      ],
+      "duration_ms": 185077,
+      "name": "\u60f3\u548c\u4f60\u8aaa\u8aaa\u8a71",
+      "url": "https://open.spotify.com/track/1Z3aEPuzNCiOcECvOGUDwf"
     },
     {
       "added_at": "2025-10-02 16:00:37",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-10-02 16:00:37",
       "album": {
-        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
-        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
-      },
-      "artists": [
-        {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
-        }
-      ],
-      "duration_ms": 222266,
-      "name": "\u7aca\u7b11",
-      "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
-    },
-    {
-      "added_at": "2025-10-02 16:00:37",
-      "album": {
         "name": "\u9752\u7a7a\u672a\u4f86",
         "url": "https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 255438,
       "name": "\u9752\u7a7a\u672a\u4f86",
       "url": "https://open.spotify.com/track/7iZy5sCDT5VkqEYBKy0DTU"
+    },
+    {
+      "added_at": "2025-10-02 16:00:37",
+      "album": {
+        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
+        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
+      },
+      "artists": [
+        {
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+        }
+      ],
+      "duration_ms": 222266,
+      "name": "\u7aca\u7b11",
+      "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
     },
     {
       "added_at": "2025-10-02 16:00:37",

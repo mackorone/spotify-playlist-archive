@@ -1,12 +1,12 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 74683,
+  "num_followers": 74685,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAACZs3k8cyvdbdfwvSyl8x8/",
+  "snapshot_id": "aOMGgAAAAABGc29LWreUj6/ylIs6Puty",
   "tracks": [
     {
       "added_at": null,
@@ -702,15 +702,11 @@
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 168546,
-      "name": "Estrenando Amante",
-      "url": "https://open.spotify.com/track/5K32FWmw4y9GQg6IgK1INe"
+      "duration_ms": 175090,
+      "name": "24/7 Dolido",
+      "url": "https://open.spotify.com/track/6SOEnAfMK7T4rzW3dsHrLk"
     },
     {
       "added_at": null,
@@ -778,11 +774,15 @@
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 175090,
-      "name": "24/7 Dolido",
-      "url": "https://open.spotify.com/track/6SOEnAfMK7T4rzW3dsHrLk"
+      "duration_ms": 168546,
+      "name": "Estrenando Amante",
+      "url": "https://open.spotify.com/track/5K32FWmw4y9GQg6IgK1INe"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Tu Jalas Yo Jalo",
-        "url": "https://open.spotify.com/album/4zrsMyqaFttELssgAZNfNa"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 174615,
-      "name": "Si Tu Jalas Yo Jalo",
-      "url": "https://open.spotify.com/track/75abYDt8Lcik0jvf2JNFbo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Siga La Fiesta",
         "url": "https://open.spotify.com/album/2bkgORd3gzIuLhrNlF1yRf"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 189560,
       "name": "El G\u00fcero Bastidas",
       "url": "https://open.spotify.com/track/7dRpZqekjiKiQBrTqLjzlN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si Tu Jalas Yo Jalo",
+        "url": "https://open.spotify.com/album/4zrsMyqaFttELssgAZNfNa"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 174615,
+      "name": "Si Tu Jalas Yo Jalo",
+      "url": "https://open.spotify.com/track/75abYDt8Lcik0jvf2JNFbo"
     },
     {
       "added_at": null,
@@ -931,22 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reinicio",
-        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 166917,
-      "name": "Ya No Se Olvidarte",
-      "url": "https://open.spotify.com/track/45jKkZbNaffSkV29TZr6CX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voy A Levantarme",
         "url": "https://open.spotify.com/album/0pswYE95SNbJ6vdwD34PH0"
       },
@@ -963,6 +947,26 @@
       "duration_ms": 170987,
       "name": "Hoy Toca Llorar",
       "url": "https://open.spotify.com/track/2EDt4kTcgoeVaHnvxtmOSD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luz De Dia",
+        "url": "https://open.spotify.com/album/31pinJMr5eo0AX9BHeeB4q"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Grupo Ele-Eme",
+          "url": "https://open.spotify.com/artist/419dlnnbgxhpmG7eR9RUbR"
+        }
+      ],
+      "duration_ms": 197421,
+      "name": "Luz De Dia",
+      "url": "https://open.spotify.com/track/5PMv0sXLpDNrSrMfihTzAV"
     }
   ],
   "unique_name": "This Is Lenin Ram\u00edrez",

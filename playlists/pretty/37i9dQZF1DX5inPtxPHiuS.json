@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas",
-  "num_followers": 87782,
+  "num_followers": 87787,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Aunque Pretendas Olvidar",
-        "url": "https://open.spotify.com/album/4ymkJ4kYySzAaxIP3Ul6NW"
-      },
-      "artists": [
-        {
-          "name": "La Banda del Bisonte",
-          "url": "https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Aunque Pretendas Olvidar",
-      "url": "https://open.spotify.com/track/3ZmVUUrgKBmSI2IkTq42zk"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Estallados",
         "url": "https://open.spotify.com/album/0bKbPtDXlXn07olVlaIAnr"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 270000,
       "name": "Estallados",
       "url": "https://open.spotify.com/track/3FO2k1oUkFBsU63BqVIGRS"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Aunque Pretendas Olvidar",
+        "url": "https://open.spotify.com/album/4ymkJ4kYySzAaxIP3Ul6NW"
+      },
+      "artists": [
+        {
+          "name": "La Banda del Bisonte",
+          "url": "https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Aunque Pretendas Olvidar",
+      "url": "https://open.spotify.com/track/3ZmVUUrgKBmSI2IkTq42zk"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Recorrer el Mundo",
-        "url": "https://open.spotify.com/album/2H4P2Z1NJLy12k8WvrjSjw"
-      },
-      "artists": [
-        {
-          "name": "Bonus Trak",
-          "url": "https://open.spotify.com/artist/3v68dDHJPpjDZ3sJDNsqQP"
-        }
-      ],
-      "duration_ms": 178133,
-      "name": "Recorrer el Mundo",
-      "url": "https://open.spotify.com/track/1wpn2kg0vFgvEl7V6XeQzK"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Solo t\u00fa",
         "url": "https://open.spotify.com/album/4x11yXJ8tg1D9tnY2DII65"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 247392,
       "name": "Solo t\u00fa",
       "url": "https://open.spotify.com/track/5WyavosRBdYVkapSLgqGC4"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Recorrer el Mundo",
+        "url": "https://open.spotify.com/album/2H4P2Z1NJLy12k8WvrjSjw"
+      },
+      "artists": [
+        {
+          "name": "Bonus Trak",
+          "url": "https://open.spotify.com/artist/3v68dDHJPpjDZ3sJDNsqQP"
+        }
+      ],
+      "duration_ms": 178133,
+      "name": "Recorrer el Mundo",
+      "url": "https://open.spotify.com/track/1wpn2kg0vFgvEl7V6XeQzK"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -979,26 +979,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Tierra",
-        "url": "https://open.spotify.com/album/4hONbMfBNGtrslvAqe2wX4"
-      },
-      "artists": [
-        {
-          "name": "Mad Tree",
-          "url": "https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h"
-        },
-        {
-          "name": "Mateo Par\u00eds",
-          "url": "https://open.spotify.com/artist/5g4xkc9ZvfAUuP5UJxvCBG"
-        }
-      ],
-      "duration_ms": 183539,
-      "name": "Desierto",
-      "url": "https://open.spotify.com/track/3Amv0UJc2xJ7YZuhCCSM5i"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Eres T\u00fa",
         "url": "https://open.spotify.com/album/25gfU5N8KqfoN1mPUCmTxx"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 207529,
       "name": "Eres T\u00fa",
       "url": "https://open.spotify.com/track/6dgsioXKgII7qWavPLU45x"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Tierra",
+        "url": "https://open.spotify.com/album/4hONbMfBNGtrslvAqe2wX4"
+      },
+      "artists": [
+        {
+          "name": "Mad Tree",
+          "url": "https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h"
+        },
+        {
+          "name": "Mateo Par\u00eds",
+          "url": "https://open.spotify.com/artist/5g4xkc9ZvfAUuP5UJxvCBG"
+        }
+      ],
+      "duration_ms": 183539,
+      "name": "Desierto",
+      "url": "https://open.spotify.com/track/3Amv0UJc2xJ7YZuhCCSM5i"
     }
   ],
   "unique_name": "Rock Colombia",

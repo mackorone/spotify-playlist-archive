@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 337948,
+  "num_followers": 338087,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "The Secret Of Association",
-        "url": "https://open.spotify.com/album/34PyD90DDeHfhFEymKgjho"
-      },
-      "artists": [
-        {
-          "name": "Paul Young",
-          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
-        }
-      ],
-      "duration_ms": 324346,
-      "name": "Every Time You Go Away",
-      "url": "https://open.spotify.com/track/3ZI3sK9ZJB3LOiZtCs9l3p"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Knee Deep In The Hoopla",
         "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 292800,
       "name": "Sara",
       "url": "https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "The Secret Of Association",
+        "url": "https://open.spotify.com/album/34PyD90DDeHfhFEymKgjho"
+      },
+      "artists": [
+        {
+          "name": "Paul Young",
+          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
+        }
+      ],
+      "duration_ms": 324346,
+      "name": "Every Time You Go Away",
+      "url": "https://open.spotify.com/track/3ZI3sK9ZJB3LOiZtCs9l3p"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "All Dressed Up",
-        "url": "https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz"
-      },
-      "artists": [
-        {
-          "name": "David Roberts",
-          "url": "https://open.spotify.com/artist/6opjDqwktGxPYPdOAs6T83"
-        }
-      ],
-      "duration_ms": 254457,
-      "name": "Boys of Autumn",
-      "url": "https://open.spotify.com/track/0pDCVNozy0RLEfQpJ6bPYJ"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Take My Time",
         "url": "https://open.spotify.com/album/7bNpYL4bvBMLRyafghBrCs"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 184026,
       "name": "So Much In Love",
       "url": "https://open.spotify.com/track/0shzwsbUpKgI8kQhFsOl0w"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "All Dressed Up",
+        "url": "https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz"
+      },
+      "artists": [
+        {
+          "name": "David Roberts",
+          "url": "https://open.spotify.com/artist/6opjDqwktGxPYPdOAs6T83"
+        }
+      ],
+      "duration_ms": 254457,
+      "name": "Boys of Autumn",
+      "url": "https://open.spotify.com/track/0pDCVNozy0RLEfQpJ6bPYJ"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Once In a Lifetime",
-        "url": "https://open.spotify.com/album/43jipQPPOtUEs0v6LlxmAf"
+        "name": "Another Page (2019 Remaster)",
+        "url": "https://open.spotify.com/album/3GkUmzCpICEFZ7sZRiHdBV"
       },
       "artists": [
         {
-          "name": "Michael Ruff",
-          "url": "https://open.spotify.com/artist/5skgtnwVGfdVqnPnTBF6ZI"
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
         }
       ],
-      "duration_ms": 272933,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/6icn5WumyUJN7o8RBz0RQU"
+      "duration_ms": 258010,
+      "name": "All Right - 2019 Remaster",
+      "url": "https://open.spotify.com/track/0DtJ6l10vlXET3UGZv8rMV"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Another Page (2019 Remaster)",
-        "url": "https://open.spotify.com/album/3GkUmzCpICEFZ7sZRiHdBV"
+        "name": "Once In a Lifetime",
+        "url": "https://open.spotify.com/album/43jipQPPOtUEs0v6LlxmAf"
       },
       "artists": [
         {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+          "name": "Michael Ruff",
+          "url": "https://open.spotify.com/artist/5skgtnwVGfdVqnPnTBF6ZI"
         }
       ],
-      "duration_ms": 258010,
-      "name": "All Right - 2019 Remaster",
-      "url": "https://open.spotify.com/track/0DtJ6l10vlXET3UGZv8rMV"
+      "duration_ms": 272933,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/6icn5WumyUJN7o8RBz0RQU"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Building The Perfect Beast",
-        "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
+        "name": "Back of My Mind",
+        "url": "https://open.spotify.com/album/4vBQzW7PH3ZbGPNnmwwzhu"
       },
       "artists": [
         {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
         }
       ],
-      "duration_ms": 288733,
-      "name": "The Boys Of Summer",
-      "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
+      "duration_ms": 240933,
+      "name": "Never Stop Believing",
+      "url": "https://open.spotify.com/track/5FtsMjfhsP5rz7VdQwJlzX"
     }
   ],
   "unique_name": "80s Soft Rock",

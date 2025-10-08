@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANumnN9Uqb7TAJKIJr+Ni/lN+BDt",
+  "snapshot_id": "AAAAAPCgNq4b/v+CqapU4E86LJHGGJ5K",
   "tracks": [
     {
       "added_at": "2025-09-26 04:50:46",
@@ -251,6 +251,30 @@
       "duration_ms": 303203,
       "name": "Rekka Rekka - From \"Bison Kaalamaadan\"",
       "url": "https://open.spotify.com/track/2lyodB0HLF9KWD8lR4EA4J"
+    },
+    {
+      "added_at": "2025-10-07 06:40:53",
+      "album": {
+        "name": "Loosu",
+        "url": "https://open.spotify.com/album/70Km7JB3PUoOBiDAWUScfS"
+      },
+      "artists": [
+        {
+          "name": "Cronyg",
+          "url": "https://open.spotify.com/artist/0SaZoElbSiD33kEknjKbRQ"
+        },
+        {
+          "name": "Seize Me",
+          "url": "https://open.spotify.com/artist/1zHAfoK6387FV8pU0QZbil"
+        },
+        {
+          "name": "Cymbol",
+          "url": "https://open.spotify.com/artist/0wKGz0DA4DP6egoQTouL1w"
+        }
+      ],
+      "duration_ms": 139968,
+      "name": "Loosu",
+      "url": "https://open.spotify.com/track/5EJPrEUbqzPEpiJP8pn1iN"
     },
     {
       "added_at": "2025-09-17 09:42:10",

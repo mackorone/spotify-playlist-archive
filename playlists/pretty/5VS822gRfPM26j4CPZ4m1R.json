@@ -1,13 +1,29 @@
 {
   "description": "Playlist",
-  "num_followers": 17843,
+  "num_followers": 17842,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAAMDOldd9tmvabY8GZqoKvcUJj+ekJ7",
+  "snapshot_id": "AAAMEzs4lEt0/LiUN923N9q6YnySTpyn",
   "tracks": [
+    {
+      "added_at": "2025-07-18 09:37:51",
+      "album": {
+        "name": "Changin Me",
+        "url": "https://open.spotify.com/album/1mOKUsrP4CiJwI13cMlBZB"
+      },
+      "artists": [
+        {
+          "name": "Worries And Other Plants",
+          "url": "https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc"
+        }
+      ],
+      "duration_ms": 186866,
+      "name": "Changin Me",
+      "url": "https://open.spotify.com/track/0ohz67ESfEL7m6xYGRPTHu"
+    },
     {
       "added_at": "2025-09-12 07:21:16",
       "album": {
@@ -25,10 +41,26 @@
       "url": "https://open.spotify.com/track/7jwJMpWbCm9SPrV6dqvAc7"
     },
     {
-      "added_at": "2025-09-19 08:32:21",
+      "added_at": "2025-10-07 08:05:12",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/0FMCpmIYZQzznX67Nv8yts"
+        "name": "Anatoli",
+        "url": "https://open.spotify.com/album/4d8mwJ5mcy4xcbi3z3wmpF"
+      },
+      "artists": [
+        {
+          "name": "Corpus Perditum",
+          "url": "https://open.spotify.com/artist/41bRvSUF56ZIhyJsAMahmJ"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Anatoli",
+      "url": "https://open.spotify.com/track/3yQxFzqdbVfpig9H94UzCq"
+    },
+    {
+      "added_at": "2025-05-30 08:54:06",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/2KpcZDIIAbqiAGf0a7Wzpt"
       },
       "artists": [
         {
@@ -40,9 +72,9 @@
           "url": "https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/0VPgqqsj5Ck8TA1DPKqnuI"
+      "duration_ms": 184000,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/752BS2kpBhOU6PGxRYXT0C"
     },
     {
       "added_at": "2025-09-29 14:40:34",
@@ -125,10 +157,10 @@
       "url": "https://open.spotify.com/track/07PkOUYkemf8GYZTB5Yvar"
     },
     {
-      "added_at": "2025-05-30 08:54:06",
+      "added_at": "2025-09-19 08:32:21",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/2KpcZDIIAbqiAGf0a7Wzpt"
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/0FMCpmIYZQzznX67Nv8yts"
       },
       "artists": [
         {
@@ -140,9 +172,9 @@
           "url": "https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/752BS2kpBhOU6PGxRYXT0C"
+      "duration_ms": 201000,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/0VPgqqsj5Ck8TA1DPKqnuI"
     },
     {
       "added_at": "2025-09-08 08:52:32",
@@ -175,22 +207,6 @@
       "duration_ms": 270005,
       "name": "GNAT",
       "url": "https://open.spotify.com/track/2kHcjE4XH8nL0BGlw67UY5"
-    },
-    {
-      "added_at": "2025-07-18 09:37:51",
-      "album": {
-        "name": "Changin Me",
-        "url": "https://open.spotify.com/album/1mOKUsrP4CiJwI13cMlBZB"
-      },
-      "artists": [
-        {
-          "name": "Worries And Other Plants",
-          "url": "https://open.spotify.com/artist/4OSvbuo6zLLwKdf0Rp9nRc"
-        }
-      ],
-      "duration_ms": 186866,
-      "name": "Changin Me",
-      "url": "https://open.spotify.com/track/0ohz67ESfEL7m6xYGRPTHu"
     },
     {
       "added_at": "2025-07-28 07:51:50",

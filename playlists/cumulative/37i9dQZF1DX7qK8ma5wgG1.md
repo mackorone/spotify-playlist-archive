@@ -4,7 +4,7 @@
 
 > It's okay to cry
 
-276 songs - 15 hr 50 min
+277 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [1:5](https://open.spotify.com/track/4KkXlAj7HIXcKNquwVty43) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [1:5](https://open.spotify.com/album/2x618fYTKtUfUXMtFmznqu) | 3:57 | 2024-05-22 | 2025-05-23 |
 | [24/5](https://open.spotify.com/track/1A6gT680oQr98VtDkNzys7) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [24/5](https://open.spotify.com/album/263g4l4u6u115I2ISnMkQP) | 2:38 | 2021-12-16 | 2022-01-11 |
 | [5 More Minutes](https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [I Know What I Want](https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va) | 3:50 | 2025-04-04 |  |
+| [A Case of You](https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 4:23 | 2025-10-07 |  |
 | [A House In Nebraska](https://open.spotify.com/track/6UxAKocZd98MRn0u5obryV) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 7:46 | 2025-03-07 |  |
 | [A Soulmate Who Wasn’t Meant to Be](https://open.spotify.com/track/0gOz9JUXsaKVzLTSmFDtdo) | [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [Do You Love Me, or Are You Just Lonely?](https://open.spotify.com/album/28B3NkA4cyPjPH0EJJTsN3) | 5:16 | 2023-03-24 | 2025-04-04 |
 | [A Year Ago](https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Year Ago](https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ) | 2:50 | 2023-05-23 | 2025-03-08 |
@@ -46,7 +47,7 @@
 | [Both Sides Now](https://open.spotify.com/track/1pjATX7sbd6Y4jMVqIvzHk) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Both Sides Now](https://open.spotify.com/album/2zK66VRY3rDGDuZcGvRJdZ) | 5:45 | 2025-03-07 |  |
 | [Boyfriend Of The Year \(Sadder\)](https://open.spotify.com/track/07vp6uxlDyqDPhjLWhFbSI) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Boyfriend Of The Year \(Sadder\)](https://open.spotify.com/album/74TSVzcVGWahrH8YahztM2) | 3:21 | 2022-12-20 | 2023-09-13 |
 | [Called You Out](https://open.spotify.com/track/2I0hkWJEy3BhVBvkWsnW5S) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Called You Out](https://open.spotify.com/album/50rX4SnIONzFzZD9kh94JL) | 2:35 | 2022-03-29 | 2022-09-21 |
-| [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 | 2022-09-06 |  |
+| [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 | 2022-09-06 | 2025-10-08 |
 | [cellophane](https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 3:24 | 2025-03-07 |  |
 | [Change Your Life](https://open.spotify.com/track/0da69c7GWKik0Azpz1si1n) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [In A Perfect World \(Complete Set\)](https://open.spotify.com/album/72Sho7ksesMhxIaHwZMRpM) | 3:22 | 2024-03-17 | 2025-03-08 |
 | [Change Your Life](https://open.spotify.com/track/34dVuWyRUgApvlec3hlqic) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [In A Perfect World \(Complete Set\)](https://open.spotify.com/album/5UNVS16LvFHVvCMyQOflnA) | 3:22 | 2024-02-27 | 2024-04-19 |
@@ -76,7 +77,7 @@
 | [Elsewhere](https://open.spotify.com/track/28WzLDIBpcD5UhWIOktTrr) | [Minke](https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw) | [Elsewhere](https://open.spotify.com/album/5p6wXzd3fXnFbvks9pZlXW) | 4:32 | 2021-12-16 | 2022-03-30 |
 | [emails i can’t send](https://open.spotify.com/track/2qLyo5FeWquE7HBUbcVnEy) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 1:44 | 2022-12-02 |  |
 | [Enough](https://open.spotify.com/track/2TwdK6m9dTg2L8oKhZC7ZD) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Enough](https://open.spotify.com/album/5oa7QL92n6HXfKY1dlz5qu) | 3:00 | 2024-02-27 | 2025-03-08 |
-| [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-10-28 | 2023-08-16 |
+| [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-10-28 |  |
 | [Everything I Didn’t Say](https://open.spotify.com/track/3g6GXZAgm8lyIcKH91uaoL) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7kG8Wp4XlwpnZWWqEHJHz6) | 3:27 | 2022-03-29 | 2022-10-15 |
 | [Everytime \- Spotify Singles](https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6) | 3:54 | 2025-03-07 |  |
 | [Face in the Crowd](https://open.spotify.com/track/0V9QY6NnXtAMwjltgMP0pl) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Face in the Crowd](https://open.spotify.com/album/5e811Cmtlnt225AQO1tIiu) | 3:24 | 2023-03-24 |  |
@@ -234,7 +235,7 @@
 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 | 2022-09-06 |  |
 | [Speechless](https://open.spotify.com/track/1pWZZfszgiDVIzbQLs50Cy) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6DGZdMi124iOOih9GMlhN2) | 4:30 | 2025-10-03 |  |
 | [Talk](https://open.spotify.com/track/1r5MwvQZLff9Y2o1QCMY9N) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Warm](https://open.spotify.com/album/5eed330fRyfporIAak7ZmH) | 2:52 | 2022-09-20 | 2023-05-06 |
-| [that way](https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 2:55 | 2021-12-16 |  |
+| [that way](https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 2:55 | 2021-12-16 | 2025-10-08 |
 | [The Essence](https://open.spotify.com/track/2g1fdNfsDfEgBUz0TDZwlz) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart?](https://open.spotify.com/album/0bI3iaA6A68DTRcUoOyQx5) | 3:09 | 2025-03-07 |  |
 | [the grudge](https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:09 | 2023-09-12 | 2025-05-13 |
 | [The Hardest Part \- Acoustic](https://open.spotify.com/track/0rYhl022XHl0RPay00dGdh) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Hardest Part \(Acoustic\)](https://open.spotify.com/album/34e0sR4qdjjB7l1nrVAL9x) | 2:55 | 2022-09-06 |  |

@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa Ellinoora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,032 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,037 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ai Että](https://open.spotify.com/track/4fgLmTOX8eIDwcFA1Zgwra) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ai Että](https://open.spotify.com/album/4N63GxMekabqpOMSu4uBSg) | 2:41 |
 | 2 | [Lääke \(Vain elämää kausi 16\)](https://open.spotify.com/track/1ieDBPzqG7gjiTMacM9ftm) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Lääke \(Vain elämää kausi 16\)](https://open.spotify.com/album/6q7AseIG8cZx1N9RqlY9tL) | 2:47 |
 | 3 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 |
-| 4 | [Voiko enkelitkin eksyä](https://open.spotify.com/track/0p2JegDOnAHal6tyUqcsbW) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Voiko enkelitkin eksyä](https://open.spotify.com/album/6ZawkhQLo031iW3evZzeUr) | 4:00 |
-| 5 | [Ahdistuksen aika](https://open.spotify.com/track/1nPpePTiMAxYBTWjQIKmul) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Melankolisten laulujen klubi](https://open.spotify.com/album/1KT2gnd5CxHspMm9YNDsmk) | 4:52 |
-| 6 | [Ei kulu päivääkään](https://open.spotify.com/track/0Q3f5sp2j2NESNeyH8YeC2) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Jos mä oisin rehellinen](https://open.spotify.com/album/1E7KbNui75iGvJirJOWlJy) | 3:45 |
-| 7 | [Olen kaunis \(syntynyt voittamaan\) \[Vain elämää kausi 16\]](https://open.spotify.com/track/6Qt8lAqvwTsfTdVzxJxGBv) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Olen kaunis \(syntynyt voittamaan\) \[Vain elämää kausi 16\]](https://open.spotify.com/album/4JlM4Fe25dcpi2cZdeu629) | 3:26 |
-| 8 | [Tähdet](https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Tähdet](https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q) | 3:15 |
+| 4 | [Tähdet](https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Tähdet](https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q) | 3:15 |
+| 5 | [Voiko enkelitkin eksyä](https://open.spotify.com/track/0p2JegDOnAHal6tyUqcsbW) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Voiko enkelitkin eksyä](https://open.spotify.com/album/6ZawkhQLo031iW3evZzeUr) | 4:00 |
+| 6 | [Ahdistuksen aika](https://open.spotify.com/track/1nPpePTiMAxYBTWjQIKmul) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Melankolisten laulujen klubi](https://open.spotify.com/album/1KT2gnd5CxHspMm9YNDsmk) | 4:52 |
+| 7 | [Ei kulu päivääkään](https://open.spotify.com/track/0Q3f5sp2j2NESNeyH8YeC2) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Jos mä oisin rehellinen](https://open.spotify.com/album/1E7KbNui75iGvJirJOWlJy) | 3:45 |
+| 8 | [Olen kaunis \(syntynyt voittamaan\) \[Vain elämää kausi 16\]](https://open.spotify.com/track/6Qt8lAqvwTsfTdVzxJxGBv) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Olen kaunis \(syntynyt voittamaan\) \[Vain elämää kausi 16\]](https://open.spotify.com/album/4JlM4Fe25dcpi2cZdeu629) | 3:26 |
 | 9 | [Jääpähän](https://open.spotify.com/track/7L1rB3YL8wCNzwPK7OnyO4) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Rallikansa](https://open.spotify.com/album/6LD8MbRnh2VrOg4SqTw5kD) | 3:10 |
 | 10 | [Yöpakkasii](https://open.spotify.com/track/5PwkPXZpfb7yXlfx5f4lsI) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Yöpakkasii](https://open.spotify.com/album/1sW7InFGvltXITXenNLk1L) | 3:00 |
 | 11 | [Köyhä ja kipee \(feat\. BESS\)](https://open.spotify.com/track/4N1xl85zvCN21lRpz5aEZQ) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Nää pirut on mun kavereit](https://open.spotify.com/album/3qfGZ2Tk9Y3SmS0p7BPjO7) | 3:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 79 | [Pimeään](https://open.spotify.com/track/5muiXER1adsb94Qb2o3Z0f) | [SINI YASEMIN](https://open.spotify.com/artist/4DpQueNEIhOottP5j70XqR) | [Pimeään](https://open.spotify.com/album/7pwKzcqSfAkTxbAbIvJilI) | 3:26 |
 | 80 | [Kauas pois](https://open.spotify.com/track/5eO7a4KuRkvbHLNHkqn4es) | [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3) | [Kauas pois](https://open.spotify.com/album/4O6x2Q6u6ygC822oYMQoHO) | 2:35 |
 
-Snapshot ID: `AAAAAMv3mqqehs9nL51HlKNMMHciKdTH`
+Snapshot ID: `AAAAAFJJbeYIv0FhlEfWL/V4qk60BP/p`

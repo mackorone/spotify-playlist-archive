@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Fernandinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,309,552 likes - 75 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,310,083 likes - 75 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

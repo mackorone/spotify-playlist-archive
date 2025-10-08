@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 
 > Music wellness for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,258 likes - 176 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,333 likes - 176 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

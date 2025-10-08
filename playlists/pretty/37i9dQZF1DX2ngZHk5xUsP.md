@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 
 > Lagu\-lagu pilihan yang cocok nemenin kamu menuju Bekasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,110 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,119 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 30 | [Khanti \(Original Soundtrack from Bidadari Bermata Bening\)](https://open.spotify.com/track/3UAqNuP74Su2h7zOXXIbWm) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Khanti \(Original Soundtrack from Bidadari Bermata Bening\)](https://open.spotify.com/album/2ff9pyMaCGKVhltK61VYTb) | 3:25 |
 | 31 | [Bertaruh Pada Api](https://open.spotify.com/track/0TblrOwGd4j8YK0cdTRo5v) | [Dongker](https://open.spotify.com/artist/6sf1OnuDZM48bgFQvPkbYm) | [Bertaruh Pada Api](https://open.spotify.com/album/2VOfBP9LA5KsNMFyM35iR1) | 4:30 |
 | 32 | [Membisu](https://open.spotify.com/track/0MCcd7qtxzOXncK5eFaBeW) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Berona](https://open.spotify.com/album/6sV7rZpvGIIQS1ccs61YXV) | 3:57 |
-| 33 | [Kosong](https://open.spotify.com/track/0bwy5RyhiWUVMXRt4MOVFA) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Time for a Change / Time to Move On](https://open.spotify.com/album/7lbJEFQEGUs1pBQfOcbdKV) | 3:28 |
-| 34 | [Sejauh Dua Benua](https://open.spotify.com/track/4k91MisM6AJZHLS4lSceOY) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7) | [Sejauh Dua Benua](https://open.spotify.com/album/54ItApQYalhDEjpXE0iumY) | 3:45 |
+| 33 | [Sejauh Dua Benua](https://open.spotify.com/track/4k91MisM6AJZHLS4lSceOY) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7) | [Sejauh Dua Benua](https://open.spotify.com/album/54ItApQYalhDEjpXE0iumY) | 3:45 |
+| 34 | [Kosong](https://open.spotify.com/track/0bwy5RyhiWUVMXRt4MOVFA) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Time for a Change / Time to Move On](https://open.spotify.com/album/7lbJEFQEGUs1pBQfOcbdKV) | 3:28 |
 | 35 | [Berdiri Teman](https://open.spotify.com/track/2wzLryGH80h3RkzuzVOriD) | [Closehead](https://open.spotify.com/artist/51kLNLcGpqb9eXGfCl0vrR) | [Discopunkhead](https://open.spotify.com/album/6sSnkZGa92joNiWAeFr44B) | 4:25 |
 | 36 | [Violet](https://open.spotify.com/track/6PjgY0Sfp9RWCtlNXoUoKf) | [Rrag](https://open.spotify.com/artist/6tTVXxmZWe3xiWFNl2l1eV) | [Violet](https://open.spotify.com/album/5aRbnZd7V7Z7cJQ3tijjrF) | 2:48 |
 | 37 | [Romantic Purple](https://open.spotify.com/track/1jcAWxx7IYrKXvECW4MwXt) | [Themilo](https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS) | [Let Me Begin](https://open.spotify.com/album/0tqaPIvkArC3EZ8sYmkLAy) | 6:14 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 46 | [Kelana](https://open.spotify.com/track/7kAhOXTPVwKODIWUzSosi1) | [Mooner](https://open.spotify.com/artist/3Nq3ERFOZXkIxMjESQxrWL) | [O\. M.](https://open.spotify.com/album/1q2oM4KRamlQUldy9Zcf6W) | 3:42 |
 | 47 | [Desire](https://open.spotify.com/track/1uH2t9fgvWUntILs9iFRZC) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn), [Ray Viera Laxmana](https://open.spotify.com/artist/4d71lT61WEn2SsjEgeSbBf) | [Our Sincere Desire](https://open.spotify.com/album/57GZmG6ZYl2479tDAusXn4) | 3:23 |
 | 48 | [Polypanic Rooms](https://open.spotify.com/track/1KER62no0SGNgvsnnpAb7M) | [Polyester Embassy](https://open.spotify.com/artist/2jbc5JbKhDkmzXj1LlmEq4) | [Tragicomedy](https://open.spotify.com/album/3VGTuyIULOBTiDkcyB0sFN) | 4:44 |
-| 49 | [UNDER GOD'S PLAN](https://open.spotify.com/track/04gCHn28qdAxXudjuvLUMh) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Mantra Vutura](https://open.spotify.com/artist/2aOcSZtVGcy3cs45euQqZ6) | [ISYANA](https://open.spotify.com/album/5j8Y7IqRpYBl9PnA4Tl1qI) | 6:51 |
-| 50 | [Berona](https://open.spotify.com/track/5w4u2NiaTnBmiCFZSyQxYY) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Berona](https://open.spotify.com/album/0VXwE7HnJZ0HIv6SXuOMh2) | 2:15 |
+| 49 | [Berona](https://open.spotify.com/track/5w4u2NiaTnBmiCFZSyQxYY) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Berona](https://open.spotify.com/album/0VXwE7HnJZ0HIv6SXuOMh2) | 2:15 |
+| 50 | [UNDER GOD'S PLAN](https://open.spotify.com/track/04gCHn28qdAxXudjuvLUMh) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Mantra Vutura](https://open.spotify.com/artist/2aOcSZtVGcy3cs45euQqZ6) | [ISYANA](https://open.spotify.com/album/5j8Y7IqRpYBl9PnA4Tl1qI) | 6:51 |
 
 Snapshot ID: `AAAAAHk9jI88jn+MbonrZ1bY0v3H12Sy`

@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Mao\. Artwork: Isu Kim
 
-446 songs - 23 hr 41 min
+449 songs - 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,9 +41,10 @@
 | [Aroma عبير](https://open.spotify.com/track/0uaGiRPEILWQbamtwPmtVb) | [TheSaif](https://open.spotify.com/artist/6wE2ow6Lhp2eO5t71wygwA) | [Aroma عبير](https://open.spotify.com/album/1ZuKymhfVlambrhftRjWRJ) | 4:02 | 2023-01-17 | 2023-06-21 |
 | [Asliyah](https://open.spotify.com/track/5IHH65QmmSkqhbATP3sZFt) | [Asayel](https://open.spotify.com/artist/31UcNVT6d7myOObOy0LsNS) | [Asliyah](https://open.spotify.com/album/4asoomU1I56N5Bt6CunOgU) | 2:58 | 2024-09-11 | 2024-11-27 |
 | [Ataitek](https://open.spotify.com/track/5ryqKdwizfpw0v8HWnu6Cd) | [Ramii](https://open.spotify.com/artist/085VeFqXoFk5oonsAD2H3M) | [Ataitek](https://open.spotify.com/album/1ZQu5ILQBkdsDNSNz0cfdM) | 2:36 | 2023-09-06 | 2024-01-17 |
-| [Aحla](https://open.spotify.com/track/1mW1HAX56sSxdYR0eSfMpa) | [Jamoul](https://open.spotify.com/artist/3exUAiuWlhYuYRG4VjcrTX) | [Aحla](https://open.spotify.com/album/0AAi5KV4NyE6bCrDzSYVRq) | 3:04 | 2025-02-12 |  |
+| [Aحla](https://open.spotify.com/track/1mW1HAX56sSxdYR0eSfMpa) | [Jamoul](https://open.spotify.com/artist/3exUAiuWlhYuYRG4VjcrTX) | [Aحla](https://open.spotify.com/album/0AAi5KV4NyE6bCrDzSYVRq) | 3:04 | 2025-02-12 | 2025-10-08 |
 | [Babrio](https://open.spotify.com/track/2biC9PP13QlanDL0Jb1Q20) | [Shinigami](https://open.spotify.com/artist/0ENNdQNQ6dlTit1exQNrL0) | [Babrio](https://open.spotify.com/album/6zJ7PQ9Glv74Y7wxsj3xyU) | 3:45 | 2025-05-15 |  |
 | [Back to you](https://open.spotify.com/track/334zuvClv7JYENjupg71GT) | [THE SVNH](https://open.spotify.com/artist/5uPlfGiZu46QlnaDYkcbAm) | [Back to you](https://open.spotify.com/album/7umWTAON78uAbqlZlVLuFO) | 3:05 | 2022-10-04 | 2023-03-15 |
+| [Badary](https://open.spotify.com/track/13kzDpFJSn5IQdCs4q4ICp) | [Hila](https://open.spotify.com/artist/3A3pot8KOSN2Yozwl0NLuU) | [GG](https://open.spotify.com/album/7I8SCGztzMGf245VRw3w5e) | 1:12 | 2025-10-07 |  |
 | [Bafaker Kteer](https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Bafaker Kteer](https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi) | 3:20 | 2022-10-19 | 2022-11-10 |
 | [Bahlam Maak](https://open.spotify.com/track/2Tswp3UzBbZ9IhLURfDoWC) | [Dania](https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx) | [Bahlam Maak](https://open.spotify.com/album/6bBpBOjZMiI8aWreQXLIQS) | 3:28 | 2024-05-14 | 2024-09-12 |
 | [Bako](https://open.spotify.com/track/5nO62GzQVuXyos3rrh4v7f) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ) | [Bako](https://open.spotify.com/album/57iBcfM3UGV6AaNYjDbmcc) | 3:03 | 2022-09-20 | 2022-11-24 |
@@ -177,7 +178,7 @@
 | [Kalam Kteer](https://open.spotify.com/track/2MPhQqiPRsHJUVZqAW3xNi) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Kalam Kteer](https://open.spotify.com/album/7ticL8OnOkr0oJ9VdssO3a) | 2:52 | 2022-11-01 | 2023-01-18 |
 | [KALIMNI](https://open.spotify.com/track/09kxB0BiZpFdjCTavu1YSt) | [Omar Whosof](https://open.spotify.com/artist/3yT8ShXUgEHCcPm8zYKnDF), [Soufroud](https://open.spotify.com/artist/42vfCMrTqlboQmnADL4FEB) | [KALIMNI](https://open.spotify.com/album/04xQVq2R04Hwd7MshKExFA) | 3:15 | 2023-01-31 | 2023-03-02 |
 | [Kam Marra](https://open.spotify.com/track/15tIRJQC1h2ruUIhPgGilA) | [Mira Habash](https://open.spotify.com/artist/67rrdqoZIyGLwoVaqYDm0F) | [Kam Marra](https://open.spotify.com/album/4UCSHPuzE1YTd8FR35h1Ew) | 3:09 | 2024-05-14 | 2024-08-14 |
-| [Kansayn Ghi Nahr Ysali](https://open.spotify.com/track/154GLlVoLeHokWHM8HHBSf) | [Meta4 Planet](https://open.spotify.com/artist/5ly3gcirOViqRU8RdR045r) | [Outdoor](https://open.spotify.com/album/5ohgIZXSMggtFJexLYTUPr) | 3:03 | 2025-02-10 |  |
+| [Kansayn Ghi Nahr Ysali](https://open.spotify.com/track/154GLlVoLeHokWHM8HHBSf) | [Meta4 Planet](https://open.spotify.com/artist/5ly3gcirOViqRU8RdR045r) | [Outdoor](https://open.spotify.com/album/5ohgIZXSMggtFJexLYTUPr) | 3:03 | 2025-02-10 | 2025-10-08 |
 | [Karnaby](https://open.spotify.com/track/3SI5Q4mkeRW1gDfSOSdiBa) | [Koteri](https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI) | [Karnaby](https://open.spotify.com/album/6MpbHu6gNud9ghMwpDXiGP) | 1:57 | 2024-05-22 | 2024-09-12 |
 | [Kart Ma7roo2](https://open.spotify.com/track/1r3WiswE73ciaR251nSqiM) | [Amira Adeeb](https://open.spotify.com/artist/04JuXvm8MDLVe845QWe137) | [Kart Ma7roo2](https://open.spotify.com/album/4SelpbJbiiWnyvTg2oSaUW) | 2:33 | 2024-08-13 | 2024-11-07 |
 | [KAWASAKI](https://open.spotify.com/track/38V0XqPtlaEq0G0wxM5mdI) | [ASTRO](https://open.spotify.com/artist/4jFrvW7EKQviP7bhUNfSTv) | [KAWASAKI](https://open.spotify.com/album/1Brwn0jmwoJbjMS16Cmf0V) | 3:00 | 2024-06-26 | 2024-10-02 |
@@ -192,6 +193,7 @@
 | [Kitchen](https://open.spotify.com/track/5nRtylSD6JbhoC3DoFkinD) | [Beast](https://open.spotify.com/artist/5DJLMjyosyNTiQZsdY44ED) | [Kitchen](https://open.spotify.com/album/5jTJVLDVNF5vBr1RL4txfl) | 3:15 | 2023-07-18 | 2024-02-21 |
 | [KOL LEILA](https://open.spotify.com/track/1u22mL4rk5a4Y6NG9IenBy) | [KHALED ROSSIA](https://open.spotify.com/artist/6LxiAUw5qfrr2MiUNlHpO9) | [KOL LEILA](https://open.spotify.com/album/2H5hFjBof7mlfiQbbjZiS7) | 2:15 | 2024-07-09 | 2024-11-07 |
 | [Kolchi 3arf](https://open.spotify.com/track/3xmhvhO1q0KkpT2bk6ibfu) | [Odeys](https://open.spotify.com/artist/5nt1POu9Ic7eODvynu0tyf) | [Kolchi 3arf](https://open.spotify.com/album/5Nu77x2QkREvxts4nQntom) | 3:29 | 2024-04-30 | 2024-07-10 |
+| [KOLO YE7EB 3ALA EDY](https://open.spotify.com/track/2Y2gdmBBXce8yScFhAyXQC) | [Vest](https://open.spotify.com/artist/7a3ylB0pQzc4E853hNdCKX), [ميلو](https://open.spotify.com/artist/3mXE7BL3H3oCL16lpDtycN) | [KOLO YE7EB 3ALA EDY](https://open.spotify.com/album/0wTvlwvrECjghSmyZMlup1) | 1:16 | 2025-10-07 |  |
 | [Korhik](https://open.spotify.com/track/1Q4I7PEkUvudEbIfdTnGDx) | [Tayar \- تيّار](https://open.spotify.com/artist/6ntwC60sylc4u0Npjoj6GM), [Ibrahim Najada](https://open.spotify.com/artist/0oHkjuDMeDLoh3P4Q1iokm) | [Kol Shi Sar](https://open.spotify.com/album/3BxKZY5K6O893yfLrqi6yq) | 5:11 | 2024-07-09 | 2024-11-07 |
 | [LA \(لا\)](https://open.spotify.com/track/3Kj7uJJ1R4lf7axD772aK3) | [GODRUN](https://open.spotify.com/artist/7Gn6GAt5IPYsEmGYVhc0yc) | [LA \(لا\)](https://open.spotify.com/album/1Alkct9C7loHYfTxYonwrk) | 2:27 | 2024-01-16 | 2024-05-23 |
 | [Laa](https://open.spotify.com/track/1xyE7A0oSKNdUcRmCau56F) | [Rust](https://open.spotify.com/artist/1XzT6srnxzyGocVsjgrdWR) | [Laa](https://open.spotify.com/album/1AoAHD9U2WcFPt0TTJ9yhu) | 3:16 | 2024-04-30 | 2024-07-10 |
@@ -199,6 +201,7 @@
 | [Lafena](https://open.spotify.com/track/2nn8d3beF6cbZUOgwFo874) | [Shargeeya](https://open.spotify.com/artist/3d3ra9wZ8mOWqIV04cNSVK) | [Lafena](https://open.spotify.com/album/7vJjPvXyxOV7hRb9e3hhhW) | 3:16 | 2024-06-26 | 2024-10-02 |
 | [LAMA AB’A MAAK](https://open.spotify.com/track/4ETJnYTY8P5TIjU5oWgFrh) | [ESS](https://open.spotify.com/artist/4Ac6dsXygagJvXowyX9btP) | [LAMA AB’A MAAK](https://open.spotify.com/album/7gQKuDwWXNmWgU1raWjr9Q) | 2:59 | 2025-09-24 |  |
 | [Last Time That I Saw You](https://open.spotify.com/track/1hspuwdjIRtcmTi7QkC7fM) | [Abra Salem](https://open.spotify.com/artist/5FO7kzy6wVe7lGKOOGZ1y6) | [Last Time That I Saw You](https://open.spotify.com/album/58RWGR3hxvhVELh5hOpFrn) | 3:41 | 2023-09-06 | 2024-05-02 |
+| [law f zaman tany](https://open.spotify.com/track/3LRXM9DLmDYTc4P9QP9rjx) | [Noha](https://open.spotify.com/artist/7tBhTihCulpL1l61zcMxcA) | [law f zaman tany](https://open.spotify.com/album/0xBHnUAm32g1SC8AZNVVGQ) | 2:23 | 2025-10-07 |  |
 | [Law Tes'aleeny](https://open.spotify.com/track/5ug0O0aWp6ZTNPLwKno7MX) | [Stigma](https://open.spotify.com/artist/19tDakgScrQj3wRGWdj87v) | [Law Tes'aleeny](https://open.spotify.com/album/2ubJvQHuxfAPdbmDpNg5y1) | 3:50 | 2024-02-07 | 2024-06-27 |
 | [Leh \(ليش\)](https://open.spotify.com/track/2jPcIPZC1ib88HgCtCxTlO) | [Norhan](https://open.spotify.com/artist/4GEoaIvEquHnb4yy28scNj) | [Leh \(ليش\)](https://open.spotify.com/album/6BmoWEvQAaZsdhxfnSHuT2) | 3:06 | 2024-04-30 | 2024-08-14 |
 | [Leh Ya Hana ?](https://open.spotify.com/track/4ZblA6ehlUEGgy3cpENRrx) | [Arnabeat](https://open.spotify.com/artist/31OlJhazERjXIrCE9SQQbM) | [Leh Ya Hana ?](https://open.spotify.com/album/4uWS5ntd91UbXbekxpDdLN) | 3:54 | 2023-03-01 | 2023-09-13 |
@@ -337,7 +340,7 @@
 | [Shams](https://open.spotify.com/track/2cxPQqNhII3kta4S1Wq0ga) | [Nour Harkati](https://open.spotify.com/artist/0LFvN0ZSf92CMb00teZdYJ) | [Shams](https://open.spotify.com/album/6ZUBxaMA0lBhepxO0tERaJ) | 2:22 | 2024-06-26 | 2024-10-02 |
 | [Shar](https://open.spotify.com/track/3P2kcZwsngegqgCMyfiEtE) | [Zelci](https://open.spotify.com/artist/0yuuL1bDTmVwdqpKzVAkUx) | [Shar](https://open.spotify.com/album/3RfZOrxXtIjR0aaR7OIsQs) | 2:36 | 2024-09-11 | 2024-11-27 |
 | [SHI YOUM](https://open.spotify.com/track/5tRkSiBQIratndFW0vEyYp) | [Nawal](https://open.spotify.com/artist/4I7cv8uAvHYwNrMgHer9bV) | [SHI YOUM](https://open.spotify.com/album/2ywLVuySYv49ljRVcGRbdh) | 3:17 | 2025-01-22 | 2025-09-25 |
-| [SHIKA SHYAKA](https://open.spotify.com/track/7q38eXaAnnVFZPLFZNu1e5) | [Shikago](https://open.spotify.com/artist/54LaKdog6976vaviJ1JoWH) | [SHIKA SHYAKA](https://open.spotify.com/album/0CpyR13JBqQuX5zxuuzzzR) | 2:27 | 2025-02-17 |  |
+| [SHIKA SHYAKA](https://open.spotify.com/track/7q38eXaAnnVFZPLFZNu1e5) | [Shikago](https://open.spotify.com/artist/54LaKdog6976vaviJ1JoWH) | [SHIKA SHYAKA](https://open.spotify.com/album/0CpyR13JBqQuX5zxuuzzzR) | 2:27 | 2025-02-17 | 2025-10-08 |
 | [Shoot](https://open.spotify.com/track/5G6GMEcuuw92z2Co6YhYBv) | [Dony](https://open.spotify.com/artist/5SPuVApDsQW9TH1UyFWtWu) | [SWITCH](https://open.spotify.com/album/3sMRt8a54GIJliuYwdnv0K) | 2:24 | 2025-08-07 |  |
 | [Shta2tella](https://open.spotify.com/track/66Vk9wfboLceIahHzBJuV0) | [Ibby VK](https://open.spotify.com/artist/1ZaiYYGVDJvISe5rUV7JAS) | [Shta2tella](https://open.spotify.com/album/1EZENUppFnXlur5KKsP41B) | 1:55 | 2023-02-14 | 2023-03-22 |
 | [Sidi](https://open.spotify.com/track/2HxLwYX0P7rcZp7SO7Cqd0) | [Nour Harkati](https://open.spotify.com/artist/0LFvN0ZSf92CMb00teZdYJ) | [Sidi](https://open.spotify.com/album/4xXiGTd4CRErEhtpVl3m5w) | 3:24 | 2024-09-11 | 2025-01-23 |

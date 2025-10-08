@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 653357,
+  "num_followers": 653394,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAACO++OCf1S1LpnQGNPZDHTX",
+  "snapshot_id": "aOMGgAAAAAB2+ThReZcBvVCWMVhH7Bkd",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only the Strong Survive",
-        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 296906,
-      "name": "Nightshift",
-      "url": "https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Darkness On the Edge of Town",
         "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 268453,
       "name": "The Promised Land",
       "url": "https://open.spotify.com/track/2KQq1pn2eUDEFitdQ4WzzZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Only the Strong Survive",
+        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 296906,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lonely Night In The Park",
-        "url": "https://open.spotify.com/album/0UW5iJTjUbGL3S5fK8aWCP"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 277039,
-      "name": "Lonely Night In The Park",
-      "url": "https://open.spotify.com/track/4XHstWlKuxTfhs5DRTASi6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Promise",
         "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
       },
@@ -719,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lonely Night In The Park",
+        "url": "https://open.spotify.com/album/0UW5iJTjUbGL3S5fK8aWCP"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 277039,
+      "name": "Lonely Night In The Park",
+      "url": "https://open.spotify.com/track/4XHstWlKuxTfhs5DRTASi6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Born To Run",
         "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
       },
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 191293,
+      "name": "State Trooper",
+      "url": "https://open.spotify.com/track/1Ulh5rWbhhV3PltDadTBZC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The List",
         "url": "https://open.spotify.com/album/2ztJpdxupEltRgGuzihTJb"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 186226,
       "name": "Sea Of Heartbreak",
       "url": "https://open.spotify.com/track/7jOVz43pU3sGMbKdoSBeWU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nebraska",
-        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 191293,
-      "name": "State Trooper",
-      "url": "https://open.spotify.com/track/1Ulh5rWbhhV3PltDadTBZC"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-282 songs - 13 hr 53 min
+283 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Soothe](https://open.spotify.com/track/5HUkAj1VUDNKtkt6uM45xR) | [Ever So Calm](https://open.spotify.com/artist/5UejQ2slJWcB1KMznzQ1jd) | [Soothe](https://open.spotify.com/album/4n3NUoFluygkss3dDjfEea) | 2:51 | 2022-07-19 | 2022-07-29 |
 | [Sphere](https://open.spotify.com/track/0K2oSQOzcltOpZm8ubzNzw) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Sphere](https://open.spotify.com/album/2qKx3bzl3GaSLtf2Yv5PZn) | 2:59 | 2022-07-19 | 2025-03-13 |
 | [Spiritual Connection](https://open.spotify.com/track/4tFJJqsflgibkZXlg6td2n) | [Lynx XII](https://open.spotify.com/artist/4NkftNKnmddqOOVCrSvOOa) | [Spiritual Connection](https://open.spotify.com/album/3RJ0HTus0I3m9Rtpc9Ohve) | 3:18 | 2025-07-24 |  |
+| [Spiritual Oasis](https://open.spotify.com/track/1RyDmEXJBK9YPWPABmMc3A) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Spiritual Oasis](https://open.spotify.com/album/3W2XFXjeoW9w57gbVqQa0q) | 2:20 | 2025-09-30 |  |
 | [Stillness](https://open.spotify.com/track/5dm8dyCwn5fGikFFmcSoGc) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Stillness](https://open.spotify.com/album/45JitQMFNSa8L3wFS5JOcC) | 3:11 | 2022-07-19 | 2025-04-30 |
 | [Stressophobic](https://open.spotify.com/track/6O6CClNFRAQ9Y2wB3t2g84) | [Phobic](https://open.spotify.com/artist/4pgvre1wDhGGmEbjevWClj) | [Stressophobic](https://open.spotify.com/album/4viW8FRpQz928WnCqe2NME) | 2:52 | 2023-11-24 | 2025-02-22 |
 | [Structure](https://open.spotify.com/track/4mxKceI65QluBw8XSJpXiN) | [Matter and Energy](https://open.spotify.com/artist/0i2Fbuq612ktsHdQHAzV51) | [Structure](https://open.spotify.com/album/396r7PoiVVsRKXg8jlD3GX) | 3:05 | 2023-10-04 | 2025-03-20 |
@@ -282,7 +283,7 @@
 | [Vivid Imagination](https://open.spotify.com/track/4wV6irpJa9f21iaadadfrG) | [Heaven on Earth Instrumental Universe](https://open.spotify.com/artist/7aLueB60C95UX3TOvWgbAt) | [Psybient \(Psychedelic Ambient Music\)](https://open.spotify.com/album/0hXQHpXhx1EupvlaZC7tvM) | 3:16 | 2022-11-11 | 2025-01-01 |
 | [Waves of Harmony](https://open.spotify.com/track/3bFrewfGiJ3Zw9FKB6A63W) | [Magnetic Dreams](https://open.spotify.com/artist/5DsqLNucfAOaAj3yEWefJc) | [Waves of Harmony](https://open.spotify.com/album/3VOhKn22ZqXnvBHYXukrAc) | 2:38 | 2022-07-05 | 2022-07-28 |
 | [Waves of Harmony](https://open.spotify.com/track/5JEUb6ZynRuW2tuhk3oPE1) | [Magnetic Dreams](https://open.spotify.com/artist/5DsqLNucfAOaAj3yEWefJc) | [Waves of Harmony](https://open.spotify.com/album/55DECemDNrUt9gvi7zCwpn) | 2:38 | 2023-08-25 | 2024-04-19 |
-| [Weightless](https://open.spotify.com/track/2MH1fR1gK1o0BZcoSwvwqX) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [Weightless](https://open.spotify.com/album/4lriXb1ncZ3k5USr0jWiOA) | 2:29 | 2022-07-05 |  |
+| [Weightless](https://open.spotify.com/track/2MH1fR1gK1o0BZcoSwvwqX) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [Weightless](https://open.spotify.com/album/4lriXb1ncZ3k5USr0jWiOA) | 2:29 | 2022-07-05 | 2025-10-08 |
 | [Weightless](https://open.spotify.com/track/0yEZxJLSG9jBgtBKdMdVqo) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Weightless](https://open.spotify.com/album/2l8EFjcW1SF2I3GaCBALSI) | 1:45 | 2023-06-23 | 2023-07-29 |
 | [Weightless](https://open.spotify.com/track/3dgeoy7YwkEMaa1gPHtqOa) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Weightless](https://open.spotify.com/album/3SeUtPVXxyLEOK9Fd4VQzG) | 1:45 | 2022-07-19 | 2022-07-25 |
 | [When The Day Fades](https://open.spotify.com/track/2zmweAUpApR2KRZV9Xca8v) | [Salomon Isle](https://open.spotify.com/artist/48J1kuqZgr2pNtsN8BxhZu) | [When The Day Fades](https://open.spotify.com/album/7eqQS1uXmbwUk9weF1Cps4) | 2:31 | 2024-02-16 |  |

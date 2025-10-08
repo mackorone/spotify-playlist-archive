@@ -2,9 +2,9 @@
 
 ### [Women's Voice](https://open.spotify.com/playlist/37i9dQZF1DWTD6tHjIApT3)
 
-> 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: CUTIE STREET
+> 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: chelmico
 
-3,358 songs - 8 day 22 hr 16 min
+3,359 songs - 8 day 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1415,6 +1415,7 @@
 | [Sakura](https://open.spotify.com/track/1TmEGOLV7bvCvdDaEpLPuT) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [Sakura](https://open.spotify.com/album/4JRwoJggRt23Xl2Jj7IeCr) | 3:31 | 2025-04-08 | 2025-04-29 |
 | [Sakura](https://open.spotify.com/track/0PKRLhHMFebyoFt14S51lz) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [Sakura](https://open.spotify.com/album/7hqw3MFOFRzvGWiXHfzHvk) | 5:13 | 2025-02-18 | 2025-02-26 |
 | [Sakura Hitohira](https://open.spotify.com/track/3wyqSJM69sBzEP2hEnKPCp) | [Maica\_n](https://open.spotify.com/artist/5MDud7grDjx8ISAmWjLFeM) | [Sakura Hitohira](https://open.spotify.com/album/5aNB7ToGM19Qbo26QC5feI) | 3:33 | 2025-02-18 | 2025-02-26 |
+| [SALT AND PEPPER](https://open.spotify.com/track/2BZXo0GtuKlEIyGP6sdfX7) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [SALT AND PEPPER](https://open.spotify.com/album/4olggPlIlKVENiJwmIzzOQ) | 3:18 | 2025-10-07 |  |
 | [Samurai](https://open.spotify.com/track/3yZE5VVIZCbPuBBocFoO6A) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Steal Your Heart](https://open.spotify.com/album/7yxLzNJcrHpF58TOpS18as) | 3:25 | 2023-12-05 | 2023-12-27 |
 | [samurai](https://open.spotify.com/track/7I8cqnhGcAvgGrZpQ9m0yC) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Steal your heart](https://open.spotify.com/album/7DMwYGYZLwTPLhgPibhEkq) | 3:25 | 2023-12-05 | 2023-12-07 |
 | [Sapporo Tokyo](https://open.spotify.com/track/3C0NTs2KlwLCktZ1vs22aC) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Love One Another](https://open.spotify.com/album/2BKXSl0ktKpWNHzqdAAy1T) | 3:21 | 2024-04-02 | 2024-04-17 |
@@ -3277,7 +3278,7 @@
 | [遠い街のどこかで…](https://open.spotify.com/track/15cyI9UoqIOBXtnb5fPkq3) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [遠い街のどこかで…](https://open.spotify.com/album/2heEQ0XdXnD4FHLi2mXLgf) | 5:32 | 2023-12-05 | 2023-12-13 |
 | [遠恋歌](https://open.spotify.com/track/0RAUNsi6rVBsfi3mt9oAf2) | [YOAKE](https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M) | [遠恋歌](https://open.spotify.com/album/6zu0d4mm0cwqRtySSxyfuq) | 3:29 | 2023-10-19 | 2023-11-22 |
 | [遠路](https://open.spotify.com/track/3KQZmyZstQuBGUTVLccK0f) | [Tomiko Van](https://open.spotify.com/artist/7bQTvi0LDupAeQp7wPR4Gr) | [遠路](https://open.spotify.com/album/3asNsUpGRQ1XX67chYJBw1) | 5:37 | 2022-06-02 | 2022-07-15 |
-| [遠雷](https://open.spotify.com/track/14NMsBNiuQw1eHFxNG9ybL) | [tayori](https://open.spotify.com/artist/0XqIQi5z2qmlxlcUwlJPe2) | [遠雷](https://open.spotify.com/album/71ccrOc4WR86wuyeDu5dWB) | 3:45 | 2025-08-26 |  |
+| [遠雷](https://open.spotify.com/track/14NMsBNiuQw1eHFxNG9ybL) | [tayori](https://open.spotify.com/artist/0XqIQi5z2qmlxlcUwlJPe2) | [遠雷](https://open.spotify.com/album/71ccrOc4WR86wuyeDu5dWB) | 3:45 | 2025-08-26 | 2025-10-08 |
 | [遥か](https://open.spotify.com/track/6At8fG853JqHaZP72oONtA) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [遥か](https://open.spotify.com/album/6uDU9vnNFQN2WB4h7pwI93) | 3:11 | 2024-04-02 | 2024-06-05 |
 | [遥か](https://open.spotify.com/track/4sPGTpguVhyD2KkMKTiJOu) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [遥か / 800 / End of All / Ref:rain \-3 nuits ver.\-](https://open.spotify.com/album/2s6oAbsnZxb2CfmxsHbOcy) | 3:14 | 2024-06-04 | 2024-10-01 |
 | [遺体](https://open.spotify.com/track/7IAK0sgm0jCssCTY1Dornd) | [Österreich](https://open.spotify.com/artist/16gEZTmX8wNpdWCgD28LRx) | [遺体](https://open.spotify.com/album/2j5JGrB00OkI0Mt8zok9wm) | 5:28 | 2022-06-24 | 2022-06-26 |

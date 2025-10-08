@@ -1,12 +1,12 @@
 {
   "description": "This is Cage The Elephant. The essential tracks, all in one playlist.",
-  "num_followers": 177972,
+  "num_followers": 177991,
   "original_name": "This Is Cage The Elephant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAABCU8kFGnNBCMoXaUmHOnBb",
+  "snapshot_id": "aOMGgAAAAABK89ye8TFW1PLG+nznWe4d",
   "tracks": [
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 187973,
-      "name": "Ready To Let Go",
-      "url": "https://open.spotify.com/track/4UyAtnwhaKv7EG1BdkBYRI"
+      "duration_ms": 226533,
+      "name": "Black Madonna",
+      "url": "https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq"
     },
     {
       "added_at": null,
@@ -212,25 +212,9 @@
           "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 226533,
-      "name": "Black Madonna",
-      "url": "https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tell Me I'm Pretty",
-        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 173173,
-      "name": "Mess Around",
-      "url": "https://open.spotify.com/track/0X0Lz7LwpiIWcdGqVWaxXD"
+      "duration_ms": 187973,
+      "name": "Ready To Let Go",
+      "url": "https://open.spotify.com/track/4UyAtnwhaKv7EG1BdkBYRI"
     },
     {
       "added_at": null,
@@ -247,6 +231,22 @@
       "duration_ms": 201240,
       "name": "Neon Pill",
       "url": "https://open.spotify.com/track/0cgyeBU54kjmI54TflMANg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tell Me I'm Pretty",
+        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 173173,
+      "name": "Mess Around",
+      "url": "https://open.spotify.com/track/0X0Lz7LwpiIWcdGqVWaxXD"
     },
     {
       "added_at": null,

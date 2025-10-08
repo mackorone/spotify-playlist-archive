@@ -6,8 +6,28 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUp9p0XEgcpAKqqApuTV2wYU9kTy5p",
+  "snapshot_id": "AAAUqIF5gQXuwodM3PcA57Ac7txtjeIo",
   "tracks": [
+    {
+      "added_at": "2025-10-07 14:17:46",
+      "album": {
+        "name": "Halcyon",
+        "url": "https://open.spotify.com/album/10Tnylky6pyR5dVSR68TIu"
+      },
+      "artists": [
+        {
+          "name": "terro",
+          "url": "https://open.spotify.com/artist/6b7wbuM174mDXtmRH4y37g"
+        },
+        {
+          "name": "TMPST",
+          "url": "https://open.spotify.com/artist/59cVQmptpzY1hVL5jRHJoI"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Never Let You Go",
+      "url": "https://open.spotify.com/track/6qEH1WMq3t3ZrNejH3JJLs"
+    },
     {
       "added_at": "2025-10-06 14:12:46",
       "album": {

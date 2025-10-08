@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md) - cumulative - [plain](/playlists/plain/65txKM8JvWVEJORHstAcVL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/65txKM8JvWVEJORHstAcVL)
 
-### [LA LLISTA DE FLAIXBAC \(28/9/2025\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
+### [LA LLISTA DE FLAIXBAC \(5/10/2025\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-196 songs - 9 hr 46 min
+198 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [By Your Side \(In My Mind\)](https://open.spotify.com/track/0pSwhT654HC2knBvjn5f89) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [By Your Side \(In My Mind\)](https://open.spotify.com/album/2WN1hoD8UtrSHItI9QO5Qy) | 2:57 | 2025-02-24 | 2025-04-16 |
 | [Cada Tren](https://open.spotify.com/track/2bSli26Z7XgEC5QQqOl2nB) | [Flashy Ice Cream](https://open.spotify.com/artist/24yN33FZM27S4x4EJCFsjR) | [Cada Tren](https://open.spotify.com/album/67QD150Sgbh0Z2qG6HQvtH) | 3:23 | 2024-02-18 | 2024-03-25 |
 | [Call My Name](https://open.spotify.com/track/79G8bdHuXIbHCAOsyuDWzN) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Call My Name](https://open.spotify.com/album/0nY0X0q9Kv4b1iEiv1ORFq) | 5:03 | 2025-05-05 | 2025-09-02 |
+| [Camera](https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH) | 3:35 | 2025-10-07 |  |
 | [capaz \(merengueton\)](https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:53 | 2025-04-07 |  |
 | [Casanova](https://open.spotify.com/track/0qZhK4gFB5c1Wxsnd6WA8U) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Casanova](https://open.spotify.com/album/0igR3TtSOtN4dCTFH9wA71) | 4:03 | 2024-01-28 | 2024-08-05 |
 | [Catalan Society](https://open.spotify.com/track/5dW8Wj31UNYm42B2XXXfY1) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo) | [Catalan Society](https://open.spotify.com/album/6fYFt0ILIOkoET1a8imbM9) | 2:11 | 2025-02-24 | 2025-07-15 |
@@ -77,6 +78,7 @@
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-09-15 | 2025-08-12 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-10-29 | 2024-06-10 |
 | [Grup de Pop](https://open.spotify.com/track/22GaUTgtNuKfMQ34jaL7yk) | [Sexenni](https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR), [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [Grup de Pop](https://open.spotify.com/album/7cozVZjZdH5MZFwlOWcLVn) | 2:22 | 2024-03-10 | 2024-07-22 |
+| [Guapíssima](https://open.spotify.com/track/6yXfa5OsSJc1Tp0drOmEKE) | [Banda Neon](https://open.spotify.com/artist/238KXKJTOYGAkQLQslSyYU) | [Guapíssima](https://open.spotify.com/album/3u0gveddvcgOqAucrloaGz) | 2:07 | 2025-10-07 |  |
 | [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/track/1TXbPx0WUaJM0fjDVs4wCD) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/album/7tm57crYhN6WvRfB51A7Up) | 3:03 | 2023-10-29 | 2024-03-25 |
 | [HEM VINGUT A JUGAR](https://open.spotify.com/track/381uhXd2a52f6WiLtjiCZs) | [Buhos](https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR) | [HEM VINGUT A JUGAR](https://open.spotify.com/album/53qkR8B31cDvVdKbKWldOa) | 2:31 | 2025-01-12 | 2025-06-03 |
 | [HERE TO STAY](https://open.spotify.com/track/10Df5LD2JCT1C0GJyWxBJf) | [Sofia Coll](https://open.spotify.com/artist/6Cn9q93GGDWyKJNDclydGd) | [HERE TO STAY](https://open.spotify.com/album/0WygPaugo9fU5L9iAVGHjG) | 2:38 | 2024-02-05 | 2024-07-15 |
@@ -181,13 +183,13 @@
 | [TORNAR](https://open.spotify.com/track/65EFsbz7V4seWa9mNpWjeN) | [La Fúmiga](https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz) | [TORNAR](https://open.spotify.com/album/6dzk7KpVSmhTHjmhtomhER) | 2:49 | 2023-12-10 | 2024-04-15 |
 | [Tornem a casa](https://open.spotify.com/track/7bc9WLunD2VxC2FxC3bKVB) | [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [Tornem a casa](https://open.spotify.com/album/3pSGOz6onFQ1hJtX9ugPCM) | 2:36 | 2023-11-26 | 2024-05-06 |
 | [TOSSUDA PT\. 2](https://open.spotify.com/track/5VFQ2WarGuzkdg5TLST6tW) | [31 FAM](https://open.spotify.com/artist/0LweECx5LKm6I3gIcWMdpB) | [R31](https://open.spotify.com/album/7zqr5WoKRLsNXvz2ZdX3gC) | 3:00 | 2025-05-12 |  |
-| [Tot el que ens queda](https://open.spotify.com/track/2QcmLFnAZme6TIzmV3NZCT) | [Ginestà](https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6) | [Només viure](https://open.spotify.com/album/5gPtexQvCrXiZfjpPKbOpE) | 2:27 | 2025-03-09 |  |
+| [Tot el que ens queda](https://open.spotify.com/track/2QcmLFnAZme6TIzmV3NZCT) | [Ginestà](https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6) | [Només viure](https://open.spotify.com/album/5gPtexQvCrXiZfjpPKbOpE) | 2:27 | 2025-03-09 | 2025-10-08 |
 | [TOTA LA VIDA](https://open.spotify.com/track/7ofUma7jeWAAc7AWMnvagX) | [Iglú](https://open.spotify.com/artist/4Wfi7bsHCX2jfKgYvwl4gO) | [TOTA LA VIDA](https://open.spotify.com/album/0rwWliQB70qlXeDgSE8lnJ) | 2:52 | 2024-02-11 | 2024-04-29 |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-25 | 2024-10-07 |
 | [TUTA GOLD](https://open.spotify.com/track/654Jxp6rUFgPckixlIusRJ) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [TUTA GOLD](https://open.spotify.com/album/298TPucavaqMuiInBsW7jX) | 2:58 | 2024-02-25 | 2024-06-17 |
 | [Tàndem](https://open.spotify.com/track/0dMUu2aq0c7H1Axfo41bHZ) | [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [Tàndem](https://open.spotify.com/album/5c4zkjuL3XBfYs04f3czAU) | 2:19 | 2025-07-14 |  |
 | [Tòpics \- Cap\. I: Ràbia](https://open.spotify.com/track/7aFKLY3GPC5fQ7nnRTKMqo) | [Aina Reig](https://open.spotify.com/artist/2Ij9EybzTRRk2u4IZ5kwdM) | [Tòpics \- Cap\. I: Ràbia](https://open.spotify.com/album/0xXbC43rDqh27wSjhCgrxN) | 3:00 | 2024-04-14 | 2024-05-06 |
-| [Un petonet](https://open.spotify.com/track/778GQ3Md4lKITSgMPdHU1l) | [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Cafè pels més cafeteros](https://open.spotify.com/album/0tFOdwJIPhSkiHilK2lmb7) | 2:29 | 2025-06-25 |  |
+| [Un petonet](https://open.spotify.com/track/778GQ3Md4lKITSgMPdHU1l) | [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Cafè pels més cafeteros](https://open.spotify.com/album/0tFOdwJIPhSkiHilK2lmb7) | 2:29 | 2025-06-25 | 2025-10-08 |
 | [Una altra vegada](https://open.spotify.com/track/6GnoUEGyzoAymJ1C6ztDOF) | [Suu](https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA) | [Material sensible](https://open.spotify.com/album/7hhE5lAk4zv89yGu0RyCcT) | 2:46 | 2025-02-17 | 2025-08-12 |
 | [VAGABUNDO](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [VAGABUNDO](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 | 2023-06-11 | 2024-03-18 |
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-23 | 2024-05-13 |

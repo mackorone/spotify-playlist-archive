@@ -1,13 +1,33 @@
 {
   "description": "This is Chris Brown. The essential tracks, all in one playlist.",
-  "num_followers": 959400,
+  "num_followers": 959571,
   "original_name": "This Is Chris Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAABLDvPoM1seAPRgiaiXmWj4",
+  "snapshot_id": "aOMGgAAAAABUTbNdOww53jL8GKtvO7na",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dark Lane Demo Tapes",
+        "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 269680,
+      "name": "Not You Too (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/3Q4gttWQ6hxqWOa3tHoTNi"
+    },
     {
       "added_at": null,
       "album": {
@@ -79,26 +99,6 @@
       "duration_ms": 271874,
       "name": "It Depends (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dark Lane Demo Tapes",
-        "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 269680,
-      "name": "Not You Too (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/3Q4gttWQ6hxqWOa3tHoTNi"
     },
     {
       "added_at": null,
@@ -295,18 +295,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Blindfold",
-        "url": "https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9"
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
       "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
         {
           "name": "Chris Brown",
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 170400,
-      "name": "Holy Blindfold",
-      "url": "https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9"
+      "duration_ms": 182666,
+      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
+      "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
     },
     {
       "added_at": null,
@@ -331,26 +339,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+        "name": "Holy Blindfold",
+        "url": "https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9"
       },
       "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
         {
           "name": "Chris Brown",
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 182666,
-      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
-      "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
+      "duration_ms": 170400,
+      "name": "Holy Blindfold",
+      "url": "https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9"
     },
     {
       "added_at": null,

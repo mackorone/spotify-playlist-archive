@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Zara Larsson",
-  "num_followers": 4054406,
+  "num_followers": 4054201,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABNFXH2ID2yXsbQR6RCMLjxpGkfl",
+  "snapshot_id": "AAAAAGiBPLAMupkbx5dxC57JRWNTkE31",
   "tracks": [
     {
       "added_at": "2025-09-05 13:32:53",
@@ -87,22 +87,42 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
-        "name": "like JENNIE",
-        "url": "https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf"
+        "name": "Sports car (remixes)",
+        "url": "https://open.spotify.com/album/3otWafB6ZVEFMM9KdeEiR4"
       },
       "artists": [
         {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         },
         {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
         }
       ],
-      "duration_ms": 208375,
-      "name": "like JENNIE - Peggy Gou Remix",
-      "url": "https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge"
+      "duration_ms": 150000,
+      "name": "Sports car - TELYKAST Remix",
+      "url": "https://open.spotify.com/track/0ghc4iHJEZTAIAKUI7YxA7"
+    },
+    {
+      "added_at": "2025-10-07 21:54:57",
+      "album": {
+        "name": "she got a thing about her (luc\u00f8 remix)",
+        "url": "https://open.spotify.com/album/3pzFxS9OX1g1AK9YJgsrth"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        },
+        {
+          "name": "LUC\u00d8",
+          "url": "https://open.spotify.com/artist/7AZz7NIZYmsop1ipI6009w"
+        }
+      ],
+      "duration_ms": 166160,
+      "name": "she got a thing about her - luc\u00f8 remix",
+      "url": "https://open.spotify.com/track/3LFUE8ko7EEOaMiWWAZ6sb"
     },
     {
       "added_at": "2025-09-05 13:32:53",
@@ -125,44 +145,24 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2025-09-05 13:32:53",
+      "added_at": "2025-10-07 21:28:13",
       "album": {
-        "name": "Sports car (remixes)",
-        "url": "https://open.spotify.com/album/3otWafB6ZVEFMM9KdeEiR4"
+        "name": "Here All Night (Remixes)",
+        "url": "https://open.spotify.com/album/2FmBAje1pzPUlv2JRxMm2Y"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         },
         {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Sports car - TELYKAST Remix",
-      "url": "https://open.spotify.com/track/0ghc4iHJEZTAIAKUI7YxA7"
-    },
-    {
-      "added_at": "2025-09-12 04:00:30",
-      "album": {
-        "name": "SexOnTheBeat (Alex Chapman Remix)",
-        "url": "https://open.spotify.com/album/1voBnl0x5gIld97FPBDMw5"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        },
-        {
-          "name": "Alex Chapman",
-          "url": "https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh"
-        }
-      ],
-      "duration_ms": 167844,
-      "name": "SexOnTheBeat - Alex Chapman Remix",
-      "url": "https://open.spotify.com/track/3HwvEI0J5upDA9ULykyC0U"
+      "duration_ms": 175675,
+      "name": "Here All Night - INJI Remix",
+      "url": "https://open.spotify.com/track/2zkZbmGdYDLhWY6Mz7f1Gt"
     },
     {
       "added_at": "2025-09-05 13:32:53",
@@ -403,18 +403,22 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
-        "name": "Edge of Seventeen",
-        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+        "name": "Tattoo (Topic Remix)",
+        "url": "https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9"
       },
       "artists": [
         {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
         }
       ],
-      "duration_ms": 164042,
-      "name": "Edge of Seventeen",
-      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+      "duration_ms": 211400,
+      "name": "Tattoo - Topic Remix",
+      "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
     },
     {
       "added_at": "2025-09-05 13:32:53",
@@ -443,22 +447,18 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
-        "name": "Tattoo (Topic Remix)",
-        "url": "https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9"
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
       },
       "artists": [
         {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
         }
       ],
-      "duration_ms": 211400,
-      "name": "Tattoo - Topic Remix",
-      "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
     },
     {
       "added_at": "2025-09-05 13:32:53",
@@ -971,26 +971,22 @@
     {
       "added_at": "2025-09-05 13:32:53",
       "album": {
-        "name": "Do It To It (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ"
+        "name": "like JENNIE",
+        "url": "https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf"
       },
       "artists": [
         {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
         },
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Cherish",
-          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
         }
       ],
-      "duration_ms": 125280,
-      "name": "Do It To It - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC"
+      "duration_ms": 208375,
+      "name": "like JENNIE - Peggy Gou Remix",
+      "url": "https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge"
     },
     {
       "added_at": "2025-09-05 13:32:53",
@@ -1011,6 +1007,30 @@
       "duration_ms": 155676,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/6k5DKQMC96daK6fSvAxdQv"
+    },
+    {
+      "added_at": "2025-09-05 13:32:53",
+      "album": {
+        "name": "Do It To It (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Cherish",
+          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+        }
+      ],
+      "duration_ms": 125280,
+      "name": "Do It To It - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC"
     },
     {
       "added_at": "2025-09-05 13:32:53",
@@ -1559,30 +1579,6 @@
       "duration_ms": 117026,
       "name": "Players - DJ Smallz 732 - Jersey Club Remix",
       "url": "https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0"
-    },
-    {
-      "added_at": "2025-09-05 13:32:53",
-      "album": {
-        "name": "Unholy (feat. Kim Petras) [Disclosure Remix]",
-        "url": "https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 234411,
-      "name": "Unholy (feat. Kim Petras) - Disclosure Remix",
-      "url": "https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5"
     }
   ],
   "unique_name": "Pop Remix",

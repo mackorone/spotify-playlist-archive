@@ -1,12 +1,12 @@
 {
   "description": "#fyp\n",
-  "num_followers": 827804,
+  "num_followers": 827981,
   "original_name": "t'as la ref ?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADLaWOtAqVtbCtc3gNw8XjBnHYnN",
+  "snapshot_id": "AAAAAOUdnOMLQjUbenckrT/lK11wRd8L",
   "tracks": [
     {
       "added_at": "2025-09-11 22:00:20",
@@ -95,6 +95,26 @@
       "duration_ms": 245556,
       "name": "Sucr\u00e9 Sal\u00e9",
       "url": "https://open.spotify.com/track/7Ms9RTHY835cvJUgS0uqMp"
+    },
+    {
+      "added_at": "2025-10-07 15:17:54",
+      "album": {
+        "name": "melodrama",
+        "url": "https://open.spotify.com/album/5wFsZ4iXAggxIVNZRJogvr"
+      },
+      "artists": [
+        {
+          "name": "disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+        },
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "duration_ms": 176213,
+      "name": "melodrama",
+      "url": "https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4"
     },
     {
       "added_at": "2025-08-01 20:50:24",
@@ -1403,22 +1423,6 @@
       "duration_ms": 123366,
       "name": "G L\u00e9sou",
       "url": "https://open.spotify.com/track/4bj9zBP1zJJuFgfIJe3VF2"
-    },
-    {
-      "added_at": "2025-08-07 17:17:55",
-      "album": {
-        "name": "Toi et moi",
-        "url": "https://open.spotify.com/album/7prFQUHqq5CDwXE5Org7uy"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 201786,
-      "name": "Toi et moi",
-      "url": "https://open.spotify.com/track/6D8pnA3WyMrGy8Q2258BC0"
     },
     {
       "added_at": "2025-08-05 11:03:19",

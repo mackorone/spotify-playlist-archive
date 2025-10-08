@@ -1,12 +1,12 @@
 {
   "description": "This is Rashid. The essential tracks, all in one playlist.",
-  "num_followers": 46055,
+  "num_followers": 46054,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAAATbWSgAEX0d+BG/ac7Goak",
+  "snapshot_id": "aOMGgAAAAADbXGmJ+wP8oH+tOJLouohh",
   "tracks": [
     {
       "added_at": null,
@@ -211,34 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quem Tem Um Amigo (Tem Tudo)",
-        "url": "https://open.spotify.com/album/3yCfk5tZsvi3cWfLPzsqf3"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        },
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 246533,
-      "name": "Quem Tem Um Amigo (Tem Tudo) (Remix) (feat. Zeca Pagodinho, Tokyo Ska Paradise Orchestra & Rashid)",
-      "url": "https://open.spotify.com/track/08WrWXRoXim0i1RkSVlpJ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BUNMI",
         "url": "https://open.spotify.com/album/6sjV2tmRDy7Wql7El5rPPX"
       },
@@ -267,6 +239,34 @@
       "duration_ms": 246107,
       "name": "MAAT",
       "url": "https://open.spotify.com/track/6491xSLJFuKKn4jc1oakvo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quem Tem Um Amigo (Tem Tudo)",
+        "url": "https://open.spotify.com/album/3yCfk5tZsvi3cWfLPzsqf3"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 246533,
+      "name": "Quem Tem Um Amigo (Tem Tudo) (Remix) (feat. Zeca Pagodinho, Tokyo Ska Paradise Orchestra & Rashid)",
+      "url": "https://open.spotify.com/track/08WrWXRoXim0i1RkSVlpJ3"
     },
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Assim Seja",
+        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 277472,
+      "name": "Se o Mundo Acabar",
+      "url": "https://open.spotify.com/track/1JvW1HJ9IJqThvuuzWMgfB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Crise",
         "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
       },
@@ -383,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Assim Seja",
-        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 277472,
-      "name": "Se o Mundo Acabar",
-      "url": "https://open.spotify.com/track/1JvW1HJ9IJqThvuuzWMgfB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf"
       },
@@ -408,17 +408,13 @@
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "Ruxell",
-          "url": "https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg"
+          "name": "Bernardo Massot",
+          "url": "https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY"
         }
       ],
-      "duration_ms": 184445,
-      "name": "Sem Norte",
-      "url": "https://open.spotify.com/track/5oz9GKNnBNLqnGOVIt5Gmm"
+      "duration_ms": 205672,
+      "name": "Cairo",
+      "url": "https://open.spotify.com/track/2r1nCUsFoCqFJhQijBu1p3"
     },
     {
       "added_at": null,
@@ -492,13 +488,17 @@
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         },
         {
-          "name": "Bernardo Massot",
-          "url": "https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY"
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "Ruxell",
+          "url": "https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg"
         }
       ],
-      "duration_ms": 205672,
-      "name": "Cairo",
-      "url": "https://open.spotify.com/track/2r1nCUsFoCqFJhQijBu1p3"
+      "duration_ms": 184445,
+      "name": "Sem Norte",
+      "url": "https://open.spotify.com/track/5oz9GKNnBNLqnGOVIt5Gmm"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hora de Acordar",
-        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 162066,
-      "name": "Linhas Inimigas",
-      "url": "https://open.spotify.com/track/3O3gCy30cJFdbyN9VN6gtB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "10 Anos de Triunfo (Ao Vivo)",
         "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 647666,
       "name": "Mandume (feat. Drik Barbosa, Raph\u00e3o Alaafin, Muzzike, Amiri, Coruja BC1, Rico Dalasam & Rashid) - Ao Vivo",
       "url": "https://open.spotify.com/track/6AI7u64to3bm9Iga4t2TmX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hora de Acordar",
+        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 162066,
+      "name": "Linhas Inimigas",
+      "url": "https://open.spotify.com/track/3O3gCy30cJFdbyN9VN6gtB"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hora de Acordar",
-        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 273320,
-      "name": "E Se",
-      "url": "https://open.spotify.com/track/3QTZCqej24Zyd5WGRXWJuJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Coragem da Luz",
         "url": "https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 211301,
       "name": "Ruaterapia (feat. Mano Brown & Max De Castro)",
       "url": "https://open.spotify.com/track/2ZGZ0fvF2TmYWWxsUmxcui"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hora de Acordar",
+        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 273320,
+      "name": "E Se",
+      "url": "https://open.spotify.com/track/3QTZCqej24Zyd5WGRXWJuJ"
     },
     {
       "added_at": null,
@@ -855,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Assim Seja",
+        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 265896,
+      "name": "Tudo Ou Nada",
+      "url": "https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "T\u00e3o Real",
         "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
       },
@@ -871,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Assim Seja",
-        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0"
       },
       "artists": [
         {
@@ -880,9 +896,9 @@
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         }
       ],
-      "duration_ms": 265896,
-      "name": "Tudo Ou Nada",
-      "url": "https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L"
+      "duration_ms": 214612,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI"
     },
     {
       "added_at": null,
@@ -911,22 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gratid\u00e3o",
-        "url": "https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 214612,
-      "name": "Gratid\u00e3o",
-      "url": "https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confundindo S\u00e1bios",
         "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
       },
@@ -939,26 +939,6 @@
       "duration_ms": 206982,
       "name": "A Fila Anda",
       "url": "https://open.spotify.com/track/0LewYp7T0K8wpkPBprMpEK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sinais Sessions - Morro Da Urca (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0E7yszyv3sZjZkMcw6VLzo"
-      },
-      "artists": [
-        {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 230553,
-      "name": "Bilhete 2.0 / Incidental: Uma Gota No Oceano - Ao Vivo",
-      "url": "https://open.spotify.com/track/1bnsYRUqqdCxttyks7bMVv"
     },
     {
       "added_at": null,
@@ -1011,6 +991,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sinais Sessions - Morro Da Urca (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0E7yszyv3sZjZkMcw6VLzo"
+      },
+      "artists": [
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 230553,
+      "name": "Bilhete 2.0 / Incidental: Uma Gota No Oceano - Ao Vivo",
+      "url": "https://open.spotify.com/track/1bnsYRUqqdCxttyks7bMVv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Confundindo S\u00e1bios",
         "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
       },
@@ -1023,22 +1023,6 @@
       "duration_ms": 177679,
       "name": "Vagabundo Qualquer",
       "url": "https://open.spotify.com/track/5DCidfHBwo1kpqCwEDliAj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Movimento R\u00e1pido dos Olhos",
-        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 187669,
-      "name": "A Lua Atr\u00e1s Do Pr\u00e9dio",
-      "url": "https://open.spotify.com/track/66ghtQcPX0qZxEQlVe3GlO"
     },
     {
       "added_at": null,
@@ -1067,6 +1051,22 @@
       "duration_ms": 219360,
       "name": "Quem Sou",
       "url": "https://open.spotify.com/track/0XevUDqotTLOl7KNdZzjbk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Movimento R\u00e1pido dos Olhos",
+        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 187669,
+      "name": "A Lua Atr\u00e1s Do Pr\u00e9dio",
+      "url": "https://open.spotify.com/track/66ghtQcPX0qZxEQlVe3GlO"
     },
     {
       "added_at": null,

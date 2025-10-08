@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Judeline & Amaia.",
-  "num_followers": 748798,
+  "num_followers": 748784,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -555,26 +555,6 @@
     {
       "added_at": "2025-09-26 04:00:43",
       "album": {
-        "name": "PA K",
-        "url": "https://open.spotify.com/album/1tBbZo85SaUh3jMkoKjOnv"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        },
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 221856,
-      "name": "PA K",
-      "url": "https://open.spotify.com/track/3YOKeu2skm73rfn4bGPQHz"
-    },
-    {
-      "added_at": "2025-09-26 04:00:43",
-      "album": {
         "name": "Omega (feat. Ralphie Choo)",
         "url": "https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 169500,
       "name": "Omega (feat. Ralphie Choo)",
       "url": "https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF"
+    },
+    {
+      "added_at": "2025-09-26 04:00:43",
+      "album": {
+        "name": "PA K",
+        "url": "https://open.spotify.com/album/1tBbZo85SaUh3jMkoKjOnv"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 221856,
+      "name": "PA K",
+      "url": "https://open.spotify.com/track/3YOKeu2skm73rfn4bGPQHz"
     },
     {
       "added_at": "2025-09-26 04:00:43",
@@ -627,6 +627,22 @@
     {
       "added_at": "2025-09-26 04:00:43",
       "album": {
+        "name": "INFANCIA MAL CALIBRADA",
+        "url": "https://open.spotify.com/album/16xCvyLPONGbD1pij2GOQ1"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        }
+      ],
+      "duration_ms": 187605,
+      "name": "Quieres Autodestruirte Conmigo?",
+      "url": "https://open.spotify.com/track/0ImJfk8NU4a1aMvclUyJT0"
+    },
+    {
+      "added_at": "2025-09-26 04:00:43",
+      "album": {
         "name": "Pan",
         "url": "https://open.spotify.com/album/2Z7Q2m7lLYBHJlZWRMENft"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 252929,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ"
-    },
-    {
-      "added_at": "2025-09-26 04:00:43",
-      "album": {
-        "name": "INFANCIA MAL CALIBRADA",
-        "url": "https://open.spotify.com/album/16xCvyLPONGbD1pij2GOQ1"
-      },
-      "artists": [
-        {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
-        }
-      ],
-      "duration_ms": 187605,
-      "name": "Quieres Autodestruirte Conmigo?",
-      "url": "https://open.spotify.com/track/0ImJfk8NU4a1aMvclUyJT0"
     },
     {
       "added_at": "2025-09-26 04:00:43",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2025-09-26 04:00:43",
       "album": {
-        "name": "el tiempo pasa r\u00e1pido",
-        "url": "https://open.spotify.com/album/2AGTJDPd2mTqTsQikhlhkM"
+        "name": "Tierra",
+        "url": "https://open.spotify.com/album/32J5NblDzVXpvTMuEFtyUA"
       },
       "artists": [
         {
-          "name": "Greccia",
-          "url": "https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K"
+          "name": "Chuwi",
+          "url": "https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW"
         }
       ],
-      "duration_ms": 247043,
-      "name": "el tiempo pasa r\u00e1pido",
-      "url": "https://open.spotify.com/track/3679bCH5CErBhzAfYR2Cf1"
+      "duration_ms": 204000,
+      "name": "Durmiendo",
+      "url": "https://open.spotify.com/track/4owkQ4569f24b5CmVdr3jt"
     }
   ],
   "unique_name": "Mixto",

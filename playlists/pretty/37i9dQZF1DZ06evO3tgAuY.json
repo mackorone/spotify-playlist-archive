@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAAArBj++c2iFXO01cmvRsaBN",
+  "snapshot_id": "aOMGgAAAAACPlOGiF2QwhpvcQq3+44dH",
   "tracks": [
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Pilas (En Vivo)",
-        "url": "https://open.spotify.com/album/01XwB5pr3dKiLgahNUSvLg"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 118826,
-      "name": "Bien Pilas - En Vivo",
-      "url": "https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RUMBA",
         "url": "https://open.spotify.com/album/5ryvxfEZXOoyg6FRYWGBKm"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 181818,
       "name": "RUMBA",
       "url": "https://open.spotify.com/track/14d1byXmKewvxEp0VyZmuI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bien Pilas (En Vivo)",
+        "url": "https://open.spotify.com/album/01XwB5pr3dKiLgahNUSvLg"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 118826,
+      "name": "Bien Pilas - En Vivo",
+      "url": "https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LA Live Session",
+        "url": "https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 124117,
+      "name": "El Lic - En Vivo",
+      "url": "https://open.spotify.com/track/4Wmzvb4GkzBBJdvhxkc89C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dejate Llevar",
         "url": "https://open.spotify.com/album/6N5CbKacIelION4UEKfZAe"
       },
@@ -835,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA Live Session",
-        "url": "https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX"
+        "name": "Que Hice Mal",
+        "url": "https://open.spotify.com/album/07mzKlWxyriGNACSC9VUHI"
       },
       "artists": [
         {
@@ -844,9 +860,9 @@
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         }
       ],
-      "duration_ms": 124117,
-      "name": "El Lic - En Vivo",
-      "url": "https://open.spotify.com/track/4Wmzvb4GkzBBJdvhxkc89C"
+      "duration_ms": 205237,
+      "name": "Que Hice Mal",
+      "url": "https://open.spotify.com/track/6SvTX3foelQ3i38hNHLnaS"
     },
     {
       "added_at": null,
@@ -871,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Hice Mal",
-        "url": "https://open.spotify.com/album/07mzKlWxyriGNACSC9VUHI"
+        "name": "El Brillo de Mis Ojos",
+        "url": "https://open.spotify.com/album/4hrceAyhQrDdiFV4XJZMer"
       },
       "artists": [
         {
@@ -880,9 +896,9 @@
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         }
       ],
-      "duration_ms": 205237,
-      "name": "Que Hice Mal",
-      "url": "https://open.spotify.com/track/6SvTX3foelQ3i38hNHLnaS"
+      "duration_ms": 212672,
+      "name": "El Brillo de Mis Ojos",
+      "url": "https://open.spotify.com/track/4aV9ASbXqXKjDIkoYSyWHC"
     },
     {
       "added_at": null,
@@ -907,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Brillo de Mis Ojos",
-        "url": "https://open.spotify.com/album/4hrceAyhQrDdiFV4XJZMer"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 212672,
-      "name": "El Brillo de Mis Ojos",
-      "url": "https://open.spotify.com/track/4aV9ASbXqXKjDIkoYSyWHC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tiempos Duros",
         "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
       },
@@ -932,13 +932,13 @@
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         },
         {
-          "name": "Jordin Sandoval",
-          "url": "https://open.spotify.com/artist/04P0m8LCKhoMBOz2V7OtwX"
+          "name": "Omar Ruiz",
+          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
         }
       ],
-      "duration_ms": 145493,
-      "name": "El Dragon",
-      "url": "https://open.spotify.com/track/0jZScMFNGw4Lfc7ezSJFVT"
+      "duration_ms": 183360,
+      "name": "Pa Que Hablen De Verdad",
+      "url": "https://open.spotify.com/track/3mMJwhbV6dcACewyXQgKEg"
     },
     {
       "added_at": null,

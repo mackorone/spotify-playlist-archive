@@ -1,6 +1,6 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 328229,
+  "num_followers": 328313,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Movement",
+        "url": "https://open.spotify.com/album/5PgQAA0U4L0NuLLslJ9hqq"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 371859,
+      "name": "Movement",
+      "url": "https://open.spotify.com/track/2eqjFIb55WVN7iYx8ixUZY"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Turning Away (Parra for Cuva Remix)",
         "url": "https://open.spotify.com/album/1lIxiDKxX65zzDz9J1UVVs"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 261538,
       "name": "Turning Away - Parra for Cuva Remix",
       "url": "https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Movement",
-        "url": "https://open.spotify.com/album/5PgQAA0U4L0NuLLslJ9hqq"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 371859,
-      "name": "Movement",
-      "url": "https://open.spotify.com/track/2eqjFIb55WVN7iYx8ixUZY"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Rosewood",
-        "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 242773,
-      "name": "Rosewood",
-      "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Laika.",
         "url": "https://open.spotify.com/album/67BUFgh99F0rfnZOKrxPSP"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 180458,
       "name": "Laika.",
       "url": "https://open.spotify.com/track/3EA4UHJwQhkGDEoESpz0px"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Rosewood",
+        "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 242773,
+      "name": "Rosewood",
+      "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Harlem River / Falling",
-        "url": "https://open.spotify.com/album/2McNZimRxQr0n7tpOVQYu7"
-      },
-      "artists": [
-        {
-          "name": "Monolink",
-          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
-        }
-      ],
-      "duration_ms": 277608,
-      "name": "Harlem River",
-      "url": "https://open.spotify.com/track/6fWwLxUoiAZpZtqOFwG1KL"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Forelsket",
         "url": "https://open.spotify.com/album/4jTwsVQan0LMDtyH4Ko0N7"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 336874,
       "name": "Forelsket",
       "url": "https://open.spotify.com/track/4GKaQwQjOpx6TBc3M9ubDp"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Harlem River / Falling",
+        "url": "https://open.spotify.com/album/2McNZimRxQr0n7tpOVQYu7"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "duration_ms": 277608,
+      "name": "Harlem River",
+      "url": "https://open.spotify.com/track/6fWwLxUoiAZpZtqOFwG1KL"
     },
     {
       "added_at": "2024-08-09 18:28:29",

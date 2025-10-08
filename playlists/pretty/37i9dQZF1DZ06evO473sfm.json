@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 522477,
+  "num_followers": 522678,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAADdmOt0NAYByA8yhn3Bp1WL",
+  "snapshot_id": "aOMGgAAAAACd8adcoJsoxYuQn5QiyxGV",
   "tracks": [
     {
       "added_at": null,
@@ -227,26 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alch Si",
-        "url": "https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 153953,
-      "name": "Alch Si",
-      "url": "https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Modo Dif\u00edcil",
         "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 201461,
       "name": "Modo Dif\u00edcil",
       "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alch Si",
+        "url": "https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 153953,
+      "name": "Alch Si",
+      "url": "https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA"
     },
     {
       "added_at": null,
@@ -307,26 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoy no me siento bien",
-        "url": "https://open.spotify.com/album/10x06vQjH3rh2JGETxzRZD"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 153709,
-      "name": "Hoy no me siento bien",
-      "url": "https://open.spotify.com/track/5xKUXB7fsIEpDYc6mBfSwT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mutuo",
         "url": "https://open.spotify.com/album/2y4PKw14eMeF4hbo0zDewa"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 177888,
       "name": "Mutuo",
       "url": "https://open.spotify.com/track/0YNVhxPfqDJSdrJhxduohQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoy no me siento bien",
+        "url": "https://open.spotify.com/album/10x06vQjH3rh2JGETxzRZD"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 153709,
+      "name": "Hoy no me siento bien",
+      "url": "https://open.spotify.com/track/5xKUXB7fsIEpDYc6mBfSwT"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 193258,
-      "name": "QU\u00c9DATE BEB\u00c9",
-      "url": "https://open.spotify.com/track/4U0NzCC9oiVDEDfgDKIiTo"
+      "duration_ms": 163407,
+      "name": "NUNCA LA OLVID\u00c9",
+      "url": "https://open.spotify.com/track/68OUeNY42R5pM00M7V9pxL"
     },
     {
       "added_at": null,
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 163407,
-      "name": "NUNCA LA OLVID\u00c9",
-      "url": "https://open.spotify.com/track/68OUeNY42R5pM00M7V9pxL"
+      "duration_ms": 193258,
+      "name": "QU\u00c9DATE BEB\u00c9",
+      "url": "https://open.spotify.com/track/4U0NzCC9oiVDEDfgDKIiTo"
     },
     {
       "added_at": null,

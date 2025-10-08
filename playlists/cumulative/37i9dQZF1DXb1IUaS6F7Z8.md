@@ -4,7 +4,7 @@
 
 > All of the Celtic punk essentials.\. Cover: Dropkick Murphys
 
-144 songs - 8 hr 3 min
+145 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,10 +122,11 @@
 | [The Gipsy Dancer](https://open.spotify.com/track/6xpzEfi8vmrIQBgB2cvacW) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6) | [The Gipsy Dancer](https://open.spotify.com/album/4a94PhrTzFNdeZWWl8A7CH) | 2:49 | 2022-03-18 | 2022-07-29 |
 | [The Gipsy Dancer](https://open.spotify.com/track/5kHz0PMhxREjnD3rmulNbC) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6) | [Toss the Coin](https://open.spotify.com/album/6iyWp7G8k1eh3kiPa9OMX0) | 2:49 | 2022-03-18 | 2024-04-19 |
 | [The Hand Of John L\. Sullivan](https://open.spotify.com/track/7aR0tgI3ijJ4qQlKglowYO) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Life Is Good](https://open.spotify.com/album/7wxpajBgcfiRwooT3JvYwH) | 4:00 | 2024-02-06 | 2025-03-20 |
+| [The Rocky Road to Dublin](https://open.spotify.com/track/5GVSpPvjk06BPsr8DhwFtM) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 2:37 | 2024-02-06 |  |
 | [The Rocky Road to Dublin](https://open.spotify.com/track/3x4exVFOQeIva1LTxjtwDc) | [The Tossers](https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2) | [On a Fine Spring Evening](https://open.spotify.com/album/4IpjRyghZWy3TSq5Z4LSYo) | 2:40 | 2022-03-18 | 2022-07-29 |
 | [The Rocky Road To Dublin](https://open.spotify.com/track/59sa6RabsXP6xXIPA2UAb6) | [The Tossers](https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2) | [On A Fine Spring Evening](https://open.spotify.com/album/5KSnHmtTDuFsNNapMDrRnW) | 2:40 | 2022-03-18 | 2024-04-19 |
 | [The Secret Set \(Drowsy Maggie / The Star of Munster\)](https://open.spotify.com/track/5sW7CM5Tq9Ub15GesYUsx0) | [Saint Bushmill's Choir](https://open.spotify.com/artist/4BAmvqtlQnj48zj888clBo) | [The Very Best of Saint Bushmill's Choir](https://open.spotify.com/album/32lSaCl9f3KboCK6kcu08I) | 3:03 | 2022-03-18 |  |
-| [The State Of Massachusetts](https://open.spotify.com/track/0kXpvPNNjjPsEGRg3SE0xW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 3:52 | 2022-03-18 |  |
+| [The State Of Massachusetts](https://open.spotify.com/track/0kXpvPNNjjPsEGRg3SE0xW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 3:52 | 2022-03-18 | 2025-10-08 |
 | [The Streets of London](https://open.spotify.com/track/3EkzGqK2uJrgiZDLXBMWUo) | [Liam Clancy](https://open.spotify.com/artist/1XjkajTCuInbWYxcxPvFtP) | [The Parting Glass \(The Very Best of Liam Clancy\)](https://open.spotify.com/album/5LL2dL3dChEHrcGLBYnqtn) | 4:01 | 2024-02-06 |  |
 | [The Tempest](https://open.spotify.com/track/4Pi1gat00bwbi84xENZabP) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [WestWinds](https://open.spotify.com/album/0Piq7ZTmthM6KOlu3VUCTR) | 4:07 | 2022-03-18 | 2022-07-29 |
 | [The Tempest](https://open.spotify.com/track/6gXLYsEkqlhe41lWPdBKOx) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Westwinds](https://open.spotify.com/album/2XRertV5XG54s3PAiMBRlO) | 4:08 | 2022-03-18 | 2024-04-19 |

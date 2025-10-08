@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 11181,
+  "num_followers": 11186,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAACoF8A0TeFTx4yAwlrkdPGg",
+  "snapshot_id": "aOMGgAAAAAD2PQbVZpGoCpsmRFAf9I4s",
   "tracks": [
     {
       "added_at": null,
@@ -875,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Foundation: Season 1 (Apple TV+ Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3xRBZlhm5VSV255M3JfTFG"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 86546,
-      "name": "Foundation Main Title",
-      "url": "https://open.spotify.com/track/61oU2dZYvjGXhQtMXlgTau"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
       },
@@ -907,6 +891,26 @@
       "duration_ms": 206400,
       "name": "The Black Rose",
       "url": "https://open.spotify.com/track/65bVC6KYo6AEzSBIuah9BE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlander: Season 1, Vol. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Raya Yarbrough",
+          "url": "https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2"
+        }
+      ],
+      "duration_ms": 201773,
+      "name": "The Summoning (feat. Raya Yarbrough)",
+      "url": "https://open.spotify.com/track/1xnNYxFwlKOkZRRrGvc9Xq"
     }
   ],
   "unique_name": "This Is Bear McCreary",

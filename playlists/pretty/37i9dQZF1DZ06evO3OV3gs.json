@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 692548,
+  "num_followers": 692581,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAADwDes18Mgj1hTZvDyJKLay",
+  "snapshot_id": "aOMGgAAAAAAP7Ku8PvGkESDzHsWBzDgp",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confessions on a Dance Floor",
-        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 281880,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/55whbebR4olz2HHcRQa2kx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True Blue",
         "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 351920,
       "name": "Live to Tell",
       "url": "https://open.spotify.com/track/095MMFhB9qxPx2VsmvjnUs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confessions on a Dance Floor",
+        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 281880,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/55whbebR4olz2HHcRQa2kx"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ray of Light",
-        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 322000,
-      "name": "Ray of Light",
-      "url": "https://open.spotify.com/track/4Fpsa3pYc3gozrxHRRPvR6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True Blue",
         "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 257466,
       "name": "True Blue",
       "url": "https://open.spotify.com/track/7azOuDeJGbxt5mvq3GQHXp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 322000,
+      "name": "Ray of Light",
+      "url": "https://open.spotify.com/track/4Fpsa3pYc3gozrxHRRPvR6"
     },
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Something to Remember",
+        "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 263813,
+      "name": "I'll Remember (Theme from the Motion Picture With Honors)",
+      "url": "https://open.spotify.com/track/00U0pedRUMEzREpyRqbVT6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Veronica Electronica",
         "url": "https://open.spotify.com/album/2JgIGypHO489ni7EtpMmdz"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 321173,
       "name": "Drowned World / Substitute for Love - BT & Sasha Bucklodge Ashram New Edit",
       "url": "https://open.spotify.com/track/41PppPBzCNWSFNDIeEgATy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Something to Remember",
-        "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 263813,
-      "name": "I'll Remember (Theme from the Motion Picture With Honors)",
-      "url": "https://open.spotify.com/track/00U0pedRUMEzREpyRqbVT6"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Erotica (PA Version)",
-        "url": "https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 324733,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/3b3PnE1ROIZzILjmCGjVib"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ray of Light",
         "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 267345,
       "name": "Nothing Really Matters",
       "url": "https://open.spotify.com/track/6bZPQHvekmIFBZZB7nMB5X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Erotica (PA Version)",
+        "url": "https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 324733,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/3b3PnE1ROIZzILjmCGjVib"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 229600,
-      "name": "Cherish",
-      "url": "https://open.spotify.com/track/7BLKBIoijWCkDyOATEr5vW"
+      "duration_ms": 239093,
+      "name": "Express Yourself",
+      "url": "https://open.spotify.com/track/6ioBgySxoeQKALvAeLEmId"
     },
     {
       "added_at": null,
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 239093,
-      "name": "Express Yourself",
-      "url": "https://open.spotify.com/track/6ioBgySxoeQKALvAeLEmId"
+      "duration_ms": 229600,
+      "name": "Cherish",
+      "url": "https://open.spotify.com/track/7BLKBIoijWCkDyOATEr5vW"
     },
     {
       "added_at": null,

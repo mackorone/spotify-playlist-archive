@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 
 > This is AJULIACOSTA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,090 likes - 41 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,116 likes - 41 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 | 5 | [Homens Como Você](https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 3:10 |
 | 6 | [Interlúdio \[MINI SAIA\]](https://open.spotify.com/track/4S3S7z29zHwoNz5nZ17xbx) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Maffalda](https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC) | [Novo Testamento](https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5) | 0:53 |
 | 7 | [Você Parece Com Vergonha](https://open.spotify.com/track/5r4pDmk3fENDZCc06xrHsJ) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Você Parece Com Vergonha](https://open.spotify.com/album/3dNBEUQg3uKKvpoCNEwicy) | 3:03 |
-| 8 | [Eles Me Odeiam](https://open.spotify.com/track/5lZS4UU5KbkR1QLRbkWG5W) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [SEMRÉH \(FINAL SPRINT\)](https://open.spotify.com/album/2i1FaEQY9JIUS8M0kMhsH9) | 3:07 |
-| 9 | [3AM \(PXT4 RASA\) \- Remix](https://open.spotify.com/track/0niFRLaq6SNmy6PThNORj0) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Matheus Muniz](https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI) | [3AM \(PXT4 RASA\) \[Remix\]](https://open.spotify.com/album/1acHuLX2pd5QNZ46ZvHD8r) | 2:02 |
+| 8 | [3AM \(PXT4 RASA\) \- Remix](https://open.spotify.com/track/0niFRLaq6SNmy6PThNORj0) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Matheus Muniz](https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI) | [3AM \(PXT4 RASA\) \[Remix\]](https://open.spotify.com/album/1acHuLX2pd5QNZ46ZvHD8r) | 2:02 |
+| 9 | [Eles Me Odeiam](https://open.spotify.com/track/5lZS4UU5KbkR1QLRbkWG5W) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [SEMRÉH \(FINAL SPRINT\)](https://open.spotify.com/album/2i1FaEQY9JIUS8M0kMhsH9) | 3:07 |
 | 10 | [Toc Toc Toc](https://open.spotify.com/track/2Oq3YDQMK6oFqOuuIzeeXO) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Novo Testamento](https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5) | 2:10 |
 | 11 | [Queen Chavosa](https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 2:40 |
 | 12 | [Cifrão](https://open.spotify.com/track/2ulOb2FxUIozj13jKNmMu5) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Eh Noiz Ki Tá](https://open.spotify.com/album/5NEKhgyL8iv2HoXI0xqBk1) | 3:06 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 | 40 | [Empresário](https://open.spotify.com/track/5QxxKQQNZyL5Q4N7Rggjg0) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 3:07 |
 | 41 | [Pantera](https://open.spotify.com/track/4MmhgIjjLSo3BdLL9ZIucd) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Su Madre Mandrake](https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i) | [Pantera](https://open.spotify.com/album/3NSdLNoPmrSGXbHTiFdXiX) | 4:06 |
 
-Snapshot ID: `aOG1AAAAAACoK4eOhCLKjteve9NM7TDK`
+Snapshot ID: `aOMGgAAAAADHgENBocxHIS7wnqqoGPFw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 
 > Un'estate al mare, stile balenare 🏝️ Hit dell'estate italiana anni 60, 70 e 80!
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,730 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,736 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 13 | [L'estate sta finendo](https://open.spotify.com/track/1eEMDXRpkipdhKj9nZliol) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [The Best Righeira](https://open.spotify.com/album/62KcZpsdRkth5bVIQfduNi) | 3:45 |
 | 14 | [Quando quando quando](https://open.spotify.com/track/5x3Hpqf0pvVGELLVLf4bNd) | [Tony Renis](https://open.spotify.com/artist/55WUEyUburuMbmTBiIUzpm) | [Tony Renis](https://open.spotify.com/album/3ClTylraxBpTRumWOwuXnm) | 2:46 |
 | 15 | [Balla](https://open.spotify.com/track/2xoVgHZKhYCmCNxqidJ4en) | [Umberto Rosario Balsamo](https://open.spotify.com/artist/3Rq9HHem3z97gYP5vD6BUm) | [Balla \(Remastered\)](https://open.spotify.com/album/4A6errXJxy9750cknTxu1p) | 3:15 |
-| 16 | [Guarda Come Dondolo](https://open.spotify.com/track/5cnBqPh3jlnKCsYi3BeBsQ) | [Edoardo Vianello](https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo) | [Edoardo Vianello](https://open.spotify.com/album/1atB7tFNLKhXOE9xMnHWER) | 2:31 |
-| 17 | [Nell'aria](https://open.spotify.com/track/5PXaja7dpezSS8nSDsyfb7) | [Marcella Bella](https://open.spotify.com/artist/6IvnpywSnAcBLBjlyme9oW) | [Un'ora con...](https://open.spotify.com/album/3jYaY4hJL3Ene7hctpoX44) | 3:56 |
+| 16 | [Nell'aria](https://open.spotify.com/track/5PXaja7dpezSS8nSDsyfb7) | [Marcella Bella](https://open.spotify.com/artist/6IvnpywSnAcBLBjlyme9oW) | [Un'ora con...](https://open.spotify.com/album/3jYaY4hJL3Ene7hctpoX44) | 3:56 |
+| 17 | [Guarda Come Dondolo](https://open.spotify.com/track/5cnBqPh3jlnKCsYi3BeBsQ) | [Edoardo Vianello](https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo) | [Edoardo Vianello](https://open.spotify.com/album/1atB7tFNLKhXOE9xMnHWER) | 2:31 |
 | 18 | [Tropicana](https://open.spotify.com/track/4Ak0UaodK4JW3B8rHIEv3R) | [Gruppo Italiano](https://open.spotify.com/artist/7sai3Jr74gYNxLfDnAW6ft) | [Gruppo Italiano](https://open.spotify.com/album/4qGJn9ggCnF2YMh3q7pVfD) | 3:30 |
 | 19 | [Legata a un granello di sabbia](https://open.spotify.com/track/6LlthKltcBuc1tOIeUUtI1) | [Nico Fidenco](https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP) | [Nico Fidenco](https://open.spotify.com/album/3BodpekIovNHAQdlArIVjA) | 4:12 |
 | 20 | [Stasera mi butto](https://open.spotify.com/track/7uZF6CYmfNQ2lqRYqDhSdc) | [Rocky Roberts](https://open.spotify.com/artist/6eCgsu961ClH7K6NSsXaBh) | [Rocky Roberts](https://open.spotify.com/album/4kAfPxlz8TxOvx7vyAY8xK) | 1:53 |

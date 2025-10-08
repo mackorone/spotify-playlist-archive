@@ -4,7 +4,7 @@
 
 > إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف: عفروتو
 
-434 songs - 21 hr 10 min
+435 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,7 +365,7 @@
 | [W Bashot](https://open.spotify.com/track/3bhQZfZf8NEiZDkwAafdpe) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [7abba Fo2 // 7abba Ta7t](https://open.spotify.com/album/1o6axxoJca4D2hO5l288gi) | 2:34 | 2024-01-25 | 2024-07-16 |
 | [WADINI](https://open.spotify.com/track/2NVujx5LgFAIWPshaI6IYM) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 3:22 | 2025-08-01 |  |
 | [Wala Yehemak](https://open.spotify.com/track/7FeflOB46MGCh7Wzj1JuOW) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [6 Shohour](https://open.spotify.com/album/06wzYMLZWW2AawVYKlPkcz) | 1:58 | 2025-07-24 |  |
-| [WARDA](https://open.spotify.com/track/0PDIhSsznBZYgp1EGTSZKd) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [WARDA](https://open.spotify.com/album/3ixrabd0zsEVW1XPVhOgXb) | 2:44 | 2025-08-21 |  |
+| [WARDA](https://open.spotify.com/track/0PDIhSsznBZYgp1EGTSZKd) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [WARDA](https://open.spotify.com/album/3ixrabd0zsEVW1XPVhOgXb) | 2:44 | 2025-08-21 | 2025-10-08 |
 | [Wasa3](https://open.spotify.com/track/2Zo8Kn2PslabnsvrouOJxk) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Wasa3](https://open.spotify.com/album/1MtIYYteuLNUM2EBUJt0wU) | 2:09 | 2022-09-27 | 2022-12-24 |
 | [WELAD ELMAGANEN](https://open.spotify.com/track/5BLk1nq9Z0Fj9hIFA4FYOx) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 2:18 | 2024-07-24 | 2024-09-06 |
 | [Wesh](https://open.spotify.com/track/6Wv7Ld9brqdj3kcVmSTRr1) | [Ilmond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Intifada Deluxe](https://open.spotify.com/album/2h3WZYYtJm4K4eUURN6Uk6) | 2:28 | 2025-02-19 | 2025-06-11 |
@@ -378,6 +378,7 @@
 | [YA7](https://open.spotify.com/track/4GbLYgXHLMzwHaxDLhAQVu) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [YA7](https://open.spotify.com/album/0ipc4EPZuO7zSMIMRmM6YE) | 2:27 | 2022-09-13 | 2022-11-09 |
 | [Yaba](https://open.spotify.com/track/4CzLzmQVOC0jjTacKi5hEU) | [Slyver PV](https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8) | [Yaba](https://open.spotify.com/album/0EPLFiYGRSbu7WdWLYbhig) | 3:01 | 2023-08-17 | 2023-09-03 |
 | [YAL BENT YAL AMWAL](https://open.spotify.com/track/4FhiS0mcyUsUlmErYI3Wus) | [Khaled Rossia](https://open.spotify.com/artist/6LxiAUw5qfrr2MiUNlHpO9) | [YAL BENT YAL AMWAL](https://open.spotify.com/album/79vYPems7ABKByaaJ0yAz4) | 3:06 | 2023-12-08 | 2024-01-06 |
+| [Yala Ya Baba](https://open.spotify.com/track/3cCgoPU9rWuBXpORjVRqo8) | [Kingoo](https://open.spotify.com/artist/0kzkjhdSYMW3o4bm5DBbuT), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [إتحاد القمه \(Vol 1\)](https://open.spotify.com/album/2LU0Qmq2wJ9JAaPDBWpu0e) | 2:45 | 2025-10-07 |  |
 | [YAQOUT](https://open.spotify.com/track/07zl7KBSjr84gwAPsquB9g) | [Mosalem](https://open.spotify.com/artist/0GAz4YKcVJUZHWQxvQit51), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [YAQOUT](https://open.spotify.com/album/3uzJNAGmkzCiF3UOVxSAF8) | 3:20 | 2024-08-12 | 2024-09-05 |
 | [YAZMEELY](https://open.spotify.com/track/3WOiSsqfXPZAtGTr2PFj6S) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Ya Kahera](https://open.spotify.com/album/3dUTTXt9860nBInTMPkFDm) | 3:16 | 2023-09-05 | 2023-12-30 |
 | [Yom Gdeed](https://open.spotify.com/track/3datZzuNBdUMzfdNfQPb1E) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [SWITCH](https://open.spotify.com/album/2Qoqb8UvELqy3tSb1hsGI3) | 2:12 | 2023-02-22 | 2023-02-24 |

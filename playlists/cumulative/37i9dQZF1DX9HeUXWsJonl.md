@@ -4,7 +4,7 @@
 
 > A.L.A en tête de la playlist numéro un en Tunisie.
 
-266 songs - 15 hr 57 min
+269 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [BAYNA](https://open.spotify.com/track/1tZDQqGmN6A6wOWPHkJoC1) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Sensazione ultra](https://open.spotify.com/album/7x0QV22Ci2ZOm9HweqBLhn) | 2:05 | 2022-05-19 | 2025-09-18 |
 | [Beli Wassit](https://open.spotify.com/track/0KwaYXajEWxN9KLVqpwAyK) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6), [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Beli Wassit](https://open.spotify.com/album/4oOglonQ8avYy0LeJDKcUi) | 4:05 | 2021-12-10 | 2023-01-14 |
 | [Binetna Layem](https://open.spotify.com/track/1jAQdXTEXfuVHALTavUjM4) | [D\-Boy](https://open.spotify.com/artist/5lzHwZFme9EybZygeGKMA0) | [Binetna Layem](https://open.spotify.com/album/6Ut6jmti17RQK7YJLyzdGs) | 3:22 | 2023-04-20 | 2024-08-26 |
-| [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-07-18 |  |
+| [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-07-18 | 2025-10-08 |
 | [BLA BLA](https://open.spotify.com/track/4XDaWzm0Y6gZoRuo2engXC) | [Youssef Mounes](https://open.spotify.com/artist/6sMjcbHchN0wUoMmYhKSD2) | [BLA BLA](https://open.spotify.com/album/5qy4gJpXBGvCqlAM7uyVTj) | 2:48 | 2022-09-07 | 2023-12-21 |
 | [Blata](https://open.spotify.com/track/0zVePr5IuAQISOFQXjQ1D9) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Blata](https://open.spotify.com/album/7ru31Nlx5qRZDvupo3euWo) | 3:53 | 2021-12-10 | 2023-01-06 |
 | [Blonda](https://open.spotify.com/track/7numLiPibzIhZ2oITph8z4) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI) | [Romeo](https://open.spotify.com/album/6X6DhXAyYwrJR5KySBgGhj) | 3:42 | 2021-12-10 | 2022-05-20 |
@@ -79,13 +79,13 @@
 | [Ena](https://open.spotify.com/track/2EgLc1ac8D2PRIoOc0MWhA) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ena](https://open.spotify.com/album/6ikbd0GPRfPckuN7rLDSit) | 5:12 | 2021-12-10 | 2023-04-01 |
 | [Ena w Lil](https://open.spotify.com/track/6LtMDz7Nwtk96t4kcIECSC) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ena w Lil](https://open.spotify.com/album/2izxjq31e1G4SxNBAxvMJl) | 3:14 | 2022-11-07 | 2023-06-11 |
 | [Ena Wayek](https://open.spotify.com/track/6CD97XQ4oLX0Z4RFqscm3k) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ena Wayek](https://open.spotify.com/album/1C9AHey6Z6L3YFW6eM9tiO) | 3:11 | 2024-02-14 | 2025-07-05 |
-| [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-07-18 |  |
+| [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-07-18 | 2025-10-08 |
 | [Feu Rouge](https://open.spotify.com/track/6ioXzGjgbAr1TFRHAjxD6p) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm), [BAYA](https://open.spotify.com/artist/44tT41qPtEntyDJPyjxZtN) | [Zayn](https://open.spotify.com/album/4QXZZzVBH1pjiVBxyySKjr) | 4:18 | 2024-07-16 |  |
 | [Filamen \- فيلمان](https://open.spotify.com/track/5SfgODdv831EqaStxXB8el) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Filamen \(فيلمان\)](https://open.spotify.com/album/3Q9SpkTQLw5g0fyfObjYZ5) | 4:25 | 2022-12-05 | 2024-02-15 |
 | [Finek](https://open.spotify.com/track/6BJ8rKfrRf4U1u3CGGvgTV) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Finek](https://open.spotify.com/album/2rpEr6XUjRcUKkpRqaQZKe) | 3:24 | 2021-12-10 | 2022-11-10 |
 | [Galbi](https://open.spotify.com/track/7Bri5HtRLTiCq17j3ogbH8) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw) | [Galbi](https://open.spotify.com/album/5y7m6UDox56LbgePd50uXX) | 4:20 | 2022-07-11 | 2023-12-05 |
 | [Galbi](https://open.spotify.com/track/0pD4zoFSCXvBkqka5j4qew) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Galbi](https://open.spotify.com/album/3LLJ8bmI6YrK73g6RhHEPK) | 5:22 | 2022-11-09 | 2023-12-15 |
-| [Ganeni](https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 2:57 | 2024-07-21 |  |
+| [Ganeni](https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 2:57 | 2024-07-21 | 2025-10-08 |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-07-18 |  |
 | [Ghaba](https://open.spotify.com/track/5fJzqNudt8ZdoFGi1LsQbT) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Ghaba](https://open.spotify.com/album/3cjuodS53dH13S46iQavuk) | 3:05 | 2024-04-25 | 2025-09-18 |
 | [Ghareeb Alay](https://open.spotify.com/track/7gJqw9Ogef35nMOzHY8E3v) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ghareeb Alay](https://open.spotify.com/album/5c7qiyYcpJO6niBfAyjZYl) | 2:55 | 2022-01-20 | 2022-10-22 |
@@ -154,8 +154,10 @@
 | [Mazelt sghir](https://open.spotify.com/track/6VITZeXhpy0zUSolcl0u92) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mazelt sghir](https://open.spotify.com/album/5IZagv0nBNCgIZHt0TF0PZ) | 3:52 | 2024-06-02 |  |
 | [MCHEW !](https://open.spotify.com/track/5wXQE0LVpsiIELgQqCPwfe) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [MCHEW !](https://open.spotify.com/album/4eVpsLlYCq0Aeh0u6RhdTK) | 3:28 | 2022-12-27 | 2024-06-15 |
 | [Mdayda](https://open.spotify.com/track/1ijxKmMQEF3gMcCW5irUUe) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Mdayda](https://open.spotify.com/album/03Ii9iQ6ScfiiliYXhjfaD) | 3:49 | 2021-12-10 | 2022-05-14 |
+| [Meen Ysadak](https://open.spotify.com/track/2So4UdTcMQe2ap2VpC43eD) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo), [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [Meen Ysadak](https://open.spotify.com/album/0vqR5QySiLJwGNHMnpQ4Hj) | 3:06 | 2025-10-07 |  |
 | [Melli sar](https://open.spotify.com/track/2TTAGfy6UxbU7ZKeMcIv5S) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Melli sar](https://open.spotify.com/album/5KOkPO2cWQzNk6mvrPOazN) | 4:08 | 2024-05-16 | 2024-06-03 |
 | [MEN BARRA](https://open.spotify.com/track/34ETRdUC9Zti5CW3fHW5eI) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mode Avion](https://open.spotify.com/album/2Zcbkc45OI5UrS6d8W7N31) | 2:46 | 2025-03-12 |  |
+| [MEN BARRA](https://open.spotify.com/track/0ASWZqGgyRKaj3qZ9zXQsE) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mode Avion](https://open.spotify.com/album/3nDtdoIpba8oRpLf0CxTDu) | 2:46 | 2025-10-07 |  |
 | [Menghir Sbab](https://open.spotify.com/track/4iyabYY2AX4n7GmulnWPA6) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Menghir Sbab](https://open.spotify.com/album/5vS6p0a3VxniZIg3g98uIj) | 3:56 | 2023-03-22 | 2023-08-06 |
 | [Merteh \- مرتاح](https://open.spotify.com/track/1cdgSRY4IhYtx7w9QSZaHe) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Merteh \(مرتاح\)](https://open.spotify.com/album/38rvM6WsLXixyKndh2rDEX) | 4:05 | 2023-11-21 | 2024-02-15 |
 | [MESTWI](https://open.spotify.com/track/0mMcpkFCjggJilJZOZUkAj) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [DON PAC](https://open.spotify.com/artist/4pHDepQgiozHdmlY65PJDZ) | [MESTWI](https://open.spotify.com/album/0XGaToEjWwqHU9O2xDdDKt) | 4:13 | 2023-08-19 | 2024-12-10 |
@@ -165,6 +167,7 @@
 | [Mouta Mouta](https://open.spotify.com/track/2e1Aa3L3ov9gw6UCJZUyt1) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Mouta Mouta](https://open.spotify.com/album/5zQ2ZCqsYpfAp1UqYzMtPY) | 3:18 | 2025-05-22 |  |
 | [Move](https://open.spotify.com/track/5XnU6fppfaCp8cJCM0SXxe) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Move](https://open.spotify.com/album/717IhcEaucsFqL7YlM3aUa) | 3:03 | 2021-12-10 | 2023-03-10 |
 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-07-18 |  |
+| [Mrid](https://open.spotify.com/track/5zddjnP7Z2GX27xTCfreMF) | [SayaX](https://open.spotify.com/artist/6X3WYYZHavFRcbuh4XJs1O) | [Mrid](https://open.spotify.com/album/5zYMjaQsYIULUuqxni0H7o) | 3:56 | 2025-10-07 |  |
 | [Msamhek](https://open.spotify.com/track/7FDIp30RCD2dkjF7NbSglw) | [Raouf Maher](https://open.spotify.com/artist/2cSmvBKoZhM31paDXqjno2) | [Msamhek](https://open.spotify.com/album/52W0tdpkcWgyhSwyzHBiiN) | 3:35 | 2023-02-11 | 2023-02-21 |
 | [Msamhin](https://open.spotify.com/track/4vWQUabxtxQvoSpkNNQVnT) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Msamhin](https://open.spotify.com/album/4NkimMrINW8489T3ug2ZpG) | 4:07 | 2024-02-29 | 2024-08-27 |
 | [NABRA](https://open.spotify.com/track/0zIuJnTXFxT5qD39DOguq5) | [EMP1RE](https://open.spotify.com/artist/2aFZFL6yee8SaztShh7AST) | [NABRA](https://open.spotify.com/album/4WZ5m8u3ryE3VQb8ahNgyE) | 4:57 | 2022-11-26 | 2022-11-30 |

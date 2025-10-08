@@ -4,7 +4,7 @@
 
 > <a href="https://loremandfriends.substack.com/p/this\-year\-the\-fall\-season\-is\-in\-bloom">October newsletter is live 🪿</a> ft Audrey Hobert
 
-3,567 songs - 8 day 3 hr 5 min
+3,570 songs - 8 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [Blue](https://open.spotify.com/track/2y6G2t0eCNCeTOHwIKjc3l) | [MONEYPHONE](https://open.spotify.com/artist/3siLw69GHBIbLDvDdoFphB), [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Blue](https://open.spotify.com/album/3Qmc7xQ6vy3eNAS6RMpcGK) | 3:07 | 2019-07-30\* | 2019-08-15 |
 | [Blue](https://open.spotify.com/track/6PeV3ho9kjOYRRT5xJHMYU) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [Blue](https://open.spotify.com/album/295P3WgTJDQQ27tzM5yWRU) | 3:46 | 2022-11-11 | 2022-12-28 |
 | [Blue Cellophane](https://open.spotify.com/track/0tpsGNKhQwqTlj2XZ03ql2) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Blue Cellophane](https://open.spotify.com/album/4OfgZO9nnAjfwA1ez25pCg) | 3:01 | 2019-11-16 | 2020-05-29 |
+| [Blue Eyes](https://open.spotify.com/track/3a5roaSfggDql7oHpBMKb9) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Blue Eyes](https://open.spotify.com/album/4eQEJgxCdf7B0OF2JTccgQ) | 2:18 | 2025-10-07 |  |
 | [Blue Jeans \- RAC Mix](https://open.spotify.com/track/7JVNRVPeXFAOdMrxOHNjVv) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [Blue Jeans Remixes](https://open.spotify.com/album/6IQC6W4qrTWIQmUmNGFyKo) | 3:38 | 2023-07-19 | 2023-08-26 |
 | [Blue Skies](https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Blue Skies](https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0) | 2:39 | 2021-07-01 | 2021-12-02 |
 | [blue skies](https://open.spotify.com/track/7duh8jJuNZbWQjoTx2GsDz) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [blue skies](https://open.spotify.com/album/4ZDKZJpwxWeMZ1IhCPDb0R) | 2:08 | 2019-09-14 | 2020-03-25 |
@@ -776,6 +777,7 @@
 | [Deadbeat Summer](https://open.spotify.com/track/6wSLEvYkwVsVJqB9WkxYKs) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Psychic Chasms](https://open.spotify.com/album/3dQDaXtGZdiCU8M0l85KZF) | 4:02 | 2024-05-03 | 2024-06-01 |
 | [DEAR MISS HOLLOWAY](https://open.spotify.com/track/31wkOICyh6BgHHyPgbBz0D) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [DEAR MISS HOLLOWAY](https://open.spotify.com/album/4VKhpWhs1QkJ6UXn1hkMjU) | 3:29 | 2022-05-27 | 2022-08-04 |
 | [Dear Prudence](https://open.spotify.com/track/2zpd0M5FkvGrMgOTVOlEMW) | [Dana Fuchs](https://open.spotify.com/artist/1LOUhKsq65kzRCfV00GUcB), [Jim Sturgess](https://open.spotify.com/artist/15cfE4nzURJUvrUyqsrMuF), [Evan Rachel Wood](https://open.spotify.com/artist/3MyB0MyKec3Jq0AH2llk7v), [T.V\. Carpio](https://open.spotify.com/artist/1a99hRwEKy7OTVTjzHOExM) | [Across The Universe](https://open.spotify.com/album/0wk2LEg0xFuuRq35UuLoNz) | 5:18 | 2020-10-09 | 2020-10-20 |
+| [Dearly Missed](https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Dearly Missed](https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS) | 6:00 | 2025-10-07 |  |
 | [Death & Romance](https://open.spotify.com/track/5jnlJbBK53L6Nd3ox8T0ot) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Death & Romance](https://open.spotify.com/album/51g8P7ai5xyj970iIdmMFz) | 5:14 | 2024-05-31 | 2024-08-06 |
 | [death bed \(coffee for your head\)](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [death bed \(coffee for your head\)](https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc) | 2:53 | 2020-02-11 | 2020-07-01 |
 | [death wish](https://open.spotify.com/track/5YOPTy4ENCgM0JZnJrkXXF) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [death wish](https://open.spotify.com/album/17QnupwzhTXpi5H00qtPvE) | 3:17 | 2021-04-10 | 2021-05-19 |
@@ -871,6 +873,7 @@
 | [dopamine](https://open.spotify.com/track/2A7fgpVBSDrXKkJxt0MvYv) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [dopamine](https://open.spotify.com/album/38DO8HcSkiWtDXPmSLk6gx) | 2:38 | 2023-10-13 | 2024-02-23 |
 | [dopamine \- Version Française](https://open.spotify.com/track/4B6eD1nzrz6PNOLMgtT7VX) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [dopamine](https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3) | 2:45 | 2023-04-24 | 2024-03-15 |
 | [Dope Sick](https://open.spotify.com/track/0sAKBIDiIFc6UspothbzAW) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv) | [Dope Sick](https://open.spotify.com/album/2973KhbLLpi58GvCCTIbXn) | 3:15 | 2024-04-05 | 2024-07-27 |
+| [Doppler](https://open.spotify.com/track/2x23h454OSMdlbw4TxmXrQ) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [Doppler](https://open.spotify.com/album/2buXav8ZMjRE2INuK0cbd1) | 3:17 | 2025-10-07 |  |
 | [double standard](https://open.spotify.com/track/7qtncw0hAI6uTnR88oLXiq) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [double standard](https://open.spotify.com/album/2LGr9hwu5KgGkmxBUrANq4) | 3:23 | 2022-04-08 | 2022-05-28 |
 | [Doubt](https://open.spotify.com/track/6zGXpYNIkVYy5QRmj9Qlg4) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Doubt](https://open.spotify.com/album/1vezGOGezdPu9GzJaFEjZF) | 2:35 | 2023-07-25 | 2023-07-28 |
 | [Doubt of Revival](https://open.spotify.com/track/1ba4s0V7UuidW0PAWBAer9) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [Doubt of Revival](https://open.spotify.com/album/4JJRgLTqfdIxE0zSb6Rq4u) | 3:34 | 2021-03-06 | 2021-06-24 |

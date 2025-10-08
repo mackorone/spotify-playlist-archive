@@ -4,7 +4,7 @@
 
 > Playlist
 
-611 songs - 1 day 12 hr 9 min
+612 songs - 1 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [am i pretty in the light?](https://open.spotify.com/track/20aF5RDZPmGoP2Bghb4kOh) | [Sara Devoe](https://open.spotify.com/artist/0jKggiMBUKTJl7xoLPX86F) | [am i pretty in the light?](https://open.spotify.com/album/1PWr057jyp8tDnfqKfC3ok) | 2:57 | 2024-01-23 |  |
 | [Amadurecer](https://open.spotify.com/track/3eF6O7QMduhx8at9iqxQTC) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [Amadurecer](https://open.spotify.com/album/12wmenlxnuuimrrN2C0QkH) | 3:29 | 2023-10-25 |  |
 | [Amsterdam](https://open.spotify.com/track/0pfklpJDnkbiCUIOioVJQO) | [HEAVY CHEST](https://open.spotify.com/artist/57fgfg6PTbTqtPegX6rXV5) | [Amsterdam](https://open.spotify.com/album/68ifF0mzj0CktW1B54142C) | 2:52 | 2023-10-25 |  |
+| [Anatoli](https://open.spotify.com/track/3yQxFzqdbVfpig9H94UzCq) | [Corpus Perditum](https://open.spotify.com/artist/41bRvSUF56ZIhyJsAMahmJ) | [Anatoli](https://open.spotify.com/album/4d8mwJ5mcy4xcbi3z3wmpF) | 4:18 | 2025-10-07 |  |
 | [Anchor in the Clouds](https://open.spotify.com/track/1eXNquWkPpHz5fiEe3CAIO) | [Butter Bath](https://open.spotify.com/artist/5iZ8TjSyYZoBSmVSZRIJjg) | [Anchor in the Clouds](https://open.spotify.com/album/74iLL8S4UNmA8K3DOlYSuZ) | 2:48 | 2023-10-25 |  |
 | [And That's How I Got The Congas](https://open.spotify.com/track/6wFVeAvNtTYGNSxbAv9EPX) | [Cool Sounds](https://open.spotify.com/artist/0soSU9eC31tES3VthvCLtU) | [And That's How I Got The Congas](https://open.spotify.com/album/3ZzMiF0rUutGoH1Cg5ZND2) | 2:53 | 2025-02-26 |  |
 | [Another Day](https://open.spotify.com/track/5WEtgNHhrYiNuc4xBHYgma) | [GIMMY](https://open.spotify.com/artist/4tsXqHbb1RPVy8OaFi8xQ0) | [Things Look Different Now](https://open.spotify.com/album/1wt6odICcCYOG17AjDZvri) | 3:03 | 2024-11-27 |  |

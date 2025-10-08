@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1308542,
+  "num_followers": 1308529,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAACU+Wus+nfoy3hV5Yyht+GN",
+  "snapshot_id": "aOMGgAAAAABRyZl/GzkQk9nUkiMGuGfT",
   "tracks": [
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 142769,
-      "name": "SIN CADENAS",
-      "url": "https://open.spotify.com/track/6SKKyjAlI1MwB7kjvte9Li"
+      "duration_ms": 141475,
+      "name": "GLAMPING",
+      "url": "https://open.spotify.com/track/2o9P96ZWhJ4qOnNdeg657H"
     },
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 141475,
-      "name": "GLAMPING",
-      "url": "https://open.spotify.com/track/2o9P96ZWhJ4qOnNdeg657H"
+      "duration_ms": 142769,
+      "name": "SIN CADENAS",
+      "url": "https://open.spotify.com/track/6SKKyjAlI1MwB7kjvte9Li"
     },
     {
       "added_at": null,
@@ -679,18 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Julieta",
-        "url": "https://open.spotify.com/album/5RDldxr07UBheof8XWO0x1"
+        "name": "Noche Complicada",
+        "url": "https://open.spotify.com/album/22QmmZD4By3nzjlvRiQV7Q"
       },
       "artists": [
+        {
+          "name": "Frijo",
+          "url": "https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7"
+        },
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 185217,
-      "name": "Julieta",
-      "url": "https://open.spotify.com/track/2vHcT753gq1ADTPFcDuwSI"
+      "duration_ms": 211208,
+      "name": "Noche Complicada",
+      "url": "https://open.spotify.com/track/4f9vS74fLCma9Tc93iTQbR"
     },
     {
       "added_at": null,
@@ -711,22 +715,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noche Complicada",
-        "url": "https://open.spotify.com/album/22QmmZD4By3nzjlvRiQV7Q"
+        "name": "Julieta",
+        "url": "https://open.spotify.com/album/5RDldxr07UBheof8XWO0x1"
       },
       "artists": [
-        {
-          "name": "Frijo",
-          "url": "https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7"
-        },
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 211208,
-      "name": "Noche Complicada",
-      "url": "https://open.spotify.com/track/4f9vS74fLCma9Tc93iTQbR"
+      "duration_ms": 185217,
+      "name": "Julieta",
+      "url": "https://open.spotify.com/track/2vHcT753gq1ADTPFcDuwSI"
     },
     {
       "added_at": null,
@@ -791,6 +791,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Hicimo'",
+        "url": "https://open.spotify.com/album/4S2JV29tQCqFWWNTxAdNQQ"
+      },
+      "artists": [
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Que Hicimo'",
+      "url": "https://open.spotify.com/track/2tklBuZxZEEJMlhrlzc2CB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No.6 Collaborations Project",
         "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 200733,
       "name": "Nothing On You (feat. Paulo Londra & Dave)",
       "url": "https://open.spotify.com/track/2qRN7PWiHRLprw4FpDeI9N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Hicimo'",
-        "url": "https://open.spotify.com/album/4S2JV29tQCqFWWNTxAdNQQ"
-      },
-      "artists": [
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Que Hicimo'",
-      "url": "https://open.spotify.com/track/2tklBuZxZEEJMlhrlzc2CB"
     },
     {
       "added_at": null,

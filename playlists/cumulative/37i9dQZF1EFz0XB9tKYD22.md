@@ -4,14 +4,14 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-413 songs - 1 day 0 hr 23 min
+414 songs - 1 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(No One's Gonna\) Break Me Down](https://open.spotify.com/track/67xenxD9QjNqTN85yt6eU1) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [What The World Needs Now Is Love](https://open.spotify.com/album/3Jx9WXotFej9KE0AlOLPUN) | 3:16 | 2024-02-27 |  |
 | [1x1](https://open.spotify.com/track/3E25cZhRlHVWrmfstuc9H9) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [1x1](https://open.spotify.com/album/4bK3rdCDBq8D7VXtdtg3cR) | 3:12 | 2024-02-27 | 2024-07-12 |
 | [1x1](https://open.spotify.com/track/3WzkONrbRHl4h8lyQiEOj2) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [1x1](https://open.spotify.com/album/4tFhgNCbU19lXjYkIMFw8T) | 3:12 | 2024-07-11 |  |
-| [23 Degrees And South](https://open.spotify.com/track/3eKwcOjuBr5xKwuguvUIYE) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [We Are Tonight](https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h) | 4:00 | 2024-02-27 | 2025-10-07 |
+| [23 Degrees And South](https://open.spotify.com/track/3eKwcOjuBr5xKwuguvUIYE) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [We Are Tonight](https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h) | 4:00 | 2024-02-27 |  |
 | [538 Stars](https://open.spotify.com/track/0f87YpSjkrL5TkumwPW0kN) | [Tara Oram](https://open.spotify.com/artist/0XOiK5F7wta3jBwX7pNqd9) | [Chasing The Sun](https://open.spotify.com/album/5mnwATZQWZMX3ORKbm4gdH) | 3:41 | 2024-02-27 |  |
 | [A Beautiful Noise](https://open.spotify.com/track/4Z8DyhYIN47p8LgrPVOYeL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:19 | 2024-02-27 |  |
 | [A\-YO](https://open.spotify.com/track/6Az2Ll2CPnWYQ2BgiHf4Di) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:27 | 2024-02-27 |  |
@@ -223,7 +223,7 @@
 | [Love You Right](https://open.spotify.com/track/2JkTdxltC22nEQPXR9wrqh) | [Lindsey Walker](https://open.spotify.com/artist/6HjkMXAIbRvdtppck8j2Cp) | [Our Glory](https://open.spotify.com/album/4EHCZliOHYNPffIinC2SnS) | 5:09 | 2024-02-27 |  |
 | [Low](https://open.spotify.com/track/72pvSf3nSjqB4Fuph46kJK) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:31 | 2024-02-27 |  |
 | [Low Country](https://open.spotify.com/track/641Lc1TXtZcYwGmggGlKS6) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Southern Style](https://open.spotify.com/album/6cYkNKykfCpIrai7LD2AVn) | 4:11 | 2024-02-27 |  |
-| [Make It Out](https://open.spotify.com/track/7lQnAxzNfWpHpL1VsA3gzy) | [Zaya Tha Flysta](https://open.spotify.com/artist/1CtP580MCBT8LGke5Riu35), [Mackie Fresh](https://open.spotify.com/artist/3ARzxhq2yh9R0eVClho12c) | [Welcome To The Underground](https://open.spotify.com/album/0jHN4uEq9DXiSYPUTVuxVU) | 3:14 | 2024-02-27 |  |
+| [Make It Out](https://open.spotify.com/track/7lQnAxzNfWpHpL1VsA3gzy) | [Zaya Tha Flysta](https://open.spotify.com/artist/1CtP580MCBT8LGke5Riu35), [Mackie Fresh](https://open.spotify.com/artist/3ARzxhq2yh9R0eVClho12c) | [Welcome To The Underground](https://open.spotify.com/album/0jHN4uEq9DXiSYPUTVuxVU) | 3:14 | 2024-02-27 | 2025-10-08 |
 | [Mama](https://open.spotify.com/track/4pEa9RNzmkmHxKIuJrKydq) | [Makossa](https://open.spotify.com/artist/0GWOdbhF4DpyEDsbU9JoCl), [Megablast](https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T), [3gga](https://open.spotify.com/artist/6G2wophy0LfYGYpHgCfgKB) | [Vienna Scientists V \- The 10th Anniversary](https://open.spotify.com/album/3YsgYxNCFhNujmOfUZapSd) | 4:52 | 2024-02-27 |  |
 | [Mansion](https://open.spotify.com/track/4anMp1snWhpCRzxWObDzRZ) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Ocean](https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv) | 3:12 | 2024-02-27 |  |
 | [Map Dot Missing You](https://open.spotify.com/track/6Zn2UwxIE8A7Ppnvz6iosp) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Map Dot Missing You](https://open.spotify.com/album/2Bd8KaslC78hDhi2X9OikT) | 3:29 | 2024-02-27 |  |
@@ -392,6 +392,7 @@
 | [Web of Lies](https://open.spotify.com/track/2E6f2r945tYOVUYlPWgDCo) | [Pam Jackson](https://open.spotify.com/artist/6hF0EFyjOBs213RdDv8swc) | [Dream a Little Bigger](https://open.spotify.com/album/3LL6YCz4gsYAZiz5cAEksV) | 2:51 | 2024-02-27 |  |
 | [What I Never Knew I Always Wanted](https://open.spotify.com/track/5b0QOGqikWl9VZ3H3uHrUb) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:35 | 2024-02-27 |  |
 | [What She Wants Tonight](https://open.spotify.com/track/3BQipmmdqOBwk2Nz7oKw3j) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here](https://open.spotify.com/album/0wnaUYW25dVLAzk41fp1Ez) | 3:07 | 2024-02-27 |  |
+| [What Would You Do](https://open.spotify.com/track/4kFWLoSCSUTEDbF1rkf8pf) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Roses & Lace](https://open.spotify.com/album/0KxZ4zOK41QG8Vz8uO7isO) | 2:59 | 2025-10-07 |  |
 | [Wheels Rollin'](https://open.spotify.com/track/2vebov6L4vFh2CTSnAWjt3) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Night Train](https://open.spotify.com/album/1WYrLHpLwOSCQ4n5kNeZa6) | 4:40 | 2025-01-09 | 2025-04-12 |
 | [When I'm Old](https://open.spotify.com/track/4NbuZv0SMiYjeURYVQ8jLI) | [The Wilkinsons](https://open.spotify.com/artist/17VaTNp7RfgYr5JAJKTqAv) | [Greatest Hits ..\. And Then Some](https://open.spotify.com/album/3rFzgfqAWm4Foov6RMvkOF) | 3:58 | 2024-02-27 |  |
 | [When Someone Stops Loving You](https://open.spotify.com/track/7A55QoGK0vf8lGNtaWZm45) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Breaker](https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh) | 3:48 | 2024-02-27 |  |

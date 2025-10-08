@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,247 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,389 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 57 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 |
 | 58 | [Trouble](https://open.spotify.com/track/2n5xkzoCBGMRqmmXmfJ06R) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Trouble / In My Head](https://open.spotify.com/album/6oqL2d6U0WrOKo5uDX61Ja) | 3:06 |
 | 59 | [Love from the Other Side](https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Love from the Other Side](https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n) | 4:09 |
-| 60 | [a love song](https://open.spotify.com/track/1RW2DgKf8EoTrgGKpK7Uc1) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Go Outside And Hug A Tree](https://open.spotify.com/album/4tHSGxuY5UcUE7UyHKJO0x) | 2:43 |
+| 60 | [Where Do You Go](https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Where Do You Go](https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL) | 3:57 |
 | 61 | [Número Uno](https://open.spotify.com/track/00N4vBEKB9txG2InXMscNu) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Radio Kono](https://open.spotify.com/album/0y4mMWuvF0LJM8CISh7Rlo) | 3:36 |
 | 62 | [Hurt](https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hurt](https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ) | 3:36 |
-| 63 | [Where Do You Go](https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Where Do You Go](https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL) | 3:57 |
+| 63 | [a love song](https://open.spotify.com/track/1RW2DgKf8EoTrgGKpK7Uc1) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Go Outside And Hug A Tree](https://open.spotify.com/album/4tHSGxuY5UcUE7UyHKJO0x) | 2:43 |
 | 64 | [Wait on You](https://open.spotify.com/track/5LxSIqwKj8HAFsn2yZVm8O) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Notes from a Quiet Life](https://open.spotify.com/album/4HYukOf0RGN2YotkEsMCue) | 2:56 |
 | 65 | [Pray for Me](https://open.spotify.com/track/78SFRnKmI86Hyq0pdO7j9f) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Acts of Faith](https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU) | 7:14 |
 | 66 | [Loveher](https://open.spotify.com/track/75PNzduM0yViwNeye50xdP) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Loveher](https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX) | 3:49 |
@@ -85,18 +85,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 75 | [Love Hope Change](https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [1995](https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l) | 4:41 |
 | 76 | [Spotlight \- Single Edit](https://open.spotify.com/track/3ixfi8GozgKMn27BLPA2z8) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Spotlight](https://open.spotify.com/album/54MjolrMY91tFXa2h1CB1u) | 4:12 |
 | 77 | [Stream of Consciousness](https://open.spotify.com/track/40vkKEz4BqmtvHED2Jstil) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Stream of Consciousness](https://open.spotify.com/album/2UX7LFFvs1vRclLox4sJbE) | 2:42 |
-| 78 | [Santiago](https://open.spotify.com/track/58r843NDpyDVVvd6In95g3) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Santiago](https://open.spotify.com/album/5CqEEjDulphHq8zgJcko21) | 2:22 |
-| 79 | [Sorrow](https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Sorrow](https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT) | 2:20 |
+| 78 | [Sorrow](https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Sorrow](https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT) | 2:20 |
+| 79 | [Santiago](https://open.spotify.com/track/58r843NDpyDVVvd6In95g3) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Santiago](https://open.spotify.com/album/5CqEEjDulphHq8zgJcko21) | 2:22 |
 | 80 | [Look To Him](https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Look To Him](https://open.spotify.com/album/6fN3UIZmBIbLJeXymGyXS1) | 4:11 |
-| 81 | [Sounds Of Blue](https://open.spotify.com/track/45VVYckfngIzT5gg8IFu3F) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Sounds Of Blue](https://open.spotify.com/album/3RZlQHoOCB6F9RjrFveKfc) | 3:34 |
-| 82 | [Masquerade](https://open.spotify.com/track/4KWMFTpxFkwV5avb7Za0Sy) | [Swim Surreal](https://open.spotify.com/artist/7t2rIgCnHoQ836kFShZd6B), [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr) | [In The Half Light](https://open.spotify.com/album/7sV0NIlkRFHNBhbr3wD2AL) | 4:08 |
+| 81 | [Masquerade](https://open.spotify.com/track/4KWMFTpxFkwV5avb7Za0Sy) | [Swim Surreal](https://open.spotify.com/artist/7t2rIgCnHoQ836kFShZd6B), [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr) | [In The Half Light](https://open.spotify.com/album/7sV0NIlkRFHNBhbr3wD2AL) | 4:08 |
+| 82 | [Sounds Of Blue](https://open.spotify.com/track/45VVYckfngIzT5gg8IFu3F) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Sounds Of Blue](https://open.spotify.com/album/3RZlQHoOCB6F9RjrFveKfc) | 3:34 |
 | 83 | [Trippin](https://open.spotify.com/track/55ZSz4QtfzKj9Pjf7Ac6Ak) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [State of Mine](https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD) | 2:52 |
 | 84 | [Skylight](https://open.spotify.com/track/0kwBCyPQMZVdqpqhcv50JA) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Phosphorescent](https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE) | 4:00 |
 | 85 | [Stay Away \(From Me\)](https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 2:57 |
 | 86 | [Run A Red Light](https://open.spotify.com/track/74ixyNYERpYysIIIjcYGBK) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Fuse](https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx) | 3:39 |
 | 87 | [Mormor](https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Mormor](https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN) | 4:00 |
-| 88 | [feather light](https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ), [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [ocean tales](https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM) | 3:08 |
-| 89 | [A\-Game](https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX) | [Brooke Combe](https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO) | [A\-Game](https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A) | 3:11 |
+| 88 | [A\-Game](https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX) | [Brooke Combe](https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO) | [A\-Game](https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A) | 3:11 |
+| 89 | [feather light](https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ), [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [ocean tales](https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM) | 3:08 |
 | 90 | [Immaterial Girl](https://open.spotify.com/track/6A7fTO37KsQ2aXwkoV2m9L) | [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [Marci](https://open.spotify.com/album/4A8z3O9t9mhH0rIBZ1Et7e) | 3:29 |
 | 91 | [Colores Del Mar](https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 3:44 |
 | 92 | [Hold On](https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Hold On](https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ) | 3:30 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 95 | [Peace](https://open.spotify.com/track/6Rw869ObJGXU1duRiWbIiU) | [Intalekt](https://open.spotify.com/artist/0DyatUnzbcULupeMCfqumy) | [The Adventures Of Masta Splinta](https://open.spotify.com/album/6C9MolvNVm2DdfJ2or8qQQ) | 3:41 |
 | 96 | [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 |
 | 97 | [Drifting Out](https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Drifting Out EP](https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh) | 3:39 |
-| 98 | [head down](https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy) | [Habe](https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW) | [head down](https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ) | 2:28 |
-| 99 | [Japan](https://open.spotify.com/track/5LJnDBkPBppoyS2fu6OUYW) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y) | [Japan](https://open.spotify.com/album/4d67HTW9hBwtTiVzsVa2Vh) | 3:18 |
+| 98 | [Japan](https://open.spotify.com/track/5LJnDBkPBppoyS2fu6OUYW) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y) | [Japan](https://open.spotify.com/album/4d67HTW9hBwtTiVzsVa2Vh) | 3:18 |
+| 99 | [head down](https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy) | [Habe](https://open.spotify.com/artist/2BugRvdm3aasWYT3VthewW) | [head down](https://open.spotify.com/album/4nZeUiOozi6RueFN38jIyJ) | 2:28 |
 | 100 | [Ooh La La](https://open.spotify.com/track/0avVdSMyZ22c4fCbnzJRT8) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Ooh La La](https://open.spotify.com/album/5IKNlZH319Do4epGNcdZey) | 3:48 |
 
 Snapshot ID: `AAAAAJj8ICLNsx3ybehq3r3xvWTUR3/X`

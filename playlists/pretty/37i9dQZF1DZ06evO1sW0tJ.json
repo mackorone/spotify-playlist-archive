@@ -1,12 +1,12 @@
 {
   "description": "This is Clara Schumann. The essential tracks, all in one playlist.",
-  "num_followers": 377,
+  "num_followers": 382,
   "original_name": "This Is Clara Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAAAhSLVb3FpeJTF3NVoIeewO",
+  "snapshot_id": "aOMGgAAAAABijJMfTFVpUgUeYxSEIozC",
   "tracks": [
     {
       "added_at": null,
@@ -343,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clara et Robert Schumann, Romances, Variations, Grande sonate",
-        "url": "https://open.spotify.com/album/39n5wrHWx5GHQkFpUzG7t1"
-      },
-      "artists": [
-        {
-          "name": "Pierre-Alain Volondat",
-          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
-        },
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Trois romances op.11 Andante",
-      "url": "https://open.spotify.com/track/62E33pIJZODmg14tP7sZ4G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\"Wiegenlied\" & Other Brahms Masterpieces",
         "url": "https://open.spotify.com/album/3WwxtFaLtEFDqv9vKI5DRL"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 269320,
       "name": "Piano Trio in G Minor, Op. 17: II. Scherzo - Tempo di menuetto - Trio",
       "url": "https://open.spotify.com/track/74by3BihqWKpRcacKVVMb5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clara et Robert Schumann, Romances, Variations, Grande sonate",
+        "url": "https://open.spotify.com/album/39n5wrHWx5GHQkFpUzG7t1"
+      },
+      "artists": [
+        {
+          "name": "Pierre-Alain Volondat",
+          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
+        },
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "Trois romances op.11 Andante",
+      "url": "https://open.spotify.com/track/62E33pIJZODmg14tP7sZ4G"
     },
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clara Schumann: Piano Sonata in G Minor",
-        "url": "https://open.spotify.com/album/57cUGwG3O0kO8v0puKP1V9"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Sharon Su",
-          "url": "https://open.spotify.com/artist/2AMO3bJWEATyOhjJnu6gwl"
-        }
-      ],
-      "duration_ms": 142755,
-      "name": "Piano Sonata in G Minor: III. Scherzo",
-      "url": "https://open.spotify.com/track/5WJCRBz081QSlKz0jBBjB0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\"Wiegenlied\" & Other Brahms Masterpieces",
         "url": "https://open.spotify.com/album/3WwxtFaLtEFDqv9vKI5DRL"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 423493,
       "name": "Piano Trio in G Minor, Op. 17: IV. Allegretto",
       "url": "https://open.spotify.com/track/4oxdnghKVtmte3coMMeFzM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clara Schumann: Piano Sonata in G Minor",
+        "url": "https://open.spotify.com/album/57cUGwG3O0kO8v0puKP1V9"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Sharon Su",
+          "url": "https://open.spotify.com/artist/2AMO3bJWEATyOhjJnu6gwl"
+        }
+      ],
+      "duration_ms": 142755,
+      "name": "Piano Sonata in G Minor: III. Scherzo",
+      "url": "https://open.spotify.com/track/5WJCRBz081QSlKz0jBBjB0"
     },
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Female Power: Piano Works",
-        "url": "https://open.spotify.com/album/4WvZYjBRErBfLaXllxLMhQ"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Anna Lipiak",
-          "url": "https://open.spotify.com/artist/5Mnmx3vEygn2dsVO3E15WM"
-        }
-      ],
-      "duration_ms": 134373,
-      "name": "Sonata in G Minor: III. Scherzo",
-      "url": "https://open.spotify.com/track/2puCyidnDgVaE8Vm5YsCya"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\"Wiegenlied\" & Other Brahms Masterpieces",
         "url": "https://open.spotify.com/album/3WwxtFaLtEFDqv9vKI5DRL"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 580586,
       "name": "Piano Trio in G Minor, Op. 17: I. Allegro moderato",
       "url": "https://open.spotify.com/track/1tVnqMLSjwbn0uhbD5siGI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Female Power: Piano Works",
+        "url": "https://open.spotify.com/album/4WvZYjBRErBfLaXllxLMhQ"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Anna Lipiak",
+          "url": "https://open.spotify.com/artist/5Mnmx3vEygn2dsVO3E15WM"
+        }
+      ],
+      "duration_ms": 134373,
+      "name": "Sonata in G Minor: III. Scherzo",
+      "url": "https://open.spotify.com/track/2puCyidnDgVaE8Vm5YsCya"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         }
       ],
-      "duration_ms": 186874,
-      "name": "Quatre Pi\u00e8ces fugitives (Nr 1 Larghetto)",
-      "url": "https://open.spotify.com/track/03dqMUnRqJEJLSSpwAoUC1"
+      "duration_ms": 174149,
+      "name": "Drei Romanzen, Nr. 2, Allegretto - Piano & Violin",
+      "url": "https://open.spotify.com/track/6mINKdNanPXqOjYbg4CJTI"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         }
       ],
-      "duration_ms": 174149,
-      "name": "Drei Romanzen, Nr. 2, Allegretto - Piano & Violin",
-      "url": "https://open.spotify.com/track/6mINKdNanPXqOjYbg4CJTI"
+      "duration_ms": 186874,
+      "name": "Quatre Pi\u00e8ces fugitives (Nr 1 Larghetto)",
+      "url": "https://open.spotify.com/track/03dqMUnRqJEJLSSpwAoUC1"
     },
     {
       "added_at": null,

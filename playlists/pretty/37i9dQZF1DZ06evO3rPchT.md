@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 
 > This is HARDY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,767 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,803 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,17 +36,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 26 | [Turn You Down \(HARDY feat\. Morgan Wallen, Zakk Wylde\)](https://open.spotify.com/track/395Vms42bEvN38TBqsXGO3) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs) | 2:34 |
 | 27 | [TRUCK](https://open.spotify.com/track/4e65NJs3JpNvrdjcNBL3s5) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y) | 3:38 |
 | 28 | [Take The Country And Run](https://open.spotify.com/track/1vkhfKFbsg8mj1MNfqNHJx) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY! COUNTRY!](https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc) | 3:37 |
-| 29 | [WHYBMWL](https://open.spotify.com/track/7E3BoCMKxdeW7ZqxnL0zs1) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 3:13 |
-| 30 | [Luckiest Man Alive](https://open.spotify.com/track/24chu1f7CzjS0XdlJKv9T4) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY!](https://open.spotify.com/album/6D36bEVEUJueIpSqdaotyQ) | 2:59 |
+| 29 | [Good Ole Boy](https://open.spotify.com/track/3zvPnDrcIbpXnHZ7Sspw3m) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY! COUNTRY! COUNTRY!](https://open.spotify.com/album/0ihzXn0iwyBtHVfQuLRUSh) | 3:32 |
+| 30 | [WHYBMWL](https://open.spotify.com/track/7E3BoCMKxdeW7ZqxnL0zs1) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 3:13 |
 | 31 | [AIN'T A BAD DAY](https://open.spotify.com/track/6ylWoGhvbMInRjPnceGLpO) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y) | 3:22 |
 | 32 | [Country In Me](https://open.spotify.com/track/0tnKWiWZvNiTehuGuYAHGT) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY! COUNTRY!](https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc) | 3:24 |
-| 33 | [Bro Country \(feat\. ERNEST\)](https://open.spotify.com/track/7Au6MzN4ndWs2yit0UIW2Z) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Bro Country](https://open.spotify.com/album/3VHSMAMTMIaPuhwXPg032f) | 4:45 |
-| 34 | [Buck On The Wall](https://open.spotify.com/track/71LMlj53VfGjIkOsLasnV9) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY!](https://open.spotify.com/album/45k1cbcPYPSmCFThpFBHQG) | 3:04 |
-| 35 | [Dog Years](https://open.spotify.com/track/3WH2Z2ZoUv0RB0NBV13YY9) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Dog Years](https://open.spotify.com/album/7pPNAH85dZ7ISCOtk8MvDI) | 4:16 |
+| 33 | [Dog Years](https://open.spotify.com/track/3WH2Z2ZoUv0RB0NBV13YY9) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Dog Years](https://open.spotify.com/album/7pPNAH85dZ7ISCOtk8MvDI) | 4:16 |
+| 34 | [Luckiest Man Alive](https://open.spotify.com/track/24chu1f7CzjS0XdlJKv9T4) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY!](https://open.spotify.com/album/6D36bEVEUJueIpSqdaotyQ) | 2:59 |
+| 35 | [Bro Country \(feat\. ERNEST\)](https://open.spotify.com/track/7Au6MzN4ndWs2yit0UIW2Z) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Bro Country](https://open.spotify.com/album/3VHSMAMTMIaPuhwXPg032f) | 4:45 |
 | 36 | [Bedrooms In The Sky \(feat\. Stephen Wilson Jr.\)](https://open.spotify.com/track/4hVlesuEbCoRKZwuupbgTx) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [COUNTRY! COUNTRY!](https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc) | 3:38 |
-| 37 | [Good Ole Boy](https://open.spotify.com/track/3zvPnDrcIbpXnHZ7Sspw3m) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY! COUNTRY! COUNTRY!](https://open.spotify.com/album/0ihzXn0iwyBtHVfQuLRUSh) | 3:32 |
-| 38 | [Girl With A Gun](https://open.spotify.com/track/7x1Mz92xw8TaRI7pjinIlL) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY!](https://open.spotify.com/album/6D36bEVEUJueIpSqdaotyQ) | 3:04 |
-| 39 | [Father’s Søn \- Acoustic](https://open.spotify.com/track/3ZMIozrnoYr0wrHpBpM9aX) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [søn of dad \(deluxe\)](https://open.spotify.com/album/3iTz4Hhtzy2o7O6U9n2JXe) | 4:32 |
+| 37 | [Buck On The Wall](https://open.spotify.com/track/71LMlj53VfGjIkOsLasnV9) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY!](https://open.spotify.com/album/45k1cbcPYPSmCFThpFBHQG) | 3:04 |
+| 38 | [Father’s Søn \- Acoustic](https://open.spotify.com/track/3ZMIozrnoYr0wrHpBpM9aX) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [søn of dad \(deluxe\)](https://open.spotify.com/album/3iTz4Hhtzy2o7O6U9n2JXe) | 4:32 |
+| 39 | [Girl With A Gun](https://open.spotify.com/track/7x1Mz92xw8TaRI7pjinIlL) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY!](https://open.spotify.com/album/6D36bEVEUJueIpSqdaotyQ) | 3:04 |
 | 40 | [Y’all Need Jesus](https://open.spotify.com/track/4LmtuM662l8X2spMNBsdHj) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY! COUNTRY!](https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc) | 2:52 |
 | 41 | [My Kinda Livin’ \(HARDY feat\. Hunter Phelps, Jameson Rodgers\)](https://open.spotify.com/track/0aAOaGw2wPv6X3mi5Wjeqy) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Hunter Phelps](https://open.spotify.com/artist/3TiUMPXO9xfV406Vv8qYXq), [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs) | 3:19 |
 | 42 | [A ROCK](https://open.spotify.com/track/5w3h2BXf7Jvj8XgaQYVqfM) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 49 | [Car That Drove You Away](https://open.spotify.com/track/3js7hQ6DUHQ2shBJ0snwEn) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY!](https://open.spotify.com/album/6D36bEVEUJueIpSqdaotyQ) | 3:04 |
 | 50 | [SIGNED, SOBER YOU](https://open.spotify.com/track/0JBGUNAiW0AcAMA3mSxBDc) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [WHERE TO FIND ME](https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF) | 3:28 |
 
-Snapshot ID: `aOG1AAAAAADAcLXhz1IIQ8NUFxUsjjH6`
+Snapshot ID: `aOMGgAAAAAC+NJIMWbeocBq1og4687Fp`

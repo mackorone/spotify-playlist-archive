@@ -1,6 +1,6 @@
 {
   "description": "Mooi van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 42386,
+  "num_followers": 42398,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2025-09-15 14:58:35",
       "album": {
+        "name": "Twee Stappen Voor",
+        "url": "https://open.spotify.com/album/75OG2bfTEgaBamluRUEbhS"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 178434,
+      "name": "Als Je Gaat",
+      "url": "https://open.spotify.com/track/7soDg3f7rFxxqyLus0KGYg"
+    },
+    {
+      "added_at": "2025-09-15 14:58:35",
+      "album": {
         "name": "Rode Draad",
         "url": "https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH"
       },
@@ -255,26 +271,6 @@
       "duration_ms": 176333,
       "name": "Rode Draad",
       "url": "https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE"
-    },
-    {
-      "added_at": "2025-09-15 14:58:35",
-      "album": {
-        "name": "Ik Zal Er Zijn",
-        "url": "https://open.spotify.com/album/4RmhGsZpq5TfSTwuQen0ES"
-      },
-      "artists": [
-        {
-          "name": "Robert van Hemert",
-          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
-        },
-        {
-          "name": "Kimberly Fransens",
-          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
-        }
-      ],
-      "duration_ms": 196862,
-      "name": "Ik Zal Er Zijn",
-      "url": "https://open.spotify.com/track/3U1y2yON7uEZqMSBWxjYYQ"
     },
     {
       "added_at": "2025-09-15 14:58:35",
@@ -295,22 +291,6 @@
     {
       "added_at": "2025-09-15 14:58:35",
       "album": {
-        "name": "Twee Stappen Voor",
-        "url": "https://open.spotify.com/album/75OG2bfTEgaBamluRUEbhS"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 178434,
-      "name": "Als Je Gaat",
-      "url": "https://open.spotify.com/track/7soDg3f7rFxxqyLus0KGYg"
-    },
-    {
-      "added_at": "2025-09-15 14:58:35",
-      "album": {
         "name": "Beste Zangers 2024 (Claude)",
         "url": "https://open.spotify.com/album/7cFYcG7GHXLS29svnOSWw7"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 216320,
       "name": "Toen Ik Je Zag",
       "url": "https://open.spotify.com/track/5AM4yh4nq6shKIJqyhBvSI"
+    },
+    {
+      "added_at": "2025-09-15 14:58:35",
+      "album": {
+        "name": "Ik Zal Er Zijn",
+        "url": "https://open.spotify.com/album/4RmhGsZpq5TfSTwuQen0ES"
+      },
+      "artists": [
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        },
+        {
+          "name": "Kimberly Fransens",
+          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
+        }
+      ],
+      "duration_ms": 196862,
+      "name": "Ik Zal Er Zijn",
+      "url": "https://open.spotify.com/track/3U1y2yON7uEZqMSBWxjYYQ"
     },
     {
       "added_at": "2025-09-15 14:58:35",
@@ -375,6 +375,22 @@
     {
       "added_at": "2025-09-15 14:58:35",
       "album": {
+        "name": "Hoeveel Tranen Moet Ik Huilen",
+        "url": "https://open.spotify.com/album/43DsXBmo9W3116cbfZLLFm"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        }
+      ],
+      "duration_ms": 208977,
+      "name": "Hoeveel Tranen Moet Ik Huilen",
+      "url": "https://open.spotify.com/track/6nmHOYTnybAfvIVCFdnkhe"
+    },
+    {
+      "added_at": "2025-09-15 14:58:35",
+      "album": {
         "name": "Seizoenen",
         "url": "https://open.spotify.com/album/6O6pOwgtsdIF0CioNutqV0"
       },
@@ -391,18 +407,18 @@
     {
       "added_at": "2025-09-15 14:58:35",
       "album": {
-        "name": "Hoeveel Tranen Moet Ik Huilen",
-        "url": "https://open.spotify.com/album/43DsXBmo9W3116cbfZLLFm"
+        "name": "Niet Voor Lief",
+        "url": "https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi"
       },
       "artists": [
         {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
         }
       ],
-      "duration_ms": 208977,
-      "name": "Hoeveel Tranen Moet Ik Huilen",
-      "url": "https://open.spotify.com/track/6nmHOYTnybAfvIVCFdnkhe"
+      "duration_ms": 174448,
+      "name": "Bang Dat Ik Je Stem Vergeet",
+      "url": "https://open.spotify.com/track/1LmGCG8AOvCsVvjOPbiY54"
     },
     {
       "added_at": "2025-09-15 14:58:35",
@@ -423,22 +439,6 @@
       "duration_ms": 199074,
       "name": "Tranen",
       "url": "https://open.spotify.com/track/7747domZyQuAyHPMy6jvAn"
-    },
-    {
-      "added_at": "2025-09-15 14:58:35",
-      "album": {
-        "name": "Niet Voor Lief",
-        "url": "https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi"
-      },
-      "artists": [
-        {
-          "name": "Robert van Hemert",
-          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
-        }
-      ],
-      "duration_ms": 174448,
-      "name": "Bang Dat Ik Je Stem Vergeet",
-      "url": "https://open.spotify.com/track/1LmGCG8AOvCsVvjOPbiY54"
     },
     {
       "added_at": "2025-09-15 14:58:35",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-09-15 14:58:35",
       "album": {
-        "name": "Wat Had Jij Van Mij Verwacht",
-        "url": "https://open.spotify.com/album/0d7TswwHubviX1mnZzbUSN"
-      },
-      "artists": [
-        {
-          "name": "Gizbey",
-          "url": "https://open.spotify.com/artist/7GTD2ivDEWSYlwjfIdnkGq"
-        }
-      ],
-      "duration_ms": 177680,
-      "name": "Wat Had Jij Van Mij Verwacht",
-      "url": "https://open.spotify.com/track/6Ln5NYIuzJ8baOwoCRP7Kz"
-    },
-    {
-      "added_at": "2025-09-15 14:58:35",
-      "album": {
         "name": "Samen \u00c9\u00e9n",
         "url": "https://open.spotify.com/album/0F2Oyz1BS2A5xTU7iCvzxf"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 175381,
       "name": "Schreeuwen",
       "url": "https://open.spotify.com/track/2xn7cPoNGK74i52b5whZ7A"
+    },
+    {
+      "added_at": "2025-09-15 14:58:35",
+      "album": {
+        "name": "Wat Had Jij Van Mij Verwacht",
+        "url": "https://open.spotify.com/album/0d7TswwHubviX1mnZzbUSN"
+      },
+      "artists": [
+        {
+          "name": "Gizbey",
+          "url": "https://open.spotify.com/artist/7GTD2ivDEWSYlwjfIdnkGq"
+        }
+      ],
+      "duration_ms": 177680,
+      "name": "Wat Had Jij Van Mij Verwacht",
+      "url": "https://open.spotify.com/track/6Ln5NYIuzJ8baOwoCRP7Kz"
     },
     {
       "added_at": "2025-09-15 14:58:35",

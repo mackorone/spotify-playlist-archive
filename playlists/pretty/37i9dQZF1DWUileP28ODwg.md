@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Chris Tomlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,168 likes - 74 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,377 likes - 74 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

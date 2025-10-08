@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,886 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,903 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 21 | [Noise Tempo](https://open.spotify.com/track/3enXqcSAVAKpO6ACvEAB6J) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Noiseflow](https://open.spotify.com/artist/7fJ280aOmeo3dA2KHeVxP3) | [Noise Tempo](https://open.spotify.com/album/2NT3CpZhBkuEhHF3OdQyCl) | 2:34 |
 | 22 | [Open Your Eyes](https://open.spotify.com/track/6yTmSclJ0xW8YBhmybhD7a) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [Open Your Eyes](https://open.spotify.com/album/5uL5wxLcfTFgmgooFQ02Lt) | 2:47 |
 | 23 | [Hard Gaan](https://open.spotify.com/track/7nlpaMQJiyWbRDjUijhS4y) | [Roosterz](https://open.spotify.com/artist/5oc7w0IUnErPaza4Yu2igm), [Bössels](https://open.spotify.com/artist/5NpFx3WsQcRwlVJ8eq6XwC), [Royalistiq](https://open.spotify.com/artist/61F32Z0pFN56WdwLXRQgLK) | [Hard Gaan](https://open.spotify.com/album/3mDB4gb0h3k7qn7wNhDIRZ) | 2:31 |
-| 24 | [Voice Of The Underground](https://open.spotify.com/track/0qDh203qtw06cri10ahfjj) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [Voice Of The Underground](https://open.spotify.com/album/34vRJtRpAWX0RWw5y9rWL2) | 2:55 |
-| 25 | [BASS CANNON](https://open.spotify.com/track/7fB5h3FffLhYp3HrH9JkWp) | [Slaughterhouse](https://open.spotify.com/artist/5xIrxXqP6GhNa8AX6wYSV9), [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [BASS CANNON](https://open.spotify.com/album/4IJqXcnHeWcENkMBKwcvBD) | 2:09 |
+| 24 | [BASS CANNON](https://open.spotify.com/track/7fB5h3FffLhYp3HrH9JkWp) | [Slaughterhouse](https://open.spotify.com/artist/5xIrxXqP6GhNa8AX6wYSV9), [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [BASS CANNON](https://open.spotify.com/album/4IJqXcnHeWcENkMBKwcvBD) | 2:09 |
+| 25 | [Voice Of The Underground](https://open.spotify.com/track/0qDh203qtw06cri10ahfjj) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [Voice Of The Underground](https://open.spotify.com/album/34vRJtRpAWX0RWw5y9rWL2) | 2:55 |
 | 26 | [Major Bounce](https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Major Bounce](https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB) | 2:35 |
 | 27 | [Paint It Black](https://open.spotify.com/track/4IquRZr4tENZfBNKyVaxOP) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk) | [Paint It Black](https://open.spotify.com/album/1cV57IymcPP6bXxvpRbdBp) | 3:18 |
 | 28 | [Energy Drink](https://open.spotify.com/track/6j9EHvNLI3VzqG2rPTS8Bf) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Energy Drink](https://open.spotify.com/album/4iUaYfLtsBjPBniim0eQ0S) | 2:53 |

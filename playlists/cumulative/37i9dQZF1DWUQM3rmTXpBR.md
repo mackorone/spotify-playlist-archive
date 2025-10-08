@@ -4,7 +4,7 @@
 
 > Alternative Arabic songs\. Cover: Jadal
 
-241 songs - 14 hr 44 min
+244 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Daye3 Albi](https://open.spotify.com/track/5oGI0mFfViPH2i8sP8XnnS) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Daye3 Albi](https://open.spotify.com/album/0KYywGAwgeVKlWqAoohIw2) | 2:10 | 2022-07-23 | 2025-10-07 |
 | [Denia Dour](https://open.spotify.com/track/6BLSn19vlhGLwoQWmPaDUc) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [Denia Dour](https://open.spotify.com/album/7i0pjCbQ3amgxYoawJCx5o) | 5:30 | 2021-12-23 | 2023-04-24 |
 | [El 3asal](https://open.spotify.com/track/5ecSRvEKkYarFYgyFgKak8) | [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [El 3asal](https://open.spotify.com/album/3TE0kPmcSenKkNKyfTLLWS) | 3:00 | 2025-10-06 |  |
+| [El Ayyam](https://open.spotify.com/track/1CI4ip4q7xg6jdfkFZN1eZ) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA) | [El Ayyam](https://open.spotify.com/album/6aSBnFvx0Y7WF3oC1dWOJM) | 3:57 | 2025-10-07 |  |
 | [El Wuhoosh](https://open.spotify.com/track/3Kfq9shpeUGbB8gMnalAGg) | [El Morabba3](https://open.spotify.com/artist/4yTcSEYSpMUQ5t5XFd0uPU) | [El Wuhoosh](https://open.spotify.com/album/4BhtJo1x8FOBIULIT0IddN) | 3:31 | 2023-04-23 | 2023-08-24 |
 | [Elak w Bas](https://open.spotify.com/track/16QkRfapLRwe9kBtYlctFC) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Elak w Bas](https://open.spotify.com/album/6YkN9Z2hJk7g9h2aeBN7RY) | 4:01 | 2022-08-22 |  |
 | [Emlaq](https://open.spotify.com/track/27269Mf2BDkWfLaC4oOw87) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Emlaq](https://open.spotify.com/album/3eeP7ZflvhlVWdgHDgxuWp) | 4:07 | 2021-12-23 | 2022-02-11 |
@@ -85,7 +86,7 @@
 | [Hazina](https://open.spotify.com/track/3JLhpzsdRKu2XX40hWkAo0) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Hazina](https://open.spotify.com/album/1YouEiz9p93Tp51juzplSP) | 3:57 | 2021-12-23 | 2022-03-15 |
 | [Helwa Ya Baladi](https://open.spotify.com/track/16XFirWEReR8H21pJfIL49) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [Helwa Ya Baladi](https://open.spotify.com/album/25t09XMGJxntx0Yk8H1bev) | 4:10 | 2021-12-23 | 2023-04-24 |
 | [Holm](https://open.spotify.com/track/1BLbyhemxMhIds5cf4lHxx) | [Emel](https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA) | [Holm / The Man Who Sold The World](https://open.spotify.com/album/4uvkTNocp7isVguCNavJnY) | 4:46 | 2021-12-23 | 2022-01-21 |
-| [Imik Si Mik \- Remastered](https://open.spotify.com/track/3rLlCGJVNquWrcosEnksVJ) | [Hindi Zahra](https://open.spotify.com/artist/6QncudMSOiKxYRIKRDks6S) | [Handmade \(Remastered\)](https://open.spotify.com/album/6Kv8SlojSektp6o3TeSWOk) | 3:55 | 2025-10-06 |  |
+| [Imik Si Mik \- Remastered](https://open.spotify.com/track/3rLlCGJVNquWrcosEnksVJ) | [Hindi Zahra](https://open.spotify.com/artist/6QncudMSOiKxYRIKRDks6S) | [Handmade \(Remastered\)](https://open.spotify.com/album/6Kv8SlojSektp6o3TeSWOk) | 3:55 | 2025-10-06 | 2025-10-08 |
 | [Inni Mneeh](https://open.spotify.com/track/5DZqSd5MS5ubyXnc7PIMtR) | [Mashrou' Leila](https://open.spotify.com/artist/2RIrl9cApI8HwM6aF4Jt5m) | [El Hal Romancy](https://open.spotify.com/album/0WV17sD6xRIcndI9o20HqP) | 3:23 | 2023-04-23 |  |
 | [INSAK](https://open.spotify.com/track/50MBVBBWsWtxqb2QICAyB8) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [INSAK](https://open.spotify.com/album/7egTXypIPpJkYczCCaiLto) | 3:38 | 2022-08-05 | 2025-10-07 |
 | [ISMAK](https://open.spotify.com/track/04gRvCyz2JZZnvfEnW8pAQ) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [ISMAK](https://open.spotify.com/album/6RHUwel7CdqLpPtpRRRrnL) | 3:10 | 2022-07-23 | 2023-04-24 |
@@ -130,6 +131,7 @@
 | [Mashaweer](https://open.spotify.com/track/2QTeejzGvR4cFYjAhEHo5I) | [Salma Murad](https://open.spotify.com/artist/0qU4iEmMq8DEejUGTwWUdY), [Idreesi](https://open.spotify.com/artist/0C1T4aT8Wsli5bji343Nye) | [Mashaweer](https://open.spotify.com/album/4eyPK4hbnxv6UNUmW8n4vo) | 3:00 | 2025-10-06 |  |
 | [Mashi Mashi](https://open.spotify.com/track/0aoXvkBPPz2i7wpQaH0wYC) | [Kokym](https://open.spotify.com/artist/3MgpENFiSr4tPARLzifIZ3) | [Mashi Mashi](https://open.spotify.com/album/2WDJFaWQTZD6rg2tFFJFij) | 2:45 | 2024-09-12 | 2025-10-07 |
 | [Mazar](https://open.spotify.com/track/7eImI2kX2WQWqp1fJACLCP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Mazar](https://open.spotify.com/album/5zVetj7wtk6lVU0KcZhuXn) | 3:33 | 2022-03-10 | 2023-04-24 |
+| [mech nafs el chi](https://open.spotify.com/track/4kxpzN83RfuiPluSyCPXrC) | [Marilyne Naaman](https://open.spotify.com/artist/65U0i2so4TBaFympLshw8s) | [mech nafs el chi](https://open.spotify.com/album/6P5LqXQQnyGM86ckpF2Gqk) | 3:12 | 2025-10-07 |  |
 | [Meen Fe Dol](https://open.spotify.com/track/63uctqlwCI5AxXYmpTVO2Z) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Meen Fe Dol](https://open.spotify.com/album/2fxZ2DkwORuu1ZsolK4PiJ) | 3:55 | 2021-12-23 | 2025-10-07 |
 | [Mesh Ayzek Tegheeby](https://open.spotify.com/track/53Yk4qSPehpLV0tadM008N) | [Almena](https://open.spotify.com/artist/3dwnBsNq4R18t5SYNqJL37) | [Mesh Ayzek Tegheeby](https://open.spotify.com/album/7EAyzRoDL0zQwQjVNBarH6) | 2:53 | 2021-12-23 | 2023-04-24 |
 | [Mesh Saybani](https://open.spotify.com/track/5qO0ltb9QRvQvj2c7San3y) | [Hudz](https://open.spotify.com/artist/1ffKtN3dRJOQKTUm1pkDGM), [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Mesh Saybani](https://open.spotify.com/album/1QLI8mWdXlxempEeh3AlRV) | 3:00 | 2022-01-27 | 2023-04-24 |
@@ -139,7 +141,7 @@
 | [Mraite](https://open.spotify.com/track/7mEO8E9koxx19CywaN0pwi) | [Xoureldin](https://open.spotify.com/artist/6dGfzQZmB2W9ImyY2wIMUi) | [Mraite](https://open.spotify.com/album/4pPi3KRT8uRBS1svqdbUqN) | 3:00 | 2021-12-23 | 2023-04-24 |
 | [N'DAWA](https://open.spotify.com/track/0UvYjAz823psJgKXEQHkA3) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [N'DAWA](https://open.spotify.com/album/04EZQNWGkIgoVZuPSolHGK) | 3:04 | 2025-01-17 | 2025-10-07 |
 | [Nadini](https://open.spotify.com/track/58y6fLuPSyI1MQlojS3MFe) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv) | [Wedyan](https://open.spotify.com/album/01g17OR42wlw32RNUyfdpz) | 3:33 | 2025-10-06 |  |
-| [Nafas](https://open.spotify.com/track/2Btno75FFpfIMwzcGhXlKx) | [Seera](https://open.spotify.com/artist/2F1QgtQgZA2gx2ovc1bEkc), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Nafas](https://open.spotify.com/album/1lnHGQ4S6ZeRwfVlfs4Gft) | 3:40 | 2024-11-27 |  |
+| [Nafas](https://open.spotify.com/track/2Btno75FFpfIMwzcGhXlKx) | [Seera](https://open.spotify.com/artist/2F1QgtQgZA2gx2ovc1bEkc), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Nafas](https://open.spotify.com/album/1lnHGQ4S6ZeRwfVlfs4Gft) | 3:40 | 2024-11-27 | 2025-10-08 |
 | [Nas](https://open.spotify.com/track/5z3fSB7leR1hD07MVP7gh7) | [Jeries Babish](https://open.spotify.com/artist/0aSZXNXy1sFJSIrJkaau8S) | [Nas](https://open.spotify.com/album/1DXAfjEtsz5kzDMjdTJ5q6) | 3:04 | 2023-04-23 | 2025-10-07 |
 | [Nasini](https://open.spotify.com/track/0uWR7uZwcW614lRvj49dCh) | [Autostrad](https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ) | [Nasini](https://open.spotify.com/album/0s0y988ercm3WdehQy2Rv7) | 3:33 | 2023-08-11 | 2025-10-07 |
 | [Nazel Al Ghor](https://open.spotify.com/track/74LSkGNytaURvW5K4K7UwQ) | [Ayloul](https://open.spotify.com/artist/2LxGXSPzPdONjfaKwRyKmq) | [Salute To Al Ghor](https://open.spotify.com/album/0AxxTNSX7y6nJO651y4q7A) | 4:28 | 2023-04-23 | 2023-05-31 |
@@ -182,6 +184,7 @@
 | [thank you, goodnight](https://open.spotify.com/track/20RGgoxcZDyV7A3QftVmC1) | [fulana](https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe), [Input/Output](https://open.spotify.com/artist/0w3WSSamJcgfrVKiXfYphM) | [ground:from](https://open.spotify.com/album/1LymeeHyg8sG6IUR2Olt4k) | 3:22 | 2024-12-31 | 2025-10-07 |
 | [Tlef El Dunya](https://open.spotify.com/track/5UsAauoW1rI6pnj8mZq0t4) | [Zef](https://open.spotify.com/artist/5xLrAcC8QXJSik2rLNAR8L) | [Tlef El Dunya](https://open.spotify.com/album/0C1LBH6DeENAXuFFAjiLfQ) | 2:56 | 2023-04-23 | 2023-05-31 |
 | [Tokaa We Tkoom](https://open.spotify.com/track/42cgSqcYqyRxG3VCd3ubTC) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4) | [Tokaa We Tkoom](https://open.spotify.com/album/7APkDKEvXGWOWtr76tBOJM) | 4:38 | 2025-10-06 |  |
+| [Vows سبع صنايع](https://open.spotify.com/track/55HFixAeL5V8kJAJaFAYdA) | [Yasmine Hamdan](https://open.spotify.com/artist/5VElAWe58JiEzEl4vtjw7J) | [I remember I forget بنسى وبتذكر](https://open.spotify.com/album/4VQ7IUWQUahZ30myCkP5KF) | 3:57 | 2025-10-07 |  |
 | [W El 7al Eh](https://open.spotify.com/track/5uz5RuH7joyHiwk17HXlOj) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [W El 7al Eh](https://open.spotify.com/album/5QozLcTAMMizJNSl8G3iqA) | 2:59 | 2023-09-19 | 2023-11-25 |
 | [W El 7al Eh](https://open.spotify.com/track/6HeKAyGEX0EW0AvGTw1xgn) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [W El 7al Eh](https://open.spotify.com/album/620iOLdLBpcOwoNxGIoe4f) | 2:59 | 2023-09-19 | 2024-04-19 |
 | [W El 7al Eh](https://open.spotify.com/track/7d3jR3zhKm8i7aPQcxjiVB) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [W El 7al Eh](https://open.spotify.com/album/4BopfUXJgJhEUYefSdOXHs) | 2:59 | 2023-04-23 | 2025-10-07 |

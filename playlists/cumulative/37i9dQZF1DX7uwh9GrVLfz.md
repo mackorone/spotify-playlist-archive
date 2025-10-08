@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: WANIMA
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: 鉄風東京
 
-852 songs - 1 day 21 hr 8 min
+853 songs - 1 day 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Hourglass](https://open.spotify.com/track/0hx0wgbkX6Rl7gRkySR1X0) | [waterweed](https://open.spotify.com/artist/3xo2d6Mjw5Gkb14HFOwFkQ) | [Hourglass](https://open.spotify.com/album/4hKowDy7jzTEp0SQU3NjY6) | 2:40 | 2024-04-30 | 2024-12-18 |
 | [Hurdle Race](https://open.spotify.com/track/2vVdCWpMMJGoLXoDTiVSOd) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Blooming Harvest](https://open.spotify.com/album/38OJkyqzjzBFpguQksifKn) | 2:35 | 2023-02-10 | 2023-04-02 |
 | [Hurdle Race](https://open.spotify.com/track/4IUjUIp4f2a54RNstS6qUX) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Blooming Harvest](https://open.spotify.com/album/18k6aVfVyInbeSQOzJiTQb) | 2:35 | 2022-05-12 | 2022-07-20 |
+| [I keep making the same mistake](https://open.spotify.com/track/7enSf9y4J2DNGKcBMkNGar) | [鉄風東京](https://open.spotify.com/artist/2dcQMsKiEfgJ9t7GolC4rn) | [](https://open.spotify.com/album/null) | 3:46 | 2025-10-07 |  |
 | [I know](https://open.spotify.com/track/15fphhO291Ut1Uu3LpS6tY) | [SEPTALUCK](https://open.spotify.com/artist/5SzyFQjwKUq5jq3qeENnZo) | [I know](https://open.spotify.com/album/3NBx35slNN8loaFNeEInB8) | 3:44 | 2022-08-25 | 2022-09-15 |
 | [I Like You](https://open.spotify.com/track/1heOMysisFUHkzn76lMBgB) | [HONEST](https://open.spotify.com/artist/59iGba2GaoFVPVlnwy5J1G) | [HONEST](https://open.spotify.com/album/22DUKrSmkz2H86ew2lsVgJ) | 1:48 | 2023-01-31 | 2023-03-01 |
 | [I LOVE HIS SONG I COULD DIE](https://open.spotify.com/track/7bxyTGWClbH0JXhG1lYx9W) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [I LOVE HIS SONG I COULD DIE](https://open.spotify.com/album/0Ib48h7MauySf6xS7xgxoC) | 3:01 | 2023-04-27 | 2023-05-17 |
@@ -477,7 +478,7 @@
 | [Slow and steady](https://open.spotify.com/track/3eoivmlvkK9jtgnbAajU4B) | [39degrees](https://open.spotify.com/artist/2sA5clRvdaIZg82RoKYJfy) | [Singles\(June,2022\)](https://open.spotify.com/album/6jZML5zhuUhpybwu4ul8V7) | 3:01 | 2022-06-28 | 2022-07-29 |
 | [Slowmotion](https://open.spotify.com/track/1hqUoPoRDyTYlJDAlc0DX6) | [PLATFORM](https://open.spotify.com/artist/6DWc35FY5GoEwltnYM60Ob) | [Moving Around](https://open.spotify.com/album/7KiIRVdiLZ9JALtla6I19Z) | 2:28 | 2023-11-21 | 2023-12-06 |
 | [Smiles For Miles](https://open.spotify.com/track/6pVvomIJKjAe25SswHayZn) | [COUNTRY YARD](https://open.spotify.com/artist/7zAPELMruolERj0vMJGp76) | [Greatest Not Hits](https://open.spotify.com/album/3Dp7XOglofCbvlgXGP8Wc7) | 2:45 | 2022-05-12 | 2022-07-24 |
-| [SMOKE, SMOKE AND SMOKE](https://open.spotify.com/track/3IYenm1UBvvmEeBUm7tUC5) | [The Dahlia](https://open.spotify.com/artist/5DXnT4SukHYxqDU9sxdM3n) | [SMOKE, SMOKE AND SMOKE](https://open.spotify.com/album/2orG6xhixYSqcjsakCpNXd) | 2:51 | 2025-06-24 |  |
+| [SMOKE, SMOKE AND SMOKE](https://open.spotify.com/track/3IYenm1UBvvmEeBUm7tUC5) | [The Dahlia](https://open.spotify.com/artist/5DXnT4SukHYxqDU9sxdM3n) | [SMOKE, SMOKE AND SMOKE](https://open.spotify.com/album/2orG6xhixYSqcjsakCpNXd) | 2:51 | 2025-06-24 | 2025-10-08 |
 | [Smoking Kills](https://open.spotify.com/track/6rZifGhf7vgSbjQpSiiQLO) | [See You Smile](https://open.spotify.com/artist/4ll5mBYeHlhg0R2fjwspPv) | [Smoking Kills](https://open.spotify.com/album/0iAymKIkRcGyUgSZmio1o8) | 2:01 | 2022-07-21 | 2022-08-10 |
 | [So Beautiful](https://open.spotify.com/track/4tRwtS3AsqpcGpFH1NQYyP) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [So Beautiful](https://open.spotify.com/album/5kzp7yageZp0HEmu48aBMq) | 2:38 | 2022-05-12 | 2022-07-29 |
 | [So Far So Good](https://open.spotify.com/track/6ZZtmbYNZYfoWuYS5glxvu) | [ember](https://open.spotify.com/artist/7qZyOMbLJDG8bGJMzyXfb4) | [Not Just Talk](https://open.spotify.com/album/65QwLj5OVaknn4MwhW3TNy) | 2:40 | 2022-06-07 | 2022-06-14 |
@@ -519,7 +520,7 @@
 | [Stupid!!](https://open.spotify.com/track/4sWWmy5AKtN8isxqv6crsT) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [Smoke!!](https://open.spotify.com/album/7vFJI5E9v7jFfxhCCXsIX2) | 2:11 | 2022-05-12 | 2022-07-29 |
 | [Suffer](https://open.spotify.com/track/3wBJ9ZwrL74MC4IjfUwrBb) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [Suffer](https://open.spotify.com/album/4wdkJEh3CqOjgNx9FW5JDn) | 2:19 | 2025-07-01 |  |
 | [Summertime Blue](https://open.spotify.com/track/1Cia7gpB6Kqd9qlbSs0V48) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [愛彌々2](https://open.spotify.com/album/7HFOgeQ6lNbNPI4TzsaYcO) | 4:29 | 2024-09-24 |  |
-| [SUN MYSELF](https://open.spotify.com/track/6d8qnfUgBXKeiiaPSuuO4z) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [PUT ON FRESH PAINT](https://open.spotify.com/album/6SgaWf8Yr7C714pmtVZz6x) | 2:41 | 2022-05-12 | 2025-03-02 |
+| [SUN MYSELF](https://open.spotify.com/track/6d8qnfUgBXKeiiaPSuuO4z) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [PUT ON FRESH PAINT](https://open.spotify.com/album/6SgaWf8Yr7C714pmtVZz6x) | 2:41 | 2022-05-12 |  |
 | [SUNTOWN](https://open.spotify.com/track/1UUoK3etmWU8lFOa4wLod6) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [WOKE](https://open.spotify.com/album/0ROu0FijW04uq3slGQP9eW) | 4:41 | 2022-05-12 |  |
 | [SUPER GO!](https://open.spotify.com/track/5dZn5XNaRnOASUaFetLC1r) | [BABY FIRST](https://open.spotify.com/artist/23FflV6MbhRnm5WreqxuoA) | [SPIN\-OFF](https://open.spotify.com/album/566mnh10XUVvkMHJpHiQKv) | 1:51 | 2022-05-19 | 2022-07-15 |
 | [SURF](https://open.spotify.com/track/7dXGfbpC6nEAClhgMSYXEZ) | [Track's](https://open.spotify.com/artist/7iBZYT8fyfa1J3EGTLHVGx) | [SURF](https://open.spotify.com/album/4Gz58i1XggFiaRFLwGCOv3) | 1:28 | 2022-05-19 | 2022-11-14 |
@@ -543,7 +544,7 @@
 | [THE NIGHT WITHOUT A STAR](https://open.spotify.com/track/5mqKM1gPH7247hZoE6Q0NR) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [EVERLASTING](https://open.spotify.com/album/4obqQshTLGtcdosdYVlx3D) | 2:56 | 2022-05-12 | 2022-07-25 |
 | [The Show Must Go On](https://open.spotify.com/track/0idEk81Edyuz92Z7qHAMjZ) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 2:44 | 2024-02-27 | 2024-03-06 |
 | [The Show Must Go On](https://open.spotify.com/track/0mNGukFmeB8xQmuS9jOs8B) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Show Must Go On](https://open.spotify.com/album/59JPnXZfiLpJZbs92Y6Fdt) | 2:44 | 2024-02-13 | 2024-02-29 |
-| [The Silhouette](https://open.spotify.com/track/7hvwLBUC84Fav4yekQEaNf) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [The Silhouette](https://open.spotify.com/album/4G2i97TXGe9iKMhyBVWh6G) | 2:58 | 2025-07-22 |  |
+| [The Silhouette](https://open.spotify.com/track/7hvwLBUC84Fav4yekQEaNf) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [The Silhouette](https://open.spotify.com/album/4G2i97TXGe9iKMhyBVWh6G) | 2:58 | 2025-07-22 | 2025-10-08 |
 | [THE SOOTHING](https://open.spotify.com/track/3N56UMx9kEOzx97maRtHZY) | [POT](https://open.spotify.com/artist/1t3RYrq8bMooxAhnuBVMds) | [THE SOOTHING](https://open.spotify.com/album/2gjSsAWMvLkhZbzHayDjrs) | 2:41 | 2022-05-12 | 2022-07-14 |
 | [The Sound Of Our Love](https://open.spotify.com/track/51VBY0UywtABoLmQVcexnu) | [GUMX](https://open.spotify.com/artist/4vFO3Z1XVJ3IOX4nQjPW62) | [Father And Me](https://open.spotify.com/album/43nUn3KuZGmrkYRYMOCstZ) | 3:02 | 2023-08-15 | 2023-08-18 |
 | [The Wristband of THE HIGH\-LOWS at My Parents' House](https://open.spotify.com/track/7pCrcx296Mz5B7FLRsHSkt) | [LETEPATHYS](https://open.spotify.com/artist/6mrp4Qwn9ekWEK73Vct3BM) | [Endangered Species](https://open.spotify.com/album/1QQpRsMfOvBk9kzIXJfhxz) | 1:14 | 2022-08-16 | 2022-09-15 |

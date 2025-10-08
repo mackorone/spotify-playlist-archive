@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: lisandro skar
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,791 likes - 70 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,794 likes - 70 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 58 | [Veredas](https://open.spotify.com/track/1iv3txvY78PROSNk2AxW3t) | [De La Gran Piñata](https://open.spotify.com/artist/0gxy0foaJsRc1tfpByJWCK) | [Viaje al Centro de Uno Mismo](https://open.spotify.com/album/7zKNPA1cVOW58Pn4UJTerl) | 5:05 |
 | 59 | [Ni Tan Pronto](https://open.spotify.com/track/36rWoyV5lOo2j346o541r0) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Ni Tan Pronto](https://open.spotify.com/album/5mRuyt7AfONYHanxkXzym0) | 4:20 |
 | 60 | [El último poeta maldito](https://open.spotify.com/track/4i3NV6znz9XgQOpEelbhic) | [Luceros el Ojo Daltónico](https://open.spotify.com/artist/7aDsgRYwyCrJDUT0u1kyUV) | [El disco maldito](https://open.spotify.com/album/3FFUbuEYfvgPQIR32bLXLN) | 2:16 |
-| 61 | [Perdido en Buenos Aires](https://open.spotify.com/track/101sToXKkcLpZKmnri9XH2) | [Rolo Sartorio](https://open.spotify.com/artist/04qwrwU0fxN1TJ1hbfR5cv) | [Perdido en Buenos Aires](https://open.spotify.com/album/3DxE5lXge6XVcAMWWjLiIJ) | 4:31 |
-| 62 | [Reflejo](https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Reflejo](https://open.spotify.com/album/6FsAipsUvB2WP4o6ho5u2i) | 4:19 |
+| 61 | [Reflejo](https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Reflejo](https://open.spotify.com/album/6FsAipsUvB2WP4o6ho5u2i) | 4:19 |
+| 62 | [Perdido en Buenos Aires](https://open.spotify.com/track/101sToXKkcLpZKmnri9XH2) | [Rolo Sartorio](https://open.spotify.com/artist/04qwrwU0fxN1TJ1hbfR5cv) | [Perdido en Buenos Aires](https://open.spotify.com/album/3DxE5lXge6XVcAMWWjLiIJ) | 4:31 |
 | 63 | [Anguilita](https://open.spotify.com/track/468PxWHH3BwWwqQQ5t5VJG) | [De La Gran Piñata](https://open.spotify.com/artist/0gxy0foaJsRc1tfpByJWCK) | [Miércoles](https://open.spotify.com/album/6H15jq7KmVKCSo6RvPuIjK) | 4:42 |
 | 64 | [Certezas de cartón](https://open.spotify.com/track/70C1X4mE6cIgXyg5WsuCHI) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Irreal](https://open.spotify.com/album/4oX28XEb23WndGHhKBY8Pk) | 3:38 |
 | 65 | [Esa Gente](https://open.spotify.com/track/449Ed1jOxFMqlP0gzDuqDM) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Cómo Evitar Que Sangremos](https://open.spotify.com/album/2MuxY6SrvgQpk8oa8nyyt5) | 4:29 |

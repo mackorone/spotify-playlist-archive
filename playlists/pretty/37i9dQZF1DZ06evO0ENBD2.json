@@ -1,12 +1,12 @@
 {
   "description": "This is Queen. The essential tracks, all in one playlist.",
-  "num_followers": 4959598,
+  "num_followers": 4959672,
   "original_name": "This Is Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAACNxU0Tp0UYSRTdOb4vU//5",
+  "snapshot_id": "aOMGgAAAAABV7UEfAPVx8zBSU0bfxUMS",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "News Of The World (2011 Remaster)",
-        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "We Are The Champions - Remastered 2011",
-      "url": "https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sheer Heart Attack (Deluxe Edition 2011 Remaster)",
         "url": "https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 179600,
       "name": "Killer Queen - Remastered 2011",
       "url": "https://open.spotify.com/track/4cIPLtg1avt2Jm3ne9S1zy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "News Of The World (2011 Remaster)",
+        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "We Are The Champions - Remastered 2011",
+      "url": "https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: Odi Wa Muranga
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,048 likes - 69 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,056 likes - 69 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 | 3 | [Eterera](https://open.spotify.com/track/1mSoG0UYiJi1uQ9rv2OHkC) | [Odi Wa Muranga](https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8) | [Eterera](https://open.spotify.com/album/2qSzMPdldHEBST8485H81X) | 2:21 |
 | 4 | [LELE](https://open.spotify.com/track/2LruoeWC1TSmFte9Fk6hWh) | [YBW Smith](https://open.spotify.com/artist/68U6AVEqnL3frYT7udHvYo), [Lufasa](https://open.spotify.com/artist/5fmt1ywQDIrAxPSUmx978J) | [LELE](https://open.spotify.com/album/5kc0Lv9SvPgMa7sAVD9Utu) | 3:04 |
 | 5 | [Issues Tu](https://open.spotify.com/track/7haQqv1wdOz04nRm5sYa7q) | [Ochungulo Family](https://open.spotify.com/artist/6EZFShtIueshKPSVIdaq5b) | [Issues Tu](https://open.spotify.com/album/0EQVhh9Frdd0RYecDzUl3z) | 3:56 |
-| 6 | [Mambo Ni Marefu](https://open.spotify.com/track/010nilkPOCo60OCipbVriQ) | [Mavo On The Beat](https://open.spotify.com/artist/18FRsej0uytxeNbIbAMkGc), [visita](https://open.spotify.com/artist/3v9ZR1vz8DW7N3lZWSI6zY), [Mad G](https://open.spotify.com/artist/4xdYQuZgHuna4oSIZBwXD8), [Kenrazy](https://open.spotify.com/artist/2STTUQhtueQyLF5bWCU4oW), [Gody Tennor](https://open.spotify.com/artist/0zDvYiEj0OwqizX4YYVsbB) | [Mambo Ni Marefu](https://open.spotify.com/album/1sBKvQmtHyn30bHhlPNSXN) | 4:07 |
+| 6 | [Mambo Ni Marefu](https://open.spotify.com/track/010nilkPOCo60OCipbVriQ) | [Mavo On The Beat](https://open.spotify.com/artist/18FRsej0uytxeNbIbAMkGc), [visita](https://open.spotify.com/artist/3v9ZR1vz8DW7N3lZWSI6zY), [Mad G](https://open.spotify.com/artist/4xdYQuZgHuna4oSIZBwXD8), [Kenrazy](https://open.spotify.com/artist/2STTUQhtueQyLF5bWCU4oW), [Gody Tennor](https://open.spotify.com/artist/0zDvYiEj0OwqizX4YYVsbB) | [Mambo Ni Marefu](https://open.spotify.com/album/1sBKvQmtHyn30bHhlPNSXN) | 4:08 |
 | 7 | [KINARE](https://open.spotify.com/track/0B3KgzCTluFTPHsF54MbR6) | [Lilmaina](https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv), [mtap3li](https://open.spotify.com/artist/5u7wv4T187JbZSulLdVMYJ) | [KINARE](https://open.spotify.com/album/59RCYnLluTVay2gvf2VWa4) | 2:34 |
 | 8 | [Njia](https://open.spotify.com/track/4cZSpqOptuvTv1lHXiynFA) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Njia](https://open.spotify.com/album/72FDrCO0xSBboBNbnpvowC) | 3:14 |
 | 9 | [Felicity](https://open.spotify.com/track/3648ONO4rdNgDaQ1UvCB1Q) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [AJAY \(Buruklynboyz\)](https://open.spotify.com/artist/7keV2m7fmj3tkluxAPfxTy), [Lilmaina](https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv) | [Felicity](https://open.spotify.com/album/3hABYSpzup32JqpD4Ei2az) | 3:28 |

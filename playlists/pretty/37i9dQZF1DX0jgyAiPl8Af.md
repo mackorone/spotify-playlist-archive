@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 
 > Unwind to these calm classical guitar pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,328,834 likes - 190 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,329,089 likes - 190 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 10 | [Grounded Feeling](https://open.spotify.com/track/5qJQQ68wNZLzDWn0KRlj1h) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [Grounded Feeling](https://open.spotify.com/album/6aEY6C94T0yoroxVPMHe4k) | 2:14 |
 | 11 | [Field](https://open.spotify.com/track/4LrY7WhlwMyEl6dY03ckGP) | [David Sereno](https://open.spotify.com/artist/25j4WPpCFt8QQUnb7TmREb) | [Field](https://open.spotify.com/album/4diUNRlr7IBAx9TiL9EKjl) | 2:17 |
 | 12 | [Soft Rain](https://open.spotify.com/track/3XVYaiSb0e492iJuyfOrd4) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Soft Rain](https://open.spotify.com/album/1wt6ILOvZuZrvbVYb94PXP) | 2:13 |
-| 13 | [San Sebastian](https://open.spotify.com/track/6r9LaBQgUkbQzqjxCFQRVO) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [San Sebastian](https://open.spotify.com/album/0bCjvoW1iidtDENdbN0z1x) | 2:25 |
-| 14 | [Ethereal Elegance](https://open.spotify.com/track/7fJVWSFwuSzOZKFw08HBTX) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Ethereal Elegance](https://open.spotify.com/album/07yC22JfkYTwIu57Ho3ctq) | 2:02 |
-| 15 | [Peekskills](https://open.spotify.com/track/0Qk32yAxmSsyHmvILqfsdT) | [Em Monet](https://open.spotify.com/artist/2hzlSHfKcUQMB1B3wTwOd0) | [Peekskills](https://open.spotify.com/album/0o3eEFDa3NqHEuiS8G3WjI) | 2:15 |
+| 13 | [Peekskills](https://open.spotify.com/track/0Qk32yAxmSsyHmvILqfsdT) | [Em Monet](https://open.spotify.com/artist/2hzlSHfKcUQMB1B3wTwOd0) | [Peekskills](https://open.spotify.com/album/0o3eEFDa3NqHEuiS8G3WjI) | 2:15 |
+| 14 | [San Sebastian](https://open.spotify.com/track/6r9LaBQgUkbQzqjxCFQRVO) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [San Sebastian](https://open.spotify.com/album/0bCjvoW1iidtDENdbN0z1x) | 2:25 |
+| 15 | [Ethereal Elegance](https://open.spotify.com/track/7fJVWSFwuSzOZKFw08HBTX) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Ethereal Elegance](https://open.spotify.com/album/07yC22JfkYTwIu57Ho3ctq) | 2:02 |
 | 16 | [Solis](https://open.spotify.com/track/1szHxvHkt6Q5AOmhy3waph) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Solis](https://open.spotify.com/album/7nIUMBa5guEzQ3YqZiwG6Q) | 2:14 |
 | 17 | [Raspberry Flavor](https://open.spotify.com/track/6tF6HFVA95mi7l17KCFAih) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [Raspberry Flavor](https://open.spotify.com/album/6wQ6Mp0M9k0KX6Jy27T6Cm) | 2:36 |
 | 18 | [Cusco](https://open.spotify.com/track/70t5pC4WbitgORnAfV79Ej) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [Cusco](https://open.spotify.com/album/0Ukzxi8OgRqJJ1BP0wkTki) | 2:42 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 189 | [Boboli Gardens](https://open.spotify.com/track/6ol6xm2KcSn5Pr2biM7Ps0) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Boboli Gardens](https://open.spotify.com/album/1ZorAmdZHG1iTSsXHkWhFM) | 2:01 |
 | 190 | [Me And You](https://open.spotify.com/track/72mj6r1TJ5nVbhFp7l9Ss9) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Me And You](https://open.spotify.com/album/4IllAL0UmuPn1qGw2fqlBu) | 2:32 |
 
-Snapshot ID: `AAAAAHT/gFZAjjVRJ4rXq0JDLD30hN59`
+Snapshot ID: `AAAAAGHhQsKT+Q7+izbArFZrn38dOGqm`

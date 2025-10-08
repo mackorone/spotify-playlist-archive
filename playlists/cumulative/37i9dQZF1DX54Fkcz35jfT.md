@@ -2,9 +2,9 @@
 
 ### [Loud Rock Japan](https://open.spotify.com/playlist/37i9dQZF1DX54Fkcz35jfT)
 
-> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/ Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: NEMOPHILA
+> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/ Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: 10\-FEET
 
-430 songs - 1 day 0 hr 43 min
+431 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,7 +291,7 @@
 | [Silent World feat\. KYONO, Ryu \(Ryu Matsuyama\)](https://open.spotify.com/track/2f46PpC09Fg0H7jAI8Oo8L) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo), [KYONO](https://open.spotify.com/artist/4LgM76I3ubiFUtX0nuVgmr), [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [Silent World feat\. KYONO, Ryu \(Ryu Matsuyama\)](https://open.spotify.com/album/38cEkAqmg13qoj9CnXRIX3) | 3:42 | 2024-06-03 | 2024-10-16 |
 | [Sink Like a Stone \- feat.Hiro\(from MY FIRST STORY\)](https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1) | [SWANKY DANK](https://open.spotify.com/artist/4l96NtYOUSEKXTUxsyKxtt), [Hiro](https://open.spotify.com/artist/6AvMXxk7G925pEJHF17BI5) | [Life is Full of Choices\-Greatest Songs\-](https://open.spotify.com/album/6cwe2mgEJimRBjJ1x165uT) | 4:28 | 2023-11-21 | 2025-02-11 |
 | [SKY PRAYER](https://open.spotify.com/track/26F9zTeLrSRGJlKD5EZSwG) | [STAMINA MAYONNAISE](https://open.spotify.com/artist/7Ma5W6ANNZt2pPMrt0lDXe) | [BATTLE CRY](https://open.spotify.com/album/4aoB4oMgk7i2HzsJhgyogJ) | 1:18 | 2024-01-02 | 2024-01-10 |
-| [SLAM](https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 2:48 | 2023-07-20 |  |
+| [SLAM](https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 2:48 | 2023-07-20 | 2025-10-08 |
 | [SLAY!!](https://open.spotify.com/track/5r2ctEKO9aSEudC85lqZZT) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7) | [SLAY!!](https://open.spotify.com/album/1Si2sHK43ZueadlTaBP6bO) | 3:12 | 2023-07-20 |  |
 | [smileY:\)](https://open.spotify.com/track/7D6gePpoootFzZr1f8lONE) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [smileY:\)](https://open.spotify.com/album/4EfIqf312U2naIxOfWuxIn) | 1:55 | 2024-06-11 | 2025-05-30 |
 | [Something New](https://open.spotify.com/track/0vA9uNpBSTnwDLaetS4DFT) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [RED APHELION](https://open.spotify.com/album/03xMOUPUmzZnMeKE41jXFU) | 3:57 | 2023-12-19 | 2025-05-15 |
@@ -391,6 +391,7 @@
 | [ストラグルレター](https://open.spotify.com/track/6SkIndXStZlGfobBP3YYLc) | [GEEKSTREEKS](https://open.spotify.com/artist/5kHLhXev311wEXRfKLF4ps) | [Eight Melodies](https://open.spotify.com/album/3EtsQUHSvZWHlhpbYV4nOd) | 4:40 | 2024-03-05 | 2024-03-20 |
 | [ストラトキャスター シーサイド](https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/1jwFlxQGCk9MjlwTZVwmrj) | 3:12 | 2023-07-20 | 2023-12-10 |
 | [ストラトキャスター・シーサイド](https://open.spotify.com/track/0jPt8zNHeeCWoPuttIqBqL) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/57na8P5liC3zgZTG72lz2S) | 3:12 | 2024-01-16 | 2024-04-19 |
+| [スパートシンドローマー](https://open.spotify.com/track/0DKaod4U8DOyesrlwvQzVH) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [スパートシンドローマー](https://open.spotify.com/album/7ivYLdm0eoIJ2Ew34JHRaK) | 3:44 | 2025-10-07 |  |
 | [チン♂アゲ⤴交渉中](https://open.spotify.com/track/2gL6fYOjVWCiJNgCmWkNJS) | [Happy Heads NANIYORI](https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl) | [チン♂アゲ⤴交渉中](https://open.spotify.com/album/6nL65keILGOcGalS1eRcZl) | 4:02 | 2023-11-21 | 2023-11-23 |
 | [ディア・ライフ](https://open.spotify.com/track/112ACjUKFwxpu63VutgJlj) | [BruteRocks](https://open.spotify.com/artist/0gVgOgI0gZrGf3c1DQfB4r) | [SOUNDSCAPE](https://open.spotify.com/album/3XgYoL9XngiOQfU8djgAqQ) | 3:43 | 2023-08-15 | 2023-08-17 |
 | [ネコカミたい](https://open.spotify.com/track/7boEo0vZJ8TyndiwtzLfqp) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [ネコカミたい](https://open.spotify.com/album/2X5Q4BIgK7pHLWO6bOx3xj) | 4:09 | 2024-07-09 | 2024-11-20 |

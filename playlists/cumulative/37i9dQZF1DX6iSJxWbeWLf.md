@@ -4,7 +4,7 @@
 
 > White noise for studying and concentration
 
-100 songs - 5 hr 12 min
+100 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,6 @@
 | [Airplane Sleep Pt.1](https://open.spotify.com/track/53PHCS3cgaXm3JCIlAw6z8) | [Fabricants of Noise](https://open.spotify.com/artist/6rUkUd35nP2xoKO46sKPqs) | [Airplane Sleep](https://open.spotify.com/album/5bkoo0uYmf8YyGvNb8Bbq0) | 2:29 | 2024-08-30 | 2025-04-02 |
 | [Ambient Noise for Babies Sleep 4 \(Heartbeat\)](https://open.spotify.com/track/448Iy0QkL0zc0hZTQymt04) | [ASMR Whisperers](https://open.spotify.com/artist/6izg9i3QPbbZliH6dcs86s) | [Baby Sleep Noise Womb Sounds](https://open.spotify.com/album/4nwGE89ZDvH1afTG6Tzxc3) | 3:26 | 2022-09-21 | 2025-02-20 |
 | [Ambient Noise for Babies Sleep 5 \(Heartbeat\)](https://open.spotify.com/track/57dINLIpeMw8MLuMuW0voM) | [ASMR Whisperers](https://open.spotify.com/artist/6izg9i3QPbbZliH6dcs86s) | [Baby Sleep Noise Womb Sounds](https://open.spotify.com/album/4nwGE89ZDvH1afTG6Tzxc3) | 3:24 | 2022-09-21 | 2025-04-02 |
-| [Ambient White Tones](https://open.spotify.com/track/01MV13Hg9sfFNtgcMidjgE) | [Hovar](https://open.spotify.com/artist/3COnOYhmr8nINwgd54Z8wj) | [Lean Noise](https://open.spotify.com/album/77UGfdTasZzZkMbeC8lYCg) | 2:03 | 2025-03-11 |  |
 | [An Intense Rain Shower](https://open.spotify.com/track/5Pze5cW4Pl1pvtrvXagAMW) | [Hypnotronica](https://open.spotify.com/artist/4V6Upc3fY4gIqOH6AogDCW) | [Warm Rain Shower](https://open.spotify.com/album/6lq8OihInr7laULnzIaT8l) | 2:45 | 2024-08-30 | 2025-03-12 |
 | [Balcony Rain](https://open.spotify.com/track/2hQW9bQ8dU69juNx98Kqw4) | [Scandinavian Rain](https://open.spotify.com/artist/1GRz0YQpzcADR8ZTDo5bkd) | [Balcony Rain](https://open.spotify.com/album/3WsAshRntdtBDuXKGHlSuF) | 2:57 | 2024-08-30 | 2025-02-20 |
 | [Binaural Soothing Wave Sounds](https://open.spotify.com/track/10gnXr8t4P7X3WpvRDyaPD) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Rain and Ocean Soundscapes](https://open.spotify.com/album/5hbhvPjENqCuWA1pfl0KJZ) | 4:22 | 2022-09-21 | 2025-02-20 |
@@ -40,6 +39,7 @@
 | [Fan Of Sleep](https://open.spotify.com/track/3X0TLnpNbg4MPTdyGVljm1) | [Kali Sounds](https://open.spotify.com/artist/4KuKlLvSRURx2gBezB1k7c) | [Winds Of Sleep](https://open.spotify.com/album/20XsGyU1IpxYxCrdpycVq6) | 1:52 | 2022-09-21 | 2023-06-21 |
 | [Field Spectrum](https://open.spotify.com/track/3XG01xovL8ygkL6TLZ60xr) | [Asana Ventus](https://open.spotify.com/artist/3D8uKbNS9NX6q57gX9b08V) | [Field Spectrum](https://open.spotify.com/album/1NyupceZmOc5jxKlhY9b6s) | 2:42 | 2025-02-19 |  |
 | [Flat White Noise](https://open.spotify.com/track/2sT8xEi35Qn6iceYxi1u2V) | [520Hz](https://open.spotify.com/artist/6S1S2NTJ5M5REqvqp6zYSs) | [White Noise Hz](https://open.spotify.com/album/3A8cNq1g1XQKds0Ho4ltJG) | 2:30 | 2025-03-11 |  |
+| [Focus On Noise](https://open.spotify.com/track/01MV13Hg9sfFNtgcMidjgE) | [Hovar](https://open.spotify.com/artist/3COnOYhmr8nINwgd54Z8wj) | [Lean Noise](https://open.spotify.com/album/77UGfdTasZzZkMbeC8lYCg) | 1:39 | 2025-03-11 |  |
 | [Focus River Stream](https://open.spotify.com/track/4YTl4WlQzccIhKGrJkb81v) | [In The River \(Sound FX\)](https://open.spotify.com/artist/770tI2TiIzK65YohBNGoAU) | [Swedish River Sounds Vol\. 2](https://open.spotify.com/album/5WFw9LxCl3TY6ioNWn9Jsf) | 2:58 | 2022-09-21 | 2025-03-12 |
 | [Get Away Rain](https://open.spotify.com/track/4MRSkeZDLve6VCSTOvKa45) | [Freyr](https://open.spotify.com/artist/0UXi91La4FUOmdfH5X4pIG) | [Misty Rain](https://open.spotify.com/album/2ZTBbqsjjp5b7tvSGcWWQu) | 3:28 | 2022-09-21 | 2025-02-20 |
 | [Green Noise Journeys](https://open.spotify.com/track/0X2L4MtUHhklXCUXooJ2vS) | [Picturesque Sound](https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D) | [Green Noise Journeys](https://open.spotify.com/album/3i7VNGNsXlXPj1GrT2hdy6) | 3:36 | 2024-08-30 |  |
@@ -53,7 +53,7 @@
 | [In Somnio](https://open.spotify.com/track/1mZrMMxn7NiWOHMOnbpJ3r) | [Zendium](https://open.spotify.com/artist/4yi6Bu5q83ZFBlj3KH1CFV) | [In Somnio](https://open.spotify.com/album/060GnhHLT7K6aFa2HA9393) | 3:03 | 2025-03-11 |  |
 | [Japanese Garden Rain](https://open.spotify.com/track/6Th9VRLifyT6FJ3BNTFge7) | [Seascapers](https://open.spotify.com/artist/1OCxhMsilRRM68yBUkQ3NA) | [Nihon Garden Rain](https://open.spotify.com/album/0ad3J1YO5XhWi1DoBCnZXa) | 2:45 | 2024-08-30 | 2025-03-12 |
 | [Lake Rain With Thunder](https://open.spotify.com/track/4yuc0tswxfh6DgaPTGXnA0) | [Slumbertronica](https://open.spotify.com/artist/3UOooFmP4gSx8I5fnj7dni) | [The Wet Forest](https://open.spotify.com/album/3lK8bIdeNTajiIBuBW9NP6) | 2:20 | 2022-09-21 | 2025-02-20 |
-| [Lean Noise](https://open.spotify.com/track/2KfLH77WUxnPq28o3SZsFp) | [Hovar](https://open.spotify.com/artist/3COnOYhmr8nINwgd54Z8wj) | [Lean Noise](https://open.spotify.com/album/77UGfdTasZzZkMbeC8lYCg) | 2:17 | 2025-03-11 |  |
+| [Lean Noise](https://open.spotify.com/track/2KfLH77WUxnPq28o3SZsFp) | [Factorial FX](https://open.spotify.com/artist/16weRDppbG11cOcQQtKjFu) | [Lean Noise](https://open.spotify.com/album/77UGfdTasZzZkMbeC8lYCg) | 2:17 | 2025-03-11 |  |
 | [Ljudet av en skugga](https://open.spotify.com/track/3po8Ur8zo1NZ6mbk0nxUAJ) | [Akvavit](https://open.spotify.com/artist/3vvY6bfFNRymVmylw2vfGy) | [Vitt Brus](https://open.spotify.com/album/5pYHh9WVIkmt8thx2nMvlT) | 2:44 | 2025-03-11 | 2025-04-04 |
 | [Low Slow Noise](https://open.spotify.com/track/5RpqglzYhFDpxDlQXwol9P) | [Soundstars](https://open.spotify.com/artist/3q6rhbbRqf3kP062yQ4ro8) | [Low Slow Noise](https://open.spotify.com/album/3duCww2adwRWRR8811ErjL) | 2:05 | 2025-03-11 |  |
 | [Mild White Noise](https://open.spotify.com/track/2eFije7gUh0N0NcmvHKOVp) | [Soundstars](https://open.spotify.com/artist/3q6rhbbRqf3kP062yQ4ro8) | [Low Slow Noise](https://open.spotify.com/album/3duCww2adwRWRR8811ErjL) | 2:30 | 2022-09-21 |  |

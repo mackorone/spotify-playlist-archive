@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Geese",
-  "num_followers": 44322,
+  "num_followers": 44368,
   "original_name": "Editors' Picks: Best Songs of September",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-09-30 19:00:25",
       "album": {
-        "name": "Double Infinity",
-        "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 227070,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy"
-    },
-    {
-      "added_at": "2025-09-30 19:00:25",
-      "album": {
         "name": "Second Sleep / Star Eyes",
         "url": "https://open.spotify.com/album/3EdUtcidzDOrmwRn31dfuU"
       },
@@ -335,6 +319,22 @@
     {
       "added_at": "2025-09-30 19:00:25",
       "album": {
+        "name": "Double Infinity",
+        "url": "https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 227070,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy"
+    },
+    {
+      "added_at": "2025-09-30 19:00:25",
+      "album": {
         "name": "The Hard Way",
         "url": "https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb"
       },
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-09-30 19:00:25",
       "album": {
-        "name": "What's a Girl to Do in '25",
-        "url": "https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr"
-      },
-      "artists": [
-        {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
-        }
-      ],
-      "duration_ms": 148047,
-      "name": "What's a Girl to Do in '25",
-      "url": "https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p"
-    },
-    {
-      "added_at": "2025-09-30 19:00:25",
-      "album": {
         "name": "Getting Killed",
         "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 248229,
       "name": "Husbands",
       "url": "https://open.spotify.com/track/0xATIfA17cJDb9pYAuw70Y"
+    },
+    {
+      "added_at": "2025-09-30 19:00:25",
+      "album": {
+        "name": "What's a Girl to Do in '25",
+        "url": "https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "duration_ms": 148047,
+      "name": "What's a Girl to Do in '25",
+      "url": "https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p"
     },
     {
       "added_at": "2025-09-30 19:00:25",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-09-30 19:00:25",
       "album": {
-        "name": "Dej\u00e1ndolo Pasar",
-        "url": "https://open.spotify.com/album/3mDPKeyZroYjXuIzSUImbL"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 179112,
-      "name": "Dej\u00e1ndolo Pasar",
-      "url": "https://open.spotify.com/track/7xIo66YiwRlfh0LLweE8XT"
-    },
-    {
-      "added_at": "2025-09-30 19:00:25",
-      "album": {
         "name": "Getting Killed",
         "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 354139,
       "name": "Islands of Men",
       "url": "https://open.spotify.com/track/75DUBuQSZ5fXbp7GHbTmTV"
+    },
+    {
+      "added_at": "2025-09-30 19:00:25",
+      "album": {
+        "name": "Dej\u00e1ndolo Pasar",
+        "url": "https://open.spotify.com/album/3mDPKeyZroYjXuIzSUImbL"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 179112,
+      "name": "Dej\u00e1ndolo Pasar",
+      "url": "https://open.spotify.com/track/7xIo66YiwRlfh0LLweE8XT"
     },
     {
       "added_at": "2025-09-30 19:00:25",
@@ -515,18 +515,18 @@
     {
       "added_at": "2025-09-30 19:00:25",
       "album": {
-        "name": "Waiting For Love",
-        "url": "https://open.spotify.com/album/5UmQZch97gF84AIdhkRBqI"
+        "name": "Through The Wall",
+        "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
       },
       "artists": [
         {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 269047,
-      "name": "Waiting For Love",
-      "url": "https://open.spotify.com/track/7faBDPpACK6D31VqvnmeQs"
+      "duration_ms": 214026,
+      "name": "The Boy",
+      "url": "https://open.spotify.com/track/71opuLWkFhYlqcYYKPkkQw"
     },
     {
       "added_at": "2025-09-30 19:00:25",
@@ -547,18 +547,18 @@
     {
       "added_at": "2025-09-30 19:00:25",
       "album": {
-        "name": "Through The Wall",
-        "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
+        "name": "Waiting For Love",
+        "url": "https://open.spotify.com/album/5UmQZch97gF84AIdhkRBqI"
       },
       "artists": [
         {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
         }
       ],
-      "duration_ms": 214026,
-      "name": "The Boy",
-      "url": "https://open.spotify.com/track/71opuLWkFhYlqcYYKPkkQw"
+      "duration_ms": 269047,
+      "name": "Waiting For Love",
+      "url": "https://open.spotify.com/track/7faBDPpACK6D31VqvnmeQs"
     },
     {
       "added_at": "2025-09-30 19:00:25",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-09-30 19:00:25",
       "album": {
-        "name": "Disco Life",
-        "url": "https://open.spotify.com/album/5hf3Uz1e1fEssR8WtoyxFw"
-      },
-      "artists": [
-        {
-          "name": "Say She She",
-          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
-        }
-      ],
-      "duration_ms": 212459,
-      "name": "Disco Life",
-      "url": "https://open.spotify.com/track/7czXE3pPyfrAcytwN50c5C"
-    },
-    {
-      "added_at": "2025-09-30 19:00:25",
-      "album": {
         "name": "Wolf Alice - Spotify Live Room",
         "url": "https://open.spotify.com/album/67jG99DKNpyBkD2AN0cCJm"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 238729,
       "name": "Play It Out (Live) - Spotify Live Room",
       "url": "https://open.spotify.com/track/44cYxPKYAv0TEsVSScm0ua"
+    },
+    {
+      "added_at": "2025-09-30 19:00:25",
+      "album": {
+        "name": "Disco Life",
+        "url": "https://open.spotify.com/album/5hf3Uz1e1fEssR8WtoyxFw"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "duration_ms": 212459,
+      "name": "Disco Life",
+      "url": "https://open.spotify.com/track/7czXE3pPyfrAcytwN50c5C"
     },
     {
       "added_at": "2025-09-30 19:00:25",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-09-30 19:00:25",
       "album": {
-        "name": "Blurrr",
-        "url": "https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D"
-      },
-      "artists": [
-        {
-          "name": "Joanne Robertson",
-          "url": "https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L"
-        }
-      ],
-      "duration_ms": 244781,
-      "name": "Exit Vendor",
-      "url": "https://open.spotify.com/track/5RC1ahAX3WfFwg0sCKdKAP"
-    },
-    {
-      "added_at": "2025-09-30 19:00:25",
-      "album": {
         "name": "I'm Not Going Anywhere",
         "url": "https://open.spotify.com/album/4U5EfAbYTY0kgMkMeTEnzP"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": "2025-09-30 19:00:25",
       "album": {
+        "name": "Blurrr",
+        "url": "https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D"
+      },
+      "artists": [
+        {
+          "name": "Joanne Robertson",
+          "url": "https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L"
+        }
+      ],
+      "duration_ms": 244781,
+      "name": "Exit Vendor",
+      "url": "https://open.spotify.com/track/5RC1ahAX3WfFwg0sCKdKAP"
+    },
+    {
+      "added_at": "2025-09-30 19:00:25",
+      "album": {
         "name": "U-Turn",
         "url": "https://open.spotify.com/album/6HWOTindwuiBnA738BxcDz"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 206628,
       "name": "U-Turn",
       "url": "https://open.spotify.com/track/2iTzELWA8TjPb519KtNRFj"
-    },
-    {
-      "added_at": "2025-09-30 19:00:25",
-      "album": {
-        "name": "Mount Crystal",
-        "url": "https://open.spotify.com/album/5qiZBMIgAH1lqylwi0FC8h"
-      },
-      "artists": [
-        {
-          "name": "Joviale",
-          "url": "https://open.spotify.com/artist/2U1y15TfmMGMDCV7S2mbQ7"
-        }
-      ],
-      "duration_ms": 189761,
-      "name": "Blu",
-      "url": "https://open.spotify.com/track/7p4XQTjHv9uSXUxQnPmPSV"
     },
     {
       "added_at": "2025-09-30 19:00:25",
@@ -827,6 +811,22 @@
       "duration_ms": 161763,
       "name": "sound(e)scape",
       "url": "https://open.spotify.com/track/4VyC4YNRxOCHH0RGAFbuin"
+    },
+    {
+      "added_at": "2025-09-30 19:00:25",
+      "album": {
+        "name": "Mount Crystal",
+        "url": "https://open.spotify.com/album/5qiZBMIgAH1lqylwi0FC8h"
+      },
+      "artists": [
+        {
+          "name": "Joviale",
+          "url": "https://open.spotify.com/artist/2U1y15TfmMGMDCV7S2mbQ7"
+        }
+      ],
+      "duration_ms": 189761,
+      "name": "Blu",
+      "url": "https://open.spotify.com/track/7p4XQTjHv9uSXUxQnPmPSV"
     },
     {
       "added_at": "2025-09-30 19:00:25",

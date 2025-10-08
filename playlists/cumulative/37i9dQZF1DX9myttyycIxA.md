@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Rocket
 
-1,734 songs - 4 day 4 hr 12 min
+1,735 songs - 4 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -729,6 +729,7 @@
 | [High Worry](https://open.spotify.com/track/68JkkHLlJdiQdQ8zSKKhaD) | [Bantug](https://open.spotify.com/artist/6zXxD2q2MDoVWsTBd0WCd5) | [High Worry](https://open.spotify.com/album/7li7TGIfrpe8yzoSRqbxuC) | 2:42 | 2021-03-05 | 2022-02-24 |
 | [Him](https://open.spotify.com/track/55M24NpVbhdI5k3VW86RKc) | [The Soft Moon](https://open.spotify.com/artist/40HeNm05FEAxGx8gUOV4my), [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [Him](https://open.spotify.com/album/2PtMxHI3ARNRv6fu1b98i1) | 3:27 | 2022-06-17 | 2022-07-23 |
 | [Hit me when I was walking around](https://open.spotify.com/track/6MO6LuS73jPwrTkUtyDz0A) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA), [Outside Air](https://open.spotify.com/artist/1OYViPmBpWUeNUEwyHABdL) | [Hit me when I was walking around](https://open.spotify.com/album/6JUvJlfD4VoSvdiFxAkI1H) | 4:20 | 2025-07-11 |  |
+| [Hit My Head All Day](https://open.spotify.com/track/0JIKmYZmtDKqXAU37ZqwbN) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Hit My Head All Day](https://open.spotify.com/album/1x5dErbtLuyMUZrnmkM4CI) | 6:03 | 2025-10-07 |  |
 | [Hold U](https://open.spotify.com/track/6cc0aU3UwzVxpJ4hzqGedK) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Hold U](https://open.spotify.com/album/3Q7cvRxPP6gbPZf2u7AM2e) | 4:16 | 2021-07-23 | 2022-07-16 |
 | [Holding You](https://open.spotify.com/track/0eq57jxRER9R6yo2p5bhn5) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [Holding You](https://open.spotify.com/album/7fbK3jCvnDN9wkWJrfHZ7a) | 2:41 | 2023-01-27 | 2023-03-11 |
 | [HOLIDAY](https://open.spotify.com/track/30QLDsDxebl8X8xcK8nqHj) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo) | [HOLIDAY](https://open.spotify.com/album/2KhNmjHkbf1gr9ers7bok5) | 3:01 | 2022-12-16 | 2023-03-04 |

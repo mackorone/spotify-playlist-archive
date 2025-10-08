@@ -4,7 +4,7 @@
 
 > the soundtrack for your vitamin d fix.
 
-372 songs - 20 hr 57 min
+373 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Little Green Bag](https://open.spotify.com/track/4DR5MStkWtDYf17jBUOo0V) | [George Baker Selection](https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn) | [The Tarantino Connection](https://open.spotify.com/album/1pP3xpjOLQILI99rwfSi9q) | 3:15 | 2022-06-24 | 2024-04-19 |
 | [Little Green Bag](https://open.spotify.com/track/5dmlMfZajWNbUskAg9CN3V) | [George Baker Selection](https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn) | [Reservoir Dogs \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4pFfvZt1riTaIWzkHFfmsF) | 3:15 | 2021-03-24 | 2022-04-27 |
 | [Little Secrets](https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 3:58 | 2021-03-24 |  |
+| [lost](https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [lost](https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp) | 3:01 | 2025-10-03 |  |
 | [Lost In Space](https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lost In Space](https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl) | 4:18 | 2024-06-03 | 2025-04-22 |
 | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI) | 3:13 | 2023-03-14 | 2025-04-15 |
 | [Lula On The Beach](https://open.spotify.com/track/6lDEE2dGyBEHNOGFlFgswu) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Vacation](https://open.spotify.com/album/1g2GLrmjcCByLz1ZpCEDFQ) | 3:25 | 2021-03-24 | 2022-07-29 |
@@ -221,7 +222,7 @@
 | [Mistakes Like This](https://open.spotify.com/track/4telT9zZWgv4d8gD4WZrlA) | [Prelow](https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn) | [Why Does Everything Happen So Much EP](https://open.spotify.com/album/2rQIMkDTxP8IPGtF7qFPwE) | 3:11 | 2021-03-24 | 2023-03-15 |
 | [Mixtape](https://open.spotify.com/track/59rf2EWjIirvHSHml5CfGH) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Mixtape](https://open.spotify.com/album/1W1tp0tGGsOliQbtlyopFH) | 3:51 | 2021-03-24 | 2022-07-29 |
 | [Mixtape](https://open.spotify.com/track/7pV3R5btHH6ddO4FYUumej) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Girls.](https://open.spotify.com/album/731pQqiILP4nsxEUzvRAhf) | 3:52 | 2022-06-24 | 2023-03-15 |
-| [monalisa, we miss you//](https://open.spotify.com/track/2MFtNJEL5yexgzMT3wAXOU) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [conditions of an orphan//](https://open.spotify.com/album/3zxmqudfcPr7f5Fk066Fid) | 3:38 | 2025-09-19 |  |
+| [monalisa, we miss you//](https://open.spotify.com/track/2MFtNJEL5yexgzMT3wAXOU) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [conditions of an orphan//](https://open.spotify.com/album/3zxmqudfcPr7f5Fk066Fid) | 3:38 | 2025-09-19 | 2025-10-08 |
 | [Monday](https://open.spotify.com/track/55jtGKCCpLEV0zWFf97wVY) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy](https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ) | 2:56 | 2022-04-26 | 2023-03-15 |
 | [Mood Ring](https://open.spotify.com/track/4ZwV2vVR5vUEOKHQwFJe8T) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Mood Ring](https://open.spotify.com/album/3BGIgBfPKUzYD1eIY4qpPS) | 2:57 | 2024-04-12 | 2024-05-29 |
 | [Motorcycle](https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Motorcycle](https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g) | 2:46 | 2024-06-21 | 2024-07-13 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 20523,
+  "num_followers": 20527,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAAA8sRSvzPcQRY33OjgSKcL+",
+  "snapshot_id": "aOMGgAAAAAAJ3tGnMTQqZ4gtRMyy+Z+q",
   "tracks": [
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legacy of Hits",
+        "url": "https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 158638,
+      "name": "15 Shots",
+      "url": "https://open.spotify.com/track/53I7AM0JdcKspFjo29tHyW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life After Fame",
         "url": "https://open.spotify.com/album/3IYaSINx79h33UY51uylld"
       },
@@ -859,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legacy of Hits",
-        "url": "https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL"
+        "name": "Coma",
+        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
       },
       "artists": [
         {
@@ -868,9 +884,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 158638,
-      "name": "15 Shots",
-      "url": "https://open.spotify.com/track/53I7AM0JdcKspFjo29tHyW"
+      "duration_ms": 183289,
+      "name": "Downgrade",
+      "url": "https://open.spotify.com/track/3BhhN8DG3MkqJZWx7FWKtB"
     },
     {
       "added_at": null,
@@ -887,22 +903,6 @@
       "duration_ms": 162246,
       "name": "Gamble",
       "url": "https://open.spotify.com/track/6LZLx6B97FDjUg89RIT44U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coma",
-        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 183289,
-      "name": "Downgrade",
-      "url": "https://open.spotify.com/track/3BhhN8DG3MkqJZWx7FWKtB"
     },
     {
       "added_at": null,

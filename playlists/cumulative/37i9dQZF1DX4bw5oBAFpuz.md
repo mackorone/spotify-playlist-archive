@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-597 songs - 1 day 10 hr 0 min
+598 songs - 1 day 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [I Ain't Worried](https://open.spotify.com/track/73PAbYaVbnFG0tQ4aBfxeN) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Top Gun: Maverick \(Music From The Motion Picture\)](https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz) | 2:28 | 2025-02-18 | 2025-08-29 |
 | [I Believe in Love](https://open.spotify.com/track/0NLUDrObXdkRmZZjK3V7h3) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [TEN](https://open.spotify.com/album/3XsUZ5vWPSyUktmGIkglVe) | 2:53 | 2025-02-18 |  |
 | [I Could Be Wrong](https://open.spotify.com/track/1PkvInIcaxRagzStMGVAi5) | [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2) | [I Could Be Wrong](https://open.spotify.com/album/3ujt1l1rq1UnLM3KXHYPEx) | 3:06 | 2025-09-18 |  |
-| [I Don't Deserve It](https://open.spotify.com/track/0aA8UQmAlCSLXj8tm8iDKb) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [I Don't Deserve It](https://open.spotify.com/album/1DHgLR9HwTeITN8oNL96Q8) | 3:46 | 2023-02-23 |  |
+| [I Don't Deserve It](https://open.spotify.com/track/0aA8UQmAlCSLXj8tm8iDKb) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [I Don't Deserve It](https://open.spotify.com/album/1DHgLR9HwTeITN8oNL96Q8) | 3:46 | 2023-02-23 | 2025-10-08 |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-11-04 | 2025-01-24 |
 | [I HAVEN'T SAID ENOUGH](https://open.spotify.com/track/40L1n9k9hAIgfDpIHTGvHi) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Make Yourself At Home](https://open.spotify.com/album/46jHQdOJZaEaunUrtYEqD1) | 3:19 | 2025-09-25 |  |
 | [I Knew You Were Trouble \- Spotify Singles](https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Spotify Singles](https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP) | 3:53 | 2023-10-30 | 2024-04-10 |
@@ -266,6 +266,7 @@
 | [Jericho](https://open.spotify.com/track/19wiQ1aqbNHocG5msFg5mo) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty) | [First & Then](https://open.spotify.com/album/0Z4pFx28VanFBu38t7P7xV) | 2:53 | 2023-02-23 |  |
 | [Joni](https://open.spotify.com/track/7sGxQVaN9xwWdo4p8S0kwN) | [Julian Velard](https://open.spotify.com/artist/1g3MvOINJc6PpxqXqYgq0O) | [The Movies Without You](https://open.spotify.com/album/5a481Xvo5zQ08yWRgYFEnv) | 4:09 | 2023-02-23 | 2024-04-19 |
 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 | 2023-02-23 | 2024-10-31 |
+| [Jump Right In](https://open.spotify.com/track/1W89lDI2ELorocAEH1Ttyc) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Jump Right In](https://open.spotify.com/album/7jPP5NG0VlgANDItDOZWJO) | 2:48 | 2025-10-07 |  |
 | [Just Say Yes](https://open.spotify.com/track/4k7P2LIQco8YCVbIZl1vZB) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Up To Now](https://open.spotify.com/album/1IN1tRZL4wr52v3iZBz4Qb) | 4:41 | 2024-04-11 |  |
 | [Just Say Yes](https://open.spotify.com/track/7EEpVPYeW8Ycaw2SlP1u7f) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Greatest Hits](https://open.spotify.com/album/4mUt2ELNS2XhfqHEsaiDaN) | 4:41 | 2023-02-23 | 2024-04-19 |
 | [Just You and I](https://open.spotify.com/track/03x2rVJRFUrvwlfxoHd9Mo) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [What a Time To Be Alive](https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC) | 2:54 | 2023-02-23 | 2023-06-15 |

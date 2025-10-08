@@ -2,9 +2,9 @@
 
 ### [Anime Rocks](https://open.spotify.com/playlist/37i9dQZF1DXbsaEIiliwyO)
 
-> アニメシーンで話題のロックサウンドを1つのプレイリストに。Best & new rock anthems for anime fans\. Cover: WurtS
+> アニメシーンで話題のロックサウンドを1つのプレイリストに。Best & new rock anthems for anime fans\. Cover: yama
 
-218 songs - 13 hr 38 min
+219 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Ride on shooting star](https://open.spotify.com/track/40noxDIF8DGi3m7dBeikzo) | [the pillows](https://open.spotify.com/artist/6ilYV5oF8whllOnm4VZlYR) | [Fool on the planet](https://open.spotify.com/album/430pNVzkDDNcen9TRYPEGL) | 2:22 | 2025-02-03 | 2025-02-16 |
 | [SCOPE](https://open.spotify.com/track/3Jo4XDtnSvgky2gC40gEwX) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SCOPE](https://open.spotify.com/album/4En3BPOgBrfh5pZgN58fnp) | 2:55 | 2025-01-14 | 2025-03-14 |
 | [SHADOWBORN](https://open.spotify.com/track/0QnjcR3CzjZAibq74RW02x) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Benjamin](https://open.spotify.com/artist/3hUQrVzWSjbHu7USOygIaz), [mpi](https://open.spotify.com/artist/0udboBeiQhCskhYBLMbx9K) | [SHADOWBORN](https://open.spotify.com/album/54kydss0Fz9B7dKNMuwGKs) | 3:11 | 2025-01-14 | 2025-08-02 |
-| [Shout Baby](https://open.spotify.com/track/5K1m4aaPCxwnm9SKlWW1vh) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Shout Baby](https://open.spotify.com/album/09zBDn6RECoEaWhArkgnjf) | 4:25 | 2024-04-16 |  |
+| [Shout Baby](https://open.spotify.com/track/5K1m4aaPCxwnm9SKlWW1vh) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Shout Baby](https://open.spotify.com/album/09zBDn6RECoEaWhArkgnjf) | 4:25 | 2024-04-16 | 2025-10-08 |
 | [Shouted Serenade](https://open.spotify.com/track/4AmsxBuvjbrjytfHMcEoov) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Shouted Serenade](https://open.spotify.com/album/1fd624gxyPygHMcmwhvAdB) | 3:53 | 2024-07-07 | 2024-08-09 |
 | [Sign](https://open.spotify.com/track/0xmWQKzc5m9rLv2ucDWxwD) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [MICROCOSM](https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa) | 3:56 | 2023-08-03 | 2024-04-19 |
 | [Somebody help us](https://open.spotify.com/track/11gc2n8N1ANGERLZ1Ju66i) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO](https://open.spotify.com/album/0hOBqS9AHeJXGqoDQ6gBy6) | 4:08 | 2025-02-15 | 2025-04-04 |
@@ -129,6 +129,7 @@
 | [どうかしてる](https://open.spotify.com/track/1N7SNqZRZsQzwJNtq2lV6O) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [どうかしてる](https://open.spotify.com/album/3Homeh5wwwJBteBjRAqGQI) | 2:30 | 2025-07-15 |  |
 | [ひまわり](https://open.spotify.com/track/2KskwqOHY43u6gRn4fVSLX) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [ひまわり](https://open.spotify.com/album/0WceqWQ4ASE8Vliz7i4yAp) | 2:52 | 2025-08-05 |  |
 | [アオとキラメキ](https://open.spotify.com/track/4eZ6wXfhx6N9KgNUJEH2t2) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [アオとキラメキ](https://open.spotify.com/album/1CgpeKofwhA6D2ar9XWs7V) | 3:37 | 2025-08-05 | 2025-10-04 |
+| [アダルトチックチルドレン](https://open.spotify.com/track/4szCibdelqTfe8XzGlBT8u) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [アダルトチックチルドレン](https://open.spotify.com/album/7yTWJUaWIAU0ERYbbTZXwr) | 3:02 | 2025-10-07 |  |
 | [アマリリス](https://open.spotify.com/track/4eIDKBcRJnlZmrRLNdlbgX) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [アマリリス](https://open.spotify.com/album/5Tdq4ftTKRVA2FYE4kc0QT) | 3:53 | 2023-09-05 | 2023-09-07 |
 | [アマリリス](https://open.spotify.com/track/1g3M9L6Q6LeTyWDsq6k3PX) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [アマリリス](https://open.spotify.com/album/4jqo33DQb1mHK7ynzNmKa9) | 3:54 | 2023-09-05 | 2023-10-04 |
 | [インフェルノ](https://open.spotify.com/track/64yajM6CxtLghmgB53VeXT) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [インフェルノ](https://open.spotify.com/album/137FjNv5TRNvbW6D17bQc1) | 3:32 | 2023-08-03 |  |

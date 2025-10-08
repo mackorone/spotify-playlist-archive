@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 99059,
+  "num_followers": 99080,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAAAvS00zLFYs1KwloXrcrLU6",
+  "snapshot_id": "aOMGgAAAAABSQr33fZtBZvIHsNXDfoAE",
   "tracks": [
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duetos Con La Clika",
-        "url": "https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 126249,
-      "name": "Bien Tumbado",
-      "url": "https://open.spotify.com/track/21TM6acDWDZOzvamVZnlsD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F\u00e1cil no Fue",
         "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 162013,
       "name": "Pura Adrenalina",
       "url": "https://open.spotify.com/track/5Ho2PsKBXFpSjRBrnDwF3N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duetos Con La Clika",
+        "url": "https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 126249,
+      "name": "Bien Tumbado",
+      "url": "https://open.spotify.com/track/21TM6acDWDZOzvamVZnlsD"
     },
     {
       "added_at": null,

@@ -866,7 +866,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2024-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 177119,
       "name": "Ganeni",
       "url": "https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql"
@@ -2877,6 +2877,28 @@
     },
     {
       "album": {
+        "name": "Meen Ysadak",
+        "url": "https://open.spotify.com/album/0vqR5QySiLJwGNHMnpQ4Hj"
+      },
+      "artists": [
+        {
+          "name": "nour",
+          "url": "https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo"
+        },
+        {
+          "name": "Eldab3",
+          "url": "https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Meen Ysadak",
+      "url": "https://open.spotify.com/track/2So4UdTcMQe2ap2VpC43eD"
+    },
+    {
+      "album": {
         "name": "Melli sar",
         "url": "https://open.spotify.com/album/5KOkPO2cWQzNk6mvrPOazN"
       },
@@ -2910,6 +2932,24 @@
       "duration_ms": 166153,
       "name": "MEN BARRA",
       "url": "https://open.spotify.com/track/34ETRdUC9Zti5CW3fHW5eI"
+    },
+    {
+      "album": {
+        "name": "Mode Avion",
+        "url": "https://open.spotify.com/album/3nDtdoIpba8oRpLf0CxTDu"
+      },
+      "artists": [
+        {
+          "name": "Kaso",
+          "url": "https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166254,
+      "name": "MEN BARRA",
+      "url": "https://open.spotify.com/track/0ASWZqGgyRKaj3qZ9zXQsE"
     },
     {
       "album": {
@@ -3100,6 +3140,24 @@
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
+    },
+    {
+      "album": {
+        "name": "Mrid",
+        "url": "https://open.spotify.com/album/5zYMjaQsYIULUuqxni0H7o"
+      },
+      "artists": [
+        {
+          "name": "SayaX",
+          "url": "https://open.spotify.com/artist/6X3WYYZHavFRcbuh4XJs1O"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236747,
+      "name": "Mrid",
+      "url": "https://open.spotify.com/track/5zddjnP7Z2GX27xTCfreMF"
     },
     {
       "album": {

@@ -4163,6 +4163,24 @@
     },
     {
       "album": {
+        "name": "GOTHIC(A-type)",
+        "url": "https://open.spotify.com/album/1pruXAHSYCW3bSCEC6DSHT"
+      },
+      "artists": [
+        {
+          "name": "Kaya",
+          "url": "https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271685,
+      "name": "Vampire Requiem",
+      "url": "https://open.spotify.com/track/57xhHuhjhiqqDptYzR0OZO"
+    },
+    {
+      "album": {
         "name": "Touch Up",
         "url": "https://open.spotify.com/album/40DMb38Z4n5ylfz4n29qt0"
       },

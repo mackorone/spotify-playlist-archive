@@ -4,7 +4,7 @@
 
 > Energy flow from root to crown\. Balance your doshas with gentle sounds inspired by India.
 
-205 songs - 12 hr 55 min
+206 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Siddharthas Echoes](https://open.spotify.com/track/3WmDbmhu8NH9i4NB8gJdbm) | [Vedic Moon](https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7), [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Siddharthas Echoes](https://open.spotify.com/album/2cumKJiYUKZOcbMrNrXh6b) | 3:12 | 2024-03-26 |  |
 | [Silent Contact](https://open.spotify.com/track/5mitaTDmtYYiHeh8nvxeG8) | [Restful Minds](https://open.spotify.com/artist/1KC7jzPqVDerOarFJ6oj4D) | [Silent Contact](https://open.spotify.com/album/6M0s5J0yax4mKxoNve4Jon) | 2:33 | 2024-12-20 |  |
 | [Simoom](https://open.spotify.com/track/7gR19CaxVW3DfvSfJEGRMT) | [Kanta Khatri](https://open.spotify.com/artist/1AIZ3YGySP9lkL7BulRkA0) | [Moksha](https://open.spotify.com/album/2DEYwbAEe0uXNgWdevqUrw) | 3:41 | 2022-05-13 |  |
+| [Sitar Saanjh](https://open.spotify.com/track/4QULeDun95QqG2q61B33iB) | [Liam Callahan](https://open.spotify.com/artist/0S7H10WFzeRISS2m79iSCs) | [Sitar Saanjh](https://open.spotify.com/album/6vGAICOeORowocTc5Iuogg) | 2:50 | 2025-10-07 |  |
 | [Skies Forget](https://open.spotify.com/track/1lV156qi2bwfUIbTgTKFIu) | [Aurora Axis](https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM) | [Skies Forget](https://open.spotify.com/album/6mBSCL8Z15Z68MXEm8oqoO) | 3:28 | 2025-04-01 |  |
 | [Slow Start](https://open.spotify.com/track/18wjlWpx5uuKE2mzc2V0MU) | [Pascal Peaceful](https://open.spotify.com/artist/2zI5MF3vSVBhZpoqBo1NMF) | [Slow Start](https://open.spotify.com/album/2rNUDJ6UD17DZKAgCGuF0t) | 2:12 | 2023-02-10 |  |
 | [Slowly Healing](https://open.spotify.com/track/6oJqtyhQPJe8tJeSUtCwH7) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Slowly Healing](https://open.spotify.com/album/1LNYubcpboUETiSW9yDJ2N) | 3:01 | 2025-02-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[lia♡](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,004 songs - 2 day 9 hr 34 min
+[lia♡](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,005 songs - 2 day 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1012,5 +1012,6 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1002 | [Actually Romantic](https://open.spotify.com/track/2x3mwb96B6TquRqMtbxUE1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 2:43 |
 | 1003 | [Wood](https://open.spotify.com/track/5ylJtmaWPJ33cW3En7WOu0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 2:30 |
 | 1004 | [CANCELLED!](https://open.spotify.com/track/1appZ3c336FkPvCuywfmrs) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:31 |
+| 1005 | [Love Me Anyway](https://open.spotify.com/track/53KWkwzQq47p13swqiLAMI) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Love Me Anyway](https://open.spotify.com/album/4zGYqGyEgY8YQZE0tob6Bj) | 3:53 |
 
-Snapshot ID: `AAAGxeBpRA5qX9dJKG4VcOZWXUgMovBo`
+Snapshot ID: `AAAGxmGcVgyLBSWBXic+6VUQRFBgHnBe`

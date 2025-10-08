@@ -710,7 +710,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 184134,
       "name": "Dernier But",
       "url": "https://open.spotify.com/track/3kMhlmBTwtJZpnQ0fRusIm"
@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 213344,
       "name": "Lambo",
       "url": "https://open.spotify.com/track/1XB5dbU1fQ3kMgu6xypGGX"
@@ -2451,6 +2451,24 @@
     },
     {
       "album": {
+        "name": "Ta\u00eem",
+        "url": "https://open.spotify.com/album/5PBqhrjEIC4Ahl09m5JANw"
+      },
+      "artists": [
+        {
+          "name": "Samara",
+          "url": "https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190473,
+      "name": "Ta\u00eem",
+      "url": "https://open.spotify.com/track/0LmfQGArwphf46Zwv8whgH"
+    },
+    {
+      "album": {
         "name": "Tfadhel",
         "url": "https://open.spotify.com/album/7iQs5yLhszxjg5SItzjqGu"
       },
@@ -2758,6 +2776,32 @@
       "duration_ms": 157182,
       "name": "Zhar",
       "url": "https://open.spotify.com/track/0pQ1pQ3eBo4iUGfs0wx4MY"
+    },
+    {
+      "album": {
+        "name": "\u0643\u0628\u0631\u0646\u0627 \u0628\u0623\u0633\u0627\u0645\u064a\u0646\u0627",
+        "url": "https://open.spotify.com/album/5qUrGmtl5PVSWOOVAkQcbM"
+      },
+      "artists": [
+        {
+          "name": "Dekka",
+          "url": "https://open.spotify.com/artist/2loudmgJCLYEIWjqKdqURB"
+        },
+        {
+          "name": "Klay BBJ",
+          "url": "https://open.spotify.com/artist/2FL58smO7JsL10CYirRdkO"
+        },
+        {
+          "name": "Blingos",
+          "url": "https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243157,
+      "name": "\u0643\u0628\u0631\u0646\u0627 \u0628\u0623\u0633\u0627\u0645\u064a\u0646\u0627",
+      "url": "https://open.spotify.com/track/4GOGIk5a8CAw3ehqmdVIaP"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 
 > The highlights of Eurovision from the 50s, 60s & 70s\. Cover: ABBA
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,405 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,407 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 27 | [Vivo Cantando](https://open.spotify.com/track/059G9tpE3kl6wz3kiddaN0) | [Salomé](https://open.spotify.com/artist/63do5oMjVDbcCYvgqhMCtM) | [Todo Lo Mejor](https://open.spotify.com/album/7ktr6P3BCeVcyhwQ1a4QPX) | 2:10 |
 | 28 | [Dansevise](https://open.spotify.com/track/1oIVUqdVUFouSa6xsSN5aM) | [Grethe Ingmann](https://open.spotify.com/artist/74NZRc4VtnABmp3rP9e1Gs), [Jørgen Ingmann](https://open.spotify.com/artist/1mUxA8Bcd9qdMgH9uMOIQb) | [16 Hits](https://open.spotify.com/album/74u48w2QLDrnp2neG6hzLN) | 2:57 |
 | 29 | [Jennie Jennie](https://open.spotify.com/track/3BdAVTDazl0jW9Jpxz0VYh) | [Lasse Berghagen](https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY) | [Musik vi minns..\. / Lasse Berghagen](https://open.spotify.com/album/12dP4FPuOJu4ZDd2KXDEHH) | 3:26 |
-| 30 | [Un banc, un arbre, une rue](https://open.spotify.com/track/0OInqhDtfYPcSpEQNtJx3n) | [Severine](https://open.spotify.com/artist/3EUjn8x9dDqyi5yrZNj0iH) | [Un banc, un arbre, une rue](https://open.spotify.com/album/76wwuBCyDmEEKecAEkFkCg) | 3:01 |
-| 31 | [Power to All Our Friends](https://open.spotify.com/track/4oJxJpFIGUHlX6limr6rH1) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [40 Golden Greats](https://open.spotify.com/album/0SW33rIKZ2v0EmfqRLKufz) | 3:03 |
-| 32 | [אי שם](https://open.spotify.com/track/6XTFPBCx1F8q9V2CgXnUWO) | [Ilanit](https://open.spotify.com/artist/6Rs5PyjfGBoAYfsA0Kocsj) | [אי שם](https://open.spotify.com/album/20DzOLF3saURVlu1S4SFY3) | 2:52 |
+| 30 | [אי שם](https://open.spotify.com/track/6XTFPBCx1F8q9V2CgXnUWO) | [Ilanit](https://open.spotify.com/artist/6Rs5PyjfGBoAYfsA0Kocsj) | [אי שם](https://open.spotify.com/album/20DzOLF3saURVlu1S4SFY3) | 2:52 |
+| 31 | [Un banc, un arbre, une rue](https://open.spotify.com/track/0OInqhDtfYPcSpEQNtJx3n) | [Severine](https://open.spotify.com/artist/3EUjn8x9dDqyi5yrZNj0iH) | [Un banc, un arbre, une rue](https://open.spotify.com/album/76wwuBCyDmEEKecAEkFkCg) | 3:01 |
+| 32 | [Power to All Our Friends](https://open.spotify.com/track/4oJxJpFIGUHlX6limr6rH1) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [40 Golden Greats](https://open.spotify.com/album/0SW33rIKZ2v0EmfqRLKufz) | 3:03 |
 | 33 | [Ding\-A\-Dong \(English\) \- Remastered](https://open.spotify.com/track/2dZ5FvhW12NB8mQPhdBu7U) | [Teach In](https://open.spotify.com/artist/0but8haas2eybMUZvFV90H) | [Ding\-A\-Dong Winner Eurovision Festival 1975 \(Remastered\)](https://open.spotify.com/album/7rCzZoWFHzNRqvnYgZYoh0) | 2:27 |
 | 34 | [Elle était si jolie](https://open.spotify.com/track/6zExa9fc43F6uxNdaVmcUR) | [Alain Barrière](https://open.spotify.com/artist/0ZKY5JXrPqZ761rg10WqtW) | [Pure..\. France](https://open.spotify.com/album/7qHQ8U2HlkyXsBoSfoidkr) | 2:57 |
 | 35 | [I See A Star](https://open.spotify.com/track/7qsXX1PCCCsGusfjU7gTFu) | [Mouth & MacNeal](https://open.spotify.com/artist/51RYnAHfrE4xnMomva5kFq) | [How Do You Do?](https://open.spotify.com/album/48yOqmMIGCwGJIKSeQxeVJ) | 2:56 |
@@ -68,15 +68,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 58 | [En un Mundo Nuevo](https://open.spotify.com/track/5rIMwPfCNwsqbnbL9jpXXy) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Viva el Amor](https://open.spotify.com/album/0kFh8oJEziPh93ZPywp1sy) | 3:10 |
 | 59 | [Djambo Djambo](https://open.spotify.com/track/47F73dkUQMKOl77Zs68pxk) | [Peter, Sue & Marc](https://open.spotify.com/artist/1oeiv9ZjFI1iT5cwzcGouh) | [Golden Hits \(Remastered\)](https://open.spotify.com/album/1radm6yMWa1V4SZVekqW5J) | 2:48 |
 | 60 | [Ein Hoch der Liebe](https://open.spotify.com/track/1SlsyDG3PMLZ57fLzp5WVI) | [Wencke Myhre](https://open.spotify.com/artist/6W5ilMykftL18jlBb7CHuo) | [Er steht im Tor \- Ihre grossen Erfolge](https://open.spotify.com/album/705ZSYIGNPIkRTwRaA9igw) | 2:31 |
-| 61 | [Il giorni dell 'arcobaleno](https://open.spotify.com/track/43lMF4kX4cIAdgYUaCPCSj) | [Nicola Di Bari](https://open.spotify.com/artist/31Pfw9p5mZPeKqZSaiXzqk) | [Todos sus Exitos: Nicola di Bari](https://open.spotify.com/album/7sgdkdAYvA72xtayFNSU8Z) | 3:06 |
+| 61 | [Hablemos del amor](https://open.spotify.com/track/1uG9IM78KZTIEBzcWEd2E8) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Una vida de canciones](https://open.spotify.com/album/1PFJDPnHZuEwSlIbDy4G2c) | 2:51 |
 | 62 | [Festa da Vida](https://open.spotify.com/track/7wLYU9xbF3rGxN8ZYTy0NS) | [Carlos Mendes](https://open.spotify.com/artist/0rPo81L45W612Ke5Ezsqc4) | [A Festa da Vida](https://open.spotify.com/album/0ZlWPHxyCHxo70SQBSYZGm) | 2:40 |
-| 63 | [Hablemos del amor](https://open.spotify.com/track/1uG9IM78KZTIEBzcWEd2E8) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Una vida de canciones](https://open.spotify.com/album/1PFJDPnHZuEwSlIbDy4G2c) | 2:51 |
+| 63 | [Il giorni dell 'arcobaleno](https://open.spotify.com/track/43lMF4kX4cIAdgYUaCPCSj) | [Nicola Di Bari](https://open.spotify.com/artist/31Pfw9p5mZPeKqZSaiXzqk) | [Todos sus Exitos: Nicola di Bari](https://open.spotify.com/album/7sgdkdAYvA72xtayFNSU8Z) | 3:06 |
 | 64 | [Judy et cie](https://open.spotify.com/track/73T2aSDbeMFuIN8CvDKCrg) | [Pierre Rapsat](https://open.spotify.com/artist/3Jsgw675Kwq2u5MxmBmW7g) | [L'essentiel](https://open.spotify.com/album/2mmOO4TUSuodwuFoao1rYd) | 2:50 |
 | 65 | [Marianne](https://open.spotify.com/track/6qjTf8vArMndh5BalX4qGv) | [Sergio Endrigo](https://open.spotify.com/artist/4ERMFbVCuwsv0eiUrG7LF3) | [Collection: Sergio Endrigo](https://open.spotify.com/album/3I41nPHRdOpInP57Noytru) | 3:10 |
 | 66 | [Telegram](https://open.spotify.com/track/72YL3BihTfLT3gfihtonfB) | [Silver Convention](https://open.spotify.com/artist/5QHvbEwccF3WANUD5lEIuA) | [Golden Girls](https://open.spotify.com/album/0bUaCbCLyGV2aneWfDSDcV) | 3:03 |
 | 67 | [Det börjar verka kärlek, banne mej](https://open.spotify.com/track/1qnzSLvl5qWPIgpaRnLGxl) | [Claes\-Göran Hederström](https://open.spotify.com/artist/3xCwhFeIUkdyi9V0skNdLi) | [Festivalfavoriter 1](https://open.spotify.com/album/3cNpSXxkZG0wE2TnIbd66m) | 2:46 |
 | 68 | [Feuer \- Remastered 1996](https://open.spotify.com/track/1bBZVweXaAyLI8FkuhoOyb) | [Ireen Sheer](https://open.spotify.com/artist/6DtzOuUkjukrHLwgG4EnDw) | [Mega 50 \- Die 70er Jahre](https://open.spotify.com/album/4Jy5Oy9tA5kSnjsz0YyAls) | 3:03 |
 | 69 | [Primaballerina \- tysk Version](https://open.spotify.com/track/5I0IiNSEy5ww523Wvmgrmc) | [Siw Malmkvist](https://open.spotify.com/artist/2VWX6ZalDVTp1KMGN6JDSl) | [Primaballerina](https://open.spotify.com/album/4XJS3oPFX2Dh5GvDHI7lHy) | 2:42 |
-| 70 | [Enseñame a Cantar](https://open.spotify.com/track/0U44GbCt9x8s7KW5VEVSV6) | [Micky](https://open.spotify.com/artist/0etbSXXNUU5ryv8SxnYQht) | [40 Años de No\. 1 en Español : Los 50's, 60's, 70's y 80's](https://open.spotify.com/album/4cuKRJ2hkJy13J7ml7NHu8) | 3:27 |
+| 70 | [Et Bonjour A Toi l'Artiste](https://open.spotify.com/track/5eGnVU7C3mRbXMergmSz9Q) | [Nicole Rieu](https://open.spotify.com/artist/77eP94nF4XoaYvzx5W8CVC) | [Nicole Rieu](https://open.spotify.com/album/6pgSHh4Sb9J1ttOTDrgtwl) | 3:42 |
 
 Snapshot ID: `AAAAACmXSMrftyGjkNeyqmBmDlgb57zl`

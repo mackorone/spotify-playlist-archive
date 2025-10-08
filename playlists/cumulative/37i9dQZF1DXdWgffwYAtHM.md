@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdWgffwYAtHM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdWgffwYAtHM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdWgffwYAtHM)
 
-### [RADAR Brasil Creators](https://open.spotify.com/playlist/37i9dQZF1DXdWgffwYAtHM)
+### [RADAR Creators Brasil](https://open.spotify.com/playlist/37i9dQZF1DXdWgffwYAtHM)
 
 > Creators que você precisa ter no RADAR\. Creator do mês: <a href="spotify:show:3Z980PbVrz8cf0StzZTFU4">MONÓLOGOS ♡</a>
 

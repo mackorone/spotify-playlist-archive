@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover:  Big Sean, Murda Beatz, Babyface Ray \)
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,913 likes - 105 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,929 likes - 105 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hood Politics](https://open.spotify.com/track/7lOFSXxqxVhSuu7lgL85sj) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hood Politics](https://open.spotify.com/album/00jHCxhTpgzELW5nNy4nRU) | 3:14 |
-| 2 | [Shop Open \(feat\. Rick Ross\)](https://open.spotify.com/track/6AH7qi1Wb0OUE6oDaLRzbV) | [Ern J](https://open.spotify.com/artist/2jToE38SqC1SONI38zeP3n), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Shop Open \(feat\. Rick Ross\)](https://open.spotify.com/album/6auUhqYvubhCVbmJyduM7k) | 2:47 |
+| 2 | [Shop Open](https://open.spotify.com/track/6AH7qi1Wb0OUE6oDaLRzbV) | [Ern J](https://open.spotify.com/artist/2jToE38SqC1SONI38zeP3n), [Tropdavinci](https://open.spotify.com/artist/4zLOcGlw5nS97DVaRX6Rxs), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Shop Open](https://open.spotify.com/album/6auUhqYvubhCVbmJyduM7k) | 2:47 |
 | 3 | [Only Time](https://open.spotify.com/track/3jZr9yjhzg2GGnvhRsJiua) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Only Time](https://open.spotify.com/album/2Y9KP6WWhMETlq1IwGCE2d) | 3:22 |
 | 4 | [Fuk Em](https://open.spotify.com/track/4PAs9QivjLo95KNLGDd1pk) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Fuk Em](https://open.spotify.com/album/490kPkFxsMR51izk8lLrtv) | 2:46 |
 | 5 | [SMILE BODY PRETTY FACE \(feat\. Kodak Black & YG\)](https://open.spotify.com/track/3kPefPjK6h9ZqcuihLDkvm) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [SMILE BODY PRETTY FACE \(feat\. Kodak Black & YG\)](https://open.spotify.com/album/7DoSh8nSOZTQGSQwNqSSRE) | 4:41 |

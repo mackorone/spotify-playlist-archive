@@ -4,7 +4,7 @@
 
 > The hottest 50 tracks in Algeria\. Cover: Numidia Lezoul
 
-264 songs - 15 hr 50 min
+265 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Deira](https://open.spotify.com/track/3mitUVB1ZpgpGYOEfbbQ33) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Deira](https://open.spotify.com/album/3DA0pd6Fz2sFusyrBJ8R5F) | 2:49 | 2024-03-04 | 2025-07-18 |
 | [Demain](https://open.spotify.com/track/1Msk9wZdpAWCTtMy6OSbTj) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Femme forte](https://open.spotify.com/album/1yvh0jrG804Om3izynaGKa) | 3:12 | 2023-09-02 | 2024-05-10 |
 | [Demain](https://open.spotify.com/track/6eJ04i64i90cgfsQpHXZpK) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Femme forte](https://open.spotify.com/album/1CbvtjDKMJDU7jSxXFHfhM) | 3:12 | 2023-10-17 | 2024-04-19 |
+| [Denia](https://open.spotify.com/track/1vqT1et6B9Cx8yaz56kcLp) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Zumawoed](https://open.spotify.com/artist/42FWGlRoQ1dHP17if3aFu5) | [Denia](https://open.spotify.com/album/3mN2RgIcV7UfvcDrldsdNu) | 3:15 | 2025-10-07 |  |
 | [Derti Rayek](https://open.spotify.com/track/1Vck33iJiUs7ccjGuRSRj9) | [Farid Kalamity](https://open.spotify.com/artist/39yugFhJbttHghij5dle5M), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Derti Rayek](https://open.spotify.com/album/0RYe21LKFQebUgtTyrk7Iq) | 4:12 | 2021-12-09 | 2022-04-22 |
 | [Desert Rose](https://open.spotify.com/track/4WhyHQ2BXi2VU1iaFbF6jv) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [Brand New Day](https://open.spotify.com/album/1r6NoADkFvVSpyFnJjcuLe) | 4:45 | 2022-12-07 | 2023-07-06 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-09-22 | 2025-03-31 |
@@ -81,7 +82,7 @@
 | [Djaya Djaya](https://open.spotify.com/track/7vvO018dZNQLvOLn6UyjdV) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Djaya Djaya](https://open.spotify.com/album/2v709QQ5sbdsbRpYMEEp3V) | 4:42 | 2023-05-27 | 2023-08-15 |
 | [Dounia](https://open.spotify.com/track/0RuXUc6UeufJkqvk8LIrIx) | [Rooofa](https://open.spotify.com/artist/2b3S53SuWwPB9kH5KvYZi8) | [Dounia](https://open.spotify.com/album/6wENSfn6GWCxj5gF8N4mFP) | 3:09 | 2022-03-10 | 2022-06-03 |
 | [Effet De L'Amour](https://open.spotify.com/track/505Hd8gE3feZFRu2TM6I7V) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Effet De L'amour](https://open.spotify.com/album/46n8pHuXoxEm9OdeiYfxSX) | 5:14 | 2023-02-06 | 2023-02-22 |
-| [El Ghira](https://open.spotify.com/track/5V2zIdJc8wVDkn8yza53QF) | [Cheb Cristal](https://open.spotify.com/artist/4OucPEDMUkYVhet2JqVHs6), [Hasna Elaazizi](https://open.spotify.com/artist/4eiZIVmnpwWyEjaGs1xBio) | [El Ghira](https://open.spotify.com/album/0kc537yKO4crc50nRqMWv8) | 5:19 | 2025-07-04 |  |
+| [El Ghira](https://open.spotify.com/track/5V2zIdJc8wVDkn8yza53QF) | [Cheb Cristal](https://open.spotify.com/artist/4OucPEDMUkYVhet2JqVHs6), [Hasna Elaazizi](https://open.spotify.com/artist/4eiZIVmnpwWyEjaGs1xBio) | [El Ghira](https://open.spotify.com/album/0kc537yKO4crc50nRqMWv8) | 5:19 | 2025-07-04 | 2025-10-08 |
 | [EL KHAYNA](https://open.spotify.com/track/6u9cTcjvEE0MDUxUKqwDd0) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [EL KHAYNA](https://open.spotify.com/album/6oq7Pz3U9QHr0r0Xey5Riq) | 3:40 | 2023-03-30 | 2024-02-10 |
 | [EL KHAYNA](https://open.spotify.com/track/3vAhuFK6NTHS2VzHGmyxLV) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj), [Mohamed Polyphene](https://open.spotify.com/artist/3tOjDEjeBvPyQ1atjrEcLl) | [EL KHAYNA](https://open.spotify.com/album/7F80CSWX5JAlPQ7ryWVt9x) | 3:40 | 2023-01-25 | 2023-03-31 |
 | [El Walida](https://open.spotify.com/track/72IaF2DNQpXfYVG349uPI6) | [Foufa Torino](https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Kader Japonais](https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe) | [El Walida](https://open.spotify.com/album/6KZu4hCRZdB3dtQc8ABbE2) | 4:10 | 2022-10-09 | 2023-01-11 |

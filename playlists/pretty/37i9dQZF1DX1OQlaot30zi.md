@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di 22simba e Marracash, Nayt, Poli Ok, Young Hash e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,380 likes - 101 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,387 likes - 101 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

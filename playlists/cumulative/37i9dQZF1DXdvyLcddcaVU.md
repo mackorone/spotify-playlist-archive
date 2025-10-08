@@ -4,7 +4,7 @@
 
 > \#fyp
 
-897 songs - 1 day 22 hr 43 min
+898 songs - 1 day 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -535,6 +535,7 @@
 | [Mec de la rue](https://open.spotify.com/track/65wLKpTngPpQ9zs8WBT3e8) | [Moubarak](https://open.spotify.com/artist/5E62kscxqQ6HRcRRsxm1n1) | [Mec de la rue](https://open.spotify.com/album/323w5jHskUoIN7ogHUqGu6) | 3:34 | 2025-05-02 | 2025-06-07 |
 | [Mec de Panam](https://open.spotify.com/track/3sj5hX2KIFn45hyaQax8fp) | [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [Mec de Panam](https://open.spotify.com/album/1mlTTdaE9cHTy9pfXwO4Oo) | 2:32 | 2025-07-09 | 2025-08-24 |
 | [Meet you at the Graveyard](https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 2:52 | 2024-01-12 | 2024-05-04 |
+| [melodrama](https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [melodrama](https://open.spotify.com/album/5wFsZ4iXAggxIVNZRJogvr) | 2:56 | 2025-10-07 |  |
 | [Melrose Place](https://open.spotify.com/track/0TYTQ9vAJM0q4qT1mzDeFq) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Melrose Place](https://open.spotify.com/album/0FAFFUdI9WV0PypgJLMkYP) | 2:36 | 2025-04-25 |  |
 | [Memories](https://open.spotify.com/track/4zNmCLywlODx6dhpjrBg7j) | [Fallon](https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I) | [Memories](https://open.spotify.com/album/0EOMZ8UjNt4jFHKK3xtO4c) | 1:39 | 2024-06-28 | 2024-09-18 |
 | [Menina de Vermelho](https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i) | [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU), [RAMONMIX](https://open.spotify.com/artist/0VG8uPYk0ymnDxundrTGZK), [The Ironix](https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm) | [Menina de Vermelho](https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s) | 2:31 | 2024-11-08 | 2025-02-22 |
@@ -824,7 +825,7 @@
 | [Tipo Nino Vs Kabrinha](https://open.spotify.com/track/1jxQFCC0ukN7AaUwXWK0N8) | [DJ Biel Divulga](https://open.spotify.com/artist/4nWyeZK6CbH0eAQ5tRWf9o), [DJ Dozabri](https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg), [Mc Lekão](https://open.spotify.com/artist/19yiaMgl4Z5TFhUNp7R1JJ) | [Tipo Nino Vs Kabrinha](https://open.spotify.com/album/3kdrIdpP89aiYsJW2e3BYH) | 3:21 | 2025-06-20 | 2025-08-30 |
 | [Titulaires](https://open.spotify.com/track/1OToHVdN93nhrEJcMEax6C) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [OCHO](https://open.spotify.com/album/5WWp49ZHB34eMwy5n856Jj) | 4:00 | 2023-03-24 | 2023-08-26 |
 | [TNF](https://open.spotify.com/track/0Vfir5TGvFgsctQJY9CnBM) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Capitaine fait de l'art](https://open.spotify.com/album/05YqDGZ0w5GCfvLb7TMoKT) | 2:17 | 2024-09-06 | 2025-01-18 |
-| [Toi et moi](https://open.spotify.com/track/6D8pnA3WyMrGy8Q2258BC0) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Toi et moi](https://open.spotify.com/album/7prFQUHqq5CDwXE5Org7uy) | 3:21 | 2025-08-04 |  |
+| [Toi et moi](https://open.spotify.com/track/6D8pnA3WyMrGy8Q2258BC0) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Toi et moi](https://open.spotify.com/album/7prFQUHqq5CDwXE5Org7uy) | 3:21 | 2025-08-04 | 2025-10-08 |
 | [Toi jamais](https://open.spotify.com/track/5Vep7odwkpVCfaOEoW1JHL) | [Oria](https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR) | [Toi jamais](https://open.spotify.com/album/43d31PbrDRhOnTalfHnkJJ) | 2:51 | 2025-09-11 |  |
 | [Toko dombi](https://open.spotify.com/track/4Hj36H5c7liPVqpDrGxTgJ) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Toko dombi](https://open.spotify.com/album/75HvvhWytuljxPOc6Asj2i) | 2:40 | 2024-03-22 | 2024-06-22 |
 | [Toto et Ninetta](https://open.spotify.com/track/4DMSNaJcSirQN31BSf2BeZ) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Inspi d'ailleurs](https://open.spotify.com/album/4YuyQlJ6qQ3yBJgkj4RmvA) | 3:31 | 2025-04-03 | 2025-04-19 |

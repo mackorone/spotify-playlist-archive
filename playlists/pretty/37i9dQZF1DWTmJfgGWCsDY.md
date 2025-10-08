@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania\. Cover: D Voice
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,386 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,405 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 63 | [Shobo](https://open.spotify.com/track/2JjBpdexI7ov1iDdfZPISk) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Shobo](https://open.spotify.com/album/1BXDsftgGPlLb7tGHCqquQ) | 3:06 |
 | 64 | [Tajiri Remix \(feat\. 2Fani & Chobamc\)](https://open.spotify.com/track/08gv96cmICLpxdxxrmUkJF) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd), [2Fani](https://open.spotify.com/artist/4j8ZLGMEsHVLQS0ncpueAD), [Chobamc](https://open.spotify.com/artist/5hhkDXKt5bvsLxvFdXuNDM) | [Tajiri Remix \(feat\. 2Fani & Chobamc\)](https://open.spotify.com/album/6qlqApXPZO4U4RojFkVeH7) | 4:52 |
 | 65 | [Chura](https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g) | [Snura](https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9) | [Chura](https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm) | 4:32 |
-| 66 | [Siyo Shida Zangu](https://open.spotify.com/track/2NBG2pKQynWx2IQ71rD2hz) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8), [Mchina Mweusi](https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe) | [Siyo Shida Zangu](https://open.spotify.com/album/44EjEEaqOQ7rKvUhkBnBwI) | 3:59 |
+| 66 | [Honey Wangu](https://open.spotify.com/track/3K0L27WGjjeQzJOm4tyhSh) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8) | [Honey Wangu](https://open.spotify.com/album/3oA5qxRsp7AVPPeYNBczNt) | 3:59 |
 | 67 | [Kijumbe](https://open.spotify.com/track/68I76ceLuHRfU9wqlA6wo4) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Kijumbe](https://open.spotify.com/album/2iQbLXbeyFsokSg0ENz5VR) | 3:29 |
 | 68 | [Wapambe](https://open.spotify.com/track/4YW7lRL207zKlGBPQak7pl) | [Elisha](https://open.spotify.com/artist/7beQHnSg083MMXTbHMN4yi), [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Wapambe](https://open.spotify.com/album/22slAeb6NP4Eq9Q5c8eOie) | 4:00 |
 | 69 | [Pisi](https://open.spotify.com/track/1tb1zxPaAkmFtvH1YFLKDH) | [Anjella](https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls) | [Pisi](https://open.spotify.com/album/3JPjYrhhQPdx30W3bgvAFq) | 3:40 |
 | 70 | [Jiangalie](https://open.spotify.com/track/70MUSJin8YD1Yt3MY6lh6Q) | [Nay Wa Mitego](https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Jiangalie](https://open.spotify.com/album/13ANj5VXI99symiSXYggqI) | 3:49 |
 | 71 | [Kupendwa Raha](https://open.spotify.com/track/6twtsEF7xRByZqBBpkqmgU) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T), [Dogo Jully](https://open.spotify.com/artist/1jX3XpeCyG71h63b4ZCnqJ) | [Kupendwa Raha](https://open.spotify.com/album/0rDfncO3eaAeEdGKdX8uWI) | 5:04 |
 | 72 | [Niite Mbwa](https://open.spotify.com/track/4QQ4T0JTPZo9r3oLKH519H) | [Shilole](https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6), [Mchina Mweusi](https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe) | [Niite Mbwa](https://open.spotify.com/album/1uxo0zn1wEVsPGxXX1htQ9) | 3:48 |
-| 73 | [Kua Uone](https://open.spotify.com/track/4gRo8rOkHiRhTYk1fz5ADd) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU), [Easy Man](https://open.spotify.com/artist/6mIxcMm0CZEezi8vDKdYXt) | [Kua Uone](https://open.spotify.com/album/3UsfjtKI2y7GmjoHxh5TIs) | 4:51 |
-| 74 | [Nimempost \- Remix](https://open.spotify.com/track/65bXqAf2Vz6NUK19RkBmZ1) | [Kidene Fighter](https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA), [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Nimempost \(Remix\)](https://open.spotify.com/album/2V5WxJD56nKXtyZWLwue2T) | 3:59 |
-| 75 | [Wee Wee](https://open.spotify.com/track/1ViX2vdIpIAnDYOJs6agc3) | [DJ Travella](https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW) | [Wee Wee](https://open.spotify.com/album/0aoFdkqRzD37EHINWBLAeL) | 3:48 |
+| 73 | [Nimempost \- Remix](https://open.spotify.com/track/65bXqAf2Vz6NUK19RkBmZ1) | [Kidene Fighter](https://open.spotify.com/artist/0ZIPH3FhzJYTmCMlZiSrLA), [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Nimempost \(Remix\)](https://open.spotify.com/album/2V5WxJD56nKXtyZWLwue2T) | 3:59 |
+| 74 | [Kua Uone](https://open.spotify.com/track/4gRo8rOkHiRhTYk1fz5ADd) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU), [Easy Man](https://open.spotify.com/artist/6mIxcMm0CZEezi8vDKdYXt) | [Kua Uone](https://open.spotify.com/album/3UsfjtKI2y7GmjoHxh5TIs) | 4:51 |
+| 75 | [Shemeji](https://open.spotify.com/track/5nFg4Fk4GtDV9N7cjUN6A6) | [Gigy Money](https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e) | [Shemeji](https://open.spotify.com/album/47v6siumRINvjj2CzonVxx) | 3:15 |
 
 Snapshot ID: `AAAAAILXy2BoRrCyez/bCxJSULxKe20S`

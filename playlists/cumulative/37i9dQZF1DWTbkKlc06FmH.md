@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,110 songs - 2 day 17 hr 23 min
+1,111 songs - 2 day 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 | 2024-10-09 | 2024-11-20 |
 | [I Like It I Like It](https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [I Like It I Like It](https://open.spotify.com/album/1xJLW4FSiXsJEhGq15s3oU) | 4:10 | 2025-05-13 | 2025-06-25 |
 | [I Need That](https://open.spotify.com/track/3rgnM3MBkpsuVeSwmtXYia) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [End of Time](https://open.spotify.com/album/6lRDlZ73raNJQKDXcUzdKU) | 2:30 | 2022-12-01 | 2023-05-23 |
+| [I Need U Back](https://open.spotify.com/track/2D7Bqzfa2pJqa0LUftrVgx) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 3:06 | 2025-10-01 |  |
 | [I WANNA 罠?](https://open.spotify.com/track/4s88PpuZHrawbHyEUfwyAy) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [I WANNA 罠?](https://open.spotify.com/album/5cUdH3PrCI4qwIw7oyyoAp) | 3:57 | 2023-08-01 | 2023-08-16 |
 | [I Want You Closer](https://open.spotify.com/track/3Yx5UHdgCfbrhXB4df3C7q) | [Funkindustry](https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX), [Toki Asako](https://open.spotify.com/artist/7HCxzXGpudb9CKiylh3nan) | [Midnight City Lovers](https://open.spotify.com/album/3q1iKXscaNhyb7jOyU787D) | 4:08 | 2023-06-15 | 2023-08-11 |
 | [I Will](https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [I Will](https://open.spotify.com/album/17YWNPXw7xDsLqC6ES3Ysj) | 2:29 | 2024-02-22 | 2025-03-12 |
@@ -502,7 +503,7 @@
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-02-05 |  |
 | [Love In The Way](https://open.spotify.com/track/3fWchdm3NfLb4licNeIhV7) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Love In The Way](https://open.spotify.com/album/4sc3Nc9o5sCni7SCPsKE4t) | 3:41 | 2022-10-20 | 2023-05-17 |
 | [Love Like A Bomb \(feat\. ひかり\)](https://open.spotify.com/track/3B7jBMQUFsIMhrMDOtB39p) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [透明なガール](https://open.spotify.com/album/41dcBEgqNyYH3ifvH2al28) | 3:27 | 2022-10-20 | 2022-11-09 |
-| [Love Like This](https://open.spotify.com/track/1eULGMOdkcFd3xTD1zh2f5) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Love Like This](https://open.spotify.com/album/2vPe5MKYCOM31HqnY0uZEw) | 4:20 | 2025-08-06 |  |
+| [Love Like This](https://open.spotify.com/track/1eULGMOdkcFd3xTD1zh2f5) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Love Like This](https://open.spotify.com/album/2vPe5MKYCOM31HqnY0uZEw) | 4:20 | 2025-08-06 | 2025-10-08 |
 | [LOVE MAKE](https://open.spotify.com/track/308zMDLftUjMlZkODGUWvd) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [LOVE MAKE](https://open.spotify.com/album/7ksQrL66SNuch6lmxIlVzJ) | 3:34 | 2024-08-07 | 2024-08-31 |
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-05-01 |  |
 | [LOVE NEVER FELT LIKE THIS](https://open.spotify.com/track/2h3slSQMBstt11fys4CFYb) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:55 | 2024-02-22 | 2024-03-28 |

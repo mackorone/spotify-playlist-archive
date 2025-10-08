@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABFV9eWuSU3RnVgFrUVcxgW",
+  "snapshot_id": "AAAAAAAAAAASplj1JDlW/3LsowZbfGcH",
   "tracks": [
     {
       "added_at": "2025-10-03 04:00:00",
@@ -31,6 +31,22 @@
     {
       "added_at": "2025-10-03 04:00:00",
       "album": {
+        "name": "I Shouldn't",
+        "url": "https://open.spotify.com/album/0VRO7IxZ0hqSgMOCrr1Vme"
+      },
+      "artists": [
+        {
+          "name": "Beats By AI",
+          "url": "https://open.spotify.com/artist/2VL0G8nTevMkOCc1cPWu5i"
+        }
+      ],
+      "duration_ms": 183759,
+      "name": "I Shouldn't",
+      "url": "https://open.spotify.com/track/2qAD1VwtCgQXaa5eiyCBsf"
+    },
+    {
+      "added_at": "2025-10-03 04:00:00",
+      "album": {
         "name": "Mystique",
         "url": "https://open.spotify.com/album/7cYcmdgZ8nKLZvVoNOmn2a"
       },
@@ -51,22 +67,6 @@
       "duration_ms": 202954,
       "name": "Mystique",
       "url": "https://open.spotify.com/track/1VSso7PgX19YJJiwhHPL5P"
-    },
-    {
-      "added_at": "2025-10-03 04:00:00",
-      "album": {
-        "name": "I Shouldn't",
-        "url": "https://open.spotify.com/album/0VRO7IxZ0hqSgMOCrr1Vme"
-      },
-      "artists": [
-        {
-          "name": "Beats By AI",
-          "url": "https://open.spotify.com/artist/2VL0G8nTevMkOCc1cPWu5i"
-        }
-      ],
-      "duration_ms": 183759,
-      "name": "I Shouldn't",
-      "url": "https://open.spotify.com/track/2qAD1VwtCgQXaa5eiyCBsf"
     },
     {
       "added_at": "2025-10-03 04:00:00",
@@ -187,6 +187,26 @@
     {
       "added_at": "2025-10-03 04:00:00",
       "album": {
+        "name": "Roulette",
+        "url": "https://open.spotify.com/album/3ri9BvsRSttcqo5i4ofKME"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Kaya Thomas-Dyke",
+          "url": "https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE"
+        }
+      ],
+      "duration_ms": 208880,
+      "name": "Always Be (feat. Kaya Thomas-Dyke)",
+      "url": "https://open.spotify.com/track/58SELDL70hm66Oy4fwzBFM"
+    },
+    {
+      "added_at": "2025-10-03 04:00:00",
+      "album": {
         "name": "Stereo (High Contrast Remix)",
         "url": "https://open.spotify.com/album/5U3FU97oxVxPWARM6Ltqbq"
       },
@@ -211,26 +231,6 @@
       "duration_ms": 221187,
       "name": "Stereo (High Contrast Remix)",
       "url": "https://open.spotify.com/track/0rFFjLdIq4SlFAZvKXrPUR"
-    },
-    {
-      "added_at": "2025-10-03 04:00:00",
-      "album": {
-        "name": "Roulette",
-        "url": "https://open.spotify.com/album/3ri9BvsRSttcqo5i4ofKME"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        },
-        {
-          "name": "Kaya Thomas-Dyke",
-          "url": "https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE"
-        }
-      ],
-      "duration_ms": 208880,
-      "name": "Always Be (feat. Kaya Thomas-Dyke)",
-      "url": "https://open.spotify.com/track/58SELDL70hm66Oy4fwzBFM"
     },
     {
       "added_at": "2025-10-03 04:00:00",
@@ -267,26 +267,6 @@
       "duration_ms": 484779,
       "name": "War Pigs - Charity Version",
       "url": "https://open.spotify.com/track/14M0JWFCnsKNGSvzDn0j6q"
-    },
-    {
-      "added_at": "2025-10-03 04:00:00",
-      "album": {
-        "name": "Golden (Goes Metal)",
-        "url": "https://open.spotify.com/album/5i4bEqBHZTkxAcq6619icq"
-      },
-      "artists": [
-        {
-          "name": "Anthony Vincent",
-          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
-        },
-        {
-          "name": "Artificial Fear",
-          "url": "https://open.spotify.com/artist/1CFxbBr11nVJSQ0lB9RPgr"
-        }
-      ],
-      "duration_ms": 212332,
-      "name": "Golden (Goes Metal)",
-      "url": "https://open.spotify.com/track/4qeRXoKDj8BfEnrbBc7yNq"
     },
     {
       "added_at": "2025-10-03 04:00:00",
@@ -351,26 +331,6 @@
     {
       "added_at": "2025-10-03 04:00:00",
       "album": {
-        "name": "Here For It All",
-        "url": "https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 224788,
-      "name": "Play This Song (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P"
-    },
-    {
-      "added_at": "2025-10-03 04:00:00",
-      "album": {
         "name": "ROLLIN",
         "url": "https://open.spotify.com/album/0PBa3a98a38IPY1MmIWXb0"
       },
@@ -423,6 +383,26 @@
     {
       "added_at": "2025-10-03 04:00:00",
       "album": {
+        "name": "Here For It All",
+        "url": "https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 224788,
+      "name": "Play This Song (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P"
+    },
+    {
+      "added_at": "2025-10-03 04:00:00",
+      "album": {
         "name": "Zunge 2025",
         "url": "https://open.spotify.com/album/5LbNzPH6EUnBPl0E2up8FN"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 212387,
       "name": "Prostitution",
       "url": "https://open.spotify.com/track/4hDxks1OWDJ2R7rpwLQ5sx"
+    },
+    {
+      "added_at": "2025-10-03 04:00:00",
+      "album": {
+        "name": "Golden (Goes Metal)",
+        "url": "https://open.spotify.com/album/5i4bEqBHZTkxAcq6619icq"
+      },
+      "artists": [
+        {
+          "name": "Anthony Vincent",
+          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
+        },
+        {
+          "name": "Artificial Fear",
+          "url": "https://open.spotify.com/artist/1CFxbBr11nVJSQ0lB9RPgr"
+        }
+      ],
+      "duration_ms": 212332,
+      "name": "Golden (Goes Metal)",
+      "url": "https://open.spotify.com/track/4qeRXoKDj8BfEnrbBc7yNq"
     },
     {
       "added_at": "2025-10-03 04:00:00",
@@ -459,26 +459,6 @@
     {
       "added_at": "2025-10-03 04:00:00",
       "album": {
-        "name": "Dali Aint Dead",
-        "url": "https://open.spotify.com/album/1HuCKrd8tmPoWu75gRAuH2"
-      },
-      "artists": [
-        {
-          "name": "Zelooperz",
-          "url": "https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8"
-        },
-        {
-          "name": "Zack Fox",
-          "url": "https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS"
-        }
-      ],
-      "duration_ms": 102295,
-      "name": "Push Me Around",
-      "url": "https://open.spotify.com/track/1IO1X0d6SpveTXNOZI6T9j"
-    },
-    {
-      "added_at": "2025-10-03 04:00:00",
-      "album": {
         "name": "She's the One (with Surfer Girl & Tropidelic)",
         "url": "https://open.spotify.com/album/5wuPyXzlUfPTFDdOIXjoFC"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 194280,
       "name": "She's the One (with Surfer Girl & Tropidelic)",
       "url": "https://open.spotify.com/track/7erVJFuGtHC9p7VvuMqxx4"
+    },
+    {
+      "added_at": "2025-10-03 04:00:00",
+      "album": {
+        "name": "Dali Aint Dead",
+        "url": "https://open.spotify.com/album/1HuCKrd8tmPoWu75gRAuH2"
+      },
+      "artists": [
+        {
+          "name": "Zelooperz",
+          "url": "https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8"
+        },
+        {
+          "name": "Zack Fox",
+          "url": "https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS"
+        }
+      ],
+      "duration_ms": 102295,
+      "name": "Push Me Around",
+      "url": "https://open.spotify.com/track/1IO1X0d6SpveTXNOZI6T9j"
     },
     {
       "added_at": "2025-10-03 04:00:00",

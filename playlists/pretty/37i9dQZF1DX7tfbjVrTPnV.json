@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Shelby Lynne",
-  "num_followers": 230635,
+  "num_followers": 230661,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,26 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "They're Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
+        }
+      ],
+      "duration_ms": 229893,
+      "name": "Calling Me Home (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Southern Family",
         "url": "https://open.spotify.com/album/2cKzkXbgcoQjaFMCPbJDdi"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 373266,
       "name": "You Are My Sunshine (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "They're Calling Me Home (with Francesco Turrisi)",
-        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Francesco Turrisi",
-          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
-        }
-      ],
-      "duration_ms": 229893,
-      "name": "Calling Me Home (with Francesco Turrisi)",
-      "url": "https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Too Blessed to Be Stressed",
-        "url": "https://open.spotify.com/album/5ijCn137sHy33W2TvoOM0p"
-      },
-      "artists": [
-        {
-          "name": "Paul Thorn",
-          "url": "https://open.spotify.com/artist/20GkA5r78JwVBtZ4tNtriJ"
-        }
-      ],
-      "duration_ms": 284253,
-      "name": "Everything's Gonna Be Alright",
-      "url": "https://open.spotify.com/track/2cAAnvrlJr4Jg7DhvWZ9T5"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Big Day in a Small Town",
         "url": "https://open.spotify.com/album/5WT3uq1m6c85ydroGQwqXl"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 177560,
       "name": "Drinkin' Smokin' Cheatin'",
       "url": "https://open.spotify.com/track/3uBk6ji6nxUC81ndX2DXsb"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Too Blessed to Be Stressed",
+        "url": "https://open.spotify.com/album/5ijCn137sHy33W2TvoOM0p"
+      },
+      "artists": [
+        {
+          "name": "Paul Thorn",
+          "url": "https://open.spotify.com/artist/20GkA5r78JwVBtZ4tNtriJ"
+        }
+      ],
+      "duration_ms": 284253,
+      "name": "Everything's Gonna Be Alright",
+      "url": "https://open.spotify.com/track/2cAAnvrlJr4Jg7DhvWZ9T5"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Wynonna & The Big Noise",
-        "url": "https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA"
-      },
-      "artists": [
-        {
-          "name": "Wynonna",
-          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
-        },
-        {
-          "name": "Derek Trucks",
-          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
-        }
-      ],
-      "duration_ms": 251826,
-      "name": "Keeps Me Alive",
-      "url": "https://open.spotify.com/track/3Zw3tkUMENvM9uMCKZVxWv"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "They're Calling Me Home (with Francesco Turrisi)",
         "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 298520,
       "name": "I Shall Not Be Moved (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/03HGmuDW5iVxZwbUfXagbr"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Wynonna & The Big Noise",
+        "url": "https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA"
+      },
+      "artists": [
+        {
+          "name": "Wynonna",
+          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
+        },
+        {
+          "name": "Derek Trucks",
+          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
+        }
+      ],
+      "duration_ms": 251826,
+      "name": "Keeps Me Alive",
+      "url": "https://open.spotify.com/track/3Zw3tkUMENvM9uMCKZVxWv"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "The Damage",
-        "url": "https://open.spotify.com/album/4nDGBeKD6H3WJdzp3difOu"
-      },
-      "artists": [
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        }
-      ],
-      "duration_ms": 241739,
-      "name": "The Damage",
-      "url": "https://open.spotify.com/track/1vrPTLdGbLQjGo5mACEkqw"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Can't Be There Today",
         "url": "https://open.spotify.com/album/71bCOP5okbh8Gw5x5mc5m8"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 224000,
       "name": "Can't Be There Today",
       "url": "https://open.spotify.com/track/1djMyPP3cehzcLzwUyztXF"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "The Damage",
+        "url": "https://open.spotify.com/album/4nDGBeKD6H3WJdzp3difOu"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        }
+      ],
+      "duration_ms": 241739,
+      "name": "The Damage",
+      "url": "https://open.spotify.com/track/1vrPTLdGbLQjGo5mACEkqw"
     },
     {
       "added_at": "2024-08-30 04:00:00",

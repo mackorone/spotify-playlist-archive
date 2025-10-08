@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > slap house on repeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,500 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,486 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 27 | [Secrets](https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [ONESOLO](https://open.spotify.com/artist/1zhps6aH53JjtqP1ZeCfWh) | [Secrets](https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov) | 2:38 |
 | 28 | [Sweet Dreams \(feat\. Imanbek\)](https://open.spotify.com/track/5mnidOH84oGj82xBcypP2j) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams \(feat\. Imanbek\) \[Remixes\]](https://open.spotify.com/album/5LKrGd8oU56PLe793imghr) | 2:20 |
 | 29 | [BBA \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/2is7SQVl0417fY8Cw56Jkf) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 2:55 |
-| 30 | [Gangsta's Paradise](https://open.spotify.com/track/6Cm7r5U5igaAnwKOWjFhTq) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [Bodybangers](https://open.spotify.com/artist/7koJQAjVzXoUpH6pXrihXA), [Lotus](https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b) | [Gangsta's Paradise](https://open.spotify.com/album/5miAnRqv7eWbmgY4nK7jU9) | 2:48 |
-| 31 | [1001 Arabian Nights](https://open.spotify.com/track/3YmiKv5z67ZV8tiW1eNHCM) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ), [Chipz](https://open.spotify.com/artist/770rU18or2uAGT21xyvpzp) | [1001 Arabian Nights](https://open.spotify.com/album/6yGgrWVZENV6IQCCpxZQRI) | 2:54 |
+| 30 | [1001 Arabian Nights](https://open.spotify.com/track/3YmiKv5z67ZV8tiW1eNHCM) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ), [Chipz](https://open.spotify.com/artist/770rU18or2uAGT21xyvpzp) | [1001 Arabian Nights](https://open.spotify.com/album/6yGgrWVZENV6IQCCpxZQRI) | 2:54 |
+| 31 | [Gangsta's Paradise](https://open.spotify.com/track/6Cm7r5U5igaAnwKOWjFhTq) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [Bodybangers](https://open.spotify.com/artist/7koJQAjVzXoUpH6pXrihXA), [Lotus](https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b) | [Gangsta's Paradise](https://open.spotify.com/album/5miAnRqv7eWbmgY4nK7jU9) | 2:48 |
 | 32 | [Big Hoops](https://open.spotify.com/track/29jqFjb8D3GvGjWcCnl4IJ) | [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv), [LEOWI](https://open.spotify.com/artist/1qoalO0xHFgZRn4JhRuq7Y) | [Big Hoops](https://open.spotify.com/album/4tBx7yPE2YtUqXrLldEghH) | 2:19 |
 | 33 | [SexyBack](https://open.spotify.com/track/0dWdBtUyXGPwfGJAXvYMtH) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR), [Fella](https://open.spotify.com/artist/0dm0kGiPyhp2mps5nutUUa) | [SexyBack](https://open.spotify.com/album/2xPDZMLbA4poen2LaRfdAr) | 2:36 |
 | 34 | [Outta Love](https://open.spotify.com/track/0oLBr0Knuo63yDvnq3f5U3) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [TEN TONNE SKELETON](https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA) | [Outta Love](https://open.spotify.com/album/59FlDwNsfaskGibimitsIm) | 2:44 |

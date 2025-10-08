@@ -1297,6 +1297,28 @@
     },
     {
       "album": {
+        "name": "Denia",
+        "url": "https://open.spotify.com/album/3mN2RgIcV7UfvcDrldsdNu"
+      },
+      "artists": [
+        {
+          "name": "Djalil Palermo",
+          "url": "https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX"
+        },
+        {
+          "name": "Zumawoed",
+          "url": "https://open.spotify.com/artist/42FWGlRoQ1dHP17if3aFu5"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Denia",
+      "url": "https://open.spotify.com/track/1vqT1et6B9Cx8yaz56kcLp"
+    },
+    {
+      "album": {
         "name": "Derti Rayek",
         "url": "https://open.spotify.com/album/0RYe21LKFQebUgtTyrk7Iq"
       },
@@ -1486,7 +1508,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 319425,
       "name": "El Ghira",
       "url": "https://open.spotify.com/track/5V2zIdJc8wVDkn8yza53QF"

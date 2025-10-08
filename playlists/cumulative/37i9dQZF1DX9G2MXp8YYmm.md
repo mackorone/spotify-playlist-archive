@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Berkay Altunyay
 
-396 songs - 19 hr 50 min
+397 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [GECELERDE](https://open.spotify.com/track/2W1lqgFE5bW3RyLyilTfF2) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [GECELERDE](https://open.spotify.com/album/6GGM3YG5GEtvv0zrdNySxs) | 2:27 | 2025-05-29 |  |
 | [Geceleri Aldım Senden](https://open.spotify.com/track/5pCpGzPoGgkGyLSEk8EeZJ) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Geceleri Aldım Senden](https://open.spotify.com/album/79bx4sLIm1zNUvWLKI9n5C) | 3:31 | 2025-08-07 |  |
 | [Gelsen Ölür müsün?](https://open.spotify.com/track/0bsGav7YJae1SRnNKCOVxh) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B), [Hanao](https://open.spotify.com/artist/4GGm4WCSO8lXb4Z3YvoneL) | [Gelsen Ölür müsün?](https://open.spotify.com/album/7D2ZK58DhumOgvxo3pwIFV) | 3:23 | 2025-09-04 |  |
-| [Gemiler \- Ozan Bayraşa](https://open.spotify.com/track/33Zta5czbTRQS8SIRu3vLN) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 2:57 | 2025-06-26 |  |
+| [Gemiler \- Ozan Bayraşa](https://open.spotify.com/track/33Zta5czbTRQS8SIRu3vLN) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 2:57 | 2025-06-26 | 2025-10-08 |
 | [Geçiyor Zaman](https://open.spotify.com/track/3ma4Ef3Bnl3UBOV4ShiMLX) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:38 | 2024-08-08 | 2025-08-01 |
 | [Geçsin Yıllar](https://open.spotify.com/track/5CiycCVVt7vLJyMw1MVfzS) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i), [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Geçsin Yıllar](https://open.spotify.com/album/5vc7GUQqWQ2zZS3CffxRmx) | 3:27 | 2025-05-09 | 2025-08-01 |
 | [Gidelim Mi Buralardan](https://open.spotify.com/track/2vsqjcIGoGK4opKEhVWqf0) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Gidelim Mi Buralardan](https://open.spotify.com/album/6J3syGa0knTEtQnndxxAfa) | 2:40 | 2024-08-06 | 2025-01-22 |
@@ -176,6 +176,7 @@
 | [Halim](https://open.spotify.com/track/06mKAmOzCoaBxyvRRr8U6L) | [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Halim](https://open.spotify.com/album/6tx8KRugMjbWQc7AlcKMXU) | 3:52 | 2025-05-08 | 2025-05-23 |
 | [Hallederiz](https://open.spotify.com/track/1amWETYioLvJ8rBJ60XmD9) | [Sezer Sarıgöz](https://open.spotify.com/artist/4itYEciRGKzdy6XwBQeaYl) | [Hallederiz](https://open.spotify.com/album/1POH7nVd2kQVlq6tDj7lWQ) | 2:35 | 2024-09-12 | 2024-09-27 |
 | [Hançer](https://open.spotify.com/track/3czQaxqJhJeFiSg8cyDdYY) | [Rıza Tamer](https://open.spotify.com/artist/6QG6gseQYnxZfSoq42yINJ) | [Hançer](https://open.spotify.com/album/3eBFwB3r5XWaWMmfezQLFy) | 2:33 | 2025-07-31 | 2025-08-30 |
+| [Hayat](https://open.spotify.com/track/3qTboWQnCNNMPCiB5joB3I) | [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj) | [Hayat](https://open.spotify.com/album/15Flt1aydh9h6SLtIPAabK) | 3:24 | 2025-09-25 |  |
 | [Hayat Gelir Ağır Ağır](https://open.spotify.com/track/0uW1vxBFNOmNlHXgHx5CEe) | [Sezer Sarıgöz](https://open.spotify.com/artist/4itYEciRGKzdy6XwBQeaYl) | [Hayat Gelir Ağır Ağır](https://open.spotify.com/album/5zJqF6htYIU7ViaskiTklG) | 2:38 | 2025-01-31 | 2025-03-06 |
 | [Hayat Oyunu](https://open.spotify.com/track/7kKFuo8oXLGeaYr69bNDcE) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Hayat Oyunu](https://open.spotify.com/album/615p1fQHcVD9BiDyGYmpgJ) | 3:48 | 2024-06-27 | 2025-02-07 |
 | [Haybeden](https://open.spotify.com/track/0FHOupsqeuju8lxk8Y0zRZ) | [Gökçe Kırgız Taner](https://open.spotify.com/artist/4ByD5ORLo9bbAzCJA8PnSd) | [Kendime](https://open.spotify.com/album/2DzutanSlouqXHHxHqQ1I0) | 3:24 | 2024-07-11 | 2024-07-24 |

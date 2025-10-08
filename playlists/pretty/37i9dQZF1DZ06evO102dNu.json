@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1217943,
+  "num_followers": 1218013,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAAApb/VmToAABEppKqQJtp+5",
+  "snapshot_id": "aOMGgAAAAABHKim1xB9hyUOwzAvfubH7",
   "tracks": [
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Where Are You? (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Autumn Leaves - Remastered 1999",
+      "url": "https://open.spotify.com/track/1Yv6PMPkvLdCIFbm9kanaz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nothing But The Best (2008 Remastered)",
         "url": "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 194040,
       "name": "The Girl From Ipanema - 2008 Remastered",
       "url": "https://open.spotify.com/track/3NdHYXQK5gkFFEZvSMVVj6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where Are You? (Remastered / Expanded Edition)",
-        "url": "https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Autumn Leaves - Remastered 1999",
-      "url": "https://open.spotify.com/track/1Yv6PMPkvLdCIFbm9kanaz"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trilogy: Past, Present & Future",
-        "url": "https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe"
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 234666,
-      "name": "It Had To Be You",
-      "url": "https://open.spotify.com/track/0Ab4lEHfPY98aqtQrKQbUu"
+      "duration_ms": 172920,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/0IU7UJ9nknVKWlHCECHVQw"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
+        "name": "Trilogy: Past, Present & Future",
+        "url": "https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 172920,
-      "name": "All The Way",
-      "url": "https://open.spotify.com/track/0IU7UJ9nknVKWlHCECHVQw"
+      "duration_ms": 234666,
+      "name": "It Had To Be You",
+      "url": "https://open.spotify.com/track/0Ab4lEHfPY98aqtQrKQbUu"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 173503,
-      "name": "Witchcraft",
-      "url": "https://open.spotify.com/track/7HH8xXMzlPp5BRVqySUVbl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sinatra \u201965",
         "url": "https://open.spotify.com/album/22dAgxWXl4mZ8L3O0YPMkA"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 188066,
       "name": "My Kind Of Town",
       "url": "https://open.spotify.com/track/4beDjVImBfBTSaFM7dKNEy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 173503,
+      "name": "Witchcraft",
+      "url": "https://open.spotify.com/track/7HH8xXMzlPp5BRVqySUVbl"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Fly With Me (Expanded Edition)",
-        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 134066,
-      "name": "Chicago - Remastered",
-      "url": "https://open.spotify.com/track/6uayMGc7bnH9ZPk46APSS3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ol' Blue Eyes Is Back",
         "url": "https://open.spotify.com/album/7rume1B0CM3J35YeAYq0zu"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 211066,
       "name": "Let Me Try Again (Laisse Moi le Temps)",
       "url": "https://open.spotify.com/track/3unwkk28BubxXKFNzVGHMY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Fly With Me (Expanded Edition)",
+        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 134066,
+      "name": "Chicago - Remastered",
+      "url": "https://open.spotify.com/track/6uayMGc7bnH9ZPk46APSS3"
     },
     {
       "added_at": null,

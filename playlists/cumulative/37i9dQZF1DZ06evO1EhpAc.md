@@ -4,7 +4,7 @@
 
 > This is Yaeji\. The essential tracks, all in one playlist.
 
-49 songs - 2 hr 46 min
+50 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [I'll Remember For Me, I'll Remember For You](https://open.spotify.com/track/4TQTxlRQkVkQAtRkZvtlSS) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 2:02 | 2023-05-02 |  |
 | [IN PLACE 그자리 그대로](https://open.spotify.com/track/5xjgp6pOneryUl6w3pWS1u) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM) | 2:20 | 2023-05-02 | 2023-06-28 |
 | [In Your Fantasy \(Yaeji Ver.\)](https://open.spotify.com/track/4NZV1sYGV59U4wy5YdHYsE) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [In Your Fantasy \(Remix\)](https://open.spotify.com/album/50Y11BDvO8tZf453abGL8Q) | 3:22 | 2025-07-16 |  |
+| [Mine or Yours \(Yaeji Remix\)](https://open.spotify.com/track/3FV0YFGD7tTqhMbwm3oTgM) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Mine or Yours \(Yaeji Remix\)](https://open.spotify.com/album/0lMxf0CKJDFeN1U6cTnawv) | 4:15 | 2025-10-08 |  |
 | [Mirror \(feat\. Jessy Lanza & Yaeji\)](https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Mirror \(feat\. Jessy Lanza & Yaeji\)](https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk) | 2:48 | 2025-05-07 |  |
 | [MONEY CAN'T BUY](https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 2:50 | 2023-06-21 |  |
 | [MY IMAGINATION 상상](https://open.spotify.com/track/2WWtQEsjxl7cVKx352Z40D) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM) | 2:20 | 2023-05-02 | 2024-04-07 |

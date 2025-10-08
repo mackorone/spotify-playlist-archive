@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Rock para cantar en todos lados! José Madero en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,712 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,739 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 33 | [claroqno](https://open.spotify.com/track/5kEYcU75XZeEebiPy3XpcT) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [claroqno](https://open.spotify.com/album/63hfVh7t6qaeyBKYO8wbI7) | 2:34 |
 | 34 | [La Puerta](https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Puerta](https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH) | 3:03 |
 | 35 | [110](https://open.spotify.com/track/3rVpThjjBGHOVAwwgIPDwo) | [Taburete](https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT) | [110](https://open.spotify.com/album/4lgpR29bBKMA7yObp1zf2c) | 2:56 |
-| 36 | [El Méndigo Día Del Padre](https://open.spotify.com/track/6KwKCsC05vg2RbhF5rVmc3) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw), [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [El Méndigo Día Del Padre](https://open.spotify.com/album/5h5eVaiuXPxfUfxgFOPuE9) | 4:26 |
-| 37 | [El Último Día de Nuestras Vidas](https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [El Último Día de Nuestras Vidas](https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a) | 3:46 |
+| 36 | [El Último Día de Nuestras Vidas](https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [El Último Día de Nuestras Vidas](https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a) | 3:46 |
+| 37 | [El Méndigo Día Del Padre](https://open.spotify.com/track/6KwKCsC05vg2RbhF5rVmc3) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw), [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [El Méndigo Día Del Padre](https://open.spotify.com/album/5h5eVaiuXPxfUfxgFOPuE9) | 4:26 |
 | 38 | [Lo bien que suenas](https://open.spotify.com/track/22midBO4e4rfuu1AVRDXQ2) | [ELYELLA](https://open.spotify.com/artist/7JrMDzLZQ25BJwc4tD8jl8), [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [Lo bien que suenas](https://open.spotify.com/album/4fqJ4Bvyb6Xawoj3z8NvFy) | 3:30 |
 | 39 | [Amanecidos](https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Tormentas Inesperadas](https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl) | 4:24 |
 | 40 | [Aeropuerto](https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Aeropuerto](https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn) | 3:32 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 53 | [Que nadie me llore](https://open.spotify.com/track/2vCDuKqfm1yWz1znIU2uEd) | [Funambulista](https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U), [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ) | [Que nadie me llore](https://open.spotify.com/album/7BXY4JP64W7KwKR2hJU1MZ) | 3:30 |
 | 54 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 |
 | 55 | [Contradicción](https://open.spotify.com/track/2vCQG5PSjoJnfFnij0TdAc) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Contradicción](https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y) | 4:56 |
-| 56 | [Te Recuerdo](https://open.spotify.com/track/2ikjBKxuPxgNjgeW1hRHKd) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Te Recuerdo](https://open.spotify.com/album/0WIaqkRmsHjaUE5MxI4KEp) | 3:36 |
-| 57 | [sin nada](https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [sin nada](https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD) | 2:34 |
+| 56 | [sin nada](https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [sin nada](https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD) | 2:34 |
+| 57 | [Te Recuerdo](https://open.spotify.com/track/2ikjBKxuPxgNjgeW1hRHKd) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Te Recuerdo](https://open.spotify.com/album/0WIaqkRmsHjaUE5MxI4KEp) | 3:36 |
 | 58 | [Quito](https://open.spotify.com/track/5I7HzntcnFHekSHJNrngcn) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [Quito](https://open.spotify.com/album/3R4TPnl5iUd2lXL8zMO4pY) | 2:59 |
 | 59 | [Secuaz \- Noches de Salón](https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Secuaz \(Noches de Salón\)](https://open.spotify.com/album/59oxNypujXRCd5gCKDp5MD) | 3:57 |
 | 60 | [Quiero saber si es amor \(feat\. Joy\)](https://open.spotify.com/track/7eCEgiZZkQXtLtfZWaOBOv) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN), [Joy](https://open.spotify.com/artist/6iH6aIbOCOdO3Ja6JeyOm1) | [Quiero saber si es amor \(feat\. Joy\)](https://open.spotify.com/album/33hSdcOl6uiBMEtmRvAVGx) | 4:27 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 71 | [Te Desenamoraste](https://open.spotify.com/track/5A20iH28ulrJ8U3WfCmsJM) | [Drake Bell](https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne) | [Te Desenamoraste](https://open.spotify.com/album/7LKSwnfdobqRHjOtUHMn1D) | 2:42 |
 | 72 | [Cuando Te Dejan De Querer](https://open.spotify.com/track/2mWtH6oDhBg0tcM2joSVpj) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Cuando Te Dejan De Querer](https://open.spotify.com/album/0kuoEBCDBA3GVKycgN1Si0) | 2:35 |
 | 73 | [Pensamientos Intrusivos](https://open.spotify.com/track/17KcNyZQ0tLSloefQFKskl) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Pensamientos Intrusivos](https://open.spotify.com/album/7hgxTp99yKwlzXDZgV6O8I) | 2:43 |
-| 74 | [10 Minutos \- 25 Aniversario](https://open.spotify.com/track/6QRdgGh1GicCA7VEqwF33g) | [Efecto Mariposa](https://open.spotify.com/artist/2fFrIDTV1Tk8MwAv4OJiY5), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [10 Minutos \(25 Aniversario\)](https://open.spotify.com/album/0rGZNA5XTX7nxAxDfTiaBO) | 4:17 |
-| 75 | [Quisiera Ser Como Tú](https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 3:50 |
+| 74 | [Quisiera Ser Como Tú](https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 3:50 |
+| 75 | [10 Minutos \- 25 Aniversario](https://open.spotify.com/track/6QRdgGh1GicCA7VEqwF33g) | [Efecto Mariposa](https://open.spotify.com/artist/2fFrIDTV1Tk8MwAv4OJiY5), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [10 Minutos \(25 Aniversario\)](https://open.spotify.com/album/0rGZNA5XTX7nxAxDfTiaBO) | 4:17 |
 
 Snapshot ID: `AAAAAI1uwTJ26HO3I+wpH0No/53Z1Wmk`

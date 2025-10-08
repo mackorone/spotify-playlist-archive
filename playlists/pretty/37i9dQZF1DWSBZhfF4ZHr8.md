@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Eloïz
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,296 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,306 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 4 | [Restes d'averses \- Regretting You Version](https://open.spotify.com/track/0unmCsoTMN5pVdIrZYUWc9) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Restes d'averses \(Regretting You Version\)](https://open.spotify.com/album/7fQD6Hers82Ox6xjguDqlZ) | 2:53 |
 | 5 | [ça pik un peu quand même](https://open.spotify.com/track/5pbOI0KItebrpL6UeQKs7A) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [ça pik un peu quand même](https://open.spotify.com/album/5iYukIto4dPaIxDVzgiq2p) | 2:17 |
 | 6 | [Mille fois](https://open.spotify.com/track/3uTr4TDHAfkpO2uR1HjtsN) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Mille fois](https://open.spotify.com/album/4KaoGdfF2k4RUhErCHDzUU) | 2:53 |
-| 7 | [la maison](https://open.spotify.com/track/6LwRx3YAwMp3VmDxAHVpP6) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [grandir](https://open.spotify.com/album/081gGbY0tkx9wYxbORdgA7) | 2:33 |
+| 7 | [la maison](https://open.spotify.com/track/6LwRx3YAwMp3VmDxAHVpP6) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [grandir](https://open.spotify.com/album/081gGbY0tkx9wYxbORdgA7) | 2:34 |
 | 8 | [Le Chat](https://open.spotify.com/track/0q6S6yapqNjnSf7nI2Uefu) | [Léman](https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ) | [Le Chat](https://open.spotify.com/album/2AyYke5GEOTarDD72dkkdi) | 3:13 |
 | 9 | [Chiens](https://open.spotify.com/track/51qMciprNwFso3R3XioUUu) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Chiens](https://open.spotify.com/album/0xlKFgR6BT4drhj22kvqJG) | 3:02 |
 | 10 | [Ça va \(quand même\) \(feat\. Soprano\)](https://open.spotify.com/track/28pSl3TSdBUHY1vIrjVD4T) | [Julien Lieb](https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i), [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Naufragé](https://open.spotify.com/album/6Tl529HhyHytN5UG1iBCMf) | 2:48 |

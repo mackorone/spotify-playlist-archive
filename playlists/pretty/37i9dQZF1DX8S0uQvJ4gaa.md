@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Carter Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,306,338 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,306,344 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 15 | [Let The Lonely](https://open.spotify.com/track/6WgBtsykRW7F0C7Qf7rhj4) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Let The Lonely](https://open.spotify.com/album/4u9BR3AFUBH4Pn7UltwH0L) | 3:18 |
 | 16 | [Turned Into Missing You \(feat\. Avery Anna\)](https://open.spotify.com/track/26TUtftIahxUIEfQwmVR6I) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Turned Into Missing You \(feat\. Avery Anna\)](https://open.spotify.com/album/18oAslPfCIwuEWqY4qpu7a) | 3:39 |
 | 17 | [Shovel](https://open.spotify.com/track/0RAJTCyUgzXqct9qXcQhjk) | [Tyler Nance](https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z) | [Shovel](https://open.spotify.com/album/7EmzD2qF9Fa101ov4UIL8P) | 3:10 |
-| 18 | [Easy Does It](https://open.spotify.com/track/2MJbBIbfi0vxRDkgH5jGey) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [The Fence](https://open.spotify.com/album/7lwhC9rO5k4ChxUPUhJtvL) | 3:04 |
+| 18 | [Easy Does It](https://open.spotify.com/track/2RcpZxqA62aa4icEZ7Xo86) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Memory Lane](https://open.spotify.com/album/0Vg0rmwO8uBdFiQhY3QVWk) | 3:04 |
 | 19 | [Making Good Time](https://open.spotify.com/track/4jh5v2PmmcryAzPnuEQjUG) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Making Good Time](https://open.spotify.com/album/5JXMh1FdutuSfyPtfdJxMQ) | 2:47 |
 | 20 | [Taillight This Town](https://open.spotify.com/track/1n1NjVpPDdpn8BMQOL7lGY) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Taillight This Town](https://open.spotify.com/album/7hxiN7d6lCpcwPgLRSWpoH) | 3:06 |
 | 21 | [Somebody Single](https://open.spotify.com/track/0o9GNazjKvX09AIwKM8Td0) | [Austin Williams](https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR) | [Somebody Single](https://open.spotify.com/album/4dsCBI4IOTvMmDOSbnCH6F) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Bitin' List](https://open.spotify.com/track/0x5wJ0cDp7miv49jSMTSkq) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Snipe Hunter](https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa) | 2:56 |
 | 100 | [Daughter](https://open.spotify.com/track/06M3qf1hDrXyq2765sdOqc) | [Elizabeth Nichols](https://open.spotify.com/artist/06cAJQBSPkt3bG7uMoWfmA) | [Daughter](https://open.spotify.com/album/4UJAhqyKdShGbmrd1Y4pbC) | 2:55 |
 
-Snapshot ID: `AAAAADRmYKGbir336h2R5j3ymvLpAfAR`
+Snapshot ID: `AAAAAASI3F+FYaViXDHe7bSO8PEp4qq5`

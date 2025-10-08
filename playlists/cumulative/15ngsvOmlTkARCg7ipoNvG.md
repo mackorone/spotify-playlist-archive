@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,024 songs - 1 day 16 hr 52 min
+2,025 songs - 1 day 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1360,6 +1360,7 @@
 | [Purple Mist In The Field](https://open.spotify.com/track/373EK6D8ENjoLXT2M24Fau) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Nostalgic, Vol\. 1](https://open.spotify.com/album/1Dk8ujbZK0JWtk1h3A9sd1) | 1:02 | 2022-02-11 | 2024-01-30 |
 | [Purple Skies](https://open.spotify.com/track/3XlJ5aQFxZeo2iAGziN1Yd) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Gaze](https://open.spotify.com/album/73IJgOBnqnYF3K1geuByb9) | 1:53 | 2022-01-12 | 2024-01-30 |
 | [Purple Sunrise](https://open.spotify.com/track/1vdDA9CsI1MxbxYtgNuRwQ) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Purple Sunrise](https://open.spotify.com/album/7aCXd6vemA6uYuo8fxkmm4) | 1:00 | 2025-03-08 |  |
+| [Quiet Afternoon Arr\. For Piano](https://open.spotify.com/track/75IXWHK7l9YD9facBwpNgI) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Quiet Afternoon Arr\. For Piano](https://open.spotify.com/album/4hLBXOad8jJNAcnYEzhb0u) | 1:00 | 2025-10-07 |  |
 | [Quiet Again](https://open.spotify.com/track/0XWS1EBtMbtk36iZEGGF4a) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Refuge, Vol\. 2](https://open.spotify.com/album/0BZhEnYxY5sZJs54ZYOCmX) | 1:03 | 2022-01-12 |  |
 | [Quiet Hope](https://open.spotify.com/track/1ne1HkwDKNkiGM2RSoWyO5) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Quiet Hope](https://open.spotify.com/album/7qy2ykL1wcBfrRw3Ilm4tu) | 1:00 | 2025-03-19 |  |
 | [Quiet Joy](https://open.spotify.com/track/1FJAimeQsvhQB95NTGpG60) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Autumn Rain](https://open.spotify.com/album/0JsMeQCTqpoV07HsE6QVC0) | 1:47 | 2022-01-20 |  |

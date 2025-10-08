@@ -4,7 +4,7 @@
 
 > Music from "GOLDEN KAMUY"!
 
-84 songs - 4 hr 27 min
+85 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,5 +92,6 @@
 | [面倒くさい](https://open.spotify.com/track/4GcmVw8LpigCOQWN5XKyL5) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 1:45 | 2022-10-04 |  |
 | [駆ける](https://open.spotify.com/track/1BZ5sCgFJ14tLt0hu87U1J) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 2:41 | 2022-10-04 |  |
 | [鬼の副長](https://open.spotify.com/track/2ersVeoZvHEUPAOiJuHTm8) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 2:35 | 2022-10-04 |  |
+| [黄金の彼方 \- Golden Horizon](https://open.spotify.com/track/4FB6P63qFpPPnZN9fVw7F8) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [黄金の彼方 \- Golden Horizon](https://open.spotify.com/album/74F9XqQ4eSg3zdu4O9dvKu) | 2:54 | 2025-10-07 |  |
 
 \*This playlist was first scraped on 2022-10-04. Prior content cannot be recovered.

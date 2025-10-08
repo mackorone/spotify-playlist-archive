@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-13",
-  "description": "50 Hits in einer Playlist! Cover: James Hype",
+  "description": "50 Hits in einer Playlist! Cover: Taylor Swift",
   "name": "Hot Hits Deutschland",
   "tracks": [
     {
@@ -850,7 +850,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 156786,
       "name": "Bitte sei vorsichtig",
       "url": "https://open.spotify.com/track/20B2I2t11yceg5v6CSdF2C"
@@ -1390,6 +1390,24 @@
       "duration_ms": 165993,
       "name": "EIN TEIL VON MIR",
       "url": "https://open.spotify.com/track/0JtDPZDAIEIZbE1y7aSjTB"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208291,
+      "name": "Elizabeth Taylor",
+      "url": "https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL"
     },
     {
       "album": {
@@ -2002,6 +2020,24 @@
       "duration_ms": 160886,
       "name": "HERZBLATT (AUA AUA)",
       "url": "https://open.spotify.com/track/05ayHD9SFkfqhVUOUxBOyv"
+    },
+    {
+      "album": {
+        "name": "Herzensmensch",
+        "url": "https://open.spotify.com/album/0TfmkzOkLCBvsDWKbDiVAi"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160405,
+      "name": "Herzensmensch",
+      "url": "https://open.spotify.com/track/7HBzNwzwnKLVF1GtcjnA2C"
     },
     {
       "album": {
@@ -3284,6 +3320,28 @@
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+    },
+    {
+      "album": {
+        "name": "NOW OR NEVER",
+        "url": "https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM"
+      },
+      "artists": [
+        {
+          "name": "Tkandz",
+          "url": "https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO"
+        },
+        {
+          "name": "CXSPER",
+          "url": "https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "NOW OR NEVER",
+      "url": "https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM"
     },
     {
       "album": {
@@ -4782,7 +4840,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 252865,
       "name": "TRAPPER'S LULLABY",
       "url": "https://open.spotify.com/track/17xC4jTj1kzw4PhaQyOhUd"
@@ -5288,7 +5346,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 140009,
       "name": "WHO'S THAT",
       "url": "https://open.spotify.com/track/4H0ly29pj5g6vMKum5kkhu"

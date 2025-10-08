@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19MmWO.md) - [plain]
 
 > This is Little Walter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,043 likes - 39 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,046 likes - 39 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19MmWO.md) - [plain]
 | 33 | [You're the One \- Remastered](https://open.spotify.com/track/6Q3U1AMs32pVUD4FcbuShH) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS), [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Anthology: His Early Years \(Remastered\)](https://open.spotify.com/album/77Zjw39g47Y37bPn3gOVgR) | 2:28 |
 | 34 | [Mean Old Frisco](https://open.spotify.com/track/2x2LPXCxlDLkT80kbjBAMR) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Confessin' The Blues](https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL) | 2:27 |
 | 35 | [You Can't Judge A Book By Its Cover](https://open.spotify.com/track/2HD83NXZZRx68thhkaZk6H) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 3:29 |
-| 36 | [Driftin'](https://open.spotify.com/track/1tfJ6C6KuQhvXdL7cijHJ8) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 3:08 |
+| 36 | [Crazy Legs](https://open.spotify.com/track/5qpE3qKGIPLg13gYxI5AGb) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 3:21 |
 | 37 | [Who Do You Love](https://open.spotify.com/track/1BaGFTIPeL32MpF9eUVguh) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 4:14 |
-| 38 | [Crazy Legs](https://open.spotify.com/track/5qpE3qKGIPLg13gYxI5AGb) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 3:21 |
+| 38 | [Driftin'](https://open.spotify.com/track/1tfJ6C6KuQhvXdL7cijHJ8) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 3:08 |
 | 39 | [I'm A Man](https://open.spotify.com/track/1l4xHvN0jjPQKCqmal7Ybn) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 5:41 |
 
-Snapshot ID: `aOG1AAAAAABG6C9jrN+f21EsBkIyiFqL`
+Snapshot ID: `aOMGgAAAAABe6TdovLzDoXShKknmhSh3`

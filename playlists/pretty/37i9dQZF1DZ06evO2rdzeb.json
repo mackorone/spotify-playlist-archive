@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 17442,
+  "num_followers": 17449,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAACnmh7HgWRxsj+uk5n+4+g+",
+  "snapshot_id": "aOMGgAAAAACWDtJt+7PT5kEsUpgGGVQg",
   "tracks": [
     {
       "added_at": null,
@@ -199,18 +199,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "abysskiss",
-        "url": "https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa"
+        "name": "a-sides",
+        "url": "https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1"
       },
       "artists": [
         {
           "name": "Adrianne Lenker",
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        },
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 183040,
-      "name": "abyss kiss",
-      "url": "https://open.spotify.com/track/0aI9eihvBSQRjMjtHQQ6nb"
+      "duration_ms": 171453,
+      "name": "Kerina",
+      "url": "https://open.spotify.com/track/57qpL2xmsydc04uBmiH2DC"
     },
     {
       "added_at": null,
@@ -247,22 +251,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "a-sides",
-        "url": "https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1"
+        "name": "abysskiss",
+        "url": "https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa"
       },
       "artists": [
         {
           "name": "Adrianne Lenker",
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        },
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 171453,
-      "name": "Kerina",
-      "url": "https://open.spotify.com/track/57qpL2xmsydc04uBmiH2DC"
+      "duration_ms": 183040,
+      "name": "abyss kiss",
+      "url": "https://open.spotify.com/track/0aI9eihvBSQRjMjtHQQ6nb"
     },
     {
       "added_at": null,
@@ -611,22 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "b-sides",
-        "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
+        "name": "instrumentals",
+        "url": "https://open.spotify.com/album/71q46YDkSq6uXS5WJy4WMk"
       },
       "artists": [
         {
           "name": "Adrianne Lenker",
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        },
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 228640,
-      "name": "New York City",
-      "url": "https://open.spotify.com/track/5McZ3LHgxlz8Fpea1oo8Ad"
+      "duration_ms": 1272830,
+      "name": "music for indigo",
+      "url": "https://open.spotify.com/track/1OzuAHfmr8Vg3eVvEbAR0p"
     },
     {
       "added_at": null,
@@ -647,18 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "instrumentals",
-        "url": "https://open.spotify.com/album/71q46YDkSq6uXS5WJy4WMk"
+        "name": "b-sides",
+        "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
       },
       "artists": [
         {
           "name": "Adrianne Lenker",
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        },
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 1272830,
-      "name": "music for indigo",
-      "url": "https://open.spotify.com/track/1OzuAHfmr8Vg3eVvEbAR0p"
+      "duration_ms": 228640,
+      "name": "New York City",
+      "url": "https://open.spotify.com/track/5McZ3LHgxlz8Fpea1oo8Ad"
     },
     {
       "added_at": null,
@@ -675,26 +675,6 @@
       "duration_ms": 92827,
       "name": "indiana & sneezing",
       "url": "https://open.spotify.com/track/0c2QahAGwUgKgBdhS7WGcm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "b-sides",
-        "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        },
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
-        }
-      ],
-      "duration_ms": 229373,
-      "name": "Ringing Bells",
-      "url": "https://open.spotify.com/track/5xjqIJjjrLgTD2GBHkDQtJ"
     },
     {
       "added_at": null,
@@ -727,6 +707,26 @@
       "duration_ms": 208180,
       "name": "happiness - live",
       "url": "https://open.spotify.com/track/43zJRyV2RM1Zk9FIw9xx74"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "b-sides",
+        "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        },
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "Ringing Bells",
+      "url": "https://open.spotify.com/track/5xjqIJjjrLgTD2GBHkDQtJ"
     },
     {
       "added_at": null,

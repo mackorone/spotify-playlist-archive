@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ Algernon Cadwallader
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,355 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,401 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 25 | [Fatal Flaw](https://open.spotify.com/track/7iOmNAV74wgniReAH65opV) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [There's A Whole World Out There](https://open.spotify.com/album/6Z5Wqu7fduJ0GHt1JgCFQE) | 4:10 |
 | 26 | [World Apart](https://open.spotify.com/track/6tAIL5bzj3hE7eWlRE2Ru6) | [Bike Routes](https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA) | [World Apart](https://open.spotify.com/album/4m29SVaQToxqTXt8r2qNUd) | 3:00 |
 | 27 | [Mike Nolan’s Long Weekend ft\. Dom Fox](https://open.spotify.com/track/2lTwwQcnBQlh0d4Ipshbkl) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc), [Bad Luck.](https://open.spotify.com/artist/4Hjb6XIYNt5Qkokl30luY9) | [Mike Nolan’s Long Weekend ft\. Dom Fox](https://open.spotify.com/album/1jvuSRYOav8yv5GndOekAJ) | 3:34 |
-| 28 | [waste away](https://open.spotify.com/track/7qfse0LAPI1kMhUHVcG1La) | [saturdays at your place](https://open.spotify.com/artist/69Kp4bE7aUWEPrmTwmhVZR) | [waste away](https://open.spotify.com/album/0lWRAuUBmuMSsZT7ntYTis) | 2:46 |
-| 29 | [Where Blue Light Blooms](https://open.spotify.com/track/5JK1baqYwbfNQaLkwaLEdX) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Feeling Not Found](https://open.spotify.com/album/4tljXNTOiaHaXiKMhqLdyj) | 3:20 |
+| 28 | [Where Blue Light Blooms](https://open.spotify.com/track/5JK1baqYwbfNQaLkwaLEdX) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Feeling Not Found](https://open.spotify.com/album/4tljXNTOiaHaXiKMhqLdyj) | 3:20 |
+| 29 | [waste away](https://open.spotify.com/track/7qfse0LAPI1kMhUHVcG1La) | [saturdays at your place](https://open.spotify.com/artist/69Kp4bE7aUWEPrmTwmhVZR) | [waste away](https://open.spotify.com/album/0lWRAuUBmuMSsZT7ntYTis) | 2:46 |
 | 30 | [Serotonin](https://open.spotify.com/track/0PkriCeqOJvh9QNvfMka7w) | [Covey](https://open.spotify.com/artist/1BWtQmbjRgQ6YaEIizJ5Pe) | [Serotonin](https://open.spotify.com/album/1OISFeE5Pfq40hyzuqtT8H) | 3:17 |
 | 31 | [Stop Talking](https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Stop Talking](https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR) | 3:20 |
 | 32 | [Dusty](https://open.spotify.com/track/6ixVpkrFvgd7EPVTLVXwwn) | [TRSH](https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9) | [Dusty](https://open.spotify.com/album/0aQlTOObqjOaKo7FYopRi5) | 2:33 |
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 38 | [Fireplace](https://open.spotify.com/track/1mSJOi7nlvNPAKrveLxWPv) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Cheap Grills](https://open.spotify.com/album/3OicTD14V4nO5N1lLvcKRz) | 3:12 |
 | 39 | [Lifers](https://open.spotify.com/track/3Ooa1FETAj6ShTc2bHXd1M) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [No Joy](https://open.spotify.com/album/5bmC9YAnux6z8pkahL9SmP) | 3:34 |
 | 40 | [Weekend Fever](https://open.spotify.com/track/7nOTJuYsNzXGDRDYStxAvA) | [Nihilistic Easyrider](https://open.spotify.com/artist/7kKoxT5gbBKVP3Na9BaQnq) | [DELUXE EDITION](https://open.spotify.com/album/6xRvwAmYLGaQnxjolg9bgw) | 3:26 |
-| 41 | [Hawk](https://open.spotify.com/track/40zSMkWtGouAxkjMQnB9JT) | [Algernon Cadwallader](https://open.spotify.com/artist/1BfYXNfaB5HBwHn4gxnEQE) | [Hawk](https://open.spotify.com/album/3nPnmLlFhfpios14irjgSP) | 3:42 |
+| 41 | [Medina Ohio](https://open.spotify.com/track/3bpiG12mjNR0KGZZhtWjnP) | [McCafferty](https://open.spotify.com/artist/7s3OoIocX1gTOnEvCg2VV8) | [Medina Ohio](https://open.spotify.com/album/5Tz7YUNbcQr7F5KUxequvN) | 3:38 |
 | 42 | [ps pls call me](https://open.spotify.com/track/6p03ssQvEzWVSQxGGyJIML) | [Dear Maryanne](https://open.spotify.com/artist/7C04Hg3t3Q0sTLw5raMMP8) | [ps pls call me](https://open.spotify.com/album/1y5PrfclvJhAgeHAoHfil7) | 2:34 |
-| 43 | [Medina Ohio](https://open.spotify.com/track/3bpiG12mjNR0KGZZhtWjnP) | [McCafferty](https://open.spotify.com/artist/7s3OoIocX1gTOnEvCg2VV8) | [Medina Ohio](https://open.spotify.com/album/5Tz7YUNbcQr7F5KUxequvN) | 3:38 |
-| 44 | [yes! yes! a thousand times yes!](https://open.spotify.com/track/4dSataK59s0m0UpNnQX0Ed) | [Home Is Where](https://open.spotify.com/artist/1umUe3DQdjTkk0LoMuwcj2) | [the whaler](https://open.spotify.com/album/3k9zFidsO5YuOnIgKWkUI0) | 3:54 |
+| 43 | [yes! yes! a thousand times yes!](https://open.spotify.com/track/4dSataK59s0m0UpNnQX0Ed) | [Home Is Where](https://open.spotify.com/artist/1umUe3DQdjTkk0LoMuwcj2) | [the whaler](https://open.spotify.com/album/3k9zFidsO5YuOnIgKWkUI0) | 3:54 |
+| 44 | [Hawk](https://open.spotify.com/track/40zSMkWtGouAxkjMQnB9JT) | [Algernon Cadwallader](https://open.spotify.com/artist/1BfYXNfaB5HBwHn4gxnEQE) | [Hawk](https://open.spotify.com/album/3nPnmLlFhfpios14irjgSP) | 3:42 |
 | 45 | [Teeth](https://open.spotify.com/track/6d96mLOd9hUdJJVw2KFQAA) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [babyface](https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS) | 3:46 |
 | 46 | [I really am feeling better](https://open.spotify.com/track/2EmYu5EQnSpb2I0nW6hIlw) | [TRSH](https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9) | [I really am feeling better](https://open.spotify.com/album/1C6nIy0zYyRMnEOMBRmh7C) | 2:04 |
 | 47 | [Really Big Shrimp](https://open.spotify.com/track/1HrlVqg8nu86YRdMIGOGzT) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Really Big Shrimp](https://open.spotify.com/album/3sOldd5oq7qesemjhPgcei) | 4:07 |

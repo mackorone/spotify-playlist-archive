@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 
 > The hottest Anime hits of the 00s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,571 likes - 65 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,620 likes - 65 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 25 | [さらば](https://open.spotify.com/track/4gRBVBLgnwzHn6WODOwo0W) | [キンモクセイ](https://open.spotify.com/artist/14UjZg0MdiVjAkbqWNFsIt) | [音楽は素晴らしいものだ](https://open.spotify.com/album/1Ie5iQ1pUZUlAAY985v4YZ) | 4:26 |
 | 26 | [心絵](https://open.spotify.com/track/2tHQgtm46XngnOFgATFJWM) | [Road Of Major](https://open.spotify.com/artist/5m0p1hLwjTBVYdgUyQaNaQ) | [ROAD OF MAJOR II](https://open.spotify.com/album/6Te53bOBN20DbtOgshIFrh) | 4:21 |
 | 27 | [I am](https://open.spotify.com/track/1JM0GXE02jU7tWEBk2L0JR) | [hitomi](https://open.spotify.com/artist/5rdloWitZKhrtedmOBdhG8) | [I am/innocence](https://open.spotify.com/album/7rYpxCkxGTFK4sQaZI7x26) | 4:45 |
-| 28 | [逆さまの蝶](https://open.spotify.com/track/2oK9OQovYbhvg4htr8MGLR) | [Snow](https://open.spotify.com/artist/6xmxPrejTuDCgGzgLNp9sp) | [逆さまの蝶](https://open.spotify.com/album/0C3Hpb2MBpxH0Sjzm9Mto2) | 4:33 |
+| 28 | [逆さまの蝶](https://open.spotify.com/track/2oK9OQovYbhvg4htr8MGLR) | [SNoW](https://open.spotify.com/artist/6xmxPrejTuDCgGzgLNp9sp) | [逆さまの蝶](https://open.spotify.com/album/0C3Hpb2MBpxH0Sjzm9Mto2) | 4:33 |
 | 29 | [勇侠青春謳](https://open.spotify.com/track/7tbS1FAMmd8fNXQVzvDsWl) | [Ali Project](https://open.spotify.com/artist/1kCSjswFJFcjTauk0sKaOn) | [25周年記念ベストアルバム「愛と誠～YAMATO & LOVE×××」](https://open.spotify.com/album/1C8RqCYhu5i4Mr827fe0R5) | 4:23 |
 | 30 | [名探偵コナン メイン・テーマ \- 暗殺者ヴァージョン](https://open.spotify.com/track/4ELXBKQHnfWiNt6OUcSo15) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 瞳の中の暗殺者 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0fAhvb5Ir2kHM2DREhn45a) | 2:32 |
 | 31 | [ウィーアー! for the new world](https://open.spotify.com/track/1QpkD0qIOHfvFH5vUzkek7) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ウィーゴー!](https://open.spotify.com/album/22vN8p8TlwrKbSrU4Z1pM5) | 3:59 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 100561,
+  "num_followers": 100605,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAABXoF0iZIIC3azUVkaao7ED",
+  "snapshot_id": "aOMGgAAAAACY4W5ORdOsGIM38RxcQqh2",
   "tracks": [
     {
       "added_at": null,
@@ -287,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stereotype",
-        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 176146,
-      "name": "Never Say Never (with Lainey Wilson)",
-      "url": "https://open.spotify.com/track/3iYEsBl8NBq1o1j5uY2Noe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NASHVILLE, TENNESSEE",
         "url": "https://open.spotify.com/album/7txdao9C0jYls2zBxFojzJ"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 202434,
       "name": "Would If I Could (feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/06x6BAgvOIZGnHQVBoF6US"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stereotype",
+        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 176146,
+      "name": "Never Say Never (with Lainey Wilson)",
+      "url": "https://open.spotify.com/track/3iYEsBl8NBq1o1j5uY2Noe"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whirlwind (Deluxe)",
-        "url": "https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 210880,
-      "name": "Peace, Love, and Cowboys",
-      "url": "https://open.spotify.com/track/0vQVAtvDlmUHzZAegghKfH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reboot II",
         "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
       },
@@ -519,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bell Bottom Country",
-        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 168120,
-      "name": "Smell Like Smoke",
-      "url": "https://open.spotify.com/track/6hWUxgcCGGCd17i2eZ5qbJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Two Story House",
         "url": "https://open.spotify.com/album/2UBvZ8c8E5LVMKf6ZZMcfj"
       },
@@ -547,6 +515,22 @@
       "duration_ms": 199986,
       "name": "Two Story House",
       "url": "https://open.spotify.com/track/2poxiFKQTbULSdjWagcb3g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 168120,
+      "name": "Smell Like Smoke",
+      "url": "https://open.spotify.com/track/6hWUxgcCGGCd17i2eZ5qbJ"
     },
     {
       "added_at": null,

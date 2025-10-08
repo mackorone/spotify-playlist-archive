@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Taiwan.",
-  "num_followers": 220904,
+  "num_followers": 220916,
   "original_name": "Top 50 - Taiwan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MHcwoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MHiCIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-10-06 13:47:45",
+      "added_at": "2025-10-07 14:12:43",
       "album": {
         "name": "Winter Ahead (with PARK HYO SHIN)",
         "url": "https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
     },
     {
-      "added_at": "2025-10-06 13:47:45",
+      "added_at": "2025-10-07 14:12:43",
       "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
     },
     {
-      "added_at": "2025-10-06 13:47:45",
+      "added_at": "2025-10-07 14:12:43",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-10-06 13:47:45",
+      "added_at": "2025-10-07 14:12:43",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -93,39 +93,7 @@
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
-      "added_at": "2025-10-06 13:47:45",
-      "album": {
-        "name": "HeartBreakFast \u50b7\u5fc3\u65e9\u9910\u5e97",
-        "url": "https://open.spotify.com/album/3B4ldF0a4F6FXi2SB94m4U"
-      },
-      "artists": [
-        {
-          "name": "Crowd Lu",
-          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "\u592a\u967d\u8207\u5730\u7403",
-      "url": "https://open.spotify.com/track/0bQSWXtpau3VkNI1ZcXTQA"
-    },
-    {
-      "added_at": "2025-10-06 13:47:45",
-      "album": {
-        "name": "IRIS OUT",
-        "url": "https://open.spotify.com/album/06re45NBDCPah74jnVOISQ"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 151573,
-      "name": "IRIS OUT",
-      "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
-    },
-    {
-      "added_at": "2025-10-06 13:47:45",
+      "added_at": "2025-10-07 14:12:43",
       "album": {
         "name": "JANE DOE",
         "url": "https://open.spotify.com/album/381FouVeKunSg1WZTnmryL"
@@ -145,7 +113,39 @@
       "url": "https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl"
     },
     {
-      "added_at": "2025-10-06 13:47:45",
+      "added_at": "2025-10-07 14:12:43",
+      "album": {
+        "name": "HeartBreakFast \u50b7\u5fc3\u65e9\u9910\u5e97",
+        "url": "https://open.spotify.com/album/3B4ldF0a4F6FXi2SB94m4U"
+      },
+      "artists": [
+        {
+          "name": "Crowd Lu",
+          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "\u592a\u967d\u8207\u5730\u7403",
+      "url": "https://open.spotify.com/track/0bQSWXtpau3VkNI1ZcXTQA"
+    },
+    {
+      "added_at": "2025-10-07 14:12:43",
+      "album": {
+        "name": "IRIS OUT",
+        "url": "https://open.spotify.com/album/06re45NBDCPah74jnVOISQ"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 151573,
+      "name": "IRIS OUT",
+      "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
+    },
+    {
+      "added_at": "2025-10-07 14:12:43",
       "album": {
         "name": "\u82e5\u7121\u4f60\u6211\u6b32\u53bb\u4f57\u4f4d",
         "url": "https://open.spotify.com/album/62aFcrZppdH6tQqYX5ncIQ"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/76EfpqmO6JUL2TTR1SIGwz"
     },
     {
-      "added_at": "2025-10-06 13:47:45",
+      "added_at": "2025-10-07 14:12:43",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
-      "added_at": "2025-10-06 13:47:45",
+      "added_at": "2025-10-07 14:12:43",
       "album": {
         "name": "HeartBreakFast \u50b7\u5fc3\u65e9\u9910\u5e97",
         "url": "https://open.spotify.com/album/3B4ldF0a4F6FXi2SB94m4U"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/3wofqqt5YJWdhLI9IFaX39"
     },
     {
-      "added_at": "2025-10-06 13:47:45",
+      "added_at": "2025-10-07 14:12:43",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
     },
     {
-      "added_at": "2025-10-06 13:47:45",
+      "added_at": "2025-10-07 14:12:43",
       "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
@@ -249,55 +249,7 @@
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
     },
     {
-      "added_at": "2025-10-06 13:47:45",
-      "album": {
-        "name": "\u534a\u719f\u7406\u60f3",
-        "url": "https://open.spotify.com/album/1qE3IWG3xPJZdLkAXB1rAs"
-      },
-      "artists": [
-        {
-          "name": "\u7406\u60f3\u6df7\u86cb",
-          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
-        }
-      ],
-      "duration_ms": 254961,
-      "name": "\u96e2\u958b\u7684\u4e00\u8def\u4e0a",
-      "url": "https://open.spotify.com/track/1NoDTQhJsrd5rnpb6PQthK"
-    },
-    {
-      "added_at": "2025-10-06 13:47:45",
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "Love Me Again",
-      "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
-    },
-    {
-      "added_at": "2025-10-06 13:47:45",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235355,
-      "name": "Opalite",
-      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
-    },
-    {
-      "added_at": "2025-10-06 13:47:45",
+      "added_at": "2025-10-07 14:12:43",
       "album": {
         "name": "COLOR OUTSIDE THE LINES",
         "url": "https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf"
@@ -313,7 +265,7 @@
       "url": "https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc"
     },
     {
-      "added_at": "2025-10-06 13:47:45",
+      "added_at": "2025-10-07 14:12:43",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
@@ -324,28 +276,28 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 208291,
-      "name": "Elizabeth Taylor",
-      "url": "https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL"
+      "duration_ms": 235355,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
     },
     {
-      "added_at": "2025-10-06 13:47:45",
+      "added_at": "2025-10-07 14:12:43",
       "album": {
-        "name": "\u5371\u96aa\u4e16\u754c",
-        "url": "https://open.spotify.com/album/3QR6UyUXB4KclN8HwSIhx9"
+        "name": "\u534a\u719f\u7406\u60f3",
+        "url": "https://open.spotify.com/album/1qE3IWG3xPJZdLkAXB1rAs"
       },
       "artists": [
         {
-          "name": "Khalil Fong",
-          "url": "https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd"
+          "name": "\u7406\u60f3\u6df7\u86cb",
+          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
         }
       ],
-      "duration_ms": 259079,
-      "name": "\u7279\u5225\u7684\u4eba",
-      "url": "https://open.spotify.com/track/0VTzUEuHYD8s7CgQ15cDPo"
+      "duration_ms": 254961,
+      "name": "\u96e2\u958b\u7684\u4e00\u8def\u4e0a",
+      "url": "https://open.spotify.com/track/1NoDTQhJsrd5rnpb6PQthK"
     },
     {
-      "added_at": "2025-10-06 13:47:45",
+      "added_at": "2025-10-07 14:12:43",
       "album": {
         "name": "\u4e0d\u662f\u56e0\u70ba\u5929\u6c23\u6674\u6717\u624d\u611b\u4f60",
         "url": "https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI"
@@ -361,7 +313,59 @@
       "url": "https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm"
     },
     {
-      "added_at": "2025-10-06 13:47:45",
+      "added_at": "2025-10-07 14:12:43",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 208291,
+      "name": "Elizabeth Taylor",
+      "url": "https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL"
+    },
+    {
+      "added_at": "2025-10-07 14:12:43",
+      "album": {
+        "name": "Blink (feat. TZUYU)",
+        "url": "https://open.spotify.com/album/2IRzuqfgRW9UojuEaDPZoB"
+      },
+      "artists": [
+        {
+          "name": "Corbyn Besson",
+          "url": "https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj"
+        },
+        {
+          "name": "TZUYU",
+          "url": "https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK"
+        }
+      ],
+      "duration_ms": 162092,
+      "name": "Blink (feat. TZUYU)",
+      "url": "https://open.spotify.com/track/25qp5LiSuet6rvl950jrGD"
+    },
+    {
+      "added_at": "2025-10-07 14:12:43",
+      "album": {
+        "name": "\u4e03\u91cc\u9999",
+        "url": "https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 238133,
+      "name": "\u64f1\u6dfa",
+      "url": "https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF"
+    },
+    {
+      "added_at": "2025-10-07 14:12:43",
       "album": {
         "name": "JUMP",
         "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
@@ -377,7 +381,23 @@
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
     },
     {
-      "added_at": "2025-10-06 13:47:45",
+      "added_at": "2025-10-07 14:12:43",
+      "album": {
+        "name": "\u96e2\u958b\u6211\u7684\u4f9d\u8cf4",
+        "url": "https://open.spotify.com/album/4SvBcrlinZopwRdfZsAEFz"
+      },
+      "artists": [
+        {
+          "name": "Evangeline Wong",
+          "url": "https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5"
+        }
+      ],
+      "duration_ms": 233882,
+      "name": "\u96e2\u958b\u6211\u7684\u4f9d\u8cf4",
+      "url": "https://open.spotify.com/track/28VBdtYc5Cpmey4Cpvcrby"
+    },
+    {
+      "added_at": "2025-10-07 14:12:43",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -417,155 +437,7 @@
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
     },
     {
-      "added_at": "2025-10-06 13:47:45",
-      "album": {
-        "name": "\u7d42\u6975\u4e00\u73ed2 (\u96fb\u8996\u539f\u8072\u5e36)",
-        "url": "https://open.spotify.com/album/0TB9rXuSN99QhTnI5lYwvM"
-      },
-      "artists": [
-        {
-          "name": "Pets Tseng",
-          "url": "https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w"
-        }
-      ],
-      "duration_ms": 243666,
-      "name": "\u4e00\u500b\u4eba\u60f3\u8457\u4e00\u500b\u4eba",
-      "url": "https://open.spotify.com/track/3n3zzFH7zzO0gJNaw4RKSm"
-    },
-    {
-      "added_at": "2025-10-06 13:47:45",
-      "album": {
-        "name": "Blink (feat. TZUYU)",
-        "url": "https://open.spotify.com/album/2IRzuqfgRW9UojuEaDPZoB"
-      },
-      "artists": [
-        {
-          "name": "Corbyn Besson",
-          "url": "https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj"
-        },
-        {
-          "name": "TZUYU",
-          "url": "https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK"
-        }
-      ],
-      "duration_ms": 162092,
-      "name": "Blink (feat. TZUYU)",
-      "url": "https://open.spotify.com/track/25qp5LiSuet6rvl950jrGD"
-    },
-    {
-      "added_at": "2025-10-06 13:47:45",
-      "album": {
-        "name": "\u96e2\u958b\u6211\u7684\u4f9d\u8cf4",
-        "url": "https://open.spotify.com/album/4SvBcrlinZopwRdfZsAEFz"
-      },
-      "artists": [
-        {
-          "name": "Evangeline Wong",
-          "url": "https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5"
-        }
-      ],
-      "duration_ms": 233882,
-      "name": "\u96e2\u958b\u6211\u7684\u4f9d\u8cf4",
-      "url": "https://open.spotify.com/track/28VBdtYc5Cpmey4Cpvcrby"
-    },
-    {
-      "added_at": "2025-10-06 13:47:45",
-      "album": {
-        "name": "Amazing Show\u540c\u540d\u5c08\u8f2f",
-        "url": "https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau"
-      },
-      "artists": [
-        {
-          "name": "Amazing Show",
-          "url": "https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "\u611b\u60c5\u7684\u5927\u58de\u86cb",
-      "url": "https://open.spotify.com/track/5HVq8nS0pbM6G7YK8M7DY4"
-    },
-    {
-      "added_at": "2025-10-06 13:47:45",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 212777,
-      "name": "Father Figure",
-      "url": "https://open.spotify.com/track/03bTIHJElXZ0O0jqOQvAbY"
-    },
-    {
-      "added_at": "2025-10-06 13:47:45",
-      "album": {
-        "name": "\u4e03\u91cc\u9999",
-        "url": "https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 238133,
-      "name": "\u64f1\u6dfa",
-      "url": "https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF"
-    },
-    {
-      "added_at": "2025-10-06 13:47:45",
-      "album": {
-        "name": "Jumping Machine (\u8df3\u697c\u673a)",
-        "url": "https://open.spotify.com/album/0ZrCpc5hnI1DGwUH3UCCQM"
-      },
-      "artists": [
-        {
-          "name": "LBI\u5229\u6bd4",
-          "url": "https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J"
-        }
-      ],
-      "duration_ms": 201642,
-      "name": "Jumping Machine (\u8df3\u697c\u673a)",
-      "url": "https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl"
-    },
-    {
-      "added_at": "2025-10-06 13:47:45",
-      "album": {
-        "name": "\u5e7e\u5206\u4e4b\u5e7e",
-        "url": "https://open.spotify.com/album/2yBLZVs24cFju6t8Jrnpbx"
-      },
-      "artists": [
-        {
-          "name": "Crowd Lu",
-          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
-        }
-      ],
-      "duration_ms": 228570,
-      "name": "\u5e7e\u5206\u4e4b\u5e7e - \u96fb\u5f71<\u82b1\u7532\u5927\u4eba\u8f49\u7537\u5b69>\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/4F7ZAsndEIJXyFzJUHNlRu"
-    },
-    {
-      "added_at": "2025-10-06 13:47:45",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 207349,
-      "name": "Wi$h Li$t",
-      "url": "https://open.spotify.com/track/2TEQvxxQabwLQMqWMg1qGu"
-    },
-    {
-      "added_at": "2025-10-06 13:47:45",
+      "added_at": "2025-10-07 14:12:43",
       "album": {
         "name": "HeartBreakFast \u50b7\u5fc3\u65e9\u9910\u5e97",
         "url": "https://open.spotify.com/album/3B4ldF0a4F6FXi2SB94m4U"
@@ -581,159 +453,23 @@
       "url": "https://open.spotify.com/track/3bQeHxH1x4pVUfsRpuLAlH"
     },
     {
-      "added_at": "2025-10-06 13:47:45",
+      "added_at": "2025-10-07 14:12:43",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+        "name": "\u5371\u96aa\u4e16\u754c",
+        "url": "https://open.spotify.com/album/3QR6UyUXB4KclN8HwSIhx9"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Khalil Fong",
+          "url": "https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd"
         }
       ],
-      "duration_ms": 241766,
-      "name": "The Life of a Showgirl (feat. Sabrina Carpenter)",
-      "url": "https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex"
+      "duration_ms": 259079,
+      "name": "\u7279\u5225\u7684\u4eba",
+      "url": "https://open.spotify.com/track/0VTzUEuHYD8s7CgQ15cDPo"
     },
     {
-      "added_at": "2025-10-06 13:47:45",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 246356,
-      "name": "Eldest Daughter",
-      "url": "https://open.spotify.com/track/62HoDY1Km6lm47haFpUn9c"
-    },
-    {
-      "added_at": "2025-10-06 13:47:45",
-      "album": {
-        "name": "\u505a\u6211\u7684\u521d\u6200",
-        "url": "https://open.spotify.com/album/2lfbi7dCdcCU6cKcKPBUxY"
-      },
-      "artists": [
-        {
-          "name": "PIZZALI",
-          "url": "https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "\u505a\u6211\u7684\u521d\u6200",
-      "url": "https://open.spotify.com/track/4flk8ZgDFry6o2t0SdKsnB"
-    },
-    {
-      "added_at": "2025-10-06 13:47:45",
-      "album": {
-        "name": "\u8449\u60e0\u7f8e",
-        "url": "https://open.spotify.com/album/0E5yojmnEdbs68b1wM6Kla"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 269746,
-      "name": "\u6674\u5929",
-      "url": "https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm"
-    },
-    {
-      "added_at": "2025-10-06 13:47:45",
-      "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
-      },
-      "artists": [
-        {
-          "name": "HUNTR/X",
-          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
-        },
-        {
-          "name": "EJAE",
-          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
-        },
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        },
-        {
-          "name": "REI AMI",
-          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
-        },
-        {
-          "name": "KPop Demon Hunters Cast",
-          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
-        }
-      ],
-      "duration_ms": 250268,
-      "name": "What It Sounds Like",
-      "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
-    },
-    {
-      "added_at": "2025-10-06 13:47:45",
-      "album": {
-        "name": "Rich Man - The 6th Mini Album",
-        "url": "https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 197578,
-      "name": "Rich Man",
-      "url": "https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw"
-    },
-    {
-      "added_at": "2025-10-06 13:47:45",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 169917,
-      "name": "APT.",
-      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
-    },
-    {
-      "added_at": "2025-10-06 13:47:45",
-      "album": {
-        "name": "\u592a\u5e73\u76db\u4e16",
-        "url": "https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU"
-      },
-      "artists": [
-        {
-          "name": "David Tao",
-          "url": "https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB"
-        }
-      ],
-      "duration_ms": 292666,
-      "name": "\u611b\u6211\u9084\u662f\u4ed6",
-      "url": "https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i"
-    },
-    {
-      "added_at": "2025-10-06 13:47:45",
+      "added_at": "2025-10-07 14:12:43",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
@@ -744,12 +480,92 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 150517,
-      "name": "Wood",
-      "url": "https://open.spotify.com/track/5ylJtmaWPJ33cW3En7WOu0"
+      "duration_ms": 212777,
+      "name": "Father Figure",
+      "url": "https://open.spotify.com/track/03bTIHJElXZ0O0jqOQvAbY"
     },
     {
-      "added_at": "2025-10-06 13:47:45",
+      "added_at": "2025-10-07 14:12:43",
+      "album": {
+        "name": "\u5e7e\u5206\u4e4b\u5e7e",
+        "url": "https://open.spotify.com/album/2yBLZVs24cFju6t8Jrnpbx"
+      },
+      "artists": [
+        {
+          "name": "Crowd Lu",
+          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
+        }
+      ],
+      "duration_ms": 228570,
+      "name": "\u5e7e\u5206\u4e4b\u5e7e - \u96fb\u5f71<\u82b1\u7532\u5927\u4eba\u8f49\u7537\u5b69>\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/4F7ZAsndEIJXyFzJUHNlRu"
+    },
+    {
+      "added_at": "2025-10-07 14:12:43",
+      "album": {
+        "name": "Amazing Show\u540c\u540d\u5c08\u8f2f",
+        "url": "https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau"
+      },
+      "artists": [
+        {
+          "name": "Amazing Show",
+          "url": "https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "\u611b\u60c5\u7684\u5927\u58de\u86cb",
+      "url": "https://open.spotify.com/track/5HVq8nS0pbM6G7YK8M7DY4"
+    },
+    {
+      "added_at": "2025-10-07 14:12:43",
+      "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 182293,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
+    },
+    {
+      "added_at": "2025-10-07 14:12:43",
+      "album": {
+        "name": "\u7d42\u6975\u4e00\u73ed2 (\u96fb\u8996\u539f\u8072\u5e36)",
+        "url": "https://open.spotify.com/album/0TB9rXuSN99QhTnI5lYwvM"
+      },
+      "artists": [
+        {
+          "name": "Pets Tseng",
+          "url": "https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "\u4e00\u500b\u4eba\u60f3\u8457\u4e00\u500b\u4eba",
+      "url": "https://open.spotify.com/track/3n3zzFH7zzO0gJNaw4RKSm"
+    },
+    {
+      "added_at": "2025-10-07 14:12:43",
+      "album": {
+        "name": "Jumping Machine (\u8df3\u697c\u673a)",
+        "url": "https://open.spotify.com/album/0ZrCpc5hnI1DGwUH3UCCQM"
+      },
+      "artists": [
+        {
+          "name": "LBI\u5229\u6bd4",
+          "url": "https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J"
+        }
+      ],
+      "duration_ms": 201642,
+      "name": "Jumping Machine (\u8df3\u697c\u673a)",
+      "url": "https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl"
+    },
+    {
+      "added_at": "2025-10-07 14:12:43",
       "album": {
         "name": "COLOR OUTSIDE THE LINES",
         "url": "https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf"
@@ -765,7 +581,7 @@
       "url": "https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz"
     },
     {
-      "added_at": "2025-10-06 13:47:45",
+      "added_at": "2025-10-07 14:12:43",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -797,7 +613,39 @@
       "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
     },
     {
-      "added_at": "2025-10-06 13:47:45",
+      "added_at": "2025-10-07 14:12:43",
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "duration_ms": 250268,
+      "name": "What It Sounds Like",
+      "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
+    },
+    {
+      "added_at": "2025-10-07 14:12:43",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
@@ -808,12 +656,148 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 211498,
-      "name": "CANCELLED!",
-      "url": "https://open.spotify.com/track/1appZ3c336FkPvCuywfmrs"
+      "duration_ms": 207349,
+      "name": "Wi$h Li$t",
+      "url": "https://open.spotify.com/track/2TEQvxxQabwLQMqWMg1qGu"
     },
     {
-      "added_at": "2025-10-06 13:47:45",
+      "added_at": "2025-10-07 14:12:43",
+      "album": {
+        "name": "Rich Man - The 6th Mini Album",
+        "url": "https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 197578,
+      "name": "Rich Man",
+      "url": "https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw"
+    },
+    {
+      "added_at": "2025-10-07 14:12:43",
+      "album": {
+        "name": "\u505a\u6211\u7684\u521d\u6200",
+        "url": "https://open.spotify.com/album/2lfbi7dCdcCU6cKcKPBUxY"
+      },
+      "artists": [
+        {
+          "name": "PIZZALI",
+          "url": "https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "\u505a\u6211\u7684\u521d\u6200",
+      "url": "https://open.spotify.com/track/4flk8ZgDFry6o2t0SdKsnB"
+    },
+    {
+      "added_at": "2025-10-07 14:12:43",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 241766,
+      "name": "The Life of a Showgirl (feat. Sabrina Carpenter)",
+      "url": "https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex"
+    },
+    {
+      "added_at": "2025-10-07 14:12:43",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 246356,
+      "name": "Eldest Daughter",
+      "url": "https://open.spotify.com/track/62HoDY1Km6lm47haFpUn9c"
+    },
+    {
+      "added_at": "2025-10-07 14:12:43",
+      "album": {
+        "name": "\u95a3\u611b\u59b3\u4e00\u64fa",
+        "url": "https://open.spotify.com/album/1KaZUKYBcVHaxD3gd8N3M7"
+      },
+      "artists": [
+        {
+          "name": "EggPlantEgg",
+          "url": "https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg"
+        }
+      ],
+      "duration_ms": 278010,
+      "name": "\u95a3\u611b\u59b3\u4e00\u64fa",
+      "url": "https://open.spotify.com/track/4Zwn8WxD61diTwqv9hyTQA"
+    },
+    {
+      "added_at": "2025-10-07 14:12:43",
+      "album": {
+        "name": "\u611b\u611b\u611b",
+        "url": "https://open.spotify.com/album/75QhyYrpr4b3sJUvmYAU3v"
+      },
+      "artists": [
+        {
+          "name": "Khalil Fong",
+          "url": "https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd"
+        }
+      ],
+      "duration_ms": 215253,
+      "name": "\u611b\u611b\u611b",
+      "url": "https://open.spotify.com/track/59lBAMCis4C6NsPdUV35Vz"
+    },
+    {
+      "added_at": "2025-10-07 14:12:43",
+      "album": {
+        "name": "\u6253\u706b\u673a",
+        "url": "https://open.spotify.com/album/5BPXZBmNl9hbdiY0uBWCOP"
+      },
+      "artists": [
+        {
+          "name": "Penny",
+          "url": "https://open.spotify.com/artist/3pCXWBMgty5rbPOLlaUYR0"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "\u6253\u706b\u673a",
+      "url": "https://open.spotify.com/track/5WdByUAU4gltnuTGKBUQfu"
+    },
+    {
+      "added_at": "2025-10-07 14:12:43",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
+    },
+    {
+      "added_at": "2025-10-07 14:12:43",
       "album": {
         "name": "Messy (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr"
@@ -833,39 +817,7 @@
       "url": "https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9"
     },
     {
-      "added_at": "2025-10-06 13:47:45",
-      "album": {
-        "name": "Whiplash - The 5th Mini Album",
-        "url": "https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 183226,
-      "name": "Whiplash",
-      "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
-    },
-    {
-      "added_at": "2025-10-06 13:47:45",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 220564,
-      "name": "Ruin The Friendship",
-      "url": "https://open.spotify.com/track/62V2ZHslgQV98gH4AuVXnr"
-    },
-    {
-      "added_at": "2025-10-06 13:47:45",
+      "added_at": "2025-10-07 14:12:43",
       "album": {
         "name": "\u770b\u7740\u6211\u7684\u773c\u775b\u8bf4",
         "url": "https://open.spotify.com/album/1rH94s6Uw5ejDiOO5UjpNi"
@@ -881,23 +833,23 @@
       "url": "https://open.spotify.com/track/7d6eShN6yVeR4Y2Md9uCA4"
     },
     {
-      "added_at": "2025-10-06 13:47:45",
+      "added_at": "2025-10-07 14:12:43",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+        "name": "\u6211\u5011\u4ee5\u5f8c\u8981\u7d50\u5a5a",
+        "url": "https://open.spotify.com/album/0mnRDacFJUE7YDLLIUwTbL"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "EggPlantEgg",
+          "url": "https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg"
         }
       ],
-      "duration_ms": 163699,
-      "name": "Actually Romantic",
-      "url": "https://open.spotify.com/track/2x3mwb96B6TquRqMtbxUE1"
+      "duration_ms": 253723,
+      "name": "\u6d6a\u6d41\u9023",
+      "url": "https://open.spotify.com/track/1IS0WFyiVpwsATeSzjEvpI"
     },
     {
-      "added_at": "2025-10-06 13:47:45",
+      "added_at": "2025-10-07 14:12:43",
       "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
@@ -913,20 +865,68 @@
       "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
     },
     {
-      "added_at": "2025-10-06 13:47:45",
+      "added_at": "2025-10-07 14:12:43",
       "album": {
-        "name": "\u6253\u706b\u673a",
-        "url": "https://open.spotify.com/album/5BPXZBmNl9hbdiY0uBWCOP"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
-          "name": "Penny",
-          "url": "https://open.spotify.com/artist/3pCXWBMgty5rbPOLlaUYR0"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 153750,
-      "name": "\u6253\u706b\u673a",
-      "url": "https://open.spotify.com/track/5WdByUAU4gltnuTGKBUQfu"
+      "duration_ms": 163699,
+      "name": "Actually Romantic",
+      "url": "https://open.spotify.com/track/2x3mwb96B6TquRqMtbxUE1"
+    },
+    {
+      "added_at": "2025-10-07 14:12:43",
+      "album": {
+        "name": "\u592a\u5e73\u76db\u4e16",
+        "url": "https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU"
+      },
+      "artists": [
+        {
+          "name": "David Tao",
+          "url": "https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB"
+        }
+      ],
+      "duration_ms": 292666,
+      "name": "\u611b\u6211\u9084\u662f\u4ed6",
+      "url": "https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i"
+    },
+    {
+      "added_at": "2025-10-07 14:12:43",
+      "album": {
+        "name": "\u8449\u60e0\u7f8e",
+        "url": "https://open.spotify.com/album/0E5yojmnEdbs68b1wM6Kla"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 269746,
+      "name": "\u6674\u5929",
+      "url": "https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm"
+    },
+    {
+      "added_at": "2025-10-07 14:12:43",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 211498,
+      "name": "CANCELLED!",
+      "url": "https://open.spotify.com/track/1appZ3c336FkPvCuywfmrs"
     }
   ],
   "unique_name": "Top 50 - Taiwan",

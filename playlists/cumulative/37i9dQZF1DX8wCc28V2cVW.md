@@ -4,10 +4,11 @@
 
 > Be the first to hear the FINAL FANTASY VII REBIRTH soundtrack and stay tuned for the upcoming theme song\. 最新作『FINAL FANTASY VII REBIRTH』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-285 songs - 16 hr 35 min
+286 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Chapel](https://open.spotify.com/track/1Ptt2vsB5QfmzcpcO75Vbc) | [Hitoshi Sakimoto](https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 2:33 | 2025-09-16 |  |
 | [A Fleeting Dream](https://open.spotify.com/track/51REyltyZa0nyob7Vpqomd) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 4:24 | 2021-05-21 | 2023-06-09 |
 | [A New World](https://open.spotify.com/track/5Y4mbNvKUlvPIdpsczkNGd) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY V Original Soundtrack](https://open.spotify.com/album/4Gm1PKfsnSdxz4BQGrvpv8) | 2:15 | 2021-05-21 | 2023-06-09 |
 | [A Place to Call Home](https://open.spotify.com/track/0M2OPKOlAfcDPXxdRh6NMt) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY IX Original Soundtrack](https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi) | 2:08 | 2021-05-21 | 2023-06-09 |
@@ -192,7 +193,7 @@
 | [SUTEKI DA NE \(Isn't It Wonderful?\)](https://open.spotify.com/track/3H39xh0GOrFkp0cjwazaXx) | [RIKKI](https://open.spotify.com/artist/6dpDHCzVviITtfGiB7S5HG) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 5:34 | 2021-05-21 |  |
 | [SUTEKI DA NE \(Isn't It Wonderful?\) \- Orchestra Version](https://open.spotify.com/track/3Y9niDtvTxk0efj8IUQb9z) | [RIKKI](https://open.spotify.com/artist/6dpDHCzVviITtfGiB7S5HG) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 6:19 | 2023-06-08 |  |
 | [Terra's Theme](https://open.spotify.com/track/5vkzFLlswC4stmL1aKfAPD) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VI Original Soundtrack](https://open.spotify.com/album/76XVjMzhQNv2pOQF3WVmeY) | 3:52 | 2021-05-21 | 2023-06-09 |
-| [The Ark](https://open.spotify.com/track/52owa26O52mjroTJTfnHGI) | [Mitsuto Suzuki](https://open.spotify.com/artist/5W4sTIDfoLa7FKduC4R8AE) | [LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI) | 4:31 | 2024-09-18 |  |
+| [The Ark](https://open.spotify.com/track/52owa26O52mjroTJTfnHGI) | [Mitsuto Suzuki](https://open.spotify.com/artist/5W4sTIDfoLa7FKduC4R8AE) | [LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI) | 4:31 | 2024-09-18 | 2025-10-08 |
 | [The Dalmasca Estersand](https://open.spotify.com/track/0J3xaF18seu4K8ULB7qHc4) | [崎元仁](https://open.spotify.com/artist/5IgtFW3mCaIGAuPbx7qE04) | [FINAL FANTASY XII Original Soundtrack](https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C) | 4:02 | 2021-05-21 | 2023-06-09 |
 | [The Decisive Battle](https://open.spotify.com/track/459meHLoi2qIoAAamGCc0x) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VI Original Soundtrack](https://open.spotify.com/album/76XVjMzhQNv2pOQF3WVmeY) | 2:01 | 2021-05-21 | 2023-06-09 |
 | [The Extreme](https://open.spotify.com/track/3THeRFJSwIqonSjeHkP6Uy) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VIII Original Soundtrack](https://open.spotify.com/album/6hbfyUrnBUh55XnOX8hrQh) | 6:44 | 2021-05-21 | 2022-07-29 |

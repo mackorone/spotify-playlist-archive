@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-790 songs - 1 day 15 hr 44 min
+792 songs - 1 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Disco](https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Disco](https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3) | 2:32 | 2024-09-11 | 2025-03-06 |
 | [DNA](https://open.spotify.com/track/7omACbUaNfQohJbydBWiw3) | [EINDHOVEN'S FINEST](https://open.spotify.com/artist/2PXu5HFtDJEvWK4T6bszxr), [Miggs De Bruijn](https://open.spotify.com/artist/0Z4fLy8J9Xe2r9kw6zkLFx), [Lirical](https://open.spotify.com/artist/2H0j2bWQRjJWzcGIjnl7nX), [Sandersville](https://open.spotify.com/artist/4PwNo9ExQ9lVXrYMoJLh7A) | [DNA](https://open.spotify.com/album/5n9MkK07sdjgqgLwNApZ3z) | 2:51 | 2024-04-16 | 2024-07-04 |
 | [DNA](https://open.spotify.com/track/1CijnKFb3kqusDnNJrAJn1) | [Glen Fontein](https://open.spotify.com/artist/7oeQm1xiTWTKyq2DY42Hpq) | [DNA](https://open.spotify.com/album/4VFNlHIFWlwoknoAsJTyuu) | 2:34 | 2023-02-28 | 2023-04-19 |
+| [Do You Mind \- Crazy Cousinz Remix](https://open.spotify.com/track/5VnFXAOr6nLxbHuO3DjJBN) | [Paleface](https://open.spotify.com/artist/0qUCsTc5cWyv1svw2osJs8), [Crazy Cousins](https://open.spotify.com/artist/5RkMe6R9nx6zFIyBxZDGfr) | [Do You Mind \(Crazy Cousins Remix\)](https://open.spotify.com/album/0nAG55NlcJhwxHk7pF1DKx) | 7:15 | 2025-10-07 |  |
 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 | 2023-05-12 | 2023-06-27 |
 | [Dominique](https://open.spotify.com/track/5cJR6iMvlC2RxBfNHXfwNg) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Dominique](https://open.spotify.com/album/2ZApdgqRMQCcmeQDrof1O9) | 4:21 | 2024-07-10 | 2024-11-12 |
 | [Domino \- Sped Up](https://open.spotify.com/track/7I53PteWhM2E41k9sIjdRZ) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [Kuya Magik](https://open.spotify.com/artist/2XoYzhtOrvNdtu1NjyZsnb) | [Domino \(Sped Up\)](https://open.spotify.com/album/2iEVHzP58I3iWZypuLqHqR) | 3:17 | 2024-02-01 | 2024-04-19 |
@@ -447,6 +448,7 @@
 | [Messy](https://open.spotify.com/track/6v6O07aMwdAkBtEuviGe33) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2ZA9At0a1IsXTyL8nInUBS) | 4:44 | 2024-12-03 | 2024-12-12 |
 | [Middelvinger](https://open.spotify.com/track/5n0yG4LEdKkIFnEMHbILId) | [Romeijn](https://open.spotify.com/artist/1dUocViVH0TuntyDehVn6B), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Middelvinger](https://open.spotify.com/album/7HaemgeoWlIyMK26Feapko) | 1:50 | 2024-08-28 | 2024-10-22 |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-06 | 2024-07-04 |
+| [Mimosa 2000](https://open.spotify.com/track/79bWkyd08EFDO0ZZuu7IRT) | [Furacão 2000](https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0) | [27 Anos Nacional](https://open.spotify.com/album/5wcu3Cy16Mm6JJrVlIPsHW) | 2:20 | 2025-10-07 |  |
 | [Misschien \(Kwijt\)](https://open.spotify.com/track/3YtCnJtiIGkoP5kXEGJWIg) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [HIGH SOCIETY SWAGGERBOY](https://open.spotify.com/album/3CqCzAHqRdcUWje8yLip2v) | 3:02 | 2024-05-29 | 2024-10-08 |
 | [Misty](https://open.spotify.com/track/2exbololsmP1XM2gmBEvAW) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [I'll Cry If I Want To](https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8) | 2:18 | 2024-01-10 | 2024-02-15 |
 | [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2023-02-23 | 2023-03-04 |

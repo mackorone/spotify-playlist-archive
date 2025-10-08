@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2025-07-28",
   "description": "Die erfolgreichsten in einer Woche gestreamten Songs - alle Genres, alle Plattformen.",
-  "name": "Offizielle Deutsche Streaming-Charts KW 39.2025 / German Streaming-Charts",
+  "name": "Offizielle Deutsche Streaming-Charts KW 40.2025 / German Streaming-Charts",
   "tracks": [
     {
       "album": {
@@ -372,6 +372,24 @@
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "album": {
+        "name": "HERZINFUCKED",
+        "url": "https://open.spotify.com/album/4wJVpq8vt31kB9wySZY0WB"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165476,
+      "name": "Auf & Ab",
+      "url": "https://open.spotify.com/track/2sFsvaMRe8PKo5AFdBE9qC"
     },
     {
       "album": {
@@ -785,6 +803,36 @@
     },
     {
       "album": {
+        "name": "The Heist",
+        "url": "https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Ryan Lewis",
+          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+        },
+        {
+          "name": "Macklemore & Ryan Lewis",
+          "url": "https://open.spotify.com/artist/6WLvgbfYXQPO396oJEYCsi"
+        },
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258342,
+      "name": "Can't Hold Us (feat. Ray Dalton)",
+      "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
+    },
+    {
+      "album": {
         "name": "The Heist (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2pFX16u42q0e5F5vRmmzYT"
       },
@@ -958,6 +1006,24 @@
       "duration_ms": 126593,
       "name": "COOKIT! (ESTORER OST)",
       "url": "https://open.spotify.com/track/6UJH5Zp4qqhXyZFTWeeGLX"
+    },
+    {
+      "album": {
+        "name": "Native",
+        "url": "https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257265,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
     },
     {
       "album": {
@@ -1202,7 +1268,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 151786,
       "name": "Dreckig & Gemein",
       "url": "https://open.spotify.com/track/565Zol7yyf0nZMHVtIjsQP"
@@ -1336,7 +1402,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -1480,7 +1546,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 166302,
       "name": "Galopp!",
       "url": "https://open.spotify.com/track/0QuygfcvB1w2MLTyPDpEJj"
@@ -1678,7 +1744,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 133751,
       "name": "Hast du kurz Zeit",
       "url": "https://open.spotify.com/track/46BjFXnWrumhdl0uvk7IwE"
@@ -1898,7 +1964,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 159404,
       "name": "Immer",
       "url": "https://open.spotify.com/track/7uIhcRg6ia0S9z1UzCl0Qc"
@@ -2124,7 +2190,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 156524,
       "name": "Leopard",
       "url": "https://open.spotify.com/track/1lAXT40ddSDINaCjCvzPVR"
@@ -2258,7 +2324,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 123818,
       "name": "Malediven",
       "url": "https://open.spotify.com/track/5WBTdhkXW8REDxEERqtUOY"
@@ -2611,6 +2677,28 @@
     },
     {
       "album": {
+        "name": "NOW OR NEVER",
+        "url": "https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM"
+      },
+      "artists": [
+        {
+          "name": "Tkandz",
+          "url": "https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO"
+        },
+        {
+          "name": "CXSPER",
+          "url": "https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "NOW OR NEVER",
+      "url": "https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM"
+    },
+    {
+      "album": {
         "name": "Meteora",
         "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
       },
@@ -2814,7 +2902,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 145000,
       "name": "RAGE GIRL",
       "url": "https://open.spotify.com/track/2ghPrJZ7sn1MlyCAUja1C6"
@@ -3076,7 +3164,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 159383,
       "name": "Sch\u00f6ne Dinge",
       "url": "https://open.spotify.com/track/5ddeAZkgc1JMI9glEwHAOx"
@@ -3138,6 +3226,24 @@
       "duration_ms": 115555,
       "name": "Shabab(e)s im VIP",
       "url": "https://open.spotify.com/track/1JjHQ4lfAjbDq7wmOmH9wM"
+    },
+    {
+      "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/147jJJM5Qf7woiQvUThChf"
+      },
+      "artists": [
+        {
+          "name": "Yc",
+          "url": "https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95933,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/6hSOdY15SDS6c3hAAnDMD4"
     },
     {
       "album": {
@@ -3691,6 +3797,32 @@
     },
     {
       "album": {
+        "name": "Tiki Taka",
+        "url": "https://open.spotify.com/album/3y1JUYk5qbsv0176Xhv13a"
+      },
+      "artists": [
+        {
+          "name": "Haaland936",
+          "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149232,
+      "name": "Tiki Taka",
+      "url": "https://open.spotify.com/track/2WKGjA15tmboB4kFpj2eKv"
+    },
+    {
+      "album": {
         "name": "Hurry Up Tomorrow",
         "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
       },
@@ -3713,6 +3845,24 @@
     },
     {
       "album": {
+        "name": "TIT FOR TAT",
+        "url": "https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175956,
+      "name": "TIT FOR TAT",
+      "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
+    },
+    {
+      "album": {
         "name": "TRAPPER'S LULLABY",
         "url": "https://open.spotify.com/album/3BELR2rzU6HU14t2cShe3Z"
       },
@@ -3724,7 +3874,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 252865,
       "name": "TRAPPER'S LULLABY",
       "url": "https://open.spotify.com/track/11zZDUazgO4zMrW03q2fWo"
@@ -3847,6 +3997,28 @@
     },
     {
       "album": {
+        "name": "Unsterblich sein (*) feat. Domiziana",
+        "url": "https://open.spotify.com/album/3dEh34KU5u8tbmpcgys6LY"
+      },
+      "artists": [
+        {
+          "name": "Kraftklub",
+          "url": "https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4"
+        },
+        {
+          "name": "Domiziana",
+          "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183085,
+      "name": "Unsterblich sein (*) feat. Domiziana",
+      "url": "https://open.spotify.com/track/6CZxZdssLXDVEykOehJUuo"
+    },
+    {
+      "album": {
         "name": "Unwritten",
         "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
       },
@@ -3858,7 +4030,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -4462,7 +4634,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 166008,
       "name": "\u00dcberdosis",
       "url": "https://open.spotify.com/track/31cq1cm2Pf1McTFU4bkY2C"

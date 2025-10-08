@@ -4,7 +4,7 @@
 
 > This is El Coyote Y Su Banda Tierra Santa\. The essential tracks, all in one playlist.
 
-128 songs - 6 hr 46 min
+130 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,8 +64,10 @@
 | [Gabino Barrera](https://open.spotify.com/track/4tAEa8PCDCdGJxmDnyjguB) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puras Rancheras](https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW) | 3:25 | 2022-06-01 |  |
 | [Hablando Claro](https://open.spotify.com/track/4NiNF2TgroCObAR1iYX1MR) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Te Soñé](https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY) | 2:16 | 2022-06-01 |  |
 | [Juan Ramos](https://open.spotify.com/track/1UbzmkVajS4YyoJLuGP7q9) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Amo](https://open.spotify.com/album/4YblOZueMvUtw52G7DETSj) | 2:57 | 2022-06-01 |  |
-| [La Escuela de la Vida](https://open.spotify.com/track/1yplnIFFnaIPgiOOKdlQDa) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Escuela de la Vida](https://open.spotify.com/album/1FajOqCHXRux8YmKtYVbjg) | 2:22 | 2022-06-01 |  |
+| [La Escuela de la Vida](https://open.spotify.com/track/1yplnIFFnaIPgiOOKdlQDa) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Escuela de la Vida](https://open.spotify.com/album/1FajOqCHXRux8YmKtYVbjg) | 2:22 | 2022-06-01 | 2025-10-08 |
+| [La Escuela de la Vida](https://open.spotify.com/track/4SWNOnYG8zGt2YSTzx4HkU) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Escuela de la Vida](https://open.spotify.com/album/7rCXWWp8dk5w1qiO1WyW0v) | 2:22 | 2025-10-08 |  |
 | [La Gran Pachanga](https://open.spotify.com/track/4cyXq6gzdDDa8nRercj5C9) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El General](https://open.spotify.com/album/5jfEZzk2tqBlPisJv6ov78) | 2:35 | 2024-06-02 | 2024-09-27 |
+| [La Loba del Mar](https://open.spotify.com/track/01l0Stxns89Z2b4UCRZQgZ) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Como Una Huella Digital](https://open.spotify.com/album/2dkCnatj0xFwKpng8Sxgn3) | 2:23 | 2025-10-08 |  |
 | [La Loba del Mar](https://open.spotify.com/track/6ozLwDnOkZBN1yir033PyG) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Como una Huella Digital](https://open.spotify.com/album/2smzCkewD9Jfht4iw9spg6) | 2:23 | 2022-06-01 | 2025-10-07 |
 | [La Manuelita](https://open.spotify.com/track/4mSRvEUd338ZSDGR4ApCOR) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Porque Te Amé \(Vol\. 1\)](https://open.spotify.com/album/11RxvUuFr3iNGo6b3V7wi8) | 3:36 | 2022-06-01 | 2022-10-13 |
 | [La Prieta Linda](https://open.spotify.com/track/0P2uUhEU7JeVPCwFnxhrAD) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Cuando Regreso A Tus Brazos](https://open.spotify.com/album/5Xh3r6kzRx25E91eNZh8cJ) | 3:27 | 2023-06-27 |  |
@@ -100,7 +102,7 @@
 | [Prohibido](https://open.spotify.com/track/48bf7pvc1nlsSjnHkoz0VY) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Prohibido](https://open.spotify.com/album/1fTMFtna1GzcCtBH4tBGNT) | 2:56 | 2022-06-01 |  |
 | [Prohibido \(En Vivo\)](https://open.spotify.com/track/2oaXSRWXf0pjmODxwKBxmq) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Prohibido \(En Vivo\)](https://open.spotify.com/album/7ij7uJXtBAxjZswsqYLfxl) | 2:58 | 2024-03-17 |  |
 | [Puño De Tierra](https://open.spotify.com/track/6nAwNfJ1kxO5r2EWClqW1b) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Evolucion De Una Estrella](https://open.spotify.com/album/6k7d21DElnpqLJJZ9f1TEl) | 2:59 | 2022-06-01 |  |
-| [Quiero Charlar Con La Muerte](https://open.spotify.com/track/4X0ktZrJzaw4D23lNC3um2) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Ley De La Vida](https://open.spotify.com/album/5qhVk36xZ9uj7oNRN1CYQg) | 2:41 | 2024-09-01 |  |
+| [Quiero Charlar Con La Muerte](https://open.spotify.com/track/4X0ktZrJzaw4D23lNC3um2) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Ley De La Vida](https://open.spotify.com/album/5qhVk36xZ9uj7oNRN1CYQg) | 2:41 | 2024-09-01 | 2025-10-08 |
 | [Quiero Charlar Con La Muerte](https://open.spotify.com/track/5P1Fm2SSTWfcRmpCCjxwHd) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puros Corridos Y Rancheras](https://open.spotify.com/album/6jWO1gpaKRmFOkankuNGqK) | 2:43 | 2023-12-29 | 2024-07-15 |
 | [Quiéreme Como Te Quiero](https://open.spotify.com/track/63Y5mRtWfTN8yarc8s7rCY) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Quiéreme Como Te Quiero](https://open.spotify.com/album/7HQP7d39VLU5cwv2hGcO7X) | 3:20 | 2024-01-16 | 2024-01-31 |
 | [Qué Casualidad](https://open.spotify.com/track/0AFkOMz5UWiDQUMswNqT42) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Grandes Exitos](https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA) | 2:22 | 2022-06-01 |  |

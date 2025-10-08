@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
-  "num_followers": 48510,
+  "num_followers": 48511,
   "original_name": "This Is Jimmy Eat World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAADVgAy19OG+ElYsnYGiwuvK",
+  "snapshot_id": "aOMGgAAAAABRHo/g9VzSIuSGJTB33Tz+",
   "tracks": [
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 217213,
-      "name": "The Authority Song",
-      "url": "https://open.spotify.com/track/7gAw3OKcrfeRWOFxWs7wgK"
+      "duration_ms": 273200,
+      "name": "If You Don't, Don't",
+      "url": "https://open.spotify.com/track/5prYdqVZFzoOBj33WFTdJu"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surviving",
-        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 245746,
-      "name": "All The Way (Stay)",
-      "url": "https://open.spotify.com/track/5l0pUBYQ5CpPZWMtRvX26K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clarity (Expanded Edition)",
         "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 160560,
       "name": "Your New Aesthetic",
       "url": "https://open.spotify.com/track/0gL7j0cio6IOFizDz0kKpu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surviving",
+        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 245746,
+      "name": "All The Way (Stay)",
+      "url": "https://open.spotify.com/track/5l0pUBYQ5CpPZWMtRvX26K"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damage",
-        "url": "https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "I Will Steal You Back",
-      "url": "https://open.spotify.com/track/32Cimaqis8qkGRMACGsOkh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clarity (Expanded Edition)",
         "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 191796,
       "name": "Crush",
       "url": "https://open.spotify.com/track/4WgqQODh6GOGqIf7o7pkX4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 208600,
+      "name": "I Will Steal You Back",
+      "url": "https://open.spotify.com/track/32Cimaqis8qkGRMACGsOkh"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Static Prevails (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Call It In The Air",
-      "url": "https://open.spotify.com/track/3j6nYQC9jVtIOBXFNOOu9A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clarity (Expanded Edition)",
         "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 209640,
       "name": "Blister",
       "url": "https://open.spotify.com/track/1k4SbPrQlJws5oxPvVi6bP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Static Prevails (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Call It In The Air",
+      "url": "https://open.spotify.com/track/3j6nYQC9jVtIOBXFNOOu9A"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Integrity Blues",
-        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 171640,
-      "name": "Through",
-      "url": "https://open.spotify.com/track/4Iydh0QUgxeOB1o5oKAzAr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clarity (Expanded Edition)",
         "url": "https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 242693,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/47yXVjpiJnZB5VxxAL782h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Integrity Blues",
+        "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 171640,
+      "name": "Through",
+      "url": "https://open.spotify.com/track/4Iydh0QUgxeOB1o5oKAzAr"
     },
     {
       "added_at": null,

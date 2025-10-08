@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,996 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,991 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 20 | [Protection](https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Tracey Thorn](https://open.spotify.com/artist/7xFnmid57ZE6iWEXdEXO3b) | [Protection](https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC) | 7:51 |
 | 21 | [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [fue mejor \(feat\. SZA\)](https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI) | 3:50 |
 | 22 | [alright](https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 2:48 |
-| 23 | [Those Days](https://open.spotify.com/track/42yFErprYYtoYtzVdkNNAg) | [Dal](https://open.spotify.com/artist/3NF4EmZKXeCmMKLOAWzYjt), [Leah Yeger](https://open.spotify.com/artist/06p9GzfGI2V2Pmokgy123k) | [Those Days](https://open.spotify.com/album/3ruuXdcYTLv8j85lBvUouX) | 3:49 |
-| 24 | [Grateful](https://open.spotify.com/track/7mvma3mO5hSyhVbJDXxtFz) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Grateful](https://open.spotify.com/album/2PLznXIZ3amppNBiPoMFvs) | 3:05 |
+| 23 | [Grateful](https://open.spotify.com/track/7mvma3mO5hSyhVbJDXxtFz) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Grateful](https://open.spotify.com/album/2PLznXIZ3amppNBiPoMFvs) | 3:05 |
+| 24 | [Those Days](https://open.spotify.com/track/42yFErprYYtoYtzVdkNNAg) | [Dal](https://open.spotify.com/artist/3NF4EmZKXeCmMKLOAWzYjt), [Leah Yeger](https://open.spotify.com/artist/06p9GzfGI2V2Pmokgy123k) | [Those Days](https://open.spotify.com/album/3ruuXdcYTLv8j85lBvUouX) | 3:49 |
 | 25 | [Sorry \- Original Demo](https://open.spotify.com/track/6eR1N0EBHiDkGDzegX99d3) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:24 |
 | 26 | [And We Go Gentle](https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 3:23 |
 | 27 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 |
@@ -68,11 +68,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 58 | [Sandpaper Kisses](https://open.spotify.com/track/64vNKBA9dpXgQhQfuMocSG) | [Martina Topley\-Bird](https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6) | [Quixotic](https://open.spotify.com/album/5W3A1cKeYDWKwumAcTqQMf) | 3:52 |
 | 59 | [So](https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [So Sunshine](https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos) | 2:16 |
 | 60 | [Different Ways](https://open.spotify.com/track/4V0scczF99AVzyAYI35Ft4) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Different Ways](https://open.spotify.com/album/42Y8CqoFNq9mVyzGIVjb0Z) | 3:28 |
-| 61 | [Walk Long](https://open.spotify.com/track/1ibtSIWTF1Ti00WMocGGir) | [Psylo](https://open.spotify.com/artist/4EvMhwDutimwUZSG7t38XI), [KINIDA](https://open.spotify.com/artist/5rxk8Y4xZoD152zShQiwhB) | [Walk Long](https://open.spotify.com/album/0zR3grZpgad6nqfPauPdnJ) | 4:08 |
-| 62 | [IT'S NOT THAT SERIOUS](https://open.spotify.com/track/0L3KqlhJGIqpcX6eAC55rX) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [IT'S NOT THAT SERIOUS](https://open.spotify.com/album/3NxTfjuRvlRzNIEeCXPgNk) | 2:20 |
+| 61 | [IT'S NOT THAT SERIOUS](https://open.spotify.com/track/0L3KqlhJGIqpcX6eAC55rX) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [IT'S NOT THAT SERIOUS](https://open.spotify.com/album/3NxTfjuRvlRzNIEeCXPgNk) | 2:20 |
+| 62 | [Walk Long](https://open.spotify.com/track/1ibtSIWTF1Ti00WMocGGir) | [Psylo](https://open.spotify.com/artist/4EvMhwDutimwUZSG7t38XI), [KINIDA](https://open.spotify.com/artist/5rxk8Y4xZoD152zShQiwhB) | [Walk Long](https://open.spotify.com/album/0zR3grZpgad6nqfPauPdnJ) | 4:08 |
 | 63 | [Superheroes](https://open.spotify.com/track/2akoq472I49TzrFSJjjf47) | [Esthero](https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH) | [Breath From Another](https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S) | 3:58 |
-| 64 | [Voicenotes](https://open.spotify.com/track/2RBqraa59OrLMVYm7sq7Og) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Voicenotes](https://open.spotify.com/album/7KmeUOzgnUS9GvzZTnozaa) | 2:34 |
-| 65 | [Gone 2 Long](https://open.spotify.com/track/0V6p1at8MSW6WEhSp5EzVG) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [Gone 2 Long](https://open.spotify.com/album/7qMx6YrIMl5XjjZLRyR9OZ) | 3:15 |
+| 64 | [Gone 2 Long](https://open.spotify.com/track/0V6p1at8MSW6WEhSp5EzVG) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [Gone 2 Long](https://open.spotify.com/album/7qMx6YrIMl5XjjZLRyR9OZ) | 3:15 |
+| 65 | [Voicenotes](https://open.spotify.com/track/2RBqraa59OrLMVYm7sq7Og) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Voicenotes](https://open.spotify.com/album/7KmeUOzgnUS9GvzZTnozaa) | 2:34 |
 | 66 | [Sweet Love](https://open.spotify.com/track/0lZwumiLo3yINe5vc3Y79M) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Basement Grooves](https://open.spotify.com/album/17oUkIpNKzZMJiKckkUIf6) | 2:49 |
 | 67 | [Secrets](https://open.spotify.com/track/4tn5zAuILpz5GjsdoosU3G) | [Nomyn](https://open.spotify.com/artist/5VbsCwCoxtsC4nRCyLJveN), [Angelicca](https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP) | [Secrets](https://open.spotify.com/album/059780GUzrYPDmQF1tlsek) | 3:16 |
 | 68 | [Wicked Dreams](https://open.spotify.com/track/6dvHjr6kOqEnKeQyd3Tozs) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Spirit](https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG) | 4:31 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 95 | [Spring](https://open.spotify.com/track/5FKYSEhkz7sBzlkyLOAXKl) | [Maria Somerville](https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd) | [Luster](https://open.spotify.com/album/6vRCwr31pNFnURP8mj53KP) | 3:34 |
 | 96 | [Lonely Road](https://open.spotify.com/track/22W2hL07wNFLxoAceaEJkt) | [Doctor Flake](https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK), [Malika](https://open.spotify.com/artist/4kEd51gggillWwuzr1rpM6) | [Acchordance](https://open.spotify.com/album/3adRFNS6sAgApn9uuKDXYF) | 4:36 |
 | 97 | [Fortune Eyes](https://open.spotify.com/track/73nbjwGnfzLd7KsTU3H1mv) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Panda](https://open.spotify.com/album/6rsVdLBZoQUPkXIwc32iUZ) | 2:22 |
-| 98 | [From You](https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [From You](https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ) | 3:30 |
-| 99 | [Spirals On My Tongue](https://open.spotify.com/track/0I1oME61NvoZCIQxct99mP) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Emo Regulation](https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk) | 2:45 |
+| 98 | [Spirals On My Tongue](https://open.spotify.com/track/0I1oME61NvoZCIQxct99mP) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Emo Regulation](https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk) | 2:45 |
+| 99 | [From You](https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [From You](https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ) | 3:30 |
 | 100 | [Our Time](https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Our Time is Blue](https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE) | 3:38 |
 
 Snapshot ID: `AAAAAOotVafslnM1pDVuC86nvqNW0vWi`

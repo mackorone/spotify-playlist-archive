@@ -1,12 +1,12 @@
 {
   "description": "This is Eminem. The essential tracks, all in one playlist.",
-  "num_followers": 4067770,
+  "num_followers": 4068081,
   "original_name": "This Is Eminem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAABhxDnKZzFXp+wwuPJ8QG3U",
+  "snapshot_id": "aOMGgAAAAAAXf0L2BG6A6/7I+cokJx8o",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STANS (The Official Soundtrack)",
-        "url": "https://open.spotify.com/album/5DV2liMHX5AqtiLqy3Qu1b"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 294357,
-      "name": "Everybody\u2019s Looking At Me",
-      "url": "https://open.spotify.com/track/4yYI0Cly9B2p8XbNxfNCRy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Marshall Mathers LP2 (Deluxe)",
         "url": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk"
       },
@@ -431,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "STANS (The Official Soundtrack)",
+        "url": "https://open.spotify.com/album/5DV2liMHX5AqtiLqy3Qu1b"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 294357,
+      "name": "Everybody\u2019s Looking At Me",
+      "url": "https://open.spotify.com/track/4yYI0Cly9B2p8XbNxfNCRy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Eminem Show",
         "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
       },
@@ -443,6 +443,30 @@
       "duration_ms": 251720,
       "name": "Business",
       "url": "https://open.spotify.com/track/0x60P5taxdI5pcGbqbap6S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 159786,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/5CsDo9j3N4yFZNCN1h9loS"
     },
     {
       "added_at": null,
@@ -475,30 +499,6 @@
       "duration_ms": 288200,
       "name": "Bitch Please II",
       "url": "https://open.spotify.com/track/7lgvU7WnwcNZ8dbGUz8yhP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Encore (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 159786,
-      "name": "Never Enough",
-      "url": "https://open.spotify.com/track/5CsDo9j3N4yFZNCN1h9loS"
     },
     {
       "added_at": null,

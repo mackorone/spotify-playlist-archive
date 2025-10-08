@@ -4,7 +4,7 @@
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Carter Faith
 
-2,724 songs - 6 day 3 hr 25 min
+2,725 songs - 6 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -634,7 +634,8 @@
 | [Earth to God](https://open.spotify.com/track/1VewqDZcczAupTayfAPNAP) | [John Rich](https://open.spotify.com/artist/51THHWH97iA2ISvNxUn6Gs) | [Earth to God](https://open.spotify.com/album/3shgrsgRgfTqsibEP9u4SK) | 2:58 | 2020-09-28 | 2020-10-10 |
 | [Easier Said with Rum](https://open.spotify.com/track/0ldNuRVJEd701YS7trW3ot) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Memory Lane \(Sampler\)](https://open.spotify.com/album/4V44bvifYsLR3aXWlJuvHs) | 3:22 | 2023-01-13 | 2023-04-22 |
 | [Easy](https://open.spotify.com/track/5f9vvN6WCezcHMVreAvR2B) | [John King](https://open.spotify.com/artist/32Cj2WsRALt1SCWaPBR9QP) | [Easy](https://open.spotify.com/album/3bztzbbqYIdPU7ePsUu01r) | 3:05 | 2020-05-23 | 2020-07-25 |
-| [Easy Does It](https://open.spotify.com/track/2MJbBIbfi0vxRDkgH5jGey) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [The Fence](https://open.spotify.com/album/7lwhC9rO5k4ChxUPUhJtvL) | 3:04 | 2025-10-03 |  |
+| [Easy Does It](https://open.spotify.com/track/2MJbBIbfi0vxRDkgH5jGey) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [The Fence](https://open.spotify.com/album/7lwhC9rO5k4ChxUPUhJtvL) | 3:04 | 2025-10-03 | 2025-10-08 |
+| [Easy Does It](https://open.spotify.com/track/2RcpZxqA62aa4icEZ7Xo86) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Memory Lane](https://open.spotify.com/album/0Vg0rmwO8uBdFiQhY3QVWk) | 3:04 | 2025-10-07 |  |
 | [Easy Goin](https://open.spotify.com/track/6AoFAz2zZRdC43mzVU01Sf) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Easy Goin](https://open.spotify.com/album/52qFba0o5xWWhpP6CUVxXe) | 3:08 | 2020-04-25 | 2020-05-30 |
 | [EASY ON ME](https://open.spotify.com/track/3Z9znuwSxbmnexupwI8T36) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [EASY ON ME](https://open.spotify.com/album/2XsrTQH7HejG6s8Y72DrXL) | 2:19 | 2025-06-20 | 2025-07-26 |
 | [Easy To Love](https://open.spotify.com/track/3yG18Ue8wjrlcHfCiKYgjs) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Easy To Love](https://open.spotify.com/album/1ttV5Nga8CAgetgj5MGaRN) | 2:44 | 2025-05-30 | 2025-09-13 |

@@ -1,6 +1,6 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 136423,
+  "num_followers": 136431,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
@@ -627,18 +627,18 @@
     {
       "added_at": "2025-09-05 04:00:26",
       "album": {
-        "name": "LIGHTHOUSE",
-        "url": "https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r"
+        "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
+        "url": "https://open.spotify.com/album/6ipSFR7aTdNLtDR1TnJS86"
       },
       "artists": [
         {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+          "name": "goethe",
+          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
         }
       ],
-      "duration_ms": 187666,
-      "name": "\u706f\u53f0 (Live Session)",
-      "url": "https://open.spotify.com/track/2a3s6DyCghaqmS14lIlGez"
+      "duration_ms": 259713,
+      "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
+      "url": "https://open.spotify.com/track/4CeWDJ0CS4OwQnm3Az0CLN"
     },
     {
       "added_at": "2025-09-05 04:00:26",
@@ -659,18 +659,18 @@
     {
       "added_at": "2025-09-05 04:00:26",
       "album": {
-        "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
-        "url": "https://open.spotify.com/album/6ipSFR7aTdNLtDR1TnJS86"
+        "name": "LIGHTHOUSE",
+        "url": "https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r"
       },
       "artists": [
         {
-          "name": "goethe",
-          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
         }
       ],
-      "duration_ms": 259713,
-      "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
-      "url": "https://open.spotify.com/track/4CeWDJ0CS4OwQnm3Az0CLN"
+      "duration_ms": 187666,
+      "name": "\u706f\u53f0 (Live Session)",
+      "url": "https://open.spotify.com/track/2a3s6DyCghaqmS14lIlGez"
     },
     {
       "added_at": "2025-09-05 04:00:26",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-09-05 04:00:26",
       "album": {
-        "name": "YELLOW DANCER",
-        "url": "https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax"
-      },
-      "artists": [
-        {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
-        }
-      ],
-      "duration_ms": 251066,
-      "name": "\u591c",
-      "url": "https://open.spotify.com/track/2Ln7KVpxs0DetedsRx2pNj"
-    },
-    {
-      "added_at": "2025-09-05 04:00:26",
-      "album": {
         "name": "Arrows",
         "url": "https://open.spotify.com/album/77FjAsKZwIETP9YPmkx9U3"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 266729,
       "name": "Arrows",
       "url": "https://open.spotify.com/track/2AfPNXHk6iiGWGpt4bT0fH"
+    },
+    {
+      "added_at": "2025-09-05 04:00:26",
+      "album": {
+        "name": "This is music too",
+        "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 264680,
+      "name": "\u9752\u6708\u6d6e\u304f\u6d77",
+      "url": "https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw"
     },
     {
       "added_at": "2025-09-05 04:00:26",
@@ -759,18 +759,18 @@
     {
       "added_at": "2025-09-05 04:00:26",
       "album": {
-        "name": "This is music too",
-        "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
+        "name": "YELLOW DANCER",
+        "url": "https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax"
       },
       "artists": [
         {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
         }
       ],
-      "duration_ms": 264680,
-      "name": "\u9752\u6708\u6d6e\u304f\u6d77",
-      "url": "https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw"
+      "duration_ms": 251066,
+      "name": "\u591c",
+      "url": "https://open.spotify.com/track/2Ln7KVpxs0DetedsRx2pNj"
     },
     {
       "added_at": "2025-09-05 04:00:26",
@@ -839,8 +839,8 @@
     {
       "added_at": "2025-09-05 04:00:26",
       "album": {
-        "name": "Quicksand",
-        "url": "https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI"
+        "name": "\u30d3\u30a2\u30ea\u30b9\u30c8\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
         }
       ],
-      "duration_ms": 225720,
-      "name": "\u306f\u3060\u304b\u306e\u3086\u3081",
-      "url": "https://open.spotify.com/track/2NTZPgc5SLsKQX8VzypAh6"
+      "duration_ms": 234213,
+      "name": "\u307e\u305f\u305f\u304d",
+      "url": "https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH"
     },
     {
       "added_at": "2025-09-05 04:00:26",
@@ -927,8 +927,8 @@
     {
       "added_at": "2025-09-05 04:00:26",
       "album": {
-        "name": "\u30d3\u30a2\u30ea\u30b9\u30c8\u30c3\u30af\u30b9",
-        "url": "https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ"
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI"
       },
       "artists": [
         {
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
         }
       ],
-      "duration_ms": 234213,
-      "name": "\u307e\u305f\u305f\u304d",
-      "url": "https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH"
+      "duration_ms": 225720,
+      "name": "\u306f\u3060\u304b\u306e\u3086\u3081",
+      "url": "https://open.spotify.com/track/2NTZPgc5SLsKQX8VzypAh6"
     },
     {
       "added_at": "2025-09-05 04:00:26",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-09-05 04:00:26",
       "album": {
-        "name": "\u52c7\u6c17",
-        "url": "https://open.spotify.com/album/1XNE6xQzrlW6qce2rWC14z"
-      },
-      "artists": [
-        {
-          "name": "betcover!!",
-          "url": "https://open.spotify.com/artist/0qOuNoGdyXOUZlgdqPbTz3"
-        }
-      ],
-      "duration_ms": 145521,
-      "name": "\u30b9\u30c6\u30a4\u30a6\u30a3\u30ba\u30df\u30fc",
-      "url": "https://open.spotify.com/track/5vr4m6d0JK05OSGD8I7nMW"
-    },
-    {
-      "added_at": "2025-09-05 04:00:26",
-      "album": {
         "name": "early summer 2022",
         "url": "https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 274066,
       "name": "\u3053\u306e\u65e5\u306e\u3053\u3068",
       "url": "https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh"
+    },
+    {
+      "added_at": "2025-09-05 04:00:26",
+      "album": {
+        "name": "\u52c7\u6c17",
+        "url": "https://open.spotify.com/album/1XNE6xQzrlW6qce2rWC14z"
+      },
+      "artists": [
+        {
+          "name": "betcover!!",
+          "url": "https://open.spotify.com/artist/0qOuNoGdyXOUZlgdqPbTz3"
+        }
+      ],
+      "duration_ms": 145521,
+      "name": "\u30b9\u30c6\u30a4\u30a6\u30a3\u30ba\u30df\u30fc",
+      "url": "https://open.spotify.com/track/5vr4m6d0JK05OSGD8I7nMW"
     },
     {
       "added_at": "2025-09-05 04:00:26",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2025-09-05 04:00:26",
       "album": {
+        "name": "TWO MOON",
+        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "duration_ms": 287827,
+      "name": "\u7a93",
+      "url": "https://open.spotify.com/track/3brPAMmcLZRtiS7CyCO8Fc"
+    },
+    {
+      "added_at": "2025-09-05 04:00:26",
+      "album": {
         "name": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab (2024 ver.)",
         "url": "https://open.spotify.com/album/5V2JKwezZvZsyfLjmMlKjH"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 325185,
       "name": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab - 2024 ver.",
       "url": "https://open.spotify.com/track/0Hch2lV9Vk7MfyL0OZLHS2"
-    },
-    {
-      "added_at": "2025-09-05 04:00:26",
-      "album": {
-        "name": "TWO MOON",
-        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
-      },
-      "artists": [
-        {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
-        }
-      ],
-      "duration_ms": 287827,
-      "name": "\u7a93",
-      "url": "https://open.spotify.com/track/3brPAMmcLZRtiS7CyCO8Fc"
     },
     {
       "added_at": "2025-09-05 04:00:26",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-09-05 04:00:26",
       "album": {
-        "name": "\u97f3\u697d\u3068\u79c1",
-        "url": "https://open.spotify.com/album/40ZrEXw8VRCDkWrICrBTb0"
-      },
-      "artists": [
-        {
-          "name": "Tomoyo Harada",
-          "url": "https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1"
-        }
-      ],
-      "duration_ms": 392173,
-      "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
-      "url": "https://open.spotify.com/track/5ZwdNfFGj1ut9PzGgynYev"
-    },
-    {
-      "added_at": "2025-09-05 04:00:26",
-      "album": {
         "name": "\u7720\u308b\u305f\u3081\u306e\u30d4\u30a2\u30ce\u30a2\u30eb\u30d0\u30e0\uff5ebeautiful sleep\uff5e",
         "url": "https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 242573,
       "name": "Beautiful Sleep",
       "url": "https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A"
+    },
+    {
+      "added_at": "2025-09-05 04:00:26",
+      "album": {
+        "name": "\u97f3\u697d\u3068\u79c1",
+        "url": "https://open.spotify.com/album/40ZrEXw8VRCDkWrICrBTb0"
+      },
+      "artists": [
+        {
+          "name": "Tomoyo Harada",
+          "url": "https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1"
+        }
+      ],
+      "duration_ms": 392173,
+      "name": "\u5929\u56fd\u306b\u3044\u3061\u3070\u3093\u8fd1\u3044\u5cf6",
+      "url": "https://open.spotify.com/track/5ZwdNfFGj1ut9PzGgynYev"
     },
     {
       "added_at": "2025-09-05 04:00:26",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-09-05 04:00:26",
       "album": {
-        "name": "\u5e30\u3063\u3066\u304b\u3089\u3001\u6b4c\u3044\u305f\u304f\u306a\u3063\u3066\u3082\u3044\u3044\u3088\u3046\u306b\u3068\u601d\u3063\u305f\u306e\u3060\u3002",
-        "url": "https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG"
-      },
-      "artists": [
-        {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
-        }
-      ],
-      "duration_ms": 310520,
-      "name": "\u306d\u3080\u308b\u306e\u307e\u3061\uff5eTidur Tidur\uff5e",
-      "url": "https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V"
-    },
-    {
-      "added_at": "2025-09-05 04:00:26",
-      "album": {
         "name": "\u5317\u3078\u5411\u304b\u3046",
         "url": "https://open.spotify.com/album/5EdJTMHBPL2ziqG47U0ILo"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 270413,
       "name": "\u8a18\u61b6",
       "url": "https://open.spotify.com/track/5FVS7nLGnbYPm5fUAPmO1D"
+    },
+    {
+      "added_at": "2025-09-05 04:00:26",
+      "album": {
+        "name": "\u5e30\u3063\u3066\u304b\u3089\u3001\u6b4c\u3044\u305f\u304f\u306a\u3063\u3066\u3082\u3044\u3044\u3088\u3046\u306b\u3068\u601d\u3063\u305f\u306e\u3060\u3002",
+        "url": "https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG"
+      },
+      "artists": [
+        {
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
+        }
+      ],
+      "duration_ms": 310520,
+      "name": "\u306d\u3080\u308b\u306e\u307e\u3061\uff5eTidur Tidur\uff5e",
+      "url": "https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V"
     },
     {
       "added_at": "2025-09-05 04:00:26",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2025-09-05 04:00:26",
       "album": {
+        "name": "\u305f\u3088\u308a\u306a\u3044\u3082\u306e\u306e\u305f\u3081\u306b",
+        "url": "https://open.spotify.com/album/6sQTNDYLrgz6QTOVZCP87x"
+      },
+      "artists": [
+        {
+          "name": "Saho Terao",
+          "url": "https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH"
+        }
+      ],
+      "duration_ms": 430266,
+      "name": "\u305f\u3088\u308a\u306a\u3044\u3082\u306e\u306e\u305f\u3081\u306b",
+      "url": "https://open.spotify.com/track/5Y1z7Lgf0eBw2tRXMo2TRa"
+    },
+    {
+      "added_at": "2025-09-05 04:00:26",
+      "album": {
         "name": "Letters",
         "url": "https://open.spotify.com/album/4U7dNrhS6ITV4wb7A464nK"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 121513,
       "name": "\u8001\u592b\u5a66",
       "url": "https://open.spotify.com/track/2vbXsUHfLlmH2svOb5oDv6"
-    },
-    {
-      "added_at": "2025-09-05 04:00:26",
-      "album": {
-        "name": "\u305f\u3088\u308a\u306a\u3044\u3082\u306e\u306e\u305f\u3081\u306b",
-        "url": "https://open.spotify.com/album/6sQTNDYLrgz6QTOVZCP87x"
-      },
-      "artists": [
-        {
-          "name": "Saho Terao",
-          "url": "https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH"
-        }
-      ],
-      "duration_ms": 430266,
-      "name": "\u305f\u3088\u308a\u306a\u3044\u3082\u306e\u306e\u305f\u3081\u306b",
-      "url": "https://open.spotify.com/track/5Y1z7Lgf0eBw2tRXMo2TRa"
     },
     {
       "added_at": "2025-09-05 04:00:26",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2025-09-05 04:00:26",
       "album": {
-        "name": "Highlights from Simple is best",
-        "url": "https://open.spotify.com/album/3j087Rm0XA4375oo8bOpsj"
+        "name": "\u6b4c\u306b\u3057\u3066\u3057\u307e\u3048\u3070\u3001\u3069\u3093\u306a\u3053\u3068\u3067\u3082\u8a31\u3055\u308c\u308b\u3068\u601d\u3063\u3066\u3044\u305f",
+        "url": "https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e"
       },
       "artists": [
         {
-          "name": "Aoi Teshima",
-          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
         }
       ],
-      "duration_ms": 257105,
-      "name": "The Rose (15th Anniversary Version\uff09",
-      "url": "https://open.spotify.com/track/3gprhfewjgihqZS5OIRX95"
+      "duration_ms": 116880,
+      "name": "\u591c\u306e\u307e\u307e\u3067",
+      "url": "https://open.spotify.com/track/4S3RhR7avC92O5rFsi55nX"
     }
   ],
   "unique_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",

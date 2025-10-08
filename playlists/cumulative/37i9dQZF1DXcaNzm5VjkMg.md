@@ -4,7 +4,7 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-181 songs - 12 hr 12 min
+182 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Aku Cinta Padamu](https://open.spotify.com/track/2d65X8EZVwbPtPEijn7K1j) | [Agatha Suci](https://open.spotify.com/artist/7lyZRTtQBfJMHzOBlkEb4y), [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Aku Cinta Padamu](https://open.spotify.com/album/3bI3UZUV4u3lDtFdH5lfwu) | 3:33 | 2023-09-20 | 2024-09-28 |
 | [Aku Sedang Mencintaimu](https://open.spotify.com/track/7k5OoqMYnHmQZuSbVn02JU) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Oxygen](https://open.spotify.com/album/79OlXi99SqRKLTrZXedCfq) | 4:09 | 2023-02-03 | 2024-09-28 |
 | [Aku Takdirmu](https://open.spotify.com/track/7yDYXmJ8NAoYeVolXv9E5K) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [Aku Takdirmu](https://open.spotify.com/album/6syB0IkH8vdpQBUQAnY25C) | 4:05 | 2024-10-21 | 2025-07-28 |
+| [Alamak](https://open.spotify.com/track/1vkwlZncsYqFukl2Q7M6Fe) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Alamak](https://open.spotify.com/album/5oUWkx2j4lVO8u7kM3XnJT) | 3:29 | 2025-10-07 |  |
 | [Anugerah Terindah](https://open.spotify.com/track/1nc4oXLc3slDMDgl3DMRtJ) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Anugerah Terindah](https://open.spotify.com/album/35IqtcK73WJLJsU6L6GTOu) | 4:42 | 2024-11-25 |  |
 | [Anugerah Terindah Yang Pernah Kumiliki](https://open.spotify.com/track/41OCQS2Mul3MluLUUsfadr) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Sheila On 7](https://open.spotify.com/album/1hrJXgaVEGovpLl9dFdqz7) | 4:28 | 2023-02-03 |  |
 | [Are You My Valentine?](https://open.spotify.com/track/6Z3vBLF6uUfjUCNmgPcuwr) | [SIVIA](https://open.spotify.com/artist/21PaJ7FN5NCb7BNVA3KTuy) | [Are You My Valentine?](https://open.spotify.com/album/6hnIKTqfvJ2mkmemiaiDnF) | 4:04 | 2023-02-03 | 2023-05-04 |

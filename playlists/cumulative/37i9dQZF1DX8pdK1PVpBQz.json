@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: Cenobia",
+  "description": "The best new music by independent artists and labels. Cover: BVT",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 221772,
       "name": "10Tall",
       "url": "https://open.spotify.com/track/04LjJGH3w4RDrAbNki1nOx"
@@ -8144,6 +8144,24 @@
       "duration_ms": 237044,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/2aPkMz5csdBf20EjdzTPOr"
+    },
+    {
+      "album": {
+        "name": "LORETTA",
+        "url": "https://open.spotify.com/album/3XDROnTEFgDWYyugPpDGB4"
+      },
+      "artists": [
+        {
+          "name": "Loretta Miller",
+          "url": "https://open.spotify.com/artist/3PPsscNL08ZdSTazFdWi9B"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278332,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2TFShJUfDzo3qBCa6raGY2"
     },
     {
       "album": {
@@ -24222,7 +24240,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 206157,
       "name": "FINALE",
       "url": "https://open.spotify.com/track/3VOeBY0XjyFtSIiByOOZUQ"
@@ -36853,6 +36871,24 @@
     },
     {
       "album": {
+        "name": "It Might (I'm Ready)",
+        "url": "https://open.spotify.com/album/2tDQr7LrD1wkBRriDnvvx5"
+      },
+      "artists": [
+        {
+          "name": "Chloe Dadd",
+          "url": "https://open.spotify.com/artist/7uXyXCNAbNu5X6BdPFBWrj"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185073,
+      "name": "It Might (I'm Ready)",
+      "url": "https://open.spotify.com/track/7E22jUwQVcN0EiyLWMhrmO"
+    },
+    {
+      "album": {
         "name": "It'll All Work Out",
         "url": "https://open.spotify.com/album/7IuyxJGUHDS77iSjtcz4jP"
       },
@@ -40096,7 +40132,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 191613,
       "name": "Let's Go Out",
       "url": "https://open.spotify.com/track/5KfTbmYBZ9SF5CwqGWkEnY"
@@ -43961,6 +43997,28 @@
     },
     {
       "album": {
+        "name": "MASUNGIT",
+        "url": "https://open.spotify.com/album/3XYvw5qcEttVUln6od3V0V"
+      },
+      "artists": [
+        {
+          "name": "BVT",
+          "url": "https://open.spotify.com/artist/686bTsDGJ3bTbLZMUxouUi"
+        },
+        {
+          "name": "Basjia",
+          "url": "https://open.spotify.com/artist/5iADptTjjgWkXT8uNDbKfr"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117861,
+      "name": "MASUNGIT",
+      "url": "https://open.spotify.com/track/4EovHgbdFQc0j4jEaoFfJH"
+    },
+    {
+      "album": {
         "name": "Matter to Me",
         "url": "https://open.spotify.com/album/24ulAJDP4LcW3JvyqTDXDq"
       },
@@ -44784,7 +44842,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 138556,
       "name": "MIA",
       "url": "https://open.spotify.com/track/4F5UOHjI3VLGXPVYKtMCCu"
@@ -47249,6 +47307,24 @@
     },
     {
       "album": {
+        "name": "Nausea",
+        "url": "https://open.spotify.com/album/0MJVMWhQjrVp9aE7M5b9mi"
+      },
+      "artists": [
+        {
+          "name": "Special Guest",
+          "url": "https://open.spotify.com/artist/4WPcB3czUtzQ2QT1MAikKu"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241499,
+      "name": "Nausea",
+      "url": "https://open.spotify.com/track/4NyZSDjtIfz27tSVGnd3uu"
+    },
+    {
+      "album": {
         "name": "Navigate",
         "url": "https://open.spotify.com/album/5LPuYrcLHXFuUKmZ1T1pOi"
       },
@@ -49118,7 +49194,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 202906,
       "name": "No Such Time",
       "url": "https://open.spotify.com/track/2IrrF2MzBtghfx3UVyYw44"
@@ -52828,6 +52904,24 @@
       "duration_ms": 162338,
       "name": "Oysters In My Pocket",
       "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
+    },
+    {
+      "album": {
+        "name": "Pace",
+        "url": "https://open.spotify.com/album/7KhrkIe7BPlFGeDLwKsvSh"
+      },
+      "artists": [
+        {
+          "name": "Marlowe Wilton",
+          "url": "https://open.spotify.com/artist/2T33g5HKf9IdpHnx0swzwY"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Pace",
+      "url": "https://open.spotify.com/track/1czoi7DbGAcAnbXEwF60ud"
     },
     {
       "album": {
@@ -57022,7 +57116,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 231225,
       "name": "Rebels",
       "url": "https://open.spotify.com/track/43Na4cMyJiII16Se0Cl7uq"
@@ -59534,6 +59628,24 @@
       "duration_ms": 228095,
       "name": "Salt (feat. Odette)",
       "url": "https://open.spotify.com/track/6ueOeHitdOhYo84AgfoCju"
+    },
+    {
+      "album": {
+        "name": "Salt Lamp",
+        "url": "https://open.spotify.com/album/2XZ5yvH7Fj2VJKCup2duQk"
+      },
+      "artists": [
+        {
+          "name": "Eszter Max",
+          "url": "https://open.spotify.com/artist/5cfnsKphpYebQv6FHy8Xck"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176570,
+      "name": "Salt Lamp",
+      "url": "https://open.spotify.com/track/2LjXsaUSOW3wZo8tAIsA7Q"
     },
     {
       "album": {
@@ -70826,7 +70938,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 214104,
       "name": "This Place Is Ours",
       "url": "https://open.spotify.com/track/4m5fy1ZShRdL2XaDVk9J10"
@@ -73490,6 +73602,24 @@
       "duration_ms": 171066,
       "name": "Ultra Love feat. Ella Rosa",
       "url": "https://open.spotify.com/track/77hBvjErP2YfFB9OGSc9bE"
+    },
+    {
+      "album": {
+        "name": "Ultraviolet",
+        "url": "https://open.spotify.com/album/1euI6LPmMIRPQsvFPjcyyr"
+      },
+      "artists": [
+        {
+          "name": "Sunscreen",
+          "url": "https://open.spotify.com/artist/2NLF91sIHrRaNdoGQFmh2F"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224910,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/3SaHegl95t75lPpfA9vLUX"
     },
     {
       "album": {
@@ -76548,6 +76678,24 @@
       "duration_ms": 204436,
       "name": "Welcome To The World",
       "url": "https://open.spotify.com/track/3lKFKh93SVsJIDQytBIJ9Q"
+    },
+    {
+      "album": {
+        "name": "Well, We Can't Go Back Now",
+        "url": "https://open.spotify.com/album/22F1qfwQ9zCsXv1cNJZwNG"
+      },
+      "artists": [
+        {
+          "name": "Wretla",
+          "url": "https://open.spotify.com/artist/4splnNqhQXs88TtHWR0fbw"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417390,
+      "name": "Well, We Can't Go Back Now",
+      "url": "https://open.spotify.com/track/3TKelAeks16VAqc9CIoUBk"
     },
     {
       "album": {
@@ -80064,7 +80212,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 165011,
       "name": "Your Villain",
       "url": "https://open.spotify.com/track/4wVC94cEh7rER1zuzFeOsx"

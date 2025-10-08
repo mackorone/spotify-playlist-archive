@@ -1,12 +1,12 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 260073,
+  "num_followers": 260128,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJx/50ZsDb879hm+1p5Vdog0czTi",
+  "snapshot_id": "AAAAAOJwZzdvN7OBHv88giOLOCs7IDvj",
   "tracks": [
     {
       "added_at": "2025-09-19 14:10:48",
@@ -231,18 +231,22 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Novo Bossa Nova",
-        "url": "https://open.spotify.com/album/3SZQaNaCS69Nvos8Ix5jzM"
+        "name": "Edu & Tom, Tom & Edu",
+        "url": "https://open.spotify.com/album/5ttzMNvNxUiCtKlKiCnQLm"
       },
       "artists": [
         {
-          "name": "Danny Mandalay",
-          "url": "https://open.spotify.com/artist/34aetUeuJ0C1phjVY5F4vl"
+          "name": "Edu Lobo",
+          "url": "https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 200285,
-      "name": "Escada Infinita",
-      "url": "https://open.spotify.com/track/22tlsA8FUS6wDbGjqioZnq"
+      "duration_ms": 257533,
+      "name": "\u00c9 Preciso Dizer Adeus",
+      "url": "https://open.spotify.com/track/2yMWSLsGb0jcRsUNmWheKX"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -263,22 +267,18 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Edu & Tom, Tom & Edu",
-        "url": "https://open.spotify.com/album/5ttzMNvNxUiCtKlKiCnQLm"
+        "name": "Novo Bossa Nova",
+        "url": "https://open.spotify.com/album/3SZQaNaCS69Nvos8Ix5jzM"
       },
       "artists": [
         {
-          "name": "Edu Lobo",
-          "url": "https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+          "name": "Danny Mandalay",
+          "url": "https://open.spotify.com/artist/34aetUeuJ0C1phjVY5F4vl"
         }
       ],
-      "duration_ms": 257533,
-      "name": "\u00c9 Preciso Dizer Adeus",
-      "url": "https://open.spotify.com/track/2yMWSLsGb0jcRsUNmWheKX"
+      "duration_ms": 200285,
+      "name": "Escada Infinita",
+      "url": "https://open.spotify.com/track/22tlsA8FUS6wDbGjqioZnq"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Outra Vez",
-        "url": "https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B"
-      },
-      "artists": [
-        {
-          "name": "Adriana Arias",
-          "url": "https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK"
-        }
-      ],
-      "duration_ms": 137424,
-      "name": "Outra Vez",
-      "url": "https://open.spotify.com/track/7ukeAw6TwDl3dZAnv57Irp"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
         "name": "Bahia Com H",
         "url": "https://open.spotify.com/album/2UO7PFTEbd7DDwaUVSgVQR"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 170880,
       "name": "Saudade Fez um Samba",
       "url": "https://open.spotify.com/track/6DqwMVBqftG7yoPb2Uu0Rq"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
+        "name": "Outra Vez",
+        "url": "https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B"
+      },
+      "artists": [
+        {
+          "name": "Adriana Arias",
+          "url": "https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK"
+        }
+      ],
+      "duration_ms": 137424,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/7ukeAw6TwDl3dZAnv57Irp"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "S\u00f3 Tinha de Ser com Voc\u00ea",
-        "url": "https://open.spotify.com/album/7nUM7a3z2pGH5pII2MEy8n"
-      },
-      "artists": [
-        {
-          "name": "Joao Silva Oliveira",
-          "url": "https://open.spotify.com/artist/2H9tPIniwpdz9EvKYvRKFq"
-        }
-      ],
-      "duration_ms": 238310,
-      "name": "S\u00f3 Tinha de Ser com Voc\u00ea",
-      "url": "https://open.spotify.com/track/5KrmPhZXWsrn1xVey30806"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
         "name": "A Bossa De Caetano",
         "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 172506,
       "name": "Samba E Amor",
       "url": "https://open.spotify.com/track/1e1TMmjzesb5AzbBLn3yrj"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
+        "name": "S\u00f3 Tinha de Ser com Voc\u00ea",
+        "url": "https://open.spotify.com/album/7nUM7a3z2pGH5pII2MEy8n"
+      },
+      "artists": [
+        {
+          "name": "Joao Silva Oliveira",
+          "url": "https://open.spotify.com/artist/2H9tPIniwpdz9EvKYvRKFq"
+        }
+      ],
+      "duration_ms": 238310,
+      "name": "S\u00f3 Tinha de Ser com Voc\u00ea",
+      "url": "https://open.spotify.com/track/5KrmPhZXWsrn1xVey30806"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "All or Nothing at All",
-        "url": "https://open.spotify.com/album/4jRow9QSZKH0ik7T4LilYo"
-      },
-      "artists": [
-        {
-          "name": "Billy Sides Trio",
-          "url": "https://open.spotify.com/artist/4XG3dvGDIQxdbNHAa5tgTn"
-        }
-      ],
-      "duration_ms": 375108,
-      "name": "All or Nothing at All",
-      "url": "https://open.spotify.com/track/5Y70U7gxCIL0nEcp65FjE0"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
         "name": "House Of Jade",
         "url": "https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 442000,
       "name": "Estate",
       "url": "https://open.spotify.com/track/5zAGy79fGOXmJILqCGf0Q1"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
+        "name": "All or Nothing at All",
+        "url": "https://open.spotify.com/album/4jRow9QSZKH0ik7T4LilYo"
+      },
+      "artists": [
+        {
+          "name": "Billy Sides Trio",
+          "url": "https://open.spotify.com/artist/4XG3dvGDIQxdbNHAa5tgTn"
+        }
+      ],
+      "duration_ms": 375108,
+      "name": "All or Nothing at All",
+      "url": "https://open.spotify.com/track/5Y70U7gxCIL0nEcp65FjE0"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Saudades de Amanh\u00e3",
-        "url": "https://open.spotify.com/album/6VKuQwVim6GLWbwegH0ECr"
-      },
-      "artists": [
-        {
-          "name": "Antonio Carlos Bigonha",
-          "url": "https://open.spotify.com/artist/3ZrD9pRjj9UkrKTyKIyvvK"
-        }
-      ],
-      "duration_ms": 275370,
-      "name": "Perto do Tom",
-      "url": "https://open.spotify.com/track/64Emni7MfcsbRs1Q0r2g5d"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
         "name": "Joao",
         "url": "https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 248000,
       "name": "Eu Sambo Mesmo",
       "url": "https://open.spotify.com/track/5Fx820lVuAT6bI3Dj5kfpk"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
+        "name": "Saudades de Amanh\u00e3",
+        "url": "https://open.spotify.com/album/6VKuQwVim6GLWbwegH0ECr"
+      },
+      "artists": [
+        {
+          "name": "Antonio Carlos Bigonha",
+          "url": "https://open.spotify.com/artist/3ZrD9pRjj9UkrKTyKIyvvK"
+        }
+      ],
+      "duration_ms": 275370,
+      "name": "Perto do Tom",
+      "url": "https://open.spotify.com/track/64Emni7MfcsbRs1Q0r2g5d"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -779,18 +779,22 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Semente Chorojazz",
-        "url": "https://open.spotify.com/album/06sIxnlL5TlCXfehFM33m9"
+        "name": "As Cores das Flores",
+        "url": "https://open.spotify.com/album/4KdRvg4blGZQsB2upPmpKL"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Paulo Becker",
-          "url": "https://open.spotify.com/artist/0dsqfNACo3h5n5Ed6rgKG2"
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "M\u00e1rcio Moreira",
+          "url": "https://open.spotify.com/artist/2B05TksdlRPIiOgu0wl8Kg"
         }
       ],
-      "duration_ms": 267000,
-      "name": "Sambete",
-      "url": "https://open.spotify.com/track/5FLvvnxzuhVPZIgDroYY6I"
+      "duration_ms": 181894,
+      "name": "As Cores das Flores",
+      "url": "https://open.spotify.com/track/0SIpgaiaCYnrMsFra2eRRU"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -811,22 +815,18 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "As Cores das Flores",
-        "url": "https://open.spotify.com/album/4KdRvg4blGZQsB2upPmpKL"
+        "name": "Semente Chorojazz",
+        "url": "https://open.spotify.com/album/06sIxnlL5TlCXfehFM33m9"
       },
       "artists": [
         {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        },
-        {
-          "name": "M\u00e1rcio Moreira",
-          "url": "https://open.spotify.com/artist/2B05TksdlRPIiOgu0wl8Kg"
+          "name": "Z\u00e9 Paulo Becker",
+          "url": "https://open.spotify.com/artist/0dsqfNACo3h5n5Ed6rgKG2"
         }
       ],
-      "duration_ms": 181894,
-      "name": "As Cores das Flores",
-      "url": "https://open.spotify.com/track/0SIpgaiaCYnrMsFra2eRRU"
+      "duration_ms": 267000,
+      "name": "Sambete",
+      "url": "https://open.spotify.com/track/5FLvvnxzuhVPZIgDroYY6I"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -911,6 +911,22 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
+        "name": "A Bossa De Caetano",
+        "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "Chuvas De Ver\u00e3o",
+      "url": "https://open.spotify.com/track/2cWGGqLX9taaj5SRRksc1W"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
         "name": "Bossa nova - Girls from Bela Vista",
         "url": "https://open.spotify.com/album/5askH1Yqbbwr3fRcFHawxT"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 264722,
       "name": "Girls from Bela Vista",
       "url": "https://open.spotify.com/track/1av15BaMO4D40o7ndvriul"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
-        "name": "A Bossa De Caetano",
-        "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "Chuvas De Ver\u00e3o",
-      "url": "https://open.spotify.com/track/2cWGGqLX9taaj5SRRksc1W"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
+        "name": "Samba Doce",
+        "url": "https://open.spotify.com/album/2vKAuIaTIb9QTQdfoFo6fh"
+      },
+      "artists": [
+        {
+          "name": "Jorge Helder",
+          "url": "https://open.spotify.com/artist/15xTCSZpFY72P0e47a7jIg"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Samba Doce",
+      "url": "https://open.spotify.com/track/6jEzvYcZm5HIpuGpRXutzf"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
         "name": "M\u00fasicas para Travessia",
         "url": "https://open.spotify.com/album/3E54CQmm6J2Ge6onPSlytt"
       },
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Samba Doce",
-        "url": "https://open.spotify.com/album/2vKAuIaTIb9QTQdfoFo6fh"
-      },
-      "artists": [
-        {
-          "name": "Jorge Helder",
-          "url": "https://open.spotify.com/artist/15xTCSZpFY72P0e47a7jIg"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Samba Doce",
-      "url": "https://open.spotify.com/track/6jEzvYcZm5HIpuGpRXutzf"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
         "name": "Media\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/54pb8DDox8wz1e6BIRj1L1"
       },
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
+        "name": "Deixa",
+        "url": "https://open.spotify.com/album/6Z5mTNFF8JrMNAiUoIVPZZ"
+      },
+      "artists": [
+        {
+          "name": "Philippe Powell",
+          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
+        },
+        {
+          "name": "Marcel Powell",
+          "url": "https://open.spotify.com/artist/6lBcd5Fz4Tq0EO97KpPLgR"
+        }
+      ],
+      "duration_ms": 318674,
+      "name": "Deixa - Ao Vivo",
+      "url": "https://open.spotify.com/track/06urYdNnVIzkCaYOS05Hrv"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
         "name": "Feito \u00e0 M\u00e3o",
         "url": "https://open.spotify.com/album/7DbIWez1aLdPY0yskPKazw"
       },
@@ -1195,26 +1215,6 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Deixa",
-        "url": "https://open.spotify.com/album/6Z5mTNFF8JrMNAiUoIVPZZ"
-      },
-      "artists": [
-        {
-          "name": "Philippe Powell",
-          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
-        },
-        {
-          "name": "Marcel Powell",
-          "url": "https://open.spotify.com/artist/6lBcd5Fz4Tq0EO97KpPLgR"
-        }
-      ],
-      "duration_ms": 318674,
-      "name": "Deixa - Ao Vivo",
-      "url": "https://open.spotify.com/track/06urYdNnVIzkCaYOS05Hrv"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
         "name": "Autoral",
         "url": "https://open.spotify.com/album/4QuWHriFgdVwmnOwwtNl0s"
       },
@@ -1227,22 +1227,6 @@
       "duration_ms": 240458,
       "name": "Cris",
       "url": "https://open.spotify.com/track/2tyj2m04JFJQmJolMfSzXU"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
-        "name": "Muito \u00e0 Vontade",
-        "url": "https://open.spotify.com/album/5yqBMDz2J4DxB6TJC8eHV0"
-      },
-      "artists": [
-        {
-          "name": "Sammy Silva Band",
-          "url": "https://open.spotify.com/artist/5uFxpNwHtwV4jrftJ6O8qI"
-        }
-      ],
-      "duration_ms": 157268,
-      "name": "Muito \u00e0 Vontade",
-      "url": "https://open.spotify.com/track/1v8VML0EGDcyTvrXha5eMp"
     },
     {
       "added_at": "2025-09-19 14:10:48",
@@ -1271,6 +1255,22 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
+        "name": "Muito \u00e0 Vontade",
+        "url": "https://open.spotify.com/album/5yqBMDz2J4DxB6TJC8eHV0"
+      },
+      "artists": [
+        {
+          "name": "Sammy Silva Band",
+          "url": "https://open.spotify.com/artist/5uFxpNwHtwV4jrftJ6O8qI"
+        }
+      ],
+      "duration_ms": 157268,
+      "name": "Muito \u00e0 Vontade",
+      "url": "https://open.spotify.com/track/1v8VML0EGDcyTvrXha5eMp"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
         "name": "Eu Canto pro Dia Nascer",
         "url": "https://open.spotify.com/album/6ttt7ffHs2egzpwuQNHKjN"
       },
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-09-19 14:10:48",
       "album": {
-        "name": "Tin Tin Por Tin Tin",
-        "url": "https://open.spotify.com/album/6DP8FaANahc0bYzH1AlnYK"
-      },
-      "artists": [
-        {
-          "name": "Ana Solari",
-          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
-        }
-      ],
-      "duration_ms": 140112,
-      "name": "Tin Tin Por Tin Tin",
-      "url": "https://open.spotify.com/track/1yn208Litwnt7zPBgqKBe5"
-    },
-    {
-      "added_at": "2025-09-19 14:10:48",
-      "album": {
         "name": "Salom\u00e9",
         "url": "https://open.spotify.com/album/3l1VTAtEOZuSu4HZaksa7K"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 236522,
       "name": "Salom\u00e9",
       "url": "https://open.spotify.com/track/0JOmgVgk2o6FxR8dyxoSaD"
+    },
+    {
+      "added_at": "2025-09-19 14:10:48",
+      "album": {
+        "name": "Tin Tin Por Tin Tin",
+        "url": "https://open.spotify.com/album/6DP8FaANahc0bYzH1AlnYK"
+      },
+      "artists": [
+        {
+          "name": "Ana Solari",
+          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
+        }
+      ],
+      "duration_ms": 140112,
+      "name": "Tin Tin Por Tin Tin",
+      "url": "https://open.spotify.com/track/1yn208Litwnt7zPBgqKBe5"
     },
     {
       "added_at": "2025-09-19 14:10:48",

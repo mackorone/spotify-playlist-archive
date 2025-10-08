@@ -2,9 +2,9 @@
 
 ### [indie.nl](https://open.spotify.com/playlist/37i9dQZF1DX2wnn4eczZBS)
 
-> indie & indiepop in het Nederlands\. Cover: WIES
+> indie & indiepop in het Nederlands\. Cover: Sophie Straat
 
-246 songs - 12 hr 50 min
+249 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Alles Begint Bij Vandaag](https://open.spotify.com/track/1KE9JCyD0KNMpLT60MLUyN) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Alles Begint Bij Vandaag](https://open.spotify.com/album/3JbttJ3YCQX8juZ0Q1gCn1) | 3:09 | 2024-06-26 | 2024-11-08 |
 | [Alles goed?](https://open.spotify.com/track/4ipYkev86TwpdpLNxFzcOG) | [Nelcon](https://open.spotify.com/artist/61xqUrJF99VPEWL442d7R9) | [Context](https://open.spotify.com/album/0dKVmAfWPz7JOoxuTXv83O) | 2:22 | 2025-03-13 | 2025-04-01 |
 | [Als Het Donker Wordt](https://open.spotify.com/track/4nz0xR3gS5OfFOYo8OmWDu) | [Pip Lieke Lucas](https://open.spotify.com/artist/3eWGqcshWI4ujDmuzyKYl0) | [Als Het Donker Wordt](https://open.spotify.com/album/5w1GDsb8nCcvajsVwuVfMY) | 2:13 | 2025-08-29 |  |
+| [Als Hij dan echt bestaat](https://open.spotify.com/track/0SjMOL8eZxHwzy463e8nbe) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Wie de fak is Sophie Straat](https://open.spotify.com/album/2ZOvFH4sVhpFstklFMQUGk) | 3:09 | 2025-10-07 |  |
 | [Als Ik Verdwaal](https://open.spotify.com/track/3rOONgNCEJmrebUkMU2UB9) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Als Ik Verdwaal](https://open.spotify.com/album/4Zd9mUyWhs0lGhyWX6ybj9) | 2:33 | 2025-01-10 | 2025-02-04 |
 | [Als Ik Verdwaal](https://open.spotify.com/track/2CO40n2AIdtJb0z4ZSMnHj) | [Tienson](https://open.spotify.com/artist/6NuwXIFcHEYmeu6Tf9BGt8) | [Als Ik Verdwaal](https://open.spotify.com/album/6KUBPnMGDsaTNvdplPKYjb) | 3:43 | 2025-06-26 | 2025-08-12 |
 | [Als Je Nog Wil](https://open.spotify.com/track/0Ead0P4QxEndPROj1rNrGT) | [Aarde aan Daan](https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf) | [Als Je Nog Wil](https://open.spotify.com/album/7cqBNb3K8Uexr8KfEDyM6d) | 3:23 | 2025-03-07 | 2025-04-28 |
@@ -45,13 +46,13 @@
 | [Dag en Nacht](https://open.spotify.com/track/3A7F8yDLENuQrPUkxjcMxV) | [YRSA](https://open.spotify.com/artist/5BLCBw3ZwkvqyUuUtozq2h) | [Dag en Nacht](https://open.spotify.com/album/1O3xO2IARNTK7mU2EN5yyZ) | 3:39 | 2025-01-10 | 2025-03-13 |
 | [Dansen met de dood](https://open.spotify.com/track/4l9mEd8BcksX3maLREZaX5) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Dansen met de dood](https://open.spotify.com/album/3iKTDcSlzjaUlLfYENtrW7) | 3:24 | 2025-05-08 |  |
 | [David Bowie/Beckham](https://open.spotify.com/track/78xe8bHyJfSz06dy1kQjvp) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [David Bowie/Beckham](https://open.spotify.com/album/3ZZsLyOcHWquAcRLmYYQPx) | 2:36 | 2025-01-10 | 2025-04-25 |
-| [De Grens Tussen Ons](https://open.spotify.com/track/5jWLxOSU7WWpcNnPNbhCwz) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Het Hart Bestaat Niet En De Rest Ook Niet](https://open.spotify.com/album/5TaJOGhCQhrg8AMf5WSwZW) | 3:29 | 2025-02-07 |  |
+| [De Grens Tussen Ons](https://open.spotify.com/track/5jWLxOSU7WWpcNnPNbhCwz) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Het Hart Bestaat Niet En De Rest Ook Niet](https://open.spotify.com/album/5TaJOGhCQhrg8AMf5WSwZW) | 3:29 | 2025-02-07 | 2025-10-08 |
 | [De Tijd](https://open.spotify.com/track/3S4ag2mjZWA7rxrhWWc1D3) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [De Tijd](https://open.spotify.com/album/4HckpkaqP3McpKkcscRbcr) | 3:33 | 2025-04-11 | 2025-08-14 |
 | [Deze Stilte](https://open.spotify.com/track/0z8QjAwDqKX3b0Oa1FDI8E) | [Roos Blufpand](https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC) | [Deze Stilte](https://open.spotify.com/album/4xnHlfWEjxBAdrtgfl1eEV) | 2:29 | 2024-09-13 | 2025-01-11 |
 | [dichtbij](https://open.spotify.com/track/1m9f3fITZFcnGBrDRAk9Zp) | [flens](https://open.spotify.com/artist/6GUmsOojs1m8tTbp7ZsaaD) | [dichtbij](https://open.spotify.com/album/4bC3KJr2UiGrfrDitdNvgy) | 2:34 | 2025-05-08 | 2025-07-09 |
 | [dichtbij, veraf](https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [kleine auto, grote hot wheel](https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP) | 4:25 | 2025-02-07 |  |
 | [Die Wonen Niet Hier](https://open.spotify.com/track/2Fivjy4HSqVJcitOIRAblS) | [dorpsstraat 3](https://open.spotify.com/artist/48XLHMAiLI8SAihFXXeV1A) | [Die Wonen Niet Hier](https://open.spotify.com/album/0Qd2HCXzZYWGnlyzSYekAt) | 4:17 | 2024-10-09 | 2025-01-17 |
-| [Dingen Die Je Horen Wil](https://open.spotify.com/track/4d5qpQRzJd7Po9IosPoEda) | [NONCHELANGE](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Dingen Die Je Horen Wil](https://open.spotify.com/album/4QOeb4QC1aYM5powVjyMIL) | 2:17 | 2025-02-20 |  |
+| [Dingen Die Je Horen Wil](https://open.spotify.com/track/4d5qpQRzJd7Po9IosPoEda) | [NONCHELANGE](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Dingen Die Je Horen Wil](https://open.spotify.com/album/4QOeb4QC1aYM5powVjyMIL) | 2:17 | 2025-02-20 | 2025-10-08 |
 | [Disco Dip](https://open.spotify.com/track/3ozI7vH6AYsSeiGYB53iwr) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Partijtje \(Deluxe\)](https://open.spotify.com/album/5CdmWnzhXsmDOcmEfbXCY0) | 3:05 | 2025-02-13 |  |
 | [Disco Zwemmen](https://open.spotify.com/track/7cQnfJZHGlvyCnA2DbSquv) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Partijtje](https://open.spotify.com/album/4AHIczLAURZM2gYzCD2KoY) | 2:52 | 2024-06-26 | 2024-10-12 |
 | [Discozwemmen](https://open.spotify.com/track/0VlQjCCBWiU6IbGDfKcF7u) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Unity](https://open.spotify.com/album/1FHy6omwRDs59igwSLZdvk) | 2:45 | 2025-02-20 |  |
@@ -119,6 +120,7 @@
 | [Is dit echt](https://open.spotify.com/track/3qQcJi8WU1MS5xukw61j8j) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Is dit echt](https://open.spotify.com/album/4eLuerkEYnJ6z69SYvBhVi) | 2:55 | 2025-05-26 | 2025-09-27 |
 | [Je Geeft Me Niets](https://open.spotify.com/track/0KKYgORHSuLfmKENVaA53y) | [Aarde aan Daan](https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf) | [Je Geeft Me Niets](https://open.spotify.com/album/5AzbWe7jSCrmcKOEMDQ0iE) | 2:33 | 2024-09-12 | 2025-02-04 |
 | [Joanne](https://open.spotify.com/track/7ifCK8uZPulJtVRk9wQUjj) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Joanne](https://open.spotify.com/album/2Y0fsb4qtnSII8s9Y9RPZr) | 3:27 | 2025-03-13 | 2025-09-27 |
+| [Jochie](https://open.spotify.com/track/5tNpYAk3ZYwStWmTgwmiuY) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [De Helft Van Het Verhaal](https://open.spotify.com/album/5uNnNkVHmIGDsBUbP2CyC4) | 4:04 | 2025-10-07 |  |
 | [Jouw Stem](https://open.spotify.com/track/3GcUzRNG5LrUYktawq8PzU) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Jouw Stem](https://open.spotify.com/album/1SDL0q28t1zlBaD4Pc7QeU) | 2:49 | 2024-08-01 | 2025-01-11 |
 | [Karma](https://open.spotify.com/track/6hI6zAfJPnjHHBMsbHfMDU) | [Clean Pete](https://open.spotify.com/artist/2dAA5CkO4PeMVmOXxrsl38) | [Karma](https://open.spotify.com/album/6XDpKxCJKw7yBN8lhjZW2h) | 3:25 | 2024-06-26 | 2024-11-15 |
 | [Kechseizoen](https://open.spotify.com/track/1XPCEPVwWCNKcXQ3uElIXC) | [Linde Schöne](https://open.spotify.com/artist/0XnberZ5D2ZUrwBm4RfFi4) | [Kechseizoen](https://open.spotify.com/album/3Yxb8mvbNLePJ2GPCxKLkA) | 2:29 | 2024-06-26 | 2024-07-27 |
@@ -165,6 +167,7 @@
 | [niet meer zo](https://open.spotify.com/track/06UGKVuYJtcipahuh6tsDU) | [Laura Sjin](https://open.spotify.com/artist/6bf1bbhtxECuliHnaTAJ8L) | [niet meer zo](https://open.spotify.com/album/6uXeO2tHF0Sw7ygNU5OrmV) | 3:34 | 2025-03-28 | 2025-08-12 |
 | [Niets Is Voor Altijd](https://open.spotify.com/track/2xPGzCwyQTDZA6qnRxpEfu) | [ANNABELLE](https://open.spotify.com/artist/3Fn18Mw7IUWlzFCmfPzP7H) | [Niets Is Voor Altijd](https://open.spotify.com/album/1Ez2l3IlooHGbTRu9DsTZW) | 3:07 | 2024-06-26 | 2024-07-06 |
 | [Nieuw Begin](https://open.spotify.com/track/5whI35aoxvWEr5cnzgXj0P) | [Roos Blufpand](https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC) | [Naamloze Liefde](https://open.spotify.com/album/3kY5AWZimGg9ztotSt65Pw) | 2:37 | 2025-01-10 | 2025-06-07 |
+| [Nooit Meer Slapen](https://open.spotify.com/track/6qpcW5KdWs2zqmFvciRBkz) | [REINDIER](https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK) | [MONOMAAN](https://open.spotify.com/album/335puggyOOxTdZYNExWPgO) | 3:16 | 2025-10-07 |  |
 | [Normaal Toen](https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Normaal Toen](https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10) | 3:14 | 2025-09-26 |  |
 | [Odysseus](https://open.spotify.com/track/0ejJdwdiL6zfFzZc7E1NqL) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [Odysseus](https://open.spotify.com/album/3d0vgaxBeSvrstgy2fVNXQ) | 3:26 | 2024-06-26 | 2024-10-23 |
 | [oeps](https://open.spotify.com/track/4w7Zhg034GDeMYnpOoZIuu) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [lieve monsters](https://open.spotify.com/album/58hG8DHeDtvVE2IrKq7IOM) | 3:20 | 2025-06-26 |  |
@@ -215,7 +218,7 @@
 | [TWIJFELS](https://open.spotify.com/track/64b003qjzmQcod0AKscKVw) | [GIB](https://open.spotify.com/artist/4lt4kKPq6vh6wQOhR1Qv7h) | [TWIJFELS](https://open.spotify.com/album/4suRDB1oIRcvMAzPiqVB1d) | 2:01 | 2025-01-23 | 2025-03-14 |
 | [Uit De Toon](https://open.spotify.com/track/5hatPwdqgbIVruCTmkW7ai) | [Imbos](https://open.spotify.com/artist/0fOWKY4V1qTAnYedy89oC1) | [Uit De Toon](https://open.spotify.com/album/5YLy7nkVOB69tWzIuAwuef) | 2:28 | 2024-07-05 | 2025-01-11 |
 | [Uit Het Oog](https://open.spotify.com/track/05ZXKrj4flHFpkXRhCNJQq) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Uit Het Oog](https://open.spotify.com/album/6F4IYp6Q8NJI89W2wBoCtW) | 4:18 | 2024-06-26 | 2024-08-30 |
-| [Vager!](https://open.spotify.com/track/5llK2C03HqHJ7NM8ixKwYD) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN), [MAZOO](https://open.spotify.com/artist/0xbGR2sM0IN3C3pwlmA4Hj) | [Vager!](https://open.spotify.com/album/5zRCPSHsRjT9thKatrwc1J) | 2:12 | 2025-03-28 |  |
+| [Vager!](https://open.spotify.com/track/5llK2C03HqHJ7NM8ixKwYD) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN), [MAZOO](https://open.spotify.com/artist/0xbGR2sM0IN3C3pwlmA4Hj) | [Vager!](https://open.spotify.com/album/5zRCPSHsRjT9thKatrwc1J) | 2:12 | 2025-03-28 | 2025-10-08 |
 | [Venus \(ft\. Noor\)](https://open.spotify.com/track/5ImaYkWsroSsnfa0mD7vpD) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n), [Norah Hendriks](https://open.spotify.com/artist/6hxi3TzUBLGeBT1GCGA3sT) | [Venus \(ft\. Noor\)](https://open.spotify.com/album/0iB2ctTWAoM76KbMy4RJh1) | 2:50 | 2024-06-26 | 2024-09-13 |
 | [Verandering](https://open.spotify.com/track/4d9w7JlpKkJo6CebG6x1Qa) | [Mark Lohmann](https://open.spotify.com/artist/23mtrfcjOOC8KMAMKDlB3W) | [Verandering](https://open.spotify.com/album/64MsgVgm6ni1ESraM57AeX) | 3:02 | 2024-06-26 | 2025-01-11 |
 | [Verlaten Terrein](https://open.spotify.com/track/4VNEjFbnAG6wRj7AmP5L3S) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Verlaten Terrein](https://open.spotify.com/album/1lFypumlh0lupowvAr4zFQ) | 2:45 | 2024-11-14 | 2025-07-18 |

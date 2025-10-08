@@ -1,12 +1,12 @@
 {
   "description": "This is Chet Baker. The essential tracks, all in one playlist.",
-  "num_followers": 121596,
+  "num_followers": 121614,
   "original_name": "This Is Chet Baker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAABNiYZz978mghukR4rSeDM+",
+  "snapshot_id": "aOMGgAAAAADyW/qf83I0FdHn7rjxyPgG",
   "tracks": [
     {
       "added_at": null,
@@ -255,6 +255,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Trumpet Artistry Of Chet Baker",
+        "url": "https://open.spotify.com/album/7HFvgWxtZA8orDNNTO6WHM"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Russ Freeman",
+          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
+        }
+      ],
+      "duration_ms": 195960,
+      "name": "Moon Love",
+      "url": "https://open.spotify.com/track/3Tl1ZkXpawreFbQLeLSPXT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chet (Mono)",
         "url": "https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO"
       },
@@ -287,26 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Trumpet Artistry Of Chet Baker",
-        "url": "https://open.spotify.com/album/7HFvgWxtZA8orDNNTO6WHM"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        },
-        {
-          "name": "Russ Freeman",
-          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
-        }
-      ],
-      "duration_ms": 195960,
-      "name": "Moon Love",
-      "url": "https://open.spotify.com/track/3Tl1ZkXpawreFbQLeLSPXT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chet Baker Sings",
         "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
       },
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chet (Mono)",
-        "url": "https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 321243,
-      "name": "'Tis Autumn - Mono",
-      "url": "https://open.spotify.com/track/77eyTozd749OwrD7cQAQ5H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baby Breeze (Expanded Edition)",
         "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 246160,
       "name": "Born To Be Blue",
       "url": "https://open.spotify.com/track/5Z0HDixFz1mtvPOXLtCKU9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chet (Mono)",
+        "url": "https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 321243,
+      "name": "'Tis Autumn - Mono",
+      "url": "https://open.spotify.com/track/77eyTozd749OwrD7cQAQ5H"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chet Baker Quartet Vol. 2 (Chet Baker in Paris Vol. 2)",
-        "url": "https://open.spotify.com/album/72e9cK7pld3vk8Ic1XVwMu"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 255640,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/0xUR9H98jgwFKhwrv9yQXI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baby Breeze (Expanded Edition)",
         "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 198426,
       "name": "You're Mine, You!",
       "url": "https://open.spotify.com/track/5JRDIhGU31EyE4OSUlDtWI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chet Baker Quartet Vol. 2 (Chet Baker in Paris Vol. 2)",
+        "url": "https://open.spotify.com/album/72e9cK7pld3vk8Ic1XVwMu"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 255640,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/0xUR9H98jgwFKhwrv9yQXI"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Essential Standards (eBooklet)",
-        "url": "https://open.spotify.com/album/6UEhnkt6B9hfACniByRiEm"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 304906,
-      "name": "Everything Happens To Me",
-      "url": "https://open.spotify.com/track/00jqmEUSISjkugkuFxGiTo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
         "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 186466,
       "name": "The More I See You",
       "url": "https://open.spotify.com/track/4i3Js0sRUEfBSvIwCPvKRz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Essential Standards (eBooklet)",
+        "url": "https://open.spotify.com/album/6UEhnkt6B9hfACniByRiEm"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 304906,
+      "name": "Everything Happens To Me",
+      "url": "https://open.spotify.com/track/00jqmEUSISjkugkuFxGiTo"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Art Of The Ballad",
-        "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 252640,
-      "name": "I've Grown Accustomed To Her Face",
-      "url": "https://open.spotify.com/track/4mDUnJXdRS9XuZSmCp9EFB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
         "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 189226,
       "name": "Dancing on the Ceiling",
       "url": "https://open.spotify.com/track/27j5vjWiTCnys8U2AJQnJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Art Of The Ballad",
+        "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 252640,
+      "name": "I've Grown Accustomed To Her Face",
+      "url": "https://open.spotify.com/track/4mDUnJXdRS9XuZSmCp9EFB"
     },
     {
       "added_at": null,
@@ -647,6 +647,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Picture Of Heath",
+        "url": "https://open.spotify.com/album/7gGl026dNLosYhDnHcCIgO"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 385666,
+      "name": "For Miles And Miles",
+      "url": "https://open.spotify.com/track/3xHZQmEwgrLTQv2b6vTYPC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quintet Sessions 1979",
         "url": "https://open.spotify.com/album/2589rTLkK1dIoC72z5cS1t"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 255466,
       "name": "Here's That Rainy Day",
       "url": "https://open.spotify.com/track/2WRLJSbs3O6VuU4yTHMapa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Picture Of Heath",
-        "url": "https://open.spotify.com/album/7gGl026dNLosYhDnHcCIgO"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        },
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 385666,
-      "name": "For Miles And Miles",
-      "url": "https://open.spotify.com/track/3xHZQmEwgrLTQv2b6vTYPC"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chet Baker Ensemble (Expanded Edition / Remastered)",
-        "url": "https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Ergo - Remastered 2004",
-      "url": "https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "West Coast Live",
         "url": "https://open.spotify.com/album/772O1hcN1cbZ003x3kzw1k"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 727266,
       "name": "Darn That Dream - Live At The Tiffany Club, Los Angeles, CA., 1954",
       "url": "https://open.spotify.com/track/6VQDwRTDemiSXkRiNawCYL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chet Baker Ensemble (Expanded Edition / Remastered)",
+        "url": "https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Ergo - Remastered 2004",
+      "url": "https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf"
     },
     {
       "added_at": null,

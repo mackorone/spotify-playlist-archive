@@ -1,12 +1,12 @@
 {
   "description": "This is Ventino. The essential tracks, all in one playlist.",
-  "num_followers": 29116,
+  "num_followers": 29115,
   "original_name": "This Is Ventino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAABaJbTcGmQSjMoa1go90w5s",
+  "snapshot_id": "aOMGgAAAAAC69k6nzzzy+oYpO53GDPLf",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Qu\u00e9 Te Vas",
-        "url": "https://open.spotify.com/album/6tu0Ff3lJRlFva2xMh7zB3"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 201190,
-      "name": "Por Qu\u00e9 Te Vas",
-      "url": "https://open.spotify.com/track/6e9x0Bw1mQEM84tR403zl3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "V\u00e1monos Antes",
         "url": "https://open.spotify.com/album/42IH1jOQlgWayPXVBoTfBI"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 210406,
       "name": "V\u00e1monos Antes",
       "url": "https://open.spotify.com/track/0w7ywHLY22Fb2uQMCd0YD5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Qu\u00e9 Te Vas",
+        "url": "https://open.spotify.com/album/6tu0Ff3lJRlFva2xMh7zB3"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 201190,
+      "name": "Por Qu\u00e9 Te Vas",
+      "url": "https://open.spotify.com/track/6e9x0Bw1mQEM84tR403zl3"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Noche",
-        "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 198112,
-      "name": "Otra Noche",
-      "url": "https://open.spotify.com/track/0Ls4i5oy30p9qwkX47hBa2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cosas Pendientes",
         "url": "https://open.spotify.com/album/1rdheyQu3kEBiGOT6l4jFa"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 181253,
       "name": "Cosas Pendientes",
       "url": "https://open.spotify.com/track/7ulwug8z6klrIGZ2hjl47c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otra Noche",
+        "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 198112,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/0Ls4i5oy30p9qwkX47hBa2"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para No Esperarte M\u00e1s",
-        "url": "https://open.spotify.com/album/26Bj0Iqvf6Ns5GCC8mjia6"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 178295,
-      "name": "Para No Esperarte M\u00e1s",
-      "url": "https://open.spotify.com/track/3VMMm6ie9HmnZGq8Sq0H83"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Popurr\u00ed de Juan Gabriel",
         "url": "https://open.spotify.com/album/6Q9uzSD6sQbbWMg6oUFrAQ"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 294653,
       "name": "Popurr\u00ed de Juan Gabriel",
       "url": "https://open.spotify.com/track/3gDoyUvY3ok0EJfpu1lSn0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para No Esperarte M\u00e1s",
+        "url": "https://open.spotify.com/album/26Bj0Iqvf6Ns5GCC8mjia6"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 178295,
+      "name": "Para No Esperarte M\u00e1s",
+      "url": "https://open.spotify.com/track/3VMMm6ie9HmnZGq8Sq0H83"
     },
     {
       "added_at": null,

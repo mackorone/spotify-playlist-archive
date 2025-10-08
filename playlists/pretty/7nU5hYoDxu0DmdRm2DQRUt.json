@@ -6,8 +6,28 @@
     "name": "Kompakt Records",
     "url": "https://open.spotify.com/user/kompaktrecords"
   },
-  "snapshot_id": "AAAOQS++ZWlTIrSOcU20Rodb6tQqZuIq",
+  "snapshot_id": "AAAOQwQCK0MKwSH6O75KS666AF65v3ZP",
   "tracks": [
+    {
+      "added_at": "2025-10-07 07:08:45",
+      "album": {
+        "name": "Grace (A Tale)",
+        "url": "https://open.spotify.com/album/67JH6vtzGBf0sT6yZnZv2B"
+      },
+      "artists": [
+        {
+          "name": "J\u00fcrgen Paape",
+          "url": "https://open.spotify.com/artist/51qSeH9HimuYMMQ7qbWGrk"
+        },
+        {
+          "name": "Hella",
+          "url": "https://open.spotify.com/artist/2YgHIwmUbNjyzS4Oz2HvbG"
+        }
+      ],
+      "duration_ms": 256965,
+      "name": "Grace (A Tale)",
+      "url": "https://open.spotify.com/track/1YlGQvoDePtFI0SjRazsvC"
+    },
     {
       "added_at": "2025-09-29 11:47:49",
       "album": {

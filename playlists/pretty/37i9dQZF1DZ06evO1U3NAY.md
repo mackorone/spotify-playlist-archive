@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1U3NAY.md) - [plain]
 
 > This is Within Temptation\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,574 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,587 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1U3NAY.md) - [plain]
 | 22 | [Shed My Skin](https://open.spotify.com/track/5fXqeLjrxoR48qgHZGlfXz) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:30 |
 | 23 | [We Go To War](https://open.spotify.com/track/4Nid72rinAHNKndbm4DLKu) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 4:19 |
 | 24 | [Mercy Mirror](https://open.spotify.com/track/7uWTPqNMZxXi6AgVh00OPz) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Resist \(Extended Deluxe\)](https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR) | 3:49 |
-| 25 | [Summertime Sadness](https://open.spotify.com/track/0tVxMtLxFlc6y4xSX41vKX) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Q\-Music Sessions](https://open.spotify.com/album/1MjWXMQjJUaNzhpur6nzdb) | 4:06 |
+| 25 | [A Demon's Fate](https://open.spotify.com/track/6UsQsPIPP7gjdtlISXx3F2) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 5:30 |
 | 26 | [The Purge](https://open.spotify.com/track/1xSQOcSAFcsEl7R9AiRHAL) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:16 |
-| 27 | [A Demon's Fate](https://open.spotify.com/track/6UsQsPIPP7gjdtlISXx3F2) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 5:30 |
+| 27 | [Summertime Sadness](https://open.spotify.com/track/0tVxMtLxFlc6y4xSX41vKX) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Q\-Music Sessions](https://open.spotify.com/album/1MjWXMQjJUaNzhpur6nzdb) | 4:06 |
 | 28 | [Raise Your Banner](https://open.spotify.com/track/0lNhWQBiA483reJSVovSWF) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Anders Friden](https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf) | [Resist \(Extended Deluxe\)](https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR) | 5:34 |
 | 29 | [Jillian \(I'd Give My Heart\)](https://open.spotify.com/track/1wDDWn5UjpjbT9onEAbL4n) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:46 |
 | 30 | [Wireless](https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:41 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1U3NAY.md) - [plain]
 | 40 | [Radioactive](https://open.spotify.com/track/1H1U3PbWhxkUUG9HNEZEn7) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Q\-Music Sessions](https://open.spotify.com/album/1MjWXMQjJUaNzhpur6nzdb) | 3:14 |
 | 41 | [The Howling](https://open.spotify.com/track/4EJLjbM1gGjy8UlhtMY44C) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Heart Of Everything](https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM) | 5:33 |
 | 42 | [The Fire Within](https://open.spotify.com/track/21rY9mKlKWRD6aHsdT5Pqu) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Forgotten Songs](https://open.spotify.com/album/1zKoozwfsotBJcZjYUXmE7) | 3:33 |
-| 43 | [A Fool's Parade](https://open.spotify.com/track/1Okd6fnFsU1mZeiFcYSaTT) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [A Fool's Parade](https://open.spotify.com/album/74uk0pmQPbVyZ5y4dlSF8h) | 3:42 |
-| 44 | [Somewhere](https://open.spotify.com/track/0h46IYZnCzjROtiegnYC0Z) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:13 |
-| 45 | [Let Us Burn](https://open.spotify.com/track/5ZMZrIPhlf5oMHwzw6RMre) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Hydra \(Deluxe Edition\)](https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI) | 5:31 |
-| 46 | [Cyanide Love](https://open.spotify.com/track/7c5JuIrBDoaSbzIzAr7AxN) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 4:04 |
-| 47 | [Don't Pray For Me](https://open.spotify.com/track/2ritJRsOmjlyVvTt1LtMY5) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 3:41 |
-| 48 | [Hand of Sorrow](https://open.spotify.com/track/41j3TmJuJuSlHsqoX6L3dr) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Heart Of Everything](https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM) | 5:36 |
-| 49 | [Worth Dying For](https://open.spotify.com/track/1Q5chsQiz6iC0edatkj3KM) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 4:53 |
+| 43 | [Cyanide Love](https://open.spotify.com/track/7c5JuIrBDoaSbzIzAr7AxN) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 4:04 |
+| 44 | [A Fool's Parade](https://open.spotify.com/track/1Okd6fnFsU1mZeiFcYSaTT) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [A Fool's Parade](https://open.spotify.com/album/74uk0pmQPbVyZ5y4dlSF8h) | 3:42 |
+| 45 | [Somewhere](https://open.spotify.com/track/0h46IYZnCzjROtiegnYC0Z) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:13 |
+| 46 | [Let Us Burn](https://open.spotify.com/track/5ZMZrIPhlf5oMHwzw6RMre) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Hydra \(Deluxe Edition\)](https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI) | 5:31 |
+| 47 | [Worth Dying For](https://open.spotify.com/track/1Q5chsQiz6iC0edatkj3KM) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 4:53 |
+| 48 | [Don't Pray For Me](https://open.spotify.com/track/2ritJRsOmjlyVvTt1LtMY5) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 3:41 |
+| 49 | [Hand of Sorrow](https://open.spotify.com/track/41j3TmJuJuSlHsqoX6L3dr) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Heart Of Everything](https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM) | 5:36 |
 | 50 | [Unbroken](https://open.spotify.com/track/7p54w8swC934fosq86wnRS) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 5:08 |
 
-Snapshot ID: `aOG1AAAAAADe6AH8ZQOUFf63Vl13uTge`
+Snapshot ID: `aOMGgAAAAABrym/FsOQijIt24kBbj0pp`

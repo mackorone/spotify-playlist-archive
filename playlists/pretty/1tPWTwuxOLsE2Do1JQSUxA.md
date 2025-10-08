@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1tPWTwuxOLsE2Do1JQSUxA.md) - [plain]
 
 > Get nostalgic with all the summer hits and bangers you'll need\. From Beyoncé, Alicia Keys, John Legend, Miley Cyrus, P!nk and many more....
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 453,152 likes - 277 songs - 16 hr 54 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 453,136 likes - 277 songs - 16 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

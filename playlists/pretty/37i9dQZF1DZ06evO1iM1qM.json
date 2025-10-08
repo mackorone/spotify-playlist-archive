@@ -1,12 +1,12 @@
 {
   "description": "This is John Coltrane. The essential tracks, all in one playlist.",
-  "num_followers": 216845,
+  "num_followers": 216868,
   "original_name": "This Is John Coltrane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAADSd146ThhHRWUaZ0cax1nQ",
+  "snapshot_id": "aOMGgAAAAACgHoYhfC+MkY/GIAbeXfDg",
   "tracks": [
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soultrane",
-        "url": "https://open.spotify.com/album/7pU5qUNqbOMToIyqzF0Nmg"
+        "name": "Giant Steps (Mono)",
+        "url": "https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 293240,
-      "name": "Theme For Ernie",
-      "url": "https://open.spotify.com/track/0H2iAE7Y1ivCZ5YzEf3NMT"
+      "duration_ms": 287582,
+      "name": "Giant Steps - Mono",
+      "url": "https://open.spotify.com/track/6QvVTzCv70hwn4XyRnobGi"
     },
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Giant Steps (Mono)",
-        "url": "https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t"
+        "name": "Soultrane",
+        "url": "https://open.spotify.com/album/7pU5qUNqbOMToIyqzF0Nmg"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 287582,
-      "name": "Giant Steps - Mono",
-      "url": "https://open.spotify.com/track/6QvVTzCv70hwn4XyRnobGi"
+      "duration_ms": 293240,
+      "name": "Theme For Ernie",
+      "url": "https://open.spotify.com/track/0H2iAE7Y1ivCZ5YzEf3NMT"
     },
     {
       "added_at": null,
@@ -467,6 +467,34 @@
       "duration_ms": 824133,
       "name": "My Favorite Things",
       "url": "https://open.spotify.com/track/2JOEPbuwVf0nafGnMSVEhH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kind Of Blue (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 566133,
+      "name": "Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
+      "url": "https://open.spotify.com/track/6dRx7OUXfvosnXG3g9lWGi"
     },
     {
       "added_at": null,
@@ -499,34 +527,6 @@
       "duration_ms": 420693,
       "name": "All of You (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/21HG0QIgIcVQ2EZeXubaqL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kind Of Blue (Legacy Edition)",
-        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 566133,
-      "name": "Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
-      "url": "https://open.spotify.com/track/6dRx7OUXfvosnXG3g9lWGi"
     },
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duke Ellington & John Coltrane",
-        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 329986,
-      "name": "The Feeling Of Jazz",
-      "url": "https://open.spotify.com/track/6aQjtWVOYLhaatELyPBt12"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kind Of Blue (Legacy Edition)",
         "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 692746,
       "name": "All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
       "url": "https://open.spotify.com/track/5o3DSHw1ORhM3lWxqGRvEf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duke Ellington & John Coltrane",
+        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 329986,
+      "name": "The Feeling Of Jazz",
+      "url": "https://open.spotify.com/track/6aQjtWVOYLhaatELyPBt12"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coltrane Jazz",
+        "url": "https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 324493,
+      "name": "Village Blues",
+      "url": "https://open.spotify.com/track/4TxMemoctTNQA185RVwWEo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coltrane [Rudy Van Gelder Remaster]",
         "url": "https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 297880,
       "name": "Like Someone In Love",
       "url": "https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coltrane Jazz",
-        "url": "https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 324493,
-      "name": "Village Blues",
-      "url": "https://open.spotify.com/track/4TxMemoctTNQA185RVwWEo"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dear Old Stockholm",
-        "url": "https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 330800,
-      "name": "Dear Lord",
-      "url": "https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coltrane's Sound",
         "url": "https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 487279,
       "name": "Equinox",
       "url": "https://open.spotify.com/track/1OtISG0K02k06m1BENey4H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dear Old Stockholm",
+        "url": "https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 330800,
+      "name": "Dear Lord",
+      "url": "https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp"
     },
     {
       "added_at": null,
@@ -1023,22 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Train",
-        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 550189,
-      "name": "Moment's Notice",
-      "url": "https://open.spotify.com/track/3GXYGbyvprPqiH9do6ewY3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ol\u00e9 Coltrane (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5BGkenbuo3xY3CRblRPj8K"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 465200,
       "name": "Aisha",
       "url": "https://open.spotify.com/track/0Haa5GeQyJJ9SjSqbqcXsT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Train",
+        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 550189,
+      "name": "Moment's Notice",
+      "url": "https://open.spotify.com/track/3GXYGbyvprPqiH9do6ewY3"
     }
   ],
   "unique_name": "This Is John Coltrane",

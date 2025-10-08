@@ -869,6 +869,24 @@
     },
     {
       "album": {
+        "name": "SoulFly",
+        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185073,
+      "name": "OMDB",
+      "url": "https://open.spotify.com/track/7Aece36KsB5z5EskkAoFp4"
+    },
+    {
+      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
       },

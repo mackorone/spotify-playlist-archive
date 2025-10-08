@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > We're born naked and the rest is drag\. Cover: The Vivienne
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,745 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,746 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 20 | [Hectic](https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Hectic](https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB) | 2:37 |
 | 21 | [Brown Cow Stunning](https://open.spotify.com/track/17nicr4bub5sGc9Hac7hUg) | [Monique Heart](https://open.spotify.com/artist/0iJr2eJYe4WsiZrmCn2nV3) | [Brown Cow Stunning](https://open.spotify.com/album/3D4tRIWeEXpUUccba35Rku) | 3:07 |
 | 22 | [Malibu](https://open.spotify.com/track/1BjZQhaQy04o37ETiZrXdl) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Barbara](https://open.spotify.com/album/6PMAcubRYoflJL5bnAW0nZ) | 3:02 |
-| 23 | [Sweet and Sour](https://open.spotify.com/track/5Agunnfj2SyNhhFWNmQ8JE) | [Lemon](https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B) | [Sweet and Sour](https://open.spotify.com/album/1w8Q8MWgBAgSNoI5wUL2qG) | 1:48 |
-| 24 | [Bitch Like Me](https://open.spotify.com/track/1lV3NdZCVc8wZ1wdv25Gw5) | [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Bitch Like Me](https://open.spotify.com/album/1VtO6ikGbNWY3bQa0aacg1) | 2:36 |
+| 23 | [Bitch Like Me](https://open.spotify.com/track/1lV3NdZCVc8wZ1wdv25Gw5) | [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Bitch Like Me](https://open.spotify.com/album/1VtO6ikGbNWY3bQa0aacg1) | 2:36 |
+| 24 | [Sweet and Sour](https://open.spotify.com/track/5Agunnfj2SyNhhFWNmQ8JE) | [Lemon](https://open.spotify.com/artist/6vNrD9n6lmYcHQ9269HH2B) | [Sweet and Sour](https://open.spotify.com/album/1w8Q8MWgBAgSNoI5wUL2qG) | 1:48 |
 | 25 | [Hot Couture](https://open.spotify.com/track/1V6RsQuuDi9Z1yZGV0qVYe) | [Manila Luzon](https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g) | [Hot Couture](https://open.spotify.com/album/6Ds1mmSABZUymGcIUOvecA) | 3:20 |
 | 26 | [Blurred Bynes \(feat\. Detox & Vicky Vox\)](https://open.spotify.com/track/4AjE5hWnTyLVoZkTO0nVCS) | [Willam](https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8), [Detox](https://open.spotify.com/artist/51Y484bYxxydKWYy8MDhqC), [Vicky Vox](https://open.spotify.com/artist/2PPQKCcQ2HDYrP41OSlh91) | [Blurred Bynes \(feat\. Detox & Vicky Vox\)](https://open.spotify.com/album/6AydMrSrRmwfbd2Xj4lJkO) | 4:08 |
 | 27 | [The Same Parts](https://open.spotify.com/track/67JrMOd94Wbz42ywTR9ZsV) | [Tatianna](https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a) | [The Same Parts](https://open.spotify.com/album/2UOu2DuCsNjosWjN0FwZP0) | 3:12 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 32 | [Hurt My Feelings](https://open.spotify.com/track/2XE14vp7hkDhredi6SQ9Oz) | [Tatianna](https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a) | [Hurt My Feelings](https://open.spotify.com/album/6RYqcj0gjuIjuDaxmiuna8) | 3:57 |
 | 33 | [Shadow \- Spotify Singles](https://open.spotify.com/track/6gGUDB4bS7FhhtGVmjADGr) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Spotify Singles](https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm) | 3:26 |
 | 34 | [Weight \(feat\. Epiphany Mattel\)](https://open.spotify.com/track/07i9T9SDDHXuDuqs1wVAHb) | [Latrice Royale](https://open.spotify.com/artist/1MPCKhktsStR2Hnj1s2fvC), [Epiphany Mattel](https://open.spotify.com/artist/0KjBV7nJq8mr5QDsyWzvyy) | [Weight \(feat\. Epiphany Mattel\)](https://open.spotify.com/album/0youfwaLvfbBFw0iWK4Wi3) | 3:25 |
-| 35 | [It's Chocolate](https://open.spotify.com/track/4J3THSWqN2TfLrsjefOk89) | [LaLa Ri](https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz) | [It's Chocolate](https://open.spotify.com/album/7kg8LjngDFhg6s1LqPlaNF) | 2:39 |
-| 36 | [Crème Brûlée](https://open.spotify.com/track/4avu1L6t1rlO6Igm1BmNkG) | [Shea Couleé](https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6) | [Crème Brûlée](https://open.spotify.com/album/24QSeoI9ucXIJUhgJQKJbu) | 2:52 |
+| 35 | [Crème Brûlée](https://open.spotify.com/track/4avu1L6t1rlO6Igm1BmNkG) | [Shea Couleé](https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6) | [Crème Brûlée](https://open.spotify.com/album/24QSeoI9ucXIJUhgJQKJbu) | 2:52 |
+| 36 | [It's Chocolate](https://open.spotify.com/track/4J3THSWqN2TfLrsjefOk89) | [LaLa Ri](https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz) | [It's Chocolate](https://open.spotify.com/album/7kg8LjngDFhg6s1LqPlaNF) | 2:39 |
 | 37 | [Rodeo](https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Rodeo](https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp) | 3:30 |
 | 38 | [Arrogant](https://open.spotify.com/track/6MmI4fwcClbnQJeIvtmJPm) | [DJ Mitch Ferrino](https://open.spotify.com/artist/2nkkdrHs13Onop9WadmkUK), [Tamisha Iman](https://open.spotify.com/artist/6hrrcYYzghli8qayZzHzoy) | [Arrogant](https://open.spotify.com/album/00pmG07qlKUF2GB28EwLrc) | 3:42 |
 | 39 | [Looks \(feat\. Aquaria\)](https://open.spotify.com/track/6HG9HwiSqzyZjKZj2xy5FX) | [Linux](https://open.spotify.com/artist/2RO8MlM6Jnb5pmPPHFjFO6), [Aquaria](https://open.spotify.com/artist/06Dngxe8FZm8kxKZWiSeNL) | [Everybody Hates Linux](https://open.spotify.com/album/0xUsVc4uD9kO1u6TF0x29X) | 4:14 |

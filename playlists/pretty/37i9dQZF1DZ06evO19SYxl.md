@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 | 35 | [Dinero \- En Vivo](https://open.spotify.com/track/5C82BHmoJImku3MZbDaITZ) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Los Muñecos Desenchufados \(En Vivo\) \[Serie Alive\]](https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I) | 4:24 |
 | 36 | [Déjame](https://open.spotify.com/track/5s7HtPMmg3KSlu7x3HpC73) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Mágico](https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4) | 5:42 |
 | 37 | [Asesinos del Rock](https://open.spotify.com/track/5PrzzhjU0EiN2ryEdVnsDB) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [La Fiesta](https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8) | 3:21 |
-| 38 | [Martin Rocka](https://open.spotify.com/track/5xL2vEGWsqCX6xW6iHwdWB) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Tex Tex 3](https://open.spotify.com/album/5BuYyEm2Snig5UeVJZpX0H) | 3:49 |
-| 39 | [Vengador Anónimo](https://open.spotify.com/track/4YmEl8T1rbGyNifdmB7tTp) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Me Haces Volar](https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef) | 5:20 |
+| 38 | [Pancho Panchito](https://open.spotify.com/track/6C6d8o2Hh5wxaYPr76bhMC) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Tex Tex 3](https://open.spotify.com/album/5BuYyEm2Snig5UeVJZpX0H) | 3:19 |
+| 39 | [Cuando el Amor Acaba](https://open.spotify.com/track/51EJd3jBO8g5Iz5FYWcEIu) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Me Haces Volar](https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef) | 3:57 |
 | 40 | [Devuelvelo](https://open.spotify.com/track/1aDWrIwFmHwWV7yaf91f6r) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Mágico](https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4) | 2:36 |
 | 41 | [4to y 5to Paso](https://open.spotify.com/track/5xO5xjE7V5W5RwyCeksSlS) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [La Fiesta](https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8) | 4:03 |
-| 42 | [Pancho Panchito](https://open.spotify.com/track/6C6d8o2Hh5wxaYPr76bhMC) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Tex Tex 3](https://open.spotify.com/album/5BuYyEm2Snig5UeVJZpX0H) | 3:19 |
-| 43 | [Cuando el Amor Acaba](https://open.spotify.com/track/51EJd3jBO8g5Iz5FYWcEIu) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Me Haces Volar](https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef) | 3:57 |
+| 42 | [Martin Rocka](https://open.spotify.com/track/5xL2vEGWsqCX6xW6iHwdWB) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Tex Tex 3](https://open.spotify.com/album/5BuYyEm2Snig5UeVJZpX0H) | 3:49 |
+| 43 | [Vengador Anónimo](https://open.spotify.com/track/4YmEl8T1rbGyNifdmB7tTp) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Me Haces Volar](https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef) | 5:20 |
 | 44 | [Ahora Ya No Te Quiero](https://open.spotify.com/track/5yAxyJy2Q94AJM2NKlsYZK) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Mágico](https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4) | 2:47 |
 | 45 | [Esta en Su Mes](https://open.spotify.com/track/1dDxW5wlaNO7GVLVgNsdwo) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [\*86](https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA) | 2:45 |
 | 46 | [Fast Food](https://open.spotify.com/track/5tZQcnx2HRbeRwBp8P24U9) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Súbete al Tren](https://open.spotify.com/album/6scq5eOKVsFPlzmgZtjdxC) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 | 49 | [La Culpa](https://open.spotify.com/track/6xzN2GeFUEzrCobeGICtFz) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [\*86](https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA) | 3:48 |
 | 50 | [Teoría de Caos](https://open.spotify.com/track/7HQCXa85x99iHBezrwowDY) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Me Haces Volar](https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef) | 5:20 |
 
-Snapshot ID: `aOG1AAAAAADLZs0VmZDN6SGMYaPJh1+7`
+Snapshot ID: `aOMGgAAAAABhIAhY1PPP8xF2cuYSjKuT`

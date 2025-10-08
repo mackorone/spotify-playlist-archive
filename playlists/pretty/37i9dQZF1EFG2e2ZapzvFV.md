@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,557 likes - 175 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,556 likes - 175 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,8 +159,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 149 | [Serpent Queen Pt 2](https://open.spotify.com/track/2xnP1PTC9lFwitBt3wy3p7) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Keep Me on Your Side](https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l) | 2:53 |
 | 150 | [Home](https://open.spotify.com/track/1XsX1UjkAnVKnRFadCYdIF) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/67NWJ3RuWpPohz3zvJmmOb) | 4:36 |
 | 151 | [Apart Of You](https://open.spotify.com/track/1DWDQ3oTtgVbvxwcnnATDP) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 3:19 |
-| 152 | [SQRL](https://open.spotify.com/track/3SKl31kHIOLEUZxcRd51T2) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 4:43 |
-| 153 | [Only the Young](https://open.spotify.com/track/15q2y19rSHDsx779Ca0v0k) | [Minnz Piano](https://open.spotify.com/artist/0IqjJsWlAPR2IafHTtnjPQ) | [Velvet Days \| Piano Covers](https://open.spotify.com/album/2NluDOItMqQUKplkvjrtz8) | 1:32 |
+| 152 | [Only the Young](https://open.spotify.com/track/15q2y19rSHDsx779Ca0v0k) | [Minnz Piano](https://open.spotify.com/artist/0IqjJsWlAPR2IafHTtnjPQ) | [Velvet Days \| Piano Covers](https://open.spotify.com/album/2NluDOItMqQUKplkvjrtz8) | 1:32 |
+| 153 | [SQRL](https://open.spotify.com/track/3SKl31kHIOLEUZxcRd51T2) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 4:43 |
 | 154 | [Lay with Me](https://open.spotify.com/track/5ZD9RQ4XBUZ22AtbUfWybI) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Keep Me on Your Side](https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l) | 3:03 |
 | 155 | [This Is It](https://open.spotify.com/track/7Co3LZPuLTtrEjLDQtEjtc) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Keep Me on Your Side](https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l) | 3:13 |
 | 156 | [Ride Up To The Door](https://open.spotify.com/track/4PegP7kf2a5RlgVgRZRmon) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Abomination EP](https://open.spotify.com/album/35G5xhEUPV2BPz0uqS9tBp) | 3:51 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 174 | [Stay](https://open.spotify.com/track/7l8HiGTHMix5788jAiekrb) | [indi](https://open.spotify.com/artist/1m7azj0LWTDGWAPvgvGPGa) | [Stay](https://open.spotify.com/album/5j0FgJxARSQd91znRQrVkd) | 4:09 |
 | 175 | [The Way I Are \(Dance with Somebody\)](https://open.spotify.com/track/4JlnIhyQLH7733f8AH4OhZ) | [Layla Evans](https://open.spotify.com/artist/62f3DqAKO4ub6FtBchPUsI), [Mario Best](https://open.spotify.com/artist/1WycnPFicBoKKr7wWpDTns) | [Best of Pop Hits Today](https://open.spotify.com/album/1l629hKJwRUOlVP7MtqHDE) | 3:11 |
 
-Snapshot ID: `Ab+KyAAAAAAXjeBAO1COEvxUvBqe6bC9`
+Snapshot ID: `Ab+QXgAAAADh14dT24NKkoocCCeSa1NI`

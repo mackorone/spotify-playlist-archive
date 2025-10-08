@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 
 > أفضل الأغاني الخليجية\. الغلاف: عايض
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,700 likes - 35 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,750 likes - 35 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 | 4 | [ياروح الدار](https://open.spotify.com/track/5QgE9vKn1YDRyo8xCFxCux) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [ياروح الدار](https://open.spotify.com/album/6H3agKmhnsCTVf1rLv1M9A) | 4:44 |
 | 5 | [Adeel El Rooh](https://open.spotify.com/track/1BVO4w4limnbFYynPV1sOG) | [Sultan Khalifa](https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB) | [Hayen](https://open.spotify.com/album/28ms6jlPHDk4zbSLKUqnnO) | 3:31 |
 | 6 | [Da Elly 7sal \- دا اللي حصل](https://open.spotify.com/track/5eRUK0x3XJSbrk57aET9aX) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Da Elly 7sal \(دا اللي حصل\)](https://open.spotify.com/album/0Vw2fBg9gnCfKIBwfiS4JO) | 4:12 |
-| 7 | [Tala'et Abeh \- طلعت ابيه](https://open.spotify.com/track/1UGaliIKCl7MOWzvzh5chs) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Ayed 2025 \- عايض ٢٠٢٥](https://open.spotify.com/album/6CKUiiaHgkhNidqi3MGLYe) | 4:38 |
-| 8 | [Asaal El Najma](https://open.spotify.com/track/0brYzmKMkq8NGF7Y1W2VQ1) | [Khaled Abdul Rahman](https://open.spotify.com/artist/6X5jPcdNTzdvOnOGhLTXyX) | [Asaal El Najma](https://open.spotify.com/album/5J6mbficCluwFxHcCvXNu9) | 4:10 |
-| 9 | [Momken Aeesh](https://open.spotify.com/track/53ossgJfdQhNVoVBPKd4Qz) | [Haneen Hussain](https://open.spotify.com/artist/4CmKKm9NdvAUNGjpc3LjJJ) | [Momken Aeesh](https://open.spotify.com/album/3Lcv7m0jw02fisyQPh7qmQ) | 4:47 |
-| 10 | [Mahma Sar](https://open.spotify.com/track/1DmeuZVKKUhFZT3nnVANXb) | [Abadi Al Johar](https://open.spotify.com/artist/1y7XnZ7jxpZXKQAvez1bYf) | [Mahma Sar](https://open.spotify.com/album/4aKgcNWhxMBYZyk3u6vjdn) | 4:00 |
+| 7 | [Habibi Howa](https://open.spotify.com/track/3rWC89eFiYAC5enhaRLZ5X) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Habibi Howa](https://open.spotify.com/album/6CFZmeFJVAuc3Bc1rEVJb9) | 4:55 |
+| 8 | [Momken Aeesh](https://open.spotify.com/track/53ossgJfdQhNVoVBPKd4Qz) | [Haneen Hussain](https://open.spotify.com/artist/4CmKKm9NdvAUNGjpc3LjJJ) | [Momken Aeesh](https://open.spotify.com/album/3Lcv7m0jw02fisyQPh7qmQ) | 4:47 |
+| 9 | [Mahma Sar](https://open.spotify.com/track/1DmeuZVKKUhFZT3nnVANXb) | [Abadi Al Johar](https://open.spotify.com/artist/1y7XnZ7jxpZXKQAvez1bYf) | [Mahma Sar](https://open.spotify.com/album/4aKgcNWhxMBYZyk3u6vjdn) | 4:00 |
+| 10 | [Tala'et Abeh \- طلعت ابيه](https://open.spotify.com/track/1UGaliIKCl7MOWzvzh5chs) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Ayed 2025 \- عايض ٢٠٢٥](https://open.spotify.com/album/6CKUiiaHgkhNidqi3MGLYe) | 4:38 |
 | 11 | [Shati Bahar](https://open.spotify.com/track/5IDpDJChAB4il5XpPX9xUb) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Shati Bahar](https://open.spotify.com/album/5SyZsUvPV7UkemRukXMgKr) | 4:02 |
 | 12 | [Galbi Kebeer](https://open.spotify.com/track/2kpxx0hILDzbfmA9IZRnTd) | [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3) | [Galbi Kebeer](https://open.spotify.com/album/6DIsEFwgHYuPzdIcL4E4PW) | 4:12 |
 | 13 | [Lammah](https://open.spotify.com/track/0Hk9OFVAxB6mxTtLmmFdkT) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Lammah](https://open.spotify.com/album/6Slm5v59bwaVCCVVIiCrQM) | 3:41 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 | 34 | [Akhathet Be Khtrek](https://open.spotify.com/track/4RyoGSA84YpvYm09iTR8P0) | [Moath Bugnah](https://open.spotify.com/artist/3I6QxuzNU6qhadzhuePFqF) | [Akhathet Be Khtrek](https://open.spotify.com/album/3k7N7Q8eetRAOQRtDrSImy) | 3:40 |
 | 35 | [Qeiam](https://open.spotify.com/track/6gHhZKa9F7WqCVXkj29Qss) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [Marhaba](https://open.spotify.com/album/0SwI39bKzHkorStj3SHDV8) | 4:04 |
 
-Snapshot ID: `AAAAACdjlbYXTtX5RZUBE3hpT6h7N8/4`
+Snapshot ID: `AAAAADJKC1m4rhKzQBLRZ7F3+Tae8jgx`

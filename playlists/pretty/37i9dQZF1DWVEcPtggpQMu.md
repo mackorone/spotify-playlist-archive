@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap\. <br/>Cover: Kay Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,869 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,886 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 6 | [Marco Polo](https://open.spotify.com/track/78RrafIVtzx0ObqAGRljs7) | [Tony Dayimane](https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9) | [Big Boy II](https://open.spotify.com/album/3U7aiDvqW3bD8X6MTAgqjs) | 2:12 |
 | 7 | [Sewer](https://open.spotify.com/track/4iOeodQ4jq5aardIuyIR3F) | [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa), [Mochen](https://open.spotify.com/artist/7DkwT8IpIAjcquKnCwyFRg), [LaCabra](https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT) | [GREEDY](https://open.spotify.com/album/35eDqH2knBUnpfPQkxEMtE) | 3:24 |
 | 8 | [SLACK](https://open.spotify.com/track/0YrxIWKxfvpxIeuFTUKEKc) | [PatricKxxLee](https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP) | [R!CK](https://open.spotify.com/album/6AhyffqjWITfFu41SqUoOn) | 2:34 |
-| 9 | [New Lat](https://open.spotify.com/track/3jojiJ4Acs3LldIzqbImqJ) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27) | [New Lat](https://open.spotify.com/album/1H1i8QbwJUR4vjiTVQvtV9) | 1:52 |
+| 9 | [New Lat](https://open.spotify.com/track/3jojiJ4Acs3LldIzqbImqJ) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [BakerGotTheKeys](https://open.spotify.com/artist/0Rk3Mqrzxt6xld45Uu9TQ3) | [New Lat](https://open.spotify.com/album/1H1i8QbwJUR4vjiTVQvtV9) | 1:52 |
 | 10 | [Supa](https://open.spotify.com/track/4yvawLQsRjLwONtQ04qWb6) | [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [DUST DLX](https://open.spotify.com/album/5lAKuTxBfJ4QMRlSsnm5aU) | 4:02 |
 | 11 | [KENNY G](https://open.spotify.com/track/0WuGxAO89stcidgWEhBiDt) | [Stilo Magolide](https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA), [Sastii](https://open.spotify.com/artist/6dBpV3a12RrEM3WpDmwI1j), [Ekow Saxx](https://open.spotify.com/artist/3xj4CJq452mt8vdjoa7b7y) | [KENNY G](https://open.spotify.com/album/11cmCghqfwN47aoLbTfLTH) | 4:37 |
 | 12 | [Analogue](https://open.spotify.com/track/6Jdx1D3wtYGA3BnyxRZxrT) | [Tyson Sybateli](https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy), [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [Analogue \(Ad\)](https://open.spotify.com/album/29ifpgQ9Agbo16RfQfMnCr) | 3:33 |

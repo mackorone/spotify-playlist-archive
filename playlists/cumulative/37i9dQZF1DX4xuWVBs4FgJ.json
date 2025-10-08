@@ -175,6 +175,28 @@
     },
     {
       "album": {
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/2aewyGiYU8HtQflj03vfLu"
+      },
+      "artists": [
+        {
+          "name": "HAPPIE",
+          "url": "https://open.spotify.com/artist/4lV9WCVEJ0dmNDWdACbRc9"
+        },
+        {
+          "name": "The Human Experience",
+          "url": "https://open.spotify.com/artist/1NWjumiUC54F8S21p2W6cG"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220397,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/6WOCRPBxJqRhOyfLygAOJ5"
+    },
+    {
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
       },
@@ -186,7 +208,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 185486,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
@@ -352,7 +374,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 149693,
       "name": "And I Love Her - Remastered 2009",
       "url": "https://open.spotify.com/track/65vdMBskhx3akkG9vQlSH1"
@@ -370,7 +392,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 150815,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/4EVkYQKxqD5JgdFSkyMjaS"
@@ -1023,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173641,
+      "name": "California Dreamin' - Spotify Singles",
+      "url": "https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph"
+    },
+    {
+      "album": {
         "name": "Thee Sacred Souls",
         "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
       },
@@ -1070,7 +1110,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 191413,
       "name": "Cardinal",
       "url": "https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS"
@@ -1222,7 +1262,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 201413,
       "name": "Cleopatra",
       "url": "https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1"
@@ -1436,7 +1476,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 209906,
       "name": "Crowded Table",
       "url": "https://open.spotify.com/track/5HuaHij4kVpfEVv93MYCeW"
@@ -1530,7 +1570,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -1610,7 +1650,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 248013,
       "name": "Desafinado",
       "url": "https://open.spotify.com/track/2tcfbkABIwzpepPyaFsYF4"
@@ -1780,7 +1820,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 186146,
       "name": "Don't Know Why",
       "url": "https://open.spotify.com/track/6ybViy2qrO9sIi41EgRJgx"
@@ -1892,7 +1932,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 262544,
       "name": "drivers license - Spotify Singles",
       "url": "https://open.spotify.com/track/10wk4XQdba4QpHgFb28Ktk"
@@ -1932,7 +1972,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-10",
+      "date_removed": null,
       "duration_ms": 243455,
       "name": "Earthstar",
       "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
@@ -2098,7 +2138,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
@@ -2214,7 +2254,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 194848,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq"
@@ -2308,7 +2348,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 203247,
       "name": "Falling Asleep At The Wheel",
       "url": "https://open.spotify.com/track/5rqQv5jUcg58xsi1nuZDl9"
@@ -2906,7 +2946,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 222626,
       "name": "Give Me the Night",
       "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
@@ -3000,7 +3040,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 279204,
       "name": "Good Days",
       "url": "https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A"
@@ -3537,6 +3577,28 @@
     },
     {
       "album": {
+        "name": "Home Movies",
+        "url": "https://open.spotify.com/album/5VCVMgNgN16eWS7kReGzEt"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        },
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Home Movies",
+      "url": "https://open.spotify.com/track/17MgFhOFZc6JvSRHANh0rY"
+    },
+    {
+      "album": {
         "name": "House With No Mirrors",
         "url": "https://open.spotify.com/album/0hLO1xWbUmh7jkQ5dSn8yj"
       },
@@ -3772,6 +3834,24 @@
       "duration_ms": 216906,
       "name": "I Give You The Best",
       "url": "https://open.spotify.com/track/22RSxuePk8ZGWbjLFqXlwC"
+    },
+    {
+      "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
     },
     {
       "album": {
@@ -4252,7 +4332,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 229880,
       "name": "Just Two Girls",
       "url": "https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh"
@@ -4768,7 +4848,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 236720,
       "name": "Lost In The Light",
       "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
@@ -4974,7 +5054,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 221306,
       "name": "Lover",
       "url": "https://open.spotify.com/track/0bzbvANY6oETSJLc0wlVGY"
@@ -5926,7 +6006,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 204309,
       "name": "Perfectly Imperfect",
       "url": "https://open.spotify.com/track/6TbkMxKZudkP6Sty7rkLU9"
@@ -6395,6 +6475,24 @@
     },
     {
       "album": {
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0"
+      },
+      "artists": [
+        {
+          "name": "Hope Winter",
+          "url": "https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188870,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D"
+    },
+    {
+      "album": {
         "name": "Best Day of My Life",
         "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
       },
@@ -6467,6 +6565,24 @@
     },
     {
       "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+    },
+    {
+      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19"
       },
@@ -6496,7 +6612,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-07",
+      "date_removed": null,
       "duration_ms": 204223,
       "name": "Soft Spot",
       "url": "https://open.spotify.com/track/5pmITEphUtjpCLmKiYIPl9"
@@ -6514,7 +6630,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-20",
+      "date_removed": null,
       "duration_ms": 199756,
       "name": "Solo",
       "url": "https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq"
@@ -6778,7 +6894,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 177152,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P"
@@ -6814,7 +6930,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 179000,
       "name": "Stronger (Grey's Anatomy Version)",
       "url": "https://open.spotify.com/track/2h444Cn1pbZjKPD4jbjY3E"
@@ -7380,7 +7496,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 279373,
       "name": "The Joke",
       "url": "https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG"
@@ -7478,7 +7594,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 262066,
       "name": "The Only Exception",
       "url": "https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr"
@@ -7514,7 +7630,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 177533,
       "name": "the perfect pair",
       "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
@@ -7832,7 +7948,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 210013,
       "name": "Turning Onto You - HNNY Remix",
       "url": "https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM"
@@ -7962,7 +8078,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 132000,
       "name": "ur so pretty",
       "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
@@ -7980,7 +8096,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 168906,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
@@ -8034,7 +8150,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 180081,
       "name": "Waiting for God in the Garden",
       "url": "https://open.spotify.com/track/5kt5I9DFuzWlEFFjGhH1Cc"
@@ -8420,7 +8536,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 203300,
       "name": "Where or When",
       "url": "https://open.spotify.com/track/4gJXJkd0zFFanZL2w0RsMB"

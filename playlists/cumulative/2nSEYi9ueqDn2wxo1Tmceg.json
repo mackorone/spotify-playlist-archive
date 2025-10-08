@@ -22793,6 +22793,24 @@
     },
     {
       "album": {
+        "name": "Siren Song",
+        "url": "https://open.spotify.com/album/4imrVUWH3hFEY9qzX5MCuH"
+      },
+      "artists": [
+        {
+          "name": "Austra",
+          "url": "https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217645,
+      "name": "Siren Song",
+      "url": "https://open.spotify.com/track/0GRUpGySzN9XxBzGZuEahK"
+    },
+    {
+      "album": {
         "name": "Sisyphus",
         "url": "https://open.spotify.com/album/4bniwpGQ3K2eEfNI7yUBXF"
       },

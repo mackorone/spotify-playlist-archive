@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Malcolm VL, Mc Luanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,718 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,714 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 26 | [Vibe](https://open.spotify.com/track/5VywwkuSqqEPLsFJ0JHaZd) | [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Choji](https://open.spotify.com/artist/2gx1zKYcIAUboisufcHkjB), [MC Tairon](https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b), [Drow Beats](https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt) | [RIVA](https://open.spotify.com/album/1CvMpqtrSIAyLNTxLZywW6) | 3:01 |
 | 27 | [Papo de Progresso](https://open.spotify.com/track/50RebQXmRgQ5OmQvrasFFS) | [Pedro Qualy](https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp), [Nicz](https://open.spotify.com/artist/3zrfpaMeAt3fzvXkB80zE4) | [Papo de Progresso](https://open.spotify.com/album/53bWlHZoYGtzZbVldzsFvY) | 3:04 |
 | 28 | [Descarga](https://open.spotify.com/track/75qF622p0zgMNIovwLPI5M) | [Mana Bella](https://open.spotify.com/artist/66FBWTFzY82EfrJewrOdOk), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Descarga](https://open.spotify.com/album/2uBGG3T9SmhNDfpyenSnyx) | 3:03 |
-| 29 | [meio dia](https://open.spotify.com/track/10ipDwGs68VMxRXtEP0Nfh) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa), [Victor Xamã](https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP) | [Helena](https://open.spotify.com/album/1uXYIrpJVMVUaHcY00OwUQ) | 3:29 |
+| 29 | [meio dia](https://open.spotify.com/track/10ipDwGs68VMxRXtEP0Nfh) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa), [Victor Xamã](https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP), [NURIA](https://open.spotify.com/artist/76sVEEPeTrWHSjTEZcLaZk) | [Helena](https://open.spotify.com/album/1uXYIrpJVMVUaHcY00OwUQ) | 3:29 |
 | 30 | [M3](https://open.spotify.com/track/7A22OyPdIWmflBQZSSItVW) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq) | [M3](https://open.spotify.com/album/60YkAdjdKKNe4ph61c82w2) | 2:48 |
 | 31 | [A Milhão](https://open.spotify.com/track/6zbThyyl1JflLOZP1kmzIP) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [Serena & Venus \(Lado A\)](https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68) | 3:23 |
 | 32 | [Jacuzzi](https://open.spotify.com/track/1ZLGgJlN3S7ymrTi2o6LMA) | [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy), [Soft World](https://open.spotify.com/artist/6oZcMav6FpgRsaHzAJ7vA8) | [Jacuzzi](https://open.spotify.com/album/5qpm7Ab7LAUyTUOiiu7Qo2) | 2:51 |

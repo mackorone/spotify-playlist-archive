@@ -1,12 +1,12 @@
 {
   "description": "This is Alaina Castillo. The essential tracks, all in one playlist.",
-  "num_followers": 4771,
+  "num_followers": 4772,
   "original_name": "This Is Alaina Castillo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAACzPxiJEv0BarnPVmFr0X9X",
+  "snapshot_id": "aOMGgAAAAADPegcOYS7eerhfzDQXb5NM",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "luna de miel",
-        "url": "https://open.spotify.com/album/6jS8h6S75hv5XtRcdjd8f2"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 155017,
-      "name": "luna de miel",
-      "url": "https://open.spotify.com/track/2hjyD6lWeudH8HDsh1b1vr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "wish you were here",
         "url": "https://open.spotify.com/album/4HLnnflwmy0nklqam1JvxJ"
       },
@@ -443,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "mensajes de voz",
-        "url": "https://open.spotify.com/album/3ke91rZeapK58zUwhdztrX"
+        "name": "luna de miel",
+        "url": "https://open.spotify.com/album/6jS8h6S75hv5XtRcdjd8f2"
       },
       "artists": [
         {
@@ -452,25 +436,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 185681,
-      "name": "un ni\u00f1o",
-      "url": "https://open.spotify.com/track/7KvT052XdKMsVvHfqeYqP9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "parallel universe pt. 1",
-        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 159666,
-      "name": "make it rain",
-      "url": "https://open.spotify.com/track/67tKjlVcJnHwiwiXbpxJxV"
+      "duration_ms": 155017,
+      "name": "luna de miel",
+      "url": "https://open.spotify.com/track/2hjyD6lWeudH8HDsh1b1vr"
     },
     {
       "added_at": null,
@@ -491,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "wishlist",
-        "url": "https://open.spotify.com/album/4lR8d9biYRzivkjR2YNxN8"
+        "name": "parallel universe pt. 1",
+        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
       },
       "artists": [
         {
@@ -500,9 +468,25 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 203093,
-      "name": "wishlist",
-      "url": "https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv"
+      "duration_ms": 159666,
+      "name": "make it rain",
+      "url": "https://open.spotify.com/track/67tKjlVcJnHwiwiXbpxJxV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "mensajes de voz",
+        "url": "https://open.spotify.com/album/3ke91rZeapK58zUwhdztrX"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 185681,
+      "name": "un ni\u00f1o",
+      "url": "https://open.spotify.com/track/7KvT052XdKMsVvHfqeYqP9"
     },
     {
       "added_at": null,
@@ -519,6 +503,22 @@
       "duration_ms": 183587,
       "name": "mentiras",
       "url": "https://open.spotify.com/track/4rEf2r4gEZBFpQuOE9TMev"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wishlist",
+        "url": "https://open.spotify.com/album/4lR8d9biYRzivkjR2YNxN8"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "wishlist",
+      "url": "https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "running water",
-        "url": "https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 184633,
-      "name": "running water",
-      "url": "https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "antisocial butterfly",
         "url": "https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 87579,
       "name": "back to you",
       "url": "https://open.spotify.com/track/2Ir0OrTswTZwU7BUMVV620"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "running water",
+        "url": "https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 184633,
+      "name": "running water",
+      "url": "https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 166920,
-      "name": "get better",
-      "url": "https://open.spotify.com/track/5ZUYFEiOPNS94KssgFDdvB"
+      "duration_ms": 197666,
+      "name": "tell the one u love",
+      "url": "https://open.spotify.com/track/5eDGzNXmLrtdKq2NsFLn5F"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 197666,
-      "name": "tell the one u love",
-      "url": "https://open.spotify.com/track/5eDGzNXmLrtdKq2NsFLn5F"
+      "duration_ms": 166920,
+      "name": "get better",
+      "url": "https://open.spotify.com/track/5ZUYFEiOPNS94KssgFDdvB"
     },
     {
       "added_at": null,

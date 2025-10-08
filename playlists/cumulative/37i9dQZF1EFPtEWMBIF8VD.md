@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6m3hSTUS0vdJhCUl1EBPXA">Abby Keen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-51 songs - 2 hr 29 min
+52 songs - 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [The Chase](https://open.spotify.com/track/4HJYiJvOyBSjkAe7yqA61L) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [333](https://open.spotify.com/album/2VOHb02PHjs4bu5qPPy1Dy) | 3:11 | 2025-05-02 |  |
 | [Thunder](https://open.spotify.com/track/3ZK6odVgvALSff5zhVZcr9) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Alter Ego](https://open.spotify.com/album/7bRumRaEIgUBnHiwiORk6J) | 2:48 | 2025-07-09 |  |
 | [Waterslides](https://open.spotify.com/track/1SBfaO3swtjh8dV07MExuP) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Waterslides](https://open.spotify.com/album/5U1HyVpo9zeSC8K8LhHx4i) | 2:38 | 2025-05-02 |  |
+| [Window](https://open.spotify.com/track/6IoELIfx2s5I7z6UZEhW9O) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 2:23 | 2025-10-07 |  |
 | [You & Me](https://open.spotify.com/track/6HNtEMFp2mZHkTG7GGuioL) | [Adam Rom](https://open.spotify.com/artist/4oOcOSicmBDeT6JfIWnCbf), [àB](https://open.spotify.com/artist/0Ki8IJ8C17peRsgYPa78q1) | [You & Me](https://open.spotify.com/album/2XZcqQhk8hmrMmBMGsooID) | 2:31 | 2025-05-02 |  |
 
 \*This playlist was first scraped on 2025-05-03. Prior content cannot be recovered.

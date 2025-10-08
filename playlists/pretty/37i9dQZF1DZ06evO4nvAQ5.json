@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 15919,
+  "num_followers": 15922,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAADI3fyTFrLuPVrVTl3bglW8",
+  "snapshot_id": "aOMGgAAAAAC3TVGmMgfWsitFRoCiVTXD",
   "tracks": [
     {
       "added_at": null,
@@ -255,18 +255,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "See Her Again - Single",
-        "url": "https://open.spotify.com/album/1f5ECVICe8ixZ9BBiCCrkV"
+        "name": "Beauty In The Silence",
+        "url": "https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8"
       },
       "artists": [
         {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        },
+        {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
         }
       ],
-      "duration_ms": 189677,
-      "name": "See Her Again",
-      "url": "https://open.spotify.com/track/3Ibxs1OxL9wH3jBwpIQGid"
+      "duration_ms": 274810,
+      "name": "Press Rewind",
+      "url": "https://open.spotify.com/track/1Js26hznhkLlFeRoxCtyNq"
     },
     {
       "added_at": null,
@@ -291,26 +299,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beauty In The Silence",
-        "url": "https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8"
+        "name": "See Her Again - Single",
+        "url": "https://open.spotify.com/album/1f5ECVICe8ixZ9BBiCCrkV"
       },
       "artists": [
         {
-          "name": "SOJA",
-          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
-        },
-        {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
         }
       ],
-      "duration_ms": 274810,
-      "name": "Press Rewind",
-      "url": "https://open.spotify.com/track/1Js26hznhkLlFeRoxCtyNq"
+      "duration_ms": 189677,
+      "name": "See Her Again",
+      "url": "https://open.spotify.com/track/3Ibxs1OxL9wH3jBwpIQGid"
     },
     {
       "added_at": null,
@@ -983,18 +983,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jugglerz City",
-        "url": "https://open.spotify.com/album/3EDbfW7vuohqsBml6WDzGW"
+        "name": "Fire (with J Boog)",
+        "url": "https://open.spotify.com/album/6durB9swq3vS70jO5K3MBs"
       },
       "artists": [
         {
+          "name": "Hector Roots Lewis",
+          "url": "https://open.spotify.com/artist/3SavOzufIaXEFhSy4MofAw"
+        },
+        {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Johnny Cosmic",
+          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
         }
       ],
-      "duration_ms": 180381,
-      "name": "Worth My Time",
-      "url": "https://open.spotify.com/track/1Xd0kjwP0L0LYYExamTlmI"
+      "duration_ms": 241675,
+      "name": "Fire (with J Boog)",
+      "url": "https://open.spotify.com/track/4ZNfOxcDF2aycOslsOMbhs"
     }
   ],
   "unique_name": "This Is J Boog",

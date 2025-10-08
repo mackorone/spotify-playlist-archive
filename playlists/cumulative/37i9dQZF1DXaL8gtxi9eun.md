@@ -4,7 +4,7 @@
 
 > أجمد أغاني البوب المصري كلها في قائمة واحدة\. غلاف: رامي صبري
 
-409 songs - 1 day 0 hr 27 min
+410 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,7 +338,7 @@
 | [دادينا](https://open.spotify.com/track/7AInJeOGXWBT9xnxhRTVZW) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [دادينا](https://open.spotify.com/album/69fom2qf7DQkMcBdsMYdfw) | 3:18 | 2023-10-15 | 2024-02-18 |
 | [دلعنا كتير](https://open.spotify.com/track/6zNFUlt8E8NcT2ljRqK5GM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [دلعنا كتير](https://open.spotify.com/album/4fXbai8cyBy3BdHgVMTGu1) | 2:52 | 2023-08-27 | 2024-02-07 |
 | [ده قلبي ده](https://open.spotify.com/track/4r7wv4TkFq2yu2R3B294Gt) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [ده قلبي ده](https://open.spotify.com/album/5Bojtv4l3gbG6ZsZ6WbDNl) | 2:58 | 2023-08-18 | 2023-08-28 |
-| [راحت لياليه](https://open.spotify.com/track/4abgJ51SfLiz9e6f65YVGs) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [راحت لياليه](https://open.spotify.com/album/0bWgug0dtOBYeUn7dewjK0) | 4:44 | 2025-06-20 |  |
+| [راحت لياليه](https://open.spotify.com/track/4abgJ51SfLiz9e6f65YVGs) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [راحت لياليه](https://open.spotify.com/album/0bWgug0dtOBYeUn7dewjK0) | 4:44 | 2025-06-20 | 2025-10-08 |
 | [رسينى](https://open.spotify.com/track/49Lw1thFEsqq1qQuxFplte) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [رسينى](https://open.spotify.com/album/765hT0CXO2Ttfthkxsa7tt) | 3:38 | 2025-04-17 |  |
 | [رنة خلخال](https://open.spotify.com/track/4EqNT4pCDGVv2rC5Fd6NBO) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [رنة خلخال](https://open.spotify.com/album/0cze08hL6Iw0XbHwqVzwzR) | 3:31 | 2023-08-18 | 2024-02-07 |
 | [زلزال](https://open.spotify.com/track/0FO3XVNhGNq86mZ1uEhYvK) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [رابح صقر ٢٠٢٣ \- الجزء الثاني](https://open.spotify.com/album/0HpjLJZITkQQsW0HqiOVIB) | 4:16 | 2023-07-11 | 2023-12-15 |
@@ -399,6 +399,7 @@
 | [نومي مخاصمني](https://open.spotify.com/track/0wM19U1JQFNWtSORtIvphd) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [نومي مخاصمني](https://open.spotify.com/album/23jooNVAjQJ5cgWgNgXNUO) | 3:00 | 2024-11-18 | 2025-02-06 |
 | [هذا حالي من بعدك](https://open.spotify.com/track/2JaUxUVwjygjUZdGrJqOTr) | [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3) | [هذا حالي من بعدك](https://open.spotify.com/album/0rwewNIHSFnDqe92fZq4Fo) | 3:10 | 2023-05-30 | 2023-09-09 |
 | [هرمون السعادة \- من فيلم تاج](https://open.spotify.com/track/1BhCzjyNwFOJoCZqMXIdUg) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [هرمون السعادة \(من فيلم تاج\)](https://open.spotify.com/album/6uXSbOjm2YQbn1JfUMuig1) | 2:47 | 2023-06-23 | 2023-08-19 |
+| [هسيبله ذكري](https://open.spotify.com/track/46LdRGdqFqZ1NlvQyGBqDi) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [هسيبله ذكري](https://open.spotify.com/album/2qpAPiC69A93WnZLSPEN9P) | 3:33 | 2025-10-07 |  |
 | [هنيالو](https://open.spotify.com/track/28L8RTHgg9XPvDtL3R0pmX) | [أروى](https://open.spotify.com/artist/6Rl7uv3qQrsZOhgu7Xj9Zj) | [هنيالو](https://open.spotify.com/album/24San4mNpcyhkYH4oiu0iO) | 3:40 | 2023-01-10 | 2023-05-18 |
 | [هو انت مين](https://open.spotify.com/track/1qGEGcxFCJ0LhBCBSeZmqO) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [تيجي نسيب](https://open.spotify.com/album/2hq36WlHifY01YuBdfLv15) | 4:41 | 2024-07-29 | 2025-06-21 |
 | [هي حكاية](https://open.spotify.com/track/6xfNtpD91E67pos5nC4YlF) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [هي حكاية](https://open.spotify.com/album/1S0tU3wayCissjqOuroaYF) | 3:03 | 2024-01-25 | 2024-02-18 |

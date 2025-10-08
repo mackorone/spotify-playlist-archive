@@ -2405,6 +2405,32 @@
     },
     {
       "album": {
+        "name": "Loosu",
+        "url": "https://open.spotify.com/album/70Km7JB3PUoOBiDAWUScfS"
+      },
+      "artists": [
+        {
+          "name": "Cronyg",
+          "url": "https://open.spotify.com/artist/0SaZoElbSiD33kEknjKbRQ"
+        },
+        {
+          "name": "Seize Me",
+          "url": "https://open.spotify.com/artist/1zHAfoK6387FV8pU0QZbil"
+        },
+        {
+          "name": "Cymbol",
+          "url": "https://open.spotify.com/artist/0wKGz0DA4DP6egoQTouL1w"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139968,
+      "name": "Loosu",
+      "url": "https://open.spotify.com/track/5EJPrEUbqzPEpiJP8pn1iN"
+    },
+    {
+      "album": {
         "name": "Vallavan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6iS9GfnmK3wYwVQ8UyBBqu"
       },

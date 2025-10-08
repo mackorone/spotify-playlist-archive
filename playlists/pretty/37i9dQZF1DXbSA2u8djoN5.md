@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Guess Who, Macanache
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,904 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,910 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 40 | [Grinch](https://open.spotify.com/track/0RCOFsv0uaHhIwjZXJJ5yk) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [Grinch](https://open.spotify.com/album/2QN6om23DL5Gwek4PCTGx6) | 3:14 |
 | 41 | [Trebuie să vorbim](https://open.spotify.com/track/2umq0CclvwPu9IgfKFYGqf) | [Cojo](https://open.spotify.com/artist/4Rl9vpUbiQ7h02NfIaAma2), [Yasmin Petroșanu](https://open.spotify.com/artist/0JAK73jXbu6yF0BMfLZ7xB) | [Erupt](https://open.spotify.com/album/6Hl9jUlqriBim7hHWr09nf) | 3:36 |
 | 42 | [Killa House Guerrilla/Liga Neagră](https://open.spotify.com/track/3LBuJ9IZylBnzC6rZQ8T1o) | [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [Killa House Guerrilla](https://open.spotify.com/album/5k4ExMbyxwUypEndY9jBH4) | 3:23 |
-| 43 | [Ochii](https://open.spotify.com/track/3UNTY9uqkDM24KQXN0RnTB) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Ochii](https://open.spotify.com/album/0TTXBQGbMeXpr75X7uCj7Z) | 3:16 |
-| 44 | [LUNA](https://open.spotify.com/track/4B7LGlce3KhmzIbGtgyVWx) | [4 226](https://open.spotify.com/artist/74itn5RZELPit7DjPJ1MxD), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [LENO](https://open.spotify.com/artist/1V25NQm1hcYVQ1hierOrwq), [Ravisval](https://open.spotify.com/artist/05FwNBU8DxWSysdXH2c8vZ), [Giovanni](https://open.spotify.com/artist/47AvMC22jRN0dhoP1Lmk9o), [BITTNER](https://open.spotify.com/artist/0vWnEKLANNWb7QEqdRg5K3) | [CO$ANO$TRA](https://open.spotify.com/album/5IZ2vNWU5TsPzkMYnN2hg8) | 3:01 |
+| 43 | [LUNA](https://open.spotify.com/track/4B7LGlce3KhmzIbGtgyVWx) | [4 226](https://open.spotify.com/artist/74itn5RZELPit7DjPJ1MxD), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [LENO](https://open.spotify.com/artist/1V25NQm1hcYVQ1hierOrwq), [Ravisval](https://open.spotify.com/artist/05FwNBU8DxWSysdXH2c8vZ), [Giovanni](https://open.spotify.com/artist/47AvMC22jRN0dhoP1Lmk9o), [BITTNER](https://open.spotify.com/artist/0vWnEKLANNWb7QEqdRg5K3) | [CO$ANO$TRA](https://open.spotify.com/album/5IZ2vNWU5TsPzkMYnN2hg8) | 3:01 |
+| 44 | [Ochii](https://open.spotify.com/track/3UNTY9uqkDM24KQXN0RnTB) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Ochii](https://open.spotify.com/album/0TTXBQGbMeXpr75X7uCj7Z) | 3:16 |
 | 45 | [Poate](https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu) | [Endru](https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Blur](https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV) | 2:32 |
 | 46 | [Moldova și Bucovina](https://open.spotify.com/track/0VbHmj9I3Tweest7BWSOT2) | [F.Charm](https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I) | [Moldova și Bucovina](https://open.spotify.com/album/0kaoHTY5ou0c1ik4d5l6bx) | 2:35 |
 | 47 | [Boo Hoo](https://open.spotify.com/track/4yzHQjhuqc2Mln2zQd4C83) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Boo Hoo](https://open.spotify.com/album/1jQ9obrlV3ESCHg7AV8wbS) | 2:47 |

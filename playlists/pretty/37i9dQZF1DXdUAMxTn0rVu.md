@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 > Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Mos Def
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,764 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,024 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 22 | [This Way](https://open.spotify.com/track/1unbLw4cvR8za4YpHFWcN7) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Neighborhood Watch](https://open.spotify.com/album/267Oyc2f4oyawPYto13f2S) | 4:05 |
 | 23 | [Point Of No Return](https://open.spotify.com/track/3qDpYCA6FoVvODVaZWScXO) | [Immortal Technique](https://open.spotify.com/artist/7h8ja4JSORo2sXJPmCXRxa) | [Revolutionary Vol\. 2](https://open.spotify.com/album/5xtkb5z9PgR0dmIf8WkNT0) | 4:01 |
 | 24 | [Thieves In The Night](https://open.spotify.com/track/7tx1TUJrT6qxXFXAELqbev) | [Black Star](https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB) | [Mos Def & Talib Kweli Are Black Star](https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q) | 5:11 |
-| 25 | [Blast](https://open.spotify.com/track/1l7xvA5XajmKQDo1h8Vc3K) | [Reflection Eternal](https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC), [Vinia Mojica](https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC) | [Train Of Thought](https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx) | 3:07 |
-| 26 | [Mastermind](https://open.spotify.com/track/0uMn8WKu3qtQLaUyal1bsz) | [Deltron 3030](https://open.spotify.com/artist/2efzHZrUGhawnSOTpyAHOQ), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl), [Dan The Automator](https://open.spotify.com/artist/4fv5w0LJib9OMbXQegqZ01), [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN) | [Deltron 3030](https://open.spotify.com/album/04uhhcjGVCHodMgZjXOlye) | 3:34 |
+| 25 | [Mastermind](https://open.spotify.com/track/0uMn8WKu3qtQLaUyal1bsz) | [Deltron 3030](https://open.spotify.com/artist/2efzHZrUGhawnSOTpyAHOQ), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl), [Dan The Automator](https://open.spotify.com/artist/4fv5w0LJib9OMbXQegqZ01), [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN) | [Deltron 3030](https://open.spotify.com/album/04uhhcjGVCHodMgZjXOlye) | 3:34 |
+| 26 | [Blast](https://open.spotify.com/track/1l7xvA5XajmKQDo1h8Vc3K) | [Reflection Eternal](https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC), [Vinia Mojica](https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC) | [Train Of Thought](https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx) | 3:07 |
 | 27 | [Your Fuckin’ Head Split](https://open.spotify.com/track/1WkJbf3RsZCtPUvxM8AdN9) | [Necro](https://open.spotify.com/artist/51vjIMmHWyVqDrkxD07Jh7) | [I Need Drugs](https://open.spotify.com/album/3goXMAFZit2Wiaazp8zO2f) | 3:02 |
 | 28 | [So Far to Go](https://open.spotify.com/track/4omO3Xwm4REEK5HGT6e6yY) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Shining](https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5) | 5:36 |
 | 29 | [The Look of Love, Pt\. 1](https://open.spotify.com/track/3gTTDjDha02XJ4xuS2KF0e) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [J\-88](https://open.spotify.com/album/50235H1xQYRg7OaeEUc4ta) | 3:38 |

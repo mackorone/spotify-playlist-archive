@@ -1,6 +1,6 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 127046,
+  "num_followers": 127039,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2025-09-19 22:14:56",
       "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 214455,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0"
+    },
+    {
+      "added_at": "2025-09-19 22:14:56",
+      "album": {
         "name": "Guns",
         "url": "https://open.spotify.com/album/5icW3F94z3FdkoTEoDejwd"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 189942,
       "name": "Guns",
       "url": "https://open.spotify.com/track/0WsNPJMr6iHSi5vbVAcdz4"
-    },
-    {
-      "added_at": "2025-09-19 22:14:56",
-      "album": {
-        "name": "Deeper",
-        "url": "https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 214455,
-      "name": "Deeper",
-      "url": "https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0"
     },
     {
       "added_at": "2025-09-19 22:14:56",

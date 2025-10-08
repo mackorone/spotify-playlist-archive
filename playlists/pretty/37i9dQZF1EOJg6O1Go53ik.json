@@ -111,6 +111,22 @@
     {
       "added_at": "2020-11-27 16:22:12",
       "album": {
+        "name": "Why I Hate this Album",
+        "url": "https://open.spotify.com/album/7IZb0SS8jVtDy1xSgpng5s"
+      },
+      "artists": [
+        {
+          "name": "Why I Hate this Album",
+          "url": "https://open.spotify.com/show/7IZb0SS8jVtDy1xSgpng5s"
+        }
+      ],
+      "duration_ms": 5476347,
+      "name": "#67 - Pink - Missundaztood",
+      "url": "https://open.spotify.com/episode/2OquVf9jWJm9RxIyPJnUrf"
+    },
+    {
+      "added_at": "2020-11-27 16:22:12",
+      "album": {
         "name": "Be OK",
         "url": "https://open.spotify.com/album/26OZ2w8TlwMUmA0GMpQL1U"
       },

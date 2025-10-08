@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "indie & indiepop in het Nederlands. Cover: WIES",
+  "description": "indie & indiepop in het Nederlands. Cover: Sophie Straat",
   "name": "indie.nl",
   "tracks": [
     {
@@ -240,6 +240,24 @@
       "duration_ms": 133000,
       "name": "Als Het Donker Wordt",
       "url": "https://open.spotify.com/track/4nz0xR3gS5OfFOYo8OmWDu"
+    },
+    {
+      "album": {
+        "name": "Wie de fak is Sophie Straat",
+        "url": "https://open.spotify.com/album/2ZOvFH4sVhpFstklFMQUGk"
+      },
+      "artists": [
+        {
+          "name": "Sophie Straat",
+          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189946,
+      "name": "Als Hij dan echt bestaat",
+      "url": "https://open.spotify.com/track/0SjMOL8eZxHwzy463e8nbe"
     },
     {
       "album": {
@@ -698,7 +716,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 209532,
       "name": "De Grens Tussen Ons",
       "url": "https://open.spotify.com/track/5jWLxOSU7WWpcNnPNbhCwz"
@@ -806,7 +824,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 137053,
       "name": "Dingen Die Je Horen Wil",
       "url": "https://open.spotify.com/track/4d5qpQRzJd7Po9IosPoEda"
@@ -2055,6 +2073,24 @@
     },
     {
       "album": {
+        "name": "De Helft Van Het Verhaal",
+        "url": "https://open.spotify.com/album/5uNnNkVHmIGDsBUbP2CyC4"
+      },
+      "artists": [
+        {
+          "name": "Droom Dit",
+          "url": "https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244625,
+      "name": "Jochie",
+      "url": "https://open.spotify.com/track/5tNpYAk3ZYwStWmTgwmiuY"
+    },
+    {
+      "album": {
         "name": "Jouw Stem",
         "url": "https://open.spotify.com/album/1SDL0q28t1zlBaD4Pc7QeU"
       },
@@ -2904,6 +2940,24 @@
       "duration_ms": 157752,
       "name": "Nieuw Begin",
       "url": "https://open.spotify.com/track/5whI35aoxvWEr5cnzgXj0P"
+    },
+    {
+      "album": {
+        "name": "MONOMAAN",
+        "url": "https://open.spotify.com/album/335puggyOOxTdZYNExWPgO"
+      },
+      "artists": [
+        {
+          "name": "REINDIER",
+          "url": "https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196501,
+      "name": "Nooit Meer Slapen",
+      "url": "https://open.spotify.com/track/6qpcW5KdWs2zqmFvciRBkz"
     },
     {
       "album": {
@@ -3862,7 +3916,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 132727,
       "name": "Vager!",
       "url": "https://open.spotify.com/track/5llK2C03HqHJ7NM8ixKwYD"

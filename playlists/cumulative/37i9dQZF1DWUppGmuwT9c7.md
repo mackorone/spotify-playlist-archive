@@ -4,7 +4,7 @@
 
 > De grootste hits uit de kroeg in één playlist.
 
-118 songs - 5 hr 47 min
+119 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Dans Met Jou](https://open.spotify.com/track/3cjdrjSNjpSped2kxFN2a2) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Dans Met Jou](https://open.spotify.com/album/0CmqgJZW6zjFfi4k2rwYoZ) | 2:11 | 2025-08-26 |  |
 | [De Laatste](https://open.spotify.com/track/77rLRb9Ho6kb986TMX4Wz0) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [De Laatste](https://open.spotify.com/album/2dj7ASSn4PA5PG5JGYbeao) | 2:51 | 2025-07-14 |  |
 | [De Stad](https://open.spotify.com/track/2N0J2JFNDuRh4bEiaYWTHY) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [De Stad](https://open.spotify.com/album/74oRzSmRTs0BPr4rQSvywO) | 2:38 | 2025-07-14 |  |
+| [De Tent Moet Op Z’n Kop](https://open.spotify.com/track/5EkiXdCiQ8mkSyNop0p8Nr) | [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [Kerremuskrakers 2025](https://open.spotify.com/album/2o6j823Nvogl0iVxfiSfcK) | 2:37 | 2025-10-07 |  |
 | [De Toreador](https://open.spotify.com/track/59ZhqrmXub9nSwNGfOzg1N) | [Opgeblazen](https://open.spotify.com/artist/1wLKrslSkMPt0GjK2PFQng), [Wilbert Pigmans](https://open.spotify.com/artist/29ERE79ETWvm8bbINAW7Ix) | [De Toreador](https://open.spotify.com/album/57KGy1iD6DAAcPxw2I9B9Y) | 3:50 | 2025-07-14 |  |
 | [Dichtbij Me \(M'n Desire\)](https://open.spotify.com/track/70gBIf8EkbC8ZctAPOa7hZ) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [Dichtbij Me \(M'n Desire\)](https://open.spotify.com/album/1nbik2GVFVuwkgIceDyBc2) | 2:47 | 2025-07-14 | 2025-08-28 |
 | [Doe Je Dansie](https://open.spotify.com/track/6GETV2s1Q9LqLhPKFogakp) | [Jari Hellegers](https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au) | [Doe Je Dansie](https://open.spotify.com/album/5YoAnpgWnsJHrBQuFgwUiv) | 2:28 | 2025-07-14 |  |
@@ -53,7 +54,7 @@
 | [Huisje Op Wielen](https://open.spotify.com/track/6WQSfFJxgV5RAeH3vrv1eS) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Huisje Op Wielen](https://open.spotify.com/album/76L8ZRPBZEDWvxArXf24R3) | 3:29 | 2025-07-14 |  |
 | [Ik Bel Je Zomaar Even Op](https://open.spotify.com/track/7KMdT2qjJaJH7P27jb5Kcc) | [Jesse Prins](https://open.spotify.com/artist/7cTPmBuInxNTQsNGlDIyrm) | [Ik Bel Je Zomaar Even Op](https://open.spotify.com/album/7iHFa8QIyIDTGuP7Xaw6VM) | 2:44 | 2025-09-20 |  |
 | [Ik Ben Een Dromer](https://open.spotify.com/track/2kBWWPFDTJ1lmFBYVfdjht) | [Manuel](https://open.spotify.com/artist/55exyuiyKcFgjaTEsxz8Vy) | [Ik Ben Een Dromer](https://open.spotify.com/album/3E2OfsIaDT7EP05Lboql9A) | 2:54 | 2025-07-14 | 2025-08-28 |
-| [Ik Ga Leven \(Goldfinger remix\)](https://open.spotify.com/track/0k1D369yKmhSiMnQBYiPE0) | [Rob Van Daal](https://open.spotify.com/artist/3TbeR2GLVYNQW7ohVIzSJ8) | [Nu Lacht Geluk Me Toe](https://open.spotify.com/album/6iD9JoFQoMCbw1y1TpC1qu) | 3:08 | 2025-07-14 |  |
+| [Ik Ga Leven \(Goldfinger remix\)](https://open.spotify.com/track/0k1D369yKmhSiMnQBYiPE0) | [Rob Van Daal](https://open.spotify.com/artist/3TbeR2GLVYNQW7ohVIzSJ8) | [Nu Lacht Geluk Me Toe](https://open.spotify.com/album/6iD9JoFQoMCbw1y1TpC1qu) | 3:08 | 2025-07-14 | 2025-10-08 |
 | [Ik Heb De Hele Nacht Liggen Dromen](https://open.spotify.com/track/424Blek9ClYC97FV3muHqV) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Niemand Anders](https://open.spotify.com/album/5nqY3O7eAIz1RpKmFr1zRB) | 4:08 | 2025-07-14 | 2025-09-05 |
 | [Ik Kan Je Niet Vergeten](https://open.spotify.com/track/7J4X2uKaKvgFBYJTgccVbw) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Ik Kan Je Niet Vergeten](https://open.spotify.com/album/4dOZQ6p3hwXX7QzWLHmXFJ) | 2:47 | 2025-07-14 |  |
 | [Ik Meen 'T](https://open.spotify.com/track/49EPxidDCfWYg0cIKmTxHB) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 3:33 | 2025-07-14 |  |

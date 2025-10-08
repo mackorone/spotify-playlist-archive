@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 374 songs - 21 hr 31 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 375 songs - 21 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -382,5 +382,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 372 | [<<<<<<](https://open.spotify.com/track/7q1XJApEsIjsztIG9aFR5h) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [<<<<<<](https://open.spotify.com/album/6jMvyuEcOtMBUUzp2uijzg) | 4:34 |
 | 373 | [フワライドウ \(feat\. 初音ミク\)](https://open.spotify.com/track/3dVN7kgkeUZG3pK2PxvJQJ) | [Adeliae](https://open.spotify.com/artist/1WMnnczuFZmRuvrprv9fjA), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [フワライドウ](https://open.spotify.com/album/2QaYjVPp5BfdNDHvee6wpe) | 2:38 |
 | 374 | [Therefor you and me](https://open.spotify.com/track/4wVhDSjVL5akvPE6Or1fll) | [si\-o](https://open.spotify.com/artist/454bXMSV98MTruU5zHWa5x) | [Tadano Best](https://open.spotify.com/album/5SkWy9S4pUINaPZpRA9FpE) | 3:00 |
+| 375 | [Vampire Requiem](https://open.spotify.com/track/57xhHuhjhiqqDptYzR0OZO) | [Kaya](https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg) | [GOTHIC\(A\-type\)](https://open.spotify.com/album/1pruXAHSYCW3bSCEC6DSHT) | 4:31 |
 
-Snapshot ID: `AAAJaxIVrGi1vwwND/WKLAHzJ/jlmXiJ`
+Snapshot ID: `AAAJbIE+jD40XhlhvgloJ+JwPzeodHqh`

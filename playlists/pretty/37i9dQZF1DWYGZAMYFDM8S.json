@@ -1,6 +1,6 @@
 {
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
-  "num_followers": 2180721,
+  "num_followers": 2180532,
   "original_name": "Acoustic Chill",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "A Sailor's Guide to Earth",
+        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "Breakers Roar",
+      "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "No Rain, No Rose",
         "url": "https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 313078,
       "name": "I Am California",
       "url": "https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "A Sailor's Guide to Earth",
-        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 212586,
-      "name": "Breakers Roar",
-      "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 217463,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Doomsday",
         "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 189506,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 217463,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 304226,
-      "name": "Emmylou - Spotify Sessions",
-      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "I Know You Know Me (With Matt Berninger)",
         "url": "https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 199123,
       "name": "I Know You Know Me (With Matt Berninger)",
       "url": "https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 304226,
+      "name": "Emmylou - Spotify Sessions",
+      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/1F4rsdXzl1jda8iHIkXU8w"
-      },
-      "artists": [
-        {
-          "name": "Ryan Montbleau",
-          "url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc"
-        }
-      ],
-      "duration_ms": 304880,
-      "name": "I Don't Want to Go",
-      "url": "https://open.spotify.com/track/6v72fV6Nao5E4MOoQ8ZvzD"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Inside the stone",
         "url": "https://open.spotify.com/album/2u9U3J5NzpPSPds9VsP5xi"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 124034,
       "name": "Inside the stone",
       "url": "https://open.spotify.com/track/1TgZWTvjhmFiHh7A7ld6kl"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/1F4rsdXzl1jda8iHIkXU8w"
+      },
+      "artists": [
+        {
+          "name": "Ryan Montbleau",
+          "url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc"
+        }
+      ],
+      "duration_ms": 304880,
+      "name": "I Don't Want to Go",
+      "url": "https://open.spotify.com/track/6v72fV6Nao5E4MOoQ8ZvzD"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Big Bend (An Original Soundtrack for Public Television)",
+        "url": "https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv"
+      },
+      "artists": [
+        {
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+        }
+      ],
+      "duration_ms": 125408,
+      "name": "Woodpecker",
+      "url": "https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Some People I Know",
         "url": "https://open.spotify.com/album/1BpdKszhtmmlaOqG3McH0g"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 269000,
       "name": "K.",
       "url": "https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Big Bend (An Original Soundtrack for Public Television)",
-        "url": "https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv"
-      },
-      "artists": [
-        {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
-        }
-      ],
-      "duration_ms": 125408,
-      "name": "Woodpecker",
-      "url": "https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "New Order T-Shirt",
-        "url": "https://open.spotify.com/album/2r3ZTexCYXDSGmTbcNyqmw"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "New Order T-Shirt",
-      "url": "https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Colony of Bees",
         "url": "https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU"
       },
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Drugstore Houses",
-        "url": "https://open.spotify.com/album/1tCGIJAUNK3k6JVRL62UO6"
+        "name": "New Order T-Shirt",
+        "url": "https://open.spotify.com/album/2r3ZTexCYXDSGmTbcNyqmw"
       },
       "artists": [
         {
-          "name": "Garrett Kato",
-          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
         }
       ],
-      "duration_ms": 182253,
-      "name": "Drugstore Houses",
-      "url": "https://open.spotify.com/track/2vOWeduJdE3pDR3c8uCE7Z"
+      "duration_ms": 296000,
+      "name": "New Order T-Shirt",
+      "url": "https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1515,6 +1499,22 @@
       "duration_ms": 221120,
       "name": "Bashed Out",
       "url": "https://open.spotify.com/track/1chmZUBdfxoLWN1LCZ6HLO"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Drugstore Houses",
+        "url": "https://open.spotify.com/album/1tCGIJAUNK3k6JVRL62UO6"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        }
+      ],
+      "duration_ms": 182253,
+      "name": "Drugstore Houses",
+      "url": "https://open.spotify.com/track/2vOWeduJdE3pDR3c8uCE7Z"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "The Life",
-        "url": "https://open.spotify.com/album/0P7elKGRg3sqrIoxF5gHqw"
-      },
-      "artists": [
-        {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
-        }
-      ],
-      "duration_ms": 146873,
-      "name": "The Life",
-      "url": "https://open.spotify.com/track/6v2NgEbmGFOulY74emLe6u"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "A Little Older",
         "url": "https://open.spotify.com/album/0HFPYiYnX5HgnfEO5TAUDR"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 182452,
       "name": "A Little Older",
       "url": "https://open.spotify.com/track/1m56W6gAJihdK03ZVr6DIv"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "The Life",
+        "url": "https://open.spotify.com/album/0P7elKGRg3sqrIoxF5gHqw"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "duration_ms": 146873,
+      "name": "The Life",
+      "url": "https://open.spotify.com/track/6v2NgEbmGFOulY74emLe6u"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "It Wasn't Enough",
-        "url": "https://open.spotify.com/album/2uYM8TunmJhRP1U3ULUgXv"
-      },
-      "artists": [
-        {
-          "name": "PJ Harding",
-          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
-        }
-      ],
-      "duration_ms": 265973,
-      "name": "It Wasn't Enough",
-      "url": "https://open.spotify.com/track/2RbS3JyHde84ytV36H884Q"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Waysides",
         "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 226258,
       "name": "The Solitude",
       "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "It Wasn't Enough",
+        "url": "https://open.spotify.com/album/2uYM8TunmJhRP1U3ULUgXv"
+      },
+      "artists": [
+        {
+          "name": "PJ Harding",
+          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
+        }
+      ],
+      "duration_ms": 265973,
+      "name": "It Wasn't Enough",
+      "url": "https://open.spotify.com/track/2RbS3JyHde84ytV36H884Q"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1955,6 +1955,42 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "His Three Daughters (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5kvN1zypOQo0IsMxBAEEfO"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Amarante",
+          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
+        }
+      ],
+      "duration_ms": 210614,
+      "name": "In Time",
+      "url": "https://open.spotify.com/track/5EAtZRQPWrt2OtkJjMdLH2"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Luck Mansion Sessions",
+        "url": "https://open.spotify.com/album/72sVXC5BzvjO9WFaebpK1c"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        },
+        {
+          "name": "Dylan LeBlanc",
+          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
+        }
+      ],
+      "duration_ms": 215998,
+      "name": "Mother, Mother",
+      "url": "https://open.spotify.com/track/6X0hjAJlVW9PiqQIaGsVzd"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Sofia",
         "url": "https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa"
       },
@@ -1983,42 +2019,6 @@
       "duration_ms": 202473,
       "name": "Birds",
       "url": "https://open.spotify.com/track/3DekCgOkhOg1afxMyx1ixA"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Luck Mansion Sessions",
-        "url": "https://open.spotify.com/album/72sVXC5BzvjO9WFaebpK1c"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        },
-        {
-          "name": "Dylan LeBlanc",
-          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
-        }
-      ],
-      "duration_ms": 215998,
-      "name": "Mother, Mother",
-      "url": "https://open.spotify.com/track/6X0hjAJlVW9PiqQIaGsVzd"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "His Three Daughters (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5kvN1zypOQo0IsMxBAEEfO"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Amarante",
-          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
-        }
-      ],
-      "duration_ms": 210614,
-      "name": "In Time",
-      "url": "https://open.spotify.com/track/5EAtZRQPWrt2OtkJjMdLH2"
     },
     {
       "added_at": "2024-11-08 05:00:00",

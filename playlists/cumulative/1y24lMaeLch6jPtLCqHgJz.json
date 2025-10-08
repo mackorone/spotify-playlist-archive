@@ -389,6 +389,32 @@
     },
     {
       "album": {
+        "name": "All That We Are",
+        "url": "https://open.spotify.com/album/3UkWvXVwaH18ZwBRLoQ7Dy"
+      },
+      "artists": [
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        },
+        {
+          "name": "Blackcode",
+          "url": "https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL"
+        },
+        {
+          "name": "Monic",
+          "url": "https://open.spotify.com/artist/0sjlljpwKvjmgDHSvNKF3A"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190429,
+      "name": "All That We Are",
+      "url": "https://open.spotify.com/track/5LKFjmzva4C3a7AyKqK9cv"
+    },
+    {
+      "album": {
         "name": "All We Needed",
         "url": "https://open.spotify.com/album/1c7dFeOERHYJa1aEyWzFql"
       },

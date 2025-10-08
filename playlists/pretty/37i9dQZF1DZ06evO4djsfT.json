@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 27655,
+  "num_followers": 27658,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAADR/ohz4BBTRNfwDziwe7lo",
+  "snapshot_id": "aOMGgAAAAABb2FF3mrXFKAYucRC+jOog",
   "tracks": [
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/7BQy4Rm4CRWGyBKei9CJFv"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        }
-      ],
-      "duration_ms": 219242,
-      "name": "100",
-      "url": "https://open.spotify.com/track/30lW7sca9vsJThBCifkwGo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 170118,
       "name": "One Day",
       "url": "https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/7BQy4Rm4CRWGyBKei9CJFv"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "duration_ms": 219242,
+      "name": "100",
+      "url": "https://open.spotify.com/track/30lW7sca9vsJThBCifkwGo"
     },
     {
       "added_at": null,
@@ -855,6 +855,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hills and Valleys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 237496,
+      "name": "Undefeated (feat. KB)",
+      "url": "https://open.spotify.com/track/3MU0cqyxgy3jc3Z4mu766m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Good Life",
         "url": "https://open.spotify.com/album/4isPEpuar7DBekswZNoawh"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 190480,
       "name": "Worship in the Moshpit",
       "url": "https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hills and Valleys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 237496,
-      "name": "Undefeated (feat. KB)",
-      "url": "https://open.spotify.com/track/3MU0cqyxgy3jc3Z4mu766m"
     },
     {
       "added_at": null,

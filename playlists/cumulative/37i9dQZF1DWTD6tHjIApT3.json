@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: CUTIE STREET",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: chelmico",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -26768,6 +26768,24 @@
       "duration_ms": 213666,
       "name": "Sakura Hitohira",
       "url": "https://open.spotify.com/track/3wyqSJM69sBzEP2hEnKPCp"
+    },
+    {
+      "album": {
+        "name": "SALT AND PEPPER",
+        "url": "https://open.spotify.com/album/4olggPlIlKVENiJwmIzzOQ"
+      },
+      "artists": [
+        {
+          "name": "chelmico",
+          "url": "https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198123,
+      "name": "SALT AND PEPPER",
+      "url": "https://open.spotify.com/track/2BZXo0GtuKlEIyGP6sdfX7"
     },
     {
       "album": {
@@ -61758,7 +61776,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 225706,
       "name": "\u9060\u96f7",
       "url": "https://open.spotify.com/track/14NMsBNiuQw1eHFxNG9ybL"

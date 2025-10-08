@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ha7zJp2sn2.md) - [plain]
 
 > El sonido de la nueva canción latinoamericana\. Foto: Mónica Giraldo
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,593 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,596 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-738 songs - 2 day 22 hr 12 min
+739 songs - 2 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,6 +375,7 @@
 | [Love You Got](https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Love You Got](https://open.spotify.com/album/4JBhIRt38otXkigmi7w8YG) | 4:33 | 2024-07-12 | 2024-11-10 |
 | [Luminous](https://open.spotify.com/track/39zV5zT04fDhtCECIoLWZf) | [Fabrication](https://open.spotify.com/artist/73MDrv3SUYLE1yNOBQMlsy) | [SPLIT 02](https://open.spotify.com/album/6zauR5OL3j8drzdk8dyLla) | 6:08 | 2020-09-11 | 2020-12-05 |
 | [Lutanium](https://open.spotify.com/track/1Is0qsDYVt1C7eFJXfV87j) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5), [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM), [Peter Groskreutz](https://open.spotify.com/artist/4jQG9Atvh30T0vUM0A7nm3) | [Drifting Rocks](https://open.spotify.com/album/5SmuYVVsroSUApTayB6UmS) | 6:12 | 2020-08-30 | 2020-11-14 |
+| [Magic](https://open.spotify.com/track/3q8D7O6GOuiNMBX8SJSt8K) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Astrø](https://open.spotify.com/artist/31anju77mwSChYTKZYLxbZ), [Afnan Prince](https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Finding Home](https://open.spotify.com/album/3CRJaVRt0ni52xagPsekyk) | 5:00 | 2025-10-03 |  |
 | [Magna Terram](https://open.spotify.com/track/3lrqo0H2qAyGuaGMlckgBY) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [Memorial](https://open.spotify.com/album/6frDY8rWqFXwdmCjhiuho4) | 8:25 | 2019-09-06 | 2020-05-22 |
 | [Make Believe](https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Make Believe](https://open.spotify.com/album/5RxsBzZ4GDZ3khKSeKERdv) | 5:05 | 2025-08-15 |  |
 | [Maldad Pura \(feat\. Jasiel Nuñez\)](https://open.spotify.com/track/2DlC8rbljmNHJMteSMWJWa) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Maldad Pura \(feat\. Jasiel Nuñez\)](https://open.spotify.com/album/2NBk2VsMfEeBlN8KObjo7h) | 2:38 | 2024-12-06 | 2025-03-10 |
@@ -478,7 +479,7 @@
 | [Paradise \(Feat\. Jem Cooke\)](https://open.spotify.com/track/6IB7ACtFpfxFbUR06pA7Xc) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Life Through A Different Lens](https://open.spotify.com/album/4qkVLM1dHnydhcWUOg6U4A) | 3:36 | 2025-05-30 | 2025-07-13 |
 | [Participants](https://open.spotify.com/track/2nNO3STc1GprRP3GaAxmJA) | [Gabriel Ananda](https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX) | [Participants](https://open.spotify.com/album/1hscOD8se5XWimHdIxPBos) | 6:20 | 2021-01-18 | 2022-07-22 |
 | [Patience](https://open.spotify.com/track/07TQqNkdjKRu4KpqaOspxw) | [Seth Schwarz](https://open.spotify.com/artist/0zUt9PboFsELRcvO7UWarr), [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Patience](https://open.spotify.com/album/1qXxGff2mX9iA6uatLEbno) | 8:04 | 2020-01-04 | 2022-04-18 |
-| [Perfect World](https://open.spotify.com/track/6Vex03Ez7kQXPAFkNK9f3X) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Perfect World](https://open.spotify.com/album/58vg9RxplJ2qOxI5FKEnOn) | 4:01 | 2025-09-12 |  |
+| [Perfect World](https://open.spotify.com/track/6Vex03Ez7kQXPAFkNK9f3X) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Perfect World](https://open.spotify.com/album/58vg9RxplJ2qOxI5FKEnOn) | 4:01 | 2025-09-12 | 2025-10-08 |
 | [Personal](https://open.spotify.com/track/6jvsWLgTbl5ljgAu3YJDZB) | [Dennis Ihm](https://open.spotify.com/artist/7HeP0FF26f7xkeo3i8ST0O) | [Obsession](https://open.spotify.com/album/3Je3ooYy7vlmwbKceR4ghD) | 5:58 | 2019-12-04 | 2020-02-01 |
 | [Petroleum \- Fabio Vanore Remix](https://open.spotify.com/track/1tdQXdkWEp1OreYbLqciFi) | [Kris Davis](https://open.spotify.com/artist/2AFYG90qx36vqWXgGxhFWY), [Fabio Vanore](https://open.spotify.com/artist/19WfpuODWsvrlHGvZYkigs) | [Petroleum \(Fabio Vanore Remix\)](https://open.spotify.com/album/0RzfoJA1VVeYENvFuXLsUq) | 9:04 | 2023-01-13 | 2023-09-16 |
 | [Phaeton](https://open.spotify.com/track/3YBjtUm8Q6cqd5kaKRGEJN) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Phaeton / Silhouettes](https://open.spotify.com/album/4jiIwobxyTYe4oGjheDxQj) | 6:54 | 2019-08-06\* | 2019-12-06 |

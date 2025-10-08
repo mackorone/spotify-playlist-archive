@@ -1,12 +1,12 @@
 {
   "description": "This is Spiritbox. The essential tracks, all in one playlist.",
-  "num_followers": 45648,
+  "num_followers": 45677,
   "original_name": "This Is Spiritbox",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAADf/srk73g487bdzxf+7yzU",
+  "snapshot_id": "aOMGgAAAAAD13cDzgfz4fPTTAXHtSgeC",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "METAL FORTH",
-        "url": "https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp"
+        "name": "The Void",
+        "url": "https://open.spotify.com/album/7iAsbehqUN1IsCNG4NlAwu"
       },
       "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        },
         {
           "name": "Spiritbox",
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 200698,
-      "name": "My Queen (feat. Spiritbox)",
-      "url": "https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ"
+      "duration_ms": 220765,
+      "name": "The Void",
+      "url": "https://open.spotify.com/track/2exVVVKvdymCwOFdvmA2bq"
     },
     {
       "added_at": null,
@@ -135,18 +131,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Void",
-        "url": "https://open.spotify.com/album/7iAsbehqUN1IsCNG4NlAwu"
+        "name": "METAL FORTH",
+        "url": "https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp"
       },
       "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
         {
           "name": "Spiritbox",
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 220765,
-      "name": "The Void",
-      "url": "https://open.spotify.com/track/2exVVVKvdymCwOFdvmA2bq"
+      "duration_ms": 200698,
+      "name": "My Queen (feat. Spiritbox)",
+      "url": "https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 337212,
-      "name": "The Beauty of Suffering",
-      "url": "https://open.spotify.com/track/0rnei6XtEFfLo5EzciKXXo"
+      "duration_ms": 280556,
+      "name": "The Mara Effect, Pt. 1",
+      "url": "https://open.spotify.com/track/0nSs7VI50BrQv7StFpHiIf"
     },
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 280556,
-      "name": "The Mara Effect, Pt. 1",
-      "url": "https://open.spotify.com/track/0nSs7VI50BrQv7StFpHiIf"
+      "duration_ms": 337212,
+      "name": "The Beauty of Suffering",
+      "url": "https://open.spotify.com/track/0rnei6XtEFfLo5EzciKXXo"
     },
     {
       "added_at": null,

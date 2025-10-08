@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "0612345678",
+        "url": "https://open.spotify.com/album/3CgYS7rGV4pFRojDGRCX0g"
+      },
+      "artists": [
+        {
+          "name": "Ceder",
+          "url": "https://open.spotify.com/artist/4m9BUPqIW7bFZqYVh9rcDd"
+        },
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143385,
+      "name": "0612345678",
+      "url": "https://open.spotify.com/track/244Lc2uhaHG8ax7Y1Yme5Q"
+    },
+    {
+      "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
@@ -546,7 +568,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 95728,
       "name": "Bad Bitches Luisteren Def",
       "url": "https://open.spotify.com/track/2EIyJASJ9P8cVUV3J33mc9"
@@ -758,7 +780,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 134857,
       "name": "Blijf Dan Hier (feat. Danique)",
       "url": "https://open.spotify.com/track/0ZlOCk6sjUpJkMcFNszlmo"
@@ -856,7 +878,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 81446,
       "name": "Brainrot Rap",
       "url": "https://open.spotify.com/track/4RhxWMTPGToprUiU2mvWy4"
@@ -900,6 +922,32 @@
       "duration_ms": 75885,
       "name": "Broly",
       "url": "https://open.spotify.com/track/5X3vL3tRWfegfhOdHrjJR3"
+    },
+    {
+      "album": {
+        "name": "Burgerrups",
+        "url": "https://open.spotify.com/album/4M5TSFcLdfWQ0o7iw0AN51"
+      },
+      "artists": [
+        {
+          "name": "EZG",
+          "url": "https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4"
+        },
+        {
+          "name": "Steen",
+          "url": "https://open.spotify.com/artist/4sf0XtUsKwVtg6YK72Dx2C"
+        },
+        {
+          "name": "Fano",
+          "url": "https://open.spotify.com/artist/31D1T2fm7i2xcX3enPsifN"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183822,
+      "name": "Burgerrups",
+      "url": "https://open.spotify.com/track/6GSxQnlJ5mRjPe11ANlo7a"
     },
     {
       "album": {
@@ -1173,6 +1221,24 @@
     },
     {
       "album": {
+        "name": "Chasing Highs",
+        "url": "https://open.spotify.com/album/2CgAuIuTTzjMeHaUf28Fis"
+      },
+      "artists": [
+        {
+          "name": "Julian",
+          "url": "https://open.spotify.com/artist/7g34C2v5CRE5K4objuYQSc"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183219,
+      "name": "Chasing Highs",
+      "url": "https://open.spotify.com/track/1akvU6dDo0nCaIZPQo7bRY"
+    },
+    {
+      "album": {
         "name": "Cherry Vanilli",
         "url": "https://open.spotify.com/album/6CD3tcmJeHymIMm9stJNhY"
       },
@@ -1424,7 +1490,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 216705,
       "name": "Dark Smile",
       "url": "https://open.spotify.com/track/73zL3n9NzWIXVtvhlUnsXB"
@@ -1654,7 +1720,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 216960,
       "name": "Dodo Funx Sessie",
       "url": "https://open.spotify.com/track/05unJiAVlk2jVRWqpJs3eW"
@@ -1954,7 +2020,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 203945,
       "name": "Everything is romantic featuring caroline polachek",
       "url": "https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C"
@@ -2108,7 +2174,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 152850,
       "name": "Freeze",
       "url": "https://open.spotify.com/track/2sm1BbFffVV3OtVorIvDXj"
@@ -2316,7 +2382,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 170880,
       "name": "GO!",
       "url": "https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc"
@@ -2334,7 +2400,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 167000,
       "name": "Golden",
       "url": "https://open.spotify.com/track/5MsH0uY10wkMaPm6s9HtTP"
@@ -2408,6 +2474,24 @@
       "duration_ms": 224096,
       "name": "Grooven & Stoeven!",
       "url": "https://open.spotify.com/track/31RWkcbkrkq7wGBqLTkuIv"
+    },
+    {
+      "album": {
+        "name": "Had Ik Maar",
+        "url": "https://open.spotify.com/album/01MTXusD2NHp8Od7qQ46nm"
+      },
+      "artists": [
+        {
+          "name": "Merijn Scholten",
+          "url": "https://open.spotify.com/artist/46yeM7RxHuvvk41AbsT6BO"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124543,
+      "name": "Had Ik Maar",
+      "url": "https://open.spotify.com/track/2DDNjoAssaFfxX8XzKTyNn"
     },
     {
       "album": {
@@ -2546,7 +2630,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 134220,
       "name": "High",
       "url": "https://open.spotify.com/track/1E9JnctOaPQP3VA4aFX2PS"
@@ -2564,7 +2648,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-07",
+      "date_removed": null,
       "duration_ms": 134220,
       "name": "High",
       "url": "https://open.spotify.com/track/6zfJzUnevLqbmTtCCJslX2"
@@ -2660,6 +2744,32 @@
       "duration_ms": 218898,
       "name": "Hoe hou ik dit vast",
       "url": "https://open.spotify.com/track/4ELJFskubTyiQQJeWfFUvq"
+    },
+    {
+      "album": {
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi"
+      },
+      "artists": [
+        {
+          "name": "The Favors",
+          "url": "https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI"
+        },
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        },
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208268,
+      "name": "Home Sweet Home",
+      "url": "https://open.spotify.com/track/56CqQv5oOJmu70guWHLTTx"
     },
     {
       "album": {
@@ -2876,7 +2986,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 218006,
       "name": "I Wanna Dance With Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/4uAnA8nZAgl1bASMQTqnJI"
@@ -3137,6 +3247,58 @@
     },
     {
       "album": {
+        "name": "Jabra",
+        "url": "https://open.spotify.com/album/6PFBI7yWLXhAlF2NYRzLTk"
+      },
+      "artists": [
+        {
+          "name": "DoubleZZ",
+          "url": "https://open.spotify.com/artist/37LhL2RGqUnzOhHFKlR9Zc"
+        },
+        {
+          "name": "Doordior",
+          "url": "https://open.spotify.com/artist/6BQZRRT4mgthGsvqrs8a2h"
+        },
+        {
+          "name": "HB The Plug",
+          "url": "https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T"
+        },
+        {
+          "name": "Highguest",
+          "url": "https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190140,
+      "name": "Jabra",
+      "url": "https://open.spotify.com/track/1NcrZNWtlNRPKTPt8aki85"
+    },
+    {
+      "album": {
+        "name": "Juiste Tijd",
+        "url": "https://open.spotify.com/album/4GbfSuA9en9lo3SnzVYtCK"
+      },
+      "artists": [
+        {
+          "name": "Rits",
+          "url": "https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O"
+        },
+        {
+          "name": "Solid Circle",
+          "url": "https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145321,
+      "name": "Juiste Tijd",
+      "url": "https://open.spotify.com/track/4ofupeTg5BvtffEfHik3bw"
+    },
+    {
+      "album": {
         "name": "JUMP",
         "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
       },
@@ -3324,6 +3486,32 @@
       "duration_ms": 172881,
       "name": "Laat me zien",
       "url": "https://open.spotify.com/track/6ckmOfisQCSN7ftG1xt5IL"
+    },
+    {
+      "album": {
+        "name": "Laatste Bericht",
+        "url": "https://open.spotify.com/album/0b4a1WKptVwvqtMgt56WHu"
+      },
+      "artists": [
+        {
+          "name": "Young Ellens",
+          "url": "https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub"
+        },
+        {
+          "name": "kans",
+          "url": "https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr"
+        },
+        {
+          "name": "Dior",
+          "url": "https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183896,
+      "name": "Laatste Bericht",
+      "url": "https://open.spotify.com/track/4q45RErPte0Hxe03YSh4fM"
     },
     {
       "album": {
@@ -3642,7 +3830,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 182125,
       "name": "Maak Dough",
       "url": "https://open.spotify.com/track/1loSVlIuBCzzR5x8I1hyYT"
@@ -3704,7 +3892,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 186240,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
@@ -3740,10 +3928,32 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 249048,
       "name": "Making Love to Morgan Wallen",
       "url": "https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z"
+    },
+    {
+      "album": {
+        "name": "Beste Zangers 2025 (Jacqueline Govaert)",
+        "url": "https://open.spotify.com/album/3JV5C1wGCb3gOyIfRE2D0M"
+      },
+      "artists": [
+        {
+          "name": "Jacqueline Govaert",
+          "url": "https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li"
+        },
+        {
+          "name": "Beste Zangers",
+          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208575,
+      "name": "Mama Huil Niet",
+      "url": "https://open.spotify.com/track/3Nq9OzwDXWVRSBiM5SFSRA"
     },
     {
       "album": {
@@ -3780,7 +3990,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 229397,
       "name": "Mama Kijk Ik Kan Het Zelf",
       "url": "https://open.spotify.com/track/4LrtvXtrchPWZogs7A0MNc"
@@ -4019,6 +4229,28 @@
     },
     {
       "album": {
+        "name": "Beste Zangers 2025 (Bente)",
+        "url": "https://open.spotify.com/album/2oR3Tc7y4IwkG7SgymbRUd"
+      },
+      "artists": [
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        },
+        {
+          "name": "Beste Zangers",
+          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210112,
+      "name": "Niemand Kan Blijven",
+      "url": "https://open.spotify.com/track/0mtgMC6QSzemU5fTImXU6R"
+    },
+    {
+      "album": {
         "name": "Nightmares",
         "url": "https://open.spotify.com/album/5i6VVemE3FcDarjnqrBbcC"
       },
@@ -4078,7 +4310,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -4154,6 +4386,28 @@
       "duration_ms": 443240,
       "name": "No More Tears",
       "url": "https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC"
+    },
+    {
+      "album": {
+        "name": "nobody (make me feel)",
+        "url": "https://open.spotify.com/album/3eeriHqB4mrrlzqFwdpjHQ"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "nobody (make me feel)",
+      "url": "https://open.spotify.com/track/72qknjLxZXE6iE6h27sIHY"
     },
     {
       "album": {
@@ -5109,6 +5363,24 @@
     },
     {
       "album": {
+        "name": "Something In The Heavens",
+        "url": "https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198028,
+      "name": "Something In The Heavens",
+      "url": "https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM"
+    },
+    {
+      "album": {
         "name": "LOVED",
         "url": "https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl"
       },
@@ -5890,7 +6162,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 207033,
       "name": "Unbind",
       "url": "https://open.spotify.com/track/4TvpYr1gFtYxtZ4yn2LVuI"
@@ -6222,7 +6494,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 178577,
       "name": "Voorbestemd",
       "url": "https://open.spotify.com/track/3R5EFrMrXlmmcOZ1GjbNKY"
@@ -6401,6 +6673,24 @@
     },
     {
       "album": {
+        "name": "What You Gonna Do",
+        "url": "https://open.spotify.com/album/1WEYNowZO2wKLUpgDH3VCK"
+      },
+      "artists": [
+        {
+          "name": "Noxiouz",
+          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "What You Gonna Do",
+      "url": "https://open.spotify.com/track/5xKukvXR9D7pCENaovJh7B"
+    },
+    {
+      "album": {
         "name": "What's a Girl to Do in '25",
         "url": "https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr"
       },
@@ -6412,7 +6702,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-07",
+      "date_removed": null,
       "duration_ms": 148047,
       "name": "What's a Girl to Do in '25",
       "url": "https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p"
@@ -6430,10 +6720,64 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 148047,
       "name": "What\u2019s a Girl to Do in \u201825",
       "url": "https://open.spotify.com/track/4XsQ5Iq8VUNAY006J7GQY0"
+    },
+    {
+      "album": {
+        "name": "Where Have You Been (Orchestra)",
+        "url": "https://open.spotify.com/album/6slpuFZJr3nKxrCNUugbs0"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3qEhZ01Vx3Xk4LBYgguKbm"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171008,
+      "name": "Where Have You Been (Orchestra)",
+      "url": "https://open.spotify.com/track/38iBHhjHpRTkIlAW9IeAdZ"
+    },
+    {
+      "album": {
+        "name": "Where Have You Been (Orchestra Remix)",
+        "url": "https://open.spotify.com/album/0Zdfg8LuVIZnzkVxUnHBGz"
+      },
+      "artists": [
+        {
+          "name": "DJ Drinks On Me",
+          "url": "https://open.spotify.com/artist/7LB1ut30XdS4cqNDB6zLIr"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77142,
+      "name": "Where Have You Been - Orchestra Remix",
+      "url": "https://open.spotify.com/track/4e6PHrCEwkv6d88ZxaTlzb"
+    },
+    {
+      "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196795,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
       "album": {
@@ -6510,6 +6854,24 @@
       "duration_ms": 224130,
       "name": "Whiskey morning",
       "url": "https://open.spotify.com/track/26FCEoX9qZEbjbEMfke1Za"
+    },
+    {
+      "album": {
+        "name": "Wish (orchestra version)",
+        "url": "https://open.spotify.com/album/2nnbbGH98X1gyvbCaCmz3a"
+      },
+      "artists": [
+        {
+          "name": "1400 Vault",
+          "url": "https://open.spotify.com/artist/5HGDY5ljhjmfMCWvTDShiQ"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180604,
+      "name": "Wish - orchestra version",
+      "url": "https://open.spotify.com/track/3STIi4I7eGMJJJhGRIfVli"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Larissa Santos",
-  "num_followers": 131077,
+  "num_followers": 131080,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
@@ -95,26 +95,6 @@
     {
       "added_at": "2025-07-19 03:19:18",
       "album": {
-        "name": "Santo dos Santos",
-        "url": "https://open.spotify.com/album/7hYkP03ILQ9LiVRkr98Ojk"
-      },
-      "artists": [
-        {
-          "name": "Esther Marcos",
-          "url": "https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF"
-        },
-        {
-          "name": "ONE Service",
-          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
-        }
-      ],
-      "duration_ms": 278268,
-      "name": "Santo dos Santos",
-      "url": "https://open.spotify.com/track/1uHkF8uTBRLQMir5CxLDSQ"
-    },
-    {
-      "added_at": "2025-07-19 03:19:18",
-      "album": {
         "name": "Tua Presen\u00e7a",
         "url": "https://open.spotify.com/album/2ssdQ9ySFAaAPQSqvW6iBJ"
       },
@@ -131,6 +111,26 @@
       "duration_ms": 269722,
       "name": "Tua Presen\u00e7a",
       "url": "https://open.spotify.com/track/4Pbm0daFz5Y8PRKmgHkFRI"
+    },
+    {
+      "added_at": "2025-07-19 03:19:18",
+      "album": {
+        "name": "Santo dos Santos",
+        "url": "https://open.spotify.com/album/7hYkP03ILQ9LiVRkr98Ojk"
+      },
+      "artists": [
+        {
+          "name": "Esther Marcos",
+          "url": "https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF"
+        },
+        {
+          "name": "ONE Service",
+          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
+        }
+      ],
+      "duration_ms": 278268,
+      "name": "Santo dos Santos",
+      "url": "https://open.spotify.com/track/1uHkF8uTBRLQMir5CxLDSQ"
     },
     {
       "added_at": "2025-07-19 03:19:18",
@@ -527,18 +527,22 @@
     {
       "added_at": "2025-07-19 03:19:18",
       "album": {
-        "name": "Quem \u00e9 Esse?",
-        "url": "https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL"
+        "name": "Destemida",
+        "url": "https://open.spotify.com/album/1NgjBwy3avUOglmOx2pLBJ"
       },
       "artists": [
         {
-          "name": "Naara e Sarah",
-          "url": "https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9"
+          "name": "Adai Music",
+          "url": "https://open.spotify.com/artist/0XjDs3G6KWLGWJT8GXDrZa"
+        },
+        {
+          "name": "Gislaine Rodrigues",
+          "url": "https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM"
         }
       ],
-      "duration_ms": 319577,
-      "name": "Quem \u00e9 Esse?",
-      "url": "https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT"
+      "duration_ms": 298285,
+      "name": "Destemida",
+      "url": "https://open.spotify.com/track/7jLrfFTraIFefCf4NUGDg9"
     },
     {
       "added_at": "2025-07-19 03:19:18",
@@ -559,22 +563,18 @@
     {
       "added_at": "2025-07-19 03:19:18",
       "album": {
-        "name": "Destemida",
-        "url": "https://open.spotify.com/album/1NgjBwy3avUOglmOx2pLBJ"
+        "name": "Quem \u00e9 Esse?",
+        "url": "https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL"
       },
       "artists": [
         {
-          "name": "Adai Music",
-          "url": "https://open.spotify.com/artist/0XjDs3G6KWLGWJT8GXDrZa"
-        },
-        {
-          "name": "Gislaine Rodrigues",
-          "url": "https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM"
+          "name": "Naara e Sarah",
+          "url": "https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9"
         }
       ],
-      "duration_ms": 298285,
-      "name": "Destemida",
-      "url": "https://open.spotify.com/track/7jLrfFTraIFefCf4NUGDg9"
+      "duration_ms": 319577,
+      "name": "Quem \u00e9 Esse?",
+      "url": "https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT"
     },
     {
       "added_at": "2025-07-19 03:19:18",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-07-19 03:19:18",
       "album": {
-        "name": "Em Nome de Jesus",
-        "url": "https://open.spotify.com/album/4ObShvodTt4OCF1wlp22pe"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/1JuV0g5Q2wjlF6gXmk3pGh"
-        }
-      ],
-      "duration_ms": 307600,
-      "name": "Em Nome de Jesus",
-      "url": "https://open.spotify.com/track/6bruHygWw6BLa8hJpkvqLy"
-    },
-    {
-      "added_at": "2025-07-19 03:19:18",
-      "album": {
         "name": "Passos",
         "url": "https://open.spotify.com/album/6C2WBh9NBHy3gazMBinyQc"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 214687,
       "name": "Passos",
       "url": "https://open.spotify.com/track/0W5TW739qb2vnwdDxOPPTw"
+    },
+    {
+      "added_at": "2025-07-19 03:19:18",
+      "album": {
+        "name": "Em Nome de Jesus",
+        "url": "https://open.spotify.com/album/4ObShvodTt4OCF1wlp22pe"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/1JuV0g5Q2wjlF6gXmk3pGh"
+        }
+      ],
+      "duration_ms": 307600,
+      "name": "Em Nome de Jesus",
+      "url": "https://open.spotify.com/track/6bruHygWw6BLa8hJpkvqLy"
     },
     {
       "added_at": "2025-07-19 03:19:18",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-07-19 03:19:18",
       "album": {
-        "name": "Tu \u00c9s Real",
-        "url": "https://open.spotify.com/album/4NoPJEE6kCMWwFutabtrzj"
-      },
-      "artists": [
-        {
-          "name": "Tamires Sabotage",
-          "url": "https://open.spotify.com/artist/0eYjKbGoRo60kmsjZlgAAy"
-        }
-      ],
-      "duration_ms": 302769,
-      "name": "Tu \u00c9s Real",
-      "url": "https://open.spotify.com/track/7nzBmdLOPtGOmwsWTyNBwq"
-    },
-    {
-      "added_at": "2025-07-19 03:19:18",
-      "album": {
         "name": "Vida Boa",
         "url": "https://open.spotify.com/album/5jNET3UCFFAuwFmDoi4U3F"
       },
@@ -859,18 +843,18 @@
     {
       "added_at": "2025-07-19 03:19:18",
       "album": {
-        "name": "Vest\u00edgios",
-        "url": "https://open.spotify.com/album/1RveXXBB7UI55bCSeibbrh"
+        "name": "Tu \u00c9s Real",
+        "url": "https://open.spotify.com/album/4NoPJEE6kCMWwFutabtrzj"
       },
       "artists": [
         {
-          "name": "Jayana Moreira",
-          "url": "https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH"
+          "name": "Tamires Sabotage",
+          "url": "https://open.spotify.com/artist/0eYjKbGoRo60kmsjZlgAAy"
         }
       ],
-      "duration_ms": 291253,
-      "name": "Vest\u00edgios",
-      "url": "https://open.spotify.com/track/79Z04QnTNET7qnhoEISAue"
+      "duration_ms": 302769,
+      "name": "Tu \u00c9s Real",
+      "url": "https://open.spotify.com/track/7nzBmdLOPtGOmwsWTyNBwq"
     },
     {
       "added_at": "2025-07-19 03:19:18",
@@ -887,6 +871,22 @@
       "duration_ms": 330000,
       "name": "Sua Vida Em Mim",
       "url": "https://open.spotify.com/track/7bqj4zl27TCCaK1OfHy6KS"
+    },
+    {
+      "added_at": "2025-07-19 03:19:18",
+      "album": {
+        "name": "Vest\u00edgios",
+        "url": "https://open.spotify.com/album/1RveXXBB7UI55bCSeibbrh"
+      },
+      "artists": [
+        {
+          "name": "Jayana Moreira",
+          "url": "https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH"
+        }
+      ],
+      "duration_ms": 291253,
+      "name": "Vest\u00edgios",
+      "url": "https://open.spotify.com/track/79Z04QnTNET7qnhoEISAue"
     },
     {
       "added_at": "2025-07-19 03:19:18",

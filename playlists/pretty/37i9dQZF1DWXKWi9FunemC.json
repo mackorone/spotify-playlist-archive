@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 387966,
+  "num_followers": 388037,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/7LMpbQ5ueSxchC5gDXavhJ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Leventhal",
+          "url": "https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5"
+        }
+      ],
+      "duration_ms": 277028,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/4hgsprxbmyXRHnF8c7RmBb"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
         "name": "This is How I Thank The Lord (Acoustic)",
         "url": "https://open.spotify.com/album/477g5LoFRhCg7EpfbQIlxZ"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 238153,
       "name": "Brother",
       "url": "https://open.spotify.com/track/0MXrQzGM4sD9de2FTRIi8x"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/7LMpbQ5ueSxchC5gDXavhJ"
-      },
-      "artists": [
-        {
-          "name": "Joshua Leventhal",
-          "url": "https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5"
-        }
-      ],
-      "duration_ms": 277028,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/4hgsprxbmyXRHnF8c7RmBb"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "Saving Me Still",
-        "url": "https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca"
-      },
-      "artists": [
-        {
-          "name": "Justin Jarvis",
-          "url": "https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj"
-        }
-      ],
-      "duration_ms": 380800,
-      "name": "Saving Me Still",
-      "url": "https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
         "name": "Anthem Worship Nights",
         "url": "https://open.spotify.com/album/0dpbfxcFAA5D9UcRr71Qal"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 243000,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/6kSvZsBpTP83Vhu7n2X1nh"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "Saving Me Still",
+        "url": "https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca"
+      },
+      "artists": [
+        {
+          "name": "Justin Jarvis",
+          "url": "https://open.spotify.com/artist/3ETXmapfkZXZWXBHvUl9xj"
+        }
+      ],
+      "duration_ms": 380800,
+      "name": "Saving Me Still",
+      "url": "https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "Just As I Am (Nothing to Prove)",
-        "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
-      },
-      "artists": [
-        {
-          "name": "Taylor Tripodi",
-          "url": "https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s"
-        }
-      ],
-      "duration_ms": 316946,
-      "name": "Just As I Am (Nothing to Prove)",
-      "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
         "name": "Simple Song",
         "url": "https://open.spotify.com/album/4XIbGDudysSue0NbViGIPS"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "Different Story",
-        "url": "https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6"
+        "name": "Just As I Am (Nothing to Prove)",
+        "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
       },
       "artists": [
         {
-          "name": "Jon Thurlow",
-          "url": "https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B"
+          "name": "Taylor Tripodi",
+          "url": "https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s"
         }
       ],
-      "duration_ms": 244746,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC"
+      "duration_ms": 316946,
+      "name": "Just As I Am (Nothing to Prove)",
+      "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "Teach Me",
-        "url": "https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl"
+        "name": "Different Story",
+        "url": "https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6"
       },
       "artists": [
         {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+          "name": "Jon Thurlow",
+          "url": "https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B"
         }
       ],
-      "duration_ms": 213453,
-      "name": "Teach Me",
-      "url": "https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2"
+      "duration_ms": 244746,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1339,6 +1323,22 @@
       "duration_ms": 249084,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/2Qqqr0py5ew8RmKlCdI9F6"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "Teach Me",
+        "url": "https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 213453,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/7nmCd8zsks9PbYrl48dXs6"
-      },
-      "artists": [
-        {
-          "name": "Austin Koukal",
-          "url": "https://open.spotify.com/artist/47e5G9UHhlQ2O39lG7aBJy"
-        }
-      ],
-      "duration_ms": 237142,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/61aZVb4UdfaWEi9muQHomP"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
         "name": "The Antidote",
         "url": "https://open.spotify.com/album/1t8xLME4vn0Ev7PtLJ4bL3"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 231773,
       "name": "Open My Eyes",
       "url": "https://open.spotify.com/track/6OtT5Foz3yt1uipoxLYuHo"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/7nmCd8zsks9PbYrl48dXs6"
+      },
+      "artists": [
+        {
+          "name": "Austin Koukal",
+          "url": "https://open.spotify.com/artist/47e5G9UHhlQ2O39lG7aBJy"
+        }
+      ],
+      "duration_ms": 237142,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/61aZVb4UdfaWEi9muQHomP"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "You Never Let Go",
-        "url": "https://open.spotify.com/album/0ZmYtfNRzQutcgy0gYeTGE"
-      },
-      "artists": [
-        {
-          "name": "John Van Deusen",
-          "url": "https://open.spotify.com/artist/6DLId1szBt6BlrTp5NELXK"
-        }
-      ],
-      "duration_ms": 192204,
-      "name": "You Never Let Go",
-      "url": "https://open.spotify.com/track/21h586y5qWLuZH3OlmZfNO"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
         "name": "The Longing",
         "url": "https://open.spotify.com/album/6IpXfQ3ZV5OPxtfIUqvgMj"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 289048,
       "name": "I Never Knew",
       "url": "https://open.spotify.com/track/3nEEv82nVunaz0kGgyFWV8"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "You Never Let Go",
+        "url": "https://open.spotify.com/album/0ZmYtfNRzQutcgy0gYeTGE"
+      },
+      "artists": [
+        {
+          "name": "John Van Deusen",
+          "url": "https://open.spotify.com/artist/6DLId1szBt6BlrTp5NELXK"
+        }
+      ],
+      "duration_ms": 192204,
+      "name": "You Never Let Go",
+      "url": "https://open.spotify.com/track/21h586y5qWLuZH3OlmZfNO"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "God of the Breakthrough (Live)",
-        "url": "https://open.spotify.com/album/7CRcUGs2g6haLWjZN5Vcza"
-      },
-      "artists": [
-        {
-          "name": "Milestone Worship",
-          "url": "https://open.spotify.com/artist/5NHwVYlsN0C3iBrfzfj3lo"
-        }
-      ],
-      "duration_ms": 353478,
-      "name": "God of the Breakthrough (Live)",
-      "url": "https://open.spotify.com/track/3IgJjNxYRp86Jqkl3BXmys"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
         "name": "Stained Glass",
         "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 317509,
       "name": "Stained Glass",
       "url": "https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "God of the Breakthrough (Live)",
+        "url": "https://open.spotify.com/album/7CRcUGs2g6haLWjZN5Vcza"
+      },
+      "artists": [
+        {
+          "name": "Milestone Worship",
+          "url": "https://open.spotify.com/artist/5NHwVYlsN0C3iBrfzfj3lo"
+        }
+      ],
+      "duration_ms": 353478,
+      "name": "God of the Breakthrough (Live)",
+      "url": "https://open.spotify.com/track/3IgJjNxYRp86Jqkl3BXmys"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "I See It Now",
-        "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
-      },
-      "artists": [
-        {
-          "name": "Rock City Worship",
-          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
-        }
-      ],
-      "duration_ms": 189292,
-      "name": "I See It Now",
-      "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
         "name": "Teach Us That One Song",
         "url": "https://open.spotify.com/album/6LcfPho01IaVl7LO6k39fb"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 354223,
       "name": "Teach Us That One Song",
       "url": "https://open.spotify.com/track/5CEAfa46IDXBTnggrK2oAN"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "I See It Now",
+        "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
+      },
+      "artists": [
+        {
+          "name": "Rock City Worship",
+          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
+        }
+      ],
+      "duration_ms": 189292,
+      "name": "I See It Now",
+      "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/24yRBhQPXjdpBY3ehksRvA"
-      },
-      "artists": [
-        {
-          "name": "Momentum Music",
-          "url": "https://open.spotify.com/artist/2kpba1AKOu5D6aj3Wp4aKt"
-        }
-      ],
-      "duration_ms": 387536,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/4X6BavAGe2L598JpttiAMV"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
         "name": "Wonderful, Wonderful Lord (Ps 139)",
         "url": "https://open.spotify.com/album/7HlFT26e1ltW5gxfGBGwgp"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 274657,
       "name": "Wonderful, Wonderful Lord (Ps 139)",
       "url": "https://open.spotify.com/track/49Hi599ZbDEN4T4KkEqM4E"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/24yRBhQPXjdpBY3ehksRvA"
+      },
+      "artists": [
+        {
+          "name": "Momentum Music",
+          "url": "https://open.spotify.com/artist/2kpba1AKOu5D6aj3Wp4aKt"
+        }
+      ],
+      "duration_ms": 387536,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/4X6BavAGe2L598JpttiAMV"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "Holy Here and Now",
-        "url": "https://open.spotify.com/album/2SMEwcH1DRXJPyAqzGP91i"
-      },
-      "artists": [
-        {
-          "name": "Sophia Rebekah Mitchell",
-          "url": "https://open.spotify.com/artist/2XimxgriE1gR4uUpEEdV4f"
-        }
-      ],
-      "duration_ms": 247336,
-      "name": "Holy Here and Now",
-      "url": "https://open.spotify.com/track/3K13jFO8mWf23paD3GlQ8U"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
         "name": "Tomorrow Mind",
         "url": "https://open.spotify.com/album/2kY3zCakEuOOS48ac4boMJ"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 219402,
       "name": "Tomorrow Mind",
       "url": "https://open.spotify.com/track/4uRn1bBTKoYX3VukJW7F0U"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "Holy Here and Now",
+        "url": "https://open.spotify.com/album/2SMEwcH1DRXJPyAqzGP91i"
+      },
+      "artists": [
+        {
+          "name": "Sophia Rebekah Mitchell",
+          "url": "https://open.spotify.com/artist/2XimxgriE1gR4uUpEEdV4f"
+        }
+      ],
+      "duration_ms": 247336,
+      "name": "Holy Here and Now",
+      "url": "https://open.spotify.com/track/3K13jFO8mWf23paD3GlQ8U"
     },
     {
       "added_at": "2025-08-06 07:25:48",

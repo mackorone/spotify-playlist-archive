@@ -285,6 +285,28 @@
     },
     {
       "album": {
+        "name": "Alamak",
+        "url": "https://open.spotify.com/album/5oUWkx2j4lVO8u7kM3XnJT"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        },
+        {
+          "name": "Adrian Khalif",
+          "url": "https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209040,
+      "name": "Alamak",
+      "url": "https://open.spotify.com/track/1vkwlZncsYqFukl2Q7M6Fe"
+    },
+    {
+      "album": {
         "name": "Anugerah Terindah",
         "url": "https://open.spotify.com/album/35IqtcK73WJLJsU6L6GTOu"
       },

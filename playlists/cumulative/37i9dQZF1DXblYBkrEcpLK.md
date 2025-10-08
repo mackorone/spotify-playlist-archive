@@ -2,9 +2,9 @@
 
 ### [Women of Anime](https://open.spotify.com/playlist/37i9dQZF1DXblYBkrEcpLK)
 
-> Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Aimer
+> Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Ado
 
-788 songs - 2 day 4 hr 7 min
+789 songs - 2 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Broken Sky](https://open.spotify.com/track/4J6TEcIeIwEv09w7CAbmfY) | [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0) | [Prologue](https://open.spotify.com/album/2SQ8nT5gWerN2GcXd5kokB) | 3:54 | 2022-06-09 | 2022-07-24 |
 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 | 2024-07-03 |  |
 | [Canary Yellow](https://open.spotify.com/track/7KDZ7v5hHAAEHNvwT6Dhhg) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [Canary Yellow](https://open.spotify.com/album/3Ee1rvSUA8iX5QhqiclAix) | 3:38 | 2022-06-24 | 2022-07-28 |
+| [CAT'S EYE](https://open.spotify.com/track/5lzjvTvybxPQLlGO3SVm5l) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [CAT'S EYE](https://open.spotify.com/album/3SEAcawf6EhTRl42ulumyd) | 3:00 | 2025-10-07 |  |
 | [Chain](https://open.spotify.com/track/0CwTBiqEhkwkBSW6lPOzij) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Chain](https://open.spotify.com/album/1JhsPt7D3qFum6vTWL5LWB) | 4:05 | 2024-02-13 | 2024-04-17 |
 | [Chasing destiny](https://open.spotify.com/track/2jePpIWARbuy860PvrJxui) | [涼宮ハルヒ\(CV.平野綾\)](https://open.spotify.com/artist/7fRpvlBaMGN1iShO2s46P8) | [Chasing destiny](https://open.spotify.com/album/4yvxPHi1sWYrgUzWnm6aEJ) | 4:10 | 2025-08-05 | 2025-08-22 |
 | [CHE.R.RY](https://open.spotify.com/track/3a0OFi0j1DNKwwmbj1a9Jd) | [アーリャ（CV：上坂すみれ）](https://open.spotify.com/artist/6T2BNiyW0J5qbP0t2MS2Bk) | [CHE.R.RY（TVアニメ「時々ボソッとロシア語でデレる隣のアーリャさん」エンディングテーマ）](https://open.spotify.com/album/7q7rAh1DQg7LlLUGs1w9Uq) | 3:29 | 2024-08-29 | 2024-09-13 |
@@ -576,7 +577,7 @@
 | [ブラックボックス](https://open.spotify.com/track/12ZNHYLBtfcrNWUepsoOzR) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ブラックボックス](https://open.spotify.com/album/1TulMUgDxLY8Yy5gaauvMD) | 4:06 | 2024-07-09 | 2025-03-12 |
 | [ブルースター](https://open.spotify.com/track/63Inh89k5OmQRLaQlMdDgw) | [Sayaka Yamamoto](https://open.spotify.com/artist/0MkmM5Vy3gj9QX1JHiYCiK) | [ブルースター](https://open.spotify.com/album/7dm61RWHQFUhP1Lyqv8Bul) | 3:54 | 2024-03-26 | 2024-04-17 |
 | [ブルーバード \- from CrosSing](https://open.spotify.com/track/3RyEG3799H7k2e5METVPAK) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [ブルーバード \- from CrosSing](https://open.spotify.com/album/4ZgQScgNNY1OR9trtEx8yl) | 3:38 | 2022-06-09 | 2022-07-29 |
-| [ブルーモーション](https://open.spotify.com/track/7sxfPGktYFgla21DiCvMBZ) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ブルーモーション](https://open.spotify.com/album/5KLKpuOrCE8Gfc5Blx1anM) | 3:31 | 2025-08-21 |  |
+| [ブルーモーション](https://open.spotify.com/track/7sxfPGktYFgla21DiCvMBZ) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ブルーモーション](https://open.spotify.com/album/5KLKpuOrCE8Gfc5Blx1anM) | 3:31 | 2025-08-21 | 2025-10-08 |
 | [プラチナ](https://open.spotify.com/track/55VpwoQcMWJxXuqqtH6hUY) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション プラス 「ハチポチ」](https://open.spotify.com/album/2C6AFE7MxD1Cjf0ckFcfJy) | 4:10 | 2022-06-24 | 2022-06-29 |
 | [プラチナ \- from CrosSing](https://open.spotify.com/track/0AmatthIisAg466qau2Oab) | [竹達彩奈](https://open.spotify.com/artist/4R1zxy2LxEjEgKpMre81HN) | [プラチナ \- from CrosSing](https://open.spotify.com/album/655NcCoweylwkXHPkYvD2V) | 4:09 | 2022-08-23 | 2022-08-25 |
 | [ムリムリ進化論](https://open.spotify.com/track/50palGbYA85jbX8y79aqRK) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [ムリムリ進化論](https://open.spotify.com/album/2Vfs0CtkNRPZx79hu7N3cf) | 3:14 | 2025-07-22 |  |

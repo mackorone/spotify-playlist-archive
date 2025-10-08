@@ -1,6 +1,6 @@
 {
   "description": "90's & 00's party jams with Aaliyah, Justin Timberlake, Destiny's Child and Usher.",
-  "num_followers": 205605,
+  "num_followers": 205870,
   "original_name": "R&B Classics Party",
   "owner": {
     "name": "Spotify",
@@ -147,18 +147,22 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW"
+        "name": "The Documentary",
+        "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
         }
       ],
-      "duration_ms": 278573,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML"
+      "duration_ms": 206400,
+      "name": "Hate It Or Love It",
+      "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -179,22 +183,18 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "The Documentary",
-        "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW"
       },
       "artists": [
         {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 206400,
-      "name": "Hate It Or Love It",
-      "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
+      "duration_ms": 278573,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -275,26 +275,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Chris Brown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Juelz Santana",
-          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
-        }
-      ],
-      "duration_ms": 229866,
-      "name": "Run It! (feat. Juelz Santana)",
-      "url": "https://open.spotify.com/track/7xYnUQigPoIDAMPVK79NEq"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Country Grammar",
         "url": "https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 291781,
       "name": "Ride Wit Me",
       "url": "https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Chris Brown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+        }
+      ],
+      "duration_ms": 229866,
+      "name": "Run It! (feat. Juelz Santana)",
+      "url": "https://open.spotify.com/track/7xYnUQigPoIDAMPVK79NEq"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 320266,
-      "name": "Doo Wop (That Thing)",
-      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Nellyville",
         "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 228240,
       "name": "Hot In Herre",
       "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Doo Wop (That Thing)",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -711,26 +711,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "It Was Written",
-        "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 282373,
-      "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
-      "url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 244826,
       "name": "Baby Boy (feat. Sean Paul)",
       "url": "https://open.spotify.com/track/4WY3HyGXsWqjFRCVD6gnTe"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "It Was Written",
+        "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 282373,
+      "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
+      "url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
-        }
-      ],
-      "duration_ms": 281906,
-      "name": "Who's That Girl?",
-      "url": "https://open.spotify.com/track/3uVE5vLKkigiWBOQEgmdDk"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "True Story",
         "url": "https://open.spotify.com/album/0NTYMm0B7adXejff1phD3F"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 247426,
       "name": "Lean Back",
       "url": "https://open.spotify.com/track/2Ozc0me9PV5vlt8cokwdvI"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        }
+      ],
+      "duration_ms": 281906,
+      "name": "Who's That Girl?",
+      "url": "https://open.spotify.com/track/3uVE5vLKkigiWBOQEgmdDk"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 283626,
-      "name": "Like I Love You",
-      "url": "https://open.spotify.com/track/6W2Ef5Ph6ILTUAedoQ3QIv"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Number Ones",
         "url": "https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 265933,
       "name": "You Rock My World - Radio Edit",
       "url": "https://open.spotify.com/track/4oY2T9ur7Ll5b2kpBlcWcb"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 283626,
+      "name": "Like I Love You",
+      "url": "https://open.spotify.com/track/6W2Ef5Ph6ILTUAedoQ3QIv"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "Get It On...Tonite",
+        "url": "https://open.spotify.com/album/6N3grwnyspQghLGLNyduWH"
+      },
+      "artists": [
+        {
+          "name": "Montell Jordan",
+          "url": "https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT"
+        }
+      ],
+      "duration_ms": 276266,
+      "name": "Get It On Tonite",
+      "url": "https://open.spotify.com/track/3ii5VBrIXJXKEVkjx1IAdP"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "Fantasy EP",
         "url": "https://open.spotify.com/album/4aK77BPpiigFVQaLqs7AI4"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 291360,
       "name": "Fantasy (feat. O.D.B.) - Bad Boy Fantasy",
       "url": "https://open.spotify.com/track/2AlO5CLisJAA9X5JybMtuz"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "Get It On...Tonite",
-        "url": "https://open.spotify.com/album/6N3grwnyspQghLGLNyduWH"
-      },
-      "artists": [
-        {
-          "name": "Montell Jordan",
-          "url": "https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT"
-        }
-      ],
-      "duration_ms": 276266,
-      "name": "Get It On Tonite",
-      "url": "https://open.spotify.com/track/3ii5VBrIXJXKEVkjx1IAdP"
     },
     {
       "added_at": "2024-07-15 07:37:26",

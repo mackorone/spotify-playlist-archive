@@ -1,12 +1,12 @@
 {
   "description": "The essential tracks, all in one playlist.",
-  "num_followers": 6323438,
+  "num_followers": 6324492,
   "original_name": "This Is Taylor Swift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGIp/C3uq4K0kS1gB+l0XB5VD5uw",
+  "snapshot_id": "AAAAANbGSGhW7I2p0rJuPlO3en+FO28X",
   "tracks": [
     {
       "added_at": "2025-10-03 04:00:32",
@@ -23,6 +23,22 @@
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+    },
+    {
+      "added_at": "2025-10-03 04:00:32",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235355,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3euZKF0hmGxQ6h2JHHY4iu"
     },
     {
       "added_at": "2025-10-03 04:00:32",
@@ -77,22 +93,6 @@
       "url": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
     },
     {
-      "added_at": "2025-09-19 04:22:00",
-      "album": {
-        "name": "Red",
-        "url": "https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 217973,
-      "name": "I Knew You Were Trouble.",
-      "url": "https://open.spotify.com/track/72jCZdH0Lhg93z6Z4hBjgj"
-    },
-    {
       "added_at": "2025-10-03 04:00:32",
       "album": {
         "name": "The Life of a Showgirl",
@@ -107,6 +107,22 @@
       "duration_ms": 208291,
       "name": "Elizabeth Taylor",
       "url": "https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL"
+    },
+    {
+      "added_at": "2025-09-19 04:22:00",
+      "album": {
+        "name": "Red",
+        "url": "https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 217973,
+      "name": "I Knew You Were Trouble.",
+      "url": "https://open.spotify.com/track/72jCZdH0Lhg93z6Z4hBjgj"
     },
     {
       "added_at": "2025-09-19 04:22:00",
@@ -256,7 +272,7 @@
       "added_at": "2025-10-03 04:00:32",
       "album": {
         "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
@@ -264,9 +280,9 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 235355,
-      "name": "Opalite",
-      "url": "https://open.spotify.com/track/3euZKF0hmGxQ6h2JHHY4iu"
+      "duration_ms": 163699,
+      "name": "Actually Romantic",
+      "url": "https://open.spotify.com/track/2x3mwb96B6TquRqMtbxUE1"
     },
     {
       "added_at": "2025-09-19 04:22:00",
@@ -515,22 +531,6 @@
       "duration_ms": 191880,
       "name": "We Are Never Ever Getting Back Together",
       "url": "https://open.spotify.com/track/7AEAGTc8cReDqcbPoY9gwo"
-    },
-    {
-      "added_at": "2025-10-03 04:00:32",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 163699,
-      "name": "Actually Romantic",
-      "url": "https://open.spotify.com/track/2x3mwb96B6TquRqMtbxUE1"
     },
     {
       "added_at": "2025-09-19 04:22:00",

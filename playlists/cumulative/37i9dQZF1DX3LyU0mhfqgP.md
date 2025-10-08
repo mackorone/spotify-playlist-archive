@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\. Cover: Barbi Recanati
+> Songs from LGBTQIA+ artists\. Cover: Urias
 
 1,599 songs - 3 day 14 hr 27 min
 

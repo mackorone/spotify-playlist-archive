@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,513 likes - 53 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,551 likes - 53 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 | 42 | [All Chaos Is Digital](https://open.spotify.com/track/595MWhQlJOFbUbyJfKy7s2) | [Afem Syko](https://open.spotify.com/artist/0AI1UbChn1oJGs5JHFkebU) | [All Chaos Is Digital](https://open.spotify.com/album/3Nn5hBlzthjcFJsrn49UR6) | 4:06 |
 | 43 | [New World](https://open.spotify.com/track/60iUgKWbDNvk2H28hbqpri) | [Mr.Machine](https://open.spotify.com/artist/35KXyRbCBiVpqQzhrzk1Uk) | [New World](https://open.spotify.com/album/38wijjoltjOQ3SW5jx6Afl) | 5:03 |
 | 44 | [One Mind](https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [One Mind EP](https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm) | 5:45 |
-| 45 | [Don't Look Back](https://open.spotify.com/track/1EuiPrmPfSizhckMXlZYMH) | [Balthazar](https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ), [JackRock](https://open.spotify.com/artist/12I3G1CHajkcoO8QiZTFC2) | [Soulcatcher EP](https://open.spotify.com/album/29No6cxhvGRgTvxqZ5KaNF) | 5:34 |
+| 45 | [Don't Look Back](https://open.spotify.com/track/1EuiPrmPfSizhckMXlZYMH) | [Balthazar](https://open.spotify.com/artist/0j9BLk7QMr1YkaKMUtDv2y), [JackRock](https://open.spotify.com/artist/12I3G1CHajkcoO8QiZTFC2) | [Soulcatcher EP](https://open.spotify.com/album/29No6cxhvGRgTvxqZ5KaNF) | 5:34 |
 | 46 | [Revival](https://open.spotify.com/track/1ZLhoi9rTkj4pWcjSShktx) | [AIROD](https://open.spotify.com/artist/3oPI0nOC7MHooFy5qDsFrv) | [Amnesia](https://open.spotify.com/album/4UtKKYAgvPERIyryj5xfSz) | 4:04 |
 | 47 | [Love Dance Acid](https://open.spotify.com/track/1kfwJaZ8bi8z6aH8YUHkaw) | [Niotech](https://open.spotify.com/artist/6a3jFv7dkvf9HWPD5wjkof) | [Love Dance Acid](https://open.spotify.com/album/5dFer2MFWKPSPmrcr4OJTM) | 4:29 |
 | 48 | [Umbra](https://open.spotify.com/track/74vGX1G4vMs9LX6yOKuWmM) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl), [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD) | [Umbra Morbida](https://open.spotify.com/album/3UhtRIpHQKV5PhJpXxT0xW) | 4:30 |

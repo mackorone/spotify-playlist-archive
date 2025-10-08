@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-829 songs - 1 day 16 hr 10 min
+830 songs - 1 day 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,7 +358,7 @@
 | [Houd me vast](https://open.spotify.com/track/6c7RxrwbJkLaWZHj7nX1tm) | [Niel Hupkes](https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30) | [Houd me vast](https://open.spotify.com/album/0PzBc1gaKGp5EtdTp0Bvmh) | 3:38 | 2023-03-23 | 2024-02-09 |
 | [Huayna Potosi](https://open.spotify.com/track/2PWHrFAlSGROVbJEE4ZEEV) | [Connie Li](https://open.spotify.com/artist/2pQHm9K7nA97zJGOYhfXau) | [Huayna Potosi](https://open.spotify.com/album/047WHL1HMDdjZOnSp3JOxP) | 3:41 | 2023-03-23 | 2024-05-05 |
 | [Hue](https://open.spotify.com/track/0mndpCHKhI3DOiLl46BQai) | [Soothing Dreamscapes](https://open.spotify.com/artist/2E7ynirvqKf8ZF7ATxFkTG) | [Hue](https://open.spotify.com/album/3HDk7a49Sb28um15lvBhN0) | 3:09 | 2024-02-08 | 2024-08-07 |
-| [Hum](https://open.spotify.com/track/461ApU3e0U5lacUauSwOnE) | [Alma Tranquilo](https://open.spotify.com/artist/7yUPH32eGSMdpgc2hi4pHo) | [Hum](https://open.spotify.com/album/1crhxenmpq08yuYm7z2SSV) | 3:19 | 2025-03-05 |  |
+| [Hum](https://open.spotify.com/track/461ApU3e0U5lacUauSwOnE) | [Alma Tranquilo](https://open.spotify.com/artist/7yUPH32eGSMdpgc2hi4pHo) | [Hum](https://open.spotify.com/album/1crhxenmpq08yuYm7z2SSV) | 3:19 | 2025-03-05 | 2025-10-08 |
 | [Humility](https://open.spotify.com/track/0RnhY9dYbSuhcTRP1ExoJj) | [Frail Horizon](https://open.spotify.com/artist/04KKofTtFKDuXSLzYqAVa2) | [Humility](https://open.spotify.com/album/4OYBo7nxFxJjiNxVWohVdW) | 2:41 | 2025-02-14 |  |
 | [Humming](https://open.spotify.com/track/4d4F77AGLne08uoZIyHTwz) | [Iselinn](https://open.spotify.com/artist/1vbCHcSHjojGGaDsREfYCV) | [Saving Memories](https://open.spotify.com/album/56I9XURKmO3N785tQTlBtL) | 2:56 | 2023-03-23 | 2024-01-18 |
 | [Hush](https://open.spotify.com/track/7JDULs0oIly6dVLDZLUNkd) | [Luna Meguise](https://open.spotify.com/artist/44iKmwaKZGgsGDVVzjKIMV) | [Hush](https://open.spotify.com/album/2Exc7jItLMt5PF3jtqemVE) | 2:28 | 2023-03-23 | 2024-01-18 |
@@ -712,6 +712,7 @@
 | [State of Unreality](https://open.spotify.com/track/3rKCZIXrsC7T6XPJhXKAQJ) | [Lugar](https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29) | [State of Unreality](https://open.spotify.com/album/7xVYocetlbRmYIekq00dVt) | 2:41 | 2023-03-23 | 2024-01-18 |
 | [Stay A While](https://open.spotify.com/track/5MxNNBnvKIZ1D2IkwB753i) | [Elliott Duncan](https://open.spotify.com/artist/2QoOKA3eotuERltYH8cThZ) | [Stay A While](https://open.spotify.com/album/0LtvCsNWrKLG8n7i3AhXqT) | 2:57 | 2023-03-23 | 2024-05-05 |
 | [Steady State](https://open.spotify.com/track/5FlA0RkPmd84okaFAk6MEN) | [Matheo Lyon](https://open.spotify.com/artist/5yBqlv8zkkzTmWN0TtjMf4) | [Steady State](https://open.spotify.com/album/2HPKrqGymgPLfjEGKFdycC) | 2:51 | 2024-08-30 |  |
+| [Stellar Nursery](https://open.spotify.com/track/7duzoE2HjcLyi2vF2IN4ir) | [Eirwyn North](https://open.spotify.com/artist/29zgjcMG5XRMfqrwBenRta) | [Stellar Nursery](https://open.spotify.com/album/3Yx1n5wZxuVihXlaX08s3F) | 2:49 | 2025-09-23 |  |
 | [Stellar Oceans](https://open.spotify.com/track/3Vdk33TvEmT3QwCMDG33nQ) | [Indigo Rae](https://open.spotify.com/artist/3SQ3DMIEjVndS48GUhrYV3) | [Stellar Oceans](https://open.spotify.com/album/4lAhYOHQmxozYIE1Jbgtdb) | 2:14 | 2025-01-08 | 2025-07-04 |
 | [Stelle](https://open.spotify.com/track/2akxDSUjKxkwuRfuc6HFNH) | [Tiziano Magro](https://open.spotify.com/artist/5i3UTUN8b39fBrRIHfQ9H4) | [Stelle](https://open.spotify.com/album/3gATwUG713NmNIrhkYek6P) | 3:22 | 2023-03-23 | 2024-02-09 |
 | [Sterrenhemel](https://open.spotify.com/track/1DOG1X3H2A6g6WN5ZQTLaR) | [Pauline Huijbers](https://open.spotify.com/artist/0GipzWTQjjaxqU7mtmNq2o) | [Sterrenhemel](https://open.spotify.com/album/7EfM8IWUS29TfNUC8m2uN8) | 3:16 | 2023-03-23 | 2024-01-18 |

@@ -4,7 +4,7 @@
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-199 songs - 17 hr 23 min
+200 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Questions And Answers \(Live\)](https://open.spotify.com/track/0ctUgZZTs3BolOoFZSwm3Q) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tales Of Time \(Live\)](https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3) | 5:28 | 2023-04-23 | 2023-09-22 |
 | [Reconsider Baby](https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Had to Cry Today](https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV) | 6:51 | 2022-08-05 |  |
 | [Red Sun](https://open.spotify.com/track/5jgcfQr74zZSbY7zPP1YnI) | [Black Country Communion](https://open.spotify.com/artist/7by60V2ChbeiVhwXK5Jk6l), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Jason Bonham](https://open.spotify.com/artist/5T6YKEZhM6rVwCEm5PLKL8), [Glenn Hughes](https://open.spotify.com/artist/50FDiYHYqGJkaCuK4JhAYw), [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq) | [Red Sun](https://open.spotify.com/album/1bz0eLu507dD896Zj7zJIR) | 6:32 | 2024-04-08 | 2024-06-30 |
-| [Redemption](https://open.spotify.com/track/0Q8IxQDgQ1Yyz7rBP8dUHg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 5:57 | 2022-08-09 |  |
+| [Redemption](https://open.spotify.com/track/0Q8IxQDgQ1Yyz7rBP8dUHg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 5:57 | 2022-08-09 | 2025-10-08 |
 | [Savannah](https://open.spotify.com/track/2gt07hYrmx6hnmxg1zwaT4) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Royal Tea](https://open.spotify.com/album/1i8hO7RSXJ4FOumcLoDyN2) | 4:36 | 2022-08-05 | 2022-11-02 |
 | [Scarlet Town](https://open.spotify.com/track/1Kurxzp14RybdRiR31Ut3i) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Scarlet Town](https://open.spotify.com/album/3bDQzaW38BMWykUCiVrdFM) | 7:57 | 2024-09-15 | 2025-05-25 |
 | [Self\-Inflicted Wounds](https://open.spotify.com/track/0r61QhigETeOXpl03u1nSV) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 6:35 | 2022-08-05 | 2023-10-11 |
@@ -179,6 +179,7 @@
 | [The Loyal Kind \(Live\)](https://open.spotify.com/track/7GbLzRIAPkJSjyR5iPKLpg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tales Of Time \(Live\)](https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3) | 6:34 | 2023-04-22 | 2024-02-23 |
 | [The Truth Hurts](https://open.spotify.com/track/5sJ5SvKZzvaSXrVovdHbUu) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq), [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 4:35 | 2023-10-10 | 2023-11-11 |
 | [The Valley Runs Low](https://open.spotify.com/track/5NvVaWVoHEUKe2Sau3iLdT) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 4:03 | 2022-08-05 |  |
+| [There Must Be A Better World Somewhere](https://open.spotify.com/track/3rHOdIfZqgcBjnH0kAYB8l) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [There Must Be A Better World Somewhere](https://open.spotify.com/album/0NHDe7WztBemTgdw5mdSq8) | 5:44 | 2025-10-08 |  |
 | [This Train](https://open.spotify.com/track/5FdLiZXUYq2rs4GJLFuJpd) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 4:20 | 2023-07-21 | 2024-03-16 |
 | [This Train \- Live](https://open.spotify.com/track/3TfM4iSLcv9f7mhp0GM1Yp) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [This Train \(Live\)](https://open.spotify.com/album/4mjY6VfFAXgbvw95PaSu8b) | 8:24 | 2022-08-05 | 2022-11-02 |
 | [Time Clocks](https://open.spotify.com/track/7Mft5wZsFV4LrxLhlKzaJ7) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Time Clocks](https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD) | 7:07 | 2022-09-29 | 2022-10-01 |

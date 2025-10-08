@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-380 songs - 21 hr 56 min
+381 songs - 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Umi no shizuku](https://open.spotify.com/track/0jjz9medFeIXgz1lVOccgZ) | [exist†trace](https://open.spotify.com/artist/2qrNC9noTTHFbNw5SQTh52) | [Ambivalent Symphony](https://open.spotify.com/album/1lPIKPAcpTidL1Xvo78rMI) | 4:51 | 2025-09-16 |  |
 | [Umitagari](https://open.spotify.com/track/413FikBJHxjwz8EWNi2hVK) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 3:45 | 2025-09-16 |  |
 | [undress me](https://open.spotify.com/track/1bwnXBfIQFIBgBtsBADycD) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [Flos Ex Machina](https://open.spotify.com/album/5M0osp4LCf6UcRYnUqwBt8) | 3:14 | 2023-10-16 |  |
+| [Vampire Requiem](https://open.spotify.com/track/57xhHuhjhiqqDptYzR0OZO) | [Kaya](https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg) | [GOTHIC\(A\-type\)](https://open.spotify.com/album/1pruXAHSYCW3bSCEC6DSHT) | 4:31 | 2025-10-07 |  |
 | [Verbatim](https://open.spotify.com/track/266Vb7ItE3o1q8HdJ9QOvn) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Touch Up](https://open.spotify.com/album/40DMb38Z4n5ylfz4n29qt0) | 2:48 | 2022-01-08 |  |
 | [Virtual Castle](https://open.spotify.com/track/50ws6mrrA0g35QGXnUFqHq) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu) | [CASTLE](https://open.spotify.com/album/5nrbYNmaCFjlO2NcBfQc9o) | 3:36 | 2024-01-22 |  |
 | [VORACITY](https://open.spotify.com/track/61jz3LFcAXLKU0i2JFXaSe) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [TVアニメ「オーバーロードⅢ」オープニングテーマ「VORACITY」](https://open.spotify.com/album/45VfXu64lsMhLEgzwOcNkZ) | 3:52 | 2023-03-28 |  |

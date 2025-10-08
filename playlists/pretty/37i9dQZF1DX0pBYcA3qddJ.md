@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,505 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,506 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 31 | [ピアノ・ソナタ ロ短調 S.178 Lento assai \- Allegro energico](https://open.spotify.com/track/1SzoVGg51SC9ecy3wIMhOu) | [フランツ・リスト](https://open.spotify.com/artist/5TpmEhdgm9h6EhkVqEmSlA), [古海行子](https://open.spotify.com/artist/3BCjmEq3Xyrf7EUk0ER0IY) | [リスト: ピアノ・ソナタ](https://open.spotify.com/album/4r4ElrIYKSbUrSJOVfQACQ) | 12:01 |
 | 32 | [キューバ](https://open.spotify.com/track/6I1kiP1gSmJsHvrw2PPVV7) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:27 |
 | 33 | [ギター独奏のための6つのシューベルト歌曲（メルツ編）より: セレナーデ](https://open.spotify.com/track/2V8SRNNYEBl97imI7DXvBX) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Ami Inoi](https://open.spotify.com/artist/0rcWfKZ3DLC4N9Zkh9Uscd) | [ムーンライト](https://open.spotify.com/album/4hOR560L2Klp5NHBmCulsS) | 4:09 |
-| 34 | [ゆめうつつ](https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 5:15 |
+| 34 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 |
 | 35 | [街角](https://open.spotify.com/track/3UieuOA7sJiEg0cWwAkJCc) | [yobai suspects](https://open.spotify.com/artist/0VSioSaGvQCLyyIISVhCrv) | [街角](https://open.spotify.com/album/3a4RdrXoLxH0dFoWZHNtKk) | 4:41 |
-| 36 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 |
+| 36 | [ゆめうつつ](https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 5:15 |
 | 37 | [Boys Lost in Acid](https://open.spotify.com/track/6qoxfJ0Ej0hGJ6sO1yERlJ) | [Takuma Matsunaga](https://open.spotify.com/artist/6ZR7CDwmcCZQRtQneW0wr4) | [Epoch](https://open.spotify.com/album/3ddFIrlMrDhhv0G8sw8ibH) | 5:25 |
 | 38 | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU) | 2:10 |
 | 39 | [Moon River](https://open.spotify.com/track/1RpDvXdCChjwRFF7hXINcQ) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Moon River](https://open.spotify.com/album/41q9qpBZckfeDMtMAMpzUT) | 2:44 |
@@ -69,15 +69,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 59 | [幸せのまわり道](https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [幸せのまわり道](https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN) | 3:45 |
 | 60 | [fallen leaves](https://open.spotify.com/track/0sYfmKsl5ebxiUhJHLxmeK) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [fallen leaves](https://open.spotify.com/album/5WACx3ToU3nizu4plI5ldW) | 2:31 |
 | 61 | [It's Impressive](https://open.spotify.com/track/7lQnGrQI7m1qzS9Z89GtTi) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [It's Impressive](https://open.spotify.com/album/74vSgLGwSVRkDJQHGN4qLp) | 2:05 |
-| 62 | [I Can't Tell You Why](https://open.spotify.com/track/5GAh0yww213mHRQGyDHwk7) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Wallflower](https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN) | 3:40 |
-| 63 | [IKAROS](https://open.spotify.com/track/4ct5cffZGIcSJ6P8iEToG2) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:38 |
+| 62 | [IKAROS](https://open.spotify.com/track/4ct5cffZGIcSJ6P8iEToG2) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:38 |
+| 63 | [I Can't Tell You Why](https://open.spotify.com/track/5GAh0yww213mHRQGyDHwk7) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Wallflower](https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN) | 3:40 |
 | 64 | [Fallen Flowers](https://open.spotify.com/track/7AZCidWfobiJzWoxPB67gr) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Fallen Flowers](https://open.spotify.com/album/4fJ7JtAbNfZikkfaU749h7) | 3:09 |
 | 65 | [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 |
 | 66 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 |
 | 67 | [Chillin' In The Dark](https://open.spotify.com/track/3D7W9qlaXDoC6PWVxnUB9k) | [Everyday is Sunday](https://open.spotify.com/artist/4ucm9OKtO5fac0lLRsngDW) | [Chillin' In The Dark](https://open.spotify.com/album/4JdMw6PQjcsIl3AjYxhhCo) | 2:42 |
-| 68 | [Cairngorms](https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Cairngorms](https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3) | 4:12 |
+| 68 | [Générique de fin](https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va) | [Gabriel Yared](https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB) | [Si tu voyais son cœur \(Bande originale du film\)](https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In) | 1:41 |
 | 69 | [A Pervasive Awareness](https://open.spotify.com/track/4nwdHLEuVcK8b6vfEpWD5N) | [HAPPY](https://open.spotify.com/artist/5GVmwlesqBw7eCqdX0YAEH) | [A Pervasive Awareness](https://open.spotify.com/album/0dfsOtFcCPaC78YrBBKmyF) | 3:26 |
-| 70 | [Générique de fin](https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va) | [Gabriel Yared](https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB) | [Si tu voyais son cœur \(Bande originale du film\)](https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In) | 1:41 |
+| 70 | [Cairngorms](https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Cairngorms](https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3) | 4:12 |
 | 71 | [Waltz In A Dream](https://open.spotify.com/track/5YeZ63yiI50Ip6c3528cG3) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Waltz In A Dream](https://open.spotify.com/album/57Pf9OL4e8Hh6mVfrW1MS1) | 2:17 |
 | 72 | [Lost at Sea](https://open.spotify.com/track/6N7NO9Z1Hi6la8dqG3Aoew) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lost At Sea](https://open.spotify.com/album/5z82RVDMCeczopEXA5JghQ) | 3:07 |
 | 73 | [Left Unsaid](https://open.spotify.com/track/1AZzLOkvh2qA0pKwmJDY7Y) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [STRATA](https://open.spotify.com/album/07rIpcwC3NjdShBJn6GRAh) | 4:31 |

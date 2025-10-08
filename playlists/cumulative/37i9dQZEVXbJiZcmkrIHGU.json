@@ -4960,7 +4960,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/5E4jBLx4P0UBji68bBThSw"
@@ -4978,7 +4978,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -5288,7 +5288,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -8788,7 +8788,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 235986,
       "name": "Bella Napoli",
       "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
@@ -35084,7 +35084,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
@@ -63676,7 +63676,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -63694,7 +63694,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -65206,7 +65206,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-07",
+      "date_removed": null,
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
@@ -65576,6 +65576,24 @@
     {
       "album": {
         "name": "Theater \ud83c\udfad",
+        "url": "https://open.spotify.com/album/5PyDwrK1u3MnZd2rCKDqIb"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141999,
+      "name": "Theater \ud83c\udfad",
+      "url": "https://open.spotify.com/track/2ewwQzODKfnyZpgtDalWW5"
+    },
+    {
+      "album": {
+        "name": "Theater \ud83c\udfad",
         "url": "https://open.spotify.com/album/34CqMFySOBvYmKVhEhjevt"
       },
       "artists": [
@@ -65586,7 +65604,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 141999,
       "name": "Theater \ud83c\udfad",
       "url": "https://open.spotify.com/track/2lRzkiGhOWV7GKTFmRZ4uC"
@@ -70726,7 +70744,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 201325,
       "name": "Walzer",
       "url": "https://open.spotify.com/track/2wlqlfnyf7Hulg2b9E8Qhy"
@@ -70744,7 +70762,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 201325,
       "name": "Walzer",
       "url": "https://open.spotify.com/track/605G7F1FEjm60IdXmLhlNN"

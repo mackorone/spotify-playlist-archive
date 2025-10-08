@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,342 likes - 128 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,351 likes - 128 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 30 | [Waterfall](https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Waterfall](https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi) | 3:52 |
 | 31 | [Make It to Heaven \(with Raye\)](https://open.spotify.com/track/5dS2dvXVPe7AR6UwBpnomW) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Make It To Heaven \(with Raye\)](https://open.spotify.com/album/3YgpLKWG2xfjEe8vVfcn13) | 2:52 |
 | 32 | [RIIVERDANCE](https://open.spotify.com/track/0TsCBkrq3owPs06HP5Q9Z4) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:11 |
-| 33 | [Hard Out Here.](https://open.spotify.com/track/0o4HD0mOtTiHSbycbg4IpT) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:11 |
-| 34 | [Natalie Don't](https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Natalie Don’t](https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP) | 3:14 |
-| 35 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 |
+| 33 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 |
+| 34 | [Hard Out Here.](https://open.spotify.com/track/0o4HD0mOtTiHSbycbg4IpT) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:11 |
+| 35 | [Natalie Don't](https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Natalie Don’t](https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP) | 3:14 |
 | 36 | [Call On Me](https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Call On Me](https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy) | 3:14 |
 | 37 | [I Don't Want You](https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [I Don't Want You](https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2) | 3:10 |
 | 38 | [Please Don’t Touch](https://open.spotify.com/track/16eNwSoWmJh5GSjN8ECmIp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Please Don’t Touch](https://open.spotify.com/album/2L0kDBJ2d6aThU4egKkoDk) | 3:38 |
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 113 | [Ambition](https://open.spotify.com/track/0ykYUf381iNVClU9RyRfKT) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [SECOND](https://open.spotify.com/album/6eT16kw4EZwX9jlHaQQ4Ww) | 4:52 |
 | 114 | [Paralyzed \(feat\. RAYE\)](https://open.spotify.com/track/3kTthHt7h6paFEMOaIxXC3) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Algorithm](https://open.spotify.com/album/4L587s3QXoaroQTIdDWBiW) | 4:38 |
 | 115 | [South East London](https://open.spotify.com/track/1FMM2ZK0wK7RIQTbi8OiSu) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Rapman Presents: Blue Story, Music Inspired By The Original Motion Picture](https://open.spotify.com/album/7rEE5D5xsKP4yGpwXXF7Bl) | 3:14 |
-| 116 | [Glue \(feat\. RAYE\)](https://open.spotify.com/track/1Uf09GGlf7Nq4iCfCbaGKf) | [Somewhere Else](https://open.spotify.com/artist/5LA9eBtrAmkfQveuJZLH5h), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Glue \(feat\. RAYE\)](https://open.spotify.com/album/1mG1ciibiQf1hQ6CE41Z91) | 3:02 |
-| 117 | [Braveface](https://open.spotify.com/track/4vChLQrMY67IWFxYCcQUVQ) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Braveface](https://open.spotify.com/album/4rNZwITNBukiT5F6s0KO9X) | 3:03 |
+| 116 | [Braveface](https://open.spotify.com/track/4vChLQrMY67IWFxYCcQUVQ) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Braveface](https://open.spotify.com/album/4rNZwITNBukiT5F6s0KO9X) | 3:03 |
+| 117 | [Glue \(feat\. RAYE\)](https://open.spotify.com/track/1Uf09GGlf7Nq4iCfCbaGKf) | [Somewhere Else](https://open.spotify.com/artist/5LA9eBtrAmkfQveuJZLH5h), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Glue \(feat\. RAYE\)](https://open.spotify.com/album/1mG1ciibiQf1hQ6CE41Z91) | 3:02 |
 | 118 | [Dear Ben, Pt\. II](https://open.spotify.com/track/0jdveBJMYBs7lk1w0Pk9Jw) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:39 |
 | 119 | [War \(feat\. Keon Bryce\)](https://open.spotify.com/track/1GxgwYCyhEiS8XDh8J1y85) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Keon Bryce](https://open.spotify.com/artist/7aoCuY6OJl2puP2hX6Fal0) | [Street's Disciple](https://open.spotify.com/album/0jghcWTsQzux5T9sAfZO13) | 4:17 |
 | 120 | [Alien](https://open.spotify.com/track/0fZfRJ4LlniAOAvq2beBRI) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [Alien](https://open.spotify.com/album/7Lg6ullAYcXZA3VV8D7yBd) | 4:54 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 127 | [Don’t Cry \(feat\. Aida Lae\)](https://open.spotify.com/track/3aXsMhbTt3SQTD4iz3ptcc) | [Preditah](https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Don’t Cry \(feat\. Aida Lae\)](https://open.spotify.com/album/20fw7LGasmONYZDICD2cUD) | 2:49 |
 | 128 | [Magic](https://open.spotify.com/track/6Is9lEdN1IJQcD6sfFJiTo) | [Rachel Alejandro](https://open.spotify.com/artist/4oMk1QJuMWUWrNmchRJGWL) | [Heart's Desire](https://open.spotify.com/album/2hx6aKJg9nktlobIjmFiW8) | 3:12 |
 
-Snapshot ID: `Ab+KtAAAAABveyTGxJ9+zKSLd5YbjtJ9`
+Snapshot ID: `Ab+QfAAAAADNXP8OgB/VPKKNlVhxmJpC`

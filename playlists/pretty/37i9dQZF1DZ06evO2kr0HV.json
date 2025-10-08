@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 40593,
+  "num_followers": 40603,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAAAbZZxBppleF3MzdFxgpyL/",
+  "snapshot_id": "aOMGgAAAAABdekRF/w9FvZoJZKRn1g4n",
   "tracks": [
     {
       "added_at": null,
@@ -175,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Noche Sensorial",
+      "url": "https://open.spotify.com/track/3GezDPu1wDhp31VMqgGwox"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/79b5yLLMqlbw9uEhWRCks3"
       },
@@ -195,18 +211,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+        "name": "Si Volviera A Nacer",
+        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
       },
       "artists": [
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Noche Sensorial",
-      "url": "https://open.spotify.com/track/3GezDPu1wDhp31VMqgGwox"
+      "duration_ms": 238253,
+      "name": "Mar",
+      "url": "https://open.spotify.com/track/6YQG62T687TCDrTVyK3DK2"
     },
     {
       "added_at": null,
@@ -227,26 +247,6 @@
       "duration_ms": 196733,
       "name": "Nada que ver",
       "url": "https://open.spotify.com/track/6OdCIsv4H1C4gJOW5gX2yr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Si Volviera A Nacer",
-        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 238253,
-      "name": "Mar",
-      "url": "https://open.spotify.com/track/6YQG62T687TCDrTVyK3DK2"
     },
     {
       "added_at": null,
@@ -287,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor\u00edo",
-        "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 194154,
-      "name": "Te va a doler",
-      "url": "https://open.spotify.com/track/3E1iSNh6yovFIYJKhKMEqx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DARA",
         "url": "https://open.spotify.com/album/5VGyOaFFu2uXZJybipzjft"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 171920,
       "name": "Besos y Pendientes",
       "url": "https://open.spotify.com/track/2Gdy6E2u62bWSyGyTh4qxg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor\u00edo",
+        "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 194154,
+      "name": "Te va a doler",
+      "url": "https://open.spotify.com/track/3E1iSNh6yovFIYJKhKMEqx"
     },
     {
       "added_at": null,
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 168706,
+      "name": "Hasta Morir",
+      "url": "https://open.spotify.com/track/7CK7oTOmccQz7VJZ4Ajcqv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor\u00edo",
         "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 164151,
       "name": "Llorando en el avi\u00f3n",
       "url": "https://open.spotify.com/track/1io59pmyuTfVEnIsFjbL5I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 168706,
-      "name": "Hasta Morir",
-      "url": "https://open.spotify.com/track/7CK7oTOmccQz7VJZ4Ajcqv"
     },
     {
       "added_at": null,
@@ -435,26 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor\u00edo",
-        "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 187043,
-      "name": "Cita compartida",
-      "url": "https://open.spotify.com/track/52Cgt6hPWKyLmkBSJzedgw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bailemos en la Sala",
         "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 211400,
       "name": "Una Noche M\u00e1s",
       "url": "https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor\u00edo",
+        "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 187043,
+      "name": "Cita compartida",
+      "url": "https://open.spotify.com/track/52Cgt6hPWKyLmkBSJzedgw"
     },
     {
       "added_at": null,

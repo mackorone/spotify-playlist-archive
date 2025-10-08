@@ -1,6 +1,6 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 735063,
+  "num_followers": 735100,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-08-21 15:35:38",
       "album": {
-        "name": "Cowgirl",
-        "url": "https://open.spotify.com/album/7nv5BlYzkMnp9VEo8OX0Dg"
-      },
-      "artists": [
-        {
-          "name": "Nelly Joy",
-          "url": "https://open.spotify.com/artist/5LpodItaIbBuZQUyR65lGZ"
-        }
-      ],
-      "duration_ms": 219217,
-      "name": "Cowgirl",
-      "url": "https://open.spotify.com/track/2KeIYazn8x4IobcS1aXram"
-    },
-    {
-      "added_at": "2025-08-21 15:35:38",
-      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 156386,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao"
+    },
+    {
+      "added_at": "2025-08-21 15:35:38",
+      "album": {
+        "name": "Cowgirl",
+        "url": "https://open.spotify.com/album/7nv5BlYzkMnp9VEo8OX0Dg"
+      },
+      "artists": [
+        {
+          "name": "Nelly Joy",
+          "url": "https://open.spotify.com/artist/5LpodItaIbBuZQUyR65lGZ"
+        }
+      ],
+      "duration_ms": 219217,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/2KeIYazn8x4IobcS1aXram"
     },
     {
       "added_at": "2025-08-21 15:35:38",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-08-21 15:35:38",
       "album": {
-        "name": "Forces - EP",
-        "url": "https://open.spotify.com/album/3Q7yRMDkHa2DM3G7jx3p7I"
-      },
-      "artists": [
-        {
-          "name": "Jordan DePaul",
-          "url": "https://open.spotify.com/artist/5uUIZ5FnQjqfOamzj0yK3h"
-        }
-      ],
-      "duration_ms": 228787,
-      "name": "Brighter Shade of Blue",
-      "url": "https://open.spotify.com/track/1yyXmUb99vQ1BI1ee9gkFh"
-    },
-    {
-      "added_at": "2025-08-21 15:35:38",
-      "album": {
         "name": "End of the Rain",
         "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2025-08-21 15:35:38",
       "album": {
-        "name": "Western Wedding",
-        "url": "https://open.spotify.com/album/5TfqeQdQPn6ewXxaSOUIGb"
+        "name": "Forces - EP",
+        "url": "https://open.spotify.com/album/3Q7yRMDkHa2DM3G7jx3p7I"
       },
       "artists": [
         {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+          "name": "Jordan DePaul",
+          "url": "https://open.spotify.com/artist/5uUIZ5FnQjqfOamzj0yK3h"
         }
       ],
-      "duration_ms": 231471,
-      "name": "Long Haul - Piano / Vocal",
-      "url": "https://open.spotify.com/track/0f3MumMMD2KeAEsDxL3cIb"
+      "duration_ms": 228787,
+      "name": "Brighter Shade of Blue",
+      "url": "https://open.spotify.com/track/1yyXmUb99vQ1BI1ee9gkFh"
     },
     {
       "added_at": "2025-08-21 15:35:38",
@@ -1131,6 +1115,22 @@
       "duration_ms": 212435,
       "name": "Yearbook",
       "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
+    },
+    {
+      "added_at": "2025-08-21 15:35:38",
+      "album": {
+        "name": "Western Wedding",
+        "url": "https://open.spotify.com/album/5TfqeQdQPn6ewXxaSOUIGb"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "duration_ms": 231471,
+      "name": "Long Haul - Piano / Vocal",
+      "url": "https://open.spotify.com/track/0f3MumMMD2KeAEsDxL3cIb"
     },
     {
       "added_at": "2025-08-21 15:35:38",

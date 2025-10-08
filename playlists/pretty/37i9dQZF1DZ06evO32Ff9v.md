@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 
 > This is Los Farmerz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,390 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,413 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 33 | [El Muchacho De Las Cajas](https://open.spotify.com/track/4P5GD2VOkMahwrqIjOYGTD) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Ni Modo Que Sea Mentira](https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh) | 3:21 |
 | 34 | [El Afortunado](https://open.spotify.com/track/01kjAH0uvpTp0clLfQxMo8) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Asi Nomas](https://open.spotify.com/album/1p38dNTQingk5pqbCaz1vY) | 3:10 |
 | 35 | [Si No Es Contigo](https://open.spotify.com/track/2ZCxbNFArcJbqeH3QqMisn) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Slapperz](https://open.spotify.com/album/7vHKFMrKnIcBsrjtg1vuzS) | 2:29 |
-| 36 | [Dos R's Son](https://open.spotify.com/track/39LdYSi0WEg8nqlwiHE5hc) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [El León Y Su Gente](https://open.spotify.com/artist/4q9U0JuiWGhcZEFREIGCVH) | [Dos R's Son](https://open.spotify.com/album/0WLIAtswEbRGJehN0wxb8M) | 4:07 |
-| 37 | [Al Que Se Animó](https://open.spotify.com/track/02jMRNIJ5emIg43xkKOn5b) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Al Que Se Animó](https://open.spotify.com/album/2gmbx5bkVJSrpT5jd6QJiv) | 2:40 |
+| 36 | [Al Que Se Animó](https://open.spotify.com/track/02jMRNIJ5emIg43xkKOn5b) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Al Que Se Animó](https://open.spotify.com/album/2gmbx5bkVJSrpT5jd6QJiv) | 2:40 |
+| 37 | [Dos R's Son](https://open.spotify.com/track/39LdYSi0WEg8nqlwiHE5hc) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [El León Y Su Gente](https://open.spotify.com/artist/4q9U0JuiWGhcZEFREIGCVH) | [Dos R's Son](https://open.spotify.com/album/0WLIAtswEbRGJehN0wxb8M) | 4:07 |
 | 38 | [Los Vargas](https://open.spotify.com/track/4DnK6AzeP5qfRff5ngA0KQ) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Ni Modo Que Sea Mentira](https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh) | 2:21 |
 | 39 | [Dos Guaches Caléntanos](https://open.spotify.com/track/7qfTIjeLLW20IfKNygZ4Ev) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Dos Guaches Caléntanos](https://open.spotify.com/album/5VY7WMoTXkIWgvb9Uja3xV) | 3:17 |
 | 40 | [Los Espino](https://open.spotify.com/track/6udYryoxHPDExdMTpdF1lE) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 49 | [La Elegancia Se Miro](https://open.spotify.com/track/6XJ4CQ5E9c71cTkPHhivAN) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [La Elegancia Se Miró](https://open.spotify.com/album/40uIryLOvhReoMWynEq2GD) | 3:28 |
 | 50 | [La Morena](https://open.spotify.com/track/6ecEcvPSIGKZ6zUZSBPlGI) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 3:59 |
 
-Snapshot ID: `aOG1AAAAAABCXa20TKeNHvBAYaHDI76C`
+Snapshot ID: `aOMGgAAAAACWE1LDyMS+t4WZzFL4zoH2`

@@ -4,11 +4,12 @@
 
 > This is Luke Combs\. The essential tracks, all in one playlist.
 
-82 songs - 4 hr 41 min
+83 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1, 2 Many](https://open.spotify.com/track/226le7T3p82reYWzsi9Hsz) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:00 | 2023-09-21 |  |
+| [15 Minutes](https://open.spotify.com/track/1f1pdF5fWMXbyNZHX2jDiJ) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Prequel](https://open.spotify.com/album/40xQAz7RDjeznOtTYeEMLs) | 3:34 | 2025-10-08 |  |
 | [5 Leaf Clover](https://open.spotify.com/track/52ChYmfu792MW2Ezv0whpk) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:31 | 2023-09-21 |  |
 | [A Long Way](https://open.spotify.com/track/3z1QH1O1h15lFROjcECqgi) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:37 | 2024-01-21 | 2024-07-17 |
 | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx) | 3:30 | 2024-05-18 |  |
@@ -72,7 +73,7 @@
 | [Sheriff You Want To](https://open.spotify.com/track/1NBJoYCz83qtBFGGPgfTkQ) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Can I Get an Outlaw](https://open.spotify.com/album/7ENhewQQ9Hp8mdEAyIsWvW) | 3:41 | 2023-09-21 |  |
 | [Ships That Don’t Come In](https://open.spotify.com/track/6wNtSoSzerVOo8fGKRLN7Q) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [HIXTAPE: Vol\. 3: DIFFTAPE](https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O) | 3:44 | 2024-04-07 | 2024-06-10 |
 | [South On Ya](https://open.spotify.com/track/0cvmA0xg8FkzKvBnO8987X) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [South On Ya](https://open.spotify.com/album/2bnuOCorMF9NzCFQegmfnC) | 2:51 | 2023-09-21 | 2024-07-27 |
-| [The Great Divide](https://open.spotify.com/track/3q3lSbfT5BnQlIvGwahgAD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [The Great Divide](https://open.spotify.com/album/1KUJKWXmE95TPXxeJecop9) | 3:31 | 2023-09-21 |  |
+| [The Great Divide](https://open.spotify.com/track/3q3lSbfT5BnQlIvGwahgAD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [The Great Divide](https://open.spotify.com/album/1KUJKWXmE95TPXxeJecop9) | 3:31 | 2023-09-21 | 2025-10-08 |
 | [The Kind of Love We Make](https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 3:44 | 2023-09-21 |  |
 | [The Man He Sees in Me](https://open.spotify.com/track/0Zm4ZDBtiZCDp69Cxs5TaB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Man He Sees in Me](https://open.spotify.com/album/5oR5JuHZV4Yz7XvvBJHOCt) | 2:45 | 2024-06-09 | 2024-07-06 |
 | [The Man He Sees in Me](https://open.spotify.com/track/4MXzdffMz78GLlLM7mDa9v) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 2:45 | 2024-07-06 |  |

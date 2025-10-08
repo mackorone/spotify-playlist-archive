@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 
 > This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,461 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,448 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 39 | [A Lua](https://open.spotify.com/track/5yKXn2WXISKovZSzczhBI9) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:35 |
 | 40 | [Paraíso](https://open.spotify.com/track/7u9maPG2E4cN9qChpe80qm) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Paraíso](https://open.spotify.com/album/75DV3LLntXpYsaKqRahzlt) | 2:43 |
 | 41 | [Cadeado](https://open.spotify.com/track/5jsCH1ydkfz1icE9BabgnZ) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mc Priscilla](https://open.spotify.com/artist/785LtGRXUDaT638HvotpSI) | [Noitada](https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO) | 2:48 |
-| 42 | [Eu Vou](https://open.spotify.com/track/6tkuCCpBNnAWjbOv2MHIgO) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111 DELUXE](https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP) | 2:25 |
-| 43 | [No Hablo Español](https://open.spotify.com/track/5HRzqOUfdVsHxDEBQImCT3) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:46 |
+| 42 | [No Hablo Español](https://open.spotify.com/track/5HRzqOUfdVsHxDEBQImCT3) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:46 |
+| 43 | [Eu Vou](https://open.spotify.com/track/6tkuCCpBNnAWjbOv2MHIgO) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111 DELUXE](https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP) | 2:25 |
 | 44 | [After \- Filipe Guerra Remix](https://open.spotify.com/track/0OglCVZmal9RN57WnbbfvE) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Filipe Guerra](https://open.spotify.com/artist/3R2KwUrWGyRCizQzFA9F1K) | [AFTER](https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ) | 4:28 |
 | 45 | [Rajadão](https://open.spotify.com/track/1DmSaQjZkuwFi57KPv20oB) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111](https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b) | 2:37 |
 | 46 | [Ultra Som](https://open.spotify.com/track/22xeSdbkS1rjlw0J7alewY) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 1:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 49 | [Calma Amiga \(feat\. Anitta\) \- Dj RaMeMes \(O DESTRUIDOR DO FUNK\) & DJ Tonias Extended Mix](https://open.spotify.com/track/3TRIwk9p4ACUJwTxs8SqWQ) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DJ RaMeMes \(O DESTRUIDOR DO FUNK\)](https://open.spotify.com/artist/6Xk7H8ufVBIZcgGWAhY9b3), [DJ Tonias](https://open.spotify.com/artist/6R9FiidHLdoF8vJLIsnjub) | [AFTER](https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ) | 2:59 |
 | 50 | [Bang Bang](https://open.spotify.com/track/0fmoN2m4nuA4qGShcg3TuK) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:54 |
 
-Snapshot ID: `aOG1AAAAAADkAawhaGl5SDJoVwQxx8Mu`
+Snapshot ID: `aOMGgAAAAAD2UQaO7PnB8yQowp3ViWp+`

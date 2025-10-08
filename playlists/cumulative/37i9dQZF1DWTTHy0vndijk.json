@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. (Cover: Hearts2Hearts (\ud558\uce20\ud22c\ud558\uce20)) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
+  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. (Cover: HITGS) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
   "name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "tracks": [
     {
@@ -484,7 +484,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 208474,
       "name": "BAAM",
       "url": "https://open.spotify.com/track/4Is1b37KJY9XVCgzp81FBW"
@@ -2894,7 +2894,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 199026,
       "name": "Growls and Purrs",
       "url": "https://open.spotify.com/track/2ZlzUxSV0Pir7oBn28OZCg"
@@ -2934,6 +2934,24 @@
       "duration_ms": 201644,
       "name": "Happily Ever After",
       "url": "https://open.spotify.com/track/7H1ly0lZJ9ebnci5B9t7Nh"
+    },
+    {
+      "album": {
+        "name": "Things we love : I",
+        "url": "https://open.spotify.com/album/2jjFsmmJWEvCqOREZlqF9a"
+      },
+      "artists": [
+        {
+          "name": "HITGS",
+          "url": "https://open.spotify.com/artist/5a83Luu0ndnR1enk1rn83V"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/1RKdxCUdiyGSWscrdx7Aq6"
     },
     {
       "album": {
@@ -7200,7 +7218,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-08",
       "duration_ms": 192040,
       "name": "Summer Was You",
       "url": "https://open.spotify.com/track/7fiSE0NQwgJPj5QHhln8L1"

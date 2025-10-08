@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Laufey",
-  "num_followers": 184343,
+  "num_followers": 184423,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
+        "name": "Tis Autumn",
+        "url": "https://open.spotify.com/album/01lnZ9TUIeK5Wl8IbziDpS"
+      },
+      "artists": [
+        {
+          "name": "Belle-Skinner",
+          "url": "https://open.spotify.com/artist/7BFkFoYUrl7Hab2PGxr9fA"
+        }
+      ],
+      "duration_ms": 130162,
+      "name": "Tis Autumn",
+      "url": "https://open.spotify.com/track/2xkjxUit9oF8aC3057JybK"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
         "name": "4 Wheel Drive",
         "url": "https://open.spotify.com/album/6HHbIMi4Hk5wyjGVm4jZb2"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 226558,
       "name": "Maybe I'm Amazed",
       "url": "https://open.spotify.com/track/0VYYhGLcD6IuFvqSzI6rzu"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
-        "name": "Tis Autumn",
-        "url": "https://open.spotify.com/album/01lnZ9TUIeK5Wl8IbziDpS"
-      },
-      "artists": [
-        {
-          "name": "Belle-Skinner",
-          "url": "https://open.spotify.com/artist/7BFkFoYUrl7Hab2PGxr9fA"
-        }
-      ],
-      "duration_ms": 130162,
-      "name": "Tis Autumn",
-      "url": "https://open.spotify.com/track/2xkjxUit9oF8aC3057JybK"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "H I M",
-        "url": "https://open.spotify.com/album/0LUSruguMIMs9obYyOIEyi"
-      },
-      "artists": [
-        {
-          "name": "Louis Amanti",
-          "url": "https://open.spotify.com/artist/00qkKppMjnPRz16SLZekPu"
-        }
-      ],
-      "duration_ms": 220728,
-      "name": "H I M",
-      "url": "https://open.spotify.com/track/3OGNJCG3qpQmPbHTfkFWLf"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Softly Loudly",
         "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Free Afternoon",
-        "url": "https://open.spotify.com/album/2ajeqYG7b4hAkWwnsNwW2i"
+        "name": "H I M",
+        "url": "https://open.spotify.com/album/0LUSruguMIMs9obYyOIEyi"
       },
       "artists": [
         {
-          "name": "Guilherme Cunha Ribeiro",
-          "url": "https://open.spotify.com/artist/1XnIHBrcYE8HyKiLxSSxp5"
+          "name": "Louis Amanti",
+          "url": "https://open.spotify.com/artist/00qkKppMjnPRz16SLZekPu"
         }
       ],
-      "duration_ms": 233013,
-      "name": "A Better One for You",
-      "url": "https://open.spotify.com/track/1xVRO3QWXU5j9cmKudprSS"
+      "duration_ms": 220728,
+      "name": "H I M",
+      "url": "https://open.spotify.com/track/3OGNJCG3qpQmPbHTfkFWLf"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -743,6 +727,22 @@
       "duration_ms": 248921,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/11w63dY47cyo5GhSexU6YS"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Free Afternoon",
+        "url": "https://open.spotify.com/album/2ajeqYG7b4hAkWwnsNwW2i"
+      },
+      "artists": [
+        {
+          "name": "Guilherme Cunha Ribeiro",
+          "url": "https://open.spotify.com/artist/1XnIHBrcYE8HyKiLxSSxp5"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "A Better One for You",
+      "url": "https://open.spotify.com/track/1xVRO3QWXU5j9cmKudprSS"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -867,6 +867,22 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
+        "name": "Day by Day",
+        "url": "https://open.spotify.com/album/3Npq2S9D4A7aR9aeS6DmMt"
+      },
+      "artists": [
+        {
+          "name": "Francesca Castro",
+          "url": "https://open.spotify.com/artist/3zE04onkabLA6Wa3ENjmTf"
+        }
+      ],
+      "duration_ms": 394997,
+      "name": "Cup of Tea",
+      "url": "https://open.spotify.com/track/0DY3QBVuHfKDauOlEBwV6s"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
         "name": "Song Like Ours",
         "url": "https://open.spotify.com/album/7AKjEmKNF4wC8DEvwdE74Q"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 298549,
       "name": "Song Like Ours",
       "url": "https://open.spotify.com/track/1t046djogoVhEYfCWRxxNU"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
-        "name": "Day by Day",
-        "url": "https://open.spotify.com/album/3Npq2S9D4A7aR9aeS6DmMt"
-      },
-      "artists": [
-        {
-          "name": "Francesca Castro",
-          "url": "https://open.spotify.com/artist/3zE04onkabLA6Wa3ENjmTf"
-        }
-      ],
-      "duration_ms": 394997,
-      "name": "Cup of Tea",
-      "url": "https://open.spotify.com/track/0DY3QBVuHfKDauOlEBwV6s"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -935,6 +935,22 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
+        "name": "My One and Only Love",
+        "url": "https://open.spotify.com/album/2o2InWRo5MckwfoAif3w6S"
+      },
+      "artists": [
+        {
+          "name": "Jose Reinoso",
+          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
+        }
+      ],
+      "duration_ms": 246423,
+      "name": "My One and Only Love",
+      "url": "https://open.spotify.com/track/7gmngIN8brGgBP61hhX8rK"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
         "name": "Luxury and Waste",
         "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
       },
@@ -951,18 +967,18 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "My One and Only Love",
-        "url": "https://open.spotify.com/album/2o2InWRo5MckwfoAif3w6S"
+        "name": "\u00e0 Fleur de Peau",
+        "url": "https://open.spotify.com/album/6HA7T7bSLycVHxv9WcfeRW"
       },
       "artists": [
         {
-          "name": "Jose Reinoso",
-          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
         }
       ],
-      "duration_ms": 246423,
-      "name": "My One and Only Love",
-      "url": "https://open.spotify.com/track/7gmngIN8brGgBP61hhX8rK"
+      "duration_ms": 258900,
+      "name": "Inside and Out",
+      "url": "https://open.spotify.com/track/590wQwgPHKRMOppPGNGmVR"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -983,22 +999,6 @@
       "duration_ms": 184250,
       "name": "Don't Forget Me (When I'm Gone)",
       "url": "https://open.spotify.com/track/6DMbtQe33VCzkhmEQbjzYc"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
-        "name": "\u00e0 Fleur de Peau",
-        "url": "https://open.spotify.com/album/6HA7T7bSLycVHxv9WcfeRW"
-      },
-      "artists": [
-        {
-          "name": "Cyrille Aimee",
-          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
-        }
-      ],
-      "duration_ms": 258900,
-      "name": "Inside and Out",
-      "url": "https://open.spotify.com/track/590wQwgPHKRMOppPGNGmVR"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Sugilite",
-        "url": "https://open.spotify.com/album/5oiFCRXohoBQcIKRZf49TN"
-      },
-      "artists": [
-        {
-          "name": "Jeanne Newhall",
-          "url": "https://open.spotify.com/artist/2H0uuUfIaOJs65CXtlNa9t"
-        }
-      ],
-      "duration_ms": 278961,
-      "name": "Sugilite",
-      "url": "https://open.spotify.com/track/4ifnTPPw3EQX0CBLRyo6cT"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "When The Stars Align",
         "url": "https://open.spotify.com/album/4LcdQw5uwritvZ25c3Bash"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 201000,
       "name": "When The Stars Align",
       "url": "https://open.spotify.com/track/71dit7trObYaqZuVU8xsBV"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Sugilite",
+        "url": "https://open.spotify.com/album/5oiFCRXohoBQcIKRZf49TN"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Newhall",
+          "url": "https://open.spotify.com/artist/2H0uuUfIaOJs65CXtlNa9t"
+        }
+      ],
+      "duration_ms": 278961,
+      "name": "Sugilite",
+      "url": "https://open.spotify.com/track/4ifnTPPw3EQX0CBLRyo6cT"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "The Road Is Narrow",
-        "url": "https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b"
-      },
-      "artists": [
-        {
-          "name": "Jecca",
-          "url": "https://open.spotify.com/artist/6OZZbpRmu88cPW77EiVjcg"
-        }
-      ],
-      "duration_ms": 194823,
-      "name": "the road is narrow",
-      "url": "https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "At the End of the Day",
         "url": "https://open.spotify.com/album/7fnwEYlBFVtBqxrBK38m6O"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 216000,
       "name": "At the End of the Day",
       "url": "https://open.spotify.com/track/1DBy8RZnRDSHfiOCvGeRRm"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "The Road Is Narrow",
+        "url": "https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b"
+      },
+      "artists": [
+        {
+          "name": "Jecca",
+          "url": "https://open.spotify.com/artist/6OZZbpRmu88cPW77EiVjcg"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "the road is narrow",
+      "url": "https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Loneliness",
-        "url": "https://open.spotify.com/album/2vPNtFnHCKBRIsGPlZL9cd"
-      },
-      "artists": [
-        {
-          "name": "Lady Linn",
-          "url": "https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL"
-        }
-      ],
-      "duration_ms": 185653,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/32OA13wgTrofFyy79cYtyy"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Chamomile Tea",
         "url": "https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 252261,
       "name": "Chamomile Tea",
       "url": "https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/2vPNtFnHCKBRIsGPlZL9cd"
+      },
+      "artists": [
+        {
+          "name": "Lady Linn",
+          "url": "https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL"
+        }
+      ],
+      "duration_ms": 185653,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/32OA13wgTrofFyy79cYtyy"
     },
     {
       "added_at": "2025-05-18 18:29:44",

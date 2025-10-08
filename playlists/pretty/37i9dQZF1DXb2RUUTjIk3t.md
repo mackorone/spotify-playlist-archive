@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2RUUTjIk3t.md) - [plain]
 
 > Beautiful indie tracks from around the world\. Cover: beabadoobee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,005 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,006 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2RUUTjIk3t.md) - [plain]
 | 47 | [Flowers From Japan](https://open.spotify.com/track/6UMZpB7uTxDyhUs8cvSHRE) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [Flowers From Japan](https://open.spotify.com/album/7cWK1OJgqmkyBjK67LUesw) | 4:06 |
 | 48 | [Radio](https://open.spotify.com/track/53KTjvFbNcybDOxhdDRoio) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:14 |
 | 49 | [Loneliness](https://open.spotify.com/track/0t1qI2DYS68veTpLBGUsNM) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Loneliness](https://open.spotify.com/album/1YYUqltzKKaDPsOELPiUEx) | 3:27 |
-| 50 | [I Guess](https://open.spotify.com/track/0hzVEWIYibIGxMdn2NkjXw) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Ekkstacy](https://open.spotify.com/artist/1zCiff0Qh7vaL9CoFb2wiy), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [Pigeons & Planes presents: See You Next Year](https://open.spotify.com/album/7kcpj6h0JGPKOh59ZvbUdm) | 2:54 |
+| 50 | [I Guess](https://open.spotify.com/track/0hzVEWIYibIGxMdn2NkjXw) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [Pigeons & Planes & Big.Ass.Kids present: See You Next Year](https://open.spotify.com/album/7kcpj6h0JGPKOh59ZvbUdm) | 2:54 |
 | 51 | [Mélodie](https://open.spotify.com/track/2F8tzUI4guwXpszgwaRBCX) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Fleur de l'Âge](https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev) | 2:30 |
 | 52 | [Hi\-Fidelity](https://open.spotify.com/track/6bkedSfBm08y2ZWRl4v4iK) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Hi\-Fidelity](https://open.spotify.com/album/0ggU3YqRVqieE3EThAiNl7) | 3:19 |
 | 53 | [The Underground](https://open.spotify.com/track/111ZlqKl6XMouxYalfUQl4) | [THE MOON](https://open.spotify.com/artist/3DfX25iwobGwgawuvpR7fB), [Mama Polin](https://open.spotify.com/artist/6KNM9o5E05WcTCvJ1hiocs) | [The Underground](https://open.spotify.com/album/4hjqzZDXRI4GnMgKFv1tuN) | 3:32 |

@@ -1,6 +1,6 @@
 {
   "description": "Dip your feet in the pool and enjoy this perfect summer house mix \u2600\ufe0f\u200a",
-  "num_followers": 1554949,
+  "num_followers": 1554854,
   "original_name": "Summer House 2025",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2025-09-26 04:00:28",
       "album": {
-        "name": "Afraid To Feel",
-        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 177524,
-      "name": "Afraid To Feel",
-      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
-    },
-    {
-      "added_at": "2025-09-26 04:00:28",
-      "album": {
         "name": "Edge of Desire",
         "url": "https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 134905,
       "name": "Edge of Desire",
       "url": "https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT"
+    },
+    {
+      "added_at": "2025-09-26 04:00:28",
+      "album": {
+        "name": "Afraid To Feel",
+        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 177524,
+      "name": "Afraid To Feel",
+      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
     },
     {
       "added_at": "2025-09-26 04:00:28",
@@ -1051,18 +1051,22 @@
     {
       "added_at": "2025-09-26 04:00:28",
       "album": {
-        "name": "Sunshine (My Girl)",
-        "url": "https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As"
+        "name": "DIAMANTE",
+        "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
       },
       "artists": [
         {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 131250,
-      "name": "Sunshine (My Girl)",
-      "url": "https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri"
+      "duration_ms": 253770,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7"
     },
     {
       "added_at": "2025-09-26 04:00:28",
@@ -1095,26 +1099,6 @@
     {
       "added_at": "2025-09-26 04:00:28",
       "album": {
-        "name": "DIAMANTE",
-        "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
-      },
-      "artists": [
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 253770,
-      "name": "Sideways",
-      "url": "https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7"
-    },
-    {
-      "added_at": "2025-09-26 04:00:28",
-      "album": {
         "name": "Don't Stop",
         "url": "https://open.spotify.com/album/0rSgVoJE8fncqD9bJU0Ltq"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 147656,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt"
+    },
+    {
+      "added_at": "2025-09-26 04:00:28",
+      "album": {
+        "name": "Sunshine (My Girl)",
+        "url": "https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "Sunshine (My Girl)",
+      "url": "https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri"
     },
     {
       "added_at": "2025-09-26 04:00:28",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2025-09-26 04:00:28",
       "album": {
+        "name": "Cruise",
+        "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
+      },
+      "artists": [
+        {
+          "name": "ROYA",
+          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
+        }
+      ],
+      "duration_ms": 175708,
+      "name": "Cruise",
+      "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
+    },
+    {
+      "added_at": "2025-09-26 04:00:28",
+      "album": {
         "name": "Blue Berries",
         "url": "https://open.spotify.com/album/5rYaOhuUSKY1APLQ131QWN"
       },
@@ -1543,22 +1559,6 @@
     {
       "added_at": "2025-09-26 04:00:28",
       "album": {
-        "name": "Cruise",
-        "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
-      },
-      "artists": [
-        {
-          "name": "ROYA",
-          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
-        }
-      ],
-      "duration_ms": 175708,
-      "name": "Cruise",
-      "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
-    },
-    {
-      "added_at": "2025-09-26 04:00:28",
-      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/1PJEjRyI5FCOqFf6QbWnlf"
       },
@@ -1599,6 +1599,26 @@
     {
       "added_at": "2025-09-26 04:00:28",
       "album": {
+        "name": "Boost Up",
+        "url": "https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 211899,
+      "name": "Boost Up",
+      "url": "https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr"
+    },
+    {
+      "added_at": "2025-09-26 04:00:28",
+      "album": {
         "name": "925",
         "url": "https://open.spotify.com/album/7CIAt6rtM6lpNlRc6eQGFB"
       },
@@ -1619,26 +1639,6 @@
       "duration_ms": 168576,
       "name": "925",
       "url": "https://open.spotify.com/track/5aNcakuYRSAfNFOz8nREvT"
-    },
-    {
-      "added_at": "2025-09-26 04:00:28",
-      "album": {
-        "name": "Boost Up",
-        "url": "https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 211899,
-      "name": "Boost Up",
-      "url": "https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr"
     },
     {
       "added_at": "2025-09-26 04:00:28",
@@ -1787,26 +1787,6 @@
     {
       "added_at": "2025-09-26 04:00:28",
       "album": {
-        "name": "Happier (feat. Clementine Douglas)",
-        "url": "https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 170358,
-      "name": "Happier (feat. Clementine Douglas)",
-      "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
-    },
-    {
-      "added_at": "2025-09-26 04:00:28",
-      "album": {
         "name": "Make Believe",
         "url": "https://open.spotify.com/album/0WsYBIIe88Cbqs6QpwYqMy"
       },
@@ -1823,6 +1803,26 @@
       "duration_ms": 185000,
       "name": "Make Believe",
       "url": "https://open.spotify.com/track/7IoTUnyyvbMEY2UuE2Tmsx"
+    },
+    {
+      "added_at": "2025-09-26 04:00:28",
+      "album": {
+        "name": "Happier (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 170358,
+      "name": "Happier (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
     },
     {
       "added_at": "2025-09-26 04:00:28",
@@ -1951,6 +1951,22 @@
     {
       "added_at": "2025-09-26 04:00:28",
       "album": {
+        "name": "(It Goes Like) Nanana",
+        "url": "https://open.spotify.com/album/6v3I0eftpzoc1VNR9JoVyc"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 367613,
+      "name": "(It Goes Like) Nanana",
+      "url": "https://open.spotify.com/track/5Hijdt7rmbj9fUJdXEs6Nz"
+    },
+    {
+      "added_at": "2025-09-26 04:00:28",
+      "album": {
         "name": "Corpo e Can\u00e7\u00e3o (Club Mix)",
         "url": "https://open.spotify.com/album/6PHYNn7KqOlQxAgETl4ujD"
       },
@@ -1975,18 +1991,18 @@
     {
       "added_at": "2025-09-26 04:00:28",
       "album": {
-        "name": "(It Goes Like) Nanana",
-        "url": "https://open.spotify.com/album/6v3I0eftpzoc1VNR9JoVyc"
+        "name": "Saturday Morning",
+        "url": "https://open.spotify.com/album/4ATp8hoJal8KklLDp96Jcu"
       },
       "artists": [
         {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
         }
       ],
-      "duration_ms": 367613,
-      "name": "(It Goes Like) Nanana",
-      "url": "https://open.spotify.com/track/5Hijdt7rmbj9fUJdXEs6Nz"
+      "duration_ms": 160487,
+      "name": "Saturday Morning",
+      "url": "https://open.spotify.com/track/24IEGudSMPFjk1U7klc4zp"
     },
     {
       "added_at": "2025-09-26 04:00:28",
@@ -2015,50 +2031,18 @@
     {
       "added_at": "2025-09-26 04:00:28",
       "album": {
-        "name": "Saturday Morning",
-        "url": "https://open.spotify.com/album/4ATp8hoJal8KklLDp96Jcu"
+        "name": "The Ringmaster",
+        "url": "https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n"
       },
       "artists": [
         {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
         }
       ],
-      "duration_ms": 160487,
-      "name": "Saturday Morning",
-      "url": "https://open.spotify.com/track/24IEGudSMPFjk1U7klc4zp"
-    },
-    {
-      "added_at": "2025-09-26 04:00:28",
-      "album": {
-        "name": "See You Again",
-        "url": "https://open.spotify.com/album/6k4dxoY6e4bis3BHs2C52x"
-      },
-      "artists": [
-        {
-          "name": "&ME",
-          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
-        },
-        {
-          "name": "Rampa",
-          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
-        },
-        {
-          "name": "Adam Port",
-          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
-        },
-        {
-          "name": "Sevdaliza",
-          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
-        },
-        {
-          "name": "Keinemusik",
-          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
-        }
-      ],
-      "duration_ms": 271007,
-      "name": "See You Again",
-      "url": "https://open.spotify.com/track/56UAYL2z5DZoj6qJXGrQsA"
+      "duration_ms": 180842,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V"
     },
     {
       "added_at": "2025-09-26 04:00:28",

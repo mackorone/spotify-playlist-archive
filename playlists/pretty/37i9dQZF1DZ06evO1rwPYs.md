@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 
 > This is Celia Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,279 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,289 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 | 32 | [En El Bajío](https://open.spotify.com/track/6aUudw1WsrAuHc9H4zyHXd) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Azúcar! Caliente](https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3) | 3:00 |
 | 33 | [Pa La Paloma](https://open.spotify.com/track/35NvKX5qqxt2Q9Ma5VVlZJ) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Cuba's Queen Of Rhythm](https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX) | 3:06 |
 | 34 | [Desvelo De Amor](https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [La Tierna, Conmovedora, Bamboleadora](https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I) | 2:54 |
-| 35 | [No Hay Nada Mejor](https://open.spotify.com/track/5CMpOH70qypRlGJBqTxUFx) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Dinámica!](https://open.spotify.com/album/0f3n5513x4jjxDMe8IvAaT) | 2:32 |
-| 36 | [Vasos Vacios](https://open.spotify.com/track/6fbXUe5U907TzwyLeUw4NA) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Duets](https://open.spotify.com/album/3rKykknsy5wADknhS9qzQE) | 4:38 |
+| 35 | [Vasos Vacios](https://open.spotify.com/track/6fbXUe5U907TzwyLeUw4NA) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Duets](https://open.spotify.com/album/3rKykknsy5wADknhS9qzQE) | 4:38 |
+| 36 | [No Hay Nada Mejor](https://open.spotify.com/track/5CMpOH70qypRlGJBqTxUFx) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Dinámica!](https://open.spotify.com/album/0f3n5513x4jjxDMe8IvAaT) | 2:32 |
 | 37 | [Bemba Colorá](https://open.spotify.com/track/6Accdr7Gaply5Ottq7ZmKV) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Viva la Reina de la Salsa](https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU) | 3:31 |
 | 38 | [Nadie Se Salva de la Rumba \- Remastered 2024](https://open.spotify.com/track/5mL4kLnUGSWARxafTkocHM) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D), [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd) | [Tremendo Trio! \(Remastered 2024\)](https://open.spotify.com/album/0p4q1T1q8BOJeWpTbjPK9d) | 5:46 |
 | 39 | [Y Mi Negro Esta Cansao](https://open.spotify.com/track/2lQL2ZIO7m4dE3bMAymTIj) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Cuba's Queen Of Rhythm](https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 | 49 | [Juancito Trucupey](https://open.spotify.com/track/2QPG2p6h37YhkJCzceqrrP) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Las Guarachas De La Guarachera](https://open.spotify.com/album/0tEngAyPWimFTRtVrbbvGB) | 2:46 |
 | 50 | [Esperaré](https://open.spotify.com/track/42o6HDxZXTqUuvGPwOSvTf) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Serenata Guajira](https://open.spotify.com/album/4WKWwc85zSpD2Nd63yN2aM) | 2:32 |
 
-Snapshot ID: `aOG1AAAAAACaxkPRM6v4FkTfBfdx0o66`
+Snapshot ID: `aOMGgAAAAADu6wtKeBu/DhL592V+XZT6`

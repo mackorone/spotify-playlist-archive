@@ -4,7 +4,7 @@
 
 > Lagu\-lagu Pop untuk teman bersantai.
 
-228 songs - 14 hr 59 min
+230 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Garis Terdepan](https://open.spotify.com/track/7vbZI0mSwt6rpsnAoAAUns) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Konspirasi Alam Semesta](https://open.spotify.com/album/5pJVObCUAQ0mcEgV3Rrtji) | 3:33 | 2023-04-17 | 2024-01-18 |
 | [Gaze](https://open.spotify.com/track/6cebiKUXkoLYlaxzDfEPtS) | [Adhitia Sofyan](https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR) | [Forget Your Plan](https://open.spotify.com/album/2nftdSlqgiJ2lN8hu3dCEr) | 5:09 | 2025-08-11 |  |
 | [Hadapi Berdua](https://open.spotify.com/track/1rxcQZWCjRtLucGDKOCclK) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Hadapi Berdua](https://open.spotify.com/album/7yqnXM7Z3r7iFRMKU4FIW6) | 3:55 | 2024-03-05 | 2024-07-22 |
-| [Halal Selamanya](https://open.spotify.com/track/0Lk9VNcKBcmPEhjlC7fo5K) | [Dikta Wicaksono](https://open.spotify.com/artist/0zUPDmk0fO1r3OdJWZxGKj) | [Halal Selamanya](https://open.spotify.com/album/6AkRaIeU2rjDAsIL3S0T7E) | 3:52 | 2025-08-11 |  |
+| [Halal Selamanya](https://open.spotify.com/track/0Lk9VNcKBcmPEhjlC7fo5K) | [Dikta Wicaksono](https://open.spotify.com/artist/0zUPDmk0fO1r3OdJWZxGKj) | [Halal Selamanya](https://open.spotify.com/album/6AkRaIeU2rjDAsIL3S0T7E) | 3:52 | 2025-08-11 | 2025-10-08 |
 | [Hari Itu](https://open.spotify.com/track/06wZo8NQVbOkNKXfYb5X3s) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Hari Itu](https://open.spotify.com/album/52zM9Kzo8pzcXG8LJdt3Mo) | 4:07 | 2024-09-27 | 2025-05-07 |
 | [Harsa](https://open.spotify.com/track/2j6oc2HD7TbgGLfOuInsj9) | [Eros Tjokro](https://open.spotify.com/artist/74pHfOOeja5dJ2BpFhDnG6) | [P.L.S.](https://open.spotify.com/album/58MYY1WC668j8DjvjnI8ib) | 3:09 | 2023-06-23 | 2023-07-07 |
 | [Harus Bahagia](https://open.spotify.com/track/6nPZx4xtBSX1x641ktitSY) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Harus Bahagia](https://open.spotify.com/album/5Hb50nIh6byYRzkyTYHxUG) | 2:53 | 2023-02-23 | 2025-06-24 |
@@ -126,6 +126,7 @@
 | [Lapang Dada](https://open.spotify.com/track/1rpp0SvLCIaW9MLO4EP5Z4) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Musim Yang Baik](https://open.spotify.com/album/55Rgrt92qQCdUgtDJhvsPG) | 3:36 | 2022-12-14 |  |
 | [Lebih Indah](https://open.spotify.com/track/66V6QeI1Y9PQO4J7p7JGJO) | [Adera](https://open.spotify.com/artist/5puPe9ODwSfnmqy5cx90TC) | [Lebih Indah](https://open.spotify.com/album/0Gxnglx23wEe59QoWMux3x) | 4:18 | 2022-12-14 | 2024-04-19 |
 | [Lesung Pipi](https://open.spotify.com/track/2OxvanM5m1Na9OVlXyXmUp) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Lesung Pipi](https://open.spotify.com/album/5HKEezqSNuJSD5Nbrs9bhG) | 3:45 | 2025-06-23 |  |
+| [Lihat Kebunku \(Taman Bunga\)](https://open.spotify.com/track/5dvIK269hL3eZXQMG4Vc2C) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Lihat Kebunku \(Taman Bunga\)](https://open.spotify.com/album/1K1gVX9mqTJuCaLvxL7AIq) | 3:09 | 2025-10-07 |  |
 | [Like All My Friends](https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Like All My Friends](https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq) | 3:07 | 2022-12-14 | 2023-05-04 |
 | [Looking for Love in Wrong Places](https://open.spotify.com/track/4gngdFoZ9jGJcHAlbjWmIZ) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Looking for Love in Wrong Places](https://open.spotify.com/album/1KN2KKeuWwdkimahJ0lmFp) | 4:05 | 2025-08-11 |  |
 | [Losing Us.](https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Losing Us.](https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo) | 3:56 | 2022-12-14 | 2024-04-19 |
@@ -151,6 +152,7 @@
 | [no more you and i](https://open.spotify.com/track/7H6r6d4vum3mzN47bKG0sN) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [no more you and i](https://open.spotify.com/album/5KIKGZwMCqvxlj29yJ8rSK) | 3:20 | 2023-09-20 | 2023-11-08 |
 | [Nuansa Bening](https://open.spotify.com/track/1k5ZInUyMOJRmjxsDE1LKe) | [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Pelangi Di Malam Hari](https://open.spotify.com/album/21LvKljAcxUbAYUEMP6Osx) | 4:42 | 2024-01-16 | 2025-01-08 |
 | [On the Night Like This](https://open.spotify.com/track/0rk3F1mm2Yrvh4zSrNpa0J) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [Friends](https://open.spotify.com/album/4UktwuqbTJJFnsuDhkf7kb) | 1:21 | 2022-12-14 | 2023-04-14 |
+| [Orang Biasa](https://open.spotify.com/track/6YF5BNUUZLFMs2Z96jvovv) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD), [Sisca Saras](https://open.spotify.com/artist/2EB26dHYlQMV3VhPWQEJ7p) | [Orang Biasa](https://open.spotify.com/album/6iouAGOCicSo8yUPxzyUeR) | 3:34 | 2025-10-07 |  |
 | [P.S\. I LOVE YOU](https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [P.S\. I LOVE YOU](https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq) | 4:00 | 2022-12-14 | 2025-04-25 |
 | [P.S\. I LOVE YOU \(feat\. Yuna\)](https://open.spotify.com/track/2tQztJmzQenj4b3VC3mGAb) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [P.S\. I LOVE YOU](https://open.spotify.com/album/5dZlFvMLz5W3utI0LDRndp) | 4:01 | 2023-06-20 | 2025-06-03 |
 | [Pandangan Pertama](https://open.spotify.com/track/7vARkAvliy40kkanvCQvSR) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [RAN For Your Life](https://open.spotify.com/album/1HKU9pkdGXlQfwQoAGSMv8) | 5:00 | 2022-12-14 | 2024-04-19 |
@@ -201,7 +203,7 @@
 | [Somebody's Pleasure](https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure](https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y) | 3:43 | 2023-06-07 |  |
 | [Someday Somewhere Someplace Somehow](https://open.spotify.com/track/5iW3qqHG5YUOA2cM2Aw23h) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [Someday Somewhere Someplace Somehow](https://open.spotify.com/album/5RkP7eRvPKleO6u6GHbrAP) | 4:22 | 2023-12-06 | 2024-03-06 |
 | [Sudut Memori](https://open.spotify.com/track/2ZjaCEltPgL2WqEiCQ2bod) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:19 | 2023-11-07 | 2024-03-06 |
-| [Sunggu Indah](https://open.spotify.com/track/16dSPNURystMsZIIWqNE6B) | [Andy Ambarita](https://open.spotify.com/artist/3D9NDcZAyhtQdEuDdqsAx6) | [Sunggu Indah](https://open.spotify.com/album/4lsEBUgBu0KSVLxlQw4OyP) | 5:38 | 2024-03-05 |  |
+| [Sunggu Indah](https://open.spotify.com/track/16dSPNURystMsZIIWqNE6B) | [Andy Ambarita](https://open.spotify.com/artist/3D9NDcZAyhtQdEuDdqsAx6) | [Sunggu Indah](https://open.spotify.com/album/4lsEBUgBu0KSVLxlQw4OyP) | 5:38 | 2024-03-05 | 2025-10-08 |
 | [Tak Ada Yang Tau](https://open.spotify.com/track/2VQDETrDhT3n2zGQOIWbLh) | [Adiva Adelia](https://open.spotify.com/artist/5YL3oC1bDNrBd1YciWxRsl) | [Tak Ada Yang Tau](https://open.spotify.com/album/00Z1qxvJrc61drHxEdlQNM) | 4:50 | 2025-05-20 | 2025-06-03 |
 | [Tak Apa Akui Lelah](https://open.spotify.com/track/4nZbsIqeA1V9Tua7bmWXtY) | [Banda Neira](https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc) | [Tumbuh dan Menjadi](https://open.spotify.com/album/1iIEfFBj0EbKakft7H6G4M) | 3:47 | 2025-02-12 | 2025-05-07 |
 | [Tak Pernah Padam](https://open.spotify.com/track/0heY4hxgRs6s1wrMtrS3YJ) | [Sandhy Sondoro](https://open.spotify.com/artist/4sZCNSc9bpEa6bjM8Z3NOu) | [Find The Way](https://open.spotify.com/album/3kOVbZ8Ccl83UB9cGTvvi5) | 4:01 | 2022-12-14 | 2024-08-30 |

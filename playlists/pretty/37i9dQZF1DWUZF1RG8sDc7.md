@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,587 likes - 60 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,627 likes - 60 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 32 | [El Amor Es Perdón y Algo Más](https://open.spotify.com/track/6vWblQzMbEMXKq6uZMimhO) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Volando Alto](https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303) | 5:15 |
 | 33 | [Cuando lleguen los millones](https://open.spotify.com/track/6RbTILaocvHxdrgLUYS8Mi) | [Grupo Kvrass](https://open.spotify.com/artist/0xHOGt5gf3A1XJP79Zth9k) | [Cinco Estrellas](https://open.spotify.com/album/2cpbqSDc0kPoLvyCDjoRvn) | 4:37 |
 | 34 | [Casualidad](https://open.spotify.com/track/7tyIylqZUGEcJ9W280KcJe) | [Nelson Velasquez](https://open.spotify.com/artist/0B9fAbZMZTBXUyffDU2Mxj) | [Super Vallenatos 2008](https://open.spotify.com/album/1AhZ43USD4PzQwrtXsoJ4w) | 4:52 |
-| 35 | [No voy a llorar](https://open.spotify.com/track/00sxto6RGzUmb9bev8GmQs) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [30 Mejores](https://open.spotify.com/album/1NHHst2Nybld2rdJZIdUNr) | 4:43 |
-| 36 | [Ya No Me Duele Más](https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Ya No Me Duele Más](https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL) | 3:46 |
+| 35 | [Ya No Me Duele Más](https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Ya No Me Duele Más](https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL) | 3:46 |
+| 36 | [No voy a llorar](https://open.spotify.com/track/00sxto6RGzUmb9bev8GmQs) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [30 Mejores](https://open.spotify.com/album/1NHHst2Nybld2rdJZIdUNr) | 4:43 |
 | 37 | [Amor Sensible](https://open.spotify.com/track/2kqXk0cmW404g5P2iHxOjl) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Clasicos de la Provincia](https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in) | 4:26 |
 | 38 | [La Gemela](https://open.spotify.com/track/0ZHjL0IEpX94Z1S6lqB6xq) | [Los Betos](https://open.spotify.com/artist/69yDCUTFEY2n0pDljFxVKn) | [Enamorandote](https://open.spotify.com/album/5btsdJQmvJRmhgAAro8w6h) | 4:14 |
 | 39 | [Jaime Molina](https://open.spotify.com/track/00KcJmQZDQoSfTPbd1afPP) | [Rafael Escalona](https://open.spotify.com/artist/1eKIYOevfXDbtnLe5saz94) | [Homenaje a Los Grandes Compositores de la Música Tropical Colombiana Volume 3](https://open.spotify.com/album/3Agn1GrWYPQMVqiES3P9JU) | 4:08 |

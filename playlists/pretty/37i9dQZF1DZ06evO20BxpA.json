@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAAAQsSQTUlTIASMv4dPoluUW",
+  "snapshot_id": "aOMGgAAAAADCMrHWMcPhJKbwb5bsoIXJ",
   "tracks": [
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ocean with David Attenborough (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l"
+        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 231440,
-      "name": "Everything is Bathed in Sunlight",
-      "url": "https://open.spotify.com/track/4akPA45cxrfqKBIn7yJIrM"
+      "duration_ms": 175880,
+      "name": "The Process of Extinctions",
+      "url": "https://open.spotify.com/track/0CGFoSLihWAehdjHM8mttL"
     },
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
+        "name": "Ocean with David Attenborough (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 175880,
-      "name": "The Process of Extinctions",
-      "url": "https://open.spotify.com/track/0CGFoSLihWAehdjHM8mttL"
+      "duration_ms": 231440,
+      "name": "Everything is Bathed in Sunlight",
+      "url": "https://open.spotify.com/track/4akPA45cxrfqKBIn7yJIrM"
     },
     {
       "added_at": null,
@@ -527,38 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ocean with David Attenborough (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 111413,
-      "name": "The Shallow Seas",
-      "url": "https://open.spotify.com/track/1vjuL6knzg5Xhh3bdaUUJ7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Assassin (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 273720,
-      "name": "Katrina",
-      "url": "https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ophelia (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
       },
@@ -571,6 +539,22 @@
       "duration_ms": 190840,
       "name": "My Beloved Spake",
       "url": "https://open.spotify.com/track/47H8iYq8d9XQLJAJ4EwNlg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ocean with David Attenborough (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 124746,
+      "name": "New Life Emerging",
+      "url": "https://open.spotify.com/track/45CJPXqDv076QqtdKiKo50"
     },
     {
       "added_at": null,
@@ -591,6 +575,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Long Distance (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KzYrn6OLfXJBI9hudj38G"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 176480,
+      "name": "Webbing",
+      "url": "https://open.spotify.com/track/69h7Qz5Xezti2k4JxvwGK8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Assassin (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 273720,
+      "name": "Katrina",
+      "url": "https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ocean with David Attenborough (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l"
       },
@@ -600,9 +616,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 124746,
-      "name": "New Life Emerging",
-      "url": "https://open.spotify.com/track/45CJPXqDv076QqtdKiKo50"
+      "duration_ms": 111413,
+      "name": "The Shallow Seas",
+      "url": "https://open.spotify.com/track/1vjuL6knzg5Xhh3bdaUUJ7"
     },
     {
       "added_at": null,
@@ -632,9 +648,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 176480,
-      "name": "Webbing",
-      "url": "https://open.spotify.com/track/69h7Qz5Xezti2k4JxvwGK8"
+      "duration_ms": 104760,
+      "name": "Keep Talking",
+      "url": "https://open.spotify.com/track/4MZh8DuykJ5lH1cuk9w0wu"
     },
     {
       "added_at": null,
@@ -703,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long Distance (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4KzYrn6OLfXJBI9hudj38G"
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
       },
       "artists": [
         {
@@ -712,9 +728,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 104760,
-      "name": "Keep Talking",
-      "url": "https://open.spotify.com/track/4MZh8DuykJ5lH1cuk9w0wu"
+      "duration_ms": 421893,
+      "name": "To Lose Himself in Vengeance",
+      "url": "https://open.spotify.com/track/7yZWl27qFbjZ8C7GKCSl0s"
     },
     {
       "added_at": null,
@@ -728,9 +744,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 170853,
-      "name": "Beneath the Waves",
-      "url": "https://open.spotify.com/track/23O15V55JN6XeEwXFAA30v"
+      "duration_ms": 313640,
+      "name": "Out of the Emptiness",
+      "url": "https://open.spotify.com/track/3TNPg4o0LkVjqnySb1Auh5"
     },
     {
       "added_at": null,
@@ -767,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ophelia (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+        "name": "Long Distance (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KzYrn6OLfXJBI9hudj38G"
       },
       "artists": [
         {
@@ -776,9 +792,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 421893,
-      "name": "To Lose Himself in Vengeance",
-      "url": "https://open.spotify.com/track/7yZWl27qFbjZ8C7GKCSl0s"
+      "duration_ms": 109466,
+      "name": "A Three Percent Chance",
+      "url": "https://open.spotify.com/track/19B8Y8wE7yE0OFJhbfAQdz"
     },
     {
       "added_at": null,
@@ -795,22 +811,6 @@
       "duration_ms": 212453,
       "name": "Flook",
       "url": "https://open.spotify.com/track/71I9kSO11dSWteAgNKuqTB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joy (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 103546,
-      "name": "A Good Choice",
-      "url": "https://open.spotify.com/track/2Mvcw8ipecGUVqLIdIpg4W"
     }
   ],
   "unique_name": "This Is Steven Price",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 
 > Music from "Aikatsu!", a story of young girls dreaming of becoming a top idol\. \(C\)BNP/BANDAI, DENTSU, TV TOKYO
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,750 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,763 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 | 13 | [Signalize!](https://open.spotify.com/track/6t0AeW9qsw25DjexIPnv0N) | [わか・ふうり・すなお・りすこ from STAR☆ANIS](https://open.spotify.com/artist/6Ru9Kvy46mcqUebJUbrpzq) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 1年目1](https://open.spotify.com/album/4m4sqRHHpPhSXtocfoCWvM) | 4:59 |
 | 14 | [Trap of Love](https://open.spotify.com/track/60kngDFK7Nm65hx1Wtep9L) | [すなお・わか・ふうりfrom STAR☆ANIS](https://open.spotify.com/artist/6RpwpNe7IKfyiPrEaw0FhA) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 1年目1](https://open.spotify.com/album/4m4sqRHHpPhSXtocfoCWvM) | 3:51 |
 | 15 | [ヒラリ/ヒトリ/キラリ](https://open.spotify.com/track/4ncCjEtU9DtFWtcYhEeIea) | [わか・ふうり・すなお・れみ・もえ・えり・ゆな・りすこ from STAR☆ANIS](https://open.spotify.com/artist/5hwNeskygEMGhykhX2ngk1) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 1年目2](https://open.spotify.com/album/1i7eKjaA0dNEBcKz3nisHZ) | 4:22 |
-| 16 | [笑顔のSuncatcher](https://open.spotify.com/track/1S2ZD6SK91Eib0PFS5OEog) | [りすこ・もな from STAR☆ANIS](https://open.spotify.com/artist/6DqNY6UBmepUTJylVFIiva) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 2年目2](https://open.spotify.com/album/2HJdoqtoKMRUBkhFwHwXqX) | 4:50 |
+| 16 | [ハッピィクレッシェンド](https://open.spotify.com/track/394DACK4OObJwCGTCAzPbC) | [わか・ふうり・すなお・れみ・ゆな・えり from STAR☆ANIS](https://open.spotify.com/artist/2vrc7Q9n1doChHTUALK8NZ) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 2年目1](https://open.spotify.com/album/2cVQpyIVCOscg2MCdgWpRT) | 4:39 |
 | 17 | [KIRA☆Power](https://open.spotify.com/track/0MuXCzhhtfZbGwvCu5bmWm) | [わか・ふうり・すなお from STAR☆ANIS](https://open.spotify.com/artist/0xzkx0ukfziouCZGRJ54Tx) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 2年目1](https://open.spotify.com/album/2cVQpyIVCOscg2MCdgWpRT) | 4:46 |
-| 18 | [ハッピィクレッシェンド](https://open.spotify.com/track/394DACK4OObJwCGTCAzPbC) | [わか・ふうり・すなお・れみ・ゆな・えり from STAR☆ANIS](https://open.spotify.com/artist/2vrc7Q9n1doChHTUALK8NZ) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 2年目1](https://open.spotify.com/album/2cVQpyIVCOscg2MCdgWpRT) | 4:39 |
+| 18 | [笑顔のSuncatcher](https://open.spotify.com/track/1S2ZD6SK91Eib0PFS5OEog) | [りすこ・もな from STAR☆ANIS](https://open.spotify.com/artist/6DqNY6UBmepUTJylVFIiva) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 2年目2](https://open.spotify.com/album/2HJdoqtoKMRUBkhFwHwXqX) | 4:50 |
 | 19 | [lucky train!](https://open.spotify.com/track/0DbgUaXVS1fWstJbHq9pNG) | [るか・もな・みき from AIKATSU☆STARS!](https://open.spotify.com/artist/6SlV2XvL2mIbMC3AQKAvU6) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 4年目](https://open.spotify.com/album/33FEqBU7HvfqrWtpaOiHRT) | 4:30 |
 | 20 | [硝子ドール](https://open.spotify.com/track/5yFfhtvMQmPxppKzkMdrVe) | [もえ・すなおfrom STAR☆ANIS](https://open.spotify.com/artist/7gJpKnrG91W93jUXJTm3za) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 1年目1](https://open.spotify.com/album/4m4sqRHHpPhSXtocfoCWvM) | 6:25 |
 | 21 | [Prism Spiral](https://open.spotify.com/track/6V4g2n8y4sbkBtH7SDxqCq) | [ふうりfrom STAR☆ANIS](https://open.spotify.com/artist/771vqu96tF85Qf79ASyp2K) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 1年目1](https://open.spotify.com/album/4m4sqRHHpPhSXtocfoCWvM) | 4:05 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 | 23 | [Take Me Higher](https://open.spotify.com/track/46gmSoLWxy4OWXtTdvaWH3) | [りすこ・もえ・ゆな from STAR☆ANIS](https://open.spotify.com/artist/6hU7pWoYqtdww2Xb5LL0jv) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 1年目2](https://open.spotify.com/album/1i7eKjaA0dNEBcKz3nisHZ) | 4:05 |
 | 24 | [Let's アイカツ!](https://open.spotify.com/track/4kjxHkybTABZi84NuXJ9sv) | [るか・もな・みき from AIKATSU☆STARS!](https://open.spotify.com/artist/6SlV2XvL2mIbMC3AQKAvU6) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 3年目1](https://open.spotify.com/album/3dbKvUmC2KAWgTWkVPDQ7Y) | 4:20 |
 | 25 | [チュチュ・バレリーナ](https://open.spotify.com/track/6z8ammxdXPxqoKsO0KQnz8) | [もな・るか・みき from AIKATSU☆STARS!](https://open.spotify.com/artist/6JVhciihf3K1vdE48ym5Vk) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 3年目2](https://open.spotify.com/album/4M12YvwwGbcwexRTydDy4H) | 4:45 |
-| 26 | [Growing for a dream](https://open.spotify.com/track/5TlBBszrXJCUmMKGQxvQzm) | [わかfrom STAR☆ANIS](https://open.spotify.com/artist/3OJmzShbWK77VWMFFd2UnB) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 1年目1](https://open.spotify.com/album/4m4sqRHHpPhSXtocfoCWvM) | 3:20 |
-| 27 | [フレンド](https://open.spotify.com/track/3S1bK3iECR7V08pQBcnj5f) | [わか・ふうり from STAR☆ANIS](https://open.spotify.com/artist/0PZJ3espREBVEYDIypZoBI) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 2年目2](https://open.spotify.com/album/2HJdoqtoKMRUBkhFwHwXqX) | 3:47 |
+| 26 | [フレンド](https://open.spotify.com/track/3S1bK3iECR7V08pQBcnj5f) | [わか・ふうり from STAR☆ANIS](https://open.spotify.com/artist/0PZJ3espREBVEYDIypZoBI) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 2年目2](https://open.spotify.com/album/2HJdoqtoKMRUBkhFwHwXqX) | 3:47 |
+| 27 | [Growing for a dream](https://open.spotify.com/track/5TlBBszrXJCUmMKGQxvQzm) | [わかfrom STAR☆ANIS](https://open.spotify.com/artist/3OJmzShbWK77VWMFFd2UnB) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 1年目1](https://open.spotify.com/album/4m4sqRHHpPhSXtocfoCWvM) | 3:20 |
 | 28 | [永遠の灯](https://open.spotify.com/track/7ntoPRubtgzGjmV7ugElDs) | [れみ・ふうり from STAR☆ANIS](https://open.spotify.com/artist/3F5qIrsmmNc7q2qIb3sY0f) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 2年目2](https://open.spotify.com/album/2HJdoqtoKMRUBkhFwHwXqX) | 4:02 |
 | 29 | [Good morning my dream](https://open.spotify.com/track/0e44q8PfRLKjPyIMWbmxYC) | [るか・もな・みき from AIKATSU☆STARS!](https://open.spotify.com/artist/6SlV2XvL2mIbMC3AQKAvU6) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 3年目1](https://open.spotify.com/album/3dbKvUmC2KAWgTWkVPDQ7Y) | 4:18 |
 | 30 | [Kira・pata・shining](https://open.spotify.com/track/2FnIKQYAVX0xtcoZgvMxd3) | [すなお from STAR☆ANIS](https://open.spotify.com/artist/75ALaxGClrqPrdEXeYuOfw) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 2年目1](https://open.spotify.com/album/2cVQpyIVCOscg2MCdgWpRT) | 3:52 |

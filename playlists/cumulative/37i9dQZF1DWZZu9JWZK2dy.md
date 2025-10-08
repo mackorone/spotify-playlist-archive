@@ -128,7 +128,7 @@
 | [空色デイズ](https://open.spotify.com/track/4EkbGJChszyxhEP0bIwBSZ) | [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS) | [しょこたん☆べすと――\(°∀°\)――!!](https://open.spotify.com/album/5kgH0okVwbTC2dfpyCtnOA) | 4:12 | 2022-07-06 | 2024-04-19 |
 | [空色デイズ](https://open.spotify.com/track/2jdezHlpt5r5hDjVC7hOpU) | [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS) | [空色デイズ](https://open.spotify.com/album/6QQjdYug6EI0gVGdq2HcEk) | 4:13 | 2021-09-14 |  |
 | [衝動](https://open.spotify.com/track/0s38Mpf6UkodyUtYCTaZav) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [衝動](https://open.spotify.com/album/508GKIOACUpVhhhQkh7O7w) | 3:14 | 2021-09-14 |  |
-| [逆さまの蝶](https://open.spotify.com/track/2oK9OQovYbhvg4htr8MGLR) | [Snow](https://open.spotify.com/artist/6xmxPrejTuDCgGzgLNp9sp) | [逆さまの蝶](https://open.spotify.com/album/0C3Hpb2MBpxH0Sjzm9Mto2) | 4:33 | 2021-09-14 |  |
+| [逆さまの蝶](https://open.spotify.com/track/2oK9OQovYbhvg4htr8MGLR) | [SNoW](https://open.spotify.com/artist/6xmxPrejTuDCgGzgLNp9sp) | [逆さまの蝶](https://open.spotify.com/album/0C3Hpb2MBpxH0Sjzm9Mto2) | 4:33 | 2021-09-14 |  |
 | [逆さまの蝶](https://open.spotify.com/track/7gaaMd98dW4ssle6fc1fBh) | [Snow](https://open.spotify.com/artist/6xmxPrejTuDCgGzgLNp9sp) | [初雪](https://open.spotify.com/album/0fZVnR1Fvucd3SBKHfmBs3) | 4:33 | 2022-07-06 | 2024-04-19 |
 | [風になる](https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD) | [Tsuji Ayano](https://open.spotify.com/artist/73kAoAaI4yjMeHuLwpsL4i) | [恋恋風歌](https://open.spotify.com/album/0PeCvuASxym6PnrEzvBCl7) | 4:36 | 2021-09-14 |  |
 

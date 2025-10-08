@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 
 > Música ambiental para un sueño profundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,854,286 likes - 355 songs - 16 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,854,650 likes - 355 songs - 16 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -364,4 +364,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 | 354 | [Cantus Serenus](https://open.spotify.com/track/2ZDghOcBlT8i8kma1eubl8) | [Abstract Mountain View](https://open.spotify.com/artist/0vxIk09pd5opGhXmOFq2cS) | [Cantus Serenus](https://open.spotify.com/album/0VCtLIJZJjnlJiYQOGR3T0) | 3:14 |
 | 355 | [When The Day Fades](https://open.spotify.com/track/2zmweAUpApR2KRZV9Xca8v) | [Salomon Isle](https://open.spotify.com/artist/48J1kuqZgr2pNtsN8BxhZu) | [When The Day Fades](https://open.spotify.com/album/7eqQS1uXmbwUk9weF1Cps4) | 2:31 |
 
-Snapshot ID: `AAAAAJoIfj9jOp40FdQ0JwZtMrDK07uy`
+Snapshot ID: `AAAAAGCtSKpE335PBEKX+D1yGK+kqZEE`

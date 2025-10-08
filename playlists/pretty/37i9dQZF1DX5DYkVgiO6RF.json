@@ -1,36 +1,28 @@
 {
   "description": "all cruise, no breaks ",
-  "num_followers": 641335,
+  "num_followers": 641768,
   "original_name": "Night Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANnJKfTWeJTx0GKNhWmfvr9YvPj0",
+  "snapshot_id": "AAAAAH+QdKFDhO3NlEo/5HFoZBaxsR2I",
   "tracks": [
     {
-      "added_at": "2025-07-03 16:25:32",
+      "added_at": "2025-09-27 19:44:00",
       "album": {
-        "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
-        "url": "https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8"
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
       },
       "artists": [
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 209051,
-      "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
-      "url": "https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf"
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
     },
     {
       "added_at": "2024-08-20 15:16:49",
@@ -53,20 +45,28 @@
       "url": "https://open.spotify.com/track/74rvo4QWd2LXGRvm7S07kq"
     },
     {
-      "added_at": "2025-09-27 19:44:00",
+      "added_at": "2024-08-20 15:16:49",
       "album": {
-        "name": "Dracula",
-        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
+        "name": "The Idol Episode 4 (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Lily-Rose Depp",
+          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
         }
       ],
-      "duration_ms": 205308,
-      "name": "Dracula",
-      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
+      "duration_ms": 244684,
+      "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+      "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
       "added_at": "2025-09-19 04:00:19",
@@ -205,28 +205,28 @@
       "url": "https://open.spotify.com/track/3QOZzMwbyCNVaDgUXdvu8Y"
     },
     {
-      "added_at": "2024-08-20 15:16:49",
+      "added_at": "2025-07-03 16:25:32",
       "album": {
-        "name": "The Idol Episode 4 (Music from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
+        "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
+        "url": "https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         },
         {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         },
         {
-          "name": "Lily-Rose Depp",
-          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
         }
       ],
-      "duration_ms": 244684,
-      "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
-      "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
+      "duration_ms": 209051,
+      "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
+      "url": "https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf"
     },
     {
       "added_at": "2024-08-20 15:16:49",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-08-20 15:16:49",
       "album": {
-        "name": "T R A P S O U L",
-        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 194613,
-      "name": "Exchange",
-      "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
-    },
-    {
-      "added_at": "2024-08-20 15:16:49",
-      "album": {
         "name": "Blonde",
         "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 241160,
       "name": "Power Trip (feat. Miguel)",
       "url": "https://open.spotify.com/track/2uwnP6tZVVmTovzX5ELooy"
+    },
+    {
+      "added_at": "2024-08-20 15:16:49",
+      "album": {
+        "name": "T R A P S O U L",
+        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 194613,
+      "name": "Exchange",
+      "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
     },
     {
       "added_at": "2024-08-20 15:16:49",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-08-20 15:16:49",
       "album": {
-        "name": "White Light",
-        "url": "https://open.spotify.com/album/0Iq6APTGuGPe875jV0rIw2"
-      },
-      "artists": [
-        {
-          "name": "Sidewalks and Skeletons",
-          "url": "https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1"
-        }
-      ],
-      "duration_ms": 207120,
-      "name": "Goth",
-      "url": "https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6"
-    },
-    {
-      "added_at": "2024-08-20 15:16:49",
-      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 259146,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v"
+    },
+    {
+      "added_at": "2024-08-20 15:16:49",
+      "album": {
+        "name": "White Light",
+        "url": "https://open.spotify.com/album/0Iq6APTGuGPe875jV0rIw2"
+      },
+      "artists": [
+        {
+          "name": "Sidewalks and Skeletons",
+          "url": "https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1"
+        }
+      ],
+      "duration_ms": 207120,
+      "name": "Goth",
+      "url": "https://open.spotify.com/track/0uMZbmAAgOhdMrv25iPEH6"
     },
     {
       "added_at": "2024-08-20 15:16:49",

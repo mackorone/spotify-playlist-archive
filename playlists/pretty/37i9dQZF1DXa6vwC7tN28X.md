@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 
 > Tangueros \- Rockeros, Rockeros \- Tangueros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,849 likes - 45 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,854 likes - 45 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 25 | [Siga El Baile \(with Alberto Castillo\)](https://open.spotify.com/track/0W1R6AOWnBzeRZPLcrkJKW) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Alberto Castillo](https://open.spotify.com/artist/14KUc7zg3OndrAMbCNxPBD) | [Obras Cumbres](https://open.spotify.com/album/1IT1pWbVY68eVznVAKm1Ye) | 2:29 |
 | 26 | [Carabelas Nada](https://open.spotify.com/track/6vgPBFsZOOjrlVPLlamQHj) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Carabelas Nada](https://open.spotify.com/album/6i37stRS1hsLchPh8qpBtz) | 4:43 |
 | 27 | [Imágenes Paganas](https://open.spotify.com/track/3lmGeqAuMWrplZLL378Cng) | [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE) | [Menesunda: Tangolencia Rockera](https://open.spotify.com/album/1IpvQiqJN7fIQCgXBQqXGf) | 2:22 |
-| 28 | [Tomo y Obligo](https://open.spotify.com/track/7vom0QDBkmCppCpusL97zQ) | [Javier Calamaro](https://open.spotify.com/artist/6tPLRbaYWgZXppgsyKQ2M5) | [Villavicio](https://open.spotify.com/album/0caLBmefMPuGsowMfTuMeh) | 2:42 |
-| 29 | [Laura Va](https://open.spotify.com/track/0IfhIK11A9J3IqQIf5WhRo) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 2:52 |
+| 28 | [Laura Va](https://open.spotify.com/track/0IfhIK11A9J3IqQIf5WhRo) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 2:52 |
+| 29 | [Tomo y Obligo](https://open.spotify.com/track/7vom0QDBkmCppCpusL97zQ) | [Javier Calamaro](https://open.spotify.com/artist/6tPLRbaYWgZXppgsyKQ2M5) | [Villavicio](https://open.spotify.com/album/0caLBmefMPuGsowMfTuMeh) | 2:42 |
 | 30 | [El Vino Triste](https://open.spotify.com/track/7KO3n68SPMyh9MFAQDWU9j) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Raúl Lavié](https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D) | [El Vino Triste \(feat\. Raúl Lavié\)](https://open.spotify.com/album/07G5T8FaZTFYRNtawKaPHQ) | 2:53 |
 | 31 | [Plegaria para un niño dormido](https://open.spotify.com/track/3hW3s0ClWYEKdDVZnwKZYU) | [Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Invierno](https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa) | 3:47 |
 | 32 | [Las Tribus](https://open.spotify.com/track/0Hnne5lFK5ppt6UO4BzYjc) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Martingala](https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc) | 3:45 |

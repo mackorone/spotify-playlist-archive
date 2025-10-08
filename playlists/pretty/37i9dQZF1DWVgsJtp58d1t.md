@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:2IK173RXLiCSQ8fhDlAb3s">Adekunle Gold</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,091,475 likes - 150 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,091,474 likes - 150 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

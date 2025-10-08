@@ -4,7 +4,7 @@
 
 > The world series of Ska\. Cover: Tokyo Ska Paradise Orchestra
 
-697 songs - 1 day 16 hr 4 min
+698 songs - 1 day 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Demencia](https://open.spotify.com/track/3hms0jV0Us7m2IReVFoZjt) | [Los Skaterrestres](https://open.spotify.com/artist/4t2NDEU8KTAPTR5hjv2dbs) | [Ska Wars Monterrey](https://open.spotify.com/album/4GVKRzrnEk8sVoiow3G51x) | 2:38 | 2021-12-06 | 2022-07-29 |
 | [Demons in Control](https://open.spotify.com/track/6X0KwseWRxxArMgr35zGph) | [Happy Drunk Cartel](https://open.spotify.com/artist/3EO7yKb1x52BOHJvaJTzVB) | [Skanking in the Pit, Vol\. 1](https://open.spotify.com/album/4dMnr2qNsrc83dD3UBQt57) | 3:36 | 2021-12-06 | 2022-07-26 |
 | [Der Song den jeder kennt](https://open.spotify.com/track/0Qev6YcGtupcouKqxrfrWz) | [D´Hundskrippln](https://open.spotify.com/artist/4x4nSliAvh7RM7dVxbs9aP) | [Der Song den jeder kennt](https://open.spotify.com/album/1QznBcpyezEPKPfrEUh4Qw) | 2:38 | 2023-07-28 | 2023-09-15 |
-| [Desert Rose](https://open.spotify.com/track/5linz6qsBH5UVIrfOWCVym) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb), [Clive Hunt](https://open.spotify.com/artist/0TYvtIjZSDStLhh3wfKHy8) | [Desert Rose](https://open.spotify.com/album/4uAyfl6NyFaVteeadFLOA5) | 4:00 | 2025-04-11 |  |
+| [Desert Rose](https://open.spotify.com/track/5linz6qsBH5UVIrfOWCVym) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb), [Clive Hunt](https://open.spotify.com/artist/0TYvtIjZSDStLhh3wfKHy8) | [Desert Rose](https://open.spotify.com/album/4uAyfl6NyFaVteeadFLOA5) | 4:00 | 2025-04-11 | 2025-10-08 |
 | [Despideme](https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv) | [Skalariak](https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ) | [Radio Ghetto](https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ) | 3:18 | 2021-12-06 |  |
 | [Devil With a Microphone](https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF) | [Random Hand](https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb) | [Random Hand](https://open.spotify.com/album/5IUr8JaIyJvTN4nU293VHC) | 3:12 | 2023-09-29 |  |
 | [Dia Seguinte](https://open.spotify.com/track/5UOQw5b2rvKBmDfkFSIauk) | [Guantas](https://open.spotify.com/artist/3p50dE2v8qcMvPXjzAKUXf) | [Guantas](https://open.spotify.com/album/1zSGiGOccDEpWDjpC2bzsb) | 3:49 | 2021-12-06 | 2022-07-25 |
@@ -479,6 +479,7 @@
 | [Rudie Can't Fail \- Remastered](https://open.spotify.com/track/2otV4r71lH2kMmniSmKrmG) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 3:28 | 2021-12-06 | 2024-05-28 |
 | [Rudie Can´t Fail](https://open.spotify.com/track/3eFQj0Pa6ZAtQx8J0HdNCw) | [Scrapy](https://open.spotify.com/artist/31sW9LTLOAs8eQWkdz0qwP) | [Unsteady Times](https://open.spotify.com/album/7uL5sXoOubW9cM1ynvTt1n) | 3:49 | 2021-12-06 | 2022-07-29 |
 | [Rudo, Duro, Rudo](https://open.spotify.com/track/3nYK0kwqcLHOfgi9T2f8wm) | [Komando Moriles](https://open.spotify.com/artist/3tAAivKTTNGqTYhyRXv7S2) | [Recomendado \(Por 28 de Cada 27 Fabricantes de Lavadoras\)](https://open.spotify.com/album/0ROMoN0Y08JB9r4vp3RTol) | 2:49 | 2021-12-06 | 2022-07-25 |
+| [Rudy Come Home](https://open.spotify.com/track/6tRydI62ouOLxHAIPMv9tZ) | [Death Of Guitar Pop](https://open.spotify.com/artist/6fD5uxjcSC0aF0FO61e5id) | [Rudy Come Home](https://open.spotify.com/album/4BXqCarGoMoEtcD0hrnuxq) | 4:00 | 2025-10-03 |  |
 | [Rudy Rude Boy](https://open.spotify.com/track/0knRFhZtR19PH5qteuV778) | [Los Skarnales](https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n) | [Vatos Rudos Forever! \(1994\-2014\)](https://open.spotify.com/album/73GO7U8UfkyfRcTe2Al0yt) | 3:30 | 2021-12-06 | 2022-07-29 |
 | [Runaway](https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [The Original Wailers](https://open.spotify.com/artist/5OjaCQpOgXRm51CdZzLAHW) | [Pericos & Friends](https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua) | 3:53 | 2021-12-06 |  |
 | [Runnin' Out Of Fools](https://open.spotify.com/track/0NujRGPKD4hlAerFgSzfUm) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Los Aggrotones](https://open.spotify.com/artist/6A2Us7Q6b6rVnUATaqjUv6) | [Stormy, 60's Soul Tunes Inna Reggae Style](https://open.spotify.com/album/6UdUhACZTRwwLynS78hXwF) | 3:39 | 2021-12-06 | 2022-07-27 |

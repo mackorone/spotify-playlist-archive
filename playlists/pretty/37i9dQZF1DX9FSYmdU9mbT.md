@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Caetano & Bethânia
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,446,243 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,446,544 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,13 +26,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 16 | [Paciência](https://open.spotify.com/track/4HHDRt7w95ewCrZtRS8djw) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Lenine In Cité \(Deluxe\)](https://open.spotify.com/album/0wqZdjiUhFzPahuSLMcDnI) | 3:51 |
 | 17 | [Que Beleza](https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Que Beleza](https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK) | 3:28 |
 | 18 | [Sina](https://open.spotify.com/track/2kgT6sMwXd3mdeXhBbLMQe) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Luz](https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x) | 5:32 |
-| 19 | [Samba da Bênção](https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV), [Marcel Powell](https://open.spotify.com/artist/6lBcd5Fz4Tq0EO97KpPLgR) | [Que Falta Você Me Faz](https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs) | 3:02 |
-| 20 | [Deus Me Proteja](https://open.spotify.com/track/4Ijct6HkKsC9HQVgcnMe7C) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [francisco forró y frevo](https://open.spotify.com/album/08J9fO5TtYRrAO4LkplP8D) | 4:53 |
-| 21 | [Clube Da Esquina Nº2 \- Acústico](https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Nada Será Como Antes \(Acústico\)](https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc) | 4:30 |
+| 19 | [Clube Da Esquina Nº2 \- Acústico](https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Nada Será Como Antes \(Acústico\)](https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc) | 4:30 |
+| 20 | [Samba da Bênção](https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV), [Marcel Powell](https://open.spotify.com/artist/6lBcd5Fz4Tq0EO97KpPLgR) | [Que Falta Você Me Faz](https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs) | 3:02 |
+| 21 | [Deus Me Proteja](https://open.spotify.com/track/4Ijct6HkKsC9HQVgcnMe7C) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [francisco forró y frevo](https://open.spotify.com/album/08J9fO5TtYRrAO4LkplP8D) | 4:53 |
 | 22 | [Queixa](https://open.spotify.com/track/1NIAQbzrcpqoaZd3sNFFKJ) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Cores, Nomes](https://open.spotify.com/album/1xAQ6kW7DQZxTghyepHtzm) | 4:23 |
 | 23 | [Tá perdoado](https://open.spotify.com/track/5ua6ByZaOw4hlMP6i8Vjdz) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Samba Meu](https://open.spotify.com/album/6oExFGPwXHfHwBFsgQsUC9) | 3:47 |
-| 24 | [Reconvexo \- Ao Vivo](https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Amor Festa Devoção Ao Vivo](https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38) | 5:00 |
-| 25 | [Meu Bem\-Querer \(Ao Vivo\)](https://open.spotify.com/track/5ogHB4oYt1C7kaWJYm5MDG) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Djavan "Ao Vivo"](https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7) | 4:14 |
+| 24 | [Meu Bem\-Querer \(Ao Vivo\)](https://open.spotify.com/track/5ogHB4oYt1C7kaWJYm5MDG) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Djavan "Ao Vivo"](https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7) | 4:14 |
+| 25 | [Reconvexo \- Ao Vivo](https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Amor Festa Devoção Ao Vivo](https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38) | 5:00 |
 | 26 | [Bom\-Senso](https://open.spotify.com/track/7j2ExpvZTeURjspK443YKU) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Racional \(Vol 1\)](https://open.spotify.com/album/7J9wATH6I891OTHteIWSEj) | 5:05 |
 | 27 | [Fé \- Ao Vivo](https://open.spotify.com/track/0JBC2rItQc5K8wMZrMDV2r) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Fé \(Ao Vivo\)](https://open.spotify.com/album/0fwc0d0RgaCypAt32HGICQ) | 3:32 |
 | 28 | [Gente Aberta](https://open.spotify.com/track/0MT6ecgiLweuA4nd9NTGll) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 2:20 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 49 | [Andar Com Fé](https://open.spotify.com/track/5IRaXLiPevrMXjToXtD3Rm) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Andar Com Fé](https://open.spotify.com/album/7u1F0ffa1xp774Eyht8K7w) | 3:14 |
 | 50 | [Encontro](https://open.spotify.com/track/4THhSMVKTUASFp9N3mYlVU) | [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Maria Gadú](https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF) | 3:24 |
 | 51 | [Outra Vez](https://open.spotify.com/track/33dHjdJ014lYbaQ0DXfzKw) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Outra Vez](https://open.spotify.com/album/2NylFxVu73peifK68z2fuc) | 4:14 |
-| 52 | [Pérola Negra \- Ao Vivo](https://open.spotify.com/track/0l9BjXMUwxN8QHmD8n7hFF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Estratosférica Ao Vivo](https://open.spotify.com/album/7eSEnOlFor4HMoblLfwLXz) | 5:00 |
-| 53 | [Futuros Amantes](https://open.spotify.com/track/6sbrjXKaQJWJvcnHCeEwcs) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque Essencial \(Box\)](https://open.spotify.com/album/4gafiyqvGbedBLQku5vFQQ) | 3:30 |
+| 52 | [Futuros Amantes](https://open.spotify.com/track/6sbrjXKaQJWJvcnHCeEwcs) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque Essencial \(Box\)](https://open.spotify.com/album/4gafiyqvGbedBLQku5vFQQ) | 3:30 |
+| 53 | [Pérola Negra \- Ao Vivo](https://open.spotify.com/track/0l9BjXMUwxN8QHmD8n7hFF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Estratosférica Ao Vivo](https://open.spotify.com/album/7eSEnOlFor4HMoblLfwLXz) | 5:00 |
 | 54 | [Rosa de Hiroshima](https://open.spotify.com/track/5BUmMyyJviZZ5XxVyfUAjO) | [Secos & Molhados](https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm) | [Gigantes](https://open.spotify.com/album/0hIgIeXzJlQEEDQcrKJ6Wv) | 1:58 |
 | 55 | [Malandro](https://open.spotify.com/track/4QKBTRNlO2JhK16ZvTjlhU) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Lição de Vida](https://open.spotify.com/album/6kiq9bXzRbrqefDZS2llhA) | 3:11 |
 | 56 | [Mutirão de Amor \- Ao Vivo](https://open.spotify.com/track/0yL2NJPP19vdualPdOCWet) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo), [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Eterna Alegria \(Special Edition\) \[Ao Vivo\]](https://open.spotify.com/album/5Cl79Wr1ZukFvRGM2zgG7z) | 3:25 |

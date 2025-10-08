@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 152622,
+  "num_followers": 152619,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAAANsGN5MTqXuBR6p6sso+/1",
+  "snapshot_id": "aOMGgAAAAAD9hJjBX/wvonpmsO5n3dRK",
   "tracks": [
     {
       "added_at": null,
@@ -427,18 +427,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bolero",
-        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+        "name": "Qu\u00e9 Agon\u00eda (Remix)",
+        "url": "https://open.spotify.com/album/6sV3b096rORDwNqdIh2CgK"
       },
       "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        },
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 226973,
-      "name": "Piensa en M\u00ed",
-      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
+      "duration_ms": 188206,
+      "name": "Qu\u00e9 Agon\u00eda - Remix",
+      "url": "https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j"
     },
     {
       "added_at": null,
@@ -475,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 226973,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
         "url": "https://open.spotify.com/album/6HyjP6pRKQtfkeqHkuZD3T"
       },
@@ -491,30 +515,6 @@
       "duration_ms": 210042,
       "name": "Fue un Placer Conocerte",
       "url": "https://open.spotify.com/track/1tR9gMkQ507oO0XTcMweQj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Qu\u00e9 Agon\u00eda (Remix)",
-        "url": "https://open.spotify.com/album/6sV3b096rORDwNqdIh2CgK"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        },
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 188206,
-      "name": "Qu\u00e9 Agon\u00eda - Remix",
-      "url": "https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j"
     },
     {
       "added_at": null,

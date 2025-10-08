@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الخليجية\. الغلاف: عايض
 
-221 songs - 15 hr 53 min
+222 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Alsaa Kam](https://open.spotify.com/track/0XK1Pijju1M9oGvw1GG1cf) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Alsaa Kam](https://open.spotify.com/album/1UM0MyiJRdPqVgDuRKlRCb) | 3:57 | 2024-11-28 | 2025-07-01 |
 | [Ana Akbar Men Kalam Ely](https://open.spotify.com/track/0XLP04Gnei7eCA33w2czkN) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Ana Akbar Men Kalam Ely](https://open.spotify.com/album/0yvVg9Nvu8of38AXaexOBD) | 6:10 | 2024-10-15 | 2025-07-01 |
 | [Anazer Al Shobak](https://open.spotify.com/track/2TknqlPsUyLXkljtqw3LYW) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Anazer Al Shobak](https://open.spotify.com/album/62v0FmhF6h77bAoQUBrMmP) | 4:18 | 2024-07-04 |  |
-| [Asaal El Najma](https://open.spotify.com/track/0brYzmKMkq8NGF7Y1W2VQ1) | [Khaled Abdul Rahman](https://open.spotify.com/artist/6X5jPcdNTzdvOnOGhLTXyX) | [Asaal El Najma](https://open.spotify.com/album/5J6mbficCluwFxHcCvXNu9) | 4:10 | 2024-11-18 |  |
+| [Asaal El Najma](https://open.spotify.com/track/0brYzmKMkq8NGF7Y1W2VQ1) | [Khaled Abdul Rahman](https://open.spotify.com/artist/6X5jPcdNTzdvOnOGhLTXyX) | [Asaal El Najma](https://open.spotify.com/album/5J6mbficCluwFxHcCvXNu9) | 4:10 | 2024-11-18 | 2025-10-08 |
 | [Ashan Al Eshrah \(6\)](https://open.spotify.com/track/0Qw2eL45SZkglxhnb1R0m9) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Kol El Khata](https://open.spotify.com/album/4nKtbyAZFU6hu8lZAztO7c) | 4:37 | 2022-10-04 | 2023-10-12 |
 | [Ashoof AL Afyiah](https://open.spotify.com/track/04RQf3c5aAqLmd07WHaCFN) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Ashoof AL Afyiah](https://open.spotify.com/album/6zi460Vd6Xflq0YRgxrUpX) | 3:35 | 2024-05-15 |  |
 | [Baad El Ahyan](https://open.spotify.com/track/236Rsa1TC6X2HDUkCkv3vH) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Baad El Ahyan](https://open.spotify.com/album/5YSBcsruTgThOJajX9qsXV) | 4:47 | 2024-11-11 | 2025-07-01 |
@@ -73,6 +73,7 @@
 | [Ghazal Ma Yensady](https://open.spotify.com/track/5EKVL6XHsGCWeMik7XBMh8) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [Ghazal Ma Yensady](https://open.spotify.com/album/1llAZW89HSt3gIZ0UOcLHI) | 6:35 | 2022-04-07 | 2023-04-30 |
 | [Habeetah](https://open.spotify.com/track/2BFY9ag7SFQu5I3oATyhqg) | [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [Habeetah](https://open.spotify.com/album/0s99kDnLkDyW8Y4LsnCl0I) | 4:20 | 2023-07-27 | 2024-07-05 |
 | [Habiba](https://open.spotify.com/track/1meqGwp4PGEVXceQ8t1AaG) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Habiba](https://open.spotify.com/album/1yf8ufzFwMlECaZMydhmZu) | 3:34 | 2024-07-04 |  |
+| [Habibi Howa](https://open.spotify.com/track/3rWC89eFiYAC5enhaRLZ5X) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Habibi Howa](https://open.spotify.com/album/6CFZmeFJVAuc3Bc1rEVJb9) | 4:55 | 2025-10-07 |  |
 | [Habni Gherak](https://open.spotify.com/track/71k2EHQDHNqUYAXfUAyCEu) | [KADEJAH MOAATH](https://open.spotify.com/artist/6dHJGgMd8sX4N2ss08CPo4) | [Habni Gherak](https://open.spotify.com/album/7JvxrgSGDLhhdYxs0LWAcb) | 4:44 | 2024-01-24 |  |
 | [Hack Hack](https://open.spotify.com/track/27JHTW5VmpCueQEwmDyDlH) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Hack Hack](https://open.spotify.com/album/3p62UPcu6BlVklA1VtCLe5) | 4:17 | 2022-04-07 | 2023-04-21 |
 | [Haka Wajed](https://open.spotify.com/track/5VpHmHIWNXyNmLd4ryeyHV) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [Abdul Majeed Abdullah 2024](https://open.spotify.com/album/7q9ZsaQ6tyCoB4aJq1Lma7) | 4:14 | 2024-09-11 | 2025-07-01 |

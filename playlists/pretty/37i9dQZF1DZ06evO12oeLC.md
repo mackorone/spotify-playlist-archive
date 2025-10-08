@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 
 > This is Yseult\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,812 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,816 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 39 | [PETIT <3](https://open.spotify.com/track/6f0gMyXWn8vd4sDwA9xlNg) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 3:12 |
 | 40 | [Rouge](https://open.spotify.com/track/3WPqkwwH5VoqJl3enzLRW1) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rouge](https://open.spotify.com/album/2YilVaWn16fz1CwBc8Q2XL) | 3:06 |
 | 41 | [Summer Love](https://open.spotify.com/track/7cib4iojUbgyEjwIaCEwol) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 3:00 |
-| 42 | [Diego](https://open.spotify.com/track/6rrcicNlnNS2JTNnvbAdPd) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Diego](https://open.spotify.com/album/1Qa5Wp1gxoQuE9Fb0177yD) | 2:47 |
-| 43 | [Blue](https://open.spotify.com/track/6T7NNeIXazB8t2fJVh8scc) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [La Cour des Miracles](https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql) | 3:16 |
+| 42 | [Blue](https://open.spotify.com/track/6T7NNeIXazB8t2fJVh8scc) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [La Cour des Miracles](https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql) | 3:16 |
+| 43 | [Diego](https://open.spotify.com/track/6rrcicNlnNS2JTNnvbAdPd) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Diego](https://open.spotify.com/album/1Qa5Wp1gxoQuE9Fb0177yD) | 2:47 |
 | 44 | [Rodéo](https://open.spotify.com/track/6xspLP2hzZpn0Fz1vi57Tk) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rouge](https://open.spotify.com/album/54gsOyynoBq0VM1y02OBuY) | 3:03 |
 | 45 | [BRUTAAL](https://open.spotify.com/track/3ncJ2dO9ENlkCXA32BJigz) | [Zwangere Guy](https://open.spotify.com/artist/2Sm4rGKWBnOQhdqDy4JJh0), [Blu Samu](https://open.spotify.com/artist/6RcPiWIVptnyi8y3EIbDLB), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUTAAL](https://open.spotify.com/album/5yhS5jwfvDxIKqMbc5V0vJ) | 4:06 |
 | 46 | [Pour l’impossible](https://open.spotify.com/track/3bvFb6eMmoyrAgTZEu5bym) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 49 | [Meilleur homme](https://open.spotify.com/track/3iiNraQg0tAFJoK1WrD5jW) | [Lino](https://open.spotify.com/artist/6RM5eA0SSP7B8UV3qHbLa8), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Le gang des antillais](https://open.spotify.com/album/0dJ756gBNpM20RpDrmyPwF) | 3:38 |
 | 50 | [Ferme là](https://open.spotify.com/track/13WkCO8JEH89AEyvJ4KqOx) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX), [Le Motif](https://open.spotify.com/artist/0HdLXCWPtmK9wgd7CyNuj3) | [La Barquetterie](https://open.spotify.com/album/1NrmMEOZY5M0AwC1Dokqef) | 3:27 |
 
-Snapshot ID: `aOG1AAAAAAAFHOSojhBKmNkTUGuJbPqn`
+Snapshot ID: `aOMGgAAAAABCqNIxER5XSjGZE+e6VevW`

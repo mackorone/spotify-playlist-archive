@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: K.S.Harisankar
 
-412 songs - 1 day 1 hr 45 min
+413 songs - 1 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,7 +363,7 @@
 | [Thaalam \- Version 1](https://open.spotify.com/track/0Y2Z5RLw2MPLVC3mQj9EK9) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Thaalam](https://open.spotify.com/album/67CJFdWcTVKeSybZlnMf9k) | 6:00 | 2022-06-23 | 2024-08-28 |
 | [Thaane Thaniye Thammil](https://open.spotify.com/track/6ingVU9wCdStE9VpaLyfAr) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Thaane Thaniye Thammil](https://open.spotify.com/album/3Vu2WYHiYCsWYVXk9KNdNb) | 3:22 | 2025-04-21 | 2025-07-26 |
 | [Thaaraattu \- Live](https://open.spotify.com/track/2fe5loAluoPJsHT1nCpgDc) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Thaaraattu \(Live\)](https://open.spotify.com/album/5kqLzeSaEAv5Shc5wAnvud) | 3:02 | 2023-07-27 | 2025-07-15 |
-| [Thaaram](https://open.spotify.com/track/3QqOii384lMY23m4Ydh4Rb) | [Nevin Thomas](https://open.spotify.com/artist/29t7mv5S6lSSOlVhPAFP2y), [Shemitha Balan](https://open.spotify.com/artist/0mMfj4RosvfkM2v36QnSeu) | [Thaaram](https://open.spotify.com/album/3Tz4czE10QKNPgyEVBFEl3) | 3:27 | 2024-07-15 |  |
+| [Thaaram](https://open.spotify.com/track/3QqOii384lMY23m4Ydh4Rb) | [Nevin Thomas](https://open.spotify.com/artist/29t7mv5S6lSSOlVhPAFP2y), [Shemitha Balan](https://open.spotify.com/artist/0mMfj4RosvfkM2v36QnSeu) | [Thaaram](https://open.spotify.com/album/3Tz4czE10QKNPgyEVBFEl3) | 3:27 | 2024-07-15 | 2025-10-08 |
 | [THALATHIRINJO](https://open.spotify.com/track/3sxlzx4XCbCJJZ5NYzzh6A) | [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [THALATHIRINJO](https://open.spotify.com/album/211XCyr86eRli2gLNRPLhE) | 2:35 | 2025-02-07 |  |
 | [THANIYE](https://open.spotify.com/track/2LiXmrK7gDUSJo5GOzwxMe) | [Jerin C](https://open.spotify.com/artist/2LlWO3c41pLwsWgLid8GNd), [Keysmith](https://open.spotify.com/artist/63cWhrCL1DpDUGZsiavzz0) | [THANIYE](https://open.spotify.com/album/39DrrcfjjYYNeBgujn3cbX) | 3:52 | 2025-01-20 | 2025-05-17 |
 | [Thanne](https://open.spotify.com/track/2OSvxPgxpojMhe6MjdrulH) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Thanne](https://open.spotify.com/album/1mzBxd4WxPHFXRlbsIBIZR) | 2:48 | 2024-08-16 | 2024-09-11 |
@@ -371,6 +371,7 @@
 | [The Celestial Nymph \(Manassi Dussaham\)](https://open.spotify.com/track/3oN3Ko3rSGszXL8VCYAS5p) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [The Celestial Nymph \(Manassi Dussaham\) \- Single](https://open.spotify.com/album/0QIlgq2GR8jTthBkdsGDft) | 8:31 | 2023-07-27 | 2023-12-16 |
 | [The Celestial Nymph \(Manassi Dussaham\)](https://open.spotify.com/track/5pSnPq1TGDAhF0PRdN4WuG) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [The Celestial Nymph \(Manassi Dussaham\) \- Single](https://open.spotify.com/album/5QJ4PCld9g8R7u6c8YKOBM) | 8:31 | 2023-10-06 | 2024-03-09 |
 | [The Seventh Ocean](https://open.spotify.com/track/4GuOd0hqHihlZXTNo8mwUT) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [The Seventh Ocean](https://open.spotify.com/album/1xpnW655nhgVzDBpNByk5i) | 7:07 | 2023-09-25 | 2024-02-19 |
+| [Thedal](https://open.spotify.com/track/1vLOGBEUancfHIFk7R6KAw) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0) | [Valiyaparamb](https://open.spotify.com/album/5ikqN9j24apCT3l6xwQSAi) | 3:40 | 2025-10-07 |  |
 | [Thedi Ninne](https://open.spotify.com/track/77S4AzWeaNvBYEhZOKuvJp) | [P S Ajmal Shah](https://open.spotify.com/artist/6UfrHGnTCdPQQvvB8XHPtR) | [Thedi Ninne](https://open.spotify.com/album/7if2HqVWnVJmCZC1lhrDlJ) | 3:06 | 2024-03-08 | 2024-08-29 |
 | [Theeram](https://open.spotify.com/track/4z4FFdfS2SH6kUb2GSk2hq) | [Aghin Malik](https://open.spotify.com/artist/4TBUlz9eDchaTl0S28jvJn), [XLReight](https://open.spotify.com/artist/4px5p8o4PkMimGqIcK9epL) | [Theeram](https://open.spotify.com/album/6saREdCspt5IzQKPGkkOnH) | 3:32 | 2025-04-21 | 2025-07-18 |
 | [THEERAME](https://open.spotify.com/track/6sVKdxiccpOir1Rd51r1hP) | [Antos Jr](https://open.spotify.com/artist/3h658ek6PUKeU0hOi2C8VX), [Jackson](https://open.spotify.com/artist/6weKA8m0b1AidWiZTuGG3e) | [THEERAME](https://open.spotify.com/album/38FUHVIDJ4mWRMKFn0fYd5) | 4:07 | 2025-02-10 | 2025-05-07 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 81977,
+  "num_followers": 81980,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOG1AAAAAADHAcvvtkKYySZNl8P70KcV",
+  "snapshot_id": "aOMGgAAAAABFfksfEmLbFjNgCCo8eo7k",
   "tracks": [
     {
       "added_at": null,
@@ -711,78 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teoria do Ciclo da \u00c1gua",
-        "url": "https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 275905,
-      "name": "Garota",
-      "url": "https://open.spotify.com/track/6ripdgnZJ8hGfVO6jp5ISV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Minissaia",
-        "url": "https://open.spotify.com/album/4PU8IuvEkh0gu8DnCR1EK6"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        }
-      ],
-      "duration_ms": 169133,
-      "name": "Passando de Fase",
-      "url": "https://open.spotify.com/track/4ByxsdnhZPrxPqic935TJ0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00f4-Zaico",
-        "url": "https://open.spotify.com/album/5dhlzcGI3mrhm08aDWjWPM"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 158783,
-      "name": "M\u00f4-Zaico",
-      "url": "https://open.spotify.com/track/2nR85tpgwRpO8ogN5ZfhnD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Milh\u00e3o",
         "url": "https://open.spotify.com/album/26oy1EOZbD6AeisGnGHezR"
       },
@@ -815,6 +743,78 @@
       "duration_ms": 216888,
       "name": "A Milh\u00e3o",
       "url": "https://open.spotify.com/track/77PlJsyMjReAoMmtx41oq8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teoria do Ciclo da \u00c1gua",
+        "url": "https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 275905,
+      "name": "Garota",
+      "url": "https://open.spotify.com/track/6ripdgnZJ8hGfVO6jp5ISV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00f4-Zaico",
+        "url": "https://open.spotify.com/album/5dhlzcGI3mrhm08aDWjWPM"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 158783,
+      "name": "M\u00f4-Zaico",
+      "url": "https://open.spotify.com/track/2nR85tpgwRpO8ogN5ZfhnD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Minissaia",
+        "url": "https://open.spotify.com/album/4PU8IuvEkh0gu8DnCR1EK6"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "duration_ms": 169133,
+      "name": "Passando de Fase",
+      "url": "https://open.spotify.com/track/4ByxsdnhZPrxPqic935TJ0"
     },
     {
       "added_at": null,
@@ -923,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pode Sair / Pode Ficar",
-        "url": "https://open.spotify.com/album/3DGdy9CvatHGlNjFSlsFiS"
-      },
-      "artists": [
-        {
-          "name": "Math Basso",
-          "url": "https://open.spotify.com/artist/39vofNTfJCZegFfSljqxhZ"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 173042,
-      "name": "Pode Sair / Pode Ficar",
-      "url": "https://open.spotify.com/track/7aDbe2Ga5ptrXhJ5oRReaR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poesia Ac\u00fastica Ep. Jeri",
         "url": "https://open.spotify.com/album/1MgfsdHI8sIaBcw97NhwBi"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 239166,
       "name": "Efeito Violeta",
       "url": "https://open.spotify.com/track/2bSyfmK45fx7zNbVLR5Wpj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pode Sair / Pode Ficar",
+        "url": "https://open.spotify.com/album/3DGdy9CvatHGlNjFSlsFiS"
+      },
+      "artists": [
+        {
+          "name": "Math Basso",
+          "url": "https://open.spotify.com/artist/39vofNTfJCZegFfSljqxhZ"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 173042,
+      "name": "Pode Sair / Pode Ficar",
+      "url": "https://open.spotify.com/track/7aDbe2Ga5ptrXhJ5oRReaR"
     },
     {
       "added_at": null,
