@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Franni Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,223 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,253 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 41 | [Trust in God/Wait on You \- Live](https://open.spotify.com/track/57oagl0qgUGnX6UV1gzOeu) | [Red Worship](https://open.spotify.com/artist/0avkhg4DlPSxuCE9Ycy66w), [Andrew Maldonado](https://open.spotify.com/artist/7dXiUcMXiBlSbdkboEEHf9), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion) | [Trust in God/Wait on You \(Live\)](https://open.spotify.com/album/5jGoRQP1RpbI9ypVNUBoJ1) | 7:15 |
 | 42 | [Jesus Song \- Live](https://open.spotify.com/track/6p4znVw6OoMeJOWUOyK1cy) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72), [Taylor Gall](https://open.spotify.com/artist/6Sg0UxyRCkV13v37ho3asV) | [Jesus Song \(Live\)](https://open.spotify.com/album/4re8Y6tpEIARFz4CUYiGiC) | 6:20 |
 | 43 | [Keep Praying \- Live](https://open.spotify.com/track/2PfPwyrtRdmE8W2MoH3NvC) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [DREAMERS.](https://open.spotify.com/album/4eypiRaBJp246wlsGE9MM9) | 4:02 |
-| 44 | [THIS IS OUR GOD!](https://open.spotify.com/track/4od5Tu9gO2xLxsYw3DXdyE) | [Covenant Worship](https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj), [Javi](https://open.spotify.com/artist/1t0t0b0ECECZTW1aZkNyK4) | [Can You Hear It?](https://open.spotify.com/album/2FBNJfb4Uv47euZQ5rdbi2) | 6:20 |
+| 44 | [THIS IS OUR GOD!](https://open.spotify.com/track/4od5Tu9gO2xLxsYw3DXdyE) | [Covenant Worship](https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj), [JAVI](https://open.spotify.com/artist/50TBxDRKXkx8BffKq4NKlK) | [Can You Hear It?](https://open.spotify.com/album/2FBNJfb4Uv47euZQ5rdbi2) | 6:20 |
 | 45 | [The Blood](https://open.spotify.com/track/3qXk0U4xmeRvKfhkiTq8yU) | [Laura Hackett Park](https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV) | [Communion Revival](https://open.spotify.com/album/0IboycDsA9kRBXdKqTqHTJ) | 4:41 |
 | 46 | [All Blessing](https://open.spotify.com/track/77akNBdUgVyOW1ECLt94BX) | [Anna Childs](https://open.spotify.com/artist/3uLkyG01b7EWl1e1RM3Jck) | [All Blessing](https://open.spotify.com/album/0gmV0YaQmCDasG9wmMgqpG) | 4:16 |
 | 47 | [Holy God \(You are Good\)](https://open.spotify.com/track/2e7ArB6ft01sgYC0PlW1bX) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj), [Be Love Worship](https://open.spotify.com/artist/7ATVQSo9P7bYr5brUIi6tB) | [Holy God \(You are Good\)](https://open.spotify.com/album/6PswyYPa3TQquxlBCgU8Rf) | 5:35 |

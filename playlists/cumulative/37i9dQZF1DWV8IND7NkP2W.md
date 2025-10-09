@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-812 songs - 1 day 12 hr 42 min
+813 songs - 1 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -560,7 +560,7 @@
 | [potatoL](https://open.spotify.com/track/6paRGNFtYLHyBdxTk5TGV5) | [MAHBIE](https://open.spotify.com/artist/5ggbey9WKiS849lppw8lbs) | [FRESH PACK LIVE vol.5](https://open.spotify.com/album/3onvol4QDwHNg0i2LRqOdX) | 11:56 | 2021-12-23 | 2022-07-21 |
 | [Pretty Shadows](https://open.spotify.com/track/6kZGPpmm4viIlgLCGuA6BW) | [Ill Sugi](https://open.spotify.com/artist/2qGrUQLbdfzBFpSwz53Y0c), [BudaMunk](https://open.spotify.com/artist/1yWuJDLSCfY5Zrjv6JmtWC) | [Warp Haze](https://open.spotify.com/album/1aCSsgMvDI8Fv2xXjp8oef) | 2:07 | 2022-03-03 | 2025-01-09 |
 | [probably](https://open.spotify.com/track/4KOsQOfzWxNGvVUliLLUzg) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [probably](https://open.spotify.com/album/3MaaGg4f16MR5qJp6bGaul) | 2:18 | 2021-12-23 | 2025-10-05 |
-| [Promise](https://open.spotify.com/track/05HJO5WOraCXeBBwoeN8np) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [GORO KUMAI](https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR) | [Promise](https://open.spotify.com/album/1Kh0ONnkKKM6gEFeuH2hHH) | 3:02 | 2024-02-13 | 2025-03-26 |
+| [Promise](https://open.spotify.com/track/05HJO5WOraCXeBBwoeN8np) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [GORO KUMAI](https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR) | [Promise](https://open.spotify.com/album/1Kh0ONnkKKM6gEFeuH2hHH) | 3:02 | 2024-02-13 |  |
 | [PROUD](https://open.spotify.com/track/3zfFPrJS1wQjq323ip0SIs) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [PROUD](https://open.spotify.com/album/0OWEM09S7f09mPmYx4dCXj) | 1:58 | 2023-05-25 | 2023-11-22 |
 | [Rabbit Ears](https://open.spotify.com/track/5kuId3PuVZElryOlLUMPw0) | [ILYOCS](https://open.spotify.com/artist/2tLE9WDiPkUCssHRr4QMPU) | [Rabbit Ears](https://open.spotify.com/album/2EZTRlOA1iQiOB9ndn713I) | 2:48 | 2025-02-21 | 2025-03-12 |
 | [Railroad](https://open.spotify.com/track/7EK6RTprVGNtPYaMfKsTiP) | [Dakchi](https://open.spotify.com/artist/1YJAWgwqcfWl06Nyn3Eawa) | [Railroad](https://open.spotify.com/album/2eg6kie4NqCYI69REmQKc6) | 2:01 | 2021-12-23 | 2022-07-27 |
@@ -619,6 +619,7 @@
 | [Sector z](https://open.spotify.com/track/4mTFQFFS6bmrtsedqMMGrR) | [Ill Sugi](https://open.spotify.com/artist/2qGrUQLbdfzBFpSwz53Y0c) | [Kief Tape, Vol\. 1](https://open.spotify.com/album/2am4WMyfxP3HDGRxhB9WjP) | 2:35 | 2022-01-06 | 2022-07-20 |
 | [Sepia Drop](https://open.spotify.com/track/2LQ1CYH5NfUPz5usHviuxB) | [mic.b a.k.a 73Pike Set](https://open.spotify.com/artist/52thcpFLoyqpsYH62cs6QT) | [Moon Trail](https://open.spotify.com/album/0TxbsET65pJcL3G1hkgUZX) | 4:40 | 2021-12-23 | 2022-07-28 |
 | [Sequences](https://open.spotify.com/track/4qw2ivY0IecySstEiS9I32) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9), [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Sequences](https://open.spotify.com/album/0N9eVWHd8pIJFLP6Ph27ok) | 2:00 | 2021-12-23 |  |
+| [Seseragi](https://open.spotify.com/track/4ANIuRARV6NUZQ8funtPBA) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Seseragi](https://open.spotify.com/album/2JD5d2OCXxL5Cwt9x3jD6z) | 2:37 | 2025-10-03 |  |
 | [Setting Sun](https://open.spotify.com/track/4qFXWrzya3SLfYniBZJj2F) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Setting Sun](https://open.spotify.com/album/7ifpKetERJMrVeQNg4UNBn) | 1:49 | 2023-04-27 | 2023-05-19 |
 | [Shibuya](https://open.spotify.com/track/1MYFWxUBgTrvelKo50aLoy) | [LoFi\-α](https://open.spotify.com/artist/6igBdPOHIXA2Mb6rV7G2f9) | [Beautiful Journey vol.1](https://open.spotify.com/album/3wXUBuBz7Rnw8IZj3rZOkd) | 2:06 | 2021-12-23 | 2022-07-06 |
 | [ShitaMachi MAGIC](https://open.spotify.com/track/5RkXH059wZhIhLhfXGFPy1) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [ShitaMachi MAGIC](https://open.spotify.com/album/1jrrEx5B1jCvGSWzuSs0G0) | 2:58 | 2021-12-23 | 2022-07-28 |
@@ -745,7 +746,7 @@
 | [Twilight](https://open.spotify.com/track/0bckA5rHWQ5MGfBjmEa8VT) | [Tsuyoshi Kawaguchi](https://open.spotify.com/artist/7DTG1bT8wsJt4i55ZWA6v3) | [Twilight](https://open.spotify.com/album/4ZUv7FPWlQctBXq7b3m6GX) | 2:38 | 2021-12-23 | 2022-06-19 |
 | [Twilight Breeze](https://open.spotify.com/track/5XsPSMjE9TvTJYhJbefrnl) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [Twilight Breeze](https://open.spotify.com/album/0Kn6v7P1B6ZUimsQtJ8m9z) | 2:52 | 2024-10-26 | 2024-12-20 |
 | [twilight city](https://open.spotify.com/track/5IlwobI9ivRAJ7K2DYx7ar) | [Chillowfy](https://open.spotify.com/artist/21show38R2hYaNkEeCZNbZ), [obake](https://open.spotify.com/artist/1Sn5d9cy80Xg4T3TlWdloS) | [twilight city](https://open.spotify.com/album/5Sfg25CP4dV1LDZiZa5Izi) | 2:24 | 2021-12-23 | 2022-07-25 |
-| [Twilight Shadow \- dub's sunset dub \- dub mixed by Dub Master X](https://open.spotify.com/track/2JQ1Bi9viE9FZxbVw5lG0y) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD), [Dub Master X](https://open.spotify.com/artist/1473e1d8Vmn0FYvwYIGDfM) | [Twilight Shadow \- dub's sunset dub \(dub mixed by Dub Master X\)](https://open.spotify.com/album/3X9F52SXoc4hFxMscuTw4m) | 4:01 | 2025-08-20 |  |
+| [Twilight Shadow \- dub's sunset dub \- dub mixed by Dub Master X](https://open.spotify.com/track/2JQ1Bi9viE9FZxbVw5lG0y) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD), [Dub Master X](https://open.spotify.com/artist/1473e1d8Vmn0FYvwYIGDfM) | [Twilight Shadow \- dub's sunset dub \(dub mixed by Dub Master X\)](https://open.spotify.com/album/3X9F52SXoc4hFxMscuTw4m) | 4:01 | 2025-08-20 | 2025-10-09 |
 | [Twisted](https://open.spotify.com/track/3z9tJ9PKWuYkwRPyQKu5Cn) | [Shinjuku Jumpshot](https://open.spotify.com/artist/3Tssruxt0wSeVhuGQzrpGx) | [Twisted](https://open.spotify.com/album/1eXeA6YaC8BHOqixAMPZ8B) | 2:13 | 2022-03-31 | 2022-04-20 |
 | [Two 3 Four](https://open.spotify.com/track/0xHD1nrjbqXMKrzS4jPyQc) | [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D) | [RAW WNDS MIXTAPE \#002](https://open.spotify.com/album/37ZZJrl8ilXbKRy5iwFerR) | 4:12 | 2021-12-23 | 2022-07-28 |
 | [U](https://open.spotify.com/track/6H6qrSldeRmzi5jHYELgMW) | [Hama](https://open.spotify.com/artist/2mkZla5mSMjsk6BRgWGOHr) | [U](https://open.spotify.com/album/1Boz9tEroukxBpTBiG7plf) | 2:35 | 2021-12-23 | 2022-07-17 |
@@ -810,7 +811,7 @@
 | [zero](https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [zero](https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz) | 2:27 | 2024-07-26 |  |
 | [オダイジン](https://open.spotify.com/track/2ivbGvD2opRsm9tGfubQ7E) | [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [藤沢 2021](https://open.spotify.com/album/07SvPzoAEe8PMZBMSbfhCV) | 2:30 | 2024-09-25 | 2025-02-05 |
 | [ホリデー \- Instrumental](https://open.spotify.com/track/5hwbj7LQDhasXvoi1rQqUx) | [Rin Ishi](https://open.spotify.com/artist/1lpChpnNOXYwKQKjzl5wup) | [ホリデー \(Instrumental\)](https://open.spotify.com/album/6CJdNmuyfwwHnLy0pLdt25) | 4:00 | 2021-12-23 | 2022-07-29 |
-| [光のように](https://open.spotify.com/track/0TZloem996VUIcOnML8Kp0) | [Yuri Hiranuma](https://open.spotify.com/artist/6pAS2H3KqkDPniC1GNmcD1) | [光のように](https://open.spotify.com/album/77NDqgGxatgBntyyD9634e) | 2:20 | 2023-06-06 |  |
+| [光のように](https://open.spotify.com/track/0TZloem996VUIcOnML8Kp0) | [Yuri Hiranuma](https://open.spotify.com/artist/6pAS2H3KqkDPniC1GNmcD1) | [光のように](https://open.spotify.com/album/77NDqgGxatgBntyyD9634e) | 2:20 | 2023-06-06 | 2025-10-09 |
 | [夕映 03](https://open.spotify.com/track/4zfzaUsbKgV3cYDw2hhLeD) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [夕映](https://open.spotify.com/album/3uEUBhmwTJusgd9GxYHxAR) | 1:58 | 2021-12-23 |  |
 | [夜景 01](https://open.spotify.com/track/1XIHeOhhMJksHCFczCOW0p) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [夜景](https://open.spotify.com/album/7zvsVcGHERSsrJ54RYw2HN) | 1:50 | 2022-01-06 | 2022-07-22 |
 | [夢の中](https://open.spotify.com/track/50cJTPKCH0CyEgsUgv53Ny) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [夢の中](https://open.spotify.com/album/4fULEvayFtLR24G9VDWvCb) | 2:39 | 2021-12-23 | 2022-07-29 |

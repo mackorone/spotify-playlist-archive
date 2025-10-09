@@ -4,7 +4,7 @@
 
 > 
 
-7,806 songs - 20 day 3 hr 37 min
+7,807 songs - 20 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6558,6 +6558,7 @@
 | [What’s Crackin \(feat\. Takeoff\)](https://open.spotify.com/track/1jbXYNuBFgN0BiNRO2cGov) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:57 | 2025-01-15 |  |
 | [Wheel in the Sky](https://open.spotify.com/track/215wUTQQUo2PElJFEFoB0d) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Infinity](https://open.spotify.com/album/7K4Nk5fHkCuzNm5A6mdo2U) | 4:12 | 2025-01-03 |  |
 | [When a Man Loves a Woman](https://open.spotify.com/track/3ascnOSOR5MX901ylGuhcl) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Time, Love & Tenderness](https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm) | 3:51 | 2025-01-04 |  |
+| [When Can I See You Again? \- From "Wreck\-It Ralph"/Soundtrack Version](https://open.spotify.com/track/5ZkAx8zjLiSs1nMmBwJoZS) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Wreck\-It Ralph](https://open.spotify.com/album/0aqJGQ73RTLu3yLgcdU9JC) | 3:38 | 2025-10-08 |  |
 | [When Doves Cry](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 5:52 | 2025-01-15 |  |
 | [When flowering spring comes](https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW) | [BMK](https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O) | [SOUL FOOD](https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q) | 4:44 | 2025-04-20 |  |
 | [When I](https://open.spotify.com/track/4QUsmmXmINYXwh7UsiMX2j) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Lo\-Fis](https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji) | 1:00 | 2025-02-14 |  |

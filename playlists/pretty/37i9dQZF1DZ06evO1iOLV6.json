@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 11749,
+  "num_followers": 11754,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAABdGzygDISv2NMUaH5uootj",
+  "snapshot_id": "aORYAAAAAACS1zDr5ACrL4HUitPmQLO9",
   "tracks": [
     {
       "added_at": null,
@@ -91,6 +91,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "INDUSTRY MACHINE",
+        "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 197742,
+      "name": "DO YANGA (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/5wM3JyZlz9elJhVO01umxf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "God Over Everything",
         "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
       },
@@ -131,26 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INDUSTRY MACHINE",
-        "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 197742,
-      "name": "DO YANGA (feat. Patoranking)",
-      "url": "https://open.spotify.com/track/5wM3JyZlz9elJhVO01umxf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jah Eli Jah",
         "url": "https://open.spotify.com/album/0NB8X5tOAMMgU4lDWei9B4"
       },
@@ -175,26 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Over Everything",
-        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 221603,
-      "name": "No Kissing Baby",
-      "url": "https://open.spotify.com/track/16ygpIPe2ClOoOypX6QAuH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afrikan Sauce",
         "url": "https://open.spotify.com/album/4J2sMmMUFcjCExurtDQZJU"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 267993,
       "name": "Melanin",
       "url": "https://open.spotify.com/track/6P4kIjBGUzlieJBkUFobTL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 221603,
+      "name": "No Kissing Baby",
+      "url": "https://open.spotify.com/track/16ygpIPe2ClOoOypX6QAuH"
     },
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Celebrate Me",
+        "url": "https://open.spotify.com/album/6PmMID2Cb2rHTfsJ9Wme56"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 239706,
+      "name": "Celebrate Me",
+      "url": "https://open.spotify.com/track/02J7gPkx8wI2NDi8eWM4w4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Girlie 'O' (Remix)",
         "url": "https://open.spotify.com/album/7IY6ObgWKvAbyqUAQ2wqf4"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 235514,
       "name": "Girlie 'O' - Remix",
       "url": "https://open.spotify.com/track/7eE7wjlxscWbY9K1vwIC6m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Celebrate Me",
-        "url": "https://open.spotify.com/album/6PmMID2Cb2rHTfsJ9Wme56"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 239706,
-      "name": "Celebrate Me",
-      "url": "https://open.spotify.com/track/02J7gPkx8wI2NDi8eWM4w4"
     },
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alagbe",
-        "url": "https://open.spotify.com/album/5rTOCA3AYjkVc01JULfZhn"
-      },
-      "artists": [
-        {
-          "name": "Qdot",
-          "url": "https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 173293,
-      "name": "Magbe (feat. Patoranking)",
-      "url": "https://open.spotify.com/track/2eMMRo8tqHXxnFBl9cbqK7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Love (in support of UNICEF)",
         "url": "https://open.spotify.com/album/0GYG8mzT02965RRFiBxfxX"
       },
@@ -683,6 +663,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alagbe",
+        "url": "https://open.spotify.com/album/5rTOCA3AYjkVc01JULfZhn"
+      },
+      "artists": [
+        {
+          "name": "Qdot",
+          "url": "https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 173293,
+      "name": "Magbe (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/2eMMRo8tqHXxnFBl9cbqK7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Credit Alert",
         "url": "https://open.spotify.com/album/27VycxPDyBm6DcXxAJ7Xet"
       },
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something Nice",
-        "url": "https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv"
-      },
-      "artists": [
-        {
-          "name": "Kofi Kinaata",
-          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 209502,
-      "name": "Something Nice",
-      "url": "https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Golden Boy",
         "url": "https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 217710,
       "name": "Spiritual (feat. Kuami Eugene & Patoranking)",
       "url": "https://open.spotify.com/track/20v09gzHogJdM5a3GLpR4p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something Nice",
+        "url": "https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv"
+      },
+      "artists": [
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 209502,
+      "name": "Something Nice",
+      "url": "https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy"
     },
     {
       "added_at": null,
@@ -935,6 +935,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Africa Unite",
+        "url": "https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 153057,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/5SbbWSuCgpX1FrEx08LlU8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Three",
         "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 245133,
       "name": "Another Level",
       "url": "https://open.spotify.com/track/7vuoXyvpNMhZJScAdeN0dz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Africa Unite",
-        "url": "https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 153057,
-      "name": "One Love",
-      "url": "https://open.spotify.com/track/5SbbWSuCgpX1FrEx08LlU8"
     },
     {
       "added_at": null,

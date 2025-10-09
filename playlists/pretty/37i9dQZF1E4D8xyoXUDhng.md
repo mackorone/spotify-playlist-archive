@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Kurt Carr & The Kurt Carr Singers, Chicago Mass Choir, Smokie Norful and more
+> With Tramaine Hawkins, Smokie Norful, Kurt Carr & The Kurt Carr Singers and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 255 likes - 50 songs - 4 hr 32 min
 

@@ -1907,6 +1907,24 @@
     },
     {
       "album": {
+        "name": "Misteryoso",
+        "url": "https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221641,
+      "name": "Misteryoso",
+      "url": "https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws"
+    },
+    {
+      "album": {
         "name": "Mundo",
         "url": "https://open.spotify.com/album/2p6QlBCrnKwUFC0wPN1kfV"
       },
@@ -2134,7 +2152,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 120581,
       "name": "Nicotine",
       "url": "https://open.spotify.com/track/1kGJlesBPme1OI4gdjivqv"

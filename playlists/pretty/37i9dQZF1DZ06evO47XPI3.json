@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAAB/24FQcP7fmbqakMlHcBmD",
+  "snapshot_id": "aORYAAAAAACaLNQ7/UpCMgfvB825XrE2",
   "tracks": [
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 198893,
-      "name": "The Look of Love",
-      "url": "https://open.spotify.com/track/24qtnTXiPpfcaK3BFGWBi9"
+      "duration_ms": 170000,
+      "name": "Alfie",
+      "url": "https://open.spotify.com/track/5L4SfaSintj8j4h2R4lFhy"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Alfie",
-      "url": "https://open.spotify.com/track/5L4SfaSintj8j4h2R4lFhy"
+      "duration_ms": 198893,
+      "name": "The Look of Love",
+      "url": "https://open.spotify.com/track/24qtnTXiPpfcaK3BFGWBi9"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La La Means I Love You (Expanded Version)",
-        "url": "https://open.spotify.com/album/2PaOO36fcDsy0jAgdfhbHM"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 123293,
-      "name": "Loving Him (aka You Can't Be Loving Him)",
-      "url": "https://open.spotify.com/track/01VYC2isnJ8FPczbH5U3sD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Delfonics",
         "url": "https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 196986,
       "name": "You've Got Yours and I'll Get Mine",
       "url": "https://open.spotify.com/track/1kv28lKIdRA2aydk5ZYtW2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La La Means I Love You (Expanded Version)",
+        "url": "https://open.spotify.com/album/2PaOO36fcDsy0jAgdfhbHM"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 123293,
+      "name": "Loving Him (aka You Can't Be Loving Him)",
+      "url": "https://open.spotify.com/track/01VYC2isnJ8FPczbH5U3sD"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell Me This Is a Dream (Expanded Version)",
-        "url": "https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 191733,
-      "name": "Round & Round",
-      "url": "https://open.spotify.com/track/2SbXVopNbJtU088mzkfBIS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sound Of Sexy Soul",
         "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 176306,
       "name": "Face It Girl, It's Over - Remastered",
       "url": "https://open.spotify.com/track/1AyTnTn95fQ9WO388d6wCy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tell Me This Is a Dream (Expanded Version)",
+        "url": "https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 191733,
+      "name": "Round & Round",
+      "url": "https://open.spotify.com/track/2SbXVopNbJtU088mzkfBIS"
     },
     {
       "added_at": null,
@@ -640,9 +640,25 @@
           "url": "https://open.spotify.com/artist/58U0OwuIViimy39WEbRbXh"
         }
       ],
-      "duration_ms": 126551,
-      "name": "Sunday - Live",
-      "url": "https://open.spotify.com/track/2MwXRhpyzJF4arnAI6bgLa"
+      "duration_ms": 98469,
+      "name": "Intro MC for The Delfonics Concert - Live",
+      "url": "https://open.spotify.com/track/5Azq2UGW0k6Y7DhkdY4YNT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sound Of Sexy Soul",
+        "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 140866,
+      "name": "Let It Be Me - Remastered",
+      "url": "https://open.spotify.com/track/20RH7gcytQ3cUeP50RjRMB"
     },
     {
       "added_at": null,
@@ -679,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sound Of Sexy Soul",
-        "url": "https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 140866,
-      "name": "Let It Be Me - Remastered",
-      "url": "https://open.spotify.com/track/20RH7gcytQ3cUeP50RjRMB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Delfonics vs Ray, Goodman & Brown Live In Concert",
         "url": "https://open.spotify.com/album/4VOJpxfPuOTxCxYBKe1QQ5"
       },
@@ -708,25 +708,9 @@
           "url": "https://open.spotify.com/artist/58U0OwuIViimy39WEbRbXh"
         }
       ],
-      "duration_ms": 98469,
-      "name": "Intro MC for The Delfonics Concert - Live",
-      "url": "https://open.spotify.com/track/5Azq2UGW0k6Y7DhkdY4YNT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alive & Kicking",
-        "url": "https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 190914,
-      "name": "Can't Go On Living",
-      "url": "https://open.spotify.com/track/3dz7dPHwf6OYD4pMWYbV40"
+      "duration_ms": 126551,
+      "name": "Sunday - Live",
+      "url": "https://open.spotify.com/track/2MwXRhpyzJF4arnAI6bgLa"
     },
     {
       "added_at": null,
@@ -751,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alive & Kicking",
+        "url": "https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 190914,
+      "name": "Can't Go On Living",
+      "url": "https://open.spotify.com/track/3dz7dPHwf6OYD4pMWYbV40"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Delfonics Today All Platinium",
         "url": "https://open.spotify.com/album/6b9zCpI3Pu2Gvd2tOSj99U"
       },
@@ -763,6 +763,26 @@
       "duration_ms": 219573,
       "name": "Strangers Again",
       "url": "https://open.spotify.com/track/2VSjAymZDhKlrnNafNRXMW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Delfonics vs Ray, Goodman & Brown Live In Concert",
+        "url": "https://open.spotify.com/album/4VOJpxfPuOTxCxYBKe1QQ5"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        },
+        {
+          "name": "Ray, Goodman & Brown",
+          "url": "https://open.spotify.com/artist/58U0OwuIViimy39WEbRbXh"
+        }
+      ],
+      "duration_ms": 202933,
+      "name": "My Girl - Live",
+      "url": "https://open.spotify.com/track/4dQALx6SrbgW8kJVYPysBu"
     },
     {
       "added_at": null,
@@ -795,26 +815,6 @@
       "duration_ms": 261456,
       "name": "Seventeen (And In Love)",
       "url": "https://open.spotify.com/track/3VNuR7BTR6293tyn8aSUKW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Delfonics vs Ray, Goodman & Brown Live In Concert",
-        "url": "https://open.spotify.com/album/4VOJpxfPuOTxCxYBKe1QQ5"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        },
-        {
-          "name": "Ray, Goodman & Brown",
-          "url": "https://open.spotify.com/artist/58U0OwuIViimy39WEbRbXh"
-        }
-      ],
-      "duration_ms": 202933,
-      "name": "My Girl - Live",
-      "url": "https://open.spotify.com/track/4dQALx6SrbgW8kJVYPysBu"
     },
     {
       "added_at": null,

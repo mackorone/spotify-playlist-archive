@@ -4862,7 +4862,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 172000,
       "name": "Equations",
       "url": "https://open.spotify.com/track/7tYAhctWvmEg5d12ZALVDu"
@@ -5906,7 +5906,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 173391,
       "name": "Forgiving",
       "url": "https://open.spotify.com/track/6TZ4Pj1F41ooAWT8fOlDsn"
@@ -7238,7 +7238,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 199967,
       "name": "Intergalactico",
       "url": "https://open.spotify.com/track/0Ofa1VBQNy5iV9LyyX0iw1"
@@ -9049,6 +9049,24 @@
     },
     {
       "album": {
+        "name": "Mid",
+        "url": "https://open.spotify.com/album/6NwQyE7HVkxPLBoIvPUcil"
+      },
+      "artists": [
+        {
+          "name": "Griff Beynon",
+          "url": "https://open.spotify.com/artist/4xdU9qb6mDz0punEhwwi72"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172250,
+      "name": "Mid",
+      "url": "https://open.spotify.com/track/7JflIabCxznOh6SQftZK90"
+    },
+    {
+      "album": {
         "name": "midnight rain",
         "url": "https://open.spotify.com/album/4NXnwc3rWLaNpL6R0mY70z"
       },
@@ -9996,7 +10014,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 154800,
       "name": "Nom Mind",
       "url": "https://open.spotify.com/track/4FWPL5W5UKBuYMMRPVNWC1"
@@ -11418,7 +11436,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 189395,
       "name": "Quiet Lake",
       "url": "https://open.spotify.com/track/39dfa566WWFrWpauUTcyeB"

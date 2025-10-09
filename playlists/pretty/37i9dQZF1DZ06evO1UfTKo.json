@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tigres Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 755936,
+  "num_followers": 755980,
   "original_name": "This Is Los Tigres Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAAAf6nD4/MSAApgC6PqUyQWl",
+  "snapshot_id": "aORYAAAAAADWNjkOZ/OSfQjBXx31UnMr",
   "tracks": [
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Idolos Del Pueblo",
-        "url": "https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG"
+        "name": "Internacionalmente Norte\u00f1os",
+        "url": "https://open.spotify.com/album/7fhwdWmGl8rR2iVE6ivY42"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 183280,
-      "name": "El Ni\u00f1o Y La Boda",
-      "url": "https://open.spotify.com/track/6n4urlKnhlJ9kD3NaagMAx"
+      "duration_ms": 172226,
+      "name": "Carta Abierta",
+      "url": "https://open.spotify.com/track/11gSQLPiqjikM2Dyg0EdUZ"
     },
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Internacionalmente Norte\u00f1os",
-        "url": "https://open.spotify.com/album/7fhwdWmGl8rR2iVE6ivY42"
+        "name": "Idolos Del Pueblo",
+        "url": "https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 172226,
-      "name": "Carta Abierta",
-      "url": "https://open.spotify.com/track/11gSQLPiqjikM2Dyg0EdUZ"
+      "duration_ms": 183280,
+      "name": "El Ni\u00f1o Y La Boda",
+      "url": "https://open.spotify.com/track/6n4urlKnhlJ9kD3NaagMAx"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Herencia De Familia",
-        "url": "https://open.spotify.com/album/4C43fkuo6G7FdEm6xhq8cV"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 240226,
-      "name": "L\u00e1grimas (L\u00e1grimas Del Coraz\u00f3n)",
-      "url": "https://open.spotify.com/track/23e2dSwQiAAOkV2KfjuIFj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carrera Contra La Muerte",
         "url": "https://open.spotify.com/album/3HuwrordHAx7aZdCWPDVa9"
       },
@@ -647,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pacto De Sangre",
-        "url": "https://open.spotify.com/album/7GAOrdfIZhaU3G7vPZg1dn"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 233853,
-      "name": "Jos\u00e9 P\u00e9rez Le\u00f3n",
-      "url": "https://open.spotify.com/track/3xKToHlV3enPcQVpns4kUf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Buena Suerte",
         "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
       },
@@ -675,6 +643,38 @@
       "duration_ms": 163680,
       "name": "Apenas Te Fuistes Ayer",
       "url": "https://open.spotify.com/track/6V79WQFVLdiCLrlsYpdQTV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Herencia De Familia",
+        "url": "https://open.spotify.com/album/4C43fkuo6G7FdEm6xhq8cV"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 240226,
+      "name": "L\u00e1grimas (L\u00e1grimas Del Coraz\u00f3n)",
+      "url": "https://open.spotify.com/track/23e2dSwQiAAOkV2KfjuIFj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pacto De Sangre",
+        "url": "https://open.spotify.com/album/7GAOrdfIZhaU3G7vPZg1dn"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "Jos\u00e9 P\u00e9rez Le\u00f3n",
+      "url": "https://open.spotify.com/track/3xKToHlV3enPcQVpns4kUf"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 171920,
-      "name": "Tres Veces Mojado",
-      "url": "https://open.spotify.com/track/7pVP11CCxAvSEWf9fLueWr"
+      "duration_ms": 224200,
+      "name": "Fallaste Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4p3nrgcepfwyOJwg2shRcE"
     },
     {
       "added_at": null,
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 224200,
-      "name": "Fallaste Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4p3nrgcepfwyOJwg2shRcE"
+      "duration_ms": 171920,
+      "name": "Tres Veces Mojado",
+      "url": "https://open.spotify.com/track/7pVP11CCxAvSEWf9fLueWr"
     },
     {
       "added_at": null,

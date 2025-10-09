@@ -1,12 +1,12 @@
 {
   "description": "This is Tyler, The Creator. The essential tracks, all in one playlist.",
-  "num_followers": 730000,
+  "num_followers": 730100,
   "original_name": "This Is Tyler, The Creator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAAArrVzMKVHDa3cFPeuOv9Bi",
+  "snapshot_id": "aORYAAAAAADKBtByQivg4dO6rRi9jgPd",
   "tracks": [
     {
       "added_at": null,
@@ -378,15 +378,11 @@
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 154261,
-      "name": "Balloon (feat. Doechii)",
-      "url": "https://open.spotify.com/track/35D1RA5uVFVhMc1qX80TaQ"
+      "duration_ms": 165412,
+      "name": "Rah Tah Tah",
+      "url": "https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK"
     },
     {
       "added_at": null,
@@ -446,11 +442,15 @@
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 165412,
-      "name": "Rah Tah Tah",
-      "url": "https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK"
+      "duration_ms": 154261,
+      "name": "Balloon (feat. Doechii)",
+      "url": "https://open.spotify.com/track/35D1RA5uVFVhMc1qX80TaQ"
     },
     {
       "added_at": null,

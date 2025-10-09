@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbw9rGYPXetO.md) - [plain]
 
 > Hottest tracks from Coke Studio Bharat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,172 likes - 20 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,695 likes - 20 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

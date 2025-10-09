@@ -1051,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "Goodgirl",
+        "url": "https://open.spotify.com/album/0cfboUkpHeZwjcw8xvY0vK"
+      },
+      "artists": [
+        {
+          "name": "GoodGirl LA",
+          "url": "https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163437,
+      "name": "Goodgirl",
+      "url": "https://open.spotify.com/track/6adCGcQBhdqQbrb2b1aoGv"
+    },
+    {
+      "album": {
         "name": "Goosebumps",
         "url": "https://open.spotify.com/album/0puYR0eJhVtrJAOsH5mbY4"
       },
@@ -2904,7 +2922,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 179173,
       "name": "Sonfo",
       "url": "https://open.spotify.com/track/4gqI025AvVoK8qvTju5zN8"

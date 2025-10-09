@@ -4,7 +4,7 @@
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: FRUITS ZIPPER
 
-1,305 songs - 3 day 2 hr 31 min
+1,306 songs - 3 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,7 @@
 | [Join Us! \-2024ver.\-](https://open.spotify.com/track/2I7P5VZr7XhW4ySQRbdhVU) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [UNLOCK!](https://open.spotify.com/album/6WpOudAdvJNyi5htlKPaaC) | 3:28 | 2024-03-19 | 2024-03-27 |
 | [JOin us!!](https://open.spotify.com/track/4ji2ttFn6ADN01SB8vC4dR) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [JOin us!!](https://open.spotify.com/album/7nA03owKxVoB9Aywe8vJHh) | 3:27 | 2024-12-10 | 2025-03-19 |
 | [JOOOOKE](https://open.spotify.com/track/6XdHXowM9CEZICEQPu71F2) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [JOOOOKE](https://open.spotify.com/album/5Db4faF7Qcj7RUH5po6Xor) | 3:03 | 2025-03-18 | 2025-06-04 |
-| [JUMP](https://open.spotify.com/track/4JjJ1KNRrzqstSY0uDuys3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/2L5mYNO7vicA2geMVVY7QN) | 2:44 | 2025-07-15 |  |
+| [JUMP](https://open.spotify.com/track/4JjJ1KNRrzqstSY0uDuys3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/2L5mYNO7vicA2geMVVY7QN) | 2:44 | 2025-07-15 | 2025-10-09 |
 | [junkie](https://open.spotify.com/track/0w9YAJAe83rOwK8yKCURqN) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [junkie](https://open.spotify.com/album/1O51SwMFrdxhjgsSzC9Fsw) | 2:28 | 2024-02-11 | 2024-04-19 |
 | [junkie](https://open.spotify.com/track/4ey3mwkvUkUfssLTX6s3P6) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [junkie](https://open.spotify.com/album/0H9sVdN2THowMRs9z4IkeS) | 2:28 | 2024-04-16 | 2024-07-10 |
 | [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 | 2024-01-18 | 2024-04-03 |
@@ -817,6 +817,7 @@
 | [もう1回！](https://open.spotify.com/track/3w2hwPP631R8uapYYbGRlg) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31), [MATZ](https://open.spotify.com/artist/55vjGKmlvpOxuYjwGjBKrD), [ずま](https://open.spotify.com/artist/4ydCwGG3WBCDmk5dNsSHDM) | [もう1回！](https://open.spotify.com/album/43TGDdqBe4uN4fU3WXPVLp) | 2:58 | 2024-03-12 | 2024-03-20 |
 | [もうどうなってもいいや \- Movie edition \-](https://open.spotify.com/track/02ud4apJeoeoQPMyl1fVZn) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [もうどうなってもいいや \- Movie edition \-](https://open.spotify.com/album/4hxFtdZUDJEIhfTDZGIJgX) | 1:31 | 2025-02-04 | 2025-04-16 |
 | [もう一度キスをして](https://open.spotify.com/track/3mdyNzxy8EfEhitWY71KL2) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [もう一度キスをして](https://open.spotify.com/album/2vBJrNRG3j0CYzqV5iD8gs) | 2:37 | 2024-04-30 | 2024-05-15 |
+| [もしものがたり](https://open.spotify.com/track/1wLrBCgGJcK5PNm0slZey9) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [もしものがたり](https://open.spotify.com/album/5yM6PFNuNz0LqB8Tq6NFi2) | 3:13 | 2025-10-08 |  |
 | [ゆうれいになりたい](https://open.spotify.com/track/6FqSRGfhCdkLy0pP9NVeqz) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [ゆうれいになりたい](https://open.spotify.com/album/3i96Y2T24u6UxrX7uFps7T) | 3:58 | 2025-07-29 | 2025-08-06 |
 | [るてん](https://open.spotify.com/track/6nnlidVjXQpOVS8cfnr82o) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [るてん](https://open.spotify.com/album/43S0B2hwGw5F3BLjKAf3f1) | 3:33 | 2025-09-16 | 2025-09-24 |
 | [わたしに花束](https://open.spotify.com/track/1vLQ5s4eumtmUcov4cP9jt) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [わたしに花束](https://open.spotify.com/album/2QNHCEUiNTXtcHSjoVWvNl) | 3:48 | 2025-03-11 | 2025-04-09 |

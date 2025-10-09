@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Chris Stapleton",
-  "num_followers": 632834,
+  "num_followers": 632945,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -199,8 +199,8 @@
     {
       "added_at": "2025-09-19 04:00:26",
       "album": {
-        "name": "three twenty four",
-        "url": "https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc"
+        "name": "Next to You",
+        "url": "https://open.spotify.com/album/5wi2gkVC0O5njU43csLHec"
       },
       "artists": [
         {
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
         }
       ],
-      "duration_ms": 189048,
-      "name": "smoke & a light",
-      "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
+      "duration_ms": 241668,
+      "name": "Next to You",
+      "url": "https://open.spotify.com/track/31xbWaLjwvMVMXHTyz8opW"
     },
     {
       "added_at": "2025-09-19 04:00:26",
@@ -279,8 +279,8 @@
     {
       "added_at": "2025-09-19 04:00:26",
       "album": {
-        "name": "Next to You",
-        "url": "https://open.spotify.com/album/5wi2gkVC0O5njU43csLHec"
+        "name": "three twenty four",
+        "url": "https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc"
       },
       "artists": [
         {
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
         }
       ],
-      "duration_ms": 241668,
-      "name": "Next to You",
-      "url": "https://open.spotify.com/track/31xbWaLjwvMVMXHTyz8opW"
+      "duration_ms": 189048,
+      "name": "smoke & a light",
+      "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
     },
     {
       "added_at": "2025-09-19 04:00:26",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2025-09-19 04:00:26",
       "album": {
-        "name": "Hit Different",
-        "url": "https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB"
+        "name": "With or Without Me",
+        "url": "https://open.spotify.com/album/1tUWUYVM1TertVwChOCW7D"
       },
       "artists": [
         {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+          "name": "Gannon Fremin & CCREV",
+          "url": "https://open.spotify.com/artist/0P3JEHMidLKLqAHuFd7Qf8"
         }
       ],
-      "duration_ms": 193271,
-      "name": "Hit Different",
-      "url": "https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD"
+      "duration_ms": 222294,
+      "name": "With or Without Me",
+      "url": "https://open.spotify.com/track/5FweRtm4C4IxNDFP2aHdXy"
     },
     {
       "added_at": "2025-09-19 04:00:26",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-09-19 04:00:26",
       "album": {
-        "name": "With or Without Me",
-        "url": "https://open.spotify.com/album/1tUWUYVM1TertVwChOCW7D"
-      },
-      "artists": [
-        {
-          "name": "Gannon Fremin & CCREV",
-          "url": "https://open.spotify.com/artist/0P3JEHMidLKLqAHuFd7Qf8"
-        }
-      ],
-      "duration_ms": 222294,
-      "name": "With or Without Me",
-      "url": "https://open.spotify.com/track/5FweRtm4C4IxNDFP2aHdXy"
-    },
-    {
-      "added_at": "2025-09-19 04:00:26",
-      "album": {
         "name": "Wrecking Ball",
         "url": "https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 235053,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl"
+    },
+    {
+      "added_at": "2025-09-19 04:00:26",
+      "album": {
+        "name": "Hit Different",
+        "url": "https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        }
+      ],
+      "duration_ms": 193271,
+      "name": "Hit Different",
+      "url": "https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD"
     },
     {
       "added_at": "2025-09-19 04:00:26",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-09-19 04:00:26",
       "album": {
-        "name": "Off The Rails",
-        "url": "https://open.spotify.com/album/4Hem3OoaopJ70xEEAQGBYO"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        }
-      ],
-      "duration_ms": 184426,
-      "name": "Off The Rails",
-      "url": "https://open.spotify.com/track/6h3eHLBhpWL5KQLRKxXz76"
-    },
-    {
-      "added_at": "2025-09-19 04:00:26",
-      "album": {
         "name": "Find You (feat. Rory Rodriguez)",
         "url": "https://open.spotify.com/album/3fHJPIAdCJbwVjlPqHUS6E"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 212680,
       "name": "Find You (feat. Rory Rodriguez)",
       "url": "https://open.spotify.com/track/6Ai14RhZhVEG9S2Vk6JjsL"
+    },
+    {
+      "added_at": "2025-09-19 04:00:26",
+      "album": {
+        "name": "Off The Rails",
+        "url": "https://open.spotify.com/album/4Hem3OoaopJ70xEEAQGBYO"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        }
+      ],
+      "duration_ms": 184426,
+      "name": "Off The Rails",
+      "url": "https://open.spotify.com/track/6h3eHLBhpWL5KQLRKxXz76"
     },
     {
       "added_at": "2025-09-19 04:00:26",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-09-19 04:00:26",
       "album": {
-        "name": "Burnpile",
-        "url": "https://open.spotify.com/album/4U4XFiX4vwKkbjHCiWiLRk"
-      },
-      "artists": [
-        {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
-        }
-      ],
-      "duration_ms": 176344,
-      "name": "Burnpile",
-      "url": "https://open.spotify.com/track/0RZIfeHVRF7fDohP3V7twJ"
-    },
-    {
-      "added_at": "2025-09-19 04:00:26",
-      "album": {
         "name": "Old News",
         "url": "https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 251498,
       "name": "All of These Years",
       "url": "https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD"
+    },
+    {
+      "added_at": "2025-09-19 04:00:26",
+      "album": {
+        "name": "Burnpile",
+        "url": "https://open.spotify.com/album/4U4XFiX4vwKkbjHCiWiLRk"
+      },
+      "artists": [
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "duration_ms": 176344,
+      "name": "Burnpile",
+      "url": "https://open.spotify.com/track/0RZIfeHVRF7fDohP3V7twJ"
     },
     {
       "added_at": "2025-09-19 04:00:26",

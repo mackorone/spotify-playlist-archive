@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > emory on the cover bc we can't get this song out of our heads!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,008 likes - 134 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,036 likes - 134 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 55 | [Collapse](https://open.spotify.com/track/7DIfpX5Mf10iQmLquDwIUx) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Collapse](https://open.spotify.com/album/2jGAYSrPZor7BOYRGciAmd) | 4:32 |
 | 56 | [You In The Sea](https://open.spotify.com/track/5LnvAYgZNPsaFG2bt03Z5j) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [You In The Sea](https://open.spotify.com/album/79smqI7DUTVVenASjbVpdz) | 3:42 |
 | 57 | [Wet Hair](https://open.spotify.com/track/28g2ptfHl9P6VJrIwPDHKn) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Wet Hair](https://open.spotify.com/album/25Y5fgIAftGWw3W0ghPNTK) | 3:07 |
-| 58 | [You'd Kill Me If You Could](https://open.spotify.com/track/4keF2xxnsK3eK3eFYxGp4A) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw), [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [You'd Kill Me If You Could](https://open.spotify.com/album/3qqLEk8Sx4LdMna3fLx3KI) | 3:26 |
+| 58 | [You'd Kill Me If You Could](https://open.spotify.com/track/4keF2xxnsK3eK3eFYxGp4A) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw), [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [You'd Kill Me If You Could](https://open.spotify.com/album/3qqLEk8Sx4LdMna3fLx3KI) | 3:59 |
 | 59 | [Oranges](https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Oranges](https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo) | 2:52 |
 | 60 | [Across My Jaw](https://open.spotify.com/track/2dYwmQKGTqHEFEafnNwr60) | [Dan English](https://open.spotify.com/artist/055lipaCR86EoOxi2CsSBh) | [Sky Record](https://open.spotify.com/album/5eaUIlyGs7Hnnl6xgwyu8Y) | 3:33 |
 | 61 | [Exhale](https://open.spotify.com/track/5fy3nLcbKOZ7R7QRBcGsCF) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Exhale](https://open.spotify.com/album/0N6fscJFS8vw7g0auQCt60) | 3:16 |

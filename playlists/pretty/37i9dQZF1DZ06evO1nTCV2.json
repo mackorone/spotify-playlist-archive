@@ -1,12 +1,12 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 45043,
+  "num_followers": 45044,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAABEx2jatMHeJBTVmclZtWkH",
+  "snapshot_id": "aORYAAAAAAAau6Ru38E8IziHGvcm4hMj",
   "tracks": [
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreaker (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5qD8CvtAwVaQR5bhADos2U"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 203393,
-      "name": "Bartering Lines",
-      "url": "https://open.spotify.com/track/1iGghDOmeNAZ7r3CwOaBQb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 321120,
       "name": "Wildest Dreams",
       "url": "https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartbreaker (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5qD8CvtAwVaQR5bhADos2U"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 203393,
+      "name": "Bartering Lines",
+      "url": "https://open.spotify.com/track/1iGghDOmeNAZ7r3CwOaBQb"
     },
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 246440,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
       },
@@ -591,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 246440,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/391ijHd2drZtRfz5v0LqLf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heartbreaker (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5qD8CvtAwVaQR5bhADos2U"
       },
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Firecracker",
-      "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Is Hell",
         "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 233653,
       "name": "This House Is Not For Sale",
       "url": "https://open.spotify.com/track/67ftTHCuUcUt5DlNO3dUQR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
     },
     {
       "added_at": null,

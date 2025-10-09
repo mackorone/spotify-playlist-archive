@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO10RDWw.md) - [plain]
 
 > This is Saosin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,318 likes - 34 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,317 likes - 34 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO10RDWw.md) - [plain]
 | 33 | [Hometown Feeling \- Live](https://open.spotify.com/track/7v9xCQpvXLvwPGBMwwxEFB) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN) | 0:38 |
 | 34 | [Only 20 Once \- Live](https://open.spotify.com/track/6xNsV8qqXn50yuBRysKn8q) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN) | 1:41 |
 
-Snapshot ID: `aOMGgAAAAAB6vn+y1UGlxHJGX6opBH+o`
+Snapshot ID: `aORYAAAAAAAB4ZMGFO91IeyW2Ho5e2kS`

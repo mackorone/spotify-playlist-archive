@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,481 likes - 60 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,487 likes - 60 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 56 | [BLU Magic](https://open.spotify.com/track/0bb0cpCDq6RA2Zo4ayZEC2) | [iLL BLU](https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [BLU Magic](https://open.spotify.com/album/2Q7u7JQY2zLUZN54Lbq2VG) | 4:50 |
 | 57 | [Elevator](https://open.spotify.com/track/2BNztHs4pufXHi2YY6s0mn) | [Seiji](https://open.spotify.com/artist/6XwHEDOkZpFRqtZDXLYHlK) | [Seiji 1](https://open.spotify.com/album/4Ln7xUPsqJ2JsI0uaiyGm6) | 4:18 |
 | 58 | [Broken Record \- Geeneus Funky Mix](https://open.spotify.com/track/1E9A7uyyKtyLibnUZwdBKt) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [DJ Geeneus](https://open.spotify.com/artist/1EpP6PGFVKJW9gbcnDy8co) | [Broken Record Remixes](https://open.spotify.com/album/0NxGlkxkhHq11ZRUq01tnG) | 5:33 |
-| 59 | [Bounce](https://open.spotify.com/track/3myQSDJmH49vj05O5N0LUA) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Serocee](https://open.spotify.com/artist/6eccR9J1A0lXF0AFvj5JO9) | [Str8 Rum 2](https://open.spotify.com/album/3baBsm8dNr2cBrEgITKEum) | 2:56 |
-| 60 | [Yellowtail](https://open.spotify.com/track/4Zew14g1Ucj3e26Q6IY9qC) | [Geeneus](https://open.spotify.com/artist/6ejhSoIRxxVXEDJTR3kAVx) | [Volumes:One](https://open.spotify.com/album/5P8MqL3LWOQ8mHLVA8wd6h) | 7:40 |
+| 59 | [Yellowtail](https://open.spotify.com/track/4Zew14g1Ucj3e26Q6IY9qC) | [Geeneus](https://open.spotify.com/artist/6ejhSoIRxxVXEDJTR3kAVx) | [Volumes:One](https://open.spotify.com/album/5P8MqL3LWOQ8mHLVA8wd6h) | 7:40 |
+| 60 | [Bounce](https://open.spotify.com/track/3myQSDJmH49vj05O5N0LUA) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Serocee](https://open.spotify.com/artist/6eccR9J1A0lXF0AFvj5JO9) | [Str8 Rum 2](https://open.spotify.com/album/3baBsm8dNr2cBrEgITKEum) | 2:56 |
 
 Snapshot ID: `AAAAAOGA+y9I0Sr9cHe3YBBt/e56UvJs`

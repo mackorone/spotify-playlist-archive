@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-343 songs - 21 hr 58 min
+345 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [I Don't Deserve It](https://open.spotify.com/track/0aA8UQmAlCSLXj8tm8iDKb) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [I Don't Deserve It](https://open.spotify.com/album/1DHgLR9HwTeITN8oNL96Q8) | 3:46 | 2022-04-28 | 2024-06-29 |
 | [I Don't Want To Leave](https://open.spotify.com/track/3ENINBIFCYLoTP9EYnKNvu) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [I Don't Want To Leave](https://open.spotify.com/album/4nQs0aAVzyHCP81VSC3YzC) | 4:30 | 2025-09-20 |  |
 | [I Feel Alright](https://open.spotify.com/track/1OCanjTF96osCOy1nmFCRx) | [Shane Sato](https://open.spotify.com/artist/7A4XdB4WDsaYZzOySUSwhj), [Oli\-J](https://open.spotify.com/artist/3HKiNdpPyhLNbBuRLS0tuj), [Coastal](https://open.spotify.com/artist/54Eehq7Ls4ZXE8pdTTPClj), [Glen Turner II](https://open.spotify.com/artist/2omhR1o2b473XYUIWA0m4s) | [I Feel Alright](https://open.spotify.com/album/7sNv0KlEAlfQ0TYVeE0Do2) | 2:25 | 2024-06-28 | 2025-09-02 |
-| [I Feel the Same](https://open.spotify.com/track/3g5USVPXT64avOIty1eJEO) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [I Feel the Same](https://open.spotify.com/album/3zwgXxn3hxMKh7Cbbor2j2) | 4:07 | 2024-11-14 |  |
+| [I Feel the Same](https://open.spotify.com/track/3g5USVPXT64avOIty1eJEO) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [I Feel the Same](https://open.spotify.com/album/3zwgXxn3hxMKh7Cbbor2j2) | 4:07 | 2024-11-14 | 2025-10-09 |
 | [I Got You](https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [I Got You](https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX) | 3:12 | 2025-05-19 |  |
 | [Iconoclasts](https://open.spotify.com/track/0favNaT6zVgr7CAxepoKL0) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Iconoclasts](https://open.spotify.com/album/0HCtHecb8UJYmlHER6fmwg) | 3:38 | 2022-09-30 | 2022-11-03 |
 | [Iconoclasts](https://open.spotify.com/track/2dRShVpRxGWdFt1icMTYSK) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Education & Recreation](https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ) | 3:38 | 2022-10-30 | 2024-02-24 |
@@ -233,7 +233,7 @@
 | [R.L.M](https://open.spotify.com/track/7xrp1M7PQfRh5fsT8dOGnj) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [R.L.M](https://open.spotify.com/album/5jk1ZbZsxdmcKNFKmDO2nF) | 3:45 | 2024-09-20 | 2025-09-02 |
 | [Red Moon](https://open.spotify.com/track/44tb4TdFVliafU17EQg28J) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Red Moon](https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa) | 3:32 | 2025-05-19 |  |
 | [Reverence](https://open.spotify.com/track/5HsDGaUBBBWBCpIjpHuB2T) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Reverence](https://open.spotify.com/album/6l1B36T3ydZoaEdxtNrw5m) | 2:19 | 2024-06-28 | 2025-06-03 |
-| [Rewind](https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Rewind](https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc) | 2:44 | 2025-05-14 |  |
+| [Rewind](https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Rewind](https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc) | 2:44 | 2025-05-14 | 2025-10-09 |
 | [Ringing With Love](https://open.spotify.com/track/2CcosXxDkanGpGMCjX3UeZ) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9), [Maddy Moreah](https://open.spotify.com/artist/0ITnYfCgaZPWFXJ2Yir6gY), [DAVIES](https://open.spotify.com/artist/04q7KeD8GMTsUEtIqO4N4Y) | [Ringing With Love](https://open.spotify.com/album/3yAEUE3qdYhA2qqoA1GULk) | 3:10 | 2025-02-10 |  |
 | [Rise](https://open.spotify.com/track/5IHTebQWVq7axBYbKcpstz) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Rise](https://open.spotify.com/album/5h38EAp7olx8LgrfGyyxnf) | 3:03 | 2024-08-02 | 2025-10-02 |
 | [Rita Is Gone](https://open.spotify.com/track/4gi81cgaU0Xmek1IuOENM5) | [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [The Marcus King Band](https://open.spotify.com/album/2aV3gQ8recdvTivyl8EFiO) | 4:25 | 2022-12-05 | 2024-04-19 |
@@ -341,6 +341,7 @@
 | [With You](https://open.spotify.com/track/079mLSjKkiSnpcSueMrNtQ) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Velvet Portraits](https://open.spotify.com/album/4PCIOf8X75vWdD1PbLpg3c) | 4:08 | 2021-12-13 | 2022-07-29 |
 | [With You](https://open.spotify.com/track/34RnMx1hRtypnn03BkTkHV) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Velvet Portraits](https://open.spotify.com/album/4tfomAZjkkF736D6WTK7tC) | 4:08 | 2022-07-05 | 2022-10-31 |
 | [Wither](https://open.spotify.com/track/75tuLoo93ovd5lSDWrTdpi) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Wither](https://open.spotify.com/album/67cUnpKyp9JRjQXOuXfvCM) | 3:00 | 2025-10-01 |  |
+| [Wrapped in the Weight \- A COLORS SHOW](https://open.spotify.com/track/6KCtRNu75DNvDgrFMYlEqO) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Wrapped in the Weight \- A COLORS SHOW](https://open.spotify.com/album/33k1zDMo4BhqaVFxiJP0yq) | 4:19 | 2025-10-08 |  |
 | [Yes I Do](https://open.spotify.com/track/1Cda2BAeOs8r6X7ptFPkW2) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 5:10 | 2022-07-05 | 2024-04-19 |
 | [Yes I Do](https://open.spotify.com/track/6oTbxrszNWRsLdwFkGeHy6) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/6PPhLgXiq4nEiZ8x2ZB3xV) | 5:10 | 2022-04-28 | 2025-03-08 |
 | [Yes We Can Can](https://open.spotify.com/track/2qlfzP4cXFnd718WGNDCT4) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Soul Food: Cooking With Maceo](https://open.spotify.com/album/5Gov2tT73ooJR5WQienGoH) | 5:42 | 2022-07-05 | 2022-12-03 |
@@ -351,5 +352,6 @@
 | [You Know I'm No Good](https://open.spotify.com/track/4SyowQi18ym4zJGJDBnsTj) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/6GJCGWfI95aeRsdtVB52vc) | 4:16 | 2024-04-11 | 2024-06-29 |
 | [You Know I'm No Good](https://open.spotify.com/track/0DMRKqrpd0QO4RWiEdMib0) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 4:17 | 2022-12-05 | 2024-04-19 |
 | [You’ve Got A Hard Head](https://open.spotify.com/track/0A9CYocZJ8JZc3erLTyzuh) | [Johnny "Guitar" Watson](https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl) | [Listen](https://open.spotify.com/album/0zzVpVWRl3nKQppBGzfV0d) | 4:33 | 2022-06-16 | 2022-12-03 |
+| [Yèkèrmo Sèw](https://open.spotify.com/track/0oFChZRso5GydtIoSCv9Kz) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Mulatu Plays Mulatu](https://open.spotify.com/album/7p6BngLDdLeAeY38yptAjc) | 8:03 | 2025-10-08 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

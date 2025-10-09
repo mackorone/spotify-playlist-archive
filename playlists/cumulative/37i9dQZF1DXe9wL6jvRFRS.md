@@ -4,7 +4,7 @@
 
 > spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. Maruja on the cover.
 
-62 songs - 4 hr 48 min
+63 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [The New Sound](https://open.spotify.com/track/2gGHan1D8nlvv27lQU2GjL) | [Geordie Greep](https://open.spotify.com/artist/65Msz2E34NUtbjEbsrsJlJ) | [The New Sound](https://open.spotify.com/album/07YS7ooqYtvPZLlW59MHY5) | 4:47 | 2025-07-10 |  |
 | [The Place Where He Inserted the Blade](https://open.spotify.com/track/3k2kIiJqUiIP49iUcOLpWT) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 7:13 | 2025-07-10 |  |
 | [this is my california](https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this is my california](https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq) | 4:58 | 2025-07-10 |  |
+| [Trinidad](https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:44 | 2025-10-08 |  |
 | [twothousandandtwo](https://open.spotify.com/track/7BLNcnh1NwIct2oIQuYwV2) | [War Room](https://open.spotify.com/artist/07capJSDwiqRZPkID32RpX) | [Please Don't Fight In Here](https://open.spotify.com/album/1Hd4A3gIU5ZiNnuQ3w3k8N) | 6:00 | 2025-07-10 |  |
 | [We're Home Now](https://open.spotify.com/track/0wuOtAHsrFs7SW0PnS6Ikx) | [Cagefly](https://open.spotify.com/artist/0fIkgtLZMpqeF1OhjIQp0q) | [Cagefly](https://open.spotify.com/album/2dxfj5YVAPAVhbfkoMUprk) | 7:27 | 2025-07-10 |  |
 | [Where The Barrel Meets The Badger](https://open.spotify.com/track/4xCxX6gOcz2pEuvNcdJZWZ) | [Dog Race](https://open.spotify.com/artist/36Ar4uCS5iNCgQLMFrWKyA) | [Return The Day](https://open.spotify.com/album/5um2imkoEj1KJCcn0rmN8x) | 4:48 | 2025-07-10 |  |

@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-680 songs - 1 day 8 hr 56 min
+681 songs - 1 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [December](https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [December](https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX) | 2:35 | 2024-04-05 | 2024-10-05 |
 | [Despasito](https://open.spotify.com/track/2r8Ji4hSbuPlQojrxY7Tyg) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Virtuoso](https://open.spotify.com/album/0C4DFElYdLiT6SsMnbb3a2) | 3:10 | 2025-03-07 | 2025-07-05 |
 | [Diamonds](https://open.spotify.com/track/0UEct6UTSjqEex8AHOUf5z) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 2:29 | 2024-01-15 | 2024-11-22 |
-| [Diamonds \(feat\. Fireboy DML\)](https://open.spotify.com/track/09JFIHQ8IPDKrbaDxTICxY) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Still The Mayor](https://open.spotify.com/album/0Ev8VZe0x9bTzf55gVQNeR) | 2:20 | 2025-06-13 |  |
+| [Diamonds \(feat\. Fireboy DML\)](https://open.spotify.com/track/09JFIHQ8IPDKrbaDxTICxY) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Still The Mayor](https://open.spotify.com/album/0Ev8VZe0x9bTzf55gVQNeR) | 2:20 | 2025-06-13 | 2025-10-09 |
 | [Dis Kain Luv](https://open.spotify.com/track/6vpC9vAX6UsuxTAlclCFDd) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Dis Kain Luv](https://open.spotify.com/album/42kZLEMm7IxL1CjW88NGg1) | 2:32 | 2024-06-28 | 2025-05-26 |
 | [DIVE IN](https://open.spotify.com/track/4zwGCsh0qWBJYpKCJk2wBl) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [DIVE IN](https://open.spotify.com/album/0wcF2eQIGacMilWO8F3hTM) | 3:02 | 2025-09-19 |  |
 | [DKT](https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [DKT](https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd) | 2:18 | 2022-06-09 | 2023-12-08 |
@@ -353,6 +353,7 @@
 | [Luvaluvah](https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 2:50 | 2025-06-20 |  |
 | [Maame Water](https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Maame Water](https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS) | 2:59 | 2023-03-30 | 2023-12-10 |
 | [Mad](https://open.spotify.com/track/2eRpyRjC2hThMbl99q00pe) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Diamond & Roses](https://open.spotify.com/album/3MVPTFnmsgLu4rvruGwAGf) | 2:39 | 2024-10-25 | 2024-11-22 |
+| [Mademoiselle \(feat\. ODUMODUBLVCK, Shallipopi, Theodora, Zeina\)](https://open.spotify.com/track/1iYBlO1RGEFeDnG3AH4gUE) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 2:51 | 2025-10-08 |  |
 | [Majẹkajá](https://open.spotify.com/track/55pTjtdEONZz5e4la7WmBV) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Before We Became Strangers](https://open.spotify.com/album/4eUmsqNGSbpaCJWnpQzCte) | 3:30 | 2025-07-04 |  |
 | [Make Sense](https://open.spotify.com/track/4V5ewWUvecAPHQmgZ1TPQJ) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [No Bad Boy, No Party](https://open.spotify.com/album/3haflscpuVSkTXo1yw3ghT) | 3:09 | 2023-06-02 | 2024-01-31 |
 | [Mali Spirit](https://open.spotify.com/track/4cEQJAGKi0ToNEqBs60Kpd) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe) | [Mali Spirit](https://open.spotify.com/album/1I2XSrjEHR8vZ60fqIdBlW) | 3:36 | 2025-03-21 |  |

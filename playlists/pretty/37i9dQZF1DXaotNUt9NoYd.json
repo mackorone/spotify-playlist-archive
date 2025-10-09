@@ -1,13 +1,29 @@
 {
   "description": "Its time to travel inwards & feel the bliss!",
-  "num_followers": 71533,
+  "num_followers": 71554,
   "original_name": "Dhyanam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANvWCbLN6UbwRM8GekPiisaa01Dr",
+  "snapshot_id": "AAAAAEoLOoMqTqa+akGpngj8n58CM6oq",
   "tracks": [
+    {
+      "added_at": "2025-10-08 09:26:34",
+      "album": {
+        "name": "Krishna Aur Kans",
+        "url": "https://open.spotify.com/album/4860cfaunfgt4lu0OGbZjv"
+      },
+      "artists": [
+        {
+          "name": "Rakesh Chaurasia",
+          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Enchanting Flute",
+      "url": "https://open.spotify.com/track/0zqWV67DuqFzLXiLJsAk9Z"
+    },
     {
       "added_at": "2021-04-22 05:37:53",
       "album": {
@@ -39,6 +55,42 @@
       "duration_ms": 123798,
       "name": "\u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0947 \u0938\u092a\u0928\u0947",
       "url": "https://open.spotify.com/track/7wKteYGjLxGYGYw45SFCS0"
+    },
+    {
+      "added_at": "2025-10-08 09:26:34",
+      "album": {
+        "name": "Woodland Dreams",
+        "url": "https://open.spotify.com/album/0p0AWEqiZOdXCpXj47B3qr"
+      },
+      "artists": [
+        {
+          "name": "Silvia Blaser",
+          "url": "https://open.spotify.com/artist/7M1gJy5ByDgPxqJvMYkioq"
+        },
+        {
+          "name": "timeless leaves",
+          "url": "https://open.spotify.com/artist/2MtQCgwif700Pm7i7JVWZ9"
+        }
+      ],
+      "duration_ms": 189426,
+      "name": "Invisible Spirits",
+      "url": "https://open.spotify.com/track/2JgZDjFDYvWn2Oj2l0mJM2"
+    },
+    {
+      "added_at": "2025-10-08 09:26:34",
+      "album": {
+        "name": "Path of Silence",
+        "url": "https://open.spotify.com/album/1MAfd9PsmzeqytYfBLM1cE"
+      },
+      "artists": [
+        {
+          "name": "Buddha Code",
+          "url": "https://open.spotify.com/artist/1E4RecMXQfXOmIaJHm17kd"
+        }
+      ],
+      "duration_ms": 225213,
+      "name": "Silent Awakening",
+      "url": "https://open.spotify.com/track/4QDGv6zyByK3JPoPrroPXp"
     },
     {
       "added_at": "2021-04-22 05:37:53",
@@ -105,20 +157,20 @@
       "url": "https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR"
     },
     {
-      "added_at": "2021-04-22 05:37:53",
+      "added_at": "2024-06-11 05:53:48",
       "album": {
-        "name": "Untitled",
-        "url": "https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/033FoV2z84edQ98JTUxFIl"
       },
       "artists": [
         {
-          "name": "Jupiter Grains",
-          "url": "https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85"
+          "name": "K",
+          "url": "https://open.spotify.com/artist/0hd66OEzb2gfUd7drvOK3d"
         }
       ],
-      "duration_ms": 112311,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v"
+      "duration_ms": 196999,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/5EJQuBhBqG7VU2Fi6y5btW"
     },
     {
       "added_at": "2021-04-22 05:37:53",
@@ -139,6 +191,22 @@
     {
       "added_at": "2021-04-22 05:37:53",
       "album": {
+        "name": "Untitled",
+        "url": "https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32"
+      },
+      "artists": [
+        {
+          "name": "Jupiter Grains",
+          "url": "https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85"
+        }
+      ],
+      "duration_ms": 112311,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v"
+    },
+    {
+      "added_at": "2021-04-22 05:37:53",
+      "album": {
         "name": "Meditations for Transformation: Cycle of Life",
         "url": "https://open.spotify.com/album/3W9Jqw4DcG9dfZm2Y53eU0"
       },
@@ -151,22 +219,6 @@
       "duration_ms": 366226,
       "name": "Savasana",
       "url": "https://open.spotify.com/track/3Vdmlvo70yXOD0z2DSkHGJ"
-    },
-    {
-      "added_at": "2024-06-11 05:53:48",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/033FoV2z84edQ98JTUxFIl"
-      },
-      "artists": [
-        {
-          "name": "K",
-          "url": "https://open.spotify.com/artist/0hd66OEzb2gfUd7drvOK3d"
-        }
-      ],
-      "duration_ms": 196999,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/5EJQuBhBqG7VU2Fi6y5btW"
     },
     {
       "added_at": "2021-04-22 05:37:53",
@@ -235,22 +287,6 @@
     {
       "added_at": "2021-04-22 05:37:53",
       "album": {
-        "name": "Pampus",
-        "url": "https://open.spotify.com/album/66EibKvWjwkOn8LPibdMcF"
-      },
-      "artists": [
-        {
-          "name": "Dardan Leistra",
-          "url": "https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Pampus",
-      "url": "https://open.spotify.com/track/7emdYdVOLn2nIzdFufWUQh"
-    },
-    {
-      "added_at": "2021-04-22 05:37:53",
-      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ"
       },
@@ -267,6 +303,22 @@
     {
       "added_at": "2021-04-22 05:37:53",
       "album": {
+        "name": "Pampus",
+        "url": "https://open.spotify.com/album/66EibKvWjwkOn8LPibdMcF"
+      },
+      "artists": [
+        {
+          "name": "Dardan Leistra",
+          "url": "https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Pampus",
+      "url": "https://open.spotify.com/track/7emdYdVOLn2nIzdFufWUQh"
+    },
+    {
+      "added_at": "2021-04-22 05:37:53",
+      "album": {
         "name": "Romantic Evening Ragas'",
         "url": "https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM"
       },
@@ -279,6 +331,22 @@
       "duration_ms": 172640,
       "name": "Raga Hemavati (Flute)",
       "url": "https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F"
+    },
+    {
+      "added_at": "2025-10-08 09:26:34",
+      "album": {
+        "name": "Zen Moments",
+        "url": "https://open.spotify.com/album/0nTt9oHrcnoE2HrKE1YRNR"
+      },
+      "artists": [
+        {
+          "name": "Native Zen",
+          "url": "https://open.spotify.com/artist/4soyRALJ7CmQ4pNoOqOlTg"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "Breaking Free from Samsara",
+      "url": "https://open.spotify.com/track/7LaoLWeRKCUDr195wHaVJ8"
     },
     {
       "added_at": "2021-04-22 05:37:53",
@@ -375,6 +443,22 @@
       "duration_ms": 157000,
       "name": "The Journey",
       "url": "https://open.spotify.com/track/77Fs2NajDBQaOOZkYDsFLE"
+    },
+    {
+      "added_at": "2025-10-08 09:26:34",
+      "album": {
+        "name": "OM Meditation Music Relax Your Mind Body",
+        "url": "https://open.spotify.com/album/79yj92Je5jJOVUXQhIpqtu"
+      },
+      "artists": [
+        {
+          "name": "Medi Tuner",
+          "url": "https://open.spotify.com/artist/2N7oZ9w6xVBUsouT8OP7Ey"
+        }
+      ],
+      "duration_ms": 352327,
+      "name": "OM Meditation Music Relax Your Mind Body",
+      "url": "https://open.spotify.com/track/4GyOg0iHTbEik4LCZu6RQz"
     },
     {
       "added_at": "2021-04-22 05:37:53",
@@ -491,22 +575,6 @@
     {
       "added_at": "2021-04-22 05:37:53",
       "album": {
-        "name": "Noctis",
-        "url": "https://open.spotify.com/album/07SebSgKlgeYAYb4I4lpiA"
-      },
-      "artists": [
-        {
-          "name": "Rosa L\u00f8vstr\u00f8m",
-          "url": "https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Noctis",
-      "url": "https://open.spotify.com/track/3SwiMJxBE5eqYdbXJBRtiT"
-    },
-    {
-      "added_at": "2021-04-22 05:37:53",
-      "album": {
         "name": "The Enlightened",
         "url": "https://open.spotify.com/album/5urCmlMjwzQzpi0ER6sTNE"
       },
@@ -519,6 +587,22 @@
       "duration_ms": 167210,
       "name": "Grateful Minds",
       "url": "https://open.spotify.com/track/1nwYsdWElwCywLZiY3J1g9"
+    },
+    {
+      "added_at": "2021-04-22 05:37:53",
+      "album": {
+        "name": "Noctis",
+        "url": "https://open.spotify.com/album/07SebSgKlgeYAYb4I4lpiA"
+      },
+      "artists": [
+        {
+          "name": "Rosa L\u00f8vstr\u00f8m",
+          "url": "https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Noctis",
+      "url": "https://open.spotify.com/track/3SwiMJxBE5eqYdbXJBRtiT"
     },
     {
       "added_at": "2021-04-22 05:37:53",
@@ -1047,22 +1131,6 @@
     {
       "added_at": "2021-04-22 05:37:53",
       "album": {
-        "name": "Mindful Meditation",
-        "url": "https://open.spotify.com/album/14NggUSq5mr6Zyo8Wovpw6"
-      },
-      "artists": [
-        {
-          "name": "Elof Sunflower",
-          "url": "https://open.spotify.com/artist/6BncFvDvMh4Z9JZ04ujVpa"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Dhy\u0101na",
-      "url": "https://open.spotify.com/track/4OGE31bP3woVbTTkelXBES"
-    },
-    {
-      "added_at": "2021-04-22 05:37:53",
-      "album": {
         "name": "Venu",
         "url": "https://open.spotify.com/album/3pfkWvBU3Y1EAUl4WMpu3c"
       },
@@ -1087,18 +1155,18 @@
     {
       "added_at": "2021-04-22 05:37:53",
       "album": {
-        "name": "Sleeper",
-        "url": "https://open.spotify.com/album/6IoRGJxNt4XSc7DbpSnMvm"
+        "name": "Mindful Meditation",
+        "url": "https://open.spotify.com/album/14NggUSq5mr6Zyo8Wovpw6"
       },
       "artists": [
         {
-          "name": "Intentional Vibes",
-          "url": "https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr"
+          "name": "Elof Sunflower",
+          "url": "https://open.spotify.com/artist/6BncFvDvMh4Z9JZ04ujVpa"
         }
       ],
-      "duration_ms": 216131,
-      "name": "Mindstiller",
-      "url": "https://open.spotify.com/track/2IA4wO7fwVunvFQuWeksm8"
+      "duration_ms": 262000,
+      "name": "Dhy\u0101na",
+      "url": "https://open.spotify.com/track/4OGE31bP3woVbTTkelXBES"
     },
     {
       "added_at": "2021-04-22 05:37:53",
@@ -1115,6 +1183,22 @@
       "duration_ms": 232577,
       "name": "Samadhi",
       "url": "https://open.spotify.com/track/1WJdUxC0wACrNH5IlqfL2f"
+    },
+    {
+      "added_at": "2021-04-22 05:37:53",
+      "album": {
+        "name": "Sleeper",
+        "url": "https://open.spotify.com/album/6IoRGJxNt4XSc7DbpSnMvm"
+      },
+      "artists": [
+        {
+          "name": "Intentional Vibes",
+          "url": "https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr"
+        }
+      ],
+      "duration_ms": 216131,
+      "name": "Mindstiller",
+      "url": "https://open.spotify.com/track/2IA4wO7fwVunvFQuWeksm8"
     },
     {
       "added_at": "2021-04-22 05:37:53",
@@ -1147,90 +1231,6 @@
       "duration_ms": 245085,
       "name": "Reiki Bansuri: Recommended Music",
       "url": "https://open.spotify.com/track/0b7JB89DUAE4PLoqqQIHEZ"
-    },
-    {
-      "added_at": "2021-04-22 05:37:53",
-      "album": {
-        "name": "Ayurveda: Lullabies for Relaxation, Sleep, Relax, Yoga and Meditation",
-        "url": "https://open.spotify.com/album/1fzHuo2IttTwieEVzq0UrQ"
-      },
-      "artists": [
-        {
-          "name": "Shades of Wellness",
-          "url": "https://open.spotify.com/artist/5or5JjbaHru3aJNSlCxcSn"
-        }
-      ],
-      "duration_ms": 216283,
-      "name": "Spa Music",
-      "url": "https://open.spotify.com/track/0Lh7IIcgWIA11OcfEstcko"
-    },
-    {
-      "added_at": "2021-04-22 05:37:53",
-      "album": {
-        "name": "The Raga Guide",
-        "url": "https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy"
-      },
-      "artists": [
-        {
-          "name": "Buddhadev DasGupta",
-          "url": "https://open.spotify.com/artist/4CMEJPRpRGpW6qMvIsFgBU"
-        }
-      ],
-      "duration_ms": 358826,
-      "name": "Bageshri",
-      "url": "https://open.spotify.com/track/086xtupAgie6cOt9CnCzsy"
-    },
-    {
-      "added_at": "2021-04-22 05:37:53",
-      "album": {
-        "name": "Yoga Nidra - Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes",
-        "url": "https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF"
-      },
-      "artists": [
-        {
-          "name": "Forest Bathing",
-          "url": "https://open.spotify.com/artist/6aJCmoJbcNSxH68H4hlVpY"
-        }
-      ],
-      "duration_ms": 314305,
-      "name": "Deep Awareness",
-      "url": "https://open.spotify.com/track/2VdfLOw5SFQ1Py550Y2KJP"
-    },
-    {
-      "added_at": "2021-04-22 05:37:53",
-      "album": {
-        "name": "Indian Meditation Spirit (Soothing Atmospheric Music)",
-        "url": "https://open.spotify.com/album/4GmKHj6MfNVtgnDI29EcrE"
-      },
-      "artists": [
-        {
-          "name": "Daniel Moon",
-          "url": "https://open.spotify.com/artist/1I7vjcdPb1t4QOv67ejO3h"
-        }
-      ],
-      "duration_ms": 241400,
-      "name": "Meaning of Life",
-      "url": "https://open.spotify.com/track/7ve7rdTlVAf4zV9dQ3bt4B"
-    },
-    {
-      "added_at": "2021-04-22 05:37:53",
-      "album": {
-        "name": "Iyengar Yoga, Vol. 1 (Relax & Meditation Music)",
-        "url": "https://open.spotify.com/album/4XTrFHrTA9FkYBTcktmQic"
-      },
-      "artists": [
-        {
-          "name": "Sunyata Project",
-          "url": "https://open.spotify.com/artist/7vyy3QthwHCQtdcPAX7HUu"
-        },
-        {
-          "name": "Jokern",
-          "url": "https://open.spotify.com/artist/1x7MjeSe2fOieKNWxAsoJ9"
-        }
-      ],
-      "duration_ms": 965194,
-      "name": "Entspannung & K\u00f6rper - Instrumental",
-      "url": "https://open.spotify.com/track/4SReRjN0ZKkZr468J97lLM"
     }
   ],
   "unique_name": "Dhyanam",

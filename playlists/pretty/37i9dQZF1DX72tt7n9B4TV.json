@@ -1,6 +1,6 @@
 {
   "description": "TURNSTILE SUMMER",
-  "num_followers": 50656,
+  "num_followers": 50655,
   "original_name": "Summer Rock ",
   "owner": {
     "name": "Spotify",
@@ -201,22 +201,6 @@
       "url": "https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI"
     },
     {
-      "added_at": "2025-06-06 15:36:16",
-      "album": {
-        "name": "Love Balloon",
-        "url": "https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK"
-      },
-      "artists": [
-        {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
-        }
-      ],
-      "duration_ms": 240906,
-      "name": "Love Balloon",
-      "url": "https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI"
-    },
-    {
       "added_at": "2025-06-18 21:47:33",
       "album": {
         "name": "Say That You Love Me",
@@ -231,6 +215,22 @@
       "duration_ms": 152804,
       "name": "Say That You Love Me",
       "url": "https://open.spotify.com/track/5kcAl2B3o7oM26BCQVggKl"
+    },
+    {
+      "added_at": "2025-06-06 15:36:16",
+      "album": {
+        "name": "Love Balloon",
+        "url": "https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "duration_ms": 240906,
+      "name": "Love Balloon",
+      "url": "https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI"
     },
     {
       "added_at": "2025-06-06 15:36:16",
@@ -411,6 +411,22 @@
     {
       "added_at": "2025-06-06 15:36:16",
       "album": {
+        "name": "SEEIN\u2019 STARS / BIRDS",
+        "url": "https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 146933,
+      "name": "BIRDS",
+      "url": "https://open.spotify.com/track/0k9JIBszlCqCa4SpXI353F"
+    },
+    {
+      "added_at": "2025-06-06 15:36:16",
+      "album": {
         "name": "Heaven :x: Hell",
         "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 193182,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG"
-    },
-    {
-      "added_at": "2025-06-06 15:36:16",
-      "album": {
-        "name": "SEEIN\u2019 STARS / BIRDS",
-        "url": "https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 146933,
-      "name": "BIRDS",
-      "url": "https://open.spotify.com/track/0k9JIBszlCqCa4SpXI353F"
     },
     {
       "added_at": "2025-06-18 21:54:46",
@@ -529,22 +529,6 @@
       "url": "https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT"
     },
     {
-      "added_at": "2025-06-13 12:33:03",
-      "album": {
-        "name": "A Little Love",
-        "url": "https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux"
-      },
-      "artists": [
-        {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
-        }
-      ],
-      "duration_ms": 218159,
-      "name": "A Little Love",
-      "url": "https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci"
-    },
-    {
       "added_at": "2025-06-06 15:36:16",
       "album": {
         "name": "Blue Weekend",
@@ -559,6 +543,22 @@
       "duration_ms": 196804,
       "name": "Smile",
       "url": "https://open.spotify.com/track/0mjOx4zUlL5t4rF1xnrfvi"
+    },
+    {
+      "added_at": "2025-06-13 12:33:03",
+      "album": {
+        "name": "A Little Love",
+        "url": "https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 218159,
+      "name": "A Little Love",
+      "url": "https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci"
     },
     {
       "added_at": "2025-06-06 15:36:16",
@@ -711,18 +711,18 @@
     {
       "added_at": "2025-06-06 15:36:16",
       "album": {
-        "name": "Can We Please Have Fun",
-        "url": "https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ"
+        "name": "Empty Words",
+        "url": "https://open.spotify.com/album/3qA0YD7inXnMoZySJcSK2Y"
       },
       "artists": [
         {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
         }
       ],
-      "duration_ms": 194731,
-      "name": "Mustang",
-      "url": "https://open.spotify.com/track/0bfY2rrQgn4HqiwftGNP36"
+      "duration_ms": 169850,
+      "name": "Empty Words",
+      "url": "https://open.spotify.com/track/1wCeYLO97jxvaSpihs5JpT"
     },
     {
       "added_at": "2025-06-06 15:36:16",
@@ -743,34 +743,18 @@
     {
       "added_at": "2025-06-06 15:36:16",
       "album": {
-        "name": "Empty Words",
-        "url": "https://open.spotify.com/album/3qA0YD7inXnMoZySJcSK2Y"
+        "name": "Can We Please Have Fun",
+        "url": "https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ"
       },
       "artists": [
         {
-          "name": "Radio Free Alice",
-          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 169850,
-      "name": "Empty Words",
-      "url": "https://open.spotify.com/track/1wCeYLO97jxvaSpihs5JpT"
-    },
-    {
-      "added_at": "2025-06-06 15:36:16",
-      "album": {
-        "name": "Would You?",
-        "url": "https://open.spotify.com/album/6X2rpNXyGFDcGKziNLWkRP"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 150891,
-      "name": "Would You?",
-      "url": "https://open.spotify.com/track/7GI0ukZzgs6bVCZg9OrBrj"
+      "duration_ms": 194731,
+      "name": "Mustang",
+      "url": "https://open.spotify.com/track/0bfY2rrQgn4HqiwftGNP36"
     },
     {
       "added_at": "2025-06-06 15:36:16",
@@ -787,6 +771,22 @@
       "duration_ms": 148326,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/2jzwJSLX8leUQVxwjAtODn"
+    },
+    {
+      "added_at": "2025-06-06 15:36:16",
+      "album": {
+        "name": "Would You?",
+        "url": "https://open.spotify.com/album/6X2rpNXyGFDcGKziNLWkRP"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 150891,
+      "name": "Would You?",
+      "url": "https://open.spotify.com/track/7GI0ukZzgs6bVCZg9OrBrj"
     },
     {
       "added_at": "2025-06-06 15:36:16",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-06-06 15:36:16",
       "album": {
-        "name": "my anti-aircraft friend",
-        "url": "https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ"
-      },
-      "artists": [
-        {
-          "name": "julie",
-          "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "catalogue",
-      "url": "https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD"
-    },
-    {
-      "added_at": "2025-06-06 15:36:16",
-      "album": {
         "name": "Girl with Fish",
         "url": "https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 107607,
       "name": "Freak",
       "url": "https://open.spotify.com/track/3YhPmmnigtDxukWdqlQXrF"
+    },
+    {
+      "added_at": "2025-06-06 15:36:16",
+      "album": {
+        "name": "my anti-aircraft friend",
+        "url": "https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ"
+      },
+      "artists": [
+        {
+          "name": "julie",
+          "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "catalogue",
+      "url": "https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD"
     },
     {
       "added_at": "2025-06-13 12:33:03",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-06-06 15:36:16",
       "album": {
-        "name": "All the Noise",
-        "url": "https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 179858,
-      "name": "All the Noise",
-      "url": "https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N"
-    },
-    {
-      "added_at": "2025-06-06 15:36:16",
-      "album": {
         "name": "angel in realtime.",
         "url": "https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 238653,
       "name": "the angel of 8th ave.",
       "url": "https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru"
+    },
+    {
+      "added_at": "2025-06-06 15:36:16",
+      "album": {
+        "name": "All the Noise",
+        "url": "https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 179858,
+      "name": "All the Noise",
+      "url": "https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N"
     },
     {
       "added_at": "2025-06-06 15:36:16",
@@ -1161,22 +1161,6 @@
       "url": "https://open.spotify.com/track/5cQmKBhv5Ui17M4hopt2TX"
     },
     {
-      "added_at": "2025-06-18 21:54:46",
-      "album": {
-        "name": "Paint A Picture",
-        "url": "https://open.spotify.com/album/6GAwsYJC09D75uOSpkAdWM"
-      },
-      "artists": [
-        {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
-        }
-      ],
-      "duration_ms": 168555,
-      "name": "Paint A Picture",
-      "url": "https://open.spotify.com/track/4utuVAGRIGr2rZ4RNOsToh"
-    },
-    {
       "added_at": "2025-06-06 15:36:16",
       "album": {
         "name": "Welcome To My House",
@@ -1207,6 +1191,22 @@
       "duration_ms": 153266,
       "name": "Mood Swings - Spotify Singles",
       "url": "https://open.spotify.com/track/7lnDmOjAU6K1LjAxfSHa9n"
+    },
+    {
+      "added_at": "2025-06-18 21:54:46",
+      "album": {
+        "name": "Paint A Picture",
+        "url": "https://open.spotify.com/album/6GAwsYJC09D75uOSpkAdWM"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 168555,
+      "name": "Paint A Picture",
+      "url": "https://open.spotify.com/track/4utuVAGRIGr2rZ4RNOsToh"
     },
     {
       "added_at": "2025-06-06 15:36:16",

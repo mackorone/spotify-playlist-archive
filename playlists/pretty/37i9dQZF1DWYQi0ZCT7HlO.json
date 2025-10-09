@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHThYGrOCw6pJgjN8MVxNgLqwp75",
+  "snapshot_id": "AAAAADvUliZuysO1PLiIUG/Cfy2CZ9zK",
   "tracks": [
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "Deck The Halls",
         "url": "https://open.spotify.com/album/3UWirUx1QvnakhZ1sfnrxZ"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/4s7RK1po6cVNGfT5cI9IJo"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
+      "album": {
+        "name": "Sleigh Ride (fireplace)",
+        "url": "https://open.spotify.com/album/17j9QsnZskQrWqBeHnprya"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Bern",
+          "url": "https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA"
+        }
+      ],
+      "duration_ms": 243194,
+      "name": "Sleigh Ride (fireplace)",
+      "url": "https://open.spotify.com/track/1wwbpAxfQZhvtJN7zOVO6r"
+    },
+    {
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "A Cozy Christmas Evening",
         "url": "https://open.spotify.com/album/38mNvJT8lj4ay5g7moUgHW"
@@ -41,23 +57,39 @@
       "url": "https://open.spotify.com/track/3pgyIgscqoLhhv2jCZQqUE"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
       "album": {
-        "name": "Have Yourself a Merry Little Christmas",
-        "url": "https://open.spotify.com/album/2Z7d7tnvVBRwoi9AxetwP7"
+        "name": "Have Yourself A Merry Little Christmas (Fireside)",
+        "url": "https://open.spotify.com/album/0jxowI6CSf4i3LQi4y7xBX"
       },
       "artists": [
         {
-          "name": "Quinn Harrington",
-          "url": "https://open.spotify.com/artist/5D5E3KJhdrPoOEKfLJ8qk4"
+          "name": "Oliver Thayne",
+          "url": "https://open.spotify.com/artist/4vAo8Lplb3vi38EU9nhXXa"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/219xISpsGvU8XWf7Um7Sb0"
+      "duration_ms": 127653,
+      "name": "Have Yourself A Merry Little Christmas (Fireside)",
+      "url": "https://open.spotify.com/track/7wWzZtNENv2N2g1BbzSGBS"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
+      "album": {
+        "name": "In The Bleak Midwinter (Fireside)",
+        "url": "https://open.spotify.com/album/559TKR1ERMa6bPcXnX1xws"
+      },
+      "artists": [
+        {
+          "name": "Cyrus Ellwood",
+          "url": "https://open.spotify.com/artist/6kUwWrYltraBNZyQ0ey9Gc"
+        }
+      ],
+      "duration_ms": 129038,
+      "name": "In The Bleak Midwinter (Fireside)",
+      "url": "https://open.spotify.com/track/39jACCi608YmscQIX1SAwC"
+    },
+    {
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "It's Beggining to Look a Lot like Christmas",
         "url": "https://open.spotify.com/album/7GrAhfKqoxCZvFroYouKH5"
@@ -73,7 +105,23 @@
       "url": "https://open.spotify.com/track/6mYetg3csOzQRS63MmXdjo"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
+      "album": {
+        "name": "Hark! The Herald Angels Sing (Fireside)",
+        "url": "https://open.spotify.com/album/02LS96txmqvxto2OrzXubb"
+      },
+      "artists": [
+        {
+          "name": "Adrian Holloway",
+          "url": "https://open.spotify.com/artist/25gb3Wu3VLDXSUkLCdoce5"
+        }
+      ],
+      "duration_ms": 123076,
+      "name": "Hark! The Herald Angels Sing (Fireside)",
+      "url": "https://open.spotify.com/track/0E2KpRTIaSRTAPaSGDgumI"
+    },
+    {
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "O Christmas Tree (Fireside)",
         "url": "https://open.spotify.com/album/5HEi2OEFIBDCEK4M8mtFRD"
@@ -89,7 +137,7 @@
       "url": "https://open.spotify.com/track/0Zvi3AZ3nhWcziyGBfrtDi"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "Walking in a Winter Wonderland",
         "url": "https://open.spotify.com/album/0p8oVtr8UkvfR1kXVGIcCw"
@@ -105,7 +153,7 @@
       "url": "https://open.spotify.com/track/3n3or2ujocN20GzYqgcHLM"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "I Heard the Bells on Christmas Day",
         "url": "https://open.spotify.com/album/09SAMjkZHbIuK3QGmBH4fE"
@@ -121,7 +169,7 @@
       "url": "https://open.spotify.com/track/4BT4Wk0PWYFSoJdiBzZPqU"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "Upon a Christmas Moon (Fireplace Lullaby Version)",
         "url": "https://open.spotify.com/album/0NtgrsRqorpoujGIW1boVE"
@@ -137,87 +185,39 @@
       "url": "https://open.spotify.com/track/5n86SwBqhl4tAowONYOPda"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
       "album": {
-        "name": "12 Days of Christmas (Fireside)",
-        "url": "https://open.spotify.com/album/6bq8e9ZJCK4r0nXYKIZZWS"
+        "name": "Good King Wenceslas (Fireside)",
+        "url": "https://open.spotify.com/album/12EnrufJvTBMSreZ1onCo0"
       },
       "artists": [
         {
-          "name": "Henri La Mer",
-          "url": "https://open.spotify.com/artist/4pkV0vxYX43iSVbrQaFSO9"
+          "name": "Elliot Marel",
+          "url": "https://open.spotify.com/artist/3qGhZSXpK9rZVrngc0rhCp"
         }
       ],
-      "duration_ms": 245517,
-      "name": "12 Days of Christmas (Fireside)",
-      "url": "https://open.spotify.com/track/00O8x3AiKHgWfVizSUf0Aq"
+      "duration_ms": 151923,
+      "name": "Good King Wenceslas (Fireside)",
+      "url": "https://open.spotify.com/track/70hKKXqwuOwU1iBDSMLu1Y"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
       "album": {
-        "name": "The Holly and the Ivy",
-        "url": "https://open.spotify.com/album/5oYr5TiYW2g8VDUyVrcTqK"
+        "name": "I Saw Mommy Kissing Santa Claus (Fireside)",
+        "url": "https://open.spotify.com/album/4o5KFrNzVmV5kd3436FPMO"
       },
       "artists": [
         {
-          "name": "Impi Pasanen",
-          "url": "https://open.spotify.com/artist/6aWTceMkjIYTXKrtEPNkIz"
+          "name": "Jonah Thorne",
+          "url": "https://open.spotify.com/artist/23pmsLpKKrDU3RS2sSjJr5"
         }
       ],
-      "duration_ms": 108330,
-      "name": "The Holly and the Ivy",
-      "url": "https://open.spotify.com/track/4ZZ6DHVvkm5BV6fFG1106x"
+      "duration_ms": 148250,
+      "name": "I Saw Mommy Kissing Santa Claus (Fireside)",
+      "url": "https://open.spotify.com/track/3P3EeCuVzzmgLpgPfaQbWR"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
-      "album": {
-        "name": "Angels We Have Heard on High",
-        "url": "https://open.spotify.com/album/697h20z6KuZbIZsIXgapz9"
-      },
-      "artists": [
-        {
-          "name": "Troy Emi",
-          "url": "https://open.spotify.com/artist/1pqR1gDeFiZr2ot3edcQLZ"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Angels We Have Heard on High",
-      "url": "https://open.spotify.com/track/1L8R7c9TSsDjUPp0AwH9BX"
-    },
-    {
-      "added_at": "2025-09-16 14:04:00",
-      "album": {
-        "name": "Seven Joys Of Mary (Cosy Fireplace version)",
-        "url": "https://open.spotify.com/album/43oT1uFGVoZMr2x81XX6ca"
-      },
-      "artists": [
-        {
-          "name": "Stian Jarrell",
-          "url": "https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Sussex Carol - Cosy Fireplace",
-      "url": "https://open.spotify.com/track/1QF8liNdcjjoODGETrFONz"
-    },
-    {
-      "added_at": "2025-09-16 14:04:00",
-      "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/4akxMu1ZtYGIAd6NV405Hc"
-      },
-      "artists": [
-        {
-          "name": "Elin Porsinger",
-          "url": "https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK"
-        }
-      ],
-      "duration_ms": 185069,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/2gCZKqKEAtRZjTJGzHIf01"
-    },
-    {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "O Come, All Ye Faithful (Fireplace Version)",
         "url": "https://open.spotify.com/album/5TsmdUMNLvGxzoa0TtFJ3W"
@@ -233,7 +233,71 @@
       "url": "https://open.spotify.com/track/3fNlo0Idz2QVQMGjqjYmiX"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
+      "album": {
+        "name": "The Holly and The Ivy (Fireside)",
+        "url": "https://open.spotify.com/album/3OzmpB2nW8bXOEXcyL1wuY"
+      },
+      "artists": [
+        {
+          "name": "Malachai Rourke",
+          "url": "https://open.spotify.com/artist/6hj1rD7WdtFagcZaW8utH2"
+        }
+      ],
+      "duration_ms": 87884,
+      "name": "The Holly and The Ivy (Fireside)",
+      "url": "https://open.spotify.com/track/0Fww3slJnym75KjhMkfBwv"
+    },
+    {
+      "added_at": "2025-10-08 09:55:52",
+      "album": {
+        "name": "Angels We Have Heard on High",
+        "url": "https://open.spotify.com/album/697h20z6KuZbIZsIXgapz9"
+      },
+      "artists": [
+        {
+          "name": "Troy Emi",
+          "url": "https://open.spotify.com/artist/1pqR1gDeFiZr2ot3edcQLZ"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Angels We Have Heard on High",
+      "url": "https://open.spotify.com/track/1L8R7c9TSsDjUPp0AwH9BX"
+    },
+    {
+      "added_at": "2025-10-08 09:55:52",
+      "album": {
+        "name": "Seven Joys Of Mary (Cosy Fireplace version)",
+        "url": "https://open.spotify.com/album/43oT1uFGVoZMr2x81XX6ca"
+      },
+      "artists": [
+        {
+          "name": "Stian Jarrell",
+          "url": "https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Sussex Carol - Cosy Fireplace",
+      "url": "https://open.spotify.com/track/1QF8liNdcjjoODGETrFONz"
+    },
+    {
+      "added_at": "2025-10-08 09:55:52",
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/4akxMu1ZtYGIAd6NV405Hc"
+      },
+      "artists": [
+        {
+          "name": "Elin Porsinger",
+          "url": "https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK"
+        }
+      ],
+      "duration_ms": 185069,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/2gCZKqKEAtRZjTJGzHIf01"
+    },
+    {
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "Do You Hear What I Hear",
         "url": "https://open.spotify.com/album/5211ajJwXcxcWkP9gX0sKf"
@@ -249,7 +313,7 @@
       "url": "https://open.spotify.com/track/7tlBeryJIvr9ZjpWmfFGUV"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "O Little Town of Bethlehem",
         "url": "https://open.spotify.com/album/0I4PJXo1L3ivkFvfes7pOL"
@@ -265,7 +329,7 @@
       "url": "https://open.spotify.com/track/7C5oY169IzDYFHKlVQASYr"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "Santa Tell Me",
         "url": "https://open.spotify.com/album/5YIUlGeaoRrkj5CBAc74b7"
@@ -281,7 +345,7 @@
       "url": "https://open.spotify.com/track/2BEwC1vSpl2TLtAjGDnSGs"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "I Saw Three Ships",
         "url": "https://open.spotify.com/album/4azgQ5dDrHVqu0paYV9r0G"
@@ -297,23 +361,23 @@
       "url": "https://open.spotify.com/track/7JsHhz4CdAXQ7Xdc6geA6W"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
       "album": {
-        "name": "I Saw Mommy Kissing Santa Claus",
-        "url": "https://open.spotify.com/album/4RQ3ioyZK5ly2mm7vyt3e5"
+        "name": "Here Comes Santa Claus (Right Down Santa Claus Lane) (Fireside)",
+        "url": "https://open.spotify.com/album/7thNOf6UtWibhUmTbzbmHU"
       },
       "artists": [
         {
-          "name": "Kaelyn Aitken",
-          "url": "https://open.spotify.com/artist/1PK1Qzjcr6QYgBy1linRrY"
+          "name": "Caleb Rowan",
+          "url": "https://open.spotify.com/artist/7hkmKmf613XNUHA7rp3K3K"
         }
       ],
-      "duration_ms": 112949,
-      "name": "I Saw Mommy Kissing Santa Claus",
-      "url": "https://open.spotify.com/track/06U6JHJdJzblXO2xlWsqRu"
+      "duration_ms": 148500,
+      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane) (Fireside)",
+      "url": "https://open.spotify.com/track/08Avcik46W6yewFtQOJ4ec"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "Rockin' Around the Christmas Tree",
         "url": "https://open.spotify.com/album/6b7Cwymeb76aWKq7y7iDE3"
@@ -329,7 +393,23 @@
       "url": "https://open.spotify.com/track/3he8wjLlp8h6RfC8hGztNZ"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
+      "album": {
+        "name": "Happy Xmas (War Is Over) (Fireside)",
+        "url": "https://open.spotify.com/album/22DXiE5yHVDcHzcLJd08Sw"
+      },
+      "artists": [
+        {
+          "name": "Simon Dovell",
+          "url": "https://open.spotify.com/artist/7t2YcZpz2inNym0ELU057n"
+        }
+      ],
+      "duration_ms": 164624,
+      "name": "Happy Xmas (War Is Over) (Fireside)",
+      "url": "https://open.spotify.com/track/2f1uQ0O04SVfI2H2bfpQxD"
+    },
+    {
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "That Christmas Feeling",
         "url": "https://open.spotify.com/album/4NKIVOWRXBKTpFJaBZpAhX"
@@ -345,7 +425,7 @@
       "url": "https://open.spotify.com/track/0UMt7MtTwUdRHfJgWzs5yw"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "It Came Upon a Midnight Clear (Fireside)",
         "url": "https://open.spotify.com/album/71eWnkKIR1WFPLL9tKrvug"
@@ -361,7 +441,23 @@
       "url": "https://open.spotify.com/track/2ivyXGyBGz7275DuKNxW4w"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
+      "album": {
+        "name": "Christmas Waltz",
+        "url": "https://open.spotify.com/album/4MPR48VLB8VP43LmYf0Exm"
+      },
+      "artists": [
+        {
+          "name": "Alfons Daiminger",
+          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
+        }
+      ],
+      "duration_ms": 143968,
+      "name": "Christmas Waltz",
+      "url": "https://open.spotify.com/track/5FTezbwyU5OLmf2kiE4XTO"
+    },
+    {
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "Like It's Christmas (Fireplace Version)",
         "url": "https://open.spotify.com/album/7LSc45bpP6hCPjDujCvwm7"
@@ -377,7 +473,23 @@
       "url": "https://open.spotify.com/track/67ss5ZP5lT8Tk1aTT3sfgj"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
+      "album": {
+        "name": "Ave Maria",
+        "url": "https://open.spotify.com/album/5hHWNPbQSYFFEAUSUzLbzV"
+      },
+      "artists": [
+        {
+          "name": "J. Sapphire",
+          "url": "https://open.spotify.com/artist/0PLfqGlz9ZVRugDUWZ22Jz"
+        }
+      ],
+      "duration_ms": 153233,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/4FMkEc8p40sWRmOM8YPZEX"
+    },
+    {
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "Happy Christmas, Little Friend",
         "url": "https://open.spotify.com/album/3ecqfmmhpAZFo9XTHHsQA1"
@@ -393,7 +505,7 @@
       "url": "https://open.spotify.com/track/0YmB9i2jXAv9tZDAEjQOje"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "Classical Holidays on Piano",
         "url": "https://open.spotify.com/album/2Q5j7DybRr1RFE0FNhTwNS"
@@ -409,23 +521,23 @@
       "url": "https://open.spotify.com/track/0KdZqytCJ37iZ2A8JGT8oR"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
       "album": {
-        "name": "I'll Be Home For Christmas",
-        "url": "https://open.spotify.com/album/2rHsCmeC0USUWff0fcG5kB"
+        "name": "I'll Be Home for Christmas (Fireside)",
+        "url": "https://open.spotify.com/album/29pIacxBPwFTFya7VVjipT"
       },
       "artists": [
         {
-          "name": "Ursula Rothschild",
-          "url": "https://open.spotify.com/artist/76pBdJnawajPFuWwNzMsg8"
+          "name": "Asher Lowell",
+          "url": "https://open.spotify.com/artist/5nA4lp6HwDfgZuHey70b3z"
         }
       ],
-      "duration_ms": 153845,
-      "name": "I'll Be Home For Christmas",
-      "url": "https://open.spotify.com/track/1K6gIb43loGJGWs3YstidH"
+      "duration_ms": 73255,
+      "name": "I'll Be Home for Christmas (Fireside)",
+      "url": "https://open.spotify.com/track/7FIwfu0P6XfC8LpcPi1eJU"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "Christmas Chillin' By The Fireplace",
         "url": "https://open.spotify.com/album/5POi8oLGWuxuOOHpYMW8Aa"
@@ -441,7 +553,23 @@
       "url": "https://open.spotify.com/track/1mB5ASqFUWws6HPbUKLYhz"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
+      "album": {
+        "name": "The First Noel (Fireside)",
+        "url": "https://open.spotify.com/album/0fCdvH7wtxEaR18yXTzRzQ"
+      },
+      "artists": [
+        {
+          "name": "Dorian Hale",
+          "url": "https://open.spotify.com/artist/7fCEFFvlNk477jNijQ7N8s"
+        }
+      ],
+      "duration_ms": 141538,
+      "name": "The First Noel (Fireside)",
+      "url": "https://open.spotify.com/track/3H4HSuqsm9QRiU132mKQoB"
+    },
+    {
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "O Come O Come Emmanuel (Fireside)",
         "url": "https://open.spotify.com/album/6ijZhFQ3RVW3RCGwjLTrQG"
@@ -457,7 +585,39 @@
       "url": "https://open.spotify.com/track/3CjuWaW96mw2gHKYTAWkZV"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
+      "album": {
+        "name": "We Three Kings",
+        "url": "https://open.spotify.com/album/7HWAsGktC7Mu0Ns1ejStBi"
+      },
+      "artists": [
+        {
+          "name": "Jacques Ferrandi",
+          "url": "https://open.spotify.com/artist/5ZHteW1wcQ0lo61nAFQPV7"
+        }
+      ],
+      "duration_ms": 198214,
+      "name": "We Three Kings",
+      "url": "https://open.spotify.com/track/16chvhtLBHS76JNBCUnaA0"
+    },
+    {
+      "added_at": "2025-10-08 09:55:52",
+      "album": {
+        "name": "Home For The Holidays (Fireside)",
+        "url": "https://open.spotify.com/album/5DEFjHlwB9xnbIhe2ZKN44"
+      },
+      "artists": [
+        {
+          "name": "Micah Loren",
+          "url": "https://open.spotify.com/artist/67c6K0JnvmUKbddZO1UNvg"
+        }
+      ],
+      "duration_ms": 111000,
+      "name": "Home For The Holidays (Fireside)",
+      "url": "https://open.spotify.com/track/1Uset1E9sCpqEec4Ue0moI"
+    },
+    {
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "Another Year Has Gone By",
         "url": "https://open.spotify.com/album/4JvQAk6ksOZmr4wpHamAjW"
@@ -473,7 +633,7 @@
       "url": "https://open.spotify.com/track/3jooT6YMc2YCyueljlMfTx"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "Deck The Halls",
         "url": "https://open.spotify.com/album/3UWirUx1QvnakhZ1sfnrxZ"
@@ -489,7 +649,7 @@
       "url": "https://open.spotify.com/track/1ZuCGjQw1RDbrF6xJjxBfG"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "A Cozy Christmas Evening",
         "url": "https://open.spotify.com/album/38mNvJT8lj4ay5g7moUgHW"
@@ -505,7 +665,7 @@
       "url": "https://open.spotify.com/track/5QGyjRGFMPt61RamuthQL0"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "O Tannenbaum",
         "url": "https://open.spotify.com/album/6rIdnvkljhJ4mPqTzTk8yy"
@@ -521,7 +681,23 @@
       "url": "https://open.spotify.com/track/5y3PYtsCNmCoxqhTUrQRBQ"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
+      "album": {
+        "name": "A Holly Jolly Christmas",
+        "url": "https://open.spotify.com/album/3d6nf3KhgRuRwcR5aY6e6a"
+      },
+      "artists": [
+        {
+          "name": "A. Mayven",
+          "url": "https://open.spotify.com/artist/5Xq88eyRCCHY996qEXXdRU"
+        }
+      ],
+      "duration_ms": 152311,
+      "name": "A Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/2RhnIXiNgmx9htUzzKpyFp"
+    },
+    {
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "Christmas Tree Magic (Fireplace)",
         "url": "https://open.spotify.com/album/34wptdoeS32BebJ7hYEXrt"
@@ -537,7 +713,23 @@
       "url": "https://open.spotify.com/track/4zuF6zoWJpv7csDNbyV4y8"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
+      "album": {
+        "name": "T'was The Night Before Christmas (Fireside)",
+        "url": "https://open.spotify.com/album/6ve4Nlaaq8PkIJ0vAqKiRU"
+      },
+      "artists": [
+        {
+          "name": "Luka Draganov",
+          "url": "https://open.spotify.com/artist/69SxvO8fdDOJ49SBDodS56"
+        }
+      ],
+      "duration_ms": 137500,
+      "name": "T'was The Night Before Christmas (Fireside)",
+      "url": "https://open.spotify.com/track/4byPh7hjYr6OfmmKi63sqJ"
+    },
+    {
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "Christmas By The Fire",
         "url": "https://open.spotify.com/album/1k256NIUtEGBKOUCdNSHVJ"
@@ -553,7 +745,7 @@
       "url": "https://open.spotify.com/track/7txqEbOCcacXqRl2fruzmD"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "Piano Christmas By The Fireplace",
         "url": "https://open.spotify.com/album/71akQmAvBNjQWRO6S4cLo1"
@@ -569,7 +761,7 @@
       "url": "https://open.spotify.com/track/1wqR22Jo2Neg1HVMtngxZ2"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "Seven Joys Of Mary (Cosy Fireplace version)",
         "url": "https://open.spotify.com/album/43oT1uFGVoZMr2x81XX6ca"
@@ -585,7 +777,7 @@
       "url": "https://open.spotify.com/track/5QzOYBckLu48DnNDjjhNoo"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "Carols By The Fire",
         "url": "https://open.spotify.com/album/4RqB8ciH61URyJ3vjAD1bN"
@@ -601,7 +793,7 @@
       "url": "https://open.spotify.com/track/4f9JMu88egVfi8KLqslVom"
     },
     {
-      "added_at": "2025-09-16 14:04:00",
+      "added_at": "2025-10-08 09:55:52",
       "album": {
         "name": "Piano Christmas By The Fireplace",
         "url": "https://open.spotify.com/album/71akQmAvBNjQWRO6S4cLo1"
@@ -615,6 +807,22 @@
       "duration_ms": 224250,
       "name": "Lo, How A Rose E'er Blooming - Fireplace",
       "url": "https://open.spotify.com/track/4F5YPfIou0dd4hG39A8hWc"
+    },
+    {
+      "added_at": "2025-10-08 09:55:52",
+      "album": {
+        "name": "12 Days of Christmas (Fireside)",
+        "url": "https://open.spotify.com/album/6bq8e9ZJCK4r0nXYKIZZWS"
+      },
+      "artists": [
+        {
+          "name": "Henri La Mer",
+          "url": "https://open.spotify.com/artist/4pkV0vxYX43iSVbrQaFSO9"
+        }
+      ],
+      "duration_ms": 245517,
+      "name": "12 Days of Christmas (Fireside)",
+      "url": "https://open.spotify.com/track/00O8x3AiKHgWfVizSUf0Aq"
     }
   ],
   "unique_name": "Christmas Piano by the Fireplace",

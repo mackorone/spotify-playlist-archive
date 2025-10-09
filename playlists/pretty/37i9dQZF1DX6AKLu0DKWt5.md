@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from the winners and nominees of the 82nd Golden Globe Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,512 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,513 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 36 | [Grown Into](https://open.spotify.com/track/6LfeM2dBS486SVKneSCH3Z) | [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Nickel Boys \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6pAGYJhh68vHdZFUCezwKM) | 2:35 |
 | 37 | [PANESSO](https://open.spotify.com/track/4VpDRt7W4kA4voalShZnaX) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Griselda \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw) | 2:41 |
 | 38 | [MacArthur Park \- Single Version](https://open.spotify.com/track/438FjmTQD9khZWN5tGGHSg) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Beetlejuice Beetlejuice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63PDHCTMl5YxaqmbdQ66jj) | 3:55 |
-| 39 | [Mi Camino](https://open.spotify.com/track/2NPzPNhkwSTBMLfTxcaoPZ) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Emilia Pérez \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU) | 3:43 |
-| 40 | [Las Damas que Pasan](https://open.spotify.com/track/6rLqn0ZchGobKToeW4EKSj) | [Adriana Paz](https://open.spotify.com/artist/3lRv03FuzVeH86fJhllcMz), [The Mexican Choir](https://open.spotify.com/artist/68jpn60DDc7XyG0MqeJeqh) | [Emilia Pérez \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU) | 4:07 |
+| 39 | [Las Damas que Pasan](https://open.spotify.com/track/6rLqn0ZchGobKToeW4EKSj) | [Adriana Paz](https://open.spotify.com/artist/3lRv03FuzVeH86fJhllcMz), [The Mexican Choir](https://open.spotify.com/artist/68jpn60DDc7XyG0MqeJeqh) | [Emilia Pérez \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU) | 4:07 |
+| 40 | [Mi Camino](https://open.spotify.com/track/2NPzPNhkwSTBMLfTxcaoPZ) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Emilia Pérez \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU) | 3:43 |
 
 Snapshot ID: `AAAAAMx6AsksfoKai4xANBaGptDo28UD`

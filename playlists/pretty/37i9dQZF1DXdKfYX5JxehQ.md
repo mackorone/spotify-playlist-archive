@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKfYX5JxehQ.md) - [plain]
 
 > Se você cheirou a suco em 2023, essa playlist é pros seus treinos, não é mesmo?
 
-[Spotify](https://open.spotify.com/user/spotify) - 40 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 42 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKfYX5JxehQ.md) - [plain]
 | 49 | [That's Why 2k19 \(Vintage Culture & Dashdot 2k19\)](https://open.spotify.com/track/12mUCDvHU5jtJpnQJd4fKj) | [Dashdot](https://open.spotify.com/artist/0dDnvI6TCQslhEBYCA4DPU), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [That's Why \(Vintage Culture & Dashdot 2k19\)](https://open.spotify.com/album/2J1TdyQQ88VUupk1YinEGC) | 3:17 |
 | 50 | [So Tell Me \- Radio Edit](https://open.spotify.com/track/0WbYSr9vGI33xEH8xLb7vo) | [Malifoo](https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5) | [So Tell Me \(Radio Edit\)](https://open.spotify.com/album/0TvZI457Iot4mtGRlMDSeN) | 3:09 |
 
-Snapshot ID: `AAAAAMmWrm4ZeFcL1AwmnyhkJe6/J9yp`
+Snapshot ID: `AAAAADsL8xUib6SiNyOF9I96v6vRmtkj`

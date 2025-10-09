@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,421 likes - 53 songs - 2 hr 57 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,426 likes - 59 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,5 +61,11 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 51 | [good morning, harrison, it’s time to go](https://open.spotify.com/track/0MtCyA1GNASSRa3dEHFoVa) | [Okkyung Lee](https://open.spotify.com/artist/0fVfcPcdnLfSeH0ZAAEeCQ) | [just like any other day \(어느날\) : background music for your mundane activities](https://open.spotify.com/album/7AovEt3AwCjUsoazf8fZlk) | 3:02 |
 | 52 | [We Share The Same Breath](https://open.spotify.com/track/1SlN5pwqGU5M8DECxEamCt) | [Torus](https://open.spotify.com/artist/4YlNFCrxoTfxFtZwPoGjLW) | [Summer of Love](https://open.spotify.com/album/5Ye7qabYgs7yFnHTzFsptN) | 4:32 |
 | 53 | [Ceffylau](https://open.spotify.com/track/16c7tL31q18QfNsFi6bXzR) | [Catrin Finch](https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818), [Seckou Keita](https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc) | [Clychau Dibon](https://open.spotify.com/album/6sMLaItoTxTwETaIPYrEiv) | 5:23 |
+| 54 | [Asian Gangsta Kidz](https://open.spotify.com/track/1mYm6V3LtOrVAh5NosTpn7) | [ee](https://open.spotify.com/artist/1NS6IKQiXZTc1f03UWOrd7) | [Ramadan](https://open.spotify.com/album/2LC7F9j4VJq0mb4oLC7yyd) | 3:22 |
+| 55 | [Tropiq](https://open.spotify.com/track/28tb3ZTQiPXPO5w1kiqCVm) | [I:Cube](https://open.spotify.com/artist/2HNNSjjaK20NZ9PDZ2EMwU) | [Adore](https://open.spotify.com/album/0Hmwqb6SRtliaK6XbhUAZx) | 4:24 |
+| 56 | [Soft Focus](https://open.spotify.com/track/0jeUBf8cbpN1C6oQDVHuBx) | [Artemis](https://open.spotify.com/artist/4EPlTAt2kHslwke6grsplV), [Tayla](https://open.spotify.com/artist/6rdOWJwxGOOXXufe8djZnf) | [Producer 04](https://open.spotify.com/album/1u8d1QmR1RRJkQpzYZPAnw) | 4:37 |
+| 57 | [2357 A.D.](https://open.spotify.com/track/6zyZk3KUtCjrQSbNkOaAtl) | [Space Dimension Controller](https://open.spotify.com/artist/7rZjYMRC5pTV089WKn1Y4s) | [Welcome to Mikrosector\-50](https://open.spotify.com/album/5hhiFP1t4UhkI0JL397ogf) | 2:36 |
+| 58 | [What It Is \- Music](https://open.spotify.com/track/6P50WCsy2TcGC3LUOlH8qD) | [Fred P](https://open.spotify.com/artist/4qgais7fd2CQHtwbpCC4Dz), [J Kahila](https://open.spotify.com/artist/25BIZh7HxD9Hh50VAynYNI) | [The Incredible Adventures of Captain P](https://open.spotify.com/album/5MnsaNgHwIszw2X6eswrYE) | 4:50 |
+| 59 | [21 insecurities](https://open.spotify.com/track/7dVmclFw8bSqjBfwZANhFp) | [500](https://open.spotify.com/artist/1KN20bvE2G6dx9A0bUQayu) | [21 insecurities](https://open.spotify.com/album/5K7mmZFVJciov84zg1Ovsl) | 3:05 |
 
-Snapshot ID: `AAANO1izsxKHC2y2dQf+Xe21P+7sh/8a`
+Snapshot ID: `AAANQBa3yMX9upo3q6pnXaRTRD8Vn48W`

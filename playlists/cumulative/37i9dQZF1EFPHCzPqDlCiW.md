@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-176 songs - 9 hr 19 min
+178 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Rectify](https://open.spotify.com/track/4R92vwddgoPdxQoO5D4tqs) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Rectify](https://open.spotify.com/album/0pf9DOuwPtzCHT2RF5wOE3) | 2:48 | 2024-01-29 |  |
 | [Remember Me \(feat\. Stealth\)](https://open.spotify.com/track/2P05O4MevMZFthpwZEDGBh) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Remember Me \(feat\. Stealth\)](https://open.spotify.com/album/6DFkcVQt8csmoaKXhzBU8y) | 6:53 | 2024-01-29 |  |
 | [Roots](https://open.spotify.com/track/4660UGjHeuUS1wvNwa2aVV) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Roots](https://open.spotify.com/album/6rqhYGB9okEjw3KuciklEV) | 2:52 | 2024-12-15 |  |
+| [Roses](https://open.spotify.com/track/6EEXnHK3SYLTj74ynXAHtj) | [Nosi](https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Roses](https://open.spotify.com/album/2qIx0ueLDqtvYJtZdOLffk) | 3:38 | 2025-10-08 |  |
 | [Ruins](https://open.spotify.com/track/4jfB2EGWbtWzDoM696Ch6u) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Ruins](https://open.spotify.com/album/13xj625T4hyjosgTEZBRLH) | 2:40 | 2025-06-19 |  |
 | [Running](https://open.spotify.com/track/1QIfgOhKg7jb6WbkO4IwFa) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 2:59 | 2024-09-22 |  |
 | [Shoot Down The Sun](https://open.spotify.com/track/1agXGm6VaKxT5DckyuhCJc) | [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Shoot Down The Sun](https://open.spotify.com/album/1E9dHNaYD5tfmslrOwNRyj) | 3:10 | 2024-01-29 |  |
@@ -164,6 +165,7 @@
 | [Start Again](https://open.spotify.com/track/1FypvNODDT5HbtPbIDsugy) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX) | 3:40 | 2024-01-29 |  |
 | [Stay Lost \- Cabu Remix](https://open.spotify.com/track/2qcFl2nn5JT8Kt9xpw8bUb) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman), [Amber\-Simone](https://open.spotify.com/artist/4KqKrtbthkLIucOXM3fGdV), [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE) | [Stay Lost \(Cabu Remix\)](https://open.spotify.com/album/5qsEGHO0Y4mLJKDjcEN96W) | 3:46 | 2024-01-29 |  |
 | [Still Got It Bad](https://open.spotify.com/track/2eJCERt6Rra9xLwIEsTxn6) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Still Got It Bad](https://open.spotify.com/album/3SdwPVxWApbnWMDl90lTDU) | 2:21 | 2024-01-29 |  |
+| [Storm Warning](https://open.spotify.com/track/2A5c5E66FvZGhVtqPIyBXg) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Goldrush](https://open.spotify.com/album/21pu6GFhO61NL2ZgzEsHjm) | 2:22 | 2025-10-08 |  |
 | [strangers](https://open.spotify.com/track/6ErwR2KyOsB0xc4oYFMPkW) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:21 | 2024-05-12 |  |
 | [strangers](https://open.spotify.com/track/6NrRwZOXIvYgEOnofnEE9V) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Bleeding Heart \(with Track\-by\-Track Commentary\)](https://open.spotify.com/album/26cd7AEyGAPbguPDvoKtub) | 2:21 | 2024-05-15 | 2024-06-08 |
 | [Taboo](https://open.spotify.com/track/0LKALGlOvOau898oFGfEMu) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Red](https://open.spotify.com/album/5hmhIJQOtTfAncnrg6lZv3) | 3:44 | 2024-01-29 |  |

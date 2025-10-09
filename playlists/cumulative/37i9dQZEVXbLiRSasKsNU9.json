@@ -10198,7 +10198,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 238320,
       "name": "Better",
       "url": "https://open.spotify.com/track/6oUgmZK0McW4706SLJlfDh"
@@ -37646,7 +37646,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 157733,
       "name": "JoyRide",
       "url": "https://open.spotify.com/track/6T17ZI0glfM2IGLdUwtnLK"
@@ -46747,6 +46747,24 @@
     },
     {
       "album": {
+        "name": "A Kid Named Cudi",
+        "url": "https://open.spotify.com/album/2blXZboio9DF8VC39LmUag"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143466,
+      "name": "Maui Wowie",
+      "url": "https://open.spotify.com/track/0Hnm7mnmqOLCIgvbMpM4Ev"
+    },
+    {
+      "album": {
         "name": "Maxed Out",
         "url": "https://open.spotify.com/album/1SX8oq1sameXhpTKtZ3gOt"
       },
@@ -49956,7 +49974,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 80442,
       "name": "MONTAGEM DIRE\u00c7\u00c3O",
       "url": "https://open.spotify.com/track/1KuF0vl4lKo1EQNAJIlnZM"
@@ -72082,7 +72100,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 161052,
       "name": "Sundari",
       "url": "https://open.spotify.com/track/5gsi1bSTPDIiW6Pi5kFmiU"
@@ -72712,6 +72730,24 @@
       "duration_ms": 160261,
       "name": "SWIPE",
       "url": "https://open.spotify.com/track/1FNfR4kZyozQ1unC5rQGC6"
+    },
+    {
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151125,
+      "name": "Sympathy is a knife",
+      "url": "https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW"
     },
     {
       "album": {
@@ -74996,6 +75032,28 @@
       "duration_ms": 183737,
       "name": "Thallumaala Paattu - From \"Thallumaala\"",
       "url": "https://open.spotify.com/track/3iH9MTX6mSGgSNlw9Q2T6t"
+    },
+    {
+      "album": {
+        "name": "That Girl",
+        "url": "https://open.spotify.com/album/57Fvr8t8L7NoZfQYVCkQFv"
+      },
+      "artists": [
+        {
+          "name": "Param",
+          "url": "https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0"
+        },
+        {
+          "name": "Manni Sandhu",
+          "url": "https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169472,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/1QecTIbUmqn4awHGDXd1q5"
     },
     {
       "album": {
@@ -83423,6 +83481,24 @@
     },
     {
       "album": {
+        "name": "Where Have You Been (Orchestra)",
+        "url": "https://open.spotify.com/album/6slpuFZJr3nKxrCNUugbs0"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3qEhZ01Vx3Xk4LBYgguKbm"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171008,
+      "name": "Where Have You Been (Orchestra)",
+      "url": "https://open.spotify.com/track/38iBHhjHpRTkIlAW9IeAdZ"
+    },
+    {
+      "album": {
         "name": "Where Have You Been (Orchestra Remix)",
         "url": "https://open.spotify.com/album/0Zdfg8LuVIZnzkVxUnHBGz"
       },
@@ -83434,7 +83510,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 77142,
       "name": "Where Have You Been - Orchestra Remix",
       "url": "https://open.spotify.com/track/4e6PHrCEwkv6d88ZxaTlzb"
@@ -85726,7 +85802,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 133236,
       "name": "you broke my heart",
       "url": "https://open.spotify.com/track/1j1shw1drvJCIlOXEZY9BD"

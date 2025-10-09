@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Mustafa Ceceli
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,532,762 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,532,744 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sabrettim](https://open.spotify.com/track/1PkXm3F4IHE4cwm3D9y1tr) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Sabrettim](https://open.spotify.com/album/1F9mSnW3E9HjHLAzqO0cjP) | 3:05 |
-| 2 | [YAREM](https://open.spotify.com/track/6qQJlvOphwsoaS2FBSdJ34) | [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE) | [YAREM](https://open.spotify.com/album/3gH9w2yKz8bhbiBHnFrQ93) | 2:25 |
-| 3 | [Bari](https://open.spotify.com/track/2LBsPaKgbYgNQEqxXOKv4z) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Bari](https://open.spotify.com/album/3PxxHiHse96AihPZuhtgCa) | 2:54 |
-| 4 | [Hayat](https://open.spotify.com/track/3h5GmcPFmtfHi0HdPdCsbx) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Hayat](https://open.spotify.com/album/6X2dFj9BuxNdKUR6ZNFCLw) | 3:07 |
-| 5 | [Seni Düşündüm](https://open.spotify.com/track/6oZ8BPQSQog7Q3LPUVgxCr) | [Çağla](https://open.spotify.com/artist/6z5LOKPoOll2mbBqsQrMqp), [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy) | [Seni Düşündüm](https://open.spotify.com/album/19pHsDprhf7iUmvia6TDhH) | 3:16 |
-| 6 | [RÜYA](https://open.spotify.com/track/67AMcEV9GTOlxs1NAvUDiU) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [RÜYA](https://open.spotify.com/album/5v6G10hZApQneoCuBnwcxS) | 3:15 |
+| 2 | [Seni Düşündüm](https://open.spotify.com/track/6oZ8BPQSQog7Q3LPUVgxCr) | [Çağla](https://open.spotify.com/artist/6z5LOKPoOll2mbBqsQrMqp), [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy) | [Seni Düşündüm](https://open.spotify.com/album/19pHsDprhf7iUmvia6TDhH) | 3:16 |
+| 3 | [YAREM](https://open.spotify.com/track/6qQJlvOphwsoaS2FBSdJ34) | [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE) | [YAREM](https://open.spotify.com/album/3gH9w2yKz8bhbiBHnFrQ93) | 2:25 |
+| 4 | [Bari](https://open.spotify.com/track/2LBsPaKgbYgNQEqxXOKv4z) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Bari](https://open.spotify.com/album/3PxxHiHse96AihPZuhtgCa) | 2:54 |
+| 5 | [Hayat](https://open.spotify.com/track/3h5GmcPFmtfHi0HdPdCsbx) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Hayat](https://open.spotify.com/album/6X2dFj9BuxNdKUR6ZNFCLw) | 3:07 |
+| 6 | [Her İki Durumda](https://open.spotify.com/track/0UCXX2vvVqhoFVdFL4XZa5) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Aerro](https://open.spotify.com/artist/1pJzB49ODjAOHUBRtKQK6A) | [Her İki Durumda](https://open.spotify.com/album/4O8buhpWrEtD6bvEeoGf8o) | 3:10 |
 | 7 | [YAPAR MISIN?](https://open.spotify.com/track/1o1y0rEQzj9HyB7grfQyl8) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [YAPAR MISIN?](https://open.spotify.com/album/6wCoZSFVEl52dncyZh2juC) | 2:37 |
-| 8 | [Her İki Durumda](https://open.spotify.com/track/0UCXX2vvVqhoFVdFL4XZa5) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Aerro](https://open.spotify.com/artist/1pJzB49ODjAOHUBRtKQK6A) | [Her İki Durumda](https://open.spotify.com/album/4O8buhpWrEtD6bvEeoGf8o) | 3:10 |
+| 8 | [RÜYA](https://open.spotify.com/track/67AMcEV9GTOlxs1NAvUDiU) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [RÜYA](https://open.spotify.com/album/5v6G10hZApQneoCuBnwcxS) | 3:15 |
 | 9 | [Sende De Benden Var](https://open.spotify.com/track/1UoOIt4oT3jLh4waq06wmG) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Sende De Benden Var](https://open.spotify.com/album/39zwVUxvdqEfPwW0JRg0KP) | 3:08 |
 | 10 | [Senin İçin](https://open.spotify.com/track/1v8CLaNXc9oO8Yhto417Ef) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Senin İçin](https://open.spotify.com/album/1yBtPnkCVvbz6Bjmx6KB3b) | 3:19 |
 | 11 | [Bir Çift Göz](https://open.spotify.com/track/0DDTcst1ymDkTla649Mu0H) | [Norm Ender](https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ), [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Bir Çift Göz](https://open.spotify.com/album/2LyB2W3XhNwMdZ2Ww9NlVH) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 49 | [Bitti](https://open.spotify.com/track/3UZH755lCjb6DY1hJq8RA4) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Kırlar](https://open.spotify.com/album/6KBFknDUvv8okkhIqRmZRc) | 3:01 |
 | 50 | [Unutulmuyor](https://open.spotify.com/track/69WJKtNwwQ5ST9y34lpp8g) | [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Unutulmuyor](https://open.spotify.com/album/7md4fYG2lWiKS09tq13Ll4) | 2:52 |
 
-Snapshot ID: `AAAAAPUGlLbcD/ZtIMNkHLOKYtmPsCUM`
+Snapshot ID: `AAAAADcm7A+ERGypbrwCzlDai0DGJ+qf`

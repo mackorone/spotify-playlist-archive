@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,013 likes - 158 songs - 9 hr 20 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,005 likes - 158 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 25 | [The Story](https://open.spotify.com/track/4pdhcVH0ugWaH2V0Ee1xC1) | [Jordan Corey](https://open.spotify.com/artist/7fVAMCPyWtZf1yx92YTBmJ) | [The Tunnel + the Light](https://open.spotify.com/album/2wVBD6IOKMwM0uKitmq5YI) | 3:57 |
 | 26 | [Fame is a Gun](https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:03 |
 | 27 | [Cauchemar](https://open.spotify.com/track/0WjAg9u9EjD7ufrS92yMs2) | [Joy Bogat](https://open.spotify.com/artist/4W9ZAgvkctnqPK6BftsaQg) | [What It Means To...](https://open.spotify.com/album/6k3GnyKxqSyNccoXzkWUfR) | 3:31 |
-| 28 | [Silver Lining](https://open.spotify.com/track/0DkjaDx0bP6vFrIbeROUot) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Silver Lining](https://open.spotify.com/album/4Mrqm0SLoMDGBbHNKAxJbz) | 3:20 |
-| 29 | [Admit It](https://open.spotify.com/track/0zjCFxTzKLfBXdUaHqM1gB) | [Sari](https://open.spotify.com/artist/0DYmUShcaeP46qeWK3JQfV) | [Admit It](https://open.spotify.com/album/4RbIatP71ygLGXPfm4qPci) | 3:49 |
-| 30 | [Closer](https://open.spotify.com/track/48sXOZXdKt62isQ5hz6gxh) | [Joseph Nevels](https://open.spotify.com/artist/6gXOSQ7WdaujwyIgb2p0O0) | [Closer](https://open.spotify.com/album/1o6Q1HzJDkZgiQFzVZliVQ) | 2:45 |
-| 31 | [WHIMPER](https://open.spotify.com/track/4bDCvXkzZkjsRKe7WfxBuB) | [Kadeli](https://open.spotify.com/artist/3zip7JElymH3ui0PMfkMaf) | [WHIMPER](https://open.spotify.com/album/2NE4MEi5wqQkS0Cho6Rwnh) | 2:34 |
-| 32 | [Wake Up Dreaming](https://open.spotify.com/track/3io4OPyh7wkgvrsBnItndC) | [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou), [bandcalledbeach](https://open.spotify.com/artist/1kS5Z9kfPzCGRTFQDlkyzJ) | [Wake Up Dreaming](https://open.spotify.com/album/0ph08O6Md4CdbbvUHzaMaC) | 2:11 |
+| 28 | [Paraíso](https://open.spotify.com/track/2rqFTZRau9yWjKAZbCtky8) | [Lotus Collective](https://open.spotify.com/artist/4Urpa1JAxXdZw5MrrpDWmA), [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Paraíso](https://open.spotify.com/album/7BerRN1MXhiHXvs7k4vapq) | 5:28 |
+| 29 | [Silver Lining](https://open.spotify.com/track/0DkjaDx0bP6vFrIbeROUot) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Silver Lining](https://open.spotify.com/album/4Mrqm0SLoMDGBbHNKAxJbz) | 3:20 |
+| 30 | [Admit It](https://open.spotify.com/track/0zjCFxTzKLfBXdUaHqM1gB) | [Sari](https://open.spotify.com/artist/0DYmUShcaeP46qeWK3JQfV) | [Admit It](https://open.spotify.com/album/4RbIatP71ygLGXPfm4qPci) | 3:49 |
+| 31 | [Closer](https://open.spotify.com/track/48sXOZXdKt62isQ5hz6gxh) | [Joseph Nevels](https://open.spotify.com/artist/6gXOSQ7WdaujwyIgb2p0O0) | [Closer](https://open.spotify.com/album/1o6Q1HzJDkZgiQFzVZliVQ) | 2:45 |
+| 32 | [WHIMPER](https://open.spotify.com/track/4bDCvXkzZkjsRKe7WfxBuB) | [Kadeli](https://open.spotify.com/artist/3zip7JElymH3ui0PMfkMaf) | [WHIMPER](https://open.spotify.com/album/2NE4MEi5wqQkS0Cho6Rwnh) | 2:34 |
 | 33 | [Gravity/Infinity](https://open.spotify.com/track/4qIRItcp9IlYEfE9jfJjZk) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Gravity/Infinity](https://open.spotify.com/album/1fH955IUJmkYpC3yJdYEkJ) | 3:02 |
 | 34 | [My Love](https://open.spotify.com/track/140U1hiFXkWppGU5GZv25H) | [Qancu](https://open.spotify.com/artist/3a6GdM9GeiSimrbOiYphdv) | [My Love](https://open.spotify.com/album/75vc6u36yQEofbktBH6e1h) | 2:45 |
 | 35 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 157 | [Egos](https://open.spotify.com/track/4UWkxcutVJH5tkzLy9ZjID) | [1P4E Music Collective](https://open.spotify.com/artist/3SBblF02HmxdcBwb527LFl), [KA3](https://open.spotify.com/artist/3r0EsYuuWuoMIryA50auuv), [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW), [Annie Daymar](https://open.spotify.com/artist/3xjZKxoPWWG1akLsPpNfsS) | [Egos](https://open.spotify.com/album/7EnuAt9A4zlx3FHyHybrgi) | 2:57 |
 | 158 | [Oh God](https://open.spotify.com/track/3H9CEHLTpUlthLW3eM7zEw) | [Caitlin Mar](https://open.spotify.com/artist/1XErytpdprOSvj7fchV9WE) | [Oh God](https://open.spotify.com/album/3OzNd4TDxUk7cXDv37pBI2) | 3:01 |
 
-Snapshot ID: `AAA0zoeFXe3mRfw6PHdps+yLaAQOY65V`
+Snapshot ID: `AAA00GuRWvkvtwDEU5CpiCYSOQYQyn75`

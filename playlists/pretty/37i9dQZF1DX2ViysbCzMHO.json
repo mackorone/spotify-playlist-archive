@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 174626,
+  "num_followers": 174636,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,22 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
+        "name": "Drinking Alone",
+        "url": "https://open.spotify.com/album/64PJ8S3L5sW6sCbWwqDccI"
+      },
+      "artists": [
+        {
+          "name": "Cole Phillips",
+          "url": "https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy"
+        }
+      ],
+      "duration_ms": 175783,
+      "name": "Drinking Alone - Sunset Session",
+      "url": "https://open.spotify.com/track/3SBwfxEUpTvavNFM9w47I4"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
         "name": "One Percent (Acoustic)",
         "url": "https://open.spotify.com/album/2Gu6f6gkopG6PBM59XGJR9"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 204900,
       "name": "One Percent (Acoustic)",
       "url": "https://open.spotify.com/track/3TTwYDjHcheOMwJO1f79dp"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
-        "name": "Another (Wedding Version)",
-        "url": "https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd"
-      },
-      "artists": [
-        {
-          "name": "Adam Doleac",
-          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
-        }
-      ],
-      "duration_ms": 171188,
-      "name": "Another - Wedding Version",
-      "url": "https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
+        "name": "Another (Wedding Version)",
+        "url": "https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd"
+      },
+      "artists": [
+        {
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
+        }
+      ],
+      "duration_ms": 171188,
+      "name": "Another - Wedding Version",
+      "url": "https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
         "name": "No Horse To Ride (demo version)",
         "url": "https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 133906,
       "name": "No Horse To Ride - demo version",
       "url": "https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
-        "name": "Drinking Alone",
-        "url": "https://open.spotify.com/album/64PJ8S3L5sW6sCbWwqDccI"
-      },
-      "artists": [
-        {
-          "name": "Cole Phillips",
-          "url": "https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy"
-        }
-      ],
-      "duration_ms": 175783,
-      "name": "Drinking Alone - Sunset Session",
-      "url": "https://open.spotify.com/track/3SBwfxEUpTvavNFM9w47I4"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "End of the Rain",
-        "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
-      },
-      "artists": [
-        {
-          "name": "Jason Blaine",
-          "url": "https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ"
-        }
-      ],
-      "duration_ms": 195701,
-      "name": "End of the Rain",
-      "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
         "name": "TWENTY SOMETHING (DELUXE)",
         "url": "https://open.spotify.com/album/5MoyIbsjnEHO2o6BNKjCpd"
       },
@@ -1199,6 +1183,38 @@
       "duration_ms": 196986,
       "name": "goodbye looks good on you feat. Mitchell Tenpenny (acoustic)",
       "url": "https://open.spotify.com/track/5KhBQkh2LvhuQQCW0hFjNo"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "End of the Rain",
+        "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
+      },
+      "artists": [
+        {
+          "name": "Jason Blaine",
+          "url": "https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ"
+        }
+      ],
+      "duration_ms": 195701,
+      "name": "End of the Rain",
+      "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "Heart Still Works (Stripped)",
+        "url": "https://open.spotify.com/album/44SuPkfDDbPfN5RzPTVyk5"
+      },
+      "artists": [
+        {
+          "name": "Chase McDaniel",
+          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
+        }
+      ],
+      "duration_ms": 197886,
+      "name": "Heart Still Works - Stripped",
+      "url": "https://open.spotify.com/track/108baBNEQ3MwWFfVqZmd0t"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1231,22 +1247,6 @@
       "duration_ms": 197600,
       "name": "Landslide - Live from Nashville",
       "url": "https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
-        "name": "Heart Still Works (Stripped)",
-        "url": "https://open.spotify.com/album/44SuPkfDDbPfN5RzPTVyk5"
-      },
-      "artists": [
-        {
-          "name": "Chase McDaniel",
-          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
-        }
-      ],
-      "duration_ms": 197886,
-      "name": "Heart Still Works - Stripped",
-      "url": "https://open.spotify.com/track/108baBNEQ3MwWFfVqZmd0t"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
+        "name": "Narcissist (Piano Version)",
+        "url": "https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "duration_ms": 153186,
+      "name": "Narcissist - Piano Version",
+      "url": "https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
         "name": "Six Strings",
         "url": "https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk"
       },
@@ -1383,18 +1399,18 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "Narcissist (Piano Version)",
-        "url": "https://open.spotify.com/album/4EyKXSLJRmGc4BpHyKCvsR"
+        "name": "Trouble (Piano Version)",
+        "url": "https://open.spotify.com/album/21mY8GTvLZrjy3GT8HlazU"
       },
       "artists": [
         {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
         }
       ],
-      "duration_ms": 153186,
-      "name": "Narcissist - Piano Version",
-      "url": "https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp"
+      "duration_ms": 214640,
+      "name": "Trouble - Piano Version",
+      "url": "https://open.spotify.com/track/42TvKuLe8AtI0MKyvtnzz8"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1451,22 +1467,6 @@
       "duration_ms": 211848,
       "name": "Never Wanted To Be That Girl - Acoustic Version",
       "url": "https://open.spotify.com/track/0CbnbBGQGXK3tXieapv9sk"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
-        "name": "Trouble (Piano Version)",
-        "url": "https://open.spotify.com/album/21mY8GTvLZrjy3GT8HlazU"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 214640,
-      "name": "Trouble - Piano Version",
-      "url": "https://open.spotify.com/track/42TvKuLe8AtI0MKyvtnzz8"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "Pretty Little Poison (Piano Version)",
-        "url": "https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "Pretty Little Poison - Piano Version",
-      "url": "https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
         "name": "Drive You Out Of My Mind (Dark Room Edition)",
         "url": "https://open.spotify.com/album/5jojUcRWK4ItxreTB2duTg"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 234310,
       "name": "Drive You Out Of My Mind - Dark Room Edition",
       "url": "https://open.spotify.com/track/422L8K9qMnljsXBxrk7G7D"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "Pretty Little Poison (Piano Version)",
+        "url": "https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "Pretty Little Poison - Piano Version",
+      "url": "https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E"
     },
     {
       "added_at": "2025-08-22 04:00:28",

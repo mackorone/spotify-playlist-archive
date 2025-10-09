@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Berkay Altunyay
 
-397 songs - 19 hr 53 min
+398 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Sen Anlamazsın](https://open.spotify.com/track/0gpRP7BZ3sfNeZb38CJ3QK) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec) | [Sen Anlamazsın](https://open.spotify.com/album/3ZoTNMvjTmVSAVt7FOTh3s) | 2:50 | 2025-06-19 | 2025-08-21 |
 | [Sen Ağla](https://open.spotify.com/track/1QTxQQfJjNYzMcOpilX3Bf) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:06 | 2025-06-26 |  |
 | [Sen Kalp Ben](https://open.spotify.com/track/36yASDIlHQ3u2KjGPpIahi) | [Tuğba Özerk](https://open.spotify.com/artist/30Lb5Jijp6ynpodpRsrqIX) | [Sen Kalp Ben](https://open.spotify.com/album/2kUoBwwIZAQ3e85ILszLSB) | 2:29 | 2025-09-18 | 2025-09-26 |
+| [Sende De Benden Var](https://open.spotify.com/track/1UoOIt4oT3jLh4waq06wmG) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Sende De Benden Var](https://open.spotify.com/album/39zwVUxvdqEfPwW0JRg0KP) | 3:08 | 2025-09-25 |  |
 | [Seni Bana Vermediler](https://open.spotify.com/track/1RfKc1ILYZtgkD41gCpZRc) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Seni Bana Vermediler](https://open.spotify.com/album/7nkt6nd03wiPPZOjS1VKnj) | 2:55 | 2025-04-17 | 2025-05-09 |
 | [Seni Görmeden](https://open.spotify.com/track/3iI4EZW4zQ755c5hKPE5ab) | [Sezer Sarıgöz](https://open.spotify.com/artist/4itYEciRGKzdy6XwBQeaYl) | [Seni Görmeden](https://open.spotify.com/album/2lhuxO6JhzcQ0KEFcEY2eM) | 2:27 | 2025-07-24 | 2025-09-09 |
 | [Seni Seven Kimdi](https://open.spotify.com/track/5M6QrHGDWdWhyq7hVz3zR8) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Seni Seven Kimdi](https://open.spotify.com/album/6x0U8MXvacaNyr070qwfML) | 4:00 | 2024-11-14 | 2025-07-18 |
@@ -315,7 +316,7 @@
 | [Siyah İncim](https://open.spotify.com/track/4alc3vJDUoulj3vzeR0m4y) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW), [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Bir Yol Bu](https://open.spotify.com/album/2OAJgY6y0u5IIRJES9mP03) | 3:58 | 2025-05-08 | 2025-05-23 |
 | [SİYAH](https://open.spotify.com/track/1lOyPGanKDx22bX2R2PFGt) | [Eftalya Yağcı](https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc) | [SİYAH](https://open.spotify.com/album/2qokghXkZ2eCOgPmQC2MqN) | 3:09 | 2025-05-01 | 2025-05-09 |
 | [Snap](https://open.spotify.com/track/4EsRpVBBKiqOZ67DJj0QHF) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Snap](https://open.spotify.com/album/4PJ5Iewz7PoUCRe7QKGHRq) | 2:29 | 2025-05-29 |  |
-| [Sokağından Geçmezdim](https://open.spotify.com/track/0cfSvO87qn9LtYRpkxSfq4) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Sokağından Geçmezdim](https://open.spotify.com/album/4HgYFr8tGOZ2oZ7RGGpJlK) | 3:58 | 2025-07-17 |  |
+| [Sokağından Geçmezdim](https://open.spotify.com/track/0cfSvO87qn9LtYRpkxSfq4) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Sokağından Geçmezdim](https://open.spotify.com/album/4HgYFr8tGOZ2oZ7RGGpJlK) | 3:58 | 2025-07-17 | 2025-10-09 |
 | [Sonbahar](https://open.spotify.com/track/7G2I1NgAdOFGVM2e6x2P15) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Sonbahar](https://open.spotify.com/album/1SBVjvWr5bVfEAokA9TrLs) | 3:55 | 2024-07-25 | 2024-12-04 |
 | [Sonralar Bizim Değil](https://open.spotify.com/track/7w79el56NrDPPOWl0e1p1f) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Sonralar Bizim Değil](https://open.spotify.com/album/4urqNeWISQJem6JjSPrD7U) | 3:25 | 2025-07-24 | 2025-09-26 |
 | [SONUNDA KAYBOLMUŞ](https://open.spotify.com/track/1Z8WJAP3aAiiar4VR149yf) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [TEK KİŞİLİK MASA](https://open.spotify.com/album/1PNjEh6e0T28jszrn3Mwva) | 3:19 | 2025-05-22 | 2025-06-06 |

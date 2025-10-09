@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 510387,
+  "num_followers": 510475,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAAATUYVqKUbCRuLot1HVnbhl",
+  "snapshot_id": "aORYAAAAAAAxCKwS1N+wwKc3hiLScHD1",
   "tracks": [
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Voz de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 255520,
+      "name": "\u00c1ngel (Angels)",
+      "url": "https://open.spotify.com/track/0oxpihgVSWeYrPoLVZ4udk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rojo",
         "url": "https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 212175,
       "name": "Yo Te Prefiero a Ti",
       "url": "https://open.spotify.com/track/0LuHppPzpqZ6lxdpmjmAz8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Voz de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 255520,
-      "name": "\u00c1ngel (Angels)",
-      "url": "https://open.spotify.com/track/0oxpihgVSWeYrPoLVZ4udk"
     },
     {
       "added_at": null,

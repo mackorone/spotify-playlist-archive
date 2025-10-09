@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198466,
+      "name": "Church on Sunday",
+      "url": "https://open.spotify.com/track/1a2aGhclRcNXQ8wq4V06x4"
+    },
+    {
+      "album": {
         "name": "Saviors",
         "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
       },
@@ -1166,7 +1184,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 231026,
       "name": "Last of the American Girls",
       "url": "https://open.spotify.com/track/5Rjm3VIMlxAEIEy5gU2bF7"

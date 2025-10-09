@@ -4,7 +4,7 @@
 
 > Waves and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
 
-182 songs - 8 hr 42 min
+183 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [heart wave](https://open.spotify.com/track/4jOCxSraETXlNjHz4m0r1k) | [Aquas](https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej) | [heart wave](https://open.spotify.com/album/37Wa0x4R7jqoZ4x8HocvxC) | 2:54 | 2024-05-01 |  |
 | [Hidden Beach](https://open.spotify.com/track/15RY8ZjXcqI3Ouh3Aj4bjp) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Hidden Beach](https://open.spotify.com/album/0pvZ5i0bmgOEw9Q63Lr0J7) | 2:58 | 2023-10-23 | 2025-04-02 |
 | [Highest Peaks](https://open.spotify.com/track/57cEl0th5hS43eAXY7krXh) | [Starry Girl](https://open.spotify.com/artist/4Uaq25W6YRawMeHyRIKwxy) | [Highest Peaks](https://open.spotify.com/album/5bqLjmTyXSVGls4ocSft2F) | 3:07 | 2024-02-06 | 2024-02-11 |
+| [Horizon](https://open.spotify.com/track/3vh3W77oJHFoR0gOSfWGxk) | [J\. Cartwright](https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC) | [Horizon](https://open.spotify.com/album/79JYZGVV44vTeiP1VbZEob) | 2:33 | 2025-10-02 |  |
 | [In Balance By The Shore](https://open.spotify.com/track/617Vt95JDL9ZyBiiALl2e1) | [Leo Lindholm](https://open.spotify.com/artist/4rkUkNV8IzVS3jRYgPmB8h) | [In Balance By The Shore](https://open.spotify.com/album/4fpMCLNlFUE9slr3RDc1PO) | 2:53 | 2025-06-23 |  |
 | [Indigo Glow](https://open.spotify.com/track/3Ns6i7BkVifP7SlJeQ5C8S) | [Xoj Litran](https://open.spotify.com/artist/1sEC1KPQBzaV3v3ArtEcOZ) | [Indigo Glow](https://open.spotify.com/album/2dcJP15Nrxd66yV6aEVJi9) | 2:32 | 2023-10-26 | 2025-01-16 |
 | [Kallisto Thalassa](https://open.spotify.com/track/0cYX4SJ08CQtEJd63j0PiF) | [Airin](https://open.spotify.com/artist/26UTcEInDAyY9tnGHZpGWQ) | [Kallisto Thalassa](https://open.spotify.com/album/5IzeqmJIDEBtqBnvDlet7j) | 3:15 | 2024-07-08 | 2025-07-01 |
@@ -133,7 +134,7 @@
 | [Passage](https://open.spotify.com/track/4uLjLZULqyGddexHpZYiqR) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Passage](https://open.spotify.com/album/1BURie5CI42IywQp2zXJ2V) | 2:32 | 2024-08-22 | 2025-05-23 |
 | [Pawkian](https://open.spotify.com/track/5lm7ANI4iMjkmVL0UgDJMw) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Pawkian](https://open.spotify.com/album/5jHIQGoDGlXEzqXW5QPWgI) | 2:50 | 2023-10-26 | 2025-01-16 |
 | [Placid](https://open.spotify.com/track/5tU4iN8NZV0NZFESddIG3W) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Placid](https://open.spotify.com/album/3cqgefYwQlBikWTCoefOfc) | 3:07 | 2025-04-01 | 2025-10-08 |
-| [Pra Ae](https://open.spotify.com/track/0PZQezoyHDKnpk28LwAtfc) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Pra Ae](https://open.spotify.com/album/50y0X3amN6i9ekVr9tggXU) | 2:17 | 2024-03-01 |  |
+| [Pra Ae](https://open.spotify.com/track/0PZQezoyHDKnpk28LwAtfc) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Pra Ae](https://open.spotify.com/album/50y0X3amN6i9ekVr9tggXU) | 2:17 | 2024-03-01 | 2025-10-09 |
 | [precious](https://open.spotify.com/track/6X33ozLJBIbYDFnvqqmIFm) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [precious](https://open.spotify.com/album/6nmYVTu0G7AW4pf7LJkWN4) | 2:16 | 2024-09-04 |  |
 | [Pukaki Passion](https://open.spotify.com/track/0AUpYDRGRJzA4gKkYQc1c5) | [Greet The Day](https://open.spotify.com/artist/1NOoLv44Fhhctc2GYYMD7R) | [Pukaki Passion](https://open.spotify.com/album/2iXVcEH9ABo2oIZelDAbnj) | 3:09 | 2023-10-26 |  |
 | [Reaching Waves](https://open.spotify.com/track/1hIgkWfHCKetneFMw5H3Td) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Reaching Waves](https://open.spotify.com/album/6qQ71QzjNiDyncq5UzHW5s) | 2:38 | 2023-10-26 | 2025-10-03 |

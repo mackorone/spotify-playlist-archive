@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,375 likes - 28 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,391 likes - 28 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

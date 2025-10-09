@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 207899,
+  "num_followers": 207926,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAAD1GxaaZd8qRR7WC1YWsW9C",
+  "snapshot_id": "aORYAAAAAAB257EfhJGGRIoPjWmflvcJ",
   "tracks": [
     {
       "added_at": null,
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos Guerreros",
-        "url": "https://open.spotify.com/album/5hGoY2vlu617nfSlf7uNVN"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 284571,
-      "name": "Somos Guerreros",
-      "url": "https://open.spotify.com/track/1RF6xAOyZWxQHdmvqyY0A4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Fiest\u00f3n",
         "url": "https://open.spotify.com/album/6oUqqtcH3bsQYsRXypgWvx"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 202500,
       "name": "El Fiest\u00f3n",
       "url": "https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos Guerreros",
+        "url": "https://open.spotify.com/album/5hGoY2vlu617nfSlf7uNVN"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 284571,
+      "name": "Somos Guerreros",
+      "url": "https://open.spotify.com/track/1RF6xAOyZWxQHdmvqyY0A4"
     },
     {
       "added_at": null,

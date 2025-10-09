@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYKYreD7bmFK.md) - [plain]
 
 > Tutti i brani in gara a Sanremo Giovani 2024!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,901 likes - 26 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,900 likes - 26 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

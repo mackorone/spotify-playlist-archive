@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat JVG,  Taylor Swift, Aliisa Syrjä, Pyzze, Juhani Haukkala, Matriarkaatti ja moni muu  – mukana myös uunituoreet Vain elämää \-biisit! 🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,535 likes - 105 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,529 likes - 105 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2357,6 +2357,24 @@
     },
     {
       "album": {
+        "name": "Laagdaat",
+        "url": "https://open.spotify.com/album/6rmfWuXRaENIdwC2gfY4mu"
+      },
+      "artists": [
+        {
+          "name": "Harpi Gill",
+          "url": "https://open.spotify.com/artist/2IAVxMMu1NjwNSLZ7YrXWu"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170232,
+      "name": "Laagdaat",
+      "url": "https://open.spotify.com/track/1EukMacxrj0ParRdjL387n"
+    },
+    {
+      "album": {
         "name": "Laare",
         "url": "https://open.spotify.com/album/0o667wDHfJ9lPRl3T1q7iw"
       },
@@ -3132,7 +3150,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 166500,
       "name": "Nach Le",
       "url": "https://open.spotify.com/track/1kPUAOdUMX1sNnjqW97AEn"

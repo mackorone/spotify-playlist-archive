@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Taking it way back! When hip-hop meets jazz. Fusion and samples. Cover: Jeezy",
+  "description": "Taking it way back! When hip-hop meets jazz. Fusion and samples. Cover: Outkast",
   "name": "Gold School",
   "tracks": [
     {
@@ -484,6 +484,24 @@
       "duration_ms": 226440,
       "name": "Award Tour (feat. Trugoy The Dove)",
       "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
+    },
+    {
+      "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304226,
+      "name": "B.O.B. - Bombs Over Baghdad",
+      "url": "https://open.spotify.com/track/3WibbMr6canxRJXhNtAvLU"
     },
     {
       "album": {
@@ -1222,6 +1240,32 @@
       "duration_ms": 277133,
       "name": "Cell Therapy",
       "url": "https://open.spotify.com/track/5wvxRlpUTSX9CE52yFZsIY"
+    },
+    {
+      "album": {
+        "name": "The Dynasty: Roc La Familia",
+        "url": "https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Beanie Sigel",
+          "url": "https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50"
+        },
+        {
+          "name": "Memphis Bleek",
+          "url": "https://open.spotify.com/artist/4jWzNq3sdzSpqn7BnzvIKn"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187840,
+      "name": "Change The Game",
+      "url": "https://open.spotify.com/track/5Vyw16U5k4bpGaRqfzyyMo"
     },
     {
       "album": {
@@ -3017,6 +3061,24 @@
     },
     {
       "album": {
+        "name": "The Dynasty: Roc La Familia",
+        "url": "https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227866,
+      "name": "I Just Wanna Love U (Give It 2 Me)",
+      "url": "https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c"
+    },
+    {
+      "album": {
         "name": "American Gangster",
         "url": "https://open.spotify.com/album/6QOGDVh3mVnAJYPnt66Qj5"
       },
@@ -3246,7 +3308,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 253226,
       "name": "Ice Cream (feat. Ghostface Killah, Method Man & Cappadonna)",
       "url": "https://open.spotify.com/track/6SI4JD7iyQ0rrudhCNtMv0"
@@ -3308,7 +3370,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 237333,
       "name": "Imaginary Players",
       "url": "https://open.spotify.com/track/2g69OToKgXkgsdmy6MlyTm"
@@ -3990,7 +4052,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 262640,
       "name": "Lighters Up - Nationwide Version",
       "url": "https://open.spotify.com/track/3m6TozlibiEeicCbBLWv6g"
@@ -6064,7 +6126,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 267520,
       "name": "Run This Town",
       "url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG"
@@ -6408,7 +6470,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 240026,
       "name": "So Fresh, So Clean",
       "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
@@ -6838,7 +6900,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 225173,
       "name": "Sunshine (feat. Lea)",
       "url": "https://open.spotify.com/track/4s0o8TJHfX9LLHa0umnOzT"
@@ -7318,6 +7380,32 @@
       "duration_ms": 222440,
       "name": "Thick",
       "url": "https://open.spotify.com/track/3UB7VJpumOOpJ0gKfq7Hgk"
+    },
+    {
+      "album": {
+        "name": "The Dynasty: Roc La Familia",
+        "url": "https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Beanie Sigel",
+          "url": "https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50"
+        },
+        {
+          "name": "Scarface",
+          "url": "https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288226,
+      "name": "This Can't Be Life",
+      "url": "https://open.spotify.com/track/4UPyqSVCf0ukiBbi0MvLDW"
     },
     {
       "album": {

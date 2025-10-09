@@ -504,7 +504,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-06",
+      "date_removed": null,
       "duration_ms": 142417,
       "name": "22",
       "url": "https://open.spotify.com/track/0R3eeOQZuJG9661NAlMIrT"
@@ -1804,7 +1804,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 171722,
       "name": "AM4",
       "url": "https://open.spotify.com/track/18ilJfI0M9nkz2O3EnT9cS"
@@ -3996,7 +3996,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-07",
+      "date_removed": null,
       "duration_ms": 173917,
       "name": "Bbejbb",
       "url": "https://open.spotify.com/track/3BQqSkF8Raj9lEzJdscmmu"
@@ -5968,7 +5968,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd"
@@ -6030,7 +6030,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 173731,
       "name": "Brick na brick",
       "url": "https://open.spotify.com/track/5011v8IwA4NApxQ3ntw6Ih"
@@ -6722,10 +6722,28 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 211498,
       "name": "CANCELLED!",
       "url": "https://open.spotify.com/track/1appZ3c336FkPvCuywfmrs"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl (Track by Track Version)",
+        "url": "https://open.spotify.com/album/4tFsJC9jQ0Qjj7HSExhAdm"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211498,
+      "name": "CANCELLED!",
+      "url": "https://open.spotify.com/track/3FzJDGVjRGNc7KrkabU5N0"
     },
     {
       "album": {
@@ -8862,7 +8880,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 183428,
       "name": "C\u00edgo a k\u00e1va (feat. Saul)",
       "url": "https://open.spotify.com/track/2UD4l3evthKlDOM6HSrc9N"
@@ -11628,7 +11646,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 123946,
       "name": "D\u017eanes",
       "url": "https://open.spotify.com/track/5agUzhiIJPAuj76t38TMy4"
@@ -11783,6 +11801,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl (Track by Track Version)",
+        "url": "https://open.spotify.com/album/4tFsJC9jQ0Qjj7HSExhAdm"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208291,
+      "name": "Elizabeth Taylor",
+      "url": "https://open.spotify.com/track/1A2vZKJZovt4828jwLgiB3"
+    },
+    {
+      "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
@@ -11794,7 +11830,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 208291,
       "name": "Elizabeth Taylor",
       "url": "https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL"
@@ -12840,10 +12876,28 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 212777,
       "name": "Father Figure",
       "url": "https://open.spotify.com/track/03bTIHJElXZ0O0jqOQvAbY"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl (Track by Track Version)",
+        "url": "https://open.spotify.com/album/4tFsJC9jQ0Qjj7HSExhAdm"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212777,
+      "name": "Father Figure",
+      "url": "https://open.spotify.com/track/1lD0oPIfSYid1LhPvgrz10"
     },
     {
       "album": {
@@ -22112,7 +22166,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 188571,
       "name": "KSN - PINTLICH REMIX",
       "url": "https://open.spotify.com/track/2K4y6LbyUOr03ktqAaMZmD"
@@ -24080,7 +24134,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -31222,10 +31276,28 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl (Track by Track Version)",
+        "url": "https://open.spotify.com/album/5HyZy1hYpNTiCLRRy4PeNc"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235356,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/5DYxz8TDpVVbRtWDABRIkJ"
     },
     {
       "album": {
@@ -35506,7 +35578,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-07",
+      "date_removed": null,
       "duration_ms": 157947,
       "name": "Ready \u010di ne!?",
       "url": "https://open.spotify.com/track/7BYzdtr7IDLBxe81Wwat8n"
@@ -40956,7 +41028,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 158010,
       "name": "St\u00e1le som",
       "url": "https://open.spotify.com/track/7JeVRhvdsU2s6HpuUPdEuA"
@@ -41566,7 +41638,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -42941,6 +43013,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl (Track by Track Version)",
+        "url": "https://open.spotify.com/album/5HyZy1hYpNTiCLRRy4PeNc"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/0VZvLbADBSQbwFfmvsNl6E"
+    },
+    {
+      "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
       },
@@ -42970,7 +43060,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -46034,7 +46124,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 212727,
       "name": "Viac",
       "url": "https://open.spotify.com/track/2zCkru42FlOYnguzb9Z4aT"
@@ -47220,7 +47310,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 102226,
       "name": "WAGWAN",
       "url": "https://open.spotify.com/track/3uuVaRYdplEzu9akDjXPSX"

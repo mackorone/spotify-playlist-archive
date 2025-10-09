@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Olga Tañón
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,441 likes - 100 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,472 likes - 100 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 25 | [Más Profundo \- Spanglish Version](https://open.spotify.com/track/22XXL5g998e5d5dZdhWq8a) | [Crossroads Music](https://open.spotify.com/artist/5vil8APJ8ohuFhg8mxEOWY), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Más Profundo \(Spanglish Version\)](https://open.spotify.com/album/7i0SJ9xHwusZJBVTRqm5sc) | 5:50 |
 | 26 | [Príncipe de paz](https://open.spotify.com/track/2bQJg9yqWio0X79c6jpCQn) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Gustavo Astellano](https://open.spotify.com/artist/7iBZRN4l1DCqcLJnaPdHMR), [Rodrigo Rocha](https://open.spotify.com/artist/5wCuGKTEYBCW7V29FHz0gz) | [Príncipe de paz](https://open.spotify.com/album/7l71nUBgPIrfg9YPrizJDU) | 8:12 |
 | 27 | [Lo Que Necesito](https://open.spotify.com/track/0T8BQr1W18YsFNUZQS0jll) | [Enoc Parra](https://open.spotify.com/artist/2dXm6Fjb3OP6YKDyaF09jM) | [Lo Que Necesito](https://open.spotify.com/album/0WCYNRcrDNyukZftpeBOP1) | 10:56 |
-| 28 | [Tu Amor por Mí](https://open.spotify.com/track/0pfgWhjUsJOhJTG7l36dmv) | [Somos Uno Worship](https://open.spotify.com/artist/68oB2vsT9Oy2gSZmIg7b7q), [Rich Harding](https://open.spotify.com/artist/6IfUFdrccUhhuS60SWbgcR), [Josué Suárez](https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL) | [Tu Amor por Mí](https://open.spotify.com/album/64TyCurW55tYq5MgshpKxb) | 6:26 |
+| 28 | [Tu Amor por Mí](https://open.spotify.com/track/0pfgWhjUsJOhJTG7l36dmv) | [Somos Uno Worship](https://open.spotify.com/artist/68oB2vsT9Oy2gSZmIg7b7q), [Rich Harding](https://open.spotify.com/artist/6IfUFdrccUhhuS60SWbgcR) | [Tu Amor por Mí](https://open.spotify.com/album/64TyCurW55tYq5MgshpKxb) | 6:26 |
 | 29 | [Mundo](https://open.spotify.com/track/1Fir8O9yDvBpUa1mrs2ijS) | [CDV Worship](https://open.spotify.com/artist/2D5haaziwcNnvBEflAS0HA), [Conexión Cielo](https://open.spotify.com/artist/7BtPvKcx93ZZwYUIjpGyYQ) | [Mundo](https://open.spotify.com/album/0EWHjMQ13zLhGHQgWhH6Pm) | 4:28 |
 | 30 | [Te Alabaré mi Buen Jesús \- En Vivo](https://open.spotify.com/track/3rcYNFZlaglnTk7AyDJVh8) | [Selah Worship](https://open.spotify.com/artist/5pkxw9IRzdoM4QpxMi1YNA), [Josu Sosa](https://open.spotify.com/artist/5BZXALXJjLqR5OyHsByxcX), [Máximo Chena](https://open.spotify.com/artist/4H8gQUHKZXgg8FcEN6NZ48), [Gonza Pereda](https://open.spotify.com/artist/5p65DP3RGaQmZZv0ZsFnho), [Valen y Faa](https://open.spotify.com/artist/10wOXHYsuk73kwBJT32nLY) | [Te Alabaré Mi Buen Jesús \(En Vivo\)](https://open.spotify.com/album/40szUCJVNBn5qhNG2XHPsc) | 6:27 |
 | 31 | [Bajo Tu Amparo](https://open.spotify.com/track/4SyUZBlMzRqQra4Z49kwhx) | [Mechi Ruiz Luque](https://open.spotify.com/artist/5IJqEWoYsu84rZRNS8cwVw), [Jonatan Narváez](https://open.spotify.com/artist/6zExHD2vcmZruZAiO6YvcY) | [Bajo Tu Amparo](https://open.spotify.com/album/68nihH10qPUZuEiBxatWgH) | 2:58 |

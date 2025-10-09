@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Ernia in cover della playlist urban più grande d'Italia 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,134,099 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,134,064 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 24 | [FETTY \(feat\. Lazza\)](https://open.spotify.com/track/55CSXUUm3hnFzFlnc9sPoi) | [333 Mob](https://open.spotify.com/artist/1kWgYwcvWUeGX4wEJkyJx0), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [OSTIL3](https://open.spotify.com/album/49ZyGerSEt8m7LXLeNWW6f) | 2:02 |
 | 25 | [DA DENUNCIA \(feat\. Marracash\)](https://open.spotify.com/track/1Mv57QiDL2gohIlONsIXBk) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [PER SOLDI E PER AMORE](https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y) | 3:09 |
 | 26 | [DÉSOLÉE](https://open.spotify.com/track/2bT6QX29M7GLSuTDSirwaS) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [DÉSOLÉE](https://open.spotify.com/album/14aEL5lLrcr9ohOnpdIeVi) | 2:39 |
-| 27 | [NON CAPISCI \(FREESTYLE\)](https://open.spotify.com/track/5jTuRKlHmp16jKeolPth0A) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [NON CAPISCI \(FREESTYLE\)](https://open.spotify.com/album/3EqBhT9F1rHjYda8uL0rzH) | 1:27 |
-| 28 | [Dedicated \(feat\. Noyz Narcos\)](https://open.spotify.com/track/4iIGP2u4BftHmMenXYWOyt) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rasty Kilo](https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [KG](https://open.spotify.com/album/2BZoZOivm2Khc1jSTRaswS) | 3:56 |
-| 29 | [TU](https://open.spotify.com/track/5iQFM9o3ndzSMd8r5n11AU) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:49 |
-| 30 | [Nuova Chain \(feat\. Guè\)](https://open.spotify.com/track/7pOfLQw09fgiecMP3NmTWv) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Nuova Chain \(feat\. Guè\)](https://open.spotify.com/album/3oL0ORNCwluuNv3wWaH2O4) | 2:42 |
-| 31 | [Lo So Che](https://open.spotify.com/track/3w73qvCSGWPCx7w1UMIh6e) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [FERITE \(Deluxe Edition\)](https://open.spotify.com/album/7g7002AcxLMerhLQEA8naR) | 3:01 |
-| 32 | [Fanculo \(feat\. Marracash\)](https://open.spotify.com/track/2smcrTWrF4aEbuHz60x03f) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [La Cura](https://open.spotify.com/album/6w0sqUb9pXtssmiDxmd8LK) | 2:52 |
+| 27 | [Fanculo \(feat\. Marracash\)](https://open.spotify.com/track/2smcrTWrF4aEbuHz60x03f) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [La Cura](https://open.spotify.com/album/6w0sqUb9pXtssmiDxmd8LK) | 2:52 |
+| 28 | [NON CAPISCI \(FREESTYLE\)](https://open.spotify.com/track/5jTuRKlHmp16jKeolPth0A) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [NON CAPISCI \(FREESTYLE\)](https://open.spotify.com/album/3EqBhT9F1rHjYda8uL0rzH) | 1:27 |
+| 29 | [Dedicated \(feat\. Noyz Narcos\)](https://open.spotify.com/track/4iIGP2u4BftHmMenXYWOyt) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rasty Kilo](https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [KG](https://open.spotify.com/album/2BZoZOivm2Khc1jSTRaswS) | 3:56 |
+| 30 | [TU](https://open.spotify.com/track/5iQFM9o3ndzSMd8r5n11AU) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:49 |
+| 31 | [Nuova Chain \(feat\. Guè\)](https://open.spotify.com/track/7pOfLQw09fgiecMP3NmTWv) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Nuova Chain \(feat\. Guè\)](https://open.spotify.com/album/3oL0ORNCwluuNv3wWaH2O4) | 2:42 |
+| 32 | [Lo So Che](https://open.spotify.com/track/3w73qvCSGWPCx7w1UMIh6e) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [FERITE \(Deluxe Edition\)](https://open.spotify.com/album/7g7002AcxLMerhLQEA8naR) | 3:01 |
 | 33 | [AMICI COME PRIMA](https://open.spotify.com/track/0adrbI6meVUfb7BLAYuIg0) | [333 Mob](https://open.spotify.com/artist/1kWgYwcvWUeGX4wEJkyJx0), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq) | [AMICI COME PRIMA](https://open.spotify.com/album/3ZsMXYg498oH28Jx7KkZUN) | 3:21 |
 | 34 | [Ginevra \(feat\. Geolier\)](https://open.spotify.com/track/311m4sWQq8MZZROimkSGF7) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Il mio lato peggiore](https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8) | 3:48 |
 | 35 | [Problem Solver](https://open.spotify.com/track/3X5Zw8zkIGULZEnJUwwJwj) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [Northside Melodies](https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [TASTO DOLENTE](https://open.spotify.com/track/6vRbAMXqJcnOxcn8rEYjkw) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2), [Achille G](https://open.spotify.com/artist/7vMpOECMoeSUhj7gARuii1) | [TASTO DOLENTE](https://open.spotify.com/album/56Vc6dnUSbvpkVIGlsVXu4) | 2:30 |
 | 50 | [Buttare, buttare \(feat\. Latrelle\)](https://open.spotify.com/track/0BeeP8VwfLIziYkdv0m6lQ) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV) | [ANTI ANTI \(Doom Edition\)](https://open.spotify.com/album/6k1D9AV5IWPh8D43LIjkhi) | 2:44 |
 
-Snapshot ID: `AAAAAMCckM+fYAKDBd15SD8SOLjcPkXe`
+Snapshot ID: `AAAAAFTAeVyFoopREpymCrtSJleg81ia`

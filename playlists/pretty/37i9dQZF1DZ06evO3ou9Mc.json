@@ -1,29 +1,13 @@
 {
   "description": "This is The Offspring. The essential tracks, all in one playlist.",
-  "num_followers": 424957,
+  "num_followers": 425046,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAAA3l8IbwkE2OKfWLFHzGyda",
+  "snapshot_id": "aORYAAAAAADuX/3mlDxyXuZC8w5fZemA",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Splinter",
-        "url": "https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 169413,
-      "name": "Hit That",
-      "url": "https://open.spotify.com/track/3lfmqF0ULXRHlWxBeaHo3t"
-    },
     {
       "added_at": null,
       "album": {
@@ -139,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg"
+        "name": "Splinter",
+        "url": "https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL"
       },
       "artists": [
         {
@@ -148,9 +132,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 228240,
-      "name": "Defy You",
-      "url": "https://open.spotify.com/track/5VBVIcMh6CWy8szP3U0Ttp"
+      "duration_ms": 169413,
+      "name": "Hit That",
+      "url": "https://open.spotify.com/track/3lfmqF0ULXRHlWxBeaHo3t"
     },
     {
       "added_at": null,
@@ -167,6 +151,22 @@
       "duration_ms": 172466,
       "name": "Why Don't You Get A Job",
       "url": "https://open.spotify.com/track/0sNKiz82ATCvT3f3XVVUUj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Defy You",
+      "url": "https://open.spotify.com/track/5VBVIcMh6CWy8szP3U0Ttp"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise And Fall, Rage And Grace",
-        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 205946,
-      "name": "Half-Truism",
-      "url": "https://open.spotify.com/track/7xm8RWCCBYvEVx1VyErDa3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Americana",
         "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 133586,
       "name": "Staring At The Sun",
       "url": "https://open.spotify.com/track/0D2A4Rid7gnlcwlspLTkx0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rise And Fall, Rage And Grace",
+        "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 205946,
+      "name": "Half-Truism",
+      "url": "https://open.spotify.com/track/7xm8RWCCBYvEVx1VyErDa3"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ixnay On The Hombre",
-        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+        "name": "SUPERCHARGED",
+        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 177373,
-      "name": "Mota",
-      "url": "https://open.spotify.com/track/5SvJWjPUiJcXqtXm8BmM5z"
+      "duration_ms": 196680,
+      "name": "Looking Out For #1",
+      "url": "https://open.spotify.com/track/6fjO1ydi9dNB0nooAI2g3C"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERCHARGED",
-        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
+        "name": "Ixnay On The Hombre",
+        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 196680,
-      "name": "Looking Out For #1",
-      "url": "https://open.spotify.com/track/6fjO1ydi9dNB0nooAI2g3C"
+      "duration_ms": 177373,
+      "name": "Mota",
+      "url": "https://open.spotify.com/track/5SvJWjPUiJcXqtXm8BmM5z"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
       "duration_ms": 165146,
       "name": "One Fine Day",
       "url": "https://open.spotify.com/track/0sRviro3ekvHWmPqT2uYFP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SUPERCHARGED",
+        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 203640,
+      "name": "Ok, But This Is The Last Time",
+      "url": "https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO"
     },
     {
       "added_at": null,
@@ -591,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERCHARGED",
-        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 203640,
-      "name": "Ok, But This Is The Last Time",
-      "url": "https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Conspiracy Of One",
         "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 167240,
       "name": "Come Out Swinging",
       "url": "https://open.spotify.com/track/3T8Ht5f3xUejqEctN3RGb6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SUPERCHARGED",
+        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 214053,
+      "name": "Make It All Right",
+      "url": "https://open.spotify.com/track/7aBlXz5oLZfkpUAUQdgS0S"
     },
     {
       "added_at": null,
@@ -655,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERCHARGED",
-        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 214053,
-      "name": "Make It All Right",
-      "url": "https://open.spotify.com/track/7aBlXz5oLZfkpUAUQdgS0S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rise And Fall, Rage And Grace",
         "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
       },
@@ -683,6 +683,22 @@
       "duration_ms": 222866,
       "name": "Kristy, Are You Doing Okay?",
       "url": "https://open.spotify.com/track/616cVydBdvTudiKpoWs0WY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SUPERCHARGED",
+        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 154626,
+      "name": "The Fall Guy",
+      "url": "https://open.spotify.com/track/0ahcf0U9tWZNYwGGS66mTx"
     },
     {
       "added_at": null,
@@ -719,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERCHARGED",
-        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 154626,
-      "name": "The Fall Guy",
-      "url": "https://open.spotify.com/track/0ahcf0U9tWZNYwGGS66mTx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rise And Fall, Rage And Grace",
         "url": "https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 179506,
       "name": "Takes Me Nowhere",
       "url": "https://open.spotify.com/track/0IsjJJXTH3DzoQ13M3kK2A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SUPERCHARGED",
+        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 172506,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/6Hqpak2C21R2Qd448RGm7a"
     },
     {
       "added_at": null,
@@ -779,22 +795,6 @@
       "duration_ms": 201266,
       "name": "Behind Your Walls",
       "url": "https://open.spotify.com/track/0bfpMVuGjXbkZonmvymDSv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SUPERCHARGED",
-        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 172506,
-      "name": "Light It Up",
-      "url": "https://open.spotify.com/track/6Hqpak2C21R2Qd448RGm7a"
     },
     {
       "added_at": null,

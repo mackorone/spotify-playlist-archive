@@ -961,6 +961,24 @@
     },
     {
       "album": {
+        "name": "Goldrush",
+        "url": "https://open.spotify.com/album/21pu6GFhO61NL2ZgzEsHjm"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/4ImvFvvjV1jLSLMJKzTTE9"
+    },
+    {
+      "album": {
         "name": "I Got You",
         "url": "https://open.spotify.com/album/0FETAhMXmt1mnN0sQTzRfX"
       },

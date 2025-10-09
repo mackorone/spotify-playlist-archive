@@ -2,7 +2,7 @@
 
 ### [Country Smash Hits](https://open.spotify.com/playlist/1qun7zlfjzP3Qhzh6Qx1Qc)
 
-> All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs.
+> All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Sacha.
 
 506 songs - 1 day 4 hr 10 min
 

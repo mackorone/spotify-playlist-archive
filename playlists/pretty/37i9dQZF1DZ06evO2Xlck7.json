@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAADncIMuPM6fLNyYNNhRCiqT",
+  "snapshot_id": "aORYAAAAAABc3AJHlrQytH5Mcxf9JvwJ",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 189786,
-      "name": "Anywhere But Here",
-      "url": "https://open.spotify.com/track/5Uh2jLUewjnVWXA1LLjQQn"
+      "duration_ms": 321306,
+      "name": "Play Dead",
+      "url": "https://open.spotify.com/track/3ojxuJsIWtGciC7LFB4hds"
     },
     {
       "added_at": null,
@@ -180,15 +180,15 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 321306,
-      "name": "Play Dead",
-      "url": "https://open.spotify.com/track/3ojxuJsIWtGciC7LFB4hds"
+      "duration_ms": 189786,
+      "name": "Anywhere But Here",
+      "url": "https://open.spotify.com/track/5Uh2jLUewjnVWXA1LLjQQn"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Brown Acid - The Fifth Trip",
-        "url": "https://open.spotify.com/album/6IvPFgrPyhVO6b14WYsJ3K"
+        "name": "Drive Thru Records Greatest Hits (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2ay5rabzbG767VisgmqY1w"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 250213,
-      "name": "Nothing In The Sun",
-      "url": "https://open.spotify.com/track/45SlvOkZXPoJBimxJIaHX8"
+      "duration_ms": 157693,
+      "name": "Spanish Fly (Bonus Track)",
+      "url": "https://open.spotify.com/track/45OlksQZ1y4JmFmnIIZJI9"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drive Thru Records Greatest Hits (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2ay5rabzbG767VisgmqY1w"
+        "name": "Brown Acid - The Fifth Trip",
+        "url": "https://open.spotify.com/album/6IvPFgrPyhVO6b14WYsJ3K"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 157693,
-      "name": "Spanish Fly (Bonus Track)",
-      "url": "https://open.spotify.com/track/45OlksQZ1y4JmFmnIIZJI9"
+      "duration_ms": 250213,
+      "name": "Nothing In The Sun",
+      "url": "https://open.spotify.com/track/45SlvOkZXPoJBimxJIaHX8"
     },
     {
       "added_at": null,

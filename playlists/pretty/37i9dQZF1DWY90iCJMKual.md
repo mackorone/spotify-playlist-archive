@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY90iCJMKual.md) - [plain]
 
 > PH vibin' cover: ALLMO$T
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,444 likes - 102 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,493 likes - 102 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 20527,
+  "num_followers": 20528,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAAAJ3tGnMTQqZ4gtRMyy+Z+q",
+  "snapshot_id": "aORYAAAAAABORXeFTIZemGD1c/pmnlkh",
   "tracks": [
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legacy of Hits",
+        "url": "https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 158638,
+      "name": "15 Shots",
+      "url": "https://open.spotify.com/track/53I7AM0JdcKspFjo29tHyW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rich Homie Cartel Vol 1",
         "url": "https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 276080,
       "name": "Never Made Love (feat. Rich Homie Quan)",
       "url": "https://open.spotify.com/track/7MmJgTnnl1Rgeu1PlYBx52"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legacy of Hits",
-        "url": "https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 158638,
-      "name": "15 Shots",
-      "url": "https://open.spotify.com/track/53I7AM0JdcKspFjo29tHyW"
     },
     {
       "added_at": null,

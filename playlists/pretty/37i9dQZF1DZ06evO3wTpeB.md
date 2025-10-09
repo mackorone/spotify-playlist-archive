@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 
 > This is Ali Aka Mind\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,716 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,717 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 | 49 | [Palabras del Alma](https://open.spotify.com/track/503bBnziEGq0pxwV5DHacZ) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Palabras del Alma](https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV) | 3:35 |
 | 50 | [Invente](https://open.spotify.com/track/5zXSfcJsB3UOJJh07ICLVO) | [Nicolai Fella](https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [RI](https://open.spotify.com/artist/31zcVceg6CBFwo6jiVO3MU) | [Estado Popular Del Alma • Epa](https://open.spotify.com/album/5XYKA56UCb99ZIEFUCiKC1) | 3:34 |
 
-Snapshot ID: `aOMGgAAAAACCreG9LYCRP1KTPV9lE/mx`
+Snapshot ID: `aORYAAAAAABd0uGKTOrn0sp9OZtkVtg0`

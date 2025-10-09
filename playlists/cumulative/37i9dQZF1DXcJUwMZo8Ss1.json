@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The hottest tracks trending in the UAE \u2764\ufe0f\u200d\ud83d\udd25  Cover: sombr",
+  "description": "The hottest tracks trending in the UAE \u2764\ufe0f\u200d\ud83d\udd25  Cover: Tate McRae",
   "name": "Hot Hits UAE",
   "tracks": [
     {
@@ -750,7 +750,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-08",
+      "date_removed": null,
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
@@ -1250,6 +1250,32 @@
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
+    },
+    {
+      "album": {
+        "name": "The Ba***ds Of Bollywood",
+        "url": "https://open.spotify.com/album/3cUOrVPYaP7rq8PrpliN5k"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Ujwal Gupta",
+          "url": "https://open.spotify.com/artist/3YJUwreoTZwxYUi472ECtS"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166137,
+      "name": "Ghafoor",
+      "url": "https://open.spotify.com/track/4Ywwc43oYbL2zRWWcbSo1c"
     },
     {
       "album": {
@@ -2734,7 +2760,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 231739,
       "name": "Pardesiya - From \"Param Sundari\"",
       "url": "https://open.spotify.com/track/0q84FggW57NXGtLHoetS0Y"
@@ -3022,7 +3048,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 179082,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
@@ -3477,6 +3503,28 @@
     },
     {
       "album": {
+        "name": "That Girl",
+        "url": "https://open.spotify.com/album/57Fvr8t8L7NoZfQYVCkQFv"
+      },
+      "artists": [
+        {
+          "name": "Param",
+          "url": "https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0"
+        },
+        {
+          "name": "Manni Sandhu",
+          "url": "https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169472,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/1QecTIbUmqn4awHGDXd1q5"
+    },
+    {
+      "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
       },
@@ -3510,6 +3558,24 @@
       "duration_ms": 228518,
       "name": "The Dead Dance",
       "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
     },
     {
       "album": {
@@ -3862,7 +3928,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 185495,
       "name": "Ya Helou",
       "url": "https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ"
@@ -4010,7 +4076,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 174528,
       "name": "\u0643\u0644\u0647 \u0642\u0627\u0644\u064a \u0627\u0634\u0645\u0639\u0646\u0627 \u0647\u0648",
       "url": "https://open.spotify.com/track/1kiMxcAT57ZEzdth98RR5T"

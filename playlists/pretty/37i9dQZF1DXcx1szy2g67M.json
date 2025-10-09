@@ -1,13 +1,45 @@
 {
   "description": "D\u00e9 playlist voor het najaar van 2025! \ud83c\udf26\ufe0f\u2614\ufe0f",
-  "num_followers": 657963,
+  "num_followers": 657928,
   "original_name": "Winter 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABJGQphLohGhLG6wmy8bc2ajpWaH",
+  "snapshot_id": "AAAAAJKsMeie+p0V8RaUc+7Kc8qaNc6k",
   "tracks": [
+    {
+      "added_at": "2025-10-07 10:00:22",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/44F0Y8cKhXQZ2RqE2ofeJh"
+      },
+      "artists": [
+        {
+          "name": "Paul Keen",
+          "url": "https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF"
+        }
+      ],
+      "duration_ms": 134220,
+      "name": "High",
+      "url": "https://open.spotify.com/track/6zfJzUnevLqbmTtCCJslX2"
+    },
+    {
+      "added_at": "2025-10-07 10:00:22",
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
     {
       "added_at": "2025-10-07 10:00:22",
       "album": {
@@ -23,6 +55,26 @@
       "duration_ms": 137812,
       "name": "Push The Feeling On",
       "url": "https://open.spotify.com/track/71DWKk9tztZ26PXw8vLx9K"
+    },
+    {
+      "added_at": "2025-10-07 10:00:22",
+      "album": {
+        "name": "Nog Even Blijven",
+        "url": "https://open.spotify.com/album/4cVl4YviVNupCLjdyHCLu6"
+      },
+      "artists": [
+        {
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+        },
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "duration_ms": 170876,
+      "name": "Nog Even Blijven",
+      "url": "https://open.spotify.com/track/3VbpCqh33Dn8in4JC1c46o"
     },
     {
       "added_at": "2025-10-07 10:00:22",
@@ -51,22 +103,18 @@
     {
       "added_at": "2025-10-07 10:00:22",
       "album": {
-        "name": "Nog Even Blijven",
-        "url": "https://open.spotify.com/album/4cVl4YviVNupCLjdyHCLu6"
+        "name": "Something In The Heavens",
+        "url": "https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf"
       },
       "artists": [
         {
-          "name": "Douwe Bob",
-          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
-        },
-        {
-          "name": "MEAU",
-          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 170876,
-      "name": "Nog Even Blijven",
-      "url": "https://open.spotify.com/track/3VbpCqh33Dn8in4JC1c46o"
+      "duration_ms": 198028,
+      "name": "Something In The Heavens",
+      "url": "https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM"
     },
     {
       "added_at": "2025-10-07 10:00:22",
@@ -91,38 +139,6 @@
     {
       "added_at": "2025-10-07 10:00:22",
       "album": {
-        "name": "Something In The Heavens",
-        "url": "https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 198028,
-      "name": "Something In The Heavens",
-      "url": "https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM"
-    },
-    {
-      "added_at": "2025-10-07 10:00:22",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
-    },
-    {
-      "added_at": "2025-10-07 10:00:22",
-      "album": {
         "name": "Blijf Dan Hier (feat. Danique)",
         "url": "https://open.spotify.com/album/5tIDCaNRuNQW39P0hbPUMv"
       },
@@ -139,6 +155,162 @@
       "duration_ms": 134857,
       "name": "Blijf Dan Hier (feat. Danique)",
       "url": "https://open.spotify.com/track/0ZlOCk6sjUpJkMcFNszlmo"
+    },
+    {
+      "added_at": "2025-10-07 10:00:22",
+      "album": {
+        "name": "What\u2019s a Girl to Do in \u201825",
+        "url": "https://open.spotify.com/album/1wFswwju0J072xesMYeMCz"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "duration_ms": 148047,
+      "name": "What\u2019s a Girl to Do in \u201825",
+      "url": "https://open.spotify.com/track/4XsQ5Iq8VUNAY006J7GQY0"
+    },
+    {
+      "added_at": "2025-10-07 10:00:22",
+      "album": {
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 189553,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
+    },
+    {
+      "added_at": "2025-10-07 10:00:22",
+      "album": {
+        "name": "Ain't Nobody",
+        "url": "https://open.spotify.com/album/3AfZApPiVNmPESFq3J9R9Q"
+      },
+      "artists": [
+        {
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        },
+        {
+          "name": "RUZE",
+          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
+        }
+      ],
+      "duration_ms": 154459,
+      "name": "Ain't Nobody",
+      "url": "https://open.spotify.com/track/2gnEndVbpPiaSAn2gEA0WH"
+    },
+    {
+      "added_at": "2025-10-07 10:00:22",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/0mQwwcyTyf26ezDOfwwQag"
+      },
+      "artists": [
+        {
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+        }
+      ],
+      "duration_ms": 225179,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/7FN3Fip2tdiGjW0BuqXRL7"
+    },
+    {
+      "added_at": "2025-10-07 10:00:22",
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+    },
+    {
+      "added_at": "2025-10-07 10:00:22",
+      "album": {
+        "name": "In My World",
+        "url": "https://open.spotify.com/album/0RjevZ5UL21eqgEhNYbvjp"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 215849,
+      "name": "In My World",
+      "url": "https://open.spotify.com/track/2gXZufRsrkTS2MOAnPkTXB"
+    },
+    {
+      "added_at": "2025-10-07 10:00:22",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+    },
+    {
+      "added_at": "2025-10-07 10:00:22",
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
+    },
+    {
+      "added_at": "2025-10-07 10:00:22",
+      "album": {
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 187086,
+      "name": "Beautiful People",
+      "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
     },
     {
       "added_at": "2025-10-07 10:00:22",
@@ -175,38 +347,6 @@
     {
       "added_at": "2025-10-07 10:00:22",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
-    },
-    {
-      "added_at": "2025-10-07 10:00:22",
-      "album": {
-        "name": "You'll Be Alright, Kid",
-        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 189553,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
-    },
-    {
-      "added_at": "2025-10-07 10:00:22",
-      "album": {
         "name": "Morning",
         "url": "https://open.spotify.com/album/4sHcIgIww30W4pqcm9PEKi"
       },
@@ -219,58 +359,6 @@
       "duration_ms": 177056,
       "name": "Morning",
       "url": "https://open.spotify.com/track/4VQ9pA1QmZW8pdR5T0AB3R"
-    },
-    {
-      "added_at": "2025-10-07 10:00:22",
-      "album": {
-        "name": "Ain't Nobody",
-        "url": "https://open.spotify.com/album/3AfZApPiVNmPESFq3J9R9Q"
-      },
-      "artists": [
-        {
-          "name": "Mr. Belt & Wezol",
-          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
-        },
-        {
-          "name": "RUZE",
-          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
-        }
-      ],
-      "duration_ms": 154459,
-      "name": "Ain't Nobody",
-      "url": "https://open.spotify.com/track/2gnEndVbpPiaSAn2gEA0WH"
-    },
-    {
-      "added_at": "2025-10-07 10:00:22",
-      "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
-    },
-    {
-      "added_at": "2025-10-07 10:00:22",
-      "album": {
-        "name": "What\u2019s a Girl to Do in \u201825",
-        "url": "https://open.spotify.com/album/1wFswwju0J072xesMYeMCz"
-      },
-      "artists": [
-        {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
-        }
-      ],
-      "duration_ms": 148047,
-      "name": "What\u2019s a Girl to Do in \u201825",
-      "url": "https://open.spotify.com/track/4XsQ5Iq8VUNAY006J7GQY0"
     },
     {
       "added_at": "2025-10-07 10:00:22",
@@ -295,22 +383,6 @@
     {
       "added_at": "2025-10-07 10:00:22",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/0mQwwcyTyf26ezDOfwwQag"
-      },
-      "artists": [
-        {
-          "name": "Kensington",
-          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
-        }
-      ],
-      "duration_ms": 225179,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/7FN3Fip2tdiGjW0BuqXRL7"
-    },
-    {
-      "added_at": "2025-10-07 10:00:22",
-      "album": {
         "name": "The Art of Loving",
         "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
       },
@@ -323,26 +395,6 @@
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
-    },
-    {
-      "added_at": "2025-10-07 10:00:22",
-      "album": {
-        "name": "In My World",
-        "url": "https://open.spotify.com/album/0RjevZ5UL21eqgEhNYbvjp"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 215849,
-      "name": "In My World",
-      "url": "https://open.spotify.com/track/2gXZufRsrkTS2MOAnPkTXB"
     },
     {
       "added_at": "2025-10-07 10:00:22",
@@ -371,22 +423,6 @@
     {
       "added_at": "2025-10-07 10:00:22",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/44F0Y8cKhXQZ2RqE2ofeJh"
-      },
-      "artists": [
-        {
-          "name": "Paul Keen",
-          "url": "https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF"
-        }
-      ],
-      "duration_ms": 134220,
-      "name": "High",
-      "url": "https://open.spotify.com/track/6zfJzUnevLqbmTtCCJslX2"
-    },
-    {
-      "added_at": "2025-10-07 10:00:22",
-      "album": {
         "name": "Overdosis",
         "url": "https://open.spotify.com/album/32We7ASDADKiivoG5cJGhL"
       },
@@ -399,42 +435,6 @@
       "duration_ms": 150340,
       "name": "Overdosis",
       "url": "https://open.spotify.com/track/1PHlNckjnBedkWSNhQ6nvr"
-    },
-    {
-      "added_at": "2025-10-07 10:00:22",
-      "album": {
-        "name": "Beautiful People",
-        "url": "https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 187086,
-      "name": "Beautiful People",
-      "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
-    },
-    {
-      "added_at": "2025-10-07 10:00:22",
-      "album": {
-        "name": "JUMP",
-        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 164718,
-      "name": "JUMP",
-      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
     },
     {
       "added_at": "2025-10-07 10:00:22",

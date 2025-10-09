@@ -1,12 +1,12 @@
 {
   "description": "This is Billie Holiday. The essential tracks, all in one playlist.",
-  "num_followers": 146669,
+  "num_followers": 146678,
   "original_name": "This Is Billie Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAACGpG8M08wBCZNaJ2cXYriX",
+  "snapshot_id": "aORYAAAAAADtNfzQhbhzf5XZ6ey/Ti41",
   "tracks": [
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Billie Holiday With Ray Ellis And His Orchestra",
+        "url": "https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 152346,
+      "name": "All Of You",
+      "url": "https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "An Evening With Billie Holiday",
         "url": "https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73"
       },
@@ -207,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Billie Holiday With Ray Ellis And His Orchestra",
-        "url": "https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu"
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
       },
       "artists": [
         {
@@ -216,9 +232,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 152346,
-      "name": "All Of You",
-      "url": "https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq"
+      "duration_ms": 179440,
+      "name": "Moonglow",
+      "url": "https://open.spotify.com/track/1rUpHU45dBawthkWVugcQn"
     },
     {
       "added_at": null,
@@ -251,22 +267,6 @@
       "duration_ms": 226680,
       "name": "Love Is Here To Stay",
       "url": "https://open.spotify.com/track/4x4gE6oHHuZ2y7yUsGuOO1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 179440,
-      "name": "Moonglow",
-      "url": "https://open.spotify.com/track/1rUpHU45dBawthkWVugcQn"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 199186,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/4dUDfXcIhBWs1ybDWzyCd8"
+      "duration_ms": 173920,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V"
     },
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 173920,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V"
+      "duration_ms": 199186,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/4dUDfXcIhBWs1ybDWzyCd8"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 190733,
-      "name": "God Bless The Child",
-      "url": "https://open.spotify.com/track/2xtC6kb6H26qVX4ZdncS7f"
+      "duration_ms": 188160,
+      "name": "Good Morning Heartache",
+      "url": "https://open.spotify.com/track/5jGqJTsejbAy7QdhAH2Qwp"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 188160,
-      "name": "Good Morning Heartache",
-      "url": "https://open.spotify.com/track/5jGqJTsejbAy7QdhAH2Qwp"
+      "duration_ms": 190733,
+      "name": "God Bless The Child",
+      "url": "https://open.spotify.com/track/2xtC6kb6H26qVX4ZdncS7f"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lover Man",
-        "url": "https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 179453,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/2fSlY7Sv6ZKcTOkp1ki9xL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Billie Holiday's Greatest Hits",
         "url": "https://open.spotify.com/album/6CqXthOJBMMmagymEEa8pl"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 165933,
       "name": "No More",
       "url": "https://open.spotify.com/track/75yWDS1C4ZXKoJscUK1cdg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lover Man",
+        "url": "https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 179453,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/2fSlY7Sv6ZKcTOkp1ki9xL"
     },
     {
       "added_at": null,
@@ -823,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lady Day: The Complete Billie Holiday On Columbia - Vol. 2",
-        "url": "https://open.spotify.com/album/61OLLuUN2R0ZO24IrS3W2T"
+        "name": "The Blues Are Brewin'",
+        "url": "https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ"
       },
       "artists": [
         {
@@ -832,13 +832,13 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         },
         {
-          "name": "Teddy Wilson",
-          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+          "name": "Billy Kyle and His Trio",
+          "url": "https://open.spotify.com/artist/2Ru6Dj5tdUgAzLrXcXje7q"
         }
       ],
-      "duration_ms": 180066,
-      "name": "The Way You Look Tonight (with Teddy Wilson & His Orchestra) - Take 2",
-      "url": "https://open.spotify.com/track/7Ma4ykGEYiOofyWiR6tfEG"
+      "duration_ms": 193053,
+      "name": "Baby, I Don't Cry Over You",
+      "url": "https://open.spotify.com/track/5gXoSVnLyvxRFdvIhUElXS"
     }
   ],
   "unique_name": "This Is Billie Holiday",

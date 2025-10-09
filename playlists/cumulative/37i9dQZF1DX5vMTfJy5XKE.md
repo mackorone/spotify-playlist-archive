@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Kesha
 
-857 songs - 1 day 21 hr 44 min
+858 songs - 1 day 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Baby It’s Not Christmas Without You](https://open.spotify.com/track/01jcUhKrle6a3YLPPAPVPl) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Baby It’s Not Christmas Without You](https://open.spotify.com/album/5Mmo9hY5lKWUBmiBB7mEtJ) | 2:47 | 2023-11-17 | 2024-08-31 |
 | [Back Home For Christmas](https://open.spotify.com/track/06b5RW4WE4wa0rr62PMA7s) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Back Home For Christmas](https://open.spotify.com/album/2MgK4cYEZ5g5tx1K1AEWeG) | 3:35 | 2023-11-10 | 2024-10-19 |
 | [Back To My Angels](https://open.spotify.com/track/4JBJV4jhLBAqgRyQ7J8I9Z) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Back To My Angels](https://open.spotify.com/album/76tBW39oWTrQO1lofYlHjJ) | 3:25 | 2024-12-03 | 2025-09-27 |
+| [Bah Humbug](https://open.spotify.com/track/0887mDaCYiGxvsHp0gtoPa) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Bah Humbug](https://open.spotify.com/album/14qiH7IopCWCBIiG5Dacqn) | 3:49 | 2025-10-08 |  |
 | [Beautiful Star of Bethlehem](https://open.spotify.com/track/7FFXfYeF3H1IsSUbwyk3kC) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [Beautiful Star of Bethlehem](https://open.spotify.com/album/64TNhQ20gsVJBPaoZatLmx) | 3:26 | 2023-11-24 | 2024-08-31 |
 | [Because It's Christmas](https://open.spotify.com/track/2bnCUBgmqbirSSyUWiK1jw) | [Peter Cincotti](https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F) | [Because It's Christmas](https://open.spotify.com/album/66dvNhgCyN9ltRO7Pbt4Kz) | 3:19 | 2022-11-25 | 2023-10-04 |
 | [Believe](https://open.spotify.com/track/3GRrReIVJ4C71ajUvk7O1e) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Believe](https://open.spotify.com/album/0Wr6JfWQD7bzK7ipLyeiOD) | 3:19 | 2021-12-24 | 2022-11-12 |
@@ -196,7 +197,7 @@
 | [Christmas Without You](https://open.spotify.com/track/1cKKOUekhGu2JblwwUiOJS) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Christmas Without You](https://open.spotify.com/album/57RnITpQre0GUw21xqlfiI) | 3:57 | 2021-12-24 | 2022-09-28 |
 | [Christmas!](https://open.spotify.com/track/0hOKpximjcLkc0C6r8gh1G) | [David Shaw](https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe), [The Gifters](https://open.spotify.com/artist/5JqDGSNIftZuwTL3mOwpfw) | [Christmas!](https://open.spotify.com/album/1asEFFs5JGApdnLwjIpESy) | 3:51 | 2024-11-29 | 2025-09-27 |
 | [Christmas'n With Me](https://open.spotify.com/track/13oGzUftY5owUkes5sW1b8) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Santa Don't Let Him](https://open.spotify.com/album/6NcDxpf3TSrcSkTSldvgTD) | 3:01 | 2024-12-06 | 2025-09-27 |
-| [Christmastime Is Finally Here](https://open.spotify.com/track/2kRBUCUida9agDIMOgRRyW) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [Christmastime Is Finally Here](https://open.spotify.com/album/3jCJq21fBnhPscuMcEr9No) | 3:55 | 2024-12-06 |  |
+| [Christmastime Is Finally Here](https://open.spotify.com/track/2kRBUCUida9agDIMOgRRyW) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [Christmastime Is Finally Here](https://open.spotify.com/album/3jCJq21fBnhPscuMcEr9No) | 3:55 | 2024-12-06 | 2025-10-09 |
 | [Closer To Christmas](https://open.spotify.com/track/6VUHVDpHctDMY0nhtSSzIt) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Closer To Christmas](https://open.spotify.com/album/1PxZd6H4nwkimCB7GEbLYv) | 3:12 | 2023-11-10 | 2024-08-31 |
 | [Come And See What's Happenin'](https://open.spotify.com/track/0w6mZ4kicxzDtIJobQ8cOx) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [New Star Shining](https://open.spotify.com/album/3LJYzeIAJ7EkDAUZzqXvZ8) | 3:27 | 2024-10-11 | 2025-09-27 |
 | [Come Home to Me](https://open.spotify.com/track/4zAzUmzbYZF6nT2SmuCI1I) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Come Home to Me](https://open.spotify.com/album/0OTCxWoluh7SPdaEePy3mb) | 2:59 | 2023-11-24 | 2024-08-31 |

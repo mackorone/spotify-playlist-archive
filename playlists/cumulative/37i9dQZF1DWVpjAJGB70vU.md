@@ -2,7 +2,7 @@
 
 ### [90s Country](https://open.spotify.com/playlist/37i9dQZF1DWVpjAJGB70vU)
 
-> We're celebrating 30 years of Shania Twain's timeless album "The Woman In Me" on 90s Country!
+> The country that made country cool\. Cover: George Strait
 
 195 songs - 11 hr 20 min
 

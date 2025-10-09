@@ -2,7 +2,7 @@
 
 ### [When We Were Young Radio](https://open.spotify.com/playlist/37i9dQZF1E8LEwyPvT2AXf)
 
-> With Adele, Harry Styles, Olivia Rodrigo and more
+> With Adele, Olivia Rodrigo, Coldplay and more
 
 1,212 songs - 3 day 4 hr 19 min
 

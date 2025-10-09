@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 08 Oct 03:05 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 08 Oct 18:08 UTC.
 
-5,622 songs - 13 day 1 hr 12 min
+5,623 songs - 13 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1343,7 +1343,7 @@
 | [DOMINO](https://open.spotify.com/track/11Iedb0G2cyBJtb1G1o0KO) | [Laysha](https://open.spotify.com/artist/5IMqlLTF7xWq8dUkvSaHLA) | [DOMINO](https://open.spotify.com/album/3LSf6hOeCNykDDgyEaPz96) | 3:07 | 2024-07-30 | 2024-08-02 |
 | [DOMINO](https://open.spotify.com/track/3HZwxfaiby2jaWKL7hrzD4) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [DOMINO](https://open.spotify.com/album/7e4ypxtFCm1wIkerQLcS6B) | 3:14 | 2024-06-12 | 2024-06-14 |
 | [domino szn](https://open.spotify.com/track/5jpVbqCqZadexyOSoJnwSS) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [domino szn](https://open.spotify.com/album/5ZahMu7KEBe4Gzf2bR61Ew) | 3:44 | 2024-07-31 | 2024-08-03 |
-| [DON'T BE A BITCH](https://open.spotify.com/track/59DhIr3xOEsFMMHS4JBYbQ) | [KILL KARL](https://open.spotify.com/artist/6EkKa58rGJ5799EpRA1Kjy) | [DON'T BE A BITCH](https://open.spotify.com/album/7qznk8QmhRLgK4MPQ8AP7K) | 2:04 | 2025-09-28 |  |
+| [DON'T BE A BITCH](https://open.spotify.com/track/59DhIr3xOEsFMMHS4JBYbQ) | [KILL KARL](https://open.spotify.com/artist/6EkKa58rGJ5799EpRA1Kjy) | [DON'T BE A BITCH](https://open.spotify.com/album/7qznk8QmhRLgK4MPQ8AP7K) | 2:04 | 2025-09-28 | 2025-10-09 |
 | [Don't Change when you're Famous](https://open.spotify.com/track/5PKpasr1utQVztUQmnOoai) | [D\-low](https://open.spotify.com/artist/5iSw8NFExwSFdQI7GgwAPY) | [Don't Change when you're Famous](https://open.spotify.com/album/532WIY0BFO1M1XXqD4f8Ua) | 3:26 | 2024-06-29 | 2024-07-03 |
 | [Don't Do Well Alone](https://open.spotify.com/track/1E3l1pjDVsdVmyHcbBwvB5) | [Siobhán Winifred](https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x) | [Don't Do Well Alone](https://open.spotify.com/album/03dAFgKbuDVNLxMPopWAxI) | 3:21 | 2024-08-07 | 2024-08-09 |
 | [Don't Forget To Say Please](https://open.spotify.com/track/1OWjfgSTPbgghfH0lnw41K) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [Don't Forget To Say Please](https://open.spotify.com/album/30DcYLvCzT5yubiP7BC5tO) | 2:51 | 2025-09-20 | 2025-09-28 |
@@ -2048,6 +2048,7 @@
 | [Hairclips](https://open.spotify.com/track/3PYNyyyvqbiLbjBj5SNzBI) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Hairclips](https://open.spotify.com/album/4YzrFnPfeFs63RrQXOThyx) | 3:04 | 2025-05-23 | 2025-05-31 |
 | [haiti](https://open.spotify.com/track/49SqhZMyNNNwlQ6rIem6ui) | [Your Stepdad](https://open.spotify.com/artist/4l7BJOIRyFkQT9QD96m8tu) | [haiti](https://open.spotify.com/album/2PrDChZBa8lPeJCGhe64H3) | 1:32 | 2024-07-24 | 2024-07-27 |
 | [Hal Ashby](https://open.spotify.com/track/3KutrW5yHciWy8G7d250BP) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Hal Ashby](https://open.spotify.com/album/1POPLkadaqRnEJQLkQnXVq) | 2:55 | 2024-09-05 | 2024-09-07 |
+| [Half\-Life](https://open.spotify.com/track/6yH2K3Xgu7X9gqky8NU0vt) | [Moodring](https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0) | [Half\-Life](https://open.spotify.com/album/2RwNAoB12EkXDjj0qt5u0g) | 3:30 | 2025-10-08 |  |
 | [Hallelujah](https://open.spotify.com/track/78a91L74IHZVQNyh3wgE3d) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Hallelujah](https://open.spotify.com/album/1acUnqBZF7dYFpnPyrtFrd) | 3:09 | 2024-07-26 | 2024-07-31 |
 | [HALLELUJAH](https://open.spotify.com/track/2l6UQIQwYpRF0GMfzyB2Xs) | [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [HALLELUJAH](https://open.spotify.com/album/3AVb7KzXBlB3eEeracWO8Z) | 2:18 | 2025-06-02 | 2025-06-10 |
 | [Hallelujah Bruv](https://open.spotify.com/track/0oyOsaqUQhvZH7Dfavot0g) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [Hallelujah Bruv](https://open.spotify.com/album/2XOlDfipPw0DbVptNQlFsd) | 2:01 | 2024-08-15 | 2024-08-17 |

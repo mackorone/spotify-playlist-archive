@@ -4,7 +4,7 @@
 
 > 
 
-1,186 songs - 2 day 12 hr 36 min
+1,187 songs - 2 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1096,6 +1096,7 @@
 | [Tyla](https://open.spotify.com/track/71ntODiMqKLIyFFmw1Kj5M) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [BAD ASS F\*CKING KID](https://open.spotify.com/album/2j74DNrJ8TgnMEukERqnnm) | 2:03 | 2025-07-10 |  |
 | [U could stay](https://open.spotify.com/track/3oFN3jn3MmKnxOc2I6TKC6) | [Lunchbox](https://open.spotify.com/artist/4yBk76oymBKTd7fs3XpbId) | [U could stay](https://open.spotify.com/album/0tAfKliYLaHyTceAVUQnQz) | 1:36 | 2023-06-02 | 2023-12-14 |
 | [U could tëll](https://open.spotify.com/track/0k4Xxpf3Ml9e0UFYacCIDO) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:28 | 2022-12-16 | 2023-12-14 |
+| [U Da Man](https://open.spotify.com/track/0K76ZoODQpb87LQtzxrd5N) | [Black Moon](https://open.spotify.com/artist/2yN6bq26wynQcRuPkBYTDb), [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0) | [Enta Da Stage](https://open.spotify.com/album/5Di7sTCL8zU5rHMl98qliQ) | 4:24 | 2025-10-08 |  |
 | [U Say \(feat\. Tyler, The Creator & Jay Prince\)](https://open.spotify.com/track/2p37Mfy2PWajgOS3i2aaep) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [Diaspora](https://open.spotify.com/album/790qROmQ1y4aPEYLcSkScH) | 3:21 | 2025-06-25 |  |
 | [U Should Know](https://open.spotify.com/track/17vVm6v7GE2tP2KRVbCwqv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:06 | 2024-02-16 | 2024-04-24 |
 | [U Should Know](https://open.spotify.com/track/5bfKhDxMWi5Yd2B4OBYdHg) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/0cLGXgec8fFV7YPFQ96SUG) | 3:06 | 2024-02-16 | 2024-02-22 |

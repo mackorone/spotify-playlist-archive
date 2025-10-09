@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 
 > The most chill instrumental oud sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,082 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,089 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bent El Chalabiya](https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs) | [Munir Bachir](https://open.spotify.com/artist/5Of0ZWqauwYLFzmRtjAHKy) | [Aoud Around the Arab World](https://open.spotify.com/album/7yzLWWPh9Aq0sXSTiA5GyD) | 2:51 |
-| 2 | [Vague / E la nave va](https://open.spotify.com/track/6avLwPGZvr93PaxBARH5dA) | [Anouar Brahem](https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM) | [Le Voyage De Sahar](https://open.spotify.com/album/2rqw1pAaWrXmsAZFM3IUXO) | 6:19 |
+| 1 | [Vague / E la nave va](https://open.spotify.com/track/6avLwPGZvr93PaxBARH5dA) | [Anouar Brahem](https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM) | [Le Voyage De Sahar](https://open.spotify.com/album/2rqw1pAaWrXmsAZFM3IUXO) | 6:19 |
+| 2 | [Bent El Chalabiya](https://open.spotify.com/track/5o8vai2xj9vPtgrN8qDuvs) | [Munir Bachir](https://open.spotify.com/artist/5Of0ZWqauwYLFzmRtjAHKy) | [Aoud Around the Arab World](https://open.spotify.com/album/7yzLWWPh9Aq0sXSTiA5GyD) | 2:51 |
 | 3 | [Nawwâr](https://open.spotify.com/track/70WgBnBaeDzJWxJTjgFijm) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [Asfâr](https://open.spotify.com/album/3MJ3XAgSv92V5VcZTBXYlx) | 4:39 |
 | 4 | [Bayati](https://open.spotify.com/track/4E70hItpq5sRXMaSWg8Qrf) | [Aarif Jaman](https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh) | [Oud \(The Legend of Arabic Music\)](https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg) | 3:20 |
 | 5 | [Devlerin Aşkı](https://open.spotify.com/track/5E6AjfzuqfFmtQyxwyqntu) | [Taksim Trio](https://open.spotify.com/artist/5rWGIr699je11ELP9xW5T2) | [Ahi](https://open.spotify.com/album/3E69rNQtG0zSIWC6tI9OWF) | 3:36 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 41 | [Turkish Coffee](https://open.spotify.com/track/3169aUzrWTznvVupy1f20E) | [Basel Rajoub](https://open.spotify.com/artist/68rxFd814z29ByrpJtXcNp) | [Khameer](https://open.spotify.com/album/1nGR5fdDSZrUkeUrdbPxDC) | 4:24 |
 | 42 | [Lourga](https://open.spotify.com/track/5unbdTVuyBjvXe3OUHZTNV) | [Omar Bashir](https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH) | [Zykrayati](https://open.spotify.com/album/1QGk8YXeOBGIZ8mEQCnsle) | 18:42 |
 | 43 | [Gözyaşı](https://open.spotify.com/track/7ecoRpurntOKGDj4nL4tIk) | [Selim Sesler](https://open.spotify.com/artist/1H4RsM1SDZVGLVli80d3sd) | [Oğlan Bizim Kız Bizim](https://open.spotify.com/album/1tr6B3iChauvB5MXpZ316V) | 5:43 |
-| 44 | [Nugriz](https://open.spotify.com/track/6ggBOrhVLihp57cTr8L4yX) | [Aarif Jaman](https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh) | [Oud \(The Legend of Arabic Music\)](https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg) | 3:14 |
-| 45 | [A Night In The Mountains](https://open.spotify.com/track/2jzVMkRBB97R6CEU77QWFs) | [Rabih Abou\-Khalil](https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT) | [Blue Camel](https://open.spotify.com/album/4Qxx712hAyTvTsl1EsWeRj) | 8:37 |
+| 44 | [A Night In The Mountains](https://open.spotify.com/track/2jzVMkRBB97R6CEU77QWFs) | [Rabih Abou\-Khalil](https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT) | [Blue Camel](https://open.spotify.com/album/4Qxx712hAyTvTsl1EsWeRj) | 8:37 |
+| 45 | [Nugriz](https://open.spotify.com/track/6ggBOrhVLihp57cTr8L4yX) | [Aarif Jaman](https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh) | [Oud \(The Legend of Arabic Music\)](https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg) | 3:14 |
 | 46 | [Hamsin](https://open.spotify.com/track/1MNANP3o8hubBiDlbu4rsx) | [Bustan Abraham](https://open.spotify.com/artist/6aUAiSI1TGLoGyHeVxPdbc) | [Hamsa](https://open.spotify.com/album/4U88OG3vzz8hFIEoIEwouO) | 7:44 |
 | 47 | [Mirage](https://open.spotify.com/track/3LohLAMADeTgPr44EsOkBm) | [Solferino](https://open.spotify.com/artist/0Dge0pjhPWHwrusK6dAy8k), [Ibis Babè](https://open.spotify.com/artist/3nFoFM7CInvWALF4zBn5Yx) | [Arabian Nights \(Best Arabic Lounge Music\)](https://open.spotify.com/album/0lWIMI91TXMP2pKJZ8IRrT) | 4:50 |
 | 48 | [Endless Dance](https://open.spotify.com/track/0VOT6dW1tKLxK4Oj3QqOGY) | [Ahmed Nazmi](https://open.spotify.com/artist/14ziFX5mT9T7jRNwVUM221) | [Shams](https://open.spotify.com/album/2xwOc0Pd99J3xJ26rQysiW) | 4:26 |

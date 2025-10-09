@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 67305,
+  "num_followers": 67385,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAABkSjUBtm9cotNY4SnCD1Ub",
+  "snapshot_id": "aORYAAAAAACF5IOWv4bYOSuYaiupE8l5",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMAR (Deluxe)",
-        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 137716,
-      "name": "Whip It",
-      "url": "https://open.spotify.com/track/1YA4Jn5uE82zSUUW17hnsP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TAKE CARE",
         "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
       },
@@ -223,22 +207,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy",
-        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
+        "name": "AMAR (Deluxe)",
+        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
       },
       "artists": [
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Box Me Up (feat. Jelly Roll)",
-      "url": "https://open.spotify.com/track/7JjciUzSALsonXv6MukgrP"
+      "duration_ms": 137716,
+      "name": "Whip It",
+      "url": "https://open.spotify.com/track/1YA4Jn5uE82zSUUW17hnsP"
     },
     {
       "added_at": null,
@@ -267,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home (feat. Shaboozey)",
-        "url": "https://open.spotify.com/album/50Gz1176FyXKAnBmVvc6GQ"
+        "name": "I Hope You're Happy",
+        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
       },
       "artists": [
         {
@@ -276,13 +256,13 @@
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         },
         {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 135133,
-      "name": "Home (feat. Shaboozey)",
-      "url": "https://open.spotify.com/track/7LaLY7dkzWEtmtJ8o7oD05"
+      "duration_ms": 173333,
+      "name": "Box Me Up (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/7JjciUzSALsonXv6MukgrP"
     },
     {
       "added_at": null,
@@ -299,6 +279,26 @@
       "duration_ms": 136866,
       "name": "Change Me",
       "url": "https://open.spotify.com/track/1AKXrejQiFURJnr9UKIjDb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Home (feat. Shaboozey)",
+        "url": "https://open.spotify.com/album/50Gz1176FyXKAnBmVvc6GQ"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 135133,
+      "name": "Home (feat. Shaboozey)",
+      "url": "https://open.spotify.com/track/7LaLY7dkzWEtmtJ8o7oD05"
     },
     {
       "added_at": null,
@@ -395,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy",
-        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "I Hope You're Happy (feat. Darius Rucker)",
-      "url": "https://open.spotify.com/track/5W7KycBW97fBZoXtsFX3Gz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TAKE CARE",
         "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 185736,
       "name": "Hit List (with BigXthaPlug & Big Yavo)",
       "url": "https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Hope You're Happy",
+        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "I Hope You're Happy (feat. Darius Rucker)",
+      "url": "https://open.spotify.com/track/5W7KycBW97fBZoXtsFX3Gz"
     },
     {
       "added_at": null,
@@ -547,22 +547,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy",
-        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
+        "name": "New Day",
+        "url": "https://open.spotify.com/album/5NzAyavuEam2kvLykqeAih"
       },
       "artists": [
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 181333,
-      "name": "Long Nights (feat. Thomas Rhett)",
-      "url": "https://open.spotify.com/track/0Q1npl2NHanrUYBGGC6sNo"
+      "duration_ms": 164954,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/2LknoHi0zzRkMhegr2oLZw"
     },
     {
       "added_at": null,
@@ -583,18 +579,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Day",
-        "url": "https://open.spotify.com/album/5NzAyavuEam2kvLykqeAih"
+        "name": "I Hope You're Happy",
+        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
       },
       "artists": [
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 164954,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/2LknoHi0zzRkMhegr2oLZw"
+      "duration_ms": 181333,
+      "name": "Long Nights (feat. Thomas Rhett)",
+      "url": "https://open.spotify.com/track/0Q1npl2NHanrUYBGGC6sNo"
     },
     {
       "added_at": null,
@@ -615,18 +615,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy",
-        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
+        "name": "Boy",
+        "url": "https://open.spotify.com/album/79SKWkRmNKk5wdJAR2uPSe"
       },
       "artists": [
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Big Yavo",
+          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
         }
       ],
-      "duration_ms": 41133,
-      "name": "Gift & a Curse (interlude)",
-      "url": "https://open.spotify.com/track/5jJE44YbriUpUtA2Qphpz3"
+      "duration_ms": 132537,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/746X8HvYnbrMIqHl9R4QP1"
     },
     {
       "added_at": null,
@@ -647,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Hope You're Happy",
+        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 41133,
+      "name": "Gift & a Curse (interlude)",
+      "url": "https://open.spotify.com/track/5jJE44YbriUpUtA2Qphpz3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Who Run It",
         "url": "https://open.spotify.com/album/3nNUt7aSmNi3mmiUgtitHI"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 163626,
       "name": "Who Run It",
       "url": "https://open.spotify.com/track/3uhJIV80m8oKkuyvvS6rw2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boy",
-        "url": "https://open.spotify.com/album/79SKWkRmNKk5wdJAR2uPSe"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Big Yavo",
-          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
-        }
-      ],
-      "duration_ms": 132537,
-      "name": "Boy",
-      "url": "https://open.spotify.com/track/746X8HvYnbrMIqHl9R4QP1"
     },
     {
       "added_at": null,
@@ -763,34 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Someone: Texas Population",
-        "url": "https://open.spotify.com/album/14XtPxh7Dy1qbLgIw8tYNi"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "D Flowers",
-          "url": "https://open.spotify.com/artist/7rnjmw51Muflmf5IFVY8eF"
-        },
-        {
-          "name": "OTB Fastlane",
-          "url": "https://open.spotify.com/artist/130sangK9RkAwRToKn9GHj"
-        }
-      ],
-      "duration_ms": 165114,
-      "name": "TexUS - Intro",
-      "url": "https://open.spotify.com/track/3YH1yjX1BfDp68VeiW4jfW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AMAR (Deluxe)",
         "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
       },
@@ -831,6 +803,34 @@
       "duration_ms": 137896,
       "name": "Meet The 6ixers",
       "url": "https://open.spotify.com/track/0Ta2fVj5VeLL49IZQ9JCO5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be Someone: Texas Population",
+        "url": "https://open.spotify.com/album/14XtPxh7Dy1qbLgIw8tYNi"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "D Flowers",
+          "url": "https://open.spotify.com/artist/7rnjmw51Muflmf5IFVY8eF"
+        },
+        {
+          "name": "OTB Fastlane",
+          "url": "https://open.spotify.com/artist/130sangK9RkAwRToKn9GHj"
+        }
+      ],
+      "duration_ms": 165114,
+      "name": "TexUS - Intro",
+      "url": "https://open.spotify.com/track/3YH1yjX1BfDp68VeiW4jfW"
     },
     {
       "added_at": null,

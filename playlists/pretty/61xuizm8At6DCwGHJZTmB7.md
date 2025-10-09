@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2025 \| Happy Easter 2025! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 119,071 likes - 132 songs - 11 hr 39 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 119,064 likes - 132 songs - 11 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 34 | [Won't He Do It \- Live](https://open.spotify.com/track/4FC3XAidDIMYLFIkxed9bA) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [33 \(Live\)](https://open.spotify.com/album/500D9cuyZpRq0mh13uxVUL) | 5:13 |
 | 35 | [Victory On The Way](https://open.spotify.com/track/2IrVVbJFfWhnkKuaC99HvT) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3) | [Chapel Sessions \(Vol\. 2\)](https://open.spotify.com/album/1WoqVa4lSu0mPZgoj1DxZ2) | 4:46 |
 | 36 | [How Good It Is](https://open.spotify.com/track/0vJOXzOybkJy7yQsdVt0Jg) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Good It Is](https://open.spotify.com/album/1rZ0ypc9rtMEeUlKw5ouGc) | 3:56 |
-| 37 | [THIS IS OUR GOD!](https://open.spotify.com/track/4od5Tu9gO2xLxsYw3DXdyE) | [Covenant Worship](https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj), [Javi](https://open.spotify.com/artist/1t0t0b0ECECZTW1aZkNyK4) | [Can You Hear It?](https://open.spotify.com/album/2FBNJfb4Uv47euZQ5rdbi2) | 6:20 |
+| 37 | [THIS IS OUR GOD!](https://open.spotify.com/track/4od5Tu9gO2xLxsYw3DXdyE) | [Covenant Worship](https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj), [JAVI](https://open.spotify.com/artist/50TBxDRKXkx8BffKq4NKlK) | [Can You Hear It?](https://open.spotify.com/album/2FBNJfb4Uv47euZQ5rdbi2) | 6:20 |
 | 38 | [Nothing Is Over \- Live](https://open.spotify.com/track/16JITzWPFUMY1uNgFIPmxc) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Alexandra Osteen](https://open.spotify.com/artist/0dTif6geJ7jyFWTFA73Lda) | [Nothing Is Over \(Live\)](https://open.spotify.com/album/3eFnq8loN5U5hUtJTSSy4E) | 4:24 |
 | 39 | [Send The Fire](https://open.spotify.com/track/0nA8aos5a7tWOXlm6ZkseN) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh), [Lindsey Arcaro](https://open.spotify.com/artist/3JhAmrIzgB8ssJ22OWIhQH) | [Send The Fire](https://open.spotify.com/album/2NSViSZWOHyf2RM05iYCvp) | 7:43 |
 | 40 | [Beautiful Day \- Live](https://open.spotify.com/track/36nLOcgEtfHRc6aCRP6kGL) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [Joel Figueroa](https://open.spotify.com/artist/3QRS0RlYKcQFdr7X4pcE4V) | [Moments: 011 \(Live\)](https://open.spotify.com/album/63Fa54QgiqrrEuPFbKqkVC) | 3:52 |

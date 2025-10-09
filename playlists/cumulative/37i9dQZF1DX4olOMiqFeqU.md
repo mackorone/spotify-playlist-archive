@@ -4,7 +4,7 @@
 
 > 100% Pinoy hits from your favorite artists!
 
-189 songs - 13 hr 22 min
+190 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Maybe This Time \- From "Maybe This Time"](https://open.spotify.com/track/0Dljpp52vCmtXi0E94qjfo) | [Sarah Geronimo](https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48) | [Maybe This Time \(From "Maybe This Time"\)](https://open.spotify.com/album/0BGReR0ClYIme8zAabt53h) | 4:15 | 2022-06-13 | 2023-06-04 |
 | [Migraine](https://open.spotify.com/track/7zzZmpw8L66ZPjH1M6qmOs) | [Moonstar88](https://open.spotify.com/artist/2kZThDGZcHl4klYYFk0v8n) | [When I Met You](https://open.spotify.com/album/4t3FtECyV1gClHmpBhXSfB) | 4:27 | 2022-04-19 | 2024-06-01 |
 | [Miracle Nights](https://open.spotify.com/track/4pUM81y5Rq7vAUeFhJRBXa) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz), [L.A\. GOON$](https://open.spotify.com/artist/58DoiT68nhZoGfdiIZiiUw), [Peso Mercado](https://open.spotify.com/artist/4mHU0bUvlVfiq0oarPYlAn) | [Miracle Nights](https://open.spotify.com/album/0rfMYevzZnaPqqFWtnY9NO) | 6:14 | 2023-01-04 | 2023-06-14 |
+| [Misteryoso](https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Misteryoso](https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a) | 3:41 | 2025-10-08 |  |
 | [Mundo](https://open.spotify.com/track/4u8RkgV6P4TLi89SmlUtv8) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Mundo](https://open.spotify.com/album/2p6QlBCrnKwUFC0wPN1kfV) | 5:49 | 2022-04-19 | 2024-02-10 |
 | [Mundo](https://open.spotify.com/track/61vyXXtY7OSYFRtSzv5ehw) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Mundo](https://open.spotify.com/album/5TbOkIWnSSdde2HYigXvBl) | 5:49 | 2024-01-31 | 2024-04-19 |
 | [Musika](https://open.spotify.com/track/7bAVndaTleEnfizm6h2d3i) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Musika](https://open.spotify.com/album/3A0K1ImYGMKTYDLe5EgLWv) | 4:06 | 2023-09-13 |  |
@@ -123,7 +124,7 @@
 | [Nang Dumating Ka](https://open.spotify.com/track/7Kh9hYahcc7CY9ySWAhbfe) | [Bandang Lapis](https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx) | [Nang Dumating Ka](https://open.spotify.com/album/0pKql5M2xJjgryZLA9H4T9) | 6:19 | 2022-05-11 | 2023-01-28 |
 | [Ngayong Gabi](https://open.spotify.com/track/5sLGYJOhLP197nmkaRMMEH) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Ngayong Gabi](https://open.spotify.com/album/51UmoT2xdda5pAZcRFMiot) | 4:27 | 2022-06-13 | 2025-08-08 |
 | [Ngiti](https://open.spotify.com/track/1YY6iA00Q58TvDEh6rYaWf) | [Ronnie Liang](https://open.spotify.com/artist/6GbCVaJ6iTA0OnZaOiDpl0) | [Songs of Love](https://open.spotify.com/album/386MjtGdyMGEqjldwGVfFd) | 3:30 | 2022-04-19 | 2022-07-29 |
-| [Nicotine](https://open.spotify.com/track/1kGJlesBPme1OI4gdjivqv) | [SAJKA](https://open.spotify.com/artist/4oGMjYFfUBJlMIhrDdJhyL) | [Weed&Melodies](https://open.spotify.com/album/7ynRrAp1PEZ2OWmWnJ6aXY) | 2:00 | 2025-09-17 |  |
+| [Nicotine](https://open.spotify.com/track/1kGJlesBPme1OI4gdjivqv) | [SAJKA](https://open.spotify.com/artist/4oGMjYFfUBJlMIhrDdJhyL) | [Weed&Melodies](https://open.spotify.com/album/7ynRrAp1PEZ2OWmWnJ6aXY) | 2:00 | 2025-09-17 | 2025-10-09 |
 | [Nobela](https://open.spotify.com/track/3vGkyQlCw8LklNip0ZUELC) | [Join The Club](https://open.spotify.com/artist/70ljCILl0aVXitf3K39YvT) | [Nobela](https://open.spotify.com/album/7kzETZloUVbyQLuqDnLPVV) | 4:51 | 2022-04-19 |  |
 | [Nothing's Gonna Stop Us Now \(Theme from Crazy Beautiful You\)](https://open.spotify.com/track/0bN5xQD1krvZNn8bsiWfVb) | [Daniel Padilla](https://open.spotify.com/artist/5yVM85m9yNcHO6o0vaaVxW), [Morissette](https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ) | [Nothing's Gonna Stop Us Now \(Theme from Crazy Beautiful You\) \- Single](https://open.spotify.com/album/3lfOcun9UzVA8x0JLrOicl) | 4:19 | 2022-04-19 | 2022-07-29 |
 | [Oksihina](https://open.spotify.com/track/06VwVWrnYSTIikz801hGwD) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Oksihina](https://open.spotify.com/album/0YEPa646R98Iqp2GDqsl29) | 3:24 | 2025-07-30 |  |

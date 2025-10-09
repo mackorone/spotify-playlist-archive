@@ -4333,6 +4333,24 @@
     },
     {
       "album": {
+        "name": "private music",
+        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248840,
+      "name": "milk of the madonna",
+      "url": "https://open.spotify.com/track/2463q6UN8BIDfeVI379qFz"
+    },
+    {
+      "album": {
         "name": "Good Morning Revival",
         "url": "https://open.spotify.com/album/5skjlzXO7wZ6OuS9YKdI50"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Zo\u00e9",
-  "num_followers": 297831,
+  "num_followers": 297827,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2025-08-15 04:00:29",
       "album": {
-        "name": "Historia de Amor",
-        "url": "https://open.spotify.com/album/4OGa3bFsQKnnbrPhHCa3lr"
-      },
-      "artists": [
-        {
-          "name": "Franno",
-          "url": "https://open.spotify.com/artist/7fa9Sn6fQo3OztdDjOMQBW"
-        }
-      ],
-      "duration_ms": 214990,
-      "name": "Vuelve con \u00c9l",
-      "url": "https://open.spotify.com/track/6J0EiR87CyBeAUnHH05yKn"
-    },
-    {
-      "added_at": "2025-08-15 04:00:29",
-      "album": {
         "name": "El ataque de las chicas cocodrilo",
         "url": "https://open.spotify.com/album/5VrsIoeYTTupAlat4oNpak"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 157833,
       "name": "El ataque de las chicas cocodrilo",
       "url": "https://open.spotify.com/track/4dy99PdH0CM3dbNUwJRoDw"
+    },
+    {
+      "added_at": "2025-08-15 04:00:29",
+      "album": {
+        "name": "Historia de Amor",
+        "url": "https://open.spotify.com/album/4OGa3bFsQKnnbrPhHCa3lr"
+      },
+      "artists": [
+        {
+          "name": "Franno",
+          "url": "https://open.spotify.com/artist/7fa9Sn6fQo3OztdDjOMQBW"
+        }
+      ],
+      "duration_ms": 214990,
+      "name": "Vuelve con \u00c9l",
+      "url": "https://open.spotify.com/track/6J0EiR87CyBeAUnHH05yKn"
     },
     {
       "added_at": "2025-08-15 04:00:29",
@@ -447,26 +447,6 @@
     {
       "added_at": "2025-08-15 04:00:29",
       "album": {
-        "name": "33",
-        "url": "https://open.spotify.com/album/5ztgvNH3hnZM7rINEBAsuE"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        },
-        {
-          "name": "Dillom",
-          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
-        }
-      ],
-      "duration_ms": 224469,
-      "name": "33",
-      "url": "https://open.spotify.com/track/2pOmxwuiElZh5oyX0jQfDG"
-    },
-    {
-      "added_at": "2025-08-15 04:00:29",
-      "album": {
         "name": "Cama Vac\u00eda",
         "url": "https://open.spotify.com/album/5KX799gIKfPUtvGJP9t3DW"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 239974,
       "name": "Cama Vac\u00eda",
       "url": "https://open.spotify.com/track/5K8Exvm7PPo426jozW4m2q"
+    },
+    {
+      "added_at": "2025-08-15 04:00:29",
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/5ztgvNH3hnZM7rINEBAsuE"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        },
+        {
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+        }
+      ],
+      "duration_ms": 224469,
+      "name": "33",
+      "url": "https://open.spotify.com/track/2pOmxwuiElZh5oyX0jQfDG"
     },
     {
       "added_at": "2025-08-15 04:00:29",
@@ -691,26 +691,6 @@
     {
       "added_at": "2025-08-15 04:00:29",
       "album": {
-        "name": "En El Aire",
-        "url": "https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        },
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "En El Aire",
-      "url": "https://open.spotify.com/track/4OWEhp5U22R6rDBM9Y6Q4j"
-    },
-    {
-      "added_at": "2025-08-15 04:00:29",
-      "album": {
         "name": "T\u00fa Ya No Dices Nada",
         "url": "https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 215940,
       "name": "T\u00fa Ya No Dices Nada",
       "url": "https://open.spotify.com/track/453J04Y7iitrBquFXDKql1"
+    },
+    {
+      "added_at": "2025-08-15 04:00:29",
+      "album": {
+        "name": "En El Aire",
+        "url": "https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "En El Aire",
+      "url": "https://open.spotify.com/track/4OWEhp5U22R6rDBM9Y6Q4j"
     },
     {
       "added_at": "2025-08-15 04:00:29",
@@ -939,18 +939,22 @@
     {
       "added_at": "2025-08-15 04:00:29",
       "album": {
-        "name": "Por Si Ma\u00f1ana No Estoy",
-        "url": "https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5"
+        "name": "LUNA 18",
+        "url": "https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU"
       },
       "artists": [
         {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        },
+        {
+          "name": "Evlay",
+          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
         }
       ],
-      "duration_ms": 154509,
-      "name": "Por Si Ma\u00f1ana No Estoy",
-      "url": "https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q"
+      "duration_ms": 176160,
+      "name": "MALAVIDA (feat. Evlay)",
+      "url": "https://open.spotify.com/track/27nzBHeQnDC8WvJlHdbEr9"
     },
     {
       "added_at": "2025-08-15 04:00:29",
@@ -975,22 +979,18 @@
     {
       "added_at": "2025-08-15 04:00:29",
       "album": {
-        "name": "LUNA 18",
-        "url": "https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU"
+        "name": "Por Si Ma\u00f1ana No Estoy",
+        "url": "https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5"
       },
       "artists": [
         {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
-        },
-        {
-          "name": "Evlay",
-          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
         }
       ],
-      "duration_ms": 176160,
-      "name": "MALAVIDA (feat. Evlay)",
-      "url": "https://open.spotify.com/track/27nzBHeQnDC8WvJlHdbEr9"
+      "duration_ms": 154509,
+      "name": "Por Si Ma\u00f1ana No Estoy",
+      "url": "https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q"
     },
     {
       "added_at": "2025-08-15 04:00:29",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2025-08-15 04:00:29",
       "album": {
+        "name": "Imit\u00e1ndote",
+        "url": "https://open.spotify.com/album/1vIOTSqcNOHM6OEhcGpfsf"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 174123,
+      "name": "Imit\u00e1ndote",
+      "url": "https://open.spotify.com/track/3DyTHxOyaqFyVma3LUJYMn"
+    },
+    {
+      "added_at": "2025-08-15 04:00:29",
+      "album": {
         "name": "Noches Largas (feat. Bruses)",
         "url": "https://open.spotify.com/album/02mEkveH5bAH4lMS5PvrMo"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 293866,
       "name": "Noches Largas (feat. Bruses)",
       "url": "https://open.spotify.com/track/5cOp5gpIT6HTJ2oDgaQsNu"
-    },
-    {
-      "added_at": "2025-08-15 04:00:29",
-      "album": {
-        "name": "Imit\u00e1ndote",
-        "url": "https://open.spotify.com/album/1vIOTSqcNOHM6OEhcGpfsf"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 174123,
-      "name": "Imit\u00e1ndote",
-      "url": "https://open.spotify.com/track/3DyTHxOyaqFyVma3LUJYMn"
     },
     {
       "added_at": "2025-08-15 04:00:29",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2025-08-15 04:00:29",
       "album": {
-        "name": "S\u00daPER PREMIUM ULTRA",
-        "url": "https://open.spotify.com/album/3iotVnhWSsVoihTEsXFobV"
+        "name": "Conducci\u00f3n Temeraria",
+        "url": "https://open.spotify.com/album/5nrXt3Q3tpjTZaOO19H3P3"
       },
       "artists": [
         {
-          "name": "Dum Chica",
-          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
+          "name": "Alizzz",
+          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
         }
       ],
-      "duration_ms": 204403,
-      "name": "RA",
-      "url": "https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv"
+      "duration_ms": 214168,
+      "name": "Mirando al techo",
+      "url": "https://open.spotify.com/track/35GXIb8Bgfro3dELpItLPc"
     }
   ],
   "unique_name": "Rock Total",

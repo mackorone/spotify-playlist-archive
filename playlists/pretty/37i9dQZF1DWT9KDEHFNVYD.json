@@ -1,6 +1,6 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
-  "num_followers": 15793,
+  "num_followers": 15794,
   "original_name": "Krautrock",
   "owner": {
     "name": "Spotify",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/4bTWH5P6CykNnANLOAzKCR"
-      },
-      "artists": [
-        {
-          "name": "Colder",
-          "url": "https://open.spotify.com/artist/1z7SXnaVwt0Fnncfrz94SG"
-        }
-      ],
-      "duration_ms": 311600,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/0McxNzcP8DB1VKDLqZ0T3h"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Can't Get There EP",
         "url": "https://open.spotify.com/album/7lVtPOrm8y8D9ELXOIVxPm"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 437250,
       "name": "Can't Get There",
       "url": "https://open.spotify.com/track/1AtSdzyt3vsGUVSk5wb44Z"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/4bTWH5P6CykNnANLOAzKCR"
+      },
+      "artists": [
+        {
+          "name": "Colder",
+          "url": "https://open.spotify.com/artist/1z7SXnaVwt0Fnncfrz94SG"
+        }
+      ],
+      "duration_ms": 311600,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/0McxNzcP8DB1VKDLqZ0T3h"
     },
     {
       "added_at": "2023-03-23 21:21:38",
@@ -1465,22 +1465,6 @@
       "url": "https://open.spotify.com/track/6T42JJsew8dVP9s87D8mA1"
     },
     {
-      "added_at": "2023-01-25 02:05:47",
-      "album": {
-        "name": "Nieve Afuera",
-        "url": "https://open.spotify.com/album/3McBi4ulUbSELV3e3S3JQo"
-      },
-      "artists": [
-        {
-          "name": "Aliage",
-          "url": "https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt"
-        }
-      ],
-      "duration_ms": 277845,
-      "name": "Nieve Afuera",
-      "url": "https://open.spotify.com/track/2uODWJ6wW0PKoJVVfcY2XQ"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Blood-Drums",
@@ -1495,6 +1479,22 @@
       "duration_ms": 509853,
       "name": "Blood-Drums",
       "url": "https://open.spotify.com/track/10E0V5fhdJ2kJkSomo9LKr"
+    },
+    {
+      "added_at": "2023-01-25 02:05:47",
+      "album": {
+        "name": "Nieve Afuera",
+        "url": "https://open.spotify.com/album/3McBi4ulUbSELV3e3S3JQo"
+      },
+      "artists": [
+        {
+          "name": "Aliage",
+          "url": "https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt"
+        }
+      ],
+      "duration_ms": 277845,
+      "name": "Nieve Afuera",
+      "url": "https://open.spotify.com/track/2uODWJ6wW0PKoJVVfcY2XQ"
     },
     {
       "added_at": "2021-07-30 14:56:06",

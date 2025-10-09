@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1516678,
+  "num_followers": 1516652,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Vers\u00f5es Que Eu Fiz",
+        "url": "https://open.spotify.com/album/1tHmHQwW8burYhP5I9sGx2"
+      },
+      "artists": [
+        {
+          "name": "LUTHULY",
+          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Cola Comigo",
+      "url": "https://open.spotify.com/track/0qMLvVQQV4jFb9dR8VDYeA"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Gostosin (Acoustic)",
         "url": "https://open.spotify.com/album/5Y9ZE9LqRP3idUKiygwgSy"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 180333,
       "name": "Gostosin (Acoustic)",
       "url": "https://open.spotify.com/track/7zUSQpCMIWnoyFEZktrE6x"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Vers\u00f5es Que Eu Fiz",
-        "url": "https://open.spotify.com/album/1tHmHQwW8burYhP5I9sGx2"
-      },
-      "artists": [
-        {
-          "name": "LUTHULY",
-          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Cola Comigo",
-      "url": "https://open.spotify.com/track/0qMLvVQQV4jFb9dR8VDYeA"
     },
     {
       "added_at": "2024-08-02 18:37:00",

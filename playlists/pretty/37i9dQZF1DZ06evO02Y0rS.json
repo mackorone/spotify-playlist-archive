@@ -1,12 +1,12 @@
 {
   "description": "This is Bonobo. The essential tracks, all in one playlist.",
-  "num_followers": 162659,
+  "num_followers": 162662,
   "original_name": "This Is Bonobo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAABGfsk7AZG/5ZvIVsWITXI/",
+  "snapshot_id": "aORYAAAAAADdxwi/XhL9FDCiPkC7O6Mh",
   "tracks": [
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 287728,
-      "name": "Sapphire",
-      "url": "https://open.spotify.com/track/1d5hX0RYHcDM4aHJHSm5cr"
+      "duration_ms": 243780,
+      "name": "Ten Tigers",
+      "url": "https://open.spotify.com/track/5xz5dUtU2xooSP75BwRJ3H"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dial 'M' for Monkey",
-        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
+        "name": "Linked",
+        "url": "https://open.spotify.com/album/6Eb3lH04iEMK0YJ8gk01MR"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 284280,
-      "name": "Flutter",
-      "url": "https://open.spotify.com/track/5K8WNrf5JvmBE6O0MbSRuJ"
+      "duration_ms": 369461,
+      "name": "Linked",
+      "url": "https://open.spotify.com/track/3rCtueI7qBN2kZBZnXuk5K"
     },
     {
       "added_at": null,
@@ -668,15 +668,15 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 243780,
-      "name": "Ten Tigers",
-      "url": "https://open.spotify.com/track/5xz5dUtU2xooSP75BwRJ3H"
+      "duration_ms": 287728,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/1d5hX0RYHcDM4aHJHSm5cr"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Linked",
-        "url": "https://open.spotify.com/album/6Eb3lH04iEMK0YJ8gk01MR"
+        "name": "Dial 'M' for Monkey",
+        "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 369461,
-      "name": "Linked",
-      "url": "https://open.spotify.com/track/3rCtueI7qBN2kZBZnXuk5K"
+      "duration_ms": 284280,
+      "name": "Flutter",
+      "url": "https://open.spotify.com/track/5K8WNrf5JvmBE6O0MbSRuJ"
     },
     {
       "added_at": null,

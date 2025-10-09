@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-830 songs - 1 day 16 hr 13 min
+831 songs - 1 day 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Becalming Silence](https://open.spotify.com/track/73E1cWwhV9iyIfiyyH26Mn) | [La Kalon](https://open.spotify.com/artist/5PdlOF1wMz2X6jSbZXND4l) | [Becalming Silence](https://open.spotify.com/album/7ynySTl54ib9UJLkgwrvak) | 2:29 | 2023-03-23 | 2024-03-21 |
 | [Before The Full Moon](https://open.spotify.com/track/6f9yi7FErSjPN4hWCJURLq) | [Isah Atkins](https://open.spotify.com/artist/6Cus1UHddFX9FPj4CoBEK4) | [Before The Full Moon.](https://open.spotify.com/album/1oRxGgmdb4IrBsbKEbU0Qf) | 3:18 | 2023-07-14 | 2024-07-10 |
 | [Begin Again](https://open.spotify.com/track/5KizSeC2r6lnTqVf3j3kMq) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Begin Again](https://open.spotify.com/album/6ZtJLFGZl9rEFG1nukqRp0) | 3:42 | 2023-03-23 | 2024-03-21 |
+| [Below the Surface](https://open.spotify.com/track/4lmiDiCqbBvvGgxJpOxN6i) | [Ziraphine](https://open.spotify.com/artist/11GUbolCBySYUL4wIUv1Ex) | [Below the Surface](https://open.spotify.com/album/1PVUyu756TaHSWMzpKxLrN) | 2:35 | 2025-10-08 |  |
 | [Benevolent](https://open.spotify.com/track/3qv6UdZerLnFiGkWBynjGv) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Benevolent](https://open.spotify.com/album/5iMRxKGIIbRv8OxwEpj8JP) | 2:20 | 2024-05-04 | 2025-09-24 |
 | [Berhenti Masa](https://open.spotify.com/track/32SDpflyGXlMiWbtrMbUgC) | [Waneesa](https://open.spotify.com/artist/62IrHmSFccbsuwIFWQKEgg) | [Berhenti Masa](https://open.spotify.com/album/2rjf7QvlfHGsHL6nTTLwfC) | 2:29 | 2023-03-23 | 2024-05-05 |
 | [beyond horizons](https://open.spotify.com/track/1jpVNjs3ljHRGkE6hklAMB) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [sleeping moons](https://open.spotify.com/album/5axy78HLC8b3mqrS3qWLJf) | 3:14 | 2023-03-23 | 2024-03-21 |
@@ -169,7 +170,7 @@
 | [Cosmic Balance](https://open.spotify.com/track/2OIQ15ivFONa31vze9jIoz) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Cosmic Balance](https://open.spotify.com/album/1qobBVLrSQk3kxBTtb3ysx) | 3:01 | 2024-08-30 | 2025-01-09 |
 | [Cosmic Cascade](https://open.spotify.com/track/2jdMMPWv4rsspn5XKcN6tC) | [Dream Drift Tunes](https://open.spotify.com/artist/26ZbGRftrJHVZUDaz5rSkM) | [Cosmic Cascade](https://open.spotify.com/album/7KuuTbkhUXUNSgU0JY9OXg) | 2:53 | 2025-03-05 | 2025-05-31 |
 | [Cosmic Vibe](https://open.spotify.com/track/16YWHIxMQbvfShxpS1eKiR) | [Modular 53](https://open.spotify.com/artist/3UklgXTg7a5xLCLywOH60t) | [Cosmic Vibe](https://open.spotify.com/album/4Iaf26Hy7tPOA8lop1mSHY) | 3:04 | 2024-02-08 | 2024-11-07 |
-| [Cosmical Sense](https://open.spotify.com/track/2NfCpcNt3P8VSZ4fHgjSTm) | [Lush Lotus](https://open.spotify.com/artist/4Ho8lnnZWQ6ldapSazUAbq) | [Cosmical Sense](https://open.spotify.com/album/5BlSnEJGx2324KFlf1XSpp) | 2:45 | 2025-05-20 |  |
+| [Cosmical Sense](https://open.spotify.com/track/2NfCpcNt3P8VSZ4fHgjSTm) | [Lush Lotus](https://open.spotify.com/artist/4Ho8lnnZWQ6ldapSazUAbq) | [Cosmical Sense](https://open.spotify.com/album/5BlSnEJGx2324KFlf1XSpp) | 2:45 | 2025-05-20 | 2025-10-09 |
 | [Country Chimes](https://open.spotify.com/track/3htH2dXVeOFB2qfqJBO9Og) | [Coconut Calm](https://open.spotify.com/artist/6CJjcrdMJpp3LxzcpNXjp7) | [Country Chimes](https://open.spotify.com/album/5YOrucAjPM8G2QfG9M1GlG) | 4:21 | 2023-03-23 | 2024-03-21 |
 | [Cross A Line](https://open.spotify.com/track/1IkrL2wE6aWYzOmWjZmNO9) | [Sean Altar](https://open.spotify.com/artist/3Jo70Smt1IRBEAGBeXnczk) | [Cross A Line](https://open.spotify.com/album/32PoI04cGJfCgmH003knVN) | 2:18 | 2023-03-23 | 2024-03-21 |
 | [Cryonics](https://open.spotify.com/track/3STDQOJdgwSOQRdaAXjCaC) | [Mark Watson](https://open.spotify.com/artist/6vUk8SMonemgCpxqUhYzlv) | [Cryonics](https://open.spotify.com/album/5FBZZbPtYsJtMKiepGDVnE) | 3:06 | 2023-03-23 | 2024-01-18 |

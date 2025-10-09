@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: OddRe:
 
-2,054 songs - 5 day 4 hr 14 min
+2,055 songs - 5 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1692,6 +1692,7 @@
 | [夏実](https://open.spotify.com/track/0OxBVRzo5bJcZklm3gsWOZ) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [夏実](https://open.spotify.com/album/2mFCIzPIZzbWUIz0KHfEn4) | 5:07 | 2024-09-17 | 2024-10-02 |
 | [夏実](https://open.spotify.com/track/6zlNkJOqNncHklCUAPZ61g) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [AKASAKI \- 2024](https://open.spotify.com/album/72Y5bHjwM0AJQG2zfkhaLX) | 5:07 | 2025-01-09 | 2025-01-29 |
 | [夕凪、黄昏](https://open.spotify.com/track/7dJLW9J6zJZ1sXhRa5MQTR) | [岡山健二](https://open.spotify.com/artist/6sDaLBf6pQLQoL26A4ZjAB) | [34](https://open.spotify.com/album/1RTiZ95LChcMSdKED1pyEo) | 4:15 | 2023-12-05 | 2023-12-20 |
+| [夕日](https://open.spotify.com/track/76jsGuWtNMd3p9HBPvolIg) | [中島 寂](https://open.spotify.com/artist/3XJ7WCAaSoiqWePVw9qZdL) | [夕日](https://open.spotify.com/album/43ap3DY2HKTUQ8qIUAT0ik) | 3:29 | 2025-10-07 |  |
 | [夕立ち](https://open.spotify.com/track/6UncgJBh2gkDOABXNiRQHF) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [夕立ち](https://open.spotify.com/album/7eyDBtMztkyYnyy99UdHiz) | 2:51 | 2022-05-17 | 2022-06-22 |
 | [夜について](https://open.spotify.com/track/6oNZI1mwVseG1ivP3FEAos) | [テレビ大陸音頭](https://open.spotify.com/artist/2kaZBRLaNSBdNuFKJCfqjt) | [夜について](https://open.spotify.com/album/6Y5rvsccQGOR7Pn75bzPvv) | 4:27 | 2025-03-25 | 2025-04-16 |
 | [夜に叶えて](https://open.spotify.com/track/3u44dFRzepo5r8bG6yfsmy) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [夜に叶えて](https://open.spotify.com/album/2niwXjOARaguHprBwR9SBc) | 4:11 | 2022-08-23 | 2022-09-21 |

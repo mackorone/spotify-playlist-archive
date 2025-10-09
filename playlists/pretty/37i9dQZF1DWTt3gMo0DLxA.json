@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: OG",
-  "num_followers": 460467,
+  "num_followers": 460952,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOir+x0Y2f+1pJXrhko+0QuTKo4O",
+  "snapshot_id": "AAAAAGSrEKgTzgjVNY3Ws7ukGx+svJYc",
   "tracks": [
     {
       "added_at": "2025-08-04 05:46:30",
@@ -385,6 +385,30 @@
       "url": "https://open.spotify.com/track/5RfNlQ6GrTWmAXpmUUhDzF"
     },
     {
+      "added_at": "2025-10-08 05:36:53",
+      "album": {
+        "name": "Orange",
+        "url": "https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj"
+      },
+      "artists": [
+        {
+          "name": "Naresh Iyer",
+          "url": "https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI"
+        },
+        {
+          "name": "Nadeesh",
+          "url": "https://open.spotify.com/artist/0g5fVrrOznFqf7yfnLd8sE"
+        },
+        {
+          "name": "U.V.Jackey",
+          "url": "https://open.spotify.com/artist/3boPdM5gG0ZyA6IjZCFsyn"
+        }
+      ],
+      "duration_ms": 287823,
+      "name": "Nenu Nuvvantu",
+      "url": "https://open.spotify.com/track/0X0Y2AnYuIdn9arB8P6EB4"
+    },
+    {
       "added_at": "2025-09-24 14:19:46",
       "album": {
         "name": "They Call Him OG (Original Motion Picture Soundtrack)",
@@ -519,30 +543,6 @@
       "duration_ms": 303796,
       "name": "Avunu Nijam",
       "url": "https://open.spotify.com/track/3CW0qWSqqqDvQWritNm7bC"
-    },
-    {
-      "added_at": "2025-06-10 07:05:16",
-      "album": {
-        "name": "Hit - 3 (Telugu)",
-        "url": "https://open.spotify.com/album/2pfP3rRNecoqjlW3rhk0yw"
-      },
-      "artists": [
-        {
-          "name": "Mickey J. Meyer",
-          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
-        },
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Raghav",
-          "url": "https://open.spotify.com/artist/4HAeiRB2mbaO8qQBGzVP4o"
-        }
-      ],
-      "duration_ms": 248752,
-      "name": "Thanu",
-      "url": "https://open.spotify.com/track/4qhfUpYE22YcimID3qnwUD"
     },
     {
       "added_at": "2023-11-06 11:12:57",

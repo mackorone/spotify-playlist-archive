@@ -2,9 +2,9 @@
 
 ### [New Pakistani Pop](https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX)
 
-> Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Marshall Ahmad
+> Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Umair
 
-318 songs - 16 hr 49 min
+319 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Love Song](https://open.spotify.com/track/1YmC6MzyctKlE5XGtXy5ow) | [Sameen Khawaja](https://open.spotify.com/artist/3N3IttjqDCutknUWWA1q9B), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Love Song](https://open.spotify.com/album/4dIAYG2b0XxwlI9udFN8h8) | 3:03 | 2024-06-28 | 2024-08-10 |
 | [Lovely Bukhaar](https://open.spotify.com/track/0ZecYdnRuxLDAmA00WMflH) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Lovely Bukhaar](https://open.spotify.com/album/4AByHVwoFBXapZyGQVYrCO) | 3:24 | 2025-01-17 | 2025-06-06 |
 | [Lutteya](https://open.spotify.com/track/5lvRJt718g6Crz1x5mzlDW) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP) | [Lutteya](https://open.spotify.com/album/4alqVnUPeTCTlRLT6FLtyW) | 2:48 | 2025-08-08 | 2025-09-10 |
+| [Luv Summer](https://open.spotify.com/track/72fnjwohXwVLqudRXiRmbc) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Jevin Gill](https://open.spotify.com/artist/4wOKfu3A61gCA7lWEynNoe), [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx) | [Luv Summer](https://open.spotify.com/album/4Rj4pFxfcihI6WlC8efI1v) | 2:50 | 2025-10-08 |  |
 | [LV \(Ja Re Ja\)](https://open.spotify.com/track/0E6bYWfPxfEEDKpSCDvRti) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [LV \(Ja Re Ja\)](https://open.spotify.com/album/6IOeC3lO07Jr4flPHV3VuW) | 3:07 | 2025-01-17 | 2025-06-06 |
 | [Maahi \- Original](https://open.spotify.com/track/6boNCp6hK7sFP0BAyMJ4wn) | [Asad Ali Murtaza](https://open.spotify.com/artist/5Fk3jIr9T4TlXIzGVIUsNL) | [Maahi \(Original\)](https://open.spotify.com/album/2nfGLGl9NLsC5wpPIhPdyY) | 4:41 | 2025-01-17 | 2025-06-06 |
 | [Maan Lo](https://open.spotify.com/track/5LenCWHfOGEcDv3XOYWvv9) | [Hamza Malik](https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9) | [Maan Lo](https://open.spotify.com/album/3QegCkvuZNppULPivxcr6x) | 2:28 | 2024-06-28 | 2024-09-28 |
@@ -196,7 +197,7 @@
 | [Naqaab](https://open.spotify.com/track/5U8vnomI00iJDCN3Gm6Fhh) | [Taimour Baig](https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi), [Rohith Pai Kasturi](https://open.spotify.com/artist/3Ji6vr5jQfh3mMoeVt1mFb), [SarpDansh](https://open.spotify.com/artist/2EnfibPipqcjvyRiNrbHTN), [SickLot](https://open.spotify.com/artist/2NYWuAn8LPsebNkudbSLA6) | [Naqaab](https://open.spotify.com/album/5ULV6AgbJSK5fy7NjBAUfE) | 3:15 | 2025-01-24 | 2025-06-06 |
 | [Naqaab](https://open.spotify.com/track/7lcOOBhxUjPeVtkpPo0SmJ) | [Yashal Shahid](https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53) | [Naqaab](https://open.spotify.com/album/6Aee4Cd2fe8fOBzoccSjKL) | 2:58 | 2025-02-28 | 2025-09-18 |
 | [Naraaz](https://open.spotify.com/track/5R5reIUDThok64YH1LAelH) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Naraaz](https://open.spotify.com/album/42h4XY1DBc1sBM8mrvjqU0) | 3:40 | 2025-08-08 |  |
-| [Nasha](https://open.spotify.com/track/3XpWtieesup3tz8VHF8vz0) | [Azaan Ali Bagga](https://open.spotify.com/artist/2KsVY0RjkAIPUPvQvqhUdQ), [The Skinny guy](https://open.spotify.com/artist/7eYjyf17V4zqV4fN1oYBMX), [Jayyke](https://open.spotify.com/artist/1ARdtExcPBhLoGwsI959Kw) | [Nasha](https://open.spotify.com/album/3FoXlD6UQoyq4IPWuP2vry) | 1:00 | 2025-10-03 |  |
+| [Nasha](https://open.spotify.com/track/3XpWtieesup3tz8VHF8vz0) | [Azaan Ali Bagga](https://open.spotify.com/artist/2KsVY0RjkAIPUPvQvqhUdQ), [The Skinny guy](https://open.spotify.com/artist/7eYjyf17V4zqV4fN1oYBMX), [Jayyke](https://open.spotify.com/artist/1ARdtExcPBhLoGwsI959Kw) | [Nasha](https://open.spotify.com/album/3FoXlD6UQoyq4IPWuP2vry) | 1:00 | 2025-10-03 | 2025-10-09 |
 | [Nasha](https://open.spotify.com/track/7EUvEQc888YgLJqZ2Nxkgn) | [Azaan Ali Bagga](https://open.spotify.com/artist/2KsVY0RjkAIPUPvQvqhUdQ), [The Skinny guy](https://open.spotify.com/artist/7eYjyf17V4zqV4fN1oYBMX), [Jayyke](https://open.spotify.com/artist/1ARdtExcPBhLoGwsI959Kw) | [Nasha](https://open.spotify.com/album/5YkCVWOSREIl0F4HT4LGM0) | 2:57 | 2025-09-17 |  |
 | [Nishaani](https://open.spotify.com/track/39UMrWPQfDs4BAmkfDHFwU) | [Aqdas Asif](https://open.spotify.com/artist/4EMocUxs9mFdhDfo4WT7kR), [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP) | [Nishaani](https://open.spotify.com/album/5U2UWMIPPqXCDSjkRgqvF2) | 3:07 | 2024-09-09 | 2024-09-14 |
 | [No Calls](https://open.spotify.com/track/5bjtjVRyBpBVIgqqxwFutG) | [Adnan Ali](https://open.spotify.com/artist/0iFTgkSjp5WBTbElQqgjXg), [Z4NE](https://open.spotify.com/artist/2td2YE8f304mP6oNBip6dZ) | [No Calls](https://open.spotify.com/album/1CHYKKtoTvjNgBvsEDRs93) | 4:34 | 2024-11-07 | 2025-01-17 |

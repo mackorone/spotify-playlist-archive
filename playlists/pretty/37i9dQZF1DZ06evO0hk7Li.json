@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 39798,
+  "num_followers": 39803,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAAD51DTViQYsTPULWyGhWg+d",
+  "snapshot_id": "aORYAAAAAAA8oD+/D3wjyEDH14rjN12W",
   "tracks": [
     {
       "added_at": null,
@@ -203,38 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Boy Who Cried Freedom",
-        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 191432,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1ohlbpNCsuqstbqsezNdUI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For My Friends",
-        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 290115,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/11svo7PkpgWFqw16XdwRor"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Creed II (Score & Music from the Original Motion Picture)",
         "url": "https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u"
       },
@@ -255,6 +223,38 @@
       "duration_ms": 304586,
       "name": "Runnin (feat. A$AP Rocky & Jacob Banks)",
       "url": "https://open.spotify.com/track/7ckSHKZnX72c6IQnKGJNpi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 290115,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/11svo7PkpgWFqw16XdwRor"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Boy Who Cried Freedom",
+        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 191432,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1ohlbpNCsuqstbqsezNdUI"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yonder",
+        "url": "https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 177400,
+      "name": "You Like It I Love It",
+      "url": "https://open.spotify.com/track/78sI81RifcXgUp2YBiZb2q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Monologue",
         "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
       },
@@ -459,26 +475,6 @@
       "duration_ms": 197701,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/1CZbcH7PL9aa5x6FCAtUKT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Village",
-        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        },
-        {
-          "name": "Bibi Bourelly",
-          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
-        }
-      ],
-      "duration_ms": 241573,
-      "name": "Kumbaya (feat. Bibi Bourelly)",
-      "url": "https://open.spotify.com/track/3gevHqNgAIl0dqFenYqkiM"
     },
     {
       "added_at": null,
@@ -503,18 +499,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yonder",
-        "url": "https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx"
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
       },
       "artists": [
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Bibi Bourelly",
+          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
         }
       ],
-      "duration_ms": 177400,
-      "name": "You Like It I Love It",
-      "url": "https://open.spotify.com/track/78sI81RifcXgUp2YBiZb2q"
+      "duration_ms": 241573,
+      "name": "Kumbaya (feat. Bibi Bourelly)",
+      "url": "https://open.spotify.com/track/3gevHqNgAIl0dqFenYqkiM"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 208172,
-      "name": "Something Beautiful",
-      "url": "https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Village",
         "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
       },
@@ -671,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 208172,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
         "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
       },
@@ -683,26 +683,6 @@
       "duration_ms": 204658,
       "name": "In The Name Of Love - From The Motion Picture The Equalizer 2",
       "url": "https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Miles",
-        "url": "https://open.spotify.com/album/5NTwzn0gyfspqs0CgRXAnK"
-      },
-      "artists": [
-        {
-          "name": "Gatton",
-          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "Miles",
-      "url": "https://open.spotify.com/track/4eI0cTeYray8jcBxlFjl2z"
     },
     {
       "added_at": null,
@@ -735,6 +715,26 @@
       "duration_ms": 240266,
       "name": "Won't Turn Back",
       "url": "https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Miles",
+        "url": "https://open.spotify.com/album/5NTwzn0gyfspqs0CgRXAnK"
+      },
+      "artists": [
+        {
+          "name": "Gatton",
+          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "Miles",
+      "url": "https://open.spotify.com/track/4eI0cTeYray8jcBxlFjl2z"
     },
     {
       "added_at": null,

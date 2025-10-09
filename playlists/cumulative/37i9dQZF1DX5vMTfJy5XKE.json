@@ -1135,6 +1135,24 @@
     },
     {
       "album": {
+        "name": "Bah Humbug",
+        "url": "https://open.spotify.com/album/14qiH7IopCWCBIiG5Dacqn"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229594,
+      "name": "Bah Humbug",
+      "url": "https://open.spotify.com/track/0887mDaCYiGxvsHp0gtoPa"
+    },
+    {
+      "album": {
         "name": "Beautiful Star of Bethlehem",
         "url": "https://open.spotify.com/album/64TNhQ20gsVJBPaoZatLmx"
       },
@@ -3572,7 +3590,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 235496,
       "name": "Christmastime Is Finally Here",
       "url": "https://open.spotify.com/track/2kRBUCUida9agDIMOgRRyW"

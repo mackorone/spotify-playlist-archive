@@ -1,12 +1,12 @@
 {
   "description": "This is AJULIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 10116,
+  "num_followers": 10135,
   "original_name": "This Is AJULIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAADHgENBocxHIS7wnqqoGPFw",
+  "snapshot_id": "aORYAAAAAAD++hcjMKoV3KsvXb7i4z8d",
   "tracks": [
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AJU",
-        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
+        "name": "SALA VERMELHA #03 - Ajuliacosta",
+        "url": "https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK"
       },
       "artists": [
         {
@@ -408,13 +408,17 @@
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         },
         {
-          "name": "iamlope$$",
-          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/45UuW6QeVHDtgaj05QsWjr"
+        },
+        {
+          "name": "MOVIMENTO",
+          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
         }
       ],
-      "duration_ms": 163934,
-      "name": "Marido de Bandida",
-      "url": "https://open.spotify.com/track/6qybczOKmJLTfomZrtD5fF"
+      "duration_ms": 111157,
+      "name": "SALA VERMELHA #03 - Ajuliacosta",
+      "url": "https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW"
     },
     {
       "added_at": null,
@@ -439,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SALA VERMELHA #03 - Ajuliacosta",
-        "url": "https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK"
+        "name": "AJU",
+        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
       },
       "artists": [
         {
@@ -448,17 +452,13 @@
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         },
         {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/45UuW6QeVHDtgaj05QsWjr"
-        },
-        {
-          "name": "MOVIMENTO",
-          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
+          "name": "iamlope$$",
+          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
         }
       ],
-      "duration_ms": 111157,
-      "name": "SALA VERMELHA #03 - Ajuliacosta",
-      "url": "https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW"
+      "duration_ms": 163934,
+      "name": "Marido de Bandida",
+      "url": "https://open.spotify.com/track/6qybczOKmJLTfomZrtD5fF"
     },
     {
       "added_at": null,
@@ -858,11 +858,15 @@
         {
           "name": "AJULIACOSTA",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
         }
       ],
-      "duration_ms": 120944,
-      "name": "7 Ruas",
-      "url": "https://open.spotify.com/track/3rOXjEay5jV6cFDkQvuGqE"
+      "duration_ms": 153600,
+      "name": "Aju",
+      "url": "https://open.spotify.com/track/3AnlYFI3TFrz7p0Q6zo376"
     },
     {
       "added_at": null,
@@ -930,15 +934,11 @@
         {
           "name": "AJULIACOSTA",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
         }
       ],
-      "duration_ms": 153600,
-      "name": "Aju",
-      "url": "https://open.spotify.com/track/3AnlYFI3TFrz7p0Q6zo376"
+      "duration_ms": 120944,
+      "name": "7 Ruas",
+      "url": "https://open.spotify.com/track/3rOXjEay5jV6cFDkQvuGqE"
     },
     {
       "added_at": null,

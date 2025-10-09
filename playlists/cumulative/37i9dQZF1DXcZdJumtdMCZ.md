@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Shiv Paul
 
-237 songs - 13 hr 2 min
+238 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bosu](https://open.spotify.com/track/7FwHjQkA7QOEo7x1XWP39v) | [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [DANNY JIN](https://open.spotify.com/artist/6iFEDdWuZ5u1yivKaBB3Y8), [Dev Major](https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv) | [Bosu](https://open.spotify.com/album/6IVF2akmAW3qdUWf4kZ0m6) | 2:25 | 2025-03-19 | 2025-06-04 |
 | [BRAND NEW!](https://open.spotify.com/track/4cPbFVkwMnK3bbxCSROu3C) | [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm), [SVDP](https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb) | [BRAND NEW!](https://open.spotify.com/album/1w3EjAd1zUpegs35wLFNkI) | 2:49 | 2025-09-05 |  |
 | [BRAT Theory \(From "BRAT "\) \[Tamil\]](https://open.spotify.com/track/5FGCNCH2vD9wfX8dpnPvJg) | [K.J Iyenar](https://open.spotify.com/artist/48x2n0fDajDy8dejSS83TN), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [BRAT Theory \(From "BRAT "\) \[Tamil\]](https://open.spotify.com/album/1fo739fjp0Q0zPfPv9JSX4) | 2:40 | 2025-03-30 |  |
+| [Broke Flex](https://open.spotify.com/track/1Yr5zkukfXR0A7jytyeRqC) | [MaPi Rapz](https://open.spotify.com/artist/1o0LANvTHGyMSfAClJpHE1), [SHIV PAUL](https://open.spotify.com/artist/5AA9gS6Kw5CwPGZ8CEoA8f) | [Broke Flex](https://open.spotify.com/album/6Mh8TfaQUyInVUtPZzJWBc) | 2:43 | 2025-10-08 |  |
 | [Brother Bigson Mandela](https://open.spotify.com/track/2mSoTLvQtGpUpCkxARsY8A) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Valliamma Peraandi \- Vol\. 01](https://open.spotify.com/album/1CUpxD8bx7lF4od9FtAXCG) | 3:11 | 2024-12-29 | 2025-01-31 |
 | [BUILD UP](https://open.spotify.com/track/074cUACH6LjzkaMQ9plZdp) | [sachu Madrasi](https://open.spotify.com/artist/5cTDZIXnv13h05pY6zTQjN), [Atiium](https://open.spotify.com/artist/59FtOOdwOyFCBSRh7drSjU) | [BUILD UP](https://open.spotify.com/album/2DARaFFotC6l4PEoaHPAxM) | 2:35 | 2025-02-21 | 2025-08-26 |
 | [Bum Bum](https://open.spotify.com/track/139ea9g2vGIKGLJds7chkE) | [Dev Major](https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv), [NEXA Music](https://open.spotify.com/artist/66NKyTgQP5uRDoy8tN4Gnx), [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [JQueen](https://open.spotify.com/artist/6xWnLYqorRmx45XVLwSouu) | [Nexa Music Season 3 \- The Lab \- Playlist 2](https://open.spotify.com/album/1JJnpHKrCEVd8xNXzCqtId) | 3:01 | 2025-06-04 | 2025-09-06 |

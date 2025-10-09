@@ -5475,6 +5475,24 @@
     },
     {
       "album": {
+        "name": "Sende De Benden Var",
+        "url": "https://open.spotify.com/album/39zwVUxvdqEfPwW0JRg0KP"
+      },
+      "artists": [
+        {
+          "name": "Tan Ta\u015f\u00e7\u0131",
+          "url": "https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188710,
+      "name": "Sende De Benden Var",
+      "url": "https://open.spotify.com/track/1UoOIt4oT3jLh4waq06wmG"
+    },
+    {
+      "album": {
         "name": "Seni Bana Vermediler",
         "url": "https://open.spotify.com/album/7nkt6nd03wiPPZOjS1VKnj"
       },
@@ -5866,7 +5884,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 238634,
       "name": "Soka\u011f\u0131ndan Ge\u00e7mezdim",
       "url": "https://open.spotify.com/track/0cfSvO87qn9LtYRpkxSfq4"

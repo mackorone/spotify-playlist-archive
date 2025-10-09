@@ -4,7 +4,7 @@
 
 > This is Hundred Reasons\. The essential tracks, all in one playlist.
 
-80 songs - 4 hr 39 min
+81 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Broken Hands](https://open.spotify.com/track/68bhEGCeB4rH6xNrDVASLu) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Kill Your Own](https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd) | 3:37 | 2022-11-17 |  |
 | [Cerebra](https://open.spotify.com/track/6dFkhKuX87DaF1W27RmIeD) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [One](https://open.spotify.com/album/0smSOxbWaXp2RsCjHTMmQS) | 4:32 | 2022-11-17 |  |
 | [Clear \(Flawed\)](https://open.spotify.com/track/0xsYs6ADG0myf8s6K4Hhpc) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [One](https://open.spotify.com/album/0smSOxbWaXp2RsCjHTMmQS) | 3:12 | 2022-11-17 | 2025-10-06 |
-| [Destroy](https://open.spotify.com/track/1Yv6kBTgSxICjXVQDMZYRA) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Kill Your Own](https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd) | 3:22 | 2024-10-25 |  |
+| [Destroy](https://open.spotify.com/track/1Yv6kBTgSxICjXVQDMZYRA) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Kill Your Own](https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd) | 3:22 | 2024-10-25 | 2025-10-09 |
 | [Dissolve](https://open.spotify.com/track/5iQ0DPeLDn8Dn9HF52kWsE) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Ideas Above Our Station](https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM) | 3:48 | 2022-11-17 |  |
 | [Dissolved \(Live\)](https://open.spotify.com/track/5eW7ulRFGFwmXQpGYDsuS9) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Live at the Lemon Grove](https://open.spotify.com/album/5nykFp8cx7wIad1R4rlFc2) | 3:44 | 2022-11-17 | 2023-01-22 |
 | [Don't Forget](https://open.spotify.com/track/0SVuU8e4VVa4TewIiy2szE) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [What You Get](https://open.spotify.com/album/12mMk1LYNxZ80S7notPNHr) | 3:08 | 2022-11-17 | 2024-10-25 |
@@ -78,6 +78,7 @@
 | [Stalemate](https://open.spotify.com/track/5jpH92KeCAHVFyrmOyuGGw) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick the Word Sharp the Action \(New Version\)](https://open.spotify.com/album/1w1ukla1NGjk1DUDaiQyvX) | 2:33 | 2022-11-17 | 2023-01-22 |
 | [Still Be Here](https://open.spotify.com/track/3Yee35jWZXXB3c2osYsrGI) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Shatterproof Is Not A Challenge](https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah) | 3:48 | 2024-01-07 |  |
 | [Stories With Unhappy Endings](https://open.spotify.com/track/1nR2maqQdyrb7xEpzUyfOL) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Shatterproof Is Not A Challenge](https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah) | 3:48 | 2022-11-17 |  |
+| [The Chance](https://open.spotify.com/track/3YuzzHz8Ogx62Czbqr2GZg) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Kill Your Own](https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd) | 3:32 | 2025-10-09 |  |
 | [The Great Test](https://open.spotify.com/track/29AGJhFoJ0y31oZ49r7J6D) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Shatterproof Is Not A Challenge](https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah) | 1:59 | 2022-11-17 | 2025-09-16 |
 | [The Old School Way](https://open.spotify.com/track/2s03Z86G09dg3K0ogdwcjR) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [The Old School Way](https://open.spotify.com/album/0cpDwmTqLL5iqiSCofJb1d) | 3:31 | 2022-12-17 | 2023-03-07 |
 | [The Old School Way](https://open.spotify.com/track/4PDmSqrIbeSusqWxHzCafh) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [The Old School Way](https://open.spotify.com/album/7e4zPgziPQixuydmHlWAJc) | 3:31 | 2022-12-15 | 2022-12-18 |

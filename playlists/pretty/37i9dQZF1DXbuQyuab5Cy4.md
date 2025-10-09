@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 
 > Scary monsters and filthy drops 🧛🏼🧛🏼
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,282 likes - 85 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,307 likes - 85 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Seyi Vibez. The essential tracks, all in one playlist.",
-  "num_followers": 39114,
+  "num_followers": 39169,
   "original_name": "This Is Seyi Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAAA37KLIfz4QvTnnpAdvNP8C",
+  "snapshot_id": "aORYAAAAAAB1NH/3AutY/LstLJvWJlTb",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vibe Till Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 160982,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/4o9Byedt716sEyVFu1cQjZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hat-Trick",
         "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 156134,
       "name": "Emo (Remix)",
       "url": "https://open.spotify.com/track/1fBzU9kseA8Tmq8rV2R1eC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vibe Till Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 160982,
-      "name": "Dejavu",
-      "url": "https://open.spotify.com/track/4o9Byedt716sEyVFu1cQjZ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-402 songs - 19 hr 23 min
+403 songs - 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Black Light](https://open.spotify.com/track/0xCCENWuCBpUqk2xqsB4tU) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Black Light](https://open.spotify.com/album/24edgUNsqMAL1fUvS04GQ4) | 3:17 | 2022-02-18 | 2023-12-05 |
 | [Blackout](https://open.spotify.com/track/4y4ne3kG3X2BAyWTem6xC1) | [Lewis Bird](https://open.spotify.com/artist/4McPLMM7aYZPv43M5VPXyp) | [Blackout](https://open.spotify.com/album/0QFZRAuhQSJG11e0xFLaqd) | 3:02 | 2024-03-14 |  |
 | [Blissful](https://open.spotify.com/track/3LuRATATl6IEUsDUHxgLYW) | [Neoterikoi](https://open.spotify.com/artist/003GvxsE75RdUGOB36UElA) | [Blissful](https://open.spotify.com/album/2wtdveGHtM82JRmWxzIfsG) | 2:30 | 2024-02-15 |  |
-| [Blue Mind](https://open.spotify.com/track/5MdTWbWwhsfrkvUj6lP4DW) | [Counting Tides](https://open.spotify.com/artist/40ojB8ApYVpcfLDCkoSLDV) | [Blue Mind](https://open.spotify.com/album/06PtEkISyyIb9cWlzQWuO8) | 2:56 | 2022-02-18 |  |
+| [Blue Mind](https://open.spotify.com/track/5MdTWbWwhsfrkvUj6lP4DW) | [Counting Tides](https://open.spotify.com/artist/40ojB8ApYVpcfLDCkoSLDV) | [Blue Mind](https://open.spotify.com/album/06PtEkISyyIb9cWlzQWuO8) | 2:56 | 2022-02-18 | 2025-10-09 |
 | [Body & Soul](https://open.spotify.com/track/2reANGLp6a9iZvh1Q6qIS7) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Body & Soul](https://open.spotify.com/album/57SxIpC8RwW3ztJ3Rn4kIb) | 2:55 | 2022-02-18 | 2022-09-15 |
 | [Bord de L’eau](https://open.spotify.com/track/0g6LbYjAdDmV4YQcnzV4tF) | [Lou D'Audrey](https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl) | [Une Dernière Histoire](https://open.spotify.com/album/7z1hYYM53riIc9GF9PN41P) | 2:38 | 2022-02-18 | 2023-01-28 |
 | [Boundaries](https://open.spotify.com/track/42yvO8wRPOE5STErplCfEV) | [Sheila's Disciples](https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO) | [Boundaries](https://open.spotify.com/album/4nUZ0gFFsQHp6HMu0kNOG4) | 2:27 | 2025-01-29 |  |
@@ -90,6 +90,7 @@
 | [Cloud Jumping](https://open.spotify.com/track/00bauDnMAMynuMfOA9nGiq) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Cloud Jumping](https://open.spotify.com/album/3uNISiwQRief8WXrJt4qXd) | 3:11 | 2025-03-26 |  |
 | [Clouds Over Dusk](https://open.spotify.com/track/0EMCEZmNdhUKu8ELPbgzCL) | [Divine Vibration](https://open.spotify.com/artist/0A4kwgSztRzeUGBrY8jR9c) | [Clouds Over Dusk](https://open.spotify.com/album/4BqUSj7BgnVEV0280n1Rq0) | 2:44 | 2025-09-24 |  |
 | [Cloudy Mountains](https://open.spotify.com/track/5uDs595iEmAkqkNfzGB6cl) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Cloudy Mountains](https://open.spotify.com/album/1VWWZQ49IFtLX1iWWVK1p5) | 2:39 | 2022-02-18 | 2023-04-14 |
+| [Coincide](https://open.spotify.com/track/7nTbKG5FuCTppsmCXY8CKH) | [John Andre](https://open.spotify.com/artist/3D56Nhiz0aTRqx4z0qs9jb) | [Coincide](https://open.spotify.com/album/7zpMjDBmJKnEXXE4WRK383) | 3:01 | 2025-10-08 |  |
 | [Combination](https://open.spotify.com/track/5DfFR4ekcvLaQ7uWbcnHur) | [Awake or Asleep](https://open.spotify.com/artist/3oBTUfwSCOhxSuhdXeN1c4) | [Combination](https://open.spotify.com/album/0u3dUx2M5YTAyub3ozvaxt) | 3:14 | 2024-11-11 |  |
 | [Come Closer](https://open.spotify.com/track/7c6v8ww6DkbOuB02o2x7OP) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [Come Closer](https://open.spotify.com/album/6kWzecmlppwsVpGy30AJ1n) | 2:15 | 2024-04-04 |  |
 | [Companion](https://open.spotify.com/track/1FgtKAO4lPSU7C83CLIOqu) | [Prescient Liquids](https://open.spotify.com/artist/7KoToKBUpived2ez8gxKT1) | [Snow Berries](https://open.spotify.com/album/13nTRdiXmI29GzOv0x0fJs) | 3:19 | 2022-10-14 | 2024-07-27 |

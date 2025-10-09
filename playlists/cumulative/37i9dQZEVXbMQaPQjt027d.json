@@ -2843,6 +2843,24 @@
     },
     {
       "album": {
+        "name": "How Do You Do",
+        "url": "https://open.spotify.com/album/6qqqNQad2EdGjxJon21DxC"
+      },
+      "artists": [
+        {
+          "name": "The Infamous",
+          "url": "https://open.spotify.com/artist/5AhNxN49kLHc9ry5GkMs09"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143624,
+      "name": "How Do You Do",
+      "url": "https://open.spotify.com/track/3BlHcmJ9ii6OCweTceTPOf"
+    },
+    {
+      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
@@ -3526,7 +3544,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 148472,
       "name": "Lang Leve De Liefde",
       "url": "https://open.spotify.com/track/5wyTD9sYdm8c2UDGtqF2LJ"
@@ -6162,7 +6180,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 207033,
       "name": "Unbind",
       "url": "https://open.spotify.com/track/4TvpYr1gFtYxtZ4yn2LVuI"
@@ -6756,7 +6774,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 77142,
       "name": "Where Have You Been - Orchestra Remix",
       "url": "https://open.spotify.com/track/4e6PHrCEwkv6d88ZxaTlzb"

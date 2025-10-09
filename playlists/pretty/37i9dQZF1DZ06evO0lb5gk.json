@@ -1,12 +1,12 @@
 {
   "description": "This is Gojira. The essential tracks, all in one playlist.",
-  "num_followers": 146441,
+  "num_followers": 146455,
   "original_name": "This Is Gojira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAACwymwpZF5ll9ORYzknblGl",
+  "snapshot_id": "aORYAAAAAAAOVnH5Qmki4edu6m1XawUL",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 269533,
       "name": "Stranded",
       "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From Mars to Sirius",
+        "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 464453,
+      "name": "Flying Whales",
+      "url": "https://open.spotify.com/track/5OjCsHeByDYEGxMrb1z8KQ"
     },
     {
       "added_at": null,
@@ -47,22 +63,6 @@
       "duration_ms": 173160,
       "name": "Mea Culpa (Ah! \u00c7a ira!)",
       "url": "https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From Mars to Sirius",
-        "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 464453,
-      "name": "Flying Whales",
-      "url": "https://open.spotify.com/track/5OjCsHeByDYEGxMrb1z8KQ"
     },
     {
       "added_at": null,
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fortitude",
-        "url": "https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 300783,
-      "name": "Amazonia",
-      "url": "https://open.spotify.com/track/1GWtUkDQk7XC35r7kTPfqx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From Mars to Sirius",
         "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 237840,
       "name": "The Heaviest Matter of the Universe",
       "url": "https://open.spotify.com/track/2pZsQqXFgcY03vRyZxSQhU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fortitude",
+        "url": "https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 300783,
+      "name": "Amazonia",
+      "url": "https://open.spotify.com/track/1GWtUkDQk7XC35r7kTPfqx"
     },
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fortitude",
-        "url": "https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 264947,
-      "name": "Another World",
-      "url": "https://open.spotify.com/track/7cRGgrQ9eg8V8A4FsSj020"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Magma",
         "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 342346,
       "name": "The Shooting Star",
       "url": "https://open.spotify.com/track/6HQfFAupOMsmfWV4CbG1Kj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fortitude",
+        "url": "https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 264947,
+      "name": "Another World",
+      "url": "https://open.spotify.com/track/7cRGgrQ9eg8V8A4FsSj020"
     },
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The way of all flesh",
-        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 291626,
-      "name": "Vacuity",
-      "url": "https://open.spotify.com/track/16yvB7exWWUBkZ9fFkLVMI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Magma",
         "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 197906,
       "name": "The Cell",
       "url": "https://open.spotify.com/track/7nCD5l7GrFyt6o1mstCUFr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The way of all flesh",
+        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 291626,
+      "name": "Vacuity",
+      "url": "https://open.spotify.com/track/16yvB7exWWUBkZ9fFkLVMI"
     },
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The way of all flesh",
-        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 594213,
-      "name": "The art of dying",
-      "url": "https://open.spotify.com/track/7iMQChXFK33TS49QWhE4tt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Magma",
         "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
       },
@@ -323,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Our Time Is Now",
-        "url": "https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA"
+        "name": "The way of all flesh",
+        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
       },
       "artists": [
         {
@@ -332,9 +316,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 271417,
-      "name": "Our Time Is Now",
-      "url": "https://open.spotify.com/track/0dDs144SVansAFynvKYQMW"
+      "duration_ms": 594213,
+      "name": "The art of dying",
+      "url": "https://open.spotify.com/track/7iMQChXFK33TS49QWhE4tt"
     },
     {
       "added_at": null,
@@ -355,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The way of all flesh",
-        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
+        "name": "Our Time Is Now",
+        "url": "https://open.spotify.com/album/4tHLRx3g4JwIHlzlz4D7wA"
       },
       "artists": [
         {
@@ -364,9 +348,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 321786,
-      "name": "Oroborus",
-      "url": "https://open.spotify.com/track/6WUNfk8ULz9ZdmC9f315Qp"
+      "duration_ms": 271417,
+      "name": "Our Time Is Now",
+      "url": "https://open.spotify.com/track/0dDs144SVansAFynvKYQMW"
     },
     {
       "added_at": null,
@@ -387,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Mars to Sirius",
-        "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
+        "name": "The way of all flesh",
+        "url": "https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2"
       },
       "artists": [
         {
@@ -396,9 +380,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 332760,
-      "name": "Ocean Planet",
-      "url": "https://open.spotify.com/track/6nSKJWDpiNiLgmdofhgRXw"
+      "duration_ms": 321786,
+      "name": "Oroborus",
+      "url": "https://open.spotify.com/track/6WUNfk8ULz9ZdmC9f315Qp"
     },
     {
       "added_at": null,
@@ -415,6 +399,22 @@
       "duration_ms": 240358,
       "name": "Sphinx",
       "url": "https://open.spotify.com/track/6PhrbFbRW3Cchrv6klsLF5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From Mars to Sirius",
+        "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 332760,
+      "name": "Ocean Planet",
+      "url": "https://open.spotify.com/track/6nSKJWDpiNiLgmdofhgRXw"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Mars to Sirius",
-        "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 144786,
-      "name": "From Mars",
-      "url": "https://open.spotify.com/track/4CJ7iadNL15GuTr7fXMqxr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fortitude",
         "url": "https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 396634,
       "name": "New Found",
       "url": "https://open.spotify.com/track/3Kl4f3sVKb8iwQ8ZffHim6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From Mars to Sirius",
+        "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 144786,
+      "name": "From Mars",
+      "url": "https://open.spotify.com/track/4CJ7iadNL15GuTr7fXMqxr"
     },
     {
       "added_at": null,

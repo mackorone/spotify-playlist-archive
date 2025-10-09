@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 
 > Relax to some gentle percussion from all corners of the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,606 likes - 124 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,809 likes - 124 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 | 123 | [Marari Vibes](https://open.spotify.com/track/7FGXxtTLhPXusdPJox3q8R) | [The Surrealers](https://open.spotify.com/artist/6G9OIA19uLnfd7PNELBJI9) | [Marari Vibes](https://open.spotify.com/album/7El5vb5cGWoy9shvwiZYBT) | 2:57 |
 | 124 | [Orange Crush](https://open.spotify.com/track/6oyq0dO8TRMJlSV1UrUW0o) | [Meh Met](https://open.spotify.com/artist/215AS9kH8CZt63FZwq8hln) | [Elway](https://open.spotify.com/album/02EZpBqivdZyL5feXvH0bg) | 2:42 |
 
-Snapshot ID: `AAAAAMhzWnxQZLzPxaYFutCj/Vd2odbI`
+Snapshot ID: `AAAAAAKgQ6z89VnvtZrQyLmynSz8CjSa`

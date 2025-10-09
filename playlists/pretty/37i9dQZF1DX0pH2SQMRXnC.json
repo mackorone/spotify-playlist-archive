@@ -1,6 +1,6 @@
 {
   "description": "Only the BIGGEST Hardstyle bangers \ud83d\udca5",
-  "num_followers": 1482414,
+  "num_followers": 1482715,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,26 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
+        "name": "Rave Mozart",
+        "url": "https://open.spotify.com/album/2uOKEJY6YVITAumYlV35n8"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Rave Mozart",
+      "url": "https://open.spotify.com/track/2LthmFrSphvy9i4ZbCOvrw"
+    },
+    {
+      "added_at": "2025-10-06 22:00:28",
+      "album": {
         "name": "2002",
         "url": "https://open.spotify.com/album/2TRU6ZD8yXFgBwJbL8VoK5"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 189521,
       "name": "2002",
       "url": "https://open.spotify.com/track/4GlahyzF7G8xJnP7NpQirV"
-    },
-    {
-      "added_at": "2025-10-06 22:00:28",
-      "album": {
-        "name": "Rave Mozart",
-        "url": "https://open.spotify.com/album/2uOKEJY6YVITAumYlV35n8"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Rave Mozart",
-      "url": "https://open.spotify.com/track/2LthmFrSphvy9i4ZbCOvrw"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -843,30 +843,6 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
-        "name": "Come With Me",
-        "url": "https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "Special D.",
-          "url": "https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt"
-        }
-      ],
-      "duration_ms": 161589,
-      "name": "Come With Me",
-      "url": "https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ"
-    },
-    {
-      "added_at": "2025-10-06 22:00:28",
-      "album": {
         "name": "DLMD",
         "url": "https://open.spotify.com/album/5Rc0OTFEFeXDBd2GvMRJkx"
       },
@@ -895,6 +871,30 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
+        "name": "Come With Me",
+        "url": "https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "Special D.",
+          "url": "https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt"
+        }
+      ],
+      "duration_ms": 161589,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ"
+    },
+    {
+      "added_at": "2025-10-06 22:00:28",
+      "album": {
         "name": "GO STUPID",
         "url": "https://open.spotify.com/album/2EKRY3rSfqZQmUfkbVzL5q"
       },
@@ -911,18 +911,26 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
-        "name": "When I'm With You",
-        "url": "https://open.spotify.com/album/1bPwymD7N8R2L4HHRi3N1j"
+        "name": "Now We Are Free",
+        "url": "https://open.spotify.com/album/4l7OptP4yIil0hbZ79XdMB"
       },
       "artists": [
         {
           "name": "Brennan Heart",
           "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Blademasterz",
+          "url": "https://open.spotify.com/artist/10Sg7743IiFPQQIEDSU2sv"
         }
       ],
-      "duration_ms": 233806,
-      "name": "When I'm With You",
-      "url": "https://open.spotify.com/track/5zHbMNKbIZgEoczViZZOaZ"
+      "duration_ms": 190600,
+      "name": "Now We Are Free",
+      "url": "https://open.spotify.com/track/2oIgEdj37KobaBDji7Ulj9"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -1059,26 +1067,18 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
-        "name": "Now We Are Free",
-        "url": "https://open.spotify.com/album/4l7OptP4yIil0hbZ79XdMB"
+        "name": "When I'm With You",
+        "url": "https://open.spotify.com/album/1bPwymD7N8R2L4HHRi3N1j"
       },
       "artists": [
         {
           "name": "Brennan Heart",
           "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Blademasterz",
-          "url": "https://open.spotify.com/artist/10Sg7743IiFPQQIEDSU2sv"
         }
       ],
-      "duration_ms": 190600,
-      "name": "Now We Are Free",
-      "url": "https://open.spotify.com/track/2oIgEdj37KobaBDji7Ulj9"
+      "duration_ms": 233806,
+      "name": "When I'm With You",
+      "url": "https://open.spotify.com/track/5zHbMNKbIZgEoczViZZOaZ"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
+        "name": "Make That Body Move (Warrior Workout 2024 OST)",
+        "url": "https://open.spotify.com/album/1N5W8EOuPiQ3YP351AK7Vh"
+      },
+      "artists": [
+        {
+          "name": "Act of Rage",
+          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
+        }
+      ],
+      "duration_ms": 230709,
+      "name": "Make That Body Move (Warrior Workout 2024 OST)",
+      "url": "https://open.spotify.com/track/1hyUgLAUgCrgQE1MyvYYFP"
+    },
+    {
+      "added_at": "2025-10-06 22:00:28",
+      "album": {
         "name": "Gemini",
         "url": "https://open.spotify.com/album/0Goq9xAACLk1g7OkyjQt5S"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 150400,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/16ji1BU5uDmBUgZoWS4SpU"
-    },
-    {
-      "added_at": "2025-10-06 22:00:28",
-      "album": {
-        "name": "Make That Body Move (Warrior Workout 2024 OST)",
-        "url": "https://open.spotify.com/album/1N5W8EOuPiQ3YP351AK7Vh"
-      },
-      "artists": [
-        {
-          "name": "Act of Rage",
-          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
-        }
-      ],
-      "duration_ms": 230709,
-      "name": "Make That Body Move (Warrior Workout 2024 OST)",
-      "url": "https://open.spotify.com/track/1hyUgLAUgCrgQE1MyvYYFP"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -1511,6 +1511,26 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
+        "name": "DON'T FKN NEED U",
+        "url": "https://open.spotify.com/album/3VV8mpVVBkTEcn1JO76nUL"
+      },
+      "artists": [
+        {
+          "name": "TOZA",
+          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
+        },
+        {
+          "name": "Stratisphere",
+          "url": "https://open.spotify.com/artist/1LfbVm2aPZrE45sBGO34MO"
+        }
+      ],
+      "duration_ms": 190527,
+      "name": "DON'T FKN NEED U",
+      "url": "https://open.spotify.com/track/52C8aF588mf11VBsSnCdsy"
+    },
+    {
+      "added_at": "2025-10-06 22:00:28",
+      "album": {
         "name": "Capital Of Crazy (Official Intents Festival 2025 Anthem)",
         "url": "https://open.spotify.com/album/5abtA8gzrX9kfGRT6GGEMh"
       },
@@ -1531,26 +1551,6 @@
       "duration_ms": 245401,
       "name": "Capital Of Crazy - Official Intents Festival 2025 Anthem",
       "url": "https://open.spotify.com/track/359u0bxaE927xVFHOfRip9"
-    },
-    {
-      "added_at": "2025-10-06 22:00:28",
-      "album": {
-        "name": "DON'T FKN NEED U",
-        "url": "https://open.spotify.com/album/3VV8mpVVBkTEcn1JO76nUL"
-      },
-      "artists": [
-        {
-          "name": "TOZA",
-          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
-        },
-        {
-          "name": "Stratisphere",
-          "url": "https://open.spotify.com/artist/1LfbVm2aPZrE45sBGO34MO"
-        }
-      ],
-      "duration_ms": 190527,
-      "name": "DON'T FKN NEED U",
-      "url": "https://open.spotify.com/track/52C8aF588mf11VBsSnCdsy"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
+        "name": "Kiss Kiss Bang",
+        "url": "https://open.spotify.com/album/3WdMedDrbNcQKShxzhfK29"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 154639,
+      "name": "Kiss Kiss Bang",
+      "url": "https://open.spotify.com/track/17De5987piqgYQbQdmBghP"
+    },
+    {
+      "added_at": "2025-10-06 22:00:28",
+      "album": {
         "name": "LEFT - RIGHT",
         "url": "https://open.spotify.com/album/2KuBha46EYztx0QqF9kkFh"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 97680,
       "name": "LEFT - RIGHT",
       "url": "https://open.spotify.com/track/7A6qpT1m23WtVYlS57G4Ew"
-    },
-    {
-      "added_at": "2025-10-06 22:00:28",
-      "album": {
-        "name": "Kiss Kiss Bang",
-        "url": "https://open.spotify.com/album/3WdMedDrbNcQKShxzhfK29"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 154639,
-      "name": "Kiss Kiss Bang",
-      "url": "https://open.spotify.com/track/17De5987piqgYQbQdmBghP"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
-        "name": "Say My Name",
-        "url": "https://open.spotify.com/album/4dqHl8fKO6P425shFTdXQP"
-      },
-      "artists": [
-        {
-          "name": "The Saints",
-          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
-        }
-      ],
-      "duration_ms": 120937,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/0eJcHvpws3PMadlPdvdWMN"
-    },
-    {
-      "added_at": "2025-10-06 22:00:28",
-      "album": {
         "name": "Somebody That I Used To Know",
         "url": "https://open.spotify.com/album/73FFBX8d81xHVNwAINwfoy"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 242345,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/5YPl1zxprbE2ZaHQqxJ5wZ"
+    },
+    {
+      "added_at": "2025-10-06 22:00:28",
+      "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/4dqHl8fKO6P425shFTdXQP"
+      },
+      "artists": [
+        {
+          "name": "The Saints",
+          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
+        }
+      ],
+      "duration_ms": 120937,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/0eJcHvpws3PMadlPdvdWMN"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -1923,26 +1923,6 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/6dMqEElnU2Wvs51782cVoA"
-      },
-      "artists": [
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "D-Sturb",
-          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
-        }
-      ],
-      "duration_ms": 211317,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/0HJ2kATf1sI79sLu4FNxd2"
-    },
-    {
-      "added_at": "2025-10-06 22:00:28",
-      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/70dQ4XawX4AHYr2qHLNGnY"
       },
@@ -1959,6 +1939,26 @@
       "duration_ms": 223213,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/50cHsbjIjPC8CGKkfaDKSJ"
+    },
+    {
+      "added_at": "2025-10-06 22:00:28",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/6dMqEElnU2Wvs51782cVoA"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        }
+      ],
+      "duration_ms": 211317,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/0HJ2kATf1sI79sLu4FNxd2"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -2167,26 +2167,6 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
-        "name": "Cambodia",
-        "url": "https://open.spotify.com/album/61luiakkDLCHhVZPFq50CT"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Vorwerk",
-          "url": "https://open.spotify.com/artist/0JiAaia66Exx0UcsxD4TiC"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "Cambodia",
-      "url": "https://open.spotify.com/track/4la0X6BxxFkKI7lFFMx4s4"
-    },
-    {
-      "added_at": "2025-10-06 22:00:28",
-      "album": {
         "name": "Bitter Sweet Symphony (Hardstyle Mix)",
         "url": "https://open.spotify.com/album/7D51Z16qsQhOVhfEWubBqF"
       },
@@ -2207,22 +2187,22 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
-        "name": "2 Be High",
-        "url": "https://open.spotify.com/album/3pOAMb992z14oz7MCjvm1M"
+        "name": "Cambodia",
+        "url": "https://open.spotify.com/album/61luiakkDLCHhVZPFq50CT"
       },
       "artists": [
         {
-          "name": "Nico Moreno",
-          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         },
         {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+          "name": "Vorwerk",
+          "url": "https://open.spotify.com/artist/0JiAaia66Exx0UcsxD4TiC"
         }
       ],
-      "duration_ms": 253714,
-      "name": "2 Be High",
-      "url": "https://open.spotify.com/track/3uJu9affvKImT1msXqFwTj"
+      "duration_ms": 166874,
+      "name": "Cambodia",
+      "url": "https://open.spotify.com/track/4la0X6BxxFkKI7lFFMx4s4"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -2239,6 +2219,26 @@
       "duration_ms": 188885,
       "name": "LASER",
       "url": "https://open.spotify.com/track/6DjCL0BcCrOWGh2538hhVg"
+    },
+    {
+      "added_at": "2025-10-06 22:00:28",
+      "album": {
+        "name": "2 Be High",
+        "url": "https://open.spotify.com/album/3pOAMb992z14oz7MCjvm1M"
+      },
+      "artists": [
+        {
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+        },
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "2 Be High",
+      "url": "https://open.spotify.com/track/3uJu9affvKImT1msXqFwTj"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
-        "name": "I LIKE THE NOISE VOL.1",
-        "url": "https://open.spotify.com/album/3j3lPxENilPQcgkIkqyJqe"
-      },
-      "artists": [
-        {
-          "name": "Sickmode",
-          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER",
-      "url": "https://open.spotify.com/track/2rGWPDScp9GUDgmSamnxWh"
-    },
-    {
-      "added_at": "2025-10-06 22:00:28",
-      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/4gObEv4tTskEaxHdmwbS13"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 189000,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/3y1Y5AFYiQP3ipHGuEqr3t"
+    },
+    {
+      "added_at": "2025-10-06 22:00:28",
+      "album": {
+        "name": "I LIKE THE NOISE VOL.1",
+        "url": "https://open.spotify.com/album/3j3lPxENilPQcgkIkqyJqe"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER",
+      "url": "https://open.spotify.com/track/2rGWPDScp9GUDgmSamnxWh"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -2395,8 +2395,8 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
-        "name": "Like A Ghost",
-        "url": "https://open.spotify.com/album/3uYwZ5JZzWSMnsmpJ1LQEr"
+        "name": "KICKS",
+        "url": "https://open.spotify.com/album/5iXeEJIBV7aYpF3W8HQMgP"
       },
       "artists": [
         {
@@ -2404,13 +2404,13 @@
           "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
         },
         {
-          "name": "Lady Faith",
-          "url": "https://open.spotify.com/artist/1va2Hj3SvWvu3L6jAN6k01"
+          "name": "MANDY",
+          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
         }
       ],
-      "duration_ms": 225750,
-      "name": "Like A Ghost",
-      "url": "https://open.spotify.com/track/0MveIhSClzKdeS9dGadnlI"
+      "duration_ms": 147375,
+      "name": "KICKS",
+      "url": "https://open.spotify.com/track/6HcakYUdMutjzfnAS0QX1q"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -2531,26 +2531,6 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
-        "name": "DIGITAL DAMAGE",
-        "url": "https://open.spotify.com/album/2WytoRDeMeh1HdqN0Ia4Gq"
-      },
-      "artists": [
-        {
-          "name": "DEEZL",
-          "url": "https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L"
-        },
-        {
-          "name": "Dual Damage",
-          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
-        }
-      ],
-      "duration_ms": 178878,
-      "name": "DIGITAL DAMAGE",
-      "url": "https://open.spotify.com/track/0zw8otx8OWYoLCUnIjaOXn"
-    },
-    {
-      "added_at": "2025-10-06 22:00:28",
-      "album": {
         "name": "In Hardstyle We Trust (Melody Mix)",
         "url": "https://open.spotify.com/album/0cUZwW0wPp3HDebw6fZosP"
       },
@@ -2567,6 +2547,26 @@
       "duration_ms": 235009,
       "name": "In Hardstyle We Trust - Melody Mix",
       "url": "https://open.spotify.com/track/694DLdlWtk26a6pyaf1vMi"
+    },
+    {
+      "added_at": "2025-10-06 22:00:28",
+      "album": {
+        "name": "DIGITAL DAMAGE",
+        "url": "https://open.spotify.com/album/2WytoRDeMeh1HdqN0Ia4Gq"
+      },
+      "artists": [
+        {
+          "name": "DEEZL",
+          "url": "https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L"
+        },
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        }
+      ],
+      "duration_ms": 178878,
+      "name": "DIGITAL DAMAGE",
+      "url": "https://open.spotify.com/track/0zw8otx8OWYoLCUnIjaOXn"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -2595,8 +2595,8 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
-        "name": "KICKS",
-        "url": "https://open.spotify.com/album/5iXeEJIBV7aYpF3W8HQMgP"
+        "name": "Like A Ghost",
+        "url": "https://open.spotify.com/album/3uYwZ5JZzWSMnsmpJ1LQEr"
       },
       "artists": [
         {
@@ -2604,13 +2604,13 @@
           "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
         },
         {
-          "name": "MANDY",
-          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
+          "name": "Lady Faith",
+          "url": "https://open.spotify.com/artist/1va2Hj3SvWvu3L6jAN6k01"
         }
       ],
-      "duration_ms": 147375,
-      "name": "KICKS",
-      "url": "https://open.spotify.com/track/6HcakYUdMutjzfnAS0QX1q"
+      "duration_ms": 225750,
+      "name": "Like A Ghost",
+      "url": "https://open.spotify.com/track/0MveIhSClzKdeS9dGadnlI"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -2671,26 +2671,6 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
-        "name": "Country Roads",
-        "url": "https://open.spotify.com/album/5sK3HgYCoqsTENWpG32hZV"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "3 Are Legend",
-          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Country Roads",
-      "url": "https://open.spotify.com/track/1ymdX49SbJzb9DH1YAH8W7"
-    },
-    {
-      "added_at": "2025-10-06 22:00:28",
-      "album": {
         "name": "Euphoria (Hardstyle Edit)",
         "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
       },
@@ -2723,18 +2703,22 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/494YGoOA14ie9mM7RnDgR6"
+        "name": "Country Roads",
+        "url": "https://open.spotify.com/album/5sK3HgYCoqsTENWpG32hZV"
       },
       "artists": [
         {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "3 Are Legend",
+          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
         }
       ],
-      "duration_ms": 203391,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/5k0I0O8eom23uHoVCNB2eG"
+      "duration_ms": 190500,
+      "name": "Country Roads",
+      "url": "https://open.spotify.com/track/1ymdX49SbJzb9DH1YAH8W7"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -2755,6 +2739,22 @@
       "duration_ms": 222631,
       "name": "Broken Dreams",
       "url": "https://open.spotify.com/track/08eoEMJAcewxsEGvole0gx"
+    },
+    {
+      "added_at": "2025-10-06 22:00:28",
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/494YGoOA14ie9mM7RnDgR6"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "duration_ms": 203391,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/5k0I0O8eom23uHoVCNB2eG"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -2791,6 +2791,30 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
+        "name": "Oh Fortuna",
+        "url": "https://open.spotify.com/album/65JHmOAmfng9D1jKIcwza0"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "SMVGGLERS",
+          "url": "https://open.spotify.com/artist/05TBQxRfomIdi2xJWLgQoM"
+        },
+        {
+          "name": "Henrique Camacho",
+          "url": "https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6"
+        }
+      ],
+      "duration_ms": 170117,
+      "name": "Oh Fortuna - Carmina Burana",
+      "url": "https://open.spotify.com/track/1EvtCODhDxZAg8xqe5cqev"
+    },
+    {
+      "added_at": "2025-10-06 22:00:28",
+      "album": {
         "name": "Embrace The Madness",
         "url": "https://open.spotify.com/album/7xg3KTzOiLsDv994OopLEz"
       },
@@ -2803,26 +2827,6 @@
       "duration_ms": 174000,
       "name": "Embrace The Madness",
       "url": "https://open.spotify.com/track/5OeI4NJFcLOWKrhIrFWuo4"
-    },
-    {
-      "added_at": "2025-10-06 22:00:28",
-      "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/62ES2BliQ2zIPbEJxLJ7m4"
-      },
-      "artists": [
-        {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
-        },
-        {
-          "name": "NLCK",
-          "url": "https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL"
-        }
-      ],
-      "duration_ms": 182015,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/1KtCYs1x2zZB0QXiSY6IN3"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -2851,26 +2855,58 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
-        "name": "Oh Fortuna",
-        "url": "https://open.spotify.com/album/65JHmOAmfng9D1jKIcwza0"
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/6LcFBmnsk9wGrd2sT4SQao"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "SMVGGLERS",
-          "url": "https://open.spotify.com/artist/05TBQxRfomIdi2xJWLgQoM"
-        },
-        {
-          "name": "Henrique Camacho",
-          "url": "https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6"
+          "name": "Act of Rage",
+          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
         }
       ],
-      "duration_ms": 170117,
-      "name": "Oh Fortuna - Carmina Burana",
-      "url": "https://open.spotify.com/track/1EvtCODhDxZAg8xqe5cqev"
+      "duration_ms": 246000,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/2OGXiM79qJ0ucZ57SArp0S"
+    },
+    {
+      "added_at": "2025-10-06 22:00:28",
+      "album": {
+        "name": "New Beginning",
+        "url": "https://open.spotify.com/album/0AbqHKp7II87GJzFz6ULk5"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Diandra Faye",
+          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
+        }
+      ],
+      "duration_ms": 201578,
+      "name": "New Beginning",
+      "url": "https://open.spotify.com/track/7wyIElZrbbRYejRmRAoHn4"
+    },
+    {
+      "added_at": "2025-10-06 22:00:28",
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/62ES2BliQ2zIPbEJxLJ7m4"
+      },
+      "artists": [
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        },
+        {
+          "name": "NLCK",
+          "url": "https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL"
+        }
+      ],
+      "duration_ms": 182015,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/1KtCYs1x2zZB0QXiSY6IN3"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -2899,38 +2935,18 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
-        "name": "New Beginning",
-        "url": "https://open.spotify.com/album/0AbqHKp7II87GJzFz6ULk5"
+        "name": "The Alarm",
+        "url": "https://open.spotify.com/album/0s66Adp95hZ64QV1lAqGHC"
       },
       "artists": [
         {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "Diandra Faye",
-          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
+          "name": "The Saints",
+          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
         }
       ],
-      "duration_ms": 201578,
-      "name": "New Beginning",
-      "url": "https://open.spotify.com/track/7wyIElZrbbRYejRmRAoHn4"
-    },
-    {
-      "added_at": "2025-10-06 22:00:28",
-      "album": {
-        "name": "Kamikaze",
-        "url": "https://open.spotify.com/album/6LcFBmnsk9wGrd2sT4SQao"
-      },
-      "artists": [
-        {
-          "name": "Act of Rage",
-          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Kamikaze",
-      "url": "https://open.spotify.com/track/2OGXiM79qJ0ucZ57SArp0S"
+      "duration_ms": 193500,
+      "name": "The Alarm",
+      "url": "https://open.spotify.com/track/6E3v5kpDkUttY5eLWXXfCF"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -2951,22 +2967,6 @@
       "duration_ms": 166988,
       "name": "HEAR THE NOISE",
       "url": "https://open.spotify.com/track/2CDVqCda38968ZRoo4LO3Z"
-    },
-    {
-      "added_at": "2025-10-06 22:00:28",
-      "album": {
-        "name": "The Alarm",
-        "url": "https://open.spotify.com/album/0s66Adp95hZ64QV1lAqGHC"
-      },
-      "artists": [
-        {
-          "name": "The Saints",
-          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "The Alarm",
-      "url": "https://open.spotify.com/track/6E3v5kpDkUttY5eLWXXfCF"
     },
     {
       "added_at": "2025-10-06 22:00:28",
@@ -3007,22 +3007,30 @@
     {
       "added_at": "2025-10-06 22:00:28",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/6nbQRswXW5OFHFZFw8y1YZ"
+        "name": "Ik Ga Harder (feat. Jayh)",
+        "url": "https://open.spotify.com/album/6IsvaafTSWnfBgOVkplYiX"
       },
       "artists": [
         {
-          "name": "Jerome",
-          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+          "name": "The Partysquad",
+          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
         },
         {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Dutch Movement",
+          "url": "https://open.spotify.com/artist/5fnGunxiUsH78nYIEAHBiO"
+        },
+        {
+          "name": "Jayh",
+          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
         }
       ],
-      "duration_ms": 167294,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/5tlmO0EqsLwqS2CGxVVjEe"
+      "duration_ms": 142451,
+      "name": "Ik Ga Harder (feat. Jayh)",
+      "url": "https://open.spotify.com/track/4PN7bjVOqDqztpBkfIXdOK"
     }
   ],
   "unique_name": "Hardstyle Bangers",

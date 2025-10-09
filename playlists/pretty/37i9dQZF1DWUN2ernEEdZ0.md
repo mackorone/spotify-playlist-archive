@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN2ernEEdZ0.md) - [plain]
 
 > Introducing the hottest new classical music of 2025🔥<br/>Cover: Aimi Kobayashi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,669 likes - 200 songs - 13 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,740 likes - 200 songs - 13 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

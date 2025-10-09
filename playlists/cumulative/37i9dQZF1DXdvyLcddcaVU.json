@@ -3684,7 +3684,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 224360,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/6ra0162M1vgBI3Ams3r2SK"
@@ -14087,6 +14087,24 @@
     },
     {
       "album": {
+        "name": "ROXANNE",
+        "url": "https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90"
+      },
+      "artists": [
+        {
+          "name": "Arizona Zervas",
+          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "ROXANNE",
+      "url": "https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK"
+    },
+    {
+      "album": {
         "name": "RUINART",
         "url": "https://open.spotify.com/album/6DDz77QqTYGIWIj9g4fUN1"
       },
@@ -15242,7 +15260,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 168204,
       "name": "SONGI SONGI",
       "url": "https://open.spotify.com/track/2FaguN0RwC7KiTHiUuaO2y"
@@ -16490,6 +16508,28 @@
       "duration_ms": 167226,
       "name": "Tout y est",
       "url": "https://open.spotify.com/track/1W2zRAejDGNLqtqXpcrhVw"
+    },
+    {
+      "album": {
+        "name": "Toute la nuit",
+        "url": "https://open.spotify.com/album/0GNUPfnVUIn0Pbm3KLB8NS"
+      },
+      "artists": [
+        {
+          "name": "GP Explorer",
+          "url": "https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O"
+        },
+        {
+          "name": "Anyme023",
+          "url": "https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198693,
+      "name": "Toute la nuit",
+      "url": "https://open.spotify.com/track/4kzHds1mgNB0kuCLHeOGiV"
     },
     {
       "album": {

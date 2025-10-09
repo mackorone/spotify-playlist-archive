@@ -5397,6 +5397,24 @@
     },
     {
       "album": {
+        "name": "\u00d6mr\u00fcm Senindir",
+        "url": "https://open.spotify.com/album/69B5odbEJMLqOxdSZhvrZc"
+      },
+      "artists": [
+        {
+          "name": "\u0130ntizar",
+          "url": "https://open.spotify.com/artist/3mv52kRne0G5Las6jClwj0"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253120,
+      "name": "B\u00fcy\u00fck \u0130nsan",
+      "url": "https://open.spotify.com/track/5wImzSCz8puf7BY82SXCiF"
+    },
+    {
+      "album": {
         "name": "B\u0131rakma Kendini",
         "url": "https://open.spotify.com/album/2kj7ndfLwEJgeNFn9kL3jP"
       },
@@ -9342,7 +9360,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 186562,
       "name": "GELME \u0130STEMEM",
       "url": "https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X"
@@ -10716,7 +10734,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 117446,
       "name": "HA\u0130NS\u0130N",
       "url": "https://open.spotify.com/track/7BIWqwuOJMKQN2GCjXQ7Fh"
@@ -11550,7 +11568,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-06",
+      "date_removed": null,
       "duration_ms": 276626,
       "name": "Her \u015fey Sensin",
       "url": "https://open.spotify.com/track/406NzjjqZlOiFyIvhTGcAQ"
@@ -14246,7 +14264,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 201032,
       "name": "Kendine D\u00fcnya",
       "url": "https://open.spotify.com/track/5eGbBcz7DKfV0uIl7jX8Dr"
@@ -14644,6 +14662,24 @@
       "duration_ms": 256060,
       "name": "Korkma Kalbim",
       "url": "https://open.spotify.com/track/5hdoDcWAZ4Ov6cntAR5MKN"
+    },
+    {
+      "album": {
+        "name": "Koy",
+        "url": "https://open.spotify.com/album/4VIFtQNyVrLJIayxICQTEk"
+      },
+      "artists": [
+        {
+          "name": "Salman Tin",
+          "url": "https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "Koy",
+      "url": "https://open.spotify.com/track/5Uz3PqGIxuc1hCJuYKUjp2"
     },
     {
       "album": {
@@ -18654,7 +18690,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 133472,
       "name": "PEK\u0130 PEK\u0130",
       "url": "https://open.spotify.com/track/5qzoVhaHblEfeVtBwrTIap"
@@ -24026,7 +24062,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 151512,
       "name": "YANKI X \u0130NT\u0130HAR",
       "url": "https://open.spotify.com/track/0E1hVdXGZu0MoE77bYyjie"

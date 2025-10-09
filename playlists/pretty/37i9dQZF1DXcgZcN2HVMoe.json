@@ -1,6 +1,6 @@
 {
   "description": "Grab your coffee and ease into the day with this light blend.",
-  "num_followers": 385580,
+  "num_followers": 385659,
   "original_name": "Morning Coffee",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "This Too Shall Last",
-      "url": "https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Waiting on a Song",
         "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 176026,
       "name": "Never in My Wildest Dreams",
       "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "This Too Shall Last",
+      "url": "https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -895,6 +895,26 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
+        "name": "I Lied",
+        "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        },
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 234383,
+      "name": "I Lied (with Allison Ponthier)",
+      "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
         "name": "If Ever",
         "url": "https://open.spotify.com/album/0hWhMuCu6vFSHTJNH3BqqC"
       },
@@ -919,26 +939,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "I Lied",
-        "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        },
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 234383,
-      "name": "I Lied (with Allison Ponthier)",
-      "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Slow Hands (Acoustic)",
         "url": "https://open.spotify.com/album/24cFn5N2pwiU2WZQcfSUIp"
       },
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "blue jean",
-        "url": "https://open.spotify.com/album/7LE4h29Y0CQDbrxIpAUIfR"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 276611,
-      "name": "blue jean",
-      "url": "https://open.spotify.com/track/5UfP6kSzcJE9kFJlBEHU2o"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "cardigan (cabin in candlelight version)",
         "url": "https://open.spotify.com/album/3kqqalY92DENp7FiztDOjH"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 228000,
       "name": "cardigan - cabin in candlelight version",
       "url": "https://open.spotify.com/track/2hmafYGj1CXYKIYcMnX4lj"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "blue jean",
+        "url": "https://open.spotify.com/album/7LE4h29Y0CQDbrxIpAUIfR"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 276611,
+      "name": "blue jean",
+      "url": "https://open.spotify.com/track/5UfP6kSzcJE9kFJlBEHU2o"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Sunshine In The Room",
-        "url": "https://open.spotify.com/album/5kcPJTW5E80SQpWDsorrYW"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        },
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 182955,
-      "name": "Sunshine In The Room (feat. Jon Batiste)",
-      "url": "https://open.spotify.com/track/2cbRRdFAhoDnBGQgJ7NGws"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 265652,
       "name": "Every Time You Go Away",
       "url": "https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Sunshine In The Room",
+        "url": "https://open.spotify.com/album/5kcPJTW5E80SQpWDsorrYW"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        },
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 182955,
+      "name": "Sunshine In The Room (feat. Jon Batiste)",
+      "url": "https://open.spotify.com/track/2cbRRdFAhoDnBGQgJ7NGws"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 307534,
-      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "In Your Eyes",
         "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Can't See Straight (Acoustic)",
-        "url": "https://open.spotify.com/album/0FeiXtVLwH2i5Bes9MKeWj"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
       },
       "artists": [
         {
-          "name": "Jamie Lawson",
-          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
         }
       ],
-      "duration_ms": 188057,
-      "name": "Can't See Straight - Acoustic",
-      "url": "https://open.spotify.com/track/68xnGmup4wL7Ie4vhy5SOs"
+      "duration_ms": 307534,
+      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -1351,6 +1335,22 @@
       "duration_ms": 242644,
       "name": "My Ego Dies At The End",
       "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Can't See Straight (Acoustic)",
+        "url": "https://open.spotify.com/album/0FeiXtVLwH2i5Bes9MKeWj"
+      },
+      "artists": [
+        {
+          "name": "Jamie Lawson",
+          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
+        }
+      ],
+      "duration_ms": 188057,
+      "name": "Can't See Straight - Acoustic",
+      "url": "https://open.spotify.com/track/68xnGmup4wL7Ie4vhy5SOs"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
+        "name": "Quick Hands",
+        "url": "https://open.spotify.com/album/0CDO8xzg9Ke3k9og3g8BYq"
+      },
+      "artists": [
+        {
+          "name": "Woodlock",
+          "url": "https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa"
+        }
+      ],
+      "duration_ms": 203466,
+      "name": "Quick Hands",
+      "url": "https://open.spotify.com/track/6HCf9COkucXMcnqxJ1hfP0"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
         "name": "Turning Onto You (HNNY Remix)",
         "url": "https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 234240,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
-        "name": "Quick Hands",
-        "url": "https://open.spotify.com/album/0CDO8xzg9Ke3k9og3g8BYq"
-      },
-      "artists": [
-        {
-          "name": "Woodlock",
-          "url": "https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa"
-        }
-      ],
-      "duration_ms": 203466,
-      "name": "Quick Hands",
-      "url": "https://open.spotify.com/track/6HCf9COkucXMcnqxJ1hfP0"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Don't Fade",
-        "url": "https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 190252,
-      "name": "Don't Fade - Single Version",
-      "url": "https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Every Shade of Blue",
         "url": "https://open.spotify.com/album/3MS8HC8JyaMQWZeDrh8heB"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 213293,
       "name": "Every Shade of Blue",
       "url": "https://open.spotify.com/track/57z9G8G9978wYqpdnO8dW8"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Don't Fade",
+        "url": "https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 190252,
+      "name": "Don't Fade - Single Version",
+      "url": "https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/3MIjWNHQ3UcbwtJorLNeJU"
-      },
-      "artists": [
-        {
-          "name": "George Taylor",
-          "url": "https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5"
-        }
-      ],
-      "duration_ms": 262853,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/1qRjGm49sjk0NntgZMdDzn"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Doomsday",
         "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 189506,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/3MIjWNHQ3UcbwtJorLNeJU"
+      },
+      "artists": [
+        {
+          "name": "George Taylor",
+          "url": "https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5"
+        }
+      ],
+      "duration_ms": 262853,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/1qRjGm49sjk0NntgZMdDzn"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -2135,6 +2135,22 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
+        "name": "Keeping The Light On",
+        "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 223628,
+      "name": "Keeping The Light On",
+      "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
         "name": "Heartbreak Hits",
         "url": "https://open.spotify.com/album/04QktcTXcS9qQTp7Q22Z3I"
       },
@@ -2163,22 +2179,6 @@
       "duration_ms": 226957,
       "name": "Rhythm Inside - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
-        "name": "Keeping The Light On",
-        "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 223628,
-      "name": "Keeping The Light On",
-      "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/1F4rsdXzl1jda8iHIkXU8w"
-      },
-      "artists": [
-        {
-          "name": "Ryan Montbleau",
-          "url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc"
-        }
-      ],
-      "duration_ms": 304880,
-      "name": "I Don't Want to Go",
-      "url": "https://open.spotify.com/track/6v72fV6Nao5E4MOoQ8ZvzD"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "The Wire",
         "url": "https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc"
       },
@@ -2367,6 +2351,38 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/1F4rsdXzl1jda8iHIkXU8w"
+      },
+      "artists": [
+        {
+          "name": "Ryan Montbleau",
+          "url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc"
+        }
+      ],
+      "duration_ms": 304880,
+      "name": "I Don't Want to Go",
+      "url": "https://open.spotify.com/track/6v72fV6Nao5E4MOoQ8ZvzD"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Queen of Silver Linings",
+        "url": "https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS"
+      },
+      "artists": [
+        {
+          "name": "Amy Allen",
+          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
+        }
+      ],
+      "duration_ms": 212964,
+      "name": "Queen of Silver Linings",
+      "url": "https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
         "name": "TFDI",
         "url": "https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh"
       },
@@ -2403,18 +2419,18 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Queen of Silver Linings",
-        "url": "https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS"
+        "name": "Summer Somewhere",
+        "url": "https://open.spotify.com/album/7tFFrfykBAkvVW4VX638U3"
       },
       "artists": [
         {
-          "name": "Amy Allen",
-          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
         }
       ],
-      "duration_ms": 212964,
-      "name": "Queen of Silver Linings",
-      "url": "https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat"
+      "duration_ms": 183413,
+      "name": "Summer Somewhere",
+      "url": "https://open.spotify.com/track/0O6t5iea0DrY9mDmohS94t"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -2431,22 +2447,6 @@
       "duration_ms": 215903,
       "name": "Glitter",
       "url": "https://open.spotify.com/track/2B3kOESoYsMNFr8LxijuIc"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
-        "name": "Summer Somewhere",
-        "url": "https://open.spotify.com/album/7tFFrfykBAkvVW4VX638U3"
-      },
-      "artists": [
-        {
-          "name": "Luke Sital-Singh",
-          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
-        }
-      ],
-      "duration_ms": 183413,
-      "name": "Summer Somewhere",
-      "url": "https://open.spotify.com/track/0O6t5iea0DrY9mDmohS94t"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -2499,22 +2499,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Yours in the Morning",
-        "url": "https://open.spotify.com/album/02xpqau9cUbcYGk6chdNO5"
-      },
-      "artists": [
-        {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
-        }
-      ],
-      "duration_ms": 214919,
-      "name": "Yours in the Morning",
-      "url": "https://open.spotify.com/track/602rw0d0jQLoSCAfqdeY7Z"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "All Around You",
         "url": "https://open.spotify.com/album/1N2018a6LgCjSaZbuyTzSR"
       },
@@ -2527,6 +2511,22 @@
       "duration_ms": 193791,
       "name": "All Around You",
       "url": "https://open.spotify.com/track/5S1kM0JFOhktFalTjOZH0L"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Yours in the Morning",
+        "url": "https://open.spotify.com/album/02xpqau9cUbcYGk6chdNO5"
+      },
+      "artists": [
+        {
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+        }
+      ],
+      "duration_ms": 214919,
+      "name": "Yours in the Morning",
+      "url": "https://open.spotify.com/track/602rw0d0jQLoSCAfqdeY7Z"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -2659,6 +2659,22 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
+        "name": "Say I Love You",
+        "url": "https://open.spotify.com/album/52bFxlr4uEKLIIfOagpyHx"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 245180,
+      "name": "Say I Love You",
+      "url": "https://open.spotify.com/track/78CV9sLbLTKoneJXDW3q8u"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
         "name": "Bali",
         "url": "https://open.spotify.com/album/4xP7076aGQHLA8hA8PZM3W"
       },
@@ -2679,18 +2695,18 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Say I Love You",
-        "url": "https://open.spotify.com/album/52bFxlr4uEKLIIfOagpyHx"
+        "name": "LEMONS",
+        "url": "https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX"
       },
       "artists": [
         {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+          "name": "Nick Leng",
+          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
         }
       ],
-      "duration_ms": 245180,
-      "name": "Say I Love You",
-      "url": "https://open.spotify.com/track/78CV9sLbLTKoneJXDW3q8u"
+      "duration_ms": 239213,
+      "name": "Walking Home to You",
+      "url": "https://open.spotify.com/track/4FdeSDY5xmZgZg4MyBLleO"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -2711,22 +2727,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "LEMONS",
-        "url": "https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX"
-      },
-      "artists": [
-        {
-          "name": "Nick Leng",
-          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
-        }
-      ],
-      "duration_ms": 239213,
-      "name": "Walking Home to You",
-      "url": "https://open.spotify.com/track/4FdeSDY5xmZgZg4MyBLleO"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Falling in Love",
         "url": "https://open.spotify.com/album/5UcEl0EyV0MfNJsJAQLKru"
       },
@@ -2739,6 +2739,22 @@
       "duration_ms": 204549,
       "name": "Falling in Love",
       "url": "https://open.spotify.com/track/2VQ86zc6pRjhvZFCs3QGKP"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Silver Deliverer",
+        "url": "https://open.spotify.com/album/5uLwNwP8hIrIUJNFHCNOiS"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "duration_ms": 340402,
+      "name": "Lasso",
+      "url": "https://open.spotify.com/track/7q5qLkQPSTOcPEJDfyTbQR"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -2759,18 +2775,18 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Silver Deliverer",
-        "url": "https://open.spotify.com/album/5uLwNwP8hIrIUJNFHCNOiS"
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/3E9bLoDvWxhJiBQ7Y71Asn"
       },
       "artists": [
         {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
         }
       ],
-      "duration_ms": 340402,
-      "name": "Lasso",
-      "url": "https://open.spotify.com/track/7q5qLkQPSTOcPEJDfyTbQR"
+      "duration_ms": 193972,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/5ctQUn7CnXhw5IN3ipcPUt"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -2811,22 +2827,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Last Time",
-        "url": "https://open.spotify.com/album/3E9bLoDvWxhJiBQ7Y71Asn"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 193972,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/5ctQUn7CnXhw5IN3ipcPUt"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Love Is Tall",
         "url": "https://open.spotify.com/album/7vXTmI0oKrlEZzxW8UJ6Kp"
       },
@@ -2839,22 +2839,6 @@
       "duration_ms": 153533,
       "name": "Love Is Tall",
       "url": "https://open.spotify.com/track/3H3DQ2bzxJJ8yW198ZwTH3"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
-        "name": "El Invento",
-        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 153413,
-      "name": "El Invento",
-      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -2891,6 +2875,22 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
+        "name": "El Invento",
+        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 153413,
+      "name": "El Invento",
+      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/1woKCA8dTokL647kKXySq6"
       },
@@ -2903,54 +2903,6 @@
       "duration_ms": 200127,
       "name": "The Open Road",
       "url": "https://open.spotify.com/track/1Zc2f37KUAPwLEywMMHnbX"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 225632,
-      "name": "Happier - Recorded At Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
-        "name": "Ocean Eyes (Acoustic)",
-        "url": "https://open.spotify.com/album/1CeJ6aLT0stviKNx2dZOYj"
-      },
-      "artists": [
-        {
-          "name": "SVRCINA",
-          "url": "https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Ocean Eyes (Acoustic)",
-      "url": "https://open.spotify.com/track/1mKAKzJuIZWz3M0nbVDfmD"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
-        "name": "Sedona (The Voice Performance)",
-        "url": "https://open.spotify.com/album/1XJWCFvDApRcTaxQvRdPZ0"
-      },
-      "artists": [
-        {
-          "name": "Thunderstorm Artis",
-          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
-        }
-      ],
-      "duration_ms": 205726,
-      "name": "Sedona - The Voice Performance",
-      "url": "https://open.spotify.com/track/63NCB9nUsL8acHNk51klHy"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -2987,6 +2939,54 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
+        "name": "Ocean Eyes (Acoustic)",
+        "url": "https://open.spotify.com/album/1CeJ6aLT0stviKNx2dZOYj"
+      },
+      "artists": [
+        {
+          "name": "SVRCINA",
+          "url": "https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Ocean Eyes (Acoustic)",
+      "url": "https://open.spotify.com/track/1mKAKzJuIZWz3M0nbVDfmD"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Sedona (The Voice Performance)",
+        "url": "https://open.spotify.com/album/1XJWCFvDApRcTaxQvRdPZ0"
+      },
+      "artists": [
+        {
+          "name": "Thunderstorm Artis",
+          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
+        }
+      ],
+      "duration_ms": 205726,
+      "name": "Sedona - The Voice Performance",
+      "url": "https://open.spotify.com/track/63NCB9nUsL8acHNk51klHy"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 225632,
+      "name": "Happier - Recorded At Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
         "name": "rest in peace",
         "url": "https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE"
       },
@@ -3003,22 +3003,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "ONE DAY HOME",
-        "url": "https://open.spotify.com/album/6DgYpISZEFRp4EF9jyQa7P"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 227224,
-      "name": "I'm Coming Home",
-      "url": "https://open.spotify.com/track/1s1KBqj1PxgGQnmE3HC3Iv"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "GIRL",
         "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
       },
@@ -3031,6 +3015,22 @@
       "duration_ms": 240958,
       "name": "Just for Now",
       "url": "https://open.spotify.com/track/0B0Kv1dO7clBuDwZMO0dxP"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "ONE DAY HOME",
+        "url": "https://open.spotify.com/album/6DgYpISZEFRp4EF9jyQa7P"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 227224,
+      "name": "I'm Coming Home",
+      "url": "https://open.spotify.com/track/1s1KBqj1PxgGQnmE3HC3Iv"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -3183,22 +3183,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Goodbye Mr Blue",
-        "url": "https://open.spotify.com/album/5gYexwkGmP2ViIlmCRP1Tf"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 300240,
-      "name": "Goodbye Mr Blue",
-      "url": "https://open.spotify.com/track/1aniGATumrmKFuYCKQ1pJ6"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Atlanta",
         "url": "https://open.spotify.com/album/3ARs99aFblzNPESMX3h1Y2"
       },
@@ -3211,6 +3195,22 @@
       "duration_ms": 205266,
       "name": "Atlanta",
       "url": "https://open.spotify.com/track/7rMrOfHyS4wKlkIZAa1AxT"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Goodbye Mr Blue",
+        "url": "https://open.spotify.com/album/5gYexwkGmP2ViIlmCRP1Tf"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 300240,
+      "name": "Goodbye Mr Blue",
+      "url": "https://open.spotify.com/track/1aniGATumrmKFuYCKQ1pJ6"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -3247,22 +3247,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Never Gonna Change",
-        "url": "https://open.spotify.com/album/0SxiadbHhDU6dvWChJAezR"
-      },
-      "artists": [
-        {
-          "name": "Kate York",
-          "url": "https://open.spotify.com/artist/5wONG6j4El6k5iOXQdA0Ha"
-        }
-      ],
-      "duration_ms": 209571,
-      "name": "Never Gonna Change",
-      "url": "https://open.spotify.com/track/66itGczd1PDI7441zMYaeI"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Famous Son (Acoustic)",
         "url": "https://open.spotify.com/album/7atoT3yg1xW3cYYwKAtlMf"
       },
@@ -3275,6 +3259,22 @@
       "duration_ms": 170262,
       "name": "Famous Son - Acoustic",
       "url": "https://open.spotify.com/track/0KVg944rcq9Fs1SSd0OMpl"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Never Gonna Change",
+        "url": "https://open.spotify.com/album/0SxiadbHhDU6dvWChJAezR"
+      },
+      "artists": [
+        {
+          "name": "Kate York",
+          "url": "https://open.spotify.com/artist/5wONG6j4El6k5iOXQdA0Ha"
+        }
+      ],
+      "duration_ms": 209571,
+      "name": "Never Gonna Change",
+      "url": "https://open.spotify.com/track/66itGczd1PDI7441zMYaeI"
     },
     {
       "added_at": "2025-06-06 04:00:17",
@@ -3295,22 +3295,6 @@
     {
       "added_at": "2025-06-06 04:00:17",
       "album": {
-        "name": "Love To Love You",
-        "url": "https://open.spotify.com/album/3zQUpu75HI0zMSFB4g5mog"
-      },
-      "artists": [
-        {
-          "name": "The Lagoons",
-          "url": "https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd"
-        }
-      ],
-      "duration_ms": 159190,
-      "name": "Love To Love You",
-      "url": "https://open.spotify.com/track/3Xhn8Im10ctTVFkCMrUD1M"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
         "name": "Starting To Get To You",
         "url": "https://open.spotify.com/album/74A6O0ISRJ7udEVOEl79yO"
       },
@@ -3323,6 +3307,22 @@
       "duration_ms": 161088,
       "name": "Starting To Get To You",
       "url": "https://open.spotify.com/track/5dp58cc1ttAdezO9BIoW1W"
+    },
+    {
+      "added_at": "2025-06-06 04:00:17",
+      "album": {
+        "name": "Love To Love You",
+        "url": "https://open.spotify.com/album/3zQUpu75HI0zMSFB4g5mog"
+      },
+      "artists": [
+        {
+          "name": "The Lagoons",
+          "url": "https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd"
+        }
+      ],
+      "duration_ms": 159190,
+      "name": "Love To Love You",
+      "url": "https://open.spotify.com/track/3Xhn8Im10ctTVFkCMrUD1M"
     }
   ],
   "unique_name": "Morning Coffee",

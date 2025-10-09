@@ -4,7 +4,7 @@
 
 > Alternative Arabic songs\. Cover: Jadal
 
-244 songs - 14 hr 55 min
+245 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [El 3asal](https://open.spotify.com/track/5ecSRvEKkYarFYgyFgKak8) | [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [El 3asal](https://open.spotify.com/album/3TE0kPmcSenKkNKyfTLLWS) | 3:00 | 2025-10-06 |  |
 | [El Ayyam](https://open.spotify.com/track/1CI4ip4q7xg6jdfkFZN1eZ) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA) | [El Ayyam](https://open.spotify.com/album/6aSBnFvx0Y7WF3oC1dWOJM) | 3:57 | 2025-10-07 |  |
 | [El Wuhoosh](https://open.spotify.com/track/3Kfq9shpeUGbB8gMnalAGg) | [El Morabba3](https://open.spotify.com/artist/4yTcSEYSpMUQ5t5XFd0uPU) | [El Wuhoosh](https://open.spotify.com/album/4BhtJo1x8FOBIULIT0IddN) | 3:31 | 2023-04-23 | 2023-08-24 |
-| [Elak w Bas](https://open.spotify.com/track/16QkRfapLRwe9kBtYlctFC) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Elak w Bas](https://open.spotify.com/album/6YkN9Z2hJk7g9h2aeBN7RY) | 4:01 | 2022-08-22 |  |
+| [Elak w Bas](https://open.spotify.com/track/16QkRfapLRwe9kBtYlctFC) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Elak w Bas](https://open.spotify.com/album/6YkN9Z2hJk7g9h2aeBN7RY) | 4:01 | 2022-08-22 | 2025-10-09 |
 | [Emlaq](https://open.spotify.com/track/27269Mf2BDkWfLaC4oOw87) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Emlaq](https://open.spotify.com/album/3eeP7ZflvhlVWdgHDgxuWp) | 4:07 | 2021-12-23 | 2022-02-11 |
 | [Emsekni B Eydi](https://open.spotify.com/track/4R97D5BbATpAJ30s4EY7a0) | [Ayloul](https://open.spotify.com/artist/2LxGXSPzPdONjfaKwRyKmq) | [Salute To Al Ghor](https://open.spotify.com/album/0AxxTNSX7y6nJO651y4q7A) | 3:41 | 2025-10-06 |  |
 | [Endal Eneed](https://open.spotify.com/track/4p3XxooOxt2YHbC9DTI0mj) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Endal Eneed](https://open.spotify.com/album/7ygqnUn67EX1VQ9DUA0JSp) | 3:04 | 2022-07-23 | 2025-10-07 |
@@ -69,6 +69,7 @@
 | [Fasateen](https://open.spotify.com/track/5tpNaf6YHv1pxv6WJba1GA) | [Mashrou' Leila](https://open.spotify.com/artist/2RIrl9cApI8HwM6aF4Jt5m) | [Mashrou' Leila](https://open.spotify.com/album/4bOxUbTKHcHrkEJqNjeJir) | 3:02 | 2025-10-06 |  |
 | [Fattaht](https://open.spotify.com/track/0ma4ipffXSLN3MsVLnyqMQ) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [Fattaht](https://open.spotify.com/album/44cb4xOeQ0EEkQEt8bFlKQ) | 2:56 | 2023-07-22 | 2025-01-29 |
 | [Galbi](https://open.spotify.com/track/2XuqFsSXzQQ5VIVnxJsYuQ) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [Galbi](https://open.spotify.com/album/3INMinVy8sVP4MBZmUfhCH) | 2:16 | 2022-03-21 | 2023-04-24 |
+| [Galbi](https://open.spotify.com/track/5xnywAWAVyUbXa8X5yqAdA) | [Soapkills](https://open.spotify.com/artist/6PRGhDtDWSgyw60WSfna8v) | [Enta Fen](https://open.spotify.com/album/1DuyKdtY0bdSIolzqKaPoM) | 4:21 | 2025-10-08 |  |
 | [Garage](https://open.spotify.com/track/5Qq5hZVtezixlTY3xnHoPH) | [SAFAR](https://open.spotify.com/artist/1iUKQz9tEcGbhps9vvtd67) | [Garage](https://open.spotify.com/album/6OXHaxXv3KWhBfCJNXZh2B) | 3:19 | 2023-04-23 | 2025-10-07 |
 | [Ghadi](https://open.spotify.com/track/4ZkF5NDqqgOSmVoWSNVgwP) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW), [Jawhar](https://open.spotify.com/artist/37ASPH0bOi7XSVBTq8U9Zd) | [Ghadi](https://open.spotify.com/album/04q8Heu6XxBs4RaGpTu8d1) | 5:39 | 2025-10-06 |  |
 | [GHIR BLACH](https://open.spotify.com/track/0R3Y8nj4PvdAAOcxEkBaPE) | [Ayoub Hattab](https://open.spotify.com/artist/718mVE4zMicra6iqqKY5h3), [Cameleon](https://open.spotify.com/artist/6S2OpU5mNabEiTOEcTJ8Y9) | [GHIR BLACH](https://open.spotify.com/album/41BXgKi4Ad4ZZ6dgYB5yG0) | 3:50 | 2022-05-31 | 2025-10-07 |

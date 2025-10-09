@@ -3683,6 +3683,28 @@
     },
     {
       "album": {
+        "name": "Lost In The Feeling",
+        "url": "https://open.spotify.com/album/08D9OBoc7YxJcga9YZz6LZ"
+      },
+      "artists": [
+        {
+          "name": "MistaJam",
+          "url": "https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2"
+        },
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196875,
+      "name": "Lost In The Feeling",
+      "url": "https://open.spotify.com/track/2kd4ZH9lnGrbK2TitSAcgu"
+    },
+    {
+      "album": {
         "name": "Love Euphoria (I Feel Good)",
         "url": "https://open.spotify.com/album/73heBwV4IvI06h27Fdjevs"
       },
@@ -4048,6 +4070,32 @@
       "duration_ms": 281500,
       "name": "Man With a Second Face",
       "url": "https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO"
+    },
+    {
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/3B2ulueLSOIRwB00GGJLyB"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Coach Harrison",
+          "url": "https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL"
+        },
+        {
+          "name": "Tim Engelhardt",
+          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206937,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/4tPN1Ceb7aG0yrayUrT7hA"
     },
     {
       "album": {
@@ -7522,7 +7570,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 182189,
       "name": "Your Mind",
       "url": "https://open.spotify.com/track/2crEwjCQ4DMwvKEjIDslkj"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfS4Cdd3PNf.md) - [plain]
 
 > Masterpieces from the world of opera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,074 likes - 91 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,233 likes - 91 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfS4Cdd3PNf.md) - [plain]
 | 90 | [Betrothal in a Monastery, Op\. 86, Act I, Tableau 1, Scene 8: "Друзья, уходите"](https://open.spotify.com/track/4gSReSG7whtyRzI2pEHNeE) | [Sergei Prokofiev](https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l), [Mira Mendelson\-Prokofieva](https://open.spotify.com/artist/307ubugm9ICFuz0r0XkvHN), [Richard Brinsley Sheridan](https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64), [Anatoly Mishchevsky](https://open.spotify.com/artist/3xqxSstnKs8RLZb2FIkOXp), [Kemal Abdullayev](https://open.spotify.com/artist/0Dy2FZWDvZAwNollbgHpxD), [Orchestra of the Stanislavski and Nemirovich\-Danchenko Music Theatre](https://open.spotify.com/artist/1dYnXQBvvsneGYJ1USaNHm) | [Prokofiev: Betrothal in a Monastery](https://open.spotify.com/album/3UAQoJ37E7jtmMfVX1h9dx) | 3:19 |
 | 91 | [La bohème, Act I: Che gelida manina](https://open.spotify.com/track/7oyzo55RTNuAJLOIKc4Fdf) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Freddie De Tommaso](https://open.spotify.com/artist/4leT3QmSGt6qmfuwvrIB2o), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Edward Gardner](https://open.spotify.com/artist/31MZ4H71BYhKlPT6OkcLR2) | [Puccini: La bohème, Act I: Che gelida manina](https://open.spotify.com/album/4mW8OyPXEga5KJCTgGjFKJ) | 4:30 |
 
-Snapshot ID: `AAAAAH+K1xTiAQ5awqR4b7Y6YcLSnHwi`
+Snapshot ID: `AAAAALMpLoKWntejGvdQ9D8e+TPiemQF`

@@ -2,7 +2,7 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Mareux, Labyrinth Ear, Coco & Clair Clair and more
+> With Mareux, Labyrinth Ear, Pearly Drops and more
 
 1,825 songs - 4 day 16 hr 26 min
 

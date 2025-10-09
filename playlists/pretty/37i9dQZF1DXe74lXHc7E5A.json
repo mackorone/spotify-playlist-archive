@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover:  ODUMODUBLVCK",
-  "num_followers": 38030,
+  "num_followers": 38060,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
@@ -523,26 +523,6 @@
     {
       "added_at": "2025-09-26 00:01:37",
       "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 163539,
-      "name": "MACHO (feat. NLE Choppa)",
-      "url": "https://open.spotify.com/track/4swwVMD32piZe5BwgpYRTF"
-    },
-    {
-      "added_at": "2025-09-26 00:01:37",
-      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 211050,
       "name": "Cloak & Dagger (feat. J Hus)",
       "url": "https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki"
+    },
+    {
+      "added_at": "2025-09-26 00:01:37",
+      "album": {
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 163539,
+      "name": "MACHO (feat. NLE Choppa)",
+      "url": "https://open.spotify.com/track/4swwVMD32piZe5BwgpYRTF"
     },
     {
       "added_at": "2025-09-26 00:01:37",
@@ -1047,22 +1047,30 @@
     {
       "added_at": "2025-09-26 00:01:37",
       "album": {
-        "name": "Mixteip",
-        "url": "https://open.spotify.com/album/315R7c8EPwJiT11OS0t4Xk"
+        "name": "Boom Boom",
+        "url": "https://open.spotify.com/album/4qQVzUUzfPh10muObt1Wzp"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Omar Sterling",
+          "url": "https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T"
         },
         {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          "name": "Reggie",
+          "url": "https://open.spotify.com/artist/2h3HiGNHcAvAY1PbORnvKr"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
         }
       ],
-      "duration_ms": 110047,
-      "name": "Uuu",
-      "url": "https://open.spotify.com/track/7w1Sm0fn2YWRFcphqTpWbH"
+      "duration_ms": 164844,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/0c6cJ10SmaO6Ev4XVWIi5Z"
     },
     {
       "added_at": "2025-09-26 00:01:37",
@@ -1103,30 +1111,22 @@
     {
       "added_at": "2025-09-26 00:01:37",
       "album": {
-        "name": "Boom Boom",
-        "url": "https://open.spotify.com/album/4qQVzUUzfPh10muObt1Wzp"
+        "name": "Mixteip",
+        "url": "https://open.spotify.com/album/315R7c8EPwJiT11OS0t4Xk"
       },
       "artists": [
         {
-          "name": "Omar Sterling",
-          "url": "https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Reggie",
-          "url": "https://open.spotify.com/artist/2h3HiGNHcAvAY1PbORnvKr"
-        },
-        {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
-        },
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
         }
       ],
-      "duration_ms": 164844,
-      "name": "Boom Boom",
-      "url": "https://open.spotify.com/track/0c6cJ10SmaO6Ev4XVWIi5Z"
+      "duration_ms": 110047,
+      "name": "Uuu",
+      "url": "https://open.spotify.com/track/7w1Sm0fn2YWRFcphqTpWbH"
     },
     {
       "added_at": "2025-09-26 00:01:37",

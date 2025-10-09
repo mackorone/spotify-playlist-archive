@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 6866,
+  "num_followers": 6876,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAADTD8whrfCU7aMd7AzSfLvW",
+  "snapshot_id": "aORYAAAAAADOz+Yz7jaVAHW3f9N+TwSo",
   "tracks": [
     {
       "added_at": null,
@@ -59,18 +59,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Porsche",
-        "url": "https://open.spotify.com/album/26Iox8LEmlYhHDKPkHPmR5"
+        "name": "Sanity",
+        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
       },
       "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 172035,
-      "name": "Porsche",
-      "url": "https://open.spotify.com/track/76yOApxXGEj0l8ZMFUyDCG"
+      "duration_ms": 141674,
+      "name": "Run from God",
+      "url": "https://open.spotify.com/track/6mQ1sg28qoWd5Oa5dxzaZX"
     },
     {
       "added_at": null,
@@ -111,6 +115,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Porsche",
+        "url": "https://open.spotify.com/album/26Iox8LEmlYhHDKPkHPmR5"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 172035,
+      "name": "Porsche",
+      "url": "https://open.spotify.com/track/76yOApxXGEj0l8ZMFUyDCG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Major",
         "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
       },
@@ -127,26 +147,6 @@
       "duration_ms": 132856,
       "name": "Kilo",
       "url": "https://open.spotify.com/track/1CtTVV922T15I2JV6h5jgy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sanity",
-        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 141674,
-      "name": "Run from God",
-      "url": "https://open.spotify.com/track/6mQ1sg28qoWd5Oa5dxzaZX"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 152571,
-      "name": "Jericho",
-      "url": "https://open.spotify.com/track/4h9P6fvFrgB0bmUdTB6hBm"
+      "duration_ms": 148672,
+      "name": "Dodge",
+      "url": "https://open.spotify.com/track/1fyhqGc41gcZ587gqBrvqA"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 148672,
-      "name": "Dodge",
-      "url": "https://open.spotify.com/track/1fyhqGc41gcZ587gqBrvqA"
+      "duration_ms": 152571,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/4h9P6fvFrgB0bmUdTB6hBm"
     },
     {
       "added_at": null,
@@ -584,13 +584,13 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         },
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 144552,
-      "name": "Alone (feat. Bella Shmurda)",
-      "url": "https://open.spotify.com/track/6Vnic3NfaQH8Mmfzf5fGFE"
+      "duration_ms": 164571,
+      "name": "Play (feat. Fave)",
+      "url": "https://open.spotify.com/track/4xPlMmtY9OD2wbvaK11FjO"
     },
     {
       "added_at": null,
@@ -668,13 +668,13 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         },
         {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 164571,
-      "name": "Play (feat. Fave)",
-      "url": "https://open.spotify.com/track/4xPlMmtY9OD2wbvaK11FjO"
+      "duration_ms": 144552,
+      "name": "Alone (feat. Bella Shmurda)",
+      "url": "https://open.spotify.com/track/6Vnic3NfaQH8Mmfzf5fGFE"
     },
     {
       "added_at": null,

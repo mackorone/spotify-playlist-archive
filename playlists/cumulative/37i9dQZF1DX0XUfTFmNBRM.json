@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-01-25",
-  "description": "Hottest Hindi music that India is listening to. Cover - Sunny Sanskari Ki Tulsi Kumari",
+  "description": "Hottest Hindi music that India is listening to. Cover - Saiyaara",
   "name": "Hot Hits Hindi",
   "tracks": [
     {
@@ -738,7 +738,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 236101,
       "name": "Aur Mohabbat Kitni Karoon (From \"Metro ... In Dino\")",
       "url": "https://open.spotify.com/track/3EIMdrD4DstJVklUH9Ai7Y"
@@ -5657,6 +5657,24 @@
     },
     {
       "album": {
+        "name": "51 GLORIOUS DAYS",
+        "url": "https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202013,
+      "name": "Mafia",
+      "url": "https://open.spotify.com/track/0Z8kwhMDaj9lAlukRDNfXV"
+    },
+    {
+      "album": {
         "name": "Mahiye Jinna Sohna",
         "url": "https://open.spotify.com/album/4fiPkVR8M247hQBOYLkwBq"
       },
@@ -9260,7 +9278,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 176875,
       "name": "Soni Soni (From \"Ishq Vishk Rebound\")",
       "url": "https://open.spotify.com/track/36N5awamOX6XX5pQn3aFXZ"
@@ -9326,6 +9344,32 @@
       "duration_ms": 219632,
       "name": "Stay",
       "url": "https://open.spotify.com/track/5qMKcWk6Lcuz0t3R9Ed1NO"
+    },
+    {
+      "album": {
+        "name": "Sukoon (From \"Bhoomi 2025\")",
+        "url": "https://open.spotify.com/album/40HApg2uDPSMCFnyxWYYS6"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shraddha Pandit",
+          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323707,
+      "name": "Sukoon (From \"Bhoomi 2025\")",
+      "url": "https://open.spotify.com/track/2biyIvVEqdMCDmVAxMfI5H"
     },
     {
       "album": {

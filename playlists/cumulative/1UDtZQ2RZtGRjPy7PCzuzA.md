@@ -4,7 +4,7 @@
 
 > 
 
-1,008 songs - 2 day 9 hr 48 min
+1,009 songs - 2 day 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,6 +416,7 @@
 | [I Don't Need Your Love](https://open.spotify.com/track/34TY5bMvFrfPlZ7jqeGxi4) | [SIX](https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0), [Izuka Hoyle](https://open.spotify.com/artist/5jaOKLAzdIksLRdBTbsFFC) | [Six: The Musical \(Studio Cast Recording\)](https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh) | 6:07 | 2024-11-09 |  |
 | [I Don’t Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation Stadium Tour Surprise Song Playlist](https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8) | 4:07 | 2024-03-28 |  |
 | [I Forgot That You Existed](https://open.spotify.com/track/43rA71bccXFGD4C8GOpIlN) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:50 | 2023-11-30 |  |
+| [I Hate Boston](https://open.spotify.com/track/5862ZA0ML6YODkxQF5UkgR) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 2:54 | 2025-10-08 |  |
 | [I Hate It Here](https://open.spotify.com/track/3hlGuz3loYoLfI3bpwieWq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:03 | 2024-04-26 |  |
 | [I Hate U](https://open.spotify.com/track/4iN2sxWPPKU48NXyzLaXku) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:53 | 2024-12-30 |  |
 | [I Have A Dream \- From 'Mamma Mia!' Original Motion Picture Soundtrack](https://open.spotify.com/track/77bIDfQElFrLQjp2ZdTaam) | [Amanda Seyfried](https://open.spotify.com/artist/5RZjpmuD14JKXvB8Ry1G1u) | [Mamma Mia! The Movie Soundtrack](https://open.spotify.com/album/6QtnCAFmqOwR75jOOmU7k9) | 4:22 | 2025-04-06 |  |

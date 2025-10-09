@@ -4,7 +4,7 @@
 
 > Don't spill your popcorn..\. these scary movie themes will scare the bejeezus out of you!
 
-69 songs - 4 hr 19 min
+73 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,10 @@
 | [Hedwig's Theme](https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 5:09 | 2024-03-26 |  |
 | [Hellraiser](https://open.spotify.com/track/1Vya0Wd5w4HGeEvCipqg74) | [Christopher Young](https://open.spotify.com/artist/1FMXF1g4Fz2MWDTogFj9EC) | [Hellraiser 30th Anniversary Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7kStQ1fN11Yv9tajnZ2vN1) | 1:42 | 2024-03-26 |  |
 | [I've Been Tricked](https://open.spotify.com/track/226XOQzrG1uu1C0XVevRCd) | [Leigh Harline](https://open.spotify.com/artist/7aXWrnm0b8kKzTTgzublaZ) | [Snow White And The Seven Dwarfs Original Soundtrack](https://open.spotify.com/album/0Bqy2UNNB9WRS2EyHtpnIn) | 4:06 | 2024-10-04 |  |
+| [Iris's Theme](https://open.spotify.com/track/19L8nDWiUjd3KOCCjJWF3G) | [Hrishikesh Hirway](https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf), [Sophie Thatcher](https://open.spotify.com/artist/18QohLYZk5AKGLj4T4YqY9) | [Companion \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Y2lb2euCA6AKPDJwfpCYT) | 2:01 | 2025-10-08 |  |
 | [Lullaby Variation](https://open.spotify.com/track/1qflgCdJ1A7a2U5wtfK31h) | [Fernando Velázquez](https://open.spotify.com/artist/2pElTJJ5D3ziEPyvZsW5eF) | [Crimson Peak \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1h4VIVpLvycmVgk021TBpM) | 1:41 | 2024-10-04 |  |
+| [M3gan 2.0](https://open.spotify.com/track/13hsy8OpS8Or2fjiq4JsXX) | [Chris Bacon](https://open.spotify.com/artist/5WWp4g4TgYMfz8XcO3RTHO) | [M3GAN 2.0 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Am6FG1X8kaAsmB2ptZDMK) | 1:01 | 2025-10-08 |  |
+| [Maddie](https://open.spotify.com/track/7uWQJ94mpnSUgrY9MRUVao) | [Ryan Holladay](https://open.spotify.com/artist/5Avhvu4chjrA10c0p70cOc), [Hays Holladay](https://open.spotify.com/artist/2rcjIwc9iPMdaOMCSECtzk), [Zach Cregger](https://open.spotify.com/artist/7bAw28j06w8E8lNncY40As) | [Weapons \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/77fF23B6tnhVZlLxynbCon) | 1:44 | 2025-10-08 |  |
 | [Magnificent, Isn't It](https://open.spotify.com/track/244zUPDZ1nb7kN9SrxgHGX) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [A Cure For Wellness \(Original Soundtrack Album\)](https://open.spotify.com/album/1JpTP5zaoj0ud6lLu3gqZ0) | 2:11 | 2024-10-04 |  |
 | [Main Theme from "The Twilight Zone" \- Cover Version](https://open.spotify.com/track/1kVUH8NaVztttLE38uZ567) | [Sacre](https://open.spotify.com/artist/3ufml7IesKyMSlLYDFtCM9) | [Halloween Monster Collection \- 55 Classic Tracks from the Best Scary Movies](https://open.spotify.com/album/1rLvz13VSlwKUdA4DVYwec) | 1:01 | 2021-12-15 | 2022-11-14 |
 | [Main Title](https://open.spotify.com/track/3mgO7YAlNvmGoZNEaEjfaA) | [Jerry Goldsmith](https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6) | [Alien](https://open.spotify.com/album/0kRM4B6TRITAcjLebvS12N) | 4:12 | 2021-12-15 |  |
@@ -37,6 +40,7 @@
 | [Overlay of Evil / Main Title](https://open.spotify.com/track/1bBvch0ad2VfBuPUXJTV8I) | [Harry Manfredini](https://open.spotify.com/artist/7JDEsW5jacLggSSdqqWpdu) | [Friday the 13th \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5pI4R0WAaQLHywFINSqaHl) | 3:32 | 2021-12-15 |  |
 | [Pas De Deux](https://open.spotify.com/track/3OHCNumN480cuIojhklljX) | [Michael Abels](https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx) | [Us \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gkLMuAnI8U5z2yhyhhRQk) | 2:51 | 2024-03-26 |  |
 | [Perfectly Splendid](https://open.spotify.com/track/2fi4FCGkSNtCA771jNOggL) | [The Newton Brothers](https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3) | [The Haunting of Bly Manor \(Music from the Netflix Horror Series\)](https://open.spotify.com/album/3Aszp8uII3RV05ZZJ7mpBo) | 2:04 | 2024-10-04 |  |
+| [Promised Land](https://open.spotify.com/track/0dj3UPBCXsTtgWX1KT6OyU) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [28 Years Later \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0X8jJb6RB4Ene8VcAqR3vl) | 3:13 | 2025-10-08 |  |
 | [Psycho Suite](https://open.spotify.com/track/2AfA142FyTrSA58SArYR5r) | [Bernard Herrmann](https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9) | [99 Must\-Have Halloween Classics](https://open.spotify.com/album/0b9hNMy12w8qGs8eYNwM1L) | 2:07 | 2021-12-15 |  |
 | [Psycho Theme \( Bernard Herman \- Ensign Music \)](https://open.spotify.com/track/40cXtLMqZo33qFeY2uVhFn) | [Halloween](https://open.spotify.com/artist/5Ure3b6cjh5Gk29qg82eym) | [Halloween Themes / Horror Movie Music That Will Scare You More Than Sound Fx](https://open.spotify.com/album/0ZbEWtaLdNW3MNbeFf7ZVf) | 1:02 | 2021-12-15 |  |
 | [Queen Theme](https://open.spotify.com/track/2WVagfUEBd08FUZlgPBcdP) | [Frank Churchill](https://open.spotify.com/artist/5HxxQWbYtQSFMKTjx9LPtZ) | [Snow White And The Seven Dwarfs Original Soundtrack](https://open.spotify.com/album/0Bqy2UNNB9WRS2EyHtpnIn) | 0:45 | 2024-10-04 |  |

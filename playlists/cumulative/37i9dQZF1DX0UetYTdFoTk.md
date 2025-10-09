@@ -4,7 +4,7 @@
 
 > To all the 7abieb out there\. Cover:  Tamer Ashour.
 
-152 songs - 9 hr 30 min
+153 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Aam Yes2alou](https://open.spotify.com/track/4hRCy0hLfHYLlKHEF5JG4N) | [Al Walid Hallani](https://open.spotify.com/artist/787IgWNnWqAWJ6UC9ENK8v) | [Aam Yes2alou](https://open.spotify.com/album/3gpZeTfb6sfhSHu1KDTLtq) | 3:32 | 2022-05-04 |  |
 | [Addaysh Bhebak](https://open.spotify.com/track/4YPTEQmyafBQpEqPlnmBsX) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Byeb’a Nas](https://open.spotify.com/album/75Kg82i925AgtrYJTqJyJU) | 4:07 | 2022-05-04 |  |
 | [Ader Akmel](https://open.spotify.com/track/2IhPJapsl9WFLBFNhWZp7q) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Ader Akmel](https://open.spotify.com/album/393g3wXpkLzwfnewZVZ01n) | 4:13 | 2023-03-16 |  |
+| [Ahwak Hiba](https://open.spotify.com/track/4dMQ70p4sCovJ4qrpyOvmN) | [هيبة](https://open.spotify.com/artist/4ntBp9iTyEwM06tIVPn3NB), [Zeid Hamdan](https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks) | [صح النوم](https://open.spotify.com/album/5GLEKnaRshEuOfenkwAC0j) | 3:19 | 2025-10-08 |  |
 | [Al Kawn Janni Maak](https://open.spotify.com/track/404zVDendZybr93Pue8nmf) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Elyanna 2](https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A) | 2:15 | 2022-05-04 |  |
 | [Ala Bali](https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Elyanna 2](https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A) | 2:19 | 2022-08-10 |  |
 | [Albi Ashe2ha \- Remake Version](https://open.spotify.com/track/40fFiVk4mt0qRYFb2laAFC) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Albi Ashe2ha \(Remake Version\)](https://open.spotify.com/album/7CIRsb5Dvy3VZhFby5gLW0) | 3:50 | 2022-05-04 |  |
@@ -68,7 +69,7 @@
 | [Fi Hada](https://open.spotify.com/track/5zVJCIdTu3TTJ7wmPEW7in) | [Adam](https://open.spotify.com/artist/4erzgk1ORABnHn0lhMf9Oo) | [Fi Hada](https://open.spotify.com/album/1pkn5htK7BJJ5Mw7QB3kVp) | 3:39 | 2022-05-04 | 2023-04-02 |
 | [Fouq](https://open.spotify.com/track/1CQzS4IBMOHRYGgEg3eZrz) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Lehqt Nafsy](https://open.spotify.com/album/5Hy7i5IWXGVgnZ6EGYK5Oq) | 3:12 | 2024-02-17 | 2025-07-01 |
 | [Habibet Albi](https://open.spotify.com/track/32yswm6dPUpViF0m8rzdIL) | [IYAN](https://open.spotify.com/artist/2eEBSDWdRV9TZTRPqM8ZZI) | [Habibet Albi](https://open.spotify.com/album/6QY0uzm6bvtKrgTpKVF65U) | 4:09 | 2022-05-04 | 2022-07-29 |
-| [Habibi Elli](https://open.spotify.com/track/6WMT7X0aCuWHrNWzPng4BS) | [Mohamed Chaker](https://open.spotify.com/artist/6v3svbntXqckH0VLMYNFi0), [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl) | [Habibi Elli](https://open.spotify.com/album/5aSjZMQpfrCBnGodq3u0Xo) | 4:11 | 2022-05-04 |  |
+| [Habibi Elli](https://open.spotify.com/track/6WMT7X0aCuWHrNWzPng4BS) | [Mohamed Chaker](https://open.spotify.com/artist/6v3svbntXqckH0VLMYNFi0), [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl) | [Habibi Elli](https://open.spotify.com/album/5aSjZMQpfrCBnGodq3u0Xo) | 4:11 | 2022-05-04 | 2025-10-09 |
 | [Habibi Wayno](https://open.spotify.com/track/2nZKHO69mzHL9GtNWzAKpy) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Habibi Wayno](https://open.spotify.com/album/4zx5oNdg8pKaq6NbD3ZYJI) | 4:46 | 2022-07-25 | 2024-04-19 |
 | [Habibi Wayno](https://open.spotify.com/track/37KCPBX9iLgN6GM2YMWiPS) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Habibi Wayno](https://open.spotify.com/album/2oD3WRl3LNAgKJxoHTShmP) | 4:51 | 2022-05-04 | 2022-07-29 |
 | [Hayat](https://open.spotify.com/track/2EF4omjpEV9D01GNfokbyh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 10](https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb) | 3:10 | 2022-05-04 |  |

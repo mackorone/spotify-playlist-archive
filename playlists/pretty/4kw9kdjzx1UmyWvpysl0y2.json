@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124911,
+  "num_followers": 124907,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUqIF5gQXuwodM3PcA57Ac7txtjeIo",
+  "snapshot_id": "AAAUqUDibG+NN1I+hojLLLcAUhTnkVp3",
   "tracks": [
+    {
+      "added_at": "2025-10-08 14:35:07",
+      "album": {
+        "name": "Believe What You Want (Tokyo Machine Remix)",
+        "url": "https://open.spotify.com/album/1M95lzVN1aCGVMdpd18ykb"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        },
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Believe What You Want - Tokyo Machine Remix",
+      "url": "https://open.spotify.com/track/4atZ397uEMc82psNuBd1Vs"
+    },
     {
       "added_at": "2025-10-07 14:17:46",
       "album": {

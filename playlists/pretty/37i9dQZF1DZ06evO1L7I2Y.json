@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3485,
+  "num_followers": 3486,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAAD492KN7C/3zU4lJFtoOFDY",
+  "snapshot_id": "aORYAAAAAAA/O/e2h/1hHUObMShLWbHh",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Campo",
+        "url": "https://open.spotify.com/album/50NjgRzafjAnmQ4IAzx8mN"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "No Campo",
+      "url": "https://open.spotify.com/track/3BhTOhqh1ec85TFAaxEXkJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set Ajc",
         "url": "https://open.spotify.com/album/3DymWr7vqMdUQbX7ko9OFh"
       },
@@ -311,26 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Campo",
-        "url": "https://open.spotify.com/album/50NjgRzafjAnmQ4IAzx8mN"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "No Campo",
-      "url": "https://open.spotify.com/track/3BhTOhqh1ec85TFAaxEXkJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PELE",
         "url": "https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh"
       },
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stephen King",
+        "url": "https://open.spotify.com/album/2SixEfADecvtERCCUXwQej"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Stephen King",
+      "url": "https://open.spotify.com/track/54Lt2Ge2OBZoFInMDJmU92"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para Todos os Garotos que j\u00e1 Mamei",
         "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 166153,
       "name": "Porrada de Balinha",
       "url": "https://open.spotify.com/track/0ulXVWE7PD5SWI9WxQ1beB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stephen King",
-        "url": "https://open.spotify.com/album/2SixEfADecvtERCCUXwQej"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Stephen King",
-      "url": "https://open.spotify.com/track/54Lt2Ge2OBZoFInMDJmU92"
     },
     {
       "added_at": null,
@@ -463,30 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Todos os Garotos que j\u00e1 Mamei",
-        "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        }
-      ],
-      "duration_ms": 192676,
-      "name": "Despedidas",
-      "url": "https://open.spotify.com/track/6N8ivSFir4QlSkp8ixqH9w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Irreal",
         "url": "https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE"
       },
@@ -515,26 +491,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sabotage 50",
-        "url": "https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ"
+        "name": "Para Todos os Garotos que j\u00e1 Mamei",
+        "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
       },
       "artists": [
-        {
-          "name": "Sabotage",
-          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
-        },
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
         }
       ],
-      "duration_ms": 234090,
-      "name": "Respeito \u00c9 Pra Quem Tem - Sabotage 50",
-      "url": "https://open.spotify.com/track/13aWuppoBBo1SiRkJl6E6d"
+      "duration_ms": 192676,
+      "name": "Despedidas",
+      "url": "https://open.spotify.com/track/6N8ivSFir4QlSkp8ixqH9w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "POSTURADA",
+        "url": "https://open.spotify.com/album/5819BDcxcehDVMAN0Ztke2"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "POSTURADA",
+      "url": "https://open.spotify.com/track/6B4X1XdoqDpbNRGRjGlGHp"
     },
     {
       "added_at": null,
@@ -559,6 +555,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sabotage 50",
+        "url": "https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ"
+      },
+      "artists": [
+        {
+          "name": "Sabotage",
+          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "duration_ms": 234090,
+      "name": "Respeito \u00c9 Pra Quem Tem - Sabotage 50",
+      "url": "https://open.spotify.com/track/13aWuppoBBo1SiRkJl6E6d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para Todos os Garotos que j\u00e1 Mamei",
         "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 197142,
       "name": "Ferve",
       "url": "https://open.spotify.com/track/0O2sovjHJwWJb9IgeDIa3R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "POSTURADA",
-        "url": "https://open.spotify.com/album/5819BDcxcehDVMAN0Ztke2"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "POSTURADA",
-      "url": "https://open.spotify.com/track/6B4X1XdoqDpbNRGRjGlGHp"
     },
     {
       "added_at": null,
@@ -847,6 +847,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "40\u02da.40",
+        "url": "https://open.spotify.com/album/0IDVpLdT6AbMirnZPpRcz2"
+      },
+      "artists": [
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 159455,
+      "name": "Stop Time",
+      "url": "https://open.spotify.com/track/6kQ5atus6GiOG3c1ggFWbw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trono de Vidro",
         "url": "https://open.spotify.com/album/5478asny0EoVp8jWQ0DAX7"
       },
@@ -871,30 +895,6 @@
       "duration_ms": 161896,
       "name": "Paz Terr\u00edvel",
       "url": "https://open.spotify.com/track/7vpLD8SnpMWi3D6WJc0hme"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "40\u02da.40",
-        "url": "https://open.spotify.com/album/0IDVpLdT6AbMirnZPpRcz2"
-      },
-      "artists": [
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 159455,
-      "name": "Stop Time",
-      "url": "https://open.spotify.com/track/6kQ5atus6GiOG3c1ggFWbw"
     },
     {
       "added_at": null,

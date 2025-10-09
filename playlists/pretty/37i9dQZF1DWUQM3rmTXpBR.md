@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: Jadal
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,116 likes - 40 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,141 likes - 40 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,14 +33,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 23 | [Emsekni B Eydi](https://open.spotify.com/track/4R97D5BbATpAJ30s4EY7a0) | [Ayloul](https://open.spotify.com/artist/2LxGXSPzPdONjfaKwRyKmq) | [Salute To Al Ghor](https://open.spotify.com/album/0AxxTNSX7y6nJO651y4q7A) | 3:41 |
 | 24 | [Afkarik](https://open.spotify.com/track/1ebIGIiewKtLSjLf6n76KX) | [Salim Tarabay](https://open.spotify.com/artist/4gLyumFZwjNYDdiHPpl9Pq) | [Afkarik](https://open.spotify.com/album/4aATb7Kb0iTifiMphvFpbW) | 3:42 |
 | 25 | [Wehda](https://open.spotify.com/track/6GUv3DJvdc5RLk2dsI1RZT) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA) | [Wehda](https://open.spotify.com/album/3VydlXlCHNxcdEIQO14lu6) | 4:44 |
-| 26 | [Elak w Bas](https://open.spotify.com/track/16QkRfapLRwe9kBtYlctFC) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Elak w Bas](https://open.spotify.com/album/6YkN9Z2hJk7g9h2aeBN7RY) | 4:01 |
-| 27 | [Arooh Le Fein](https://open.spotify.com/track/6hoZwWCrJyhIDuoj7RYCFo) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp), [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1), [Galaleo](https://open.spotify.com/artist/60W1OtLk0gjWoE4kEP8tuY) | [Arooh Le Fein](https://open.spotify.com/album/6Ed5PYqq2rIc0u3eBXZz1E) | 2:46 |
-| 28 | [Shu Bekoun Jameel](https://open.spotify.com/track/7EAtsRuEyxprZs8G2ocTW6) | [Ayloul](https://open.spotify.com/artist/2LxGXSPzPdONjfaKwRyKmq) | [Salute To Al Ghor](https://open.spotify.com/album/0AxxTNSX7y6nJO651y4q7A) | 4:39 |
-| 29 | [Zay El Qetar](https://open.spotify.com/track/1taIkurFqmaPmw4zSR0Hkm) | [Akher Zapheer](https://open.spotify.com/artist/0x8vbV32RlTpfxsERAwena) | [Zay El Qetar](https://open.spotify.com/album/6nHndIHIHGZESiQghVRDnY) | 4:22 |
-| 30 | [Ghadi](https://open.spotify.com/track/4ZkF5NDqqgOSmVoWSNVgwP) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW), [Jawhar](https://open.spotify.com/artist/37ASPH0bOi7XSVBTq8U9Zd) | [Ghadi](https://open.spotify.com/album/04q8Heu6XxBs4RaGpTu8d1) | 5:39 |
-| 31 | [Leh Ya Hana ?](https://open.spotify.com/track/4ZblA6ehlUEGgy3cpENRrx) | [Arnabeat](https://open.spotify.com/artist/31OlJhazERjXIrCE9SQQbM) | [Leh Ya Hana ?](https://open.spotify.com/album/4uWS5ntd91UbXbekxpDdLN) | 3:54 |
-| 32 | [Laykoon \(ليكون\)](https://open.spotify.com/track/2FQroMa87w4nlBhhdDre3J) | [El Morabba3](https://open.spotify.com/artist/4yTcSEYSpMUQ5t5XFd0uPU) | [El Morabba3 \(المربع\)](https://open.spotify.com/album/2BPmsmtbu1sIGIPZe1LgIa) | 5:01 |
-| 33 | [علي باب السيما \- من مسلسل ريفو](https://open.spotify.com/track/5gdERhZjshqCGHnCPWJhqM) | [ريفو شو](https://open.spotify.com/artist/176F6CdFEVWYNwqM6HEXU2) | [Rivo \(من مسلسل ريفو\)](https://open.spotify.com/album/1EfYYVFrbQubucndRHR9um) | 2:31 |
+| 26 | [Arooh Le Fein](https://open.spotify.com/track/6hoZwWCrJyhIDuoj7RYCFo) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp), [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1), [Galaleo](https://open.spotify.com/artist/60W1OtLk0gjWoE4kEP8tuY) | [Arooh Le Fein](https://open.spotify.com/album/6Ed5PYqq2rIc0u3eBXZz1E) | 2:46 |
+| 27 | [Shu Bekoun Jameel](https://open.spotify.com/track/7EAtsRuEyxprZs8G2ocTW6) | [Ayloul](https://open.spotify.com/artist/2LxGXSPzPdONjfaKwRyKmq) | [Salute To Al Ghor](https://open.spotify.com/album/0AxxTNSX7y6nJO651y4q7A) | 4:39 |
+| 28 | [Zay El Qetar](https://open.spotify.com/track/1taIkurFqmaPmw4zSR0Hkm) | [Akher Zapheer](https://open.spotify.com/artist/0x8vbV32RlTpfxsERAwena) | [Zay El Qetar](https://open.spotify.com/album/6nHndIHIHGZESiQghVRDnY) | 4:22 |
+| 29 | [Ghadi](https://open.spotify.com/track/4ZkF5NDqqgOSmVoWSNVgwP) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW), [Jawhar](https://open.spotify.com/artist/37ASPH0bOi7XSVBTq8U9Zd) | [Ghadi](https://open.spotify.com/album/04q8Heu6XxBs4RaGpTu8d1) | 5:39 |
+| 30 | [Leh Ya Hana ?](https://open.spotify.com/track/4ZblA6ehlUEGgy3cpENRrx) | [Arnabeat](https://open.spotify.com/artist/31OlJhazERjXIrCE9SQQbM) | [Leh Ya Hana ?](https://open.spotify.com/album/4uWS5ntd91UbXbekxpDdLN) | 3:54 |
+| 31 | [Laykoon \(ليكون\)](https://open.spotify.com/track/2FQroMa87w4nlBhhdDre3J) | [El Morabba3](https://open.spotify.com/artist/4yTcSEYSpMUQ5t5XFd0uPU) | [El Morabba3 \(المربع\)](https://open.spotify.com/album/2BPmsmtbu1sIGIPZe1LgIa) | 5:01 |
+| 32 | [علي باب السيما \- من مسلسل ريفو](https://open.spotify.com/track/5gdERhZjshqCGHnCPWJhqM) | [ريفو شو](https://open.spotify.com/artist/176F6CdFEVWYNwqM6HEXU2) | [Rivo \(من مسلسل ريفو\)](https://open.spotify.com/album/1EfYYVFrbQubucndRHR9um) | 2:31 |
+| 33 | [Galbi](https://open.spotify.com/track/5xnywAWAVyUbXa8X5yqAdA) | [Soapkills](https://open.spotify.com/artist/6PRGhDtDWSgyw60WSfna8v) | [Enta Fen](https://open.spotify.com/album/1DuyKdtY0bdSIolzqKaPoM) | 4:21 |
 | 34 | [تحدثت](https://open.spotify.com/track/22IprcmkNlpg3rNQ9YSlDS) | [Abdulrahman Mohammed](https://open.spotify.com/artist/1sWV2X7SzXd06hEO2EttHl) | [تحدثت](https://open.spotify.com/album/3MoqHEUB3Adi1uaYCnD7Mg) | 4:40 |
 | 35 | [Jouwana](https://open.spotify.com/track/57Z2cIxwm4ifUhcDxhA0Cv) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [Jouwana](https://open.spotify.com/album/6Gct58maHMB57OcDx0cjfc) | 3:24 |
 | 36 | [Vows سبع صنايع](https://open.spotify.com/track/55HFixAeL5V8kJAJaFAYdA) | [Yasmine Hamdan](https://open.spotify.com/artist/5VElAWe58JiEzEl4vtjw7J) | [I remember I forget بنسى وبتذكر](https://open.spotify.com/album/4VQ7IUWQUahZ30myCkP5KF) | 3:57 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 39 | [Akherto Lahen Hazeen](https://open.spotify.com/track/5ICwSVcHQYL0PWHjrU1noZ) | [Akher Zapheer](https://open.spotify.com/artist/0x8vbV32RlTpfxsERAwena) | [Converse Culture](https://open.spotify.com/album/2DbMSYmjCEbNwXk3WpXgr0) | 4:14 |
 | 40 | [Bekya](https://open.spotify.com/track/635XgbgINyBrET4Wn460mD) | [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Bekya](https://open.spotify.com/album/2qkoYNbpKaahlMilC3749B) | 2:51 |
 
-Snapshot ID: `AAAAALzh5ipEqGYDmAUDkU7rbJvjnJp0`
+Snapshot ID: `AAAAAMgfbaNtAAaiJrOAS5bblGbaVkqU`

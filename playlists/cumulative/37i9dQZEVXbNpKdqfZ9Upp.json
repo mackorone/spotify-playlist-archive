@@ -5386,7 +5386,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-07",
+      "date_removed": null,
       "duration_ms": 146938,
       "name": "Ba Ba Bad Remix",
       "url": "https://open.spotify.com/track/0lMafSfME2iJEE972bsQaK"
@@ -15596,7 +15596,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 225880,
       "name": "Detener el Tiempo",
       "url": "https://open.spotify.com/track/3r2DJb58qzYmsq4zXwpi62"
@@ -24046,7 +24046,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-07",
+      "date_removed": null,
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -42121,6 +42121,32 @@
     },
     {
       "album": {
+        "name": "Novio No",
+        "url": "https://open.spotify.com/album/2DrUbcRALdDHhZUS0BaFs7"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220408,
+      "name": "Novio No",
+      "url": "https://open.spotify.com/track/1PwccGgKAgmtCor56QTvaG"
+    },
+    {
+      "album": {
         "name": "noviogangsta <3",
         "url": "https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ"
       },
@@ -59868,7 +59894,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 196800,
       "name": "Toco Estrellas",
       "url": "https://open.spotify.com/track/6C00Qu7KEbRD31afelAUVB"
@@ -64137,6 +64163,24 @@
     },
     {
       "album": {
+        "name": "Volcan",
+        "url": "https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285360,
+      "name": "Volc\u00e1n",
+      "url": "https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus"
+    },
+    {
+      "album": {
         "name": "Volver",
         "url": "https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s"
       },
@@ -65500,7 +65544,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 77142,
       "name": "Where Have You Been - Orchestra Remix",
       "url": "https://open.spotify.com/track/4e6PHrCEwkv6d88ZxaTlzb"
@@ -65956,7 +66000,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 176874,
       "name": "Wish (feat. Trippie Redd) - Trippie Mix",
       "url": "https://open.spotify.com/track/0c0YHn3DIQLl1opsQDd9kO"

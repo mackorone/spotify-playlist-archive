@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-758 songs - 1 day 20 hr 34 min
+764 songs - 1 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,8 @@
 | [\(Where Is The\) Sunshine \- Pt\. II](https://open.spotify.com/track/7Bf6KQF7Q0XWUQQ96UYVOK) | [Kalima](https://open.spotify.com/artist/4VQTPWMyCUIvu941rs2Srs) | [\(Where Is The\) Sunshine](https://open.spotify.com/album/6wxxcaRmLRD1rS9E4LE4Ib) | 3:37 | 2025-04-29 | 2025-07-04 |
 | [2%](https://open.spotify.com/track/4eeZ6F1bZ0lf0r8Tn7oUBP) | [Bomis Prendin](https://open.spotify.com/artist/4BSnddAYCEOkNJfeFNbEm2) | [TEST](https://open.spotify.com/album/2BekZZiaquGSF66wpM4fWq) | 2:22 | 2025-07-09 | 2025-09-11 |
 | [2024](https://open.spotify.com/track/1bAv1DWUibxCIjAk9SlzRi) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:29 | 2025-06-16 | 2025-07-04 |
+| [21 insecurities](https://open.spotify.com/track/7dVmclFw8bSqjBfwZANhFp) | [500](https://open.spotify.com/artist/1KN20bvE2G6dx9A0bUQayu) | [21 insecurities](https://open.spotify.com/album/5K7mmZFVJciov84zg1Ovsl) | 3:05 | 2025-10-08 |  |
+| [2357 A.D.](https://open.spotify.com/track/6zyZk3KUtCjrQSbNkOaAtl) | [Space Dimension Controller](https://open.spotify.com/artist/7rZjYMRC5pTV089WKn1Y4s) | [Welcome to Mikrosector\-50](https://open.spotify.com/album/5hhiFP1t4UhkI0JL397ogf) | 2:36 | 2025-10-08 |  |
 | [4 DEGREES](https://open.spotify.com/track/3IDQXyHYuX2rdLnNfVzT3g) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [HOPELESSNESS](https://open.spotify.com/album/6zrFK6ltxpZZ0HmMgfOwbw) | 3:51 | 2024-10-22 | 2024-11-14 |
 | [400 & 57](https://open.spotify.com/track/1KlSberDtUJKrXQsEujQr3) | [Pia Fraus](https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT) | [In Solarium](https://open.spotify.com/album/13ZC7qriL0nNYB04lK4CXB) | 3:56 | 2024-10-25 | 2024-11-14 |
 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:37 | 2025-03-06 | 2025-05-09 |
@@ -61,6 +63,7 @@
 | [Are You Really on Drugs?](https://open.spotify.com/track/0vRdw4Dn862ci4NjJutQI6) | [The Clean](https://open.spotify.com/artist/6LRmgzRManplPQghd2BMqz) | [Mister Pop](https://open.spotify.com/album/1fdN6BFzynfexqrwsHz5g9) | 2:46 | 2024-12-27 | 2025-01-12 |
 | [Art Lovers](https://open.spotify.com/track/2t1432gcPePXsmsZcEc2mp) | [W.A.T.](https://open.spotify.com/artist/3aruDbfcpaxFOtuEgrQoWz) | [World According To](https://open.spotify.com/album/0x33VyrEp3C2ZRFAgt8bWB) | 4:57 | 2025-02-23 | 2025-03-02 |
 | [Asante Kwa Wazazi](https://open.spotify.com/track/6Zaqb7DJnPFrnkSukMmPWM) | [Marehemu George Mukabi](https://open.spotify.com/artist/5Tv7EcBYZgPCHZrcX4GNBQ) | [Sengula Nakupenda](https://open.spotify.com/album/7HYKaE9lKDRvTfaMPePJkF) | 2:50 | 2024-07-26 | 2024-09-08 |
+| [Asian Gangsta Kidz](https://open.spotify.com/track/1mYm6V3LtOrVAh5NosTpn7) | [ee](https://open.spotify.com/artist/1NS6IKQiXZTc1f03UWOrd7) | [Ramadan](https://open.spotify.com/album/2LC7F9j4VJq0mb4oLC7yyd) | 3:22 | 2025-10-08 |  |
 | [Atoms For Peace](https://open.spotify.com/track/1yr5rQnDL8QhJWCI6rPId8) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [The Eraser](https://open.spotify.com/album/4X8Y79gWo6xm7Osdapg58E) | 5:13 | 2025-03-09 | 2025-05-09 |
 | [Auntie's Lock/Infinitum](https://open.spotify.com/track/08mLKO1adBkvaaJyCsEahC) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Laura Darlington](https://open.spotify.com/artist/67OokTsDsLUvJI6oIxCigq) | [Los Angeles](https://open.spotify.com/album/0q8xcjDnjM60zXr8UdSDfu) | 2:44 | 2024-09-07 | 2024-09-11 |
 | [B](https://open.spotify.com/track/7t1FUkqJRdQdNrkjwfhq2H) | [Lync](https://open.spotify.com/artist/31fnC8wbw2ZBITgOp6KKoY) | [These Are Not Fall Colors](https://open.spotify.com/album/3Is1zxmfs8xXPL8QnB27kd) | 4:30 | 2024-10-24 | 2024-11-14 |
@@ -602,6 +605,7 @@
 | [Snow](https://open.spotify.com/track/2YBkUWb9FVtP0QU9FX0lUl) | [Jack Zade](https://open.spotify.com/artist/1vEOK6baiByvx1AahjR5yN) | [Snow](https://open.spotify.com/album/50f0dY2lyEkXwjbm8JF8Qz) | 4:20 | 2025-05-14 | 2025-07-04 |
 | [So Hot \(Wash Away All Of My Tears\)](https://open.spotify.com/track/1dAdOyOijI184VtSWr9f4I) | [Spacemen 3](https://open.spotify.com/artist/1ZOlVrZ2MtNSY9LcFYklDB) | [Playing With Fire](https://open.spotify.com/album/0Ju8YUtJB0RMw8NZXgXe6n) | 2:38 | 2025-07-28 | 2025-09-11 |
 | [So I Can See You](https://open.spotify.com/track/5ytSN7DOaQxcD6xekBr2hi) | [TONE](https://open.spotify.com/artist/1jXcm44WywntufGUiGvYei), [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX) | [So I Can See You](https://open.spotify.com/album/6MRiDgydJF9mk2NjDyXTyo) | 3:04 | 2025-07-12 | 2025-09-11 |
+| [Soft Focus](https://open.spotify.com/track/0jeUBf8cbpN1C6oQDVHuBx) | [Artemis](https://open.spotify.com/artist/4EPlTAt2kHslwke6grsplV), [Tayla](https://open.spotify.com/artist/6rdOWJwxGOOXXufe8djZnf) | [Producer 04](https://open.spotify.com/album/1u8d1QmR1RRJkQpzYZPAnw) | 4:37 | 2025-10-08 |  |
 | [Some Days](https://open.spotify.com/track/5qWRT0cruIcc0EaAIDgI99) | [Simon Mavin](https://open.spotify.com/artist/7cLYKsKV8Xsyrn1cvszju4) | [Some Days](https://open.spotify.com/album/4Kw2hBQCaSPV5FvFsiPDuS) | 4:17 | 2025-05-08 | 2025-07-04 |
 | [Song For My Sister's Son](https://open.spotify.com/track/5N95j02ERsrcueKLaOu465) | [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Magnolia](https://open.spotify.com/album/6ttutrbx6EDudIvUhyfWpf) | 4:40 | 2024-01-05 | 2024-03-10 |
 | [Song of the Highest Tower](https://open.spotify.com/track/4QgvvCRrK6ilJp2xaDLlJx) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Alien Sunset](https://open.spotify.com/album/1aycNgUsDVj8pmuJ2x1Y8G) | 6:53 | 2025-04-15 | 2025-04-28 |
@@ -698,6 +702,7 @@
 | [Towards the Light](https://open.spotify.com/track/5Hfek3OCEOxOVeywQjK1aK) | [The Boo Radleys](https://open.spotify.com/artist/6UYwzZChuolxsylHcZcBBP) | [Everything's Alright Forever](https://open.spotify.com/album/6HyyVAjYEHdjSjFDAU86Gx) | 1:41 | 2024-01-09 | 2024-03-10 |
 | [Travelin' Man \- Remastered](https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Rick Is 21](https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe) | 2:23 | 2025-03-01 | 2025-05-09 |
 | [Tristan in der Bar](https://open.spotify.com/track/4vu7aSR61LyBlrF8MoppoF) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Curiosum](https://open.spotify.com/album/2CaEJCDIN1DCOw0naWrhd8) | 2:55 | 2024-07-12 | 2024-09-08 |
+| [Tropiq](https://open.spotify.com/track/28tb3ZTQiPXPO5w1kiqCVm) | [I:Cube](https://open.spotify.com/artist/2HNNSjjaK20NZ9PDZ2EMwU) | [Adore](https://open.spotify.com/album/0Hmwqb6SRtliaK6XbhUAZx) | 4:24 | 2025-10-08 |  |
 | [True Blue Interlude](https://open.spotify.com/track/6U7YaQrDz6GyxcgHotcfoM) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 1:49 | 2024-09-21 | 2024-11-14 |
 | [Truman](https://open.spotify.com/track/0y3gxrlk5VtTRmFljO5w36) | [The Sweet Enoughs](https://open.spotify.com/artist/04nWjOBHWrVkvyjK4PXRNy) | [Marshmallow](https://open.spotify.com/album/5H6AKYiSVXgvWWCHQUTmO5) | 3:08 | 2024-04-18 | 2024-05-16 |
 | [Tuesday](https://open.spotify.com/track/073gctjGEOq9cXuFjldqxT) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Tuesday](https://open.spotify.com/album/3OJhV8FhTJQLH979qE2QXA) | 2:29 | 2024-06-12 | 2024-07-12 |
@@ -731,6 +736,7 @@
 | [What A Day For Me](https://open.spotify.com/track/7osv3MQ5sRaX2XMCil2Xp9) | [Harumi](https://open.spotify.com/artist/4ultVGMWqvHvwRHnogpymO) | [Harumi](https://open.spotify.com/album/6OTWrVumdh9JL7ReKtlPMi) | 2:47 | 2024-06-03 | 2024-07-12 |
 | [What About Me](https://open.spotify.com/track/3cWxzr90hIxXwtWxSq6SHk) | [The Exceptional Three](https://open.spotify.com/artist/2tQWtWlNuBkDHrb61qnmuZ) | [Eccentric Soul: The Way Out Label](https://open.spotify.com/album/62l0ON6TJvgt4Bacsy80Lj) | 3:00 | 2024-09-18 | 2024-11-14 |
 | [What I Want Is You](https://open.spotify.com/track/46b9HKIp2DET5jnhNplWW0) | [Cowboy](https://open.spotify.com/artist/6s9gsFHF1kNgNbL7rpMydJ) | [5'll Getcha Ten](https://open.spotify.com/album/1aj1yHiy7gu8AqNsu97zij) | 3:28 | 2025-08-11 | 2025-09-11 |
+| [What It Is \- Music](https://open.spotify.com/track/6P50WCsy2TcGC3LUOlH8qD) | [Fred P](https://open.spotify.com/artist/4qgais7fd2CQHtwbpCC4Dz), [J Kahila](https://open.spotify.com/artist/25BIZh7HxD9Hh50VAynYNI) | [The Incredible Adventures of Captain P](https://open.spotify.com/album/5MnsaNgHwIszw2X6eswrYE) | 4:50 | 2025-10-08 |  |
 | [What We Had](https://open.spotify.com/track/77bNzHFSySgW4GgkYaJs8x) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Woodland](https://open.spotify.com/album/7zZI8ki72x4CYVJ1H2JgUA) | 3:58 | 2025-04-15 | 2025-05-09 |
 | [Wheeling](https://open.spotify.com/track/2uySYaNa2fZhuUZIlCg6pH) | [Big Bend](https://open.spotify.com/artist/3wMxhIZL4RU4vomEuKlu8G) | [Wheeling](https://open.spotify.com/album/3ZZWP0kXZ3c4nMDyufC5W0) | 4:04 | 2024-07-26 | 2024-09-08 |
 | [When You Love Someone](https://open.spotify.com/track/37LXvMkc6YhGGEoTQn6CHi) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [café LIFE](https://open.spotify.com/album/0vbzPGDQWtxOroyhwC3rck) | 7:11 | 2025-05-17 | 2025-07-04 |

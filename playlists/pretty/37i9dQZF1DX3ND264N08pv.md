@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,903 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,920 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 47 | [Kamikaze](https://open.spotify.com/track/3BaGQ8tsutNrim7MGWBjbC) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc), [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh), [EZG](https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4) | [Kamikaze](https://open.spotify.com/album/49C4pHCfwYCc0XeSSeJvV0) | 3:40 |
 | 48 | [Memories](https://open.spotify.com/track/5HPBgvcnHhuskoO8aWAkvt) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [Memories](https://open.spotify.com/album/4LLCLJ1QGgzRnYDG5Zz8ba) | 2:58 |
 | 49 | [F.R.E.N.C.H.C.O.R.E.](https://open.spotify.com/track/48KVM5tvfliqY6l7kduiPF) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Billx](https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB), [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk), [Frenchcore Familia](https://open.spotify.com/artist/3lX2yJBnRgHzvGp6d5xGjR) | [F.R.E.N.C.H.C.O.R.E.](https://open.spotify.com/album/08UAg9MSdmXQ2IBnhJx6eC) | 2:38 |
-| 50 | [Lead By Example \(Official Dominator 2025 Anthem\)](https://open.spotify.com/track/037LhIv2yUudP1jzxB8kSD) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Evil Activities](https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO), [Tha Playah](https://open.spotify.com/artist/6MUXMQLSPFynFBwF2Qz2CU), [Outblast](https://open.spotify.com/artist/7izfdXPLe9PjsIN0A0k2pE), [The Supreme Team](https://open.spotify.com/artist/3lojVS6Lt1JUvkHSwFXauZ) | [Lead By Example \(Official Dominator 2025 Anthem\)](https://open.spotify.com/album/3UE8VxwYfYVFuGTKZRJkX0) | 4:58 |
+| 50 | [Ruffneck \(Still\) Rules The Hardcore Scene](https://open.spotify.com/track/2M7b4VKISXJIQE1pw5TJfS) | [DJ Ruffneck](https://open.spotify.com/artist/0Zr8KrP13XdTkcbhn3bv8Y) | [Witch Queen EP](https://open.spotify.com/album/4OGLu6ud8DZt8BFzzVVPZ7) | 3:36 |
 
 Snapshot ID: `AAAAAJao6p2F03LZg2cu+yjTH4/oKy0y`

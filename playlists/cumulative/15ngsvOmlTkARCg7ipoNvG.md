@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,025 songs - 1 day 16 hr 53 min
+2,027 songs - 1 day 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -754,6 +754,7 @@
 | [Gentle Footsteps \- Cello Version](https://open.spotify.com/track/4yVqHxsgyldWLeAIzCha4O) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Gentle Footsteps](https://open.spotify.com/album/35feb6mazViXNITgLKlxfL) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Gentle Heart](https://open.spotify.com/track/6SthC6BVnGZW5L967HAZUz) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Gentle Heart](https://open.spotify.com/album/4eqGNQ7SxLCRPaBSGTr6jh) | 1:00 | 2024-06-25 |  |
 | [Gentle Landing](https://open.spotify.com/track/4BtmWlFdkec2lVNW1BH28s) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Soaring](https://open.spotify.com/album/0M1455WqEoRjvehxgXmICI) | 1:04 | 2022-03-03 |  |
+| [Gentle Movements](https://open.spotify.com/track/5PdNXcBg2ZYpysEhkDpDoT) | [Wonder In Serenity](https://open.spotify.com/artist/1ClhpZHK4uyN4gCCU5Mll4) | [Morning Dreamtime](https://open.spotify.com/album/3pKYaNoqGxX0dEZcUszoWv) | 1:00 | 2025-10-08 |  |
 | [Gentle Skies](https://open.spotify.com/track/2a4Q4Kp1teV3anzRCibIFm) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Wonderment](https://open.spotify.com/album/5xvoEnKYHlb2kBfkcE6i0k) | 1:02 | 2022-03-02 |  |
 | [Gentle Skies \- Cello Version](https://open.spotify.com/track/2Jka4oJTJBU3dBul2qsz1r) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Wonderment](https://open.spotify.com/album/5xvoEnKYHlb2kBfkcE6i0k) | 1:03 | 2022-03-02 |  |
 | [Gentle Sun Arr\. For Cello](https://open.spotify.com/track/2egZdp3IXU8pNfo9uENF2r) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Gentle Sun](https://open.spotify.com/album/3lc9JgTfUtCJOAqEuVw5cS) | 1:00 | 2023-04-08 | 2024-02-13 |
@@ -1365,6 +1366,7 @@
 | [Quiet Hope](https://open.spotify.com/track/1ne1HkwDKNkiGM2RSoWyO5) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Quiet Hope](https://open.spotify.com/album/7qy2ykL1wcBfrRw3Ilm4tu) | 1:00 | 2025-03-19 |  |
 | [Quiet Joy](https://open.spotify.com/track/1FJAimeQsvhQB95NTGpG60) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Autumn Rain](https://open.spotify.com/album/0JsMeQCTqpoV07HsE6QVC0) | 1:47 | 2022-01-20 |  |
 | [Quiet Love](https://open.spotify.com/track/3s6VZYDAJ7GfqIflkxqy1t) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Quiet Love](https://open.spotify.com/album/5FOLujx57ozchoLQGmFouU) | 1:01 | 2022-03-21 | 2024-01-30 |
+| [Quiet Moment](https://open.spotify.com/track/4uwg2meLZjmGw1lgJepRe6) | [Wonder In Serenity](https://open.spotify.com/artist/1ClhpZHK4uyN4gCCU5Mll4) | [Morning Dreamtime](https://open.spotify.com/album/3pKYaNoqGxX0dEZcUszoWv) | 1:00 | 2025-10-08 |  |
 | [Quiet Night](https://open.spotify.com/track/4qmaxSnrzUYqDIZcrJZ4ia) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Quiet Night](https://open.spotify.com/album/6s8kzeG3p0BnRRKgs6v3gL) | 1:00 | 2024-12-29 |  |
 | [Quiet Night Melody](https://open.spotify.com/track/4dKFTaModWbW8kiG5LpZEJ) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Calming Piano Melodies](https://open.spotify.com/album/2AwrLqSXZuZna6B3SfsKHc) | 0:59 | 2022-08-25 |  |
 | [Quiet Place Arr\. For Cello And Violin](https://open.spotify.com/track/59DelPzezDrHzco3wqu0VE) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Vista With Strings](https://open.spotify.com/album/1z1RTwjsaXZTvQvgPJ2QEz) | 0:59 | 2024-02-09 | 2024-02-13 |

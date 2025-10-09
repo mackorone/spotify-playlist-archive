@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,087 songs - 2 day 12 hr 46 min
+1,088 songs - 2 day 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [begin again](https://open.spotify.com/track/2HzjHQ9QEZnYl3sDbWmhQo) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63), [Mr\. Hilroy](https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T) | [wonder years pt\. 1](https://open.spotify.com/album/4TAy3EjqjNvl5LtVWAH4gM) | 3:53 | 2022-03-23 | 2022-06-04 |
 | [Behind Your Eyes](https://open.spotify.com/track/1hV1ZlD4WGJzBZ4ScGJKdy) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [Juneau](https://open.spotify.com/artist/4GqIsFywX1zYRiXreoyU34) | [Behind Your Eyes](https://open.spotify.com/album/21vde0XQf3KcIL3rbyb4mf) | 2:26 | 2021-11-19 | 2022-02-08 |
 | [Believe What You Want](https://open.spotify.com/track/3RH3mCy2PIH6289cqQWgdl) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Believe What You Want](https://open.spotify.com/album/2x0aTQEZATNEOcXEUINCwe) | 4:38 | 2024-09-30 | 2025-01-10 |
+| [Believe What You Want \- Tokyo Machine Remix](https://open.spotify.com/track/4atZ397uEMc82psNuBd1Vs) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [Believe What You Want \(Tokyo Machine Remix\)](https://open.spotify.com/album/1M95lzVN1aCGVMdpd18ykb) | 3:40 | 2025-10-08 |  |
 | [Bella Ciao](https://open.spotify.com/track/7D3h8trsx2ZMvrzafWipKX) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [XYSM](https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2) | [Bella Ciao](https://open.spotify.com/album/22GBiZ8ccOeY4Oeit6AgxO) | 2:00 | 2024-10-02 | 2025-01-10 |
 | [Best Thing](https://open.spotify.com/track/1LZWrNzPgzYudiej9NPbkH) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0), [Fagin](https://open.spotify.com/artist/7rPtQcrQxAA6bdsUwSyYoV), [Marg Pappas](https://open.spotify.com/artist/39ZlbcpvLujmbnB2yYsDS5) | [Best Thing](https://open.spotify.com/album/72x4qPqql8qgMXf9HILb0j) | 3:55 | 2024-11-19 | 2025-02-27 |
 | [Between](https://open.spotify.com/track/1cdmC5U4jiWu6cEkMYFnht) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Between](https://open.spotify.com/album/0Z7L3gEHByeBMuzk66tViT) | 3:17 | 2025-08-13 |  |

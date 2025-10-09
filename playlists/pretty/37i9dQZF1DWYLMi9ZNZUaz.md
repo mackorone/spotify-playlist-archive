@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,628 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,673 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [QUAY ĐI QUAY LẠI \(feat\. HIEUTHUHAI\)](https://open.spotify.com/track/07d8eaOuAWdC0DANq3tdPd) | [ANH TRAI "SAY HI"](https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [ANH TRAI "SAY HI", Chung Kết 1](https://open.spotify.com/album/4ZHaMUGP6WlG14jmk64Dln) | 3:30 |
 | 50 | [Lối Sống](https://open.spotify.com/track/457sdcnHnv9zqMfLT6OGLn) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 3:10 |
 
-Snapshot ID: `AAAAALpBaS40slTZD9A816Vy/WQMrJR6`
+Snapshot ID: `AAAAAKlSU7lcsTFK0yWIgLlMRbMnxZJX`

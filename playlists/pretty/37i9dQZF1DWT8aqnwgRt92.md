@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,551,424 likes - 101 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,551,484 likes - 101 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 100 | [ビューティ・フォー](https://open.spotify.com/track/6s2rjzElfNV1znRBg8fyiJ) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [ビューティ・フォー](https://open.spotify.com/album/3qVh8aKdCxjqzQMh4L14hG) | 3:09 |
 | 101 | [生命換装](https://open.spotify.com/track/6XhPqqciCUQLWZHxbO2mcG) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [生命換装](https://open.spotify.com/album/0FKrcF7rp480YBzAcM9WPo) | 5:40 |
 
-Snapshot ID: `AAAAACH8mWwrwl5UZce5fr6fQAql2229`
+Snapshot ID: `AAAAAPeQ4RWmtBhngHrFp1OuK99dY9WJ`

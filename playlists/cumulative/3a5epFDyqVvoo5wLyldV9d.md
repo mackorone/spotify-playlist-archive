@@ -4,7 +4,7 @@
 
 > 
 
-881 songs - 2 day 21 hr 15 min
+882 songs - 2 day 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -825,6 +825,7 @@
 | [White Sands](https://open.spotify.com/track/5xLzGWWwVcIzFb5bL8eU84) | [Alessandro Alessandroni](https://open.spotify.com/artist/6NXwJ5CEziDQrfimLpr7gZ) | [Panoramic Feelings \(Mellow Carefree Lounge Music\)](https://open.spotify.com/album/4CW8oM19vtGd4TJi1qmmZu) | 2:58 | 2022-09-19 |  |
 | [Win Terram](https://open.spotify.com/track/21SdDged8mWRNvDnwPzxH1) | [Majid Soula](https://open.spotify.com/artist/3ZSwzyUGtKBQtr1RFmqyiY) | [Chant Amazigh \(Habibi Funk 017\)](https://open.spotify.com/album/3xFJIj1WvMTDEMEGzFAeuW) | 4:07 | 2024-01-09 |  |
 | [Woody's Blue](https://open.spotify.com/track/4paWz4k4HFXrdnmxm1ECYw) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Future](https://open.spotify.com/album/1Fv6H1R3c0qlujTi74i9p9) | 5:04 | 2024-04-11 |  |
+| [Woza](https://open.spotify.com/track/1ctFPcxav6iUH8gMYJY4Ez) | [Moskito](https://open.spotify.com/artist/4hPl23nJcNmFMEabNKAoJY) | [Idolar](https://open.spotify.com/album/3SjuOfwmyEqqOo8K5zcUdh) | 4:17 | 2025-10-08 |  |
 | [Xangô](https://open.spotify.com/track/6UuzGgbN8Ifz5fvL1m2H0f) | [Magalhães e sua Guitarra](https://open.spotify.com/artist/0gbErAnyXCDqoXk9B6VQGH) | [Jambú \- e os míticos sons da amazônia \(Analog Africa No\. 28\)](https://open.spotify.com/album/5wxGNf3jSMNbp1xpmGKg06) | 3:23 | 2021-10-11 |  |
 | [Xica Da Silva](https://open.spotify.com/track/6Hn9ZU7hZKAh1HsYMA26o8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 4:02 | 2025-04-07 |  |
 | [Y...](https://open.spotify.com/track/2BPPkdy7BJ2VQPrZMeaGkN) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:46 | 2022-01-08 |  |

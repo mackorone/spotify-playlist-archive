@@ -1,6 +1,6 @@
 {
   "description": "Die Klassiker des Schweizer Hip-Hop.",
-  "num_followers": 12984,
+  "num_followers": 12983,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2025-07-24 13:47:10",
       "album": {
+        "name": "Bar",
+        "url": "https://open.spotify.com/album/6qpKhE3dGE8rFVAssczdHG"
+      },
+      "artists": [
+        {
+          "name": "Tinguely d\u00e4 Chn\u00e4cht",
+          "url": "https://open.spotify.com/artist/30pdt4YkBYxYPIr0RVdxRj"
+        }
+      ],
+      "duration_ms": 252440,
+      "name": "Mini Homeboys",
+      "url": "https://open.spotify.com/track/2YoBQUtCsAtvPiG7XrY3S5"
+    },
+    {
+      "added_at": "2025-07-24 13:47:10",
+      "album": {
         "name": "Du & Ich",
         "url": "https://open.spotify.com/album/76WhAV5kBQARS2T6Dk39RU"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 238053,
       "name": "Du & Ich - Radio Edit",
       "url": "https://open.spotify.com/track/5Ej5atpjCZcFmu1OTXeFHx"
-    },
-    {
-      "added_at": "2025-07-24 13:47:10",
-      "album": {
-        "name": "Bar",
-        "url": "https://open.spotify.com/album/6qpKhE3dGE8rFVAssczdHG"
-      },
-      "artists": [
-        {
-          "name": "Tinguely d\u00e4 Chn\u00e4cht",
-          "url": "https://open.spotify.com/artist/30pdt4YkBYxYPIr0RVdxRj"
-        }
-      ],
-      "duration_ms": 252440,
-      "name": "Mini Homeboys",
-      "url": "https://open.spotify.com/track/2YoBQUtCsAtvPiG7XrY3S5"
     },
     {
       "added_at": "2025-07-24 13:47:10",

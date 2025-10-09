@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 
 > Mensagens de Fé por Julliany Souza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,493 likes - 31 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,540 likes - 31 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 72920,
+  "num_followers": 72933,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAACDgdLYVaYtIDbT4Xdf6afp",
+  "snapshot_id": "aORYAAAAAADFcc3RXxWx6argbuGVl/0x",
   "tracks": [
     {
       "added_at": null,
@@ -339,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come From The Shadows",
+        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "Love Song To A Stranger",
+      "url": "https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/2fm8pHor9hd3t6szmNZv1x"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 215240,
       "name": "Diamonds & Rust",
       "url": "https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come From The Shadows",
-        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Love Song To A Stranger",
-      "url": "https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Farewell, Angelina (Remastered 2025)",
+        "url": "https://open.spotify.com/album/5iwq6gZ9HslfxC28djd6uH"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 197825,
+      "name": "Ranger's Command - Remastered 2025",
+      "url": "https://open.spotify.com/track/3LMwA5495RllhdcYMT8qIg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Come From The Shadows",
         "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 263893,
       "name": "Prison Trilogy (Billy Rose)",
       "url": "https://open.spotify.com/track/09dGiyUBUGQBV0I6uH0sDY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joan Baez",
-        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 157160,
-      "name": "Wildwood Flower",
-      "url": "https://open.spotify.com/track/1eZTRfESsrayUmRKGIuory"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joan Baez",
+        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 157160,
+      "name": "Wildwood Flower",
+      "url": "https://open.spotify.com/track/1eZTRfESsrayUmRKGIuory"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joan Baez 75th Birthday Celebration",
         "url": "https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 186160,
       "name": "Blessed Are",
       "url": "https://open.spotify.com/track/4fK3awsA0h8RcyULqw3XMS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Farewell, Angelina (Remastered 2025)",
-        "url": "https://open.spotify.com/album/5iwq6gZ9HslfxC28djd6uH"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 197825,
-      "name": "Ranger's Command - Remastered 2025",
-      "url": "https://open.spotify.com/track/3LMwA5495RllhdcYMT8qIg"
     }
   ],
   "unique_name": "This Is Joan Baez",

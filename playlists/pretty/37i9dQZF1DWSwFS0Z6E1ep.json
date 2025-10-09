@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 293633,
+  "num_followers": 293728,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "This Is Dean Martin",
-        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 181626,
-      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
-      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Calypso",
         "url": "https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 183133,
       "name": "Banana Boat (Day-O)",
       "url": "https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "This Is Dean Martin",
+        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 181626,
+      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
+      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Come Go With Me: The Best Of The Del-Vikings",
-        "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
-      },
-      "artists": [
-        {
-          "name": "The Del-Vikings",
-          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
-        }
-      ],
-      "duration_ms": 162293,
-      "name": "Come Go With Me",
-      "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Greatest",
         "url": "https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 132970,
       "name": "Get Rhythm",
       "url": "https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Come Go With Me: The Best Of The Del-Vikings",
+        "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
+      },
+      "artists": [
+        {
+          "name": "The Del-Vikings",
+          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
+        }
+      ],
+      "duration_ms": 162293,
+      "name": "Come Go With Me",
+      "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Berry Is On Top",
-        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 143240,
-      "name": "Maybellene",
-      "url": "https://open.spotify.com/track/3SQhmctWreNM0X6Zkm2K5R"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Rock with Sedaka (Expanded Edition)",
         "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 159693,
       "name": "Calendar Girl",
       "url": "https://open.spotify.com/track/7Gpx2fNJiilvrf9Ss8qbit"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 143240,
+      "name": "Maybellene",
+      "url": "https://open.spotify.com/track/3SQhmctWreNM0X6Zkm2K5R"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Not Fade Away: The Complete Studio Recordings And More",
-        "url": "https://open.spotify.com/album/23TDJiqtPfw3UcDhce8Q2x"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        }
-      ],
-      "duration_ms": 127680,
-      "name": "Oh Boy! - Overdubbed Version",
-      "url": "https://open.spotify.com/track/7s7Zu78CztOUFUyQ4BijBQ"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Mr Sandman - All the Hits",
         "url": "https://open.spotify.com/album/0LjbqtDb2lMpfux4TgSsff"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 144039,
       "name": "Mister Sandman",
       "url": "https://open.spotify.com/track/00e59ZgjHI2GwsiY3oXayw"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Not Fade Away: The Complete Studio Recordings And More",
+        "url": "https://open.spotify.com/album/23TDJiqtPfw3UcDhce8Q2x"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        }
+      ],
+      "duration_ms": 127680,
+      "name": "Oh Boy! - Overdubbed Version",
+      "url": "https://open.spotify.com/track/7s7Zu78CztOUFUyQ4BijBQ"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/4Q06dq3TI47Aqm3NyH1bTO"
-      },
-      "artists": [
-        {
-          "name": "Barrett Strong",
-          "url": "https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD"
-        }
-      ],
-      "duration_ms": 160266,
-      "name": "Money (That's What I Want)",
-      "url": "https://open.spotify.com/track/0jqr2lIlIU09FsuSOibDdA"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Hits",
         "url": "https://open.spotify.com/album/4F4lUBkTplYHYYCKFW9kZf"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 129000,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/4A6Wc861ATCUC9tZe5S52X"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/4Q06dq3TI47Aqm3NyH1bTO"
+      },
+      "artists": [
+        {
+          "name": "Barrett Strong",
+          "url": "https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD"
+        }
+      ],
+      "duration_ms": 160266,
+      "name": "Money (That's What I Want)",
+      "url": "https://open.spotify.com/track/0jqr2lIlIU09FsuSOibDdA"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "I Dig You Baby / Sweetie Pie",
-        "url": "https://open.spotify.com/album/36eFyxEy9tCTvlyZ4PeIJf"
-      },
-      "artists": [
-        {
-          "name": "Tommy Blake",
-          "url": "https://open.spotify.com/artist/2x9rXRL308BFyy1Ubrk9pS"
-        }
-      ],
-      "duration_ms": 124363,
-      "name": "Sweetie Pie",
-      "url": "https://open.spotify.com/track/15Z8moPRfShAyP9EkrKked"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "If You Love Me / Alone and Blue",
         "url": "https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 150307,
       "name": "If You Love Me",
       "url": "https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "I Dig You Baby / Sweetie Pie",
+        "url": "https://open.spotify.com/album/36eFyxEy9tCTvlyZ4PeIJf"
+      },
+      "artists": [
+        {
+          "name": "Tommy Blake",
+          "url": "https://open.spotify.com/artist/2x9rXRL308BFyy1Ubrk9pS"
+        }
+      ],
+      "duration_ms": 124363,
+      "name": "Sweetie Pie",
+      "url": "https://open.spotify.com/track/15Z8moPRfShAyP9EkrKked"
     },
     {
       "added_at": "2022-06-07 05:25:13",

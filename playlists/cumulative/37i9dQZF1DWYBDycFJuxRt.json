@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: RADWIMPS *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/341104\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
+  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: RADWIMPS *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/341286\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
   "name": "New Music Wednesday",
   "tracks": [
     {
@@ -5144,6 +5144,28 @@
       "duration_ms": 233045,
       "name": "800",
       "url": "https://open.spotify.com/track/0ZOaNBSs178pfCtaww1JMo"
+    },
+    {
+      "album": {
+        "name": "8500km",
+        "url": "https://open.spotify.com/album/45GHt3ciZ8P97xgHu8XD1c"
+      },
+      "artists": [
+        {
+          "name": "Klawo",
+          "url": "https://open.spotify.com/artist/6r5d1Zks1Q9qiiDmo3Gwox"
+        },
+        {
+          "name": "peko",
+          "url": "https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300533,
+      "name": "8500km",
+      "url": "https://open.spotify.com/track/5NPqgkRil9yGjgK5qtwodd"
     },
     {
       "album": {
@@ -54271,6 +54293,24 @@
     },
     {
       "album": {
+        "name": "GRAY",
+        "url": "https://open.spotify.com/album/5xuyrijW2gfXNWvn8K3tuw"
+      },
+      "artists": [
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300830,
+      "name": "GRAY",
+      "url": "https://open.spotify.com/track/6yeZxv0sNYEoDY4dLlibG7"
+    },
+    {
+      "album": {
         "name": "MANIA",
         "url": "https://open.spotify.com/album/1MOqDpLRnyW5sjgTmbED1B"
       },
@@ -63823,8 +63863,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Space/Range",
+        "url": "https://open.spotify.com/album/36k15NB2Ksjq811w7N55nX"
       },
       "artists": [
         {
@@ -90544,6 +90584,28 @@
       "duration_ms": 230266,
       "name": "Mouth Flash (Kuchinohanabi)",
       "url": "https://open.spotify.com/track/7ab0UuDPSaMymJ9oCYDMnT"
+    },
+    {
+      "album": {
+        "name": "KEEP ON DANCIN'",
+        "url": "https://open.spotify.com/album/2ZWdIAJxt7XkRMDaJ0RzFo"
+      },
+      "artists": [
+        {
+          "name": "T-Groove",
+          "url": "https://open.spotify.com/artist/2Ky7DbgmIlA47OpDx5KzNt"
+        },
+        {
+          "name": "Maddam Mya",
+          "url": "https://open.spotify.com/artist/2xnvBakwGdgZ548S7RCPYP"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346779,
+      "name": "Move Me",
+      "url": "https://open.spotify.com/track/631ftFuKMpNyTS6XEoL8KB"
     },
     {
       "album": {
@@ -143615,28 +143677,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "T-Groove",
-          "url": "https://open.spotify.com/artist/2Ky7DbgmIlA47OpDx5KzNt"
-        },
-        {
-          "name": "Maddam Mya",
-          "url": "https://open.spotify.com/artist/2xnvBakwGdgZ548S7RCPYP"
-        }
-      ],
-      "date_added": "2025-10-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/631ftFuKMpNyTS6XEoL8KB"
-    },
-    {
-      "album": {
         "name": "Debugging",
         "url": "https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz"
       },
@@ -161853,8 +161893,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "D o n\u2019 t \u200c \u200c \u200cL a u g h \u200c \u200c \u200cI t \u200c \u200c \u200cO f f",
+        "url": "https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P"
       },
       "artists": [
         {
@@ -204240,6 +204280,24 @@
       "duration_ms": 279887,
       "name": "\u5915\u51ea\u901a\u4fe1 - 2023 Remix",
       "url": "https://open.spotify.com/track/7ArA09LFsVi9Mcfs43XJQW"
+    },
+    {
+      "album": {
+        "name": "\u5915\u65e5",
+        "url": "https://open.spotify.com/album/43ap3DY2HKTUQ8qIUAT0ik"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6 \u5bc2",
+          "url": "https://open.spotify.com/artist/3XJ7WCAaSoiqWePVw9qZdL"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209600,
+      "name": "\u5915\u65e5",
+      "url": "https://open.spotify.com/track/76jsGuWtNMd3p9HBPvolIg"
     },
     {
       "album": {

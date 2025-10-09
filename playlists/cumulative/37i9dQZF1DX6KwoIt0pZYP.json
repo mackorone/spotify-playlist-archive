@@ -1289,6 +1289,24 @@
     },
     {
       "album": {
+        "name": "BACK 2 YOU",
+        "url": "https://open.spotify.com/album/2c7Osih348dWoitmLUvVAh"
+      },
+      "artists": [
+        {
+          "name": "Rahmania Astrini",
+          "url": "https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221428,
+      "name": "BACK 2 YOU",
+      "url": "https://open.spotify.com/track/7sFjAaWSZDrUsxSxALlA09"
+    },
+    {
+      "album": {
         "name": "0.1 flaws and all.",
         "url": "https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0"
       },
@@ -7780,7 +7798,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 130097,
       "name": "Home",
       "url": "https://open.spotify.com/track/7eSD3OvRfbCrkEIN3VYFv7"

@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 35 | [Sinai](https://open.spotify.com/track/56wjqnXX7fv7YY1LgvxT3d) | [Jairo Bonfim](https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4), [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Sinai](https://open.spotify.com/album/6Z3FThXEeuuHq06E5vnCBy) | 4:58 |
 | 36 | [Mercenárias](https://open.spotify.com/track/3uRuB1nkOD1wgMko3MZi2D) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Titica](https://open.spotify.com/artist/2uOdrNlbkp8umXVeHU5F2s), [Ella](https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA) | [Mercenárias](https://open.spotify.com/album/0iA8avL6J85MjDCRGgprox) | 2:39 |
 | 37 | [Fantasma](https://open.spotify.com/track/5fx1egy2kKMVGj81oTnaqT) | [Ella](https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:01 |
-| 38 | [Me Garanto](https://open.spotify.com/track/0M0PZQD7FVD9tgzX1VdRXf) | [Carol Roberto](https://open.spotify.com/artist/7jrmYkaX7aXULg3BX9YAYx) | [Me Garanto](https://open.spotify.com/album/1vWNsqfX0Bbq9Y7F7gEuHB) | 2:44 |
-| 39 | [Chances](https://open.spotify.com/track/4W9AwjzkVUIvdZr4eOnMu6) | [Ella](https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:28 |
+| 38 | [Chances](https://open.spotify.com/track/4W9AwjzkVUIvdZr4eOnMu6) | [Ella](https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:28 |
+| 39 | [Me Garanto](https://open.spotify.com/track/0M0PZQD7FVD9tgzX1VdRXf) | [Carol Roberto](https://open.spotify.com/artist/7jrmYkaX7aXULg3BX9YAYx) | [Me Garanto](https://open.spotify.com/album/1vWNsqfX0Bbq9Y7F7gEuHB) | 2:44 |
 | 40 | [15](https://open.spotify.com/track/0uR3XG3utMf03QR2Sg2V6l) | [Ella](https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:16 |
 | 41 | [Only Fans](https://open.spotify.com/track/3qsGv2tG8A8HFBkIUwk9Oa) | [Ella](https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:11 |
 | 42 | [Então Ora, Igreja](https://open.spotify.com/track/06Dt8u7ZFbnPMIWJdmY8QB) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Como o Céu Te Adora](https://open.spotify.com/album/1nx5w8zaBOoihVeszMVpGF) | 5:36 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 51 | [Promessas](https://open.spotify.com/track/0DG8rlv4qfOU2YbdttWHLy) | [Lais Souza](https://open.spotify.com/artist/1gbps42EklltqqNRUb88gx) | [Promessas](https://open.spotify.com/album/7od6KkiUWFK2Qx3iHTRunC) | 4:45 |
 | 52 | [O Protagonista](https://open.spotify.com/track/5FrLfHABHDRUvqNP8hWGCr) | [Cris Alves](https://open.spotify.com/artist/2W4yNmbDdeKdCuQSlP9H8o) | [O Protagonista](https://open.spotify.com/album/3ww6ExGunZagBV8FJRzyw4) | 2:49 |
 
-Snapshot ID: `Ab+QkAAAAAB0HRuRWrL+9E52e9YTDYK2`
+Snapshot ID: `Ab+WEgAAAACHQqfYfrk81oSCeFVyvW5t`

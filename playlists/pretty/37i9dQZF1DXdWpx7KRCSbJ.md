@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 
 > Pronto pra pool party? Vem com a gente!
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,757 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,744 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 24 | [É Problema](https://open.spotify.com/track/5gTgQBtNP08fUijxpEgmzF) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [É Problema](https://open.spotify.com/album/67GYNRw2795hr6ZlyyU1Sa) | 3:04 |
 | 25 | [Terremoto](https://open.spotify.com/track/7G2XZhDNHo7SSDWSVxC0UT) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Terremoto](https://open.spotify.com/album/7q0BEiH1SJeiPDW8xQ0v8i) | 2:26 |
 | 26 | [Dona Maria](https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre) | [Thiago Brava](https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Dona Maria](https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur) | 3:07 |
-| 27 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 |
-| 28 | [Agora Vai Sentar](https://open.spotify.com/track/0pDaqgIForVNO4jrtTxcWT) | [MC's Jhowzinho & Kadinho](https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS) | [Agora Vai Sentar](https://open.spotify.com/album/39HSKuqaxE7NH3ZeJoKqdh) | 3:48 |
+| 27 | [Agora Vai Sentar](https://open.spotify.com/track/0pDaqgIForVNO4jrtTxcWT) | [MC's Jhowzinho & Kadinho](https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS) | [Agora Vai Sentar](https://open.spotify.com/album/39HSKuqaxE7NH3ZeJoKqdh) | 3:48 |
+| 28 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 |
 | 29 | [Aí Eu Bebo \- Ao Vivo](https://open.spotify.com/track/6lK3nCiigk34SGqEjpQoqO) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Aí Eu Bebo \(ao Vivo\)](https://open.spotify.com/album/6xWyByyXTcL2MUSi0mKewj) | 2:53 |
 | 30 | [Devagarinho](https://open.spotify.com/track/70rCH90CeRGzCrVr4fSbqg) | [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Devagarinho](https://open.spotify.com/album/2zwaFYibcoqD1IQpZOJttd) | 2:24 |
 | 31 | [12 Horas](https://open.spotify.com/track/7B826fTyDa3DkjnKpOgXFo) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [12 Horas](https://open.spotify.com/album/2ook1jniY6KP7rr7xmgpcW) | 4:00 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 54 | [Pra você acreditar \- Ao vivo](https://open.spotify.com/track/2M9RqfIzNKzN1EoedTWEWz) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Pra você acreditar \(Ao vivo\)](https://open.spotify.com/album/0jY9xHuzTU6HquDlbZbU2Q) | 3:23 |
 | 55 | [Jenifer](https://open.spotify.com/track/5ixqGGFu0hdHfErdp32QwT) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [Jenifer](https://open.spotify.com/album/6YwWXICxS8FALgq3cZclsH) | 2:40 |
 | 56 | [Só Depois do Carnaval](https://open.spotify.com/track/6HtVFR6WAeJRgYtleNcEE8) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [Só Depois do Carnaval](https://open.spotify.com/album/4UPVYuREwSxXKWtAHlSz7E) | 2:46 |
-| 57 | [Solta a batida](https://open.spotify.com/track/4yjljBusKH0hgsIzHlF85T) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Solta a batida](https://open.spotify.com/album/37ENHzff2cXEOqVbJ4WjY4) | 2:49 |
-| 58 | [O Impossível](https://open.spotify.com/track/3RVylAtukXgF7xSXFn2OwA) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [O Impossível](https://open.spotify.com/album/0VrpBbLjRWbR2abs4Y7vOx) | 2:57 |
-| 59 | [Sou Favela](https://open.spotify.com/track/6VcaTmR9UhOuZD7aNNilOV) | [Ruanzinho](https://open.spotify.com/artist/3F6YQLCVjGIS7MHQnFOd61), [Dany Bala](https://open.spotify.com/artist/4cQ6t2SYfuOGQmyeXZQSkg) | [Sou Favela](https://open.spotify.com/album/3XF8959ppjZwDRouNGahxg) | 2:52 |
+| 57 | [Sou Favela](https://open.spotify.com/track/6VcaTmR9UhOuZD7aNNilOV) | [Ruanzinho](https://open.spotify.com/artist/3F6YQLCVjGIS7MHQnFOd61), [Dany Bala](https://open.spotify.com/artist/4cQ6t2SYfuOGQmyeXZQSkg) | [Sou Favela](https://open.spotify.com/album/3XF8959ppjZwDRouNGahxg) | 2:52 |
+| 58 | [Solta a batida](https://open.spotify.com/track/4yjljBusKH0hgsIzHlF85T) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Solta a batida](https://open.spotify.com/album/37ENHzff2cXEOqVbJ4WjY4) | 2:49 |
+| 59 | [O Impossível](https://open.spotify.com/track/3RVylAtukXgF7xSXFn2OwA) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [O Impossível](https://open.spotify.com/album/0VrpBbLjRWbR2abs4Y7vOx) | 2:57 |
 | 60 | [Pot\-Pourri: Outdoor / Curtindo a Vida \- Ao Vivo](https://open.spotify.com/track/2xl2TBSYbuUm46UXwPKK1g) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Tardezinha 2 \(Ao Vivo\)](https://open.spotify.com/album/3H3Pd9vGhDAp9bt3JWUgCA) | 4:03 |
 | 61 | [Permanecer \(feat\. MC G15\)](https://open.spotify.com/track/3sIMCkwUZbQbWeNOTG3ET4) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Permanecer \(feat\. MC G15\)](https://open.spotify.com/album/5w9U9duIPCVzHmgzEQWeZX) | 3:22 |
 | 62 | [Pirata e tesouro \- Ao vivo](https://open.spotify.com/track/4gOgVYsfTUNp8GifD8GI7e) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Pirata e tesouro \(Ao vivo\)](https://open.spotify.com/album/7CRx2qo53oZiaycSmsxwsm) | 3:39 |

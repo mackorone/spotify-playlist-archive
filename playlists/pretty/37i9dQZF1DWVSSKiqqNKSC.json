@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 522669,
+  "num_followers": 522728,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "Live In The USA",
+        "url": "https://open.spotify.com/album/6MtMZryAJrkwQAavMO3JJi"
+      },
+      "artists": [
+        {
+          "name": "David Calzado y su Charanga Habanera",
+          "url": "https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw"
+        }
+      ],
+      "duration_ms": 476586,
+      "name": "Lola Lola",
+      "url": "https://open.spotify.com/track/6fHZOWvumsFiRgThPknxlj"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Cuba Isla Bella",
         "url": "https://open.spotify.com/album/0ki5BFqVtshpdc2Vx3jGdc"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 284266,
       "name": "Cuba Isla Bella",
       "url": "https://open.spotify.com/track/6T9Cyj2tFiV1epQbQm0Gb2"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Live In The USA",
-        "url": "https://open.spotify.com/album/6MtMZryAJrkwQAavMO3JJi"
-      },
-      "artists": [
-        {
-          "name": "David Calzado y su Charanga Habanera",
-          "url": "https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw"
-        }
-      ],
-      "duration_ms": 476586,
-      "name": "Lola Lola",
-      "url": "https://open.spotify.com/track/6fHZOWvumsFiRgThPknxlj"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -547,18 +547,18 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
+        "name": "Bueno",
+        "url": "https://open.spotify.com/album/3TdBztL3zrCPNaAHP7WKDg"
       },
       "artists": [
         {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
         }
       ],
-      "duration_ms": 176733,
-      "name": "Como Fue",
-      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
+      "duration_ms": 248586,
+      "name": "Tus Luces Sobre Mi",
+      "url": "https://open.spotify.com/track/7AdPaRTnk63nx1E8J6XMr6"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -579,18 +579,18 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Bueno",
-        "url": "https://open.spotify.com/album/3TdBztL3zrCPNaAHP7WKDg"
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
       },
       "artists": [
         {
-          "name": "Descemer Bueno",
-          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
         }
       ],
-      "duration_ms": 248586,
-      "name": "Tus Luces Sobre Mi",
-      "url": "https://open.spotify.com/track/7AdPaRTnk63nx1E8J6XMr6"
+      "duration_ms": 176733,
+      "name": "Como Fue",
+      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
     },
     {
       "added_at": "2025-03-07 06:00:25",

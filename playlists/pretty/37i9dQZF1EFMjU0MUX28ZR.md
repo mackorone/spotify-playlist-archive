@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 62 | [GRUDGE](https://open.spotify.com/track/3F9lkDd91qdLnhkVtZxOGo) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 2:12 |
 | 63 | [Strawberry Water](https://open.spotify.com/track/1VUDUqZizxZcgX6LZL8Mfp) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Problems](https://open.spotify.com/album/0cIfc3rnu2iEB4e7rRu0k3) | 2:20 |
 | 64 | [OBSESSED](https://open.spotify.com/track/3MVuuSJqmJvBNbDYi74O8v) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 2:25 |
-| 65 | [Planetary](https://open.spotify.com/track/1QMG95ifE5bmg3tC39WaYv) | [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f), [Argonaut&Wasp](https://open.spotify.com/artist/4egKcLg1EUyoap62usMj60) | [Planetary](https://open.spotify.com/album/0y2FFwmkhex0NlkVHIbZYE) | 4:55 |
-| 66 | [hot shit](https://open.spotify.com/track/0TCvlopfjeObjLxIsZ0Lvh) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:55 |
+| 65 | [hot shit](https://open.spotify.com/track/0TCvlopfjeObjLxIsZ0Lvh) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:55 |
+| 66 | [Planetary](https://open.spotify.com/track/1QMG95ifE5bmg3tC39WaYv) | [Evan Blair](https://open.spotify.com/artist/0u2WtTXW4ljbqs0xe2Yn4f), [Argonaut&Wasp](https://open.spotify.com/artist/4egKcLg1EUyoap62usMj60) | [Planetary](https://open.spotify.com/album/0y2FFwmkhex0NlkVHIbZYE) | 4:55 |
 | 67 | [you're a liar \(you love me\)](https://open.spotify.com/track/1LI8rDhxrRe9iQLECjntwG) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [you're a liar \(you love me\)](https://open.spotify.com/album/3kpCZBJAjvZn4UihCRDdxi) | 2:54 |
 | 68 | [pretty years](https://open.spotify.com/track/5TBkWxfdtylJzNmwXt9Gm9) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [pretty years](https://open.spotify.com/album/3Cc93a6n5rYgFDi7oTND03) | 2:59 |
 | 69 | [Nothing But Love](https://open.spotify.com/track/6w8hzcNgqAxCzzPd796PAg) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Jay Buchanan](https://open.spotify.com/artist/4yxxlbLkkrnChV7826Cxv7) | [The Great Electronic Swindle](https://open.spotify.com/album/2scV487TMD9hf0uSXcxwP3) | 3:52 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 107 | [Tactical](https://open.spotify.com/track/0K4medaHHc6OjEEgBy2qHn) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 6:31 |
 | 108 | [Dojo](https://open.spotify.com/track/6EdpnaVhFJZGkI0th2SQwW) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 5:03 |
 
-Snapshot ID: `Ab+QcgAAAACYI+ZflD27SETg3UdD2Exu`
+Snapshot ID: `Ab+V9AAAAADtoFmpZ0ghVFWCEKaJPG9B`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmpXj4o6Fmt.md) - [plain]
 
 > go back in time and \(re\) discover these gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,679 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,695 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmpXj4o6Fmt.md) - [plain]
 | 44 | [Luna](https://open.spotify.com/track/7sCu8xWNkxfzjoZU6aQSf1) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:33 |
 | 45 | [Perfidia](https://open.spotify.com/track/0eA05aCSWWJIBd0ygePgTK) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Los Indios Tabajaras y los Panchos, Vol\. 1](https://open.spotify.com/album/084OeFEJkQUFmMGgJtpRGM) | 2:52 |
 | 46 | [Si se que te tengo a ti](https://open.spotify.com/track/3sCArErjYD4mjbycnNO49O) | [Nek](https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ) | [Entre tu y yo](https://open.spotify.com/album/6RPHUA73IxKl4WZx8kJp2p) | 3:48 |
-| 47 | [Madrid Amanecio](https://open.spotify.com/track/7qximKkYyLP5lBAFBOQfgX) | [La Mosca](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Buenos Muchachos](https://open.spotify.com/album/5a1eBYCKsIcd5yIHtKBUzM) | 3:47 |
-| 48 | [La casa azul](https://open.spotify.com/track/6hKJOrPCJhG3iKM3RTPfR0) | [Duncan Dhu](https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7) | [Supernova](https://open.spotify.com/album/5FQ5rAaWi3lSfblD13jqlF) | 3:50 |
+| 47 | [La casa azul](https://open.spotify.com/track/6hKJOrPCJhG3iKM3RTPfR0) | [Duncan Dhu](https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7) | [Supernova](https://open.spotify.com/album/5FQ5rAaWi3lSfblD13jqlF) | 3:50 |
+| 48 | [Madrid Amanecio](https://open.spotify.com/track/7qximKkYyLP5lBAFBOQfgX) | [La Mosca](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Buenos Muchachos](https://open.spotify.com/album/5a1eBYCKsIcd5yIHtKBUzM) | 3:47 |
 | 49 | [No Necesito](https://open.spotify.com/track/63YC9RjXLS1TKPyi4uqBUJ) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [La Pipa De La Paz](https://open.spotify.com/album/5fpkDKTxLSbDKUXz6FtKmK) | 3:44 |
 | 50 | [Buscando la Manera](https://open.spotify.com/track/0aopcVm94e8BPN9bBUydnn) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 2:58 |
 

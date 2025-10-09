@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 375 songs - 21 hr 35 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 379 songs - 21 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -383,5 +383,9 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 373 | [フワライドウ \(feat\. 初音ミク\)](https://open.spotify.com/track/3dVN7kgkeUZG3pK2PxvJQJ) | [Adeliae](https://open.spotify.com/artist/1WMnnczuFZmRuvrprv9fjA), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [フワライドウ](https://open.spotify.com/album/2QaYjVPp5BfdNDHvee6wpe) | 2:38 |
 | 374 | [Therefor you and me](https://open.spotify.com/track/4wVhDSjVL5akvPE6Or1fll) | [si\-o](https://open.spotify.com/artist/454bXMSV98MTruU5zHWa5x) | [Tadano Best](https://open.spotify.com/album/5SkWy9S4pUINaPZpRA9FpE) | 3:00 |
 | 375 | [Vampire Requiem](https://open.spotify.com/track/57xhHuhjhiqqDptYzR0OZO) | [Kaya](https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg) | [GOTHIC\(A\-type\)](https://open.spotify.com/album/1pruXAHSYCW3bSCEC6DSHT) | 4:31 |
+| 376 | [ふこうぶつ](https://open.spotify.com/track/7abGCbVHOoTyIgVOG2Ggue) | [WAKUSEI ABNORMAL](https://open.spotify.com/artist/1MeQhADFeadgcic2GpcND1) | [私は怒りでできている](https://open.spotify.com/album/2gAfA53QQF1h82B5xo11da) | 2:43 |
+| 377 | [夜になったら耿十八は](https://open.spotify.com/track/67m8OAMRKgo4zhTFoKinW3) | [Peg](https://open.spotify.com/artist/2nXscFBFNh9ryugWGdW5po) | [Immortal Club](https://open.spotify.com/album/3F8Y95zceuJs2RWgn5VQwS) | 3:37 |
+| 378 | [心中なら倉敷で](https://open.spotify.com/track/7suTW2CMSgQdioqvEvaALy) | [SLAVE.V\-V\-R](https://open.spotify.com/artist/1onKSSP12ag3LqViv4sBzR), [裏命](https://open.spotify.com/artist/3dYIVgbOkyGZpkwCZzYAvs) | [音楽的同位体 裏命 1st COMPILATION ALBUM パラノーマル \(vol.1 残響のパラノーマル\)](https://open.spotify.com/album/3n2dujCufrAXLzL8ABdRF6) | 3:12 |
+| 379 | [QUEEN](https://open.spotify.com/track/32zpHDchUY83w80C8mMtOs) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [QUEEN](https://open.spotify.com/album/4abbUX3gfMhHSN0gDrchyc) | 2:21 |
 
-Snapshot ID: `AAAJbIE+jD40XhlhvgloJ+JwPzeodHqh`
+Snapshot ID: `AAAJcBWLXQ/jm0cTW9nQvUVBa+31yky3`

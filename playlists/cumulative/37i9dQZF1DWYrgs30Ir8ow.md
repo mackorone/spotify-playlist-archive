@@ -4,7 +4,7 @@
 
 > Altijd frisse hits! Cover: Tate McRae
 
-1,107 songs - 2 day 5 hr 53 min
+1,108 songs - 2 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -992,6 +992,7 @@
 | [Truth In The Lies \(feat\. Lil Durk\)](https://open.spotify.com/track/6jx0JZB3f0Cc2jjdldYaDb) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 2:22 | 2025-02-05 | 2025-03-28 |
 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 | 2023-12-08 | 2024-01-30 |
 | [Tuesday](https://open.spotify.com/track/7zPOZujiZy4q0RYIx7mKKh) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Tuesday](https://open.spotify.com/album/0QvhqTigV3PbcHT93q3Sfn) | 2:54 | 2024-02-02 | 2024-03-01 |
+| [Tweedehands](https://open.spotify.com/track/6WIDTTNVtn6u93JT6hYBUK) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Tweedehands](https://open.spotify.com/album/6kB1Fzxta2yUSkouT9nBwG) | 2:19 | 2025-10-08 |  |
 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 | 2025-02-13 | 2025-04-02 |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-04-01 | 2025-05-17 |
 | [Tyar’ En Waka](https://open.spotify.com/track/5O84kW2rMQKgI8BlQpP9Z1) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Tyar’ En Waka](https://open.spotify.com/album/2ZiSIItlmQdWLNNoThRETb) | 2:41 | 2024-08-01 | 2024-10-04 |

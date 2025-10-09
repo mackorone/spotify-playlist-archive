@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/25eAhcwuxdBgOJmzbuttR0.md) - [plain]
 
 > I&\#x27;M ANGSTY!! I&\#x27;M ANGSTY
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 7 likes - 400 songs - 1 day 3 hr 19 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 7 likes - 401 songs - 1 day 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -408,5 +408,6 @@ pretty - [cumulative](/playlists/cumulative/25eAhcwuxdBgOJmzbuttR0.md) - [plain]
 | 398 | [Redlined](https://open.spotify.com/track/6syVm5S71Wj7IrqcupFidR) | [erikas invitation](https://open.spotify.com/artist/395gAKwrv9y7cwSOIcWDXk) | [Redlined](https://open.spotify.com/album/2BJeApv4NiZ4SfSvzlkVGT) | 4:53 |
 | 399 | [Take It On the Run](https://open.spotify.com/track/5gys5nzVQIYhgHIfiOJYva) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Hi Infidelity \(30th Anniversary Edition\)](https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N) | 3:59 |
 | 400 | [Death Of An Executioner](https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 4:27 |
+| 401 | [milk of the madonna](https://open.spotify.com/track/2463q6UN8BIDfeVI379qFz) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 4:08 |
 
-Snapshot ID: `AAABool0veBlHsdStAxdWNNpK1TSFew2`
+Snapshot ID: `AAABo1f3JzwlouQ7ia5d7Nuk8NXQuvOr`

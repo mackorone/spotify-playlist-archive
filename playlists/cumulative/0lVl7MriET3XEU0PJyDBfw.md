@@ -4,7 +4,7 @@
 
 > Only the best Tech House 🔥 Bassline Therapy Radio on SoundCloud
 
-860 songs - 1 day 21 hr 32 min
+861 songs - 1 day 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [American Spirit](https://open.spotify.com/track/19lpBpvf54LlaBkmIouTaa) | [ANATTA](https://open.spotify.com/artist/5YhPaiXN8biK8is4uCvcJ6) | [American Spirit](https://open.spotify.com/album/6K9NHmZMlmSkOIckF3l8RN) | 2:36 | 2024-08-19 | 2024-09-05 |
 | [Analog Ascent](https://open.spotify.com/track/1HBiN4vgEq75YD0HFvhM7F) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx) | [Vintage Culture & Friends, Vol\. 6 \(Pt\. II\)](https://open.spotify.com/album/4oApPLzaCn1XO7689oABYP) | 3:17 | 2025-01-05 | 2025-03-16 |
 | [Animal](https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Datti](https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q) | [Animal](https://open.spotify.com/album/0AneBzWKn1gf3K5oK6t9OD) | 3:13 | 2025-04-19 | 2025-07-05 |
+| [Another Life](https://open.spotify.com/track/1NxTZ2sybEs8WAAe7TYGCZ) | [DJ CUTOFF](https://open.spotify.com/artist/26P8jJdCN019qXZXbowW3v) | [Another Life](https://open.spotify.com/album/0RmLh9OPKb6oAs8WZ3tpcm) | 2:58 | 2025-10-08 |  |
 | [Another World](https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Another World](https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ) | 2:24 | 2024-09-21 | 2024-09-23 |
 | [Appetite](https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Appetite](https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo) | 3:47 | 2025-07-18 | 2025-10-01 |
 | [As The Beat Goes Onnn](https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [As The Beat Goes Onnn](https://open.spotify.com/album/0VvJHxPuQ1PvnOU3iXbjN6) | 2:39 | 2024-09-02 | 2024-10-28 |

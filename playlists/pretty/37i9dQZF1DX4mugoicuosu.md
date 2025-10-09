@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mugoicuosu.md) - [plain]
 
 > Posłuchaj muzyki z Nowego Rozdania: Rhythm + Flow Polska\. Oglądaj wszystkie odcinki w Netflixie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,948 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,949 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

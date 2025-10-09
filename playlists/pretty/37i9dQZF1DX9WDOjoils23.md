@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,625 likes - 50 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,667 likes - 50 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 27 | [Tu Na Bhuldi](https://open.spotify.com/track/5XB0kvi5aRhIkdZukegVkx) | [Jelly](https://open.spotify.com/artist/1ZTo2Iu8NpzTUzrxfuTSrQ), [Sachin Ahuja](https://open.spotify.com/artist/4QTKE90lhb8DlGKB9QqK3h) | [Dhola \(The Sweetheart\)](https://open.spotify.com/album/6i2mTMica3getExPlNOSMs) | 6:20 |
 | 28 | [Raat Chanani Maen Turan](https://open.spotify.com/track/1zgIrkuKeSrVLnTGioQmux) | [Deedar Singh Pardesi](https://open.spotify.com/artist/4NACb6Hrl23pBf62alPMzu) | [Ek Buta Ambi Da](https://open.spotify.com/album/7JPCcT3dRCHKueWHrrgF5i) | 4:08 |
 | 29 | [Uchiyaan Lambiyaan](https://open.spotify.com/track/0IafwsYaah6ee0mY9FLOiO) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Uchiyaan Lambiyaan](https://open.spotify.com/album/43MG1gcCk4wp2ULa0Fl5xd) | 8:45 |
-| 30 | [Ruh Le Gaya Dil da Jani](https://open.spotify.com/track/1NwvqenZqqhO2ibwEUTAbB) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Tarranum Naaz](https://open.spotify.com/artist/3i77C8F5q6oEiuRB80xgye) | [Dil Mera Dol Da](https://open.spotify.com/album/0St1cPJ8E8BOr4ZR48KxAr) | 9:08 |
-| 31 | [DUMA DUM MAST QALANDER \- Rebooted & Revved Up](https://open.spotify.com/track/6uVX6rVtBCNk648wmMtWOU) | [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y), [Hashmat Sultana](https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok) | [DUMA DUM MAST QALANDER \(Rebooted & Revved Up\)](https://open.spotify.com/album/0ryfzVTE1efrUdiRmnR5eI) | 4:09 |
+| 30 | [DUMA DUM MAST QALANDER \- Rebooted & Revved Up](https://open.spotify.com/track/6uVX6rVtBCNk648wmMtWOU) | [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y), [Hashmat Sultana](https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok) | [DUMA DUM MAST QALANDER \(Rebooted & Revved Up\)](https://open.spotify.com/album/0ryfzVTE1efrUdiRmnR5eI) | 4:09 |
+| 31 | [Ruh Le Gaya Dil da Jani](https://open.spotify.com/track/1NwvqenZqqhO2ibwEUTAbB) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Tarranum Naaz](https://open.spotify.com/artist/3i77C8F5q6oEiuRB80xgye) | [Dil Mera Dol Da](https://open.spotify.com/album/0St1cPJ8E8BOr4ZR48KxAr) | 9:08 |
 | 32 | [Allah Mola](https://open.spotify.com/track/1XYsXVcd5to0wAuIdrzGY4) | [Sultana](https://open.spotify.com/artist/5Y1AqsKrn4ZFw118BUwEfE) | [Allah Mola](https://open.spotify.com/album/6d2xxrqFIldOccXZCxHLQj) | 3:31 |
 | 33 | [Giya Piplan da Dhal](https://open.spotify.com/track/3zTutpd4Y5GjSEr5veg0rp) | [Deedar Singh Pardesi](https://open.spotify.com/artist/4NACb6Hrl23pBf62alPMzu) | [Ek Buta Ambi Da](https://open.spotify.com/album/7JPCcT3dRCHKueWHrrgF5i) | 7:11 |
 | 34 | [Ghamaan Di Raat Lammi Ae](https://open.spotify.com/track/6KhkY86gENhVTXcVfGUxEJ) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Ichhabal Modern Punjabi Poerty](https://open.spotify.com/album/4lNGQs8i9dFA2Aso4NZ5cp) | 3:49 |

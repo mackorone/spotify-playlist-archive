@@ -2,7 +2,7 @@
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> We introduce new and exciting artists\. New RADAR BNLX\-artist: <a href="sspotify:artist:67Hs92fNnRAgFBfL6EePwb">Aaron Blommaert</a>
+> We introduce new and exciting artists\. New RADAR BNLX\-artist: <a href="spotify:artist:67Hs92fNnRAgFBfL6EePwb">Aaron Blommaert</a>
 
 220 songs - 11 hr 49 min
 

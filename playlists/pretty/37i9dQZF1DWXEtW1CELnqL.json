@@ -1,6 +1,6 @@
 {
   "description": "Laisse go.",
-  "num_followers": 83860,
+  "num_followers": 83918,
   "original_name": "Balec !",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-06-24 11:56:31",
       "album": {
-        "name": "Jar",
-        "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
-      },
-      "artists": [
-        {
-          "name": "Superheaven",
-          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
-        }
-      ],
-      "duration_ms": 249514,
-      "name": "Youngest Daughter",
-      "url": "https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ"
-    },
-    {
-      "added_at": "2025-06-24 11:56:31",
-      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 221450,
       "name": "Starburster",
       "url": "https://open.spotify.com/track/09ttHg3ZNVgDlYBZa1ZBw0"
+    },
+    {
+      "added_at": "2025-06-24 11:56:31",
+      "album": {
+        "name": "Jar",
+        "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
+      },
+      "artists": [
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "duration_ms": 249514,
+      "name": "Youngest Daughter",
+      "url": "https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ"
     },
     {
       "added_at": "2025-06-24 11:56:31",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-06-24 11:56:31",
       "album": {
-        "name": "From Zero (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 196112,
-      "name": "Unshatter",
-      "url": "https://open.spotify.com/track/6r2JE3s7XVnGfwiWCymyWf"
-    },
-    {
-      "added_at": "2025-06-24 11:56:31",
-      "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 233141,
       "name": "I CARE",
       "url": "https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC"
+    },
+    {
+      "added_at": "2025-06-24 11:56:31",
+      "album": {
+        "name": "From Zero (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 196112,
+      "name": "Unshatter",
+      "url": "https://open.spotify.com/track/6r2JE3s7XVnGfwiWCymyWf"
     },
     {
       "added_at": "2025-06-24 11:56:31",

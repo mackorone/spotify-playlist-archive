@@ -711,6 +711,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Pierwsza P\u0142yta",
+        "url": "https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ"
+      },
+      "artists": [
+        {
+          "name": "Ania Szlagowska",
+          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
+        }
+      ],
+      "duration_ms": 202069,
+      "name": "mleko i mood",
+      "url": "https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Cudze rady psuj\u0105 mi \u017cycie",
         "url": "https://open.spotify.com/album/72gEeFKWNw8mqXxdiscM20"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 237482,
       "name": "Zima",
       "url": "https://open.spotify.com/track/1lpDXgomCsKmXUl2yRRaLH"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Pierwsza P\u0142yta",
-        "url": "https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ"
-      },
-      "artists": [
-        {
-          "name": "Ania Szlagowska",
-          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
-        }
-      ],
-      "duration_ms": 202069,
-      "name": "mleko i mood",
-      "url": "https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Critique of Swing in Two Parts, Pts. 1 & 2",
+        "url": "https://open.spotify.com/album/5RVSw8lvyoBB3gPqRMSExg"
+      },
+      "artists": [
+        {
+          "name": "Pianohooligan",
+          "url": "https://open.spotify.com/artist/0ySx9kLnz7yNsMsNyNq9XZ"
+        },
+        {
+          "name": "Piotr Orzechowski",
+          "url": "https://open.spotify.com/artist/7giTy2KusvGb5wNhjoBpOV"
+        }
+      ],
+      "duration_ms": 865922,
+      "name": "Critique of Swing in Two Parts, Pt. 1",
+      "url": "https://open.spotify.com/track/6otl8jyQ2wV1UoweSV7bj2"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "I Love Music",
         "url": "https://open.spotify.com/album/3ax69VaksMlVgF40ODHaGj"
       },
@@ -1343,26 +1363,6 @@
       "duration_ms": 443446,
       "name": "Tatras",
       "url": "https://open.spotify.com/track/4wqezzclMc5BojbtQp0b8r"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Critique of Swing in Two Parts, Pts. 1 & 2",
-        "url": "https://open.spotify.com/album/5RVSw8lvyoBB3gPqRMSExg"
-      },
-      "artists": [
-        {
-          "name": "Pianohooligan",
-          "url": "https://open.spotify.com/artist/0ySx9kLnz7yNsMsNyNq9XZ"
-        },
-        {
-          "name": "Piotr Orzechowski",
-          "url": "https://open.spotify.com/artist/7giTy2KusvGb5wNhjoBpOV"
-        }
-      ],
-      "duration_ms": 865922,
-      "name": "Critique of Swing in Two Parts, Pt. 1",
-      "url": "https://open.spotify.com/track/6otl8jyQ2wV1UoweSV7bj2"
     },
     {
       "added_at": "2025-04-06 08:27:45",

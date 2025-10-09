@@ -1049,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "BAD",
+        "url": "https://open.spotify.com/album/4Wptb8HKcBex0oHHOj9xvn"
+      },
+      "artists": [
+        {
+          "name": "KALISMOKE",
+          "url": "https://open.spotify.com/artist/3aWxBqGG0yWQEgsUMAric6"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96140,
+      "name": "BAD - slowed",
+      "url": "https://open.spotify.com/track/5AQGlPeKlAdwUHQtvKwpRg"
+    },
+    {
+      "album": {
         "name": "Bad Choices",
         "url": "https://open.spotify.com/album/06lzphd0buFyApdQvf5W6h"
       },
@@ -1754,7 +1772,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 162857,
       "name": "BOWL OF NAILS",
       "url": "https://open.spotify.com/track/1DMRH6Bbf36ra430p0XQKV"
@@ -2494,7 +2512,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 185142,
       "name": "Circadian Riddim",
       "url": "https://open.spotify.com/track/2U4GEflLkxTE4zdcHXseAO"
@@ -3914,7 +3932,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 252800,
       "name": "ECLIPSE",
       "url": "https://open.spotify.com/track/2dYqaLPJVMxxEI6rDMk4of"
@@ -5518,7 +5536,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 183428,
       "name": "Gods",
       "url": "https://open.spotify.com/track/3o5mNSJZimpo1bWyVR5dQE"
@@ -5816,7 +5834,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 159600,
       "name": "Hand Tattoo",
       "url": "https://open.spotify.com/track/3KrmBmHVFH2pSM6vr5DOYY"
@@ -6826,7 +6844,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 189418,
       "name": "IMPULSE / WEAVER",
       "url": "https://open.spotify.com/track/34BthUAKPK9inyln7MVRum"
@@ -7806,6 +7824,24 @@
       "duration_ms": 212500,
       "name": "LED Poisoning",
       "url": "https://open.spotify.com/track/4WmCTMxkCHZYXpIiqds8pj"
+    },
+    {
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/7Bx1kLJUAkrohP4AByH52X"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233624,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/24N0aCjxx9FOQUQG6Mt08F"
     },
     {
       "album": {
@@ -9843,6 +9879,24 @@
     },
     {
       "album": {
+        "name": "NOS DA ENERGIA",
+        "url": "https://open.spotify.com/album/4FHwDhl83OedSWVgNCDEzA"
+      },
+      "artists": [
+        {
+          "name": "KALISMOKE",
+          "url": "https://open.spotify.com/artist/3aWxBqGG0yWQEgsUMAric6"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111196,
+      "name": "NOS DA ENERGIA - slowed",
+      "url": "https://open.spotify.com/track/6E0bL9Ile3Gr7OOKWdvRqD"
+    },
+    {
+      "album": {
         "name": "Not Bad",
         "url": "https://open.spotify.com/album/4kYHx7TFyJWJkODhH9w9EJ"
       },
@@ -10262,7 +10316,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 178285,
       "name": "Pants",
       "url": "https://open.spotify.com/track/1D3zpgixWQrSsNPeKKrT9U"
@@ -10360,7 +10414,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 127384,
       "name": "PARTICLE",
       "url": "https://open.spotify.com/track/13kA9MnBtslzNlUUDge3DD"
@@ -11318,6 +11372,24 @@
       "duration_ms": 169001,
       "name": "RiCK (feat. Warhol.SS)",
       "url": "https://open.spotify.com/track/6qBAhW4zN4l7BzjkfT8bqD"
+    },
+    {
+      "album": {
+        "name": "Ride or Die",
+        "url": "https://open.spotify.com/album/5mgSraEPLgRc4FK6qfCeuu"
+      },
+      "artists": [
+        {
+          "name": "VENDETTA",
+          "url": "https://open.spotify.com/artist/2uqhiBaRM51XTEy3beCHJj"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/6fLDkuvPaheZlFlrdeSyJI"
     },
     {
       "album": {

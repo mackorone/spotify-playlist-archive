@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-516 songs - 1 day 2 hr 4 min
+517 songs - 1 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Blood, Sweat & Tears \(with Bas & Black Sherif feat\. Kel\-P\)](https://open.spotify.com/track/6G45nT1iMlP1HdJ0MCTuDU) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [Blood, Sweat & Tears \(with Bas & Black Sherif feat\. Kel\-P\)](https://open.spotify.com/album/5MoByp7KkxmWqP0qTICrTV) | 3:42 | 2023-02-23 | 2023-06-03 |
 | [Body](https://open.spotify.com/track/1Ut1vSnb0hM58jFbPVhZaC) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Body](https://open.spotify.com/album/17voJtUJhl79b5WgXT0ttE) | 2:06 | 2023-06-16 | 2023-06-18 |
 | [Born Leader](https://open.spotify.com/track/6tgW4WT1IUnKKbUATVcZfm) | [Stig da Artist](https://open.spotify.com/artist/7sEmKnf9Wp6NPOpMniFYpD), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Davido](https://open.spotify.com/artist/1ALSdJg7rTlST5DIOjDO8b) | [Born Leader](https://open.spotify.com/album/6K8Gng28hRABEDohP2TkRw) | 4:07 | 2023-04-20 | 2023-05-05 |
+| [Bounce](https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Sanity](https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry) | 2:20 | 2025-10-08 |  |
 | [Break Fast Cruise Beat](https://open.spotify.com/track/1zClq7VnMvfXbJCWSHHvFq) | [DJ CORA](https://open.spotify.com/artist/5vPNT5JKbOOJuwdQ8dKOAc) | [Break Fast Cruise Beat](https://open.spotify.com/album/5djbahNtBZLdhiKrwrVjCe) | 3:15 | 2022-04-14 | 2022-07-29 |
 | [Bright Future](https://open.spotify.com/track/0aZTyzxgWS4GGXw2kh0t7R) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Bright Future](https://open.spotify.com/album/1mAh2El18qMQk03NOOq0K9) | 3:31 | 2023-03-17 | 2023-03-29 |
 | [Buga \(Lo Lo Lo\)](https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Buga \(Lo Lo Lo\)](https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h) | 3:03 | 2022-05-05 | 2023-11-10 |
@@ -419,7 +420,7 @@
 | [Shakira \(feat\. Prince Bright\)](https://open.spotify.com/track/64i1xYb6aaVL3DQu3bmW8I) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [4Play](https://open.spotify.com/album/6wpzlNHeY8sffFCEOBR7ep) | 2:28 | 2022-09-23 | 2022-12-14 |
 | [Shako](https://open.spotify.com/track/4UlaNm4IdWyYGwxZB56G2P) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Shako](https://open.spotify.com/album/2BjbcRSIlUI8kewCEjZ5qP) | 2:52 | 2021-09-03 | 2022-07-28 |
 | [Shalaye](https://open.spotify.com/track/4CQ4Os8gfJXjs8P32rOHlu) | [Dangbana Republik](https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Shalaye](https://open.spotify.com/album/6PwpnAAsu5jL3io4dnshFR) | 2:25 | 2024-11-15 | 2024-12-19 |
-| [Sharpally](https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sharpally](https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg) | 2:43 | 2023-07-20 |  |
+| [Sharpally](https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sharpally](https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg) | 2:43 | 2023-07-20 | 2025-10-09 |
 | [Shaye](https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Shaye](https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH) | 2:49 | 2022-07-22 | 2023-03-19 |
 | [Shey Normal](https://open.spotify.com/track/4yOgsbtRZQsiOkhu4AdJyD) | [Paul CleverLee](https://open.spotify.com/artist/2OmRPEQ0DmK6myhfVFKLuY) | [Shey Normal](https://open.spotify.com/album/7Frp4ja9CkYK68S4bECDgA) | 1:59 | 2023-05-19 | 2023-05-27 |
 | [Shu\-Peru](https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Shu\-Peru](https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps) | 2:19 | 2023-05-11 | 2024-10-19 |

@@ -4,7 +4,7 @@
 
 > Fenomenale pallavolo azzurra maschile, di nuovo campioni del mondo 🏆
 
-390 songs - 20 hr 27 min
+391 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,7 @@
 | [ONLYFANS \(feat\. MamboLosco\)](https://open.spotify.com/track/2RrldylvtjefqddhIONP7x) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [ONLYFANS \(feat\. MamboLosco\)](https://open.spotify.com/album/1h3tfAsHDKUIWnEb4Cedn6) | 2:23 | 2022-05-03 | 2022-07-29 |
 | [Over 2,5 \(feat\. Tedua & Rkomi\)](https://open.spotify.com/track/2hJURAyTFMZM9dOQEGrwIW) | [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [VT2M](https://open.spotify.com/album/2p3ziJelLL0XuQzYFTq0bh) | 2:51 | 2023-09-20 | 2023-09-26 |
 | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg) | 2:35 | 2024-08-01 |  |
-| [Panda](https://open.spotify.com/track/275a9yzwGB6ncAW4SxY7q3) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Panda](https://open.spotify.com/album/1k3BLTc4VZ7beRBXL1SPN6) | 4:07 | 2024-08-07 |  |
+| [Panda](https://open.spotify.com/track/275a9yzwGB6ncAW4SxY7q3) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Panda](https://open.spotify.com/album/1k3BLTc4VZ7beRBXL1SPN6) | 4:07 | 2024-08-07 | 2025-10-09 |
 | [Paprika](https://open.spotify.com/track/7kS2AVRk5Yj6BTj8PyJFfC) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Paprika](https://open.spotify.com/album/2y3nSOKzHqCC6CDk4juId6) | 2:28 | 2024-11-07 | 2024-12-13 |
 | [Paradiso Artificiale \(feat\. Baby Gang & Kid Yugi\)](https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 2:42 | 2023-09-20 | 2024-08-13 |
 | [PARTO NATURALE](https://open.spotify.com/track/0irGvCfIUGgbSSPsPIk72f) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [PARTO NATURALE](https://open.spotify.com/album/7jogdPB6uAARTKOoygqpom) | 2:16 | 2025-09-19 | 2025-10-04 |
@@ -335,6 +335,7 @@
 | [Still D.R.E.](https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 4:30 | 2022-07-04 |  |
 | [Stronger](https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 5:11 | 2022-07-04 | 2024-04-19 |
 | [Stronger](https://open.spotify.com/track/4y6c5vMzKKM3KsMbHtjKx5) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation \(UK Version\)](https://open.spotify.com/album/0EXLFY4NFNx4FlpAlFO7ly) | 5:11 | 2025-07-21 |  |
+| [superstar](https://open.spotify.com/track/4hFt3Ht6b9OLsesqx51aq1) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [superstar](https://open.spotify.com/album/2r7vK3RnYfofnAkMruYhSI) | 2:49 | 2025-10-06 |  |
 | [Swimming Pools \(Drank\)](https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Swimming Pools \(Drank\)](https://open.spotify.com/album/2XPrwlaAHHXnJzP9tBcIzH) | 4:07 | 2025-07-21 |  |
 | [SWISH](https://open.spotify.com/track/55GiOwtxNajXVbpjjIzMnD) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [SWISH](https://open.spotify.com/album/4RH1KjpPQxqtOTyV6WikPh) | 3:14 | 2022-07-04 | 2024-08-02 |
 | [Syrup](https://open.spotify.com/track/1CVw4Qr8LTapyiovASUpff) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Syrup](https://open.spotify.com/album/5S1n1Vxz7yyKPhwGzy2d37) | 3:08 | 2023-09-15 | 2024-07-25 |

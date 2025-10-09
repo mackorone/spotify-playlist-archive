@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2599406,
+  "num_followers": 2599379,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,26 @@
     {
       "added_at": "2025-10-03 04:00:44",
       "album": {
+        "name": "Stars Will Align",
+        "url": "https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 234366,
+      "name": "Stars Will Align",
+      "url": "https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs"
+    },
+    {
+      "added_at": "2025-10-03 04:00:44",
+      "album": {
         "name": "Golden [David Guetta REM/X (from the Netflix film KPop Demon Hunters)]",
         "url": "https://open.spotify.com/album/5DLI2kMdzrauXjS5fB3OFv"
       },
@@ -923,26 +943,6 @@
     {
       "added_at": "2025-10-03 04:00:44",
       "album": {
-        "name": "Stars Will Align",
-        "url": "https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 234366,
-      "name": "Stars Will Align",
-      "url": "https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs"
-    },
-    {
-      "added_at": "2025-10-03 04:00:44",
-      "album": {
         "name": "Same Thing",
         "url": "https://open.spotify.com/album/0YXGVn9prM1CoWIiZNGfyL"
       },
@@ -959,26 +959,6 @@
       "duration_ms": 115919,
       "name": "Same Thing",
       "url": "https://open.spotify.com/track/6XMNNNDOnkTXSh567RaGsb"
-    },
-    {
-      "added_at": "2025-10-03 04:00:44",
-      "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 197549,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8"
     },
     {
       "added_at": "2025-10-03 04:00:44",
@@ -1007,22 +987,22 @@
     {
       "added_at": "2025-10-03 04:00:44",
       "album": {
-        "name": "Told You So",
-        "url": "https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H"
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
         },
         {
-          "name": "Jex",
-          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
         }
       ],
-      "duration_ms": 187031,
-      "name": "Told You So",
-      "url": "https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"
+      "duration_ms": 197549,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8"
     },
     {
       "added_at": "2025-10-03 04:00:44",
@@ -1043,6 +1023,26 @@
       "duration_ms": 165909,
       "name": "Get Busy - Odd Mob Club Mix",
       "url": "https://open.spotify.com/track/6u6vaQoR0IXCWRSOP7h7D6"
+    },
+    {
+      "added_at": "2025-10-03 04:00:44",
+      "album": {
+        "name": "Told You So",
+        "url": "https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Jex",
+          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
+        }
+      ],
+      "duration_ms": 187031,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"
     },
     {
       "added_at": "2025-10-03 04:00:44",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2025-10-03 04:00:44",
       "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
+    },
+    {
+      "added_at": "2025-10-03 04:00:44",
+      "album": {
         "name": "Melodia",
         "url": "https://open.spotify.com/album/5ibwloBOv2GUuh8TKVllmL"
       },
@@ -1159,26 +1179,6 @@
       "duration_ms": 183636,
       "name": "Melodia",
       "url": "https://open.spotify.com/track/0G6r9pghzSm8gGfgV64pHn"
-    },
-    {
-      "added_at": "2025-10-03 04:00:44",
-      "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Nate Traveller",
-          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
     },
     {
       "added_at": "2025-10-03 04:00:44",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2025-10-03 04:00:44",
       "album": {
+        "name": "leavemealone",
+        "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 222784,
+      "name": "leavemealone",
+      "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
+    },
+    {
+      "added_at": "2025-10-03 04:00:44",
+      "album": {
         "name": "Tarantella",
         "url": "https://open.spotify.com/album/0nxNoLQWFwsRqTfLh7R0sq"
       },
@@ -1351,26 +1371,6 @@
     {
       "added_at": "2025-10-03 04:00:44",
       "album": {
-        "name": "leavemealone",
-        "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 222784,
-      "name": "leavemealone",
-      "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
-    },
-    {
-      "added_at": "2025-10-03 04:00:44",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D"
       },
@@ -1387,6 +1387,26 @@
       "duration_ms": 191733,
       "name": "Water",
       "url": "https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4"
+    },
+    {
+      "added_at": "2025-10-03 04:00:44",
+      "album": {
+        "name": "The Feeling",
+        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+        }
+      ],
+      "duration_ms": 153449,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
     },
     {
       "added_at": "2025-10-03 04:00:44",
@@ -1411,26 +1431,6 @@
       "duration_ms": 234086,
       "name": "Inside Our Hearts",
       "url": "https://open.spotify.com/track/7JxHc4FNqdIzIJyrpqYAdH"
-    },
-    {
-      "added_at": "2025-10-03 04:00:44",
-      "album": {
-        "name": "The Feeling",
-        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Bonn",
-          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
-        }
-      ],
-      "duration_ms": 153449,
-      "name": "The Feeling",
-      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
     },
     {
       "added_at": "2025-10-03 04:00:44",
@@ -1499,30 +1499,6 @@
     {
       "added_at": "2025-10-03 04:00:44",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/0JnmszyYOgIIF7x4GLILSM"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Skytech",
-          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
-        }
-      ],
-      "duration_ms": 169326,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/7sKCIyN4Sdeo7OBBUeMCfy"
-    },
-    {
-      "added_at": "2025-10-03 04:00:44",
-      "album": {
         "name": "2 Times",
         "url": "https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy"
       },
@@ -1547,6 +1523,30 @@
       "duration_ms": 131200,
       "name": "2 Times",
       "url": "https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG"
+    },
+    {
+      "added_at": "2025-10-03 04:00:44",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/0JnmszyYOgIIF7x4GLILSM"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Skytech",
+          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
+        }
+      ],
+      "duration_ms": 169326,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/7sKCIyN4Sdeo7OBBUeMCfy"
     },
     {
       "added_at": "2025-10-03 04:00:44",
@@ -1859,22 +1859,26 @@
     {
       "added_at": "2025-10-03 04:00:44",
       "album": {
-        "name": "Refuge / Ur Alive",
-        "url": "https://open.spotify.com/album/3Hymehl5lIAtEiLctZu9xJ"
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/40SaMKXFBRBnQJpAkXzcHr"
       },
       "artists": [
         {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         },
         {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
         }
       ],
-      "duration_ms": 201988,
-      "name": "Refuge",
-      "url": "https://open.spotify.com/track/1PCkDEDApsRDfUIIp7uEp3"
+      "duration_ms": 215930,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/5zXfHNzmiGLpMJhzFdD7bM"
     },
     {
       "added_at": "2025-10-03 04:00:44",
@@ -1915,26 +1919,22 @@
     {
       "added_at": "2025-10-03 04:00:44",
       "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/40SaMKXFBRBnQJpAkXzcHr"
+        "name": "Refuge / Ur Alive",
+        "url": "https://open.spotify.com/album/3Hymehl5lIAtEiLctZu9xJ"
       },
       "artists": [
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
         },
         {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Nu-La",
-          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
         }
       ],
-      "duration_ms": 215930,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/5zXfHNzmiGLpMJhzFdD7bM"
+      "duration_ms": 201988,
+      "name": "Refuge",
+      "url": "https://open.spotify.com/track/1PCkDEDApsRDfUIIp7uEp3"
     },
     {
       "added_at": "2025-10-03 04:00:44",
@@ -1959,26 +1959,6 @@
     {
       "added_at": "2025-10-03 04:00:44",
       "album": {
-        "name": "One Mind EP",
-        "url": "https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 345605,
-      "name": "One Mind",
-      "url": "https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh"
-    },
-    {
-      "added_at": "2025-10-03 04:00:44",
-      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/2oRqHz1SKj1CcccfeyASOF"
       },
@@ -1995,6 +1975,26 @@
       "duration_ms": 184938,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/2DgQUPTincZnoRT5CJxTKi"
+    },
+    {
+      "added_at": "2025-10-03 04:00:44",
+      "album": {
+        "name": "One Mind EP",
+        "url": "https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 345605,
+      "name": "One Mind",
+      "url": "https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh"
     },
     {
       "added_at": "2025-10-03 04:00:44",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2025-10-03 04:00:44",
       "album": {
-        "name": "Freak",
-        "url": "https://open.spotify.com/album/1bPzfiNL4MaiHWD9bxknaO"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 201093,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/5XXriU0XC0HPH60GIJYpIA"
-    },
-    {
-      "added_at": "2025-10-03 04:00:44",
-      "album": {
         "name": "ALL MY LOVE (PNAU x Coldplay)",
         "url": "https://open.spotify.com/album/5ndvwHbg1XuPobvdNIhguO"
       },
@@ -2187,18 +2171,18 @@
     {
       "added_at": "2025-10-03 04:00:44",
       "album": {
-        "name": "collide",
-        "url": "https://open.spotify.com/album/6JRhqulQNuOcumg7npM4QW"
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/1bPzfiNL4MaiHWD9bxknaO"
       },
       "artists": [
         {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
         }
       ],
-      "duration_ms": 253714,
-      "name": "collide",
-      "url": "https://open.spotify.com/track/1i2mlzAv7HAAMMSZyUJ2B2"
+      "duration_ms": 201093,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/5XXriU0XC0HPH60GIJYpIA"
     },
     {
       "added_at": "2025-10-03 04:00:44",
@@ -2215,6 +2199,22 @@
       "duration_ms": 236080,
       "name": "Music is Better",
       "url": "https://open.spotify.com/track/2OnSedqUAqhCLZhCR4gjMw"
+    },
+    {
+      "added_at": "2025-10-03 04:00:44",
+      "album": {
+        "name": "collide",
+        "url": "https://open.spotify.com/album/6JRhqulQNuOcumg7npM4QW"
+      },
+      "artists": [
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "collide",
+      "url": "https://open.spotify.com/track/1i2mlzAv7HAAMMSZyUJ2B2"
     },
     {
       "added_at": "2025-10-03 04:00:44",
@@ -2255,6 +2255,22 @@
     {
       "added_at": "2025-10-03 04:00:44",
       "album": {
+        "name": "Interstellar",
+        "url": "https://open.spotify.com/album/2ho3nPmkmeKJkpJkT3tU9A"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 231591,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn"
+    },
+    {
+      "added_at": "2025-10-03 04:00:44",
+      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/5XjuB8WjardHuZpaMy6LXP"
       },
@@ -2275,22 +2291,6 @@
       "duration_ms": 285472,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/1vMMwDCd1Hnb91a3x9MdfX"
-    },
-    {
-      "added_at": "2025-10-03 04:00:44",
-      "album": {
-        "name": "Interstellar",
-        "url": "https://open.spotify.com/album/2ho3nPmkmeKJkpJkT3tU9A"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 231591,
-      "name": "Interstellar",
-      "url": "https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn"
     },
     {
       "added_at": "2025-10-03 04:00:44",
@@ -2343,30 +2343,6 @@
     {
       "added_at": "2025-10-03 04:00:44",
       "album": {
-        "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
-        "url": "https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Alan Fitzpatrick",
-          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
-        },
-        {
-          "name": "bbyclose",
-          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
-        }
-      ],
-      "duration_ms": 145777,
-      "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
-      "url": "https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV"
-    },
-    {
-      "added_at": "2025-10-03 04:00:44",
-      "album": {
         "name": "RITMO",
         "url": "https://open.spotify.com/album/0OD7izYJwTmirMdqjOS43Q"
       },
@@ -2391,26 +2367,6 @@
     {
       "added_at": "2025-10-03 04:00:44",
       "album": {
-        "name": "Wait So Long (Agents Of Time Remix)",
-        "url": "https://open.spotify.com/album/0mV7z6sxHvU3Cm3gCJRVJQ"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 245538,
-      "name": "Wait So Long - Agents Of Time Remix",
-      "url": "https://open.spotify.com/track/5LNZWPb0G57moAnwDtXQuH"
-    },
-    {
-      "added_at": "2025-10-03 04:00:44",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/3BiRyCQFu9ftb7sASphBHQ"
       },
@@ -2431,6 +2387,50 @@
     {
       "added_at": "2025-10-03 04:00:44",
       "album": {
+        "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
+        "url": "https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        }
+      ],
+      "duration_ms": 145777,
+      "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
+      "url": "https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV"
+    },
+    {
+      "added_at": "2025-10-03 04:00:44",
+      "album": {
+        "name": "Wait So Long (Agents Of Time Remix)",
+        "url": "https://open.spotify.com/album/0mV7z6sxHvU3Cm3gCJRVJQ"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 245538,
+      "name": "Wait So Long - Agents Of Time Remix",
+      "url": "https://open.spotify.com/track/5LNZWPb0G57moAnwDtXQuH"
+    },
+    {
+      "added_at": "2025-10-03 04:00:44",
+      "album": {
         "name": "Waste my time",
         "url": "https://open.spotify.com/album/3VsSZzexEbHqQu1hfDrpEY"
       },
@@ -2447,22 +2447,6 @@
       "duration_ms": 268359,
       "name": "Waste my time",
       "url": "https://open.spotify.com/track/4xCLq4cUWXD5FZS7sRImSL"
-    },
-    {
-      "added_at": "2025-10-03 04:00:44",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs"
-      },
-      "artists": [
-        {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
-        }
-      ],
-      "duration_ms": 249140,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9"
     },
     {
       "added_at": "2025-10-03 04:00:44",
@@ -2491,6 +2475,22 @@
     {
       "added_at": "2025-10-03 04:00:44",
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "duration_ms": 249140,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9"
+    },
+    {
+      "added_at": "2025-10-03 04:00:44",
+      "album": {
         "name": "The Spot",
         "url": "https://open.spotify.com/album/1lTwLUaBbL9XkC6KeASwqo"
       },
@@ -2507,6 +2507,26 @@
       "duration_ms": 298125,
       "name": "The Spot",
       "url": "https://open.spotify.com/track/5fqLqeakKq58Eu05bx2si5"
+    },
+    {
+      "added_at": "2025-10-03 04:00:44",
+      "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "duration_ms": 199756,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm"
     },
     {
       "added_at": "2025-10-03 04:00:44",
@@ -2531,26 +2551,6 @@
       "duration_ms": 191076,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/1v7SdHbR0pkwFb9RfG6L6O"
-    },
-    {
-      "added_at": "2025-10-03 04:00:44",
-      "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
-        }
-      ],
-      "duration_ms": 199756,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm"
     },
     {
       "added_at": "2025-10-03 04:00:44",
@@ -2615,26 +2615,18 @@
     {
       "added_at": "2025-10-03 04:00:44",
       "album": {
-        "name": "It's Okay",
-        "url": "https://open.spotify.com/album/1l8LhEYHqO23fBaHyMJU8u"
+        "name": "Stay Here",
+        "url": "https://open.spotify.com/album/5mAHnG3rpP9QywIex52LyW"
       },
       "artists": [
         {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
-        },
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        },
-        {
-          "name": "RYVM",
-          "url": "https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ"
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
         }
       ],
-      "duration_ms": 165029,
-      "name": "It's Okay",
-      "url": "https://open.spotify.com/track/5i9vIka2dUar0CsRmANKeA"
+      "duration_ms": 238415,
+      "name": "Stay Here",
+      "url": "https://open.spotify.com/track/63B5eUEndzIY9BGwcUASmv"
     }
   ],
   "unique_name": "Power Hour",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Betrand Putra Onsu
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,428 likes - 91 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,435 likes - 91 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

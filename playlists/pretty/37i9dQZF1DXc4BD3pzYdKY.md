@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover: Jackie Hill Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,141 likes - 106 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,183 likes - 106 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

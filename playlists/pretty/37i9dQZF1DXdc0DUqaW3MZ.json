@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 371813,
+  "num_followers": 371837,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2025-08-28 23:00:33",
       "album": {
+        "name": "Everything\u2019s Beautiful",
+        "url": "https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 170479,
+      "name": "Everything\u2019s Beautiful",
+      "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
+    },
+    {
+      "added_at": "2025-08-28 23:00:33",
+      "album": {
         "name": "Time Machine",
         "url": "https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3"
       },
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2025-08-28 23:00:33",
       "album": {
-        "name": "Everything\u2019s Beautiful",
-        "url": "https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 170479,
-      "name": "Everything\u2019s Beautiful",
-      "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
-    },
-    {
-      "added_at": "2025-08-28 23:00:33",
-      "album": {
         "name": "Ching",
         "url": "https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa"
       },
@@ -1119,22 +1119,6 @@
       "duration_ms": 118604,
       "name": "Ching",
       "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
-    },
-    {
-      "added_at": "2025-08-28 23:00:33",
-      "album": {
-        "name": "Crave",
-        "url": "https://open.spotify.com/album/6bC4wS1VnIVFhlks2Wx0XX"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 206360,
-      "name": "Crave",
-      "url": "https://open.spotify.com/track/75ZvCtDorLfeaaTKyX7s1z"
     },
     {
       "added_at": "2025-08-28 23:00:33",
@@ -1159,22 +1143,6 @@
     {
       "added_at": "2025-08-28 23:00:33",
       "album": {
-        "name": "Love So Strong / Sensational",
-        "url": "https://open.spotify.com/album/6w4vcsCC6xMVoMmmMvhRAR"
-      },
-      "artists": [
-        {
-          "name": "Carlos Abril",
-          "url": "https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L"
-        }
-      ],
-      "duration_ms": 208505,
-      "name": "Sensational",
-      "url": "https://open.spotify.com/track/6uwDGdmI9CCQGyey5AQtHJ"
-    },
-    {
-      "added_at": "2025-08-28 23:00:33",
-      "album": {
         "name": "touch",
         "url": "https://open.spotify.com/album/6985sMUAYiGoVOKToO4ggh"
       },
@@ -1195,22 +1163,34 @@
     {
       "added_at": "2025-08-28 23:00:33",
       "album": {
-        "name": "UP DOWN BOUNCE",
-        "url": "https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd"
+        "name": "Crave",
+        "url": "https://open.spotify.com/album/6bC4wS1VnIVFhlks2Wx0XX"
       },
       "artists": [
         {
-          "name": "veggi",
-          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
-        },
-        {
-          "name": "daste.",
-          "url": "https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT"
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 188571,
-      "name": "UP DOWN BOUNCE",
-      "url": "https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y"
+      "duration_ms": 206360,
+      "name": "Crave",
+      "url": "https://open.spotify.com/track/75ZvCtDorLfeaaTKyX7s1z"
+    },
+    {
+      "added_at": "2025-08-28 23:00:33",
+      "album": {
+        "name": "Love So Strong / Sensational",
+        "url": "https://open.spotify.com/album/6w4vcsCC6xMVoMmmMvhRAR"
+      },
+      "artists": [
+        {
+          "name": "Carlos Abril",
+          "url": "https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L"
+        }
+      ],
+      "duration_ms": 208505,
+      "name": "Sensational",
+      "url": "https://open.spotify.com/track/6uwDGdmI9CCQGyey5AQtHJ"
     },
     {
       "added_at": "2025-08-28 23:00:33",
@@ -1231,6 +1211,26 @@
       "duration_ms": 154735,
       "name": "Heatwave",
       "url": "https://open.spotify.com/track/3CXnsjKzy287gQ7WPtp3fF"
+    },
+    {
+      "added_at": "2025-08-28 23:00:33",
+      "album": {
+        "name": "UP DOWN BOUNCE",
+        "url": "https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd"
+      },
+      "artists": [
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        },
+        {
+          "name": "daste.",
+          "url": "https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "UP DOWN BOUNCE",
+      "url": "https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y"
     },
     {
       "added_at": "2025-08-28 23:00:33",

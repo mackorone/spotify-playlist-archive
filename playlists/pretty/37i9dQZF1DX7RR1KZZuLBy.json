@@ -1,6 +1,6 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 63551,
+  "num_followers": 63567,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
@@ -533,26 +533,6 @@
       "url": "https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k"
     },
     {
-      "added_at": "2024-07-05 00:01:00",
-      "album": {
-        "name": "Zion",
-        "url": "https://open.spotify.com/album/7LHFVlsndw7HxDGJPWJS7S"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 535991,
-      "name": "Oceans (Where Feet May Fail)",
-      "url": "https://open.spotify.com/track/5SDcksP8En1l6RtTY1wzHc"
-    },
-    {
       "added_at": "2023-12-01 00:01:00",
       "album": {
         "name": "Calling My Name (I'm A Soldier) [Live]",
@@ -583,6 +563,26 @@
       "duration_ms": 415133,
       "name": "Never Would Have Made It",
       "url": "https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA"
+    },
+    {
+      "added_at": "2024-07-05 00:01:00",
+      "album": {
+        "name": "Zion",
+        "url": "https://open.spotify.com/album/7LHFVlsndw7HxDGJPWJS7S"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 535991,
+      "name": "Oceans (Where Feet May Fail)",
+      "url": "https://open.spotify.com/track/5SDcksP8En1l6RtTY1wzHc"
     },
     {
       "added_at": "2023-12-01 00:01:00",

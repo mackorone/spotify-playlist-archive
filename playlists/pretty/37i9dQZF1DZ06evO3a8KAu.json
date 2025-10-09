@@ -1,12 +1,12 @@
 {
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 49861,
+  "num_followers": 49864,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAABYi7FDSgbL+7Yl0VylduJ4",
+  "snapshot_id": "aORYAAAAAADFbfjUugqbAMBkiNNoLJWS",
   "tracks": [
     {
       "added_at": null,
@@ -719,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
+        "name": "Confidente",
+        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
       },
       "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        },
         {
           "name": "Ulices Chaidez",
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 166751,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/3AgH8376tYAJebNhoWlAE1"
+      "duration_ms": 216503,
+      "name": "Si Alg\u00fan D\u00eda Te Encuentro",
+      "url": "https://open.spotify.com/track/3cXE7s1awKcJiNHp2UokBu"
     },
     {
       "added_at": null,
@@ -751,22 +755,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confidente",
-        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
       },
       "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        },
         {
           "name": "Ulices Chaidez",
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 216503,
-      "name": "Si Alg\u00fan D\u00eda Te Encuentro",
-      "url": "https://open.spotify.com/track/3cXE7s1awKcJiNHp2UokBu"
+      "duration_ms": 166751,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/3AgH8376tYAJebNhoWlAE1"
     },
     {
       "added_at": null,

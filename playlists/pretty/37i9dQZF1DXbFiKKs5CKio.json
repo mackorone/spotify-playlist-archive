@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 70263,
+  "num_followers": 70266,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -187,26 +187,6 @@
     {
       "added_at": "2025-10-03 03:01:34",
       "album": {
-        "name": "Canto Djavan",
-        "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        },
-        {
-          "name": "Slap",
-          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
-        }
-      ],
-      "duration_ms": 221183,
-      "name": "Tenha Calma",
-      "url": "https://open.spotify.com/track/7F6ylpYzjY4c2kKow8sYNi"
-    },
-    {
-      "added_at": "2025-10-03 03:01:34",
-      "album": {
         "name": "Abre Alas",
         "url": "https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 311811,
       "name": "Abre Alas",
       "url": "https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni"
+    },
+    {
+      "added_at": "2025-10-03 03:01:34",
+      "album": {
+        "name": "Canto Djavan",
+        "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Slap",
+          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
+        }
+      ],
+      "duration_ms": 221183,
+      "name": "Tenha Calma",
+      "url": "https://open.spotify.com/track/7F6ylpYzjY4c2kKow8sYNi"
     },
     {
       "added_at": "2025-10-03 03:01:34",
@@ -291,22 +291,6 @@
     {
       "added_at": "2025-10-03 03:01:34",
       "album": {
-        "name": "Amar\u00edssima",
-        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 178548,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ"
-    },
-    {
-      "added_at": "2025-10-03 03:01:34",
-      "album": {
         "name": "Eu Te Entendo",
         "url": "https://open.spotify.com/album/2hkdC0W3mt3FCSLendbnev"
       },
@@ -323,6 +307,38 @@
       "duration_ms": 157437,
       "name": "Eu Te Entendo",
       "url": "https://open.spotify.com/track/1RZC681xBe8FurrhayqK0W"
+    },
+    {
+      "added_at": "2025-10-03 03:01:34",
+      "album": {
+        "name": "Amar\u00edssima",
+        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 178548,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ"
+    },
+    {
+      "added_at": "2025-10-03 03:01:34",
+      "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/0IRC5eVqNmvnJR5V6JdGRK"
+      },
+      "artists": [
+        {
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "Sexto Sentido",
+      "url": "https://open.spotify.com/track/0y2DFBipQ7BSI8c4IESodm"
     },
     {
       "added_at": "2025-10-03 03:01:34",
@@ -403,22 +419,6 @@
       "duration_ms": 225230,
       "name": "Gaveta/Onironauta",
       "url": "https://open.spotify.com/track/0hP16H5OZMQhBsNn4WBA5P"
-    },
-    {
-      "added_at": "2025-10-03 03:01:34",
-      "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/0IRC5eVqNmvnJR5V6JdGRK"
-      },
-      "artists": [
-        {
-          "name": "Hanifah",
-          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "Sexto Sentido",
-      "url": "https://open.spotify.com/track/0y2DFBipQ7BSI8c4IESodm"
     },
     {
       "added_at": "2025-10-03 03:01:34",
@@ -575,26 +575,6 @@
     {
       "added_at": "2025-10-03 03:01:34",
       "album": {
-        "name": "Neverl\u00e2ndia Sessions (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4HRRpkcYLFCJgGKBSviGkT"
-      },
-      "artists": [
-        {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
-        },
-        {
-          "name": "NUNES",
-          "url": "https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Vai dar Bom (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4Z21ly8fVtNB282CwwTknZ"
-    },
-    {
-      "added_at": "2025-10-03 03:01:34",
-      "album": {
         "name": "LAR",
         "url": "https://open.spotify.com/album/17HW9qCYB9V3WBBDQgEgUQ"
       },
@@ -615,54 +595,22 @@
     {
       "added_at": "2025-10-03 03:01:34",
       "album": {
-        "name": "Deixa",
-        "url": "https://open.spotify.com/album/7zS1vdR4gWETQig8uVCBlI"
+        "name": "Neverl\u00e2ndia Sessions (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4HRRpkcYLFCJgGKBSviGkT"
       },
       "artists": [
         {
-          "name": "Nathi",
-          "url": "https://open.spotify.com/artist/1LeAwT4Eu1E6ySD3htFnh9"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Deixa",
-      "url": "https://open.spotify.com/track/59ZjIItfGwA39IWTxibw33"
-    },
-    {
-      "added_at": "2025-10-03 03:01:34",
-      "album": {
-        "name": "TRAN\u00c7A",
-        "url": "https://open.spotify.com/album/33o0Id7mFVN77Vn4tKx8EQ"
-      },
-      "artists": [
-        {
-          "name": "Trajano",
-          "url": "https://open.spotify.com/artist/3LxEjKaojOdrfAZ4HrdJQy"
-        }
-      ],
-      "duration_ms": 269062,
-      "name": "OFERENDA",
-      "url": "https://open.spotify.com/track/4knACzeO6UUyh8mVMzhAk2"
-    },
-    {
-      "added_at": "2025-10-03 03:01:34",
-      "album": {
-        "name": "Cuz I Really Feel It",
-        "url": "https://open.spotify.com/album/2fn3Ud9RQECGPUZ8Oc5BHd"
-      },
-      "artists": [
-        {
-          "name": "Juniper",
-          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
         },
         {
-          "name": "idontcare",
-          "url": "https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e"
+          "name": "NUNES",
+          "url": "https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr"
         }
       ],
-      "duration_ms": 167088,
-      "name": "Tudo O Que Eu Posso Te Dar",
-      "url": "https://open.spotify.com/track/5Flg1B2gfHqxUeQubkxSYW"
+      "duration_ms": 206000,
+      "name": "Vai dar Bom (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4Z21ly8fVtNB282CwwTknZ"
     },
     {
       "added_at": "2025-10-03 03:01:34",
@@ -683,6 +631,38 @@
     {
       "added_at": "2025-10-03 03:01:34",
       "album": {
+        "name": "TRAN\u00c7A",
+        "url": "https://open.spotify.com/album/33o0Id7mFVN77Vn4tKx8EQ"
+      },
+      "artists": [
+        {
+          "name": "Trajano",
+          "url": "https://open.spotify.com/artist/3LxEjKaojOdrfAZ4HrdJQy"
+        }
+      ],
+      "duration_ms": 269062,
+      "name": "OFERENDA",
+      "url": "https://open.spotify.com/track/4knACzeO6UUyh8mVMzhAk2"
+    },
+    {
+      "added_at": "2025-10-03 03:01:34",
+      "album": {
+        "name": "Deixa",
+        "url": "https://open.spotify.com/album/7zS1vdR4gWETQig8uVCBlI"
+      },
+      "artists": [
+        {
+          "name": "Nathi",
+          "url": "https://open.spotify.com/artist/1LeAwT4Eu1E6ySD3htFnh9"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Deixa",
+      "url": "https://open.spotify.com/track/59ZjIItfGwA39IWTxibw33"
+    },
+    {
+      "added_at": "2025-10-03 03:01:34",
+      "album": {
         "name": "(Des)conectar",
         "url": "https://open.spotify.com/album/57phCII157BEvM0camoMvd"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 200217,
       "name": "(Des)conectar",
       "url": "https://open.spotify.com/track/5TxpANIiDUqlJamIHZcO31"
+    },
+    {
+      "added_at": "2025-10-03 03:01:34",
+      "album": {
+        "name": "Cuz I Really Feel It",
+        "url": "https://open.spotify.com/album/2fn3Ud9RQECGPUZ8Oc5BHd"
+      },
+      "artists": [
+        {
+          "name": "Juniper",
+          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
+        },
+        {
+          "name": "idontcare",
+          "url": "https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e"
+        }
+      ],
+      "duration_ms": 167088,
+      "name": "Tudo O Que Eu Posso Te Dar",
+      "url": "https://open.spotify.com/track/5Flg1B2gfHqxUeQubkxSYW"
     },
     {
       "added_at": "2025-10-03 03:01:34",

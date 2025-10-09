@@ -4,7 +4,7 @@
 
 > Top Sharqi hits right now\. Cover: AL SHAMI
 
-211 songs - 12 hr 9 min
+212 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Kelna Mnenjar](https://open.spotify.com/track/0KGZNoR5kZ1aUw83pfunng) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Kelna Mnenjar](https://open.spotify.com/album/3cPQv8RJQYIShkRDMhaO2R) | 3:10 | 2022-05-04 | 2023-03-14 |
 | [khallina N3esh](https://open.spotify.com/track/7qq9gkXMLG64zEnqTn2s9o) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [khallina N3esh](https://open.spotify.com/album/4bUVYFe5LEtKByQcKmRvQg) | 3:29 | 2022-06-20 | 2024-10-09 |
 | [Khedi El Ghamrat](https://open.spotify.com/track/65nzInq9ZyybOT7QN5kmk9) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI), [Marwan Khoury](https://open.spotify.com/artist/6e6VucoDJD6bmJPlnO7AkN) | [Khedi El Ghamrat](https://open.spotify.com/album/7tDPiW6WjlY15ymIHUFbEW) | 4:13 | 2024-02-29 |  |
+| [Kif Emelet Hek](https://open.spotify.com/track/7uhoDFQsiftPbBnFt43I3k) | [Bilal Derky](https://open.spotify.com/artist/7E3aW1jsT4X56lJObxhXKp) | [Kif Emelet Hek](https://open.spotify.com/album/3stx0xqIaGlFBK74Pg3FOZ) | 3:02 | 2025-10-08 |  |
 | [Kifek 3A Fra2e](https://open.spotify.com/track/1dDMi1rMxOXGFVDFcF41Ii) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs), [Mohamed Chaker](https://open.spotify.com/artist/6v3svbntXqckH0VLMYNFi0) | [Kifek 3A Fra2e](https://open.spotify.com/album/45QIRHKcKVQxZOa1KB034T) | 3:48 | 2025-07-14 |  |
 | [Koun](https://open.spotify.com/track/3mlQfTMo8VmL3l8tXjAX8j) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Koun](https://open.spotify.com/album/3VHCM2iQcOgqHgHcHJmwqv) | 3:23 | 2023-03-13 | 2025-03-20 |
 | [La Akher Dakka](https://open.spotify.com/track/000tjH40F2n9sejp5LwAhV) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [La Akher Dakka](https://open.spotify.com/album/2GJ8iNMaVPTzW59RPACjaQ) | 3:07 | 2024-05-21 |  |
@@ -169,7 +170,7 @@
 | [Ya Sidi Ensa](https://open.spotify.com/track/70bsA9PpuP5DTq1OcL01h6) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Ya Sidi Ensa](https://open.spotify.com/album/44gSXHC6qBhAjPECo8oCbW) | 3:32 | 2024-10-03 |  |
 | [Ya Wafiya](https://open.spotify.com/track/2OfewEJuqAVkt56n0qaiqS) | [Kadim Al Sahir](https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK) | [Ya Wafiya](https://open.spotify.com/album/4As7Qnegg2bpUKY6FNURlD) | 5:41 | 2024-02-15 | 2024-11-27 |
 | [Ya Zghiri](https://open.spotify.com/track/0IayU4PmWshvS0r4aMTzPD) | [Wadih El Cheikh](https://open.spotify.com/artist/6eeAS0L17Rl7edN18yWfFl) | [Ya Zghiri](https://open.spotify.com/album/40vVMbWX1OW6Mo3KdK8ndA) | 3:03 | 2024-10-08 |  |
-| [Yama](https://open.spotify.com/track/13mfkUDpSJlQp3ZPPdRXrX) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Yama](https://open.spotify.com/album/44d1S25h0oDhLgzuXExMra) | 3:05 | 2023-07-27 |  |
+| [Yama](https://open.spotify.com/track/13mfkUDpSJlQp3ZPPdRXrX) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Yama](https://open.spotify.com/album/44d1S25h0oDhLgzuXExMra) | 3:05 | 2023-07-27 | 2025-10-09 |
 | [Yeslamli Li Bighar](https://open.spotify.com/track/5toZZOQ35XeknrIrn2KcmM) | [Marwan Khoury](https://open.spotify.com/artist/6e6VucoDJD6bmJPlnO7AkN) | [Yeslamli Li Bighar](https://open.spotify.com/album/1NaMPHJ5yC9DJujOEobE8S) | 3:28 | 2023-06-28 | 2024-10-09 |
 | [Yok Yok](https://open.spotify.com/track/4QAQaLz8vRw9iiIccOLS74) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl), [Ragıb Narin](https://open.spotify.com/artist/3RcnnVusQQzqEtkvSVKPKg) | [Yok Yok](https://open.spotify.com/album/2TVZiTO0PB7Ut6hwCeK0jx) | 2:48 | 2022-10-09 | 2023-01-06 |
 | [Zaman Al 3a2areb](https://open.spotify.com/track/5z3iod9iwcF8j6p4sqGgyU) | [Wadih El Cheikh](https://open.spotify.com/artist/6eeAS0L17Rl7edN18yWfFl) | [Zaman Al 3a2areb](https://open.spotify.com/album/75iz9u4T8SmcIW3ervU23T) | 3:32 | 2022-06-20 | 2023-04-01 |

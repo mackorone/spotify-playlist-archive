@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: TH;EN
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,299 likes - 90 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,352 likes - 90 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 35 | [Love Spreader](https://open.spotify.com/track/0IkVz4rlhDQuaGSbltQMts) | [Luca Olivotto](https://open.spotify.com/artist/6TKBUwZ48ncE6FbhT5ACzj) | [Say Who?!](https://open.spotify.com/album/222ZbVcOfpJV9Gahj3IX5r) | 6:46 |
 | 36 | [For a Moment](https://open.spotify.com/track/666WMsNqb2IJd3H2gzzosb) | [Intara](https://open.spotify.com/artist/3wpZISujzbcdOqC3OYArcy), [Nothing But Love](https://open.spotify.com/artist/1N4SUC9nnMp0hpkFVzIm5O) | [For a Moment](https://open.spotify.com/album/2f5tmuhSyxIEJCvHuNrThB) | 4:20 |
 | 37 | [Something Beginning With Z](https://open.spotify.com/track/4oh6ThVsddcXiCpREk5BOn) | [Sahar](https://open.spotify.com/artist/3b7TXhgeS7YpSumMEwbFJO) | [Something Beginning With Z](https://open.spotify.com/album/2fcRptaEv7T1YqsQ1ZWPZ2) | 3:48 |
-| 38 | [Takina](https://open.spotify.com/track/5o8mcvj48xzA2xWXUlqzyn) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [Alexey Union](https://open.spotify.com/artist/4bzppvW4geKqxLC5VYJn2G), [Kinky Sound](https://open.spotify.com/artist/6oIco6H7xclBUVQpEeCTnl) | [Body Language, Vol\. 26](https://open.spotify.com/album/21eWHTzoAtut2q4wFXymiU) | 3:46 |
+| 38 | [Takina](https://open.spotify.com/track/5o8mcvj48xzA2xWXUlqzyn) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [Alexey Union](https://open.spotify.com/artist/4bzppvW4geKqxLC5VYJn2G), [Kinky Sound](https://open.spotify.com/artist/6oIco6H7xclBUVQpEeCTnl) | [Body Language, Vol\. 26](https://open.spotify.com/album/21eWHTzoAtut2q4wFXymiU) | 3:44 |
 | 39 | [FLESH](https://open.spotify.com/track/6PUYudBboV5zxaRIORtiY7) | [Luca Eck](https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz) | [FLESH](https://open.spotify.com/album/6iAnOtJ4T4aDI7ikG2ZWSg) | 2:29 |
 | 40 | [Weekend Baddie](https://open.spotify.com/track/1ROfdqAJJ6vHq2dDni27TV) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Weekend Baddie](https://open.spotify.com/album/3GkXIClRd3IxHNb96kWnLS) | 2:58 |
 | 41 | [Off](https://open.spotify.com/track/7dPsQUDFzGlkPUkh6ewczb) | [Solvane](https://open.spotify.com/artist/3bOQBNZv9K0NMW4WudrKb0), [Prismode](https://open.spotify.com/artist/58kYFWtUBY05pp6TmlKOiH) | [Off](https://open.spotify.com/album/3qxirbvXJIRYziQslH32dO) | 3:49 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 45 | [Shifting Shapes](https://open.spotify.com/track/6FSeUbi4eTP8zd0F9BrhYX) | [Paons](https://open.spotify.com/artist/4fOqUDUR1YTrEdrLge0jbB), [Idaam](https://open.spotify.com/artist/1mVVPs2FfpS6yAF9gUU13P) | [Shifting Shapes](https://open.spotify.com/album/3kxNVHVCFLeUf3lkfoKsAn) | 5:35 |
 | 46 | [Suspension](https://open.spotify.com/track/4MsDW8C5JewPue6HHTfZR8) | [JULES](https://open.spotify.com/artist/0MfS9ARNj2neKPmvoy2h9k), [11.11](https://open.spotify.com/artist/3YUk32lueyg5uRED9q38k5) | [Suspension](https://open.spotify.com/album/6Sjxcv9iUtD4LVVmZGfqFD) | 3:11 |
 | 47 | [Don't Let Me Down](https://open.spotify.com/track/1VJEYxNnKVx3tZm3JFnGQV) | [Siggatunez](https://open.spotify.com/artist/4k2MT7aqyVkTakSUjNqSe4), [Vany T Fair](https://open.spotify.com/artist/47lYUtVv1TiaXyn6klwPPC) | [E\-Motion](https://open.spotify.com/album/7uenQltQ1N8jcCG56KtUmv) | 7:23 |
-| 48 | [All Week](https://open.spotify.com/track/0MWSzNSf7Ov3Ag34xUME6x) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [All Week](https://open.spotify.com/album/4VQLc9cZ2ZKtrWQX7wYfjD) | 4:24 |
+| 48 | [All Week](https://open.spotify.com/track/0MWSzNSf7Ov3Ag34xUME6x) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [All Week](https://open.spotify.com/album/4VQLc9cZ2ZKtrWQX7wYfjD) | 4:26 |
 | 49 | [Cant Stop](https://open.spotify.com/track/3DcoUPg3zgTsCv7EWYqRz2) | [Bilgehan Ünver](https://open.spotify.com/artist/1YBBOKL1Hfzx5MPMMMsjlN) | [Cant Stop](https://open.spotify.com/album/114TwRF9ZtgV28vbo9hQvi) | 5:53 |
 | 50 | [Lost](https://open.spotify.com/track/0O8CNTiKbHeauSkNoSL7xc) | [Maxomar](https://open.spotify.com/artist/0fs4pqQpTlESYfNfR4lDp0) | [Lost](https://open.spotify.com/album/7CHeZM3iHR5MSUn5hIpcKT) | 3:11 |
 | 51 | [Supastar](https://open.spotify.com/track/39eMvK8lQis4nlvL1B0JAd) | [Joly](https://open.spotify.com/artist/2G7vngjftwI1q04ZciS7RI) | [Supastar](https://open.spotify.com/album/1WuDfgxJLOD3sI3beskSzC) | 3:03 |

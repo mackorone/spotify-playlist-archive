@@ -1,12 +1,12 @@
 {
   "description": "This is Jes\u00fas Adri\u00e1n Romero. The essential tracks, all in one playlist.",
-  "num_followers": 208956,
+  "num_followers": 208981,
   "original_name": "This Is Jes\u00fas Adri\u00e1n Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAAATC5eK53QebW9r9c2d5Xh0",
+  "snapshot_id": "aORYAAAAAADued6E/0eboq3al8LZAakr",
   "tracks": [
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Brillo De Mis Ojos (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 202973,
+      "name": "Eras T\u00fa",
+      "url": "https://open.spotify.com/track/3nhnIxheZTQaRDk0s650sa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alex Campos y Sus Amigos (En Vivo)",
         "url": "https://open.spotify.com/album/1XEQDxwovn8C0l6qb2NSnz"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 218746,
       "name": "Suave Voz - En Vivo",
       "url": "https://open.spotify.com/track/3w3FGKINqJhLZZGFvcp9eG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Brillo De Mis Ojos (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 202973,
-      "name": "Eras T\u00fa",
-      "url": "https://open.spotify.com/track/3nhnIxheZTQaRDk0s650sa"
     },
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cielo A\u00fan Espera",
-        "url": "https://open.spotify.com/album/0a33IGqqFPLIkiKVS7BnhV"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        },
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        }
-      ],
-      "duration_ms": 233200,
-      "name": "El Cielo A\u00fan Espera",
-      "url": "https://open.spotify.com/track/70x0TeYW9v78ExG6v5M881"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00bfC\u00f3mo Me Ves?",
         "url": "https://open.spotify.com/album/1kE9qUu5Etm1bhdp86rwI3"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 231496,
       "name": "Te Busqu\u00e9 (feat. Brian Sandoval)",
       "url": "https://open.spotify.com/track/603bEyofTyOeqhFtDLqvdH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Cielo A\u00fan Espera",
+        "url": "https://open.spotify.com/album/0a33IGqqFPLIkiKVS7BnhV"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "duration_ms": 233200,
+      "name": "El Cielo A\u00fan Espera",
+      "url": "https://open.spotify.com/track/70x0TeYW9v78ExG6v5M881"
     },
     {
       "added_at": null,

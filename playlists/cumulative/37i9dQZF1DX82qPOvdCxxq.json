@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Sansone",
+  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Holy Gather",
   "name": "Fresh Finds Faith",
   "tracks": [
     {
@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 200434,
       "name": "Back In Time",
       "url": "https://open.spotify.com/track/76NiSdEY2YT3rQ1ntFIo0D"
@@ -1883,6 +1883,24 @@
     },
     {
       "album": {
+        "name": "Cascade View",
+        "url": "https://open.spotify.com/album/6wHNXMTHl6NaymmeHhJUr8"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164456,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/1DKD7Nz9XQxzrb0D8t3W65"
+    },
+    {
+      "album": {
         "name": "Brittle",
         "url": "https://open.spotify.com/album/3YmTVAkCqL5498MHbOlB9J"
       },
@@ -2162,7 +2180,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 156734,
       "name": "Cant Complain",
       "url": "https://open.spotify.com/track/4vmID1XXsbXk1FXYxXXEHY"
@@ -2188,7 +2206,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 164877,
       "name": "CARTAGENA",
       "url": "https://open.spotify.com/track/5PfhsUM1oFLszzFO449aC7"
@@ -3056,7 +3074,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 204474,
       "name": "Daydreamer",
       "url": "https://open.spotify.com/track/3NO32PfjA7FGJ0CTppnE4F"
@@ -3198,7 +3216,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 189187,
       "name": "DEPEND",
       "url": "https://open.spotify.com/track/7rBvlTjxJ3WYGuMORnpf5f"
@@ -3328,6 +3346,24 @@
       "duration_ms": 173253,
       "name": "Died For You",
       "url": "https://open.spotify.com/track/0d7KJz83m6DcuymWGgfxtm"
+    },
+    {
+      "album": {
+        "name": "DIFFERENT KIND OF LOVE",
+        "url": "https://open.spotify.com/album/4KmwQATG7z2N0LJp1BgKoD"
+      },
+      "artists": [
+        {
+          "name": "BLVRS",
+          "url": "https://open.spotify.com/artist/3SeJEA9smshVPlk8jbWlPD"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172287,
+      "name": "DIFFERENT KIND OF LOVE",
+      "url": "https://open.spotify.com/track/23qgvEkcWua1HgFHQE7mEs"
     },
     {
       "album": {
@@ -3688,7 +3724,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 184012,
       "name": "Ebb & Flow",
       "url": "https://open.spotify.com/track/3RMqVXECnkMtfQhSWvkkwc"
@@ -4077,6 +4113,32 @@
     },
     {
       "album": {
+        "name": "Everywhere I Go",
+        "url": "https://open.spotify.com/album/4dpoTKvQm7MCbTvfYkN26z"
+      },
+      "artists": [
+        {
+          "name": "Angeloh",
+          "url": "https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg"
+        },
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        },
+        {
+          "name": "Oneskript",
+          "url": "https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149874,
+      "name": "Everywhere I Go",
+      "url": "https://open.spotify.com/track/1ly69ZUc0uXC6DAtadqePO"
+    },
+    {
+      "album": {
         "name": "Faithful (Acoustic)",
         "url": "https://open.spotify.com/album/1G4LlxHjlM8psisfs2t5ds"
       },
@@ -4233,6 +4295,24 @@
     },
     {
       "album": {
+        "name": "Sun Cassette",
+        "url": "https://open.spotify.com/album/6cu4vcJFJrwdLL77UXMlNj"
+      },
+      "artists": [
+        {
+          "name": "Holy Gather",
+          "url": "https://open.spotify.com/artist/70azCnnO6hKm23SflJHzdR"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174720,
+      "name": "Fears",
+      "url": "https://open.spotify.com/track/4GISarNMg64gdQmXrpN0t1"
+    },
+    {
+      "album": {
         "name": "Feel You The Most",
         "url": "https://open.spotify.com/album/25nUt6kh7YEdqLSjoz7tNk"
       },
@@ -4360,7 +4440,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 216030,
       "name": "First",
       "url": "https://open.spotify.com/track/4HwLdRPrxwu4vP1ETO2t2a"
@@ -5420,7 +5500,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 175182,
       "name": "Gotham City",
       "url": "https://open.spotify.com/track/5xREHZNlYVYoVDkVmrztUS"
@@ -6314,7 +6394,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 133000,
       "name": "HOLDING ON",
       "url": "https://open.spotify.com/track/5nI5Vt0Wp9AKW4e8QAkin8"
@@ -6372,7 +6452,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 206666,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/1VQYAxkimiOeanhN4ZkyG5"
@@ -6666,6 +6746,24 @@
       "duration_ms": 180106,
       "name": "Human Like Me",
       "url": "https://open.spotify.com/track/0sHRLPcOLOY60qtJKu1Sna"
+    },
+    {
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/6yOkGkTi5VWA76DLUI7u7e"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Clifton",
+          "url": "https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189857,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/7qCGZcGe3LOd4Ibhnszaqc"
     },
     {
       "album": {
@@ -7686,7 +7784,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 197573,
       "name": "jersey (made in my hometown)",
       "url": "https://open.spotify.com/track/5dooaQTiylUFSww2ZfosEA"
@@ -8045,6 +8143,24 @@
     },
     {
       "album": {
+        "name": "Keep On Going",
+        "url": "https://open.spotify.com/album/3SeTCfXL65xEud79BDgPqD"
+      },
+      "artists": [
+        {
+          "name": "Kaye-Marie",
+          "url": "https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Keep On Going",
+      "url": "https://open.spotify.com/track/65DZa779Xb6N4V9Tht8Vgm"
+    },
+    {
+      "album": {
         "name": "Kingdom",
         "url": "https://open.spotify.com/album/5GaqWeRvThKfnD7hPUX2df"
       },
@@ -8305,6 +8421,24 @@
     },
     {
       "album": {
+        "name": "Life I Chose",
+        "url": "https://open.spotify.com/album/36AF76j64Xtua1vLJpR47n"
+      },
+      "artists": [
+        {
+          "name": "Kai Uriah",
+          "url": "https://open.spotify.com/artist/6IdKInshEI8ywJ99v6gVKM"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199601,
+      "name": "Life I Chose",
+      "url": "https://open.spotify.com/track/3aCdjKOq68MscD3xJJOtZT"
+    },
+    {
+      "album": {
         "name": "Lift My Eyes",
         "url": "https://open.spotify.com/album/5nKUFMFCT0WCg4iWvEDTmi"
       },
@@ -8472,6 +8606,24 @@
       "duration_ms": 131076,
       "name": "Lilies",
       "url": "https://open.spotify.com/track/2lgyM8t8ys4MepxB2uKU5j"
+    },
+    {
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/3qIJgc6Rtd0fJKAKUeBRSP"
+      },
+      "artists": [
+        {
+          "name": "Rachel Morley",
+          "url": "https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212462,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/3vD7RwSB9qjbnGn5mAcdjn"
     },
     {
       "album": {
@@ -9328,7 +9480,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 157894,
       "name": "Mir\u00e1ndote",
       "url": "https://open.spotify.com/track/57YqM04oGuXV4mtXM5rmxH"
@@ -10170,6 +10322,24 @@
       "duration_ms": 180000,
       "name": "nothing but the blood.",
       "url": "https://open.spotify.com/track/0143LACTCbKmGms3Omf5Gg"
+    },
+    {
+      "album": {
+        "name": "Nothing Impossible",
+        "url": "https://open.spotify.com/album/6m5rWvEvdAbu44EOGXydDf"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320241,
+      "name": "Nothing Impossible",
+      "url": "https://open.spotify.com/track/7BU3DGqHtqXcNEYeJI4bWf"
     },
     {
       "album": {
@@ -12137,6 +12307,24 @@
     },
     {
       "album": {
+        "name": "Search My Heart",
+        "url": "https://open.spotify.com/album/7bMPlanp2FevsM0ChuiXOX"
+      },
+      "artists": [
+        {
+          "name": "AWAKE84",
+          "url": "https://open.spotify.com/artist/0isNdx2FzHaUs3TnQFdGNg"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403045,
+      "name": "Search My Heart",
+      "url": "https://open.spotify.com/track/6nCLVwWTobShCqblEVJLNG"
+    },
+    {
+      "album": {
         "name": "Letters at Midnight, Vol.1",
         "url": "https://open.spotify.com/album/6NLyzUxgvlIGygLVzvNwd5"
       },
@@ -12170,6 +12358,24 @@
       "duration_ms": 161454,
       "name": "SEEK",
       "url": "https://open.spotify.com/track/1apkmCkiKMYizWGJLIHrF9"
+    },
+    {
+      "album": {
+        "name": "Seek Your Face",
+        "url": "https://open.spotify.com/album/0mZPFuyDAocJTj3pADq8O5"
+      },
+      "artists": [
+        {
+          "name": "Heather Suzanne",
+          "url": "https://open.spotify.com/artist/0KGGZqBsiH7iJ5DdGLV8KO"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222445,
+      "name": "Seek Your Face",
+      "url": "https://open.spotify.com/track/7zklUez8gfOdWtlro9qMHC"
     },
     {
       "album": {
@@ -12476,7 +12682,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 247546,
       "name": "sin no more",
       "url": "https://open.spotify.com/track/2Cpwu7fJpBhx0mZGbkjNCf"
@@ -13135,6 +13341,24 @@
     },
     {
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2wnd0P3oI02PV97CPzuCMy"
+      },
+      "artists": [
+        {
+          "name": "Cether",
+          "url": "https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187308,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/17FOvK0kPGWVK4X7GOW1AY"
+    },
+    {
+      "album": {
         "name": "superbloom (Acoustic)",
         "url": "https://open.spotify.com/album/2YfNOmiriEXVBMjDx501Tc"
       },
@@ -13182,7 +13406,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 190000,
       "name": "Surpasses My Understanding",
       "url": "https://open.spotify.com/track/2hvY21OBBw2tt7XXBTuVa3"
@@ -13630,6 +13854,24 @@
       "duration_ms": 166862,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/6rGoI3PrGO9swDjo4CGHLs"
+    },
+    {
+      "album": {
+        "name": "that's my life",
+        "url": "https://open.spotify.com/album/2IL7DRiuW2ZxzkB1YKznXz"
+      },
+      "artists": [
+        {
+          "name": "Allison Eide",
+          "url": "https://open.spotify.com/artist/6RDeotP2Ny6OsLRt5OJLQ1"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218412,
+      "name": "that's my life",
+      "url": "https://open.spotify.com/track/3RzeND9jTPsTDv8wiHIDfm"
     },
     {
       "album": {
@@ -14155,6 +14397,24 @@
     },
     {
       "album": {
+        "name": "TO BE IN LOVE",
+        "url": "https://open.spotify.com/album/55XXfUz5WLMQCxwrYs58HU"
+      },
+      "artists": [
+        {
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266250,
+      "name": "TO BE IN LOVE",
+      "url": "https://open.spotify.com/track/6amLrQFoMrhjqeOKGUfPT2"
+    },
+    {
+      "album": {
         "name": "To Be Praised",
         "url": "https://open.spotify.com/album/1kDBvA26XeOWoJe9qTKqHz"
       },
@@ -14524,7 +14784,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 139595,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/7moDLPBLOul0Kg9SG17Ovl"
@@ -14720,6 +14980,24 @@
       "duration_ms": 167210,
       "name": "Vivir para Ti",
       "url": "https://open.spotify.com/track/1uSUizbBumFqzrGbWkoIDq"
+    },
+    {
+      "album": {
+        "name": "Vivir sin ti",
+        "url": "https://open.spotify.com/album/1tiDtTY0J2oM6fMsRJ5x4q"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Napoles",
+          "url": "https://open.spotify.com/artist/0amncpo70dLifUC89b67Qh"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236399,
+      "name": "Vivir sin ti",
+      "url": "https://open.spotify.com/track/3ldreGKrpp8tXxUE57G63O"
     },
     {
       "album": {
@@ -15762,6 +16040,24 @@
       "duration_ms": 190764,
       "name": "Words Don\u2019t Pay",
       "url": "https://open.spotify.com/track/7mUIZS6AH2eVNhPdgPmSKz"
+    },
+    {
+      "album": {
+        "name": "Worry Sea",
+        "url": "https://open.spotify.com/album/04RqeSoUhrf1FEVmZfjYVZ"
+      },
+      "artists": [
+        {
+          "name": "Liam Cova",
+          "url": "https://open.spotify.com/artist/01MeWK54jWNGWSYr3d9H8f"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202088,
+      "name": "Worry Sea",
+      "url": "https://open.spotify.com/track/2MZEnae8bB6w1OpBgqb8tD"
     },
     {
       "album": {

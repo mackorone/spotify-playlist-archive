@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 55405,
+  "num_followers": 55409,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAAC8WTlrUumi3tjCxbRNs31o",
+  "snapshot_id": "aORYAAAAAADtP+2Tx5j9PHNdegN2A0Sg",
   "tracks": [
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Teenage Talk",
+        "url": "https://open.spotify.com/album/3HG6Nf0745fsytgWLptMXw"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 248463,
+      "name": "Teenage Talk",
+      "url": "https://open.spotify.com/track/0iKsBFbuFNA9eSGvhuncCJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love This Giant",
         "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 188653,
       "name": "I Should Watch TV",
       "url": "https://open.spotify.com/track/73x5UqtgSk3nOzdK4KMAtL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teenage Talk",
-        "url": "https://open.spotify.com/album/3HG6Nf0745fsytgWLptMXw"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 248463,
-      "name": "Teenage Talk",
-      "url": "https://open.spotify.com/track/0iKsBFbuFNA9eSGvhuncCJ"
     },
     {
       "added_at": null,

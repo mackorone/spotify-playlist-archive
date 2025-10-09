@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-1,144 songs - 2 day 14 hr 11 min
+1,145 songs - 2 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [away.](https://open.spotify.com/track/6CbW8W2qUm29j8cuqjO8qF) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [away.](https://open.spotify.com/album/1wITTkeUkrbiseKv0eVGec) | 3:25 | 2023-05-18 | 2023-06-09 |
 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2023-11-13 |  |
 | [Baby Can You Stay](https://open.spotify.com/track/6ukZgsQtCTslc6cbxVd9yc) | [WNRDA](https://open.spotify.com/artist/2Ja7uINE33t1t5d06J6PFQ) | [Baby Can You Stay](https://open.spotify.com/album/12iY7dts3ziwGFq7na5C2L) | 2:58 | 2022-05-09 | 2023-07-08 |
+| [BACK 2 YOU](https://open.spotify.com/track/7sFjAaWSZDrUsxSxALlA09) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [BACK 2 YOU](https://open.spotify.com/album/2c7Osih348dWoitmLUvVAh) | 3:41 | 2025-10-02 |  |
 | [bad](https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0) | 4:23 | 2023-08-11 | 2025-01-08 |
 | [Bad Dreams](https://open.spotify.com/track/0t0p3pFkUxv3KnMGZqPxyP) | [BEVY MACO](https://open.spotify.com/artist/4J8BSoVR5I3Am5CxHMkqYj), [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [Still Feel The Same](https://open.spotify.com/album/5MXJrDdgDdH6XXoebSe0Uj) | 5:12 | 2022-01-28 | 2022-04-20 |
 | [Bad Girls Behave](https://open.spotify.com/track/2CspyaDniJQAhgAYamTyI3) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Bad Girls Behave](https://open.spotify.com/album/6c6ObiguaXrGWxcy3kP0pJ) | 2:50 | 2023-10-06 | 2023-10-14 |
@@ -416,7 +417,7 @@
 | [hold me, never let go](https://open.spotify.com/track/6QC5Dtp38M05T536UONe6J) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Her Favorite Flowers](https://open.spotify.com/album/5rFnAfQqhy7sFGSq15gN7g) | 3:13 | 2023-10-06 | 2023-11-18 |
 | [Holding On \(to me\)](https://open.spotify.com/track/14yuV4Bo8csljf4SMRKRkg) | [Rocketman](https://open.spotify.com/artist/4PSlXQjt2u6ua1YxEsHfsQ) | [Holding On \(to me\)](https://open.spotify.com/album/1pIv4AY3aQ7eqK3wjVtphV) | 3:59 | 2022-07-22 | 2022-08-13 |
 | [holly's ego](https://open.spotify.com/track/4Xu8VjkVCix7ypRJWW5OQZ) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [blood lotus diary](https://open.spotify.com/album/4T5JLOW9gRpehumgIQfzRK) | 3:16 | 2022-03-04 | 2022-07-28 |
-| [Home](https://open.spotify.com/track/7eSD3OvRfbCrkEIN3VYFv7) | [niko rain](https://open.spotify.com/artist/3bIDVpODlxr80Gj7EAEXkV), [EJEAN](https://open.spotify.com/artist/2h1C4NVjSJnWrUeo4Z4dFz) | [Home](https://open.spotify.com/album/6G8uxObNHG7b09p8EUVEFZ) | 2:10 | 2023-01-06 |  |
+| [Home](https://open.spotify.com/track/7eSD3OvRfbCrkEIN3VYFv7) | [niko rain](https://open.spotify.com/artist/3bIDVpODlxr80Gj7EAEXkV), [EJEAN](https://open.spotify.com/artist/2h1C4NVjSJnWrUeo4Z4dFz) | [Home](https://open.spotify.com/album/6G8uxObNHG7b09p8EUVEFZ) | 2:10 | 2023-01-06 | 2025-10-09 |
 | [Home is a Feeling \- English Version](https://open.spotify.com/track/0gPBfgkCYnqg4pZowtFdLD) | [Jasmine Sokko](https://open.spotify.com/artist/3risOBDAx6GGVaCcBuhswz) | [Home is a Feeling](https://open.spotify.com/album/1ebpEBxDECiv21T05WNl6G) | 2:30 | 2023-07-18 | 2023-07-29 |
 | [HOME IS FAR AWAY](https://open.spotify.com/track/7A2RLTIRAbncB7EwCV2JRq) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [WE'VE DONE SOMETHING WONDERFUL](https://open.spotify.com/album/7dBLjyqanIMQ12Ck6I2xr0) | 4:51 | 2022-03-29 | 2022-04-21 |
 | [HOME IS WHO YOU ARE](https://open.spotify.com/track/1fUd1ILeLIS3qTHmEowMRf) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [HOME IS WHO YOU ARE](https://open.spotify.com/album/6kCGFww4UHWgTffxZ9L8TJ) | 3:15 | 2023-05-11 | 2023-07-05 |

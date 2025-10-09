@@ -250,7 +250,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-07",
+      "date_removed": null,
       "duration_ms": 241998,
       "name": "After",
       "url": "https://open.spotify.com/track/4Durwjt1E9NXXrpC29GPj6"
@@ -5720,10 +5720,32 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 253038,
       "name": "Rapture in Blue",
       "url": "https://open.spotify.com/track/4VU2zt6DdkIQFGbLCLFIdX"
+    },
+    {
+      "album": {
+        "name": "Rapture in Blue / Greasy off the Racing Line (Midnight Versions)",
+        "url": "https://open.spotify.com/album/4mNoMzeIi5IoXbrGMgESWH"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Cecile Believe",
+          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267031,
+      "name": "Rapture in Blue - Midnight Version",
+      "url": "https://open.spotify.com/track/0COxZNIcu4gUrXlUzLBVUT"
     },
     {
       "album": {
@@ -6298,7 +6320,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 259987,
       "name": "Scab",
       "url": "https://open.spotify.com/track/1XFigUzRNrgLh8NCNpfiVV"

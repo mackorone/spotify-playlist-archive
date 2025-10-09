@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 22435,
+  "num_followers": 22437,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAABlbgoj0v5s6ttMgeyqLqfm",
+  "snapshot_id": "aORYAAAAAAD+PxVe1KGjFccNs/SLeC6R",
   "tracks": [
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abra a Sua Boca e Profetiza (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4KkiqiRH7fg9HMjmrBDWuy"
-      },
-      "artists": [
-        {
-          "name": "Marcus Salles",
-          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 407122,
-      "name": "Abra a Sua Boca e Profetiza - Ao Vivo",
-      "url": "https://open.spotify.com/track/6nP1B60FjOLkx02WyxpLRw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Job",
         "url": "https://open.spotify.com/album/5NGqpE0m7PcQ89qJ7joiyZ"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 324893,
       "name": "Job",
       "url": "https://open.spotify.com/track/2M857I621lLa6qTKTGd4Pt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abra a Sua Boca e Profetiza (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4KkiqiRH7fg9HMjmrBDWuy"
+      },
+      "artists": [
+        {
+          "name": "Marcus Salles",
+          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 407122,
+      "name": "Abra a Sua Boca e Profetiza - Ao Vivo",
+      "url": "https://open.spotify.com/track/6nP1B60FjOLkx02WyxpLRw"
     },
     {
       "added_at": null,

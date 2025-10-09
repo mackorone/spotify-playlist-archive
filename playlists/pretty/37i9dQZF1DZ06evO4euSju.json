@@ -1,12 +1,12 @@
 {
   "description": "This is Teenage Wrist. The essential tracks, all in one playlist.",
-  "num_followers": 1397,
+  "num_followers": 1399,
   "original_name": "This Is Teenage Wrist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAAABW8zwc++uo6Iui70tj6j9",
+  "snapshot_id": "aORYAAAAAAD93jDjp2f5uUDLvDz2mCVt",
   "tracks": [
     {
       "added_at": null,
@@ -330,11 +330,15 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        },
+        {
+          "name": "Sister Void",
+          "url": "https://open.spotify.com/artist/3DpwZLxTvFL01VP4qPfRjn"
         }
       ],
-      "duration_ms": 224214,
-      "name": "Cold Case",
-      "url": "https://open.spotify.com/track/5G3IvLAzd5V4CzMhh8EBBc"
+      "duration_ms": 213863,
+      "name": "Wax Poetic",
+      "url": "https://open.spotify.com/track/5FOvWDm4PrPchyHMDOQiXs"
     },
     {
       "added_at": null,
@@ -394,15 +398,11 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        },
-        {
-          "name": "Sister Void",
-          "url": "https://open.spotify.com/artist/3DpwZLxTvFL01VP4qPfRjn"
         }
       ],
-      "duration_ms": 213863,
-      "name": "Wax Poetic",
-      "url": "https://open.spotify.com/track/5FOvWDm4PrPchyHMDOQiXs"
+      "duration_ms": 224214,
+      "name": "Cold Case",
+      "url": "https://open.spotify.com/track/5G3IvLAzd5V4CzMhh8EBBc"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Tex Tex. The essential tracks, all in one playlist.",
-  "num_followers": 9737,
+  "num_followers": 9740,
   "original_name": "This Is Tex Tex",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAABhIAhY1PPP8xF2cuYSjKuT",
+  "snapshot_id": "aORYAAAAAABgSLeeZrC6BIXwxVbqMdc0",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 180584,
-      "name": "Perdido",
-      "url": "https://open.spotify.com/track/5d0l3GHvTz5qgGAvMitN7T"
+      "duration_ms": 209632,
+      "name": "Amigo",
+      "url": "https://open.spotify.com/track/1n5eTCtbooyfCnsPWoBYFl"
     },
     {
       "added_at": null,
@@ -155,6 +155,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Srita Martinez Punk",
+        "url": "https://open.spotify.com/album/7zUKgICWPou4BmMc0cYNGV"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 198240,
+      "name": "Srita Martinez Punk",
+      "url": "https://open.spotify.com/track/5xtJYEAXKpBNFQZisiS9sr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perdidos",
+        "url": "https://open.spotify.com/album/7LqMN0wuOj2BD6wfFjuAIN"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 180584,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/5d0l3GHvTz5qgGAvMitN7T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Vas a Acordar de M\u00ed, Anda Borracho Pancho, Tlatelolco M\u00edstico, No Tengo Tiempo (Unidos por el Rock)",
         "url": "https://open.spotify.com/album/7abal0FXuwfI15XtxPleU2"
       },
@@ -179,38 +211,6 @@
       "duration_ms": 336725,
       "name": "Te Vas a Acordar de M\u00ed, Anda Borracho Pancho, Tlatelolco M\u00edstico, No Tengo Tiempo - Unidos por el Rock",
       "url": "https://open.spotify.com/track/0x75mir58ij8rxyYmskgLQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perdidos",
-        "url": "https://open.spotify.com/album/7LqMN0wuOj2BD6wfFjuAIN"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 209632,
-      "name": "Amigo",
-      "url": "https://open.spotify.com/track/1n5eTCtbooyfCnsPWoBYFl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Srita Martinez Punk",
-        "url": "https://open.spotify.com/album/7zUKgICWPou4BmMc0cYNGV"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 198240,
-      "name": "Srita Martinez Punk",
-      "url": "https://open.spotify.com/track/5xtJYEAXKpBNFQZisiS9sr"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Toque M\u00e1gico",
-        "url": "https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 321776,
-      "name": "La Calle 16",
-      "url": "https://open.spotify.com/track/4wJhC82CH8gDqvdlcGxFPI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "*86",
         "url": "https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 196186,
       "name": "Se Fue Con Otro",
       "url": "https://open.spotify.com/track/7qwhXFE0IF2c7nCnIyRggF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Toque M\u00e1gico",
+        "url": "https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 321776,
+      "name": "La Calle 16",
+      "url": "https://open.spotify.com/track/4wJhC82CH8gDqvdlcGxFPI"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 156395,
-      "name": "Devuelvelo",
-      "url": "https://open.spotify.com/track/1aDWrIwFmHwWV7yaf91f6r"
+      "duration_ms": 167706,
+      "name": "Ahora Ya No Te Quiero",
+      "url": "https://open.spotify.com/track/5yAxyJy2Q94AJM2NKlsYZK"
     },
     {
       "added_at": null,
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 167706,
-      "name": "Ahora Ya No Te Quiero",
-      "url": "https://open.spotify.com/track/5yAxyJy2Q94AJM2NKlsYZK"
+      "duration_ms": 156395,
+      "name": "Devuelvelo",
+      "url": "https://open.spotify.com/track/1aDWrIwFmHwWV7yaf91f6r"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Mu\u00f1ecos Desenchufados (En Vivo) [Serie Alive]",
-        "url": "https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 311760,
-      "name": "Funky, Pt. 1 - En Vivo",
-      "url": "https://open.spotify.com/track/5gYOs5IL03sXdbsYT58xeI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rebel Cats Y Sus Amigos",
         "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Mu\u00f1ecos Desenchufados (En Vivo) [Serie Alive]",
+        "url": "https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 311760,
+      "name": "Funky, Pt. 1 - En Vivo",
+      "url": "https://open.spotify.com/track/5gYOs5IL03sXdbsYT58xeI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "*86",
         "url": "https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA"
       },
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Haces Volar",
-        "url": "https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef"
+        "name": "Un Toque M\u00e1gico",
+        "url": "https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 320733,
-      "name": "Teor\u00eda de Caos",
-      "url": "https://open.spotify.com/track/7HQCXa85x99iHBezrwowDY"
+      "duration_ms": 106344,
+      "name": "San Francisco",
+      "url": "https://open.spotify.com/track/0ZS7t81n7h6VByNbogOOIB"
     }
   ],
   "unique_name": "This Is Tex Tex",

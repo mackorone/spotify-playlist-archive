@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,942 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,040 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 30 | [Doin Nottin](https://open.spotify.com/track/54J48WdbKeNTLBtBluuGcK) | [FatSync](https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U), [GIU](https://open.spotify.com/artist/5fI3Jx53nUWNtVWpZc4nze) | [Doin Nottin](https://open.spotify.com/album/0wQMycZ8ZsoRJDkKZdvpTQ) | 2:26 |
 | 31 | [One Million](https://open.spotify.com/track/4pBOB1MKyKvG8ntBCTx49A) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [LOTTEN](https://open.spotify.com/artist/64HKArcrzxLzoB2kY4dV0D) | [One Million](https://open.spotify.com/album/3Ki6AS8reL3CslfOHyMMVA) | 3:07 |
 | 32 | [Last Time](https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Last Time](https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR) | 3:34 |
-| 33 | [Dynamite](https://open.spotify.com/track/3HqQpSTLHJRKDhulVacRFb) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Dynamite](https://open.spotify.com/album/3PclTvUZ12jHy1bmWecbuW) | 2:05 |
-| 34 | [My City \(feat\. Katy Tiz\)](https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv), [Katy Tiz](https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW) | [My City \(feat\. Katy Tiz\)](https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe) | 2:31 |
+| 33 | [My City \(feat\. Katy Tiz\)](https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv), [Katy Tiz](https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW) | [My City \(feat\. Katy Tiz\)](https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe) | 2:31 |
+| 34 | [Dynamite](https://open.spotify.com/track/3HqQpSTLHJRKDhulVacRFb) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Dynamite](https://open.spotify.com/album/3PclTvUZ12jHy1bmWecbuW) | 2:05 |
 | 35 | [Dali](https://open.spotify.com/track/2aCHISDYlq4nbKyi195Tac) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht) | [Dali](https://open.spotify.com/album/6UDVIUlB7nvJ4KDNTymxxv) | 2:59 |
 | 36 | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb) | 2:24 |
 | 37 | [Upside Down](https://open.spotify.com/track/67xGM8XQ3U4GCpSTr5XN9s) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [Upside Down](https://open.spotify.com/album/7d9ysVySNJRc1xAYX63ts9) | 2:28 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 52671,
+  "num_followers": 52674,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAAB73/GWyhtRkNgD2qcYFNXX",
+  "snapshot_id": "aORYAAAAAADYc80LKtx5nOBQ3dR8ovy4",
   "tracks": [
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace & Noise",
-        "url": "https://open.spotify.com/album/3ZsYwM93Semk99fceeRz2r"
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 238546,
-      "name": "1959",
-      "url": "https://open.spotify.com/track/6E1y6W1ZTojaBdtHGKDbGK"
+      "duration_ms": 304840,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/00QrHgrVlYOsleK3Vb62OJ"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
+        "name": "Peace & Noise",
+        "url": "https://open.spotify.com/album/3ZsYwM93Semk99fceeRz2r"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 304840,
-      "name": "Revenge",
-      "url": "https://open.spotify.com/track/00QrHgrVlYOsleK3Vb62OJ"
+      "duration_ms": 238546,
+      "name": "1959",
+      "url": "https://open.spotify.com/track/6E1y6W1ZTojaBdtHGKDbGK"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twelve",
-        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 242640,
-      "name": "Helpless",
-      "url": "https://open.spotify.com/track/1eXtvbH5AfeRC14QqtJXcZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
       },
@@ -727,22 +711,6 @@
       "duration_ms": 312440,
       "name": "Citizen Ship",
       "url": "https://open.spotify.com/track/3h95pVJF0P5cWBO6dNWqK8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 340053,
-      "name": "Seneca",
-      "url": "https://open.spotify.com/track/5ZbsRAI0L22x5wV9sjvT1m"
     },
     {
       "added_at": null,
@@ -763,6 +731,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 340053,
+      "name": "Seneca",
+      "url": "https://open.spotify.com/track/5ZbsRAI0L22x5wV9sjvT1m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twelve",
+        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 242640,
+      "name": "Helpless",
+      "url": "https://open.spotify.com/track/1eXtvbH5AfeRC14QqtJXcZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dream Of Life",
         "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
       },
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twelve",
-        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
+        "name": "These Are The Words (From \"Pope Francis: A Man of His Word\")",
+        "url": "https://open.spotify.com/album/2fXB301xeX4kcuMd4lD5x6"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 377240,
-      "name": "Everybody Hurts",
-      "url": "https://open.spotify.com/track/33iQ7flnKWXFKyRW9QF7WZ"
+      "duration_ms": 265293,
+      "name": "These Are The Words - From \"Pope Francis: A Man of His Word\"",
+      "url": "https://open.spotify.com/track/4VA2oV0FfcpaAowScXnR18"
     },
     {
       "added_at": null,

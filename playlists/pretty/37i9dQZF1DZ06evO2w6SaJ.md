@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w6SaJ.md) - [plain]
 
 > This is Crazy Town\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,952 likes - 38 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,958 likes - 38 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w6SaJ.md) - [plain]
 | 29 | [Butterfly \(New Anthem\)](https://open.spotify.com/track/4sgqK7zBhYX7wrTbMe5H8s) | [Black Oxygen](https://open.spotify.com/artist/3yjvzQpJQ4vI7r829AC2LC), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Butterfly \(New Anthem\)](https://open.spotify.com/album/0kQ1ZMco7VJAWkyo29NGdk) | 3:47 |
 | 30 | [Trigger Happy](https://open.spotify.com/track/5cpCqwZTCBJtqoRVFDCMjb) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Flirting With Disaster](https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC) | 3:01 |
 | 31 | [Candy Coated](https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 4:22 |
-| 32 | [XXXII](https://open.spotify.com/track/5d8E5YZ1n7VVBIos0Et8hC) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j), [3013](https://open.spotify.com/artist/3uzNoRHwwazPhCfQIvRS7K), [Shifty Shellshock](https://open.spotify.com/artist/3KiCn5GNOVEyq6GpRQYDxa), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Mandy Lopez](https://open.spotify.com/artist/0ThMwSjximM48dWPe98M1d) | [The Reset \(Deluxe Edition\)](https://open.spotify.com/album/6R4piIcuskKcDClsZbwTap) | 3:53 |
-| 33 | [Deja Vu](https://open.spotify.com/track/1R5VItfeA25A8TeUDb5QZY) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Drowning](https://open.spotify.com/album/0XmL70HMqx3x1BezPYxogJ) | 2:38 |
+| 32 | [Deja Vu](https://open.spotify.com/track/1R5VItfeA25A8TeUDb5QZY) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Drowning](https://open.spotify.com/album/0XmL70HMqx3x1BezPYxogJ) | 2:38 |
+| 33 | [XXXII](https://open.spotify.com/track/5d8E5YZ1n7VVBIos0Et8hC) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j), [3013](https://open.spotify.com/artist/3uzNoRHwwazPhCfQIvRS7K), [Shifty Shellshock](https://open.spotify.com/artist/3KiCn5GNOVEyq6GpRQYDxa), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Mandy Lopez](https://open.spotify.com/artist/0ThMwSjximM48dWPe98M1d) | [The Reset \(Deluxe Edition\)](https://open.spotify.com/album/6R4piIcuskKcDClsZbwTap) | 3:53 |
 | 34 | [99 Bottles](https://open.spotify.com/track/2ZQdyy7u6pCzX3C3xbcCDD) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Flirting With Disaster](https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC) | 3:54 |
 | 35 | [Waste of My Time](https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 2:53 |
 | 36 | [Hellscape](https://open.spotify.com/track/3fhf6IxqOAa1olqs1zfY0B) | [HECC](https://open.spotify.com/artist/4XkFTNRZjPoBdPKNapLNrF), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Roland Banks](https://open.spotify.com/artist/5dRKhmZxN3V6voKOoOEHeK) | [Hellscape](https://open.spotify.com/album/0XKNwYFsecpZ2c9aydBYrq) | 3:39 |
 | 37 | [Beautiful](https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:16 |
 | 38 | [Take It To The Bridge](https://open.spotify.com/track/51pnpNaAkB5YWAXZhsW3Fh) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:16 |
 
-Snapshot ID: `aOMGgAAAAADTzx+ZYK/W7Ah7wvz+dHm7`
+Snapshot ID: `aORYAAAAAAC+MlGKJjiHRhGPyvH4ESIT`

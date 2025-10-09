@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-363 songs - 17 hr 9 min
+364 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Free Spirit \(Nature\)](https://open.spotify.com/track/2qO76Y8tZnBOCRRhOWMjhr) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [A Free Spirit \(Nature\)](https://open.spotify.com/album/12cFEQ1sasH0DJnZjeUJ9Q) | 2:48 | 2023-09-12 |  |
 | [A Grand Arrival](https://open.spotify.com/track/0Nj4m8NYfLPhViRvsX6x7d) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [A Grand Arrival](https://open.spotify.com/album/3Vq8HUnRwN9YNVNDuIxVk4) | 2:32 | 2024-10-03 |  |
 | [A Growing Feeling](https://open.spotify.com/track/1peg4JKeWIybo6q2pdbwh7) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [A Growing Feeling](https://open.spotify.com/album/3M47OSMcsv1Lzcbm787mmo) | 3:17 | 2024-11-11 |  |
+| [A Moment To Rest](https://open.spotify.com/track/0YMz0eRgpTF50YAQnuVjqq) | [Edrial](https://open.spotify.com/artist/7ImkLzKKqqo7iqLfoSmtlY) | [A Moment To Rest](https://open.spotify.com/album/1m7tR3eccuLLyXXr0BGFwP) | 4:28 | 2025-10-01 |  |
 | [A New Beginning](https://open.spotify.com/track/3STalU0FBxYS9hU3hXazYJ) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [A New Beginning](https://open.spotify.com/album/7HmJNzgf80p5RjNz56qSgC) | 2:40 | 2023-03-13 | 2025-10-02 |
 | [A New Day \(by a Forest Stream\)](https://open.spotify.com/track/5Gx8X9lJUJy8QfFzo61DMM) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Forest Sunrise](https://open.spotify.com/album/4iIlz2x6TrEeGimx3idJy5) | 3:44 | 2024-03-01 |  |
 | [Aardvark](https://open.spotify.com/track/4f0g8C72ve7dWIzYTvf8it) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Aardvark](https://open.spotify.com/album/4hGjRmvDwyuAKOFo1sjoHV) | 2:48 | 2023-10-26 |  |
@@ -155,7 +156,7 @@
 | [Hrazdan River](https://open.spotify.com/track/6YUvn14QR00sSWlEt7QlvA) | [Nestos](https://open.spotify.com/artist/226hKCjt03DSIoyUpvNldF) | [Aras](https://open.spotify.com/album/0wr7IKmkKel8OVr3UQVstM) | 2:37 | 2023-03-13 | 2024-12-13 |
 | [Humble Present](https://open.spotify.com/track/4Vi9xSebHSxKK7LArcVcYU) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [Humble Present](https://open.spotify.com/album/0hpfhie8BPcA0okirMROQB) | 3:32 | 2023-01-24 | 2023-09-19 |
 | [Hush](https://open.spotify.com/track/2yCQoW3u8p5d11iXfQO4Ay) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Hush](https://open.spotify.com/album/7IV5zhqWcACwAudZoamFEZ) | 3:15 | 2024-04-01 |  |
-| [Hushed Currents](https://open.spotify.com/track/4RHFVdqyv4Ge2YCqvl3PeV) | [Elaifas](https://open.spotify.com/artist/4y8E0sPmztHzvNUnVIQVot) | [Hushed Currents](https://open.spotify.com/album/6FnFCwrpAhwqzg55B7phuf) | 2:21 | 2025-10-01 |  |
+| [Hushed Currents](https://open.spotify.com/track/4RHFVdqyv4Ge2YCqvl3PeV) | [Elaifas](https://open.spotify.com/artist/4y8E0sPmztHzvNUnVIQVot) | [Hushed Currents](https://open.spotify.com/album/6FnFCwrpAhwqzg55B7phuf) | 2:21 | 2025-10-01 | 2025-10-09 |
 | [I Wished for You](https://open.spotify.com/track/4IGYzg1WFyWd4HKekdvMhr) | [Ultimate Sleep](https://open.spotify.com/artist/7cyxs5oGazdrN6uuMZgf2N) | [I Wished for You](https://open.spotify.com/album/6OpkS4EwZMyuck7dHCk2i5) | 2:38 | 2023-08-21 | 2025-04-30 |
 | [Incubations](https://open.spotify.com/track/32l1QmHNSscsKZiGCpiZxX) | [Roland Mercier](https://open.spotify.com/artist/6wCp7aiL9NQ8j2vl6BQAsa) | [Incubations](https://open.spotify.com/album/3PLtwNgWWjOPHlExuhvbvh) | 3:20 | 2023-05-19 | 2025-04-02 |
 | [Inmensity](https://open.spotify.com/track/1CgVfTgDI5C0KtupDqLpbq) | [Linamla](https://open.spotify.com/artist/6x1wKPLWjpLNeTZT2WxdRj) | [Inmensity](https://open.spotify.com/album/6lccCDR7O0mLxyK62DuvGn) | 2:19 | 2023-12-18 | 2025-10-02 |

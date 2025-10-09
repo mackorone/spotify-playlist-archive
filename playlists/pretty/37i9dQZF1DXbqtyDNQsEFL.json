@@ -1,6 +1,6 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:  Victoria Orenze",
-  "num_followers": 99906,
+  "num_followers": 100251,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
@@ -557,6 +557,22 @@
       "url": "https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO"
     },
     {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "I Believe It (The Life of Jesus)",
+        "url": "https://open.spotify.com/album/1kn3HEmaNTYMt4ZGUa23sj"
+      },
+      "artists": [
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "duration_ms": 225941,
+      "name": "I Believe It (The Life of Jesus)",
+      "url": "https://open.spotify.com/track/2iym3PPUfaR5285b8iLfbq"
+    },
+    {
       "added_at": "2024-12-06 00:01:00",
       "album": {
         "name": "Zion",
@@ -575,22 +591,6 @@
       "duration_ms": 535991,
       "name": "Oceans (Where Feet May Fail)",
       "url": "https://open.spotify.com/track/5SDcksP8En1l6RtTY1wzHc"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "I Believe It (The Life of Jesus)",
-        "url": "https://open.spotify.com/album/1kn3HEmaNTYMt4ZGUa23sj"
-      },
-      "artists": [
-        {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
-        }
-      ],
-      "duration_ms": 225941,
-      "name": "I Believe It (The Life of Jesus)",
-      "url": "https://open.spotify.com/track/2iym3PPUfaR5285b8iLfbq"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "The Hill",
+        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "duration_ms": 591333,
+      "name": "Made A Way",
+      "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Best Days",
         "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 287573,
       "name": "Take Me to the King (feat. Kirk Franklin)",
       "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "The Hill",
-        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        }
-      ],
-      "duration_ms": 591333,
-      "name": "Made A Way",
-      "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
     },
     {
       "added_at": "2024-08-16 00:01:00",
@@ -849,22 +849,6 @@
       "url": "https://open.spotify.com/track/6lrhr9KAExOwMopLB7WBgV"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
-      },
-      "artists": [
-        {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
-        }
-      ],
-      "duration_ms": 369529,
-      "name": "Jesus at the Centre",
-      "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
-    },
-    {
       "added_at": "2025-07-25 00:01:13",
       "album": {
         "name": "Generation Intimacy (Live)",
@@ -883,6 +867,22 @@
       "duration_ms": 817168,
       "name": "Jesu - Live",
       "url": "https://open.spotify.com/track/4RyKKCSQOyuiiIY2t5dEgN"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
+      },
+      "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        }
+      ],
+      "duration_ms": 369529,
+      "name": "Jesus at the Centre",
+      "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1017,30 +1017,6 @@
       "url": "https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL"
     },
     {
-      "added_at": "2025-07-25 00:01:13",
-      "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/66y97RsgjPCEUB7AlsZaiT"
-      },
-      "artists": [
-        {
-          "name": "ONE HOUSE",
-          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
-        },
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Morgan Williams",
-          "url": "https://open.spotify.com/artist/0UYbfCmHb3NhhYVLoMxXie"
-        }
-      ],
-      "duration_ms": 143947,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/3MJScW03etExqb2Slzbdhq"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "The Glory Experience (Live In Houston)",
@@ -1105,6 +1081,30 @@
       "url": "https://open.spotify.com/track/3WQqOfbWCiVSbJebeqdvxx"
     },
     {
+      "added_at": "2025-07-25 00:01:13",
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/66y97RsgjPCEUB7AlsZaiT"
+      },
+      "artists": [
+        {
+          "name": "ONE HOUSE",
+          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Morgan Williams",
+          "url": "https://open.spotify.com/artist/0UYbfCmHb3NhhYVLoMxXie"
+        }
+      ],
+      "duration_ms": 143947,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/3MJScW03etExqb2Slzbdhq"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Fragrance (feat. GGTQ All Stars)",
@@ -1123,26 +1123,6 @@
       "duration_ms": 267337,
       "name": "Fragrance (feat. GGTQ All Stars)",
       "url": "https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Pretty Day",
-        "url": "https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        }
-      ],
-      "duration_ms": 154588,
-      "name": "Pretty Day",
-      "url": "https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1171,18 +1151,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Better Me",
-        "url": "https://open.spotify.com/album/1Ry5NqQ2mLK26TRq23B3So"
+        "name": "Pretty Day",
+        "url": "https://open.spotify.com/album/0YqWhlxMIvLmJeLYwOweWv"
       },
       "artists": [
         {
-          "name": "MOGmusic",
-          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
         }
       ],
-      "duration_ms": 505147,
-      "name": "Be Lifted (Live)",
-      "url": "https://open.spotify.com/track/0mdAgU0AmtvFkQAwnpEpKz"
+      "duration_ms": 154588,
+      "name": "Pretty Day",
+      "url": "https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W"
     },
     {
       "added_at": "2025-08-08 00:01:26",
@@ -1199,6 +1183,22 @@
       "duration_ms": 316927,
       "name": "Ebenezer",
       "url": "https://open.spotify.com/track/7AVUn7XDkSjcKLzoHze8kQ"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Better Me",
+        "url": "https://open.spotify.com/album/1Ry5NqQ2mLK26TRq23B3So"
+      },
+      "artists": [
+        {
+          "name": "MOGmusic",
+          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
+        }
+      ],
+      "duration_ms": 505147,
+      "name": "Be Lifted (Live)",
+      "url": "https://open.spotify.com/track/0mdAgU0AmtvFkQAwnpEpKz"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1377,6 +1377,22 @@
       "url": "https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p"
     },
     {
+      "added_at": "2025-09-26 00:01:31",
+      "album": {
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/6olSiqJYx7DRvMyO8brUbO"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 346500,
+      "name": "Ebenezer (My Helper)",
+      "url": "https://open.spotify.com/track/0vZuT1xmdfAiPS2MHrAwTE"
+    },
+    {
       "added_at": "2025-01-07 00:01:28",
       "album": {
         "name": "Judah (Live)",
@@ -1391,22 +1407,6 @@
       "duration_ms": 534027,
       "name": "Judah - Live",
       "url": "https://open.spotify.com/track/4KiMR2stFyYXenTQPonWTV"
-    },
-    {
-      "added_at": "2025-07-04 00:01:36",
-      "album": {
-        "name": "When You Say A Thing",
-        "url": "https://open.spotify.com/album/58KaH3OCajM4VlwWV2XhXY"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 239076,
-      "name": "When You Say A Thing",
-      "url": "https://open.spotify.com/track/36JNRz48wspzRPzA6fU2tc"
     },
     {
       "added_at": "2024-08-30 00:01:00",
@@ -1425,20 +1425,20 @@
       "url": "https://open.spotify.com/track/6OJooIGQRv2xjNr2AEvckI"
     },
     {
-      "added_at": "2025-09-26 00:01:31",
+      "added_at": "2025-07-04 00:01:36",
       "album": {
-        "name": "Prayer",
-        "url": "https://open.spotify.com/album/6olSiqJYx7DRvMyO8brUbO"
+        "name": "When You Say A Thing",
+        "url": "https://open.spotify.com/album/58KaH3OCajM4VlwWV2XhXY"
       },
       "artists": [
         {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 346500,
-      "name": "Ebenezer (My Helper)",
-      "url": "https://open.spotify.com/track/0vZuT1xmdfAiPS2MHrAwTE"
+      "duration_ms": 239076,
+      "name": "When You Say A Thing",
+      "url": "https://open.spotify.com/track/36JNRz48wspzRPzA6fU2tc"
     },
     {
       "added_at": "2023-12-15 00:01:00",

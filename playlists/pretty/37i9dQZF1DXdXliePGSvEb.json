@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: Jamie xx",
-  "num_followers": 74094,
+  "num_followers": 74111,
   "original_name": "Editors' picks: Best Electronic Songs of 2024",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Inside",
-        "url": "https://open.spotify.com/album/3YuASjHrUIKD6mkV3Fg3RN"
-      },
-      "artists": [
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        }
-      ],
-      "duration_ms": 226664,
-      "name": "Inside",
-      "url": "https://open.spotify.com/track/5DKvLR4yZ3YGmHacJinskC"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Drums of Death",
         "url": "https://open.spotify.com/album/1au1j5lu62capHe16MhXLF"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 191360,
       "name": "Drums of Death",
       "url": "https://open.spotify.com/track/1xefwf39r1PWiOKS40Z31n"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/3YuASjHrUIKD6mkV3Fg3RN"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "duration_ms": 226664,
+      "name": "Inside",
+      "url": "https://open.spotify.com/track/5DKvLR4yZ3YGmHacJinskC"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "TEARDROPS",
-        "url": "https://open.spotify.com/album/5xb1WKKpThyoit6HhVLbfD"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "TEARDROPS",
-      "url": "https://open.spotify.com/track/42Ncw4TTGb1MO1WchSVSaQ"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "BET YOU NEVER",
         "url": "https://open.spotify.com/album/6F2LjjEaRvkAebD0dBFF5Y"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 231195,
       "name": "BET YOU NEVER",
       "url": "https://open.spotify.com/track/7lDzrHSlvJQNT85GVlKogu"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "TEARDROPS",
+        "url": "https://open.spotify.com/album/5xb1WKKpThyoit6HhVLbfD"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "TEARDROPS",
+      "url": "https://open.spotify.com/track/42Ncw4TTGb1MO1WchSVSaQ"
     },
     {
       "added_at": "2024-12-04 12:15:00",

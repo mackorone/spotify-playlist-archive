@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. Cover: TJ Monterde",
+  "description": "Mga nangunguna sa mundo ng OPM. Cover: Rob Deniel",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -1217,6 +1217,28 @@
     },
     {
       "album": {
+        "name": "D14U",
+        "url": "https://open.spotify.com/album/1WmtSzhHXMdIbHxpSGe7nL"
+      },
+      "artists": [
+        {
+          "name": "HELLMERRY",
+          "url": "https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc"
+        },
+        {
+          "name": "KV",
+          "url": "https://open.spotify.com/artist/4ZPvMY3YPMZbVZn5WIjzvB"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195840,
+      "name": "D14U",
+      "url": "https://open.spotify.com/track/2xz3eYcAkoZDWhcNKQLZ94"
+    },
+    {
+      "album": {
         "name": "Dahan",
         "url": "https://open.spotify.com/album/7CW5E4wuSXw01vBKkSZ9Gh"
       },
@@ -1536,7 +1558,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 186000,
       "name": "Duwag",
       "url": "https://open.spotify.com/track/40qnUoc5Yo4ogvXRnCAKgE"
@@ -1740,6 +1762,24 @@
       "duration_ms": 189691,
       "name": "Filipina Queen",
       "url": "https://open.spotify.com/track/2Svd6sWbcaj63h5JHEvEyg"
+    },
+    {
+      "album": {
+        "name": "First Luv",
+        "url": "https://open.spotify.com/album/6hR079yVpoqUG4sOswANT4"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176753,
+      "name": "First Luv",
+      "url": "https://open.spotify.com/track/0qHbCeNAPB7EaKxWiyaAMP"
     },
     {
       "album": {
@@ -3081,6 +3121,24 @@
     },
     {
       "album": {
+        "name": "Kapag Umuulan",
+        "url": "https://open.spotify.com/album/77Vm6TNKJRAubRoV9I1Vts"
+      },
+      "artists": [
+        {
+          "name": "LEYO",
+          "url": "https://open.spotify.com/artist/4u5AQvOTwv3AxWAJxjt2Fg"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204105,
+      "name": "Kapag Umuulan",
+      "url": "https://open.spotify.com/track/1EEJpwlHs0VGsdiftN3MbX"
+    },
+    {
+      "album": {
         "name": "Kape",
         "url": "https://open.spotify.com/album/6zxSfy6cYswUt1TpOcJ49e"
       },
@@ -3476,7 +3534,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 225444,
       "name": "LASIK",
       "url": "https://open.spotify.com/track/5da5VCHTC3516y0y8p40Ee"
@@ -6699,6 +6757,24 @@
     },
     {
       "album": {
+        "name": "Sulyap",
+        "url": "https://open.spotify.com/album/5yC33EFQQMM6oSUltuvBYp"
+      },
+      "artists": [
+        {
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179280,
+      "name": "Sulyap",
+      "url": "https://open.spotify.com/track/0k1bhzpUq3Ol9B2paSDEaK"
+    },
+    {
+      "album": {
         "name": "Sunny When I'm With You",
         "url": "https://open.spotify.com/album/5wlnSQbgrirIifiisWn94E"
       },
@@ -6848,7 +6924,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 183622,
       "name": "Tanga",
       "url": "https://open.spotify.com/track/2PJkC7PGVqKRqM2W98n14r"
@@ -7342,7 +7418,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 220884,
       "name": "Umaaligid",
       "url": "https://open.spotify.com/track/5XYYmsZJG5qIBAniny4bHe"

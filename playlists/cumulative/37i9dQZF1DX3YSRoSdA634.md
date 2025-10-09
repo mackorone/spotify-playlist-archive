@@ -4,7 +4,7 @@
 
 > Having a bad day? We know how it feels!
 
-538 songs - 1 day 8 hr 53 min
+539 songs - 1 day 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Amnesia](https://open.spotify.com/track/0eOrZh0eXsw99k8gFJUpq5) | [Gavin Mikhail](https://open.spotify.com/artist/364ovD0MRp9ezaNTkRoLeA) | [Amnesia](https://open.spotify.com/album/6h8XtZPjisaXPvA5mZDhjC) | 4:49 | 2021-12-15 | 2022-07-22 |
 | [Annabelle's Homework](https://open.spotify.com/track/0DYRjWiFJHvLjxRrywtltC) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:12 | 2022-10-28 |  |
 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 | 2021-12-15 |  |
+| [Apologize](https://open.spotify.com/track/77rlwv75irCcg50920G04u) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:05 | 2024-05-22 |  |
 | [Are You Alright?](https://open.spotify.com/track/5Gi9PNrnsQHCnI5EYelkIG) | [Ulrik Munther](https://open.spotify.com/artist/3mlNO7nX9wkXiB3kw7oExM) | [Are You Alright?](https://open.spotify.com/album/04rSsCRN4eCnOy8IUyeIoV) | 4:40 | 2021-12-15 | 2022-07-28 |
 | [Astronaut](https://open.spotify.com/track/47hpR1q2LXKDMm7YVDvRuP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [vert1go vol\. 1](https://open.spotify.com/album/2dazOe8Ya2l4o19ePLTk1R) | 3:35 | 2024-02-27 |  |
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2022-08-08 |  |
@@ -505,7 +506,7 @@
 | [When I Was Your Man](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:33 | 2021-12-15 |  |
 | [When It's Cold I'd Like to Die](https://open.spotify.com/track/50I6fV2otuiDmigTtN6WMY) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Everything Is Wrong](https://open.spotify.com/album/4JgnH6sdkW0fv3jU4ZgcT0) | 4:14 | 2022-07-01 | 2024-12-13 |
 | [When It's Cold I'd Like to Die](https://open.spotify.com/track/6sOx5jDVKkQCQp3NfCTd52) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Mimi Goese](https://open.spotify.com/artist/6Ca0p9GECZvcw72fBW5vx3) | [Everything Is Wrong](https://open.spotify.com/album/3XsGQHbPWblti128V5C3QR) | 4:15 | 2022-07-01 | 2022-08-06 |
-| [When Scars Become Art II](https://open.spotify.com/track/1cASy7TwuNBB0e6KXydoFr) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE), [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [When Scars Become Art II](https://open.spotify.com/album/4rhFfl7HLvinrnl8u7eVVD) | 4:12 | 2022-04-25 |  |
+| [When Scars Become Art II](https://open.spotify.com/track/1cASy7TwuNBB0e6KXydoFr) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE), [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [When Scars Become Art II](https://open.spotify.com/album/4rhFfl7HLvinrnl8u7eVVD) | 4:12 | 2022-04-25 | 2025-10-09 |
 | [When She Loved Me \- From "Toy Story 2" \- Soundtrack Version](https://open.spotify.com/track/0vFJC16vkmxDqh5K2Hv5y6) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Rarities, B\-Sides and Other Stuff, Volume 2](https://open.spotify.com/album/4eBbbm4yQuCwAbsQ9iuNkF) | 3:04 | 2021-12-15 | 2022-07-29 |
 | [When She Loved Me \- From "Toy Story 2" / Soundtrack Version](https://open.spotify.com/track/780W6YW5HFANQLR77Owern) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Toy Story Favorites](https://open.spotify.com/album/3ngbNRREg1a0DBxQ2tJ936) | 3:03 | 2022-07-01 | 2024-04-19 |
 | [when the party's over](https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:16 | 2021-12-15 |  |

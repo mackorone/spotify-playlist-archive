@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 685962,
+  "num_followers": 686027,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAAAwMN/e7tZyek80BYDriC5M",
+  "snapshot_id": "aORYAAAAAADW3Cy3WUypd7gSG+7Plf1T",
   "tracks": [
     {
       "added_at": null,
@@ -102,11 +102,15 @@
         {
           "name": "Cardi B",
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Lourdiz",
+          "url": "https://open.spotify.com/artist/54nb7VPvMgQEW6pC9Mz0an"
         }
       ],
-      "duration_ms": 155006,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/5MnPcgXz4RXqx09nIqvHKX"
+      "duration_ms": 231377,
+      "name": "On My Back (feat. Lourdiz)",
+      "url": "https://open.spotify.com/track/6eLwy79pxbjuT6dtJRyN2O"
     },
     {
       "added_at": null,
@@ -182,15 +186,11 @@
         {
           "name": "Cardi B",
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 160782,
-      "name": "Pick It Up (feat. Selena Gomez)",
-      "url": "https://open.spotify.com/track/6M1vkKMDQZoh1sbH4asNcF"
+      "duration_ms": 155006,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/5MnPcgXz4RXqx09nIqvHKX"
     },
     {
       "added_at": null,
@@ -262,11 +262,15 @@
         {
           "name": "Cardi B",
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 183416,
-      "name": "Pretty & Petty",
-      "url": "https://open.spotify.com/track/2wn0AYkmcF0Cm7PmvA7hJ7"
+      "duration_ms": 160782,
+      "name": "Pick It Up (feat. Selena Gomez)",
+      "url": "https://open.spotify.com/track/6M1vkKMDQZoh1sbH4asNcF"
     },
     {
       "added_at": null,
@@ -340,9 +344,9 @@
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 104062,
-      "name": "Bodega Baddie",
-      "url": "https://open.spotify.com/track/4JI9FH3KOYOushudtnZt0z"
+      "duration_ms": 178358,
+      "name": "Magnet",
+      "url": "https://open.spotify.com/track/7dHblXsJTRemgyIvFNJE7t"
     },
     {
       "added_at": null,
@@ -408,9 +412,9 @@
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 178358,
-      "name": "Magnet",
-      "url": "https://open.spotify.com/track/7dHblXsJTRemgyIvFNJE7t"
+      "duration_ms": 183416,
+      "name": "Pretty & Petty",
+      "url": "https://open.spotify.com/track/2wn0AYkmcF0Cm7PmvA7hJ7"
     },
     {
       "added_at": null,

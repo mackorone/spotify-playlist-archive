@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 481041,
+  "num_followers": 481069,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAACYfbVDcYMkVO0zih7C7YMF",
+  "snapshot_id": "aORYAAAAAABR2Tw3MjzvKlmI94HpsqWW",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 320226,
-      "name": "God Gave Rock 'N' Roll To You II",
-      "url": "https://open.spotify.com/track/1jJenVEjsXClGR4n4vJkMu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crazy Nights",
         "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 240266,
       "name": "Reason To Live",
       "url": "https://open.spotify.com/track/3onHM3etsRdtbTS7cgwkNb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 320226,
+      "name": "God Gave Rock 'N' Roll To You II",
+      "url": "https://open.spotify.com/track/1jJenVEjsXClGR4n4vJkMu"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creatures Of The Night (40th Anniversary / Super Deluxe)",
-        "url": "https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 257280,
-      "name": "War Machine - 2022 Remastered",
-      "url": "https://open.spotify.com/track/7ETQjnmWqDVyDtNR5gYAWL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 259079,
       "name": "Rock 'N' Roll All Nite - Live",
       "url": "https://open.spotify.com/track/19FX445jYl2XFNKvVKJ9NJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Creatures Of The Night (40th Anniversary / Super Deluxe)",
+        "url": "https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 257280,
+      "name": "War Machine - 2022 Remastered",
+      "url": "https://open.spotify.com/track/7ETQjnmWqDVyDtNR5gYAWL"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotter Than Hell",
-        "url": "https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 211800,
-      "name": "Hotter Than Hell",
-      "url": "https://open.spotify.com/track/7xYo3ytFiilO6bzf6Hr1Rt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crazy Nights",
         "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 198466,
       "name": "Turn On The Night",
       "url": "https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hotter Than Hell",
+        "url": "https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 211800,
+      "name": "Hotter Than Hell",
+      "url": "https://open.spotify.com/track/7xYo3ytFiilO6bzf6Hr1Rt"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De beste Indie & Alternative. Cover: Min Taka",
+  "description": "De beste Indie & Alternative. Cover: Tame Impala",
   "name": "Indie XL",
   "tracks": [
     {
@@ -744,6 +744,24 @@
       "duration_ms": 249120,
       "name": "Down to be wrong",
       "url": "https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP"
+    },
+    {
+      "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
     },
     {
       "album": {
@@ -1774,7 +1792,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 162933,
       "name": "Last Girls At The Party",
       "url": "https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT"
@@ -1846,7 +1864,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 309381,
       "name": "LIE DOWN..",
       "url": "https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp"
@@ -2074,6 +2092,24 @@
       "duration_ms": 189947,
       "name": "Man Made of Meat",
       "url": "https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ"
+    },
+    {
+      "album": {
+        "name": "moisturizer",
+        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204475,
+      "name": "mangetout",
+      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
     },
     {
       "album": {
@@ -2492,7 +2528,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 318735,
       "name": "Not All Is in Vain",
       "url": "https://open.spotify.com/track/4XcmKf5TE7R6NCsG7PTU6H"
@@ -3156,7 +3192,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 190153,
       "name": "Shaking Shoulder",
       "url": "https://open.spotify.com/track/1zOpsnW07jNmNAOu0qDRoQ"
@@ -3307,6 +3343,24 @@
     },
     {
       "album": {
+        "name": "LOVED",
+        "url": "https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197703,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/02KWhwsDjIX8ZXgBgK9kOP"
+    },
+    {
+      "album": {
         "name": "Sorry I'm Late, I Didn't Want To Come",
         "url": "https://open.spotify.com/album/0L0HjrYb1wTsyzwwe1qgy2"
       },
@@ -3412,6 +3466,24 @@
       "duration_ms": 221450,
       "name": "Starburster",
       "url": "https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV"
+    },
+    {
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/1a0GUVQ949SkbMcQOKfPGJ"
+      },
+      "artists": [
+        {
+          "name": "Triggerfinger",
+          "url": "https://open.spotify.com/artist/3UhIlk54Oe4ja06V962ptU"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197259,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/0r9Iyfi7mRDnV6DP7byrYd"
     },
     {
       "album": {

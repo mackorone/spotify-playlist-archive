@@ -1,12 +1,12 @@
 {
   "description": "This is Little Walter. The essential tracks, all in one playlist.",
-  "num_followers": 7046,
+  "num_followers": 7048,
   "original_name": "This Is Little Walter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAABe6TdovLzDoXShKknmhSh3",
+  "snapshot_id": "aORYAAAAAABaP67n/gYXfCbbmop9RP5C",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Confessin' The Blues",
+        "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 159333,
+      "name": "Temperature",
+      "url": "https://open.spotify.com/track/5rhkyfhfDDioMMUcJRApcx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 236160,
       "name": "My Babe",
       "url": "https://open.spotify.com/track/0YCj5u72nxNMLdvDQcUdZr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confessin' The Blues",
-        "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 159333,
-      "name": "Temperature",
-      "url": "https://open.spotify.com/track/5rhkyfhfDDioMMUcJRApcx"
     },
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 185133,
-      "name": "Come Back Baby",
-      "url": "https://open.spotify.com/track/769YWmOdBirkmlu6en7TAh"
+      "duration_ms": 172466,
+      "name": "Ah'w Baby",
+      "url": "https://open.spotify.com/track/0Bs7dKLx8C7LypcCCGbBpo"
     },
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 173013,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/3jQUu2mIntB5hUQizHhOUd"
+      "duration_ms": 169786,
+      "name": "Everything's Gonna Be Alright",
+      "url": "https://open.spotify.com/track/2AfLquO3aQ4xiQ53k5fkAY"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 172466,
-      "name": "Ah'w Baby",
-      "url": "https://open.spotify.com/track/0Bs7dKLx8C7LypcCCGbBpo"
+      "duration_ms": 185133,
+      "name": "Come Back Baby",
+      "url": "https://open.spotify.com/track/769YWmOdBirkmlu6en7TAh"
     },
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 169786,
-      "name": "Everything's Gonna Be Alright",
-      "url": "https://open.spotify.com/track/2AfLquO3aQ4xiQ53k5fkAY"
+      "duration_ms": 173013,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/3jQUu2mIntB5hUQizHhOUd"
     },
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 209826,
-      "name": "You Can't Judge A Book By Its Cover",
-      "url": "https://open.spotify.com/track/2HD83NXZZRx68thhkaZk6H"
+      "duration_ms": 254506,
+      "name": "Who Do You Love",
+      "url": "https://open.spotify.com/track/1BaGFTIPeL32MpF9eUVguh"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 201226,
-      "name": "Crazy Legs",
-      "url": "https://open.spotify.com/track/5qpE3qKGIPLg13gYxI5AGb"
+      "duration_ms": 188413,
+      "name": "Driftin'",
+      "url": "https://open.spotify.com/track/1tfJ6C6KuQhvXdL7cijHJ8"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 254506,
-      "name": "Who Do You Love",
-      "url": "https://open.spotify.com/track/1BaGFTIPeL32MpF9eUVguh"
+      "duration_ms": 209826,
+      "name": "You Can't Judge A Book By Its Cover",
+      "url": "https://open.spotify.com/track/2HD83NXZZRx68thhkaZk6H"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 188413,
-      "name": "Driftin'",
-      "url": "https://open.spotify.com/track/1tfJ6C6KuQhvXdL7cijHJ8"
+      "duration_ms": 201226,
+      "name": "Crazy Legs",
+      "url": "https://open.spotify.com/track/5qpE3qKGIPLg13gYxI5AGb"
     },
     {
       "added_at": null,

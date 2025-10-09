@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,756 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,795 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Artista Genérico](https://open.spotify.com/track/7yRlmQTjZ5pdtlq7ska9mj) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Eu Venci o Mundo](https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT) | 2:30 |
 | 50 | [Pelo Bem da Minha Saudade](https://open.spotify.com/track/2W8XL6iRGMmGHpqW2TKcXc) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Feito À Mão Vol\. 01](https://open.spotify.com/album/40jGnqAXzR8Bta84lEI5mc) | 2:51 |
 
-Snapshot ID: `MHiCIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MHnToAAAAAAAAAAAAAAAAAAAAAAAAGVu`

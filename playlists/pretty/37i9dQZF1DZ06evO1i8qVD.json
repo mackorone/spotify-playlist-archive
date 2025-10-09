@@ -1,12 +1,12 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 37323,
+  "num_followers": 37331,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAABXAdkskB1wvEyGr0wRWKq2",
+  "snapshot_id": "aORYAAAAAAAdHG9iN5F+cjVtK671FWDS",
   "tracks": [
     {
       "added_at": null,
@@ -774,11 +774,15 @@
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
         }
       ],
-      "duration_ms": 505906,
-      "name": "Five Long Years",
-      "url": "https://open.spotify.com/track/5kNUT32bVoptcf1j88ldAU"
+      "duration_ms": 275680,
+      "name": "Where Is the Next One Coming From (feat. Mark Knopfler)",
+      "url": "https://open.spotify.com/track/2yJPlXbIlR9rQEFp7hB4by"
     },
     {
       "added_at": null,
@@ -846,15 +850,11 @@
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Mark Knopfler",
-          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
         }
       ],
-      "duration_ms": 275680,
-      "name": "Where Is the Next One Coming From (feat. Mark Knopfler)",
-      "url": "https://open.spotify.com/track/2yJPlXbIlR9rQEFp7hB4by"
+      "duration_ms": 505906,
+      "name": "Five Long Years",
+      "url": "https://open.spotify.com/track/5kNUT32bVoptcf1j88ldAU"
     },
     {
       "added_at": null,

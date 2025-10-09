@@ -4,7 +4,7 @@
 
 > Single people dey suffer
 
-852 songs - 1 day 17 hr 13 min
+853 songs - 1 day 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -480,6 +480,7 @@
 | [Maami](https://open.spotify.com/track/1pGlMq4KhvvATHvET7SQVv) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [The Game Needs You](https://open.spotify.com/album/6ugTlnX34eEh3pmI7sTXD2) | 3:00 | 2025-07-11 | 2025-08-15 |
 | [Mad](https://open.spotify.com/track/2eRpyRjC2hThMbl99q00pe) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Diamond & Roses](https://open.spotify.com/album/3MVPTFnmsgLu4rvruGwAGf) | 2:39 | 2024-10-25 | 2025-05-17 |
 | [Mad Over You](https://open.spotify.com/track/1jloWdvMh9nwHUu3mag8CL) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Mad Over You](https://open.spotify.com/album/1BeDVLt8DTIIN3jSLK5V78) | 3:36 | 2024-02-13 | 2024-02-16 |
+| [Mademoiselle \(feat\. ODUMODUBLVCK, Shallipopi, Theodora, Zeina\)](https://open.spotify.com/track/1iYBlO1RGEFeDnG3AH4gUE) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 2:51 | 2025-10-08 |  |
 | [Majẹkajá](https://open.spotify.com/track/55pTjtdEONZz5e4la7WmBV) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Before We Became Strangers](https://open.spotify.com/album/4eUmsqNGSbpaCJWnpQzCte) | 3:30 | 2025-07-04 | 2025-08-26 |
 | [Make It Up To You \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sincere \(Deluxe\)](https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE) | 2:31 | 2024-12-06 | 2025-04-01 |
 | [Make Me Believe \(Nana\)](https://open.spotify.com/track/6tCXMkEeYrlU2fKf1YhNZO) | [Titi Owusu](https://open.spotify.com/artist/1zFAZYHVVh6hgb0q6dVaVV) | [Make Me Believe \(Nana\)](https://open.spotify.com/album/03MqZoZQMFlQ6XiM2HalZ0) | 3:11 | 2023-06-30 | 2023-08-04 |
@@ -826,7 +827,7 @@
 | [Why](https://open.spotify.com/track/5RnAlrUxLZmBGhgICz5ggZ) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Why](https://open.spotify.com/album/7fkJBL9ScE5npaKTjOTkWm) | 2:45 | 2023-03-17 | 2023-04-21 |
 | [Why?](https://open.spotify.com/track/0znm2JL9roSYKV6e4CUo87) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Why?](https://open.spotify.com/album/0fgWT4cXG1JsVF9suHlU0M) | 3:04 | 2023-09-14 | 2023-09-29 |
 | [Wife Material](https://open.spotify.com/track/1bmj7lWyUHD9vhtS50WXyC) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Wife Material](https://open.spotify.com/album/4hH5VeAbU4y9AHqYKA8G3G) | 2:57 | 2025-09-19 |  |
-| [Wifey](https://open.spotify.com/track/64sIw7KWbyz9HcNPYJ50UN) | [WANI](https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [LCV3: Sweet Surrender.](https://open.spotify.com/album/4mNAKHeQjbQ59K12lgcB4M) | 3:44 | 2025-02-14 |  |
+| [Wifey](https://open.spotify.com/track/64sIw7KWbyz9HcNPYJ50UN) | [WANI](https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [LCV3: Sweet Surrender.](https://open.spotify.com/album/4mNAKHeQjbQ59K12lgcB4M) | 3:44 | 2025-02-14 | 2025-10-09 |
 | [Will I?](https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Will I?](https://open.spotify.com/album/76c9Zwxc1cTq0tfXw7eMSM) | 2:44 | 2024-08-25 | 2024-11-24 |
 | [Winner](https://open.spotify.com/track/0VNpGyvGm4x4G78K2htr5Y) | [Dr Dolor](https://open.spotify.com/artist/4ydQQWXr6EfZwY2fyDSdJe), [Singah](https://open.spotify.com/artist/42B7kT9OrmQyjYb2jYGFHe) | [Winner](https://open.spotify.com/album/5qHcpK4aGNBpAXkxk3XBd0) | 2:53 | 2022-11-04 | 2022-11-12 |
 | [WINNER](https://open.spotify.com/track/14FRaNhhJ0hbgtFdY48Ed1) | [Dr Dolor](https://open.spotify.com/artist/4ydQQWXr6EfZwY2fyDSdJe), [Singah](https://open.spotify.com/artist/42B7kT9OrmQyjYb2jYGFHe) | [WINNER](https://open.spotify.com/album/38OBkuvhiliWmf7N2sllyP) | 2:53 | 2022-11-04 | 2022-11-29 |

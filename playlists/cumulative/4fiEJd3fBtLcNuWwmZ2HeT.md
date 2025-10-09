@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-381 songs - 22 hr 1 min
+385 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [prayer](https://open.spotify.com/track/03MAoBUO3pCOc9uCgZalQ9) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Etude of clair](https://open.spotify.com/album/15PBs7XGQAByFubUi3cCJV) | 3:20 | 2025-05-20 |  |
 | [Premier Amour](https://open.spotify.com/track/7re5aEfGdP4ksYlvh7XqmY) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Voyage Sans Retour](https://open.spotify.com/album/3pjezGBR5XKjQH8RvDAt4W) | 4:55 | 2025-09-25 |  |
 | [Que Sera Sera](https://open.spotify.com/track/4IZg9U48i5a3gv3NBJdXeq) | [glamscure](https://open.spotify.com/artist/7oQX1jVN0EsaRmdFKBkzdT) | [Succubus≒incubuS](https://open.spotify.com/album/2CMCQdf27MEYtVxyzSFYX7) | 4:49 | 2025-09-08 |  |
+| [QUEEN](https://open.spotify.com/track/32zpHDchUY83w80C8mMtOs) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [QUEEN](https://open.spotify.com/album/4abbUX3gfMhHSN0gDrchyc) | 2:21 | 2025-10-08 |  |
 | [QUEEN OF THE NIGHT](https://open.spotify.com/track/1gO9SZTzqUOdCpGaU6eRlS) | [The Vanished People](https://open.spotify.com/artist/3EogvEV9nc7Av6ngy8CIeJ) | [QUEEN OF THE NIGHT](https://open.spotify.com/album/6kKMUex64mP35JZpbRp3Ma) | 2:44 | 2024-04-06 |  |
 | [R.I.P\. Gossip Sea](https://open.spotify.com/track/7xz8uuhmnW80qujTXrtX2N) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6) | [Gossip Sea](https://open.spotify.com/album/2shWfyRGHT8C3k5NeygiWU) | 3:39 | 2022-11-11 |  |
 | [Radio Noise \(feat\. Ado\)](https://open.spotify.com/track/5vR8dVVGrEBYoso2InjuKo) | [ミコ吉](https://open.spotify.com/artist/1Q9WuPC9wFV6V8BBeR7GEF), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Radio Noise \(feat\. Ado\)](https://open.spotify.com/album/3d2gch75FvpDfumKzaojoo) | 4:48 | 2023-11-27 |  |
@@ -260,6 +261,7 @@
 | [どろどろ](https://open.spotify.com/track/19t29QL6AooboodhvpetrU) | [Toiki.](https://open.spotify.com/artist/5zRxHcSIZl3iXv8udO7Vwu) | [天使も悪魔もいないから 2](https://open.spotify.com/album/69zt6hXI7NtmUQrGJbBqad) | 1:35 | 2024-11-11 |  |
 | [なしのつぶて](https://open.spotify.com/track/1O2hcDSkikd89nlbW5hmdV) | [未完成モノローグ](https://open.spotify.com/artist/26QVC80GmRRg4EbeTHs3H3) | [なしのつぶて](https://open.spotify.com/album/3ey0iJJMcD5q8tDA5r54MQ) | 2:46 | 2023-09-14 |  |
 | [ばかじゃないのに](https://open.spotify.com/track/1fMqXaqP3EhRWQdzxAaZqi) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [沈香学](https://open.spotify.com/album/1mtciArMoiLPqOdflY5dWQ) | 4:14 | 2024-01-31 |  |
+| [ふこうぶつ](https://open.spotify.com/track/7abGCbVHOoTyIgVOG2Ggue) | [WAKUSEI ABNORMAL](https://open.spotify.com/artist/1MeQhADFeadgcic2GpcND1) | [私は怒りでできている](https://open.spotify.com/album/2gAfA53QQF1h82B5xo11da) | 2:43 | 2025-10-08 |  |
 | [よふかしのうた \- Yofukashino Uta](https://open.spotify.com/track/1j6Agt1Sn2DjQ0NA33J3r2) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [よふかしのうた](https://open.spotify.com/album/6peWfaCCNUTETgugcpNHed) | 4:00 | 2023-03-10 |  |
 | [アイされヒビわれカガミのうた](https://open.spotify.com/track/3KwAPj5ErBvGeFufjjiAA0) | [きくおはな](https://open.spotify.com/artist/1GBV8C0PfGVH1G5QRqHt5k) | [第二幕](https://open.spotify.com/album/7et3nHvC6nflQu4QsJkJvs) | 4:55 | 2025-09-18 |  |
 | [アディオス](https://open.spotify.com/track/5GvjB9nq8oGYJWfEIMebZ3) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [アディオス](https://open.spotify.com/album/4ugiNFkcSGCDLCPdX7Nj9w) | 3:20 | 2023-09-11 |  |
@@ -329,6 +331,7 @@
 | [堕天 \- Daten](https://open.spotify.com/track/1ndUYRPchJVNQCM7XwN7Hq) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [堕天 \- Daten](https://open.spotify.com/album/6TyquheH5JW6c5YuZ4ectA) | 2:52 | 2023-06-22 |  |
 | [壊れた人形のマーチ](https://open.spotify.com/track/6mHdGKGQNLCa4V0Z6W5PUO) | [少女理論観測所](https://open.spotify.com/artist/2nwIeM1Ph9IiHtFuNvhFDu) | [Border on Blossom](https://open.spotify.com/album/53OwVselTqJ9NxGSkBjx2F) | 4:24 | 2024-09-02 |  |
 | [夕暮れの鳥](https://open.spotify.com/track/4dZDlAkUb9b4hFkj6TNfK3) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [幼さを入院させて](https://open.spotify.com/album/1BZrhUoHveceCAbxUmMnuE) | 5:02 | 2024-10-28 | 2024-11-28 |
+| [夜になったら耿十八は](https://open.spotify.com/track/67m8OAMRKgo4zhTFoKinW3) | [Peg](https://open.spotify.com/artist/2nXscFBFNh9ryugWGdW5po) | [Immortal Club](https://open.spotify.com/album/3F8Y95zceuJs2RWgn5VQwS) | 3:37 | 2025-10-08 |  |
 | [夜に駆ける](https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:18 | 2022-11-25 |  |
 | [失楽園ダイブ](https://open.spotify.com/track/7910oN5hlBbGcphkOvfvvh) | [REISAI](https://open.spotify.com/artist/43y4C3MKdOnurkfODdJE2P) | [失楽園ダイブ](https://open.spotify.com/album/6jtMVhjo3bDtacfNHGJrGn) | 3:05 | 2025-04-01 |  |
 | [好きって言って](https://open.spotify.com/track/3vCLTwRBF4kSgmO6T6OS2I) | [ちいたな](https://open.spotify.com/artist/2Ge3g79AyrNekwSaHTu2GF) | [アリアノート](https://open.spotify.com/album/3cRxEHd2WLiBOQqpAR0jlH) | 3:12 | 2022-12-24 |  |
@@ -336,6 +339,7 @@
 | [孤独の宗教](https://open.spotify.com/track/1ZIr94qQM1N05mSqrZkz9v) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [必死](https://open.spotify.com/album/4hU4a62lifie6pzLvWjUqO) | 3:10 | 2024-09-09 |  |
 | [宵々古今](https://open.spotify.com/track/3KLHSYHSmny4sJo2finqy9) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [Σ](https://open.spotify.com/album/5MruJPW5X4cal6bpN7llrF) | 4:17 | 2023-11-12 |  |
 | [幽霊東京](https://open.spotify.com/track/6gmwKGGuoY7NAqKI3pzMPC) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [夜撫でるメノウ / 幽霊東京](https://open.spotify.com/album/2eGDVgL9Vbz6Pehc9Kz7hS) | 3:30 | 2023-07-18 |  |
+| [心中なら倉敷で](https://open.spotify.com/track/7suTW2CMSgQdioqvEvaALy) | [SLAVE.V\-V\-R](https://open.spotify.com/artist/1onKSSP12ag3LqViv4sBzR), [裏命](https://open.spotify.com/artist/3dYIVgbOkyGZpkwCZzYAvs) | [音楽的同位体 裏命 1st COMPILATION ALBUM パラノーマル \(vol.1 残響のパラノーマル\)](https://open.spotify.com/album/3n2dujCufrAXLzL8ABdRF6) | 3:12 | 2025-10-08 |  |
 | [心臓](https://open.spotify.com/track/7seqDm8KZRDOpL2z9ONTiA) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [Stupid dog](https://open.spotify.com/album/7az7pLGS7uW4AEY3BPy3sZ) | 3:44 | 2025-07-20 |  |
 | [忘れてやらない](https://open.spotify.com/track/47xVHFTtByhvrYFZCi0Fgh) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [忘れてやらない](https://open.spotify.com/album/2gcOhrqnwqostpe71Vkqxu) | 3:43 | 2023-05-06 |  |
 | [怪物](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [怪物](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 3:26 | 2021-04-05 |  |

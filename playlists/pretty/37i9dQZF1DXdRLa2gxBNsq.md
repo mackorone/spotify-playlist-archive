@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: LUCY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,849 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,859 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 44 | [En Tierra de Nadie](https://open.spotify.com/track/2pQdxVXSdyDmwE55w72WB9) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Trilogía ¡Vamos Afuera!](https://open.spotify.com/album/7Gd4UmQBSPGJFkatH9f5fr) | 3:34 |
 | 45 | [Pura dinamita](https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC) | [Kamikazes](https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy) | [Pura dinamita](https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9) | 3:56 |
 | 46 | [Ni Descanso, Ni Paz!](https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ni Descanso, Ni Paz!](https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z) | 2:17 |
-| 47 | [Pesadilla Adulta](https://open.spotify.com/track/4g3INzuTAV6sZxnaxg1RJs) | [Rata Negra](https://open.spotify.com/artist/7KjdFWj7ujhSLbzWYAAgVe) | [Hawai](https://open.spotify.com/album/1J5DJeQpsKX8JWh0I8ocRw) | 1:58 |
-| 48 | [Tenemos a la Pasma](https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Cicatriz en la Matrix](https://open.spotify.com/album/51o67b23wyqqkYGN738zMG) | 1:58 |
+| 47 | [Tenemos a la Pasma](https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Cicatriz en la Matrix](https://open.spotify.com/album/51o67b23wyqqkYGN738zMG) | 1:58 |
+| 48 | [Pesadilla Adulta](https://open.spotify.com/track/4g3INzuTAV6sZxnaxg1RJs) | [Rata Negra](https://open.spotify.com/artist/7KjdFWj7ujhSLbzWYAAgVe) | [Hawai](https://open.spotify.com/album/1J5DJeQpsKX8JWh0I8ocRw) | 1:58 |
 | 49 | [Prefiero Caminar](https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B) | [Disidencia](https://open.spotify.com/artist/1ym8Cw2gG6nn8hgk4Vjkht) | [Bienvenidos a Occidente](https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY) | 4:14 |
 | 50 | [Ya Estoy Muerto](https://open.spotify.com/track/6jDOGFu4JAwSAR70L8fssV) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Ya Estoy Muerto](https://open.spotify.com/album/4y7bbLYsC53jnibdfthGCA) | 2:12 |
 | 51 | [La Historia se Repite](https://open.spotify.com/track/4A2mcoje2LKC9ErsTl2vOj) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S), [Reincidentes](https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX) | [La Historia se Repite](https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg) | 2:10 |
@@ -75,12 +75,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 65 | [Ahora soy un punkarra](https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP) | [Desklate](https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT) | [Ahora soy un punkarra](https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK) | 2:24 |
 | 66 | [Antifascismo](https://open.spotify.com/track/0V945W0o8KQijRUY98x59d) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Antifascismo](https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU) | 4:20 |
 | 67 | [Amar Mata \- Remasterizado 2024](https://open.spotify.com/track/0FeTWjNHIalS91yEH0PZsu) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Amar Mata \(Remasterizado 2024\)](https://open.spotify.com/album/0cGPcWdGME5xzYwNVA69LP) | 3:04 |
-| 68 | [Rico deprimido \- XX5](https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S) | [Rico deprimido \(XX5\)](https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z) | 3:25 |
-| 69 | [Figurante](https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm) | [Hijos De Nacho Vidal](https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz) | [Figurante](https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt) | 2:30 |
+| 68 | [Figurante](https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm) | [Hijos De Nacho Vidal](https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz) | [Figurante](https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt) | 2:30 |
+| 69 | [Rico deprimido \- XX5](https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S) | [Rico deprimido \(XX5\)](https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z) | 3:25 |
 | 70 | [Las 13:12](https://open.spotify.com/track/5O6D1ZUqffHMLgzlQsVbJC) | [Sartenazo Cerebral](https://open.spotify.com/artist/4UIGa1G6fmJ74FheT3qszX) | [...Y Una Mierda](https://open.spotify.com/album/7HstxEug5UmMcjngQLblJj) | 2:37 |
 | 71 | [Todos Mis Enemigos Se Llaman Cayetano](https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc) | [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Todos Mis Enemigos Se Llaman Cayetano](https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL) | 0:57 |
-| 72 | [Una y Nos Vamos \- Versión 2024](https://open.spotify.com/track/1ojM4BgQqqAMeOVhuoSaqx) | [Debruces](https://open.spotify.com/artist/6h3LUhp2WSoTAeOEYHa62S), [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy), [Guillotina Punk Rock](https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d) | [Una y Nos Vamos \(Versión 2024\)](https://open.spotify.com/album/6xPQrDpm7oCRNRpJOyWkdK) | 3:40 |
-| 73 | [ANTIFASCISTA](https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [ANTIFASCISTA](https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv) | 4:33 |
+| 72 | [ANTIFASCISTA](https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [ANTIFASCISTA](https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv) | 4:33 |
+| 73 | [Una y Nos Vamos \- Versión 2024](https://open.spotify.com/track/1ojM4BgQqqAMeOVhuoSaqx) | [Debruces](https://open.spotify.com/artist/6h3LUhp2WSoTAeOEYHa62S), [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy), [Guillotina Punk Rock](https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d) | [Una y Nos Vamos \(Versión 2024\)](https://open.spotify.com/album/6xPQrDpm7oCRNRpJOyWkdK) | 3:40 |
 | 74 | [Profetas](https://open.spotify.com/track/4zhleCCvE0sHRhsL3DCzOm) | [Fatiga](https://open.spotify.com/artist/1cY1vOsMZkeCYoXRdaZoKp) | [Profetas](https://open.spotify.com/album/0TL7GYH5wG2KK55DIbTDh8) | 2:58 |
 | 75 | [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 |
 | 76 | [Ser Libre](https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Ser Libre](https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH) | 3:36 |

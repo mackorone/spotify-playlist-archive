@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 
 > Leave no rock undiscovered and explore the essential foundations of Christian rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,937 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,927 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 | 21 | [Breathe Into Me](https://open.spotify.com/track/5BrxQCdse2b424hlurCvGz) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [End Of Silence](https://open.spotify.com/album/3ntOXFMHUPIedU3l2QNE0n) | 3:34 |
 | 22 | [Unbreakable](https://open.spotify.com/track/6M9vEm3Cy3PHr3QkXRX6x3) | [Fireflight](https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy) | [Unbreakable](https://open.spotify.com/album/4vmnwiWRiSgbcU1idqfuGS) | 3:21 |
 | 23 | [Frontline](https://open.spotify.com/track/39sN48Q2DIbyVK8i8kkqgF) | [Pillar](https://open.spotify.com/artist/2Tkg8omOIsTL617yXVt26e) | [Where Do We Go From Here](https://open.spotify.com/album/22Vt5HrHpPtKb8yN90LRwM) | 3:10 |
-| 24 | [Live Like That](https://open.spotify.com/track/6QbbxQtijqLfUV90Vlm1Xh) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [Live Like That](https://open.spotify.com/album/7FahRUE20rBZZuaR7pVk38) | 3:57 |
-| 25 | [Jesus Freak \- Remastered 2013](https://open.spotify.com/track/4zAjQDduJhIRFSpfrIN68Z) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [Jesus Freak \(Remastered\)](https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF) | 4:49 |
+| 24 | [Jesus Freak \- Remastered 2013](https://open.spotify.com/track/4zAjQDduJhIRFSpfrIN68Z) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [Jesus Freak \(Remastered\)](https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF) | 4:49 |
+| 25 | [Live Like That](https://open.spotify.com/track/6QbbxQtijqLfUV90Vlm1Xh) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [Live Like That](https://open.spotify.com/album/7FahRUE20rBZZuaR7pVk38) | 3:57 |
 | 26 | [Strong Tower](https://open.spotify.com/track/6YP6bn1Id1DgGkX5IB7zuh) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Strong Tower](https://open.spotify.com/album/0Ot6Adlv0VTliCkFcR5OUB) | 3:58 |
 | 27 | [Already Over](https://open.spotify.com/track/3SP1LUtLle97QNFvFFopnG) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [End Of Silence](https://open.spotify.com/album/3ntOXFMHUPIedU3l2QNE0n) | 4:24 |
 | 28 | [Flood](https://open.spotify.com/track/4wSqP7Vo7HcoakudSMzxAO) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Jars Of Clay](https://open.spotify.com/album/3NmhY1GyYPSR9VGycvfRrQ) | 3:31 |

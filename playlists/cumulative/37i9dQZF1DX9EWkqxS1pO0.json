@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Ak\u015fama Kald\u0131m",
+        "url": "https://open.spotify.com/album/4kpGoHsiKri3IehBFidw3n"
+      },
+      "artists": [
+        {
+          "name": "\u00c7etin Dilsiz",
+          "url": "https://open.spotify.com/artist/3xVNtr8NgvJI6VmJ2DoYUs"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "Ak\u015fama Kald\u0131m",
+      "url": "https://open.spotify.com/track/2wk3wspfJCBIQ7ggh2jTEH"
+    },
+    {
+      "album": {
         "name": "Alaaddin",
         "url": "https://open.spotify.com/album/18bzdTfekL5mXeYrTeHB8n"
       },
@@ -4590,7 +4608,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 191052,
       "name": "Yaln\u0131zl\u0131k G\u00fcnah De\u011fil",
       "url": "https://open.spotify.com/track/5K4AEDD3f31SY7rTpDYCig"

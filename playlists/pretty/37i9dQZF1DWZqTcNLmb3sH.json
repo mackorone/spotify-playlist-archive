@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kantara : Chapter 1",
-  "num_followers": 64697,
+  "num_followers": 64712,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKFLJSDn8kNt87Sw4Zmj/LHYGwGO",
+  "snapshot_id": "AAAAACmkboQavVm8dUriKEU+aFFu4zeD",
   "tracks": [
     {
       "added_at": "2025-10-01 12:21:19",
@@ -59,6 +59,30 @@
       "duration_ms": 207887,
       "name": "Psycho Saithan (From \"Mark\") (Kannada)",
       "url": "https://open.spotify.com/track/7CTZCYA14QSPMKrUWJrI9f"
+    },
+    {
+      "added_at": "2025-10-08 12:38:37",
+      "album": {
+        "name": "Siriye (From \"Congratulations Brother\")",
+        "url": "https://open.spotify.com/album/2mEpG1OR3ImxTfMXWaq3k1"
+      },
+      "artists": [
+        {
+          "name": "Suraj Jois",
+          "url": "https://open.spotify.com/artist/27GwuwHp0LlzXjAyZYniSp"
+        },
+        {
+          "name": "Rakshith Nag",
+          "url": "https://open.spotify.com/artist/0tZ66z4SLB7DVoIL8nqZSO"
+        },
+        {
+          "name": "Rajat Hegde",
+          "url": "https://open.spotify.com/artist/0KUITfL95SqUmYtOBPjLtW"
+        }
+      ],
+      "duration_ms": 226125,
+      "name": "Siriye (From \"Congratulations Brother\")",
+      "url": "https://open.spotify.com/track/5ypGmZ9TWwZbDbqzyAE43L"
     },
     {
       "added_at": "2025-09-15 06:32:45",
@@ -1203,30 +1227,6 @@
       "duration_ms": 276150,
       "name": "Yaav Kadege Kathe (From \"The Girlfriend\")",
       "url": "https://open.spotify.com/track/1pFWqywqDtcUWXnJeQN399"
-    },
-    {
-      "added_at": "2025-08-21 04:24:35",
-      "album": {
-        "name": "Dooradalli Yaaro Ninthu (From \"Ekka\")",
-        "url": "https://open.spotify.com/album/7pkw1PhGsQ0TyVmxQBM0QA"
-      },
-      "artists": [
-        {
-          "name": "Satish Ragunathan",
-          "url": "https://open.spotify.com/artist/3SZJDk1qXHcPcjbmQFt6zr"
-        },
-        {
-          "name": "Charanraj MR",
-          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
-        },
-        {
-          "name": "Rohit Padaki",
-          "url": "https://open.spotify.com/artist/7n0eJrc01AxvoZB7njSOrX"
-        }
-      ],
-      "duration_ms": 202102,
-      "name": "Dooradalli Yaaro Ninthu (From \"Ekka\")",
-      "url": "https://open.spotify.com/track/0YHGvpuD89UBbrypkrVJNc"
     }
   ],
   "unique_name": "Latest Kannada",

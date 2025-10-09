@@ -4,7 +4,7 @@
 
 > Voices that are elevating nuestra cultura\. Cuco en portada.
 
-61 songs - 3 hr 9 min
+62 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,9 @@
 | [Amorcito Veranito](https://open.spotify.com/track/6d6lk5dyI0bu7n5P794uZt) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [Amorcito Veranito](https://open.spotify.com/album/7AzgJfovaFC6Hs9DJTagFX) | 2:15 | 2024-09-13 | 2025-01-16 |
 | [apareces de la nada](https://open.spotify.com/track/1V8IBppKWZU6aNIzCgXLKa) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [apareces de la nada](https://open.spotify.com/album/1jM7YfDHLDSWFPxAiheAYN) | 2:46 | 2024-09-13 | 2025-01-02 |
 | [Ay No Puedo](https://open.spotify.com/track/3L0JDlycMhSA7R0M0OfNIY) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:01 | 2024-09-13 |  |
-| [broken heart](https://open.spotify.com/track/5akkEq8y9Zp7vXj9AJg9WJ) | [Danny Bonilla](https://open.spotify.com/artist/2hZfnLqWqwLbv5lYs7mHmy) | [broken heart](https://open.spotify.com/album/4GoqEbLTe9Sk56kS5uRH3V) | 2:42 | 2024-09-13 |  |
+| [broken heart](https://open.spotify.com/track/5akkEq8y9Zp7vXj9AJg9WJ) | [Danny Bonilla](https://open.spotify.com/artist/2hZfnLqWqwLbv5lYs7mHmy) | [broken heart](https://open.spotify.com/album/4GoqEbLTe9Sk56kS5uRH3V) | 2:42 | 2024-09-13 | 2025-10-09 |
 | [Butterfly](https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Butterfly](https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV) | 3:13 | 2024-09-13 |  |
+| [centro aLt](https://open.spotify.com/track/3AxHAdyJrz8gZ1Yr981KA5) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM), [S.3.R](https://open.spotify.com/artist/1ygBBLwpjIkQl1a7FQ9ljZ) | [centro aLt](https://open.spotify.com/album/5vAhVxOilOOTVt0lUJEo47) | 2:54 | 2025-09-25 |  |
 | [COMO DIABLOS](https://open.spotify.com/track/78zXzoQ0TqqfEZKzW03VqA) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [COMO DIABLOS](https://open.spotify.com/album/2w9SPe6QrjqMXXm7eQJxO0) | 3:13 | 2024-09-13 |  |
 | [Corazón de Piedra](https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Corazón de Piedra](https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so) | 3:13 | 2024-09-13 |  |
 | [Corazón Tatuado](https://open.spotify.com/track/0GuqlRQXjabf174DAMRfSl) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Corazón Tatuado](https://open.spotify.com/album/7A7LZAFX4c93RMMWtzsSMW) | 3:19 | 2024-09-13 | 2025-09-16 |

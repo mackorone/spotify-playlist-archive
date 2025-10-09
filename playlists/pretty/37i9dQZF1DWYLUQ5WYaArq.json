@@ -1,154 +1,374 @@
 {
-  "description": "Can you guess this weeks theme? Cover: Black Eyed Peas",
-  "num_followers": 453555,
+  "description": "Euphoric dancefloor fillers that just hit. Cover: Daft Punk",
+  "num_followers": 453578,
   "original_name": "Throwback Thursday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMYJR41n7OyzqFIc2pTFUU4slxqp",
+  "snapshot_id": "AAAAAPiKak9su6cvK8KOQHPYZ4mczICG",
   "tracks": [
     {
-      "added_at": "2025-10-01 21:01:27",
+      "added_at": "2025-10-08 13:01:10",
       "album": {
-        "name": "Loud",
-        "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
+        "name": "I Like Love (I Love Love)",
+        "url": "https://open.spotify.com/album/0a5qaqgYFKeCCzMW0Ukjh0"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Solitaire",
+          "url": "https://open.spotify.com/artist/7IVNy1O72ZhnPrY8OgsQQW"
+        }
+      ],
+      "duration_ms": 229506,
+      "name": "I Like Love (I Love Love) - Radio",
+      "url": "https://open.spotify.com/track/12mKqRbJCyz42AhjTvauHd"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "My Feelings For You",
+        "url": "https://open.spotify.com/album/7vlSUAb4QAXdlkPEiR4Qgu"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Sebastien Drums",
+          "url": "https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt"
         }
       ],
-      "duration_ms": 263173,
-      "name": "What's My Name?",
-      "url": "https://open.spotify.com/track/5FTCKvxzqy72ceS4Ujux4N"
+      "duration_ms": 159375,
+      "name": "My Feelings For You - Radio Edit",
+      "url": "https://open.spotify.com/track/3Yv9CEIOJjpw8tgKJhbOcc"
     },
     {
-      "added_at": "2025-10-01 21:01:27",
+      "added_at": "2025-10-08 13:01:10",
       "album": {
-        "name": "Elephunk",
-        "url": "https://open.spotify.com/album/2Yx0X8CYJD0G2pvJYZcTxt"
+        "name": "It Just Won't Do",
+        "url": "https://open.spotify.com/album/7eJ3wq74Uk6JuNlil9CFEd"
       },
       "artists": [
         {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 272533,
-      "name": "Where Is The Love?",
-      "url": "https://open.spotify.com/track/7oPnZNl1acGA7ELxsNirrR"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "20 #1's: Modern Hip-Hop",
-        "url": "https://open.spotify.com/album/26rNzzSvgLNMhpVPpClpRV"
-      },
-      "artists": [
-        {
-          "name": "City High",
-          "url": "https://open.spotify.com/artist/0LlPal5iJGcCWwZp8VefVs"
-        }
-      ],
-      "duration_ms": 175399,
-      "name": "What Would You Do?",
-      "url": "https://open.spotify.com/track/1JeRFLoIpWHUgYogZCNUPY"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "The Man Who",
-        "url": "https://open.spotify.com/album/2T6sux5guHBhtL9AgDrTDQ"
-      },
-      "artists": [
-        {
-          "name": "Travis",
-          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Why Does It Always Rain on Me?",
-      "url": "https://open.spotify.com/track/2ESrrtLRj1omqqsnGiyafo"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/2epkTConsXtPOHY9QhvqeR"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
-        }
-      ],
-      "duration_ms": 282066,
-      "name": "Who's That Girl?",
-      "url": "https://open.spotify.com/track/5hALSggfcyvBNLUHY8pvZd"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/3084CrngEXCmjpox0sNJqS"
-      },
-      "artists": [
-        {
-          "name": "Mis-Teeq",
-          "url": "https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn"
-        }
-      ],
-      "duration_ms": 200906,
-      "name": "Why?",
-      "url": "https://open.spotify.com/track/4KVqDHIZYuAk7CObeTlYSU"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 240706,
-      "name": "Who Do You Think You Are",
-      "url": "https://open.spotify.com/track/1jI1aLmm5HTwiMtvsbwDJw"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+          "name": "Tim Deluxe",
+          "url": "https://open.spotify.com/artist/7mEVrXcsq3PjsKT3BXnhp0"
         },
         {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          "name": "Sam Obernik",
+          "url": "https://open.spotify.com/artist/0ZHSfpEoLBzYzQXYEhWSvJ"
         }
       ],
-      "duration_ms": 224440,
-      "name": "21 Questions",
-      "url": "https://open.spotify.com/track/70FCugJxa7XW04Np6iYJdI"
+      "duration_ms": 198000,
+      "name": "It Just Won't Do - Radio Edit",
+      "url": "https://open.spotify.com/track/6Ss1QOGzn0iG8hrRRSGrr9"
     },
     {
-      "added_at": "2025-10-01 21:01:27",
+      "added_at": "2025-10-08 13:01:10",
       "album": {
-        "name": "Rooty",
-        "url": "https://open.spotify.com/album/6Gv1fOIDgnEfT0RnoUJ65Z"
+        "name": "A Little Less Conversation",
+        "url": "https://open.spotify.com/album/5QaOA2n4GNF1PmLbHPN6Uv"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        {
+          "name": "JXL",
+          "url": "https://open.spotify.com/artist/2GyakhIO8twSgCnUFfCzTN"
+        }
+      ],
+      "duration_ms": 211506,
+      "name": "A Little Less Conversation - JXL Radio Edit Remix",
+      "url": "https://open.spotify.com/track/28ASL502mpsN4rqS2NmrS3"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 429533,
+      "name": "Around the World",
+      "url": "https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "In Ghost Colours",
+        "url": "https://open.spotify.com/album/6k3dwEFYKsGrhS40jtiAGt"
+      },
+      "artists": [
+        {
+          "name": "Cut Copy",
+          "url": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
+        }
+      ],
+      "duration_ms": 277360,
+      "name": "Lights & Music",
+      "url": "https://open.spotify.com/track/2dngx6srtqsxvyh7oGV8FM"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "Good Morning Music: Wake Up Workout",
+        "url": "https://open.spotify.com/album/3MWSY8N1zWSNBcnMTIeiTz"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        }
+      ],
+      "duration_ms": 203920,
+      "name": "Heads Will Roll - A-Trak Remix Radio Edit",
+      "url": "https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "Road Kill",
+        "url": "https://open.spotify.com/album/3UF3tfrHDa6avzB75PzTDb"
+      },
+      "artists": [
+        {
+          "name": "Groove Terminator",
+          "url": "https://open.spotify.com/artist/1bA9XJwgaR3yVHNMTCqJ02"
+        }
+      ],
+      "duration_ms": 247333,
+      "name": "One More Time (The Sunshine Song)",
+      "url": "https://open.spotify.com/track/5EkzyG7P6JQXQutM5TL8tP"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "Groovejet (If This Ain't Love) [feat. Sophie Ellis-Bextor]",
+        "url": "https://open.spotify.com/album/20Q3pGpYiyicF32x5L8ppH"
+      },
+      "artists": [
+        {
+          "name": "Spiller",
+          "url": "https://open.spotify.com/artist/4bmymFwDu9zLCiTRUmrewb"
+        },
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 227619,
+      "name": "Groovejet (If This Ain't Love) [feat. Sophie Ellis-Bextor]",
+      "url": "https://open.spotify.com/track/5ydeCNaWDmFbu4zl0roPAH"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "Further",
+        "url": "https://open.spotify.com/album/5AWouw8qYspux6tH4epnMm"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "duration_ms": 365080,
+      "name": "Swoon",
+      "url": "https://open.spotify.com/track/4bCtpOkYWJAq4ONjrnuU1L"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "Yeah Yeah",
+        "url": "https://open.spotify.com/album/0qIj9p0MyiMJWtw9Bqc5br"
+      },
+      "artists": [
+        {
+          "name": "Bodyrox",
+          "url": "https://open.spotify.com/artist/3FVJvsdVNbVmydSuI22Z5v"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        },
+        {
+          "name": "D. Ramirez",
+          "url": "https://open.spotify.com/artist/201By8qzTjeVqjXBge2ZDz"
+        }
+      ],
+      "duration_ms": 161626,
+      "name": "Yeah Yeah - D Ramirez Vocal Radio Edit",
+      "url": "https://open.spotify.com/track/4HVGC52IogHANcKFA0QYiT"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "I Created Disco",
+        "url": "https://open.spotify.com/album/76FpZrTEmDPHQAoNjkcHJr"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 333680,
+      "name": "Acceptable in the 80's",
+      "url": "https://open.spotify.com/track/1p2k29ZjRD2jgAd7N9nMrZ"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 238266,
+      "name": "Love at First Sight",
+      "url": "https://open.spotify.com/track/26muNwMlZGvB2kEq41ZlDX"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "A Funk Odyssey",
+        "url": "https://open.spotify.com/album/2bikmknDTxldWSAnQYKWOb"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        },
+        {
+          "name": "Beverley Knight",
+          "url": "https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "Love Foolosophy - Radio Edit",
+      "url": "https://open.spotify.com/track/2QkLcE2oaPgn29iNZN9oFa"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX"
+      },
+      "artists": [
+        {
+          "name": "The Supermen Lovers",
+          "url": "https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA"
+        },
+        {
+          "name": "Mani Hoffman",
+          "url": "https://open.spotify.com/artist/4h5uH2PyDzfpfZresu96cw"
+        }
+      ],
+      "duration_ms": 364333,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/5luWJxS799LLp2e88RffUx"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "Destroy Rock & Roll",
+        "url": "https://open.spotify.com/album/3q5tumMuOiEh0SJuabZTR5"
+      },
+      "artists": [
+        {
+          "name": "Mylo",
+          "url": "https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti"
+        }
+      ],
+      "duration_ms": 253546,
+      "name": "Drop The Pressure",
+      "url": "https://open.spotify.com/track/6mi4cupbdAvMngkGd1Urvp"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "Raw As F**k",
+        "url": "https://open.spotify.com/album/29bS967rhcjvvLyOzxweDy"
+      },
+      "artists": [
+        {
+          "name": "Freestylers",
+          "url": "https://open.spotify.com/artist/0zg9mF9dX2knvdTKnL22T1"
+        }
+      ],
+      "duration_ms": 279053,
+      "name": "Push Up",
+      "url": "https://open.spotify.com/track/7sAJFVC3bu6r291ICz5qRw"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "Utah Saints",
+        "url": "https://open.spotify.com/album/75Nl51OzRYnIsJEYcY10Bz"
+      },
+      "artists": [
+        {
+          "name": "Utah Saints",
+          "url": "https://open.spotify.com/artist/2KB6LGMBaOYYYdvvgyptFH"
+        }
+      ],
+      "duration_ms": 355880,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/22AvpWbOtNTiem8jKDk8QO"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "3000 Feet High",
+        "url": "https://open.spotify.com/album/5RoqPvcc4G89U8og5bvqvK"
+      },
+      "artists": [
+        {
+          "name": "Paul Mac",
+          "url": "https://open.spotify.com/artist/2ZW29i2YE4YDQf6WemPJ4W"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Just the Thing",
+      "url": "https://open.spotify.com/track/33OmSvGCqySWurDDdqcNcp"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/0j0djiGxLnBiW7meVc2PER"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        }
+      ],
+      "duration_ms": 252800,
+      "name": "Because I\u2019m Me",
+      "url": "https://open.spotify.com/track/3f3HHRPF5vAo90GwdpDMaQ"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/1Ro3FkUjPS5zwzdTfcNoI3"
       },
       "artists": [
         {
@@ -156,689 +376,529 @@
           "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
         }
       ],
-      "duration_ms": 283533,
-      "name": "Where's Your Head At",
-      "url": "https://open.spotify.com/track/25ys1lEf3z6lvkDEE5mG0R"
+      "duration_ms": 259600,
+      "name": "Do Your Thing",
+      "url": "https://open.spotify.com/track/08DeDU0qAaNSZ36YVCsBJW"
     },
     {
-      "added_at": "2025-10-01 21:01:27",
+      "added_at": "2025-10-08 13:01:10",
       "album": {
-        "name": "Get Born",
-        "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
+        "name": "Brimful of Asha",
+        "url": "https://open.spotify.com/album/7cepNiIFcqcjILIPPyFnVg"
       },
       "artists": [
         {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Are You Gonna Be My Girl",
-      "url": "https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "Whitney Houston",
-        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 269696,
-      "name": "How Will I Know",
-      "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "Living For The Weekend (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Fh5ipPqBsMJdcv1fes0Hs"
-      },
-      "artists": [
-        {
-          "name": "The Saturdays",
-          "url": "https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5"
+          "name": "Cornershop",
+          "url": "https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF"
         },
         {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+          "name": "Norman Cook",
+          "url": "https://open.spotify.com/artist/4OQG8ttceevCWluX1i2BdO"
         }
       ],
-      "duration_ms": 220682,
-      "name": "What About Us",
-      "url": "https://open.spotify.com/track/6mV1VU6WeVi7IqFrAi2D2e"
+      "duration_ms": 243666,
+      "name": "Brimful of Asha - Norman Cook Remix Single Version",
+      "url": "https://open.spotify.com/track/3gWZ8TJ6oIpJWQBfrUOksW"
     },
     {
-      "added_at": "2025-10-01 21:01:27",
+      "added_at": "2025-10-08 13:01:10",
       "album": {
-        "name": "What's Love Got to Do with It?",
-        "url": "https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o"
+        "name": "Crystal Castles",
+        "url": "https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH"
       },
       "artists": [
         {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         }
       ],
-      "duration_ms": 226880,
-      "name": "What's Love Got to Do with It",
-      "url": "https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br"
+      "duration_ms": 186373,
+      "name": "Untrust Us",
+      "url": "https://open.spotify.com/track/6RpuNjTsUQo7eByN3kWvYx"
     },
     {
-      "added_at": "2025-10-01 21:01:27",
+      "added_at": "2025-10-08 13:01:10",
       "album": {
-        "name": "What Is Love (Remixes)",
-        "url": "https://open.spotify.com/album/0qTVjeVP70YvQG4GctetOf"
+        "name": "Wounded Rhymes (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/19ms2xSmphDqfhx2dp11Tl"
       },
       "artists": [
         {
-          "name": "Haddaway",
-          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
-        }
-      ],
-      "duration_ms": 270373,
-      "name": "What Is Love - 7\" Mix",
-      "url": "https://open.spotify.com/track/2ahnofp2LbBWDXcJbMaSTu"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "Do You Really Like It? (Remixes)",
-        "url": "https://open.spotify.com/album/6Q29k7cHbnjX8ErN6B32GV"
-      },
-      "artists": [
-        {
-          "name": "DJ Pied Piper & The Masters Of Ceremonies",
-          "url": "https://open.spotify.com/artist/7KMddxPqjqv0fiucwg0c3D"
-        }
-      ],
-      "duration_ms": 217120,
-      "name": "Do You Really Like It? - Radio Edit",
-      "url": "https://open.spotify.com/track/4Mnw05kNd0j1XDHwtfzofp"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "The Best Of Keane (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/41MnTivkwTO3UUJ8DrqEJJ"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 185813,
-      "name": "Is It Any Wonder?",
-      "url": "https://open.spotify.com/track/64rOSkztPrTECtWTB0F2OD"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "Love Angel Music Baby (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7jKNCNsBkH7jV61ap865nF"
-      },
-      "artists": [
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        }
-      ],
-      "duration_ms": 221226,
-      "name": "What You Waiting For?",
-      "url": "https://open.spotify.com/track/0oEFdKyCW7zMSIHazc8Yit"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "Teenage Dirtbags 2",
-        "url": "https://open.spotify.com/album/2w4Zu8tf9U7XGbJuxyTQlY"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 149413,
-      "name": "What's My Age Again?",
-      "url": "https://open.spotify.com/track/55YCBz4tXI6IXvkTtNIzJL"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "Never Forget: The Ultimate Collection",
-        "url": "https://open.spotify.com/album/7jzGCK8GdjuWEAe1lZ71xI"
-      },
-      "artists": [
-        {
-          "name": "Take That",
-          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
-        }
-      ],
-      "duration_ms": 210293,
-      "name": "Could It Be Magic - Rapino Radio Mix",
-      "url": "https://open.spotify.com/track/7rdrTM31qw9cmlM9XyxriK"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "I'm Not Dead",
-        "url": "https://open.spotify.com/album/6WlnnRa9jAPXhZEbvBvdxB"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 208493,
-      "name": "Who Knew",
-      "url": "https://open.spotify.com/track/7uYl7xgDeAOHP98obvrJvB"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "The Tony Christie Love Collection",
-        "url": "https://open.spotify.com/album/04ieWmbQ7Vha7taSmHaOKG"
-      },
-      "artists": [
-        {
-          "name": "Tony Christie",
-          "url": "https://open.spotify.com/artist/7KK6M2jPylHa6gLbMBI6V0"
-        }
-      ],
-      "duration_ms": 190866,
-      "name": "(Is This The Way To) Amarillo",
-      "url": "https://open.spotify.com/track/3FJ3wfXtlXhY4a11OnwXHf"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "Jason Derulo (International)",
-        "url": "https://open.spotify.com/album/0DEsmIQ5ir7tz52Nkf4i1K"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 221253,
-      "name": "Whatcha Say",
-      "url": "https://open.spotify.com/track/7xkQdy0cy5ymoWT7nedvLz"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "Jealous Ones Still Envy (J.O.S.E)",
-        "url": "https://open.spotify.com/album/6vMgb2mih3pPiWUxF8VEdI"
-      },
-      "artists": [
-        {
-          "name": "Fat Joe",
-          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
         },
         {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        }
+      ],
+      "duration_ms": 279635,
+      "name": "I Follow Rivers - The Magician Remix",
+      "url": "https://open.spotify.com/track/3zNNXjjjeLrzIXSJZKalDi"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "Nympho",
+        "url": "https://open.spotify.com/album/2JIkl78IhsQCuyoEGc7COH"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "My My My",
+      "url": "https://open.spotify.com/track/653rxW1E7V52QWh6a7oIdS"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "Alexis Jordan",
+        "url": "https://open.spotify.com/album/6W0rJuDT17aWbYca3dzzz6"
+      },
+      "artists": [
+        {
+          "name": "Alexis Jordan",
+          "url": "https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/5S4J5QVt1X0ZACiPOrOCoq"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "Don't You Worry Child",
+        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
         }
       ],
-      "duration_ms": 267093,
-      "name": "What's Luv? (feat. Ja-Rule & Ashanti)",
-      "url": "https://open.spotify.com/track/2mKouqwAIdQnMP43zxR89r"
+      "duration_ms": 212862,
+      "name": "Don't You Worry Child - Radio Edit",
+      "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
     },
     {
-      "added_at": "2025-10-01 21:01:27",
+      "added_at": "2025-10-08 13:01:10",
       "album": {
-        "name": "PCD",
-        "url": "https://open.spotify.com/album/2zZZazmfGkAIFCYapYBSWP"
+        "name": "For Lack Of A Better Name",
+        "url": "https://open.spotify.com/album/77pjtGdQsFAJ8eV6pV2ZZz"
       },
       "artists": [
         {
-          "name": "The Pussycat Dolls",
-          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
         },
         {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          "name": "Rob Swire",
+          "url": "https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes"
         }
       ],
-      "duration_ms": 272080,
-      "name": "Don't Cha",
-      "url": "https://open.spotify.com/track/4o3cq2szX7THGyZDsWtp59"
+      "duration_ms": 327733,
+      "name": "Ghosts 'n' Stuff",
+      "url": "https://open.spotify.com/track/7DPpdwFmXrmtSFhMfMhy80"
     },
     {
-      "added_at": "2025-10-01 21:01:27",
+      "added_at": "2025-10-08 13:01:10",
       "album": {
-        "name": "Where Did Our Love Go: 40th Anniversary Edition",
-        "url": "https://open.spotify.com/album/3W2FhBKieLAcrS4e9SHtr6"
+        "name": "Ma Che Musica E'? Musica Cult da Cult TV",
+        "url": "https://open.spotify.com/album/0wbQVdIUflP2rbCYzjpOOk"
       },
       "artists": [
         {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 151440,
-      "name": "Where Did Our Love Go - Stereo Version",
-      "url": "https://open.spotify.com/track/6yz8hKpO3s2byra8Et3w9x"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "Are You Ready For Love?",
-        "url": "https://open.spotify.com/album/1l9jI5f9g2WntXhj84O8YD"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "Are You Ready For Love - '79 Version Radio Edit",
-      "url": "https://open.spotify.com/track/3YdJzolD4HFvWGioELW2pC"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "One More Love",
-        "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
         },
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Simian",
+          "url": "https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP"
         }
       ],
-      "duration_ms": 201040,
-      "name": "Who's That Chick? (feat. Rihanna)",
-      "url": "https://open.spotify.com/track/6qUSs4FDzZUdAhY6JDIJfa"
+      "duration_ms": 259253,
+      "name": "We Are Your Friends - Justice Vs Simian",
+      "url": "https://open.spotify.com/track/2dqXXLZwNZ41FPiZA0Yawf"
     },
     {
-      "added_at": "2025-10-01 21:01:27",
+      "added_at": "2025-10-08 13:01:10",
       "album": {
-        "name": "Pet Sounds (Original Mono & Stereo Mix)",
-        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+        "name": "Black Light",
+        "url": "https://open.spotify.com/album/1auJY23R5KD9YEgrvE3HQM"
       },
       "artists": [
         {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
         }
       ],
-      "duration_ms": 153205,
-      "name": "Wouldn't It Be Nice",
-      "url": "https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK"
+      "duration_ms": 379746,
+      "name": "Paper Romance",
+      "url": "https://open.spotify.com/track/5JSt5uOkjLDMqWNTzVSMXX"
     },
     {
-      "added_at": "2025-10-01 21:01:27",
+      "added_at": "2025-10-08 13:01:10",
       "album": {
-        "name": "You Could Have It So Much Better",
-        "url": "https://open.spotify.com/album/3GNG4NPXfTeIGYjZ2FpS6P"
+        "name": "Polyester Embassy",
+        "url": "https://open.spotify.com/album/4zXbBABLuCKuohCc2RPq3I"
       },
       "artists": [
         {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+          "name": "Madison Avenue",
+          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Do You Want To",
-      "url": "https://open.spotify.com/track/6WrnSlcN0dzTO80mVVbBto"
+      "duration_ms": 215093,
+      "name": "Who The Hell Are You",
+      "url": "https://open.spotify.com/track/1WzPIvTHX1ThXzXlUnFDLW"
     },
     {
-      "added_at": "2025-10-01 21:01:27",
+      "added_at": "2025-10-08 13:01:10",
       "album": {
-        "name": "Kaya - Deluxe Edition",
-        "url": "https://open.spotify.com/album/5d2JEbUZV4hd5GiQrfbSa5"
+        "name": "Star 2008",
+        "url": "https://open.spotify.com/album/5y263lsrcaKgIF6rWV3uXX"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
         }
       ],
-      "duration_ms": 231546,
-      "name": "Is This Love",
-      "url": "https://open.spotify.com/track/58qEQujDJy5ma0cWRnB6dh"
+      "duration_ms": 210070,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/2kJo0J02qdTsD1omMouIro"
     },
     {
-      "added_at": "2025-10-01 21:01:27",
+      "added_at": "2025-10-08 13:01:10",
       "album": {
-        "name": "Motown Love",
-        "url": "https://open.spotify.com/album/2H7f4SGUsrJ0t6UwWzF23V"
+        "name": "Analog Is On",
+        "url": "https://open.spotify.com/album/1v1bEFD6ZgEvAbrMJqK1Oz"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Michael Gray",
+          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
         }
       ],
-      "duration_ms": 199080,
-      "name": "Isn't She Lovely",
-      "url": "https://open.spotify.com/track/6kvptOSCblGW40hRpT0Yvj"
+      "duration_ms": 192173,
+      "name": "The Weekend - Radio Edit",
+      "url": "https://open.spotify.com/track/6KzkqZqhUBEsWYJJa2aBOd"
     },
     {
-      "added_at": "2025-10-01 21:01:27",
+      "added_at": "2025-10-08 13:01:10",
       "album": {
-        "name": "Doggystyle",
-        "url": "https://open.spotify.com/album/7f9KDGqY7X2VLBM5aA66KM"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/4d03zDt0sm9pK0h2NWfl75"
       },
       "artists": [
         {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "September",
+          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
         }
       ],
-      "duration_ms": 246320,
-      "name": "Who Am I (What's My Name)?",
-      "url": "https://open.spotify.com/track/5XhkV07Vou38wnrzwURUOC"
+      "duration_ms": 164906,
+      "name": "Cry for You - UK Radio Edit",
+      "url": "https://open.spotify.com/track/2FuJvdLfBf8eUmgtlz3Rb3"
     },
     {
-      "added_at": "2025-10-01 21:01:27",
+      "added_at": "2025-10-08 13:01:10",
       "album": {
-        "name": "Blondes Have More Fun",
-        "url": "https://open.spotify.com/album/38tXOrjXUUfQWWV2DRwMio"
+        "name": "Focus (Yaeji Remix)",
+        "url": "https://open.spotify.com/album/3WaDTIFXkHBLiTSkYVzkZl"
       },
       "artists": [
         {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 331333,
-      "name": "Da Ya Think I'm Sexy?",
-      "url": "https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "Who Let The Dogs Out",
-        "url": "https://open.spotify.com/album/44UH34qoCNNfEqo0VnOkGd"
-      },
-      "artists": [
-        {
-          "name": "Baha Men",
-          "url": "https://open.spotify.com/artist/67FFKYikvTlvsPNk4NPOYJ"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Who Let The Dogs Out",
-      "url": "https://open.spotify.com/track/1H5tvpoApNDxvxDexoaAUo"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "The Essential Michael Jackson",
-        "url": "https://open.spotify.com/album/3ubQZz8WgIfvjSoekS5daO"
-      },
-      "artists": [
-        {
-          "name": "The Jacksons",
-          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
-        }
-      ],
-      "duration_ms": 230306,
-      "name": "Can You Feel It - Single Version",
-      "url": "https://open.spotify.com/track/6PZDXTlPfO7nBN1Cd7c3zv"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "Do You Know? (The Ping Pong Song) [International Version]",
-        "url": "https://open.spotify.com/album/3wc93qIkQljhFdIPWM3pf9"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Do You Know? (The Ping Pong Song)",
-      "url": "https://open.spotify.com/track/5Utz5NBlQnUTpiy56fUHfh"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "I AM...SASHA FIERCE - Platinum Edition",
-        "url": "https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 217506,
-      "name": "Why Don't You Love Me",
-      "url": "https://open.spotify.com/track/6UyOsmNg7H1YfR1NYuVvBu"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "What's Going On - 40th Anniversary (Super Deluxe)",
-        "url": "https://open.spotify.com/album/4gp6F03qAJCvKYoAGSrHVk"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "What's Going On",
-      "url": "https://open.spotify.com/track/7av4raprzW2bWdjyAaH3hz"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "Best: The Greatest Hits Of S Club 7",
-        "url": "https://open.spotify.com/album/3WMCqcQhRtuJAJPRZtxS1U"
-      },
-      "artists": [
-        {
-          "name": "S Club",
-          "url": "https://open.spotify.com/artist/0HNGrIbq1ZNO2mTp3tMW4L"
-        }
-      ],
-      "duration_ms": 202133,
-      "name": "Have You Ever",
-      "url": "https://open.spotify.com/track/4JnoRnq3D9SJJ0y5u8U4ZM"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "Timeless - The All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/2WGSGUXddxthJgKynwpGc9"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 245066,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/4Oo9lMrbGnTKuEvztT5ibG"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 161123,
-      "name": "Why'd You Only Call Me When You're High?",
-      "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "Play & Play: B Sides",
-        "url": "https://open.spotify.com/album/3wRlU7n3LULfjL0e9RtB5Q"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 264826,
-      "name": "Why Does My Heart Feel So Bad?",
-      "url": "https://open.spotify.com/track/3MZQF2Qv9ehvgT3Uxm61jo"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "Who Are You (Remastered)",
-        "url": "https://open.spotify.com/album/6LRJF97hgXHj8uMLHyCDbh"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 378706,
-      "name": "Who Are You",
-      "url": "https://open.spotify.com/track/3x2bXiU0o4WbsPkawXlfDA"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "Are You Gonna Go My Way",
-        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Are You Gonna Go My Way",
-      "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/366R23DbfxqjZo6AUBrQjv"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 309853,
-      "name": "Voulez-Vous",
-      "url": "https://open.spotify.com/track/2NmpePwcU5msK7cYZBWiBt"
-    },
-    {
-      "added_at": "2025-10-01 21:01:27",
-      "album": {
-        "name": "2Pac Greatest Hits (Explicit Version)",
-        "url": "https://open.spotify.com/album/6KwC7GaK6R7Uphby8bnmqk"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         },
         {
-          "name": "K-Ci & JoJo",
-          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 287760,
-      "name": "How Do U Want It",
-      "url": "https://open.spotify.com/track/4YOIBXTXMNF8Qxz2dzTwjU"
+      "duration_ms": 197965,
+      "name": "Focus - Yaeji Remix",
+      "url": "https://open.spotify.com/track/6AGsZ1j1ysQBNX8GRT2zKL"
     },
     {
-      "added_at": "2025-10-01 21:01:27",
+      "added_at": "2025-10-08 13:01:10",
       "album": {
-        "name": "Will You Still Love Me Tomorrow (Cruisin' 1960)",
-        "url": "https://open.spotify.com/album/2XvYrVoF2dVO9J9hBmotjS"
+        "name": "D-D-Don't Don't Stop The Beat",
+        "url": "https://open.spotify.com/album/4ZsZiW0yAxRxsEnjIqs8q9"
       },
       "artists": [
         {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+          "name": "Junior Senior",
+          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
         }
       ],
-      "duration_ms": 162760,
-      "name": "Will You Still Love Me Tomorrow",
-      "url": "https://open.spotify.com/track/33AeObqTI5RW6IhHmIyxVT"
+      "duration_ms": 182773,
+      "name": "Move Your Feet",
+      "url": "https://open.spotify.com/track/5TCTYjsB1gSKF38qKqgXe4"
     },
     {
-      "added_at": "2025-10-01 21:01:27",
+      "added_at": "2025-10-08 13:01:10",
       "album": {
-        "name": "Greatest Hits Rediscovered (UK Version)",
-        "url": "https://open.spotify.com/album/2P5Ig5LyuN4OP9XyUL2z50"
+        "name": "The Warning",
+        "url": "https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS"
       },
       "artists": [
         {
-          "name": "Tom Jones",
-          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
         }
       ],
-      "duration_ms": 124040,
-      "name": "What's New Pussycat?",
-      "url": "https://open.spotify.com/track/65xu7NBwFJJUXmAEeRs1U0"
+      "duration_ms": 347880,
+      "name": "Over And Over",
+      "url": "https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA"
     },
     {
-      "added_at": "2025-10-01 21:01:27",
+      "added_at": "2025-10-08 13:01:10",
       "album": {
-        "name": "What Becomes of the Brokenhearted (Original Recordings)",
-        "url": "https://open.spotify.com/album/4JHSkgfpaofOQai9YJ9KGF"
+        "name": "Boys for Pele (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7vuSTl6tuWg0CQdmfphkFQ"
       },
       "artists": [
         {
-          "name": "Jimmy Ruffin",
-          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
         }
       ],
-      "duration_ms": 175490,
-      "name": "What Becomes of the Brokenhearted",
-      "url": "https://open.spotify.com/track/4yi0B3N2Av50GNuqbwAIU6"
+      "duration_ms": 229240,
+      "name": "Professional Widow - Armand's Star Trunk Funkin' Mix; Radio Edit; 2016 Remaster",
+      "url": "https://open.spotify.com/track/0MT7RXj7XwkyvA0e05fgo6"
     },
     {
-      "added_at": "2025-10-01 21:01:27",
+      "added_at": "2025-10-08 13:01:10",
       "album": {
-        "name": "Combat Rock (Remastered)",
-        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+        "name": "Sneaky Sound System",
+        "url": "https://open.spotify.com/album/3POXlpDv0cikb180eu6k5j"
       },
       "artists": [
         {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+          "name": "Sneaky Sound System",
+          "url": "https://open.spotify.com/artist/6ieVhWXtOmK6DO6dmX7Eko"
         }
       ],
-      "duration_ms": 188986,
-      "name": "Should I Stay or Should I Go - Remastered",
-      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
+      "duration_ms": 196946,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/2mNKIuM4xmeTNwe02NOem8"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "Read My Lips (Deluxe Version)",
+        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "Murder On The Dancefloor",
+      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "Dance The Way I Feel",
+        "url": "https://open.spotify.com/album/6oSmkz3JgGRAMYRQjPh7pM"
+      },
+      "artists": [
+        {
+          "name": "Ou Est Le Swimming Pool",
+          "url": "https://open.spotify.com/artist/1m3jswEIBazYObuVL9NriQ"
+        }
+      ],
+      "duration_ms": 208333,
+      "name": "Dance The Way I Feel",
+      "url": "https://open.spotify.com/track/7ilyh37sEDUu7TA6JJvspv"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "18 Months",
+        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        }
+      ],
+      "duration_ms": 222186,
+      "name": "Bounce (feat. Kelis) - Radio Edit",
+      "url": "https://open.spotify.com/track/36cmM3MBMWWCFIiQ90U4J8"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "Cross",
+        "url": "https://open.spotify.com/album/5P4Wx3YhpsD4zFTvmPskWd"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "duration_ms": 209986,
+      "name": "D.A.N.C.E.",
+      "url": "https://open.spotify.com/track/0MYTcPXAAmeKBUpBgtAV0J"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "Lola's Theme",
+        "url": "https://open.spotify.com/album/7DdLjF8JFxVVMFh4rRC1bE"
+      },
+      "artists": [
+        {
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+        }
+      ],
+      "duration_ms": 207066,
+      "name": "Lola's Theme - Radio Edit",
+      "url": "https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "Sing It Back",
+        "url": "https://open.spotify.com/album/50fBSeZBLewhHEoYgw3C3U"
+      },
+      "artists": [
+        {
+          "name": "Moloko",
+          "url": "https://open.spotify.com/artist/4aaBjq7VqqQvpSF69GglvO"
+        },
+        {
+          "name": "Boris Dlugosch",
+          "url": "https://open.spotify.com/artist/5mrwZhvK7J8K34cWeFG3ru"
+        },
+        {
+          "name": "Michael Lange",
+          "url": "https://open.spotify.com/artist/0r3oYkStfoV3sVeoQ1vmtw"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Sing It Back - Boris Musical Mix - Edit",
+      "url": "https://open.spotify.com/track/4O0LwyuV3U18Hg5AxILDlI"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "Music Sounds Better With You",
+        "url": "https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO"
+      },
+      "artists": [
+        {
+          "name": "Stardust",
+          "url": "https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR"
+        },
+        {
+          "name": "Benjamin Diamond",
+          "url": "https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim"
+        },
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "Thomas Bangalter",
+          "url": "https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi"
+        }
+      ],
+      "duration_ms": 260906,
+      "name": "Music Sounds Better With You - Radio Edit",
+      "url": "https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
+      },
+      "artists": [
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+        }
+      ],
+      "duration_ms": 252106,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/0VSoKNjDardi8xHSnIoHSf"
+      },
+      "artists": [
+        {
+          "name": "DJ Sammy",
+          "url": "https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT"
+        }
+      ],
+      "duration_ms": 235373,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4xoBVkIDBEIDMSD1yA5kF0"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "You Don't Know Me (feat. Duane Harden)",
+        "url": "https://open.spotify.com/album/62vJ3t4nZ50SigVCT6TUwb"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Duane Harden",
+          "url": "https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0"
+        }
+      ],
+      "duration_ms": 242333,
+      "name": "You Don't Know Me (feat. Duane Harden) - Radio Edit",
+      "url": "https://open.spotify.com/track/7BpyfQEmvi0sUmOq29plEE"
+    },
+    {
+      "added_at": "2025-10-08 13:01:10",
+      "album": {
+        "name": "Original Hits - Summer",
+        "url": "https://open.spotify.com/album/7fhMPYln9UDmt6rHM5pcFG"
+      },
+      "artists": [
+        {
+          "name": "Madison Avenue",
+          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
+        }
+      ],
+      "duration_ms": 227773,
+      "name": "Don't Call Me Baby",
+      "url": "https://open.spotify.com/track/2dpKdDhAG8gfM7vq0JAo3S"
     }
   ],
   "unique_name": "Throwback Thursday AU & NZ",

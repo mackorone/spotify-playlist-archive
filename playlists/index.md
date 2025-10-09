@@ -1,4 +1,4 @@
-## Playlists \(8787\)
+## Playlists \(8789\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -2381,6 +2381,7 @@
 - [Fresh Finds Türkiye](/playlists/pretty/37i9dQZF1DX1RLKir9EDRO.md)
 - [Fresh Finds UK & IE](/playlists/pretty/37i9dQZF1DX7AqyNZFu97s.md)
 - [Fresh Finds Vietnam](/playlists/pretty/37i9dQZF1DX34s4fg4Zx3Z.md)
+- [Fresh Finds Україна](/playlists/pretty/37i9dQZF1DX79XZx3Ijh6O.md)
 - [Fresh Finds: Class of 2019](/playlists/pretty/37i9dQZF1DXbDSHGzTpRHX.md)
 - [Fresh Finds: Class of 2020](/playlists/pretty/37i9dQZF1DX7AIfEOAvuXp.md)
 - [Fresh Finds: Class of 2021](/playlists/pretty/37i9dQZF1DX4Xz5lDbaehp.md)
@@ -3018,7 +3019,8 @@
 - [I Love My 90s Funk](/playlists/pretty/37i9dQZF1DX1YOtPUCxcAM.md)
 - [I Love My East Coast Classics](/playlists/pretty/37i9dQZF1DWYGxBNe4qojI.md)
 - [I Love My HBCU \(Bowie State University\)](/playlists/pretty/37i9dQZF1DWYof8MdhmNOi.md)
-- [I Love My HBCU \(Howard University\)](/playlists/pretty/37i9dQZF1DX7DCJxqVk5NA.md)
+- [I Love My HBCU \(Delaware State University\)](/playlists/pretty/37i9dQZF1DX7DCJxqVk5NA.md)
+- [I Love My HBCU \(Howard University\)](/playlists/pretty/37i9dQZF1DX3I6WKyDErKj.md)
 - [I Love My HBCU \(Texas Southern University\)](/playlists/pretty/37i9dQZF1DWY0J0zp7fKKN.md)
 - [I Love My Midwest Classics](/playlists/pretty/37i9dQZF1DWTJzNR1J5ygQ.md)
 - [I Love My Neo\-Soul](/playlists/pretty/37i9dQZF1DX8MbMfAHb8U0.md)

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,925 likes - 111 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,924 likes - 111 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 41 | [你在 不在](https://open.spotify.com/track/7x3bj8fQimKeitL1Y4bpfj) | [ECHORA](https://open.spotify.com/artist/4YttcexiK8XuXXxQVrA1dC), [Sabrina 胡恂舞](https://open.spotify.com/artist/378nUaqWlvNG3xRIszxzLs) | [你在 不在](https://open.spotify.com/album/6TLVecX0xykDLUcWXkDtih) | 3:32 |
 | 42 | [凌晨的太阳没升起](https://open.spotify.com/track/2qxaECOG9R6jU4h4htLDmz) | [ZQS](https://open.spotify.com/artist/6CvqU8itTtfpm1E8Pvez33) | [凌晨的太阳没升起](https://open.spotify.com/album/5HDxUdbnaIzU3oVnK9Xjk6) | 3:35 |
 | 43 | [蓝 \- 你走后这天还那么蓝](https://open.spotify.com/track/2p4u0uf4tozSosBtYjPdcI) | [于冬然](https://open.spotify.com/artist/7mJv2vnmyEbD8eyI7tMLKs) | [蓝 \(你走后这天还那么蓝\)](https://open.spotify.com/album/6ql7GHsk3XxvstJ6RXFRE0) | 4:12 |
-| 44 | [中場時間](https://open.spotify.com/track/4v1GR1RuzxEVD6TBBn27Qe) | [Rock 李振玮](https://open.spotify.com/artist/13AzRtwQuMBRTGfPHoL35t) | [中場時間](https://open.spotify.com/album/7nUxeIP4UkQriGwR4TcJCs) | 3:42 |
+| 44 | [中場時間](https://open.spotify.com/track/4v1GR1RuzxEVD6TBBn27Qe) | [Rock 李振瑋](https://open.spotify.com/artist/13AzRtwQuMBRTGfPHoL35t) | [中場時間](https://open.spotify.com/album/7nUxeIP4UkQriGwR4TcJCs) | 3:42 |
 | 45 | [最後一次擁抱](https://open.spotify.com/track/6V5ICRsPO9NBtLApkKRouw) | [顧于安](https://open.spotify.com/artist/40BZviKYLv51xc0Rrwij7m) | [最後一次擁抱](https://open.spotify.com/album/1718YcI9ukip4fTft3F41M) | 3:23 |
 | 46 | [括號](https://open.spotify.com/track/5CKrqFjJe1nsk7tlIByu0o) | [Nicole Kung](https://open.spotify.com/artist/5m2AaaQax8s3feVRyjA0q7), [蔡瀞萱](https://open.spotify.com/artist/5Wdp9Ri5mJcc7rkK6CgEpP) | [妮可](https://open.spotify.com/album/1O5k6zxGjovKgE1h9Y4C1W) | 4:15 |
 | 47 | [没能幸免](https://open.spotify.com/track/4gjH9w5yJHKvngt9yz7IOa) | [en](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [没能幸免](https://open.spotify.com/album/7AhD7M2beznz2DUiFrGUDy) | 3:53 |

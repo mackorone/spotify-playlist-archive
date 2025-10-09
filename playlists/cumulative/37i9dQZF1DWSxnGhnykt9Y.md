@@ -4,7 +4,7 @@
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Yemi Alade
 
-175 songs - 8 hr 17 min
+176 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Gara \(feat\. Ayra Starr\)](https://open.spotify.com/track/4FoPiQu25ouBFSZJIhCkc0) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Water & Garri \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21y5KxfsNHRVikyNTWLaHy) | 2:31 | 2024-11-29 | 2025-05-30 |
 | [Give Me Love](https://open.spotify.com/track/6cY0fjp5NovZyTKdaEivYW) | [Africaine](https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7) | [Give Me Love](https://open.spotify.com/album/3jvJ4pNR7g5dx8lMpOapce) | 2:32 | 2025-08-29 | 2025-09-05 |
 | [Goodbye \(Warm Up\)\(feat\. Asake\)](https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:43 | 2024-11-29 |  |
+| [Goodgirl](https://open.spotify.com/track/6adCGcQBhdqQbrb2b1aoGv) | [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Goodgirl](https://open.spotify.com/album/0cfboUkpHeZwjcw8xvY0vK) | 2:43 | 2025-10-08 |  |
 | [Goosebumps](https://open.spotify.com/track/7sVH3E4Ea7vmggCkffdU4q) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Goosebumps](https://open.spotify.com/album/0puYR0eJhVtrJAOsH5mbY4) | 2:46 | 2024-11-29 |  |
 | [Happiness Matter](https://open.spotify.com/track/6Wm40GepUVKhTjEBI07xtz) | [Krys M](https://open.spotify.com/artist/6B6DGmfpucF3zITrGDzbCi) | [EMPREINTE](https://open.spotify.com/album/5J9E0Zdg4QCZfyttFZsl50) | 3:53 | 2024-11-29 | 2025-07-05 |
 | [Head Start](https://open.spotify.com/track/4N7alCheeoFUxAAKkuTzU5) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Head Start](https://open.spotify.com/album/02OOD9WmhXOFZEUsZ7CYQb) | 2:14 | 2024-11-29 | 2025-05-30 |
@@ -156,7 +157,7 @@
 | [Shut It Down](https://open.spotify.com/track/40jF2YHJeU1UuUQlpEytOa) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Shut It Down](https://open.spotify.com/album/4NFsaJ1UmtPYUdoqrfHm7J) | 2:59 | 2024-11-29 | 2024-12-21 |
 | [SICK AND TIRED](https://open.spotify.com/track/2FDtc1HGTwPX3Wy5Mq3AMM) | [Dredi](https://open.spotify.com/artist/285oq5GDuecOufpeMqfl0l) | [SICK AND TIRED](https://open.spotify.com/album/2zyUcbQjCEALmUl7H2BGmx) | 2:49 | 2024-11-29 | 2024-12-17 |
 | [Some Day](https://open.spotify.com/track/7z7IvpSd8hAXZM73L8Y3Ag) | [Kyla Blac](https://open.spotify.com/artist/1kwzoZ4QgiipDIZF5UzWpz) | [Some Day](https://open.spotify.com/album/0kwrnDyLze42o9jAVJiWSD) | 3:12 | 2024-11-29 | 2025-05-30 |
-| [Sonfo](https://open.spotify.com/track/4gqI025AvVoK8qvTju5zN8) | [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Sonfo](https://open.spotify.com/album/0nZYkn0faXzsBY5JnwN4Mu) | 2:59 | 2025-09-05 |  |
+| [Sonfo](https://open.spotify.com/track/4gqI025AvVoK8qvTju5zN8) | [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Sonfo](https://open.spotify.com/album/0nZYkn0faXzsBY5JnwN4Mu) | 2:59 | 2025-09-05 | 2025-10-09 |
 | [Suh Good](https://open.spotify.com/track/2ArkqDS78Ro7JOeidqzVTS) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Suh Good](https://open.spotify.com/album/1l8jGRft5ufwHFYR0sPkeu) | 2:29 | 2024-12-06 |  |
 | [Sunshine](https://open.spotify.com/track/5ApfOFw9J5DZ2XLKQFL8Hm) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Sunshine](https://open.spotify.com/album/4OdvBnXcegSXUJmw3Vewhl) | 2:51 | 2024-11-29 | 2025-03-22 |
 | [Superwoman](https://open.spotify.com/track/0pim1RV3QzkZQWo8QmKoCh) | [Blanche Bailly](https://open.spotify.com/artist/5AarOoNQR7sJVijD42GeFQ), [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Superwoman](https://open.spotify.com/album/4QEfxuq5zIDoY7kumRDLA5) | 3:01 | 2024-11-29 | 2024-12-21 |

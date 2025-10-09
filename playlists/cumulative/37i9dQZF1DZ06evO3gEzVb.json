@@ -1201,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "Classic Tunes of Daddy Lumba",
+        "url": "https://open.spotify.com/album/7pxS9bxhwlDoeBGigJqBay"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329133,
+      "name": "Sika Asem",
+      "url": "https://open.spotify.com/track/5ppx88DqziFPGV3qucuwxK"
+    },
+    {
+      "album": {
         "name": "Sika Asem",
         "url": "https://open.spotify.com/album/1vmud1QfmKGiCaMooqZps8"
       },

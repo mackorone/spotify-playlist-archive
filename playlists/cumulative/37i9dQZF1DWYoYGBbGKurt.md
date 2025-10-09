@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-2,061 songs - 3 day 7 hr 47 min
+2,063 songs - 3 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1181,6 +1181,7 @@
 | [Miami](https://open.spotify.com/track/6PHOKnGbvezmy6pQtufC4J) | [Bonham Style](https://open.spotify.com/artist/0nme6ZQPv94Iurg3BfTp2o) | [Bonham Style](https://open.spotify.com/album/3FmlOBtlTIv3ShunS2b0T7) | 3:14 | 2021-12-07 | 2023-03-02 |
 | [Microfowl](https://open.spotify.com/track/0xJ1Er6763iUgvWbVwzkP0) | [Somebodi](https://open.spotify.com/artist/3JxE7ivtgjlIeuU5Hz2Oyt) | [Libraries](https://open.spotify.com/album/60Xk6zBOW5pyniet9nzjQ3) | 2:54 | 2022-06-03 | 2023-04-12 |
 | [Microland](https://open.spotify.com/track/5dV3ZhlZgTGeMW6NyGUtVK) | [Beatmund Noise](https://open.spotify.com/artist/5ANEtiXOfqk6pGqOHj2suV), [Ultramarinblau](https://open.spotify.com/artist/0ZzVsShp5a93vikX006voH) | [Microland](https://open.spotify.com/album/1UW9nrQFux33xKvnJF0uu4) | 1:55 | 2022-09-30 | 2022-12-17 |
+| [midday breeze](https://open.spotify.com/track/3WNuyRyvwZIV7K0PrEDhgH) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [midday breeze](https://open.spotify.com/album/0QGN6khaC2inOV7qXmfj4j) | 2:17 | 2025-10-08 |  |
 | [midday walks](https://open.spotify.com/track/7FQ9mXcFQs6HbgrQO4N0eB) | [With All Respect](https://open.spotify.com/artist/1owj0RO3l3iK7vPwn4rV1O) | [midday walks](https://open.spotify.com/album/16zVhoL5I0dzAVFwpBd2Tn) | 2:05 | 2024-03-01 | 2024-08-31 |
 | [Midnight Coffee](https://open.spotify.com/track/4ezxA4ICGNFjYHc81McwHH) | [Mount Dreamer](https://open.spotify.com/artist/2pPuDXt6uSj2gGllSLRjnO) | [Midnight Coffee](https://open.spotify.com/album/5PNoSA2H4zFJxcbqLQwcWQ) | 2:33 | 2022-12-09 | 2023-07-14 |
 | [Midnight Cruisin](https://open.spotify.com/track/08IyQetUzlz3p6v4TVpXFI) | [jelaquest](https://open.spotify.com/artist/2vkUei6EdRcTOJtsH5hJeX), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Midnight Cruisin](https://open.spotify.com/album/35pGGy7msW1H9WvCLU2uTu) | 2:34 | 2022-05-20 | 2022-05-27 |
@@ -1632,7 +1633,7 @@
 | [Soft Slap](https://open.spotify.com/track/3umoNiC2gyJ4oaGj7t74Zk) | [Dream Web](https://open.spotify.com/artist/0xhiRy2F05NVIpB4GKReES) | [Soft Slap](https://open.spotify.com/album/4KZNYiyOffr0ugdRRcgFMK) | 4:03 | 2021-12-07 | 2022-10-14 |
 | [Softly Whispering](https://open.spotify.com/track/6CVpyt67DY1JwuR8prqPmP) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Softly Whispering](https://open.spotify.com/album/100YLSEn3RzaqIyNKQzEk3) | 3:07 | 2023-10-20 | 2025-06-07 |
 | [solace](https://open.spotify.com/track/4XGhMOaPEVQYmhZbI4LxYG) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [solace](https://open.spotify.com/album/2CNS0yroJM4dSiJnq98Nx8) | 2:25 | 2025-03-21 |  |
-| [solitude](https://open.spotify.com/track/5rnQcg03MrBEqquaRMjCyy) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [solitude](https://open.spotify.com/album/1AiZanM6F646kO5HyjaZis) | 2:43 | 2025-08-01 |  |
+| [solitude](https://open.spotify.com/track/5rnQcg03MrBEqquaRMjCyy) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [solitude](https://open.spotify.com/album/1AiZanM6F646kO5HyjaZis) | 2:43 | 2025-08-01 | 2025-10-09 |
 | [somebody else](https://open.spotify.com/track/4SwdZqpbUSk66Ml3LtV1JA) | [Miller Jones](https://open.spotify.com/artist/510OvGYbABEpEGZBCnL8Yd) | [somebody else](https://open.spotify.com/album/2Xge9gAY63AG4CL9vp27e9) | 1:39 | 2023-03-01 | 2023-10-20 |
 | [Something Different](https://open.spotify.com/track/1QxHlIxKVTiNX4Vj38ejLo) | [Kanbina Mind](https://open.spotify.com/artist/6sPgHyYKS3VMneq1yoflgm) | [Time To Chill](https://open.spotify.com/album/6hV5rCYyRKjarXhAr63JNV) | 1:58 | 2023-09-29 | 2024-10-26 |
 | [Something Ends, Something Begins](https://open.spotify.com/track/1rtipI7Y94r52IRocXhgTF) | [Tymedust](https://open.spotify.com/artist/0AdnZTLX42p5C4VjSU7WLi), [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH) | [Something Ends, Something Begins](https://open.spotify.com/album/0HSGiPVivnkBnnGRBR7yax) | 2:18 | 2022-08-05 | 2022-08-12 |
@@ -2022,7 +2023,7 @@
 | [Whiskey For The Night](https://open.spotify.com/track/287jF7I4jnNooiqVh5E2ZU) | [Late Night Tones](https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC) | [Whiskey For The Night](https://open.spotify.com/album/5G51BR88FI4vSSrMHWtQpU) | 1:55 | 2022-05-20 | 2022-09-23 |
 | [Whiskey Ginger](https://open.spotify.com/track/01odH3pfNq6NeksGK1iwbi) | [Tedette](https://open.spotify.com/artist/789CEG7mUkpeQyWvzq8dX8) | [Taz](https://open.spotify.com/album/4I5oLwvVJ8PZMULjDkLvGZ) | 3:51 | 2021-12-07 | 2022-06-03 |
 | [Whispers](https://open.spotify.com/track/5vwKx1lJxuXNj0j3krceff) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Whispers](https://open.spotify.com/album/2mV7WOez73u5gqldiqZGoA) | 2:04 | 2022-10-07 | 2022-12-24 |
-| [Whispers of the Wind](https://open.spotify.com/track/3E6NfnkawOsv6QEHDVqdlV) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Whispers of the Wind](https://open.spotify.com/album/4vxhhrJEaboZh47GyEfZ00) | 2:13 | 2025-03-21 |  |
+| [Whispers of the Wind](https://open.spotify.com/track/3E6NfnkawOsv6QEHDVqdlV) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Whispers of the Wind](https://open.spotify.com/album/4vxhhrJEaboZh47GyEfZ00) | 2:13 | 2025-03-21 | 2025-10-09 |
 | [Who's Driving?](https://open.spotify.com/track/6ilctnbVwEWTURCfY6kCWH) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [Who's Driving?](https://open.spotify.com/album/1ftpbsY9HCoSpUOq7RVUEs) | 2:19 | 2023-10-06 | 2025-01-11 |
 | [wibes](https://open.spotify.com/track/2gDQBDUZVrubIKunMGon6P) | [Operator:Operator](https://open.spotify.com/artist/3SR433GF72OG6QJLEwLdsM), [faff](https://open.spotify.com/artist/3dKNvDOPWpPth4n4gg8osF) | [wibes](https://open.spotify.com/album/7hvVmxMzg2KNSSuFH7AXiL) | 2:00 | 2022-08-19 | 2022-11-12 |
 | [Wild Mallow](https://open.spotify.com/track/7Ed0zQz9cAArGzWbxrmhiS) | [The Lofi Big Band](https://open.spotify.com/artist/0A63pWT1p5WGcJfyiSAEkc) | [Wild Mallow](https://open.spotify.com/album/2XUqR0rvvEPpSHRG1ATe4h) | 2:57 | 2023-04-11 | 2023-11-11 |
@@ -2068,6 +2069,7 @@
 | [Zeeez](https://open.spotify.com/track/6MKV08WI49nZjhC5nqzOvi) | [Dizzy Halos](https://open.spotify.com/artist/4qiOgE9uEz6UkqPEpUA6Md) | [Zeeez](https://open.spotify.com/album/47YQYybeQm0ZQEAYanjOu3) | 3:06 | 2021-12-07 | 2022-07-01 |
 | [Zephyr](https://open.spotify.com/track/28VwDI1i3vtqn0csWOig5G) | [zxry.](https://open.spotify.com/artist/2KDok9fxr255I38HflZAzC) | [Zephyr](https://open.spotify.com/album/01lJTebBu7GNUKFmLds5Yz) | 2:52 | 2022-06-03 | 2022-11-26 |
 | [zuriel](https://open.spotify.com/track/3V2OHUAvBcaXyF2D7GCERq) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [ballaton & zuriel](https://open.spotify.com/album/7cujZGj0lzqZx8Ehv5jTPR) | 2:13 | 2023-03-08 | 2024-08-24 |
+| [Zzz](https://open.spotify.com/track/54VhpeIRKA1qJx5WOo8pw9) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB), [96 Zeus](https://open.spotify.com/artist/4QJlbrf6YpfIkRB5GrK34n), [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q) | [Zzz](https://open.spotify.com/album/30Bg5GVZHtsSBa49weSasw) | 2:41 | 2025-10-08 |  |
 | [énouement](https://open.spotify.com/track/2NWAI9czEGyyB9WZvMgFkI) | [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ), [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR) | [énouement](https://open.spotify.com/album/0lteQYcob7SA7hu6uy2G7u) | 2:13 | 2024-11-22 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

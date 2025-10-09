@@ -1,6 +1,6 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 60861,
+  "num_followers": 60858,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2025-10-06 04:35:50",
       "album": {
+        "name": "Stay (If You Wanna Dance)",
+        "url": "https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 185999,
+      "name": "Stay (If You Wanna Dance)",
+      "url": "https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc"
+    },
+    {
+      "added_at": "2025-10-06 04:35:50",
+      "album": {
         "name": "Different Night Same Rodeo",
         "url": "https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 196578,
       "name": "Lost (feat. The Kid LAROI)",
       "url": "https://open.spotify.com/track/6805NqZ8c443YjfQERNoAq"
-    },
-    {
-      "added_at": "2025-10-06 04:35:50",
-      "album": {
-        "name": "Stay (If You Wanna Dance)",
-        "url": "https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 185999,
-      "name": "Stay (If You Wanna Dance)",
-      "url": "https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc"
     },
     {
       "added_at": "2025-10-06 04:35:50",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-10-06 04:35:50",
       "album": {
+        "name": "What If Nothing",
+        "url": "https://open.spotify.com/album/4fe1YmssM6Ugs6UyA7OdGg"
+      },
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+        }
+      ],
+      "duration_ms": 235960,
+      "name": "Lost In The Wild",
+      "url": "https://open.spotify.com/track/0M1A9wInEHilyWkh4I8tWo"
+    },
+    {
+      "added_at": "2025-10-06 04:35:50",
+      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/6IatiP8DCUD2ps9KvocWgA"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 197633,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/6zAiRKvAMlXHxEtyO4yxIO"
-    },
-    {
-      "added_at": "2025-10-06 04:35:50",
-      "album": {
-        "name": "What If Nothing",
-        "url": "https://open.spotify.com/album/4fe1YmssM6Ugs6UyA7OdGg"
-      },
-      "artists": [
-        {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
-        }
-      ],
-      "duration_ms": 235960,
-      "name": "Lost In The Wild",
-      "url": "https://open.spotify.com/track/0M1A9wInEHilyWkh4I8tWo"
     },
     {
       "added_at": "2025-10-06 04:35:50",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-10-06 04:35:50",
       "album": {
-        "name": "Chrome Jets",
-        "url": "https://open.spotify.com/album/5CXyWQG2ke7GBv0ftgVaCf"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 216747,
-      "name": "Chrome Jets",
-      "url": "https://open.spotify.com/track/5a0SxmltHNs5PaRTUAAYLZ"
-    },
-    {
-      "added_at": "2025-10-06 04:35:50",
-      "album": {
         "name": "TROLLS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 197253,
       "name": "They Don't Know",
       "url": "https://open.spotify.com/track/1w1kzejjmiMhdWAOecgo4l"
+    },
+    {
+      "added_at": "2025-10-06 04:35:50",
+      "album": {
+        "name": "Chrome Jets",
+        "url": "https://open.spotify.com/album/5CXyWQG2ke7GBv0ftgVaCf"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 216747,
+      "name": "Chrome Jets",
+      "url": "https://open.spotify.com/track/5a0SxmltHNs5PaRTUAAYLZ"
     },
     {
       "added_at": "2025-10-06 04:35:50",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-10-06 04:35:50",
       "album": {
-        "name": "mama's boy",
-        "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 199506,
-      "name": "heart won't let me",
-      "url": "https://open.spotify.com/track/2IY537C2ecmUMJ46bYQggp"
-    },
-    {
-      "added_at": "2025-10-06 04:35:50",
-      "album": {
         "name": "Fallin\u2019 (Adrenaline)",
         "url": "https://open.spotify.com/album/68KIeRyl26qz4Qkrv25FVm"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 216504,
       "name": "Fallin\u2019 (Adrenaline)",
       "url": "https://open.spotify.com/track/5GhJIMWAw0uMLgkdbt6uMz"
+    },
+    {
+      "added_at": "2025-10-06 04:35:50",
+      "album": {
+        "name": "mama's boy",
+        "url": "https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 199506,
+      "name": "heart won't let me",
+      "url": "https://open.spotify.com/track/2IY537C2ecmUMJ46bYQggp"
     },
     {
       "added_at": "2025-10-06 04:35:50",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-10-06 04:35:50",
       "album": {
-        "name": "How Do You Love Somebody",
-        "url": "https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc"
-      },
-      "artists": [
-        {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
-        }
-      ],
-      "duration_ms": 180065,
-      "name": "How Do You Love Somebody",
-      "url": "https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh"
-    },
-    {
-      "added_at": "2025-10-06 04:35:50",
-      "album": {
         "name": "only wanna dance",
         "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 144391,
       "name": "only wanna dance",
       "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
+    },
+    {
+      "added_at": "2025-10-06 04:35:50",
+      "album": {
+        "name": "How Do You Love Somebody",
+        "url": "https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc"
+      },
+      "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "duration_ms": 180065,
+      "name": "How Do You Love Somebody",
+      "url": "https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh"
     },
     {
       "added_at": "2025-10-06 04:35:50",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-10-06 04:35:50",
       "album": {
-        "name": "Good Side",
-        "url": "https://open.spotify.com/album/68gHvyYLpz3rQvl5GJe8ii"
-      },
-      "artists": [
-        {
-          "name": "Crash Adams",
-          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
-        }
-      ],
-      "duration_ms": 164286,
-      "name": "Good Side",
-      "url": "https://open.spotify.com/track/7cnHoTyQeLnJvoPTbapzuv"
-    },
-    {
-      "added_at": "2025-10-06 04:35:50",
-      "album": {
         "name": "Let Go (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2025-10-06 04:35:50",
       "album": {
-        "name": "This Is Me (From The Greatest Showman)",
-        "url": "https://open.spotify.com/album/0Ubwwj4JBI6MVmOmEan8K8"
+        "name": "Good Side",
+        "url": "https://open.spotify.com/album/68gHvyYLpz3rQvl5GJe8ii"
       },
       "artists": [
         {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
         }
       ],
-      "duration_ms": 234886,
-      "name": "This Is Me (From the Greatest Showman)",
-      "url": "https://open.spotify.com/track/3lCHADWP8ohxnfBiUqAN3o"
+      "duration_ms": 164286,
+      "name": "Good Side",
+      "url": "https://open.spotify.com/track/7cnHoTyQeLnJvoPTbapzuv"
     },
     {
       "added_at": "2025-10-06 04:35:50",
@@ -1247,6 +1231,22 @@
       "duration_ms": 136011,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI"
+    },
+    {
+      "added_at": "2025-10-06 04:35:50",
+      "album": {
+        "name": "This Is Me (From The Greatest Showman)",
+        "url": "https://open.spotify.com/album/0Ubwwj4JBI6MVmOmEan8K8"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 234886,
+      "name": "This Is Me (From the Greatest Showman)",
+      "url": "https://open.spotify.com/track/3lCHADWP8ohxnfBiUqAN3o"
     },
     {
       "added_at": "2025-10-06 04:35:50",

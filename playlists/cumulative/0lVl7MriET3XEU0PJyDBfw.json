@@ -877,6 +877,24 @@
     },
     {
       "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/0RmLh9OPKb6oAs8WZ3tpcm"
+      },
+      "artists": [
+        {
+          "name": "DJ CUTOFF",
+          "url": "https://open.spotify.com/artist/26P8jJdCN019qXZXbowW3v"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178646,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/1NxTZ2sybEs8WAAe7TYGCZ"
+    },
+    {
+      "album": {
         "name": "Another World",
         "url": "https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ"
       },

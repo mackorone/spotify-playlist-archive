@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 223996,
+  "num_followers": 224028,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAADxz+6K7oDGF1KirunkSKCG",
+  "snapshot_id": "aORYAAAAAAAOD/5zlzSB7Uu/9nBUvaCe",
   "tracks": [
     {
       "added_at": null,
@@ -923,30 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "By Myself (feat. Dj E Money & G6reddot)",
-        "url": "https://open.spotify.com/album/2z6owfrCNbOou2vZCjtzbJ"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Dj E Money",
-          "url": "https://open.spotify.com/artist/5vLXLmhOx2FLRo0ZwAd1Ue"
-        },
-        {
-          "name": "G6reddot",
-          "url": "https://open.spotify.com/artist/4KN1fLTWx19e2jmVpotGmq"
-        }
-      ],
-      "duration_ms": 237223,
-      "name": "By Myself (feat. Dj E Money & G6reddot)",
-      "url": "https://open.spotify.com/track/3ktptX2yF9kOTairLxOPWj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
         "url": "https://open.spotify.com/album/6aHHJHhyAt6fBWwc7baiCw"
       },
@@ -979,6 +955,30 @@
       "duration_ms": 62789,
       "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",
       "url": "https://open.spotify.com/track/5qyjy0xfsHNzWxvXkHVB85"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "By Myself (feat. Dj E Money & G6reddot)",
+        "url": "https://open.spotify.com/album/2z6owfrCNbOou2vZCjtzbJ"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Dj E Money",
+          "url": "https://open.spotify.com/artist/5vLXLmhOx2FLRo0ZwAd1Ue"
+        },
+        {
+          "name": "G6reddot",
+          "url": "https://open.spotify.com/artist/4KN1fLTWx19e2jmVpotGmq"
+        }
+      ],
+      "duration_ms": 237223,
+      "name": "By Myself (feat. Dj E Money & G6reddot)",
+      "url": "https://open.spotify.com/track/3ktptX2yF9kOTairLxOPWj"
     }
   ],
   "unique_name": "This Is Kodak Black",

@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 157627,
+  "num_followers": 157652,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -895,18 +895,26 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Mas Vallenato",
-        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
+        "name": "La Combinaci\u00f3n Vallenata",
+        "url": "https://open.spotify.com/album/1E5OoaxjAjdMzVlY008QCO"
       },
       "artists": [
         {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+          "name": "La Combinaci\u00f3n Vallenata",
+          "url": "https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya"
+        },
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        },
+        {
+          "name": "Alex Manga",
+          "url": "https://open.spotify.com/artist/7nCFUyJyEVRBo3ZXVdocyZ"
         }
       ],
-      "duration_ms": 267840,
-      "name": "A Besitos",
-      "url": "https://open.spotify.com/track/5qlIIog5kwh0hhiSO5yGv0"
+      "duration_ms": 272533,
+      "name": "A Pesar de Todo",
+      "url": "https://open.spotify.com/track/6wBJ7gF95WpO8u2QEbyJB6"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -963,6 +971,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Mas Vallenato",
+        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 267840,
+      "name": "A Besitos",
+      "url": "https://open.spotify.com/track/5qlIIog5kwh0hhiSO5yGv0"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "Vallenato en Accion: Lo M\u00e1s Grande del Vallenato",
         "url": "https://open.spotify.com/album/2Ew5ixwdQSRVOVS23vCSg5"
       },
@@ -979,22 +1003,6 @@
       "duration_ms": 294546,
       "name": "En Carne Propia",
       "url": "https://open.spotify.com/track/2LktG0fR2WsNAF7ebHMqaL"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Presente y Futuro",
-        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 300346,
-      "name": "Nunca Niegues Que Te Amo",
-      "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1019,42 +1027,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Mas Vallenato",
-        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
+        "name": "Presente y Futuro",
+        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
       },
       "artists": [
         {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 307720,
-      "name": "Las Razones Del Amor",
-      "url": "https://open.spotify.com/track/220sNWEEnJnX2J8vnwuM1W"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "La Combinaci\u00f3n Vallenata",
-        "url": "https://open.spotify.com/album/1E5OoaxjAjdMzVlY008QCO"
-      },
-      "artists": [
-        {
-          "name": "La Combinaci\u00f3n Vallenata",
-          "url": "https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya"
-        },
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        },
-        {
-          "name": "Alex Manga",
-          "url": "https://open.spotify.com/artist/7nCFUyJyEVRBo3ZXVdocyZ"
-        }
-      ],
-      "duration_ms": 272533,
-      "name": "A Pesar de Todo",
-      "url": "https://open.spotify.com/track/6wBJ7gF95WpO8u2QEbyJB6"
+      "duration_ms": 300346,
+      "name": "Nunca Niegues Que Te Amo",
+      "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1075,18 +1059,34 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Sue\u00f1os de Colombia",
-        "url": "https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn"
+        "name": "Mas Vallenato",
+        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
       },
       "artists": [
         {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 317760,
-      "name": "Entregame Tu Amor",
-      "url": "https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot"
+      "duration_ms": 307720,
+      "name": "Las Razones Del Amor",
+      "url": "https://open.spotify.com/track/220sNWEEnJnX2J8vnwuM1W"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Por Buen Camino",
+        "url": "https://open.spotify.com/album/4OkoHGNKWvZHJTDTeEvwNG"
+      },
+      "artists": [
+        {
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+        }
+      ],
+      "duration_ms": 306782,
+      "name": "No He Podido Ser Feliz",
+      "url": "https://open.spotify.com/track/0VocaCjgzgnJII4KIX8hmJ"
     },
     {
       "added_at": "2024-03-28 01:45:52",

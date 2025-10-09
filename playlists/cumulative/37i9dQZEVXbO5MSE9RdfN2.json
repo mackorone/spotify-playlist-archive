@@ -2110,7 +2110,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 132573,
       "name": "Andrew in Drag",
       "url": "https://open.spotify.com/track/4hGc42qyzkBMoHGddyX565"
@@ -5954,7 +5954,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 108307,
       "name": "Cali Man",
       "url": "https://open.spotify.com/track/2pPNAgcdgtRMwK9mPYMK7O"
@@ -7644,7 +7644,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 198620,
       "name": "COM\u00cb N GO",
       "url": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
@@ -8242,7 +8242,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 216816,
       "name": "d4vd - celeste",
       "url": "https://open.spotify.com/track/3XW21GQI2hcErvRT78wLZu"
@@ -11382,10 +11382,32 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 168837,
       "name": "Fancy $hit",
       "url": "https://open.spotify.com/track/2pZwLbKPazJUZItP235e6O"
+    },
+    {
+      "album": {
+        "name": "Fancy $hit",
+        "url": "https://open.spotify.com/album/178hg0pgag9NoDE2WLabZP"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168837,
+      "name": "Fancy $hit",
+      "url": "https://open.spotify.com/track/6Ar3apWGoJLPZ3zy6Eb94F"
     },
     {
       "album": {
@@ -19716,7 +19738,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-06",
+      "date_removed": null,
       "duration_ms": 250681,
       "name": "Keith",
       "url": "https://open.spotify.com/track/4Jw5EpH27DZLcnKrITo7en"
@@ -22962,7 +22984,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 249048,
       "name": "Making Love to Morgan Wallen",
       "url": "https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z"
@@ -24684,7 +24706,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 184494,
       "name": "Mr. Fantasy",
       "url": "https://open.spotify.com/track/4zT0nZK95FOuPWt4WC5vXe"
@@ -29816,7 +29838,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 339410,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
@@ -40239,6 +40261,24 @@
     },
     {
       "album": {
+        "name": "Where Have You Been (Orchestra)",
+        "url": "https://open.spotify.com/album/6slpuFZJr3nKxrCNUugbs0"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3qEhZ01Vx3Xk4LBYgguKbm"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171008,
+      "name": "Where Have You Been (Orchestra)",
+      "url": "https://open.spotify.com/track/38iBHhjHpRTkIlAW9IeAdZ"
+    },
+    {
+      "album": {
         "name": "Where Have You Been (Orchestra Remix)",
         "url": "https://open.spotify.com/album/0Zdfg8LuVIZnzkVxUnHBGz"
       },
@@ -40250,7 +40290,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 77142,
       "name": "Where Have You Been - Orchestra Remix",
       "url": "https://open.spotify.com/track/4e6PHrCEwkv6d88ZxaTlzb"

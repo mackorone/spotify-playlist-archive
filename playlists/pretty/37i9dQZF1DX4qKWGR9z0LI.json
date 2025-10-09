@@ -1,6 +1,6 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Luis Vazquez",
-  "num_followers": 1891372,
+  "num_followers": 1891283,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/0nU31Hhb13gaveZXXw1wkj"
+      },
+      "artists": [
+        {
+          "name": "Nino Segarra",
+          "url": "https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK"
+        }
+      ],
+      "duration_ms": 262079,
+      "name": "Entre La Espada y La Pared",
+      "url": "https://open.spotify.com/track/2UpoA15YFW9ItA8BjXUOJg"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
         "name": "La F\u00f3rmula",
         "url": "https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 267016,
       "name": "La F\u00f3rmula",
       "url": "https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/0nU31Hhb13gaveZXXw1wkj"
-      },
-      "artists": [
-        {
-          "name": "Nino Segarra",
-          "url": "https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK"
-        }
-      ],
-      "duration_ms": 262079,
-      "name": "Entre La Espada y La Pared",
-      "url": "https://open.spotify.com/track/2UpoA15YFW9ItA8BjXUOJg"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -531,26 +531,6 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "F.A.M.E.",
-        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "Felices los 4 (feat. Marc Anthony) - Salsa Version",
-      "url": "https://open.spotify.com/track/6PNG5G1v7pU74I13KkvAIo"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
         "name": "PLIS",
         "url": "https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 222800,
       "name": "PLIS",
       "url": "https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
+        "name": "F.A.M.E.",
+        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "Felices los 4 (feat. Marc Anthony) - Salsa Version",
+      "url": "https://open.spotify.com/track/6PNG5G1v7pU74I13KkvAIo"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "La-33",
-        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
-      },
-      "artists": [
-        {
-          "name": "La-33",
-          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
-        }
-      ],
-      "duration_ms": 374840,
-      "name": "La Pantera Mambo",
-      "url": "https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
         "name": "Arriba Siempre - De Pura Sangre",
         "url": "https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 305053,
       "name": "Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
+        "name": "La-33",
+        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
+      },
+      "artists": [
+        {
+          "name": "La-33",
+          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
+        }
+      ],
+      "duration_ms": 374840,
+      "name": "La Pantera Mambo",
+      "url": "https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3"
-      },
-      "artists": [
-        {
-          "name": "Huey Dunbar",
-          "url": "https://open.spotify.com/artist/6fhCq41xOJnMGIvFd13Oft"
-        },
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 296240,
-      "name": "Que Locura Enamorarme De Ti (feat. Eddie Santiago)",
-      "url": "https://open.spotify.com/track/2UN8K1VKiiKiEimbxa7Fpv"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
         "name": "Salsa Legends",
         "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 358493,
       "name": "No Vale La Pena",
       "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3"
+      },
+      "artists": [
+        {
+          "name": "Huey Dunbar",
+          "url": "https://open.spotify.com/artist/6fhCq41xOJnMGIvFd13Oft"
+        },
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 296240,
+      "name": "Que Locura Enamorarme De Ti (feat. Eddie Santiago)",
+      "url": "https://open.spotify.com/track/2UN8K1VKiiKiEimbxa7Fpv"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "GRIS",
-        "url": "https://open.spotify.com/album/7gQT5v5aHRnoHJ7Py2h25f"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 239106,
-      "name": "C\u00f3mo Se Compara",
-      "url": "https://open.spotify.com/track/0NsJ0CkYwNzgKXKWv8ErKd"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
         "name": "El Swing 2.0 (feat. Luis Vazquez)",
         "url": "https://open.spotify.com/album/7AJ4avit0l9eHocnOrRN4t"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 208524,
       "name": "Coraz\u00f3n Roto",
       "url": "https://open.spotify.com/track/64NCHXiLhpgX0n9bgAnAaE"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
+        "name": "GRIS",
+        "url": "https://open.spotify.com/album/7gQT5v5aHRnoHJ7Py2h25f"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 239106,
+      "name": "C\u00f3mo Se Compara",
+      "url": "https://open.spotify.com/track/0NsJ0CkYwNzgKXKWv8ErKd"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1459,18 +1459,22 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "Era para Siempre (Versi\u00f3n Salsa)",
-        "url": "https://open.spotify.com/album/67avoNrlhKsvgLVe90hnRg"
+        "name": "Me Dedique A Perderte",
+        "url": "https://open.spotify.com/album/3ub5YlYjOAkQPf7mAMGDTs"
       },
       "artists": [
         {
-          "name": "Amy Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR"
+          "name": "Pablo EEE",
+          "url": "https://open.spotify.com/artist/08IR4c2MfZCUcN5CuMWGIP"
+        },
+        {
+          "name": "Jimmy Rodriguez",
+          "url": "https://open.spotify.com/artist/4M355xYeWAVoaecF6LL2av"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Era para Siempre - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/1jK86Rru97CbtLLRNsbcIz"
+      "duration_ms": 167320,
+      "name": "Me Dediqu\u00e9 A Perderte",
+      "url": "https://open.spotify.com/track/0A9vorHzI0KJ0hlmWzdSqX"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1495,22 +1499,18 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "Me Dedique A Perderte",
-        "url": "https://open.spotify.com/album/3ub5YlYjOAkQPf7mAMGDTs"
+        "name": "Era para Siempre (Versi\u00f3n Salsa)",
+        "url": "https://open.spotify.com/album/67avoNrlhKsvgLVe90hnRg"
       },
       "artists": [
         {
-          "name": "Pablo EEE",
-          "url": "https://open.spotify.com/artist/08IR4c2MfZCUcN5CuMWGIP"
-        },
-        {
-          "name": "Jimmy Rodriguez",
-          "url": "https://open.spotify.com/artist/4M355xYeWAVoaecF6LL2av"
+          "name": "Amy Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR"
         }
       ],
-      "duration_ms": 167320,
-      "name": "Me Dediqu\u00e9 A Perderte",
-      "url": "https://open.spotify.com/track/0A9vorHzI0KJ0hlmWzdSqX"
+      "duration_ms": 186000,
+      "name": "Era para Siempre - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/1jK86Rru97CbtLLRNsbcIz"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "M\u00e1s Que Un Beso",
-        "url": "https://open.spotify.com/album/5mbratbbD9yQhmza0RSEvc"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
       "artists": [
         {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 216760,
-      "name": "M\u00e1s Que Un Beso",
-      "url": "https://open.spotify.com/track/6Khxj8BjukKHwAnmRLaRUT"
+      "duration_ms": 169207,
+      "name": "El Que Ama Sufre",
+      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+        "name": "M\u00e1s Que Un Beso",
+        "url": "https://open.spotify.com/album/5mbratbbD9yQhmza0RSEvc"
       },
       "artists": [
         {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
         }
       ],
-      "duration_ms": 169207,
-      "name": "El Que Ama Sufre",
-      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
+      "duration_ms": 216760,
+      "name": "M\u00e1s Que Un Beso",
+      "url": "https://open.spotify.com/track/6Khxj8BjukKHwAnmRLaRUT"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "Volver a Enamorarnos",
-        "url": "https://open.spotify.com/album/6KxG9FizNRMfYO79Wy2X9O"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 256277,
-      "name": "Volver a Enamorarnos",
-      "url": "https://open.spotify.com/track/4SzRsSk3O4Qtk5tMzwsrxa"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
         "name": "Es Ajena",
         "url": "https://open.spotify.com/album/00yqN4rueEKgy1bH0be0GI"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 231833,
       "name": "Es Ajena",
       "url": "https://open.spotify.com/track/0NIEDfSwUEQ2jfZ0VS0FSz"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
+        "name": "Volver a Enamorarnos",
+        "url": "https://open.spotify.com/album/6KxG9FizNRMfYO79Wy2X9O"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 256277,
+      "name": "Volver a Enamorarnos",
+      "url": "https://open.spotify.com/track/4SzRsSk3O4Qtk5tMzwsrxa"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
+        "name": "Salsa At It's Best",
+        "url": "https://open.spotify.com/album/3h6vm8JRXQ43IiGXWH235R"
+      },
+      "artists": [
+        {
+          "name": "Nino Segarra",
+          "url": "https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK"
+        }
+      ],
+      "duration_ms": 304946,
+      "name": "Porque Te Amo",
+      "url": "https://open.spotify.com/track/41dBR9Gy1WZSiBkLBWbl2l"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
         "name": "Princesa",
         "url": "https://open.spotify.com/album/26ml9ZkGw8nvKzMMn5NQBx"
       },
@@ -1755,26 +1771,6 @@
       "duration_ms": 179894,
       "name": "Princesa",
       "url": "https://open.spotify.com/track/3szaCs7VEoFa0aDnsqzgZz"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
-        "name": "Mira",
-        "url": "https://open.spotify.com/album/2wrbLhESYlyhzIlhJ1Lo8X"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "Mira - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct"
     }
   ],
   "unique_name": "Salsa Nation",

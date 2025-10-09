@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James",
-  "num_followers": 515866,
+  "num_followers": 515995,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-05-03 14:52:34",
       "album": {
-        "name": "Pet Sounds (Original Mono & Stereo Mix)",
-        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 173040,
-      "name": "God Only Knows - Mono",
-      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
-    },
-    {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
         "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
         "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 181666,
       "name": "I've Been Loving You Too Long",
       "url": "https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "Pet Sounds (Original Mono & Stereo Mix)",
+        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "God Only Knows - Mono",
+      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5"
-      },
-      "artists": [
-        {
-          "name": "Joni Mitchell",
-          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
-        }
-      ],
-      "duration_ms": 273573,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/3NW1YMA8kfNVTzGJCGBS8m"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Parsley, Sage, Rosemary And Thyme",
         "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 190346,
       "name": "Scarborough Fair / Canticle",
       "url": "https://open.spotify.com/track/3g2fYZW5v2od8KIF7VktT0"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "duration_ms": 273573,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/3NW1YMA8kfNVTzGJCGBS8m"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Dock of the Bay",
-        "url": "https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 166826,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Aretha Now",
         "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 149626,
       "name": "You Send Me",
       "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Dock of the Bay",
+        "url": "https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 166826,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -991,18 +991,18 @@
     {
       "added_at": "2024-05-03 14:52:34",
       "album": {
-        "name": "Yes I'm Ready",
-        "url": "https://open.spotify.com/album/7ujKaJ1E5N76H4y9hyhTdj"
+        "name": "Insight Out",
+        "url": "https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta"
       },
       "artists": [
         {
-          "name": "Barbara Mason",
-          "url": "https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ"
+          "name": "The Association",
+          "url": "https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS"
         }
       ],
-      "duration_ms": 184333,
-      "name": "Yes, I'm Ready",
-      "url": "https://open.spotify.com/track/2gZpW5pTZkimGG98loFSl2"
+      "duration_ms": 187693,
+      "name": "Never My Love - Remastered Version",
+      "url": "https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-05-03 14:52:34",
       "album": {
-        "name": "Insight Out",
-        "url": "https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta"
+        "name": "Yes I'm Ready",
+        "url": "https://open.spotify.com/album/7ujKaJ1E5N76H4y9hyhTdj"
       },
       "artists": [
         {
-          "name": "The Association",
-          "url": "https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS"
+          "name": "Barbara Mason",
+          "url": "https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ"
         }
       ],
-      "duration_ms": 187693,
-      "name": "Never My Love - Remastered Version",
-      "url": "https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8"
+      "duration_ms": 184333,
+      "name": "Yes, I'm Ready",
+      "url": "https://open.spotify.com/track/2gZpW5pTZkimGG98loFSl2"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Ferry Cross The Mersey [Mono And Stereo Version]",
-        "url": "https://open.spotify.com/album/51mN3VJrZjN6h30AuqAqGD"
-      },
-      "artists": [
-        {
-          "name": "Gerry & The Pacemakers",
-          "url": "https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8"
-        }
-      ],
-      "duration_ms": 143866,
-      "name": "Ferry Cross the Mersey - Stereo; 1997 Remaster",
-      "url": "https://open.spotify.com/track/3NFScsiDPfCzKgQQUL0674"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Latin Ala Lee",
         "url": "https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 151973,
       "name": "Till There Was You - Remastered 1995",
       "url": "https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Ferry Cross The Mersey [Mono And Stereo Version]",
+        "url": "https://open.spotify.com/album/51mN3VJrZjN6h30AuqAqGD"
+      },
+      "artists": [
+        {
+          "name": "Gerry & The Pacemakers",
+          "url": "https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8"
+        }
+      ],
+      "duration_ms": 143866,
+      "name": "Ferry Cross the Mersey - Stereo; 1997 Remaster",
+      "url": "https://open.spotify.com/track/3NFScsiDPfCzKgQQUL0674"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1573,6 +1573,22 @@
       "url": "https://open.spotify.com/track/6NDg4EyQE5lalcCEEpytsM"
     },
     {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "Beginnings",
+        "url": "https://open.spotify.com/album/1OYFI2ylkl9kluPmY4SUmD"
+      },
+      "artists": [
+        {
+          "name": "Cilla Black",
+          "url": "https://open.spotify.com/artist/3bCvHtuIXWXPbCMdSYudmZ"
+        }
+      ],
+      "duration_ms": 171373,
+      "name": "Anyone Who Had a Heart - 2003 Remaster",
+      "url": "https://open.spotify.com/track/28Y2taEFmHofu2EsU04ILf"
+    },
+    {
       "added_at": "2022-05-30 13:00:37",
       "album": {
         "name": "The Definitive Collection",
@@ -1603,22 +1619,6 @@
       "duration_ms": 194106,
       "name": "When Something Is Wrong with My Baby",
       "url": "https://open.spotify.com/track/6C0v3MKZdb8TQMlcCIupd7"
-    },
-    {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "Beginnings",
-        "url": "https://open.spotify.com/album/1OYFI2ylkl9kluPmY4SUmD"
-      },
-      "artists": [
-        {
-          "name": "Cilla Black",
-          "url": "https://open.spotify.com/artist/3bCvHtuIXWXPbCMdSYudmZ"
-        }
-      ],
-      "duration_ms": 171373,
-      "name": "Anyone Who Had a Heart - 2003 Remaster",
-      "url": "https://open.spotify.com/track/28Y2taEFmHofu2EsU04ILf"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Music From Big Pink (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0nuPXgAXAfPmz9AW1PPrlk"
-      },
-      "artists": [
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        }
-      ],
-      "duration_ms": 278626,
-      "name": "The Weight - Remastered",
-      "url": "https://open.spotify.com/track/0sDqo9UPzPUtu9wEkI3zRB"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Hello Louis - The Hit Years (1963-1969)",
         "url": "https://open.spotify.com/album/3IkAJdl6rQcSbnfpGr3MVt"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 137466,
       "name": "What A Wonderful World",
       "url": "https://open.spotify.com/track/6Z5XZ8fjmWGbkdahOgreVe"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Music From Big Pink (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0nuPXgAXAfPmz9AW1PPrlk"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "duration_ms": 278626,
+      "name": "The Weight - Remastered",
+      "url": "https://open.spotify.com/track/0sDqo9UPzPUtu9wEkI3zRB"
     },
     {
       "added_at": "2024-05-03 14:52:34",

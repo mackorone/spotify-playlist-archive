@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 
 > Favourites from Canadians who dominated the 1990s\. Cover: Melanie C & Bryan Adams
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,012 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,018 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 72 | [Leaving On A Jet Plane](https://open.spotify.com/track/2tFYV2RZGwRLCmfDqfI3OT) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [Since We Met: The Best of 1996\-2006](https://open.spotify.com/album/67QWVDS41ddKIKYhlsJjJt) | 4:40 |
 | 73 | [My Definition Of A Boombastic Jazz Style \- Radio Mix](https://open.spotify.com/track/5vmxVtt3hyQQvVnNXJtvJC) | [Dream Warriors](https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU) | [Danger "The Hip Hop Collection 5"](https://open.spotify.com/album/4jAQqJmuUDVwLrvduYK9vn) | 3:44 |
 | 74 | [Numb](https://open.spotify.com/track/7eH1GkchdFvNN4ZUx767G3) | [Holly McNarland](https://open.spotify.com/artist/26YoEndupBcezyzcSmbcw2) | [Stuff](https://open.spotify.com/album/2pLU6e4KE2773H1OjOfRZ9) | 3:57 |
-| 75 | [Eat My Brain](https://open.spotify.com/track/2oUASWffEKd5cfoqTpQK86) | [Odds](https://open.spotify.com/artist/1MVQ4bbrG5VdRyozjajZQp) | [Good Weird Feeling](https://open.spotify.com/album/4Ov3XdAlqU8tqWCOwJ1WQq) | 4:26 |
+| 75 | [Eat My Brain](https://open.spotify.com/track/2oUASWffEKd5cfoqTpQK86) | [ODDS](https://open.spotify.com/artist/5xDDA1SfPR0PXU7FAnIoVm) | [Good Weird Feeling](https://open.spotify.com/album/4Ov3XdAlqU8tqWCOwJ1WQq) | 4:26 |
 | 76 | [Faded](https://open.spotify.com/track/4WP1XJnAUkZfTtMdZTaN9k) | [SoulDecision](https://open.spotify.com/artist/6hYrBYtoVGArYJcqvYxN4r) | [No One Does It Better](https://open.spotify.com/album/125budnbeWLmbMmMR6jV4t) | 3:28 |
 | 77 | [Midnight Rain](https://open.spotify.com/track/5ciTMaXkcznCe2fDgrrZVI) | [Wide Mouth Mason](https://open.spotify.com/artist/6CcCAJi97tqh5OFAwy1THH) | [Wide Mouth Mason](https://open.spotify.com/album/2MrXw9z9ljPjJwernD0w3E) | 3:47 |
 | 78 | [The Old Apartment](https://open.spotify.com/track/5HjviQMuDBIvcyNXJtka23) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Born on a Pirate Ship \(Enhanced Edition\)](https://open.spotify.com/album/0ZhGG0DUBuvVNyICBnHlpZ) | 3:29 |

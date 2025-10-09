@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Chanel Beads
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,298,275 likes - 197 songs - 12 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,298,210 likes - 197 songs - 12 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

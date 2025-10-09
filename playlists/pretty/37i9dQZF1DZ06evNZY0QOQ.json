@@ -1,12 +1,12 @@
 {
   "description": "This is CKay. The essential tracks, all in one playlist.",
-  "num_followers": 23219,
+  "num_followers": 23224,
   "original_name": "This Is CKay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAABkPZRTaX6ybueNlGWtSNku",
+  "snapshot_id": "aORYAAAAAAD+21Sv9Rs0ocQGH61sh1NB",
   "tracks": [
     {
       "added_at": null,
@@ -279,26 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EMOTIONS",
-        "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Nora Fatehi",
-          "url": "https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA"
-        }
-      ],
-      "duration_ms": 169565,
-      "name": "IT\u2019S TRUE (feat. Nora Fatehi)",
-      "url": "https://open.spotify.com/track/18TFbCHdZbnnyNIsJHcyGe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 173333,
       "name": "Skoin Skoin (feat. Bianca Costa)",
       "url": "https://open.spotify.com/track/55Rnsl2V2IjPf7wiwCyEFq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EMOTIONS",
+        "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Nora Fatehi",
+          "url": "https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA"
+        }
+      ],
+      "duration_ms": 169565,
+      "name": "IT\u2019S TRUE (feat. Nora Fatehi)",
+      "url": "https://open.spotify.com/track/18TFbCHdZbnnyNIsJHcyGe"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Kiss Me Like You Miss Me",
+      "url": "https://open.spotify.com/track/0qO1vvKmRvBVH60KsfS8Gh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Body & Soul",
         "url": "https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 155400,
       "name": "Wetin Be Love",
       "url": "https://open.spotify.com/track/0IRuh90YBK9a99cW3R9skS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Kiss Me Like You Miss Me",
-      "url": "https://open.spotify.com/track/0qO1vvKmRvBVH60KsfS8Gh"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EMOTIONS",
-        "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 172640,
-      "name": "EGWU EJI",
-      "url": "https://open.spotify.com/track/7HeqbuykOPm9DZ965bHhsg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "love nwantiti x dumebi (Mid\u00e9 Naike Remix)",
         "url": "https://open.spotify.com/album/7AzISzDV84yvlneRn6OL3j"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 194181,
       "name": "love nwantiti x dumebi - Mid\u00e9 Naike Remix",
       "url": "https://open.spotify.com/track/5h3lq0x9KKwYhPcWAUVdOj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EMOTIONS",
+        "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 172640,
+      "name": "EGWU EJI",
+      "url": "https://open.spotify.com/track/7HeqbuykOPm9DZ965bHhsg"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 196712,
-      "name": "mmadu",
-      "url": "https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sad Romance (Deluxe)",
         "url": "https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 211293,
       "name": "capture my soul (feat. Joeboy)",
       "url": "https://open.spotify.com/track/6nWbowN2n1DXxyfQGhx2Zz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 196712,
+      "name": "mmadu",
+      "url": "https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx"
     },
     {
       "added_at": null,

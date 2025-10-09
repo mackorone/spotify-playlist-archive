@@ -4,7 +4,7 @@
 
 > This is Cassiane\. The essential tracks, all in one playlist.
 
-85 songs - 7 hr 13 min
+86 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,9 +45,10 @@
 | [Jesus Está no Barco \(Ao Vivo\)](https://open.spotify.com/track/77bI4fOKEk3fFUgTKQ1dXk) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Jesus Está no Barco \(Ao Vivo\)](https://open.spotify.com/album/6TzyI0uQvnWWn5w6ATvoNi) | 4:33 | 2023-09-15 | 2024-02-27 |
 | [Louve Sempre](https://open.spotify.com/track/1N4x73O2k5C2PNOxf4UCQk) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Sementes da Fé](https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp) | 5:22 | 2023-07-09 |  |
 | [Louvor sem Fim](https://open.spotify.com/track/5wJHuTjDSIRgIPsCVBegqm) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Faça Diferença](https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws) | 5:21 | 2023-07-09 | 2024-12-21 |
+| [Marca o Meu Coração](https://open.spotify.com/track/61aeQsEdTS9jNUYjtbnnh9) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Marca o Meu Coração](https://open.spotify.com/album/1MKcpoNwxkKkkYKVpQFKeg) | 4:49 | 2025-10-09 |  |
 | [Medley \(A Carta / Mergulhe / Todo Poderoso / Não Vou Desistir / Tem Que Ser Pequeno / Cheiro de Vitória / Erguer as Mãos\) \(Ao Vivo\)](https://open.spotify.com/track/49Fd9wpK7X5ZXxIWFrAgKh) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Medley \(A Carta / Mergulhe / Todo Poderoso / Não Vou Desistir / Tem Que Ser Pequeno / Cheiro de Vitória / Erguer as Mãos\) \(Ao Vivo\)](https://open.spotify.com/album/0RwLXsqlcWiiVEYCn773sj) | 8:13 | 2023-07-09 | 2025-07-16 |
 | [Medley \- Festa no Céu / Fogo Santo / Aqui tem Glória](https://open.spotify.com/track/14OBr06PAYRYZa9Ff5QYDg) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [25 Anos de Muito Louvor](https://open.spotify.com/album/1SRXsewpf8tTMGhBtv5U0A) | 4:19 | 2025-07-16 | 2025-09-24 |
-| [Medley \- Para Sempre / Força Imensa / Onde Jesus Mora](https://open.spotify.com/track/431TwlEMTRWnK5yzs7Pl98) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [25 Anos de Muito Louvor](https://open.spotify.com/album/1SRXsewpf8tTMGhBtv5U0A) | 5:35 | 2024-05-13 |  |
+| [Medley \- Para Sempre / Força Imensa / Onde Jesus Mora](https://open.spotify.com/track/431TwlEMTRWnK5yzs7Pl98) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [25 Anos de Muito Louvor](https://open.spotify.com/album/1SRXsewpf8tTMGhBtv5U0A) | 5:35 | 2024-05-13 | 2025-10-09 |
 | [Medley Ouve, Senhor \- Ao Vivo](https://open.spotify.com/track/0f3USV8YwTafD09QCi9p46) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Memórias do Coração \- Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/67vcrkrTm7ttX6WVDcGPjw) | 8:35 | 2023-11-10 | 2024-06-03 |
 | [Mergulhe](https://open.spotify.com/track/0aToQvWg4KfOKuHvsKcDkg) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Faça Diferença](https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws) | 4:36 | 2023-07-09 |  |
 | [Minha Bênção](https://open.spotify.com/track/5SS4AAEBMOMVGJTlKS7Hnw) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 4:20 | 2023-07-09 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAACdF9iRgniz8YQk6cvZIuEd",
+  "snapshot_id": "aORYAAAAAADIh1zWAEpSwYD4loOWo3rR",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cautiously Optimistic",
+        "url": "https://open.spotify.com/album/1YZQRY1Xu5FJZ6kaxaZXsD"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 145674,
+      "name": "Cautiously Optimistic",
+      "url": "https://open.spotify.com/track/5DnCw5nWO9DnDIAhn96gx2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pop Drama",
         "url": "https://open.spotify.com/album/4UDhDZ2hi0urYcEV0h9Sb5"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 220647,
       "name": "HRDCR",
       "url": "https://open.spotify.com/track/1b3Hr77vQzUoQrzFgoWuk3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cautiously Optimistic",
-        "url": "https://open.spotify.com/album/1YZQRY1Xu5FJZ6kaxaZXsD"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 145674,
-      "name": "Cautiously Optimistic",
-      "url": "https://open.spotify.com/track/5DnCw5nWO9DnDIAhn96gx2"
     },
     {
       "added_at": null,

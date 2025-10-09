@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Chris Beats Zn, Yuri Redicopa",
-  "num_followers": 148505,
+  "num_followers": 148526,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,26 @@
     {
       "added_at": "2025-10-03 03:01:36",
       "album": {
+        "name": "Direto da Selva",
+        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Neyriellen Ferreira",
+          "url": "https://open.spotify.com/artist/0FhGKwqvB6mvHxJB2n3fYl"
+        }
+      ],
+      "duration_ms": 200757,
+      "name": "Amanheceu",
+      "url": "https://open.spotify.com/track/2goHxXjG4BLibbnzapH8ow"
+    },
+    {
+      "added_at": "2025-10-03 03:01:36",
+      "album": {
         "name": "Sentido \u00e0 Zona Leste",
         "url": "https://open.spotify.com/album/3EoyU7wpCUPE7qrx54NUKB"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 123508,
       "name": "Sentido \u00e0 Zona Leste",
       "url": "https://open.spotify.com/track/2w02XJ34a0xhLwegEHw7u2"
-    },
-    {
-      "added_at": "2025-10-03 03:01:36",
-      "album": {
-        "name": "Direto da Selva",
-        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Neyriellen Ferreira",
-          "url": "https://open.spotify.com/artist/0FhGKwqvB6mvHxJB2n3fYl"
-        }
-      ],
-      "duration_ms": 200757,
-      "name": "Amanheceu",
-      "url": "https://open.spotify.com/track/2goHxXjG4BLibbnzapH8ow"
     },
     {
       "added_at": "2025-10-03 03:01:36",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-10-03 03:01:36",
       "album": {
-        "name": "Ruas Frias",
-        "url": "https://open.spotify.com/album/12UMQAWVys24LITebtbIdY"
-      },
-      "artists": [
-        {
-          "name": "Thxuzz",
-          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Ruas Frias",
-      "url": "https://open.spotify.com/track/5Omd3iQ7w09CsoFBfZrKMM"
-    },
-    {
-      "added_at": "2025-10-03 03:01:36",
-      "album": {
         "name": "Diesel Dior",
         "url": "https://open.spotify.com/album/6MNqs3AyrgaxCTzY0VubqW"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 189197,
       "name": "Diesel Dior",
       "url": "https://open.spotify.com/track/1ilQOr4WSuduqsRJ9UOLYW"
+    },
+    {
+      "added_at": "2025-10-03 03:01:36",
+      "album": {
+        "name": "Ruas Frias",
+        "url": "https://open.spotify.com/album/12UMQAWVys24LITebtbIdY"
+      },
+      "artists": [
+        {
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Ruas Frias",
+      "url": "https://open.spotify.com/track/5Omd3iQ7w09CsoFBfZrKMM"
     },
     {
       "added_at": "2025-10-03 03:01:36",

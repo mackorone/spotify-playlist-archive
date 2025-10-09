@@ -1,6 +1,6 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 211415,
+  "num_followers": 211459,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
+        "name": "Sonido C\u00f3smico",
+        "url": "https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 223427,
+      "name": "Sonido C\u00f3smico",
+      "url": "https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
         "name": "On te l'avait dit",
         "url": "https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 384383,
       "name": "On te l'avait dit",
       "url": "https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
-        "name": "Sonido C\u00f3smico",
-        "url": "https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        }
-      ],
-      "duration_ms": 223427,
-      "name": "Sonido C\u00f3smico",
-      "url": "https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Dur Dur of Somalia - Vol. 1, Vol. 2 (Analog Africa No. 27)",
-        "url": "https://open.spotify.com/album/2ZWaF8JdYy0T8wJdVDW8az"
-      },
-      "artists": [
-        {
-          "name": "Dur-Dur Band",
-          "url": "https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF"
-        }
-      ],
-      "duration_ms": 357480,
-      "name": "Yabaal",
-      "url": "https://open.spotify.com/track/0IPAr9x0VOpCnk2hNuk5aO"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "Amanheceu",
         "url": "https://open.spotify.com/album/1blDqTfNYs1UcLWMKFiGzF"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 184864,
       "name": "Amanheceu",
       "url": "https://open.spotify.com/track/6SZpFJEjMzptYIuj2IQC1M"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Dur Dur of Somalia - Vol. 1, Vol. 2 (Analog Africa No. 27)",
+        "url": "https://open.spotify.com/album/2ZWaF8JdYy0T8wJdVDW8az"
+      },
+      "artists": [
+        {
+          "name": "Dur-Dur Band",
+          "url": "https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF"
+        }
+      ],
+      "duration_ms": 357480,
+      "name": "Yabaal",
+      "url": "https://open.spotify.com/track/0IPAr9x0VOpCnk2hNuk5aO"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -847,18 +847,22 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d"
+        "name": "Feira De Mangaio",
+        "url": "https://open.spotify.com/album/55ubWcyqgWWOAI1GuowYAH"
       },
       "artists": [
         {
-          "name": "XIXA",
-          "url": "https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e"
+          "name": "The Kiffness",
+          "url": "https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG"
+        },
+        {
+          "name": "Mari Merenda",
+          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
         }
       ],
-      "duration_ms": 206430,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF"
+      "duration_ms": 156600,
+      "name": "Feira De Mangaio",
+      "url": "https://open.spotify.com/track/33iTVkckI2X5ip1qX4dFsh"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -875,6 +879,22 @@
       "duration_ms": 346413,
       "name": "Kolyskova",
       "url": "https://open.spotify.com/track/02aLw97KKhqN6iMqjJntf3"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d"
+      },
+      "artists": [
+        {
+          "name": "XIXA",
+          "url": "https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e"
+        }
+      ],
+      "duration_ms": 206430,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -911,42 +931,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "I \u00e8s ?",
-        "url": "https://open.spotify.com/album/0e0D3S0kz3y9QWXvu7AR5g"
-      },
-      "artists": [
-        {
-          "name": "Cocanha",
-          "url": "https://open.spotify.com/artist/1MYfw8oJJ5lQisSkMKPGHl"
-        }
-      ],
-      "duration_ms": 136040,
-      "name": "Dempu\u00e8i auriac",
-      "url": "https://open.spotify.com/track/0qNkaZahHUYumhxlAMgp33"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
-        "name": "Feira De Mangaio",
-        "url": "https://open.spotify.com/album/55ubWcyqgWWOAI1GuowYAH"
-      },
-      "artists": [
-        {
-          "name": "The Kiffness",
-          "url": "https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG"
-        },
-        {
-          "name": "Mari Merenda",
-          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Feira De Mangaio",
-      "url": "https://open.spotify.com/track/33iTVkckI2X5ip1qX4dFsh"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "Dromomania",
         "url": "https://open.spotify.com/album/0slf4uR5PXW7wWSfFOnOEx"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 293253,
       "name": "Garawek khaos",
       "url": "https://open.spotify.com/track/09uRAja2jE8e0HwBFmPdqn"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "I \u00e8s ?",
+        "url": "https://open.spotify.com/album/0e0D3S0kz3y9QWXvu7AR5g"
+      },
+      "artists": [
+        {
+          "name": "Cocanha",
+          "url": "https://open.spotify.com/artist/1MYfw8oJJ5lQisSkMKPGHl"
+        }
+      ],
+      "duration_ms": 136040,
+      "name": "Dempu\u00e8i auriac",
+      "url": "https://open.spotify.com/track/0qNkaZahHUYumhxlAMgp33"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1035,6 +1035,38 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
+        "name": "False Lankum",
+        "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "duration_ms": 343000,
+      "name": "Newcastle",
+      "url": "https://open.spotify.com/track/2GiVRxdolsLBU3QZ8U7CNk"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Conquistador",
+        "url": "https://open.spotify.com/album/2gkJw21X6L6nGdej4VAc6O"
+      },
+      "artists": [
+        {
+          "name": "Sotomayor",
+          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "El\u00e9ctrico",
+      "url": "https://open.spotify.com/track/2Y6qcH0XUxAohCNdefCa0J"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
         "name": "Unconscious Collective",
         "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
       },
@@ -1075,38 +1107,6 @@
       "duration_ms": 237000,
       "name": "Vaiv\u00e9n",
       "url": "https://open.spotify.com/track/1g1kzzTZN4AIabY9e1WolT"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
-        "name": "False Lankum",
-        "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
-      },
-      "artists": [
-        {
-          "name": "Lankum",
-          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
-        }
-      ],
-      "duration_ms": 343000,
-      "name": "Newcastle",
-      "url": "https://open.spotify.com/track/2GiVRxdolsLBU3QZ8U7CNk"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
-        "name": "Conquistador",
-        "url": "https://open.spotify.com/album/2gkJw21X6L6nGdej4VAc6O"
-      },
-      "artists": [
-        {
-          "name": "Sotomayor",
-          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "El\u00e9ctrico",
-      "url": "https://open.spotify.com/track/2Y6qcH0XUxAohCNdefCa0J"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
+        "name": "Turkish Coffee",
+        "url": "https://open.spotify.com/album/32NlU7M1aJkrf4dJBiRNTW"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Turkish Coffee",
+      "url": "https://open.spotify.com/track/4XwNMzzX2Am9G4WbRl6nMi"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
         "name": "Coconut Rock",
         "url": "https://open.spotify.com/album/7gW7B0IdXwmNaMBAZ0XryK"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 237832,
       "name": "El Diablo Y El \u00d1au \u00d1au (feat. Chico Mann)",
       "url": "https://open.spotify.com/track/6mYsi0PrM4EdDBV5cfsNyp"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
-        "name": "Turkish Coffee",
-        "url": "https://open.spotify.com/album/32NlU7M1aJkrf4dJBiRNTW"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Turkish Coffee",
-      "url": "https://open.spotify.com/track/4XwNMzzX2Am9G4WbRl6nMi"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Fiat Lux",
-        "url": "https://open.spotify.com/album/4hjKxlkH171FW6UmzpOD36"
-      },
-      "artists": [
-        {
-          "name": "Tarta Relena",
-          "url": "https://open.spotify.com/artist/40sPlPGgON8MBAiW4CIFTP"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "El su\u00efcidi i el cant",
-      "url": "https://open.spotify.com/track/7GquvFJQ0RKEOgH6uNAhkU"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "East of Any Place (Habibi Funk 025)",
         "url": "https://open.spotify.com/album/7sTew04rtXKxlXg87MgS6e"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 130399,
       "name": "East Of Any Place",
       "url": "https://open.spotify.com/track/68M4djLGRDlVPD53Dgiwnz"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Fiat Lux",
+        "url": "https://open.spotify.com/album/4hjKxlkH171FW6UmzpOD36"
+      },
+      "artists": [
+        {
+          "name": "Tarta Relena",
+          "url": "https://open.spotify.com/artist/40sPlPGgON8MBAiW4CIFTP"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "El su\u00efcidi i el cant",
+      "url": "https://open.spotify.com/track/7GquvFJQ0RKEOgH6uNAhkU"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Gur\u00fa",
-        "url": "https://open.spotify.com/album/4oLp2nNArfwJ0JsMT3eHMq"
-      },
-      "artists": [
-        {
-          "name": "Pony Bravo",
-          "url": "https://open.spotify.com/artist/2e1wMFU6VpZkcLil2g7MrF"
-        }
-      ],
-      "duration_ms": 218360,
-      "name": "Totomami",
-      "url": "https://open.spotify.com/track/1H5TTRStrhzQW3w0LpqhVU"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "Solpor",
         "url": "https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs"
       },
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
+        "name": "Gur\u00fa",
+        "url": "https://open.spotify.com/album/4oLp2nNArfwJ0JsMT3eHMq"
+      },
+      "artists": [
+        {
+          "name": "Pony Bravo",
+          "url": "https://open.spotify.com/artist/2e1wMFU6VpZkcLil2g7MrF"
+        }
+      ],
+      "duration_ms": 218360,
+      "name": "Totomami",
+      "url": "https://open.spotify.com/track/1H5TTRStrhzQW3w0LpqhVU"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
         "name": "Manara",
         "url": "https://open.spotify.com/album/39bOQIKF8BRXuf8zSh1yeG"
       },
@@ -1567,6 +1567,22 @@
       "duration_ms": 170734,
       "name": "Ya Watan",
       "url": "https://open.spotify.com/track/3ArBO06WybP4GQCtwCwTgw"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Hagata",
+        "url": "https://open.spotify.com/album/7cclyMWA0t4LT2qaBodOzp"
+      },
+      "artists": [
+        {
+          "name": "TEKE::TEKE",
+          "url": "https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Doppelganger",
+      "url": "https://open.spotify.com/track/7hWdNwrLMi89VNngqPxsm8"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Hagata",
-        "url": "https://open.spotify.com/album/7cclyMWA0t4LT2qaBodOzp"
-      },
-      "artists": [
-        {
-          "name": "TEKE::TEKE",
-          "url": "https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Doppelganger",
-      "url": "https://open.spotify.com/track/7hWdNwrLMi89VNngqPxsm8"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "Hippie Hourrah!",
         "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
       },
@@ -1619,26 +1619,6 @@
       "duration_ms": 306453,
       "name": "Fant\u00f4me",
       "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
-        "name": "Jos\u00e9 Louis And The Paradox Of Love",
-        "url": "https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf"
-      },
-      "artists": [
-        {
-          "name": "Pierre Kwenders",
-          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
-        },
-        {
-          "name": "anaiis",
-          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
-        }
-      ],
-      "duration_ms": 184946,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1659,6 +1639,26 @@
       "duration_ms": 230998,
       "name": "Remotely Close: Silkyway",
       "url": "https://open.spotify.com/track/0BXH0C0UGvO1n9mY05inan"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Jos\u00e9 Louis And The Paradox Of Love",
+        "url": "https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf"
+      },
+      "artists": [
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        },
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        }
+      ],
+      "duration_ms": 184946,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1711,18 +1711,30 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Correspondances",
-        "url": "https://open.spotify.com/album/7bHqPAAsC9LBhk1HhMYG6z"
+        "name": "Sierra Madre (Remix)",
+        "url": "https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns"
       },
       "artists": [
         {
-          "name": "CHO CO PA CO CHO CO QUIN QUIN",
-          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+          "name": "Bial Hclap",
+          "url": "https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1"
+        },
+        {
+          "name": "H\u00e9ctor Guerra",
+          "url": "https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz"
+        },
+        {
+          "name": "Danger AK",
+          "url": "https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH"
+        },
+        {
+          "name": "Noe Gonzalez Molina",
+          "url": "https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg"
         }
       ],
-      "duration_ms": 198750,
-      "name": "\u30a2\u30c0\u30f3\u306e\u6d77\u8fba",
-      "url": "https://open.spotify.com/track/2Sw8R2PBZQ6qvtpsEMu9ND"
+      "duration_ms": 305866,
+      "name": "Sierra Madre (Remix)",
+      "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
     }
   ],
   "unique_name": "Folk Fabrique",

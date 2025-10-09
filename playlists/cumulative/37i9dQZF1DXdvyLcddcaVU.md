@@ -4,7 +4,7 @@
 
 > \#fyp
 
-898 songs - 1 day 22 hr 46 min
+900 songs - 1 day 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [COMPLEXE DU PAUVRE](https://open.spotify.com/track/7HgthycgwrNcexbTGzeoJW) | [Foulek](https://open.spotify.com/artist/0wweMOl4yXsiBEU9IK3zi1) | [COMPLEXE DU PAUVRE](https://open.spotify.com/album/6QnFRkknThoAitmRakTKqM) | 1:39 | 2024-09-13 | 2024-10-12 |
 | [Compliqué](https://open.spotify.com/track/1mxtJO0HloZgzutCB4j0gC) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [DREAMS II](https://open.spotify.com/album/5ei0sgRSVLxqkglc8aIcoi) | 3:04 | 2023-10-20 | 2024-01-09 |
 | [Comportement](https://open.spotify.com/track/2nOZaGwMYt07nXtIeYbEiu) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Journal intime](https://open.spotify.com/album/7h7MqzSJ1wEXpjHzkevE6h) | 2:52 | 2025-09-05 |  |
-| [Confidence](https://open.spotify.com/track/6ra0162M1vgBI3Ams3r2SK) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Premiers pas](https://open.spotify.com/album/4TdXHEGmIaPV2xvqTnf5z4) | 3:44 | 2025-06-30 |  |
+| [Confidence](https://open.spotify.com/track/6ra0162M1vgBI3Ams3r2SK) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Premiers pas](https://open.spotify.com/album/4TdXHEGmIaPV2xvqTnf5z4) | 3:44 | 2025-06-30 | 2025-10-09 |
 | [Confidences](https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Confidences](https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE) | 2:08 | 2024-06-14 | 2024-11-09 |
 | [Connectés](https://open.spotify.com/track/3ToDaiD5To8CkHN75sn9GQ) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Dégât](https://open.spotify.com/album/3fshOF9fI7Z5P1GSPKvcZ4) | 2:38 | 2025-09-05 |  |
 | [Corazón \(feat\. Lil Wayne & French Montana\)](https://open.spotify.com/track/24HcLPyLzzZ3fHGvdYISyt) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Corazón \(feat\. Lil Wayne & French Montana\)](https://open.spotify.com/album/6xxTkY4axvroYCLeERelkn) | 3:47 | 2025-02-14 | 2025-03-08 |
@@ -719,6 +719,7 @@
 | [Rose noire](https://open.spotify.com/track/70EV0Zz3Q0xcc3eEJl4kC5) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D) | [Fantôme](https://open.spotify.com/album/2l9Mji9qRvRY8JdX8MZMia) | 3:01 | 2024-07-12 | 2024-09-19 |
 | [Rouge et bleu](https://open.spotify.com/track/4PkQpqSjCxenpqJbFViK6b) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Kaos](https://open.spotify.com/album/1eFiIv1SqrUJHOFf54U27W) | 4:13 | 2024-08-08 | 2025-01-18 |
 | [Roule un autre \- A COLORS SHOW](https://open.spotify.com/track/7FKZix4pk2qf4SZVMOYich) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Roule un autre \(A COLORS SHOW\)](https://open.spotify.com/album/0ddT6KMNHM7qXZQww6yZWx) | 2:56 | 2023-10-13 | 2024-01-27 |
+| [ROXANNE](https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [ROXANNE](https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90) | 2:43 | 2025-10-08 |  |
 | [RUINART](https://open.spotify.com/track/0vZyOrmcNCzkz73HSEMfLk) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [RUINART](https://open.spotify.com/album/6DDz77QqTYGIWIj9g4fUN1) | 2:54 | 2025-06-25 |  |
 | [ruiné \(comme un dj\)](https://open.spotify.com/track/73QO4ZPYZOm2t3F1kTC62j) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [6TR9C9](https://open.spotify.com/album/0UE21vCQWLqiruKJmX4Ihg) | 2:07 | 2025-06-11 |  |
 | [Run Boy Run](https://open.spotify.com/track/5yrlYkRg9QBnMZsrTbHLV9) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [The Golden Age](https://open.spotify.com/album/4xnYue1MP5wspZzWyzEkmQ) | 3:33 | 2024-09-20 | 2024-12-14 |
@@ -777,7 +778,7 @@
 | [Soleil Bleu](https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH) | [Bleu Soleil](https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf), [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Soleil Bleu](https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA) | 4:06 | 2025-06-20 | 2025-09-13 |
 | [Solitaire](https://open.spotify.com/track/3F64F36D17vZ1KgI8vkHQf) | [Bosh](https://open.spotify.com/artist/6Mm2g25BTeJ6BICPFWGkPg) | [Synkinisi](https://open.spotify.com/album/70FpaoDALiemmQYyx3X1z7) | 2:37 | 2024-11-08 | 2025-03-22 |
 | [Somethin' Here \- Original Mix](https://open.spotify.com/track/6dQdvxqOiLemHzrEUXQ4zz) | [Terrence Parker](https://open.spotify.com/artist/4hXZQPceQIf654OSomVXOs) | [Tribute](https://open.spotify.com/album/7CSU7E3rayRXcS2DJExj79) | 5:11 | 2024-03-15 | 2024-06-01 |
-| [SONGI SONGI](https://open.spotify.com/track/2FaguN0RwC7KiTHiUuaO2y) | [SALIMA CHICA](https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw) | [SONGI SONGI](https://open.spotify.com/album/4ZGMdKfRPnQgQu5sXy6hXQ) | 2:48 | 2025-09-05 |  |
+| [SONGI SONGI](https://open.spotify.com/track/2FaguN0RwC7KiTHiUuaO2y) | [SALIMA CHICA](https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw) | [SONGI SONGI](https://open.spotify.com/album/4ZGMdKfRPnQgQu5sXy6hXQ) | 2:48 | 2025-09-05 | 2025-10-09 |
 | [Sonner](https://open.spotify.com/track/0OoMMMYlXD9kQIAeB8h7Ti) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF), [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [Sonner](https://open.spotify.com/album/0MPp8KxL9KpCYuXSFxF1s2) | 2:55 | 2023-06-28 | 2023-09-16 |
 | [Sosa](https://open.spotify.com/track/39s9RAR6L1BKtqmnyrH815) | [40000 Gang](https://open.spotify.com/artist/5fRri7qy8LZBoywvV7KwV1) | [Anarchie](https://open.spotify.com/album/2PCRePoUl99wC1gJWKuYDJ) | 4:31 | 2025-04-10 |  |
 | [Sourire](https://open.spotify.com/track/3DkF5PzztACcDGdLWVFiyJ) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S](https://open.spotify.com/album/2KvyDaE0buWzzR8S4gCSsz) | 5:07 | 2024-02-02 | 2025-05-30 |
@@ -840,6 +841,7 @@
 | [Tout Pour L'équipe](https://open.spotify.com/track/2A6XI4w9IasxpX9tVGgcHs) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Tout Pour L’Equipe](https://open.spotify.com/album/0Dj5KIGp4cHUCS5rsoX0hU) | 3:00 | 2025-04-25 |  |
 | [Tout va changer](https://open.spotify.com/track/337D2hB4ecicdFDbS2sBxx) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Tout va changer](https://open.spotify.com/album/0B5XZeetVZ0YFyFaYlJZ6N) | 2:22 | 2024-04-26 | 2024-05-25 |
 | [Tout y est](https://open.spotify.com/track/1W2zRAejDGNLqtqXpcrhVw) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [Jozii](https://open.spotify.com/artist/1nDtmYJmQcZEXU56pz5R9d) | [Tout y est](https://open.spotify.com/album/245xn3XplCs6PHCiBk3dBU) | 2:47 | 2024-07-25 | 2024-09-18 |
+| [Toute la nuit](https://open.spotify.com/track/4kzHds1mgNB0kuCLHeOGiV) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Anyme023](https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P) | [Toute la nuit](https://open.spotify.com/album/0GNUPfnVUIn0Pbm3KLB8NS) | 3:18 | 2025-10-08 |  |
 | [Trap Queen](https://open.spotify.com/track/0TzxcB6dK46vgXZT2P8qeR) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Fetty Wap](https://open.spotify.com/album/1wCr7zhB4lMa2vZVhu4ty6) | 3:42 | 2025-03-21 | 2025-06-21 |
 | [Trop parler](https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Trop parler](https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY) | 3:03 | 2023-08-25 | 2024-02-03 |
 | [Tropical](https://open.spotify.com/track/0CCCp8BZ0RR3CQWwRMJ3HZ) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/1WYGwCvsfFrr7kuQcfNnJr) | 2:40 | 2023-07-21 | 2023-10-11 |

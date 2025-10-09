@@ -1,12 +1,12 @@
 {
   "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
-  "num_followers": 1092723,
+  "num_followers": 1092788,
   "original_name": "This Is Foo Fighters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAAAFe5C2R5S/qSrDcr0p3Eup",
+  "snapshot_id": "aORYAAAAAACJbm3IyUKaMmjbwEGwOz52",
   "tracks": [
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 276213,
-      "name": "Next Year",
-      "url": "https://open.spotify.com/track/1WwWjG2FGbBK6IkBBTknao"
+      "duration_ms": 256440,
+      "name": "Stacked Actors",
+      "url": "https://open.spotify.com/track/1vziI0NCJKrqKiG94COHBa"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 256440,
-      "name": "Stacked Actors",
-      "url": "https://open.spotify.com/track/1vziI0NCJKrqKiG94COHBa"
+      "duration_ms": 276213,
+      "name": "Next Year",
+      "url": "https://open.spotify.com/track/1WwWjG2FGbBK6IkBBTknao"
     },
     {
       "added_at": null,

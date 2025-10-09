@@ -1,12 +1,12 @@
 {
   "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
-  "num_followers": 54772,
+  "num_followers": 54773,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAADrLrYlEEzsTrMyBNmiZq1x",
+  "snapshot_id": "aORYAAAAAAB1FUdDml9aPHgZn+3oIzWx",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quesera sera",
-        "url": "https://open.spotify.com/album/43su6eToqJrox4wuAoaJJd"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Quesera sera",
-      "url": "https://open.spotify.com/track/3pyU7up8u5Fnx9RF3BFhOa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ICHIJIKIKOKU",
         "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 179066,
       "name": "JANAINDAYO",
       "url": "https://open.spotify.com/track/2VkHraJTHR6Uk29LTJ2DoQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quesera sera",
+        "url": "https://open.spotify.com/album/43su6eToqJrox4wuAoaJJd"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Quesera sera",
+      "url": "https://open.spotify.com/track/3pyU7up8u5Fnx9RF3BFhOa"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KOIBUMI",
-        "url": "https://open.spotify.com/album/2zI6Rce9bvVZtXgazjhD6D"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 240285,
-      "name": "KOIBUMI",
-      "url": "https://open.spotify.com/track/1aT8DhQBZcLIMLTBaFIwi6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free Yourself feat. ATARASHII GAKKO!",
         "url": "https://open.spotify.com/album/0C7iWuQIhgo3PmxpjQXNbr"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 213500,
       "name": "Free Yourself feat. ATARASHII GAKKO!",
       "url": "https://open.spotify.com/track/1oholojJEuNCauGl8jcf3J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KOIBUMI",
+        "url": "https://open.spotify.com/album/2zI6Rce9bvVZtXgazjhD6D"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 240285,
+      "name": "KOIBUMI",
+      "url": "https://open.spotify.com/track/1aT8DhQBZcLIMLTBaFIwi6"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Edge",
-        "url": "https://open.spotify.com/album/6oDoxmNcFcGiO79PF5vwNx"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 163790,
-      "name": "The Edge",
-      "url": "https://open.spotify.com/track/0EAmmfAwFxNGnAKAd3red6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MANINGEN",
         "url": "https://open.spotify.com/album/0bI0wQeVFccV7pigdEJ1gR"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 171566,
       "name": "MANINGEN",
       "url": "https://open.spotify.com/track/7JwDRpLUuqVLeA5lEjnao6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Edge",
+        "url": "https://open.spotify.com/album/6oDoxmNcFcGiO79PF5vwNx"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 163790,
+      "name": "The Edge",
+      "url": "https://open.spotify.com/track/0EAmmfAwFxNGnAKAd3red6"
     },
     {
       "added_at": null,

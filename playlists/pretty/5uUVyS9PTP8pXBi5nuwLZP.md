@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 
 > Some favorites across multiple genres\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 521,050 likes - 71 songs - 3 hr 58 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 521,241 likes - 71 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 | 61 | [ラクリー](https://open.spotify.com/track/38ngpxn0hkRYz0EVLZrG3M) | [Mamoritai](https://open.spotify.com/artist/4ljT08evFpRRssPYN7yiKT) | [ラクリー](https://open.spotify.com/album/0pnuFwyE6frTd5uRAYDTEq) | 1:02 |
 | 62 | [Magnolia Forest](https://open.spotify.com/track/5zl5yGCEBd44RG8A31uXF4) | [Halina Heron](https://open.spotify.com/artist/2KInh2r0ggX4SmQBkFaw6d) | [A Mortician's Tale \(Original Soundtrack\)](https://open.spotify.com/album/4x03yK1mTGEgd9jRxkc1hy) | 1:52 |
 | 63 | [la bagarre](https://open.spotify.com/track/1EUx8JpgEzcYJya4JGSRjS) | [Löchil](https://open.spotify.com/artist/5sTgxXhl39fLzAvxrZLFNq) | [DISCO](https://open.spotify.com/album/35SabCT6Wp2jYC3BYXNjD2) | 2:16 |
-| 64 | [プラスチック パレード](https://open.spotify.com/track/2E2kH0h6BHW2ilWWnldVAh) | [ふわふわ風花](https://open.spotify.com/artist/5pQEdgmiz64v1d4JpBNEtS) | [荊棘少女](https://open.spotify.com/album/3fCS5pYQwc02CuEba09LSM) | 3:37 |
+| 64 | [プラスチックパレード](https://open.spotify.com/track/2E2kH0h6BHW2ilWWnldVAh) | [ふわふわ風花](https://open.spotify.com/artist/5pQEdgmiz64v1d4JpBNEtS) | [荊棘少女](https://open.spotify.com/album/3fCS5pYQwc02CuEba09LSM) | 3:37 |
 | 65 | [On Bouge Les Fesses](https://open.spotify.com/track/7FJhfPYCm5Dgrp9AePYk2n) | [Marc Beaudin](https://open.spotify.com/artist/4EEvaPshYNM3Nam1ZGnMq0) | [Prairies Funko Fone](https://open.spotify.com/album/0akUsKqAxuswJq76ZDwHts) | 3:57 |
 | 66 | [Ein Jäger aus Kurpfalz](https://open.spotify.com/track/035tvxsuUuZNVhWOhpWl98) | [Orchester der Kulturen](https://open.spotify.com/artist/0CvhrwlrMKR0jjVeJhtRah) | [Tour Südwest](https://open.spotify.com/album/56ei5pJAFpxGs8gA5c6mCA) | 3:11 |
 | 67 | [First Expedition to Hodenclev](https://open.spotify.com/track/4PPCSLcrZW2sFxnXGSrpHV) | [Hodenclev](https://open.spotify.com/artist/7qWN8I9whZqF748FKi9EMA) | [First Expedition to Hodenclev](https://open.spotify.com/album/5ZtVSkN2uAZ9iix2QFn6KN) | 2:43 |

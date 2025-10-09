@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1980s\. Cover: Madonna
 
-701 songs - 2 day 1 hr 49 min
+702 songs - 2 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Break My Stride](https://open.spotify.com/track/2ZqT3GcisHUBsEaqhLGHwU) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | ['80s Pop Hits](https://open.spotify.com/album/7xY34kpisIxOv8WMnNN8wg) | 3:00 | 2019-05-27 | 2020-06-09 |
 | [Break My Stride](https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | [I Don't Speak The Language](https://open.spotify.com/album/2coqGqbnSCAy740mClWesA) | 3:04 | 2020-12-22 |  |
 | [Breaking the Law](https://open.spotify.com/track/2RaA6kIcvomt77qlIgGhCT) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 2:33 | 2019-07-16 | 2019-08-04 |
-| [Broken Wings](https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm) | [Mr\. Mister](https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ) | [Welcome To The Real World](https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl) | 5:43 | 2019-06-26 |  |
+| [Broken Wings](https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm) | [Mr\. Mister](https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ) | [Welcome To The Real World](https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl) | 5:43 | 2019-06-26 | 2025-10-09 |
 | [Brother Louie](https://open.spotify.com/track/5zWZ9iNevP0397xB3jWV2z) | [Modern Talking](https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7) | [Ready For Romance](https://open.spotify.com/album/3g5K7IOTOSY6nIfu7lj562) | 3:42 | 2019-06-21 |  |
 | [Brothers In Arms](https://open.spotify.com/track/0CzeAbfKFnxnWjwo5iYiCG) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Brothers In Arms](https://open.spotify.com/album/15J400U0rEpgE64UQgtvLs) | 7:04 | 2019-06-21 | 2021-10-11 |
 | [Bruttosozialprodukt](https://open.spotify.com/track/5VQ8B15e6JHXk5Qi9h9inv) | [Geier Sturzflug](https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE) | [Heiße Zeiten](https://open.spotify.com/album/2UYXBZp9iVEu3QQJZG86pZ) | 3:01 | 2019-08-26 | 2019-08-27 |
@@ -191,10 +191,11 @@
 | [Eye of the Tiger](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:05 | 2019-06-22 |  |
 | [Eyes Without A Face \- Remastered](https://open.spotify.com/track/3HCah9Waf9Jby9gLIWN4MI) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Greatest Hits](https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA) | 4:57 | 2020-12-22 | 2021-07-27 |
 | [Faith \- Remastered](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 3:13 | 2019-05-26\* | 2020-06-12 |
-| [Faith \- Remastered](https://open.spotify.com/track/0nd1Vs5BIoIU4TJlzR8KVB) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/5E68z4OgQrR446xVOxZKs6) | 3:13 | 2020-06-29 |  |
+| [Faith \- Remastered](https://open.spotify.com/track/0nd1Vs5BIoIU4TJlzR8KVB) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/5E68z4OgQrR446xVOxZKs6) | 3:13 | 2020-06-29 | 2025-10-09 |
 | [Fame](https://open.spotify.com/track/7yBl8YmvcgwwYlazJcvowE) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [Fame: The Original Soundtrack from the Motion Picture](https://open.spotify.com/album/2nE5WmbSq3qbyDrOpSTlnq) | 5:16 | 2019-06-02 | 2022-07-29 |
 | [Fantasi](https://open.spotify.com/track/4zSSeTlH3sV6zq1Y94FYL5) | [Freestyle](https://open.spotify.com/artist/7fGejcqwbdfn47UP7NcdUt) | [Guldkorn Den Kompletta Samlingen](https://open.spotify.com/album/2trJEF3hUbTvOC0p3bysMU) | 2:47 | 2019-08-26 | 2019-08-27 |
 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 | 2019-05-30 |  |
+| [Father Figure \- Remastered](https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 5:36 | 2025-10-08 |  |
 | [Flashdance...What a Feeling \- Radio Edit](https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What a Feelin'](https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS) | 3:57 | 2019-05-26\* |  |
 | [Flickorna på TV2](https://open.spotify.com/track/0j9aigyo7QgCMitnZUuMnS) | [Gyllene Tider](https://open.spotify.com/artist/0FINyNBXqnTlRC4dvpSeSb) | [Gyllene Tider](https://open.spotify.com/album/7wI5tvSzZ3tOzpFROFHuxP) | 3:54 | 2019-08-26 | 2019-08-28 |
 | [Footloose \- From "Footloose" Soundtrack](https://open.spotify.com/track/4YR6Dextuoc3I8nJ0XgzKI) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [The Essential Kenny Loggins](https://open.spotify.com/album/68ZonGoyvksZu4sqqNXect) | 3:46 | 2019-08-27 | 2019-09-21 |
@@ -378,7 +379,7 @@
 | [Let's Hear It for the Boy \- From "Footloose" Original Soundtrack](https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Let's Hear It for the Boy \(Expanded Edition\)](https://open.spotify.com/album/5SQ28k8Esr8yY55ZKvgC5u) | 4:22 | 2020-06-25 | 2021-10-13 |
 | [Let's Stay Together \- 2015 Remaster](https://open.spotify.com/track/19DVNifOaTnuP0iq1kTqgW) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 5:16 | 2021-01-18 | 2023-06-23 |
 | [Like a Prayer](https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Prayer](https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV) | 5:40 | 2019-10-01 |  |
-| [Like a Virgin](https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 3:38 | 2019-05-26\* | 2025-08-08 |
+| [Like a Virgin](https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 3:38 | 2019-05-26\* |  |
 | [Listen To Your Heart](https://open.spotify.com/track/5JvsxPAHsGxwNq4xto2HtM) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(Extended Version\)](https://open.spotify.com/album/4rQV5S9FhajZdyzFfcyYw9) | 5:28 | 2020-04-26 | 2024-06-01 |
 | [Listen To Your Heart](https://open.spotify.com/track/78TnMTAFmWUWWCgNXR7D3K) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(2009 Version\)](https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9) | 5:28 | 2019-05-26\* | 2020-06-06 |
 | [Little Lies](https://open.spotify.com/track/5uw9UIOXj6R8pOwXte8F5h) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In The Night](https://open.spotify.com/album/1W5YP0TlKjFtb2UZJThLpV) | 3:38 | 2020-04-28 | 2020-06-25 |

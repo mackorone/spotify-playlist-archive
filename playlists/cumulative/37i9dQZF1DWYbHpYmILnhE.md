@@ -2,9 +2,9 @@
 
 ### [Naija Drill ](https://open.spotify.com/playlist/37i9dQZF1DWYbHpYmILnhE)
 
-> Drilling through Naij\. Cover: Wizard Chan
+> Drilling through Naij\. Cover: Ice Prince
 
-122 songs - 5 hr 29 min
+123 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Kalambolo](https://open.spotify.com/track/2vHOq5WHAxc4zxvV9lFzZT) | [EEZZ](https://open.spotify.com/artist/1Oq5k0FmnhtFz3cwLpmGea), [Geezyshore](https://open.spotify.com/artist/7yjMthvrGoCgkFKy69KNY9), [Moefasa](https://open.spotify.com/artist/6tQT0z3D3FhNlojteLj5Mj) | [Kalambolo](https://open.spotify.com/album/084eDI42ruF1KHeGdxmCls) | 3:25 | 2024-06-28 |  |
 | [Kalambolo \- Remix](https://open.spotify.com/track/2yne9y4tJOESXZJ4IHKTFr) | [EEZZ](https://open.spotify.com/artist/1Oq5k0FmnhtFz3cwLpmGea), [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK), [Moefasa](https://open.spotify.com/artist/6tQT0z3D3FhNlojteLj5Mj), [Geezyshore](https://open.spotify.com/artist/7yjMthvrGoCgkFKy69KNY9) | [Kalambolo \(Remix\)](https://open.spotify.com/album/62N4hfLDM2styn220eRTmB) | 3:15 | 2024-06-28 |  |
 | [Legacy](https://open.spotify.com/track/4zWE6JijStPqhELHKyvpyZ) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [The Messenger](https://open.spotify.com/album/0hvJW7VOP4196IMePNLzZi) | 2:55 | 2024-06-28 |  |
+| [Legacy \(feat\. Jesse Jagz, Ice Prince & Blaqbonez\)](https://open.spotify.com/track/41BBGVEiYGGvNgO3fjfegO) | [Chocolate City](https://open.spotify.com/artist/3Ub0Cq3b0cXfIUoWP7Swnv), [Jesse Jagz](https://open.spotify.com/artist/30N9JY1VoDikz8Czs2TKtT), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Legacy \(feat\. Jesse Jagz, Ice Prince & Blaqbonez\)](https://open.spotify.com/album/28pficBKrjRzddaQThdPo6) | 4:25 | 2025-10-08 |  |
 | [Lekki Epe](https://open.spotify.com/track/5VlSv8D8JRgfI520fkh546) | [MAXINO](https://open.spotify.com/artist/6LTAaKONuHKKWR8ljjIbCA), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [Drillionaire](https://open.spotify.com/album/0fShBKWgKfk9uA3Xcjm0bm) | 3:53 | 2024-06-28 |  |
 | [LET ME BE](https://open.spotify.com/track/3tL4lxj4zfhbJTCCVOT6Lr) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [MELÖVIA](https://open.spotify.com/album/43l2ygGjBGaT1sN7uZBJ74) | 2:29 | 2025-05-30 | 2025-06-28 |
 | [Let's Party](https://open.spotify.com/track/2EEsWQes5RpgM4aniEZgDt) | [Ashley CKS](https://open.spotify.com/artist/11OLVJLmhgoDnXFXSIqW3u), [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n) | [Let's Party](https://open.spotify.com/album/04xEkOzeh96Yblx4TDyi6f) | 2:29 | 2025-03-31 | 2025-05-09 |
@@ -81,7 +82,7 @@
 | [No Be Kai Kai](https://open.spotify.com/track/0yePA8wX5uWMny5RIvfvmf) | [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [No Be Kai Kai](https://open.spotify.com/album/3GHjIA8OiEVTY03U7zia1f) | 2:29 | 2025-09-26 |  |
 | [No Excuses](https://open.spotify.com/track/235MhpP1xfwHFFmJnfue2c) | [Chop Life Crew](https://open.spotify.com/artist/3nqzRwaPGt1NTRCddyBgbx), [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J), [EESKAY](https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG) | [No Excuses](https://open.spotify.com/album/3DtAkrbLRw3e9Kt0beJhWb) | 3:14 | 2025-08-01 |  |
 | [Normal Day](https://open.spotify.com/track/3RmdZ0LlVvTF0zI3aCSVcL) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan), [N6](https://open.spotify.com/artist/7FFQabcYovGITece3mUXZM), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Normal Day](https://open.spotify.com/album/1dlQtLIYsBaeHGi0djemHE) | 3:20 | 2024-06-28 | 2025-09-05 |
-| [NOT ALL THAT](https://open.spotify.com/track/2K0ULBaljOe2NCOqtuqyxB) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [NOT ALL THAT](https://open.spotify.com/album/69s31hDJvmYWwJx2TOIUHo) | 2:22 | 2024-07-26 |  |
+| [NOT ALL THAT](https://open.spotify.com/track/2K0ULBaljOe2NCOqtuqyxB) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [NOT ALL THAT](https://open.spotify.com/album/69s31hDJvmYWwJx2TOIUHo) | 2:22 | 2024-07-26 | 2025-10-09 |
 | [O Di Dan Dan \- The Remix](https://open.spotify.com/track/6Dc89QRm8WbjBKTs8RNl80) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [O Di Dan Dan \(The Remix\)](https://open.spotify.com/album/7BCI6sgVdCRMjCDMhfcHi2) | 2:40 | 2024-06-28 | 2024-07-19 |
 | [Obasanjo](https://open.spotify.com/track/4QrISoWw7WQh72IPqSRwV7) | [Yagaa](https://open.spotify.com/artist/0yhQ0VohiKINXDZQTyEwha) | [Obasanjo](https://open.spotify.com/album/1xOat3bVEqUTylh62soG6O) | 2:37 | 2024-06-28 |  |
 | [Offer](https://open.spotify.com/track/4ogJO1FCRzu1mbYJ5ykHzG) | [PDSTRN](https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [Offer](https://open.spotify.com/album/50F4J1EHs1IncMSPztq6yJ) | 2:04 | 2024-06-28 | 2025-04-01 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 288600,
+  "num_followers": 288621,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAACVZMaSyDZ/Z37Orvi/Drvw",
+  "snapshot_id": "aORYAAAAAAAQSfHnKlKe85NgnzWwt5Hm",
   "tracks": [
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 233066,
-      "name": "Always On The Run",
-      "url": "https://open.spotify.com/track/3xxBAMUVusDLjLFwwL9qoY"
+      "duration_ms": 260399,
+      "name": "Stand By My Woman",
+      "url": "https://open.spotify.com/track/2KT2tP853wbbERHxfSzmvd"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 260399,
-      "name": "Stand By My Woman",
-      "url": "https://open.spotify.com/track/2KT2tP853wbbERHxfSzmvd"
+      "duration_ms": 233066,
+      "name": "Always On The Run",
+      "url": "https://open.spotify.com/track/3xxBAMUVusDLjLFwwL9qoY"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Love Rule",
-        "url": "https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 342160,
-      "name": "Let Love Rule",
-      "url": "https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mama Said (Deluxe)",
         "url": "https://open.spotify.com/album/2in7TjOFOuw5upPjUGB2jh"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 289880,
       "name": "What Goes Around Comes Around - 2012 Remaster/Explicit",
       "url": "https://open.spotify.com/track/3pyjJrvYubl5klFaLTCLQg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Love Rule",
+        "url": "https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 342160,
+      "name": "Let Love Rule",
+      "url": "https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Are You Gonna Go My Way",
-        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
+        "name": "Strut",
+        "url": "https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 293466,
-      "name": "Eleutheria",
-      "url": "https://open.spotify.com/track/7datu36O7lY60kKBOan48U"
+      "duration_ms": 382722,
+      "name": "New York City",
+      "url": "https://open.spotify.com/track/7ucAUu2oTX2P0xvcIwVSUg"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strut",
-        "url": "https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH"
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 382722,
-      "name": "New York City",
-      "url": "https://open.spotify.com/track/7ucAUu2oTX2P0xvcIwVSUg"
+      "duration_ms": 293466,
+      "name": "Eleutheria",
+      "url": "https://open.spotify.com/track/7datu36O7lY60kKBOan48U"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
       "duration_ms": 214653,
       "name": "Minister Of Rock 'N Roll",
       "url": "https://open.spotify.com/track/0pafggX0BBzTFibjc9VeL7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Are You Gonna Go My Way",
-        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 238226,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/4TmBle7wip2pjeScZPJftc"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 238226,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/4TmBle7wip2pjeScZPJftc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Baptism",
         "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
       },
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mama Said",
-        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "More Than Anything In This World",
-      "url": "https://open.spotify.com/track/1UWyfK84h7uPHMEPf8qba2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Raise Vibration",
         "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 282400,
       "name": "Here to Love",
       "url": "https://open.spotify.com/track/78RDnXJ0KEIq0qs38pcHql"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mama Said",
+        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "More Than Anything In This World",
+      "url": "https://open.spotify.com/track/1UWyfK84h7uPHMEPf8qba2"
     }
   ],
   "unique_name": "This Is Lenny Kravitz",

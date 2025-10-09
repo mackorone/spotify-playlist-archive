@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Traffic Jam
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,444 likes - 99 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,446 likes - 99 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

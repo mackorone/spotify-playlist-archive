@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Listen to women at full volume. Cover: <a href=\"https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ?si=KTGzE8E0Sg-5XZ47hxMWaA\">Gyakie</a>",
+  "description": "Listen to women at full volume. Cover: <a href=\"https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU?si=w4_Qu_7-Q_i_HN0ALnkkLA\">Nissi</a>",
   "name": "EQUAL Africa",
   "tracks": [
     {
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 160111,
       "name": "BLISS",
       "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 199250,
       "name": "Die Mooi In Jou",
       "url": "https://open.spotify.com/track/551wpFlZhakx7qZfvHAAzK"
@@ -2112,6 +2112,28 @@
       "duration_ms": 390796,
       "name": "Dubai",
       "url": "https://open.spotify.com/track/6tx3PPYfrkpeJqQH2oSxhH"
+    },
+    {
+      "album": {
+        "name": "DYNAMITE",
+        "url": "https://open.spotify.com/album/0mk0S1Ytt2fDJYvc4AdzAQ"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177011,
+      "name": "DYNAMITE",
+      "url": "https://open.spotify.com/track/1myE3bHoWoSO5hyr3MxdHJ"
     },
     {
       "album": {
@@ -2748,7 +2770,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 153473,
       "name": "From Softie to You (Dey There)",
       "url": "https://open.spotify.com/track/0900x6zcJZ93gRi11xutc7"
@@ -3032,7 +3054,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 152258,
       "name": "Give Me Love",
       "url": "https://open.spotify.com/track/6cY0fjp5NovZyTKdaEivYW"
@@ -3192,6 +3214,24 @@
       "duration_ms": 163114,
       "name": "Goodbye (Warm Up)(feat. Asake)",
       "url": "https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB"
+    },
+    {
+      "album": {
+        "name": "Goodgirl",
+        "url": "https://open.spotify.com/album/0cfboUkpHeZwjcw8xvY0vK"
+      },
+      "artists": [
+        {
+          "name": "GoodGirl LA",
+          "url": "https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163437,
+      "name": "Goodgirl",
+      "url": "https://open.spotify.com/track/6adCGcQBhdqQbrb2b1aoGv"
     },
     {
       "album": {
@@ -3530,7 +3570,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 233786,
       "name": "Hold Ground",
       "url": "https://open.spotify.com/track/3nR5U4aZlni32tdZwWV7KB"
@@ -4204,7 +4244,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-03",
+      "date_removed": null,
       "duration_ms": 134181,
       "name": "Keep On Loving Me (Biko Biko)",
       "url": "https://open.spotify.com/track/6P6NBxeNQTQIu1ZGpoTwks"
@@ -4526,6 +4566,32 @@
       "duration_ms": 121544,
       "name": "Last Name",
       "url": "https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN"
+    },
+    {
+      "album": {
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/7D0S8MbTaJTTvCNjJyI1Tp"
+      },
+      "artists": [
+        {
+          "name": "Victoria Kimani",
+          "url": "https://open.spotify.com/artist/6HbeytIa6j2WCdPQzCrXpf"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "DJ Stavo",
+          "url": "https://open.spotify.com/artist/0fWdRyi14sgQWsFCNjXXng"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221843,
+      "name": "Legendary",
+      "url": "https://open.spotify.com/track/6L4cxH6yHe7jLB9Ux1ubOa"
     },
     {
       "album": {
@@ -5583,6 +5649,28 @@
     },
     {
       "album": {
+        "name": "Motivate (feat. Olamide)",
+        "url": "https://open.spotify.com/album/7qzGrUBqjkZHjDbdNYMSFv"
+      },
+      "artists": [
+        {
+          "name": "Nissi",
+          "url": "https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165436,
+      "name": "Motivate (feat. Olamide)",
+      "url": "https://open.spotify.com/track/6a0MFMtkaQKYUOnTQrwgBc"
+    },
+    {
+      "album": {
         "name": "Mr Hater",
         "url": "https://open.spotify.com/album/2Job0HLhFr4zxlQpvaDiFa"
       },
@@ -6356,7 +6444,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 157178,
       "name": "Odinare",
       "url": "https://open.spotify.com/track/1fIx09gSzzAjzXzo6C7xEL"
@@ -8968,6 +9056,24 @@
       "duration_ms": 138666,
       "name": "There's Too Much Of You",
       "url": "https://open.spotify.com/track/7ox53QO10ykeeAkrFvmn3f"
+    },
+    {
+      "album": {
+        "name": "roses are red, tears are blue \u2014 A Fountain Baby Extended Play",
+        "url": "https://open.spotify.com/album/5PG3V76DdkOmlZT7RyrvPU"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184805,
+      "name": "this!",
+      "url": "https://open.spotify.com/track/2Cerrfi8MbeJLW07itVbr4"
     },
     {
       "album": {

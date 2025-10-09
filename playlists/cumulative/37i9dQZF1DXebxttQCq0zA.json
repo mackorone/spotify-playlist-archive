@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 179394,
       "name": "A World At Rest",
       "url": "https://open.spotify.com/track/4XJGAjvpgN5K84TsrUoTHp"
@@ -1003,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "Be Still",
+        "url": "https://open.spotify.com/album/4DVv9OCalbUnMkWVMW0e6n"
+      },
+      "artists": [
+        {
+          "name": "Divine Vibration",
+          "url": "https://open.spotify.com/artist/0A4kwgSztRzeUGBrY8jR9c"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Be Still",
+      "url": "https://open.spotify.com/track/1Qkut9xZwDmNUmMJTfOHqT"
+    },
+    {
+      "album": {
         "name": "Majestic",
         "url": "https://open.spotify.com/album/09uh7HyYeJdAGy2ybhGvUS"
       },
@@ -1032,7 +1050,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 157173,
       "name": "Before Or Since",
       "url": "https://open.spotify.com/track/0QcTgc9A9IM5WceuBvZZNm"
@@ -1612,7 +1630,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 212417,
       "name": "Chaos Theory",
       "url": "https://open.spotify.com/track/5I4PQWL8uKqDgn5qGlXhqX"
@@ -2746,7 +2764,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 177750,
       "name": "Emerald",
       "url": "https://open.spotify.com/track/1uELly3bPSBbF7H23NyWuS"
@@ -3632,6 +3650,24 @@
       "duration_ms": 178750,
       "name": "Gentle",
       "url": "https://open.spotify.com/track/19PlKAonAMJI24h468rBFp"
+    },
+    {
+      "album": {
+        "name": "Gentle",
+        "url": "https://open.spotify.com/album/1jGrRx5ypq33Q19egLXsU9"
+      },
+      "artists": [
+        {
+          "name": "Waves of Life",
+          "url": "https://open.spotify.com/artist/26zGB9qZrnUkREvqTaddnd"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176086,
+      "name": "Gentle",
+      "url": "https://open.spotify.com/track/6d2vv0fWpQvXSLnjMo2GFZ"
     },
     {
       "album": {
@@ -6191,6 +6227,24 @@
     },
     {
       "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/3Dsoto9MjRsLcMccrslwLR"
+      },
+      "artists": [
+        {
+          "name": "Oblivion",
+          "url": "https://open.spotify.com/artist/5bay23a7lnykOEQWt7FVnQ"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146033,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/5txXnz3ogokxbfkmi6Xkaf"
+    },
+    {
+      "album": {
         "name": "Prana",
         "url": "https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR"
       },
@@ -7124,6 +7178,24 @@
       "duration_ms": 170000,
       "name": "Quietude",
       "url": "https://open.spotify.com/track/4iefI73u9sh2kf8BPVchW8"
+    },
+    {
+      "album": {
+        "name": "Radiance",
+        "url": "https://open.spotify.com/album/4krtrnBaND2fP7NOW31mDC"
+      },
+      "artists": [
+        {
+          "name": "Maddox JR",
+          "url": "https://open.spotify.com/artist/4IOVtDNRfRnXC3xvPHWTyr"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160850,
+      "name": "Radiance",
+      "url": "https://open.spotify.com/track/6vNNuy9CBlb5Q8fySAdV6b"
     },
     {
       "album": {

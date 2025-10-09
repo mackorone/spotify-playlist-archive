@@ -625,6 +625,24 @@
     },
     {
       "album": {
+        "name": "Aoede",
+        "url": "https://open.spotify.com/album/1F5nbQ1uDULDbobeuRKxOZ"
+      },
+      "artists": [
+        {
+          "name": "Sono Aetheris",
+          "url": "https://open.spotify.com/artist/5JTc4ZlpWj0vKnQImAENJT"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "Aoede",
+      "url": "https://open.spotify.com/track/5hJiGLklnMcQfBtjy3y2g6"
+    },
+    {
+      "album": {
         "name": "Appreciation",
         "url": "https://open.spotify.com/album/1YZf74mUBjZqIhNEeymUw9"
       },
@@ -1472,6 +1490,24 @@
       "duration_ms": 200379,
       "name": "Calibration of Time",
       "url": "https://open.spotify.com/track/4942rhM8v2rn45GZwNdV1K"
+    },
+    {
+      "album": {
+        "name": "Caligo",
+        "url": "https://open.spotify.com/album/56qL3ld5fmLf7MVJdiOwiL"
+      },
+      "artists": [
+        {
+          "name": "Alsephina",
+          "url": "https://open.spotify.com/artist/2EFJqbmRZS645xeescnjp6"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165807,
+      "name": "Caligo",
+      "url": "https://open.spotify.com/track/0M4o2R0n0t8hbKnnOYvB3T"
     },
     {
       "album": {
@@ -2919,6 +2955,24 @@
     },
     {
       "album": {
+        "name": "Drift Into Dusk",
+        "url": "https://open.spotify.com/album/7pHxOavqv4b5quzF8KWN26"
+      },
+      "artists": [
+        {
+          "name": "isp\u00edritu",
+          "url": "https://open.spotify.com/artist/0OVGamiaCriHwLRXWiorJA"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168205,
+      "name": "Drift Into Dusk",
+      "url": "https://open.spotify.com/track/60cFYtLacfwY2UMI3PAMvc"
+    },
+    {
+      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/4Cgmpzw5Mer88GK32wXKlj"
       },
@@ -3798,6 +3852,24 @@
       "duration_ms": 154000,
       "name": "Euphorbia",
       "url": "https://open.spotify.com/track/0PMeXNfujLqdkJf0faJKxK"
+    },
+    {
+      "album": {
+        "name": "Evening",
+        "url": "https://open.spotify.com/album/3mjf03f1ytEnMoB4vtD8vV"
+      },
+      "artists": [
+        {
+          "name": "Stellar Serenity",
+          "url": "https://open.spotify.com/artist/0cNkXhcvWBfK1vKVAUC7Ye"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148065,
+      "name": "Evening",
+      "url": "https://open.spotify.com/track/3aKdoq9b6rXNdED4oTUROo"
     },
     {
       "album": {
@@ -5216,7 +5288,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 164508,
       "name": "Illume",
       "url": "https://open.spotify.com/track/2oL8gjS6EIbhtlWAC2nDDr"
@@ -6224,7 +6296,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 188571,
       "name": "Lightness",
       "url": "https://open.spotify.com/track/16Cu5Xj80oiHuA5ELaenKY"
@@ -6512,7 +6584,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 182142,
       "name": "Luminare",
       "url": "https://open.spotify.com/track/2xwW9hYQfIvtYaHgHi1K7T"
@@ -6656,7 +6728,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 206769,
       "name": "Lunar Serenade",
       "url": "https://open.spotify.com/track/6g6fs1pqlaxw2nEY24ugNx"
@@ -6836,7 +6908,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 214000,
       "name": "Massive Star",
       "url": "https://open.spotify.com/track/6vGv1sWN9fjEycbX2LUEAh"
@@ -6963,7 +7035,7 @@
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 160623,
+      "duration_ms": 160624,
       "name": "Melodia Lunae",
       "url": "https://open.spotify.com/track/5SpdUdqThVDb3RcRoHiB3r"
     },
@@ -7308,6 +7380,24 @@
       "duration_ms": 164866,
       "name": "Mono",
       "url": "https://open.spotify.com/track/4PoV6h7nScqlYcK1TBcSuA"
+    },
+    {
+      "album": {
+        "name": "Moonlit",
+        "url": "https://open.spotify.com/album/2HcKrsJcNe1yGPzLYi12Df"
+      },
+      "artists": [
+        {
+          "name": "Luune",
+          "url": "https://open.spotify.com/artist/7CPclBDt5moKFAwjPTvLRM"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163157,
+      "name": "Moonlit",
+      "url": "https://open.spotify.com/track/5yZbWuXbM1Z2N6Ig8v1w6m"
     },
     {
       "album": {
@@ -8665,6 +8755,24 @@
     },
     {
       "album": {
+        "name": "Persephone",
+        "url": "https://open.spotify.com/album/4wqDtffXgDB9JkeHD4YQ3Y"
+      },
+      "artists": [
+        {
+          "name": "Angelic Planet",
+          "url": "https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Persephone",
+      "url": "https://open.spotify.com/track/3YP1hbGA44pNu1h1jc7vCQ"
+    },
+    {
+      "album": {
         "name": "Phaedra",
         "url": "https://open.spotify.com/album/2N8X9XdiZrkxLRX7snQcpp"
       },
@@ -8892,7 +9000,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 191999,
       "name": "Portabella",
       "url": "https://open.spotify.com/track/4kJwyqg9KpXjLy904X9eVo"
@@ -10753,6 +10861,24 @@
     },
     {
       "album": {
+        "name": "Solace Flow",
+        "url": "https://open.spotify.com/album/2f6e76ykiOfYB1l8HRg1Lx"
+      },
+      "artists": [
+        {
+          "name": "Marble Sky",
+          "url": "https://open.spotify.com/artist/2awMBCWxb7gBGkxyC4QTRI"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165283,
+      "name": "Solace Flow",
+      "url": "https://open.spotify.com/track/7AcUCmtDNAto1wWcB0KxeV"
+    },
+    {
+      "album": {
         "name": "Solice",
         "url": "https://open.spotify.com/album/47J1aciEbGiCmSkGCuwOvL"
       },
@@ -12071,6 +12197,24 @@
     },
     {
       "album": {
+        "name": "Twilight Veil",
+        "url": "https://open.spotify.com/album/6aZKDe1iDiO5WBkYDydVrm"
+      },
+      "artists": [
+        {
+          "name": "Foreglow",
+          "url": "https://open.spotify.com/artist/2fxdHlNjFfdYlMltby9IpJ"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159056,
+      "name": "Twilight Veil",
+      "url": "https://open.spotify.com/track/7c1HozwaTShlyYdpXdpsWc"
+    },
+    {
+      "album": {
         "name": "Ambient Hits",
         "url": "https://open.spotify.com/album/6BVBcOJXOcrihLn9YSmEWQ"
       },
@@ -12320,6 +12464,24 @@
       "duration_ms": 184250,
       "name": "Ut Ameris, Amabilis Esto",
       "url": "https://open.spotify.com/track/63c4hUw16NhQGrTyaoyj0M"
+    },
+    {
+      "album": {
+        "name": "Valerian",
+        "url": "https://open.spotify.com/album/0JbFEIwJY2Jndh3U2tEWJf"
+      },
+      "artists": [
+        {
+          "name": "Elunara Mare",
+          "url": "https://open.spotify.com/artist/52VdaCQAM3PCg8pQjPUaEV"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Valerian",
+      "url": "https://open.spotify.com/track/5PBzjazmFvtTg8Ik852i4l"
     },
     {
       "album": {
@@ -13040,7 +13202,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 192000,
       "name": "Wishful",
       "url": "https://open.spotify.com/track/1Uo8DN8pMJ5BaVN0bSdjjW"

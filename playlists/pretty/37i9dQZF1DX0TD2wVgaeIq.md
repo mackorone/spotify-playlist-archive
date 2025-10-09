@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TD2wVgaeIq.md) - [plain]
 
 > Beautiful bansuri flute and sitar from India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,083 likes - 87 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,164 likes - 87 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

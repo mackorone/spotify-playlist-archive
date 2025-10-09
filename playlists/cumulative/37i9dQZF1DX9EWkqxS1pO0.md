@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: üçkuruş
 
-314 songs - 15 hr 48 min
+315 songs - 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Aha Şenlik](https://open.spotify.com/track/70ZqACAiAhJLFVbMbwbPoG) | [İbrahim Sarıpınar](https://open.spotify.com/artist/36XOzpht2ZU5nXC77HodnG) | [Aha Şenlik](https://open.spotify.com/album/5h1OVgSzUAXS9QsxawAwo7) | 2:38 | 2025-08-14 |  |
 | [Ahtapot](https://open.spotify.com/track/3FEZHnpPG4jd6Se6QDa2tf) | [KOZ](https://open.spotify.com/artist/78ByOUFZHXBcuZSe8KkTqO) | [İstanbul \(Extended\)](https://open.spotify.com/album/09MzKD18zzrluvyrrF68Ao) | 3:16 | 2025-07-24 | 2025-09-12 |
 | [Aklın Neredeydi](https://open.spotify.com/track/09OUV9HGBXvWwbsvKfWvDO) | [Neva](https://open.spotify.com/artist/5Mc80B08U84VTd98nZcvuD) | [Aklın Neredeydi](https://open.spotify.com/album/4qth5OmI91na8kin4CbjJ7) | 2:29 | 2025-09-04 | 2025-09-13 |
+| [Akşama Kaldım](https://open.spotify.com/track/2wk3wspfJCBIQ7ggh2jTEH) | [Çetin Dilsiz](https://open.spotify.com/artist/3xVNtr8NgvJI6VmJ2DoYUs) | [Akşama Kaldım](https://open.spotify.com/album/4kpGoHsiKri3IehBFidw3n) | 3:31 | 2025-09-25 |  |
 | [Alaaddin](https://open.spotify.com/track/7CMBLeVj36I0yHVsGCDzAB) | [Tuana Tetik](https://open.spotify.com/artist/4hVkWQ0iAHxtfV6TSARSxR) | [Alaaddin](https://open.spotify.com/album/18bzdTfekL5mXeYrTeHB8n) | 2:46 | 2024-10-24 | 2024-11-13 |
 | [Alabora](https://open.spotify.com/track/5dGPB6fmNgdLsFiOl0Ho0s) | [Kaan Malkoç](https://open.spotify.com/artist/7aDwkYjLH6yvueCOmZNYtZ) | [Alabora](https://open.spotify.com/album/6u6aFjaF9pRnzYDm5SUdVy) | 2:09 | 2025-07-07 | 2025-09-19 |
 | [Alışamadım Yokluğuna](https://open.spotify.com/track/6L0xiIMpwxbUZRMTrYZ0ji) | [Mertkan Özkan](https://open.spotify.com/artist/6PY0jfDNXGvg6uqSSJ0sZh) | [Alışamadım Yokluğuna](https://open.spotify.com/album/0ttwaSqJ4v4qVDUsHkyeQX) | 3:19 | 2025-09-25 |  |
@@ -257,7 +258,7 @@
 | [Yalan](https://open.spotify.com/track/4V98Bxo13Dp12xfCsLDtkv) | [Cem Pilevneli](https://open.spotify.com/artist/5cysAsZNRZfLtjqhGEqXtB) | [Yalan](https://open.spotify.com/album/0HZmpprqBiHXUtBJO56N4K) | 3:12 | 2025-02-27 | 2025-03-14 |
 | [Yalan](https://open.spotify.com/track/4BUu9SqeIo7rpRuGbY8zVT) | [Dilay Mariah](https://open.spotify.com/artist/3mQ3ABoxvJI3XIRflVOsQh) | [Yalan](https://open.spotify.com/album/2X37Q8GEOJVhDxoeWtm75n) | 2:40 | 2025-02-13 | 2025-04-05 |
 | [Yalan](https://open.spotify.com/track/1TUfJJ1DHAX7pGeN9AkStH) | [Ege Günay](https://open.spotify.com/artist/3Iu3twNBCnmotuV1amDCPE) | [Yalan](https://open.spotify.com/album/0gaj0lvIq8iuTC4QeDcjvA) | 3:10 | 2024-10-10 | 2024-11-29 |
-| [Yalnızlık Günah Değil](https://open.spotify.com/track/5K4AEDD3f31SY7rTpDYCig) | [Evden Uzak](https://open.spotify.com/artist/0vRq3n88TpLFrreBF9GmIh) | [Yalnızlık Günah Değil](https://open.spotify.com/album/7CKY3CkKuOgNqzwd0QidPc) | 3:11 | 2025-09-18 |  |
+| [Yalnızlık Günah Değil](https://open.spotify.com/track/5K4AEDD3f31SY7rTpDYCig) | [Evden Uzak](https://open.spotify.com/artist/0vRq3n88TpLFrreBF9GmIh) | [Yalnızlık Günah Değil](https://open.spotify.com/album/7CKY3CkKuOgNqzwd0QidPc) | 3:11 | 2025-09-18 | 2025-10-09 |
 | [Yalnızlıklar](https://open.spotify.com/track/3UiFJQiXHdiX5l9SpSPQZF) | [Keskin Band](https://open.spotify.com/artist/6KPsAUprTWqiFxb2YEQ0S7) | [Yalnızlıklar](https://open.spotify.com/album/4RsRvDcHuPG3Ilzk0wdQQc) | 2:21 | 2024-09-05 | 2025-01-17 |
 | [YAN](https://open.spotify.com/track/6jGfDlrVGyuiW0JRGZ7gDK) | [Kenan](https://open.spotify.com/artist/720jWnlmqf0o6UgIAaWArU) | [YAN](https://open.spotify.com/album/32uJayR4mYnwptwWu3vl5w) | 2:32 | 2024-08-22 | 2024-09-28 |
 | [Yan Yana](https://open.spotify.com/track/7h3p0YJfrL2KwuwFkaOSXh) | [Yalnayak](https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu) | [Yan Yana](https://open.spotify.com/album/5uhcpHsITv9nnLPwtoP4Fi) | 3:36 | 2024-06-20 | 2025-05-16 |

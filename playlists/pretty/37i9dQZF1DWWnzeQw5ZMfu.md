@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,868 likes - 46 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,867 likes - 46 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 10 | [NEW DANCE \- XG 1st WORLD TOUR “The first HOWL” Live](https://open.spotify.com/track/658hylEdnhXnGmkn8UlmGP) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [XG 1st WORLD TOUR “The first HOWL” Live](https://open.spotify.com/album/7wc6dDr4ZLv0qA2geapqTY) | 3:53 |
 | 11 | [Thinking out Loud \- Live](https://open.spotify.com/track/341taDjwWRCScNcntpP6M2) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+\-=÷× \(Tour Collection: Live\)](https://open.spotify.com/album/5ZewPP4nTMtJTn4krePB2d) | 5:20 |
 | 12 | [Escapism\. \- Live at the Royal Albert Hall](https://open.spotify.com/track/3nb5nlbw4uM5posrOgKm6j) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [The Heritage Orchestra](https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx) | [My 21st Century Symphony\. \(Live at the Royal Albert Hall\)](https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP) | 7:02 |
-| 13 | [Better the Devil You Know \- Live From The Tension Tour](https://open.spotify.com/track/3ZLZQPQDYL3vfyfN1kpElz) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension Tour//Live 2025](https://open.spotify.com/album/3Nljg7n2ND48Ih240W5uOe) | 3:36 |
+| 13 | [Better The Devil You Know \- Live From The Tension Tour](https://open.spotify.com/track/3ZLZQPQDYL3vfyfN1kpElz) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension Tour//Live 2025](https://open.spotify.com/album/3Nljg7n2ND48Ih240W5uOe) | 3:36 |
 | 14 | [The Way \- Live from London \(feat\. Mac Miller\)](https://open.spotify.com/track/4VUp83ibStl36qC7UOxGkF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Yours Truly \(Tenth Anniversary Edition\)](https://open.spotify.com/album/2VSBGJ8bUuNgmOYXHIQagM) | 3:33 |
 | 15 | [Youngblood \- Live from The Royal Albert Hall](https://open.spotify.com/track/64IHMtwaJFXLpTPzRJPM30) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [The Feeling of Falling Upwards \(Live from The Royal Albert Hall\)](https://open.spotify.com/album/7u1CQclaB8RUyOfn4gTPlY) | 3:55 |
 | 16 | [MAYBE\. \(Live from The Mews\)](https://open.spotify.com/track/2bBI7ueQ283hFipaREeXKM) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [MAYBE\. \(Live from The Mews\)](https://open.spotify.com/album/3Ki1UjZ39pE7SzER7LBj5u) | 3:59 |

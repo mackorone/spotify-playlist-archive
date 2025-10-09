@@ -1,6 +1,6 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 181276,
+  "num_followers": 181313,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2025-07-21 07:58:21",
       "album": {
+        "name": "\u00c0 bout de souffle",
+        "url": "https://open.spotify.com/album/59MGoeCLOjKK5UHZUAUZst"
+      },
+      "artists": [
+        {
+          "name": "Martial Solal",
+          "url": "https://open.spotify.com/artist/1gjen19mqMk6nP6TFOh7g2"
+        }
+      ],
+      "duration_ms": 89440,
+      "name": "New York Herald Tribune - Bande originale du film \"\u00c0 bout de souffle\"",
+      "url": "https://open.spotify.com/track/7gHoL8S4Pk0pLkaTcRGAws"
+    },
+    {
+      "added_at": "2025-07-21 07:58:21",
+      "album": {
         "name": "Songs and Story: The Jungle Book",
         "url": "https://open.spotify.com/album/1wvT0KYQZsVL4LNJ7u55QY"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 278346,
       "name": "I Wan'na Be Like You (The Monkey Song) - From \"The Jungle Book\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/6FJmVOcQPaRYGiJQRIpWAL"
-    },
-    {
-      "added_at": "2025-07-21 07:58:21",
-      "album": {
-        "name": "\u00c0 bout de souffle",
-        "url": "https://open.spotify.com/album/59MGoeCLOjKK5UHZUAUZst"
-      },
-      "artists": [
-        {
-          "name": "Martial Solal",
-          "url": "https://open.spotify.com/artist/1gjen19mqMk6nP6TFOh7g2"
-        }
-      ],
-      "duration_ms": 89440,
-      "name": "New York Herald Tribune - Bande originale du film \"\u00c0 bout de souffle\"",
-      "url": "https://open.spotify.com/track/7gHoL8S4Pk0pLkaTcRGAws"
     },
     {
       "added_at": "2025-07-21 07:58:21",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-07-21 07:58:21",
       "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 145562,
-      "name": "Nuit sur les Champs-\u00c9lys\u00e9es - Take 1 - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/0NsRSkszdbzublEEh3cSYH"
-    },
-    {
-      "added_at": "2025-07-21 07:58:21",
-      "album": {
         "name": "When Harry Met Sally... Music From The Motion Picture",
         "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 230493,
       "name": "Where or When",
       "url": "https://open.spotify.com/track/1rHik9ppPQRXSSu1oUr4bR"
+    },
+    {
+      "added_at": "2025-07-21 07:58:21",
+      "album": {
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 145562,
+      "name": "Nuit sur les Champs-\u00c9lys\u00e9es - Take 1 - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/0NsRSkszdbzublEEh3cSYH"
     },
     {
       "added_at": "2025-07-21 07:58:21",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-07-21 07:58:21",
       "album": {
-        "name": "The Big Kahuna (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0a9i86wh0eV8cj0IlfW4hf"
-      },
-      "artists": [
-        {
-          "name": "Si Zentner",
-          "url": "https://open.spotify.com/artist/4ktfAENbpoxfR7STEtKBM6"
-        }
-      ],
-      "duration_ms": 158533,
-      "name": "Charade",
-      "url": "https://open.spotify.com/track/5Jl8bMn0bt7rG1ugDZUvqA"
-    },
-    {
-      "added_at": "2025-07-21 07:58:21",
-      "album": {
         "name": "Soul (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 120306,
       "name": "Born to Play",
       "url": "https://open.spotify.com/track/4BmuAIPAsCiS2NhqT0gSfL"
+    },
+    {
+      "added_at": "2025-07-21 07:58:21",
+      "album": {
+        "name": "The Big Kahuna (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0a9i86wh0eV8cj0IlfW4hf"
+      },
+      "artists": [
+        {
+          "name": "Si Zentner",
+          "url": "https://open.spotify.com/artist/4ktfAENbpoxfR7STEtKBM6"
+        }
+      ],
+      "duration_ms": 158533,
+      "name": "Charade",
+      "url": "https://open.spotify.com/track/5Jl8bMn0bt7rG1ugDZUvqA"
     },
     {
       "added_at": "2025-07-21 07:58:21",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-07-21 07:58:21",
       "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 111266,
+      "name": "Bigger Than Us",
+      "url": "https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k"
+    },
+    {
+      "added_at": "2025-07-21 07:58:21",
+      "album": {
         "name": "Daily Battles (From Motherless Brooklyn: Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6EqM2rlOCixg83ma0o4uDB"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 204064,
       "name": "Daily Battles (feat. Joe Farnsworth, Russell Hall, Isaiah J. Thompson & Jerry Weldon) - Jazz Arrangement",
       "url": "https://open.spotify.com/track/6c9Z0OpPG69o6ULaiYpMu2"
-    },
-    {
-      "added_at": "2025-07-21 07:58:21",
-      "album": {
-        "name": "Soul (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 111266,
-      "name": "Bigger Than Us",
-      "url": "https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k"
     },
     {
       "added_at": "2025-07-21 07:58:21",
@@ -995,6 +995,22 @@
     {
       "added_at": "2025-07-21 07:58:21",
       "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 36653,
+      "name": "Joe's Lowdown Blues",
+      "url": "https://open.spotify.com/track/71QuFppTDk7XL9q6yuJa8V"
+    },
+    {
+      "added_at": "2025-07-21 07:58:21",
+      "album": {
         "name": "Jazz in Film",
         "url": "https://open.spotify.com/album/3Ki6oezrFANfgKHfaG6AJs"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 503066,
       "name": "Love Theme (From \"Chinatown\")",
       "url": "https://open.spotify.com/track/66tYxA2RBooo0Y6kBj7W7F"
-    },
-    {
-      "added_at": "2025-07-21 07:58:21",
-      "album": {
-        "name": "Soul (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 36653,
-      "name": "Joe's Lowdown Blues",
-      "url": "https://open.spotify.com/track/71QuFppTDk7XL9q6yuJa8V"
     },
     {
       "added_at": "2025-07-21 07:58:21",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2025-07-21 07:58:21",
       "album": {
+        "name": "Peanuts Greatest Hits (Music From The TV Specials)",
+        "url": "https://open.spotify.com/album/4o51Lr7wqWzIsR7wbgjN6U"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Linus And Lucy",
+      "url": "https://open.spotify.com/track/1CFDAKbWftUywLu6YjI9Kv"
+    },
+    {
+      "added_at": "2025-07-21 07:58:21",
+      "album": {
         "name": "Bossa Nova (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2SJvJ5VhlstKHuNhhizy3B"
       },
@@ -1115,18 +1131,26 @@
     {
       "added_at": "2025-07-21 07:58:21",
       "album": {
-        "name": "Peanuts Greatest Hits (Music From The TV Specials)",
-        "url": "https://open.spotify.com/album/4o51Lr7wqWzIsR7wbgjN6U"
+        "name": "Moonstruck (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4KbmToWReLF9I4mdY2SPYN"
       },
       "artists": [
         {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+          "name": "Harry Warren",
+          "url": "https://open.spotify.com/artist/6vOhSMuCQ8BXVkLJOamR8Z"
+        },
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        },
+        {
+          "name": "Dick Stabile And His Orchestra",
+          "url": "https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO"
         }
       ],
-      "duration_ms": 186133,
-      "name": "Linus And Lucy",
-      "url": "https://open.spotify.com/track/1CFDAKbWftUywLu6YjI9Kv"
+      "duration_ms": 186080,
+      "name": "That's Amore",
+      "url": "https://open.spotify.com/track/4oAUu2DDEAgDIWdoelMx5I"
     },
     {
       "added_at": "2025-07-21 07:58:21",
@@ -1163,30 +1187,6 @@
       "duration_ms": 175866,
       "name": "Mine",
       "url": "https://open.spotify.com/track/1V43BO81I2LLHjy25en933"
-    },
-    {
-      "added_at": "2025-07-21 07:58:21",
-      "album": {
-        "name": "Moonstruck (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4KbmToWReLF9I4mdY2SPYN"
-      },
-      "artists": [
-        {
-          "name": "Harry Warren",
-          "url": "https://open.spotify.com/artist/6vOhSMuCQ8BXVkLJOamR8Z"
-        },
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        },
-        {
-          "name": "Dick Stabile And His Orchestra",
-          "url": "https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO"
-        }
-      ],
-      "duration_ms": 186080,
-      "name": "That's Amore",
-      "url": "https://open.spotify.com/track/4oAUu2DDEAgDIWdoelMx5I"
     },
     {
       "added_at": "2025-07-21 07:58:21",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-07-21 07:58:21",
       "album": {
-        "name": "The Best Of Matt Monro",
-        "url": "https://open.spotify.com/album/41IR9ViLL2GlvI3uzfXo5F"
-      },
-      "artists": [
-        {
-          "name": "Matt Monro",
-          "url": "https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl"
-        }
-      ],
-      "duration_ms": 155840,
-      "name": "From Russia with Love - Single Version",
-      "url": "https://open.spotify.com/track/0WBIlfElfs2GCpE4kxEZDt"
-    },
-    {
-      "added_at": "2025-07-21 07:58:21",
-      "album": {
         "name": "La Dolce Vita (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3P5PfBUzns5mWcz25C6OkB"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 344226,
       "name": "Blues / La Dolce Vita Dei Nobili",
       "url": "https://open.spotify.com/track/4dAgq2HqkS12HnPvudkDPW"
+    },
+    {
+      "added_at": "2025-07-21 07:58:21",
+      "album": {
+        "name": "The Best Of Matt Monro",
+        "url": "https://open.spotify.com/album/41IR9ViLL2GlvI3uzfXo5F"
+      },
+      "artists": [
+        {
+          "name": "Matt Monro",
+          "url": "https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl"
+        }
+      ],
+      "duration_ms": 155840,
+      "name": "From Russia with Love - Single Version",
+      "url": "https://open.spotify.com/track/0WBIlfElfs2GCpE4kxEZDt"
     },
     {
       "added_at": "2025-07-21 07:58:21",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2025-07-21 07:58:21",
       "album": {
+        "name": "Babylon (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0jCuKxy96iDfx9JtXKRyXe"
+      },
+      "artists": [
+        {
+          "name": "Justin Hurwitz",
+          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
+        }
+      ],
+      "duration_ms": 130600,
+      "name": "Damascus Thump",
+      "url": "https://open.spotify.com/track/5twNVE0ofszyWolOWwjRSN"
+    },
+    {
+      "added_at": "2025-07-21 07:58:21",
+      "album": {
         "name": "Vicky Cristina Barcelona (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0vAlihPeKjQZ4NMJHHwiXY"
       },
@@ -1335,18 +1351,18 @@
     {
       "added_at": "2025-07-21 07:58:21",
       "album": {
-        "name": "Babylon (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/0jCuKxy96iDfx9JtXKRyXe"
+        "name": "Staccato (Original Johnny Staccato Score)",
+        "url": "https://open.spotify.com/album/17LZljnfdBUuuOg2pG9Upd"
       },
       "artists": [
         {
-          "name": "Justin Hurwitz",
-          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
+          "name": "Elmer Bernstein",
+          "url": "https://open.spotify.com/artist/7sXdMnZeR5MsLKToZKpR2c"
         }
       ],
-      "duration_ms": 130600,
-      "name": "Damascus Thump",
-      "url": "https://open.spotify.com/track/5twNVE0ofszyWolOWwjRSN"
+      "duration_ms": 179893,
+      "name": "Thinking Of Baby - From \"Johnny Staccato\" Score / Remastered",
+      "url": "https://open.spotify.com/track/2GUMzPC3dGdOPfltAC8ELG"
     },
     {
       "added_at": "2025-07-21 07:58:21",
@@ -1367,22 +1383,6 @@
       "duration_ms": 76773,
       "name": "Sabor a M\u00ed",
       "url": "https://open.spotify.com/track/2iLxmg8G5tCx52JtnbQOke"
-    },
-    {
-      "added_at": "2025-07-21 07:58:21",
-      "album": {
-        "name": "Staccato (Original Johnny Staccato Score)",
-        "url": "https://open.spotify.com/album/17LZljnfdBUuuOg2pG9Upd"
-      },
-      "artists": [
-        {
-          "name": "Elmer Bernstein",
-          "url": "https://open.spotify.com/artist/7sXdMnZeR5MsLKToZKpR2c"
-        }
-      ],
-      "duration_ms": 179893,
-      "name": "Thinking Of Baby - From \"Johnny Staccato\" Score / Remastered",
-      "url": "https://open.spotify.com/track/2GUMzPC3dGdOPfltAC8ELG"
     },
     {
       "added_at": "2025-07-21 07:58:21",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-07-21 07:58:21",
       "album": {
-        "name": "The Subterraneans (Original Soundtrack Recording)",
-        "url": "https://open.spotify.com/album/6jF67GE8Col8R3C690pSlK"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Previn",
-          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
-        }
-      ],
-      "duration_ms": 164641,
-      "name": "Coffee Time (from \"The Subterraneans\")",
-      "url": "https://open.spotify.com/track/5tMsTU4j4oTOAlcUZewG1d"
-    },
-    {
-      "added_at": "2025-07-21 07:58:21",
-      "album": {
         "name": "Anatomy of a Murder",
         "url": "https://open.spotify.com/album/3WbMnT3abDjzrCzZQ9WtLK"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 130933,
       "name": "Flirtibird",
       "url": "https://open.spotify.com/track/3AGAKhMTukNdbPz9ADELxT"
+    },
+    {
+      "added_at": "2025-07-21 07:58:21",
+      "album": {
+        "name": "The Subterraneans (Original Soundtrack Recording)",
+        "url": "https://open.spotify.com/album/6jF67GE8Col8R3C690pSlK"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        }
+      ],
+      "duration_ms": 164641,
+      "name": "Coffee Time (from \"The Subterraneans\")",
+      "url": "https://open.spotify.com/track/5tMsTU4j4oTOAlcUZewG1d"
     },
     {
       "added_at": "2025-07-21 07:58:21",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2025-07-21 07:58:21",
       "album": {
-        "name": "The Hustler (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1X1wG8reln5sBRRwL5PGmA"
-      },
-      "artists": [
-        {
-          "name": "Kenyon Hopkins",
-          "url": "https://open.spotify.com/artist/368sIOipgrYvTNSKzAOxd9"
-        }
-      ],
-      "duration_ms": 112913,
-      "name": "Main Theme (Stop And Go)",
-      "url": "https://open.spotify.com/track/2ETWzB2IXxkgJOTxeFibfA"
-    },
-    {
-      "added_at": "2025-07-21 07:58:21",
-      "album": {
         "name": "Monsters Inc Original Soundtrack",
         "url": "https://open.spotify.com/album/6DJN6GdYFILJ5gtLbHW1Ff"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 210600,
       "name": "Walk To Work",
       "url": "https://open.spotify.com/track/4m7Ka1KBZgzdoSUMLui5aU"
+    },
+    {
+      "added_at": "2025-07-21 07:58:21",
+      "album": {
+        "name": "The Hustler (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1X1wG8reln5sBRRwL5PGmA"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Hopkins",
+          "url": "https://open.spotify.com/artist/368sIOipgrYvTNSKzAOxd9"
+        }
+      ],
+      "duration_ms": 112913,
+      "name": "Main Theme (Stop And Go)",
+      "url": "https://open.spotify.com/track/2ETWzB2IXxkgJOTxeFibfA"
     },
     {
       "added_at": "2025-07-21 07:58:21",

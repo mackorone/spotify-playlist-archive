@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XOA0s8kfTB.md) - [plain]
 
 > Music from “Girls Band Cry” ©東映アニメーション
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,240 likes - 36 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,261 likes - 36 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 187611,
+  "num_followers": 187618,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAABYRLUsloog+OhxnOVMS/bk",
+  "snapshot_id": "aORYAAAAAADkzaWKL1UZ5GKD+jyjLTBr",
   "tracks": [
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Janis: Little Girl Blue (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 224386,
+      "name": "Raise Your Hand - Live at Jahrhunderthalle, Frankfurt, Germany",
+      "url": "https://open.spotify.com/track/6grR9jNzUcXpE8aq80Nqtg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
         "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 46964,
       "name": "\"Are We Taping Now?\"",
       "url": "https://open.spotify.com/track/3jpfF9gHUjuv2Tgc2tigNg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Janis: Little Girl Blue (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 224386,
-      "name": "Raise Your Hand - Live at Jahrhunderthalle, Frankfurt, Germany",
-      "url": "https://open.spotify.com/track/6grR9jNzUcXpE8aq80Nqtg"
     },
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
-        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        },
-        {
-          "name": "Jorma Kaukonen",
-          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
-        }
-      ],
-      "duration_ms": 173230,
-      "name": "Trouble in Mind",
-      "url": "https://open.spotify.com/track/48DDXcCW9tBv1I96Y83jJx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Janis Joplin",
         "url": "https://open.spotify.com/album/3sR7NJMeadiOYLFl94uj0X"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 296640,
       "name": "Farewell Song - Live at the Winterland Ballroom, San Francisco, CA - April 1968",
       "url": "https://open.spotify.com/track/6Xz7vJYqEjINFozPaJNDHk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
+        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+          "name": "Jorma Kaukonen",
+          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+        }
+      ],
+      "duration_ms": 173230,
+      "name": "Trouble in Mind",
+      "url": "https://open.spotify.com/track/48DDXcCW9tBv1I96Y83jJx"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Essential Janis Joplin",
+        "url": "https://open.spotify.com/album/3sR7NJMeadiOYLFl94uj0X"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 398066,
+      "name": "Tell Mama - Live at McMahon Stadium, Calgary, Canada - July 1970",
+      "url": "https://open.spotify.com/track/5qTQVs778QLVH4OdSzDSp5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
         "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 200205,
       "name": "Nobody Knows You When You're Down and Out",
       "url": "https://open.spotify.com/track/4xtxGynUKSGzHdW5iZ2uQE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Janis Joplin",
-        "url": "https://open.spotify.com/album/3sR7NJMeadiOYLFl94uj0X"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 398066,
-      "name": "Tell Mama - Live at McMahon Stadium, Calgary, Canada - July 1970",
-      "url": "https://open.spotify.com/track/5qTQVs778QLVH4OdSzDSp5"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
-        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        },
-        {
-          "name": "Jorma Kaukonen",
-          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
-        }
-      ],
-      "duration_ms": 234366,
-      "name": "Long Black Train",
-      "url": "https://open.spotify.com/track/4kOb2Bu8UPRHpEJpza4hd5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Janis: Little Girl Blue (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 306093,
       "name": "Women Is Losers - Live at the Avalon Ballroom, San Francisco, CA - December 1966",
       "url": "https://open.spotify.com/track/7tk5U3oLW8pTpspY6JEAAE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Legendary Typewriter Tape: 6/25/64 Jorma's House",
+        "url": "https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        },
+        {
+          "name": "Jorma Kaukonen",
+          "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
+        }
+      ],
+      "duration_ms": 234366,
+      "name": "Long Black Train",
+      "url": "https://open.spotify.com/track/4kOb2Bu8UPRHpEJpza4hd5"
     },
     {
       "added_at": null,

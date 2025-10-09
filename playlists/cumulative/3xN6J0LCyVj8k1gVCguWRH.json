@@ -66483,6 +66483,28 @@
     },
     {
       "album": {
+        "name": "Para\u00edso",
+        "url": "https://open.spotify.com/album/7BerRN1MXhiHXvs7k4vapq"
+      },
+      "artists": [
+        {
+          "name": "Lotus Collective",
+          "url": "https://open.spotify.com/artist/4Urpa1JAxXdZw5MrrpDWmA"
+        },
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328102,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/2rqFTZRau9yWjKAZbCtky8"
+    },
+    {
+      "album": {
         "name": "Para\u00edso (Max Greaves Remix)",
         "url": "https://open.spotify.com/album/4ploPsh6CZx1HutPFLP06w"
       },
@@ -94416,7 +94438,7 @@
       ],
       "date_added": "2025-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 131752,
       "name": "Wake Up Dreaming",
       "url": "https://open.spotify.com/track/3io4OPyh7wkgvrsBnItndC"

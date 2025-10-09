@@ -1,6 +1,6 @@
 {
   "description": "\u7dba\u9e97\u4e8b\u306f\u805e\u304d\u305f\u304f\u306a\u3044\u3002\u672c\u97f3\u3067\u3064\u3065\u3089\u308c\u305f\u5504\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 22126,
+  "num_followers": 22123,
   "original_name": "\u305b\u304d\u3089\u3089",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-09-30 15:00:38",
       "album": {
-        "name": "\u50d5\u3089\u307e\u305f",
-        "url": "https://open.spotify.com/album/3MxWmcrVWQeZznHKjhpiiE"
-      },
-      "artists": [
-        {
-          "name": "SG",
-          "url": "https://open.spotify.com/artist/216arN9tLMMn2ltwEAxmF5"
-        }
-      ],
-      "duration_ms": 197307,
-      "name": "\u50d5\u3089\u307e\u305f",
-      "url": "https://open.spotify.com/track/5hzOyvCqy8sb39xGXUEdpb"
-    },
-    {
-      "added_at": "2025-09-30 15:00:38",
-      "album": {
         "name": "\u544a\u767d - Confession",
         "url": "https://open.spotify.com/album/4iwt5zps0wDrMuo6wQ95AJ"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 249480,
       "name": "I'm a mess",
       "url": "https://open.spotify.com/track/6c5GqVWU3yFDgPkgBB0MGg"
+    },
+    {
+      "added_at": "2025-09-30 15:00:38",
+      "album": {
+        "name": "\u50d5\u3089\u307e\u305f",
+        "url": "https://open.spotify.com/album/3MxWmcrVWQeZznHKjhpiiE"
+      },
+      "artists": [
+        {
+          "name": "SG",
+          "url": "https://open.spotify.com/artist/216arN9tLMMn2ltwEAxmF5"
+        }
+      ],
+      "duration_ms": 197307,
+      "name": "\u50d5\u3089\u307e\u305f",
+      "url": "https://open.spotify.com/track/5hzOyvCqy8sb39xGXUEdpb"
     },
     {
       "added_at": "2025-09-30 15:00:38",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-09-30 15:00:38",
       "album": {
-        "name": "HEA7EN",
-        "url": "https://open.spotify.com/album/0kkJC2Il3eHQOBe1IVRQsO"
-      },
-      "artists": [
-        {
-          "name": "MON7A",
-          "url": "https://open.spotify.com/artist/1Ypw6Y7ks3rw8EUPIE1Iqi"
-        }
-      ],
-      "duration_ms": 146781,
-      "name": "HEA7EN",
-      "url": "https://open.spotify.com/track/0SwcRsJukuBm5OECKV6oP5"
-    },
-    {
-      "added_at": "2025-09-30 15:00:38",
-      "album": {
         "name": "\u77ac\u9593\u7684\u30b7\u30c3\u30af\u30b9\u30bb\u30f3\u30b9",
         "url": "https://open.spotify.com/album/7fIqmc4GIaueaiAoDifAaA"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 231133,
       "name": "\u7d21\u3050",
       "url": "https://open.spotify.com/track/4nnkvTcw7lpS8w9FKpo7yJ"
+    },
+    {
+      "added_at": "2025-09-30 15:00:38",
+      "album": {
+        "name": "HEA7EN",
+        "url": "https://open.spotify.com/album/0kkJC2Il3eHQOBe1IVRQsO"
+      },
+      "artists": [
+        {
+          "name": "MON7A",
+          "url": "https://open.spotify.com/artist/1Ypw6Y7ks3rw8EUPIE1Iqi"
+        }
+      ],
+      "duration_ms": 146781,
+      "name": "HEA7EN",
+      "url": "https://open.spotify.com/track/0SwcRsJukuBm5OECKV6oP5"
     },
     {
       "added_at": "2025-09-30 15:00:38",

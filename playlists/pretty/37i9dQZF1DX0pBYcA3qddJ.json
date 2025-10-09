@@ -1,6 +1,6 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 54506,
+  "num_followers": 54504,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
@@ -971,38 +971,6 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "Blue Stone of Atlas (Piano Solo Version)",
-        "url": "https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Shirosu",
-          "url": "https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Blue Stone of Atlas - Piano Solo Version",
-      "url": "https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF"
-    },
-    {
-      "added_at": "2024-05-30 15:22:47",
-      "album": {
-        "name": "\u96ea\u89e3\u3051\u306e\u671d",
-        "url": "https://open.spotify.com/album/0gvr1J3aClpX0holnRIFbp"
-      },
-      "artists": [
-        {
-          "name": "\u8352\u4e95\u6843\u5b50",
-          "url": "https://open.spotify.com/artist/6ZLhlVDG7KglxlYkMuLwvr"
-        }
-      ],
-      "duration_ms": 222775,
-      "name": "\u96ea\u89e3\u3051\u306e\u671d",
-      "url": "https://open.spotify.com/track/4V9PhPpzQ00RJjJaqRkgpq"
-    },
-    {
-      "added_at": "2024-05-30 15:22:47",
-      "album": {
         "name": "Gershwin: Piano Works",
         "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
       },
@@ -1023,18 +991,34 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
-        "url": "https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN"
+        "name": "\u96ea\u89e3\u3051\u306e\u671d",
+        "url": "https://open.spotify.com/album/0gvr1J3aClpX0holnRIFbp"
       },
       "artists": [
         {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+          "name": "\u8352\u4e95\u6843\u5b50",
+          "url": "https://open.spotify.com/artist/6ZLhlVDG7KglxlYkMuLwvr"
         }
       ],
-      "duration_ms": 225960,
-      "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
-      "url": "https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7"
+      "duration_ms": 222775,
+      "name": "\u96ea\u89e3\u3051\u306e\u671d",
+      "url": "https://open.spotify.com/track/4V9PhPpzQ00RJjJaqRkgpq"
+    },
+    {
+      "added_at": "2024-05-30 15:22:47",
+      "album": {
+        "name": "Blue Stone of Atlas (Piano Solo Version)",
+        "url": "https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Shirosu",
+          "url": "https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Blue Stone of Atlas - Piano Solo Version",
+      "url": "https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1051,6 +1035,22 @@
       "duration_ms": 151900,
       "name": "fallen leaves",
       "url": "https://open.spotify.com/track/0sYfmKsl5ebxiUhJHLxmeK"
+    },
+    {
+      "added_at": "2024-05-30 15:22:47",
+      "album": {
+        "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
+        "url": "https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 225960,
+      "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
+      "url": "https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "\u5dee\u3057\u8272",
-        "url": "https://open.spotify.com/album/0osPjHgcenfbVxnPHuMZ4W"
+        "name": "WELL DONE",
+        "url": "https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ"
       },
       "artists": [
         {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         }
       ],
-      "duration_ms": 183709,
-      "name": "\u5dee\u3057\u8272",
-      "url": "https://open.spotify.com/track/2AE8eW32N5jimZ9wVO39Br"
+      "duration_ms": 210416,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/1ImhD5W20BYmmA9GYlBvOk"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "WELL DONE",
-        "url": "https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ"
+        "name": "\u5dee\u3057\u8272",
+        "url": "https://open.spotify.com/album/0osPjHgcenfbVxnPHuMZ4W"
       },
       "artists": [
         {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
         }
       ],
-      "duration_ms": 210416,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/1ImhD5W20BYmmA9GYlBvOk"
+      "duration_ms": 183709,
+      "name": "\u5dee\u3057\u8272",
+      "url": "https://open.spotify.com/track/2AE8eW32N5jimZ9wVO39Br"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1751,18 +1751,22 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "something I can't afford",
-        "url": "https://open.spotify.com/album/4wn5IouuKlkr9rJfkkGx6n"
+        "name": "Delibes: Lakm\u00e9: Flower Duet (Arr. Naoumoff for Piano)",
+        "url": "https://open.spotify.com/album/64w9xv7aEMPYbcI59PHm8V"
       },
       "artists": [
         {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+          "name": "L\u00e9o Delibes",
+          "url": "https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 181677,
-      "name": "something i can't afford",
-      "url": "https://open.spotify.com/track/5BZyKhuOTOp4ouVRkp15k7"
+      "duration_ms": 133960,
+      "name": "Lakm\u00e9: Flower Duet (Arr. Naoumoff for Piano)",
+      "url": "https://open.spotify.com/track/4u0eCzsxpHtu7ESBe24cL9"
     }
   ],
   "unique_name": "\u9759\u5bc2\u3068\u9ec4\u660f",

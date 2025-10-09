@@ -301,6 +301,28 @@
     },
     {
       "album": {
+        "name": "4 Ya Mind",
+        "url": "https://open.spotify.com/album/0xmHvWsIECBDM5ltH51C2f"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        },
+        {
+          "name": "Discip",
+          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205546,
+      "name": "4 Ya Mind",
+      "url": "https://open.spotify.com/track/6cJwVvwYpMg8PlQpJY5RwS"
+    },
+    {
+      "album": {
         "name": "4U",
         "url": "https://open.spotify.com/album/5p6wULtzOrjrTlMUtrDnVr"
       },
@@ -896,6 +918,28 @@
       "duration_ms": 152903,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye"
+    },
+    {
+      "album": {
+        "name": "Afterparty",
+        "url": "https://open.spotify.com/album/5CgZ8ciPp1h8DCdovWTQ0p"
+      },
+      "artists": [
+        {
+          "name": "HILLS",
+          "url": "https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB"
+        },
+        {
+          "name": "Gaddi",
+          "url": "https://open.spotify.com/artist/26KdrZAs1OJbJNI6QOLnVP"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175454,
+      "name": "Afterparty",
+      "url": "https://open.spotify.com/track/0G82Tulewo9VilY8l59gQu"
     },
     {
       "album": {
@@ -4360,7 +4404,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 180000,
       "name": "Blue Monday",
       "url": "https://open.spotify.com/track/1RMhO8CQw025Jppf3yULwh"
@@ -6340,7 +6384,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 182225,
       "name": "Cash Out",
       "url": "https://open.spotify.com/track/7qHSfKzilTsXJuuWcjX1vZ"
@@ -6642,6 +6686,24 @@
       "duration_ms": 202524,
       "name": "Chromatic",
       "url": "https://open.spotify.com/track/3FcKnF4nEwGxlwdAmRIogh"
+    },
+    {
+      "album": {
+        "name": "Chronic",
+        "url": "https://open.spotify.com/album/4InVoVmvRBglxTlF2fZEZ3"
+      },
+      "artists": [
+        {
+          "name": "Cave Studio",
+          "url": "https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186461,
+      "name": "Chronic",
+      "url": "https://open.spotify.com/track/6F0Qy3GgFfWQTLokIX6Ts9"
     },
     {
       "album": {
@@ -10404,7 +10466,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 202500,
       "name": "Double Dutch",
       "url": "https://open.spotify.com/track/10LCFChcEluNFZXVFVDanE"
@@ -13898,7 +13960,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 179380,
       "name": "Forbidden Fruit",
       "url": "https://open.spotify.com/track/2O2qDKPqS7SIU9OsI4Rk7c"
@@ -13960,6 +14022,24 @@
       "duration_ms": 158826,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/69jJswow87ytCEShY9Us03"
+    },
+    {
+      "album": {
+        "name": "Freak (In Your Bed)",
+        "url": "https://open.spotify.com/album/68PQmggKrnIzGozP6PuYQM"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Freak (In Your Bed)",
+      "url": "https://open.spotify.com/track/2HecHXFv8f25ZPvcFa4uJg"
     },
     {
       "album": {
@@ -14340,7 +14420,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 179770,
       "name": "Front 2 Back",
       "url": "https://open.spotify.com/track/5O3BBu1w4gfT0vsLPN3bfW"
@@ -14482,7 +14562,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 249375,
       "name": "Funky Ish",
       "url": "https://open.spotify.com/track/12NRga6lPDI6T9uIcbCrkc"
@@ -15445,6 +15525,24 @@
     },
     {
       "album": {
+        "name": "Giddy Up",
+        "url": "https://open.spotify.com/album/0a9HAz3WBCXqtZhnEIfufz"
+      },
+      "artists": [
+        {
+          "name": "Gabss",
+          "url": "https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "Giddy Up",
+      "url": "https://open.spotify.com/track/1IOgHKaVFxYrHVH6XLwg0x"
+    },
+    {
+      "album": {
         "name": "Gimme",
         "url": "https://open.spotify.com/album/4dvN32CHvR0D1lFhJ0H0wK"
       },
@@ -16248,7 +16346,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 193846,
       "name": "Goodies",
       "url": "https://open.spotify.com/track/5TcsyxRBkIjgmaoSW9oaZL"
@@ -17274,6 +17372,24 @@
       "duration_ms": 185538,
       "name": "High",
       "url": "https://open.spotify.com/track/3JvDVTzvFtboA4gxCDmURc"
+    },
+    {
+      "album": {
+        "name": "Higher EP",
+        "url": "https://open.spotify.com/album/0iuQJT6wVuGWq4UjCF1MlP"
+      },
+      "artists": [
+        {
+          "name": "Dale Howard",
+          "url": "https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392727,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/032sTLC6m9BZwNT65sw9Ws"
     },
     {
       "album": {
@@ -20062,7 +20178,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 169465,
       "name": "Is Everybody Having Fun? (feat. rhys from the sticks)",
       "url": "https://open.spotify.com/track/58JdlahcAaLgM7ftInMf4M"
@@ -21593,6 +21709,32 @@
     },
     {
       "album": {
+        "name": "LA NOCHE",
+        "url": "https://open.spotify.com/album/3iBDg8qZiUWJy0kiZHI3Cv"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "ANITA B QUEEN",
+          "url": "https://open.spotify.com/artist/2YcZup1n6AW4BxoikeUswf"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212244,
+      "name": "LA NOCHE",
+      "url": "https://open.spotify.com/track/5vu69csqeUJheoQWPd2MoM"
+    },
+    {
+      "album": {
         "name": "La Samba",
         "url": "https://open.spotify.com/album/2JurI8lOhpvZZQFwrNu4rH"
       },
@@ -21666,7 +21808,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 370518,
       "name": "Ladies",
       "url": "https://open.spotify.com/track/2bPNN7sEDCqEntToNtu6YS"
@@ -22672,6 +22814,28 @@
       "duration_ms": 302362,
       "name": "Light Years",
       "url": "https://open.spotify.com/track/24epMjl1dMm7MZ8AbE8Gyx"
+    },
+    {
+      "album": {
+        "name": "Lighter",
+        "url": "https://open.spotify.com/album/50lrGLN2b1eO2t1rIuzc3h"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "Darla Jade",
+          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187283,
+      "name": "Lighter",
+      "url": "https://open.spotify.com/track/0LJeMisvD34COpkt7QFFIO"
     },
     {
       "album": {
@@ -25088,6 +25252,24 @@
       "duration_ms": 251307,
       "name": "Math - Westend Remix",
       "url": "https://open.spotify.com/track/038bWAkB2zaRAzovsx4ee3"
+    },
+    {
+      "album": {
+        "name": "Maximum",
+        "url": "https://open.spotify.com/album/1GotQqivDbCMTylM0rBXEL"
+      },
+      "artists": [
+        {
+          "name": "Anti Up",
+          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164332,
+      "name": "Maximum",
+      "url": "https://open.spotify.com/track/1qVlXWReJaQAjz0zhbfxjA"
     },
     {
       "album": {
@@ -28022,7 +28204,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 142153,
       "name": "No Sucker",
       "url": "https://open.spotify.com/track/0AS16BRzJAAEx1Rjm7dpBA"
@@ -28160,6 +28342,28 @@
       "duration_ms": 184285,
       "name": "Not Again",
       "url": "https://open.spotify.com/track/3plr9Us4U0NRe1oL312JEu"
+    },
+    {
+      "album": {
+        "name": "Not Gonna Be Your Boo (feat. Robin S)",
+        "url": "https://open.spotify.com/album/7BXYWdQZdWmgybac99Dwy4"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174550,
+      "name": "Not Gonna Be Your Boo (feat. Robin S)",
+      "url": "https://open.spotify.com/track/36Umek5lUvL6pXI74dnRct"
     },
     {
       "album": {
@@ -31642,7 +31846,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 166511,
       "name": "Pump It Up",
       "url": "https://open.spotify.com/track/0UoJuBar2rf7kef2NsmZFb"
@@ -31660,7 +31864,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 209365,
       "name": "Pump Time",
       "url": "https://open.spotify.com/track/5WP4Ko2emJXWOX64cimlEW"
@@ -32302,7 +32506,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 192121,
       "name": "Raw",
       "url": "https://open.spotify.com/track/2U9RtZORzcu54vkWI19PIL"
@@ -33098,7 +33302,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 409302,
       "name": "Ride",
       "url": "https://open.spotify.com/track/5deeydtChxT8ZYJnTCGr8l"
@@ -34362,6 +34566,24 @@
     {
       "album": {
         "name": "Say What",
+        "url": "https://open.spotify.com/album/51Np1ITulnGHFZzKlTkRhf"
+      },
+      "artists": [
+        {
+          "name": "Blank Sense",
+          "url": "https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200625,
+      "name": "Say What",
+      "url": "https://open.spotify.com/track/6U8UQ9pz8V3P8wk6zZW9KJ"
+    },
+    {
+      "album": {
+        "name": "Say What",
         "url": "https://open.spotify.com/album/1xPs7OlKxuAXnH5sfqjxb2"
       },
       "artists": [
@@ -35412,7 +35634,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 200583,
       "name": "Show Stealer",
       "url": "https://open.spotify.com/track/2A3KrVBHHMInwXvDswI0Ze"
@@ -36940,7 +37162,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 169846,
       "name": "Start 2 Count",
       "url": "https://open.spotify.com/track/25SZTKOuIcpfsWfw6esoJI"
@@ -39566,6 +39788,24 @@
       "duration_ms": 192848,
       "name": "The Function",
       "url": "https://open.spotify.com/track/34fXpiwE0KrGzirOItUh9m"
+    },
+    {
+      "album": {
+        "name": "The Funk",
+        "url": "https://open.spotify.com/album/6PFVrGlcQtc7BlvCb1rVbI"
+      },
+      "artists": [
+        {
+          "name": "Seeing Double",
+          "url": "https://open.spotify.com/artist/0YwjcHEhy7FPPoFTQ1fEMj"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "The Funk",
+      "url": "https://open.spotify.com/track/1jetuKTQIwOUXZ71s8X0iB"
     },
     {
       "album": {
@@ -43752,6 +43992,24 @@
       "duration_ms": 230248,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/6cRbCEy9lTI5Qs3kPuNHEQ"
+    },
+    {
+      "album": {
+        "name": "Wannabe",
+        "url": "https://open.spotify.com/album/4FBvjNo3paUgB8Cxc8OmEh"
+      },
+      "artists": [
+        {
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165937,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/2sZsSxIvWz7rktffKEq0F0"
     },
     {
       "album": {

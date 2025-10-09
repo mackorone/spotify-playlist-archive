@@ -1,12 +1,12 @@
 {
   "description": "This is Aimer. The essential tracks, all in one playlist.",
-  "num_followers": 168737,
+  "num_followers": 168757,
   "original_name": "This Is Aimer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAADlFBm9Q7gP+TpYiVEDU4uR",
+  "snapshot_id": "aORYAAAAAACBVOPQoB6STQihGaCP+1xf",
   "tracks": [
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walpurgis",
-        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 242733,
-      "name": "SPARK-AGAIN",
-      "url": "https://open.spotify.com/track/7c7iiyRHZQB2VUxyUQA8ZI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u671d\u304c\u6765\u308b",
         "url": "https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 294933,
       "name": "\u671d\u304c\u6765\u308b",
       "url": "https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walpurgis",
+        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "SPARK-AGAIN",
+      "url": "https://open.spotify.com/track/7c7iiyRHZQB2VUxyUQA8ZI"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleepless Nights",
-        "url": "https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 360480,
-      "name": "\u3042\u306a\u305f\u306b\u51fa\u4f1a\u308f\u306a\u3051\u308c\u3070\uff5e\u590f\u96ea\u51ac\u82b1\uff5e",
-      "url": "https://open.spotify.com/track/76Q4LP5dkZiMVvwLIL1kEc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u9065\u304b",
         "url": "https://open.spotify.com/album/6uDU9vnNFQN2WB4h7pwI93"
       },
@@ -435,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sun Dance",
-        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
+        "name": "Sleepless Nights",
+        "url": "https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD"
       },
       "artists": [
         {
@@ -444,9 +428,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 193400,
-      "name": "\u82b1\u3073\u3089\u305f\u3061\u306e\u30de\u30fc\u30c1",
-      "url": "https://open.spotify.com/track/31VUT0WkUfUkkIfEA1Has4"
+      "duration_ms": 360480,
+      "name": "\u3042\u306a\u305f\u306b\u51fa\u4f1a\u308f\u306a\u3051\u308c\u3070\uff5e\u590f\u96ea\u51ac\u82b1\uff5e",
+      "url": "https://open.spotify.com/track/76Q4LP5dkZiMVvwLIL1kEc"
     },
     {
       "added_at": null,
@@ -463,6 +447,22 @@
       "duration_ms": 227146,
       "name": "Deep down",
       "url": "https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "\u82b1\u3073\u3089\u305f\u3061\u306e\u30de\u30fc\u30c1",
+      "url": "https://open.spotify.com/track/31VUT0WkUfUkkIfEA1Has4"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walpurgis",
-        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 285826,
-      "name": "STAND-ALONE",
-      "url": "https://open.spotify.com/track/4adxfjDov8fxK1vXTVvGfU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Penny Rain",
         "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 371426,
       "name": "\u82b1\u306e\u5504",
       "url": "https://open.spotify.com/track/3oSavJ5fMvJWZyR9zNHMte"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walpurgis",
+        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 285826,
+      "name": "STAND-ALONE",
+      "url": "https://open.spotify.com/track/4adxfjDov8fxK1vXTVvGfU"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
-        "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Blind to you (Remaster for \u661f\u306e\u6d88\u3048\u305f\u591c\u306b 2022)",
-      "url": "https://open.spotify.com/track/3QrRKBM0VEI2aVIW29Fkp2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Penny Rain",
         "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 343973,
       "name": "April Showers",
       "url": "https://open.spotify.com/track/1RYS6fQjK0nSYE8tZO7Aj1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
+        "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Blind to you (Remaster for \u661f\u306e\u6d88\u3048\u305f\u591c\u306b 2022)",
+      "url": "https://open.spotify.com/track/3QrRKBM0VEI2aVIW29Fkp2"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "800",
-        "url": "https://open.spotify.com/album/0fdFWCHDh2eXlaPeR6v26h"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 233045,
-      "name": "800",
-      "url": "https://open.spotify.com/track/0ZOaNBSs178pfCtaww1JMo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ONE / \u82b1\u306e\u5504 / \u516d\u7b49\u661f\u306e\u591c Magic Blue ver.",
         "url": "https://open.spotify.com/album/2hrsWVbgZvnmKY9QTKDghN"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 350933,
       "name": "\u516d\u7b49\u661f\u306e\u591c Magic Blue ver.",
       "url": "https://open.spotify.com/track/2O9zgoUcr8cc7QNGl89oTk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "800",
+        "url": "https://open.spotify.com/album/0fdFWCHDh2eXlaPeR6v26h"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 233045,
+      "name": "800",
+      "url": "https://open.spotify.com/track/0ZOaNBSs178pfCtaww1JMo"
     }
   ],
   "unique_name": "This Is Aimer",

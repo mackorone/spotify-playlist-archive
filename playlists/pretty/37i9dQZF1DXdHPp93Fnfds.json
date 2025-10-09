@@ -1,6 +1,6 @@
 {
   "description": "Guerreras e independientes. Foto: Fin del Mundo.",
-  "num_followers": 138635,
+  "num_followers": 138628,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,22 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
+        "name": "Hicimos Crecer un Bosque",
+        "url": "https://open.spotify.com/album/2wTNdmVd3HhJPMq8jBd7Vo"
+      },
+      "artists": [
+        {
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+        }
+      ],
+      "duration_ms": 236081,
+      "name": "Una Temporada en el Invierno",
+      "url": "https://open.spotify.com/track/2BpSPF4MMl9dgr52nuRsH9"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
         "name": "Nuestros Besos",
         "url": "https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 180750,
       "name": "sin dormir",
       "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
-        "name": "Hicimos Crecer un Bosque",
-        "url": "https://open.spotify.com/album/2wTNdmVd3HhJPMq8jBd7Vo"
-      },
-      "artists": [
-        {
-          "name": "Fin del Mundo",
-          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
-        }
-      ],
-      "duration_ms": 236081,
-      "name": "Una Temporada en el Invierno",
-      "url": "https://open.spotify.com/track/2BpSPF4MMl9dgr52nuRsH9"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Te Vi",
-        "url": "https://open.spotify.com/album/1oy4RCK3TYGSXVVh6iwqAp"
-      },
-      "artists": [
-        {
-          "name": "Valsian",
-          "url": "https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa"
-        }
-      ],
-      "duration_ms": 205281,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/1Otj8A7vMiHW6dY07pwTK0"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Muy tarde",
         "url": "https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X"
       },
@@ -855,22 +839,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Llorando Por Ti (Banda Sonora Original \"Todo Lo Otro\")",
-        "url": "https://open.spotify.com/album/7eoFeduvdejcB9j28FL0fh"
-      },
-      "artists": [
-        {
-          "name": "La Bien Querida",
-          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
-        }
-      ],
-      "duration_ms": 265043,
-      "name": "Llorando Por Ti - Banda Sonora Original \"Todo Lo Otro\"",
-      "url": "https://open.spotify.com/track/2zsSYgjdUGMT5u1TlIlr85"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Cursi",
         "url": "https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M"
       },
@@ -883,6 +851,38 @@
       "duration_ms": 193517,
       "name": "Cursi",
       "url": "https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Te Vi",
+        "url": "https://open.spotify.com/album/1oy4RCK3TYGSXVVh6iwqAp"
+      },
+      "artists": [
+        {
+          "name": "Valsian",
+          "url": "https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa"
+        }
+      ],
+      "duration_ms": 205281,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/1Otj8A7vMiHW6dY07pwTK0"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Llorando Por Ti (Banda Sonora Original \"Todo Lo Otro\")",
+        "url": "https://open.spotify.com/album/7eoFeduvdejcB9j28FL0fh"
+      },
+      "artists": [
+        {
+          "name": "La Bien Querida",
+          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
+        }
+      ],
+      "duration_ms": 265043,
+      "name": "Llorando Por Ti - Banda Sonora Original \"Todo Lo Otro\"",
+      "url": "https://open.spotify.com/track/2zsSYgjdUGMT5u1TlIlr85"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Fuga",
-        "url": "https://open.spotify.com/album/2WdOxEknOxc3eKdybYjznt"
-      },
-      "artists": [
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        }
-      ],
-      "duration_ms": 181274,
-      "name": "Fuga",
-      "url": "https://open.spotify.com/track/7dzNHNlZpGCWmpubnUkNGj"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Por qu\u00e9 te quiero tanto?",
         "url": "https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 230495,
       "name": "Por qu\u00e9 te quiero tanto?",
       "url": "https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Fuga",
+        "url": "https://open.spotify.com/album/2WdOxEknOxc3eKdybYjznt"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 181274,
+      "name": "Fuga",
+      "url": "https://open.spotify.com/track/7dzNHNlZpGCWmpubnUkNGj"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "No va a pasar",
-        "url": "https://open.spotify.com/album/3BWz14j0eiivYK3pnSg74T"
-      },
-      "artists": [
-        {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
-        }
-      ],
-      "duration_ms": 211847,
-      "name": "No va a pasar",
-      "url": "https://open.spotify.com/track/539SIIj6PtikkCunfoDmEW"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Pensamientos",
         "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 156771,
       "name": "Cero",
       "url": "https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "No va a pasar",
+        "url": "https://open.spotify.com/album/3BWz14j0eiivYK3pnSg74T"
+      },
+      "artists": [
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        }
+      ],
+      "duration_ms": 211847,
+      "name": "No va a pasar",
+      "url": "https://open.spotify.com/track/539SIIj6PtikkCunfoDmEW"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "TEMPLO KOMODO",
-        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
+        "name": "Mi Coraz\u00f3n y Yo",
+        "url": "https://open.spotify.com/album/5oHGX0k38tSv22GZRqV4w5"
       },
       "artists": [
         {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+          "name": "Maria Campos",
+          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
         }
       ],
-      "duration_ms": 310216,
-      "name": "Nariz Con Ra\u00edz",
-      "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
+      "duration_ms": 178665,
+      "name": "Mi Coraz\u00f3n y Yo",
+      "url": "https://open.spotify.com/track/1RoqUzkSySLPVZfGiTipMV"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Mi Coraz\u00f3n y Yo",
-        "url": "https://open.spotify.com/album/5oHGX0k38tSv22GZRqV4w5"
-      },
-      "artists": [
-        {
-          "name": "Maria Campos",
-          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
-        }
-      ],
-      "duration_ms": 178665,
-      "name": "Mi Coraz\u00f3n y Yo",
-      "url": "https://open.spotify.com/track/1RoqUzkSySLPVZfGiTipMV"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Male",
         "url": "https://open.spotify.com/album/1JHlDmbAr9GM2BoZh9yLCA"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 182903,
       "name": "Male",
       "url": "https://open.spotify.com/track/3wTK9UTRtwE0HbyEgoDW9n"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "TEMPLO KOMODO",
+        "url": "https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA"
+      },
+      "artists": [
+        {
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+        }
+      ],
+      "duration_ms": 310216,
+      "name": "Nariz Con Ra\u00edz",
+      "url": "https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp"
     },
     {
       "added_at": "2025-07-17 22:42:38",

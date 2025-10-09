@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 42227,
+  "num_followers": 42232,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAACamN9dCxlU8Km7loJ5eRfS",
+  "snapshot_id": "aORYAAAAAAC98DvD7tfGwYyR+nd1lG1/",
   "tracks": [
     {
       "added_at": null,
@@ -131,6 +131,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "INDUSTRY MACHINE",
+        "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 176373,
+      "name": "MARADONA (feat. Justin Quiles and Saweetie)",
+      "url": "https://open.spotify.com/track/6qM6LhryeIWAhrRT0f1ybk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "High Maintenance",
         "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
       },
@@ -171,30 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INDUSTRY MACHINE",
-        "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 176373,
-      "name": "MARADONA (feat. Justin Quiles and Saweetie)",
-      "url": "https://open.spotify.com/track/6qM6LhryeIWAhrRT0f1ybk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NANi",
         "url": "https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc"
       },
@@ -231,26 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "boffum",
-        "url": "https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "J White Did It",
-          "url": "https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir"
-        }
-      ],
-      "duration_ms": 127862,
-      "name": "boffum",
-      "url": "https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sway With Me (with GALXARA)",
         "url": "https://open.spotify.com/album/5uC0YWUVDKRZD9x1cRgjyu"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 168018,
       "name": "Sway With Me (with GALXARA)",
       "url": "https://open.spotify.com/track/5gqLY5H1ZyT3BScVr0nDMs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "boffum",
+        "url": "https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "J White Did It",
+          "url": "https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir"
+        }
+      ],
+      "duration_ms": 127862,
+      "name": "boffum",
+      "url": "https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HELLA PRESSURE",
-        "url": "https://open.spotify.com/album/1dG31Tcl0pmtn9vtFWw13d"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 162708,
-      "name": "pressure",
-      "url": "https://open.spotify.com/track/3hlJXtUKYF4AZUoKtLZeve"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faking Love (feat. Saweetie)",
         "url": "https://open.spotify.com/album/0keCRGjhQNl2Wba6nSwqgx"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 148577,
       "name": "Faking Love (feat. Saweetie)",
       "url": "https://open.spotify.com/track/3V7jLMYvvg4BHi4tmDveNc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HELLA PRESSURE",
+        "url": "https://open.spotify.com/album/1dG31Tcl0pmtn9vtFWw13d"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 162708,
+      "name": "pressure",
+      "url": "https://open.spotify.com/track/3hlJXtUKYF4AZUoKtLZeve"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HELLA PRESSURE",
-        "url": "https://open.spotify.com/album/1dG31Tcl0pmtn9vtFWw13d"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 108519,
-      "name": "twinzzz",
-      "url": "https://open.spotify.com/track/6xNnt74U9i9ud96ccQowzH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Is It The Way",
         "url": "https://open.spotify.com/album/4yvcCQ6riOr6XvigkpItWN"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 152973,
       "name": "Is It The Way",
       "url": "https://open.spotify.com/track/4aY0JD0iHm1VIAQelgYkw7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HELLA PRESSURE",
+        "url": "https://open.spotify.com/album/1dG31Tcl0pmtn9vtFWw13d"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 108519,
+      "name": "twinzzz",
+      "url": "https://open.spotify.com/track/6xNnt74U9i9ud96ccQowzH"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 152241,
-      "name": "Baby Boo",
-      "url": "https://open.spotify.com/track/36UY111WEuMBKpF189a6m1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All She Wanna Do",
         "url": "https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 195715,
       "name": "All She Wanna Do (with Saweetie)",
       "url": "https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 152241,
+      "name": "Baby Boo",
+      "url": "https://open.spotify.com/track/36UY111WEuMBKpF189a6m1"
     },
     {
       "added_at": null,

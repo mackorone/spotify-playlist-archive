@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-1,137 songs - 2 day 13 hr 13 min
+1,138 songs - 2 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -745,6 +745,7 @@
 | [Paris Di Jugni](https://open.spotify.com/track/51zNwGiLyMh7qodYWSChcL) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Partners in Rhyme](https://open.spotify.com/artist/29EuGFxmto4dmwNkrthLK7) | [Paris Di Jugni](https://open.spotify.com/album/4cAccIAk9YtKNvKz1eJY7L) | 4:57 | 2023-06-26 | 2023-09-02 |
 | [Pariyan De Desh \(From "Masand" Soundtrack\)](https://open.spotify.com/track/49smvL3XQwdOdTIjTYDoHd) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Pariyan De Desh \(From "Masand" Soundtrack\)](https://open.spotify.com/album/2VJaivHf2ktb01A62hQJdb) | 3:05 | 2022-11-11 | 2023-11-29 |
 | [Pariyan Toh Sohni \(From "Ni Main Sass Kuttni"\)](https://open.spotify.com/track/2jjB2GkX4k4CamDeHmC25E) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Pariyan Toh Sohni \(From "Ni Main Sass Kuttni"\)](https://open.spotify.com/album/4K48x0dgwU2zLDC8d4x4sy) | 2:55 | 2022-04-15 | 2023-02-04 |
+| [Pariyan Vargi \- From "Soohe Ve Cheere Waleya"](https://open.spotify.com/track/4tnAwhEqOkNDAlOr36EXwV) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8), [D Harp](https://open.spotify.com/artist/7GxP5gHcbHPwacbQXWU4nB) | [Pariyan Vargi \(From "Soohe Ve Cheere Waleya"\)](https://open.spotify.com/album/3Lf0twenrGRAiSYxLxcHoz) | 2:45 | 2025-10-08 |  |
 | [Parshawan](https://open.spotify.com/track/6IaHIJYxIG8xbosaRr25AC) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Parshawan](https://open.spotify.com/album/6w6MwWpj1oR3lKpQPc8caY) | 2:48 | 2021-12-02 | 2022-12-16 |
 | [Pasand](https://open.spotify.com/track/6spnRIONdFbgl4NsBccGKO) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Saggi Nexuss](https://open.spotify.com/artist/5dMJiBJVkicivaHCgRKadi), [Khan Mallan Wala](https://open.spotify.com/artist/7Hs5OBCr72yssKFxWws6MN), [Ranjha Rajan](https://open.spotify.com/artist/4dHeX7BNfbSKdO8qAs555N) | [Pasand](https://open.spotify.com/album/3LYsjAh6DzEmo8wHYP9WfN) | 2:50 | 2024-08-30 | 2024-09-13 |
 | [Pasand Bangi](https://open.spotify.com/track/0PQkxMXbAWaqRZfdLxeamN) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Pasand Bangi](https://open.spotify.com/album/2PJPQ8mRBTPVOreuUDTJ2X) | 3:45 | 2021-12-02 | 2022-12-16 |
@@ -932,7 +933,7 @@
 | [Sohniye](https://open.spotify.com/track/3o1JBywODxE6eEToF3y33U) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Romeo](https://open.spotify.com/artist/4VrVEWJyZO0X5A4mjgqVfk) | [Summer Daze](https://open.spotify.com/album/1srOF2YIQ1dvb2lDqbJDSg) | 2:44 | 2024-08-30 | 2024-09-14 |
 | [Sohnya](https://open.spotify.com/track/52cc24uy7m4Q4oY3MqOWgm) | [Amarinder](https://open.spotify.com/artist/7fBmn4qIlIlpCTgV1VE4cV) | [Sohnya](https://open.spotify.com/album/2Ethee7YbtzP5uJJzSV7ss) | 3:14 | 2022-07-21 | 2022-08-18 |
 | [Solitaire](https://open.spotify.com/track/7lM5z5YFdIuAUwnumqToHL) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G), [Mista Baaz](https://open.spotify.com/artist/4WfXu0xIHhthU5Jb5x3hRq) | [Solitaire](https://open.spotify.com/album/6TKjg5iROAg06oD7m1IOSb) | 3:06 | 2022-11-07 | 2023-02-04 |
-| [Sone Da Gulaab](https://open.spotify.com/track/6e8O85kjw9Sn8RfERQ3nBk) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 3:01 | 2025-09-26 |  |
+| [Sone Da Gulaab](https://open.spotify.com/track/6e8O85kjw9Sn8RfERQ3nBk) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 3:01 | 2025-09-26 | 2025-10-09 |
 | [Soniye Je Tere Naal](https://open.spotify.com/track/3n9kEOy2x74Ioxb9dkJ2Ig) | [Prabhjot Singh](https://open.spotify.com/artist/3UFVnXtJwuHkR4wDryvGMt) | [Soniye Je Tere Naal](https://open.spotify.com/album/5Xc9LgYBHH8pRoQxXZYQ46) | 4:12 | 2025-01-08 | 2025-03-04 |
 | [Sorry](https://open.spotify.com/track/47AWxFFocq2DekndowAVLR) | [Raman Romana](https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv), [JusKeys](https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc), [Vinder Nathu Majra](https://open.spotify.com/artist/1B4NLf9v1eIpwm8vZCEOKN) | [Sorry](https://open.spotify.com/album/6Bq5uSzuLLsKX3nsPrqgxA) | 3:53 | 2022-05-12 | 2022-05-20 |
 | [SPAIN](https://open.spotify.com/track/4ZVtid5khBfDx6Co0vTUE6) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [VIBIN](https://open.spotify.com/album/2GPHbR6aZ2rZooX6dF1nwB) | 1:44 | 2023-02-13 |  |

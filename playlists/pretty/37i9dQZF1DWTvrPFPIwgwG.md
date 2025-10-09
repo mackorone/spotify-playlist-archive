@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Léa Mendonça, Nathália Braga
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,779 likes - 80 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,849 likes - 80 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 35 | [Prioridade \(Ao Vivo\)](https://open.spotify.com/track/42xqD1YxWBXgU9ND55MqXE) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Prioridade \(Ao Vivo\)](https://open.spotify.com/album/4EO1KlcmvHxJGG37PzYmDw) | 4:15 |
 | 36 | [Contando os Dias \- Ao Vivo](https://open.spotify.com/track/3nEw3prYLtFzNsnrsoxrTm) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Contando os Dias \(Ao Vivo\)](https://open.spotify.com/album/3rq11lZvriTpqaXq7deK4X) | 6:43 |
 | 37 | [Se Não Fosse a Tua Mão](https://open.spotify.com/track/6363WKxH1xivXxRrTn9rZZ) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Se Não Fosse a Tua Mão](https://open.spotify.com/album/0X2slSWIAND0JqfogDzzSw) | 5:10 |
-| 38 | [Você Disse](https://open.spotify.com/track/6EogdYz9DwIG7YZziqj9Js) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Você Disse](https://open.spotify.com/album/4uqGFeLGkX5Yt6hNSHHDQ8) | 4:37 |
-| 39 | [Há um Deus no Céu \(Ao Vivo\)](https://open.spotify.com/track/2nHSRcZHW6L75pAWfPNOHn) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Há um Deus no Céu \(Ao Vivo\)](https://open.spotify.com/album/0RXhj4IrrkcMs9Puae55n8) | 3:55 |
+| 38 | [Há um Deus no Céu \(Ao Vivo\)](https://open.spotify.com/track/2nHSRcZHW6L75pAWfPNOHn) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Há um Deus no Céu \(Ao Vivo\)](https://open.spotify.com/album/0RXhj4IrrkcMs9Puae55n8) | 3:55 |
+| 39 | [Você Disse](https://open.spotify.com/track/6EogdYz9DwIG7YZziqj9Js) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Você Disse](https://open.spotify.com/album/4uqGFeLGkX5Yt6hNSHHDQ8) | 4:37 |
 | 40 | [Eu Cuido de Tudo \- Ao vivo](https://open.spotify.com/track/14vIKDQWvBxxvHBo2FQ4O4) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Eu Cuido de Tudo](https://open.spotify.com/album/1HyBw2GRBlwaudGwFODrpJ) | 7:27 |
 | 41 | [Deus Vai Agir \(Ao Vivo\)](https://open.spotify.com/track/5vSTBOJukCTLSoQK5hkx2o) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Deus Vai Agir \(Ao Vivo\)](https://open.spotify.com/album/7yARppxr1hG93yPKWIfgsA) | 3:54 |
 | 42 | [Você Não Vai Parar](https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Você Não Vai Parar](https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f) | 5:40 |

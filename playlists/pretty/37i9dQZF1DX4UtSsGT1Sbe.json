@@ -1,15 +1,15 @@
 {
   "description": "The biggest songs of the 1980s. Cover: Madonna",
-  "num_followers": 11690463,
+  "num_followers": 11690981,
   "original_name": "All Out 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKGoTa0FtHwRHPW7m2mafccRkb6W",
+  "snapshot_id": "AAAAANxSC2bBX9ysIApOTwLM7dIBlCob",
   "tracks": [
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Material Girl (2024 Remaster)",
         "url": "https://open.spotify.com/album/0NPwuC9sXsG6FEw7Ml0xWZ"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4tcauy2xyIv1q0ckvQmc4H"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Greatest Vol.1 - Belinda Carlisle",
         "url": "https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Mistaken Identity",
         "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
@@ -57,7 +57,23 @@
       "url": "https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 336666,
+      "name": "Father Figure - Remastered",
+      "url": "https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t"
+    },
+    {
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Songs From The Big Chair (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
@@ -73,23 +89,7 @@
       "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/5E68z4OgQrR446xVOxZKs6"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Faith - Remastered",
-      "url": "https://open.spotify.com/track/0nd1Vs5BIoIU4TJlzR8KVB"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Heart Of Stone",
         "url": "https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK"
@@ -105,7 +105,39 @@
       "url": "https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 278680,
+      "name": "Born in the U.S.A.",
+      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
+    },
+    {
+      "added_at": "2025-10-08 03:25:26",
+      "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 323346,
+      "name": "I'm Coming Out",
+      "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
+    },
+    {
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Hunting High and Low",
         "url": "https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf"
@@ -121,39 +153,7 @@
       "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 295893,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 255493,
-      "name": "Back In Black",
-      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Super Trouper",
         "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
@@ -169,7 +169,39 @@
       "url": "https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
+      "album": {
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 295893,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
+    },
+    {
+      "added_at": "2025-10-08 03:25:26",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 255493,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+    },
+    {
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "The Queen Is Dead",
         "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
@@ -185,7 +217,7 @@
       "url": "https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Sweet Dreams (Are Made Of This)",
         "url": "https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY"
@@ -209,7 +241,7 @@
       "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Agent Provocateur",
         "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
@@ -225,7 +257,7 @@
       "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
@@ -241,7 +273,7 @@
       "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
@@ -257,7 +289,7 @@
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Forever Young",
         "url": "https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs"
@@ -273,7 +305,7 @@
       "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "H2O",
         "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
@@ -289,7 +321,7 @@
       "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Uprising",
         "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
@@ -305,7 +337,7 @@
       "url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
@@ -321,7 +353,7 @@
       "url": "https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
@@ -337,7 +369,7 @@
       "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "An Innocent Man",
         "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
@@ -353,7 +385,7 @@
       "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "The Game (2011 Remaster)",
         "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
@@ -369,7 +401,7 @@
       "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "La Folie",
         "url": "https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx"
@@ -385,7 +417,7 @@
       "url": "https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "The Joshua Tree (Super Deluxe)",
         "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
@@ -401,7 +433,7 @@
       "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "The Best of Sade",
         "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
@@ -417,7 +449,7 @@
       "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
@@ -433,7 +465,7 @@
       "url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Hot Space (2011 Remaster)",
         "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
@@ -453,7 +485,7 @@
       "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Tracy Chapman",
         "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
@@ -469,7 +501,7 @@
       "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Raise!",
         "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
@@ -485,7 +517,7 @@
       "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Off the Wall",
         "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
@@ -501,7 +533,7 @@
       "url": "https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "...But Seriously (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
@@ -517,7 +549,7 @@
       "url": "https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "The Very Best of Bonnie Tyler",
         "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
@@ -533,7 +565,7 @@
       "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
@@ -549,7 +581,7 @@
       "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Combat Rock (Remastered)",
         "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
@@ -565,7 +597,7 @@
       "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Business As Usual",
         "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
@@ -581,7 +613,7 @@
       "url": "https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Let's Talk About Love",
         "url": "https://open.spotify.com/album/1JDlLoZugxdneiaTnGyaKr"
@@ -597,7 +629,7 @@
       "url": "https://open.spotify.com/track/2aEuA8PSqLa17Y4hKPj5rr"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Broadcast",
         "url": "https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1"
@@ -613,7 +645,7 @@
       "url": "https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Face Value (Deluxe Editon)",
         "url": "https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln"
@@ -629,7 +661,7 @@
       "url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Thriller 25 Super Deluxe Edition",
         "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
@@ -645,7 +677,7 @@
       "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Tango In the Night (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
@@ -661,7 +693,7 @@
       "url": "https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Master Of Puppets (Remastered)",
         "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
@@ -677,7 +709,7 @@
       "url": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Bella Donna (2016 Remastered)",
         "url": "https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het"
@@ -693,7 +725,7 @@
       "url": "https://open.spotify.com/track/7L3b6iaVhDVjfo52Hbvh9Z"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "The Singles (Expanded)",
         "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
@@ -709,7 +741,7 @@
       "url": "https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Off the Wall",
         "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
@@ -725,7 +757,7 @@
       "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
@@ -741,7 +773,7 @@
       "url": "https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Non-Stop Erotic Cabaret",
         "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
@@ -757,7 +789,7 @@
       "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Self Control",
         "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
@@ -773,7 +805,7 @@
       "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Storm Front",
         "url": "https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D"
@@ -789,23 +821,7 @@
       "url": "https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
-        "name": "Katrina & The Waves",
-        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
-      },
-      "artists": [
-        {
-          "name": "Katrina & The Waves",
-          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Walking On Sunshine",
-      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Dare!",
         "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
@@ -821,7 +837,23 @@
       "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
+      "album": {
+        "name": "Katrina & The Waves",
+        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
+      },
+      "artists": [
+        {
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Walking On Sunshine",
+      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
+    },
+    {
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "I Love Rock 'N' Roll (Expanded Edition)",
         "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
@@ -837,7 +869,7 @@
       "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "The Age of Consent",
         "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
@@ -853,7 +885,7 @@
       "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
@@ -869,7 +901,7 @@
       "url": "https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "1984 (Remastered)",
         "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
@@ -885,7 +917,7 @@
       "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Repeat Offender",
         "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
@@ -901,7 +933,7 @@
       "url": "https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Tattoo You (2009 Re-Mastered)",
         "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
@@ -917,7 +949,7 @@
       "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "The Final Countdown (Expanded Edition)",
         "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
@@ -933,7 +965,7 @@
       "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
@@ -949,7 +981,7 @@
       "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Rocky IV",
         "url": "https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA"
@@ -965,23 +997,7 @@
       "url": "https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 331200,
-      "name": "Rosanna",
-      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Bad Animals",
         "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
@@ -997,7 +1013,7 @@
       "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "At The Close Of A Century",
         "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
@@ -1013,7 +1029,23 @@
       "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
+      "album": {
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 331200,
+      "name": "Rosanna",
+      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
+    },
+    {
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "9 To 5 And Odd Jobs",
         "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
@@ -1029,7 +1061,7 @@
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
@@ -1045,23 +1077,7 @@
       "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "P.Y.T. (Pretty Young Thing)",
-      "url": "https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Tracy Chapman",
         "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
@@ -1077,7 +1093,23 @@
       "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "P.Y.T. (Pretty Young Thing)",
+      "url": "https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k"
+    },
+    {
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
@@ -1093,7 +1125,7 @@
       "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Hello, I Must Be Going! (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M"
@@ -1109,7 +1141,7 @@
       "url": "https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Kiss Me, Kiss Me, Kiss Me",
         "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
@@ -1125,7 +1157,7 @@
       "url": "https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Sleeping With The Past (Remastered with bonus tracks)",
         "url": "https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r"
@@ -1141,7 +1173,7 @@
       "url": "https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
@@ -1157,7 +1189,7 @@
       "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/5FfkiNcXAvagExRCLd8nn4"
@@ -1173,23 +1205,7 @@
       "url": "https://open.spotify.com/track/5dRQUolXAVX3BbCiIxmSsf"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
-        "name": "The Essential Journey",
-        "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 248906,
-      "name": "Don't Stop Believin'",
-      "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Ghost In The Machine (Remastered 2003)",
         "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
@@ -1205,55 +1221,23 @@
       "url": "https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
-        "name": "Wheels Are Turnin'",
-        "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
+        "name": "The Essential Journey",
+        "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
       },
       "artists": [
         {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 294773,
-      "name": "Can't Fight This Feeling",
-      "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
+      "duration_ms": 248906,
+      "name": "Don't Stop Believin'",
+      "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
-        "name": "Super Trouper",
-        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 252853,
-      "name": "Super Trouper",
-      "url": "https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
-        "name": "Rio (Collector's Edition)",
-        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Hungry Like the Wolf - 2009 Remaster",
-      "url": "https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Ready For Romance",
         "url": "https://open.spotify.com/album/3g5K7IOTOSY6nIfu7lj562"
@@ -1269,23 +1253,39 @@
       "url": "https://open.spotify.com/track/5zWZ9iNevP0397xB3jWV2z"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
-        "name": "Greatest Hits: Huey Lewis And The News",
-        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
+        "name": "Super Trouper",
+        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
       },
       "artists": [
         {
-          "name": "Huey Lewis & The News",
-          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 234333,
-      "name": "The Power Of Love",
-      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
+      "duration_ms": 252853,
+      "name": "Super Trouper",
+      "url": "https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
+      "album": {
+        "name": "Wheels Are Turnin'",
+        "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 294773,
+      "name": "Can't Fight This Feeling",
+      "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
+    },
+    {
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Chicago 17 (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
@@ -1301,7 +1301,39 @@
       "url": "https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
+      "album": {
+        "name": "Greatest Hits: Huey Lewis And The News",
+        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "The Power Of Love",
+      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
+    },
+    {
+      "added_at": "2025-10-08 03:25:26",
+      "album": {
+        "name": "Rio (Collector's Edition)",
+        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Hungry Like the Wolf - 2009 Remaster",
+      "url": "https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL"
+    },
+    {
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Thriller 25 Super Deluxe Edition",
         "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
@@ -1317,7 +1349,7 @@
       "url": "https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Crowded House (Deluxe)",
         "url": "https://open.spotify.com/album/6W8rZvQ97nvTyOj26TRHJJ"
@@ -1333,7 +1365,7 @@
       "url": "https://open.spotify.com/track/56GbZVwxMdf1DENCluYS8A"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Evolution: The Hits",
         "url": "https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4"
@@ -1349,7 +1381,7 @@
       "url": "https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "What a Feelin'",
         "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
@@ -1365,7 +1397,7 @@
       "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "A New Flame (Expanded Version)",
         "url": "https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew"
@@ -1381,7 +1413,7 @@
       "url": "https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "The Works (2011 Remaster)",
         "url": "https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa"
@@ -1397,7 +1429,7 @@
       "url": "https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "True Blue",
         "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
@@ -1413,7 +1445,7 @@
       "url": "https://open.spotify.com/track/6r8k1vznHrzlEKYxL4dZEe"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Diesel And Dust",
         "url": "https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV"
@@ -1429,23 +1461,7 @@
       "url": "https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
-        "name": "Bon Jovi",
-        "url": "https://open.spotify.com/album/1UUOBzIHw0noiRGRpbt3sz"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/0X1sqQ652p1sceKM2nJlIJ"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
@@ -1461,7 +1477,23 @@
       "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
+      "album": {
+        "name": "Bon Jovi",
+        "url": "https://open.spotify.com/album/1UUOBzIHw0noiRGRpbt3sz"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/0X1sqQ652p1sceKM2nJlIJ"
+    },
+    {
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Arthur - The Album [Original Soundtrack]",
         "url": "https://open.spotify.com/album/0QXYfxXpKeLlr3hueenIHB"
@@ -1477,7 +1509,7 @@
       "url": "https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Picture Book (Expanded Version)",
         "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
@@ -1493,7 +1525,7 @@
       "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
@@ -1509,7 +1541,7 @@
       "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Speak and Spell (Deluxe)",
         "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
@@ -1525,7 +1557,7 @@
       "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Secret Dreams and Forbidden Fire",
         "url": "https://open.spotify.com/album/4doea7KA9jw7nkm3IOs0PR"
@@ -1541,23 +1573,7 @@
       "url": "https://open.spotify.com/track/5Hyr47BBGpvOfcykSCcaw9"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 278680,
-      "name": "Born in the U.S.A.",
-      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/243jhZJtyIZtEkrD6vhRLn"
@@ -1573,7 +1589,7 @@
       "url": "https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Kick (Remastered 2011)",
         "url": "https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu"
@@ -1589,23 +1605,7 @@
       "url": "https://open.spotify.com/track/1GjbTNFImFrjFsNdleDe78"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
-        "name": "The Singles 86-98",
-        "url": "https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Enjoy the Silence",
-      "url": "https://open.spotify.com/track/6WK9dVrRABMkUXFLNlgWFh"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "...Nothing Like The Sun",
         "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
@@ -1621,7 +1621,23 @@
       "url": "https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
+      "album": {
+        "name": "The Singles 86-98",
+        "url": "https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Enjoy the Silence",
+      "url": "https://open.spotify.com/track/6WK9dVrRABMkUXFLNlgWFh"
+    },
+    {
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Midnight Love",
         "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
@@ -1637,23 +1653,7 @@
       "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
-        "name": "Trash",
-        "url": "https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 270080,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Solitude / Solitaire",
         "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
@@ -1669,7 +1669,23 @@
       "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
+      "album": {
+        "name": "Trash",
+        "url": "https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 270080,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF"
+    },
+    {
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Hysteria",
         "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
@@ -1685,7 +1701,7 @@
       "url": "https://open.spotify.com/track/2PFIZFcGry0po3ZfRZkzKc"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "I Don't Speak The Language",
         "url": "https://open.spotify.com/album/2coqGqbnSCAy740mClWesA"
@@ -1701,7 +1717,7 @@
       "url": "https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
         "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
@@ -1717,55 +1733,7 @@
       "url": "https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
-        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
-        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "Panama - 2015 Remaster",
-      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
-        "name": "Hatful of Hollow",
-        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 408173,
-      "name": "How Soon Is Now? - 2011 Remaster",
-      "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "The Very Best of Billy Ocean",
         "url": "https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi"
@@ -1781,23 +1749,55 @@
       "url": "https://open.spotify.com/track/4JEylZNW8SbO4zUyfVrpb7"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
-        "name": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
-        "url": "https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA"
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
       },
       "artists": [
         {
-          "name": "Berlin",
-          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 255733,
-      "name": "Take My Breath Away - Love Theme from \"Top Gun\"",
-      "url": "https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY"
+      "duration_ms": 226240,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 210226,
+      "name": "Panama - 2015 Remaster",
+      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
+    },
+    {
+      "added_at": "2025-10-08 03:25:26",
+      "album": {
+        "name": "Hatful of Hollow",
+        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 408173,
+      "name": "How Soon Is Now? - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
+    },
+    {
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "90125 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz"
@@ -1813,7 +1813,23 @@
       "url": "https://open.spotify.com/track/0GTK6TesV108Jj5D3MHsYb"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
+      "album": {
+        "name": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
+        "url": "https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA"
+      },
+      "artists": [
+        {
+          "name": "Berlin",
+          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
+        }
+      ],
+      "duration_ms": 255733,
+      "name": "Take My Breath Away - Love Theme from \"Top Gun\"",
+      "url": "https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY"
+    },
+    {
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum"
@@ -1829,23 +1845,7 @@
       "url": "https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "Jack & Diane",
-      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Combat Rock (Remastered)",
         "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
@@ -1861,7 +1861,23 @@
       "url": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
+      "album": {
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "Jack & Diane",
+      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
+    },
+    {
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "From Time To Time - The Singles Collection",
         "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
@@ -1877,7 +1893,7 @@
       "url": "https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Discography - Complete Singles Collection",
         "url": "https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy"
@@ -1893,7 +1909,7 @@
       "url": "https://open.spotify.com/track/07ABETRdek3ACMpRPvQuaT"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Kick (Remastered 2011)",
         "url": "https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu"
@@ -1909,7 +1925,7 @@
       "url": "https://open.spotify.com/track/3h04eZTnmFLRMjZajbrp2R"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
@@ -1925,23 +1941,7 @@
       "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
-        "name": "Hi Infidelity (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N"
-      },
-      "artists": [
-        {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
-        }
-      ],
-      "duration_ms": 200293,
-      "name": "Keep on Loving You",
-      "url": "https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Like a Prayer",
         "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
@@ -1957,7 +1957,23 @@
       "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
+      "album": {
+        "name": "Hi Infidelity (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 200293,
+      "name": "Keep on Loving You",
+      "url": "https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE"
+    },
+    {
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Never Too Much",
         "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
@@ -1973,7 +1989,7 @@
       "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Dancing On The Ceiling (Expanded Edition)",
         "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
@@ -1989,23 +2005,7 @@
       "url": "https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
-        "name": "Alannah Myles",
-        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
-      },
-      "artists": [
-        {
-          "name": "Alannah Myles",
-          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
-        }
-      ],
-      "duration_ms": 287440,
-      "name": "Black Velvet",
-      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Whitesnake (2018 Remaster)",
         "url": "https://open.spotify.com/album/70uPhkIhXTXM6MNNsMjAHx"
@@ -2021,23 +2021,23 @@
       "url": "https://open.spotify.com/track/3pHpV3pa96s4vuBP7sQq0V"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
-        "name": "So Excited! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS"
+        "name": "Alannah Myles",
+        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
       },
       "artists": [
         {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+          "name": "Alannah Myles",
+          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
         }
       ],
-      "duration_ms": 230640,
-      "name": "I'm So Excited",
-      "url": "https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ"
+      "duration_ms": 287440,
+      "name": "Black Velvet",
+      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Foreign Affair",
         "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
@@ -2053,7 +2053,23 @@
       "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
+      "album": {
+        "name": "So Excited! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 230640,
+      "name": "I'm So Excited",
+      "url": "https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ"
+    },
+    {
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Can't Slow Down",
         "url": "https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T"
@@ -2069,7 +2085,7 @@
       "url": "https://open.spotify.com/track/6HPLeKiNm92RbykX2BDTUB"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Private Eyes (Expanded Edition)",
         "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
@@ -2085,7 +2101,7 @@
       "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5"
@@ -2101,7 +2117,7 @@
       "url": "https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
@@ -2117,7 +2133,7 @@
       "url": "https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "In Square Circle",
         "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
@@ -2133,7 +2149,7 @@
       "url": "https://open.spotify.com/track/0Dm43YLUlGdePpSbI1ct8h"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "No Brakes",
         "url": "https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H"
@@ -2149,7 +2165,7 @@
       "url": "https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Back To Front",
         "url": "https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz"
@@ -2165,7 +2181,7 @@
       "url": "https://open.spotify.com/track/4czNORk5MjW5WOn98bki32"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "A Kind Of Magic (2011 Remaster)",
         "url": "https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn"
@@ -2181,7 +2197,7 @@
       "url": "https://open.spotify.com/track/5RYLa5P4qweEAKq5U1gdcK"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Private Eyes (Expanded Edition)",
         "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
@@ -2197,7 +2213,7 @@
       "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Footloose (15th Anniversary Collectors' Edition)",
         "url": "https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC"
@@ -2213,7 +2229,7 @@
       "url": "https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Zenyatta Mondatta (Remastered 2003)",
         "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
@@ -2229,7 +2245,7 @@
       "url": "https://open.spotify.com/track/5veJDT0MLsLbhYsx42GXUD"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Disintegration (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
@@ -2245,7 +2261,23 @@
       "url": "https://open.spotify.com/track/2mIrfke7vosXAEWfz6ucyo"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
+      "album": {
+        "name": "Pump Up The Jam",
+        "url": "https://open.spotify.com/album/1fqUZTGqbB0o0hIFhCbAg4"
+      },
+      "artists": [
+        {
+          "name": "Technotronic",
+          "url": "https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB"
+        }
+      ],
+      "duration_ms": 320306,
+      "name": "Pump Up The Jam",
+      "url": "https://open.spotify.com/track/21qnJAMtzC6S5SESuqQLEK"
+    },
+    {
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Back To Front",
         "url": "https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz"
@@ -2265,23 +2297,7 @@
       "url": "https://open.spotify.com/track/5iwyLsQ5yjnCaRrJGyAPZM"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
-        "name": "Pump Up The Jam",
-        "url": "https://open.spotify.com/album/1fqUZTGqbB0o0hIFhCbAg4"
-      },
-      "artists": [
-        {
-          "name": "Technotronic",
-          "url": "https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB"
-        }
-      ],
-      "duration_ms": 320306,
-      "name": "Pump Up The Jam",
-      "url": "https://open.spotify.com/track/21qnJAMtzC6S5SESuqQLEK"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Welcome To The Pleasuredome",
         "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
@@ -2297,7 +2313,7 @@
       "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Celebrate!",
         "url": "https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI"
@@ -2313,7 +2329,7 @@
       "url": "https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Cosmic Thing",
         "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
@@ -2329,7 +2345,7 @@
       "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "No Jacket Required (2016 Remaster)",
         "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
@@ -2345,7 +2361,7 @@
       "url": "https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "War (Remastered)",
         "url": "https://open.spotify.com/album/6GaqU0TlYBKHUiSJ0AT9A2"
@@ -2361,23 +2377,7 @@
       "url": "https://open.spotify.com/track/6C4LXC9UFH1IKiHYOp0BiJ"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
-      "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 323346,
-      "name": "I'm Coming Out",
-      "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
-    },
-    {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "True Colors",
         "url": "https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn"
@@ -2393,7 +2393,7 @@
       "url": "https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
         "name": "Love Will Tear Us Apart",
         "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
@@ -2409,20 +2409,20 @@
       "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
     },
     {
-      "added_at": "2025-07-11 11:22:30",
+      "added_at": "2025-10-08 03:25:26",
       "album": {
-        "name": "Welcome To The Real World",
-        "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
+        "name": "Like a Virgin",
+        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
       },
       "artists": [
         {
-          "name": "Mr. Mister",
-          "url": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 343933,
-      "name": "Broken Wings",
-      "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
+      "duration_ms": 218626,
+      "name": "Like a Virgin",
+      "url": "https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ"
     }
   ],
   "unique_name": "All Out 80s",

@@ -1,12 +1,12 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 28020,
+  "num_followers": 28021,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAAC2KSTew79iDuQNytOZfdxG",
+  "snapshot_id": "aORYAAAAAABg0eNKh2yhFlPdmy9W52Mu",
   "tracks": [
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "zer0",
-        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
+        "name": "Ammunition",
+        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 186965,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/1Nd3uXANYEAy9z30IlzIWF"
+      "duration_ms": 195480,
+      "name": "Surrender The Throne",
+      "url": "https://open.spotify.com/track/6609cCUb8ayZkTUvkJ03Rm"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ammunition",
-        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
+        "name": "zer0",
+        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
       },
       "artists": [
         {
@@ -436,25 +436,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 195480,
-      "name": "Surrender The Throne",
-      "url": "https://open.spotify.com/track/6609cCUb8ayZkTUvkJ03Rm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Team",
-        "url": "https://open.spotify.com/album/4egttCfKypFMnO6eE3OT2R"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "Team",
-      "url": "https://open.spotify.com/track/3NRrvr3ctGwpV1wLRjgSSs"
+      "duration_ms": 186965,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/1Nd3uXANYEAy9z30IlzIWF"
     },
     {
       "added_at": null,
@@ -475,6 +459,22 @@
       "duration_ms": 225428,
       "name": "Alarm",
       "url": "https://open.spotify.com/track/6ZRenQ13CN0GaOnuKL9QNQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Team",
+        "url": "https://open.spotify.com/album/4egttCfKypFMnO6eE3OT2R"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 186506,
+      "name": "Team",
+      "url": "https://open.spotify.com/track/3NRrvr3ctGwpV1wLRjgSSs"
     },
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ammunition",
-        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "Diskord",
-          "url": "https://open.spotify.com/artist/3o8BMojuQONFOJ0cJ0qOEc"
-        }
-      ],
-      "duration_ms": 227880,
-      "name": "Beggars",
-      "url": "https://open.spotify.com/track/0UBgJMgfxiIsuL9zfiEuKn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drive: Refueled",
         "url": "https://open.spotify.com/album/40YSOHKAENpcTCFQqlMAc5"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 256941,
       "name": "Lights & Thunder - Darren Styles Remix",
       "url": "https://open.spotify.com/track/7na8xV9Zf1IOQtTFbvbCKO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ammunition",
+        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "Diskord",
+          "url": "https://open.spotify.com/artist/3o8BMojuQONFOJ0cJ0qOEc"
+        }
+      ],
+      "duration_ms": 227880,
+      "name": "Beggars",
+      "url": "https://open.spotify.com/track/0UBgJMgfxiIsuL9zfiEuKn"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play Hard EP",
-        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 253213,
-      "name": "One Minute",
-      "url": "https://open.spotify.com/track/2K54tYOF2c6CBO3ZNhKcmS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Body Never Lies",
         "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 240000,
       "name": "Drive Away",
       "url": "https://open.spotify.com/track/408UEGA6FV2nvQjr1nt1VT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Play Hard EP",
+        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 253213,
+      "name": "One Minute",
+      "url": "https://open.spotify.com/track/2K54tYOF2c6CBO3ZNhKcmS"
     },
     {
       "added_at": null,
@@ -859,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/3HtUie8gwm5iINhBRFmLc4"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/46L9j7CjtctvVNSZTmEJrx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad Liar",
         "url": "https://open.spotify.com/album/2vM48bdBKltEFYUSOEQ8EG"
       },
@@ -891,22 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/3HtUie8gwm5iINhBRFmLc4"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/46L9j7CjtctvVNSZTmEJrx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "zer0",
         "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
       },
@@ -914,27 +914,19 @@
         {
           "name": "Krewella",
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 227539,
-      "name": "zer0",
-      "url": "https://open.spotify.com/track/7nMBN3eKuRfcQGEnzDeNKP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Krewella (Hits Japan Special Edition)",
-        "url": "https://open.spotify.com/album/4K7tFtMLmnx4m55edoHwvT"
-      },
-      "artists": [
+        },
         {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Alaya",
+          "url": "https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG"
         }
       ],
-      "duration_ms": 214453,
-      "name": "Party Monster",
-      "url": "https://open.spotify.com/track/1HUMI5qtdgmXQaaqVzJbjv"
+      "duration_ms": 192697,
+      "name": "Like We",
+      "url": "https://open.spotify.com/track/0A2YRDNyOpVHJ9uBd83OCJ"
     },
     {
       "added_at": null,
@@ -951,6 +943,22 @@
       "duration_ms": 266346,
       "name": "Play Hard",
       "url": "https://open.spotify.com/track/1fXmeYsGbs8Mtp6ozgzB8r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Krewella (Hits Japan Special Edition)",
+        "url": "https://open.spotify.com/album/4K7tFtMLmnx4m55edoHwvT"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 214453,
+      "name": "Party Monster",
+      "url": "https://open.spotify.com/track/1HUMI5qtdgmXQaaqVzJbjv"
     },
     {
       "added_at": null,
@@ -978,19 +986,11 @@
         {
           "name": "Krewella",
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Alaya",
-          "url": "https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG"
         }
       ],
-      "duration_ms": 192697,
-      "name": "Like We",
-      "url": "https://open.spotify.com/track/0A2YRDNyOpVHJ9uBd83OCJ"
+      "duration_ms": 227539,
+      "name": "zer0",
+      "url": "https://open.spotify.com/track/7nMBN3eKuRfcQGEnzDeNKP"
     }
   ],
   "unique_name": "This Is Krewella",

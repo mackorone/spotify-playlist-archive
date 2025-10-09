@@ -1,6 +1,6 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 342486,
+  "num_followers": 342469,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/5ik87NiTm8sIW95DZjJPUk"
+      },
+      "artists": [
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        }
+      ],
+      "duration_ms": 144677,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/2nCIE2AVFQ1adRVkocdGOp"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "Wonderful Life",
         "url": "https://open.spotify.com/album/2Bx9G3XtMsbZRe5TzyYDZd"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 160873,
       "name": "Wonderful Life",
       "url": "https://open.spotify.com/track/08lo8MO2RVzNRGO6da99RQ"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/5ik87NiTm8sIW95DZjJPUk"
-      },
-      "artists": [
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
-        }
-      ],
-      "duration_ms": 144677,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/2nCIE2AVFQ1adRVkocdGOp"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -567,26 +567,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Infinite Icon",
-        "url": "https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx"
-      },
-      "artists": [
-        {
-          "name": "Paris Hilton",
-          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 175666,
-      "name": "BBA (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/2is7SQVl0417fY8Cw56Jkf"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "1001 Arabian Nights",
         "url": "https://open.spotify.com/album/6yGgrWVZENV6IQCCpxZQRI"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 174960,
       "name": "1001 Arabian Nights",
       "url": "https://open.spotify.com/track/3YmiKv5z67ZV8tiW1eNHCM"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "Infinite Icon",
+        "url": "https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx"
+      },
+      "artists": [
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 175666,
+      "name": "BBA (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/2is7SQVl0417fY8Cw56Jkf"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -1187,26 +1187,26 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Shooting Darts (with R3HAB & Prezioso)",
-        "url": "https://open.spotify.com/album/27b3Ufr52LTyphs8s3PEZB"
+        "name": "Raindrops (feat. Jessica Chertock)",
+        "url": "https://open.spotify.com/album/0TXJLXPHhsYpHPAK0s3E1S"
       },
       "artists": [
         {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Stefy De Cicco",
+          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
         },
         {
-          "name": "Prezioso",
-          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+          "name": "Jessica Chertock",
+          "url": "https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h"
         }
       ],
-      "duration_ms": 152903,
-      "name": "Shooting Darts (with R3HAB & Prezioso)",
-      "url": "https://open.spotify.com/track/5yj8QDJ967St7PUG7sFD0n"
+      "duration_ms": 166887,
+      "name": "Raindrops (feat. Jessica Chertock)",
+      "url": "https://open.spotify.com/track/0mBmEZlBoEU7ofwOSYVPcj"
     }
   ],
   "unique_name": "SLAP!",

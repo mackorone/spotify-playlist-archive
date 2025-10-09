@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w1CV3.md) - [plain]
 
 > This is Joy Crookes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,290 likes - 37 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,300 likes - 37 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w1CV3.md) - [plain]
 | 4 | [Brave](https://open.spotify.com/track/288HSFmURcl6yxx4c5tFdr) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 3:54 |
 | 5 | [No Hands](https://open.spotify.com/track/0gZcAOhjbDoLGzCQ0VW2J6) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Perception EP](https://open.spotify.com/album/5UoWl95U6YTsS1N6JyQ7j4) | 2:11 |
 | 6 | [Early](https://open.spotify.com/track/6AcFiVsHvDtat3rmHNK2Nf) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Jafaris](https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg) | [Early](https://open.spotify.com/album/5Q7XISk90DAYHFghAvKYI9) | 3:13 |
-| 7 | [Don't Let Me Down \- Demo](https://open.spotify.com/track/1VwPTHAfPvcL1ZubK6qabL) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Don't Let Me Down \(Demo\)](https://open.spotify.com/album/7GWow8Uxx2X9Moop7GD3KR) | 3:15 |
+| 7 | [Fade Your Heart](https://open.spotify.com/track/6HQcCZwTjqVeFsDha9U6YN) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Fade Your Heart](https://open.spotify.com/album/4bn5znqqxxF8NQwaoef4gY) | 3:34 |
 | 8 | [House With A Pool](https://open.spotify.com/track/08ODWEZTcCWPgqSqXT9a7U) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 3:29 |
-| 9 | [Fade Your Heart](https://open.spotify.com/track/6HQcCZwTjqVeFsDha9U6YN) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Fade Your Heart](https://open.spotify.com/album/4bn5znqqxxF8NQwaoef4gY) | 3:34 |
+| 9 | [Don't Let Me Down \- Demo](https://open.spotify.com/track/1VwPTHAfPvcL1ZubK6qabL) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Don't Let Me Down \(Demo\)](https://open.spotify.com/album/7GWow8Uxx2X9Moop7GD3KR) | 3:15 |
 | 10 | [Mother May I Sleep With Danger?](https://open.spotify.com/track/6rZtlYru44l92npSBTbUN7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:27 |
 | 11 | [Yah / Element \- Medley](https://open.spotify.com/track/4ZE50Luqd1emzOeJ2DjzYn) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Yah / Element \(Medley\)](https://open.spotify.com/album/6Ys13vgiUDDJ7Rw8g9h0Yw) | 2:56 |
 | 12 | [Forever](https://open.spotify.com/track/64WrQvHvGsS9TFjSjcl4qI) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 3:17 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w1CV3.md) - [plain]
 | 25 | [Darkest Hour](https://open.spotify.com/track/44gBofMgplbG0f1XQwTraO) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Perception EP](https://open.spotify.com/album/5UoWl95U6YTsS1N6JyQ7j4) | 3:36 |
 | 26 | [Man's World](https://open.spotify.com/track/59oGmgXiWsC4BSkskZ1uhV) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Reminiscence EP](https://open.spotify.com/album/6fACkmxRXI0jzKkdvrTGeV) | 3:42 |
 | 27 | [Skin](https://open.spotify.com/track/7k8b5u5fisGTDNahrJK6dw) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 2:58 |
-| 28 | [HOW I'VE BEEN \(feat\. Joy Crookes, JNR Williams, Loyle Carner & Kojey Radical\)](https://open.spotify.com/track/0WfENrbos3cdD4TZaT4tEk) | [Swindle](https://open.spotify.com/artist/1gH9xoeNySnEkCtR2kbPiQ), [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [JNR WILLIAMS](https://open.spotify.com/artist/7GZfE8P3kSPhhzq854OMxk), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [THE NEW WORLD](https://open.spotify.com/album/7mNF4Ef0UZpZyOc9NTOmx1) | 5:09 |
-| 29 | [Sinatra](https://open.spotify.com/track/7B7oncgJZ6AvkmKg6IZwpE) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:03 |
+| 28 | [Sinatra](https://open.spotify.com/track/7B7oncgJZ6AvkmKg6IZwpE) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:03 |
+| 29 | [HOW I'VE BEEN \(feat\. Joy Crookes, JNR Williams, Loyle Carner & Kojey Radical\)](https://open.spotify.com/track/0WfENrbos3cdD4TZaT4tEk) | [Swindle](https://open.spotify.com/artist/1gH9xoeNySnEkCtR2kbPiQ), [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [JNR WILLIAMS](https://open.spotify.com/artist/7GZfE8P3kSPhhzq854OMxk), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [THE NEW WORLD](https://open.spotify.com/album/7mNF4Ef0UZpZyOc9NTOmx1) | 5:09 |
 | 30 | [For a Minute \(feat\. KarimThaPeasant\)](https://open.spotify.com/track/4JSlPG9DkRuhyXNdLxhI5a) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [KarimThaPeasant](https://open.spotify.com/artist/1tDOv0KCi6XAF3aXsn559F) | [Reminiscence EP](https://open.spotify.com/album/6fACkmxRXI0jzKkdvrTGeV) | 3:12 |
 | 31 | [Wild Jasmine](https://open.spotify.com/track/02AtJRkWiLd5rl0oFjSxhR) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:35 |
 | 32 | [Since I Left You \- Demo](https://open.spotify.com/track/1W5ZEYctMAWShvwKEPNbbu) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Since I Left You \(Demo\)](https://open.spotify.com/album/7Mz7zqY2K51W7tyKl2G7rv) | 3:27 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w1CV3.md) - [plain]
 | 36 | [New Manhattan](https://open.spotify.com/track/6B0VAfh8UCCEMNvgmGYEGX) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:11 |
 | 37 | [Strength \(R U Ready\) \[feat\. Joy Crookes\]](https://open.spotify.com/track/1sVWTkfmfSjcip9unXt1Wz) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Godspeed](https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE) | 3:21 |
 
-Snapshot ID: `aOMGgAAAAAByiaQqcaKdgFvCh+Xl5I8Z`
+Snapshot ID: `aORYAAAAAACEGbr0giimtlAuRLqLwYRn`

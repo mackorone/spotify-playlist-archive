@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent writing their own songs\. Cover: Hohnen Ford
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,222 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,217 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 24 | [Powerful](https://open.spotify.com/track/7qkxE2CKWhccItjbGmMrs7) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [Powerful](https://open.spotify.com/album/65UihlYgSsnfbvph1lZmdx) | 3:53 |
 | 25 | [Rot](https://open.spotify.com/track/0aJGy2MSYASu0LMValJyyZ) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Ramona](https://open.spotify.com/album/2HCGmvj96bD2W37182wvlR) | 3:12 |
 | 26 | [First And Last](https://open.spotify.com/track/031LyFUhBoUHMZfCIZNQns) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [First And Last](https://open.spotify.com/album/6FPWvl23Upnc7vj5Sh0J2N) | 2:58 |
-| 27 | [Bellissima](https://open.spotify.com/track/2qiphiZkWC6GFKNOcrr7ch) | [hey leah!](https://open.spotify.com/artist/22WzI5wu1WLN8jKMV7JoF0) | [Bellissima](https://open.spotify.com/album/5ZkbyQwPO1V1flVJMSKmQx) | 4:07 |
+| 27 | [Bellissima](https://open.spotify.com/track/2qiphiZkWC6GFKNOcrr7ch) | [hey leah!](https://open.spotify.com/artist/3hbD9w1UqE6s1EsnwJ2j1J) | [Bellissima](https://open.spotify.com/album/5ZkbyQwPO1V1flVJMSKmQx) | 4:07 |
 | 28 | [Barking Dogs](https://open.spotify.com/track/074ptgez3Foa94ZlXCaEbn) | [Tele](https://open.spotify.com/artist/09mubTbWhCfwxtVDtlRFDa) | [Barking Dogs](https://open.spotify.com/album/1lUS8JfHuyOdIXhbh60S0J) | 3:08 |
 | 29 | [Mean Something](https://open.spotify.com/track/6xJAJMCtecFOlbfXsmdAeo) | [Filiah](https://open.spotify.com/artist/7eDeCweG3x20jhQvvbUkjl) | [Mean Something](https://open.spotify.com/album/2KmHL9ePVBaO705xrHr1Mr) | 4:04 |
 | 30 | [Simple Math](https://open.spotify.com/track/2h3tXKnvbRSCpQvPoOcUbs) | [Emma Andersen](https://open.spotify.com/artist/3RR7Sxoi6uXq4Y8PDEPR4v) | [Simple Math](https://open.spotify.com/album/7C6hAezi8iPxhossZyBeO5) | 2:24 |

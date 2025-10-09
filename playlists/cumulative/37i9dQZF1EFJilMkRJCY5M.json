@@ -555,6 +555,24 @@
     },
     {
       "album": {
+        "name": "Down the Road",
+        "url": "https://open.spotify.com/album/37NrH7ebRvtVLKqcUhvPCn"
+      },
+      "artists": [
+        {
+          "name": "Tiera Kennedy",
+          "url": "https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193223,
+      "name": "Down the Road",
+      "url": "https://open.spotify.com/track/2RaRWh3h6F08UmDVf2LVlm"
+    },
+    {
+      "album": {
         "name": "Easy for You to Say",
         "url": "https://open.spotify.com/album/57359rsxD8n5crU2jNz7tP"
       },
@@ -1594,6 +1612,24 @@
       "duration_ms": 139625,
       "name": "Love's Contagious",
       "url": "https://open.spotify.com/track/0UjBGfWrjApND3MKR6winT"
+    },
+    {
+      "album": {
+        "name": "Introducing...Lamont Landers",
+        "url": "https://open.spotify.com/album/01r0m4CYWjCtRicKyencpQ"
+      },
+      "artists": [
+        {
+          "name": "Lamont Landers",
+          "url": "https://open.spotify.com/artist/3avnA23xLmCYfnsivruOgq"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219645,
+      "name": "Love's Got The Best Of Us",
+      "url": "https://open.spotify.com/track/2uyecknCyzHBEzLvnNIx8L"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Sofiya Nzau, Madism
 
-4,688 songs - 9 day 7 hr 1 min
+4,689 songs - 9 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2636,6 +2636,7 @@
 | [materiaL hor$e](https://open.spotify.com/track/4OMRT2wSbKKZHRQjuJmV0q) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [v.i.p\. \- very important pony](https://open.spotify.com/album/1L374HBhsqVNxaEI5RVdiL) | 1:34 | 2025-01-24 | 2025-01-31 |
 | [MATTRESS](https://open.spotify.com/track/63hckq0IAm6VXlQsDae1cs) | [MCYL](https://open.spotify.com/artist/7zlHS8g9lQlu3aHWNe4Pfr) | [MATTRESS](https://open.spotify.com/album/1akJgtaYx2h10XFy4kbfNy) | 3:17 | 2025-05-22 | 2025-05-30 |
 | [Mayana](https://open.spotify.com/track/46fdi4VtT9vhfNsw7NGBNX) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Mayana](https://open.spotify.com/album/7jX7fxxYewIXCfqIyz4bSy) | 3:32 | 2025-07-17 | 2025-08-01 |
+| [Maybe](https://open.spotify.com/track/4tPN1Ceb7aG0yrayUrT7hA) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Maybe](https://open.spotify.com/album/3B2ulueLSOIRwB00GGJLyB) | 3:26 | 2025-10-08 |  |
 | [Maybe](https://open.spotify.com/track/6Hl0P7o00Hmqjdf1X0W9rw) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [GRAHAM](https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G) | [Maybe](https://open.spotify.com/album/6URXDFFdBVEQUA7eCLfHVo) | 2:50 | 2024-04-18 | 2024-04-26 |
 | [Mañana](https://open.spotify.com/track/2GwrfP4wTVFfOQZkIglL2f) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Mañana](https://open.spotify.com/album/2PrJo8IUAv7fEkesPqfIB4) | 2:48 | 2023-11-09 | 2023-12-09 |
 | [ME](https://open.spotify.com/track/7dyJugljupi044oQfkrzlc) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [ME](https://open.spotify.com/album/2ABIweWTmeRmUBc73DNiqq) | 3:34 | 2024-01-18 | 2024-02-02 |

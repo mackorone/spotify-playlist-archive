@@ -4,7 +4,7 @@
 
 > 
 
-2,564 songs - 5 day 13 hr 49 min
+2,565 songs - 5 day 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1148,6 +1148,7 @@
 | [I Want It](https://open.spotify.com/track/7bYZ3jV3q1PkHhzGNEinQZ) | [Guiberz](https://open.spotify.com/artist/5foXMuzBwyazFvEVJqUcq4), [Dark Individual](https://open.spotify.com/artist/7bv5tvdTZlKCbsgMzOVC5i) | [I Want It](https://open.spotify.com/album/5ZUZXlldwhd7lVJompJOkW) | 2:55 | 2025-01-18 |  |
 | [I Was On Pills](https://open.spotify.com/track/0LDbDL0J1FzUJHTpuXRPSj) | [Tharken](https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB) | [Hardcore Top 100 \- 2022](https://open.spotify.com/album/4Ersy0iDqv2ZCknpTlWaWB) | 3:27 | 2022-08-23 |  |
 | [I'm A Raver](https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [I'm A Raver](https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu) | 3:25 | 2023-01-29 |  |
+| [I'm A Raver \- Radio Edit](https://open.spotify.com/track/23D02ZAcBctZhXlgWDJYZf) | [Lipstick](https://open.spotify.com/artist/6yFSf0kqoIfccerGgemPRx) | [I'm A Raver](https://open.spotify.com/album/0KPXMM3JaRFSygJSUJgjf2) | 3:46 | 2025-10-08 |  |
 | [I'm flying](https://open.spotify.com/track/5tKMQbr0oTbHkoMjcxhjux) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [Guizcore](https://open.spotify.com/artist/3Qg431RgaQNEOJVJY4vSaL) | [Heavy Energy](https://open.spotify.com/album/5BFasmiQB7KcSrvYAo9Y2s) | 3:06 | 2024-09-07 |  |
 | [I'm Good \(Blue\) \- Nightcore Version Mix](https://open.spotify.com/track/3o7TvmIufDcRQOJp3L3lA3) | [Nightcore Nation](https://open.spotify.com/artist/53v1ftxe2rTpIm8bluID7J), [DJ Satomi](https://open.spotify.com/artist/7MlcYSTwlLeOtBMDJ6WOv5), [KLIO](https://open.spotify.com/artist/7IGMJ3A8I6Sa2GlJ8qprcz) | [NIGHTCORE SPRING 2023](https://open.spotify.com/album/6eWvgpF5JS3jKRUwFxsQ6A) | 2:09 | 2023-03-18 |  |
 | [I'm So Fly](https://open.spotify.com/track/3Dj204MXaXS4Z1FUVhZMhc) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [Rave](https://open.spotify.com/album/5QVRiuBgvwZNf8n8TjTBMe) | 2:30 | 2024-03-14 |  |

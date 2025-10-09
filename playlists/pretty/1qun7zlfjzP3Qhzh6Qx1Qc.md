@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 
 ### [Country Smash Hits](https://open.spotify.com/playlist/1qun7zlfjzP3Qhzh6Qx1Qc)
 
-> All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs.
+> All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Sacha.
 
 [Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,457 likes - 101 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Days Like These](https://open.spotify.com/track/5E2y5TSb2RJNCO01QjkgLf) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Prequel](https://open.spotify.com/album/40xQAz7RDjeznOtTYeEMLs) | 3:41 |
-| 2 | [Shooting Star \(with Restless Road\)](https://open.spotify.com/track/1oHguc7We32lsbkTqHIbaI) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u), [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Woman In The Mirror](https://open.spotify.com/album/0A3QpA8kHi8QrInv4RYEPu) | 3:05 |
+| 1 | [Shooting Star \(with Restless Road\)](https://open.spotify.com/track/1oHguc7We32lsbkTqHIbaI) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u), [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Woman In The Mirror](https://open.spotify.com/album/0A3QpA8kHi8QrInv4RYEPu) | 3:05 |
+| 2 | [Days Like These](https://open.spotify.com/track/5E2y5TSb2RJNCO01QjkgLf) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Prequel](https://open.spotify.com/album/40xQAz7RDjeznOtTYeEMLs) | 3:41 |
 | 3 | [Late Great Heartbreak](https://open.spotify.com/track/2RMnh3vwM4SylRrWgacyEp) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Late Great Heartbreak](https://open.spotify.com/album/7EK72V1AIviuzHIaUdHsze) | 3:36 |
 | 4 | [Man I Used To Be](https://open.spotify.com/track/1v6KfzL3Tw4jt6eYM9l0Fk) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [Man I Used To Be](https://open.spotify.com/album/1JRlcIAIqs791vfpuu0Zbu) | 3:51 |
 | 5 | [Coming Home Tomorrow](https://open.spotify.com/track/3qtZ23iLx4dCH5YeNVE7Fq) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Coming Home Tomorrow](https://open.spotify.com/album/6EG01vE9twDFn3sJIwnScO) | 2:32 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 | 100 | [Suffer](https://open.spotify.com/track/6rdmfJzj1gEwq6O4Pu3Oxt) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Suffer](https://open.spotify.com/album/6doT0BXncTKBITEIohrHDV) | 3:23 |
 | 101 | [Sweet Talker \- Version Française](https://open.spotify.com/track/5x7fI2EKuIsVOgoXs1V0yq) | [Erika Rollin](https://open.spotify.com/artist/4M6I1B9lXtqtA5cyyxH6yU) | [Sweet Talker \(Version Française\)](https://open.spotify.com/album/2xGJTdTqNz2qgFu6hQyJmq) | 3:10 |
 
-Snapshot ID: `AAANTG8OTwh550YMQddva3SPEcMoY+GP`
+Snapshot ID: `AAANTgPBMb6Q79yuuRdjgu5NvWv8zOb1`

@@ -4,7 +4,7 @@
 
 > Unique covers by your favorite country artists\. Cover: Brooks & Dunn
 
-430 songs - 1 day 2 hr 51 min
+431 songs - 1 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,7 @@
 | [Nobody Knows](https://open.spotify.com/track/7kty8TspGq6DFI7LP91Kfh) | [Rayne Johnson](https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt) | [Nobody Knows](https://open.spotify.com/album/5HneOaxBGbFAwZR1tvLImP) | 3:43 | 2022-03-25 | 2022-10-04 |
 | [Not Over You \(feat\. Gavin DeGraw\) \(feat\. Gavin DeGraw\)](https://open.spotify.com/track/0IiB5z6d30qELn5yTe2wjM) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG), [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Slow Me Down](https://open.spotify.com/album/78bfZn6WFHAwutuhbD36sD) | 3:52 | 2021-12-10 | 2022-07-27 |
 | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2) | 3:38 | 2025-02-07 |  |
-| [Nothing Else Matters](https://open.spotify.com/track/08QgUCPjEW1JnXRwVuzRVw) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Nothing Else Matters](https://open.spotify.com/album/6poT82LErL1xylnfgoVNqQ) | 8:14 | 2021-12-10 |  |
+| [Nothing Else Matters](https://open.spotify.com/track/08QgUCPjEW1JnXRwVuzRVw) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Nothing Else Matters](https://open.spotify.com/album/6poT82LErL1xylnfgoVNqQ) | 8:14 | 2021-12-10 | 2025-10-09 |
 | [Nothing Else Matters](https://open.spotify.com/track/2diAXaP8GEWHa6ORPctFnh) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Nothing Else Matters](https://open.spotify.com/album/2ri6eDQYCQtoCJH6O4IBFg) | 8:14 | 2022-07-08 | 2024-04-19 |
 | [Nothing Else Matters](https://open.spotify.com/track/4I33cAPZnrDBGIO9lSr3H7) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [The Metallica Blacklist](https://open.spotify.com/album/7N32mF0BlA3BOhlSyCiHgf) | 6:52 | 2021-12-10 | 2022-07-29 |
 | [On and On](https://open.spotify.com/track/7AiZcV5BSDVxNjW3kKNvsv) | [Chuck Wicks](https://open.spotify.com/artist/696fbyLHSMBSYjDrDU5yiK), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [On and On](https://open.spotify.com/album/2o6drPabKBPi6Gx8A9qqxX) | 3:01 | 2021-12-10 | 2022-07-18 |
@@ -357,6 +357,7 @@
 | [That Don't Impress Me Much](https://open.spotify.com/track/4v6BXBhnnoZCt98isXXn7E) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [That Don't Impress Me Much](https://open.spotify.com/album/1R9I6UElCljKrZKdK2sG6V) | 3:14 | 2023-05-05 | 2023-09-23 |
 | [That's the Way Love Goes](https://open.spotify.com/track/20ZTVyGNlRnmCS1LlRMvEr) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Re\-Dunn](https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo) | 3:02 | 2021-12-10 | 2022-07-29 |
 | [The Bottle Let Me Down](https://open.spotify.com/track/7iAPw5fKsiuwaPappNUpX2) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Rancho Fiesta Sessions](https://open.spotify.com/album/01AWRFHGz9ioWiPcFgqGrv) | 2:45 | 2021-12-10 | 2022-07-28 |
+| [The Chair](https://open.spotify.com/track/5i74TSFhkAla3RRMiE7vuQ) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [The Chair](https://open.spotify.com/album/6r8XKL8A1fARjiXxcSifNm) | 2:50 | 2025-10-08 |  |
 | [The Chair \- The Bootlegger Sessions](https://open.spotify.com/track/10KMzf7sHmbxdEBGOXeyfn) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [The Chair \(The Bootlegger Sessions\)](https://open.spotify.com/album/35sGt91imrj8GqU6E7EV3v) | 2:46 | 2022-09-16 | 2022-09-26 |
 | [The Cowboy Rides Away](https://open.spotify.com/track/4BmTdSr3xoKElUVPJZRdiH) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Re\-Dunn](https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo) | 3:24 | 2021-12-10 | 2023-01-20 |
 | [The Devil Went Down to Georgia \- Remastered](https://open.spotify.com/track/6E7l20drqpZjMTqY5w3G8f) | [Calamity Jane](https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL) | [The Devil Went Down to Georgia \- Remastered](https://open.spotify.com/album/79xtbCxVx1XB1YM5Ocr8gC) | 4:19 | 2023-08-11 | 2023-11-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Taylor Swift, Emma, Sarah Toscano, Kali Uchis, Francesca Michielin, Venerus e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,141 likes - 85 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,144 likes - 85 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

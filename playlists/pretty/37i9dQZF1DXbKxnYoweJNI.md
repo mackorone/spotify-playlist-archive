@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: deca joins
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,894 likes - 134 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,891 likes - 134 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 46 | [Take my hand](https://open.spotify.com/track/3fqBeDJsAq6AyTxfQwvyPf) | [TAP](https://open.spotify.com/artist/2bFl5zD7uP885xh9u3fs7J) | [Take my hand](https://open.spotify.com/album/0fxDtriVjQbVRTWJLmiEES) | 3:43 |
 | 47 | [帶你到我的懷裡 \- Acoustic](https://open.spotify.com/track/3yzsXrTbKnodgcDt9BOwdv) | [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB) | [帶你到我的懷裡 \(Acoustic\)](https://open.spotify.com/album/526pi5GnqL5ipXG4zoKJof) | 2:02 |
 | 48 | [你呢](https://open.spotify.com/track/3oI7Q2VFMUf8YOigTEJusn) | [Mixer](https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv) | [你呢](https://open.spotify.com/album/3SB3PzA91Jlvh6xpFSneKX) | 4:25 |
-| 49 | [中場時間](https://open.spotify.com/track/4v1GR1RuzxEVD6TBBn27Qe) | [Rock 李振玮](https://open.spotify.com/artist/13AzRtwQuMBRTGfPHoL35t) | [中場時間](https://open.spotify.com/album/7nUxeIP4UkQriGwR4TcJCs) | 3:42 |
+| 49 | [中場時間](https://open.spotify.com/track/4v1GR1RuzxEVD6TBBn27Qe) | [Rock 李振瑋](https://open.spotify.com/artist/13AzRtwQuMBRTGfPHoL35t) | [中場時間](https://open.spotify.com/album/7nUxeIP4UkQriGwR4TcJCs) | 3:42 |
 | 50 | [With me , Okay? \- Demo](https://open.spotify.com/track/7rIs9KfxhDuHTVw1JXKVxf) | [aaro](https://open.spotify.com/artist/2pGN49cfieiYONWLglN489) | [59% Vol.1](https://open.spotify.com/album/3mlEnturbq0HPIdKtp1CqU) | 3:27 |
 | 51 | [做我的初戀 \(純愛不插電\)](https://open.spotify.com/track/0QTVDDZFhLRyFKqgmphkms) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv) | [做我的初戀（純愛不插電）](https://open.spotify.com/album/6c7wFSp80wogFSImEgRSK5) | 3:17 |
 | 52 | [擱淺](https://open.spotify.com/track/11A1awCbfjOc1tM4ngU6cb) | [BK](https://open.spotify.com/artist/6oUenG9cEPeZ4QYHXZGeFN) | [擱淺](https://open.spotify.com/album/36xMoHYCIpljalqsdEaIKq) | 3:34 |

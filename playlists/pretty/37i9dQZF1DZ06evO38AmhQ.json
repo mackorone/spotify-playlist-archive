@@ -1,12 +1,12 @@
 {
   "description": "This is John Williamson. The essential tracks, all in one playlist.",
-  "num_followers": 21973,
+  "num_followers": 21975,
   "original_name": "This Is John Williamson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAAAXw0i7Y8byy3jOi5o6glnV",
+  "snapshot_id": "aORYAAAAAAAEc8R8LKi8yetEjcK57sKt",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "J.W.'s Family Album",
+        "url": "https://open.spotify.com/album/2N3uKW1fQpsk7R33wHXsaC"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 210253,
+      "name": "Goodbye Blinky Bill",
+      "url": "https://open.spotify.com/track/1ec2wAxjnu7cr5WHqPHJTD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 170173,
       "name": "A Thousand Feet (with Warren H. Williams)",
       "url": "https://open.spotify.com/track/6BrNnnYSe3a0xSRe9nxiqo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "J.W.'s Family Album",
-        "url": "https://open.spotify.com/album/2N3uKW1fQpsk7R33wHXsaC"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 210253,
-      "name": "Goodbye Blinky Bill",
-      "url": "https://open.spotify.com/track/1ec2wAxjnu7cr5WHqPHJTD"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Way It Is",
-        "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "Campfire on the Road",
-      "url": "https://open.spotify.com/track/2fEPIWh5HFnatSwBpHzKBl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Man Emu",
         "url": "https://open.spotify.com/album/39Uimqur7UcRay3BIZbj0b"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 222840,
       "name": "Diggers of the Anzac (This Is Gallipoli)",
       "url": "https://open.spotify.com/track/3la6OrVG3kkgZfnA9zb4nV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waratah St.",
+        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "A Flag of Our Own",
+      "url": "https://open.spotify.com/track/6dcUIKxlQKjRphBrBQo85f"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waratah St.",
-        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 210133,
-      "name": "A Flag of Our Own",
-      "url": "https://open.spotify.com/track/6dcUIKxlQKjRphBrBQo85f"
+      "duration_ms": 215293,
+      "name": "Campfire on the Road",
+      "url": "https://open.spotify.com/track/2fEPIWh5HFnatSwBpHzKBl"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hillbilly Road",
-        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "Hillbilly Road",
-      "url": "https://open.spotify.com/track/70Mqf5i7Rdo8uw2r6UfsaO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Hell of a Career",
         "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 208560,
       "name": "Hawkesbury River Lovin'",
       "url": "https://open.spotify.com/track/6Lemvl39DNczbvLt7BIymQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hillbilly Road",
+        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Hillbilly Road",
+      "url": "https://open.spotify.com/track/70Mqf5i7Rdo8uw2r6UfsaO"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Many Songs",
-        "url": "https://open.spotify.com/album/4cptc9RVwUSQ4UgoBqIzAI"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 159786,
-      "name": "If You Wanna Be An Aussie",
-      "url": "https://open.spotify.com/track/0t2JQxdUJi1BksoQw5xfA5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mates on the Road",
         "url": "https://open.spotify.com/album/3sm8lCfuVRcVbrYd2Zorqr"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 71520,
       "name": "Chain Around My Ankle",
       "url": "https://open.spotify.com/track/5hT7oCaw5v0IU69MesPfnA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Many Songs",
+        "url": "https://open.spotify.com/album/4cptc9RVwUSQ4UgoBqIzAI"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 159786,
+      "name": "If You Wanna Be An Aussie",
+      "url": "https://open.spotify.com/track/0t2JQxdUJi1BksoQw5xfA5"
     },
     {
       "added_at": null,

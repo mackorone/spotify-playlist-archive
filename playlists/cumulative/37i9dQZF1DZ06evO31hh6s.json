@@ -441,6 +441,28 @@
     },
     {
       "album": {
+        "name": "Purpose",
+        "url": "https://open.spotify.com/album/0LoLLKMlLm2nO0lcSVJWp8"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Deuce Deuce",
+          "url": "https://open.spotify.com/artist/076I9mh0LL6igSU0alHNzF"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232622,
+      "name": "Dance In The Flames",
+      "url": "https://open.spotify.com/track/6pE9MTpAKQ4nkV5ASQHAmi"
+    },
+    {
+      "album": {
         "name": "Powerful",
         "url": "https://open.spotify.com/album/7v8HPizfZaODPkaE9kVaPG"
       },
@@ -452,7 +474,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-07",
+      "date_removed": null,
       "duration_ms": 205635,
       "name": "Do It from the Heart",
       "url": "https://open.spotify.com/track/3F9UxYNAZtIInL33MlozvT"
@@ -832,7 +854,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 253500,
       "name": "HEAL (feat. Audrey A)",
       "url": "https://open.spotify.com/track/5pqoEUIYMUO2eVcBzq1cEx"
@@ -1406,7 +1428,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 180705,
       "name": "PAC ENERGY",
       "url": "https://open.spotify.com/track/2F0Qd8nw6Se27I24tz5ZHo"
@@ -1716,7 +1738,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 183529,
       "name": "Something in My Soul",
       "url": "https://open.spotify.com/track/64jsINMp0yZOBqKWR7IHqm"
@@ -2138,7 +2160,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-02",
+      "date_removed": null,
       "duration_ms": 196053,
       "name": "What You Know About It",
       "url": "https://open.spotify.com/track/7ySbBN60guFfB45DiqMcsB"

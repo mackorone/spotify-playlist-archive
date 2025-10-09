@@ -31133,6 +31133,24 @@
     },
     {
       "album": {
+        "name": "\u5915\u65e5",
+        "url": "https://open.spotify.com/album/43ap3DY2HKTUQ8qIUAT0ik"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6 \u5bc2",
+          "url": "https://open.spotify.com/artist/3XJ7WCAaSoiqWePVw9qZdL"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209600,
+      "name": "\u5915\u65e5",
+      "url": "https://open.spotify.com/track/76jsGuWtNMd3p9HBPvolIg"
+    },
+    {
+      "album": {
         "name": "\u5915\u7acb\u3061",
         "url": "https://open.spotify.com/album/7eyDBtMztkyYnyy99UdHiz"
       },

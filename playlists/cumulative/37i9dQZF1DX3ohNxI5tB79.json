@@ -2622,7 +2622,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 247895,
       "name": "I Feel the Same",
       "url": "https://open.spotify.com/track/3g5USVPXT64avOIty1eJEO"
@@ -4410,7 +4410,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 164493,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW"
@@ -6535,6 +6535,28 @@
     },
     {
       "album": {
+        "name": "Wrapped in the Weight - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/33k1zDMo4BhqaVFxiJP0yq"
+      },
+      "artists": [
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259586,
+      "name": "Wrapped in the Weight - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6KCtRNu75DNvDgrFMYlEqO"
+    },
+    {
+      "album": {
         "name": "L.A.B IV",
         "url": "https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1"
       },
@@ -6712,6 +6734,24 @@
       "duration_ms": 273138,
       "name": "You\u2019ve Got A Hard Head",
       "url": "https://open.spotify.com/track/0A9CYocZJ8JZc3erLTyzuh"
+    },
+    {
+      "album": {
+        "name": "Mulatu Plays Mulatu",
+        "url": "https://open.spotify.com/album/7p6BngLDdLeAeY38yptAjc"
+      },
+      "artists": [
+        {
+          "name": "Mulatu Astatke",
+          "url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483946,
+      "name": "Y\u00e8k\u00e8rmo S\u00e8w",
+      "url": "https://open.spotify.com/track/0oFChZRso5GydtIoSCv9Kz"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3ohNxI5tB79"

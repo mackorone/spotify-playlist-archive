@@ -1,12 +1,12 @@
 {
   "description": "This is Vicente Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 1100463,
+  "num_followers": 1100547,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAAB1uYznEyT7hHO24erKzqmv",
+  "snapshot_id": "aORYAAAAAABNqWsul68WGODUH5+KcsJO",
   "tracks": [
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tahur",
-        "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 186973,
-      "name": "El Tah\u00far",
-      "url": "https://open.spotify.com/track/1rxJGkbviNNz9UKWHXUJhg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Pesar De Todo",
         "url": "https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 203306,
       "name": "Miraron Llorar a un Hombre",
       "url": "https://open.spotify.com/track/2FkpqyehpuEhvkEMsOEg69"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tahur",
+        "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 186973,
+      "name": "El Tah\u00far",
+      "url": "https://open.spotify.com/track/1rxJGkbviNNz9UKWHXUJhg"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [PARTYNEXTDOOR Radio](https://open.spotify.com/playlist/37i9dQZF1E4sPTJXAlqbkG)
 
-> With Drake, Sonder, Miguel and more
+> With Drake, Sonder, Frank Ocean and more
 
 691 songs - 1 day 15 hr 16 min
 

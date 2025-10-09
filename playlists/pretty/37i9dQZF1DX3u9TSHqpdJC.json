@@ -1,29 +1,13 @@
 {
-  "description": "The best new pop music from new, independent artists.  Cover: Izzy Escobar. Artwork by Paola Saliby",
-  "num_followers": 230334,
+  "description": "The best new pop music from new, independent artists.  Cover: panicbaby. Artwork by Paola Saliby",
+  "num_followers": 230338,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE4Gm6d/ay9q4fkUMwdNZhcXm0ZL",
+  "snapshot_id": "AAAAANb2DsJcEt7rKlYAJCnaDqXP1dUe",
   "tracks": [
-    {
-      "added_at": "2025-10-01 12:14:18",
-      "album": {
-        "name": "Vendetta",
-        "url": "https://open.spotify.com/album/76EhQqKoadyMKQSo8Nls89"
-      },
-      "artists": [
-        {
-          "name": "Izzy Escobar",
-          "url": "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO"
-        }
-      ],
-      "duration_ms": 187994,
-      "name": "Vendetta",
-      "url": "https://open.spotify.com/track/5TNyJaau0GUrcdsbq4UqfJ"
-    },
     {
       "added_at": "2025-10-01 12:14:18",
       "album": {
@@ -39,6 +23,38 @@
       "duration_ms": 140518,
       "name": "other boys are boring",
       "url": "https://open.spotify.com/track/4GBZaVt4WS0OpK4WERsFZ3"
+    },
+    {
+      "added_at": "2025-10-08 04:00:14",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/76xxR4qL7NneahIJKzjapk"
+      },
+      "artists": [
+        {
+          "name": "Matilda Rowe",
+          "url": "https://open.spotify.com/artist/7kXzb6D2RxF6KjfmValKlV"
+        }
+      ],
+      "duration_ms": 371591,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/64TzwGjTpMwofrTDvfDcds"
+    },
+    {
+      "added_at": "2025-10-08 04:00:14",
+      "album": {
+        "name": "Incurable Optimist",
+        "url": "https://open.spotify.com/album/1Aq9I9rA3kOyrrLJaoY5um"
+      },
+      "artists": [
+        {
+          "name": "Hohnen Ford",
+          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
+        }
+      ],
+      "duration_ms": 200964,
+      "name": "Tomorrow's Tomorrow",
+      "url": "https://open.spotify.com/track/7LajHAuV0nHMFvFGsU1FAU"
     },
     {
       "added_at": "2025-10-01 12:14:18",
@@ -57,6 +73,54 @@
       "url": "https://open.spotify.com/track/2iTzELWA8TjPb519KtNRFj"
     },
     {
+      "added_at": "2025-10-01 12:14:18",
+      "album": {
+        "name": "Vendetta",
+        "url": "https://open.spotify.com/album/76EhQqKoadyMKQSo8Nls89"
+      },
+      "artists": [
+        {
+          "name": "Izzy Escobar",
+          "url": "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO"
+        }
+      ],
+      "duration_ms": 187994,
+      "name": "Vendetta",
+      "url": "https://open.spotify.com/track/5TNyJaau0GUrcdsbq4UqfJ"
+    },
+    {
+      "added_at": "2025-10-08 04:00:14",
+      "album": {
+        "name": "How Long Can You Stay?",
+        "url": "https://open.spotify.com/album/3WiAxGN8ZW16RuQdBtBeG8"
+      },
+      "artists": [
+        {
+          "name": "Tabi Gervis",
+          "url": "https://open.spotify.com/artist/6OSOFnMPlyn8gHxIhEpSyI"
+        }
+      ],
+      "duration_ms": 235400,
+      "name": "How Long Can You Stay?",
+      "url": "https://open.spotify.com/track/2l2xm3pOi0VBj1AtwMDtwF"
+    },
+    {
+      "added_at": "2025-10-08 04:00:14",
+      "album": {
+        "name": "The Bar",
+        "url": "https://open.spotify.com/album/6Ch3vzUNWP5ZZ6VTOSPyYZ"
+      },
+      "artists": [
+        {
+          "name": "M\u00c4KI",
+          "url": "https://open.spotify.com/artist/12VNlem2IOoPA01BYFoWBa"
+        }
+      ],
+      "duration_ms": 131436,
+      "name": "The Bar",
+      "url": "https://open.spotify.com/track/4FDOkBj2PHhFTRfjEzaL17"
+    },
+    {
       "added_at": "2025-09-24 04:00:18",
       "album": {
         "name": "I'm Not Going Anywhere",
@@ -71,6 +135,38 @@
       "duration_ms": 246469,
       "name": "I'm Not Going Anywhere",
       "url": "https://open.spotify.com/track/7xUYVXZTGsU45EQDaDcZbr"
+    },
+    {
+      "added_at": "2025-10-08 04:00:14",
+      "album": {
+        "name": "play me like a speaker",
+        "url": "https://open.spotify.com/album/4rd6PIDkOzq2Xy1hQSf7ki"
+      },
+      "artists": [
+        {
+          "name": "Lucky Iris",
+          "url": "https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC"
+        }
+      ],
+      "duration_ms": 189519,
+      "name": "play me like a speaker",
+      "url": "https://open.spotify.com/track/2Db4ymX1AivTU8lUJbT8F6"
+    },
+    {
+      "added_at": "2025-10-08 04:00:14",
+      "album": {
+        "name": "Feline",
+        "url": "https://open.spotify.com/album/3eaeuM3WELR69oOfGTZpHA"
+      },
+      "artists": [
+        {
+          "name": "NORTH",
+          "url": "https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc"
+        }
+      ],
+      "duration_ms": 199386,
+      "name": "Feline",
+      "url": "https://open.spotify.com/track/73DV0IrR4FCwHOHLCo3M1D"
     },
     {
       "added_at": "2025-10-01 12:14:18",
@@ -103,6 +199,22 @@
       "duration_ms": 136919,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/4IK2SDnLvxrT6mu4KKPoZP"
+    },
+    {
+      "added_at": "2025-10-08 04:00:14",
+      "album": {
+        "name": "HOW DO YOU KNOW",
+        "url": "https://open.spotify.com/album/0PKmXdgachFkz5KQo5xZOA"
+      },
+      "artists": [
+        {
+          "name": "Mykel",
+          "url": "https://open.spotify.com/artist/5tMsPIIsXcFcnY1s5Aty7z"
+        }
+      ],
+      "duration_ms": 174840,
+      "name": "HOW DO YOU KNOW",
+      "url": "https://open.spotify.com/track/6vYmPCjC9Mavkv1w2zN3q4"
     },
     {
       "added_at": "2025-10-01 12:14:18",
@@ -167,6 +279,22 @@
       "duration_ms": 132971,
       "name": "Catching The Next Train",
       "url": "https://open.spotify.com/track/2PexbMSW94n7B3GiYKGh5b"
+    },
+    {
+      "added_at": "2025-10-08 04:00:14",
+      "album": {
+        "name": "Outside In",
+        "url": "https://open.spotify.com/album/1mkb2jzhO4unuzEDibjlga"
+      },
+      "artists": [
+        {
+          "name": "Cloe Wilder",
+          "url": "https://open.spotify.com/artist/4OmElN0ORkBfPbLi0vtCVf"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Outside In",
+      "url": "https://open.spotify.com/track/0oybn62hiTeMUro3g6Q4mj"
     },
     {
       "added_at": "2025-10-01 12:14:18",
@@ -1097,7 +1225,7 @@
       "artists": [
         {
           "name": "hey leah!",
-          "url": "https://open.spotify.com/artist/22WzI5wu1WLN8jKMV7JoF0"
+          "url": "https://open.spotify.com/artist/3hbD9w1UqE6s1EsnwJ2j1J"
         }
       ],
       "duration_ms": 247955,
@@ -1477,22 +1605,6 @@
       "url": "https://open.spotify.com/track/1B7jjYYjRFUj0UbCNH0SNO"
     },
     {
-      "added_at": "2025-08-06 04:00:07",
-      "album": {
-        "name": "Passenger Seat",
-        "url": "https://open.spotify.com/album/53zMYi35j06qijPOjXMZ4d"
-      },
-      "artists": [
-        {
-          "name": "Sabyna",
-          "url": "https://open.spotify.com/artist/4Pke6JkdRNWAHttfVvnvP6"
-        }
-      ],
-      "duration_ms": 165062,
-      "name": "Passenger Seat",
-      "url": "https://open.spotify.com/track/76y2Qmpwzak6JhnE8g6gkI"
-    },
-    {
       "added_at": "2025-07-30 04:00:26",
       "album": {
         "name": "Time After Time",
@@ -1507,118 +1619,6 @@
       "duration_ms": 219413,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/4ZP6WPdLgbP9z1N4JifxYA"
-    },
-    {
-      "added_at": "2025-07-25 04:01:02",
-      "album": {
-        "name": "1-800-LOVECLUB",
-        "url": "https://open.spotify.com/album/6Jg2tzy6nkMVCWLrTHTv83"
-      },
-      "artists": [
-        {
-          "name": "Willa Owen",
-          "url": "https://open.spotify.com/artist/4530YXk5QycIMohu512pcC"
-        }
-      ],
-      "duration_ms": 208211,
-      "name": "1-800-LOVECLUB",
-      "url": "https://open.spotify.com/track/5vR9m3yy3Ne3PoPY26a6Fh"
-    },
-    {
-      "added_at": "2025-08-06 04:00:07",
-      "album": {
-        "name": "Misfire",
-        "url": "https://open.spotify.com/album/6M5QmMS439LRvmjdNKVwAy"
-      },
-      "artists": [
-        {
-          "name": "Chezka",
-          "url": "https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY"
-        }
-      ],
-      "duration_ms": 221904,
-      "name": "Misfire",
-      "url": "https://open.spotify.com/track/7M4gmJjc8JUDY1OVOIUQL3"
-    },
-    {
-      "added_at": "2025-07-30 04:00:26",
-      "album": {
-        "name": "TAKE MY LOVE",
-        "url": "https://open.spotify.com/album/5w18Z092pcRXUgw0BOlLSN"
-      },
-      "artists": [
-        {
-          "name": "Maxwell Luke",
-          "url": "https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX"
-        }
-      ],
-      "duration_ms": 180779,
-      "name": "TAKE MY LOVE",
-      "url": "https://open.spotify.com/track/2ZptJWfM4DUOy8GJSsRvcs"
-    },
-    {
-      "added_at": "2025-07-30 04:00:26",
-      "album": {
-        "name": "I Love This!",
-        "url": "https://open.spotify.com/album/1kXssAuP3Kmlb164pqZjB6"
-      },
-      "artists": [
-        {
-          "name": "PUNCHBAG",
-          "url": "https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf"
-        }
-      ],
-      "duration_ms": 170668,
-      "name": "I Love This!",
-      "url": "https://open.spotify.com/track/2vyB53UUSya8kQ8uChgZic"
-    },
-    {
-      "added_at": "2025-07-30 04:00:26",
-      "album": {
-        "name": "Summer of Love",
-        "url": "https://open.spotify.com/album/0sY1693LM3rM8rXJIZH9SC"
-      },
-      "artists": [
-        {
-          "name": "Kai Bosch",
-          "url": "https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41"
-        }
-      ],
-      "duration_ms": 203053,
-      "name": "Summer of Love",
-      "url": "https://open.spotify.com/track/5f0WavAcLeulrIZf6laItA"
-    },
-    {
-      "added_at": "2025-07-30 04:00:26",
-      "album": {
-        "name": "Stuck On Us",
-        "url": "https://open.spotify.com/album/2pbCyrVoOx9JosWEd0sRcD"
-      },
-      "artists": [
-        {
-          "name": "Giift",
-          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
-        }
-      ],
-      "duration_ms": 175234,
-      "name": "Stuck On Us",
-      "url": "https://open.spotify.com/track/3jbz8nNa7dM3flDi2thhX1"
-    },
-    {
-      "added_at": "2025-07-25 04:01:02",
-      "album": {
-        "name": "i just want to dance",
-        "url": "https://open.spotify.com/album/6bHBiU7eHs7ceY8lODmQpn"
-      },
-      "artists": [
-        {
-          "name": "Lucky Iris",
-          "url": "https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC"
-        }
-      ],
-      "duration_ms": 159975,
-      "name": "i just want to dance",
-      "url": "https://open.spotify.com/track/4ZBwVxikPVHDOIKp3CVqoX"
     }
   ],
   "unique_name": "Fresh Finds Pop",

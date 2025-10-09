@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Tiara Andini
 
-[Spotify](https://open.spotify.com/user/spotify) - 786,888 likes - 97 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 786,975 likes - 97 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

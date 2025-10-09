@@ -1239,6 +1239,28 @@
     },
     {
       "album": {
+        "name": "Dappa Dan",
+        "url": "https://open.spotify.com/album/5qRkINBz6wBrQxEAHe9DDC"
+      },
+      "artists": [
+        {
+          "name": "Y U QT",
+          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
+        },
+        {
+          "name": "Diffrent",
+          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
+        }
+      ],
+      "date_added": "2025-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248391,
+      "name": "Dappa Dan",
+      "url": "https://open.spotify.com/track/6atT69esWSadQ7Ujx27Z3l"
+    },
+    {
+      "album": {
         "name": "Dart",
         "url": "https://open.spotify.com/album/6PCFhgjvZglMGPLPd5en3W"
       },
@@ -5390,7 +5412,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 193022,
       "name": "Straight From The Underground",
       "url": "https://open.spotify.com/track/2zNOr9xeXhb1Wverupu0uP"

@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 202486,
+  "num_followers": 202502,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAACmBlClxP465GiKUcwGLKGU",
+  "snapshot_id": "aORYAAAAAAAjDZ7bmgT/5L6YgHkAtR+Y",
   "tracks": [
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Bigger Artist",
+        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "No Promises",
+      "url": "https://open.spotify.com/track/2BJpuAoDeQ1QuPvnryfAWK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hood Life Krisis Vol. 3 EP",
         "url": "https://open.spotify.com/album/7hnTROF1tApL0cLtQIztFA"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 212695,
       "name": "R&B Shit (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/70C5mlnBodNJqRYpQi7O9x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Bigger Artist",
-        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "No Promises",
-      "url": "https://open.spotify.com/track/2BJpuAoDeQ1QuPvnryfAWK"
     },
     {
       "added_at": null,
@@ -819,6 +819,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Bigger Artist",
+        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 258158,
+      "name": "Beast Mode (feat. PnB Rock & YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/1AH60dMaEfNjzDoUIFwIQi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
         "url": "https://open.spotify.com/album/1O3wGX19uKgXZZuW7uKb9l"
       },
@@ -847,26 +871,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bigger Artist",
-        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
       },
       "artists": [
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 258158,
-      "name": "Beast Mode (feat. PnB Rock & YoungBoy Never Broke Again)",
-      "url": "https://open.spotify.com/track/1AH60dMaEfNjzDoUIFwIQi"
+      "duration_ms": 154250,
+      "name": "February",
+      "url": "https://open.spotify.com/track/6nCV2ldwVNe7xjRDgXO7ZC"
     },
     {
       "added_at": null,
@@ -887,22 +903,6 @@
       "duration_ms": 254999,
       "name": "Right Back (feat. A Boogie Wit Da Hoodie)",
       "url": "https://open.spotify.com/track/6PYnUsNEpYC7A4BS2sjw3L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me vs. Myself",
-        "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 154250,
-      "name": "February",
-      "url": "https://open.spotify.com/track/6nCV2ldwVNe7xjRDgXO7ZC"
     },
     {
       "added_at": null,
@@ -963,6 +963,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Artist 2.0",
+        "url": "https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 175106,
+      "name": "DTB 4 Life",
+      "url": "https://open.spotify.com/track/4CXSzoyTD2MmedFArsSIUp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LP1",
         "url": "https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 161120,
       "name": "Foreigner (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/7AdTyfK7fnvUYbUCGpWqUf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Artist 2.0",
-        "url": "https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 175106,
-      "name": "DTB 4 Life",
-      "url": "https://open.spotify.com/track/4CXSzoyTD2MmedFArsSIUp"
     }
   ],
   "unique_name": "This Is A Boogie Wit da Hoodie",

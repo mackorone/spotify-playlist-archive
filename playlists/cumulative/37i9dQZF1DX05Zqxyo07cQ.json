@@ -1575,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "Below the Surface",
+        "url": "https://open.spotify.com/album/1PVUyu756TaHSWMzpKxLrN"
+      },
+      "artists": [
+        {
+          "name": "Ziraphine",
+          "url": "https://open.spotify.com/artist/11GUbolCBySYUL4wIUv1Ex"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155833,
+      "name": "Below the Surface",
+      "url": "https://open.spotify.com/track/4lmiDiCqbBvvGgxJpOxN6i"
+    },
+    {
+      "album": {
         "name": "Benevolent",
         "url": "https://open.spotify.com/album/5iMRxKGIIbRv8OxwEpj8JP"
       },
@@ -2918,7 +2936,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 165800,
       "name": "Cosmical Sense",
       "url": "https://open.spotify.com/track/2NfCpcNt3P8VSZ4fHgjSTm"

@@ -2,9 +2,9 @@
 
 ### [EQUAL Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
 
-> Listen to women at full volume! 香港EQUAL女聲力量！\(cover: 鄧麗欣\)
+> Listen to women at full volume! 香港EQUAL女聲力量！\(cover: risy\)
 
-312 songs - 19 hr 27 min
+314 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,12 +17,13 @@
 | [8SEC](https://open.spotify.com/track/5iUu6TerlD7QGVeJyXRd3r) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [8SEC](https://open.spotify.com/album/4Rej6saAxyu8MQD21E8QeN) | 3:37 | 2022-08-02 | 2022-12-01 |
 | [@princejoyce](https://open.spotify.com/track/0MCuH8pcS50dyNTfr30xoQ) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Joyce To The World](https://open.spotify.com/album/7cFAV4DrbsYVLtLxVknIQF) | 3:14 | 2022-01-04 | 2022-02-03 |
 | [AFK???](https://open.spotify.com/track/1OfUSTbVRxIUaisRxyoqCK) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [AFK???](https://open.spotify.com/album/4rCoxG3kObBdtUszHBpfKX) | 3:06 | 2024-11-05 |  |
-| [Apart, so](https://open.spotify.com/track/0EKiPxxGjeI384TjISd9ph) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | ["I"](https://open.spotify.com/album/0w00oKtFxjZatD8WdqjXww) | 3:28 | 2024-02-06 |  |
+| [Apart, so](https://open.spotify.com/track/0EKiPxxGjeI384TjISd9ph) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | ["I"](https://open.spotify.com/album/0w00oKtFxjZatD8WdqjXww) | 3:28 | 2024-02-06 | 2025-10-09 |
 | [Apart, so](https://open.spotify.com/track/4q9ECX1n9i9tiSDZNg52EE) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [Apart, so](https://open.spotify.com/album/4wqtBzrhuytFJoNhVmAtKy) | 3:28 | 2024-12-04 | 2025-01-08 |
 | [Atypical](https://open.spotify.com/track/5LXr3GhncY4sC9ynpapsnc) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Atypical](https://open.spotify.com/album/3FEaGC24Dx03W74Xz1Xb1t) | 2:56 | 2023-11-29 | 2024-04-03 |
 | [Back in the Game](https://open.spotify.com/track/1lx0nTrol5vUiG65MleoEi) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Back in the Game](https://open.spotify.com/album/5uLE642bTtgVSubD20bh21) | 3:37 | 2024-04-02 |  |
 | [Be around](https://open.spotify.com/track/15AOENltAvN9ejLP0B9uwh) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Be around](https://open.spotify.com/album/7HynALzlFlIuOB17UZD5Dp) | 2:52 | 2023-07-04 | 2025-01-08 |
 | [Before Bed](https://open.spotify.com/track/6PQLLy6iTTAAghxUrDBwly) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [God in My Dreams](https://open.spotify.com/album/0nRE05u9tCYROuOaH1GOvh) | 4:00 | 2022-05-03 | 2022-08-03 |
+| [Better Than Romance](https://open.spotify.com/track/3G2nQwlMkL8Q9MgoKs4pOP) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Better Than Romance](https://open.spotify.com/album/2P2gP4XGYtZURoYr4RWe2F) | 3:20 | 2025-10-08 |  |
 | [Blue roses \(feat\. Olivia Marsh\)](https://open.spotify.com/track/17OMwG9hllbbiCTf8GOzgY) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy), [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Blossoming](https://open.spotify.com/album/2epuXhZbcs7j4O9P9M7F0X) | 2:32 | 2025-05-06 | 2025-10-03 |
 | [But I'm Not Lonely](https://open.spotify.com/track/1YU243lVfy5OSUpPRc08qU) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Joyce To The World](https://open.spotify.com/album/7cFAV4DrbsYVLtLxVknIQF) | 2:49 | 2022-01-04 | 2022-03-08 |
 | [Call My Name!](https://open.spotify.com/track/16uUro9vLJogJJued0TFos) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Call My Name!](https://open.spotify.com/album/2eqT6kfBxCwKVJqsAXqjtl) | 3:23 | 2022-04-05 | 2022-05-04 |
@@ -44,7 +45,7 @@
 | [Hypocrite](https://open.spotify.com/track/0tQVGTGduJETC5jRWni2Uo) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Hypocrite](https://open.spotify.com/album/6ePbNHhbr42Am5eUAshYm8) | 3:19 | 2022-11-30 | 2024-06-07 |
 | [Hypocrite](https://open.spotify.com/track/6HfzX4R5fPu1PCzfairoes) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Hypocrite](https://open.spotify.com/album/5DOXGmraTX5HolLqU6DE2j) | 3:20 | 2023-03-24 | 2024-04-19 |
 | [Hypocrite](https://open.spotify.com/track/5zbs9hwnHCdCSYQX6aN6MT) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Human Heart](https://open.spotify.com/album/46UcZkRj4FkwY9vNb89gij) | 3:21 | 2024-12-04 | 2025-01-08 |
-| [I can’t be you](https://open.spotify.com/track/0BuxxvxVGRCy4v5pbZhhkX) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | ["I"](https://open.spotify.com/album/0w00oKtFxjZatD8WdqjXww) | 3:37 | 2024-02-06 |  |
+| [I can’t be you](https://open.spotify.com/track/0BuxxvxVGRCy4v5pbZhhkX) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | ["I"](https://open.spotify.com/album/0w00oKtFxjZatD8WdqjXww) | 3:37 | 2024-02-06 | 2025-10-09 |
 | [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 | 2022-10-05 | 2024-04-03 |
 | [i hate u owe me $$](https://open.spotify.com/track/75RainG5pTfpOH1Hj937BU) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u owe me $$](https://open.spotify.com/album/6erAGsVqS76Ei8fu66QoKa) | 2:50 | 2022-11-01 | 2023-11-30 |
 | [I kinda feel like going home](https://open.spotify.com/track/1WA1STD9PGm3lOq6SwKVa4) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR), [Kymza](https://open.spotify.com/artist/51dbcON5ZgfH3B19hpIzeB), [nardey](https://open.spotify.com/artist/7tHQPahicLUO5EdLyo5V28) | [Human Heart](https://open.spotify.com/album/46UcZkRj4FkwY9vNb89gij) | 2:25 | 2024-06-06 |  |
@@ -96,6 +97,7 @@
 | [Sympathy](https://open.spotify.com/track/3C6aaaQ73DYqlQqUbZ8m8p) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Sympathy](https://open.spotify.com/album/1M19JDKFDaQvAI4BTv3Gn5) | 4:20 | 2022-03-07 | 2022-08-03 |
 | [Temporary](https://open.spotify.com/track/4m8YKBc6vv2KDatDGmKGx0) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [CHILI T](https://open.spotify.com/album/6zyVqxhbcRIa7nCyUobInO) | 2:43 | 2022-08-02 | 2022-12-01 |
 | [The Sea \(feat\. Peace Lo\)](https://open.spotify.com/track/7nDzjK7VTX20ZEK87DJt22) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC), [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [The Sea \(feat\. Peace Lo\)](https://open.spotify.com/album/3mXyrQE4KOxpmYsEoh0yBQ) | 2:24 | 2022-02-02 | 2022-03-08 |
+| [Things Unsaid](https://open.spotify.com/track/304ESYskFpIQ8rdMsMu7WV) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Things Unsaid](https://open.spotify.com/album/471kPnkksxhX5FdLkXFmXb) | 2:17 | 2025-10-08 |  |
 | [Think I'm In Love](https://open.spotify.com/track/4Ip4uvrIqnxGM8RB9rsCrt) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Think I'm In Love](https://open.spotify.com/album/5lfI2lfNkgMpCpfSxsNdje) | 2:21 | 2023-07-04 | 2023-11-30 |
 | [Tomorrow](https://open.spotify.com/track/0LuBQym8RGIcybVJE5F5iE) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Tomorrow](https://open.spotify.com/album/5jLneIxjJyBOb8GC96tJy1) | 4:10 | 2022-11-30 |  |
 | [Tomorrow](https://open.spotify.com/track/3bCHbOoRbzo4IsCbTeQCQ3) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Agatha](https://open.spotify.com/album/1rUusu6WHVtnCIY7w7vV8D) | 4:10 | 2024-12-04 | 2025-01-08 |

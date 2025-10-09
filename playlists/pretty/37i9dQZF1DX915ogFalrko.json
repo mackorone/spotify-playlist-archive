@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 181078,
+  "num_followers": 181079,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-10-02 22:00:31",
       "album": {
-        "name": "The Fantastic Sound Of",
-        "url": "https://open.spotify.com/album/7MfKFpCQp7v26ZOHcXbmwE"
-      },
-      "artists": [
-        {
-          "name": "Gunter Kallmann Choir",
-          "url": "https://open.spotify.com/artist/4m9LpZ5l3CEdEhA8W9f29g"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/0F6pFZDlQSiQBWsjQZFbTH"
-    },
-    {
-      "added_at": "2025-10-02 22:00:31",
-      "album": {
         "name": "EURO-COUNTRY",
         "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 272266,
       "name": "When A Good Man Cries",
       "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
+    },
+    {
+      "added_at": "2025-10-02 22:00:31",
+      "album": {
+        "name": "The Fantastic Sound Of",
+        "url": "https://open.spotify.com/album/7MfKFpCQp7v26ZOHcXbmwE"
+      },
+      "artists": [
+        {
+          "name": "Gunter Kallmann Choir",
+          "url": "https://open.spotify.com/artist/4m9LpZ5l3CEdEhA8W9f29g"
+        }
+      ],
+      "duration_ms": 199733,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/0F6pFZDlQSiQBWsjQZFbTH"
     },
     {
       "added_at": "2025-10-02 22:00:31",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-10-02 22:00:31",
       "album": {
-        "name": "Suburbs",
-        "url": "https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 184970,
-      "name": "Suburbs",
-      "url": "https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY"
-    },
-    {
-      "added_at": "2025-10-02 22:00:31",
-      "album": {
         "name": "How To Live",
         "url": "https://open.spotify.com/album/0YrhLhmdGAgsHizxY1BRlH"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 240043,
       "name": "How To Live",
       "url": "https://open.spotify.com/track/25ywKtUww26ABFd0tiGt9D"
+    },
+    {
+      "added_at": "2025-10-02 22:00:31",
+      "album": {
+        "name": "Suburbs",
+        "url": "https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 184970,
+      "name": "Suburbs",
+      "url": "https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY"
     },
     {
       "added_at": "2025-10-02 22:00:31",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-10-02 22:00:31",
       "album": {
-        "name": "Ordinary Creature",
-        "url": "https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 220226,
-      "name": "Ordinary Creature",
-      "url": "https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW"
-    },
-    {
-      "added_at": "2025-10-02 22:00:31",
-      "album": {
         "name": "There's Just Something About Her",
         "url": "https://open.spotify.com/album/7qfhRZlEHzCmdgoHnEJuar"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2025-10-02 22:00:31",
       "album": {
-        "name": "Summerinlove",
-        "url": "https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4"
+        "name": "Ordinary Creature",
+        "url": "https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln"
       },
       "artists": [
         {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
         }
       ],
-      "duration_ms": 271047,
-      "name": "Summerinlove",
-      "url": "https://open.spotify.com/track/5Me9CVP8sqZvuhtFMOKQoU"
+      "duration_ms": 220226,
+      "name": "Ordinary Creature",
+      "url": "https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW"
     },
     {
       "added_at": "2025-10-02 22:00:31",
@@ -727,6 +711,22 @@
       "duration_ms": 157333,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/42AsgO0005lineLVc1aSOL"
+    },
+    {
+      "added_at": "2025-10-02 22:00:31",
+      "album": {
+        "name": "Summerinlove",
+        "url": "https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 271047,
+      "name": "Summerinlove",
+      "url": "https://open.spotify.com/track/5Me9CVP8sqZvuhtFMOKQoU"
     },
     {
       "added_at": "2025-10-02 22:00:31",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-10-02 22:00:31",
       "album": {
-        "name": "Children of the Baked Potato",
-        "url": "https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 169320,
-      "name": "I Wish I Didn\u2019t Waste Your Time",
-      "url": "https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ"
-    },
-    {
-      "added_at": "2025-10-02 22:00:31",
-      "album": {
         "name": "Wovoka",
         "url": "https://open.spotify.com/album/7HNboS0n64gNVx0rV3qT6a"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 300666,
       "name": "Come and Get Your Love",
       "url": "https://open.spotify.com/track/23hrvdvkIi1X1voQG2bJH9"
+    },
+    {
+      "added_at": "2025-10-02 22:00:31",
+      "album": {
+        "name": "Children of the Baked Potato",
+        "url": "https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 169320,
+      "name": "I Wish I Didn\u2019t Waste Your Time",
+      "url": "https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ"
     },
     {
       "added_at": "2025-10-02 22:00:31",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-10-02 22:00:31",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/6baBfgccJbY8W2r5dwOWDZ"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 197703,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3"
-    },
-    {
-      "added_at": "2025-10-02 22:00:31",
-      "album": {
         "name": "davina mccall",
         "url": "https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 227794,
       "name": "davina mccall",
       "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
+    },
+    {
+      "added_at": "2025-10-02 22:00:31",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6baBfgccJbY8W2r5dwOWDZ"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 197703,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3"
     },
     {
       "added_at": "2025-10-02 22:00:31",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-10-02 22:00:31",
       "album": {
-        "name": "Isteri",
-        "url": "https://open.spotify.com/album/5J3L8ukBVqikwoSN9Mv5sk"
-      },
-      "artists": [
-        {
-          "name": "Ours Samplus",
-          "url": "https://open.spotify.com/artist/0XtVN1QaB7vYRpw4qEIRt0"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Spell on You",
-      "url": "https://open.spotify.com/track/5w2zI2TnxiP4DMcsA0P30M"
-    },
-    {
-      "added_at": "2025-10-02 22:00:31",
-      "album": {
         "name": "Celestial Strut",
         "url": "https://open.spotify.com/album/5UAtIWTEaVwzoZ4NZDtElM"
       },
@@ -1155,6 +1139,54 @@
       "duration_ms": 349257,
       "name": "Found Your Love",
       "url": "https://open.spotify.com/track/2ohinF8keJDshzetGAK0GX"
+    },
+    {
+      "added_at": "2025-10-02 22:00:31",
+      "album": {
+        "name": "Isteri",
+        "url": "https://open.spotify.com/album/5J3L8ukBVqikwoSN9Mv5sk"
+      },
+      "artists": [
+        {
+          "name": "Ours Samplus",
+          "url": "https://open.spotify.com/artist/0XtVN1QaB7vYRpw4qEIRt0"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Spell on You",
+      "url": "https://open.spotify.com/track/5w2zI2TnxiP4DMcsA0P30M"
+    },
+    {
+      "added_at": "2025-10-02 22:00:31",
+      "album": {
+        "name": "l.o.v.e",
+        "url": "https://open.spotify.com/album/4BNdRv5U4sQ0Zr3WiYwXCL"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 179368,
+      "name": "l.o.v.e",
+      "url": "https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6"
+    },
+    {
+      "added_at": "2025-10-02 22:00:31",
+      "album": {
+        "name": "Manga",
+        "url": "https://open.spotify.com/album/3xB66GJOyGe80myaJ9qAQ9"
+      },
+      "artists": [
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+        }
+      ],
+      "duration_ms": 170413,
+      "name": "Manga",
+      "url": "https://open.spotify.com/track/1Iod4fjYd6TTXw9DI6nHpB"
     },
     {
       "added_at": "2025-10-02 22:00:31",
@@ -1179,22 +1211,6 @@
     {
       "added_at": "2025-10-02 22:00:31",
       "album": {
-        "name": "Manga",
-        "url": "https://open.spotify.com/album/3xB66GJOyGe80myaJ9qAQ9"
-      },
-      "artists": [
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
-        }
-      ],
-      "duration_ms": 170413,
-      "name": "Manga",
-      "url": "https://open.spotify.com/track/1Iod4fjYd6TTXw9DI6nHpB"
-    },
-    {
-      "added_at": "2025-10-02 22:00:31",
-      "album": {
         "name": "Yellow Brick Road",
         "url": "https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 152062,
       "name": "Yellow Brick Road",
       "url": "https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G"
-    },
-    {
-      "added_at": "2025-10-02 22:00:31",
-      "album": {
-        "name": "l.o.v.e",
-        "url": "https://open.spotify.com/album/4BNdRv5U4sQ0Zr3WiYwXCL"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 179368,
-      "name": "l.o.v.e",
-      "url": "https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6"
     },
     {
       "added_at": "2025-10-02 22:00:31",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-10-02 22:00:31",
       "album": {
-        "name": "La Llorona",
-        "url": "https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP"
-      },
-      "artists": [
-        {
-          "name": "Lhasa De Sela",
-          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
-        }
-      ],
-      "duration_ms": 255360,
-      "name": "De Cara a la Pared",
-      "url": "https://open.spotify.com/track/3mnSq0DGKWTZcU3ccymC79"
-    },
-    {
-      "added_at": "2025-10-02 22:00:31",
-      "album": {
         "name": "My Melody",
         "url": "https://open.spotify.com/album/37eHr1dawqnSS0BBLS7tfY"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 278238,
       "name": "My Melody",
       "url": "https://open.spotify.com/track/4ktm7sS9TapvBBbYv8PrtP"
+    },
+    {
+      "added_at": "2025-10-02 22:00:31",
+      "album": {
+        "name": "La Llorona",
+        "url": "https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP"
+      },
+      "artists": [
+        {
+          "name": "Lhasa De Sela",
+          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
+        }
+      ],
+      "duration_ms": 255360,
+      "name": "De Cara a la Pared",
+      "url": "https://open.spotify.com/track/3mnSq0DGKWTZcU3ccymC79"
     },
     {
       "added_at": "2025-10-02 22:00:31",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-10-02 22:00:31",
       "album": {
-        "name": "Junk",
-        "url": "https://open.spotify.com/album/18FJHVg2pQUU4x2pxuVQ1A"
-      },
-      "artists": [
-        {
-          "name": "Hailey Tuck",
-          "url": "https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse"
-        }
-      ],
-      "duration_ms": 162253,
-      "name": "Cry to Me",
-      "url": "https://open.spotify.com/track/3SGTB0245ztpWiRN6wQvvI"
-    },
-    {
-      "added_at": "2025-10-02 22:00:31",
-      "album": {
         "name": "Lake Tear of the Clouds",
         "url": "https://open.spotify.com/album/5MAwGM6wOVrzJtl17kRpnW"
       },
@@ -1575,18 +1559,18 @@
     {
       "added_at": "2025-10-02 22:00:31",
       "album": {
-        "name": "(I Can See) The Future",
-        "url": "https://open.spotify.com/album/6pm23ya5S4kHne6hnaWI8q"
+        "name": "Junk",
+        "url": "https://open.spotify.com/album/18FJHVg2pQUU4x2pxuVQ1A"
       },
       "artists": [
         {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+          "name": "Hailey Tuck",
+          "url": "https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse"
         }
       ],
-      "duration_ms": 169533,
-      "name": "(I Can See) The Future",
-      "url": "https://open.spotify.com/track/6UtFvxMcluX6vG4q35JwmV"
+      "duration_ms": 162253,
+      "name": "Cry to Me",
+      "url": "https://open.spotify.com/track/3SGTB0245ztpWiRN6wQvvI"
     },
     {
       "added_at": "2025-10-02 22:00:31",
@@ -1603,6 +1587,22 @@
       "duration_ms": 189770,
       "name": "Let Me Take You",
       "url": "https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp"
+    },
+    {
+      "added_at": "2025-10-02 22:00:31",
+      "album": {
+        "name": "(I Can See) The Future",
+        "url": "https://open.spotify.com/album/6pm23ya5S4kHne6hnaWI8q"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 169533,
+      "name": "(I Can See) The Future",
+      "url": "https://open.spotify.com/track/6UtFvxMcluX6vG4q35JwmV"
     },
     {
       "added_at": "2025-10-02 22:00:31",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-10-02 22:00:31",
       "album": {
-        "name": "Angus & Julia Stone",
-        "url": "https://open.spotify.com/album/3VT2E4zmRmdn1EZw5U4HK6"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 248526,
-      "name": "Grizzly Bear",
-      "url": "https://open.spotify.com/track/2vnY0rNwecUTknZyEpJbZR"
-    },
-    {
-      "added_at": "2025-10-02 22:00:31",
-      "album": {
         "name": "Beat Tape III",
         "url": "https://open.spotify.com/album/1N3C7yGiRBLJRQ8Pfnxiot"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 153243,
       "name": "Caviar",
       "url": "https://open.spotify.com/track/6ZE4XLcuV22H8T2o7P9IEa"
+    },
+    {
+      "added_at": "2025-10-02 22:00:31",
+      "album": {
+        "name": "Angus & Julia Stone",
+        "url": "https://open.spotify.com/album/3VT2E4zmRmdn1EZw5U4HK6"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 248526,
+      "name": "Grizzly Bear",
+      "url": "https://open.spotify.com/track/2vnY0rNwecUTknZyEpJbZR"
     },
     {
       "added_at": "2025-10-02 22:00:31",

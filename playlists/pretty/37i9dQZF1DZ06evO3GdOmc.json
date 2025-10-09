@@ -1,12 +1,12 @@
 {
   "description": "This is Casting Crowns. The essential tracks, all in one playlist.",
-  "num_followers": 44216,
+  "num_followers": 44225,
   "original_name": "This Is Casting Crowns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAADz1CBuYzZz6PgxvDb0mpy5",
+  "snapshot_id": "aORYAAAAAACgUnwQqdDftHzO9mrFP7KZ",
   "tracks": [
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Live Worship Experience",
-        "url": "https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq"
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 411733,
-      "name": "Here's My Heart - Live",
-      "url": "https://open.spotify.com/track/4lD6Rr1Z7oNhKh0EtdCNpf"
+      "duration_ms": 289200,
+      "name": "Even When You're Running",
+      "url": "https://open.spotify.com/track/1A1JXSMsVOrPe2UV3PNhHl"
     },
     {
       "added_at": null,
@@ -363,6 +363,22 @@
       "duration_ms": 338133,
       "name": "Jesus, Friend Of Sinners",
       "url": "https://open.spotify.com/track/2ex0hGTbxQBBmKEpPwzxOt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Live Worship Experience",
+        "url": "https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 411733,
+      "name": "Here's My Heart - Live",
+      "url": "https://open.spotify.com/track/4lD6Rr1Z7oNhKh0EtdCNpf"
     },
     {
       "added_at": null,
@@ -396,25 +412,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 289200,
-      "name": "Even When You're Running",
-      "url": "https://open.spotify.com/track/1A1JXSMsVOrPe2UV3PNhHl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Until The Whole World Hears",
-        "url": "https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 218746,
-      "name": "If We've Ever Needed You",
-      "url": "https://open.spotify.com/track/33RrcL9vPax7BkUg95Kp7t"
+      "duration_ms": 248640,
+      "name": "In the Hands of the Potter",
+      "url": "https://open.spotify.com/track/2xMi9GG2hWkjgtgxfv1pSR"
     },
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Until The Whole World Hears",
+        "url": "https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 218746,
+      "name": "If We've Ever Needed You",
+      "url": "https://open.spotify.com/track/33RrcL9vPax7BkUg95Kp7t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Healer",
         "url": "https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 148413,
       "name": "Crazy People",
       "url": "https://open.spotify.com/track/2WCHNPQYkjeuoVzcuEBaFF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Only Jesus",
-        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 248640,
-      "name": "In the Hands of the Potter",
-      "url": "https://open.spotify.com/track/2xMi9GG2hWkjgtgxfv1pSR"
     },
     {
       "added_at": null,

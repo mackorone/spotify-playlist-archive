@@ -4,7 +4,7 @@
 
 > ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: SURIYA MQT, P6ICK
 
-205 songs - 12 hr 15 min
+206 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Perfect](https://open.spotify.com/track/3wpyleeYFfRIiYByecGeUW) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [1MILL](https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco) | [Perfect](https://open.spotify.com/album/5p3Jnt2oeoYnBsiGB3Nouq) | 4:15 | 2025-07-20 |  |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-20 | 2025-02-01 |
 | [Priceless \(feat\. LISA\)](https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Priceless \(feat\. LISA\)](https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ) | 2:43 | 2025-05-01 |  |
-| [Proud](https://open.spotify.com/track/2MuJCv3nCgHYlgOrAvCAT6) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [Proud](https://open.spotify.com/album/59iNGzAD15hYShkp2ZNmNv) | 3:45 | 2024-07-14 |  |
+| [Proud](https://open.spotify.com/track/2MuJCv3nCgHYlgOrAvCAT6) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [Proud](https://open.spotify.com/album/59iNGzAD15hYShkp2ZNmNv) | 3:45 | 2024-07-14 | 2025-10-09 |
 | [PYTHON](https://open.spotify.com/track/2kol6tv2jcinBERq425Ahv) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [WINTER HEPTAGON](https://open.spotify.com/album/2TtVKZ7e40MVhqNbtYuT5z) | 2:31 | 2025-01-23 | 2025-02-14 |
 | [Revolving door](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:00 | 2025-02-21 | 2025-03-24 |
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-06-28 | 2025-01-16 |
@@ -152,6 +152,7 @@
 | [ซ่อนเธอไว้ในเพลง](https://open.spotify.com/track/1lM2KWbk6nWKYq7qbMRcsb) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ซ่อนเธอไว้ในเพลง](https://open.spotify.com/album/7wZ6cdyUeqn86acl7dyMwR) | 5:16 | 2025-02-21 | 2025-04-11 |
 | [ดวงใจ](https://open.spotify.com/track/6dltZJ9ZFOnyCPgNikpCiW) | [ปราง ปรางทิพย์](https://open.spotify.com/artist/2uLHnWXJesP4riw8ripPWN) | [ดวงใจ](https://open.spotify.com/album/4vQCIsiPWhDaWZpT6qR2wW) | 4:20 | 2025-04-10 | 2025-06-14 |
 | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/track/4kE80JWRissrodmXuo0xYi) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/album/3c507rxKQ6lmPMw7l3Ut6r) | 3:48 | 2024-07-20 | 2025-04-17 |
+| [ดาวตก \(Wish\) \[feat\. Z9\]](https://open.spotify.com/track/4YkPsxVBXkM4jBgMTAxtFz) | [WANYAi](https://open.spotify.com/artist/3yLZtAIGm6Eq4WSfnimZad), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [ดาวตก \(Wish\) \[feat\. Z9\]](https://open.spotify.com/album/1n6smSBWNrb9p3L0vFAilq) | 4:01 | 2025-10-08 |  |
 | [ดาวหางฮัลเลย์](https://open.spotify.com/track/56wDFSIa9Tr7zbEXUVMwjP) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ดาวหางฮัลเลย์](https://open.spotify.com/album/3ZqqQUWMeZasXiZhu7L1Zl) | 3:44 | 2024-06-20 | 2024-11-09 |
 | [ดีใจรึเปล่า](https://open.spotify.com/track/1WbqdJzBawPmNVBL1tT7dK) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ดีใจรึเปล่า](https://open.spotify.com/album/4D1IFvo9V2Y8Ty52v8LcyE) | 4:08 | 2024-06-20 | 2024-09-10 |
 | [ตัวโดน](https://open.spotify.com/track/6PgrERReqbpJHFtOpSzdPj) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ตัวโดน](https://open.spotify.com/album/4gLGowAWp62z0BaSgC59Qf) | 3:47 | 2025-02-07 | 2025-03-25 |

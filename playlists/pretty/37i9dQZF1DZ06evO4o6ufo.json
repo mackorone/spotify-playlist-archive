@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 88714,
+  "num_followers": 88756,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAABNkvNPNL1RTQvZEtJeKdus",
+  "snapshot_id": "aORYAAAAAADPCcu3Qwvy3UpWj3guFyMe",
   "tracks": [
     {
       "added_at": null,
@@ -627,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Quiero Casar",
-        "url": "https://open.spotify.com/album/11q4dGHmq3Jm1XcABg4HkX"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 156252,
-      "name": "Me Quiero Casar",
-      "url": "https://open.spotify.com/track/1NKieJNxZiQpXYA7Wmx2Hd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por El Bien De Los Dos",
         "url": "https://open.spotify.com/album/716TfM8cw7aevXpbBzHiWF"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 195744,
       "name": "Por El Bien De Los Dos",
       "url": "https://open.spotify.com/track/0tAmt8WRonEH8IpNnmeHrF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Quiero Casar",
+        "url": "https://open.spotify.com/album/11q4dGHmq3Jm1XcABg4HkX"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 156252,
+      "name": "Me Quiero Casar",
+      "url": "https://open.spotify.com/track/1NKieJNxZiQpXYA7Wmx2Hd"
     },
     {
       "added_at": null,

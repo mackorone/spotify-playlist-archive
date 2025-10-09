@@ -1,6 +1,6 @@
 {
   "description": "The hottest music from the hottest desert. Cover: Tinariwen.",
-  "num_followers": 449103,
+  "num_followers": 449166,
   "original_name": "Sahara",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2025-08-06 07:18:28",
       "album": {
+        "name": "Shouka (Versi\u00f3n Con Bonus Track)",
+        "url": "https://open.spotify.com/album/1lrkLv77tMMSjoihcvDVK0"
+      },
+      "artists": [
+        {
+          "name": "Mariem Hassan",
+          "url": "https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Haiyu - Bonus Track",
+      "url": "https://open.spotify.com/track/4s86JE28MM4q3xPmBGI6rn"
+    },
+    {
+      "added_at": "2025-08-06 07:18:28",
+      "album": {
         "name": "The Routes of Slavery",
         "url": "https://open.spotify.com/album/5iRJeFmgDETMCRPFP0Y1pp"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 223973,
       "name": "Sinanon Saran (Chant de griot)",
       "url": "https://open.spotify.com/track/1ASQZ8acmZj1IOFoXggUf9"
-    },
-    {
-      "added_at": "2025-08-06 07:18:28",
-      "album": {
-        "name": "Shouka (Versi\u00f3n Con Bonus Track)",
-        "url": "https://open.spotify.com/album/1lrkLv77tMMSjoihcvDVK0"
-      },
-      "artists": [
-        {
-          "name": "Mariem Hassan",
-          "url": "https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Haiyu - Bonus Track",
-      "url": "https://open.spotify.com/track/4s86JE28MM4q3xPmBGI6rn"
     },
     {
       "added_at": "2025-08-06 07:18:28",

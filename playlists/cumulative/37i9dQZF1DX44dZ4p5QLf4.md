@@ -2,9 +2,9 @@
 
 ### [Next Wave Soul](https://open.spotify.com/playlist/37i9dQZF1DX44dZ4p5QLf4)
 
-> New stunning releases in modern soul\. Cover: Sedric Perry
+> New stunning releases in modern soul\. Cover: K.ZIA
 
-586 songs - 1 day 10 hr 4 min
+589 songs - 1 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Anyways](https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyways](https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22) | 2:56 | 2024-10-25 | 2025-07-05 |
 | [Appetizers](https://open.spotify.com/track/3L5C901twUu9wlv3J0yhO8) | [Astels](https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii) | [Appetizers](https://open.spotify.com/album/5J6A3C8tve2lfP0k7JqEYy) | 3:10 | 2025-01-17 | 2025-09-02 |
 | [April](https://open.spotify.com/track/5vRkKwUx1PPZZqv87vydn9) | [illiterate](https://open.spotify.com/artist/6E7vMajFG2d1j5RrUwdTDR), [Martha Eve](https://open.spotify.com/artist/2egCe1m3RU0NT2joC2mZus) | [April](https://open.spotify.com/album/1Ld8d5JMr8xXOh5TvEuYNv) | 3:08 | 2024-04-25 | 2025-02-28 |
-| [Are U Still](https://open.spotify.com/track/6LOgCq1V3zLzNrqV2azE2q) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Are U Still](https://open.spotify.com/album/1DuUEqsNu7nHsTmc6cfoeR) | 3:50 | 2025-02-27 |  |
+| [Are U Still](https://open.spotify.com/track/6LOgCq1V3zLzNrqV2azE2q) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Are U Still](https://open.spotify.com/album/1DuUEqsNu7nHsTmc6cfoeR) | 3:50 | 2025-02-27 | 2025-10-09 |
 | [As You Are \- A COLORS SHOW](https://open.spotify.com/track/6tDTnxaq8fHXZ63uiseNRH) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [As You Are \- A COLORS SHOW](https://open.spotify.com/album/0J876nXHrxOSvr895nSLlc) | 3:41 | 2023-08-31 | 2024-07-02 |
 | [Ascension](https://open.spotify.com/track/6BnkcVCFZX3HCU9csLS6UR) | [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85), [Oliver Night](https://open.spotify.com/artist/6n2LDOKxdPlYU0Awxu53Z9) | [Birdhouse](https://open.spotify.com/album/1gCav3gJyQL0ShBQ2BLYMJ) | 3:49 | 2022-02-24 | 2023-03-03 |
 | [Astrology Joint](https://open.spotify.com/track/1jcGbrSCZ32Q2vyvOpOZzg) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Astrology Joint](https://open.spotify.com/album/22JbTK2Ol0UpTjPnW8rlds) | 2:32 | 2022-10-28 | 2024-01-18 |
@@ -132,6 +132,7 @@
 | [DiH](https://open.spotify.com/track/0jqTpSEBeasDrkNykprjwY) | [MiDi KwaKwa](https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D) | [DiH](https://open.spotify.com/album/4GdkgZNWIKgGqOihh5r3TY) | 2:55 | 2025-02-27 |  |
 | [Dingaling](https://open.spotify.com/track/1upqTfjNfblLHKqasQAPc0) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Dingaling](https://open.spotify.com/album/5aMRGlhrRsaVUIL25FRYsJ) | 3:20 | 2021-12-16 | 2022-10-15 |
 | [Distance](https://open.spotify.com/track/4vvjCuR7vAXkE4XUrOgVjm) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [YARN](https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex) | 2:33 | 2025-05-19 |  |
+| [Don't Lie](https://open.spotify.com/track/0EAlSRLB5OFIlkb7gQ0uNG) | [Ruby Mus](https://open.spotify.com/artist/4vrrj171i0T2GiOxopjLp5) | [Don't Lie](https://open.spotify.com/album/432UUkz71P3s8Ab78zhyzg) | 2:03 | 2025-10-08 |  |
 | [Don't like it](https://open.spotify.com/track/7nEfpjyJDCsDIyLZLeNCok) | [Sacks](https://open.spotify.com/artist/2p1XtMfkxTw9w9CyytF5ac) | [Don't like it](https://open.spotify.com/album/2IMlzK8BcScpD44BF7VVZM) | 3:00 | 2025-04-24 |  |
 | [DONE](https://open.spotify.com/track/0RTGPmfIv278O99DzsCNhn) | [Shaynah](https://open.spotify.com/artist/4U7FCOOzMmHazZNQ6eK7RG) | [DONE](https://open.spotify.com/album/1vxF3Tbp9xxCW4T5OMDeqF) | 3:49 | 2025-04-24 |  |
 | [Don’t Count Me In](https://open.spotify.com/track/2k8tbt4jY1Nl5nY5CL7Heg) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Don’t Count Me In](https://open.spotify.com/album/38nOb3gb5ohG3WtRMZ32ZW) | 3:18 | 2024-01-17 | 2024-11-14 |
@@ -162,7 +163,7 @@
 | [Floating](https://open.spotify.com/track/6BSewgCeSs7mVkAxafwMeg) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Floating](https://open.spotify.com/album/6phIq0tqUmvbvMZhAc3W3o) | 4:45 | 2021-12-16 | 2022-02-11 |
 | [Flowers](https://open.spotify.com/track/0892L8jMWtFSKq5Xo9EEfA) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [Flowers](https://open.spotify.com/album/2k16zP9LysfnBtxnyw6Ihd) | 3:10 | 2024-03-21 | 2025-01-18 |
 | [Flowers In Mourning](https://open.spotify.com/track/1rSxecJEITBOFcthNRIkgy) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [Flowers In Mourning](https://open.spotify.com/album/07ERyFTIZ7BKH50XMt3y5U) | 4:13 | 2024-03-14 | 2025-02-11 |
-| [Fly Away](https://open.spotify.com/track/4grkvWujQOQCFLusWITIdF) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Fly Away](https://open.spotify.com/album/0FxEbAdMJEpYATTXAr6ZtG) | 3:18 | 2025-01-17 |  |
+| [Fly Away](https://open.spotify.com/track/4grkvWujQOQCFLusWITIdF) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Fly Away](https://open.spotify.com/album/0FxEbAdMJEpYATTXAr6ZtG) | 3:18 | 2025-01-17 | 2025-10-09 |
 | [Fly Away](https://open.spotify.com/track/6k0wkuPkmShLizJwebC5bN) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [Moflo](https://open.spotify.com/artist/3l4DNYCciNLDKnkKO2u8wP) | [Pilgrim's Road](https://open.spotify.com/album/2ZrbmEjVrYvkoxvY4FxSTO) | 2:52 | 2024-05-23 | 2025-03-22 |
 | [Flying away](https://open.spotify.com/track/7a9RyCvNuctoNFlPi8eyBu) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx) | [Flying away](https://open.spotify.com/album/5v18LwFNg1ZiI4lwUV7gzx) | 4:08 | 2024-11-13 | 2025-07-05 |
 | [Foolin' Me](https://open.spotify.com/track/6rd0oz9aITXqB1DEC6NKdn) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [Maydien](https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Foolin' Me](https://open.spotify.com/album/1h05wNs1D5arO5WtZ0lY8T) | 3:58 | 2025-04-24 | 2025-09-21 |
@@ -219,6 +220,7 @@
 | [Home](https://open.spotify.com/track/3wa8JC8fe9gtsrMj7pXiKz) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Genesis](https://open.spotify.com/album/0uqPboQOJKyyLKAx41LygI) | 3:03 | 2022-02-10 | 2022-11-20 |
 | [Home](https://open.spotify.com/track/0zo3jZ7I0wMugFsqgN1zQp) | [LULU.](https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch) | [Dear Disorientated Soul](https://open.spotify.com/album/67zBPvAcphmzJxuYPpyeUQ) | 2:16 | 2024-05-24 | 2025-03-28 |
 | [home](https://open.spotify.com/track/5pObh8ZUFuPDKLgoQvc91Y) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [home](https://open.spotify.com/album/0qGTzUTmqLwTap5WfHYAqr) | 3:55 | 2025-09-20 |  |
+| [Home In Tokyo](https://open.spotify.com/track/4rermdt73Db2zDUR7E4Qay) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx) | [Home In Tokyo](https://open.spotify.com/album/5GkTulobCNZMKHlzohNAqw) | 2:58 | 2025-10-08 |  |
 | [Hope](https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 4:30 | 2021-12-16 | 2022-02-11 |
 | [hope u don't mind](https://open.spotify.com/track/1XS1nLEdIUvgO2BpzN90DL) | [Billy Davis](https://open.spotify.com/artist/1faxe25Wp3Nk43xVVxsdSB), [Dann Dib](https://open.spotify.com/artist/7zKpsWi7nGfM6AREKbpMoj), [Tim Fontaine](https://open.spotify.com/artist/3WuiQYm4EDRcrQtJFEuHyJ) | [hope u don't mind](https://open.spotify.com/album/5lPdqO6eqNTTCSmHFMhXUk) | 3:06 | 2025-04-28 |  |
 | [Hoping](https://open.spotify.com/track/2YtmKiLNcLf9hmTRy2MBYS) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [Hoping](https://open.spotify.com/album/4ZjCY9MWho4qTeysPoj3gI) | 2:33 | 2024-11-13 | 2025-02-28 |
@@ -235,6 +237,7 @@
 | [I Choose U \(feat\. RINI\)](https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [I Choose U \(feat\. RINI\)](https://open.spotify.com/album/0DcgdM3SS9A8wEig25dsqh) | 3:22 | 2023-03-30 | 2024-03-22 |
 | [I Don't Want To Leave](https://open.spotify.com/track/3ENINBIFCYLoTP9EYnKNvu) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [I Don't Want To Leave](https://open.spotify.com/album/4nQs0aAVzyHCP81VSC3YzC) | 4:30 | 2025-09-20 |  |
 | [I Got Diplomas](https://open.spotify.com/track/5aV3ALw9wpNRdjwxPelUpe) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [I Got Diplomas](https://open.spotify.com/album/4wol6rgjmq9Qr0KBubygGj) | 1:30 | 2022-03-10 | 2022-05-20 |
+| [I Got Your Back II](https://open.spotify.com/track/48PVSDZwDOyvexxZIqXfKK) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY), [K1D](https://open.spotify.com/artist/6vkNDrbuaVIuKwAylGos5o) | [I Got Your Back II](https://open.spotify.com/album/5dcGaD5XslCu9XCxqGeSQS) | 3:04 | 2025-10-08 |  |
 | [I See You](https://open.spotify.com/track/4aAJQjtjZQXKFEHIpZEJCj) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 3:58 | 2022-10-28 | 2023-02-18 |
 | [I See You](https://open.spotify.com/track/6V1t4hTpqOyLgeTge1VWxL) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 3:58 | 2022-02-10 | 2022-11-02 |
 | [I Used to Blame Others](https://open.spotify.com/track/1kA6PCZmtjHXvkXJV7YRZI) | [Gita Buhari](https://open.spotify.com/artist/24BUyCLuFoyt6qsfespK0D) | [I Used to Blame Others](https://open.spotify.com/album/40Vw94C1sS4kMsgY8Yp9h4) | 3:19 | 2022-04-28 | 2022-10-15 |
@@ -243,7 +246,7 @@
 | [Icarus](https://open.spotify.com/track/2KzpsnZztszanilxkAQBTh) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [ICARUS](https://open.spotify.com/album/6aGniRX6xCiybxgzc6llFD) | 4:58 | 2021-12-16 | 2022-02-25 |
 | [If I Stay](https://open.spotify.com/track/09Ib2XztcUmNGD2iNPiQTg) | [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [If I Stay](https://open.spotify.com/album/1MJRA5NaQMs0KQs81sz4hX) | 3:28 | 2024-10-25 | 2025-01-10 |
 | [If They Fight](https://open.spotify.com/track/1VYTntAHqw8CzIJHkQELhx) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [Kay Slice](https://open.spotify.com/artist/1mPNT5YwLcCKfjdTwOfSC8) | [If They Fight](https://open.spotify.com/album/5CKXnp8ymRtSpBINyM8gfC) | 6:39 | 2024-11-22 | 2025-08-10 |
-| [Illusion](https://open.spotify.com/track/3gHncxCfXJFscqkjuZwxSx) | [OGENE](https://open.spotify.com/artist/03MaDuGA6vbzj9xRKljrI8) | [Illusion](https://open.spotify.com/album/3nCzJNz0PjANPCBku0a5XI) | 3:30 | 2025-01-23 |  |
+| [Illusion](https://open.spotify.com/track/3gHncxCfXJFscqkjuZwxSx) | [OGENE](https://open.spotify.com/artist/03MaDuGA6vbzj9xRKljrI8) | [Illusion](https://open.spotify.com/album/3nCzJNz0PjANPCBku0a5XI) | 3:30 | 2025-01-23 | 2025-10-09 |
 | [Illusions](https://open.spotify.com/track/7KbAnSIxjZb8AXkMM1EfTG) | [EMY](https://open.spotify.com/artist/60fG6DGeN38kRBsBaokPNG) | [Illusions](https://open.spotify.com/album/351WcL5BItxQNGjf4zVCkw) | 3:21 | 2022-02-10 | 2022-07-07 |
 | [ILY](https://open.spotify.com/track/64ufqPq3lzvKZrY6eDTKEv) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [ILY](https://open.spotify.com/album/17huoEXCzGM5Reu8bfBsHP) | 4:08 | 2024-02-09 | 2024-11-14 |
 | [Imaginary Windows](https://open.spotify.com/track/57D4IUGT6DHjAqiyJzbGCF) | [Helena Casella](https://open.spotify.com/artist/0cRh1NWKBsNPYyUwc7DiYN) | [Imaginary Windows](https://open.spotify.com/album/1RRDWzSM2lCKrt4p0Exy7I) | 6:32 | 2025-01-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 
 > Classic Contemporary Christian songs you can always count on! Cover: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 650,388 likes - 150 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 650,528 likes - 150 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 33 | [Yes I Will](https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Bright Faith Bold Future](https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj) | 3:54 |
 | 34 | [Love Broke Thru](https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [This Is Not A Test](https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG) | 3:57 |
 | 35 | [Whom Shall I Fear \(God Of Angel Armies\)](https://open.spotify.com/track/2VuwpxQR7rTPWkoLkpANdz) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Burning Lights](https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW) | 4:27 |
-| 36 | [Honestly, We Just Need Jesus](https://open.spotify.com/track/4tBmvwXJKaxi8pWyBWMwT8) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Give It Time](https://open.spotify.com/album/36TqkiS7AIf2u2dG4fQymd) | 3:28 |
+| 36 | [Soul On Fire \(feat\. All Sons & Daughters\) \(feat\. All Sons & Daughters\)](https://open.spotify.com/track/73ZSUS3WLluxgASR1Hp74B) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch), [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [Lead Us Back: Songs of Worship](https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw) | 3:17 |
 | 37 | [Oh My Soul](https://open.spotify.com/track/3s0h3pyKFrS3XX6ZLBPx6s) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Very Next Thing](https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S) | 4:15 |
-| 38 | [Soul On Fire \(feat\. All Sons & Daughters\) \(feat\. All Sons & Daughters\)](https://open.spotify.com/track/73ZSUS3WLluxgASR1Hp74B) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch), [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [Lead Us Back: Songs of Worship](https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw) | 3:17 |
+| 38 | [Honestly, We Just Need Jesus](https://open.spotify.com/track/4tBmvwXJKaxi8pWyBWMwT8) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Give It Time](https://open.spotify.com/album/36TqkiS7AIf2u2dG4fQymd) | 3:28 |
 | 39 | [Fear Is a Liar](https://open.spotify.com/track/6Z85UCEueQcgSyChlrEu5G) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Chain Breaker \(Deluxe Edition\)](https://open.spotify.com/album/1SIDIEoYi0EAlRqa1J6J7N) | 4:25 |
 | 40 | [Redeemed](https://open.spotify.com/track/7zuwaenG5AF0vG7o7kMduX) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life](https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM) | 4:36 |
 | 41 | [How He Loves](https://open.spotify.com/track/6WSFMa721PvfnspCRsGOMh) | [David Crowder Band](https://open.spotify.com/artist/7DhP3bGT7dzr1dCkkH5mTS) | [Church Music](https://open.spotify.com/album/69UXabkBHbKMJ0DQjctXtK) | 5:18 |
@@ -153,9 +153,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 143 | [Death Was Arrested](https://open.spotify.com/track/7eBybNhcjCylloMZT2QjQE) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Death Was Arrested](https://open.spotify.com/album/7JnYzgXFC4jEM0XFtwRdK9) | 4:53 |
 | 144 | [Tell Your Heart To Beat Again](https://open.spotify.com/track/4F6KXBE38OBGPZsryUih1x) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM) | 3:53 |
 | 145 | [You've Always Been](https://open.spotify.com/track/3WJu00SBajX0tuNfg53yKU) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Reason](https://open.spotify.com/album/5AJl777j0hpNnNGWSrMLSW) | 3:38 |
-| 146 | [Revelation Song](https://open.spotify.com/track/3pZVH0mPC6fxtmjOT0i9t5) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Kari Jobe](https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb) | 6:01 |
-| 147 | [Look What You've Done](https://open.spotify.com/track/4jwOLoEPJaOvluUYBNpxCy) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Look What You've Done](https://open.spotify.com/album/4aMweKaQNh6Yc8cg4WoMu5) | 3:25 |
-| 148 | [Even If](https://open.spotify.com/track/787cootcZRw5Xr47Of97AN) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H) | 4:15 |
+| 146 | [Even If](https://open.spotify.com/track/787cootcZRw5Xr47Of97AN) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H) | 4:15 |
+| 147 | [Revelation Song](https://open.spotify.com/track/3pZVH0mPC6fxtmjOT0i9t5) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Kari Jobe](https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb) | 6:01 |
+| 148 | [Look What You've Done](https://open.spotify.com/track/4jwOLoEPJaOvluUYBNpxCy) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Look What You've Done](https://open.spotify.com/album/4aMweKaQNh6Yc8cg4WoMu5) | 3:25 |
 | 149 | [Drops In the Ocean](https://open.spotify.com/track/3qEOommLiDYvxoZfsB3ONu) | [Hawk Nelson](https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh) | [Diamonds](https://open.spotify.com/album/0K0cTogib6M3YiM3yA7Cik) | 3:21 |
 | 150 | [HAPPY](https://open.spotify.com/track/1pAkVoknb9Mlk7bYO2ZCJP) | [Eric Champlin](https://open.spotify.com/artist/00sjYUgXKrnRL9EajnFQTa), [Haylie Allcott](https://open.spotify.com/artist/7JhR8iHc1tpV79FCvWFl6I) | [HAPPY](https://open.spotify.com/album/1rA3RF48jvzdYtQuiJDeWt) | 4:02 |
 

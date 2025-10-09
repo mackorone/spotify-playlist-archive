@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 1041127,
+  "num_followers": 1041232,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,26 @@
     {
       "added_at": "2025-10-03 04:00:42",
       "album": {
+        "name": "DREAMING ON",
+        "url": "https://open.spotify.com/album/5sY3WmDg2KxBm7fpYbN2HN"
+      },
+      "artists": [
+        {
+          "name": "Paul Kalkbrenner",
+          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
+        },
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 230018,
+      "name": "DREAMING ON",
+      "url": "https://open.spotify.com/track/2ky1fHLtQlF2Roi4DItneg"
+    },
+    {
+      "added_at": "2025-10-03 04:00:42",
+      "album": {
         "name": "ten days",
         "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 453068,
       "name": "glow",
       "url": "https://open.spotify.com/track/3i9QKRl5Ql3pgUfNdYBVTc"
-    },
-    {
-      "added_at": "2025-10-03 04:00:42",
-      "album": {
-        "name": "DREAMING ON",
-        "url": "https://open.spotify.com/album/5sY3WmDg2KxBm7fpYbN2HN"
-      },
-      "artists": [
-        {
-          "name": "Paul Kalkbrenner",
-          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
-        },
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 230018,
-      "name": "DREAMING ON",
-      "url": "https://open.spotify.com/track/2ky1fHLtQlF2Roi4DItneg"
     },
     {
       "added_at": "2025-10-03 04:00:42",
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-10-03 04:00:42",
       "album": {
+        "name": "EYES",
+        "url": "https://open.spotify.com/album/3Q5Eggq49qEGPF4ag1e0fO"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 212080,
+      "name": "EYES",
+      "url": "https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR"
+    },
+    {
+      "added_at": "2025-10-03 04:00:42",
+      "album": {
         "name": "Waste my time",
         "url": "https://open.spotify.com/album/3VsSZzexEbHqQu1hfDrpEY"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 268359,
       "name": "Waste my time",
       "url": "https://open.spotify.com/track/4xCLq4cUWXD5FZS7sRImSL"
-    },
-    {
-      "added_at": "2025-10-03 04:00:42",
-      "album": {
-        "name": "EYES",
-        "url": "https://open.spotify.com/album/3Q5Eggq49qEGPF4ag1e0fO"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 212080,
-      "name": "EYES",
-      "url": "https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR"
     },
     {
       "added_at": "2025-10-03 04:00:42",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-10-03 04:00:42",
       "album": {
-        "name": "Next to Me",
-        "url": "https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 314389,
-      "name": "Next to Me",
-      "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
-    },
-    {
-      "added_at": "2025-10-03 04:00:42",
-      "album": {
         "name": "Saga",
         "url": "https://open.spotify.com/album/6ooAO2z9UPfC2Rz1c9x52h"
       },
@@ -1007,22 +991,18 @@
     {
       "added_at": "2025-10-03 04:00:42",
       "album": {
-        "name": "Running Up That Hill",
-        "url": "https://open.spotify.com/album/18vln26XLOG633FiGZ0GLF"
+        "name": "Next to Me",
+        "url": "https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN"
       },
       "artists": [
         {
-          "name": "Disfreq",
-          "url": "https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345"
-        },
-        {
-          "name": "mOat",
-          "url": "https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 209523,
-      "name": "Running Up That Hill",
-      "url": "https://open.spotify.com/track/6FPZOmgqrLVDO9eCocyUY8"
+      "duration_ms": 314389,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
     },
     {
       "added_at": "2025-10-03 04:00:42",
@@ -1039,6 +1019,26 @@
       "duration_ms": 120853,
       "name": "BOY (ZACARIA)",
       "url": "https://open.spotify.com/track/04sAktFgPACZPDeiXV09PL"
+    },
+    {
+      "added_at": "2025-10-03 04:00:42",
+      "album": {
+        "name": "Running Up That Hill",
+        "url": "https://open.spotify.com/album/18vln26XLOG633FiGZ0GLF"
+      },
+      "artists": [
+        {
+          "name": "Disfreq",
+          "url": "https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345"
+        },
+        {
+          "name": "mOat",
+          "url": "https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds"
+        }
+      ],
+      "duration_ms": 209523,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/6FPZOmgqrLVDO9eCocyUY8"
     },
     {
       "added_at": "2025-10-03 04:00:42",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2025-10-03 04:00:42",
       "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/0kvc8rqF5vtlKwN78Fa85y"
+      },
+      "artists": [
+        {
+          "name": "NOVEMBER KID",
+          "url": "https://open.spotify.com/artist/4gFiVj1eoR6KQPQyFZgXRM"
+        }
+      ],
+      "duration_ms": 121818,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/3u6QGMiBRiIr3nprnSBo0s"
+    },
+    {
+      "added_at": "2025-10-03 04:00:42",
+      "album": {
         "name": "Too Young",
         "url": "https://open.spotify.com/album/2eSDpMFSB9UmWGOa9tzcC4"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 175637,
       "name": "Too Young",
       "url": "https://open.spotify.com/track/2P47oSY4wOA04R35miFEnn"
-    },
-    {
-      "added_at": "2025-10-03 04:00:42",
-      "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/0kvc8rqF5vtlKwN78Fa85y"
-      },
-      "artists": [
-        {
-          "name": "NOVEMBER KID",
-          "url": "https://open.spotify.com/artist/4gFiVj1eoR6KQPQyFZgXRM"
-        }
-      ],
-      "duration_ms": 121818,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/3u6QGMiBRiIr3nprnSBo0s"
     },
     {
       "added_at": "2025-10-03 04:00:42",

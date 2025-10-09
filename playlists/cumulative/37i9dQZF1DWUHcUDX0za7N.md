@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Odumodublvck
 
-650 songs - 1 day 6 hr 32 min
+651 songs - 1 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [Fly](https://open.spotify.com/track/1GYbLczHk6f3O6drvghsB4) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [Pawon + Fly](https://open.spotify.com/album/6twgGorVU0d808ToQ632pw) | 1:58 | 2025-09-19 |  |
 | [Folasade](https://open.spotify.com/track/4vSmuYwg5da3fheZ9HcNi5) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Folasade](https://open.spotify.com/album/1M6bYAJ0BlpTvH9GpJBvPN) | 2:48 | 2025-06-13 |  |
 | [For Where?](https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [For Where?](https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK) | 1:53 | 2025-01-21 |  |
-| [Forever \(feat\. Shallipopi\)](https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ) | 2:35 | 2024-09-06 |  |
+| [Forever \(feat\. Shallipopi\)](https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ) | 2:35 | 2024-09-06 | 2025-10-09 |
 | [Forget](https://open.spotify.com/track/6xcvbEe9Mu2hldUUI7fK75) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Lifestyle](https://open.spotify.com/album/3i6iYJyQpFNpsvFRr7a3o5) | 2:24 | 2025-08-15 |  |
 | [Free Service](https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Free Service](https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW) | 2:36 | 2024-10-12 |  |
 | [Frenemies](https://open.spotify.com/track/4E36I3slp0mrMJi5B2jX63) | [Bils](https://open.spotify.com/artist/4ra22MalcoLKAIJwwkeJ8o) | [Frenemies](https://open.spotify.com/album/7yAck9wFhYhgzUMNO6B5ws) | 2:47 | 2024-03-01 | 2024-03-29 |
@@ -365,6 +365,7 @@
 | [Love Triangle](https://open.spotify.com/track/0nfY7lzgMQvAR6bMyMr1ac) | [7Dime](https://open.spotify.com/artist/2ezc7Zq9xX0tADcy8UbvNi) | [Love Triangle](https://open.spotify.com/album/3jUpxVJwDVNiWELcyukdOU) | 2:32 | 2023-03-30 | 2023-06-17 |
 | [LUV U](https://open.spotify.com/track/5RLKu8UORU150aRLREflOK) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB), [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [LUV U](https://open.spotify.com/album/7eQ7lfwB8uHZMs1KpOKsWx) | 2:15 | 2025-04-18 | 2025-06-10 |
 | [Madam De Madam](https://open.spotify.com/track/0ZsbFYlRLuxPiz0geTzUTZ) | [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Madam De Madam](https://open.spotify.com/album/3bMvPUkqDhLz4rJ39ysnHr) | 4:22 | 2023-05-04 | 2023-05-27 |
+| [Mademoiselle \(feat\. ODUMODUBLVCK, Shallipopi, Theodora, Zeina\)](https://open.spotify.com/track/1iYBlO1RGEFeDnG3AH4gUE) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 2:51 | 2025-10-08 |  |
 | [Make It Out](https://open.spotify.com/track/2ToJcDtJ4DDUhIN0rvsZ6O) | [Shegzy Marley](https://open.spotify.com/artist/19nsjBMc8LX0LA4Z8DuPrs), [Areezy](https://open.spotify.com/artist/3kRqE8yQ4IbYJFXczu57SD) | [Make It Out](https://open.spotify.com/album/1YztVnyIOgxXthPmqzuORL) | 2:43 | 2024-12-06 | 2025-01-22 |
 | [Malaika](https://open.spotify.com/track/49YxupwKQB4HbBaQDf1nP9) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Malaika](https://open.spotify.com/album/4tToAXh7PVPnx0OCGku2IL) | 2:53 | 2024-09-09 | 2025-07-11 |
 | [Malaika](https://open.spotify.com/track/6OLsNF93NAkdaWJXQev6Xi) | [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Mugisho](https://open.spotify.com/artist/3KRCoMtReqUVKI38p5aWHw) | [Malaika](https://open.spotify.com/album/7lL6Y1meW33YLH60oSaaoN) | 2:33 | 2025-06-27 | 2025-09-19 |

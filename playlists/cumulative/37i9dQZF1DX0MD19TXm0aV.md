@@ -2,9 +2,9 @@
 
 ### [Hot Hits Switzerland](https://open.spotify.com/playlist/37i9dQZF1DX0MD19TXm0aV)
 
-> Switzerland's biggest hits right now\. Cover: sombr
+> Switzerland's biggest hits right now\. Cover: Taylor Swift
 
-302 songs - 15 hr 0 min
+304 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Dumlla Dumlla](https://open.spotify.com/track/0P8bIaYfsiI1yNeM2jywuP) | [Dafina Zeqiri](https://open.spotify.com/artist/6V6mxrGG67IyLFy2l4poNZ), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Dumlla Dumlla](https://open.spotify.com/album/1ZibKzYsDKtZCl29GLIkbZ) | 3:06 | 2024-08-13 | 2024-09-18 |
 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 | 2024-09-25 | 2024-12-12 |
 | [Energy](https://open.spotify.com/track/5HEnfAa0K1ajHfz5zHw87u) | [Dafina Zeqiri](https://open.spotify.com/artist/6V6mxrGG67IyLFy2l4poNZ), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Energy](https://open.spotify.com/album/5ASW061ofFSrpEFrW0XhRJ) | 3:03 | 2025-06-03 | 2025-07-24 |
-| [erstersommerohnedich](https://open.spotify.com/track/0Bf7Lc7d6gE3xUDCePUvV7) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [erstersommerohnedich](https://open.spotify.com/album/2KOoc1rqO8WYrDWI1FUFDV) | 2:34 | 2025-09-16 |  |
+| [erstersommerohnedich](https://open.spotify.com/track/0Bf7Lc7d6gE3xUDCePUvV7) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [erstersommerohnedich](https://open.spotify.com/album/2KOoc1rqO8WYrDWI1FUFDV) | 2:34 | 2025-09-16 | 2025-10-09 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-07-02 | 2024-10-02 |
 | [Espresso Macchiato](https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns) | 2:53 | 2025-05-21 | 2025-06-14 |
 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 | 2025-07-23 |  |
@@ -193,10 +193,12 @@
 | [no tiene sentido](https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:38 | 2025-06-13 | 2025-06-25 |
 | [Nomal Sone Nacht](https://open.spotify.com/track/5A6f8ixINritccc4FuRzyj) | [Dabu Fantastic](https://open.spotify.com/artist/7aaXYTOjKbeCwVxZRXAC24) | [Ciao Baby, Ciao](https://open.spotify.com/album/0uIcSM21G7CV3aWW4wdlJW) | 3:10 | 2025-04-16 | 2025-06-14 |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2025-02-11 | 2025-04-17 |
+| [NOW OR NEVER](https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO), [CXSPER](https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL) | [NOW OR NEVER](https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM) | 2:03 | 2025-10-08 |  |
 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2025-01-07 |  |
 | [Obsesion](https://open.spotify.com/track/6ymaPM4b33D7mXzWXidOVI) | [Tayna](https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ) | [Obsesion](https://open.spotify.com/album/2bSXp4j5s1Js6vVVxHRmSk) | 2:55 | 2024-11-19 | 2025-01-29 |
 | [ON/OFF](https://open.spotify.com/track/7rSYTSeitpCYIE5r22JJ5G) | [ddp](https://open.spotify.com/artist/0HspbEdYue08iRrGtnG0YY), [EAZ](https://open.spotify.com/artist/03Vz1qy4oauKKM9kJKy5DW), [XEN](https://open.spotify.com/artist/1Yso012dk6JFCIGwvCxTBS) | [ON/OFF](https://open.spotify.com/album/1QvS3LmutrvORdWe19FWvY) | 2:18 | 2024-07-02 | 2024-08-08 |
 | [Only One I Need](https://open.spotify.com/track/3KjEAu1W14nGLCNA52ib3Q) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Only One I Need](https://open.spotify.com/album/5yjLnFizgrGtPGdzLjpOgz) | 2:26 | 2024-07-02 | 2024-07-20 |
+| [Opalite](https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:55 | 2025-10-08 |  |
 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-02-11 |  |
 | [Panama](https://open.spotify.com/track/3qcreqi8RaGqahtJSQDxNI) | [GReeeN](https://open.spotify.com/artist/0t84CBqmvihsUVFme33TLd) | [Glückskind](https://open.spotify.com/album/2J3En8aAFnHAT3rgsobCoI) | 2:37 | 2024-07-02 | 2024-09-18 |
 | [PARFUM](https://open.spotify.com/track/7f4L1SHhVir0UxPC2sKidp) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [PARFUM](https://open.spotify.com/album/6IJCERv7XJRidC0wCqPmBq) | 2:40 | 2025-06-24 | 2025-08-07 |
@@ -265,7 +267,7 @@
 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 | 2025-09-10 |  |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-13 | 2025-01-29 |
 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 | 2025-10-03 |  |
-| [The First Time](https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:38 | 2025-06-03 |  |
+| [The First Time](https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:38 | 2025-06-03 | 2025-10-09 |
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-06 |  |
 | [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-10-01 | 2024-11-06 |
 | [TIT FOR TAT](https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TIT FOR TAT](https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz) | 2:55 | 2025-10-01 |  |

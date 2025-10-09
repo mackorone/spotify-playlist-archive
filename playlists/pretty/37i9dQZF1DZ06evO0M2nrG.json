@@ -1,12 +1,12 @@
 {
   "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 68572,
+  "num_followers": 68573,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAADC2qDiDr4znOsfVTAlAxPJ",
+  "snapshot_id": "aORYAAAAAACjhQjVtl9JrPQ1/INDTTtb",
   "tracks": [
     {
       "added_at": null,
@@ -386,31 +386,11 @@
         {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 188412,
-      "name": "La Falta",
-      "url": "https://open.spotify.com/track/3ButIE6y5SSxmpI5y6rOaP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Navegando",
-        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 183092,
-      "name": "Qu\u00e9date Aqu\u00ed",
-      "url": "https://open.spotify.com/track/3BACFM8lX32l9N6jVqxsiY"
+      "duration_ms": 147000,
+      "name": "Si Dios Fuera Poeta",
+      "url": "https://open.spotify.com/track/0UHtz5TdWehAXurroIfemG"
     },
     {
       "added_at": null,
@@ -427,6 +407,22 @@
       "duration_ms": 195453,
       "name": "La Indocumentada",
       "url": "https://open.spotify.com/track/6d0ffzIcbMVvzIqhaonSlT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 183092,
+      "name": "Qu\u00e9date Aqu\u00ed",
+      "url": "https://open.spotify.com/track/3BACFM8lX32l9N6jVqxsiY"
     },
     {
       "added_at": null,
@@ -462,11 +458,15 @@
         {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Si Dios Fuera Poeta",
-      "url": "https://open.spotify.com/track/0UHtz5TdWehAXurroIfemG"
+      "duration_ms": 188412,
+      "name": "La Falta",
+      "url": "https://open.spotify.com/track/3ButIE6y5SSxmpI5y6rOaP"
     },
     {
       "added_at": null,
@@ -503,22 +503,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cali Buenaventura",
-        "url": "https://open.spotify.com/album/5DTrImST5GokeEV8iA2u2e"
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
       },
       "artists": [
         {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "DFZM",
-          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
         }
       ],
-      "duration_ms": 198238,
-      "name": "Cali Buenaventura",
-      "url": "https://open.spotify.com/track/0W8UQlUt6yVuPeUvGU7OdK"
+      "duration_ms": 161860,
+      "name": "Sufrimos De Lo Mismo",
+      "url": "https://open.spotify.com/track/4MfgiylBOsMHirFwqSJssN"
     },
     {
       "added_at": null,
@@ -563,18 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Navegando",
-        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+        "name": "Cali Buenaventura",
+        "url": "https://open.spotify.com/album/5DTrImST5GokeEV8iA2u2e"
       },
       "artists": [
         {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
         }
       ],
-      "duration_ms": 161860,
-      "name": "Sufrimos De Lo Mismo",
-      "url": "https://open.spotify.com/track/4MfgiylBOsMHirFwqSJssN"
+      "duration_ms": 198238,
+      "name": "Cali Buenaventura",
+      "url": "https://open.spotify.com/track/0W8UQlUt6yVuPeUvGU7OdK"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Estar Contigo",
+        "url": "https://open.spotify.com/album/0INkvjucGFvMmbYrNU3qGu"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 228832,
+      "name": "Estar Contigo",
+      "url": "https://open.spotify.com/track/07ij59WCKQFlWRV8ACFJEp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Contento",
         "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 200547,
       "name": "Ropa Interior (feat. Be\u00e9le)",
       "url": "https://open.spotify.com/track/0fuNqrwsaOVrhowxsAKvc8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Estar Contigo",
-        "url": "https://open.spotify.com/album/0INkvjucGFvMmbYrNU3qGu"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 228832,
-      "name": "Estar Contigo",
-      "url": "https://open.spotify.com/track/07ij59WCKQFlWRV8ACFJEp"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contento",
-        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 179501,
-      "name": "Navegando",
-      "url": "https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Modo Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/3IKPdMbD9JAiXMsWB4rXWE"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 183177,
       "name": "Modo Rom\u00e1ntico",
       "url": "https://open.spotify.com/track/5pUedtLoLoZhisVtY7zhyy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 179501,
+      "name": "Navegando",
+      "url": "https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh"
     },
     {
       "added_at": null,

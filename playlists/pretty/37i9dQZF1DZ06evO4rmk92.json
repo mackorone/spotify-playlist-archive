@@ -1,12 +1,12 @@
 {
   "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
-  "num_followers": 123082,
+  "num_followers": 123104,
   "original_name": "This Is Nat King Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAACHc/toZw5iRolYO+B8u1Tn",
+  "snapshot_id": "aORYAAAAAAB6uxWkwoJjoNBQCVOq2Q+m",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ballads Of The Day",
-        "url": "https://open.spotify.com/album/0DkutYCEt5FOn5o064NxN2"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 179093,
-      "name": "Smile - Mono / 1954 Version / Remastered 1992",
-      "url": "https://open.spotify.com/track/0WNsDyndBS63qBMxbZ9OHR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Nat King Cole Story",
         "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 184466,
       "name": "(I Love You) For Sentimental Reasons",
       "url": "https://open.spotify.com/track/5QnCtH7euld6R68UwcWrte"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ballads Of The Day",
+        "url": "https://open.spotify.com/album/0DkutYCEt5FOn5o064NxN2"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 179093,
+      "name": "Smile - Mono / 1954 Version / Remastered 1992",
+      "url": "https://open.spotify.com/track/0WNsDyndBS63qBMxbZ9OHR"
     },
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Thought Of You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB"
+        "name": "Sings For Two In Love",
+        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 205786,
-      "name": "The More I See You",
-      "url": "https://open.spotify.com/track/64VKSHhJmNdA5sC46RSKTp"
+      "duration_ms": 168520,
+      "name": "Let's Fall In Love",
+      "url": "https://open.spotify.com/track/6Zis3c4TSJHeBkivT2tMzY"
     },
     {
       "added_at": null,
@@ -483,8 +483,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sings For Two In Love",
-        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+        "name": "Nat King Cole Sings George Shearing Plays",
+        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        },
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+        }
+      ],
+      "duration_ms": 209933,
+      "name": "I'm Lost",
+      "url": "https://open.spotify.com/track/4sWFAJNRxrkYlWC0UpYZXC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Very Thought Of You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB"
       },
       "artists": [
         {
@@ -492,9 +512,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 168520,
-      "name": "Let's Fall In Love",
-      "url": "https://open.spotify.com/track/6Zis3c4TSJHeBkivT2tMzY"
+      "duration_ms": 205786,
+      "name": "The More I See You",
+      "url": "https://open.spotify.com/track/64VKSHhJmNdA5sC46RSKTp"
     },
     {
       "added_at": null,
@@ -515,22 +535,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nat King Cole Sings George Shearing Plays",
-        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
+        "name": "A Mis Amigos",
+        "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
       },
       "artists": [
         {
           "name": "Nat King Cole",
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        },
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
         }
       ],
-      "duration_ms": 209933,
-      "name": "I'm Lost",
-      "url": "https://open.spotify.com/track/4sWFAJNRxrkYlWC0UpYZXC"
+      "duration_ms": 207960,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/2MQnCUzdidi7LNSLup0Afu"
     },
     {
       "added_at": null,
@@ -579,22 +595,6 @@
       "duration_ms": 197200,
       "name": "Red Sails In The Sunset",
       "url": "https://open.spotify.com/track/01JYtQf53bne6dOGzrneNU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Mis Amigos",
-        "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 207960,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/2MQnCUzdidi7LNSLup0Afu"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/4BtCNXyLlIHevbEnbVJBXC"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 162600,
+      "name": "You'll Never Know - Remastered",
+      "url": "https://open.spotify.com/track/5dPRT4LvyogKLxmFpNGV4m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Still Unforgettable (Expanded Edition)",
         "url": "https://open.spotify.com/album/5DoaC07Tzl170xtqz0f2oU"
       },
@@ -779,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/4BtCNXyLlIHevbEnbVJBXC"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 162600,
-      "name": "You'll Never Know - Remastered",
-      "url": "https://open.spotify.com/track/5dPRT4LvyogKLxmFpNGV4m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Nat King Cole",
         "url": "https://open.spotify.com/album/2ZCeZQGqdLN6zuhRVdLFaY"
       },
@@ -827,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Unforgettable Nat King Cole Sings The Great Songs",
-        "url": "https://open.spotify.com/album/7oQLfatdzvZL4SXboy7LiZ"
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/4BtCNXyLlIHevbEnbVJBXC"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 154026,
-      "name": "Around The World - Remastered",
-      "url": "https://open.spotify.com/track/3ps7CQq1zNxAvbXMgHfypY"
+      "duration_ms": 163933,
+      "name": "Love Letters - Remastered",
+      "url": "https://open.spotify.com/track/13dUfyPZRCUA1V2JVGeYpm"
     }
   ],
   "unique_name": "This Is Nat King Cole",

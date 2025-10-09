@@ -1,12 +1,12 @@
 {
   "description": "This is Fall Out Boy. The essential tracks, all in one playlist.",
-  "num_followers": 591125,
+  "num_followers": 591148,
   "original_name": "This Is Fall Out Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAAA2wxuu3Wvlp5tQvSTfqShC",
+  "snapshot_id": "aORYAAAAAADPvkwC2Evf4XdNqVTFaxSz",
   "tracks": [
     {
       "added_at": null,
@@ -272,17 +272,21 @@
       "added_at": null,
       "album": {
         "name": "Save Rock And Roll",
-        "url": "https://open.spotify.com/album/0EVJX4RlYKuApsAN5CaDa3"
+        "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
       },
       "artists": [
         {
           "name": "Fall Out Boy",
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        },
+        {
+          "name": "Foxes",
+          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
         }
       ],
-      "duration_ms": 203413,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/5MsZIaCYY6Tsdph0LiB0hE"
+      "duration_ms": 244720,
+      "name": "Just One Yesterday",
+      "url": "https://open.spotify.com/track/5OMCffelD9cnJCgG3xnHzU"
     },
     {
       "added_at": null,
@@ -336,21 +340,17 @@
       "added_at": null,
       "album": {
         "name": "Save Rock And Roll",
-        "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
+        "url": "https://open.spotify.com/album/0EVJX4RlYKuApsAN5CaDa3"
       },
       "artists": [
         {
           "name": "Fall Out Boy",
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        },
-        {
-          "name": "Foxes",
-          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
         }
       ],
-      "duration_ms": 244720,
-      "name": "Just One Yesterday",
-      "url": "https://open.spotify.com/track/5OMCffelD9cnJCgG3xnHzU"
+      "duration_ms": 203413,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/5MsZIaCYY6Tsdph0LiB0hE"
     },
     {
       "added_at": null,

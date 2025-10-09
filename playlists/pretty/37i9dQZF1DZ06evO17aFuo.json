@@ -1,12 +1,12 @@
 {
   "description": "This is Megadeth. The essential tracks, all in one playlist.",
-  "num_followers": 308997,
+  "num_followers": 309042,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAABJrU09XEcjRMtW6Ek/QVZV",
+  "snapshot_id": "aORYAAAAAADVE9/aqVfIrWU8XKmSdex/",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The World Needs a Hero",
-        "url": "https://open.spotify.com/album/1BbQ01oDFvVK4aHdgvsBB9"
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 265133,
-      "name": "Dread and the Fugitive Mind",
-      "url": "https://open.spotify.com/track/5ThljNlaUX5zNgNWBmanmG"
+      "duration_ms": 299106,
+      "name": "Dystopia",
+      "url": "https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
+        "name": "The World Needs a Hero",
+        "url": "https://open.spotify.com/album/1BbQ01oDFvVK4aHdgvsBB9"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 299106,
-      "name": "Dystopia",
-      "url": "https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO"
+      "duration_ms": 265133,
+      "name": "Dread and the Fugitive Mind",
+      "url": "https://open.spotify.com/track/5ThljNlaUX5zNgNWBmanmG"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The World Needs a Hero",
-        "url": "https://open.spotify.com/album/1BbQ01oDFvVK4aHdgvsBB9"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 268706,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/196rNjJkKTjsk2NTEtJKLq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dystopia",
         "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 213480,
       "name": "Conquer Or Die",
       "url": "https://open.spotify.com/track/1xdmx0UEYQE5Wl7D7UUt5U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The World Needs a Hero",
+        "url": "https://open.spotify.com/album/1BbQ01oDFvVK4aHdgvsBB9"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 268706,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/196rNjJkKTjsk2NTEtJKLq"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing Is My Business...And Business Is Good!",
-        "url": "https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 265266,
-      "name": "Mechanix",
-      "url": "https://open.spotify.com/track/2bfwYcc1FzkIym0XRkYb7F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sick, The Dying\u2026 And The Dead!",
         "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 304053,
       "name": "The Sick, The Dying\u2026 And The Dead!",
       "url": "https://open.spotify.com/track/6RzK7XvwxnRq6AKDklJS6L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Killing Is My Business...And Business Is Good!",
+        "url": "https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 265266,
+      "name": "Mechanix",
+      "url": "https://open.spotify.com/track/2bfwYcc1FzkIym0XRkYb7F"
     },
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Architecture Of Aggression",
+      "url": "https://open.spotify.com/track/1BbocHcTYAu0wCS4NqgRsI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Killing Is My Business...And Business Is Good!",
         "url": "https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 224080,
       "name": "Kill The King",
       "url": "https://open.spotify.com/track/3S9DHHYpM6KW1oqvrN8Lix"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 219800,
-      "name": "Architecture Of Aggression",
-      "url": "https://open.spotify.com/track/1BbocHcTYAu0wCS4NqgRsI"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing Is My Business...And Business Is Good!",
-        "url": "https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk"
+        "name": "The Sick, The Dying\u2026 And The Dead!",
+        "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 223040,
-      "name": "Rattlehead",
-      "url": "https://open.spotify.com/track/0a87tfuBhOFmYMgPjyR53R"
+      "duration_ms": 294426,
+      "name": "Soldier On!",
+      "url": "https://open.spotify.com/track/4jj9IDO2tCu7OuSop8vTxt"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sick, The Dying\u2026 And The Dead!",
-        "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
+        "name": "Killing Is My Business...And Business Is Good!",
+        "url": "https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 294426,
-      "name": "Soldier On!",
-      "url": "https://open.spotify.com/track/4jj9IDO2tCu7OuSop8vTxt"
+      "duration_ms": 223040,
+      "name": "Rattlehead",
+      "url": "https://open.spotify.com/track/0a87tfuBhOFmYMgPjyR53R"
     },
     {
       "added_at": null,

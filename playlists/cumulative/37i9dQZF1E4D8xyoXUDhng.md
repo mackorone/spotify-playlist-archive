@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Kurt Carr & The Kurt Carr Singers, Chicago Mass Choir, Smokie Norful and more
+> With Tramaine Hawkins, Smokie Norful, Kurt Carr & The Kurt Carr Singers and more
 
 1,897 songs - 6 day 0 hr 19 min
 

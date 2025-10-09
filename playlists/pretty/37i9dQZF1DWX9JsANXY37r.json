@@ -1,6 +1,6 @@
 {
   "description": "drinks em casa, nada melhor",
-  "num_followers": 123116,
+  "num_followers": 123122,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2025-10-04 00:28:56",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 194607,
-      "name": "Pretty Please",
-      "url": "https://open.spotify.com/track/6DXZiYUbrYgrVIhfX3U9Z2"
-    },
-    {
-      "added_at": "2025-10-04 00:28:56",
-      "album": {
         "name": "BUBBA",
         "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 183786,
       "name": "What You Need (feat. Charlotte Day Wilson)",
       "url": "https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA"
+    },
+    {
+      "added_at": "2025-10-04 00:28:56",
+      "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 194607,
+      "name": "Pretty Please",
+      "url": "https://open.spotify.com/track/6DXZiYUbrYgrVIhfX3U9Z2"
     },
     {
       "added_at": "2025-10-04 00:28:56",
@@ -739,22 +739,18 @@
     {
       "added_at": "2025-10-04 00:28:56",
       "album": {
-        "name": "Nossa Chance",
-        "url": "https://open.spotify.com/album/6H4qpKGByTw5x6ptH0ERO5"
+        "name": "Rose Rouge",
+        "url": "https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s"
       },
       "artists": [
         {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 224881,
-      "name": "Nossa Chance",
-      "url": "https://open.spotify.com/track/4oAp6TwkxdhCEadnvXNSoV"
+      "duration_ms": 357960,
+      "name": "Rose Rouge",
+      "url": "https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh"
     },
     {
       "added_at": "2025-10-04 00:28:56",
@@ -775,18 +771,22 @@
     {
       "added_at": "2025-10-04 00:28:56",
       "album": {
-        "name": "Rose Rouge",
-        "url": "https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s"
+        "name": "Nossa Chance",
+        "url": "https://open.spotify.com/album/6H4qpKGByTw5x6ptH0ERO5"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         }
       ],
-      "duration_ms": 357960,
-      "name": "Rose Rouge",
-      "url": "https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh"
+      "duration_ms": 224881,
+      "name": "Nossa Chance",
+      "url": "https://open.spotify.com/track/4oAp6TwkxdhCEadnvXNSoV"
     },
     {
       "added_at": "2025-10-04 00:28:56",

@@ -14188,7 +14188,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 208291,
       "name": "Elizabeth Taylor",
       "url": "https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL"
@@ -20400,7 +20400,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 297197,
       "name": "HOTSPOT",
       "url": "https://open.spotify.com/track/3Vx27UVwW4PnxIk9GqQArH"
@@ -30112,7 +30112,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 263840,
       "name": "Makoti (Lekompo Wedding Day)",
       "url": "https://open.spotify.com/track/1qWQSXiLdc93lEvz3SmU2H"
@@ -36750,10 +36750,28 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl (Track by Track Version)",
+        "url": "https://open.spotify.com/album/5HyZy1hYpNTiCLRRy4PeNc"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235356,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/5DYxz8TDpVVbRtWDABRIkJ"
     },
     {
       "album": {
@@ -47906,7 +47924,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 333633,
       "name": "Thando Lwakhe (feat. Nokwazi)",
       "url": "https://open.spotify.com/track/5Ld0cw16rmQ5XvgtPoGZD5"
@@ -48197,6 +48215,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl (Track by Track Version)",
+        "url": "https://open.spotify.com/album/5HyZy1hYpNTiCLRRy4PeNc"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/0VZvLbADBSQbwFfmvsNl6E"
+    },
+    {
+      "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
       },
@@ -48226,7 +48262,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -51670,7 +51706,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 222119,
       "name": "Umathandana wami",
       "url": "https://open.spotify.com/track/4IaV07VGtEvTzwMe85IzRi"
@@ -54080,7 +54116,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 297903,
       "name": "Wa Inama",
       "url": "https://open.spotify.com/track/4BVq8iuuhqjcwhHh6t8SP9"
@@ -54670,7 +54706,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-07",
+      "date_removed": null,
       "duration_ms": 280398,
       "name": "Warning",
       "url": "https://open.spotify.com/track/5JjQdivvXPrnjeEoxE16WD"
@@ -55184,6 +55220,24 @@
       "duration_ms": 280005,
       "name": "We're All Alone",
       "url": "https://open.spotify.com/track/22agj1ppHejR41cUyf7k6v"
+    },
+    {
+      "album": {
+        "name": "Weed",
+        "url": "https://open.spotify.com/album/0W8ghMnSIS3NKLXUwGvXCa"
+      },
+      "artists": [
+        {
+          "name": "Hypa Cee",
+          "url": "https://open.spotify.com/artist/7j3ddtuPmT2oQqAyrctFry"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "Weed",
+      "url": "https://open.spotify.com/track/0MTaKPALe6wztgsHOG5lWx"
     },
     {
       "album": {

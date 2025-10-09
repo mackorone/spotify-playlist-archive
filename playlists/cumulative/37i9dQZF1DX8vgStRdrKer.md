@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-622 songs - 2 day 3 hr 11 min
+623 songs - 2 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Good God](https://open.spotify.com/track/4IQWAPHjNX1ovrpFvlT3YZ) | [Ogocity](https://open.spotify.com/artist/0VktwMXyMvh0csIXgC62h4) | [Good God](https://open.spotify.com/album/6JHh4CujygAfP8O0KaMPic) | 3:39 | 2024-03-01 | 2024-04-14 |
 | [Good God II](https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Good God II](https://open.spotify.com/album/2Lr7qw2RPpX6YXu2HjxEMm) | 3:01 | 2024-03-08 | 2025-06-20 |
 | [Gospel Gyration Praise](https://open.spotify.com/track/5Xlvp9uxsGS05pUoFyqIHF) | [Sini Dagana](https://open.spotify.com/artist/4Qe3zkPW4YTQrde2Ef0dJb) | [Gospel Gyration Praise](https://open.spotify.com/album/6a86EokSQpzN3wluTEnBFB) | 5:55 | 2025-05-23 | 2025-06-13 |
-| [Grace found me](https://open.spotify.com/track/4FlUY7iLdtfyHbbGVvpqM5) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av), [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU), [Ronald Campbell](https://open.spotify.com/artist/3YJjBDq3oTqdYUBGGzGHrM) | [Grace found me](https://open.spotify.com/album/1I4ijFE5XwsOzAqRbGQT5x) | 9:06 | 2025-07-18 |  |
+| [Grace found me](https://open.spotify.com/track/4FlUY7iLdtfyHbbGVvpqM5) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av), [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU), [Ronald Campbell](https://open.spotify.com/artist/3YJjBDq3oTqdYUBGGzGHrM) | [Grace found me](https://open.spotify.com/album/1I4ijFE5XwsOzAqRbGQT5x) | 9:06 | 2025-07-18 | 2025-10-09 |
 | [Grateful](https://open.spotify.com/track/7eb7nSuU857g6I0BaTobzz) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Grateful](https://open.spotify.com/album/6Fh8l7FYm4ao0tFYJ9X3R9) | 5:34 | 2025-06-13 | 2025-06-27 |
 | [Great and Mighty](https://open.spotify.com/track/0Xpb7quWmjbEUtMolZKuBr) | [David Forlu](https://open.spotify.com/artist/3GZOiQIDEfPmITy20a8Wto) | [Great and Mighty](https://open.spotify.com/album/2NM3BD949dyy9SA5b5rN4s) | 6:35 | 2025-08-29 |  |
 | [GREAT AND MIGHTY](https://open.spotify.com/track/5UHI8GBPVcjN84itGHxVQF) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [DJ Ernesty](https://open.spotify.com/artist/0MGWyvcy2uXq5lVdATxcuj) | [GREAT AND MIGHTY](https://open.spotify.com/album/00H1U0v6a4YIIsa51RqMMm) | 2:55 | 2025-05-16 | 2025-06-20 |
@@ -248,6 +248,7 @@
 | [I Fear No Evil \(Grace Idowu Rendition\)](https://open.spotify.com/track/5yCCJK8o5g7vAPBGVNlJ2V) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [I Fear No Evil \(Grace Idowu Rendition\)](https://open.spotify.com/album/4OT93FOVowh9DWBoXdb6i5) | 5:59 | 2025-06-20 |  |
 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 | 2023-09-15 | 2024-03-16 |
 | [I give you praise](https://open.spotify.com/track/3aQcVHyOORVlwSFKgz5aDU) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av), [Dare David](https://open.spotify.com/artist/3iSjgaz8j7eDfSlsXqhx63) | [I give you praise](https://open.spotify.com/album/0bqQE5CKXex5wgd7H2fJnY) | 13:36 | 2025-05-23 | 2025-08-21 |
+| [I have seen the Lord's goodness](https://open.spotify.com/track/7jtaeMPp7sdgXBBmjIbnz3) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [I have seen the Lord's goodness](https://open.spotify.com/album/3C19JJubUUZbtIElmB5RUI) | 3:21 | 2025-09-19 |  |
 | [I lift my hands](https://open.spotify.com/track/3SKmshHmlHegeCJ32YbOew) | [Neken Chuwang](https://open.spotify.com/artist/6oeGlZWUfeCsScmxOZUxcA), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [I lift my hands](https://open.spotify.com/album/7LZgH3MtVto7zUznSkxomE) | 2:21 | 2025-08-22 | 2025-09-14 |
 | [I Praise You](https://open.spotify.com/track/3nS3Ftk7rYR8YdWMOscr6E) | [O'Tims](https://open.spotify.com/artist/7hpVW1ZJA24iE7j4PYl7zD), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [I Praise You](https://open.spotify.com/album/7GhfXdzDRQt4jgAlu6RAYI) | 8:24 | 2025-07-11 | 2025-09-12 |
 | [I Pray](https://open.spotify.com/track/18sXWlWwcfdxDDxgZq3sUj) | [Jesse Frohling](https://open.spotify.com/artist/4oxPN6AWEBO80UaVutGUdY), [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [I Pray](https://open.spotify.com/album/0JhI4lsVwhpUFdpiwjdY3m) | 3:41 | 2025-05-30 | 2025-10-03 |

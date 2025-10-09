@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 44 likes - 880 songs - 2 day 20 hr 58 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 44 likes - 881 songs - 2 day 21 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -888,5 +888,6 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 878 | [Yes I Know My Way \- 2021 Remaster](https://open.spotify.com/track/0HVvtZhPgnuR2Nia1x8zUX) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Vai mo' \(2021 Remaster\)](https://open.spotify.com/album/337FIRdreM3p4irs8hrMsX) | 3:36 |
 | 879 | [Feel Like Dancing](https://open.spotify.com/track/3gHeNtBAFc37RZ6uKBx28U) | [배인숙](https://open.spotify.com/artist/4XfI5fmlXHVAXmKwnGbZpL) | [3집 창부타령 / 님타령](https://open.spotify.com/album/5Qbo9qLS0p58vIkEjYMf76) | 4:32 |
 | 880 | [Ancora, ancora, ancora \- Radio Edit \(Mark Ronson Remix\)](https://open.spotify.com/track/0uBZ6Yk2k7QFkTEKdkqrKB) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Ancora, ancora, ancora \(Mark Ronson Remix\)](https://open.spotify.com/album/42JwuEeoDbsMeHXZFEoic5) | 4:16 |
+| 881 | [Woza](https://open.spotify.com/track/1ctFPcxav6iUH8gMYJY4Ez) | [Moskito](https://open.spotify.com/artist/4hPl23nJcNmFMEabNKAoJY) | [Idolar](https://open.spotify.com/album/3SjuOfwmyEqqOo8K5zcUdh) | 4:17 |
 
-Snapshot ID: `AAAD4XNLz41pHHAoHNckVGIrAzMdMGB6`
+Snapshot ID: `AAAD4lJKxGTWdjF9D5LRALtXhjfligXx`

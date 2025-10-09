@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Kick on with this mix of homegrown electronic music",
+  "description": "Electronic music from AUS + NZ",
   "name": "Sunday Sessions",
   "tracks": [
     {
@@ -104,7 +104,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 233253,
       "name": "21",
       "url": "https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih"
@@ -408,7 +408,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 153500,
       "name": "Bang My Line (feat. Tkay Maidza)",
       "url": "https://open.spotify.com/track/5phuEZAscX7xyQgvxyLKir"
@@ -593,6 +593,28 @@
     },
     {
       "album": {
+        "name": "Body Over Here",
+        "url": "https://open.spotify.com/album/1rjEOqtI2JV6Qm7AIrxLdZ"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        },
+        {
+          "name": "Ric Wilson",
+          "url": "https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159737,
+      "name": "Body Over Here",
+      "url": "https://open.spotify.com/track/53apPgrnpFAtIsUwWTKbv3"
+    },
+    {
+      "album": {
         "name": "Bop",
         "url": "https://open.spotify.com/album/4rJKZBpvy22QPs3S5h7cUj"
       },
@@ -622,7 +644,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 122094,
       "name": "Brain Freeze",
       "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
@@ -1111,6 +1133,24 @@
     },
     {
       "album": {
+        "name": "I Love My Computer",
+        "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231365,
+      "name": "Delete",
+      "url": "https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu"
+    },
+    {
+      "album": {
         "name": "DEVOTION",
         "url": "https://open.spotify.com/album/4yWVT9lEftVwrGYP4wj6lw"
       },
@@ -1513,6 +1553,28 @@
     },
     {
       "album": {
+        "name": "End Credits (Club Mix)",
+        "url": "https://open.spotify.com/album/1Cz6lL4tUT45PjP5VM5FE7"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        },
+        {
+          "name": "Real Lies",
+          "url": "https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "End Credits - Club Mix",
+      "url": "https://open.spotify.com/track/5zhHmUksI8MV1mDswqmFrt"
+    },
+    {
+      "album": {
         "name": "Endit",
         "url": "https://open.spotify.com/album/1AVmZmj8pjRRuLoP4KF5pc"
       },
@@ -1674,7 +1736,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 200813,
       "name": "Feel It - Claptone Remix",
       "url": "https://open.spotify.com/track/4Gnz8xgMWStsGMSU8ITxNS"
@@ -1826,7 +1888,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 295198,
       "name": "Flush with Love",
       "url": "https://open.spotify.com/track/5pbpePKq40EPcbfQSlFHD3"
@@ -2188,6 +2250,28 @@
       "duration_ms": 167009,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z"
+    },
+    {
+      "album": {
+        "name": "gossip",
+        "url": "https://open.spotify.com/album/1M2RVGLYbgdJMO6ygrF6Zw"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        },
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199690,
+      "name": "gossip",
+      "url": "https://open.spotify.com/track/3pgwQNwEqbU12kLNXNDB7Q"
     },
     {
       "album": {
@@ -2627,6 +2711,28 @@
     },
     {
       "album": {
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/2c46BQyJCnSEg04coWBihd"
+      },
+      "artists": [
+        {
+          "name": "Avi Snow",
+          "url": "https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu"
+        },
+        {
+          "name": "Night Tales",
+          "url": "https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284002,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/2Vp0VlimY9OTjOvS97xOOn"
+    },
+    {
+      "album": {
         "name": "girl EDM",
         "url": "https://open.spotify.com/album/4QinbF7oFNC9rdcWNiF3Vu"
       },
@@ -2770,6 +2876,24 @@
       "duration_ms": 196524,
       "name": "iPod Touch",
       "url": "https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s"
+    },
+    {
+      "album": {
+        "name": "It's All Here",
+        "url": "https://open.spotify.com/album/6slPM9uKXBhPF1hp8kMuaF"
+      },
+      "artists": [
+        {
+          "name": "RONA.",
+          "url": "https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284105,
+      "name": "It's All Here",
+      "url": "https://open.spotify.com/track/2OcG6qGjgkW4zE7HYH0rN9"
     },
     {
       "album": {
@@ -3181,6 +3305,28 @@
     },
     {
       "album": {
+        "name": "Maroubra Villain (feat. Hellcat Speedracer)",
+        "url": "https://open.spotify.com/album/1LjmAF05GIS7CBzTAsZWs7"
+      },
+      "artists": [
+        {
+          "name": "Kobie Dee",
+          "url": "https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO"
+        },
+        {
+          "name": "Hellcat Speedracer",
+          "url": "https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184886,
+      "name": "Maroubra Villain (feat. Hellcat Speedracer)",
+      "url": "https://open.spotify.com/track/1bDwBMX4ssdrvWOmTi63Xz"
+    },
+    {
+      "album": {
         "name": "may i have this dance",
         "url": "https://open.spotify.com/album/0hItfKP7cGQqLyQgoopNNw"
       },
@@ -3232,7 +3378,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 272157,
       "name": "Meant2Be",
       "url": "https://open.spotify.com/track/3Gage5jAwBcaTmjbEebYjI"
@@ -3428,7 +3574,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 175021,
       "name": "Move Ya Body",
       "url": "https://open.spotify.com/track/2XvL3AOBDXqgQljhj9ksm2"
@@ -3763,6 +3909,24 @@
     },
     {
       "album": {
+        "name": "Ooo",
+        "url": "https://open.spotify.com/album/55F9lvdT7PRtVofAzLXDRX"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239823,
+      "name": "Ooo",
+      "url": "https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu"
+    },
+    {
+      "album": {
         "name": "OoooH",
         "url": "https://open.spotify.com/album/0GFRCYzjZQJDNCnu4z4FOa"
       },
@@ -3964,6 +4128,24 @@
       "duration_ms": 208375,
       "name": "Promises (feat. Rochelle Jordan)",
       "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
+    },
+    {
+      "album": {
+        "name": "Rainbow Road / Bubble Yum",
+        "url": "https://open.spotify.com/album/7MEor9X5o0deRWenraIpyJ"
+      },
+      "artists": [
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205417,
+      "name": "Rainbow Road",
+      "url": "https://open.spotify.com/track/5PaHD0fBcbOQvlq24D293B"
     },
     {
       "album": {
@@ -4671,6 +4853,24 @@
     },
     {
       "album": {
+        "name": "Stimulation",
+        "url": "https://open.spotify.com/album/28CIkCFWMObaWeO4KQ3lfb"
+      },
+      "artists": [
+        {
+          "name": "Sam Alfred",
+          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286687,
+      "name": "Stimulation",
+      "url": "https://open.spotify.com/track/3EKDfS52GYH6mXT7pyo1JV"
+    },
+    {
+      "album": {
         "name": "Strangers (with Mansionair)",
         "url": "https://open.spotify.com/album/7n50hdKDAZWurnx43hDHhJ"
       },
@@ -4784,7 +4984,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 150117,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/73hu23f3N0BQkwQ4Kp5aiq"
@@ -4806,7 +5006,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 128100,
       "name": "Sunny Day",
       "url": "https://open.spotify.com/track/15OCXMVSaf6sT6PVsBtgHT"
@@ -5183,6 +5383,24 @@
     },
     {
       "album": {
+        "name": "TN's",
+        "url": "https://open.spotify.com/album/6re07313Esj1OipNfjjUdh"
+      },
+      "artists": [
+        {
+          "name": "Lance Savali",
+          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196267,
+      "name": "TN's",
+      "url": "https://open.spotify.com/track/3VMArMhE9WcFyEmcn2PXkh"
+    },
+    {
+      "album": {
         "name": "To Be Loved",
         "url": "https://open.spotify.com/album/33ggnxVpDG4VspkNbJsxiu"
       },
@@ -5248,7 +5466,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 212521,
       "name": "TOMMY",
       "url": "https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po"
@@ -5358,7 +5576,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 220593,
       "name": "Turn Up The Sunshine - PNAU Remix / From 'Minions: The Rise of Gru' Soundtrack",
       "url": "https://open.spotify.com/track/3wR5OccDugBm5Od2NYcMaO"
@@ -5598,7 +5816,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 181330,
       "name": "wish that i could - Memphis LK Remix",
       "url": "https://open.spotify.com/track/10kgI5WbVmGmfaLzZPElCM"
@@ -5814,6 +6032,28 @@
       "duration_ms": 246832,
       "name": "You",
       "url": "https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk"
+    },
+    {
+      "album": {
+        "name": "you're a star",
+        "url": "https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219130,
+      "name": "you're a star",
+      "url": "https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ"
     },
     {
       "album": {

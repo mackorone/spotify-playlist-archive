@@ -4,11 +4,12 @@
 
 > A ponerse a tono con los mejores cumbiones\. Foto: La Única Tropical
 
-160 songs - 10 hr 51 min
+161 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Que Volviste Mujer](https://open.spotify.com/track/1LffJoyHmYKiz64RuVPjV2) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Alternativo Music Festival](https://open.spotify.com/album/4n076yJJLl2f8fWsrWGOT2) | 3:24 | 2022-02-11 | 2022-06-01 |
+| [Algo de Mi](https://open.spotify.com/track/1BPtafg3QTReiTZlz4Lhix) | [Briyit y Su Banda](https://open.spotify.com/artist/1653vuBCsYsC9dtWE0HAeS) | [Sálvame](https://open.spotify.com/album/1xkomr3AT5INTVanUiprik) | 4:23 | 2025-01-17 |  |
 | [Amor a Primera Vista](https://open.spotify.com/track/3HdmvjU85zNE1vgrzy3pPp) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV), [Corazon Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Jota Benz](https://open.spotify.com/artist/1kiw9LJMc7dzqa76fmY9Sv) | [Amor a Primera Vista](https://open.spotify.com/album/1ppMX5S8XnV3wnLV2sY8rN) | 3:35 | 2022-02-11 | 2023-09-22 |
 | [Amor a Primera Vista \- Versión Cumbia](https://open.spotify.com/track/6cgRWMGvr7PcLGgOp8epSj) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV), [Jota Benz](https://open.spotify.com/artist/1kiw9LJMc7dzqa76fmY9Sv), [Corazon Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [Amor a Primera Vista \(Versión Cumbia\)](https://open.spotify.com/album/4GV7yLMM1dWoWslw91BTZP) | 3:35 | 2024-02-16 | 2024-04-10 |
 | [Amor Incomparable](https://open.spotify.com/track/2rDl3wOeXZF6upPLD94Ah9) | [Grupo Guinda](https://open.spotify.com/artist/0S8wOmXrUrfo7egvh8H5wD) | [Grupo Guinda](https://open.spotify.com/album/7vGzZqzcIjxEvJgF6T53K1) | 3:12 | 2022-02-11 | 2022-07-29 |
@@ -94,7 +95,7 @@
 | [Mi Cariñito](https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw) | [Sonido 2000](https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR) | [Sonido 2000 de Tarapoto](https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka) | 3:15 | 2022-02-11 |  |
 | [Mix Dejar de Amarte / Sentada en un Bar \- En Vivo](https://open.spotify.com/track/1rckUvHgGWEIUMW9xrtYIj) | [Los Rebeldes De La Cumbia](https://open.spotify.com/artist/4Kq6PhHm3gDTuxwXAMJkyY) | [Mix Dejar de Amarte / Sentada en un Bar \(En Vivo\)](https://open.spotify.com/album/5UV7E0W6tYe8N46gFHa5iM) | 6:28 | 2023-09-22 | 2024-01-12 |
 | [Mix Dejar de Amarte / Sentada en un Bar \- En Vivo](https://open.spotify.com/track/21iJin13VjR7YS0n7gf9zH) | [Los Rebeldes De La Cumbia](https://open.spotify.com/artist/4Kq6PhHm3gDTuxwXAMJkyY) | [Mix Dejar de Amarte / Sentada en un Bar \(En Vivo\)](https://open.spotify.com/album/14KEd4Q2J51IkZfGECdmwe) | 6:28 | 2023-03-31 | 2023-07-15 |
-| [Mix Rocio Durcal: La Gata Bajo la Lluvia / Como Han Pasado los Años / Costumbres](https://open.spotify.com/track/5Vube3wJSuVrzTntOpCp2Y) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ), [Bryan Arambulo](https://open.spotify.com/artist/6q6LbyDaoIKIJh7b6STyhs) | [Mix Rocio Durcal: La Gata Bajo la Lluvia / Como Han Pasado los Años / Costumbres](https://open.spotify.com/album/2nxq09nZ3xzVxwXNEfhuG7) | 4:57 | 2024-02-16 |  |
+| [Mix Rocio Durcal: La Gata Bajo la Lluvia / Como Han Pasado los Años / Costumbres](https://open.spotify.com/track/5Vube3wJSuVrzTntOpCp2Y) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ), [Bryan Arambulo](https://open.spotify.com/artist/6q6LbyDaoIKIJh7b6STyhs) | [Mix Rocio Durcal: La Gata Bajo la Lluvia / Como Han Pasado los Años / Costumbres](https://open.spotify.com/album/2nxq09nZ3xzVxwXNEfhuG7) | 4:57 | 2024-02-16 | 2025-10-09 |
 | [Mix: Pimpinela](https://open.spotify.com/track/1PzXI9Gm4u1ktAhdWpMhLS) | [Hnos Silva](https://open.spotify.com/artist/4ijIJHRHj2vF4HkvB2gyL8) | [Hnos Silva](https://open.spotify.com/album/6dg5ZPWyIjnZho3KvcP2AE) | 5:00 | 2022-02-11 | 2022-07-22 |
 | [Motivos](https://open.spotify.com/track/3ovuamiUGQPLN0HuVeCNKi) | [Los Morunos](https://open.spotify.com/artist/7aH8EFjZNlY5FLsjmR9Bqh), [Mariachi Los Fortunatos](https://open.spotify.com/artist/0lsLHvQYVP3ZRzADYk90vN) | [Es para Ti Esta Serenata](https://open.spotify.com/album/2Dkbg4ojESNAQFQw3Y6lsC) | 4:02 | 2022-02-11 |  |
 | [Motor Y Motivo](https://open.spotify.com/track/2yjHvbMtfyoXXJYpsR3rYP) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Motor Y Motivo](https://open.spotify.com/album/69585tYHxNAZVvA9X1VwhK) | 3:16 | 2022-02-11 |  |

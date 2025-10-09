@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Gisele Nascimento, Anderson Freire
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,063 likes - 70 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,234 likes - 70 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 53 | [Restitui \- Ao Vivo](https://open.spotify.com/track/3i4qQdnaQFdyCs3Art3LzD) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Restituição \(Ao Vivo\)](https://open.spotify.com/album/6yQfzPRnOH87Qv2xaXHN9T) | 7:27 |
 | 54 | [Consagração / Louvor ao Rei](https://open.spotify.com/track/5oaAx3LoQLdQvwUvneLJ5L) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Consagração](https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM) | 6:21 |
 | 55 | [Oh, Quão Lindo Esse Nome É \- Acústico](https://open.spotify.com/track/5BfdaKOZ3LuT45SUhxloAc) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Ana Nóbrega \- Acústico](https://open.spotify.com/album/5BynkHBfbbsUqMgXaqqGmV) | 5:42 |
-| 56 | [Os Sonhos de Deus](https://open.spotify.com/track/5r35WP3ehhwgC2ctzUsFHS) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Os Sonhos de Deus \- Recebe a Cura \- Adoração Profética 1](https://open.spotify.com/album/1yBo6HD5kUtj5CRz6v0Ovs) | 6:05 |
-| 57 | [No Silêncio](https://open.spotify.com/track/1pgHsf1WqOR7aCiqL3XYO7) | [Rose Nascimento](https://open.spotify.com/artist/0L0h1GGHeljVSNWwnqbRfL) | [Primeiro Passo](https://open.spotify.com/album/0aGGbmF94fwpsFe3M8poC9) | 4:47 |
-| 58 | [Grande é o Senhor \- Ao Vivo](https://open.spotify.com/track/4UfeWJN1A2glEr9EteoPQN) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Legado 40 Anos \- Ato 3: Igreja na Rua \(Ao Vivo\)](https://open.spotify.com/album/232rCZvO1DrA08fa2FPE4t) | 7:33 |
-| 59 | [O Nome de Jesus \- Ao Vivo](https://open.spotify.com/track/6ok3svYGJrCfQ6ViegSIqZ) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [O Nome de Jesus \(Ao Vivo\)](https://open.spotify.com/album/0tWsYZoqbcrOPhgcV3LFyx) | 5:07 |
+| 56 | [Grande é o Senhor \- Ao Vivo](https://open.spotify.com/track/4UfeWJN1A2glEr9EteoPQN) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Legado 40 Anos \- Ato 3: Igreja na Rua \(Ao Vivo\)](https://open.spotify.com/album/232rCZvO1DrA08fa2FPE4t) | 7:33 |
+| 57 | [O Nome de Jesus \- Ao Vivo](https://open.spotify.com/track/6ok3svYGJrCfQ6ViegSIqZ) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [O Nome de Jesus \(Ao Vivo\)](https://open.spotify.com/album/0tWsYZoqbcrOPhgcV3LFyx) | 5:07 |
+| 58 | [Os Sonhos de Deus](https://open.spotify.com/track/5r35WP3ehhwgC2ctzUsFHS) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Os Sonhos de Deus \- Recebe a Cura \- Adoração Profética 1](https://open.spotify.com/album/1yBo6HD5kUtj5CRz6v0Ovs) | 6:05 |
+| 59 | [No Silêncio](https://open.spotify.com/track/1pgHsf1WqOR7aCiqL3XYO7) | [Rose Nascimento](https://open.spotify.com/artist/0L0h1GGHeljVSNWwnqbRfL) | [Primeiro Passo](https://open.spotify.com/album/0aGGbmF94fwpsFe3M8poC9) | 4:47 |
 | 60 | [A Ele A Glória \- Ao Vivo](https://open.spotify.com/track/0semeHbsomB2omjIKuJgAA) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Exaltado \(Ao Vivo\)](https://open.spotify.com/album/0RE80aGvb10IWjoRWMH37G) | 9:53 |
 | 61 | [Adorador por Excelência](https://open.spotify.com/track/4C3dlfa8iBGgb2MjWe2wOa) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Excelência](https://open.spotify.com/album/3dYx7HppPTwfAX5a24m3Po) | 5:33 |
 | 62 | [Descansarei](https://open.spotify.com/track/04X0Jca9E0A5a2hgTvqnI3) | [Comunidade Evangélica de Maringá](https://open.spotify.com/artist/5sunaXJ1Rjob6D6TGDd5wA) | [Te Quero Mais do Que Tudo](https://open.spotify.com/album/47Evtl2CImY1o7i51OucTj) | 6:26 |

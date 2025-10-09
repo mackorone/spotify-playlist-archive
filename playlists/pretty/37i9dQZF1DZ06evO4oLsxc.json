@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAACaR5ZSHZzkwqavwm8PmcCS",
+  "snapshot_id": "aORYAAAAAAAoIZ6DMr6lKCGw/nuZc7Dx",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Standard",
-        "url": "https://open.spotify.com/album/7aXmIOc3CuYe0AtqO3fjca"
+        "name": "Avenue B",
+        "url": "https://open.spotify.com/album/6GJdh5Yo1LRYAahkLavVWu"
       },
       "artists": [
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
         }
       ],
-      "duration_ms": 157866,
-      "name": "Standard",
-      "url": "https://open.spotify.com/track/6vidfcE63k1dl1YrQTQ4S5"
+      "duration_ms": 242933,
+      "name": "Avenue B",
+      "url": "https://open.spotify.com/track/562pdTsqaP4glM3nAut3DA"
     },
     {
       "added_at": null,
@@ -367,18 +363,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avenue B",
-        "url": "https://open.spotify.com/album/6GJdh5Yo1LRYAahkLavVWu"
+        "name": "Standard",
+        "url": "https://open.spotify.com/album/7aXmIOc3CuYe0AtqO3fjca"
       },
       "artists": [
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
         }
       ],
-      "duration_ms": 242933,
-      "name": "Avenue B",
-      "url": "https://open.spotify.com/track/562pdTsqaP4glM3nAut3DA"
+      "duration_ms": 157866,
+      "name": "Standard",
+      "url": "https://open.spotify.com/track/6vidfcE63k1dl1YrQTQ4S5"
     },
     {
       "added_at": null,

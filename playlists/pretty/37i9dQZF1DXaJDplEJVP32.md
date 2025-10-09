@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJDplEJVP32.md) - [plain]
 
 > Spotify music editors' choice for the best Christian & Gospel songs of 2010s\. Cover: Lauren Daigle
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,417 likes - 100 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,474 likes - 100 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJDplEJVP32.md) - [plain]
 | 84 | [Death Was Arrested](https://open.spotify.com/track/7eBybNhcjCylloMZT2QjQE) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Death Was Arrested](https://open.spotify.com/album/7JnYzgXFC4jEM0XFtwRdK9) | 4:53 |
 | 85 | [King of My Heart \- Live](https://open.spotify.com/track/0qf2iUDfPDtrLeJFmOvVn6) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Starlight \(Live\)](https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh) | 4:59 |
 | 86 | [Tell Your Heart To Beat Again](https://open.spotify.com/track/4F6KXBE38OBGPZsryUih1x) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM) | 3:53 |
-| 87 | [Way Maker \- Live](https://open.spotify.com/track/3BcPAGy6P7gWiL7DAPH85t) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Way Maker](https://open.spotify.com/album/4bVH31Z9J7wPG2q8skaeII) | 8:23 |
-| 88 | [Move](https://open.spotify.com/track/4LyO5F0qQrST8XIVEPPk6P) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [The Generous Mr\. Lovewell](https://open.spotify.com/album/5YkrF5dVcUvDtL5k3vtob0) | 2:58 |
+| 87 | [Even If](https://open.spotify.com/track/787cootcZRw5Xr47Of97AN) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H) | 4:15 |
+| 88 | [Way Maker \- Live](https://open.spotify.com/track/3BcPAGy6P7gWiL7DAPH85t) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Way Maker](https://open.spotify.com/album/4bVH31Z9J7wPG2q8skaeII) | 8:23 |
 | 89 | [Drops In the Ocean](https://open.spotify.com/track/3qEOommLiDYvxoZfsB3ONu) | [Hawk Nelson](https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh) | [Diamonds](https://open.spotify.com/album/0K0cTogib6M3YiM3yA7Cik) | 3:21 |
 | 90 | [Start A Fire](https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Unspoken](https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi) | 3:04 |
 | 91 | [Forever Reign \- Live](https://open.spotify.com/track/3Z3mh8aMW1vGBhsSkKT8yR) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Jad Gillies](https://open.spotify.com/artist/5U4Girw0uPUEsQx5GzRaKU) | [A Beautiful Exchange](https://open.spotify.com/album/060wTUMWUW8HDuMkWddjci) | 5:43 |
-| 92 | [Eye of the Storm \(feat\. Gabe Real\)](https://open.spotify.com/track/4Uvjwj4KWFlyCULhR9zeTx) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Gabe Real](https://open.spotify.com/artist/4P0egFKcqow04ImKICyPYt) | [Fresh Start](https://open.spotify.com/album/5x2mlaqEWywJ8YioOj2OpC) | 5:31 |
-| 93 | [Even If](https://open.spotify.com/track/787cootcZRw5Xr47Of97AN) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H) | 4:15 |
-| 94 | [Light Up the Sky](https://open.spotify.com/track/2YEQNToSXA0iOxzpHPlkw9) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [Light Up the Sky](https://open.spotify.com/album/71JBiaRB7XHcSbHajt4ale) | 3:38 |
-| 95 | [Different](https://open.spotify.com/track/4NTJ9sbakiYD1SyGWSMyCf) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6OcMZnLDn70a5ryrMMU4Ch) | 3:17 |
+| 92 | [Move](https://open.spotify.com/track/4LyO5F0qQrST8XIVEPPk6P) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [The Generous Mr\. Lovewell](https://open.spotify.com/album/5YkrF5dVcUvDtL5k3vtob0) | 2:58 |
+| 93 | [Eye of the Storm \(feat\. Gabe Real\)](https://open.spotify.com/track/4Uvjwj4KWFlyCULhR9zeTx) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Gabe Real](https://open.spotify.com/artist/4P0egFKcqow04ImKICyPYt) | [Fresh Start](https://open.spotify.com/album/5x2mlaqEWywJ8YioOj2OpC) | 5:31 |
+| 94 | [Different](https://open.spotify.com/track/4NTJ9sbakiYD1SyGWSMyCf) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6OcMZnLDn70a5ryrMMU4Ch) | 3:17 |
+| 95 | [Light Up the Sky](https://open.spotify.com/track/2YEQNToSXA0iOxzpHPlkw9) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [Light Up the Sky](https://open.spotify.com/album/71JBiaRB7XHcSbHajt4ale) | 3:38 |
 | 96 | [You're Bigger](https://open.spotify.com/track/2R5yGj0AjYJExnpJyop8k3) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [The Life Project](https://open.spotify.com/album/5oUhNjIeLgATnoKVIpUdQZ) | 7:26 |
 | 97 | [Is He Worthy?](https://open.spotify.com/track/5CTN5yokyAcrCoShGJmlJn) | [Andrew Peterson](https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1) | [Resurrection Letters, Vol\. 1](https://open.spotify.com/album/1VBQLRJF7FcTaJITKgqvBO) | 4:33 |
-| 98 | [Manolo](https://open.spotify.com/track/5QKG74VmetNQybSi4Hli9B) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Rise](https://open.spotify.com/album/7uJRbzmSGkzrDW7sT5SSWA) | 4:08 |
-| 99 | [Hold Me \(feat\. Tobymac\)](https://open.spotify.com/track/2t97pZAsSgraYlocMNhkSe) | [Jamie Grace](https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [One Song at a Time](https://open.spotify.com/album/0RmFv9lGGXC4gII5HHB3Xy) | 3:33 |
-| 100 | [Make Room](https://open.spotify.com/track/3psx3u5uPAG6BH3k6l8gre) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Make Room](https://open.spotify.com/album/6D8do4E6Ye8NaYVCEUQ1uI) | 5:40 |
+| 98 | [Make Room](https://open.spotify.com/track/3psx3u5uPAG6BH3k6l8gre) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Make Room](https://open.spotify.com/album/6D8do4E6Ye8NaYVCEUQ1uI) | 5:40 |
+| 99 | [Manolo](https://open.spotify.com/track/5QKG74VmetNQybSi4Hli9B) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Rise](https://open.spotify.com/album/7uJRbzmSGkzrDW7sT5SSWA) | 4:08 |
+| 100 | [Hold Me \(feat\. Tobymac\)](https://open.spotify.com/track/2t97pZAsSgraYlocMNhkSe) | [Jamie Grace](https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [One Song at a Time](https://open.spotify.com/album/0RmFv9lGGXC4gII5HHB3Xy) | 3:33 |
 
 Snapshot ID: `AAAAAOPvBBf/PI8Uj4k9LK14HaW7nqIn`

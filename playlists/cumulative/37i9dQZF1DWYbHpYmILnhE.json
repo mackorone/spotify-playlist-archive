@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Drilling through Naij. Cover: Wizard Chan",
+  "description": "Drilling through Naij. Cover: Ice Prince",
   "name": "Naija Drill ",
   "tracks": [
     {
@@ -1153,6 +1153,36 @@
     },
     {
       "album": {
+        "name": "Legacy (feat. Jesse Jagz, Ice Prince & Blaqbonez)",
+        "url": "https://open.spotify.com/album/28pficBKrjRzddaQThdPo6"
+      },
+      "artists": [
+        {
+          "name": "Chocolate City",
+          "url": "https://open.spotify.com/artist/3Ub0Cq3b0cXfIUoWP7Swnv"
+        },
+        {
+          "name": "Jesse Jagz",
+          "url": "https://open.spotify.com/artist/30N9JY1VoDikz8Czs2TKtT"
+        },
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265652,
+      "name": "Legacy (feat. Jesse Jagz, Ice Prince & Blaqbonez)",
+      "url": "https://open.spotify.com/track/41BBGVEiYGGvNgO3fjfegO"
+    },
+    {
+      "album": {
         "name": "Drillionaire",
         "url": "https://open.spotify.com/album/0fShBKWgKfk9uA3Xcjm0bm"
       },
@@ -1578,7 +1608,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 142285,
       "name": "NOT ALL THAT",
       "url": "https://open.spotify.com/track/2K0ULBaljOe2NCOqtuqyxB"

@@ -547,6 +547,32 @@
     },
     {
       "album": {
+        "name": "Aththaan (From \"Aanpaavam Pollathathu\")",
+        "url": "https://open.spotify.com/album/42RStSRPHqSOiIfmmhpE1n"
+      },
+      "artists": [
+        {
+          "name": "Siddhu Kumar",
+          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
+        },
+        {
+          "name": "vaisagh",
+          "url": "https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp"
+        },
+        {
+          "name": "Mu.Vi",
+          "url": "https://open.spotify.com/artist/6kebCqkJdouIiat13Vd9fN"
+        }
+      ],
+      "date_added": "2025-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Aththaan (From \"Aanpaavam Pollathathu\")",
+      "url": "https://open.spotify.com/track/6l4npJT4wyolcwPShYhEGe"
+    },
+    {
+      "album": {
         "name": "Veera Dheera Sooran (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1hqxdOOQtLnoqoh1tL36Y6"
       },
@@ -2306,7 +2332,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 131750,
       "name": "Kaathu Namma Pakkam - From \"Kudumbasthan\"",
       "url": "https://open.spotify.com/track/1hqrI53DIjtpPRUS9paFEp"
@@ -2968,7 +2994,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 214588,
       "name": "Manda Bathram (From \"Kingston\")",
       "url": "https://open.spotify.com/track/0c9W3i5BSdbCsojA5KtMPj"
@@ -4020,7 +4046,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-09",
       "duration_ms": 256068,
       "name": "Pushpa Pushpa [TAMIL]",
       "url": "https://open.spotify.com/track/2xmOtvE9CF56FXrsPeXPC5"

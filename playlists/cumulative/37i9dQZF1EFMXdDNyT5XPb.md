@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5SUu7au16Jd2bvqWVN09HM">Jon "MAGS" Maguire</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-106 songs - 5 hr 28 min
+107 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Hide & Seek \(feat\. Joe Housley\)](https://open.spotify.com/track/0b4bqukSKvpx4wBnM5Y8ar) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Joe Housley](https://open.spotify.com/artist/0heaTfPYgeYsyw7SokGni7) | [Hide & Seek \(feat\. Joe Housley\)](https://open.spotify.com/album/6JMnkPQtpRmMyk2yF7AKeo) | 2:43 | 2024-05-01 |  |
 | [Hole in My Heart](https://open.spotify.com/track/6KOCCvjH3DEyUPhjjfOsP3) | [Luke Friend](https://open.spotify.com/artist/0fN6T4AfuRK8fWrENakh5U) | [Hole in My Heart](https://open.spotify.com/album/1vKIu5jM2MeRMo6aCfNvIi) | 3:08 | 2024-05-01 |  |
 | [Hologram](https://open.spotify.com/track/6mg2Fd0xxlHTJRNk4sv2Y7) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [In Limbo \- EP](https://open.spotify.com/album/35J8iowYlwbt5IcA7UZKPy) | 3:22 | 2024-05-01 |  |
+| [Holy Water](https://open.spotify.com/track/4ImvFvvjV1jLSLMJKzTTE9) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Goldrush](https://open.spotify.com/album/21pu6GFhO61NL2ZgzEsHjm) | 3:01 | 2025-10-08 |  |
 | [I Got You](https://open.spotify.com/track/5DF2KFDVeC7wF5CXipl9WN) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [I Got You](https://open.spotify.com/album/0FETAhMXmt1mnN0sQTzRfX) | 3:30 | 2025-01-09 | 2025-04-12 |
 | [I Wish I Was](https://open.spotify.com/track/37gvCv1XpbCfG3Acjqf6ew) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [I Wish I Was](https://open.spotify.com/album/722G4OU32T7nebuJJm3vqo) | 3:24 | 2024-06-01 |  |
 | [I Would](https://open.spotify.com/track/3RmMJsu61de81IF81mMLhl) | [Connie Talbot](https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um) | [I Would](https://open.spotify.com/album/37VisWjdFZUOuWuqAAe466) | 3:44 | 2024-05-01 |  |

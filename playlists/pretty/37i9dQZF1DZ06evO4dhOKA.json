@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 67243,
+  "num_followers": 67252,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAAAVf5OpsUI/sT5FTHW9X3Nk",
+  "snapshot_id": "aORYAAAAAACkWpDek1M7HACAUGKAnn03",
   "tracks": [
     {
       "added_at": null,
@@ -143,18 +143,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ah\u00ed Deje las Llaves, Mami",
-        "url": "https://open.spotify.com/album/13YFq7kLYCAe8Gcp7XRKHR"
+        "name": "Mi Reca\u00edda en Los Excesos",
+        "url": "https://open.spotify.com/album/3QtnUcwGuODxUlK9KaUPX9"
       },
       "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
         {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 171533,
-      "name": "Mi Borrachera",
-      "url": "https://open.spotify.com/track/7hrlStQi4PXKK3aShdLYiD"
+      "duration_ms": 183724,
+      "name": "Mi Reca\u00edda en Los Excesos",
+      "url": "https://open.spotify.com/track/5YIwBGjK30d66PwWoMJsXN"
     },
     {
       "added_at": null,
@@ -175,22 +179,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Reca\u00edda en Los Excesos",
-        "url": "https://open.spotify.com/album/3QtnUcwGuODxUlK9KaUPX9"
+        "name": "Ah\u00ed Deje las Llaves, Mami",
+        "url": "https://open.spotify.com/album/13YFq7kLYCAe8Gcp7XRKHR"
       },
       "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
         {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 183724,
-      "name": "Mi Reca\u00edda en Los Excesos",
-      "url": "https://open.spotify.com/track/5YIwBGjK30d66PwWoMJsXN"
+      "duration_ms": 171533,
+      "name": "Mi Borrachera",
+      "url": "https://open.spotify.com/track/7hrlStQi4PXKK3aShdLYiD"
     },
     {
       "added_at": null,
@@ -276,17 +276,17 @@
           "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
         },
         {
-          "name": "Rosendo Cant\u00fa",
-          "url": "https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi"
+          "name": "Ra\u00fal Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB"
         },
         {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 206222,
-      "name": "Eslab\u00f3n Por Eslab\u00f3n (En Vivo Desde El Domo Care)",
-      "url": "https://open.spotify.com/track/4naABEeBszR3S5X8duJby0"
+      "duration_ms": 229133,
+      "name": "Coraz\u00f3n de Oro (En Vivo Desde El Domo Care)",
+      "url": "https://open.spotify.com/track/1z23S5YZhteXztItJpblPV"
     },
     {
       "added_at": null,
@@ -348,17 +348,17 @@
           "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
         },
         {
-          "name": "Ra\u00fal Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB"
+          "name": "Rosendo Cant\u00fa",
+          "url": "https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi"
         },
         {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 229133,
-      "name": "Coraz\u00f3n de Oro (En Vivo Desde El Domo Care)",
-      "url": "https://open.spotify.com/track/1z23S5YZhteXztItJpblPV"
+      "duration_ms": 206222,
+      "name": "Eslab\u00f3n Por Eslab\u00f3n (En Vivo Desde El Domo Care)",
+      "url": "https://open.spotify.com/track/4naABEeBszR3S5X8duJby0"
     },
     {
       "added_at": null,

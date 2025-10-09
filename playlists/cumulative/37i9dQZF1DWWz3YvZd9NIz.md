@@ -4,7 +4,7 @@
 
 > The best hardstyle remixes of songs you know!
 
-245 songs - 12 hr 6 min
+246 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [Silence](https://open.spotify.com/track/1AhwhslCkcTjQ6vGUQjvZ3) | [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l), [Shadow Legacy](https://open.spotify.com/artist/43KI3dStl8f4EJyETnKfiX) | [Silence](https://open.spotify.com/album/0Fjmo2KyZJkhK0E9nSHDKf) | 2:20 | 2025-07-14 |  |
 | [Silence \- Brennan Heart Remix](https://open.spotify.com/track/0cfxGRaCEFKwz66bURIYz5) | [Delerium](https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Silence \(feat\. Sarah McLachlan\) \[Brennan Heart Remix\]](https://open.spotify.com/album/3hlMZy5Z5qZnMCzDkIc0Lr) | 4:23 | 2022-12-05 | 2025-09-23 |
 | [Since U Been Gone](https://open.spotify.com/track/1YmEhpTsO9EyTizN2lGvw1) | [Bassbrain](https://open.spotify.com/artist/2FpmZwomIGHEVAICcfIg5T), [Akyra](https://open.spotify.com/artist/1tHY1h4B9Fv25PrJPmfqlx) | [Since U Been Gone](https://open.spotify.com/album/3wyllUxPgkvK5dXCPEmcOh) | 3:58 | 2025-02-17 | 2025-06-03 |
-| [Smells Like Teen Spirit](https://open.spotify.com/track/02uaLJya6U259ljPjJDvS3) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Smells Like Teen Spirit](https://open.spotify.com/album/2KvMTlgk0LrWqgtqQAcMvS) | 3:31 | 2022-12-05 |  |
+| [Smells Like Teen Spirit](https://open.spotify.com/track/02uaLJya6U259ljPjJDvS3) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Smells Like Teen Spirit](https://open.spotify.com/album/2KvMTlgk0LrWqgtqQAcMvS) | 3:31 | 2022-12-05 | 2025-10-09 |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/5dIu4QcXgvZWttv3YPqXSd) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Smells Like Teen Spirit](https://open.spotify.com/album/1SuYsP4BDxisXED6OcE9zG) | 4:09 | 2024-10-23 |  |
 | [Smooth Criminal](https://open.spotify.com/track/2HtC6KsunFKydl98AfxMze) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR) | [Smooth Criminal](https://open.spotify.com/album/4cL1zFrvk14x1t08QcVmTQ) | 2:14 | 2024-02-08 |  |
 | [Somebody That I Used To Know](https://open.spotify.com/track/5YPl1zxprbE2ZaHQqxJ5wZ) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT), [Devin Wild](https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21) | [Somebody That I Used To Know](https://open.spotify.com/album/73FFBX8d81xHVNwAINwfoy) | 4:02 | 2025-04-25 |  |
@@ -223,6 +223,7 @@
 | [Sweet Dreams](https://open.spotify.com/track/0pZpFpP9nInJjyfVAQTMsf) | [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Sweet Dreams](https://open.spotify.com/album/1VNd4mu5ggXFsI4bAwaPIN) | 3:21 | 2023-03-23 | 2023-07-01 |
 | [TAKE CONTROL](https://open.spotify.com/track/3m8lxfcEwx7jhkhvxagyQR) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [TAKE CONTROL](https://open.spotify.com/album/4uJSudgTRYbyjEyeqMp3CV) | 2:29 | 2023-03-23 | 2023-04-12 |
 | [Take on Me](https://open.spotify.com/track/5hz8yVQdGXAFiNuJ8NIG71) | [Amero](https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf), [Hallasen](https://open.spotify.com/artist/0stEc1T1y9bWD4BKxyqd1C), [Bryant Powell](https://open.spotify.com/artist/7a1kQopYaNCKayQsvMQiNs) | [Take on Me](https://open.spotify.com/album/5ZZWF6SDhW8vWIuLAcT6JC) | 2:24 | 2023-09-21 | 2024-03-22 |
+| [Tequila](https://open.spotify.com/track/6m9MNl1Sgti4I3BWCYLh03) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Danny Ores](https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY), [Thomas Deil](https://open.spotify.com/artist/5uYKQrTEx51AOXot2Z2Czl) | [Tequila](https://open.spotify.com/album/3k88HYE8mWwdcQM2F2y8aw) | 1:35 | 2025-09-26 |  |
 | [The Game](https://open.spotify.com/track/0uf5oVwfFIchs97Y432cFY) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [The Game](https://open.spotify.com/album/7srkWHwHqKXNKp4okuHZN6) | 2:46 | 2025-03-20 | 2025-05-24 |
 | [The Game \- Dr\. Rude & Lunaticz Remix](https://open.spotify.com/track/6r7Hg5QxLkKTHkbeeHyrAj) | [DJ Galaga](https://open.spotify.com/artist/6QPnWIQnzQvsTMAaOJe3EZ), [Dr Rude](https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s), [Lunaticz](https://open.spotify.com/artist/21P8yUQqDBC15Yj8RizZv7) | [The Game \(Dr\. Rude & Lunaticz Remix\)](https://open.spotify.com/album/4GUyNITr968UDhrJo6IpzG) | 3:20 | 2022-12-15 | 2023-02-10 |
 | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/track/4OlxnyDUxqxD8s5nLspmz3) | [NoooN](https://open.spotify.com/artist/3umQMLxFY9kEIal14xie8X) | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/album/5IqL7tTITGxUmCpIVxa1eZ) | 2:50 | 2022-12-05 | 2024-03-08 |

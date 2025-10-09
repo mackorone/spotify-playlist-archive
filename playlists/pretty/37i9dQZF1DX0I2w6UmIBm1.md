@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 
 > Uplift your spirit with these faith\-filled folk melodies\. Cover: Jervis Campbell
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,540 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,647 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [a light in me](https://open.spotify.com/track/1LMiE4tPJ49stB7AsHyWZ4) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [a light in me](https://open.spotify.com/album/3tEVEN59Yr9xHBjNNIt5YU) | 3:11 |
 | 2 | [Dusty Bibles](https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Dusty Bibles](https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO) | 3:10 |
 | 3 | [Things Jesus Didn't Say](https://open.spotify.com/track/03qGBQopCiCi47Kq2ZPsn2) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [Things Jesus Didn't Say](https://open.spotify.com/album/0BqDLIkQKH99l04mD2rkm7) | 2:22 |
-| 4 | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 |
+| 4 | [Bloodline](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 |
 | 5 | [Still Waters \(Psalm 23\) \- Acoustic](https://open.spotify.com/track/3Q9W1stYm98AVSNKbw7iGQ) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf), [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Still Waters \(Psalm 23\) \[Acoustic\]](https://open.spotify.com/album/2ow282yox2uRtgZgktAeZJ) | 4:10 |
 | 6 | [Need A River](https://open.spotify.com/track/1D9Rq7gPmAHvcCcrGfq3u3) | [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Need A River](https://open.spotify.com/album/4xa8veZ4unipoF6SXpJZXH) | 3:46 |
 | 7 | [Wait \- Radio Version](https://open.spotify.com/track/5e6dXG9W7VFpTbeaErPMyr) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Wait](https://open.spotify.com/album/4vaz0lbQo1hsa7rfUliz3R) | 3:44 |

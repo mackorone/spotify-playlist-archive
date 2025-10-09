@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,340 songs - 12 day 10 hr 28 min
+5,341 songs - 12 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3501,6 +3501,7 @@
 | [Paradise on My Own](https://open.spotify.com/track/74x5MbCS6kjEQ1u4VHqb3a) | [Neon Legion](https://open.spotify.com/artist/2nyYXAOSd7dGY5eqop0eeC), [Pim](https://open.spotify.com/artist/239TdCU8i8KQo4LzRrnjzK) | [Paradise on My Own](https://open.spotify.com/album/1eFJH94fTMrosfHcA61rJU) | 2:41 | 2024-12-24 | 2025-01-05 |
 | [Parallels](https://open.spotify.com/track/3OwSL8zyXT17iv9ITaWPP6) | [TGC](https://open.spotify.com/artist/0TKIN6ssV2jhUlRm3r7U4z) | [Parallels](https://open.spotify.com/album/1a75a2Vtumz1oyeN13hDJh) | 3:46 | 2021-07-10 | 2021-07-25 |
 | [Paranoia \(I.J.D.F.W.U.\)](https://open.spotify.com/track/4UKoenydmjEDDzpqpjuyAy) | [NEW EX](https://open.spotify.com/artist/55LIzBlHP2babllqUYuUW7) | [Paranoia \(I.J.D.F.W.U.\)](https://open.spotify.com/album/0MrPz60bKxD2PbFNCKzO53) | 3:10 | 2024-03-21 | 2024-03-29 |
+| [Paraíso](https://open.spotify.com/track/2rqFTZRau9yWjKAZbCtky8) | [Lotus Collective](https://open.spotify.com/artist/4Urpa1JAxXdZw5MrrpDWmA), [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Paraíso](https://open.spotify.com/album/7BerRN1MXhiHXvs7k4vapq) | 5:28 | 2025-10-08 |  |
 | [Paraíso \- Max Greaves Remix](https://open.spotify.com/track/3gTjrI4JGpk6owQYo7u6yS) | [Angelica Artifex](https://open.spotify.com/artist/1yS5WEGNdbQuItadFMFfWA), [Max Greaves](https://open.spotify.com/artist/1SK77xlOSkRkKybyZRk2K2) | [Paraíso \(Max Greaves Remix\)](https://open.spotify.com/album/4ploPsh6CZx1HutPFLP06w) | 2:39 | 2025-03-20 | 2025-04-01 |
 | [Part Of My Heart](https://open.spotify.com/track/1jUNtNHCzGC5Inxp8jkFAA) | [Joe Kaplow](https://open.spotify.com/artist/43yeVCwwKolbh0jKiGhiN4) | [Part Of My Heart](https://open.spotify.com/album/2s6LpViUPbb2ybtWITEhrg) | 3:15 | 2025-04-25 | 2025-05-22 |
 | [PARTY](https://open.spotify.com/track/3xjU4Do3YAeqKKy4RUMmX8) | [Daniel W\. Shrigley](https://open.spotify.com/artist/7o9Lv5gARXy8cZR9kt6Mzn) | [PARTY](https://open.spotify.com/album/4wSnd9AaeEKqkNt8LQdSHW) | 3:12 | 2024-09-26 | 2024-10-08 |
@@ -4976,7 +4977,7 @@
 | [waiting...](https://open.spotify.com/track/26hob5uX09n2M2BlqOmPaw) | [Robousto](https://open.spotify.com/artist/49l3P1Khg67KCEALrHHbF0) | [waiting...](https://open.spotify.com/album/5cpiuT4U3FN4PcNHJGRI5L) | 2:35 | 2024-10-18 | 2024-10-30 |
 | [Wake \- Radio Edit](https://open.spotify.com/track/14y7zFsOtaf8lvecxe0MEn) | [Ro Bergman](https://open.spotify.com/artist/10iARDtBmqUF4X7zCr3rZA) | [Wake \(Radio Edit\)](https://open.spotify.com/album/1KQDEWpBppRePlpwcd032k) | 3:00 | 2021-06-19 | 2021-07-04 |
 | [Wake Up](https://open.spotify.com/track/0uhg5qCovt9kfBnfNO7rU7) | [Ryan O'Neill](https://open.spotify.com/artist/2nYd73dbyjISStc2mctJP1) | [Wake Up](https://open.spotify.com/album/1kWIyLrS0Rx0v54hEKqPko) | 2:57 | 2022-06-17 | 2022-07-07 |
-| [Wake Up Dreaming](https://open.spotify.com/track/3io4OPyh7wkgvrsBnItndC) | [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou), [bandcalledbeach](https://open.spotify.com/artist/1kS5Z9kfPzCGRTFQDlkyzJ) | [Wake Up Dreaming](https://open.spotify.com/album/0ph08O6Md4CdbbvUHzaMaC) | 2:11 | 2025-09-07 |  |
+| [Wake Up Dreaming](https://open.spotify.com/track/3io4OPyh7wkgvrsBnItndC) | [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou), [bandcalledbeach](https://open.spotify.com/artist/1kS5Z9kfPzCGRTFQDlkyzJ) | [Wake Up Dreaming](https://open.spotify.com/album/0ph08O6Md4CdbbvUHzaMaC) | 2:11 | 2025-09-07 | 2025-10-09 |
 | [Walk a Dog](https://open.spotify.com/track/0f7zc3cScJHB0AEViPCDmZ) | [Big Brutus](https://open.spotify.com/artist/4RmuiXslqkcgFa0oZ1epVi) | [Walk a Dog](https://open.spotify.com/album/0Pkubw0HkeZHwLvnodc1Mm) | 4:10 | 2024-02-04 | 2024-02-16 |
 | [Walk Alone Track](https://open.spotify.com/track/1TbzpNoZ6rrUTytsAfraik) | [Delv!s](https://open.spotify.com/artist/4cHYNNA4fiedY4Wpd0iVo2) | [Walk Alone Tracks](https://open.spotify.com/album/4FGPdJt6pE9NGaihCUDDTc) | 4:24 | 2021-10-29 | 2021-11-14 |
 | [Walk Away](https://open.spotify.com/track/2FK2XhLkQsBhWD1wFjqeWp) | [Ed.1t](https://open.spotify.com/artist/00a74uAKOd6hQYhHFPZ6YC), [Mia Mormino](https://open.spotify.com/artist/0Gd1DcCTN8mqxopRP7TPAB) | [Walk Away](https://open.spotify.com/album/3oJ9uKapi7BmvqhkbhfYAS) | 3:13 | 2021-12-31 | 2022-01-15 |

@@ -4,7 +4,7 @@
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-277 songs - 18 hr 5 min
+278 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Kung Wala Ka](https://open.spotify.com/track/4he4CYDhvSPTxQc0e0Le1L) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Hale](https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk) | 4:02 | 2023-10-18 | 2024-04-19 |
 | [Kursunada](https://open.spotify.com/track/0vDzg5rADviX5YizHGo6UU) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Kursunada](https://open.spotify.com/album/3UtNIGkQvgd4V5qJxQrebA) | 2:59 | 2023-10-18 | 2024-01-06 |
 | [Kwarto](https://open.spotify.com/track/10WZ0sAK3gQl09ptxfZYK7) | [Anna Aquino](https://open.spotify.com/artist/6nrxik1s5QPX6CfiqeOoNd) | [Kwarto](https://open.spotify.com/album/5HFkyPrla5fKhZZtHSiLqA) | 4:57 | 2024-04-03 | 2024-04-19 |
-| [Lalim](https://open.spotify.com/track/6dvP7J9alzF4OWMIlmrpTd) | [MATÉO](https://open.spotify.com/artist/5IIDooHzGQ1riNb6PWHexf) | [Lalim](https://open.spotify.com/album/2XmT37yNkFXpdOtLGoynNP) | 3:19 | 2024-09-25 |  |
+| [Lalim](https://open.spotify.com/track/6dvP7J9alzF4OWMIlmrpTd) | [MATÉO](https://open.spotify.com/artist/5IIDooHzGQ1riNb6PWHexf) | [Lalim](https://open.spotify.com/album/2XmT37yNkFXpdOtLGoynNP) | 3:19 | 2024-09-25 | 2025-10-09 |
 | [LASIK](https://open.spotify.com/track/5da5VCHTC3516y0y8p40Ee) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Curiosity Killed the Cat](https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd) | 3:45 | 2025-07-08 | 2025-08-02 |
 | [Leonora](https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Leonora](https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq) | 3:54 | 2023-10-18 |  |
 | [Lifetime](https://open.spotify.com/track/3X9c4tBzSdGhlO4Fx3WYgW) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Lifetime](https://open.spotify.com/album/277CpjwmcdLZsHwXpj9D8H) | 2:51 | 2023-10-18 |  |
@@ -247,6 +247,7 @@
 | [Something](https://open.spotify.com/track/3hd1QCyMqEunjjR2D6ctPa) | [Julie Anne San Jose](https://open.spotify.com/artist/4NeCu267LZemnoq44lZYKy) | [Something](https://open.spotify.com/album/0D6iQ2FcVJK3513qxGATyT) | 3:53 | 2023-11-10 | 2023-12-09 |
 | [Southwoods](https://open.spotify.com/track/7eVpKIpBYhBeugwO69Xqut) | [Lai Buñag](https://open.spotify.com/artist/26GJX3SWrWf3DvQHMph8dO) | [Southwoods](https://open.spotify.com/album/45banfSU3wOi4kEPmPsnjk) | 3:56 | 2025-05-09 | 2025-05-22 |
 | [Steak frites](https://open.spotify.com/track/5zmqs8CVlOxj8F9bngOXdP) | [Debbie Morena](https://open.spotify.com/artist/5CgL9Wl4tlFzyKklCOPyj4), [sopi](https://open.spotify.com/artist/6HMKJWQB4l8yJx6BX6sY6t) | [Steak frites](https://open.spotify.com/album/1yHhGL19o8ax497zWwi1IZ) | 1:40 | 2024-07-24 | 2024-08-22 |
+| [Sulitin](https://open.spotify.com/track/6P6kqSItGVs18oP1OXxGJP) | [Guddhist Gunatita](https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL) | [Sulitin](https://open.spotify.com/album/2Zlem592VqEoaaRqvFs2M3) | 4:15 | 2025-10-08 |  |
 | [Sungit](https://open.spotify.com/track/5QBB79bId5w7ZgWWgbDwsU) | [NICHIMI](https://open.spotify.com/artist/1rhYDmb4KM53o8F1WdaDMg), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [Sungit](https://open.spotify.com/album/45DyBWX15SOdyMfvfJumDR) | 4:52 | 2025-02-26 | 2025-03-01 |
 | [Sunny When I'm With You](https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ), [Purplecat](https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN) | [Sunny When I'm With You](https://open.spotify.com/album/5wlnSQbgrirIifiisWn94E) | 3:00 | 2024-05-08 | 2024-06-09 |
 | [Superman](https://open.spotify.com/track/1IjJp3vQBTOnCT8yypNboJ) | [Sid Lily](https://open.spotify.com/artist/4bzdCZCwPuP3PLODp7axlq) | [Superman](https://open.spotify.com/album/2Ye2kMhtfKp8ImDYSDcaF6) | 3:42 | 2025-05-21 | 2025-06-21 |

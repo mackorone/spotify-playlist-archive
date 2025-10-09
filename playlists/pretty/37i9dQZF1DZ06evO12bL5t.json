@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 138651,
+  "num_followers": 138674,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aOMGgAAAAAAQJd51JO9/XE+jk+blfwA3",
+  "snapshot_id": "aORYAAAAAADj37enzeuNSRSjPic99ifB",
   "tracks": [
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sorry For The Wait 2",
+        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 198461,
+      "name": "Sin Tu Amor",
+      "url": "https://open.spotify.com/track/4YdJ3WFfs6R3MhbkLqVSj2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "L7X",
         "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
       },
@@ -487,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry For The Wait 2",
-        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 198461,
-      "name": "Sin Tu Amor",
-      "url": "https://open.spotify.com/track/4YdJ3WFfs6R3MhbkLqVSj2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Los Que Conocen El Rollo",
         "url": "https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH"
       },
@@ -515,22 +515,6 @@
       "duration_ms": 186118,
       "name": "Chequen Los Datos",
       "url": "https://open.spotify.com/track/1a8oMeKTxUGKuYyQz2rT5u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sorry For The Wait",
-        "url": "https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 132527,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/1mFjOuLYXLEe2Pe27mlWBC"
     },
     {
       "added_at": null,
@@ -551,6 +535,22 @@
       "duration_ms": 157909,
       "name": "De La Calle (Remix)",
       "url": "https://open.spotify.com/track/3ZOZnG7Xt4IupK4buRguwU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sorry For The Wait",
+        "url": "https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 132527,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/1mFjOuLYXLEe2Pe27mlWBC"
     },
     {
       "added_at": null,
@@ -683,6 +683,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor Tirano (feat. Herencia de Patrones)",
+        "url": "https://open.spotify.com/album/1OnAqmwh0crkBjOSAciiqN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Triple L",
+          "url": "https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 186147,
+      "name": "Amor Tirano",
+      "url": "https://open.spotify.com/track/0kY8D97WMfNycCMt73Pxb0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sorry For The Wait",
         "url": "https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 188481,
       "name": "Vara Alta",
       "url": "https://open.spotify.com/track/6IPni1a6mvyZrG1JR7Au22"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor Tirano (feat. Herencia de Patrones)",
-        "url": "https://open.spotify.com/album/1OnAqmwh0crkBjOSAciiqN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Triple L",
-          "url": "https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 186147,
-      "name": "Amor Tirano",
-      "url": "https://open.spotify.com/track/0kY8D97WMfNycCMt73Pxb0"
     },
     {
       "added_at": null,
@@ -807,18 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Las Vibras",
-        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
+        "name": "Oro",
+        "url": "https://open.spotify.com/album/4y7ZS8RuXvWYYaptqoD6Np"
       },
       "artists": [
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
         }
       ],
-      "duration_ms": 161998,
-      "name": "Pasajes De La Vida",
-      "url": "https://open.spotify.com/track/3Z5upGPXmrFYWmDsTvw5Yv"
+      "duration_ms": 137769,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/0peDp43dtDzI4I5599gG02"
     },
     {
       "added_at": null,
@@ -839,22 +843,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oro",
-        "url": "https://open.spotify.com/album/4y7ZS8RuXvWYYaptqoD6Np"
+        "name": "Pa Las Vibras",
+        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
       },
       "artists": [
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        },
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
         }
       ],
-      "duration_ms": 137769,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/0peDp43dtDzI4I5599gG02"
+      "duration_ms": 161998,
+      "name": "Pasajes De La Vida",
+      "url": "https://open.spotify.com/track/3Z5upGPXmrFYWmDsTvw5Yv"
     },
     {
       "added_at": null,
