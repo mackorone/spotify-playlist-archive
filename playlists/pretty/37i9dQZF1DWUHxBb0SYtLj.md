@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bounce](https://open.spotify.com/track/5byejpzYFf4l4t7JMTADUb) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Bounce](https://open.spotify.com/album/7iiSqv0AqhfTr9iidW6KhV) | 2:45 |
+| 1 | [X Te](https://open.spotify.com/track/7erp5QvErykwQ9QHCZTvJz) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Pixel](https://open.spotify.com/album/2GilGjaRAmsF7MptmRnFQT) | 2:22 |
 | 2 | [GOLPE](https://open.spotify.com/track/1FKgFqdJEcaXpIXyQPZn0c) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [GOLPE](https://open.spotify.com/album/7HiXBBlDDlLV2F2gYIC2vp) | 3:49 |
 | 3 | [NIENTE DA DIRE](https://open.spotify.com/track/0aUvocDuU0Ugl1jv7S4EzC) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [NIENTE DA DIRE](https://open.spotify.com/album/1XldsQ599Rih4NTWWNCNby) | 3:23 |
 | 4 | [LA MIA STORIA TRA LE DITA](https://open.spotify.com/track/31eAijCejvmhSeou6L40Su) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [LA MIA STORIA TRA LE DITA / All Versions](https://open.spotify.com/album/2cApRKB5zRtyepecFYb0QN) | 5:15 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 65 | [Quanto Tempo](https://open.spotify.com/track/6yZSB4XbuS0mLfpTQccIlV) | [MilleAlice](https://open.spotify.com/artist/7wtk4d8GuaMqOjPReuhlTa) | [Quanto Tempo](https://open.spotify.com/album/2tH8YFBWs1lmuwbPznubEZ) | 3:15 |
 | 66 | [TUTTO](https://open.spotify.com/track/1VTZb9UnIZ1eg5Mk3UJrce) | [Greta Grida](https://open.spotify.com/artist/5aTaVTuJx0xzt4guFjsPBc) | [TUTTO](https://open.spotify.com/album/0XUaNses2mBIyFhxiDoP5p) | 2:28 |
 
-Snapshot ID: `AAAAAJLjfUDJNeGs2MSzSJTG9OHPM5I0`
+Snapshot ID: `AAAAADg5Bwv8EbOJrjUlVtu8OSi/AV9A`

@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-647 songs - 1 day 14 hr 50 min
+648 songs - 1 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,6 +392,7 @@
 | [No Ending](https://open.spotify.com/track/1wId84Uc14XIEIKfcSYAE0) | [Delv!s](https://open.spotify.com/artist/4cHYNNA4fiedY4Wpd0iVo2) | [No Ending](https://open.spotify.com/album/0XoSMRAH1gvIb0c3n5jLET) | 3:53 | 2021-12-16 | 2022-07-28 |
 | [No Ending](https://open.spotify.com/track/6oqu8k5xFlEO9d0epyyHGC) | [Delv!s](https://open.spotify.com/artist/4cHYNNA4fiedY4Wpd0iVo2) | [No Ending](https://open.spotify.com/album/6KXuLqANULTBsHJIzadNBk) | 3:53 | 2022-07-26 | 2022-10-04 |
 | [No Going Back](https://open.spotify.com/track/356aM3w6i5v1cltIzOnVTP) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Moodie](https://open.spotify.com/album/4XMQDHZSKpEg1UReRiMuJC) | 3:28 | 2024-02-23 |  |
+| [No Other Life Without You](https://open.spotify.com/track/6ngTPAGDzh4askJ13dCaQJ) | [Greenflow](https://open.spotify.com/artist/2GAuYKmCqyuXZ7jcNc686N) | [Solutions](https://open.spotify.com/album/4q9A3cL36zeDi0gd9TCHlh) | 4:38 | 2025-08-29 |  |
 | [Northern Lights](https://open.spotify.com/track/3VT2WolplCglmbxCdiFy5A) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [David Harks](https://open.spotify.com/artist/6j8GXOmXESx4CKWRdIYtCB) | [Northern Lights](https://open.spotify.com/album/0RvAK6H7VXlTrgoUJ6HlSI) | 4:15 | 2022-03-30 | 2022-04-20 |
 | [Nothing I'd Rather Be \(Than Your Weakness\)](https://open.spotify.com/track/3owHLzUSmcAhtCFT8WZfZb) | [Marva Whitney](https://open.spotify.com/artist/691nF1fI0SKCfsIypzFr7h) | [Eccentric Soul: The Forte Label](https://open.spotify.com/album/2odsUYbi8bSi0jkjeAQ4mC) | 3:11 | 2022-03-30 | 2022-04-21 |
 | [Now That Everything's Been Said](https://open.spotify.com/track/2QJKcw2rUb6RUM8uDBPSJq) | [The City](https://open.spotify.com/artist/7sGn2EJElyIPoxp6aWVg5O) | [Now That Everything's Been Said](https://open.spotify.com/album/1dhhTa6Pe8q3zd9zuuK5op) | 2:21 | 2021-12-16 | 2022-07-29 |
@@ -506,7 +507,7 @@
 | [Something New](https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3) | 3:15 | 2022-12-05 | 2024-04-19 |
 | [Something Right](https://open.spotify.com/track/5Ec88SE65sNRZrcmVm6Qi8) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Maybe It's All We Dreamed Of](https://open.spotify.com/album/6yHHY9XFGfpGXlHfpm3ISF) | 4:04 | 2022-03-30 | 2022-04-21 |
 | [Sooth Lady Wine](https://open.spotify.com/track/035IK7Ba1IV61q9V6MD5FH) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Telluric](https://open.spotify.com/album/5jNjG588J6t474RR1Ch8NC) | 4:36 | 2024-08-14 | 2025-01-27 |
-| [Soulless Friends](https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Bismillah](https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd) | 3:47 | 2021-12-16 |  |
+| [Soulless Friends](https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Bismillah](https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd) | 3:47 | 2021-12-16 | 2025-10-10 |
 | [Spirit](https://open.spotify.com/track/3u2WViddj3Zs5596XYsu7m) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/4J6wqBSyQiJDTedJbDs7YR) | 4:50 | 2022-03-30 | 2022-04-13 |
 | [Spooky](https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty..\. Definitely \(Expanded Edtion\)](https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN) | 2:44 | 2024-04-10 | 2025-04-30 |
 | [Spooky \(Single Version\)](https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Love Songs](https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA) | 2:44 | 2023-02-10 | 2024-04-19 |

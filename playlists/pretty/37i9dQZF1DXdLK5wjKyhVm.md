@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 
 > blissed out beats and head nodding grooves \- relax, study and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,084 likes - 100 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,199 likes - 100 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 99 | [Fiction](https://open.spotify.com/track/6uPZ5LeOnbced7wW3XF7rA) | [Shy Cope](https://open.spotify.com/artist/1WVrUGgqeU94YjCKCbAH4y) | [Fiction](https://open.spotify.com/album/5NPLNWTEVO9L3WRGcjPUwu) | 2:18 |
 | 100 | [Final Destination](https://open.spotify.com/track/4fAOUcDYMVuw2gvU1ZR8Ql) | [Team Astro](https://open.spotify.com/artist/5BJiJign2sqMUCJhpStgNd) | [Hidden Treasure](https://open.spotify.com/album/3aqhM9qEU5KZuX8yD7GduK) | 2:34 |
 
-Snapshot ID: `AAAAALETGkS2fYAnHfqejoA6BQGgZE7e`
+Snapshot ID: `AAAAAFhzd0IwpMHrxBWdn+fFPgUyTKVf`

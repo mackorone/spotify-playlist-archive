@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UKb6auC53b.md) - [plain]
 
 > Music from "DAN DA DAN"! ©龍幸伸／集英社・ダンダダン製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,307 likes - 38 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,447 likes - 38 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

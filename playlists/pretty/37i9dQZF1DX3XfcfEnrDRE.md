@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: Manafest
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,896 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,907 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Walking Into Fire](https://open.spotify.com/track/1KQXKOSfTYKsDNBVL4gXXo) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Walking Into Fire](https://open.spotify.com/album/3ZHPDFdLiHctzZhdYEwlyB) | 3:01 |
 | 2 | [idk](https://open.spotify.com/track/780hk3px4rQ8p4YCMlcPKN) | [Allison Eide](https://open.spotify.com/artist/6RDeotP2Ny6OsLRt5OJLQ1) | [idk](https://open.spotify.com/album/22sIp87jpK2pnX74FeOhBK) | 2:53 |
 | 3 | [FREE MAN](https://open.spotify.com/track/2GkUxvdFhEXfDG9upxhV9I) | [DeAngelo](https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE) | [FREE MAN](https://open.spotify.com/album/4NH0OIVKH3u71ls0wgCHRL) | 3:35 |
-| 4 | [If I ever lose my way](https://open.spotify.com/track/6dWU6lGzqsrnVHRcToUa36) | [Haynza](https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb) | [If I ever lose my way](https://open.spotify.com/album/4wEKrfWQ1GGlF3dakWmj0Y) | 2:57 |
+| 4 | [If I ever lose my way](https://open.spotify.com/track/6dWU6lGzqsrnVHRcToUa36) | [Haynes](https://open.spotify.com/artist/5wviMB3bsPYI9TThkfK64v) | [If I ever lose my way](https://open.spotify.com/album/4wEKrfWQ1GGlF3dakWmj0Y) | 2:57 |
 | 5 | [oasis for my soul](https://open.spotify.com/track/5OO0LZ2apmNZE3j6LFfLqf) | [Strings And Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [oasis for my soul](https://open.spotify.com/album/0vJOrqWFbDnsSUXGRrkPyt) | 2:16 |
 | 6 | [I Watched](https://open.spotify.com/track/04ozkcUZsXUdhHIkoAgxdo) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Gable Price](https://open.spotify.com/artist/2X5RuQR8hFFPlPjMPLzrKa) | [I Watched](https://open.spotify.com/album/7DtkQisH7shX8Aidu8E0dm) | 2:39 |
 | 7 | [Fall In Love With The Light](https://open.spotify.com/track/16StXt03d3fgPTwku3vCbH) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [Jungle In The City](https://open.spotify.com/album/1lslX7adoOFVX9DMGRpK49) | 3:59 |

@@ -1561,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "Yan",
+        "url": "https://open.spotify.com/album/73OiuhV8bIHNsSbdBMAF4A"
+      },
+      "artists": [
+        {
+          "name": "Baran Meng\u00fc\u00e7",
+          "url": "https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190312,
+      "name": "Yan",
+      "url": "https://open.spotify.com/track/41c2gJ18n7v8STRgPl19x4"
+    },
+    {
+      "album": {
         "name": "Yana Yana",
         "url": "https://open.spotify.com/album/1Yng9AITulVtHIUTNFDoRW"
       },
@@ -1788,7 +1806,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 139672,
       "name": "\u00c7ileke\u015f",
       "url": "https://open.spotify.com/track/14VaOiw20bPu33QIq3L8Ch"

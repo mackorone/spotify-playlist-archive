@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off\. cover:  Chase Shakur
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,158 likes - 170 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,160 likes - 170 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

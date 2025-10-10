@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> Le meilleur de l'indie français\. Cover : Pomme
+> Le meilleur de l'indie français\. Cover : Saint Stacy
 
-718 songs - 1 day 14 hr 43 min
+721 songs - 1 day 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [A Taste Of Possibility](https://open.spotify.com/track/09qAEZgB4KcFixRPilvca1) | [Keep Dancing Inc](https://open.spotify.com/artist/426htfG7DE5S3kgoVCCJUB) | [A Taste Of Possibility](https://open.spotify.com/album/4SiCcKUuHVHXJwRcPsb2Yf) | 3:46 | 2023-09-14 | 2023-11-17 |
 | [Acapulco](https://open.spotify.com/track/2zx4cyrEkfZHIwJcYEHyDB) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Acapulco](https://open.spotify.com/album/12jNNrFsrsFhBVKFkdvDBI) | 3:05 | 2022-06-30 | 2023-03-25 |
 | [Adieu Clémence](https://open.spotify.com/track/3DC35Xkl9RYiRF7gvIFsKI) | [Tao Mon Amour](https://open.spotify.com/artist/3X7X2ZNgwC4TkAUTDLAV9h) | [Adieu Clémence](https://open.spotify.com/album/177gthcj7t6BiQGjx9uMTS) | 3:00 | 2024-08-01 | 2024-12-06 |
-| [adieu les cons](https://open.spotify.com/track/7hXJ0iZtTr3lDdvq8Vh1iM) | [Nochka](https://open.spotify.com/artist/2LDcDxIuutAEQcHpmDOowg) | [Paris, capitale de la solitude](https://open.spotify.com/album/4cXanu6IEgB9OMEs6olnLP) | 2:34 | 2025-06-19 |  |
+| [adieu les cons](https://open.spotify.com/track/7hXJ0iZtTr3lDdvq8Vh1iM) | [Nochka](https://open.spotify.com/artist/2LDcDxIuutAEQcHpmDOowg) | [Paris, capitale de la solitude](https://open.spotify.com/album/4cXanu6IEgB9OMEs6olnLP) | 2:34 | 2025-06-19 | 2025-10-10 |
 | [After Midnight](https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:11 | 2022-11-10 | 2022-12-24 |
 | [Afterglow](https://open.spotify.com/track/6oHCMqfwWEs5Vr8Y3gQVbT) | [H\-Burns](https://open.spotify.com/artist/5Jd4dFTFgTta5lqPvamjZn) | [Afterglow](https://open.spotify.com/album/5HHo3qAB3gfUGScbvB6iXr) | 2:51 | 2024-12-12 | 2025-02-21 |
 | [Again & Again](https://open.spotify.com/track/0RCKbNrpRjfqCRtOmxXJiO) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [Again & Again](https://open.spotify.com/album/7J4GDSmpZkGPvXoQXPdjz1) | 2:36 | 2024-01-18 | 2024-06-14 |
@@ -113,6 +113,7 @@
 | [chanson triste](https://open.spotify.com/track/5WFiYXOtO5u45X5mLv6ckW) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [chanson triste](https://open.spotify.com/album/1QurzPgalUkcteDy3b6DUm) | 3:22 | 2022-10-13 | 2023-06-02 |
 | [CHEMISE & CRAVATE](https://open.spotify.com/track/14KVthKHk6QjkrPrRqArBg) | [Odetto](https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF), [Soyuz](https://open.spotify.com/artist/2MhHUHbSBQksLp8EzgaRa8) | [CHEMISE & CRAVATE](https://open.spotify.com/album/5fJTkdWpYDRFJsLmIWhIQB) | 2:19 | 2025-05-01 | 2025-06-06 |
 | [Chifoumi](https://open.spotify.com/track/6lKs1pXjZvGQHNky3qD6qz) | [Novaé Lita](https://open.spotify.com/artist/1tZ9lQ62KmVFephCl3hfB6) | [Chifoumi](https://open.spotify.com/album/3Wfi96jmFxSxBdv510bSar) | 2:29 | 2022-10-13 | 2023-03-03 |
+| [chrysalis](https://open.spotify.com/track/1CyqOIcejpX5Zqzw5BRHFb) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Louve](https://open.spotify.com/artist/3x5sBirhNbWXVt1DwivDOI) | [chrysalis](https://open.spotify.com/album/0zkgQvE9joKuS4NsRrCwUS) | 4:00 | 2025-10-09 |  |
 | [Chui pu fort](https://open.spotify.com/track/1VkMX6F5GJH2ggI6JFUVjD) | [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj) | [Chui pu fort](https://open.spotify.com/album/71j1HEoL1pXrWb24SaSNGs) | 2:09 | 2022-05-12 | 2022-06-10 |
 | [Ciao Paris!](https://open.spotify.com/track/1KRwiG5K8nliFRualGxUNL) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Ciao Paris!](https://open.spotify.com/album/6yxgASQFnI2BQOBLfJOPSX) | 3:24 | 2024-06-20 | 2024-10-11 |
 | [Cigarette à la bouche](https://open.spotify.com/track/1XUDuhvC5y8B2PkB71C6ci) | [D'accord Simon](https://open.spotify.com/artist/6HBlOvzTZVt7yd5AUZxygo) | [Cigarette à la bouche](https://open.spotify.com/album/4TFXhd63WzwRhaVw7qcHtp) | 2:00 | 2025-09-18 |  |
@@ -123,6 +124,7 @@
 | [Citron](https://open.spotify.com/track/0S8xh81souCXhlkILDEkUk) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Citron](https://open.spotify.com/album/1asKuOHTA7Ps1PRLfMjS6I) | 3:25 | 2025-03-13 | 2025-03-21 |
 | [Club de cœur](https://open.spotify.com/track/4dr17HvQ770Mt1evg83oQd) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [Club de cœur](https://open.spotify.com/album/4iuZaYn8392UjS5rTcPZIY) | 2:38 | 2022-11-10 | 2023-02-10 |
 | [Coco Robot](https://open.spotify.com/track/78uhoLjMr27DWycpKLFaY6) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ) | [Coco Robot](https://open.spotify.com/album/2VwjLt0y3pBxzIHitBWKuV) | 4:00 | 2022-06-02 | 2022-06-24 |
+| [Coeur de verre](https://open.spotify.com/track/0M3f8bLNATelCrDaw5FLlb) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Coeur de verre](https://open.spotify.com/album/5ysp6QHgZ20slMixdYosBj) | 2:33 | 2025-10-09 |  |
 | [Cold Touch](https://open.spotify.com/track/5SL769u0mPWC6b7XyXghFz) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Cold Touch](https://open.spotify.com/album/5A9UiXaNf69PtKCcTm0bY0) | 3:48 | 2024-02-15 | 2024-09-06 |
 | [come into my arms](https://open.spotify.com/track/1WbqQUB9ldGb8x3b72RH3Z) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [come into my arms](https://open.spotify.com/album/3dti8UcnsGhwppSO3k4frr) | 2:12 | 2022-07-07 | 2022-08-26 |
 | [Comme si comme ça](https://open.spotify.com/track/7rNi8chU9oL22ArTxDneFN) | [Gozze](https://open.spotify.com/artist/6UgbULjRAY4P8xJasrVCgA) | [Comme si comme ça](https://open.spotify.com/album/0ZJXUTUrcQdaSbPessy1ti) | 2:32 | 2025-10-02 |  |
@@ -544,7 +546,7 @@
 | [Reviens](https://open.spotify.com/track/2lfuJC4pd1zF9op7fL5qdr) | [Mezzanine](https://open.spotify.com/artist/5jzf34Dm3S5hnp9iwPxVBw) | [Reviens](https://open.spotify.com/album/6B0BFESRyFXWGEjjMxGS7Y) | 3:19 | 2022-06-02 | 2022-09-16 |
 | [rien dire](https://open.spotify.com/track/7nAU7YNFqUCb91FkTDVEUD) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [rien dire](https://open.spotify.com/album/2Kl3eV9Yo13AR4mgAXgWQu) | 3:02 | 2022-09-29 | 2022-11-18 |
 | [Riverside](https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Riverside](https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i) | 4:43 | 2024-12-12 | 2025-03-21 |
-| [roger rabbit](https://open.spotify.com/track/4LXIfg4jZNs7SSWh8e5pUq) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [roger rabbit](https://open.spotify.com/album/7prizHwvKXEPZAcbd8xQLp) | 4:35 | 2025-09-11 |  |
+| [roger rabbit](https://open.spotify.com/track/4LXIfg4jZNs7SSWh8e5pUq) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [roger rabbit](https://open.spotify.com/album/7prizHwvKXEPZAcbd8xQLp) | 4:35 | 2025-09-11 | 2025-10-10 |
 | [Romantisme](https://open.spotify.com/track/3wmhe1o4IMfLw3NOxfmxwu) | [Bolivard](https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE) | [Romantisme](https://open.spotify.com/album/1AuDZxt0M2s86a7EzhIFJl) | 3:49 | 2024-04-04 | 2024-10-04 |
 | [Romy](https://open.spotify.com/track/57LPD03prhGgH8SlJ7Tndg) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Romy](https://open.spotify.com/album/77gs1qTyEAOzhET2vsD3ED) | 3:19 | 2025-06-19 | 2025-08-01 |
 | [Run](https://open.spotify.com/track/6mcP1kDZE3Iqn9ps7wtYbf) | [Gurth](https://open.spotify.com/artist/3Jp2CVbWo0yJs60rPyIlTb), [Diane Sagnier](https://open.spotify.com/artist/7grNqGVCIRH4ZM3UR1QAay), [Pangol](https://open.spotify.com/artist/24GK68qM53IIPkK3NEYHd4) | [Run](https://open.spotify.com/album/55nrtrhYbidS1MWC7bchos) | 3:29 | 2024-02-23 | 2024-09-20 |
@@ -652,6 +654,7 @@
 | [Tout tout](https://open.spotify.com/track/5sZtirdGoDKeQ70hQX2W1M) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf), [Blasé](https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc) | [Tout tout](https://open.spotify.com/album/0xGZ5eae8XAktN3zgVuB80) | 3:31 | 2025-07-24 | 2025-09-20 |
 | [Tout va bien](https://open.spotify.com/track/17FECd8IneHV65pCJduuse) | [roland decembre](https://open.spotify.com/artist/2UxITzDZ5wN79zzSiJ9KeK) | [Tout va bien](https://open.spotify.com/album/7ce6rlPWieH0zykGdlFRXA) | 3:11 | 2023-02-02 | 2023-06-16 |
 | [Toute seule](https://open.spotify.com/track/1mdGek6V8hI7zibGut1ZO3) | [La Petite](https://open.spotify.com/artist/4ItZHQxj7Fg9HG0wumutTn) | [Toute seule](https://open.spotify.com/album/7InPIQqkXfyR1lq4AahEOg) | 3:33 | 2025-01-23 | 2025-02-14 |
+| [Track 4](https://open.spotify.com/track/0R2F8Y0exgly8whypDattk) | [Saint Stacy](https://open.spotify.com/artist/5jvug60dRrKFRuQp8zKn9G) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
 | [Tramp Like You](https://open.spotify.com/track/0rNww8SMuGZm8GkDWeHtLi) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 5:24 | 2023-04-27 | 2023-06-30 |
 | [Tramp Like You](https://open.spotify.com/track/2wWlrpVleWOYkOqhpkV2EJ) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Tramp Like You](https://open.spotify.com/album/21uaZE9JBRZDNHNouEO8Df) | 5:24 | 2023-01-19 | 2023-04-30 |
 | [True love \(feat\. 070 Shake\)](https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [True love \(feat\. 070 Shake\)](https://open.spotify.com/album/21ZlnuYMvzSLNOAYWH318k) | 5:47 | 2023-04-20 | 2023-09-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,227 likes - 80 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,272 likes - 80 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 4 | [Tere Bina](https://open.spotify.com/track/4FeczSomVWVyU4FW7xDeAI) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Murtuza Khan](https://open.spotify.com/artist/3v8isPrc8btWVMF3bnOIcj), [Qadir Khan](https://open.spotify.com/artist/2gTPBFjo3M9rvMSZWTk9nT) | [Guru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kWI9GDPhMhaGNo80Q1XT5) | 5:09 |
 | 5 | [Maula Mere Maula](https://open.spotify.com/track/5KNuHsIeFtD0oukst77hBi) | [Roop Kumar Rathod](https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa) | [Anwar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MTyvN8DogBzkLz8ThUKuc) | 6:04 |
 | 6 | [Afreen Afreen \(Coke Studio Season 9\)](https://open.spotify.com/track/7pBcon5GqvUfn58HRfF8wv) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Afreen Afreen \(Coke Studio Season 9\)](https://open.spotify.com/album/1YFhFBYguVji3KdKdQGzId) | 6:40 |
-| 7 | [Maula Toh Puch](https://open.spotify.com/track/6lnJrKSdVbGYdN1qK2ESSP) | [Bismil](https://open.spotify.com/artist/1dU8OXH7zI79wpLxei4EDu), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz), [Arjun Shankar](https://open.spotify.com/artist/72jcMTDuEUQqPJpSmeDagm) | [Maula Toh Puch](https://open.spotify.com/album/7tD8D4xZ5WlHcP1K9oPebf) | 4:30 |
+| 7 | [Maula Toh Puch](https://open.spotify.com/track/6lnJrKSdVbGYdN1qK2ESSP) | [Bismil](https://open.spotify.com/artist/1dU8OXH7zI79wpLxei4EDu), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz), [Arjun Sarkar](https://open.spotify.com/artist/5PFGAVSP1xuvQbeIyh8tR3) | [Maula Toh Puch](https://open.spotify.com/album/7tD8D4xZ5WlHcP1K9oPebf) | 4:30 |
 | 8 | [Ishq Sufiyana \(Male\)](https://open.spotify.com/track/5zcfnScTSFGCHGY1yeXWke) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Kamal Khan](https://open.spotify.com/artist/01DlVvmRpQFutrYzh0HmF8) | [The Dirty Picture](https://open.spotify.com/album/2u6skpG85FhJuV5AGvvSAO) | 5:25 |
 | 9 | [Ye Rang](https://open.spotify.com/track/7cM0mHXDVmyBjWHzLqlwZh) | [Quaid Ahmed](https://open.spotify.com/artist/1UyH5bHkguI8ufisAClFLJ), [Bouncy](https://open.spotify.com/artist/6YLcrxPUm5BavW00kv6WiQ) | [Ye Rang](https://open.spotify.com/album/1cM92PlMSWbqwRhRhglrS9) | 3:15 |
 | 10 | [Main Kaun Hoon](https://open.spotify.com/track/2hK1LA9GCG23VinwnlLfMS) | [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5) | [Main Kaun Hoon](https://open.spotify.com/album/46N671VY1hEdrSdVMbMVDE) | 4:15 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Shi Shi (\u5b6b\u76db\u5e0c)",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Robot Swing",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 180983,
       "name": "Coffee Table Lunch",
       "url": "https://open.spotify.com/track/6ibWACBdTi3m7rXWvZZw5i"
@@ -3838,7 +3838,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 252328,
       "name": "Live It Up",
       "url": "https://open.spotify.com/track/1ZbMfd8EvhagOo7vH8Xblz"
@@ -4038,7 +4038,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 216774,
       "name": "LV99 \u52c7\u8005",
       "url": "https://open.spotify.com/track/1AvBi9Iy2QUwj2H6d6xDGF"
@@ -5661,6 +5661,24 @@
     },
     {
       "album": {
+        "name": "Robot in No Man's Land",
+        "url": "https://open.spotify.com/album/35Fo2VCyHtL5ShyRnCVIKR"
+      },
+      "artists": [
+        {
+          "name": "Robot Swing",
+          "url": "https://open.spotify.com/artist/75MsybpGuMiLCp76Ou0LTV"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406874,
+      "name": "Robot in No Man's Land",
+      "url": "https://open.spotify.com/track/2YHjtbpIHduMuK0yz2bOB6"
+    },
+    {
+      "album": {
         "name": "SYSTEM BOOTING...",
         "url": "https://open.spotify.com/album/4g2Cby7UzbEqYdMiUE6AQo"
       },
@@ -5716,6 +5734,24 @@
       "duration_ms": 234599,
       "name": "Rollin' On",
       "url": "https://open.spotify.com/track/63oSPrP54in4X41vq6cNlL"
+    },
+    {
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/2dOQ99k30Tolva3vPZ4jEB"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/0AV1eWrh1x86FFnVDJ4BZD"
     },
     {
       "album": {

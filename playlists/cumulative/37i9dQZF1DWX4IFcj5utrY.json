@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa. Cover: Babes Wodumo",
+  "description": "The best dance hits in South Africa. Cover: Argento Dust",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -5620,7 +5620,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 345044,
       "name": "Coke Water",
       "url": "https://open.spotify.com/track/3ELcYge9PNSTfJQcxnCdKb"
@@ -7388,6 +7388,10 @@
         {
           "name": "Rifle Deep",
           "url": "https://open.spotify.com/artist/0CV7BMidi8XEhTojWWolIQ"
+        },
+        {
+          "name": "Niseni",
+          "url": "https://open.spotify.com/artist/4Jeq4ZaG5hFygSgqyxSN1J"
         }
       ],
       "date_added": "2025-10-03",
@@ -19105,6 +19109,32 @@
     },
     {
       "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/5ubP0G1bC9dPLpbgDshPkp"
+      },
+      "artists": [
+        {
+          "name": "Darque",
+          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
+        },
+        {
+          "name": "Sickluv",
+          "url": "https://open.spotify.com/artist/0VKlKyeBQek2wH0MTxUuWe"
+        },
+        {
+          "name": "Maline Aura",
+          "url": "https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/7gmv1r75k3U2M5UP8YIXoQ"
+    },
+    {
+      "album": {
         "name": "Ngeke",
         "url": "https://open.spotify.com/album/0QYvoihSPn22fsyyHFU459"
       },
@@ -27537,6 +27567,32 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Argento Dust",
+          "url": "https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt"
+        },
+        {
+          "name": "Kususa",
+          "url": "https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ"
+        },
+        {
+          "name": "Lizwi",
+          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/713quELIbXIQxA77U2HQnI"
+    },
+    {
+      "album": {
         "name": "Traffic",
         "url": "https://open.spotify.com/album/4eJvBTfzGNVz6LFCYgUTHf"
       },
@@ -30582,7 +30638,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 381428,
       "name": "Wishi Wishi (feat. Scotts Maphuma & Young Stunna)",
       "url": "https://open.spotify.com/track/34eKUydsaj9GeMTT1ybutO"

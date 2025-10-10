@@ -526,7 +526,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 193360,
       "name": "Already There In My Mind",
       "url": "https://open.spotify.com/track/3mJM8LOvcR2d1Ce7FgvX29"
@@ -2728,7 +2728,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 250670,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/0opvyElQZPPq405LGzfe56"
@@ -5993,6 +5993,28 @@
     },
     {
       "album": {
+        "name": "I WANT MY LOVED ONES TO GO WITH ME (DELUXE)",
+        "url": "https://open.spotify.com/album/1srzE6EPPVOfxOxPV1SoEY"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228593,
+      "name": "Love Is A Canyon",
+      "url": "https://open.spotify.com/track/2rSuyPz6BfCzxB13UF6hpw"
+    },
+    {
+      "album": {
         "name": "Pathways",
         "url": "https://open.spotify.com/album/3K1pEVfbFF5QbmXUpTH1WS"
       },
@@ -7588,6 +7610,24 @@
       "duration_ms": 339040,
       "name": "Pretending",
       "url": "https://open.spotify.com/track/7DWiZj8PrmJF5pA16htFEF"
+    },
+    {
+      "album": {
+        "name": "Pretty Little Liar",
+        "url": "https://open.spotify.com/album/24dL04mo8rbTz1UjztM9Um"
+      },
+      "artists": [
+        {
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242578,
+      "name": "Pretty Little Liar",
+      "url": "https://open.spotify.com/track/0ZHiaGvzx20AfiZychbcVN"
     },
     {
       "album": {

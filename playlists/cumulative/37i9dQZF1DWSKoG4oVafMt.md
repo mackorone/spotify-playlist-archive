@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-1,138 songs - 2 day 13 hr 16 min
+1,139 songs - 2 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,7 @@
 | [I ONLY HAVE YOU](https://open.spotify.com/track/6n7qxhFdMSxSMTczk2WASn) | [Seera Buttar](https://open.spotify.com/artist/4gYkupDdCRGvdDHFwQwLOr) | [I ONLY HAVE YOU](https://open.spotify.com/album/4suN6yBZ78S1FCEDeBfsZI) | 4:25 | 2025-08-29 | 2025-09-27 |
 | [I T 's a G O O D D a Y](https://open.spotify.com/track/67DcAT2A7QoJPHeb6gULv3) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Anker Deol](https://open.spotify.com/artist/6Ft1jFojxoiQxAddH2o5ZF) | [It's a Good Life](https://open.spotify.com/album/4X6GOxP1pKtbgsDaT0t91h) | 2:36 | 2022-11-28 | 2023-01-24 |
 | [I Wish](https://open.spotify.com/track/5gUNkD57jpcdjXv9ODiSmf) | [Arjun](https://open.spotify.com/artist/1ekSLsljZ5sZhEv5JMJihK), [Kirat Gill](https://open.spotify.com/artist/4uJKlzA4Z8I8FEK50yKz2g) | [I Wish](https://open.spotify.com/album/3eQ91uxeqINSduxCL6zlba) | 3:13 | 2022-09-30 | 2022-12-16 |
-| [I'm In Love With You](https://open.spotify.com/track/22NZwwuMtqjigWwjudklIa) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Shivi](https://open.spotify.com/artist/7CoZkWIMHrAfVllUrTNRvE) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 3:20 | 2025-09-26 |  |
+| [I'm In Love With You](https://open.spotify.com/track/22NZwwuMtqjigWwjudklIa) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Shivi](https://open.spotify.com/artist/7CoZkWIMHrAfVllUrTNRvE) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 3:20 | 2025-09-26 | 2025-10-10 |
 | [IDK HOW](https://open.spotify.com/track/5ouREJYZCYqwF0p7VeUtfH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Four Me](https://open.spotify.com/album/09LRfKybx7mDRlMtysHrcX) | 2:55 | 2024-07-25 | 2025-04-23 |
 | [Ik Geda](https://open.spotify.com/track/5kJVxhYjXnMaY41pzxAGSw) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Ik Geda](https://open.spotify.com/album/1zvbkv7kQqID6FoSADfVqv) | 2:14 | 2022-10-11 | 2023-02-02 |
 | [Ik Kahani](https://open.spotify.com/track/5QJnZIV6OuW6vgIQXgpOX9) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Ik Kahani \- Kaka](https://open.spotify.com/album/0UauqdFbTkrPPZZZvzDSbe) | 2:50 | 2022-01-14 | 2022-02-12 |
@@ -626,6 +626,7 @@
 | [Marna Nahi Chaundi](https://open.spotify.com/track/5AsnNb7QRKD5fvzRlShJWm) | [Jugraj Sandhu](https://open.spotify.com/artist/60Lqd5e2bHRWKuCaHgzPvI) | [Marna Nahi Chaundi](https://open.spotify.com/album/4e1iKU8o5mnkjnqvgEmS2X) | 3:18 | 2023-02-01 | 2023-02-04 |
 | [MASCARA](https://open.spotify.com/track/5d9kJcfeoqxjeehUN7x9M0) | [Sultan Singh](https://open.spotify.com/artist/4eAS78hrdEzrqgOWn1ycQD), [Preet Sukh](https://open.spotify.com/artist/17gMznd5zN6OhjvnnX0CLa), [Backkbencherrs](https://open.spotify.com/artist/03qMNzU04fJBGdmAF4jHxS) | [MASCARA](https://open.spotify.com/album/2MNvqmlElZ5JvqhSHxE05p) | 2:23 | 2025-01-27 | 2025-06-18 |
 | [Matt Nayani](https://open.spotify.com/track/5xVmrJTDsQ50nOhGr4H0xC) | [Mr\. Boota](https://open.spotify.com/artist/7y6uVzFdMa49aA3HpupjVq) | [Matt Nayani](https://open.spotify.com/album/1MbeRtNRRzqfOahdRQnNwR) | 3:49 | 2022-04-25 | 2022-05-11 |
+| [Maula Toh Puch](https://open.spotify.com/track/6lnJrKSdVbGYdN1qK2ESSP) | [Bismil](https://open.spotify.com/artist/1dU8OXH7zI79wpLxei4EDu), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz), [Arjun Sarkar](https://open.spotify.com/artist/5PFGAVSP1xuvQbeIyh8tR3) | [Maula Toh Puch](https://open.spotify.com/album/7tD8D4xZ5WlHcP1K9oPebf) | 4:30 | 2025-10-09 |  |
 | [Mean \(Featuring Sameeksha Sud, Avinash Mishra\)](https://open.spotify.com/track/7ezQcI5ffAragM15iSLlll) | [Ramya](https://open.spotify.com/artist/7gVwxXFMkSYwYGNHIt77qU), [Sameeksha Sud](https://open.spotify.com/artist/3pHU256jfbCuoqq7svsmHH), [Avinash Mishra](https://open.spotify.com/artist/7vQIlbPuO8NSs5qO2rdXPy) | [Mean \(Featuring Sameeksha Sud, Avinash Mishra\)](https://open.spotify.com/album/7fZwR4hoDzynywS6KBTtkq) | 2:23 | 2022-03-22 | 2022-04-06 |
 | [Mehak Teri \(From "Shakaar Paare"\)](https://open.spotify.com/track/3YRcrJaXVPPvrAakD6aflb) | [Prabh Gill](https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4), [Neha Thakur](https://open.spotify.com/artist/6f3Ax5XPUfgoTxm7O0GaiW) | [Mehak Teri \(From "Shakaar Paare"\)](https://open.spotify.com/album/2MuSOI9gAKDWpYCw05Yn4b) | 2:47 | 2022-07-22 | 2022-12-16 |
 | [Mehboob Ji \(From “Shayar”\)](https://open.spotify.com/track/1dvsqSAmcfFIydNY7d8S77) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Mehboob Ji \(From "Shayar"\)](https://open.spotify.com/album/1wUaHrEIpp4nYyQu67LhFj) | 6:15 | 2024-02-12 | 2024-03-13 |

@@ -4,7 +4,7 @@
 
 > Drilling through Naij\. Cover: Ice Prince
 
-123 songs - 5 hr 33 min
+124 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [CANOPY \(feat\. Attifaya\)](https://open.spotify.com/track/4rgoRhYCCb5Hprx3en869s) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [AttiFaya](https://open.spotify.com/artist/4cAyqsHFXraGJp8eztAeO0) | [CANOPY \(feat\. Attifaya\)](https://open.spotify.com/album/1Y2wJ0rFDpzSwZRxualxG6) | 2:46 | 2025-05-16 |  |
 | [Celeb](https://open.spotify.com/track/7Cc1pvOLmw6YGdPtt6S5cs) | [Ambode](https://open.spotify.com/artist/331D4hntVY174My9tSpe7Q) | [Celeb](https://open.spotify.com/album/3selQU4OLhLuwQ2ELcomGt) | 1:48 | 2025-08-01 | 2025-08-23 |
 | [Champagne Showers](https://open.spotify.com/track/6sznXlT9DnNxuN9JPgwxcE) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Psychoyp](https://open.spotify.com/artist/0zXL9AbkRZtWXFFufCX8X6) | [Never Stop Vol\. 1](https://open.spotify.com/album/45fYE42AOHnBxsOFcKSoxw) | 2:32 | 2024-06-28 |  |
-| [Cook Am](https://open.spotify.com/track/0AXTVrKCqLurcWjXbSvHTj) | [EESKAY](https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG) | [Cook Am](https://open.spotify.com/album/53q75yUL8e430MaixPemmQ) | 2:15 | 2025-08-01 |  |
+| [Cook Am](https://open.spotify.com/track/0AXTVrKCqLurcWjXbSvHTj) | [EESKAY](https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG) | [Cook Am](https://open.spotify.com/album/53q75yUL8e430MaixPemmQ) | 2:15 | 2025-08-01 | 2025-10-10 |
 | [Cutesy](https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cutesy](https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6) | 3:01 | 2025-05-09 |  |
 | [Demons & Angels](https://open.spotify.com/track/67GWgzQyDPXRSt8PcodrG4) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Demons & Angels](https://open.spotify.com/album/1Mbqe3atwMxu9DKRzawdbr) | 3:01 | 2024-06-28 | 2024-09-13 |
 | [Disintegrate](https://open.spotify.com/track/0YUs0EG2U7OYjPqRQxFmJ9) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Evil Twin](https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo) | 2:29 | 2024-06-28 |  |
@@ -86,6 +86,7 @@
 | [O Di Dan Dan \- The Remix](https://open.spotify.com/track/6Dc89QRm8WbjBKTs8RNl80) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [O Di Dan Dan \(The Remix\)](https://open.spotify.com/album/7BCI6sgVdCRMjCDMhfcHi2) | 2:40 | 2024-06-28 | 2024-07-19 |
 | [Obasanjo](https://open.spotify.com/track/4QrISoWw7WQh72IPqSRwV7) | [Yagaa](https://open.spotify.com/artist/0yhQ0VohiKINXDZQTyEwha) | [Obasanjo](https://open.spotify.com/album/1xOat3bVEqUTylh62soG6O) | 2:37 | 2024-06-28 |  |
 | [Offer](https://open.spotify.com/track/4ogJO1FCRzu1mbYJ5ykHzG) | [PDSTRN](https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [Offer](https://open.spotify.com/album/50F4J1EHs1IncMSPztq6yJ) | 2:04 | 2024-06-28 | 2025-04-01 |
+| [Oga Eme](https://open.spotify.com/track/010F52HAOzqGOOAKn8F5oz) | [Kolaboy](https://open.spotify.com/artist/6RY4M12pquQEV6wgI6yAeR), [Evado](https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt) | [Oga Eme](https://open.spotify.com/album/5wReRIk3koaxWT74b2qFXs) | 3:19 | 2025-10-10 |  |
 | [OGBUEFI](https://open.spotify.com/track/2Mu5P5BnXRrqsAC5GeWHHf) | [Creen Caesar](https://open.spotify.com/artist/5A8fI4subH9tiQHBmm3COP) | [OGBUEFI](https://open.spotify.com/album/1WgU7HDA31Nvw43eGxmBoV) | 2:17 | 2024-06-28 | 2024-11-09 |
 | [Ojugom Isi](https://open.spotify.com/track/2bi2kMSivzY1iGdUsbErkj) | [Rord Kelly](https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR) | [Ojugom Isi](https://open.spotify.com/album/0bWTQDEfuuz46C7kcSCS2T) | 2:41 | 2024-06-28 |  |
 | [On God Oh Boss](https://open.spotify.com/track/1qfE3ZIV3lkzXYUdZsXBtW) | [The Flowolf](https://open.spotify.com/artist/1mcBWQVnnsPhMLCUB6iISP), [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Brown Roofs](https://open.spotify.com/album/0oqFYMzBIZbaymc5fYAvma) | 2:10 | 2024-08-30 | 2024-11-09 |

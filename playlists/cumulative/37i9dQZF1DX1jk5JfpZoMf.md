@@ -4,7 +4,7 @@
 
 > Nada melhor que aquela barulho de chuva para dormir ou relaxar.
 
-320 songs - 15 hr 44 min
+321 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Healing Rain](https://open.spotify.com/track/3MeV1PeFOCjgwXOnADJtE5) | [R\. Guru](https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48) | [Healing Rain](https://open.spotify.com/album/3q6h5lns25xvocifvgsXv8) | 3:28 | 2023-06-16 |  |
 | [Heavy Rain](https://open.spotify.com/track/0z5B28cI3u5hFxt6wiGCzX) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Gentle Rain Sounds](https://open.spotify.com/album/0hXnbwNys84VNiVT99n1FC) | 2:49 | 2023-06-16 |  |
 | [Heavy Rain](https://open.spotify.com/track/2iWme9Vt87bcJkrjcWbwfj) | [Refreshing Rain](https://open.spotify.com/artist/41VEwpxNtWVa0GWB4RLH03) | [Mother Nature](https://open.spotify.com/album/3Y5nmq4nrhroS7oZpc5ggb) | 2:56 | 2023-06-16 |  |
-| [Heavy Wind And Rain](https://open.spotify.com/track/6JS3QBeAswEtEmmXt02vZH) | [Regen BWS](https://open.spotify.com/artist/1ELXIIOQjxTB6fBRY0hZuo) | [Brain Rain](https://open.spotify.com/album/2CnaCIkOmyhoYwWliPAa73) | 2:56 | 2023-06-16 |  |
+| [Heavy Wind And Rain](https://open.spotify.com/track/6JS3QBeAswEtEmmXt02vZH) | [Regen BWS](https://open.spotify.com/artist/1ELXIIOQjxTB6fBRY0hZuo) | [Brain Rain](https://open.spotify.com/album/2CnaCIkOmyhoYwWliPAa73) | 2:56 | 2023-06-16 | 2025-10-10 |
 | [Horas de lluvia](https://open.spotify.com/track/5SU40Es6IskNv9LeHqztF1) | [Amba Naturale](https://open.spotify.com/artist/4th8dE9LVvvevKJrrk2Ge2) | [Horas de lluvia](https://open.spotify.com/album/3GsVGNCWCXpyLSLOYkBvK8) | 2:35 | 2023-06-16 |  |
 | [I Love Rain](https://open.spotify.com/track/4AN4dmPzeyPtA9DQjQ6u4z) | [Love Nature](https://open.spotify.com/artist/62N2aSzYqfNISn3LS3xQ01) | [Lovely Rain](https://open.spotify.com/album/39nbGbuy1Ly2xA06DV7wb3) | 2:42 | 2023-06-16 |  |
 | [Imbricus](https://open.spotify.com/track/4cW9jLbhoq4ItUNZRUOWb4) | [Hydrometry](https://open.spotify.com/artist/6zyjNEfUOGjqpWNy4ZXt5Z) | [Imbricus](https://open.spotify.com/album/0l0gNcU0nKSIxxQ3kieM9h) | 3:06 | 2025-09-23 |  |
@@ -141,6 +141,7 @@
 | [Midwinter Downtown Rain](https://open.spotify.com/track/2NvExQuwBYkqRy0S5X9rIs) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Cold Winter Rain](https://open.spotify.com/album/3DGDmHLXeYWdaSlZSMnjWN) | 5:42 | 2023-06-16 |  |
 | [Misty Nights](https://open.spotify.com/track/1VoWakyWCQffi9kJLE8E9e) | [The Mist](https://open.spotify.com/artist/5fsQWVVg6dLqhbuKcvroor) | [Rain Flood](https://open.spotify.com/album/7ICJo8n9KU5LyLwivs02CE) | 3:36 | 2023-06-16 |  |
 | [Misty Repose](https://open.spotify.com/track/4qvAEQnHGpZnULGQHMeYGG) | [State Of Rest](https://open.spotify.com/artist/5H7S5ayJ5VQmg868Hat3zM) | [Misty Repose](https://open.spotify.com/album/28Dw2RCnixiHeRkWs1Qe85) | 2:59 | 2025-09-23 |  |
+| [Monsoon Melodies](https://open.spotify.com/track/3OSiUBOgN5Hm2ly0ugakPl) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Monsoon Melodies](https://open.spotify.com/album/5zgMgzN2WQHCdZVErS3SSR) | 2:37 | 2025-09-23 |  |
 | [Morgonregn](https://open.spotify.com/track/5Jg2TWaUW9RaoUCFuKEBLx) | [Regnskur](https://open.spotify.com/artist/5iayvtoaKjHxf43TODIq4V) | [Morgonregn](https://open.spotify.com/album/0Kq1zjeX2PuQqnhqrR3UKh) | 2:00 | 2023-06-16 |  |
 | [Morning Rain](https://open.spotify.com/track/5imJcc13Fu59LGcxQKhQtp) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Forest Rain Sounds](https://open.spotify.com/album/5PBnIqFcWwIiRKQcm7XQ1i) | 3:06 | 2023-06-16 |  |
 | [Mosslight Rain](https://open.spotify.com/track/0fssBwzuKUh44oWOt3DTVU) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Bloom Drops](https://open.spotify.com/album/5bhWfiwUq7bSthr0ZUvgCU) | 3:12 | 2025-07-24 |  |

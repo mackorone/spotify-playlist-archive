@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain]
 
 > Can anyone hear me? I&\#x27;m so scared to forget\. I&\#x27;m so scared that everything will disappear, so I&\#x27;ll keep everything right here, always keep everything near, never let it leave arm&\#x27;s length, and maybe I&\#x27;ll have the strength, to never forget it all again.
 
-[Rookii](https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb) - 0 likes - 680 songs - 1 day 10 hr 15 min
+[Rookii](https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb) - 0 likes - 690 songs - 1 day 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -688,5 +688,15 @@ pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain]
 | 678 | [UNREGGCOGNIZABLE](https://open.spotify.com/track/2wL7b3xPyQ7oox4AfCb2Nk) | [Forsaken Sound Team](https://open.spotify.com/artist/2USdmLXUlsdBkAlv8ofwzj), [Exedious](https://open.spotify.com/artist/7eBRCYa20ulVbUydUXROvJ) | [Forsaken \(Original Game Soundtrack\), Vol\. 1](https://open.spotify.com/album/1De1VoIMF7ELzgmxcvXRKK) | 2:44 |
 | 679 | [A GRAVE SOUL \(NOW, RUN\)](https://open.spotify.com/track/4eAT016KQv1xc3w6ypqhvz) | [Forsaken Sound Team](https://open.spotify.com/artist/2USdmLXUlsdBkAlv8ofwzj), [Exedious](https://open.spotify.com/artist/7eBRCYa20ulVbUydUXROvJ) | [Forsaken \(Original Game Soundtrack\), Vol\. 1](https://open.spotify.com/album/1De1VoIMF7ELzgmxcvXRKK) | 1:13 |
 | 680 | [PLEAD](https://open.spotify.com/track/54WRiEXjterGsukuxgy9NE) | [Forsaken Sound Team](https://open.spotify.com/artist/2USdmLXUlsdBkAlv8ofwzj), [Key After Key](https://open.spotify.com/artist/46XQ21NT096rg4q85R11fW) | [Forsaken \(Original Game Soundtrack\), Vol\. 1](https://open.spotify.com/album/1De1VoIMF7ELzgmxcvXRKK) | 1:30 |
+| 681 | [Androphonovania](https://open.spotify.com/track/6DtbHMsCmbD2HWV7rKzfCX) | [XenoMorphh](https://open.spotify.com/artist/3xte2LxPbE1wMw2Fz6NqXN) | [Androphonovania](https://open.spotify.com/album/0eCpBN2zor1hLE0tHLFstv) | 3:30 |
+| 682 | [Misfortune](https://open.spotify.com/track/5zTYaxKMoHfeMeBCA8ti85) | [XenoMorphh](https://open.spotify.com/artist/3xte2LxPbE1wMw2Fz6NqXN) | [Misfortune](https://open.spotify.com/album/4Ax4zXpmfi1RJHHVKvFyVi) | 3:15 |
+| 683 | [Reanimation](https://open.spotify.com/track/3ss74QuxDF2AzP2BUeC0qL) | [XenoMorphh](https://open.spotify.com/artist/3xte2LxPbE1wMw2Fz6NqXN) | [Reanimation](https://open.spotify.com/album/50vbz6r61pNlLeUL9YTIKT) | 2:39 |
+| 684 | [Rainbow](https://open.spotify.com/track/1D9Fohy0GLvNcjX4CeDrZ4) | [BadKillers](https://open.spotify.com/artist/7fIbcXaAPCpIPYvfZ0KZiZ) | [Infinite Space](https://open.spotify.com/album/1ue58sZyXWWJvTLD0AY5NV) | 2:30 |
+| 685 | [Megalocancer \(Bonus Track\)](https://open.spotify.com/track/7c10zaddM7U4ficN85w6zD) | [Cyranek](https://open.spotify.com/artist/1lSky2rvA0Q5BKs03iH6aP) | [The Undertale Airhorn Collection](https://open.spotify.com/album/4hvaTqNRq2zVvJeZDJtSYK) | 1:52 |
+| 686 | [The Skeleton That Is Sans](https://open.spotify.com/track/6EJRz5Mbk37zflU9iH2RNH) | [Materia Collective](https://open.spotify.com/artist/3887tYTEEfxw2w0CGVMKdt), [Faseeh](https://open.spotify.com/artist/6CmkUiXrAcRaWwde49wVO2) | [FALLEN: An Undertale Tribute](https://open.spotify.com/album/3bIxCJ3JIY0NTNyz81Aufj) | 4:05 |
+| 687 | [Megalovania \- Undertale Remix](https://open.spotify.com/track/28Ca8O3s0696gKaWZFCUYH) | [MiatriSs](https://open.spotify.com/artist/7s5A0SlNGTXP4EPKIthpaS) | [Megalovania \(Undertale Remix\)](https://open.spotify.com/album/2UA3PyJxXnV3xsXQdcx5DZ) | 4:48 |
+| 688 | [Megalovania \- Dance Remix](https://open.spotify.com/track/6frt4YwBI8tOZ3dvL932VC) | [SayMaxWell](https://open.spotify.com/artist/50hbotxVDC7jjk24PfKJa2), [Egor Lappo](https://open.spotify.com/artist/5R7MDxZTIkD7oyEoQ9FVFH) | [Undertale Remixes](https://open.spotify.com/album/0RIX3KUTUeQutwgc5NFpy7) | 3:51 |
+| 689 | ['Megalovania' For Orchestra](https://open.spotify.com/track/18Kyxj8WjzFonU3yodf3cD) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau), [Walt Ribeiro](https://open.spotify.com/artist/6Okl9534IVWQRRsJamiuJ7) | [Every Song!](https://open.spotify.com/album/0FovKTug6PIv2KoNQeeidp) | 4:59 |
+| 690 | [Megolovania remix](https://open.spotify.com/track/20d1MfIUze0AQuLmBEJitZ) | [Zilence](https://open.spotify.com/artist/01SbpW2cpxmNxMoyocVu9C) | [Blurryplace](https://open.spotify.com/album/4YNjW6S4KiGogs1netIbSh) | 2:48 |
 
-Snapshot ID: `AAABo20wypawdyRtlNELMRa2q0NfRAse`
+Snapshot ID: `AAABrULpuKrodRONUMCem7a/KmwbM1Ot`

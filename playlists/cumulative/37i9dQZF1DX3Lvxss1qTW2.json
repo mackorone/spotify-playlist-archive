@@ -4437,6 +4437,28 @@
     },
     {
       "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH"
+      },
+      "artists": [
+        {
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155789,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq"
+    },
+    {
+      "album": {
         "name": "Hey Jago",
         "url": "https://open.spotify.com/album/0z4JNG0qrRWOZnrub2A40d"
       },
@@ -5399,6 +5421,28 @@
     },
     {
       "album": {
+        "name": "Kanye (with Minz)",
+        "url": "https://open.spotify.com/album/3BobEjjYPHa1ct0bCGC30N"
+      },
+      "artists": [
+        {
+          "name": "10Ten",
+          "url": "https://open.spotify.com/artist/7urO0i2T8Ta9E9xAuOD1d6"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128076,
+      "name": "Kanye (with Minz)",
+      "url": "https://open.spotify.com/track/1Sy0TOykPMdoVFivlhpsb3"
+    },
+    {
+      "album": {
         "name": "Bully Season Vol.2 : Pretty Girls Love Afrobeats",
         "url": "https://open.spotify.com/album/4W7ver0Okhl78vyo1emv2c"
       },
@@ -5975,6 +6019,28 @@
     },
     {
       "album": {
+        "name": "Lonely Road",
+        "url": "https://open.spotify.com/album/4zldXsyHbRQL9nP17xiFom"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157538,
+      "name": "Lonely Road",
+      "url": "https://open.spotify.com/track/2aCskdq9N9RczrwEujAV13"
+    },
+    {
+      "album": {
         "name": "888 (Abundance, Success and Achievement)",
         "url": "https://open.spotify.com/album/4us7TfQlNzl6Qp7eQastQQ"
       },
@@ -6160,6 +6226,24 @@
       "duration_ms": 156238,
       "name": "L\u00e8t\u00f3",
       "url": "https://open.spotify.com/track/2ubBk71A4eKuKEiMB7Hwa6"
+    },
+    {
+      "album": {
+        "name": "Mad",
+        "url": "https://open.spotify.com/album/3vn3zwsWxgG1bDg1944bOe"
+      },
+      "artists": [
+        {
+          "name": "Reefer Tym",
+          "url": "https://open.spotify.com/artist/3HmAVmxYJSA0yC4fMhYE27"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152941,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/4KDvhu1ksQRN4yyMMcDuOn"
     },
     {
       "album": {
@@ -6360,6 +6444,28 @@
       "duration_ms": 170840,
       "name": "meet 4 corner",
       "url": "https://open.spotify.com/track/1xzClFt96f9K5mGCCAXTD8"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187037,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
     },
     {
       "album": {
@@ -7828,7 +7934,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 154828,
       "name": "Pepper Demm",
       "url": "https://open.spotify.com/track/0GrjQoD0G2nbpjvBa64EPK"
@@ -8094,6 +8200,24 @@
       "duration_ms": 148800,
       "name": "Pull Over",
       "url": "https://open.spotify.com/track/40N72jM3hFr8jIl8s1HSEl"
+    },
+    {
+      "album": {
+        "name": "Put Am on God",
+        "url": "https://open.spotify.com/album/5MYUW4xuYLfc5LCFLIxVqc"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159905,
+      "name": "Put Am on God",
+      "url": "https://open.spotify.com/track/6Qw5ZCRSOXLL5WlDb4YkN3"
     },
     {
       "album": {
@@ -9012,6 +9136,24 @@
       "duration_ms": 142524,
       "name": "Soyaiya",
       "url": "https://open.spotify.com/track/1lC0Ezh2f3NrddIrURhzXw"
+    },
+    {
+      "album": {
+        "name": "Spaghetti",
+        "url": "https://open.spotify.com/album/1pZ1HTqqaNNC312zmgpaBx"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128256,
+      "name": "Spaghetti",
+      "url": "https://open.spotify.com/track/53ZPK0Ltgi5mQAHGm8dqWt"
     },
     {
       "album": {
@@ -10238,7 +10380,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 138750,
       "name": "Way2Yung",
       "url": "https://open.spotify.com/track/1y3AUUZnhIUJBzEAIKwrUw"

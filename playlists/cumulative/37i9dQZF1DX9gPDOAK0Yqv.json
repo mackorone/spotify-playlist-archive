@@ -1689,6 +1689,28 @@
     },
     {
       "album": {
+        "name": "BOOM",
+        "url": "https://open.spotify.com/album/5mUSCfo5iSpon9FYA1G0ZE"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "John Cala",
+          "url": "https://open.spotify.com/artist/1EIT6jQWPXDLpc7xeDPjGP"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "BOOM",
+      "url": "https://open.spotify.com/track/21CxzoOcC0m38xpbAAWqMb"
+    },
+    {
+      "album": {
         "name": "Both of Us",
         "url": "https://open.spotify.com/album/68dG6aoGqhFoq7gpCA3NNi"
       },
@@ -3293,6 +3315,28 @@
     },
     {
       "album": {
+        "name": "Do It Again (Massano Remix)",
+        "url": "https://open.spotify.com/album/2EDBQsqGzhECP0x0QX8Qin"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        },
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Do It Again - Massano Remix",
+      "url": "https://open.spotify.com/track/02f2n3usAnFXyRejWROsHs"
+    },
+    {
+      "album": {
         "name": "Do You EP",
         "url": "https://open.spotify.com/album/5FuiFhKEYrgrOnMck9cXqb"
       },
@@ -3348,6 +3392,24 @@
       "duration_ms": 176390,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/70sATkQBjlzawQ0ZAf22AI"
+    },
+    {
+      "album": {
+        "name": "Don't Look Away",
+        "url": "https://open.spotify.com/album/28NsFqKTyLOmN2dQHzRDA8"
+      },
+      "artists": [
+        {
+          "name": "Marsias",
+          "url": "https://open.spotify.com/artist/2b7PWasPxNRzwyUkXVIZ3a"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197419,
+      "name": "Don't Look Away",
+      "url": "https://open.spotify.com/track/5Ux2aO3WxTnzfccHMUJBdl"
     },
     {
       "album": {
@@ -5072,7 +5134,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 258545,
       "name": "Forget",
       "url": "https://open.spotify.com/track/2q18AKTf10vS8iTSg5sQ2r"
@@ -12140,7 +12202,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 193700,
       "name": "RITMO",
       "url": "https://open.spotify.com/track/3ifvaAvaSYo1WDWXxAiv2A"
@@ -12688,7 +12750,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 192626,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/5jRtRJNZuWMU7RCipIoNPh"
@@ -15801,6 +15863,24 @@
     },
     {
       "album": {
+        "name": "Undercover",
+        "url": "https://open.spotify.com/album/1txkuGO5l1fSsEHbNwH5Qw"
+      },
+      "artists": [
+        {
+          "name": "MotherEarth",
+          "url": "https://open.spotify.com/artist/2o2pBVmNUXW9LZvjVvKC0x"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167040,
+      "name": "Undercover",
+      "url": "https://open.spotify.com/track/6JD37bD1Wn9MDJuwdXfkxF"
+    },
+    {
+      "album": {
         "name": "Undress",
         "url": "https://open.spotify.com/album/66qEnfu3obq6fu1sqKVpDO"
       },
@@ -15812,7 +15892,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 211428,
       "name": "Undress",
       "url": "https://open.spotify.com/track/2JQt95DoBjIfnNIa3RRMIn"

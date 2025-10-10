@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-236 songs - 18 hr 8 min
+237 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Catfish Row \(Arr\. S\. Bowen for Orchestra\): I\. Catfish Row](https://open.spotify.com/track/1BpSBTLsE5mqF8LsZin1gu) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Buffalo Philharmonic Orchestra](https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK), [Joann Falletta](https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK) | [Gershwin: Rhapsody in Blue, Strike Up the Band Overture, Promenade & Catfish Row](https://open.spotify.com/album/3tTMvPV9A4W9DyuugugAOR) | 6:52 | 2025-08-01 |  |
 | [Catfish Row \(Arr\. S\. Bowen for Orchestra\): I\. Catfish Row](https://open.spotify.com/track/6YDyGvuZOX5m3aoTZTS2G7) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Buffalo Philharmonic Orchestra](https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK), [Joann Falletta](https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK) | [Gershwin: Rhapsody in Blue, Strike Up the Band Overture, Promenade & Catfish Row](https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V) | 6:52 | 2024-07-24 | 2025-08-02 |
 | [Changing My Tune](https://open.spotify.com/track/7bEUhPuMR8jw3dIKDOAPmP) | [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF), [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [The Meltones](https://open.spotify.com/artist/1Tq4NTchpZlJXE8bVl9Rv5) | [Artie Shaw and His Orchestra Featuring Mel Tormé and the Meltones](https://open.spotify.com/album/40CxPu7QzEVBl3lv7JVJBr) | 2:42 | 2025-06-29 |  |
-| [Clara, Clara \- Remastered](https://open.spotify.com/track/7H5GPqWOedNe1x4TCFLFAu) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Porgy & Bess \(Original Motion Picture Soundtrack\) \[Remastered\]](https://open.spotify.com/album/6l2ud8wBveGrBjDy1e18vA) | 2:16 | 2024-07-24 |  |
+| [Clara, Clara](https://open.spotify.com/track/0WdBhy00aM0nMwyKwG4RTs) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Porgy and Bess Orginal Soundtrack](https://open.spotify.com/album/6NbKxWV0JWaSTEC04s7tmT) | 2:12 | 2025-10-09 |  |
+| [Clara, Clara \- Remastered](https://open.spotify.com/track/7H5GPqWOedNe1x4TCFLFAu) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Porgy & Bess \(Original Motion Picture Soundtrack\) \[Remastered\]](https://open.spotify.com/album/6l2ud8wBveGrBjDy1e18vA) | 2:16 | 2024-07-24 | 2025-10-10 |
 | [Cockiness \(Love It\)](https://open.spotify.com/track/6ShPW20OkAfOxmkX06Okle) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk \(Deluxe Explicit\)](https://open.spotify.com/album/3oQebIVUPY0IPiROZSIQFl) | 2:58 | 2024-07-24 |  |
 | [Comes The Revolution](https://open.spotify.com/track/2cjbnAkDiwLnd3HwQlr9OT) | [Michael Feinstein](https://open.spotify.com/artist/2IcIec7ZxgwaWNJbZ0Sth7) | [Michael & George: Feinstein Sings Gershwin](https://open.spotify.com/album/1P15fFRI4uK1OrkTWtqExH) | 0:57 | 2024-07-24 |  |
 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 | 2024-09-24 |  |

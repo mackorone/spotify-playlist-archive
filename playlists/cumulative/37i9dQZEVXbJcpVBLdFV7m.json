@@ -506,10 +506,40 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 220000,
       "name": "24 Songs",
       "url": "https://open.spotify.com/track/4RVH1j0vcUDcbKCsJXMl64"
+    },
+    {
+      "album": {
+        "name": "24 Songs",
+        "url": "https://open.spotify.com/album/0tAcuTHvUaHjjD8QeyW30e"
+      },
+      "artists": [
+        {
+          "name": "void",
+          "url": "https://open.spotify.com/artist/5ySK6tR70ZunnmPEHCrCwF"
+        },
+        {
+          "name": "ciaffa",
+          "url": "https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x"
+        },
+        {
+          "name": "fedo DJ",
+          "url": "https://open.spotify.com/artist/0sfCfF62IjeupwxdvH7KM3"
+        },
+        {
+          "name": "ech0",
+          "url": "https://open.spotify.com/artist/43qCKwRBBItPK03V03eqf8"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220019,
+      "name": "24 Songs",
+      "url": "https://open.spotify.com/track/2h8AvnrOIjZMJnfWMQxTuD"
     },
     {
       "album": {
@@ -608,6 +638,28 @@
       "duration_ms": 203618,
       "name": "365",
       "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
+    },
+    {
+      "album": {
+        "name": "Rockstar Junkie",
+        "url": "https://open.spotify.com/album/5yKyv50gYG4q6S2ti49XID"
+      },
+      "artists": [
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136127,
+      "name": "3am",
+      "url": "https://open.spotify.com/track/43oBNdp6W1Z9YDu1svX1hl"
     },
     {
       "album": {
@@ -6592,7 +6644,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 261849,
       "name": "D>E>A>T>H>M>E>T>A>L",
       "url": "https://open.spotify.com/track/4sIFi8LpJWPvI5xviWFyA6"
@@ -9736,7 +9788,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 176193,
       "name": "FACE2FACE",
       "url": "https://open.spotify.com/track/6FKShQYniVE3TlGPRXuPVw"
@@ -12731,6 +12783,24 @@
     },
     {
       "album": {
+        "name": "SAUCE KID 4",
+        "url": "https://open.spotify.com/album/4x3QcWrWwD5hCpnGRJNXSE"
+      },
+      "artists": [
+        {
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180996,
+      "name": "HIM",
+      "url": "https://open.spotify.com/track/1qKx4C7IWQJWs0tifDZ6h0"
+    },
+    {
+      "album": {
         "name": "HIM",
         "url": "https://open.spotify.com/album/7r24VVdZzWuuM3NvnOCeDw"
       },
@@ -14462,6 +14532,28 @@
       "duration_ms": 258466,
       "name": "\u0130\u00e7im Yanar",
       "url": "https://open.spotify.com/track/2iJSm2qKRujRjBeMAHUbKn"
+    },
+    {
+      "album": {
+        "name": "SAUCE KID 4",
+        "url": "https://open.spotify.com/album/4x3QcWrWwD5hCpnGRJNXSE"
+      },
+      "artists": [
+        {
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
+        },
+        {
+          "name": "Dimoff",
+          "url": "https://open.spotify.com/artist/0lWhRqKSRYsM6QpHaFuZXP"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169833,
+      "name": "JACKPOT",
+      "url": "https://open.spotify.com/track/2RIRv4qp2LhztFpDNbNTsX"
     },
     {
       "album": {
@@ -24210,7 +24302,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 164307,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/2JRsev5j783NgLMhztR95V"
@@ -24740,7 +24832,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 293026,
       "name": "Sabah Olmadan",
       "url": "https://open.spotify.com/track/0n5RFIZqdGlWWLlLMpYSIx"
@@ -33210,7 +33302,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 153994,
       "name": "WINCOIN",
       "url": "https://open.spotify.com/track/4JDYLHgtR4SaR1jMuN0Lni"

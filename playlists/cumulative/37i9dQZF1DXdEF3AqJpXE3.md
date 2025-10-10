@@ -2,7 +2,7 @@
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: Reneé Rapp
+> The best tracks from the world of music\. Cover: Taylor Swift
 
 552 songs - 1 day 5 hr 56 min
 

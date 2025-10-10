@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,461 likes - 115 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,520 likes - 115 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 25 | [Oh Bop](https://open.spotify.com/track/6BGIM9DulVuskjgrzrD1OK) | [Kidoo](https://open.spotify.com/artist/0oM2tcepZGxojGEvnYrIOD) | [FRAGMENTS OF GROOVE](https://open.spotify.com/album/6bVl3VKpaWCMnUj7bgytns) | 5:37 |
 | 26 | [The Devil](https://open.spotify.com/track/31qVMrHrtSXod8QNRJMAsQ) | [Lemtom](https://open.spotify.com/artist/2B9xp0rpwFz5TON2ZSSKEF) | [ATW024](https://open.spotify.com/album/3q68WRDnFm68DwRLABeISh) | 3:33 |
 | 27 | [Miami Express](https://open.spotify.com/track/5mcPtwytr83V4wh6MtRq0R) | [Mishell](https://open.spotify.com/artist/3kCsXVpVs1ZhLnIVkNzdHJ), [Sapian](https://open.spotify.com/artist/4hWjDdwaSTU6SgOk5ZP3GT) | [Miami Express](https://open.spotify.com/album/6dGrGIzc3IRwHfkbNrhAjZ) | 2:36 |
-| 28 | [Moth To A Flame](https://open.spotify.com/track/78EK9fx47IpXsp0wqtONjK) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [GEWAH Selects](https://open.spotify.com/album/4dFQIf3DnBh6UhWSoGZOPU) | 3:10 |
+| 28 | [Moth To A Flame](https://open.spotify.com/track/78EK9fx47IpXsp0wqtONjK) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [GEWAH Selects \(DJ Mix\)](https://open.spotify.com/album/4dFQIf3DnBh6UhWSoGZOPU) | 3:10 |
 | 29 | [Pumpin Jumpin](https://open.spotify.com/track/1VhNZmtGQPnJlzZStAYn5j) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Pumpin Jumpin](https://open.spotify.com/album/0WyIwrLoLBoS30ES2bgnXF) | 3:41 |
 | 30 | [Come To Ibiza \- Max Dean Remix](https://open.spotify.com/track/3eieIb30CTRx3DHRHOOcaR) | [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS), [Timeless oracle](https://open.spotify.com/artist/04WRRkb2yqJrFCeNm7WRmt), [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [Come To Ibiza \(Max Dean Remix\)](https://open.spotify.com/album/3fqrGQzShAdtQdCgbP0IBf) | 3:11 |
 | 31 | [The Message](https://open.spotify.com/track/5fN2dHD2RxxDVJVWyTVq0t) | [Job De Jong](https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI) | [The Message EP](https://open.spotify.com/album/6OF6KDVge1XAAADYIDf9ej) | 3:37 |

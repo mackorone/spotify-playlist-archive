@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > emory on the cover bc we can't get this song out of our heads!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,036 likes - 134 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,055 likes - 134 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

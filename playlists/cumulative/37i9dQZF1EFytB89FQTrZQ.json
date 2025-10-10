@@ -4194,10 +4194,28 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 211891,
       "name": "High",
       "url": "https://open.spotify.com/track/01T0IodXbkQXBAiTzeH0PK"
+    },
+    {
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/5HsCOq8QRBnVMn1LksD9fb"
+      },
+      "artists": [
+        {
+          "name": "Zach Campbell",
+          "url": "https://open.spotify.com/artist/1xj1EJ5Ugunq3L3Ff3sdPe"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211906,
+      "name": "High",
+      "url": "https://open.spotify.com/track/1eAhfzVmVbII6eWvOfD8Ax"
     },
     {
       "album": {

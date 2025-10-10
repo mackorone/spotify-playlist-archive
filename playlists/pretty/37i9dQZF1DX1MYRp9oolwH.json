@@ -1,13 +1,37 @@
 {
-  "description": "Bringing out the best of latest love tracks\nCover : OG",
-  "num_followers": 155023,
+  "description": "Bringing out the best of latest love tracks\nCover : Premante",
+  "num_followers": 155059,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOhE1cWqV+A182gNQXjs94HzNSRC",
+  "snapshot_id": "AAAAALeUWz1mZVXE196PTMFEeSQZT8Ky",
   "tracks": [
+    {
+      "added_at": "2025-10-09 08:17:22",
+      "album": {
+        "name": "Dhochaave Nanne (From \"Premante\")",
+        "url": "https://open.spotify.com/album/3qZ69MZPHVoWr6NbZs28da"
+      },
+      "artists": [
+        {
+          "name": "Leon James",
+          "url": "https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy"
+        },
+        {
+          "name": "Abby V",
+          "url": "https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX"
+        },
+        {
+          "name": "Shree Mani",
+          "url": "https://open.spotify.com/artist/5DBt33WIllF4C75q0WqqoL"
+        }
+      ],
+      "duration_ms": 212268,
+      "name": "Dhochaave Nanne (From \"Premante\")",
+      "url": "https://open.spotify.com/track/1T66KUOewj4WoG91CBfFFH"
+    },
     {
       "added_at": "2025-07-18 12:20:46",
       "album": {
@@ -883,38 +907,6 @@
       "duration_ms": 266624,
       "name": "Haiyayyo (From \"Mr.X (Telugu)\")",
       "url": "https://open.spotify.com/track/2m1ihM9sAyMgYvAhkAfG6j"
-    },
-    {
-      "added_at": "2025-03-10 13:53:33",
-      "album": {
-        "name": "Ru Ru (From \"Tuk Tuk\")",
-        "url": "https://open.spotify.com/album/3NjsEYDRM4dMxxNj3RHVJA"
-      },
-      "artists": [
-        {
-          "name": "Pavithra Narkinabilli",
-          "url": "https://open.spotify.com/artist/19EgQMvkHsLcLaNpgZuNxf"
-        },
-        {
-          "name": "Santhu Omkar",
-          "url": "https://open.spotify.com/artist/6sbczMkYPTCssSNgMprpoz"
-        },
-        {
-          "name": "Supreeth C Krishna",
-          "url": "https://open.spotify.com/artist/5DJO2aOCfbSO1rDMhQHgqN"
-        },
-        {
-          "name": "Keerthana Sriram",
-          "url": "https://open.spotify.com/artist/1fNVifjK4BtW3zMiLxZahx"
-        },
-        {
-          "name": "Prarthana Sriram",
-          "url": "https://open.spotify.com/artist/7EdorwRDTYPcN7vkcWaEjm"
-        }
-      ],
-      "duration_ms": 212983,
-      "name": "Ru Ru (From \"Tuk Tuk\")",
-      "url": "https://open.spotify.com/track/7vxG9gy43GnShHXMwaLY9X"
     },
     {
       "added_at": "2025-06-03 05:36:27",

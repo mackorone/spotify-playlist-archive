@@ -2,9 +2,9 @@
 
 ### [Dance Generation](https://open.spotify.com/playlist/37i9dQZF1DX1lp03JVa0o6)
 
-> Today's biggest dance hits! Cover: Alison Wonderland
+> Today's biggest dance hits! Cover: Mansionair
 
-880 songs - 1 day 21 hr 45 min
+881 songs - 1 day 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [ENERGY \(feat\. What So Not\)](https://open.spotify.com/track/56p7iNjfq5CAwYHAUtgcvl) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [EXISTENTIAL DANCE MUSIC](https://open.spotify.com/album/08B5vetD5dOlXKwFSDF4xz) | 3:52 | 2023-09-14 | 2023-10-06 |
 | [English Lad](https://open.spotify.com/track/4guuv4bFzNo8hV53fYlUpQ) | [Ben Gerrans](https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z), [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX) | [English Lad](https://open.spotify.com/album/3ro8vbWl5i4D6Sr83aLmur) | 2:47 | 2023-08-24 | 2023-10-27 |
 | [Enhancer](https://open.spotify.com/track/6BLQTvIsjpTaxqa56hVZ4x) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje) | [Enhancer](https://open.spotify.com/album/3ehWvR9WBETD1ikgcNzPQG) | 5:06 | 2024-04-18 | 2024-08-16 |
+| [Eraser](https://open.spotify.com/track/2CXpZvW1IKuBJ9MeHeFz1T) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Some Kind of Alchemy](https://open.spotify.com/album/4OOGYZfiKbOdWnu6lS78o3) | 3:29 | 2025-10-09 |  |
 | [Everybody Jump \(Meet Her At The Love Parade\)](https://open.spotify.com/track/50Io7hyfWz9TdS550GjEZR) | [Sunset Bros](https://open.spotify.com/artist/2LNuTYPmlmFYnti5EJQoKQ), [Rodney O](https://open.spotify.com/artist/6XarFW7tmNP4JIOcmTaXNq) | [Everybody Jump \(Meet Her At The Love Parade\)](https://open.spotify.com/album/32MSVlidfbRCpUkPmoVyrO) | 2:10 | 2023-08-10 | 2023-09-29 |
 | [Everything You Have Done \- Meduza Edit](https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Everything You Have Done \(Meduza Edit\)](https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe) | 2:36 | 2023-04-06 | 2023-07-07 |
 | [Explode](https://open.spotify.com/track/4rnwQPqGNoHCQppYVdTZdu) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Explode](https://open.spotify.com/album/6PlqsS0firvxsrefOvbUOc) | 2:39 | 2024-03-28 | 2024-06-21 |
@@ -285,7 +286,7 @@
 | [First Class](https://open.spotify.com/track/4pRkhDT2Ts6zD9rIEr8OUU) | [Loosie Grind](https://open.spotify.com/artist/3qOZFyhCatzdumox0KQotv) | [First Class](https://open.spotify.com/album/167ICCyNxUheWvRWduVOeS) | 3:23 | 2025-06-26 |  |
 | [Flesh](https://open.spotify.com/track/74bBSAVEl6AEXCN1mfUyA3) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x) | [Flesh](https://open.spotify.com/album/6GcjafNS8X9UJntTmGo7g8) | 3:42 | 2023-06-15 | 2023-10-27 |
 | [Focus \(feat\. CLOVES\)](https://open.spotify.com/track/0xaXwvcjq7aAKwMKe22Bw7) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Focus \(feat\. CLOVES\)](https://open.spotify.com/album/4hwsD3b6V8962BDX5nCiFF) | 3:58 | 2025-01-23 | 2025-06-06 |
-| [Follow Me](https://open.spotify.com/track/3tYy5DX20Bd3SO4UABc3Xt) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Sumner](https://open.spotify.com/artist/3MkvptiOUwlGj7DyNbJfrY) | [Follow Me](https://open.spotify.com/album/3kichZUBPRawFSLkhPzFtB) | 2:47 | 2025-06-12 |  |
+| [Follow Me](https://open.spotify.com/track/3tYy5DX20Bd3SO4UABc3Xt) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Sumner](https://open.spotify.com/artist/3MkvptiOUwlGj7DyNbJfrY) | [Follow Me](https://open.spotify.com/album/3kichZUBPRawFSLkhPzFtB) | 2:47 | 2025-06-12 | 2025-10-10 |
 | [Follow Me \(Nobody Listens To Techno\)](https://open.spotify.com/track/7IlpTSHwOrnNCsBg7aTJSz) | [Sunset Bros](https://open.spotify.com/artist/2LNuTYPmlmFYnti5EJQoKQ) | [Follow Me \(Nobody Listens To Techno\)](https://open.spotify.com/album/1dB8M1580MSrjCRQDWIQ8m) | 2:30 | 2022-12-08 | 2023-07-14 |
 | [Forever](https://open.spotify.com/track/52Y1NDCiTeWECwQSeUdAaA) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RobbieG](https://open.spotify.com/artist/2NWRfNAjBd2cUOKbE9Isda) | [Forever](https://open.spotify.com/album/6B5LA5m4bNlH1lTI91biWb) | 3:01 | 2023-12-21 | 2024-03-22 |
 | [Forever](https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Forever](https://open.spotify.com/album/7cXPqivcSwwoWsx29zT6lq) | 2:39 | 2025-04-17 |  |

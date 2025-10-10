@@ -75,6 +75,28 @@
     },
     {
       "album": {
+        "name": "01",
+        "url": "https://open.spotify.com/album/2aCvyCTceOoKWkE8HGz7eA"
+      },
+      "artists": [
+        {
+          "name": "Joana Black",
+          "url": "https://open.spotify.com/artist/226S9LHSy8MpKuQ8sgObs6"
+        },
+        {
+          "name": "Gomesz",
+          "url": "https://open.spotify.com/artist/64F5dm6rUZ1e80A7y7PZvw"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191488,
+      "name": "01",
+      "url": "https://open.spotify.com/track/27gnHanG3ba00UfkEdYYhi"
+    },
+    {
+      "album": {
         "name": "Cabra",
         "url": "https://open.spotify.com/album/51Qzu6VHdTydpqVqpjDpH4"
       },
@@ -800,7 +822,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 181727,
       "name": "Abaixo do Radar",
       "url": "https://open.spotify.com/track/3avSwfBE4PjSLBMUGQ0jXi"
@@ -1393,6 +1415,32 @@
     },
     {
       "album": {
+        "name": "Sankofa",
+        "url": "https://open.spotify.com/album/4EjAbxHIbLUFjGm74w9f6a"
+      },
+      "artists": [
+        {
+          "name": "Thiago Elni\u00f1o",
+          "url": "https://open.spotify.com/artist/5x7AmAnecUurZjYguXAwED"
+        },
+        {
+          "name": "GOG",
+          "url": "https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e"
+        },
+        {
+          "name": "Renato Matos",
+          "url": "https://open.spotify.com/artist/0F0GzVvB2Rt8EfZkKiX9P9"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175933,
+      "name": "Andei, Andei!",
+      "url": "https://open.spotify.com/track/6hck9XPeNiWA3IoJIAM9mC"
+    },
+    {
+      "album": {
         "name": "Aquelas Notas",
         "url": "https://open.spotify.com/album/6IIX6Jbma40wOEOg1POXO3"
       },
@@ -1456,7 +1504,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 150000,
       "name": "Anos Dourados do Blues",
       "url": "https://open.spotify.com/track/6JkidEArRc9jjElEVjqzgL"
@@ -2176,7 +2224,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 183571,
       "name": "Boom Boom Bap",
       "url": "https://open.spotify.com/track/4yfxzJmXuqLSId9wGY1odh"
@@ -3576,7 +3624,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 187012,
       "name": "Cotidiano",
       "url": "https://open.spotify.com/track/1pCjcK1cJqyYiWdqZUREnN"
@@ -4850,7 +4898,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 240009,
       "name": "Dupla Face",
       "url": "https://open.spotify.com/track/7rZLJnEiV5kTg8X9Jn1HCm"
@@ -5371,6 +5419,32 @@
     },
     {
       "album": {
+        "name": "Etiqueta (Under Sesh #9)",
+        "url": "https://open.spotify.com/album/4NCFK3Hu3GmucbNhOomGJ8"
+      },
+      "artists": [
+        {
+          "name": "Lucky Real",
+          "url": "https://open.spotify.com/artist/4eYZoQdST7n6eEraQfMXcz"
+        },
+        {
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+        },
+        {
+          "name": "Drow Beats",
+          "url": "https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150361,
+      "name": "Etiqueta (Under Sesh #9)",
+      "url": "https://open.spotify.com/track/0KhxrKcloIqedRkOBqKULg"
+    },
+    {
+      "album": {
         "name": "A Vida de Axel Alberigi Parte II",
         "url": "https://open.spotify.com/album/4DYGxuz0uCwpw03aNNXJ5e"
       },
@@ -5660,7 +5734,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 177333,
       "name": "Ficar Rico Esse Ano",
       "url": "https://open.spotify.com/track/44JWBoBnEGNMC8w95HQ1AR"
@@ -6736,7 +6810,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 132537,
       "name": "Guerra de Ego",
       "url": "https://open.spotify.com/track/6b65ALxPcGEEozmTTjyhpq"
@@ -7788,7 +7862,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 201702,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/0IEVEtKQ4kRgZehxyfUrKS"
@@ -8473,6 +8547,28 @@
     },
     {
       "album": {
+        "name": "Manilha",
+        "url": "https://open.spotify.com/album/7n5tR0WRKwux0NdBOQSZxw"
+      },
+      "artists": [
+        {
+          "name": "Pete Mcee",
+          "url": "https://open.spotify.com/artist/7hYxiVrQD6owMinIaG9QuB"
+        },
+        {
+          "name": "Gyylo",
+          "url": "https://open.spotify.com/artist/0SU90Y0GlSJKkS3zelkgbS"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "Manilha",
+      "url": "https://open.spotify.com/track/28gQLRZiGQH5yT5MCq9EE3"
+    },
+    {
+      "album": {
         "name": "Marcas e Cicatrizes",
         "url": "https://open.spotify.com/album/5vl0K6L48dog6SwpKrqrZx"
       },
@@ -8584,7 +8680,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 140280,
       "name": "MARROCOS",
       "url": "https://open.spotify.com/track/1K0S4JKOvsZ1q89tp2q8es"
@@ -9534,6 +9630,32 @@
       "duration_ms": 186461,
       "name": "NASCI PRA ISSO",
       "url": "https://open.spotify.com/track/4WwJ4xNXqRjNJOXYm38QNa"
+    },
+    {
+      "album": {
+        "name": "Quando os Caminhos Se Confundem",
+        "url": "https://open.spotify.com/album/5kH90GZcz7pzyxpolJj0Us"
+      },
+      "artists": [
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        },
+        {
+          "name": "Franco, The Sir!",
+          "url": "https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU"
+        },
+        {
+          "name": "Teo Guedx",
+          "url": "https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158181,
+      "name": "Neutro",
+      "url": "https://open.spotify.com/track/4BpuG2qO3Aj0IL61WzmNlC"
     },
     {
       "album": {
@@ -11601,6 +11723,32 @@
     },
     {
       "album": {
+        "name": "pivete star",
+        "url": "https://open.spotify.com/album/2M63XqBbTxeqMkSUwr2Z6O"
+      },
+      "artists": [
+        {
+          "name": "yung vegan",
+          "url": "https://open.spotify.com/artist/1syJqMCwFKLRoDT9plGxJV"
+        },
+        {
+          "name": "Jam\u00e9s Ventura",
+          "url": "https://open.spotify.com/artist/40CHfCMucIRnSYydfshohB"
+        },
+        {
+          "name": "Bolin Batidas",
+          "url": "https://open.spotify.com/artist/0N8qBEsNM25AnKi6bMF91j"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196078,
+      "name": "pivete star",
+      "url": "https://open.spotify.com/track/2XC0Uk46kbSPcw3O56jIZa"
+    },
+    {
+      "album": {
         "name": "Nativo",
         "url": "https://open.spotify.com/album/2FGqHsA9CM6A1mPnu53g0k"
       },
@@ -11686,6 +11834,44 @@
       "duration_ms": 160862,
       "name": "Polo Usa",
       "url": "https://open.spotify.com/track/7GIOobAlKojSiQ6ytFlxdU"
+    },
+    {
+      "album": {
+        "name": "por um fio",
+        "url": "https://open.spotify.com/album/3sGPcqYKKIplimFaCEYNu2"
+      },
+      "artists": [
+        {
+          "name": "Killa Bi",
+          "url": "https://open.spotify.com/artist/0fvXYAyHJ26i3CxGo2HSX2"
+        },
+        {
+          "name": "Lis Mc",
+          "url": "https://open.spotify.com/artist/5OfwMhn4XgysSIxSxBvTDE"
+        },
+        {
+          "name": "nabru",
+          "url": "https://open.spotify.com/artist/3vL4zu2elGxz6DPPlOz2s3"
+        },
+        {
+          "name": "pedrvso",
+          "url": "https://open.spotify.com/artist/1dPnN5JbjdsN3E4IyQyiuw"
+        },
+        {
+          "name": "SOMOS",
+          "url": "https://open.spotify.com/artist/4RirWYVQPhtDNNwW5hmhuP"
+        },
+        {
+          "name": "Cravinhos",
+          "url": "https://open.spotify.com/artist/6I2ktHKztVQQSfqrtjEz7a"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "por um fio",
+      "url": "https://open.spotify.com/track/1nNuPXOOafjM2G6mb3rtDu"
     },
     {
       "album": {
@@ -13575,6 +13761,44 @@
     },
     {
       "album": {
+        "name": "Quando os Caminhos Se Confundem",
+        "url": "https://open.spotify.com/album/5kH90GZcz7pzyxpolJj0Us"
+      },
+      "artists": [
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        },
+        {
+          "name": "Self Provoked",
+          "url": "https://open.spotify.com/artist/0cbx0hVFtnEBVGVBExW09X"
+        },
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        },
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        },
+        {
+          "name": "Teo Guedx",
+          "url": "https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M"
+        },
+        {
+          "name": "SENS31",
+          "url": "https://open.spotify.com/artist/2XcFgUzi3UXbxK0AG7mCtp"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277142,
+      "name": "Sangue Latino",
+      "url": "https://open.spotify.com/track/3QQcV1Majkj2JFJK1Kb3Ye"
+    },
+    {
+      "album": {
         "name": "Sangue na Terra",
         "url": "https://open.spotify.com/album/6tH7byIqYb7oaeji0wbiXZ"
       },
@@ -13998,7 +14222,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 186557,
       "name": "SENTIDO DAS LINHAS",
       "url": "https://open.spotify.com/track/3dz4jHFyHCvXGGF5ht9dZX"
@@ -15241,6 +15465,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "De Leve",
+          "url": "https://open.spotify.com/artist/36BZD4FCNMALjIkKSpJABE"
+        },
+        {
+          "name": "Mat\u00e9ria Prima",
+          "url": "https://open.spotify.com/artist/2xi4Hm3GjDdOvxTVQ9Mz2d"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 7",
+      "url": "https://open.spotify.com/track/3vHMSG73aeez3UskO1u9N9"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/51ysxwMH0PQRS180bFxiMx"
       },
@@ -16400,6 +16646,24 @@
       "duration_ms": 176000,
       "name": "Vov\u00f3",
       "url": "https://open.spotify.com/track/18Wjx8QjHXpqPbW07kiMgZ"
+    },
+    {
+      "album": {
+        "name": "CARRANCA",
+        "url": "https://open.spotify.com/album/0cdntdbjR5jgoKaIHSXJuK"
+      },
+      "artists": [
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151520,
+      "name": "V\u00e9nus Noir",
+      "url": "https://open.spotify.com/track/5JBCQMPZWOiPIKYnPIxMxv"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 24413,
+  "num_followers": 24422,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
@@ -423,26 +423,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Outside (Better Days)",
-        "url": "https://open.spotify.com/album/3EeayWYuFnQuR49Euu1gjI"
-      },
-      "artists": [
-        {
-          "name": "MO3",
-          "url": "https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv"
-        },
-        {
-          "name": "OG Bobby Billions",
-          "url": "https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2"
-        }
-      ],
-      "duration_ms": 215495,
-      "name": "Outside (Better Days)",
-      "url": "https://open.spotify.com/track/2AJvoUXSml9cDzQdsk1pEG"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "SKAT (feat. DaBaby)",
         "url": "https://open.spotify.com/album/1Y9B8NqVUn69IhVhe2YMwT"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 231414,
       "name": "SKAT (feat. DaBaby)",
       "url": "https://open.spotify.com/track/33OeHNGJA124QytVD0BeQK"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "Outside (Better Days)",
+        "url": "https://open.spotify.com/album/3EeayWYuFnQuR49Euu1gjI"
+      },
+      "artists": [
+        {
+          "name": "MO3",
+          "url": "https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv"
+        },
+        {
+          "name": "OG Bobby Billions",
+          "url": "https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2"
+        }
+      ],
+      "duration_ms": 215495,
+      "name": "Outside (Better Days)",
+      "url": "https://open.spotify.com/track/2AJvoUXSml9cDzQdsk1pEG"
     },
     {
       "added_at": "2022-10-01 16:17:17",

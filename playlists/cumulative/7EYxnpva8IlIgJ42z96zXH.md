@@ -4,7 +4,7 @@
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more to get summer bod ready!
 
-1,053 songs - 2 day 7 hr 17 min
+1,054 songs - 2 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -944,6 +944,7 @@
 | [Time I Love to Waste \- Kilder Remix](https://open.spotify.com/track/0C9FAwLj5cDKdfxNYuIPvW) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN), [Kilder](https://open.spotify.com/artist/7DvSsGJcVuhweaoQu7nta0) | [Time I Love to Waste \(Kilder Remix\)](https://open.spotify.com/album/0F7nAny2tl0rZorbJfVI87) | 2:57 | 2021-03-26 | 2021-08-20 |
 | [Time to Groove \(feat\. Nonô\)](https://open.spotify.com/track/20b1ZBMGOZjuGvNFncIIP7) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Time to Groove \(feat\. Nonô\)](https://open.spotify.com/album/1ku0mbCfEbi3polUL4hYAk) | 2:26 | 2022-04-22 | 2022-07-01 |
 | [To The Money \(feat\. Flo Milli & 8AE\)](https://open.spotify.com/track/5YSWtx5drmDZHP2weqJtAG) | [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [8AE](https://open.spotify.com/artist/1HX4A36aOWZMFx5eRHKIz1) | [To The Money \(feat\. Flo Milli & 8AE\)](https://open.spotify.com/album/2efMCGuPSpEgLoSPsg5a5e) | 2:54 | 2021-04-03 | 2021-06-11 |
+| [To The Moon](https://open.spotify.com/track/1UqrEdmUZallXzeHpUyAkY) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [To The Moon](https://open.spotify.com/album/3C961iftDuFI3ZeozGtsGN) | 4:28 | 2025-10-09 |  |
 | [Together At Last](https://open.spotify.com/track/3Y9tbwMq2WvxP35j9hiUMb) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [Together At Last](https://open.spotify.com/album/7llcsJsQ1Te5jm8eOp3Z1I) | 3:29 | 2022-05-13 | 2022-06-10 |
 | [TOMA TOMA \(ft\. Nfasis\)](https://open.spotify.com/track/7mKuFtTJtE1pl3MhKv2GU1) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [TOMA TOMA \(ft\. Nfasis\)](https://open.spotify.com/album/4c0LDguP0im6WNGEindyuY) | 1:55 | 2025-06-20 | 2025-09-30 |
 | [TOMMY](https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po) | [WALKER.](https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB) | [TOMMY](https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1) | 3:32 | 2023-12-08 | 2024-03-15 |

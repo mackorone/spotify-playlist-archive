@@ -1,192 +1,980 @@
 {
   "description": "<a href=\"spotify:artist:27LGatz1m8aJ7ZaVVWEphc\">Gui Boratto</a>'s favourite tracks. Updated regularly. Curated by Gui Boratto. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 80155,
+  "num_followers": 80164,
   "original_name": "Gui Boratto's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIdTxzD+uRxSus7gg3P4pod4/ieG",
+  "snapshot_id": "AAAAAI/0fyDgmFXV4uKvTlW5Q9mqhvya",
   "tracks": [
     {
-      "added_at": "2025-10-08 15:19:29",
+      "added_at": "2025-10-09 11:01:38",
       "album": {
-        "name": "The Magic Room",
-        "url": "https://open.spotify.com/album/72qzRRHP6WJ4yIWfS0hKxl"
+        "name": "Love Will Find A Way (feat. House Of EL)",
+        "url": "https://open.spotify.com/album/3NeGqRu4LUAaKmAm0DfjUq"
       },
       "artists": [
         {
-          "name": "Dino Lenny",
-          "url": "https://open.spotify.com/artist/7il6z1RANNDWYlYnIevd4L"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Doorly",
-          "url": "https://open.spotify.com/artist/4uUZsrxHK6peebj1rpawBa"
+          "name": "Gui Boratto",
+          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
         },
         {
-          "name": "Seth Troxler",
-          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
+          "name": "House of EL",
+          "url": "https://open.spotify.com/artist/0UMMEX2H03BK9oleRvjHos"
         }
       ],
-      "duration_ms": 510000,
-      "name": "The Magic Room - Dino Lenny & Seth Troxler Re-Edit",
-      "url": "https://open.spotify.com/track/4piqUSsesUE5ITHTU0MRYK"
+      "duration_ms": 182812,
+      "name": "Love Will Find A Way (feat. House Of EL)",
+      "url": "https://open.spotify.com/track/4jUfLTaMlcwyVSFH5QGm49"
     },
     {
-      "added_at": "2025-10-08 15:19:29",
+      "added_at": "2025-10-09 11:01:38",
       "album": {
-        "name": "Ragysh",
-        "url": "https://open.spotify.com/album/2wZcAcgPpRVw1RyreW8dGW"
+        "name": "Pieces I've Found",
+        "url": "https://open.spotify.com/album/3k3w2yylzyAGnpqWzFVIYy"
       },
       "artists": [
         {
-          "name": "Todd Terje",
-          "url": "https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw"
-        }
-      ],
-      "duration_ms": 500200,
-      "name": "Ragysh",
-      "url": "https://open.spotify.com/track/0dAnQllNjZLuHxCpiVbPCH"
-    },
-    {
-      "added_at": "2025-10-08 15:19:29",
-      "album": {
-        "name": "Hotel Amour",
-        "url": "https://open.spotify.com/album/2SLPxtJzilcx5HsaMPPy78"
-      },
-      "artists": [
-        {
-          "name": "Terranova",
-          "url": "https://open.spotify.com/artist/5ZrGK55yglfGEOvnB2japP"
+          "name": "Barja",
+          "url": "https://open.spotify.com/artist/5uBR08vndaYNR50ZqRWthK"
         },
         {
-          "name": "Tomas H\u00f8ffding",
-          "url": "https://open.spotify.com/artist/3vAZRzjco8xKk2NbT5BQ6A"
+          "name": "Gui Boratto",
+          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
         }
       ],
-      "duration_ms": 437373,
-      "name": "Paris Is For Lovers (My Love) feat. Tomas H\u00f8ffding",
-      "url": "https://open.spotify.com/track/3K8TAJPGF06oDH9fV4YLNN"
+      "duration_ms": 174677,
+      "name": "Pieces I've Found",
+      "url": "https://open.spotify.com/track/18qSjdSh7L9ITHPkovknfs"
     },
     {
-      "added_at": "2025-10-08 15:19:29",
+      "added_at": "2025-10-09 11:01:38",
       "album": {
-        "name": "Midnight Creepers Remixes",
-        "url": "https://open.spotify.com/album/46Dlj3CMrNam6aPWuK9B5z"
+        "name": "C\u00f4co do Macaco",
+        "url": "https://open.spotify.com/album/0IGByGINwXIsML5hhxnM3X"
       },
       "artists": [
         {
-          "name": "Midnight Magic",
-          "url": "https://open.spotify.com/artist/3KuNrap7xPWVJCyBHAE4le"
-        },
-        {
-          "name": "Mano Le Tough",
-          "url": "https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp"
-        }
-      ],
-      "duration_ms": 440909,
-      "name": "Drop Me a Line - Mano Le Tough Remix",
-      "url": "https://open.spotify.com/track/1v1fNoS1h5KGwOopD03JbG"
-    },
-    {
-      "added_at": "2025-10-08 15:19:29",
-      "album": {
-        "name": "One Day We\u2019ll Float EP",
-        "url": "https://open.spotify.com/album/4nblatfLYgHcnaiC8esbUZ"
-      },
-      "artists": [
-        {
-          "name": "Vhyce",
-          "url": "https://open.spotify.com/artist/5rzLwPhUU0Fh8KEM021KHa"
+          "name": "Coppola",
+          "url": "https://open.spotify.com/artist/3ZWMer3TwUiMxSFYqgfurT"
         }
       ],
       "duration_ms": 218709,
-      "name": "Personal Numbness",
-      "url": "https://open.spotify.com/track/6wDLC3uzNPwaTe43lzHBxu"
+      "name": "C\u00f4co do Macaco",
+      "url": "https://open.spotify.com/track/73nQpyonR7ylIvlj80Ub76"
     },
     {
-      "added_at": "2025-10-08 15:19:29",
+      "added_at": "2025-10-09 11:01:38",
       "album": {
-        "name": "The Love Dilemma",
-        "url": "https://open.spotify.com/album/1mZsSZORSRmAjkSBFV8DXD"
+        "name": "Voice Recognition (Gui Boratto Remixes)",
+        "url": "https://open.spotify.com/album/1MKL3SNS6Lk4loQi4EWJms"
       },
       "artists": [
+        {
+          "name": "Ewan Hoo's Army",
+          "url": "https://open.spotify.com/artist/3AVhWhAyaEqL5XNCfWaztB"
+        },
+        {
+          "name": "Dave Seaman",
+          "url": "https://open.spotify.com/artist/3TjRLW97EAU4w6knKVBl73"
+        },
+        {
+          "name": "Quivver",
+          "url": "https://open.spotify.com/artist/1LhfSHiX3eOHTjTLVfhYGD"
+        },
+        {
+          "name": "Gui Boratto",
+          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
+        },
+        {
+          "name": "Leo Wood",
+          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
+        }
+      ],
+      "duration_ms": 336614,
+      "name": "Voice Recognition - Gui Boratto Remix",
+      "url": "https://open.spotify.com/track/4WkhUPQVXd5qOz0JV2VCst"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "One Life Stand",
+        "url": "https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 321496,
+      "name": "One Life Stand",
+      "url": "https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Dense Music",
+        "url": "https://open.spotify.com/album/48ZVJHsoIYeiNhrtjN8Lkp"
+      },
+      "artists": [
+        {
+          "name": "Whirlpool Productions",
+          "url": "https://open.spotify.com/artist/11fVwtMF74ZcvVyfYAkWYI"
+        }
+      ],
+      "duration_ms": 356000,
+      "name": "From Disco To Disco",
+      "url": "https://open.spotify.com/track/4AmULZtflj3SktU5MPB6EK"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Olympic",
+        "url": "https://open.spotify.com/album/2y4r9loI38eOVHJV2TA2TC"
+      },
+      "artists": [
+        {
+          "name": "French 79",
+          "url": "https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e"
+        },
+        {
+          "name": "Kid Francescoli",
+          "url": "https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Lovin' Feeling",
+      "url": "https://open.spotify.com/track/5euXVXIyjCxAs3hQ8QVabG"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Play Me Again",
+        "url": "https://open.spotify.com/album/54vSb9255iZKykjuytWbZh"
+      },
+      "artists": [
+        {
+          "name": "Kid Francescoli",
+          "url": "https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD"
+        },
+        {
+          "name": "Julia Minkin",
+          "url": "https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm"
+        }
+      ],
+      "duration_ms": 390638,
+      "name": "Moon (And It Went Like)",
+      "url": "https://open.spotify.com/track/20HCH8XT2EK1QYe1loAJ8E"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Panorama X-Press",
+        "url": "https://open.spotify.com/album/58SohyalgUv1s6xjbsuq9x"
+      },
+      "artists": [
+        {
+          "name": "Gui Boratto",
+          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
+        }
+      ],
+      "duration_ms": 325198,
+      "name": "Panorama X-Press",
+      "url": "https://open.spotify.com/track/01JhRTReJZFt2qPsp7nUJP"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Mood Variant (The Remixes)",
+        "url": "https://open.spotify.com/album/7mozKcwF1bQhD7zmSuCzvk"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        },
+        {
+          "name": "Ki Pharaoh",
+          "url": "https://open.spotify.com/artist/1vH1XV8ws6GXxksZRbqGis"
+        }
+      ],
+      "duration_ms": 244173,
+      "name": "Red Room - Ki Pharaoh Basement Edit",
+      "url": "https://open.spotify.com/track/51GVoYEJPqlxE2vnZqRVRa"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Clay",
+        "url": "https://open.spotify.com/album/36gtuqDRQifMBJIHEaHUHV"
+      },
+      "artists": [
+        {
+          "name": "Matthew Herbert",
+          "url": "https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp"
+        },
+        {
+          "name": "Herbert",
+          "url": "https://open.spotify.com/artist/6wXFUcaG7779tb1Ok72GBn"
+        },
+        {
+          "name": "Momoko Gill",
+          "url": "https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF"
+        }
+      ],
+      "duration_ms": 169920,
+      "name": "Calm Water",
+      "url": "https://open.spotify.com/track/4GPqRoEO1lszuH8mJaqNAx"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "There's Another Way (Gui Boratto's Rework)",
+        "url": "https://open.spotify.com/album/427Jn6qB5Wc7bB438uwtuS"
+      },
+      "artists": [
+        {
+          "name": "MOTO SOLO",
+          "url": "https://open.spotify.com/artist/0l6NxdphNnd5TJrCEudT97"
+        },
+        {
+          "name": "Gui Boratto",
+          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
+        }
+      ],
+      "duration_ms": 206733,
+      "name": "There's Another Way (Gui Boratto's Rework Radio) - Radio Edit",
+      "url": "https://open.spotify.com/track/2QFCDqfbPV0Eq2Eoc5XDpI"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Madanna",
+        "url": "https://open.spotify.com/album/14evB3117hHYREk5QDgQnr"
+      },
+      "artists": [
+        {
+          "name": "Aninha",
+          "url": "https://open.spotify.com/artist/6dCjFLvBI3cNlTIUWSXRrf"
+        },
+        {
+          "name": "Fab\u00f8",
+          "url": "https://open.spotify.com/artist/6PDdu3G4eK1brXt0gN8f6D"
+        }
+      ],
+      "duration_ms": 337500,
+      "name": "Paris Helltown",
+      "url": "https://open.spotify.com/track/4QIJDdvxSk8qYoCBgmZAbS"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Mind Dimension 2022 (Ben Sterling Remix)",
+        "url": "https://open.spotify.com/album/0Y0ZfAeXS1CBaWTvFCFMd4"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Ben Sterling",
+          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
+        }
+      ],
+      "duration_ms": 330459,
+      "name": "Mind Dimension - Ben Sterling Remix",
+      "url": "https://open.spotify.com/track/0TaDQnUX1RjbCv3liKFqWP"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Paerels III",
+        "url": "https://open.spotify.com/album/06euMMSytYZ2nUcd3Rmysb"
+      },
+      "artists": [
+        {
+          "name": "Erik Luebs",
+          "url": "https://open.spotify.com/artist/6WkOn4fj9anahTPdMPqTNy"
+        }
+      ],
+      "duration_ms": 379757,
+      "name": "Toward Entropy",
+      "url": "https://open.spotify.com/track/6n7RAwicTgbZMf35uny5RA"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Comets",
+        "url": "https://open.spotify.com/album/16Vk5iOI9fCQLecJclCLTn"
+      },
+      "artists": [
+        {
+          "name": "Optometry",
+          "url": "https://open.spotify.com/artist/7jrtCX0BKSn54uZA2bRYB0"
+        },
+        {
+          "name": "John Tejada",
+          "url": "https://open.spotify.com/artist/2JWmMcE8Z0vapxOIiT7PLq"
+        },
+        {
+          "name": "March Adstrum",
+          "url": "https://open.spotify.com/artist/17QXSCKQaFewEbnWkBAy6T"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Comets",
+      "url": "https://open.spotify.com/track/4u2H9qhRGL5lfA5NnalBmG"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Tako Tako",
+        "url": "https://open.spotify.com/album/2JYZyvtVFfB9S2EJKfhYS5"
+      },
+      "artists": [
+        {
+          "name": "Mathew Jonson",
+          "url": "https://open.spotify.com/artist/6PTy8QkZxHr7Thp8SPYE71"
+        }
+      ],
+      "duration_ms": 216200,
+      "name": "Tako Tako",
+      "url": "https://open.spotify.com/track/3kEZ6dT70Btbj6SrtRZvWK"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Lifestyles Of The Laptop Caf\u00e9",
+        "url": "https://open.spotify.com/album/2XvYJISnuFJeAZFEqx1hhJ"
+      },
+      "artists": [
+        {
+          "name": "The Other People Place",
+          "url": "https://open.spotify.com/artist/3GLOOlJDdTCd4NRrNb5Kg3"
+        }
+      ],
+      "duration_ms": 329293,
+      "name": "Lifestyles Of The Casual",
+      "url": "https://open.spotify.com/track/5xZZUM6VMzGsoMfkAy6Oya"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Saw You for the First Time",
+        "url": "https://open.spotify.com/album/5OTN5IJFRgdjHsr4iaVGFo"
+      },
+      "artists": [
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "Claudi",
+      "url": "https://open.spotify.com/track/3g8DDnbpzFbcYdZEOzhhdF"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Tundra",
+        "url": "https://open.spotify.com/album/23OJnqEAd4JZ1dOtLbyIXr"
+      },
+      "artists": [
+        {
+          "name": "Dorisburg",
+          "url": "https://open.spotify.com/artist/0OZ1LUrTGxwx0dr71DL7D6"
+        }
+      ],
+      "duration_ms": 517664,
+      "name": "Tundra",
+      "url": "https://open.spotify.com/track/1UgOnzhPO9rF0yL6MVvDvn"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Rigormortiz",
+        "url": "https://open.spotify.com/album/3v68VgJ8ZomiO8hqiXkt16"
+      },
+      "artists": [
+        {
+          "name": "Yungruzt",
+          "url": "https://open.spotify.com/artist/3GR1QMA6ZB4yXPVymUqBrS"
+        }
+      ],
+      "duration_ms": 391720,
+      "name": "Rigormortiz",
+      "url": "https://open.spotify.com/track/7A70vXpEnca9jxBThGakKT"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "I'm In Love With A German Film Star (Gui Boratto Mix) (Edit)",
+        "url": "https://open.spotify.com/album/4jyEo8Xg89IrvCUpCEoz59"
+      },
+      "artists": [
+        {
+          "name": "Sam Taylor-Wood Produced By Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/52Eu1x9cG4Zm1NZZImr7Br"
+        },
+        {
+          "name": "Gui Boratto",
+          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
+        }
+      ],
+      "duration_ms": 244157,
+      "name": "I'm In Love With A German Film Star (Gui Boratto Mix) - Edit",
+      "url": "https://open.spotify.com/track/1PjzPGZ7SE4ifCKDaZub97"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/7vg6C4k2yd8E0bOPCoEVTg"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        }
+      ],
+      "duration_ms": 324066,
+      "name": "Disco 2000 Selector",
+      "url": "https://open.spotify.com/track/1Of0GlA4i7mTIUpzItNZmr"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Trust Me",
+        "url": "https://open.spotify.com/album/4JPZPJSkRMONSb5Y1aMc9j"
+      },
+      "artists": [
+        {
+          "name": "Coppola",
+          "url": "https://open.spotify.com/artist/3ZWMer3TwUiMxSFYqgfurT"
+        },
+        {
+          "name": "2STRANGE",
+          "url": "https://open.spotify.com/artist/7mnsTGmApJRfHFs1ymmBIi"
+        }
+      ],
+      "duration_ms": 198508,
+      "name": "Trust Me",
+      "url": "https://open.spotify.com/track/7MkwoDv07H8iIXe4xYRsyr"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
+      },
+      "artists": [
+        {
+          "name": "Butch",
+          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
+        },
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        }
+      ],
+      "duration_ms": 187286,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Suddenly Funk",
+        "url": "https://open.spotify.com/album/7qsuDziu8Cu6z3WPOtkS2U"
+      },
+      "artists": [
+        {
+          "name": "Renato Cohen",
+          "url": "https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD"
+        }
+      ],
+      "duration_ms": 390410,
+      "name": "Suddenly Funk - Extended Mix",
+      "url": "https://open.spotify.com/track/6NmMSF6I39txtlrWfHdZAo"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Dope Dance",
+        "url": "https://open.spotify.com/album/7ARyH7O9xLfYm2CT0yWc7k"
+      },
+      "artists": [
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        },
+        {
+          "name": "Nandu",
+          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
+        },
+        {
+          "name": "Radeckt",
+          "url": "https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL"
+        }
+      ],
+      "duration_ms": 217280,
+      "name": "Dope Dance",
+      "url": "https://open.spotify.com/track/3wLOypLdLw1SGdbEUmivEj"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Lifestyles Of The Laptop Caf\u00e9",
+        "url": "https://open.spotify.com/album/2XvYJISnuFJeAZFEqx1hhJ"
+      },
+      "artists": [
+        {
+          "name": "The Other People Place",
+          "url": "https://open.spotify.com/artist/3GLOOlJDdTCd4NRrNb5Kg3"
+        }
+      ],
+      "duration_ms": 466413,
+      "name": "Let Me Be Me",
+      "url": "https://open.spotify.com/track/55s7B24EXzo2oklyJcVQID"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Rosewood",
+        "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 242773,
+      "name": "Rosewood",
+      "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Hit the Ground (20 Years Systematic)",
+        "url": "https://open.spotify.com/album/5Mza60UHnJ71RfkjXMdRfe"
+      },
+      "artists": [
+        {
+          "name": "Gui Boratto",
+          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Hit the Ground - Edit",
+      "url": "https://open.spotify.com/track/0Q9bsOkkAq5Jr6SQlPKb1X"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Angled",
+        "url": "https://open.spotify.com/album/1LVtvvG7ZvGINcc2QCnkbN"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brasil",
+          "url": "https://open.spotify.com/artist/14bYN418r2dFExkfaOvjKg"
+        }
+      ],
+      "duration_ms": 322379,
+      "name": "Angled",
+      "url": "https://open.spotify.com/track/34dmMggKn0zM9hgo3tSYSY"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/1oyF52n5Za9DFmSC2t0KMN"
+      },
+      "artists": [
+        {
+          "name": "Stereoclip",
+          "url": "https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL"
+        }
+      ],
+      "duration_ms": 234300,
+      "name": "Sunset Drive",
+      "url": "https://open.spotify.com/track/7zybSU9tFO9HNlwmGF7stc"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Home Tonight",
+        "url": "https://open.spotify.com/album/4E3B3fOkXUHQX0rJY4IGpS"
+      },
+      "artists": [
+        {
+          "name": "Lindstr\u00f8m",
+          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
+        },
+        {
+          "name": "Grace Hall",
+          "url": "https://open.spotify.com/artist/3k8eudFifqO12gm5rn4PNQ"
+        }
+      ],
+      "duration_ms": 553239,
+      "name": "Home Tonight - Extended Version",
+      "url": "https://open.spotify.com/track/7pdftgvGvCbBctYxPWZgf1"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Through The Green",
+        "url": "https://open.spotify.com/album/6Lh8aKCWg0PBZJQRBzRIaZ"
+      },
+      "artists": [
+        {
+          "name": "Tiger & Woods",
+          "url": "https://open.spotify.com/artist/0AEi1DK5ehyvkZzOUlqEVz"
+        }
+      ],
+      "duration_ms": 489056,
+      "name": "Gin Nation - Original",
+      "url": "https://open.spotify.com/track/4cFvEaXTdtwfijW9ocyvcO"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Energetic (Remixes), Pt. 2",
+        "url": "https://open.spotify.com/album/493zJ8N1NNR0g6Vk5vtHNe"
+      },
+      "artists": [
+        {
+          "name": "Mathias Kaden",
+          "url": "https://open.spotify.com/artist/7gURutUeEed1hWmMVq8E0S"
+        },
+        {
+          "name": "Zo\u00eb Xenia",
+          "url": "https://open.spotify.com/artist/5HrUbYq85HT5B1dtYrh3fg"
+        },
+        {
+          "name": "Pulshar",
+          "url": "https://open.spotify.com/artist/5mygQWZRAK5vOhxZMiq6yA"
+        }
+      ],
+      "duration_ms": 379678,
+      "name": "Soulmakers - Pulshar Remix",
+      "url": "https://open.spotify.com/track/2Z8opQRSukV6Wc7IdtVoZj"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "That Record With Friends On It",
+        "url": "https://open.spotify.com/album/7BS3DH6pneZw3VwuX1FJuo"
+      },
+      "artists": [
+        {
+          "name": "Tech Support",
+          "url": "https://open.spotify.com/artist/1q9DdIVexjOaCYVpMJnOmq"
+        }
+      ],
+      "duration_ms": 372741,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/1zrD9siDiFNYPJ9wQNYhU8"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Moon II Remixes Pt. I",
+        "url": "https://open.spotify.com/album/3E7mBvJ8YEQIdjPnkbUn9P"
+      },
+      "artists": [
+        {
+          "name": "Iron Curtis",
+          "url": "https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH"
+        },
+        {
+          "name": "Johannes Albert",
+          "url": "https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt"
+        },
+        {
+          "name": "Lisa Toh",
+          "url": "https://open.spotify.com/artist/17oFlDwJ5mU3pfbUxArTCO"
+        },
         {
           "name": "Benjamin Fr\u00f6hlich",
           "url": "https://open.spotify.com/artist/3FT44aaqR7vqBzvXCZPjn1"
         }
       ],
-      "duration_ms": 223537,
-      "name": "Love Loop",
-      "url": "https://open.spotify.com/track/7uT9f5yvdVTgxOYUnysHLu"
+      "duration_ms": 284406,
+      "name": "Nektar - Benjamin Fr\u00f6hlich Remix",
+      "url": "https://open.spotify.com/track/0kjiVRFyQDHenoHo4Skm7r"
     },
     {
-      "added_at": "2025-10-08 15:19:29",
+      "added_at": "2025-10-09 11:01:38",
       "album": {
-        "name": "The Glitz Pt. Deux Remix Edition",
-        "url": "https://open.spotify.com/album/3CpMMRMXfaJNwiUtMK76ee"
+        "name": "The Burgenland Dubs Reworked",
+        "url": "https://open.spotify.com/album/16YD66sAzSBIFqHUf4Xg7e"
+      },
+      "artists": [
+        {
+          "name": "Ian Simmonds",
+          "url": "https://open.spotify.com/artist/3iRl4yxKVknVOyyFaBTOQn"
+        }
+      ],
+      "duration_ms": 407710,
+      "name": "The Esel - Dave Aju Rmx",
+      "url": "https://open.spotify.com/track/754ePCk9XvNrQIXuESDnAR"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "What You Like (feat. yun\u00e8 pinku)",
+        "url": "https://open.spotify.com/album/5QOziDmjbHnDqZTUgajTub"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "What You Like",
+      "url": "https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "In The Crowd",
+        "url": "https://open.spotify.com/album/0cADXU271uQ0uezv0etR7N"
+      },
+      "artists": [
+        {
+          "name": "Fka Mash",
+          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
+        },
+        {
+          "name": "Biishop",
+          "url": "https://open.spotify.com/artist/1vaoL5LaD2f0jG2UlrY5yF"
+        }
+      ],
+      "duration_ms": 259640,
+      "name": "In The Crowd",
+      "url": "https://open.spotify.com/track/06S1wlkIltEgHHZoY0Dl9z"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Sophisticated",
+        "url": "https://open.spotify.com/album/78fHQzjlP6ODm74vxrxA0B"
+      },
+      "artists": [
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        },
+        {
+          "name": "Coppola",
+          "url": "https://open.spotify.com/artist/3ZWMer3TwUiMxSFYqgfurT"
+        },
+        {
+          "name": "2STRANGE",
+          "url": "https://open.spotify.com/artist/7mnsTGmApJRfHFs1ymmBIi"
+        }
+      ],
+      "duration_ms": 207842,
+      "name": "Sophisticated",
+      "url": "https://open.spotify.com/track/383wX8zpQKBIWsXCmtrYFd"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Light Places",
+        "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "DJ Tennis",
+          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
+        },
+        {
+          "name": "Joseph Ashworth",
+          "url": "https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB"
+        }
+      ],
+      "duration_ms": 230015,
+      "name": "All In A Dream",
+      "url": "https://open.spotify.com/track/03jQHo0HFj5onzoexiaMPI"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Outta Here",
+        "url": "https://open.spotify.com/album/5rEo4lfkEQabpJ1WpA6Drf"
+      },
+      "artists": [
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+        }
+      ],
+      "duration_ms": 252245,
+      "name": "Swimswimswim",
+      "url": "https://open.spotify.com/track/37UcMho3b1s8HcS6dG9N2x"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Devin Dazzle & The Neon Fever",
+        "url": "https://open.spotify.com/album/0ZjTr5xpR3qGdDL5HcOHfy"
       },
       "artists": [
         {
           "name": "Felix Da Housecat",
           "url": "https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "Ready 2 Wear",
+      "url": "https://open.spotify.com/track/5MM1szb8iuVTaobe1b2i3D"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "You Don't Know Me",
+        "url": "https://open.spotify.com/album/4fbfSC8PRmDXYHQrol9IEZ"
+      },
+      "artists": [
+        {
+          "name": "Closer Musik",
+          "url": "https://open.spotify.com/artist/2j7JwncWKK8w0Lfb2xjKdy"
+        }
+      ],
+      "duration_ms": 307709,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/6d5fwsXEP3U0h5qD1JizGG"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "DJ-Kicks (Maceo Plex) [DJ Mix]",
+        "url": "https://open.spotify.com/album/2IKQbqaZhhEnTI6ha9udxP"
+      },
+      "artists": [
+        {
+          "name": "Monsters From ID",
+          "url": "https://open.spotify.com/artist/0Xxn1O431zevNZYg6X2ZoA"
+        }
+      ],
+      "duration_ms": 257032,
+      "name": "Spatial Lobe - Mixed",
+      "url": "https://open.spotify.com/track/57QEqFOJKkr8fGkYG1XkPH"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Suzuki",
+        "url": "https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP"
+      },
+      "artists": [
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+        }
+      ],
+      "duration_ms": 325160,
+      "name": "Orozco",
+      "url": "https://open.spotify.com/track/1dzEjFQAJBmewLjPzD8B3t"
+    },
+    {
+      "added_at": "2025-10-09 11:01:38",
+      "album": {
+        "name": "Monde R\u00e9el",
+        "url": "https://open.spotify.com/album/2SnKgyqOhDjZX6ULoq2lF0"
+      },
+      "artists": [
+        {
+          "name": "Vhyce",
+          "url": "https://open.spotify.com/artist/5rzLwPhUU0Fh8KEM021KHa"
         },
         {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+          "name": "Catz 'n Dogz",
+          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
         }
       ],
-      "duration_ms": 432177,
-      "name": "What Does it Feel Like - Royksopp Return To The Sun Remix",
-      "url": "https://open.spotify.com/track/2AyhfcxvSkDUHWN6CVIkC4"
+      "duration_ms": 220161,
+      "name": "Monde R\u00e9el - Catz 'n Dogz Pride Mix",
+      "url": "https://open.spotify.com/track/79LRebOGsw2wyZG9toBTeO"
     },
     {
-      "added_at": "2025-10-08 15:19:29",
+      "added_at": "2025-10-09 11:01:38",
       "album": {
-        "name": "DJ-Kicks (Motor City Drum Ensemble) [DJ Mix]",
-        "url": "https://open.spotify.com/album/2Z0yypS9AyYAbuxzeOAMhx"
+        "name": "Sounds Of Blue (Gui Boratto Remix)",
+        "url": "https://open.spotify.com/album/7KXjPDhqYbbXNPUGKdlpAU"
       },
       "artists": [
         {
-          "name": "Motor City Drum Ensemble",
-          "url": "https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf"
+          "name": "Morcheeba",
+          "url": "https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd"
+        },
+        {
+          "name": "Gui Boratto",
+          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
         }
       ],
-      "duration_ms": 356060,
-      "name": "L.O.V.E. (DJ-Kicks) - Extended Version",
-      "url": "https://open.spotify.com/track/4mtk4SKiFFZYv1hPeugwhT"
+      "duration_ms": 393264,
+      "name": "Sounds Of Blue (Gui Boratto Remix)",
+      "url": "https://open.spotify.com/track/5UvMXeQKAFPguKBkTYlzj0"
     },
     {
-      "added_at": "2025-10-08 15:19:29",
+      "added_at": "2025-10-09 11:01:38",
       "album": {
-        "name": "Don't Turn It Off",
-        "url": "https://open.spotify.com/album/7yxt4FYWy5C6imxhMr1d3o"
+        "name": "Rita Lee & Roberto \u2013 Classix Remix Vol. l",
+        "url": "https://open.spotify.com/album/1dmsWqBXFAODlZHUyDCFZm"
       },
       "artists": [
         {
-          "name": "40 Thieves",
-          "url": "https://open.spotify.com/artist/1MLdyxgahy0T5ZdTpe4Jnc"
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        },
+        {
+          "name": "Roberto De Carvalho",
+          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
+        },
+        {
+          "name": "Gui Boratto",
+          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
         }
       ],
-      "duration_ms": 496200,
-      "name": "Huffbochent\u00e9",
-      "url": "https://open.spotify.com/track/1p6KusSh4W9wgm51q3PHnN"
+      "duration_ms": 499865,
+      "name": "Mutante - Gui Boratto Rework",
+      "url": "https://open.spotify.com/track/6pfGxlp0yBwaydQft6qvCr"
     },
     {
-      "added_at": "2025-10-08 15:19:29",
+      "added_at": "2025-10-09 11:01:38",
       "album": {
-        "name": "Our Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1g5ER6PJdZWLKUZodKGi9X"
+        "name": "Anything in Return",
+        "url": "https://open.spotify.com/album/1WiKAuQmbYIxDv2UzMwrBq"
       },
       "artists": [
         {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
         }
       ],
-      "duration_ms": 402099,
-      "name": "Your Love Will Set You Free - c2's Set U Free RMX",
-      "url": "https://open.spotify.com/track/2i57pciO4zHEXGkDlNSVjf"
+      "duration_ms": 253119,
+      "name": "Rose Quartz",
+      "url": "https://open.spotify.com/track/4zhQpcdgO2OFUMRzcgSJu1"
     }
   ],
   "unique_name": "Gui Boratto's track IDs",

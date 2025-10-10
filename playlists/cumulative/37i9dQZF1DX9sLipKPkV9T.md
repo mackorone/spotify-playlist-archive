@@ -4,7 +4,7 @@
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: אגם בוחבוט
 
-458 songs - 1 day 0 hr 5 min
+459 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [הדלת הפתוחה](https://open.spotify.com/track/6ZrFqIxeb5pGECv3Dgl8Rp) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [הדלת הפתוחה](https://open.spotify.com/album/73nXR3AC7KXy4kJae8zc4Y) | 2:41 | 2025-02-27 | 2025-03-21 |
 | [הותיר אחריו חברה](https://open.spotify.com/track/2G8zom5ZWoMGGVwWTPpN2V) | [Miri Mesika](https://open.spotify.com/artist/0GmwRPHVAU8zOdTOujIDUa) | [הותיר אחריו חברה](https://open.spotify.com/album/6voUE5tioKUHVfEe0TV0ax) | 3:38 | 2024-08-15 | 2024-09-13 |
 | [החומר הכחול](https://open.spotify.com/track/7dMyM3DhvQwrRnZ48C9iQF) | [Kochevet Al](https://open.spotify.com/artist/0EoyHTFM5aZdVoeP0O4PjC) | [החומר הכחול](https://open.spotify.com/album/3EmbyxWkGuC9tcTRTGGJzL) | 3:23 | 2024-09-26 | 2024-11-08 |
-| [החמוד השמן](https://open.spotify.com/track/6snjcGwIQghjr8CCB5yX0S) | [אלמוג קריאף](https://open.spotify.com/artist/2Datlw9Ki7PzyOUx4xpxd8) | [החמוד השמן](https://open.spotify.com/album/2q7koVVoj1GPJL1nVaMQGg) | 3:15 | 2025-07-10 |  |
+| [החמוד השמן](https://open.spotify.com/track/6snjcGwIQghjr8CCB5yX0S) | [אלמוג קריאף](https://open.spotify.com/artist/2Datlw9Ki7PzyOUx4xpxd8) | [החמוד השמן](https://open.spotify.com/album/2q7koVVoj1GPJL1nVaMQGg) | 3:15 | 2025-07-10 | 2025-10-10 |
 | [הטוב הרע ועודיה](https://open.spotify.com/track/5OfxLzOuLlkfnzLQGPpVeQ) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA), [E\-Z](https://open.spotify.com/artist/2YHuWGXNWLmpBTKo1rQ3me), [ליעד מאיר](https://open.spotify.com/artist/0pv7p5CElqhjhzyPD4eXpe) | [הטוב הרע ועודיה](https://open.spotify.com/album/5kqDGzLWmnFuFoYkENRyKL) | 3:02 | 2024-09-12 | 2025-01-31 |
 | [היא הזיזה](https://open.spotify.com/track/42bQ0XKeuyiUjkOjQUanBr) | [שגב](https://open.spotify.com/artist/7mCLcLNpZqIX9z7Tyt0vjC), [ערן יוסף](https://open.spotify.com/artist/1FMTbixqfYNircymRohUZR), [עידו בי](https://open.spotify.com/artist/1obWO7PfWL5n6oyqB984OQ) | [היא הזיזה](https://open.spotify.com/album/7Kfk9qUjzCUqWA2b458xtB) | 2:41 | 2025-02-20 | 2025-05-09 |
 | [היה נחמד](https://open.spotify.com/track/2dqnv5Z2g28hlbF06lWlOO) | [Yuval Gold](https://open.spotify.com/artist/6zc2lm9JeYFjjFE8VEGjlt) | [היה נחמד](https://open.spotify.com/album/76PXKPs9k76fqisSTfydac) | 3:19 | 2025-02-06 | 2025-07-04 |
@@ -438,6 +438,7 @@
 | [רשימת קניות](https://open.spotify.com/track/5AjrNeUIzRkWzMz5hgujD2) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe), [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [רשימת קניות](https://open.spotify.com/album/0Ib14azeY0eTF80dpEqqIk) | 2:34 | 2025-03-27 | 2025-07-11 |
 | [שאו שערים](https://open.spotify.com/track/3Es4JHDDGWAjzdhFzl8HO8) | [בניה ברבי](https://open.spotify.com/artist/0WjQnf1rQ0tY84gGgjrQQ9), [צמאה](https://open.spotify.com/artist/6hZQpZhZfZJuyAVkPZ1W7n) | [שאו שערים](https://open.spotify.com/album/0ZBmFWjGIeRkgsSKyynpLV) | 3:48 | 2025-09-18 |  |
 | [שאט איתי](https://open.spotify.com/track/0NPMCdW6Klt801vlmXytps) | [ערן יוסף](https://open.spotify.com/artist/1FMTbixqfYNircymRohUZR), [שגב](https://open.spotify.com/artist/7mCLcLNpZqIX9z7Tyt0vjC), [רון פרטוק](https://open.spotify.com/artist/7HLBKUM1ujPJx1TcsF3i5l) | [שאט איתי](https://open.spotify.com/album/1ecLSCwLxzogE7QN0gr27o) | 2:28 | 2025-07-24 |  |
+| [שוב הגיע סתיו](https://open.spotify.com/track/6QaFA2Sn7h5uGQcR7u6ylh) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Rotem Shafran](https://open.spotify.com/artist/20NIZyW3khoiUoTuBtK8Hi), [הלהקות הצבאיות](https://open.spotify.com/artist/4rSGpKNO4s1iBN4yPMaVj9) | [שוב הגיע סתיו](https://open.spotify.com/album/6tyKy0Kqq7ERTIE2Cc0vgI) | 3:04 | 2025-10-09 |  |
 | [שווארמה ביץ׳](https://open.spotify.com/track/3C3eSyFbaeP3WyIWRZgjkM) | [Teapacks](https://open.spotify.com/artist/1PliqAiazZ7fUWok2vg2Ia) | [שווארמה ביץ׳](https://open.spotify.com/album/4KFfO7OnaeMEbGbqoOOMpK) | 3:18 | 2024-09-20 | 2024-10-04 |
 | [שורשים/כנפיים](https://open.spotify.com/track/6HFjVtCs6s1n67psHjHTWj) | [Guy & Yahel](https://open.spotify.com/artist/6W1YDSxykCcYNvuViqUlBv) | [שורשים/כנפיים](https://open.spotify.com/album/7vRMKYqI3ZACjexLlRVkC3) | 3:04 | 2025-09-11 |  |
 | [שיהיה לך טוב](https://open.spotify.com/track/6Uk0HOyZ3MVw0Mg55Gvxj8) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [שיהיה לך טוב](https://open.spotify.com/album/0XWaaK1BCM8XALiyio8vQM) | 3:04 | 2024-09-05 | 2025-01-24 |

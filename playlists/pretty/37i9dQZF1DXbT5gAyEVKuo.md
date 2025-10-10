@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Common Hymnal
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,631 likes - 75 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,665 likes - 75 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 30 | [Never Again \- Live](https://open.spotify.com/track/0avSfabWivCociv7l1vKRM) | [Anthony Kani](https://open.spotify.com/artist/7q7gcqRoGAPXojRY9EFJAO), [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Never Again \(Live\)](https://open.spotify.com/album/2YUIEDZNAge8KlCfIC8oam) | 11:04 |
 | 31 | [Kid Again \- Live](https://open.spotify.com/track/1WyD5o3WVDlAhzAPFKgczc) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3) | [Kid Again \(Live\)](https://open.spotify.com/album/2qBkpQX29A5SOboW73izN7) | 7:26 |
 | 32 | [Take My Life \- Live](https://open.spotify.com/track/6Xbj9AtRjYPcozeSDFVF2z) | [Micah Stampley](https://open.spotify.com/artist/32HUki1MDatCzJlahnhjqK) | [The Songbook Of Micah \(Live\)](https://open.spotify.com/album/1H02658dewlx1vuL4MmGQz) | 6:06 |
-| 33 | [Greater](https://open.spotify.com/track/3TOHI2JXig0qnc1En5nvTI) | [Pompi](https://open.spotify.com/artist/4tl382ANaxAOVfjGysbiK8), [VOH](https://open.spotify.com/artist/0OmA11d6wVcqYWweVxXlJV) | [Greater](https://open.spotify.com/album/277xzl8jSqsZ9SQBXDG31e) | 6:02 |
+| 33 | [Greater](https://open.spotify.com/track/3TOHI2JXig0qnc1En5nvTI) | [Pompi](https://open.spotify.com/artist/1Rkz7wbIgGz8wBCN8TsfKU), [VOH](https://open.spotify.com/artist/0OmA11d6wVcqYWweVxXlJV) | [Greater](https://open.spotify.com/album/277xzl8jSqsZ9SQBXDG31e) | 6:02 |
 | 34 | [God Of War \(feat\. ELEVATION RHYTHM\)](https://open.spotify.com/track/5bHwjz8ENwXYFSmvsj9yzN) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH), [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [God Of War \(feat\. ELEVATION RHYTHM\)](https://open.spotify.com/album/38Vp9teo1FLqOReM9NcdNf) | 6:01 |
 | 35 | [That's My King](https://open.spotify.com/track/6YoCr1PHjCNCniM5iJivoh) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [That's My King](https://open.spotify.com/album/2hNiu7tTe7qv2PrB97Umvi) | 4:10 |
 | 36 | [Calm](https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Calm](https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw) | 3:15 |

@@ -1,12 +1,12 @@
 {
   "description": "Music from Gunna, Offset and Young Thug. ",
-  "num_followers": 15858682,
+  "num_followers": 15858667,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALL3aOm2Z6y3qHgFv45uWg38wNUF",
+  "snapshot_id": "AAAAAFV+VEBk0n6pd2UByU3UgcdUHfCH",
   "tracks": [
     {
       "added_at": "2025-10-03 19:13:39",
@@ -175,6 +175,38 @@
       "duration_ms": 184320,
       "name": "Different Species (feat. Gunna)",
       "url": "https://open.spotify.com/track/7H5Bv8j9chJ4CWTuoXF4EK"
+    },
+    {
+      "added_at": "2025-10-09 04:00:09",
+      "album": {
+        "name": "Trill",
+        "url": "https://open.spotify.com/album/2MRqLKlTAsNCYgWvZE9vgA"
+      },
+      "artists": [
+        {
+          "name": "Bun B",
+          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Pimp C",
+          "url": "https://open.spotify.com/artist/7v9bFXCdSMA2o3gS4nvp0F"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "name": "Z-Ro",
+          "url": "https://open.spotify.com/artist/6MrdwyCIKbpXmTKQBlG3uq"
+        }
+      ],
+      "duration_ms": 233840,
+      "name": "Get Throwed",
+      "url": "https://open.spotify.com/track/5cgEqRvybRPidNG7I31mdn"
     },
     {
       "added_at": "2025-10-03 19:13:39",

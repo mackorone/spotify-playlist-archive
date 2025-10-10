@@ -2,9 +2,9 @@
 
 ### [mood\. ](https://open.spotify.com/playlist/37i9dQZF1DWYtDSKIiDhua)
 
-> The R&B and good vibe tracks for your current mood\. Cover: Thee Marloes
+> The R&B and good vibe tracks for your current mood\. Cover: Khalid
 
-1,400 songs - 3 day 2 hr 45 min
+1,405 songs - 3 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -807,6 +807,7 @@
 | [My Soles Worn Out](https://open.spotify.com/track/6gMGYMp9S0sjNoCoFy3nsJ) | [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH) | [My Soles Worn Out](https://open.spotify.com/album/3LC5izvPoH4ZpQo2K05u6r) | 3:27 | 2023-06-15 | 2023-06-23 |
 | [My World](https://open.spotify.com/track/4Jc7Ijwrk9vpQza9wy5eKR) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [HAVEN](https://open.spotify.com/album/2KTbD8VsM0CsyunwTvofAC) | 3:34 | 2025-02-13 | 2025-06-07 |
 | [Mystery ft\. PJ Morton](https://open.spotify.com/track/638o7Aaf8sENHW1febUFZE) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Mystery ft\. PJ Morton](https://open.spotify.com/album/4UEbK9a5Q9Robib0y0kzBF) | 3:14 | 2024-10-24 | 2024-11-01 |
+| [nah](https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [](https://open.spotify.com/album/null) | 2:43 | 2025-10-09 |  |
 | [NANIMONO](https://open.spotify.com/track/71piqHMTaaVbYWEWuaCk32) | [ISAFAT](https://open.spotify.com/artist/33wEh0YSqRNAP4PZrH0zkt) | [NANIMONO](https://open.spotify.com/album/3p1A4cDKrymxq8rThTl6Vz) | 3:38 | 2023-08-10 | 2023-08-18 |
 | [Naughty](https://open.spotify.com/track/64UxpSQSCPXgNjkmVXA8oD) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Naughty](https://open.spotify.com/album/1U5o6AzFRMRrFQG6AtLwx2) | 2:45 | 2023-05-18 | 2023-06-09 |
 | [Need U To Need Me](https://open.spotify.com/track/7naZGbc2BHQC4m3pM5IbJ1) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Need U To Need Me](https://open.spotify.com/album/2AUG4FkivRXmWKyH9pf7yE) | 2:47 | 2025-03-06 | 2025-04-25 |
@@ -959,6 +960,7 @@
 | [R e s e n t m e n t](https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e s e n t m e n t](https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi) | 3:44 | 2023-07-07 | 2023-07-21 |
 | [R&B ME](https://open.spotify.com/track/4a3IJKPfJLG8JulXasAKU5) | [JUN\. K](https://open.spotify.com/artist/4m69UKabjuuaoayREZud9h), [Changbin of Stray Kids](https://open.spotify.com/artist/1Ocr2yc1gR3a2a16yqNqal) | [Dear my muse](https://open.spotify.com/album/6w2g6hQzeb5OBJmpIip5ir) | 2:38 | 2025-09-04 |  |
 | [Radio \(Dum\-Dum\)](https://open.spotify.com/track/0mXXjVVAhaasNXga2HMgJK) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Radio \(Dum\-Dum\)](https://open.spotify.com/album/1jrJTnOMuLs5v0qTDTc0kR) | 2:32 | 2025-03-20 | 2025-08-09 |
+| [Rain](https://open.spotify.com/track/57uwNYV0GcM6ZXRSgqrZxc) | [229](https://open.spotify.com/artist/5SVcLUjUDGoJQQmzBbYuVq), [Haneri](https://open.spotify.com/artist/3lwPzq3sT3tucaO1F6sDw7), [B.LEO](https://open.spotify.com/artist/7xSziEKgpFtmY9a2S18nxL) | [Rain](https://open.spotify.com/album/13wqBqjrZeaXpgwCQLoX0j) | 2:54 | 2025-10-09 |  |
 | [Rain \- Remix](https://open.spotify.com/track/5VDUSEit7q2Lx4Uwj9rkKH) | [Daju](https://open.spotify.com/artist/4znXFLA1TOhbTKrgZViWev), [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Rain \(Remix\)](https://open.spotify.com/album/1UTT030hK9ncLHTIk2QqlV) | 2:50 | 2025-05-01 | 2025-08-30 |
 | [Rain In Manhattan](https://open.spotify.com/track/6RA4Lkqah33nNfNadjuPdW) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD), [Umar Sirhan](https://open.spotify.com/artist/1aBGLr4Mt61I8hhejBgNnk) | [Rain In Manhattan](https://open.spotify.com/album/0I0iYhOJcJEn2VhupbjC8R) | 4:29 | 2024-05-24 | 2024-08-09 |
 | [Rapid](https://open.spotify.com/track/3LJ2YTtizpuTOIscqZMtPR) | [Krysta Joy](https://open.spotify.com/artist/4VXfwnB0P19PoJq9gRYcLS) | [On My Way!](https://open.spotify.com/album/57g33CDvt5L0wG48v2D6IM) | 3:21 | 2024-10-24 | 2024-11-01 |
@@ -1064,6 +1066,7 @@
 | [Sights](https://open.spotify.com/track/2UvMH3V2MRzke8Gp4F5WnE) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv), [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [Sights](https://open.spotify.com/album/68aaWS6579noGSQbCC0LuF) | 2:25 | 2023-08-10 | 2024-03-16 |
 | [Silver Platter \(From Barbie The Album\)](https://open.spotify.com/track/7ru8nP5fLduJ94O54K4Uhl) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Silver Platter \(From Barbie The Album\)](https://open.spotify.com/album/79RZZV5Z6Y3Is9716GwJOn) | 2:45 | 2023-07-20 | 2023-09-15 |
 | [simple crush](https://open.spotify.com/track/4mHbjuTUtxENCmpDIVYESj) | [gels](https://open.spotify.com/artist/64A8LUUbYeqJBw4rv0OTxf) | [simple crush](https://open.spotify.com/album/6xvk6rcDZHjwsoVW22SxAM) | 3:11 | 2025-08-29 |  |
+| [Simple Things](https://open.spotify.com/track/1J3tvOCgipXOLEXQb21fbP) | [Luh Wvn](https://open.spotify.com/artist/67mqFjMANy9TR2ZDXfTIYn) | [Simple Things](https://open.spotify.com/album/3fvZayg4WSBcFQLaER32R8) | 3:08 | 2025-10-09 |  |
 | [Since I Have A Lover](https://open.spotify.com/track/1qtwebmDBKPQEggSKGoSfy) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/6rnB57BMxdU6Z2TNExuPh7) | 4:42 | 2023-03-03 | 2023-03-18 |
 | [Sippin' Sake](https://open.spotify.com/track/7eqMEFjs74SplRyDEAKcRs) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7) | [Empower.Embrace](https://open.spotify.com/album/5wvp0neyT2TQ88DNwSXNUt) | 3:25 | 2025-02-06 | 2025-02-14 |
 | [Siren's Call](https://open.spotify.com/track/0NDaoCMGgit419brBP2W1Z) | [oliverjames](https://open.spotify.com/artist/7xjOe3VSfBxs0ckobQonLS) | [Under The Moon](https://open.spotify.com/album/2hKz3DxbxYqOcvYEP7gLvJ) | 4:27 | 2022-08-25 | 2022-09-09 |
@@ -1242,6 +1245,7 @@
 | [To be, or not to be ugly](https://open.spotify.com/track/25cJX61SWZCOlgNuvHf20c) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Ugly Duck](https://open.spotify.com/album/2gys1pKIbiL523OHH6H59P) | 2:54 | 2023-03-23 | 2023-04-28 |
 | [To The Moon And Back](https://open.spotify.com/track/5YeIAPfq56ceA3JV8hDKpH) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [To The Moon And Back](https://open.spotify.com/album/4BMLTlQ3CAY4beoL9S6LfB) | 3:31 | 2022-10-13 | 2023-02-18 |
 | [TO YOU](https://open.spotify.com/track/1wuGvgHmbDgBHKASwgJqPK) | [hanuel](https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [TO YOU](https://open.spotify.com/album/33c4mtFY9EXLNkQGRiAAic) | 2:36 | 2023-04-14 | 2023-08-25 |
+| [TOAST TO ME](https://open.spotify.com/track/5Bk1Qo8MLvDdLLC38sXKkL) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [TOAST TO ME](https://open.spotify.com/album/2WSuD4vUoT8VVx6FTPRAUl) | 3:20 | 2025-10-09 |  |
 | [TODAY \(Feat\. Kim Mi Jeong\)](https://open.spotify.com/track/6zgRMguVIineEcfwdy1ftt) | [CHANHYUN](https://open.spotify.com/artist/3mVfekn5nIuqNWJCK0u1r9), [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [TODAY \(Feat\. Kim Mi Jeong\)](https://open.spotify.com/album/7pAEDIrWroPSNk8RyH5CvN) | 3:19 | 2023-04-14 | 2023-04-28 |
 | [together](https://open.spotify.com/track/5lCTsaaY9pmsPmuvUgsUJb) | [Chriskris](https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl) | [together](https://open.spotify.com/album/2nhW2xl01I0yTdupPySrwd) | 2:28 | 2025-08-14 | 2025-08-23 |
 | [Together](https://open.spotify.com/track/6O0OJF1r7cUKLeKCwdW4tS) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [Together](https://open.spotify.com/album/5F4nx93yqmXlEhBMdxBJ2g) | 3:10 | 2024-08-15 | 2024-11-15 |
@@ -1254,6 +1258,7 @@
 | [Top Bop](https://open.spotify.com/track/2MYQdWKJS2OFWDYcsTKhvo) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [Top Bop](https://open.spotify.com/album/1AlFUvBhjG8jF3SR3dDOg0) | 2:31 | 2023-04-27 | 2023-10-06 |
 | [Tough Love \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5qidBQqsjdwewlQaw16o3L) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Good Morning Gorgeous \(Deluxe\)](https://open.spotify.com/album/5K3aBzXwBvSltrtfBNYRl6) | 4:33 | 2022-06-08 | 2022-06-10 |
 | [Toxic Games](https://open.spotify.com/track/3QQYtCycRomIXlzeCQo6rj) | [fredrik s](https://open.spotify.com/artist/16UPHme5BmhuhoQpeTGGGr) | [Toxic Games](https://open.spotify.com/album/6lHCGQUi4ygqAUH0GHjJhL) | 3:09 | 2024-11-14 | 2024-12-05 |
+| [Track 8](https://open.spotify.com/track/09TpTpWbD9axd31RT7Ga5f) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-09 |  |
 | [TRAVELIN'](https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [TRAVELIN'](https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y) | 3:37 | 2023-08-24 | 2023-09-01 |
 | [Tread Carefully](https://open.spotify.com/track/7newfXclX39UwWTw2gDswM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 3:02 | 2022-06-09 | 2022-06-24 |
 | [TREASURE](https://open.spotify.com/track/7grAswqijIdxzRgK3l06A7) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [TREASURE](https://open.spotify.com/album/72lymuQG7fYSUNI2iTBtTh) | 3:11 | 2025-05-01 | 2025-08-15 |

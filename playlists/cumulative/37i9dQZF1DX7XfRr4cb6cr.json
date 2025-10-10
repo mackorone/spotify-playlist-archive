@@ -954,7 +954,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 281133,
       "name": "Contrail",
       "url": "https://open.spotify.com/track/0kUaVSpFJ1c5If3fK3S8CX"
@@ -1426,6 +1426,24 @@
       "duration_ms": 274927,
       "name": "Exit",
       "url": "https://open.spotify.com/track/7ulPUJ5ATvzceGQkdwFNHT"
+    },
+    {
+      "album": {
+        "name": "Explore",
+        "url": "https://open.spotify.com/album/6WXIyn97VQxeC76taTb8V9"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Septi\u00e9n",
+          "url": "https://open.spotify.com/artist/4ZKN14SC7z4VREa21mIR9E"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Explore",
+      "url": "https://open.spotify.com/track/17rI7c5pkemHldZmjGZ7gH"
     },
     {
       "album": {
@@ -2956,7 +2974,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 458706,
       "name": "Lord, Am I Going Down?",
       "url": "https://open.spotify.com/track/7FFtFxUd9FX57DERV5EvcD"
@@ -3726,6 +3744,24 @@
       "duration_ms": 342013,
       "name": "Once",
       "url": "https://open.spotify.com/track/2ytljnf7K8GiXdqFEWgC9w"
+    },
+    {
+      "album": {
+        "name": "One, Now",
+        "url": "https://open.spotify.com/album/4kF8vym58D7n63UkCSGmmc"
+      },
+      "artists": [
+        {
+          "name": "Jessica Moss",
+          "url": "https://open.spotify.com/artist/0mXuTfa0qloI8dL4G41V5n"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 805200,
+      "name": "One, Now",
+      "url": "https://open.spotify.com/track/0reKdwCNzP02BpGKHR0Ebu"
     },
     {
       "album": {
@@ -4616,7 +4652,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 221520,
       "name": "Serpentine",
       "url": "https://open.spotify.com/track/0plMWuZSwX65585sUIUdd5"
@@ -5732,7 +5768,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 139680,
       "name": "Torrek",
       "url": "https://open.spotify.com/track/5wiNhkUEe7imXJiwPQAuIe"
@@ -5790,7 +5826,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 153052,
       "name": "Trees",
       "url": "https://open.spotify.com/track/0Q2ZAzvitoJyxvPfPt2Dz8"
@@ -5826,10 +5862,32 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 304832,
       "name": "T\u00e5rl\u00f6s sorg",
       "url": "https://open.spotify.com/track/2CqZDbBIDZ6mfEBU68gw5f"
+    },
+    {
+      "album": {
+        "name": "Uncaged",
+        "url": "https://open.spotify.com/album/4E8lkJdV1fJTNNVTIFefcy"
+      },
+      "artists": [
+        {
+          "name": "Chris Carter",
+          "url": "https://open.spotify.com/artist/4Fw9V88d2NoplsZBOkBWaS"
+        },
+        {
+          "name": "Ian Boddy",
+          "url": "https://open.spotify.com/artist/0OSTXy3TYRaMwdwUPkVkBD"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484897,
+      "name": "Uncaged",
+      "url": "https://open.spotify.com/track/6nu3ObLeh9wo8JezaSypSt"
     },
     {
       "album": {
@@ -6058,7 +6116,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-26",
+      "date_removed": null,
       "duration_ms": 247078,
       "name": "Walk on the Beach",
       "url": "https://open.spotify.com/track/1iNDieYXrhrnWc2Ko7JNZw"

@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our universe ft\. teethin
+> welcome to our universe ft\. alemeda & doechii
 
-1,207 songs - 2 day 11 hr 20 min
+1,210 songs - 2 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Be Quiet and Drive \(Far Away\) – Spotify Singles](https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [Be Quiet and Drive \(Far Away\) – Spotify Singles](https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr) | 3:07 | 2024-02-16 | 2024-08-09 |
 | [Be With Me](https://open.spotify.com/track/4iBBoNJKbayT7kko0cquWf) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Be With Me](https://open.spotify.com/album/2mI0gv3S6ANVDmEbaMf5Wa) | 2:03 | 2024-01-26 | 2024-05-17 |
 | [BEACH WORMS](https://open.spotify.com/track/1t7ot2L6ErmhQntCM2g79u) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [SIRENCORE](https://open.spotify.com/album/4x7Lhq0tk6h8G7bazJcPsl) | 3:08 | 2024-03-08 | 2024-07-19 |
+| [Beat A B!tch Up](https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Beat A B!tch Up](https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2) | 2:47 | 2025-10-09 |  |
 | [BEDTIME STORIES](https://open.spotify.com/track/2St0YH2pzB2kp1BVGOi37R) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [BEDTIME STORIES / BLOOD](https://open.spotify.com/album/6fAFmYVvfI5PCTzzJxgTou) | 2:08 | 2022-06-09 | 2022-10-21 |
 | [Behind Closed Doors](https://open.spotify.com/track/24A9gRCWE4Jza8DDhnur6C) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A), [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Behind Closed Doors](https://open.spotify.com/album/1U8ck3ysyU4iwNaagT7MCJ) | 3:03 | 2021-12-27 | 2023-05-05 |
 | [Being One](https://open.spotify.com/track/1x3H8BGXFpRbvScvG2HG1W) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Being One](https://open.spotify.com/album/6yDBjZF7QbzpBbmwaIl9nt) | 3:20 | 2024-06-27 | 2024-08-09 |
@@ -291,7 +292,7 @@
 | [DIg It](https://open.spotify.com/track/3IAqmiQpJiezGvQAHE2DSk) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 7:12 | 2024-05-28 | 2024-06-07 |
 | [DIRTBAG](https://open.spotify.com/track/50E0Pl2yc4rycFqTH1cGRD) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [DON'T WORRY, I'LL BE FINE](https://open.spotify.com/album/09natI8LumZF8kRgCuUSRe) | 2:10 | 2024-09-20 | 2025-06-20 |
 | [Disconnected](https://open.spotify.com/track/1H3wjeRIilS7ffzNTqobkt) | [Mike's Dead](https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1), [Johnny 3 Tears](https://open.spotify.com/artist/74iE6rXyjSPl853bFQhlNF), [Funny Man](https://open.spotify.com/artist/2zL0TmGfivsuZEIWGtAhKb) | [Disconnected](https://open.spotify.com/album/338f5CbDP4xItbaB1KkWu4) | 3:04 | 2025-07-24 |  |
-| [Disease](https://open.spotify.com/track/0dolORQ9ddKYQvudhtmSP2) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Disease](https://open.spotify.com/album/2r0hn10yZDfmPVabRZkHwz) | 2:39 | 2024-12-13 |  |
+| [Disease](https://open.spotify.com/track/0dolORQ9ddKYQvudhtmSP2) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Disease](https://open.spotify.com/album/2r0hn10yZDfmPVabRZkHwz) | 2:39 | 2024-12-13 | 2025-10-10 |
 | [distraction](https://open.spotify.com/track/2vXKEk0RtMsLSv1NVBe7r8) | [miind](https://open.spotify.com/artist/0Nualz2sqNcC0f823MFLto) | [distraction](https://open.spotify.com/album/6l91vBauvtenuX8dQ615rn) | 2:01 | 2022-04-19 | 2022-04-29 |
 | [Do It So Good](https://open.spotify.com/track/7AdLQWyE8e2AKUBooSGCBt) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Do It So Good](https://open.spotify.com/album/7s7bmCIHQjNtt83diSRZjm) | 3:22 | 2023-07-13 | 2023-12-16 |
 | [DO U LIKE ME NOW?](https://open.spotify.com/track/22Uh81w7dh0sdE4egnLndv) | [Dana Dentata](https://open.spotify.com/artist/1QiXZr91PL7BG5jT7j14uB) | [DO U LIKE ME NOW?](https://open.spotify.com/album/5pEPrSirLnbvFr65nO5Zp9) | 2:23 | 2021-12-27 | 2022-06-10 |
@@ -645,6 +646,7 @@
 | [Last Day / Новый День](https://open.spotify.com/track/7bPrnYvKkyHCNMCrFCUyXN) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Kiss Of Death](https://open.spotify.com/album/0jWtiXlIT1bKH9qrAuKtCj) | 3:06 | 2022-04-28 | 2022-08-05 |
 | [Last Summer \(I Know What You Did\)](https://open.spotify.com/track/1d2pXU93R3BiiTeZWRl0t4) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC), [Jinka](https://open.spotify.com/artist/4QQ7oTTczMTot51xhy1giT) | [Careless](https://open.spotify.com/album/3SNMIbXUymlzYqWWTp0Egr) | 3:21 | 2023-08-10 | 2023-11-11 |
 | [Last Time](https://open.spotify.com/track/5ifPlR8w2NUCq3sHyrfd5a) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Last Time](https://open.spotify.com/album/2Q0XmU6dUpl6ckyMwVd5Mj) | 3:05 | 2025-06-05 |  |
+| [Lawmaker](https://open.spotify.com/track/5gsZOtOrj7IKyCtjacSvXu) | [YARD](https://open.spotify.com/artist/36aHdS6WBzKMBA9pt1FYFS) | [Lawmaker](https://open.spotify.com/album/1qAcXwnEag4BOCl4zhCHNY) | 3:41 | 2025-10-09 |  |
 | [Lazarus](https://open.spotify.com/track/6YeICQ526RnheZIr61Y5tj) | [Rivilin](https://open.spotify.com/artist/3Zx6YOsYHf5uj5xvnNhhgL), [$LOTHBOI](https://open.spotify.com/artist/6pqww89mdTNMrYjqcCzi1x) | [Lazarus](https://open.spotify.com/album/2ubFTHV87OkwQr4Xc9bxBc) | 3:13 | 2022-12-02 | 2023-02-09 |
 | [Learn To Forget](https://open.spotify.com/track/5hxWel7I4T6mlEMP1YFG2m) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Learn To Forget](https://open.spotify.com/album/0wYHmySvVY3n0W9L2UX1T5) | 3:01 | 2024-06-06 | 2024-09-13 |
 | [Leash](https://open.spotify.com/track/2Ev8YPIWMPVcBuMWXN7G75) | [Berry Galazka](https://open.spotify.com/artist/7mFqFwW9MO8lR3c28qLUFI) | [Leash](https://open.spotify.com/album/64AMVMXHrAas7rK3PDaayQ) | 2:42 | 2023-02-03 | 2023-04-14 |
@@ -839,7 +841,7 @@
 | [Pink Bubblegum](https://open.spotify.com/track/4jxg7aD2s4ehpjyVP0qisg) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Bubblegum](https://open.spotify.com/album/70bWJ4nB1AGuDh5hqfZ3pf) | 2:22 | 2021-12-27 | 2022-02-18 |
 | [pink diamond](https://open.spotify.com/track/3V0PgcsUMlAGXwCD0084pY) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:04 | 2022-04-19 | 2022-04-29 |
 | [Pink G\-String](https://open.spotify.com/track/1uAXWqVuVOSDqE4lJvY4Ae) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink G\-String](https://open.spotify.com/album/5Y4VHqeyqlnPIHlK0zfso3) | 2:07 | 2022-07-14 | 2022-08-26 |
-| [pink gun](https://open.spotify.com/track/6UNszlYyXAmKAAqF3e3Lv2) | [Laurel Smith](https://open.spotify.com/artist/39V5jPcGZJGgjB8VoBW5BT) | [pink gun](https://open.spotify.com/album/6ibuf1X8PFFtLgxOXUo5EM) | 3:08 | 2025-01-31 |  |
+| [pink gun](https://open.spotify.com/track/6UNszlYyXAmKAAqF3e3Lv2) | [Laurel Smith](https://open.spotify.com/artist/39V5jPcGZJGgjB8VoBW5BT) | [pink gun](https://open.spotify.com/album/6ibuf1X8PFFtLgxOXUo5EM) | 3:08 | 2025-01-31 | 2025-10-10 |
 | [Pink Panther](https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:22 | 2022-04-28 | 2022-05-27 |
 | [Pink Paper](https://open.spotify.com/track/0fQlpBKc3AJPmoudVpmDje) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:13 | 2022-04-28 | 2022-05-13 |
 | [pink party](https://open.spotify.com/track/2WfkqHBaJKTDkdNPIQxwwX) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [evil twin](https://open.spotify.com/album/0veq4sEuFjopH21yI3u7QH) | 2:43 | 2022-09-22 | 2022-09-30 |
@@ -1043,6 +1045,7 @@
 | [tenfold](https://open.spotify.com/track/7LGr6z6GtpmSDnemncbfkw) | [Sophie Hunter](https://open.spotify.com/artist/3L2gl8O5cKVCbAnSWUFZxf) | [\(go!\)](https://open.spotify.com/album/6ZhhQuBsNZJWKzXN1vVh8Y) | 2:15 | 2025-04-10 | 2025-07-11 |
 | [Terrified](https://open.spotify.com/track/5S9opvHpOztqiShDAAusum) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Terrified](https://open.spotify.com/album/4eCNNKkvJK9tXdMPaV8abd) | 3:06 | 2023-10-13 | 2024-02-23 |
 | [Territory of Your Heart](https://open.spotify.com/track/3w4OafKQZXziSa9KcRRqwl) | [Sohodolls](https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN) | [Territory of Your Heart](https://open.spotify.com/album/0OiMIJaH1n6DUe53OD80Mq) | 3:24 | 2024-08-15 | 2025-03-07 |
+| [Tesseract](https://open.spotify.com/track/4EeiKvSCQYTZvJzvzv5kWi) | [Bobby Wolfgang](https://open.spotify.com/artist/7HJGdWKxnA9ef6HtaQfXJP), [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR) | [Tesseract](https://open.spotify.com/album/4BIfZVmI4LVOZEIdSu8AX1) | 3:15 | 2025-10-09 |  |
 | [Tether](https://open.spotify.com/track/2akKwtzbOE4FDpByVeu1B1) | [Lonelyspeck](https://open.spotify.com/artist/0ghOmdop8dsN135XRLszJ5) | [Crown of My Spirit](https://open.spotify.com/album/2EOuo5rVfUImfbIzu8X9BE) | 3:52 | 2025-07-31 | 2025-08-09 |
 | [THANK YOU FOR RUINING MY LIFE](https://open.spotify.com/track/7ywySoHRFB5U0FbJXYLdiF) | [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo) | [THANK YOU FOR RUINING MY LIFE](https://open.spotify.com/album/1cREwIhq0OuhuSY7W7o5Di) | 2:51 | 2024-09-05 | 2025-06-20 |
 | [that b\*tch don't even kno my name...](https://open.spotify.com/track/5RgGQDoWdFGPRUxbb4olwx) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [that b\*tch don't even kno my name...](https://open.spotify.com/album/2fzAi6TqQrDhv6heenILWU) | 2:18 | 2024-03-29 | 2024-09-27 |
@@ -1180,7 +1183,7 @@
 | [witches in the street](https://open.spotify.com/track/5kk5nQcXJdXyP2IeYSH3Kh) | [Leo IV](https://open.spotify.com/artist/0sL7q6u63eg3AuYPwImbhN) | [witches in the street](https://open.spotify.com/album/02lOUJsNVavV9729X3VzQw) | 1:47 | 2024-05-02 | 2024-05-24 |
 | [Wokeup!](https://open.spotify.com/track/65pgKsJuP0bYuqy4hiRztY) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [Wokeup!](https://open.spotify.com/album/53OYdcHlqKCw1qvzDAWTZY) | 2:49 | 2022-04-19 | 2022-04-29 |
 | [wolf](https://open.spotify.com/track/2ZnNZzwNIMsQ8j8jdNKdgc) | [Laurel Smith](https://open.spotify.com/artist/39V5jPcGZJGgjB8VoBW5BT) | [wolf](https://open.spotify.com/album/7HV4qfyHfqgorREDvpF2tT) | 3:09 | 2024-09-26 | 2024-10-18 |
-| [Wonderwall \- Spotify Singles](https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Spotify Singles](https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c) | 4:00 | 2025-01-29 |  |
+| [Wonderwall \- Spotify Singles](https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Spotify Singles](https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c) | 4:00 | 2025-01-29 | 2025-10-10 |
 | [Word Vomit](https://open.spotify.com/track/579Toef3RjBEXfFMXvwkqp) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Word Vomit](https://open.spotify.com/album/7dsAqFpnshTvViLP7PTzkd) | 2:26 | 2021-12-27 | 2022-07-15 |
 | [World Domination](https://open.spotify.com/track/0Cdb8ZXMRfzOfqhuUxuGLi) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [World Domination](https://open.spotify.com/album/0GurFlwi2sN6OeqnWCKsVa) | 3:51 | 2023-05-25 | 2023-07-07 |
 | [WORMGIRL](https://open.spotify.com/track/4rOMdeT9rSJ7jYUNdhn2SG) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC), [Raven Gray](https://open.spotify.com/artist/3xnaiXk5TG9y2fchyrceAr) | [WORMGIRL](https://open.spotify.com/album/572P8y9UMaiTveboT86c9u) | 2:21 | 2024-08-15 | 2025-01-24 |

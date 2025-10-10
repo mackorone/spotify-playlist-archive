@@ -443,6 +443,28 @@
     },
     {
       "album": {
+        "name": "Anointed",
+        "url": "https://open.spotify.com/album/3Zk2GrpqEBsraDxXPp9aKH"
+      },
+      "artists": [
+        {
+          "name": "Pastor Emmanuel Iren",
+          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
+        },
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426655,
+      "name": "Anointed",
+      "url": "https://open.spotify.com/track/0DOc9cCC5j07CXIAC02onH"
+    },
+    {
+      "album": {
         "name": "Anointing",
         "url": "https://open.spotify.com/album/0DX5TH4X6En3Loqa13PYXB"
       },
@@ -1066,6 +1088,28 @@
       "duration_ms": 438200,
       "name": "Blessed Assurance",
       "url": "https://open.spotify.com/track/41iTybeZlSGdEKUaEYz8Ye"
+    },
+    {
+      "album": {
+        "name": "Blessed Assurance",
+        "url": "https://open.spotify.com/album/0wUF4IL8w0covkEUfJiVMG"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Tianney",
+          "url": "https://open.spotify.com/artist/72wmDDFZa4ll8WjCtmbV5Y"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158687,
+      "name": "Blessed Assurance",
+      "url": "https://open.spotify.com/track/37OLhQWWM8dWaYDs0GItih"
     },
     {
       "album": {
@@ -3069,6 +3113,24 @@
     },
     {
       "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/1HoX2wZlHhk9HcLy9b17nh"
+      },
+      "artists": [
+        {
+          "name": "Monaze",
+          "url": "https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126643,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/4dG969vV9Mp3kDjirWSCA0"
+    },
+    {
+      "album": {
         "name": "20 Somethxngs",
         "url": "https://open.spotify.com/album/4NHCHM9FOIFf0um2ZDTBDi"
       },
@@ -3868,7 +3930,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 158571,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/1bxY6erFDE2a6pIzp0sSNj"
@@ -4044,7 +4106,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 329600,
       "name": "Heal Our Land",
       "url": "https://open.spotify.com/track/22A8LtBraZbTlhEBWRlA50"
@@ -4346,7 +4408,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 366500,
       "name": "I Decree - Live",
       "url": "https://open.spotify.com/track/4daFIen6VNnemOUgvzAThq"
@@ -6088,7 +6150,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 368416,
       "name": "Light",
       "url": "https://open.spotify.com/track/4rN4PprdOYJQKaPp4HXVgz"
@@ -9716,7 +9778,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 420025,
       "name": "Shekinah",
       "url": "https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO"
@@ -10376,7 +10438,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 383876,
       "name": "That's What You Do",
       "url": "https://open.spotify.com/track/3LmoUZyMBnZxCaCuc3QZaK"
@@ -10948,7 +11010,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 141913,
       "name": "Trust in you",
       "url": "https://open.spotify.com/track/5YVZxtAYdDmNlAzhjIBG8i"
@@ -11060,7 +11122,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 150508,
       "name": "Undercover",
       "url": "https://open.spotify.com/track/5cBWaDfCIFEvTnUF73urP6"
@@ -12792,7 +12854,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 384000,
       "name": "\u00d2GO",
       "url": "https://open.spotify.com/track/3bYQ5UKUC5wcSR3aEyAd9P"

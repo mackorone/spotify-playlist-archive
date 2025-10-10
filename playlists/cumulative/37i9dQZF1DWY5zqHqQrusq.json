@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-16",
-  "description": "Chill, take a long walk and clear your mind. Cover: Maya Amolo",
+  "description": "Chill, take a long walk and clear your mind. Cover: Xenia Manasseh",
   "name": "Barefoot and Free",
   "tracks": [
     {
@@ -420,6 +420,28 @@
       "duration_ms": 149386,
       "name": "Don\u2019t Play",
       "url": "https://open.spotify.com/track/0QWeUCZEQ6ftUjWqghO5tV"
+    },
+    {
+      "album": {
+        "name": "EAST2HWOOD",
+        "url": "https://open.spotify.com/album/2hpKS3D3i4J0UK9vkGmuVV"
+      },
+      "artists": [
+        {
+          "name": "Ukweli",
+          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
+        },
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208583,
+      "name": "EAST2HWOOD",
+      "url": "https://open.spotify.com/track/7nsQGkE4LbDnGCp9lDs83t"
     },
     {
       "album": {
@@ -948,7 +970,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 154937,
       "name": "It's You",
       "url": "https://open.spotify.com/track/7pr7HuG2oWV4AhvM4SDbsW"

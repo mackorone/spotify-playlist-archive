@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3ubJMppxuP.md) - [plain]
 
 > Hardstyle in het Nederlands\. Feest!
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,954 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,968 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3ubJMppxuP.md) - [plain]
 | 16 | [Pizza Met Ananas \- Outsiders Remix](https://open.spotify.com/track/4fFtFlbyZWo6h94v035TNu) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Pizza Met Ananas \(Outsiders Remix\)](https://open.spotify.com/album/1i075YeOWzOZLW3vNVhP0v) | 3:04 |
 | 17 | [Ik Ben Kachel \- Hardstyle Remix](https://open.spotify.com/track/6WGZJMH87oLVf5ArGp7owr) | [OBZ](https://open.spotify.com/artist/7pfmlAOn0pAPxoReDorkxA) | [Ik Ben Kachel \(Hardstyle Remix\)](https://open.spotify.com/album/7nQLoxQ6S1EpqKSO3pvp2U) | 2:31 |
 | 18 | [Vluchtstrook \- Sound Rush Remix](https://open.spotify.com/track/3EO5M4SVTz6XinImb0Q95K) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Vluchtstrook \(Sound Rush Remix\)](https://open.spotify.com/album/1aYLG6jDu6GtEqWe3RnwcV) | 2:58 |
-| 19 | [Weet Je Wel Wie Wij Zijn](https://open.spotify.com/track/2ATpRdUd9evdQfH5a7PvYn) | [Bössels](https://open.spotify.com/artist/5NpFx3WsQcRwlVJ8eq6XwC), [Roosterz](https://open.spotify.com/artist/5oc7w0IUnErPaza4Yu2igm) | [Weet Je Wel Wie Wij Zijn](https://open.spotify.com/album/39JuHfmF5pj8Ieo2qcZYJ0) | 2:50 |
+| 19 | [Hartslag \- Hardstyle Remix](https://open.spotify.com/track/3l1cFHb9k9skyeFklUHz38) | [Steffany](https://open.spotify.com/artist/4gNFEcwT0hldqyzHdl231m), [Spearbreak](https://open.spotify.com/artist/4Ek1LKLop7zR9278Wg1FVE) | [Hartslag \(Hardstyle Remix\)](https://open.spotify.com/album/6YX6YttBgE4VQV88MEeCZE) | 3:05 |
 | 20 | [Huichelaar \- Original Mix](https://open.spotify.com/track/6DflceCvdqHim83bvk1gSA) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [De Kraaien](https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf) | [Huichelaar \(Original Mix\)](https://open.spotify.com/album/3J6dxb61uLzT9OahWB4xDI) | 3:00 |
-| 21 | [Hartslag \- Hardstyle Remix](https://open.spotify.com/track/3l1cFHb9k9skyeFklUHz38) | [Steffany](https://open.spotify.com/artist/4gNFEcwT0hldqyzHdl231m), [Spearbreak](https://open.spotify.com/artist/4Ek1LKLop7zR9278Wg1FVE) | [Hartslag \(Hardstyle Remix\)](https://open.spotify.com/album/6YX6YttBgE4VQV88MEeCZE) | 3:05 |
+| 21 | [Weet Je Wel Wie Wij Zijn](https://open.spotify.com/track/2ATpRdUd9evdQfH5a7PvYn) | [Bössels](https://open.spotify.com/artist/5NpFx3WsQcRwlVJ8eq6XwC), [Roosterz](https://open.spotify.com/artist/5oc7w0IUnErPaza4Yu2igm) | [Weet Je Wel Wie Wij Zijn](https://open.spotify.com/album/39JuHfmF5pj8Ieo2qcZYJ0) | 2:50 |
 | 22 | [In De Hemel Is Geen Bier](https://open.spotify.com/track/28Qvlhqa98uwiO8ZQj8T6U) | [Boer Harm](https://open.spotify.com/artist/5IHZu2yYPqXd8JNzDP91Os), [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk) | [In De Hemel Is Geen Bier](https://open.spotify.com/album/38CP1Z2uXZI4u7CWmmHsCc) | 2:24 |
 | 23 | [Dat Heb Jij Gedaan \- Hardstyle Edit](https://open.spotify.com/track/6MQwJRD57i2o2hwrG09ozr) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [Dat Heb Jij Gedaan \(Hardstyle Edit\)](https://open.spotify.com/album/6Y0Se3shYP9WuW70ceKLl8) | 3:21 |
 | 24 | [Maak Me Gek \- Sound Rush Remix](https://open.spotify.com/track/3ZaTuTaAVm6aphMTL99cNm) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Maak Me Gek \- Sound Rush Remix](https://open.spotify.com/album/5VkCQPJswoQv0F16hpEEp9) | 3:08 |

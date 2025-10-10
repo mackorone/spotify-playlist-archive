@@ -3969,6 +3969,28 @@
     },
     {
       "album": {
+        "name": "NO WAY!! (feat.\u7c97\u54c1)",
+        "url": "https://open.spotify.com/album/1fQt2vKyhktxFJb4ctOGAC"
+      },
+      "artists": [
+        {
+          "name": "Paledusk",
+          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
+        },
+        {
+          "name": "\u7c97\u54c1",
+          "url": "https://open.spotify.com/artist/7xqEtCgCQWtiuvlkM5Wigc"
+        }
+      ],
+      "date_added": "2025-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305130,
+      "name": "NO WAY!! - feat.\u7c97\u54c1",
+      "url": "https://open.spotify.com/track/6UrO8GjZlDkQT176tp9tSP"
+    },
+    {
+      "album": {
         "name": "Cyber World",
         "url": "https://open.spotify.com/album/23diSjDIoPdPyrnhKJo4MK"
       },
@@ -5306,7 +5328,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 168280,
       "name": "SLAM",
       "url": "https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Guga",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: MUN",
   "name": "Seda",
   "tracks": [
     {
@@ -3785,6 +3785,36 @@
     },
     {
       "album": {
+        "name": "De Novo",
+        "url": "https://open.spotify.com/album/3zU9TkGLe3T6mLwlYuFhLL"
+      },
+      "artists": [
+        {
+          "name": "Uzzy",
+          "url": "https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi"
+        },
+        {
+          "name": "Mafalda Rosado",
+          "url": "https://open.spotify.com/artist/4F5XKHdGeH1kogpS3a5YzH"
+        },
+        {
+          "name": "Diogo Ribeiro",
+          "url": "https://open.spotify.com/artist/4M8WzxjaLIlIBYtwnmYk3i"
+        },
+        {
+          "name": "Beca",
+          "url": "https://open.spotify.com/artist/5rYk2wl5ZdMHyKb2q1MFmU"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "De Novo",
+      "url": "https://open.spotify.com/track/3ZS19rX9Iu6P6GtTarDUsb"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Sou Daqui",
         "url": "https://open.spotify.com/album/6F0dv3FpCtzK5HGldys7dX"
       },
@@ -4150,6 +4180,24 @@
       "duration_ms": 213708,
       "name": "Dissabores",
       "url": "https://open.spotify.com/track/4iJgbzZZBEEcA4p7sB3Bwz"
+    },
+    {
+      "album": {
+        "name": "DIST\u00c2NCIA",
+        "url": "https://open.spotify.com/album/01gGPhEwoaiUJmWcTMIkVo"
+      },
+      "artists": [
+        {
+          "name": "MUN",
+          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120007,
+      "name": "DIST\u00c2NCIA",
+      "url": "https://open.spotify.com/track/4z28ru6DpAXjyfiNYkbObZ"
     },
     {
       "album": {
@@ -7210,7 +7258,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 184583,
       "name": "Just For the Night",
       "url": "https://open.spotify.com/track/70WccVpx1GZaOhrfqU8WN2"
@@ -7670,7 +7718,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 189170,
       "name": "Liga Quando A Festa Acabar",
       "url": "https://open.spotify.com/track/58e7qocOqK9P3V78CAy38L"
@@ -8545,6 +8593,24 @@
     },
     {
       "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/6AjMO0lLuPMZGuNwlUteFM"
+      },
+      "artists": [
+        {
+          "name": "Gama WNTD",
+          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229661,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/2zWN9n7HcvYsydcykLgNQW"
+    },
+    {
+      "album": {
         "name": "Mereces",
         "url": "https://open.spotify.com/album/0jUehlIRWSQkj3XjQY1hSw"
       },
@@ -8658,7 +8724,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 161948,
       "name": "MIMO",
       "url": "https://open.spotify.com/track/7f2TMhYX0ZqdUOLw2vjKrd"

@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 56373,
+  "num_followers": 56380,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aORYAAAAAADE8WKv9QXYm7qhFkxKmCye",
+  "snapshot_id": "aOWpgAAAAACEv3pwmOAbTG1aIioaol4h",
   "tracks": [
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pista",
-        "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 222171,
-      "name": "\u00bfY si bailamos?",
-      "url": "https://open.spotify.com/track/34hlv8mV3qVxQZcJ4A5Aib"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Toques de Queda",
         "url": "https://open.spotify.com/album/6ctiaGPxGEGW8yrYmzDOvQ"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 212250,
       "name": "Ultimadamente",
       "url": "https://open.spotify.com/track/3IfUGWgiKfBJMt7eCdkZqn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Pista",
+        "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 222171,
+      "name": "\u00bfY si bailamos?",
+      "url": "https://open.spotify.com/track/34hlv8mV3qVxQZcJ4A5Aib"
     },
     {
       "added_at": null,

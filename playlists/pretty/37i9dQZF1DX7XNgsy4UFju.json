@@ -1,13 +1,217 @@
 {
-  "description": "The best indie tracks of the moment. Cover: FLEECE",
-  "num_followers": 161019,
+  "description": "The best indie tracks of the moment. Cover: Babygirl",
+  "num_followers": 161011,
   "original_name": "Indie All Stars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM2qyQuMOKr9JUK4eGENyJiC8bDE",
+  "snapshot_id": "AAAAAMB9PxDRc7K/FudxAPqffXq8HFmh",
   "tracks": [
+    {
+      "added_at": "2025-10-10 00:01:12",
+      "album": {
+        "name": "Stay Here Where It's Warm",
+        "url": "https://open.spotify.com/album/2025iFS7ufF84zxWA5Dqd6"
+      },
+      "artists": [
+        {
+          "name": "Babygirl",
+          "url": "https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T"
+        }
+      ],
+      "duration_ms": 244809,
+      "name": "Dancing With Her",
+      "url": "https://open.spotify.com/track/4aCxMYOlcYMxdK8ICB29DN"
+    },
+    {
+      "added_at": "2025-10-10 00:01:12",
+      "album": {
+        "name": "Tie you down",
+        "url": "https://open.spotify.com/album/1I791510xrKrTghdNBHfgm"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 176826,
+      "name": "Tie you down",
+      "url": "https://open.spotify.com/track/0S2c7Zxd1NyUewjQyW187L"
+    },
+    {
+      "added_at": "2025-10-10 00:01:12",
+      "album": {
+        "name": "viscus (feat. FKA twigs)",
+        "url": "https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        },
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 220534,
+      "name": "viscus (feat. FKA twigs)",
+      "url": "https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20"
+    },
+    {
+      "added_at": "2025-10-10 00:01:12",
+      "album": {
+        "name": "Forever Is A Feeling: The Archives",
+        "url": "https://open.spotify.com/album/2K91mmZiTrqVmt3ZRoosk6"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 123239,
+      "name": "Losing",
+      "url": "https://open.spotify.com/track/4ga8BXjCeZ5EW9Qn0D41mf"
+    },
+    {
+      "added_at": "2025-10-10 00:01:12",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Not for Radio",
+          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
+        }
+      ],
+      "duration_ms": 251601,
+      "name": "Swan",
+      "url": "https://open.spotify.com/track/5DyUNx3kgGOZv0f0MqBllI"
+    },
+    {
+      "added_at": "2025-10-10 00:01:12",
+      "album": {
+        "name": "Man In His Pomp",
+        "url": "https://open.spotify.com/album/37KhkdHDI0LERW8dTXz24r"
+      },
+      "artists": [
+        {
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+        }
+      ],
+      "duration_ms": 111734,
+      "name": "Man In His Pomp",
+      "url": "https://open.spotify.com/track/04LRwSXXKAAxFSzyk6Imca"
+    },
+    {
+      "added_at": "2025-10-10 00:01:12",
+      "album": {
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/1WEnvdNxVjDqorcoBBOIdt"
+      },
+      "artists": [
+        {
+          "name": "Laura Lucas",
+          "url": "https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc"
+        }
+      ],
+      "duration_ms": 201560,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/5sUWvTviBP5hxYeRmEnSog"
+    },
+    {
+      "added_at": "2025-10-10 00:01:12",
+      "album": {
+        "name": "Tomorrow And Tomorrow",
+        "url": "https://open.spotify.com/album/1t0S4NzVjUBExfshRTWifJ"
+      },
+      "artists": [
+        {
+          "name": "The Dears",
+          "url": "https://open.spotify.com/artist/2qljmykdCfgGy9zUw7UqkX"
+        }
+      ],
+      "duration_ms": 191184,
+      "name": "Tomorrow And Tomorrow",
+      "url": "https://open.spotify.com/track/3iDlv2DaR37qSa2zyAte03"
+    },
+    {
+      "added_at": "2025-10-10 00:01:12",
+      "album": {
+        "name": "I WANT MY LOVED ONES TO GO WITH ME (DELUXE)",
+        "url": "https://open.spotify.com/album/1srzE6EPPVOfxOxPV1SoEY"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 228593,
+      "name": "Love Is A Canyon",
+      "url": "https://open.spotify.com/track/2rSuyPz6BfCzxB13UF6hpw"
+    },
+    {
+      "added_at": "2025-10-10 00:01:12",
+      "album": {
+        "name": "Reunite",
+        "url": "https://open.spotify.com/album/60BRAvQVlseoSpphGSoZEB"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        }
+      ],
+      "duration_ms": 236026,
+      "name": "Reunite",
+      "url": "https://open.spotify.com/track/6tiW6fIVp2NaniQURK3n1Q"
+    },
+    {
+      "added_at": "2025-10-10 00:01:12",
+      "album": {
+        "name": "CAT SONG",
+        "url": "https://open.spotify.com/album/0Ow0gAfure6Dx90DAnahyw"
+      },
+      "artists": [
+        {
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+        }
+      ],
+      "duration_ms": 154880,
+      "name": "CAT SONG",
+      "url": "https://open.spotify.com/track/6BFtLI7TdNGS9W3oVlXjKi"
+    },
+    {
+      "added_at": "2025-10-10 00:01:12",
+      "album": {
+        "name": "The Besnard Lakes are the Ghost Nation",
+        "url": "https://open.spotify.com/album/6OUMhy9ITXoEZkZ2sToSPU"
+      },
+      "artists": [
+        {
+          "name": "The Besnard Lakes",
+          "url": "https://open.spotify.com/artist/2hMif9QK1Knz7gD5XIUsER"
+        }
+      ],
+      "duration_ms": 362251,
+      "name": "Chemin de la Baie",
+      "url": "https://open.spotify.com/track/7mI1kP1scYjE62Yx6Iv3Xa"
+    },
     {
       "added_at": "2025-10-03 04:01:41",
       "album": {
@@ -1255,22 +1459,6 @@
     {
       "added_at": "2025-09-12 00:01:24",
       "album": {
-        "name": "Wait & See",
-        "url": "https://open.spotify.com/album/0UFMJ2sOCWrFn67X5dHRAW"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 273640,
-      "name": "Wait & See",
-      "url": "https://open.spotify.com/track/59OyzdGVIeOeBA8xdi867o"
-    },
-    {
-      "added_at": "2025-09-12 00:01:24",
-      "album": {
         "name": "Mountain Song",
         "url": "https://open.spotify.com/album/4gLuhvTqLSy9jzTzyVn077"
       },
@@ -1401,182 +1589,6 @@
       "url": "https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw"
     },
     {
-      "added_at": "2025-09-05 00:01:32",
-      "album": {
-        "name": "How to Win At Solitaire",
-        "url": "https://open.spotify.com/album/6hN3MhjvsymOTftrScwGR3"
-      },
-      "artists": [
-        {
-          "name": "Sophia Stel",
-          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
-        }
-      ],
-      "duration_ms": 268735,
-      "name": "All Seven Seasons",
-      "url": "https://open.spotify.com/track/6wLgm4hQHsmWbI5MhBa7W2"
-    },
-    {
-      "added_at": "2025-09-05 00:01:32",
-      "album": {
-        "name": "All Is Well",
-        "url": "https://open.spotify.com/album/3fvSbGLtvLXfClvz8UTwka"
-      },
-      "artists": [
-        {
-          "name": "Babygirl",
-          "url": "https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T"
-        }
-      ],
-      "duration_ms": 195311,
-      "name": "All Is Well",
-      "url": "https://open.spotify.com/track/5FmWkwmh6jLUd91DVeVwub"
-    },
-    {
-      "added_at": "2025-09-05 00:01:32",
-      "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/4dl2qFL5UlMxqelFjwtTV8"
-      },
-      "artists": [
-        {
-          "name": "Meltt",
-          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
-        }
-      ],
-      "duration_ms": 209749,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/2zJNpJTZ6GM37WAI0URwvg"
-    },
-    {
-      "added_at": "2025-09-05 00:01:32",
-      "album": {
-        "name": "LEO NEGRO",
-        "url": "https://open.spotify.com/album/1JQEd0VKbmwRTQDB8sRbmm"
-      },
-      "artists": [
-        {
-          "name": "JayWood",
-          "url": "https://open.spotify.com/artist/4b9Dr3XFxT65mrPBFY6mqG"
-        }
-      ],
-      "duration_ms": 248809,
-      "name": "PALMA WISE",
-      "url": "https://open.spotify.com/track/1vSsYVIw4gS6zMOBpBCyZ4"
-    },
-    {
-      "added_at": "2025-09-05 00:01:32",
-      "album": {
-        "name": "PALETTE",
-        "url": "https://open.spotify.com/album/6ZQwqriYOAshxtSB1e5fxt"
-      },
-      "artists": [
-        {
-          "name": "PRYVT",
-          "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
-        }
-      ],
-      "duration_ms": 186352,
-      "name": "PALETTE",
-      "url": "https://open.spotify.com/track/2Hs9NAaMYwyeE1uJBm72lf"
-    },
-    {
-      "added_at": "2025-09-05 00:01:32",
-      "album": {
-        "name": "Emptiness",
-        "url": "https://open.spotify.com/album/7GVUQX0koyq6iu1qu4RmnO"
-      },
-      "artists": [
-        {
-          "name": "Surf Hat",
-          "url": "https://open.spotify.com/artist/4fFi5poEqNSf7iv0jOwEFy"
-        }
-      ],
-      "duration_ms": 246410,
-      "name": "Emptiness",
-      "url": "https://open.spotify.com/track/3OAG78OqCzfS6JpEeYquAN"
-    },
-    {
-      "added_at": "2025-09-05 00:01:32",
-      "album": {
-        "name": "american zombie",
-        "url": "https://open.spotify.com/album/4BjJWRGXLh0Gq4JoX8wavh"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 153211,
-      "name": "american zombie",
-      "url": "https://open.spotify.com/track/3TD708Vmf3uVPVFkDa5Ayc"
-    },
-    {
-      "added_at": "2025-09-05 00:01:32",
-      "album": {
-        "name": "last pair of boots in town",
-        "url": "https://open.spotify.com/album/7HbzaDp9Ud38oWWP914SmA"
-      },
-      "artists": [
-        {
-          "name": "Chris LaRocca",
-          "url": "https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW"
-        }
-      ],
-      "duration_ms": 226777,
-      "name": "last pair of boots in town",
-      "url": "https://open.spotify.com/track/6lfyZOVmn2grTNEJNmzKQ7"
-    },
-    {
-      "added_at": "2025-09-05 00:01:32",
-      "album": {
-        "name": "Top Rope",
-        "url": "https://open.spotify.com/album/7FkoE7VZMxp52QQwBx6Yap"
-      },
-      "artists": [
-        {
-          "name": "Kyle Wildfern",
-          "url": "https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR"
-        }
-      ],
-      "duration_ms": 157988,
-      "name": "Top Rope",
-      "url": "https://open.spotify.com/track/76YBKzv0EZwzBFD1mYc3Iz"
-    },
-    {
-      "added_at": "2025-09-05 00:01:32",
-      "album": {
-        "name": "Love language",
-        "url": "https://open.spotify.com/album/3iV0gdLkvnoN6Ba58iNWAN"
-      },
-      "artists": [
-        {
-          "name": "Lou Val",
-          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "Love language",
-      "url": "https://open.spotify.com/track/7ps2R27n2YEP8SRsRaXkqA"
-    },
-    {
-      "added_at": "2025-08-29 00:01:19",
-      "album": {
-        "name": "Can I Call You in the Morning?",
-        "url": "https://open.spotify.com/album/0gXpSB96t4TichIngTEPeU"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 172402,
-      "name": "Can I Call You in the Morning?",
-      "url": "https://open.spotify.com/track/6xNDstLohLwOsLk78cygMr"
-    },
-    {
       "added_at": "2025-08-29 00:01:19",
       "album": {
         "name": "New Distraction",
@@ -1607,22 +1619,6 @@
       "duration_ms": 268410,
       "name": "Yamaha",
       "url": "https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V"
-    },
-    {
-      "added_at": "2025-08-22 16:10:05",
-      "album": {
-        "name": "Backseat",
-        "url": "https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 383400,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj"
     }
   ],
   "unique_name": "Indie All Stars",

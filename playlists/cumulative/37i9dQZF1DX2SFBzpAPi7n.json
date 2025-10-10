@@ -3839,6 +3839,24 @@
     },
     {
       "album": {
+        "name": "Dive!",
+        "url": "https://open.spotify.com/album/1LULxDQtvUx6miaSB3nTaY"
+      },
+      "artists": [
+        {
+          "name": "siso",
+          "url": "https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191213,
+      "name": "Dive!",
+      "url": "https://open.spotify.com/track/0Z39zxpbzamKeWNLKd3tRE"
+    },
+    {
+      "album": {
         "name": "CODA",
         "url": "https://open.spotify.com/album/5yyA9mUXeHO21XthokskOp"
       },
@@ -5638,6 +5656,32 @@
       "duration_ms": 199938,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/034saLwfjgOw6b1ZJoXcVF"
+    },
+    {
+      "album": {
+        "name": "\ub2e4 \uc774\ub8e8\uc5b4\uc9c8\uc9c0\ub2c8 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7lR1C36AIonUwAUqehsdOU"
+      },
+      "artists": [
+        {
+          "name": "HAN (Stray Kids)",
+          "url": "https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F"
+        },
+        {
+          "name": "Felix",
+          "url": "https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W"
+        },
+        {
+          "name": "I.N",
+          "url": "https://open.spotify.com/artist/1odvXbzhdzNajv6un9x5Mc"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213066,
+      "name": "GENIE",
+      "url": "https://open.spotify.com/track/3B1kVUGFALavXUt8s9L65V"
     },
     {
       "album": {
@@ -8028,7 +8072,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 233346,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/6Hp4VpVKzMokcfK3v84smk"
@@ -8606,7 +8650,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 222000,
       "name": "KICK OUT",
       "url": "https://open.spotify.com/track/1Gww9PNkelaMkdqpXQeYmW"
@@ -10160,6 +10204,24 @@
       "duration_ms": 242287,
       "name": "Mayfly",
       "url": "https://open.spotify.com/track/1wOpjD9audwpeOYg5JFhAo"
+    },
+    {
+      "album": {
+        "name": "MAZE : AD ASTRA",
+        "url": "https://open.spotify.com/album/1HJg0IRDm3caBaOplYye5U"
+      },
+      "artists": [
+        {
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "MAZE",
+      "url": "https://open.spotify.com/track/32ymN2NGUziy15w5IyGLwR"
     },
     {
       "album": {
@@ -17449,6 +17511,24 @@
     },
     {
       "album": {
+        "name": "We Go High",
+        "url": "https://open.spotify.com/album/3Ds7YahBufGY0B35C9m7ba"
+      },
+      "artists": [
+        {
+          "name": "GIFT",
+          "url": "https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "We Go High",
+      "url": "https://open.spotify.com/track/3mrugd3Xz5uHR9Q21u4HaX"
+    },
+    {
+      "album": {
         "name": "WE GO HIGH",
         "url": "https://open.spotify.com/album/0JVq4vVvfai25hdLJhvHxz"
       },
@@ -18980,7 +19060,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 232558,
       "name": "\ub098\ubb34",
       "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
@@ -19420,7 +19500,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 164000,
       "name": "\ucc98\uc74c \ubd88\ub7ec\ubcf4\ub294 \ub178\ub798 (My First Love Song)",
       "url": "https://open.spotify.com/track/3wlSKXBySBUG5Wv9FTXxgm"

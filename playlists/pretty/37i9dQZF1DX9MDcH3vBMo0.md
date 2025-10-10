@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,743 likes - 164 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,475 likes - 164 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,26 +16,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 6 | [The evolving mind](https://open.spotify.com/track/68OTxSgPB5XQZxaNk05BkZ) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [The evolving mind](https://open.spotify.com/album/6gKEAy8yhbct9u6tTIfg5c) | 2:14 |
 | 7 | [Open](https://open.spotify.com/track/67YdGjtAZIsWGMXGrZSrg3) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Open](https://open.spotify.com/album/4IHdgNyR4VPmTI5bFUbq2r) | 2:37 |
 | 8 | [In Presence](https://open.spotify.com/track/01hiTwznescgIbY9PAUVUz) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [In Presence](https://open.spotify.com/album/3a25R9D7Qz4uHXkJqAAV1A) | 2:53 |
-| 9 | [Andújar](https://open.spotify.com/track/45IsWyOukTHKGrJcmKTQfK) | [Sulman Indigo](https://open.spotify.com/artist/2RmYJmReQsQT4GoNEKMWC2) | [Andújar](https://open.spotify.com/album/7IphnleC4G1mtM3VjybgEb) | 2:06 |
-| 10 | [Amaryllis](https://open.spotify.com/track/2QqKVdveZUhGN5KXi4hUPS) | [Iris Emmanuelle](https://open.spotify.com/artist/5JCKrEmMJlkxsBLjiBBmzn) | [Amaryllis](https://open.spotify.com/album/4aKGW6CZeppKUVLhxsBhgc) | 2:42 |
-| 11 | [Golden Hour](https://open.spotify.com/track/1bVd2VtJpXWVOMDYnathl2) | [Henry Flower](https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E) | [Golden Hour](https://open.spotify.com/album/4qtTth2FVrTn0vOxyMHd64) | 2:21 |
-| 12 | [Without Hindrance](https://open.spotify.com/track/2F9zb7dvdw3QOHA3JL7kmL) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Without Hindrance](https://open.spotify.com/album/288xtBTL5O2YTmnAQ0k8Xb) | 2:10 |
-| 13 | [Lost In The Bookstore](https://open.spotify.com/track/73uNzueWJEr3dwJ4OgcY3I) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Lost In The Bookstore](https://open.spotify.com/album/37JDScSL8M9XgxL2qINZqT) | 2:51 |
-| 14 | [Fragments](https://open.spotify.com/track/3908RXyBz01sSe4SDY9SHw) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Fragments](https://open.spotify.com/album/5m2blnRxFotgjHSeMl1kZl) | 2:00 |
-| 15 | [Velvet Sand](https://open.spotify.com/track/6NpYIWLXwpktlYLszUvM3N) | [Anton Vega](https://open.spotify.com/artist/7H15xwuYNLQKF74GgsYfw7) | [Velvet Sand](https://open.spotify.com/album/2HQ6HwxInVsuXsDK9SKTfm) | 2:47 |
-| 16 | [Regarde les flammes danser](https://open.spotify.com/track/3FiarvAUxKc8N5uMT8yFKi) | [Leo Nocta](https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI) | [Regarde les flammes danser](https://open.spotify.com/album/1aFkM7ohLd3j6LmvMqgNQV) | 2:11 |
-| 17 | [Echoes in a Hollow Sky](https://open.spotify.com/track/6LLTMjixSywlvh1dNhdlfz) | [Enigmatic Horizons](https://open.spotify.com/artist/7lxOloHmE3ZvWzfIitB4Xc) | [Echoes in a Hollow Sky](https://open.spotify.com/album/69kGsQFJ47ZnvRxIEXReIi) | 2:22 |
-| 18 | [Planity](https://open.spotify.com/track/0fWHmVCprYHID87ETym6Kk) | [Andrew Mays](https://open.spotify.com/artist/5kKg8zR0hqhwZoaGvsw13I) | [Planity](https://open.spotify.com/album/5Jdh57PPMUQkm5TTUGpSuN) | 2:34 |
+| 9 | [Amaryllis](https://open.spotify.com/track/2QqKVdveZUhGN5KXi4hUPS) | [Iris Emmanuelle](https://open.spotify.com/artist/5JCKrEmMJlkxsBLjiBBmzn) | [Amaryllis](https://open.spotify.com/album/4aKGW6CZeppKUVLhxsBhgc) | 2:42 |
+| 10 | [Golden Hour](https://open.spotify.com/track/1bVd2VtJpXWVOMDYnathl2) | [Henry Flower](https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E) | [Golden Hour](https://open.spotify.com/album/4qtTth2FVrTn0vOxyMHd64) | 2:21 |
+| 11 | [Andújar](https://open.spotify.com/track/45IsWyOukTHKGrJcmKTQfK) | [Sulman Indigo](https://open.spotify.com/artist/2RmYJmReQsQT4GoNEKMWC2) | [Andújar](https://open.spotify.com/album/7IphnleC4G1mtM3VjybgEb) | 2:06 |
+| 12 | [Fragments](https://open.spotify.com/track/3908RXyBz01sSe4SDY9SHw) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Fragments](https://open.spotify.com/album/5m2blnRxFotgjHSeMl1kZl) | 2:00 |
+| 13 | [Without Hindrance](https://open.spotify.com/track/2F9zb7dvdw3QOHA3JL7kmL) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Without Hindrance](https://open.spotify.com/album/288xtBTL5O2YTmnAQ0k8Xb) | 2:10 |
+| 14 | [Soar](https://open.spotify.com/track/510zxCdlRrbJ1w2iSLnHrR) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Soar](https://open.spotify.com/album/7Mpo6kNCqKZ3MRd3IfGtAW) | 2:13 |
+| 15 | [Lost In The Bookstore](https://open.spotify.com/track/73uNzueWJEr3dwJ4OgcY3I) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Lost In The Bookstore](https://open.spotify.com/album/37JDScSL8M9XgxL2qINZqT) | 2:51 |
+| 16 | [Velvet Sand](https://open.spotify.com/track/6NpYIWLXwpktlYLszUvM3N) | [Anton Vega](https://open.spotify.com/artist/7H15xwuYNLQKF74GgsYfw7) | [Velvet Sand](https://open.spotify.com/album/2HQ6HwxInVsuXsDK9SKTfm) | 2:47 |
+| 17 | [Regarde les flammes danser](https://open.spotify.com/track/3FiarvAUxKc8N5uMT8yFKi) | [Leo Nocta](https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI) | [Regarde les flammes danser](https://open.spotify.com/album/1aFkM7ohLd3j6LmvMqgNQV) | 2:11 |
+| 18 | [Echoes in a Hollow Sky](https://open.spotify.com/track/6LLTMjixSywlvh1dNhdlfz) | [Enigmatic Horizons](https://open.spotify.com/artist/7lxOloHmE3ZvWzfIitB4Xc) | [Echoes in a Hollow Sky](https://open.spotify.com/album/69kGsQFJ47ZnvRxIEXReIi) | 2:22 |
 | 19 | [Rhodonite](https://open.spotify.com/track/1d12NcFHsjUTkdms3r3xxq) | [alsterdalen](https://open.spotify.com/artist/685rsCKdiUjx2eOyLlHd06) | [Rhodonite](https://open.spotify.com/album/0Uz6QiIIOBBmLuo5UQil8j) | 2:09 |
 | 20 | [valse de la fille](https://open.spotify.com/track/7fxJDIIC14LZjmbtRr4lsM) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [valse de la fille](https://open.spotify.com/album/7joqEdM1MFBHHja8R2sV6Q) | 2:34 |
-| 21 | [Autumn](https://open.spotify.com/track/1xe1wWVugI7TiMcWJ9UZGX) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Autumn](https://open.spotify.com/album/6uRpVcUuIyLvp4ajEkrySG) | 2:26 |
-| 22 | [the girl in white](https://open.spotify.com/track/013G9Rc4F99RaHINNGWy9f) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [the girl in white](https://open.spotify.com/album/6xutuCujhp11K26MQUT3qc) | 2:37 |
-| 23 | [Soar](https://open.spotify.com/track/510zxCdlRrbJ1w2iSLnHrR) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Soar](https://open.spotify.com/album/7Mpo6kNCqKZ3MRd3IfGtAW) | 2:13 |
-| 24 | [A Place I Remember](https://open.spotify.com/track/66UHilCTnnislzdh2L9MQo) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [A Place I Remember](https://open.spotify.com/album/1RfGFxOIvY8xYf3wcRltoe) | 2:52 |
-| 25 | [Some Days](https://open.spotify.com/track/09MDv5VZfZfJmtM9U2Y3rr) | [Aurelian Juno](https://open.spotify.com/artist/0clWZsJkYSrFdmUkQygfiQ) | [Some Days](https://open.spotify.com/album/4FYxgZLbAWVAdm1GP6wEU6) | 2:07 |
-| 26 | [Dream Currents](https://open.spotify.com/track/1ojiIYfLCTbwPU5Iw5eGKx) | [Enigmatic Horizons](https://open.spotify.com/artist/7lxOloHmE3ZvWzfIitB4Xc) | [Dream Currents](https://open.spotify.com/album/52oI8gPpTN0njgd3m1cip8) | 2:18 |
-| 27 | [Silent Garden](https://open.spotify.com/track/189qwuSxX6gpsZVkIDfxUV) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Silent Garden](https://open.spotify.com/album/50SOQ3qzKnbgbDDjwOGNz4) | 2:51 |
-| 28 | [Ogni Cosa](https://open.spotify.com/track/0kWnDjwAZiJgPWn3CI6J2B) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Ogni Cosa](https://open.spotify.com/album/4N4MPEeDi96fE1yO1Eo7cU) | 2:19 |
+| 21 | [Planity](https://open.spotify.com/track/0fWHmVCprYHID87ETym6Kk) | [Andrew Mays](https://open.spotify.com/artist/5kKg8zR0hqhwZoaGvsw13I) | [Planity](https://open.spotify.com/album/5Jdh57PPMUQkm5TTUGpSuN) | 2:34 |
+| 22 | [Autumn](https://open.spotify.com/track/1xe1wWVugI7TiMcWJ9UZGX) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Autumn](https://open.spotify.com/album/6uRpVcUuIyLvp4ajEkrySG) | 2:26 |
+| 23 | [A Place I Remember](https://open.spotify.com/track/66UHilCTnnislzdh2L9MQo) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [A Place I Remember](https://open.spotify.com/album/1RfGFxOIvY8xYf3wcRltoe) | 2:52 |
+| 24 | [Some Days](https://open.spotify.com/track/09MDv5VZfZfJmtM9U2Y3rr) | [Aurelian Juno](https://open.spotify.com/artist/0clWZsJkYSrFdmUkQygfiQ) | [Some Days](https://open.spotify.com/album/4FYxgZLbAWVAdm1GP6wEU6) | 2:07 |
+| 25 | [Dream Currents](https://open.spotify.com/track/1ojiIYfLCTbwPU5Iw5eGKx) | [Enigmatic Horizons](https://open.spotify.com/artist/7lxOloHmE3ZvWzfIitB4Xc) | [Dream Currents](https://open.spotify.com/album/52oI8gPpTN0njgd3m1cip8) | 2:18 |
+| 26 | [the girl in white](https://open.spotify.com/track/013G9Rc4F99RaHINNGWy9f) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [the girl in white](https://open.spotify.com/album/6xutuCujhp11K26MQUT3qc) | 2:37 |
+| 27 | [Ogni Cosa](https://open.spotify.com/track/0kWnDjwAZiJgPWn3CI6J2B) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Ogni Cosa](https://open.spotify.com/album/4N4MPEeDi96fE1yO1Eo7cU) | 2:19 |
+| 28 | [Silent Garden](https://open.spotify.com/track/189qwuSxX6gpsZVkIDfxUV) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Silent Garden](https://open.spotify.com/album/50SOQ3qzKnbgbDDjwOGNz4) | 2:51 |
 | 29 | [Through Twining Roses](https://open.spotify.com/track/2d8Rn8vFj1bQVpaUEU9g5t) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Through Twining Roses](https://open.spotify.com/album/3ZCcYZo5rAu903w1RCzVg1) | 2:24 |
 | 30 | [The Lights Around the Shore](https://open.spotify.com/track/1jrfP4XxY3NWBqRJy6sFt7) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [The Lights Around the Shore](https://open.spotify.com/album/3pWNJJc1R4M1OGArzIxqc6) | 2:51 |
 | 31 | [Lost in Motion](https://open.spotify.com/track/2QGLeDJPGvdu9wZgyYOxHx) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Lost in Motion](https://open.spotify.com/album/2gRYWqDlxWKCDcHFO0jMCf) | 3:12 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 163 | [Satnam](https://open.spotify.com/track/3jc3XuSYXCSxjnQBx9gP1z) | [Nathaniel Keys](https://open.spotify.com/artist/1hwg5trEAbDiMWVaV0jhpq) | [Satnam](https://open.spotify.com/album/4MZPC36fdwtJlnvFdI5H64) | 2:14 |
 | 164 | [Salt and Skin](https://open.spotify.com/track/5tAEj5pI81x8l7atVQaxlx) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Salt and Skin](https://open.spotify.com/album/0xY1k0w6KPxGg4Cg9CgSbn) | 2:57 |
 
-Snapshot ID: `AAAAAAmP8iY8Ox4B/Z2iVH+Ay2To4LRj`
+Snapshot ID: `AAAAAM9OLHjQMGcyJhYAnXmEz8Ws7Ckd`

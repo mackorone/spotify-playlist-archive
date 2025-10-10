@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bpwNqqnXy03LKurD9wRpw.md) - [plain]
 
 > a collation of music recommendations from at random.
 
-[Jess Green](https://open.spotify.com/user/1231146893) - 1 like - 36 songs - 1 hr 59 min
+[Jess Green](https://open.spotify.com/user/1231146893) - 1 like - 45 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,5 +44,14 @@ pretty - [cumulative](/playlists/cumulative/4bpwNqqnXy03LKurD9wRpw.md) - [plain]
 | 34 | [Late To The Party](https://open.spotify.com/track/0E5ZrgbRKXwGvNhwzRaDGL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 3:37 |
 | 35 | [Good Ol' Boys Club](https://open.spotify.com/track/4CHyDw5J56I0x40MFk5f2V) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 3:16 |
 | 36 | [June](https://open.spotify.com/track/33BXt3dAjvv1g2Hxis1Gmi) | [Maddy Jane](https://open.spotify.com/artist/2AfPuLc1ygdhTlx0kzUInH) | [Clear As Mud Pt\. 1](https://open.spotify.com/album/6LFh2pccvitVcClotz5BpO) | 3:38 |
+| 37 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 |
+| 38 | [Father Figure](https://open.spotify.com/track/03bTIHJElXZ0O0jqOQvAbY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:32 |
+| 39 | [CANCELLED!](https://open.spotify.com/track/7ucwzQQ7EF8Gx7MzJmUm9X) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:31 |
+| 40 | [Silver Jubilee](https://open.spotify.com/track/5KjJYrM3UXmvhqtQntrsJM) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Who's the Clown?](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP) | 2:58 |
+| 41 | [Doll House](https://open.spotify.com/track/6U8ckPIrR0xi2a4BdtHDJk) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [I Miss You Already + I Haven’t Left Yet](https://open.spotify.com/album/6iXKJVVucUkEKFiGDqyPgM) | 3:11 |
+| 42 | [Thirst Trap](https://open.spotify.com/track/0xiySkh9JAa1f3r6MdBUa3) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Who's the Clown?](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP) | 3:05 |
+| 43 | [Vampire Bat](https://open.spotify.com/track/4rLyT7uQtWQRtGShwTaUju) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Vampire Bat](https://open.spotify.com/album/0Dfpaar3pZDMBM4xwZhCfC) | 3:26 |
+| 44 | [Coping on Unemployment](https://open.spotify.com/track/309w1DzkiUE7aw7wVHWgRT) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [I Miss You Already + I Haven’t Left Yet](https://open.spotify.com/album/6iXKJVVucUkEKFiGDqyPgM) | 3:48 |
+| 45 | [Pretty Face](https://open.spotify.com/track/1j63nUGlWYJ3AgqmMxV6We) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [Pretty Face](https://open.spotify.com/album/69PgCa1Sx10Rik6EpQ7rRn) | 2:04 |
 
-Snapshot ID: `AAAAKnx+G86F4MyC2EMETs0VFuGbMWBG`
+Snapshot ID: `AAAAMwSJk5OIsx9yc5NELqKayLLOz5oS`

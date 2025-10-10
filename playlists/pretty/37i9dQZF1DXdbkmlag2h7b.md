@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 
 > Drift away with enthralling instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 670,455 likes - 296 songs - 15 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,507 likes - 296 songs - 15 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 64 | [Fireflies](https://open.spotify.com/track/3atAfR4aXUyhTaO387Uemj) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Fireflies](https://open.spotify.com/album/4BgQbbSfFkKQhcwtZnrx47) | 3:22 |
 | 65 | [tenderly, drift](https://open.spotify.com/track/09SMj0grG0RUs88sUPG30J) | [pkwy.](https://open.spotify.com/artist/7JeUbmzK5mOEkmEGlNKRaP) | [tenderly, drift](https://open.spotify.com/album/4nX105tIAjAjlWknMFmDjw) | 2:42 |
 | 66 | [Phosphorescence](https://open.spotify.com/track/63EzT71FaD7ALirK6ARuEb) | [Vandenberg](https://open.spotify.com/artist/5YCtylTmw5A39uy1jP36Wi) | [Phosphorescence](https://open.spotify.com/album/74CMZjkVt4VKAOy1hbIF6j) | 2:48 |
-| 67 | [Divination](https://open.spotify.com/track/1zL2VLTGJ2Bg5YhVMfvqWt) | [Outside The Sky](https://open.spotify.com/artist/6okFCDgsEWB0ifms7O439e) | [Ground](https://open.spotify.com/album/2JE4P8PL9rUMQUiLAsNxFq) | 2:39 |
+| 67 | [Divination](https://open.spotify.com/track/1zL2VLTGJ2Bg5YhVMfvqWt) | [Outside The Sky](https://open.spotify.com/artist/0YQ0arFA21qL1FactLyY81) | [Ground](https://open.spotify.com/album/2JE4P8PL9rUMQUiLAsNxFq) | 2:39 |
 | 68 | [Deep Dive](https://open.spotify.com/track/42lbNxt4QZtzjKiizNIVnT) | [dream index](https://open.spotify.com/artist/4qQhnABlGWb6DvXyTI4bTN) | [Deep Dive](https://open.spotify.com/album/3deB4HKjUokWqBYtNVsfgV) | 3:21 |
 | 69 | [The Deep Dive In](https://open.spotify.com/track/1GApISdY1RIPkkIkRrFgNa) | [Medtones](https://open.spotify.com/artist/1xLbxyLWA6auvv57HsNFSL) | [The Deep Dive In](https://open.spotify.com/album/0LZ62ayPdeMg6evhUoi9F4) | 2:13 |
 | 70 | [Aesthetic](https://open.spotify.com/track/489kK72xMOAtku516X7A17) | [Abstract Time](https://open.spotify.com/artist/7HNpdpSzEr0e88c60UTUEJ) | [Aesthetic](https://open.spotify.com/album/0GrJszbzwHF9pcIGJ2uNVq) | 2:43 |
@@ -305,4 +305,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 295 | [ethereal tides](https://open.spotify.com/track/2tJonjSMnRd4Y1UKCRGik2) | [Oceanic Voices](https://open.spotify.com/artist/7o32uxPankXm8auPdLuXE2) | [ethereal tides](https://open.spotify.com/album/1sJYkODfpAonEcpsADQ9pC) | 2:48 |
 | 296 | [Harmonic Stillness](https://open.spotify.com/track/2y6g1EwBKPFhPyFo7HNvu1) | [Galaxies Stories](https://open.spotify.com/artist/0JgZLyaQxG308bo8e7QpY4) | [Harmonic Stillness](https://open.spotify.com/album/4r1O8cwvRLPZBcNPXMdGvK) | 3:18 |
 
-Snapshot ID: `AAAAAOg+V1Wdjn/HEc+Hs8u15nvhdckh`
+Snapshot ID: `AAAAAFjVj7xNurl11VuGqQUDZfHWZfrH`

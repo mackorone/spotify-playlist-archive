@@ -805,6 +805,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "Life on Planets",
+          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211262,
+      "name": "BE REAL (Feat. Life on Planets)",
+      "url": "https://open.spotify.com/track/0qJvLgSgaET429BhotCqVU"
+    },
+    {
+      "album": {
         "name": "Be Thankful For What You\u2019ve Got",
         "url": "https://open.spotify.com/album/1hrfBmXwtZo4X82uEayn3M"
       },
@@ -1991,6 +2013,32 @@
     },
     {
       "album": {
+        "name": "Disbelief",
+        "url": "https://open.spotify.com/album/6j8kW1zz6MSDegZLUCiGrx"
+      },
+      "artists": [
+        {
+          "name": "S\u00e4m Wilder",
+          "url": "https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B"
+        },
+        {
+          "name": "Felix Hien",
+          "url": "https://open.spotify.com/artist/5pHGZpAY7Pm0EBDnBJtoZQ"
+        },
+        {
+          "name": "Flo Naegeli",
+          "url": "https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144704,
+      "name": "Disbelief",
+      "url": "https://open.spotify.com/track/71kE2ucszjiDf9autD0DgP"
+    },
+    {
+      "album": {
         "name": "Dream State",
         "url": "https://open.spotify.com/album/43nVY2OnjsaYqvBcHLVDQN"
       },
@@ -2076,6 +2124,28 @@
       "duration_ms": 202075,
       "name": "Down This Path",
       "url": "https://open.spotify.com/track/0lpVYjvv6KxqIK2tzjxURU"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "Liv East",
+          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146304,
+      "name": "Dreams (Feat. Liv East)",
+      "url": "https://open.spotify.com/track/493yCzySuxjGgmPF8OxOvq"
     },
     {
       "album": {
@@ -6464,7 +6534,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 221512,
       "name": "REARRANGE YOURSELF",
       "url": "https://open.spotify.com/track/3DUf1zmIEzJ71RVKCCOZWb"

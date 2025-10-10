@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "About Us",
+        "url": "https://open.spotify.com/album/11TkaFcpWOGGf2rYuXbspT"
+      },
+      "artists": [
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177773,
+      "name": "About Us (with Qing Madi)",
+      "url": "https://open.spotify.com/track/4azm407NNKTVQpXFTk3v0h"
+    },
+    {
+      "album": {
         "name": "Achalugo",
         "url": "https://open.spotify.com/album/6MmsSYwvywyP3PXSVkP151"
       },
@@ -114,7 +136,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 150857,
       "name": "Agility",
       "url": "https://open.spotify.com/track/1aMdNvjmLwPQTA97oflMaF"
@@ -713,6 +735,24 @@
     },
     {
       "album": {
+        "name": "DM",
+        "url": "https://open.spotify.com/album/79SJ6Ra8TlNkd8fGg9LrYs"
+      },
+      "artists": [
+        {
+          "name": "Alyn Sano",
+          "url": "https://open.spotify.com/artist/50gwKjtNROFV1X4csPwtPS"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169022,
+      "name": "DM",
+      "url": "https://open.spotify.com/track/3q4XTAawPSjXIWAKacXpiX"
+    },
+    {
+      "album": {
         "name": "Do You Believe in Love",
         "url": "https://open.spotify.com/album/2Eir0sQGTk9nO7gKx9UAIA"
       },
@@ -768,6 +808,24 @@
       "duration_ms": 166938,
       "name": "Drop",
       "url": "https://open.spotify.com/track/5N4LYi3DEp5dbrJMeQ9ulF"
+    },
+    {
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/1X185nkaY8xM5a3Aw3APRS"
+      },
+      "artists": [
+        {
+          "name": "Cyani",
+          "url": "https://open.spotify.com/artist/0mz6ypuN2JQnnlQCoxzG3S"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169666,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/5JHXByNnfsen3l7tTMvyWK"
     },
     {
       "album": {
@@ -870,7 +928,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 152523,
       "name": "Feel Your Soul",
       "url": "https://open.spotify.com/track/6l70v6PAM2O99OBmcakjH1"
@@ -982,7 +1040,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 153473,
       "name": "From Softie to You (Dey There)",
       "url": "https://open.spotify.com/track/0900x6zcJZ93gRi11xutc7"
@@ -2907,6 +2965,24 @@
     },
     {
       "album": {
+        "name": "Some More",
+        "url": "https://open.spotify.com/album/6hpBTb0X11p3Tp3hVtf09C"
+      },
+      "artists": [
+        {
+          "name": "T\u00d6ME",
+          "url": "https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122474,
+      "name": "Some More",
+      "url": "https://open.spotify.com/track/7qZOtiN7oiDpKqEVW7szZc"
+    },
+    {
+      "album": {
         "name": "Sonfo",
         "url": "https://open.spotify.com/album/0nZYkn0faXzsBY5JnwN4Mu"
       },
@@ -3414,7 +3490,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 124363,
       "name": "Your Number",
       "url": "https://open.spotify.com/track/63iWu3MNvYmzHbd1gaIoFL"

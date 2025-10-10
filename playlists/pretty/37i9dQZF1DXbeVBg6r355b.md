@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbeVBg6r355b.md) - [plain]
 
 > Sleep deeper with soft and seamless white noise
 
-[Spotify](https://open.spotify.com/user/spotify) - 330 likes - 73 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 360 likes - 73 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbeVBg6r355b.md) - [plain]
 | 72 | [White Dunes](https://open.spotify.com/track/6nNxwzXq3sOUGiwJcRCPHh) | [Zenith Blum](https://open.spotify.com/artist/19nqIYLTc8AEksStzy4kpb) | [White Dunes](https://open.spotify.com/album/2yWD91Kl2tXZUuEmcCb3yO) | 2:23 |
 | 73 | [Sleep Miracle](https://open.spotify.com/track/1Z1Gb8CdPzokH1k2toeMlP) | [Deepnoum](https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi) | [Newborn White Noise Sleep](https://open.spotify.com/album/2P7bEn1nhweHHfriPuPtWq) | 2:49 |
 
-Snapshot ID: `AAAAAAexxzDqnWZBmiFrUxgMOGuA4YtO`
+Snapshot ID: `AAAAADf3l8Naxp1tJ6ZFKS0aKsjnoEEA`

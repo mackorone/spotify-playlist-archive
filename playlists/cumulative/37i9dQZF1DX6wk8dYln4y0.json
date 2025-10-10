@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "music that just *hits different* Cover: aleksiah",
+  "description": "music that just *hits different* Cover: Lyric",
   "name": "*hits different*",
   "tracks": [
     {
@@ -370,6 +370,24 @@
       "duration_ms": 265360,
       "name": "Agora Hills",
       "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
+    },
+    {
+      "album": {
+        "name": "All That's Left",
+        "url": "https://open.spotify.com/album/0b7WViW62y6pySZZSi1nsj"
+      },
+      "artists": [
+        {
+          "name": "Benny Morrell",
+          "url": "https://open.spotify.com/artist/1s4B6fb9iNflnlOFKIn5q9"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237328,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/0085KUYroII3QIrtquKKTt"
     },
     {
       "album": {
@@ -5686,7 +5704,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 223080,
       "name": "Last Forever",
       "url": "https://open.spotify.com/track/18YaxBAxzZmCkgZsZk9D6C"

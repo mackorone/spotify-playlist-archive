@@ -6651,6 +6651,36 @@
     },
     {
       "album": {
+        "name": "Willow Weep For Me",
+        "url": "https://open.spotify.com/album/6EMUS8cHPs58AtQkQMgrqT"
+      },
+      "artists": [
+        {
+          "name": "Liila Sival",
+          "url": "https://open.spotify.com/artist/1Ww7HqtDRPmLPqcFCnv5Dm"
+        },
+        {
+          "name": "Mikko Antila",
+          "url": "https://open.spotify.com/artist/1RbPwTzwwELaiSzE9ZjVpF"
+        },
+        {
+          "name": "Nathan Francis",
+          "url": "https://open.spotify.com/artist/4dB51YWbPAWssQkEe9DiUc"
+        },
+        {
+          "name": "Okko Saastamoinen",
+          "url": "https://open.spotify.com/artist/3QSSa0viaOyPtJqIby1wMz"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 564413,
+      "name": "Willow Weep For Me",
+      "url": "https://open.spotify.com/track/2vFxFgSZRuA9pkSGLHfgNu"
+    },
+    {
+      "album": {
         "name": "Wilson",
         "url": "https://open.spotify.com/album/6Y0TefAiE6FaPNlWifCPLG"
       },

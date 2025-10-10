@@ -4,7 +4,7 @@
 
 > Lekker  eten en lang natafelen? Daar hoort muziek bij.
 
-138 songs - 7 hr 53 min
+141 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Be Like That \- feat\. Swae Lee & Khalid](https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Be Like That \(feat\. Swae Lee & Khalid\)](https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp) | 3:11 | 2025-07-16 | 2025-09-16 |
 | [Before It Might Be Gone](https://open.spotify.com/track/4QqixSXWSTWq1rC5DzCz92) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Before It Might Be Gone](https://open.spotify.com/album/3EVICWZusdGvnKGYkY9AGM) | 4:56 | 2025-07-16 |  |
 | [Before The Fall](https://open.spotify.com/track/5owEr2eggGLBM6WJZpvtUw) | [Will Eason](https://open.spotify.com/artist/0mXr7zTlXU4FgOoiOHbQHs) | [Before The Fall](https://open.spotify.com/album/3E1kQ5VchLXebXf0csHZgR) | 3:24 | 2025-07-16 |  |
-| [Before You \- Acoustic](https://open.spotify.com/track/7IZUlRINfs6ggjYVW5ZZ1K) | [MADOUX](https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ) | [Before You \(Acoustic\)](https://open.spotify.com/album/2h7DUSd7QzAsb6BYulrEAj) | 2:40 | 2025-07-16 |  |
+| [Before You \- Acoustic](https://open.spotify.com/track/7IZUlRINfs6ggjYVW5ZZ1K) | [MADOUX](https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ) | [Before You \(Acoustic\)](https://open.spotify.com/album/2h7DUSd7QzAsb6BYulrEAj) | 2:40 | 2025-07-16 | 2025-10-10 |
 | [Better Than Me](https://open.spotify.com/track/1t4KSsNCzrOT06Jm6aHuMA) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [More Moore Mixtape](https://open.spotify.com/album/5VxtlaenHlQoRl4tQDq7Av) | 3:45 | 2025-07-16 | 2025-09-16 |
 | [Black Magic](https://open.spotify.com/track/6atKugO0itgKT1S6Ty13XO) | [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn) | [Cosmic Gold](https://open.spotify.com/album/57nFnn7qbMP2TD72wZuMBH) | 4:54 | 2025-07-16 |  |
 | [Brand New Shoes](https://open.spotify.com/track/1aFglbwd4QJvUki3PGvKez) | [Tristan](https://open.spotify.com/artist/7nFR3t1IkpicWdA5Dg7mev) | [Frou\-Frou](https://open.spotify.com/album/59uzeboKsP7t8MA7EnMPhe) | 3:42 | 2025-07-16 |  |
@@ -53,6 +53,7 @@
 | [Hard Times](https://open.spotify.com/track/1g5wpr9Q32hIjWs7ZpADQD) | [Cookhouse](https://open.spotify.com/artist/2WgdUdSR8xudGOXLzSMJ4g) | [Hard Times](https://open.spotify.com/album/5asmEKZBkydwiCuyvkXsVu) | 3:23 | 2025-07-16 | 2025-09-19 |
 | [Heard a Voice](https://open.spotify.com/track/6KCHw7Hbkuo043ZyCNIaFQ) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Ash & Stone](https://open.spotify.com/album/7ffFxuWnm5TAnLyG6RPOZJ) | 3:11 | 2025-07-16 | 2025-10-03 |
 | [Hero](https://open.spotify.com/track/4GSIloqu2wEqZkZGYOWsTC) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Hero](https://open.spotify.com/album/1rES1wW8xvN6QFElSGe57u) | 3:15 | 2025-07-16 | 2025-09-16 |
+| [Hold Me Down](https://open.spotify.com/track/5ie7dJwncl3i9MpEx8n2nc) | [Bywater Call](https://open.spotify.com/artist/1bhk3AmtYKQAcDzbDyWG4M) | [Hold Me Down](https://open.spotify.com/album/0rp1QW9jPSMKcpFhpG5Db6) | 3:20 | 2025-10-09 |  |
 | [Honey \- Single Version](https://open.spotify.com/track/7JplJCCUuo2o6emhE3f3SK) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Honey](https://open.spotify.com/album/2tgMULeDaymA173kWVgCZS) | 3:15 | 2025-07-16 |  |
 | [How Does It Feel](https://open.spotify.com/track/5uGGSdXz791jTxkUJUZ7M1) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [How Does It Feel](https://open.spotify.com/album/4yC8BBuXd9faD7Ln1FB3mt) | 3:24 | 2025-07-16 |  |
 | [I GØT HOME](https://open.spotify.com/track/5VxqabAotndQmMTlsWrNS7) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [I GØT HOME](https://open.spotify.com/album/1i9dFWQahF4K6IbUCopjFS) | 2:16 | 2025-07-16 |  |
@@ -117,6 +118,7 @@
 | [Sorry](https://open.spotify.com/track/02KWhwsDjIX8ZXgBgK9kOP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:17 | 2025-10-02 |  |
 | [Starlight](https://open.spotify.com/track/6wq0YV1Mv8ybQi8FyZcHN7) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Starlight](https://open.spotify.com/album/5dsUxFUcEdxgmIyaxYo0Ax) | 4:02 | 2025-07-16 | 2025-09-19 |
 | [Still In Love](https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Still In Love](https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS) | 2:41 | 2025-07-16 |  |
+| [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 | 2025-10-09 |  |
 | [Sweet Serotonin](https://open.spotify.com/track/5pzCNVV0gcW92gF73DmhOa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Sweet Serotonin](https://open.spotify.com/album/1aPQaSLNNPbMOJ6ur6hHgK) | 3:01 | 2025-07-16 |  |
 | [table for two](https://open.spotify.com/track/7uPNrO1N618IXIonSOCR3k) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [table for two](https://open.spotify.com/album/6PHCuBiD1V436z80hD4lgL) | 1:51 | 2025-07-16 |  |
 | [THAT'S ME](https://open.spotify.com/track/2L4dnISU0gy01KxBbe6svq) | [Säm Wilder](https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B) | [THAT'S ME](https://open.spotify.com/album/41WsmNozAC04cSw2dUM9uJ) | 2:50 | 2025-07-16 |  |
@@ -124,6 +126,7 @@
 | [The Hardest Part](https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Hardest Part](https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA) | 2:56 | 2025-07-16 | 2025-10-01 |
 | [The Way](https://open.spotify.com/track/0qsbY9Jx0uqIs4QxhX0pLd) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [The Way](https://open.spotify.com/album/0SdP6YpDHTyVlSjkgBQJvZ) | 3:01 | 2025-07-16 |  |
 | [The Way](https://open.spotify.com/track/7oHXs1fPp1oRHsmMZ2uGk7) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [The Way](https://open.spotify.com/album/0vUSt4xH41aj4mzNLUqZFr) | 3:38 | 2025-07-16 |  |
+| [The Weatherman](https://open.spotify.com/track/1mt0m2cxR2LoJcrdElqVQq) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [The Weatherman](https://open.spotify.com/album/3a0PORSoyMPnUYKhC2SsFm) | 3:30 | 2025-10-09 |  |
 | [Think I'm In Love With You \(With Dua Lipa\) \(Live From The 59th ACM Awards\)](https://open.spotify.com/track/69zgu5rlAie3IPZOEXLxyS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Think I'm In Love With You \(With Dua Lipa\) \(Live From The 59th ACM Awards\)](https://open.spotify.com/album/3pjMBXbDLg2oGL7HtVxWgY) | 4:37 | 2025-07-16 |  |
 | [This One's On The House](https://open.spotify.com/track/0rtgKV8GI1SBTDhBxh2jkg) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [This One's On The House](https://open.spotify.com/album/5BsfvWMM9xq24X92OwOhNX) | 3:37 | 2025-07-16 |  |
 | [Through The Echoes](https://open.spotify.com/track/11mmSxrDMiOV1nGakvDoOq) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Shine A Light](https://open.spotify.com/album/7b6ghBEIH75YC11a9bNQzA) | 3:41 | 2025-07-16 |  |
@@ -137,8 +140,8 @@
 | [Weekend](https://open.spotify.com/track/5SBoHnZ0j3296tXHaKJs8R) | [TOINE](https://open.spotify.com/artist/1UKhHMifOzxgAaoQvJW7no) | [Weekend](https://open.spotify.com/album/71ZoUX1iozJo0CFtKZukFZ) | 3:26 | 2025-07-16 |  |
 | [Weight Of The World](https://open.spotify.com/track/5WOgCrRiW2V8UFGSEp6FtV) | [Stefan Sands](https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv) | [Weight Of The World](https://open.spotify.com/album/34fLSJJY16m1cby2F5hQm9) | 3:32 | 2025-07-16 |  |
 | [Weird World](https://open.spotify.com/track/0XTUrI9WdGrsj22ZE7i2a8) | [Stefan Sands](https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv) | [Weird World](https://open.spotify.com/album/4WTsAOgJhbRKSUc8LbmWkF) | 3:28 | 2025-07-16 |  |
-| [What Do You Believe In? \- Acoustic](https://open.spotify.com/track/6lHxTSPaWZy7fIQQ5r9QlU) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [What Do You Believe In? \(Acoustic\)](https://open.spotify.com/album/27m7ht0g0U5uep16bOyAtI) | 3:08 | 2025-07-16 |  |
-| [What Makes A King](https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [What Makes A King](https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK) | 2:48 | 2025-07-16 |  |
+| [What Do You Believe In? \- Acoustic](https://open.spotify.com/track/6lHxTSPaWZy7fIQQ5r9QlU) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [What Do You Believe In? \(Acoustic\)](https://open.spotify.com/album/27m7ht0g0U5uep16bOyAtI) | 3:08 | 2025-07-16 | 2025-10-10 |
+| [What Makes A King](https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [What Makes A King](https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK) | 2:48 | 2025-07-16 | 2025-10-10 |
 | [Where/When](https://open.spotify.com/track/44J2PcpgCePXPB13CUsitY) | [Noonzy](https://open.spotify.com/artist/6dfDwONzmFyAlH27BUuiqJ) | [Where/When](https://open.spotify.com/album/2v2XQa8yperg0wnP4TYHNv) | 2:56 | 2025-07-16 |  |
 | [White Gold](https://open.spotify.com/track/1xcRp6hYnL53V9qYv42uia) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [White Gold](https://open.spotify.com/album/2ZZpn5kiOjcDigcgthY4WQ) | 4:18 | 2025-07-16 |  |
 | [Wide Awake & Dreaming \- Stripped Duet](https://open.spotify.com/track/3ndUqqoVEMQHOlh4sRiXyN) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq), [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Honeymoon Phase / Wide Awake & Dreaming](https://open.spotify.com/album/38k7lGHmy8LyVpkXLVnZSj) | 3:15 | 2025-07-16 | 2025-10-02 |

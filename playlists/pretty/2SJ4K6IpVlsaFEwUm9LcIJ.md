@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,426 likes - 59 songs - 3 hr 20 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,429 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,5 +67,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 57 | [2357 A.D.](https://open.spotify.com/track/6zyZk3KUtCjrQSbNkOaAtl) | [Space Dimension Controller](https://open.spotify.com/artist/7rZjYMRC5pTV089WKn1Y4s) | [Welcome to Mikrosector\-50](https://open.spotify.com/album/5hhiFP1t4UhkI0JL397ogf) | 2:36 |
 | 58 | [What It Is \- Music](https://open.spotify.com/track/6P50WCsy2TcGC3LUOlH8qD) | [Fred P](https://open.spotify.com/artist/4qgais7fd2CQHtwbpCC4Dz), [J Kahila](https://open.spotify.com/artist/25BIZh7HxD9Hh50VAynYNI) | [The Incredible Adventures of Captain P](https://open.spotify.com/album/5MnsaNgHwIszw2X6eswrYE) | 4:50 |
 | 59 | [21 insecurities](https://open.spotify.com/track/7dVmclFw8bSqjBfwZANhFp) | [500](https://open.spotify.com/artist/1KN20bvE2G6dx9A0bUQayu) | [21 insecurities](https://open.spotify.com/album/5K7mmZFVJciov84zg1Ovsl) | 3:05 |
+| 60 | [When Debbie's Back From Texas](https://open.spotify.com/track/0gHTUeFmeb0k2led76eJHn) | [Stina Nordenstam](https://open.spotify.com/artist/7gPBpCNPTXfU4B6GJ17CwL) | [And She Closed Her Eyes](https://open.spotify.com/album/13afX31wQfHT87BjRUFjU1) | 4:08 |
 
-Snapshot ID: `AAANQBa3yMX9upo3q6pnXaRTRD8Vn48W`
+Snapshot ID: `AAANQZbtgCnwsgDxdlRD+YztURqnbO0j`

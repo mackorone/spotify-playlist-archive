@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: VLOSPA, Dof Twogee
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,208 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,203 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 49 | [ALITIES](https://open.spotify.com/track/57dMRvQeSDsZXdoHGGCCfO) | [Angelina](https://open.spotify.com/artist/3AuKpTBn0Ce09mVVhjCEEW), [YungKapa](https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG) | [ALITIES](https://open.spotify.com/album/24l91Mmd6zJofmmQli0l03) | 2:45 |
 | 50 | [Provlimata](https://open.spotify.com/track/0SwDKWxXKHKGSKXrLtA0xH) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Oneiropolos](https://open.spotify.com/album/4aWRnOdlk1K83Bf4uDf2u2) | 2:24 |
 
-Snapshot ID: `AAAAAMVAJdma9GoMKW9J6kI619kJbYdD`
+Snapshot ID: `AAAAAJKOo5Jj798L8VLrM4K9OnTwPm8b`

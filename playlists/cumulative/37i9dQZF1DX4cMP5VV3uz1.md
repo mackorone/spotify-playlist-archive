@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-506 songs - 1 day 5 hr 18 min
+507 songs - 1 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Closer](https://open.spotify.com/track/6fQ28z72LSK7zPxu2giy7q) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [Closer](https://open.spotify.com/album/3RgzJTmaUnzkUG0piagj7N) | 4:26 | 2025-10-02 |  |
 | [Cluster](https://open.spotify.com/track/47sojOFHCWJuDCDj3MFGnc) | [Tantrum Desire](https://open.spotify.com/artist/7HBMCyflAmijk08T1si9wS) | [Cluster](https://open.spotify.com/album/5X9rtUQlk7f04F9dsra2el) | 4:09 | 2024-03-01 | 2024-09-20 |
 | [Coast 2 Coast ft\. Flowdan](https://open.spotify.com/track/02Y5z5UbRPqpXiLHfDRzeK) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Coast 2 Coast ft\. Flowdan](https://open.spotify.com/album/2WCcmD70ox8MIQwh7k5Qgu) | 2:54 | 2025-07-25 |  |
+| [Come With It](https://open.spotify.com/track/5molMz6TA3virLoLO8Hzn2) | [Selecta J\-Man](https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP) | [Come With It](https://open.spotify.com/album/0xwUWz3tDMxaWHvQXIphvy) | 3:20 | 2025-10-09 |  |
 | [CONTEXT](https://open.spotify.com/track/209naSvFNpkDmJGZ8pVoZ5) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [CONTEXT](https://open.spotify.com/album/38gQnVVwncSqxJ4msdAvwy) | 2:17 | 2024-06-27 | 2025-02-13 |
 | [Control](https://open.spotify.com/track/0tjk8L9aFCsH9BlkVAixct) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Control](https://open.spotify.com/album/1ygUJq7xxvjmEs56MY5Hjl) | 2:55 | 2024-10-03 | 2024-11-17 |
 | [Counting \- Sammy Virji Remix](https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Counting \(Sammy Virji Remix\)](https://open.spotify.com/album/2xgQT3uMk4sAalIAEsVG8n) | 3:34 | 2024-02-23 | 2024-09-06 |
@@ -265,7 +266,7 @@
 | [Lumberjackin' \- Vocal Mix](https://open.spotify.com/track/2rrQ5uFbqOpJ1dYFfiV30G) | [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m), [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM) | [VIP](https://open.spotify.com/album/0y0rbZ1pjtN3Q9YFA9d7ty) | 4:00 | 2022-09-30 | 2024-02-23 |
 | [Mad Ting](https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [Mad Ting](https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg) | 3:14 | 2024-07-25 | 2025-05-09 |
 | [Maia Maia](https://open.spotify.com/track/2DCAWhnusZQoxC7BffLjGY) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE) | [Maia Maia](https://open.spotify.com/album/4NmtnN6kK5IMgxzUILmZiu) | 3:01 | 2025-10-02 |  |
-| [Make It Drop](https://open.spotify.com/track/2RyQYVS5q4LXCNAYOS58Hy) | [Diagnostix](https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5) | [Make It Drop](https://open.spotify.com/album/6NRITaN28sXFMgdH9ffpZj) | 3:18 | 2025-07-03 |  |
+| [Make It Drop](https://open.spotify.com/track/2RyQYVS5q4LXCNAYOS58Hy) | [Diagnostix](https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5) | [Make It Drop](https://open.spotify.com/album/6NRITaN28sXFMgdH9ffpZj) | 3:18 | 2025-07-03 | 2025-10-10 |
 | [Manic Miner](https://open.spotify.com/track/1BInUSYRSism3j1mZfTpvT) | [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m) | [Serum's Gaff: Part 2](https://open.spotify.com/album/1Fhe8fyScfP8NMkxoTkX0a) | 4:21 | 2024-10-18 | 2024-11-22 |
 | [Mash up the Dance \- Kings of the Rollers Remix](https://open.spotify.com/track/3S95GLyxH7gcMjExPVAjxq) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Mash up the Dance \(Kings of the Rollers Remix\)](https://open.spotify.com/album/5VQRkU846ddPAvMX8heKxG) | 2:57 | 2022-09-30 | 2023-04-19 |
 | [Mash up the Dance \- Kings of the Rollers Remix](https://open.spotify.com/track/3hHgU7QO5ev5R6FZVsPsJZ) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP) | [Mash up the Dance \(Kings of the Rollers Remix\)](https://open.spotify.com/album/6FS0y1f1pL45RPIWr6kYl0) | 2:57 | 2023-05-19 | 2024-04-19 |

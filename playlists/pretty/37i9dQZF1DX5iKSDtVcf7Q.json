@@ -1,6 +1,6 @@
 {
   "description": "Music paying tribute to the Heartland of America.",
-  "num_followers": 304655,
+  "num_followers": 304674,
   "original_name": "Heartland Country",
   "owner": {
     "name": "Spotify",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2025-09-26 04:00:21",
       "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/0BjVN6PAH15jTwfQZG8dLQ"
+      },
+      "artists": [
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        }
+      ],
+      "duration_ms": 236426,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/2RnEMVSTAG2BQh3LHXS9te"
+    },
+    {
+      "added_at": "2025-09-26 04:00:21",
+      "album": {
         "name": "Just As I Am (Platinum Edition)",
         "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 260346,
       "name": "Red Dirt Road",
       "url": "https://open.spotify.com/track/5QHElgktygMkgRdpPhXfn2"
-    },
-    {
-      "added_at": "2025-09-26 04:00:21",
-      "album": {
-        "name": "Brother",
-        "url": "https://open.spotify.com/album/0BjVN6PAH15jTwfQZG8dLQ"
-      },
-      "artists": [
-        {
-          "name": "Tyler Braden",
-          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
-        }
-      ],
-      "duration_ms": 236426,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/2RnEMVSTAG2BQh3LHXS9te"
     },
     {
       "added_at": "2025-09-26 04:00:21",

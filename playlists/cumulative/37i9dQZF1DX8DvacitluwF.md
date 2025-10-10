@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: Lusanda
+> The best in South African and international R&B\. Cover: Sishii
 
-606 songs - 1 day 8 hr 33 min
+607 songs - 1 day 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [May 10th](https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN) | [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [May 10th](https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0) | 2:46 | 2024-11-18 |  |
 | [Maybe It's You](https://open.spotify.com/track/2tPrMupHtHxkEhkPqKrSkE) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Maybe It's You](https://open.spotify.com/album/6ZvwrJU2Ozh8CsmjiOXED6) | 1:55 | 2024-05-09 | 2024-11-29 |
 | [Mazenzisa](https://open.spotify.com/track/0JZGYzDT3Tf1Y6exnXxw8h) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2), [Ndabo Zulu](https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33) | [UMvulo](https://open.spotify.com/album/1kLI0vlggjDZT03AhIIaXY) | 4:28 | 2025-06-13 | 2025-06-20 |
+| [MBALI.](https://open.spotify.com/track/6bPQdN0lFhrhaWKbq8wuSw) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [MBALI.](https://open.spotify.com/album/0i73yHPIjgliw5cnBZfyi1) | 4:15 | 2025-10-10 |  |
 | [Mbuzi](https://open.spotify.com/track/6jmELmAu5xIfRAaaOsyDat) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Mbuzi](https://open.spotify.com/album/0gNuPgiVwa6B0fWQqj8ELm) | 3:09 | 2025-04-24 | 2025-06-28 |
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2024-02-08 | 2025-03-01 |
 | [Me Ever After \- Radio Edit](https://open.spotify.com/track/4PEk5cLBvSZ3WYFemESNB3) | [MOE.](https://open.spotify.com/artist/0OKOM7jY8TkrnCO9lU9U9m) | [Me Ever After \(Radio Edit\)](https://open.spotify.com/album/4UrkVTgWFpfVQZ7YMZtxSK) | 4:22 | 2023-10-12 | 2023-10-20 |
@@ -417,7 +418,7 @@
 | [Pot of Gold](https://open.spotify.com/track/5k6wuWfwLk7ok1uA8uDteR) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [SPIRAL](https://open.spotify.com/album/5AdvIpZ7jHVpTUfiyroX69) | 3:29 | 2025-07-04 | 2025-07-29 |
 | [Prada Le Balenciaga](https://open.spotify.com/track/25zQa5r9f21a4aZkw8UoTv) | [MfanaTouchLine](https://open.spotify.com/artist/2RV0TompTWunZpF57DdQzJ) | [Lepara La Tipa](https://open.spotify.com/album/0AnwBDLWanpcszQWV7yTSO) | 1:43 | 2025-06-13 | 2025-06-20 |
 | [Pretty Girl](https://open.spotify.com/track/3mbZFN6ZynKRwKt7EDccI1) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Pretty Girl](https://open.spotify.com/album/528NVpD6jexhQKgUnxrFkg) | 3:12 | 2025-06-20 | 2025-06-28 |
-| [Progress](https://open.spotify.com/track/78MTRcH2sFDEeX6oNOMR7P) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz) | [Progress](https://open.spotify.com/album/5K46ePr8ayHr31jLCCwxRQ) | 2:50 | 2025-09-25 |  |
+| [Progress](https://open.spotify.com/track/78MTRcH2sFDEeX6oNOMR7P) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz) | [Progress](https://open.spotify.com/album/5K46ePr8ayHr31jLCCwxRQ) | 2:50 | 2025-09-25 | 2025-10-10 |
 | [project \- A COLORS SHOW](https://open.spotify.com/track/0ZgroOYQAUzfcQYS6wibf9) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [project \- A COLORS SHOW](https://open.spotify.com/album/5tHWyhdLYInrDivcSPWpnC) | 3:28 | 2023-11-23 | 2024-03-22 |
 | [Pula](https://open.spotify.com/track/3cq4sJP6xLI3AblXrtZwZc) | [SPARTZ](https://open.spotify.com/artist/2SLukHg2sfRgdzJunl2Dt3) | [Awake \- Even in My Sleep](https://open.spotify.com/album/2Wj8YIV2FdkDEgSKOmcgmC) | 3:54 | 2025-06-13 | 2025-06-20 |
 | [Pumua](https://open.spotify.com/track/2Py1BuxAHgOH0bA9w0imQE) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Pumua](https://open.spotify.com/album/5RZLdQdcNmJMm9D0jgeJCk) | 2:39 | 2025-01-30 | 2025-06-28 |

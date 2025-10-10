@@ -4,7 +4,7 @@
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: Odi Wa Muranga
 
-459 songs - 1 day 0 hr 36 min
+460 songs - 1 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,6 +392,7 @@
 | [Sugua](https://open.spotify.com/track/0ClhZfQOOgzCNuL9TyqTtf) | [Africa Unit](https://open.spotify.com/artist/0ddwr7ZwUHzB4zaY5YrO7w), [Swat Matire](https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV), [Ethic Entertainment](https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G) | [Sugua](https://open.spotify.com/album/16xNSA6ORCu279EF5SZqt9) | 3:03 | 2022-02-10 | 2022-09-23 |
 | [Summer Bunny](https://open.spotify.com/track/20wywVO84oJscsnS41xRwB) | [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW) | [Summer Bunny](https://open.spotify.com/album/4RdOzbPcys3H6QuuFT0MUe) | 2:31 | 2023-10-12 | 2024-04-06 |
 | [Summer YoMuthi](https://open.spotify.com/track/6TRuE2tsRuY3rDc7ZGlRwp) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Summer Yomuthi](https://open.spotify.com/album/1Bt22C7uWTD8Fg4AG0XJJW) | 4:33 | 2022-01-20 | 2022-01-28 |
+| [Take It Easy](https://open.spotify.com/track/4v66dzCC7eibQ2VvG5YCb0) | [Odi Wa Muranga](https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8), [Joefes](https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318), [Josephyl](https://open.spotify.com/artist/69gClmdHvsjoSlvbYFYa68) | [Take It Easy](https://open.spotify.com/album/4ld1NuVamegKgEs9Uslz6U) | 4:05 | 2025-10-09 |  |
 | [Taki Taki](https://open.spotify.com/track/6NAquV442jG57JGMcANYgN) | [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl), [Lamaz Span KOB](https://open.spotify.com/artist/51EooAXmnRN8GlQUNTxI0W) | [Taki Taki](https://open.spotify.com/album/4mPRp2rWn9YZSoSpwM1uC1) | 3:13 | 2021-09-30 | 2022-07-01 |
 | [Taliban](https://open.spotify.com/track/3kBY3OpWIMmUWwNH8GoN9t) | [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [Willis Raburu](https://open.spotify.com/artist/356iHuAuOvmjqp1N2gvw7P), [Katapilla](https://open.spotify.com/artist/2sV5D5jVpZCszKEyvSbuET), [Triand](https://open.spotify.com/artist/01F3Hml4MzW5746IqrkTAf) | [Taliban](https://open.spotify.com/album/24GjX1nfOCs7F57u05xMFl) | 3:18 | 2022-01-20 | 2022-05-13 |
 | [Tamu](https://open.spotify.com/track/0m36dDMgvDCeTpM7y3GkkO) | [Kingpheezle](https://open.spotify.com/artist/1sgjYTcJndjhZuh24qI8Ma), [Joefes](https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318), [Shanty Bobo](https://open.spotify.com/artist/5DHVUoC4CvknkFAOkyJ88N) | [Tamu](https://open.spotify.com/album/7jQP1H6GsCfoEMnTiyQnRh) | 3:11 | 2022-06-30 | 2023-06-09 |

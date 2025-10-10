@@ -1,15 +1,31 @@
 {
-  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Rauw Alejandro",
-  "num_followers": 1504194,
+  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Dei V",
+  "num_followers": 1504108,
   "original_name": "PEGAO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAPJiA4RwXrcPSLPR4Dh8y6ZsCSF",
+  "snapshot_id": "AAAAAF40+Meh49kE2hMEQ2uNHqtatM7k",
   "tracks": [
     {
-      "added_at": "2025-10-06 11:24:07",
+      "added_at": "2025-10-09 18:48:07",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/4CD94BoI6vtgW8FRcqb08Y"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Unfollow",
+      "url": "https://open.spotify.com/track/6XmgziZuWHy5wbBVVbE4uv"
+    },
+    {
+      "added_at": "2025-10-09 18:48:07",
       "album": {
         "name": "Cosa Nuestra: Cap\u00edtulo 0",
         "url": "https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR"
@@ -33,7 +49,27 @@
       "url": "https://open.spotify.com/track/6Wr4xBLqAAXHrtiUghxEwL"
     },
     {
-      "added_at": "2025-10-06 11:24:07",
+      "added_at": "2025-10-09 18:48:07",
+      "album": {
+        "name": "2012",
+        "url": "https://open.spotify.com/album/3zD9mKkzsjy0F7DR9K85bw"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 148125,
+      "name": "2012",
+      "url": "https://open.spotify.com/track/1bHrYP0yd0IEfzApDFURpK"
+    },
+    {
+      "added_at": "2025-10-09 18:48:07",
       "album": {
         "name": "Ruina",
         "url": "https://open.spotify.com/album/0pdvMmMdvKRIkms1KjpX0W"
@@ -61,7 +97,27 @@
       "url": "https://open.spotify.com/track/1k9ehVSjlGY0GZFhrHavnH"
     },
     {
-      "added_at": "2025-10-06 11:24:07",
+      "added_at": "2025-10-09 18:48:07",
+      "album": {
+        "name": "NO WAY",
+        "url": "https://open.spotify.com/album/39HUq09WMtlEbTB2Jwma3y"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "Louis BPM",
+          "url": "https://open.spotify.com/artist/54NBSkiOmMBEfacGfefPq0"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "NO WAY",
+      "url": "https://open.spotify.com/track/6KevDI27HMdDr7fSvJMO4i"
+    },
+    {
+      "added_at": "2025-10-09 18:48:07",
       "album": {
         "name": "GANGTEL",
         "url": "https://open.spotify.com/album/1i5UQggnBjvDCOzzmtqUOW"
@@ -77,27 +133,7 @@
       "url": "https://open.spotify.com/track/2XoH0IGikmWIRkCBBqvfp1"
     },
     {
-      "added_at": "2025-10-06 11:24:07",
-      "album": {
-        "name": "2012",
-        "url": "https://open.spotify.com/album/3zD9mKkzsjy0F7DR9K85bw"
-      },
-      "artists": [
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 148125,
-      "name": "2012",
-      "url": "https://open.spotify.com/track/1bHrYP0yd0IEfzApDFURpK"
-    },
-    {
-      "added_at": "2025-10-06 11:24:07",
+      "added_at": "2025-10-09 18:48:07",
       "album": {
         "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
         "url": "https://open.spotify.com/album/3VpceHZ7RMR5Te1GljOED9"
@@ -133,27 +169,7 @@
       "url": "https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9"
     },
     {
-      "added_at": "2025-10-06 11:24:07",
-      "album": {
-        "name": "BB (with Blessd)",
-        "url": "https://open.spotify.com/album/4CwwVRZH1TR0PEWmzO3tqR"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "BB (with Blessd)",
-      "url": "https://open.spotify.com/track/5CknOkUWXmRUhFOe75X1wY"
-    },
-    {
-      "added_at": "2025-10-06 11:24:07",
+      "added_at": "2025-10-09 18:48:07",
       "album": {
         "name": "Talento",
         "url": "https://open.spotify.com/album/0OPj1ePYra9uwgebE6HHpU"
@@ -173,27 +189,43 @@
       "url": "https://open.spotify.com/track/7sChwC2NZjGc2Kdni3hlDg"
     },
     {
-      "added_at": "2025-10-06 11:24:07",
+      "added_at": "2025-10-09 18:48:07",
       "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/5P4DCyni0LPILG9miv4ets"
+        "name": "SCORPIO",
+        "url": "https://open.spotify.com/album/63lPDlkhYUJdGIfInXAosy"
       },
       "artists": [
         {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/00YJIj59W08LVdfTDZpHrg"
+      "duration_ms": 227956,
+      "name": "SCORPIO",
+      "url": "https://open.spotify.com/track/4in4IMI3h8LIwawCha3JAv"
     },
     {
-      "added_at": "2025-10-06 11:24:07",
+      "added_at": "2025-10-09 18:48:07",
+      "album": {
+        "name": "WIFE MATERIAL*",
+        "url": "https://open.spotify.com/album/45OKTplPmo1X9JMvv63n5R"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        }
+      ],
+      "duration_ms": 214832,
+      "name": "WIFE MATERIAL*",
+      "url": "https://open.spotify.com/track/2rRf0QyHyweHJgWw7pgT7p"
+    },
+    {
+      "added_at": "2025-10-09 18:48:07",
       "album": {
         "name": "Duro Ma",
         "url": "https://open.spotify.com/album/6LUX9sGKsuewSe7ErFFEbJ"
@@ -217,107 +249,47 @@
       "url": "https://open.spotify.com/track/5NTdorni110puBoPgWhK58"
     },
     {
-      "added_at": "2025-10-06 11:24:07",
+      "added_at": "2025-10-09 18:48:07",
       "album": {
-        "name": "PRE\u00d1\u00c1",
-        "url": "https://open.spotify.com/album/7brEChjNyiCa6aEi4VtMU6"
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/5P4DCyni0LPILG9miv4ets"
       },
       "artists": [
         {
-          "name": "Lucho RK",
-          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
         },
         {
-          "name": "GIO",
-          "url": "https://open.spotify.com/artist/1DzHYzxnMTpElJgNoq1bEH"
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
         }
       ],
-      "duration_ms": 208721,
-      "name": "PRE\u00d1\u00c1",
-      "url": "https://open.spotify.com/track/454b0WL1k7vQ8MX1wRNRuS"
+      "duration_ms": 264000,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/00YJIj59W08LVdfTDZpHrg"
     },
     {
-      "added_at": "2025-10-06 11:24:07",
+      "added_at": "2025-10-09 18:48:07",
       "album": {
-        "name": "Princesa",
-        "url": "https://open.spotify.com/album/5Kr3hR7TsGPf8uetmcRNYV"
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/4CD94BoI6vtgW8FRcqb08Y"
       },
       "artists": [
         {
-          "name": "\u00d1ejo",
-          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
         },
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 188387,
-      "name": "Princesa",
-      "url": "https://open.spotify.com/track/0CyZIh9olFTztxvyHJ4LwP"
+      "duration_ms": 160500,
+      "name": "Wo Oh (with Yandel)",
+      "url": "https://open.spotify.com/track/2ZwBSCAcYirfZmtLMTg4O4"
     },
     {
-      "added_at": "2025-10-06 11:24:07",
-      "album": {
-        "name": "$F VERANO MIX VOL.2",
-        "url": "https://open.spotify.com/album/6JJVx2agB7StZF3qF7s7gu"
-      },
-      "artists": [
-        {
-          "name": "Xiyo",
-          "url": "https://open.spotify.com/artist/2FzRIRtYVDBIJBvTqh7xzQ"
-        },
-        {
-          "name": "Fernandezz",
-          "url": "https://open.spotify.com/artist/7mVQGK5j4VKkAvdOhUotB1"
-        },
-        {
-          "name": "dn.aire",
-          "url": "https://open.spotify.com/artist/7D77FeeK61lP9pa0MFLu1J"
-        }
-      ],
-      "duration_ms": 195731,
-      "name": "BAJO LA LUNA",
-      "url": "https://open.spotify.com/track/0ZvOVala8uRK6cVmp5p5qx"
-    },
-    {
-      "added_at": "2025-10-06 11:24:07",
-      "album": {
-        "name": "Scat Pack",
-        "url": "https://open.spotify.com/album/2GokHfG7eRuwqTCsptZNRx"
-      },
-      "artists": [
-        {
-          "name": "Clarent",
-          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 253658,
-      "name": "Scat Pack",
-      "url": "https://open.spotify.com/track/43cjtebODc9uKZbhAhD2J2"
-    },
-    {
-      "added_at": "2025-10-06 11:24:07",
-      "album": {
-        "name": "Revol\u00fa",
-        "url": "https://open.spotify.com/album/5fO2I7hEgGQVV17Sky863O"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        }
-      ],
-      "duration_ms": 200156,
-      "name": "Revol\u00fa",
-      "url": "https://open.spotify.com/track/0PLEcRTmhL9By2KMTqLbzz"
-    },
-    {
-      "added_at": "2025-10-06 11:24:07",
+      "added_at": "2025-10-09 18:48:07",
       "album": {
         "name": "K HUBO PS MOR",
         "url": "https://open.spotify.com/album/4vmg2S2isfFP5l9Sc6Qvjw"
@@ -341,43 +313,91 @@
       "url": "https://open.spotify.com/track/2lhp8Nc4xsikcJXl7vNWmM"
     },
     {
-      "added_at": "2025-10-06 11:24:07",
+      "added_at": "2025-10-09 18:48:07",
       "album": {
-        "name": "5'3",
-        "url": "https://open.spotify.com/album/62hruJh6bCyTuQBGPZPfll"
+        "name": "BB (with Blessd)",
+        "url": "https://open.spotify.com/album/4CwwVRZH1TR0PEWmzO3tqR"
       },
       "artists": [
         {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        }
-      ],
-      "duration_ms": 180919,
-      "name": "5'3",
-      "url": "https://open.spotify.com/track/2Eqtd0tcTHaIJkZXUQnuqh"
-    },
-    {
-      "added_at": "2025-10-06 11:24:07",
-      "album": {
-        "name": "DONDE TE ESCONDES? 2.0",
-        "url": "https://open.spotify.com/album/1obdhRgr52J2lFgbPlxb40"
-      },
-      "artists": [
-        {
-          "name": "Yapi",
-          "url": "https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn"
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
         },
         {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         }
       ],
-      "duration_ms": 169263,
-      "name": "DONDE TE ESCONDES? 2.0",
-      "url": "https://open.spotify.com/track/4l6Mq0db5Qoi97nhNlEey4"
+      "duration_ms": 180000,
+      "name": "BB (with Blessd)",
+      "url": "https://open.spotify.com/track/5CknOkUWXmRUhFOe75X1wY"
     },
     {
-      "added_at": "2025-10-06 11:24:07",
+      "added_at": "2025-10-09 18:48:07",
+      "album": {
+        "name": "$F VERANO MIX VOL.2",
+        "url": "https://open.spotify.com/album/6JJVx2agB7StZF3qF7s7gu"
+      },
+      "artists": [
+        {
+          "name": "Xiyo",
+          "url": "https://open.spotify.com/artist/2FzRIRtYVDBIJBvTqh7xzQ"
+        },
+        {
+          "name": "Fernandezz",
+          "url": "https://open.spotify.com/artist/7mVQGK5j4VKkAvdOhUotB1"
+        },
+        {
+          "name": "dn.aire",
+          "url": "https://open.spotify.com/artist/7D77FeeK61lP9pa0MFLu1J"
+        }
+      ],
+      "duration_ms": 195731,
+      "name": "BAJO LA LUNA",
+      "url": "https://open.spotify.com/track/0ZvOVala8uRK6cVmp5p5qx"
+    },
+    {
+      "added_at": "2025-10-09 18:48:07",
+      "album": {
+        "name": "Scat Pack",
+        "url": "https://open.spotify.com/album/2GokHfG7eRuwqTCsptZNRx"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 253658,
+      "name": "Scat Pack",
+      "url": "https://open.spotify.com/track/43cjtebODc9uKZbhAhD2J2"
+    },
+    {
+      "added_at": "2025-10-09 18:48:07",
+      "album": {
+        "name": "PRE\u00d1\u00c1",
+        "url": "https://open.spotify.com/album/7brEChjNyiCa6aEi4VtMU6"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        },
+        {
+          "name": "GIO",
+          "url": "https://open.spotify.com/artist/1DzHYzxnMTpElJgNoq1bEH"
+        }
+      ],
+      "duration_ms": 208721,
+      "name": "PRE\u00d1\u00c1",
+      "url": "https://open.spotify.com/track/454b0WL1k7vQ8MX1wRNRuS"
+    },
+    {
+      "added_at": "2025-10-09 18:48:07",
       "album": {
         "name": "FAYA",
         "url": "https://open.spotify.com/album/7iZyITUW27dx2NUzOzU4j4"
@@ -401,79 +421,23 @@
       "url": "https://open.spotify.com/track/4w9Lbv2E3kuXF1zMz71xh7"
     },
     {
-      "added_at": "2025-10-06 11:24:07",
+      "added_at": "2025-10-09 18:48:07",
       "album": {
-        "name": "WIFE MATERIAL*",
-        "url": "https://open.spotify.com/album/45OKTplPmo1X9JMvv63n5R"
+        "name": "Revol\u00fa",
+        "url": "https://open.spotify.com/album/5fO2I7hEgGQVV17Sky863O"
       },
       "artists": [
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        },
         {
           "name": "Rvfv",
           "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
         }
       ],
-      "duration_ms": 214832,
-      "name": "WIFE MATERIAL*",
-      "url": "https://open.spotify.com/track/2rRf0QyHyweHJgWw7pgT7p"
+      "duration_ms": 200156,
+      "name": "Revol\u00fa",
+      "url": "https://open.spotify.com/track/0PLEcRTmhL9By2KMTqLbzz"
     },
     {
-      "added_at": "2025-10-06 11:24:07",
-      "album": {
-        "name": "Me Mareo",
-        "url": "https://open.spotify.com/album/4aS33VYowVrUJTMd8c5OXc"
-      },
-      "artists": [
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        }
-      ],
-      "duration_ms": 168209,
-      "name": "Me Mareo",
-      "url": "https://open.spotify.com/track/0F1svfSx95E3qDBySn719G"
-    },
-    {
-      "added_at": "2025-10-06 11:24:07",
-      "album": {
-        "name": "QU\u00c9 SOMOS?",
-        "url": "https://open.spotify.com/album/0Jg5zuwDziq8hzGiPxOPiz"
-      },
-      "artists": [
-        {
-          "name": "Yapi",
-          "url": "https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "QU\u00c9 SOMOS?",
-      "url": "https://open.spotify.com/track/5FC9Oa4zW0mq4fFtsJEzyT"
-    },
-    {
-      "added_at": "2025-10-06 11:24:07",
-      "album": {
-        "name": "El Del Flavor",
-        "url": "https://open.spotify.com/album/3tbtaGhqHJkKS54dAgbm9Q"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 140017,
-      "name": "El Del Flavor",
-      "url": "https://open.spotify.com/track/164obCYBsKXiaJq19MZWd8"
-    },
-    {
-      "added_at": "2025-10-06 11:24:07",
+      "added_at": "2025-10-09 18:48:07",
       "album": {
         "name": "SUERTE",
         "url": "https://open.spotify.com/album/7mCiwgVTJt0k8QeLp2Q5rz"
@@ -497,23 +461,7 @@
       "url": "https://open.spotify.com/track/6pJj7JbS6TXCZW19BzXot6"
     },
     {
-      "added_at": "2025-10-06 11:24:07",
-      "album": {
-        "name": "Meiomi",
-        "url": "https://open.spotify.com/album/2kEzEaUjDpaIxgfCT5bKVr"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 224073,
-      "name": "Meiomi",
-      "url": "https://open.spotify.com/track/0yOo4u7eehSNkz6U5trqQA"
-    },
-    {
-      "added_at": "2025-10-06 11:24:07",
+      "added_at": "2025-10-09 18:48:07",
       "album": {
         "name": "SATIROLOG\u00cdA (DELUXE EDITION)",
         "url": "https://open.spotify.com/album/6DGGDTzn0msZRptzHHcMNE"
@@ -533,23 +481,43 @@
       "url": "https://open.spotify.com/track/0XJVGqlwUheL7ZIqlYRyKr"
     },
     {
-      "added_at": "2025-10-06 11:24:07",
+      "added_at": "2025-10-09 18:48:07",
       "album": {
-        "name": "SETEADORA",
-        "url": "https://open.spotify.com/album/52NbDHSGAaS67ows7hTgaq"
+        "name": "5'3",
+        "url": "https://open.spotify.com/album/62hruJh6bCyTuQBGPZPfll"
       },
       "artists": [
         {
-          "name": "LAJA",
-          "url": "https://open.spotify.com/artist/6z6URinoHeWcsTB20nX3qb"
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
         }
       ],
-      "duration_ms": 137012,
-      "name": "SETEADORA",
-      "url": "https://open.spotify.com/track/7DprNQSiwC4jBV7bwY761J"
+      "duration_ms": 180919,
+      "name": "5'3",
+      "url": "https://open.spotify.com/track/2Eqtd0tcTHaIJkZXUQnuqh"
     },
     {
-      "added_at": "2025-10-06 11:24:07",
+      "added_at": "2025-10-09 18:48:07",
+      "album": {
+        "name": "Me Mareo",
+        "url": "https://open.spotify.com/album/4aS33VYowVrUJTMd8c5OXc"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        }
+      ],
+      "duration_ms": 168209,
+      "name": "Me Mareo",
+      "url": "https://open.spotify.com/track/0F1svfSx95E3qDBySn719G"
+    },
+    {
+      "added_at": "2025-10-09 18:48:07",
       "album": {
         "name": "Prettygyal",
         "url": "https://open.spotify.com/album/4przS4l6ACDWIPCSsolWaG"
@@ -569,47 +537,27 @@
       "url": "https://open.spotify.com/track/0nw0be0MBaUCvsIwkEddfB"
     },
     {
-      "added_at": "2025-10-06 11:24:07",
+      "added_at": "2025-10-09 18:48:07",
       "album": {
-        "name": "Killa",
-        "url": "https://open.spotify.com/album/40oMlBlaBhH4XbO6cgU90u"
+        "name": "TRAUMAS E INDICA",
+        "url": "https://open.spotify.com/album/5sKqnyTDszmAll1rEyrzFi"
       },
       "artists": [
         {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
         },
         {
-          "name": "Clarent",
-          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+          "name": "Botlok",
+          "url": "https://open.spotify.com/artist/2JMMYnclwW8fhcgty8VSxg"
         }
       ],
-      "duration_ms": 188673,
-      "name": "Killa",
-      "url": "https://open.spotify.com/track/76GPCCO2Qy5d68vSpAcliC"
+      "duration_ms": 182616,
+      "name": "TRAUMAS E INDICA",
+      "url": "https://open.spotify.com/track/4yjvsPe7zZ7PweGfSonhwW"
     },
     {
-      "added_at": "2025-10-06 11:24:07",
-      "album": {
-        "name": "LOKENECESITAS",
-        "url": "https://open.spotify.com/album/4m9XAqcQFEEmZM9F3ePRhM"
-      },
-      "artists": [
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 200606,
-      "name": "LOKENECESITAS",
-      "url": "https://open.spotify.com/track/58DGexVv1NdVbkiudUNi1Z"
-    },
-    {
-      "added_at": "2025-10-06 11:24:07",
+      "added_at": "2025-10-09 18:48:07",
       "album": {
         "name": "I'M PART",
         "url": "https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69"
@@ -629,10 +577,26 @@
       "url": "https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3"
     },
     {
-      "added_at": "2025-10-06 11:24:07",
+      "added_at": "2025-10-09 18:48:07",
       "album": {
-        "name": "TUMBAO",
-        "url": "https://open.spotify.com/album/2kjDXHbE7ztU2okqWtWQ7c"
+        "name": "QU\u00c9 SOMOS?",
+        "url": "https://open.spotify.com/album/0Jg5zuwDziq8hzGiPxOPiz"
+      },
+      "artists": [
+        {
+          "name": "Yapi",
+          "url": "https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "QU\u00c9 SOMOS?",
+      "url": "https://open.spotify.com/track/5FC9Oa4zW0mq4fFtsJEzyT"
+    },
+    {
+      "added_at": "2025-10-09 18:48:07",
+      "album": {
+        "name": "El Del Flavor",
+        "url": "https://open.spotify.com/album/3tbtaGhqHJkKS54dAgbm9Q"
       },
       "artists": [
         {
@@ -640,32 +604,52 @@
           "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
         }
       ],
-      "duration_ms": 166071,
-      "name": "TUMBAO",
-      "url": "https://open.spotify.com/track/5xKs7Penljlm4sfBeWe3NI"
+      "duration_ms": 140017,
+      "name": "El Del Flavor",
+      "url": "https://open.spotify.com/track/164obCYBsKXiaJq19MZWd8"
     },
     {
-      "added_at": "2025-10-06 11:24:07",
+      "added_at": "2025-10-09 18:48:07",
       "album": {
-        "name": "Primer Lugar",
-        "url": "https://open.spotify.com/album/5Jk8q1BVRKEyjtruBCSQTe"
+        "name": "DONDE TE ESCONDES? 2.0",
+        "url": "https://open.spotify.com/album/1obdhRgr52J2lFgbPlxb40"
       },
       "artists": [
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Yapi",
+          "url": "https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn"
         },
         {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
         }
       ],
-      "duration_ms": 245760,
-      "name": "Primer Lugar",
-      "url": "https://open.spotify.com/track/5rBE7fZIOauzXUm1E9vPxM"
+      "duration_ms": 169263,
+      "name": "DONDE TE ESCONDES? 2.0",
+      "url": "https://open.spotify.com/track/4l6Mq0db5Qoi97nhNlEey4"
     },
     {
-      "added_at": "2025-10-06 11:24:07",
+      "added_at": "2025-10-09 18:48:07",
+      "album": {
+        "name": "Princesa",
+        "url": "https://open.spotify.com/album/5Kr3hR7TsGPf8uetmcRNYV"
+      },
+      "artists": [
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 188387,
+      "name": "Princesa",
+      "url": "https://open.spotify.com/track/0CyZIh9olFTztxvyHJ4LwP"
+    },
+    {
+      "added_at": "2025-10-09 18:48:07",
       "album": {
         "name": "Novio No",
         "url": "https://open.spotify.com/album/2DrUbcRALdDHhZUS0BaFs7"
@@ -689,27 +673,99 @@
       "url": "https://open.spotify.com/track/1PwccGgKAgmtCor56QTvaG"
     },
     {
-      "added_at": "2025-10-06 11:24:07",
+      "added_at": "2025-10-09 18:48:07",
       "album": {
-        "name": "BRASILE\u00d1O",
-        "url": "https://open.spotify.com/album/6L86UrNW15rlvCqDNmLk4f"
+        "name": "Killa",
+        "url": "https://open.spotify.com/album/40oMlBlaBhH4XbO6cgU90u"
       },
       "artists": [
         {
-          "name": "Camin",
-          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
         },
         {
-          "name": "Kirrimode",
-          "url": "https://open.spotify.com/artist/5GChdtrX16pbFjfMVKidlf"
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
         }
       ],
-      "duration_ms": 156923,
-      "name": "BRASILE\u00d1O",
-      "url": "https://open.spotify.com/track/4gNyksmCmVAHJrFC1zIGqd"
+      "duration_ms": 188673,
+      "name": "Killa",
+      "url": "https://open.spotify.com/track/76GPCCO2Qy5d68vSpAcliC"
     },
     {
-      "added_at": "2025-10-06 11:24:07",
+      "added_at": "2025-10-09 18:48:07",
+      "album": {
+        "name": "LOKENECESITAS",
+        "url": "https://open.spotify.com/album/4m9XAqcQFEEmZM9F3ePRhM"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 200606,
+      "name": "LOKENECESITAS",
+      "url": "https://open.spotify.com/track/58DGexVv1NdVbkiudUNi1Z"
+    },
+    {
+      "added_at": "2025-10-09 18:48:07",
+      "album": {
+        "name": "Primer Lugar",
+        "url": "https://open.spotify.com/album/5Jk8q1BVRKEyjtruBCSQTe"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 245760,
+      "name": "Primer Lugar",
+      "url": "https://open.spotify.com/track/5rBE7fZIOauzXUm1E9vPxM"
+    },
+    {
+      "added_at": "2025-10-09 18:48:07",
+      "album": {
+        "name": "SETEADORA",
+        "url": "https://open.spotify.com/album/52NbDHSGAaS67ows7hTgaq"
+      },
+      "artists": [
+        {
+          "name": "LAJA",
+          "url": "https://open.spotify.com/artist/6z6URinoHeWcsTB20nX3qb"
+        }
+      ],
+      "duration_ms": 137012,
+      "name": "SETEADORA",
+      "url": "https://open.spotify.com/track/7DprNQSiwC4jBV7bwY761J"
+    },
+    {
+      "added_at": "2025-10-09 18:48:07",
+      "album": {
+        "name": "TUMBAO",
+        "url": "https://open.spotify.com/album/2kjDXHbE7ztU2okqWtWQ7c"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 166071,
+      "name": "TUMBAO",
+      "url": "https://open.spotify.com/track/5xKs7Penljlm4sfBeWe3NI"
+    },
+    {
+      "added_at": "2025-10-09 18:48:07",
       "album": {
         "name": "secuestro",
         "url": "https://open.spotify.com/album/74OjLNxUk56qrJ8yMFX9hO"
@@ -733,23 +789,7 @@
       "url": "https://open.spotify.com/track/5SGpkwSxKgwDux1IUE9O7w"
     },
     {
-      "added_at": "2025-10-06 11:24:07",
-      "album": {
-        "name": "PRIMERA MUSA",
-        "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 216506,
-      "name": "\u2060LUCES DE COLORES",
-      "url": "https://open.spotify.com/track/5dDlknAL9imbXXl7uG7oqe"
-    },
-    {
-      "added_at": "2025-10-06 11:24:07",
+      "added_at": "2025-10-09 18:48:07",
       "album": {
         "name": "Party Privado (feat. Raul Clyde)",
         "url": "https://open.spotify.com/album/32bV0HDZujzyxjNFW1zFrY"
@@ -781,7 +821,7 @@
       "url": "https://open.spotify.com/track/5HYNvdGdepoSArZ1fW1x8v"
     },
     {
-      "added_at": "2025-10-06 11:24:07",
+      "added_at": "2025-10-09 18:48:07",
       "album": {
         "name": "FERXXO VOL X: Sagrado",
         "url": "https://open.spotify.com/album/4Fa9OpneHJPjj5jsrCQuMC"
@@ -795,42 +835,6 @@
       "duration_ms": 146240,
       "name": "RU MOR",
       "url": "https://open.spotify.com/track/3LToltMjcoYi665BhuLEAN"
-    },
-    {
-      "added_at": "2025-10-06 11:24:07",
-      "album": {
-        "name": "LO MISMO DE SIEMPRE",
-        "url": "https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        }
-      ],
-      "duration_ms": 192853,
-      "name": "AURORA",
-      "url": "https://open.spotify.com/track/18m5dJOPB2geFwOymXNaWg"
-    },
-    {
-      "added_at": "2025-10-06 11:24:07",
-      "album": {
-        "name": "Los Gangsters Tambien Lloran",
-        "url": "https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        }
-      ],
-      "duration_ms": 200526,
-      "name": "Resentia",
-      "url": "https://open.spotify.com/track/2ANtIUI9cipWNI685VdlZb"
     }
   ],
   "unique_name": "PEGAO",

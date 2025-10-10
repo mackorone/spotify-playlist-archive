@@ -1,13 +1,29 @@
 {
-  "description": "The hottest tracks in India. \n\nCover: Ed Sheeran",
-  "num_followers": 558488,
+  "description": "The hottest tracks in India. \nCover: Taylor Swift",
+  "num_followers": 558519,
   "original_name": "Hot Hits India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP3L2an8jRSjqIaQfs04PBtZto32",
+  "snapshot_id": "AAAAAIASaDIV4baCvVl36H5FaDCYinrw",
   "tracks": [
+    {
+      "added_at": "2025-10-10 02:20:02",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
+    },
     {
       "added_at": "2025-06-06 07:18:05",
       "album": {
@@ -871,22 +887,6 @@
       "duration_ms": 156825,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
-    },
-    {
-      "added_at": "2025-06-06 07:18:05",
-      "album": {
-        "name": "Moon Music",
-        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 222647,
-      "name": "ALL MY LOVE",
-      "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
     },
     {
       "added_at": "2025-06-06 07:18:05",

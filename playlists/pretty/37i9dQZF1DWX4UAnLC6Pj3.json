@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Ra\u00fal Vega \ud83d\udcf8",
-  "num_followers": 1278466,
+  "num_followers": 1278523,
   "original_name": "Banda 2025",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,18 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
-        "name": "Tengo Ganas de Llorar",
-        "url": "https://open.spotify.com/album/6rDpKWvEOQt3TYNxOZYsvT"
+        "name": "Caballo Robado",
+        "url": "https://open.spotify.com/album/39AOvTcyx0LVuOJMf8peQB"
       },
       "artists": [
         {
-          "name": "Alejandra Rojas",
-          "url": "https://open.spotify.com/artist/10y9yMDEj04DZZyBbXoLS1"
-        },
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 173538,
-      "name": "Tengo Ganas de Llorar",
-      "url": "https://open.spotify.com/track/0wU4lzUqRBluQoqxsJ7B1n"
+      "duration_ms": 118816,
+      "name": "Caballo Robado",
+      "url": "https://open.spotify.com/track/5SP9kvtRzmncffawYpAk0P"
     },
     {
       "added_at": "2025-10-03 06:00:04",
@@ -619,18 +615,22 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
-        "name": "Caballo Robado",
-        "url": "https://open.spotify.com/album/39AOvTcyx0LVuOJMf8peQB"
+        "name": "Tengo Ganas de Llorar",
+        "url": "https://open.spotify.com/album/6rDpKWvEOQt3TYNxOZYsvT"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+          "name": "Alejandra Rojas",
+          "url": "https://open.spotify.com/artist/10y9yMDEj04DZZyBbXoLS1"
+        },
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 118816,
-      "name": "Caballo Robado",
-      "url": "https://open.spotify.com/track/5SP9kvtRzmncffawYpAk0P"
+      "duration_ms": 173538,
+      "name": "Tengo Ganas de Llorar",
+      "url": "https://open.spotify.com/track/0wU4lzUqRBluQoqxsJ7B1n"
     },
     {
       "added_at": "2025-10-03 06:00:04",
@@ -651,26 +651,6 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
-        "name": "Sabes Qu\u00e9 Hora Es",
-        "url": "https://open.spotify.com/album/32HvzB8uAa7egWymv0TDzK"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        },
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        }
-      ],
-      "duration_ms": 185272,
-      "name": "Sabes Qu\u00e9 Hora Es",
-      "url": "https://open.spotify.com/track/1EXdUMG8lSW7DDdC4NQjri"
-    },
-    {
-      "added_at": "2025-10-03 06:00:04",
-      "album": {
         "name": "Botonas y Sombrero",
         "url": "https://open.spotify.com/album/4V1jlMapy2qho84GJaF1fY"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 174549,
       "name": "Botonas y Sombrero",
       "url": "https://open.spotify.com/track/61KMiyyw73KFF7mh9PqPvR"
+    },
+    {
+      "added_at": "2025-10-03 06:00:04",
+      "album": {
+        "name": "Sabes Qu\u00e9 Hora Es",
+        "url": "https://open.spotify.com/album/32HvzB8uAa7egWymv0TDzK"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 185272,
+      "name": "Sabes Qu\u00e9 Hora Es",
+      "url": "https://open.spotify.com/track/1EXdUMG8lSW7DDdC4NQjri"
     },
     {
       "added_at": "2025-10-03 06:00:04",
@@ -919,6 +919,22 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
+        "name": "Rezo",
+        "url": "https://open.spotify.com/album/7wLXaR7tSW2ezz3J4kGPsV"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 167625,
+      "name": "Rezo",
+      "url": "https://open.spotify.com/track/3y7ucSOHDjZxCGmy8VJNvs"
+    },
+    {
+      "added_at": "2025-10-03 06:00:04",
+      "album": {
         "name": "Aunque No Sea Conmigo",
         "url": "https://open.spotify.com/album/2Ebonc8h40CqHy3svWp5WA"
       },
@@ -959,6 +975,22 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
+        "name": "El Amor No Existe",
+        "url": "https://open.spotify.com/album/5iOQnvxIagMz2kC2w0VL6d"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 138839,
+      "name": "El Amor No Existe",
+      "url": "https://open.spotify.com/track/05iyuBjH0VKipzIGRuDQUp"
+    },
+    {
+      "added_at": "2025-10-03 06:00:04",
+      "album": {
         "name": "La Peligrosa",
         "url": "https://open.spotify.com/album/7170V7jAlG1fvhCYkMOCZF"
       },
@@ -979,38 +1011,6 @@
       "duration_ms": 191225,
       "name": "La Peligrosa",
       "url": "https://open.spotify.com/track/4WnfySwIacUpi3LjZmaEsB"
-    },
-    {
-      "added_at": "2025-10-03 06:00:04",
-      "album": {
-        "name": "El Amor No Existe",
-        "url": "https://open.spotify.com/album/5iOQnvxIagMz2kC2w0VL6d"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 138839,
-      "name": "El Amor No Existe",
-      "url": "https://open.spotify.com/track/05iyuBjH0VKipzIGRuDQUp"
-    },
-    {
-      "added_at": "2025-10-03 06:00:04",
-      "album": {
-        "name": "Rezo",
-        "url": "https://open.spotify.com/album/7wLXaR7tSW2ezz3J4kGPsV"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 167625,
-      "name": "Rezo",
-      "url": "https://open.spotify.com/track/3y7ucSOHDjZxCGmy8VJNvs"
     },
     {
       "added_at": "2025-10-03 06:00:04",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
+        "name": "Siempre",
+        "url": "https://open.spotify.com/album/1AAAdHHXc3qD0gjyjjrVtw"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 205824,
+      "name": "Hoy perdemos",
+      "url": "https://open.spotify.com/track/0Ym9BCEtwqL1e5aBpVCyic"
+    },
+    {
+      "added_at": "2025-10-03 06:00:04",
+      "album": {
         "name": "El Capit\u00e1n",
         "url": "https://open.spotify.com/album/2j9yGj01H5wTFfGK99Lx2E"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 151022,
       "name": "El Capit\u00e1n",
       "url": "https://open.spotify.com/track/79yEzqwIgNaVrwbPBrlZP2"
-    },
-    {
-      "added_at": "2025-10-03 06:00:04",
-      "album": {
-        "name": "Siempre",
-        "url": "https://open.spotify.com/album/1AAAdHHXc3qD0gjyjjrVtw"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 205824,
-      "name": "Hoy perdemos",
-      "url": "https://open.spotify.com/track/0Ym9BCEtwqL1e5aBpVCyic"
     },
     {
       "added_at": "2025-10-03 06:00:04",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
+        "name": "Solo Cenizas",
+        "url": "https://open.spotify.com/album/7GeCLvLN03HCFLepxt8kz6"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 262717,
+      "name": "Solo Cenizas",
+      "url": "https://open.spotify.com/track/71Zkqd42HQtJp6IYVXZZ9G"
+    },
+    {
+      "added_at": "2025-10-03 06:00:04",
+      "album": {
         "name": "Traguitos De Licor",
         "url": "https://open.spotify.com/album/7fLK82008gwT1AZeL4eyBe"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 156408,
       "name": "Traguitos De Licor",
       "url": "https://open.spotify.com/track/6yTkItaHBv3bt9ZHF1z17d"
-    },
-    {
-      "added_at": "2025-10-03 06:00:04",
-      "album": {
-        "name": "Solo Cenizas",
-        "url": "https://open.spotify.com/album/7GeCLvLN03HCFLepxt8kz6"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 262717,
-      "name": "Solo Cenizas",
-      "url": "https://open.spotify.com/track/71Zkqd42HQtJp6IYVXZZ9G"
     },
     {
       "added_at": "2025-10-03 06:00:04",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
+        "name": "Somos Rancheros",
+        "url": "https://open.spotify.com/album/3INERBclOpPUvR2qrtiF52"
+      },
+      "artists": [
+        {
+          "name": "Pancho Uresti",
+          "url": "https://open.spotify.com/artist/7bNmosifuMqLwui79Cjqcd"
+        },
+        {
+          "name": "Diana Laura",
+          "url": "https://open.spotify.com/artist/2jTGZfXMSzIfAcQ5UUDOuS"
+        }
+      ],
+      "duration_ms": 162973,
+      "name": "Somos Rancheros",
+      "url": "https://open.spotify.com/track/1mlx9iHbsVrEcMQT4j3bOi"
+    },
+    {
+      "added_at": "2025-10-03 06:00:04",
+      "album": {
         "name": "Enamorado",
         "url": "https://open.spotify.com/album/1StCFcV4mgSMCAAdIjHHYN"
       },
@@ -1327,22 +1347,6 @@
       "duration_ms": 193593,
       "name": "Ausencia Eterna",
       "url": "https://open.spotify.com/track/432N8047PMajG01RoyXHof"
-    },
-    {
-      "added_at": "2025-10-03 06:00:04",
-      "album": {
-        "name": "Al Tiro Con la Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/6hEGZCKN3qvU4bTk2C4kqc"
-      },
-      "artists": [
-        {
-          "name": "Al Tiro de Armando Ramos",
-          "url": "https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O"
-        }
-      ],
-      "duration_ms": 150500,
-      "name": "Con Dinero Puedes",
-      "url": "https://open.spotify.com/track/11yALMlDp4w3r5l546uCqg"
     },
     {
       "added_at": "2025-10-03 06:00:04",
@@ -1387,22 +1391,34 @@
     {
       "added_at": "2025-10-03 06:00:04",
       "album": {
-        "name": "Somos Rancheros",
-        "url": "https://open.spotify.com/album/3INERBclOpPUvR2qrtiF52"
+        "name": "Al Tiro Con la Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/6hEGZCKN3qvU4bTk2C4kqc"
       },
       "artists": [
         {
-          "name": "Pancho Uresti",
-          "url": "https://open.spotify.com/artist/7bNmosifuMqLwui79Cjqcd"
-        },
-        {
-          "name": "Diana Laura",
-          "url": "https://open.spotify.com/artist/2jTGZfXMSzIfAcQ5UUDOuS"
+          "name": "Al Tiro de Armando Ramos",
+          "url": "https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O"
         }
       ],
-      "duration_ms": 162973,
-      "name": "Somos Rancheros",
-      "url": "https://open.spotify.com/track/1mlx9iHbsVrEcMQT4j3bOi"
+      "duration_ms": 150500,
+      "name": "Con Dinero Puedes",
+      "url": "https://open.spotify.com/track/11yALMlDp4w3r5l546uCqg"
+    },
+    {
+      "added_at": "2025-10-03 06:00:04",
+      "album": {
+        "name": "25 Aniversario (Deluxe)",
+        "url": "https://open.spotify.com/album/1pvvRT6e67vejIScHlVOvx"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Vuelve a M\u00ed",
+      "url": "https://open.spotify.com/track/2gPpycSt0nJ54jFcwO75WO"
     },
     {
       "added_at": "2025-10-03 06:00:04",
@@ -1423,22 +1439,6 @@
       "duration_ms": 188478,
       "name": "Con La Tierra Encima",
       "url": "https://open.spotify.com/track/7BSMwCPIQwvAtpVSb8WrHb"
-    },
-    {
-      "added_at": "2025-10-03 06:00:04",
-      "album": {
-        "name": "25 Aniversario (Deluxe)",
-        "url": "https://open.spotify.com/album/1pvvRT6e67vejIScHlVOvx"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Vuelve a M\u00ed",
-      "url": "https://open.spotify.com/track/2gPpycSt0nJ54jFcwO75WO"
     },
     {
       "added_at": "2025-10-03 06:00:04",

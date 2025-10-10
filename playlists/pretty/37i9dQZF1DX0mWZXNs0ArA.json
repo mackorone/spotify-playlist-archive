@@ -1,6 +1,6 @@
 {
   "description": "150%",
-  "num_followers": 1966526,
+  "num_followers": 1966449,
   "original_name": "sped up songs",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-06-25 16:26:49",
       "album": {
+        "name": "WARNING (Sped Up)",
+        "url": "https://open.spotify.com/album/2oRa8uJdTOrDSWvWAy50A3"
+      },
+      "artists": [
+        {
+          "name": "MC ORSEN",
+          "url": "https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3"
+        }
+      ],
+      "duration_ms": 108671,
+      "name": "WARNING - Sped Up",
+      "url": "https://open.spotify.com/track/5MNfAmHvsqOliIxtwiFzsz"
+    },
+    {
+      "added_at": "2025-06-25 16:26:49",
+      "album": {
         "name": "Blonde Chaya (Sped Up)",
         "url": "https://open.spotify.com/album/6XFhvAghhMETC42WFMhRjc"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 181052,
       "name": "Blonde Chaya - Sped Up",
       "url": "https://open.spotify.com/track/6WbDwAoc5xr0kFflHZW0A4"
-    },
-    {
-      "added_at": "2025-06-25 16:26:49",
-      "album": {
-        "name": "WARNING (Sped Up)",
-        "url": "https://open.spotify.com/album/2oRa8uJdTOrDSWvWAy50A3"
-      },
-      "artists": [
-        {
-          "name": "MC ORSEN",
-          "url": "https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3"
-        }
-      ],
-      "duration_ms": 108671,
-      "name": "WARNING - Sped Up",
-      "url": "https://open.spotify.com/track/5MNfAmHvsqOliIxtwiFzsz"
     },
     {
       "added_at": "2025-06-25 16:26:49",
@@ -435,6 +435,22 @@
     {
       "added_at": "2025-06-25 16:26:49",
       "album": {
+        "name": "WASTE",
+        "url": "https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql"
+      },
+      "artists": [
+        {
+          "name": "KXLLSWXTCH",
+          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
+        }
+      ],
+      "duration_ms": 100500,
+      "name": "WASTE - Sped Up Version",
+      "url": "https://open.spotify.com/track/72XhVH8vlREICt6NmT623Q"
+    },
+    {
+      "added_at": "2025-06-25 16:26:49",
+      "album": {
         "name": "Me Gustas Tu EP",
         "url": "https://open.spotify.com/album/0HcjiEVNspzxKMJjev4PKZ"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 221185,
       "name": "Me Gustas Tu - Sped Up Version",
       "url": "https://open.spotify.com/track/1H0i9N9bFrYfNThZkjCaLe"
-    },
-    {
-      "added_at": "2025-06-25 16:26:49",
-      "album": {
-        "name": "WASTE",
-        "url": "https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql"
-      },
-      "artists": [
-        {
-          "name": "KXLLSWXTCH",
-          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
-        }
-      ],
-      "duration_ms": 100500,
-      "name": "WASTE - Sped Up Version",
-      "url": "https://open.spotify.com/track/72XhVH8vlREICt6NmT623Q"
     },
     {
       "added_at": "2025-06-25 16:26:49",
@@ -723,18 +723,18 @@
     {
       "added_at": "2025-06-25 16:26:49",
       "album": {
-        "name": "Paro (Speed Up)",
-        "url": "https://open.spotify.com/album/0BmdP9lVjRCVYqhGg3pGTL"
+        "name": "greedy (remixes)",
+        "url": "https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW"
       },
       "artists": [
         {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 153800,
-      "name": "Paro - Speed Up",
-      "url": "https://open.spotify.com/track/5NyBRRP1S6g9wTt4nR2448"
+      "duration_ms": 119871,
+      "name": "greedy sped up",
+      "url": "https://open.spotify.com/track/6y6KaCid6AI0P5h8ozb0eZ"
     },
     {
       "added_at": "2025-06-25 16:26:49",
@@ -755,18 +755,18 @@
     {
       "added_at": "2025-06-25 16:26:49",
       "album": {
-        "name": "greedy (remixes)",
-        "url": "https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW"
+        "name": "Paro (Speed Up)",
+        "url": "https://open.spotify.com/album/0BmdP9lVjRCVYqhGg3pGTL"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
         }
       ],
-      "duration_ms": 119871,
-      "name": "greedy sped up",
-      "url": "https://open.spotify.com/track/6y6KaCid6AI0P5h8ozb0eZ"
+      "duration_ms": 153800,
+      "name": "Paro - Speed Up",
+      "url": "https://open.spotify.com/track/5NyBRRP1S6g9wTt4nR2448"
     },
     {
       "added_at": "2025-06-25 16:26:49",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-06-25 16:26:49",
       "album": {
-        "name": "Her Way (Sped Up)",
-        "url": "https://open.spotify.com/album/1uYvJPQzUytNlcAIHSQPI0"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 182164,
-      "name": "Her Way - Sped Up",
-      "url": "https://open.spotify.com/track/0T7dLau2Ccr9CbeXtOB4vU"
-    },
-    {
-      "added_at": "2025-06-25 16:26:49",
-      "album": {
         "name": "Pool (Gravagerz Version - Sped Up & Slowed Down)",
         "url": "https://open.spotify.com/album/0x2OZtWCIZP5tDBazcPdlJ"
       },
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2025-06-25 16:26:49",
       "album": {
+        "name": "Her Way (Sped Up)",
+        "url": "https://open.spotify.com/album/1uYvJPQzUytNlcAIHSQPI0"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 182164,
+      "name": "Her Way - Sped Up",
+      "url": "https://open.spotify.com/track/0T7dLau2Ccr9CbeXtOB4vU"
+    },
+    {
+      "added_at": "2025-06-25 16:26:49",
+      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF"
       },
@@ -1055,6 +1055,22 @@
       "duration_ms": 143433,
       "name": "Teenage Dream - Sped Up",
       "url": "https://open.spotify.com/track/2V2tFg96o8qj7hUPLhSF6F"
+    },
+    {
+      "added_at": "2025-06-25 16:26:49",
+      "album": {
+        "name": "Soaked (Sped Up)",
+        "url": "https://open.spotify.com/album/4GrvG3QBiwLAfDEJ1cx2Fn"
+      },
+      "artists": [
+        {
+          "name": "Shy Smith",
+          "url": "https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb"
+        }
+      ],
+      "duration_ms": 163096,
+      "name": "Soaked - Sped Up",
+      "url": "https://open.spotify.com/track/2wHzwFZZ0gMPI9TnfRxq4z"
     },
     {
       "added_at": "2025-06-25 16:26:49",
@@ -1083,22 +1099,6 @@
       "duration_ms": 197664,
       "name": "Price Tag - Sped Up",
       "url": "https://open.spotify.com/track/7wBOjV4TIq2YzPFDc3mFmA"
-    },
-    {
-      "added_at": "2025-06-25 16:26:49",
-      "album": {
-        "name": "Soaked (Sped Up)",
-        "url": "https://open.spotify.com/album/4GrvG3QBiwLAfDEJ1cx2Fn"
-      },
-      "artists": [
-        {
-          "name": "Shy Smith",
-          "url": "https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb"
-        }
-      ],
-      "duration_ms": 163096,
-      "name": "Soaked - Sped Up",
-      "url": "https://open.spotify.com/track/2wHzwFZZ0gMPI9TnfRxq4z"
     },
     {
       "added_at": "2025-06-25 16:26:49",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-06-25 16:26:49",
       "album": {
-        "name": "Give It To Me",
-        "url": "https://open.spotify.com/album/73DfRZAOvXTeJKyd0pWs3v"
-      },
-      "artists": [
-        {
-          "name": "Henrik",
-          "url": "https://open.spotify.com/artist/5h726j6J9LwwSoINEX4dLx"
-        }
-      ],
-      "duration_ms": 176286,
-      "name": "Give It To Me",
-      "url": "https://open.spotify.com/track/04SSxcKDNjAkTvPeT0UUMN"
-    },
-    {
-      "added_at": "2025-06-25 16:26:49",
-      "album": {
         "name": "In The Stars (Sped Up)",
         "url": "https://open.spotify.com/album/5OmxavyXrqVdtH22o99mCu"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 170505,
       "name": "In The Stars - Sped Up",
       "url": "https://open.spotify.com/track/7B9gPx18Tbm8dgaB14jwKm"
+    },
+    {
+      "added_at": "2025-06-25 16:26:49",
+      "album": {
+        "name": "Give It To Me",
+        "url": "https://open.spotify.com/album/73DfRZAOvXTeJKyd0pWs3v"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/5h726j6J9LwwSoINEX4dLx"
+        }
+      ],
+      "duration_ms": 176286,
+      "name": "Give It To Me",
+      "url": "https://open.spotify.com/track/04SSxcKDNjAkTvPeT0UUMN"
     },
     {
       "added_at": "2025-06-25 16:26:49",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2025-06-25 16:26:49",
       "album": {
+        "name": "Mama's Boy (Sped up)",
+        "url": "https://open.spotify.com/album/1Zd2LdHbIG34x4HfhNQTGU"
+      },
+      "artists": [
+        {
+          "name": "Lewis Hanton",
+          "url": "https://open.spotify.com/artist/7C2uVXwFKLlwHteHGnMLhZ"
+        }
+      ],
+      "duration_ms": 74815,
+      "name": "Mama's Boy - Sped up",
+      "url": "https://open.spotify.com/track/01lTSn2mrimc9wSl2EG4F8"
+    },
+    {
+      "added_at": "2025-06-25 16:26:49",
+      "album": {
         "name": "Strangers (feat. Kenya Grace) [Sped Up]",
         "url": "https://open.spotify.com/album/3IJLMzgR1r29ij0cxNs5kV"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 155744,
       "name": "Strangers (feat. Kenya Grace) - Sped Up",
       "url": "https://open.spotify.com/track/2CFl2JZVw74jVO5LTyiim3"
-    },
-    {
-      "added_at": "2025-06-25 16:26:49",
-      "album": {
-        "name": "Mama's Boy (Sped up)",
-        "url": "https://open.spotify.com/album/1Zd2LdHbIG34x4HfhNQTGU"
-      },
-      "artists": [
-        {
-          "name": "Lewis Hanton",
-          "url": "https://open.spotify.com/artist/7C2uVXwFKLlwHteHGnMLhZ"
-        }
-      ],
-      "duration_ms": 74815,
-      "name": "Mama's Boy - Sped up",
-      "url": "https://open.spotify.com/track/01lTSn2mrimc9wSl2EG4F8"
     },
     {
       "added_at": "2025-06-25 16:26:49",
@@ -1831,18 +1831,26 @@
     {
       "added_at": "2025-06-25 16:26:49",
       "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/0IAo42WYRRTgBtaRUCSMK1"
+        "name": "One Of Your Girls (Sped Up)",
+        "url": "https://open.spotify.com/album/48cK704EMiYSveyWWCST4j"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
+        {
+          "name": "xxtristanxo",
+          "url": "https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr"
+        },
+        {
+          "name": "Speed Radio",
+          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
         }
       ],
-      "duration_ms": 152403,
-      "name": "Please Please Please - Sped Up",
-      "url": "https://open.spotify.com/track/4EryTXqW5cvf5yqITZEm7b"
+      "duration_ms": 156220,
+      "name": "One Of Your Girls - Sped Up",
+      "url": "https://open.spotify.com/track/3aP1ep4PqgP5IPXUdPsxD5"
     }
   ],
   "unique_name": "sped up songs",

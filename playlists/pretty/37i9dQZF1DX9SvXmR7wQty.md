@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Robert Robert
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,406 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,408 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 47 | [Chez nous ici](https://open.spotify.com/track/23pDoQ06saUoin9oh1Gc5W) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [Ariane Simard](https://open.spotify.com/artist/7qyObt9S56Vj8MAxHBazVe) | [Chez nous ici](https://open.spotify.com/album/5kqAUgoNM0NBXaVlM2SkMQ) | 2:40 |
 | 48 | [Là\-Haut](https://open.spotify.com/track/5qzw9Yko1Ivx3uR3USddLN) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3), [Tel Kel](https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM) | [Là\-Haut](https://open.spotify.com/album/5SZ6wibOoBaHTiGEPa5BkP) | 2:42 |
 | 49 | [Quelque chose](https://open.spotify.com/track/4kU9TPu6WatoMCFwULSKVm) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Quelque chose](https://open.spotify.com/album/7p16VbgKxfQWbDpAX6w4OH) | 2:05 |
-| 50 | [Dans la vie](https://open.spotify.com/track/0qIXtDE3VllX2AAIt8rnw5) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Dans la vie](https://open.spotify.com/album/5kM8325p1LlgJw25RxzFDl) | 2:49 |
+| 50 | [Richard Mille](https://open.spotify.com/track/7k0FkT8koNC2xXUu38HwZF) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe), [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG) | [Richard Mille](https://open.spotify.com/album/5lVnGjulnzUm7zpeHhq8Qv) | 2:45 |
 
 Snapshot ID: `AAAAANvgG6P2FWcxrDaL+imMyE3ysNY/`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 
 > This is Azzy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,221 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,219 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 | 49 | [Nota$ \(Papatracks \#3\) \(Participação especial de Papatinho\)](https://open.spotify.com/track/3zbMe3OWUAoUH2ptQnqYTY) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Nota$ \(Papatracks \#3\) \(Participação especial de Papatinho\)](https://open.spotify.com/album/1PU300VLz10xB5jMs5OVBn) | 3:34 |
 | 50 | [Privê \- Ao Vivo no REP Festival](https://open.spotify.com/track/0HjmUVSoJO8Tu9pxG0tasS) | [REP Festival](https://open.spotify.com/artist/2V9BaqjysjWIIi3GePdYXu), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Azzy \(Ao Vivo no REP Festival\)](https://open.spotify.com/album/0hILiPum0Z7x4phAzYvRFx) | 3:16 |
 
-Snapshot ID: `aORYAAAAAACu6QbocQRk/a0chiwfO03/`
+Snapshot ID: `aOWpgAAAAABnAZp+Vc5NEG+dZo9gb09g`

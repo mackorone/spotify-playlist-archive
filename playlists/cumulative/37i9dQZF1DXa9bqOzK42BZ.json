@@ -410,7 +410,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 231392,
       "name": "Anza Nami (feat. Guardian Angel)",
       "url": "https://open.spotify.com/track/3V6MVehktSGLq4yIR2kdyf"
@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 194851,
       "name": "Gharama",
       "url": "https://open.spotify.com/track/7smwyHlMEmutM4zl9UGInu"
@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 208000,
       "name": "Hafanani",
       "url": "https://open.spotify.com/track/4y3Xoxq7l4JvZcEDN2tUZX"
@@ -1748,7 +1748,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 200891,
       "name": "Love Is",
       "url": "https://open.spotify.com/track/3X0MU7pHpzFOTaUgve3EDS"
@@ -1898,7 +1898,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 225000,
       "name": "Makosa",
       "url": "https://open.spotify.com/track/4YRX9ycv7brEgOEiGKjxJT"
@@ -2090,7 +2090,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 231359,
       "name": "Mimi Ni Wa Juu",
       "url": "https://open.spotify.com/track/1LaX0UP4cGeNNTO97BfVdW"
@@ -2611,6 +2611,24 @@
     },
     {
       "album": {
+        "name": "Nani Kama Wewe (Live)",
+        "url": "https://open.spotify.com/album/4RqgouMK4iWcUNFQdeIQTm"
+      },
+      "artists": [
+        {
+          "name": "Patrick Kubuya",
+          "url": "https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 552696,
+      "name": "Nani Kama Wewe - Live",
+      "url": "https://open.spotify.com/track/4wmzfhXJUHLrpukA5lNoSB"
+    },
+    {
+      "album": {
         "name": "Niko Sawa",
         "url": "https://open.spotify.com/album/7fF9FXSYiaJlDgbendwTSB"
       },
@@ -2908,6 +2926,28 @@
       "duration_ms": 554581,
       "name": "Nifundishe Kunyamaza",
       "url": "https://open.spotify.com/track/5ZbqY3dSaJu5WepPqGkxbS"
+    },
+    {
+      "album": {
+        "name": "Nifunze Kuona",
+        "url": "https://open.spotify.com/album/6T4chiVpzp7EEytWlWJgJP"
+      },
+      "artists": [
+        {
+          "name": "J blessing",
+          "url": "https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr"
+        },
+        {
+          "name": "Billy Frank",
+          "url": "https://open.spotify.com/artist/1YeFzCACkJ48L1t2kQH198"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250825,
+      "name": "Nifunze Kuona",
+      "url": "https://open.spotify.com/track/1i1qbN5L8CTPykTW2yL0Og"
     },
     {
       "album": {
@@ -3730,7 +3770,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 233269,
       "name": "Rien",
       "url": "https://open.spotify.com/track/4xUgJ7IlDRhCEbjZwPaZS3"

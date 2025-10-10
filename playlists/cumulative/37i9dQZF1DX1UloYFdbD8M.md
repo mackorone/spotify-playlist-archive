@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: K.S.Harisankar
 
-413 songs - 1 day 1 hr 48 min
+414 songs - 1 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Aakasham](https://open.spotify.com/track/0vi4EJnVhAt6mYN60M98yh) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Hope](https://open.spotify.com/album/0AMVYu01sebX3Sba3AS9J9) | 3:18 | 2023-10-06 | 2024-04-19 |
 | [Aakasham](https://open.spotify.com/track/2sKNMV4SfPYWbsUeWjUFGX) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Hope](https://open.spotify.com/album/18rt3txit31UqKoC7rI6D9) | 3:18 | 2022-06-23 | 2023-10-11 |
 | [Aakasham](https://open.spotify.com/track/4s7FOn8Vubr8CvHCkHFpDu) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Aakasham](https://open.spotify.com/album/0lsfdxX9UkuIYhoqKX0EK3) | 3:21 | 2024-01-15 | 2024-07-02 |
+| [Aanandam Aanandame](https://open.spotify.com/track/5cKvhS5YD93kGRKCDav2eK) | [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c), [Sreejith Edavana](https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg) | [Aanandam Aanandame](https://open.spotify.com/album/3aWkF9mfuR3jG3r7EPML1e) | 3:32 | 2025-10-09 |  |
 | [Aare](https://open.spotify.com/track/7FeVLlzrI2ju3rJte0n2IE) | [Sanjay Sukumaran](https://open.spotify.com/artist/7GHQmiNnYfUMRZE0VOEz5S), [Anila Rajeev](https://open.spotify.com/artist/7mi6f1vSUFgxYOQVcsWWx6), [Arjun B Nair](https://open.spotify.com/artist/3NbZnrvIDwlSlTdEw6Hl32) | [Aare](https://open.spotify.com/album/5RQHOfd4nzZtJMBW3hL2XD) | 2:20 | 2024-10-14 | 2025-03-18 |
 | [Aaru Nee](https://open.spotify.com/track/2gVg3Df0dKsV35t8HN1EqF) | [Vocal Dude](https://open.spotify.com/artist/6e7toXPTMHFuuQpnQgoHqI), [Hesham Luca](https://open.spotify.com/artist/5UvqCjykzX8sm8VCo9COmb), [Sourav Suresh](https://open.spotify.com/artist/4bl4dLgJ5NQezTcREd7ECu) | [Aaru Nee](https://open.spotify.com/album/7GjRnGovDsIqY1MjTVx68w) | 2:41 | 2024-12-06 | 2025-03-18 |
 | [Adiyaan](https://open.spotify.com/track/57THESM0sQvIsh3hTTDvtE) | [Nitin K Siva](https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis) | [Adiyaan](https://open.spotify.com/album/2XpeONOREylCh7qPMjMNIC) | 5:02 | 2024-06-18 | 2024-12-19 |
@@ -389,7 +390,7 @@
 | [Thoomani Maadathu](https://open.spotify.com/track/3zeVE21qZdyH8EYuYnULxE) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Thoomani Maadathu \- Single](https://open.spotify.com/album/3lZCGV2nV1wdjvl3kLl1MO) | 6:15 | 2023-10-06 | 2024-04-03 |
 | [Thoomani Maadathu](https://open.spotify.com/track/7bfxkRgmXbVr81Dv4fwknz) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Thoomani Maadathu \- Single](https://open.spotify.com/album/7b5k1J3hSlEX4a0sC4DvCe) | 6:15 | 2023-07-27 | 2023-12-16 |
 | [Thoomanjin kuliro](https://open.spotify.com/track/5rZpFg5zTR1dC95pYCPLHw) | [Martin Netto](https://open.spotify.com/artist/0wLQFJ1GaXmghVkpz9vCA5) | [Thoomanjin kuliro](https://open.spotify.com/album/7KBAaHaUbUkw06vJxf34ba) | 4:50 | 2024-06-11 | 2024-11-28 |
-| [Thooveyil](https://open.spotify.com/track/2DPKPyfC6UKdQO0oLNQHdx) | [Jeffin Jestin](https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC) | [Thooveyil](https://open.spotify.com/album/7id2rLVo4RYf2G650usQc9) | 2:56 | 2025-05-06 |  |
+| [Thooveyil](https://open.spotify.com/track/2DPKPyfC6UKdQO0oLNQHdx) | [Jeffin Jestin](https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC) | [Thooveyil](https://open.spotify.com/album/7id2rLVo4RYf2G650usQc9) | 2:56 | 2025-05-06 | 2025-10-10 |
 | [Toffee Syrup](https://open.spotify.com/track/3nquR20Ju54R1mHWt4RJ8C) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Jai Matt](https://open.spotify.com/artist/2sC8JDQrhhEjnpeHrTYzjf), [Shafi Ali](https://open.spotify.com/artist/6U09TVU3LUO6LZzwcgh6FG) | [Toffee Syrup](https://open.spotify.com/album/2YF6Yok6OFky8aLbqe5ko9) | 1:53 | 2025-06-27 | 2025-08-02 |
 | [Travelling Gypsies](https://open.spotify.com/track/3mZdRWYIURgCCBkjTWXxJa) | [Shanka Tribe](https://open.spotify.com/artist/1m3UtqSI99YxZy9ysamF7T), [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ) | [Travelling Gypsies](https://open.spotify.com/album/0FS1GmvP4O1D7RF6QlHK5C) | 5:10 | 2023-08-03 | 2024-11-19 |
 | [tum/njan](https://open.spotify.com/track/7jnZVWKd2nkAT6Ccm9mmuR) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE), [Pavitra Krishnan](https://open.spotify.com/artist/6MweA91gS8GfzoAOF7fjCA) | [tum/njan](https://open.spotify.com/album/6llbBlNecpqUn5qVSfXaKz) | 4:08 | 2023-05-19 | 2024-02-19 |

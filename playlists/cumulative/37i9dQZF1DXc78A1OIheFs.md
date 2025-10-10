@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-307 songs - 17 hr 43 min
+309 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Dominoes](https://open.spotify.com/track/4lw8fSL7zLzINdE3ng8hvW) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Dominoes](https://open.spotify.com/album/5HDdfdL3z8GOMcVjQDDAMd) | 2:59 | 2025-07-17 |  |
 | [Don't Wait for Me to Be What You Want Me to Be](https://open.spotify.com/track/5YxYUGOFCEykntX1AYYqK4) | [Tablefox](https://open.spotify.com/artist/6CqjVdTvys0JpDoWs7FsBo) | [Don't Wait for Me to Be What You Want Me to Be](https://open.spotify.com/album/2HbSx1TVZbDgRCZsFNByMA) | 3:16 | 2024-05-20 | 2024-11-08 |
 | [Don't You Die](https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0) | [Bean Magazine](https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152) | [In The Shade](https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne) | 3:13 | 2024-09-19 | 2025-06-01 |
+| [Done Did It \- Revival 2.0](https://open.spotify.com/track/4xImn8Ug4PPnNepPt1tMzE) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Done Did It \(Revival 2.0\)](https://open.spotify.com/album/6rgVc8pR3ZkwkCH03AbIyR) | 3:39 | 2025-10-09 |  |
 | [Driftwood](https://open.spotify.com/track/6wRGndiL768o93yms0HdL8) | [Casual Healing](https://open.spotify.com/artist/1NcvyN544YZpDO2ig9N0vi) | [Driftwood](https://open.spotify.com/album/3AelMW87ekVldc79T6ItmX) | 4:28 | 2024-05-20 | 2024-11-14 |
 | [Drinking In The Morning](https://open.spotify.com/track/0HicFSg1HAgkDPTUKFA9nu) | [Home Brew](https://open.spotify.com/artist/6pAk8OZVCX1nMiYgtAauSH) | [Run It Back](https://open.spotify.com/album/58XdVll8nynryYv4602rua) | 3:53 | 2024-05-20 | 2024-11-28 |
 | [E Tu](https://open.spotify.com/track/5thlXjvNrM6XVugoLOUz0a) | [Lady Shaka](https://open.spotify.com/artist/4WnBM4rBsGkzUiruvnjqWt) | [E Tu](https://open.spotify.com/album/7f7nETvUZJdhXEWSgmhAfm) | 4:19 | 2024-05-20 | 2024-11-08 |
@@ -265,6 +266,7 @@
 | [Stop](https://open.spotify.com/track/5AF1ZAzQrCfIZKnboup3zq) | [Jupita](https://open.spotify.com/artist/20dEUQqgrMGEybe0K79QpF) | [Want You Back](https://open.spotify.com/album/1umHmNKwp7GZlMz7aQrRhX) | 2:59 | 2024-05-20 | 2024-08-16 |
 | [strange](https://open.spotify.com/track/3rMBazPw9A7Of5cyqj0glf) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [small love](https://open.spotify.com/album/4ypZD4hcOuZVEmCBFG3jdB) | 3:24 | 2024-08-15 | 2024-11-08 |
 | [Stylee \(Pep The Conqueror Riddim\)](https://open.spotify.com/track/4Pvrz2VnG8H89EV5jYFTZL) | [Israel Starr](https://open.spotify.com/artist/2RU8SlXTX6tBiFAKCGioui), [The Mighty Asterix](https://open.spotify.com/artist/03jqvlizUBVqzRrqgesVYA) | [Stylee](https://open.spotify.com/album/67FdrrZuIi5gyaxNHSDhqo) | 3:31 | 2024-12-12 | 2024-12-20 |
+| [Suckerpunch](https://open.spotify.com/track/2ByNFaZnv7IBDrVhsL6uuH) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Suckerpunch](https://open.spotify.com/album/6XboCI0IpnvI7EUIRno1Zx) | 2:34 | 2025-10-09 |  |
 | [Sugar Like That](https://open.spotify.com/track/2GZga87kUDmNkFtOq49sEr) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Sugar Like That](https://open.spotify.com/album/6NOHZlMBXG95ldNB72ORJx) | 3:13 | 2024-05-20 | 2025-01-06 |
 | [Sunday Stitches](https://open.spotify.com/track/3M176knH0qYJi7shSNFFBa) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Sunday Stitches](https://open.spotify.com/album/5y9kaAlRXK6rvPxLP6y7gK) | 3:03 | 2024-09-12 | 2025-03-17 |
 | [Sundown](https://open.spotify.com/track/4n741qFXYCwhdA5dcQRXOb) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood / Sundown](https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk) | 3:04 | 2025-04-24 |  |
@@ -289,9 +291,9 @@
 | [Too Busy](https://open.spotify.com/track/0SPLtdmnEr2h0lL6C5uaBO) | [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb) | [Too Busy](https://open.spotify.com/album/0jA7TBoL1ctiW0t9m92YjY) | 2:15 | 2024-10-03 | 2024-11-08 |
 | [Try](https://open.spotify.com/track/6pVFYKsXXQyIv7imo8s6NN) | [The Butlers](https://open.spotify.com/artist/4fNyHJVpejfDhaaWk9jOfN) | [Try](https://open.spotify.com/album/07E0R5RVXE04BzSapxwGwS) | 3:33 | 2024-11-07 | 2024-11-29 |
 | [Try \(Just a little\)](https://open.spotify.com/track/4jJutsIi6rFhBNTmXsE4J5) | [ELENA](https://open.spotify.com/artist/7tnARU2BsPiwHkK9ryyBwU), [Jaevan](https://open.spotify.com/artist/6yJBRzKZFT12hdhYF6evzD) | [Try \(Just a little\)](https://open.spotify.com/album/2wy1Z44RfSo1oWNV2Ws27c) | 2:43 | 2024-05-20 | 2024-11-08 |
-| [U Wanna Give This Up](https://open.spotify.com/track/5iByG8wrFBrqtXdhcKHyRm) | [Kora](https://open.spotify.com/artist/5lc3ISF4CNThZEtJ2N4ZH6) | [Fifth Season](https://open.spotify.com/album/1eZ5In6AmAeAoXGqOdqOkW) | 3:44 | 2025-09-11 |  |
+| [U Wanna Give This Up](https://open.spotify.com/track/5iByG8wrFBrqtXdhcKHyRm) | [Kora](https://open.spotify.com/artist/5lc3ISF4CNThZEtJ2N4ZH6) | [Fifth Season](https://open.spotify.com/album/1eZ5In6AmAeAoXGqOdqOkW) | 3:44 | 2025-09-11 | 2025-10-10 |
 | [Unchained](https://open.spotify.com/track/2JI6dU3fpanCwPMDDzX79K) | [Erny Belle](https://open.spotify.com/artist/0CdfEh26WETJwbJ0a7Gs08) | [Not Your Cupid](https://open.spotify.com/album/48Ccju0seSWWB3ybbrVn6I) | 3:58 | 2024-05-20 | 2024-11-08 |
-| [Under One Roof](https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Under One Roof](https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3) | 4:14 | 2024-05-20 |  |
+| [Under One Roof](https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Under One Roof](https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3) | 4:14 | 2024-05-20 | 2025-10-10 |
 | [Under The Surface](https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Under The Surface](https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz) | 4:14 | 2025-07-31 |  |
 | [Up In Flames \(The Wayland\)](https://open.spotify.com/track/0472ecSudB9Oo4MnHIEpCz) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Up In Flames \(The Wayland\)](https://open.spotify.com/album/5Xrn0ApfuOLdpwxCckSs7a) | 3:52 | 2025-07-03 | 2025-10-04 |
 | [Verrans Corner](https://open.spotify.com/track/124LPhcSC3OmmCKANCoCJZ) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms), [Leith Sye Towers](https://open.spotify.com/artist/31aUsPBLB9sath3vWx8xsq) | [Verrans Corner](https://open.spotify.com/album/61B0gyR89D3jQd75TfQ5wj) | 3:22 | 2025-01-30 | 2025-05-29 |

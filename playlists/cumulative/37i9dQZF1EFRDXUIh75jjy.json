@@ -1168,10 +1168,28 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 167080,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/1TtjtIHYRJuu64TYRzF9U7"
+    },
+    {
+      "album": {
+        "name": "Youngest",
+        "url": "https://open.spotify.com/album/5EDBg5dgK76xXlqJjNp1su"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Basham",
+          "url": "https://open.spotify.com/artist/59QTiNSNEFBZ2pYKOQe6Jz"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167080,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/6QOytbImFr4EyVoJuQPbgm"
     },
     {
       "album": {

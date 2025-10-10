@@ -372,7 +372,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 135156,
       "name": "Cook Am",
       "url": "https://open.spotify.com/track/0AXTVrKCqLurcWjXbSvHTj"
@@ -1678,6 +1678,28 @@
       "duration_ms": 124983,
       "name": "Offer",
       "url": "https://open.spotify.com/track/4ogJO1FCRzu1mbYJ5ykHzG"
+    },
+    {
+      "album": {
+        "name": "Oga Eme",
+        "url": "https://open.spotify.com/album/5wReRIk3koaxWT74b2qFXs"
+      },
+      "artists": [
+        {
+          "name": "Kolaboy",
+          "url": "https://open.spotify.com/artist/6RY4M12pquQEV6wgI6yAeR"
+        },
+        {
+          "name": "Evado",
+          "url": "https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199439,
+      "name": "Oga Eme",
+      "url": "https://open.spotify.com/track/010F52HAOzqGOOAKn8F5oz"
     },
     {
       "album": {

@@ -710,7 +710,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
@@ -8772,7 +8772,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 146938,
       "name": "DEM BOW",
       "url": "https://open.spotify.com/track/2yKt89hsvRBp2mW8CA7OUk"
@@ -17296,7 +17296,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 134400,
       "name": "KTEDE",
       "url": "https://open.spotify.com/track/6FSeXu3pKURyJZldwEr0aI"
@@ -22514,7 +22514,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 173573,
       "name": "ME GUSTAS CC",
       "url": "https://open.spotify.com/track/4Hkp1TiYqGYhknFwtUsbqd"
@@ -30010,7 +30010,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 148915,
       "name": "QLOO*",
       "url": "https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS"
@@ -37002,10 +37002,28 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/0VZvLbADBSQbwFfmvsNl6E"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl (Track by Track Version)",
+        "url": "https://open.spotify.com/album/4tFsJC9jQ0Qjj7HSExhAdm"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
     },
     {
       "album": {
@@ -38554,6 +38572,28 @@
       "duration_ms": 163200,
       "name": "TU$$I (with Dei V)",
       "url": "https://open.spotify.com/track/1txhQHV26PyOJJarkYtkOn"
+    },
+    {
+      "album": {
+        "name": "TUCU TUCU 240",
+        "url": "https://open.spotify.com/album/1ZEpElbe9aTo9r2SppDgAG"
+      },
+      "artists": [
+        {
+          "name": "Chapo 240",
+          "url": "https://open.spotify.com/artist/1mjgxCCu7fUaLC8WlOnOu0"
+        },
+        {
+          "name": "Herido no muerto",
+          "url": "https://open.spotify.com/artist/72d2wiRTQCxoIENVvdb7xc"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83478,
+      "name": "TUCU TUCU 240",
+      "url": "https://open.spotify.com/track/2n6oEtbzpXDhNeh04iwXty"
     },
     {
       "album": {

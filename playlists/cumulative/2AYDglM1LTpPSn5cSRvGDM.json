@@ -517,6 +517,24 @@
     },
     {
       "album": {
+        "name": "Cool",
+        "url": "https://open.spotify.com/album/7GOCQLmrN2lBwDONGS12Zf"
+      },
+      "artists": [
+        {
+          "name": "Max PRIDE",
+          "url": "https://open.spotify.com/artist/04bxZphlt63fTa9YUO0trP"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216306,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/350R6AMr8zdX17trD6ltN4"
+    },
+    {
+      "album": {
         "name": "Cry (Just A Little)",
         "url": "https://open.spotify.com/album/3XnwQ88D5UqWNYXpRQw5ji"
       },
@@ -1050,7 +1068,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 179520,
       "name": "God's Plan A",
       "url": "https://open.spotify.com/track/6j3redU8jAnIRfedleYlir"
@@ -2581,6 +2599,24 @@
     },
     {
       "album": {
+        "name": "So H\u00ef (VIP Mix)",
+        "url": "https://open.spotify.com/album/2BgEBlTxbBl7H1sgqRH5Ae"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260144,
+      "name": "So H\u00ef (VIP Mix)",
+      "url": "https://open.spotify.com/track/2E4ducuUkzT3utPrfElnUc"
+    },
+    {
+      "album": {
         "name": "States Of Flux",
         "url": "https://open.spotify.com/album/2TdJvoiztJcCR6dhDJSVcd"
       },
@@ -2640,7 +2676,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 198466,
       "name": "Subelo",
       "url": "https://open.spotify.com/track/5szq4GnsvihuuxYrKsdsP2"

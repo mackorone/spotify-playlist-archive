@@ -678,7 +678,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 192148,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/7yteHACWU1wnAle5GqzMbx"
@@ -2234,7 +2234,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 239360,
       "name": "Far",
       "url": "https://open.spotify.com/track/4wMH1Ic4taDwbqQGUNdGON"
@@ -6709,6 +6709,24 @@
     },
     {
       "album": {
+        "name": "Stanna tiden",
+        "url": "https://open.spotify.com/album/5os2bSpWI8zm296QjpQyjK"
+      },
+      "artists": [
+        {
+          "name": "Casanovas",
+          "url": "https://open.spotify.com/artist/29JwBerAT0YALGfItKsEbT"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192875,
+      "name": "Stanna tiden",
+      "url": "https://open.spotify.com/track/2pVBeLSMJuHMwGHDM5VtLm"
+    },
+    {
+      "album": {
         "name": "\u00c4rligt misstag",
         "url": "https://open.spotify.com/album/0Ar1oOGOq7FSZDuilbUjoW"
       },
@@ -7464,6 +7482,24 @@
       "duration_ms": 193417,
       "name": "T\u00e4nd hela himlen",
       "url": "https://open.spotify.com/track/2LEsVPAC8rD2mh6px5wlRA"
+    },
+    {
+      "album": {
+        "name": "T\u00e5rar",
+        "url": "https://open.spotify.com/album/0FajfKoec8MCHU2WSXSAuH"
+      },
+      "artists": [
+        {
+          "name": "Markus Kruneg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182567,
+      "name": "T\u00e5rar",
+      "url": "https://open.spotify.com/track/2kouUdyiy2AuDYfYQf52GV"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-813 songs - 1 day 12 hr 45 min
+814 songs - 1 day 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Disco A](https://open.spotify.com/track/3w6HHJ3eWazjQoaDYDzpn3) | [Oh Shu](https://open.spotify.com/artist/75XDEXxePvX7Hx4T3rUlVS) | [Pulchra Ondo](https://open.spotify.com/album/3T6NjKer6Y8obnNywZrJzq) | 2:02 | 2022-01-06 | 2022-01-12 |
 | [distance](https://open.spotify.com/track/1tHDW0NXuPjYVnau1HSqs9) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [distance](https://open.spotify.com/album/18g0X9luZIPtcx0cr3wdoC) | 3:36 | 2023-01-12 | 2023-04-22 |
 | [distance](https://open.spotify.com/track/56QJlPcE0Ge86Q7Sb6fVKp) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [distance](https://open.spotify.com/album/1mHEXbNTGqEDfvdVueuMJ9) | 3:36 | 2023-01-12 | 2023-01-14 |
+| [Distant Lights](https://open.spotify.com/track/5VyCpzqB89n3ilkxHKCthF) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Hideyuki Mochizuki](https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv) | [Distant Lights](https://open.spotify.com/album/7qHGwQ1hxCtJm9nNnAUbS6) | 2:17 | 2025-10-03 |  |
 | [Dntleave](https://open.spotify.com/track/1CQyXpkx1jEC39RyijeOHy) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ) | [Dntleave](https://open.spotify.com/album/4eronGCeRlA7EwC7knCUV1) | 2:15 | 2021-12-23 | 2022-05-20 |
 | [Domestic](https://open.spotify.com/track/1VWNePn7s4RPJEMefXyoIB) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Beats For You Vol.2](https://open.spotify.com/album/6KFl6WAcxp2zkApx8PNGxG) | 3:21 | 2023-05-18 | 2024-03-10 |
 | [Domestic](https://open.spotify.com/track/4CLLXxnWiCK6DSzbMlDwuP) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Beats For You Vol.2](https://open.spotify.com/album/7AUGO9ZUla9Vp8lEFoAb8s) | 3:21 | 2023-05-18 | 2023-05-20 |
@@ -327,7 +328,7 @@
 | [In Moment](https://open.spotify.com/track/0gN3UHcbbfLtIe2HThmvE1) | [UZK](https://open.spotify.com/artist/4nB4wMQin7UtH9VzkpW1Ti) | [In Moment](https://open.spotify.com/album/4zAoLpf8uLbOETYXKoYIWq) | 2:18 | 2022-03-03 | 2022-07-24 |
 | [ingenuity](https://open.spotify.com/track/7Fc6xaWktLjTFh2pkXPWPs) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz) | [Ingenuity \(The Noam Chomsky Music Project\)](https://open.spotify.com/album/00BnzaMCnyitulh8rIEFWV) | 3:04 | 2022-07-28 | 2023-01-11 |
 | [ingenuity](https://open.spotify.com/track/7Jpq5JifjHGXkcke4xaxa8) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz) | [Ingenuity \(The Noam Chomsky Music Project\)](https://open.spotify.com/album/073FOLOmSzVc8brGH32LWB) | 3:04 | 2021-12-23 | 2022-07-29 |
-| [INNER CHILD](https://open.spotify.com/track/0UN76wlPdYnG5O6V0qORZq) | [DJ MOTORA](https://open.spotify.com/artist/5NkOVFLxuooWRa99WZuQu2) | [INNER CHILD](https://open.spotify.com/album/54VHZuKa304ZvfiEXO27xA) | 2:56 | 2021-12-23 |  |
+| [INNER CHILD](https://open.spotify.com/track/0UN76wlPdYnG5O6V0qORZq) | [DJ MOTORA](https://open.spotify.com/artist/5NkOVFLxuooWRa99WZuQu2) | [INNER CHILD](https://open.spotify.com/album/54VHZuKa304ZvfiEXO27xA) | 2:56 | 2021-12-23 | 2025-10-10 |
 | [Inside Love](https://open.spotify.com/track/5WSaTxllq6SNyOCEh2C1kb) | [SSIR](https://open.spotify.com/artist/68aVwfoV4wmRwYhRhaze7t) | [Inside Love](https://open.spotify.com/album/4bA08DkU2XGgOvwgmB7dFa) | 1:40 | 2022-04-14 | 2022-07-28 |
 | [Intersect](https://open.spotify.com/track/40ZwjOSE0JE0eqYN6v1XXn) | [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v), [A N T I T H E S I S](https://open.spotify.com/artist/1sbuH2QadilkAzCOOrjHuf) | [Cadence](https://open.spotify.com/album/61KwQrK6ffvkm5JWWHwjTg) | 2:51 | 2021-12-23 | 2022-07-17 |
 | [INTO DEEP](https://open.spotify.com/track/1c6QKZ0z2TFQwQ7S5lzfjk) | [NARISK](https://open.spotify.com/artist/4maQ6S6tTUotbPZHaxvmxV) | [INTO DEEP](https://open.spotify.com/album/2ZXpS7xopeAG0okEqqtzpU) | 2:34 | 2024-09-06 | 2025-01-14 |
@@ -631,7 +632,7 @@
 | [Sir](https://open.spotify.com/track/3zMU30DtSrXzDj4rFuYZqN) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [WAVE](https://open.spotify.com/album/3jwfV14vK1VHSanxI3VXZY) | 3:36 | 2023-06-20 | 2025-05-08 |
 | [Skip](https://open.spotify.com/track/34N17xMTier5nIm0ETF1xD) | [ROKA](https://open.spotify.com/artist/25ktRTbISZikR4xuLHT8qW) | [Late Night](https://open.spotify.com/album/6zmkMxBuSxAEC9Hm6vDNQi) | 3:00 | 2021-12-23 | 2022-04-19 |
 | [Skylight](https://open.spotify.com/track/3bBTY2QAtEHHRUB34mM44q) | [Toranpetto](https://open.spotify.com/artist/2v5PisngtMQhGwRq6k9Bbn), [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi) | [Skylight](https://open.spotify.com/album/4XzwXAqKC43RXOtCJGkvfU) | 2:09 | 2022-01-13 | 2022-04-12 |
-| [Sleep Walker](https://open.spotify.com/track/6SNlNFbDlx8sUNB7HwOSvO) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [Sleep Walker](https://open.spotify.com/album/3yF1gRSDuuNphjWk2Ot6AE) | 2:42 | 2023-06-01 | 2025-10-07 |
+| [Sleep Walker](https://open.spotify.com/track/6SNlNFbDlx8sUNB7HwOSvO) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [Sleep Walker](https://open.spotify.com/album/3yF1gRSDuuNphjWk2Ot6AE) | 2:42 | 2023-06-01 |  |
 | [sleeping](https://open.spotify.com/track/6vLM2Mnx7TSprGz0sN5lsl) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [sleeping](https://open.spotify.com/album/4pt1aDvcYSMz2UIFpyLkTT) | 3:09 | 2021-12-23 | 2022-07-29 |
 | [Slice](https://open.spotify.com/track/7rwCEAFT5ffObK2pWxx3d7) | [THE BED ROOM TAPE](https://open.spotify.com/artist/6FQe8UCJgRKmFoInsr0Sjk) | [Slice](https://open.spotify.com/album/6JKDszJZhXoXUptZLfeL9I) | 2:41 | 2022-01-13 | 2022-04-30 |
 | [Sliding Doors](https://open.spotify.com/track/3Cxr6JFgfsDlTpFvLjGiEk) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9), [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Sliding Doors](https://open.spotify.com/album/0UeWO6sRVzCZba6R69kBRO) | 2:09 | 2022-01-06 | 2024-06-21 |
@@ -819,7 +820,7 @@
 | [愛が廃れたって \- Instrumental](https://open.spotify.com/track/3JCWebd4sVMpxStBvFpoJS) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [MAHORO \(Instrumental\)](https://open.spotify.com/album/5V79pIal805EAayl2qblmu) | 4:11 | 2024-02-01 | 2024-06-08 |
 | [波紋](https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [波紋](https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8) | 3:09 | 2025-07-11 |  |
 | [秩父](https://open.spotify.com/track/5Ppgh0p36VFv6tyz1ouT2f) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:17 | 2024-01-10 |  |
-| [花火 01](https://open.spotify.com/track/3roiSk1Qepttg9ct0tLm5G) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [花火](https://open.spotify.com/album/4Jgfki9QuMF1C1eTdtoenN) | 1:55 | 2021-12-23 |  |
+| [花火 01](https://open.spotify.com/track/3roiSk1Qepttg9ct0tLm5G) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [花火](https://open.spotify.com/album/4Jgfki9QuMF1C1eTdtoenN) | 1:55 | 2021-12-23 | 2025-10-10 |
 | [蛍の光 \- Step into a World](https://open.spotify.com/track/2C9mRXopIobQ0Op4LmvVfB) | [MAHBIE](https://open.spotify.com/artist/5ggbey9WKiS849lppw8lbs) | [蛍の光 \(Step into a World\)](https://open.spotify.com/album/2xuer9lpvG0RRLu2OICRn0) | 1:35 | 2022-03-24 | 2022-07-30 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

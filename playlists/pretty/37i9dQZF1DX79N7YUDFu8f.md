@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 
 > Lekker rustig aan doen op zaterdag met deze zachte popliedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,156 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,151 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Summertime's Close](https://open.spotify.com/track/37SFV64sDYz3Vbs6lwAjkB) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh) | [Summertime's Close](https://open.spotify.com/album/2mh8X3Q2BcIXIK2N2iomEg) | 3:01 |
 | 2 | [Harder To Love](https://open.spotify.com/track/0oI4tNKqTOURxMAvka5d4r) | [Neil Foreman](https://open.spotify.com/artist/0GRlXaSc9udpxeUuLmP7jo) | [Harder To Love](https://open.spotify.com/album/4s400ZZn2WSPM6CaUfAsHC) | 3:39 |
-| 3 | [In Our Veins](https://open.spotify.com/track/5t3kJCjFtc69B80hDQQwYZ) | [Cézanne](https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3), [Uevo](https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi), [Superfuse](https://open.spotify.com/artist/4H6l4uxiqZ7uaUwpLkrr3f), [Thierry Ganz](https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV), [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP) | [In Our Veins](https://open.spotify.com/album/5FRHz9MPosdmWqUWdvPGLa) | 3:40 |
+| 3 | [In Our Veins](https://open.spotify.com/track/5t3kJCjFtc69B80hDQQwYZ) | [Cézanne](https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3), [Superfuse](https://open.spotify.com/artist/4H6l4uxiqZ7uaUwpLkrr3f), [Uevo](https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi), [Thierry Ganz](https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV), [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP) | [In Our Veins](https://open.spotify.com/album/5FRHz9MPosdmWqUWdvPGLa) | 3:40 |
 | 4 | [The Sailors' Tales](https://open.spotify.com/track/1XJbj3IBytWGi2At0HjcRr) | [Aure](https://open.spotify.com/artist/7KJ2PJCOvE40LTdQ7qEcM6) | [The Sailors' Tales](https://open.spotify.com/album/0v6YscOyjviSJ1hqRTqS4T) | 3:24 |
 | 5 | [Heart Talks](https://open.spotify.com/track/3PGZRVnlybWd3Q2lNIgNcs) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [Heart Talks](https://open.spotify.com/album/0h02ch3LLJXbUsdvh05BJs) | 2:01 |
 | 6 | [In Our Blood \- Acoustic](https://open.spotify.com/track/4a21EACjyMtifGTF1PgheC) | [MADOUX](https://open.spotify.com/artist/1hSsJVN9NYlY67CFZEIILZ) | [In Our Blood \(Acoustic\)](https://open.spotify.com/album/4TkThiRr9e9AAuxHYtSHLx) | 3:27 |

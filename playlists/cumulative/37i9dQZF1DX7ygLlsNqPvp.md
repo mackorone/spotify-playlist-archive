@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  O'Kenneth
 
-261 songs - 13 hr 5 min
+262 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [ALA BEKE 2](https://open.spotify.com/track/4K9AA4YDiI3y4NPKevpyGN) | [EverythingOShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [ALA BEKE 2](https://open.spotify.com/album/2sDHYMxotwVrr40MSel3PG) | 2:59 | 2023-10-27 | 2024-01-05 |
 | [All Night Long](https://open.spotify.com/track/5laAQVa5FY1IKNZHk2ucr2) | [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh) | [All Night Long](https://open.spotify.com/album/7MaXKY3yGqpRVWDLMDKi0A) | 2:04 | 2024-04-05 | 2024-04-19 |
 | [Always \(feat\. Black Sherif\)](https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Always \(feat\. Black Sherif\)](https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH) | 2:34 | 2022-06-09 |  |
-| [Ama Yare Fever](https://open.spotify.com/track/3cA0upp0hDelZXlw4kpRVW) | [Kwaw Kese](https://open.spotify.com/artist/5orboL2SUTJGDKfMVgCCBt), [Skonti](https://open.spotify.com/artist/1cNkGlkbYoFw0BJJJ9UMNl) | [Ama Yare Fever](https://open.spotify.com/album/5J5tR3IfSiUmWZy41t3eS6) | 2:52 | 2025-09-26 |  |
+| [Ama Yare Fever](https://open.spotify.com/track/3cA0upp0hDelZXlw4kpRVW) | [Kwaw Kese](https://open.spotify.com/artist/5orboL2SUTJGDKfMVgCCBt), [Skonti](https://open.spotify.com/artist/1cNkGlkbYoFw0BJJJ9UMNl) | [Ama Yare Fever](https://open.spotify.com/album/5J5tR3IfSiUmWZy41t3eS6) | 2:52 | 2025-09-26 | 2025-10-10 |
 | [Anadwo](https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Anadwo](https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh) | 2:50 | 2022-12-02 |  |
 | [ANADWO](https://open.spotify.com/track/5w7jfLrHkTNPT0X8WqvD39) | [Kwame Yesu](https://open.spotify.com/artist/2Wj6QDzfwiv0Px83nDFTRf), [Black Sherif](https://open.spotify.com/artist/7vUqrkIW1S62gRXf3lGhdc), [Kimilist](https://open.spotify.com/artist/2o0JWJBhIb9uopM3YEecpP) | [ANADWO](https://open.spotify.com/album/7MzcMtFt7MIxdGNdEKA2Bw) | 2:43 | 2022-06-09 | 2024-09-20 |
 | [ANADWO](https://open.spotify.com/track/0yJwoXiQgvWGRI0zC4fBkc) | [Kwame Yesu](https://open.spotify.com/artist/2Wj6QDzfwiv0Px83nDFTRf), [Black Sheriff](https://open.spotify.com/artist/1zNmTgU8HEjyvdD1UDpOi9), [Kimilist](https://open.spotify.com/artist/2o0JWJBhIb9uopM3YEecpP) | [ANADWO](https://open.spotify.com/album/1zBWBi9V1zJ1wU6yKCMC8b) | 2:43 | 2022-11-04 | 2024-04-19 |
@@ -241,6 +241,7 @@
 | [Toffee](https://open.spotify.com/track/4qncFa5abNWOljfJ6atPcZ) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [TOFFEE](https://open.spotify.com/album/2w0uS5c01bbICce8aD9thW) | 3:25 | 2025-07-18 | 2025-09-19 |
 | [Tonight](https://open.spotify.com/track/4AwLs3NpQFSy5bhIdeXWll) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Tonight](https://open.spotify.com/album/5rikpwZ6bc9dweoWLojsyz) | 2:19 | 2023-11-17 | 2024-01-19 |
 | [Touché](https://open.spotify.com/track/7icSngvRJmY5FpcsXg67yv) | [Nasa Nassa](https://open.spotify.com/artist/1LKGSEPso33OnJ1fZxsQVP) | [Touché](https://open.spotify.com/album/1YuEqdkNN7wFiT3LfSKcdn) | 2:02 | 2023-03-10 | 2023-03-18 |
+| [Track 8](https://open.spotify.com/track/5xR6EWpW9tAmIrzJ0Ba1SQ) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-10 |  |
 | [Trapper Man](https://open.spotify.com/track/1J8NL4Us5EZSJw1GwkvRiS) | [Hiphop Africa](https://open.spotify.com/artist/2s1z2VzXmksRd1VNoKhkhY), [Sobolo Geng](https://open.spotify.com/artist/5gKj7cTFiW0Edum0HkGifx) | [Trapper Man](https://open.spotify.com/album/6tTm9ln6qZuquAWFnO4Di3) | 3:07 | 2025-09-26 |  |
 | [TRAUMA](https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 2:48 | 2024-05-24 |  |
 | [U CAN'T SHOW ME NATTIN](https://open.spotify.com/track/0UK1y4xvWdW72NZikJTNtZ) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [U CAN'T SHOW ME NATTIN](https://open.spotify.com/album/52ozyyffNnSxshBttmll8o) | 2:17 | 2022-06-09 | 2024-03-15 |

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-770 songs - 1 day 14 hr 38 min
+771 songs - 1 day 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [In My Head](https://open.spotify.com/track/1NK0ypmETjEOrPa14AkwTv) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [In My Head](https://open.spotify.com/album/4Mf0mMMSrcaZWoLvG5u0Rc) | 3:08 | 2022-04-01 | 2023-04-28 |
 | [Indecisive](https://open.spotify.com/track/6cflobyhOe9JT0AMCPr58z) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH) | [Indecisive](https://open.spotify.com/album/0fAyvEOFvQA2FcYxr9ftpz) | 3:34 | 2023-07-28 | 2023-08-28 |
 | [Indifferent](https://open.spotify.com/track/2r5Vi46hcW5BZxkyFYlpPu) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Vision](https://open.spotify.com/album/4jSTCSMwtEbQXVkJmY0M5p) | 3:00 | 2023-02-17 | 2023-08-10 |
+| [INDUSTRY KISS](https://open.spotify.com/track/1AmCPbQLCXici8sT4AIt4S) | [DIPIENS](https://open.spotify.com/artist/6CYjGgv0fYxHFHCKWn7SyX), [HRXSTAL](https://open.spotify.com/artist/3TU2ypJAzSbPvuyH54Y8Xu) | [INDUSTRY KISS](https://open.spotify.com/album/6ZqC238m819xm9mxWtvF2h) | 1:31 | 2025-10-09 |  |
 | [Innocent](https://open.spotify.com/track/0R1IWHDG0pHI7Zyx0k5Fpz) | [STAR SEED](https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd), [Cafe Disko](https://open.spotify.com/artist/7x6KEmSwlWNo0d628uyi7W), [Michaella](https://open.spotify.com/artist/0gWwBifnNhOq7IisbNp2mj) | [Innocent](https://open.spotify.com/album/7oTVJrxC7dlTsNVjY4HplV) | 2:52 | 2022-05-19 | 2023-04-28 |
 | [Insanity](https://open.spotify.com/track/0WeJnIFRnS47MlUGdbEgur) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Insanity](https://open.spotify.com/album/5tfyZzAih0ofeTATvxvd1i) | 2:59 | 2022-11-23 | 2023-04-28 |
 | [Insides](https://open.spotify.com/track/6ahPq19N2CB1YcHKrs4890) | [NO QVLT](https://open.spotify.com/artist/4KhqCc2m8ZmB3fraLwK4fg), [JESSY KVGE](https://open.spotify.com/artist/7mhkgK8BCWTwGdsKPGwPgm) | [Insides](https://open.spotify.com/album/3IOlEaEF7q1mnrnrgufyF0) | 2:48 | 2023-02-08 | 2023-08-10 |

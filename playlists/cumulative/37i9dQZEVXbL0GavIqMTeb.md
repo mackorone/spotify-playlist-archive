@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Chile.
 
-1,429 songs - 3 day 6 hr 45 min
+1,431 songs - 3 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -913,7 +913,8 @@
 | [Olvidona \(feat\. Lleflight, Best\)](https://open.spotify.com/track/4o5DgFbeHH6kG84MrP85Ly) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt), [El Futuro Fuera De Orbita](https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk), [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [Olvidona \(feat\. Lleflight, Best\)](https://open.spotify.com/album/0kBgcGgNqyr0tCqY4PRuEw) | 3:53 | 2022-08-02 | 2022-08-14 |
 | [Opalite](https://open.spotify.com/track/3euZKF0hmGxQ6h2JHHY4iu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:55 | 2025-10-04 | 2025-10-06 |
 | [Opalite](https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:55 | 2025-10-07 | 2025-10-09 |
-| [Opalite](https://open.spotify.com/track/5DYxz8TDpVVbRtWDABRIkJ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl \(Track by Track Version\)](https://open.spotify.com/album/5HyZy1hYpNTiCLRRy4PeNc) | 3:55 | 2025-10-08 |  |
+| [Opalite](https://open.spotify.com/track/5DYxz8TDpVVbRtWDABRIkJ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl \(Track by Track Version\)](https://open.spotify.com/album/5HyZy1hYpNTiCLRRy4PeNc) | 3:55 | 2025-10-08 | 2025-10-10 |
+| [Opalite](https://open.spotify.com/track/67osB3wmJVTFzKhWqPb1Hm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl \(Track by Track Version\)](https://open.spotify.com/album/4tFsJC9jQ0Qjj7HSExhAdm) | 3:55 | 2025-10-09 |  |
 | [OTRA VOLÁ](https://open.spotify.com/track/5Gfz87yOuTRd8TzBLAwZtH) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [OTRA VOLÁ](https://open.spotify.com/album/2LgfQglxQ8Jf3U9zkPGdut) | 3:06 | 2024-12-21 | 2025-01-07 |
 | [Otro Atardecer](https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:04 | 2022-05-07 | 2022-06-05 |
 | [Out Of The Woods \(Taylor's Version\)](https://open.spotify.com/track/045ZeOHPIzhxxsm8bq5kyE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:55 | 2023-10-28 | 2023-10-30 |
@@ -1250,7 +1251,8 @@
 | [TENGO CELOS](https://open.spotify.com/track/5lwPKH5nmro0uXGs8PiAQq) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ISLAND BOYZ](https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj) | 3:31 | 2025-07-22 | 2025-08-18 |
 | [Tequila y Limón](https://open.spotify.com/track/4nwwtB3VG12feSnOGv9Ogc) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Yilberking](https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt) | [Tequila y Limón](https://open.spotify.com/album/307GJoAA6PS17Q59KGbR9A) | 3:35 | 2022-07-08 | 2022-10-09 |
 | [Tercer Cielo](https://open.spotify.com/track/3IF8pvAL68bGZu3s720p3r) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Apocalipsis](https://open.spotify.com/album/47JohERDAJVAzmfCgOfG5w) | 3:41 | 2025-06-28 | 2025-06-30 |
-| [The Fate of Ophelia](https://open.spotify.com/track/0VZvLbADBSQbwFfmvsNl6E) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl \(Track by Track Version\)](https://open.spotify.com/album/5HyZy1hYpNTiCLRRy4PeNc) | 3:46 | 2025-10-08 |  |
+| [The Fate of Ophelia](https://open.spotify.com/track/0VZvLbADBSQbwFfmvsNl6E) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl \(Track by Track Version\)](https://open.spotify.com/album/5HyZy1hYpNTiCLRRy4PeNc) | 3:46 | 2025-10-08 | 2025-10-10 |
+| [The Fate of Ophelia](https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl \(Track by Track Version\)](https://open.spotify.com/album/4tFsJC9jQ0Qjj7HSExhAdm) | 3:46 | 2025-10-09 |  |
 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 | 2025-10-04 | 2025-10-06 |
 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 | 2025-10-05 | 2025-10-09 |
 | [The Life of a Showgirl \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 4:01 | 2025-10-04 | 2025-10-06 |

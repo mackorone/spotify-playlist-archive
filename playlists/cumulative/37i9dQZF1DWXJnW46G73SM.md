@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف:  أنغام
 
-1,582 songs - 3 day 16 hr 14 min
+1,583 songs - 3 day 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,7 +436,7 @@
 | [Habet Zekraiat](https://open.spotify.com/track/2w4Js4gM2W559oPh68SDaI) | [Mayada El Hennawy](https://open.spotify.com/artist/4KEnL3MuGqQHnaIKdZ1pYz) | [Habet Zekraiat](https://open.spotify.com/album/6C407LUwJknjEg0sKQSeS3) | 4:41 | 2024-05-02 | 2024-07-04 |
 | [Habitha Ya Nas \- From Bhabak](https://open.spotify.com/track/2SeSRjNj2SJF7Ieo8Q1vnj) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Habitha Ya Nas \(From Bhabak\)](https://open.spotify.com/album/6Bhai5TfTSq9hX4SyHSvGS) | 2:35 | 2022-07-14 | 2022-10-08 |
 | [Had Men Jilak](https://open.spotify.com/track/56Y3GU1zXSnrLgTvYy9LFB) | [Mohamed Osama](https://open.spotify.com/artist/4NH8A2q0S9Pkx2t2J3a2Z7) | [Had Men Gilak](https://open.spotify.com/album/6D4G8wpUbwss3P8PlaEDNP) | 3:21 | 2024-01-19 | 2024-02-16 |
-| [Had Shafna](https://open.spotify.com/track/0YZuaNSwFJ74sGfHOs3zF4) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Had Shafna](https://open.spotify.com/album/5jgkwJfPwDJWfUweuGeXHm) | 2:30 | 2025-07-10 |  |
+| [Had Shafna](https://open.spotify.com/track/0YZuaNSwFJ74sGfHOs3zF4) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Had Shafna](https://open.spotify.com/album/5jgkwJfPwDJWfUweuGeXHm) | 2:30 | 2025-07-10 | 2025-10-10 |
 | [Hadalaany \- From Bhabak Movie](https://open.spotify.com/track/2MBqyVD794w8Tn0IPGLEBW) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Hadalaany \(From Bhabak Movie\)](https://open.spotify.com/album/2dQZwRz9UH0MLwKmxeegsz) | 3:26 | 2022-07-06 | 2022-09-27 |
 | [HADI](https://open.spotify.com/track/7oiLuyrPC4QuNwHFfua07x) | [ZerOne](https://open.spotify.com/artist/2lcab8Cgn9N6ungK6xTTYJ) | [Out of Phase](https://open.spotify.com/album/2pepikw3xByaUJq9wmfLc3) | 2:04 | 2024-12-19 | 2025-01-28 |
 | [Hadouta](https://open.spotify.com/track/5thHVbvP2rjqp6OjEj7vYh) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [Hadouta](https://open.spotify.com/album/2kGYSWJdmsp0yN5hvCcEgK) | 2:19 | 2023-04-20 | 2023-05-02 |
@@ -759,6 +759,7 @@
 | [Nensa El Leil](https://open.spotify.com/track/5gVGlQ42sx0lfZena81pMp) | [Mohamed Samy](https://open.spotify.com/artist/5fFrme3y5uOMz38dF8TTR2) | [Nensa El Leil](https://open.spotify.com/album/4r6TzKnO0SNpD8qjgTlKmf) | 3:32 | 2023-11-16 | 2024-01-18 |
 | [Nerga3 Le Awel Yom](https://open.spotify.com/track/4vvC2mzVHEpN5sif3H3uk5) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU), [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [Red Bull Sika](https://open.spotify.com/album/4C2MYpwVnY9eI16REXuX66) | 3:00 | 2024-02-06 | 2024-03-13 |
 | [Nerga3 Le Awel Yom](https://open.spotify.com/track/10StqOKDsfg3fR9RtisE1J) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf), [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU), [Maher El Mallakh](https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau) | [Nerga3 Le Awel Yom](https://open.spotify.com/album/1Ieu8XhYIerhLVPXdNo2Yt) | 3:00 | 2024-03-21 | 2024-06-14 |
+| [Nesrah Fi Zaman \(Men Film Feha Eih Yaany\)](https://open.spotify.com/track/0Bhkw43EronQr9Rb4W6lIn) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Nesrah Fi Zaman \(Men Film Feha Eih Yaany\)](https://open.spotify.com/album/6anwD47dNWW5K889jejmNj) | 3:00 | 2025-10-09 |  |
 | [NOGOUM](https://open.spotify.com/track/422PILIziVLZxNxUbqZI7m) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo) | [NOGOUM](https://open.spotify.com/album/1ll90zThmr4e42eXhLVXKk) | 2:35 | 2024-10-24 | 2024-12-06 |
 | [Nos Banat Baldak](https://open.spotify.com/track/20DeZwWJThCpSa4EQiTSYU) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Nos Banat Baldak](https://open.spotify.com/album/2k7h0V2XiWoHIEz0TercUZ) | 2:08 | 2023-12-29 | 2023-12-31 |
 | [Nécessaire](https://open.spotify.com/track/24BRftQd04lh9O0J5R4jst) | [Mario Fresh](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF), [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR), [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Nécessaire](https://open.spotify.com/album/3OgMI7hy4jxaRcGQwabiO1) | 3:46 | 2023-06-29 | 2023-08-03 |

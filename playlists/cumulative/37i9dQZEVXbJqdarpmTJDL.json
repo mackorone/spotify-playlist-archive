@@ -4636,7 +4636,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 187058,
       "name": "AUREVOIR",
       "url": "https://open.spotify.com/track/3aFxTuIQQdVzvIoN7dZjdf"
@@ -4742,7 +4742,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 179498,
       "name": "Ax Kardia Mou",
       "url": "https://open.spotify.com/track/0PFoC7hLMPv5NJ2l8xpofj"
@@ -12854,7 +12854,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 180250,
       "name": "Einai Magika",
       "url": "https://open.spotify.com/track/2G162R7zBBxY59Ub77xL8n"
@@ -22264,7 +22264,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 187133,
       "name": "Kapos Allios",
       "url": "https://open.spotify.com/track/2AQtKCJgmykkIC2bODzcfN"
@@ -23842,7 +23842,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 232040,
       "name": "Kontra",
       "url": "https://open.spotify.com/track/0dMasOoYB6bpcu35QpScjc"
@@ -28196,7 +28196,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 177230,
       "name": "MCMG",
       "url": "https://open.spotify.com/track/77Wm22dAxuoUaanH6Rx7aT"
@@ -30542,7 +30542,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 212244,
       "name": "Mosca",
       "url": "https://open.spotify.com/track/6dX52uQdpwEDkgAcNjOwuI"
@@ -32736,7 +32736,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 172500,
       "name": "ODIGAO STIN VROXI",
       "url": "https://open.spotify.com/track/4wMR1bMmnh0d9nRVFItM1F"
@@ -35424,7 +35424,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-01",
+      "date_removed": null,
       "duration_ms": 155076,
       "name": "PELIGROSA",
       "url": "https://open.spotify.com/track/0ZUi3ZpCWC1DQnwW3bcFmH"
@@ -37384,7 +37384,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 193777,
       "name": "PROTI FORA",
       "url": "https://open.spotify.com/track/2ZP1SQPZboChRCbxhh6sBh"
@@ -38470,7 +38470,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 220041,
       "name": "Rendez-vous",
       "url": "https://open.spotify.com/track/38xVobP0F1HWTtgwgXaPLg"
@@ -44314,10 +44314,28 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/0VZvLbADBSQbwFfmvsNl6E"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl (Track by Track Version)",
+        "url": "https://open.spotify.com/album/4tFsJC9jQ0Qjj7HSExhAdm"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/1dosSsKwYF7hoQA2kuu6wI"
     },
     {
       "album": {
@@ -46196,7 +46214,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-29",
+      "date_removed": null,
       "duration_ms": 139200,
       "name": "TRANQUILA",
       "url": "https://open.spotify.com/track/3wFcRJlyQqaIF0gPfkz3y7"

@@ -1,13 +1,45 @@
 {
-  "description": "Los \u00e9xitos del Dembow. Portada: Lomiiel",
-  "num_followers": 696621,
+  "description": "Los \u00e9xitos del Dembow. Portada: Jezzy",
+  "num_followers": 696718,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJREI7tgaaZHgvfF1HLTsANxA7Tm",
+  "snapshot_id": "AAAAAKlfzC1s4DauC9vv2jvjWQlv0FNs",
   "tracks": [
+    {
+      "added_at": "2025-10-09 21:10:05",
+      "album": {
+        "name": "Que Sensaci\u00f3n",
+        "url": "https://open.spotify.com/album/1RxofSucDGt5IujJ2615cQ"
+      },
+      "artists": [
+        {
+          "name": "Jezzy",
+          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
+        }
+      ],
+      "duration_ms": 137590,
+      "name": "Que Sensaci\u00f3n",
+      "url": "https://open.spotify.com/track/6HKM31OYl260uEXGNRdsPz"
+    },
+    {
+      "added_at": "2025-05-12 13:44:40",
+      "album": {
+        "name": "Una Chica Good",
+        "url": "https://open.spotify.com/album/4BSrwE9l7Ki3lL5kffKWV3"
+      },
+      "artists": [
+        {
+          "name": "Chaki Bley",
+          "url": "https://open.spotify.com/artist/6XDTsLXTuyq3VqLKpW67To"
+        }
+      ],
+      "duration_ms": 131081,
+      "name": "Una Chica Good",
+      "url": "https://open.spotify.com/track/1Zxlcq1l9SXZtGHzYuv0fs"
+    },
     {
       "added_at": "2025-05-29 17:35:57",
       "album": {
@@ -71,6 +103,26 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "PIKY",
+        "url": "https://open.spotify.com/album/0t5bMVKuAIiqToDa5bz6li"
+      },
+      "artists": [
+        {
+          "name": "Jezzy",
+          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
+        },
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+        }
+      ],
+      "duration_ms": 118998,
+      "name": "PIKY",
+      "url": "https://open.spotify.com/track/3s53B1v7ijagovFhhWVX8n"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "HAY LUPITA",
         "url": "https://open.spotify.com/album/1gGvVUNqBHKn1ct3FX5EVM"
       },
@@ -101,40 +153,24 @@
       "url": "https://open.spotify.com/track/6YGb9NqR0wp9nFj9n5h3W8"
     },
     {
-      "added_at": "2024-08-23 04:00:00",
+      "added_at": "2025-10-09 19:40:25",
       "album": {
-        "name": "PIKY",
-        "url": "https://open.spotify.com/album/0t5bMVKuAIiqToDa5bz6li"
+        "name": "Lo Que Pueda",
+        "url": "https://open.spotify.com/album/6CvWEmt3xZ3pweimfJMQpA"
       },
       "artists": [
         {
-          "name": "Jezzy",
-          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
         },
         {
-          "name": "Leo RD",
-          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+          "name": "Herido no muerto",
+          "url": "https://open.spotify.com/artist/72d2wiRTQCxoIENVvdb7xc"
         }
       ],
-      "duration_ms": 118998,
-      "name": "PIKY",
-      "url": "https://open.spotify.com/track/3s53B1v7ijagovFhhWVX8n"
-    },
-    {
-      "added_at": "2025-05-12 13:44:40",
-      "album": {
-        "name": "Una Chica Good",
-        "url": "https://open.spotify.com/album/4BSrwE9l7Ki3lL5kffKWV3"
-      },
-      "artists": [
-        {
-          "name": "Chaki Bley",
-          "url": "https://open.spotify.com/artist/6XDTsLXTuyq3VqLKpW67To"
-        }
-      ],
-      "duration_ms": 131081,
-      "name": "Una Chica Good",
-      "url": "https://open.spotify.com/track/1Zxlcq1l9SXZtGHzYuv0fs"
+      "duration_ms": 108521,
+      "name": "Lo Que Pueda",
+      "url": "https://open.spotify.com/track/30nFYRKzWVSRD3On03CbzH"
     },
     {
       "added_at": "2025-09-27 21:02:54",
@@ -225,6 +261,22 @@
       "url": "https://open.spotify.com/track/4n3OzPpoNDyHKKu7AeMV5P"
     },
     {
+      "added_at": "2025-10-09 19:40:25",
+      "album": {
+        "name": "Dime Cuero",
+        "url": "https://open.spotify.com/album/1KvZio518bIYQiGVG5LaGx"
+      },
+      "artists": [
+        {
+          "name": "La Insuperable",
+          "url": "https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu"
+        }
+      ],
+      "duration_ms": 102892,
+      "name": "Dime Cuero",
+      "url": "https://open.spotify.com/track/7uCTKGaWHqP4437MaAxIJn"
+    },
+    {
       "added_at": "2025-07-03 16:50:58",
       "album": {
         "name": "Pretty Little Baby",
@@ -289,6 +341,26 @@
       "url": "https://open.spotify.com/track/6lq4TRhilKo0nka9BcfyB1"
     },
     {
+      "added_at": "2025-10-09 19:40:25",
+      "album": {
+        "name": "Se Riega",
+        "url": "https://open.spotify.com/album/2F9NvZEkq2lHSeTSLWpnMs"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 160178,
+      "name": "Se Riega",
+      "url": "https://open.spotify.com/track/7EOiQ1TeeA4eMgkCl4gUGY"
+    },
+    {
       "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "A 30",
@@ -349,34 +421,6 @@
       "url": "https://open.spotify.com/track/3wVmOUwQAQLV4pWV6HrJKe"
     },
     {
-      "added_at": "2025-08-14 20:24:51",
-      "album": {
-        "name": "ZAZA (Remix)",
-        "url": "https://open.spotify.com/album/0T5xVk0gJGFT32gLsea2T4"
-      },
-      "artists": [
-        {
-          "name": "El Sie7e",
-          "url": "https://open.spotify.com/artist/589jbVYNbLSQNTdIsDvn32"
-        },
-        {
-          "name": "D\u00b4Flow Aka La Maldad",
-          "url": "https://open.spotify.com/artist/5w84GjBkeOt0pRHp2nEWEG"
-        },
-        {
-          "name": "Rony Alca",
-          "url": "https://open.spotify.com/artist/6f9dqXCJ5pB3tSOMnim6Qp"
-        },
-        {
-          "name": "Duglaung",
-          "url": "https://open.spotify.com/artist/5jg4U8gPfe7dWpZND8lsXu"
-        }
-      ],
-      "duration_ms": 143280,
-      "name": "ZAZA - Remix",
-      "url": "https://open.spotify.com/track/157SLPPoUprFCCeFf6aSSK"
-    },
-    {
       "added_at": "2025-04-04 14:08:06",
       "album": {
         "name": "Suave",
@@ -395,26 +439,6 @@
       "duration_ms": 150000,
       "name": "Suave",
       "url": "https://open.spotify.com/track/3D9d0PEHfC9PqQAwKKljDv"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Vivo Por Palomo",
-        "url": "https://open.spotify.com/album/5G8vSgM0oZM6HIIiDQcf3f"
-      },
-      "artists": [
-        {
-          "name": "Bulin 47",
-          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
-        },
-        {
-          "name": "Papaa Tyga",
-          "url": "https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC"
-        }
-      ],
-      "duration_ms": 206842,
-      "name": "Vivo Por Palomo",
-      "url": "https://open.spotify.com/track/74trikNmBL8OMjgBZwlJw9"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -473,6 +497,26 @@
       "url": "https://open.spotify.com/track/3cLJM4we8Fk8akofS5Zek9"
     },
     {
+      "added_at": "2025-10-09 19:40:25",
+      "album": {
+        "name": "MUXAXA",
+        "url": "https://open.spotify.com/album/6NeWz1m7EndzRGrxiX39KZ"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "La Mas Doll",
+          "url": "https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK"
+        }
+      ],
+      "duration_ms": 109268,
+      "name": "MUXAXA",
+      "url": "https://open.spotify.com/track/0zNQhDxF7EVm7VUqU7nIBu"
+    },
+    {
       "added_at": "2024-10-17 20:31:47",
       "album": {
         "name": "CHAPA",
@@ -491,26 +535,6 @@
       "duration_ms": 120052,
       "name": "CHAPA",
       "url": "https://open.spotify.com/track/4uFYkBaLGIhBaLT9KbhyPt"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Sistema De Patio",
-        "url": "https://open.spotify.com/album/2CEgQxkmV8DKlSp0hHR839"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "Treintisiete",
-          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
-        }
-      ],
-      "duration_ms": 134222,
-      "name": "Sistema De Patio",
-      "url": "https://open.spotify.com/track/65497v9jzFfu5sSA8ADap5"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -731,46 +755,6 @@
       "duration_ms": 125004,
       "name": "Que La Choque",
       "url": "https://open.spotify.com/track/0kjH0WcUn6hzQxbwW03vjq"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "TATARA REMIX",
-        "url": "https://open.spotify.com/album/5UvfZwBtCIWUNdDwuCExby"
-      },
-      "artists": [
-        {
-          "name": "Lomiiel",
-          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
-        },
-        {
-          "name": "Papera",
-          "url": "https://open.spotify.com/artist/7tRcVlJSQ6F0mB3KOyTVoC"
-        },
-        {
-          "name": "Alex Roxario",
-          "url": "https://open.spotify.com/artist/0Ta0HnBvC1V8dfxjgn5PLw"
-        }
-      ],
-      "duration_ms": 154083,
-      "name": "TATARA REMIX",
-      "url": "https://open.spotify.com/track/3rGXH8BjIWSZgr38faOSNJ"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "AY LILY",
-        "url": "https://open.spotify.com/album/2wOzDb7LoRztDK25KmPbqH"
-      },
-      "artists": [
-        {
-          "name": "Lomiiel",
-          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
-        }
-      ],
-      "duration_ms": 82500,
-      "name": "AY LILY",
-      "url": "https://open.spotify.com/track/0n0JzQMRHIRyzzQa1NNcsh"
     },
     {
       "added_at": "2024-08-23 04:00:00",

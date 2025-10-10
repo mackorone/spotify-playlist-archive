@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: AO Cubo",
-  "num_followers": 184727,
+  "num_followers": 184767,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -392,7 +392,7 @@
           "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
         },
         {
-          "name": "Trindade Records",
+          "name": "TRDD",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         },
         {
@@ -448,7 +448,7 @@
           "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
         },
         {
-          "name": "Trindade Records",
+          "name": "TRDD",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         },
         {
@@ -648,7 +648,7 @@
           "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
         },
         {
-          "name": "Trindade Records",
+          "name": "TRDD",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         },
         {
@@ -732,7 +732,7 @@
           "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
         },
         {
-          "name": "Trindade Records",
+          "name": "TRDD",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         },
         {
@@ -763,6 +763,58 @@
     {
       "added_at": "2025-10-03 03:01:33",
       "album": {
+        "name": "Metanoia",
+        "url": "https://open.spotify.com/album/2Ia0a2XnTEExpRTEDQEsaG"
+      },
+      "artists": [
+        {
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+        },
+        {
+          "name": "DJ Richa",
+          "url": "https://open.spotify.com/artist/1G28DyrNZu99BHvIHZ5QRZ"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Metanoia",
+      "url": "https://open.spotify.com/track/5yFbN85LhLus4kGMVRc3GV"
+    },
+    {
+      "added_at": "2025-10-03 03:01:33",
+      "album": {
+        "name": "O Apocalipse \u00c9 Real",
+        "url": "https://open.spotify.com/album/0L1ThEUkm2eBunpHdSNTmq"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 155084,
+      "name": "O Apocalipse \u00c9 Real",
+      "url": "https://open.spotify.com/track/4XNDo3q3PjOoTjQkJ3PK1Z"
+    },
+    {
+      "added_at": "2025-10-03 03:01:33",
+      "album": {
+        "name": "Bem Maior",
+        "url": "https://open.spotify.com/album/69G7Ll7wXqEXFg37kbDQ0Y"
+      },
+      "artists": [
+        {
+          "name": "Deus&Marco",
+          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Bem Maior",
+      "url": "https://open.spotify.com/track/4UWOQIZhHYau320ROsqfQw"
+    },
+    {
+      "added_at": "2025-10-03 03:01:33",
+      "album": {
         "name": "Escolhas",
         "url": "https://open.spotify.com/album/312VSvz92cT0EP9fgdzu9V"
       },
@@ -787,58 +839,6 @@
     {
       "added_at": "2025-10-03 03:01:33",
       "album": {
-        "name": "O Apocalipse \u00c9 Real",
-        "url": "https://open.spotify.com/album/0L1ThEUkm2eBunpHdSNTmq"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 155084,
-      "name": "O Apocalipse \u00c9 Real",
-      "url": "https://open.spotify.com/track/4XNDo3q3PjOoTjQkJ3PK1Z"
-    },
-    {
-      "added_at": "2025-10-03 03:01:33",
-      "album": {
-        "name": "Metanoia",
-        "url": "https://open.spotify.com/album/2Ia0a2XnTEExpRTEDQEsaG"
-      },
-      "artists": [
-        {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
-        },
-        {
-          "name": "DJ Richa",
-          "url": "https://open.spotify.com/artist/1G28DyrNZu99BHvIHZ5QRZ"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Metanoia",
-      "url": "https://open.spotify.com/track/5yFbN85LhLus4kGMVRc3GV"
-    },
-    {
-      "added_at": "2025-10-03 03:01:33",
-      "album": {
-        "name": "Bem Maior",
-        "url": "https://open.spotify.com/album/69G7Ll7wXqEXFg37kbDQ0Y"
-      },
-      "artists": [
-        {
-          "name": "Deus&Marco",
-          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Bem Maior",
-      "url": "https://open.spotify.com/track/4UWOQIZhHYau320ROsqfQw"
-    },
-    {
-      "added_at": "2025-10-03 03:01:33",
-      "album": {
         "name": "Reden\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2Wi4tFWKLfpLYbjs2d7BsO"
       },
@@ -848,7 +848,7 @@
           "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
         },
         {
-          "name": "Trindade Records",
+          "name": "TRDD",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         },
         {
@@ -880,7 +880,7 @@
           "url": "https://open.spotify.com/artist/7fRgJdfGkaPPoG8zvIZ87K"
         },
         {
-          "name": "Trindade Records",
+          "name": "TRDD",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
@@ -911,30 +911,6 @@
     {
       "added_at": "2025-10-03 03:01:33",
       "album": {
-        "name": "Sangue",
-        "url": "https://open.spotify.com/album/68t3Pq78Lt2hAguwFSWUDj"
-      },
-      "artists": [
-        {
-          "name": "Z\u00c9ZIIN",
-          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 173548,
-      "name": "Sangue",
-      "url": "https://open.spotify.com/track/0iuI32iEQ10jIp5SOTxbqx"
-    },
-    {
-      "added_at": "2025-10-03 03:01:33",
-      "album": {
         "name": "Aben\u00e7oado",
         "url": "https://open.spotify.com/album/3i4SxN0dS82ygV96GOzLws"
       },
@@ -947,6 +923,30 @@
       "duration_ms": 134050,
       "name": "\u00c9 Real",
       "url": "https://open.spotify.com/track/0KSpycOZu0knusLrTTEKsF"
+    },
+    {
+      "added_at": "2025-10-03 03:01:33",
+      "album": {
+        "name": "Sangue",
+        "url": "https://open.spotify.com/album/68t3Pq78Lt2hAguwFSWUDj"
+      },
+      "artists": [
+        {
+          "name": "Z\u00c9ZIIN",
+          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
+        },
+        {
+          "name": "TRDD",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 173548,
+      "name": "Sangue",
+      "url": "https://open.spotify.com/track/0iuI32iEQ10jIp5SOTxbqx"
     },
     {
       "added_at": "2025-10-03 03:01:33",
@@ -976,7 +976,7 @@
           "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
         },
         {
-          "name": "Trindade Records",
+          "name": "TRDD",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         },
         {
@@ -1040,7 +1040,7 @@
           "url": "https://open.spotify.com/artist/66LPSXokrR2pkStUf6Ympt"
         },
         {
-          "name": "Trindade Records",
+          "name": "TRDD",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         },
         {
@@ -1084,7 +1084,7 @@
           "url": "https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP"
         },
         {
-          "name": "Trindade Records",
+          "name": "TRDD",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
@@ -1104,7 +1104,7 @@
           "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
         },
         {
-          "name": "Trindade Records",
+          "name": "TRDD",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         },
         {
@@ -1132,7 +1132,7 @@
           "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
         },
         {
-          "name": "Trindade Records",
+          "name": "TRDD",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
@@ -1175,26 +1175,26 @@
     {
       "added_at": "2025-10-03 03:01:33",
       "album": {
-        "name": "Purificado",
-        "url": "https://open.spotify.com/album/1FUN8psp7l2kciJvxccBiV"
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5q4wiZahugsjPi6xAc2LMX"
       },
       "artists": [
         {
-          "name": "Duardin",
-          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
+          "name": "EMID\u00ca",
+          "url": "https://open.spotify.com/artist/0nLvcz7CwG1lYeFbXVHLKQ"
         },
         {
-          "name": "Trindade Records",
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+        },
+        {
+          "name": "TRDD",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         }
       ],
-      "duration_ms": 145125,
-      "name": "Purificado",
-      "url": "https://open.spotify.com/track/0Mh41QHiql9sTldoX8a4S5"
+      "duration_ms": 158677,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/2mfgu7vppecOmppqCVgML0"
     },
     {
       "added_at": "2025-10-03 03:01:33",
@@ -1212,7 +1212,7 @@
           "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
         },
         {
-          "name": "Trindade Records",
+          "name": "TRDD",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
@@ -1232,7 +1232,7 @@
           "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
         },
         {
-          "name": "Trindade Records",
+          "name": "TRDD",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         },
         {
@@ -1247,26 +1247,26 @@
     {
       "added_at": "2025-10-03 03:01:33",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5q4wiZahugsjPi6xAc2LMX"
+        "name": "Purificado",
+        "url": "https://open.spotify.com/album/1FUN8psp7l2kciJvxccBiV"
       },
       "artists": [
         {
-          "name": "EMID\u00ca",
-          "url": "https://open.spotify.com/artist/0nLvcz7CwG1lYeFbXVHLKQ"
+          "name": "Duardin",
+          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
         },
         {
-          "name": "Levi",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
-        },
-        {
-          "name": "Trindade Records",
+          "name": "TRDD",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         }
       ],
-      "duration_ms": 158677,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/2mfgu7vppecOmppqCVgML0"
+      "duration_ms": 145125,
+      "name": "Purificado",
+      "url": "https://open.spotify.com/track/0Mh41QHiql9sTldoX8a4S5"
     },
     {
       "added_at": "2025-10-03 03:01:33",
@@ -1284,7 +1284,7 @@
           "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
         },
         {
-          "name": "Trindade Records",
+          "name": "TRDD",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
@@ -1312,7 +1312,7 @@
           "url": "https://open.spotify.com/artist/7FNCsLplFNTiKLvnAP3WsP"
         },
         {
-          "name": "Trindade Records",
+          "name": "TRDD",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
@@ -1336,7 +1336,7 @@
           "url": "https://open.spotify.com/artist/7qcnNboZRaYlD7AEZ7Gd1V"
         },
         {
-          "name": "Trindade Records",
+          "name": "TRDD",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         },
         {
@@ -1380,7 +1380,7 @@
           "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
         },
         {
-          "name": "Trindade Records",
+          "name": "TRDD",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
@@ -1400,7 +1400,7 @@
           "url": "https://open.spotify.com/artist/7FNCsLplFNTiKLvnAP3WsP"
         },
         {
-          "name": "Trindade Records",
+          "name": "TRDD",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         },
         {
@@ -1424,7 +1424,7 @@
           "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
         },
         {
-          "name": "Trindade Records",
+          "name": "TRDD",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
@@ -1448,7 +1448,7 @@
           "url": "https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP"
         },
         {
-          "name": "Trindade Records",
+          "name": "TRDD",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
@@ -1488,7 +1488,7 @@
           "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
         },
         {
-          "name": "Trindade Records",
+          "name": "TRDD",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
@@ -1576,7 +1576,7 @@
           "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
         },
         {
-          "name": "Trindade Records",
+          "name": "TRDD",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > Los nominados en la mayor celebración de la música latina del 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,991 likes - 157 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,994 likes - 157 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

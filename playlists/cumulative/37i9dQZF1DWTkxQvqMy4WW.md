@@ -4,7 +4,7 @@
 
 > Country music to get you back to the basics.
 
-460 songs - 1 day 2 hr 19 min
+461 songs - 1 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [If I Told You](https://open.spotify.com/track/4Az17HfqonKSWNsaLgTBeK) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [When Was The Last Time](https://open.spotify.com/album/6SVzzB0SnMlBXcHsmhNxzC) | 3:32 | 2019-06-21 | 2022-04-20 |
 | [If I Was a Cowboy](https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [If I Was a Cowboy](https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT) | 3:15 | 2022-02-04 | 2023-03-11 |
 | [If I Were You \(feat\. Keith Urban\)](https://open.spotify.com/track/3quTUw70QQN6rPRWximeGp) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [If I Were You \(feat\. Keith Urban\)](https://open.spotify.com/album/4xjyAfAXghdReGPTz26l1l) | 3:33 | 2019-10-26 | 2022-04-20 |
-| [IF YOU GO DOWN \(I'M GOIN' DOWN TOO\)](https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:46 | 2023-04-21 |  |
+| [IF YOU GO DOWN \(I'M GOIN' DOWN TOO\)](https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:46 | 2023-04-21 | 2025-10-10 |
 | [In Case You Didn't Know](https://open.spotify.com/track/10M2Ex445zw585Ducldzkw) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Brett Young](https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5) | 3:44 | 2019-10-26 |  |
 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 | 2024-02-09 | 2025-03-01 |
 | [It All Started With a Beer \- Single Version](https://open.spotify.com/track/3qtZwBkPpK2Q8fcYRHm4AX) | [Frankie Ballard](https://open.spotify.com/artist/0dvKgSdNB2U1gfp6ZcekYi) | [It All Started with a Beer](https://open.spotify.com/album/23nUr4RPD032ELTFi56VO5) | 3:57 | 2019-08-09 | 2022-04-21 |
@@ -405,6 +405,7 @@
 | [Toes](https://open.spotify.com/track/4S518ci8UY4op0Xyp6Hx6o) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 4:22 | 2022-05-13 | 2024-04-19 |
 | [Toes](https://open.spotify.com/track/5kjyiH6but1t2UDXq15aeS) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/0Im5nUhAuNDSYVjfPh7RyS) | 4:22 | 2019-06-25 | 2022-07-29 |
 | [Top Down](https://open.spotify.com/track/1fcuD2t3q9QZi8IjBSB48E) | [BROWN & GRAY](https://open.spotify.com/artist/5uVK02OMlf0TvVe7iNHaGN) | [Top Down](https://open.spotify.com/album/6lruhnftdUGE042iDFXKX1) | 3:01 | 2019-05-25\* | 2022-07-27 |
+| [Turn This Truck Around](https://open.spotify.com/track/6Yvrv046xNsQXX3MirnO8l) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Turn This Truck Around](https://open.spotify.com/album/1vvuNH6s9nkkUIZKf1itJg) | 3:24 | 2025-10-09 |  |
 | [Two Black X's](https://open.spotify.com/track/6JNHCtgGEIZ0hjlxgT0dwB) | [Dylan Schneider](https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY) | [Wannabe \- EP](https://open.spotify.com/album/1IzzLWZzYjS23v3fFFZUUR) | 3:14 | 2019-06-21 | 2019-06-27 |
 | [Up All Night](https://open.spotify.com/track/6qewYf1Su9xeaAp9iEQpUw) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Write You A Song](https://open.spotify.com/album/06gZYBNkDbO8Rl36rbMvkW) | 3:29 | 2020-02-05 | 2022-04-20 |
 | [Up Down \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/6SkeXwlWEHhjSZPNVSpJae) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [If I Know Me](https://open.spotify.com/album/6cm5xvkq0vGcOtLvyWXEM8) | 3:18 | 2019-05-25\* | 2021-02-04 |

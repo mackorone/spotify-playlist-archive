@@ -2,7 +2,7 @@
 
 ### [African Heat](https://open.spotify.com/playlist/37i9dQZF1DWYkaDif7Ztbp)
 
-> The tracks heating up the continent right now!  Cover: Adekunle Gold
+> The tracks heating up the continent right now!  Cover: Sarz
 
 557 songs - 1 day 8 hr 57 min
 

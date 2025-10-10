@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": " \u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad.   Cover: Fred again..",
+  "description": " \u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad.   Cover: Harvey Sutherland",
   "name": "Altar JP",
   "tracks": [
     {
@@ -370,7 +370,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 161196,
       "name": "4am",
       "url": "https://open.spotify.com/track/6WbD3aKWfbOQNsrShunW6o"
@@ -614,7 +614,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 184791,
       "name": "A Place You Wanna Go (Good Life)",
       "url": "https://open.spotify.com/track/0aDKvLIttZfWCA0zFjVn92"
@@ -4246,7 +4246,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 228960,
       "name": "Broken - Frost Remix",
       "url": "https://open.spotify.com/track/6R0WGHq0jJjXn8UXiuSsgA"
@@ -6277,6 +6277,28 @@
     },
     {
       "album": {
+        "name": "Cross Passage",
+        "url": "https://open.spotify.com/album/62oPpbxnbmg0fi0TUAoUAP"
+      },
+      "artists": [
+        {
+          "name": "Wata Igarashi",
+          "url": "https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX"
+        },
+        {
+          "name": "Polygonia",
+          "url": "https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378572,
+      "name": "Cross Passage",
+      "url": "https://open.spotify.com/track/1pgOxuh7detTTpsURRAHjX"
+    },
+    {
+      "album": {
         "name": "Crowded Roomz",
         "url": "https://open.spotify.com/album/6noU224rd5kmYt0KPBhtgG"
       },
@@ -7688,7 +7710,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 215927,
       "name": "DO IT! (AGAIN!) (feat. TLC)",
       "url": "https://open.spotify.com/track/1dVebYDzVt5I7O5lpWdaxM"
@@ -9920,7 +9942,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 260437,
       "name": "Fade To Black",
       "url": "https://open.spotify.com/track/2VcK9l2rGaxUw6cI4u5zxy"
@@ -11536,6 +11558,24 @@
       "duration_ms": 302596,
       "name": "Freddie's Groove",
       "url": "https://open.spotify.com/track/6WPDwF3t71KGfySuIfqmOH"
+    },
+    {
+      "album": {
+        "name": "Twofold (Deluxe)",
+        "url": "https://open.spotify.com/album/2Z0rXASECi2XP6iSKNuqQB"
+      },
+      "artists": [
+        {
+          "name": "Big Animal Theory",
+          "url": "https://open.spotify.com/artist/02kuoSicHqlAAiui92GaB4"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209914,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/2rRWoI51qEm1UYICftrm1x"
     },
     {
       "album": {
@@ -15522,7 +15562,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 460327,
       "name": "Inner World - 2005 Version Edit",
       "url": "https://open.spotify.com/track/0WNHuRy8t91cGHQ50NE4or"
@@ -18463,6 +18503,24 @@
     },
     {
       "album": {
+        "name": "love has come again",
+        "url": "https://open.spotify.com/album/5EzYeY5OweurlSgqoYj3QR"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309552,
+      "name": "love has come again",
+      "url": "https://open.spotify.com/track/3kbZzQlb5eGnbvVGRwEdC6"
+    },
+    {
+      "album": {
         "name": "lil spirits",
         "url": "https://open.spotify.com/album/1qSGvtNStL6ELifn51W1va"
       },
@@ -19684,6 +19742,28 @@
       "duration_ms": 215369,
       "name": "Mind",
       "url": "https://open.spotify.com/track/6bWP7oojdxEaAOZY6Oozhm"
+    },
+    {
+      "album": {
+        "name": "Mine or Yours (Yaeji Remix)",
+        "url": "https://open.spotify.com/album/0lMxf0CKJDFeN1U6cTnawv"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255582,
+      "name": "Mine or Yours (Yaeji Remix)",
+      "url": "https://open.spotify.com/track/3FV0YFGD7tTqhMbwm3oTgM"
     },
     {
       "album": {
@@ -21826,7 +21906,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 339293,
       "name": "Oignon",
       "url": "https://open.spotify.com/track/4kt8wDjEIcdmipd2yQDwdp"
@@ -28742,7 +28822,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 327938,
       "name": "Taarsitillugu",
       "url": "https://open.spotify.com/track/6KbrGler8kLr12polFq5Se"
@@ -29821,6 +29901,28 @@
     },
     {
       "album": {
+        "name": "The Right",
+        "url": "https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234753,
+      "name": "The Right",
+      "url": "https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb"
+    },
+    {
+      "album": {
         "name": "Kaleidoscopic EP",
         "url": "https://open.spotify.com/album/1ymrCgGIwjtxrmeM00TiAz"
       },
@@ -29933,6 +30035,24 @@
     },
     {
       "album": {
+        "name": "The Way I'm Feeling",
+        "url": "https://open.spotify.com/album/5PHXj0gL9HuEaBPMCIBpFT"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257766,
+      "name": "The Way I'm Feeling",
+      "url": "https://open.spotify.com/track/5UpvkE3KKwbjOR5cAyzeY4"
+    },
+    {
+      "album": {
         "name": "The Way To Do It",
         "url": "https://open.spotify.com/album/6aPgR1TbdugFtOjRXJKwcQ"
       },
@@ -29988,6 +30108,24 @@
       "duration_ms": 231425,
       "name": "The Woods - The Kite String Tangle Remix",
       "url": "https://open.spotify.com/track/7zzkfz6RDlOvbYP39p9JP7"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Harvey Sutherland",
+          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266493,
+      "name": "Theme For Z",
+      "url": "https://open.spotify.com/track/5sYq6gWpaSGQ1DjScmxR7u"
     },
     {
       "album": {
@@ -32612,7 +32750,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 346875,
       "name": "Way To Paradice",
       "url": "https://open.spotify.com/track/0o0GV5jONy1DkYlpmBcf8U"
@@ -32760,6 +32898,24 @@
       "duration_ms": 216966,
       "name": "We Got To Hit It Off (Dimitri From Paris Liberated Women Mix - Edit)",
       "url": "https://open.spotify.com/track/3MPbNCW7Iroa8aZRcaHnJP"
+    },
+    {
+      "album": {
+        "name": "We Need To Do Something About That Horse",
+        "url": "https://open.spotify.com/album/0bnPMv0O579GNX4yD6rqxS"
+      },
+      "artists": [
+        {
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236749,
+      "name": "We Need To Do Something About That Horse",
+      "url": "https://open.spotify.com/track/0R7RCkr8V5XjMyYXJDz7jD"
     },
     {
       "album": {
@@ -33750,7 +33906,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 443076,
       "name": "Wozee",
       "url": "https://open.spotify.com/track/4v2ueIOfUb9HH7kOFjZu3z"
@@ -34580,6 +34736,24 @@
       "duration_ms": 261034,
       "name": "\u0285():::()\u0335\u0333\u0317\u030a( l\u0321\u0321\u0321 \u0321\u034c \u019f\u0285()v\u022f)) \u0337\u0328\u0285 l\u0321\u0321\u0321 \u0321\u034c \u0285()\u0283 \ua411\u022f)\u0fc3\u0942\u0a42\u2727\u20db\u2727\u20db) ():::() \u0334\u0324\u031a (\u0f40 \u0d8a\u0eb9 \u0c20\u0c40\u0a42)) \u0337\u0328\u0285 l\u0321\u0321\u0321 \u0321\u034c",
       "url": "https://open.spotify.com/track/5aznBpTeBCELEsNz6m0gZ5"
+    },
+    {
+      "album": {
+        "name": "\u0f6c\u0277\u053e\u314d \ua27a\u10da\u0f3d\u0f3c\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de\u263c\u20dd\u25de\u2296\u25df\u263c\u20dd \u25c9\u1368\u2237\u25b2\u2235\u28ce\u2847 \u20dd\u0362 oOo\u25b2\u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0619\u0616\u207d\u207e\u0627\u2981\u207e\u207d\u0619\u06dc\u0616\u0621\u061e\u0ae3\u0fc6\u02dc\u263c\u20dd\u25de\u2296\u25df\u263c\u20dd \u25c9\u1368\u2237\u25b2\u2235\u28ce\u2847 \u20dd\u0362 oOo\u25b2",
+        "url": "https://open.spotify.com/album/4JVptmFyeFIg4ySbyK7kO2"
+      },
+      "artists": [
+        {
+          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
+          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343384,
+      "name": "\u0f6c\u0277\u053e\u314d \ua27a\u10da\u0f3d\u0f3c\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de\u263c\u20dd\u25de\u2296\u25df\u263c\u20dd \u25c9\u1368\u2237\u25b2\u2235\u28ce\u2847 \u20dd\u0362 oOo\u25b2\u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0619\u0616\u207d\u207e\u0627\u2981\u207e\u207d\u0619\u06dc\u0616\u0621\u061e\u0ae3\u0fc6\u02dc\u263c\u20dd\u25de\u2296\u25df\u263c\u20dd \u25c9\u1368\u2237\u25b2\u2235\u28ce\u2847 \u20dd\u0362 oOo\u25b2",
+      "url": "https://open.spotify.com/track/3FzWdB7uUfmPsgmCdQhNEU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Simiran Kaur Dhadli
 
-223 songs - 11 hr 24 min
+224 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Nakhro](https://open.spotify.com/track/1dEEx1rJw08XcH9nbWs35B) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX) | [Flowers](https://open.spotify.com/album/2u13scMhPhD0LvK1ZZFXhH) | 2:26 | 2024-10-10 | 2024-10-19 |
 | [Naseeb](https://open.spotify.com/track/5JgMsHeJypXp3Ixgkhdz1U) | [Sana Panesar](https://open.spotify.com/artist/6tOoWveZi0RsecgXm6cxKf), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [Naseeb](https://open.spotify.com/album/3Hb8QXpntJtNbsMRJ1wEwh) | 1:55 | 2024-12-06 | 2025-03-10 |
 | [Nattiyaan](https://open.spotify.com/track/1oEczJPtEiZb1RfJDDdZ16) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Kavy Riyyaaz](https://open.spotify.com/artist/3E3EEtTlriPOWoIdyPTiX7), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Nattiyaan](https://open.spotify.com/album/1uohMZNC2AJ0AsjHyKbB7w) | 3:30 | 2024-09-28 |  |
+| [Nawe Rivaaz](https://open.spotify.com/track/0ZInUKQpOd8IuKnMOrtFpc) | [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs) | [Nawe Rivaaz](https://open.spotify.com/album/4ghLiOyAllLjkiI8h4Ygvx) | 2:31 | 2025-10-09 |  |
 | [Nepal](https://open.spotify.com/track/2S371A2FhkVALcLr8uMRMv) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok) | [Mankirt Aulakh Vol\. 1](https://open.spotify.com/album/1LzjSBsrxFGlhHTjvTNtP8) | 3:26 | 2024-10-18 | 2025-01-07 |
 | [No Bullshit](https://open.spotify.com/track/4pHNcvzZ5lnCJCJzxfFBZn) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9) | [No Bullshit](https://open.spotify.com/album/1FjzgqFWa03yqQ46NKOeSS) | 3:51 | 2023-03-18 | 2023-11-18 |
 | [Paranda](https://open.spotify.com/track/3M8axCVcFGCqU6nBglucAV) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg) | [Paranda](https://open.spotify.com/album/3oA6pDkVvMMIjzuXjB84G8) | 4:06 | 2025-03-20 |  |
@@ -223,7 +224,7 @@
 | [Vibe](https://open.spotify.com/track/1EzXThhZcdM0zuSS1aSvxx) | [Mankirat Pannu](https://open.spotify.com/artist/2AH3Sxq7EJxkURX1kG53Mz), [Vicky Dhaliwal](https://open.spotify.com/artist/5Gf8EL6dRLNm7EJNnLQ4vf), [Mastermind](https://open.spotify.com/artist/7cebmXLpLp4Rk2eFI00ppV) | [Vibe](https://open.spotify.com/album/55n0t6V6McXChgEA9nPlVn) | 2:05 | 2025-09-25 |  |
 | [What's The Matter](https://open.spotify.com/track/7dsKW3auwVIogDnKGfOJk6) | [Manpreet Dhillon](https://open.spotify.com/artist/43NqRT7AYkjgNTCSU3BwiA), [Mr Preet](https://open.spotify.com/artist/0SddWPvFd2czXSRu57Z4L8), [Deep Boparai](https://open.spotify.com/artist/2YOwXX24g1UB05iwJ7HE6d) | [What's The Matter](https://open.spotify.com/album/493YcDQvHlCHpzLjSYN8DK) | 2:17 | 2025-01-10 | 2025-04-30 |
 | [Who Was With You](https://open.spotify.com/track/58mJuJRqVeoDBBIk9HWCiz) | [Shahat Gill](https://open.spotify.com/artist/7JYrslpC4w9YRhzwFDZSZV), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Who Was With You](https://open.spotify.com/album/2OtWaIyzG95Ljev1hyzwlz) | 2:45 | 2024-09-05 | 2025-02-15 |
-| [With Ya Always \(From "Aapocalypse"\)](https://open.spotify.com/track/3f63N35Q90RbKvbWOuK0UY) | [Raman Romana](https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv), [Verse](https://open.spotify.com/artist/6u7wsDrP8AnQth07iGnmkO) | [With Ya Always \(From "Aapocalypse"\)](https://open.spotify.com/album/2BmYgLaefBdRQLoJy7oPFH) | 3:27 | 2025-09-17 |  |
+| [With Ya Always \(From "Aapocalypse"\)](https://open.spotify.com/track/3f63N35Q90RbKvbWOuK0UY) | [Raman Romana](https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv), [Verse](https://open.spotify.com/artist/6u7wsDrP8AnQth07iGnmkO) | [With Ya Always \(From "Aapocalypse"\)](https://open.spotify.com/album/2BmYgLaefBdRQLoJy7oPFH) | 3:27 | 2025-09-17 | 2025-10-10 |
 | [Wrangler](https://open.spotify.com/track/22J4nmeDNKv8OlaFaqgfpr) | [Naaz Aulakh](https://open.spotify.com/artist/4IM8q4PhjHwrBOdITz0eRi) | [Wrangler](https://open.spotify.com/album/2HRm4krnpq1ZuZc9tInKya) | 2:33 | 2023-03-18 | 2023-10-10 |
 | [XL](https://open.spotify.com/track/7ALzEnfVJrEXMGS14vvqPj) | [Simar Dorraha](https://open.spotify.com/artist/51awvxzfYz80ygO4RQpTte), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [XL](https://open.spotify.com/album/1oXRArIgbvBeZNtDuPkQ9A) | 4:18 | 2024-01-30 | 2024-04-19 |
 | [XL](https://open.spotify.com/track/3Hy56XQKWdElhKlnYiTqpy) | [Simar Dorraha](https://open.spotify.com/artist/51awvxzfYz80ygO4RQpTte), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [XL](https://open.spotify.com/album/04Ncv0UW4Of8cNkvLF0rnc) | 4:18 | 2023-07-20 | 2024-01-31 |

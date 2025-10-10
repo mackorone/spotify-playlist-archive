@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Alice Phoebe Lou
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,836 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,838 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 9 | [Pflaster](https://open.spotify.com/track/65nHrdMGRurIyNBf3ENRvt) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Pflaster](https://open.spotify.com/album/7iZAC44rL0HrhYyl74iIck) | 2:57 |
 | 10 | [Open My Door](https://open.spotify.com/track/1A8QcZJKhUmJwdqzoAahvR) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 2:33 |
 | 11 | [Pity Party Princess](https://open.spotify.com/track/1Sk1xlCDUwUplLatU0MWRa) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Honeymoon In A Motel](https://open.spotify.com/album/3eRKBboz0GSShr4JGRmzl7) | 2:50 |
-| 12 | [Weekend Baddie](https://open.spotify.com/track/1ROfdqAJJ6vHq2dDni27TV) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Weekend Baddie](https://open.spotify.com/album/3GkXIClRd3IxHNb96kWnLS) | 2:58 |
-| 13 | [TECHY MF](https://open.spotify.com/track/3j17V2ltFQ6XBs9tPljYCb) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [TECHY MF](https://open.spotify.com/album/3wdsImiyiJLpawSLSaXscX) | 2:54 |
+| 12 | [TECHY MF](https://open.spotify.com/track/3j17V2ltFQ6XBs9tPljYCb) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [TECHY MF](https://open.spotify.com/album/3wdsImiyiJLpawSLSaXscX) | 2:54 |
+| 13 | [Weekend Baddie](https://open.spotify.com/track/1ROfdqAJJ6vHq2dDni27TV) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Weekend Baddie](https://open.spotify.com/album/3GkXIClRd3IxHNb96kWnLS) | 2:58 |
 | 14 | [Wo ist der Bus?](https://open.spotify.com/track/3K9w7OyVYqqdH3OCW1fitJ) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Wo ist der Bus?](https://open.spotify.com/album/32WbGkfl1nQ1BaOLEAzJlz) | 3:10 |
 | 15 | [Sommer](https://open.spotify.com/track/148ipTGpwMc6rqVLKv1Ni5) | [Lara Hulo](https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0) | [Sommer](https://open.spotify.com/album/5eVuUpVYXKvRQHhD2wQlBn) | 2:43 |
 | 16 | [Superpower](https://open.spotify.com/track/3km0TRpKgO2YKtL6emfxqp) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [Superpower](https://open.spotify.com/album/2fclAXbuvFGnRmJZFXaK3n) | 4:44 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 32 | [Glühwürmchen](https://open.spotify.com/track/0bkkcQ3GXWJLAUDnpwEFa2) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [Glühwürmchen](https://open.spotify.com/album/3NSxwMjPi3mTANNAJ6IHFx) | 2:52 |
 | 33 | [Immerx3](https://open.spotify.com/track/3SLrSR2jkWiUWxx1ONzHOI) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [Immerx3](https://open.spotify.com/album/6AtltYp1XUC8eKVV1zK5Kb) | 3:28 |
 | 34 | [3 Strikes](https://open.spotify.com/track/1GwxbXq4XhGcd47TFQi3N6) | [miiraqt](https://open.spotify.com/artist/0qZGGtXIXaykfDWBQjP1SM) | [3 Strikes](https://open.spotify.com/album/5excRlF8P13zLjlIzIS1jY) | 1:51 |
-| 35 | [Sun](https://open.spotify.com/track/5pVwBCaSao2mLhthyDVTc1) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [Sun](https://open.spotify.com/album/6q9uLcgSr1lF6QVVxHJzaN) | 3:24 |
-| 36 | [valentins fischglas](https://open.spotify.com/track/47gRGXp2ugLaIFyz68Nwvu) | [line rychart](https://open.spotify.com/artist/0qFqVApvgOwdJNqAfolXZn) | [valentins fischglas](https://open.spotify.com/album/6VFPanhVFNNP1Flhnipdmh) | 3:11 |
+| 35 | [valentins fischglas](https://open.spotify.com/track/47gRGXp2ugLaIFyz68Nwvu) | [line rychart](https://open.spotify.com/artist/0qFqVApvgOwdJNqAfolXZn) | [valentins fischglas](https://open.spotify.com/album/6VFPanhVFNNP1Flhnipdmh) | 3:11 |
+| 36 | [Sun](https://open.spotify.com/track/5pVwBCaSao2mLhthyDVTc1) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [Sun](https://open.spotify.com/album/6q9uLcgSr1lF6QVVxHJzaN) | 3:24 |
 | 37 | [Gatekeeper](https://open.spotify.com/track/22IBkO4ocBVIUHC4unEmp0) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Gatekeeper](https://open.spotify.com/album/4glmI7tJmWKR4CcIb3n0QB) | 2:42 |
 | 38 | [Neongrün & Rosarot](https://open.spotify.com/track/4y9VSm4QHqkyNY2DPnBtmG) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Neongrün & Rosarot](https://open.spotify.com/album/6s5neNtSQjaAclQ1BKCD06) | 3:02 |
 | 39 | [Immer wenn du trinkst](https://open.spotify.com/track/36FFwVZq24okiqI9py4X8p) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Immer wenn du trinkst / Keine Zeit](https://open.spotify.com/album/1J5GWCG3Lxe4s9oDCpvJo0) | 3:34 |
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 41 | [Very Far Away](https://open.spotify.com/track/0q9CqWspKpvVkH5OKTbgRS) | [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Very Far Away EP](https://open.spotify.com/album/37RdgI61BvnCrNqXIUT6zC) | 3:42 |
 | 42 | [Cheerleader](https://open.spotify.com/track/2WG9JA4opUdNucD9kAiT7L) | [Christin Nichols](https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0) | [Cheerleader](https://open.spotify.com/album/2L276JUtx0LarSYMGJxt22) | 3:39 |
 | 43 | [What Does She Have](https://open.spotify.com/track/3xNMIHsncO6D3f4jD5I2Vc) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [What Does She Have](https://open.spotify.com/album/5QIFRXZBSXicIIX8sXPVqG) | 3:18 |
-| 44 | [Euro Summer](https://open.spotify.com/track/5y7LHWSdqrpQJUhuN9MClU) | [Ava Vegas](https://open.spotify.com/artist/5ql0vsOE9XzHXwi8xP4yes) | [Euro Summer](https://open.spotify.com/album/2mosYbpraEEAs3vKVHlv1Q) | 3:53 |
-| 45 | [Fremde Stadt](https://open.spotify.com/track/0HynTJbYueSgz1LTH9dVWi) | [laela](https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF) | [Fremde Stadt](https://open.spotify.com/album/6TiBFeqhkcVEPtXfvYdr0E) | 2:11 |
-| 46 | [Girlfriend](https://open.spotify.com/track/4HhgQBjlOcrkCixjZ70fS6) | [JOSY](https://open.spotify.com/artist/1FO5OAPbBScuxZlrgM3Sjr) | [PARADE](https://open.spotify.com/album/5Ter0eYmIOlOHSTV3gAAoT) | 1:57 |
-| 47 | [bist du noch da](https://open.spotify.com/track/67WyEYAexmClJHbBs7obFI) | [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [bist du noch da](https://open.spotify.com/album/0zwVsM14zRUH1K7F5osVUr) | 2:50 |
+| 44 | [Fremde Stadt](https://open.spotify.com/track/0HynTJbYueSgz1LTH9dVWi) | [laela](https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF) | [Fremde Stadt](https://open.spotify.com/album/6TiBFeqhkcVEPtXfvYdr0E) | 2:11 |
+| 45 | [Euro Summer](https://open.spotify.com/track/5y7LHWSdqrpQJUhuN9MClU) | [Ava Vegas](https://open.spotify.com/artist/5ql0vsOE9XzHXwi8xP4yes) | [Euro Summer](https://open.spotify.com/album/2mosYbpraEEAs3vKVHlv1Q) | 3:53 |
+| 46 | [bist du noch da](https://open.spotify.com/track/67WyEYAexmClJHbBs7obFI) | [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [bist du noch da](https://open.spotify.com/album/0zwVsM14zRUH1K7F5osVUr) | 2:50 |
+| 47 | [Girlfriend](https://open.spotify.com/track/4HhgQBjlOcrkCixjZ70fS6) | [JOSY](https://open.spotify.com/artist/1FO5OAPbBScuxZlrgM3Sjr) | [PARADE](https://open.spotify.com/album/5Ter0eYmIOlOHSTV3gAAoT) | 1:57 |
 | 48 | [So Cool](https://open.spotify.com/track/4bvTEIeoIOmzhU7HCDlRhK) | [Laura Lee & the Jettes](https://open.spotify.com/artist/4727cuqI1mSh8LKNSjG6xr) | [Tough Love Paradigm](https://open.spotify.com/album/1SJmTXlw4jklwqqAovdRDX) | 2:57 |
 | 49 | [Lost Indieboy](https://open.spotify.com/track/18RDGWmoWjE6VtUT3AB728) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [SNACKS](https://open.spotify.com/album/7c17jsWUkwcqaYXpb7ayXV) | 3:19 |
 | 50 | [berlin night life](https://open.spotify.com/track/2ZmE6SXMTsHpcbR14awchh) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [berlin night life](https://open.spotify.com/album/7uuaGrUECPqIhVe4P7tlP0) | 3:03 |

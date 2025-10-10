@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u5c71\u4e2d\u5343\u5c0b",
-  "num_followers": 46878,
+  "num_followers": 46888,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2025-10-07 15:00:12",
       "album": {
+        "name": "MORAL",
+        "url": "https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj"
+      },
+      "artists": [
+        {
+          "name": "SALVALAI",
+          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
+        }
+      ],
+      "duration_ms": 201842,
+      "name": "MORAL",
+      "url": "https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF"
+    },
+    {
+      "added_at": "2025-10-07 15:00:12",
+      "album": {
         "name": "Singularity",
         "url": "https://open.spotify.com/album/6SVmvtKJyT4BTZsgfO6IeS"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 690973,
       "name": "Volkslied - feat.\u4e95\u4e0a\u9298",
       "url": "https://open.spotify.com/track/0V9Wmky0m7eiYhG96lYBiV"
-    },
-    {
-      "added_at": "2025-10-07 15:00:12",
-      "album": {
-        "name": "MORAL",
-        "url": "https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj"
-      },
-      "artists": [
-        {
-          "name": "SALVALAI",
-          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
-        }
-      ],
-      "duration_ms": 201842,
-      "name": "MORAL",
-      "url": "https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF"
     },
     {
       "added_at": "2025-10-07 15:00:12",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-10-07 15:00:12",
       "album": {
-        "name": "Beat Birds",
-        "url": "https://open.spotify.com/album/5J8mMgH6qydlLfmgTwgAgS"
-      },
-      "artists": [
-        {
-          "name": "Sara Wakui",
-          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
-        }
-      ],
-      "duration_ms": 166704,
-      "name": "Beat Birds",
-      "url": "https://open.spotify.com/track/0sxlNLZDWHudUyRlDfABEl"
-    },
-    {
-      "added_at": "2025-10-07 15:00:12",
-      "album": {
         "name": "BLUE GIANT (\u300eBLUE GIANT\u300f\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a)",
         "url": "https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2025-10-07 15:00:12",
       "album": {
-        "name": "Questune",
-        "url": "https://open.spotify.com/album/4bqhOCK0Gb4iQ65EwRZ8uq"
+        "name": "Beat Birds",
+        "url": "https://open.spotify.com/album/5J8mMgH6qydlLfmgTwgAgS"
       },
       "artists": [
         {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+          "name": "Sara Wakui",
+          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Questune",
-      "url": "https://open.spotify.com/track/7fJppnEGxHyA3wHHl0qwLB"
+      "duration_ms": 166704,
+      "name": "Beat Birds",
+      "url": "https://open.spotify.com/track/0sxlNLZDWHudUyRlDfABEl"
     },
     {
       "added_at": "2025-10-07 15:00:12",
@@ -699,18 +683,18 @@
     {
       "added_at": "2025-10-07 15:00:12",
       "album": {
-        "name": "ELECTRIC RIDER",
-        "url": "https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp"
+        "name": "Questune",
+        "url": "https://open.spotify.com/album/4bqhOCK0Gb4iQ65EwRZ8uq"
       },
       "artists": [
         {
-          "name": "\u99ac\u5834\u667a\u7ae0",
-          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
         }
       ],
-      "duration_ms": 183920,
-      "name": "WHAT IS ??",
-      "url": "https://open.spotify.com/track/6D2FjYhr2L8XhOcuQ5mlzT"
+      "duration_ms": 194000,
+      "name": "Questune",
+      "url": "https://open.spotify.com/track/7fJppnEGxHyA3wHHl0qwLB"
     },
     {
       "added_at": "2025-10-07 15:00:12",
@@ -727,6 +711,22 @@
       "duration_ms": 188830,
       "name": "\u611b\u306e\u3057\u308b\u3057",
       "url": "https://open.spotify.com/track/1g8RMbSQYCImlcaSSvuCeY"
+    },
+    {
+      "added_at": "2025-10-07 15:00:12",
+      "album": {
+        "name": "ELECTRIC RIDER",
+        "url": "https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp"
+      },
+      "artists": [
+        {
+          "name": "\u99ac\u5834\u667a\u7ae0",
+          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
+        }
+      ],
+      "duration_ms": 183920,
+      "name": "WHAT IS ??",
+      "url": "https://open.spotify.com/track/6D2FjYhr2L8XhOcuQ5mlzT"
     },
     {
       "added_at": "2025-10-07 15:00:12",
@@ -763,6 +763,22 @@
     {
       "added_at": "2025-10-07 15:00:12",
       "album": {
+        "name": "Trionfi",
+        "url": "https://open.spotify.com/album/4oyzrmSkOa7yHrLV0mqyaJ"
+      },
+      "artists": [
+        {
+          "name": "\u8349\u7530\u4e00\u99ff",
+          "url": "https://open.spotify.com/artist/2aQPh8oulkkCiOeqRwSlCh"
+        }
+      ],
+      "duration_ms": 446882,
+      "name": "Stargazer",
+      "url": "https://open.spotify.com/track/4bTuXikreX9vQTcs69vgyS"
+    },
+    {
+      "added_at": "2025-10-07 15:00:12",
+      "album": {
         "name": "eden",
         "url": "https://open.spotify.com/album/317j5AzcY1fL9NgKAMZIcD"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 237686,
       "name": "eden",
       "url": "https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB"
-    },
-    {
-      "added_at": "2025-10-07 15:00:12",
-      "album": {
-        "name": "Trionfi",
-        "url": "https://open.spotify.com/album/4oyzrmSkOa7yHrLV0mqyaJ"
-      },
-      "artists": [
-        {
-          "name": "\u8349\u7530\u4e00\u99ff",
-          "url": "https://open.spotify.com/artist/2aQPh8oulkkCiOeqRwSlCh"
-        }
-      ],
-      "duration_ms": 446882,
-      "name": "Stargazer",
-      "url": "https://open.spotify.com/track/4bTuXikreX9vQTcs69vgyS"
     },
     {
       "added_at": "2025-10-07 15:00:12",
@@ -871,26 +871,18 @@
     {
       "added_at": "2025-10-07 15:00:12",
       "album": {
-        "name": "Liquid Yellow Portraits",
-        "url": "https://open.spotify.com/album/6d5N9kdTkJNaVLOqXEpvSk"
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/5w2YF6mrbiUiywvTW0Wgvc"
       },
       "artists": [
         {
-          "name": "Shingo Suzuki",
-          "url": "https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf"
-        },
-        {
-          "name": "5lack",
-          "url": "https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI"
-        },
-        {
-          "name": "Nenashi",
-          "url": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
+          "name": "Nautilus",
+          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
         }
       ],
-      "duration_ms": 239057,
-      "name": "New Morning",
-      "url": "https://open.spotify.com/track/6q8pY6ONUEaDXT7q191ha8"
+      "duration_ms": 262311,
+      "name": "Love Theme From Spartacus",
+      "url": "https://open.spotify.com/track/7lhUU1b6OTUIxSYd4gmZwh"
     },
     {
       "added_at": "2025-10-07 15:00:12",
@@ -911,18 +903,26 @@
     {
       "added_at": "2025-10-07 15:00:12",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/5w2YF6mrbiUiywvTW0Wgvc"
+        "name": "Liquid Yellow Portraits",
+        "url": "https://open.spotify.com/album/6d5N9kdTkJNaVLOqXEpvSk"
       },
       "artists": [
         {
-          "name": "Nautilus",
-          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
+          "name": "Shingo Suzuki",
+          "url": "https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf"
+        },
+        {
+          "name": "5lack",
+          "url": "https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI"
+        },
+        {
+          "name": "Nenashi",
+          "url": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
         }
       ],
-      "duration_ms": 262311,
-      "name": "Love Theme From Spartacus",
-      "url": "https://open.spotify.com/track/7lhUU1b6OTUIxSYd4gmZwh"
+      "duration_ms": 239057,
+      "name": "New Morning",
+      "url": "https://open.spotify.com/track/6q8pY6ONUEaDXT7q191ha8"
     },
     {
       "added_at": "2025-10-07 15:00:12",

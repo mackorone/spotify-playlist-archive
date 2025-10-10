@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "AYE NLA (Live)",
+        "url": "https://open.spotify.com/album/7KjUgzVuXG0u967pCdYrKT"
+      },
+      "artists": [
+        {
+          "name": "Adebukola Akinkunmi",
+          "url": "https://open.spotify.com/artist/7nGwjZNBkDwhBaa98JKb5v"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429531,
+      "name": "AYE NLA (Live)",
+      "url": "https://open.spotify.com/track/7grODwKMciTgZwqH6Ho7eR"
+    },
+    {
+      "album": {
         "name": "B'ola (Live)",
         "url": "https://open.spotify.com/album/6MOU4J2Bv7ABtMGrVkBd5E"
       },
@@ -1548,6 +1566,24 @@
       "duration_ms": 407000,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/01H2VrG6M1Mi6NQGvSZqNK"
+    },
+    {
+      "album": {
+        "name": "Holy Lord (Live)",
+        "url": "https://open.spotify.com/album/5FlTnZYUQeV43Sej317op4"
+      },
+      "artists": [
+        {
+          "name": "Nana Amoah",
+          "url": "https://open.spotify.com/artist/3EQe9YDfiBp4ZERkmjp6Fu"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296702,
+      "name": "Holy Lord (Live)",
+      "url": "https://open.spotify.com/track/38UeQ10f009YHdlJn4yJNw"
     },
     {
       "album": {
@@ -3799,6 +3835,28 @@
     },
     {
       "album": {
+        "name": "Rest on me (Live)",
+        "url": "https://open.spotify.com/album/2isingTz5ck4713KaKfbEi"
+      },
+      "artists": [
+        {
+          "name": "David Dam",
+          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
+        },
+        {
+          "name": "Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 891219,
+      "name": "Rest on me - Live",
+      "url": "https://open.spotify.com/track/2i7zwHw1zddbT9Obx7MFQL"
+    },
+    {
+      "album": {
         "name": "Rohi (The Good Shepherd) [Live]",
         "url": "https://open.spotify.com/album/3XBKLHisNTmO1CYf4M4sxJ"
       },
@@ -3814,7 +3872,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 668390,
       "name": "Rohi (The Good Shepherd) - Live",
       "url": "https://open.spotify.com/track/1YwwfzEsBdfjprEuKzy8tC"
@@ -4010,7 +4068,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 424963,
       "name": "Spirit Of The Lord - Live",
       "url": "https://open.spotify.com/track/7ABCKCy6L6dA3gA6qi5cHG"
@@ -4758,7 +4816,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 589365,
       "name": "Who Is Like The Lord - LIVE",
       "url": "https://open.spotify.com/track/73TY0ezTyS10sBzN61ULS9"

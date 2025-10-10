@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-159 songs - 14 hr 58 min
+160 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Jericho](https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Jericho](https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh) | 2:38 | 2023-11-06 |  |
 | [Joy](https://open.spotify.com/track/17yYSZdxIfNNlI0Brpfvk0) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Joy](https://open.spotify.com/album/5KgoKcCyd2nI7oraUvbXWv) | 4:21 | 2023-08-10 |  |
 | [Killer Machine](https://open.spotify.com/track/6Y0s43nhtwwjhkbkMFOgE6) | [Indra](https://open.spotify.com/artist/3sH57C4p0KSpzkh5uY0bK6) | [Killer Machine](https://open.spotify.com/album/5tbyLz98nz0uYmfgdSZnwu) | 6:30 | 2023-08-10 | 2025-02-26 |
-| [Kindness Makes Me Horny](https://open.spotify.com/track/5w2PBowfXDbOpzLpLrB3kt) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq), [Pako Marckx](https://open.spotify.com/artist/0zvWbsBwkNb1KEbXMoWyyh), [INNERGATE](https://open.spotify.com/artist/4WSZCYGxqXDMYPizVPfSP9) | [Kindness Makes Me Horny](https://open.spotify.com/album/0WmVahBYsYEZftiokIV4EI) | 4:06 | 2025-06-20 |  |
+| [Kindness Makes Me Horny](https://open.spotify.com/track/5w2PBowfXDbOpzLpLrB3kt) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq), [Pako Marckx](https://open.spotify.com/artist/0zvWbsBwkNb1KEbXMoWyyh), [INNERGATE](https://open.spotify.com/artist/4WSZCYGxqXDMYPizVPfSP9) | [Kindness Makes Me Horny](https://open.spotify.com/album/0WmVahBYsYEZftiokIV4EI) | 4:06 | 2025-06-20 | 2025-10-10 |
 | [Kreature](https://open.spotify.com/track/3IwWvapDWkJzHr1rfSOP2S) | [Bullzeye](https://open.spotify.com/artist/1UvPQsefYllL0KNxuLyqDB) | [Kreature](https://open.spotify.com/album/5OIj5hMZE8GCZsp6ihZYAu) | 6:35 | 2024-01-26 |  |
 | [Kua](https://open.spotify.com/track/5CtcJyXITa9G8Qgs7QSI5B) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Kua](https://open.spotify.com/album/6X1H2qXP2wpSWA54xzzxqG) | 6:25 | 2024-01-26 | 2024-04-19 |
 | [Kua \- Original Mix](https://open.spotify.com/track/7hUZJ8lupDInaXfbNLsdC8) | [Fatima Hajji](https://open.spotify.com/artist/6jZSXmTCxZhFfYELtp78Ci) | [Kua](https://open.spotify.com/album/0SsNWOTQmf6rUjoa6w9waM) | 6:25 | 2023-08-10 | 2025-01-11 |
@@ -103,6 +103,7 @@
 | [Outside World \- Bart Skils & Weska Remix](https://open.spotify.com/track/1hNuuUPJWU7c7gZCrNiMYs) | [Sunbeam](https://open.spotify.com/artist/1ZXarwne5gA98pXsbC7vph), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Weska](https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci) | [Outside World \(Bart Skils & Weska Remix\)](https://open.spotify.com/album/4rogCzyAHLJp4hYu6W4TKl) | 4:00 | 2023-09-06 |  |
 | [Overdrive](https://open.spotify.com/track/5NW5U1T845XTEVkjIFqLkW) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Overdrive EP](https://open.spotify.com/album/6L9vJcQPmdPQC7KYAgpk3k) | 6:48 | 2023-08-10 | 2023-09-07 |
 | [Pale Light](https://open.spotify.com/track/64F0tid5vwapfuC4ERAHyA) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB) | [Pale Light](https://open.spotify.com/album/6maZwUHv4hHHJl4Bzh4Q9k) | 3:45 | 2024-12-20 |  |
+| [Peruvian Bounce](https://open.spotify.com/track/57j8aqFe82TJmJPgSzWvXT) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Peruvian Bounce](https://open.spotify.com/album/13t5kwqmi6d7d3EeScL1uC) | 3:44 | 2025-10-09 |  |
 | [Pluto \- Live](https://open.spotify.com/track/6rRIi4fwSDHXYPGsMID3ez) | [BalQeis Live](https://open.spotify.com/artist/3QrfETcrieJh4g5rH352Vq) | [Planetary\_4.2 \(Live\)](https://open.spotify.com/album/5dSuaG8t4m7y3lefnuMF3M) | 2:45 | 2025-09-22 |  |
 | [Raag Bhairavi](https://open.spotify.com/track/03MK4ZqPXi5zhblvE5PNqj) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Shruti Singh](https://open.spotify.com/artist/3ez3pRLzrPuiEhfwqJfWNn), [Navinder Singh](https://open.spotify.com/artist/4ckBtARZbKz0zNyewp9aoU), [Gurdev Singh](https://open.spotify.com/artist/3gsyCBPp33pNMK8P5iJNm3) | [Gurdev Singh: Art of the Indian Sarod](https://open.spotify.com/album/6oYggY5iPuUPXXx4lOWPNQ) | 9:13 | 2024-10-25 | 2025-01-11 |
 | [Racos](https://open.spotify.com/track/5dRF9o0qHnXWcjwL01H7yj) | [Corpino](https://open.spotify.com/artist/3aZMsfIeWGsIacqszip923), [T.M.A](https://open.spotify.com/artist/2byiSAqYCxVFaUmm0KxiIe) | [Racos](https://open.spotify.com/album/5PSU21vZRXiUoArUwTHKIf) | 7:21 | 2023-08-10 | 2024-10-02 |

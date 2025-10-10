@@ -2,9 +2,9 @@
 
 ### [RADAR Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX0dUsjwqfaGM)
 
-> Thế hệ nghệ sĩ mới\. Ảnh bìa: Ánh Sáng AZA
+> Thế hệ nghệ sĩ mới\. Ảnh bìa: GUrbane
 
-180 songs - 10 hr 24 min
+181 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [5 10](https://open.spotify.com/track/6H5bXIY2XMaCZMn2O8HSG4) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [chơi trò yêu](https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2) | 2:25 | 2024-12-04 |  |
 | [7711 \(bảy bảy một một\) \[Acoustic Ver\]](https://open.spotify.com/track/57oEOsLQGQto9vUvMVB3Vy) | [Minh Đinh](https://open.spotify.com/artist/4NfuHLESitkh66LOZeyzsu) | [7711 \(bảy bảy một một\) \[Acoustic Ver\]](https://open.spotify.com/album/703wXKqIsuE8ltDw4p112m) | 3:13 | 2023-04-13 | 2024-12-05 |
 | [7711\(bảy bảy một một\) \- Acoustic](https://open.spotify.com/track/6BqI12kwPo7f1D6hHFq9Mc) | [Minh Đinh](https://open.spotify.com/artist/4NfuHLESitkh66LOZeyzsu) | [7711\(bảy bảy một một\) \[Acoustic\]](https://open.spotify.com/album/1i9f50j6IwhHwnFwnoNLAz) | 3:13 | 2023-07-25 | 2024-04-19 |
+| [ain’t fit](https://open.spotify.com/track/7E9lsvLE80mutKRyztR1ie) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [re:imaGined \(“GB” deluxe version\)](https://open.spotify.com/album/78ugKiEPOPq1taDCRjT8p3) | 3:47 | 2025-10-09 |  |
 | [Anh Bờ Vai](https://open.spotify.com/track/5fSjfwTHjzQovSM0VlMVD2) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 3:39 | 2025-03-27 |  |
 | [anh chưa quên được em \(2AM Freestyle\)](https://open.spotify.com/track/2wKRXynEFTZRAbCzxaLv6F) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Larria.](https://open.spotify.com/artist/1qdb7jDQjPd8WWpayCRh5V) | [anh chưa quên được em \(2AM Freestyle\)](https://open.spotify.com/album/6IotTHyZ9lQvylBqTEvhFY) | 2:32 | 2024-05-02 |  |
 | [Anh Nói Hay Em Nói \- TCO Remake](https://open.spotify.com/track/14xXTLUrseZwhq8nRGW44I) | [Ánh Sáng](https://open.spotify.com/artist/6YVVpXPqtwAZqKOPWnbNDW), [Fu liu](https://open.spotify.com/artist/37uExtaLxB5MyITRZaVXF7) | [Anh Nói Hay Em Nói \(TCO Remake\)](https://open.spotify.com/album/7ynVqpnNPuQtBOSCARjYnf) | 2:51 | 2025-03-27 |  |
@@ -133,7 +134,7 @@
 | [Nụ cười trên tàu điện](https://open.spotify.com/track/6sDoRYqmzFWXLwsZzwmQFO) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk) | [Nụ cười trên tàu điện](https://open.spotify.com/album/402kerJsUUs6iY1UuNn7yw) | 2:35 | 2024-12-04 | 2025-03-28 |
 | [Obsessed](https://open.spotify.com/track/1uCmkKTV9aiMZrVJm1zDoT) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK) | [Obsessed](https://open.spotify.com/album/6PiV1ByuZd4o8HUwI83yav) | 2:28 | 2022-09-09 | 2023-06-23 |
 | [OLD BOY](https://open.spotify.com/track/1OxkQkpEzuFKELOHjx9V8W) | [Mèow Lạc](https://open.spotify.com/artist/1984OVQ0KnJW80MiZYOrFF) | [OLD BOY](https://open.spotify.com/album/1gBo8BLABMGxe36LWZFy6C) | 4:00 | 2024-12-04 | 2025-03-28 |
-| [ON MY WAY](https://open.spotify.com/track/0NKYhzHVkjRXipH1hFC5xT) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN), [M NAIVE](https://open.spotify.com/artist/2wqbmDDGHOrzvdOxAPe4JS) | [ON MY WAY](https://open.spotify.com/album/38eH6xovyDMbMXglge5ZNw) | 3:05 | 2025-05-15 |  |
+| [ON MY WAY](https://open.spotify.com/track/0NKYhzHVkjRXipH1hFC5xT) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN), [M NAIVE](https://open.spotify.com/artist/2wqbmDDGHOrzvdOxAPe4JS) | [ON MY WAY](https://open.spotify.com/album/38eH6xovyDMbMXglge5ZNw) | 3:05 | 2025-05-15 | 2025-10-10 |
 | [PHONG \(feat\. TGSN & Tyronee\)](https://open.spotify.com/track/0ibp5h8QATkvC6P5cO5TUV) | [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [TGSN](https://open.spotify.com/artist/2OkxNsNz7QXCBwlME0fSsk), [Tyronee](https://open.spotify.com/artist/04xz9bIBYTIqEpmRvQkfvu) | [PHONG \(feat\. TGSN & Tyronee\)](https://open.spotify.com/album/2miKCUKYhXGekJDx4ZsxiI) | 3:32 | 2022-09-09 | 2024-09-27 |
 | [Rót Tiếp](https://open.spotify.com/track/5U61WeETed0vWK3HUf8Xr6) | [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [Liu Grace](https://open.spotify.com/artist/5DTQVDm1qjLUoAGC8v85c3), [Steji](https://open.spotify.com/artist/5AnW83Ip0xPJ3Pgn0YWDhd) | [Rót Tiếp](https://open.spotify.com/album/4c4l3zyMSwsDjajgrhJ5dq) | 3:10 | 2022-09-09 | 2024-09-27 |
 | [SapoChê](https://open.spotify.com/track/0JLgKwxlXWgXMw40M2Xe6v) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk) | [SapoChê](https://open.spotify.com/album/27s6PKqAn7rCHXtoyzFe0m) | 3:30 | 2024-12-04 | 2025-03-31 |

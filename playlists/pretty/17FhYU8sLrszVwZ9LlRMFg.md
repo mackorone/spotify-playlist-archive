@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/17FhYU8sLrszVwZ9LlRMFg.md) - [plain]
 
 > 
 
-[Adrian](https://open.spotify.com/user/31626gky5snq4aklpfcfmh6arhoa) - 1 like - 35 songs - 1 hr 55 min
+[Adrian](https://open.spotify.com/user/31626gky5snq4aklpfcfmh6arhoa) - 1 like - 36 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,5 +43,6 @@ pretty - [cumulative](/playlists/cumulative/17FhYU8sLrszVwZ9LlRMFg.md) - [plain]
 | 33 | [Homage](https://open.spotify.com/track/7DcJ6fEBb7BaKuYKTwiDxK) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Skiptracing](https://open.spotify.com/album/6O9YDn12I4WQxUBQE9tpnN) | 2:57 |
 | 34 | [secrets](https://open.spotify.com/track/2ABwmC6R0EqTwGjdOduoD7) | [julez](https://open.spotify.com/artist/72DZClrG6inu1xATuKl6lH) | [secrets](https://open.spotify.com/album/28qAR0pihpYG5aOocXNH5r) | 1:37 |
 | 35 | [Her](https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1) | [The American Dawn](https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11) | [Her](https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv) | 3:34 |
+| 36 | [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 |
 
-Snapshot ID: `AAAAPjMznniukSU+5XHve0gfkz0cp2kh`
+Snapshot ID: `AAAAPyegyrr6MjCa4tOD67ICwqlIoJlV`

@@ -6229,6 +6229,28 @@
     },
     {
       "album": {
+        "name": "OUTRAGE",
+        "url": "https://open.spotify.com/album/12LBeDvalrCAdyvvxdphyO"
+      },
+      "artists": [
+        {
+          "name": "USAO",
+          "url": "https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI"
+        },
+        {
+          "name": "DJ Myosuke",
+          "url": "https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160307,
+      "name": "OUTRAGE",
+      "url": "https://open.spotify.com/track/4aAsD63PKtdr5J14QoCube"
+    },
+    {
+      "album": {
         "name": "SPEED BALL GT",
         "url": "https://open.spotify.com/album/4qBkBKQTlXMdyZQusE7lf3"
       },

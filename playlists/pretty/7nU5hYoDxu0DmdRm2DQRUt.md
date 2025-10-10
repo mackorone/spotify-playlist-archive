@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7nU5hYoDxu0DmdRm2DQRUt.md) - [plain]
 
 > New Arrivals keeps you posted on the latest records arriving in our record store and online shop &\#x2F; kompakt.fm
 
-[Kompakt Records](https://open.spotify.com/user/kompaktrecords) - 7,751 likes - 260 songs - 1 day 1 hr 43 min
+[Kompakt Records](https://open.spotify.com/user/kompaktrecords) - 7,752 likes - 260 songs - 1 day 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/7nU5hYoDxu0DmdRm2DQRUt.md) - [plain]
 | 25 | [Body Music](https://open.spotify.com/track/4Cmdy2dNVMteL3I8F3t16X) | [Ashtar Afterhours](https://open.spotify.com/artist/6BpuYRnswVfunDciLR16nA) | [Body Music](https://open.spotify.com/album/01Nn2mY1Lz09D0XiieeKwf) | 6:07 |
 | 26 | [Brainwave 2.0 \- Raxon Mix](https://open.spotify.com/track/3u2lbZTu3OqYW5iwb9b6TD) | [Michael Mayer](https://open.spotify.com/artist/5R9d1YP5jtBw2IrQItGzQI), [Raxon](https://open.spotify.com/artist/6gp9WP1OleU89x2gF9w2ID) | [Brainwave 2.0 \(Raxon Mix\)](https://open.spotify.com/album/2ZHGThOH24lVihPhSvZCkx) | 5:19 |
 | 27 | [Dançá Dançá T'Manchê \- Acid Pauli's Fullmix](https://open.spotify.com/track/7wGl2vn170gZjYxwintwez) | [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C), [Val Xalino](https://open.spotify.com/artist/0Ypk9dtgVcxLJXwjJxDDIg) | [Dançá Dançá T'Manchê](https://open.spotify.com/album/2KjtlLojIUC5MBSlDU1zWH) | 6:53 |
-| 28 | [Forward \- Donato Dozzy Remix](https://open.spotify.com/track/3HkhvKOVWPfdzDqax6CF0c) | [Mike Parker](https://open.spotify.com/artist/09CEhdsMmOdtetLfiqxFlh), [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Forward](https://open.spotify.com/album/3D1IZx4cuONecwWfT4CiSt) | 5:41 |
+| 28 | [Forward \- Donato Dozzy Remix](https://open.spotify.com/track/3HkhvKOVWPfdzDqax6CF0c) | [Mike Parker](https://open.spotify.com/artist/09CEhdsMmOdtetLfiqxFlh), [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Forward](https://open.spotify.com/album/3D1IZx4cuONecwWfT4CiSt) | 5:40 |
 | 29 | [Body on Body](https://open.spotify.com/track/4eNmdcBJ770bhw2Ee6F0U4) | [AFAR](https://open.spotify.com/artist/3RISmAgVwF5b24BjC8OsYZ) | [Body on Body](https://open.spotify.com/album/0AymIdPRppmrsB2kO9AbVF) | 4:15 |
 | 30 | [Pieces I've Found](https://open.spotify.com/track/18qSjdSh7L9ITHPkovknfs) | [Barja](https://open.spotify.com/artist/5uBR08vndaYNR50ZqRWthK), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Pieces I've Found](https://open.spotify.com/album/3k3w2yylzyAGnpqWzFVIYy) | 2:54 |
 | 31 | [Gold Filigree](https://open.spotify.com/track/2GFMkbnh2SvLxgavAadQRg) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [All Cylinders](https://open.spotify.com/album/1jooROM5diSNAfEwESyDDH) | 3:24 |

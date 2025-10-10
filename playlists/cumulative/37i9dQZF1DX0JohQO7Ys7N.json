@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Maya Amolo",
+  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Xenia Manasseh",
   "name": "NairoBae",
   "tracks": [
     {
@@ -963,6 +963,28 @@
     },
     {
       "album": {
+        "name": "EAST2HWOOD",
+        "url": "https://open.spotify.com/album/2hpKS3D3i4J0UK9vkGmuVV"
+      },
+      "artists": [
+        {
+          "name": "Ukweli",
+          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
+        },
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208583,
+      "name": "EAST2HWOOD",
+      "url": "https://open.spotify.com/track/7nsQGkE4LbDnGCp9lDs83t"
+    },
+    {
+      "album": {
         "name": "D.R.U.G.S (Dear.Romance.U.Got.Sweet)",
         "url": "https://open.spotify.com/album/3fME5IHzfkHsZEqy5L7IlA"
       },
@@ -1298,7 +1320,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 192631,
       "name": "Fire",
       "url": "https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ"

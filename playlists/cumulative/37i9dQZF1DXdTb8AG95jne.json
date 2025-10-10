@@ -3628,7 +3628,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 298613,
       "name": "DDDD!",
       "url": "https://open.spotify.com/track/7uP6YcBFEsOMf7CxuqrjPh"
@@ -6999,6 +6999,28 @@
     },
     {
       "album": {
+        "name": "Hangang II",
+        "url": "https://open.spotify.com/album/5by7mr8U2nbj4m5QbyQdcf"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "prettyhappy",
+          "url": "https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244293,
+      "name": "Hangang II (feat. prettyhappy)",
+      "url": "https://open.spotify.com/track/6woyNdP7fe5xasTrj0oVtA"
+    },
+    {
+      "album": {
         "name": "Happy Orange",
         "url": "https://open.spotify.com/album/76TnC7yj8OkyDIsTBpCak5"
       },
@@ -7332,7 +7354,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 169000,
       "name": "HEY NERD!",
       "url": "https://open.spotify.com/track/3xMIKY0B2Xf2oQq6q5Wnmk"
@@ -11480,7 +11502,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 187408,
       "name": "morning twist",
       "url": "https://open.spotify.com/track/5i5uM0W7hi9ZInDnhvkNIW"
@@ -15190,7 +15212,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 218924,
       "name": "Silly Faces",
       "url": "https://open.spotify.com/track/5gyJl6zw0gSKl4U1UIw3Jo"
@@ -17153,6 +17175,28 @@
     },
     {
       "album": {
+        "name": "Tension",
+        "url": "https://open.spotify.com/album/64VewSAHzeC8gZTmw71TGB"
+      },
+      "artists": [
+        {
+          "name": "oftn",
+          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
+        },
+        {
+          "name": "Sonny Zero",
+          "url": "https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227692,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/4xgGkrU1SqCkgtiNVsaq22"
+    },
+    {
+      "album": {
         "name": "Thanks and Thank you",
         "url": "https://open.spotify.com/album/0uPBWBnUkF07lorP1GZMbJ"
       },
@@ -18883,6 +18927,24 @@
     },
     {
       "album": {
+        "name": "Waves of Us",
+        "url": "https://open.spotify.com/album/6mmeTQmTLGhTA3zhlUtGiS"
+      },
+      "artists": [
+        {
+          "name": "JeongSaebyeok",
+          "url": "https://open.spotify.com/artist/4IGJKsSWf3d8o5Qd1NyOs7"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Waves of Us",
+      "url": "https://open.spotify.com/track/7FU9WSFyMQAnCV3QfBZdqp"
+    },
+    {
+      "album": {
         "name": "We must break up now",
         "url": "https://open.spotify.com/album/6M0cxLeXYzDdkjCtfdoNYC"
       },
@@ -18988,6 +19050,24 @@
       "duration_ms": 158540,
       "name": "we'll we'll we'll",
       "url": "https://open.spotify.com/track/20lNlljp0TirKpHHmx5bdG"
+    },
+    {
+      "album": {
+        "name": "We, the young",
+        "url": "https://open.spotify.com/album/43LOnMWEXJJDUpHPN64m31"
+      },
+      "artists": [
+        {
+          "name": "SUNGHWI",
+          "url": "https://open.spotify.com/artist/7rlrjdWClWXnQ0flmhBMXR"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205913,
+      "name": "We, the young",
+      "url": "https://open.spotify.com/track/3noAY4OKq9ZbR78s65UJ9J"
     },
     {
       "album": {

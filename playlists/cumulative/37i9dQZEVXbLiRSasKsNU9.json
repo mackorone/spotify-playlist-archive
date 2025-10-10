@@ -26087,6 +26087,36 @@
     },
     {
       "album": {
+        "name": "Os Dois Lados Da Moeda",
+        "url": "https://open.spotify.com/album/0fRzT77gUSZcB4yMQlv5mK"
+      },
+      "artists": [
+        {
+          "name": "Prod Gomes",
+          "url": "https://open.spotify.com/artist/2OykwFvrdokATKdUQPGAFA"
+        },
+        {
+          "name": "DJ Gomes Original",
+          "url": "https://open.spotify.com/artist/3nfX35AmNNFGx6Tu9WCW5r"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Bisqui",
+          "url": "https://open.spotify.com/artist/2TLX5U1HoPlgzky1SstRWJ"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Faz assim",
+      "url": "https://open.spotify.com/track/0hB6UKgc3iKTphmGuWpNOg"
+    },
+    {
+      "album": {
         "name": "Faz de Chicote",
         "url": "https://open.spotify.com/album/59xJk5vaSitPB4nD5GAsAA"
       },
@@ -56254,7 +56284,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 240107,
       "name": "Oorum Blood - From \"Dude\"",
       "url": "https://open.spotify.com/track/6EzB9lIW27iSTd0c2V4t3K"
@@ -65064,7 +65094,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 293026,
       "name": "Sabah Olmadan",
       "url": "https://open.spotify.com/track/0n5RFIZqdGlWWLlLMpYSIx"
@@ -83492,7 +83522,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 171008,
       "name": "Where Have You Been (Orchestra)",
       "url": "https://open.spotify.com/track/38iBHhjHpRTkIlAW9IeAdZ"

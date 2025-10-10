@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 22472,
+  "num_followers": 22502,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aORYAAAAAAB3r3wNm5FeuOksiVEjxzUO",
+  "snapshot_id": "aOWpgAAAAACyjE448Y+icVw3dX5wFax9",
   "tracks": [
     {
       "added_at": null,
@@ -903,22 +903,6 @@
       "duration_ms": 216306,
       "name": "Action",
       "url": "https://open.spotify.com/track/0qi526Q4l45TDR06J26GnS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "King Gampo",
-        "url": "https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/3In2mNIEIptPqnooOBxYcR"
     }
   ],
   "unique_name": "This Is Prof",

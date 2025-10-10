@@ -1,13 +1,45 @@
 {
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Traffic Jam",
-  "num_followers": 13446,
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Naykilla",
+  "num_followers": 13450,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADIIog6cAJI5qXwsKwRXGhtpZLvA",
+  "snapshot_id": "AAAAANKvywieHT5SBKSkC1iE3J83awDK",
   "tracks": [
+    {
+      "added_at": "2025-10-09 17:00:23",
+      "album": {
+        "name": "SO ASU",
+        "url": "https://open.spotify.com/album/00r0dUE6PBHPNVsBsddH7t"
+      },
+      "artists": [
+        {
+          "name": "Naykilla",
+          "url": "https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "SO ASU",
+      "url": "https://open.spotify.com/track/56TRhAB4SqpRn5NdqHSAFy"
+    },
+    {
+      "added_at": "2025-10-09 17:00:23",
+      "album": {
+        "name": "Didadaku Ada Kamu",
+        "url": "https://open.spotify.com/album/4wfBpjEZot0txLIUQpVRnH"
+      },
+      "artists": [
+        {
+          "name": "Coldiac",
+          "url": "https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA"
+        }
+      ],
+      "duration_ms": 193452,
+      "name": "Didadaku Ada Kamu",
+      "url": "https://open.spotify.com/track/3uj8DR1LlANaJe0CixYzGc"
+    },
     {
       "added_at": "2025-10-02 17:00:33",
       "album": {
@@ -23,6 +55,54 @@
       "duration_ms": 210666,
       "name": "Ibukota",
       "url": "https://open.spotify.com/track/3qQAJe7GwWt0r4Aa19Jorf"
+    },
+    {
+      "added_at": "2025-10-09 17:00:23",
+      "album": {
+        "name": "If Only",
+        "url": "https://open.spotify.com/album/7jiLRF1NvlGC2Acr3d7okL"
+      },
+      "artists": [
+        {
+          "name": "The Skuy",
+          "url": "https://open.spotify.com/artist/2SunSofBVWqLykk0g7aQ1z"
+        }
+      ],
+      "duration_ms": 241480,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/5igPUqZAso9bMHVCpS5USI"
+    },
+    {
+      "added_at": "2025-10-09 17:00:23",
+      "album": {
+        "name": "Singing Again",
+        "url": "https://open.spotify.com/album/5tcpgJ1av9iWBIy8vBYQED"
+      },
+      "artists": [
+        {
+          "name": "Andrea Najla",
+          "url": "https://open.spotify.com/artist/2yjgwD4t4KZpeSM782W8YE"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Singing Again",
+      "url": "https://open.spotify.com/track/0q9ceMhLuxiIoGtcxOsozy"
+    },
+    {
+      "added_at": "2025-10-09 17:00:23",
+      "album": {
+        "name": "Runner Up",
+        "url": "https://open.spotify.com/album/4fU3VB9Q1XxP5UH4aBSPwR"
+      },
+      "artists": [
+        {
+          "name": "Moneva",
+          "url": "https://open.spotify.com/artist/1wLYFml7YYO2uEcNwAZE0J"
+        }
+      ],
+      "duration_ms": 234195,
+      "name": "Runner Up",
+      "url": "https://open.spotify.com/track/6R549RTmRikhV9khynVxv3"
     },
     {
       "added_at": "2025-09-25 17:05:13",
@@ -903,26 +983,6 @@
     {
       "added_at": "2025-06-05 17:05:22",
       "album": {
-        "name": "Kembali",
-        "url": "https://open.spotify.com/album/3iO4HlncpgrtG0VFvoSxKp"
-      },
-      "artists": [
-        {
-          "name": "Christo Edgar",
-          "url": "https://open.spotify.com/artist/7i2vbzCSBa8v9jj9BG4jLz"
-        },
-        {
-          "name": "Laze",
-          "url": "https://open.spotify.com/artist/1IqTdUbQ33vM6tbV1fiWKZ"
-        }
-      ],
-      "duration_ms": 171260,
-      "name": "Kembali",
-      "url": "https://open.spotify.com/track/76yvmHDxe0lISOmgDsDV3X"
-    },
-    {
-      "added_at": "2025-06-05 17:05:22",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/53m3RvFPacVDijPuDabf0Y"
       },
@@ -1011,22 +1071,6 @@
       "duration_ms": 214300,
       "name": "shoot",
       "url": "https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q"
-    },
-    {
-      "added_at": "2025-06-05 17:05:22",
-      "album": {
-        "name": "Kasitau",
-        "url": "https://open.spotify.com/album/3AWoEbNv1rF4sZ1Wrg751k"
-      },
-      "artists": [
-        {
-          "name": "Karina Christy",
-          "url": "https://open.spotify.com/artist/3VrdcyFAoiGD2yBZgb4nH7"
-        }
-      ],
-      "duration_ms": 207058,
-      "name": "Terlena",
-      "url": "https://open.spotify.com/track/2BCvg2cfrJ0wFrRiOQyU9G"
     },
     {
       "added_at": "2025-06-05 17:05:22",
@@ -1355,26 +1399,6 @@
     {
       "added_at": "2025-06-05 17:05:22",
       "album": {
-        "name": "Gadisku",
-        "url": "https://open.spotify.com/album/6WbER6eqWKwSJCP2Tt1Cs9"
-      },
-      "artists": [
-        {
-          "name": "Mike Mohede",
-          "url": "https://open.spotify.com/artist/0uGUpFXAdhKMgiHwbueiuf"
-        },
-        {
-          "name": "Andi Rianto",
-          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Gadisku",
-      "url": "https://open.spotify.com/track/4cJ0rC60m1KNCq9Ie0rGje"
-    },
-    {
-      "added_at": "2025-06-05 17:05:22",
-      "album": {
         "name": "Diantara Kata",
         "url": "https://open.spotify.com/album/1dgr7AUFb8kbP45M6dhpBe"
       },
@@ -1391,26 +1415,6 @@
       "duration_ms": 253331,
       "name": "Diantara Kata",
       "url": "https://open.spotify.com/track/4LnuU4KBYfy6Cg4CEJ23Pu"
-    },
-    {
-      "added_at": "2025-06-05 17:05:22",
-      "album": {
-        "name": "Pesona",
-        "url": "https://open.spotify.com/album/3KjunxG32U22r50ljiwpFV"
-      },
-      "artists": [
-        {
-          "name": "TADI",
-          "url": "https://open.spotify.com/artist/6hpZLcLqVjqzWWA0ZXTThF"
-        },
-        {
-          "name": "Rahmania Astrini",
-          "url": "https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC"
-        }
-      ],
-      "duration_ms": 235920,
-      "name": "Pesona",
-      "url": "https://open.spotify.com/track/37cZnP06JGqD2jK01JQyfe"
     },
     {
       "added_at": "2025-06-05 17:05:22",
@@ -1627,22 +1631,6 @@
       "duration_ms": 241920,
       "name": "Kau Pilih Dia",
       "url": "https://open.spotify.com/track/1BupzCNunldnbAHPi7yChV"
-    },
-    {
-      "added_at": "2025-06-05 17:05:22",
-      "album": {
-        "name": "Lesson",
-        "url": "https://open.spotify.com/album/2WYZVN2DU9dOpZGKjfIzh9"
-      },
-      "artists": [
-        {
-          "name": "Aziz Hedra",
-          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
-        }
-      ],
-      "duration_ms": 231603,
-      "name": "Devastated",
-      "url": "https://open.spotify.com/track/66u9o62E8XjHwYIiXCrqAN"
     },
     {
       "added_at": "2025-06-05 17:05:22",

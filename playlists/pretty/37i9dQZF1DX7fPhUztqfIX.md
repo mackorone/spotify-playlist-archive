@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Pat Barrett
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,745 likes - 69 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,784 likes - 69 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 6 | [Speak To Mountains \- Live In Manila](https://open.spotify.com/track/6Pr6l4CZbtXh7b3WQg66Sb) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Speak To Mountains](https://open.spotify.com/album/3bBIAQH5LZeG5CG2q0YE7I) | 6:13 |
 | 7 | [Life & Breath](https://open.spotify.com/track/2qQfEaRyb67f1XgvVjg9j5) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Life & Breath](https://open.spotify.com/album/0Wu88qLqxq6qBNejyHeEUr) | 4:39 |
 | 8 | [lonely cross \(Live from Two Palms\)](https://open.spotify.com/track/36YCD7Jn3iZzw8fgx5rqmo) | [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [interlude \(Live from Two Palms\)](https://open.spotify.com/album/0K2GBqOomjS11kdQcK2fLo) | 5:24 |
-| 9 | [Lamb Upon The Throne](https://open.spotify.com/track/5KtJIhIuc7NyOX4eOK3c1r) | [Bridge Worship](https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK) | [Lamb Upon The Throne](https://open.spotify.com/album/1vOFsxwPkw6hMyORwpPtlA) | 6:49 |
+| 9 | [Lamb Upon The Throne](https://open.spotify.com/track/5KtJIhIuc7NyOX4eOK3c1r) | [Bridge Worship](https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK), [Brandon Premo](https://open.spotify.com/artist/0R7z2fw3sI7SQaHvQWnc7t) | [Lamb Upon The Throne](https://open.spotify.com/album/1vOFsxwPkw6hMyORwpPtlA) | 6:49 |
 | 10 | [Psalm 103](https://open.spotify.com/track/60QixU3niqd9qaXaQnM57l) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Psalms](https://open.spotify.com/album/2RnBUBuK2iYntEWSDOP8vS) | 4:40 |
 | 11 | [Testimony](https://open.spotify.com/track/4I01JiotzjG0twezQt1xqX) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Testimony](https://open.spotify.com/album/1JgiUpuR8UgX1TzTCQ7J9h) | 4:02 |
 | 12 | [Heard About A River \- Live](https://open.spotify.com/track/02Ev3EfBX3j2irtlhTSPC7) | [Joel Case](https://open.spotify.com/artist/36loSyf5MJgUG6HOiwd5V5), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r), [Cageless Birds](https://open.spotify.com/artist/4rZuQD42ETklGQfWmgvqBR) | [Let God Come In \(Live\)](https://open.spotify.com/album/2Nj2jE6wOlr0qCSBKhtGF6) | 7:46 |

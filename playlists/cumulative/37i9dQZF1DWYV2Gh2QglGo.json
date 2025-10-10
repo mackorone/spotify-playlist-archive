@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Owen Riegling",
+  "description": "The home of Canadian country music. Cover: Sully Burrows",
   "name": "North Country",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 233198,
       "name": "10 Shots",
       "url": "https://open.spotify.com/track/4wwcHNs8gIZO71VImuo1yZ"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 217500,
       "name": "Buckle Rubbin'",
       "url": "https://open.spotify.com/track/1S8PIcSLRurRgtr8FWdL2O"
@@ -1916,7 +1916,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 202137,
       "name": "Fight With You",
       "url": "https://open.spotify.com/track/6hdvMIbkpxWN6owrVTdEEY"
@@ -1938,6 +1938,24 @@
       "duration_ms": 209680,
       "name": "Finding Firsts",
       "url": "https://open.spotify.com/track/6fOSP6RwzVppsvQWTj8IVd"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Raquel Cole",
+          "url": "https://open.spotify.com/artist/79d6Lyd8uQbZsCWtpnZqtF"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187988,
+      "name": "Fire Child",
+      "url": "https://open.spotify.com/track/1QZu9XYaAtUAMai016gS0o"
     },
     {
       "album": {
@@ -2036,7 +2054,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 210103,
       "name": "For the First Time",
       "url": "https://open.spotify.com/track/2eTnZEDxXO1bZhudGX7Xw3"
@@ -2679,6 +2697,28 @@
     },
     {
       "album": {
+        "name": "Hearts Don't Break",
+        "url": "https://open.spotify.com/album/3CqFzCygjaA2cnaKdp4NSB"
+      },
+      "artists": [
+        {
+          "name": "Taylor-Rae",
+          "url": "https://open.spotify.com/artist/0DlnbmX0kuF1v8xzxxtqN8"
+        },
+        {
+          "name": "Antonio Larosa",
+          "url": "https://open.spotify.com/artist/6Dq03yxvWqvZPoZR7OWbZX"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193121,
+      "name": "Hearts Don't Break",
+      "url": "https://open.spotify.com/track/4MK4jsFbuW2yjAZGxLpIdb"
+    },
+    {
+      "album": {
         "name": "Chevy Back",
         "url": "https://open.spotify.com/album/7BGKRLNzeuSKpmMqe5K07G"
       },
@@ -3178,7 +3218,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 174193,
       "name": "I Don't Have Exes",
       "url": "https://open.spotify.com/track/79Oix3agGOG2N0CZtE6mvx"
@@ -3794,7 +3834,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 212285,
       "name": "Let Alone My Heart",
       "url": "https://open.spotify.com/track/0BX4zCgauWau1bH0ii4FDU"
@@ -3892,6 +3932,24 @@
       "duration_ms": 164727,
       "name": "LIFE OUT HERE",
       "url": "https://open.spotify.com/track/5y75qp6svPFOfKLQNTpIGz"
+    },
+    {
+      "album": {
+        "name": "Life's Waiting On Me",
+        "url": "https://open.spotify.com/album/08L0ipvi6v6CiCD6uhYGtP"
+      },
+      "artists": [
+        {
+          "name": "Brittany Kennell",
+          "url": "https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189224,
+      "name": "Life's Waiting On Me",
+      "url": "https://open.spotify.com/track/4fMZcwzeJj6NTmJ8MagN92"
     },
     {
       "album": {
@@ -4358,7 +4416,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 194798,
       "name": "Motel in Southern Idaho",
       "url": "https://open.spotify.com/track/60twmcF1WOcbFhNf3gOpAO"
@@ -4456,7 +4514,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 199693,
       "name": "My Best Dance Moves",
       "url": "https://open.spotify.com/track/4jkrXmFDuuQFPgrzEWik09"
@@ -4514,7 +4572,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 163638,
       "name": "Namin\u2019 Names",
       "url": "https://open.spotify.com/track/4ORhANtnChWYXj1aXPhQEm"
@@ -6076,7 +6134,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 195959,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/7aIFWLKkxzL8R9JEsi1McB"
@@ -6098,6 +6156,24 @@
       "duration_ms": 184932,
       "name": "Smoke Rings",
       "url": "https://open.spotify.com/track/4nl2s8WMKZrMnDbI0dT6G3"
+    },
+    {
+      "album": {
+        "name": "Smokin' Gun",
+        "url": "https://open.spotify.com/album/5rbRTLNHTrjEYrwD2iMDFF"
+      },
+      "artists": [
+        {
+          "name": "Kalsey Kulyk",
+          "url": "https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179063,
+      "name": "Smokin\u2019 Gun",
+      "url": "https://open.spotify.com/track/2aleKd3JEeQiXUmQDsNMq5"
     },
     {
       "album": {
@@ -6256,7 +6332,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 186318,
       "name": "Somewhere in a Small Town",
       "url": "https://open.spotify.com/track/0v8Xje4ZqPnYpECOzeMvjJ"
@@ -6422,7 +6498,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 169261,
       "name": "STRANGE",
       "url": "https://open.spotify.com/track/3br7VTxoKuhGTlWMQj1eLn"
@@ -6757,6 +6833,28 @@
     },
     {
       "album": {
+        "name": "The Oil\u2019s Back In Town",
+        "url": "https://open.spotify.com/album/2waatVX92IUT38X7fMCJBL"
+      },
+      "artists": [
+        {
+          "name": "Corb Lund",
+          "url": "https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og"
+        },
+        {
+          "name": "Musora",
+          "url": "https://open.spotify.com/artist/60Qtnm46ynKnGaaMjOjogW"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146854,
+      "name": "The Oil\u2019s Back In Town - Musora Session",
+      "url": "https://open.spotify.com/track/42XQcesZHzFr5K8CkfYzxY"
+    },
+    {
+      "album": {
         "name": "Roads That Go Nowhere",
         "url": "https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir"
       },
@@ -6916,7 +7014,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 150000,
       "name": "Till I Get To Heaven",
       "url": "https://open.spotify.com/track/11keHpMPuloSDRF7iEAm8a"
@@ -7031,6 +7129,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Sully Burrows",
+          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/57t1RzKv09qhtwW9NANXV0"
+    },
+    {
+      "album": {
         "name": "Train (Station Edition)",
         "url": "https://open.spotify.com/album/6qmiXJbehiIQZYQfu4qYit"
       },
@@ -7114,7 +7230,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 167609,
       "name": "Under Covers",
       "url": "https://open.spotify.com/track/0Yh8wibA4pAv2SEOhZZJlv"
@@ -7338,7 +7454,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 195502,
       "name": "What Am I Doing?",
       "url": "https://open.spotify.com/track/61S0fpy289bZvAoxMFKqqY"
@@ -7522,7 +7638,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 208379,
       "name": "When the Devil Whispers",
       "url": "https://open.spotify.com/track/5rPwVC9h7mdEedFMSFtGll"

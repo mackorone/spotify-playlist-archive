@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 230015,
       "name": "All In A Dream",
       "url": "https://open.spotify.com/track/03jQHo0HFj5onzoexiaMPI"
@@ -172,7 +172,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 322379,
       "name": "Angled",
       "url": "https://open.spotify.com/track/34dmMggKn0zM9hgo3tSYSY"
@@ -367,6 +367,32 @@
     },
     {
       "album": {
+        "name": "Clay",
+        "url": "https://open.spotify.com/album/36gtuqDRQifMBJIHEaHUHV"
+      },
+      "artists": [
+        {
+          "name": "Matthew Herbert",
+          "url": "https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp"
+        },
+        {
+          "name": "Herbert",
+          "url": "https://open.spotify.com/artist/6wXFUcaG7779tb1Ok72GBn"
+        },
+        {
+          "name": "Momoko Gill",
+          "url": "https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169920,
+      "name": "Calm Water",
+      "url": "https://open.spotify.com/track/4GPqRoEO1lszuH8mJaqNAx"
+    },
+    {
+      "album": {
         "name": "Streetlife",
         "url": "https://open.spotify.com/album/3r48EfIaSFTynvzXkFj28b"
       },
@@ -440,7 +466,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 174193,
       "name": "Claudi",
       "url": "https://open.spotify.com/track/3g8DDnbpzFbcYdZEOzhhdF"
@@ -462,6 +488,32 @@
       "duration_ms": 174193,
       "name": "Claudi",
       "url": "https://open.spotify.com/track/5oVbaTDGaCgaaVYk2jHUdy"
+    },
+    {
+      "album": {
+        "name": "Comets",
+        "url": "https://open.spotify.com/album/16Vk5iOI9fCQLecJclCLTn"
+      },
+      "artists": [
+        {
+          "name": "Optometry",
+          "url": "https://open.spotify.com/artist/7jrtCX0BKSn54uZA2bRYB0"
+        },
+        {
+          "name": "John Tejada",
+          "url": "https://open.spotify.com/artist/2JWmMcE8Z0vapxOIiT7PLq"
+        },
+        {
+          "name": "March Adstrum",
+          "url": "https://open.spotify.com/artist/17QXSCKQaFewEbnWkBAy6T"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Comets",
+      "url": "https://open.spotify.com/track/4u2H9qhRGL5lfA5NnalBmG"
     },
     {
       "album": {
@@ -561,6 +613,24 @@
     },
     {
       "album": {
+        "name": "C\u00f4co do Macaco",
+        "url": "https://open.spotify.com/album/0IGByGINwXIsML5hhxnM3X"
+      },
+      "artists": [
+        {
+          "name": "Coppola",
+          "url": "https://open.spotify.com/artist/3ZWMer3TwUiMxSFYqgfurT"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218709,
+      "name": "C\u00f4co do Macaco",
+      "url": "https://open.spotify.com/track/73nQpyonR7ylIvlj80Ub76"
+    },
+    {
+      "album": {
         "name": "Deliberate",
         "url": "https://open.spotify.com/album/3UPUhgWgOjclIEVeJwMUs0"
       },
@@ -590,7 +660,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 324066,
       "name": "Disco 2000 Selector",
       "url": "https://open.spotify.com/track/1Of0GlA4i7mTIUpzItNZmr"
@@ -652,7 +722,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 217280,
       "name": "Dope Dance",
       "url": "https://open.spotify.com/track/3wLOypLdLw1SGdbEUmivEj"
@@ -722,7 +792,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 440909,
       "name": "Drop Me a Line - Mano Le Tough Remix",
       "url": "https://open.spotify.com/track/1v1fNoS1h5KGwOopD03JbG"
@@ -1024,10 +1094,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 372741,
       "name": "Friends",
       "url": "https://open.spotify.com/track/1zrD9siDiFNYPJ9wQNYhU8"
+    },
+    {
+      "album": {
+        "name": "Dense Music",
+        "url": "https://open.spotify.com/album/48ZVJHsoIYeiNhrtjN8Lkp"
+      },
+      "artists": [
+        {
+          "name": "Whirlpool Productions",
+          "url": "https://open.spotify.com/artist/11fVwtMF74ZcvVyfYAkWYI"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356000,
+      "name": "From Disco To Disco",
+      "url": "https://open.spotify.com/track/4AmULZtflj3SktU5MPB6EK"
     },
     {
       "album": {
@@ -1060,7 +1148,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 489056,
       "name": "Gin Nation - Original",
       "url": "https://open.spotify.com/track/4cFvEaXTdtwfijW9ocyvcO"
@@ -1180,7 +1268,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 207360,
       "name": "Hit the Ground - Edit",
       "url": "https://open.spotify.com/track/0Q9bsOkkAq5Jr6SQlPKb1X"
@@ -1220,7 +1308,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 553239,
       "name": "Home Tonight - Extended Version",
       "url": "https://open.spotify.com/track/7pdftgvGvCbBctYxPWZgf1"
@@ -1260,7 +1348,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 496200,
       "name": "Huffbochent\u00e9",
       "url": "https://open.spotify.com/track/1p6KusSh4W9wgm51q3PHnN"
@@ -1304,7 +1392,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 187286,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
@@ -1330,6 +1418,28 @@
       "duration_ms": 556280,
       "name": "I'm Doing Fine (feat. Amp Dog Knight)",
       "url": "https://open.spotify.com/track/5vOSahSFyo87bRpf3yoBNg"
+    },
+    {
+      "album": {
+        "name": "I'm In Love With A German Film Star (Gui Boratto Mix) (Edit)",
+        "url": "https://open.spotify.com/album/4jyEo8Xg89IrvCUpCEoz59"
+      },
+      "artists": [
+        {
+          "name": "Sam Taylor-Wood Produced By Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/52Eu1x9cG4Zm1NZZImr7Br"
+        },
+        {
+          "name": "Gui Boratto",
+          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244157,
+      "name": "I'm In Love With A German Film Star (Gui Boratto Mix) - Edit",
+      "url": "https://open.spotify.com/track/1PjzPGZ7SE4ifCKDaZub97"
     },
     {
       "album": {
@@ -1470,7 +1580,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 259640,
       "name": "In The Crowd",
       "url": "https://open.spotify.com/track/06S1wlkIltEgHHZoY0Dl9z"
@@ -1696,7 +1806,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 356060,
       "name": "L.O.V.E. (DJ-Kicks) - Extended Version",
       "url": "https://open.spotify.com/track/4mtk4SKiFFZYv1hPeugwhT"
@@ -1790,10 +1900,28 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 466413,
       "name": "Let Me Be Me",
       "url": "https://open.spotify.com/track/55s7B24EXzo2oklyJcVQID"
+    },
+    {
+      "album": {
+        "name": "Lifestyles Of The Laptop Caf\u00e9",
+        "url": "https://open.spotify.com/album/2XvYJISnuFJeAZFEqx1hhJ"
+      },
+      "artists": [
+        {
+          "name": "The Other People Place",
+          "url": "https://open.spotify.com/artist/3GLOOlJDdTCd4NRrNb5Kg3"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329293,
+      "name": "Lifestyles Of The Casual",
+      "url": "https://open.spotify.com/track/5xZZUM6VMzGsoMfkAy6Oya"
     },
     {
       "album": {
@@ -1896,10 +2024,36 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 223537,
       "name": "Love Loop",
       "url": "https://open.spotify.com/track/7uT9f5yvdVTgxOYUnysHLu"
+    },
+    {
+      "album": {
+        "name": "Love Will Find A Way (feat. House Of EL)",
+        "url": "https://open.spotify.com/album/3NeGqRu4LUAaKmAm0DfjUq"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Gui Boratto",
+          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
+        },
+        {
+          "name": "House of EL",
+          "url": "https://open.spotify.com/artist/0UMMEX2H03BK9oleRvjHos"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182812,
+      "name": "Love Will Find A Way (feat. House Of EL)",
+      "url": "https://open.spotify.com/track/4jUfLTaMlcwyVSFH5QGm49"
     },
     {
       "album": {
@@ -1922,6 +2076,28 @@
       "duration_ms": 401118,
       "name": "Love's Got Me High - Marc Romboy's Systematic Soul Mix",
       "url": "https://open.spotify.com/track/6khiPXapuKJt8npyZXhL0Q"
+    },
+    {
+      "album": {
+        "name": "Olympic",
+        "url": "https://open.spotify.com/album/2y4r9loI38eOVHJV2TA2TC"
+      },
+      "artists": [
+        {
+          "name": "French 79",
+          "url": "https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e"
+        },
+        {
+          "name": "Kid Francescoli",
+          "url": "https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204933,
+      "name": "Lovin' Feeling",
+      "url": "https://open.spotify.com/track/5euXVXIyjCxAs3hQ8QVabG"
     },
     {
       "album": {
@@ -2008,7 +2184,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 307709,
       "name": "Maria",
       "url": "https://open.spotify.com/track/6d5fwsXEP3U0h5qD1JizGG"
@@ -2117,6 +2293,28 @@
     },
     {
       "album": {
+        "name": "Mind Dimension 2022 (Ben Sterling Remix)",
+        "url": "https://open.spotify.com/album/0Y0ZfAeXS1CBaWTvFCFMd4"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Ben Sterling",
+          "url": "https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330459,
+      "name": "Mind Dimension - Ben Sterling Remix",
+      "url": "https://open.spotify.com/track/0TaDQnUX1RjbCv3liKFqWP"
+    },
+    {
+      "album": {
         "name": "Riot On An Empty Street",
         "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
       },
@@ -2176,7 +2374,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 220161,
       "name": "Monde R\u00e9el - Catz 'n Dogz Pride Mix",
       "url": "https://open.spotify.com/track/79LRebOGsw2wyZG9toBTeO"
@@ -2198,7 +2396,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 390638,
       "name": "Moon (And It Went Like)",
       "url": "https://open.spotify.com/track/20HCH8XT2EK1QYe1loAJ8E"
@@ -2282,7 +2480,7 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 499865,
       "name": "Mutante - Gui Boratto Rework",
       "url": "https://open.spotify.com/track/6pfGxlp0yBwaydQft6qvCr"
@@ -2338,7 +2536,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 284406,
       "name": "Nektar - Benjamin Fr\u00f6hlich Remix",
       "url": "https://open.spotify.com/track/0kjiVRFyQDHenoHo4Skm7r"
@@ -2461,6 +2659,24 @@
     },
     {
       "album": {
+        "name": "One Life Stand",
+        "url": "https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321496,
+      "name": "One Life Stand",
+      "url": "https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj"
+    },
+    {
+      "album": {
         "name": "Suzuki",
         "url": "https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP"
       },
@@ -2472,10 +2688,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 325160,
       "name": "Orozco",
       "url": "https://open.spotify.com/track/1dzEjFQAJBmewLjPzD8B3t"
+    },
+    {
+      "album": {
+        "name": "Panorama X-Press",
+        "url": "https://open.spotify.com/album/58SohyalgUv1s6xjbsuq9x"
+      },
+      "artists": [
+        {
+          "name": "Gui Boratto",
+          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325198,
+      "name": "Panorama X-Press",
+      "url": "https://open.spotify.com/track/01JhRTReJZFt2qPsp7nUJP"
     },
     {
       "album": {
@@ -2517,6 +2751,28 @@
     },
     {
       "album": {
+        "name": "Madanna",
+        "url": "https://open.spotify.com/album/14evB3117hHYREk5QDgQnr"
+      },
+      "artists": [
+        {
+          "name": "Aninha",
+          "url": "https://open.spotify.com/artist/6dCjFLvBI3cNlTIUWSXRrf"
+        },
+        {
+          "name": "Fab\u00f8",
+          "url": "https://open.spotify.com/artist/6PDdu3G4eK1brXt0gN8f6D"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337500,
+      "name": "Paris Helltown",
+      "url": "https://open.spotify.com/track/4QIJDdvxSk8qYoCBgmZAbS"
+    },
+    {
+      "album": {
         "name": "Hotel Amour",
         "url": "https://open.spotify.com/album/2SLPxtJzilcx5HsaMPPy78"
       },
@@ -2532,7 +2788,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 437373,
       "name": "Paris Is For Lovers (My Love) feat. Tomas H\u00f8ffding",
       "url": "https://open.spotify.com/track/3K8TAJPGF06oDH9fV4YLNN"
@@ -2568,7 +2824,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 218709,
       "name": "Personal Numbness",
       "url": "https://open.spotify.com/track/6wDLC3uzNPwaTe43lzHBxu"
@@ -2624,6 +2880,28 @@
       "duration_ms": 434921,
       "name": "Philipp Dolphia",
       "url": "https://open.spotify.com/track/4yrmNn7vsXtMkssVedBais"
+    },
+    {
+      "album": {
+        "name": "Pieces I've Found",
+        "url": "https://open.spotify.com/album/3k3w2yylzyAGnpqWzFVIYy"
+      },
+      "artists": [
+        {
+          "name": "Barja",
+          "url": "https://open.spotify.com/artist/5uBR08vndaYNR50ZqRWthK"
+        },
+        {
+          "name": "Gui Boratto",
+          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174677,
+      "name": "Pieces I've Found",
+      "url": "https://open.spotify.com/track/18qSjdSh7L9ITHPkovknfs"
     },
     {
       "album": {
@@ -2696,7 +2974,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 500200,
       "name": "Ragysh",
       "url": "https://open.spotify.com/track/0dAnQllNjZLuHxCpiVbPCH"
@@ -2714,7 +2992,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 221666,
       "name": "Ready 2 Wear",
       "url": "https://open.spotify.com/track/5MM1szb8iuVTaobe1b2i3D"
@@ -2736,7 +3014,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 244173,
       "name": "Red Room - Ki Pharaoh Basement Edit",
       "url": "https://open.spotify.com/track/51GVoYEJPqlxE2vnZqRVRa"
@@ -2790,7 +3068,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 391720,
       "name": "Rigormortiz",
       "url": "https://open.spotify.com/track/7A70vXpEnca9jxBThGakKT"
@@ -2866,7 +3144,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 253119,
       "name": "Rose Quartz",
       "url": "https://open.spotify.com/track/4zhQpcdgO2OFUMRzcgSJu1"
@@ -2884,7 +3162,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 242773,
       "name": "Rosewood",
       "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
@@ -2968,7 +3246,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 207842,
       "name": "Sophisticated",
       "url": "https://open.spotify.com/track/383wX8zpQKBIWsXCmtrYFd"
@@ -2994,7 +3272,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 379678,
       "name": "Soulmakers - Pulshar Remix",
       "url": "https://open.spotify.com/track/2Z8opQRSukV6Wc7IdtVoZj"
@@ -3016,7 +3294,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 393264,
       "name": "Sounds Of Blue (Gui Boratto Remix)",
       "url": "https://open.spotify.com/track/5UvMXeQKAFPguKBkTYlzj0"
@@ -3052,7 +3330,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 257032,
       "name": "Spatial Lobe - Mixed",
       "url": "https://open.spotify.com/track/57QEqFOJKkr8fGkYG1XkPH"
@@ -3092,7 +3370,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 390410,
       "name": "Suddenly Funk - Extended Mix",
       "url": "https://open.spotify.com/track/6NmMSF6I39txtlrWfHdZAo"
@@ -3154,7 +3432,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 234300,
       "name": "Sunset Drive",
       "url": "https://open.spotify.com/track/7zybSU9tFO9HNlwmGF7stc"
@@ -3190,7 +3468,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 252245,
       "name": "Swimswimswim",
       "url": "https://open.spotify.com/track/37UcMho3b1s8HcS6dG9N2x"
@@ -3251,6 +3529,24 @@
     },
     {
       "album": {
+        "name": "Tako Tako",
+        "url": "https://open.spotify.com/album/2JYZyvtVFfB9S2EJKfhYS5"
+      },
+      "artists": [
+        {
+          "name": "Mathew Jonson",
+          "url": "https://open.spotify.com/artist/6PTy8QkZxHr7Thp8SPYE71"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216200,
+      "name": "Tako Tako",
+      "url": "https://open.spotify.com/track/3kEZ6dT70Btbj6SrtRZvWK"
+    },
+    {
+      "album": {
         "name": "Deliberate",
         "url": "https://open.spotify.com/album/3UPUhgWgOjclIEVeJwMUs0"
       },
@@ -3298,7 +3594,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 407710,
       "name": "The Esel - Dave Aju Rmx",
       "url": "https://open.spotify.com/track/754ePCk9XvNrQIXuESDnAR"
@@ -3324,7 +3620,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 510000,
       "name": "The Magic Room - Dino Lenny & Seth Troxler Re-Edit",
       "url": "https://open.spotify.com/track/4piqUSsesUE5ITHTU0MRYK"
@@ -3495,6 +3791,28 @@
     },
     {
       "album": {
+        "name": "There's Another Way (Gui Boratto's Rework)",
+        "url": "https://open.spotify.com/album/427Jn6qB5Wc7bB438uwtuS"
+      },
+      "artists": [
+        {
+          "name": "MOTO SOLO",
+          "url": "https://open.spotify.com/artist/0l6NxdphNnd5TJrCEudT97"
+        },
+        {
+          "name": "Gui Boratto",
+          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206733,
+      "name": "There's Another Way (Gui Boratto's Rework Radio) - Radio Edit",
+      "url": "https://open.spotify.com/track/2QFCDqfbPV0Eq2Eoc5XDpI"
+    },
+    {
+      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/4Qf13iLtFmcyjNZt9fChJV"
       },
@@ -3535,6 +3853,24 @@
     },
     {
       "album": {
+        "name": "Paerels III",
+        "url": "https://open.spotify.com/album/06euMMSytYZ2nUcd3Rmysb"
+      },
+      "artists": [
+        {
+          "name": "Erik Luebs",
+          "url": "https://open.spotify.com/artist/6WkOn4fj9anahTPdMPqTNy"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379757,
+      "name": "Toward Entropy",
+      "url": "https://open.spotify.com/track/6n7RAwicTgbZMf35uny5RA"
+    },
+    {
+      "album": {
         "name": "Trust Me",
         "url": "https://open.spotify.com/album/4JPZPJSkRMONSb5Y1aMc9j"
       },
@@ -3550,7 +3886,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 198508,
       "name": "Trust Me",
       "url": "https://open.spotify.com/track/7MkwoDv07H8iIXe4xYRsyr"
@@ -3568,7 +3904,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 517664,
       "name": "Tundra",
       "url": "https://open.spotify.com/track/1UgOnzhPO9rF0yL6MVvDvn"
@@ -3709,6 +4045,40 @@
     },
     {
       "album": {
+        "name": "Voice Recognition (Gui Boratto Remixes)",
+        "url": "https://open.spotify.com/album/1MKL3SNS6Lk4loQi4EWJms"
+      },
+      "artists": [
+        {
+          "name": "Ewan Hoo's Army",
+          "url": "https://open.spotify.com/artist/3AVhWhAyaEqL5XNCfWaztB"
+        },
+        {
+          "name": "Dave Seaman",
+          "url": "https://open.spotify.com/artist/3TjRLW97EAU4w6knKVBl73"
+        },
+        {
+          "name": "Quivver",
+          "url": "https://open.spotify.com/artist/1LhfSHiX3eOHTjTLVfhYGD"
+        },
+        {
+          "name": "Gui Boratto",
+          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
+        },
+        {
+          "name": "Leo Wood",
+          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336614,
+      "name": "Voice Recognition - Gui Boratto Remix",
+      "url": "https://open.spotify.com/track/4WkhUPQVXd5qOz0JV2VCst"
+    },
+    {
+      "album": {
         "name": "Wasting My Time With You",
         "url": "https://open.spotify.com/album/2ZrDp6Qa0a6GbqMVeFIkcB"
       },
@@ -3746,7 +4116,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 432177,
       "name": "What Does it Feel Like - Royksopp Return To The Sun Remix",
       "url": "https://open.spotify.com/track/2AyhfcxvSkDUHWN6CVIkC4"
@@ -3768,7 +4138,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 193893,
       "name": "What You Like",
       "url": "https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR"
@@ -3972,7 +4342,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 402099,
       "name": "Your Love Will Set You Free - c2's Set U Free RMX",
       "url": "https://open.spotify.com/track/2i57pciO4zHEXGkDlNSVjf"

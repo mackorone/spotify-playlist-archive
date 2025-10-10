@@ -1207,6 +1207,28 @@
     },
     {
       "album": {
+        "name": "Everytime We",
+        "url": "https://open.spotify.com/album/5Gvd6QNbrltG9uc7SLe7m0"
+      },
+      "artists": [
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        },
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189762,
+      "name": "Everytime We",
+      "url": "https://open.spotify.com/track/2XrzTYH5t1q0QwAnX8EuV7"
+    },
+    {
+      "album": {
         "name": "Chill Executive Officer (CEO), Vol. 24 [Selected by Maykel Piron]",
         "url": "https://open.spotify.com/album/51N2Qs0Inr0BhN9WlVpEOW"
       },
@@ -1610,10 +1632,32 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 216794,
       "name": "Grow",
       "url": "https://open.spotify.com/track/6wLQJHoauNYAv8mhPis5pb"
+    },
+    {
+      "album": {
+        "name": "Happy Now?",
+        "url": "https://open.spotify.com/album/5VEcIumPwkF2oXhWaAn0jL"
+      },
+      "artists": [
+        {
+          "name": "Joachim Pastor",
+          "url": "https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ"
+        },
+        {
+          "name": "88Birds",
+          "url": "https://open.spotify.com/artist/20wsRh5iNQJ7dy3FBavRG1"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319137,
+      "name": "Happy Now?",
+      "url": "https://open.spotify.com/track/3DiQYCOd0yI7VMWoPyWX5d"
     },
     {
       "album": {
@@ -2092,7 +2136,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 205161,
       "name": "Kora",
       "url": "https://open.spotify.com/track/7jHFgSqTGmp8znQ7JOPvzM"
@@ -2620,7 +2664,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 185295,
       "name": "Music In You",
       "url": "https://open.spotify.com/track/0t3uSTVVYGVYVKJUlOMqfk"
@@ -2930,6 +2974,28 @@
       "duration_ms": 268600,
       "name": "Offshore",
       "url": "https://open.spotify.com/track/1rToUrnowFb88N2Z4Kjyau"
+    },
+    {
+      "album": {
+        "name": "Oh Baby",
+        "url": "https://open.spotify.com/album/7uspdSUzOEZk1nyEtyurxh"
+      },
+      "artists": [
+        {
+          "name": "Summer Is Calling",
+          "url": "https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u"
+        },
+        {
+          "name": "Seizo",
+          "url": "https://open.spotify.com/artist/5ECvdR4H6eAsFL3kmUUzdX"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185084,
+      "name": "Oh Baby",
+      "url": "https://open.spotify.com/track/7uYDCWo1S9Kg8g9dXHadvN"
     },
     {
       "album": {

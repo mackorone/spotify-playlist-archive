@@ -4,7 +4,7 @@
 
 > All in us! ITZY is back!
 
-187 songs - 9 hr 47 min
+197 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [365](https://open.spotify.com/track/5J0fF2lLWE6KJMzICG8OHt) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 3:05 | 2022-07-22 | 2024-04-19 |
 | [Air](https://open.spotify.com/track/2HhIndg75YiKjuUgGiMjSA) | [YEJI](https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m) | [Air](https://open.spotify.com/album/4ILxYaUCwfA9EJ36wPwTWz) | 3:14 | 2025-03-10 |  |
 | [Algorhythm](https://open.spotify.com/track/47tYRja2sNmaF0tFFY3D2a) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Algorhythm](https://open.spotify.com/album/7ji7zKkvRlYOsu3ehctQRx) | 3:07 | 2024-05-15 |  |
+| [Algorhythm \- Final Ver.](https://open.spotify.com/track/3BtNCT794NeuVHMsHnAOKa) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Collector](https://open.spotify.com/album/57c4boNwQniM54V9Zv7zhh) | 3:07 | 2025-10-10 |  |
 | [Always be your star](https://open.spotify.com/track/04uLMJFa1x21WX9J4QYF83) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [The Red Sleeve OST Part.9](https://open.spotify.com/album/5iPfEIz0ZnUL62v4ZkuizS) | 3:46 | 2022-04-20 |  |
 | [B\[OO\]M\-BOXX](https://open.spotify.com/track/2RMQFfyDZEyF6Bm8lCdEYu) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 3:13 | 2022-07-22 | 2024-04-19 |
 | [B\[OO\]M\-BOXX](https://open.spotify.com/track/7vf8wdpqIyBgbUd0We65hS) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:13 | 2022-04-20 |  |
@@ -77,9 +78,12 @@
 | [Girls Will Be Girls \(English Ver.\)](https://open.spotify.com/track/1tg9NRakBBe7mMsNPwjIZK) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls \(Remixes\)](https://open.spotify.com/album/3u58dlvmcrlJS3LycfocjK) | 2:47 | 2025-06-14 |  |
 | [Girls Will Be Girls \(Rock Remix\)](https://open.spotify.com/track/4iKAWtEPSuXiVTPCzlemW2) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls \(Remixes\)](https://open.spotify.com/album/3u58dlvmcrlJS3LycfocjK) | 2:27 | 2025-06-14 |  |
 | [Girls Will Be Girls \(Tech House Remix\)](https://open.spotify.com/track/3moMYdAwr3Kd7gm9RUHf3R) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls \(Remixes\)](https://open.spotify.com/album/3u58dlvmcrlJS3LycfocjK) | 2:46 | 2025-06-14 |  |
+| [Girls Will Be Girls \- Japanese ver.](https://open.spotify.com/track/0cRPg49xyxcEcxuomlGs9M) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Collector](https://open.spotify.com/album/57c4boNwQniM54V9Zv7zhh) | 2:49 | 2025-10-10 |  |
 | [GOLD](https://open.spotify.com/track/1dqN2j0jL4qB72CNgCdQ09) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s) | 3:07 | 2024-10-15 |  |
+| [GOLD \- Japanese ver.](https://open.spotify.com/track/3USyikIzT8loCgS22O3Oym) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Collector](https://open.spotify.com/album/57c4boNwQniM54V9Zv7zhh) | 3:08 | 2025-10-10 |  |
 | [I DON’T WANNA DANCE](https://open.spotify.com/track/427ztPo5YDc2TgebnaFtgW) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [It'z Me](https://open.spotify.com/album/2gertXS08whDTzBWfmewPO) | 3:09 | 2022-04-20 |  |
 | [I DON’T WANNA DANCE](https://open.spotify.com/track/4WzPXQ6z0JhJWyc43cAMMX) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:09 | 2022-07-22 | 2024-04-19 |
+| [I\. I\. Know Me](https://open.spotify.com/track/0vB9kOqmrTzT8grUQPmXWZ) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Collector](https://open.spotify.com/album/57c4boNwQniM54V9Zv7zhh) | 3:38 | 2025-10-10 |  |
 | [ICY](https://open.spotify.com/track/2vdkN2NSQ5mxqNGg7sJUxs) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ICY](https://open.spotify.com/album/5Xb03XAF2LoaMqbM38H9eB) | 3:11 | 2022-07-22 | 2024-04-19 |
 | [ICY](https://open.spotify.com/track/7zFBtYAVURF3bUVqEQ6UUu) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ICY](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) | 3:11 | 2022-04-20 |  |
 | [ICY \- English Ver.](https://open.spotify.com/track/0H76idYK173LwctmFntEdz) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy \(English Ver.\)](https://open.spotify.com/album/0hoNwSKuuOeT9eAxopgMdm) | 3:11 | 2022-07-22 | 2024-04-19 |
@@ -88,6 +92,7 @@
 | [iD](https://open.spotify.com/track/2GUikd8cj7qDBzkDzUMd8N) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/0aqu2V5ohKHVfWqVFE7Ila) | 3:26 | 2022-04-20 |  |
 | [iD](https://open.spotify.com/track/6jfwYW9fmEAbbRxx42F5Kw) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) | 3:26 | 2022-07-22 | 2024-04-19 |
 | [Imaginary Friend](https://open.spotify.com/track/06BeeZaS4YArThfTMu80QS) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s) | 3:22 | 2024-10-15 |  |
+| [Imaginary Friend \- Japanese ver.](https://open.spotify.com/track/2ZSwCGDw10JXBh5jSAXtIs) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Collector](https://open.spotify.com/album/57c4boNwQniM54V9Zv7zhh) | 3:24 | 2025-10-10 |  |
 | [In the morning](https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 2:52 | 2022-04-20 |  |
 | [In the morning](https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) | 2:52 | 2022-07-22 | 2024-04-19 |
 | [In the morning \- Japanese ver.](https://open.spotify.com/track/1wcd1uC0CCZnMv2q8DqVgB) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ITZY \(Japanese ver.\)](https://open.spotify.com/album/1VvOaePbpheLTFGUlOb2yE) | 2:52 | 2022-04-20 |  |
@@ -117,6 +122,7 @@
 | [Mr\. Vampire](https://open.spotify.com/track/4mlMihXnpCz6d05rI5hQV0) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/5ivYXhv1TJHN4xik0kKvlC) | 2:50 | 2024-01-08 |  |
 | [Mr\. Vampire \(Final Ver.\)](https://open.spotify.com/track/7JCqPcuh7mD6DSvRhK1UGC) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/4CRfobFgSG0GOzplgTI79s) | 2:50 | 2024-10-15 |  |
 | [No Biggie](https://open.spotify.com/track/3o4FOm8UEvjbTignWbKxYr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [No Biggie](https://open.spotify.com/album/1urYBW5vhEnfX0zzdKvpoX) | 3:01 | 2024-05-02 |  |
+| [No Biggie \- Final Ver.](https://open.spotify.com/track/1VXn6RgQNxrBCdI30cAc0j) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Collector](https://open.spotify.com/album/57c4boNwQniM54V9Zv7zhh) | 3:00 | 2025-10-10 |  |
 | [NOBODY LIKE YOU](https://open.spotify.com/track/4YUqGDMd1yJAa5i2ShysI6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:17 | 2022-07-22 | 2024-04-19 |
 | [NOBODY LIKE YOU](https://open.spotify.com/track/7JSaztudhBzfGiudI1QMJl) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [It'z Me](https://open.spotify.com/album/2gertXS08whDTzBWfmewPO) | 3:17 | 2022-04-20 |  |
 | [None of My Business](https://open.spotify.com/track/4vfQRnIqR3GTERQGDS0pwZ) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [KILL MY DOUBT](https://open.spotify.com/album/1q8taEnX2IOwf5PaTjXdN1) | 3:22 | 2024-01-08 |  |
@@ -127,6 +133,7 @@
 | [Not Shy \- English Ver.](https://open.spotify.com/track/7tEE2ICgZzdrCblRl7eLdV) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy \(English Ver.\)](https://open.spotify.com/album/3cNffd0CRxT7nxYuq7PHfL) | 2:57 | 2022-04-20 |  |
 | [Not Shy \- Japanese ver.](https://open.spotify.com/track/0odXyiHUGaXGewarou0KV6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ITZY \(Japanese ver.\)](https://open.spotify.com/album/1VvOaePbpheLTFGUlOb2yE) | 2:57 | 2022-04-20 |  |
 | [One Hundred Love](https://open.spotify.com/track/4tyvvXI34H0YILQctQr0N6) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [Romantic Doctor 3 OST Part.5](https://open.spotify.com/album/3tbF7tfZeQa9WnXmpclfiF) | 3:56 | 2023-05-28 |  |
+| [Out of season](https://open.spotify.com/track/2122bKUfRdsUUsEM9jOD9Y) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Collector](https://open.spotify.com/album/57c4boNwQniM54V9Zv7zhh) | 2:15 | 2025-10-10 |  |
 | [Playlist](https://open.spotify.com/track/0fDeofONl8z64x8zlrLgWR) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [RINGO](https://open.spotify.com/album/1kRAzoCTDLqwU6nX2I2Nmc) | 3:44 | 2023-10-17 |  |
 | [Promise](https://open.spotify.com/track/2EXtDGBkytLHRzAGYQp8uc) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls](https://open.spotify.com/album/0bVAPVpPL25nIfko4O1G4J) | 3:44 | 2025-06-14 |  |
 | [Psychic Lover](https://open.spotify.com/track/4OrXIOLFXH5emUmvNpwCTe) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [KILL MY DOUBT](https://open.spotify.com/album/1q8taEnX2IOwf5PaTjXdN1) | 2:44 | 2024-01-08 |  |
@@ -134,6 +141,7 @@
 | [RACER](https://open.spotify.com/track/5v15IF9D4nKZbto4US7Ar1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 3:12 | 2022-07-22 | 2024-04-19 |
 | [RACER](https://open.spotify.com/track/7cY0T2qBQU9gKKD47lqpI0) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 3:12 | 2022-07-15 |  |
 | [RINGO](https://open.spotify.com/track/2qWIeuIxVJglnWWsDpyhfU) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [RINGO](https://open.spotify.com/album/3aT91hpILeuYJe37TnaGxz) | 3:29 | 2023-09-28 |  |
+| [ROCK & ROLL](https://open.spotify.com/track/1GLaxuQ5M92J2rxQFO541O) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Collector](https://open.spotify.com/album/57c4boNwQniM54V9Zv7zhh) | 3:05 | 2025-10-10 |  |
 | [Run Away \(RYUJIN\)](https://open.spotify.com/track/3L2HIhM57W8TZC44kV5dAC) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/5ivYXhv1TJHN4xik0kKvlC) | 3:36 | 2024-01-08 |  |
 | [Run Away \(RYUJIN\)](https://open.spotify.com/track/4e94KIas5maH8RixY26LiN) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) | 3:36 | 2024-01-08 | 2024-04-19 |
 | [SHOOT!](https://open.spotify.com/track/11RRkvXd7FvwxLWvtuBIR1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 2:19 | 2022-04-20 |  |
@@ -166,6 +174,7 @@
 | [Think about you](https://open.spotify.com/track/4og3b64aWTdgVk1ILheWxG) | [YEJI](https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m) | [Love Your Enemy OST Part 3](https://open.spotify.com/album/0PHVTVnoPMOdTmKUVog8hB) | 3:09 | 2024-12-05 |  |
 | [TING TING TING \(with Oliver Heldens\)](https://open.spotify.com/track/4RNqQdwEk03s14HLRXJ9aD) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:39 | 2022-07-22 | 2024-04-19 |
 | [TING TING TING \(with Oliver Heldens\)](https://open.spotify.com/track/7ADlvg3uIjCvItqeJPgDbu) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [It'z Me](https://open.spotify.com/album/2gertXS08whDTzBWfmewPO) | 3:39 | 2022-04-20 |  |
+| [Trigger](https://open.spotify.com/track/3tQ8l7BvZK3w2OQILkng3e) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Collector](https://open.spotify.com/album/57c4boNwQniM54V9Zv7zhh) | 3:03 | 2025-10-10 |  |
 | [Trust Me \(MIDZY\)](https://open.spotify.com/track/1NXZyqdvqt6pXe9XPaOfp1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Trust Me \(MIDZY\)](https://open.spotify.com/album/4zs9WBFiKWmvRM7s1XNcdb) | 3:41 | 2022-04-20 |  |
 | [Trust Me \(MIDZY\)](https://open.spotify.com/track/4ckfsMiX0wBKwaxIJCXxsJ) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Trust Me \(MIDZY\)](https://open.spotify.com/album/7EHXDcznIDHxNWTSPBf9Po) | 3:41 | 2022-07-22 | 2024-04-19 |
 | [Trust Me \(MIDZY\) \- Japanese ver.](https://open.spotify.com/track/0wVLk4dLdgNwrIy1yhghFy) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Trust Me \(MIDZY\) \[Japanese ver.\]](https://open.spotify.com/album/60NlQsbRpTiScK1lrslOUf) | 3:41 | 2023-08-30 |  |
@@ -190,6 +199,7 @@
 | [Why Not](https://open.spotify.com/track/415dzQamP5pJ8dMfNVfUHL) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [The Fiery Priest 2 \(Original Soundtrack\) Part.3](https://open.spotify.com/album/7D0gQELLdvfMjodh6xNUA8) | 2:58 | 2024-12-05 |  |
 | [Wild Wild West](https://open.spotify.com/track/3mRcVmaJlodmb7eensMMfZ) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) | 3:23 | 2022-07-22 | 2024-04-19 |
 | [Wild Wild West](https://open.spotify.com/track/6oN3gPWl6ULGgq8EkslcBk) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 3:23 | 2022-04-20 |  |
+| [Wind Ride](https://open.spotify.com/track/46Mzt7BTfI8ptSNLaxBVA0) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Collector](https://open.spotify.com/album/57c4boNwQniM54V9Zv7zhh) | 3:08 | 2025-10-10 |  |
 | [Yet, but \(YUNA\)](https://open.spotify.com/track/4GHHnfAZlbftjqy4YB69J3) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/5ivYXhv1TJHN4xik0kKvlC) | 3:25 | 2024-01-08 |  |
 | [Yet, but \(YUNA\)](https://open.spotify.com/track/5xvvYrp0VcaigWP088jybs) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) | 3:25 | 2024-01-08 | 2024-04-19 |
 | [YOU MAKE ME](https://open.spotify.com/track/3ehpqyAGlcbI6Qx2bbawcx) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:03 | 2022-07-22 | 2024-04-19 |

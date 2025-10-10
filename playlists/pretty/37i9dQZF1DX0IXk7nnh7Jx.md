@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Listen to the best songs from faith\-based indie artists\.  Cover: <br/>Allie Paige
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,033 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,063 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 19 | [Heaven Closes Doors \(reimagined\)](https://open.spotify.com/track/5dJHRM6Z8shJn5y59KM8ND) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp), [Jude Moses](https://open.spotify.com/artist/0ZucOY9iAgayOMRZwSDJSO) | [Heaven Closes Doors \(reimagined\)](https://open.spotify.com/album/2ZEEgDddhG0ET7yhjriWFb) | 5:15 |
 | 20 | [Living A Lie](https://open.spotify.com/track/1fxFu9KMbb30G5Csk01BJj) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Living A Lie](https://open.spotify.com/album/3evZXh7wgiDKqPVWkc0i6Z) | 2:49 |
 | 21 | [a life worth dying](https://open.spotify.com/track/09XxXlkOkp2qeoLE3WGcsg) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [a life worth dying](https://open.spotify.com/album/1ifRzw8js2oaWhv9cztJGC) | 2:50 |
-| 22 | [Come Away With Me](https://open.spotify.com/track/3EsvvYsnh71pHvMa8inqI4) | [Haynza](https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb) | [Come Away With Me](https://open.spotify.com/album/0zhjF3Y2qZfKlxPJaDH1Vy) | 2:39 |
+| 22 | [Come Away With Me](https://open.spotify.com/track/3EsvvYsnh71pHvMa8inqI4) | [Haynes](https://open.spotify.com/artist/5wviMB3bsPYI9TThkfK64v) | [Come Away With Me](https://open.spotify.com/album/0zhjF3Y2qZfKlxPJaDH1Vy) | 2:39 |
 | 23 | [Permanent](https://open.spotify.com/track/7dvcjzfLn2cbWHDOlbboE9) | [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h) | [Permanent](https://open.spotify.com/album/3VxE9Fnyyk256pE25Q2z6r) | 3:50 |
 | 24 | [Killed To Call](https://open.spotify.com/track/7hIrOPeuExKcNOoilrX7iU) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Killed To Call](https://open.spotify.com/album/0z0VPKHNpk2GdLcRICu6Zq) | 2:40 |
 | 25 | [Where Does The Time Go?](https://open.spotify.com/track/0eSITaFDrUyyjjcQ2KmqWh) | [In Paradise](https://open.spotify.com/artist/4ALawqTfUuUWNCPMoKKuxz) | [Where Does The Time Go?](https://open.spotify.com/album/14zApU2EukATvPBxueufXN) | 3:38 |

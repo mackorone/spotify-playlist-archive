@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7unGnF3WQD3.md) - [plain]
 
 > toda mi gente tirando emotes ❤️😈 Cahiruki en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,721 likes - 115 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,787 likes - 115 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

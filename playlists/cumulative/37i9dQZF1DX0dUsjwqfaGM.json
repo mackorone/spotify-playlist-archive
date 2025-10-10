@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Th\u1ebf h\u1ec7 ngh\u1ec7 s\u0129 m\u1edbi. \u1ea2nh b\u00eca: \u00c1nh S\u00e1ng AZA",
+  "description": "Th\u1ebf h\u1ec7 ngh\u1ec7 s\u0129 m\u1edbi. \u1ea2nh b\u00eca: GUrbane",
   "name": "RADAR Vietnam",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 193949,
       "name": "7711(b\u1ea3y b\u1ea3y m\u1ed9t m\u1ed9t) - Acoustic",
       "url": "https://open.spotify.com/track/6BqI12kwPo7f1D6hHFq9Mc"
+    },
+    {
+      "album": {
+        "name": "re:imaGined (\u201cGB\u201d deluxe version)",
+        "url": "https://open.spotify.com/album/78ugKiEPOPq1taDCRjT8p3"
+      },
+      "artists": [
+        {
+          "name": "GUrbane",
+          "url": "https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227198,
+      "name": "ain\u2019t fit",
+      "url": "https://open.spotify.com/track/7E9lsvLE80mutKRyztR1ie"
     },
     {
       "album": {
@@ -2606,7 +2624,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 185659,
       "name": "ON MY WAY",
       "url": "https://open.spotify.com/track/0NKYhzHVkjRXipH1hFC5xT"

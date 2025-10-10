@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-416 songs - 22 hr 49 min
+417 songs - 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Dodged A Bullet](https://open.spotify.com/track/4RQ5rPSO5B0PDoV4hrz7Cw) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Dodged A Bullet](https://open.spotify.com/album/6kLLJQFrfLqvl71WdqQLz9) | 2:38 | 2025-07-10 |  |
 | [Doin' Time](https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:22 | 2023-11-30 | 2024-03-08 |
 | [Don't Let Me Down \(feat\. JVKE\)](https://open.spotify.com/track/046QZ0ociluzd0yjpY1tY4) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Don't Let Me Down \(feat\. JVKE\)](https://open.spotify.com/album/2m3RAFfpFPttHJIMBZKKCo) | 2:48 | 2024-02-29 | 2024-05-10 |
+| [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9) | 3:38 | 2025-10-09 |  |
 | [Don't Worry About Me \- Juveniles rework](https://open.spotify.com/track/4Yr4m1mWXgufM27ABA9QND) | [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3), [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [I am II](https://open.spotify.com/album/5HMwumvj1kXuCX2640QPZr) | 3:02 | 2023-12-08 | 2024-03-22 |
 | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/album/4VMu7bXjIkQngtN1D5kAsw) | 3:10 | 2023-10-26 | 2024-02-09 |
 | [Down the Line](https://open.spotify.com/track/0CCa34HlzzqL4IbV4G7uTl) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Down the Line](https://open.spotify.com/album/2aUQUtNhw2UQjnPhI07eFS) | 3:13 | 2024-05-23 | 2024-09-06 |
@@ -295,7 +296,7 @@
 | [Passion](https://open.spotify.com/track/6DD3DloL8AvZCI64707q5F) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Passion](https://open.spotify.com/album/49Lan6ZyZ9eqn7e9NV5hxK) | 3:07 | 2025-05-15 | 2025-10-03 |
 | [Payback](https://open.spotify.com/track/07q1dePaFwOwlx1QSqpWZu) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Payback b/w Into The Blue](https://open.spotify.com/album/64x5zlmwoaVBxV7hd5jPOA) | 3:03 | 2024-04-11 | 2024-09-13 |
 | [Play Your Guitar](https://open.spotify.com/track/4w3s8HCS6iI4do1ZyxSUJw) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Play Your Guitar](https://open.spotify.com/album/6ktPisEaopy3An6d4toBkA) | 3:28 | 2025-06-19 | 2025-09-12 |
-| [Please Don‘t Feed the Lions](https://open.spotify.com/track/0hUFW01KmgWe4IqYcNcga8) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [Please Don‘t Feed the Lions](https://open.spotify.com/album/4u6vUXnCBWaETCfba4FZCX) | 3:55 | 2025-05-29 |  |
+| [Please Don‘t Feed the Lions](https://open.spotify.com/track/0hUFW01KmgWe4IqYcNcga8) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [Please Don‘t Feed the Lions](https://open.spotify.com/album/4u6vUXnCBWaETCfba4FZCX) | 3:55 | 2025-05-29 | 2025-10-10 |
 | [PLUS FORT](https://open.spotify.com/track/3rBnK1aNhpg4j3HKkVrcbq) | [Julien Granel](https://open.spotify.com/artist/3VvDMiseFeokUqlLPXMh45) | [COOLEUR](https://open.spotify.com/album/4ssdeY6r0pe2Wd2RHWbED8) | 3:05 | 2024-02-15 | 2024-04-12 |
 | [POETRY IN MOTION](https://open.spotify.com/track/6vZRq9JIOGTl3b9dmEgeZV) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [HEAVY](https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX) | 3:11 | 2024-06-27 | 2024-11-08 |
 | [Pon Pón](https://open.spotify.com/track/4B3X07DwS1HoviCmfkEKzC) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Pon Pón](https://open.spotify.com/album/6TNu9Fm6dr3ReP1omRRaZl) | 2:58 | 2024-03-21 | 2024-07-05 |

@@ -1,13 +1,153 @@
 {
   "description": "it's a vibe (\u25e1 \u203f \u25e1 \u273f).",
-  "num_followers": 230604,
+  "num_followers": 230589,
   "original_name": "indie pop & chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMU2kxxZH9oVesMyfIEI8Gel0AvW",
+  "snapshot_id": "AAAAAPABZppqnxEzLrKmgSueAyMviFmv",
   "tracks": [
+    {
+      "added_at": "2025-10-09 21:16:38",
+      "album": {
+        "name": "Stay Here Where It's Warm",
+        "url": "https://open.spotify.com/album/2025iFS7ufF84zxWA5Dqd6"
+      },
+      "artists": [
+        {
+          "name": "Babygirl",
+          "url": "https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T"
+        }
+      ],
+      "duration_ms": 244809,
+      "name": "Dancing With Her",
+      "url": "https://open.spotify.com/track/4aCxMYOlcYMxdK8ICB29DN"
+    },
+    {
+      "added_at": "2025-10-09 21:16:38",
+      "album": {
+        "name": "Trist\u00e1n, Ahora Con Reloj",
+        "url": "https://open.spotify.com/album/7oDxt14IyAbiLAxlCMLHEe"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 173200,
+      "name": "Ver\u00f3nica",
+      "url": "https://open.spotify.com/track/3ppKzJJeiveJtB03kuk43D"
+    },
+    {
+      "added_at": "2025-10-09 21:16:38",
+      "album": {
+        "name": "CAT SONG",
+        "url": "https://open.spotify.com/album/0Ow0gAfure6Dx90DAnahyw"
+      },
+      "artists": [
+        {
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+        }
+      ],
+      "duration_ms": 154880,
+      "name": "CAT SONG",
+      "url": "https://open.spotify.com/track/6BFtLI7TdNGS9W3oVlXjKi"
+    },
+    {
+      "added_at": "2025-10-09 21:16:38",
+      "album": {
+        "name": "Tie you down",
+        "url": "https://open.spotify.com/album/1I791510xrKrTghdNBHfgm"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 176826,
+      "name": "Tie you down",
+      "url": "https://open.spotify.com/track/0S2c7Zxd1NyUewjQyW187L"
+    },
+    {
+      "added_at": "2025-10-10 00:01:12",
+      "album": {
+        "name": "Buttons",
+        "url": "https://open.spotify.com/album/7ijx3S8K0hnfLcoN9oAUtc"
+      },
+      "artists": [
+        {
+          "name": "Molly Annelle",
+          "url": "https://open.spotify.com/artist/3mgxzlrTPRjDZ5qn93i5vz"
+        }
+      ],
+      "duration_ms": 198426,
+      "name": "Buttons",
+      "url": "https://open.spotify.com/track/5bDnCLzLMaJ7mUBVPBmVIG"
+    },
+    {
+      "added_at": "2025-10-09 21:16:38",
+      "album": {
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/1WEnvdNxVjDqorcoBBOIdt"
+      },
+      "artists": [
+        {
+          "name": "Laura Lucas",
+          "url": "https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc"
+        }
+      ],
+      "duration_ms": 201560,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/5sUWvTviBP5hxYeRmEnSog"
+    },
+    {
+      "added_at": "2025-10-09 21:16:38",
+      "album": {
+        "name": "Reunite",
+        "url": "https://open.spotify.com/album/60BRAvQVlseoSpphGSoZEB"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        }
+      ],
+      "duration_ms": 236026,
+      "name": "Reunite",
+      "url": "https://open.spotify.com/track/6tiW6fIVp2NaniQURK3n1Q"
+    },
+    {
+      "added_at": "2025-09-26 00:01:27",
+      "album": {
+        "name": "Uh Oh",
+        "url": "https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
+        {
+          "name": "Sea Oleena",
+          "url": "https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP"
+        }
+      ],
+      "duration_ms": 228613,
+      "name": "Uh Oh",
+      "url": "https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK"
+    },
     {
       "added_at": "2025-10-03 00:01:12",
       "album": {
@@ -23,6 +163,38 @@
       "duration_ms": 183973,
       "name": "cohete",
       "url": "https://open.spotify.com/track/5SD3IKqIJA2EW14JCTamPE"
+    },
+    {
+      "added_at": "2025-09-19 17:44:46",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6baBfgccJbY8W2r5dwOWDZ"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 197703,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3"
+    },
+    {
+      "added_at": "2025-10-09 21:16:38",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/0chm6CSqdRLGe5vIlJSHlU"
+      },
+      "artists": [
+        {
+          "name": "Laraw",
+          "url": "https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1"
+        }
+      ],
+      "duration_ms": 157573,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/4x6GQgDNiK3HnBF9Y06zT8"
     },
     {
       "added_at": "2025-10-03 00:01:12",
@@ -59,6 +231,22 @@
     {
       "added_at": "2025-09-19 17:44:46",
       "album": {
+        "name": "Rainbow Gal",
+        "url": "https://open.spotify.com/album/32MEZOAewxpH43adsG0yGS"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 142333,
+      "name": "Rainbow Gal",
+      "url": "https://open.spotify.com/track/7FZxZL2arm9wNi5G8owCgo"
+    },
+    {
+      "added_at": "2025-09-19 17:44:46",
+      "album": {
         "name": "Take A Drive",
         "url": "https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a"
       },
@@ -87,6 +275,22 @@
       "duration_ms": 174520,
       "name": "preaching to the choir",
       "url": "https://open.spotify.com/track/0RDZBIbznmPxiK8SNbZxug"
+    },
+    {
+      "added_at": "2025-09-19 17:44:46",
+      "album": {
+        "name": "Essex Honey",
+        "url": "https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 262333,
+      "name": "Vivid Light",
+      "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
     },
     {
       "added_at": "2025-10-03 00:01:12",
@@ -135,26 +339,6 @@
       "duration_ms": 129608,
       "name": "break stuff",
       "url": "https://open.spotify.com/track/63MUFWOgT865K4LaNNmqys"
-    },
-    {
-      "added_at": "2025-09-26 00:01:27",
-      "album": {
-        "name": "Uh Oh",
-        "url": "https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        },
-        {
-          "name": "Sea Oleena",
-          "url": "https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP"
-        }
-      ],
-      "duration_ms": 228613,
-      "name": "Uh Oh",
-      "url": "https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK"
     },
     {
       "added_at": "2025-09-19 17:44:46",
@@ -211,22 +395,6 @@
     {
       "added_at": "2025-09-19 17:44:46",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/6baBfgccJbY8W2r5dwOWDZ"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 197703,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
         "name": "Cat's Cradle (Spanish Version)",
         "url": "https://open.spotify.com/album/6U5ADCkecn9TAe5Y9tfmum"
       },
@@ -243,22 +411,6 @@
       "duration_ms": 230535,
       "name": "Cat's Cradle - Spanish Version",
       "url": "https://open.spotify.com/track/7FprIbwrHFDESevTUjb5uL"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "Rainbow Gal",
-        "url": "https://open.spotify.com/album/32MEZOAewxpH43adsG0yGS"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 142333,
-      "name": "Rainbow Gal",
-      "url": "https://open.spotify.com/track/7FZxZL2arm9wNi5G8owCgo"
     },
     {
       "added_at": "2025-09-19 17:44:46",
@@ -323,22 +475,6 @@
       "duration_ms": 268735,
       "name": "All Seven Seasons",
       "url": "https://open.spotify.com/track/6wLgm4hQHsmWbI5MhBa7W2"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "Essex Honey",
-        "url": "https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 262333,
-      "name": "Vivid Light",
-      "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
     },
     {
       "added_at": "2025-09-19 17:44:46",
@@ -1347,22 +1483,6 @@
     {
       "added_at": "2025-09-19 17:44:46",
       "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/4IQcPaShC0RkEghzFd46aQ"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 284080,
-      "name": "Pink Elephant",
-      "url": "https://open.spotify.com/track/6ujSWkV1lM2YEgJkBIb4VB"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
         "name": "Star People",
         "url": "https://open.spotify.com/album/42MsLv5bRCtL7fnZuilczx"
       },
@@ -1523,134 +1643,6 @@
       "duration_ms": 204651,
       "name": "Husk",
       "url": "https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/3LqoZQyA47i5Uds9QYkYBW"
-      },
-      "artists": [
-        {
-          "name": "Say Lou Lou",
-          "url": "https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj"
-        }
-      ],
-      "duration_ms": 250293,
-      "name": "Blue Ruin",
-      "url": "https://open.spotify.com/track/2drUJuTGdbYofkSkPHjefC"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "MAYBE (5 Year Anniversary Edition)",
-        "url": "https://open.spotify.com/album/00xS2v4q9DUBBLlslZX6pG"
-      },
-      "artists": [
-        {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "hudson - demo",
-      "url": "https://open.spotify.com/track/3fLSTZwKza9Wjb3wzj7K2u"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "Cats on the Ceiling",
-        "url": "https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 213080,
-      "name": "Cats on the Ceiling",
-      "url": "https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "Verbathim",
-        "url": "https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N"
-      },
-      "artists": [
-        {
-          "name": "Nemahsis",
-          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "delusion",
-      "url": "https://open.spotify.com/track/4gSi5iErqKf4tL1qclmXnp"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "No Way To Relax When You Are On Fire",
-        "url": "https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 242240,
-      "name": "No Way To Relax When You Are On Fire",
-      "url": "https://open.spotify.com/track/5HSlL9XmvYOVDynR2E13vc"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "Panic!",
-        "url": "https://open.spotify.com/album/3ggN3FVPLnBfAKRxj6wXFQ"
-      },
-      "artists": [
-        {
-          "name": "Thomas Headon",
-          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
-        }
-      ],
-      "duration_ms": 165833,
-      "name": "Panic!",
-      "url": "https://open.spotify.com/track/6DV5XP3UNJom7XLrL0fPYA"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "Sad Boiii",
-        "url": "https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 166026,
-      "name": "Sad Boiii",
-      "url": "https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay"
-    },
-    {
-      "added_at": "2025-09-19 17:44:46",
-      "album": {
-        "name": "green light",
-        "url": "https://open.spotify.com/album/6B4obGwSQ7cPstogpuNs2M"
-      },
-      "artists": [
-        {
-          "name": "Ivytide",
-          "url": "https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp"
-        }
-      ],
-      "duration_ms": 182148,
-      "name": "green light",
-      "url": "https://open.spotify.com/track/0ctnLcTOOK4yDNxAq48pZQ"
     },
     {
       "added_at": "2025-09-19 17:44:46",

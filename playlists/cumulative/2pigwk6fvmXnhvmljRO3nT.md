@@ -4,7 +4,7 @@
 
 > 
 
-7,807 songs - 20 day 3 hr 41 min
+7,815 songs - 20 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -639,6 +639,7 @@
 | [Bean \(Kobe\) \[feat\. Chief Keef\]](https://open.spotify.com/track/0IpnZchq8ek2A6pGEP2Qb1) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Eternal Atake \(Deluxe\) \- LUV vs\. The World 2](https://open.spotify.com/album/0fEO7g2c5onkaXsybEtuD2) | 3:58 | 2025-01-03 |  |
 | [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 | 2024-12-14 |  |
 | [Beast Of Burden \- Remastered 1994](https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:25 | 2025-01-15 |  |
+| [Beat Eater](https://open.spotify.com/track/1sSKd9R1Zn6q47wqq36jMo) | [白石杏](https://open.spotify.com/artist/5oXXCRHHBgr8JbziVHev34) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク　アナザーボーカルアルバム Vivid BAD SQUAD](https://open.spotify.com/album/48MQNNlnAKmE9wXxaEuGpz) | 3:35 | 2025-10-09 |  |
 | [Beat It](https://open.spotify.com/track/7lsepdNR69a3PS9pWMNICd) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:38 | 2025-01-03 |  |
 | [Beat It](https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:18 | 2025-01-04 |  |
 | [Beat laments the world](https://open.spotify.com/track/5tO3pr49SdxO05TNlYHfHT) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Metaphorical Music](https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637) | 4:23 | 2025-01-19 |  |
@@ -5140,6 +5141,7 @@
 | [SET IT \(with Maxo Kream\)](https://open.spotify.com/track/7xS0Nxx4DWt9osVQHPQYY9) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [KING OF THE MISCHIEVOUS SOUTH](https://open.spotify.com/album/1OUX2HxH2tyqyHMALnYbnG) | 2:40 | 2025-01-03 |  |
 | [Seulpun honjatmal](https://open.spotify.com/track/0JRVGUATX7IKaKVwsgExmj) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Gugip: C.J.2002](https://open.spotify.com/album/706OvChSHJpCoIeyfpZQEs) | 4:20 | 2025-01-03 |  |
 | [Seven](https://open.spotify.com/track/5QvditjxADt1HMKPgaMjJm) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Seven](https://open.spotify.com/album/68IwzjI0zUeudLKdFYDcjS) | 3:45 | 2025-01-04 |  |
+| [Seven Deadly Sins](https://open.spotify.com/track/2s2fORtcrwKwsmC4jNc8mJ) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [The World's On Fire](https://open.spotify.com/album/3YrPHd8CGlPBfLG4FgmQVy) | 3:27 | 2025-10-09 |  |
 | [Seven Deadly Sins](https://open.spotify.com/track/4lBEQzrXXEBugkN8bfmPPJ) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [MAN WITH A "BEST" MISSION \(Deluxe Edition\)](https://open.spotify.com/album/78TbBReqpkQkaDfzY6D4F2) | 3:27 | 2025-01-04 |  |
 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 | 2025-01-15 |  |
 | [Sex Sounds](https://open.spotify.com/track/5JtvedSVWW9McnoEAPJwQm) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [True 2 Myself](https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY) | 2:42 | 2025-06-30 |  |
@@ -6947,6 +6949,7 @@
 | [よるのあと](https://open.spotify.com/track/0Ww9CZicnZs8gscWdMiE7p) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [adieu 1](https://open.spotify.com/album/0dszU2aJFWMMFrslTyhZkt) | 4:51 | 2024-12-05 |  |
 | [りんどう](https://open.spotify.com/track/3jAjSQXOTgQDHjRtlvW6P6) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [COMINATCHA!!](https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au) | 5:29 | 2025-05-17 |  |
 | [わがまま](https://open.spotify.com/track/6TdiF8DD5f2qG5FXPtBtzb) | [Alisa Takigawa](https://open.spotify.com/artist/6fvp9HPqOxcYd7PgyKPF4e) | [わがまま](https://open.spotify.com/album/16ivtjLpi5B7ma2f2YFH8m) | 4:46 | 2024-12-05 |  |
+| [アイディスマイル](https://open.spotify.com/track/64dIdYlNQCtWBsLByMFlhS) | [宵崎奏](https://open.spotify.com/artist/1PbOXi3QIPB8AxbJ8byCl6) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 3:00 | 2025-10-09 |  |
 | [アイディスマイル](https://open.spotify.com/track/4rVZxaxkNy3kT1ghAYj5QK) | [暁山瑞希](https://open.spotify.com/artist/55KskxVnv2cAWebKf331ug) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 3:00 | 2025-10-03 |  |
 | [アイム・ア・ビリーバー](https://open.spotify.com/track/2gVEP5chQzs7pHEemZpMBO) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:37 | 2025-05-09 |  |
 | [アイラブユー](https://open.spotify.com/track/34ayWAUrQcrjlKZOJAzqke) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ユーモア](https://open.spotify.com/album/4Owee1i5rIFJvQczZXSdiQ) | 3:55 | 2024-12-10 |  |
@@ -7017,6 +7020,7 @@
 | [サンセット・ロード \- Non Stop Mix ver.](https://open.spotify.com/track/6WVZ5igZEry6PwqUIcBCil) | [高橋玲子](https://open.spotify.com/artist/67oQeSa0YBmKuFqBkT2sfl) | [TOKYO 1980s Victor Edition \(The Alternate Mix\) Boogie, Funk & Modern Soul from Japan ～Non Stop Mix ver.～](https://open.spotify.com/album/4f5LTaCprgjc5lJMQxyBiE) | 2:12 | 2025-01-15 |  |
 | [シグナル](https://open.spotify.com/track/4Ybp3UvVXvraRNwOCWnrNq) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 3:39 | 2025-01-15 |  |
 | [シャルル](https://open.spotify.com/track/0g27TBi0PZJ9yk8wmC9vTY) | [暁山瑞希](https://open.spotify.com/artist/55KskxVnv2cAWebKf331ug) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 3:48 | 2025-10-03 |  |
+| [シャルル \(Cover\)](https://open.spotify.com/track/6wZu8lrYzQNsEonjYIEYUb) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [バンドリ！ ガールズバンドパーティ！ カバーコレクションVol.2](https://open.spotify.com/album/6NQ6FPqipSl6bpQ4CuA8bt) | 3:52 | 2025-10-09 |  |
 | [シュガーソングとビターステップ](https://open.spotify.com/track/6bfjEGSR7DyC8MK8cp3ZCp) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [Dr.Izzy](https://open.spotify.com/album/66AWCzSxxBUxLlN5Mw3YdW) | 4:13 | 2025-01-15 |  |
 | [シリアル](https://open.spotify.com/track/1AskGnVNEEKaz9h0DeOFNB) | [phatmans after school](https://open.spotify.com/artist/6mWBO4YhLyCDftF4h3wP91) | [アンクロニクル](https://open.spotify.com/album/7HcnlNnDQH1quC1hdcKt2z) | 4:14 | 2025-01-15 |  |
 | [シルエット](https://open.spotify.com/track/21z1GxeHjfD3qkaF5CgCTO) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [Time](https://open.spotify.com/album/3XfcRL9lvavzkYOkVt9GtD) | 4:00 | 2025-01-03 |  |
@@ -7031,6 +7035,7 @@
 | [スターダム](https://open.spotify.com/track/1SIdLxKYVTWKtRL5LibnJe) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [5](https://open.spotify.com/album/7p6gQGmjsxSu7MzB0KAOUa) | 3:51 | 2025-01-04 |  |
 | [スターマーカー](https://open.spotify.com/track/4AullfDGRGGp4DHyQqIWdG) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [Starmarker](https://open.spotify.com/album/5M8uAVGhleNfs2ST4nFEWv) | 3:33 | 2025-01-03 |  |
 | [スターラブレイション](https://open.spotify.com/track/4FBwqwPrI1ZHSJJW8WYaUZ) | [Kera Kera](https://open.spotify.com/artist/5PVENmQjFWIJJO1dZD5tLZ) | [TOKYO \- DRIVING \-](https://open.spotify.com/album/6Hq7fPKTjq7anX1aYIUV1U) | 4:35 | 2025-01-03 |  |
+| [ステラ](https://open.spotify.com/track/1nOYIPpeFSNiui0KG5QPZA) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [コトバアソビ](https://open.spotify.com/album/6sU4bvWQW9QdldwSqAw35N) | 4:08 | 2025-10-09 |  |
 | [ステラ](https://open.spotify.com/track/16pxoqmt9xvRnBHWY3vxL3) | [日野森志歩](https://open.spotify.com/artist/2WnmLDD0X7ZtJYQfFZegDO) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク　アナザーボーカルアルバム　Leo/need](https://open.spotify.com/album/7xlXLAD6g3OD5bX1hpk7xa) | 5:23 | 2025-10-03 |  |
 | [ステラ](https://open.spotify.com/track/77swARgWXkGj95oxMAnjpd) | [望月穂波](https://open.spotify.com/artist/5TOg7aT1nRI9wV8fHMGD0Y) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク　アナザーボーカルアルバム　Leo/need](https://open.spotify.com/album/7xlXLAD6g3OD5bX1hpk7xa) | 5:23 | 2025-10-03 |  |
 | [スパークル](https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [スパークル](https://open.spotify.com/album/0HmvMEiGowPfT2UvYNRDcv) | 3:33 | 2025-01-03 |  |
@@ -7040,6 +7045,7 @@
 | [センチメートル](https://open.spotify.com/track/2zwZPlMKb1vaFcQK6PpMtP) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [The GARDEN](https://open.spotify.com/album/13FIa91YpnboJjrwmKRrG8) | 3:47 | 2025-04-21 |  |
 | [タイガー道場のテーマ\(2012 Version\)](https://open.spotify.com/track/4dMp0msHNy7jxHMDwAiz65) | [hil](https://open.spotify.com/artist/2MbbIrdBoyD0U6tUfqDRKF) | [Fate/stay night \[Realta Nua\] Soundtrack Reproduction](https://open.spotify.com/album/5EfoCdBxPfGkXwmnMiZ3Xf) | 2:40 | 2025-08-10 |  |
 | [タイム・リミット](https://open.spotify.com/track/0MaM0yE9EdQEJwDfs6EAZ9) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [CASIOPEA](https://open.spotify.com/album/3uFgYgCEvCSACjB8XHl3hb) | 3:07 | 2024-12-14 |  |
+| [ダンスホール](https://open.spotify.com/track/4QIKSlDV5YIjr0kqT1Ad32) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [10](https://open.spotify.com/album/78aZx49bna8qXzsWReeL3o) | 3:18 | 2025-10-09 |  |
 | [チェリボム](https://open.spotify.com/track/5KhTHcY2WuCHy21jhxTFAP) | [SILENT SIREN](https://open.spotify.com/artist/11FVEsg4m3QWzNfaK7vykQ) | [Silent Siren Selection](https://open.spotify.com/album/5VguY79HKEmjk7vllN0li5) | 4:05 | 2025-10-02 |  |
 | [チューリップ](https://open.spotify.com/track/1X8frTk9CAPyDiJOOwMo2z) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [チューリップ](https://open.spotify.com/album/2WuejptJWtRfdd0rGeBeeV) | 4:35 | 2025-01-03 |  |
 | [チューリップ](https://open.spotify.com/track/3I4ZGHj2H3Vl99i4biNCz0) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [夜行秘密](https://open.spotify.com/album/2d9hEC8Sv1GG9AxQf4cGdp) | 4:35 | 2025-01-03 |  |
@@ -7115,6 +7121,7 @@
 | [ヤングアダルト](https://open.spotify.com/track/3IanNVIcOMlKFr329uhNcA) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [hope](https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF) | 4:18 | 2025-01-04 |  |
 | [ユキトキ](https://open.spotify.com/track/1iPHE585l3CwihqF65B45W) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [エウアル](https://open.spotify.com/album/1ilaJwpM43jvCIrm9C3P1N) | 4:28 | 2025-01-15 |  |
 | [ヨワネハキ](https://open.spotify.com/track/0FOVGBW0RpVRuDuUuN4ZVw) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [ヨワネハキ](https://open.spotify.com/album/5cVWpOwex504JeWwqE3Q7y) | 2:46 | 2025-01-04 |  |
+| [ライラック](https://open.spotify.com/track/21VsLvoE7elUmJZLSawaMh) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [10](https://open.spotify.com/album/78aZx49bna8qXzsWReeL3o) | 4:49 | 2025-10-09 |  |
 | [ライラック](https://open.spotify.com/track/3WePQc3e2le4Vmh5W2idln) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [カワキヲアメク](https://open.spotify.com/album/2oN5rPuojBnqH0uQMUMVAl) | 5:02 | 2025-01-15 |  |
 | [ラストシーン](https://open.spotify.com/track/5F7eGxoXwgWk5zpiwMwR92) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [ラストシーン／ぼくらのゆめ](https://open.spotify.com/album/1ySJd8jOt6VntFWX6lBciy) | 6:04 | 2025-01-03 |  |
 | [ラストライブ](https://open.spotify.com/track/7Jy3tDChEXMDXvO223c0VR) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [ラストライブ](https://open.spotify.com/album/1RBl7BPBmZYRiwD5fcuf4Q) | 2:49 | 2025-10-02 |  |
@@ -7316,6 +7323,7 @@
 | [泣き出しそうだよ](https://open.spotify.com/track/4pbmXIJ0PBkmy8j9KxbrI0) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ANTI ANTI GENERATION](https://open.spotify.com/album/0a69ul4zJx8c6ZBy2carWF) | 4:40 | 2025-01-15 |  |
 | [泪のムコウ](https://open.spotify.com/track/4I663Yw4XM2eqFmc1ipws0) | [Stereopony](https://open.spotify.com/artist/35VNJ4BFDvs9XkLf6ghUi6) | [ハイド．ランジアが咲いている](https://open.spotify.com/album/3Ry7whbErdLdXUivzpV6oY) | 3:30 | 2025-01-15 |  |
 | [洗濯機と君とラヂオ](https://open.spotify.com/track/24WOKllIT2yySSqtcTFmMf) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [CHOSYOKU](https://open.spotify.com/album/4oal4axj41REAu9bIHvsXF) | 3:51 | 2025-01-04 |  |
+| [流星のパルス](https://open.spotify.com/track/0uUuI2gw2gPhpBvuPgyGZd) | [日野森志歩](https://open.spotify.com/artist/2WnmLDD0X7ZtJYQfFZegDO) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク　アナザーボーカルアルバム　Leo/need](https://open.spotify.com/album/7xlXLAD6g3OD5bX1hpk7xa) | 4:46 | 2025-10-09 |  |
 | [流星タクシー](https://open.spotify.com/track/6D55PwFK3BmSJySO3CViZZ) | [BELLMAINZ](https://open.spotify.com/artist/4dbOK4V3g2bSvFZvrhcHCm) | [流星タクシー/ケセラセラ](https://open.spotify.com/album/7qcSqEGHdBvi3jXYsfhCZA) | 4:24 | 2024-12-10 |  |
 | [海の幽霊](https://open.spotify.com/track/4se7FxPLJQftnmHCF5qL2B) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [STRAY SHEEP](https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh) | 3:54 | 2025-01-03 |  |
 | [海へ行こーぜ](https://open.spotify.com/track/1YCZdBIf3jM54kOIAcVW1O) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [ペルソナ4 ザ・ゴールデン オリジナル・サウンドトラック](https://open.spotify.com/album/5ONLnFM7dW4eZ7irUTvwhK) | 2:44 | 2025-04-20 |  |

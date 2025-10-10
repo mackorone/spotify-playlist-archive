@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Kane
 
-275 songs - 12 hr 26 min
+277 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [100.000](https://open.spotify.com/track/3ONthFKTmjEkuxN6WCCRsZ) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [100.000](https://open.spotify.com/album/1zK2tmCjG873OQ9UrbKjd1) | 4:03 | 2025-01-16 | 2025-03-25 |
 | [1000 Sterne](https://open.spotify.com/track/1WTWjnCrjwzktuY2UFGUx1) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV), [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [1000 Sterne](https://open.spotify.com/album/6v5nqgBpLAGyIWoL4KRGYc) | 2:03 | 2024-06-28 | 2025-03-25 |
 | [1402](https://open.spotify.com/track/4OcXOTJAYveGoyiLsOOybi) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05), [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [1402](https://open.spotify.com/album/21eTkiqy0EM7LDTSnGGOSK) | 2:15 | 2025-02-27 | 2025-05-01 |
-| [1995](https://open.spotify.com/track/4AdhQGPnOKrH0EJWXc2EEM) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [1995](https://open.spotify.com/album/5BLwflc68gAR6cJG2tU6HK) | 2:46 | 2024-06-28 |  |
+| [1995](https://open.spotify.com/track/4AdhQGPnOKrH0EJWXc2EEM) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [1995](https://open.spotify.com/album/5BLwflc68gAR6cJG2tU6HK) | 2:46 | 2024-06-28 | 2025-10-10 |
 | [2 Meter tiefer](https://open.spotify.com/track/30uhHnDywyLLAgSGPZIOPK) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [2 Meter tiefer](https://open.spotify.com/album/3LST5TzEaiA0qVjiuF71zu) | 3:54 | 2025-03-24 |  |
 | [212 km/h](https://open.spotify.com/track/0snt282zjuoVMG6nBRPJBp) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [212 km/h](https://open.spotify.com/album/31ECHyDrYntbBAfW4uNLoa) | 2:38 | 2025-08-21 | 2025-10-05 |
 | [3 Sekunden \(feat\. Paula Hartmann\)](https://open.spotify.com/track/7fTJOA7DSGp5LNua6OdMIF) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [3 Sekunden \(feat\. Paula Hartmann\)](https://open.spotify.com/album/4o5l3VvshxJMSCuCgOhBpS) | 2:46 | 2024-06-28 |  |
@@ -127,7 +127,7 @@
 | [Irgendwann](https://open.spotify.com/track/5C1kGffiRiHwlXGpwOVq05) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Kareem](https://open.spotify.com/album/3olUThMnC362xCFQm0PoBf) | 2:37 | 2025-07-17 |  |
 | [Irgendwas klopft](https://open.spotify.com/track/4IjCVfzb1JQJ8KKkhXllVl) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Irgendwas klopft](https://open.spotify.com/album/3sFYYuRzNlpUH3Q6ZcZZhD) | 2:06 | 2024-06-28 | 2024-10-25 |
 | [Jasmin](https://open.spotify.com/track/6rjpIgtN4FOujp5DbZZnCh) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Jasmin](https://open.spotify.com/album/7KWdJbywMgQKrRiMq4YCAm) | 2:37 | 2025-02-03 | 2025-07-25 |
-| [Junimond](https://open.spotify.com/track/1VVXleOdSTlRz9jrvPMLYh) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Junimond](https://open.spotify.com/album/5NsPGR69Y7ucREdsdmsrYs) | 2:30 | 2025-06-24 |  |
+| [Junimond](https://open.spotify.com/track/1VVXleOdSTlRz9jrvPMLYh) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Junimond](https://open.spotify.com/album/5NsPGR69Y7ucREdsdmsrYs) | 2:30 | 2025-06-24 | 2025-10-10 |
 | [KAPUTTE NIKES](https://open.spotify.com/track/0PRn0wppJozInSVkjEpK8Z) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [KAPUTTE NIKES](https://open.spotify.com/album/57tkUG6UbznOuHYz4GukL2) | 2:48 | 2024-06-28 | 2024-08-29 |
 | [Kein Auge zu](https://open.spotify.com/track/16J16IGdl3TJrIibIUdM91) | [Paves 16](https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM) | [Kein Auge zu](https://open.spotify.com/album/72B7l6QPzUkbS5vRpks9Mg) | 2:31 | 2025-05-27 | 2025-07-04 |
 | [Keine Helden](https://open.spotify.com/track/3hvT7LmndHeQ8dIPFXe4HU) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG) | [Keine Helden](https://open.spotify.com/album/11AkC0fCpMYZ6Ef4NK0wHK) | 3:05 | 2025-06-09 |  |
@@ -178,6 +178,7 @@
 | [Monoton](https://open.spotify.com/track/6gZEyiqUvEpWpJYz7QjLjx) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Megaloh](https://open.spotify.com/artist/7M6ItqYUMPQRQQ5q54tl7G), [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [BOI](https://open.spotify.com/album/48xBOWLlBupgfhNKkErgDJ) | 3:48 | 2024-06-28 | 2025-08-20 |
 | [Monster](https://open.spotify.com/track/6Cg5DRA6kHhpEYaoNGHwP6) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Monster](https://open.spotify.com/album/1c1qW3rQsXJ8EpM11NMjsb) | 2:35 | 2025-08-28 |  |
 | [Morpheus](https://open.spotify.com/track/33UJjKCtghGywf33vRZl1u) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [König für immer](https://open.spotify.com/album/4Ruh25eyPDaVdu7KyW67hZ) | 3:10 | 2024-06-28 | 2024-07-24 |
+| [Mrs\. Toxic](https://open.spotify.com/track/3uhwFTBCoTO7VyW0NH9u1i) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Mrs\. Toxic](https://open.spotify.com/album/5X9r4CedgRKY71uwTyU1rV) | 2:28 | 2025-10-09 |  |
 | [MÜNCHEN GIRLS](https://open.spotify.com/track/4uOOTNRIs6HElv4gTPCk8t) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [MÜNCHEN GIRLS](https://open.spotify.com/album/2fVsrk8E0lDPlqvVkuVkCV) | 2:51 | 2024-06-28 | 2024-09-10 |
 | [NaNa](https://open.spotify.com/track/6HB7JuxWRjLL3JXI9ECzhK) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [NaNa](https://open.spotify.com/album/2AR0fdXGiGxMN16aPFDW69) | 2:21 | 2024-06-28 | 2025-04-13 |
 | [Narben](https://open.spotify.com/track/2Y0H8oWAJzDpkMIb9sEKTK) | [yAN](https://open.spotify.com/artist/15dImMpI2Fu5LwzhpcLHW9) | [Narben](https://open.spotify.com/album/3WL1zqCZ7ClKg9fjaaNQQo) | 2:38 | 2025-01-20 | 2025-02-28 |
@@ -248,6 +249,7 @@
 | [Unsichtbar](https://open.spotify.com/track/4HgB1ymUqgHI5lPHywMkDw) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Unsichtbar](https://open.spotify.com/album/576kgzwgvfjAO1oeuEekLi) | 2:23 | 2024-10-10 | 2025-09-24 |
 | [Unzertrennlich](https://open.spotify.com/track/3HqtURF3IehghsYbGhKxHQ) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Unzertrennlich](https://open.spotify.com/album/3OIEJzGzG8l1bq0MHcYpvJ) | 2:58 | 2024-11-18 | 2025-03-24 |
 | [Vermissen \(feat\. Henning May\)](https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [Henning May](https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay) | [Bling Bling](https://open.spotify.com/album/7FUJDqWr0PvHJyIJeCsswA) | 2:41 | 2024-06-28 |  |
+| [Verräter](https://open.spotify.com/track/6IrdU8HfMZ63C7nE2hWZuM) | [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Tiki Taka](https://open.spotify.com/album/4Rs7tHSyQNfdQWeUsK2rsU) | 2:33 | 2025-10-09 |  |
 | [Verschwendete Zeit](https://open.spotify.com/track/4Ku2j0poFCLaSAEtncIeLi) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [Verschwendete Zeit](https://open.spotify.com/album/6juFtXw9xa1N6zOsRixGWy) | 2:47 | 2024-06-28 | 2025-10-03 |
 | [verstecken](https://open.spotify.com/track/6LliQsJvqpEBrP1Bhf6HEw) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [verstecken](https://open.spotify.com/album/2PoecB4132E7hBtLC0uBgy) | 2:42 | 2024-06-28 | 2024-11-22 |
 | [Vespa](https://open.spotify.com/track/4cQXzeob93WskDrYumvoqn) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [Vespa](https://open.spotify.com/album/6pUSfO8PGUDlUFWh8SMZJQ) | 2:17 | 2025-05-19 | 2025-06-20 |

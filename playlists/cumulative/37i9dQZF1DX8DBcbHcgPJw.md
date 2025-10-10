@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Bauti Mascia & Amigo de Artistas.
 
-670 songs - 1 day 9 hr 7 min
+671 songs - 1 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,7 +496,7 @@
 | [Rey de Copas](https://open.spotify.com/track/3qLqWz9ox83HTnBnLEAmsS) | [Fer Palacio Records](https://open.spotify.com/artist/4D6KpZSbhJCAeEdnyAXhRr), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [Rey de Copas](https://open.spotify.com/album/2ARvKiDnoUZGuA4MWWwVVR) | 2:32 | 2022-06-10 | 2023-04-11 |
 | [Romantiko](https://open.spotify.com/track/7lVJB2RbpcjiVepmZNmODi) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Romantiko](https://open.spotify.com/album/5KIYECOBzod8OthSA2dEkh) | 3:14 | 2025-05-30 |  |
 | [Rompi](https://open.spotify.com/track/7mukVrTuo5b3SOBWaA8F5P) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3), [Santi y lo que faltaba](https://open.spotify.com/artist/521DJ1K79j3pQ47dfAAtmN) | [Rompi](https://open.spotify.com/album/3rogzlBO7odVe65Vr8fv78) | 3:13 | 2022-01-07 | 2022-06-08 |
-| [Rubia Mala](https://open.spotify.com/track/0662YGn2tP3DWuYbJu9kUV) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Rubia Mala](https://open.spotify.com/album/0zRpbAVfQ3XdRgtESyQGOg) | 2:18 | 2025-07-11 |  |
+| [Rubia Mala](https://open.spotify.com/track/0662YGn2tP3DWuYbJu9kUV) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Rubia Mala](https://open.spotify.com/album/0zRpbAVfQ3XdRgtESyQGOg) | 2:18 | 2025-07-11 | 2025-10-10 |
 | [Runaway \- Remasterizado 2024](https://open.spotify.com/track/7yO6mzmybTQPMXOnI752Z2) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Porque Te Fuiste Amor \(Remasterizado 2024\)](https://open.spotify.com/album/6ULVlrnDPR22eOe8RWBglQ) | 3:33 | 2024-04-12 | 2024-04-19 |
 | [SALE SOLA](https://open.spotify.com/track/2xm4FQMffynQ251pwc0Rcn) | [RAMKY EN LOS CONTROLES](https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [SALE SOLA](https://open.spotify.com/album/5mWt90aqfwx2SoepYXeOuk) | 2:05 | 2024-10-15 |  |
 | [Salgo a Bailar / Lala](https://open.spotify.com/track/3BUD43oudn0r1zvpQdAXtw) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Salgo a Bailar / Lala](https://open.spotify.com/album/1AgtEryAKqlN7gcBMNmhZ0) | 3:08 | 2023-08-11 | 2023-08-26 |
@@ -604,6 +604,7 @@
 | [Tu Favorito](https://open.spotify.com/track/1ybAexrk6lpUW0xqssj9Ph) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Tu Favorito](https://open.spotify.com/album/6Ts25jGXnk9bPswAuUbv0M) | 2:56 | 2025-02-21 | 2025-07-25 |
 | [Tu Flayte](https://open.spotify.com/track/1fEHUX18VdLbA3TeIEZx3q) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf) | [Tu Flayte](https://open.spotify.com/album/4hxcCrHfZSlHAhQbpoMHbX) | 2:54 | 2024-10-25 | 2025-04-12 |
 | [Tu jardín con enanitos](https://open.spotify.com/track/6X8DTIJEgHUjZynuds0E2f) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz), [RAMKY EN LOS CONTROLES](https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd) | [Tu jardín con enanitos](https://open.spotify.com/album/0XpyqlltZS8gGkIrJtSfxk) | 2:55 | 2025-07-04 |  |
+| [Tu Misterioso Alguien](https://open.spotify.com/track/4mw4Wwa7cJbRUIDYuqS5tO) | [Diel Paris](https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA) | [Tu Misterioso Alguien](https://open.spotify.com/album/1faxPY55pVC6HmAi4KXCXh) | 2:06 | 2025-10-10 |  |
 | [Tu Re Amor](https://open.spotify.com/track/5PDBDuocnXPAI2OMr41XzD) | [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi), [Nuke](https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu), [Dj Ronel](https://open.spotify.com/artist/3Gkn3KnremPjj8a1iTl1DT) | [Tu Re Amor](https://open.spotify.com/album/75gkJC5PQXpp8NTWn2nTpR) | 2:02 | 2025-04-11 | 2025-07-05 |
 | [Tu Versión De La Historia](https://open.spotify.com/track/5XBhEFome7Mfb1ovOJu8ez) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Tu Versión De La Historia](https://open.spotify.com/album/7vBIHRSMzLhJhya7Mx9fIg) | 3:00 | 2024-08-23 | 2024-11-21 |
 | [Tu y Yo](https://open.spotify.com/track/1ySHxAgUvYb6EIZCcGK48s) | [Junior](https://open.spotify.com/artist/2y8W2PypLEsO0G02dDJVdx) | [En Silencio](https://open.spotify.com/album/5Gikppde4Ynz50U9syaU8X) | 2:44 | 2024-03-22 | 2024-03-30 |

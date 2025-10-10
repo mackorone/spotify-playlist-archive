@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,088 songs - 2 day 12 hr 49 min
+1,089 songs - 2 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,6 +378,7 @@
 | [Frequency Fusion](https://open.spotify.com/track/5VeCxkNBNIp5wwHk6XkQY2) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo) | [Frequency Fusion](https://open.spotify.com/album/4gKmRkOzbynrohmMZQOkwl) | 2:47 | 2023-09-01 | 2023-12-14 |
 | [FULL ASSAULT](https://open.spotify.com/track/3cfaX2K9Jv3Aj8joDU1Iz0) | [Varien](https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7), [Psylla](https://open.spotify.com/artist/0glz26CRdAXpDqL31326C8), [JACKIE EXTREME](https://open.spotify.com/artist/3lTxQgwx9i1S3u0UoZHCRr) | [FULL ASSAULT / ALL THAT U WANT](https://open.spotify.com/album/377f6e2rHXRuE09ksYvWhS) | 2:44 | 2022-09-29 | 2022-12-02 |
 | [Full Speed](https://open.spotify.com/track/22efJ20TrKDfYaawh85fNj) | [Topi](https://open.spotify.com/artist/6WP0h3qR0awvIWPMvE72F8), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Full Speed](https://open.spotify.com/album/6Uy49ZyfFwVoV6sFM9eiHh) | 2:53 | 2023-07-31 | 2023-12-14 |
+| [Funk Machine](https://open.spotify.com/track/7eqYmCSmDl2UqcLfGJZegj) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Funk Machine](https://open.spotify.com/album/4eJxnNlmXqUHzltXMWJ67K) | 2:55 | 2025-10-09 |  |
 | [FUNNYFACE](https://open.spotify.com/track/0UVNivgKffuFPiJD4Fo2ba) | [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [FUNNYFACE](https://open.spotify.com/album/7MCFj5q1aq9n2Kg4vJPRd0) | 3:05 | 2022-04-07 | 2022-06-17 |
 | [GALACTICAL](https://open.spotify.com/track/3fRF3qz1d8f6Sx2dnhPUZZ) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [GALACTICAL](https://open.spotify.com/album/5jcrnkIRwz5yx6dodjzUTa) | 4:35 | 2022-11-07 | 2023-02-01 |
 | [games](https://open.spotify.com/track/6OhpQ4deBbmA4J6gUGw92o) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [Silk Selections 02](https://open.spotify.com/album/478IBtvh3n0y5At5wpoTRY) | 2:44 | 2024-12-10 | 2025-03-19 |

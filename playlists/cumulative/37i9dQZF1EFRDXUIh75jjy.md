@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-266 songs - 13 hr 40 min
+267 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Cry Baby](https://open.spotify.com/track/6oEM7RBZKXEQFxMqIdE7OW) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Cry Baby](https://open.spotify.com/album/4OfD5OiEll8cVpomJcq9GX) | 3:42 | 2024-06-07 | 2024-07-11 |
 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 | 2024-06-07 |  |
 | [Day One](https://open.spotify.com/track/3C2kuuygz0NsPFXuXwSPOf) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Fell In Love With A Cowgirl](https://open.spotify.com/album/0r8Rbvid6FVXBJ6xjBGB07) | 2:26 | 2025-07-22 |  |
-| [Daydream](https://open.spotify.com/track/1TtjtIHYRJuu64TYRzF9U7) | [Chelsea Basham](https://open.spotify.com/artist/59QTiNSNEFBZ2pYKOQe6Jz) | [Youngest](https://open.spotify.com/album/5PU9JkMbxGEtcspgUcgVwj) | 2:47 | 2024-06-07 |  |
+| [Daydream](https://open.spotify.com/track/1TtjtIHYRJuu64TYRzF9U7) | [Chelsea Basham](https://open.spotify.com/artist/59QTiNSNEFBZ2pYKOQe6Jz) | [Youngest](https://open.spotify.com/album/5PU9JkMbxGEtcspgUcgVwj) | 2:47 | 2024-06-07 | 2025-10-10 |
+| [Daydream](https://open.spotify.com/track/6QOytbImFr4EyVoJuQPbgm) | [Chelsea Basham](https://open.spotify.com/artist/59QTiNSNEFBZ2pYKOQe6Jz) | [Youngest](https://open.spotify.com/album/5EDBg5dgK76xXlqJjNp1su) | 2:47 | 2025-10-09 |  |
 | [Daydream](https://open.spotify.com/track/7cGbXyQknlw334XA0NdH80) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Daydream](https://open.spotify.com/album/7H3DDXj9Q5QrfIlIhMt03o) | 2:55 | 2024-06-07 |  |
 | [Dead Weight](https://open.spotify.com/track/20Xmsa6hYHPz9GJP20o33N) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Dead Weight](https://open.spotify.com/album/7lzDHu6RktqEkXkCTZwLql) | 3:04 | 2024-06-07 |  |
 | [Death Grip](https://open.spotify.com/track/3yI8gK4M1SUNn7ePXbUK5x) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Death Grip](https://open.spotify.com/album/1aHe3DgFL7WILUw9n1CRFY) | 3:08 | 2025-02-06 | 2025-03-10 |

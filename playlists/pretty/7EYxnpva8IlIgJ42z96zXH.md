@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more to get summer bod ready!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,577 likes - 80 songs - 4 hr 8 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,573 likes - 81 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,5 +88,6 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 78 | [HIDEAWAY](https://open.spotify.com/track/3Cju4hxTTHvFkb7OcLIk3f) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [HIDEAWAY](https://open.spotify.com/album/3v9D67n4NEiG0C62XrI9XW) | 3:07 |
 | 79 | [Blessings \- Max Styler Remix](https://open.spotify.com/track/4ABq8s2EfMZuqfKsh2XLls) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Blessings \(Max Styler Remix\)](https://open.spotify.com/album/0b2lrcEdueqWOAzyeAKScs) | 4:03 |
 | 80 | [A Little Closer](https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [A Little Closer](https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU) | 2:55 |
+| 81 | [To The Moon](https://open.spotify.com/track/1UqrEdmUZallXzeHpUyAkY) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [To The Moon](https://open.spotify.com/album/3C961iftDuFI3ZeozGtsGN) | 4:28 |
 
-Snapshot ID: `AAAPtVJcdxstjwTTyTJGvJ0wic5AhbBy`
+Snapshot ID: `AAAPtmmOTERxJ+pWjn0zhYvQCN5A7m/v`

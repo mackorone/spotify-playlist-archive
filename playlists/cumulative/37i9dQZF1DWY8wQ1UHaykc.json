@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Lagu-lagu terpopuler dari dekade 2010an. Cover: Noah",
+  "description": "Lagu-lagu terpopuler dari dekade 2010an. Cover: Fatin",
   "name": "Ngetren di 2010an",
   "tracks": [
     {
@@ -906,6 +906,24 @@
       "duration_ms": 207490,
       "name": "Dia",
       "url": "https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/5PXJbCIr2BoUHJq5FIDpMd"
+      },
+      "artists": [
+        {
+          "name": "Fatin",
+          "url": "https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266213,
+      "name": "Dia Dia Dia",
+      "url": "https://open.spotify.com/track/7htWuazarn407jLZTQZp8P"
     },
     {
       "album": {

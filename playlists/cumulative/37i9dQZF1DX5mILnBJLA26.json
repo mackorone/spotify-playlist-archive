@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: Shaunmusiq",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: UNLIMITEDSOUL",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -15530,7 +15530,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 385884,
       "name": "Iqhathanzipho",
       "url": "https://open.spotify.com/track/1QBJAau3UL22cLhh8uIeeb"
@@ -22488,7 +22488,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 411428,
       "name": "Mjakajaka",
       "url": "https://open.spotify.com/track/10jzZmY4YZpP4cGv2acNst"
@@ -35245,6 +35245,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "UNLIMITED SOUL",
+          "url": "https://open.spotify.com/artist/1YKPUOZchJZDIwoU7SZiZg"
+        },
+        {
+          "name": "GiftLunga",
+          "url": "https://open.spotify.com/artist/4hIDy3Q0vp8NzHxRv93gpV"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 9",
+      "url": "https://open.spotify.com/track/3z9Y4ujVJZvfxrVgsmzSpW"
+    },
+    {
+      "album": {
         "name": "Trap Donoro",
         "url": "https://open.spotify.com/album/74w91or5ngbHAJyoYrKZWV"
       },
@@ -36128,6 +36150,44 @@
       "duration_ms": 362213,
       "name": "Ufuna Bani",
       "url": "https://open.spotify.com/track/2fWUvWpyowj7DYoYuYEPEx"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Amu Classic",
+          "url": "https://open.spotify.com/artist/3NQIgbNJLGPryAiwDI3h9H"
+        },
+        {
+          "name": "Kappie",
+          "url": "https://open.spotify.com/artist/073up1ElQTnihSqNP4FnIC"
+        },
+        {
+          "name": "Malemon",
+          "url": "https://open.spotify.com/artist/6cs1bOgbQNCeY9fxkkUcRq"
+        },
+        {
+          "name": "Mr Nation Thingz",
+          "url": "https://open.spotify.com/artist/5N1to90ym4E3lzJg0CyEGH"
+        },
+        {
+          "name": "Muziqal Tone",
+          "url": "https://open.spotify.com/artist/0dswN69mvtfnBkONPK7ZkK"
+        },
+        {
+          "name": "Kammu Dee",
+          "url": "https://open.spotify.com/artist/4RZQX1vkRjewMYodn5wZ9F"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407676,
+      "name": "Ufuna Uk'fela Kuphi (feat. Kammu Dee)",
+      "url": "https://open.spotify.com/track/6NDBIVUhORLwPVRK1yhJLx"
     },
     {
       "album": {

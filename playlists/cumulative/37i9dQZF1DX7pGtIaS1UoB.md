@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-430 songs - 1 day 1 hr 13 min
+432 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,7 @@
 | [我有你 \(I Have You\)](https://open.spotify.com/track/6uZDicq06NzupDreN3HIbc) | [Caryson 黃譽韶](https://open.spotify.com/artist/2wUxL6WmZ6wcbL2BcZtcyB) | [我有你 \(I Have You\)](https://open.spotify.com/album/7uCntuvSaifoUIb5yA51Aq) | 3:33 | 2024-05-16 | 2024-06-18 |
 | [我歡喜喜歡你](https://open.spotify.com/track/54pRAfOy0DqZh6fYmmtK6L) | [焦邁奇](https://open.spotify.com/artist/1FyPWrq6lU8yPFM7IXj6oH) | [我的名字](https://open.spotify.com/album/0Y8Iy4Wrw4Ke6DLbbPCfpL) | 4:34 | 2022-06-06 | 2022-07-27 |
 | [我的](https://open.spotify.com/track/685v4MbZJ111mcZWIoCH0s) | [王俊凱](https://open.spotify.com/artist/0rVLyv4xouX9M4GCq3VuP5) | [我的](https://open.spotify.com/album/5x4p9XuKJTxUS6xgserPDl) | 3:45 | 2022-07-18 | 2022-07-24 |
-| [我的喜歡不想轉彎](https://open.spotify.com/track/3OhiorvAtUq6HgnLJaxElK) | [鄭伊晴 Tee Yi Qing](https://open.spotify.com/artist/3w8n4Q4a0KfzA4WJaz5z0b) | [我的喜歡不想轉彎](https://open.spotify.com/album/03bc7I5GBfUf8vKjGB3jhR) | 3:28 | 2025-10-02 |  |
+| [我的喜歡不想轉彎](https://open.spotify.com/track/3OhiorvAtUq6HgnLJaxElK) | [鄭伊晴 Tee Yi Qing](https://open.spotify.com/artist/3w8n4Q4a0KfzA4WJaz5z0b) | [我的喜歡不想轉彎](https://open.spotify.com/album/03bc7I5GBfUf8vKjGB3jhR) | 3:28 | 2025-10-02 | 2025-10-10 |
 | [我的幸福](https://open.spotify.com/track/12a25Yf6Lh9Ahd8WyzDJEy) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [我的幸福](https://open.spotify.com/album/1ZhmLZ7OIZKuYGUObrWGsk) | 3:17 | 2025-03-27 | 2025-05-08 |
 | [我的心裡呀](https://open.spotify.com/track/3vjdrhCbZ6KAL7F6sBaUni) | [GBOYSWAG](https://open.spotify.com/artist/2QOj4jFuDei3DWSkDHfWTm) | [我的心裡呀](https://open.spotify.com/album/3ztddA2NGEIt70TPEMJ6Qf) | 4:32 | 2022-06-13 | 2022-07-08 |
 | [我要抱着你](https://open.spotify.com/track/6dgSlOAIjBmXyDjNBlNFLk) | [贺子玲](https://open.spotify.com/artist/6zX8snAvqQTiIVrbh946vt) | [我要抱着你](https://open.spotify.com/album/6osbNpRabdMYaHr9Vux8aR) | 3:19 | 2023-01-23 | 2023-03-21 |
@@ -298,6 +298,7 @@
 | [所有相愛的人啊\(熱情版\)](https://open.spotify.com/track/0nPuFKswOvCUaGYl4FIs8m) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [所有相愛的人啊\(熱情版\)](https://open.spotify.com/album/6VgF9QqDn6twLGVQHMvXT1) | 4:08 | 2022-06-06 | 2022-07-29 |
 | [抱抱我](https://open.spotify.com/track/6FZOJVYqV52ltgTpO6p3NT) | [fuvva](https://open.spotify.com/artist/6wpBdJXOYHd7L8fHYKL46r) | [抱抱我](https://open.spotify.com/album/01zJ9d6EJ53Jrq3W9HGJwH) | 3:29 | 2025-02-06 | 2025-03-26 |
 | [撒娇只对你有效 \- 真人互动影游《恋爱单选题》主题曲](https://open.spotify.com/track/5fvrJqFKGlVXQGLUlxVs6k) | [Kenji Wu](https://open.spotify.com/artist/1MgybycH8k36NX0Ifzlddb) | [撒娇只对你有效 \(真人互动影游《恋爱单选题》主题曲\)](https://open.spotify.com/album/69fb1BAbz9oerXRSnDOzHZ) | 2:02 | 2024-05-27 | 2024-07-17 |
+| [放大](https://open.spotify.com/track/1GEupW64CTCUaZ5AsvVEgO) | [徐子未](https://open.spotify.com/artist/12beNlVYvMrAp05h8CBV6A) | [放大](https://open.spotify.com/album/50JvPIC2Wrgwg49gfw2w9t) | 3:25 | 2025-10-09 |  |
 | [敬嘮叨](https://open.spotify.com/track/7B3O98DIT9hOVB8sbwgtYY) | [繆以欣](https://open.spotify.com/artist/43aTla1ZVfTG1AUNhhbqsv) | [如果心情會說話](https://open.spotify.com/album/5BwIe4tDn9K8LVKJP1uFyr) | 3:58 | 2022-07-18 | 2022-07-20 |
 | [數到五答應我](https://open.spotify.com/track/5uWgSWwQhMcSeL21Fg6t2h) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [格格blue](https://open.spotify.com/album/6HveSS0Oh0HQgtV1RKxgHX) | 4:29 | 2022-06-06 | 2024-12-11 |
 | [时空恋人](https://open.spotify.com/track/4Wr8vehBhV6cUbhDP60nX4) | [海哲明](https://open.spotify.com/artist/6hBMO1pup13SkItc7yxBbr), [云汐](https://open.spotify.com/artist/7hcRBeXgHkJKfg7uGMr7ag) | [时空恋人](https://open.spotify.com/album/0B6RIITSLOFMK07ZkoVPb3) | 3:08 | 2024-06-27 | 2024-07-12 |
@@ -313,6 +314,7 @@
 | [最最靠近愛情的那天](https://open.spotify.com/track/0vPAePR4Z5tTx3yGPO8KxI) | [Ozone](https://open.spotify.com/artist/1Lu3G3NqWACIUAcq9r30t1) | [最最靠近愛情的那天](https://open.spotify.com/album/0xQcsH0do8tKqRRr4JUY0F) | 3:07 | 2024-07-11 | 2024-11-18 |
 | [月光森林](https://open.spotify.com/track/5j73bSHAoFQW84vwb64lJQ) | [兔子牙](https://open.spotify.com/artist/5IKSF0sUp4qqybBa8tjOqW) | [月光森林](https://open.spotify.com/album/363MAMYrjcQVlG3mvilLDX) | 3:20 | 2022-07-04 | 2022-07-14 |
 | [有何不可](https://open.spotify.com/track/5rXBmcYNJYMYdhwxlMLh0s) | [許嵩](https://open.spotify.com/artist/2hgxWUG24w1cFLBlPSEVcV) | [自定義](https://open.spotify.com/album/0OfgDIAou9mTshlocs9hXD) | 4:00 | 2022-06-06 |  |
+| [有你在](https://open.spotify.com/track/3SPm9Lc99QoIrsglJ7Rd8T) | [劉畊宏](https://open.spotify.com/artist/2kvmrHbV4Hfj2vqWPC8ysu) | [有你在](https://open.spotify.com/album/15jfI6PVWIO00xwkMO4ez1) | 3:24 | 2025-10-09 |  |
 | [有空記得約我 \- 電視電影《雜貨店》主題曲](https://open.spotify.com/track/1ruZAxKKU6x6fl7MKlkRfs) | [The Freshman](https://open.spotify.com/artist/2pZzvphS66rCxKBiJCrO9y) | [有空記得約我 \(電視電影《雜貨店》主題曲\)](https://open.spotify.com/album/4gFAG2ZXep3vHcqzDlt8PV) | 4:03 | 2022-06-06 | 2022-09-03 |
 | [有點](https://open.spotify.com/track/210VyijBJR7X8fcWv0QofO) | [Bae 林采欣](https://open.spotify.com/artist/2vRNbO0y4DgqQOEEhRSqdI) | [有點](https://open.spotify.com/album/1MvandY4MvyIrNcM39pydO) | 3:38 | 2024-03-18 | 2024-04-29 |
 | [期待著你的出現｜黃莑茗、須弘道](https://open.spotify.com/track/5TmRtmA8bJtPZF5ynGKpAM) | [AcQUA 源少年](https://open.spotify.com/artist/0CIydy50GshlhGW8ajW0Bn) | [期待著你的出現｜黃莑茗、須弘道](https://open.spotify.com/album/4wKhBdIM1SM5747ok3aPAD) | 3:07 | 2024-06-20 | 2024-08-01 |
@@ -375,7 +377,7 @@
 | [簡單愛](https://open.spotify.com/track/7JWIGJpbc8Xm9xxu8gSCsT) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [范特西](https://open.spotify.com/album/2QtCt02mqDZBpyDAZW6JzC) | 4:30 | 2024-01-08 | 2024-04-19 |
 | [約會對白](https://open.spotify.com/track/26GGCkThk2p9cr870dTaW7) | [Niko Sun](https://open.spotify.com/artist/0PjwjckyZwud4p7iAIcspa), [朱婧佳](https://open.spotify.com/artist/6QCOFEZJrqExqz9HsIG5zF) | [辭舊](https://open.spotify.com/album/29uplO4qSyKwJGFM38PVPg) | 3:37 | 2022-06-27 | 2022-07-01 |
 | [給你宇宙\(泰版《放羊的星星》推廣曲\)](https://open.spotify.com/track/0Qxm6hUFBFEmRBMYef09Rs) | [孟梓](https://open.spotify.com/artist/5nZUFKAqvjcWqQDNQ8chVU) | [泰版《放羊的星星》原聲帶](https://open.spotify.com/album/19ljgcrHrFILHKxw7GZX0O) | 3:50 | 2023-04-24 | 2023-05-02 |
-| [給你意外的甜](https://open.spotify.com/track/1GAG6OIPYa02KAUWBfuByF) | [蔡明仁](https://open.spotify.com/artist/1v2EIlY1RxGD5b6eYNcyBo) | [給你意外的甜](https://open.spotify.com/album/0nFrWgXz7YP94HOu37UUEO) | 4:06 | 2023-12-04 |  |
+| [給你意外的甜](https://open.spotify.com/track/1GAG6OIPYa02KAUWBfuByF) | [蔡明仁](https://open.spotify.com/artist/1v2EIlY1RxGD5b6eYNcyBo) | [給你意外的甜](https://open.spotify.com/album/0nFrWgXz7YP94HOu37UUEO) | 4:06 | 2023-12-04 | 2025-10-10 |
 | [給月亮的情書](https://open.spotify.com/track/2ZqCwuKgjbUAhpnpLjjX04) | [REGENT 林暐竣](https://open.spotify.com/artist/0fC5VBIUXbh9Fltzxn12Mp) | [給月亮的情書](https://open.spotify.com/album/3WZqmI0dLE7g7az7g7EWr1) | 3:20 | 2025-08-14 |  |
 | [練習等待](https://open.spotify.com/track/0UwwjNqyHLNLiQHneyWXTd) | [Ruth Kueo](https://open.spotify.com/artist/0SueX3F8oyrlVY4i8JB6Lb) | [練習等待](https://open.spotify.com/album/1xwMSCbMESBuBdAdfHyOb7) | 3:10 | 2022-06-13 | 2022-07-24 |
 | [美](https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [美](https://open.spotify.com/album/2AnHAP4FN9Edjt3ZHGPkVG) | 2:24 | 2022-06-20 |  |

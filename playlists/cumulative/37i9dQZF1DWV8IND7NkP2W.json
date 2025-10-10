@@ -3405,6 +3405,36 @@
     },
     {
       "album": {
+        "name": "Distant Lights",
+        "url": "https://open.spotify.com/album/7qHGwQ1hxCtJm9nNnAUbS6"
+      },
+      "artists": [
+        {
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+        },
+        {
+          "name": "Jikuru",
+          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        },
+        {
+          "name": "Hideyuki Mochizuki",
+          "url": "https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137248,
+      "name": "Distant Lights",
+      "url": "https://open.spotify.com/track/5VyCpzqB89n3ilkxHKCthF"
+    },
+    {
+      "album": {
         "name": "Dntleave",
         "url": "https://open.spotify.com/album/4eronGCeRlA7EwC7knCUV1"
       },
@@ -6134,7 +6164,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 176303,
       "name": "INNER CHILD",
       "url": "https://open.spotify.com/track/0UN76wlPdYnG5O6V0qORZq"
@@ -12022,7 +12052,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-07",
+      "date_removed": null,
       "duration_ms": 162705,
       "name": "Sleep Walker",
       "url": "https://open.spotify.com/track/6SNlNFbDlx8sUNB7HwOSvO"
@@ -15606,7 +15636,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 115975,
       "name": "\u82b1\u706b 01",
       "url": "https://open.spotify.com/track/3roiSk1Qepttg9ct0tLm5G"

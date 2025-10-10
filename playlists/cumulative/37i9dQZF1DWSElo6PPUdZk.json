@@ -3275,6 +3275,24 @@
     },
     {
       "album": {
+        "name": "Nawe Rivaaz",
+        "url": "https://open.spotify.com/album/4ghLiOyAllLjkiI8h4Ygvx"
+      },
+      "artists": [
+        {
+          "name": "Kiran Bajwa",
+          "url": "https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151165,
+      "name": "Nawe Rivaaz",
+      "url": "https://open.spotify.com/track/0ZInUKQpOd8IuKnMOrtFpc"
+    },
+    {
+      "album": {
         "name": "Mankirt Aulakh Vol. 1",
         "url": "https://open.spotify.com/album/1LzjSBsrxFGlhHTjvTNtP8"
       },
@@ -4826,7 +4844,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 207839,
       "name": "With Ya Always (From \"Aapocalypse\")",
       "url": "https://open.spotify.com/track/3f63N35Q90RbKvbWOuK0UY"

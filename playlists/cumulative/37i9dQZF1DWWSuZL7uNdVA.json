@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Aerosmith x YUNGBLUD au top des meilleurs morceaux rock du moment.",
+  "description": "Nova Twins au top des meilleurs morceaux rock du moment.",
   "name": "Top of the Rock",
   "tracks": [
     {
@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "No Rain, No Flowers",
+        "url": "https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217019,
+      "name": "A Little Too High",
+      "url": "https://open.spotify.com/track/07UhkkoVZLfX0khL5UzpoZ"
+    },
+    {
+      "album": {
         "name": "A Moment",
         "url": "https://open.spotify.com/album/5QqwK8Qf8W4hoVkuCzBtMa"
       },
@@ -214,7 +232,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 249960,
       "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
       "url": "https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI"
@@ -3399,6 +3417,24 @@
     },
     {
       "album": {
+        "name": "Sam Sauvage",
+        "url": "https://open.spotify.com/album/5nrW5auWrwjoEG9APtmNwr"
+      },
+      "artists": [
+        {
+          "name": "Sam Sauvage",
+          "url": "https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204698,
+      "name": "La Fin Du Monde",
+      "url": "https://open.spotify.com/track/3QHVBHcvXwvEeey5Gy9Fz2"
+    },
+    {
+      "album": {
         "name": "La vie est belle",
         "url": "https://open.spotify.com/album/4EZPqR5zgSI7w7khsuPJAh"
       },
@@ -4758,7 +4794,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 259088,
       "name": "Paws",
       "url": "https://open.spotify.com/track/73bLtrWnmMu15zgkwgxIft"

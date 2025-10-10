@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-899 songs - 1 day 23 hr 48 min
+901 songs - 1 day 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Daybreak \(with Zachary Knowles\)](https://open.spotify.com/track/3zrX6izmn310lKIUjOG9eL) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [Daybreak \(with Zachary Knowles\)](https://open.spotify.com/album/0LgdvD2Xy58iSm87rEWhBm) | 2:20 | 2023-05-26 | 2024-01-06 |
 | [Daybreak \(with Zachary Knowles\) \- Angrybaby Remix](https://open.spotify.com/track/1541aci0DCeaNlmPMYNvfW) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI), [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [Daybreak \(with Zachary Knowles\) \[Angrybaby Remix\]](https://open.spotify.com/album/5oICt4oowWols2LtqBdqDL) | 2:53 | 2023-08-03 | 2024-01-06 |
 | [Deadbeat Gospel](https://open.spotify.com/track/3pSkRsuZv57a1yCxJPiBiT) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [somedeadbeat](https://open.spotify.com/artist/3ZNGHjHAtesA1czp8QKYK6) | [Deadbeat Gospel](https://open.spotify.com/album/2idTKvVf3bPURpVdZ8k6ZH) | 4:14 | 2023-09-28 | 2025-08-13 |
+| [Dear Friend](https://open.spotify.com/track/2s2l6JSOu3UveEzIEQdOx4) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Dear Friend](https://open.spotify.com/album/3gDbGWn1O5azVnCN5i68x3) | 3:49 | 2025-10-09 |  |
 | [Deep End](https://open.spotify.com/track/22oIJRdQwzREbrnrOOqC6F) | [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE), [Cal\-A](https://open.spotify.com/artist/0THBKtaldoZ6Ndcw9WogpS) | [Deep End](https://open.spotify.com/album/2WKcvQnpIfFzRIiNRQk8Pt) | 2:28 | 2024-08-15 | 2025-08-13 |
 | [Deeper Than The Water](https://open.spotify.com/track/2D5mb3bUXIdx7kDonnfSDe) | [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC) | [Emotions](https://open.spotify.com/album/1GuxB1FxgdWzGJIeRyKIbS) | 4:45 | 2024-12-05 | 2025-08-13 |
 | [Deny It](https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Deny It](https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i) | 4:02 | 2023-04-13 |  |
@@ -202,6 +203,7 @@
 | [Electric High](https://open.spotify.com/track/1MEiXJK91I7by4os5CxKpH) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Electric High](https://open.spotify.com/album/676PjzaourdD3l6Nb3HpwO) | 2:24 | 2024-07-25 | 2025-08-13 |
 | [Electrifying \- NOËP Remix](https://open.spotify.com/track/3CB9fFOlO6CDq4FChUpcMY) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59), [NOËP](https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp) | [Electrifying \(NOËP Remix\)](https://open.spotify.com/album/6fIr1fb7PSwXyxeCqERso5) | 3:14 | 2023-06-08 | 2024-01-06 |
 | [Elysian Park](https://open.spotify.com/track/3pbZCLBe6fUZ8dBntDWQ64) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [han.irl <3](https://open.spotify.com/artist/5VfSeZYcDwD8WQVwbaoL6z), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Elysian Park](https://open.spotify.com/album/5FrzfGTsoOcoH2sk4sONHe) | 2:22 | 2023-10-05 | 2024-01-06 |
+| [Embrace](https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Embrace](https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ) | 4:20 | 2025-10-09 |  |
 | [EMPTY SPACE \- CLUB REMIX](https://open.spotify.com/track/2LALlHfOjcImIfAnnrRBeK) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [EMPTY SPACE / LAST CHANCE REMIXES](https://open.spotify.com/album/5mSkwAvPBrAVWh9BnqQQ4N) | 3:32 | 2025-05-22 | 2025-08-13 |
 | [Endit \- Dusky Remix](https://open.spotify.com/track/1ukwvRsaWx1YMenRQB5ABM) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Sisyphus Remixes Pt\. 2](https://open.spotify.com/album/5YACRcEwtEVQSB58p45HiO) | 4:05 | 2024-03-07 | 2024-04-05 |
 | [Esther \- Duskus Romantic Edit](https://open.spotify.com/track/3VgWp5x2nvvP9XFCs6UBQs) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Esther \(Duskus Romantic Edit\)](https://open.spotify.com/album/7cUcaY2UwQPaFYYnEx648J) | 3:03 | 2023-04-13 | 2024-01-06 |

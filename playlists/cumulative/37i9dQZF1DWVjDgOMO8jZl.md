@@ -4,7 +4,7 @@
 
 > Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia\. Marte in cover.
 
-203 songs - 9 hr 38 min
+205 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [I'm On](https://open.spotify.com/track/0Jvo56KxP4t9dCxCpa9qRj) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [I'm On](https://open.spotify.com/album/3kptKZRdNf94sV6gFveVYc) | 4:10 | 2022-08-31 | 2022-10-21 |
 | [I'm On](https://open.spotify.com/track/2wo5YYmTIeGhE6tbf0c0NN) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [On Time For Her](https://open.spotify.com/album/2wjZrsSc136umDWRM6kMap) | 4:10 | 2022-08-31 | 2023-04-12 |
 | [IL FUMO UCCIDE](https://open.spotify.com/track/67OwT6y01c3IwTLjYmF7xg) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [IL FUMO UCCIDE](https://open.spotify.com/album/05VFSmqhezOJ2xelLj1MYU) | 3:05 | 2023-04-11 | 2024-04-24 |
+| [IL MIO DEAL \(feat\. Young Hash\)](https://open.spotify.com/track/7egBWl4HwkQ80GYjX63DI5) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb), [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX) | [IL MIO DEAL \(feat\. Young Hash\)](https://open.spotify.com/album/2Fz4X6urACFPLMHX5NeNaY) | 1:58 | 2025-10-09 |  |
 | [Il tempo cura](https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Il tempo cura](https://open.spotify.com/album/16t4humL85l0QvihcPSYRN) | 2:32 | 2024-08-22 | 2025-05-14 |
 | [Indipendente](https://open.spotify.com/track/5QcdUyOyaADHjCEF1g09nJ) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Indipendente](https://open.spotify.com/album/0LPzcw1FoXTEYadRNiItCV) | 2:32 | 2025-06-05 |  |
 | [Intuition](https://open.spotify.com/track/5xwxSxQDZVOU6fGN14RFEe) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [SHIMA](https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI) | [Intuition](https://open.spotify.com/album/2BN1tE3wwVvF2XQkiIUiLH) | 3:28 | 2025-05-13 |  |
@@ -112,6 +113,7 @@
 | [Merchants](https://open.spotify.com/track/0Xvi293ApVUdnysGfuSPUd) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Merchants](https://open.spotify.com/album/2onw1c7o2S0lNN4qFtIggN) | 4:08 | 2023-01-24 | 2023-04-12 |
 | [Metaverso](https://open.spotify.com/track/4dCMB4V9Zyncd8oFAzWRSZ) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Post Nostalgia](https://open.spotify.com/album/0ULpaUUm6A6JluH0fnHWiv) | 3:05 | 2022-08-31 | 2023-04-12 |
 | [Mezzanotte](https://open.spotify.com/track/652Qiud4KveJC4uUDFDXNw) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Mezzanotte](https://open.spotify.com/album/1pNTOh7L7lDbZGelqCpEKo) | 2:04 | 2022-08-31 | 2023-04-12 |
+| [MIGLIAIA DI PROBLEMI](https://open.spotify.com/track/62gN6FiKKiWnYIE8RPhRM5) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [MIGLIAIA DI PROBLEMI](https://open.spotify.com/album/4O6bLYvHWxJecTT95NQGeY) | 2:12 | 2025-10-09 |  |
 | [Millemila](https://open.spotify.com/track/21Z6MRumkQbvgyfXPrrMrW) | [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Millemila](https://open.spotify.com/album/5TdbB1CB4H90cDWSHlBFNC) | 2:48 | 2022-08-31 | 2023-04-12 |
 | [Mon Frère](https://open.spotify.com/track/0ECjuTZzoNxv8hRSYS05AX) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Mon Frère](https://open.spotify.com/album/4oNPumU0MDQmVBp22tZLil) | 2:51 | 2022-08-31 | 2023-04-12 |
 | [Moncherie \(feat\. Epoque\)](https://open.spotify.com/track/3WEIhQXeExw6gRwxvOa1Ny) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK), [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Il giorno in cui ho smesso di pensare](https://open.spotify.com/album/2bL1yZKdgMo1syeyCYDwhq) | 2:43 | 2022-08-31 | 2023-04-12 |

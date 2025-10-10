@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "The best in South African and international R&B. Cover: Lusanda",
+  "description": "The best in South African and international R&B. Cover: Sishii",
   "name": "R&Beats",
   "tracks": [
     {
@@ -6549,6 +6549,24 @@
     },
     {
       "album": {
+        "name": "MBALI.",
+        "url": "https://open.spotify.com/album/0i73yHPIjgliw5cnBZfyi1"
+      },
+      "artists": [
+        {
+          "name": "Sishii",
+          "url": "https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255529,
+      "name": "MBALI.",
+      "url": "https://open.spotify.com/track/6bPQdN0lFhrhaWKbq8wuSw"
+    },
+    {
+      "album": {
         "name": "Mbuzi",
         "url": "https://open.spotify.com/album/0gNuPgiVwa6B0fWQqj8ELm"
       },
@@ -8146,7 +8164,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 170997,
       "name": "Progress",
       "url": "https://open.spotify.com/track/78MTRcH2sFDEeX6oNOMR7P"

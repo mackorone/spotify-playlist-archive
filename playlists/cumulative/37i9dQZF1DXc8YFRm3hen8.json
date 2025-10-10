@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "relicario",
+        "url": "https://open.spotify.com/album/6oBsuyf7oZZxQBmSeizStD"
+      },
+      "artists": [
+        {
+          "name": "El Club Audiovisual",
+          "url": "https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162566,
+      "name": "armadura",
+      "url": "https://open.spotify.com/track/5RYuYRuYqBPizDXiUzN9sH"
+    },
+    {
+      "album": {
         "name": "El Final de Las Cosas",
         "url": "https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv"
       },
@@ -896,7 +914,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 320656,
       "name": "Chau",
       "url": "https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj"
@@ -3257,6 +3275,28 @@
     },
     {
       "album": {
+        "name": "En el Ciber",
+        "url": "https://open.spotify.com/album/14aoXAt4VHLOXclbZSbx1r"
+      },
+      "artists": [
+        {
+          "name": "Benito Cerati",
+          "url": "https://open.spotify.com/artist/13QnAhCICgwMtr6HPWoRbH"
+        },
+        {
+          "name": "Dante Bruni",
+          "url": "https://open.spotify.com/artist/5Up0HZiT7I4JVIpPBRrVQm"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149511,
+      "name": "La Ley de la Selva",
+      "url": "https://open.spotify.com/track/0ymcbT8T46GGs2Yo2LHASM"
+    },
+    {
+      "album": {
         "name": "La Luz Sin Aclarar",
         "url": "https://open.spotify.com/album/5ZtRTyr1fkCLOLTwJu4Qyi"
       },
@@ -3956,6 +3996,24 @@
       "duration_ms": 164095,
       "name": "L\u00c1 L\u00c1",
       "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
+    },
+    {
+      "album": {
+        "name": "yo tambi\u00e9n les tengo miedo",
+        "url": "https://open.spotify.com/album/5YzQqEKXoOFwlaEDccr3zN"
+      },
+      "artists": [
+        {
+          "name": "K4",
+          "url": "https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168810,
+      "name": "Mabel",
+      "url": "https://open.spotify.com/track/0OpNsqH1hrjqw188yJ2j2U"
     },
     {
       "album": {
@@ -6604,7 +6662,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 283466,
       "name": "Tr\u00e1eme la Noche (Bring on the Night) (with Andy Summers)",
       "url": "https://open.spotify.com/track/0wMditvMpFP9aYzW3kDWnw"
@@ -6684,7 +6742,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 211992,
       "name": "Tu Encanto",
       "url": "https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol"

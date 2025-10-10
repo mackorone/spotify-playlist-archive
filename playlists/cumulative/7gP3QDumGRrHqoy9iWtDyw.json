@@ -573,6 +573,24 @@
     },
     {
       "album": {
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/0TJr3sRpHNMIunanbWcagx"
+      },
+      "artists": [
+        {
+          "name": "KATRIN KOVA",
+          "url": "https://open.spotify.com/artist/64airxxenGDgE7GqpBu0jZ"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175235,
+      "name": "Blessing - Radio Edit",
+      "url": "https://open.spotify.com/track/2VBkOp4t5N3Hh0lBQkxZIu"
+    },
+    {
+      "album": {
         "name": "This Energy EP",
         "url": "https://open.spotify.com/album/6BhhDPtDrqadoXUT3y9FUU"
       },

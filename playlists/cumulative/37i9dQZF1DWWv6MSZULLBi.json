@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Al Nicol, Hiss Golden Messenger",
+  "description": "A laid-back trip in the folk scene. Cover: Great Lake Swimmers",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 277917,
       "name": "#44 - Live From The Woodshed",
       "url": "https://open.spotify.com/track/5veNNxR1BUk75heaV2pMEY"
+    },
+    {
+      "album": {
+        "name": "Sweet Deliverance",
+        "url": "https://open.spotify.com/album/2xRvArNEzP3rSscsTfGSMQ"
+      },
+      "artists": [
+        {
+          "name": "Carsen Gray",
+          "url": "https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213094,
+      "name": "'Til Later",
+      "url": "https://open.spotify.com/track/0r85lST3XcWqBZMvUIiGtS"
     },
     {
       "album": {
@@ -640,7 +658,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 174477,
       "name": "aka's white wolf",
       "url": "https://open.spotify.com/track/32BzrzD6L6EsIkCqwWW4FQ"
@@ -1448,7 +1466,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 226400,
       "name": "Anyways, I Love You - Better with Allen",
       "url": "https://open.spotify.com/track/1aIjJsxn7Ctb1sRIdTvJ3t"
@@ -2829,6 +2847,24 @@
     },
     {
       "album": {
+        "name": "Bound to Rain (Live)",
+        "url": "https://open.spotify.com/album/1zWZuWyM7Gjon2LI6slnz7"
+      },
+      "artists": [
+        {
+          "name": "Ken Pomeroy",
+          "url": "https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172985,
+      "name": "Bound to Rain - Live",
+      "url": "https://open.spotify.com/track/1Ii9SXQyAixGG35Okz4MuZ"
+    },
+    {
+      "album": {
         "name": "Bovine Excision",
         "url": "https://open.spotify.com/album/6CMquIsmPgGoeLRAHTiVSt"
       },
@@ -2880,6 +2916,24 @@
       "duration_ms": 190759,
       "name": "Brave Boy",
       "url": "https://open.spotify.com/track/57PIDRO7P6ThOr8MqzYVfQ"
+    },
+    {
+      "album": {
+        "name": "Break The Jaw",
+        "url": "https://open.spotify.com/album/2khFgwnRjBab1uWRBVGI9H"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247053,
+      "name": "Break The Jaw",
+      "url": "https://open.spotify.com/track/5J9Y2roWzvClVvb39fHMiW"
     },
     {
       "album": {
@@ -3539,6 +3593,24 @@
     },
     {
       "album": {
+        "name": "CAT SONG",
+        "url": "https://open.spotify.com/album/0Ow0gAfure6Dx90DAnahyw"
+      },
+      "artists": [
+        {
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154880,
+      "name": "CAT SONG",
+      "url": "https://open.spotify.com/track/6BFtLI7TdNGS9W3oVlXjKi"
+    },
+    {
+      "album": {
         "name": "Cat's Cradle",
         "url": "https://open.spotify.com/album/0cOQJrvjyz0PNB9608H8C0"
       },
@@ -3864,7 +3936,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 407903,
       "name": "Circle Remains Unbroken",
       "url": "https://open.spotify.com/track/2QH25dbohPIBjoO4QMelLO"
@@ -7054,7 +7126,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 183306,
       "name": "Father Time",
       "url": "https://open.spotify.com/track/4N3p4meY9s1eVWvZ0IIgHP"
@@ -7895,6 +7967,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Great Lake Swimmers",
+          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230507,
+      "name": "For You To Come Around",
+      "url": "https://open.spotify.com/track/2sf5JiDziDRgrFOXjsn4wx"
+    },
+    {
+      "album": {
         "name": "For Your Love",
         "url": "https://open.spotify.com/album/3cFKjTXNJSGL7TBQWenR4z"
       },
@@ -8155,6 +8245,24 @@
     },
     {
       "album": {
+        "name": "Fruit Bat",
+        "url": "https://open.spotify.com/album/0FFPcGdpvNUoJJWr1uYZH7"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497160,
+      "name": "Fruit Bat",
+      "url": "https://open.spotify.com/track/2hmo6Qz1zHKl7nGbVZSl8Z"
+    },
+    {
+      "album": {
         "name": "The Love Still Held Me Near",
         "url": "https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym"
       },
@@ -8278,6 +8386,24 @@
       "duration_ms": 271777,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/3u1kYrlI4uU9RXG09QYKOP"
+    },
+    {
+      "album": {
+        "name": "The Pleasantville Sessions",
+        "url": "https://open.spotify.com/album/02EzJitxNC5vFYcob0Zuos"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278862,
+      "name": "Get It Over With",
+      "url": "https://open.spotify.com/track/3U2ssFocMXixGcMyMfCK77"
     },
     {
       "album": {
@@ -9839,6 +9965,24 @@
     },
     {
       "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/5VG8xidFhfndufytcSGbsn"
+      },
+      "artists": [
+        {
+          "name": "Luca Fogale",
+          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231026,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/7J9DEND05zjJwWs7yCBndX"
+    },
+    {
+      "album": {
         "name": "Hotel TV",
         "url": "https://open.spotify.com/album/0aHSi8fDgyazya4a9KccTn"
       },
@@ -9850,7 +9994,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 277951,
       "name": "Hotel TV",
       "url": "https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv"
@@ -11522,7 +11666,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 210180,
       "name": "Jessie's Comet",
       "url": "https://open.spotify.com/track/73Nc16ELVAtiyqsCy9q5MQ"
@@ -12569,6 +12713,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Hayley Gene Penner",
+          "url": "https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203999,
+      "name": "Like Me",
+      "url": "https://open.spotify.com/track/6P8IIwWWumTQxfSrY5Ybv7"
+    },
+    {
+      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/55GVOmy6g6oRXIuUklMxnS"
       },
@@ -12580,7 +12742,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 187403,
       "name": "Like The Rain",
       "url": "https://open.spotify.com/track/0qBoobvEvFNnbCzvgtHjM8"
@@ -12646,6 +12808,24 @@
       "duration_ms": 130399,
       "name": "Little Bull Of Blithe",
       "url": "https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI"
+    },
+    {
+      "album": {
+        "name": "What Hasn't Killed Me",
+        "url": "https://open.spotify.com/album/43uFEhUcvRx1niAD3whHZK"
+      },
+      "artists": [
+        {
+          "name": "Rachel Cousins",
+          "url": "https://open.spotify.com/artist/7DpXoKZYGVplF7otoL4gnY"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252338,
+      "name": "Little Help",
+      "url": "https://open.spotify.com/track/55Gj1Jn2NbSugAhzLudq9F"
     },
     {
       "album": {
@@ -13024,7 +13204,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 237134,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN"
@@ -14092,7 +14272,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 264400,
       "name": "Missionary Bell",
       "url": "https://open.spotify.com/track/1GluuaWtdcXDlqLDJxVdWf"
@@ -15344,7 +15524,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 193058,
       "name": "Not There Yet",
       "url": "https://open.spotify.com/track/0ONF1pX2bhclWj3QfKP0zH"
@@ -17292,7 +17472,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 229070,
       "name": "Quicksand",
       "url": "https://open.spotify.com/track/0GI6G8PlaUs1orX7nSKoBv"
@@ -17350,6 +17530,24 @@
       "duration_ms": 142693,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/36MNQV3Kw7wL3VKZIPsaVl"
+    },
+    {
+      "album": {
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/1WEnvdNxVjDqorcoBBOIdt"
+      },
+      "artists": [
+        {
+          "name": "Laura Lucas",
+          "url": "https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201560,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/5sUWvTviBP5hxYeRmEnSog"
     },
     {
       "album": {
@@ -17748,7 +17946,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 205959,
       "name": "River Run (with Lila Dupont)",
       "url": "https://open.spotify.com/track/6BmtSb8Oz1zMEm6seCKLES"
@@ -22471,6 +22669,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Hunter Metts",
+          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/5Eionir5dOajqqJmmJHOWM"
+    },
+    {
+      "album": {
         "name": "In Lieu Of Light",
         "url": "https://open.spotify.com/album/66JVLeQWGThPRRWa20xJ4Z"
       },
@@ -24305,6 +24521,24 @@
     },
     {
       "album": {
+        "name": "Why'd You Have To Bring Me Flowers",
+        "url": "https://open.spotify.com/album/6HoiyRU8htmd6UdeBEYoWr"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244869,
+      "name": "Why\u2019d You Have To Bring Me Flowers",
+      "url": "https://open.spotify.com/track/7viO1UnkLczY52y7OubgwH"
+    },
+    {
+      "album": {
         "name": "Wild and Clear and Blue",
         "url": "https://open.spotify.com/album/2AAAjeTyO8T9juLBOKsCaV"
       },
@@ -24570,7 +24804,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 218025,
       "name": "Wolves of Worry",
       "url": "https://open.spotify.com/track/22LyAuD1vzB0sjJWDSYq3I"
@@ -25166,7 +25400,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 160000,
       "name": "Young",
       "url": "https://open.spotify.com/track/2rtVUuN6Mwujm9YcJ03ITe"

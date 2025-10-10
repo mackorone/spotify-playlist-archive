@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Australia.
 
-2,097 songs - 4 day 15 hr 40 min
+2,098 songs - 4 day 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1142,13 +1142,14 @@
 | [Make Believe](https://open.spotify.com/track/7IoTUnyyvbMEY2UuE2Tmsx) | [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Make Believe](https://open.spotify.com/album/0WsYBIIe88Cbqs6QpwYqMy) | 3:05 | 2025-09-02 | 2025-09-11 |
 | [Make Me Feel](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Make Me Feel](https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva) | 3:06 | 2025-07-08 |  |
 | [Make Me Feel](https://open.spotify.com/track/4ar5kJ4FvZk1GmVI5LgP1G) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Make Me Feel](https://open.spotify.com/album/7yGhkXjHJP3XeGVnUJGcNs) | 3:06 | 2025-07-19 | 2025-07-22 |
-| [Make Me Feel x No Broke Boys](https://open.spotify.com/track/4KaxL1Q2s5jC8cHO3AprSc) | [JIMRO!](https://open.spotify.com/artist/059WsG6s8SUZbHqdpbm4Vt) | [Make Me Feel x No Broke Boys](https://open.spotify.com/album/3EO8KRFzy40FOVhKgB1YAn) | 2:36 | 2025-10-06 |  |
+| [Make Me Feel x No Broke Boys](https://open.spotify.com/track/4KaxL1Q2s5jC8cHO3AprSc) | [JIMRO!](https://open.spotify.com/artist/059WsG6s8SUZbHqdpbm4Vt) | [Make Me Feel x No Broke Boys](https://open.spotify.com/album/3EO8KRFzy40FOVhKgB1YAn) | 2:36 | 2025-10-06 | 2025-10-10 |
 | [Make Me Feel x No Broke Boys](https://open.spotify.com/track/5SFk8tiNu9ByNOSN9QjCrV) | [JIMRO!](https://open.spotify.com/artist/059WsG6s8SUZbHqdpbm4Vt) | [Make Me Feel x No Broke Boys](https://open.spotify.com/album/0jFHRAiyHPyZj7Tshx7Zlu) | 2:36 | 2025-10-02 | 2025-10-04 |
+| [Make Me Feel x No Broke Boys](https://open.spotify.com/track/7Cor4bFS41YjczbjxjB5pp) | [JIMRO!](https://open.spotify.com/artist/059WsG6s8SUZbHqdpbm4Vt) | [Make Me Feel x No Broke Boys](https://open.spotify.com/album/1xv3VoE6qtwr1RO6ZAh42K) | 2:36 | 2025-10-09 |  |
 | [Make Me Feel x No Broke Boys](https://open.spotify.com/track/17fjllWtj69c8CEIOA84tv) | [JIMRO!](https://open.spotify.com/artist/059WsG6s8SUZbHqdpbm4Vt) | [Make Me Feel x No Broke Boys](https://open.spotify.com/album/6qtiEaifkEr1bJyH751539) | 2:36 | 2025-10-03 | 2025-10-07 |
 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-02-27 | 2024-03-27 |
 | [Makeup](https://open.spotify.com/track/0QcFXTu9pidTznJ2LAm9EV) | [The Bends](https://open.spotify.com/artist/2xBejdNon0VS3Egq8he7sb) | [Makeup](https://open.spotify.com/album/0iJjpNqjN7Ha0SoFFBBmSL) | 3:58 | 2025-06-08 | 2025-06-11 |
 | [Makeup](https://open.spotify.com/track/6byukcmVQRSNHaC10OmP2J) | [The Bends](https://open.spotify.com/artist/2xBejdNon0VS3Egq8he7sb) | [Makeup](https://open.spotify.com/album/0M4C80GGpXefAmgu5P6hHc) | 3:58 | 2025-06-06 | 2025-06-09 |
-| [Making Love to Morgan Wallen](https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Making Love to Morgan Wallen](https://open.spotify.com/album/5gnSTqbBS89Ekjl6urNeyM) | 4:09 | 2025-09-30 | 2025-10-09 |
+| [Making Love to Morgan Wallen](https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Making Love to Morgan Wallen](https://open.spotify.com/album/5gnSTqbBS89Ekjl6urNeyM) | 4:09 | 2025-09-30 |  |
 | [Malicious Intentions](https://open.spotify.com/track/6scm1j3DHw8v3fQruA9q47) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Malicious Intentions](https://open.spotify.com/album/08yh5bvPQmWiBlLhFmk3ht) | 2:28 | 2024-05-07 | 2024-05-29 |
 | [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 | 2025-07-23 | 2025-08-13 |
 | [maman](https://open.spotify.com/track/1FsIoCTWHx6lB0f3PgYdtz) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [solo](https://open.spotify.com/album/5vgGQQEXOhWB8On731hF6f) | 3:00 | 2025-05-22 | 2025-05-26 |
@@ -1998,7 +1999,7 @@
 | [Whateverrrr](https://open.spotify.com/track/7rmqj2wCUD7rmeFLrcEfNC) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [If That Makes Sense](https://open.spotify.com/album/7G31WimJFKHnf53ZwtKUXn) | 2:58 | 2025-05-27 | 2025-06-04 |
 | [When Did You Get Hot?](https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:25 | 2025-09-16 | 2025-10-08 |
 | [Where Have You Been](https://open.spotify.com/track/2OyestNLBmdbsQJaL9qaVG) | [REESE](https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX) | [Where Have You Been](https://open.spotify.com/album/1JRNByaZGAA9yrLNXfUKJx) | 2:50 | 2025-02-06 | 2025-02-26 |
-| [Where Have You Been \(Orchestra\)](https://open.spotify.com/track/38iBHhjHpRTkIlAW9IeAdZ) | [Lune](https://open.spotify.com/artist/3qEhZ01Vx3Xk4LBYgguKbm) | [Where Have You Been \(Orchestra\)](https://open.spotify.com/album/6slpuFZJr3nKxrCNUugbs0) | 2:51 | 2025-10-08 |  |
+| [Where Have You Been \(Orchestra\)](https://open.spotify.com/track/38iBHhjHpRTkIlAW9IeAdZ) | [Lune](https://open.spotify.com/artist/3qEhZ01Vx3Xk4LBYgguKbm) | [Where Have You Been \(Orchestra\)](https://open.spotify.com/album/6slpuFZJr3nKxrCNUugbs0) | 2:51 | 2025-10-08 | 2025-10-10 |
 | [Where Have You Been \- Orchestra Remix](https://open.spotify.com/track/4e6PHrCEwkv6d88ZxaTlzb) | [DJ Drinks On Me](https://open.spotify.com/artist/7LB1ut30XdS4cqNDB6zLIr) | [Where Have You Been \(Orchestra Remix\)](https://open.spotify.com/album/0Zdfg8LuVIZnzkVxUnHBGz) | 1:17 | 2025-10-07 | 2025-10-09 |
 | [Where Have You Been x No Pole](https://open.spotify.com/track/0J9TOkdVSaA8guqoyonzaG) | [rudo made it](https://open.spotify.com/artist/4s1daaBZCLDMnUnotScT4o), [COSKO](https://open.spotify.com/artist/7t3YFKpeacrZFTs7vhdJBi) | [Where Have You Been x No Pole](https://open.spotify.com/album/0wy5vOHyQQapyXiHz1dYXt) | 2:33 | 2025-09-14 | 2025-10-08 |
 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 | 2025-10-07 |  |

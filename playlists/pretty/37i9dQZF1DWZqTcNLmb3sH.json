@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kantara : Chapter 1",
-  "num_followers": 64712,
+  "num_followers": 64739,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACmkboQavVm8dUriKEU+aFFu4zeD",
+  "snapshot_id": "AAAAANmPgmGsB/RhYNytIPNtjf7Of7Wz",
   "tracks": [
     {
       "added_at": "2025-10-01 12:21:19",
@@ -107,6 +107,34 @@
       "duration_ms": 243106,
       "name": "Gangi Gangi (From \"BRAT\")",
       "url": "https://open.spotify.com/track/78cKhSLtX5GnyU85HuRPV1"
+    },
+    {
+      "added_at": "2025-10-09 11:00:41",
+      "album": {
+        "name": "Varnamaale (From \"Gatha Vaibhava\") - KANNADA",
+        "url": "https://open.spotify.com/album/0rCN9IVj8xlrzJQ6CmNaoJ"
+      },
+      "artists": [
+        {
+          "name": "Abhinandan Mahishale",
+          "url": "https://open.spotify.com/artist/11w66sb6c5vljMpHqM4cyq"
+        },
+        {
+          "name": "Sunidhi Ganesh",
+          "url": "https://open.spotify.com/artist/3PPHt5iBZRfDNbiy6saH7K"
+        },
+        {
+          "name": "Judah Sandhy",
+          "url": "https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V"
+        },
+        {
+          "name": "Simple Suni",
+          "url": "https://open.spotify.com/artist/2FOfBMh8JQNVyKGc3lJKrJ"
+        }
+      ],
+      "duration_ms": 220194,
+      "name": "Varnamaale (From \"Gatha Vaibhava\")",
+      "url": "https://open.spotify.com/track/7g3soAQgXhZUcnrSoRIeQX"
     },
     {
       "added_at": "2025-10-07 11:24:23",
@@ -1203,30 +1231,6 @@
       "duration_ms": 259555,
       "name": "Idre Nemdiyaag Irbek (From \"The Devil\")",
       "url": "https://open.spotify.com/track/37Osh2nQin0uMMBAGo06xG"
-    },
-    {
-      "added_at": "2025-08-27 04:35:00",
-      "album": {
-        "name": "Yaav Kadege Kathe (From \"The Girlfriend\")",
-        "url": "https://open.spotify.com/album/0uuG8guaMiTdWlajJkhE4Q"
-      },
-      "artists": [
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        },
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        },
-        {
-          "name": "Nagarjun Sharma",
-          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
-        }
-      ],
-      "duration_ms": 276150,
-      "name": "Yaav Kadege Kathe (From \"The Girlfriend\")",
-      "url": "https://open.spotify.com/track/1pFWqywqDtcUWXnJeQN399"
     }
   ],
   "unique_name": "Latest Kannada",

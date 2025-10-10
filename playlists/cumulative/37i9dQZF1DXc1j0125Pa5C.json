@@ -2760,7 +2760,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 393810,
       "name": "Meiguice Descarada / Hoje Tem Samba / N\u00e3o Sou Mais Disso",
       "url": "https://open.spotify.com/track/4g6AgFJUQktPGnXGf7hWSI"
@@ -3827,6 +3827,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Nossa Galera",
+          "url": "https://open.spotify.com/artist/29UB7qJmmqTB1baPqIWaYY"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406845,
+      "name": "Pra N\u00e3o pensar em Voc\u00ea / Ela \u00e9 Demais / Dormi na Pra\u00e7a / S\u00f3 Pensando em Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/4z1sfZeDgQXvih2UhXyiQ0"
+    },
+    {
+      "album": {
         "name": "Pra Ser Feliz / Joguei a Toalha (Ao Vivo)",
         "url": "https://open.spotify.com/album/1pXdJyT1hbXp71lN0gsUtJ"
       },
@@ -4388,7 +4406,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 240525,
       "name": "Sem Voc\u00ea / Porque Te amo - Ao Vivo",
       "url": "https://open.spotify.com/track/1IJ3bXiFiazdPspA6nxQTz"
@@ -5378,6 +5396,28 @@
       "duration_ms": 302940,
       "name": "Vida Que Segue / Valeu Pra Aprender - Ao Vivo",
       "url": "https://open.spotify.com/track/3JV6G6HTIis796WXhAw91j"
+    },
+    {
+      "album": {
+        "name": "Resenha In Sigilo",
+        "url": "https://open.spotify.com/album/7IXGyJlVfjLEpBZnuNQSyo"
+      },
+      "artists": [
+        {
+          "name": "No Sigilo",
+          "url": "https://open.spotify.com/artist/7qF1moAMf0TrBrL2eaKgwA"
+        },
+        {
+          "name": "Pagode do Adame",
+          "url": "https://open.spotify.com/artist/4GrG809bkgPIchC0oGU1Z0"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194703,
+      "name": "Vinhos E Lingeries / Depois Da Briga",
+      "url": "https://open.spotify.com/track/4BV2Jk6p2UGMPEsm0o0qS7"
     },
     {
       "album": {

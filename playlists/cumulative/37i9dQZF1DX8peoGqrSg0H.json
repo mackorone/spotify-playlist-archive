@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: MXFRUIT",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: KimGun",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -1035,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "Corset",
+        "url": "https://open.spotify.com/album/1FKPEFCBY1odsn2pkD5mMO"
+      },
+      "artists": [
+        {
+          "name": "Samui",
+          "url": "https://open.spotify.com/artist/6vBTnsVSqsI91mIEqUSL96"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188727,
+      "name": "Corset",
+      "url": "https://open.spotify.com/track/1ZSD2lmLRCRZF8mLAaTNbJ"
+    },
+    {
+      "album": {
         "name": "Crush on Me!",
         "url": "https://open.spotify.com/album/4wOHpwZntpunD9XKya6l6K"
       },
@@ -1252,6 +1270,24 @@
       "duration_ms": 247898,
       "name": "Expire",
       "url": "https://open.spotify.com/track/7oliYDhzo6s3QtwYpQMoRH"
+    },
+    {
+      "album": {
+        "name": "FAKE NEWS (\u0e2b\u0e30 \u0e2d\u0e30\u0e44\u0e23\u0e19\u0e30\u0e04\u0e30?)",
+        "url": "https://open.spotify.com/album/4Z0RmooEv7EDEDv97WABCC"
+      },
+      "artists": [
+        {
+          "name": "Benzkhaokhwan",
+          "url": "https://open.spotify.com/artist/7yH4XTziOEA3lmES4RExCy"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176548,
+      "name": "FAKE NEWS (\u0e2b\u0e30 \u0e2d\u0e30\u0e44\u0e23\u0e19\u0e30\u0e04\u0e30?)",
+      "url": "https://open.spotify.com/track/1SnCcjLCMnK0Gyw9gjn3eB"
     },
     {
       "album": {
@@ -1612,6 +1648,28 @@
       "duration_ms": 189948,
       "name": "HI YA YA (\u0e41\u0e04\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d)",
       "url": "https://open.spotify.com/track/45Byir0bemNjJFxHLx8Lir"
+    },
+    {
+      "album": {
+        "name": "Hip Chain",
+        "url": "https://open.spotify.com/album/0joHpveH6ZB71XZeRBHrm6"
+      },
+      "artists": [
+        {
+          "name": "SYR3N",
+          "url": "https://open.spotify.com/artist/0he3XooTiXbx2EkVCbLZ6V"
+        },
+        {
+          "name": "BNK48",
+          "url": "https://open.spotify.com/artist/0A7q0U0IEdNOHWnQpMRQdD"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218125,
+      "name": "Hip Chain",
+      "url": "https://open.spotify.com/track/4vwJnfsN2mwrdGyqefuYbK"
     },
     {
       "album": {
@@ -4004,6 +4062,24 @@
       "duration_ms": 214285,
       "name": "wanna be yours (\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01)",
       "url": "https://open.spotify.com/track/2PP99Q3WvAlEongTB8PlLS"
+    },
+    {
+      "album": {
+        "name": "WANT IT NOW",
+        "url": "https://open.spotify.com/album/6Y9PckHtG0j12ZbO564iMY"
+      },
+      "artists": [
+        {
+          "name": "CIR*CRL",
+          "url": "https://open.spotify.com/artist/5QoCHy2Npdzy9xuAkpoczL"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207515,
+      "name": "WANT IT NOW",
+      "url": "https://open.spotify.com/track/2O6duQLOzI7q3KF5X2JVkK"
     },
     {
       "album": {
@@ -6644,7 +6720,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 170833,
       "name": "\u0e15\u0e25\u0e01\u0e23\u0e49\u0e32\u0e22 (Bad Comedy)",
       "url": "https://open.spotify.com/track/2lkLuNr0EStdud0Hxxt55L"
@@ -8088,7 +8164,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 259285,
       "name": "\u0e1d\u0e32\u0e01\u0e43\u0e08",
       "url": "https://open.spotify.com/track/0WmHAw7c5LppZdca1amE6f"
@@ -9791,6 +9867,24 @@
     },
     {
       "album": {
+        "name": "\u0e25\u0e39\u0e01\u0e04\u0e38\u0e13\u0e1b\u0e49\u0e32 (Dear Auntie)",
+        "url": "https://open.spotify.com/album/3oHmTwXN2TWviyJY4lr6VH"
+      },
+      "artists": [
+        {
+          "name": "ily",
+          "url": "https://open.spotify.com/artist/5q4T1AsSVEUkeglFsIAvre"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150620,
+      "name": "\u0e25\u0e39\u0e01\u0e04\u0e38\u0e13\u0e1b\u0e49\u0e32 (Dear Auntie)",
+      "url": "https://open.spotify.com/track/2OVqm283mBYdUYA2syCnRx"
+    },
+    {
+      "album": {
         "name": "\u0e25\u0e49\u0e19 (Overload)",
         "url": "https://open.spotify.com/album/50GNBFiyYpDoPgjGvVihYp"
       },
@@ -10554,10 +10648,28 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 280434,
       "name": "\u0e2b\u0e22\u0e38\u0e14\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/25fT6Vb2RXblQ47z0QeKg2"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e25\u0e07\u0e44\u0e1b\u0e2d\u0e48\u0e32\u0e19\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/0S0mtMTCIo1MivxtrdakDa"
+      },
+      "artists": [
+        {
+          "name": "BELL WARISARA",
+          "url": "https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226199,
+      "name": "\u0e2b\u0e25\u0e07\u0e44\u0e1b\u0e2d\u0e48\u0e32\u0e19\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/6kt7r80WcQ3V6tpmp59shJ"
     },
     {
       "album": {
@@ -10612,6 +10724,24 @@
       "duration_ms": 170217,
       "name": "\u0e2b\u0e25\u0e31\u0e1a\u0e44\u0e21\u0e48\u0e1d\u0e31\u0e19 (Sleep Tight)",
       "url": "https://open.spotify.com/track/3Zm6ydHdqWKx4PkqMOddIq"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e25\u0e48\u0e19 (Faded)",
+        "url": "https://open.spotify.com/album/1fAuGPKljtvREJTpeGwCfx"
+      },
+      "artists": [
+        {
+          "name": "PUN",
+          "url": "https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193777,
+      "name": "\u0e2b\u0e25\u0e48\u0e19 (Faded)",
+      "url": "https://open.spotify.com/track/4c17U06F2ngjTOF5z70Yyy"
     },
     {
       "album": {
@@ -10794,7 +10924,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 193000,
       "name": "\u0e2b\u0e49\u0e32\u0e21\u0e02\u0e22\u0e31\u0e1a\u0e08\u0e31\u0e1a\u0e19\u0e30 (FREEZE)",
       "url": "https://open.spotify.com/track/5NYqpEONWzzHhM6hAj63W1"
@@ -11790,7 +11920,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 175271,
       "name": "\u0e40\u0e17\u0e2b\u0e21\u0e14\u0e2b\u0e19\u0e49\u0e32\u0e15\u0e31\u0e01 (All In)",
       "url": "https://open.spotify.com/track/20RR8TQr1SsZ2XYoCVoI0E"
@@ -13364,7 +13494,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 187000,
       "name": "\u0e41\u0e1f\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e43\u0e01\u0e25\u0e49\u0e09\u0e31\u0e19 (Fan Mhai Klai Chan)",
       "url": "https://open.spotify.com/track/0lL6ht9EnWBwaPekWUA81A"
@@ -13952,7 +14082,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 206700,
       "name": "\u0e44\u0e21\u0e48\u0e01\u0e25\u0e31\u0e1a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49\u0e08\u0e30\u0e01\u0e25\u0e31\u0e1a\u0e15\u0e2d\u0e19\u0e44\u0e2b\u0e19 (then when?)",
       "url": "https://open.spotify.com/track/1EQO6lRDsuZ93nhVAk7B5H"

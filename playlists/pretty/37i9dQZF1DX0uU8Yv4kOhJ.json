@@ -1,6 +1,6 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 132471,
+  "num_followers": 132482,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Charango Peruano",
-        "url": "https://open.spotify.com/album/4HVoQalB9EVdBsbeOt4Wxx"
-      },
-      "artists": [
-        {
-          "name": "Jaime Guardia",
-          "url": "https://open.spotify.com/artist/3AxPEg0Jy5U5GvgEHsI43X"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "Munaspaqa Suyaykuway",
-      "url": "https://open.spotify.com/track/0RiWhE2d4F8QMKcorZsDh9"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Isqun",
         "url": "https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 202008,
       "name": "Francisca Pizarro",
       "url": "https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Charango Peruano",
+        "url": "https://open.spotify.com/album/4HVoQalB9EVdBsbeOt4Wxx"
+      },
+      "artists": [
+        {
+          "name": "Jaime Guardia",
+          "url": "https://open.spotify.com/artist/3AxPEg0Jy5U5GvgEHsI43X"
+        }
+      ],
+      "duration_ms": 182293,
+      "name": "Munaspaqa Suyaykuway",
+      "url": "https://open.spotify.com/track/0RiWhE2d4F8QMKcorZsDh9"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -339,18 +339,34 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Musica De Bolivia",
-        "url": "https://open.spotify.com/album/1zQG76RRmnIW2CjZPc8lMC"
+        "name": "Viento en los Andes",
+        "url": "https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF"
       },
       "artists": [
         {
-          "name": "Inti Punchai",
-          "url": "https://open.spotify.com/artist/0bw09OCO0e0MlvXxpbDE7r"
+          "name": "Inkaquenas",
+          "url": "https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3"
         }
       ],
-      "duration_ms": 237960,
-      "name": "Tatalitu (Chuntunqui)",
-      "url": "https://open.spotify.com/track/5aCk29xRgtDIMgE8y5gQqD"
+      "duration_ms": 218533,
+      "name": "V\u00edrgenes del Sol",
+      "url": "https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "A Journey To The Andes",
+        "url": "https://open.spotify.com/album/5z3wwXWdl5P7lNsZ1jTS9P"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rico",
+          "url": "https://open.spotify.com/artist/3Q3acE5KCV3k0UdCH7bGhp"
+        }
+      ],
+      "duration_ms": 296560,
+      "name": "Cacharpaya Del Indio",
+      "url": "https://open.spotify.com/track/01faYqKRsEL1LnJa78gkfu"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -387,34 +403,18 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Viento en los Andes",
-        "url": "https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF"
+        "name": "Musica De Bolivia",
+        "url": "https://open.spotify.com/album/1zQG76RRmnIW2CjZPc8lMC"
       },
       "artists": [
         {
-          "name": "Inkaquenas",
-          "url": "https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3"
+          "name": "Inti Punchai",
+          "url": "https://open.spotify.com/artist/0bw09OCO0e0MlvXxpbDE7r"
         }
       ],
-      "duration_ms": 218533,
-      "name": "V\u00edrgenes del Sol",
-      "url": "https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "A Journey To The Andes",
-        "url": "https://open.spotify.com/album/5z3wwXWdl5P7lNsZ1jTS9P"
-      },
-      "artists": [
-        {
-          "name": "Jorge Rico",
-          "url": "https://open.spotify.com/artist/3Q3acE5KCV3k0UdCH7bGhp"
-        }
-      ],
-      "duration_ms": 296560,
-      "name": "Cacharpaya Del Indio",
-      "url": "https://open.spotify.com/track/01faYqKRsEL1LnJa78gkfu"
+      "duration_ms": 237960,
+      "name": "Tatalitu (Chuntunqui)",
+      "url": "https://open.spotify.com/track/5aCk29xRgtDIMgE8y5gQqD"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Qam Hina",
-        "url": "https://open.spotify.com/album/4iRMmNgcj155HZInt8BXxK"
+        "name": "Reci\u00e9n He Llegado Vidita (Recopilaci\u00f3n Leda Valladares)",
+        "url": "https://open.spotify.com/album/1fvOENTdXdjYW7ZlRhQdtF"
       },
       "artists": [
         {
-          "name": "Renata Flores",
-          "url": "https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT"
+          "name": "Paloma del Cerro",
+          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
         }
       ],
-      "duration_ms": 247109,
-      "name": "Qam Hina",
-      "url": "https://open.spotify.com/track/4rRgfl70FRS1OYBD29pQa4"
+      "duration_ms": 287626,
+      "name": "Reci\u00e9n He Llegado Vidita (Recopilaci\u00f3n Leda Valladares)",
+      "url": "https://open.spotify.com/track/138v5lV5OhgHugdWB7hHRR"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -787,18 +787,18 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Reci\u00e9n He Llegado Vidita (Recopilaci\u00f3n Leda Valladares)",
-        "url": "https://open.spotify.com/album/1fvOENTdXdjYW7ZlRhQdtF"
+        "name": "Qam Hina",
+        "url": "https://open.spotify.com/album/4iRMmNgcj155HZInt8BXxK"
       },
       "artists": [
         {
-          "name": "Paloma del Cerro",
-          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
+          "name": "Renata Flores",
+          "url": "https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT"
         }
       ],
-      "duration_ms": 287626,
-      "name": "Reci\u00e9n He Llegado Vidita (Recopilaci\u00f3n Leda Valladares)",
-      "url": "https://open.spotify.com/track/138v5lV5OhgHugdWB7hHRR"
+      "duration_ms": 247109,
+      "name": "Qam Hina",
+      "url": "https://open.spotify.com/track/4rRgfl70FRS1OYBD29pQa4"
     },
     {
       "added_at": "2023-09-29 18:58:26",

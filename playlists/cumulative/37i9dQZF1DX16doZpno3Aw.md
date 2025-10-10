@@ -4,7 +4,7 @@
 
 > all the best instrumentals & sounds from the internet  ∼ 🫀
 
-161 songs - 8 hr 0 min
+162 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Quick One Before the Eternal Worm Devours Connecticut](https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 7:52 | 2025-02-27 | 2025-09-24 |
 | [Aesthetic](https://open.spotify.com/track/7IEIHZwwsNKRFyPwCeLSFN) | [Tollan Kim](https://open.spotify.com/artist/78OVjYbRWhttVbxublN6GC) | [Aesthetic](https://open.spotify.com/album/0FglmMdmBaPgLtuVcEfzPE) | 2:13 | 2025-02-27 | 2025-07-04 |
 | [Agape](https://open.spotify.com/track/2IvnDjlgH8yy70Nz99UdcJ) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [If Beale Street Could Talk \(Original Motion Picture Score\)](https://open.spotify.com/album/0fJDCdcog8975mFnYSCKZT) | 2:55 | 2025-02-27 |  |
-| [Aglow](https://open.spotify.com/track/2Bj8qCGyiDFW2I47K7hw9R) | [Karamel Kel](https://open.spotify.com/artist/7DtsCpQjHH2ArmhvszfQNP) | [Aglow](https://open.spotify.com/album/6nDc82Y33xgntUkHzuf9Iu) | 2:06 | 2025-04-23 |  |
+| [Aglow](https://open.spotify.com/track/2Bj8qCGyiDFW2I47K7hw9R) | [Karamel Kel](https://open.spotify.com/artist/7DtsCpQjHH2ArmhvszfQNP) | [Aglow](https://open.spotify.com/album/6nDc82Y33xgntUkHzuf9Iu) | 2:06 | 2025-04-23 | 2025-10-10 |
 | [Aglow \(Intro\) \- Slowed Down Version](https://open.spotify.com/track/4UYHe1WQ3awT8gnk8Ym7Zw) | [Karamel Kel](https://open.spotify.com/artist/7DtsCpQjHH2ArmhvszfQNP) | [Aglow \(Intro\) \[Slowed Down Version\]](https://open.spotify.com/album/4sHF7eL6b31Hs1flXf365Y) | 2:19 | 2025-05-19 |  |
 | [Agony \- Instrumental](https://open.spotify.com/track/6HPmLVvM08mqGfYuUyjcOF) | [Scammacist](https://open.spotify.com/artist/6cMsaDvwIUXtHGQPDbqHvn) | [Agony \(Instrumental\)](https://open.spotify.com/album/6mt70ysyrbOAdJBEDjqfHM) | 5:01 | 2025-05-19 |  |
 | [Alice](https://open.spotify.com/track/6h4yONyGIFXYhrvEX6jVeb) | [Pogo](https://open.spotify.com/artist/1ng3xz2dyz57Z1WpnzM2G7) | [Wonderland](https://open.spotify.com/album/5FwNan9THWocf69tJEsXUv) | 2:44 | 2025-03-14 |  |
@@ -150,6 +150,7 @@
 | [The Beach \(Instrumental\)](https://open.spotify.com/track/7uoHNvn0Owzb1JByUbgYmZ) | [Pheebz](https://open.spotify.com/artist/58ZNzfxAHm1gAwNmox4Gm2) | [The Beach \(Instrumental\)](https://open.spotify.com/album/7KPjiVG2VkmrrkwembwGbj) | 2:01 | 2025-05-19 |  |
 | [The Ellie Badge](https://open.spotify.com/track/33riuTg9aVoiRhHTqm2Qq8) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 1:30 | 2025-08-15 |  |
 | [The End](https://open.spotify.com/track/4A4JPfwz2Wiym25sHSm63N) | [LLow](https://open.spotify.com/artist/4zwj4Z93k8LjJMwaCw5EDh) | [The End](https://open.spotify.com/album/3kuwABiln5LHd6eVoZUanF) | 2:05 | 2025-04-23 | 2025-07-11 |
+| [The Great Gig in the Sky](https://open.spotify.com/track/2TjdnqlpwOjhijHCwHCP2d) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 4:43 | 2025-10-09 |  |
 | [The Last of Us](https://open.spotify.com/track/4unEKanhrUiSOMqja8Euw5) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:07 | 2025-04-24 | 2025-07-04 |
 | [The Second Waltz, Op\. 99a](https://open.spotify.com/track/5W7NJWEW3mPzlePNrrn4Xb) | [Dmitri Shostakovich](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA), [André Rieu](https://open.spotify.com/artist/3hJv5p2HwekJysNB2NDnEC), [Johann Strauss Orchestra](https://open.spotify.com/artist/51HxUAjeZIOv4aniusaDkT) | [Strauss & Co](https://open.spotify.com/album/1CTMKJTAlF2rrHKoKa15gF) | 3:40 | 2025-02-27 | 2025-09-24 |
 | [The Theme from "A Summer Place"](https://open.spotify.com/track/6zwvB879PJSpTyFcg2wwnL) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [16 Most Requested Songs](https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi) | 2:22 | 2025-02-27 |  |

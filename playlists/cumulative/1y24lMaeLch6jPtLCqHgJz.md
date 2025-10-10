@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-442 songs - 22 hr 12 min
+443 songs - 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Create Yourself](https://open.spotify.com/track/6CRWCIKP9h5WW1DTtkwDY3) | [Oskah](https://open.spotify.com/artist/5z6X6OuE2HnFQY18w3ephk) | [Create Yourself](https://open.spotify.com/album/0YtqJ0tbevIZfhS7mHC8Kk) | 2:54 | 2023-08-11 | 2024-09-28 |
 | [Crystal Clear](https://open.spotify.com/track/5x6klKhKveWNJvg4n9iWPZ) | [Diegx](https://open.spotify.com/artist/3fg2lGUSz1TZ0kYI18fIKU), [Joffrey Lorquet](https://open.spotify.com/artist/2Qb0DQVMfYEGI2kUO9EvKR), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8), [Anthony Meyer](https://open.spotify.com/artist/1vy2gxHoaHJhUQgQaJjHKh) | [Crystal Clear](https://open.spotify.com/album/1m37XnUy8Rv0VKiSa05Xcj) | 3:44 | 2022-07-29 | 2022-09-10 |
 | [Curura](https://open.spotify.com/track/2qrEyfQgY9KsKx7haqzo5S) | [Wolfpack](https://open.spotify.com/artist/74ycentHh1YZrW5x4PLnox), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [DJ Junior \(TW\)](https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh) | [Curura](https://open.spotify.com/album/5ownYiFYYBZXWGQJ4txRKf) | 2:22 | 2023-08-21 | 2023-10-14 |
+| [D.O.M.](https://open.spotify.com/track/2ra6kEjaiOJ9SG3z4siPc9) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [D.O.M.](https://open.spotify.com/album/5vvA0gQmuiPMZXkvhtAtMP) | 2:23 | 2025-10-09 |  |
 | [D.O.M\. \- Bubbling Mix](https://open.spotify.com/track/3tFG2m9G26DLChleU4aWHR) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [D.O.M.](https://open.spotify.com/album/5vvA0gQmuiPMZXkvhtAtMP) | 2:23 | 2025-09-25 | 2025-10-09 |
 | [Damaru](https://open.spotify.com/track/0phauLON2YMdn7EJBxy22K) | [Diego Miranda](https://open.spotify.com/artist/58La32UtamIpPg8Ajm6FE6), [Mëlbëc](https://open.spotify.com/artist/1sheUnPKG2ZarLC6f1MstP) | [Damaru](https://open.spotify.com/album/4H89g4DpPpX9lxxkjLCsIZ) | 3:31 | 2024-10-22 | 2024-11-30 |
 | [Dance All Night](https://open.spotify.com/track/6xfQjv4RvP5DVaxYYZCRTV) | [Jeckyll & Hyde](https://open.spotify.com/artist/4rBAiM4X8nQq5r8XkW4CM1) | [Dance All Night](https://open.spotify.com/album/1NZMme5AXFMvl8lxsbwPk6) | 2:46 | 2024-03-29 | 2024-05-11 |

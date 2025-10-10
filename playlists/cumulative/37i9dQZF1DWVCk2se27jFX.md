@@ -2,9 +2,9 @@
 
 ### [Indie Colombia](https://open.spotify.com/playlist/37i9dQZF1DWVCk2se27jFX)
 
-> ¡Las propuestas independientes que marcan el sonido de Colombia! Foto: Oh'laville
+> ¡Las propuestas independientes que marcan el sonido de Colombia! Foto: Margarita Siempre Viva
 
-151 songs - 9 hr 11 min
+152 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,11 +118,12 @@
 | [Nómada](https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Nómada](https://open.spotify.com/album/4tUaCFfhnftL5Eg6li46K6) | 4:47 | 2023-09-25 |  |
 | [Nómada](https://open.spotify.com/track/6Wrhk7QBtj8q1fKB6QTVX8) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Nómada](https://open.spotify.com/album/0MUi6hTyoZHMH5iFe7eynb) | 4:47 | 2023-10-07 | 2024-04-19 |
 | [Odebrecht](https://open.spotify.com/track/4xUO5mZzFCqrjCCIGW17Gk) | [Aguas Ardientes](https://open.spotify.com/artist/1eAywdgupRbvrEXW2PCzAc) | [Odebrecht](https://open.spotify.com/album/3kaM5FLz3mOlYKtjZnjBFs) | 3:57 | 2023-09-25 |  |
+| [Ojos de Fuego](https://open.spotify.com/track/1aRh3XyBcKOv9UlvNXq3Qn) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [El Principio](https://open.spotify.com/album/0ShhKUxpL3ZWQJJpN2gHW1) | 3:11 | 2025-10-09 |  |
 | [paseo en carro a la costa](https://open.spotify.com/track/31R22n6xtllkynO6SVWayS) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Paseo En Carro A La Costa](https://open.spotify.com/album/3QokOGS56AylJxy7sYmcGo) | 4:18 | 2023-09-25 |  |
 | [Piel](https://open.spotify.com/track/2Ak8AtgLD5XVH9MM8TEbBr) | [Sebastián Silva](https://open.spotify.com/artist/2y6RIOPS6ABYXhQ7kWugMu) | [Piel](https://open.spotify.com/album/1LYJicG4kuAtOxBM0C1rIy) | 3:32 | 2023-09-25 |  |
 | [Piensas en mi // Pienso en ti \(feat\. Fede Marín\)](https://open.spotify.com/track/1j9jL7UpWFYruhhKUnw2Xg) | [Chamo](https://open.spotify.com/artist/5WpP6hj7KfBJVId206LBwH), [Fede Marín](https://open.spotify.com/artist/7xZeHcOXvNdbt1z4n63z3m) | [Piensas en mi // Pienso en ti \(feat\. Fede Marín\)](https://open.spotify.com/album/4DQ6qP1hZ8tOh2PMmuyyEu) | 2:40 | 2023-09-25 |  |
 | [Professional Coffee Drinker](https://open.spotify.com/track/4C1PCMPyGHRdwLsp3rFv4C) | [The Riverman](https://open.spotify.com/artist/2mh5dGS6AWdga9P6tTcwKe), [Ana Naranja](https://open.spotify.com/artist/2nTGMPHzQvrJKH2j1LSQiq), [Charlie Atomic](https://open.spotify.com/artist/5omIhK9kyWmjJjTVQfcfoZ) | [Professional Coffee Drinker](https://open.spotify.com/album/3LMbEpI7ANy5EgGcf5pa5I) | 3:47 | 2023-09-25 | 2025-03-15 |
-| [Que Nada Te Detenga](https://open.spotify.com/track/2XwtaDpOjXTJkNpMswXa1y) | [La Mano de Parisi](https://open.spotify.com/artist/25pWWTQi2PP1Gbtz7RNmN2) | [Que Nada Te Detenga](https://open.spotify.com/album/35Z5mT6T88vaSdDFlb4JTH) | 3:51 | 2023-09-25 |  |
+| [Que Nada Te Detenga](https://open.spotify.com/track/2XwtaDpOjXTJkNpMswXa1y) | [La Mano de Parisi](https://open.spotify.com/artist/25pWWTQi2PP1Gbtz7RNmN2) | [Que Nada Te Detenga](https://open.spotify.com/album/35Z5mT6T88vaSdDFlb4JTH) | 3:51 | 2023-09-25 | 2025-10-10 |
 | [Quiero Verte Así](https://open.spotify.com/track/1i9wjyXgsdGFbY8ZeRaThL) | [Pablo Trujillo](https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb), [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Quiero Verte Así](https://open.spotify.com/album/1IOjKmdCCz7Ci6ZRnv2b3j) | 3:04 | 2023-09-25 |  |
 | [Quizás](https://open.spotify.com/track/5Ngde5wQSWBf4CB76Uvugo) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Fin De Los Tiempos](https://open.spotify.com/album/1sAIlus0nePmPgjEGJkqSL) | 3:54 | 2024-04-12 |  |
 | [Radar \(Nuevo Sentimiento\)](https://open.spotify.com/track/4IGi4Cud7yc3OxYTbcWlt9) | [Pablo Trujillo](https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb) | [Ya Me Cansé De La Industria](https://open.spotify.com/album/34fMrlyLWMtP9Ba2zaDhGo) | 4:20 | 2023-09-25 |  |

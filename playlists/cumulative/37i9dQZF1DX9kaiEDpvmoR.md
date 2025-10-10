@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-449 songs - 1 day 2 hr 12 min
+451 songs - 1 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Balladen om Joe Hill](https://open.spotify.com/track/17fA4aBflCSjovdCUPMvG7) | [Love Antell](https://open.spotify.com/artist/1NsCBCpJLNQstRoKr4oS0G) | [Balladen om Joe Hill](https://open.spotify.com/album/2H8Yypx0nDNWLYnRZhNdig) | 3:16 | 2025-04-24 | 2025-06-06 |
 | [Bar Thinking](https://open.spotify.com/track/2nJfr4oazvlWLoeNYZWQhD) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Bar Thinking](https://open.spotify.com/album/6JCtqw85DgIoIhu7xqA90c) | 3:05 | 2024-06-27 | 2024-08-30 |
 | [Bara vara mig själv](https://open.spotify.com/track/2FZ3LanaveWTMf2aWaMnpy) | [Lisa Miskovsky](https://open.spotify.com/artist/5J0dXmqEYctfFsmcakqZFH) | [Eljest](https://open.spotify.com/album/3D0jMkMGAaZ7AbPnYr4tJG) | 4:06 | 2025-03-10 | 2025-06-06 |
-| [Beautiful Things](https://open.spotify.com/track/7yteHACWU1wnAle5GqzMbx) | [Dad Harmony](https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX) | [Beautiful Things](https://open.spotify.com/album/1roKvLZQqtzpvxiuEA5jMt) | 3:12 | 2025-04-10 |  |
+| [Beautiful Things](https://open.spotify.com/track/7yteHACWU1wnAle5GqzMbx) | [Dad Harmony](https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX) | [Beautiful Things](https://open.spotify.com/album/1roKvLZQqtzpvxiuEA5jMt) | 3:12 | 2025-04-10 | 2025-10-10 |
 | [Benjamin \- From the TV series 'Etter Benjamin'](https://open.spotify.com/track/6qMI1g2TrI8YkybFCBnmwM) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Benjamin \(From the TV series 'Etter Benjamin'\)](https://open.spotify.com/album/2fpkbXE7GnDltvI6m4AJZX) | 3:20 | 2025-09-25 |  |
 | [Bermuda Triangle](https://open.spotify.com/track/3VfcwjlkUMqbXlJlXpWr5u) | [Lexi Berg](https://open.spotify.com/artist/5ZN5AAuWmyLdheRP0rE7dK) | [Bermuda Triangle](https://open.spotify.com/album/1SaesdaWRe58QoVxuNqy5z) | 3:20 | 2024-09-19 | 2024-10-15 |
 | [Besvärjelse \(jag kommer älska dig då\)](https://open.spotify.com/track/0V5IP7tHiJXpyWRsSV5GAX) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Lånat](https://open.spotify.com/album/1pKWyplKpbYHNw1Xdu003A) | 4:17 | 2025-06-05 |  |
@@ -125,7 +125,7 @@
 | [Fait Accompli](https://open.spotify.com/track/1UOcJZoRbbYwC874JFZo0f) | [Mariette](https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns) | [Fait Accompli](https://open.spotify.com/album/4T8T9Kx1tC96ltSpDzeyYt) | 2:56 | 2025-05-29 | 2025-06-13 |
 | [Faithless](https://open.spotify.com/track/6UuDamBC3Jd5786vcXUPr4) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Faithless](https://open.spotify.com/album/0d8swHQ9ch1mzuwKUHOBjj) | 3:51 | 2025-05-01 | 2025-09-22 |
 | [Fan för dig](https://open.spotify.com/track/0oYRtSnrvzyVcPEFgRkhUg) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70), [Caroline](https://open.spotify.com/artist/0lAH0mtuoDPBLteml8XHKe) | [Fan för dig](https://open.spotify.com/album/32I93ksL4dC1ibI8mpYask) | 2:46 | 2024-10-24 | 2025-05-02 |
-| [Far](https://open.spotify.com/track/4wMH1Ic4taDwbqQGUNdGON) | [Fredrik Lundman](https://open.spotify.com/artist/6wAyoT7d2NrEWUcG2IbN23) | [Far](https://open.spotify.com/album/5lLRHsgpLXK7m7xhCMMZ0C) | 3:59 | 2025-10-02 |  |
+| [Far](https://open.spotify.com/track/4wMH1Ic4taDwbqQGUNdGON) | [Fredrik Lundman](https://open.spotify.com/artist/6wAyoT7d2NrEWUcG2IbN23) | [Far](https://open.spotify.com/album/5lLRHsgpLXK7m7xhCMMZ0C) | 3:59 | 2025-10-02 | 2025-10-10 |
 | [FEAR OF WINNING](https://open.spotify.com/track/1eqUgrrDobS9cicwpm1aMx) | [Björn Dixgård](https://open.spotify.com/artist/13zLG8IHxqnaG2ijVbj6MT) | [FEAR OF WINNING](https://open.spotify.com/album/5tRqhksdFmuoBZws5eA9Uu) | 3:27 | 2024-10-24 | 2025-05-09 |
 | [Finish Line](https://open.spotify.com/track/5lU6xoJhNJCdckDU57wxod) | [Tingsek](https://open.spotify.com/artist/7ld5C8ya3nwAnCTHG923VE) | [Finish Line](https://open.spotify.com/album/5xShuuJOSs4zD700DPTRh0) | 3:26 | 2024-08-29 | 2024-10-06 |
 | [Flamma](https://open.spotify.com/track/69Ryae6S7mOorlm3MX0kuZ) | [Kayo](https://open.spotify.com/artist/1VbaXEYjZBuKXgW0uuVtIz) | [Flamma](https://open.spotify.com/album/46frGAgIvMsalRxiRByxLS) | 3:15 | 2024-08-08 | 2024-09-07 |
@@ -364,6 +364,7 @@
 | [Sparvöga](https://open.spotify.com/track/7Ad48doEcyyr91oRgTg2sz) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Sparvöga / I skydd av mörkret](https://open.spotify.com/album/3fmuDEVEgtEIYqEYEaDF1f) | 3:20 | 2025-01-23 | 2025-05-30 |
 | [Spin The Bottle](https://open.spotify.com/track/1W0AJZWfVldNrgNDoaqRkY) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Spin The Bottle](https://open.spotify.com/album/2PhwRImFoeE9HvSMsyrjfz) | 3:06 | 2025-05-01 | 2025-08-08 |
 | [Springer ikapp](https://open.spotify.com/track/5DF56PEsdLEHpqoCpzLg6I) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Springer Ikapp](https://open.spotify.com/album/5cUibeySR9mDVYxRrtrcQk) | 3:34 | 2025-07-17 |  |
+| [Stanna tiden](https://open.spotify.com/track/2pVBeLSMJuHMwGHDM5VtLm) | [Casanovas](https://open.spotify.com/artist/29JwBerAT0YALGfItKsEbT) | [Stanna tiden](https://open.spotify.com/album/5os2bSpWI8zm296QjpQyjK) | 3:12 | 2025-10-09 |  |
 | [Stillhet](https://open.spotify.com/track/09Xt3KWgGT25MdaNJqv8wJ) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Ärligt misstag](https://open.spotify.com/album/0Ar1oOGOq7FSZDuilbUjoW) | 4:23 | 2025-09-04 |  |
 | [Stjärnorna](https://open.spotify.com/track/6d11hYN6PUR07rk1YIXqem) | [crescenterna](https://open.spotify.com/artist/3nRWFDHzmQF7O2xMAZUhyh) | [Stjärnorna](https://open.spotify.com/album/08LEQYxN0BBdBPpn9qCsxS) | 4:20 | 2025-09-18 |  |
 | [Stjärnorna](https://open.spotify.com/track/3LMOtdKFkGrz3rHycZntPm) | [Daniel Lemma](https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS) | [Stjärnorna](https://open.spotify.com/album/4MyRVj71HgtDonhDzJyFq3) | 4:14 | 2024-12-05 | 2025-01-03 |
@@ -401,6 +402,7 @@
 | [Two in This Story](https://open.spotify.com/track/7Etua9zkc2b11KDoRljJ77) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Two in This Story](https://open.spotify.com/album/7znKEbUC1jtrZioJrxtDiW) | 3:54 | 2025-05-15 |  |
 | [Two Of Us](https://open.spotify.com/track/41l5xoVxJt7gibWtntsnz4) | [Ola Salo](https://open.spotify.com/artist/3IfjzLJe109UiT5EXAhjV1), [Peter Jöback](https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj) | [Two Of Us](https://open.spotify.com/album/0ED0rbxhIywSk2WP7Ym1OB) | 3:25 | 2025-06-12 |  |
 | [Tänd hela himlen](https://open.spotify.com/track/2LEsVPAC8rD2mh6px5wlRA) | [Sara Zacharias](https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg) | [Tänd hela himlen](https://open.spotify.com/album/60e3dAefZyr9y6FosBHqiT) | 3:13 | 2025-04-17 | 2025-04-23 |
+| [Tårar](https://open.spotify.com/track/2kouUdyiy2AuDYfYQf52GV) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Tårar](https://open.spotify.com/album/0FajfKoec8MCHU2WSXSAuH) | 3:02 | 2025-10-09 |  |
 | [UFO](https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U) | 3:00 | 2024-06-27 | 2024-08-09 |
 | [Unsatisfied Heart](https://open.spotify.com/track/54tyK1tUpNgxSVFrLJb1wk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks II: The Lost Albums](https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37) | 5:45 | 2025-06-26 |  |
 | [Upp med hakan](https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Upp med hakan](https://open.spotify.com/album/3OAWeefFpKwzXX4JOINByi) | 2:45 | 2024-06-27 | 2025-04-04 |

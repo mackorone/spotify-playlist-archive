@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Sridevi
+> Dendang Dangdut teratas\. Cover: Jirayut
 
-266 songs - 21 hr 14 min
+269 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Kau Tercipta Untukku](https://open.spotify.com/track/0NfWMu3zA2v4ymR2pWiXV9) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Kau Tercipta Untukku](https://open.spotify.com/album/1zpXdr3kkwZF8RKMz4vi72) | 4:07 | 2021-08-23 | 2023-06-30 |
 | [Keabadian Cinta](https://open.spotify.com/track/24VgSe9g5MPcGbKCaaGXuU) | [Sridevi DA5](https://open.spotify.com/artist/7KM65RnfkPrC4zzLoKuQ0s), [Kier King](https://open.spotify.com/artist/532wLz7g4D1MycSKoesiq9) | [Keabadian Cinta](https://open.spotify.com/album/7HBmefgCHAcjAJcqNZhrD4) | 4:23 | 2024-01-25 |  |
 | [Kecewa](https://open.spotify.com/track/3owxEYCT3wGKDhVRiCfg1Y) | [Fira Cantika](https://open.spotify.com/artist/0Oj0DdWT4Yt5Dsy4woMNIz), [Irwan Krisdiyanto](https://open.spotify.com/artist/1j1B3ReSgFxZCfaEggaMAT) | [Kecewa](https://open.spotify.com/album/5F2QdI7UM0Sas52UeGkV0r) | 6:34 | 2025-06-13 |  |
+| [Kecewa](https://open.spotify.com/track/1R0j1HxLZ7YZQdoceHE2r2) | [Jirayut](https://open.spotify.com/artist/1Iql7RUVcNTNZ1hlfhaKnd) | [Kecewa](https://open.spotify.com/album/6bMM6KL7rMskBJUUOqyZ74) | 4:22 | 2025-10-09 |  |
 | [Kejam](https://open.spotify.com/track/1jGPT79sQ8k48Lu4nWqKMj) | [Iyeth Bustami](https://open.spotify.com/artist/00C7NuuxMrVAu6Yzxj667R) | [Kejam](https://open.spotify.com/album/7vOcQvH0zVauyTYW4wWh73) | 5:03 | 2023-05-11 |  |
 | [Keyakinan Cinta](https://open.spotify.com/track/5DYSKz8uJGPBY8Ldeh74yg) | [Faul Gayo](https://open.spotify.com/artist/5CdK6xKQYwaLsuAFQlhrSz), [Nia](https://open.spotify.com/artist/1lEHkPPwJDbJEGWtx4Pib0) | [Keyakinan Cinta](https://open.spotify.com/album/3KTGcrvO0bwQT8Z2ffN1Ty) | 3:19 | 2024-08-16 | 2025-04-18 |
 | [Khianatiku](https://open.spotify.com/track/2TtWxUm8XnwMmKFEdw8FZN) | [Andre Mastijan](https://open.spotify.com/artist/4CaULC2hulDukMworEU70V) | [Khianatiku](https://open.spotify.com/album/2IuAi1TB6o7IVql5MKNAHI) | 4:18 | 2023-08-03 |  |
@@ -144,6 +145,7 @@
 | [Matematika Cinta](https://open.spotify.com/track/2qHc1g7cWJwvSzIK7NqFtw) | [Novi Ayla](https://open.spotify.com/artist/5mf5kk94dM7dPugSKwvxy1) | [Matematika Cinta](https://open.spotify.com/album/2R79D0s9BDN6c2Fp1pPhsK) | 4:53 | 2023-11-17 | 2024-11-29 |
 | [Melepasmu](https://open.spotify.com/track/5ahhrL4PMspbYlIqJEzIlv) | [Ikke Nurjanah](https://open.spotify.com/artist/14eVM8s1mDJhnC4etvhFNn) | [Melepasmu](https://open.spotify.com/album/5WumsUdGgys96NP3fT6XL6) | 6:10 | 2025-06-26 |  |
 | [Memandangmu](https://open.spotify.com/track/2rbRJydS6cK2TYDDHgTYG2) | [Wika Salim](https://open.spotify.com/artist/0SW06VHzaPwpTNiBS7GH4q), [Danang](https://open.spotify.com/artist/5m5iTd6Xa4fITHqaN8d6eG) | [Memandangmu](https://open.spotify.com/album/6MzfZ9RzjxnbYO1S3RhvW1) | 5:05 | 2025-03-20 |  |
+| [Memori Berkasih](https://open.spotify.com/track/5LYzAfMFzCALsCw3wXzkIa) | [Arief](https://open.spotify.com/artist/4oKMJxfKAUkddjrPMPdk5k), [Fany Zee](https://open.spotify.com/artist/3jAR4AQUAFIpN1rKdvbh6v) | [Memori Berkasih](https://open.spotify.com/album/3Mi3AYmKgWKQNLQtPhOJmZ) | 5:54 | 2025-10-09 |  |
 | [Mencintaimu Karena Allah](https://open.spotify.com/track/4OIdQ4JRulflF7q1pSbvmd) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Mencintaimu Karena Allah](https://open.spotify.com/album/232ek4vTBCfQ79yTTNybUp) | 5:14 | 2024-03-07 |  |
 | [Mendung Tanpo Udan](https://open.spotify.com/track/0Z54rUZ81Vn0qphFR3jXUb) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Mendung Tanpo Udan](https://open.spotify.com/album/71G3sO1tdp632dquXZFMNE) | 5:05 | 2022-10-13 | 2024-09-07 |
 | [Menepi Cover](https://open.spotify.com/track/1merjIVhdrKOOdolcYhn3v) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Guyon Waton](https://open.spotify.com/album/1Or1VyBgYsWqszX54hhEu3) | 4:57 | 2021-08-23 | 2024-02-16 |
@@ -217,6 +219,7 @@
 | [Semarang Ngawi](https://open.spotify.com/track/7Di7sWT0dsxlgDvJINPpHw) | [Rita Tila](https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh) | [Semarang Ngawi](https://open.spotify.com/album/6K4pgYhUy2r4e6akDRIe5y) | 4:24 | 2023-06-15 | 2023-08-25 |
 | [Sembuhkan Luka](https://open.spotify.com/track/6Ab00lWVCOskvKQMwdHnda) | [Owan](https://open.spotify.com/artist/6giTizAzwDJX3wOqcRfwTH) | [Sembuhkan Luka](https://open.spotify.com/album/5v3NSApUPB4AnzL4CbBxW5) | 6:23 | 2024-05-17 |  |
 | [Sensi](https://open.spotify.com/track/0HTW3ym6XTwe3gyi3Y6F4g) | [Fania Putri](https://open.spotify.com/artist/7kciVBb9QDsMO8PqYGhuim) | [Sensi](https://open.spotify.com/album/4K5ZDNFUTp05z1Hj60tYEz) | 4:32 | 2023-06-09 | 2023-09-15 |
+| [Senyum](https://open.spotify.com/track/2arMQY5H27EceOifDtxqeY) | [Rhoma Irama](https://open.spotify.com/artist/4rlC2lgVD1tfilqgJxEPIW) | [Senyum](https://open.spotify.com/album/3CkKzIYAiQBSI3bmrUUpHl) | 3:53 | 2025-10-09 |  |
 | [Separuh Jiwaku Pergi](https://open.spotify.com/track/6xqmdksyKLPvfs28Qe7z8x) | [Ucie Sucita](https://open.spotify.com/artist/03qsCoduQN1ffTfhVCijJp) | [Separuh Jiwaku Pergi](https://open.spotify.com/album/2cR3YXcrCOlFIpr35f1Ho1) | 3:24 | 2024-01-18 | 2025-04-18 |
 | [Sesayang Ini Kau Tipu Jua](https://open.spotify.com/track/4LhVuScLN4XUoZQ1oxFrI6) | [Cantika Davinca](https://open.spotify.com/artist/0bjubqi4GobeZDopJU6vjN) | [Sesayang Ini Kau Tipu Jua](https://open.spotify.com/album/4kBRsbSrzCgJMt1j7FDy2x) | 5:11 | 2024-11-07 |  |
 | [Setia Jujur dan Taqwa \- Live At Ska Reggae](https://open.spotify.com/track/6lt4nbkCe2AAHVtbKLnlVC) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Setia Jujur dan Taqwa \(Live At Ska Reggae\)](https://open.spotify.com/album/7HbO1YQSuPQphc7DynEwVo) | 4:41 | 2024-03-22 | 2024-07-19 |

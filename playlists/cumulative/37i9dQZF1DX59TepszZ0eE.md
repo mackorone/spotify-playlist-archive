@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p?si=qSgYDzOCSyqt8\_\-ZdbhLCQ>Dumi Mkokstad</a>"
 
-416 songs - 1 day 19 hr 52 min
+418 songs - 1 day 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Pride \(A Deeper Love\)](https://open.spotify.com/track/2IW6l9VuFJDDhGU2IXz4sC) | [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl), [Groove Terminator](https://open.spotify.com/artist/1bA9XJwgaR3yVHNMTCqJ02), [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK) | [Pride \(A Deeper Love\)](https://open.spotify.com/album/3ZKEYuxs7up1KWfIqM9Uhd) | 2:50 | 2024-06-21 | 2025-03-07 |
 | [Provider](https://open.spotify.com/track/7hllC9WneRH2JYVaVjSQNL) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Provider](https://open.spotify.com/album/1sITlmcQXf1rY1L85dj285) | 3:32 | 2023-07-21 | 2023-08-02 |
 | [Psalms 23 \(uMusa Wakho\) \(feat\. Oncemore Six\)](https://open.spotify.com/track/1djXbEcTIH17Bc8qS7PxJ2) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Testify \(Live at 012 Central, Pretoria 2024\)](https://open.spotify.com/album/5ZOKJWzsqwjYYq3IAseHFF) | 8:12 | 2025-04-18 | 2025-06-13 |
+| [Qhubeka Njalo](https://open.spotify.com/track/4IgBm1I3KqsumRjbHWBlLI) | [Ayanda Shange](https://open.spotify.com/artist/5hWWGQ8MLMy4yG0PeitZyJ) | [Qhubeka Njalo](https://open.spotify.com/album/1MQ1niU1Fca4c7sekou43z) | 6:33 | 2025-10-10 |  |
 | [Re Bone Ka Naledi \(feat\. Kago, Given, Paul\) \- \(Live At The State Theatre\)](https://open.spotify.com/track/0x7UIcJatp5HBuSGYpA1DW) | [Wacha Mkhukhu Wachumlilo](https://open.spotify.com/artist/1WYcnlyvUxYVsSWOnG5163), [Given](https://open.spotify.com/artist/0UxTtJShgAFuQ1Q3HK0rmo), [Kago](https://open.spotify.com/artist/4pQfjRrGVSAleOhkjoExXs), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg) | [Re Bone Ka Naledi \(Live At The State Theatre\)](https://open.spotify.com/album/0UqaggNdoTOBEmI9QbAjHA) | 10:16 | 2023-12-29 | 2024-05-03 |
 | [Rea Lwanelwa \- Live](https://open.spotify.com/track/3sFKCjNDndwiVVDGXfMlsN) | [Puleng March](https://open.spotify.com/artist/65cfvyR00rBULLtOhWfNTn) | [Heaven's Scroll \(Live\)](https://open.spotify.com/album/0IdIW30hdyEVScUQdr4UyV) | 6:37 | 2024-06-07 | 2024-07-12 |
 | [Sedi la ditshaba](https://open.spotify.com/track/6cuM3XR6GwDLl4evBO46QE) | [Puleng March](https://open.spotify.com/artist/65cfvyR00rBULLtOhWfNTn) | [Worship in Newness](https://open.spotify.com/album/1h6TI3nojx7PA3HBfkS9wz) | 6:40 | 2025-05-30 | 2025-08-01 |
@@ -317,6 +318,7 @@
 | [Thulungakhali](https://open.spotify.com/track/0bPE6VOWoQ69OpmCtPek8M) | [Ikhona](https://open.spotify.com/artist/56tDpXsWbtHowCzQxqurvW), [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Thulungakhali](https://open.spotify.com/album/4ttNmn9gKQm0m7jjadtyLE) | 5:46 | 2020-12-10 |  |
 | [To The Deep](https://open.spotify.com/track/5r9q9MzeexXef7visJl9LL) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [To The Deep](https://open.spotify.com/album/7J71uUsQrCrUY2rPo28z33) | 5:49 | 2025-09-19 |  |
 | [Tshanda Tshau Yehova \- Live](https://open.spotify.com/track/4G7dubWC6XmwMrnLVt7WRT) | [ROFHIWA MANYAGA](https://open.spotify.com/artist/6hYQnls4RShBxrh47cd6i5) | [IssaYearEndFunction](https://open.spotify.com/album/4rMh1SylOQvME1lYNsQwQP) | 4:31 | 2025-04-18 | 2025-05-30 |
+| [Tshepo Ya Lefatshe](https://open.spotify.com/track/0r9SsIPTibFOQ6r6tPfcte) | [Lebo Elle Tisane](https://open.spotify.com/artist/5OjmAYpmIb99cv5HC7Rwkt) | [In Season](https://open.spotify.com/album/1yax3wDYJRlKUgOZhDGJZZ) | 5:07 | 2025-10-10 |  |
 | [Udumo \- Live at Pont De Val](https://open.spotify.com/track/1sZAiagVPE4eQwaw056YaM) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Udumo \(Live at Pont De Val\)](https://open.spotify.com/album/6YSvp90Kw08mG6Wcaz162p) | 6:46 | 2020-10-09 | 2023-06-16 |
 | [Uhlaleleni Kusizani](https://open.spotify.com/track/06xNSNCV9X5fRm0n5wqVAE) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Uhlaleleni Kusizani](https://open.spotify.com/album/1sDS2OlxaG5j2zrYoA7ODt) | 7:25 | 2023-11-03 | 2024-02-02 |
 | [Uhlal’ anjalo](https://open.spotify.com/track/4jhB3YYGR9QNc1vk88nztf) | [Dalimark](https://open.spotify.com/artist/0GbOuh2PSFEDTEHtEtpaIX), [Ab Central](https://open.spotify.com/artist/7e2fCmADEC45SvMhYJgEe0) | [Uhlal’ anjalo](https://open.spotify.com/album/4f5vCgYK6tjtpfZ0Cd2z7m) | 5:04 | 2024-05-17 | 2024-07-12 |

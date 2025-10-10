@@ -1,6 +1,6 @@
 {
   "description": "Pumping tracks for pumping iron!",
-  "num_followers": 7891563,
+  "num_followers": 7891445,
   "original_name": "Gym Hits",
   "owner": {
     "name": "Spotify",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-10-01 19:29:17",
       "album": {
-        "name": "Edge of Seventeen",
-        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 164042,
-      "name": "Edge of Seventeen",
-      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
-    },
-    {
-      "added_at": "2025-10-01 19:29:17",
-      "album": {
         "name": "Satisfaction (Hardwell & Maddix Remix)",
         "url": "https://open.spotify.com/album/417ZcOYyUtIXFpjygXHKSX"
       },
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2025-10-01 19:29:17",
       "album": {
+        "name": "Edge of Seventeen",
+        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 164042,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+    },
+    {
+      "added_at": "2025-10-01 19:29:17",
+      "album": {
         "name": "Inside Our Hearts",
         "url": "https://open.spotify.com/album/1pUTJrfFFnXTWsyKe1Ixyh"
       },
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2025-10-01 19:29:17",
       "album": {
-        "name": "WASTING TIME",
-        "url": "https://open.spotify.com/album/7elPdVZxhx39jJ942o39uP"
-      },
-      "artists": [
-        {
-          "name": "IN PARALLEL",
-          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
-        },
-        {
-          "name": "Baika",
-          "url": "https://open.spotify.com/artist/2eS4YApdBBq5lPwh7hfj2l"
-        }
-      ],
-      "duration_ms": 142933,
-      "name": "WASTING TIME",
-      "url": "https://open.spotify.com/track/5wrrrD16NokT83A7zONN2l"
-    },
-    {
-      "added_at": "2025-10-01 19:29:17",
-      "album": {
         "name": "Perfect (Exceeder)",
         "url": "https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 151929,
       "name": "Perfect (Exceeder)",
       "url": "https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi"
+    },
+    {
+      "added_at": "2025-10-01 19:29:17",
+      "album": {
+        "name": "WASTING TIME",
+        "url": "https://open.spotify.com/album/7elPdVZxhx39jJ942o39uP"
+      },
+      "artists": [
+        {
+          "name": "IN PARALLEL",
+          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
+        },
+        {
+          "name": "Baika",
+          "url": "https://open.spotify.com/artist/2eS4YApdBBq5lPwh7hfj2l"
+        }
+      ],
+      "duration_ms": 142933,
+      "name": "WASTING TIME",
+      "url": "https://open.spotify.com/track/5wrrrD16NokT83A7zONN2l"
     },
     {
       "added_at": "2025-10-01 19:29:17",

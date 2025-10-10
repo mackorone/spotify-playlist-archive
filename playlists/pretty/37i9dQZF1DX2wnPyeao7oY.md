@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists and labels every Wednesday\. Cover: Cenobia
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,516 likes - 115 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,596 likes - 115 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

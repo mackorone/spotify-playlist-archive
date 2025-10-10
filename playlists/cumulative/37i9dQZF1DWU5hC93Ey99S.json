@@ -3311,6 +3311,24 @@
     },
     {
       "album": {
+        "name": "Dear Friend",
+        "url": "https://open.spotify.com/album/3gDbGWn1O5azVnCN5i68x3"
+      },
+      "artists": [
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229411,
+      "name": "Dear Friend",
+      "url": "https://open.spotify.com/track/2s2l6JSOu3UveEzIEQdOx4"
+    },
+    {
+      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/2WKcvQnpIfFzRIiNRQk8Pt"
       },
@@ -3954,6 +3972,24 @@
       "duration_ms": 142500,
       "name": "Elysian Park",
       "url": "https://open.spotify.com/track/3pbZCLBe6fUZ8dBntDWQ64"
+    },
+    {
+      "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260353,
+      "name": "Embrace",
+      "url": "https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP"
     },
     {
       "album": {

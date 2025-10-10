@@ -733,6 +733,24 @@
     },
     {
       "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/6GwnwfIySfSbVDlrboTxxe"
+      },
+      "artists": [
+        {
+          "name": "Quiet Tones",
+          "url": "https://open.spotify.com/artist/0ZXLhPxIihjrquOaJFGU6Z"
+        }
+      ],
+      "date_added": "2025-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126557,
+      "name": "Continuum",
+      "url": "https://open.spotify.com/track/0aH3DBsvklrw7GWvZQb6ED"
+    },
+    {
+      "album": {
         "name": "Cosmic Trinity",
         "url": "https://open.spotify.com/album/3A5DjmDDQVqhqTrrbQcMh5"
       },
@@ -1724,7 +1742,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 181818,
       "name": "Feathers In The Sky",
       "url": "https://open.spotify.com/track/6kMbpMSqq9EsWKCnMVp2HU"

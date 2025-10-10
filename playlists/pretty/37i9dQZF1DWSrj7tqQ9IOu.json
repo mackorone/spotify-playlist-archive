@@ -1,31 +1,15 @@
 {
-  "description": "Le meilleur de l'indie fran\u00e7ais. Cover : Pomme",
-  "num_followers": 405146,
+  "description": "Le meilleur de l'indie fran\u00e7ais. Cover : Saint Stacy",
+  "num_followers": 405128,
   "original_name": "Made in France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD2Y4IYBrHC1ApvnVhHi2Pb8nDbp",
+  "snapshot_id": "AAAAAHC9IiMfhuHeNPFbH6UPsonDeeFD",
   "tracks": [
     {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "des excuses",
-        "url": "https://open.spotify.com/album/7la1qjGOy4Pz8rGhfkA8bd"
-      },
-      "artists": [
-        {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
-        }
-      ],
-      "duration_ms": 207629,
-      "name": "des excuses",
-      "url": "https://open.spotify.com/track/3oheKF0nqti5irt9c83pIp"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
+      "added_at": "2025-10-09 22:00:26",
       "album": {
         "name": "Smile Game",
         "url": "https://open.spotify.com/album/5Kf1dsBBZKnOaqARQrmfH2"
@@ -41,7 +25,7 @@
       "url": "https://open.spotify.com/track/6PiL3Tdk4LTiOWhTz5anh6"
     },
     {
-      "added_at": "2025-10-02 22:00:50",
+      "added_at": "2025-10-09 22:00:26",
       "album": {
         "name": "Archwood (the playlist)",
         "url": "https://open.spotify.com/album/3wvpoyNZog5TJ2RxK4euJz"
@@ -57,7 +41,43 @@
       "url": "https://open.spotify.com/track/6nu3IwpAso6DJT3bXDwEiW"
     },
     {
-      "added_at": "2025-10-02 22:00:50",
+      "added_at": "2025-10-09 22:00:26",
+      "album": {
+        "name": "des excuses",
+        "url": "https://open.spotify.com/album/7la1qjGOy4Pz8rGhfkA8bd"
+      },
+      "artists": [
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "duration_ms": 207629,
+      "name": "des excuses",
+      "url": "https://open.spotify.com/track/3oheKF0nqti5irt9c83pIp"
+    },
+    {
+      "added_at": "2025-10-09 22:00:26",
+      "album": {
+        "name": "chrysalis",
+        "url": "https://open.spotify.com/album/0zkgQvE9joKuS4NsRrCwUS"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Louve",
+          "url": "https://open.spotify.com/artist/3x5sBirhNbWXVt1DwivDOI"
+        }
+      ],
+      "duration_ms": 240661,
+      "name": "chrysalis",
+      "url": "https://open.spotify.com/track/1CyqOIcejpX5Zqzw5BRHFb"
+    },
+    {
+      "added_at": "2025-10-09 22:00:26",
       "album": {
         "name": "MES NUITS",
         "url": "https://open.spotify.com/album/7MvY0AuZFpmj0KRv7ZzFs6"
@@ -73,83 +93,7 @@
       "url": "https://open.spotify.com/track/7hshPg8fnUHLi0zdEgu4nT"
     },
     {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "BISOUS SAL\u00c9S & COQUILLAGES",
-        "url": "https://open.spotify.com/album/4RmvYkVHV97qDlgEyj4XKk"
-      },
-      "artists": [
-        {
-          "name": "Odetto",
-          "url": "https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF"
-        },
-        {
-          "name": "Leita",
-          "url": "https://open.spotify.com/artist/5UTy08ibUbhiqGhuFm1Gzo"
-        },
-        {
-          "name": "Soyuz",
-          "url": "https://open.spotify.com/artist/2MhHUHbSBQksLp8EzgaRa8"
-        }
-      ],
-      "duration_ms": 140614,
-      "name": "BISOUS SAL\u00c9S & COQUILLAGES",
-      "url": "https://open.spotify.com/track/5Vg7mFXuEfcSbliMmcvRID"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "Une jolie fille",
-        "url": "https://open.spotify.com/album/05MrCtQiVEhSwx3lLn3B5z"
-      },
-      "artists": [
-        {
-          "name": "TheFrenchKris",
-          "url": "https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs"
-        }
-      ],
-      "duration_ms": 188774,
-      "name": "Une jolie fille",
-      "url": "https://open.spotify.com/track/64syxbGEBZBe81dKa3sydi"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "VHS",
-        "url": "https://open.spotify.com/album/2EurhJLQsbr7BP8VTeMg6c"
-      },
-      "artists": [
-        {
-          "name": "Mattyeux",
-          "url": "https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF"
-        },
-        {
-          "name": "Videoclub",
-          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
-        }
-      ],
-      "duration_ms": 195163,
-      "name": "VHS",
-      "url": "https://open.spotify.com/track/0sdCzUNGQZHL6pE0puBOfN"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "Je-m'en-foutisme",
-        "url": "https://open.spotify.com/album/3MtHZHhYxhiMheSNTObC1R"
-      },
-      "artists": [
-        {
-          "name": "Bolivard",
-          "url": "https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE"
-        }
-      ],
-      "duration_ms": 147413,
-      "name": "Je-m'en-foutisme",
-      "url": "https://open.spotify.com/track/2HVbMBvaLBk8r9N2JkoSdr"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
+      "added_at": "2025-10-09 22:00:26",
       "album": {
         "name": "L'intranquillit\u00e9",
         "url": "https://open.spotify.com/album/5HHMb6ROHLzBF3MnrzoVxQ"
@@ -173,7 +117,51 @@
       "url": "https://open.spotify.com/track/5wlP1eAUgaETs3u2VlrU1z"
     },
     {
-      "added_at": "2025-10-02 22:00:50",
+      "added_at": "2025-10-09 22:00:26",
+      "album": {
+        "name": "BISOUS SAL\u00c9S & COQUILLAGES",
+        "url": "https://open.spotify.com/album/4RmvYkVHV97qDlgEyj4XKk"
+      },
+      "artists": [
+        {
+          "name": "Odetto",
+          "url": "https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF"
+        },
+        {
+          "name": "Leita",
+          "url": "https://open.spotify.com/artist/5UTy08ibUbhiqGhuFm1Gzo"
+        },
+        {
+          "name": "Soyuz",
+          "url": "https://open.spotify.com/artist/2MhHUHbSBQksLp8EzgaRa8"
+        }
+      ],
+      "duration_ms": 140614,
+      "name": "BISOUS SAL\u00c9S & COQUILLAGES",
+      "url": "https://open.spotify.com/track/5Vg7mFXuEfcSbliMmcvRID"
+    },
+    {
+      "added_at": "2025-10-09 22:00:26",
+      "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/2EurhJLQsbr7BP8VTeMg6c"
+      },
+      "artists": [
+        {
+          "name": "Mattyeux",
+          "url": "https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF"
+        },
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        }
+      ],
+      "duration_ms": 195163,
+      "name": "VHS",
+      "url": "https://open.spotify.com/track/0sdCzUNGQZHL6pE0puBOfN"
+    },
+    {
+      "added_at": "2025-10-09 22:00:26",
       "album": {
         "name": "Nuits bleues",
         "url": "https://open.spotify.com/album/0kwjlPh5rxVb4EwvbZhy2H"
@@ -193,26 +181,10 @@
       "url": "https://open.spotify.com/track/7kVEesbz7C9LuiY8P2GuCW"
     },
     {
-      "added_at": "2025-10-02 22:00:50",
+      "added_at": "2025-10-09 22:00:26",
       "album": {
-        "name": "Bones For The Dogs (Pt.1)",
-        "url": "https://open.spotify.com/album/38C5XIAS6CpdSryJwPUCvP"
-      },
-      "artists": [
-        {
-          "name": "Cocoon",
-          "url": "https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD"
-        }
-      ],
-      "duration_ms": 157546,
-      "name": "I Love You - Radio Edit",
-      "url": "https://open.spotify.com/track/7hIWX9Nl7qMLCvb35lTH9E"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "Souvenir sentimental",
-        "url": "https://open.spotify.com/album/0YCqlQYeUSfnoNTw9cEHvv"
+        "name": "Une jolie fille",
+        "url": "https://open.spotify.com/album/05MrCtQiVEhSwx3lLn3B5z"
       },
       "artists": [
         {
@@ -220,60 +192,28 @@
           "url": "https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs"
         }
       ],
-      "duration_ms": 174994,
-      "name": "Souvenir sentimental",
-      "url": "https://open.spotify.com/track/7oBoFe5xWsaocjSZIhCW1t"
+      "duration_ms": 188774,
+      "name": "Une jolie fille",
+      "url": "https://open.spotify.com/track/64syxbGEBZBe81dKa3sydi"
     },
     {
-      "added_at": "2025-10-02 22:00:50",
+      "added_at": "2025-10-09 22:00:26",
       "album": {
-        "name": "IKnow",
-        "url": "https://open.spotify.com/album/2wLVN7bMHZvTTFgH8pRG0Y"
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
       },
       "artists": [
         {
-          "name": "Sans Lactose",
-          "url": "https://open.spotify.com/artist/5o9bgsy6gISpQ7FJszf34L"
+          "name": "Saint Stacy",
+          "url": "https://open.spotify.com/artist/5jvug60dRrKFRuQp8zKn9G"
         }
       ],
-      "duration_ms": 154936,
-      "name": "IKnow",
-      "url": "https://open.spotify.com/track/4jBEvvUvThuhbyPuWMICHL"
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/0R2F8Y0exgly8whypDattk"
     },
     {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "BONHEUR SAMPLER",
-        "url": "https://open.spotify.com/album/3yKbtw4VszA2OhHpbRsRLV"
-      },
-      "artists": [
-        {
-          "name": "Odetto",
-          "url": "https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "BONHEUR SAMPLER",
-      "url": "https://open.spotify.com/track/6JLMqJY2JRRzeBQPZVLX0x"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "Comme si comme \u00e7a",
-        "url": "https://open.spotify.com/album/0ZJXUTUrcQdaSbPessy1ti"
-      },
-      "artists": [
-        {
-          "name": "Gozze",
-          "url": "https://open.spotify.com/artist/6UgbULjRAY4P8xJasrVCgA"
-        }
-      ],
-      "duration_ms": 152320,
-      "name": "Comme si comme \u00e7a",
-      "url": "https://open.spotify.com/track/7rNi8chU9oL22ArTxDneFN"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
+      "added_at": "2025-10-09 22:00:26",
       "album": {
         "name": "LES PASSANTES",
         "url": "https://open.spotify.com/album/2aU96UF1YXLJ9cBdRp2U1T"
@@ -289,171 +229,23 @@
       "url": "https://open.spotify.com/track/3dk69hKEv7q7UeEV3EJPoL"
     },
     {
-      "added_at": "2025-10-02 22:00:50",
+      "added_at": "2025-10-09 22:00:26",
       "album": {
-        "name": "1997",
-        "url": "https://open.spotify.com/album/6OUJxofNyMo3qiiCOV5y9S"
+        "name": "Je-m'en-foutisme",
+        "url": "https://open.spotify.com/album/3MtHZHhYxhiMheSNTObC1R"
       },
       "artists": [
         {
-          "name": "Kids Return",
-          "url": "https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq"
+          "name": "Bolivard",
+          "url": "https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE"
         }
       ],
-      "duration_ms": 160320,
-      "name": "My Hero",
-      "url": "https://open.spotify.com/track/2oyBvQDVgsiiZ9i0cusjbR"
+      "duration_ms": 147413,
+      "name": "Je-m'en-foutisme",
+      "url": "https://open.spotify.com/track/2HVbMBvaLBk8r9N2JkoSdr"
     },
     {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "Caillou",
-        "url": "https://open.spotify.com/album/4wzdpyMbeRXeRiiMUaMrgl"
-      },
-      "artists": [
-        {
-          "name": "And\u00e9ol",
-          "url": "https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3"
-        }
-      ],
-      "duration_ms": 207186,
-      "name": "Caillou",
-      "url": "https://open.spotify.com/track/0wWL9MSiC4eGhdsVNVKfSq"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "MICHAEL",
-        "url": "https://open.spotify.com/album/668jOGhZKeBUlvAWoDXWee"
-      },
-      "artists": [
-        {
-          "name": "Deluxe",
-          "url": "https://open.spotify.com/artist/4EePV5BljRSXJnYww4d5Qa"
-        }
-      ],
-      "duration_ms": 218130,
-      "name": "MICHAEL",
-      "url": "https://open.spotify.com/track/37Yqh5GKMVPaGjfOSNhqJ0"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "dans tes yeux",
-        "url": "https://open.spotify.com/album/30JMjTjVI7rJrJw0YItrdf"
-      },
-      "artists": [
-        {
-          "name": "Heroe",
-          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
-        }
-      ],
-      "duration_ms": 196956,
-      "name": "dans tes yeux",
-      "url": "https://open.spotify.com/track/3flkd70LFK3kEqip0lo5Eo"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "La femme est un homme comme les autres",
-        "url": "https://open.spotify.com/album/4zD2CkbrIuuX84CcsJInK4"
-      },
-      "artists": [
-        {
-          "name": "Candillac",
-          "url": "https://open.spotify.com/artist/0UFIltW24E4sjoJkaTbagG"
-        }
-      ],
-      "duration_ms": 168034,
-      "name": "Je ne sais pas qui est moi",
-      "url": "https://open.spotify.com/track/4PpatTCdC4L8fpVAXsDxSi"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "Mr. Plastic",
-        "url": "https://open.spotify.com/album/0AvBXxggtjAbVknmfvDegZ"
-      },
-      "artists": [
-        {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
-        }
-      ],
-      "duration_ms": 131811,
-      "name": "Mr. Plastic",
-      "url": "https://open.spotify.com/track/6spcrcdCq4lcRnYVkhVQRb"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "Blurry Moon",
-        "url": "https://open.spotify.com/album/0KqAu7TrZEBB4DofE8HYDp"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Gainsbourg",
-          "url": "https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v"
-        }
-      ],
-      "duration_ms": 217894,
-      "name": "Blurry Moon - Edit",
-      "url": "https://open.spotify.com/track/5VDiA4KWTS0sdTW5ae0x4n"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "Nuit sauvage",
-        "url": "https://open.spotify.com/album/3GYhCAFqT7Rkh7WMthR7Rw"
-      },
-      "artists": [
-        {
-          "name": "ELISA ERKA",
-          "url": "https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM"
-        },
-        {
-          "name": "SOLEIL ROUGE",
-          "url": "https://open.spotify.com/artist/2Trhtz39560UW6C8EXSrrI"
-        }
-      ],
-      "duration_ms": 151926,
-      "name": "Nuit sauvage",
-      "url": "https://open.spotify.com/track/7zbOsTSAkfLuf7865DYbai"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "Playground Love",
-        "url": "https://open.spotify.com/album/0sKURi74qxqW61T5DDtXkN"
-      },
-      "artists": [
-        {
-          "name": "Concorde",
-          "url": "https://open.spotify.com/artist/5gSzpQeKekCGJTR9hcWwKF"
-        }
-      ],
-      "duration_ms": 197660,
-      "name": "Playground Love",
-      "url": "https://open.spotify.com/track/3zvcc4CFtrCYbHIrz94xMc"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 159078,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
+      "added_at": "2025-10-09 22:00:26",
       "album": {
         "name": "Dans quelques ann\u00e9es",
         "url": "https://open.spotify.com/album/4XYeMFN1EkDkn3BMDrZACn"
@@ -469,78 +261,90 @@
       "url": "https://open.spotify.com/track/7iTKzfE7lcUMPfqNyeKQcE"
     },
     {
-      "added_at": "2025-10-02 22:00:50",
+      "added_at": "2025-10-09 22:00:26",
       "album": {
-        "name": "Lisbon",
-        "url": "https://open.spotify.com/album/61aSnHkcMWrnFRHMzOzk9i"
+        "name": "La femme est un homme comme les autres",
+        "url": "https://open.spotify.com/album/4zD2CkbrIuuX84CcsJInK4"
       },
       "artists": [
         {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+          "name": "Candillac",
+          "url": "https://open.spotify.com/artist/0UFIltW24E4sjoJkaTbagG"
         }
       ],
-      "duration_ms": 150656,
-      "name": "Lisbon",
-      "url": "https://open.spotify.com/track/75hA98CNQJqzpn3lNvvnc8"
+      "duration_ms": 168034,
+      "name": "Je ne sais pas qui est moi",
+      "url": "https://open.spotify.com/track/4PpatTCdC4L8fpVAXsDxSi"
     },
     {
-      "added_at": "2025-10-02 22:00:50",
+      "added_at": "2025-10-09 22:00:26",
       "album": {
-        "name": "Hopes",
-        "url": "https://open.spotify.com/album/7DwxsnVF7eErIgNNxLiT7H"
+        "name": "BONHEUR SAMPLER",
+        "url": "https://open.spotify.com/album/3yKbtw4VszA2OhHpbRsRLV"
       },
       "artists": [
         {
-          "name": "Broken Back",
-          "url": "https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV"
+          "name": "Odetto",
+          "url": "https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF"
         }
       ],
-      "duration_ms": 164500,
-      "name": "Hopes",
-      "url": "https://open.spotify.com/track/4VpZuQybRG17RNjhgVbym7"
+      "duration_ms": 177000,
+      "name": "BONHEUR SAMPLER",
+      "url": "https://open.spotify.com/track/6JLMqJY2JRRzeBQPZVLX0x"
     },
     {
-      "added_at": "2025-10-02 22:00:50",
+      "added_at": "2025-10-09 22:00:26",
       "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/7i5vXSPjvgiciGKqXakw4D"
+        "name": "1997",
+        "url": "https://open.spotify.com/album/6OUJxofNyMo3qiiCOV5y9S"
       },
       "artists": [
         {
-          "name": "M\u00f8me",
-          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
-        },
-        {
-          "name": "Ricky Ducati",
-          "url": "https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE"
+          "name": "Kids Return",
+          "url": "https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq"
         }
       ],
-      "duration_ms": 226600,
-      "name": "Burnin'",
-      "url": "https://open.spotify.com/track/70YFYf4eukW4P25PxFF4Oe"
+      "duration_ms": 160320,
+      "name": "My Hero",
+      "url": "https://open.spotify.com/track/2oyBvQDVgsiiZ9i0cusjbR"
     },
     {
-      "added_at": "2025-10-02 22:00:50",
+      "added_at": "2025-10-09 22:00:26",
       "album": {
-        "name": "autumn",
-        "url": "https://open.spotify.com/album/5UiNbnAfVXknFHgzaW3fTo"
+        "name": "Coeur de verre",
+        "url": "https://open.spotify.com/album/5ysp6QHgZ20slMixdYosBj"
       },
       "artists": [
         {
-          "name": "Silly Boy Blue",
-          "url": "https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J"
+          "name": "Napkey",
+          "url": "https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE"
         }
       ],
-      "duration_ms": 208735,
-      "name": "autumn",
-      "url": "https://open.spotify.com/track/5nQUv2ikT1ZomcjTOt4DzB"
+      "duration_ms": 153009,
+      "name": "Coeur de verre",
+      "url": "https://open.spotify.com/track/0M3f8bLNATelCrDaw5FLlb"
     },
     {
-      "added_at": "2025-10-02 22:00:50",
+      "added_at": "2025-10-09 22:00:26",
       "album": {
-        "name": "essayer",
-        "url": "https://open.spotify.com/album/3k6lOWS9MFywU1hLyYTXvh"
+        "name": "Souvenir sentimental",
+        "url": "https://open.spotify.com/album/0YCqlQYeUSfnoNTw9cEHvv"
+      },
+      "artists": [
+        {
+          "name": "TheFrenchKris",
+          "url": "https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs"
+        }
+      ],
+      "duration_ms": 174994,
+      "name": "Souvenir sentimental",
+      "url": "https://open.spotify.com/track/7oBoFe5xWsaocjSZIhCW1t"
+    },
+    {
+      "added_at": "2025-10-09 22:00:26",
+      "album": {
+        "name": "dans tes yeux",
+        "url": "https://open.spotify.com/album/30JMjTjVI7rJrJw0YItrdf"
       },
       "artists": [
         {
@@ -548,116 +352,12 @@
           "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
         }
       ],
-      "duration_ms": 185212,
-      "name": "essayer",
-      "url": "https://open.spotify.com/track/7zPWupz9vVYmNC3ZjBctCs"
+      "duration_ms": 196956,
+      "name": "dans tes yeux",
+      "url": "https://open.spotify.com/track/3flkd70LFK3kEqip0lo5Eo"
     },
     {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "Villa d'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/2aVPOnczxN0DHnZpLAvVSy"
-      },
-      "artists": [
-        {
-          "name": "Amou\u00eb",
-          "url": "https://open.spotify.com/artist/5hxkInZtrkxDnUjsRqs5Ww"
-        },
-        {
-          "name": "Kazy Lambist",
-          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
-        }
-      ],
-      "duration_ms": 202331,
-      "name": "Villa d'\u00e9t\u00e9",
-      "url": "https://open.spotify.com/track/5b9ynJg3oLzBSs087ubJzN"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "Adult",
-        "url": "https://open.spotify.com/album/3Ny9XMvVVgNr9fDn8kS2ln"
-      },
-      "artists": [
-        {
-          "name": "Peter Dallas",
-          "url": "https://open.spotify.com/artist/47Te42t2C14Fo2yXqa6kZh"
-        },
-        {
-          "name": "\u00e9ol",
-          "url": "https://open.spotify.com/artist/3Qsh8vZLpSAHADVBkGD70N"
-        }
-      ],
-      "duration_ms": 155353,
-      "name": "Higher Than Before",
-      "url": "https://open.spotify.com/track/7irwdKYcZ0OsiAUgP0WStP"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "\u00e0 deux",
-        "url": "https://open.spotify.com/album/0lBTXzbaZT2BSXQZHjWFM1"
-      },
-      "artists": [
-        {
-          "name": "aupinard",
-          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
-        }
-      ],
-      "duration_ms": 205808,
-      "name": "\u00e0 deux",
-      "url": "https://open.spotify.com/track/4o9qAFSKQCZHM6tYoKrxGq"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "Cigarette \u00e0 la bouche",
-        "url": "https://open.spotify.com/album/4TFXhd63WzwRhaVw7qcHtp"
-      },
-      "artists": [
-        {
-          "name": "D'accord Simon",
-          "url": "https://open.spotify.com/artist/6HBlOvzTZVt7yd5AUZxygo"
-        }
-      ],
-      "duration_ms": 120988,
-      "name": "Cigarette \u00e0 la bouche",
-      "url": "https://open.spotify.com/track/1XUDuhvC5y8B2PkB71C6ci"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "Le mur du salon",
-        "url": "https://open.spotify.com/album/2gZL4ccmGDOXe3mKvTGENo"
-      },
-      "artists": [
-        {
-          "name": "Steve Ibrahim",
-          "url": "https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs"
-        }
-      ],
-      "duration_ms": 189851,
-      "name": "Le mur du salon",
-      "url": "https://open.spotify.com/track/6DSFwl1y7t1ds2zMjgxEYy"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/6Ts4Wb8BhsKyw1MuDdHbgV"
-      },
-      "artists": [
-        {
-          "name": "Astral Bakers",
-          "url": "https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D"
-        }
-      ],
-      "duration_ms": 285413,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/0atuaFPE85WuHuCZ8owpeT"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
+      "added_at": "2025-10-09 22:00:26",
       "album": {
         "name": "Grand gar\u00e7on",
         "url": "https://open.spotify.com/album/2AK7nqCqZF8KoE1tidTKB8"
@@ -677,91 +377,39 @@
       "url": "https://open.spotify.com/track/42G3Qg8udxYxm0Q6Ts9iJx"
     },
     {
-      "added_at": "2025-10-02 22:00:50",
+      "added_at": "2025-10-09 22:00:26",
       "album": {
-        "name": "M\u00e1s Cerquita",
-        "url": "https://open.spotify.com/album/6K0PvWj8QYiMDQIGnDZ0Rk"
+        "name": "Caillou",
+        "url": "https://open.spotify.com/album/4wzdpyMbeRXeRiiMUaMrgl"
       },
       "artists": [
         {
-          "name": "Miel De Montagne",
-          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
-        },
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+          "name": "And\u00e9ol",
+          "url": "https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3"
         }
       ],
-      "duration_ms": 179142,
-      "name": "M\u00e1s Cerquita",
-      "url": "https://open.spotify.com/track/4uBWOQCmYrXzkUvAPNrzob"
+      "duration_ms": 207186,
+      "name": "Caillou",
+      "url": "https://open.spotify.com/track/0wWL9MSiC4eGhdsVNVKfSq"
     },
     {
-      "added_at": "2025-10-02 22:00:50",
+      "added_at": "2025-10-09 22:00:26",
       "album": {
-        "name": "Un Premier Amour",
-        "url": "https://open.spotify.com/album/7epVnZXwmDDXs07fFW1TQm"
+        "name": "Comme si comme \u00e7a",
+        "url": "https://open.spotify.com/album/0ZJXUTUrcQdaSbPessy1ti"
       },
       "artists": [
         {
-          "name": "Hunter",
-          "url": "https://open.spotify.com/artist/4kz8Ax2USW4Xae9WSQHVec"
+          "name": "Gozze",
+          "url": "https://open.spotify.com/artist/6UgbULjRAY4P8xJasrVCgA"
         }
       ],
-      "duration_ms": 190714,
-      "name": "Un Premier Amour",
-      "url": "https://open.spotify.com/track/3ACLBmxaG5SknHYGrsl7d3"
+      "duration_ms": 152320,
+      "name": "Comme si comme \u00e7a",
+      "url": "https://open.spotify.com/track/7rNi8chU9oL22ArTxDneFN"
     },
     {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "Les hommes tristes",
-        "url": "https://open.spotify.com/album/3WGJ5liCJcXJbz5GulsdwQ"
-      },
-      "artists": [
-        {
-          "name": "TheFrenchKris",
-          "url": "https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs"
-        }
-      ],
-      "duration_ms": 196266,
-      "name": "Les hommes tristes",
-      "url": "https://open.spotify.com/track/7AC8X6QYgwFc2gu98t5xjR"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "SUNSET RADIO",
-        "url": "https://open.spotify.com/album/490REHUgcRRvvuEMqFxUwQ"
-      },
-      "artists": [
-        {
-          "name": "Odetto",
-          "url": "https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF"
-        }
-      ],
-      "duration_ms": 143606,
-      "name": "FEVER 105",
-      "url": "https://open.spotify.com/track/3L3UJWqBEbHR6j8gT55zpO"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
-      "album": {
-        "name": "Paris, capitale de la solitude",
-        "url": "https://open.spotify.com/album/4cXanu6IEgB9OMEs6olnLP"
-      },
-      "artists": [
-        {
-          "name": "Nochka",
-          "url": "https://open.spotify.com/artist/2LDcDxIuutAEQcHpmDOowg"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "adieu les cons",
-      "url": "https://open.spotify.com/track/7hXJ0iZtTr3lDdvq8Vh1iM"
-    },
-    {
-      "added_at": "2025-10-02 22:00:50",
+      "added_at": "2025-10-09 22:00:26",
       "album": {
         "name": "UFO",
         "url": "https://open.spotify.com/album/09YQF72oh6MHqCuuXx8F5C"
@@ -793,7 +441,195 @@
       "url": "https://open.spotify.com/track/7pA7CZIJUpcD5X0QpLlESx"
     },
     {
-      "added_at": "2025-10-02 22:00:50",
+      "added_at": "2025-10-09 22:00:26",
+      "album": {
+        "name": "Playground Love",
+        "url": "https://open.spotify.com/album/0sKURi74qxqW61T5DDtXkN"
+      },
+      "artists": [
+        {
+          "name": "Concorde",
+          "url": "https://open.spotify.com/artist/5gSzpQeKekCGJTR9hcWwKF"
+        }
+      ],
+      "duration_ms": 197660,
+      "name": "Playground Love",
+      "url": "https://open.spotify.com/track/3zvcc4CFtrCYbHIrz94xMc"
+    },
+    {
+      "added_at": "2025-10-09 22:00:26",
+      "album": {
+        "name": "Adult",
+        "url": "https://open.spotify.com/album/3Ny9XMvVVgNr9fDn8kS2ln"
+      },
+      "artists": [
+        {
+          "name": "Peter Dallas",
+          "url": "https://open.spotify.com/artist/47Te42t2C14Fo2yXqa6kZh"
+        },
+        {
+          "name": "\u00e9ol",
+          "url": "https://open.spotify.com/artist/3Qsh8vZLpSAHADVBkGD70N"
+        }
+      ],
+      "duration_ms": 155353,
+      "name": "Higher Than Before",
+      "url": "https://open.spotify.com/track/7irwdKYcZ0OsiAUgP0WStP"
+    },
+    {
+      "added_at": "2025-10-09 22:00:26",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/6Ts4Wb8BhsKyw1MuDdHbgV"
+      },
+      "artists": [
+        {
+          "name": "Astral Bakers",
+          "url": "https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D"
+        }
+      ],
+      "duration_ms": 285413,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/0atuaFPE85WuHuCZ8owpeT"
+    },
+    {
+      "added_at": "2025-10-09 22:00:26",
+      "album": {
+        "name": "Villa d'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/2aVPOnczxN0DHnZpLAvVSy"
+      },
+      "artists": [
+        {
+          "name": "Amou\u00eb",
+          "url": "https://open.spotify.com/artist/5hxkInZtrkxDnUjsRqs5Ww"
+        },
+        {
+          "name": "Kazy Lambist",
+          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
+        }
+      ],
+      "duration_ms": 202331,
+      "name": "Villa d'\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/5b9ynJg3oLzBSs087ubJzN"
+    },
+    {
+      "added_at": "2025-10-09 22:00:26",
+      "album": {
+        "name": "Hopes",
+        "url": "https://open.spotify.com/album/7DwxsnVF7eErIgNNxLiT7H"
+      },
+      "artists": [
+        {
+          "name": "Broken Back",
+          "url": "https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "Hopes",
+      "url": "https://open.spotify.com/track/4VpZuQybRG17RNjhgVbym7"
+    },
+    {
+      "added_at": "2025-10-09 22:00:26",
+      "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/7i5vXSPjvgiciGKqXakw4D"
+      },
+      "artists": [
+        {
+          "name": "M\u00f8me",
+          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
+        },
+        {
+          "name": "Ricky Ducati",
+          "url": "https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE"
+        }
+      ],
+      "duration_ms": 226600,
+      "name": "Burnin'",
+      "url": "https://open.spotify.com/track/70YFYf4eukW4P25PxFF4Oe"
+    },
+    {
+      "added_at": "2025-10-09 22:00:26",
+      "album": {
+        "name": "Blurry Moon",
+        "url": "https://open.spotify.com/album/0KqAu7TrZEBB4DofE8HYDp"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Gainsbourg",
+          "url": "https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v"
+        }
+      ],
+      "duration_ms": 217894,
+      "name": "Blurry Moon - Edit",
+      "url": "https://open.spotify.com/track/5VDiA4KWTS0sdTW5ae0x4n"
+    },
+    {
+      "added_at": "2025-10-09 22:00:26",
+      "album": {
+        "name": "\u00e0 deux",
+        "url": "https://open.spotify.com/album/0lBTXzbaZT2BSXQZHjWFM1"
+      },
+      "artists": [
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "duration_ms": 205808,
+      "name": "\u00e0 deux",
+      "url": "https://open.spotify.com/track/4o9qAFSKQCZHM6tYoKrxGq"
+    },
+    {
+      "added_at": "2025-10-09 22:00:26",
+      "album": {
+        "name": "Lisbon",
+        "url": "https://open.spotify.com/album/61aSnHkcMWrnFRHMzOzk9i"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "duration_ms": 150656,
+      "name": "Lisbon",
+      "url": "https://open.spotify.com/track/75hA98CNQJqzpn3lNvvnc8"
+    },
+    {
+      "added_at": "2025-10-09 22:00:26",
+      "album": {
+        "name": "Le mur du salon",
+        "url": "https://open.spotify.com/album/2gZL4ccmGDOXe3mKvTGENo"
+      },
+      "artists": [
+        {
+          "name": "Steve Ibrahim",
+          "url": "https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs"
+        }
+      ],
+      "duration_ms": 189851,
+      "name": "Le mur du salon",
+      "url": "https://open.spotify.com/track/6DSFwl1y7t1ds2zMjgxEYy"
+    },
+    {
+      "added_at": "2025-10-09 22:00:26",
+      "album": {
+        "name": "autumn",
+        "url": "https://open.spotify.com/album/5UiNbnAfVXknFHgzaW3fTo"
+      },
+      "artists": [
+        {
+          "name": "Silly Boy Blue",
+          "url": "https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J"
+        }
+      ],
+      "duration_ms": 208735,
+      "name": "autumn",
+      "url": "https://open.spotify.com/track/5nQUv2ikT1ZomcjTOt4DzB"
+    },
+    {
+      "added_at": "2025-10-09 22:00:26",
       "album": {
         "name": "Nuit infinie",
         "url": "https://open.spotify.com/album/1PWuT3PMla7PAnscyX1svZ"
@@ -809,39 +645,71 @@
       "url": "https://open.spotify.com/track/6FWEN86RcumB1L3gFuShPi"
     },
     {
-      "added_at": "2025-10-02 22:00:50",
+      "added_at": "2025-10-09 22:00:26",
       "album": {
-        "name": "Never Let You Down",
-        "url": "https://open.spotify.com/album/4dbcD2yHmw21hqQuU0mm6o"
+        "name": "MICHAEL",
+        "url": "https://open.spotify.com/album/668jOGhZKeBUlvAWoDXWee"
       },
       "artists": [
         {
-          "name": "Kids Return",
-          "url": "https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq"
+          "name": "Deluxe",
+          "url": "https://open.spotify.com/artist/4EePV5BljRSXJnYww4d5Qa"
         }
       ],
-      "duration_ms": 248765,
-      "name": "Never Let You Down",
-      "url": "https://open.spotify.com/track/5x5BxIUiCw9K5AJG1umOTE"
+      "duration_ms": 218130,
+      "name": "MICHAEL",
+      "url": "https://open.spotify.com/track/37Yqh5GKMVPaGjfOSNhqJ0"
     },
     {
-      "added_at": "2025-10-02 22:00:50",
+      "added_at": "2025-10-09 22:00:26",
       "album": {
-        "name": "roger rabbit",
-        "url": "https://open.spotify.com/album/7prizHwvKXEPZAcbd8xQLp"
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ"
       },
       "artists": [
         {
-          "name": "miki",
-          "url": "https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6"
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
         }
       ],
-      "duration_ms": 275733,
-      "name": "roger rabbit",
-      "url": "https://open.spotify.com/track/4LXIfg4jZNs7SSWh8e5pUq"
+      "duration_ms": 159078,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj"
     },
     {
-      "added_at": "2025-10-02 22:00:50",
+      "added_at": "2025-10-09 22:00:26",
+      "album": {
+        "name": "IKnow",
+        "url": "https://open.spotify.com/album/2wLVN7bMHZvTTFgH8pRG0Y"
+      },
+      "artists": [
+        {
+          "name": "Sans Lactose",
+          "url": "https://open.spotify.com/artist/5o9bgsy6gISpQ7FJszf34L"
+        }
+      ],
+      "duration_ms": 154936,
+      "name": "IKnow",
+      "url": "https://open.spotify.com/track/4jBEvvUvThuhbyPuWMICHL"
+    },
+    {
+      "added_at": "2025-10-09 22:00:26",
+      "album": {
+        "name": "Mr. Plastic",
+        "url": "https://open.spotify.com/album/0AvBXxggtjAbVknmfvDegZ"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "duration_ms": 131811,
+      "name": "Mr. Plastic",
+      "url": "https://open.spotify.com/track/6spcrcdCq4lcRnYVkhVQRb"
+    },
+    {
+      "added_at": "2025-10-09 22:00:26",
       "album": {
         "name": "L'homme \u00e0 la rivi\u00e8re",
         "url": "https://open.spotify.com/album/13i8zUb2HeTdSNW1bOQvtu"
@@ -859,6 +727,158 @@
       "duration_ms": 245739,
       "name": "L'homme \u00e0 la rivi\u00e8re",
       "url": "https://open.spotify.com/track/6QuZZAr8mMz9JDTm4rSRtd"
+    },
+    {
+      "added_at": "2025-10-09 22:00:26",
+      "album": {
+        "name": "Les hommes tristes",
+        "url": "https://open.spotify.com/album/3WGJ5liCJcXJbz5GulsdwQ"
+      },
+      "artists": [
+        {
+          "name": "TheFrenchKris",
+          "url": "https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs"
+        }
+      ],
+      "duration_ms": 196266,
+      "name": "Les hommes tristes",
+      "url": "https://open.spotify.com/track/7AC8X6QYgwFc2gu98t5xjR"
+    },
+    {
+      "added_at": "2025-10-09 22:00:26",
+      "album": {
+        "name": "Nuit sauvage",
+        "url": "https://open.spotify.com/album/3GYhCAFqT7Rkh7WMthR7Rw"
+      },
+      "artists": [
+        {
+          "name": "ELISA ERKA",
+          "url": "https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM"
+        },
+        {
+          "name": "SOLEIL ROUGE",
+          "url": "https://open.spotify.com/artist/2Trhtz39560UW6C8EXSrrI"
+        }
+      ],
+      "duration_ms": 151926,
+      "name": "Nuit sauvage",
+      "url": "https://open.spotify.com/track/7zbOsTSAkfLuf7865DYbai"
+    },
+    {
+      "added_at": "2025-10-09 22:00:26",
+      "album": {
+        "name": "Bones For The Dogs (Pt.1)",
+        "url": "https://open.spotify.com/album/38C5XIAS6CpdSryJwPUCvP"
+      },
+      "artists": [
+        {
+          "name": "Cocoon",
+          "url": "https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD"
+        }
+      ],
+      "duration_ms": 157546,
+      "name": "I Love You - Radio Edit",
+      "url": "https://open.spotify.com/track/7hIWX9Nl7qMLCvb35lTH9E"
+    },
+    {
+      "added_at": "2025-10-09 22:00:26",
+      "album": {
+        "name": "Un Premier Amour",
+        "url": "https://open.spotify.com/album/7epVnZXwmDDXs07fFW1TQm"
+      },
+      "artists": [
+        {
+          "name": "Hunter",
+          "url": "https://open.spotify.com/artist/4kz8Ax2USW4Xae9WSQHVec"
+        }
+      ],
+      "duration_ms": 190714,
+      "name": "Un Premier Amour",
+      "url": "https://open.spotify.com/track/3ACLBmxaG5SknHYGrsl7d3"
+    },
+    {
+      "added_at": "2025-10-09 22:00:26",
+      "album": {
+        "name": "Never Let You Down",
+        "url": "https://open.spotify.com/album/4dbcD2yHmw21hqQuU0mm6o"
+      },
+      "artists": [
+        {
+          "name": "Kids Return",
+          "url": "https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq"
+        }
+      ],
+      "duration_ms": 248765,
+      "name": "Never Let You Down",
+      "url": "https://open.spotify.com/track/5x5BxIUiCw9K5AJG1umOTE"
+    },
+    {
+      "added_at": "2025-10-09 22:00:26",
+      "album": {
+        "name": "SUNSET RADIO",
+        "url": "https://open.spotify.com/album/490REHUgcRRvvuEMqFxUwQ"
+      },
+      "artists": [
+        {
+          "name": "Odetto",
+          "url": "https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF"
+        }
+      ],
+      "duration_ms": 143606,
+      "name": "FEVER 105",
+      "url": "https://open.spotify.com/track/3L3UJWqBEbHR6j8gT55zpO"
+    },
+    {
+      "added_at": "2025-10-09 22:00:26",
+      "album": {
+        "name": "Cigarette \u00e0 la bouche",
+        "url": "https://open.spotify.com/album/4TFXhd63WzwRhaVw7qcHtp"
+      },
+      "artists": [
+        {
+          "name": "D'accord Simon",
+          "url": "https://open.spotify.com/artist/6HBlOvzTZVt7yd5AUZxygo"
+        }
+      ],
+      "duration_ms": 120988,
+      "name": "Cigarette \u00e0 la bouche",
+      "url": "https://open.spotify.com/track/1XUDuhvC5y8B2PkB71C6ci"
+    },
+    {
+      "added_at": "2025-10-09 22:00:26",
+      "album": {
+        "name": "M\u00e1s Cerquita",
+        "url": "https://open.spotify.com/album/6K0PvWj8QYiMDQIGnDZ0Rk"
+      },
+      "artists": [
+        {
+          "name": "Miel De Montagne",
+          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
+        },
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 179142,
+      "name": "M\u00e1s Cerquita",
+      "url": "https://open.spotify.com/track/4uBWOQCmYrXzkUvAPNrzob"
+    },
+    {
+      "added_at": "2025-10-09 22:00:26",
+      "album": {
+        "name": "essayer",
+        "url": "https://open.spotify.com/album/3k6lOWS9MFywU1hLyYTXvh"
+      },
+      "artists": [
+        {
+          "name": "Heroe",
+          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
+        }
+      ],
+      "duration_ms": 185212,
+      "name": "essayer",
+      "url": "https://open.spotify.com/track/7zPWupz9vVYmNC3ZjBctCs"
     }
   ],
   "unique_name": "Made in France",

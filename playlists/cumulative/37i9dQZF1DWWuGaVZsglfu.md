@@ -2,7 +2,7 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: ALYPH
+> The best tracks from the world of music\. Cover: Taylor Swift
 
 421 songs - 23 hr 55 min
 

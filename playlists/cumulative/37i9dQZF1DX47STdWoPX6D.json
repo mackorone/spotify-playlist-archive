@@ -4743,6 +4743,24 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/2LT3tPiJy1aM3l2sG8kQ6Z"
+      },
+      "artists": [
+        {
+          "name": "TELMAN",
+          "url": "https://open.spotify.com/artist/1yUoEAx9505meg1nEyulne"
+        }
+      ],
+      "date_added": "2025-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143824,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/6KDeSFnvoYgaulyfMmZbpu"
+    },
+    {
+      "album": {
         "name": "FREE FROM SIN",
         "url": "https://open.spotify.com/album/2Lp9wWgklDmrzx4ckcyiR6"
       },

@@ -6,8 +6,24 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "AAAHnFSkhFIyZhI+7jGwuPPOdIxBREAO",
+  "snapshot_id": "AAAHnc+RMswvWtL0+LbKdIm301j6NW44",
   "tracks": [
+    {
+      "added_at": "2025-10-09 23:25:50",
+      "album": {
+        "name": "You You You / Audrey Hepburn",
+        "url": "https://open.spotify.com/album/2IHW6rf6xGNhT1HuMEG5Pu"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 166983,
+      "name": "You You You",
+      "url": "https://open.spotify.com/track/0kHP8fxSPNPP40kRHtnfLB"
+    },
     {
       "added_at": "2025-10-09 00:17:38",
       "album": {

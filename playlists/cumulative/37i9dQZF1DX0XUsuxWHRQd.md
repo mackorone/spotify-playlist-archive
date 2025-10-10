@@ -4,7 +4,7 @@
 
 > Music from Gunna, Offset and Young Thug.
 
-2,523 songs - 5 day 10 hr 50 min
+2,524 songs - 5 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -804,6 +804,7 @@
 | [Get Into It \(Yuh\)](https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:18 | 2022-03-11 | 2022-04-02 |
 | [Get It Sexyy](https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Get It Sexyy](https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw) | 2:28 | 2024-03-15 | 2024-09-07 |
 | [GET OFF ME \(with Travis Scott\)](https://open.spotify.com/track/2Adxpr1j5lSihOCsmIfflJ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 3:35 | 2024-01-12 | 2024-04-19 |
+| [Get Throwed](https://open.spotify.com/track/5cgEqRvybRPidNG7I31mdn) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Pimp C](https://open.spotify.com/artist/7v9bFXCdSMA2o3gS4nvp0F), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Z\-Ro](https://open.spotify.com/artist/6MrdwyCIKbpXmTKQBlG3uq) | [Trill](https://open.spotify.com/album/2MRqLKlTAsNCYgWvZE9vgA) | 3:53 | 2025-10-09 |  |
 | [Get Up & Get It](https://open.spotify.com/track/5uuusXnEMpaRhRw6NAvMsu) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Get Up & Get It](https://open.spotify.com/album/6ca5jSGP5CN0iMPzfSApw6) | 1:52 | 2024-08-31 | 2024-09-07 |
 | [Get You Back \(feat\. Cash Cobain\)](https://open.spotify.com/track/14o4OozkcWqwSYUDG8Kae4) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Better Me Than You](https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd) | 4:01 | 2024-08-31 | 2024-09-21 |
 | [Get Your Roll On](https://open.spotify.com/track/4HpCT9jeCzBfpCaF3aTVWX) | [Big Tymers](https://open.spotify.com/artist/4jWGfUCFeTu5e0wprRhHXR) | [I Got That Work](https://open.spotify.com/album/7pe02mW4PQwNJkrmSup7bu) | 4:02 | 2025-05-15 | 2025-05-17 |

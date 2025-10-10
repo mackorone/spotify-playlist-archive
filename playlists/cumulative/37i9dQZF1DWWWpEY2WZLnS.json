@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Los \u00e9xitos del Dembow. Portada: Lomiiel",
+  "description": "Los \u00e9xitos del Dembow. Portada: Jezzy",
   "name": "Dembow Pegao",
   "tracks": [
     {
@@ -402,7 +402,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 82500,
       "name": "AY LILY",
       "url": "https://open.spotify.com/track/0n0JzQMRHIRyzzQa1NNcsh"
@@ -2034,6 +2034,24 @@
       "duration_ms": 135655,
       "name": "Dimdon - Remix",
       "url": "https://open.spotify.com/track/3STV7c3i82ArcyMejMHIwH"
+    },
+    {
+      "album": {
+        "name": "Dime Cuero",
+        "url": "https://open.spotify.com/album/1KvZio518bIYQiGVG5LaGx"
+      },
+      "artists": [
+        {
+          "name": "La Insuperable",
+          "url": "https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102892,
+      "name": "Dime Cuero",
+      "url": "https://open.spotify.com/track/7uCTKGaWHqP4437MaAxIJn"
     },
     {
       "album": {
@@ -3951,6 +3969,28 @@
     },
     {
       "album": {
+        "name": "Lo Que Pueda",
+        "url": "https://open.spotify.com/album/6CvWEmt3xZ3pweimfJMQpA"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        },
+        {
+          "name": "Herido no muerto",
+          "url": "https://open.spotify.com/artist/72d2wiRTQCxoIENVvdb7xc"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108521,
+      "name": "Lo Que Pueda",
+      "url": "https://open.spotify.com/track/30nFYRKzWVSRD3On03CbzH"
+    },
+    {
+      "album": {
         "name": "Lo Rafaguie",
         "url": "https://open.spotify.com/album/0PNfohwBm4XqbY83CA39BV"
       },
@@ -5267,6 +5307,28 @@
     },
     {
       "album": {
+        "name": "MUXAXA",
+        "url": "https://open.spotify.com/album/6NeWz1m7EndzRGrxiX39KZ"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "La Mas Doll",
+          "url": "https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109268,
+      "name": "MUXAXA",
+      "url": "https://open.spotify.com/track/0zNQhDxF7EVm7VUqU7nIBu"
+    },
+    {
+      "album": {
         "name": "Nataly (Remix)",
         "url": "https://open.spotify.com/album/3tKwIWIRd2EAzX9Ms7Sq7r"
       },
@@ -6553,6 +6615,24 @@
     },
     {
       "album": {
+        "name": "Que Sensaci\u00f3n",
+        "url": "https://open.spotify.com/album/1RxofSucDGt5IujJ2615cQ"
+      },
+      "artists": [
+        {
+          "name": "Jezzy",
+          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137590,
+      "name": "Que Sensaci\u00f3n",
+      "url": "https://open.spotify.com/track/6HKM31OYl260uEXGNRdsPz"
+    },
+    {
+      "album": {
         "name": "Que Sera?",
         "url": "https://open.spotify.com/album/0b5Y1nuev4ssM5k0WedKWY"
       },
@@ -7123,6 +7203,28 @@
     },
     {
       "album": {
+        "name": "Se Riega",
+        "url": "https://open.spotify.com/album/2F9NvZEkq2lHSeTSLWpnMs"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160178,
+      "name": "Se Riega",
+      "url": "https://open.spotify.com/track/7EOiQ1TeeA4eMgkCl4gUGY"
+    },
+    {
+      "album": {
         "name": "Serrucho Amolao",
         "url": "https://open.spotify.com/album/3QMOI8vjjvVNXCPHfLGiXY"
       },
@@ -7432,7 +7534,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 134222,
       "name": "Sistema De Patio",
       "url": "https://open.spotify.com/track/65497v9jzFfu5sSA8ADap5"
@@ -7894,7 +7996,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 154083,
       "name": "TATARA REMIX",
       "url": "https://open.spotify.com/track/3rGXH8BjIWSZgr38faOSNJ"
@@ -8872,7 +8974,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 206842,
       "name": "Vivo Por Palomo",
       "url": "https://open.spotify.com/track/74trikNmBL8OMjgBZwlJw9"
@@ -9126,7 +9228,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 143280,
       "name": "ZAZA - Remix",
       "url": "https://open.spotify.com/track/157SLPPoUprFCCeFf6aSSK"

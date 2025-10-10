@@ -1,6 +1,6 @@
 {
   "description": "Workout with Haryanvi Songs.",
-  "num_followers": 49672,
+  "num_followers": 49714,
   "original_name": "Haryanvi Workout",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2025-10-07 08:37:35",
       "album": {
-        "name": "Tagde Karam",
-        "url": "https://open.spotify.com/album/5rTJ8zrN5kCFWM0uhoCiwa"
-      },
-      "artists": [
-        {
-          "name": "Sumit Parta",
-          "url": "https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr"
-        }
-      ],
-      "duration_ms": 165063,
-      "name": "Tagde Karam",
-      "url": "https://open.spotify.com/track/4KokOfuYaiKzjpbKbQfiOT"
-    },
-    {
-      "added_at": "2025-10-07 08:37:35",
-      "album": {
         "name": "Surrey BC",
         "url": "https://open.spotify.com/album/4FZjdxEiFL0HWL4antngWO"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 227826,
       "name": "Surrey BC",
       "url": "https://open.spotify.com/track/7uMZMs65u1FlVYdmvQKXMs"
+    },
+    {
+      "added_at": "2025-10-07 08:37:35",
+      "album": {
+        "name": "Tagde Karam",
+        "url": "https://open.spotify.com/album/5rTJ8zrN5kCFWM0uhoCiwa"
+      },
+      "artists": [
+        {
+          "name": "Sumit Parta",
+          "url": "https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr"
+        }
+      ],
+      "duration_ms": 165063,
+      "name": "Tagde Karam",
+      "url": "https://open.spotify.com/track/4KokOfuYaiKzjpbKbQfiOT"
     },
     {
       "added_at": "2025-10-07 08:37:35",
@@ -499,6 +499,50 @@
     {
       "added_at": "2025-10-07 08:37:35",
       "album": {
+        "name": "Jhota",
+        "url": "https://open.spotify.com/album/4zf8nXEvy8vsAWYVcbZ1vA"
+      },
+      "artists": [
+        {
+          "name": "D Naveen",
+          "url": "https://open.spotify.com/artist/5D80BHvnjVZSI4M9mVp7Sb"
+        },
+        {
+          "name": "Daulatpuria",
+          "url": "https://open.spotify.com/artist/0c8dHxShstYZeEkR4SIrBI"
+        },
+        {
+          "name": "Fiza Choudhary",
+          "url": "https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB"
+        }
+      ],
+      "duration_ms": 194859,
+      "name": "Jhota",
+      "url": "https://open.spotify.com/track/7HBufeUOfByxWXTRO8AhaR"
+    },
+    {
+      "added_at": "2025-10-07 08:37:35",
+      "album": {
+        "name": "Jaat",
+        "url": "https://open.spotify.com/album/1T3kwFgMDCxWqQzfU61use"
+      },
+      "artists": [
+        {
+          "name": "Khasa Aala Chahar",
+          "url": "https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck"
+        },
+        {
+          "name": "Ghanu Music",
+          "url": "https://open.spotify.com/artist/21dcNsxyYDyCaF33KDYL3T"
+        }
+      ],
+      "duration_ms": 177473,
+      "name": "Jaat",
+      "url": "https://open.spotify.com/track/7ukOVopzKs1CFGZgZRTOMo"
+    },
+    {
+      "added_at": "2025-10-07 08:37:35",
+      "album": {
         "name": "Yodha",
         "url": "https://open.spotify.com/album/18yI9MCnn6F8J0XtCStdic"
       },
@@ -527,50 +571,6 @@
     {
       "added_at": "2025-10-07 08:37:35",
       "album": {
-        "name": "Jaat",
-        "url": "https://open.spotify.com/album/1T3kwFgMDCxWqQzfU61use"
-      },
-      "artists": [
-        {
-          "name": "Khasa Aala Chahar",
-          "url": "https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck"
-        },
-        {
-          "name": "Ghanu Music",
-          "url": "https://open.spotify.com/artist/21dcNsxyYDyCaF33KDYL3T"
-        }
-      ],
-      "duration_ms": 177473,
-      "name": "Jaat",
-      "url": "https://open.spotify.com/track/7ukOVopzKs1CFGZgZRTOMo"
-    },
-    {
-      "added_at": "2025-10-07 08:37:35",
-      "album": {
-        "name": "Jhota",
-        "url": "https://open.spotify.com/album/4zf8nXEvy8vsAWYVcbZ1vA"
-      },
-      "artists": [
-        {
-          "name": "D Naveen",
-          "url": "https://open.spotify.com/artist/5D80BHvnjVZSI4M9mVp7Sb"
-        },
-        {
-          "name": "Daulatpuria",
-          "url": "https://open.spotify.com/artist/0c8dHxShstYZeEkR4SIrBI"
-        },
-        {
-          "name": "Fiza Choudhary",
-          "url": "https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB"
-        }
-      ],
-      "duration_ms": 194859,
-      "name": "Jhota",
-      "url": "https://open.spotify.com/track/7HBufeUOfByxWXTRO8AhaR"
-    },
-    {
-      "added_at": "2025-10-07 08:37:35",
-      "album": {
         "name": "0008",
         "url": "https://open.spotify.com/album/2HvTVuae3QUQEM9SiyzqHT"
       },
@@ -587,26 +587,6 @@
     {
       "added_at": "2025-10-07 08:37:35",
       "album": {
-        "name": "Near By Me",
-        "url": "https://open.spotify.com/album/6N66GsbNmVVOEvCUWKw68f"
-      },
-      "artists": [
-        {
-          "name": "Bintu Pabra",
-          "url": "https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe"
-        },
-        {
-          "name": "Kp Kundu",
-          "url": "https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn"
-        }
-      ],
-      "duration_ms": 184941,
-      "name": "Near By Me",
-      "url": "https://open.spotify.com/track/5y8ROfzveFCMOSkkrG3WmU"
-    },
-    {
-      "added_at": "2025-10-07 08:37:35",
-      "album": {
         "name": "Jat Supremacy",
         "url": "https://open.spotify.com/album/3rDnXnhPvYyPVj0uT4MMzl"
       },
@@ -619,26 +599,6 @@
       "duration_ms": 158333,
       "name": "Jat Supremacy",
       "url": "https://open.spotify.com/track/5H8UVQwQKebV6PaB6iTQX8"
-    },
-    {
-      "added_at": "2025-10-07 08:37:35",
-      "album": {
-        "name": "Lath",
-        "url": "https://open.spotify.com/album/1ywwM0y7s8IAhSuePlvvqf"
-      },
-      "artists": [
-        {
-          "name": "Khasa Aala Chahar",
-          "url": "https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck"
-        },
-        {
-          "name": "Addy Nagar",
-          "url": "https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5"
-        }
-      ],
-      "duration_ms": 192352,
-      "name": "Lath",
-      "url": "https://open.spotify.com/track/5qiqDTdWfqwOX4pyPxPmSy"
     },
     {
       "added_at": "2025-10-07 08:37:35",
@@ -667,6 +627,46 @@
     {
       "added_at": "2025-10-07 08:37:35",
       "album": {
+        "name": "Lath",
+        "url": "https://open.spotify.com/album/1ywwM0y7s8IAhSuePlvvqf"
+      },
+      "artists": [
+        {
+          "name": "Khasa Aala Chahar",
+          "url": "https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck"
+        },
+        {
+          "name": "Addy Nagar",
+          "url": "https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5"
+        }
+      ],
+      "duration_ms": 192352,
+      "name": "Lath",
+      "url": "https://open.spotify.com/track/5qiqDTdWfqwOX4pyPxPmSy"
+    },
+    {
+      "added_at": "2025-10-07 08:37:35",
+      "album": {
+        "name": "Near By Me",
+        "url": "https://open.spotify.com/album/6N66GsbNmVVOEvCUWKw68f"
+      },
+      "artists": [
+        {
+          "name": "Bintu Pabra",
+          "url": "https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe"
+        },
+        {
+          "name": "Kp Kundu",
+          "url": "https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn"
+        }
+      ],
+      "duration_ms": 184941,
+      "name": "Near By Me",
+      "url": "https://open.spotify.com/track/5y8ROfzveFCMOSkkrG3WmU"
+    },
+    {
+      "added_at": "2025-10-07 08:37:35",
+      "album": {
         "name": "2 Numbari",
         "url": "https://open.spotify.com/album/5rf6ySbyNTgoYdhpZzKiRa"
       },
@@ -683,6 +683,30 @@
       "duration_ms": 212114,
       "name": "2 Numbari",
       "url": "https://open.spotify.com/track/44QLCfLlW3WAiyLyQxkVmk"
+    },
+    {
+      "added_at": "2025-10-07 08:37:35",
+      "album": {
+        "name": "Koi Na",
+        "url": "https://open.spotify.com/album/7106si82R8FQw7KApQKk2n"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Uchana Amit",
+          "url": "https://open.spotify.com/artist/5bUGkhve6dkRRnwUH12IHW"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Koi Na",
+      "url": "https://open.spotify.com/track/64qn5oeo6Dcrur3dsu0gsJ"
     },
     {
       "added_at": "2025-10-07 08:37:35",
@@ -711,30 +735,6 @@
       "duration_ms": 208909,
       "name": "Gunde Te Pyaar",
       "url": "https://open.spotify.com/track/3AaInQgz5j9wLN9PR87pqy"
-    },
-    {
-      "added_at": "2025-10-07 08:37:35",
-      "album": {
-        "name": "Koi Na",
-        "url": "https://open.spotify.com/album/7106si82R8FQw7KApQKk2n"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Uchana Amit",
-          "url": "https://open.spotify.com/artist/5bUGkhve6dkRRnwUH12IHW"
-        },
-        {
-          "name": "Hiten",
-          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Koi Na",
-      "url": "https://open.spotify.com/track/64qn5oeo6Dcrur3dsu0gsJ"
     },
     {
       "added_at": "2025-10-07 08:37:35",
@@ -1019,18 +1019,26 @@
     {
       "added_at": "2025-10-07 08:37:35",
       "album": {
-        "name": "Choudhar",
-        "url": "https://open.spotify.com/album/0oyh3wxqoJTTsdv7CLLr4C"
+        "name": "Pehlwan",
+        "url": "https://open.spotify.com/album/42YOUQe0aQBmprIsQzvKiJ"
       },
       "artists": [
         {
-          "name": "Raj Mawer",
-          "url": "https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2"
+          "name": "Rahul Dhandlaniya",
+          "url": "https://open.spotify.com/artist/3uIl3S4LSdiqMj19bqlDBX"
+        },
+        {
+          "name": "Vishvajeet Choudhary",
+          "url": "https://open.spotify.com/artist/1mfAGblExpLNFZtiv88m9D"
+        },
+        {
+          "name": "Yogesh Jakhodiya",
+          "url": "https://open.spotify.com/artist/36MYlNNUlZ9cZqLJMqxJVA"
         }
       ],
-      "duration_ms": 173392,
-      "name": "Choudhar",
-      "url": "https://open.spotify.com/track/4A6ZZI5c6u598KGM5OL1RK"
+      "duration_ms": 152238,
+      "name": "Pehlwan",
+      "url": "https://open.spotify.com/track/1SnFnbxHkldx3dZxgv7RVw"
     }
   ],
   "unique_name": "Haryanvi Workout",

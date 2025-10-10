@@ -1,6 +1,6 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1160877,
+  "num_followers": 1160721,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "All Night Pharmacy",
-        "url": "https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s"
-      },
-      "artists": [
-        {
-          "name": "Nathan Reich",
-          "url": "https://open.spotify.com/artist/3kyJ9Dtcfsww8eXKdmLvtf"
-        }
-      ],
-      "duration_ms": 255760,
-      "name": "The Dream Song",
-      "url": "https://open.spotify.com/track/4VzC9UCasqtH2lMsYNyLbF"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "Bare",
         "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 234546,
       "name": "Bare",
       "url": "https://open.spotify.com/track/0hEUr7PprXg3ia1nl5kEaQ"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "All Night Pharmacy",
+        "url": "https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s"
+      },
+      "artists": [
+        {
+          "name": "Nathan Reich",
+          "url": "https://open.spotify.com/artist/3kyJ9Dtcfsww8eXKdmLvtf"
+        }
+      ],
+      "duration_ms": 255760,
+      "name": "The Dream Song",
+      "url": "https://open.spotify.com/track/4VzC9UCasqtH2lMsYNyLbF"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Song Spells, No.1: Cedarsmoke",
-        "url": "https://open.spotify.com/album/3Q4S1bRlEEeztfrM4KsMFQ"
-      },
-      "artists": [
-        {
-          "name": "Sea Wolf",
-          "url": "https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "Young Bodies",
-      "url": "https://open.spotify.com/track/4BhEQsifqbzCdknLf52O1G"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "Thousand (acoustic)",
         "url": "https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 202720,
       "name": "Thousand - Acoustic",
       "url": "https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "Song Spells, No.1: Cedarsmoke",
+        "url": "https://open.spotify.com/album/3Q4S1bRlEEeztfrM4KsMFQ"
+      },
+      "artists": [
+        {
+          "name": "Sea Wolf",
+          "url": "https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Young Bodies",
+      "url": "https://open.spotify.com/track/4BhEQsifqbzCdknLf52O1G"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Campfire, Vol. 1",
-        "url": "https://open.spotify.com/album/5iAggKoFENKm9glKjYBivz"
-      },
-      "artists": [
-        {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
-        }
-      ],
-      "duration_ms": 205454,
-      "name": "Let's Go Outside - Campfire Version",
-      "url": "https://open.spotify.com/track/6TTY6RUXmtl8VgKzm5szBO"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "Last Line",
         "url": "https://open.spotify.com/album/3WO6fZZkHAVj9F0kMfQ6SU"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "White Frost (Acoustic)",
-        "url": "https://open.spotify.com/album/1o0ZTBBqkC13llPDW53GXr"
+        "name": "Campfire, Vol. 1",
+        "url": "https://open.spotify.com/album/5iAggKoFENKm9glKjYBivz"
       },
       "artists": [
         {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
         }
       ],
-      "duration_ms": 205821,
-      "name": "White Frost (Acoustic)",
-      "url": "https://open.spotify.com/track/1EGYznVKJR5JB5gs6Axfie"
+      "duration_ms": 205454,
+      "name": "Let's Go Outside - Campfire Version",
+      "url": "https://open.spotify.com/track/6TTY6RUXmtl8VgKzm5szBO"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -847,6 +831,22 @@
       "duration_ms": 239979,
       "name": "Wild Parts",
       "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "White Frost (Acoustic)",
+        "url": "https://open.spotify.com/album/1o0ZTBBqkC13llPDW53GXr"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 205821,
+      "name": "White Frost (Acoustic)",
+      "url": "https://open.spotify.com/track/1EGYznVKJR5JB5gs6Axfie"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Polyester",
-        "url": "https://open.spotify.com/album/2tkakCOwJdh36GJYCFWAFl"
-      },
-      "artists": [
-        {
-          "name": "Clea",
-          "url": "https://open.spotify.com/artist/5BMsuUeplpt928CfxMxHAl"
-        }
-      ],
-      "duration_ms": 208952,
-      "name": "Polyester",
-      "url": "https://open.spotify.com/track/7hfXWCR9YTkaD4TUk3y2ee"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "Sang About It",
         "url": "https://open.spotify.com/album/4mczmDqhr8dVQIQP8mdBJZ"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 133786,
       "name": "Sang About It",
       "url": "https://open.spotify.com/track/7r6SeYvJXds6JAxpeeISmg"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "Polyester",
+        "url": "https://open.spotify.com/album/2tkakCOwJdh36GJYCFWAFl"
+      },
+      "artists": [
+        {
+          "name": "Clea",
+          "url": "https://open.spotify.com/artist/5BMsuUeplpt928CfxMxHAl"
+        }
+      ],
+      "duration_ms": 208952,
+      "name": "Polyester",
+      "url": "https://open.spotify.com/track/7hfXWCR9YTkaD4TUk3y2ee"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/378rFsWTa7DZ8nZVHSaA18"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Nothing Arrived - Live from Spotify London",
-      "url": "https://open.spotify.com/track/4JKHACLkotsxdKNF9vJYOS"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
         "name": "Sinking Ship / Back & Forth",
         "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 247493,
       "name": "Sinking Ship",
       "url": "https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/378rFsWTa7DZ8nZVHSaA18"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Nothing Arrived - Live from Spotify London",
+      "url": "https://open.spotify.com/track/4JKHACLkotsxdKNF9vJYOS"
     },
     {
       "added_at": "2024-08-23 15:12:14",

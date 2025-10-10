@@ -1346,6 +1346,36 @@
     {
       "album": {
         "name": "Legends Never Die (Remix)",
+        "url": "https://open.spotify.com/album/1ITtdilZvKZAIIzZDZskCi"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        },
+        {
+          "name": "Mako",
+          "url": "https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167173,
+      "name": "Legends Never Die (Remix)",
+      "url": "https://open.spotify.com/track/5481KTfiIDDOvTqgtevdIj"
+    },
+    {
+      "album": {
+        "name": "Legends Never Die (Remix)",
         "url": "https://open.spotify.com/album/2cRJKhNgs1Snq7bV4ELLho"
       },
       "artists": [
@@ -1368,7 +1398,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 167173,
       "name": "Legends Never Die - (Remix)",
       "url": "https://open.spotify.com/track/66YtIqT0kN4958EXnCnAmE"

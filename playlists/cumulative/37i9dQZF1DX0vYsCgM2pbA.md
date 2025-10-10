@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0vYsCgM2pbA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0vYsCgM2pbA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0vYsCgM2pbA)
 
-### [Sunday Sessions](https://open.spotify.com/playlist/37i9dQZF1DX0vYsCgM2pbA)
+### [Pacific Circuit](https://open.spotify.com/playlist/37i9dQZF1DX0vYsCgM2pbA)
 
 > Electronic music from AUS + NZ
 

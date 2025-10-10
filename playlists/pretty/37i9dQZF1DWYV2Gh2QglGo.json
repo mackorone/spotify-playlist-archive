@@ -1,13 +1,45 @@
 {
-  "description": "The home of Canadian country music. Cover: Owen Riegling",
+  "description": "The home of Canadian country music. Cover: Sully Burrows",
   "num_followers": 82777,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHQ7JmiLA2K/TvEJddny8c8xgMFD",
+  "snapshot_id": "AAAAALoZxqzdcecP8vLkgmqRJcgxaMxh",
   "tracks": [
+    {
+      "added_at": "2025-10-10 00:01:13",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Sully Burrows",
+          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/57t1RzKv09qhtwW9NANXV0"
+    },
+    {
+      "added_at": "2025-10-10 00:01:13",
+      "album": {
+        "name": "Smokin' Gun",
+        "url": "https://open.spotify.com/album/5rbRTLNHTrjEYrwD2iMDFF"
+      },
+      "artists": [
+        {
+          "name": "Kalsey Kulyk",
+          "url": "https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu"
+        }
+      ],
+      "duration_ms": 179063,
+      "name": "Smokin\u2019 Gun",
+      "url": "https://open.spotify.com/track/2aleKd3JEeQiXUmQDsNMq5"
+    },
     {
       "added_at": "2025-10-06 15:31:33",
       "album": {
@@ -25,6 +57,42 @@
       "url": "https://open.spotify.com/track/1n1NjVpPDdpn8BMQOL7lGY"
     },
     {
+      "added_at": "2025-10-10 00:01:13",
+      "album": {
+        "name": "Life's Waiting On Me",
+        "url": "https://open.spotify.com/album/08L0ipvi6v6CiCD6uhYGtP"
+      },
+      "artists": [
+        {
+          "name": "Brittany Kennell",
+          "url": "https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP"
+        }
+      ],
+      "duration_ms": 189224,
+      "name": "Life's Waiting On Me",
+      "url": "https://open.spotify.com/track/4fMZcwzeJj6NTmJ8MagN92"
+    },
+    {
+      "added_at": "2025-10-10 00:01:13",
+      "album": {
+        "name": "Hearts Don't Break",
+        "url": "https://open.spotify.com/album/3CqFzCygjaA2cnaKdp4NSB"
+      },
+      "artists": [
+        {
+          "name": "Taylor-Rae",
+          "url": "https://open.spotify.com/artist/0DlnbmX0kuF1v8xzxxtqN8"
+        },
+        {
+          "name": "Antonio Larosa",
+          "url": "https://open.spotify.com/artist/6Dq03yxvWqvZPoZR7OWbZX"
+        }
+      ],
+      "duration_ms": 193121,
+      "name": "Hearts Don't Break",
+      "url": "https://open.spotify.com/track/4MK4jsFbuW2yjAZGxLpIdb"
+    },
+    {
       "added_at": "2025-10-06 15:31:33",
       "album": {
         "name": "Somebody To Love",
@@ -39,6 +107,70 @@
       "duration_ms": 187582,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/5pMqKMKf7v6XZYG8yNTDTQ"
+    },
+    {
+      "added_at": "2025-10-10 00:01:13",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Raquel Cole",
+          "url": "https://open.spotify.com/artist/79d6Lyd8uQbZsCWtpnZqtF"
+        }
+      ],
+      "duration_ms": 187988,
+      "name": "Fire Child",
+      "url": "https://open.spotify.com/track/1QZu9XYaAtUAMai016gS0o"
+    },
+    {
+      "added_at": "2025-10-06 15:31:33",
+      "album": {
+        "name": "The Hard Way",
+        "url": "https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 218810,
+      "name": "Call For You",
+      "url": "https://open.spotify.com/track/34HlyukOVl1gK1nfP5UXqs"
+    },
+    {
+      "added_at": "2025-10-06 15:31:33",
+      "album": {
+        "name": "Everybody Loves My Little Darling",
+        "url": "https://open.spotify.com/album/6cL7E045MCT6M72Ij7xkIT"
+      },
+      "artists": [
+        {
+          "name": "Jake Vaadeland",
+          "url": "https://open.spotify.com/artist/3xQzfgIw2TLiFUfvlrKgH3"
+        }
+      ],
+      "duration_ms": 130880,
+      "name": "Everybody Loves My Little Darling",
+      "url": "https://open.spotify.com/track/792fQejq2ZtI3SvapaWxAt"
+    },
+    {
+      "added_at": "2025-10-06 15:31:33",
+      "album": {
+        "name": "Later Tonight",
+        "url": "https://open.spotify.com/album/7hAMjXvMKlllp6f3WZatdD"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 210184,
+      "name": "Scared Of Getting Sober",
+      "url": "https://open.spotify.com/track/0OnvtIScF6dnQh4jFW6thI"
     },
     {
       "added_at": "2025-10-06 15:31:33",
@@ -93,6 +225,26 @@
       "url": "https://open.spotify.com/track/7AxaVrXiFMkDmyNSsyMWXU"
     },
     {
+      "added_at": "2025-10-10 00:01:13",
+      "album": {
+        "name": "The Oil\u2019s Back In Town",
+        "url": "https://open.spotify.com/album/2waatVX92IUT38X7fMCJBL"
+      },
+      "artists": [
+        {
+          "name": "Corb Lund",
+          "url": "https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og"
+        },
+        {
+          "name": "Musora",
+          "url": "https://open.spotify.com/artist/60Qtnm46ynKnGaaMjOjogW"
+        }
+      ],
+      "duration_ms": 146854,
+      "name": "The Oil\u2019s Back In Town - Musora Session",
+      "url": "https://open.spotify.com/track/42XQcesZHzFr5K8CkfYzxY"
+    },
+    {
       "added_at": "2025-10-06 15:31:33",
       "album": {
         "name": "All Kinds of Country",
@@ -111,38 +263,6 @@
       "duration_ms": 145869,
       "name": "All Kinds of Country",
       "url": "https://open.spotify.com/track/51qhktrdUqMlGd16YNps7I"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Everybody Loves My Little Darling",
-        "url": "https://open.spotify.com/album/6cL7E045MCT6M72Ij7xkIT"
-      },
-      "artists": [
-        {
-          "name": "Jake Vaadeland",
-          "url": "https://open.spotify.com/artist/3xQzfgIw2TLiFUfvlrKgH3"
-        }
-      ],
-      "duration_ms": 130880,
-      "name": "Everybody Loves My Little Darling",
-      "url": "https://open.spotify.com/track/792fQejq2ZtI3SvapaWxAt"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "The Hard Way",
-        "url": "https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 218810,
-      "name": "Call For You",
-      "url": "https://open.spotify.com/track/34HlyukOVl1gK1nfP5UXqs"
     },
     {
       "added_at": "2025-10-06 15:31:33",
@@ -179,22 +299,6 @@
     {
       "added_at": "2025-10-06 15:31:33",
       "album": {
-        "name": "Later Tonight",
-        "url": "https://open.spotify.com/album/7hAMjXvMKlllp6f3WZatdD"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 210184,
-      "name": "Scared Of Getting Sober",
-      "url": "https://open.spotify.com/track/0OnvtIScF6dnQh4jFW6thI"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
         "name": "Band of Brothers",
         "url": "https://open.spotify.com/album/4Q7CLYpIjm8au0OGagIGAU"
       },
@@ -207,6 +311,22 @@
       "duration_ms": 204267,
       "name": "Band of Brothers",
       "url": "https://open.spotify.com/track/0BT7H91KxiidSQBvLCEFRK"
+    },
+    {
+      "added_at": "2025-10-06 15:31:33",
+      "album": {
+        "name": "Jessica, Jezebel",
+        "url": "https://open.spotify.com/album/4mVjw6YwvS9B5eoGCyLzGY"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "duration_ms": 201211,
+      "name": "Jessica, Jezebel",
+      "url": "https://open.spotify.com/track/4AkuVJWRhimUDI176m9pyE"
     },
     {
       "added_at": "2025-10-06 15:31:33",
@@ -263,22 +383,6 @@
     {
       "added_at": "2025-10-06 15:31:33",
       "album": {
-        "name": "Jessica, Jezebel",
-        "url": "https://open.spotify.com/album/4mVjw6YwvS9B5eoGCyLzGY"
-      },
-      "artists": [
-        {
-          "name": "Meghan Patrick",
-          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
-        }
-      ],
-      "duration_ms": 201211,
-      "name": "Jessica, Jezebel",
-      "url": "https://open.spotify.com/track/4AkuVJWRhimUDI176m9pyE"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
         "name": "C\u0153urs m\u00e9t\u00e9ores",
         "url": "https://open.spotify.com/album/2TflqhF0BxpFCMszw7CPlc"
       },
@@ -311,6 +415,22 @@
     {
       "added_at": "2025-10-06 15:31:33",
       "album": {
+        "name": "Control Me",
+        "url": "https://open.spotify.com/album/7xORJMu524kyp9rGj2VuMy"
+      },
+      "artists": [
+        {
+          "name": "TANAEYA",
+          "url": "https://open.spotify.com/artist/7ktC7CL0wvuCItO8rMC2Pa"
+        }
+      ],
+      "duration_ms": 191227,
+      "name": "Control Me",
+      "url": "https://open.spotify.com/track/7Cl0Kqz1dFYqpkq6vDeFaq"
+    },
+    {
+      "added_at": "2025-10-06 15:31:33",
+      "album": {
         "name": "Chevy Back",
         "url": "https://open.spotify.com/album/7BGKRLNzeuSKpmMqe5K07G"
       },
@@ -323,22 +443,6 @@
       "duration_ms": 194577,
       "name": "Heartstrings",
       "url": "https://open.spotify.com/track/66Cpzj9S9v81c83kTh2HHe"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "10 Shots",
-        "url": "https://open.spotify.com/album/4Nlb19Yaq9PpKYPht7r5Fk"
-      },
-      "artists": [
-        {
-          "name": "Dax",
-          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
-        }
-      ],
-      "duration_ms": 233198,
-      "name": "10 Shots",
-      "url": "https://open.spotify.com/track/4wwcHNs8gIZO71VImuo1yZ"
     },
     {
       "added_at": "2025-10-06 15:31:33",
@@ -603,22 +707,6 @@
     {
       "added_at": "2025-10-06 15:31:33",
       "album": {
-        "name": "What Am I Doing?",
-        "url": "https://open.spotify.com/album/439R54fjmen2b91S5istmB"
-      },
-      "artists": [
-        {
-          "name": "Raquel Cole",
-          "url": "https://open.spotify.com/artist/79d6Lyd8uQbZsCWtpnZqtF"
-        }
-      ],
-      "duration_ms": 195502,
-      "name": "What Am I Doing?",
-      "url": "https://open.spotify.com/track/61S0fpy289bZvAoxMFKqqY"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
         "name": "Hope You Do",
         "url": "https://open.spotify.com/album/3bbbW5q5DF2xwadNnIn8yS"
       },
@@ -679,22 +767,6 @@
       "duration_ms": 192660,
       "name": "Feels Like Forever",
       "url": "https://open.spotify.com/track/7owsUFh4Oc4zwtq8uYCESH"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Namin\u2019 Names",
-        "url": "https://open.spotify.com/album/5Kf8wyxTSEAbAmSBaQIcN6"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 163638,
-      "name": "Namin\u2019 Names",
-      "url": "https://open.spotify.com/track/4ORhANtnChWYXj1aXPhQEm"
     },
     {
       "added_at": "2025-10-06 15:31:33",
@@ -963,22 +1035,6 @@
     {
       "added_at": "2025-10-06 15:31:33",
       "album": {
-        "name": "For the First Time",
-        "url": "https://open.spotify.com/album/3bY5ENBrcf8t8G5M4sFOm3"
-      },
-      "artists": [
-        {
-          "name": "William Prince",
-          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
-        }
-      ],
-      "duration_ms": 210103,
-      "name": "For the First Time",
-      "url": "https://open.spotify.com/track/2eTnZEDxXO1bZhudGX7Xw3"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
         "name": "One Trick Pony",
         "url": "https://open.spotify.com/album/2TenFyX2Skm5PiXvsrZuJz"
       },
@@ -1071,38 +1127,6 @@
       "duration_ms": 195625,
       "name": "99 Problems",
       "url": "https://open.spotify.com/track/3cgnovtN6mDA5nY8uO9K12"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Control Me",
-        "url": "https://open.spotify.com/album/7xORJMu524kyp9rGj2VuMy"
-      },
-      "artists": [
-        {
-          "name": "TANAEYA",
-          "url": "https://open.spotify.com/artist/7ktC7CL0wvuCItO8rMC2Pa"
-        }
-      ],
-      "duration_ms": 191227,
-      "name": "Control Me",
-      "url": "https://open.spotify.com/track/7Cl0Kqz1dFYqpkq6vDeFaq"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Motel in Southern Idaho",
-        "url": "https://open.spotify.com/album/3qS8qNR3tLKEeGdSc9hKs1"
-      },
-      "artists": [
-        {
-          "name": "Ben Arsenault",
-          "url": "https://open.spotify.com/artist/3Z3tlXssZiKthUyT2D4Slw"
-        }
-      ],
-      "duration_ms": 194798,
-      "name": "Motel in Southern Idaho",
-      "url": "https://open.spotify.com/track/60twmcF1WOcbFhNf3gOpAO"
     },
     {
       "added_at": "2025-10-06 15:31:33",
@@ -1299,22 +1323,6 @@
     {
       "added_at": "2025-10-06 15:31:33",
       "album": {
-        "name": "My Best Dance Moves",
-        "url": "https://open.spotify.com/album/6OutMeuD4h4TERio4OwqwV"
-      },
-      "artists": [
-        {
-          "name": "Ryan Langdon",
-          "url": "https://open.spotify.com/artist/7xceJlDYJKhn4KdxY8CWaV"
-        }
-      ],
-      "duration_ms": 199693,
-      "name": "My Best Dance Moves",
-      "url": "https://open.spotify.com/track/4jkrXmFDuuQFPgrzEWik09"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
         "name": "Can't Put a Price On a Good Time",
         "url": "https://open.spotify.com/album/6UlPY58mSfLkznk4BC0TNs"
       },
@@ -1383,22 +1391,6 @@
     {
       "added_at": "2025-10-06 15:31:33",
       "album": {
-        "name": "When the Devil Whispers",
-        "url": "https://open.spotify.com/album/47yT7Cfou0P0sRijHD3jFF"
-      },
-      "artists": [
-        {
-          "name": "Brian John Harwood",
-          "url": "https://open.spotify.com/artist/1G1bUq811pgPU3TAlPavy4"
-        }
-      ],
-      "duration_ms": 208379,
-      "name": "When the Devil Whispers",
-      "url": "https://open.spotify.com/track/5rPwVC9h7mdEedFMSFtGll"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
         "name": "On And On",
         "url": "https://open.spotify.com/album/29850HPzMZCYr56zKWRb31"
       },
@@ -1463,22 +1455,6 @@
     {
       "added_at": "2025-10-06 15:31:33",
       "album": {
-        "name": "Somewhere in a Small Town",
-        "url": "https://open.spotify.com/album/31PomNawADmQlyqqAGQhKM"
-      },
-      "artists": [
-        {
-          "name": "Sully Burrows",
-          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
-        }
-      ],
-      "duration_ms": 186318,
-      "name": "Somewhere in a Small Town",
-      "url": "https://open.spotify.com/track/0v8Xje4ZqPnYpECOzeMvjJ"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
         "name": "How It Goes",
         "url": "https://open.spotify.com/album/4ZxXqsKkEDy5KpneZskE77"
       },
@@ -1531,22 +1507,6 @@
     {
       "added_at": "2025-10-06 15:31:33",
       "album": {
-        "name": "Let Alone My Heart",
-        "url": "https://open.spotify.com/album/3QTJp5JSOmv5XaH2D6l6py"
-      },
-      "artists": [
-        {
-          "name": "Raquel Cole",
-          "url": "https://open.spotify.com/artist/79d6Lyd8uQbZsCWtpnZqtF"
-        }
-      ],
-      "duration_ms": 212285,
-      "name": "Let Alone My Heart",
-      "url": "https://open.spotify.com/track/0BX4zCgauWau1bH0ii4FDU"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
         "name": "Where the Lost Get Found",
         "url": "https://open.spotify.com/album/3H9kaGrPLYE5oQ1G2aYcM7"
       },
@@ -1591,74 +1551,6 @@
       "duration_ms": 196808,
       "name": "I'm Fine",
       "url": "https://open.spotify.com/track/46skWJH17EBFpq9SOmS6t5"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Fight With You",
-        "url": "https://open.spotify.com/album/2uBOm5O2NwBmtIlPLTxXTI"
-      },
-      "artists": [
-        {
-          "name": "Griffen Palmer",
-          "url": "https://open.spotify.com/artist/00b93R5OC1EHaBxEdQUfAQ"
-        },
-        {
-          "name": "Madison Kozak",
-          "url": "https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ"
-        }
-      ],
-      "duration_ms": 202137,
-      "name": "Fight With You",
-      "url": "https://open.spotify.com/track/6hdvMIbkpxWN6owrVTdEEY"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "STRANGE",
-        "url": "https://open.spotify.com/album/3DIiN4iLHIamBCCjHDIpeS"
-      },
-      "artists": [
-        {
-          "name": "Taylor Jensen",
-          "url": "https://open.spotify.com/artist/71qpTPNujRocmQhpi5hcvF"
-        }
-      ],
-      "duration_ms": 169261,
-      "name": "STRANGE",
-      "url": "https://open.spotify.com/track/3br7VTxoKuhGTlWMQj1eLn"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Under Covers",
-        "url": "https://open.spotify.com/album/0loZTmpClYRzOcdvYMB5a0"
-      },
-      "artists": [
-        {
-          "name": "Annika Catharina",
-          "url": "https://open.spotify.com/artist/7lafkBbFAB9lj55YzCzKqW"
-        }
-      ],
-      "duration_ms": 167609,
-      "name": "Under Covers",
-      "url": "https://open.spotify.com/track/0Yh8wibA4pAv2SEOhZZJlv"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Savannah Jade",
-        "url": "https://open.spotify.com/album/2Cy6k22AtHoub3zviQDNfc"
-      },
-      "artists": [
-        {
-          "name": "Savannah Jade",
-          "url": "https://open.spotify.com/artist/26QKf6FL7JcSuAkoos1WW5"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "I Don't Have Exes",
-      "url": "https://open.spotify.com/track/79Oix3agGOG2N0CZtE6mvx"
     },
     {
       "added_at": "2025-10-06 15:31:33",
@@ -1739,54 +1631,6 @@
       "duration_ms": 163895,
       "name": "I Ain't Country",
       "url": "https://open.spotify.com/track/10zzzR1ccEHtdmimfgLUf5"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Feels Country To Me (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/19tVEMyqvXqOt3LiVjohQI"
-      },
-      "artists": [
-        {
-          "name": "Zach McPhee",
-          "url": "https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN"
-        }
-      ],
-      "duration_ms": 195959,
-      "name": "Smoke",
-      "url": "https://open.spotify.com/track/7aIFWLKkxzL8R9JEsi1McB"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Till I Get To Heaven",
-        "url": "https://open.spotify.com/album/0Nv8TTXDUNOLfWU5PzGx9L"
-      },
-      "artists": [
-        {
-          "name": "Kalsey Kulyk",
-          "url": "https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Till I Get To Heaven",
-      "url": "https://open.spotify.com/track/11keHpMPuloSDRF7iEAm8a"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "Buckle Rubbin'",
-        "url": "https://open.spotify.com/album/3mK3F7kRefmg4EKuzVkcHK"
-      },
-      "artists": [
-        {
-          "name": "Dan Davidson",
-          "url": "https://open.spotify.com/artist/3Av6JdBs0MuhIPnCqPg6EI"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Buckle Rubbin'",
-      "url": "https://open.spotify.com/track/1S8PIcSLRurRgtr8FWdL2O"
     },
     {
       "added_at": "2025-10-06 15:31:33",

@@ -1,13 +1,125 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 08 Oct 18:08 UTC.",
-  "num_followers": 101,
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 10 Oct 22:06 UTC.",
+  "num_followers": 100,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAVP1/2BmOVpuEKUGfoZd2CvWtZVWYL",
+  "snapshot_id": "AAAVR80zgCc55FfoHsGjU5Jh0WDes8RZ",
   "tracks": [
+    {
+      "added_at": "2025-10-09 22:06:31",
+      "album": {
+        "name": "Right On Time (Original Demo Edit)",
+        "url": "https://open.spotify.com/album/5Yr9QC3tyCjXues3oRMrpl"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 157773,
+      "name": "Right On Time - Original Demo Edit",
+      "url": "https://open.spotify.com/track/71pMPpMOCLkksMa781eRBl"
+    },
+    {
+      "added_at": "2025-10-09 08:05:55",
+      "album": {
+        "name": "The Laugh Track",
+        "url": "https://open.spotify.com/album/6uo9LWc5MS8CZ2QWFMEyrz"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 195434,
+      "name": "The Laugh Track",
+      "url": "https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx"
+    },
+    {
+      "added_at": "2025-10-09 08:05:55",
+      "album": {
+        "name": "Io sono il viaggio",
+        "url": "https://open.spotify.com/album/5DNvhVGDMUSfZ5uXnfPbiq"
+      },
+      "artists": [
+        {
+          "name": "Caparezza",
+          "url": "https://open.spotify.com/artist/4l0PmbNvFq3m5JaUuAPbcB"
+        }
+      ],
+      "duration_ms": 333296,
+      "name": "Io sono il viaggio",
+      "url": "https://open.spotify.com/track/4nUnPDsuHiXjOLkhaDkrvc"
+    },
+    {
+      "added_at": "2025-10-09 13:06:28",
+      "album": {
+        "name": "Reunite",
+        "url": "https://open.spotify.com/album/60BRAvQVlseoSpphGSoZEB"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        }
+      ],
+      "duration_ms": 236026,
+      "name": "Reunite",
+      "url": "https://open.spotify.com/track/6tiW6fIVp2NaniQURK3n1Q"
+    },
+    {
+      "added_at": "2025-10-09 18:06:50",
+      "album": {
+        "name": "You You You / Audrey Hepburn",
+        "url": "https://open.spotify.com/album/2IHW6rf6xGNhT1HuMEG5Pu"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 166983,
+      "name": "You You You",
+      "url": "https://open.spotify.com/track/0kHP8fxSPNPP40kRHtnfLB"
+    },
+    {
+      "added_at": "2025-10-09 22:06:31",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/0eZVWhcjULemVSblWXjqnV"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 269031,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/0LaoxSSzKFhhbBQ9fGKxsc"
+    },
+    {
+      "added_at": "2025-10-09 08:05:55",
+      "album": {
+        "name": "Only One Laughing",
+        "url": "https://open.spotify.com/album/3hIJfLOzhgaXjGs5pXRJsw"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "duration_ms": 249813,
+      "name": "Only One Laughing",
+      "url": "https://open.spotify.com/track/6DGgiVR1F2vX97iT0hhVkp"
+    },
     {
       "added_at": "2025-10-08 18:08:40",
       "album": {
@@ -23,6 +135,30 @@
       "duration_ms": 210352,
       "name": "Half-Life",
       "url": "https://open.spotify.com/track/6yH2K3Xgu7X9gqky8NU0vt"
+    },
+    {
+      "added_at": "2025-10-09 18:06:50",
+      "album": {
+        "name": "The Fate of Ophelia",
+        "url": "https://open.spotify.com/album/5MMQUd2HMX0xXPaqfuchIy"
+      },
+      "artists": [
+        {
+          "name": "Fran Garro",
+          "url": "https://open.spotify.com/artist/51pJDlC1KMvT0jKR51zoUi"
+        },
+        {
+          "name": "Techno Bangers",
+          "url": "https://open.spotify.com/artist/2L7T1LvflfOJPXOEfNN1wr"
+        },
+        {
+          "name": "Technoglobal",
+          "url": "https://open.spotify.com/artist/2RKhPPpnZvAJL9nLRDzUWm"
+        }
+      ],
+      "duration_ms": 181161,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/5L4ChMdZgYlxnfzBh3BMPe"
     },
     {
       "added_at": "2025-10-07 08:07:49",
@@ -695,134 +831,6 @@
       "duration_ms": 288453,
       "name": "Second Sleep",
       "url": "https://open.spotify.com/track/47N21fn8V8IN392MGlicT5"
-    },
-    {
-      "added_at": "2025-09-26 13:06:43",
-      "album": {
-        "name": "WICHITA BLUES",
-        "url": "https://open.spotify.com/album/2k34OiZYZ2EXSAd2F46t5b"
-      },
-      "artists": [
-        {
-          "name": "Aries",
-          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
-        }
-      ],
-      "duration_ms": 145111,
-      "name": "WICHITA BLUES",
-      "url": "https://open.spotify.com/track/6atwIGLaEjw47lc4xk1vrx"
-    },
-    {
-      "added_at": "2025-09-26 13:06:43",
-      "album": {
-        "name": "Fleeting",
-        "url": "https://open.spotify.com/album/7s4OI9VpYZaaDjwujZTWDJ"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kinsley",
-          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
-        }
-      ],
-      "duration_ms": 219257,
-      "name": "Fleeting",
-      "url": "https://open.spotify.com/track/0irXFjfMY0YDUpudTgkJef"
-    },
-    {
-      "added_at": "2025-09-28 22:06:41",
-      "album": {
-        "name": "Model",
-        "url": "https://open.spotify.com/album/6K1qRw01nmZVjafCXLo0u0"
-      },
-      "artists": [
-        {
-          "name": "Kyle Alessandro",
-          "url": "https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl"
-        }
-      ],
-      "duration_ms": 172252,
-      "name": "Model",
-      "url": "https://open.spotify.com/track/1xHWII0YRyiTAzWndE5TVB"
-    },
-    {
-      "added_at": "2025-09-26 18:06:00",
-      "album": {
-        "name": "Infinity Heart",
-        "url": "https://open.spotify.com/album/3wJROvvdPS9PWndJaBcZEN"
-      },
-      "artists": [
-        {
-          "name": "JoJo Siwa",
-          "url": "https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP"
-        }
-      ],
-      "duration_ms": 188253,
-      "name": "Infinity Heart",
-      "url": "https://open.spotify.com/track/2fISoC2CA6qWtk8mQzZCZI"
-    },
-    {
-      "added_at": "2025-09-27 18:05:37",
-      "album": {
-        "name": "First Original Thought",
-        "url": "https://open.spotify.com/album/2rH7ACS9qrOtZ5sDXIx7OD"
-      },
-      "artists": [
-        {
-          "name": "Alessi Rose",
-          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
-        }
-      ],
-      "duration_ms": 170766,
-      "name": "First Original Thought",
-      "url": "https://open.spotify.com/track/5muTft7oCwTsn2eeLyYFLy"
-    },
-    {
-      "added_at": "2025-09-28 08:05:45",
-      "album": {
-        "name": "If I Were to Die",
-        "url": "https://open.spotify.com/album/1lR4QiFijMkFz0GY5hcAy3"
-      },
-      "artists": [
-        {
-          "name": "YonKaGor",
-          "url": "https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq"
-        }
-      ],
-      "duration_ms": 225116,
-      "name": "If I Were to Die",
-      "url": "https://open.spotify.com/track/68B4URd84Edg8Yz3WtytgJ"
-    },
-    {
-      "added_at": "2025-09-30 18:05:42",
-      "album": {
-        "name": "Marbella (All She Know)",
-        "url": "https://open.spotify.com/album/17avL7tEYqXF89LgRMfwVH"
-      },
-      "artists": [
-        {
-          "name": "YT",
-          "url": "https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C"
-        }
-      ],
-      "duration_ms": 164709,
-      "name": "Marbella (All She Know)",
-      "url": "https://open.spotify.com/track/7cWdgoBO1Fs9JU6DvDJvhG"
-    },
-    {
-      "added_at": "2025-09-26 18:06:00",
-      "album": {
-        "name": "Go Spin",
-        "url": "https://open.spotify.com/album/7JZLqZVLSujl2CAPRRabj5"
-      },
-      "artists": [
-        {
-          "name": "Lil Shine",
-          "url": "https://open.spotify.com/artist/6SmUCZMpJG06ZhIqMOJKCn"
-        }
-      ],
-      "duration_ms": 104721,
-      "name": "Go Spin",
-      "url": "https://open.spotify.com/track/1kpl9OjwsYHpdFBrkkfbfX"
     }
   ],
   "unique_name": "New Singles Now",

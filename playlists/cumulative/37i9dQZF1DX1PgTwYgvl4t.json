@@ -273,6 +273,28 @@
     },
     {
       "album": {
+        "name": "Anointed",
+        "url": "https://open.spotify.com/album/3Zk2GrpqEBsraDxXPp9aKH"
+      },
+      "artists": [
+        {
+          "name": "Pastor Emmanuel Iren",
+          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
+        },
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426655,
+      "name": "Anointed",
+      "url": "https://open.spotify.com/track/0DOc9cCC5j07CXIAC02onH"
+    },
+    {
+      "album": {
         "name": "Anyi N'Aja Gi Mma",
         "url": "https://open.spotify.com/album/1oeU1Hvzr40kM1SQbdpfwf"
       },
@@ -494,7 +516,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 471533,
       "name": "Bamise",
       "url": "https://open.spotify.com/track/5xhDyOMsuFZqYgKZBUd5sI"
@@ -980,7 +1002,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 269328,
       "name": "DUTSEN CETO",
       "url": "https://open.spotify.com/track/5xvWfzNAIzD1StFS1fSJOX"
@@ -1752,6 +1774,24 @@
       "duration_ms": 304927,
       "name": "Halle - Remix",
       "url": "https://open.spotify.com/track/3pYU8E6yHFDkWjsq97RlbH"
+    },
+    {
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0BdbfimFzC4f5r7U0KoNAB"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416232,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0JdqdYIpLzDycj6k6SyGqj"
     },
     {
       "album": {
@@ -3580,7 +3620,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 322848,
       "name": "OL\u00d3R\u00daKO APERIRE",
       "url": "https://open.spotify.com/track/0CnVj15KCwPFph8YLoHudR"
@@ -4088,6 +4128,24 @@
       "duration_ms": 328000,
       "name": "Take Me Deeper",
       "url": "https://open.spotify.com/track/4aZQnOFFqiXp3LRy8eYBxz"
+    },
+    {
+      "album": {
+        "name": "Tamuno",
+        "url": "https://open.spotify.com/album/6lVo8S6mZASvu5k9L8wUTs"
+      },
+      "artists": [
+        {
+          "name": "Mera Owili",
+          "url": "https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256148,
+      "name": "Tamuno",
+      "url": "https://open.spotify.com/track/1b2OEF1P8G4REnrQKrH7Ad"
     },
     {
       "album": {

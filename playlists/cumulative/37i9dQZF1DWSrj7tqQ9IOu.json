@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Le meilleur de l'indie fran\u00e7ais. Cover : Pomme",
+  "description": "Le meilleur de l'indie fran\u00e7ais. Cover : Saint Stacy",
   "name": "Made in France",
   "tracks": [
     {
@@ -250,7 +250,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 154400,
       "name": "adieu les cons",
       "url": "https://open.spotify.com/track/7hXJ0iZtTr3lDdvq8Vh1iM"
@@ -2003,6 +2003,28 @@
     },
     {
       "album": {
+        "name": "chrysalis",
+        "url": "https://open.spotify.com/album/0zkgQvE9joKuS4NsRrCwUS"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Louve",
+          "url": "https://open.spotify.com/artist/3x5sBirhNbWXVt1DwivDOI"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240661,
+      "name": "chrysalis",
+      "url": "https://open.spotify.com/track/1CyqOIcejpX5Zqzw5BRHFb"
+    },
+    {
+      "album": {
         "name": "Chui pu fort",
         "url": "https://open.spotify.com/album/71j1HEoL1pXrWb24SaSNGs"
       },
@@ -2192,6 +2214,24 @@
       "duration_ms": 240588,
       "name": "Coco Robot",
       "url": "https://open.spotify.com/track/78uhoLjMr27DWycpKLFaY6"
+    },
+    {
+      "album": {
+        "name": "Coeur de verre",
+        "url": "https://open.spotify.com/album/5ysp6QHgZ20slMixdYosBj"
+      },
+      "artists": [
+        {
+          "name": "Napkey",
+          "url": "https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153009,
+      "name": "Coeur de verre",
+      "url": "https://open.spotify.com/track/0M3f8bLNATelCrDaw5FLlb"
     },
     {
       "album": {
@@ -10192,7 +10232,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 275733,
       "name": "roger rabbit",
       "url": "https://open.spotify.com/track/4LXIfg4jZNs7SSWh8e5pUq"
@@ -12238,6 +12278,24 @@
       "duration_ms": 213000,
       "name": "Toute seule",
       "url": "https://open.spotify.com/track/1mdGek6V8hI7zibGut1ZO3"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Saint Stacy",
+          "url": "https://open.spotify.com/artist/5jvug60dRrKFRuQp8zKn9G"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/0R2F8Y0exgly8whypDattk"
     },
     {
       "album": {

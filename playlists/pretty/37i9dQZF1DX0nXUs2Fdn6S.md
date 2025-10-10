@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 
 > Best of the EDM scene in India\. Cover\- Ritviz
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,876 likes - 68 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,885 likes - 68 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [DHA](https://open.spotify.com/track/7zppLGJpnb7poKWXnytlYh) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [DHA](https://open.spotify.com/album/7hyGAoHe1IroectOWD8I6N) | 3:34 |
-| 2 | [LEHEREVERYWHERE \- Radio Edit](https://open.spotify.com/track/6BLnnwUut8qBCXsJu9bxAR) | [Kimeraa](https://open.spotify.com/artist/7BKkgWK7uuH709FOJTH7HF), [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [LEHEREVERYWHERE \(Radio Edit\)](https://open.spotify.com/album/3yBaC6xcpoENd7YL5C20gX) | 2:33 |
+| 2 | [LEHEREVERYWHERE](https://open.spotify.com/track/6BLnnwUut8qBCXsJu9bxAR) | [Kimeraa](https://open.spotify.com/artist/7BKkgWK7uuH709FOJTH7HF), [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [LEHEREVERYWHERE](https://open.spotify.com/album/3yBaC6xcpoENd7YL5C20gX) | 2:33 |
 | 3 | [Shakthi](https://open.spotify.com/track/5xOavYpYa3lROHHVULZwZB) | [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [Shakthi](https://open.spotify.com/album/1T7zssjSgnaDGpTWDCweR1) | 3:08 |
 | 4 | [Laung Gawacha](https://open.spotify.com/track/79JMjG6tj2zvCDEukCSgcx) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Avneet Khurmi](https://open.spotify.com/artist/25rYHJjDq8FFPApQnj3LXT) | [Bass Rani](https://open.spotify.com/album/0NgHu77V7xVb30uxtUud2J) | 3:33 |
 | 5 | [Tere Bina](https://open.spotify.com/track/7im7el3l35lOejnrYCjKVO) | [Zephyrtone](https://open.spotify.com/artist/57GVEttnzshGnLYIJCFeKo), [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL) | [Tere Bina](https://open.spotify.com/album/0ghHOc0zCmHZn93zGlhuNs) | 2:32 |

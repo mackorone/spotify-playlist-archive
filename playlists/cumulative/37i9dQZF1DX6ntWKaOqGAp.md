@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: スピッツ Spitz
 
-2,605 songs - 6 day 18 hr 45 min
+2,607 songs - 6 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -939,6 +939,7 @@
 | [RED](https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [RED](https://open.spotify.com/album/6jS6EMy8bdawl6dbBzag1X) | 3:54 | 2023-07-13 | 2023-07-28 |
 | [RED OUT](https://open.spotify.com/track/5sQUXxfkbDpauiEXFc4Rcr) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LOST CORNER](https://open.spotify.com/album/2HfY1kPSmmYfR13OSKYH5T) | 2:31 | 2024-08-29 | 2025-01-22 |
 | [reflection](https://open.spotify.com/track/3WYJwjlAnHqkhACJec5zK0) | [mudy on the 昨晩](https://open.spotify.com/artist/7m3Wr9xcBXSiUysFwOMLnx) | [reflection](https://open.spotify.com/album/6aaS5HusgHqDObHMpkEuN0) | 4:06 | 2025-09-23 | 2025-10-08 |
+| [Regulus](https://open.spotify.com/track/0TLKzbTXx16qNwcKVGEqVl) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Regulus](https://open.spotify.com/album/05YySEyYLLFh7QI4kVEwt1) | 3:22 | 2025-10-09 |  |
 | [Relay\~Mori no Uta](https://open.spotify.com/track/2flCpqsq9WAwFTjrtWtYBc) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Relay\~Mori no Uta](https://open.spotify.com/album/7ByYblgTDE2xEhL8pi5DK8) | 3:59 | 2023-09-20 | 2023-10-11 |
 | [REMEMBER](https://open.spotify.com/track/1iw71RYEVpU30ClK6BOZbZ) | [SuiseiNoboAz](https://open.spotify.com/artist/09rAbsqza6GM0611tmVX2J) | [REMEMBER](https://open.spotify.com/album/6oS0jrdtG8AGqS6edYPwZ9) | 4:36 | 2025-05-27 | 2025-06-04 |
 | [rendez\-vous](https://open.spotify.com/track/5i8lwhzx9FyilInJWa5lhn) | [shy taupe](https://open.spotify.com/artist/5Mfaq632ksRTongklYsDWU) | [kidnapping / rendez\-vous](https://open.spotify.com/album/0TxOw3GSb01frvQeBbP8MP) | 3:57 | 2023-08-17 | 2023-10-25 |
@@ -1463,7 +1464,7 @@
 | [そっか、自由か。with ちさと＆まひろ（from ベイビーわるきゅーれ）](https://open.spotify.com/track/0qLexXhMBAkGSnxtsG1zji) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP), [ちさと](https://open.spotify.com/artist/62SatUnWVciQhr1o8wM2nk), [まひろ](https://open.spotify.com/artist/4S0BQEHcnKpVWBjChWixiB) | [そっか、自由か。with ちさと＆まひろ（from ベイビーわるきゅーれ）](https://open.spotify.com/album/61a91IqEWKG8wQ9aTsW4Lm) | 1:52 | 2024-10-02 | 2024-10-09 |
 | [その他大勢](https://open.spotify.com/track/3SQS6pC1NGFBqLKnwVfvGT) | [ヘッドフォンの中の世界](https://open.spotify.com/artist/4qh9h7K9uwSFHCGyDl0Sf9) | [その他大勢](https://open.spotify.com/album/5TgFCGghZFdgWgVB0wymxK) | 4:27 | 2023-05-09 | 2023-06-14 |
 | [それが恋だと言ってくれ！](https://open.spotify.com/track/4cZIJJaZqB7GtqW43dJ1pT) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [それが恋だと言ってくれ！](https://open.spotify.com/album/3SibfMHSlt6EwTCn2SdlAy) | 3:13 | 2024-10-22 | 2025-01-08 |
-| [それしか言えない](https://open.spotify.com/track/4pGMj1OT9QPyQV5C5BlcEV) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [それしか言えない](https://open.spotify.com/album/479WTy9v0d0wWC960eTawU) | 4:24 | 2025-09-09 |  |
+| [それしか言えない](https://open.spotify.com/track/4pGMj1OT9QPyQV5C5BlcEV) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [それしか言えない](https://open.spotify.com/album/479WTy9v0d0wWC960eTawU) | 4:24 | 2025-09-09 | 2025-10-10 |
 | [そんなbitterな話](https://open.spotify.com/track/4QlSFkbRxZWkHDF1MqBaEY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [そんなbitterな話](https://open.spotify.com/album/0ssYbSrcAHMWk2EijQAKTP) | 4:36 | 2023-03-14 | 2023-06-28 |
 | [そんなbitterな話](https://open.spotify.com/track/4DmmljTCS4ViQRSLCiMnOt) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:36 | 2024-04-04 | 2024-07-10 |
 | [そんな日々を生きていく](https://open.spotify.com/track/1UJVe7sPD9uEm5xJE9Mc6p) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [そんな日々を生きていく](https://open.spotify.com/album/6229MPDOzFYCQh0PlCDyq8) | 4:31 | 2024-02-13 | 2024-03-20 |
@@ -2254,6 +2255,7 @@
 | [慶びの種](https://open.spotify.com/track/1Xj5ZS6bpYPt87m09JbFPb) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [10](https://open.spotify.com/album/78aZx49bna8qXzsWReeL3o) | 5:36 | 2025-07-08 | 2025-07-23 |
 | [憂、燦々](https://open.spotify.com/track/65npSVkyhQVDDqOsbOW0Aa) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [憂、燦々](https://open.spotify.com/album/7d4ruxnSzZwJNn4txVARK4) | 4:09 | 2024-08-27 | 2024-09-25 |
 | [憂い桜](https://open.spotify.com/track/3i1w3l5dnk2sCxVsVHsjuw) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [憂い桜](https://open.spotify.com/album/1YfaIMNRslj7EHBsZw63cz) | 4:35 | 2023-03-02 | 2023-04-14 |
+| [懐メロを抱えて](https://open.spotify.com/track/7d0gJCyRsjTnfV3W75avDE) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [懐メロを抱えて](https://open.spotify.com/album/414BfxrHOlYzyQw8D9KcLi) | 3:00 | 2025-10-09 |  |
 | [戦争がはじまる](https://open.spotify.com/track/3gQKj1zeZaefl5J7k0IEwh) | [People In The Box](https://open.spotify.com/artist/07PkYuHKeec24az6lKeUS5) | [Camera Obscura](https://open.spotify.com/album/1TpXizd9q589CDoLhj5JR4) | 4:37 | 2023-05-09 | 2023-06-14 |
 | [戦場のマリア](https://open.spotify.com/track/18xXf4CEYFNmkmWJzqvBNr) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [戦場のマリア](https://open.spotify.com/album/1viHBH2Ogwsw9mgWzqLmiL) | 4:11 | 2024-03-12 | 2024-05-08 |
 | [抜殻](https://open.spotify.com/track/0RcK9DeJ0HrI5DS6cQNlup) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [抜殻](https://open.spotify.com/album/6jbhb6IBQcNM9UWcHxAuJh) | 3:04 | 2025-08-05 | 2025-08-21 |
@@ -2328,7 +2330,7 @@
 | [未来の音](https://open.spotify.com/track/4YJtiMRyqKG5WghwMURKHL) | [KEYTALK](https://open.spotify.com/artist/0nES8AwBZpeQ69oZZp47OL) | [未来の音](https://open.spotify.com/album/6lZpNJ8DUe0ilVfRmWiHDE) | 4:28 | 2023-02-28 | 2023-03-15 |
 | [未来予想図](https://open.spotify.com/track/3NLaGMbVQImr30ucwCtvDi) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [未来予想図](https://open.spotify.com/album/5EoOmpNmV68WUdgJ6pEfgi) | 3:46 | 2024-03-05 | 2024-03-07 |
 | [未来地図2025](https://open.spotify.com/track/3b4t0gSknI05MnoGeQHzU8) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [未来地図2025](https://open.spotify.com/album/1kb9dvEh3vhgIrx42sRrGQ) | 6:00 | 2025-03-27 | 2025-05-14 |
-| [未知](https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [SILVER](https://open.spotify.com/album/2lsPukvTQoecJl3WKcS0kY) | 4:01 | 2025-09-09 |  |
+| [未知](https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [SILVER](https://open.spotify.com/album/2lsPukvTQoecJl3WKcS0kY) | 4:01 | 2025-09-09 | 2025-10-10 |
 | [本当なんてぶっ飛ばしてよ](https://open.spotify.com/track/7wHtfzKFqvr6fUkKzhMr1c) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [本当なんてぶっ飛ばしてよ](https://open.spotify.com/album/7wORMIt9AD7HhN5FJTV9tG) | 3:16 | 2023-01-13 | 2023-02-15 |
 | [本日のおすすめ](https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [本日のおすすめ](https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa) | 2:49 | 2024-07-09 | 2024-09-04 |
 | [来世は叶姉妹](https://open.spotify.com/track/3YnX6wERdBQVnyBxq1EuCP) | [Group Tamashii](https://open.spotify.com/artist/6wXb4P6aFkIAwVdQtfojUl) | [来世は叶姉妹](https://open.spotify.com/album/4gaCl4LvjKvNQP6ZH6kUxq) | 4:17 | 2025-08-12 | 2025-08-22 |

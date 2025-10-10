@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from the continent to Paris\. Photo : Josey
+> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Josey
 
-255 songs - 14 hr 2 min
+256 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Focus](https://open.spotify.com/track/3uD2nwx9InLQXr87PuWK3w) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Focus](https://open.spotify.com/album/4OgcsMdkA4i14JQy1UEXbn) | 2:01 | 2025-07-03 |  |
 | [Galoper](https://open.spotify.com/track/20ai8KKeDZt0U0vQpclRI4) | [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ), [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Galoper](https://open.spotify.com/album/6R4VDE6rOcWJX0H0QVUfJR) | 3:21 | 2023-11-23 | 2024-01-12 |
 | [Garant](https://open.spotify.com/track/5TeUWWHx72QJSgLmS03qjg) | [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK) | [Garant](https://open.spotify.com/album/2ftu1WjXPD3lpSMQyapwl7) | 3:52 | 2025-03-27 | 2025-10-03 |
-| [Gba Gba \(feat\. Toofan\)](https://open.spotify.com/track/0KZn7SdWR2wRZ1XdW7DU89) | [Axel Merryl](https://open.spotify.com/artist/3G8Pa34BvtmFCVZeOkUJBq), [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [Gba Gba \(feat\. Toofan\)](https://open.spotify.com/album/0PPiG1yFFDt6KCxTemDNrm) | 2:56 | 2025-04-10 |  |
+| [Gba Gba \(feat\. Toofan\)](https://open.spotify.com/track/0KZn7SdWR2wRZ1XdW7DU89) | [Axel Merryl](https://open.spotify.com/artist/3G8Pa34BvtmFCVZeOkUJBq), [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [Gba Gba \(feat\. Toofan\)](https://open.spotify.com/album/0PPiG1yFFDt6KCxTemDNrm) | 2:56 | 2025-04-10 | 2025-10-10 |
 | [Gbêssê](https://open.spotify.com/track/4HnSuaffFKg2FveLpOubAr) | [Ovie Kan](https://open.spotify.com/artist/3nKWXc2kFHNOhjr37rkvqd) | [Gbêssê](https://open.spotify.com/album/60ZH03fBOxrVsHuP5VTdee) | 3:16 | 2021-12-20 | 2023-04-28 |
 | [Gnamakoro Kakoh](https://open.spotify.com/track/5tpJQotwRNHhSbiEHYOZeO) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Gnamakoro Kakoh](https://open.spotify.com/album/1w6s8QQC0VQNV4af7uCYJD) | 2:51 | 2023-05-04 | 2023-06-30 |
 | [Gnonmi Avec Lait \- Remix](https://open.spotify.com/track/3QnS0A9QgUik2KThVN0TQf) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL), [Magic Diezel](https://open.spotify.com/artist/6rZ6trCuPYGDWkwuWWDnwa) | [Gnonmi Avec Lait \(Remix\)](https://open.spotify.com/album/2ddu9tzfA9yX18TXIbahkx) | 3:51 | 2023-10-19 | 2024-01-19 |
@@ -150,6 +150,7 @@
 | [L'oracle](https://open.spotify.com/track/5ipGUUPcatXiBmrHhGJemN) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [L'oracle](https://open.spotify.com/album/2vKHZakByZuHKbitRaflRc) | 3:47 | 2022-06-16 | 2024-01-05 |
 | [L'ÉLU](https://open.spotify.com/track/0uBeyUIhQz9VMFhusb4amm) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [L'ÉLU](https://open.spotify.com/album/7z6dxGFKND8D4HVJ4jXcSW) | 3:40 | 2021-12-20 | 2022-01-22 |
 | [La bonne place](https://open.spotify.com/track/2uWUY0oTHBvRlKij3Mv4rl) | [Yilim](https://open.spotify.com/artist/1UAzbRXl5HrFENZFNtmO09) | [La bonne place](https://open.spotify.com/album/2PXGO3w6Kh9LqVZfyDZ1XI) | 3:28 | 2024-08-29 | 2024-09-20 |
+| [La Bêtise](https://open.spotify.com/track/3Q5EeS00OhCeCphR0X4G2S) | [Kehou Mousso](https://open.spotify.com/artist/6aDeuqqVcxIZW2GDjg2WsE), [Bigyne wiz](https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9), [Given Beatz](https://open.spotify.com/artist/6yEx2AO2FJJrlcK8PYducR) | [La Bêtise](https://open.spotify.com/album/3iGx5L6wJZ4RKBFou7fijT) | 2:34 | 2025-10-09 |  |
 | [La colère du lion](https://open.spotify.com/track/2cuMpuKGpoZ9VgZ3gJf7dC) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b) | [La colère du lion](https://open.spotify.com/album/53bfY2vHTLpeasGMw8BS7p) | 7:01 | 2021-12-20 | 2022-08-26 |
 | [La danse du margouillat](https://open.spotify.com/track/682HQjRRQTRDAeXenihal6) | [Roma Chiyaya](https://open.spotify.com/artist/2aHgdotevWLyzsIMyeLMX0) | [La danse du margouillat](https://open.spotify.com/album/009GqMufyiPuZwwSzYiWA3) | 3:33 | 2023-11-30 | 2024-04-05 |
 | [La démarche](https://open.spotify.com/track/25SKpttgqUjWfw8MJDV66z) | [Pikatchou Le Moine](https://open.spotify.com/artist/2I1IZqjxZgLQmBSkk7LZl2) | [La démarche](https://open.spotify.com/album/5pmUbV0mjV7fB2mHNpjwRe) | 3:05 | 2023-11-30 | 2024-04-19 |

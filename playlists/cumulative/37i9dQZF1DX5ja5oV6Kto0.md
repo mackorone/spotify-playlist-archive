@@ -2,9 +2,9 @@
 
 ### [Alté Cruise](https://open.spotify.com/playlist/37i9dQZF1DX5ja5oV6Kto0)
 
-> The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Zaylevelten
+> The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: 99Phaces
 
-947 songs - 1 day 22 hr 3 min
+948 songs - 1 day 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -820,7 +820,7 @@
 | [SUPERSOMA](https://open.spotify.com/track/5vDcs1FIAN79cELRo0P2SB) | [SomaDina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [SUPERSOMA](https://open.spotify.com/album/1cPTRUcMrR1jAww0uW8D8Y) | 2:51 | 2021-10-28 | 2022-03-12 |
 | [SuperSonic](https://open.spotify.com/track/0tLIjCdtDDyyUeDGZ8iuwM) | [AfroNautiq](https://open.spotify.com/artist/0L6AmIetS4zqs79IC1jQpX), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [SuperSonic](https://open.spotify.com/album/4uekHrCeSWwBHoyv1vcl5e) | 3:59 | 2021-12-09 | 2022-01-21 |
 | [SUPERSTAR](https://open.spotify.com/track/1UHftfgNHxCF2vw3LmJBsi) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [ITS NOT THAT DEEP](https://open.spotify.com/album/6UAa59miWIjKKbpqVdHfTB) | 1:57 | 2024-07-19 | 2025-04-11 |
-| [Supreme Dee](https://open.spotify.com/track/4JEkyWx4exs9TAmeV4e06P) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4) | [Supreme Dee](https://open.spotify.com/album/0xuHVcGvttTmGcFxhhLPze) | 2:08 | 2025-07-11 |  |
+| [Supreme Dee](https://open.spotify.com/track/4JEkyWx4exs9TAmeV4e06P) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4) | [Supreme Dee](https://open.spotify.com/album/0xuHVcGvttTmGcFxhhLPze) | 2:08 | 2025-07-11 | 2025-10-10 |
 | [Surrender](https://open.spotify.com/track/6T7ln6nMKRf3DJx94rDpLK) | [Donel](https://open.spotify.com/artist/6nboHpRsZBI6pPX9lSBvgT) | [Xpression](https://open.spotify.com/album/3iaZDJhxCLW2e516DXllI0) | 3:00 | 2024-10-04 | 2024-10-26 |
 | [SUSHI STAND!](https://open.spotify.com/track/04ntgqtFKNBgHFhiKKfHwP) | [PhlyMur](https://open.spotify.com/artist/1Rx24j5gKzt8H22A5tfmpG) | [SUSHI STAND!](https://open.spotify.com/album/74fkRdAAeijP2RwpnKwS75) | 5:32 | 2022-02-03 | 2022-03-12 |
 | [SUV](https://open.spotify.com/track/2PeErwVrlNWQe9rUuNH7CN) | [Sofie](https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0) | [SUV](https://open.spotify.com/album/54RojlSYjybyjnpiwy18tE) | 2:58 | 2023-05-04 | 2023-05-12 |
@@ -937,6 +937,7 @@
 | [WICKED](https://open.spotify.com/track/33ngGj804cbv6bLV3r8ljR) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [ACT 2](https://open.spotify.com/album/6MudGkfVHCyDuy56SU8CYC) | 2:48 | 2023-02-16 | 2023-12-22 |
 | [WICKED \(feat\. Cruel Santino\) \- Remix](https://open.spotify.com/track/5JogQs6MwOokHBoVLaF7S9) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [WICKED \(feat\. Cruel Santino\) \[Remix\]](https://open.spotify.com/album/5kYSnQHbeEGXz2MWuePRRP) | 2:38 | 2025-05-16 |  |
 | [With Open Arms](https://open.spotify.com/track/2zMkas94Ekim0wZfGsGe23) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [With Open Arms](https://open.spotify.com/album/2dO8pR2M34D8IR50t5yEMg) | 3:00 | 2024-09-13 | 2025-03-21 |
+| [WONDALAND](https://open.spotify.com/track/2OhsM2pZtjWszD5dHiw1k3) | [99 PHACES](https://open.spotify.com/artist/2l1fCZcDvjN6Bvvea40p1p) | [THE KIDS ARE JUST FINE](https://open.spotify.com/album/40QVVbi1qzPuohebJYM2L6) | 2:54 | 2025-10-10 |  |
 | [WONDERFUL](https://open.spotify.com/track/55QyChoUaMBgPfJp0FzvNY) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [WONDERFUL](https://open.spotify.com/album/1o1RAIZnKujAlFqJtyaYq4) | 2:20 | 2025-09-05 |  |
 | [Woo](https://open.spotify.com/track/7snE5wCCKT9NoU1M9H4NLF) | [3kene](https://open.spotify.com/artist/17OB2zVYkeBD5fX4PG1eZv), [Brum3h](https://open.spotify.com/artist/5kseDibp36pgGjEoOFsRFk), [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y) | [Conflicts of Interest](https://open.spotify.com/album/2yz7ohrkrAYCNCQECINttT) | 4:50 | 2025-01-17 | 2025-02-22 |
 | [WOOHOO! \(ft\. Moyoswrld\)](https://open.spotify.com/track/7CEfJ4oDIUDY2BBVVQXMld) | [Chi Virgo](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW), [Moyoswrld](https://open.spotify.com/artist/5qydyw9umzN1IlybYsgPzR) | [WOOHOO! \(ft\. Moyoswrld\)](https://open.spotify.com/album/6wyTUbH9WnVHo5YaWME580) | 2:05 | 2023-06-16 | 2023-06-23 |

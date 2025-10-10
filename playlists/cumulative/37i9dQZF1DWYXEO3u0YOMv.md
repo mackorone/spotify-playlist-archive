@@ -4,7 +4,7 @@
 
 > <a href="http://www.mappa.co.jp/">MAPPA</a>が紡いできたアニメーションの世界を音楽で辿るプレイリスト。心に残る名曲たちを集めました。<br/>A playlist that traces the animated worlds created by <a href="http://www.mappa.co.jp/">MAPPA</a> through music, featuring a collection of memorable songs that remain in the heart\. © 2025 MAPPA／チェンソーマンプロジェクト ©藤本タツキ／集英社
 
-250 songs - 16 hr 6 min
+254 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [River](https://open.spotify.com/track/1kPoNSnxGFq5UZbGyNymsK) | [Anonymouz](https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X) | [River](https://open.spotify.com/album/5sCPmMx3ctNJX7D68kY3A4) | 3:17 | 2025-09-18 |  |
 | [River](https://open.spotify.com/track/0BnZkjhy6D3e93pkhnn0KK) | [Anonymouz](https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X) | [River](https://open.spotify.com/album/7Gy7omqC8rjuXKjVyZeTUU) | 3:18 | 2023-04-25 | 2025-09-19 |
 | [Sacrifice](https://open.spotify.com/track/73edp4NGGZZJgrtt6qxlHT) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [Kagurairo Artifact](https://open.spotify.com/album/3BpVEPWTPrxBXREO0uxHVC) | 4:14 | 2022-05-10 | 2024-04-19 |
+| [SALT AND PEPPER](https://open.spotify.com/track/2BZXo0GtuKlEIyGP6sdfX7) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [SALT AND PEPPER](https://open.spotify.com/album/4olggPlIlKVENiJwmIzzOQ) | 3:18 | 2025-10-09 |  |
 | [SECONDs FLY](https://open.spotify.com/track/3NnfctE9UB6fyPIcoxTLUQ) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「ドロヘドロ」EDテーマソングアルバム「混沌の中で踊れ」](https://open.spotify.com/album/2AQmibfA2tvP4LzmRyE4Pv) | 3:33 | 2025-09-18 |  |
 | [Sesame](https://open.spotify.com/track/0VCEf8YUCa62C06LGiq9NW) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Sesame](https://open.spotify.com/album/6BnvhXQg2Lc0GOauJydlKP) | 3:32 | 2024-04-14 | 2025-09-19 |
 | [Sesame](https://open.spotify.com/track/1DuTUxS7cBQf2ypQipYhfM) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Sesame](https://open.spotify.com/album/0N9P2qMUSX7GxdNiPkIehH) | 3:32 | 2024-01-25 | 2024-04-19 |
@@ -143,6 +144,7 @@
 | [Windy](https://open.spotify.com/track/2tchWvsi7zrPQK6uLI7BZ2) | [CHEMISTRY](https://open.spotify.com/artist/257kEbQnBziYfmtmqiNuNE) | [Windy / ユメノツヅキ](https://open.spotify.com/album/5YJ1Y0t7Q24D5aj51gbh4r) | 4:25 | 2025-09-18 |  |
 | [Without Love](https://open.spotify.com/track/1GBl9PT3AV0qph1dEtGnzp) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Without Love](https://open.spotify.com/album/2PqGRaQmk2DjD3yTSMSZ71) | 4:07 | 2023-04-25 |  |
 | [You Only Live Once](https://open.spotify.com/track/7bCQjrEH2zcKqqiGm35GQW) | [YURI!!! on ICE](https://open.spotify.com/artist/1TdCQle8fQvM4Tk2cVEZSZ), [w.hatano](https://open.spotify.com/artist/0ZJgJU3awP4bitIUvVzGtO) | [You Only Live Once](https://open.spotify.com/album/7dyihdys9qBZj1XG7evPZ8) | 3:45 | 2022-05-10 |  |
+| [yummy goodday](https://open.spotify.com/track/11nZ6Nr5ZBaV9pftKXWXau) | [CENT](https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms) | [yummy goodday](https://open.spotify.com/album/3ZieclGGBeABFqdp61SPkC) | 3:20 | 2025-10-09 |  |
 | [Zen](https://open.spotify.com/track/060MftY3uM3R3r1miNh9ys) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Zen](https://open.spotify.com/album/2yehRSY8pf27Md0UT6T6uW) | 3:34 | 2025-09-18 |  |
 | [あんたなんて。](https://open.spotify.com/track/51rMlcKYFXxO59shnOGkry) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [あんたなんて。](https://open.spotify.com/album/0cjnybDEENedpxhPFWvvo2) | 4:01 | 2025-09-18 |  |
 | [いってらっしゃい](https://open.spotify.com/track/4DF77S38RM9jX4ojH5qgl0) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [いってらっしゃい](https://open.spotify.com/album/7M3ulwJM8aT734IcjPIQkC) | 3:55 | 2025-09-18 |  |
@@ -160,6 +162,7 @@
 | [みぎてのうた](https://open.spotify.com/track/1PJwtyi6jDAxGQUNwKj49W) | [Kotringo](https://open.spotify.com/artist/0vCz02RulLug6oS9zzyVF0) | [映画「この世界の片隅に」さらにいくつものサウンドトラック](https://open.spotify.com/album/62ggBxN36q1BKWnzKFGDO7) | 4:49 | 2025-09-18 |  |
 | [らぶじゅてーむ](https://open.spotify.com/track/2NSp2dpqGXBJYTuYccld5G) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [らぶじゅてーむ](https://open.spotify.com/album/2TsUpJ4YDzsX9hBLllwMCa) | 3:15 | 2024-01-25 |  |
 | [インザバックルーム](https://open.spotify.com/track/1fmCImjjMs4pHmQGDmtCc9) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [インザバックルーム](https://open.spotify.com/album/0EkDnS2v3CdqqE6tOM3d89) | 3:26 | 2024-04-14 |  |
+| [ウォーアイニー](https://open.spotify.com/track/4JuGfoVTxBosFrjnE1MFh2) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [可愛女子](https://open.spotify.com/album/5GyItnBLvUZ59iEQRbuuaM) | 3:53 | 2025-10-09 |  |
 | [コノユビトマレ](https://open.spotify.com/track/47ltbGJTejvcljxYfzAlUZ) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [コノユビトマレ](https://open.spotify.com/album/5xpmbprnRWDZfDCF8kCU63) | 4:59 | 2022-05-10 |  |
 | [サクリファイス](https://open.spotify.com/track/6n82QNGxWNZvIHvWdDH8HT) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [神楽色アーティファクト](https://open.spotify.com/album/0cCg0eapt15PYey2SsNeqk) | 4:14 | 2025-09-18 |  |
 | [サクリファイス](https://open.spotify.com/track/45oVY6oQcKsMmRhacvLhsG) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [サクリファイス](https://open.spotify.com/album/1h1aMRQtp8vDVOMKxwXFPc) | 4:15 | 2022-05-10 | 2025-09-19 |
@@ -169,6 +172,7 @@
 | [タクト](https://open.spotify.com/track/7vFsMU7BORCrf7tZ4oTxlV) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ), [gaku](https://open.spotify.com/artist/7jjFT71wanEzrqWDlljqts) | [タクト](https://open.spotify.com/album/00njLWkhVD4MUlLkzoj4HX) | 3:57 | 2022-05-10 |  |
 | [ナナツイロ REALiZE](https://open.spotify.com/track/54IcYBsKHecx4MgZyqF8TB) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [ナナツイロ REALiZE](https://open.spotify.com/album/6Gae1e4UtFVseYUcDkGNeH) | 4:48 | 2022-05-10 | 2025-09-19 |
 | [バイオレンス](https://open.spotify.com/track/5UIFfwovmONqXqzHmscIj5) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [バイオレンス](https://open.spotify.com/album/4ci2aR3GoukVAmJwIfaQ61) | 3:52 | 2023-01-17 |  |
+| [パンダガール](https://open.spotify.com/track/6762PO2mmGDxT5llosCDPI) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [パンダガール](https://open.spotify.com/album/4PdLITdvYrIyNXQiGseajR) | 3:34 | 2025-10-09 |  |
 | [ファイトソング](https://open.spotify.com/track/05UFNH7Htp7Odg9XGhxtxQ) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ファイトソング](https://open.spotify.com/album/1t3IOg3UJHv7gja2IkBnJV) | 3:28 | 2024-04-14 |  |
 | [フレンズ](https://open.spotify.com/track/47Yy8afcdn8fD9E8vgTlRd) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [フレンズ](https://open.spotify.com/album/0me5yPA5JgPCMqXrJ4bCHv) | 3:57 | 2022-05-10 | 2022-07-29 |
 | [フレンズ](https://open.spotify.com/track/2yw4gK5iALigexA3jUiX3g) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [フレンズ](https://open.spotify.com/album/2tH1mg6OFlLX2sFg24JSqs) | 3:58 | 2022-05-10 |  |

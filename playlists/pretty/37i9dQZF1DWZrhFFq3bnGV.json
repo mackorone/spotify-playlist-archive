@@ -1,13 +1,89 @@
 {
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Tripov",
-  "num_followers": 112988,
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: The Skuy",
+  "num_followers": 113005,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEYLSFFXJjmhpNlSqkIzrEOcMPqW",
+  "snapshot_id": "AAAAACexXxDROy8aiMmGxyW6N94jJfx8",
   "tracks": [
+    {
+      "added_at": "2025-10-09 17:00:21",
+      "album": {
+        "name": "If Only",
+        "url": "https://open.spotify.com/album/7jiLRF1NvlGC2Acr3d7okL"
+      },
+      "artists": [
+        {
+          "name": "The Skuy",
+          "url": "https://open.spotify.com/artist/2SunSofBVWqLykk0g7aQ1z"
+        }
+      ],
+      "duration_ms": 241480,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/5igPUqZAso9bMHVCpS5USI"
+    },
+    {
+      "added_at": "2025-10-09 17:00:21",
+      "album": {
+        "name": "Penyakit Hati 2",
+        "url": "https://open.spotify.com/album/03lqRrpM5eYm03MJ12QKE7"
+      },
+      "artists": [
+        {
+          "name": "Tarrarin",
+          "url": "https://open.spotify.com/artist/0KKh5D2k0gvbsSKwDiR00f"
+        },
+        {
+          "name": "Bagja",
+          "url": "https://open.spotify.com/artist/4jAImWkqUpo1ILMq2Tc1G5"
+        },
+        {
+          "name": "Rosmawar",
+          "url": "https://open.spotify.com/artist/6hlYgOhUeTivxVJtWcRSf5"
+        }
+      ],
+      "duration_ms": 176448,
+      "name": "Penyakit Hati 2",
+      "url": "https://open.spotify.com/track/67gYinyuAcSE8PGwJNdxZz"
+    },
+    {
+      "added_at": "2025-10-09 21:43:29",
+      "album": {
+        "name": "Belum Boleh Pulang",
+        "url": "https://open.spotify.com/album/7DoQfDYmtTcYGRggIrfCHT"
+      },
+      "artists": [
+        {
+          "name": "Boy Warongan & The Palmeiros",
+          "url": "https://open.spotify.com/artist/4xvwA3TjOcTtzsqgBaZdb2"
+        },
+        {
+          "name": "Gabriella Fernaldi",
+          "url": "https://open.spotify.com/artist/5zGnoscN1lVq4vWNExbDZO"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Belum Boleh Pulang",
+      "url": "https://open.spotify.com/track/3lBOSflCf0zyZK3NHZ3dfk"
+    },
+    {
+      "added_at": "2025-10-09 17:00:21",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/1PG0y6QaKNceo26VsK4ffT"
+      },
+      "artists": [
+        {
+          "name": "Amanda Caesa",
+          "url": "https://open.spotify.com/artist/6Vcmx2wpCJzynUTes1ZGP1"
+        }
+      ],
+      "duration_ms": 132126,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/4U3n5CavIdChnVZj6uG26e"
+    },
     {
       "added_at": "2025-09-11 17:00:18",
       "album": {
@@ -23,6 +99,26 @@
       "duration_ms": 172827,
       "name": "Elevator Music",
       "url": "https://open.spotify.com/track/3JPlpg1N3G4wv5QrTOSjvR"
+    },
+    {
+      "added_at": "2025-10-09 17:00:21",
+      "album": {
+        "name": "The Great Indonesian Songbook, Vol. 1",
+        "url": "https://open.spotify.com/album/2YojABrSHC3cfPDHMbkx2x"
+      },
+      "artists": [
+        {
+          "name": "Kevin Yosua Big 6",
+          "url": "https://open.spotify.com/artist/5cbbRDzY0d8E2GI1gMq10J"
+        },
+        {
+          "name": "Marini Nainggolan",
+          "url": "https://open.spotify.com/artist/68CRp4uznB4jlgbcNEqbTp"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Sabda Alam",
+      "url": "https://open.spotify.com/track/2kPSx1M7cA5jR9whhWKQOJ"
     },
     {
       "added_at": "2025-09-25 17:00:33",

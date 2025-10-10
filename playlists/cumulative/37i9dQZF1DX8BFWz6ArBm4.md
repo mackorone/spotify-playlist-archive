@@ -2,9 +2,9 @@
 
 ### [Laika tou Simera](https://open.spotify.com/playlist/37i9dQZF1DX8BFWz6ArBm4)
 
-> Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Konstantinos Pantelidis
+> Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Angela Dimitriou, Katerina Lioliou
 
-202 songs - 11 hr 22 min
+203 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [I Agapi Den Pouliete](https://open.spotify.com/track/7gKXdujNQ4VdNKOqNn6Xvx) | [Stamatis Gonidis](https://open.spotify.com/artist/5By2qsuXvDrrlvRfyy6Kyk) | [I Agapi Den Pouliete](https://open.spotify.com/album/3EkrU87ngQd7QP4uAXnapa) | 3:22 | 2025-05-01 | 2025-05-16 |
 | [I Gineka Tis Zois Sou](https://open.spotify.com/track/4VJ7nzs9uF3i9rIVmaDyxt) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [1994](https://open.spotify.com/album/6GpAkvjB1iVZ9ulHtkq1yp) | 3:31 | 2024-06-27 | 2025-05-16 |
 | [I Gynaika Pou Agapaei](https://open.spotify.com/track/3ScLAuuzL6RGISttGvuo3D) | [Stamatis Gonidis](https://open.spotify.com/artist/5By2qsuXvDrrlvRfyy6Kyk), [Vasilis Dimas](https://open.spotify.com/artist/3TQLcQaZaJ81spBgSvooqK) | [I Gynaika Pou Agapaei](https://open.spotify.com/album/789yaKKLfY6X4qUUWqMGdP) | 3:52 | 2024-09-26 | 2024-10-11 |
-| [Ipa Sou Htenistou](https://open.spotify.com/track/1N9xnNu9keI3Jd0UDOnQ9Q) | [Christos Dantis](https://open.spotify.com/artist/1TKXk9QDdArvRAKdW2sMyc) | [Ipa Sou Htenistou](https://open.spotify.com/album/4A6zWpwWUhwHcPbtHEMPi6) | 2:00 | 2025-09-25 |  |
+| [Ipa Sou Htenistou](https://open.spotify.com/track/1N9xnNu9keI3Jd0UDOnQ9Q) | [Christos Dantis](https://open.spotify.com/artist/1TKXk9QDdArvRAKdW2sMyc) | [Ipa Sou Htenistou](https://open.spotify.com/album/4A6zWpwWUhwHcPbtHEMPi6) | 2:00 | 2025-09-25 | 2025-10-10 |
 | [Iroas Ise](https://open.spotify.com/track/5GR7jdfBTJSQPRYdcB4DdZ) | [Nikiforos](https://open.spotify.com/artist/3uNZcGFziYYu8twdT7pCs9) | [Iroas Ise](https://open.spotify.com/album/6M0pY9mFCyV0F0JOaUO4HF) | 3:49 | 2024-10-24 | 2024-11-22 |
 | [Isitirio Ena](https://open.spotify.com/track/4bW9y6hUjoOUdJtK2NMu40) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Isitirio Ena](https://open.spotify.com/album/5qHTNSiJ4eXP4HrPqVgn11) | 3:43 | 2025-05-08 |  |
 | [Kale..\. Poios Einai Autos?](https://open.spotify.com/track/3RS5AmoANjZz0PXsOUjovL) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [Kale..\. Poios Einai Autos?](https://open.spotify.com/album/1p6wochIG0XNOunIdKHdh7) | 2:26 | 2025-06-05 |  |
@@ -146,6 +146,7 @@
 | [Planitis Gi](https://open.spotify.com/track/1jhWAV25iQBkWOtIlHe6a0) | [Nikos Apergis](https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d) | [Planitis Gi](https://open.spotify.com/album/3NrhsZPgo6Z72XmnDizCTK) | 4:07 | 2024-08-01 |  |
 | [Poios Tha Tou To Pei](https://open.spotify.com/track/67rlb9f252xaAJ1LQabIw2) | [Eleni Hatzidou](https://open.spotify.com/artist/6P6FzomDMeM5mwj5AHBaWl) | [Poios Tha Tou To Pei](https://open.spotify.com/album/2MxKF6SqvEIfwzmUpHTa6i) | 3:07 | 2025-04-10 | 2025-05-09 |
 | [Porni Outopia](https://open.spotify.com/track/5pgYW8yaeXiIemY9nOBKZI) | [Paola](https://open.spotify.com/artist/7m0YMvg7P6lnhSa2Ttu5TF) | [Porni Outopia](https://open.spotify.com/album/76sgSrnerOEpJHQxca7Wx5) | 3:32 | 2024-12-12 |  |
+| [Pou Ti Vrike?](https://open.spotify.com/track/58NBDso0aGKOH1HGMqeR6c) | [Angela Dimitriou](https://open.spotify.com/artist/7xySz9OyEWxKC6RyDlo256), [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Pou Ti Vrike?](https://open.spotify.com/album/5CMbdkrcS8H2QWwjr3GYvI) | 3:08 | 2025-10-09 |  |
 | [Psahno Na Vro](https://open.spotify.com/track/5DPZMOE3VA3fHXASNhtPRT) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Psahno Na Vro](https://open.spotify.com/album/6YA76D7DzUuiBpktYltKwo) | 3:19 | 2024-06-27 |  |
 | [Psixi Me Psixi](https://open.spotify.com/track/7h6EQyOSzYyN1eDG1rpIK5) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd) | [Psixi Me Psixi](https://open.spotify.com/album/0C8jXZAjScZhZdNRxphyFC) | 4:21 | 2024-10-10 |  |
 | [Pyrkagia](https://open.spotify.com/track/5RyMvI0aHmmJTkTt54z1Zk) | [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Pyrkagia](https://open.spotify.com/album/4uCEeBnYwu53WSl9WjPeYn) | 2:32 | 2024-07-04 | 2024-11-29 |

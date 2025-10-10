@@ -732,7 +732,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 196015,
       "name": "3 AM",
       "url": "https://open.spotify.com/track/4B3cGux5Dy2VRYUbsqDj4M"
@@ -41555,6 +41555,24 @@
     },
     {
       "album": {
+        "name": "No Te Quiero Perder",
+        "url": "https://open.spotify.com/album/5rc1KHzv8uTdZEWawjjUEj"
+      },
+      "artists": [
+        {
+          "name": "Mr Mashup Mx",
+          "url": "https://open.spotify.com/artist/31nHGhhEShDV9MPR23xh11"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299436,
+      "name": "No Te Quiero Perder",
+      "url": "https://open.spotify.com/track/3O0u1Dbyw5oDy9e1RTTzDl"
+    },
+    {
+      "album": {
         "name": "BORONDO",
         "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
       },
@@ -52252,7 +52270,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 244887,
       "name": "SENDA",
       "url": "https://open.spotify.com/track/0SI2PdREZzZkqNTHLctnNG"
@@ -58850,7 +58868,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 196186,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/63y2aL2dT6zzw8FOSLaNrp"
@@ -58868,7 +58886,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 196560,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"
@@ -60682,7 +60700,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 142952,
       "name": "Tumbayork",
       "url": "https://open.spotify.com/track/1MRuWfOVxpJiAyW8AS1laj"

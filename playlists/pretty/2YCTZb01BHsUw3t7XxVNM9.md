@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 
 > Western orientated Hardcore Music by Japanese Artists
 
-[超棒的企鹅](https://open.spotify.com/user/megustager) - 721 likes - 504 songs - 1 day 11 hr 0 min
+[超棒的企鹅](https://open.spotify.com/user/megustager) - 721 likes - 505 songs - 1 day 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -512,5 +512,6 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 | 502 | [Hex](https://open.spotify.com/track/5ZS0LsKEK3AuvnX0Q5w5Mh) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Hex](https://open.spotify.com/album/0eG98O2NBz98XgKFWZpMpQ) | 4:06 |
 | 503 | [IGNITE](https://open.spotify.com/track/4Db7S2wX2niEZ8aIoqkzhy) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI), [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [IGNITE](https://open.spotify.com/album/5DFjJ4r8PbfXp6R9XsWmLS) | 2:36 |
 | 504 | [I Hate You](https://open.spotify.com/track/3aJnQtCcxsbwDgPkhrvz1O) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [I Hate You](https://open.spotify.com/album/4dQEgdmJK9kMuDLu71m9G3) | 4:01 |
+| 505 | [OUTRAGE](https://open.spotify.com/track/4aAsD63PKtdr5J14QoCube) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI), [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [OUTRAGE](https://open.spotify.com/album/12LBeDvalrCAdyvvxdphyO) | 2:40 |
 
-Snapshot ID: `AAACVqS/H+R3Jlu/Vp9JH6l5gk7WI+Bu`
+Snapshot ID: `AAACV+Ywdbo3VPhlxR2hSrFkT2ft9xUf`

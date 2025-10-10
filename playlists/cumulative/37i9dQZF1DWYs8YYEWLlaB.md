@@ -2,7 +2,7 @@
 
 ### [trend 2025](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\.  Kapak: Lvbel C5
+> viral, trend ve yükselenler\.  Kapak: manifest
 
 219 songs - 11 hr 17 min
 

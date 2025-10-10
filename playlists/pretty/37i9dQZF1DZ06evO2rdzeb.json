@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 17468,
+  "num_followers": 17488,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aORYAAAAAACO6PqjQxTZMWfkci0Dd3Zy",
+  "snapshot_id": "aOWpgAAAAADstSl6oylCZaHgHseTwDSN",
   "tracks": [
     {
       "added_at": null,
@@ -611,38 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel Better",
-        "url": "https://open.spotify.com/album/0hc8g5I4hvtuD3GPYkK7he"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "Feel Better",
-      "url": "https://open.spotify.com/track/0uAjs9DbEIKI1uz0hIGaxm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hours Were the Birds",
-        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 163666,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/45kpjdeuV0YugvErFYRXYl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "b-sides",
         "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
       },
@@ -663,6 +631,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hours Were the Birds",
+        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 163666,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/45kpjdeuV0YugvErFYRXYl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feel Better",
+        "url": "https://open.spotify.com/album/0hc8g5I4hvtuD3GPYkK7he"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "Feel Better",
+      "url": "https://open.spotify.com/track/0uAjs9DbEIKI1uz0hIGaxm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live at Revolution Hall",
         "url": "https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu"
       },
@@ -675,6 +675,26 @@
       "duration_ms": 92827,
       "name": "indiana & sneezing",
       "url": "https://open.spotify.com/track/0c2QahAGwUgKgBdhS7WGcm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "b-sides",
+        "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        },
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "Ringing Bells",
+      "url": "https://open.spotify.com/track/5xjqIJjjrLgTD2GBHkDQtJ"
     },
     {
       "added_at": null,
@@ -707,26 +727,6 @@
       "duration_ms": 208180,
       "name": "happiness - live",
       "url": "https://open.spotify.com/track/43zJRyV2RM1Zk9FIw9xx74"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "b-sides",
-        "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        },
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
-        }
-      ],
-      "duration_ms": 229373,
-      "name": "Ringing Bells",
-      "url": "https://open.spotify.com/track/5xjqIJjjrLgTD2GBHkDQtJ"
     },
     {
       "added_at": null,

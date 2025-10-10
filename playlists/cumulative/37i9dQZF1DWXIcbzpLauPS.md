@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Architects
 
-1,360 songs - 3 day 11 hr 9 min
+1,361 songs - 3 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -813,7 +813,7 @@
 | [Nightmare \(The Devil\)](https://open.spotify.com/track/0hCNHNnXTpUXsTpi7C8RsC) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Nightmare \(The Devil\)](https://open.spotify.com/album/0hMtI2waRMun1xrQhhdsOA) | 3:21 | 2024-03-08 | 2025-09-13 |
 | [nights](https://open.spotify.com/track/1I4rlS1d99cwHJ9vRHHTRP) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [nights](https://open.spotify.com/album/1QoYG03O6S0GGvg5WBi3cY) | 2:02 | 2024-04-12 | 2024-08-13 |
 | [Nihilus](https://open.spotify.com/track/7e9lo5xNLCxtGF3AuU5WNW) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Nihilus](https://open.spotify.com/album/45QoTiIMPyNXb2tHkxex6T) | 3:34 | 2022-07-13 | 2022-07-23 |
-| [No Answer](https://open.spotify.com/track/2KrGH8pKA2wFXEJM8HetDH) | [The Narrator](https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk), [Elwood Stray](https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr) | [Lore](https://open.spotify.com/album/1ieLuRpnnX8EYrzCdZuQSB) | 2:44 | 2024-09-20 |  |
+| [No Answer](https://open.spotify.com/track/2KrGH8pKA2wFXEJM8HetDH) | [The Narrator](https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk), [Elwood Stray](https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr) | [Lore](https://open.spotify.com/album/1ieLuRpnnX8EYrzCdZuQSB) | 2:44 | 2024-09-20 | 2025-10-10 |
 | [No Dignity](https://open.spotify.com/track/3lN5zEux9kS6wuAOynFQlO) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [No Dignity](https://open.spotify.com/album/0d1OWLprMSKHi4aeeIhpEZ) | 3:29 | 2022-07-13 | 2022-07-20 |
 | [No Evil](https://open.spotify.com/track/1zO6NIKsqvH5p578KXr97T) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [No Evil](https://open.spotify.com/album/5CA2LhicOyfJdDq5vosOpD) | 2:30 | 2023-03-31 | 2023-09-16 |
 | [No Heaven](https://open.spotify.com/track/5nxZSkMS7VpbjEHaCQ39a1) | [For The Fallen Dreams](https://open.spotify.com/artist/0rsHKddRhuze38fVL0egOY) | [No Heaven](https://open.spotify.com/album/3UDy59MHq2lMzX04LeH6qa) | 3:24 | 2022-10-21 | 2023-08-19 |
@@ -901,6 +901,7 @@
 | [Perpetual \| Terminal](https://open.spotify.com/track/4TDy9DvlFtLp3XE3jhMfj5) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Perpetual Terminal](https://open.spotify.com/album/4SYGnQBzkOTHXvCaPL8CiB) | 5:47 | 2023-11-27 | 2024-05-11 |
 | [Pig](https://open.spotify.com/track/3IMsQ5w6Lq1pJak148cqLK) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Pig](https://open.spotify.com/album/7M8qLO0UvEJfgiJ8lqXwVo) | 3:45 | 2025-03-31 | 2025-08-24 |
 | [PIGS EAR](https://open.spotify.com/track/4ZJduIHjMVQ3RIxFOR7sHz) | [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [PIGS EAR](https://open.spotify.com/album/58CBeC9b0zQuOiFb0JniJT) | 2:11 | 2022-07-13 | 2022-07-17 |
+| [Pills From The Start](https://open.spotify.com/track/5veJxMbTFDmUStxWBTthlC) | [The Narrator](https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk) | [Pills From The Start](https://open.spotify.com/album/7g5Ve1kCztJb28wuAHDfug) | 3:11 | 2025-10-03 |  |
 | [Pit of Misery](https://open.spotify.com/track/3SM1GyP52v3fUHhl5IBggs) | [Get The Shot](https://open.spotify.com/artist/47YTOUaDKlPoDHr00r5Wu2) | [Pit of Misery](https://open.spotify.com/album/5ickix0UdA5jqLnzPOWX4Q) | 5:08 | 2025-03-14 |  |
 | [Pittsburgh \- Redux](https://open.spotify.com/track/4WLnFkOz45jnsDmrFopEIM) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Let The Ocean Take Me \(Redux\)](https://open.spotify.com/album/3rFpcPqcUpFRcbFwd5kyCm) | 3:59 | 2024-10-18 | 2025-08-30 |
 | [Pizza Homicide](https://open.spotify.com/track/7vqgYX29LWz74BlsaW9bub) | [Samurai Pizza Cats](https://open.spotify.com/artist/6f0FWL5v2c3a5shWKRuiwq), [Nico Sallach](https://open.spotify.com/artist/02UmgKnxslxUbrVpHhF9bb), [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Pizza Homicide](https://open.spotify.com/album/4NTGoJrPUvdgihClkErxoM) | 3:00 | 2023-03-10 | 2023-05-06 |

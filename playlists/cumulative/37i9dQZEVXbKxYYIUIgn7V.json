@@ -5636,7 +5636,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 138955,
       "name": "blackout blackout",
       "url": "https://open.spotify.com/track/3GWq178RXxxXnuGOpuJ6MZ"
@@ -8756,7 +8756,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 155528,
       "name": "Claw Marks",
       "url": "https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di"
@@ -8774,7 +8774,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 155537,
       "name": "Claw Marks",
       "url": "https://open.spotify.com/track/1QFEiyVA7zwNeIXbhdafAF"
@@ -13550,7 +13550,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 168837,
       "name": "Fancy $hit",
       "url": "https://open.spotify.com/track/6Ar3apWGoJLPZ3zy6Eb94F"
@@ -20124,7 +20124,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 166100,
       "name": "ich glaub ich",
       "url": "https://open.spotify.com/track/1mVADHCWdiSsCQdtTlgppI"
@@ -22052,6 +22052,24 @@
       "duration_ms": 198516,
       "name": "Katastrophe",
       "url": "https://open.spotify.com/track/64PC5XVJuKbvxYHecenRGO"
+    },
+    {
+      "album": {
+        "name": "Shadows & Soul",
+        "url": "https://open.spotify.com/album/1PihbFD5ixzRI790bozyzx"
+      },
+      "artists": [
+        {
+          "name": "Enlly Blue",
+          "url": "https://open.spotify.com/artist/28W1qq34TByUcLOtkceRxp"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161880,
+      "name": "Keep On Boogiin'",
+      "url": "https://open.spotify.com/track/6ex416TNMpk4GwcOTd71Ys"
     },
     {
       "album": {
@@ -27396,7 +27414,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 144250,
       "name": "Messe Nord Mashup",
       "url": "https://open.spotify.com/track/4JH94GSfsoWGeJDJ55v0Rm"
@@ -29920,7 +29938,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 168618,
       "name": "No Lie",
       "url": "https://open.spotify.com/track/6uJmoSievkPkXP3eP6xELn"
@@ -36000,7 +36018,7 @@
       ],
       "date_added": "2025-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 124000,
       "name": "SEMPERO - Slowed",
       "url": "https://open.spotify.com/track/54veCY5M8Y9k92idKlJZ44"
@@ -43791,6 +43809,24 @@
     },
     {
       "album": {
+        "name": "Wake Up Dead Man",
+        "url": "https://open.spotify.com/album/39wnKAIYBN9uwAoyvd8Qn0"
+      },
+      "artists": [
+        {
+          "name": "Howlin Jackson",
+          "url": "https://open.spotify.com/artist/2oYgK16iRwQMrKS8Hr2S66"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242363,
+      "name": "Wake Up Dead Man",
+      "url": "https://open.spotify.com/track/1vH32FsKidox24ocf1GXFm"
+    },
+    {
+      "album": {
         "name": "Walking Away (Infinity)",
         "url": "https://open.spotify.com/album/2NQXrwAkAvrjoPT537SfI2"
       },
@@ -44344,7 +44380,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
@@ -44970,7 +45006,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 171008,
       "name": "Where Have You Been (Orchestra)",
       "url": "https://open.spotify.com/track/38iBHhjHpRTkIlAW9IeAdZ"

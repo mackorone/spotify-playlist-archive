@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ?si=VK5ZJOGlRHC1JoIH1JJIHQ\"> Jovie Jovv</a> ",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=uOrRcNp2Qy2fEsump2G-Xw\"> Khaligraph Jones</a> ",
   "name": "254 Flow",
   "tracks": [
     {
@@ -166,7 +166,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 188087,
       "name": "4:20",
       "url": "https://open.spotify.com/track/6RO4BZMyoYlhgGnGw9nAG3"
@@ -2121,6 +2121,24 @@
     },
     {
       "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/4LpF3xAqErYDmbiOiYSmFv"
+      },
+      "artists": [
+        {
+          "name": "Toxic Lyrikali",
+          "url": "https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128054,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/1XNworIWOEdh27aI8mSpDp"
+    },
+    {
+      "album": {
         "name": "F Tz Rappers 1",
         "url": "https://open.spotify.com/album/6iX9AgvygO9yt0WzQMBbUF"
       },
@@ -2666,7 +2684,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 118831,
       "name": "Goshoree",
       "url": "https://open.spotify.com/track/3gghsO2XOQqHQq3oAaMNna"
@@ -3606,7 +3624,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 181872,
       "name": "Kangethe",
       "url": "https://open.spotify.com/track/01iC7q3mk0fQpNvtf0AsUW"
@@ -5468,6 +5486,24 @@
       "duration_ms": 265531,
       "name": "Natoka Na Nani? (feat. Khaligraph Jones)",
       "url": "https://open.spotify.com/track/3WaClrMeTUUaZyZhzCIpEu"
+    },
+    {
+      "album": {
+        "name": "Nature ya Binadamu",
+        "url": "https://open.spotify.com/album/31zwCxV8TTsyzvwwxaasMZ"
+      },
+      "artists": [
+        {
+          "name": "Khaligraph Jones",
+          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267650,
+      "name": "Nature ya Binadamu",
+      "url": "https://open.spotify.com/track/0oeErx3HcEOsJD9iBAdZCk"
     },
     {
       "album": {
@@ -9236,6 +9272,24 @@
       "duration_ms": 333361,
       "name": "Zoea",
       "url": "https://open.spotify.com/track/5gMyaWinK3coOsoldKuQ1f"
+    },
+    {
+      "album": {
+        "name": "WAMEYO",
+        "url": "https://open.spotify.com/album/2xa7dIVuOSgz8tI20CBjQB"
+      },
+      "artists": [
+        {
+          "name": "Elsy Wameyo",
+          "url": "https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186461,
+      "name": "\u00adWAMEYO",
+      "url": "https://open.spotify.com/track/4F51Hm0R8Z3kPOUv7RNExz"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZdKbfDnTWVN"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Olga Tañón
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,472 likes - 100 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,505 likes - 100 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 16 | [Vivir sin ti](https://open.spotify.com/track/3ldreGKrpp8tXxUE57G63O) | [Jonathan Napoles](https://open.spotify.com/artist/0amncpo70dLifUC89b67Qh) | [Vivir sin ti](https://open.spotify.com/album/1tiDtTY0J2oM6fMsRJ5x4q) | 3:56 |
 | 17 | [Todo Por Ti](https://open.spotify.com/track/44Ka3AeurQ3zJEqh6h6fM9) | [Preciosa Sangre](https://open.spotify.com/artist/3lQOdMnwQBNLM2WGSDwyIH) | [Todo Por Ti](https://open.spotify.com/album/3tLrp7G0L1dMed9VViNlwL) | 3:42 |
 | 18 | [Amado De Dios](https://open.spotify.com/track/6XiU5ozbAqMEKEjpNOStqj) | [David Lugo](https://open.spotify.com/artist/0OzUa2KiynKiryhf1cSgvS) | [Amado De Dios](https://open.spotify.com/album/2Czpl6LILkU3TQpRhxZeLt) | 5:36 |
-| 19 | [Yahweh Se Manifestará](https://open.spotify.com/track/3Ak4tUuNOgShG1YZ9wvZWp) | [Romeo La Maravilla](https://open.spotify.com/artist/4FIBJxiFp0ZBblnvqoUhuP), [Jhonan Romeu Lores](https://open.spotify.com/artist/089pyewYep0apUtZQQXvjj), [Yusnavy Publicita Mami](https://open.spotify.com/artist/51M4N4IOcSSqRLGLbG2Uc7) | [Yahweh Se Manifestará](https://open.spotify.com/album/5321C22vCdAE1LoIZxzeLH) | 7:00 |
+| 19 | [Yahweh Se Manifestará](https://open.spotify.com/track/3Ak4tUuNOgShG1YZ9wvZWp) | [Jhonan Romeu Lores](https://open.spotify.com/artist/089pyewYep0apUtZQQXvjj) | [Yahweh Se Manifestará](https://open.spotify.com/album/5321C22vCdAE1LoIZxzeLH) | 7:00 |
 | 20 | [Sana Nuestra Nación](https://open.spotify.com/track/49IbF8GUf6pGhqjR3iNGu9) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h), [Stefy Espinosa](https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Sana Nuestra Nación](https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y) | 12:29 |
 | 21 | [Majestad](https://open.spotify.com/track/7Bpi5OvCJ9OsQIlEhtOZFA) | [Nueva Raza](https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0), [Karen Espinosa](https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m) | [Majestad](https://open.spotify.com/album/55cQIZ7OHwC3t0cvHSNG00) | 7:16 |
 | 22 | [Aleluya](https://open.spotify.com/track/1agjkTBQgDd6vaeTfyTrlt) | [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0) | [Aleluya](https://open.spotify.com/album/5PuoatqTRVmlNHqvdGrU27) | 4:55 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Samuel \u00daria",
+  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Branko, Tain\u00e1",
   "name": "Cena Indie",
   "tracks": [
     {
@@ -460,7 +460,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 239600,
       "name": "Arm's Length",
       "url": "https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3"
@@ -612,7 +612,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 158109,
       "name": "Basic Being Basic",
       "url": "https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io"
@@ -756,7 +756,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 153101,
       "name": "Blue",
       "url": "https://open.spotify.com/track/7nicn8ELgX9KaaHSS3MWxw"
@@ -962,7 +962,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 200373,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm"
@@ -1077,6 +1077,28 @@
     },
     {
       "album": {
+        "name": "Chave",
+        "url": "https://open.spotify.com/album/6gm92c4ZP0K4aUfycUDYLn"
+      },
+      "artists": [
+        {
+          "name": "L-ALI",
+          "url": "https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy"
+        },
+        {
+          "name": "J\u00dcRA",
+          "url": "https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149312,
+      "name": "Chave",
+      "url": "https://open.spotify.com/track/6vnUnOB6zp6x7eBnbaRTYG"
+    },
+    {
+      "album": {
         "name": "Chemistry",
         "url": "https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ"
       },
@@ -1088,7 +1110,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 284137,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE"
@@ -1570,7 +1592,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 245681,
       "name": "do raso ao fundo",
       "url": "https://open.spotify.com/track/6CCL120WKQUGBPHpndoqAW"
@@ -1750,7 +1772,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 288267,
       "name": "E n\u00e3o sobrou ningu\u00e9m",
       "url": "https://open.spotify.com/track/7xmIAiMbh6F2DsUKEDcBYN"
@@ -2228,6 +2250,24 @@
       "duration_ms": 364800,
       "name": "Fuck Me Eyes",
       "url": "https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3vam",
+          "url": "https://open.spotify.com/artist/7p23ERQPaBJU2W0gguMNTi"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189540,
+      "name": "Get to You",
+      "url": "https://open.spotify.com/track/5wtL5B9hkCDyKZZAnYqjAJ"
     },
     {
       "album": {
@@ -3364,7 +3404,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 196300,
       "name": "Longe",
       "url": "https://open.spotify.com/track/5UZtxGzXmjlpgmRzK1wXSc"
@@ -3422,6 +3462,24 @@
       "duration_ms": 231506,
       "name": "Lotus Eater",
       "url": "https://open.spotify.com/track/3Y6yJhnGJdNTQwgIyKMLE8"
+    },
+    {
+      "album": {
+        "name": "Up in The Clouds",
+        "url": "https://open.spotify.com/album/6AXzFB2AglmNIqGhRHMb9s"
+      },
+      "artists": [
+        {
+          "name": "Da Chick",
+          "url": "https://open.spotify.com/artist/0XtZe2I85XkMTQP2SVt0FE"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264462,
+      "name": "Lovin' and Groovin'",
+      "url": "https://open.spotify.com/track/26tLS9P5gzssxjdUaLVqFH"
     },
     {
       "album": {
@@ -4199,6 +4257,24 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Posso Afinal",
+        "url": "https://open.spotify.com/album/2UyjC7jhWZSjnq7o283fBh"
+      },
+      "artists": [
+        {
+          "name": "In\u00eas Marques Lucas",
+          "url": "https://open.spotify.com/artist/6eVIiykMS1MiFG8AkH7ILn"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183947,
+      "name": "N\u00e3o Posso Afinal",
+      "url": "https://open.spotify.com/track/0C7gp95lUxyDB1qchmNYXU"
+    },
+    {
+      "album": {
         "name": "O Assunto",
         "url": "https://open.spotify.com/album/5AdcDTBYy991LIdD7XurYh"
       },
@@ -4384,6 +4460,24 @@
       "duration_ms": 247244,
       "name": "Os Bravos \u2013 II. RAIA",
       "url": "https://open.spotify.com/track/2xNr71RUJ0Q6o6rsN4fwfb"
+    },
+    {
+      "album": {
+        "name": "Palomino (From the Netflix Series \"Nobody Wants This\" Season 2)",
+        "url": "https://open.spotify.com/album/2EyPD0EkMu9yo0y5GHnJl7"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190944,
+      "name": "Palomino - From the Netflix Series \"Nobody Wants This\" Season 2",
+      "url": "https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz"
     },
     {
       "album": {
@@ -5895,6 +5989,28 @@
     },
     {
       "album": {
+        "name": "Tie you down",
+        "url": "https://open.spotify.com/album/1I791510xrKrTghdNBHfgm"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176826,
+      "name": "Tie you down",
+      "url": "https://open.spotify.com/track/0S2c7Zxd1NyUewjQyW187L"
+    },
+    {
+      "album": {
         "name": "Time Well Wasted",
         "url": "https://open.spotify.com/album/5QS64j2i3oaXlx3LdUwU45"
       },
@@ -6237,6 +6353,28 @@
     },
     {
       "album": {
+        "name": "Trist\u00e1n, Ahora Con Reloj",
+        "url": "https://open.spotify.com/album/7oDxt14IyAbiLAxlCMLHEe"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173200,
+      "name": "Ver\u00f3nica",
+      "url": "https://open.spotify.com/track/3ppKzJJeiveJtB03kuk43D"
+    },
+    {
+      "album": {
         "name": "Vice Versa",
         "url": "https://open.spotify.com/album/4A4kuj5F6KE1Snoj3AYYfr"
       },
@@ -6288,6 +6426,28 @@
       "duration_ms": 242635,
       "name": "Volkswagen - 2025",
       "url": "https://open.spotify.com/track/1SCeOcDKbcJpWoCTUIMDWh"
+    },
+    {
+      "album": {
+        "name": "Volver a Despertar",
+        "url": "https://open.spotify.com/album/4cVRQMqVmhRchsIW2L6Y5H"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 ViaMonte",
+          "url": "https://open.spotify.com/artist/65vZkm7u2bw95yQ0bAZdct"
+        },
+        {
+          "name": "Mari Segura",
+          "url": "https://open.spotify.com/artist/2ih7yN0J7tvnUaX3h7xQjT"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228913,
+      "name": "Volver a Despertar",
+      "url": "https://open.spotify.com/track/7hlIwL37UxEG5O3JbewohD"
     },
     {
       "album": {

@@ -2637,6 +2637,24 @@
     },
     {
       "album": {
+        "name": "Hey Judy",
+        "url": "https://open.spotify.com/album/0pMk1n2uuRifp4jla352aJ"
+      },
+      "artists": [
+        {
+          "name": "Beth McBride",
+          "url": "https://open.spotify.com/artist/5pCLyj9brVtNc1UuTeWl73"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221093,
+      "name": "Hey Judy",
+      "url": "https://open.spotify.com/track/4iCE97DfG7KbiVbiXFQUt2"
+    },
+    {
+      "album": {
         "name": "Hindsight",
         "url": "https://open.spotify.com/album/60H5w2fXHEJX2gQjoCCjaQ"
       },
@@ -5478,7 +5496,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 258880,
       "name": "The State of the World",
       "url": "https://open.spotify.com/track/4PLfvRsrfbVdMhu1vA8R4N"

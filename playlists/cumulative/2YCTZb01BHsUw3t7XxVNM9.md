@@ -4,7 +4,7 @@
 
 > Western orientated Hardcore Music by Japanese Artists
 
-504 songs - 1 day 11 hr 0 min
+505 songs - 1 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Out Of Range](https://open.spotify.com/track/3IJDq9i3tdbpMf0AFlW4cO) | [Noizenecio](https://open.spotify.com/artist/6nnVxZM26xhcsPxc0uEGuU) | [Wall of Nous](https://open.spotify.com/album/4N80rULFVWXLN2ym6PMuga) | 4:43 | 2020-03-14 |  |
 | [Outcast](https://open.spotify.com/track/1ze4UgKw9ewNA7uWAUnFIO) | [6th](https://open.spotify.com/artist/1OC1dqSbe6zNiv0NBtODX1), [Dischord](https://open.spotify.com/artist/5Em1ub39trbmoJ4nRYM8vS) | [exPERIMENT](https://open.spotify.com/album/6ywKar62lXikMSJSMSQ6RN) | 3:43 | 2019-05-03 |  |
 | [Outcry](https://open.spotify.com/track/2h7A1PproUFMs7gpyTqMTs) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [HARDCORE SYNDROME 13](https://open.spotify.com/album/7K9CRwTPgGvCBbMrqGVnfY) | 4:16 | 2019-08-27 |  |
+| [OUTRAGE](https://open.spotify.com/track/4aAsD63PKtdr5J14QoCube) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI), [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [OUTRAGE](https://open.spotify.com/album/12LBeDvalrCAdyvvxdphyO) | 2:40 | 2025-10-09 |  |
 | [Overload feat\. MC Dahl Headland](https://open.spotify.com/track/1MMcQAJFP4pL1MCKmHN406) | [Noizenecio](https://open.spotify.com/artist/6nnVxZM26xhcsPxc0uEGuU) | [SPEED BALL GT](https://open.spotify.com/album/4qBkBKQTlXMdyZQusE7lf3) | 5:12 | 2019-02-25 |  |
 | [Pandemic \(feat.Dj Grimoire\) \(EDIT\)](https://open.spotify.com/track/0v87b4OAjqA2caVxDgAp0B) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO), [Dj Grimoire](https://open.spotify.com/artist/3BGxTRSXPm85rLyfwNJQ71) | [VIOLENCE IN THE HOSPITAL](https://open.spotify.com/album/5g4JgIVr9mKlWCmSuPypo3) | 3:27 | 2019-11-29 |  |
 | [Pandemonium](https://open.spotify.com/track/0j3MEKtuFGj4OTyoFBLxHE) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt), [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [Pandemonium](https://open.spotify.com/album/5YpZr2uM5XAC4IXTyuX2vX) | 3:23 | 2023-04-15 |  |

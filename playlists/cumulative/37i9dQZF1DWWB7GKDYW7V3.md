@@ -2,7 +2,7 @@
 
 ### [Best of Lowlands](https://open.spotify.com/playlist/37i9dQZF1DWWB7GKDYW7V3)
 
-> 30 tips van de Spotify editors én de Lowlands klassiekers!
+> 30 tips voor LL25 van de Spotify curators én de Lowlands klassiekers!
 
 129 songs - 8 hr 16 min
 

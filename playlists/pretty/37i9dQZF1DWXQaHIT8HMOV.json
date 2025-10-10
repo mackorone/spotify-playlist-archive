@@ -1,15 +1,35 @@
 {
-  "description": "Homegrown Ugandan gems in one playlist. Cover: Pia Pounds",
-  "num_followers": 8281,
+  "description": "Homegrown Ugandan gems in one playlist. Cover: Joshua Baraka",
+  "num_followers": 8300,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJEWkXRDces2gcoJtn9El3/bNfkI",
+  "snapshot_id": "AAAAAPn7PI+UY9zUW9JipSxdG35Bw6EG",
   "tracks": [
     {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
+      "album": {
+        "name": "Dive In",
+        "url": "https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        }
+      ],
+      "duration_ms": 195589,
+      "name": "Dive In",
+      "url": "https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A"
+    },
+    {
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "Good Idea",
         "url": "https://open.spotify.com/album/6H1rdKxDBAVCEq3fpRGLI2"
@@ -29,7 +49,71 @@
       "url": "https://open.spotify.com/track/6MHDsDMdC4l2DZ9fUdmk6L"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
+      "album": {
+        "name": "Daily Bundle",
+        "url": "https://open.spotify.com/album/0aubgASRi7N38T8bG24Pmh"
+      },
+      "artists": [
+        {
+          "name": "Elijah Kitaka",
+          "url": "https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Daily Bundle",
+      "url": "https://open.spotify.com/track/5YXwtHacsQiPVd0Yk6fwzs"
+    },
+    {
+      "added_at": "2025-10-09 23:59:21",
+      "album": {
+        "name": "Nkisusamu",
+        "url": "https://open.spotify.com/album/3TsSnRHtcCmg5MJa56HV0t"
+      },
+      "artists": [
+        {
+          "name": "Pia Pounds",
+          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
+        }
+      ],
+      "duration_ms": 178144,
+      "name": "Nkisusamu",
+      "url": "https://open.spotify.com/track/3QUyCTyxXSB4egQhLa45gZ"
+    },
+    {
+      "added_at": "2025-10-09 23:59:21",
+      "album": {
+        "name": "Nina Anjagala",
+        "url": "https://open.spotify.com/album/3xK0euMYLHUXcY4kH5f8kH"
+      },
+      "artists": [
+        {
+          "name": "Martha Mukisa",
+          "url": "https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Nina Anjagala",
+      "url": "https://open.spotify.com/track/4dk1WxucD7abERh4ocTJCL"
+    },
+    {
+      "added_at": "2025-10-09 23:59:21",
+      "album": {
+        "name": "Woman in My Life",
+        "url": "https://open.spotify.com/album/6KaryKdZd2Pw9TgiDixQjc"
+      },
+      "artists": [
+        {
+          "name": "Dokta Brain",
+          "url": "https://open.spotify.com/artist/5QhpwiUuVwrOYGVSVflJeY"
+        }
+      ],
+      "duration_ms": 154105,
+      "name": "Woman in My Life",
+      "url": "https://open.spotify.com/track/4MVNh79x52KiTNFLtUvfWX"
+    },
+    {
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/775f99vvSk9KnPqFmyxhuB"
@@ -49,55 +133,7 @@
       "url": "https://open.spotify.com/track/0y97dz8upW8GtUMzRACY5o"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
-      "album": {
-        "name": "Daily Bundle",
-        "url": "https://open.spotify.com/album/0aubgASRi7N38T8bG24Pmh"
-      },
-      "artists": [
-        {
-          "name": "Elijah Kitaka",
-          "url": "https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Daily Bundle",
-      "url": "https://open.spotify.com/track/5YXwtHacsQiPVd0Yk6fwzs"
-    },
-    {
-      "added_at": "2025-10-02 23:59:25",
-      "album": {
-        "name": "Nkisusamu",
-        "url": "https://open.spotify.com/album/3TsSnRHtcCmg5MJa56HV0t"
-      },
-      "artists": [
-        {
-          "name": "Pia Pounds",
-          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
-        }
-      ],
-      "duration_ms": 178144,
-      "name": "Nkisusamu",
-      "url": "https://open.spotify.com/track/3QUyCTyxXSB4egQhLa45gZ"
-    },
-    {
-      "added_at": "2025-10-02 23:59:25",
-      "album": {
-        "name": "Woman in My Life",
-        "url": "https://open.spotify.com/album/6KaryKdZd2Pw9TgiDixQjc"
-      },
-      "artists": [
-        {
-          "name": "Dokta Brain",
-          "url": "https://open.spotify.com/artist/5QhpwiUuVwrOYGVSVflJeY"
-        }
-      ],
-      "duration_ms": 154105,
-      "name": "Woman in My Life",
-      "url": "https://open.spotify.com/track/4MVNh79x52KiTNFLtUvfWX"
-    },
-    {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "African Buoy",
         "url": "https://open.spotify.com/album/4ZzsWY2WUETPUEZc4kNmkl"
@@ -117,7 +153,7 @@
       "url": "https://open.spotify.com/track/4ICBQ0SyH00WHiuQ3RbUPG"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "Secret Island",
         "url": "https://open.spotify.com/album/0pk2St2lhedWK1wxvzPOzY"
@@ -133,7 +169,7 @@
       "url": "https://open.spotify.com/track/73YcIIseQ43Z2yiGjqTXIe"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "Tuti",
         "url": "https://open.spotify.com/album/6uBlCWp4VOsC5YRI6J5iwT"
@@ -149,7 +185,7 @@
       "url": "https://open.spotify.com/track/2UPMkwvdiZMA02YNWKp0b2"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "Sugar and Honey",
         "url": "https://open.spotify.com/album/7qLlm8QkLKxDTY6ip0ptNf"
@@ -165,23 +201,7 @@
       "url": "https://open.spotify.com/track/4NYHjyxsy95rAqVMCcfxLi"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
-      "album": {
-        "name": "Onina",
-        "url": "https://open.spotify.com/album/5FAG9hafjiW7PQhAAzK4rR"
-      },
-      "artists": [
-        {
-          "name": "A Pass",
-          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
-        }
-      ],
-      "duration_ms": 167847,
-      "name": "Onina",
-      "url": "https://open.spotify.com/track/5QvxlKXDj7yaYU5gUkXbWM"
-    },
-    {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "Hope & Love",
         "url": "https://open.spotify.com/album/4oUaOH6S4AXEPK8BTQCY1M"
@@ -201,7 +221,7 @@
       "url": "https://open.spotify.com/track/0UVcJBW1VTyZdatMIIZDSm"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "The One And Only",
         "url": "https://open.spotify.com/album/4G28LtW2pvuNwhrjLMKXcp"
@@ -221,7 +241,7 @@
       "url": "https://open.spotify.com/track/50b953jkgOie1y0tkm7cnf"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "Wrong Places",
         "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
@@ -241,7 +261,7 @@
       "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "Macho",
         "url": "https://open.spotify.com/album/4O4g9TrNLTScdGdNZUqftJ"
@@ -261,7 +281,27 @@
       "url": "https://open.spotify.com/track/7ebNrfDTDSkrsaINuuW03J"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
+      "album": {
+        "name": "Hurt You No More",
+        "url": "https://open.spotify.com/album/360IeobN6Fomm26t81iyzI"
+      },
+      "artists": [
+        {
+          "name": "Liam Peaty",
+          "url": "https://open.spotify.com/artist/69TPgkTotm19AwHFyqiK7L"
+        },
+        {
+          "name": "Jeroh",
+          "url": "https://open.spotify.com/artist/0Ig5Hi3p9ZAabSoG2CmsER"
+        }
+      ],
+      "duration_ms": 157832,
+      "name": "Hurt You No More",
+      "url": "https://open.spotify.com/track/4u7zaHJKO62fy7wezDgP0c"
+    },
+    {
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "Sugar Box",
         "url": "https://open.spotify.com/album/4ek9kDY5kuwxPc2PQynxrj"
@@ -281,7 +321,23 @@
       "url": "https://open.spotify.com/track/1gTNU76w8whnlw801dJnOY"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
+      "album": {
+        "name": "Onina",
+        "url": "https://open.spotify.com/album/5FAG9hafjiW7PQhAAzK4rR"
+      },
+      "artists": [
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        }
+      ],
+      "duration_ms": 167847,
+      "name": "Onina",
+      "url": "https://open.spotify.com/track/5QvxlKXDj7yaYU5gUkXbWM"
+    },
+    {
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "Better for Me",
         "url": "https://open.spotify.com/album/2RJiSME49CbDgcSwc81KjC"
@@ -297,123 +353,7 @@
       "url": "https://open.spotify.com/track/53YH9d4ksTVDzqVZhNM6eh"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/2p8uuo0ppC3F7KB8oNPbPp"
-      },
-      "artists": [
-        {
-          "name": "Mudra D'Viral",
-          "url": "https://open.spotify.com/artist/5QYFEa8H6MtxI6FC2jC4MR"
-        }
-      ],
-      "duration_ms": 182970,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/2tGDYQXjZwZaiEVl8jTHkm"
-    },
-    {
-      "added_at": "2025-10-02 23:59:25",
-      "album": {
-        "name": "Fake It",
-        "url": "https://open.spotify.com/album/7e3n47ntZaYxbvS0dCTdHl"
-      },
-      "artists": [
-        {
-          "name": "Anko Ronie",
-          "url": "https://open.spotify.com/artist/6MUYPxoPs1a1m7eTuEVtBN"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Fake It",
-      "url": "https://open.spotify.com/track/55p6wHxcwhMma4Vl7ZVZAg"
-    },
-    {
-      "added_at": "2025-10-02 23:59:25",
-      "album": {
-        "name": "Daily",
-        "url": "https://open.spotify.com/album/3Ce8iMZieFbA0iDCfJiCZF"
-      },
-      "artists": [
-        {
-          "name": "Ava Peace",
-          "url": "https://open.spotify.com/artist/69W7xi5UQXD8Y4SyHzHZJE"
-        }
-      ],
-      "duration_ms": 165668,
-      "name": "Daily",
-      "url": "https://open.spotify.com/track/3eVfm7a08o18EUiejVetSm"
-    },
-    {
-      "added_at": "2025-10-02 23:59:25",
-      "album": {
-        "name": "Stress",
-        "url": "https://open.spotify.com/album/3TBGGPY7OfkQxHAi2xJTBL"
-      },
-      "artists": [
-        {
-          "name": "Victor Ruz",
-          "url": "https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Stress",
-      "url": "https://open.spotify.com/track/7iK8s6EEspjvf2xentouko"
-    },
-    {
-      "added_at": "2025-10-02 23:59:25",
-      "album": {
-        "name": "Sirubala",
-        "url": "https://open.spotify.com/album/11M99Bc7YivvY8mnB899VP"
-      },
-      "artists": [
-        {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
-        }
-      ],
-      "duration_ms": 198367,
-      "name": "Sirubala",
-      "url": "https://open.spotify.com/track/56mjsDsH8FDJQmivRFJk01"
-    },
-    {
-      "added_at": "2025-10-02 23:59:25",
-      "album": {
-        "name": "Itemo Kwe",
-        "url": "https://open.spotify.com/album/18dkfMHchtNwHhobrkq0yZ"
-      },
-      "artists": [
-        {
-          "name": "Eddy Wizzy",
-          "url": "https://open.spotify.com/artist/2x6dlgZrlAgjLG50OnNI0X"
-        }
-      ],
-      "duration_ms": 176248,
-      "name": "Itemo Kwe",
-      "url": "https://open.spotify.com/track/51b9aNRpVKAt40HUdverJc"
-    },
-    {
-      "added_at": "2025-10-02 23:59:25",
-      "album": {
-        "name": "Busy Girl",
-        "url": "https://open.spotify.com/album/3b6jkx6HXPLSSPOAJ2pC4R"
-      },
-      "artists": [
-        {
-          "name": "Lukas Blacc",
-          "url": "https://open.spotify.com/artist/5tXsoJIgKCCzvGawhVNCel"
-        },
-        {
-          "name": "Timothy Dylan",
-          "url": "https://open.spotify.com/artist/1BOQ9wjGa6CIGhbIdWQ1q6"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Busy Girl",
-      "url": "https://open.spotify.com/track/46Qfpi9JfV6fPQrCnbxi33"
-    },
-    {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "Owaye",
         "url": "https://open.spotify.com/album/46tQ7A6qudCdnoJ1AsHazA"
@@ -433,7 +373,87 @@
       "url": "https://open.spotify.com/track/2g8oqBQViuUcpbjSXnFvxq"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
+      "album": {
+        "name": "Fake It",
+        "url": "https://open.spotify.com/album/7e3n47ntZaYxbvS0dCTdHl"
+      },
+      "artists": [
+        {
+          "name": "Anko Ronie",
+          "url": "https://open.spotify.com/artist/6MUYPxoPs1a1m7eTuEVtBN"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Fake It",
+      "url": "https://open.spotify.com/track/55p6wHxcwhMma4Vl7ZVZAg"
+    },
+    {
+      "added_at": "2025-10-09 23:59:21",
+      "album": {
+        "name": "Daily",
+        "url": "https://open.spotify.com/album/3Ce8iMZieFbA0iDCfJiCZF"
+      },
+      "artists": [
+        {
+          "name": "Ava Peace",
+          "url": "https://open.spotify.com/artist/69W7xi5UQXD8Y4SyHzHZJE"
+        }
+      ],
+      "duration_ms": 165668,
+      "name": "Daily",
+      "url": "https://open.spotify.com/track/3eVfm7a08o18EUiejVetSm"
+    },
+    {
+      "added_at": "2025-10-09 23:59:21",
+      "album": {
+        "name": "Sirubala",
+        "url": "https://open.spotify.com/album/11M99Bc7YivvY8mnB899VP"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "duration_ms": 198367,
+      "name": "Sirubala",
+      "url": "https://open.spotify.com/track/56mjsDsH8FDJQmivRFJk01"
+    },
+    {
+      "added_at": "2025-10-09 23:59:21",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/2p8uuo0ppC3F7KB8oNPbPp"
+      },
+      "artists": [
+        {
+          "name": "Mudra D'Viral",
+          "url": "https://open.spotify.com/artist/5QYFEa8H6MtxI6FC2jC4MR"
+        }
+      ],
+      "duration_ms": 182970,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/2tGDYQXjZwZaiEVl8jTHkm"
+    },
+    {
+      "added_at": "2025-10-09 23:59:21",
+      "album": {
+        "name": "Itemo Kwe",
+        "url": "https://open.spotify.com/album/18dkfMHchtNwHhobrkq0yZ"
+      },
+      "artists": [
+        {
+          "name": "Eddy Wizzy",
+          "url": "https://open.spotify.com/artist/2x6dlgZrlAgjLG50OnNI0X"
+        }
+      ],
+      "duration_ms": 176248,
+      "name": "Itemo Kwe",
+      "url": "https://open.spotify.com/track/51b9aNRpVKAt40HUdverJc"
+    },
+    {
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "Attention!",
         "url": "https://open.spotify.com/album/15TJvNCO1lpSgv5cFdf0w3"
@@ -449,7 +469,7 @@
       "url": "https://open.spotify.com/track/4BAXXRS4kmH9YcpngRZVjh"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "It All Depends",
         "url": "https://open.spotify.com/album/1w4U6yXrHFvY0BvkLzfc5l"
@@ -469,7 +489,7 @@
       "url": "https://open.spotify.com/track/4ypKU7GxAWukpDQP0yyWam"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "Omukazi",
         "url": "https://open.spotify.com/album/65pvcvS8CGdanX2kbVefH5"
@@ -485,7 +505,7 @@
       "url": "https://open.spotify.com/track/6oXMb64qpRWMTU51Qrf5I2"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "Mamacita",
         "url": "https://open.spotify.com/album/3JORv5Ij24MNTAmHlLRDAo"
@@ -501,7 +521,7 @@
       "url": "https://open.spotify.com/track/3vVFiTSK0A3HU11HOwRSpt"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "Mukwano Gwo",
         "url": "https://open.spotify.com/album/6dF4PAdRwdFa54rtX4euH4"
@@ -517,7 +537,7 @@
       "url": "https://open.spotify.com/track/3cCywoEsK970AmHZPNynlv"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "If",
         "url": "https://open.spotify.com/album/0c6FIM17zeECaDs2eCcnHE"
@@ -537,7 +557,83 @@
       "url": "https://open.spotify.com/track/1Zll7L6elylq8kZPfL2dLa"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
+      "album": {
+        "name": "TERRIFIED",
+        "url": "https://open.spotify.com/album/4VFxj8GHeOICo27tCfodOj"
+      },
+      "artists": [
+        {
+          "name": "Likkle Bangi",
+          "url": "https://open.spotify.com/artist/0ziAEtI2DsCBTbBChD6pK8"
+        },
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        }
+      ],
+      "duration_ms": 201818,
+      "name": "TERRIFIED",
+      "url": "https://open.spotify.com/track/2f29U9s2bCg3lvDeOKQOOb"
+    },
+    {
+      "added_at": "2025-10-09 23:59:21",
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/69ReuIo5lx41BoS7O2WbbG"
+      },
+      "artists": [
+        {
+          "name": "Ambassada",
+          "url": "https://open.spotify.com/artist/6qpyACpw41RivvvNo2LjsS"
+        },
+        {
+          "name": "Ugaboys",
+          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
+        }
+      ],
+      "duration_ms": 162098,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/5djyZsH0sWChNbfhMw1icd"
+    },
+    {
+      "added_at": "2025-10-09 23:59:21",
+      "album": {
+        "name": "Mpeke",
+        "url": "https://open.spotify.com/album/4YW3EZJ9G89tB7MVQCLN34"
+      },
+      "artists": [
+        {
+          "name": "Aroma Music",
+          "url": "https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2"
+        },
+        {
+          "name": "An-Known",
+          "url": "https://open.spotify.com/artist/3stZkIKmrZfjDLo1xgadxQ"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Mpeke",
+      "url": "https://open.spotify.com/track/4qwAAODLtRAqWANUwvRSBw"
+    },
+    {
+      "added_at": "2025-10-09 23:59:21",
+      "album": {
+        "name": "Nayise Naye",
+        "url": "https://open.spotify.com/album/7rw4wOZtKfq0NICWU3uMOU"
+      },
+      "artists": [
+        {
+          "name": "Cindy Sanyu",
+          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
+        }
+      ],
+      "duration_ms": 136421,
+      "name": "Nayise Naye",
+      "url": "https://open.spotify.com/track/17cGrdYdYQE7Hhtc7at60i"
+    },
+    {
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "Kibiri Kito",
         "url": "https://open.spotify.com/album/2Dh1uqa92T3vwZ05rSQ4CM"
@@ -561,99 +657,7 @@
       "url": "https://open.spotify.com/track/16TRdPav1Yq3HYUzCLaTIG"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
-      "album": {
-        "name": "TERRIFIED",
-        "url": "https://open.spotify.com/album/4VFxj8GHeOICo27tCfodOj"
-      },
-      "artists": [
-        {
-          "name": "Likkle Bangi",
-          "url": "https://open.spotify.com/artist/0ziAEtI2DsCBTbBChD6pK8"
-        },
-        {
-          "name": "A Pass",
-          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
-        }
-      ],
-      "duration_ms": 201818,
-      "name": "TERRIFIED",
-      "url": "https://open.spotify.com/track/2f29U9s2bCg3lvDeOKQOOb"
-    },
-    {
-      "added_at": "2025-10-02 23:59:25",
-      "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/69ReuIo5lx41BoS7O2WbbG"
-      },
-      "artists": [
-        {
-          "name": "Ambassada",
-          "url": "https://open.spotify.com/artist/6qpyACpw41RivvvNo2LjsS"
-        },
-        {
-          "name": "Ugaboys",
-          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
-        }
-      ],
-      "duration_ms": 162098,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/5djyZsH0sWChNbfhMw1icd"
-    },
-    {
-      "added_at": "2025-10-02 23:59:25",
-      "album": {
-        "name": "Mpeke",
-        "url": "https://open.spotify.com/album/4YW3EZJ9G89tB7MVQCLN34"
-      },
-      "artists": [
-        {
-          "name": "Aroma Music",
-          "url": "https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2"
-        },
-        {
-          "name": "An-Known",
-          "url": "https://open.spotify.com/artist/3stZkIKmrZfjDLo1xgadxQ"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Mpeke",
-      "url": "https://open.spotify.com/track/4qwAAODLtRAqWANUwvRSBw"
-    },
-    {
-      "added_at": "2025-10-02 23:59:25",
-      "album": {
-        "name": "Nayise Naye",
-        "url": "https://open.spotify.com/album/7rw4wOZtKfq0NICWU3uMOU"
-      },
-      "artists": [
-        {
-          "name": "Cindy Sanyu",
-          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
-        }
-      ],
-      "duration_ms": 136421,
-      "name": "Nayise Naye",
-      "url": "https://open.spotify.com/track/17cGrdYdYQE7Hhtc7at60i"
-    },
-    {
-      "added_at": "2025-10-02 23:59:25",
-      "album": {
-        "name": "Don't Blame Me",
-        "url": "https://open.spotify.com/album/2GuT8ltdbBWGx4UpS14L8M"
-      },
-      "artists": [
-        {
-          "name": "Chwezimadeit",
-          "url": "https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm"
-        }
-      ],
-      "duration_ms": 75000,
-      "name": "Don't Blame Me",
-      "url": "https://open.spotify.com/track/7DNoFGocfaQKO54zkhIUXf"
-    },
-    {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "Ku Sure",
         "url": "https://open.spotify.com/album/6rvN46Nw1PEtsOVYYhmzjv"
@@ -673,51 +677,7 @@
       "url": "https://open.spotify.com/track/6VIFtMdBm6pvjf4WuO1ebe"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
-      "album": {
-        "name": "Lost Contacts",
-        "url": "https://open.spotify.com/album/3MUPWJTkB9S8c5hA50Cd9b"
-      },
-      "artists": [
-        {
-          "name": "Ugaboys",
-          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
-        }
-      ],
-      "duration_ms": 176969,
-      "name": "Lost Contacts",
-      "url": "https://open.spotify.com/track/4BVkUiykWus0wgeps7lOj4"
-    },
-    {
-      "added_at": "2025-10-02 23:59:25",
-      "album": {
-        "name": "Salary II (Remix)",
-        "url": "https://open.spotify.com/album/3xxuq0vgmCizldYI4bpZhB"
-      },
-      "artists": [
-        {
-          "name": "Ugaboys",
-          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
-        },
-        {
-          "name": "Vanillah",
-          "url": "https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI"
-        },
-        {
-          "name": "Iyanii",
-          "url": "https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr"
-        },
-        {
-          "name": "Selecta Jeff",
-          "url": "https://open.spotify.com/artist/0jpbFVpDj9GtjCCEBdp5Yu"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Salary II - Remix",
-      "url": "https://open.spotify.com/track/7mjtXNuGWyq98NgKVnqSlY"
-    },
-    {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "Swangz Avenue Presents: Swangz All Star, Vol. 1",
         "url": "https://open.spotify.com/album/2X2gEowa6OeYS9NlUP9kt3"
@@ -745,7 +705,7 @@
       "url": "https://open.spotify.com/track/7zzFvz0n4YK0hjZVAtx0PS"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "The Best of Juliana Kanyomozi",
         "url": "https://open.spotify.com/album/70szCeyYSPm9EM6MA6uuuQ"
@@ -761,7 +721,7 @@
       "url": "https://open.spotify.com/track/6HOkQ9TX7HdnGXXE0oDdEv"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "Circumference",
         "url": "https://open.spotify.com/album/4mu1bf3gPiyPbKh5x4etSJ"
@@ -777,7 +737,7 @@
       "url": "https://open.spotify.com/track/6XfMAbAVYqr6cunKIHSRNb"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "Mangadalena",
         "url": "https://open.spotify.com/album/6URFM6zBF9JSk6LUPjFCvv"
@@ -793,35 +753,35 @@
       "url": "https://open.spotify.com/track/641jmL3qvN9LopncAeNjBs"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
       "album": {
-        "name": "Swangz Avenue Presents: Swangz All Star, Vol. 1",
-        "url": "https://open.spotify.com/album/2X2gEowa6OeYS9NlUP9kt3"
+        "name": "Salary II (Remix)",
+        "url": "https://open.spotify.com/album/3xxuq0vgmCizldYI4bpZhB"
       },
       "artists": [
         {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+          "name": "Ugaboys",
+          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
         },
         {
-          "name": "Winnie Nwagi",
-          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
+          "name": "Vanillah",
+          "url": "https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI"
         },
         {
-          "name": "Ava Peace",
-          "url": "https://open.spotify.com/artist/69W7xi5UQXD8Y4SyHzHZJE"
+          "name": "Iyanii",
+          "url": "https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr"
         },
         {
-          "name": "Swangz All-Star",
-          "url": "https://open.spotify.com/artist/7e4IOPcpm2VcBIcKAJnPmQ"
+          "name": "Selecta Jeff",
+          "url": "https://open.spotify.com/artist/0jpbFVpDj9GtjCCEBdp5Yu"
         }
       ],
-      "duration_ms": 172040,
-      "name": "Batuleke",
-      "url": "https://open.spotify.com/track/5d5iWYfRMFmxSqU3d9BS9K"
+      "duration_ms": 259200,
+      "name": "Salary II - Remix",
+      "url": "https://open.spotify.com/track/7mjtXNuGWyq98NgKVnqSlY"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "Simanyi",
         "url": "https://open.spotify.com/album/3PwJnbXplAXBL1JrXWqa5Z"
@@ -841,23 +801,7 @@
       "url": "https://open.spotify.com/track/2S04ee5rotdO79Wa5ooGdS"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
-      "album": {
-        "name": "My Crush",
-        "url": "https://open.spotify.com/album/0ejobrldirqhd1D1n1UWwW"
-      },
-      "artists": [
-        {
-          "name": "Echoled",
-          "url": "https://open.spotify.com/artist/0tVbW89Gmk8xqxAuc06c3k"
-        }
-      ],
-      "duration_ms": 151301,
-      "name": "My Crush",
-      "url": "https://open.spotify.com/track/6FExeov9VrMYBirZHLlEPe"
-    },
-    {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/7CmV1qRtstMPTXS30WY4VV"
@@ -885,7 +829,7 @@
       "url": "https://open.spotify.com/track/2BB5nzxCnlBwxtO2Vj0Eiu"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "Control It",
         "url": "https://open.spotify.com/album/6L2UvteLN6iJ0mRSUX5q9S"
@@ -901,7 +845,7 @@
       "url": "https://open.spotify.com/track/4I4Z39sziPUkKeukvHjdwC"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "Kiwede",
         "url": "https://open.spotify.com/album/6C0DrePE4DdvNFMPKSJK14"
@@ -921,43 +865,35 @@
       "url": "https://open.spotify.com/track/2DxBJ6J0BNycAYk1L8ktRK"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
       "album": {
-        "name": "Break the Chains",
-        "url": "https://open.spotify.com/album/07jNMnJyZZoWFEzxUjraNV"
+        "name": "Swangz Avenue Presents: Swangz All Star, Vol. 1",
+        "url": "https://open.spotify.com/album/2X2gEowa6OeYS9NlUP9kt3"
       },
       "artists": [
         {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
         },
         {
-          "name": "DJ Edu",
-          "url": "https://open.spotify.com/artist/4PNVQTSxCwxBUYQ0h2qxaX"
-        }
-      ],
-      "duration_ms": 143894,
-      "name": "Games",
-      "url": "https://open.spotify.com/track/7qilhegCmxrNHLl9fEza4q"
-    },
-    {
-      "added_at": "2025-10-02 23:59:25",
-      "album": {
-        "name": "Motivation",
-        "url": "https://open.spotify.com/album/7HkJMXNejO0EqBZqHdOjCa"
-      },
-      "artists": [
+          "name": "Winnie Nwagi",
+          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
+        },
         {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+          "name": "Ava Peace",
+          "url": "https://open.spotify.com/artist/69W7xi5UQXD8Y4SyHzHZJE"
+        },
+        {
+          "name": "Swangz All-Star",
+          "url": "https://open.spotify.com/artist/7e4IOPcpm2VcBIcKAJnPmQ"
         }
       ],
-      "duration_ms": 137055,
-      "name": "Motivation",
-      "url": "https://open.spotify.com/track/3NeG7QOw2YdYMrgoRkvgys"
+      "duration_ms": 172040,
+      "name": "Batuleke",
+      "url": "https://open.spotify.com/track/5d5iWYfRMFmxSqU3d9BS9K"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "With the Gs",
         "url": "https://open.spotify.com/album/2iImAl76wIIxKAmg5oR0Pg"
@@ -973,39 +909,7 @@
       "url": "https://open.spotify.com/track/7m5dhRTG7iw0rdbiBUpgWy"
     },
     {
-      "added_at": "2025-10-02 23:59:25",
-      "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/2f93joO9kCxFjr4MXH6Qon"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 178775,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/6yi8PVA7mWEo7N3qJBdI8F"
-    },
-    {
-      "added_at": "2025-10-02 23:59:25",
-      "album": {
-        "name": "Recess",
-        "url": "https://open.spotify.com/album/6CkWdslQmB9E9XdYD9opr6"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/0U1EVGdTkRoDogEAlKv8Go"
-    },
-    {
-      "added_at": "2025-10-02 23:59:25",
+      "added_at": "2025-10-09 23:59:21",
       "album": {
         "name": "Swangz Avenue Presents: Swangz All Star, Vol. 1",
         "url": "https://open.spotify.com/album/2X2gEowa6OeYS9NlUP9kt3"
@@ -1027,6 +931,26 @@
       "duration_ms": 197000,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/3FiiKEnhxTNQVyN61uKEkc"
+    },
+    {
+      "added_at": "2025-10-09 23:59:21",
+      "album": {
+        "name": "Break the Chains",
+        "url": "https://open.spotify.com/album/07jNMnJyZZoWFEzxUjraNV"
+      },
+      "artists": [
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        },
+        {
+          "name": "DJ Edu",
+          "url": "https://open.spotify.com/artist/4PNVQTSxCwxBUYQ0h2qxaX"
+        }
+      ],
+      "duration_ms": 143894,
+      "name": "Games",
+      "url": "https://open.spotify.com/track/7qilhegCmxrNHLl9fEza4q"
     }
   ],
   "unique_name": "Made In Uganda",

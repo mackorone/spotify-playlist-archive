@@ -17035,6 +17035,24 @@
     },
     {
       "album": {
+        "name": "Regulus",
+        "url": "https://open.spotify.com/album/05YySEyYLLFh7QI4kVEwt1"
+      },
+      "artists": [
+        {
+          "name": "Quruli",
+          "url": "https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202631,
+      "name": "Regulus",
+      "url": "https://open.spotify.com/track/0TLKzbTXx16qNwcKVGEqVl"
+    },
+    {
+      "album": {
         "name": "Relay~Mori no Uta",
         "url": "https://open.spotify.com/album/7ByYblgTDE2xEhL8pi5DK8"
       },
@@ -26666,7 +26684,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 264152,
       "name": "\u305d\u308c\u3057\u304b\u8a00\u3048\u306a\u3044",
       "url": "https://open.spotify.com/track/4pGMj1OT9QPyQV5C5BlcEV"
@@ -41077,6 +41095,24 @@
     },
     {
       "album": {
+        "name": "\u61d0\u30e1\u30ed\u3092\u62b1\u3048\u3066",
+        "url": "https://open.spotify.com/album/414BfxrHOlYzyQw8D9KcLi"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180922,
+      "name": "\u61d0\u30e1\u30ed\u3092\u62b1\u3048\u3066",
+      "url": "https://open.spotify.com/track/7d0gJCyRsjTnfV3W75avDE"
+    },
+    {
+      "album": {
         "name": "Camera Obscura",
         "url": "https://open.spotify.com/album/1TpXizd9q589CDoLhj5JR4"
       },
@@ -42436,7 +42472,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 241426,
       "name": "\u672a\u77e5",
       "url": "https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd"

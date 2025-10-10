@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 167040,
       "name": "amy",
       "url": "https://open.spotify.com/track/1jpG4muUehH5zr2W0daX7e"
@@ -4737,6 +4737,24 @@
     },
     {
       "album": {
+        "name": "DIRE\u00c7\u00c3O",
+        "url": "https://open.spotify.com/album/4IwQz5C9GowypHdpr4pS1z"
+      },
+      "artists": [
+        {
+          "name": "Keenan Fritter",
+          "url": "https://open.spotify.com/artist/3tCLlttdZgagBzxqbQqqep"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80280,
+      "name": "DIRE\u00c7\u00c3O",
+      "url": "https://open.spotify.com/track/380IH76OSPPZFs2UrJQlf8"
+    },
+    {
+      "album": {
         "name": "Dirty",
         "url": "https://open.spotify.com/album/2Ufmz6DSeQdK9cVAIfcwEb"
       },
@@ -7092,6 +7110,24 @@
       "duration_ms": 226706,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
+    },
+    {
+      "album": {
+        "name": "forever young x xxx mylancore remix",
+        "url": "https://open.spotify.com/album/6bwuU0TK1t0Wd3S0lw8OdU"
+      },
+      "artists": [
+        {
+          "name": "maniakas",
+          "url": "https://open.spotify.com/artist/5hAHeAzIDdGWOAygZiJDD4"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150308,
+      "name": "forever young x xxx mylancore remix",
+      "url": "https://open.spotify.com/track/52BvniycjHBwXm19hW1Gql"
     },
     {
       "album": {
@@ -13762,7 +13798,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 103697,
       "name": "MONTAGEM RUGADA - Slowed",
       "url": "https://open.spotify.com/track/5q1ID9MbLbxTTD5ODjmYR8"
@@ -14732,7 +14768,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 131006,
       "name": "New Computers",
       "url": "https://open.spotify.com/track/5UHCUWXiKMbCV2bSSikc9x"
@@ -18668,7 +18704,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 174760,
       "name": "Sleepyhead",
       "url": "https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl"
@@ -24482,7 +24518,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 85092,
       "name": "\u0411\u041e\u0413\u0410\u0422\u042b\u0419 \u0420\u041e\u0411\u041b\u041e\u041a\u0421",
       "url": "https://open.spotify.com/track/4wqKRCJv0kymqPvP9uQa2l"
@@ -29092,7 +29128,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 150507,
       "name": "\u041b\u0438\u043b\u043e",
       "url": "https://open.spotify.com/track/2STpwzqGx4PagmPZ3zlPMO"
@@ -31798,7 +31834,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 143998,
       "name": "\u043e\u0440\u0438\u0433\u0430\u043c\u0438",
       "url": "https://open.spotify.com/track/37pLn0Hy4Yxxz514jTwnHd"
@@ -32324,7 +32360,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 102923,
       "name": "\u041f\u0410\u041f\u0410",
       "url": "https://open.spotify.com/track/5b6awK2tOZ6thRJIkE9Pbh"

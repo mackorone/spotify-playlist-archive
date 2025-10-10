@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Kaushik Mahalengam
 
-629 songs - 1 day 12 hr 1 min
+630 songs - 1 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -566,6 +566,7 @@
 | [Uyir Ponaalum](https://open.spotify.com/track/0op614boUrlYXkjo2aBkJR) | [bebhumika](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl), [pixlpxl®](https://open.spotify.com/artist/1EGgZfRoAg2Z5kAbF5XaH1), [Paxslim](https://open.spotify.com/artist/4XE6eLUu1pp5rcI1cpDpWy) | [Uyir Ponaalum](https://open.spotify.com/album/4PClcq39M4seJMLAitgNnS) | 1:42 | 2025-05-06 | 2025-07-23 |
 | [Uyire](https://open.spotify.com/track/2yWq3CNcgsh9RQCZTqsO7L) | [Nithish O K](https://open.spotify.com/artist/4c6QaJSRpK39BFUXARvr78), [Sanoop Kumar](https://open.spotify.com/artist/4MEY11lhiB0Pzm6yjzejyy) | [Uyire](https://open.spotify.com/album/47AnDAz0zQJRP0dahRhPpl) | 3:36 | 2025-08-08 |  |
 | [Uyire](https://open.spotify.com/track/4NECvEaHKVULjEqLXU8dgQ) | [Suginthan Janathan](https://open.spotify.com/artist/2Y7jk1nAWikvbDncgAEQsq) | [Uyire](https://open.spotify.com/album/0GtxzQS97xos4PGzlLVzG9) | 3:18 | 2025-05-16 | 2025-07-26 |
+| [Uyire](https://open.spotify.com/track/19WsWmlR4HqakbEwk56N5T) | [Vaishakh Jyothis](https://open.spotify.com/artist/3jybpgiCCmad0SiDsen7ot), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Sradha Prasannan](https://open.spotify.com/artist/2nRcSH8dnx03gvvizxVGVA) | [Uyire](https://open.spotify.com/album/0y4NfiWN2EyNHlAX5esBZo) | 3:59 | 2025-10-09 |  |
 | [Uyire Kanave](https://open.spotify.com/track/5tgiuroKKlTNXFmvv52Ukb) | [Jibu Sivanandan](https://open.spotify.com/artist/2FoiKiPZJLr4cSg3QfXsCN), [Anjali Sanoop](https://open.spotify.com/artist/0aBgor04maMjOncVdj07Hw), [Remin Jose](https://open.spotify.com/artist/3UeIajQQj2uaUU25WFEWRy), [Dr\. Meera Kasiraman](https://open.spotify.com/artist/3xHVmZK1ejhu5iR8v9A58v) | [Uyire Kanave](https://open.spotify.com/album/68CPQ87s5oBLsWg9JPdbtA) | 3:30 | 2025-09-01 |  |
 | [Uyire Urave](https://open.spotify.com/track/4xtSrcg87lOmRLEsqISBVj) | [Joseph Vijay](https://open.spotify.com/artist/1GkrvUf71uUhmbV0lvfX7p), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Uyire Urave](https://open.spotify.com/album/2LIKp3hkXZ7dnOXnUsQ8dV) | 3:21 | 2023-11-06 | 2023-12-12 |
 | [Uyirin Uyiraaga \- From "Soul of Promise"](https://open.spotify.com/track/5zSP9JTn74UBHRD4YgqQFZ) | [Deri Lorus](https://open.spotify.com/artist/5XVT4JCh2JJXmK56tF3hyx), [Kamalaja Rajagopal](https://open.spotify.com/artist/5GA1b7IUk3ThudtQ4N35qf), [Manoj Muralidharan](https://open.spotify.com/artist/03sc6Jb6d3C4euBZzpcVW4) | [Uyirin Uyiraaga \(From "Soul of Promise"\)](https://open.spotify.com/album/28zJAr46H8CIf0lZp18zQ1) | 3:14 | 2024-11-06 | 2025-01-31 |

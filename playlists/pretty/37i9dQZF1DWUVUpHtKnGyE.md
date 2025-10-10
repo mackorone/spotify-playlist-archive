@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVUpHtKnGyE.md) - [plain]
 
 > When a heartbroken New Yorker moves to London hoping for a love story, she falls for an indie musician who's anything but the typical romantic hero\. Now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,112 likes - 56 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,124 likes - 56 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVUpHtKnGyE.md) - [plain]
 | 55 | [Massachusetts \- Stripped Version](https://open.spotify.com/track/1oaWw1XLQkIIDjkano6INF) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Massachusetts \(Stripped Version\)](https://open.spotify.com/album/0wX23hilHVl7NC7RWa5EMu) | 3:37 |
 | 56 | [Push Tuck](https://open.spotify.com/track/4zRk1HNjJ904Y3P4Boe5EU) | [SLEAZE](https://open.spotify.com/artist/265MazCHotxl7eK8nkaZZ6) | [Push Tuck](https://open.spotify.com/album/2So9oSYkZg3hQ1HDemA2gF) | 3:26 |
 
-Snapshot ID: `AAAAAGuss37GgsV67Fr+aigpI89ygg84`
+Snapshot ID: `AAAAAGTW3SP8h3jHALGqjVd240rzjdRN`

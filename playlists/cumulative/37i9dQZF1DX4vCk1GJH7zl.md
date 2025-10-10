@@ -4,11 +4,11 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Supercombo
 
-210 songs - 12 hr 30 min
+211 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1001 NOITES IS OVER](https://open.spotify.com/track/45Wthdf5BJg0ZFSWIuPrHD) | [CATTO](https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3) | [CAMINHOS SELVAGENS](https://open.spotify.com/album/6XWoCk6aNwbco5mE2QrPy1) | 5:14 | 2025-05-16 |  |
+| [1001 NOITES IS OVER](https://open.spotify.com/track/45Wthdf5BJg0ZFSWIuPrHD) | [CATTO](https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3) | [CAMINHOS SELVAGENS](https://open.spotify.com/album/6XWoCk6aNwbco5mE2QrPy1) | 5:14 | 2025-05-16 | 2025-10-10 |
 | [3 Eternidades](https://open.spotify.com/track/4nxhDCMbxA4IGZcg2fxJbA) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q) | [3 Eternidades](https://open.spotify.com/album/49EWSDhQgSemVZtc8s4V1h) | 2:34 | 2024-06-28 | 2024-09-14 |
 | [4AM](https://open.spotify.com/track/4VfrfzD3LTqhsnUbw6SYWy) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [4AM](https://open.spotify.com/album/23Suwv1qRqeO75u1QUVIGX) | 2:57 | 2024-04-05 |  |
 | [A Cidade](https://open.spotify.com/track/6chCkT8RkDC0kM66HKfPQb) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [As Cores, as Curvas e as Dores do Mundo](https://open.spotify.com/album/7LHPGpPZV2duyGmI2KthiX) | 2:43 | 2025-05-30 |  |
@@ -130,6 +130,7 @@
 | [Não Somos Mais](https://open.spotify.com/track/5JroLyVYe3GIijBdxgwPBt) | [Matheus Torres](https://open.spotify.com/artist/6Pl1aDQurlKn3p8SenTiAy) | [Não Somos Mais](https://open.spotify.com/album/04zr2V5S16hd7v2uFJQMmZ) | 4:10 | 2025-02-14 |  |
 | [Não sou tão jovem](https://open.spotify.com/track/4jjy0e2hsffcMCdmx06xbv) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD), [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m) | [Não sou tão jovem](https://open.spotify.com/album/2TgjrqJ9p9MdyCQ8ijbirB) | 2:32 | 2025-09-12 |  |
 | [Não Vou Me Adaptar \- Ao Vivo](https://open.spotify.com/track/4EXzmoiU4KAggC3UbBueCl) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5) | [Não Vou Me Adaptar \(Ao Vivo\)](https://open.spotify.com/album/4EdfAeoDFDnsoh1xey5M30) | 4:36 | 2023-07-21 |  |
+| [NÓS2 \- Acústico](https://open.spotify.com/track/4QizJWDKw1lb0ILUoOAKgT) | [BAD LUV](https://open.spotify.com/artist/3gnMduwfXqTAcuOHxtpkq8) | [NÓS2 \(Acústico\)](https://open.spotify.com/album/5VN9wGmKipvpQ1EKhXy1JZ) | 3:07 | 2025-10-10 |  |
 | [O](https://open.spotify.com/track/3znyY1uJaVlB8DBypreIhP) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [WRLD](https://open.spotify.com/album/3TCF95qK3XaMBjmEuXwQHQ) | 4:42 | 2025-05-30 |  |
 | [o mundo já ta bom sem mim](https://open.spotify.com/track/35B6qiqKdPIta9IOYI4Z7H) | [Stéfano Loscalzo](https://open.spotify.com/artist/02TeEVQrjOZddjmYRQUEs7) | [o mundo já ta bom sem mim](https://open.spotify.com/album/0H5jXYPHwDnaeTxQPICpZC) | 2:04 | 2023-07-21 | 2023-12-02 |
 | [O Verso](https://open.spotify.com/track/7pXTeKmUbEpZoIDDyW1nVm) | [Paulo Ricardo](https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk), [Rogerio Flausino](https://open.spotify.com/artist/5kRbLxZb1mTjdi1xEHynwZ) | [O Verso](https://open.spotify.com/album/57B7GM6qlCkWpAKrreOFN7) | 3:29 | 2025-01-10 | 2025-03-25 |

@@ -4,7 +4,7 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-324 songs - 1 day 4 hr 15 min
+325 songs - 1 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [White Wall Pt\. 2](https://open.spotify.com/track/0sZBbqcujHC7vZ0hFrcFIj) | [Oddarrang](https://open.spotify.com/artist/0gS6uGPBcz4l9JKbpth6o8) | [Oddarrang](https://open.spotify.com/album/4D4GY3J7QCspmJbnDo5lwz) | 8:31 | 2024-04-05 |  |
 | [Wild Eyes](https://open.spotify.com/track/7sRQdwmpxShzEyYwmHHKbx) | [Martti Vesala Soundpost Quintet](https://open.spotify.com/artist/4yfLJzuJhNaBEJlfe53KnO) | [Wild Eyes](https://open.spotify.com/album/5WLUEKECPdjEr6OKG4YGlA) | 5:37 | 2022-09-02 | 2022-10-14 |
 | [Wild Rooster](https://open.spotify.com/track/4UMscCyJiimMbU2DAQTPxP) | [Kari Antila](https://open.spotify.com/artist/4PkrAe6yjQa2FnOLJgRYeV), [Alexi Tuomarila](https://open.spotify.com/artist/4WEvxg7cSQdA4wQpAPkdv5), [Kaisa Mäensivu](https://open.spotify.com/artist/7LueFk6L7bLSNynsATb1ck), [Tuomas Timonen](https://open.spotify.com/artist/1rlaDYfpYoqFtuGZI0DJwj) | [Dahill Road](https://open.spotify.com/album/1J3Um9qVAVl0xQd1LBYNwZ) | 6:20 | 2024-01-19 | 2025-06-27 |
+| [Willow Weep For Me](https://open.spotify.com/track/2vFxFgSZRuA9pkSGLHfgNu) | [Liila Sival](https://open.spotify.com/artist/1Ww7HqtDRPmLPqcFCnv5Dm), [Mikko Antila](https://open.spotify.com/artist/1RbPwTzwwELaiSzE9ZjVpF), [Nathan Francis](https://open.spotify.com/artist/4dB51YWbPAWssQkEe9DiUc), [Okko Saastamoinen](https://open.spotify.com/artist/3QSSa0viaOyPtJqIby1wMz) | [Willow Weep For Me](https://open.spotify.com/album/6EMUS8cHPs58AtQkQMgrqT) | 9:24 | 2025-10-09 |  |
 | [Wilson](https://open.spotify.com/track/4ETnbB4bCsQPymb7g6ATdg) | [Arto Ikävalko](https://open.spotify.com/artist/6fbXrjG4gnY40gjD0LQWgs), [Joonas Tuuri](https://open.spotify.com/artist/39FhDhKtjqPOVn531rYne6), [Ville Luukkonen](https://open.spotify.com/artist/6Y6nK6vtcrXfsEIZhPV1fK) | [Wilson](https://open.spotify.com/album/6Y0TefAiE6FaPNlWifCPLG) | 6:37 | 2024-01-05 | 2024-07-06 |
 | [Wings](https://open.spotify.com/track/2aIABbDuZrdLfmKZBFaxUN) | [Uxila Exile](https://open.spotify.com/artist/6I5HxrvGxLIEgDUaXUQjiy) | [Wings](https://open.spotify.com/album/4Qcz7q7xBtkcgfitmaWDnE) | 5:52 | 2022-09-02 | 2023-08-26 |
 | [You'll Hear Me When I Come](https://open.spotify.com/track/7CCG8gLLLCkbbafhsAPRes) | [Masa Orpana](https://open.spotify.com/artist/1ELZd3bs3T5bnf0fcxC18G) | [Together](https://open.spotify.com/album/7gLj2PGSv6VvhiqCTug202) | 5:24 | 2023-11-10 | 2025-06-27 |

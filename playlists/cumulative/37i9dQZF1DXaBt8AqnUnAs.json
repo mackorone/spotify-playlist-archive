@@ -3107,6 +3107,32 @@
     },
     {
       "album": {
+        "name": "come\u00e7o (de um fim)",
+        "url": "https://open.spotify.com/album/5Noioyq0yVx8jUpDZk09uR"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167076,
+      "name": "come\u00e7o (de um fim)",
+      "url": "https://open.spotify.com/track/152mvG5WOMDuKHnpTQJywJ"
+    },
+    {
+      "album": {
         "name": "Como Sua Vida Anda",
         "url": "https://open.spotify.com/album/0CBqLmsBNYX9sxJnfN7Wgq"
       },
@@ -5286,7 +5312,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 141686,
       "name": "Esta\u00e7\u00f5es",
       "url": "https://open.spotify.com/track/4hNPRV0tzfZoKPnvhFio40"
@@ -12335,6 +12361,28 @@
     },
     {
       "album": {
+        "name": "Polaris",
+        "url": "https://open.spotify.com/album/2LJ48YX2zkivYUhADy39UL"
+      },
+      "artists": [
+        {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173714,
+      "name": "Polaris",
+      "url": "https://open.spotify.com/track/6WISAIyYpBi9i85Fthi4ug"
+    },
+    {
+      "album": {
         "name": "POLPA",
         "url": "https://open.spotify.com/album/0u6duR1aA6eW2X8xg349Nz"
       },
@@ -13974,7 +14022,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 162735,
       "name": "Sangra",
       "url": "https://open.spotify.com/track/0XSxVbeRrukitzmQJf8f3R"
@@ -15359,7 +15407,7 @@
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 210522,
+      "duration_ms": 221596,
       "name": "s\u00f3 (mais) uma vez",
       "url": "https://open.spotify.com/track/6Q34vqJQgCRNxbc6xWsVR1"
     },

@@ -4,7 +4,7 @@
 
 > Artiste italiane da ascoltare a tutto volume 🔊 Cover: Ele A
 
-1,623 songs - 3 day 8 hr 41 min
+1,624 songs - 3 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [Boreale](https://open.spotify.com/track/6wVn5OSM5I6vk0iTKtOskI) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Boreale](https://open.spotify.com/album/2ysGxpE2JN6QtKGduR9qUM) | 2:44 | 2025-03-04 | 2025-04-03 |
 | [bossa x averti](https://open.spotify.com/track/0kuxx3OVvj9YqnCSbOCFRq) | [Diora Madama](https://open.spotify.com/artist/7wOA7etbtOByr52HImiMI2) | [bossa x averti](https://open.spotify.com/album/1qC5o8vG2jk3ONKylbtM0l) | 2:50 | 2025-09-30 |  |
 | [BOULEVARD](https://open.spotify.com/track/68ptyloCwRwBybEte88mxp) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [BOULEVARD](https://open.spotify.com/album/216MCmKzpLIcu8rMpCHWUZ) | 2:55 | 2024-01-09 | 2024-02-08 |
-| [Bounce](https://open.spotify.com/track/5byejpzYFf4l4t7JMTADUb) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Bounce](https://open.spotify.com/album/7iiSqv0AqhfTr9iidW6KhV) | 2:45 | 2025-01-07 |  |
+| [Bounce](https://open.spotify.com/track/5byejpzYFf4l4t7JMTADUb) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Bounce](https://open.spotify.com/album/7iiSqv0AqhfTr9iidW6KhV) | 2:45 | 2025-01-07 | 2025-10-10 |
 | [Boys Like You](https://open.spotify.com/track/5ttLiAKwzLynIfBye4mUhD) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Boys Like You](https://open.spotify.com/album/2KaoA33HHCgzGSbCvKM0tk) | 2:57 | 2022-08-02 | 2022-10-07 |
 | [BRAD PITT](https://open.spotify.com/track/76g2FxkcYfBJe1ZM7kuaiW) | [Lucrezia](https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl) | [BRAD PITT](https://open.spotify.com/album/28FDZasUAgflAb3HKhrhYg) | 3:01 | 2023-02-28 | 2023-04-05 |
 | [Brandy & Monica](https://open.spotify.com/track/7D0lKhGUyoJvXA83Gko8ou) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR), [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG) | [Brandy & Monica](https://open.spotify.com/album/2TGJGvjsRyiNZub7jgeIcM) | 2:40 | 2022-11-30 | 2023-01-04 |
@@ -1608,6 +1608,7 @@
 | [Woo\-Doo](https://open.spotify.com/track/7wtn6EsOrWvAJr5FEIIrXU) | [SAMIA](https://open.spotify.com/artist/4LxiKyrhyqB0fTGmKtXSFZ) | [Woo\-Doo](https://open.spotify.com/album/1Y2Zp1gUZNZaUaBpkf160h) | 3:37 | 2023-10-03 | 2023-11-08 |
 | [Worth it or not?](https://open.spotify.com/track/6WmS99KTxCKzToaL05Fxn4) | [Santa Chiara](https://open.spotify.com/artist/4ypMT9SN8PDvScLqLcGcEU) | [Worth it or not?](https://open.spotify.com/album/17h1MHmA73KWc7zhW6kSBb) | 1:49 | 2023-09-06 | 2023-11-08 |
 | [x averti](https://open.spotify.com/track/3tThvTQnw9UiMiYQFU3GwC) | [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay) | [x averti](https://open.spotify.com/album/2uw9IwbZRJwsAZj1Jx8hUu) | 3:00 | 2022-06-02 | 2022-07-06 |
+| [X Te](https://open.spotify.com/track/7erp5QvErykwQ9QHCZTvJz) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Pixel](https://open.spotify.com/album/2GilGjaRAmsF7MptmRnFQT) | 2:22 | 2025-10-09 |  |
 | [XOXO](https://open.spotify.com/track/6jozqjEnIIgJHfcU7DCkfe) | [Silnyya](https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5) | [XOXO](https://open.spotify.com/album/3s8ZAoor3QKU1Se21RoT0s) | 2:25 | 2023-11-07 | 2023-11-30 |
 | [XXX](https://open.spotify.com/track/4RCJFBSdsqhyGxxUbpX0gI) | [Evissimax](https://open.spotify.com/artist/3KRbZfhEbntEDFNV3b48Cv) | [XXX](https://open.spotify.com/album/1ERIBF7nbJRRLplG0yz1f4) | 4:31 | 2025-09-30 |  |
 | [YACHT CLUB](https://open.spotify.com/track/6akyMw7cDDCVGqrAwHA6b2) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [YACHT CLUB](https://open.spotify.com/album/0iwAIB5fDKkgUTpgBrDr7t) | 2:57 | 2024-06-04 | 2024-07-03 |

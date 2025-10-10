@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Diamond Platnumz
 
-600 songs - 1 day 10 hr 15 min
+601 songs - 1 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Dodo](https://open.spotify.com/track/2iMxlpiSajGwrkSqWn7RIh) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Dodo](https://open.spotify.com/album/29laMqyXW8THPpNK3tTsNj) | 3:59 | 2021-06-25 | 2022-01-07 |
 | [Dokta \(feat\. Dj Awakening\)](https://open.spotify.com/track/11DClOmMIOO7AjuqZVNKao) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa), [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3), [Dj Awakening](https://open.spotify.com/artist/1vdjiPf4w72D0ztlEkp97d) | [Dokta \(feat\. Dj Awakening\)](https://open.spotify.com/album/3fiutdRgB0nWaooZ6FlP72) | 4:23 | 2024-07-04 | 2024-10-04 |
 | [Dokta \(feat\. Jaivah & Dj Awakening\)](https://open.spotify.com/track/6kextgZ1Ar0oKVs7aXYCEt) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa), [Dj Awakening](https://open.spotify.com/artist/1vdjiPf4w72D0ztlEkp97d), [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3) | [Dokta \(feat\. Jaivah & Dj Awakening\)](https://open.spotify.com/album/6C06umSy0CFTlTkK7Eer2C) | 4:01 | 2024-06-20 | 2024-08-16 |
+| [Dollar](https://open.spotify.com/track/6zX6vPRYi5dUVzKzd2CRfs) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [Kona Beats](https://open.spotify.com/artist/7qd5hiO16apL0pvx1NGRwr) | [Dollar](https://open.spotify.com/album/2mgEdaFhOQ4LEwb6oSn73F) | 2:30 | 2025-10-09 |  |
 | [Don't Let Go](https://open.spotify.com/track/46MW6k54DIiMMkXYJ7vOeW) | [Navy Kenzo](https://open.spotify.com/artist/7oHH7jM5KdlCLHjr3OshQx) | [Don't Let Go](https://open.spotify.com/album/2LXIF7NQRV6S0XBlaVV6u4) | 2:15 | 2023-02-09 | 2024-01-19 |
 | [Don't Let Me Go](https://open.spotify.com/track/7dmJVQ9v7XzvEVnCVPWOFG) | [Mimi Mars](https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi) | [Don't Let Me Go](https://open.spotify.com/album/3Zlm7ZCAnn40HRYv4dHZiL) | 2:41 | 2025-01-16 | 2025-06-27 |
 | [Don't You Know](https://open.spotify.com/track/1XPpKdRjnNNsXZcYg7Krwg) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu) | [Don't You Know](https://open.spotify.com/album/3iMtRORC74LGs0pm4AewFB) | 3:19 | 2022-04-14 | 2022-12-10 |
@@ -590,7 +591,7 @@
 | [Yamenishika \(Remix\) \[feat\. Nandy\]](https://open.spotify.com/track/3vmvMTCmHkboHfqaFWB5ae) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9), [Nandy](https://open.spotify.com/artist/5rc8E6DVPnRrYDIqYv4HhH) | [Yamenishika \(Remix\) \[feat\. Nandy\]](https://open.spotify.com/album/7cBairg5UxvBZOLTmiYQo0) | 3:17 | 2023-09-21 | 2024-08-02 |
 | [Yanga Anthem](https://open.spotify.com/track/4jRRo64OzwBCrnO1saAE0q) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Yanga Anthem](https://open.spotify.com/album/3adR7VXxB4rXdHQ3pQEEYJ) | 3:50 | 2022-09-01 | 2022-09-23 |
 | [Yatapita](https://open.spotify.com/track/5osJXf9jysiW72jZQ0tTKD) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Yatapita](https://open.spotify.com/album/5uTKAcHVaMTbaEfORUWZrD) | 4:59 | 2023-01-19 | 2023-10-13 |
-| [Yatapita](https://open.spotify.com/track/6u3Td4ikcjsfVyaVGrRsWT) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Yatapita](https://open.spotify.com/album/75zapYMms32TRYL8o2J8gv) | 2:59 | 2025-07-17 |  |
+| [Yatapita](https://open.spotify.com/track/6u3Td4ikcjsfVyaVGrRsWT) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Yatapita](https://open.spotify.com/album/75zapYMms32TRYL8o2J8gv) | 2:59 | 2025-07-17 | 2025-10-10 |
 | [Yaya \(feat\. Diamond Platnumz & Jux\)](https://open.spotify.com/track/15ObWtsj5TVgUybcGsHoIf) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Yaya \(feat\. Diamond Platnumz & Jux\)](https://open.spotify.com/album/4DukccL0dV6cqfWlJ8xqia) | 5:19 | 2023-07-20 | 2024-04-19 |
 | [Yes I Do](https://open.spotify.com/track/4EWsq94xq3M1I4rXZMdEni) | [Barakah The Prince](https://open.spotify.com/artist/2Lrp6RL4vdo88oCzuutNfL), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Yes I Do](https://open.spotify.com/album/1I47crfo4NzhbAxlO4Vfng) | 3:39 | 2024-10-18 | 2025-02-21 |
 | [You \- E.A Remix](https://open.spotify.com/track/19fK3nUPSN9vHNy63zPDR5) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn) | [You \(E.A Remix\)](https://open.spotify.com/album/5PZvJ6rcSc41P3iDSS7u7Z) | 2:44 | 2023-12-08 | 2024-05-17 |

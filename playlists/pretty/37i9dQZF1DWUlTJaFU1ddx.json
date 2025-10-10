@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 31796,
+  "num_followers": 31797,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
@@ -404,7 +404,7 @@
       },
       "artists": [
         {
-          "name": "Ayham",
+          "name": "MoJaNad",
           "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
         }
       ],
@@ -571,26 +571,6 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Xvibe",
-        "url": "https://open.spotify.com/album/6W7b9RFrdBE29953myz6b7"
-      },
-      "artists": [
-        {
-          "name": "Ayham",
-          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
-        },
-        {
-          "name": "Bader Azem",
-          "url": "https://open.spotify.com/artist/75hMrwzTIrdi0SvamLjY9D"
-        }
-      ],
-      "duration_ms": 167499,
-      "name": "7ai",
-      "url": "https://open.spotify.com/track/7lx7KcCLJtHTCFglYQC12y"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
         "name": "\u0636\u0648\u064a\u062a \u0627\u0644\u0643\u0648\u0646",
         "url": "https://open.spotify.com/album/3UkjsaDJ2zeu53ZyM6yJjj"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 245428,
       "name": "\u0636\u0648\u064a\u062a \u0627\u0644\u0643\u0648\u0646",
       "url": "https://open.spotify.com/track/2Mp14EuBWISckdn5vYr7ot"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
+        "name": "Xvibe",
+        "url": "https://open.spotify.com/album/6W7b9RFrdBE29953myz6b7"
+      },
+      "artists": [
+        {
+          "name": "MoJaNad",
+          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
+        },
+        {
+          "name": "Bader Azem",
+          "url": "https://open.spotify.com/artist/75hMrwzTIrdi0SvamLjY9D"
+        }
+      ],
+      "duration_ms": 167499,
+      "name": "7ai",
+      "url": "https://open.spotify.com/track/7lx7KcCLJtHTCFglYQC12y"
     },
     {
       "added_at": "2024-12-21 19:38:19",

@@ -6,68 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAD1qULz+gAWz4EpAYYPC2P1",
+  "snapshot_id": "AAAAAAAAAADEV8JgTqc1ptNCOsTT6xfP",
   "tracks": [
-    {
-      "added_at": "2025-10-03 04:00:00",
-      "album": {
-        "name": "Warning Signs (Remix)",
-        "url": "https://open.spotify.com/album/0MTutB3lvhj2TT3aS20GcG"
-      },
-      "artists": [
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        },
-        {
-          "name": "Will Evans",
-          "url": "https://open.spotify.com/artist/73spEk5voL22ZXjoSXZmh8"
-        }
-      ],
-      "duration_ms": 177882,
-      "name": "Warning Signs - Remix",
-      "url": "https://open.spotify.com/track/68j6ZGUR3Iqop4nrPfuhAr"
-    },
-    {
-      "added_at": "2025-10-03 04:00:00",
-      "album": {
-        "name": "I Shouldn't",
-        "url": "https://open.spotify.com/album/0VRO7IxZ0hqSgMOCrr1Vme"
-      },
-      "artists": [
-        {
-          "name": "Beats By AI",
-          "url": "https://open.spotify.com/artist/2VL0G8nTevMkOCc1cPWu5i"
-        }
-      ],
-      "duration_ms": 183759,
-      "name": "I Shouldn't",
-      "url": "https://open.spotify.com/track/2qAD1VwtCgQXaa5eiyCBsf"
-    },
-    {
-      "added_at": "2025-10-03 04:00:00",
-      "album": {
-        "name": "Mystique",
-        "url": "https://open.spotify.com/album/7cYcmdgZ8nKLZvVoNOmn2a"
-      },
-      "artists": [
-        {
-          "name": "Eric Leo 108",
-          "url": "https://open.spotify.com/artist/1rZN0phOseB2V5JmKD7nuE"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        },
-        {
-          "name": "Sneekie Peete",
-          "url": "https://open.spotify.com/artist/6Cbly5pEKqHhKdd6E0bh99"
-        }
-      ],
-      "duration_ms": 202954,
-      "name": "Mystique",
-      "url": "https://open.spotify.com/track/1VSso7PgX19YJJiwhHPL5P"
-    },
     {
       "added_at": "2025-10-03 04:00:00",
       "album": {
@@ -131,6 +71,86 @@
     {
       "added_at": "2025-10-03 04:00:00",
       "album": {
+        "name": "Songbird",
+        "url": "https://open.spotify.com/album/3U2Nj6eoEgISZWr6t9WFZV"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 145587,
+      "name": "I Hate To Go Searchin\u2019 Them Bars Again",
+      "url": "https://open.spotify.com/track/0Koa5ZeViFTIJfmhKfNuJa"
+    },
+    {
+      "added_at": "2025-10-03 04:00:00",
+      "album": {
+        "name": "Stereo (High Contrast Remix)",
+        "url": "https://open.spotify.com/album/5U3FU97oxVxPWARM6Ltqbq"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        },
+        {
+          "name": "High Contrast",
+          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+        },
+        {
+          "name": "Lovelle",
+          "url": "https://open.spotify.com/artist/14zTM1cQHLvPExpqV4HdCx"
+        }
+      ],
+      "duration_ms": 221187,
+      "name": "Stereo (High Contrast Remix)",
+      "url": "https://open.spotify.com/track/0rFFjLdIq4SlFAZvKXrPUR"
+    },
+    {
+      "added_at": "2025-10-03 04:00:00",
+      "album": {
+        "name": "Truck Door Sealing",
+        "url": "https://open.spotify.com/album/2WM1DfOoSgp6W5b95u61bc"
+      },
+      "artists": [
+        {
+          "name": "Beats By AI",
+          "url": "https://open.spotify.com/artist/2VL0G8nTevMkOCc1cPWu5i"
+        }
+      ],
+      "duration_ms": 148279,
+      "name": "Truck Door Sealing",
+      "url": "https://open.spotify.com/track/0buEGj5IXTBZu1TouS3v09"
+    },
+    {
+      "added_at": "2025-10-03 04:00:00",
+      "album": {
+        "name": "Warning Signs (Remix)",
+        "url": "https://open.spotify.com/album/0MTutB3lvhj2TT3aS20GcG"
+      },
+      "artists": [
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        },
+        {
+          "name": "Will Evans",
+          "url": "https://open.spotify.com/artist/73spEk5voL22ZXjoSXZmh8"
+        }
+      ],
+      "duration_ms": 177882,
+      "name": "Warning Signs - Remix",
+      "url": "https://open.spotify.com/track/68j6ZGUR3Iqop4nrPfuhAr"
+    },
+    {
+      "added_at": "2025-10-03 04:00:00",
+      "album": {
         "name": "100 NIGHTS",
         "url": "https://open.spotify.com/album/1rNJU9cKcImQmNSeKnfe4Y"
       },
@@ -151,18 +171,26 @@
     {
       "added_at": "2025-10-03 04:00:00",
       "album": {
-        "name": "Songbird",
-        "url": "https://open.spotify.com/album/3U2Nj6eoEgISZWr6t9WFZV"
+        "name": "Mystique",
+        "url": "https://open.spotify.com/album/7cYcmdgZ8nKLZvVoNOmn2a"
       },
       "artists": [
         {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+          "name": "Eric Leo 108",
+          "url": "https://open.spotify.com/artist/1rZN0phOseB2V5JmKD7nuE"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "Sneekie Peete",
+          "url": "https://open.spotify.com/artist/6Cbly5pEKqHhKdd6E0bh99"
         }
       ],
-      "duration_ms": 145587,
-      "name": "I Hate To Go Searchin\u2019 Them Bars Again",
-      "url": "https://open.spotify.com/track/0Koa5ZeViFTIJfmhKfNuJa"
+      "duration_ms": 202954,
+      "name": "Mystique",
+      "url": "https://open.spotify.com/track/1VSso7PgX19YJJiwhHPL5P"
     },
     {
       "added_at": "2025-10-03 04:00:00",
@@ -203,34 +231,6 @@
       "duration_ms": 208880,
       "name": "Always Be (feat. Kaya Thomas-Dyke)",
       "url": "https://open.spotify.com/track/58SELDL70hm66Oy4fwzBFM"
-    },
-    {
-      "added_at": "2025-10-03 04:00:00",
-      "album": {
-        "name": "Stereo (High Contrast Remix)",
-        "url": "https://open.spotify.com/album/5U3FU97oxVxPWARM6Ltqbq"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
-        },
-        {
-          "name": "High Contrast",
-          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
-        },
-        {
-          "name": "Lovelle",
-          "url": "https://open.spotify.com/artist/14zTM1cQHLvPExpqV4HdCx"
-        }
-      ],
-      "duration_ms": 221187,
-      "name": "Stereo (High Contrast Remix)",
-      "url": "https://open.spotify.com/track/0rFFjLdIq4SlFAZvKXrPUR"
     },
     {
       "added_at": "2025-10-03 04:00:00",
@@ -307,58 +307,6 @@
     {
       "added_at": "2025-10-03 04:00:00",
       "album": {
-        "name": "Look At 'Em",
-        "url": "https://open.spotify.com/album/2yQqJ0oIuM8Ryn7pvlHyxu"
-      },
-      "artists": [
-        {
-          "name": "Erick Sermon",
-          "url": "https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        }
-      ],
-      "duration_ms": 170020,
-      "name": "Look At 'Em",
-      "url": "https://open.spotify.com/track/6nnKuAPS0lZ41PEGuiKMLD"
-    },
-    {
-      "added_at": "2025-10-03 04:00:00",
-      "album": {
-        "name": "ROLLIN",
-        "url": "https://open.spotify.com/album/0PBa3a98a38IPY1MmIWXb0"
-      },
-      "artists": [
-        {
-          "name": "Steelz",
-          "url": "https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "G Perico",
-          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
-        },
-        {
-          "name": "Bandhunta Izzy",
-          "url": "https://open.spotify.com/artist/5nnmjpedVxTOH8KwpDdSZ2"
-        }
-      ],
-      "duration_ms": 175841,
-      "name": "ROLLIN",
-      "url": "https://open.spotify.com/track/3mollwQwxPP620GyKn5B8H"
-    },
-    {
-      "added_at": "2025-10-03 04:00:00",
-      "album": {
         "name": "Here For It All",
         "url": "https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst"
       },
@@ -375,6 +323,26 @@
       "duration_ms": 224788,
       "name": "Play This Song (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P"
+    },
+    {
+      "added_at": "2025-10-03 04:00:00",
+      "album": {
+        "name": "Dali Aint Dead",
+        "url": "https://open.spotify.com/album/1HuCKrd8tmPoWu75gRAuH2"
+      },
+      "artists": [
+        {
+          "name": "Zelooperz",
+          "url": "https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8"
+        },
+        {
+          "name": "Zack Fox",
+          "url": "https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS"
+        }
+      ],
+      "duration_ms": 102295,
+      "name": "Push Me Around",
+      "url": "https://open.spotify.com/track/1IO1X0d6SpveTXNOZI6T9j"
     },
     {
       "added_at": "2025-10-03 04:00:00",
@@ -419,6 +387,46 @@
     {
       "added_at": "2025-10-03 04:00:00",
       "album": {
+        "name": "Look At 'Em",
+        "url": "https://open.spotify.com/album/2yQqJ0oIuM8Ryn7pvlHyxu"
+      },
+      "artists": [
+        {
+          "name": "Erick Sermon",
+          "url": "https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "duration_ms": 170020,
+      "name": "Look At 'Em",
+      "url": "https://open.spotify.com/track/6nnKuAPS0lZ41PEGuiKMLD"
+    },
+    {
+      "added_at": "2025-10-03 04:00:00",
+      "album": {
+        "name": "GMFU",
+        "url": "https://open.spotify.com/album/5Eb75KVSoTmkow2KZPxADd"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 115207,
+      "name": "GMFU",
+      "url": "https://open.spotify.com/track/20mEy3uJz5iXawPy8RncV0"
+    },
+    {
+      "added_at": "2025-10-03 04:00:00",
+      "album": {
         "name": "MadRaps",
         "url": "https://open.spotify.com/album/4xrnbBiQQs4mNaVqvOaicV"
       },
@@ -439,22 +447,66 @@
     {
       "added_at": "2025-10-03 04:00:00",
       "album": {
-        "name": "Golden (Goes Metal)",
-        "url": "https://open.spotify.com/album/5i4bEqBHZTkxAcq6619icq"
+        "name": "ROLLIN",
+        "url": "https://open.spotify.com/album/0PBa3a98a38IPY1MmIWXb0"
       },
       "artists": [
         {
-          "name": "Anthony Vincent",
-          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
+          "name": "Steelz",
+          "url": "https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM"
         },
         {
-          "name": "Artificial Fear",
-          "url": "https://open.spotify.com/artist/1CFxbBr11nVJSQ0lB9RPgr"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        },
+        {
+          "name": "Bandhunta Izzy",
+          "url": "https://open.spotify.com/artist/5nnmjpedVxTOH8KwpDdSZ2"
         }
       ],
-      "duration_ms": 212332,
-      "name": "Golden (Goes Metal)",
-      "url": "https://open.spotify.com/track/4qeRXoKDj8BfEnrbBc7yNq"
+      "duration_ms": 175841,
+      "name": "ROLLIN",
+      "url": "https://open.spotify.com/track/3mollwQwxPP620GyKn5B8H"
+    },
+    {
+      "added_at": "2025-10-03 04:00:00",
+      "album": {
+        "name": "Chilly Winds Don't Blow (Bolden. Remix)",
+        "url": "https://open.spotify.com/album/6t9jA8KDGRoewxzCWVn4O2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Bolden.",
+          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
+        }
+      ],
+      "duration_ms": 200295,
+      "name": "Chilly Winds Don't Blow - Bolden. Remix",
+      "url": "https://open.spotify.com/track/3QaLeFkFcnBb9Klvf7jNIX"
+    },
+    {
+      "added_at": "2025-10-03 04:00:00",
+      "album": {
+        "name": "Vacancy",
+        "url": "https://open.spotify.com/album/2kVzP9jxqRDUrQ7Po0In3U"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 183489,
+      "name": "Vacancy",
+      "url": "https://open.spotify.com/track/08zXm8YQQmbFGag4y353Dp"
     },
     {
       "added_at": "2025-10-03 04:00:00",
@@ -483,94 +535,6 @@
     {
       "added_at": "2025-10-03 04:00:00",
       "album": {
-        "name": "GMFU",
-        "url": "https://open.spotify.com/album/5Eb75KVSoTmkow2KZPxADd"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 115207,
-      "name": "GMFU",
-      "url": "https://open.spotify.com/track/20mEy3uJz5iXawPy8RncV0"
-    },
-    {
-      "added_at": "2025-10-03 04:00:00",
-      "album": {
-        "name": "Dali Aint Dead",
-        "url": "https://open.spotify.com/album/1HuCKrd8tmPoWu75gRAuH2"
-      },
-      "artists": [
-        {
-          "name": "Zelooperz",
-          "url": "https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8"
-        },
-        {
-          "name": "Zack Fox",
-          "url": "https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS"
-        }
-      ],
-      "duration_ms": 102295,
-      "name": "Push Me Around",
-      "url": "https://open.spotify.com/track/1IO1X0d6SpveTXNOZI6T9j"
-    },
-    {
-      "added_at": "2025-10-03 04:00:00",
-      "album": {
-        "name": "Vacancy",
-        "url": "https://open.spotify.com/album/2kVzP9jxqRDUrQ7Po0In3U"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 183489,
-      "name": "Vacancy",
-      "url": "https://open.spotify.com/track/08zXm8YQQmbFGag4y353Dp"
-    },
-    {
-      "added_at": "2025-10-03 04:00:00",
-      "album": {
-        "name": "Chilly Winds Don't Blow (Bolden. Remix)",
-        "url": "https://open.spotify.com/album/6t9jA8KDGRoewxzCWVn4O2"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Bolden.",
-          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
-        }
-      ],
-      "duration_ms": 200295,
-      "name": "Chilly Winds Don't Blow - Bolden. Remix",
-      "url": "https://open.spotify.com/track/3QaLeFkFcnBb9Klvf7jNIX"
-    },
-    {
-      "added_at": "2025-10-03 04:00:00",
-      "album": {
-        "name": "Devil's Den",
-        "url": "https://open.spotify.com/album/6tNyTApcRFDvdYXW8E8chd"
-      },
-      "artists": [
-        {
-          "name": "Clint Black",
-          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
-        }
-      ],
-      "duration_ms": 239458,
-      "name": "Devil's Den",
-      "url": "https://open.spotify.com/track/6PV267aIcBwTtpKUklyD3B"
-    },
-    {
-      "added_at": "2025-10-03 04:00:00",
-      "album": {
         "name": "Circles (VIP Mix)",
         "url": "https://open.spotify.com/album/1lUSwojfHrx1Pcbgfwvqe4"
       },
@@ -595,6 +559,26 @@
     {
       "added_at": "2025-10-03 04:00:00",
       "album": {
+        "name": "Golden (Goes Metal)",
+        "url": "https://open.spotify.com/album/5i4bEqBHZTkxAcq6619icq"
+      },
+      "artists": [
+        {
+          "name": "Anthony Vincent",
+          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
+        },
+        {
+          "name": "Artificial Fear",
+          "url": "https://open.spotify.com/artist/1CFxbBr11nVJSQ0lB9RPgr"
+        }
+      ],
+      "duration_ms": 212332,
+      "name": "Golden (Goes Metal)",
+      "url": "https://open.spotify.com/track/4qeRXoKDj8BfEnrbBc7yNq"
+    },
+    {
+      "added_at": "2025-10-03 04:00:00",
+      "album": {
         "name": "Relaxin'",
         "url": "https://open.spotify.com/album/2PILER8j7OhOrZDqATD5Pi"
       },
@@ -611,26 +595,18 @@
     {
       "added_at": "2025-10-03 04:00:00",
       "album": {
-        "name": "Magic City",
-        "url": "https://open.spotify.com/album/1lOpFH3H5zuMpuXRGPCEGW"
+        "name": "Devil's Den",
+        "url": "https://open.spotify.com/album/6tNyTApcRFDvdYXW8E8chd"
       },
       "artists": [
         {
-          "name": "Jermaine Dupri",
-          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "Jagged Edge",
-          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+          "name": "Clint Black",
+          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
         }
       ],
-      "duration_ms": 263292,
-      "name": "Married To The Game",
-      "url": "https://open.spotify.com/track/009kSF6acuUtsbexfRIhU9"
+      "duration_ms": 239458,
+      "name": "Devil's Den",
+      "url": "https://open.spotify.com/track/6PV267aIcBwTtpKUklyD3B"
     },
     {
       "added_at": "2025-10-03 04:00:00",
@@ -659,6 +635,30 @@
       "duration_ms": 608663,
       "name": "In Search of My Heart / Love Surrounds Us Everywhere (feat. Kamasi Washington, Terrace Martin & Nile Rodgers)",
       "url": "https://open.spotify.com/track/2A49G3LtFy8dWckf69rZBM"
+    },
+    {
+      "added_at": "2025-10-03 04:00:00",
+      "album": {
+        "name": "Magic City",
+        "url": "https://open.spotify.com/album/1lOpFH3H5zuMpuXRGPCEGW"
+      },
+      "artists": [
+        {
+          "name": "Jermaine Dupri",
+          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "duration_ms": 263292,
+      "name": "Married To The Game",
+      "url": "https://open.spotify.com/track/009kSF6acuUtsbexfRIhU9"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

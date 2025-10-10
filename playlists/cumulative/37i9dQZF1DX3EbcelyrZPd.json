@@ -1873,6 +1873,28 @@
     },
     {
       "album": {
+        "name": "Dollar",
+        "url": "https://open.spotify.com/album/2mgEdaFhOQ4LEwb6oSn73F"
+      },
+      "artists": [
+        {
+          "name": "G Nako",
+          "url": "https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC"
+        },
+        {
+          "name": "Kona Beats",
+          "url": "https://open.spotify.com/artist/7qd5hiO16apL0pvx1NGRwr"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Dollar",
+      "url": "https://open.spotify.com/track/6zX6vPRYi5dUVzKzd2CRfs"
+    },
+    {
+      "album": {
         "name": "Don't Let Go",
         "url": "https://open.spotify.com/album/2LXIF7NQRV6S0XBlaVV6u4"
       },
@@ -12152,7 +12174,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 179196,
       "name": "Yatapita",
       "url": "https://open.spotify.com/track/6u3Td4ikcjsfVyaVGrRsWT"

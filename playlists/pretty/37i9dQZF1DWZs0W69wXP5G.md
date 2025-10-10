@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 
 > Everything Broadway\-adjacent\. Cover:  Jennifer Lopez
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,813 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,826 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 | 43 | [Any Worse \(Squeak’s Song\)](https://open.spotify.com/track/2mjZYvLsOCoBuFZp6G1jQX) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Color Purple \(Music From And Inspired By\)](https://open.spotify.com/album/3OWJJ98IlTcnSKKrbgeCT5) | 4:26 |
 | 44 | [Therapy](https://open.spotify.com/track/1iFgG6BeEPTbXsAok6zYxR) | [Andrew Garfield](https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72), [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE) | [tick, tick..\. BOOM! \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ) | 2:44 |
 | 45 | [Burn for You](https://open.spotify.com/track/6lmke3XxJTBC2x2tT6gMo7) | [Barlow & Bear](https://open.spotify.com/artist/2JymsYVZ5c5prv9mOdPB3p), [Abigail Barlow](https://open.spotify.com/artist/5rw6jWzcS6bQimR39VPBXu), [Emily Bear](https://open.spotify.com/artist/0K1ilFOGrYhSKNZaDCYRvk) | [The Unofficial Bridgerton Musical](https://open.spotify.com/album/7gXx19GNHIiQ3fIbXxeY1U) | 2:53 |
-| 46 | [Falling Slowly](https://open.spotify.com/track/1xubaVW0WOyUJu65gSaxXQ) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn), [Kevin Dias](https://open.spotify.com/artist/3UBr7nFzZBhdtfghEZiOrp) | [Emily in Paris \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6XjTTsL4pzC7RVXIBAyzNX) | 3:07 |
+| 46 | [Falling Slowly \- from "Emily in Paris" Soundtrack](https://open.spotify.com/track/1xubaVW0WOyUJu65gSaxXQ) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn), [Kevin Dias](https://open.spotify.com/artist/3UBr7nFzZBhdtfghEZiOrp) | [Emily in Paris \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6XjTTsL4pzC7RVXIBAyzNX) | 3:07 |
 | 47 | [Opening Doors / What More Do I Need?](https://open.spotify.com/track/3FZ9coVkYL2iMzcFtSW9M4) | [Melissa Errico](https://open.spotify.com/artist/1FgbndX43rDxGvserrIb1l) | [Opening Doors / What More Do I Need?](https://open.spotify.com/album/2u3NgDtlfTtAhEYdSlQTph) | 3:52 |
 | 48 | [Always Be My Man](https://open.spotify.com/track/2p3EVCmbKI4O72S6kTRdXL) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4), [Luke Evans](https://open.spotify.com/artist/0MO42HJhUFrv078qALxpPQ) | [Always Be My Man](https://open.spotify.com/album/5hnOIy6Hw9dHsROVHUOQBJ) | 3:24 |
 | 49 | [Apex Predator](https://open.spotify.com/track/0QcvmgRufHPKzWprfm6MAS) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Jaquel Spivey](https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/0WSPg07gRVxFdY1esBAIOc) | 3:07 |

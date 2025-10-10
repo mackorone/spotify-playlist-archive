@@ -445,6 +445,24 @@
     },
     {
       "album": {
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/483EKCZkSrdOZ5dEsew7sV"
+      },
+      "artists": [
+        {
+          "name": "Hybrid Minds",
+          "url": "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200930,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/3UXZT8ySbWDR5lwD9MS2KM"
+    },
+    {
+      "album": {
         "name": "Ego Rush",
         "url": "https://open.spotify.com/album/6PUUdGSQCZs1bu30g5fUac"
       },

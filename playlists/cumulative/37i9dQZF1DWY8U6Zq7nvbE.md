@@ -4,7 +4,7 @@
 
 > Soft and cozy acoustic covers of famous songs.
 
-464 songs - 1 day 1 hr 6 min
+465 songs - 1 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,8 +388,9 @@
 | [spark \- acoustic version](https://open.spotify.com/track/1Bf6t21wDuopvxEjEG0Axx) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [spark \(acoustic version\)](https://open.spotify.com/album/6i4Fr88uQpqbLsbhP0i2bo) | 3:35 | 2022-10-26 | 2022-11-14 |
 | [spark \- Acoustic Version](https://open.spotify.com/track/3t9VNPLPtOSHhdDdTx7VFM) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [the love that you want \(Acoustic\)](https://open.spotify.com/album/14hXoTfUY2iXfr65WvMWou) | 3:35 | 2022-08-31 | 2022-11-26 |
 | [spark \- acoustic version](https://open.spotify.com/track/5JEvRUqLBetsMC12nAKlen) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [spark \(acoustic version\)](https://open.spotify.com/album/2t9kgL9bskHkLAR3wESeeF) | 3:35 | 2021-03-11 | 2022-07-29 |
-| [Sparks](https://open.spotify.com/track/5OKWAL4qNRUz28CBWEU411) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Sparks](https://open.spotify.com/album/1qORB1Q8h63lnKR7Jsv8Cx) | 4:16 | 2023-02-17 |  |
+| [Sparks](https://open.spotify.com/track/5OKWAL4qNRUz28CBWEU411) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Sparks](https://open.spotify.com/album/1qORB1Q8h63lnKR7Jsv8Cx) | 4:16 | 2023-02-17 | 2025-10-10 |
 | [Stack It Up \- Acoustic](https://open.spotify.com/track/26pc0rVJ8Ca8N03RDxT0rp) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Stack It Up \(Acoustic\)](https://open.spotify.com/album/1Y46HfQXfRfi4hSt91WQFE) | 2:42 | 2021-03-11 | 2023-10-28 |
+| [Stay](https://open.spotify.com/track/33E9TgNo6gEFCA91s5GPOn) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Stay](https://open.spotify.com/album/5eW7UCMMuW9NlfaOgQSXsn) | 3:28 | 2025-07-24 |  |
 | [STAY](https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [STAY](https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG) | 2:12 | 2022-12-02 |  |
 | [STAY](https://open.spotify.com/track/47HAVYDQN5gH38pf9R8VpJ) | [Mel & Macy](https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk) | [STAY](https://open.spotify.com/album/1Vxqds6fwlew2NKKge1lgn) | 2:34 | 2022-08-31 | 2022-12-02 |
 | [Stay with me](https://open.spotify.com/track/04tPBcDtaaIv28US53KjAV) | [Linus Svenning](https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8) | [Stay with me](https://open.spotify.com/album/5NenRWEwq6jxOugTnIEQlL) | 2:54 | 2022-12-16 | 2023-10-28 |

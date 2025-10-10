@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,689 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,710 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 | 7 | [Na Le \- Phaxe Remix](https://open.spotify.com/track/2TbB5iWJtLRCP7xIy8Zh5E) | [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f), [Phaxe](https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN) | [Na Le \(Phaxe Remix\)](https://open.spotify.com/album/6caV8eLYgWB5g93DNeZXvE) | 6:58 |
 | 8 | [WIND](https://open.spotify.com/track/1UhzFALHc9kjh3UqRJjR02) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f) | [WIND](https://open.spotify.com/album/63He7s0muq7kACjVOGszvC) | 3:10 |
 | 9 | [Out of Time](https://open.spotify.com/track/443M0kCEyrSg4V7R5mtq8X) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5), [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Out of Time](https://open.spotify.com/album/5qwxuDwCYHD0sH8wCfzAnS) | 3:04 |
-| 10 | [Joy](https://open.spotify.com/track/17yYSZdxIfNNlI0Brpfvk0) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Joy](https://open.spotify.com/album/5KgoKcCyd2nI7oraUvbXWv) | 4:21 |
-| 11 | [Pluto \- Live](https://open.spotify.com/track/6rRIi4fwSDHXYPGsMID3ez) | [BalQeis Live](https://open.spotify.com/artist/3QrfETcrieJh4g5rH352Vq) | [Planetary\_4.2 \(Live\)](https://open.spotify.com/album/5dSuaG8t4m7y3lefnuMF3M) | 2:45 |
-| 12 | [Kindness Makes Me Horny](https://open.spotify.com/track/5w2PBowfXDbOpzLpLrB3kt) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq), [Pako Marckx](https://open.spotify.com/artist/0zvWbsBwkNb1KEbXMoWyyh), [INNERGATE](https://open.spotify.com/artist/4WSZCYGxqXDMYPizVPfSP9) | [Kindness Makes Me Horny](https://open.spotify.com/album/0WmVahBYsYEZftiokIV4EI) | 4:06 |
+| 10 | [Peruvian Bounce](https://open.spotify.com/track/57j8aqFe82TJmJPgSzWvXT) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Peruvian Bounce](https://open.spotify.com/album/13t5kwqmi6d7d3EeScL1uC) | 3:44 |
+| 11 | [Joy](https://open.spotify.com/track/17yYSZdxIfNNlI0Brpfvk0) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Joy](https://open.spotify.com/album/5KgoKcCyd2nI7oraUvbXWv) | 4:21 |
+| 12 | [Pluto \- Live](https://open.spotify.com/track/6rRIi4fwSDHXYPGsMID3ez) | [BalQeis Live](https://open.spotify.com/artist/3QrfETcrieJh4g5rH352Vq) | [Planetary\_4.2 \(Live\)](https://open.spotify.com/album/5dSuaG8t4m7y3lefnuMF3M) | 2:45 |
 | 13 | [Jericho](https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Jericho](https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh) | 2:38 |
 | 14 | [Tomorrow](https://open.spotify.com/track/7cgc7LsayrPtYm732w24Nb) | [Bapper Berny](https://open.spotify.com/artist/2BnQfcyNz4DoZdZZ1OiDqP) | [Psytrance Illusions](https://open.spotify.com/album/39D8OJEixStOiwQAKolaSe) | 2:24 |
 | 15 | [What They Call Us \(Âme Remix\)](https://open.spotify.com/track/2lCDYozgN5XCv8YOeYl0kR) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [What They Call Us \(Âme Remix\)](https://open.spotify.com/album/1dMBNnRV9SC7wD5ejVRs7p) | 6:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaEbKBollAD.md) - [plain]
 | 49 | [Requiem](https://open.spotify.com/track/6AWUWCMEF31w9e0yvGiFBl) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Heaven Is For Warriors EP](https://open.spotify.com/album/0foqG98xclmbCe33QsRMll) | 3:40 |
 | 50 | [Born Again \(Babylonia\) feat\. Widemode](https://open.spotify.com/track/6MziWtIveg3XEYr2VVyW0i) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH), [Widemode](https://open.spotify.com/artist/1oB55C2OgosjV7fLfhNoMS) | [Born Again \(Babylonia\) feat\. Widemode](https://open.spotify.com/album/7zKOmzXqKcDNlHGpE1DnQ1) | 2:17 |
 
-Snapshot ID: `AAAAAI7HdlZdQAukE+k6PO92hTLm3HNf`
+Snapshot ID: `AAAAAG1jU/mOsAN59GyHU4g0J0sPv7F7`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Taylor Swift",
+  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: \u0416\u0435\u043d\u044f \u0413\u0430\u043b\u0438\u0447",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2025",
   "tracks": [
     {
@@ -356,7 +356,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-29",
+      "date_removed": null,
       "duration_ms": 180895,
       "name": "Bird of Pray - Eurovision 2025",
       "url": "https://open.spotify.com/track/5lmoGiZquqsW9sNxJQGRHn"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 222965,
       "name": "City",
       "url": "https://open.spotify.com/track/6VteRKmltuPC9dXVzPIeGK"
@@ -3002,7 +3002,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 342960,
       "name": "Reborn",
       "url": "https://open.spotify.com/track/2xFFRS87enopWS13zvcwwT"
@@ -3288,7 +3288,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-19",
+      "date_removed": null,
       "duration_ms": 280800,
       "name": "Smoking Cherry",
       "url": "https://open.spotify.com/track/5hmQADC08TeCTQaeKhltnY"
@@ -4018,7 +4018,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 270866,
       "name": "Ugly",
       "url": "https://open.spotify.com/track/50vTXRm8DgeuSeFKggVXnG"
@@ -4544,7 +4544,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-13",
+      "date_removed": null,
       "duration_ms": 165028,
       "name": "\u0410\u043a\u0430\u0446\u0456\u044f",
       "url": "https://open.spotify.com/track/6LP6fWSZmvXcd27Yv2pz9u"
@@ -4892,7 +4892,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 193279,
       "name": "\u0412\u0441\u0435 \u041e\u041a",
       "url": "https://open.spotify.com/track/1kz3kY07LYcVPxB1WlQCHv"
@@ -5210,7 +5210,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-30",
+      "date_removed": null,
       "duration_ms": 152076,
       "name": "\u0414\u043e\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u0456\u0442\u043b\u0430",
       "url": "https://open.spotify.com/track/4nvPpWu7S4ZBaOVHMQUaSY"
@@ -5627,6 +5627,24 @@
     },
     {
       "album": {
+        "name": "\u041a\u043e\u043b\u0438 \u0442\u0438 \u043f\u043b\u0430\u0447\u0435\u0448",
+        "url": "https://open.spotify.com/album/0HJ2q77XaxzQoIht3HE0Gf"
+      },
+      "artists": [
+        {
+          "name": "\u0416\u0435\u043d\u044f \u0413\u0430\u043b\u0438\u0447",
+          "url": "https://open.spotify.com/artist/2UF0JmW4D3B0bXeAZMidyD"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230082,
+      "name": "\u041a\u043e\u043b\u0438 \u0442\u0438 \u043f\u043b\u0430\u0447\u0435\u0448",
+      "url": "https://open.spotify.com/track/0rV1Xyj5FyaGz3HyndDUJe"
+    },
+    {
+      "album": {
         "name": "\u041a\u043e\u043c\u0435\u0442\u0430",
         "url": "https://open.spotify.com/album/4COICbeHqQwLqHhIRq61C6"
       },
@@ -5974,7 +5992,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 206250,
       "name": "\u043c\u0430\u0434\u0430\u043c",
       "url": "https://open.spotify.com/track/5cSNtwfVLUDVHcgOnjBiBX"
@@ -6116,7 +6134,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 157714,
       "name": "\u041c\u043d\u043e\u0433\u0430\u044f \u043b\u0456\u0442\u0430",
       "url": "https://open.spotify.com/track/2CRlbBTI2Zk8WaosWWboGT"
@@ -6268,6 +6286,24 @@
       "duration_ms": 161117,
       "name": "\u041c\u0406\u041d\u0406\u041c\u0423\u041c",
       "url": "https://open.spotify.com/track/2iHe7kpR2XQ9dUYDiH4dJG"
+    },
+    {
+      "album": {
+        "name": "\u041c\u0456\u0441\u0442\u043e \u0434\u043e\u0449\u0456\u0432",
+        "url": "https://open.spotify.com/album/5fN2YHkJ5TqcmN7ZS5w1Xw"
+      },
+      "artists": [
+        {
+          "name": "MAX BARSKIH",
+          "url": "https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "\u041c\u0456\u0441\u0442\u043e \u0434\u043e\u0449\u0456\u0432",
+      "url": "https://open.spotify.com/track/1ooD9MR661uyCOryH4fRWI"
     },
     {
       "album": {
@@ -7080,7 +7116,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 142200,
       "name": "\u0420\u0438\u043c\u0441\u044c\u043a\u0430 \u0456\u043c\u043f\u0435\u0440\u0456\u044f",
       "url": "https://open.spotify.com/track/6sVjtEeHdo3rhX74CCCxNf"
@@ -7340,7 +7376,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 227125,
       "name": "\u0421\u0443\u0434\u043d\u043e \u041a\u043e\u0435\u043b\u044c\u043e",
       "url": "https://open.spotify.com/track/0UQOng1uYQhY0ob0QJoptH"

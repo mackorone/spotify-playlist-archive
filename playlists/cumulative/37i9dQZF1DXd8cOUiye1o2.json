@@ -524,7 +524,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 188115,
       "name": "Aye Gori",
       "url": "https://open.spotify.com/track/55MfnM6GBAnuMZ3syaP1Og"
@@ -1740,7 +1740,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 214545,
       "name": "DHA",
       "url": "https://open.spotify.com/track/7zppLGJpnb7poKWXnytlYh"
@@ -4361,6 +4361,24 @@
     },
     {
       "album": {
+        "name": "Marammat",
+        "url": "https://open.spotify.com/album/4QIFTipmqIvkyihm5jrVKF"
+      },
+      "artists": [
+        {
+          "name": "NAALAYAK",
+          "url": "https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196958,
+      "name": "Marammat",
+      "url": "https://open.spotify.com/track/6fHNMaNAoP9D9KVp30CtGL"
+    },
+    {
+      "album": {
         "name": "Mashooqa",
         "url": "https://open.spotify.com/album/4dViai7p1OV76v69X23ovd"
       },
@@ -5498,6 +5516,28 @@
       "duration_ms": 216300,
       "name": "Raaj Karega Maalik (From \"Maalik\")",
       "url": "https://open.spotify.com/track/3Beoodh5jmfEnPiJAXNlFo"
+    },
+    {
+      "album": {
+        "name": "Raat Baaqi Hai",
+        "url": "https://open.spotify.com/album/3PEIxWCCEmZSa6ckVyoTnA"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "AJAY SAHAAB",
+          "url": "https://open.spotify.com/artist/4JtGTWhTTnYKcgHNgzoPSL"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255529,
+      "name": "Raat Baaqi Hai",
+      "url": "https://open.spotify.com/track/7LILmhJtAVFhrlG9ZIahx1"
     },
     {
       "album": {
@@ -6979,6 +7019,28 @@
     },
     {
       "album": {
+        "name": "Tu Hi Bata",
+        "url": "https://open.spotify.com/album/55ROM4DfFMxyFTKY75JohM"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "Harshit Saxena",
+          "url": "https://open.spotify.com/artist/4auibajZua9Ld8sPMOmPYc"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253511,
+      "name": "Tu Hi Bata",
+      "url": "https://open.spotify.com/track/1ptljqDQgdHVlS39ywJhQd"
+    },
+    {
+      "album": {
         "name": "Tu Kahan",
         "url": "https://open.spotify.com/album/3517f2paPRHjXd8A3J8aWD"
       },
@@ -7512,7 +7574,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 200416,
       "name": "Ye Jawani Hai Diwani",
       "url": "https://open.spotify.com/track/3x7AbWZsejP2Ou3q0EC2Eb"

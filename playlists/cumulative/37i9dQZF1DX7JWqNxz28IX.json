@@ -530,7 +530,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 174549,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 170095,
       "name": "Ci siamo fatti male",
       "url": "https://open.spotify.com/track/4G1z4u0k5vMzR5hty607W4"
@@ -1575,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "distruggermi",
+        "url": "https://open.spotify.com/album/2zoFlLikZhcq8ogpUQ4E1B"
+      },
+      "artists": [
+        {
+          "name": "MAGENTA FLORA",
+          "url": "https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165755,
+      "name": "distruggermi piano",
+      "url": "https://open.spotify.com/track/05v7b6JCUGTklbi4zityhu"
+    },
+    {
+      "album": {
         "name": "ONIRO",
         "url": "https://open.spotify.com/album/5K6rOCFPtt6Gdv6YHaPC2x"
       },
@@ -1745,6 +1763,46 @@
     },
     {
       "album": {
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/6w0sqUb9pXtssmiDxmd8LK"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176033,
+      "name": "Fammi Un Sorriso",
+      "url": "https://open.spotify.com/track/0ADVLH8oGt8Fh2yjiSFV7o"
+    },
+    {
+      "album": {
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/6w0sqUb9pXtssmiDxmd8LK"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172067,
+      "name": "Fanculo (feat. Marracash)",
+      "url": "https://open.spotify.com/track/2smcrTWrF4aEbuHz60x03f"
+    },
+    {
+      "album": {
         "name": "Favole",
         "url": "https://open.spotify.com/album/4wM4GOeuTrqB90nlx4XZNi"
       },
@@ -1778,7 +1836,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 186916,
       "name": "Febbre a Febbraio (feat. Lil Kvneki)",
       "url": "https://open.spotify.com/track/6QDNyom34TEQE6AzfEVE8Y"
@@ -2380,7 +2438,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 139773,
       "name": "I CAN FLY",
       "url": "https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b"
@@ -2740,6 +2798,46 @@
       "duration_ms": 176372,
       "name": "L'ultima mezz'ora",
       "url": "https://open.spotify.com/track/6ATipis5X5ZhJtQFtA5Moe"
+    },
+    {
+      "album": {
+        "name": "l'ultima stella (feat. Visino Bianco)",
+        "url": "https://open.spotify.com/album/5ykfizUolhrCdf8yYwnw6p"
+      },
+      "artists": [
+        {
+          "name": "UNK",
+          "url": "https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr"
+        },
+        {
+          "name": "Visino Bianco",
+          "url": "https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "l'ultima stella (feat. Visino Bianco)",
+      "url": "https://open.spotify.com/track/7el3huhG3gAMjjJehLd1sT"
+    },
+    {
+      "album": {
+        "name": "la cosa pi\u00f9 vicina al cielo",
+        "url": "https://open.spotify.com/album/7cGuc4jzxmV6SFlQ1uGosE"
+      },
+      "artists": [
+        {
+          "name": "3win$",
+          "url": "https://open.spotify.com/artist/6K3XJR65jyl05A6rx2s0fY"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181612,
+      "name": "la cosa pi\u00f9 vicina al cielo",
+      "url": "https://open.spotify.com/track/5O9KVG1qj77hZllFbDGmfz"
     },
     {
       "album": {
@@ -3350,6 +3448,50 @@
       "duration_ms": 137008,
       "name": "ME & YOU",
       "url": "https://open.spotify.com/track/6aUqWalFUc8uaPRbnx4Drq"
+    },
+    {
+      "album": {
+        "name": "MIAO",
+        "url": "https://open.spotify.com/album/6OpCYidL9CLCcXAgEsgDAR"
+      },
+      "artists": [
+        {
+          "name": "PRIMA ALBA",
+          "url": "https://open.spotify.com/artist/7JBiKcvAbC3B9LlnLr2KBv"
+        },
+        {
+          "name": "Luvi",
+          "url": "https://open.spotify.com/artist/0cPBV0vRFQYE3ikRRh3Xr0"
+        },
+        {
+          "name": "cupido",
+          "url": "https://open.spotify.com/artist/5VJIiHHvYSPDLm3te8gJhM"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148623,
+      "name": "MIAO",
+      "url": "https://open.spotify.com/track/4URjpvjOaqL3HCDA8CE80L"
+    },
+    {
+      "album": {
+        "name": "MIGLIAIA DI PROBLEMI",
+        "url": "https://open.spotify.com/album/4O6bLYvHWxJecTT95NQGeY"
+      },
+      "artists": [
+        {
+          "name": "Carla Hero",
+          "url": "https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132778,
+      "name": "MIGLIAIA DI PROBLEMI",
+      "url": "https://open.spotify.com/track/62gN6FiKKiWnYIE8RPhRM5"
     },
     {
       "album": {
@@ -4062,7 +4204,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 138634,
       "name": "OSSIGENO",
       "url": "https://open.spotify.com/track/7CO3fZWJWjsQoYsWkVSLzU"
@@ -5548,7 +5690,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 133658,
       "name": "SOGNI",
       "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
@@ -6486,7 +6628,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 151013,
       "name": "Winston Blue",
       "url": "https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i"

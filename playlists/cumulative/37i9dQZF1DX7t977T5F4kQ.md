@@ -4,7 +4,7 @@
 
 > The hottest and recent Ghana party starters\. Cover: King Promise & Mr Eazi
 
-556 songs - 1 day 4 hr 45 min
+558 songs - 1 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Akokoa](https://open.spotify.com/track/6u8RmxbRi5u1hSoF9XcBVR) | [Safo Newman](https://open.spotify.com/artist/1XygOZOkRxWKr0vEKgZxFl) | [Akokoa](https://open.spotify.com/album/1WVgSHOlo68eFdXWe3eVwD) | 3:22 | 2024-01-15 | 2025-02-28 |
 | [Alaba](https://open.spotify.com/track/4Fz91Pk8VsyL9GIweeiDru) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [Alaba](https://open.spotify.com/album/0xrC1JurZg5HadykKZrsXm) | 3:11 | 2025-08-22 |  |
 | [Alhaji Popping](https://open.spotify.com/track/6678acn5h2wP7INBQ2WLH7) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Alhaji Popping](https://open.spotify.com/album/5fqnuvFLEnDRaxnEKY13QQ) | 2:36 | 2025-06-20 |  |
+| [All My Life](https://open.spotify.com/track/2utcd67JnYjlDaXQ92beai) | [Omar Sterling](https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Vth 2](https://open.spotify.com/album/5BRuNa1MCmOQFc7164uNXd) | 2:14 | 2025-10-10 |  |
 | [All of a Sudden](https://open.spotify.com/track/6gexVsMvwjIr5NQPDrmrkp) | [Abochi](https://open.spotify.com/artist/1yCRHs6DWub2XayDl4GEEw) | [All of a Sudden](https://open.spotify.com/album/694ZgcasfENDbZ8pq9fNGp) | 3:13 | 2022-11-18 | 2022-12-02 |
 | [Aluta](https://open.spotify.com/track/42zyObr3pHrqizANcRdSQK) | [OV](https://open.spotify.com/artist/6m4OztP0eEgXadXD9biIN0) | [Aluta](https://open.spotify.com/album/5AGGhnDzlCCPjq74uDfZ4t) | 3:04 | 2023-09-14 | 2023-10-13 |
 | [Ama](https://open.spotify.com/track/76zukaAYK7FPmUD0nXJfaY) | [Sh3lter](https://open.spotify.com/artist/7qiwVpjpqGq1wD3VtSLnVX), [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Ama](https://open.spotify.com/album/6IejK7EjUjEdnqvuhAHVN0) | 3:02 | 2025-03-07 | 2025-04-01 |
@@ -501,7 +502,7 @@
 | [Therapy](https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Therapy](https://open.spotify.com/album/5HTQ5jXZYHmG0rsYpABqGp) | 3:05 | 2022-11-04 | 2024-03-15 |
 | [Thermometer \(Ma Lo\)](https://open.spotify.com/track/0R7KRqS9h8gLVzLc7mDE8q) | [DJ Mic Smith](https://open.spotify.com/artist/55vSMtCiV6fMgUMh9TEl6i), [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Thermometer \(Ma Lo\)](https://open.spotify.com/album/2rlMfViK6osmXLiaWPRfco) | 3:41 | 2023-03-17 | 2023-06-17 |
 | [Thy Grace](https://open.spotify.com/track/6MBpgxXASTwAB4XSgIsBCH) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [Thy Grace](https://open.spotify.com/album/0YSrY0F9lGpMn4w6t0jZ9R) | 3:18 | 2022-11-04 | 2022-12-02 |
-| [TIENS MA MONEY \(feat\. Stonebwoy\)](https://open.spotify.com/track/6S46LxjNxiMLQLS352CFib) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [DACHIBA KOUMGBA TCHAIBA](https://open.spotify.com/album/3cRm4UhrSxRKTS1f3T0QQo) | 2:49 | 2025-08-22 |  |
+| [TIENS MA MONEY \(feat\. Stonebwoy\)](https://open.spotify.com/track/6S46LxjNxiMLQLS352CFib) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [DACHIBA KOUMGBA TCHAIBA](https://open.spotify.com/album/3cRm4UhrSxRKTS1f3T0QQo) | 2:49 | 2025-08-22 | 2025-10-10 |
 | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Till We Die \(feat\. Ruger\)](https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY) | 3:03 | 2023-10-27 | 2025-03-08 |
 | [Time Heals All](https://open.spotify.com/track/1Nx1168hCpGQsg5iU9z6VK) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Time Is on My Side](https://open.spotify.com/album/3ASS1Gvr24klSgbVcFwPGD) | 3:13 | 2025-08-22 | 2025-08-29 |
 | [Tin Ton Tan](https://open.spotify.com/track/1OV4OqoiuEJhoQBpZS8j5T) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Tin Ton Tan](https://open.spotify.com/album/2DDegqb6gVx8tpm8Pf8CfV) | 3:15 | 2024-05-03 | 2025-08-30 |
@@ -510,6 +511,7 @@
 | [Too Late](https://open.spotify.com/track/7krvWOVJSMcj3LHuxygzLh) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Too Late](https://open.spotify.com/album/7mQQiuo6jLbmE3aZeSaXaR) | 3:14 | 2024-11-08 |  |
 | [Tornado](https://open.spotify.com/track/52L1OTjUe8Zmz8xQH9HENi) | [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Tornado](https://open.spotify.com/album/339rnWvetNqZTAZzxrlv35) | 2:38 | 2023-04-27 | 2023-05-20 |
 | [Touch It](https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Touch It](https://open.spotify.com/album/3VDgHI9zYEzSeH1dv8ij1c) | 2:45 | 2022-11-04 | 2023-08-18 |
+| [Track 13](https://open.spotify.com/track/5ZOx261LZWSP886waFtw5P) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [](https://open.spotify.com/album/null) | 0:00 | 2025-10-10 |  |
 | [Try Again](https://open.spotify.com/track/37VzqohsKYJMTN9yS5iSt1) | [Banzy Banero](https://open.spotify.com/artist/5VjCTOxVwGAA7Blx7jv5WN) | [Try Again](https://open.spotify.com/album/4vGY5krrhuhWRNbO1Fd3Xd) | 3:23 | 2023-11-17 | 2024-10-26 |
 | [Tupac](https://open.spotify.com/track/2WA0ROd9Vxjb83hTFah5CK) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Tupac](https://open.spotify.com/album/1uLVlQFylIj6Fl2zi6r4Hs) | 3:34 | 2023-12-01 | 2024-02-03 |
 | [unconditional](https://open.spotify.com/track/5AdS5p0hYS4dlKbJz0tMwj) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Unconditional](https://open.spotify.com/album/3Xhu2pzTBMZeX89QTMx8eX) | 2:51 | 2025-07-11 |  |

@@ -4,7 +4,7 @@
 
 > De grootste hits uit de kroeg in één playlist.
 
-119 songs - 5 hr 50 min
+121 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,11 +43,13 @@
 | [Ferry de Roze Flamingo](https://open.spotify.com/track/5CQoqXdZsczvoX7anShh1l) | [Barry Fest](https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY), [Tim Schalkx](https://open.spotify.com/artist/1QW14VwiXvCTlCqqbnOSpG) | [Ferry de Roze Flamingo](https://open.spotify.com/album/4Kc5we1zceYF8XYHB9TESc) | 2:51 | 2025-07-14 |  |
 | [Frans Duits](https://open.spotify.com/track/6iSm0u8DL5MqeptlsoeS90) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Frans Duits](https://open.spotify.com/album/275oSAHa19SMqDyPdjUVzh) | 2:52 | 2025-07-14 |  |
 | [GAP](https://open.spotify.com/track/3zRX2nkjy12SPjBRo2ls5N) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [GAP](https://open.spotify.com/album/3TYzIE13Fda0FGmTNLCspz) | 2:11 | 2025-07-14 |  |
+| [Gekke Henkie](https://open.spotify.com/track/0JgjTKDzat4XqdKE0efgMK) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Gekke Henkie](https://open.spotify.com/album/4YSlyuxYSVoI72Tmv0aoxU) | 2:36 | 2025-10-09 |  |
 | [Geld Maakt Niet Gelukkig](https://open.spotify.com/track/5goNWoaojSwBrmXHZuXlv2) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Geld Maakt Niet Gelukkig](https://open.spotify.com/album/50Aag4UQT0FrhXDk4H1fps) | 2:37 | 2025-07-14 |  |
 | [Gina](https://open.spotify.com/track/5meI025SYNIsanGc3NpCAs) | [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Gina](https://open.spotify.com/album/3OO7avslFyhPayBU2Ev1vi) | 3:38 | 2025-07-14 |  |
 | [Hartslag Van De Stad](https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Hartslag Van De Stad](https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo) | 2:59 | 2025-07-14 |  |
 | [Heb Je Al Genoeg Genoten](https://open.spotify.com/track/52Ki7PzFYiyPbRnxtpZMc7) | [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW), [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Heb Je Al Genoeg Genoten](https://open.spotify.com/album/117kAFARQi7isHGwFh9gYA) | 2:19 | 2025-09-04 |  |
 | [Heb Lak Aan Wat Ze Zeggen](https://open.spotify.com/track/3ej7KCO6lz7Au29DsfDZq7) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV) | [Heb Lak Aan Wat Ze Zeggen](https://open.spotify.com/album/4lAvmC6B24huS5BLvTGUKh) | 2:30 | 2025-07-14 | 2025-09-21 |
+| [Het Maakt Niet Uit](https://open.spotify.com/track/4CSAy7eHSSnMLIAkcCxeAC) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Het Maakt Niet Uit](https://open.spotify.com/album/3OSlCwhIjgO0VLkWgm2eOO) | 2:23 | 2025-10-09 |  |
 | [Hier Mag Alles](https://open.spotify.com/track/1sqe31TzOsjCeex1INgmsq) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Hier Mag Alles](https://open.spotify.com/album/7vAX7pi3sdfs65gVw6K1fi) | 3:15 | 2025-07-14 |  |
 | [Hoe Heet Dat Liedje?](https://open.spotify.com/track/2o3ANittPBTyx9KafdQrZc) | [Chris Bauer](https://open.spotify.com/artist/6vx4nxbeAGrQPKHzurW1pi) | [Hoe Heet Dat Liedje?](https://open.spotify.com/album/1s592SEXHqLxjFjAKo65tD) | 3:15 | 2025-07-14 | 2025-09-21 |
 | [Hoe Zou Het Zijn Geweest](https://open.spotify.com/track/5VlumpV7P0bentTmUG4471) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Hoe Zou Het Zijn Geweest](https://open.spotify.com/album/6sqKgulNiIhYxOs4rwHR2a) | 3:01 | 2025-08-07 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "A perfect link up to soundtrack your day. Cover: Adekunle Gold",
+  "description": "A perfect link up to soundtrack your day. Cover: Joshua Baraka",
   "name": "The ACS",
   "tracks": [
     {
@@ -1116,6 +1116,24 @@
       "duration_ms": 166349,
       "name": "Best Service",
       "url": "https://open.spotify.com/track/5244Ci4k7GqEFBhTCm5nMr"
+    },
+    {
+      "album": {
+        "name": "BIG 45",
+        "url": "https://open.spotify.com/album/60SiKHElErD0EPxgU53Qjg"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224763,
+      "name": "BIG 45",
+      "url": "https://open.spotify.com/track/4DspPUPn1uLYAEJSBfvPar"
     },
     {
       "album": {
@@ -2952,6 +2970,28 @@
       "duration_ms": 151304,
       "name": "Disturbing U",
       "url": "https://open.spotify.com/track/1QVJ9U10mJncHAyHVXkFNZ"
+    },
+    {
+      "album": {
+        "name": "Dive In",
+        "url": "https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195589,
+      "name": "Dive In",
+      "url": "https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A"
     },
     {
       "album": {
@@ -6090,7 +6130,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 131307,
       "name": "Ladida",
       "url": "https://open.spotify.com/track/0UewHkoEkSW2cbpNbLPI4F"
@@ -11488,7 +11528,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 144000,
       "name": "Too Many Gyal",
       "url": "https://open.spotify.com/track/3r0rGo4TblXrpK804La3xP"

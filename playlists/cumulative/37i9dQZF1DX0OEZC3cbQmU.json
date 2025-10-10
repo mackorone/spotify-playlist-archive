@@ -2161,7 +2161,25 @@
     },
     {
       "album": {
-        "name": "Nada Mais",
+        "name": "Ele \u00c9 Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1HkiodWGSRocxPIye85Feo"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328753,
+      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4a93j42XAyX9tfR3lIlMLB"
+    },
+    {
+      "album": {
+        "name": "Nada Mais/Uma Vez",
         "url": "https://open.spotify.com/album/6gQlQS55W8vZ3bjTmByVa1"
       },
       "artists": [
@@ -2182,26 +2200,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 392184,
-      "name": "Nada Mais",
+      "name": "Nada Mais/Uma Vez",
       "url": "https://open.spotify.com/track/6iRxHMWx0ACA8NoDZ8NN60"
-    },
-    {
-      "album": {
-        "name": "Ele \u00c9 Jesus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1HkiodWGSRocxPIye85Feo"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "date_added": "2024-09-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 328753,
-      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4a93j42XAyX9tfR3lIlMLB"
     },
     {
       "album": {

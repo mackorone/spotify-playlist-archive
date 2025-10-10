@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aORYAAAAAADIh1zWAEpSwYD4loOWo3rR",
+  "snapshot_id": "aOWpgAAAAABU3DADxiuH2XFNiX5AzOEb",
   "tracks": [
     {
       "added_at": null,
@@ -115,22 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "emotional punching bag",
-        "url": "https://open.spotify.com/album/3znO7FnJGFImn1qGLpgOse"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 176030,
-      "name": "Emotional Punching Bag",
-      "url": "https://open.spotify.com/track/7yPgfPvs6aZ5EJ1ofwfpwL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "breakup with a friend",
         "url": "https://open.spotify.com/album/0CYC2EhUKwBOQzyroumu3i"
       },
@@ -147,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Make Bad Things Not Suck <3",
-        "url": "https://open.spotify.com/album/3Fu52oawbUjlB6z3MzH6t3"
+        "name": "emotional punching bag",
+        "url": "https://open.spotify.com/album/3znO7FnJGFImn1qGLpgOse"
       },
       "artists": [
         {
@@ -156,25 +140,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 153627,
-      "name": "You Make Bad Things Not Suck <3",
-      "url": "https://open.spotify.com/track/3JcdYdKEo1mVvU4rGHl738"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Gospel According to Meg Smith",
-        "url": "https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 178743,
-      "name": "blasphemy!",
-      "url": "https://open.spotify.com/track/2v52pN6TZkYsmbafLvOYLk"
+      "duration_ms": 176030,
+      "name": "Emotional Punching Bag",
+      "url": "https://open.spotify.com/track/7yPgfPvs6aZ5EJ1ofwfpwL"
     },
     {
       "added_at": null,
@@ -195,6 +163,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Gospel According to Meg Smith",
+        "url": "https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 181749,
+      "name": "emotional affair",
+      "url": "https://open.spotify.com/track/4C0JASInf8x6Z9MNAmsQb7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All the Things You'd Ruin",
         "url": "https://open.spotify.com/album/3TduRYFyJAvXcA2TdwMFbv"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 166046,
       "name": "All the Things You'd Ruin",
       "url": "https://open.spotify.com/track/2VFIq4o2PFqddHWsDQe50c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Make Bad Things Not Suck <3",
+        "url": "https://open.spotify.com/album/3Fu52oawbUjlB6z3MzH6t3"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 153627,
+      "name": "You Make Bad Things Not Suck <3",
+      "url": "https://open.spotify.com/track/3JcdYdKEo1mVvU4rGHl738"
     },
     {
       "added_at": null,
@@ -240,25 +240,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 181749,
-      "name": "emotional affair",
-      "url": "https://open.spotify.com/track/4C0JASInf8x6Z9MNAmsQb7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One Hit Wonder",
-        "url": "https://open.spotify.com/album/0gENvRT2jAQJonb6sC6W22"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 200345,
-      "name": "One Hit Wonder",
-      "url": "https://open.spotify.com/track/314tXKMiK9aOSezLoyiCSN"
+      "duration_ms": 178743,
+      "name": "blasphemy!",
+      "url": "https://open.spotify.com/track/2v52pN6TZkYsmbafLvOYLk"
     },
     {
       "added_at": null,
@@ -275,6 +259,22 @@
       "duration_ms": 145674,
       "name": "Cautiously Optimistic",
       "url": "https://open.spotify.com/track/5DnCw5nWO9DnDIAhn96gx2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Hit Wonder",
+        "url": "https://open.spotify.com/album/0gENvRT2jAQJonb6sC6W22"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 200345,
+      "name": "One Hit Wonder",
+      "url": "https://open.spotify.com/track/314tXKMiK9aOSezLoyiCSN"
     },
     {
       "added_at": null,
@@ -368,7 +368,7 @@
       "added_at": null,
       "album": {
         "name": "The Gospel According to Meg Smith",
-        "url": "https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S"
+        "url": "https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa"
       },
       "artists": [
         {
@@ -378,7 +378,7 @@
       ],
       "duration_ms": 188562,
       "name": "you fake your british accent",
-      "url": "https://open.spotify.com/track/7BzOTBSCGMxwOQsrMPUC2W"
+      "url": "https://open.spotify.com/track/71Re6FOwC7aVe8Qclktmqp"
     },
     {
       "added_at": null,
@@ -432,7 +432,7 @@
       "added_at": null,
       "album": {
         "name": "The Gospel According to Meg Smith",
-        "url": "https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S"
+        "url": "https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 177808,
-      "name": "DO YOU LIKE ME?",
-      "url": "https://open.spotify.com/track/6lxeT761ZTSkwaEDfQnc1F"
+      "duration_ms": 148357,
+      "name": "cupids on cocaine",
+      "url": "https://open.spotify.com/track/1a8I2Xf2oz9wUcYUJq5vxF"
     }
   ],
   "unique_name": "This Is Meg Smith",

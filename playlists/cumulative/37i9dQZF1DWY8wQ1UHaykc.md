@@ -2,9 +2,9 @@
 
 ### [Ngetren di 2010an](https://open.spotify.com/playlist/37i9dQZF1DWY8wQ1UHaykc)
 
-> Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Noah
+> Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Fatin
 
-207 songs - 14 hr 11 min
+208 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Dengan Caraku](https://open.spotify.com/track/6zZMfagNj5Nr8rSdJ9KLqq) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb) | [Dengan Caraku](https://open.spotify.com/album/6lfnTiXmRbPWrK40luaKFo) | 4:32 | 2024-01-05 |  |
 | [Di Ujung Jalan](https://open.spotify.com/track/70GUGyk1sJYFTqZpSJj2KM) | [SAMSONS](https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp) | [Perihal Besar](https://open.spotify.com/album/1gZqKq1K0GzN6eFaEpDFcS) | 3:53 | 2025-06-13 |  |
 | [Dia](https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [Dia](https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq) | 3:27 | 2024-01-05 |  |
+| [Dia Dia Dia](https://open.spotify.com/track/7htWuazarn407jLZTQZp8P) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC) | [For You](https://open.spotify.com/album/5PXJbCIr2BoUHJq5FIDpMd) | 4:26 | 2025-10-09 |  |
 | [Dibawah Langit Yang Sama](https://open.spotify.com/track/0cXXuhy5D6A13IMcnN3bSm) | [D’MASIV](https://open.spotify.com/artist/1hioeMAsVwJ3bvcb9lxBpB) | [D'MASIV](https://open.spotify.com/album/5cwcX4LiPK7rjbAHc8EvMb) | 3:54 | 2024-01-05 |  |
 | [Dilema](https://open.spotify.com/track/3cqBNjjGjtKer3jWHCPIUC) | [Cherrybelle](https://open.spotify.com/artist/2oXCgnN1W8fMfNu2mHVgSz) | [Cherrybelle Compilation Album](https://open.spotify.com/album/1wqcpQnLri0fjAPgbmHSao) | 4:02 | 2024-01-05 |  |
 | [Duka](https://open.spotify.com/track/5MIpcd16T59wFeqAChSYwC) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288) | [Duka](https://open.spotify.com/album/6RUEyCnpcBsm3uSv08NY8q) | 5:25 | 2024-01-05 |  |

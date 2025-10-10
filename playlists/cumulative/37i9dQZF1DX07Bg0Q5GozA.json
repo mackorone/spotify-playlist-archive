@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Magdalena Bay",
+  "description": "New music off the beaten track. Cover: L\u2019Imp\u00e9ratrice",
   "name": "OFF POP",
   "tracks": [
     {
@@ -2115,6 +2115,24 @@
     },
     {
       "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/0Ec1kkdXl9Sxc5XB7SDt1W"
+      },
+      "artists": [
+        {
+          "name": "orbit",
+          "url": "https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/7417sWBafxcD9NxZ7DbSMW"
+    },
+    {
+      "album": {
         "name": "USB",
         "url": "https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n"
       },
@@ -3385,6 +3403,28 @@
     },
     {
       "album": {
+        "name": "chrysalis",
+        "url": "https://open.spotify.com/album/0zkgQvE9joKuS4NsRrCwUS"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Louve",
+          "url": "https://open.spotify.com/artist/3x5sBirhNbWXVt1DwivDOI"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240661,
+      "name": "chrysalis",
+      "url": "https://open.spotify.com/track/1CyqOIcejpX5Zqzw5BRHFb"
+    },
+    {
+      "album": {
         "name": "Cinderblock",
         "url": "https://open.spotify.com/album/0rGPPNjLXKGxrqY6m3dYXr"
       },
@@ -3708,7 +3748,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 209840,
       "name": "Comfort Zone",
       "url": "https://open.spotify.com/track/7tAZWSktCF92ECu4wVCa6P"
@@ -3930,7 +3970,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 252929,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ"
@@ -6756,7 +6796,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 187425,
       "name": "Eyes On Me",
       "url": "https://open.spotify.com/track/20IpNzbtULCapFWVX2Shhb"
@@ -8243,6 +8283,28 @@
     },
     {
       "album": {
+        "name": "Fourteen",
+        "url": "https://open.spotify.com/album/1DLrpRrBvtDiUoknMymqdd"
+      },
+      "artists": [
+        {
+          "name": "Teenager",
+          "url": "https://open.spotify.com/artist/4vXxxiqmySa5LxGESBj5PB"
+        },
+        {
+          "name": "Ladyhawke",
+          "url": "https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160024,
+      "name": "Getting Tough",
+      "url": "https://open.spotify.com/track/7tsmyrCTNVGZGw2lW5nki9"
+    },
+    {
+      "album": {
         "name": "Ghosting You",
         "url": "https://open.spotify.com/album/3WeBR68oYmMu5s6ITJMduo"
       },
@@ -9685,6 +9747,28 @@
     },
     {
       "album": {
+        "name": "hold.",
+        "url": "https://open.spotify.com/album/3L86fiediuwDmM8PCkkWpy"
+      },
+      "artists": [
+        {
+          "name": "KANTEREIT",
+          "url": "https://open.spotify.com/artist/1esFaOBWejURSnt8DV8jms"
+        },
+        {
+          "name": "Cile",
+          "url": "https://open.spotify.com/artist/2H3Kz86BpeYh2U06kBhBC8"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190101,
+      "name": "hold.",
+      "url": "https://open.spotify.com/track/36owiHjuvdDG5lswUTxYwp"
+    },
+    {
+      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/3DlDSdRo6uSnTzNzlj5B2Z"
       },
@@ -10202,7 +10286,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 109604,
       "name": "I could sleep all day",
       "url": "https://open.spotify.com/track/1vHRM4eM40KpwwPYBGK0l4"
@@ -10380,6 +10464,24 @@
       "duration_ms": 153289,
       "name": "I Know, I Know",
       "url": "https://open.spotify.com/track/6NWBt3dF86G49ZL9Cg3DUm"
+    },
+    {
+      "album": {
+        "name": "I Like It Like That",
+        "url": "https://open.spotify.com/album/4fSeCHsY6f1o4ccUxC7FRT"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173772,
+      "name": "I Like It Like That",
+      "url": "https://open.spotify.com/track/70EG3KoKRu3jvsBlFVZYkJ"
     },
     {
       "album": {
@@ -12982,7 +13084,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 213431,
       "name": "Look For You",
       "url": "https://open.spotify.com/track/7GgDTBz5u5qTVyQJTE6wco"
@@ -13910,7 +14012,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 161643,
       "name": "Makes Me Wanna Dance",
       "url": "https://open.spotify.com/track/0wLCc3EWV2CV6mb9Nz40hH"
@@ -14132,7 +14234,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 252263,
       "name": "Math Equation",
       "url": "https://open.spotify.com/track/1RjGC8HWmT4fZ2lyqyIeCA"
@@ -16056,7 +16158,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 177847,
       "name": "Nothing lasts forever",
       "url": "https://open.spotify.com/track/2GDDNbGKScs6UcJedN1467"
@@ -18272,7 +18374,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 145414,
       "name": "Run",
       "url": "https://open.spotify.com/track/4kguxrtCzVSiSu5xUK6k4x"
@@ -19561,6 +19663,24 @@
     },
     {
       "album": {
+        "name": "Siren Song",
+        "url": "https://open.spotify.com/album/4imrVUWH3hFEY9qzX5MCuH"
+      },
+      "artists": [
+        {
+          "name": "Austra",
+          "url": "https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217645,
+      "name": "Siren Song",
+      "url": "https://open.spotify.com/track/0GRUpGySzN9XxBzGZuEahK"
+    },
+    {
+      "album": {
         "name": "Faux Ever",
         "url": "https://open.spotify.com/album/4wHreOaJHETkJl1GhBzbP7"
       },
@@ -20511,6 +20631,32 @@
     },
     {
       "album": {
+        "name": "Still Glowin'",
+        "url": "https://open.spotify.com/album/5rB86xKcD9XQzliCnO0peU"
+      },
+      "artists": [
+        {
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        },
+        {
+          "name": "Silk Ribbons",
+          "url": "https://open.spotify.com/artist/1vUhA1WvlT28qVbHrXy6Za"
+        },
+        {
+          "name": "Queen Magic",
+          "url": "https://open.spotify.com/artist/2l8Tq6BJXM577DlQtIlNsa"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211603,
+      "name": "Still Glowin'",
+      "url": "https://open.spotify.com/track/6EUXgThLUGynNxNdZI4Pu8"
+    },
+    {
+      "album": {
         "name": "Still Riding",
         "url": "https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172"
       },
@@ -21408,6 +21554,28 @@
       "duration_ms": 242115,
       "name": "Take Your Time (Do It Right)",
       "url": "https://open.spotify.com/track/76cVBDPi7Z9ZA74OBow3kY"
+    },
+    {
+      "album": {
+        "name": "Taking All My Clothes Off",
+        "url": "https://open.spotify.com/album/2u9cdZ95vCYtXLKyL6QQw1"
+      },
+      "artists": [
+        {
+          "name": "Gerry Read",
+          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
+        },
+        {
+          "name": "Gregor",
+          "url": "https://open.spotify.com/artist/4cQV9Quvukdz10uvagLMwg"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Taking All My Clothes Off",
+      "url": "https://open.spotify.com/track/0a1BTzQAc7NuYreRDWMV63"
     },
     {
       "album": {
@@ -22490,7 +22658,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 181002,
       "name": "Til The Morning Comes",
       "url": "https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV"
@@ -23817,6 +23985,28 @@
     },
     {
       "album": {
+        "name": "viscus (feat. FKA twigs)",
+        "url": "https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        },
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220534,
+      "name": "viscus (feat. FKA twigs)",
+      "url": "https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20"
+    },
+    {
+      "album": {
         "name": "Visions Of Pain (Tim Goldsworthy Remix)",
         "url": "https://open.spotify.com/album/1XUA6dEi6ydxqo52gqKcf5"
       },
@@ -23836,6 +24026,24 @@
       "duration_ms": 446294,
       "name": "Visions Of Pain - Tim Goldsworthy Remix",
       "url": "https://open.spotify.com/track/0vE2ANol5kgvLeGgy2rF9v"
+    },
+    {
+      "album": {
+        "name": "HUMANiSE",
+        "url": "https://open.spotify.com/album/0iIR2PTnqaYmsfIadlObCe"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338262,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/34MI5P1Rh1VTlQjHbvg0j6"
     },
     {
       "album": {
@@ -25246,7 +25454,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 242437,
       "name": "You",
       "url": "https://open.spotify.com/track/3VtQjrv6HWQKf3fuJsPfim"

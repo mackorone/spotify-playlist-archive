@@ -4,7 +4,7 @@
 
 > ディズニーの人気曲を集めた公式プレイリスト♪<br/>ディズニー・アニメーション最新作『モアナと伝説の海2』の楽曲から、『アナと雪の女王』、『アラジン』、『ライオン・キング』等をセレクト！
 
-294 songs - 16 hr 27 min
+295 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [You’ll Be in My Heart](https://open.spotify.com/track/6RUYZ7CFgIPbaNTJxYHT8l) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [HIRAIDAI plays DISNEY](https://open.spotify.com/album/2H6CcHK9u8IfG2BdgE9EBP) | 4:12 | 2025-08-18 |  |
 | [Yume Made Ato Sukoshi \- Japanese Version](https://open.spotify.com/track/3zESmhpwKepaSFsQ3jJRQY) | [Honoka Suzuki](https://open.spotify.com/artist/21dcXRiXjtW1CCVn5ju3Qv) | [The Princess and the Frog \(Original Motion Picture Soundtrack/Japan Release Version\)](https://open.spotify.com/album/2IaEl9NmzkiLSeZVqHM1xR) | 2:25 | 2022-12-28 | 2025-08-19 |
 | [Zero to Hero \- Japanese Version](https://open.spotify.com/track/1pIynPOpqprpV4WguxHFIy) | [Atsuko Takezawa](https://open.spotify.com/artist/2KVTrDvZkFSOl6M1oYrKQk), [Erika Shiraishi](https://open.spotify.com/artist/1euCVeKI4NelbAlR8b3OFY), [Hozumi Shibata](https://open.spotify.com/artist/06vefHJeIRX6MyiSAN1HRI), [Mayumi Makino](https://open.spotify.com/artist/1zBroaNdRSeOVZSsVFFO2K), [Yukari Fujii](https://open.spotify.com/artist/6B3McgP0XC4PItUSOnMbuJ) | [Hercules \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/7EmZAi08IILcveityNOOg7) | 2:18 | 2022-12-28 |  |
+| [Zoo \- From "Zootopia 2"](https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zoo \(From "Zootopia 2"\)](https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa) | 3:10 | 2025-10-09 |  |
 | [タイム・トゥ・シャイン！ \- 東京ディズニーシー20周年：タイム・トゥ・シャイン！テーマソング](https://open.spotify.com/track/4eyqMs4aOzKQTKs7iGJD8Y) | [Tokyo DisneySea](https://open.spotify.com/artist/2g9DwrKeZdqfveNl05NfBV) | [タイム・トゥ・シャイン！ \(東京ディズニーシー20周年：タイム・トゥ・シャイン！テーマソング\)](https://open.spotify.com/album/7se4Oq7PqvUJk24q3GFACl) | 3:21 | 2022-12-28 |  |
 | [レット・イット・ゴー～ありのままで～ \- Japanese Version](https://open.spotify.com/track/3uQWsXVaSbY6938V3tJQh3) | [Takako Matsu](https://open.spotify.com/artist/1UDGHCGnWyikwidtaymNpz) | [Let It Go The Complete Set \(From “Frozen”\)](https://open.spotify.com/album/7q2jd3qhtvWlV6H22h2AGe) | 3:43 | 2022-12-28 | 2024-04-19 |
 | [映画『ウィッシュ』 アーシャ役（日本版声優）生田絵梨花 コメント](https://open.spotify.com/track/2yp1HUTF9fcv3ReIWr2KmP) | [映画『ウィッシュ』](https://open.spotify.com/artist/3k7F0Acqg8IeqpZvlQlrHX) | [映画『ウィッシュ』 アーシャ役（日本版声優）生田絵梨花 コメント](https://open.spotify.com/album/5xNHDQYEiG51CQ23P0nXr7) | 0:49 | 2023-10-29 | 2024-08-31 |

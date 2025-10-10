@@ -2,7 +2,7 @@
 
 ### [Hipster Radar](https://open.spotify.com/playlist/2umCBfeu8eSYbJk0GQwDrZ)
 
-> Stay current with the latest indie\-alt tracks\. Cover: Myles Smtih.
+> Stay current with the latest indie\-alt tracks\. Cover: Tame Impala.
 
 976 songs - 2 day 6 hr 16 min
 

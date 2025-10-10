@@ -685,6 +685,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199246,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/6UxvtR5RrvJSeEvgAj7nkD"
+    },
+    {
+      "album": {
         "name": "Blessings und Blessure",
         "url": "https://open.spotify.com/album/6zCrTvmmHRFQJGIVH7nErA"
       },
@@ -1248,7 +1266,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 172486,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/5hkOl3aXRWS6Z5kLT3DUm7"
@@ -1356,7 +1374,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 164089,
       "name": "Coastline",
       "url": "https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV"
@@ -1602,7 +1620,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 158838,
       "name": "Descontrol",
       "url": "https://open.spotify.com/track/2USP7uCFfx4BFm8KXual18"
@@ -2840,6 +2858,28 @@
       "duration_ms": 215300,
       "name": "Heal Me",
       "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
+    },
+    {
+      "album": {
+        "name": "Hearts",
+        "url": "https://open.spotify.com/album/3IfVbIR03pexJlKuaahH4U"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        },
+        {
+          "name": "Luke Noa",
+          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148410,
+      "name": "Hearts",
+      "url": "https://open.spotify.com/track/6axZOetpYj6MTQlosgY6Ez"
     },
     {
       "album": {
@@ -4629,6 +4669,24 @@
     },
     {
       "album": {
+        "name": "mistaken for a while (OST Hundertdreizehn)",
+        "url": "https://open.spotify.com/album/6j5RVTiV6OQZCGiumQiz5Z"
+      },
+      "artists": [
+        {
+          "name": "The Gardener & The Tree",
+          "url": "https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310489,
+      "name": "mistaken for a while - OST Hundertdreizehn",
+      "url": "https://open.spotify.com/track/4TecP7nifEow1WTBQaKuhh"
+    },
+    {
+      "album": {
         "name": "Mond",
         "url": "https://open.spotify.com/album/12IgBWXsy2s0UJggqj5OtH"
       },
@@ -5472,7 +5530,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 206200,
       "name": "redwhite (Offical Swiss Women\u2019s National Team Song)",
       "url": "https://open.spotify.com/track/4BkvyubYBez4o0uHGkhE71"
@@ -5942,6 +6000,24 @@
       "duration_ms": 149960,
       "name": "she calls me daddy",
       "url": "https://open.spotify.com/track/6411vwtWuPOLhAy4eipNOC"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176733,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/64DAkoW3n3vD48E7i19K8Z"
     },
     {
       "album": {

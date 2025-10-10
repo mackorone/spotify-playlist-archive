@@ -296,7 +296,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 181176,
       "name": "Abena",
       "url": "https://open.spotify.com/track/4KEBHEiQve5RAIgX1LPYzw"
@@ -318,6 +318,28 @@
       "duration_ms": 142140,
       "name": "Abena",
       "url": "https://open.spotify.com/track/12ZauZJSO1DbNcaFI1qr6c"
+    },
+    {
+      "album": {
+        "name": "About Us",
+        "url": "https://open.spotify.com/album/11TkaFcpWOGGf2rYuXbspT"
+      },
+      "artists": [
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177773,
+      "name": "About Us (with Qing Madi)",
+      "url": "https://open.spotify.com/track/4azm407NNKTVQpXFTk3v0h"
     },
     {
       "album": {
@@ -350,7 +372,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 160363,
       "name": "ADA",
       "url": "https://open.spotify.com/track/2kakVmaqgHWrVs0hUxLvEH"
@@ -3987,6 +4009,28 @@
     },
     {
       "album": {
+        "name": "Dive In",
+        "url": "https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195589,
+      "name": "Dive In",
+      "url": "https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A"
+    },
+    {
+      "album": {
         "name": "NAKAMURA",
         "url": "https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko"
       },
@@ -4056,6 +4100,24 @@
       "duration_ms": 147174,
       "name": "Do You Mind?",
       "url": "https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX"
+    },
+    {
+      "album": {
+        "name": "Don Dada",
+        "url": "https://open.spotify.com/album/56HttwqWzMu3fMWuTFL54g"
+      },
+      "artists": [
+        {
+          "name": "Kaesa",
+          "url": "https://open.spotify.com/artist/76PFftzWrjvqCadZiIVZGg"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Don Dada",
+      "url": "https://open.spotify.com/track/3rxqAUgjZ7heyD8tElbBXD"
     },
     {
       "album": {
@@ -7703,6 +7765,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/46mrUnUMPFqp7zWF5f3hL7"
+    },
+    {
+      "album": {
         "name": "Jesus Christ",
         "url": "https://open.spotify.com/album/0g81DgWVnrSCOuOjLg3nyB"
       },
@@ -7892,7 +7972,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 157714,
       "name": "K.O.K",
       "url": "https://open.spotify.com/track/1jS5C5fntvTGsoq3khJ8Pa"
@@ -13609,6 +13689,28 @@
     },
     {
       "album": {
+        "name": "Ring",
+        "url": "https://open.spotify.com/album/3rlRxf9KHAJ1OWjRbCQ5vg"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155866,
+      "name": "Ring",
+      "url": "https://open.spotify.com/track/1uREOYREV020F3QOGENSMI"
+    },
+    {
+      "album": {
         "name": "Stubborn",
         "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
       },
@@ -15340,7 +15442,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 144000,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/7znhEiBAWpIx8WB2G926rh"
@@ -17556,7 +17658,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 156600,
       "name": "Your Type",
       "url": "https://open.spotify.com/track/11jGNXZHEsZfknf2fNUNXg"

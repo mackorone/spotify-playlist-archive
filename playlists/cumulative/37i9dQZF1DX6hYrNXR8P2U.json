@@ -2194,7 +2194,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 175480,
       "name": "CRASHOUT",
       "url": "https://open.spotify.com/track/5aTuLDuY1gOnY7DavzaNbA"
@@ -3602,7 +3602,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 169776,
       "name": "Geezer",
       "url": "https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT"
@@ -6751,6 +6751,28 @@
     },
     {
       "album": {
+        "name": "La Novedad",
+        "url": "https://open.spotify.com/album/69dTKdSo6ptjqE7CAnZzdY"
+      },
+      "artists": [
+        {
+          "name": "La Femme D\u00b4Argent",
+          "url": "https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ"
+        },
+        {
+          "name": "Todo El Verano",
+          "url": "https://open.spotify.com/artist/36ql1hMBBeWfqeQmK5vXn9"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246085,
+      "name": "NQO",
+      "url": "https://open.spotify.com/track/3KqDiCklXovZa14fUIWeKk"
+    },
+    {
+      "album": {
         "name": "Nunca Lo Olvides",
         "url": "https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui"
       },
@@ -7824,7 +7846,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 223304,
       "name": "Prometeo",
       "url": "https://open.spotify.com/track/0R81aKE7jxs7gJZiBiPXh9"
@@ -8126,6 +8148,28 @@
       "duration_ms": 128001,
       "name": "RANDOM",
       "url": "https://open.spotify.com/track/5MWKgFwsd5tQNiq7O46XVP"
+    },
+    {
+      "album": {
+        "name": "La Gran Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/153GVkgZQGAAkRne4JRv6a"
+      },
+      "artists": [
+        {
+          "name": "Diosque",
+          "url": "https://open.spotify.com/artist/3Ib6KIEhkT9Funk4mqF4Lh"
+        },
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137051,
+      "name": "Reconquista",
+      "url": "https://open.spotify.com/track/4toaCw2wYBZCWRTHYBkAls"
     },
     {
       "album": {
@@ -10784,7 +10828,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 229504,
       "name": "\u00bfD\u00f3nde Est\u00e1 Mi Coraz\u00f3n?",
       "url": "https://open.spotify.com/track/3Wf1f9FWwtf7MDC5yNrG8m"

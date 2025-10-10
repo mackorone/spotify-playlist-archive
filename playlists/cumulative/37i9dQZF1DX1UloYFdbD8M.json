@@ -151,6 +151,28 @@
     },
     {
       "album": {
+        "name": "Aanandam Aanandame",
+        "url": "https://open.spotify.com/album/3aWkF9mfuR3jG3r7EPML1e"
+      },
+      "artists": [
+        {
+          "name": "Sithara Krishnakumar",
+          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
+        },
+        {
+          "name": "Sreejith Edavana",
+          "url": "https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212505,
+      "name": "Aanandam Aanandame",
+      "url": "https://open.spotify.com/track/5cKvhS5YD93kGRKCDav2eK"
+    },
+    {
+      "album": {
         "name": "Aare",
         "url": "https://open.spotify.com/album/5RQHOfd4nzZtJMBW3hL2XD"
       },
@@ -8174,7 +8196,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 176546,
       "name": "Thooveyil",
       "url": "https://open.spotify.com/track/2DPKPyfC6UKdQO0oLNQHdx"

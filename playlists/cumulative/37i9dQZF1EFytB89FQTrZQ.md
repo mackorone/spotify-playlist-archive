@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-556 songs - 1 day 7 hr 40 min
+557 songs - 1 day 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,8 @@
 | [Hickie](https://open.spotify.com/track/1ZA1fwhekZjbYO8QOaoSnG) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [Note to Self](https://open.spotify.com/album/7rFdqsJiYh3rFwR8r7Nn4Q) | 3:03 | 2022-09-08 |  |
 | [Hide \(feat\. Sinéad Harnett\)](https://open.spotify.com/track/4cHMt2GSdKUf9SePl5TvQI) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Home](https://open.spotify.com/album/2AOpbitJNMvKhSbsi2YD4F) | 6:01 | 2025-01-09 | 2025-04-12 |
 | [High](https://open.spotify.com/track/65rSUZKkb2OnQOJhTmq9Qs) | [Kate Stewart](https://open.spotify.com/artist/494OPqLjjEhjKil1G6MWho), [Jevon](https://open.spotify.com/artist/1cwNKCIuq12wLqAAsC1Zyi) | [High](https://open.spotify.com/album/2fUlrZ4s1trBJmugEvpz1u) | 3:45 | 2022-09-08 |  |
-| [High](https://open.spotify.com/track/01T0IodXbkQXBAiTzeH0PK) | [Zach Campbell](https://open.spotify.com/artist/1xj1EJ5Ugunq3L3Ff3sdPe) | [High](https://open.spotify.com/album/37kVRt7mwQ1rHHmXXYDxkw) | 3:31 | 2024-06-19 |  |
+| [High](https://open.spotify.com/track/01T0IodXbkQXBAiTzeH0PK) | [Zach Campbell](https://open.spotify.com/artist/1xj1EJ5Ugunq3L3Ff3sdPe) | [High](https://open.spotify.com/album/37kVRt7mwQ1rHHmXXYDxkw) | 3:31 | 2024-06-19 | 2025-10-10 |
+| [High](https://open.spotify.com/track/1eAhfzVmVbII6eWvOfD8Ax) | [Zach Campbell](https://open.spotify.com/artist/1xj1EJ5Ugunq3L3Ff3sdPe) | [High](https://open.spotify.com/album/5HsCOq8QRBnVMn1LksD9fb) | 3:31 | 2025-10-09 |  |
 | [Hold](https://open.spotify.com/track/6xw5MhprxsbnXINmOjEzuT) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Hold](https://open.spotify.com/album/0bbK5yLVZaXlboM8hq3DoV) | 3:26 | 2023-06-22 | 2023-12-14 |
 | [Hold On](https://open.spotify.com/track/1O2CwX5f6BI8rTa7pGl3ri) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U) | [Hold On](https://open.spotify.com/album/1YIPX4twAosalmT9aEgFkH) | 3:05 | 2025-01-09 | 2025-04-12 |
 | [Hold Tight](https://open.spotify.com/track/1MSDYFqzCsVkXAU5BgKs63) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb) | 3:37 | 2022-09-08 |  |

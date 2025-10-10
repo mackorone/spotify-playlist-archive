@@ -1,13 +1,185 @@
 {
-  "description": "The best rock songs of the moment. Cover: ROMES",
-  "num_followers": 194758,
+  "description": "The best rock songs of the moment. Cover: Yellowcard",
+  "num_followers": 194755,
   "original_name": "Rock Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHl5BWTQX9IJn/j4bbGbSc6AhH2C",
+  "snapshot_id": "AAAAALHFJgeUYC1YGHiqa66YN2Yavbhz",
   "tracks": [
+    {
+      "added_at": "2025-10-10 00:01:12",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 187249,
+      "name": "You Broke Me Too (feat. Avril Lavigne)",
+      "url": "https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp"
+    },
+    {
+      "added_at": "2025-10-10 00:01:12",
+      "album": {
+        "name": "Diamond In The Rough",
+        "url": "https://open.spotify.com/album/2sPtH5hMN0cH2ZHSfDLoIf"
+      },
+      "artists": [
+        {
+          "name": "Danko Jones",
+          "url": "https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW"
+        },
+        {
+          "name": "Marty Friedman",
+          "url": "https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p"
+        }
+      ],
+      "duration_ms": 216424,
+      "name": "Diamond In The Rough (feat. Marty Friedman)",
+      "url": "https://open.spotify.com/track/09wFyfVHuZRDbeFqeKeutK"
+    },
+    {
+      "added_at": "2025-10-10 00:01:12",
+      "album": {
+        "name": "Picture This",
+        "url": "https://open.spotify.com/album/5qVo7zKwNq8AlGrtCUdvFw"
+      },
+      "artists": [
+        {
+          "name": "Customer Service",
+          "url": "https://open.spotify.com/artist/0qnFuGvRmnVs96UbsYmg4x"
+        }
+      ],
+      "duration_ms": 176721,
+      "name": "Picture This",
+      "url": "https://open.spotify.com/track/65E1yqHKUQ0Jc6u4QJ0wZY"
+    },
+    {
+      "added_at": "2025-10-10 00:01:12",
+      "album": {
+        "name": "Time and Place",
+        "url": "https://open.spotify.com/album/1RgatMw3hwSTEqouk7k9og"
+      },
+      "artists": [
+        {
+          "name": "Excuse Me.",
+          "url": "https://open.spotify.com/artist/4dM5ORquq4Wp41hQaqZLy5"
+        }
+      ],
+      "duration_ms": 215789,
+      "name": "End for a Start",
+      "url": "https://open.spotify.com/track/2Bg0MIq5tFpnGoHnegzYQQ"
+    },
+    {
+      "added_at": "2025-10-10 00:01:12",
+      "album": {
+        "name": "Exit / Bitter, Bitter You",
+        "url": "https://open.spotify.com/album/1fCc6uZ4bj9oxZDI5ncJWe"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "duration_ms": 384946,
+      "name": "Exit",
+      "url": "https://open.spotify.com/track/4GbGKc3jakgK0AuU2MWHRB"
+    },
+    {
+      "added_at": "2025-10-10 00:01:12",
+      "album": {
+        "name": "Wall",
+        "url": "https://open.spotify.com/album/7ufpxMS1NN9oKiQllWLZ1a"
+      },
+      "artists": [
+        {
+          "name": "Good Kid",
+          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
+        }
+      ],
+      "duration_ms": 171049,
+      "name": "Wall",
+      "url": "https://open.spotify.com/track/2u0Sv7w9CQCkJdViAoM5AX"
+    },
+    {
+      "added_at": "2025-10-10 00:01:12",
+      "album": {
+        "name": "Ties That Bind (feat. Courtney LaPlante of Spiritbox)",
+        "url": "https://open.spotify.com/album/7KkQ2wX2VoNoEyFCfRzHwO"
+      },
+      "artists": [
+        {
+          "name": "2XKO",
+          "url": "https://open.spotify.com/artist/2jexkdFS1qPCzcyeOqq2fq"
+        },
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        },
+        {
+          "name": "Courtney LaPlante",
+          "url": "https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs"
+        },
+        {
+          "name": "Joe Ford",
+          "url": "https://open.spotify.com/artist/32rwroseSEZ7dEwooAUikF"
+        }
+      ],
+      "duration_ms": 231848,
+      "name": "Ties That Bind (feat. Courtney LaPlante of Spiritbox)",
+      "url": "https://open.spotify.com/track/75AOHT6wkAr1XzaXTZiK6o"
+    },
+    {
+      "added_at": "2025-10-10 00:01:12",
+      "album": {
+        "name": "Neighbourhood Watch",
+        "url": "https://open.spotify.com/album/0Epcs2rvJeqRqNR4UJYiGQ"
+      },
+      "artists": [
+        {
+          "name": "DoFlame",
+          "url": "https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc"
+        },
+        {
+          "name": "DEAR-GOD",
+          "url": "https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO"
+        }
+      ],
+      "duration_ms": 133825,
+      "name": "Dementia",
+      "url": "https://open.spotify.com/track/2lGVVw8dk9Az3riqrxvu7J"
+    },
+    {
+      "added_at": "2025-10-10 00:01:12",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "The Rasmus",
+          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+        },
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/6qfhEaDclQ4LY2njxWQ3pv"
+    },
     {
       "added_at": "2025-10-03 00:01:12",
       "album": {
@@ -1369,74 +1541,6 @@
       "url": "https://open.spotify.com/track/6JETZ58xlV6YGNQWLj2T0A"
     },
     {
-      "added_at": "2025-08-22 00:01:31",
-      "album": {
-        "name": "We're Onto Something (feat. Zach Bryan)",
-        "url": "https://open.spotify.com/album/0qKyNTZc8qx2ZuuvXzoqb4"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        },
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 222721,
-      "name": "We're Onto Something (feat. Zach Bryan)",
-      "url": "https://open.spotify.com/track/3QTKTf9CGTzMKSu2NSoq8R"
-    },
-    {
-      "added_at": "2025-08-22 00:01:31",
-      "album": {
-        "name": "Songs in the Key of Yikes",
-        "url": "https://open.spotify.com/album/7fbUyRpnszNh7F5jhwIIlR"
-      },
-      "artists": [
-        {
-          "name": "Superchunk",
-          "url": "https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP"
-        }
-      ],
-      "duration_ms": 197466,
-      "name": "Care Less",
-      "url": "https://open.spotify.com/track/5Cr2ZPSUA9FhXn7EBIHXNc"
-    },
-    {
-      "added_at": "2025-08-22 00:01:31",
-      "album": {
-        "name": "Something In The Way",
-        "url": "https://open.spotify.com/album/2IFb4HOE1xWIe7J7dkBQKy"
-      },
-      "artists": [
-        {
-          "name": "Stephen Wilson Jr.",
-          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
-        }
-      ],
-      "duration_ms": 302592,
-      "name": "Something In The Way",
-      "url": "https://open.spotify.com/track/6mVU0hyCZt8pL1qqPAf32l"
-    },
-    {
-      "added_at": "2025-08-22 00:01:31",
-      "album": {
-        "name": "I Put My Makeup On",
-        "url": "https://open.spotify.com/album/2IIIYFAjws6ohSyjTykxzt"
-      },
-      "artists": [
-        {
-          "name": "Fionn",
-          "url": "https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt"
-        }
-      ],
-      "duration_ms": 186040,
-      "name": "I Put My Make Up On",
-      "url": "https://open.spotify.com/track/0kVGvCOBgPthnWD670nruh"
-    },
-    {
       "added_at": "2025-08-15 00:01:35",
       "album": {
         "name": "Believe Me",
@@ -1535,86 +1639,6 @@
       "duration_ms": 248840,
       "name": "milk of the madonna",
       "url": "https://open.spotify.com/track/2gcxuSpWOOGR0z0JGsPB7B"
-    },
-    {
-      "added_at": "2025-08-08 04:00:56",
-      "album": {
-        "name": "Motel Du Cap",
-        "url": "https://open.spotify.com/album/5IbeeWff9kyS6ZU67NdyQD"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 221037,
-      "name": "I Don\u2019t Work Here Anymore",
-      "url": "https://open.spotify.com/track/0VmGgo6i8HOmrp5y8qqBxQ"
-    },
-    {
-      "added_at": "2025-08-08 04:00:56",
-      "album": {
-        "name": "Everest",
-        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 262195,
-      "name": "Like A Woman Can",
-      "url": "https://open.spotify.com/track/2a938Z2yqpxHAyNLjJHymh"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "the devil wears converse",
-        "url": "https://open.spotify.com/album/3xPGzASX9K4oqca20EJMjO"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 159234,
-      "name": "the devil wears converse",
-      "url": "https://open.spotify.com/track/1inJ5Hljjm0o90sqIMn1rl"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "As Alive As You Need Me To Be",
-        "url": "https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 233562,
-      "name": "As Alive As You Need Me To Be",
-      "url": "https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "The Kids In The Crowd - Music From The Documentary Soundtrack",
-        "url": "https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO"
-      },
-      "artists": [
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        }
-      ],
-      "duration_ms": 194672,
-      "name": "Nothing Changes",
-      "url": "https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN"
     },
     {
       "added_at": "2025-08-01 04:00:28",

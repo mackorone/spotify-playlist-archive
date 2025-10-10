@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana, featuring Divyam Sodhi, Khwaab, Taaruk Raina and other exciting artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,836 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,959 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 41 | [forget your name](https://open.spotify.com/track/5HMJr3qOYf7Bjd58UNvGDY) | [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [forget your name](https://open.spotify.com/album/2ZwwjE0KXrvn5UnHXcbaR3) | 3:55 |
 | 42 | [ahista](https://open.spotify.com/track/1mxLwT8SQWz67LrWRkIKV4) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [rang](https://open.spotify.com/album/4GPA5RIUlzvOfyK9WNwwP7) | 3:29 |
 | 43 | [Safar](https://open.spotify.com/track/3JcSKPJ9vxMPtDS34jTI3x) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Akarsh Shetty](https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0) | [Safar](https://open.spotify.com/album/1L8LP2ANpB8HpY8a75WbaY) | 3:27 |
-| 44 | [Jaane Do Mujhe](https://open.spotify.com/track/5ObqmgGmM3qcLr2Ke5FtT4) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1) | [Jaane Do Mujhe](https://open.spotify.com/album/5hKv5HdcDLIvWnrAzLVelE) | 3:45 |
-| 45 | [Thokro Ke Dhabe](https://open.spotify.com/track/5NDD08apREZEiLlT3xKQEa) | [Rahgir](https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER) | [Thokro Ke Dhabe](https://open.spotify.com/album/29cJqwLp5LR97kCAtIjoNb) | 3:30 |
+| 44 | [Thokro Ke Dhabe](https://open.spotify.com/track/5NDD08apREZEiLlT3xKQEa) | [Rahgir](https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER) | [Thokro Ke Dhabe](https://open.spotify.com/album/29cJqwLp5LR97kCAtIjoNb) | 3:30 |
+| 45 | [Jaane Do Mujhe](https://open.spotify.com/track/5ObqmgGmM3qcLr2Ke5FtT4) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1) | [Jaane Do Mujhe](https://open.spotify.com/album/5hKv5HdcDLIvWnrAzLVelE) | 3:45 |
 | 46 | [Aadha Adhoora](https://open.spotify.com/track/4Nn9DFq3aybmKKp7tk9jYv) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Aadha Adhoora](https://open.spotify.com/album/5YWnke7xLv8imLicuEBpM5) | 2:55 |
 | 47 | [What Comes After](https://open.spotify.com/track/6KWu81kaN90xUHq4KuElpg) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl), [Neil Mukherjee](https://open.spotify.com/artist/3cR7HOfNj7hxOHFGPV6fUZ) | [What Comes After](https://open.spotify.com/album/2WCYkOcuI8Zm90iU3jfHEC) | 5:05 |
 | 48 | [Faza](https://open.spotify.com/track/7bNIiEn2iHswdljQHcQY5Q) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW), [Crustacean](https://open.spotify.com/artist/3657x7tvzI3LT8WPU0WuL2) | [Faza](https://open.spotify.com/album/2VKSUMvPriwzKyOGcsbG0w) | 3:02 |
 | 49 | [Khwaab](https://open.spotify.com/track/6QOda6PR8znCRv89uSyOr1) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK) | [Khwaab](https://open.spotify.com/album/1Q2W0Wh1meiaFywydsLZEJ) | 3:25 |
-| 50 | [Naked & Bare](https://open.spotify.com/track/1VAGv5XfmDFvDKVn95OyAq) | [Abhinav Saxena](https://open.spotify.com/artist/6DnllNEDcZEheXYPuDKM40), [Yana Fortep](https://open.spotify.com/artist/4duXZgsYpWEMR2EU13jror) | [Naked & Bare](https://open.spotify.com/album/7wO83xrwO1I2dcdnkvMIdB) | 3:25 |
+| 50 | [Yeh Duniya Jala Do \(Glittery Cut\)](https://open.spotify.com/track/4mOlo4BjwvHXae8ZoVQamA) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ), [Shikhar](https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9) | [Yeh Duniya Jala Do \(Glittery Cut\)](https://open.spotify.com/album/4aiVtIs3A0VBM5mHtYfV1D) | 3:38 |
 
 Snapshot ID: `AAAAAE8b3UjccDcy/0bkpaPItvTT3J1P`

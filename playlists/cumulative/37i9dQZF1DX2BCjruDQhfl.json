@@ -139,6 +139,44 @@
     },
     {
       "album": {
+        "name": "Act Like That",
+        "url": "https://open.spotify.com/album/0sXdwh193EpQVBUrEPctmw"
+      },
+      "artists": [
+        {
+          "name": "TJWAVE",
+          "url": "https://open.spotify.com/artist/2N42z0vPgDduoGlO4opnmV"
+        },
+        {
+          "name": "Dammie",
+          "url": "https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb"
+        },
+        {
+          "name": "Quina01",
+          "url": "https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw"
+        },
+        {
+          "name": "Sinco",
+          "url": "https://open.spotify.com/artist/1GEKTsDoAdwpTW21yMTDDD"
+        },
+        {
+          "name": "FJ",
+          "url": "https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49"
+        },
+        {
+          "name": "Gini",
+          "url": "https://open.spotify.com/artist/68EPalTRpL5bYo2wLqJ8NN"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160519,
+      "name": "Act Like That",
+      "url": "https://open.spotify.com/track/5QCjS1w9NqhB7NXKtN1MLM"
+    },
+    {
+      "album": {
         "name": "Aesthetic",
         "url": "https://open.spotify.com/album/3gJunBF6Rr9Nwi3CbdDM01"
       },
@@ -372,7 +410,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 152000,
       "name": "BETTER 4 U",
       "url": "https://open.spotify.com/track/7IeyqsxxaVk21xTlvhtZO6"
@@ -1446,6 +1484,24 @@
       "duration_ms": 159111,
       "name": "Je Maakt Me Gek",
       "url": "https://open.spotify.com/track/0XBkVcQuFE3kb6p9XdMDsM"
+    },
+    {
+      "album": {
+        "name": "Jij weet",
+        "url": "https://open.spotify.com/album/2UscDJUvz9POVtdIpALPKA"
+      },
+      "artists": [
+        {
+          "name": "Moony11",
+          "url": "https://open.spotify.com/artist/37FMKePANjyQqSJK36WpWN"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169975,
+      "name": "Jij weet",
+      "url": "https://open.spotify.com/track/6KYGPAJ7Ied3ydTz75br4g"
     },
     {
       "album": {
@@ -2674,7 +2730,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 227843,
       "name": "S\u00f3 Sodadi",
       "url": "https://open.spotify.com/track/0DVyY8f6620VYX5lH35l9Q"

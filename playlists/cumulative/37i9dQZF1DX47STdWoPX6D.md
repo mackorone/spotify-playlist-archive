@@ -4,7 +4,7 @@
 
 > The latest and the greatest of CHH!  Cover: Anike and Porsha Love
 
-860 songs - 1 day 15 hr 27 min
+861 songs - 1 day 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [FR \(Fo'Real\)](https://open.spotify.com/track/5tDAICqIsHqL3iJkabzA5d) | [Jaye Newton](https://open.spotify.com/artist/0jyLAdlvH1S5AZOly5c6TL) | [FR \(Fo'Real\)](https://open.spotify.com/album/4ZNm3HQscMsx9osd8EKUg5) | 3:27 | 2025-01-11 | 2025-03-01 |
 | [Free](https://open.spotify.com/track/6gmZZ6tLBlJ1fU9X6QpB0k) | [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Free](https://open.spotify.com/album/1ERf14KBAvrpHuoDCXCz4t) | 2:38 | 2024-06-12 | 2024-10-05 |
 | [Free](https://open.spotify.com/track/2CjkxzMN10ApkMcslepk3u) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Free](https://open.spotify.com/album/6BuVRusPGy2Tb8nAkB1wHn) | 1:57 | 2025-10-03 |  |
+| [Free](https://open.spotify.com/track/6KDeSFnvoYgaulyfMmZbpu) | [TELMAN](https://open.spotify.com/artist/1yUoEAx9505meg1nEyulne) | [Free](https://open.spotify.com/album/2LT3tPiJy1aM3l2sG8kQ6Z) | 2:23 | 2025-10-03 |  |
 | [FREE FROM SIN](https://open.spotify.com/track/1LoWRG43S9I8WKuiic1UCE) | [A3](https://open.spotify.com/artist/5hQa99PDLWHdKY7xc90hcq) | [FREE FROM SIN](https://open.spotify.com/album/2Lp9wWgklDmrzx4ckcyiR6) | 2:38 | 2025-05-09 | 2025-08-16 |
 | [FREQUENCY](https://open.spotify.com/track/0qyJm1l3cYJeSJpB4Os1RJ) | [Datin](https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4), [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV), [Ashley Robin](https://open.spotify.com/artist/6bsUmw7kNqkU5KBzmptete) | [FREQUENCY](https://open.spotify.com/album/6hEqahd7wZD9KwKgbmPzV6) | 3:33 | 2024-08-02 | 2024-12-14 |
 | [FRIEND OF GOD](https://open.spotify.com/track/4aldvsoEwjs87nTN3cCljs) | [Don Ryvcko](https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D) | [FRIEND OF GOD](https://open.spotify.com/album/72vPGQIkQ5Bjot4Rd6zsRC) | 2:09 | 2025-07-18 | 2025-09-20 |

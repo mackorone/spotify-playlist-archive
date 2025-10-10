@@ -4,7 +4,7 @@
 
 > 
 
-291 songs - 18 hr 10 min
+292 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Believe In The Music](https://open.spotify.com/track/6wWMGZA7Z123fqXqs0jHEt) | [Smith & Sorren](https://open.spotify.com/artist/0jr9KCoFLBpa8KJL0jRn3A), [Gjoka Drejaj](https://open.spotify.com/artist/0cdLiFs4CxNlZnv0UiWa8s) | [Believe In The Music](https://open.spotify.com/album/2puztJiytrjcdnKBJ4LvMD) | 3:54 | 2023-06-20 | 2025-10-06 |
 | [Big Talk](https://open.spotify.com/track/28wJwHEsUOnSDfoYi9OPkz) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Big Talk](https://open.spotify.com/album/4oWQgdwL4g852vzrqJ4ohp) | 2:40 | 2023-06-13 | 2025-10-06 |
 | [Black Punk \- Original Mix](https://open.spotify.com/track/1hayH8deS2B21rwlZAEbB5) | [Paul C](https://open.spotify.com/artist/4GsJmtonKVB04VUrQba43F), [Paolo Martini](https://open.spotify.com/artist/0ZYmYLMWtgp7vGzZRPURWN) | [Black Punk](https://open.spotify.com/album/6VSG3a7nSpxfMovn2tVf7Y) | 6:38 | 2023-01-17 | 2025-10-06 |
+| [Blessing \- Radio Edit](https://open.spotify.com/track/2VBkOp4t5N3Hh0lBQkxZIu) | [KATRIN KOVA](https://open.spotify.com/artist/64airxxenGDgE7GqpBu0jZ) | [Blessing](https://open.spotify.com/album/0TJr3sRpHNMIunanbWcagx) | 2:55 | 2025-10-09 |  |
 | [Bloom](https://open.spotify.com/track/0r7fd76SFP8FI50ZHrRld2) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [This Energy EP](https://open.spotify.com/album/6BhhDPtDrqadoXUT3y9FUU) | 3:43 | 2023-04-01 | 2025-10-06 |
 | [Bongoloco](https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Bongoloco](https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA) | 3:26 | 2023-01-29 | 2025-10-06 |
 | [Boom](https://open.spotify.com/track/3cnvgdGYUVbLtZ0QGybtOz) | [Illegal Music](https://open.spotify.com/artist/1GtUSudmcirmaUqcgBzu3u), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Boom](https://open.spotify.com/album/1F3QVrujklrgd4gICvRAzc) | 2:48 | 2023-07-01 | 2025-10-06 |

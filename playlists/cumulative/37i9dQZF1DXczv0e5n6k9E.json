@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Arab ",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: DIFF, XRS",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -691,6 +691,24 @@
     },
     {
       "album": {
+        "name": "ALEPOU",
+        "url": "https://open.spotify.com/album/03PfdPihxPMUX3HC8qcojr"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "ALEPOU",
+      "url": "https://open.spotify.com/track/6tVxDRTL0EnSL4ITFbv97R"
+    },
+    {
+      "album": {
         "name": "Alice",
         "url": "https://open.spotify.com/album/7sryFHQM84d8nzJ5I26Hxj"
       },
@@ -1054,7 +1072,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 123900,
       "name": "ATHINA",
       "url": "https://open.spotify.com/track/6KURM9fEiDWxHsepuicdx1"
@@ -2064,7 +2082,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 203478,
       "name": "CHAMPION",
       "url": "https://open.spotify.com/track/5cmhSubSiCwOWFnot12nNq"
@@ -3441,6 +3459,28 @@
     },
     {
       "album": {
+        "name": "EUROSHARK",
+        "url": "https://open.spotify.com/album/40dQziKXhl1W6LzhnFCpmW"
+      },
+      "artists": [
+        {
+          "name": "SOTT",
+          "url": "https://open.spotify.com/artist/4iusgX5y3xsAn824nywHVI"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178146,
+      "name": "EUROSHARK",
+      "url": "https://open.spotify.com/track/7JRewNHAApiynU6ep0FBt8"
+    },
+    {
+      "album": {
         "name": "FANTA",
         "url": "https://open.spotify.com/album/28Z5ChSUUkD9xuUjy9xuBq"
       },
@@ -4634,6 +4674,28 @@
       "duration_ms": 119153,
       "name": "HABIBI",
       "url": "https://open.spotify.com/track/0CPhqd0ZX0CUW2qU5uZP2q"
+    },
+    {
+      "album": {
+        "name": "HAYABUSA",
+        "url": "https://open.spotify.com/album/6HwurAZCw1kbg2C1ihbP8M"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189089,
+      "name": "HAYABUSA",
+      "url": "https://open.spotify.com/track/2LOCrebeoS8jVdHvGYWb7k"
     },
     {
       "album": {
@@ -9345,6 +9407,32 @@
     },
     {
       "album": {
+        "name": "ROVER",
+        "url": "https://open.spotify.com/album/6Jm5Sy7NEk9P7S0qprsAoJ"
+      },
+      "artists": [
+        {
+          "name": "RICO",
+          "url": "https://open.spotify.com/artist/6doYCdkdVHtb0zRQShHT9Z"
+        },
+        {
+          "name": "ASOK",
+          "url": "https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127346,
+      "name": "ROVER",
+      "url": "https://open.spotify.com/track/3bc4LJbL8BM34pD9yvbcOw"
+    },
+    {
+      "album": {
         "name": "RS",
         "url": "https://open.spotify.com/album/2aUa8H3JXICQfdC44ioD6z"
       },
@@ -9614,7 +9702,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 168125,
       "name": "Serial Skillers.",
       "url": "https://open.spotify.com/track/0Yf9iboLbRggE5US6tBvLA"
@@ -9702,6 +9790,28 @@
       "duration_ms": 132343,
       "name": "SHOOTER ME TN",
       "url": "https://open.spotify.com/track/37netkV0ymoeRg5qmwtmwW"
+    },
+    {
+      "album": {
+        "name": "KYSI\u03a9N 2",
+        "url": "https://open.spotify.com/album/3loUGq4ij27UrqVXBLikAX"
+      },
+      "artists": [
+        {
+          "name": "duKYS",
+          "url": "https://open.spotify.com/artist/2sodpTtk7UOG4z5ZtIHg89"
+        },
+        {
+          "name": "Billy Sio",
+          "url": "https://open.spotify.com/artist/29Bl0nvClztM0dpgY2vvcc"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177130,
+      "name": "SICK SIXAMILIA",
+      "url": "https://open.spotify.com/track/3TPERBFjI6WJXqpAWBVm4U"
     },
     {
       "album": {
@@ -11632,7 +11742,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 128741,
       "name": "XAROS",
       "url": "https://open.spotify.com/track/0drZEILXlqWqzpniZMZEbh"
@@ -11836,7 +11946,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 185259,
       "name": "YARIS",
       "url": "https://open.spotify.com/track/5W3p7nxRGAdKUio87vcTMX"

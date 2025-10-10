@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-623 songs - 2 day 3 hr 14 min
+624 songs - 2 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Any More](https://open.spotify.com/track/4ldre3NG3HbOSroRRm5lTP) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Jesus Music](https://open.spotify.com/album/5KC7lsKPZZs9d85B7kEGba) | 3:08 | 2023-11-24 | 2023-12-06 |
 | [Anytime Anyday](https://open.spotify.com/track/1anvi7u6XDv03ZoPQc8e4r) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Anytime Anyday](https://open.spotify.com/album/7HDwkbzwTBQUiQog0OjUGC) | 3:26 | 2024-06-07 | 2025-06-20 |
 | [Arise](https://open.spotify.com/track/5cxdZHcURCcJWwYnV0rNxk) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Glory](https://open.spotify.com/album/5tACiCnhsiZv8pM2nFZlck) | 4:57 | 2025-02-21 | 2025-06-27 |
-| [Atayamaliza](https://open.spotify.com/track/7nLXIEKcUuA4A4x2ciBauB) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Atayamaliza](https://open.spotify.com/album/1K6dsm4gy293nDwyXNbHUK) | 3:20 | 2025-09-12 |  |
+| [Atayamaliza](https://open.spotify.com/track/7nLXIEKcUuA4A4x2ciBauB) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Atayamaliza](https://open.spotify.com/album/1K6dsm4gy293nDwyXNbHUK) | 3:20 | 2025-09-12 | 2025-10-10 |
 | [ATOFARATI](https://open.spotify.com/track/5JJCORb7DGLOUpPxCcNCwi) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [ATOFARATI](https://open.spotify.com/album/2zOO5doG10OaVijVrqsgMT) | 9:05 | 2025-09-12 | 2025-10-03 |
 | [Atɛɛne \- Overturned](https://open.spotify.com/track/6QBZ7vR6VVWD9AhlJoyNNS) | [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Atɛɛne \(Overturned\)](https://open.spotify.com/album/5Gd51I4NMFyutpwZe0M5ju) | 4:38 | 2024-10-18 | 2025-05-30 |
 | [Awudeli Kimi \- Live At The Octagon / 2024](https://open.spotify.com/track/16SHtnLYIh8YXJE6d8BN30) | [Musa Yende](https://open.spotify.com/artist/04lvbGgTkiM8PjDktWQehd) | [Sustained By Grace](https://open.spotify.com/album/5RWsRd2bGY4sjXWC25emKV) | 8:46 | 2025-05-16 | 2025-06-27 |
@@ -74,6 +74,7 @@
 | [Baba](https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Baba](https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp) | 3:31 | 2024-04-05 | 2024-09-03 |
 | [Baba Ibeji](https://open.spotify.com/track/11L9IIVIAKloKykPmMUeD6) | [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [Baba Ibeji](https://open.spotify.com/album/65jLZyoYDzF5ch4AgO8cU2) | 4:14 | 2025-09-26 |  |
 | [Babylonia](https://open.spotify.com/track/6ctXUT5djvU3OE9AVxuab6) | [RACHL](https://open.spotify.com/artist/7GHCpCmmUgy7LRtIeo2uw3), [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy) | [Babylonia](https://open.spotify.com/album/6iHbMxKu2Doj3D1pOVFZdR) | 3:13 | 2025-05-16 | 2025-06-27 |
+| [Balogun \( the Army Commander \)](https://open.spotify.com/track/5vkJqTq7fFd2fchzQL4LuB) | [Pelumi Deborah](https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx), [Ibquake](https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u) | [Balogun \( the Army Commander \)](https://open.spotify.com/album/1N6f63MFhAL4jDdeSWivFw) | 9:55 | 2025-10-10 |  |
 | [BBTNTL](https://open.spotify.com/track/2oJktKr5udS1gtY8egIBPx) | [Xammie](https://open.spotify.com/artist/6Zc3JsghzKESNYD9CfAvqG) | [BBTNTL](https://open.spotify.com/album/1zdAcSx1879EaMTUB6j317) | 2:49 | 2024-02-16 | 2024-04-27 |
 | [Beautiful Thing](https://open.spotify.com/track/2cknVxUrW4KU6nvlqWcHaK) | [Wole Awolola](https://open.spotify.com/artist/12d2r8OZUkD46KXYvB1uez) | [Beautiful Thing](https://open.spotify.com/album/4PbdAXf6e5aecwIqEt21G1) | 5:20 | 2025-02-21 | 2025-03-07 |
 | [Belongs To You](https://open.spotify.com/track/4QI6Qba9iqc3XaqI5OSWrS) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG) | [Belongs To You](https://open.spotify.com/album/31g16Qly95t9uSQdt5MSOI) | 2:25 | 2025-07-04 | 2025-07-29 |
@@ -200,7 +201,7 @@
 | [GREAT AND MIGHTY](https://open.spotify.com/track/5UHI8GBPVcjN84itGHxVQF) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [DJ Ernesty](https://open.spotify.com/artist/0MGWyvcy2uXq5lVdATxcuj) | [GREAT AND MIGHTY](https://open.spotify.com/album/00H1U0v6a4YIIsa51RqMMm) | 2:55 | 2025-05-16 | 2025-06-20 |
 | [Great I Am](https://open.spotify.com/track/3y3x4S2SIinqdfSGn0gDF4) | [Prosper King](https://open.spotify.com/artist/60JSlzTzBBsoRxuDrI9x3A) | [Great I Am](https://open.spotify.com/album/1QwUFrZEGrQsiKAZtOM7co) | 4:42 | 2025-08-08 | 2025-08-30 |
 | [GREAT IS YOUR NAME](https://open.spotify.com/track/3kF3grLSpjIEY4PWGuAdwW) | [Pekkie Martynz](https://open.spotify.com/artist/2kBhUMGzobcyaJZIV8IS3s) | [GREAT IS YOUR NAME](https://open.spotify.com/album/5A00N0IrVMDAMoAvVNnSMl) | 5:15 | 2025-06-27 | 2025-07-15 |
-| [Greater](https://open.spotify.com/track/3TOHI2JXig0qnc1En5nvTI) | [Pompi](https://open.spotify.com/artist/4tl382ANaxAOVfjGysbiK8), [VOH](https://open.spotify.com/artist/0OmA11d6wVcqYWweVxXlJV) | [Greater](https://open.spotify.com/album/277xzl8jSqsZ9SQBXDG31e) | 6:02 | 2025-08-08 |  |
+| [Greater](https://open.spotify.com/track/3TOHI2JXig0qnc1En5nvTI) | [Pompi](https://open.spotify.com/artist/1Rkz7wbIgGz8wBCN8TsfKU), [VOH](https://open.spotify.com/artist/0OmA11d6wVcqYWweVxXlJV) | [Greater](https://open.spotify.com/album/277xzl8jSqsZ9SQBXDG31e) | 6:02 | 2025-08-08 |  |
 | [Halle](https://open.spotify.com/track/1HsDWJSDV3hc0573qofg1i) | [Eriko NWA](https://open.spotify.com/artist/2oDD4e0DMShnhGj7EyxoH1), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [Halle](https://open.spotify.com/album/62njw55XuD1H395a27sMtJ) | 2:14 | 2025-06-20 | 2025-06-27 |
 | [Halle \- Remix](https://open.spotify.com/track/3pYU8E6yHFDkWjsq97RlbH) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz), [Phindi P](https://open.spotify.com/artist/5dE89DuV6VJledFjwVjemU), [TWC](https://open.spotify.com/artist/2OzRLiRiuLhR5QkrwX8lQW) | [Halle \- Remix](https://open.spotify.com/album/2YeAPHd7mDzcnIdpoTeEwE) | 5:04 | 2024-07-26 | 2024-09-15 |
 | [Hallelujah](https://open.spotify.com/track/5edBgYe6nAPm24nNmitptV) | [Tamará](https://open.spotify.com/artist/5yWup2QHnXNBHR418cQl0m) | [Hallelujah](https://open.spotify.com/album/3yOxLm70FSd2aCA9MtO3NR) | 4:16 | 2025-05-30 |  |

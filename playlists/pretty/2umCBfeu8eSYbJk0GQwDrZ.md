@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 
 ### [Hipster Radar](https://open.spotify.com/playlist/2umCBfeu8eSYbJk0GQwDrZ)
 
-> Stay current with the latest indie\-alt tracks\. Cover: Myles Smtih.
+> Stay current with the latest indie\-alt tracks\. Cover: Tame Impala.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,058 likes - 99 songs - 5 hr 39 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,055 likes - 99 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 | 98 | [Lesbian Of The Year](https://open.spotify.com/track/2ZOSSD3DcxlKCsd3DCEeQb) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Lesbian Of The Year](https://open.spotify.com/album/2jxlwT7sZN9ios4LuXQSsW) | 3:33 |
 | 99 | [All Around Beauty](https://open.spotify.com/track/7MVlb6upghIcXkF1j2T6Jh) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [All Around Beauty](https://open.spotify.com/album/0N9MRzvIGu6e5KwDoxGFnC) | 2:52 |
 
-Snapshot ID: `AAAlhPt8LTkdgZs+6L3nFuxIJv1qdO5i`
+Snapshot ID: `AAAlhdFbrGp0OftUBG0gjJPF6THUwHW4`

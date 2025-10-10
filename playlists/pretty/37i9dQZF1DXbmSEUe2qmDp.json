@@ -1,6 +1,6 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Matheus Vargas",
-  "num_followers": 479032,
+  "num_followers": 479054,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2025-10-04 00:52:26",
       "album": {
+        "name": "Aqui N\u00e3o Passarinho",
+        "url": "https://open.spotify.com/album/5FOha8UP275jrNJu5K5u2e"
+      },
+      "artists": [
+        {
+          "name": "Thauane",
+          "url": "https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V"
+        }
+      ],
+      "duration_ms": 155409,
+      "name": "Aqui N\u00e3o Passarinho",
+      "url": "https://open.spotify.com/track/71iPheXSdoCF1BxgjwKo05"
+    },
+    {
+      "added_at": "2025-10-04 00:52:26",
+      "album": {
         "name": "Pernoite (Ao Vivo)",
         "url": "https://open.spotify.com/album/23Y3OOrhanr45POrAGCSAy"
       },
@@ -159,18 +175,18 @@
     {
       "added_at": "2025-10-04 00:52:26",
       "album": {
-        "name": "Aqui N\u00e3o Passarinho",
-        "url": "https://open.spotify.com/album/5FOha8UP275jrNJu5K5u2e"
+        "name": "Jornada",
+        "url": "https://open.spotify.com/album/1QqRgonnGnp02GdWxsmOYM"
       },
       "artists": [
         {
-          "name": "Thauane",
-          "url": "https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V"
+          "name": "Thayn\u00e1 Bitencourt",
+          "url": "https://open.spotify.com/artist/2EiiEzyH31Lo2TLUctc2B9"
         }
       ],
-      "duration_ms": 155409,
-      "name": "Aqui N\u00e3o Passarinho",
-      "url": "https://open.spotify.com/track/71iPheXSdoCF1BxgjwKo05"
+      "duration_ms": 135652,
+      "name": "Jornada",
+      "url": "https://open.spotify.com/track/28hGY9qA6qa4om2xsSBoHP"
     },
     {
       "added_at": "2025-10-04 00:52:26",
@@ -191,18 +207,22 @@
     {
       "added_at": "2025-10-04 00:52:26",
       "album": {
-        "name": "Jornada",
-        "url": "https://open.spotify.com/album/1QqRgonnGnp02GdWxsmOYM"
+        "name": "Corp\u00e3o Viol\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3chLfwkLdhy48Uw6OLW1gC"
       },
       "artists": [
         {
-          "name": "Thayn\u00e1 Bitencourt",
-          "url": "https://open.spotify.com/artist/2EiiEzyH31Lo2TLUctc2B9"
+          "name": "Pedro Sanchez e Thiago",
+          "url": "https://open.spotify.com/artist/6VBTBqiHqTgZuWflGadSW5"
+        },
+        {
+          "name": "Fiduma & Jeca",
+          "url": "https://open.spotify.com/artist/2h73KyGixa4A1xlhcxjpG1"
         }
       ],
-      "duration_ms": 135652,
-      "name": "Jornada",
-      "url": "https://open.spotify.com/track/28hGY9qA6qa4om2xsSBoHP"
+      "duration_ms": 167104,
+      "name": "Corp\u00e3o Viol\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/1akJhEUH2Ld3C2i4B48a0I"
     },
     {
       "added_at": "2025-10-04 00:52:26",
@@ -259,26 +279,6 @@
       "duration_ms": 137166,
       "name": "Low Profile",
       "url": "https://open.spotify.com/track/5oJLjDTgWLuFYxcn9LEYQn"
-    },
-    {
-      "added_at": "2025-10-04 00:52:26",
-      "album": {
-        "name": "Corp\u00e3o Viol\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3chLfwkLdhy48Uw6OLW1gC"
-      },
-      "artists": [
-        {
-          "name": "Pedro Sanchez e Thiago",
-          "url": "https://open.spotify.com/artist/6VBTBqiHqTgZuWflGadSW5"
-        },
-        {
-          "name": "Fiduma & Jeca",
-          "url": "https://open.spotify.com/artist/2h73KyGixa4A1xlhcxjpG1"
-        }
-      ],
-      "duration_ms": 167104,
-      "name": "Corp\u00e3o Viol\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/1akJhEUH2Ld3C2i4B48a0I"
     },
     {
       "added_at": "2025-10-04 00:52:26",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-10-04 00:52:26",
       "album": {
+        "name": "N\u00e3o Vai Seco",
+        "url": "https://open.spotify.com/album/5l8VXNYRrFfLz1hY0lg8xh"
+      },
+      "artists": [
+        {
+          "name": "Pedro Henrique e Jo\u00e3o Victor",
+          "url": "https://open.spotify.com/artist/1Q2sPWZlgf0X5CQYDIHdef"
+        }
+      ],
+      "duration_ms": 140228,
+      "name": "N\u00e3o Vai Seco",
+      "url": "https://open.spotify.com/track/4nm0sdoLEaASMA4rjpR66a"
+    },
+    {
+      "added_at": "2025-10-04 00:52:26",
+      "album": {
         "name": "Trenz\u00e3o",
         "url": "https://open.spotify.com/album/0eae7DFMxNR1POOCEPPfp3"
       },
@@ -363,18 +379,18 @@
     {
       "added_at": "2025-10-04 00:52:26",
       "album": {
-        "name": "N\u00e3o Vai Seco",
-        "url": "https://open.spotify.com/album/5l8VXNYRrFfLz1hY0lg8xh"
+        "name": "Liberdade ou Solid\u00e3o",
+        "url": "https://open.spotify.com/album/3U2cBR6yaH8Thy4QMwLqZb"
       },
       "artists": [
         {
-          "name": "Pedro Henrique e Jo\u00e3o Victor",
-          "url": "https://open.spotify.com/artist/1Q2sPWZlgf0X5CQYDIHdef"
+          "name": "Vitor Maia",
+          "url": "https://open.spotify.com/artist/0g9fMDNPhefLqy4gx0aWUp"
         }
       ],
-      "duration_ms": 140228,
-      "name": "N\u00e3o Vai Seco",
-      "url": "https://open.spotify.com/track/4nm0sdoLEaASMA4rjpR66a"
+      "duration_ms": 159291,
+      "name": "Liberdade ou Solid\u00e3o",
+      "url": "https://open.spotify.com/track/0yoPjwsYqLl4pIzkLkFROC"
     },
     {
       "added_at": "2025-10-04 00:52:26",
@@ -399,38 +415,6 @@
     {
       "added_at": "2025-10-04 00:52:26",
       "album": {
-        "name": "Liberdade ou Solid\u00e3o",
-        "url": "https://open.spotify.com/album/3U2cBR6yaH8Thy4QMwLqZb"
-      },
-      "artists": [
-        {
-          "name": "Vitor Maia",
-          "url": "https://open.spotify.com/artist/0g9fMDNPhefLqy4gx0aWUp"
-        }
-      ],
-      "duration_ms": 159291,
-      "name": "Liberdade ou Solid\u00e3o",
-      "url": "https://open.spotify.com/track/0yoPjwsYqLl4pIzkLkFROC"
-    },
-    {
-      "added_at": "2025-10-04 00:52:26",
-      "album": {
-        "name": "Ponta solta & Potpourri Calma / Cora\u00e7\u00e3o deu Pt",
-        "url": "https://open.spotify.com/album/6UBmSVUUYiZRsOGDJynKKQ"
-      },
-      "artists": [
-        {
-          "name": "Thauane",
-          "url": "https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V"
-        }
-      ],
-      "duration_ms": 156288,
-      "name": "Ponta Solta",
-      "url": "https://open.spotify.com/track/2pb7iXsypar8wNILL1WFIB"
-    },
-    {
-      "added_at": "2025-10-04 00:52:26",
-      "album": {
         "name": "Deu Onda (Ao Vivo)",
         "url": "https://open.spotify.com/album/20BAKOs1xejAt281sLhF31"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 128059,
       "name": "Vestidinho - Ao Vivo",
       "url": "https://open.spotify.com/track/5kODFBJhzygSg6dyhMW0NR"
+    },
+    {
+      "added_at": "2025-10-04 00:52:26",
+      "album": {
+        "name": "Ponta solta & Potpourri Calma / Cora\u00e7\u00e3o deu Pt",
+        "url": "https://open.spotify.com/album/6UBmSVUUYiZRsOGDJynKKQ"
+      },
+      "artists": [
+        {
+          "name": "Thauane",
+          "url": "https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V"
+        }
+      ],
+      "duration_ms": 156288,
+      "name": "Ponta Solta",
+      "url": "https://open.spotify.com/track/2pb7iXsypar8wNILL1WFIB"
     },
     {
       "added_at": "2025-10-04 00:52:26",
@@ -507,6 +507,42 @@
     {
       "added_at": "2025-10-04 00:52:26",
       "album": {
+        "name": "Choveu",
+        "url": "https://open.spotify.com/album/2LT6D8p1K73t7tH02STswq"
+      },
+      "artists": [
+        {
+          "name": "Bianca e Beatriz",
+          "url": "https://open.spotify.com/artist/4Fc399metKSKr2iypNlcgk"
+        }
+      ],
+      "duration_ms": 158885,
+      "name": "Choveu",
+      "url": "https://open.spotify.com/track/0rmy34atB4k5LOACKtsMJM"
+    },
+    {
+      "added_at": "2025-10-04 00:52:26",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Manhoso (Live)",
+        "url": "https://open.spotify.com/album/6oTNEn62WSjl2bRjff24P3"
+      },
+      "artists": [
+        {
+          "name": "Luccas & Rodrigo",
+          "url": "https://open.spotify.com/artist/76FeGERn9sCv607gktNjQh"
+        },
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "duration_ms": 146509,
+      "name": "Cora\u00e7\u00e3o Manhoso - Live",
+      "url": "https://open.spotify.com/track/6JC8Y5cdr2zOk22wYTayh6"
+    },
+    {
+      "added_at": "2025-10-04 00:52:26",
+      "album": {
         "name": "Certas Manias Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/7I1Ox1uZpnw1ydjLjNMDOF"
       },
@@ -543,26 +579,6 @@
     {
       "added_at": "2025-10-04 00:52:26",
       "album": {
-        "name": "Cora\u00e7\u00e3o Manhoso (Live)",
-        "url": "https://open.spotify.com/album/6oTNEn62WSjl2bRjff24P3"
-      },
-      "artists": [
-        {
-          "name": "Luccas & Rodrigo",
-          "url": "https://open.spotify.com/artist/76FeGERn9sCv607gktNjQh"
-        },
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        }
-      ],
-      "duration_ms": 146509,
-      "name": "Cora\u00e7\u00e3o Manhoso - Live",
-      "url": "https://open.spotify.com/track/6JC8Y5cdr2zOk22wYTayh6"
-    },
-    {
-      "added_at": "2025-10-04 00:52:26",
-      "album": {
         "name": "Provavelmente (Ao Vivo)",
         "url": "https://open.spotify.com/album/2w5MqV5NhFO5JdmczCy8lm"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 145890,
       "name": "Provavelmente - Ao Vivo",
       "url": "https://open.spotify.com/track/79Y77XjU5v9C1J3Gkxy9YV"
-    },
-    {
-      "added_at": "2025-10-04 00:52:26",
-      "album": {
-        "name": "Choveu",
-        "url": "https://open.spotify.com/album/2LT6D8p1K73t7tH02STswq"
-      },
-      "artists": [
-        {
-          "name": "Bianca e Beatriz",
-          "url": "https://open.spotify.com/artist/4Fc399metKSKr2iypNlcgk"
-        }
-      ],
-      "duration_ms": 158885,
-      "name": "Choveu",
-      "url": "https://open.spotify.com/track/0rmy34atB4k5LOACKtsMJM"
     },
     {
       "added_at": "2025-10-04 00:52:26",
@@ -631,26 +631,6 @@
     {
       "added_at": "2025-10-04 00:52:26",
       "album": {
-        "name": "Lado Ruim",
-        "url": "https://open.spotify.com/album/4FUTn5dOYJr0bJZgmSeOgq"
-      },
-      "artists": [
-        {
-          "name": "Gabi Suarez",
-          "url": "https://open.spotify.com/artist/2S54NC7x1kcKyzL3PS699V"
-        },
-        {
-          "name": "Juliana Marques",
-          "url": "https://open.spotify.com/artist/0lQLEejtZqv5SydrKNiEhp"
-        }
-      ],
-      "duration_ms": 163051,
-      "name": "Lado Ruim",
-      "url": "https://open.spotify.com/track/7rhyOxdEI6lBB8IeOFwQiT"
-    },
-    {
-      "added_at": "2025-10-04 00:52:26",
-      "album": {
         "name": "Linda e Mentirosa (Ao Vivo)",
         "url": "https://open.spotify.com/album/4VtUKcckj5Kui6jB7SGWnu"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 157652,
       "name": "Linda e Mentirosa - Ao Vivo",
       "url": "https://open.spotify.com/track/11JrJaY1KWCewzoCoiuHQg"
+    },
+    {
+      "added_at": "2025-10-04 00:52:26",
+      "album": {
+        "name": "Lado Ruim",
+        "url": "https://open.spotify.com/album/4FUTn5dOYJr0bJZgmSeOgq"
+      },
+      "artists": [
+        {
+          "name": "Gabi Suarez",
+          "url": "https://open.spotify.com/artist/2S54NC7x1kcKyzL3PS699V"
+        },
+        {
+          "name": "Juliana Marques",
+          "url": "https://open.spotify.com/artist/0lQLEejtZqv5SydrKNiEhp"
+        }
+      ],
+      "duration_ms": 163051,
+      "name": "Lado Ruim",
+      "url": "https://open.spotify.com/track/7rhyOxdEI6lBB8IeOFwQiT"
     },
     {
       "added_at": "2025-10-04 00:52:26",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-10-04 00:52:26",
       "album": {
-        "name": "Copo Vai, Copo Vem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4kumpr45zUkTrGlHb34OUx"
-      },
-      "artists": [
-        {
-          "name": "Vini & Lucas",
-          "url": "https://open.spotify.com/artist/0oV3e0s6fk8CsTP1txxPMs"
-        }
-      ],
-      "duration_ms": 130770,
-      "name": "Copo Vai, Copo Vem - Ao Vivo",
-      "url": "https://open.spotify.com/track/4iLwQDlACVZZ9gojRyXUty"
-    },
-    {
-      "added_at": "2025-10-04 00:52:26",
-      "album": {
         "name": "Telefone Mudo",
         "url": "https://open.spotify.com/album/34rO65UAJshV92udKc3cxs"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 152688,
       "name": "Telefone Mudo",
       "url": "https://open.spotify.com/track/0aTr7XyusniiT9XnHPrh4p"
+    },
+    {
+      "added_at": "2025-10-04 00:52:26",
+      "album": {
+        "name": "Copo Vai, Copo Vem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4kumpr45zUkTrGlHb34OUx"
+      },
+      "artists": [
+        {
+          "name": "Vini & Lucas",
+          "url": "https://open.spotify.com/artist/0oV3e0s6fk8CsTP1txxPMs"
+        }
+      ],
+      "duration_ms": 130770,
+      "name": "Copo Vai, Copo Vem - Ao Vivo",
+      "url": "https://open.spotify.com/track/4iLwQDlACVZZ9gojRyXUty"
     },
     {
       "added_at": "2025-10-04 00:52:26",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-10-04 00:52:26",
       "album": {
-        "name": "Resenha Particular 2 (Ao Vivo / EP1)",
-        "url": "https://open.spotify.com/album/6xG5OZFTZBu1XjwjB06h0B"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Pedro e Fellipe",
-          "url": "https://open.spotify.com/artist/4HN8GLpL6Vie0xgKDEtpSN"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "Coisas Exot\u00e9ricas / Me Apaixonei Pela Pessoa Errada - Ao Vivo",
-      "url": "https://open.spotify.com/track/4EEojqHohgTIPlNo2lj4wh"
-    },
-    {
-      "added_at": "2025-10-04 00:52:26",
-      "album": {
         "name": "Da Porta Pra Cama",
         "url": "https://open.spotify.com/album/4Dkah7tqcn2crk6ErhynfY"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 165296,
       "name": "Da Porta Pra Cama",
       "url": "https://open.spotify.com/track/0YWBUkM4NZfBK5bg556qGB"
+    },
+    {
+      "added_at": "2025-10-04 00:52:26",
+      "album": {
+        "name": "Resenha Particular 2 (Ao Vivo / EP1)",
+        "url": "https://open.spotify.com/album/6xG5OZFTZBu1XjwjB06h0B"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Pedro e Fellipe",
+          "url": "https://open.spotify.com/artist/4HN8GLpL6Vie0xgKDEtpSN"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "Coisas Exot\u00e9ricas / Me Apaixonei Pela Pessoa Errada - Ao Vivo",
+      "url": "https://open.spotify.com/track/4EEojqHohgTIPlNo2lj4wh"
     },
     {
       "added_at": "2025-10-04 00:52:26",

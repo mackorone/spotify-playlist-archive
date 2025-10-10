@@ -1,12 +1,12 @@
 {
   "description": "This is Taio Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 18484,
+  "num_followers": 18488,
   "original_name": "This Is Taio Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aORYAAAAAACVhWY6RO2LVmxrimTz9Sn4",
+  "snapshot_id": "aOWpgAAAAACshXRJyPz03/b3ZGt2dtJt",
   "tracks": [
     {
       "added_at": null,
@@ -427,18 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rokstarr (Special Edition)",
-        "url": "https://open.spotify.com/album/3h80tQ7iMvnWIE7EdtRhEm"
+        "name": "Row The Body (feat. French Montana)",
+        "url": "https://open.spotify.com/album/0SK5cDgoWVerVQbHne2epR"
       },
       "artists": [
         {
           "name": "Taio Cruz",
           "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
         }
       ],
-      "duration_ms": 217280,
-      "name": "No Other One - Remastered",
-      "url": "https://open.spotify.com/track/5kcgBrYujE674rAnACCNkM"
+      "duration_ms": 237500,
+      "name": "Row The Body (feat. French Montana)",
+      "url": "https://open.spotify.com/track/5qmR4IEKBUpgPa14pGuWuS"
     },
     {
       "added_at": null,
@@ -459,22 +463,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Row The Body (feat. French Montana)",
-        "url": "https://open.spotify.com/album/0SK5cDgoWVerVQbHne2epR"
+        "name": "Rokstarr (Special Edition)",
+        "url": "https://open.spotify.com/album/3h80tQ7iMvnWIE7EdtRhEm"
       },
       "artists": [
         {
           "name": "Taio Cruz",
           "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        },
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
         }
       ],
-      "duration_ms": 237500,
-      "name": "Row The Body (feat. French Montana)",
-      "url": "https://open.spotify.com/track/5qmR4IEKBUpgPa14pGuWuS"
+      "duration_ms": 217280,
+      "name": "No Other One - Remastered",
+      "url": "https://open.spotify.com/track/5kcgBrYujE674rAnACCNkM"
     },
     {
       "added_at": null,

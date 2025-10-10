@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,705 songs - 19 day 21 hr 49 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,713 songs - 19 day 22 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7713,5 +7713,13 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7703 | [Wooly Warrior Strikes!](https://open.spotify.com/track/1PJwqWA17qJanpEDhpWAx3) | [Wuthering Waves](https://open.spotify.com/artist/4NJxtQzTTeO3ObGlBcxVAh), [沐可Linda](https://open.spotify.com/artist/5cI1KAMsGNyEp9xjVhOe5F) | [Into the Depths](https://open.spotify.com/album/7IY2C495boRx3P5bTmdt3N) | 1:12 |
 | 7704 | [Sweet Boy](https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 3:00 |
 | 7705 | [When Can I See You Again? \- From "Wreck\-It Ralph"/Soundtrack Version](https://open.spotify.com/track/5ZkAx8zjLiSs1nMmBwJoZS) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Wreck\-It Ralph](https://open.spotify.com/album/0aqJGQ73RTLu3yLgcdU9JC) | 3:38 |
+| 7706 | [ステラ](https://open.spotify.com/track/1nOYIPpeFSNiui0KG5QPZA) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [コトバアソビ](https://open.spotify.com/album/6sU4bvWQW9QdldwSqAw35N) | 4:08 |
+| 7707 | [流星のパルス](https://open.spotify.com/track/0uUuI2gw2gPhpBvuPgyGZd) | [日野森志歩](https://open.spotify.com/artist/2WnmLDD0X7ZtJYQfFZegDO) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク　アナザーボーカルアルバム　Leo/need](https://open.spotify.com/album/7xlXLAD6g3OD5bX1hpk7xa) | 4:46 |
+| 7708 | [Seven Deadly Sins](https://open.spotify.com/track/2s2fORtcrwKwsmC4jNc8mJ) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [The World's On Fire](https://open.spotify.com/album/3YrPHd8CGlPBfLG4FgmQVy) | 3:27 |
+| 7709 | [ライラック](https://open.spotify.com/track/21VsLvoE7elUmJZLSawaMh) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [10](https://open.spotify.com/album/78aZx49bna8qXzsWReeL3o) | 4:49 |
+| 7710 | [ダンスホール](https://open.spotify.com/track/4QIKSlDV5YIjr0kqT1Ad32) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [10](https://open.spotify.com/album/78aZx49bna8qXzsWReeL3o) | 3:18 |
+| 7711 | [アイディスマイル](https://open.spotify.com/track/64dIdYlNQCtWBsLByMFlhS) | [宵崎奏](https://open.spotify.com/artist/1PbOXi3QIPB8AxbJ8byCl6) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 3:00 |
+| 7712 | [Beat Eater](https://open.spotify.com/track/1sSKd9R1Zn6q47wqq36jMo) | [白石杏](https://open.spotify.com/artist/5oXXCRHHBgr8JbziVHev34) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク　アナザーボーカルアルバム Vivid BAD SQUAD](https://open.spotify.com/album/48MQNNlnAKmE9wXxaEuGpz) | 3:35 |
+| 7713 | [シャルル \(Cover\)](https://open.spotify.com/track/6wZu8lrYzQNsEonjYIEYUb) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [バンドリ！ ガールズバンドパーティ！ カバーコレクションVol.2](https://open.spotify.com/album/6NQ6FPqipSl6bpQ4CuA8bt) | 3:52 |
 
-Snapshot ID: `AAAJFfow2xhZGMLcW93FCb1J1PkSTeX0`
+Snapshot ID: `AAAJHdoeRDX2hekSvh3XR7QEK6tbEI7i`

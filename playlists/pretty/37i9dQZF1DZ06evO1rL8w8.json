@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 230487,
+  "num_followers": 230514,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aORYAAAAAAA/zRRCQh3j8acAo8rLK9Ol",
+  "snapshot_id": "aOWpgAAAAACHp7r2YD7H7M/mzWRoFWu+",
   "tracks": [
     {
       "added_at": null,
@@ -783,6 +783,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Rey del Corrido: Ayer, Hoy y Siempre, Vol. 1",
+        "url": "https://open.spotify.com/album/3j0SuYEsquaXM4ShuqjgLl"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 195509,
+      "name": "Eleodoro Elenes",
+      "url": "https://open.spotify.com/track/2vvatFK9PsMEjpcolFXcGY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -835,22 +855,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey del Corrido: Ayer, Hoy y Siempre, Vol. 1",
-        "url": "https://open.spotify.com/album/3j0SuYEsquaXM4ShuqjgLl"
+        "name": "El Empresario",
+        "url": "https://open.spotify.com/album/3mSQrFZ3JZjOJaxE21FL11"
       },
       "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 195509,
-      "name": "Eleodoro Elenes",
-      "url": "https://open.spotify.com/track/2vvatFK9PsMEjpcolFXcGY"
+      "duration_ms": 154357,
+      "name": "El Empresario",
+      "url": "https://open.spotify.com/track/2I6VBvRxhFWdnOrpXk4nHU"
     },
     {
       "added_at": null,
@@ -867,22 +883,6 @@
       "duration_ms": 200093,
       "name": "El cantador - En vivo",
       "url": "https://open.spotify.com/track/2cidQAJb7tlZqWSmUbkLgr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Empresario",
-        "url": "https://open.spotify.com/album/3mSQrFZ3JZjOJaxE21FL11"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 154357,
-      "name": "El Empresario",
-      "url": "https://open.spotify.com/track/2I6VBvRxhFWdnOrpXk4nHU"
     }
   ],
   "unique_name": "This Is El Komander",

@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. Dipinto e Frezza in cover.
 
-522 songs - 23 hr 51 min
+524 songs - 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Cchiù tiempo \(feat\. Club Dogo\)](https://open.spotify.com/track/7H7NBg9NjyEy2eV8nQ22TR) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu), [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 3:23 | 2024-10-10 |  |
 | [Cecchino](https://open.spotify.com/track/3P8ZLsAr6ipegENB65REsp) | [Lucariello](https://open.spotify.com/artist/1pv59RDMxb8WKREVPpLDK9) | [Cecchino](https://open.spotify.com/album/50fluzx8dNhpcNYD13oOWW) | 2:36 | 2023-02-09 | 2023-03-10 |
 | [CH CAGN?](https://open.spotify.com/track/4a7pPpkUpdM9HkGw72qWnH) | [ALTACARATURA](https://open.spotify.com/artist/4FBfE5lWE8eGkPuUTXzRNr) | [CH CAGN?](https://open.spotify.com/album/4PksCZU5Up3Cihdhjr8Kgg) | 3:34 | 2025-03-27 | 2025-04-11 |
+| [CHAMPIONS LEAGUE](https://open.spotify.com/track/06Zq6HSD1O6XpblP1jXkMB) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [CHAMPIONS LEAGUE](https://open.spotify.com/album/0lXnDC17PrUn7US2iy8sa4) | 3:04 | 2025-10-09 |  |
 | [Chance](https://open.spotify.com/track/7qvI1RnRmIzQ52r5WN8TI5) | [Lil Tony](https://open.spotify.com/artist/5scZI5Lpqp6uijn5kCXCEZ) | [Chance](https://open.spotify.com/album/06iLcirNazg1Nb0hFzYDAd) | 3:19 | 2024-09-19 | 2024-10-04 |
 | [Chanel](https://open.spotify.com/track/7pDIFkymxnMAGzCdvICFb3) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [Chanel](https://open.spotify.com/album/69WeTXYxLFMrOKrCgYqTlR) | 3:06 | 2022-09-15 | 2022-10-14 |
 | [CHARME \(feat\. Christian Revo, Vale Lambo\)](https://open.spotify.com/track/1c6eHnBBBIV3isAHk2KO4X) | [Plug](https://open.spotify.com/artist/0PWa13NHPcTgfyBlIkjjBx), [Christian Revo](https://open.spotify.com/artist/0s3k3E7SlZqDN0rXnijV7F), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [CHARME \(feat\. Christian Revo, Vale Lambo\)](https://open.spotify.com/album/36I0lzxgz7mraZM0dP3GDt) | 2:52 | 2025-06-12 | 2025-09-19 |
@@ -360,6 +361,7 @@
 | [Peccati \(feat\. J Lord\)](https://open.spotify.com/track/5jmRPnT5jyMHDfhLsHzSrV) | [Moderup](https://open.spotify.com/artist/0EE0rv2NG4drYTTQrT0saQ), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [Peccati \(feat\. J Lord\)](https://open.spotify.com/album/4YDkA7KQEWgRFBqt7uFDDb) | 2:31 | 2023-06-08 | 2023-12-08 |
 | [Pelle D'Oca \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/3pnXrY3E0rP0cJ0KKzil0w) | [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [NO MONEY MORE LOVE](https://open.spotify.com/album/3Ym605OOXFJfjw0cUSpq1l) | 2:24 | 2022-05-10 | 2022-12-16 |
 | [Penzier](https://open.spotify.com/track/4CFL4pIRkUkO8hkUQsP6xz) | [Priore](https://open.spotify.com/artist/7zWFzmh5NZhmBzwWjHjnro) | [Penzier](https://open.spotify.com/album/4o6BO1Zqqk9lnSXLBPk3bG) | 2:44 | 2022-05-12 | 2022-09-23 |
+| [PER CORTESIA](https://open.spotify.com/track/2sLYzeSmkJWTs0vRjKDmBk) | [Ceejay](https://open.spotify.com/artist/6eg2wRWO2S05u2gJjSKaxm) | [PER CORTESIA](https://open.spotify.com/album/4raJILOINDtdDnLhMoFc4f) | 1:57 | 2025-10-09 |  |
 | [PER SEMPRE](https://open.spotify.com/track/1tIGa9fXqu3T3AikU5G8Ds) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [DIO LO SA](https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7) | 2:59 | 2024-11-21 |  |
 | [Perdenn 'A Cap \(feat\. Armouann, O'Tsunami & Flaza\)](https://open.spotify.com/track/4PPAVU1RIdKKiNE4UTIzQ7) | [Murcielago](https://open.spotify.com/artist/4pfWOZ7iBNyq7pBaTJRXC4), [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm), [Armouann](https://open.spotify.com/artist/4CKFSinEpu2Pap0R3aw5q6), [Flaza](https://open.spotify.com/artist/5jnf9se8FZG6U9NeP6r1fH) | [Perdenn 'A Cap \(feat\. Armouann, O'Tsunami & Flaza\)](https://open.spotify.com/album/0f0tWgJ73mj7gwLv3iZxAs) | 3:12 | 2024-06-13 | 2024-07-05 |
 | [Perdere ‘a capa \(feat\. Geolier\)](https://open.spotify.com/track/4vd7gUuDg8Ks19SzZxzeHD) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 3:40 | 2024-08-29 |  |

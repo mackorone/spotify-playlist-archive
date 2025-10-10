@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "La nuova scena pop italiana \ud83c\uddee\ud83c\uddf9  Laila Al Habash in cover",
+  "description": "La nuova scena pop italiana \ud83c\uddee\ud83c\uddf9  (quello sotto al cappuccio \u00e8 prima stanza a destra)",
   "name": "nuovo pop \ud83c\uddee\ud83c\uddf9",
   "tracks": [
     {
@@ -188,7 +188,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 155080,
       "name": "1966",
       "url": "https://open.spotify.com/track/5sVc9iwc1LjWgiqECsGdtS"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 160098,
       "name": "7 AM",
       "url": "https://open.spotify.com/track/3csFngzlVP0z2lsE8pdp4E"
@@ -1844,7 +1844,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 180986,
       "name": "Becal\u00f3va",
       "url": "https://open.spotify.com/track/6EM5Wh5yvEI2bXLqm82sjr"
@@ -2910,7 +2910,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 193416,
       "name": "casa mia",
       "url": "https://open.spotify.com/track/4AbyzTJ8Q74E5UY5vjRoXY"
@@ -3076,7 +3076,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 165453,
       "name": "Che Farei",
       "url": "https://open.spotify.com/track/7qX0NzqCT0BO44bcvfwaj9"
@@ -3290,7 +3290,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 160206,
       "name": "Ci baciavamo",
       "url": "https://open.spotify.com/track/0wTzDbwKwry3WI6auXJH3w"
@@ -3438,7 +3438,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 178189,
       "name": "codardo",
       "url": "https://open.spotify.com/track/4xz2hDhsnV0YAjzoMUvSFc"
@@ -3808,7 +3808,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 186000,
       "name": "corri, nuota, ridi, espira",
       "url": "https://open.spotify.com/track/7LbPyyq0gBdze1o1mB7Ftw"
@@ -4196,7 +4196,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 154703,
       "name": "Dentro un altro film",
       "url": "https://open.spotify.com/track/7HoX3x1NFugzHnCagj0XKb"
@@ -4298,6 +4298,24 @@
       "duration_ms": 142569,
       "name": "DIAMANTI",
       "url": "https://open.spotify.com/track/7t2rpasMsB8D8CTw9k9G9I"
+    },
+    {
+      "album": {
+        "name": "dimmi che provi quello che provo io",
+        "url": "https://open.spotify.com/album/2VqcRDHt4Eqv0pGTuU37fg"
+      },
+      "artists": [
+        {
+          "name": "prima stanza a destra",
+          "url": "https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141619,
+      "name": "dimmi che provi quello che provo io",
+      "url": "https://open.spotify.com/track/6tPRT7hwN2L8eQ45iSjafJ"
     },
     {
       "album": {
@@ -4417,6 +4435,24 @@
     },
     {
       "album": {
+        "name": "DISTACCATO DA ME",
+        "url": "https://open.spotify.com/album/5SoEDERY1YZ1g4hJkwVZxk"
+      },
+      "artists": [
+        {
+          "name": "Dynvill",
+          "url": "https://open.spotify.com/artist/10YgsuwMi7Gkb0qyI7N5KI"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139379,
+      "name": "DISTACCATO DA ME",
+      "url": "https://open.spotify.com/track/7MQyvxL6f3wNeassPQDdmV"
+    },
+    {
+      "album": {
         "name": "Diventare Grandi",
         "url": "https://open.spotify.com/album/46yYDchVPiqqhlr4Z41rTd"
       },
@@ -4428,7 +4464,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 203859,
       "name": "Diventare Grandi",
       "url": "https://open.spotify.com/track/6nLoNuX0bY7LM14fW02dTQ"
@@ -4682,7 +4718,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 134765,
       "name": "downdowndown",
       "url": "https://open.spotify.com/track/4VB8mDt4OutaW3Dk3kHRJ8"
@@ -4938,7 +4974,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 175510,
       "name": "Erba",
       "url": "https://open.spotify.com/track/6k61p53Pg6sQ5scWD5mTpm"
@@ -5489,6 +5525,24 @@
     },
     {
       "album": {
+        "name": "Foglie",
+        "url": "https://open.spotify.com/album/3XNhvMKBitSlalrgmmGKuJ"
+      },
+      "artists": [
+        {
+          "name": "chiamamifaro",
+          "url": "https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179284,
+      "name": "Foglie",
+      "url": "https://open.spotify.com/track/6wHHPfc7OpJUezPA41NzJB"
+    },
+    {
+      "album": {
         "name": "blurosso",
         "url": "https://open.spotify.com/album/3CUYNGAWeapMGi5KmG8bAa"
       },
@@ -5572,7 +5626,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 162272,
       "name": "forse \u00e8 l'amore che manca",
       "url": "https://open.spotify.com/track/7lbFORXhmXQv8eLfwF1hBO"
@@ -5804,7 +5858,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 195086,
       "name": "Fuori dal Blu",
       "url": "https://open.spotify.com/track/30PTapN6nWrPaLLwAWTKaN"
@@ -6384,7 +6438,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 168051,
       "name": "GUAI",
       "url": "https://open.spotify.com/track/3c7BR7cFvtyFt31ZJs7aLa"
@@ -7007,6 +7061,24 @@
     },
     {
       "album": {
+        "name": "Il segno del sesso",
+        "url": "https://open.spotify.com/album/2HaciKJLtZp0o4fae4OASn"
+      },
+      "artists": [
+        {
+          "name": "Basim",
+          "url": "https://open.spotify.com/artist/06VrZAhcffLACn4VGBBspO"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187602,
+      "name": "Il segno del sesso",
+      "url": "https://open.spotify.com/track/4Fu4qvvrEHfh4oURPJViQB"
+    },
+    {
+      "album": {
         "name": "IL SOLE",
         "url": "https://open.spotify.com/album/3hLRCMAUSeX27eEN5bMvtf"
       },
@@ -7018,7 +7090,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 177493,
       "name": "IL SOLE",
       "url": "https://open.spotify.com/track/3zk5LaepUYP30KimiGFLUL"
@@ -7108,7 +7180,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 168791,
       "name": "imitati benissimo",
       "url": "https://open.spotify.com/track/4zGhCOcPqnERGkFQChzNGG"
@@ -7210,7 +7282,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 149142,
       "name": "incandescente",
       "url": "https://open.spotify.com/track/68zUvet48ksuYWhAXGEg0A"
@@ -7470,7 +7542,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 180113,
       "name": "Jane",
       "url": "https://open.spotify.com/track/0NJowfv0oPbfAw7YjDYeRD"
@@ -7586,7 +7658,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 164150,
       "name": "L'Ultima Canzone",
       "url": "https://open.spotify.com/track/163T8bwTmi8PPKhfGjOBtI"
@@ -7608,6 +7680,32 @@
       "duration_ms": 217285,
       "name": "La Camicia Che Non Ti Piaceva",
       "url": "https://open.spotify.com/track/6Qz0bLoxBE9JENEtR9EqQP"
+    },
+    {
+      "album": {
+        "name": "La grande citt\u00e0 (feat. Willie Peyote)",
+        "url": "https://open.spotify.com/album/7htd9ewI1uMq44rgIlEM0n"
+      },
+      "artists": [
+        {
+          "name": "Caleydo",
+          "url": "https://open.spotify.com/artist/0LQI1hrK6naJCuxcY0CNQG"
+        },
+        {
+          "name": "Bassi Maestro",
+          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
+        },
+        {
+          "name": "Willie Peyote",
+          "url": "https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204453,
+      "name": "La grande citt\u00e0 (feat. Willie Peyote)",
+      "url": "https://open.spotify.com/track/4LBB8W61nVd5m983tTBG6h"
     },
     {
       "album": {
@@ -8091,6 +8189,28 @@
     },
     {
       "album": {
+        "name": "Le parole mai dette",
+        "url": "https://open.spotify.com/album/6jRu4JipK2enrjwMOpPXdB"
+      },
+      "artists": [
+        {
+          "name": "Mavie",
+          "url": "https://open.spotify.com/artist/30GaJAaSibzoE6iOBSO9N7"
+        },
+        {
+          "name": "sedd",
+          "url": "https://open.spotify.com/artist/3wtF9cMx6D056zCdoMexs6"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145964,
+      "name": "Le parole mai dette",
+      "url": "https://open.spotify.com/track/3oiyuuBaAUwO0GKyUc41mT"
+    },
+    {
+      "album": {
         "name": "Le ragazze della valle",
         "url": "https://open.spotify.com/album/3zoFvFtix0uIdntQ65aRrt"
       },
@@ -8305,6 +8425,28 @@
     },
     {
       "album": {
+        "name": "OX",
+        "url": "https://open.spotify.com/album/627cLrbESlMPkPT72ApWnw"
+      },
+      "artists": [
+        {
+          "name": "PLASTICA",
+          "url": "https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM"
+        },
+        {
+          "name": "SELMI",
+          "url": "https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208120,
+      "name": "Lontana da me",
+      "url": "https://open.spotify.com/track/5FRO4gUmGpWGPfiT0Zk5f2"
+    },
+    {
+      "album": {
         "name": "Lontana da me",
         "url": "https://open.spotify.com/album/7zTsceP2O6wEmgO6EGPRdo"
       },
@@ -8506,6 +8648,24 @@
       "duration_ms": 183214,
       "name": "Luci",
       "url": "https://open.spotify.com/track/0WHbpAszTFTND9kvKyTPKA"
+    },
+    {
+      "album": {
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/0O2QaI42yzO2eebaE68e0B"
+      },
+      "artists": [
+        {
+          "name": "La Noce",
+          "url": "https://open.spotify.com/artist/4YE8qxQc4RJMkk0UqElT3S"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161052,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/5N3LRDAlTqYL9lwfeDck7k"
     },
     {
       "album": {
@@ -8756,6 +8916,28 @@
       "duration_ms": 154420,
       "name": "MADRID",
       "url": "https://open.spotify.com/track/5sbU31CmaRePrVYr8bARhE"
+    },
+    {
+      "album": {
+        "name": "Pixel",
+        "url": "https://open.spotify.com/album/2GilGjaRAmsF7MptmRnFQT"
+      },
+      "artists": [
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        },
+        {
+          "name": "Gaia",
+          "url": "https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159850,
+      "name": "Mai (feat. Gaia)",
+      "url": "https://open.spotify.com/track/5IO3qAvRiUlnKjC2oI0vec"
     },
     {
       "album": {
@@ -9804,7 +9986,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 196000,
       "name": "MON AMOUR",
       "url": "https://open.spotify.com/track/7qTjqNsPs7q695006WGLuN"
@@ -9826,6 +10008,24 @@
       "duration_ms": 137045,
       "name": "Mon Amour",
       "url": "https://open.spotify.com/track/1SUuldqtay5q3kIWL6FE1g"
+    },
+    {
+      "album": {
+        "name": "Mondo Fiorito / Figli",
+        "url": "https://open.spotify.com/album/61LlDLOsyCKvph4asP7kwt"
+      },
+      "artists": [
+        {
+          "name": "Lea Gavino",
+          "url": "https://open.spotify.com/artist/5MQsxFq3dAF5ujx3DJjiCL"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153488,
+      "name": "Mondo Fiorito",
+      "url": "https://open.spotify.com/track/4N8drGsZx0X0vMyqgpE8GI"
     },
     {
       "album": {
@@ -10674,7 +10874,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 137454,
       "name": "Non tornerai",
       "url": "https://open.spotify.com/track/18tQNsjqPlhNDxp6GSTBjb"
@@ -10780,7 +10980,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 153185,
       "name": "NONOSTANTE LA MUSICA",
       "url": "https://open.spotify.com/track/6YlZPXXNS46yCG3igQUqQ1"
@@ -10892,7 +11092,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 152217,
       "name": "notti capogiro",
       "url": "https://open.spotify.com/track/6JGkrcqQUGXkFq92NTmsFb"
@@ -11228,7 +11428,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 146400,
       "name": "ora",
       "url": "https://open.spotify.com/track/7A6GGMAfCi3dxu2fR5jHXN"
@@ -11246,7 +11446,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 139961,
       "name": "ORE ORE ORE",
       "url": "https://open.spotify.com/track/6FJfsnvnoAk7QfdSvh2SzF"
@@ -11344,7 +11544,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 138401,
       "name": "OVERTHINK",
       "url": "https://open.spotify.com/track/7dJsKfjhJWUutRd86QM4O0"
@@ -12047,6 +12247,28 @@
     },
     {
       "album": {
+        "name": "pi\u00f9 dolce con me",
+        "url": "https://open.spotify.com/album/3gMkgKaEFUJUDrUV7uqha6"
+      },
+      "artists": [
+        {
+          "name": "Joy Bloo",
+          "url": "https://open.spotify.com/artist/4FT5nGhINGFOibKEQVsseP"
+        },
+        {
+          "name": "EnimraK",
+          "url": "https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172347,
+      "name": "pi\u00f9 dolce con me",
+      "url": "https://open.spotify.com/track/417DvEqoeGhINns42NQMRD"
+    },
+    {
+      "album": {
         "name": "PI\u00d9 NE VOGLIO (feat. BigMama e Nahaze)",
         "url": "https://open.spotify.com/album/0ZphIy30sy9wcUQhUDwPQ5"
       },
@@ -12493,6 +12715,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "mew",
+          "url": "https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168994,
+      "name": "quando nessuno ci vede",
+      "url": "https://open.spotify.com/track/04QySOhnsckQQbzDRyJXDQ"
+    },
+    {
+      "album": {
         "name": "Quando torno",
         "url": "https://open.spotify.com/album/6oZtQJ8KomyLqjMKvtH9rM"
       },
@@ -12598,6 +12838,24 @@
       "duration_ms": 165709,
       "name": "quasi nuda",
       "url": "https://open.spotify.com/track/317eSzpK6SiEUiqTtke6Jk"
+    },
+    {
+      "album": {
+        "name": "quattromura",
+        "url": "https://open.spotify.com/album/4KGLhIGCxnUmMRFoaYcLfW"
+      },
+      "artists": [
+        {
+          "name": "FEM",
+          "url": "https://open.spotify.com/artist/0cgIiW8HxDNLBiV8FPwdrB"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140910,
+      "name": "quattromura",
+      "url": "https://open.spotify.com/track/3eJRZlhj7aZENW8DP7puVu"
     },
     {
       "album": {
@@ -13748,6 +14006,24 @@
       "duration_ms": 216455,
       "name": "settimane",
       "url": "https://open.spotify.com/track/48wDQ3udjnszx2plJQjxuW"
+    },
+    {
+      "album": {
+        "name": "Sguardi",
+        "url": "https://open.spotify.com/album/1J5NcSEyaZH6AgpYRLG31h"
+      },
+      "artists": [
+        {
+          "name": "Kouya",
+          "url": "https://open.spotify.com/artist/0icGONLdXBBiKokkONKRVK"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192517,
+      "name": "Sguardi",
+      "url": "https://open.spotify.com/track/2dOFevGLS1KE3g968ofyAC"
     },
     {
       "album": {
@@ -15537,6 +15813,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Selton",
+          "url": "https://open.spotify.com/artist/3MR638pug3LlFmzFGAzjTl"
+        },
+        {
+          "name": "Gaia",
+          "url": "https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198440,
+      "name": "Tudo Bem",
+      "url": "https://open.spotify.com/track/0JU4UYEQ6ODrVG0N8bwRLf"
+    },
+    {
+      "album": {
         "name": "Tuffo ad angelo",
         "url": "https://open.spotify.com/album/2kyW0TlpmYGmWLJQpvLw0t"
       },
@@ -16484,7 +16782,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 165194,
       "name": "zenit",
       "url": "https://open.spotify.com/track/0Xj196mmvLILopHMSN20S1"

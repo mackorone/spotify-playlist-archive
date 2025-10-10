@@ -1,12 +1,12 @@
 {
   "description": "This is Avril Lavigne. The essential tracks, all in one playlist.",
-  "num_followers": 744956,
+  "num_followers": 744977,
   "original_name": "This Is Avril Lavigne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aORYAAAAAAArEH9B1nF4o+5zyioLZMxt",
+  "snapshot_id": "aOWpgAAAAADZXKCTPLGRZLblvuqcA8En",
   "tracks": [
     {
       "added_at": null,
@@ -510,15 +510,11 @@
         {
           "name": "Avril Lavigne",
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        },
-        {
-          "name": "Chad Kroeger",
-          "url": "https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin"
         }
       ],
-      "duration_ms": 267973,
-      "name": "Let Me Go (feat. Chad Kroeger)",
-      "url": "https://open.spotify.com/track/2o0V0AATmWmCmMOAFWDuEV"
+      "duration_ms": 196253,
+      "name": "Hello Kitty",
+      "url": "https://open.spotify.com/track/5eo5uGyM4q70CLU3LZphfu"
     },
     {
       "added_at": null,
@@ -582,11 +578,15 @@
         {
           "name": "Avril Lavigne",
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        {
+          "name": "Chad Kroeger",
+          "url": "https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin"
         }
       ],
-      "duration_ms": 196253,
-      "name": "Hello Kitty",
-      "url": "https://open.spotify.com/track/5eo5uGyM4q70CLU3LZphfu"
+      "duration_ms": 267973,
+      "name": "Let Me Go (feat. Chad Kroeger)",
+      "url": "https://open.spotify.com/track/2o0V0AATmWmCmMOAFWDuEV"
     },
     {
       "added_at": null,

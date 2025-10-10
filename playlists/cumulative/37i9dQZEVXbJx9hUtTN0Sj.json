@@ -698,7 +698,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-08",
+      "date_removed": null,
       "duration_ms": 146666,
       "name": "4 Raws",
       "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
@@ -2433,6 +2433,28 @@
     },
     {
       "album": {
+        "name": "De 3 Biggetjes De Musical",
+        "url": "https://open.spotify.com/album/6FphadIB2qrxNm7OTAzHob"
+      },
+      "artists": [
+        {
+          "name": "De 3 Biggetjes",
+          "url": "https://open.spotify.com/artist/37NmllzfeI9012r2OE7F6U"
+        },
+        {
+          "name": "K3",
+          "url": "https://open.spotify.com/artist/1eZrOVQ8ady3sDTNdG9E4D"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210506,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/3Q2sZ6NEOCwkAWHMyad84R"
+    },
+    {
+      "album": {
         "name": "Popolari",
         "url": "https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp"
       },
@@ -2496,7 +2518,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 134643,
       "name": "Andere Niveau",
       "url": "https://open.spotify.com/track/3XonaIpRmNAxmbjZgTTvSy"
@@ -4156,7 +4178,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 305032,
       "name": "Bass Go",
       "url": "https://open.spotify.com/track/5uzDTJpmseicKPwzB9q5VG"
@@ -8225,6 +8247,24 @@
     },
     {
       "album": {
+        "name": "Claw Marks",
+        "url": "https://open.spotify.com/album/1JsIasZxVekW4ka0C3scps"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155537,
+      "name": "Claw Marks",
+      "url": "https://open.spotify.com/track/1QFEiyVA7zwNeIXbhdafAF"
+    },
+    {
+      "album": {
         "name": "Meet The Lilithz",
         "url": "https://open.spotify.com/album/4zt5xMdHGm4BcNURi2YmW5"
       },
@@ -8276,7 +8316,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-06",
+      "date_removed": null,
       "duration_ms": 150591,
       "name": "Clefs de sol",
       "url": "https://open.spotify.com/track/3HXwxBecmkfyvM2n6t62QX"
@@ -14750,7 +14790,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 170880,
       "name": "GO!",
       "url": "https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc"
@@ -16906,6 +16946,24 @@
       "duration_ms": 227239,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
+    },
+    {
+      "album": {
+        "name": "How Do You Do",
+        "url": "https://open.spotify.com/album/6qqqNQad2EdGjxJon21DxC"
+      },
+      "artists": [
+        {
+          "name": "The Infamous",
+          "url": "https://open.spotify.com/artist/5AhNxN49kLHc9ry5GkMs09"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143624,
+      "name": "How Do You Do",
+      "url": "https://open.spotify.com/track/3BlHcmJ9ii6OCweTceTPOf"
     },
     {
       "album": {
@@ -19129,6 +19187,24 @@
     },
     {
       "album": {
+        "name": "Tele-Romeo",
+        "url": "https://open.spotify.com/album/3abZNRPx2X46ndyzMGdF85"
+      },
+      "artists": [
+        {
+          "name": "K3",
+          "url": "https://open.spotify.com/artist/1eZrOVQ8ady3sDTNdG9E4D"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205346,
+      "name": "Je Hebt Een Vriend",
+      "url": "https://open.spotify.com/track/36TSFUKlIfhopUY5VH3nmr"
+    },
+    {
+      "album": {
         "name": "Sains et saufs",
         "url": "https://open.spotify.com/album/1M3DBg5gnXZB4P80Iagl01"
       },
@@ -19718,6 +19794,24 @@
       "duration_ms": 168504,
       "name": "Keep Going Back to You",
       "url": "https://open.spotify.com/track/1WkhgWwNvLDfxz05nlcaCj"
+    },
+    {
+      "album": {
+        "name": "Shadows & Soul",
+        "url": "https://open.spotify.com/album/1PihbFD5ixzRI790bozyzx"
+      },
+      "artists": [
+        {
+          "name": "Enlly Blue",
+          "url": "https://open.spotify.com/artist/28W1qq34TByUcLOtkceRxp"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161880,
+      "name": "Keep On Boogiin'",
+      "url": "https://open.spotify.com/track/6ex416TNMpk4GwcOTd71Ys"
     },
     {
       "album": {
@@ -21170,7 +21264,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 192092,
       "name": "Lekker Ding, Dit Is Je Verjaardag",
       "url": "https://open.spotify.com/track/6gnSMiZPMa0uEyn6nEfOH0"
@@ -23480,7 +23574,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 156943,
       "name": "Make Me Feel x No Broke Boys",
       "url": "https://open.spotify.com/track/4KaxL1Q2s5jC8cHO3AprSc"
@@ -28732,7 +28826,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 168275,
       "name": "Original Don",
       "url": "https://open.spotify.com/track/3jzXUnJxAG8Yqj9IVR8RZx"
@@ -32023,6 +32117,24 @@
     },
     {
       "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Rottweiler",
+      "url": "https://open.spotify.com/track/7mcxFbFdnFFbWwPflgqqKE"
+    },
+    {
+      "album": {
         "name": "Round and Round",
         "url": "https://open.spotify.com/album/1hY7Y3CqSIE8QhYNpQ3jgX"
       },
@@ -32984,7 +33096,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-09",
+      "date_removed": null,
       "duration_ms": 124000,
       "name": "SEMPERO - Slowed",
       "url": "https://open.spotify.com/track/54veCY5M8Y9k92idKlJZ44"
@@ -38768,7 +38880,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-03",
+      "date_removed": null,
       "duration_ms": 184773,
       "name": "Trouwen",
       "url": "https://open.spotify.com/track/37Qz85BgJQ0L5QfXNp2AT9"
@@ -40666,7 +40778,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 239576,
       "name": "Waarom ben ik zo destructief?",
       "url": "https://open.spotify.com/track/0TruVA2IBhHlicWv1RckIy"
@@ -41296,7 +41408,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
@@ -41750,7 +41862,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 171008,
       "name": "Where Have You Been (Orchestra)",
       "url": "https://open.spotify.com/track/38iBHhjHpRTkIlAW9IeAdZ"
@@ -42868,7 +42980,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 133236,
       "name": "you broke my heart",
       "url": "https://open.spotify.com/track/1j1shw1drvJCIlOXEZY9BD"

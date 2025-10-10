@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop co-curada por Vizinhos",
+  "description": "Uma playlist de pura alma pop! Foto: Diogo Pi\u00e7arra, Bandidos do Cante",
   "name": "Pop PT",
   "tracks": [
     {
@@ -1136,7 +1136,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 198453,
       "name": "Chumbo da Maria",
       "url": "https://open.spotify.com/track/1HH6XW60EYyp2n5PEnEW2a"
@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 150357,
       "name": "C\u00e9u de Jasmim",
       "url": "https://open.spotify.com/track/6mIRDRUNImoheHxpexr5qx"
@@ -2447,6 +2447,24 @@
     },
     {
       "album": {
+        "name": "Eu Vou Estar Aqui",
+        "url": "https://open.spotify.com/album/0hSZS39PhwxqSMCTsdW8IS"
+      },
+      "artists": [
+        {
+          "name": "Excesso",
+          "url": "https://open.spotify.com/artist/0D7DHoP1NH76HwLb4pWFKW"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163764,
+      "name": "Eu Vou Estar Aqui",
+      "url": "https://open.spotify.com/track/7F1LSrJYxdVgc7VakwZLTI"
+    },
+    {
+      "album": {
         "name": "Faz Bem",
         "url": "https://open.spotify.com/album/1TW06h2SedE0SrfFXK7QHo"
       },
@@ -2502,7 +2520,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 230500,
       "name": "Fazer Can\u00e7\u00f5es",
       "url": "https://open.spotify.com/track/5FDj1pq7uUxb2ybigKX1Qp"
@@ -2896,6 +2914,28 @@
       "duration_ms": 257280,
       "name": "Hist\u00f3ria Mal Contada",
       "url": "https://open.spotify.com/track/2uYq9JBLYmrLLJVO37Pend"
+    },
+    {
+      "album": {
+        "name": "Hoje eu vi o Mundo",
+        "url": "https://open.spotify.com/album/0gNwToU5Q32Ftr390wdWwj"
+      },
+      "artists": [
+        {
+          "name": "Miguel Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0A1fXDw6kferKgLY4UMxNi"
+        },
+        {
+          "name": "Jo\u00e3o S\u00f3",
+          "url": "https://open.spotify.com/artist/3iDVVJyqrMCzLkV5s4x1he"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265750,
+      "name": "Hoje eu vi o Mundo",
+      "url": "https://open.spotify.com/track/4Pay0YqbgxSqJgZBrEGkks"
     },
     {
       "album": {
@@ -4197,6 +4237,24 @@
     },
     {
       "album": {
+        "name": "O Sol Sangra",
+        "url": "https://open.spotify.com/album/4AfScAWMMdGMPVPy5A8SVl"
+      },
+      "artists": [
+        {
+          "name": "Amor Perdido",
+          "url": "https://open.spotify.com/artist/7b29iPYABQwrw9x4WDT7zs"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101599,
+      "name": "O Sol Sangra",
+      "url": "https://open.spotify.com/track/5bnpbLonAjSXl0npflo8iq"
+    },
+    {
+      "album": {
         "name": "O teu cheiro",
         "url": "https://open.spotify.com/album/0Lu1PFWRcRF8hthAnklvlN"
       },
@@ -4626,7 +4684,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 167012,
       "name": "Planeta",
       "url": "https://open.spotify.com/track/0r1WiGIHk8ys95AvbqCbwW"
@@ -5152,7 +5210,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 148311,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/1j4kYsMuewIYAYqtKfyTwj"
@@ -5334,6 +5392,24 @@
       "duration_ms": 204507,
       "name": "Saltamos Daqui!",
       "url": "https://open.spotify.com/track/1OootyYFdPXCTqkW4ZBmbP"
+    },
+    {
+      "album": {
+        "name": "Santa",
+        "url": "https://open.spotify.com/album/6YhpLTkiukZuaBakQkdMfa"
+      },
+      "artists": [
+        {
+          "name": "Mimicat",
+          "url": "https://open.spotify.com/artist/7tTVBmiE9WeEDQdW3Q0Wn6"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152366,
+      "name": "Santa",
+      "url": "https://open.spotify.com/track/2FgjjNgPHjlqsrAfooIQei"
     },
     {
       "album": {
@@ -5606,7 +5682,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 227427,
       "name": "Sentir o Sol",
       "url": "https://open.spotify.com/track/0gxPb4HXzKje9pUg8VhbGG"
@@ -6133,6 +6209,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00eds Fialho",
+          "url": "https://open.spotify.com/artist/4Lr60NzAgOmvj1HS4kFGd8"
+        },
+        {
+          "name": "In\u00eas de Vasconcellos",
+          "url": "https://open.spotify.com/artist/38LLnLrfME2OCNaqPKAB7f"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/3TAtUFZ4wLgh6jDmemLQa5"
+    },
+    {
+      "album": {
         "name": "Festival da Can\u00e7\u00e3o 2025",
         "url": "https://open.spotify.com/album/6VHtVgnrzrBLMNyYaHkpSu"
       },
@@ -6170,6 +6268,28 @@
       "duration_ms": 233508,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/3pXyAh3uYKEehDa6EcHRI8"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Diogo Pi\u00e7arra",
+          "url": "https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf"
+        },
+        {
+          "name": "Bandidos do Cante",
+          "url": "https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203400,
+      "name": "Tu e Eu (com Bandidos do Cante)",
+      "url": "https://open.spotify.com/track/2qKvjnvUzkRnN6KMI24ror"
     },
     {
       "album": {
@@ -6276,7 +6396,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 228386,
       "name": "Um dia hei de voltar (feat. Bandidos do Cante)",
       "url": "https://open.spotify.com/track/5vSVyVnkuv3wCNWwg81tHW"
@@ -6490,6 +6610,24 @@
       "duration_ms": 226758,
       "name": "\u00c9 O Que \u00c9",
       "url": "https://open.spotify.com/track/1cmRRx68ZuTNcw7jm6M8Pk"
+    },
+    {
+      "album": {
+        "name": "\u00c9s S\u00f3 Tu",
+        "url": "https://open.spotify.com/album/7j7Wms0KNvccZAR7LQbUaz"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174174,
+      "name": "\u00c9s S\u00f3 Tu",
+      "url": "https://open.spotify.com/track/6iPtPVekBPpDc3okcrpreo"
     },
     {
       "album": {

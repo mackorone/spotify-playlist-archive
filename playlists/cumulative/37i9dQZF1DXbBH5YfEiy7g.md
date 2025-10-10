@@ -4,7 +4,7 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Canaan Nyathi
 
-191 songs - 20 hr 27 min
+192 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Thath'Indawo \(Live\)](https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 7:55 | 2024-10-04 |  |
 | [Thato Ya Hao \- Live](https://open.spotify.com/track/5GCgGHvpspY0QmFuMeaIvW) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 3:54 | 2024-10-04 |  |
 | [Thulungakhali](https://open.spotify.com/track/0bPE6VOWoQ69OpmCtPek8M) | [Ikhona](https://open.spotify.com/artist/56tDpXsWbtHowCzQxqurvW), [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Thulungakhali](https://open.spotify.com/album/4ttNmn9gKQm0m7jjadtyLE) | 5:46 | 2024-10-11 |  |
+| [Tshepo Ya Lefatshe](https://open.spotify.com/track/0r9SsIPTibFOQ6r6tPfcte) | [Lebo Elle Tisane](https://open.spotify.com/artist/5OjmAYpmIb99cv5HC7Rwkt) | [In Season](https://open.spotify.com/album/1yax3wDYJRlKUgOZhDGJZZ) | 5:07 | 2025-10-10 |  |
 | [Ujesu Ulidwala](https://open.spotify.com/track/77zsgriq7B4e9pYQn0rGC5) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [HYMNS OF FAITH IN ZION](https://open.spotify.com/album/35XmpyoZg5UcVkKRBc1xTl) | 6:39 | 2025-04-11 | 2025-08-08 |
 | [UJesu ULidwala \- Live](https://open.spotify.com/track/7LamEiavI6OfgyAmyI15CH) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [UJesu ULidwala \(Live\)](https://open.spotify.com/album/6Rfh86XAPnqbZnd7Mr2ptJ) | 6:39 | 2025-01-03 | 2025-03-28 |
 | [Ukholo Lwam \(A Song of Hope\)](https://open.spotify.com/track/2dKn2FL2h5quCnyE9ccxiy) | [Intimate Worshippers](https://open.spotify.com/artist/6cyrALoaNZdARL3FtcT1TG) | [Ukholo Lwam \(A Song of Hope\)](https://open.spotify.com/album/4KXmXlnwjO8xJvKLC0fBOf) | 4:12 | 2024-10-04 |  |
@@ -186,7 +187,7 @@
 | [Wahalalela \- Live](https://open.spotify.com/track/20dvrEZcV61nOpQrgKZTZc) | [TSHEPO LEBEPE](https://open.spotify.com/artist/06PQeyGH37N3e3SAxwJ3LG) | [Wahalalela \(Live\)](https://open.spotify.com/album/2bzH6DMsp2XeUBRXhfJtNX) | 6:40 | 2025-03-07 | 2025-04-11 |
 | [Wakhazimula \- Live](https://open.spotify.com/track/7FfwSYKinjefexPoH8XSrm) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Wakhazimula \(Live\)](https://open.spotify.com/album/7G9ZPEePMWoWw4ZXcWc1hg) | 8:07 | 2024-10-11 |  |
 | [Wakrazulwa](https://open.spotify.com/track/7F1CiwICZMraSDwsRgs2wu) | [JTG Gospel Choir](https://open.spotify.com/artist/0GyDw1zJL0JJogWrT7Z7Ht), [Kholeka](https://open.spotify.com/artist/37dSM8Vh8aCBAhqGCVIfmy) | [Wakrazulwa](https://open.spotify.com/album/1ibKvJT9iJDd9E047ceYGp) | 3:20 | 2024-10-11 | 2024-11-15 |
-| [Wangethula \(Live\)](https://open.spotify.com/track/1xIoMAWdjcIKhz2WSsqtEW) | [Nozipho Phiri](https://open.spotify.com/artist/7oG0byeE7vcitDrgbH2LVo) | [Wangethula \(Live\)](https://open.spotify.com/album/0QemxNOpo2FmgChieTkrfJ) | 8:40 | 2025-06-27 |  |
+| [Wangethula \(Live\)](https://open.spotify.com/track/1xIoMAWdjcIKhz2WSsqtEW) | [Nozipho Phiri](https://open.spotify.com/artist/7oG0byeE7vcitDrgbH2LVo) | [Wangethula \(Live\)](https://open.spotify.com/album/0QemxNOpo2FmgChieTkrfJ) | 8:40 | 2025-06-27 | 2025-10-10 |
 | [Wash'Umlilo](https://open.spotify.com/track/1cpEKqRRI4O7U5tQyS1DeC) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71) | [The Grace Encounter, Vol\. 1](https://open.spotify.com/album/64aG7RnhvozvS4OezWOljc) | 6:15 | 2025-08-01 | 2025-08-06 |
 | [We Need Revival \(Medley\) \[Live\]](https://open.spotify.com/track/1Ry5TY3JvJXodMzupCdMuV) | [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ), [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [We Need Revival \(Medley\) \[Live\]](https://open.spotify.com/album/6dOtsPFsoEgXpdbNqaIYKW) | 15:00 | 2025-08-01 | 2025-08-06 |
 | [Wenzile \- Live](https://open.spotify.com/track/2wQEpdV8eh06s1H5OSGhLv) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 22: All For You \(Live\)](https://open.spotify.com/album/1V8rJMpD0XtsBBCgAC4uU3) | 8:38 | 2024-10-11 |  |

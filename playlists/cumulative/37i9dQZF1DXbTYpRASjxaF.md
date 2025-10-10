@@ -4,7 +4,7 @@
 
 > todos pro alto, cada um com o seu\. Foto: KayG, Vulgo FK
 
-530 songs - 1 day 3 hr 17 min
+531 songs - 1 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Nós Só Porta Oakley](https://open.spotify.com/track/0jUsCmDG995TQLkSHlWsJ0) | [MC KTRINE](https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283), [VENERÁ](https://open.spotify.com/artist/6XBVnm9XV4snmI8dPIRqAd) | [Nós Só Porta Oakley](https://open.spotify.com/album/4EvFmKpsBtTBwNjsoAyqcl) | 2:14 | 2025-03-21 | 2025-07-04 |
 | [Nós É Rei Não Tem Jeito](https://open.spotify.com/track/2aViQD0rtoLGdrEp8iKLnr) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Fontalis / Nós É Rei Não Tem Jeito](https://open.spotify.com/album/1zdNrq0tgTQLNFohKDBXQl) | 1:31 | 2023-12-08 | 2024-02-17 |
 | [Números da Sorte](https://open.spotify.com/track/6UrFzZHrL84mjVnZHiQICM) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [É Quem?](https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL) | 2:50 | 2023-09-15 | 2024-03-30 |
+| [O Dono da Madrugada](https://open.spotify.com/track/4dyyzyya4tpauvpHvRK7aN) | [Akashi Cruz](https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2) | [O Rei da Vibe](https://open.spotify.com/album/2c9jdnVblDS8gQDVPZAezo) | 2:12 | 2025-10-10 |  |
 | [O Papai Ta Bonitão, Vou Pagar Copão](https://open.spotify.com/track/4wqPKwpCOxaN4wrMRhAzfq) | [dj 2c](https://open.spotify.com/artist/1j5TEZgx2zKhozCDfwbny1), [Mc Marofa](https://open.spotify.com/artist/1ZFKFuRNWGcRL4bHEmWVAe), [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d) | [O Papai Ta Bonitão, Vou Pagar Copão](https://open.spotify.com/album/1zzKZPrb8lp3p7n5zw5mIT) | 3:38 | 2022-03-18 | 2022-06-18 |
 | [O Que Você Quer?](https://open.spotify.com/track/5HdpRBA7H8i2dNHAY7aslT) | [Shoy](https://open.spotify.com/artist/3qGnDZ8BHEsA9Go8ui3RUJ), [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP) | [Rico Bem Novin](https://open.spotify.com/album/5vGJ6Mgt5MWj5Y0ZXc0QJF) | 3:03 | 2022-07-04 | 2022-08-27 |
 | [O Último Romântico Online \(feat\. Pedro Lotto & Wey\)](https://open.spotify.com/track/4yzSTxcOIaCbEdtM4KwJ1W) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [O Último Romântico Online](https://open.spotify.com/album/5J2k1X6ezNvPGwchhujAA4) | 3:50 | 2023-05-26 | 2024-07-27 |

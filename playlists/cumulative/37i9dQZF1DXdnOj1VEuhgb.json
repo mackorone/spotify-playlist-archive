@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Keskin",
+  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: UZI x Modd",
   "name": "NKVT",
   "tracks": [
     {
@@ -390,6 +390,28 @@
       "duration_ms": 160000,
       "name": "Abi",
       "url": "https://open.spotify.com/track/3PvejbwsK0P1ksknZMOJV0"
+    },
+    {
+      "album": {
+        "name": "ABKB",
+        "url": "https://open.spotify.com/album/7kIqFAbOWkTodElNoG9wBn"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        },
+        {
+          "name": "Modd",
+          "url": "https://open.spotify.com/artist/3nJwTniwCxDrgoVKeqIWoT"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172820,
+      "name": "ABKB",
+      "url": "https://open.spotify.com/track/5rzK4eeJMgbFCed9wF4250"
     },
     {
       "album": {
@@ -2802,7 +2824,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 154746,
       "name": "Cehennemde Bi G\u00f6lge",
       "url": "https://open.spotify.com/track/4jSbPbS2kSwJ57iFNUJvr0"
@@ -4644,7 +4666,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 99697,
       "name": "gATU",
       "url": "https://open.spotify.com/track/04UIlDvGV2abFmqIUH5N5M"
@@ -13671,6 +13693,24 @@
     },
     {
       "album": {
+        "name": "Utan\u0131yorum",
+        "url": "https://open.spotify.com/album/3KGwr0TZWzFj8ZzSAAKJ0A"
+      },
+      "artists": [
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "date_added": "2025-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178537,
+      "name": "Utan\u0131yorum",
+      "url": "https://open.spotify.com/track/3AqjZObCGu7ZEftAfFpIkp"
+    },
+    {
+      "album": {
         "name": "Uyan",
         "url": "https://open.spotify.com/album/5LSMFq0J0UjPXcYMEs6Ph3"
       },
@@ -14222,7 +14262,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 151875,
       "name": "Yang\u0131na D\u00fc\u015fen",
       "url": "https://open.spotify.com/track/5klh1I4L0hAndPNCArmSBk"

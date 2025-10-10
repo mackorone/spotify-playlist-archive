@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-870 songs - 1 day 22 hr 45 min
+871 songs - 1 day 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -875,6 +875,7 @@
 | [You Lately](https://open.spotify.com/track/6vL2NVGXWg3KZXfeRXNtVy) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ) | [You Lately](https://open.spotify.com/album/4QjsHYzsVdcjvmlzY3HaaQ) | 3:07 | 2019-08-27\* | 2019-11-11 |
 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 | 2019-08-27\* | 2019-11-11 |
 | [you were mine](https://open.spotify.com/track/546JgeDaffKxYAt6K4U3o0) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [you were mine](https://open.spotify.com/album/39ju9X6Fk0OXi3TMtPdCwN) | 3:41 | 2025-08-27 |  |
+| [You You You](https://open.spotify.com/track/0kHP8fxSPNPP40kRHtnfLB) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You You You / Audrey Hepburn](https://open.spotify.com/album/2IHW6rf6xGNhT1HuMEG5Pu) | 2:46 | 2025-10-09 |  |
 | [you're a liar \(you love me\)](https://open.spotify.com/track/1LI8rDhxrRe9iQLECjntwG) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [you're a liar \(you love me\)](https://open.spotify.com/album/3kpCZBJAjvZn4UihCRDdxi) | 2:54 | 2025-02-07 |  |
 | [Young & Alive](https://open.spotify.com/track/5RsKelNxucrDxgMbZ3vd3W) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Young & Alive](https://open.spotify.com/album/4UoEi8sYhfBkFEkvZDfb74) | 2:40 | 2020-03-06 | 2021-05-12 |
 | [Zombie \(feat\. LAUF\)](https://open.spotify.com/track/4QmTyWBkweHWUCyrBl8n7l) | [We Said](https://open.spotify.com/artist/7ECRPQYavYtQFH6gprw7YY), [LAUF](https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD) | [Zombie \(feat\. LAUF\)](https://open.spotify.com/album/0g0KAy1S6lLxbL84HL6C6V) | 2:38 | 2021-09-24 | 2025-07-17 |

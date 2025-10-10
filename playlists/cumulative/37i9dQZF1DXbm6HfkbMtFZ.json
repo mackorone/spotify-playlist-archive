@@ -7217,6 +7217,24 @@
     },
     {
       "album": {
+        "name": "Solutions",
+        "url": "https://open.spotify.com/album/4q9A3cL36zeDi0gd9TCHlh"
+      },
+      "artists": [
+        {
+          "name": "Greenflow",
+          "url": "https://open.spotify.com/artist/2GAuYKmCqyuXZ7jcNc686N"
+        }
+      ],
+      "date_added": "2025-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278320,
+      "name": "No Other Life Without You",
+      "url": "https://open.spotify.com/track/6ngTPAGDzh4askJ13dCaQJ"
+    },
+    {
+      "album": {
         "name": "Northern Lights",
         "url": "https://open.spotify.com/album/0RvAK6H7VXlTrgoUJ6HlSI"
       },
@@ -9356,7 +9374,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 227293,
       "name": "Soulless Friends",
       "url": "https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg"

@@ -2863,6 +2863,24 @@
     },
     {
       "album": {
+        "name": "In Season",
+        "url": "https://open.spotify.com/album/1yax3wDYJRlKUgOZhDGJZZ"
+      },
+      "artists": [
+        {
+          "name": "Lebo Elle Tisane",
+          "url": "https://open.spotify.com/artist/5OjmAYpmIb99cv5HC7Rwkt"
+        }
+      ],
+      "date_added": "2025-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307697,
+      "name": "Tshepo Ya Lefatshe",
+      "url": "https://open.spotify.com/track/0r9SsIPTibFOQ6r6tPfcte"
+    },
+    {
+      "album": {
         "name": "HYMNS OF FAITH IN ZION",
         "url": "https://open.spotify.com/album/35XmpyoZg5UcVkKRBc1xTl"
       },
@@ -3584,7 +3602,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-10",
       "duration_ms": 520882,
       "name": "Wangethula (Live)",
       "url": "https://open.spotify.com/track/1xIoMAWdjcIKhz2WSsqtEW"

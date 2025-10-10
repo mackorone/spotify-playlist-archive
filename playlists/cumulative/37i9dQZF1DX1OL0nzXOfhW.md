@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2025 RADAR登場！持續發掘香港未來新聲！Cover:  Michael C
+> 慶祝全球RADAR 藝人突破 1千，回顧前RADAR 藝人歌曲，以及2025新聲！Cover: moon tang
 
-276 songs - 16 hr 4 min
+278 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [心中那位住客](https://open.spotify.com/track/6hgwn1nNPk8E8tEeoa6nwU) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [心中那位住客](https://open.spotify.com/album/0DveyseX1wZXbWiWKWqLJm) | 4:12 | 2025-04-10 |  |
 | [惡作劇完成](https://open.spotify.com/track/3WDXsnzbshvwHfZcQDFD8z) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [惡作劇完成](https://open.spotify.com/album/63JmXQrdYEUKJ2ANiT36L4) | 3:42 | 2022-11-24 | 2023-04-14 |
 | [想 Want](https://open.spotify.com/track/505eClzHVGgNy4AUGdjTdW) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [想 Want](https://open.spotify.com/album/5TzRmcWH06BWAdhAA9StBX) | 4:21 | 2024-06-27 | 2025-03-28 |
-| [愚公](https://open.spotify.com/track/1TDSH2KWVEz9vH1WVPG1oZ) | [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1) | [愚公](https://open.spotify.com/album/7pe44sSuFZQsuHB2M4EWiC) | 3:47 | 2025-03-27 |  |
+| [愚公](https://open.spotify.com/track/1TDSH2KWVEz9vH1WVPG1oZ) | [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1) | [愚公](https://open.spotify.com/album/7pe44sSuFZQsuHB2M4EWiC) | 3:47 | 2025-03-27 | 2025-10-10 |
 | [愛已過去](https://open.spotify.com/track/753l3KVLgAqD53c45xELdI) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [愛已過去](https://open.spotify.com/album/1YvaAkHpA402aSMUSGH9QN) | 5:13 | 2023-12-28 | 2024-03-29 |
 | [慢半拍](https://open.spotify.com/track/1eFbcn9JmUe57fwf6MZL01) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [FLANDERS](https://open.spotify.com/album/7kxIzybDHMVhyvFLTVFqki) | 3:48 | 2023-12-14 | 2025-03-28 |
 | [憑實力單身](https://open.spotify.com/track/4vTrVuUu1WKna22qQaKgK4) | [Aiden Hung 洪助昇](https://open.spotify.com/artist/7GkuBhIVejk4CThUIuW392) | [憑實力單身](https://open.spotify.com/album/4bvYTZJ2yqZ53ZDFemidF7) | 3:17 | 2023-04-13 | 2024-03-29 |
@@ -241,6 +241,7 @@
 | [沉積岩](https://open.spotify.com/track/7abzorNnx5iI2r4Q7Ash9V) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [沉積岩](https://open.spotify.com/album/5Fq40jwqBSAtUJpLkp4BLe) | 3:33 | 2024-03-28 | 2024-12-20 |
 | [沉船仔](https://open.spotify.com/track/4GKz6m57hsGpIA9IsKZwyX) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws), [Fylo](https://open.spotify.com/artist/4nmGhKCt70kDNlgUhNHkCx) | [沉船仔](https://open.spotify.com/album/6P9x2W060BFSpLFXxZKt6H) | 2:35 | 2025-03-27 |  |
 | [沒有送出的詩](https://open.spotify.com/track/5qLNCttpNjUaDoTsfryRuV) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [沒有送出的詩](https://open.spotify.com/album/5gBZE79vF92KOaTFFpopCd) | 3:30 | 2025-03-27 |  |
+| [浪漫致死](https://open.spotify.com/track/374W8rmTZqcf7UTqpgVGcY) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws) | [浪漫致死](https://open.spotify.com/album/5IfCa02BJLNx9Nzg91UNBr) | 2:51 | 2025-10-09 |  |
 | [海連茶樓](https://open.spotify.com/track/6t4eZthvZCgHyQQOlwk2kx) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [海連茶樓](https://open.spotify.com/album/3arbSusbFLL3YRBYU7DuEw) | 3:27 | 2025-03-27 |  |
 | [深山女妖](https://open.spotify.com/track/7ug5EOPE3Wql5P1uw4gBM3) | [P.R.O.J.E.C.T\. 9](https://open.spotify.com/artist/5vXHFDWT0spUFXucafkyV7), [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m), [Micol](https://open.spotify.com/artist/6sjrXwjrI7oTl73bClCKER) | [深山女妖](https://open.spotify.com/album/6kk0062rrDQoskoXG34PqX) | 4:28 | 2023-06-22 | 2024-03-29 |
 | [深水埗](https://open.spotify.com/track/26OsQ62m0ETrCQ7Dby7EVg) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [深水埗](https://open.spotify.com/album/6OuKUVx3AM5Fjz4dluR2mM) | 2:00 | 2022-05-26 | 2023-04-14 |
@@ -276,6 +277,7 @@
 | [距離](https://open.spotify.com/track/4jxVPx9LaVbEtJlWTUcqQ1) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [距離](https://open.spotify.com/album/2LzTqzNDP0u9Fh84oF6dE8) | 4:22 | 2022-05-26 | 2022-11-25 |
 | [這裡等](https://open.spotify.com/track/0oMRpIiFKeVinsWubA39bv) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [十月八日記](https://open.spotify.com/album/6Ulo2WTKUB1feiJ89URvci) | 3:30 | 2024-03-28 | 2025-03-28 |
 | [遺忘了初心的我們](https://open.spotify.com/track/46Ntxwf4zWxhWHjtqWul6h) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [遺忘了初心的我們](https://open.spotify.com/album/1QLNBeaZlehK6srJjVg7VN) | 4:17 | 2023-09-15 | 2024-03-29 |
+| [還剩多少時間才能把你的臉忘了 \- 橋下十三郎 Demo](https://open.spotify.com/track/3b5H0HY81SpvaOubTILDsL) | [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1) | [C Major](https://open.spotify.com/album/5ISlaZzUVuosWUpU9Uxv9l) | 3:44 | 2025-10-09 |  |
 | [金榜題名](https://open.spotify.com/track/4F65yFSP9lxFf2LKzg3Eis) | [Juno Mak](https://open.spotify.com/artist/6YlGm6QDrC3TOknYcHjt62), [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq), [Mr\. scanner](https://open.spotify.com/artist/4x6hxzjBEIRbQ58VVZ1yYR), [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR), [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM), [24Herbs](https://open.spotify.com/artist/529oXjexAyYU0ApmR7jpMM) | [金榜題名](https://open.spotify.com/album/7cZsfS5lOPux956zjAlSjA) | 8:05 | 2024-01-18 | 2024-03-29 |
 | [長命斜 \(feat\. PetPetShawn & Polar G\)](https://open.spotify.com/track/28tAShSWb3LVHkmjIG2Jbi) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR), [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM), [Polar G](https://open.spotify.com/artist/3uALJGaW8zzDcfuzKftTYL) | [梟](https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls) | 3:34 | 2022-12-29 | 2023-04-14 |
 | [陪我一路漫遊](https://open.spotify.com/track/7cdqe0b8SqKmnIgjdyd8wE) | [Rover](https://open.spotify.com/artist/7chGhfZr3Es6GiMqJ55bcB) | [陪我一路漫遊](https://open.spotify.com/album/73lCZhrasUVaFCP0V0Ixh6) | 4:12 | 2025-03-27 |  |

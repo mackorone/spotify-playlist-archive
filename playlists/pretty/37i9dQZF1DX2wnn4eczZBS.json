@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Sophie Straat",
-  "num_followers": 10889,
+  "num_followers": 10891,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2025-10-07 10:44:50",
       "album": {
+        "name": "v2.025",
+        "url": "https://open.spotify.com/album/1UVFHFPXrnPXiLR7bOTiFZ"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "duration_ms": 211264,
+      "name": "VOL v2.025",
+      "url": "https://open.spotify.com/track/61pq3uXW7ybCgWxBi4iAGY"
+    },
+    {
+      "added_at": "2025-10-07 10:44:50",
+      "album": {
         "name": "Souvenir (met Pensioen)",
         "url": "https://open.spotify.com/album/7rcSGIx6an8qnUeUhF5lcy"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 185062,
       "name": "Souvenir (met Pensioen)",
       "url": "https://open.spotify.com/track/3S3ErXJ5NIbI2QDYVzS4vq"
-    },
-    {
-      "added_at": "2025-10-07 10:44:50",
-      "album": {
-        "name": "v2.025",
-        "url": "https://open.spotify.com/album/1UVFHFPXrnPXiLR7bOTiFZ"
-      },
-      "artists": [
-        {
-          "name": "MEROL",
-          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
-        }
-      ],
-      "duration_ms": 211263,
-      "name": "VOL v2.025",
-      "url": "https://open.spotify.com/track/61pq3uXW7ybCgWxBi4iAGY"
     },
     {
       "added_at": "2025-10-07 10:44:50",
@@ -775,26 +775,6 @@
     {
       "added_at": "2025-10-07 10:44:50",
       "album": {
-        "name": "Het Is Nog Niet Te Laat",
-        "url": "https://open.spotify.com/album/2JS9zAvexCRsygky4eo46n"
-      },
-      "artists": [
-        {
-          "name": "REINDIER",
-          "url": "https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK"
-        },
-        {
-          "name": "Tessa Rose Jackson",
-          "url": "https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ"
-        }
-      ],
-      "duration_ms": 239939,
-      "name": "Het Is Nog Niet Te Laat",
-      "url": "https://open.spotify.com/track/6NHoHofU4Hj5o0YscjmZk1"
-    },
-    {
-      "added_at": "2025-10-07 10:44:50",
-      "album": {
         "name": "Waarom Ik Zo Ben",
         "url": "https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud"
       },
@@ -811,18 +791,22 @@
     {
       "added_at": "2025-10-07 10:44:50",
       "album": {
-        "name": "Doe Het Voor Het Geld",
-        "url": "https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5"
+        "name": "Het Is Nog Niet Te Laat",
+        "url": "https://open.spotify.com/album/2JS9zAvexCRsygky4eo46n"
       },
       "artists": [
         {
-          "name": "NONCHELANGE",
-          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
+          "name": "REINDIER",
+          "url": "https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK"
+        },
+        {
+          "name": "Tessa Rose Jackson",
+          "url": "https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ"
         }
       ],
-      "duration_ms": 190059,
-      "name": "Doe Het Voor Het Geld",
-      "url": "https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P"
+      "duration_ms": 239939,
+      "name": "Het Is Nog Niet Te Laat",
+      "url": "https://open.spotify.com/track/6NHoHofU4Hj5o0YscjmZk1"
     },
     {
       "added_at": "2025-10-07 10:44:50",
@@ -859,6 +843,22 @@
       "duration_ms": 148534,
       "name": "Krijt",
       "url": "https://open.spotify.com/track/43EQUVQgXKeEQ3jivFdE6c"
+    },
+    {
+      "added_at": "2025-10-07 10:44:50",
+      "album": {
+        "name": "Doe Het Voor Het Geld",
+        "url": "https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5"
+      },
+      "artists": [
+        {
+          "name": "NONCHELANGE",
+          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
+        }
+      ],
+      "duration_ms": 190059,
+      "name": "Doe Het Voor Het Geld",
+      "url": "https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P"
     }
   ],
   "unique_name": "indie.nl",
